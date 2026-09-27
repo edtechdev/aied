@@ -44,25 +44,6 @@ The study used an inductive thematic review approach to examine how the role of 
 - **Limited longitudinal evidence.** Most studies capture performance within a single course or short project, so long-term effects of increasing Cognitive Hands-on remain unclear.
 - **Narrow database reliance.** The review primarily used Web of Science and Scopus (ERIC only in scoping), which may have limited comprehensiveness and excluded relevant studies indexed elsewhere.
 
-## Connected Concepts
-
-- [[experiential-learning]] — hands-on practice is grounded in Kolb's cycle of experience, reflection, conceptualization, and action.
-- [[embodied-learning]] — embodied cognition theory explains why material feedback and bodily action support design judgment.
-- [[creativity]] — the paper examines how AI generation, comparison, and revision reshape creative thinking via the creative-cognition framework.
-- [[human-ai-collaboration]] — prompting, generation, selection, and revision constitute the cognitive strand of hands-on learning.
-- [[metacognition]] — students must monitor their own judgment of AI outputs, not merely the outputs themselves.
-- [[design-thinking]] — the study is situated in studio-based design pedagogy and designerly ways of knowing.
-- [[active-learning]] — hands-on participation via action, feedback, and iteration reflects constructivist active engagement.
-- [[pedagogy]] — findings are framed as pedagogical tensions and curriculum design guidance for design education.
-
-## Connected Articles
-
-- [[ai-interior-design-malaysia-2026]] — examines generative AI integration in a design discipline, extending the same design-education context.
-- [[genai-xr-architectural-design-education-2026]] — addresses AI in architectural design education, a primary field within the review corpus.
-- [[ai-agents-constructive-conflict-design-education-2026]] — explores learner–AI interaction and agency in design education.
-- [[ai-personas-fieldwork-experiential-learning-2026]] — investigates AI within experiential, practice-based learning settings.
-- [[genai-usage-design-students-survey]] — surveys design students' actual generative AI use, complementing the review's synthesis.
-
 ## Citation
 
 Yu, J., Liu, L., & Zhu, Q. (2026). [Is hands-on learning still necessary in the age of AI? A thematic review](https://doi.org/10.3389/fpsyg.2026.1897168). *Frontiers in Psychology, 17*, 1897168.

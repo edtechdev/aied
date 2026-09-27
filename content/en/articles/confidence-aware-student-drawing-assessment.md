@@ -38,19 +38,6 @@ page_kind: [evaluation]
 - Models are trained independently for each assessment item, so nothing here shows a single scorer transferring across items or subjects.
 - The confidence metric is validated by a correlation with accuracy (r = 0.649) with expert review still under way, and the zero-shot comparison against Qwen3-VL-8B-Instruct is summarized only as lower agreement with details kept in the project repository.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[k-12]]
-- [[formative-assessment]]
-
-## Connected Articles
-
-- [[cong-confidence-asag-2026]] — Confidence-aware automatic short answer grading
-- [[rubric-aware-grading-rec-cbm]] — REC-CBM: rubric-aware concept bottleneck models for grading
-- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: FERPA-compliant local-LLM autograder
-
 ## Citation
 
 Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., & Zhai, X. (2026). [*Confidence-Aware Automated Assessment of Student-Drawn Scientific Models*](https://arxiv.org/abs/2606.20264). arXiv cs.AI preprint.

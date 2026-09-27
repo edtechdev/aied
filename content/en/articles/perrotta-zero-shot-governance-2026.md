@@ -42,22 +42,6 @@ The article's distinctive contribution is to give a concrete, code-level account
 - The author adopts pragmatic amateurism with no interviews, participant observation, or discourse analysis, so the infrastructural claims are interpretive rather than empirically corroborated.
 - No link is drawn from Redbox outputs to actual policy decisions, so the argument that zero-shot governance produces harmful politics is inferential.
 
-## Connected Concepts
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[generative-ai]]
-- [[llm]]
-- [[agency]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI in higher education
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-
 ## Citation
 
 Perrotta, C. (2026). [Zero-shot governance](https://doi.org/10.1080/02680939.2026.2730191). *Journal of Education Policy*. Advance online publication.

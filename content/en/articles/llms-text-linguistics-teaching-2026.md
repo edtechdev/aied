@@ -42,22 +42,6 @@ audience: [instructors, faculty developers]
 - Prior knowledge of text linguistics was never assessed before the intervention, so the authors cannot rule out that differences in disciplinary knowledge shaped how the pairs evaluated LLM output.
 - The intervention ran with no preliminary prompt-engineering introduction, and the authors note the rapid pace of model development may limit long-term generalizability and reproducibility.
 
-## Connected Concepts
-
-- [[llm]]
-- [[language-learning]]
-- [[prompt-engineering]]
-- [[metacognition]]
-- [[discipline-specific-aied]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[llm-reasoning-traces-metacognition]] — LLM reasoning traces and metacognition
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-authored prompts for student-AI dialogue
-- [[learning-to-prompt-adaptive-tutoring]] — Learning to prompt in adaptive tutoring
-- [[prompt-coach-agentic-tutor-prompt-engineering]] — Prompt coach: agentic tutor for prompt engineering
-
 ## Citation
 
 Brocca, N., & Garassino, D. (2026). [*LLMs in text linguistics teaching: An exploratory study with genAI novices in higher education*](https://doi.org/10.1016/j.caeo.2026.100414). *Computers and Education Open*, 100414. https://doi.org/10.1016/j.caeo.2026.100414

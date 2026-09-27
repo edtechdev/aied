@@ -67,33 +67,6 @@ The limitations are stated plainly and are load-bearing for how the findings sho
 - No human study was run: trust, satisfaction and workflow integration with real analysts were not measured, which is the evidence most needed before analysts are asked to work with these systems.
 - Accuracy was measured on five randomly selected labels per corpus with 500 sampled instances per label, so the reported F1 range describes that subsample rather than every code in the four corpora.
 
-## Connected Concepts
-
-- [[qualitative-research]]
-- [[llm]]
-- [[human-ai-collaboration]]
-- [[human-in-the-loop-ai]]
-- [[research-methods-aied]]
-- [[trust-calibration]]
-- [[limitations-in-aied-research]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[educational-measurement]]
-- [[peer-assessment]]
-- [[bias-mitigation]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth
-- [[human-llm-collaborative-coding-k12-educator-ai]] — Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
-- [[human-vs-llm-ordered-coding]] — Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis
-- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
-- [[llm-judged-helpfulness-pedagogy-signal]] — Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs Do Not Grade Essays Like Humans
-
 ## Citation
 
 Jeongyeon Kim and John Mitchell (2026). [*How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding*](https://arxiv.org/abs/2609.11109). arXiv preprint.

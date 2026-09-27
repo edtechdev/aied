@@ -36,18 +36,6 @@ page_kind: [evaluation]
 - Age imbalance is confounded with development: with 40% of the dataset aged 6–10 and only 25% aged 15–18, the accuracy gradient (87.3% primary to 82.2% high school) cannot be separated from training-distribution effects.
 - Vision-only labels: 10% of "Passive Presence" instances were classified as "Attentive Listening" and 8% of "Disengaged" as "Passive Presence", measured against an expert annotation ceiling of κ = 0.83 on those same categories.
 - Robustness and outcome limits: severe occlusions and persistent extreme non-frontal poses yield unreliable or missing detections, and with no longitudinal outcome data the study demonstrates perceived utility rather than causal classroom impact; the monitoring reaction (Hawthorne effect) was assessed only through indirect evidence.
-## Connected Concepts
-
-- [[affective-computing]]
-- [[learning-analytics]]
-- [[social-emotional-learning]]
-
-## Connected Articles
-
-- [[melo-llm-classroom-observation-teach-2026]] — LLM-based classroom observation and teaching analysis
-- [[precision-education-student-digital-twins-2026]] — precision education and student digital twins
-- [[privacy-aware-classroom-incident-recognition-2026]] — privacy-aware classroom monitoring
-
 ## Citation
 
 Emotion-Aware Classroom Quality Assessment Leveraging IoT-Based Real-Time Student Monitoring](https://www.sciencedirect.com/science/article/pii/S2666920X26000512) — Nguyen, H., Dao, H., Nguyen, H., Vu, N., & Tran, C. (2026). *Computers and Education: Artificial Intelligence*, 11, 100639.

@@ -52,25 +52,6 @@ confidence: high
 - Outcomes were self-perceived rather than measured: the product dimension of the 3P model captured students' own reports of overreliance, complacency and forgetting, not performance data.
 - The sample was intentionally scoped to East Asian educational contexts, and the authors call for large-scale [[quantitative-research|quantitative]] testing and validation in more diverse settings.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[assessment]]
-- [[student-engagement]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[authentic-assessment]]
-
-## Connected Articles
-
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Prompting and cognitive offloading in GenAI-supported learning
-- [[lodge-loble-cognitive-offloading-2026]] — Detrimental versus beneficial cognitive offloading framework
-- [[walton-bearman-assessment-judgment-2025]] — How students work on assessment tasks with GenAI: matters of judgment
-- [[student-ai-conversations-cognitive-engagement-2026]] — Analyzing student–GenAI conversations for cognitive engagement
-- [[ai-tools-academic-work-cheating-2026]] — Student perceptions of AI-assisted academic work as cheating
-
 ## Citation
 
 Yan, W., Cui, Y., Chiu, T. K. F., Nakajima, T., & Kozima, H. (2026). [*From cognitive outsourcing to reallocation: A 3P analysis of student–generative AI engagement in unsupervised assessments*](https://doi.org/10.14742/ajet.11725). *Australasian Journal of Educational Technology*, 42(3), 41–61.

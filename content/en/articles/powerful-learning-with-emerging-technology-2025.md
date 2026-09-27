@@ -16,8 +16,6 @@ page_kind: [framework]
 source_url: https://digitalpromise.org/powerful-learning/powerful-learning-with-emerging-technologies/
 sources: ['raw/papers/powerful-learning-with-emerging-technology-2025.md']
 confidence: high
-connected_resources: [playlab]
-connected_faqs: [designing-ai-into-learning, designing-educational-ai-software]
 contributors: [editor]
 reviewed_by: [editor]
 ai_assist:
@@ -72,17 +70,6 @@ Nothing here is an effect size. The principles were derived from expert opinion 
 - **The expert pool spans the industry.** The publisher describes the interviewees as developers, designers, investors, researchers and practitioners, and the product spotlights are chosen by the publisher from companies in the field, so commercial interests are present in the evidence base even though the spotlights are labeled as illustrations rather than endorsements.
 - **Examples skew toward [[k-12]] products in the United States.** The spotlights are largely school-facing tools from US vendors; the framework's transfer to [[higher-ed|higher education]] and to other educational systems is asserted through the strategies rather than demonstrated with cases.
 - **Guidance is not falsifiable at the level of a strategy.** "Scaffold creativity" and "create opportunities for human connection" name directions for design without specifying thresholds, so two teams can satisfy the wording and build very different products.
-
-## Connected Concepts
-[[learning-design]], [[theories-and-frameworks]], [[ai-literacy]], [[educational-development]], [[agency]], [[metacognition]], [[productive-failure]], [[accessibility]], [[creativity]], [[collaborative-learning]], [[critical-thinking]], [[privacy]], [[explainable-ai]], [[equity-in-ai-education]], [[personalized-learning]], [[multimodal]]
-
-## Connected Articles
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education
-- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
-- [[halani-designing-for-reach-2026]] — Designing for Reach: human-centered design and learner variability
-- [[genai-critical-thinking-k12-design-2026]] — Generative AI and critical thinking in K-12 design
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — Human-centered AI and a metacognitive model of learning with AI
 
 ## Citation
 

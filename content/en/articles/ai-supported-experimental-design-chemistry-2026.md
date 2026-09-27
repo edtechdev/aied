@@ -44,25 +44,6 @@ This complements the knowledge base's framing of [[ai-literacy|critical AI use]]
 - Groups of 4–5 students, forced by laboratory space and equipment limits, meant individuals took part only in assigned steps — as one student put it, during standard solution preparation "only two students could participate, while the others simply waited behind them" — so self-reported confidence may rest on incomplete understanding.
 - All outcomes are self-assessments and focus group perceptions, with no comparison group and no objective measure of experimental design skill.
 
-## Connected Concepts
-
-- [[chemistry-education]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[agency]]
-- [[scaffolding]]
-- [[assessment]]
-
-## Connected Articles
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[unesco-ai-guidelines-chemical-education-2026]] — Translating UNESCO AI guidelines to chemical education
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-
 ## Citation
 
 Yim, K.-H., & Lui, M. Y. (2026). [Supporting undergraduate students' learning in practical chemistry courses through AI-supported experimental design](https://doi.org/10.1021/acs.jchemed.5c01311). *Journal of Chemical Education*, 103(6), 3022–3030.

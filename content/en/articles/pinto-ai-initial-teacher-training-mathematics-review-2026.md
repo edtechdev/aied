@@ -60,25 +60,6 @@ Two typologies emerged. Nine interventions were short-term and embedded in exist
 - Outputs analyzed included formulated problems, problem solutions, and lesson plans, which let researchers connect how the tool was used with what the task produced.
 - Perceptions came from questionnaires, interviews, focus groups, and written reflections, but with one exception these were collected at a single point in time, after the intervention, and sometimes only as satisfaction ratings. The analysis of risks is equally instructive: pre-service teachers failed to notice conceptual errors produced by ChatGPT, accepted generated content uncritically, and delegated more problem solving to the tool as tasks became harder. The authors therefore call for [[professional-training|training]] that runs continuously rather than as an isolated module, with monitoring instruments that follow pre-service teachers through their [[scaffolding|guided to autonomous]] progression, the curricular practicum, and the early years of practice.
 
-## Connected Concepts
-
-- [[meta-analysis-systematic-review]] — the review methodology behind the 11-study synthesis
-- [[teacher-ai-competency]] — the competence base the authors argue training should build
-- [[ai-literacy]] — AI literacy as a progressively developed competency
-- [[tpack]] — technological pedagogical content knowledge used to interpret lesson planning
-- [[prompt-engineering]] — treated as training content in only some interventions
-- [[generative-ai]] — ChatGPT was the tool most frequently used across the studies
-- [[professional-training]] — initial teacher training as sustained professional preparation
-- [[scaffolding]] — progression from guided exploration to autonomous use
-- [[math-education]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[preservice-teachers-responsible-genai-2026]] — Preparing Pre-Service Teachers for Responsible Generative AI Use
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for AI literacy through self-determination theory
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-Integrated LLM Tutoring for Primary School Mathematics
-
 ## Citation
 
 Pinto, F., Rodrigues, R. N., Brito-Costa, S., Costa, C., Gonçalves, S., Pires, N. A., & Martins, F. (2026). [*Artificial intelligence in initial teacher training for pre-service primary school teachers in mathematics: a systematic review*](https://doi.org/10.3389/feduc.2026.1934366).

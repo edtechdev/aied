@@ -39,23 +39,6 @@ page_kind: [evaluation]
 - Multiple faculty graders scored the exam without adjudicated discrepancy resolution, so some AI–faculty disagreement may reflect differences in human grading stringency rather than AI error.
 - The authors note that AI models and their grading behavior change over time, so these accuracy and concordance estimates are tied to the model version tested rather than to AI grading in general.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[medical-education]]
-- [[llm]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[automated-essay-scoring]]
-- [[assessment-validity]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-
-- [[automated-formative-assessments-a-level-sciences]]
-- [[ground-truth-reliability-aied]]
-- [[llm-formative-feedback-systematic-review-2026]]
-
 ## Citation
 
 Falahat, S., Das, J., Bhaumik, D., & Thambi, M. (2026). [Bridging technology and education: The use of ChatGPT in grading pharmacy student exams](https://doi.org/10.1016/j.cptl.2026.102707). *Currents in Pharmacy Teaching and Learning*, 18, 102707.

@@ -57,32 +57,7 @@ audience: [instructors, instructional designers]
 - Intercoder reliability was checked on a randomly selected 20% of the reports, and there is no independent outcome measure: the claims about strengthened critical thinking and assessment skill rest on students' own analytical reports, screenshots, and revisions.
 - The intervention deliberately touched only two research-proposal sections, Introduction and Innovation, so it documents a bounded slice of the writing process; the authors state that the study is situated in a computing-focused context at a single Spanish institution and describe transfer to other settings as instructor adaptation rather than demonstrated generalization.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[writing-education]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[higher-ed]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[prompt-engineering]]
-- [[critical-pedagogy]]
-
-## Connected Articles
-
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation in university writing
-- [[students-llm-usage-critical-thinking]] — Students' LLM usage behaviors in critical thinking tasks
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-directed learning
-- [[genai-over-reliance-learning-2026]] — GenAI over-reliance and learning
-- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion and AI overreliance
-
 ## Citation
 
 Benali Taouis, H., & Díaz García, A. (2026). [Teaching with generative artificial intelligence: Enhancing critical thinking and ethical awareness in academic writing](https://doi.org/10.53761/28y4hw95) . *Journal of University Teaching and Learning Practice*, 23(5).
-
 

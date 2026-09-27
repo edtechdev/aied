@@ -51,24 +51,6 @@ This paper extends the knowledge base's coverage of [[llm|LLM]] deployment, [[on
 - Grading quality is moderate at best: the best model reached Accuracy 0.6492 and F1 0.6054 on the RiceChem benchmark, so the ledger establishes accountability for errors rather than preventing them.
 - Reported smart-contract timings are contract-level averages of 21–49 ms on a four-node network with one long-answer grading task from a single benchmark; behavior under production load and with other subject domains is untested.
 
-## Connected Concepts
-
-- [[llm]]
-- [[personalized-learning]]
-- [[online-teaching-and-learning]]
-- [[assessment]]
-- [[trust]]
-- [[privacy]]
-- [[hallucination-risk]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[ai-online-education-engagement-satisfaction-2026]]
-- [[llms-do-not-grade-essays-like-humans-2026]]
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
-- [[ai-decision-support-online-learning-assessment-2026]]
-
 ## Citation
 
 Xiao, F., Huang, J., Huang, J.-X., Ren, H., & Li, L. (2026). [*Integrating LLM with consortium blockchain for personalized and verifiable online education in higher education*](https://doi.org/10.1186/s41239-026-00618-5). *International Journal of Educational Technology in Higher Education*.

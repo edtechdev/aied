@@ -84,34 +84,5 @@ Beyond these changes, the authors pose three broader questions for the physics c
 - The mid-semester survey drew 30 complete responses with an unknown eligible denominator, and it measured perceptions rather than demonstrated competence.
 - The key observations — that a single prompt did not reliably solve a task, and that some students could not complete standard calculations — were not collected through a formal protocol, and no systematic [[benchmark]] of named models, prompts or access tiers was conducted, so prompt resistance is reported as design experience rather than a durable property of the assignments; model capability also changed drastically within months of the course, which places the work in the territory of [[limitations-in-aied-research]].
 
-## Connected Concepts
-- [[physics-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[problem-solving]]
-- [[transfer-of-learning]]
-- [[student-engagement]]
-- [[learning-gains]]
-- [[ai-literacy]]
-- [[desirable-difficulties]]
-
-## Connected Articles
-- [[probing-ai-generated-physics-solutions-2026]] — Probing AI-Generated Physics Solutions and Preparing Students to Critique Them
-- [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
-- [[cognitive-washout-ai-skill-decay-2026]] — After the Assistant Leaves: Cognitive Washout Dynamics and the Reversibility of AI-Induced Skill Decay
-- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning
-- [[becker-chatgpt-typology-physics-2026]] — Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration
-- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
-- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — The Impact of Generative AI on Academic Integrity of Authentic Assessments Within a Higher Education Context
-- [[genai-availability-grades-satisfaction]] — Generative AI Availability, Grades, and Student Satisfaction at a Large University
-
 ## Citation
 Mikhasenko, M., Stahl, M., Segal, I., Parmar, D., Zimmer, A., & Kazatsky, A. (2026). [AI in Particle Physics Education: Research Problems and Foundational Skills](https://arxiv.org/abs/2609.05719). arXiv preprint arXiv:2609.05719.

@@ -63,24 +63,6 @@ Core regulatory concerns include the transparency of AI involvement in design su
 - Key empirical claims come from studies run in other settings: consumer preference for AI output on aesthetic criteria and its disadvantage on functional and contextual requirements come from Lan et al. (2025), and designer motivation and legitimacy from Yin et al. (2026), neither of which sampled Malaysian practitioners or clients.
 - The account is a snapshot of a fast-moving period; professional-body guidance (e.g. BIID, 2026) and platform capabilities are cited as they stood at writing, and the trajectory described for designers is an argument about direction rather than a measured outcome.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[higher-ed]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[ai-education]]
-- [[educational-policy-ai]]
-- [[arts-design-and-media-education]]
-## Connected Articles
-
-- [[ai-changing-teaching-workflows]] — How AI changes teaching workflows
-- [[ai-ethics-education-public-discourse]] — AI ethics in public discourse
-- [[ai-adult-learning-guidelines-dis2026]] — AI in adult learning design
-- [[pchl-he-framework-genai-content-creation-2026]] — PCHL-HE framework for content creation
-
 ## Citation
 
 Syed Abdul Rahman, S. F. (2026). [*Artificial intelligence as catalyst and contested terrain: Transforming interior design practice, pedagogy, and professional regulation in Malaysia*](https://osf.io/preprints/edarxiv/dvncj_v1/). EdArXiv preprint.

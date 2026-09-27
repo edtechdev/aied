@@ -41,23 +41,6 @@ methods: [meta-analysis-systematic-review]
 - The inclusion criteria restricted designs to quantitative and mixed-methods studies, excluding purely qualitative work that the authors acknowledge captures complementary process-oriented implementation evidence.
 - The corpus is temporally and geographically thin: 19 of the 23 studies appeared in 2025 and Asia–Pacific institutions account for 56.5% (n = 13), following Europe (17.4%, n = 4), North Africa and the Middle East (13.0%, n = 3), and North America (8.7%, n = 2), and one included result (Cohen's d = 3.14 for long-term retention) is flagged by the authors as a likely methodological artifact.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[medical-education]]
-- [[problem-based-learning]]
-- [[simulation]]
-- [[meta-analysis-systematic-review]]
-- [[human-ai-collaboration]]
-- [[prompt-engineering]]
-
-## Connected Articles
-
-- [[genai-simulate-patient-history-pbl-2026]] — GenAI simulating patient history within problem-based learning
-- [[pbl-biomedical-engineering-genai-2026]] — problem-based learning with GenAI in biomedical engineering education
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — agentic AI simulation in healthcare training
-- [[ai-teammate-task-distribution-medical-training-2026]] — AI teammate task distribution in medical training (human–AI collaboration)
-
 ## Citation
 
 [Generative AI in scenario-based healthcare education: A systematic review of applications, validation practices, and pedagogical integration](https://www.sciencedirect.com/science/article/pii/S2666920X26001165) — Neto, M., Pinto, R., Reis, J., & Antão, L. (2026). *Computers and Education: Artificial Intelligence*, 11, 100654.

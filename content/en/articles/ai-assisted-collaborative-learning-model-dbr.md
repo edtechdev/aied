@@ -49,32 +49,6 @@ The study followed a Design-Based Research methodology with four iterative phase
 - Students' initially varying AI literacy required extra instructional support, and some groups over-relied on AI-generated content before developing critical evaluation strategies.
 - The authors call for future iterations with explicit AI literacy training, collaborative assessment rubrics, longitudinal implementation across multiple academic disciplines, and additional research with larger samples and comparative experimental designs to strengthen the empirical evidence.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[collaborative-learning]]
-- [[critical-thinking]]
-- [[generative-ai]]
-- [[learning-gains]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[pedagogical-agent]]
-- [[problem-based-learning]]
-- [[constructivist]]
-- [[socratic-method]]
-- [[creativity]]
-- [[prompt-engineering]]
-- [[motivation]]
-
-## Connected Articles
-
-- [[ai-collaborative-learning-skills-impacts]] — Artificial Intelligence and Collaborative Learning: Impacts on Creativity, Critical Thinking, and Problem-Solving
-- [[llm-critical-thinking-teamwork-review]] — Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI chatbot design principles to enhance the collective efficacy in collaborative learning
-- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
-- [[ai-collaborative-learning-systematic-review]] — A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade
-
 ## Citation
 
 Putra, A. D., Wijanarko, F., & Safitri, N. (2026). [*Design-based research for developing an AI-assisted collaborative learning model to enhance critical thinking and problem-solving skills in higher education*](https://educationresourcescenter.com/jel/article/view/59).

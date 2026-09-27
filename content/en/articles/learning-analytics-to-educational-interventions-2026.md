@@ -58,22 +58,6 @@ The authors argue all enablers should increasingly be considered in light of AI'
 - The seven enablers remain high-level categories with no operational indicators or measures attached, which limits how directly they can be audited or compared across institutions.
 - The group decision-making model was never tested in real-life educational decision-making, so no concrete intervention was prioritized in an actual institutional setting.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[governance]]
-- [[ethics]]
-- [[privacy]]
-- [[self-regulated-learning]]
-- [[trust-calibration]]
-- [[formative-assessment]]
-
-## Connected Articles
-
-- [[trace-course-grade-prediction-2026]] — Course grade prediction and learning analytics
-- [[at-risk-students-ml-prediction]] — Machine learning prediction for at-risk students
-
 ## Citation
 
 Svetec, B., Divjak, B., & Kadoić, N. (2026). [From learning analytics to educational interventions: Enhancing decision-making and learning design](https://doi.org/10.1186/s41239-026-00620-x). *International Journal of Educational Technology in Higher Education, 23*(45).

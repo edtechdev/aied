@@ -7,7 +7,6 @@ foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]
 ethics: [trust-calibration]
-connected_faqs: [verify-ai-output, study-with-ai]
 audience: [researchers, instructors, administrators, assessment designers]
 research_method: [literature review]
 sources: ['raw/papers/10.3389_fpsyg.2026.1965371.md']
@@ -49,27 +48,6 @@ A focal table maps ten representative studies (Urban 2025; Choi 2025; Chen and L
 - The seven-target map is an analytic ordering, not a validated causal model — and explicitly not a fixed temporal sequence, since learners may accept and then verify, or revisit evaluation after post-hoc doubt.
 
 - Several audited studies did not standardize or report the AI system, model version, or configuration, which limits comparability of reference standards.
-
-## Connected Concepts
-
-- [[trust-calibration]] — the paper’s core definition: reliance is calibrated only when a reliance decision is judged against an independently adjudicated reference standard for AI-output quality.
-- [[metacognition]] — the review separates metacognitive monitoring (epistemic evaluation) from regulatory action (verification) and from learning.
-- [[cognitive-offloading]] — externalized cognitive work is offered as the mechanism by which a defensible reliance decision can still yield little learning.
-- [[ai-literacy]] — treated as multidimensional and shown to influence checking non-uniformly rather than uniformly increasing scrutiny.
-- [[self-regulated-learning]] — independent learning spans retention, transfer, unaided performance, and independent error detection after AI support is withdrawn.
-- [[critical-thinking]] — “critical AI use” is the broad label the paper decomposes into measurable targets.
-- [[higher-ed]] — the population and setting of the review’s evidence base and its boundary conditions.
-
-## Connected Articles
-
-- [[trust-reliance-ai-education-2026]] — directly treats the trust-vs-reliance distinction that this review centralizes.
-- [[trust-calibration-chatbots-design-problem-2026]] — design-side account of calibrating trust in chatbot interactions.
-- [[pearls-epistemic-verification-2026]] — same epistemic-verification construct, different operationalization.
-- [[agreement-not-quality-llm-coding-verification]] — empirical case of agreement with an LLM being mistaken for verification quality.
-- [[ai-overreliance-complex-adaptive-system-2026]] — overreliance mechanisms complementing this review’s boundary conditions.
-- [[genai-reliance-types-scale]] — reliance-pattern measurement that this review cites as unable to classify calibration without reference-standard conditioning.
-- [[metacognitively-discordant-completion-genai-2026]] — metacognitive monitoring vs completion behavior in GenAI tasks.
-- [[solving-vs-evaluating-genai-solutions]] — distinguishes task success from the evaluative work that supports learning.
 
 ## Citation
 

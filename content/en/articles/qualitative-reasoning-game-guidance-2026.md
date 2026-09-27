@@ -47,25 +47,6 @@ The paper is a modeling contribution, so questions of learning gain remain unans
 - The solver is hybrid rather than purely qualitative: the domain's physics had to be supplied explicitly through a numerical center-of-mass stability check, which the authors adopt because qualitative relations alone could not decide whether a structure topples.
 - Evaluation stops at the agent satisfying two independent criteria within the game's state space, static stability and path connectivity; there is no comparison against human players' solutions or against alternative hint strategies, and the difficulty metrics the paper proposes have not been built.
 
-## Connected Concepts
-
-- [[game-based-learning]]
-- [[problem-solving]]
-- [[scaffolding]]
-- [[feedback]]
-- [[explainable-ai]]
-- [[intelligent-tutoring]]
-- [[computational-thinking]]
-- [[simulation]]
-- [[transfer-of-learning]]
-- [[educational-robotics]]
-
-## Connected Articles
-
-- [[ai-enabled-serious-games]] — AI-enabled serious games
-- [[agentschool-multi-agent-simulation-education-2026]] — Multi-agent simulation in education
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Adaptive AI scaffolds for collaborative problem solving
-
 ## Citation
 
 Jaiswal, A., & Falomir, Z. (2026). [A Qualitative Model for Reasoning about Path and Support](https://arxiv.org/abs/2609.20349). arXiv:2609.20349.

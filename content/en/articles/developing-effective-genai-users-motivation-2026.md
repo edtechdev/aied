@@ -72,34 +72,6 @@ The equity risk is also motivational rather than merely material. Threat apprais
 - The empirical support the authors do present is thin and partly unpublished — two student quotations and a within-person pattern from an in-preparation 2026 study of how and why students use GenAI, plus the 42% versus 17% school-prohibition figure from their own 2026 national adolescent data — and no causal claims about GenAI and learning follow from that evidence.
 - The paper offers no instrument, no validated measures and no intervention, so the model's practical value depends on the measurement work it calls for; because the authors hold that the basic motivational processes are largely unchanged from the pre-GenAI era, the novelty of the account rests on how GenAI's affordances reshape them, which remains an open empirical question.
 
-## Connected Concepts
-
-- [[agency]] — the ownership of judgment and epistemic authority the model treats as a developmental outcome
-- [[anxiety-and-stress]] — threat appraisals and the protection goals that follow from unsafe learning environments
-- [[ai-literacy]] — the knowledge-based framing of effective GenAI use that the paper argues is insufficient by itself
-- [[cognitive-offloading]] — executive help, delegating thinking, and the authors' refusal to treat it as inherently problematic
-- [[critical-thinking]] — what GenAI use enhances under learning goals and offloads under completion or protection goals
-- [[digital-divide]] — the access-and-permission gap the authors say unequal GenAI policy is building
-- [[equity-in-ai-education]] — the paper's explicit equity question about who gets to learn effective use
-- [[help-seeking]] — instrumental versus executive help, help avoidance, and the teachability of the skill
-- [[metacognition]] — the feedback and self-monitoring skills that make help-seeking instrumental
-- [[motivation]] — the appraisal-goal-strategy system the paper proposes as the missing piece
-- [[self-efficacy]] — expectations for success that vary by situation and compound across choices
-- [[self-regulated-learning]] — the strategic resource selection GenAI use is nested within
-
-## Connected Articles
-
-- [[ai-availability-student-motivation]] — How the mere availability of AI reshapes students' motivation and effort in introductory programming
-- [[genai-motivation-engagement-2026]] — GenAI and engagement, with autonomy support and autonomous motivation as mediators
-- [[liang-ai-learning-motivation-sdt-2026]] — Latent transition analysis of students' AI learning motivation profiles
-- [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and role framing in metacognitive engagement during student–GenAI interaction
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI literacy, academic self-efficacy and resource management in student dependency on AI
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Self-regulated learning and LLM-mediated help-seeking, framed as efficiency versus effectiveness
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Training the metacognitive judgment that decides whether offloading is optimal
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — Cognitive offloading and critical thinking in everyday AI tool use
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender differences in GenAI engagement and achievement trajectories
-- [[ai-divide-ses-personality-primary-education-2026]] — Socio-economic divides in AI use and access at primary level
-
 ## Citation
 
 Trzesniewski, K., Gripshover, S., & Master, A. (2026). [*Developing Effective GenAI Users: The Missing Motivational System and Why It Matters for Equity*](https://doi.org/10.31234/osf.io/uxh89_v2). Preprint (manuscript submitted for review at *Educational Researcher*).

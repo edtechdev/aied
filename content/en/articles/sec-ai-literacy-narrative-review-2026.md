@@ -41,26 +41,6 @@ This is a **narrative literature review** building on the knowledge base of the 
 
 As a narrative review, the study faces potential selection bias and subjective interpretation of findings (acknowledged by the authors), and its small final corpus (19 sources) reflects a curated rather than exhaustive literature base. The AI sources were limited to post-2017 publications, which may not capture the most recent rapid advances, and the review synthesizes concepts as of its curation date. The SEC literature was not subject to the same 2017 cutoff, creating asymmetry. The proposed integrated framework is conceptual and requires empirical validation.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[affective-computing]]
-- [[teacher-ai-competency]]
-- [[ethics]]
-- [[pedagogical-safety]]
-- [[teacher-role]]
-- [[social-emotional-learning]]
-- [[self-regulated-learning]]
-- [[tpack]]
-## Connected Articles
-
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — meta-analysis of AI literacy intervention effectiveness
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy
-- [[ai-tpack-preservice-math-teachers]] — AI-TPACK and Pre-Service Math Teachers
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback
-- [[genai-literacy-training-teacher-education-dbr-2026]] — AI Literacy Training for Teachers
-
 ## Citation
 
 Palmquist, A., Sigurdardottir, H. D., & Myhre, H. (2025). [*Exploring interfaces and implications for integrating social-emotional competencies into AI literacy for education: A narrative review*](https://doi.org/10.1007/s40692-025-00354-1). *Journal of Computers in Education*, 13, 127–163.

@@ -32,25 +32,6 @@ introduces the Synthesis-Analysis Reciprocity Model and the Vibe Compiler tool t
 - The prototype is assembled from off-the-shelf services (NotebookLM) and parameter computation depends on large language model generation, so behavior can change when those services change and identical inputs are not guaranteed to yield identical outputs.
 - The study is confined to a single language, Japanese: indicators such as the vocabulary-substitution difficulty Vmap depend strongly on linguistic structure and their viability elsewhere is unconfirmed, and the domain-specific Analysis parameters were defined by hand by a domain expert with no validation procedure in place.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[metacognition]] — the cognitive capacity the Vibe Compiler seeks to preserve
-- [[scaffolding]] — structured metacognitive scaffolding of reasoning
-- [[human-in-the-loop-ai]] — keeping human agency central in AI-assisted work
-- [[agency]] — preserving epistemic agency during GenAI use
-- [[critical-thinking]] — articulating, critiquing and refining AI output
-- [[self-regulated-learning]] — monitoring and directing one's own intellectual process
-## Connected Articles
-
-- [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding
-- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI
-- [[ai-making-us-stupid]] — Is AI making us stupid?
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning
-- [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive offloading and prompting in GenAI writing
-
 ## Citation
 
 Mizoguchi, Riichiro et al. (2026). [Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-](https://arxiv.org/abs/2608.05545).

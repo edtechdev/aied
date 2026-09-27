@@ -7,7 +7,6 @@ foundations: [human-ai-collaboration]
 pedagogy: [collaborative-learning, distributed-cognition]
 technology: [conversational-ai, generative-ai]
 methods: [qualitative-research]
-connected_faqs: [group-work-ai]
 audience: [instructors, instructional designers, researchers]
 level: [higher ed]
 sources: ['raw/papers/xu-genai-collaborative-space-2026.md']
@@ -47,20 +46,6 @@ GenAI systems are designed for single-user interaction, yet they are increasingl
 - Combining observation with interviews provided complementary perspectives but limited direct comparison across settings, and the findings are shaped by university students and a single text-based AI system.
 - Video recording and the centralized-input, shared-display setup may have shaped participant behavior despite efforts to keep conditions naturalistic, and differences in GenAI familiarity among team members may have affected how roles were distributed.
 - The participant pool had a skewed gender ratio, the analysis emphasized information flow over social and organizational concerns such as trust or accountability, and the authors state their design implications remain speculative.
-
-## Connected Concepts
-
-- [[collaborative-learning]] — small-group teamwork as the context
-- [[distributed-cognition]] — the theoretical lens; GenAI as a distributed cognitive participant
-- [[human-ai-collaboration]] — negotiating GenAI's role in group work
-- [[conversational-ai]] — chat-based GenAI as agent and space
-
-## Connected Articles
-
-- [[genai-group-writing-strategies-2026]] — GenAI and group writing strategies
-- [[genai-counter-learner-groupthink-2025]] — GenAI countering learner groupthink
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — adaptive AI scaffolding in collaborative problem-solving
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI chatbots and collective efficacy in collaborative learning
 
 ## Citation
 

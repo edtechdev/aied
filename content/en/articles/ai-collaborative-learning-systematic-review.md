@@ -51,26 +51,6 @@ The review synthesizes a decade (2014–2024) of research on AI-enhanced collabo
 - The synthesis draws on heterogeneous study designs and outcome measures, which limits direct comparability of effect sizes across interventions.
 - The review itself notes the field's open research gaps — AI's role in collaborative (versus individual) learning is understudied, and future work should address group cohesion, equal participation, and effective collective collaboration.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[administrator]]
-- [[affective-computing]]
-- [[generative-ai]]
-- [[math-education]]
-- [[prompt-engineering]]
-
-## Connected Articles
-
-- [[llm-critical-thinking-teamwork-review]] — Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review
-- [[ai-assisted-collaborative-learning-model-dbr]] — Design-Based Research for Developing an AI-Assisted Collaborative Learning Model to Enhance Critical Thinking and Problem-Solving Skills in Higher Education
-- [[ai-collaborative-learning-skills-impacts]] — Artificial Intelligence and Collaborative Learning: Impacts on Creativity, Critical Thinking, and Problem-Solving
-- [[ccct-cooperative-learning-technique]] — Artificial intelligence assisted design of a novel cooperative learning technique for higher education
-- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
-- [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)
-
 ## Citation
 
 Kovari, A. (2025). [*A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade*](https://doi.org/10.1016/j.ssaho.2025.101335).

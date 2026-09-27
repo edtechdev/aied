@@ -67,34 +67,6 @@ The grade analysis is where the headline claim weakens. Top and middle tier stud
 - Study 2's 16 students self-selected into grade-sharing and skew female (15 of 16), leaving low statistical power and a subsample that is non-random relative to the full cohort; its 1,140 messages were labeled by a single rater, so no inter-rater reliability could be established.
 - The grade pattern is correlational and non-significant (chi-square = 5.80, df = 4, p = 0.215), and the top tier's 17.6% heavy-offloading rate rests largely on one programming-focused student (7 of 12 dialogues; excluding them the rate falls to 8.9%); the labels describe prompts, not learning, so an "Analyse" label means the request was analytical in form, not that the student performed the analysis, and the performance-tier patterns remain hypotheses for confirmatory, longitudinal or experimental work rather than findings.
 
-## Connected Concepts
-
-- [[cognitive-offloading]] — the paper's central construct, here split into no, light and heavy offloading and linked to germane-load substitution
-- [[critical-thinking]] — higher-order reasoning (analysis, evaluation) that students both seek and potentially displace through AI use
-- [[metacognition]] — the judgment process behind offloading decisions, and the target of the feedback the authors recommend
-- [[self-regulated-learning]] — the regulation of study effort that heavy delegation may bypass
-- [[student-ai-interaction]] — the naturalistic ChatGPT logs that constitute both datasets
-- [[generative-ai]] — the technology reshaping how students study, practice and demonstrate knowledge
-- [[llm]] — the GPT-4o-mini model used as an automated coder in Study 1
-- [[conversational-ai]] — ChatGPT as the tool students queried and delegated work to
-- [[learning-gains]] — academic grades and performance tiers used as the Study 2 outcome variable
-- [[prompt-engineering]] — prompting practice followed in designing the coding prompts, distinct from students' own prompting
-- [[desirable-difficulties]] — the productive cognitive effort that heavy offloading may remove
-- [[higher-ed]] — undergraduate context and the single-institution generalizability limit
-
-## Connected Articles
-
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive offloading measured through students' prompting behavior
-- [[nesnin-cognitive-offloading-ai-students-2026]] — Cognitive offloading among AI-using students
-- [[lodge-loble-cognitive-offloading-2026]] — Conceptual treatment of cognitive offloading in the AI era
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Training students toward optimal, rather than maximal or minimal, offloading
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing and its implications for assessment design
-- [[student-ai-conversations-cognitive-engagement-2026]] — What student–AI conversations reveal about cognitive engagement
-- [[bloom-aligned-educational-control-llms]] — Aligning LLM behavior with Bloom levels
-- [[cross-dataset-bloom-question-classification]] — Classifying questions by Bloom level across datasets
-- [[llm-educational-question-cognitive-depth]] — Cognitive depth of LLM-generated educational questions
-- [[ai-dependence-academic-writing-ipace-2026]] — Dependence on AI in academic writing
-
 ## Citation
 
 Piatnitckaia, L., Corneloup, V., Bühler, B., Terzimehić, N., Kasneci, E., & Zenasni, F. (2026). [*Patterns of student cognitive offloading to AI in higher education*](https://osf.io/preprints/psyarxiv/tu5pb_v1). *PsyArXiv Preprints* (preprint, version 2).

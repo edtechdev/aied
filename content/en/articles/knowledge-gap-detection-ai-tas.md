@@ -51,21 +51,6 @@ The comparison uses an instructor-authored mid-semester Qualtrics survey with 28
 - Both measures are proxies: a 20% classification error rate injects label noise concentrated in topics with overlapping vocabulary, which the authors say likely attenuates the correlation, and the survey counterpart is self-reported difficulty, not a learning outcome.
 - No live deployment was tested; propagation of per-student gaps along prerequisite edges and a closed-loop dashboard study are future work.
 
-## Connected Concepts
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[knowledge-graph]] — the GPT-4-extracted prerequisite curriculum graph
-- [[knowledge-tracing]] — complementary modeling of topic difficulty vs. mastery
-- [[llm]] — few-shot classification and graph extraction
-- [[generative-ai]] — powering the underlying language models
-- [[intelligent-tutoring]] — conversational AI teaching assistants
-- [[scaffolding]] — diagnostic support for instructor decision-making
-- [[recommender-systems-and-learning-paths]]
-## Connected Articles
-
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[didactical-teacher-assistant-dimensional-modeling]] — Dimensional modeling of teaching assistants
 ## Citation
 
 Medhat, Y., Park, J., Thajchayapong, P., & Goel, A. K. (2026). [*Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs*](https://arxiv.org/abs/2606.10736).

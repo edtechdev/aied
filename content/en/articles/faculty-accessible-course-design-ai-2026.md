@@ -47,26 +47,5 @@ The fourth theme is that accessibility work is uncompensated and invisible, and 
 - The AI-related theme rests on a small qualitative interview set, so it identifies a concern rather than estimates its prevalence.
 - The study reports no student data, so the impact of the faculty practices on students with disabilities is inferred rather than observed.
 
-## Connected Concepts
-- [[universal-design-for-learning]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[assistive-technology]]
-- [[neurodiversity]]
-- [[generative-ai]]
-- [[teacher-role]]
-- [[educational-development]]
-- [[assessment]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[ludia-udl-ai-thought-partner-2026]] — LUDIA: A Design and Evidence Statement
-- [[genai-minoritized-knowledges-disability]] — Generative AI, minoritized knowledges and disability
-- [[dyslexlens-dyslexic-learners-ai]] — DyslexLens: AI support for dyslexic learners
-- [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs
-- [[chick-faculty-development-ethical-ai-2026]] — Faculty development for ethical AI
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — The AI challenge: faculty survey findings
-- [[shin-ai-policies-sld-2026]] — AI policies for students with learning disabilities
-
 ## Citation
 Sidhu, G., Atif, F., & Newland, F. (2026). [“AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world](https://doi.org/10.35542/osf.io/e4hmv_v1). *EdArXiv*.

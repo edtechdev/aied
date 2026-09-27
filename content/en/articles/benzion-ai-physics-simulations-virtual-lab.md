@@ -38,27 +38,6 @@ level: [higher ed]
 - The authors present the results as preliminary, and their own limitations section lists failure modes they could not remove: [[hallucination-risk|hallucinations]] and computational inconsistencies, no productive constraints, and variability such that identical prompts produce different outputs.
 - The validation method is demonstrated on a single simple pendulum, and the paper states that more research is needed on optimal integration strategies and on long-term educational impact.
 
-## Connected Concepts
-
-- [[physics-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[simulation]]
-- [[stem-education]]
-- [[learning-design]]
-- [[teacher-ai-competency]]
-- [[prompt-engineering]]
-- [[hallucination-risk]]
-- [[active-learning]]
-
-## Connected Articles
-
-- [[genai-ar-physics-simulation-prompt-2026]]
-- [[probing-ai-generated-physics-solutions-2026]]
-- [[ai-generated-smartphone-circular-motion-lab-2026]]
-- [[physics-chatbot-epistemological-beliefs-2026]]
-- [[finkelstein-principled-ai-education-2025]]
-
 ## Citation
 
 Ben-Zion, Y., Einhorn Zarzecki, R., Glazer, J., & Finkelstein, N. D. (2025). [*Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab*](https://doi.org/10.1119/5.0252343). *The Physics Teacher*, 63, 424–427.

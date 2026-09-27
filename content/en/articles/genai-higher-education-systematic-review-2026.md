@@ -55,7 +55,6 @@ Three meta-level findings frame the review's interpretation. First, a **curricul
 
 ## What this means for practice
 
-
 - **Instructors.** Redesign assessment around documented process — [[eportfolio|portfolios]], oral examinations, and transparent AI-use statements — rather than polished products, since [[academic-integrity]] was the most frequently discussed challenge (89 studies, 71.2%) and 34–37% of students admitted use they recognized as potentially violating integrity policy.
 
 - **Instructors.** Require students to document prompt formulation and output evaluation; the review links reflective protocols to measurable [[metacognition|metacognitive]] awareness and warns that unexamined use produces [[cognitive-offloading|over-reliance]] that inhibits metacognitive development and peer collaboration. Treat AI literacy as a curriculum competency in its own right rather than a one-off workshop.
@@ -71,30 +70,6 @@ Three meta-level findings frame the review's interpretation. First, a **curricul
 - Coverage is geographically uneven: 23 studies (18.4%) came from Global South contexts across 42 countries, and the headline adoption figure — 92% of students by 2025 — is drawn from UK student data.
 - The temporal window is short: most studies capture only immediate or short-term effects after GenAI's November 2022 release, with no multi-year tracking of learning outcomes or career trajectories, and most examine a single course or program rather than institution-wide implementation.
 - The authors flag [[limitations-in-aied-research|publication bias]] and measurement problems: the novelty of GenAI favors positive or striking findings, and constructs such as critical thinking and creativity lack consensus measurement, so perceived effectiveness may be inflated.
-
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[governance]]
-- [[ai-literacy]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[higher-ed]]
-- [[human-ai-collaboration]]
-- [[personalized-learning]]
-
-## Connected Articles
-
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher education policy
-- [[pchl-he-framework-genai-content-creation-2026]] — PCHL-HE framework
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs framework
-- [[elementary-writing-genai-systematic-review-2026]] — Elementary writing GenAI review
-- [[pre-service-science-teachers-ai-perceptions-2026]] — AI acceptance science teachers
 
 ## Citation
 

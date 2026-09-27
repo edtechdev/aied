@@ -40,22 +40,6 @@ page_kind: [framework]
 - The sample is small and strongly concentrated by region and institution, so it may not capture the diversity of mathematics M.Ed. students more broadly.
 - The comparison was between a smart-classroom experimental group (M = 84.15, SD = 6.48) and a control group (M = 80.09, SD = 6.47) drawn from the same program, so findings describe instructional-objective design scores rather than transfer to classroom teaching.
 
-## Connected Concepts
-
-- [[learning-design]]
-- [[math-education]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[intelligent-tutoring]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[ai-tpack-preservice-math-teachers]] — AI literacy domains and AI-TPACK readiness among preservice mathematics teachers
-- [[preservice-teachers-responsible-genai-2026]] — curriculum implications for preparing pre-service teachers to use generative AI responsibly
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — design-based research on building an AI literacy curriculum
-- [[llm-essay-assessment-framework-reliability-2026]] — a framework for evaluating LLMs in essay assessment (reliability, alignment, causal reasoning)
-
 ## Citation
 
 [Improving instructional design proficiency of master's students in mathematics education through intelligent educational technologies](https://www.sciencedirect.com/science/article/pii/S2666920X26000597) — Zhu, F., Liang, Q., Mao, Z., & Wang, Y. (2026). *Computers and Education: Artificial Intelligence*, 10, 100597.

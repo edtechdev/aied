@@ -40,24 +40,6 @@ This is a **conceptual/argumentative article** (not an empirical study) drawing 
 
 As a conceptual article, the argument is not empirically tested, and the case studies are illustrative rather than systematically evaluated. The authors acknowledge the tension that universities operate under neoliberal funding regimes and "efficiency logics" that marginalize critical pedagogy, which limits the practical feasibility of the proposed transformation. The Nordic financial-sector case is [[adult-learning]]-focused rather than higher-education-specific, and the institutional examples span very different national contexts without comparative assessment. The proposal for institutional transformation is programmatic rather than operationalized.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[teacher-role]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[possibility-ai-literacy-critical-editorial]] — The (Im)possibility of AI Literacy
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
-- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy Interaction Patterns
-- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
-- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
-
 ## Citation
 
 Shapiro, H., Souto-Otero, M., & Watermeyer, R. (2026). [*Metacognitive AI literacy: Going beyond the AI skills gap agenda*](https://doi.org/10.1080/17439884.2026.2652638). *Learning, Media and Technology*.

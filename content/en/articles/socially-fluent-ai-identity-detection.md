@@ -29,18 +29,6 @@ The implications for education are significant. As AI agents increasingly partic
 - Each interaction was a single 10-minute text-only discussion built from three controlled task types (analytical, creative, ethical), so the design says nothing about longer exposure or multimodal channels.
 - Participants were heterogeneous adult online users recruited for English fluency, and AI teammates operated inside a fixed 2H+1AI triadic structure rather than a real classroom group.
 
-## Connected Concepts
-
-- [[student-experience]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[trust]]
-- [[human-ai-collaboration]]
-## Connected Articles
-
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[hybrid-human-ai-tutoring-differentiated]]
-- [[humanlike-ai-collaborative-writing]]
 ## Citation
 
 Lixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic (2026). [Socially fluent AI decouples conversational signals from source identity in online interaction](https://arxiv.org/abs/2605.23426). arXiv preprint (cs.HC, cs.AI).

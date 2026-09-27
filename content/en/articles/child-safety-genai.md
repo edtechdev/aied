@@ -6,7 +6,6 @@ type: article
 technology: [generative-ai, llm, rag]
 methods: [benchmark]
 ethics: [equity-in-ai-education, privacy, pedagogical-safety]
-connected_faqs: [ai-guidance-children-under-13]
 audience: [software developers]
 level: [k 12]
 sources: ['raw/papers/2607.00395.md']
@@ -45,24 +44,6 @@ The framework combines two evidence sources: hazard categories derived from expe
 - Only three Llama Guard models (1B, 3-8B, 7B) were evaluated, and the study focused on education-related risks, leaving the framework's other proposed risk categories untested.
 - The taxonomy rests on five expert guidelines plus 90 relevant incidents drawn from a filtered pool of about 250, and incident reports mostly describe extreme cases — a limit the authors note for using incident data as a sole taxonomy source.
 - No educators were involved in the evaluation pipeline; the authors identify expert participation as the most important next step for defining unsafe content precisely.
-
-## Connected Concepts
-
-- [[ai-education]]
-- [[equity-in-ai-education]]
-- [[pedagogical-safety]]
-- [[privacy]]
-- [[generative-ai]]
-- [[k-12]]
-
-## Connected Articles
-
-- [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
-- [[gaze-informed-ai-children]] — Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
-- [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
-- [[llm-unlearning-math-privacy]] — Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education
 
 ## Citation
 

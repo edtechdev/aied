@@ -35,28 +35,6 @@ ng knowledge.
 - Public documentation varied across courses and each analysis used only the subset of courses with relevant materials, so counts describe documented objectives, topics, assessments, and tools rather than everything actually taught.
 - Coding characterized what course artifacts state; the study collected no data on what instructors or students actually did in these courses.
 
-## Connected Concepts
-
-- [[curriculum-design]]
-- [[learning-design]]
-- [[higher-ed]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[active-learning]]
-- [[prompt-engineering]]
-- [[ethics]]
-- [[generative-ai]]
-- [[cs-education]]
-
-## Connected Articles
-
-- [[curriculum-as-code-instructional-design-2026]] — Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education
-- [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
-- [[genai-marketing-education-roles-2026]] — When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Rethinking Higher Education: From Fixed Curricula to Learnity Graphs
-- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights
-
 ## Citation
 
 Geng, Francis et al. (2026). [Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis](https://arxiv.org/abs/2608.05898).

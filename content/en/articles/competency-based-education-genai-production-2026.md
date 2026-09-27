@@ -70,25 +70,6 @@ This resonates with critiques of weak [[governance|institutional]] [[assessment]
 - Scoring circularity is unaddressed: raters who see the artifact cannot score direction, evaluation, and warranting independently of finished-product quality, and a minimum knowledge floor would have to be measured rather than asserted.
 - Assessing a new category partly by oral defense could disadvantage non-native English speakers and students with disabilities, and a production rubric can itself degrade into "language as camouflage."
 
-## Connected Concepts
-
-- [[assessment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[psychometrically-aware-ai]]
-- [[automated-assessment]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[ai-assessment-scale-reform]] — AI assessment scale reform
-- [[ai-assessment-human-tutors]] — AI assessment compared with human tutors
-- [[agency-gap-ai-writing]] — The agency gap in AI writing
-- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher ed
-- [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge narrative drafting scaffolding
-
 ## Citation
 
 Hughes, J. W. (2026). [*Knowledge, skills, attitudes, production: Competency-based education after generative AI*](https://osf.io/preprints/edarxiv/k4rqa_v1/). EdArXiv preprint.

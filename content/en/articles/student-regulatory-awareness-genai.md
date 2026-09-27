@@ -41,24 +41,6 @@ These findings highlight a significant gap between [[regulation|institutional re
 - Both regulatory awareness and perceived rule-compliant use were measured through self-reported survey responses, which may be affected by social desirability bias, and respondents may have interpreted the still-evolving constructs differently.
 - The analysis relies on descriptive statistics and exploratory cross-tabulation, which identify associations but do not permit causal conclusions or strong statistical generalization beyond the investigated population.
 
-## Connected Concepts
-
-- [[governance]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[regulation]]
-- [[student-experience]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-## Connected Articles
-
-- [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education
-- [[ethical-ai-higher-ed-game-theory]] — Mathematical Modeling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
-- [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)
-- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026
-
 ## Citation
 
 Bischof, L., Schön, E.-M., Rauschenberger, M., & Neumann, M. (2026). [Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education](https://arxiv.org/abs/2606.12436).

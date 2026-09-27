@@ -62,26 +62,6 @@ Fourth, the authors report preliminary follow-up evidence that GPT-4o interprets
 - The study evaluates one model generation, GPT-4 and GPT-4V, and the authors' own follow-up suggests GPT-4o is better at handwritten mathematics, so the absolute numbers are already dated; handwriting detection and recognition of mathematical expressions remain an active research problem, and the paper does not attempt a specialized recognition pipeline.
 - The overall picture is a snapshot of a single university exam in one discipline and one national grading culture, the authors do not claim the thresholds transfer, and no comparison is made against alternatives such as selective automation by item difficulty, ensemble grading, or investing the same effort in better human-marking logistics.
 
-## Connected Concepts
-- [[automated-assessment]] — the pipeline studied: recognition, rule application, and reliability flagging
-- [[assessment-validity]] — the paper's core concern, expressed through agreement statistics and false-positive rates
-- [[summative-assessment]] — the high-stakes use the authors explicitly rule out on this evidence
-- [[multimodal]] — vision-language transcription of handwriting as a precondition for grading
-- [[llm]] — the model class under test, with GPT-4V for transcription and GPT-4 for judgment
-- [[math-education]] — German undergraduate mathematics with semi-open written answers
-- [[authentic-assessment]] — handwritten semi-open tasks as authentic assessment, and what automating them costs in validity
-- [[human-in-the-loop-ai]] — the confidence-filter remedy, and why it underperformed here
-- [[assessment]] — the broader decision about what counts as reliable grading evidence
-- [[psychometrically-aware-ai]] — the agreement and reliability bar that these alpha values fail to reach
-
-## Connected Articles
-
-- [[llm-grading-self-preference-bias-2026]] — model graders favor their own outputs, another reason automated grading needs external anchors
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — adversarial pressure on LLM grading, complementary to this study's reliability analysis
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — reliability thresholds for automated scoring, which this study's alpha values fail to reach
-- [[llm-cognitive-diagnosis-handwritten-math]] — handwriting as an input channel for mathematics, from the diagnostic rather than the grading side
-- [[llms-do-not-grade-essays-like-humans-2026]] — the same divergence between model and human judgment in a text domain
-
 ## Citation
 
 Liu, T., Chatain, J., Kobel-Keller, L., Kortemeyer, G., Willwacher, T., & Sachan, M. (2026). [AI-assisted automated short answer grading of handwritten university-level mathematics exam](https://doi.org/10.1093/teamat/hrag010). *Teaching Mathematics and its Applications: An International Journal of the IMA, 45*(1), 84–105.

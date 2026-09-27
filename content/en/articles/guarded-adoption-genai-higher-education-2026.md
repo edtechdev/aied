@@ -42,20 +42,5 @@ The [[governance|institutional]] implication is uncomfortable for both sides of 
 - The associations were significant but small to moderate — rho = −0.395 for perceived learning impact, −0.359 for positive affect and −0.357 for active AI engagement — so achievement explains only part of the variation in AI engagement.
 - The data come from one Australian university, recruited through central research channels over a two-month period at the beginning of 2025, so the successful-student identity mechanism remains a hypothesis for wider testing rather than an established cross-context effect.
 
-## Connected Concepts
-- [[generative-ai]] — the technology whose adoption is patterned
-- [[learner-identity]] — successful-student identity as the defended construct
-- [[agency]] — epistemic agency and verification as the boundary practice
-- [[critical-thinking]] — the concern high achievers report about AI reliance
-- [[cognitive-offloading]] — reliance as the behavior being bounded
-- [[higher-ed]] — the survey's institutional setting
-
-## Connected Articles
-- [[genai-student-experiences-uk-he-survey-2026]] — Student experiences of GenAI in UK higher education
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Dependency on AI, literacy and self-efficacy
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming epistemic agency
-- [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — Academic integrity and AI study practices
-- [[determinants-chatgpt-use-higher-education-2026]] — Determinants of ChatGPT use in higher education
-
 ## Citation
 Zagami, J. (2026). [Guarded adoption of generative AI in higher education: high-achieving students, successful-student identity, and epistemic agency in a single-university mixed-methods survey](https://doi.org/10.1186/s41239-026-00625-6). *International Journal of Educational Technology in Higher Education, 23*(1), 47.

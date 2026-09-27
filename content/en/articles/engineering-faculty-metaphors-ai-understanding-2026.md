@@ -51,30 +51,6 @@ The key finding is that engineering instructors do **not** hold a unified mental
 - Instructors who could not produce an analogy were not described because of space constraints, so the taxonomy does not represent the struggling cases, and comparisons across disciplines were left to future work.
 - This is self-reported figurative language in an interview; the study does not measure whether an instructor's metaphor predicts their actual classroom AI practice.
 
-## Connected Concepts
-
-- [[engineering-education]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[ai-misuse-learning-harm]]
-- [[cognitive-offloading]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — When Faculty Ask "What's the Point of Teaching?" GenAI as Identity Crisis
-- [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI
-- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice
-- [[genai-teacher-feedback-comparison]] — Comparing GenAI and Teacher Feedback
-- [[framing-5-percent-problem-teachers-persistence]] — Framing the 5% Problem: Teachers' Persistence
-- [[moral-panic-genai-classroom]] — Moral Panic and GenAI in the Classroom
-- [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass
-- [[ai-ethics-education-public-discourse]] — Public Discourse on AI Ethics in Education
-- [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
-
 ## Citation
 
 Gerhardt, M., Shiekh, K., Katz, A., & Chaback, B. E. (2026). [*It's Like "X": How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding in Engineering Education*](https://peer.asee.org/). ASEE Annual Conference & Exposition, Paper ID #50720.

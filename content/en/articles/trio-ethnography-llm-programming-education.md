@@ -36,25 +36,6 @@ Methodologically, trio-ethnography offers a low-cost reflective instrument for [
 - The dialogue was a single trio ethnography at one institution, so the reconstructed interpretations and teaching beliefs are contextually situated rather than universally representative.
 - The inquiry was conducted among the authors themselves, with pseudonyms used to protect privacy, so the reconstructed interpretations reflect the researchers' own perspectives.
 
-## Connected Concepts
-
-## Connected Concepts
-
-- [[cs-education]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[educational-development]]
-## Connected Articles
-
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
-- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
-- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
-
 ## Citation
 
 Ren, McDowell & Zhou (2026). [Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education](https://arxiv.org/abs/2607.22463). arXiv preprint.

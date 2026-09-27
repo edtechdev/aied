@@ -43,22 +43,6 @@ The review's theoretical contribution is its critique of the field's reliance on
 - The evidence base is dominated by quantitative self-report surveys and cross-sectional designs — only one included study was longitudinal — so it cannot trace how students' perceptions and adoption behaviors evolve over time.
 - Primary studies concentrated on large language model chatbots, making the synthesis most representative of conversational AI adoption, and their limited granularity prevented analysis of how adoption varies with specific technological functions; average study size was 530.5 participants but ranged from 64 to 2,240 (SD = 492.9, Mdn = 376), and only construct type and students' AI experience explained heterogeneity.
 
-## Connected Concepts
-
-- [[technology-acceptance-model]] — the frameworks the review critiques and builds on
-- [[higher-ed]] — the tertiary education context
-- [[student-experience]] — the adoption perspective
-- [[ai-technologies]] — the tools being adopted
-- [[generative-ai]] — a modern driver of adoption
-
-## Connected Articles
-
-- [[ai-adoption-training-public-sector|ai-adoption]] — related adoption research
-- [[tam-critical-use-genai-engineering-2026]] — TAM applied to critical GenAI use in engineering
-- [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — GenAI acceptance among Chinese university students
-- [[pre-service-science-teachers-ai-perceptions-2026]] — AI acceptance among science teachers
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas in higher ed
-
 ## Citation
 
 Teo, T., Scherer, R., Fung, A. S. K., & Fung, C. S. L. (2026). [*Factors associated with students' adoption of artificial intelligence technology in tertiary education: A meta-analytic review*](https://doi.org/10.1016/j.edurev.2026.100804). Educational Research Review, 52, 100804.

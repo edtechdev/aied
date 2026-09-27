@@ -29,25 +29,6 @@ page_kind: [evaluation, framework]
 - Synthetic evaluation covers 675 configurations (10 runs each) generated from predefined prerequisite graphs with injected noise, not observed classroom learning.
 - Comparisons are limited to Bayesian Network, Popularity, Simple Markov, and Random baselines, over 100 random 70:30 train/test splits.
 
-## Connected Concepts
-
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[cognitive-diagnosis]]
-- [[educational-measurement]]
-## Connected Articles
-
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
-- [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
-- [[proprl-prerequisite-relation-learning]] — ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs
-- [[cross-subject-validity-delayed-start]] — Cross-Subject Predictive Validity for [[learning-gains|Learning Outcomes]] of Delayed Start Behavior
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
-
 ## Citation
 
 Ryosuke Nagai, Kyohei Atarashi, Koh Takeuchi, Jill-Jênn Vie, Hisashi Kashima (2026). [Estimating Learners' Skill Acquisition Without Temporal Information](https://arxiv.org/abs/2606.20611). AIED 2026, Seoul

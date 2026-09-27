@@ -42,23 +42,6 @@ The overall effect is small-to-moderate (g = 0.38) with substantial heterogeneit
 - Inclusion was restricted to peer-reviewed English-language journal articles in three databases, which may have excluded relevant non-English or non-journal studies.
 - Interventions ranged from 2 to 32 weeks and outcome measures varied widely, leaving the durability of the gains uncertain.
 
-## Connected Concepts
-
-- [[language-learning]] — the learning domain
-- [[english-education]] — the EFL context
-- [[generative-ai]] — AI-powered chatbots and automated writing evaluation
-- [[intelligent-tutoring]] — one of the AI tool categories
-- [[k-12]] — primary and secondary settings
-- [[higher-ed]] — tertiary settings
-- [[game-based-learning]] — gamification platforms
-
-## Connected Articles
-
-- [[acceptance-ai-english-tools-2026]] — acceptance of AI tools for English
-- [[chatgpt-english-language-learning-malaysia]] — ChatGPT in English language learning
-- [[ai-tools-arab-english-classrooms]] — AI tools in Arabic English classrooms
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI vs human assessment in EFL
-
 ## Citation
 
 Liu, M., Hashim, H., & Sulaiman, N. A. (2026). [*A systematic review of emerging technology applications for teaching English as a foreign language across different educational levels*](https://doi.org/10.1016/j.edurev.2026.100795). Educational Research Review, 52, 100795.

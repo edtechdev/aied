@@ -43,15 +43,5 @@ This paper anchors the [[sustainability|sustainable AI in education]] concept pa
 - The analysis is positioned at a macro level of depth and scope, addressing normative and governance questions, so it cannot resolve institution-level or classroom-level variation in how AI is adopted.
 - The authors identify culturally and religiously grounded contexts, where epistemic authority, moral formation, and technological mediation intersect, as unexamined; no empirical case analysis of enacted governance is included.
 
-## Connected Concepts
-- [[sustainability]]
-- [[ethics]]
-- [[ai-education]]
-- [[generative-ai]]
-- [[governance]]
-- [[critical-pedagogy]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-
 ## Citation
 Alsuhami, A. O., & Atallah, F. A. (2026). [*Sustainable Education in the Age of Artificial Intelligence and Digitalization: A Value-Critical Approach*](https://doi.org/10.3390/su18031257). *Sustainability*, 18(3), 1257.

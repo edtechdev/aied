@@ -39,25 +39,6 @@ page_kind: [evaluation]
 - Interface design restrictions (no stop or scroll functionality, and several equivalence formats for environmental impact) likely influenced satisfaction under higher-latency conditions.
 - Carbon modeling for computing systems carries inherent uncertainty, so the authors frame the results as communication rather than precise numerical claims.
 
-## Connected Concepts
-
-- [[llm]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[ethics]]
-- [[generative-ai]]
-- [[cs-education]]
-- [[ai-education]]
-- [[sustainability]]
-
-## Connected Articles
-
-- [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Toward sustainable AI knowledge-base assistants in CS education
-- [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance
-- [[unesco-ai-guidelines-chemical-education-2026]] — Translating UNESCO AI Guidelines to Chemical Education
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — Artificial intelligence in higher education: a systematic review
-
 ## Citation
 
 Kim, Chen, Cabral, Lin, Gupta, & Hester (2026). [*When LLMs Slow Down: How Environmental Impacts Mediate University Students' LLM Usage*](https://arxiv.org/abs/2608.23968).

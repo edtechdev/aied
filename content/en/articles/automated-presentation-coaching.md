@@ -36,25 +36,6 @@ Key open challenges include the scarcity of annotated presentation corpora, achi
 - The taxonomy and metrics were derived from existing literature and may not capture all dimensions relevant to real-world coaching; the datasets curated and recommended are limited in scale, since most CAPT corpora cover isolated words or short sentences without slide structure, domain terminology, or discourse-level features.
 - No empirical comparison is provided between clone-and-compare references and expert references across speaker populations, the practical implementation of accent-fair thresholds and privacy-preserving systems still needs validation in deployed settings, and cross-system comparison is constrained because commercial platforms (ELSA Speak, Speechling, Yoodli, Orai) typically address only one or two taxonomy dimensions and rarely publish their technical approaches.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[professional-training]]
-- [[language-learning]]
-- [[scaffolding]]
-- [[personalized-learning]]
-- [[ai-literacy]]
-- [[multimodal]]
-## Connected Articles
-
-- [[prompt-coach-agentic-tutor-prompt-engineering]] — Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
-- [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents
-
 ## Citation
 
 Wen Liang, Li Siyan, Zackary Rackauckas, Julia Hirschberg (2026). [A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges](https://arxiv.org/abs/2606.27380). Computation and Language (cs.CL).

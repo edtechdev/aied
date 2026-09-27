@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, rag]
 assessment: [assessment, authentic-assessment]
-connected_faqs: [ai-guidance-children-under-13]
 methods: [design-based-research]
 audience: [researchers, instructors]
 research_method: [quasi-experiment]
@@ -59,29 +58,6 @@ The integrated redesign **resolved both [[academic-integrity]] and authenticity 
 - Retrospective and non-experimental: students were only indirectly exposed to different treatment conditions across six years, so causation cannot be determined and alternative explanations for the cohort differences remain open.
 - With eight sections, assumptions of normality and sphericity cannot be meaningfully evaluated, and the authors acknowledge the mixed-design ANOVA was chosen despite that limit.
 - The format pilot drew 28 respondents from 149 students (53%, n = 15, preferred the split format) and ran on the final quiz, so the authors note that the positive sentiment may be inflated.
-
-## Connected Concepts
-
-- [[ai-detection]]
-- [[reducing-ai-misuse]]
-- [[student-experience]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[higher-ed]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
-- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
-- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
-- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights
-- [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy
 
 ## Citation
 

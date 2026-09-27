@@ -48,26 +48,6 @@ methods: [meta-analysis-systematic-review]
 - Model monoculture: the overwhelming majority of reviewed learning experiences used one company's GPT models, limiting comparative insight across models.
 - Coverage gaps: the search stopped in October 2024, and records were excluded for being non-English (n = 1) or available only as abstracts (n = 4).
 
-## Connected Concepts
-
-- [[generative-ai]] — the technology under review
-- [[computational-thinking]] — the skill GenAI is used to teach
-- [[ai-education]] — the umbrella field
-- [[cs-education]] — CT's disciplinary home
-- [[learning-gains]] — the outcome most reviews find mixed
-- [[cognitive-offloading]] — the overreliance risk for beginners
-- [[self-regulated-learning]] — supported via advanced GenAI roles
-- [[academic-integrity]] — an ethical guideline target
-
-## Connected Articles
-
-- [[liang-genai-systematic-review-human-ai-2026]]
-- [[learning-by-chatting-genai-impact]]
-- [[genai-usage-design-students-survey]]
-- [[genai-mindtool-generative-learning]]
-- [[computational-thinking-ai-agent-creation]]
-- [[astor-computational-thinking-meta-review-2026]]
-
 ## Citation
 
 Ouaazki, A., Shibani, A., Knight, S., & Holzer, A. (2026). [*Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines*](https://doi.org/10.1016/j.caeai.2026.100608). *Computers and Education: Artificial Intelligence*, 10, 100608.

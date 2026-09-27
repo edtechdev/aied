@@ -67,35 +67,6 @@ The propositions that remain thin are flagged as such. Engagement mediation (P4)
 - The randomized populations are narrow — a high school in one country, a university course in another, and tutoring platforms in a third — with correlational evidence from one national sample of 666 adults.
 - The offloading pathway rests on indirect, cross-sectional evidence and requires a target skill that can be identified, which the authors concede is contested in authentic assignments.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[productive-failure]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[ai-misuse-learning-harm]]
-- [[icap-framework]]
-- [[self-regulated-learning]]
-- [[problem-solving]]
-- [[student-ai-interaction]]
-- [[assessment]]
-- [[rct]]
-
-## Connected Articles
-
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking
-- [[nesnin-cognitive-offloading-ai-students-2026]] — Cognitive Offloading in the Age of AI: Are Students Thinking Less or Learning Differently?
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills
-- [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment
-- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — From Cognitive Outsourcing to Reallocation: A 3P Analysis of Student–Generative AI Engagement in Unsupervised Assessments
-
 ## Citation
 
 Lee (2026). [*Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning*](https://osf.io/preprints/edarxiv/8f376_v1/). EdArXiv.

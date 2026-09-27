@@ -64,36 +64,6 @@ This survey offers the field a much-needed **definitional and taxonomic anchor**
 - Benefit claims (personalization, motivation, relief of routine instructor work) are drawn from heterogeneous applications the survey neither pools nor weights, so magnitudes cannot be compared across studies.
 - The reviewed systems inherit the LLM limitations the authors themselves enumerate: hallucinations when reasoning about new or ambiguous topics, weak session-long memory without external storage, and constrained real-time multimodal understanding.
 
-## Connected Concepts
-
-- [[agentic-ai]] — the construct the survey defines, classifies, and reviews
-- [[intelligent-tutoring]] — agentic tutors as the ITS legacy extended
-- [[human-ai-collaboration]] — collaborative agents and human-AI co-teaching
-- [[human-in-the-loop-ai]] — the safeguarding principle for agent autonomy
-- [[scaffolding]] — proactive scaffolding and fading protocols
-- [[self-regulated-learning]] — coach agents and the metacognitive dimension
-- [[cognitive-offloading]] — over-scaffolding and learner dependency risk
-- [[metacognition]] — coach/mentor agents building metacognitive skills
-- [[conversational-ai]] — reactive chatbots excluded by the agentic criteria
-- [[bias-mitigation]] — bias, fairness, and cultural sensitivity
-- [[equity-in-ai-education]] — access, digital divide, and participatory design
-- [[educational-policy-ai]] — governance and policy frameworks
-- [[ai-ed-evaluation]] — pedagogical evaluation and benchmarking
-- [[generative-ai]] — the LLM substrate of most agentic systems
-- [[pedagogical-agent|multi-agent]] — collaborative and multi-agent environments
-- [[trust]] — transparency and explainability build trust
-- [[privacy]] — data governance in autonomous systems
-
-## Connected Articles
-
-- [[agentic-ai-education-scoping-review]] — scoping review mapping 474 agentic AI studies (Wang et al. 2026)
-- [[agentic-ai-pedagogical-best-practice-2026]] — the automation-versus-learning tension
-- [[tool-invariant-framework-agentic-ai]] — teaching and assessing in the agentic age
-- [[agentic-literacy-debt]] — the structural AI-literacy gap from autonomous agents
-- [[astra-multi-agent-tutoring-benchmark-2026]] — multi-agent tutoring benchmark
-- [[jeon-isd-agent-bench-2026]] — benchmarking instructional-design agents
-- [[bozkurt-ghost-students-agentic-ai-2026]] — ghost students and the agentic-AI verification gap
-
 ## Citation
 
 Kostopoulos, G., Gkamas, V., Rigou, M., & Kotsiantis, S. (2025). [*Agentic AI in education: State of the art and future directions*](https://doi.org/10.1109/ACCESS.2025.3620473). *IEEE Access, 13*, 177467–177491.

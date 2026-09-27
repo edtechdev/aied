@@ -7,7 +7,6 @@ foundations: [educational-development, teacher-role]
 pedagogy: [scaffolding]
 technology: [generative-ai, human-in-the-loop-ai, rag]
 assessment: [feedback]
-connected_faqs: [ai-feedback-at-scale]
 methods: [mixed-methods-research, qualitative-research]
 audience: [instructors, faculty developers]
 level: [higher ed]
@@ -55,34 +54,6 @@ confidence: high
 - Only 21 teachers were studied, and they worked in a controlled environment on a single simulated task — giving feedback on one three-minute recorded student self-introduction, not feedback in their own courses.
 - The study measured teacher interaction and perception only; no student outcomes or student perspectives were collected, so the effect of these tool-supported feedback practices on learners is untested.
 - Several findings rest on very small counts — the 100% acceptance of Affirmation and Encouragement suggestions reflects 6 cases, and the challenge codes have a denominator of 11 teachers — so the components of the "assist but verify" pattern vary substantially in evidential weight.
-
-## Connected Concepts
-
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[human-in-the-loop-ai]]
-- [[teacher-role]]
-- [[educational-development]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[rag]]
-- [[trust]]
-
-## Connected Articles
-
-- [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy
-- [[genai-teacher-feedback-comparison]] — Comparing generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
-- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
-- [[ai-assistance-discretionary-feedback]] — AI assistance for discretionary work: increasing feedback provision in higher education
-- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
-- [[genai-feedback-design-multisite-experiment]] — GenAI feedback design in a multisite experiment
-- [[ai-internal-feedback-evaluative-judgments]] — AI internal feedback and evaluative judgments
-- [[becerra-aicofe-feedback-2026]] — AI peer-feedback systems
-- [[care-full-feedback-genai]] — Care-full feedback with GenAI
-- [[reimagining-feedback-through-generative-ai-in-engineering-education]] — Reimagining feedback through generative AI in engineering education
 
 ## Citation
 

@@ -64,22 +64,6 @@ In the Synthesize step, scaffolding questions are generated. The screen keeps th
 - Claims about reduced preparation time and reduced cognitive load are design intentions rather than measurements — the paper reports no participant count, no preparation-time data, and no comparison against writing scaffold questions unaided.
 - The authors name one structural constraint directly: access to AI-supported tools is disproportionate between socio-economic classes, which limits where the tool can be used equitably.
 
-## Connected Concepts
-
-- [[stem-education]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[learning-design]]
-- [[tpack]]
-- [[generative-ai]]
-- [[llm]]
-- [[knowledge-graph]]
-## Connected Articles
-
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[ai-tutor-authoring-promptdecipher]]
 ## Citation
 
 Madhuri Singh, Gennie Mansi, Mark Owen Riedl (2026). [Creating Learning Scaffolds for Engineering Design Using Concept Catalyst](https://arxiv.org/abs/2605.20511). Accepted as Interactive Demo at ISLS 2026.

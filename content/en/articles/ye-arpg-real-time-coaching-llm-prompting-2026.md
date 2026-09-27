@@ -48,25 +48,6 @@ This paper advances the knowledge base's understanding of [[prompt-engineering]]
 - Simulated agents cannot report whether hints feel supportive or intrusive, and the study tests no instructor adoption, curriculum fit, time-on-task constraints, or coexistence with other tools, leaving learner experience and classroom integration outside the evidence base.
 - Equity-relevant differences (first-generation status, second-language learning, neurodivergence, socioeconomic background, prior AI exposure, cultural variation in [[help-seeking]]) are not represented by the three profiles, and hyperparameters were frozen from a 200-learner held-out calibration set rather than validated against human data.
 
-## Connected Concepts
-
-- [[prompt-engineering]]
-- [[llm]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[learning-design]]
-- [[agency]]
-
-## Connected Articles
-
-- [[prompting-teachability-novice-personas-lbt-2026]]
-- [[prompt-privilege-equitable-ai-access-2026]]
-- [[think-first-chatgpt-later-2026]]
-- [[jost-llm-programming-education-learning-outcomes]]
-
 ## Citation
 
 Ye, P.-G., Mo, K., Long, Y., Liu, M., Sang, H., & Zheng, J. (2026). [*ARPG+: a simulation-based study of real-time coaching for educational LLM prompting*](https://doi.org/10.1186/s41239-026-00606-9). *International Journal of Educational Technology in Higher Education*.

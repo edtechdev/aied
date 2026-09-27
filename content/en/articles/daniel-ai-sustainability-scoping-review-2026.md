@@ -40,18 +40,5 @@ This scoping review is the **defining survey** for the knowledge base's [[sustai
 - Database coverage had to be expanded across Google Scholar, IEEE Xplore, Scopus, ERIC, Web of Science, Environment Complete, and Business Source Complete; the authors acknowledge that no set of databases fully encompasses a field spanning computer science, environmental studies, education, and policy.
 - The concepts themselves are emergent and inconsistent across sources, so the definitions mapped here may not stabilize as the field develops.
 
-## Connected Concepts
-- [[sustainability]]
-- [[higher-ed]]
-- [[meta-analysis-systematic-review]]
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-
-## Connected Articles
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education
-- [[llm-environmental-impact-student-usage-2026]] — Environmental impacts of LLM use
-
 ## Citation
 Daniel, B. K., Podgorodnichenko, N., & Carr, S. (2026). [*A Scoping Review of AI for Sustainability and Sustainable AI in Higher Education*](https://doi.org/10.1007/s10791-025-09861-2). *Discover Computing*, 29(1), 48.

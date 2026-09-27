@@ -62,21 +62,6 @@ The framework is intended to travel across K-12 and higher education, but not as
 - **Breadth can reduce construct precision.** Digital competence, AI literacy, AI-related pedagogical knowledge and Intelligent-TPACK may overlap, and common-method bias threatens any design measuring all constructs through one questionnaire.
 - **Learners, leaders and wider systems remain underdeveloped.** Learner readiness, leadership practice, vendor responsibility and parental expectations are not modeled, and learning, wellbeing, equity and agency are distal consequences beyond the design-quality outcome.
 
-## Connected Concepts
-
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[agency]]
-- [[ai-literacy]]
-- [[educational-policy-ai]]
-- [[theory-development-aied]]
-## Connected Articles
-
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — validates an intelligent-TPACK readiness instrument for pre-service teachers, the competence-measurement tradition this framework repositions as a resource rather than an outcome.
-- [[ai-integration-instructional-design-collaboratory-2026]] — reaches a parallel reframing, that AI integration in teacher preparation is an instructional design problem rather than a tool adoption problem.
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — studies readiness and barriers among education managers, supplying the institutional and policy conditions this article theorizes as moderators.
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — examines professional development for designing with pedagogical AI agents, complementing the design-studio model proposed here.
-
 ## Citation
 
 Charles, Tendai. (2026). *[Teacher Readiness-By-Design for AI-Rich Interactive Learning](https://doi.org/10.1002/jcal.70316)*. Journal of Computer Assisted Learning, 42, e70316. https://doi.org/10.1002/jcal.70316

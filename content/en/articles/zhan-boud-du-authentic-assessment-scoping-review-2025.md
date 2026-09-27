@@ -101,28 +101,6 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 - The underlying evidence is thin: sample sizes in the reviewed studies ranged from 5 to 493 participants, and only 29% included 100 or more.
 - Several headline gaps rest on very few studies: social authenticity on three, student choice on eight, and sustainable feedback on four.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[desirable-difficulties]]
-- [[educational-development]]
-- [[formative-assessment]]
-- [[human-in-the-loop-ai]]
-- [[metacognition]]
-- [[pedagogical-llm-training]]
-- [[self-regulated-learning]]
-- [[sociocultural-learning]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[higher-ed]]
-## Connected Articles
-
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-
 ## Citation
 
 Zhan, Y., Boud, D., & Du, Z. (2025). [*Designing for authentic assessment: a scoping review*](https://doi.org/10.1007/s10734-025-01588-9). *Higher Education*.

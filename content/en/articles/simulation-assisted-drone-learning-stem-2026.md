@@ -43,28 +43,6 @@ The five simulations — Satellite Positioning, Virtual Flight, QuadPhysics, Dro
 - The STEM knowledge measure was a brief, locally developed 10-item test that, although curriculum-aligned and externally reviewed, is not a standardized measure of attainment; the 21st-century competencies measure was student self-report.
 - Evidence comes from an eight-lesson after-school enrichment program with only six interview participants, which limits generalization to formal classroom settings and longer curricula.
 
-## Connected Concepts
-
-- [[simulation]] — the core instructional mechanism, used here as low-stakes pre-flight scaffolds
-- [[stem-education]] — the disciplinary context of drone-based "dronagogy"
-- [[generative-ai]] — the GenAI chatbot used in teacher-AI co-design of the simulations
-- [[teacher-role]] — teacher specification, review, and pedagogical oversight in co-design
-- [[intelligent-tutoring]] — GenAI-supported resource generation for learning
-- [[scaffolding]] — simulations as supplementary conceptual, procedural, and reflective scaffolds
-- [[experiential-learning]] — the Kolb cycle grounding the [[curriculum-design|curriculum design]]
-- [[inquiry-based-learning]] — hypothesis testing and evidence-based revision in simulations
-- [[critical-thinking]] — the largest competency effect observed
-- [[collaborative-learning]] — pair debugging and shared prediction around simulations
-- [[formative-assessment]] — learning visibility supporting real-time teacher response
-- [[computational-thinking]] — code testing, debugging, and trajectory preview
-- [[transfer-of-learning]] — transfer from virtual rehearsal to physical drone operation
-
-## Connected Articles
-
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — also examines GenAI-supported scaffolding within active learning pedagogies
-- [[lnenicka-secondary-students-genai-stem-2026]] — shares the secondary-students-in-STEM + generative-AI focus
-- [[educational-robotics-pathways-2026]] — adjacent hands-on, technology-rich STEM learning using physical devices
-
 ## Citation
 
 [From simulation to flight: Simulation-assisted drone learning with teacher-AI co-designed scaffolds for secondary students' STEM knowledge and competencies](https://doi.org/10.1016/j.caeai.2026.100651) — Yeung, R. C. Y., Yeung, C. H., Sun, D., Keane, T., & Yang, Y. (2026). *Computers and Education: Artificial Intelligence*, 11, 100651.

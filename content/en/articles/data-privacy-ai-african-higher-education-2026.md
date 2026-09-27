@@ -48,22 +48,5 @@ A recurring structural theme is that privacy risk is amplified by conditions out
 - The search covered only ERIC and PubMed, limiting coverage of the wider literature on AI and privacy in African higher education.
 - The synthesis covers 18 studies concentrated on a small set of countries and generated no new primary data, so findings report perceptions rather than measured effects.
 
-## Connected Concepts
-- [[privacy]]
-- [[trust]]
-- [[ethics]]
-- [[governance]]
-- [[regulation]]
-- [[global-south]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-
-## Connected Articles
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Understanding ethical dimensions of AI in higher education
-- [[ai-ethical-awareness-ghana-students-2026]] — Artificial intelligence ethical awareness of university students in Ghana
-- [[institutional-governance-ai-universities]] — Policy fragmentation or institutional alignment in university AI governance
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI implementation in higher education
-- [[ai-uk-higher-education-policy-2026]] — Artificial intelligence in UK higher education policy and institutional decision making
-
 ## Citation
 Duncan, E. (2026). [*Rethinking data privacy for AI adoption in African higher education: A meta-synthesis of stakeholder perceptions and policy implications*](https://doi.org/10.1016/j.caeo.2026.100408). *Computers and Education Open*, 11, 100408.

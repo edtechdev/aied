@@ -52,26 +52,6 @@ EC's value lies in offering conceptual vocabulary for asking better questions ab
 - Granting AI functional agency risks the anthropomorphization the authors set out to avoid, and the collaboration emphasis may mask power relationships and inequalities embedded in AI systems rather than address them.
 - The transparency problem is identified, not solved: the opacity of AI decision-making is argued to be potentially incompatible with educational ideals of transparency and comprehensibility.
 
-## Connected Concepts
-
-- [[agency]]
-- [[metacognition]]
-- [[human-ai-collaboration]]
-- [[embodied-learning]]
-- [[cognitive-offloading]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[constructivist]]
-- [[pedagogical-agent]]
-
-## Connected Articles
-
-- [[tzirides-thinking-through-ai-2025]] — Thinking Through AI: Advancing Cognitive and Collaborative Research for AI in Education
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking
-- [[ai-making-us-stupid]] — Is AI making us stupid?
-- [[brcic-effortless-trap-productive-struggle-2026]] — The effortless trap and productive struggle
-- [[rethinking-ai-writing-feedback-literacy]] — Rethinking AI, writing, and feedback literacy
-
 ## Citation
 
 Jho, H., Park, C., & Ahn, D. (2026). [*Towards a philosophy of ensemble cognition: Reconceptualising agency and mind in AI-mediated educational environments*](https://doi.org/10.1080/00131857.2026.2654678). *Educational Philosophy and Theory*. doi:10.1080/00131857.2026.2654678.

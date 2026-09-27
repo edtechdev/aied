@@ -42,24 +42,6 @@ The study used a three-phase sequential mixed-methods design (QUAL-QUAN-qual). I
 
 The study draws on a single institution's art and design students and faculty, bounding generalizability to other creative disciplines and contexts. The mixed-methods design, while rich, relies on self-report for acceptance and intention constructs, and the explanatory [[qualitative-research|qualitative]] phase is limited to explaining quantitative results rather than independently establishing mechanisms. The dynamic, evolving nature of T2I technology means findings may not fully generalize to future tool capabilities.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[creativity]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[trust-calibration]]
-- [[assessment-validity]]
-- [[arts-design-and-media-education]]
-## Connected Articles
-
-- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse
-- [[ai-generated-interactive-fiction-education-2026]] — AI-Generated Interactive Fiction in Education
-- [[genai-mindtool-generative-learning]] — Generative AI as a Mindtool That Supports Generative Learning
-- [[agency-gap-ai-writing]] — The Agency Gap in AI-Supported Writing
-- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement With GenAI
-
 ## Citation
 
 Liu, Y., Meng, M., & Zhang, Y. (2026). [*The competence paradox: Negotiating ease, risk, and creative identity in text-to-image generative AI use among art and design students*](https://doi.org/10.3389/fpsyg.2026.1858187).

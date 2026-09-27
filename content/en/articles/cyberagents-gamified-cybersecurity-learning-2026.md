@@ -86,28 +86,6 @@ CyberAGENTS was implemented as a web-based interactive system (React frontend, P
 - The LLM-as-judge results are single-model judgments of transcripts, and the ablated configuration received less traffic than the full system, so the authors read the ablation descriptively rather than as a controlled comparison.
 - Evaluation used one novice difficulty level and Llama-based models served through a single commercial API, so performance may not transfer to other models, difficulty levels, or longer curricula.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[cs-education]]
-- [[pedagogical-safety]]
-- [[llm]]
-- [[professional-training]]
-- [[generative-ai]]
-- [[scaffolding]]
-- [[motivation]]
-- [[trust-calibration]]
-
-## Connected Articles
-
-- [[tech-enhanced-tabletop-cybersecurity-education]]
-- [[computing-students-cybersecurity-attitudes]]
-- [[medgame-llm-medical-education-gamification]]
-- [[ai-enabled-serious-games]]
-- [[vismatic-secure-sandbox-cs-education]]
-- [[hypergamification-game-engine-lms]]
-- [[sec-ai-literacy-narrative-review-2026]]
-
 ## Citation
 
 Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). [*CyberAGENTS: Structured autonomy for agentic gamified learning in cybersecurity*](https://arxiv.org/abs/2608.07965).

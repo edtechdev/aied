@@ -35,28 +35,6 @@ The Evaluation phase closes the loop by connecting student performance data to i
 - The multi-agent STEM visualization framework was judged on technical correctness and pedagogical alignment but never evaluated for cognitive load or learner comprehension, so generated visualizations may vary in effectiveness by learner background.
 - Practical deployment constraints remain — computational cost, internet accessibility, and varying teacher familiarity with AI tools — which the authors expect to limit adoption in the rural and under-resourced settings they aim to reach; the rigid ADDIE phases may also frustrate experienced teachers who adapt beyond predefined stages.
 
-## Connected Concepts
-
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[bias-mitigation]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-education]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[feedback]]
-
-## Connected Articles
-
-- [[human-llm-collaborative-coding-k12-educator-ai]] — Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
-- [[concept-catalyst-engineering-scaffolds]] — Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth
-- [[cyberscholar-genai-writing-feedback]] — Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar
-
 ## Citation
 
 Doan Viet, T., Nguyen Hoang, A., Luong Son, T., Hoang Thi Ngoc, A., Giang Thi Thu, H., & Le Quy, T. (2026). [ConnectED: A curriculum-aligned AI system for Vietnamese instructional lesson planning and student learning](https://arxiv.org/abs/2607.28647).

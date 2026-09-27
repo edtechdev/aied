@@ -61,37 +61,6 @@ The framework's concrete implications reshape both practice and governance. In [
 - The framework sets conditions without resolving the tensions it identifies: the authors state it does not reconcile the pedagogical utility of AI with the problems raised throughout the paper, and offers a basis for deliberation rather than a tested remedy.
 - Its equity claims are argued rather than measured — the potentially inequitable impacts for under-resourced institutions are named as a hypothesis the authors propose testing comparatively across socio-economic contexts.
 
-## Connected Concepts
-
-- [[agency]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[self-determination-theory]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]]
-- [[tpack]]
-- [[ethics]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[assessment]]
-- [[scaffolding]]
-
-## Connected Articles
-
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Toward a theory of epistemic co-agency
-- [[andragogy-cognitive-delegation-genai-2026]] — Revisiting andragogy through cognitive delegation in GenAI-mediated adult learning
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From substitution to scaffolding: breaking the self-reinforcing harm cycle
-- [[strydom-human-gai-paradigms-2026]] — Seven human-GAI engagement paradigms
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for generative AI
-- [[teacher-student-agency-orchestration]] — Teacher–student agency orchestration
-- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
-
 ## Citation
 
 Poudyal, B. (2026). [*Reclaiming epistemic agency: A critical framework for human-generative AI co-agency in education*](https://arxiv.org/abs/2608.26937). arXiv:2608.26937.

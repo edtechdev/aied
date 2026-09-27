@@ -11,7 +11,6 @@ audience: [learners, software developers]
 sources: ['raw/papers/interactive-online-learning-ai-2025.md']
 confidence: medium
 page_kind: [evaluation]
-connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** Li and Yin (2025) propose a hybrid **DMO-GRU** framework for AI-powered interactive online learning, combining the Dwarf Mongoose Optimization (DMO) algorithm with a Gated Recurrent Unit (GRU) neural network. DMO performs feature selection and automatic hyperparameter tuning, while GRU captures temporal patterns in sequential student data. Evaluated on classification and regression tasks against Linear Regression, Random Forest, SVR, and XGBoost, the model reports superior accuracy (91.2%), F1-score (90.8%), precision (90.1%), recall (92.5%), and the lowest error (MAE 2.70, RMSE 3.40, R² 0.92), while also supporting interactive audio, video, and one-to-one learning modes intended to boost engagement.
@@ -42,23 +41,6 @@ The core contribution is the **DMO-GRU** framework: DMO (modeled on dwarf mongoo
 - Validation used benchmark datasets with no deployment on a live platform, which the authors name as their first stated shortcoming, so the reported gains are preliminary rather than established.
 - The authors also flag that the model is not interpretable and that ethical issues such as data protection and fairness received little attention in the study.
 - Comparisons were run only against classical baselines (Linear Regression, Random Forest, SVR, XGBoost) in MATLAB R2023a, and the preprocessing pipeline — Z-score outlier removal at |Z| > 3 and SMOTE balancing — shapes the training data without separate ablation.
-
-## Connected Concepts
-
-- [[online-teaching-and-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[student-engagement]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI and [[learning-gains|learning outcomes]]
-- [[tam-critical-use-genai-engineering-2026]] — Technology acceptance in AI-assisted learning
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — AI cocreation and just-in-time support
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — AI in formative assessment and instructor roles
 
 ## Citation
 

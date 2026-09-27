@@ -18,7 +18,6 @@ page_kind: [evaluation]
 source_url: https://doi.org/10.14742/ajet.11467
 sources: ['raw/papers/peer-group-vs-ai-feedback-2026.md']
 confidence: high
-connected_faqs: [ai-feedback-at-scale, group-work-ai, redesign-assessment-ai-era]
 contributors: [editor]
 reviewed_by: [editor]
 ai_assist:
@@ -75,15 +74,6 @@ Two numbers deserve care when the findings are quoted. The paper's abstract refe
 - **One discipline and one kind of task.** Participants were all educational technology majors evaluating text-based design proposals, so transfer to other fields, other artifact types and [[multimodal]] assessment is untested.
 - **The study measured adoption, not learning.** Revision behavior was classified by which feedback source it followed, and the paper did not test whether the revised work improved, so acceptance rates cannot be read as evidence of [[learning-gains|learning gains]].
 - **AI feedback validity was never independently verified.** Scores and comments were produced by the model and used as a feedback condition without expert review or fact-checking, leaving open how accurate the feedback students found so objective actually was.
-
-## Connected Concepts
-[[feedback]], [[peer-assessment]], [[group-work]], [[formative-assessment]], [[ai-feedback-quality]], [[generative-ai]], [[conversational-ai]], [[collaborative-learning]], [[human-ai-collaboration]], [[critical-thinking]]
-
-## Connected Articles
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline
-- [[tripartite-feedback-framework-ai-assessment-2026]] — A Tripartite Feedback Framework for AI-Assisted Assessment of Complex Reports in Higher Education
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs Do Not Grade Essays Like Humans
 
 ## Citation
 

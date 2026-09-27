@@ -51,26 +51,6 @@ The introduction situates the study against a large existing literature — a bi
 - The journals were filled unevenly, some highly detailed and others generic, and overall 100 students completed the form on two group assignments, so as a corpus they give only a partial picture of practice.
 - Item-level n varies across the survey tables (n = 202-231) and the ownership, [[creativity]] and [[trust]] measures are self-report, so results such as the 31% reporting a perceived loss of ownership rest on different respondent subsets.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[writing-education]]
-- [[creativity]]
-- [[design-thinking]]
-- [[agency]]
-## Connected Articles
-
-- [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
-- [[student-regulatory-awareness-genai]] — Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education
-- [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education
-- [[student-rationalization-ai-writing]] — It''s OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing
-
 ## Citation
 
 Stefana Broadbent, et al. (2026). [A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026](https://arxiv.org/abs/2607.17094). .

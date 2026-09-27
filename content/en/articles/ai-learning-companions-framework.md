@@ -61,22 +61,6 @@ The framework is validated across five diverse educational contexts, levels, and
 - The adaptive foundation is aspirational. The paper states that persistent adaptivity "remains largely emerging across most cases", so the Capture–Model–Adapt–Evolve cycle is a design target rather than demonstrated practice.
 - Evidence about durability is absent by the authors' own account: they call for delayed retention and transfer to be built into evaluation frameworks, which means the claim that companions support durable learning has not yet been tested against those outcomes.
 
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-experience]]
-- [[llm]]
-- [[refutation-text]]
-
-## Connected Articles
-
-- [[llm-fallacy-misattribution]]
-- [[nie-personavlm-long-term-personalization-2026]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
 ## Citation
 
 Khosravi, H., Gasevic, D., Sadiq, S., Yan, L., Lodge, J., Tangen, J., Denny, P., & DiCerbo, K. (2026). [*Building AI Companions that Prioritise Learning over Performance*](https://arxiv.org/abs/2605.04816)

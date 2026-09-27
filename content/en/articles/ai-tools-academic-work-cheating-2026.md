@@ -41,28 +41,6 @@ A systematic literature review following the PRISMA 2020 framework. Four databas
 - The correlational evidence comes from a secondary pairwise analysis of N = 320 rather than a purpose-designed study, and the review covers literature published from January 2019 to December 2025.
 - Included studies are heterogeneous in design, and most measure perceptions through self-report instruments rather than observed AI use or demonstrated learning, so the student–faculty gap and the cognitive-offloading risk are the most reported, and least measured, findings.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[student-experience]]
-- [[assessment]]
-- [[ai-detection]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[reducing-ai-misuse]]
-
-## Connected Articles
-
-- [[ssaho-ai-academic-integrity-review-2025|Systematic review of AI and academic integrity]]
-- [[stromberg-generative-ai-learning-penalty-secondary-2026|Generative AI use and learning outcomes]]
-- [[genai-educational-outcomes-meta-analysis|Meta-analysis of generative AI educational outcomes]]
-- [[responsible-assessment-ai-era-stanford-2026|Responsible assessment in the AI era]]
-
 ## Citation
 
 Padhy, A. (2026). [*Is using artificial intelligence tools for academic work cheating?*](https://doi.org/10.70593/deepsci.0202038). *International Journal of Applied Resilience and Sustainability*.

@@ -30,19 +30,6 @@ confidence: medium
 - The outcome grade showed a ceiling effect, which the authors say may have led to underestimation of the associations; observed effect sizes were small to moderate.
 - All 103 student pairs came from a single introductory software engineering course, and many partners were previously acquainted and chose each other, a context that likely inflated assumed-similarity bias and limits generalizability to other settings and team compositions.
 
-## Connected Concepts
-
-- [[student-experience]]
-- [[cs-education]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[collaborative-learning]]
-- [[human-ai-collaboration]]
-- [[trust]]
-- [[social-norms-ai-use]] — the informal rules around AI use
-## Connected Articles
-
-- [[golrang-propact-pair-programming-2026]]
 ## Citation
 
 Laura Graf, Ramona Beinstingel, Stephan Kusche, Oleksandra Poquet (2026). [Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance](https://arxiv.org/abs/2606.23237).

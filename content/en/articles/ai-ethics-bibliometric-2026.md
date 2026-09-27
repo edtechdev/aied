@@ -57,27 +57,6 @@ This bibliometric paper provides field-level empirical grounding for the knowled
 - The design is descriptive–evaluative bibliometrics: the authors state it does not synthesize empirical findings or assess study quality, and it supports no causal inference.
 - Total citations and citations per year measure intellectual influence only; the authors explicitly state this limitation is inherent in citation-based approaches and qualifies how prominence of themes should be read.
 - Screening excluded work that treated AI ethics solely at policy or regulatory level or without professional-practice reference, an eligibility judgment that shapes what the corpus can show.
-## Connected Concepts
-
-- [[ethics]]
-- [[ai-education]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[trust]]
-- [[philosophy-of-ai-in-education]]
-- [[agency]]
-- [[ai-literacy]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[teacher-role]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[finkelstein-principled-ai-education-2025]] — Principled approaches to AI in education
-- [[teacher-ai-teaming-five-levels]] — Teacher–AI teaming across five levels
-- [[ai-communities-of-inquiry-2026]] — AI and communities of inquiry
-
 ## Citation
 
 Mazlan, C. A. N., Othman, M. A., Md Noor, A. R., Jamnongsarn, S., & Hidayatullah, R. (2026). [From abstract ethics to situated practice: A bibliometric analysis of AI ethics and professional judgement](https://doi.org/10.1007/s11423-026-10630-1). *Educational Technology Research and Development*.

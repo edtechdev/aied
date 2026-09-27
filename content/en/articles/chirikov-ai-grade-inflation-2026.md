@@ -47,29 +47,6 @@ Grades summarize student performance and signal skill to students, graduate prog
 - AI exposure is inferred from course task composition in Fall 2022 syllabi; the study does not directly measure student AI use at the course level.
 - The design identifies an average effect only: heterogeneity in how individual students engage with AI within a course remains unobserved, so the distribution of displacement versus augmentation across students is not identified.
 
-## Connected Concepts
-
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[automated-assessment]]
-
-## Connected Articles
-
-- [[chirikov-regulate-ai-syllabi-2026]] — Companion paper: how instructors regulate AI across 31,000 syllabi (Chirikov 2026)
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[genai-availability-grades-satisfaction]] — GenAI availability and grade/satisfaction outcomes
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
-- [[llm-reliance-types-undergrad]] — Types of LLM reliance among undergraduates
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI vs. human assessment in EFL contexts
-- [[generative-ai-reduced-study-time-math]] — Proctored retention decline showing AI inflates non-proctored performance
-
 ## Citation
 
 Chirikov, I. (2026). [Artificial Intelligence and Grade Inflation](https://escholarship.org/uc/item/80x8d3qd). *CSHE Higher Education Working Paper Series, 26*(3).

@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai, human-in-the-loop-ai]
 ethics: [ethics, privacy]
-connected_faqs: [institutional-ai-policy]
 audience: [administrators]
 research_method: [delphi]
 level: [higher ed]
@@ -50,25 +49,6 @@ This paper provides the knowledge base's most authoritative, globally consensus-
 - Delphi consensus from 35 panelists (of 41 invited) representing 22 countries across six continents; consensus reflects expert judgment rather than measured institutional outcomes.
 - Students, policymakers, employers, and technology developers were not directly represented on the panel.
 - The framework deliberately omits specific policies and guidelines, which the authors judged would quickly become obsolete; it defines competencies and processes, not operational rules.
-
-## Connected Concepts
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-
-- [[shin-ai-policies-sld-2026]]
-- [[bassett-ai-detectors-education-2026]]
-- [[enright-staff-perspectives-genai-2026]]
-- [[ai-ethics-bibliometric-2026]]
 
 ## Citation
 

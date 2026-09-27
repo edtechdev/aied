@@ -41,28 +41,6 @@ page_kind: [evaluation]
 - No causal or longitudinal claim is supportable: the comparisons across groups with different durations of GenAI use were between different participants, so the design cannot capture within-individual change over time.
 - Coverage limits: roughly 1000 responses collected anonymously in January 2025 through Wenjuanxing were reduced to 915 valid [[humanities-education|HSS]] responses, and discipline-level analysis was restricted to four fields (education, economics and management, arts, and law) because of sample-size limits.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[assessment]]
-- [[personalized-learning]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[motivation]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
-- [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
-- [[llm-student-misconception-identification]] — What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics
-- [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)
-
 ## Citation
 
 Fan, L., & Liu, F. (2026). [The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences](https://arxiv.org/abs/2606.24104).

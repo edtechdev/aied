@@ -43,21 +43,6 @@ This is a **PRISMA-aligned systematic literature review** with a comparative syn
 - **Search window.** The 2014–2025 scope predates some recent advances in [[llm]]-powered robotics education.
 - **Scope.** The review focuses on GBL and gamification, so robotics education outside those approaches is not covered.
 
-## Connected Concepts
-
-- [[educational-robotics]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[k-12]]
-
-## Connected Articles
-
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks: Project-Based Robotics
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[computational-thinking-educational-robotics-secondary-2026]] — Computational Thinking and Educational Robotics
-
 ## Citation
 
 Mubarrat, S. T., Shao, T., & Min, B.-C. (2026). [*Game-based and gamified robotics education: A comparative systematic review and design guidelines*](https://doi.org/10.1145/3772318.3791338).

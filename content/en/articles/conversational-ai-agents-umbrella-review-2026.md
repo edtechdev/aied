@@ -38,31 +38,6 @@ page_kind: [synthesis, framework]
 - Coverage is bounded by the search across five databases and the eligibility criteria, and the review itself reports the field skews toward higher education and language learning, leaving K-12, STEM, and administrative contexts underrepresented.
 - The proposed roadmap is not validated: the review offers it as guidance, and no implementation study tests whether its four pillars improve outcomes.
 
-## Connected Concepts
-
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[feedback]]
-- [[equity-in-ai-education]]
-- [[hallucination-risk]]
-- [[educational-policy-ai]]
-
-## Connected Articles
-
-- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education systematic review
-- [[ai-student-engagement-online-learning-review-2025]] — AI and student engagement online learning review
-- [[conversational-ai-tutors-framework]] — Conversational AI tutors framework
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-formative assessment
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher education policy
-
 ## Citation
 
 Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review of current utilization, challenges, and future directions for ethical and responsible use*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.

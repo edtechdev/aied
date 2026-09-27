@@ -66,33 +66,6 @@ The paper's constructive claim is that the study's limits do not make an initial
 - **Four-week follow-up.** The trial captured short-term learning on a topic that had already been taught, not persistence, transfer, or examination performance.
 - **Thin process evidence, post-randomization engagement, and funding provenance.** Only 6 of 39 teacher trials returned a process survey, and the 0.18-marks-per-additional-question association conditions on engagement observed after randomization, so it cannot be read as a causal dose-response. Funding came from Medly, which commissioned the evaluation; the authors report no other competing interests.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[rct]]
-- [[learning-gains]]
-- [[ai-ed-evaluation]]
-- [[science-education]]
-- [[biology-education]]
-- [[chemistry-education]]
-- [[physics-education]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[edtech-platform]]
-- [[personalized-learning]]
-- [[limitations-in-aied-research]]
-
-## Connected Articles
-
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: AI Tutoring with Khanmigo in a Two-Year School Experiment
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Methodologies for Improving the Quality of AI Tutoring in K-12 Education
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise
-- [[genai-educational-outcomes-meta-analysis]] — Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches
-- [[auto-marking-short-answer-science-2026]] — Auto-marking short answer questions in science: The foundational years of transformer-based models from BERT to GPT-4
-- [[ai-science-chemistry-education-systematic-review-2025]] — Artificial Intelligence in Science and Chemistry Education: A Systematic Review
-
 ## Citation
 
 Harrison, W., Khowaja, R., Dobson, E., Uwimpuhwe, G., & Higgins, S. (2026). [*Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science*](https://arxiv.org/abs/2609.14789). arXiv preprint.

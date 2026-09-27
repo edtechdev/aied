@@ -70,29 +70,5 @@ Simulated students offer a low-risk means of experimenting with pedagogical stra
 - Gray literature was excluded outright — master's and doctoral theses, unpublished institutional documents, developer technical blogs and community-of-practice content — so the corpus reflects peer-reviewed and preprint literature only.
 - The authors state that the field itself lacks agreed validation criteria (dataset comparison, expert judgment and Turing-style tests being costly, subjective and hard to scale) and that behavioral fidelity remains constrained by idealized answers and weak long-term consistency, with most reviewed simulations confined to laboratory settings rather than deployed platforms.
 
-## Connected Concepts
-
-- [[simulating-students]]
-- [[student-modeling]]
-- [[generative-ai]]
-- [[llm]]
-- [[agentic-ai]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[intelligent-tutoring]]
-- [[ai-ed-evaluation]]
-- [[research-methods-aied]]
-
-## Connected Articles
-
-- [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation with Large Language Models
-- [[simulating-students-diverse-cognitive-levels-2025]] — Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents
-- [[inside-llm-student-simulator-reasoning-2026]] — INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators
-- [[history-aware-student-simulation]] — Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues
-- [[agent-based-educational-science-2026]] — Toward Agent-based Educational Science: Rethinking Educational Research in the Age of AI
-- [[simulating-learner-task-selection]] — Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution
-
 ## Citation
 Marquez-Carpintero, L., Lopez-Sellers, A., & Cazorla, M. (2025). [*Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with Generative AI*](https://arxiv.org/abs/2511.06078).

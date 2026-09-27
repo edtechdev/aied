@@ -63,27 +63,6 @@ Its value lies in the practical, replicable structure and the documented boundar
 - Layer 1 evidence comes from 54 consented survey respondents in 7 of the 18 courses, with instructor opt-in and self-report shaping both reach and attitude estimates.
 - The artifact corpus (36 portfolios, 20+ deployed applications) was inspected informally for access and task match, with no quality rubric, so artifact sophistication is not scored.
 
-## Connected Concepts
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[agency]]
-- [[self-efficacy]]
-- [[cognitive-offloading]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[prompt-engineering]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[teacher-role]]
-- [[reducing-ai-misuse]]
-
-## Connected Articles
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Young People, Learning, and Generative AI
-- [[ai-literacy-heptagon-2026]] — AI Literacy Frameworks
-- [[genai-pd-ai-pck-learning-gain-2026]] — Generative AI Professional Development and AI-PCK
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts in Student-AI Dialogue
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
-
 ## Citation
 
 Qu, W., Zheng, L., Buzaid, C., & Crawford, D. (2026). [*LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University*](https://arxiv.org/abs/2608.19164). [cs.CY, cs.HC].

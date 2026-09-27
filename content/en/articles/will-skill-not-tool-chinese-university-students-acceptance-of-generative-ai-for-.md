@@ -39,23 +39,6 @@ institutions: [educational-policy-ai]
 - Cross-sectional, so it supports no causal claims and says nothing about how will, skill, and tool develop over time; the authors call for a longitudinal design.
 - Writing was treated as one general activity rather than specific tasks (idea generation, language polishing, drafting, literature review), leaving open whether risk appraisal and policy salience behave the same way on higher-stakes writing.
 
-## Connected Concepts
-
-- [[generative-ai]] — the technology under study
-- [[ai-literacy]] — the "skill" antecedent
-- [[writing-education]] — the academic-writing context
-- [[technology-acceptance-model]] — the broader acceptance framework
-- [[educational-policy-ai]] — perceived importance of policy
-- [[higher-ed]] — the EMI university context
-- [[ai-education]] — the umbrella field
-
-## Connected Articles
-
-- [[generative-refusal-ai-tools-for-thought]]
-- [[generative-ai-reduced-study-time-math]]
-- [[genai-usage-design-students-survey]]
-- [[genai-linguistic-diversity-academic-writing]]
-
 ## Citation
 
 Yang, P., & Huang, W. (2026). [*Will, skill, not tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings*](https://doi.org/10.1111/bjet.70075). *British Journal of Educational Technology*, 57.

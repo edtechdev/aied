@@ -41,29 +41,6 @@ This [[qualitative-research|qualitative]] case study was conducted at an English
 
 The study is a qualitative case study in a single English-medium university setting (with evidence from Azerbaijan, a post-Soviet context where institutional AI policies are underdeveloped), bounding generalizability. The sample is 23 students, and the ENA is exploratory — co-occurrence is modeled as structural relationship, not causation. The authors rely on students' self-reports of their AI practices rather than direct observation. The study was conducted before and during ongoing [[educational-policy-ai|institutional policy]] development, so students' accounts may reflect a transitional context.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[student-experience]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[learning-analytics]]
-- [[motivation]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[privacy]]
-
-## Connected Articles
-
-- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement With GenAI
-- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research
-- [[generative-ai-reduced-study-time-math]] — Generative AI and Reduced Study Time in Math
-- [[generative-ai-guardrails-harm-learning]] — Generative AI Guardrails and Harm to Learning
-- [[student-rationalization-ai-writing]] — "It's OK Because...": Student Rationalization of AI Writing
-- [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
-
 ## Citation
 
 Isaeva, R., Caner, H. N., Caner, M., Giray, L., & Karadag, E. (2026). [*Students' engagement with generative AI in academic learning: A self-determination theory and epistemic network analysis study*](https://doi.org/10.1016/j.caeai.2026.100606). *Computers and Education: Artificial Intelligence*.

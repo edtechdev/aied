@@ -45,26 +45,6 @@ The study contributes a broader framework for educational AI called the **Reason
 - A system-reliability incident on May 20 and 21 left no started solve completed, depressing the 56.4% solve-completion funnel, so that figure mixes user behavior with system stability.
 - The evidence covers interaction behavior and perceived reasoning support, not measured learning gains; the authors call for pre/post assessments and delayed transfer tasks.
 
-## Connected Concepts
-
-- [[llm]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[math-education]]
-- [[socratic-method]]
-- [[metacognition]]
-- [[k-12]]
-## Connected Articles
-
-- [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterizing AI Tutor Blind Spots When Analyzing Student Reasoning
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI
-
 ## Citation
 
 Yuming Feng, Yuan Tian, Erica Zhao (2026). [From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments](https://arxiv.org/abs/2607.01692).

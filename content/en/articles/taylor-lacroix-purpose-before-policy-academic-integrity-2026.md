@@ -43,32 +43,6 @@ institutions: [educational-policy-ai, governance]
 - The prevalence figures the paper relies on are secondary — a 2024 Global AI Student Survey reporting 86% student AI use and 80% describing institutional policies as unclear or inadequate — not data collected for this study.
 - The claim that rising GenAI misconduct reflects structural incoherence is advanced by argument, without institutional or student-level data against which it could be tested.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[ethics]]
-- [[philosophy-of-ai-in-education]]
-- [[stakeholders]]
-- [[pedagogy]]
-- [[regulation]]
-- [[ai-use-disclosure]]
-
-## Connected Articles
-
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Governing generative AI in higher education: a global Delphi study on policy and practice
-- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Addressing Student Non-Compliance in AI Use Declarations: Implications for Academic Integrity and Assessment in Higher Education
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI implementation in higher education: A scoping review
-- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
-- [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education
-- [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making
-- [[ssaho-ai-academic-integrity-review-2025]] — Reassessing Academic Integrity in the Age of AI: A Systematic Literature Review on AI and Academic Integrity
-- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — Cheating or not cheating? Rethinking AI-giarism and academic integrity through secondary students' ethical reasoning
-
 ## Citation
 
 Taylor, T. B., & LaCroix, T. (2026). [*Purpose before policy: Academic integrity, generative AI, and rhetorical stance*](https://doi.org/10.1007/s10734-026-01706-1). *Higher Education*.

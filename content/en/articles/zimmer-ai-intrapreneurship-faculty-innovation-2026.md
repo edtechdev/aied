@@ -51,22 +51,6 @@ Vibe coding — Karpathy's February 2025 coinage for building software through n
 - Evidence leans on first-person anecdotes, not systematic data.
 - Non-tenure-track faculty, [[stakeholders|instructional designers]] and community college instructors are largely absent from that literature.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[vibe-coding]]
-- [[assessment]]
-- [[teacher-role]]
-- [[change-management]]
-- [[academic-integrity]]
-
-## Connected Articles
-
-- [[gaide-vibe-coding-k12-teachers]] — vibe coding with K-12 teachers.
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — redesigning online assessment beyond detection.
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — faculty survey evidence on AI.
-- [[chick-faculty-development-ethical-ai-2026]] — faculty development for ethical AI.
-
 ## Citation
 
 Zimmer, M. G. (2026). [AI Intrapreneurship: Educators as Frontline Innovators in the Age of Generative AI](https://doi.org/10.65201/QTEB9779). *Journal of Instructional Design and Technology*, 1(2), 45-54.

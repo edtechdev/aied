@@ -66,25 +66,5 @@ SCAN is operationalized for clinical [[curriculum-design|curriculum design]], su
 - Never-skilling is not an established phenomenon; the authors state that it requires direct clinical empirical evidence in the future.
 - Implementation depends on supervisor training and on institutional willingness to invest in process-oriented debriefing, and the authors note the paper reflects a fast-moving intersection of medical education and AI, so its claims should be read as theoretically grounded hypotheses rather than findings.
 
-## Connected Concepts
-- [[medical-education]]
-- [[generative-ai]]
-- [[sociocultural-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[trust-calibration]]
-- [[ai-education]]
-- [[assessment]]
-
-## Connected Articles
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency
-- [[semantic-variability-llm-conversation-assessment-2026]] — Semantic Variability in LLM Conversation Assessment
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding
-- [[best-response-student-ai-dialog-2026]] — The Best Response to Student AI Use Is Not Detection, It Is Dialog
-- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
-
 ## Citation
 Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). [*AI as Teammate: Rethinking Task Distribution in Medical Training*](https://arxiv.org/abs/2608.28373). arXiv:2608.28373.

@@ -62,34 +62,6 @@ The grounding analysis shows the DA-MoE gate increasingly matching the LLM-deriv
 - Teacher validation used five paid teachers rating 120 stratified exercises (40 per dataset), and misconception plausibility scored weakest at 4.23 ± 0.48 — the authors' own caveat that error types are harder to infer from exercise text alone.
 - Evidence comes from three public mathematics datasets (Junyi, XES3G5M, MOOC) rather than live classrooms, and even with the Q-matrix masked the model reaches 80.46% ACC, below the Oracle upper bound of 83.51%.
 
-## Connected Concepts
-
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[item-response-theory]]
-- [[psychometrically-aware-ai]]
-- [[educational-nlp]]
-- [[knowledge-graph]]
-- [[llm]]
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[misconceptions]]
-- [[math-education]]
-- [[prior-knowledge]]
-- [[problem-solving]]
-
-## Connected Articles
-
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis optimizes personalized learning paths via mediation of cognitive load and Hidden Markov Model state transitions
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-Preserving Heterogeneous Multi-LLM Federated Inference for Cognitive Diagnosis
-- [[proprl-prerequisite-relation-learning]] — ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs
-- [[learnopt-exam-cognitive-structure]] — LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization
-- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
-
 ## Citation
 
 Minghang Liu, Yuanzhuo Wang, Qiang Qiu, Huawei Shen, and Xueqi Cheng (2026). [*Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis*](https://arxiv.org/abs/2609.12403). arXiv preprint.

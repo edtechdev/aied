@@ -45,25 +45,6 @@ audience: [instructors, assessment designers, administrators]
 - The tools and use cases it cites — Codex, ChatGPT, GitHub Copilot — evolve rapidly, leaving claims about engagement and assessment practice resting on a fast-moving, exploratory evidence base.
 - Its claims about algorithmic bias and the digital divide rest on cited disparities literature rather than measured outcomes, and the paper itself notes the absence of a guiding framework as an unresolved problem.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[cs-education]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[academic-integrity]]
-- [[bias-mitigation]]
-
-## Connected Articles
-
-- [[reshaping-cs-education-genai]] — Reshaping computer science education with generative AI
-- [[genai-oop-programming-assessments-2026]] — GenAI in object-oriented programming assessments
-- [[student-ai-inquiry-types-cs2-2026]] — Student AI inquiry types in CS2 courses
-- [[socratic-tests-conversational-assessment]] — Conversational and socratic assessment with LLMs
-
 ## Citation
 
 Zhan, S., & Chapman, E. (2026). [Harnessing generative artificial intelligence in computer science education: Pedagogical innovation, ethical responsibility, and the future of assessment](https://doi.org/10.53761/wakxak53) . *Journal of University Teaching and Learning Practice*, 23(5).

@@ -51,20 +51,6 @@ The central negative finding concerns efficiency. Aggregate interaction volume d
 - Artifact categories were assembled retrospectively as a positive inventory — abandoned, failed, and never-started work was not counted, and file counts are vulnerable to inflation from software projects.
 - Token telemetry covered only May 1–May 25, 2026 and should not be conflated with the full 115-day window or with cash cost, making causal productivity claims inappropriate.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[educational-development]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[human-ai-collaboration]]
-## Connected Articles
-
-- [[ai-productivity-moderation]]
-- [[agentic-workflows-education]]
-- [[ai-changing-teaching-workflows]]
 ## Citation
 
 Alzahrani, A. H. (2026). [*Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study*](https://arxiv.org/abs/2605.26870).

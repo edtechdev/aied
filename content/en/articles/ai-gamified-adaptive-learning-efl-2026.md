@@ -48,23 +48,6 @@ Using convenience sampling, 401 complete cases were analyzed — [[higher-ed|und
 - **Construct heterogeneity and unvalidated content.** Items addressed AI-gamified tools as a class rather than one named platform, so respondents may have evaluated different applications, and no formal content-validity index, cognitive interviewing, piloting, or back-translation was run, so item validity is asserted rather than demonstrated; the authors' named next step is to anchor items to a named platform.
 - **Single-institution convenience sample.** The sample is predominantly female and first-year, precluding gender comparison and limiting generalization; no test–retest data exist, so temporal stability is unknown, and the trilingual single-form administration precludes language-anchored modeling and measurement-invariance tests across languages. Replication in larger multi-institution samples with formal tests of measurement invariance is future work.
 
-## Connected Concepts
-
-- [[language-learning]]
-- [[game-based-learning]]
-- [[adaptive-learning]]
-- [[technology-acceptance-model]]
-- [[educational-measurement]]
-
-## Connected Articles
-
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education
-- [[tam-critical-use-genai-engineering-2026]] — Intention to Use and Reliance on Generative AI: An Extended TAM with Critical Use
-- [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — Will, Skill, Not Tool: Acceptance of Generative AI for Academic Writing
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Development and Validation of an AI Project-Based Learning Scale
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — Motivational Ergonomics in Gamified and AI-Supported Learning
-- [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by LLMs
-
 ## Citation
 
 Zhorabekova, A., Duisenova, M., Kurmasheva, M., & Yesnazar, A. (2026). [Acceptance of AI-Gamified Adaptive Learning in EFL: Bifactor Evidence for Essential Unidimensionality and the Limits of Subscale Scoring](https://doi.org/10.3389/feduc.2026.1929123). *Frontiers in Education, 11*, 1929123.

@@ -16,7 +16,6 @@ technology: [generative-ai, llm, speech-and-voice-technologies, personalized-lea
 assessment: [formative-assessment]
 methods: [usability-research, design-based-research, mixed-methods-research]
 ethics: [accessibility, assistive-technology, neurodiversity, culturally-relevant-pedagogy, bias-mitigation, privacy, inclusive-learning]
-connected_faqs: [ai-disabled-neurodivergent-learners]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -60,35 +59,6 @@ Three implications follow. Systems should support pre-generation steering, not o
 - All seven Phase 3 practitioners were based in the UAE, recruited by purposive sampling through professional networks and special-education institutions, so the cultural-fit findings are grounded in that context.
 - Practitioners worked with fictional personas and no real child data or images, so privacy and data-governance in a live deployment remains unverified.
 - Visual generation delays and scene-level inconsistencies remained, and the system ran Gemini 2.0 Flash for text and GPT-4o for images, tying results to those model versions.
-
-## Connected Concepts
-- [[special-education]]
-- [[assistive-technology]]
-- [[storytelling-in-education]]
-- [[neurodiversity]]
-- [[accessibility]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[personalized-learning]]
-- [[speech-and-voice-technologies]]
-- [[inclusive-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[usability-research]]
-- [[design-based-research]]
-- [[early-childhood-elementary-ai-education]]
-
-## Connected Articles
-- [[special-r1-rl-special-education]] — Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Let's CHAT About Artificial Intelligence for Students With Disabilities: A Systematic Literature Review
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[llm-children-reading-story-generation]] — Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety
-- [[icub-humanoid-storytelling-llm-hri-2025]] — Would You Let a Humanoid Play Storytelling With Your Child? A Usability Study on LLM-Powered Narrative Human-Robot Interaction
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation Through Self-Determination Theory
-- [[teacher-control-ai-generation-math-visuals]] — When Should Teachers Control AI Generation for Mathematics Visuals?
-- [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
-- [[seung-basham-cognitive-offloading-swld-2026]] — Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?
-- [[gaze-informed-ai-children]] — Gaze-Informed Proactive AI Assistance for Children's Picture Exploration
 
 ## Citation
 Enkhjargal, B., Lalwani, H., & Salam, H. (2026). [AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories](https://arxiv.org/abs/2609.24245). arXiv:2609.24245.

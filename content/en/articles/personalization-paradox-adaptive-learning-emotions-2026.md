@@ -43,26 +43,6 @@ Integrating control-value theory and self-regulated learning theory, the researc
 - **Restricted generalizability** — the Chinese undergraduate sample limits cross-cultural conclusions, given that AI acceptance and trust vary by context.
 - **Aggregated AI tool measure** — diverse tools were collapsed into a single composite, possibly masking tool-specific effects.
 
-
-## Connected Concepts
-
-- [[self-regulated-learning]] — the key outcome; AI-adaptive environments were negatively associated with it.
-- [[adaptive-learning]] — the defining feature of the environments whose personalization is under study.
-- [[ai-literacy]] — the moderator buffering negative emotional effects of adaptive environments.
-- [[personalized-learning]] — the broader paradigm with the autonomy trade-off central to the paradox.
-- [[agency]] — the construct the paper argues algorithmic delegation erodes.
-- [[metacognition]] — the planning/monitoring skills theorized to decline when decisions are outsourced.
-- [[motivation]] — underpins the emotional-reaction mechanism via control-value appraisals.
-
-## Connected Articles
-
-- [[ai-overreliance-complex-adaptive-system-2026]] — examines overreliance in adaptive AI systems, aligning with the paradox's mechanism.
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — SRL in adaptive learning with feedback, complementing the same learner-outcome question.
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — links AI interaction literacy to SRL, echoing AI literacy's protective role here.
-- [[song-genai-learning-partner-srl-over-time-2026]] — longitudinal SRL trajectory with a GenAI partner, parallel to this study's SRL erosion.
-- [[de-barba-srl-genai-2026]] — conceptualizes SRL in GenAI contexts relevant to adaptive environments.
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — connects AI dependency and literacy, mirroring the buffering finding.
-
 ## Citation
 
 Li, J., Lin, Z., & Qiu, C. (2026). [The personalization paradox: how AI-driven adaptive learning environments are associated with college students' academic emotions and self-regulation learning—a moderated mediation model](https://doi.org/10.3389/fpsyg.2026.1915839). *Frontiers in Psychology, 17*, 1915839.

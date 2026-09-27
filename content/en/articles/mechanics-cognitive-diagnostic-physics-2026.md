@@ -65,31 +65,6 @@ The limitations are framed as gaps in the evidence for the student models. DINA 
 
 Three practical questions are left untested altogether: whether instructors can interpret objective-level feedback, whether it changes their teaching decisions, and whether students who receive it learn more. The authors make a design case for each — objectives aligned with weekly pacing map onto decisions instructors already make, the bank draws on assessments courses already administer, and the LASSO platform already reaches hundreds of courses — but treat the claims as hypotheses. Future work also needs to close coverage gaps for the remaining 21 planned objectives, for which the FCI, FMCE and EMCS hold no items at all (rotational mechanics, mathematical reasoning), with candidate instruments already identified, and to add new items through online calibration that embeds unscored items alongside the operational bank so the item bank can grow without pausing testing.
 
-## Connected Concepts
-
-- [[cognitive-diagnosis]] — DINA-based mastery classification on 14 learning objectives
-- [[physics-education]] — first CD-CAT in physics, built from the FCI, FMCE and EMCS
-- [[educational-measurement]] — evidence-centered design, Q-matrix validation and model-fit evidence
-- [[item-response-theory]] — 3PL calibration used alongside the cognitive-diagnostic measurement model
-- [[formative-assessment]] — the design goal is actionable feedback during instruction, not after it
-- [[automated-assessment]] — algorithmic scoring that returns an objective-level mastery profile
-- [[adaptive-learning]] — adaptive item selection matched to the student's estimated state
-- [[stem-education]] — mechanics as the testbed for competency-based diagnostic assessment
-- [[assessment-validity]] — student models and evidence models tested for separable, recoverable objectives
-
-## Connected Articles
-
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis optimizes personalized learning paths via mediation of cognitive load and Hidden Markov Model state transitions
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
-- [[item-writing-flaws-irt-difficulty-2026]] — The Impact of Item-Writing Flaws on Difficulty and Discrimination in Item Response Theory
-- [[irt-human-genai-mcq-responses]] — Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study
-- [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[ai-grading-handwritten-physics-2026]] — Large Scale AI Grading of Handwritten Physics Assessments: Score Agreement and Olympiad Team Selection Outcomes
-- [[xiong-ai-educational-measurement-review-2026]] — A Decade of Reflection and Thematic Review on Artificial Intelligence's Impact on Educational Measurement
-
 ## Citation
 
 Le, V., Nissen, J. M., Morphew, J. W., Chang, H. H., & Van Dusen, B. (2026). [*Mechanics Cognitive Diagnostic: Testing Fine-Grained Learning Objectives in Introductory Physics*](https://arxiv.org/abs/2609.09584). arXiv preprint arXiv:2609.09584.

@@ -71,36 +71,6 @@ That makes the finding as much about data infrastructure as about modeling. Fina
 - Success is defined by fixed 90% thresholds on the paper's own metrics (misconception accuracy, correct accuracy on applicable and non-applicable items); a model that passes them need not produce the same *kind* of reasoning a student would.
 - The tutor model's improved correct accuracy is reported as a stable-or-improving trend from 93% to 98%, without an account of why the improvement occurs beyond the contrastive-signal hypothesis, and whether the same dynamics hold for other domains, item formats or multi-step conceptual reasoning is untested.
 
-## Connected Concepts
-- [[simulating-students]] — an instruction-tuned simulator holding a misconception is the student model's purpose
-- [[pedagogical-llm-training]] — the paper is a training-dynamics study of data composition and supervision
-- [[student-modeling]] — the tutor model is a computational analogue of knowledge of student misconceptions
-- [[intelligent-tutoring]] — misconception-aware models exist to support diagnostic, adaptive tutoring
-- [[cognitive-diagnosis]] — the localization question (where the error enters the solution) is the diagnostic question
-- [[knowledge-tracing]] — an alternative modeling tradition that tracks correctness rather than the nature of the error
-- [[math-education]] — algebra mal-rules are the paper's entire misconception taxonomy
-- [[llm]] — the models being instruction-tuned
-- [[generative-ai]] — the technology class under study
-- [[mastery-learning]] — correct-example mixing is a mastery-oriented data policy
-- [[problem-solving]] — the task domain is step-by-step equation solving
-- [[quantitative-research]] — controlled experiments varying data size and composition
-- [[k-12]] — the problem types come from grade-school algebra
-
-## Connected Articles
-
-- [[llm-student-simulation-misconception-faithfulness]] — simulators abandon an assigned misconception under corrective feedback
-- [[llm-student-misconception-identification]] — surfacing real students' misconceptions from quiz and lecture data
-- [[llm-distractor-generation-student-reasoning-2026]] — how models reason about misconceptions when writing distractors
-- [[swim-student-writing-simulation-2026]] — the same question for writing: prompting versus supervised and reward-based training
-- [[llm-misconception-difficulty-easy-trap]] — misconceptions and item difficulty estimation
-- [[correct-answer-trap-misconceptions]] — the gap between correct answers and conceptual understanding
-- [[student-misconceptions-conditionals-loops-taxonomy]] — a misconception taxonomy for a different subject area
-- [[simulating-students-llm-review-2026]] — the wider review of LLM-based student simulation
-- [[valid-student-simulation-llm-2026]] — validity conditions for student simulation
-- [[teachlm-post-training-llms-education]] — post-training a model on authentic student data
-- [[simulating-students-java-programming-errors-llms]] — simulating student errors outside mathematics
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — generative agents that model cognitive change over time
-
 ## Citation
 
 Liu, N., Chen, X., Baraniuk, R., Sachan, M., & Sonkar, S. (2026). [Misconception Acquisition Dynamics in Large Language Models](https://arxiv.org/abs/2604.00818). *arXiv preprint* (cs.CY).

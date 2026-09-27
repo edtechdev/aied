@@ -11,7 +11,6 @@ level: [higher ed]
 sources: ['raw/papers/asynchronous-oral-assessment-2026.md']
 confidence: high
 audience: [instructors, assessment designers]
-connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** Pentland, Lowenthal & Krier (2026) evaluate Asynchronous Oral [[assessment|Assessments]] (AOAs) — web-based assessments in which prompts are delivered just-in-time, students record brief, time-limited webcam responses that cannot be revisited, and instructors grade against embedded rubrics with auto-generated transcripts. Across two studies (intermediate accounting pilot; data analytics course), students scored higher on AOAs than on in-person multiple-choice exams (Study 2, significant; Study 1, positive but non-significant trends), with moderate cross-format correlations supporting convergent [[assessment-validity|validity]]. Students reported preparing differently for AOAs, using more active study strategies, and perceiving AOAs as professionally relevant and cognitively engaging. The paper positions AOAs as an administratively scalable complement to traditional [[assessment]] that preserves the authenticity and communication value of oral exams while addressing [[academic-integrity|integrity]] concerns in the [[generative-ai|AI]] era.
@@ -59,29 +58,6 @@ This paper is a significant empirical contribution to the knowledge base's [[ass
 - Study 1 prompts were partly misaligned with exam items, and only four multiple-choice cash-flow questions measured exam performance, limiting how much preparatory benefit the design could detect.
 - Neither study measured cheating behavior; the [[academic-integrity|integrity]] advantage of AOAs is inferred from the format's recorded, time-limited spoken responses rather than demonstrated.
 - Both studies ran in two courses taught by a single instructor of the authors' own courses, with in-person comparisons limited to multiple-choice exams.
-
-## Connected Concepts
-
-- [[assessment]]
-- [[oral-assessment]] — Oral Assessment
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[assessment-validity]]
-- [[summative-assessment]]
-- [[feedback]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[generative-ai]]
-- [[educational-development|professional development]]
-- [[learning-gains]]
-- [[speech-and-voice-technologies]]
-## Connected Articles
-
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment in an AI-mediated world
-- [[roe-assessment-twins-2026]] — Assessment twins: strengthening assessment validity in the age of generative AI
-- [[bassett-ai-detectors-education-2026]] — AI detectors in education and the case against detection-based integrity
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLM-based grading and the limits of automated assessment
 
 ## Citation
 

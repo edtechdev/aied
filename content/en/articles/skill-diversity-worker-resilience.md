@@ -65,21 +65,6 @@ Demographically, specialization shows clearer stratification than diversity: men
 
 The analysis relies on LinkedIn profiles that over-represent digitally engaged and highly skilled occupations; listed skills are self-reported and may capture signaling as well as actual capabilities; the skill network depends on modeling choices including pruning, community detection, and the measurement of hierarchy through local reaching centrality; and the results remain associational rather than causal despite lagged explanatory variables and extensive controls. The diversity frontier should be interpreted as a relative measure of portfolio structure rather than an independent dimension of human capital.
 
-## Connected Concepts
-
-- [[professional-training]]
-- [[ai-education]]
-- [[educational-development]]
-- [[ai-literacy]]
-## Connected Articles
-
-- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
-- [[crewscaler-ai-upskilling-framework]] — AI-accelerated End-to-End Framework for Rapid Professional Upskilling
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[egai-power-systems-education]] — Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework
-- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
-
 ## Citation
 
 Carpanelli, M., Duszynski, J., & Stephany, F. (2026). [*Navigating the skill diversity frontier: How skill complexity explains worker resilience*](https://arxiv.org/abs/2608.02102v1). v1.

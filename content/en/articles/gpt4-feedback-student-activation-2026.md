@@ -44,25 +44,6 @@ level: [higher ed]
 - Learning outcomes were not exam scores but post-hoc human scoring of the written answers by three raters (Cronbach's alpha 0.87 for content, 0.70 for style), and lecturer feedback and discussion were deliberately not recorded, so the group-level baseline varied across tasks and lecturers.
 - Results are specific to GPT-4 and to German, one of the model's strongest languages, and the authors state that the AI's feedback capability may decline in languages where it is less proficient; they also flag that effects may vary by student characteristics such as gender or cultural background.
 
-## Connected Concepts
-
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[higher-ed]]
-- [[student-engagement]]
-- [[learning-gains]]
-- [[formative-assessment]]
-- [[llm]]
-
-## Connected Articles
-
-- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
-- [[becerra-aicofe-feedback-2026]] — AI-powered collaborative feedback
-- [[coach-not-crutch-ai-writing]] — AI vs. human feedback on writing practice
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI vs. human-developed assessment tasks
-- [[llm-formative-feedback-systematic-review-2026]] — Systematic review of LLM formative feedback
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of generative AI learning outcomes
-
 ## Citation
 
 Geschwind, S., Graf Lambsdorff, J., Voss, D., & Hackl, V. (2026). [GPT-4 feedback increases student activation and learning outcomes in higher education](https://doi.org/10.1016/j.ijaied.2026.100014). *International Journal of Artificial Intelligence in Education*, 36, 100014.

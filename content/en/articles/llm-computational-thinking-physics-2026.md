@@ -58,21 +58,6 @@ When applied to the full dataset, the LLM confirmed the macroscopic trends, dete
 
 Both human raters and the LLM showed lower agreement on multi-component constructs, highlighting the difficulty of assessing complex reasoning in brief written responses. The near-ceiling pre-instruction scores on Modeling and Simulation Practices meant the simulation-design prompt served mainly as an indicator of baseline knowledge rather than of new cognitive growth. The authors note that future rubrics should define Systems Thinking more explicitly, distinguishing identifying system components from explaining their interactions and consequences.
 
-## Connected Concepts
-
-- [[physics-education]]
-- [[computational-thinking]]
-- [[stem-education]]
-- [[llm]]
-- [[automated-assessment]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[higher-ed]]
-## Connected Articles
-
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[ai-scoring-language-bias-physics]]
-
 ## Citation
 
 Savage, S., Shanker, A., Michlitsch, G., & Rebello, N. S. (2026). [Using LLMs to Detect Growth in Computational Thinking in Introductory Physics](https://arxiv.org/abs/2608.06200).

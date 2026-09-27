@@ -17,7 +17,6 @@ technology: [intelligent-tutoring, speech-and-voice-technologies, conversational
 assessment: [learning-gains, assessment-validity]
 methods: [rct, quantitative-research]
 ethics: [guardrails, accessibility]
-connected_faqs: [developing-ai-tutor, does-ai-help-students-learn]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -56,34 +55,6 @@ The candidate explanation is friction. Composing a typed answer is slow by const
 - With 86 consented students and 51 post-test completers (preregistered analysis N = 46: 29 AI, 17 holdout), the comparison is powered for medium-to-large effects only.
 - Generalization is deliberately narrow — one [[quantitative-research|quantitative]] module in one online MBA, where analytical multi-step content may plausibly favor text's persistence; the authors treat that as an untested moderator.
 - The instructor's final, on file for all 86, replicates the direction (+2.57 of 100, p = .040) but is ceilinged — two-thirds of the class scored the maximum — so that estimate is attenuated.
-
-## Connected Concepts
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[student-ai-interaction]]
-- [[speech-and-voice-technologies]]
-- [[conversational-ai]]
-- [[generative-ai]]
-- [[learning-gains]]
-- [[retrieval-spacing-interleaving]]
-- [[student-engagement]]
-- [[online-teaching-and-learning]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[human-ai-collaboration]]
-- [[rct]]
-- [[trust-calibration]]
-
-## Connected Articles
-- [[caeai-ai-companions-learning-over-performance-2026]] — Building AI Companions that Prioritize Learning over Performance
-- [[ai-writes-code-student-writes-model-2026]] — The AI Writes the Code, the Student Writes the Model
-- [[seung-basham-cognitive-offloading-swld-2026]] — Cognitive Offloading in the Age of Generative AI
-- [[eight-mode-ai-engagement-typology-2026]] — The Eight-Mode AI Engagement Typology: Differential Cognitive Signatures and a Self-Report–Behavior Gap
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — How much selection would be enough? Bounding the learning claim of El Salvador's AI tutoring pilot
-- [[trust-fairness-motivation-ai-teaching-assistants-2026]] — How trust prospectively predicts perceived fairness and learning motivation toward AI teaching assistants
-- [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments: Enhancing Integrity, Engagement, and Communication in the AI Era
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — Authentic and functional dialogue with AI-based student avatars
-- [[lock-integrating-ai-online-learning-higher-ed-2025]] — Integrating AI in Online Learning in Higher Education: A Literature Review
 
 ## Citation
 Yang, S., Van Alstyne, M., & Dellarocas, C. (2026). [When AI Tutors Speak: Evidence from a Randomized Field Experiment](https://arxiv.org/abs/2609.23958). arXiv:2609.23958.

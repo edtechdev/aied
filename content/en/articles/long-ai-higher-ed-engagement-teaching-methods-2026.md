@@ -39,28 +39,6 @@ methods: [meta-analysis-systematic-review]
 - The PMAISE model is a conceptual contribution proposed by the authors, not an empirically validated framework, so it should be treated as a hypothesis about pedagogical mediation rather than as tested structure.
 - Causal claims about engagement are limited by the designs of the underlying studies, which include observational work alongside intervention studies.
 
-## Connected Concepts
-
-- [[student-engagement]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[active-learning]]
-- [[project-based-learning]]
-- [[scaffolding]]
-- [[feedback]]
-- [[learning-design]]
-- [[digital-divide]]
-- [[equity-in-ai-education]]
-- [[meta-analysis-systematic-review]]
-
-## Connected Articles
-
-- [[genai-motivation-engagement-2026]] — GenAI motivation and engagement
-- [[icap-cognitive-engagement-llm-agents]] — ICAP cognitive engagement with LLM agents
-- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding critical engagement with GenAI
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Student engagement with GenAI and self-determination
-- [[genai-tutor-engagement-patterns]] — GenAI tutor engagement patterns
-
 ## Citation
 
 Long, D. Y., Wang, S., Md Rashid, S., & Lu, X. T. (2026). [*Artificial intelligence in higher education: a systematic review of its impact on student engagement and the mediating role of teaching methods*](https://doi.org/10.3389/feduc.2025.1648661). *Frontiers in Education*, 10, 1648661. https://doi.org/10.3389/feduc.2025.1648661

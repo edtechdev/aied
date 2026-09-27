@@ -88,17 +88,6 @@ Music education curricula need reconsideration, not marginal amendment. The pape
 - The economic and policy figures are drawn from industry and news sources — platform per-stream payouts, Spotify's reported royalty total, the €1.39-per-€1 estimate for Ireland's Basic Income for the Arts, the roughly \$5 billion online music-education market projection — and are not independently verified in the paper.
 - The argument originated as a round-table presentation at a Brazilian music-education meeting and was constructed with the assistance of Claude Sonnet 4.6, and its cases are drawn mainly from European and Brazilian contexts; transfer to other systems and national curricula is untested.
 
-## Connected Concepts
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[arts-design-and-media-education]]
-## Connected Articles
-
-- [[ai-enabled-serious-games]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-
 ## Citation
 
 Briot, J.-P. (2026). [*Challenges for Musical Education in the Age of AI and Digital Transformation*](https://arxiv.org/abs/2608.05176).

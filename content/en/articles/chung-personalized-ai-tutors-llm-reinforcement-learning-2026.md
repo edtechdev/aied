@@ -49,22 +49,6 @@ The intervention was tested in the "AI for Python Learning" course, launched by 
 - Mediators are not randomized, so the mediation estimates are not necessarily causal, though they survive moderate unobserved confounding.
 - Effects come from a single end-of-semester exam, so longer-run retention of the sequencing advantage is unknown.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[reinforcement-learning]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-
-## Connected Articles
-
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — adaptive versus non-adaptive tutoring in early primary mathematics
-- [[riedmann-reinforcement-learning-education-review-2026]] — systematic review of reinforcement learning applications in education
-- [[singh-eduqwen-pedagogical-rl-2026]] — reinforcement learning and supervised tuning of open-source LLMs for pedagogy
-- [[access-not-enough-ai-tutoring-2026]] — human support shapes engagement with AI tutoring
-
 ## Citation
 
 Chung, A. T.-H., Zhang, B., Kung, L.-C., Bastani, H., & Bastani, O. (2026). [Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6423358). SSRN working paper.

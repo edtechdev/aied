@@ -35,30 +35,6 @@ The article provides a procedural account (what LLMs can do, in which phases, un
 - Human coder agreement, while adequate for multi-label coding at this codebook size, leaves room for improvement, which is why the calibration protocol is part of the method.
 - The study observes educator requests and platform responses, not classroom implementation: it characterizes what educators sought from the AI rather than what they subsequently did with it.
 
-## Connected Concepts
-
-- [[formative-assessment]]
-- [[teacher-ai-competency]]
-- [[bias-mitigation]]
-- [[k-12]]
-- [[ai-education]]
-- [[human-in-the-loop-ai]]
-- [[automated-essay-scoring]]
-- [[educational-nlp]]
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[generative-ai]]
-- [[llm]]
-
-## Connected Articles
-
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
-- [[chat-debugging-human-ai-collaboration-circuits]] — Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits
-- [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
-
 ## Citation
 
 Liu, A., Sun, M., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., & He, K. (2026). [Human-LLM collaborative inductive coding for conceptualizing K-12 educator AI use](https://arxiv.org/abs/2607.28889).

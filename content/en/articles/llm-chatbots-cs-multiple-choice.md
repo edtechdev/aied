@@ -42,27 +42,6 @@ The evaluation proceeded in two phases. First, a technical [[benchmark]]: multip
 - No fixed effect was significant at α = 0.05; the closest result, the IVDA group × attempt interaction, only approached significance at p = 0.058, so the effect of chatbot output is a tendency rather than a conclusive finding.
 - Perceptions came from a self-report questionnaire — most questions used five-point Likert scales ranging from 1 (strongly disagree) to 5 (strongly agree) — and the benchmark itself is 70 MCQs written for one interactive visual data analysis lecture plus additional computer vision items.
 
-## Connected Concepts
-
-- [[cs-education]]
-- [[higher-ed]]
-- [[llm]]
-- [[student-experience]]
-- [[benchmark]]
-- [[assessment]]
-- [[pedagogical-agent]]
-- [[automated-question-generation]]
-- [[intelligent-tutoring]]
-
-## Connected Articles
-
-- [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
-- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-- [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
-- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
-- [[shame-guilt-ai-regulation-computing-education]] — Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education
-- [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations
-
 ## Citation
 
 Markos Stamatakis, Omkar Gavali, Joshua Berger, Christian Wartena, Anett Hoppe, Ralph Ewerth (2026). [Are LLM-based Chatbots Good Enough to Support Computer Science Students in Multiple-Choice Exercises?](https://arxiv.org/abs/2606.15919). arXiv preprint.

@@ -38,22 +38,6 @@ The work extends [[special-education]] and special-education-ai by centering dis
 - Recruitment combined public recruitment with snowball sampling through disability communities and personal networks, so the sample is not population-representative.
 - The evidence is qualitative (practice-video analysis, lesson observation and reflected expert accounts), so it documents embodied learning strategies rather than measuring learning outcomes; prototype development and empirical evaluation remain future work.
 
-## Connected Concepts
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[embodied-learning]]
-- [[universal-design-for-learning]]
-- [[experiential-learning]]
-- [[professional-training]]
-- [[neurodiversity]]
-- [[arts-design-and-media-education]]
-## Connected Articles
-
-- [[neurodivergent-computing-students]]
-- [[tactile-statistical-graphs-accessibility]]
 ## Citation
 
 Shi Shi, Lingyun Chen, Zitao Zhang, Amanda R. Draper, et al. (2026). [Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision](https://arxiv.org/abs/2607.18598). .

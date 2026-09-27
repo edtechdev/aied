@@ -60,20 +60,6 @@ PST interactions with AI became dialogic. Instead of requesting an answer, they 
 - The educators held overlapping roles as participants, designers, data collectors and researchers, which may have influenced reflections and interpretations despite collaborative analysis.
 - Participation varied across data sources, and ChatGPT was the sole generative AI platform, so prompt refinement patterns may not transfer to models with different interactional features.
 
-## Connected Concepts
-
-- [[teacher-ai-competency]]
-- [[tpack]]
-- [[human-ai-collaboration]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-## Connected Articles
-
-- [[ai-tpack-mathematics-teacher-education-2026]] — surveys AI-TPACK readiness in mathematics teacher education, the knowledge base this lesson study tried to build through collaborative design rather than measurement.
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — examines how teachers mediate generative AI in mathematics classrooms, complementing this study's focus on dialogic PST engagement with AI-generated tasks.
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — a teacher professional development study in which faculty collaboratively design AI artifacts, mirroring the lesson study structure used here.
-
 ## Citation
 
 Robinson, Jennifer M.; Erbilgin, Evrim; Johnson, Jason D.; Hashem, Reem; Gningue, Serigne M.. (2026). *[Exploring Mathematics Teacher Educators' Lesson Study Experiences in Supporting Pre-Service Teachers' Dialogic Engagement With AI](https://doi.org/10.1002/jcal.70321)*. Journal of Computer Assisted Learning, 42, e70321.

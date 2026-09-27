@@ -15,8 +15,6 @@ confidence: high
 
 ## Core Finding
 
-
-
 ## The System
 
 The multimodal feedback system combines three channels:
@@ -88,26 +86,6 @@ This is a strong result for AI feedback systems:
 - The comparison condition used fixed, pre-authored educator feedback rather than live or adaptive human feedback, which may account for part of the AI system's perceptual advantage.
 - The two conditions differ on several confounded factors at once, including feedback source and slide presentation style, so the study cannot separate their individual contributions to learning.
 - Cognitive load was captured only as an overall perceived-load measure, which cannot distinguish a reduction in extraneous load from an increase in generative load.
-
-## Connected Concepts
-- [[feedback]]
-- [[multimodal]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[ai-feedback-quality]]
-- [[socratic-method]]
-- [[affective-computing]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-
-
-## Connected Articles
-
-- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[cyberscholar-genai-writing-feedback]] — Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar
-- [[sequenced-ai-feedback-learning]] — Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning
-- [[becerra-aicofe-feedback-2026]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
 
 ## Citation
 

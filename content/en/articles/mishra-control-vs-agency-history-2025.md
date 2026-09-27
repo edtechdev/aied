@@ -77,36 +77,6 @@ This is a landmark historical piece that anchors the knowledge base's developing
 - The cybernetic counterfactual is speculative by construction — it describes what a different framing might have produced rather than a testable prediction — and is offered as a heuristic, not evidence.
 - The piece appeared as a TechTrends column and argues from secondary historical sources on AI and education, so its claims about the field's past were not subject to empirical replication.
 
-## Connected Concepts
-
-- [[history-of-aied]] — History of AI in Education (this article anchors this concept)
-- [[intelligent-tutoring]]
-- [[constructivist]]
-- [[agency]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[ai-education]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[creativity]]
-- [[teacher-role]]
-- [[ethics]]
-- [[cs-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[higher-ed]]
-- [[productive-failure]]
-- [[learning-by-teaching]]
-
-## Connected Articles
-
-- [[zerkouk-comprehensive-review-its-2025]] — Comprehensive review of intelligent tutoring systems, the ITS lineage this history traces
-- [[graph-its-adaptive-algorithms-2026]] — Contemporary adaptive-algorithm ITS, illustrating the "control" lineage extended into modern systems
-- [[text-simplification-its]] — ITS for text simplification, a modern application of structured tutoring
-- [[ikram-ai-personalized-learning-review-2026]] — Systematic review of AI personalized learning, touching the two-form personalization distinction
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning with AI
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Modern personalized e-learning knowledge architectures in the ITS tradition
-
 ## Citation
 
 Mishra, P., Henriksen, D., Woo, L. J., & Oster, N. (2025). [*Control vs. Agency: Exploring the History of AI in Education*](https://doi.org/10.1007/s11528-025-01064-2). *TechTrends*.

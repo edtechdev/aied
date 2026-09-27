@@ -44,25 +44,6 @@ Methodologically, the study applies exploratory factor analysis (EFA; KMO = 0.68
 - No external validation: despite stratified 10-fold cross-validation with SMOTENC, the models were never tested on an independent population, restricting their applicability beyond this sample.
 - The design is cross-sectional and self-report, predicting intended future use rather than observed behavior, and SHAP explanations describe model behavior rather than causal mechanisms.
 - The sample is skewed — 72.9% male, mean age 21.4 years, 77.1% bachelor's students, and 57.2% educated in Asia — so group contrasts rest on uneven cells.
-## Connected Concepts
-
-- [[technology-acceptance-model]] — Perceived usefulness and ease-of-use constructs underpin the perception measures operationalized here.
-- [[self-determination-theory]] — Autonomy, competence, and engagement interpret the motivation-related constructs.
-- [[student-engagement]] — Academic assistance and engagement emerged as core predictors of sustained use.
-- [[generative-ai]] — ChatGPT is the specific generative AI tool under study.
-- [[academic-integrity]] — Integrity measures and responsible-use practices shape how adoption is governed.
-- [[ai-literacy]] — Findings motivate curricula emphasizing critical [[ai-ed-evaluation|evaluation of AI]] outputs.
-- [[learning-analytics]] — The exploratory ML and SHAP pipeline is an application of learning-analytics methods.
-- [[critical-thinking]] — Verification behavior and concerns about [[cognitive-offloading|over-reliance]] align with critical evaluation of AI content.
-- [[higher-ed]] — The study concerns university students and institutional adoption contexts.
-- [[educational-policy-ai]] — Findings inform balanced governance frameworks for generative AI.
-
-## Connected Articles
-
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Related survey-based study of generative AI adoption personas in higher education.
-- [[stamatoulis-genai-use-patterns-2026]] — Companion analysis of how students actually use generative AI tools in academic settings.
-- [[chatgpt-inoculation-training-verification-2026]] — Addresses ChatGPT verification and critical evaluation, echoing this study's verification-behavior findings.
-
 ## Citation
 
 [An Exploratory Machine Learning Approach to Understanding Determinants of Future ChatGPT Use in Higher Education](https://doi.org/10.1016/j.caeai.2026.100613) — Verma, C., & Kumar, D. (2026). *Computers and Education: Artificial Intelligence*, 10, 100613.

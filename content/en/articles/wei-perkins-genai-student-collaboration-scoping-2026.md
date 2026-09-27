@@ -7,7 +7,6 @@ foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 pedagogy: [collaborative-learning, self-regulated-learning]
 technology: [generative-ai]
 assessment: [assessment]
-connected_faqs: [group-work-ai]
 methods: [meta-analysis-systematic-review]
 audience: [learners, instructors]
 level: [higher ed]
@@ -43,32 +42,6 @@ confidence: high
 - The included higher education contexts and disciplines vary (for example China and the US), so the authors caution that the implications may not apply elsewhere.
 - One included study (He et al. 2024) was conducted with professionals rather than higher education students, and differences in participant characteristics and organizational settings may limit transferability to higher education.
 - The evidence base is uneven: benefits such as knowledge development and communication efficiency are empirically supported, while risks around privacy, bias, and accuracy are largely discussed conceptually with limited empirical investigation.
-
-## Connected Concepts
-
-- [[collaborative-learning]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[self-regulated-learning]]
-- [[human-ai-collaboration]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-
-## Connected Articles
-
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Leveraging generative AI to facilitate peer feedback in collaborative argumentation learning
-- [[llm-critical-thinking-teamwork-review]] — Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review
-- [[ai-collaborative-learning-systematic-review]] — A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade
-- [[genai-counter-learner-groupthink-2025]] — Utilizing Generative AI to Counter Learner Groupthink by Introducing Controversy in Collaborative Problem Based Learning Settings
-- [[ba-ai-agents-cscl-review-2026]] — Artificial Intelligence Agents in Computer-Supported Collaborative Learning: A Systematic Literature Review
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective
-- [[human-ai-collaboration-prerequisite-functions]] — What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication
 
 ## Citation
 

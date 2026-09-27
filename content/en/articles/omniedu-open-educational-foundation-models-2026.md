@@ -56,29 +56,5 @@ Curriculum grounding is the cleanest result: OmniEdu-27B takes the best K12-Benc
 - Superiority is not uniform: Claude-Opus-5 beat OmniEdu-27B on MathTutorBench Scaffold (87.89% versus 78.74%), and Kimi-K3 led on EDUMATH MaC (90.00% versus 86.95%) and TutorBench (63.65% versus 59.42%).
 - Evaluation is entirely [[benchmark]]-based; the paper reports no classroom deployment, learner outcome, or [[teacher-role|teacher]]-in-the-loop study.
 
-## Connected Concepts
-- [[pedagogical-llm-training]]
-- [[scaffolding]]
-- [[curriculum-design]]
-- [[open-source]]
-- [[intelligent-tutoring]]
-- [[benchmark]]
-- [[llm]]
-- [[cognitive-diagnosis]]
-- [[misconceptions]]
-- [[student-modeling]]
-- [[multimodal]]
-- [[ai-ed-evaluation]]
-
-## Connected Articles
-- [[cdpk-pedagogy-benchmark-llms]] — Benchmarking the Pedagogical Knowledge of Large Language Models
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Methodologies for Improving the Quality of AI Tutoring in K-12 Education
-- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning
-
 ## Citation
 Liang, H., Lin, Q., Qiang, M., Sun, L., Feng, H., Chen, M., Qiu, S., & Zhang, W. (2026). [OmniEdu: Open Foundation Models for Learning and Teaching](https://arxiv.org/abs/2609.23088). arXiv:2609.23088.

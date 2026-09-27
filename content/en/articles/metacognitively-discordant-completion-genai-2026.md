@@ -11,7 +11,6 @@ audience: [learners]
 sources: ['raw/papers/metacognitively-discordant-completion-genai-2026.md']
 confidence: medium
 page_kind: [framework]
-connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** This theoretical paper names a state it calls *metacognitively discordant completion* (MDC): a learner submits correct, complete work while holding a first-person awareness that understanding has not actually arrived. Arguing that no existing literature holds the three defining conditions together under one name, the author builds the construct by inheritance from [[metacognition]] [[research-methods-aied|research]] and by boundary against related concepts, framing [[generative-ai|GenAI]]'s role as amplification rather than invention.
@@ -64,24 +63,6 @@ The border case is a sibling construct. The Absent Cognitive Baseline names the 
 - Graphicacy and mathematics are the expected empirical domains, not boundaries of the construct, so nothing yet shows that the state arises under the same conditions in other subjects.
 - The lower edge of the awareness gradient is undecided — where a faint unease ends and a codable recognition begins is one of four evidence debts the paper explicitly leaves to future coding, alongside whether deferred completions ever convert into understanding.
 - The justification layer is excluded by design and developed elsewhere, so the paper deliberately does not account for how reasons are assembled around the state and declines to prescribe any assessment redesign until the assigned evidence arrives.
-
-## Connected Concepts
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[absent-cognitive-baseline-2026]] — Absent cognitive baseline
-- [[metacognitive-learning-scenarios-taxonomy]] — Metacognitive learning scenarios taxonomy
-- [[ai-fallibility-warning-help-seeking]] — AI fallibility warnings and help-seeking
-- [[polished-artifacts-fragile-engagement-2026]] — Polished artifacts, fragile engagement
-- [[trust-reliance-ai-education-2026]] — Trust and reliance in AI education
 
 ## Citation
 

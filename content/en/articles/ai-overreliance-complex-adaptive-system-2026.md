@@ -6,7 +6,6 @@ type: article
 foundations: [agentic-ai, ai-education, cognitive-offloading, human-ai-collaboration]
 technology: [llm]
 ethics: [trust-calibration]
-connected_faqs: [reducing-over-reliance]
 research_method: [process-outcome modeling, theoretical analysis]
 sources: ['raw/papers/ai-overreliance-complex-adaptive-system-2026.md']
 confidence: high
@@ -56,29 +55,6 @@ A **cascade tipping result** (Prop. 3), building on Brock–Durlauf discrete cho
 - The results are simulation outputs, not observed behavior — the overreliance values (roughly 0.02 to 0.38 by task difficulty, 0.30 to 0.52 under social proof) come from agents, with no human participants or field data.
 - The mean-preservation result has a narrow stated scope: it holds when peer signals are exchangeable and influence weights are independent of realized signal values, and topology becomes a mechanism of amplification once influence transmits beliefs.
 - The tipping form is qualified by the authors themselves: the sharp fold requires coupling θs > 4 and appears in the mean-field analysis, while the agent-based model shows a smooth crossover with no hysteresis, so the practical prediction is gradual erosion of verification rather than a switch.
-
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[agentic-ai]]
-- [[llm]]
-- [[reducing-ai-misuse]]
-- [[ai-misuse-learning-harm]]
-- [[trust]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[cognitive-surrender]]
-
-## Connected Articles
-
-- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
-- [[ai-advice-suppresses-ikt-suspension-2026]] — AI Advice Suppresses People's Willingness to Say They Don't Know
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: An AI Literacy Intervention in Human-AI Collaboration
-- [[critical-genai-use-predictors]] — GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning
 
 ## Citation
 

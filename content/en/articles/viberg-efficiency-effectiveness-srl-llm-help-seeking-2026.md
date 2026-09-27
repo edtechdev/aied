@@ -5,7 +5,6 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 pedagogy: [help-seeking, self-regulated-learning]
 technology: [llm]
-connected_faqs: [reducing-over-reliance, study-with-ai]
 discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/viberg-efficiency-effectiveness-srl-llm-help-seeking-2026.md']
@@ -38,21 +37,6 @@ methods: [qualitative-research]
 - Data are 30–40 minute semi-structured interviews conducted between mid-May and July 2024 — self-reported accounts of study habits rather than observed help-seeking behavior or learning outcomes.
 - There is no comparison or control condition and no performance measure; the findings describe students' stated intentions and reasoning, not what they actually did when studying.
 - The findings sit in contrast to studies reporting over-reliance on LLM output, and the authors do not establish whether the difference stems from the population, the tasks, or the interview prompts used to elicit responses.
-
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and SRL: perceived source matters
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Help-seeking with ChatGPT vs. human expert
 
 ## Citation
 

@@ -55,31 +55,6 @@ The design is a one-group pre–post intervention study in a real educational se
 - Only immediate post-session attitudes were measured — no delayed follow-up — and nothing about performance was tested because the students never solved the problems they co-authored; the paper's own performance claim, that solving student co-authored problems should benefit authors and peers with similar experiences, is explicitly left as "an important test for the future studies".
 - The change was narrow and the intervention inseparable from its [[personalized-learning|personalization]] machinery: membership and acceptance moved while trust in instructors and the anxiety-adjacent subscales did not, the authors say repeated exposure and a longer intervention would be needed to reach subscales reflecting stable traits or systemic conditions, and the study shows that [[generative-ai|GenAI]]-mediated co-authorship moved belonging, not that generative AI is required to do so.
 
-## Connected Concepts
-
-- [[agency]] — the mechanism the tool engineers, at the interaction mode, the problem context and the rating stage
-- [[culturally-relevant-pedagogy]] — the representation gap in word-problem content that AMPT is built to close
-- [[equity-in-ai-education]] — gender- and URM-differentiated belonging declines as the motivation for the work
-- [[generative-ai]] — the technology generating the co-authored problems
-- [[intelligent-tutoring]] — MATHia, the destination for approved student-authored problems
-- [[k-12]] — seventh and eighth grade, middle school mathematics
-- [[llm]] — GPT-4o behind the AMPT chat interface
-- [[math-education]] — the subject domain and the discipline whose attitudes the study measures
-- [[motivation]] — the attitude cluster (belonging, interest and value, perceived ability) measured before and after
-- [[personalized-learning]] — contextual personalization of word problems, plus the student's own control over context
-- [[self-report-measures]] — every outcome is self-reported on Likert scales
-- [[student-engagement]] — the downstream engagement and achievement the authors expect belonging to support
-
-## Connected Articles
-
-- [[ampt-math-personalization-genai-2026]] — The longer account of the same AMPT research program, including the co-design sessions and the MATHia pilot
-- [[taklif-ai-interest-based-personalized-assignments]] — An LLM platform that personalizes college assignments around learner interests
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Personalized AI content and its effect on fraction interest in elementary mathematics
-- [[epistemic-proactivity-math]] — How students' AI interaction in mathematics matures over a practice session
-- [[liang-ai-learning-motivation-sdt-2026]] — Latent transition analysis of students' AI learning motivation
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Perceived utility as a moderator of motivational intervention effects
-- [[chudziak-ai-math-tutoring-platform]] — A personalized adaptive mathematics tutoring platform built on LLMs
-
 ## Citation
 
 Norberg, K., Murphy, A., De Ley, L., Shafran Moltz, E., Almoubayyed, H., & Ritter, S. (2025). [*Using Generative AI to Foster Student Sense of Belonging in Mathematics*](https://doi.org/10.1007/978-3-031-98465-5_24). In *Artificial Intelligence in Education: 26th International Conference, AIED 2025, Palermo, Italy, July 22–26, 2025, Proceedings, Part VI* (pp. 188–195). Springer.

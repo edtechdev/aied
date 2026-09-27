@@ -36,19 +36,6 @@ page_kind: [evaluation]
 - The analysis examined predominantly multiple-choice quizzes delivered immediately after instructional videos. MCQs constrain the space of possible responses, and nothing here speaks to delayed assessments delivered weeks later.
 - Prompt design introduced anchoring bias: supplying the most common incorrect answer alongside the lecture transcripts primes the model to rationalize that specific error, which may overlook misconceptions held by a minority of students.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[misconceptions]]
-- [[cognitive-diagnosis]]
-- [[knowledge-tracing]]
-## Connected Articles
-
-- [[huang-interpretable-knowledge-tracing-2026]]
 ## Citation
 
 Parker, M. J., & Zavala-Cerna, M. G. (2026). [What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics](https://arxiv.org/abs/2605.00294). Education and Information Technologies.

@@ -60,22 +60,6 @@ The method proved robust to adversarial transformation, obtaining the best score
 - **False positives and false negatives.** Automated detection may wrongly flag human writing as machine-generated or miss generated content — harms that are especially consequential in high-stakes settings.
 - **Not evidence of authorship.** EchoPrompt is best treated as an auxiliary signal rather than definitive evidence of who wrote a passage.
 
-## Connected Concepts
-
-- [[ai-detection]]
-- [[ai-education]]
-- [[academic-integrity]]
-- [[llm]]
-- [[higher-ed]]
-## Connected Articles
-
-- [[llm-detecting-llm-generated-content-education]] — Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content
-- [[adversarial-stress-testing-role-playing-agents]] — Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation
-- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
-- [[ethical-ai-higher-ed-game-theory]] — Mathematical Modeling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights
-
 ## Citation
 
 Bao, H., Ren, Y., Cao, Y., You, J., Fang, F., & Wang, S. (2026). [*Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration*](https://arxiv.org/abs/2608.05741v1). v1.

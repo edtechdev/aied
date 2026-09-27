@@ -51,23 +51,6 @@ confidence: high
 - The usage period is three weeks, so long-term effects remain unverified, and surveys were administered at different points in the semester, leaving room for seasonal and semester confounds.
 - The implementation is one instantiation of the design principles, so observed effects may stem from implementation issues rather than from the general concept of the intervention.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[higher-ed]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[llm]]
-- [[motivation]]
-- [[student-engagement]]
-- [[feedback]]
-## Connected Articles
-
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-
 ## Citation
 
 Scheu, S., Loeffler, S. N., & Maedche, A. (2026). [*Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement*](https://doi.org/10.1186/s41239-026-00589-7). *International Journal of Educational Technology in Higher Education*, 23, 15

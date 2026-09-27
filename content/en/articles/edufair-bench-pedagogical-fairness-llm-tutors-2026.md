@@ -64,33 +64,6 @@ The Opposite condition asks whether the residual gender signal is tutor-driven o
 - The demographics are coarse and often binary ("native-born"/"immigrant", "English L1"/"non-English L1"), which the authors acknowledge erases within-group heterogeneity.
 - GPT-5-mini was evaluated on a fixed stratified 30% subsample per domain (272/150/150 items) rather than the full question bank, so its results are not directly comparable to the four open-weight tutors run on the full bank.
 
-## Connected Concepts
-
-- [[pedagogical-safety]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[intelligent-tutoring]]
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[simulating-students]]
-- [[educational-nlp]]
-- [[scaffolding]]
-- [[pedagogical-llm-training]]
-- [[psychometrically-aware-ai]]
-- [[student-modeling]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety Harms
-- [[llm-pedagogical-behavior-ai-tutoring-2026]] — LLM Pedagogical Behavior in AI Tutoring
-- [[ai-tutoring-quality-k12-methodologies-2026]] — AI Tutoring Quality in K-12: Methodologies
-- [[machines-misread-pedagogical-quality]] — Machines Misread Pedagogical Quality
-- [[gender-bias-transfer-llm-writing]] — Gender Bias Transfer in LLM Writing Support
-- [[valid-student-simulation-llm-2026]] — Valid Student Simulation with LLMs
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA: Multi-Agent Tutoring Benchmark
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring Is Not a Monolith
-
 ## Citation
 
 Jiaxu Zhao, Bahar Radmehr, Fares Fawzi, Tanya Nazaretsky, and Tanja Käser (2026). [*EduFair-Bench: Evaluating Pedagogical Fairness of LLM Tutors Across Student Demographics*](https://arxiv.org/abs/2609.12949). arXiv preprint.

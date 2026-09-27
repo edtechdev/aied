@@ -7,7 +7,6 @@ pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, llm]
 assessment: [automated-question-generation]
 ethics: [equity-in-ai-education, inclusive-learning]
-connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [system development]
 audience: [learners, software developers]
 level: [special education, k 12, higher ed]
@@ -44,31 +43,6 @@ The study highlights the importance of considering **[[language-learning|languag
 - The user study is qualitative with N=16 DHH participants (ten identified as Deaf and six as Hard of Hearing, recruited by word of mouth), and the authors say the small number limits statistical power and stronger comparison across question-generation strategies.
 - Emotion questions depend on sensitive learner data collected for only one video (aggregated facial-expression data from 20 learners), so extending the system creates a cold-start problem and requires longitudinal, transparent data collection.
 - Strategy-level findings rest on few respondents and self-report: only eight participants chose a single strategy, the visual-question comparison rests on five Deaf versus one Hard of Hearing learner, and ratings come from 7-point Likert items with interview themes coded from 5–10 transcripts each.
-
-## Connected Concepts
-
-- [[llm]]
-- [[generative-ai]]
-- [[special-education]]
-- [[inclusive-learning]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[equity-in-ai-education]]
-- [[student-experience]]
-- [[universal-design-for-learning]]
-- [[self-efficacy]]
-- [[language-learning]]
-- [[bias-mitigation]]
-- [[cognitive-offloading]]
-- [[neurodiversity]]
-
-## Connected Articles
-
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges: the case of disability
-- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analyzing Dyslexic Learners
-- [[slidesqaqa-pedagogical-question-generation]] — SlideQAQA: Pedagogical Question Generation
-- [[generate-then-validate-question-gen]] — Generate-then-validate question generation
-- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Question Generation
 
 ## Citation
 

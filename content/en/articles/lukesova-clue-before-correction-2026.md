@@ -49,23 +49,6 @@ This paper is an empirical example of error-driven, autonomy-supporting AI pedag
 - Benefits were uneven within the sample — reduced cognitive load and better revision pathways held particularly for more proficient learners, so the design's value for A1-level learners is not established by the aggregate findings.
 - The activity used one model (ChatGPT) and two languages, and the authors caution that findings should not be assumed to generalize to languages with limited training data, non-Latin scripts, or complex morphology, calling for cross-lingual and cross-model research.
 
-## Connected Concepts
-
-- [[productive-failure]]
-- [[language-learning]]
-- [[generative-ai]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback]]
-- [[scaffolding]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems for Productive Failure
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-
 ## Citation
 
 Lukešová, A., & Jennings, P. J. (2026). [*Clue before correction: ChatGPT-enhanced strategy for promoting autonomous and reflective language learning*](https://doi.org/10.1080/17501229.2025.2612532). *Innovation in Language Learning and Teaching*. DOI: 10.1080/17501229.2025.2612532.

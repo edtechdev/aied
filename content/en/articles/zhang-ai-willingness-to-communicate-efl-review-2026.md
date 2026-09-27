@@ -62,24 +62,6 @@ The review's central contribution is an integrated framework. Studies that measu
 - The antecedent keyword set was limited to anxiety, self-confidence, and motivation, so studies using other terminology may have been missed.
 - No review protocol was registered in advance, and the corpus concentrates on Asian contexts and adult learners.
 
-## Connected Concepts
-
-- [[self-efficacy]]
-- [[motivation]]
-- [[anxiety-and-stress]]
-- [[generative-ai]]
-- [[conversational-ai]]
-- [[theories-and-frameworks]]
-- [[meta-analysis-systematic-review]]
-- [[self-report-measures]]
-- [[multilingual-learning]]
-
-## Connected Articles
-
-- [[genai-pronunciation-feedback-wtc-2026]] — Pronunciation Feedback and Willingness to Communicate in English
-- [[liu-emerging-tech-tefl-review-2026]] — Systematic Review of Emerging Technology for EFL Teaching
-- [[ai-gamified-adaptive-learning-efl-2026]] — Acceptance of AI-Gamified Adaptive Learning in EFL
-
 ## Citation
 
 Zhang, S., Zou, B., Liu, Y., Chen, Z., & Yan, R. (2026). [*Impacts of artificial intelligence on willingness to communicate and its key antecedents in EFL contexts: a systematic review (2015–2026)*](https://doi.org/10.3389/feduc.2026.1927432).

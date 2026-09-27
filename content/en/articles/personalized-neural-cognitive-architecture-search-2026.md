@@ -42,24 +42,6 @@ The system was evaluated on a proprietary [[governance|institutional]] dataset o
 - Mastery ground-truth labels were constructed through instructor-reviewed curriculum mappings and convergent assessment evidence rather than direct log-to-label conversion, since behavioral traces such as page-stay time or repeated attempts are ambiguous.
 - Human validation used a small panel of 10 educational psychologists on 100 student cases and 12 instructors on 60 diagnostic reports, and the authors describe it as evidence of practical usability rather than proof of long-term learning improvement.
 - Fairness checks covered only gender and parental education, holding AUC disparities to 2.1% and 2.8%; other learner populations remain unvalidated.
-## Connected Concepts
-
-- [[cognitive-diagnosis|cognitive diagnosis]]
-- [[knowledge-tracing|knowledge tracing]]
-- [[personalized-learning|personalized learning]]
-- [[student-modeling|learner modeling]]
-- [[learning-analytics|learning analytics]]
-- [[adaptive-learning|adaptive learning]]
-- neural architecture search
-- [[item-response-theory|item response theory]]
-
-## Connected Articles
-
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Another cognitive diagnosis study; where that work uses Bayesian psychometric models for learning-path planning, this one automates diagnostic model architecture via AutoML/NAS.
-- [[mbp-kt-meta-behavioral-knowledge-tracing]] — Shares the focus on incorporating behavioral learning-process data into learner-state modeling for diagnosis and tracking.
-- [[neural-symbolic-knowledge-tracing]] — Adjacent work on interpretable neural models of knowledge state, relevant to the interpretability goals of the diagnostic outputs here.
-- [[cognitive-load-transfer-knowledge-tracing-2026]] — Related effort connecting cognitive constructs to predictive learning models, complementing this framework's education-constrained search space.
-
 ## Citation
 
 [Personalized neural cognitive architecture search](https://doi.org/10.1016/j.caeai.2026.100620) — Jia, L., & Dong, K. (2026). *Computers and Education: Artificial Intelligence*, 11, 100620.

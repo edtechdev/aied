@@ -6,7 +6,6 @@ type: article
 pedagogy: [motivation, scaffolding, student-engagement]
 technology: [generative-ai]
 assessment: [feedback]
-connected_faqs: [ai-guidance-children-under-13]
 methods: [mixed-methods-research]
 research_method: [experiment, interviews]
 audience: [instructors, curriculum designers]
@@ -55,24 +54,6 @@ The study therefore asks what changes when a GenAI-supported writing program is 
 - The program ran nine weeks at one 40-minute session per week, with pre- and post-test measurement only, no delayed follow-up to test whether gains persisted, and no modeling of how motivation, engagement and performance related over time.
 - Motivation and engagement were measured mainly by self-report, which the authors say "may not capture observable classroom behavior" and should be supplemented with classroom observation.
 - Interview evidence comes from 12 of the 151 experimental students, and Grades 5 and 6 were pooled after a baseline check without examining developmental differences between them.
-
-## Connected Concepts
-
-- [[writing-education]]
-- [[language-learning]]
-- [[student-engagement]]
-- [[motivation]]
-- [[scaffolding]]
-- [[feedback]]
-- [[k-12]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[elementary-writing-genai-systematic-review-2026]]
-- [[dai-chatbots-problem-posing-primary-2026]]
-- [[student-genai-use-views-writing]]
-- [[ai-feedback-critical-thinking-writing-2026]]
 
 ## Citation
 

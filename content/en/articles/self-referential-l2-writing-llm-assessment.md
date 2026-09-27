@@ -39,25 +39,5 @@ Using the ICNALE GRA dataset annotated by up to 80 trained raters and calibrated
 - The strength/weakness split uses a one-standard-deviation threshold, which the authors describe as a heuristic choice rather than a psychometrically derived cutoff, and the Attitude aspects (Willingness and Involvement) show lower inter-rater agreement — so model-versus-human differences there likely reflect noise in the reference labels.
 - The model comparison is zero-shot and limited to three LLMs — GPT-4.1, Qwen 2.5 72B, and Llama 3.1 70B, the latter two 4-bit quantized — so quantization and prompt design are uncontrolled.
 
-## Connected Concepts
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[writing-education]]
-- [[language-learning]]
-- [[automated-question-generation]]
-- [[human-in-the-loop-ai]]
-- [[llm]]
-- [[educational-measurement]]
-- [[english-education]]
-
-## Connected Articles
-- [[ai-learning-companions-framework]]
-- [[ground-truth-reliability-aied]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[sequenced-ai-feedback-learning]]
-- [[nie-personavlm-long-term-personalization-2026]]
-- [[icle-plus-plus-essay-scoring]]
 ## Citation
 Bannò, S., Knill, K., & Gales, M. (2026). [*Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs*](https://arxiv.org/abs/2605.04298).

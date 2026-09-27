@@ -66,20 +66,6 @@ The review recommends designing for [[trust-calibration|calibrated trust]] rathe
 - **Populations are narrow.** 28 studies (84.84%) reported participants aged 18 or older and only four (12.12%) reported solely non-Western participants, with university-educated samples and English-language requirements reinforcing the WEIRD skew the authors describe, which limits generalization to other learners and regions.
 - **Definitions and instruments vary across studies.** 21 studies (63.64%) reported a definition drawn from nine different sources and measurement instruments were similarly fragmented, so findings are hard to compare and the review reports recurring patterns rather than cumulative, replicated effects.
 
-## Connected Concepts
-
-- [[trust]] and [[trust-calibration]] — the core construct and recommended design target
-- [[explainable-ai]] — the dominant design factor, with mixed effects
-- [[generative-ai]] and [[conversational-ai]] — the systems most studied
-- [[self-report-measures]] — the dominant trust measurement strategy
-- [[human-ai-collaboration]] and [[limitations-in-aied-research]] — framing and fragmentation
-
-## Connected Articles
-
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Explainable AI, teacher trust, and acceptance of AI edtech recommendations
-- [[trust-calibration-chatbots-design-problem-2026]] — Trust calibration as a design problem in chatbot interactions
-- [[task-context-trust-educational-hri-2026]] — Task context rather than appearance shapes trust in educational HRI
-
 ## Citation
 
 Abramson, S. L., Sora-Cardenas, J., Nandakumar, P., Bruce, J. E., Gopinath, N., Zangari, L. G., & Feijóo-García, P. G. (2026). [*Trust and interaction design in AI-enabled systems: a systematic literature review*](https://doi.org/10.3389/fpsyg.2026.1932655).

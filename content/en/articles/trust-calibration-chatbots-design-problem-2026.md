@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 technology: [conversational-ai, generative-ai, llm]
 ethics: [explainable-ai, hallucination-risk, trust, trust-calibration]
-connected_faqs: [verify-ai-output]
 audience: [researchers, instructional designers, instructors, policymakers]
 research_method: [theoretical analysis]
 sources: ['raw/papers/10.3389_fpsyg.2026.1935527.md']
@@ -53,24 +52,6 @@ This is a Hypothesis and Theory (conceptual) contribution, not an empirical stud
 - **The typology is deliberately simple** with soft boundaries between profiles; the same person may occupy different cells across tasks or within a session, complicating profile assignment.
 
 - **Mechanism evidence is mixed** — some mechanisms (message-based norm nudges) showed no significant effect in a direct tournament, so social verification signals in particular must earn their keep empirically.
-
-## Connected Concepts
-
-- [[trust-calibration]] — the core construct; miscalibration is reframed as the design target.
-- [[trust]] — the willingness-based attitude that underlies reliance on a system's outputs.
-- [[ai-literacy]] — positioned as the durable third layer of defense that moves users across profiles.
-- [[explainable-ai]] — interpretability affordances (rationales, citations, uncertainty) operationalize XAI for public-facing chatbots.
-- [[hallucination-risk]] — fabricated but convincingly formatted citations inflate perceived credibility and miscalibrate trust.
-- [[conversational-ai]] — the sustained, personalized, bidirectional setting that makes engagement mechanisms possible.
-
-## Connected Articles
-
-- [[calibrating-trustworthiness-llm-education-2026]] — calibrating trustworthiness judgments toward LLMs in education taps the same calibration frame.
-- [[trust-in-ai-psychological-profiles-ml-2026]] — individual psychological profiles predict AI trust, complementing the ability/motivation typology.
-- [[trust-reliance-ai-education-2026]] — distinguishes trust from reliance in educational AI use, the same distinction the paper stresses.
-- [[xai-teachers-trust-edtech-recommendations-2026]] — explainable AI shapes teachers' trust in edtech recommendations.
-- [[chatgpt-inoculation-training-verification-2026]] — inoculation/verification training operationalizes literacy-based recalibration.
-- [[cognitive-offloading-llm-synthesis-writing]] — overtrust and reduced verification in AI-assisted writing reflects the reliance-without-checking pattern.
 
 ## Citation
 

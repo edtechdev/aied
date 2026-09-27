@@ -44,23 +44,6 @@ page_kind: [framework]
 - Analysis is qualitative and abductive across 42 coded interactional episodes, with no control group and no causal inference; trajectory assignment depended on coder judgment about learner autonomy, verification, and interpretive control.
 - The observation window is short (six sessions) with no longitudinal or cross-context follow-up; the authors themselves call for cross-context empirical testing, mixed-method and longitudinal designs, and further work on assessment, curriculum, and teacher training.
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[agency]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[learning-theories]]
-
-## Connected Articles
-
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Distributed epistemic co-agency between learners and AI
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing epistemic AI literacy through student–AI co-programming
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI literacy beyond a skills gap framing
-- [[vibe-compiler-metacognition-genai-agency-2026]] — Metacognition and agency with generative AI
-
 ## Citation
 
 Voicu, C.-G. (2026). [*AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education*](https://doi.org/10.61071/JDP.2665). *Journal of Digital Pedagogy*, 5(1), 37–51. https://doi.org/10.61071/JDP.2665

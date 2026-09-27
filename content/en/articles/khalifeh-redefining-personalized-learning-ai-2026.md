@@ -35,27 +35,6 @@ methods: [meta-analysis-systematic-review]
 - It cannot establish which personalized-learning approach improves learning: the emphasis is conceptual and terminological, and empirical validation of the proposed unified definition remains to be done.
 - The review documents the field's own limits — little longitudinal, inclusive, or methodologically rigorous research and disproportionate attention to older learners — which caps the strength of any conclusion drawn from the body of work it synthesizes.
 
-## Connected Concepts
-
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[generative-ai]]
-- [[learning-analytics]]
-- [[equity-in-ai-education]]
-- [[research-methods-aied]]
-- [[limitations-in-aied-research]]
-- [[item-response-theory]]
-
-## Connected Articles
-
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — AI-powered personalized learning
-- [[learnmate2-llm-adaptive-learning]] — LLM adaptive learning
-- [[ecnuclaw-k12-personalized-companion]] — K-12 personalized companion
-- [[learning-to-prompt-adaptive-tutoring]] — Prompt-based adaptive tutoring
-- [[tact-pedagogically-adaptive-esl-tutoring]] — Pedagogically adaptive ESL tutoring
-
 ## Citation
 
 Khalifeh, F., Santiago, R., & Palau, R. (2026). [*Redefining personalized learning in the artificial intelligence era: an updated systematic review from 2019 to 2025*](https://doi.org/10.1186/s40561-026-00440-6). *Smart Learning Environments*, 13, 19. https://doi.org/10.1186/s40561-026-00440-6

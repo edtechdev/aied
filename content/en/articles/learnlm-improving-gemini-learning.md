@@ -37,23 +37,6 @@ sources: [raw/papers/2412.16429.md]
 - Reported preferences come from expert panels rating conversation transcripts (186 educators; 248 pedagogy experts), so the work measures perceived tutoring quality rather than measured student learning.
 - Results are a December 2024 snapshot against specific model versions (Gemini 1.5 Pro base, GPT-4o, Claude 3.5 Sonnet), with the pedagogical data mixed into Gemini's post-training rather than tested as a standalone intervention.
 
-## Connected Concepts
-
-- [[llm]]
-- [[pedagogical-llm-training]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[reinforcement-learning]]
-- [[prompt-engineering]]
-- [[teacher-role]]
-- [[student-ai-interaction]]
-- [[pedagogy]]
-
-## Connected Articles
-
-- [[teachlm-post-training-llms-education]] — TeachLM: Post-Training LLMs for Education Using Authentic Learning Data
-- [[learning-to-prompt-adaptive-tutoring]] — Learning to prompt for adaptive tutoring
-
 ## Citation
 
 LearnLM Team, Google. (2025). *[LearnLM: Improving Gemini for learning](https://arxiv.org/abs/2412.16429)*.

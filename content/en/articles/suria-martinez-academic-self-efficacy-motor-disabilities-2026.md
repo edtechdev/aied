@@ -62,20 +62,6 @@ The authors argue this matters for [[inclusive-learning|inclusion]] and social s
 - With N = 102, the authors write that statistical power, stability, and generalizability of the structural estimates are limited, and the separate confirmatory factor analysis behind the AI utility questionnaire rested on only 85 students, so the authors treat that factor structure as preliminary and call for replication in larger samples. AI use was self-reported, which may overestimate actual use or invite social desirability bias, and usage practices change quickly.
 - Generalizability is bounded: the sample covers only students with motor disabilities, and device access, prior digital training, platform accessibility, and campus support infrastructure were left out of the model. The authors ask for ecological frameworks and objective usage data in future work.
 
-## Connected Concepts
-
-- [[self-efficacy]] — the profile variable, measured through Attention, Communication, and Excellence
-- [[latent-profile-analysis]] — the person-centered method used to derive the three profiles
-- [[inclusive-learning]] and [[accessibility]] — the policy frame the authors apply to AI in higher education
-- [[technology-acceptance-model]] — the lens used to explain why competence tracks with AI use
-- [[equity-in-ai-education]] and [[differential-effects-across-learner-groups]] — the risk that support tools reach those who need them least
-
-## Connected Articles
-
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — academic self-efficacy and AI dependency in higher education
-- [[khlaif-assistive-genai-visually-impaired-2026]] — assistive generative AI for visually impaired learners
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — digital assistive technologies for students with disabilities
-
 ## Citation
 
 Suriá-Martínez, R., García-Castillo, F., López-Sánchez, C., & García del Castillo, J. A. (2026). [*Between perceived competence and artificial intelligence: academic self-efficacy profiles in university students with motor disabilities*](https://doi.org/10.3389/feduc.2026.1956192).

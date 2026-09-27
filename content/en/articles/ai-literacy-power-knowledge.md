@@ -43,28 +43,6 @@ page_kind: [framework]
 - The framework is deliberately anti-hierarchical — described as "not a ladder but a practice" — so it supplies no proficiency levels, sequencing, or completion criteria that a program could adopt directly.
 - Claims about access and educational capital rest on cited secondary evidence rather than new measurement, and the paper does not test whether the framework changes learner behavior or [[agency|epistemic agency]].
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[agency]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[governance]]
-- [[curriculum-design]]
-- [[student-experience]]
-- [[teacher-ai-competency]]
-- [[k-12]]
-
-## Connected Articles
-
-- [[possibility-ai-literacy-critical-editorial]] — The (im)possibility of AI literacy
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference
-- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
-
 ## Citation
 
 Brady D. Lund, Zoë Abbie Teel (2026). [AI Literacy: An Exercise in Power-Knowledge](https://arxiv.org/abs/2607.27547).

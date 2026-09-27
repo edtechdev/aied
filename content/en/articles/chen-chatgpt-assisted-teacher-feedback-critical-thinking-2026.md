@@ -60,16 +60,6 @@ The significant posttest gain (Cohen's d of 3.74 against 0.25 at pretest) is the
 - The sample of 64 pre-service teachers from one compulsory course is small and homogeneous, limiting generalization to other student groups, proficiency levels, or disciplines.
 - Coding relied on two undergraduate coders and one teacher's workflow, with no blinding reported, and ChatGPT's general form may not suit every scenario; the authors suggest custom-trained versions.
 
-## Connected Concepts
-
-[[critical-thinking]], [[feedback]], [[ai-feedback-quality]], [[generative-ai]], [[human-in-the-loop-ai]], [[teacher-role]]
-
-## Connected Articles
-
-- [[ai-feedback-critical-thinking-writing-2026]] — tests AI-generated feedback against critical thinking and writing proficiency, the same outcome pair in a K-12 sample.
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — also uses epistemic network analysis to relate GenAI-supported feedback to argumentation quality.
-- [[genai-teacher-feedback-comparison]] — surveys how students judge the usefulness and trustworthiness of generative AI against teacher feedback.
-
 ## Citation
 
 Chen, Xinya; Liu, Jingge; Ye, Pingping; Li, Yan; Sun, Hui; Li, Ruwen; Hou, Zhaoyan; Yan, Jingjing. (2026). *[Effects of ChatGPT-Assisted Teacher Feedback on College Students' Critical Thinking Skills and Perceptions of Argumentative Writing](https://doi.org/10.1002/jcal.70315)*. Journal of Computer Assisted Learning, 42, e70315. https://doi.org/10.1002/jcal.70315

@@ -54,28 +54,6 @@ The implications section addresses four audiences in turn. Institutions should d
 - Agentic capability was assumed rather than verified: no tool's actual autonomy or architecture was inspected, and participants may have used different underlying technologies under the same label.
 - Potentially important variables were excluded by design — digital literacy, prior online learning experience, objective AI competence, age, institutional affiliation, voluntary versus required adoption, and the specific tools used.
 
-## Connected Concepts
-
-- [[agentic-ai]] — the technology class under study, operationalized here as a learner perception rather than a verified architecture
-- [[self-determination-theory]] — the motivational mechanism, with autonomy, competence and relatedness all predicting motivation
-- [[student-engagement]] — the hub of the model, carrying both the motivational and social pathways to the outcome
-- [[motivation]] — measured as an endogenous construct and the stronger of the two mediators
-- [[community-of-inquiry]] — the social presence construct the authors borrow, though from social presence theory rather than the CoI framework itself
-- [[self-report-measures]] — every construct including the performance outcome was self-reported
-- [[human-ai-collaboration]] — the paper's design argument for an agent as learning partner rather than automation layer
-- [[personalized-learning]] — adaptive guidance and goal-directed paths are what participants read as autonomy support
-- [[learning-gains]] — absent as a measured outcome, which is the study's central evidentiary gap
-- [[higher-ed]] — Indian business and management programs, the setting for the sample
-
-## Connected Articles
-
-- [[ai-agents-peer-learning-discourse]] — agents in peer learning discourse, the social route this paper measures by perception
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — need satisfaction and motivation with generative AI, the same theoretical frame
-- [[school-support-ai-learning-anxiety-control-value-2026]] — motivational processes around AI-supported learning in a different context
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — chatbot-supported collaboration and the social side of engagement
-- [[simon-student-engagement-adaptive-learning-2026]] — engagement as the outcome of adaptive systems
-- [[generative-ai-education-productivity-gaps]] — why perceived and measured outcomes diverge
-
 ## Citation
 
 Pramod, D., & Patil, K. P. (2026). [*Agentic AI in educational environments and its association with social and motivational pathways to learning performance*](https://doi.org/10.1007/s44217-026-02168-4). *Discover Education*, 5(929).

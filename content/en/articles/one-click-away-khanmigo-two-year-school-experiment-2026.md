@@ -39,28 +39,6 @@ sources: [raw/papers/one-click-away-khanmigo-two-year-school-experiment-2026.md]
 - Message-level chat records matched to exercise logs are available only for Year-2 treated students, so the engagement analysis rests on the single year of strongest implementation.
 - The design has limited power on the cross-grade spillover margin and finds no detectable spillover signal, so contamination between treated and control grades cannot be ruled out where a teacher led RTI mathematics in both.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[generative-ai]]
-- [[help-seeking]]
-- [[student-engagement]]
-- [[edtech-platform]]
-- [[math-education]]
-- [[k-12]]
-- [[adaptive-learning]]
-- [[learning-gains]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[elevate-genai-virtual-tutors]] — GenAI virtual tutors
-- [[access-not-enough-ai-tutoring-2026]] — Access is not enough for AI tutoring
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Improving AI tutoring quality in K-12
-
 ## Citation
 
 Oreopoulos, P., & Low, N. (2026). *[One click away: AI tutoring with Khanmigo in a two-year school experiment](https://www.nber.org/papers/w35620)* (NBER Working Paper No. 35620). National Bureau of Economic Research.

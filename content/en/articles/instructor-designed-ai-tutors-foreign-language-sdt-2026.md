@@ -39,28 +39,6 @@ confidence: high
 - Competence was self-assessed across six sub-domains (means 2.67–2.94), not measured by an objective proficiency test.
 - The design is correlational — out-of-class usage frequency showed no significant correlation with the [[self-determination-theory|SDT]] variables — so no causal claim about motivation or learning gains is supported.
 
-## Connected Concepts
-
-- [[language-learning]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[motivation]]
-- [[agency]]
-- [[metacognition]]
-- [[personalized-learning]]
-- [[feedback]]
-- [[student-experience]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[llm-facilitation-timing-online-discussions]] — LLM Facilitation Timing in Online Discussions
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and [[learning-gains|Academic Performance]] in an Object-Oriented Programming Course
-- [[curiobot-llm-tutoring-exploratory-learning]] — CurioBot: LLM Tutoring for Exploratory Learning
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education
-
 ## Citation
 
 Lee, H., & Kwon, H. (2026). [*Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory*](https://doi.org/10.3390/higheredu5030078). *Trends in Higher Education*, 5(3), 78.

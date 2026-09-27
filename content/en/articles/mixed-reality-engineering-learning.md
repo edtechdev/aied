@@ -38,22 +38,6 @@ This paper contributes to the growing body of [[research-methods-aied|research]]
 - Three researchers coded the open-ended responses until consensus, with no inter-rater reliability statistic reported, and the four themes were generated from participant self-report and observation rather than from independent measures.
 - The baseline quiz was used to check prior-knowledge equivalence across groups, but participants who were dissatisfied with the modality assigned to them indicate that assignment-materials fit varied, and participants themselves noted that the evaluation method strongly shaped their experience of the system.
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[stem-education]]
-- [[embodied-learning]]
-- [[multimodal]]
-- [[active-learning]]
-## Connected Articles
-
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
-- [[cogtax-cognitive-taxonomy]] — CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education
-- [[less-deliberate-teams-llm]] — Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work
-- [[dynamic-skill-matching-capstone-teams]] — Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment
-- [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
-
 ## Citation
 
 Mohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, Md Rassel Raihan, Mahmudur Rahman (2026). [Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning](https://arxiv.org/abs/2607.00979). submitted 1 Jul 2026

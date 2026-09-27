@@ -40,29 +40,6 @@ level: [higher ed]
 - Essays were written under a 20-minute time limit with 32-channel EEG hardware, so the writing task and context are not typical of coursework, and the study reports a preprint under review rather than a peer-reviewed article.
 - The central outcomes are proxies: EEG connectivity differences and participants' self-reported ownership stand in for learning and engagement, and no delayed test of essay knowledge or writing skill was reported.
 
-## Connected Concepts
-
-- [[cognitive-offloading]] — the mechanism by which LLM reliance reduces cognitive engagement
-- [[generative-ai]] — the ChatGPT tool under study
-- [[writing-education]] — the educational context (essay writing)
-- [[metacognition]] — the self-monitoring LLM use suppresses
-- [[self-regulated-learning]] — the regulatory capacity at risk
-- [[agency]] — the ownership dimension
-- [[academic-integrity]] — authorship and original-work concerns
-- [[student-engagement]] — the engagement gradient across tools
-- [[transfer-of-learning]] — whether gains persist without the tool
-- [[human-ai-collaboration]] — the human–AI cognitive relationship
-- [[cognitive-surrender]]
-
-## Connected Articles
-
-- [[ai-writing-support-stage-ownership-2026]] — How AI writing support alters ownership by stage
-- [[chatgpt-academic-writing-quality-ownership-2026]] — ChatGPT, academic writing quality and ownership
-- [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in LLM-assisted writing
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI tools, cognitive offloading and critical thinking
-- [[shaw-nave-cognitive-surrender-2026]] — Cognitive surrender in AI-assisted work
-
 ## Citation
 
 Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., Braunstein, I., & Maes, P. (2025). [*Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task*](https://arxiv.org/abs/2506.08872v2).

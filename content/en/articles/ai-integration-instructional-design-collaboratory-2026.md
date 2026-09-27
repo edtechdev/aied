@@ -53,31 +53,6 @@ Three moves recur across the cases. The first is bounding AI use to a single act
 - The survey figures come from cited national surveys of U.S. math and science teachers, so they describe that population and not teacher preparation across all disciplines.
 - Three of the fifteen convening faculty did not complete the design-implementation cycle, and the collaboratory's lessons reflect faculty who volunteered for the work, which is likely a more motivated group than a program average.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[academic-integrity]]
-- [[human-ai-collaboration]]
-- [[scaffolding]]
-- [[professional-training]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[llm]]
-- [[feedback]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[teacher-education]]
-
-## Connected Articles
-
-- [[preservice-teachers-responsible-genai-2026]] — curriculum implications for preparing pre-service teachers to use generative AI responsibly
-- [[human-centered-ai-teacher-educators-2026]] — professional learning design for critical AI literacy among teacher educators
-- [[teacher-educators-ai-integration-preservice-2026]] — how teacher educators navigate AI integration in pre-service preparation
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — tensions when pre-service teachers write classroom AI policy
-
 ## Citation
 
 Liu, A., Zeller, A., Traynor, A., Sarmiento-Quezada, B., Walkington, C., Holtz, E., Pai, G., Lee, H.-J., Sun, L., Bondurant, L., Burnett, S., Casey, S., Girtz, S., & Sun, M. (2026). [AI integration as instructional design: Lessons from a cross-institutional faculty collaboratory in teacher preparation](https://www.amplifylearn.ai/wp-content/uploads/2026/09/AI-Integration-as-Instructional-Design_WhitePaper-cover_0904.pdf). AmplifyGAIN R&D Center, University of Washington College of Education. *AmplifyLearn.AI Center Series*.

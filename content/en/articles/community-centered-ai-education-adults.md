@@ -36,28 +36,6 @@ The study contributes design considerations for [[edtech-platform|educational te
 - The sample skews older than typical adult learners: 22 participants reported ages, and 17 of them were 55 or above; prior schooling ranged from 10 with college-level education and 8 with some college to 6 with a high school education or less.
 - Interpretations may reflect the research team's own commitments: the authors acknowledge their commitments, expertise and relationships shaped the analysis, and the senior author, who also served as PI, has maintained decade-long collaborative relationships with both community partners.
 
-## Connected Concepts
-
-- [[adult-learning]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[edtech-platform]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[higher-ed]]
-- [[lifelong-learning]]
-- [[privacy]]
-- [[trust]]
-
-## Connected Articles
-
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analyzing Dyslexic Learners Insights from Online Forums
-- [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for artificial intelligence literacy through a self-determination theory perspective
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
-- [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
-
 ## Citation
 
 Yao Lyu, Leonymae Aumentado, Holden Winton, Jared Lee Katzman, Sparkle Berry, Zachary Rowe, Kimberly Sanders, Tawanna R. Dillahunt (2026). [Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study](https://arxiv.org/abs/2606.26565). arXiv cs.HC.

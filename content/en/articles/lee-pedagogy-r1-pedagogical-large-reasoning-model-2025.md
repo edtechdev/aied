@@ -59,26 +59,6 @@ Pedagogy-R1-7B posted the best results in decision-making at 54.76 percent, peda
 - **Machine-coded qualitative results.** Most traces were model-coded with no reported human agreement analysis; manual double-coding covered 14 of 42 traces.
 - **Narrow coverage and one pass.** Five dimensions with modest item counts, single runs, and no test of other languages or grade bands.
 
-## Connected Concepts
-
-- [[benchmark]]
-- [[pedagogical-llm-training]]
-- [[prompt-engineering]]
-- [[knowledge-tracing]]
-- [[automated-essay-scoring]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[teacher-role]]
-- [[llm]]
-- [[legal-issues-and-risks]]
-- [[ai-ed-evaluation]]
-
-## Connected Articles
-
-- [[cdpk-pedagogy-benchmark-llms]] — Benchmarking the Pedagogical Knowledge of Large Language Models
-- [[lee-openlearnlm-benchmark-educational-llms-2026]] — OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models
-- [[elbench-education-llm-benchmark-2026]] — ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models
-
 ## Citation
 
 Lee, U., Lee, J., Bae, J., Jeong, Y., Koh, J., Lee, G., Lee, G., Ahn, T., & Kim, H. (2025). [*Pedagogy-R1: Pedagogical Large Reasoning Model and Well-balanced Educational Benchmark*](https://doi.org/10.1145/3746252.3761133). Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM 2025), November 10-14, 2025, Seoul, Republic of Korea, ACM.

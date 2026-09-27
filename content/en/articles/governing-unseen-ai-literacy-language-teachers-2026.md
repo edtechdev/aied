@@ -45,23 +45,6 @@ institutions: [governance]
 - The qualitative-dominant corpus allowed no meta-analysis or formal GRADE assessment; confidence was rated theme by theme using GRADE-CERQual, leaving certainty lower than a quantitative synthesis would give.
 - Methodological quality was judged with a 0–8 composite checklist, and the authors flag self-report bias in survey studies, researcher–participant familiarity in case studies and confirmation bias in conceptual reviews as risks that were noted rather than eliminated.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[language-learning]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[governance]]
-- [[higher-ed]]
-- [[english-education]]
-
-## Connected Articles
-
-- [[edurev-100741-tpack-genai-review]] — TPACK in the GenAI era: a systematic review
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education and AI literacy through self-determination theory
-- [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK and teacher multi-agent workflows
-- [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy training in teacher education (design-based research)
-
 ## Citation
 
 Deng, Y., Çelik, F., & Duran, V. (2026). [*Governing the Unseen: A Systematic Review of AI Literacy among Language Teachers in Higher Education*](https://doi.org/10.1016/j.caeai.2026.100658). *Computers and Education: Artificial Intelligence*, 100658. https://doi.org/10.1016/j.caeai.2026.100658

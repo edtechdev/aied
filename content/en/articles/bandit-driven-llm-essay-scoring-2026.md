@@ -37,22 +37,6 @@ confidence: high
 - The epsilon-greedy controller held a constant exploration rate (ε = 0.2) throughout, and the authors acknowledge the implementation could be refined with adaptive exploration strategies.
 - The authors describe the work as a work-in-progress with preliminary experiments and an arm space of four recipes; the released cost-reliability curves rest on that narrow prompt space rather than a broader or operational deployment.
 
-## Connected Concepts
-- [[automated-assessment]]
-- [[assessment]]
-- [[llm]]
-- [[writing-education]]
-- [[feedback]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-
-## Connected Articles
-- [[gpt-human-rater-essay-assessment-2026]] — Comparing GPT and human raters in essay assessment
-- [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education
-- [[roe-assessment-twins-2026]] — Assessment Twins: Strengthening Assessment Validity
-
 ## Citation
 
 Manakina & Bogdanov (2026). [*Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring*](https://arxiv.org/abs/2608.23814).

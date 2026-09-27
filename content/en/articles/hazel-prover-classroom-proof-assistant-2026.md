@@ -40,21 +40,6 @@ level: [higher ed]
 - No control group: transfer was inferred by comparing Fall 2025 exam scores against four earlier offerings whose questions were not identical, so the authors state it is impossible to know whether the tool lowered performance or the Fall 2025 question was simply harder; only the Fall 2025 and Winter 2026 questions matched, and those cohorts differed in level (undergraduate versus graduate) with enrollments falling from 96 to 16 students across semesters.
 - Most engagement and confidence evidence is self-report from a mid-semester survey completed by 21 of 25 undergraduates and 13 of 16 graduate students, incentivized with course credit, and the two deployments differed in how much training students received — an in-class demonstration versus a minimal written description — a difference the authors credit for much of the usability decline.
 
-## Connected Concepts
-- [[cs-education]]
-- [[math-education]]
-- [[scaffolding]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[intelligent-tutoring]]
-
-## Connected Articles
-- [[chatgpt-programming-education-text-mining]] — Pedagogical Promise and Peril of AI in Programming Education
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — Learning-by-Teaching with ChatGPT
-- [[llm-automated-grading-programming-comparison-2026]] — Comparing LLMs for automated assignment assessment in programming education
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch?
-- [[jost-llm-programming-education-learning-outcomes]] — The Impact of Large Language Models on Programming Education
-
 ## Citation
 
 Keenan, Kheterpal, Jeannin, & Omar (2026). [*Hazel Prover: A Classroom Proof Assistant for Learning Structural Induction*](https://arxiv.org/abs/2608.23309).

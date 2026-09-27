@@ -61,32 +61,6 @@ The single most consistent finding across the review is that **pedagogically des
 - The causal studies it does contain are short-term and largely postsecondary or international, so the review cannot speak to year-long use in U.S. K-12 classrooms.
 - The saved full text is a truncated extraction; the source itself notes that the educator findings, policy implications, and recommendations were cut off, so those sections are not represented on this page.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]] — the tutoring-specific tools that outperform general chatbots
-- [[desirable-difficulties]] — the mechanism preserving productive struggle
-- [[k-12]] — the review's focal education level
-- [[metacognition]] — reduced when AI completes reasoning
-- [[rct]] — the causal study designs the evidence base lacks
-- [[scaffolding]] — the graduated-support mechanism of tutoring tools
-- [[sociocultural-learning]] — ZPD-aligned support
-- [[ai-literacy]] — the framing for responsible K-12 AI use
-- [[transfer-of-learning]] — the critical open question (durable vs tool-dependent gains)
-- [[meta-analysis-systematic-review]] — the review methodology
-- [[socratic-method]] — a tutoring-specific interaction mode
-- [[generative-ai]] — the general-purpose tools compared
-- [[cognitive-offloading]] — the risk of AI reducing productive cognitive load
-- [[self-regulated-learning]] — the learner agency tutoring tools preserve
-- [[adaptive-learning]] — the personalization tutoring tools employ
-## Connected Articles
-
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
-- [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-
 ## Citation
 
 Stanford SCALE Initiative, AI Hub for Education. (2026). [*The Evidence Base on AI in K-12: A 2026 Review*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf). Stanford University.

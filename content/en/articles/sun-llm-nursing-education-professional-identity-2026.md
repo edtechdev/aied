@@ -46,21 +46,6 @@ The authors propose this mechanism to reframe findings where AI appears to *outp
 - The Professional Identity Tension Model is preliminary and has not been empirically tested; Structural Empathy Suppression rests primarily on a single RCT (Wan et al., 2024), and one source informing the regulatory implications is a preprint pending peer review.
 - Longitudinal evidence is near-absent, so conclusions about professional identity formation are inferred from cross-sectional and short-term data, and over 50% of included studies came from just three countries.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[llm]]
-- [[medical-education]]
-- [[professional-training]]
-- [[learner-identity]]
-- [[curriculum-design]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing: mixed methods systematic review
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming nursing education with AI: systematic review (2010–2025)
-
 ## Citation
 
 Sun, Y., Li, H., Tao, X., Zhou, X., Gururajan, R., & Zhang, J. (2026). [When the algorithm enters the classroom: A critical integrative review of large language models, nursing education structural gaps, and the reconstitution of professional identity](https://doi.org/10.1016/j.caeai.2026.100675). *Computers and Education: Artificial Intelligence, 11*, 100675.

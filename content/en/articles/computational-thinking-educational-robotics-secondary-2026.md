@@ -41,20 +41,6 @@ This is a **conceptual/literature-analysis paper** (not an empirical study). It 
 - As a conceptual and literature-based paper, it presents a proposal rather than empirical evidence of [[learning-gains|learning outcomes]]; the proposed curriculum integration is not yet validated in practice.
 - The focus is on the secondary-school context and STEAM subjects, so generalizability to other levels and disciplines is limited.
 
-## Connected Concepts
-
-- [[computational-thinking]]
-- [[educational-robotics]]
-- [[stem-education]]
-- [[k-12]]
-- [[curriculum-design]]
-
-## Connected Articles
-
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio: Computational Thinking with Robots
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-
 ## Citation
 
 Valls i Pou, A. (2026). *Computational thinking to enhance educational robotics in secondary school's curriculum*. Proceedings of the 5th IEEE International Conference (GRETEL, La Salle Campus Barcelona, Ramon Llull University).

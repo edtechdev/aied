@@ -51,24 +51,6 @@ Preference and competency were shaped by different mechanisms. Directive configu
 - The five tasks ran in a fixed sequence from Task A to Task E, so although the Latin square paired each role once with each task across groups, task and order effects were not estimated separately. Only five AI roles were tested, each a single agent working with one learner, leaving group and multi-agent setups untested.
 - Preference and experience rest on self-report: single-item, 5-point Likert measures after each round plus a final ranking. No long-term effects of sustained interaction were examined, so the study cannot speak to durable changes in modeling strategies or cognitive autonomy.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[pedagogical-agent]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[adaptive-learning]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[feedback]]
-
-## Connected Articles
-
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI-enhanced PBL with ChatGPT scaffolding
-- [[guided-llm-scaffolding-independent-learning]] — Guided LLM scaffolding for independent learning
-- [[chudziak-ai-math-tutoring-platform]] — AI math tutoring platform
-
 ## Citation
 
 Zhu, W., Yang, Y., & Yang, Y. (2026). [*Preferred scaffolding does not lead to better learning performance: Empirical evidence from AI-supported mathematical modelling*](https://doi.org/10.1016/j.caeai.2026.100669). *Computers and Education: Artificial Intelligence, 100669*.

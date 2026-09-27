@@ -66,21 +66,6 @@ Exploratory graph analysis modeled dimensions as nodes in a Gaussian graphical m
 - It is a [[self-report-measures|self-report]] measure, capturing perceived capability rather than observed strategy use during AI interaction.
 - The regression and correlation analyses report small degrees of freedom (F[4, 55]; n = 60 for the correlations) despite a 649-student validation sample, so the weights are provisional.
 
-## Connected Concepts
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[adaptive-learning]]
-- [[educational-measurement]]
-- [[network-analysis]]
-## Connected Articles
-
-- [[banihashem-ai-srl-systematic-mapping-review-2025]] — maps the AI and self-regulated learning literature that this instrument was built to serve.
-- [[ai-metacognition-three-level-meta-analysis-2026]] — meta-analytic evidence on whether AI promotes metacognition, the mechanism the AMA factor targets.
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — classroom evidence on an adaptive AI STEM program, complementing this scale's measurement focus.
-- [[aigc-affordance-student-self-regulation-2026]] — examines how generative AI affordances relate to student self-regulation in a different educational level and system.
-
 ## Citation
 
 Alatoai, Ataallh Aodh; Alshahri, Ali Saleh. (2026). *[Exploring the Impact of AI-Based Learning Environments on Student Self-Regulation and Adaptive STEM Learning](https://doi.org/10.1002/jcal.70297)*. Journal of Computer Assisted Learning, 42, e70297. https://doi.org/10.1002/jcal.70297

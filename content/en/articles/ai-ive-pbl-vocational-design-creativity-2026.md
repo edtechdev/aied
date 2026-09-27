@@ -58,35 +58,6 @@ For [[professional-training|vocational and professional education]], the model's
 - Group sizes are small (31 and 32), and the significant results rest on a small number of comparisons with substantial effect sizes, so replication in other courses, institutions and regions is required.
 - The authors call for longer interventions, mixed-method triangulation, and an explicit treatment of [[ethics|ethical]] issues such as [[privacy|data privacy]], [[bias-mitigation|algorithmic bias]], and dependence on immersive technology.
 
-## Connected Concepts
-
-- [[project-based-learning]]
-- [[virtual-and-augmented-reality]]
-- [[creativity]]
-- [[student-engagement]]
-- [[design-thinking]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[professional-training]]
-- [[self-report-measures]]
-- [[situated-learning]]
-
-## Connected Articles
-
-- [[genai-xr-architectural-design-education-2026]] — GenAI plus multi-user XR in an architectural design studio: the counter-case, with declining design self-efficacy
-- [[ai-interior-design-malaysia-2026]] — AI transforming interior design practice, pedagogy and professional regulation
-- [[genai-architectural-design-studios]] — Development and applications of generative AI in architectural design studios
-- [[multi-site-vr-immersive-learning]] — Real-time multi-site immersive learning system; usability and VR-sickness outcomes
-- [[mixed-reality-engineering-learning]] — Mixed reality and physical toolkits in engineering mechanics: engagement up, complex visualization still hard
-- [[ai-vocational-education-training-review]] — Systematic review of AI in vocational education and training
-- [[educators-engagement-ai-pbl-review-2026]] — Educators' engagement with AI in project-based learning
-- [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art and design education in the AI era
-- [[rana-genai-design-thinking-2025]] — Generative AI in design thinking pedagogy: creativity, critical thinking and ethical reasoning
-
 ## Citation
 
 Jin, S., Zhong, Z., Cao, X., & Zhang, W. (2027). [Cultivating design creativity of vocational students: A model of project-based learning in AI-enabled immersive virtual environments](https://doi.org/10.58459/rptel.2027.22029). *Research and Practice in Technology Enhanced Learning, 22*(1), 29.

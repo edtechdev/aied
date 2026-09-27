@@ -46,28 +46,6 @@ methods: [design-based-research]
 - Role emulation was not reliable: the model occasionally blended roles (for example, an informal tone in the grant-reviewer role), feedback quality declined when posters lacked sufficient detail, and fidelity depended heavily on prompt specificity.
 - Convergence is measured against human raters rather than learning outcomes — the study reports rating agreement and cluster structure, not whether students learned more — and the authors leave open the epistemological question of whether the model emulates evaluative reasoning or reflects statistical regularities in language.
 
-## Connected Concepts
-
-- [[llm]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[learning-design]]
-- [[design-based-research]]
-- [[situated-learning]]
-- [[prompt-engineering]]
-- [[pedagogical-llm-training]]
-- [[ai-feedback-quality]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-
-- [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback
-- [[gpt-human-rater-essay-assessment-2026]] — LLM vs. human raters in essay assessment
-- [[care-full-feedback-genai]] — Care-full feedback with generative AI
-- [[automated-formative-assessments-a-level-sciences]] — Automated formative assessment in science
-- [[curiobot-llm-tutoring-exploratory-learning]] — LLM tutoring in exploratory learning
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Generative AI in design-based learning
-
 ## Citation
 
 Yaşar, O., Kashyrskyy, A., Xie, C., & Bulseco, D. (2026). [From evaluation to emulation: LLMs as agents of iterative pedagogical design](https://doi.org/10.1016/j.ijaied.2026.100013). *International Journal of Artificial Intelligence in Education*, 36, 100013.

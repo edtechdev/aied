@@ -41,24 +41,6 @@ The study is a [[qualitative-research|qualitative]] case study of two multilingu
 
 The study is a small qualitative case study of two students in one [[governance|institutional]] context, bounding generalizability. The posthumanist theoretical framing is interpretive and does not offer measurable [[learning-gains|learning outcomes]]. The authors acknowledge a posthumanist approach is not an all-encompassing framework and must be [[situated-learning|situated]] within broader unresolved debates about AI's societal and ethical implications. The case-[[research-methods-aied|study design]] emphasizes depth of understanding over breadth.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[writing-education]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[language-learning]]
-- [[academic-integrity]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
-- [[agency-gap-ai-writing]] — The Agency Gap in AI-Supported Writing
-- [[ai-writing-support-stage-ownership-2026]] — From Planning to Revision: AI Writing Support at Different Stages
-- [[student-rationalization-ai-writing]] — "It's OK Because...": The Wild West of Student Rationalization of AI Writing
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI Literacy: Going Beyond the Skills Gap Agenda
-
 ## Citation
 
 Wang, Z., & Wang, C. (2025). [*A posthumanist approach to AI literacy*](https://doi.org/10.1016/j.compcom.2025.102933).

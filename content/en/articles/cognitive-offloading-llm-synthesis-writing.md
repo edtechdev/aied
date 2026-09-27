@@ -32,24 +32,6 @@ sources: ['raw/papers/cognitive-offloading-llm-synthesis-writing.md']
 - The clusters were not validated against learning outcomes, so the profiles describe how cognitive activity was distributed but cannot show which pattern helps or harms learning.
 - The design used one synthesis-writing task with two texts (prompts averaged 5.8, SD 6.7), and the authors note other tasks may require other lenses; prompt coding reached a Cohen's kappa of 0.68 for 168 prompts, with automated annotation averaging 0.64 (passive/global) and 0.61 (local/global).
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[formative-assessment]]
-- [[llm]]
-- [[self-regulated-learning]]
-- [[writing-education]]
-
-## Connected Articles
-
-- [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
-- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
-- [[reshaping-cs-education-genai]] — Reshaping Undergraduate Computer Science Education in the Generative AI Era
-
 ## Citation
 
 Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., & Jovanovic, J. (2026). [*Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content*](https://arxiv.org/abs/2606.10434).

@@ -42,25 +42,6 @@ page_kind: [synthesis]
 - The retention interval was not controlled: it varied with how quickly each participant answered 30 trivia questions, and the authors included its duration as a covariate precisely because prior work shows the benefit of practice is moderated by retention-interval length.
 - The simulated agents received binary corrective feedback after practice trials while the human participants completed retrieval trials without feedback; the authors argue this is unlikely to change the comparison, citing reliable testing effects under no-feedback conditions, but the two conditions were not identical.
 
-## Connected Concepts
-
-- [[learning-gains]]
-- [[problem-solving]]
-- [[transfer-of-learning]]
-- [[desirable-difficulties]]
-- [[prior-knowledge]]
-- [[cognitive-psychology]]
-- [[learning-theories]]
-
-## Connected Articles
-
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist?
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System
-- [[lak2026-hint-button-unproductive-use]] — Revisiting the Hint Button: Unproductive Hint Use and Learning Outcomes in ITS
-- [[oatutor-open-source-adaptive-tutor-2023]] — OATutor: An Open-source Adaptive Tutoring System
-- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle
-
 ## Citation
 
 Rachatasumrit, N., Koedinger, K. R., & Carvalho, P. F. (2025). [Evidence and Theory for why the Best Example-Problem Ratio To Optimize Learning Gain Depends on Knowledge Content](https://doi.org/10.1007/s40593-025-00511-8). *International Journal of Artificial Intelligence in Education, 35*, 3645–3667.

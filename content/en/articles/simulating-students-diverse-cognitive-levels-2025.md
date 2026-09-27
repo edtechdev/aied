@@ -60,28 +60,6 @@ Because existing [[knowledge-tracing]] datasets lack textual task statements and
 - The backbone of the evaluation is [[llm]]-based scoring, with a human check by 10 undergraduate Python students rating solutions on a 1-5 scale, two independent raters per solution averaged, and the human study comparing the method against only the single second-best setting rather than the full baseline set.
 - The method assumes a stable cognitive state within a one-week window of records and models textual and behavioral patterns only; the authors note that multimodal signals such as visual or auditory cues may also shape students' cognitive processes and are not represented.
 
-## Connected Concepts
-
-- [[simulating-students]]
-- [[student-modeling]]
-- [[knowledge-graph]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[generative-ai]]
-- [[llm]]
-- [[agentic-ai]]
-- [[adaptive-learning]]
-
-## Connected Articles
-
-- [[valid-student-simulation-llm-2026]] — Toward Valid Student Simulation
-- [[simulating-students-llm-review-2026]] — Simulating Students with LLMs: A Review
-- [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: Multi-Agent Simulation for Education
-- [[history-aware-student-simulation]] — History-Aware Profiles for Student Simulation
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
-- [[simulating-students-java-programming-errors-llms]] — Simulating Students' Java Programming Errors
-- [[llm-student-simulation-teacher-insights]] — Can LLMs Simulate Human Learners?
-
 ## Citation
 
 Wu, T., Chen, J., Lin, W., Li, M., Zhu, Y., Li, A., Kuang, K., & Wu, F. (2025). [*Embracing imperfection: Simulating students with diverse cognitive levels using LLM-based agents*](https://arxiv.org/abs/2505.19997). In *Proceedings of ACL 2025*.

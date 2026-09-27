@@ -7,7 +7,6 @@ foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
 technology: [generative-ai]
 assessment: [assessment, group-work]
-connected_faqs: [group-work-ai]
 methods: [qualitative-research]
 research_method: [interviews, thematic analysis]
 level: [higher ed, teacher education]
@@ -74,38 +73,6 @@ In three groups, the group setting changed nothing. Work was partitioned into di
 - Data are students' interview accounts (20–30 minutes each), not observation of their submitted work, so reported GenAI practice is not verified against the artifacts that were graded.
 - Focus groups were run with members of the same assessment group rather than individually, so accounts of fair use, loafing and risk were given in front of the peers who shared the grade.
 - The non-enacted agency pattern rests on three of the fifteen groups, and the paper contains no dedicated limitations discussion of how far the three patterns transfer beyond this course.
-
-## Connected Concepts
-
-- [[agency]]
-- [[group-work]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[collaborative-learning]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[ai-use-disclosure]]
-- [[ai-education]]
-- [[student-experience]]
-- [[learning-design]]
-- [[social-norms-ai-use]] — the informal rules around AI use
-
-## Connected Articles
-
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency when AI joins a group: supportive vs. contrarian personas
-- [[xu-genai-collaborative-space-2026]] — How team access to GenAI (shared vs. private) shapes collaboration
-- [[genai-counter-learner-groupthink-2025]] — GenAI countering learner groupthink in collaborative tasks
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — GenAI-supported peer feedback in collaborative argumentation
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Collaboration modes and the task-performance vs. self-regulation trade-off
-- [[polished-artifacts-fragile-engagement-2026]] — Polished artifacts, fragile epistemic engagement
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning
-- [[genai-chinese-higher-education-integrity-2026]] — GenAI in Chinese higher education: integrity and engagement
-- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in the AI era
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: designing authentic assessment
-- [[chirikov-regulate-ai-syllabi-2026]] — Task-level regulation of AI in course syllabi
-- [[ai-assessment-scale-reform]] — Rethinking assessment in the generative AI era
 
 ## Citation
 

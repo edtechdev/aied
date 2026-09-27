@@ -101,19 +101,6 @@ A pilot with 27 participants showed statistically significant reported [[self-ef
 - All 27 participants were professional software engineers recruited from a single client organization, limiting generalizability, and one advanced participant scored at ceiling on both surveys, leaving 26 of 27 showing improvement.
 - The engagement classifier relies on keyword heuristics and can misclassify (a learner pasting an error message for context is scored as a debugging attempt), the structural test suite verifies curriculum consistency rather than instructional effectiveness, and the local-only design limits further empirical evaluation.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[cs-education]]
-- [[ai-literacy]]
-- [[scaffolding]]
-
-## Connected Articles
-
-- [[agentic-workflows-education]]
-- [[golrang-propact-pair-programming-2026]]
 ## Citation
 
 Naboulsi, A. Z. (2026). [*Agentic Education with AI Coding Assistants*](https://arxiv.org/abs/2604.17460).

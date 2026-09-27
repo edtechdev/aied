@@ -5,7 +5,6 @@ updated: "2026-09-16T15:52:49-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, llm, personalized-learning]
-connected_faqs: [ai-guidance-children-under-13]
 research_method: [system development, case study]
 level: [k 12]
 sources: ['raw/papers/2606.18030.md']
@@ -21,7 +20,6 @@ audience: [instructional designers, instructors]
 > - Emotionally supportive language — gentle reminders, positive reinforcement, neutral phrasing such as "let's try a different way" — enhances persistence, reduces frustration, and fosters learner confidence.
 
 ## Key Findings
-
 
 ## Study Design & Method
 
@@ -40,28 +38,6 @@ The work began with a [[formative-assessment|formative]] study in the Chinese ho
 - The evaluation captured short-term interaction with 23 parent–child dyads (children aged 10–12) using a research prototype; it did not establish longer-term effects on children's mathematical reasoning, strategy transfer, or sustained changes in family tutoring practice.
 - The prototype's multi-agent pipeline, built on the DeepSeek API, responded noticeably more slowly than direct interaction with the base model, and its LLM-generated scaffolds and visual representations were occasionally incomplete or inconsistent enough to require parental verification.
 - The 23 dyads were recruited through Xiaohongshu and local after-school institutions between August 2024 and May 2025 within the Chinese home tutoring context, so the interactional patterns reflect that setting and its math word-problem curriculum.
-
-## Connected Concepts
-
-- [[math-education]]
-- [[pedagogical-agent]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[affective-tutoring]]
-- [[scaffolding]]
-- [[k-12]]
-- [[human-ai-collaboration]]
-- [[llm]]
-- [[parents-and-families]]
-## Connected Articles
-
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
-- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
-- [[special-r1-rl-special-education]] — Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training
-- [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
 
 ## Citation
 

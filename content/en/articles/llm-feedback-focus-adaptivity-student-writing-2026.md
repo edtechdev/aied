@@ -62,32 +62,6 @@ Both adaptivity questions were restricted to the composition course, because the
 - Three prompting strategies were compared and no fine-tuning was attempted, so fine-tuned or pedagogically instructed models may align differently.
 - LLM annotations came from a single model, Gemini 2.0 Flash, validated against human labels.
 
-## Connected Concepts
-
-- [[ai-feedback-quality]] — the evaluation tradition this paper extends by adding focus and adaptivity
-- [[automated-assessment]] — machine-generated evaluative commentary on student work
-- [[benchmark]] — FEEDTYPE as a released resource for pedagogical alignment studies
-- [[educational-nlp]] — the subfield building and evaluating feedback generation systems
-- [[feedback]] — the parent construct whose content is here classified into focus types
-- [[generative-ai]] — the model class whose pedagogical alignment is under test
-- [[llm]] — the six models prompted under three strategies
-- [[limitations-in-aied-research]] — the single-course, single-instructor scope of the adaptivity claims
-- [[prompt-engineering]] — the intervention that failed to move models toward teacher distributions
-- [[teacher-role]] — expert teaching practice as the reference standard
-- [[writing-education]] — the disciplinary setting of the study
-
-## Connected Articles
-
-- [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback in education: A qualitative systematic literature review
-- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback
-- [[ai-feedback-adaptivity-children-plans-2026]] — Adaptivity Makes Feedback Effective: Evidence From AI-Generated Feedback on Children's Plans
-- [[llm-judged-helpfulness-pedagogy-signal]] — Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models
-- [[llm-pedagogical-behavior-ai-tutoring-2026]] — LLM Pedagogical Behavior in AI Tutoring Interactions
-- [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA) for long-horizon classroom discourse analysis: Mitigating dialect bias via counterfactual preference optimization
-- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
-
 ## Citation
 
 Almousa, N., Peyghambari Oskoui, S., Coelho, R., Rogers, G., Li, X. L., & Litman, D. (2026). [*Evaluating feedback focus and pedagogical adaptivity in LLM-generated feedback on student writing*](https://arxiv.org/abs/2609.28026). arXiv preprint.

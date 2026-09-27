@@ -39,32 +39,6 @@ discipline: [writing education]
 - The four regulatory types and the behavioral findings rest on self-reported survey scales and post-task written reflections — attitudinal and retrospective accounts — not on observed behavior.
 - The paper reports cross-sectional associations from a hierarchical regression, so the β values establish relationships among anxiety, evaluative capacity, ethical awareness, and regulatory engagement, not that any of them causes the others.
 
-## Connected Concepts
-
-- [[anxiety-and-stress]] — the productive-anxiety construct this study develops
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[assessment]]
-- [[ai-detection]]
-- [[writing-education]]
-- [[technology-acceptance-model]]
-
-## Connected Articles
-
-- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency gain illusion: AI overreliance
-- [[genai-over-reliance-learning-2026]] — GenAI over-reliance and learning
-- [[students-llm-usage-critical-thinking]] — Characterizing Students' LLM Usage Behaviors in Critical Thinking Tasks
-- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
-
 ## Citation
 
 Kim, E. (2026). [From AI anxiety to strategic regulation: How university students transform generative AI into a strategic learning resource](https://doi.org/10.1016/j.caeai.2026.100622). Computers and Education: Artificial Intelligence, 10, 100622.

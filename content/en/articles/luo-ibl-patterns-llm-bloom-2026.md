@@ -38,26 +38,6 @@ page_kind: [framework]
 - It recorded one IBL course only, so it may not capture long-term behavioral change or how cognitive levels shift in sustained LLM-assisted learning.
 - Analysis rested on prompt text and retrospective think-aloud interview transcripts, with screen recordings used to verify rather than as a primary measure; retrospective accounts can miss or rationalize in-task reasoning.
 
-## Connected Concepts
-
-- [[inquiry-based-learning]]
-- [[llm]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[self-efficacy]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[higher-ed]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: cognitive scaffolding vs offloading
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
-
 ## Citation
 
 Luo, Y. T., Liu, T., Pang, P., McKay, D., Chang, S., & Buchanan, G. (2026). [*Inquiry-based learning patterns in large language model-driven learning environments: an exploratory study from Bloom's perspective*](https://doi.org/10.14742/ajet.9051). *Australasian Journal of Educational Technology*, 42(2), 38–57.

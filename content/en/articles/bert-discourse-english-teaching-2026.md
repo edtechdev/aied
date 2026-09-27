@@ -57,22 +57,6 @@ Feedback generation retrieves semantically similar high-scoring fragments (Sente
 - Feedback was evaluated through teacher adoption ratings and reference-based metrics rather than measured student revision gains, leaving the instructional payoff untested.
 - Referential ambiguity in narrative essays was the hardest case, where the approach's performance dropped most sharply.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[llm]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[ai-feedback-quality]]
-- [[language-learning]]
-
-## Connected Articles
-
-- [[aiawe-automated-writing-evaluation]] — Automated writing evaluation
-- [[gpt-human-rater-essay-assessment-2026]] — GPT vs. human rater essay assessment
-- [[llm-formative-feedback-systematic-review-2026]] — LLM formative feedback review
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI vs. human EFL assessment
-
 ## Citation
 
 Wang, W., Xu, L., Jia, X., & Fu, S. (2026). [Automatic discourse relation classification and feedback optimization in English teaching based on transformer BERT model](https://doi.org/10.1016/j.caeai.2026.100662). *Computers and Education: Artificial Intelligence*, 11, 100662.

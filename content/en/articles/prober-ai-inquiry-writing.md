@@ -94,28 +94,6 @@ Conventional AI writing tools that generate or rewrite text risk creating [[cogn
 - Question modules and diagnostic triggers are optimized for argumentative and persuasive essays; extending to narrative, expository, or analytical genres would require redesigning the argumentation parsing heuristics and question taxonomies.
 - Each session is treated independently, with no persistent learner model tracking recurring weaknesses or an improvement trajectory, and contextual highlighting relies on exact substring matching, so whitespace or punctuation differences can leave a legitimate excerpt unhighlighted.
 
-## Connected Concepts
-
-- [[metacognition]]
-- [[socratic-method]]
-- [[writing-education]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[ai-feedback-quality]]
-- [[llm]]
-- [[intelligent-tutoring]]
-- [[critical-thinking]]
-## Connected Articles
-
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking
-- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-- [[moodle-ai-tutoring-deep-learning]] — From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle
-- [[guided-llm-scaffolding-independent-learning]] — Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
-- [[ai-feedback-critical-thinking-writing-2026]]
-- [[cyberscholar-genai-writing-feedback]]
-
 ## Citation
 
 Bi, R., Wei, S., & Zhou, Y. (2026). [*Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing*](https://arxiv.org/abs/2605.05598).

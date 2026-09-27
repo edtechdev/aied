@@ -40,26 +40,6 @@ page_kind: [framework]
 - Dyadic interviews can invite peer influence and social desirability, and because interviews occurred near high-stakes exams, elevated anxiety is confounded with metacognitive calibration — the individual follow-ups and think-alouds that could separate them were not run.
 - Concept maps give a narrow indicator of integrative structure and may not align with all forms of programming expertise.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[cs-education]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[reducing-ai-misuse]]
-
-## Connected Articles
-
-- [[ai-making-us-stupid]] — AI's cognitive effects / overconfidence
-- [[coach-not-crutch-ai-writing]] — AI as coach not crutch in writing
-- [[measuring-llm-tutors-teach-vs-solve]] — Whether LLM tutors teach or solve
-- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs general AI
-- [[jost-llm-programming-education-learning-outcomes]] — LLM reliance and grades in coding
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI learning penalty
-
 ## Citation
 
 Liu, D., Fan, G., & Pan, L. (2026). [*Tool, tutor, or crutch?: a grounded theory of cognitive scaffolding and offloading in AI-assisted programming education*](https://doi.org/10.1186/s40594-025-00592-w). *International Journal of STEM Education*, 13, 10.

@@ -10,7 +10,6 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment]
 level: [higher ed]
 audience: [researchers, instructors, instructional designers]
-connected_faqs: [top-10-findings-ai-education-instructors]
 page_kind: [evaluation]
 sources: ['raw/papers/co-learning-ai-agent-hidden-rules-2026.md']
 confidence: high
@@ -74,34 +73,6 @@ The design also has a theoretical peculiarity worth naming: following was *highe
 - Whether participants believed the bot was an AI is unknown and untested; the authors concede that assistance attributed to a real AI agent might be accepted more readily or less readily than advice from what is, in effect, a fellow learner simulated in software.
 - The bot's stated confidence was always exactly its accuracy, so the study says nothing about over- or under-confident advice, a manipulation the authors flag as the obvious next step alongside varying the bot's initial confidence and finding finer-grained predictors of who benefits than the median split on total moves.
 - The evidence for learning is behavioral and within-session — success is defined by a correct streak, not by delayed post-test performance, and there is no measure of whether the discovered rule generalized, persisted or transferred — and because participants self-selected onto Prolific for English-language tasks and the paradigm is an abstract puzzle rather than an academic task, the transfer of these effect sizes to [[higher-ed|higher education]] settings where AI hints are now routine remains an open question.
-
-## Connected Concepts
-
-- [[human-ai-collaboration]] — the paper's framing: a human and an AI partner working the same problem in parallel
-- [[problem-solving]] — rule discovery in the GOHR as a controlled instance of search under uncertainty
-- [[cognitive-offloading]] — the reliance question the study's no-coasting result speaks to
-- [[collaborative-learning]] — the human-plus-partner structure the bot is meant to simulate
-- [[self-regulated-learning]] — learners deciding when to take advice and when to test their own hypothesis
-- [[help-seeking]] — the accept-or-ignore choice that constitutes the study's behavioral signal
-- [[trust-calibration]] — the sharp drop in following after bad advice as trial-by-trial recalibration
-- [[productive-failure]] — suggestions arriving before or instead of the learner's own struggle
-- [[scaffolding]] — assistance withdrawn by the learner once they no longer need it
-- [[intelligent-tutoring]] — the systems context for hint supply and hint use
-- [[learning-gains]] — how a 33–52% reduction in moves-to-solve should and should not be read
-- [[game-based-learning]] — puzzle environments as testbeds for human and machine learning
-
-## Connected Articles
-
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — Hints generated for mathematics practice and whether they substitute for human-authored help
-- [[lak2026-hint-button-unproductive-use]] — The counter-case: unproductive hint use is negatively associated with learning outcomes in tutoring systems
-- [[ai-advice-suppresses-ikt-suspension-2026]] — Acceptance of AI advice even when it is wrong, and the cost to what learners will admit not knowing
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Designing adaptive AI support for collaborative problem solving directly
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Interaction profiles and strategy in human-AI collaborative problem solving
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — LLM agents standing in for human participants in collaborative problem-solving research
-- [[lukesova-clue-before-correction-2026]] — Giving a clue before a correction as an alternative to answering for the learner
-- [[qualitative-reasoning-game-guidance-2026]] — A computational model of guidance and path support in puzzle-like tasks
-- [[trust-reliance-ai-education-2026]] — Trust, reliance and the learner characteristics that moderate both
-- [[agents-that-teach-incidental-learning]] — Designing assistance that leaves capability with the learner rather than removing it
 
 ## Citation
 

@@ -58,26 +58,6 @@ The findings have implications beyond programming — the productivity-learning 
 - Publication bias is present: Egger's mixed-effects regression test indicated significant funnel plot asymmetry and small-study effects, so the productivity estimate is likely optimistic.
 - The productivity pool is dominated by one tool and a narrow set of languages: GitHub Copilot in n = 6 studies, with Java the most frequent language (n = 6), leaving other assistants and languages thinly evidenced.
 
-## Connected Concepts
-
-- [[rct]]
-- [[assessment-validity]]
-- [[regulation]]
-- [[writing-education]]
-- [[language-learning]]
-- [[stem-education]]
-- [[transfer-of-learning]]
-- [[meta-analysis-systematic-review]]
-- [[cs-education]]
-- [[learning-gains]]
-- [[cognitive-offloading]]
-## Connected Articles
-
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[golrang-propact-pair-programming-2026]]
-- [[agentic-education-coding]]
-- [[programming-its]]
-- [[llm-fallacy-misattribution]]
 ## Citation
 
 Maier, S., Gunzenhäuser, M., & Schweisthal, J. (2026). [*A meta-analysis of the effect of generative AI on productivity and learning in programming*](https://arxiv.org/abs/2605.04779).

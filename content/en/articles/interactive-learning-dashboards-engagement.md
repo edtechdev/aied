@@ -56,21 +56,6 @@ These findings connect to broader [[self-regulated-learning]] theory and the [[m
 - **Small cells behind the JoL findings.** Judgment observations split into n = 104 (elicit), 80 (tell), and 118 (none), falling to 18–37 per condition per time period; the authors state the small sample size limited the ability to claim significant differences.
 - **Short window and approximated engagement.** Five weeks of deployment with no direct behavioral measure of changed study practice or exam performance, and viewing of the static visualizations measured only through self-report.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[llm]]
-- [[metacognition]]
-- [[pedagogical-agent]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[visualization]]
-## Connected Articles
-
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-
 ## Citation
 
 Graf, L., Bassner, P., Anzinger, M., Dietrich, F., Krusche, S., & Poquet, O. (2026). [Interactive learning dashboards: rethinking learning visualisations as engagement tools](https://doi.org/10.1007/s10639-026-14082-1). *Education and Information Technologies*.

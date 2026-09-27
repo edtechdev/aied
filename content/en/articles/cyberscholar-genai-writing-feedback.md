@@ -55,24 +55,6 @@ Teachers reported that CyberScholar saved time on repetitive feedback, freeing t
 - Implementation spanned a single academic semester (2024/2025), which limits generalizability and raises the possibility of novelty effects.
 - The evidence is primarily self-reported perceptions, observational field notes, and thematic coding rather than independent, standardized measures of writing quality or inter-rater reliability statistics, so the study cannot establish the reliability, validity, or fairness of the automated ratings across demographic groups.
 
-## Connected Concepts
-
-- [[rag]]
-- [[formative-assessment]]
-- [[human-in-the-loop-ai]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[tpack]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[writing-education]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-## Connected Articles
-
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[structured-llm-feedback-programming]]
-- [[aiawe-automated-writing-evaluation]]
 ## Citation
 
 Zheldibayeva, R., de Oliveira Nascimento, A. K., Castro, V., Cope, B., & Kalantzis, M. (2026). [*Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar*](https://arxiv.org/abs/2605.17055).

@@ -40,31 +40,6 @@ audience: [instructors, administrators]
 - Cheating tendency, AI use, and the social and contextual factors were measured with researcher-developed instruments whose psychometric properties were examined only within this sample, so further validation in independent samples is still needed.
 - The sample came from one national higher education context (Türkiye), so the authors caution against generalizing to other cultural, institutional, and disciplinary settings, and note that the rapid pace of change in generative AI dates the patterns observed.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[generative-ai]]
-- [[self-efficacy]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[well-being]]
-- [[anxiety-and-stress]]
-- [[ethics]]
-- [[higher-ed]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-
-- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Academic dishonesty and automated proctoring with AI
-- [[shame-guilt-ai-regulation-computing-education]] — Shame, guilt, and AI regulation in computing education
-- [[genai-over-reliance-learning-2026]] — GenAI over-reliance and learning
-- [[students-llm-usage-critical-thinking]] — Students' LLM usage and critical thinking
-- [[self-efficacy-tutoring-learning]] — Self-efficacy, tutoring, and learning
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety and strategic regulation in writing
-- [[ai-tools-academic-work-cheating-2026]] — AI tools, academic work, and cheating
-
 ## Citation
 
 Yilmaz, A. (2026). [*The psychological mechanisms and behavioral determinants of academic integrity in the age of artificial intelligence*](https://doi.org/10.3389/fpsyg.2026.1853790). *Frontiers in Psychology*, 17, 1853790.

@@ -31,26 +31,6 @@ page_kind: [evaluation]
 - All 77,543 students come from one distance university and its own Syntea deployment, so patterns reflect that institution's course-coverage rules and program structure.
 - Several subgroup estimates are small enough that the authors caution against them: the Boomer cohort is 132 students (37.88% usage) and the group recorded as diverse is 109 students (34.86% usage), both subject to substantial sampling variability.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[higher-ed]]
-- [[teacher-role]]
-- [[llm]]
-- [[feedback]]
-- [[learning-analytics]]
-
-## Connected Articles
-
-- [[pedagogy-ai-mistakes]]
 ## Citation
-
-
 
 Schaaff, K., Stierstorfer, Q., & Hekkel, V. (2026). [*Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis*](https://arxiv.org/abs/2607.08748).

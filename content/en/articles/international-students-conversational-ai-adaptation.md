@@ -35,20 +35,6 @@ The findings have implications for designing [[equity-in-ai-education]] interven
 - Interviews asked participants to recall prior AI use instead of completing set tasks during the session, so some usage may have been forgotten and underreported.
 - Only student perspectives were collected; staff at International Student Offices and other support providers were not studied.
 - The domain comparisons rest on self-reported 5-point Likert ratings, and no inter-rater reliability is reported, following Reflexive Thematic Analysis guidelines.
-## Connected Concepts
-
-- [[student-experience]]
-- [[human-in-the-loop-ai]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[language-learning]]
-- [[well-being]]
-## Connected Articles
-
-- [[conversational-ai-tutors-framework]]
-- [[ai-learning-companions-framework]]
 ## Citation
 
 Nourian, L., Callis, A., Patterson, S., Miao, J., Heard, J., & Tigwell, G. W. (2026). [Understanding how international students in the U.S. are using conversational AI to support cross-cultural adaptation](https://arxiv.org/abs/2605.15127).

@@ -37,25 +37,6 @@ page_kind: [evaluation]
 - **Ratings were voluntary and uneven:** participation did not affect course credit, individual students contributed different numbers of ratings, and the segment ratings may capture the live coding and verbal explanations around the slides.
 - **No learning-effect or transfer evidence:** the design cannot show whether AI-created slides change learning or whether the pattern holds in another instructor's course.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[llm]]
-- [[learning-design]]
-- [[ai-education]]
-- [[student-experience]]
-- [[educational-development]]
-## Connected Articles
-
-- [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
-- [[aissa-slides-analysis]]
-- [[students-llm-usage-critical-thinking]] — Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
-- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
-- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-
 ## Citation
 
 Leinonen, J., Zhang, L., & Hellas, A. (2026). [AI-generated slides: Are they good? Can students tell?](https://arxiv.org/abs/2605.13532) Proceedings of the Western Canada Conference on Computing Education (WCCCE 2026).

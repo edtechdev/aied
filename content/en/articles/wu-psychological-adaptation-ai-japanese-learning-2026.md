@@ -38,21 +38,6 @@ discipline: [language learning]
 - Coverage is a single academic semester (three waves roughly 8 weeks apart); only 366 learners completed all three waves (80.09% retention), and whether adaptive improvements persist beyond one semester is unknown.
 - The mechanisms the authors invoke — AI literacy, self-regulated learning, routine integration, and perceived teacher support — were not directly measured, so profile membership is not shown to cause the self-efficacy and burnout differences, and other explanatory evidence cited comes from EFL settings that differ in target language and indicators.
 
-## Connected Concepts
-- [[language-learning]]
-- [[well-being]]
-- [[self-efficacy]]
-- [[self-regulated-learning]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[motivation]]
-
-## Connected Articles
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education
-- [[chatgpt-english-language-learning-malaysia]] — Students' Experiences of Using ChatGPT for English Language Learning
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Multimodality and Social Interactions in AI-Enhanced Embodied Robot-Assisted Language Learning
-
 ## Citation
 
 Wu, Y. (2026). [Profiles and transitions of psychological adaptation in AI-assisted Japanese language learning](https://doi.org/10.3389/fpsyg.2026.1837484). *Frontiers in Psychology, 17*, 1837484.

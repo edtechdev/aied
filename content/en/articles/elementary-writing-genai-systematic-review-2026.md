@@ -7,7 +7,6 @@ foundations: [ai-literacy]
 pedagogy: [creativity]
 technology: [generative-ai]
 assessment: [assessment]
-connected_faqs: [ai-guidance-children-under-13]
 audience: [instructors]
 discipline: [writing education]
 level: [preschool, k 12]
@@ -68,25 +67,6 @@ Across all four themes, the reviewed studies reveal concerns for diverse and [[m
 - The screening prioritized educational level but did not systematically account for students' writing proficiency, linguistic background (ESL/EFL or multilingual), or specific literacy development needs — factors that foundational writing research shows shape writing performance, and a gap the authors ask future work to close.
 - Coding was done independently by two researchers with no formal inter-rater reliability statistic, so trustworthiness rests on documented audit trails and consensus discussion rather than a reported agreement coefficient.
 - Several design recommendations lean on research outside the eight-study corpus, including an eye-tracking study of young learners' gaze patterns, so not every design claim is supported by the reviewed evidence itself; the authors call for [[design-based-research|longitudinal and design-based studies]] of teacher mediation, student–AI interaction, and the balance between human and AI-supported feedback in authentic classroom settings.
-
-## Connected Concepts
-- [[early-childhood-elementary-ai-education]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[creativity]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[k-12]]
-- [[llm]]
-- [[writing-education]]
-
-## Connected Articles
-
-- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education review
-- [[llm-children-reading-story-generation]] — LLM children's story generation
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Creative writing with robots
-- [[mindcopilot-llm-co-writing]] — MindCopilot co-writing
 
 ## Citation
 

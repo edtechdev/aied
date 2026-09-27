@@ -64,35 +64,6 @@ Content validity is where the field is most exposed. Most studies (54 of 58, 93%
 - The corpus spans general-public surveys, [[k-12|school]], [[higher-ed|higher education]] and professional settings with different conceptualizations and purposes, which complicates direct comparison across instruments and limits the generalizability of aggregate patterns.
 - The field moves fast: instruments were developed in response to capabilities that shifted within the review window, so the patterns are indicative trends within a snapshot rather than durable conclusions about how AI literacy should be conceptualized or assessed.
 
-## Connected Concepts
-
-- [[ai-literacy]] — the construct the review maps and the reason its measurement matters
-- [[educational-measurement]] — the psychometric traditions and validation standards applied throughout
-- [[self-report-measures]] — the dominant instrument type (37 of 47) and the source of the perceived-versus-enacted gap
-- [[assessment]] — the broader practice the review's advice on combining self-report with performance tasks speaks to
-- [[assessment-validity]] — content, construct and criterion validity evidence as the review's central concern
-- [[psychometrically-aware-ai]] — the disposition developers need toward construct definition, blueprinting and validation
-- [[item-response-theory]] — the modern test theory approach present in only eight of the reviewed instruments
-- [[meta-analysis-systematic-review]] — PRISMA-guided screening and COSMIN appraisal as the review method
-- [[generative-ai]] — the technology whose diffusion drove the post-2023 instrument boom and reshaped the construct
-- [[learning-analytics]] — the process-based measurement the authors propose as an alternative to static scales
-- [[teacher-ai-competency]] — a major instrument target cluster (10 of 47 audience-coded as teachers)
-- [[higher-ed]] — the most frequently studied population, alongside K–12 and professional contexts
-- [[student-ai-interaction]] — the interactional competencies that remain least standardized in current instruments
-- [[critical-thinking]] — critical evaluation of AI outputs as one of the four core construct domains
-
-## Connected Articles
-
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — The conceptual landscape of AI literacy measurement in the LLM era
-- [[competent-generative-ai-use-measures-review-2026]] — Another review of measures for competent generative AI use
-- [[xiong-ai-educational-measurement-review-2026]] — A parallel review of AI educational measurement approaches
-- [[jin-glat-genai-literacy-assessment]] — A generative AI literacy assessment instrument from the same research group
-- [[genai-assessment-literacy-scale-2026]] — A scale for assessment literacy in generative AI contexts
-- [[questionnaire-teachers-genai-uses-validation-2026]] — Validating a teacher questionnaire on generative AI use
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — An instrument for measuring faculty AI readiness across institutions
-- [[ai-literacy-continuum-higher-education]] — Framing AI literacy as a developmental continuum in higher education
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy interventions and how they are measured
-
 ## Citation
 
 Jin, Y., Gašević, D., Martinez-Maldonado, R., & Yan, L. (2026). [*Measuring Artificial Intelligence Literacy: A Systematic Review of Instrument Development, Conceptual Foundations, and Psychometric Quality*](https://osf.io/preprints/psyarxiv/tckb9_v2). Preprint submitted to Elsevier.

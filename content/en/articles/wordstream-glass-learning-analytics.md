@@ -30,22 +30,6 @@ Revisits WordStream (2009) as a quantitative encoding for qualitative learning a
 - The two platforms were deliberately asymmetric probes into different stages of an analytic workflow — the Dashboard for insight extraction, the Maker for visualization creation — rather than matched competitors, so the comparison reflects context of use as much as the artifacts.
 - The data are self-reported responses to a fixed instrument; the confirmatory items answered by the six Cycle 2 participants mitigate but do not eliminate the gap between stated and envisioned practice.
 
-## Connected Concepts
-
-- [[administrator]]
-- [[human-in-the-loop-ai]]
-- [[learning-analytics]]
-- [[edtech-platform]]
-
-## Connected Articles
-
-- [[savvy-student-attention-video-learning]] — SAVVY: Student Attention Visualization for Video-based Learning Analysis
-- [[physiological-signals-exam-outcomes-ml]] — Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
-- [[hypergamification-game-engine-lms]] — Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game
-- [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
-
 ## Citation
 
 Huyen N. Nguyen, Kathleen Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo (2026). [Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics](https://arxiv.org/abs/2606.18692).

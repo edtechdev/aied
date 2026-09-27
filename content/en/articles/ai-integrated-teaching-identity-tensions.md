@@ -59,23 +59,6 @@ The design is a semester-long, prospective [[qualitative-research|qualitative]] 
 - The design covers a single teaching semester, and the authors are explicit that this does not meet the year-long span they associate with longitudinal status.
 - Identity work is situated in institutional, disciplinary and cultural contexts the study does not sample, and the authors call for work across wider ranges of participants and settings.
 
-## Connected Concepts
-
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[agency]]
-- [[higher-ed]]
-- [[ethics]]
-- [[pedagogy]]
-
-## Connected Articles
-
-- [[laidlaw-genai-identity-crisis-faculty-2026]]
-- [[sun-llm-nursing-education-professional-identity-2026]]
-- [[activity-theory-teachers-adoption-ai-sem-2026]]
-- [[teaching-the-teachers-genai-tpk-review-2026]]
-
 ## Citation
 
 Adiozaman, I. F. A., & Segar, A. R. (2026). [‘Resistance is futile?’: identity tensions and principled selectivity in AI-integrated teaching](https://doi.org/10.1080/13562517.2026.2731578). *Teaching in Higher Education*.

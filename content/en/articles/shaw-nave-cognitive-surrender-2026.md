@@ -56,29 +56,6 @@ Three preregistered experiments used an adapted Cognitive Reflection Test with A
 - Measurement is limited to CRT-style items with accuracy and confidence outcomes; other cognitive domains and additional situational and individual moderators remain untested.
 - The scale is human-controlled AI consultation in a lab task, so the results describe deliberate System 3 engagement and not the autopilot uses the framework also predicts.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[trust]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[ai-misuse-learning-harm]]
-- [[generative-ai]]
-- [[llm]]
-- [[agency]]
-- [[human-in-the-loop-ai]]
-- [[theory-development-aied]]
-- [[cognitive-surrender]]
-
-## Connected Articles
-
-- [[efficiency-gain-illusion-ai-overreliance]] — Efficiency-gain illusion and AI overreliance
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
-- [[absent-cognitive-baseline-2026]] — The absent cognitive baseline
-- [[epistemic-proactivity-math]] — Epistemic proactivity in AI-supported math learning
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively discordant completion with GenAI
-
 ## Citation
 
 Shaw, S. D., & Nave, G. (2026). [Thinking—fast, slow, and artificial: How AI is reshaping human reasoning and the rise of cognitive surrender](https://ssrn.com/abstract=6097646). *SSRN Working Paper*.

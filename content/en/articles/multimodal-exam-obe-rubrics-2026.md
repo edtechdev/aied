@@ -37,21 +37,6 @@ This is a data-article contribution to the emerging field of automated grading a
 - Access is restricted because some scanned pages retain student names, IDs, university names, and logos, limiting redistribution and requiring re-identification protection.
 - The 485 answer submissions come from only 415 students at the four contributing institutions, so conclusions should not be extended beyond them.
 
-## Connected Concepts
-- [[automated-assessment]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[multimodal]]
-- [[higher-ed]]
-- [[benchmark]]
-- [[learning-analytics]]
-- [[ai-education|deep learning]]
-
-## Connected Articles
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment with EEG
-- [[ai-grading-handwritten-physics-2026]] — AI Grading of Handwritten Physics
-- [[harmogen-ai-assessment-rubric-generation]] — HarmOGEN AI Assessment Rubric Generation
-
 ## Citation
 
 Alam, J. S., Syfullah, M. K., Ahmed, S., Mou, M. A., Rahman, A. K. Z. R., Rahman, A. K. M. M., & Ali, M. S. (2026). [*Multimodal Examination Answer Data with Expert-Designed Outcome-Based Education Rubrics for Criterion-Level Assessment*](https://arxiv.org/abs/2608.22346).

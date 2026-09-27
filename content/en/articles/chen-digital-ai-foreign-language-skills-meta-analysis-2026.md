@@ -64,21 +64,6 @@ The funnel plot was asymmetric, and trim-and-fill estimated three missing studie
 - Several studies addressed only one educational level or one language skill, constraining the scope of the conclusions.
 - Restricting the search to 2014 to 2025 leaves long-term effects unexamined, and with I2 = 85.178 several moderator patterns rest on very few studies.
 
-## Connected Concepts
-
-- [[language-learning]]
-- [[meta-analysis-systematic-review]]
-- [[ai-technologies]]
-- [[writing-education]]
-- [[self-regulated-learning]]
-- [[online-teaching-and-learning]]
-## Connected Articles
-
-- [[robot-assisted-language-learning-meta-analysis-2026]] — a parallel meta-analysis of technology-supported language learning focused on robots rather than the full technology range pooled here.
-- [[genai-writing-performance-meta-analysis-2026]] — a meta-analysis of GenAI and writing that speaks to the largest skill subgroup effect on this page.
-- [[liu-emerging-tech-tefl-review-2026]] — a review of the same technology and EFL territory, organized by educational level rather than by effect size.
-- [[gpt-item-generation-l2-listening-2026]] — a primary study on L2 listening, one of the four skills pooled in this meta-analysis.
-
 ## Citation
 
 Chen, Yinong; Wei, Lina. (2026). *The Impact of Digital and Artificial Intelligence Technologies on the Improvement of Foreign Language Listening, Speaking, Reading and Writing Skills: A Meta-Analysis*. Journal of Computer Assisted Learning, 42, e70325. https://doi.org/10.1002/jcal.70325

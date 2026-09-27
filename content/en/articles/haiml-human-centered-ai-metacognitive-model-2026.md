@@ -71,24 +71,6 @@ The model's human-centered orientation connects to [[human-ai-collaboration]] an
 - The Four AI Use Levels are proposed without validation: no reliability data, no evidence that different instructors place the same task at the same level, and no evidence that students respond differently across the four.
 - It is a single-author EdArXiv preprint (Reardon, 2026), so the framework carries one practitioner's synthesis rather than a consensus position worked out across an expert community.
 
-## Connected Concepts
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[metacognitive-learning-scenarios-taxonomy]] — Metacognitive learning scenarios taxonomy
-- [[absent-cognitive-baseline-2026]] — Absent cognitive baseline
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Learning to learn in the age of generative AI
-- [[trust-reliance-ai-education-2026]] — Trust and reliance in AI education
-- [[ai-fallibility-warning-help-seeking]] — AI fallibility warnings and help-seeking
-
 ## Citation
 
 Reardon, C. (2026). [*HAIML: A human-centered AI metacognitive learning model — A framework for human agency and reflective learning in the age of artificial intelligence*](https://osf.io/preprints/edarxiv/qhjgs_v1/). EdArXiv preprint.

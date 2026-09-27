@@ -40,25 +40,6 @@ This study used a **three-round Delphi method** with a panel of 30 teachers from
 - The knowledge items reflect a teacher-perspective view and were validated through expert consensus rather than classroom outcome data, so the framework’s implementation effectiveness still requires empirical validation in practice.
 - The Delphi refinement process involved renaming and restructuring items, so the final 25-item list reflects the specific panel’s judgments and may not generalize to all educational contexts.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[pedagogical-llm-training]]
-- [[educational-development]]
-- [[ethics]]
-- [[learning-design]]
-- [[tpack]]
-## Connected Articles
-
-- [[ai-tpack-preservice-math-teachers]] — AI-TPACK and Pre-Service Math Teachers
-- [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK Teacher Multi-Agent Workflow
-- [[finkelstein-principled-ai-education-2025]] — Principled AI Education
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
-- [[genai-literacy-training-teacher-education-dbr-2026]] — AI Literacy Training for Teachers
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-
 ## Citation
 
 Chiu, T. K. F. (2026). [*Human-Centric Artificial Intelligence Pedagogy (HCAP) framework developed from TPACK through integration of artificial intelligence literacy and competency*](https://doi.org/10.1080/10494820.2026.2615818). *Interactive Learning Environments*.

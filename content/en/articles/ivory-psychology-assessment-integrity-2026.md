@@ -13,7 +13,6 @@ methods: [research-methods-aied]
 research_method: [case study]
 level: [higher ed]
 audience: [instructors, administrators, assessment designers, curriculum designers, researchers]
-connected_faqs: [reduce-ai-cheating, verify-ai-output]
 sources: ['raw/papers/ivory-psychology-assessment-integrity-2026.md']
 confidence: high
 ---
@@ -72,30 +71,6 @@ For institutional leaders, three: resource integrity review and assessment refor
 - Outputs came from free-tier ChatGPT 3.5, with 4o only where file uploads were required (June–July 2024), so the figures describe a capability floor rather than current model behavior.
 - Nothing was edited or reformatted — responses from separate exchanges were concatenated — so the study tested whether content was passable, not whether a submission would fool a marker, and the authors expect their exposure estimate to be low.
 - Pass/fail was a binary first-read decision by two experienced markers rather than full grading, so no mark distribution, grade-boundary effect or score-level bias is reported.
-
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[summative-assessment]]
-- [[ai-detection]]
-- [[authentic-assessment]]
-- [[hallucination-risk]]
-- [[reducing-ai-misuse]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[biology-degree-integrity-genai-cheating-2026]] — Program-level vulnerability of biology course grades to GenAI dishonesty
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
-- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Agentic completion removes the human-production assumption
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education
-- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — Authentic assessment alone cannot safeguard integrity
-- [[genai-performance-vs-learning]] — Performance gains without learning gains
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — AI humanizers and the performance of legitimacy
 
 ## Citation
 

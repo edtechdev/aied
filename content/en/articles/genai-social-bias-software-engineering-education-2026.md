@@ -66,33 +66,6 @@ Single-person images showed the strongest bias. Most depicted individuals were m
 - Team formation was evaluated at a single class size of 28 students with seven per team, leaving behavior at other class sizes untested.
 - The regressions applied no multiple-comparison corrections; the authors interpret effect magnitude and direction rather than isolated significant results.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[differential-effects-across-learner-groups]]
-- [[cs-education]]
-- [[group-work]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[inclusive-learning]]
-- [[ethics]]
-- [[llm]]
-- [[career-development-and-readiness]]
-- [[prompt-engineering]]
-
-## Connected Articles
-
-- [[bias-representation-text-to-image-education-2026]] — Bias and Representation in AI-Generated Text-to-Image in Education: A Systematic Review
-- [[demographic-signals-llm-student-assessment-2026]] — The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment
-- [[gender-bias-transfer-llm-writing]] — Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Bridging the Gender Gap in STEM Education with AI: Female-Coded Chatbot as Role Model and Learning Assistant
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Beyond "painting in pink": A Critical Case Study of All-Girls Generative AI Workshops in a European Makerspace
-- [[zhan-chapman-genai-cs-education-2026]] — Harnessing Generative Artificial Intelligence in Computer Science Education: Pedagogical Innovation, Ethical Responsibility, and the Future of Assessment
-- [[assessment-team-problem-solving-computing-education]] — Assessment in Team Problem-Solving Exercises in Computing Education
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication
-
 ## Citation
 
 Entezami, E., Lan, A., & Endres, M. (2026). [*Generative AI May Reinforce Social Biases in Software Engineering Education*](https://arxiv.org/abs/2609.28483). arXiv preprint.

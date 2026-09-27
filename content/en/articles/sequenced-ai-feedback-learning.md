@@ -16,7 +16,6 @@ confidence: high
 
 ## Core Finding
 
-
 In a randomized experiment with 199 participants, the authors compared two types of AI-generated feedback:
 
 - **Sequenced (layered)**: Encouragement → hints → correct answer, designed to promote learner autonomy
@@ -99,22 +98,6 @@ This paper directly informs several threads in the knowledge base:
 - The learning-by-doing tasks were relatively low-level by the authors' own account and may not have engaged higher-order thinking.
 - Process data came mainly from log traces; there was no direct measure of how learners attended to or processed the feedback, and the authors call for richer instruments such as eye-tracking.
 
-## Connected Concepts
-
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[learning-gains]]
-- [[scaffolding]]
-## Connected Articles
-
-- [[critical-thinking-genai-scaffolding]]
-- [[prober-ai-inquiry-writing]]
-- [[becerra-aicofe-feedback-2026]]
-- [[pedagogy-ai-mistakes]]
 ## Citation
 
 Cao, J., Zhao, C. Q., Schunn, C., McLaughlin, E. A., Lin, J., & Koedinger, K. R. (2026). [Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning](https://arxiv.org/abs/2604.07469).

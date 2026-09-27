@@ -50,24 +50,6 @@ Tracking the longest dialogue over time makes the [[scaffolding]] role visible i
 - Only first-level themes were modeled, in a sampled subset of dialogues, so the finer distinctions inside each theme are not represented in the network.
 - The reported transition probabilities come from a preliminary study, and the authors call for future work on the content of designers' questions across phases.
 
-## Connected Concepts
-
-- [[learning-design]]
-- [[human-ai-collaboration]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[pedagogical-agent]]
-- [[llm]]
-- [[learning-analytics]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — transition network analysis of learner-chatbot interaction sequences
-- [[wang-teacher-ai-co-design-review-2026]] — review of teacher-AI co-design in learning task design
-- [[pishtari-teacher-ai-training-learning-design-2026]] — how chatbot use and training shape learning design quality
-- [[claassen-learning-analytics-genai-learning-design-2026]] — learning analytics and generative AI in design work
-
 ## Citation
 
 Tang, S., Shen, J., Lin, J., & Law, N. W. Y. (2026). [Investigating the role of chatbots in facilitating learning design](https://genai-la.genai-learning.online/). In *Joint Proceedings of LAK 2026 Workshops, co-located with the 16th International Conference on Learning Analytics and Knowledge*. Bergen, Norway.

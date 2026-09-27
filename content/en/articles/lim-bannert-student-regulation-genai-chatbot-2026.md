@@ -37,20 +37,6 @@ audience: [instructional designers, instructors]
 - SRL was inferred from trace-based event analysis and coded chatbot query logs, not from direct measurement of students' planning, monitoring, or strategy use.
 - All participants reported prior experience with genAI tools, so the sample does not represent novice users, who may offload differently or less skillfully.
 
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[scaffolding]]
-
-## Connected Articles
-
-- [[banihashem-ai-srl-systematic-mapping-review-2025]] — Systematic mapping of AI and SRL
-- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
-
 ## Citation
 
 Lim, L., & Bannert, M. (2026). *How do students regulate their learning with a genAI chatbot?* Learning Letters, 8, Article 61. [https://doi.org/10.20851/ll.v8.61](https://doi.org/10.20851/ll.v8.61)

@@ -63,35 +63,6 @@ Five reconciliation strategies appeared: tool framing, comparing AI to calculato
 - The cross-sectional design prevents causal inference, so guilt preventing adoption cannot be separated from low adoption sustaining guilt, which is the ambiguity at the center of the guilt paradox.
 - The setting is a single institution in a single country, which limits transferability, although patterns were consistent across disciplines within the sample; longitudinal, multi-institutional and cross-cultural validation are named as priorities.
 - The AI Guilt Index is new, so convergent and discriminant validity remain untested despite its internal consistency (α = 0.88), and the four profiles are heuristic categories rather than stable typologies; all results are framed as hypothesis-generating.
-## Connected Concepts
-
-- [[academic-integrity]] — the norm academics feel they may be breaching when using AI themselves
-- [[anxiety-and-stress]] — anticipatory guilt as an anxiety pattern preceding use
-- [[teacher-ai-competency]] — emotional readiness as the dimension missing from faculty AI competency frameworks
-- [[professional-training]] — the paper's case for moving beyond technical training into moral discussion
-- [[well-being]] — unaddressed moral distress as a professional wellbeing issue
-- [[ethics]] — normative ambiguity, not rule violation, as the source of AI-related guilt
-- [[trust]] — perceived colleague judgment and the weak reassurance of institutional guidelines
-- [[trust-calibration]] — fear of transgression exceeding experienced discomfort is a miscalibrated appraisal
-- [[educational-development]] — the academic development and mentorship response recommended
-- [[technology-acceptance-model]] — the rationalist adoption model that moral factors qualify
-- [[teacher-role]] — teaching integrity while using the tools one restricts for students
-- [[self-report-measures]] — the AI Guilt Index as a new instrument needing validation
-- [[ai-use-disclosure]] — disclosure avoidance as the behavioral correlate of guilt
-- [[theory-development-aied]] — anticipatory guilt in cognitive augmentation as a new construct
-- [[social-norms-ai-use]] — the informal rules around AI use
-
-## Connected Articles
-
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — Faculty identity disruption under GenAI, the identity side of this guilt complex
-- [[shame-guilt-ai-regulation-computing-education]] — Guilt and shame linked to self-regulation strategies in AI-assisted learning
-- [[chick-faculty-development-ethical-ai-2026]] — Faculty development responses to ethical AI use
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Anxiety and regulation strategies in AI-assisted academic writing
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded, boundary-limited adoption as a pattern beyond this sample
-- [[ai-integrated-teaching-identity-tensions]] — Identity tensions when AI enters teaching practice
-- [[kim-ai-anxiety-comprehensive-analysis]] — Prevalence and structure of AI anxiety in university populations
-- [[moral-panic-genai-classroom]] — Moral framing of GenAI in academic settings
-
 ## Citation
 
 Vassallo, D. (2026). [*The AI guilt complex: Moral emotions and ethical dilemmas in academic technology adoption*](https://doi.org/10.1007/s10805-026-09726-3). *Journal of Academic Ethics*, 24, 53.

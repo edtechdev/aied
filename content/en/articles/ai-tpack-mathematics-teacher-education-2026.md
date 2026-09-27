@@ -46,20 +46,6 @@ page_kind: [evaluation]
 - The instrument was developed and tested only in the Chinese mathematics-education context, and the authors state that the high-stakes, rigor-oriented curriculum there limits direct application to other disciplines or cultures.
 - Two hypothesized paths (H2b and H3c) were non-significant and pruned from the final model, so the account of teaching beliefs as a cognitive barrier rests on exploratory respecification pending larger-sample validation.
 
-## Connected Concepts
-
-- [[teacher-education]]
-- [[tpack]]
-- [[math-education]]
-- [[self-efficacy]]
-
-## Connected Articles
-
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Pre-service intelligent-TPACK readiness
-- [[mathematics-teachers-chatbot-motivation-2026]] — Mathematics teachers' chatbot motivation
-- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK PD framework
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — AI in preservice teacher development
-
 ## Citation
 
 Xie, M., & Luo, L. (2026). [*Assessing AI-TPACK readiness in mathematics teacher education: The role of self-efficacy and teaching beliefs*](https://doi.org/10.1016/j.caeo.2026.100375). *Computers and Education Open*, 100375. https://doi.org/10.1016/j.caeo.2026.100375

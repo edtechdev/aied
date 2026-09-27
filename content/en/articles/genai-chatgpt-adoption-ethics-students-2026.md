@@ -44,22 +44,6 @@ institutions: [change-management]
 - The outcome is intention to use (and, downstream, intention to purchase a subscription), not actual adoption behavior.
 - The four countries differ in digitalization—Estonia and Germany adopted AI in education early while Poland and Romania are progressing more gradually—so cross-national equivalence of the 17-construct model is not fully established.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[ethics]]
-- [[generative-ai]]
-- [[trust]]
-- [[student-experience]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[chatgpt-inoculation-training-verification-2026]] — Inoculation training for ChatGPT verification
-- [[chatgpt-academic-writing-quality-ownership-2026]] — ChatGPT in academic writing
-- [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback
-- [[ai-perceptions-students-teachers-motivation-2026]] — AI perceptions, motivation, and self-efficacy
-
 ## Citation
 
 Rizun, N., Bordean, O. N., Nikiforova, A., Beleiu, I. N., & Revina, A. (2026). [*Generative AI in higher education: Ethical and behavioral factors influencing students' intentions to use ChatGPT*](https://doi.org/10.1016/j.caeo.2026.100336). *Computers and Education Open*, 100336. https://doi.org/10.1016/j.caeo.2026.100336

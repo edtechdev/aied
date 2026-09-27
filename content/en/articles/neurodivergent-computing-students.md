@@ -7,7 +7,6 @@ foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
 methods: [mixed-methods-research]
 ethics: [equity-in-ai-education]
-connected_faqs: [ai-disabled-neurodivergent-learners]
 discipline: [cs education]
 audience: [learners]
 level: [special education]
@@ -31,26 +30,6 @@ The findings connect to broader concerns in [[equity-in-ai-education]] and [[equ
 - The survey drew 44 responses (24 neurodivergent, 20 neurotypical) plus 4 interviews, recruited by convenience sampling through computing-related Discord servers and Slack channels at multiple North American universities.
 - Only two neurodivergent identities were represented — students on the autism spectrum and students with ADHD — and the authors state the findings are not meant to generalize to the broader neurodivergent computing student population.
 - Comfort findings come from self-reported seven-point Likert ratings, and the qualitative evidence rests on 4 interviews, so the authors present the results as preliminary trends rather than validated effects.
-
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[special-education]]
-- [[cs-education]]
-- [[student-experience]]
-- [[collaborative-learning]]
-- [[neurodiversity]]
-- [[inclusive-learning]]
-- [[active-learning]]
-- [[scaffolding]]
-## Connected Articles
-
-- [[suacode-african-students-motivations]] — Why SuaCode?": Understanding African Students'' Motivations for Taking a Smartphone-Based Online Coding Course
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
-- [[embodied-string-learning-blindness-low-vision-musicians]] — Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision
-- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analyzing Dyslexic Learners Insights from Online Forums
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
-- [[ai-literacy-career-adaptability-business-2026]] — AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education
 
 ## Citation
 

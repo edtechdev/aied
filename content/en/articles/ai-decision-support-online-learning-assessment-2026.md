@@ -11,7 +11,6 @@ sources: ['raw/papers/ai-decision-support-online-learning-assessment-2026.md']
 confidence: medium
 audience: [instructional designers, institutions]
 page_kind: [framework]
-connected_faqs: [asynchronous-online-courses-ai]
 methods: [meta-analysis-systematic-review]
 ---
 
@@ -40,21 +39,6 @@ This is a technical review (not a [[meta-analysis-systematic-review|meta-analysi
 - The evidence window is January 2020 to July 2025 across IEEE Xplore, Scopus, and Web of Science, admitting conference papers and technical reports while excluding non-peer-reviewed sources, which bounds what the synthesis can say about deployment outside those venues.
 - The proposed four-component architecture is not itself evaluated: the modular design and LTI integration are a proposal, and validation is set out as a roadmap (prototype, controlled pilot, A/B trials, multi-institution deployment).
 - The field-level weaknesses it catalogs are the primary studies' own reported results — 15-25% LLM [[hallucination-risk|hallucination]], 20-30% outcome variability under reinforcement learning, 40-50% higher costs in resource-limited settings — and the review offers mitigation strategies rather than evidence that those strategies work.
-
-## Connected Concepts
-- [[online-teaching-and-learning]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[ai-education]]
-
-## Connected Articles
-- [[genai-educational-outcomes-meta-analysis]]
-- [[ai-science-chemistry-education-systematic-review-2025]]
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]]
-- [[assessment-latent-structure-human-llm-2026]]
 
 ## Citation
 Mahamad, S., Chin, Y.H., Zulmuksah, N.I.N., Haque, M.M., Shaheen, M., & Nisar, K. (2025). [*Architecting an AI-Driven Decision Support System for Enhanced Online Learning and Assessment*](https://doi.org/10.3390/fi17090383). *Future Internet*, 17(9), 383.

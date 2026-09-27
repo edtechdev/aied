@@ -32,22 +32,6 @@ sources: ['raw/papers/tibetcpr-ai-training-feedback.md']
 - The control condition was unguided practice on the same mannequin without feedback, which does not position TibetCPR against existing CPR feedback systems such as commercial QCPR-class devices or against instructor-led training; the authors state a three-arm comparison would be required for relative-effectiveness claims.
 - Visual and electrotactile feedback were always delivered together, so their relative contributions cannot be decomposed experimentally, and the large post-test effect sizes in a compact randomized design warrant caution because the experimental group was necessarily unblinded to its condition.
 
-## Connected Concepts
-
-- [[formative-assessment]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[embodied-learning]]
-- [[professional-training]]
-## Connected Articles
-
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of [[learning-gains|Learning Outcomes]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
-- [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterizing AI Tutor Blind Spots When Analyzing Student Reasoning
-- [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
-
 ## Citation
 
 Meng, Y., Chen, R., Liu, Z., & Ding, X. (2026). [*TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet*](https://arxiv.org/abs/2606.07765).

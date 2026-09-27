@@ -5,7 +5,6 @@ updated: "2026-09-20T08:16:03-04:00"
 type: article
 technology: [generative-ai, llm]
 ethics: [pedagogical-safety]
-connected_faqs: [verify-ai-output]
 audience: [software developers]
 research_method: [system development]
 level: [k 12]
@@ -44,25 +43,6 @@ Educational AI systems increasingly rely on large language models to support stu
 - Recall estimates come from a sample-based audit of interactions that passed the guardrail, so the confidence intervals are wide because violations have a low base rate.
 - The evaluation sits inside one middle school writing activity centered on AI in education, which may shape both what students typed and which violations appeared.
 - It was not designed as a direct empirical comparison against strengthened prompt-based safeguards, and the retrospective baseline does not reproduce live-interaction dynamics.
-
-## Connected Concepts
-
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-- [[k-12]]
-- [[student-experience]]
-- [[llm]]
-- [[generative-ai]]
-- [[ai-misuse-learning-harm]]
-
-## Connected Articles
-
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring
-- [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
-- [[concept-catalyst-engineering-scaffolds]] — Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
-- [[llm-unlearning-math-privacy]] — Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
 
 ## Citation
 

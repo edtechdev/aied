@@ -43,25 +43,6 @@ The benchmark is deliberately positioned as **simulated evidence for benchmarkin
 - Trace metrics are proxies, not outcomes: participation balance and verification counts index interaction quality rather than cognitive gain, and the paper provides no causal evidence of learning outcomes.
 - Domain specificity: task artifacts and tutor scaffolding are optimized for Python syntax and logic errors, leaving transfer to more abstract domains (e.g., creative writing) or hardware-level programming untested.
 - Agent performance is tied to the underlying gpt-4o-mini client, and no human-subject data or ethics-approved classroom deployment was collected — empirical validation remains future work.
-## Connected Concepts
-
-- [[simulation]]
-- [[agentic-ai]]
-- [[learning-analytics]]
-- [[collaborative-learning]]
-- [[intelligent-tutoring]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[equity-in-ai-education]]
-- [[human-ai-collaboration]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[agentschool-multi-agent-simulation-education-2026]] — an LLM-powered multi-agent simulation that models learning as state transition for validating educational AI before deployment
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — simulating collaborative problem solving with participant-specific LLM agents and trace-level validation
-- [[llm-facilitation-timing-online-discussions]] — the timing of AI facilitation in online discussions, parallel to ASTRA's Facilitator role prompting balanced participation
-
 ## Citation
 
 [ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring and participation-balanced collaboration in introductory programming](https://doi.org/10.1016/j.caeai.2026.100633) — Oyelere, S. S. (2026). *Computers and Education: Artificial Intelligence*, 11, 100633.

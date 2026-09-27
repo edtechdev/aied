@@ -55,25 +55,6 @@ Confirmatory factor analysis under maximum likelihood estimation, followed by a 
 - The sample came mainly from junior high school students in a single country or region, which the authors say limits generalizability to other cultural contexts or educational systems.
 - The ChatGPT model version is never specified and the collection window is only "a three-month period"; with 81.5% of students on the free version, reported enjoyment depends on undated tool capability.
 
-## Connected Concepts
-
-- [[technology-acceptance-model]]
-- [[experiential-learning]]
-- [[generative-ai]]
-- [[motivation]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[prompt-engineering]]
-- [[conversational-ai]]
-
-## Connected Articles
-
-- [[acceptance-ai-english-tools-2026]]
-- [[determinants-chatgpt-use-higher-education-2026]]
-- [[akbaba-nursing-ai-experiences-tam-2026]]
-- [[tam-critical-use-genai-engineering-2026]]
-- [[musical-education-ai-digital-transformation-2026]]
-
 ## Citation
 
 Weng, S.-S., & Chiang, H.-C. (2026). [*Junior high school student perspectives on the use of ChatGPT in music education*](https://doi.org/10.1016/j.caeo.2026.100387). *Computers and Education Open*, 11, 100387.

@@ -69,31 +69,6 @@ The paper is explicit about what its evidence does and does not cover. MUSE meas
 - Annotation quality control was procedural rather than statistical: each of 1,174 images was annotated by one of 127 annotators (3–4 minutes per image) and reviewed by two others to consensus, with no inter-annotator agreement statistic reported.
 - MUSE scores model capability only: no learner outcomes, classroom deployment or tutor-dialogue evaluation is reported, so benchmark performance is not evidence that a model can support a learner reasoning about an image.
 
-## Connected Concepts
-
-- [[multimodal]] — Vision-language capability boundaries, the page's central concern
-- [[benchmark]] — Annotation-first, task-generative benchmark construction
-- [[language-learning]] — The image-based language-learning setting the tasks target
-- [[affective-computing]] — Emotion detection, evidence grounding and cause inference
-- [[arts-design-and-media-education]] — Artworks as instructional material
-- [[culturally-relevant-pedagogy]] — Cultural identification as a scored capability
-- [[situated-learning]] — Evaluation framed as situated educational interaction
-- [[equity-in-ai-education]] — Uneven reliability across imagery and learner populations
-- [[llm]] — The evaluated model family
-- [[creativity]] — Jigsaw puzzle and compositional assembly as a distinct capability
-
-## Connected Articles
-
-- [[syal-multimodal-dialogue-stem-2026]] — The Multimodal Interference Effect and structured-dialogue recovery in STEM
-- [[drawedumath-vlm-struggling-students-2026]] — VLM performance on handwritten student math work (DrawEduMath, Lucy et al. 2026)
-- [[cvengros-grading-handwritten-chemistry-ai-2026]] — Format-dependent limits of multimodal grading in handwritten chemistry
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Diagnosing intermediate visual constructions rather than final answers
-- [[cfes-p24-multimodal-slide-auditing-2026]] — Construct-level auditing of multimodal LLM instructional judgments
-- [[omniphys-multimodal-physics-benchmark-2026]] — Multimodal physics benchmark for model evaluation
-- [[mllm-scientific-visualization-literacy]] — Multimodal LLM literacy for scientific visualization
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodal AI composing and critical thinking in primary writing
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of embodied robot-assisted language learning
-
 ## Citation
 
 Zhu, L., Yee, X. W., Li, W., Mak, M. T., & Ng, W. S. (2026). [*MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education*](https://arxiv.org/abs/2609.19088). arXiv preprint arXiv:2609.19088.

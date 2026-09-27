@@ -40,22 +40,6 @@ level: [higher ed]
 - The automated classifier depends on LLM inference (binary LLM–human Cohen's κ = .426–.606 at the individual level, rising to .753 under best-pair consensus), so it may carry systematic biases that differ from human judgment.
 - The corpus comes from four universities in East Asia, and the discipline-associated profiles may not transfer to other cultural and educational contexts.
 
-## Connected Concepts
-
-- [[student-ai-interaction]]
-- [[student-engagement]]
-- [[critical-thinking]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[prompt-engineering]]
-
-## Connected Articles
-
-- [[chatbot-engagement-genai-competency-emotion-2026]]
-- [[lim-bannert-student-regulation-genai-chatbot-2026]]
-- [[isaza-chatgpt-engineering-prompting-2026]]
-- [[engagement-intensity-learner-modeling]]
-
 ## Citation
 
 [Chat as Learning: Student-AI Conversations as Discipline-Associated Cognitive Engagement Patterns](https://www.sciencedirect.com/science/article/pii/S2666920X26001062) — Chang, C.-K., & Li, K.-H. (2026). *Computers and Education: Artificial Intelligence*, 11, 100644.

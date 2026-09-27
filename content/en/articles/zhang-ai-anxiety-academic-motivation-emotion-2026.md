@@ -5,7 +5,6 @@ updated: "2026-09-19T11:14:39-04:00"
 type: article
 pedagogy: [metacognition, motivation, self-efficacy, well-being]
 technology: [generative-ai]
-connected_faqs: [ai-anxiety-wellbeing]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]
@@ -36,21 +35,6 @@ confidence: high
 - Participants were 1,484 Chinese university students recruited by convenience sampling through an online platform, so the single-country, non-probability sample limits generalization.
 - All three measures are self-report and PROCESS models them as observed composite scores without accounting for measurement error, leaving the results open to common method bias.
 - The three instruments were administered in a fixed order — emotion regulation, then academic motivation, then AI anxiety — so order, priming, and fatigue effects cannot be excluded, and students' pre-existing AI literacy was never measured or controlled.
-
-## Connected Concepts
-- [[motivation]]
-- [[well-being]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[self-efficacy]]
-- [[metacognition]]
-- [[student-experience]]
-
-## Connected Articles
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI Anxiety to Strategic Regulation
-- [[genai-motivation-engagement-2026]] — Examining the Impact of Generative AI on Student Motivation and Engagement
-- [[liang-ai-learning-motivation-sdt-2026]] — From Disengaged to Self-Determined: A Latent Transition Analysis
-- [[ai-perceptions-students-teachers-motivation-2026]] — Exploring AI Perceptions in Education
 
 ## Citation
 

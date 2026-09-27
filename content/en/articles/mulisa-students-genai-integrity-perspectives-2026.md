@@ -48,35 +48,6 @@ Assessment reform is the second lever. The authors urge a shift from intensive p
 ## Limitations
 The authors state four limits. The study could not capture the perspectives of students with disabilities, so those views are absent. The sample was mainly male because fewer female students were willing to take part, which may have limited representation of women's views. It was conducted in a single higher education institution, so transferability is confined to similar institutional and contextual settings. And the data are self-reported, leaving the findings open to social desirability bias. What the study does provide is a documented case of an integrity-utility trade-off from inside a student body, plus the authors' own claim that students' beliefs predict their behavior more strongly than institutional rules do (Ka and Chan 2025).
 
-## Connected Concepts
-
-- [[academic-integrity]] — the paper's central construct, framed through honesty, trust, fairness, respect, and responsibility
-- [[learner-identity]] — students' claims to authorship when a machine composed the prose
-- [[equity-in-ai-education]] — the uneven playing field between AI users and independent workers
-- [[ai-misuse-learning-harm]] — loss of critical thinking, creativity, and authorship through outsourcing
-- [[reducing-ai-misuse]] — policy, awareness, and assessment redesign as mitigation
-- [[authentic-assessment]] — the paper's proposed replacement for intensive paperwork
-- [[assessment-validity]] — assessment results that no longer track students' real ability
-- [[motivation]] — demotivation of diligent students as a reported consequence
-- [[cognitive-offloading]] — "technological cognitive atrophy" and growing dependence on chatbots
-- [[framing-ai-use-for-students]] — whether GenAI reads as a cheating box or a calculator-like support
-- [[educational-policy-ai]] — vague policies, weak enforcement, and unevaluated rules
-- [[global-south]] — an Ethiopian university context for the integrity debate
-- [[multilingual-learning]] — language barriers named as the primary benefit of the tools
-- [[critical-thinking]] — the educational goal students feared losing
-- [[ai-literacy]] — awareness and digital literacy as the paper's first recommendation
-
-## Connected Articles
-
-- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — "AI-giarism" and students' ethical reasoning about machine-assisted work
-- [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — university students' study practices and ethical judgments about AI
-- [[ai-tools-academic-work-cheating-2026]] — whether students themselves call AI-assisted work cheating
-- [[student-rationalization-ai-writing]] — the reasoning students use to license AI-assisted coursework
-- [[psychological-mechanisms-academic-integrity-ai-2026]] — behavioral determinants behind integrity judgments
-- [[nguyen-genai-global-south-review-2026]] — GenAI perceptions across Global South contexts
-- [[genai-chinese-higher-education-integrity-2026]] — a comparable policy-versus-practice tension in another system
-- [[ivory-psychology-assessment-integrity-2026]] — what the assessment vulnerability looks like from the marker's side
-
 ## Citation
 
 Mulisa, F., & Mezgebu, T. (2026). [*Tools facilitate cheating, or partner supports learning? GenAI and academic integrity issues from students' perspectives*](https://doi.org/10.1007/s40979-026-00231-z). *International Journal for Educational Integrity*, 22(22).

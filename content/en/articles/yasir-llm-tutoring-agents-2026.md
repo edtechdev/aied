@@ -58,30 +58,6 @@ Evaluation of tutors needs three-way, ground-truth-grounded diagnosis to expose 
 - The design captures single-step feedback only, with no multi-turn student–tutor interaction and no cumulative learning-gain measure; feedback agents were also zero-shot, after prompt refinement.
 - Findings are confined to propositional logic, where the authors can exhaustively enumerate valid inference paths in a knowledge graph; domains without tractable solution-space enumeration may behave differently.
 
-## Connected Concepts
-
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[llm]]
-- [[cognitive-diagnosis]]
-- [[automated-assessment]]
-- [[knowledge-graph]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[socratic-method]]
-
-## Connected Articles
-
-- [[ai-tutor-behavioral-evaluation]]
-- [[hazra-safetutors-pedagogical-safety-2026]] — What safety failures look like when tutor models are red-teamed
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From answer generators to reasoning facilitators
-- [[zerkouk-comprehensive-review-its-2025]] — AI tutor effectiveness review
-- [[deeptutor]] — DeepTutor: agentic personalized tutoring
-
 ## Citation
 
 Yasir, T., Li, W., Gilson, S., Tithi, S. D., Tian, X., & Barnes, T. (2026). [*Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most*](https://arxiv.org/abs/2605.16207).

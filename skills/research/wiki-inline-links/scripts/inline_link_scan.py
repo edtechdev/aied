@@ -625,7 +625,10 @@ def apply_links(path, slug, concepts, dry_run=True):
     if len(parts) < 2:
         return 0, [], txt
     fm, body = parts[0] + '\n---\n', parts[1]
-    m = re.search(r'\n## Connected', body)
+    # Narrative ends at the first Connected section OR the Citation section, whichever
+    # comes first: pages written from 2026-09-27 have no Connected sections, and the
+    # citation line must never be inline-linked either way.
+    m = re.search(r'\n## (?:Connected|Citation)', body)
     nar_end = m.start() if m else len(body)
     nar = body[:nar_end]
     tail = body[nar_end:]

@@ -52,26 +52,6 @@ This article is a strong theoretical and empirical anchor for the knowledge base
 - The 45 semi-structured interviews used for process-level triangulation were drawn exclusively from the Chinese subsample, so the qualitative accounts cannot speak to the European or US experience.
 - Although the three-wave, time-lagged design temporally separates predictors and outcomes, the authors concede that longer windows and objective performance indicators are still needed to show that partnership routines stabilize and transformative insight endures.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[higher-ed]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[trust]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[student-ai-interaction]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-
-## Connected Articles
-
-- [[lodge-loble-cognitive-offloading-2026]]
-- [[shaw-nave-cognitive-surrender-2026]]
-- [[teachers-reflective-regulators-cognition-offloading]]
-- [[ai-making-us-stupid]]
-
 ## Citation
 
 Wang, S., & Zhang, H. (2026). [*Pedagogical partnerships with generative AI in higher education: how dual cognitive pathways paradoxically enable transformative learning*](https://doi.org/10.1186/s41239-026-00585-x). *International Journal of Educational Technology in Higher Education*.

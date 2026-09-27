@@ -7,7 +7,6 @@ foundations: [academic-integrity, curriculum-design, educational-development, fr
 technology: [generative-ai]
 assessment: [assessment, authentic-assessment]
 methods: [design-based-research]
-connected_faqs: [course-ai-policy]
 pedagogy: [career-development-and-readiness]
 audience: [instructors, faculty developers, instructional designers, curriculum designers]
 level: [higher ed]
@@ -68,36 +67,6 @@ A transparent policy for this design case is not a rule list but a rationale, co
 - The only student response documented is the author's account that across three courses no student ever invoked the offered "amendment by conversation" alternative to the policy.
 - The design was produced during one week-long Course Design Institute and is reported retrospectively, not tested; the author states GenAI use will remain optional for her students "at least for now."
 - The task-by-task decisions rest on the author's judgment about which capabilities the profession's emerging GenAI competencies require — expectations she notes are still evolving.
-
-## Connected Concepts
-
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[generative-ai]]
-- [[curriculum-design]]
-- [[career-development-and-readiness]]
-- [[framing-ai-use-for-students]]
-- [[educational-development]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[trust]]
-- [[prompt-engineering]]
-- [[reducing-ai-misuse]]
-- [[ai-use-disclosure]]
-
-## Connected Articles
-
-- [[guided-inquiry-genai-course-policy-2026]] — Student co-design of GenAI course policy through guided inquiry (Hingle & Johri 2026)
-- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31,000 syllabi; task-type differentiation (Chirikov 2026)
-- [[genai-policies-higher-ed-computing]] — Institutional AI policy analysis in computing education
-- [[credential-cognitive-stewardship-ai-assessment]] — Cognitive stewardship: delegation boundaries and evidence standards in AI assessment policy
-- [[student-rationalization-ai-writing]] — Five disconnect sites and 20+ student rationalizations of AI use
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a GenAI-integrated future
-- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the age of AI: output as evidence and the disclosure trap
-- [[ai-assessment-scale-reform]] — The AI Assessment Scale and assessment reform
 
 ## Citation
 

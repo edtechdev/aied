@@ -50,25 +50,6 @@ methods: [meta-analysis-systematic-review]
 - Generalizability is constrained by geographic concentration: most included studies came from technologically advanced regions with limited representation of under-resourced educational contexts.
 - The corpus is strongly learner-centric — students were the impacted group in 57 studies, teachers in 26 and staff in only 4 — so institutional and staff-level effects are thinly evidenced.
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[higher-ed]]
-- [[discipline-specific-aied]]
-- [[human-ai-collaboration]]
-- [[meta-analysis-systematic-review]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[genai-higher-education-systematic-review-2026]] — Systematic review of generative AI in higher education
-- [[ai-collaborative-learning-systematic-review]] — Review of AI's role in collaborative learning
-- [[ai-stem-bibliometric-trends]] — Bibliometric mapping of AI research in STEM education
-- [[ai-ethics-bibliometric-2026]] — Bibliometric analysis of AI ethics in education
-- [[jiang-genai-activity-theory-disciplines-2026]] — GenAI across academic disciplines through activity theory
-
 ## Citation
 
 Xia, Q., Zhang, Z., Xing, T., Andic, B., & Chiu, T. K. F. (2026). [*Artificial intelligence in interdisciplinary higher education: A systematic review on opportunities, challenges and future directions*](https://doi.org/10.14742/ajet.11934). *Australasian Journal of Educational Technology*, 42(3), 1–23.

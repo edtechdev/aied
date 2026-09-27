@@ -7,7 +7,6 @@ foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, well-being]
 technology: [generative-ai]
 ethics: [ethics, privacy]
-connected_faqs: [ai-anxiety-wellbeing]
 audience: [researchers, instructors]
 research_method: [literature review]
 sources: ['raw/papers/kim-ai-anxiety-comprehensive-analysis.md']
@@ -40,26 +39,6 @@ This review positions AI Anxiety as a distinct psychological phenomenon — broa
 - The authors acknowledge the analysis "may not be fully comprehensive," because perspectives on AI and its societal implications shift as the technology advances.
 - Its intervention proposals — educational, technological, regulatory, and ethical — are recommendations rather than tested programs, and the review itself notes the thin evidence base for coping mechanisms.
 - The link between AI literacy and lower anxiety rests on reported associations among knowledge, computer use, and attitudes rather than trial evidence, so the design cannot support causal claims.
-
-## Connected Concepts
-- [[career-development-and-readiness]] — the fear of replacement / career dimension
-- [[anxiety-and-stress]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[privacy]]
-- [[ethics]]
-- [[well-being]]
-- [[higher-ed]]
-- [[governance]]
-- [[regulation]]
-- [[trust]]
-
-## Connected Articles
-
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive signal in writing
-- [[conijn-fear-big-brother-proctored-exams-2022]] — proctoring anxiety
-- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability
 
 ## Citation
 

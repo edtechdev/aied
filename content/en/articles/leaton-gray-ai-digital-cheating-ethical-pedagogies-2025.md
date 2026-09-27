@@ -63,35 +63,6 @@ The common commitments are authentic real-world tasks, personalization to the st
 - The proposed alternative to detection is resource-intensive in exactly the direction universities are economizing: bespoke single-use materials, weekly in-class invigilated tests and personalized feedback all consume staff time, and the authors concede this conflict with current workload models.
 - The theoretical frame is partial by the authors' own account — a footnote concedes that external factors such as variable teaching quality and poor learning environments were left untheorized — and they note that no cross-culturally stable definition of cheating exists, since some systems emphasize memorization and reproduction while others require critical interpretation.
 
-## Connected Concepts
-
-- [[academic-integrity]] — the reliability and validity of assessment in its wider societal context
-- [[assessment-validity]] — the paper's central design criterion for resisting AI-facilitated misconduct
-- [[assessment]] — massified, standardized and depersonalized forms named as the underlying vulnerability
-- [[authentic-assessment]] — real-world, personalized tasks that raise the perceived purpose of assessment
-- [[formative-assessment]] — low-stakes iterative work offered as an antidote to credential-driven instrumentalism
-- [[reducing-ai-misuse]] — prevention through design rather than prohibition or surveillance
-- [[ai-detection]] — critiqued as unreliable and as an anti-educational basis for governance
-- [[remote-proctoring]] — invasive monitoring treated as a target for subversion rather than a deterrent
-- [[generative-ai]] — positioned as an amplifier of existing structural weaknesses
-- [[motivation]] — extrinsic credentialism and mastery orientation as predictors of cheating
-- [[self-efficacy]] — belief in one's own competence and its complex relation to dishonesty
-- [[self-determination-theory]] — needs for control and self-determination behind the choice to cheat
-- [[critical-pedagogy]] — the ethical realignment of the university's purposes the article argues for
-- [[trust]] — erosion of the student–teacher relationship under suspicion-based governance
-- [[student-experience]] — depersonalized marking and surveillance as drivers of student alienation
-
-## Connected Articles
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Reviews the proctoring systems whose technical and ethical limits this article argues against
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Shares the conclusion that procedures built on detectability cannot hold
-- [[beyond-detection-authentic-assessment-ai-2025]] — Redesigns authenticity as the alternative to policing authorship
-- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — Experimental evidence that markers cannot reliably distinguish GenAI input in authentic assessments
-- [[authentic-products-authenticated-processes-2026]] — Product resemblance as an unreliable signal of capability, the same claim in assessment terms
-- [[psychological-mechanisms-academic-integrity-ai-2026]] — Tests the motivation and self-efficacy pathway this article theorizes
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose before policy, matching the claim that reform is a question about the university's mission
-- [[ai-tools-academic-work-cheating-2026]] — Student perceptions of where AI assistance ends and misconduct begins
-
 ## Citation
 
 Leaton Gray, S., Edsall, D., & Parapadakis, D. (2025). [*AI-based digital cheating at university, and the case for new ethical pedagogies*](https://doi.org/10.1007/s10805-025-09642-y). *Journal of Academic Ethics*, 23, 2069–2086.

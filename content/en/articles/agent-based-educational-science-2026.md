@@ -70,34 +70,6 @@ The ethical program is correspondingly detailed. Building digital twins of learn
 - The authors' own review of representational alignment concedes that current neural representations fail to capture high-level semantic and abstract dimensions of [[cognitive-psychology|human cognition]], and that while [[llm|LLMs]] show aggregate-level alignment with human judgments they remain limited in capturing inter-individual cognitive variability and the motivational, socio-emotional and ethical dimensions that shape real decision-making; most existing simulation work is static, and developmental trajectories remain largely overlooked.
 - Validation is named in the cited literature as the central challenge for generative social simulation, a caveat the paper does not resolve, and the [[simulation]]-versus-classroom boundary rests on a distinction the paper asserts rather than tests: it offers no account of how much predictive authority simulated trajectories should carry in decisions about real programs, or how the digital-twin data needed to build them could be assembled under the privacy regime it simultaneously demands.
 
-## Connected Concepts
-
-- [[agentic-ai]] — the LLM-driven agent architectures that make the paradigm practically achievable for the first time
-- [[simulation]] — the core epistemic tool of AES, generating trajectories and counterfactual educational designs in silico
-- [[simulating-students]] — the closest existing research family, which the paper seeks to move beyond static, momentary simulation
-- [[student-modeling]] — the learner model layer, parameterized across cognitive, motivational and socio-emotional variables
-- [[theory-development-aied]] — the cumulative, falsifiable theory building the authors argue education lacks
-- [[research-methods-aied]] — the slow, fragmented classroom paradigm AES is offered as a complement to rather than a replacement for
-- [[learning-sciences]] — the explanatory depth the authors aim to fuse with the generative capacity of LLM agents
-- [[llm]] — the inference and knowledge-synthesis engine of the Student Development Agent loop
-- [[intelligent-tutoring]] — an adjacent modeling tradition whose simulated students the paper treats as predecessors
-- [[learning-analytics]] — existing data-driven educational modeling whose temporal scope AES explicitly widens
-- [[privacy]] — privacy-by-design, federated learning and data minimization as preconditions of learner digital twins
-- [[governance]] — internationally governed SDA repositories and accountability extended to in silico experiments
-- [[ethics]] — bias audits, transparency, contestation rights and human oversight in simulation-based research
-
-## Connected Articles
-
-- [[simulating-students-llm-review-2026]] — Systematic review of LLM-based simulated students, the literature this position paper builds on
-- [[valid-student-simulation-llm-2026]] — Validation concerns in LLM student simulation, the challenge AES inherits
-- [[inside-llm-student-simulator-reasoning-2026]] — What happens inside LLM student simulators when they reason
-- [[history-aware-student-simulation]] — Memory and history in student simulation, the developmental direction AES calls for
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — Simulating the evolution of student cognition over time
-- [[studentsim-llm-student-simulators]] — LLM student simulators as research instruments
-- [[precision-education-student-digital-twins-2026]] — Student digital twins, the construction AES treats as ethically loaded
-- [[agentschool-multi-agent-simulation-education-2026]] — Multi-agent simulation of educational dynamics at population level
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — LLM agents used to simulate collaborative learning environments
-
 ## Citation
 
 Zhang, Y., Jiang, J., & Tang, X. (2026). [*Toward agent-based educational science: Rethinking educational research in the age of AI*](https://doi.org/10.1007/s10648-026-10209-5). *Educational Psychology Review*, 38(1), 113.

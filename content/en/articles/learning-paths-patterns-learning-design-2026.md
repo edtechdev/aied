@@ -71,32 +71,6 @@ The limitations bound how far the numbers travel. The sample is large but comes 
 - The analysis covers the pre-implementation design phase only; no LMS trace data tested whether these designed paths describe what students actually experience.
 - The authors state that the resemblance to flipped-classroom, inquiry-based and project-based designs "should not be interpreted as evidence" that those approaches were intentionally implemented.
 
-## Connected Concepts
-
-- [[learning-design]] — the object of study: the planned sequence of activities rather than delivered teaching
-- [[learning-analytics]] — the method family (Markov chains, pattern mining, correlations) applied to design data
-- [[curriculum-design]] — course-level planning decisions the patterns describe
-- [[assessment-validity]] — the construct-validity question behind coding activities into learning types
-- [[assessment]] — the strongest transition source and a steering activity in the sequences
-- [[feedback]] — the design element clustering with collaboration, group work and synchronous delivery
-- [[collaborative-learning]] — correlation partner of feedback and a source of peer feedback opportunities
-- [[active-learning]] — the pedagogy the authors contrast with the dominance of Acquisition
-- [[problem-based-learning]] — strategy recommended for higher-level outcomes
-- [[inquiry-based-learning]] — sequence shapes resembling its phases
-- [[project-based-learning]] — the culminating, Production-heavy pattern
-- [[higher-ed]] — the presumed main context of the sampled course designs
-- [[recommender-systems-and-learning-paths]]
-
-
-## Connected Articles
-
-- [[pishtari-teacher-ai-training-learning-design-2026]] — When Teachers Use AI Chatbots and Are Trained for It: Impact on Learning Design Quality and Cognitive Effort
-- [[claassen-learning-analytics-genai-learning-design-2026]] — Understanding the Role of Learning Analytics and Generative Artificial Intelligence on Decision-Making and Learning Design Practice in Higher Education
-- [[zhou-constructive-alignment-genai-business-2026]] — From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive Alignment
-- [[luo-ibl-patterns-llm-bloom-2026]] — Inquiry-Based Learning Patterns in Large Language Model-Driven Learning Environments: An Exploratory Study From Bloom's Perspective
-- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
-- [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards: rethinking learning visualizations as engagement tools
-
 ## Citation
 
 Divjak, B., Svetec, B., & Horvat, D. (2026). [Learning paths and patterns in learning design: Insights from 500+ courses](https://doi.org/10.1016/j.caeo.2026.100412). *Computers and Education Open, 11*, 100412.

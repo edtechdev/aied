@@ -65,21 +65,6 @@ The paper closes with five conceptual propositions meant to seed empirical work 
 - The DiaCoM specification and the five propositions are offered as a starting point for research, and the authors state plainly that evidence for the effectiveness of AI-supported diagnostic systems in classrooms remains limited.
 - Several risks stay unresolved in the argument: training data can carry bias or underrepresent particular groups, systems not validated for education can produce plausible but incorrect output, and automation bias can push teachers toward uncritical reliance. Transparency is a further constraint, since teachers cannot fully evaluate an inference whose derivation is not visible to them. Current tools also rest mainly on performance data such as correctness and completion time, so the account may need revision as instrumentation changes.
 
-## Connected Concepts
-
-- [[formative-assessment]] - the practice whose diagnostic demands are rethought
-- [[ai-literacy]] - recognizing bias, limits, and relevance of AI output
-- [[human-in-the-loop-ai]] - teachers as responsible decision-makers
-- [[learning-analytics]] - dashboards as AI-generated inference
-- [[cognitive-diagnosis]] - diagnosing as cognitive information processing
-- [[trust-calibration]] - calibrated trust instead of automation bias
-
-## Connected Articles
-
-- [[llm-formative-feedback-systematic-review-2026]] - LLM-generated formative feedback: A qualitative systematic literature review
-- [[trust-fairness-motivation-ai-teaching-assistants-2026]] - How trust prospectively predicts fairness and motivation toward AI teaching assistants
-- [[ai-tpack-teacher-multi-agent-workflow]] - Modeling AI-TPACK in Practice: Teachers' Multi-Agent Workflow Design
-
 ## Citation
 
 Hoppe, T., Loibl, K., & Leuders, T. (2026). [*Rethinking teachers’ diagnostic skills in AI-supported formative assessment: from diagnosis to meta-diagnosis*](https://doi.org/10.3389/feduc.2026.1857661).

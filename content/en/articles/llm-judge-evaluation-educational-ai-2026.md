@@ -62,35 +62,6 @@ For a mature LLM-as-judge suite the dominant failure mode is false positives: re
 - Both pools are synthetic rather than drawn from production traffic and may underrepresent contested or culturally specific failures a production stream would surface.
 - Egregious capture covers only a deliberately severe slice: denominators range from n = 12 to n = 79, with a 95% Clopper–Pearson lower bound of 73.5% at n = 12 and 95.4% at n = 79.
 
-## Connected Concepts
-
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[ai-feedback-quality]]
-- [[hallucination-risk]]
-- [[benchmark]]
-- [[k-12]]
-- [[teacher-role]]
-- [[edtech-platform]]
-- [[trust]]
-- [[pedagogical-safety]]
-- [[guardrails]]
-- [[evaluative-judgment]]
-- [[ai-sycophancy]]
-- [[limitations-in-aied-research]]
-- [[educational-technology-developers]]
-
-## Connected Articles
-
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — Can AI Evaluate Assessment? A Study of Large Language Model Meta-Assessment Performance
-- [[llm-grading-self-preference-bias-2026]] — Risks of Using Large Language Models in Grading: LLMs and Humans Prefer LLM-Generated Writing Over Human's but LLMs Show a Stronger Systematic Bias
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs Do Not Grade Essays Like Humans
-- [[llm-judged-helpfulness-pedagogy-signal]] — Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models
-- [[vetting-dual-llm-safety-education]] — VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI
-- [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: Making AI Scoring More Reliable for Educational Assessment
-- [[machines-misread-pedagogical-quality]] — Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation
-
 ## Citation
 
 Rohlfs, C., Vergara Bosse, R., Hopper, P. R., O'Keefe, K., & Russell, P. (2026). [*When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI*](https://arxiv.org/abs/2609.28478). arXiv preprint.

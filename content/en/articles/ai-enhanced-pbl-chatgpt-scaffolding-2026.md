@@ -42,23 +42,6 @@ An explanatory sequential mixed-methods study with 120 eighth-grade students fro
 - The 120 eighth-grade students came from four junior high schools in one district; the schools were selected for comparable implementation settings rather than to represent Indonesian junior high schools, and the authors warn against automatic generalization to schools with different resources or teacher readiness.
 - The qualitative phase rests on a purposive subset of 12 students and four teachers across the four classes.
 - Outcomes were limited to critical thinking and classroom interaction: long-term retention, transfer to other subjects, and changes in writing quality were not measured.
-## Connected Concepts
-
-- [[problem-based-learning]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[metacognition]]
-- [[k-12]]
-
-## Connected Articles
-
-- [[pbl-structural-conditions-ai-2026]] — PBL and the structural conditions for productive AI integration
-- [[learn-framework-responsible-genai-pbl-2026]] — The LEARN framework for responsible GenAI in PBL
-- [[critical-thinking-genai-scaffolding]] — Scaffolding critical thinking with generative AI
-
 ## Citation
 
 La Sunra, S., Amaliah, S., & Radhiyani, F. (2026). [*AI-enhanced problem-based learning framework: integrating ChatGPT as adaptive scaffolding to improve critical thinking and personalized learning*](https://doi.org/10.30762/jeels.v13i2.7039). *JEELS*, 13(2).

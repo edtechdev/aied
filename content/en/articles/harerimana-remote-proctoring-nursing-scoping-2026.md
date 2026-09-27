@@ -65,37 +65,6 @@ The adoption history in the review explains the gap between claim and evidence. 
 - Evidence is concentrated in the USA, the UK, Southern Africa and Egypt, and the English-language 2015–2025 search window leaves low- and middle-income settings largely unrepresented.
 - Privacy and algorithmic accountability are largely absent from the six included studies and are supplied from adjacent literature, and the review's claims about cost — from anxiety and technostress to performance penalties and normalized intrusion — are reasoned more confidently than those six studies can support. What the six studies do support is more modest: a family of practices with real operational costs, a demonstrated effect on the assessment conditions students sit under, and a deterrence case that rests on how students say they feel, not on what they do.
 
-## Connected Concepts
-
-- [[academic-integrity]] — the stated purpose of proctoring, and the claim the evidence supports only weakly
-- [[anxiety-and-stress]] — student anxiety, concentration difficulty and technostress among faculty
-- [[digital-divide]] — connectivity, data cost, load shedding and device failure as access barriers
-- [[edtech-platform]] — commercial proctoring systems and their integration into the LMS
-- [[equity-in-ai-education]] — who can be assessed remotely, and on what terms
-- [[governance]] — data protection instruments and institutional oversight of proctoring vendors
-- [[learning-analytics]] — time-stamped event logs, risk flags and faculty review of flagged video
-- [[nursing-education]] — the professional context, including patient-safety and licensure stakes
-- [[online-teaching-and-learning]] — the shift to remote assessment that made proctoring standard
-- [[privacy]] — audio-visual and biometric capture in private spaces, and algorithmic transparency
-- [[professional-training]] — high-stakes licensure exams and readiness for clinical practice
-- [[regulation]] — cross-border vendor contracts and the limits of GDPR and POPIA as controls
-- [[remote-proctoring]] — the practice under review and its modalities
-- [[student-experience]] — preference, acceptance and the burden of being watched
-- [[summative-assessment]] — high-stakes examination conditions that proctoring changes
-- [[well-being]] — the balance the authors place against exam security
-- [[social-norms-ai-use]] — the informal rules around AI use
-
-## Connected Articles
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Academic dishonesty observed under automated proctoring
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Validity threats to online assessment that surveillance does not address
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing students' experiences and acceptance of AI tools
-- [[automated-online-exam-proctoring-decade-review-2026]] — A decade-long systematic review of automated online exam proctoring
-- [[conijn-fear-big-brother-proctored-exams-2022]] — Student fear and stress under proctored examination conditions
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and conceal AI in online assessments
-- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — Authentic assessment as an alternative to surveillance-based integrity
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose-led integrity policy rather than policing
-
 ## Citation
 
 Harerimana, A., Mtshali, N., & Mchunu, G. (2026). [*Under surveillance: Mapping remote proctoring practices in the assessment of nursing students—a scoping review*](https://doi.org/10.1007/s40979-026-00229-7). *International Journal for Educational Integrity*, 22(19).

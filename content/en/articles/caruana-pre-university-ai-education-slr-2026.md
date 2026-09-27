@@ -45,21 +45,5 @@ This review consolidates the growing evidence that AI education in primary and s
 - No formal methodological quality or risk-of-bias appraisal was conducted: all included studies contributed equally regardless of design, and the review was not prospectively registered.
 - Google Scholar served as a complementary source whose selected results depended on the platform's ranking algorithms, introducing retrieval bias; evidence is additionally concentrated in Europe and North America and thin on primary (versus secondary) education, and GenAI's rapid evolution may date parts of it quickly.
 
-## Connected Concepts
-- [[k-12]]
-- [[ai-literacy]]
-- [[teacher-education]]
-- [[curriculum-design]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[teacher-role]]
-- [[digital-divide]]
-- [[equity-in-ai-education]]
-- [[meta-analysis-systematic-review]]
-
-## Connected Articles
-- [[talebzadeh-ai-green-education-2026]] — The Role of AI in Green Education (Sustainable Development Pedagogy)
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Toward sustainable AI knowledge-base assistants in CS education
-
 ## Citation
 Caruana, I., Gilar-Corbí, R., & Palomar, M. (2026). [*Preparing Learners and Teachers for an AI-Driven Future: Emerging Trends, Pedagogical Challenges, and Critical Perspectives in Pre-University AI Education: A Systematic Literature Review*](https://doi.org/10.3390/su18178827). *Sustainability*, 18(17), 8827.

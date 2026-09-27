@@ -7,7 +7,6 @@ technology: [educational-robotics]
 assessment: [learning-gains]
 methods: [meta-analysis-systematic-review]
 ethics: [accessibility, inclusive-learning]
-connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 sources: ['raw/papers/zhang-ai-students-disabilities-meta-analysis-2024.md']
 confidence: high
@@ -65,31 +64,6 @@ This is a **landmark contribution to [[special-education]], [[inclusive-learning
 - Heterogeneity was high (τ² = 0.52; I² = 76.17) and none of the participant-, AI-, interaction-, intervention-, or methodology-related moderators reached significance; the authors note the null moderating effects may reflect small subcategory samples and that heterogeneity is often confounded with publication bias, so they urge caution in reading the overall positive effect.
 - The corpus is 29 studies from 24 peer-reviewed articles and 4 dissertations published between January 1994 and January 2023, drawn from ERIC, PsycInfo, PubMed, IEEE Xplorer, and ProQuest and limited to English-language documents; single-case designs and conference proceedings were excluded, which the authors acknowledge may omit relevant evidence.
 - The technology base is dated: robots made up 70.0% of studies and most were human-operated via the Wizard of Oz method, only two studies used teachable agents, and intelligent VR was not statistically significant (g = 0.528), so the findings do not speak to modern [[generative-ai|generative AI]] for SWDs.
-
-## Connected Concepts
-
-- [[special-education]]
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[learning-gains]]
-- [[educational-robotics]]
-- [[agentic-ai]]
-- [[agency]]
-- [[equity-in-ai-education]]
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[virtual-and-augmented-reality|virtual reality]]
-- [[student-engagement]]
-- [[k-12]]
-- [[universal-design-for-learning]]
-- [[neurodiversity]]
-- [[personalized-learning]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[educational-robotics-pathways-2026]] — AI-Powered Educational Robotics in K-12
-- [[ai-lms-middle-school-longitudinal]] — AI-Enabled LMS in Middle School
 
 ## Citation
 

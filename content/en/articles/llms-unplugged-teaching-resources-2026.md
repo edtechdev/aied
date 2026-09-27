@@ -81,34 +81,6 @@ One design question the paper leaves open is how far hands-on tallying should sc
 - The claimed engagement pattern — including the "inflection point" after the first shareback — comes from facilitator observation rather than any instrument, and several Extensions are described as less battle-tested across classroom settings.
 - Delivery was confined to one institution, the Australian National University, over a single year and to session sizes of five to fifty people, with no comparison condition against a conventional data-driven lesson.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[llm]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[prompt-engineering]]
-- [[pedagogy]]
-- [[curriculum-design]]
-- [[experiential-learning]]
-- [[active-learning]]
-- [[constructivist]]
-- [[higher-ed]]
-- [[teacher-education]]
-- [[student-engagement]]
-- [[scaffolding]]
-- [[machine-learning]]
-
-## Connected Articles
-
-- [[ai-intuition-ai-literacy-k12-2026]] — From AI Intuition to AI Literacy: A Dual Framework for K-12 Education
-- [[student-mental-models-genai]] — Uncovering Students' Mental Models of Generative Artificial Intelligence
-- [[computational-thinking-ai-agent-creation]] — Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study
-- [[reshaping-cs-education-genai]] — Reshaping Undergraduate Computer Science Education in the Generative AI Era
-- [[hingle-collaborative-ai-literacy-2025]] — Systematic Review of Collaborative Learning Activities for Promoting AI Literacy
-- [[astor-computational-thinking-meta-review-2026]] — Computational Thinking: A Meta-Review of Systematic Reviews and Meta-Analyses
-- [[ai-pbl-computational-thinking-2026]] — AI-Supported Problem-Based Learning for Enhancing Computational Thinking
-
 ## Citation
 
 Ben Swift (2026). [*LLMs Unplugged: Teaching Resources for a ChatGPT World*](https://doi.org/10.1145/3786228.3786237). Proceedings of the 28th Australasian Computing Education Conference (ACE 2026).

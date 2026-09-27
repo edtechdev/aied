@@ -71,34 +71,6 @@ Future work proposed is to refine GenARch on interaction [[usability-research|us
 - Presentation ratings came from seven raters, five of them senior students, with low-to-moderate inter-rater agreement (Kendall's W between 0.234 and 0.466 across criteria) on only seven team products, and the WBLT–presentation correlation rests on four GenARch teams.
 - No systematic observation or reflective-journal data were collected, so the qualitative analysis relies on retrospective group-interview accounts, and baseline self-efficacy anxiety was already lower in the GenARch group (p = 0.005).
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[virtual-and-augmented-reality]]
-- [[collaborative-learning]]
-- [[design-thinking]]
-- [[creativity]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[engineering-education]]
-- [[student-experience]]
-- [[project-based-learning]]
-- [[mixed-methods-research]]
-- [[self-report-measures]]
-- [[group-work]]
-- [[visualization]]
-- [[embodied-learning]]
-- [[arts-design-and-media-education]]
-## Connected Articles
-
-- [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
-- [[ai-interior-design-malaysia-2026]] — Artificial Intelligence as Catalyst and Contested Terrain: Transforming Interior Design Practice, Pedagogy, and Professional Regulation in Malaysia
-- [[rana-genai-design-thinking-2025]] — Generative AI in Design Thinking Pedagogy: Enhancing Creativity, Critical Thinking, and Ethical Reasoning in Higher Education
-- [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
-- [[mixed-reality-engineering-learning]] — Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: The Trivalence Model of Potential Co-Creativity in Socio-Technical Networks
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-
 ## Citation
 
 Yao Xiao, Max Chen, Yichen Li, Nathaniel Powers, Maxwell Wiesenfeld, Gillian Smith, Soroush Farzin, and Shichao Liu (2026). [*Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study*](https://arxiv.org/abs/2609.13494). arXiv preprint.

@@ -40,22 +40,6 @@ audience: [researchers, learning analytics designers, assessment designers]
 - The validation set is small, and the authors flag the environmental cost of their own research — two annotation runs with large, non-locally-runnable models — as an ethical limitation.
 - The framing intentionally treats learning as more than spoken contributions, and the relationship-building methods that re-contextualize a few conversations also constrain how many students and classrooms could be analyzed.
 
-## Connected Concepts
-- [[learning-analytics]]
-- [[equity-in-ai-education]]
-- [[sociocultural-learning]]
-- [[llm]]
-- [[student-ai-interaction]]
-- [[multilingual-learning]]
-- [[agency]]
-
-## Connected Articles
-- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment for classroom discourse analysis
-- [[socratic-ai-physics-tutor-taxonomy-2026]] — A Bottom-Up Taxonomy of Student Discourse with a Socratic AI Physics Tutor
-- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement with GenAI
-- [[ai-team-teaching-talk-analytics]] — AI-Driven Analytics of Team-Teaching Talk
-
 ## Citation
 
 Santos-Deonizio, Malamut, Martínez, & Demszky (2026). [*When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk*](https://arxiv.org/abs/2608.23780).

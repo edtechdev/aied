@@ -35,21 +35,6 @@ Question-part analysis provided a stricter test: across 7,058 official question 
 - **Exact partial-credit scoring remains the weak point:** experimental and diagram-based work and conceptual reasoning were hardest, with the AI more willing than examiners to award credit for incomplete or visually plausible answers.
 - **Cost and workload figures are context, not measurement:** token usage and processing times were incompletely recorded because browser- and API-based workflows were combined, no human grading-time logs were kept, and the OE1 and OE2 datasets come from different years.
 
-## Connected Concepts
-- [[automated-assessment]]
-- [[physics-education]]
-- [[assessment-validity]]
-- [[llm]]
-- [[multimodal]]
-- [[summative-assessment]]
-- [[assessment]]
-- [[ai-ed-evaluation]]
-- [[psychometrically-aware-ai]]
-## Connected Articles
-- [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
-- [[probing-ai-generated-physics-solutions-2026]] — Probing AI-Generated Physics Solutions and Preparing Students to Critique Them
-- [[multimodal-knowledge-graph-educational-reasoning]] — Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning
-- [[competency-based-education-genai-production-2026]] — Knowledge, Skills, Attitudes, Production: Competency-Based Education After Generative AI
 ## Citation
 
 Pathak, P., Tiwary, S., Kadolkar, C., Singh, V., Rakestraw, D., Pathare, S., & Mazumdar, A. (2026). [*Large Scale AI Grading of Handwritten Physics Assessments*](https://arxiv.org/abs/2608.20521).

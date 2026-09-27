@@ -38,26 +38,6 @@ methods: [ai-ed-evaluation]
 - The exam-level sample is 11 exams that mix two scoring calibers (problems passed and score), so exam-level correlations are exploratory; the 106-problem CS101 sample showed the problem-level correlation weakening to rho = -0.552 and the exam-level correlation across its 16 exams near zero.
 - Public OpenJudge problems and their solutions may sit in the reviewer's pretraining corpus, and the third-party endpoint makes the degree of training-data overlap harder to assess; the authors call for de-contamination validation.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[automated-assessment]]
-- [[cs-education]]
-- [[educational-measurement]]
-- [[ai-ed-evaluation]]
-- [[human-in-the-loop-ai]]
-- [[item-response-theory]]
-- [[learning-analytics]]
-- [[psychometrically-aware-ai]]
-
-## Connected Articles
-
-- [[llm-item-difficulty-prediction]] — LLM item difficulty prediction
-- [[llm-psychometric-calibration-cdp]] — LLM psychometric calibration
-- [[agreement-not-quality-llm-coding-verification]] — Agreement not quality in coding
-- [[llm-chatbots-cs-multiple-choice]] — LLM chatbots for CS MCQs
-- [[measuring-llm-tutors-teach-vs-solve]] — Measuring LLM tutors
-
 ## Citation
 
 Yan, H., Xiong, J., Li, Y., & Chen, C. (2026). [*From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations*](https://arxiv.org/abs/2608.07523). (cs.CY).

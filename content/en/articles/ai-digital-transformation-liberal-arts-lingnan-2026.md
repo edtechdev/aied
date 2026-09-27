@@ -40,21 +40,6 @@ institutions: [change-management]
 - No learning-outcome, adoption-effect, or equity-impact data are reported; the author states that comprehensive empirical validation awaits future research and that the blueprint is aspirational and forward-looking rather than definitive causal evidence.
 - Institution-level figures such as the 99.1% employment rate among graduates entering the workforce, or the 14 international awards for PureAura, describe one university's context and cannot be attributed to the AI strategy.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[humanities-education]]
-- [[generative-ai]]
-- [[change-management]]
-- [[curriculum-design]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-
-- [[mishra-control-vs-agency-history-2025]] — historical "control vs. agency" framing of AI transformation in education (Mishra, Henriksen, Woo & Oster 2025)
-- [[fawns-entangled-pedagogy-genai-students-2026]] — qualitative entangled-pedagogy analysis of how higher-ed students negotiate generative AI in their lived realities (Fawns et al. 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neural evidence of "cognitive debt" from GenAI-assisted essay writing in higher education (Kosmyna et al. 2025)
-
 ## Citation
 
 [AI for education: The digital transformation of a liberal arts institution – implementation at Lingnan University](https://www.sciencedirect.com/science/article/pii/S2666920X26000548) — Qin, S. J. (2026). *Computers and Education: Artificial Intelligence*, 10, 100592.

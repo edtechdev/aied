@@ -56,21 +56,6 @@ Readers searching for code will find [a GitHub repository named AgenticMath](htt
 - **Scale is untested.** Because of computational and resource constraints, the authors did not run synthesis beyond the sizes they report.
 - **One model judges everything.** Scoring, solving, and final evaluation all use GPT-4o-mini (2024-07-18) and human labels are removed, so quality control rests on statistical correction of [[llm|LLM]] ratings.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[pedagogical-llm-training]]
-- [[llm]]
-- [[math-education]]
-- [[benchmark]]
-- [[automated-question-generation]]
-
-## Connected Articles
-
-- [[proiqa-math-item-quality-assessment-2026]]: scoring the quality of mathematics items
-- [[datacanvas-edu-synthetic-data-business-analytics-2026]]: an agentic synthetic data framework in another subject
-- [[representation-robustness-llm-math-problem-solving]]: stability of LLM mathematics reasoning under other constraints
-
 ## Citation
 
 Liu, X., Liu, Y., Wang, S., Cheng, H., Estornell, A., Zhao, Y., Shu, J., & Wei, J. (2025). [*AgenticMath: Enhancing LLM Reasoning via Agentic-based Math Data Generation*](https://arxiv.org/abs/2510.19361). arXiv:2510.19361 (v3, revised January 2026). https://doi.org/10.48550/arXiv.2510.19361

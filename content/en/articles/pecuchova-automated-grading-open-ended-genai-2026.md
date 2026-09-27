@@ -47,23 +47,6 @@ page_kind: [evaluation]
 - The human benchmark consists of two graders whose agreement was almost perfect overall (Cohen's Kappa = 0.84; QWK = 0.95), but it remains a two-rater standard in a single discipline.
 - The study measures agreement with human grades, not learning: it offers no evidence that automated grading or feedback changes student outcomes, and the authors flag the proprietary API cost of GPTo1 as a scalability barrier.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[educational-nlp]]
-- [[assessment]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[llm-automated-grading-programming-comparison-2026]] — Large-scale comparison of LLMs for automated grading
-- [[llm-automated-assessment-student-self-explanations]] — LLM automated assessment of open student responses
-- [[gpt-human-rater-essay-assessment-2026]] — GPT versus human raters in essay assessment
-- [[aiawe-automated-writing-evaluation]] — Automated evaluation of student writing
-- [[hybrid-e-assessment-semi-automated-grading]] — Semi-automated grading approaches in e-assessment
-
 ## Citation
 
 Pecuchova, J., Benko, Ľ., & Drlik, M. (2025). [Automated Grading of Open-Ended Questions in Higher Education Using GenAI Models](https://doi.org/10.1007/s40593-025-00517-2). *International Journal of Artificial Intelligence in Education*, 35, 3813–3846.

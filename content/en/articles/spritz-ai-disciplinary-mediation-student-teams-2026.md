@@ -36,27 +36,6 @@ methods: [qualitative-research]
 - No control group and no quantitative measures: the findings rest on participants' subjective perceptions, and the boundary-detection goal went unevaluated, with no measure of detection accuracy or intervention timing.
 - The roles and the product-pitch scenario were predefined and limited to technology, business, and design boundaries, so the findings do not yet generalize to other disciplinary configurations or to the concrete stakes of authentic projects.
 
-## Connected Concepts
-
-- [[collaborative-learning]]
-- [[pedagogical-agent]]
-- [[human-ai-collaboration]]
-- [[human-in-the-loop-ai]]
-- [[llm]]
-- [[privacy]]
-- [[active-learning]]
-- [[qualitative-research]]
-- [[student-experience]]
-- [[trust-calibration]]
-
-## Connected Articles
-
-- [[multi-agent-llm-social-learning]] — Multi-agent LLM social learning
-- [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing
-- [[icap-cognitive-engagement-llm-agents]] — ICAP cognitive engagement
-- [[llm-critical-thinking-teamwork-review]] — LLM critical thinking teamwork
-- [[lecturaagents-multi-agent-teaching]] — LecturaAgents multi-agent teaching
-
 ## Citation
 
 Cheng, C.-J., Chung, Y.-C., Chiu, B.-C., Lin, Y.-H., & Liao, J.-W. (2026). [*Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication*](https://arxiv.org/abs/2608.07503). (cs.HC).

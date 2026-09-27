@@ -53,37 +53,6 @@ The verdict is task-dependent — the paper's most usable contribution for [[ai-
 - Majority-skewed attributes — 96% of profiles report English as their first language — make coefficients uninterpretable as group contrasts and were excluded.
 - Histories come from general LLM use rather than educational use, the essay authors' true demographics differ from the conditioning profiles, and the English-only design rules out evaluating grammatical gender. The work is therefore an audit instrument, not a deployment verdict — the role [[limitations-in-aied-research|limitations-aware]] testing should play before [[generative-ai|generative AI]] is trusted with assessment at scale.
 
-## Connected Concepts
-
-- [[automated-essay-scoring]]
-- [[automated-assessment]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[llm]]
-- [[generative-ai]]
-- [[ai-feedback-quality]]
-- [[educational-measurement]]
-- [[assessment]]
-- [[educational-nlp]]
-- [[ai-ed-evaluation]]
-- [[evaluative-judgment]]
-
-## Connected Articles
-
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — EduFair-Bench: Pedagogical Fairness of LLM Tutors Across Student Demographics
-- [[gender-bias-transfer-llm-writing]] — Contaminated Collaboration: Gender Bias Transfer in LLM-Assisted Student Writing
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: Linguistic Biases in Personalized Automated Writing Feedback
-- [[gpt-human-rater-essay-assessment-2026]] — Comparing GPT and Human Raters in Essay Assessment
-- [[bandit-driven-llm-essay-scoring-2026]] — Bandit-Driven Prompt Selection for Low-Cost LLM Essay Scoring
-- [[llm-essay-assessment-framework-reliability-2026]] — A Framework for Evaluation of LLMs in Essay Assessment
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: Reward-Aligned Consistent Essay Scoring with LLMs
-- [[dollinger-equitable-assessment-ai-2026]] — Reimagining Success and Failure: Equitable Assessment in an Age of AI
-- [[learning-behavior-background-advantage-ai-ed]] — Learning Behavior Accounts for Background-Related Advantage in AI-Assisted Education
-- [[llm-formative-feedback-systematic-review-2026]] — LLM-Generated Formative Feedback in Education: A Systematic Review
-
 ## Citation
 
 Rooein, D., Benedetto, L., & Hovy, D. (2026). [*The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment*](https://arxiv.org/abs/2609.16993). Findings of EMNLP 2026.

@@ -35,17 +35,5 @@ methods: [design-based-research]
 - Four volunteer high school students, chosen by maximum variation sampling on baseline writing ability and AI attitudes, in two sections of a single AP Capstone course.
 - A nine-week design-based study with no control group, so changes in argumentative reasoning cannot be causally attributed to the constrained system.
 - Evidence rests on self-report and researcher-coded data — weekly reflections, interviews, writing samples, and AI interaction logs — analyzed through thematic analysis.
-## Connected Concepts
-- [[writing-education]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[scaffolding]]
-- [[learning-design]]
-- [[desirable-difficulties]]
-
-## Connected Articles
-- [making-ai-tutoring-productive-mastery-math-2026] — designing AI tutoring for productive mastery in math
-- [ai-making-us-stupid] — critiques of AI's effect on cognition
-
 ## Citation
 Konradt, L., Boote, D. N., & Taub, M. (2026). [Making AI annoying on purpose: when helpful tools don't always help](https://doi.org/10.1016/j.caeo.2026.100343). *Computers and Education Open, 10*, 100343.

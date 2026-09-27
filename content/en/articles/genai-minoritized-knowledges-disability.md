@@ -42,22 +42,6 @@ Tali-Otmani explores whether a **[[research-methods-aied|researcher]]-machine hy
 - Its argument runs through three analytical levels — training corpora, algorithmic mechanisms, and evaluative practices — but each is supported by the cited literature rather than by an audit performed here, and disability serves as an illustrative case rather than a sampled population.
 - The hybridization between researcher and machine is proposed as a possibility with acknowledged structural limits, not as an intervention evaluated for outcomes; the authors explicitly call for future longitudinal and comparative studies to test the cumulative effects on epistemic diversity.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[special-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[inclusive-learning]]
-- [[culturally-relevant-pedagogy]]
-## Connected Articles
-
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[digital-literacy-illusion]]
-- [[genai-assessment-governance]]
 ## Citation
 
 Tali-Otmani, F. (2026). [*Generative artificial intelligence and the marginalization of minoritized knowledges in higher education: The case of disability*](https://arxiv.org/abs/2605.26769).

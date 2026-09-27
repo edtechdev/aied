@@ -35,22 +35,6 @@ To make evaluation provenance explicit the authors build BILearn-CS, a 600-query
 - BILearn-CS is a 600-query instructor-authored, TA-validated benchmark, and the external set is 150 public CS50-style forum questions treated as a generalization test rather than a classroom deployment, with incomplete code context and wider confidence intervals.
 - The leakage metric carries a tautology risk because policy-based leakage depends on instructor assistance labels; the authors reduce but cannot remove it with rule-based checks on observable output features such as complete runnable code and final-answer disclosure.
 
-## Connected Concepts
-
-- [[hallucination-risk]]
-- [[cognitive-offloading]]
-- [[pedagogical-llm-training]]
-- [[rag]]
-- [[cs-education]]
-- [[intelligent-tutoring]]
-- [[benchmark]]
-- [[generative-ai]]
-## Connected Articles
-
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[programming-its]]
-- [[llm-feedback-programming-classroom]]
-- [[structured-llm-feedback-programming]]
 ## Citation
 
 Hossain, S. M. A., Shayoni, R. K., Mridha, M. F., & Shin, J. (2026). [EduGuard: A Safe RAG-Based LLM Tutor for Programming Education](https://arxiv.org/abs/2607.15738).

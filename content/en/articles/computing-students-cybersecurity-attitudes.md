@@ -31,21 +31,6 @@ Computing students show inconsistencies between confidence in cybersecurity know
 - Course-skewed sample: because participants were drawn from an HCI course, participation (about 69% of eligible students) was likely skewed toward students interested in HCI, and 93% were aged 16 to 24.
 - The attitude structure is exploratory: pre-analysis metrics suggested two clusters, which the survey refined through a 20-participant pilot after validation by five cybersecurity experts, and the survey itself took an estimated 28 minutes to complete.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[cs-education]]
-- [[privacy]]
-
-## Connected Articles
-
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
-- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
-- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
-- [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
-- [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)
-
 ## Citation
 
 [Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity](https://arxiv.org/abs/2606.18541).

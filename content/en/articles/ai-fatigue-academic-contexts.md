@@ -33,26 +33,6 @@ This construct has significant implications for [[cognitive-offloading|Over-Reli
 - Participants were students who had already used AI chatbots for academic activities and were recruited through teacher invitations and campus administrator distribution of a Google Forms link — so there is no comparison with non-users and no probability sampling.
 - Evidence for the five dimensions is uneven: coded responses range from 310 (Cognitive Overload) to 120 (Physical Strain) and 125 (Attentional Drift), so the later stages of the model rest on thinner participant accounts.
 - The authors state the model requires empirical validation, including confirmatory factor analysis, before broader application, and cannot yet be assumed to generalize beyond this context.
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[affective-computing]]
-- [[student-experience]]
-- [[motivation]]
-- [[higher-ed]]
-## Connected Articles
-
-- [[learning-by-chatting-genai-impact]]
-- [[bloom-aligned-educational-control-llms]]
-- [[ai-learning-assistants-higher-ed-large-scale]]
-- [[youtube-frames-chatgpt-education]]
-- [[buggy-genai-code-student-responses]]
-- [[ai-making-us-stupid]]
-- [[digital-literacy-illusion]] — Overconfident students may paradoxically disengage from AI learning
-- [[ai-productivity-moderation]] — Incentive structures moderate whether AI adoption leads to fatigue or growth
-
 ## Citation
 
 John Paul P. Miranda, Emmanuel B. Parreno, Jovita G. Rivera (2026). [Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory](https://arxiv.org/abs/2605.23123). International Journal of Learning, Teaching and Educational Research, 25(5), 91-107 (2026).

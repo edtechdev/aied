@@ -45,31 +45,6 @@ This paper sits at the intersection of [[cognitive-offloading|Over-Reliance]], [
 - Per the study's interpretivist design, no inter-rater reliability was calculated, prior programming experience was categorized from participants' own interview descriptions rather than a survey measure, and the group is narrow beyond its size: 9 of 13 were White, three were first-generation students, and all were end-user programmers in engineering majors rather than computing majors.
 - Every student was interviewed once, in the final weeks of the semester, and the protocol opened with a 60-second video demonstration of AI's programming capabilities before asking about motivation in general and then in relation to AI; the authors note this ordering may have primed AI thinking or created contrast effects, and that a single snapshot cannot show whether these patterns are stable orientations.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[self-determination-theory]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-
-## Connected Articles
-
-- [[aied-unfinished-mission-bypass]] — AIED's Unfinished Mission: Agency and Motivation
-- [[ai-making-us-stupid]] — Is AI Making Us Stupid?
-- [[cognitive-offloading-speedup-illusion]] — Cognitive Offloading and the Speedup Illusion
-- [[efficiency-gain-illusion-ai-overreliance]] — The Efficiency-Gain Illusion
-- [[genai-reliance-types-scale]] — GenAI Reliance Types and Scale
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and Guilt as Social Regulators of AI Use
-- [[agentic-literacy-debt]] — Agentic Literacy Debt
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors
-- [[ai-engineering-education-balancing-act]] — AI in Engineering Education: A Balancing Act
-- [[post-instrumental-learning-capacity-dissolution]] — Post-Instrumental Learning and Capacity Dissolution
-
 ## Citation
 
 Keith Tran, Colton Harper, Thomas Price (2026). ["Why Put in This Much Effort?": How AI Availability Shapes Students' Motivation in Introductory Programming](https://arxiv.org/abs/2606.30480).

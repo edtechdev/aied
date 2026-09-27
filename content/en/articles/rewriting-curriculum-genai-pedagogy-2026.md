@@ -41,22 +41,6 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 - The systematic review synthesized 36 English-language peer-reviewed articles published 2023–2025, a narrow window in a rapidly moving field.
 - Interviews lasted 45–75 minutes and captured self-reported pedagogical change; the interview phase triangulated the literature findings rather than testing the framework against student or institutional outcomes.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[constructivist]]
-- [[tpack]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[curriculum-as-code-instructional-design-2026]] — Curriculum as code and instructional design
-- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education: a systematic review
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher education, engagement and teaching methods
-- [[institutional-governance-ai-universities]] — Institutional governance of AI in universities
-
 ## Citation
 
 Sabani, A., Farah, M. H., Catyanadika, P. E., Dewi, D. R. S., & Tawani, V. (2026). [*Rewriting the Curriculum: A Systematic Review of Generative AI-Driven Pedagogical Change and Emerging Systems of Learning in Higher Education*](https://doi.org/10.1016/j.caeai.2026.100667). *Computers and Education: Artificial Intelligence*, 100667. https://doi.org/10.1016/j.caeai.2026.100667

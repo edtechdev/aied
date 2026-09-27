@@ -63,23 +63,6 @@ The review’s central recommendation is verification-centered integration. Asse
 - Laboratory and process contexts require a higher threshold: safety, privacy, and equity are institutional responsibilities.
 - Unreviewed procedural use and sensitive-data entry should be prohibited, and students should not have to buy access to a proprietary system without an alternative. Reporting should identify the model, version, prompt strategy, retrieval configuration, and human moderation. The authors disclosed ChatGPT use for language editing and structural drafting under their own verification.
 
-## Connected Concepts
-
-- [[chemistry-education]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[theories-and-frameworks]]
-- [[assessment]]
-- [[governance]]
-
-## Connected Articles
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — AI in science and chemistry education: a systematic review
-- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-- [[philosophy-experimentation-ai-chemistry-2026]] — Reimagining the philosophy of experimentation in chemistry education
-
 ## Citation
 
 Vega-Baudrit, J. R., & Rivera Álvarez, A. (2026). [*Generative artificial intelligence in university chemistry education: a critical review using Johnstone’s chemistry triplet and Biggs’ 3P model*](https://doi.org/10.3389/feduc.2026.1918707).

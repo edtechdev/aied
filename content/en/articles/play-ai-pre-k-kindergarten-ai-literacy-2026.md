@@ -7,7 +7,6 @@ sources: ["raw/papers/play-ai-pre-k-kindergarten-ai-literacy-2026.md"]
 foundations: [ai-literacy]
 pedagogy: [game-based-learning]
 technology: [educational-robotics]
-connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
 level: [preschool]
@@ -38,23 +37,6 @@ methods: [design-based-research, qualitative-research]
 - The implementation lasted one month of PL-AI stations during freeplay (20–40 minutes), supported by 32 hours of classroom video, with no control group and no validated outcome measures.
 - Evidence is teacher self-report, researcher field notes, observational rubrics, and participation tallies, which the authors present as formative design evidence rather than effect sizes or causal learning gains.
 - Two of the seven activity prototypes were discontinued mid-study, so the activity sequences are context-dependent exemplars.
-## Connected Concepts
-
-- [[early-childhood-elementary-ai-education]]
-- [[ai-literacy]]
-- [[educational-robotics]]
-- [[design-based-research]]
-- [[game-based-learning]]
-- [[embodied-learning]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[tsingidou-ct-robotics-kindergarten-2026]] — computational thinking and robotics in kindergarten
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — DBR-based AI literacy curriculum design
-- [[preschool-teachers-ai-behavioral-intention-2026]] — preschool teachers' intention to use AI technologies
-- [[roboblockly-conversational-block-robotics-ct-2026]] — block-based conversational robotics for computational thinking
-
 ## Citation
 
 [Play with AI (PL-AI): A play-centered, design-based curriculum for AI literacy in pre-K and kindergarten](https://www.sciencedirect.com/science/article/pii/S2666920X26000317) — Lee, J. (2026). *Computers and Education: Artificial Intelligence*, 10, 100569.

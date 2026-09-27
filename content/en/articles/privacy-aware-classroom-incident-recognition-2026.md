@@ -32,23 +32,6 @@ Pilot study on privacy-aware computer vision for classroom incident detection. I
 - Synthetic videos are model-generated and filtered through author review plus teacher validation, so realism and label accuracy rest on those judgments, which the authors themselves flag as a risk for biased incident representations.
 - The privacy guarantee is architectural rather than end-to-end: it assumes the recognition system receives only pose trajectories, so identifiability depends on the upstream extraction and retention pipeline, not on the model.
 
-## Connected Concepts
-- [[benchmark]]
-- [[learning-analytics]]
-- [[simulation]]
-- [[privacy]]
-- [[k-12]]
-- [[multimodal]]
-- [[edtech-platform]]
-## Connected Articles
-
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
-- [[llm-unlearning-math-privacy]] — Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education
-- [[turtleai-visual-programming-benchmark]] — TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics
-- [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
-- [[antiskillbench-persona-skills-privacy-2026]] — When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills
-
 ## Citation
 
 Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, & Chiat Pin Tay (2026). [Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition](https://arxiv.org/abs/2608.05115). arXiv preprint (cross-listed cs.CV/cs.HC).

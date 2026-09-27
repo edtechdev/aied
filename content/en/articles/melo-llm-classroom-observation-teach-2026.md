@@ -39,32 +39,6 @@ methods: [ai-ed-evaluation, benchmark]
 - Inputs were transcripts, which the authors state is a structural limitation of the current text-based pipeline rather than something prompt design can fix — non-verbal evidence is simply absent.
 - Reliability was not general: three framework elements had no model reaching ICC ≥ 0.75, so a single global claim about LLM observation quality would misstate what the 8,618 evaluations show.
 
-## Connected Concepts
-
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[ai-feedback-quality]]
-- [[llm]]
-- [[teacher-role]]
-- [[educational-development]]
-- [[teacher-ai-competency]]
-- [[professional-training]]
-- [[human-in-the-loop-ai]]
-- [[multimodal]]
-- [[educational-nlp]]
-- [[trust]]
-- [[k-12]]
-
-## Connected Articles
-
-- [[teachingcoach-chatbot-instructor-guidance]] — AI instructor guidance in teaching
-- [[genai-teacher-feedback-comparison]] — Comparing generative AI and teacher feedback
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Teacher–student views on AI in K-12 classrooms
-- [[ai-tpack-teacher-multi-agent-workflow]] — Teacher AI-TPACK and multi-agent workflows
-- [[ai-tools-arab-english-classrooms]] — AI tools in language classrooms
-
 ## Citation
 
 Melo, C., de la Maza, J., & Recabarren, M. (2026). [*Validating AI-generated classroom observations: Reliability, accuracy, and limits of LLM-based pedagogical judgment*](https://doi.org/10.1016/j.caeai.2026.100612). *Computers and Education: Artificial Intelligence*

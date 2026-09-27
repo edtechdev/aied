@@ -40,31 +40,6 @@ MathBuddy addresses a critical gap in [[intelligent-tutoring|AI Tutoring]]: most
 - Multimodal emotion aggregation reached just 60% accuracy against participants' own gold annotations, with Neutral recall of 0.15 and Positive recall of 0.41 — the system's read of affect is the weakest link in the pipeline.
 - The authors state the field lacks a golden standard for tutoring quality, and their qualitative ratings rely on users who may rate user experience rather than educational prowess.
 
-## Connected Concepts
-
-- [[math-education]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[k-12]]
-- [[open-source]]
-- [[pedagogical-llm-training]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[rag]]
-- [[multimodal]]
-- [[learning-design]]
-- [[student-engagement]]
-- [[social-emotional-learning]]
-## Connected Articles
-
-- [[ai-tutor-behavioral-evaluation]]
-- [[engagement-intensity-learner-modeling]]
-- [[multimodal-affective-its-presentation]]
-- [[syal-multimodal-dialogue-stem-2026]]
-- [[multimodal-learning-genai]]
-- [[zhang-tutormoments-2026]]
-- [[lak2026-hint-button-unproductive-use]]
-
 ## Citation
 
 Kar, D., Böss, L., Braca, D., Dennerlein, S. M., Hubig, N. C., Wintersberger, P., et al. (2025). [MathBuddy: Affective Math Tutoring](https://arxiv.org/abs/2508.19993v2).

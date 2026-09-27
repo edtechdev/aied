@@ -61,24 +61,5 @@ This paper is a cornerstone contribution to the knowledge base's two most emphas
 - Many included studies report too little contextual detail for fine-grained comparison across instructional design settings, and reported benefits and limitations vary with user role and educational context.
 - The search was confined to the "Instructional Design" framework, so work published under adjacent labels such as "Educational Engineering" or "Learning Experience Design (LXD)" may be missing.
 
-## Connected Concepts
-- [[learning-design]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[human-in-the-loop-ai]]
-- [[teacher-role]]
-- [[pedagogy]]
-- [[feedback]]
-- [[assessment]]
-- [[personalized-learning]]
-- [[educational-development|professional development]]
-- [[llm]]
-- [[ai-education]]
-- [[ethics]]
-
-## Connected Articles
-- [[teacher-ai-teaming-five-levels]]
-- [[ai-distance-education-systematic-review-2026]]
-
 ## Citation
 Kibar, P. N., & Ilgaz, H. (2026). [*The intersection of artificial intelligence and instructional design practice: A systematic review*](https://doi.org/10.1007/s11423-026-10624-z). *Educational Technology Research and Development*.

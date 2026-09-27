@@ -6,7 +6,6 @@ type: article
 foundations: [ai-education, teacher-role]
 pedagogy: [well-being]
 ethics: [ethics]
-connected_faqs: [faculty-development-ai]
 audience: [researchers, administrators, policymakers]
 research_method: [theoretical analysis]
 sources: ['raw/papers/10.3389_fpsyg.2026.1935683.md']
@@ -46,22 +45,6 @@ From that proposition they derive an operational framework: seven design conditi
 - **Broad scope** across socio-emotional development, governance, and political economy means depth in any single area is limited.
 - **Evidence on emotional support from conversational agents is mixed** and highly dependent on implementation conditions, as the authors themselves note; **Emotional AI remains epistemologically fragile**, and the framework offers no settled answer to how cross-cultural validity of affective inference should be established.
 - **The proposed indicators are illustrative**, not a validated measurement protocol; they vary with setting, resources, and system type.
-
-
-## Connected Concepts
-
-- [[teacher-role]] — reframes what AI should and should not be allowed to do in teachers' professional lives
-- [[well-being]] — teacher well-being is the outcome the paper is trying to protect
-- [[ethics]] — governs the ethical limits placed on symbolic substitution and affective inference
-- [[ai-literacy]] — recast here as a socio-emotional competence, not just a technical skill
-- [[teacher-education]] — institutional conditions for sustained, relational professional development
-- [[human-in-the-loop-ai]] — human oversight and contestability as safeguards for affective data
-- [[privacy]] — data minimization, consent, and retention limits in well-being systems
-
-## Connected Articles
-
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity work for faculty
-- [[genai-higher-education-systematic-review-2026]] — Systematic review of generative AI in higher education
 
 ## Citation
 

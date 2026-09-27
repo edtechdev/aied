@@ -41,29 +41,6 @@ Scaffolding describes how a tutor calibrates support to the learner's current st
 - Face-to-face human tutoring was deliberately excluded, so the analysis covers only chat-based student–tutor exchanges and cannot address the visual cues, intonation, or gesture that in-person tutoring carries.
 - The scaffolding rubric is derived from the AI tutor benchmarks and defines scaffolding over the trajectory from impasse to a correct solution, so turns that acknowledge a student's correct answer and restate it are scored as low scaffolding even though they appear regularly in real-world deployments.
 
-## Connected Concepts
-
-- [[help-seeking]]
-- [[intelligent-tutoring]]
-- [[pedagogical-llm-training]]
-- [[benchmark]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[automated-question-generation]]
-- [[scaffolding]]
-- [[llm]]
-- [[student-experience]]
-- [[agency]]
-
-## Connected Articles
-
-- [[llm-judged-helpfulness-pedagogy-signal]] — Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models
-- [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact
-- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
-- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle
-- [[didactical-teacher-assistant-dimensional-modeling]] — A didactical-driven teacher assistant for a dimensional modeling course
-
 ## Citation
 
 Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson (2026). [Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments](https://arxiv.org/abs/2606.15766). Pluralistic Alignment Workshop @ ICML 2026.

@@ -47,27 +47,6 @@ level: [higher ed]
 - GenAI was used almost entirely for dialogic feedback and assessment, with little application in multimodal image creation or visual design, so the creative dimensions of the claimed multiliteracies development rest on thin evidence.
 - Data were collected in a single 16-week course, analyzed in Chinese, and translated into English by the author team, adding an interpretation layer to already context-bound findings.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[generative-ai]]
-- [[language-learning]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[multimodal]]
-
-## Connected Articles
-
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor vs. GenAI roles in ChatGPT-enhanced [[formative-assessment]]
-- [[llm-formative-feedback-systematic-review-2026]] — Systematic review of LLM [[feedback]] in [[formative-assessment]]
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — [[authentic-assessment]] and GenAI scoping review
-- [[hawkins-feedback-literacy-ai-essay-writing]] — AI writing [[feedback]] and [[feedback-literacy]]
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — AI [[feedback]], [[feedback-literacy]], and [[self-regulated-learning]]
-
 ## Citation
 
 Ni, Y., & Lam, R. (2026). [Students' perceptions of multiliteracies development using AI-assisted portfolio assessment](https://doi.org/10.1080/1554480X.2025.2545212). *Pedagogies: An International Journal*, 21(2), 301–328.

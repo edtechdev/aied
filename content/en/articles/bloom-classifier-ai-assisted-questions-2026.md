@@ -64,31 +64,6 @@ Four configurations were tested: TFPOS-IDF alone, TFPOS-IDF plus NLP metrics and
 - Each generator contributes one OOD corpus, and retrained models are scored on the same two OOD sets used to report their gains.
 - Splicing was tested only on XGBoost and DistilBERT, and on Asyncform the retrained models still show prediction bias, with LIME weights below 0.50.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[automated-question-generation]]
-- [[educational-nlp]]
-- [[llm]]
-- [[machine-learning]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[transfer-of-learning]]
-- [[explainable-ai]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
-- [[llm-educational-question-cognitive-depth]] — From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-- [[generate-then-validate-question-gen]] — Generate-Then-Validate: Question Generation for Education
-- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
-- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
-- [[short-answer-scoring-quality-degradation]] — Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation
-
 ## Citation
 
 Michael Lawrence Castanares, Princess Ventures, Allan Tan (2026). [Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions](https://arxiv.org/abs/2609.27749). arXiv preprint.

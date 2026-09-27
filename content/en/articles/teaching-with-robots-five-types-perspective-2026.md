@@ -51,34 +51,6 @@ This is a Perspective paper, not an empirical study. The authors state that it o
 - The typology is explicitly not empirically validated: it comes from a design-thinking exercise with an interdisciplinary expert team rather than an empirical study, and is presented as a heuristic design space rather than a tested classification.
 - The authors do not claim long-term effectiveness or sustained impact, and they flag unresolved questions about durability of effects beyond novelty phases, the evolution of children's emotional relationships with robotic agents, and institutional [[sustainability]]; the cited [[educational-robotics]] evidence is already short on longitudinal and retention data.
 
-## Connected Concepts
-
-- [[educational-robotics]] — social robots as classroom pedagogical partners
-- [[embodied-learning]] — 4E cognition and physical interaction as a basis for learning
-- [[social-emotional-learning]] — emotional regulation, empathy and conflict skills targeted by the use cases
-- [[situated-learning]] — cognition distributed across bodies, tools and classroom contexts
-- [[teacher-role]] — robots as facilitators that teachers must mediate, never replacements
-- [[design-thinking]] — the workshop process used to derive the five robot types
-- [[well-being]] — school-based mental-health promotion as the paper’s purpose
-- [[ethics]] — privacy, surveillance, attachment and accountability safeguards
-- [[affective-computing]] — emotion recognition and expression underpinning adaptive robot behavior
-- [[special-education]] — touch-based and humanoid robot work with autistic and visually impaired children
-- [[theory-development-aied]] — conceptual synthesis offered ahead of systematic evidence aggregation
-- [[pedagogy]] — role types defined by pedagogical function rather than technology
-
-## Connected Articles
-
-- [[pepper-social-robot-formal-education-scoping-review-2026]] — scoping review of social robot use in formal education
-- [[robobuddy-llm-social-robots-classroom-2025]] — LLM-driven social robots in classroom settings
-- [[knowledge-based-design-generative-social-robots-2026]] — design approaches for generative social robots
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — robot-mediated role-play against bullying
-- [[robot-assisted-language-learning-meta-analysis-2026]] — robot assistance for language learning outcomes
-- [[social-robot-study-companions]] — robots as study companions for learners
-- [[educational-robotics-pathways-2026]] — pathways and open questions in educational robotics
-- [[human-ai-complementarity-social-emotional-learning-2026]] — human–AI complementarity in social-emotional learning
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — embodied and multimodal accounts of learning
-- [[ai-campus-wellbeing-tools]] — digital well-being support in educational settings
-
 ## Citation
 
 Christ, O., Riedl, R., Schmid, J., Zürcher, P., & Thilo, F. (2026). [Theoretical Perspectives on Teaching with Robots: From Interdisciplinary Prerequisites and Necessities in Today's Classrooms to Five Different Types of Robots](https://doi.org/10.3390/aieduc2030028). *AI in Education, 2*(3), 28.

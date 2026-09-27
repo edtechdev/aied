@@ -43,27 +43,6 @@ The paper argues that accessibility belongs in the authoring layer. When interfa
 - Prior work found interactive and adaptive systems can disproportionately benefit lower-performing learners, and it is unclear whether offering modality-matched representations amplifies or mitigates those effects.
 - Hallucination risk is not uniform across representations — errors in audio narration or interactive components may be less transparent to learners — and the multi-variant review workflow that would catch them is proposed rather than evaluated.
 
-## Connected Concepts
-- [[generative-ai]]
-- [[rag]]
-- [[assessment-validity]]
-- [[affective-computing]]
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[affective-tutoring]]
-- [[teacher-ai-competency]]
-- [[pedagogical-agent]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-## Connected Articles
-
-- [[ai-partner-science-epistemic-vigilance]] — AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of [[learning-gains|Learning Outcomes]]
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
-- [[gender-differences-ai-literacy-deepfake]] — Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement
-
 ## Citation
 
 Seyed Parsa Neshaei, Abhinand Shibu, Fatma Betül Güres (2026). [The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization](https://arxiv.org/abs/2606.15902). NextGen Learning Interfaces Workshop, AIED 2026.

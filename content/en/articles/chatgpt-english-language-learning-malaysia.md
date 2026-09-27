@@ -46,26 +46,6 @@ The study also documented important limitations: ChatGPT sometimes produced inac
 - Data come from 30-45 minute interviews conducted over a single academic semester, which cannot capture how perceptions and AI use evolve over time.
 - The researchers held dual instructor-investigator roles; the authors acknowledge their interpretive position shapes the findings despite member checking and peer debriefing.
 
-## Connected Concepts
-
-- [[language-learning]]
-- [[generative-ai]]
-- [[motivation]]
-- [[higher-ed]]
-- [[pedagogical-agent]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[self-regulated-learning]]
-- [[feedback]]
-- [[ai-literacy]]
-- [[trust]]
-
-## Connected Articles
-
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-assisted English learning tools
-- [[genai-pronunciation-feedback-wtc-2026]] — GenAI pronunciation feedback and willingness to communicate
-- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
-
 ## Citation
 
 Annamalai, N., Nasor, M., Din Eak, A., & Alkubaisy, A. A. A. (2026). [*Students' experiences of using ChatGPT for English language learning: A qualitative study in a Malaysian higher education institution*](https://doi.org/10.3389/fpsyg.2026.1875727). *Frontiers in Psychology, 17, 1875727*.

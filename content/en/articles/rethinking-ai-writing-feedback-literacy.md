@@ -19,7 +19,6 @@ confidence: high
 
 ## Core Finding
 
-
 ## Background and Motivation
 
 [[generative-ai|Generative AI]] tools such as ChatGPT and Claude now deliver immediate, repeated, and abundant writing feedback across grammar, vocabulary, structure, and argumentation. This changes the learner's task: rather than merely accessing feedback, students must judge whether AI suggestions are accurate, relevant, and worth acting on. The author argues the central [[pedagogy|pedagogical]] challenge is no longer access but the capacity to evaluate, select, and implement feedback critically. Prior literature treated AI mainly as an input condition (AI vs. non-AI) and largely overlooked the internal processes through which students judge feedback credibility, reassess their own texts, and translate judgments into revision — a gap this study addresses with process data and a framework linking feedback use, self-assessment calibration, revision behavior, and writing improvement.
@@ -60,33 +59,6 @@ Strengths include a controlled factorial design with process data (decision shee
 - 120 undergraduate English majors at a single university, studied across one six-week course with four writing time points, so transfer beyond this discipline, institution, and duration is untested.
 - Self-assessment accuracy was not balanced at baseline: the APCA group already showed lower raw self-assessment error, which is why the inferential SAA comparisons rely on baseline-adjusted models.
 - Effective adoption rate was measured directly only in the FRAC and combined conditions, so uptake was not compared on equal terms across all four groups.
-
-## Connected Concepts
-
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[self-assessment]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[feedback-literacy]]
-
-## Connected Articles
-
-- [[learner-centered-feedback-ai]]
-- [[care-full-feedback-genai]]
-- [[ai-generated-feedback-higher-ed]]
-- [[ai-internal-feedback-evaluative-judgments]]
-- [[ai-feedback-enactment-workflow-2026]]
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]]
-- [[agency-gap-ai-writing]]
-- [[ai-feedback-critical-thinking-writing-2026]]
-- [[cognitive-offloading-llm-synthesis-writing]]
-- [[feedback-futures-genai]]
 
 ## Citation
 

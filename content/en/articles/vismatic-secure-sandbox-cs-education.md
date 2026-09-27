@@ -37,22 +37,6 @@ The framework provides a scalable blueprint for [[academic-integrity|preserving 
 - There is no control group or side-by-side comparison with an unmonitored JupyterHub deployment, so the security advantage is argued architecturally rather than measured; isolation results come from one single-tenant deployment observed between March and May.
 - The authors do not claim absolute security and describe the work as a risk-management approach, and the stated deterrence effect — that measuring dedication discourages shortcuts — is an expectation rather than an outcome the study measured.
 
-## Connected Concepts
-- [[cs-education]]
-- [[open-source]]
-- [[automated-assessment]]
-- [[stem-education]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-## Connected Articles
-
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
-- [[moodle-ai-tutoring-deep-learning]] — From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle
-- [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
-- [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
-
 ## Citation
 
 Arroyo, G., López, L., & Torres, J. C. (2026). [*Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education*](https://arxiv.org/abs/2606.05929).

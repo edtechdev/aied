@@ -60,34 +60,6 @@ The equity reading is less comfortable. Students working through diagrammatic pr
 - Binary correctness scoring treats a response that identifies the right physics principle but slips on arithmetic the same as a completely wrong answer, understating the educational value of partial solutions.
 - Model variants differed across conditions — reasoning-optimized models for the text-only baseline, vision-integrated models for the multimodal condition — and no inter-rater verification confirmed that the researcher's corrections stayed free of domain-relevant information.
 
-## Connected Concepts
-
-- [[socratic-method]]
-- [[math-education]]
-- [[pedagogical-agent]]
-- [[intelligent-tutoring]]
-- [[multimodal]]
-- [[physics-education]]
-- [[llm]]
-- [[scaffolding]]
-- [[agentic-ai]]
-- [[teacher-ai-competency]]
-- [[stem-education]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[ai-scoring-language-bias-physics]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]]
-- [[ai-metacognition-stem-review]]
-- [[correct-answer-trap-ai-tutor]]
-- [[ai-tutor-behavioral-evaluation]]
-- [[aaai2026-prompting-literacy-k12]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[access-not-enough-ai-tutoring-2026]]
-- [[stanford-evidence-base-ai-k12-2026]]
-
 ## Citation
 
 Syal, A., Prince, L. S. X., Gultepe, E., Brown, N. B., & Sridhar, S. (2026). [*Multimodal Dialogue in STEM Education*](https://arxiv.org/abs/2605.04131).

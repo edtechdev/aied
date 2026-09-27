@@ -65,35 +65,5 @@ Teachers judged outputs on authenticity and usefulness: realistic, aligned with 
 - Scope relied on an [[llm|LLM-as-a-judge]] (GPT-5) scoring other models, mitigated with a human rater (κ = 0.69) and second judge (κ = 0.64); generation was zero-shot only, and one elementary teacher was interviewed.
 - The lineup is superseded: submission 19 November 2025, acceptance 13 May 2026, no data-collection window, so results describe models current then.
 
-## Connected Concepts
-- [[llm]]
-- [[simulating-students]]
-- [[generative-ai]]
-- [[science-education]]
-- [[prompt-engineering]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[prior-knowledge]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[benchmark]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-- [[llm-student-simulation-teacher-insights]] — Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators
-- [[simulating-students-llm-review-2026]] — Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with Generative AI
-- [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation with Large Language Models
-- [[inside-llm-student-simulator-reasoning-2026]] — INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators
-- [[simulating-students-diverse-cognitive-levels-2025]] — Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents
-- [[prompting-teachability-novice-personas-lbt-2026]] — Prompting for Teachability: Designing Novice Personas in LLMs for Learning by Teaching Contexts
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]] — Suitability of Artificial Intelligence Supported Lesson Plans from the Perspective of Science Education Experts
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Beyond operational skills: Teachers' AI knowledge and interactions with generative AI in lesson planning
-
 ## Citation
 Nguyen, H., & Cao, J. (2026). [*Exploring the Capacity of Large Language Models to Simulate Students' Scientific Thinking: Insights for Responsive Teaching*](https://doi.org/10.1007/s10956-026-10333-5). *Journal of Science Education and Technology*.

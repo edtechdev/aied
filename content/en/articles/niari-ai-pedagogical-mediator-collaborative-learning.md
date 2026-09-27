@@ -42,24 +42,6 @@ The paper positions AI as an active participant in the orchestration of interact
 - The boundary distinctions between mediator and tutor, peer, coach, or orchestrator are argued conceptually; nothing in the paper shows that these roles are separable in deployed systems or that teachers and students can recognize which one they are working with.
 - The framework's theoretical bases (sociocultural theory, distributed cognition, connectivism, and sociomaterial/posthuman accounts) differ in their commitments about where agency resides, so the central claim that AI redistributes rather than displaces authority remains contested rather than demonstrated.
 
-## Connected Concepts
-
-- [[collaborative-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[ai-education]]
-- [[learning-theories]]
-- [[constructivist]]
-- [[pedagogical-agent]]
-- [[self-regulated-learning]]
-
-## Connected Articles
-
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in human-AI co-regulation of learning
-- [[ai-agents-constructive-conflict-design-education-2026]] — AI agents in collaborative design education
-- [[human-ai-collaboration-prerequisite-functions]] — Prerequisite functions for effective human-AI collaboration
-- [[ai-collaborative-learning-systematic-review]] — Systematic review of AI-supported collaborative learning
-
 ## Citation
 
 Niari, M. (2026). [*Beyond Automation: AI as a Pedagogical Mediator in Collaborative Learning*](https://doi.org/10.60923/issn.2532-8816/24266). *Umanistica Digitale*, (24).

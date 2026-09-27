@@ -53,25 +53,6 @@ methods: [usability-research, qualitative-research]
 - No inter-rater reliability was calculated; the authors state that disagreements were resolved through discussion because of dataset size.
 - Most participants taught [[stem-education|STEM]] subjects, with only one of the six representing the [[humanities-education|humanities]], and the authors note that rapid [[llm]] change warrants replication.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[pedagogical-safety]]
-- [[guardrails]]
-- [[student-ai-interaction]]
-- [[agency]]
-
-## Connected Articles
-
-- [[human-centered-ai-teacher-educators-2026]] — Human-centered AI design work with teacher educators
-- [[eduzone-llm-safety-k12]] — Safety boundary framework for generative AI in K-12 settings
-- [[hazra-safetutors-pedagogical-safety-2026]] — Pedagogical safety as an explicit design objective for AI tutors
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Teacher and student views on control and agency in classroom AI
-- [[wang-teacher-ai-co-design-review-2026]] — Review of teacher co-design approaches in educational AI
-
 ## Citation
 
 Reichert, H., Briceno, D., Tabarsi, B., & Barnes, T. (2026). [*Human-centered design of LLM-powered educational chatbots: A study with secondary teachers*](https://doi.org/10.1007/978-3-032-31048-4_32). In *HCI International 2026: Human-Computer Interaction* (Lecture Notes in Computer Science, pp. 516–535). Springer.

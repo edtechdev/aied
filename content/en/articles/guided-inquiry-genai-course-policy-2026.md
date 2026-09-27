@@ -7,7 +7,6 @@ foundations: [agency, ai-education, ai-literacy, curriculum-design, teacher-role
 pedagogy: [student-engagement]
 technology: [generative-ai]
 ethics: [ethics]
-connected_faqs: [course-ai-policy]
 sources: ['raw/papers/2608.28501.md']
 confidence: high
 research_method: [thematic analysis]
@@ -48,28 +47,6 @@ Students described the policy design process itself as valuable, noting that it 
 - The study included no baseline or pre-intervention measure and is not intended to demonstrate changes in students' AI literacy or learning gains attributable to the activity; the reported themes may reflect pre-existing views.
 - The module was designed around the researchers' prior knowledge of this group's interest in discussing GenAI and their disciplinary background, so replication elsewhere would require similar attention to participant characteristics, rapport, and local relevance.
 - The evidence is student-produced artifacts and reflective writing about their own reasoning, so it captures what participants articulated in the activity rather than observed changes in their later AI practice.
-
-## Connected Concepts
-- [[generative-ai]]
-- [[ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[agency]]
-- [[ai-literacy]]
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[higher-ed]]
-- [[ethics]]
-- [[curriculum-design]]
-
-## Connected Articles
-- [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — "Should I Tell My Teacher?" Student AI Disclosure Practices
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond Detection: How Students Use—and Hide—AI
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
 
 ## Citation
 Hingle, A., & Johri, A. (2026). [*A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies*](https://arxiv.org/abs/2608.28501). arXiv:2608.28501.

@@ -5,7 +5,6 @@ updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, self-efficacy, social-emotional-learning]
-connected_faqs: [ai-anxiety-wellbeing]
 audience: [learners]
 research_method: [survey]
 level: [higher ed, adult learning]
@@ -43,25 +42,6 @@ Duan, Li, Lin, & Chen (2026) provide direct empirical evidence that career-relat
 - The cross-sectional survey supports no causal claim and captured no external behavioral criteria; career preparedness and goal clarity were measured, not actual job search behavior or employment.
 - Career adaptability and career decision self-efficacy showed insufficient discriminant validity (HTMT = 0.92), so the null moderation finding may reflect overlapping measurement rather than a genuinely absent effect.
 - Reliance on self-reported, partly short-form scales — including an adapted measure of AI-triggered anxiety rather than a validated AI anxiety inventory — may have underestimated the true relationships.
-
-## Connected Concepts
-
-- [[anxiety-and-stress]]
-- [[career-development-and-readiness]]
-- [[self-efficacy]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[well-being]]
-- [[motivation]]
-- [[student-experience]]
-
-## Connected Articles
-
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
-- [[kim-ai-anxiety-comprehensive-analysis]] — comprehensive analysis of AI anxiety
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and job-finding anxiety
-- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — workforce readiness framework
 
 ## Citation
 

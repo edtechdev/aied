@@ -53,27 +53,6 @@ This paper contributes a *validity-oriented framework* for comparing latent stru
 - Non-public datasets and proprietary systems constrain replication and leave an unresolved contamination risk: the private assessment instrument had to be uploaded to proprietary tools, data are available only on request, and the authors cannot rule out that the instrument influenced later model versions.
 - Only the internal-structure aspect of validity is tested; generalization to related tasks that measure the same underlying abilities is left untested, and prompting strategies, generation parameters, and interfaces can bias LLM response patterns even when standardized.
 
-## Connected Concepts
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[psychometrically-aware-ai]]
-- [[item-response-theory]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[generative-ai]]
-- [[benchmark]]
-- [[automated-assessment]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM-simulated and human examinees for psychometric calibration
-- [[llm-item-difficulty-prediction]] — Cognitive evaluation of LLM item-difficulty prediction
-- [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validated GenAI literacy test
-- [[llm-difficulty-calibration-programming-exams-2026]] — From evaluated models to evaluation aids
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and reconceptualizing assessment validity
-- [[ground-truth-reliability-aied]] — Modernizing ground truth in AIED evaluation
-
 ## Citation
 
 Strugatski, A., Zeinfeld, L., & Alexandron, G. (2026). [*Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis*](https://arxiv.org/abs/2608.15630). [cs.HC].

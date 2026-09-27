@@ -8,7 +8,6 @@ pedagogy: [learning-theories]
 technology: [generative-ai, human-in-the-loop-ai, rag]
 assessment: [feedback]
 ethics: [equity-in-ai-education]
-connected_faqs: [ai-feedback-at-scale]
 audience: [instructors, researchers]
 research_method: [theoretical analysis]
 level: [higher ed]
@@ -64,27 +63,6 @@ The editors distill five recurring tensions from the special issue:
 - The evidence base is the issue's seven papers, several of them small studies, so the editorial offers no sample statistics or effect sizes of its own.
 - Some of the evidence it leans on is itself self-report — for example survey perceptions of trust in [[genai-teacher-feedback-comparison]] — so claims about uptake and trust inherit that limitation.
 - The editorial notes that the human feedback quality underpinning assumptions of relational superiority was rarely verified in the 41 studies of Kaliisa et al.'s meta-analysis, leaving that premise theoretical.
-
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[human-in-the-loop-ai]]
-- [[ai-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[agency]]
-- [[governance]]
-- [[ai-feedback-quality]]
-- [[assessment]]
-## Connected Articles
-
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
-- [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative a...
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
-- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers' practices and perceptions
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
 
 ## Citation
 

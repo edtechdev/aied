@@ -54,37 +54,6 @@ methods: [meta-analysis-systematic-review]
 - No formal risk-of-bias instrument was used, consistent with the review's mapping rather than efficacy aim; integration depth was graded on the SAMR model and synthesized thematically, not appraised for effect size.
 - Synthesis was narrative, which the authors state restricts causal or generalizable conclusions, and the evidence base is time-sensitive: many included studies were exploratory, limited in scale, or pilots, with a single Redefinition-level example.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[generative-ai]]
-- [[llm]]
-- [[automated-assessment]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[meta-analysis-systematic-review]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[curriculum-design]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[research-methods-aied]]
-
-## Connected Articles
-
-- [[genai-higher-education-systematic-review-2026]] — Complementary systematic review of GenAI specifically in higher education
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of generative AI's effect on educational outcomes (AI-driven vs traditional)
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of tertiary students' AI adoption
-- [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Organizational drivers of AI adoption in higher ed
-- [[ai-distance-education-systematic-review-2026]] — Systematic review of AI in distance education
-- [[ai-vocational-education-training-review]] — Systematic review of AI in vocational education and training
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
-
 ## Citation
 
 AlSheikh, M. H., Zaini, R., ALmulhem, M. A., & Ahmad, S. (2026). [Mapping artificial intelligence integration in higher education: A systematic review using the FACETS and SAMR frameworks](https://doi.org/10.3389/feduc.2026.1871468). *Frontiers in Education, 11*, 1871468.

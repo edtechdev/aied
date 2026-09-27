@@ -60,30 +60,6 @@ The anchors also exposed a specific scoring failure. ANCHOR-11, whose body was a
 - Both mode comparisons rest on single runs on different dates using model aliases rather than fixed snapshots: an archived gpt-4o run produced ICC(2,1) = .238 and MAE = 12.28 against .435 and 6.28 for gpt-4o-mini.
 - The 95% intervals came from 2,000 writer-cluster bootstrap samples drawing 15 writers with replacement and condition on the two observed raters, while human dimension agreement was near zero for clarity (.012) and compliance (.173) — the automated scores are compared against a weak human yardstick on exactly those dimensions.
 
-## Connected Concepts
-
-- [[automated-essay-scoring]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[llm]]
-- [[business-education]]
-- [[writing-education]]
-- [[feedback]]
-- [[simulation]]
-- [[quantitative-research]]
-
-## Connected Articles
-
-- [[bandit-driven-llm-essay-scoring-2026]] — Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring
-- [[gpt-human-rater-essay-assessment-2026]] — Comparing GPT and human raters in essay assessment: Variability, bias, and the potential of LLM-based scoring
-- [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models
-- [[pecuchova-automated-grading-open-ended-genai-2026]] — Automated Grading of Open-Ended Questions in Higher Education Using GenAI Models
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — Can AI Evaluate Assessment? A Study of Large Language Model Meta-Assessment Performance
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
-- [[genai-marketing-education-roles-2026]] — When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education
-- [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education
-
 ## Citation
 
 Xinan Li (2026). [*Agreement and error in automated scoring of student marketing posts*](https://osf.io/preprints/edarxiv/w4fzp_v1/). EdArXiv Preprints.

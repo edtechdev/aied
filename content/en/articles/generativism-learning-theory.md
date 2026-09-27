@@ -40,26 +40,6 @@ Generativism has profound implications for [[intelligent-tutoring|instructional 
 - The rapid pace of AI development means the specific technologies referenced in the article may evolve substantially, potentially altering the dynamics of human-AI learning in ways the framework cannot anticipate.
 - The framework is a position paper with no new data ("No new data were generated or analyzed in this study"), so it can propose constructs and assessment indicators but cannot establish effects on learning.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[higher-ed]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[intelligent-tutoring]]
-- [[formative-assessment]]
-- [[teacher-role]]
-- [[llm]]
-- [[constructivist]]
-- [[cognitive-offloading]]
-- [[theory-development-aied]] — Theory Development in AI in Education
-## Connected Articles
-
-- [[cognitive-offloading-llm-synthesis-writing]]
-- [[cognitive-shift-ai-education]]
-- [[finkelstein-principled-ai-education-2025]]
 ## Citation
 
 Li, S., & Zheng, J. (2026). [Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence](https://arxiv.org/abs/2606.12441).

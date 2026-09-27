@@ -63,34 +63,6 @@ Recommendations respond to unclear institutional positions, inequity for interna
 - Recruitment let participants self-select, plausibly those with developed views, and the paper is a pre-print.
 - PGR study is heterogeneous, so a cross-faculty sample of 15 loses interdisciplinary nuance the authors say needs comparative work.
 
-## Connected Concepts
-
-- [[generative-ai]] — the technology PGRs negotiated task by task across the doctorate
-- [[academic-integrity]] — the frame students used to judge writing help, and the site of inter-student disagreement
-- [[agency]] — researcher agency, authenticity and the refusal to delegate the intellectual process
-- [[cognitive-offloading]] — "offloading" read as cheating, plus the process and skill development students feared losing
-- [[ai-literacy]] — the literacy students said institutions had not built, and that they partly built for their supervisors
-- [[ai-use-disclosure]] — concealment, guilt and shame, against the case for openly declared GenAI use
-- [[hallucination-risk]] — hallucinations and "confabulations" as the reason verification became continuous
-- [[privacy]] — qualitative transcripts as too sensitive to upload, against quantitative data seen as decontextualised
-- [[multilingual-learning]] — foreign language anxiety and GenAI as writing support for non-native English speakers
-- [[equity-in-ai-education]] — international students, structural disadvantage and institutional reciprocal accountability
-- [[learner-identity]] — researcher identity, intellectual ownership and the impostor phenomenon cross-reading
-- [[teacher-ai-competency]] — supervisors as enthusiasts, prohibitors or silencers whose own GenAI knowledge was uneven
-
-## Connected Articles
-
-- [[ji-student-voices-academic-integrity-scoping-2026]] — Scoping review of student voices on academic integrity with generative AI
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Competing student readings of GenAI as cheating tool or learning partner
-- [[ai-tools-academic-work-cheating-2026]] — Student perceptions of whether AI use for academic work counts as cheating
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Disclosure, stigma and self-regulated learning in student GenAI use
-- [[qu-wang-disclose-or-not-genai-2026]] — Peer influence and psychological factors in disclosing generative AI use
-- [[student-genai-use-views-writing]] — Student use of and views on GenAI for academic writing
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Dependency on AI considered alongside literacy and academic self-efficacy
-- [[colbran-student-perspectives-genai-chatbots-2026]] — Human-centered mixed-methods account of student perspectives on AI chatbots
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi study on institutional policy and practice for generative AI
-- [[ai-dependence-academic-writing-ipace-2026]] — Factors behind dependence on generative AI in writing courses
-
 ## Citation
 
 Saxena, G., Tierney, A., Grist, H., O'Leary, R., & Palmer, A. (2026). [*From Research Assistant to Surrogate Supervisor: A Qualitative Study Exploring PGR Students' Diverse Uses of Generative AI*](https://osf.io/preprints/psyarxiv/wf3y8_v1). University of Bristol. Pre-print, Version 1, 24 August 2026.

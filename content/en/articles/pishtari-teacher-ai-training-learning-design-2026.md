@@ -5,7 +5,6 @@ updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [educational-development, learning-design, teacher-role]
 technology: [generative-ai, prompt-engineering]
-connected_faqs: [faculty-development-ai]
 methods: [mixed-methods-research]
 sources: ['raw/papers/pishtari-teacher-ai-training-learning-design-2026.md']
 research_method: [experiment]
@@ -40,24 +39,6 @@ confidence: high
 - The intervention was a short session, providing no evidence on whether design practices persist or transfer.
 - Design quality was scored on a narrow set of manually evaluated binary indicators (Bloom, ICAP, Narrative), which may not capture the broader quality of a learning activity.
 - Results reflect one model and interface (iChat) and one training format, and self-reported effort, evaluations, and adoption intentions may not predict actual future use; the authors label the study exploratory.
-
-## Connected Concepts
-
-- [[learning-design]]
-- [[teacher-role]]
-- [[teacher-education]]
-- [[educational-development]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-
-- [[guillen-curriculum-genai-teacher-competence-2026]] — Teacher competence frameworks for GenAI
-- [[llm-intervention-design-cs-review]] — LLM interventions in education
-- [[li-language-educators-genai-review-2026]] — Language educators and GenAI
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — AI literacy in practice
 
 ## Citation
 

@@ -59,27 +59,6 @@ Thirty-six of 38 secondary school teachers from a workshop on mathematical model
 - **Quality was judged by expert consensus and teacher survey, not classroom outcomes.** Content quality rested on a five-dimensional evaluative framework taken from a conference paper and used as an organizing structure rather than a formally validated instrument, with 91.4% inter-coder agreement on the teacher comments and acknowledged rater-pool bias.
 - **No comparison condition and only immediate outcomes.** The case study assessed immediate learning outcomes and engagement without parallel instructional conditions using teacher-authored materials or generic LLM-generated outputs; at the time of writing, no local mathematics textbooks including modeling tasks were available for comparison. The authors also warn that the same-day pre-/post-test design and the structural similarity between lecture examples and test items may have inflated the observed gains, and they did not study teachers' use of the platform's conversational assistant to iteratively edit or deploy materials in their own classrooms.
 
-## Connected Concepts
-
-- [[math-education]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[prompt-engineering]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[problem-solving]]
-- [[rag]]
-
-## Connected Articles
-
-- [[didactical-teacher-assistant-dimensional-modeling]] — Both papers build AI teacher assistants that ground instructional output in domain-specific design frameworks to support lesson preparation.
-- [[dai-chatbots-problem-posing-primary-2026]] — Both examine generative-AI tools that pose mathematics problems, here extended from primary problem-posing to secondary mathematical modeling.
-- [[ai-tpack-mathematics-teacher-education-2026]] — Both situate AI integration in secondary mathematics teaching and consider the teacher competencies and beliefs required to use AI tools effectively.
-
 ## Citation
 
 [Creating an AI-powered platform for generating modelling problems: A case study on direct variation in secondary school mathematics](https://doi.org/10.1016/j.caeai.2026.100640) — Lo, C. K., Huang, X., Cheung, H. W., Yee, T. L., Bai, S., Chen, G., & Tlili, A. (2026). *Computers and Education: Artificial Intelligence*, 11, 100640.

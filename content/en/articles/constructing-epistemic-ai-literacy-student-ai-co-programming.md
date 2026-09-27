@@ -47,18 +47,6 @@ The study operationalizes epistemic constructs that are normally hard to observe
 - The authors state the dataset's size and scope should be expanded as resources permit to enable stronger generalization and re-validation of the epistemic patterns.
 - Epistemic aims are inferred from discourse markers and linguistic indicators in logged dialogue, so the constructs are operationalizations of observable talk rather than direct evidence of a learner's intent.
 
-## Connected Concepts
-- [[critical-thinking]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[theory-development-aied]] — Theory Development in AI in Education
-## Connected Articles
-
-- [[agentic-education-coding]]
 ## Citation
 
 Mengqian Wu (2026). [Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming](https://arxiv.org/abs/2607.00211).

@@ -11,7 +11,6 @@ page_kind: [framework]
 sources: ['raw/papers/ai-communities-of-inquiry-2026.md']
 confidence: medium
 audience: [instructors, instructional designers, institutions]
-connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** This conceptual article by the creators of the [[community-of-inquiry|Community of Inquiry]] (CoI) framework argues that generative AI adoption in education requires a coherent theoretical framework. Drawing on the CoI framework and its construct of [[metacognition|shared metacognition]], it shows how [[collaborative-learning|collaborative inquiry]] can integrate AI in ways that preserve human [[agency]] and sustain deep, meaningful learning. It warns that without critical, reflective inquiry, learners risk passivity, diminished authenticity, and overdependence on AI outputs. Shared [[metacognition]] — collective monitoring and management of thinking — offers a responsible pathway for engaging critically with AI-generated content.
@@ -39,25 +38,6 @@ connected_faqs: [asynchronous-online-courses-ai]
 - Its empirical anchors are cited rather than generated: the metacognitive-support evidence it leans on (Martha et al., 2023) used the Shared Metacognition questionnaire in collaborative inquiry without generative AI, so the AI-specific claims remain untested.
 - The framework and the instrument it recommends come from the same tradition as its authors — the Community of Inquiry framework and the Shared Metacognition instrument (Garrison & Akyol, 2015) — so the article extends its own theory rather than testing it against rival accounts.
 - The five-role taxonomy is tied to the tools current at writing (ChatGPT, Copilot, Gemini, Claude); the authors themselves cite the warning that generative AI change is outpacing our capacity to understand and regulate it.
-
-## Connected Concepts
-
-- [[online-teaching-and-learning]]
-- [[collaborative-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[pedagogy]]
-- [[learning-design]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-
-- [[ai-metacognition-stem-review]]
-- [[wang-multi-agent-systems-learning-designers-2025]]
-- [[genai-educational-outcomes-meta-analysis]]
-- [[generative-ai-reduced-study-time-math]]
 
 ## Citation
 

@@ -47,30 +47,6 @@ level: [higher ed]
 - The control condition was not AI-free, since ChatGPT was widely available to students outside class, so it represents typical e-portfolio practice rather than a pure baseline.
 - The qualitative themes rest on 27 purposively interviewed experimental students only, and no follow-up beyond the 8-week intervention tested whether the increases were maintained.
 
-## Connected Concepts
-
-- [[language-learning]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[english-education]]
-
-## Connected Articles
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future
-- [[genai-pronunciation-feedback-wtc-2026]] — Associations Between Generative AI–Based Pronunciation Feedback and Willingness to Communicate in English
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Multimodality and Social Interactions in AI-Enhanced Embodied Robot-Assisted Language Learning: A Meta-Analysis
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-Generated versus Human-Developed Assessment Tasks in EFL Context: Insights from TPCK Model
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review
-- [[irwin-muller-efl-peer-feedback-literacy]] — Positioning Generative AI in EFL Peer Feedback: Training Feedback Literacy and Enabling Uptake in Speaking Classes
-- [[liu-deris-ai-feedback-literacy-uptake]] — AI Feedback Literacy in Higher Education: Understanding, Measuring, and Predicting Student Feedback Uptake
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Summarize, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-
 ## Citation
 
 Laksana, I.P.Y., Ratminingsih, N.M., Santosa, M.H., & Kusuma, I.P.I. (2026). [*Aligning ChatGPT with e-portfolio assessment as EFL learning model: its effect on students' speaking performance and feedback literacy*](https://doi.org/10.29140/tltl.2026.103616). *Technology in Language Teaching & Learning*, 8, 103616. CC BY-NC 4.0.

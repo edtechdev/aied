@@ -43,25 +43,6 @@ confidence: high
 - The study assessed "pure" no-code, GUI-oriented vibe coding in a controlled laboratory with the generated source hidden, so results may not transfer to permissive LLM-augmented workflows that expose code, to non-GUI tasks such as data analysis, or to professional developers and citizen programmers.
 - Tests and tasks were strictly timed — several participants ran out of time while close to a correct solution — and the cross-sectional design supports prediction, not causal claims about what improves vibe-coding skill.
 
-## Connected Concepts
-
-- [[vibe-coding]]
-- [[cs-education]]
-- [[prompt-engineering]]
-- [[writing-education]]
-- [[computational-thinking]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
-- [[conversational-agents-novice-programmers-scoping-2025]] — Exploring Conversational Agents for Novice Programmers: A Scoping Review
-- [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn with Generative AI: A Theoretically Grounded Framework for Artifact Construction in Upper-Secondary Education
-
 ## Citation
 
 Thorgeirsson, S., Weidmann, T. B., & Su, Z. (2026). [Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency](https://doi.org/10.1145/3772318.3791666). *Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)*, Barcelona, Spain. 17 pages.

@@ -38,18 +38,6 @@ audience: [instructional designers, learning analytics designers]
 - The pre-test used to assign students to triads had a Cronbach's alpha of 0.443, and 18.9% of the variance in performance improvement was attributable to triad membership (ICC = 0.189), which the authors cite alongside the small sample as a constraint on the significance tests.
 - The adaptive scaffold is a conceptual design, not a tested intervention: the authors state that real-time automatic classification of utterances and a design-based research evaluation of learning gains remain future work, and they note that sequential pattern mining does not specify the time interval between indicators in a sequence.
 
-## Connected Concepts
-
-- [[collaborative-learning]] — the CPS context under study
-- [[scaffolding]] — the adaptive scaffold being designed
-- [[adaptive-learning]] — the personalization approach
-- [[learning-analytics]] — process-mining methodology on speech/task logs
-- [[student-modeling]] — individual-level process modeling
-- [[k-12]] — the secondary-school sample
-- [[student-engagement]] — on-task vs scripting behaviors
-- [[metacognition]] — the phases (problem identification, ideation/planning) scaffolded
-- [[self-regulated-learning]] — individual regulation within collaborative work
-
 ## Citation
 
 Wong, K., Bulathwela, S., & Cukurova, M. (2026). [*Towards an adaptive AI scaffold for developing student collaborative problem solving*](https://doi.org/10.1016/j.learninstruc.2026.102418). *Learning and Instruction*, 105, 102418.

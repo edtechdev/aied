@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, ai-education, limitations-in-aied-research]
 technology: [generative-ai]
 assessment: [assessment-validity, learning-gains, peer-assessment]
-connected_faqs: [reporting-interpreting-aied-research]
 research_method: [secondary analysis]
 level: [k 12, higher ed, adult learning]
 page_kind: [synthesis, evaluation]
@@ -47,25 +46,6 @@ institutions: [educational-policy-ai]
 - Only part of the primary-study sample was selected randomly: 5 studies were drawn at random from each of 12 of the 14 meta-analyses (60 selections representing 46 unique publications) and 13 more were targeted for a priori suspicion. The 61% prevalence figure (28/46) applies only to the random subset; targeted counts cannot be used as prevalence estimators.
 - The corpus was not intended to be exhaustive: the study did not attempt to identify every AIED meta-analysis published during the review period, so the findings do not give the prevalence of validity failures across the field as a whole.
 - Several audit thresholds are deliberately permissive operational screening criteria rather than assertions of safe practice — for example, flagging studies that tested more than five moderator variables without adjusting the critical value.
-
-## Connected Concepts
-
-- [[research-methods-aied]]
-- [[meta-analysis-systematic-review]]
-- [[limitations-in-aied-research]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[generative-ai]]
-- [[learning-gains]]
-
-## Connected Articles
-
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis: bias-adjusted AI effects ~1/3 of reported size
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
-- [[genai-educational-outcomes-meta-analysis]] — A large meta-analysis of generative AI's effect on educational outcomes
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
-- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning (PNAS 2025 RCT)
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
 
 ## Citation
 

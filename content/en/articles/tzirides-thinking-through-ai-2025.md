@@ -71,24 +71,6 @@ The framework bridges [[usability-research|user experience]] and educational des
 - The four think-aloud participants were selected by the classroom teacher rather than sampled, and the data are students' oral reflections and observations — the study reports no measured writing gains and no comparison condition.
 - The authors state the setting limits generalization: a small and relatively homogeneous rural population, with unclear transfer to urban schools or higher education.
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[writing-education]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[human-ai-collaboration]]
-- [[student-engagement]]
-- [[learning-design]]
-
-## Connected Articles
-
-- [[agency-gap-ai-writing]]
-- [[cstutorbench-slm-tutors]]
-- [[code-anchor-multi-view-visualization]]
-
 ## Citation
 
 Tzirides, A., Galla, M., Cope, B., & Kalantzis, M. (2025). [*Thinking Through AI: Advancing Cognitive and Collaborative Research for AI in Education*](https://doi.org/10.35542/osf.io/s8hqe_v1). EdArXiv. doi:10.35542/osf.io/s8hqe_v1.

@@ -39,24 +39,6 @@ audience: [researchers, instructors, instructional designers]
 - Engagement was operationalized solely through behavioral indicators (AI suggestion adoption rate and interaction duration), capturing behavioral manifestations and not the affective or cognitive dimensions of the construct.
 - Short-term, single-session interaction (15-minute ideation then 15-minute writing) leaves longitudinal effects unknown, and the cognitive load induced by the robot's physical gestures was not quantified.
 
-## Connected Concepts
-
-- [[collaborative-learning]] — the collaborative writing context
-- [[llm]] — the AI generating creative content
-- [[creativity]] — the outcome being enhanced
-- [[embodied-learning]] — embodiment as a design variable
-- [[educational-robotics]] — the robot embodiment
-- [[student-engagement]] — the mediating variable
-- [[higher-ed]] — the study context
-- [[ai-education]] — the umbrella field
-
-## Connected Articles
-
-- [[humanlike-ai-collaborative-writing]]
-- [[ai-in-the-wild-college]]
-- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]]
-- [[teacher-ai-teaming-five-levels]]
-
 ## Citation
 
 Liu, Y., & Song, Y. (2026). [*Enhancing creative writing with robot-LLM integration: The interplay of embodiment, AI creativity and user engagement*](https://doi.org/10.1111/bjet.70071). *British Journal of Educational Technology*, 57, 1320–1347.

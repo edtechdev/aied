@@ -40,19 +40,6 @@ Three broader findings emerge: (1) model scale is not a reliable predictor of do
 - Two results rest on partial evidence: the LoRA rank-sensitivity finding comes from pilot observations rather than a systematic rank sweep, and adapters trained at full precision were applied to 4-bit Q4_K_M weights with no comparison across quantization schemes.
 - No fairness analysis (L1 group, demographic, or writing style) and no user study: the platform is in classroom use, but no pedagogical impact or formative-feedback efficacy is reported — only scoring accuracy.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[llm]]
-- [[generative-ai]]
-- [[edtech-platform]]
-- [[open-source]]
-- [[writing-education]]
-- [[automated-essay-scoring]]
-## Connected Articles
-
-- [[short-answer-scoring-quality-degradation]]
-- [[icle-plus-plus-essay-scoring]]
 ## Citation
 
 Gayed, J. M. (2026). [AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models](https://arxiv.org/abs/2606.12801).

@@ -67,34 +67,6 @@ The causal caution is explicit. The style–CSE associations rest on 6 to 11 stu
 - The style–CSE associations rest on very small subgroups — 6 to 11 students per usage category (requesting feedback n = 11, summarizing meaning n = 6) — and the per-style analyses are exploratory rather than confirmatory.
 - The design is correlational and the window of about eleven weeks is too short for the human–AI relationship to have stabilized, so it cannot separate the effect of a usage style from the disposition of the students who chose it; the authors themselves frame AI as a supportive element under specific relational conditions rather than as a cause of change, and their forward agenda is longer [[research-methods-aied|longitudinal work]] that adds perceived control and sense of agency over AI, with the wider caution — captured in [[limitations-in-aied-research|work on AIED limitations]] — that output quality and self-perception are not interchangeable outcomes.
 
-## Connected Concepts
-
-- [[creativity]] — the outcome domain, framed through the mini-c view of personally meaningful novelty
-- [[self-efficacy]] — CSE and creative personal identity as the two measured components of creative self-belief
-- [[student-engagement]] — the persistence question the paper asks about sustained voluntary AI use
-- [[design-thinking]] — the design sprint pedagogy and hand-drawn workflow in which the study ran
-- [[design-education]] — the single-course disciplinary setting and its transferability limits
-- [[generative-ai]] — the technology whose use styles were compared
-- [[llm]] — conversational systems such as ChatGPT supplying the usage options
-- [[human-ai-collaboration]] — AI as feedback partner and meaning-making interlocutor rather than search substitute
-- [[learner-identity]] — creative personal identity and the attribution of output to oneself
-- [[agency]] — perceived control over the creative process as the proposed explanatory mechanism
-- [[feedback]] — requesting feedback from AI as the usage style most clearly tied to CSE gains
-- [[limitations-in-aied-research]] — small subgroups, attrition and correlational design in AIED evidence
-
-## Connected Articles
-
-- [[t2i-competence-paradox-2026]] — Ease, risk and creative identity among art and design students using text-to-image AI
-- [[rana-genai-design-thinking-2025]] — Generative AI inside design thinking pedagogy, on creativity and ethical reasoning
-- [[think-first-chatgpt-later-2026]] — Sequence of human and AI work and its effect on independent creativity
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Design creativity in AI-enabled project-based learning environments
-- [[genai-creativity-k12-scoping-review-2026]] — Scoping review mapping generative AI against creativity outcomes
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Longitudinal analysis of how students' prompting strategies shift over time
-- [[ai-collaborative-learning-skills-impacts]] — Impacts of AI-supported collaboration on creativity and critical thinking
-- [[chatgpt-critical-creative-thinking-review]] — Review of ChatGPT's effects on critical and creative thinking
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal evidence on AI usage, ethics and policy in higher education
-- [[self-efficacy-tutoring-learning]] — Measuring self-efficacy change as an outcome of AI and tutor support
-
 ## Citation
 
 Okamoto, R., & Inasaka, A. (2026). [*The Influence of Generative AI Usage Styles on Creative Self-Beliefs: Findings from a Longitudinal Study in Design Education*](https://osf.io/preprints/psyarxiv/sak29_v1). Manuscript, Saitama Institute of Technology and Chiba Institute of Technology.

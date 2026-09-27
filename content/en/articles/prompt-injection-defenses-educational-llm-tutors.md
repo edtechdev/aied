@@ -45,24 +45,6 @@ The paper highlights that **educational settings have unique requirements**: fal
 - Evaluation used an offline single-turn protocol, so the Layer 4 session-level behavioral heuristics register zero blocks by design and could not be measured directly.
 - It targets one deployment context, a programming tutor in English and Portuguese, leaving transfer to subjects such as math and science unverified.
 - No user-centric outcomes were measured (perceived helpfulness, trust, or learning gains) because no live student or educator study was run, and the robustness sweep covered only 10 seeds.
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[pedagogical-safety]] — domain-specific requirements of educational safety
-- [[llm]] — the tutor models under test
-- [[hallucination-risk]] — guardrail failure modes
-- [[trust]] — maintaining student trust via zero false positives
-- [[trust-calibration]] — balancing security against usability
-- [[regulation]] — evidence-based guardrail selection under institutional risk
-## Connected Articles
-
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[pedagogical-safety-rl]]
-- [[conversational-ai-tutors-framework]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[vetting-dual-llm-safety-education]] — Dual-LLM safety vetting for education
 ## Citation
 
 Maiorano, A. C. (2026). [Evaluating prompt injection defenses for educational LLM tutors: Security-usability-latency trade-offs](https://arxiv.org/abs/2605.06669).

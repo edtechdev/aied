@@ -27,18 +27,6 @@ confidence: high
 - **Annotation was automated without human agreement checks:** every turn was labeled by gpt-5-mini under a prompt-based procedure, and the authors did not evaluate agreement between LLM-based and human annotations.
 - **Six courses at one institution:** the 2,078 logs and 15,887 turns all come from the Technion, and the authors note that extending the study would allow assessing generality.
 
-## Connected Concepts
-
-- [[llm]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-
 ## Citation
 
 Taelin Karidi, Ofra Amir, Ido Roll (2026). [AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI](https://arxiv.org/abs/2606.29442). cs.CY (AIED 2026).

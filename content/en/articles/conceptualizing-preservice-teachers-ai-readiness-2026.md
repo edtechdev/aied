@@ -40,21 +40,6 @@ confidence: high
 - Data come from one national system with one translation, and the sample skews female (65.03%) and senior (61.20%), so the five-factor structure is untested in other languages and teacher-education systems.
 - Group comparisons rest on collapsed categories (underclassmen vs. upperclassmen; public vs. private) analyzed with non-parametric Quade tests, since Shapiro–Wilk tests showed non-normal distributions for every factor (p < 0.001).
 
-## Connected Concepts
-
-- [[teacher-education]]
-- [[tpack]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[assessment]]
-
-## Connected Articles
-
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Ethics domain of intelligent-TPACK and in-service teachers' trust
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK readiness in mathematics teacher education
-- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based professional development framework
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — Scoping review of AI in preservice teacher development
-
 ## Citation
 
 Reyes-Rojas, J., Díaz, B., Ruz-Reveco, C., Castro, A., & Reyes-González, D. (2026). [*Conceptualizing pre-service teachers' readiness for AI integration into teaching practices: An intelligent-TPACK approach*](https://doi.org/10.1016/j.caeo.2025.100320). *Computers and Education Open*, 100320. https://doi.org/10.1016/j.caeo.2025.100320

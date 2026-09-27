@@ -75,25 +75,6 @@ Because the four pillars map onto the ABET student outcomes (SO1–SO7), a WRL t
 - The four-pillar partition and the 0–3 anchor scale are design assumptions chosen for rater workflow and single-page reporting, not a validated factor structure; construct-validity and reliability studies are explicitly future work.
 - Only the WRL 4–7 band was exercised: the awareness stages (WRL 1–3) and the supervisory and innovation stages (WRL 8–9) were untested by this undergraduate capstone pilot, and replication beyond one site is pending.
 
-## Connected Concepts
-
-- [[stem-education]]
-- [[professional-training]]
-- [[ai-literacy]]
-- [[human-ai-collaboration]]
-- [[higher-ed]]
-- [[curriculum-design]]
-- [[experiential-learning]]
-
-## Connected Articles
-- [[ai-engineering-education-balancing-act]] — The Balancing Act in AI Engineering Education
-- [[ai-learning-tools-engineering-education-needs]] — AI Learning Tools and Engineering Education Needs
-- [[competency-based-education-genai-production-2026]] — Knowledge, Skills, Attitudes, Production: Competency-Based Education After Generative AI
-- [[ase-26-agentic-software-engineering-curriculum]] — Agentic Software Engineering Curriculum (ASE-26)
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — AI-Assisted SE Curriculum Syllabus Analysis
-- [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
-- [[mixed-reality-engineering-learning]] — Mixed Reality in Engineering Learning
-
 ## Citation
 
 Smith, D. R., Whittington, W., Martinez, A., Duncan, A., & Li, G. (2026). [*A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era*](https://arxiv.org/abs/2608.11540).

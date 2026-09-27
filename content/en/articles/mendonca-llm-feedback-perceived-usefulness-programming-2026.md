@@ -65,22 +65,6 @@ Regressing perceived usefulness on the remaining response-level dimensions expla
 - Data were collected once and no measures of revision, performance, or learning were taken, so the study cannot show whether the feedback improved students' work.
 - Students rated perceived accuracy, while the objective correctness of the feedback was not independently assessed, and student agency and equity of outcomes were not measured. Context comparisons are observational, the contexts differ in several ways at once, and the 27-student secondary group limits precision, so the non-significant results are not evidence of equivalence. Ratings were voluntary and response rates are unknown, so selective non-response among less favorable students cannot be ruled out. Ratings clustered at the top of the scale, each dimension rested on a single item, the usefulness and intention associations are correlational and open to common method variance, and the two feedback layers used different models, so layer and model varied together.
 
-## Connected Concepts
-
-- [[formative-assessment]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[technology-acceptance-model]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-
-## Connected Articles
-
-- [[ai-generated-feedback-higher-ed]]: AI and feedback in university education
-- [[ai-feedback-enactment-workflow-2026]]: Making AI-generated feedback matter
-- [[ai-supported-automated-programming-assessment-2026]]: AI-supported automated programming assessment
-
 ## Citation
 
 Mendonça, P. C., Quintal, F., Figueiredo, M., & Mendonça, F. (2026). [*Perceived usefulness and intention to use large language model-generated feedback across three educational levels: a user-centred study in programming*](https://doi.org/10.3389/feduc.2026.1934069).

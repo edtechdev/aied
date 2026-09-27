@@ -75,26 +75,6 @@ For [[cs-education]], the study shows that real-time dyadic regulation is tracta
 - The study ran in a controlled laboratory setting with short-duration debugging tasks, which the authors say may not generalize to classroom, remote, or industrial contexts.
 - The system depends on specialized sensing infrastructure — dual eye tracking and pupillometry — which poses practical and financial constraints for large-scale deployment.
 - Tasks contained only logical bugs and no syntax errors, so the forecaster has not been tested on open-ended or ambiguous programming work, and transfer to unsupervised pair work is untested.
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[collaborative-learning]]
-- [[feedback]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[multimodal]]
-- [[pedagogical-agent]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[student-modeling]]
-
-## Connected Articles
-
-- [[ai-collaborative-learning-systematic-review]]
-- [[clara-collaboration-literacy-dashboard]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-
 ## Citation
 
 Golrang, A., Sharma, K., Dehaen, S., & Viberg, O. (2026). [*ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming*](https://arxiv.org/abs/2605.02703).

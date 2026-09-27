@@ -35,25 +35,6 @@ This paper contributes to the growing body of [[research-methods-aied|research]]
 - Assistance is one-way narration: the system cannot answer questions or explain unfamiliar words, which reduces its usefulness in realistic reading situations, and the authors additionally report narration quality problems in grammar, pronunciation, repetition, delay and voice naturalness, especially for languages other than English (the study was run in German).
 - One participant was excluded and 13.2% of gaze data removed by the tracking-quality filter, so the attention analysis rests on a filtered subset of the collected sessions.
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[equity-in-ai-education]]
-- [[k-12]]
-- [[generative-ai]]
-- [[adaptive-learning]]
-- [[student-experience]]
-- [[multimodal]]
-## Connected Articles
-
-- [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
-- [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
-- [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of [[learning-gains|Learning Outcomes]]
-- [[mixed-reality-engineering-learning]] — Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning
-
 ## Citation
 
 Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, Anna Maria Feit (2026). [Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration](https://arxiv.org/abs/2607.00445). submitted 1 Jul 2026

@@ -30,18 +30,6 @@ confidence: high
 - Attention checks injected deterministic incorrect suggestions, which the authors note do not replicate the spontaneous hallucinations students face in real coding work, and suggestion type or complexity was not recorded.
 - Interaction logging stops at the first action after a suggestion appears, so engagement that continues after acceptance (or deletion) was not measured, and participation credit did not depend on performance, so the authors cannot rule out students using external tools such as Google or ChatGPT.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[formative-assessment]]
-- [[cs-education]]
-- [[stem-education]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[transfer-of-learning]]
-## Connected Articles
-
 ## Citation
 
 Jessica Hutchison, Ian Tyler Applebaum, Kenneth Angelikas, Kush Rakesh Patel, Phuoc Nguyen, Antonio Lazaro, Nicholas Rucinski, Rahad Arman Nabid, Stephen MacNeil (2026). [To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks](https://arxiv.org/abs/2606.30549). cs.HC (ITiCSE 2026).

@@ -57,29 +57,6 @@ The central finding is that ethical AI guidance in engineering education is **pr
 - No quality appraisal or study weighting was applied to the included studies, so a methodologically weak study counts as heavily as a rigorous one.
 - Inclusion was restricted to English-language, peer-reviewed, empirical studies published between 2000 and 2025, so the corpus skews toward English-language higher education contexts.
 
-## Connected Concepts
-
-- [[engineering-education]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[educational-development]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[ai-ethics-education-public-discourse]] — Longitudinal Analysis of Public Discourse on AI Ethics in Education
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
-- [[genai-policies-higher-ed-computing]] — Institutional and Course GenAI Policies in Higher Education
-- [[ethical-ai-higher-ed-game-theory]] — Ethical AI Use in Higher Education: A Coordination Game Framework
-- [[genai-declaration-frameworks-higher-education]] — Domain-Specific GenAI Declaration Frameworks
-- [[moral-panic-genai-classroom]] — Moral Panic and GenAI in the Classroom
-- [[genai-chinese-higher-education-integrity-2026]] — GenAI, Academic Integrity, and Intellectual Engagement in Chinese Higher Education
-
 ## Citation
 
 Osunbunmi, I. S., Moyaki, D., Fakiyesi, V. O., Dunmoye, I. D., Nwanua, M. I., Oloyede, M., Bamidele, B. R., Feyijimi, T. R., & Hunsu, N. (2026). [*Ethical Use of Artificial Intelligence in Engineering Education: A Systematic Review*](https://peer.asee.org/). ASEE Annual Conference & Exposition, Paper ID #52865.

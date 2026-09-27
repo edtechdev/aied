@@ -39,18 +39,6 @@ level: [higher ed]
 - Sessions ran about 60 minutes total across three topics, so assessment pressure, peer dynamics, and sustained use over a full term went unobserved.
 - Task accuracy and completion rates were not analyzed as outcomes, so the engagement patterns cannot be linked to performance differences; gaze was tracked with webcam-based WebGazer and treated descriptively, which cannot support fine-grained attention claims.
 
-## Connected Concepts
-
-- [[cs-education]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[active-learning]]
-
-## Connected Articles
-
-- [[flowcode-ai-creative-coding]] — Flowcode: AI-powered programming environment for scaffolding creative coding
-- [[instructional-guidance-genai-learning]] — Role of instructional guidance in GenAI-assisted learning
-
 ## Citation
 
 Sibia, N., Wen, J., Richardson, A., Jain, Y., Malik, K., Simion, B., Nobre, C., Zavaleta Bernuy, A., Petersen, A., & Liut, M. (2026). [*Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations*](https://arxiv.org/abs/2606.19570). ICER 2026.

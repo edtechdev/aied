@@ -43,28 +43,6 @@ The review is significant because it bridges a classical [[learning-theories|lea
 - Its evidence is published journal text and term-frequency patterns, so the AI solutions it proposes — adaptive systems, intelligent tutoring, administrative automation, data-driven teacher support — are argued rather than independently tested.
 - Restricting inclusion to peer-reviewed journal articles excludes Gray literature and unpublished or negative results, leaving the synthesis open to publication and selection bias.
 
-## Connected Concepts
-
-- [[situated-learning]]
-- [[learning-theories]]
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[ai-education]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[genai-educational-outcomes-meta-analysis]] — broader synthesis of AI's effects on [[learning-gains|learning outcomes]]
-- [[ai-vocational-education-training-review]] — documents the constructivism/behaviorism gap in AI for education, complementing this review's constructivist framing
-- [[self-directed-growth-generative-ai-learning-analytics]] — related framing of AI as a scaffold for self-directed, context-aware learning
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — the role of human guidance and critical engagement with AI
-
 ## Citation
 
 Vargas, E. G., Chiappe, A., & Durand, J. (2024). [*Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature*](https://doi.org/10.58863/20.500.12424/4293074). *Journal of Social Studies Education Research*, 15(2), 1–28.

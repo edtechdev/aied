@@ -92,26 +92,6 @@ CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation c
 - Items were rated by experts rather than deployed in a course, so effects on student learning or [[assessment-validity|assessment validity]] in authentic settings are unmeasured.
 - The Generator (GPT-4.1) and Validator (GPT-5-mini) are specific commercial models, so dimension-level success rates may not transfer to other backbones.
 
-## Connected Concepts
-
-- [[human-in-the-loop-ai]]
-- [[agentic-ai]]
-- [[rag]]
-- [[automated-assessment]]
-- [[automated-question-generation]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[misconceptions]]
-## Connected Articles
-
-- [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
-- [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
-- [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[llm-difficulty-calibration-programming-exams-2026]] — From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators
-
 ## Citation
 
 Duan, X., Nwanganga, F., & Wang, C. (2026). [*CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation*](https://arxiv.org/abs/2604.03926).

@@ -62,22 +62,6 @@ Participants described each role as demanding a distinct way of thinking. The Ca
 - Four design principles are offered for future work: explicit role guidance and facilitation, deliberate exposure to multiple professional perspectives, structured [[metacognition|collaborative reflection]] on AI-supported information, and authentic professional cases as the context for AI-supported activity.
 - The model was adapted iteratively during the intervention, with role descriptions and reflection prompts revised as difficulties surfaced. The authors call for multi-institutional, longitudinal, and mixed-methods studies, and for comparisons between rotating and stable role structures, to test whether rotation adds distinctive benefits for perspective-taking, collaborative accountability, and critical evaluation of AI outputs.
 
-## Connected Concepts
-
-- [[generative-ai]] — AI used as a source of preliminary ideas and cognitive support in case work
-- [[collaborative-learning]] — role rotation as a way to distribute responsibility across a group
-- [[metacognition]] — the reflective dimension of the Reflective Researcher role
-- [[critical-thinking]] — verification and contextual judgment applied to AI-generated recommendations
-- [[trust-calibration]] — overreliance on apparently authoritative AI responses
-- [[human-ai-collaboration]] — critical human-AI interaction as the object of the design
-- [[design-based-research]] — the five-phase iterative methodology
-
-## Connected Articles
-
-- [[talebzadeh-ai-group-activity-roles-2026]] — The Architecture of Roles in AI-Designed Group Activities
-- [[reflective-triangle-model-teacher-ai-2026]] — The Reflective Triangle Model: AI as a Cognitive Mediator
-- [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI Literacy Training for Teacher Education Students
-
 ## Citation
 
 Kenzhebayeva, Z., Matayev, B., Sarsembayeva, E., Kolyukh, O., Assenova, N., & Ospanova, A. (2026). [*Designing an AI-integrated role-rotation pedagogical model to support competence-related learning in pre-service educational psychologists*](https://doi.org/10.3389/feduc.2026.1905781).

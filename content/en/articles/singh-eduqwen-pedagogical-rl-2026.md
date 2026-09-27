@@ -40,25 +40,6 @@ The EduQwen project addresses a fundamental misalignment in [[llm]] behavior for
 - Only one backbone was optimized (Qwen3-32B, plus a single Qwen3-30B-VL run); the authors state they could not test larger open-source models such as DeepSeek-R1 or Qwen3-235B-A22B-Thinking because of compute and time costs.
 - The TutorBench transfer result of 61.64% came from one SFT run with 596 filtered synthetic responses and used a different judge (Claude-4.5-Sonnet) than the official leaderboard (Claude-4-Sonnet), so it is not directly comparable with published leaderboard numbers.
 
-
-
-## Connected Concepts
-
-- [[open-source]]
-- [[pedagogical-llm-training]]
-- [[pedagogical-safety]]
-- [[llm]]
-- [[reinforcement-learning]]
-- [[benchmark]]
-- [[intelligent-tutoring]]
-- [[edtech-platform]]
-## Connected Articles
-
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterizing AI Tutor Blind Spots When Analyzing Student Reasoning
-- [[pedagogical-safety-rl]] — Pedagogical Safety in Educational Reinforcement Learning
-- [[educational-llm-alignment]] — Educational LLM Alignment
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference
-
 ## Citation
 
 Singh, N. P., Wang, X., Garikipati, A., Ciobanu, M., Mao, Q., & Das, R. (2026). [*Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via RL and SFT*](https://arxiv.org/abs/2604.06385).

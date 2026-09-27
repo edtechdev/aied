@@ -47,23 +47,6 @@ discipline: [engineering education]
 - No learning outcome was measured: the study reports model performance and a deployed question-bank website, not student performance with the feedback.
 - Course-specific expertise is still required to choose questions and critical intermediate answers, which the authors name first among their three limitations because it restricts how far the question bank can expand; they also flag representation bias from imbalanced mistake frequency and interaction bias as risks.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[machine-learning]]
-- [[higher-ed]]
-- [[engineering-education]]
-
-## Connected Articles
-
-- [[reddig-maclellan-personalized-feedback-llm-2026]] — LLM-based error diagnosis and personalized feedback for tutors on structured problems
-- [[yasir-llm-tutoring-agents-2026]] — diagnosing feedback gaps in AI tutoring
-- [[making-ai-tutoring-productive-mastery-math-2026]] — productive AI tutoring for mastery learning in mathematics
-- [[llm-formative-feedback-systematic-review-2026]] — systematic evidence on LLM-generated formative feedback
-- [[oatutor-open-source-adaptive-tutor-2023]] — an open-source adaptive tutoring platform
-
 ## Citation
 
 Yin, Z., Karakaya, E., Bass, K., & Cai, H. (2026). [Arthur: An artificial intelligence powered teaching assistant system for Engineering Economics class](https://doi.org/10.1016/j.ijaied.2026.100003). *International Journal of Artificial Intelligence in Education*, 36, Article 100003.

@@ -40,21 +40,6 @@ audience: [curriculum designers, instructors, medical educators]
 - Legacy enrollments constrained the analysis: enrollment-weighted tests, student-level ordinal mixed models, and rater-reliability estimates (double-rating with quadratic weighted kappa or ICC) were not possible and are listed as future refinements.
 - Tool drift is uncontrolled across the multi-year deployment, which is why the authors recommend standardized AI-usage disclosures with defined version windows.
 
-## Connected Concepts
-
-- [[problem-based-learning]]
-- [[generative-ai]]
-- [[engineering-education]]
-- [[curriculum-design]]
-- [[scaffolding]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]]
-- [[tam-critical-use-genai-engineering-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-
 ## Citation
 
 Nnamdi, M.C., Tamo, J.B., Marteau, B., Shi, W., & Wang, M.D. (2026). [*Advancing problem-based learning in biomedical engineering in the era of generative AI*](https://doi.org/10.1109/TE.2026.3658007). *IEEE Transactions on Education*, 69(2).

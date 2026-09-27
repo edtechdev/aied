@@ -56,29 +56,6 @@ A second motivation is [[sustainability]]: if every student query carries a clou
 - Quality diagnostics are partial: perplexity was a local 500-token probe rather than a corpus-level measure, and hallucination was scored by a two-stage NLI procedure against retrieved OER chunks (κ = 0.76 agreement with expert judgment).
 - The corpus is 82 English-medium open-licensed Markdown documents benchmarked on a single consumer GPU, which limits generalization to other languages and resource settings.
 
-## Connected Concepts
-
-- [[cs-education]]
-- [[open-source]]
-- [[privacy]]
-- [[llm]]
-- [[rag]]
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[generative-ai]]
-- [[edtech-platform]]
-- [[intelligent-tutoring]]
-- [[sustainability]]
-
-## Connected Articles
-
-- [[vismatic-secure-sandbox-cs-education]] — VS-MATIC: secure sandboxed environments for computing education
-- [[lata-ferpa-compliant-local-llm-autograder]] — FERPA-compliant local LLM grading
-- [[oatutor-open-source-adaptive-tutor-2023]] — Open-source adaptive tutor
-- [[simulating-students-java-programming-errors-llms]] — LLMs as simulated learners in CS
-- [[reshaping-cs-education-genai]] — Reshaping CS education with GenAI
-- [[caruana-pre-university-ai-education-slr-2026]] — SLR of pre-university AI education (Caruana et al. 2026)
-
 ## Citation
 
 Shen, X., Feng, L., Hua, S., Liu, D., Xie, Z., & Liu, B. (2026). [*Towards sustainable AI knowledge-base assistants in computer science education: on-premise deployment and optimization with open educational resources*](https://doi.org/10.3389/fpsyg.2026.1843444). *Frontiers in Psychology*, 17, 1843444. https://doi.org/10.3389/fpsyg.2026.1843444

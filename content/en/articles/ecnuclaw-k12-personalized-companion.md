@@ -48,22 +48,6 @@ ECNUClaw advances the field of [[personalized-learning]] by operationalizing rea
 - Profile accuracy has not been formally evaluated against human expert assessments, the self-efficacy and motivation rules use fixed increment/decrement steps, and there is no evidence yet that the profile converges to an accurate representation of the learner over time.
 - The interface is CLI-only, which limits accessibility for younger students who may not be comfortable with a terminal; a graphical interface would be needed for real classroom deployment.
 
-## Connected Concepts
-
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[affective-tutoring]]
-- [[regulation]]
-- [[k-12]]
-- [[student-modeling]]
-- [[privacy]]
-## Connected Articles
-
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[nie-personavlm-long-term-personalization-2026]]
 ## Citation
 
 Zhou, Y., Li, J., & Zhang, Z. (2026). [*ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education*](https://arxiv.org/abs/2605.08040).

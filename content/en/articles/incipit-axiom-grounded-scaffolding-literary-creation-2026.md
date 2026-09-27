@@ -55,36 +55,5 @@ Coherence, contextual reach, distinctiveness, realization fidelity and interpret
 - All 47 Type C and all 123 Type D records populate both era and region lists, so the context labels cannot support comparative analysis until the taxonomy is repaired.
 - 1,448 of 1,455 axioms map to exactly one work, so co-occurrence and graph analysis are sparse, and the artifact has no held-out annotation set, no calibrated strengths (curator-supplied mean 0.839) and no public archival identifier or dataset license.
 
-## Connected Concepts
-- [[scaffolding]]
-- [[creativity]]
-- [[theory-development-aied]]
-- [[storytelling-in-education]]
-- [[situated-learning]]
-- [[knowledge-graph]]
-- [[educational-nlp]]
-- [[evaluative-judgment]]
-- [[educational-measurement]]
-- [[benchmark]]
-- [[research-methods-aied]]
-- [[human-ai-collaboration]]
-- [[humanities-education]]
-- [[writing-education]]
-- [[llm]]
-
-## Connected Articles
-- [[mindcopilot-llm-co-writing]] — MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Enhancing creative writing with robot-LLM integration
-- [[generativism-learning-theory]] — Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence
-- [[human-ai-collaboration-prerequisite-functions]] — What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it
-- [[multimodal-knowledge-graph-educational-reasoning]] — Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-Based Layered Hybrid AI-Driven Knowledge Model for Personalized E-Learning
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: The Trivalence Model of Potential Co-Creativity in Socio-Technical Networks
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding
-- [[academic-erasure-complexity-ai-writing-2026]] — Academic Erasure: The Disappearance of Complexity Under AI-Supported Writing
-- [[genai-creativity-k12-scoping-review-2026]] — Generative Artificial Intelligence and Creativity in K–12 Education: A Systematic Scoping Review
-
 ## Citation
 Liu, Q., & Zhao, C. (2026). [Incipit: Axiom-Grounded Scaffolding for Human-AI Literary Creation](https://arxiv.org/abs/2609.25504). arXiv:2609.25504.

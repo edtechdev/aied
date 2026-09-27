@@ -36,23 +36,6 @@ methods: [ai-ed-evaluation, benchmark]
 - The analysis is text-only, ignoring the prosody, timing, and visual interactional signals that CLASS scoring relies on in practice.
 - Each transcript segment was annotated by a single expert, so inter-rater reliability could not be assessed and annotation noise or subjective bias remains possible.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[educational-nlp]]
-- [[llm]]
-- [[feedback]]
-- [[teacher-role]]
-- [[ai-ed-evaluation]]
-- [[learning-analytics]]
-- [[assessment]]
-
-## Connected Articles
-
-- [[teaching-feedback-classification-benchmark]] — Teaching feedback classification benchmark
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: feedback loop for educators
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
-
 ## Citation
 
 Bueno, I., Bühler, B., Stark, P., Fütterer, T., Trautwein, U., Demszky, D., Hill, H., & Kasneci, E. (2026). *[From scoring to explanations: Evaluating SHAP and LLM rationales for rubric-based teaching quality assessment](https://arxiv.org/abs/2606.05180)*. Findings of ACL 2026.

@@ -37,21 +37,5 @@ The paper contributes a measured, null-result perspective to the often-overenthu
 - The analysis isolates the NASA-TLX data from a broader project, so learning outcomes, motivational data, and platform traces are not examined here.
 - All six primary comparisons were non-significant, so the interpretation rests on descriptive separations and two exploratory pairwise salience results that were not corrected for multiple comparisons.
 
-## Connected Concepts
-- [[game-based-learning]]
-- [[higher-ed]]
-- [[motivation]]
-- [[student-experience]]
-- [[learning-design]]
-- [[self-regulated-learning]]
-- [[learning-analytics]]
-- [[cognitive-offloading|cognitive load]]
-
-## Connected Articles
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS Motivational Ergonomics (companion study)
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment with EEG
-- [[genai-tutor-engagement-patterns]] — GenAI Tutor Engagement Patterns
-- [[simon-student-engagement-adaptive-learning-2026]] — Student Engagement and Adaptive Learning
-
 ## Citation
 Speranza, M. (2026). [*Perceived Workload Across Traditional, Gamified and Artificial Intelligence-Supported Learning Conditions: A NASA-TLX Study in Higher Education*](https://osf.io/preprints/edarxiv/e5bk2_v1/). EdArXiv preprint.

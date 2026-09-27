@@ -57,26 +57,6 @@ All models perform worse when student evidence is Vague (implicit, incomplete, o
 - Only TIMSS "Knowing" and "Applying" domains covered; "Reasoning" skills excluded due to problem set characteristics
 - Static benchmark; does not capture iterative diagnostic processes teachers use in practice
 
-## Connected Concepts
-
-- [[math-education]]
-- [[cognitive-diagnosis]]
-- [[benchmark]]
-- [[llm]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[multimodal]]
-- [[teacher-role]]
-- [[cognitive-offloading]]
-- [[ai-ed-evaluation]]
-
-## Connected Articles
-
-- [[ground-truth-reliability-aied]]
-- [[llm-fallacy-misattribution]]
-- [[llm-handwritten-math-grading]]
-
 ## Citation
 
 Kim, Y., Jin, H., Doh, H., Kim, E., Jung, D., Kim, S., Choi, K., Son, J., & Kim, J. (2025). [*Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work*](https://arxiv.org/abs/2504.00843).

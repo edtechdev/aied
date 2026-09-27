@@ -46,20 +46,6 @@ level: [secondary, adult learning, teacher education]
 - Participants received no definition of AI or descriptions of the individual AI-use areas, so it cannot be assumed that all of them understood the items in the same way.
 - Comparing literacy scores against the Hornberger reference sample (n = 1286, 31 items, M = 18.79) is limited by different maximum scores (30 versus 31 items) and a different sample composition.
 
-## Connected Concepts
-
-- [[stem-education]]
-- [[ai-literacy]]
-- [[teacher-education]]
-- [[educational-development]]
-
-## Connected Articles
-
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in lesson planning
-- [[ai-perceptions-students-teachers-motivation-2026]] — AI perceptions, motivation, and self-efficacy
-- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK PD framework
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK in mathematics teacher education
-
 ## Citation
 
 Maurer, N., Brückner, M., Thyssen, C., Becker-Genschow, S., & Huwer, J. (2026). [*Science educators' AI literacy and AI usage in teaching: Implications for post-qualification programs*](https://doi.org/10.1016/j.caeo.2026.100376). *Computers and Education Open*, 100376. https://doi.org/10.1016/j.caeo.2026.100376

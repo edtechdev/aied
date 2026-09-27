@@ -35,18 +35,6 @@ The ethics education gap identified here suggests that [[ai-literacy|AI literacy
 - Sub-group findings (by gender, ethnicity, or school) come from categories combined for sample-size reasons and are described by the authors as suggestive and exploratory rather than robust; ethnicity analysis was limited to White and Asian respondents.
 - Concern levels and justifications are self-reported, and respondents regularly underestimated how many of their peers shared their ethical concerns, which the authors flag as a limitation on any claim about actual workplace behavior.
 
-## Connected Concepts
-
-- [[teacher-ai-competency]]
-- [[equity-in-ai-education]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[cs-education]]
-- [[ai-literacy]]
-## Connected Articles
-
-- [[pedagogical-safety-rl]]
 ## Citation
 
 Abdalla, M., Abdalla, S., Cappello, A., Dowling, K., Metaxa, D., Widder, D. G., & Stinson, C. (2026). [Cost-of-ethics crisis: Beliefs, decisions, and justifications in the job searches of computer science students in Canada and the United States](https://arxiv.org/abs/2605.09680).

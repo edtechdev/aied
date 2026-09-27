@@ -72,36 +72,6 @@ The three hand-constructed error cases in the appendix make the failure modes co
 - The knowledge graph is built from Chinese curricula — People's Education Press textbooks plus the Smart Education of China platform — with units and concepts extracted by DeepSeek-V3 and then corrected by domain experts; reuse in another language or system requires replacing the corpus, re-extracting the hierarchy and re-validating prerequisites.
 - Model rankings were produced under a single simulator configuration, and the authors note that testing rankings under alternative configurations would require rerunning every planner.
 
-## Connected Concepts
-
-- [[recommender-systems-and-learning-paths]] — The decision layer this benchmark evaluates
-- [[personalized-learning]] — Goal-directed personalization as the open problem
-- [[knowledge-graph]] — The textbook–unit–concept hierarchy and its prerequisites
-- [[adaptive-learning]] — Adaptation to learner state as the bottleneck
-- [[student-modeling]] — Personas, archetypes and mastery vectors
-- [[curriculum-design]] — Prerequisite ordering as an evaluated constraint
-- [[mastery-learning]] — Unit-level mastery thresholds and step budgets
-- [[item-response-theory]] — The simulator's ability–difficulty model
-- [[cognitive-diagnosis]] — Learner-state estimation feeding a planner
-- [[knowledge-tracing]] — The state-estimation tradition the benchmark supplies as input
-- [[hallucination-risk]] — Fictitious textbooks and concepts as a validity failure
-- [[human-in-the-loop-ai]] — Teacher review of generated paths
-- [[higher-ed]] — The higher-education split is markedly harder
-- [[k-12]] — Basic education as the benchmark's largest split
-
-## Connected Articles
-
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian DINA diagnosis and shortest remediation paths, mediated by cognitive load
-- [[proprl-prerequisite-relation-learning]] — Prerequisite relation learning with an irreversibility constraint
-- [[learning-paths-patterns-learning-design-2026]] — Markov and pattern-mining analysis of 29,064 designed activities across 554 courses
-- [[fair-explainable-edu-recommendations]] — Heterogeneous knowledge graph plus GRU recommender with fairness and counterfactual explainability
-- [[knowledge-gap-detection-ai-tas]] — Mapping AI TA questions to a prerequisite graph to find curriculum-level gaps
-- [[pattern-kc-programming-recommendation]] — Recommending programming practice by pattern-based knowledge-component similarity
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — A long-horizon benchmark for pedagogical LLM agents with simulated learners
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — How perceived personalization can reduce self-regulated learning
-- [[nie-personavlm-long-term-personalization-2026]] — Long-term learner personalization with multimodal profiles
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs as a lifelong-learning alternative to fixed curricula
-
 ## Citation
 
 Liu, Y., Liu, Z., Zhang, T., Cheng, Z., Guo, Y., Chen, K., Zhang, M., Wang, Y., & Wang, H. (2026). [*PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning*](https://arxiv.org/abs/2609.18861). AACL-IJCNLP 2026 Main Conference.

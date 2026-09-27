@@ -42,26 +42,5 @@ audience: [instructors, assessment designers]
 - The interpretive design supports conceptual insight rather than generalization: the authors state the findings are not statistically generalizable and rely on cross-sectional data, offering a snapshot rather than a longitudinal view of change.
 - Both researchers are UK lecturers who had marked essays they suspected were AI-assisted and had redesigned assessments under uncertainty; the paper acknowledges this proximity as a limitation as well as a resource, and its planned comparison of AI-generated outputs with pre-AI student writing is reported as unused.
 
-## Connected Concepts
-- [[academic-integrity]]
-- [[writing-education]]
-- [[cognitive-offloading]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-detection]]
-- [[critical-thinking]]
-- [[ai-misuse-learning-harm]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[ethics]]
-- [[student-ai-interaction]]
-
-## Connected Articles
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Student strategies for regulating generative AI use in academic writing
-- [[agency-gap-ai-writing]] — Initiative design of AI writing agents and its effect on learner agency
-- [[ai-tools-academic-work-cheating-2026]] — Student use of AI tools in academic work
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Automated approaches to academic dishonesty
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative approaches to building AI literacy
-
 ## Citation
 Nwagboso, C., & Atuba, S. (2026). [*Academic erasure: The disappearance of complexity under AI-supported writing*](https://doi.org/10.1080/13562517.2026.2707601). Teaching in Higher Education.

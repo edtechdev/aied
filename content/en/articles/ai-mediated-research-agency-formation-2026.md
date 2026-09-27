@@ -48,19 +48,5 @@ The contribution reframes the question: rather than asking whether generative AI
 - All measures are researcher [[self-report-measures|self-report]] from peer-based WeChat groups among astronomy early-career researchers in China; the setting limits generalization and the absent institution identifiers prevent team-level analysis.
 - Both focal measures were purpose-built: split-sample factor analysis and the expert review support a broad one-factor AI-dependence structure but call for independent-sample validation, and supervisory support measured general encouragement, feedback, and respect for independent judgment rather than AI-specific epistemic supervision.
 
-## Connected Concepts
-- [[agency]]
-- [[generative-ai]]
-- [[self-efficacy]]
-- [[human-ai-collaboration]]
-- [[higher-ed]]
-- [[learner-identity]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-- [[pgr-students-genai-uses-qualitative-2026]] — From Research Assistant to Surrogate Supervisor (doctoral students' GenAI uses)
-- [[academic-erasure-complexity-ai-writing-2026]] — Academic Erasure and complexity under AI-supported writing
-- [[ai-assisted-writing-research-teams]] — How AI-assisted writing transforms research teams
-
 ## Citation
 Han, S., & Liu, P. (2026). [*AI-mediated research agency formation in higher education: Autonomy, self-efficacy and innovation in early-career scientific training*](https://doi.org/10.1016/j.caeai.2026.100674). *Computers and Education: Artificial Intelligence*, 100674.

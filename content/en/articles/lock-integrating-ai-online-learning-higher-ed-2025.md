@@ -13,7 +13,6 @@ research_method: [literature review, thematic analysis]
 audience: [institutions, instructors, policymakers]
 level: [higher ed]
 page_kind: [synthesis]
-connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 ---
 
@@ -47,28 +46,6 @@ It complements the knowledge base's other online-learning syntheses by emphasizi
 - Database coverage was limited to six ProQuest, ERIC, and EBSCO databases plus a hand-built list of 16 educational-technology journals, which the authors state should be broadened for a wider scope.
 - Inclusion was restricted to published English texts in refereed journals, books, chapters, and conference proceedings from 2020 to 2025 with a [[higher-ed|higher education]] focus, and 5 of the 63 citations reported no geographic location for the study.
 - Themes were derived by the author team's own spreadsheet synthesis rather than through a coded protocol with inter-coder agreement checks.
-
-## Connected Concepts
-
-- [[online-teaching-and-learning]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[self-regulated-learning]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[remote-proctoring]]
-- [[ai-ed-evaluation]]
-
-## Connected Articles
-
-- [[ai-student-engagement-online-learning-review-2025]] — AI and student engagement in online learning: literature review
-- [[ai-online-education-engagement-satisfaction-2026]] — Systematic review of AI in online education: engagement and satisfaction
-- [[ai-distance-education-systematic-review-2026]] — Systematic review of AI in distance education
-- [[genai-higher-education-systematic-review-2026]] — Systematic review of GenAI in higher education
-- [[ai-decision-support-online-learning-assessment-2026]] — AI decision support in online learning assessment
 
 ## Citation
 

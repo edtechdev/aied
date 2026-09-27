@@ -18,7 +18,6 @@ page_kind: [evaluation]
 source_url: https://doi.org/10.5281/zenodo.22828386
 sources: ['raw/papers/bounded-reliance-ai-writing-feedback-2026.md']
 confidence: high
-connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale, reducing-over-reliance]
 contributors: [editor]
 reviewed_by: [editor]
 ai_assist:
@@ -77,15 +76,6 @@ Two boundaries are worth stating before the findings are generalized. The apprai
 - **Self-reported perceptions from brief interviews.** Data were retrospective accounts gathered in roughly fifteen-to-twenty-minute interviews, which limits the depth of narrative available; no revision behavior, drafts or writing outcomes were collected, so the link between stated reliability judgments and actual use of feedback is asserted rather than observed.
 - **An established framework applied to a new kind of source.** Source Credibility Theory was developed for human communicators, and while the authors argue it transfers, the dimensions were not measured with a validated instrument and the study does not test whether the three-part structure holds for algorithmic sources in general.
 - **Findings are bounded by the instructional framing.** Students were told the tool was a supplementary learning resource within a course that kept the instructor central, which plausibly shaped both the goodwill reservations and the hybrid preference; the results may look different where [[ai-feedback-quality|AI feedback]] is the primary or only source of response.
-
-## Connected Concepts
-[[feedback]], [[feedback-literacy]], [[trust]], [[trust-calibration]], [[privacy]], [[generative-ai]], [[conversational-ai]], [[student-ai-interaction]], [[human-ai-collaboration]], [[ai-literacy]], [[critical-thinking]]
-
-## Connected Articles
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
-- [[trust-calibration-chatbots-design-problem-2026]] — Why we believe chatbots: trust calibration as a design problem
-- [[irwin-muller-efl-peer-feedback-literacy]] — Positioning Generative AI in EFL Peer Feedback: Training Feedback Literacy and Enabling Uptake in Speaking Classes
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — Making sense of AI feedback: how students' feedback literacy moderates the link between ChatGPT acceptance and self-regulated learning
 
 ## Citation
 

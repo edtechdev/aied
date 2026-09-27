@@ -12,7 +12,6 @@ institutions: [educational-policy-ai, regulation]
 research_method: [policy analysis, theoretical analysis]
 level: [higher ed]
 audience: [administrators, policymakers, instructors, learners]
-connected_faqs: [reduce-ai-cheating, institutional-ai-policy, ai-disabled-neurodivergent-learners]
 sources: ['raw/papers/wright-transcription-not-generation-2026.md']
 confidence: high
 ---
@@ -66,34 +65,6 @@ A historical parallel is offered for the drafting problem rather than the outcom
 ## Limitations
 
 The author states twelve limitations, several of which bound how far the argument travels. There is no original empirical data: no policy survey, no interviews with decision-makers, no audit of proceedings and no test of the criteria against real cases, so claims about policy prevalence rest on secondary sources and claims about individual cases on sources reported at their own evidential level. The four criteria are proposed, not validated; their inter-rater reliability and capacity to separate Category A, B and C cases remain open questions. The journalistic accounts of students accused because their writing looked too polished are cited for illustration only, and the measured prevalence of such accusations is unknown. The perplexity extension is a hypothesis, and the use of the contra proferentem doctrine and strict construction of penal provisions is doctrinal analogy rather than settled law. Two limits are structural: the criteria verify that the transcription step was non-generative, not that the handwritten content was the student's own work, so a student who hand-copies a generated solution satisfies them; and fabricated logs or staged artifacts are not eliminated, only made more costly. The paper also notes the absence of implementation-cost analysis and identifies six priority empirical questions for future research.
-
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[assessment-validity]]
-- [[ai-detection]]
-- [[educational-policy-ai]]
-- [[assistive-technology]]
-- [[accessibility]]
-- [[universal-design-for-learning]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[regulation]]
-- [[ai-use-disclosure]]
-- [[reducing-ai-misuse]]
-- [[higher-ed]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transcription of physics video and LATEX production as a documented AI workflow
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Assistive technology for neurodivergent students in higher education
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive generative AI use by visually impaired learners
-- [[bassett-ai-detectors-education-2026]] — False positives and the case against relying on AI detectors
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Arguing that integrity policy should start from purpose
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconstructing assessment validity for the generative AI era
-- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — Contesting the aigiarism framing of AI use in assessment
-- [[qu-wang-disclose-or-not-genai-2026]] — Why students disclose or conceal generative AI use
 
 ## Citation
 

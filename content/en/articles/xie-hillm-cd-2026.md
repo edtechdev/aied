@@ -54,24 +54,6 @@ On MOOCCubeX across [[cs-education|Computer Science]], [[math-education|Mathemat
 - **Reference is model-generated.** Proficiency quality is scored by alignment with a GPT-4.1 teacher's reference profile (Kendall's τ, Spearman's ρ, RMSE) rather than a human-verified ground truth, and expert agreement was checked only on the Mathematics subset.
 - **Not every baseline was unannotated.** For a fair comparison, prerequisite relations for one structure-aware baseline were manually annotated on the Mathematics dataset, so the "fully unannotated" setting describes HiLLM-CD's own pipeline rather than the whole experiment.
 
-## Connected Concepts
-
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[cognitive-diagnosis]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[llm]]
-
-## Connected Articles
-
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
-- [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
-- [[zerkouk-comprehensive-review-its-2025]] — Comprehensive ITS Review
-
 ## Citation
 
 Xie, Y., Yang, W., Zhang, B., Li, Z., Wang, L., Yang, M., & Gao, Y. (2026). [*HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis*](https://doi.org/10.1145/3770855.3817769). In *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26)*. ACM. doi:10.1145/3770855.3817769.

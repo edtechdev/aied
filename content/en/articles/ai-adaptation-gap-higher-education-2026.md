@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity]
 technology: [generative-ai, technology-acceptance-model]
 ethics: [trust]
-connected_faqs: [institutional-ai-policy]
 research_method: [survey]
 level: [higher ed, teacher education]
 sources: ['raw/papers/ai-adaptation-gap-higher-education-2026.md']
@@ -42,27 +41,6 @@ The study surveyed 1,809 students, 250 faculty, and 62 administrative staff at a
 - Data are cross-sectional and self-reported: associations cannot establish causal direction, social desirability bias may affect the academic-integrity items, no attention checks were used, and the authors' common-method-variance diagnostic flagged that variance source.
 - Group sizes are badly imbalanced — 62 administrative staff against 1,809 students — with complete-case counts for individual index reliability falling to 28–54 and to 25 for the nine-item PCA diagnostic, limiting precision about staff.
 - No objective measures were collected: behavioral traces, learning logs, assignment artifacts, and academic performance are absent, the questionnaire lacked a cognitive-delegation scale, and group comparisons rest on role-adapted observed indices rather than verified equivalent latent constructs.
-
-## Connected Concepts
-
-- [[higher-ed]]
-- [[generative-ai]]
-- [[trust]]
-- [[trust-calibration]]
-- [[academic-integrity]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[teacher-education]]
-- [[technology-acceptance-model]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education
-- [[adarkwah-genai-unesco-policy-2026]] — GenAI in UNESCO Policy
-- [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Education Policy and Institutional Decision-Making
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity Theory, Teachers' AI Adoption, and SEM
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
 
 ## Citation
 

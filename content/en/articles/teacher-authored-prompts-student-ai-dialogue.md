@@ -76,25 +76,6 @@ The work extends [[human-ai-collaboration]] and [[human-in-the-loop-ai]] scholar
 - Prompts and conversations were coded with [[llm|LLMs]] (GPT-5.2 and GPT-4.1-mini) rather than entirely by hand, so measurement error remains, particularly in borderline DOK distinctions, even though a stratified subset of conversation codes reached 87% human-LLM agreement.
 - The sample was geographically bounded to participating pilot schools in Washington state, across four public school districts and one independent school, and the study collected no student learning-outcome measures.
 
-## Connected Concepts
-
-- [[scaffolding]]
-- [[student-experience]]
-- [[formative-assessment]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[k-12]]
-- [[prompt-engineering]]
-- [[intelligent-tutoring]]
-## Connected Articles
-
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments
-- [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-- [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
-
 ## Citation
 
 Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, Kevin He (2026). [Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation](https://arxiv.org/abs/2604.16738). arXiv.

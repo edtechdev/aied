@@ -39,26 +39,6 @@ The study addresses who is embracing LLMs for [[self-directed-learning|self-dire
 - **Small non-user subsample.** The subgroup of non-users was small, so results for that group should be treated as exploratory and descriptive.
 - **Self-reported use with no outcome measures.** The study measured self-reported LLM use and perceived purposes without measuring concrete [[learning-gains|learning outcomes]], so no claims can be made about whether more frequent or highly satisfactory LLM use translates into deeper conceptual learning.
 
-## Connected Concepts
-
-- [[lifelong-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[collaborative-learning]]
-- [[cognitive-offloading]]
-- [[trust]]
-- [[privacy]]
-- [[hallucination-risk]]
-
-## Connected Articles
-
-- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
-- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
-- [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
-- [[socraticode-k12-programming-tutor]] — Toward SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
-
 ## Citation
 
 Terzimehić, N., Bühler, B., & Kasneci, E. (2026). [*Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning*](https://doi.org/10.1016/j.caeai.2026.100634).

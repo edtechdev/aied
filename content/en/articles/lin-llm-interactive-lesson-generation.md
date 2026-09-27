@@ -46,31 +46,6 @@ Human lesson designers identified several strengths: substantial time savings in
 - Lessons were not tried with learners. Study RQ2 collected written questionnaire responses from two lesson designers, and the authors state that an experiment comparing LLM-generated with human-crafted lessons on participants' learning outcomes remains future work.
 - Evaluation used a single 17-code rubric adapted from one source — the authors note this and call for comparison with established rubrics in the field — and one model family, gpt-4o-2024-05-13, for all conditions.
 
-## Connected Concepts
-
-- [[llm]]
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[rag]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[intelligent-tutoring]]
-- [[math-education]]
-- [[scaffolding]]
-- [[human-ai-collaboration]]
-- [[help-seeking]]
-- [[simulating-students]]
-
-## Connected Articles
-
-- [[ai-tutor-authoring-promptdecipher]] — Prompt-based authoring of AI tutors
-- [[instructional-agents-multi-agent-course-gen]] — Multi-agent course generation
-- [[curriculum-as-code-instructional-design-2026]] — Instructional design as code
-- [[bridging-instructional-design-framework-math]] — Instructional design framework for math
-- [[genai-pd-ai-pck-learning-gain-2026]] — GenAI professional development and AI-PCK
-- [[adaptive-virtual-patient-psychotherapy-training]] — Scenario-based training of novices
-
 ## Citation
 
 Lin, J., Rao, J., Zhao, S. Y., Wang, Y., Gurung, A., Barany, A., Ocumpaugh, J., Baker, R. S., & Koedinger, K. R. (2025). [*Automatic Large Language Models Creation of Interactive Learning Lessons*](https://doi.org/10.48550/arXiv.2506.17356). ECTEL 2025.

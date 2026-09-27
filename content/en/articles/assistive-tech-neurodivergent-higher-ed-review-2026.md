@@ -71,37 +71,6 @@ For institutions, the practical reading is a procurement and design position: th
 - **Weak comparative evidence.** Comparison groups are frequently absent, samples are small and heterogeneous, and developer-run product assessments substitute for independent evaluation, which is why the added value of the technology is hard to establish even when effects look favorable.
 - **Scalability against immersion.** The most immersive options are the least scalable, and the review treats cost and specialist hardware as an [[accessibility|access]] question rather than a design afterthought.
 
-## Connected Concepts
-
-- [[neurodiversity]] — the paper's organizing concept, and the one whose diagnostic framing it critiques
-- [[assistive-technology]] — the object of the review and its accommodation-versus-universal-design spectrum
-- [[universal-design-for-learning]] — the review's central recommendation for tool development
-- [[accessibility]] — framing of cost, specialist hardware and the digital ecosystem as access questions
-- [[inclusive-learning]] — the broader design agenda the review places itself inside
-- [[higher-ed]] — the review's scope, and the setting where contact hours fall and independent study rises
-- [[generative-ai]] — present in 15 of 40 studies and credited with reorganizing the field
-- [[virtual-and-augmented-reality]] — the second dominant strand (11 studies) and the least scalable
-- [[equity-in-ai-education]] — Global North concentration, exclusion of students without formal diagnosis
-- [[special-education]] — the diagnosis-gated model the review argues against
-- [[digital-divide]] — scalability and cost of immersive assistive tools
-- [[cognitive-offloading]] — one pathway of the "inversion effects" the review warns about
-- [[well-being]] — sensory demand, fatigue, anxiety and stigma in the reviewed studies
-- [[limitations-in-aied-research]] — missing comparison groups, tiny samples, developer-run evaluations
-- [[stakeholders]] — the review's audience: students, educators, institutions, developers, policymakers
-
-## Connected Articles
-
-- [[neurodivergent-computing-students]] — Neurodivergent Computing Students' Experiences with Collaborative Active Learning
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education: An interdisciplinary literature review
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive Generative AI for Visually Impaired Learners: Personalization and Inclusion in Higher Education
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Let's Chat About Artificial Intelligence for Students With Disabilities: A Meta-Analysis
-- [[adhd-video-segmentation-computing-education]] — Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — Exploring the Design of LLM-Powered Question Generation for Deaf and Hard of Hearing Learners
-- [[ludia-udl-ai-thought-partner-2026]] — LUDIA: A Design and Evidence Statement
-- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analyzing Dyslexic Learners
-- [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs
-- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
-
 ## Citation
 
 Rempel, C., Heimann, K., & Prilop, C. N. (2026). [*Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education*](https://osf.io/yc4g8/). EdArXiv Preprints.

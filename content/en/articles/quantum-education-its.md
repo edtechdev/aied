@@ -105,29 +105,6 @@ Four design principles emerge from the deployment:
 - The deployment covered one course at one institution, so generalizability is not established; the current version shows that the execution layer works, not yet that it teaches better than the alternative.
 - A controlled, blinded comparison against the prototype on the same input set, and AI-tutored versus human-TA comparisons with validated instruments, remain future work.
 
-## Connected Concepts
-
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[cognitive-diagnosis]]
-- [[agentic-ai]]
-- [[llm]]
-- [[scaffolding]]
-- [[stem-education]]
-- [[learning-analytics]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific design vs. general-purpose AI
-- [[syal-multimodal-dialogue-stem-2026]] — Multimodal AI tutoring and multimodal errors
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs for lifelong learning
-- [[knowledge-gap-detection-ai-tas]] — Knowledge gap detection in AI teaching assistants
-- [[visual-query-tracer-declarative-logic-learning]] — Visual query tracer for declarative logic learning
-
 ## Citation
 
 Elhaimeur, I., & Chrisochoides, N. (2026). [*From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education*](https://arxiv.org/abs/2604.24807).

@@ -53,25 +53,7 @@ confidence: medium
 - The authors acknowledge that the framing of the survey questions may have reflected a positive orientation toward GenAI and influenced responses.
 - Coding was inductive reflexive thematic analysis of open-ended responses, so the three priority areas are interpretive rather than measured against an independent criterion.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[higher-ed]]
-- [[curriculum-design]]
-- [[student-engagement]]
-- [[ai-literacy]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[espino-ai-business-education-review-2026]]
-- [[drummond-genai-business-schools-framework-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[nguyen-genai-global-south-review-2026]]
-
 ## Citation
 
 Rook, L., & Plumb, M. (2026). [Integrating generative artificial intelligence into university curricula: Student insights](https://doi.org/10.53761/jjzzd330) . *Journal of University Teaching and Learning Practice*, 23(2).
-
 

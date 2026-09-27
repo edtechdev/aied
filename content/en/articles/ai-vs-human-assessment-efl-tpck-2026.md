@@ -43,23 +43,6 @@ audience: [instructors, assessment designers]
 - Quality was judged from teacher ratings on a TPCK rubric, not from student performance with either set of tasks; the chi-square tests of independence reported no significant differences (p > .05) rather than demonstrating equivalence.
 - Only 11 of the 20 raters were interviewed, in sessions of roughly 30 minutes, so the qualitative account of *why* AI trails on communicative skills rests on just over half the sample.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[language-learning]]
-- [[tpack]]
-- [[ai-feedback-quality]]
-- [[human-ai-collaboration]]
-- [[assessment]]
-- [[english-education]]
-
-## Connected Articles
-
-- [[genai-teacher-feedback-comparison]] — GenAI vs. teacher feedback comparison
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
-- [[human-vs-llm-ordered-coding]] — Human vs. LLM in ordered coding
-- [[automated-formative-assessments-a-level-sciences]] — Automated formative assessments
-
 ## Citation
 
 Nourashrafi, F. K., Alavinia, P., & Darvishi, S. (2026). [*AI-Generated versus Human-Developed Assessment Tasks in EFL Context: Insights from TPCK Model*](https://doi.org/10.1016/j.caeo.2026.100415). *Computers and Education Open*, 100415. https://doi.org/10.1016/j.caeo.2026.100415

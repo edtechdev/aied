@@ -48,26 +48,6 @@ confidence: high
 - Constraints it attributes to GPT-4 (outdated training data, over-generalization, repetition and verbosity, hallucinations) are drawn from other authors' reviews and are not measured against student learning in this paper.
 - The claim that feedback is a professional craft rests on a single ethnography of academics' marking (Tuck's research), with no cross-institutional or cross-disciplinary comparison offered.
 
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[human-in-the-loop-ai]]
-- [[teacher-role]]
-- [[ai-education]]
-- [[ethics]]
-- [[generative-ai]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[trust]]
-## Connected Articles
-
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
-- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
-- [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative a...
-- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers' practices and perceptions
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-
 ## Citation
 
 Winstone, N. E., Gravett, K., Bearman, M., Noble, C., Jensen, L. X., Jones, A., & Nicola-Richmond, K. (2026). [*The care-full craft of feedback in an age of generative AI*](https://doi.org/10.1080/02602938.2026.2643333). *Assessment & Evaluation in Higher Education*, 51(5), 911–927

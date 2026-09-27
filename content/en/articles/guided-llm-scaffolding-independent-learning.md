@@ -44,28 +44,6 @@ The design distinguishes between *assigned LLM access* and the *quality of stude
 - Practice time was self-reported and transcript coding required human judgment despite five graders, and the Guided-LLM group received additional training and reminders that may have introduced attention, expectancy, or demand effects.
 - The study ran as a single four-week summer program in one undergraduate Probability and Statistics course at one university, so transfer to full-semester courses and other disciplines is untested.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[self-assessment]]
-- [[agentic-ai]]
-- [[cognitive-offloading]]
-- [[help-seeking]]
-- [[intelligent-tutoring]]
-- [[higher-ed]]
-## Connected Articles
-
-- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
-- [[ase-26-agentic-software-engineering-curriculum]] — ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
-- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
-- [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
-
 ## Citation
 
 Amanlou, M., Amou-Jafari, Y., Livani, M., Boloukazari, F., Bagheri, F., & Bahrak, B. (2026). [*Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics*](https://arxiv.org/abs/2606.01375). Proceedings of the 34th International Conference on Computers in Education.

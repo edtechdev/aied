@@ -37,22 +37,6 @@ The paper's conceptual contribution is to broaden how we evaluate AI coding assi
 - The behavioral evidence is an exploratory pilot with only 18 participants.
 - Evaluation is limited to Python benchmarks — HumanEval (164 problems) and MBPP (974 tasks) — with four LLMs, and the authors position Unicode perturbation as a minimal probe rather than a deployment-ready solution.
 
-## Connected Concepts
-- [[academic-integrity]]
-- [[generative-ai]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[ai-detection]]
-- [[scaffolding]]
-- [[learning-design]]
-- [[cs-education|programming education]]
-
-## Connected Articles
-- [[reshaping-cs-education-genai]] — Reshaping CS Education for Generative AI
-- [[genai-oop-programming-assessments-2026]] — GenAI on OOP Assessments
-- [[learn-framework-responsible-genai-pbl-2026]] — LEARN Framework for Responsible GenAI
-
 ## Citation
 
 Olatunji, I. E., Djire, A. E., Klein, J., & Bissyandé, T. F. (2026). [*Do Not Copy/Paste: Soft Barriers for Copying in AI-Assisted Programming*](https://arxiv.org/abs/2608.22638).

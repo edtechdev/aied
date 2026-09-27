@@ -107,28 +107,6 @@ The authors acknowledge limitations that constrain causal interpretation: the ab
 - AI and database literacy were self-reported on a 5-point Likert scale, which the authors note is susceptible to over- or under-confidence; perceived AI literacy correlated weakly and non-significantly with objective competency (r = −0.39, p ≈ 0.21).
 - Post-test scores clustered between 6 and 7 out of 7 (SD ≈ 0.39), leaving little headroom to detect further growth, and two of the seven items showed no significant improvement because pre-test scores were already high.
 
-## Connected Concepts
-
-- [[metacognition]]
-- [[socratic-method]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[hallucination-risk]]
-- [[learning-gains]]
-- [[active-learning]]
-- [[prompt-engineering]]
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[productive-failure]]
-## Connected Articles
-
-- [[llm-fallacy-misattribution]]
-- [[stanford-evidence-base-ai-k12-2026]]
-
 ## Citation
 
 Hosseini, H. (2026). [*The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking*](https://arxiv.org/abs/2605.05472). Accepted to AIED-2026.

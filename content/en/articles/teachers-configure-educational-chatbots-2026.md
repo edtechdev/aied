@@ -61,34 +61,6 @@ Some teachers saw boundaries hold — one tested a water-cycle chatbot that decl
 - Alignment was scored partly by an AI model: 232 paired human–AI ratings came from a 20% sample (58 records) of 1,160 criterion-level evaluations; first-round persona agreement was 0.604.
 - Three of the 27 teachers specified no persona or tone and were excluded from the persona co-occurrence analysis; workshop activities focused on [[science-education|science]] and [[computational-thinking|computational thinking]], not the full range of subjects taught.
 
-## Connected Concepts
-
-- [[conversational-ai]]
-- [[teacher-role]]
-- [[pedagogical-agent]]
-- [[scaffolding]]
-- [[personalized-learning]]
-- [[guardrails]]
-- [[teacher-ai-competency]]
-- [[professional-training]]
-- [[k-12]]
-- [[science-education]]
-- [[human-in-the-loop-ai]]
-- [[student-ai-interaction]]
-- [[ai-ed-evaluation]]
-- [[prompt-engineering]]
-- [[learning-analytics]]
-
-## Connected Articles
-
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Human-Centered Design of LLM-Powered Educational Chatbots: A Study with Secondary Teachers
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation
-- [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
-- [[yasar-llms-iterative-pedagogical-design-2026]] — From evaluation to emulation: LLMs as agents of iterative pedagogical design
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI
-- [[where-ai-enters-teacher-work-2026]] — Where Artificial Intelligence Enters Teacher Work
-- [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors
-
 ## Citation
 
 Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Catete, V. (2026). [*Will It Teach as Intended? How Teachers Configure Educational AI Chatbots*](https://arxiv.org/abs/2609.29993). arXiv preprint.

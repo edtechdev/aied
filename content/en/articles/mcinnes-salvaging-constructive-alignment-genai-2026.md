@@ -55,23 +55,6 @@ confidence: high
 - **Discourse analysis, not effects.** The study analyzes how advice is worded at the micro, meso and macro levels of critical discourse analysis; it examined no curriculum, no educator and no student outcome, so the claimed harms of the efficiency framing are argued rather than measured.
 - **The remedy is untested.** The bounded institutional agent and the "liminal tutor" are design proposals — the paper reports no implementation or pilot and offers no evidence that either reduces the performativity and delegation risks it identifies.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[curriculum-design]]
-- [[assessment]]
-- [[educational-development]]
-- [[critical-pedagogy]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[zhou-constructive-alignment-genai-business-2026]] — Constructive alignment lens on GenAI integration in business higher education
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — Faculty identity disruption amid GenAI adoption
-- [[rudolph-ai-myths-critical-higher-ed]] — Critical interrogation of AI myths in higher education
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Reimagining curriculum design and pedagogy with GenAI
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Delphi study on governing GenAI in higher education
-
 ## Citation
 
 McInnes, R., Airey, L., Moss, P., & Rathnappulige, S. (2026). [*Efficiency at what cost? Salvaging constructive alignment from the GenAI hype*](https://doi.org/10.14742/ajet.11466). *Australasian Journal of Educational Technology*, 42(4), 80–95.

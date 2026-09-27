@@ -45,19 +45,6 @@ audience: [instructors, curriculum designers]
 - Internal traceability was weak across the corpus — about 0.80 percent of pages carried in-text citations, URLs appeared on roughly 0.53 percent, and DOI strings were essentially absent — so most claims could not be audited from within the artifact itself.
 - Transferability to undergraduate or large-enrollment settings remains untested, and the five design principles the author draws from the study are presented as a hypothesis rather than a demonstrated outcome.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[curriculum-design]]
-- [[hallucination-risk]]
-- [[trust-calibration]]
-- [[ai-literacy]]
-- [[student-experience]]
-
 ## Citation
 
 - Sidorkin, A. M. (2026). [From One-Size Texts to Tailored Readings: Student Experiences with AI-Generated Course Materials](https://doi.org/10.55982/openpraxis.18.3.1141). *Open Praxis*, 18(3), 506-522.

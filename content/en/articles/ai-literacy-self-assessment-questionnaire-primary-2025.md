@@ -49,26 +49,6 @@ A self-report instrument establishes what students say about their AI understand
 - Inter-factor correlations of .933 to .944 are high enough to support a single general factor; the authors retained three factors on theoretical grounds.
 - Test-retest stability is not reported, and four items changed dimension between studies, so the validated model departs from the theoretical draft.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[self-assessment]]
-- [[self-report-measures]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[psychometrically-aware-ai]]
-- [[student-engagement]]
-- [[learners]]
-
-## Connected Articles
-
-- [[pedlow-genai-selfassessment-2026]] — Pre- and post-semester self-assessments of ethical GenAI use in a transition-to-university cohort
-- [[ai-literacy-assessment-misalignment]] — Self-reported and objective measures of teacher AI literacy correlated at only r = 0.07 to 0.24
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Developmentally tiered AI literacy materials for younger learners, with acceptance and validity checks
-- [[genai-skill-bypass-literacy]] — An inverted skill profile found in 158 GenAI literacy self-assessments
-- [[gails-generative-ai-literacy-scale-2026]] — Scale development and validation with measurement invariance testing across groups
-- [[absent-cognitive-baseline-2026]] — What academic self-assessment can and cannot rest on when the experiential record is missing
-
 ## Citation
 
 Thianwan, K., & Srikoon, S. (2025). [*Development of an AI literacy self-assessment questionnaire in upper primary school students*](https://doi.org/10.1016/j.ssaho.2025.102424). *Social Sciences & Humanities Open*.

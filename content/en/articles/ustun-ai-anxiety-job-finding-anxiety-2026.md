@@ -4,7 +4,6 @@ created: "2026-08-25T07:46:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article
 pedagogy: [anxiety-and-stress, social-emotional-learning]
-connected_faqs: [ai-anxiety-wellbeing]
 research_method: [survey]
 level: [higher ed, adult learning]
 sources: ['raw/papers/ustun-ai-anxiety-job-finding-anxiety-2026.md']
@@ -43,23 +42,6 @@ technology: [technology-acceptance-model]
 - Convenience plus snowball sampling through online forms between February 15 and April 15, 2025, beginning with 232 students at the researchers' own university — participation was voluntary, so the 1,057 respondents self-selected.
 - All three constructs were measured by self-report scales, leaving shared method variance and social desirability as possible explanations for part of the association.
 - The 35-university sample improves on the single-site study the authors cite as their motivation, but it remains a non-probability sample drawn from one national context, and the authors recommend structural equation modeling or mixed methods before causal claims.
-
-## Connected Concepts
-
-- [[anxiety-and-stress]]
-- [[career-development-and-readiness]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[ai-literacy]]
-- [[motivation]]
-
-## Connected Articles
-
-- [[duan-ai-anxiety-career-decisions-college-2026]] — AI anxiety and career decisions (SEM)
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
-- [[kim-ai-anxiety-comprehensive-analysis]] — comprehensive analysis of AI anxiety
-- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability
 
 ## Citation
 

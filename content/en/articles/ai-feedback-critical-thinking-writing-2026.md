@@ -55,20 +55,6 @@ Paired-sample t-tests and effect-size calculations in SPSS 26.0 confirmed homoge
 - The headline aggregate result is null — no statistically significant gain in total critical thinking disposition scores — so the study's claims rest on sub-dimension shifts.
 - The authors state the three-month duration was short for internalizing complex cognitive habits and recommend quasi-experimental designs to test long-term scalability.
 - Proficiency cohorts were assigned from pre-test scores alone (High 27%, n=70; Middle 46%, n=119; Low 27%, n=71), and the tool's rubrics and prompts were refined in a pilot of N=120 in the same setting.
-## Connected Concepts
-- [[critical-thinking]]
-- [[automated-assessment]]
-- [[scaffolding]]
-- [[writing-education]]
-- [[ai-feedback-quality]]
-- [[k-12]]
-
-## Connected Articles
-
-- [[genai-teacher-feedback-comparison]]
-- [[repeated-ai-writing-feedback-semester]]
-- [[foxglove-writing-feedback-experts-llms]]
-
 ## Citation
 
 Zhu, Q., Zhai, X., Zou, Y., & Gao, C. (2026). [*Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency*](https://arxiv.org/abs/2608.05177).

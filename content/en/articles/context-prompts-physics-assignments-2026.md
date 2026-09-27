@@ -17,7 +17,6 @@ technology: [prompt-engineering, generative-ai, conversational-ai]
 assessment: [formative-assessment]
 ethics: [ai-use-disclosure, digital-divide, equity-in-ai-education]
 contributors: [editor]
-connected_faqs: [asynchronous-online-courses-ai]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
@@ -58,30 +57,6 @@ Three practical issues are named. [[generative-ai|AI-supported]] assignments gen
 - No data-collection window is reported and the models are described generically, with GPT-4o given as an example, so the observed behavior is tied to a model generation that has already moved on.
 - The inequity between free and paid model tiers is acknowledged by the authors but not quantified or tested.
 - Reflection assignments are proposed rather than implemented, so the elaboration-application-transfer prompt has no classroom evidence behind it.
-
-## Connected Concepts
-- [[physics-education]]
-- [[prompt-engineering]]
-- [[generative-ai]]
-- [[student-ai-interaction]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[self-directed-learning]]
-- [[ai-literacy]]
-- [[formative-assessment]]
-- [[motivation]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-- [[hashmi-socratic-physics-chatbot-2025]] — Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot
-- [[socratic-ai-physics-tutor-taxonomy-2026]] — A Bottom-Up Taxonomy of Student Discourse with a Socratic AI Physics Tutor
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation
-- [[wang-teacher-student-centered-agents-physics-2026]] — Comparing teacher-centered and student-centered agents based on prompt engineering in physics learning
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust-utility gap in introductory physics education
-- [[physics-students-llm-perceptions-instruction-2026]] — Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction
-- [[taklif-ai-interest-based-personalized-assignments]] — Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments
-- [[probing-ai-generated-physics-solutions-2026]] — Probing AI-Generated Physics Solutions and Preparing Students to Critique Them
 
 ## Citation
 Rodriguez, M., & Wulff, P. (2026). [Artificial Intelligence Driven Physics Assignments using Context Prompts](https://arxiv.org/abs/2609.22578). arXiv:2609.22578.

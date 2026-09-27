@@ -61,22 +61,6 @@ Ablation studies confirm each component contributes: removing multi-hop propagat
 - Key hyperparameters are chosen per dataset — propagation coefficient α is 0.05 for MOOC and LectureBank but 0.2 for UCD, and λ is 1×10⁻³ or 5×10⁻³ — so the first-place result across all nine dataset-metric combinations reflects dataset-specific configuration.
 - Runs are reported for a single fixed seed (42) with no variance or confidence intervals, and gains saturate around propagation depth k = 5; ProPRL is also slower than DGCPL on LectureBank.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[recommender-systems-and-learning-paths]]
-## Connected Articles
-
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
-- [[multimodal-knowledge-graph-educational-reasoning]] — Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning
-- [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
-- [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
-- [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
-
 ## Citation
 
 Cheng, X., Wang, J., He, C., Dong, R., & Guan, Q. (2026). [*ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs*](https://arxiv.org/abs/2608.03006v1). v1.

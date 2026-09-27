@@ -54,34 +54,6 @@ The results show that even for a single conversational turn, the semantic conten
 - Temperature, a decoding parameter that directly influences response variability, could be set to 0.7 only for GPT-4o mini; the option was unavailable on the other three deployments.
 - The analysis is confined to a single conversational turn, and replies remained consistently dissimilar from human replies, so the study cannot speak to whether consistency holds across multi-turn assessment interaction.
 
-## Connected Concepts
-
-- [[llm]]
-- [[conversational-ai]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[automated-assessment]]
-- [[prompt-engineering]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[psychometrically-aware-ai]]
-- [[trust-calibration]]
-- [[learning-analytics]]
-
-## Connected Articles
-
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs?
-- [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: workflows and student enactment
-- [[llm-formative-feedback-systematic-review-2026]] — Systematic review of LLM-based formative feedback
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents
-- [[conversational-ai-informal-learning]] — Conversational AI in informal learning
-- [[socratic-tests-conversational-assessment]] — Socratic tests in conversational assessment
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM
-- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the age of AI: output as evidence of learning
-- [[yasir-llm-tutoring-agents-2026]] — LLM tutoring, feedback, and the diagnosis gap
-
 ## Citation
 
 Hao, J. (2026). [*Semantic variability of LLM-generated replies across LLMs: Implications for designing conversation-based assessment*](https://arxiv.org/abs/2608.24920). arXiv:2608.24920 / AI in Measurement and Education (AIME 2026).

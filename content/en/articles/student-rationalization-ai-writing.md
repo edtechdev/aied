@@ -9,7 +9,6 @@ technology: [llm]
 assessment: [ai-detection]
 methods: [qualitative-research]
 ethics: [ethics]
-connected_faqs: [course-ai-policy]
 research_method: [interviews]
 discipline: [writing education]
 audience: [learners]
@@ -68,27 +67,6 @@ AI-assisted writing lets students **reinterpret harm, authorship, responsibility
 - Instructors were never interviewed, so the authors cannot determine how faculty intended students to interpret or apply classroom AI policies — the "faculty intention" site is inferred rather than measured.
 - The behavioral evidence is self-report plus uneven documentation: not all participants supplied their syllabi, submitted assignments, and AI logs, which the authors say may limit the ability to fully capture their practices.
 - The findings describe a U.S. undergraduate writing context, and the authors interpret the rationalization taxonomy as a starting point requiring study in other writing-centered populations.
-
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[ethics]]
-- [[ai-detection]]
-- [[metacognition]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-
-## Connected Articles
-
-- [[ai-assisted-writing-research-teams]] — AI-assisted writing in research teams
-- [[agentic-literacy-debt]] — Agentic literacy debt and governance
-- [[ai-scoring-language-bias-physics]] — AI scoring and language bias
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
-- [[self-referential-l2-writing-llm-assessment]] — Self-referential LLM assessment in L2 writing
 
 ## Citation
 

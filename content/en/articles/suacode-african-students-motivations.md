@@ -37,22 +37,6 @@ level: [secondary, higher ed]
 - Motivations are not yet linked to outcomes: persistence and learning-gains analyses remained in progress, and subgroup differences by gender, region, and age had not been examined.
 - Respondents are self-selected enrollees who chose to answer, so the findings speak for learners who both enrolled and responded in a context where less than 1% of African secondary-school leavers possess fundamental coding skills.
 
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[cs-education]]
-- [[ai-literacy]] — building foundational skills for the AI era
-- [[motivation]] — understanding enrollment drivers
-- [[self-determination-theory]] — motivational theory for course design
-- [[digital-divide]] — low-resource, smartphone-only contexts
-- [[k-12]] — expanding pre-tertiary coding participation
-- [[higher-ed]] — online course delivery to post-secondary learners
-## Connected Articles
-
-- [[ai-literacy-equity-programming-policy]]
-- [[genai-meta-analysis-programming-learning]]
-- [[mooc-to-maic]] — MOOC and AI-assisted course models
 ## Citation
 
 Michael Addo, Nana Maryam Munagah, Victor Kumbol, Judith Uchidiuno, George Boateng (2026). ["Why SuaCode?": Understanding African Students' Motivations for Taking a Smartphone-Based Online Coding Course](https://arxiv.org/abs/2607.22940).

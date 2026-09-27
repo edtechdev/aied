@@ -44,22 +44,6 @@ methods: [ai-ed-evaluation, benchmark]
 - Counterfactual fairness rests on a proxy rather than an identified intervention: the latent content/style split cannot be recovered from a single transcript (an ill-posed inverse problem), so the method assumes the style-transfer mapping alters dialect form and nothing else.
 - Preference optimization is fit to annotator judgments, and the paper itself notes that DPO can overfit deterministic or noisy preference labels and may flatten legitimately divergent pedagogical judgments into a noisy consensus.
 
-## Connected Concepts
-
-- [[educational-nlp]]
-- [[learning-analytics]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-
-## Connected Articles
-
-- [[melo-llm-classroom-observation-teach-2026]] — Validating AI-generated classroom observations
-- [[ai-team-teaching-talk-analytics]] — AI and team-teaching talk analytics
-- [[teaching-feedback-classification-benchmark]] — Teaching feedback classification benchmark
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural silence and underrepresented language in AI
-
 ## Citation
 
 Fang, Q., & Liu, W. (2026). [*Neuro-symbolic pedagogical alignment (NSPA) for long-horizon classroom discourse analysis: Mitigating dialect bias via counterfactual preference optimization*](https://doi.org/10.1016/j.caeai.2026.100664). *Computers and Education: Artificial Intelligence*, 100664. https://doi.org/10.1016/j.caeai.2026.100664

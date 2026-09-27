@@ -39,21 +39,6 @@ This is a **[[research-methods-aied|research]]-category full paper** describing 
 - **Generalizability.** The emphasis is on workforce reskilling in cybersecurity, so transfer to other disciplines and to traditional academic settings may be limited.
 - **AI accuracy and oversight.** The reliance on LLM assistance raises considerations about accuracy and oversight in instructional content.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[llm]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[experiential-learning]]
-- [[intelligent-tutoring]]
-
-## Connected Articles
-
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM: LLMs and Robotic Simulation
-- [[jeon-isd-agent-bench-2026]] — ISD Agent Bench
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: Evaluating LLM Teaching Ability
-
 ## Citation
 
 Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Saber Latibari, B., Pacheco, J., Salehi, S., & Satam, P. (2025). [*Integrating generative AI into cybersecurity education: A study of OCR and multimodal LLM-assisted instruction*](https://arxiv.org/abs/2509.02998).

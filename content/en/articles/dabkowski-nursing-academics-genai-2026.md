@@ -54,35 +54,6 @@ Under the third theme, participants argued for neither prohibition nor permissiv
 - All five researchers held Academic Integrity Officer roles while analyzing the data and four were nursing academics; the paper names that positionality as a possible influence on which questions were asked and how accounts were read.
 - Data collection stopped at 22 interviews once information power was judged sufficient, against a pre-estimate that 15 to 20 would likely suffice, and the authors note that GenAI tools and institutional responses are changing fast enough that the findings describe a particular moment.
 
-## Connected Concepts
-
-- [[nursing-education]] — the discipline whose assessment and accreditation logic the paper interrogates
-- [[academic-integrity]] — reframed from a compliance process into a question about professional formation
-- [[generative-ai]] — the technology whose use by nursing students participants were making sense of
-- [[critical-thinking]] — the capability participants most feared overreliance would blunt
-- [[assessment]] — the mechanism through which readiness for practice is inferred, and the site of redesign
-- [[authentic-assessment]] — the direction of travel participants described, including process evidence and orals
-- [[assessment-validity]] — the paper's underlying position, following Dawson et al., that validity outranks cheating
-- [[educational-policy-ai]] — the missing or late institutional guidance participants described
-- [[educational-development]] — the staff development the participants asked for, and the unit-redesign work it implies
-- [[teacher-role]] — academics as guardians of professional values and as the subject of staff development
-- [[transfer-of-learning]] — the knowledge-translation worry: theory that never becomes clinical skill
-- [[teacher-ai-competency]] — the confidence and consistency gap participants attributed to colleagues
-- [[simulation]] — AI role-play and scenario work used deliberately to build reasoning
-- [[curriculum-design]] — where the authors locate GenAI literacy and values-based integration
-- [[career-development-and-readiness]] — the paper's real stake: whether graduates are fit for practice
-
-## Connected Articles
-
-- [[sun-llm-nursing-education-professional-identity-2026]] — Nursing professional identity and LLM use, an adjacent reading of the same discipline
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing students' AI experiences read through the technology acceptance model
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Broader account of AI transforming nursing curricula
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — Simulation-based AI in nursing education, the constructive use participants described
-- [[ivory-psychology-assessment-integrity-2026]] — Program-level evidence that the pass boundary, not detection, is the operative variable
-- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — Why authentic assessment alone does not safeguard integrity
-- [[ai-use-critical-thinking-medical-students-2026]] — Critical thinking and AI use in the neighbouring health professions
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose before policy in academic integrity responses to AI
-
 ## Citation
 
 Dabkowski, E., Missen, K., Allen, L., Whitehead, D., & Worn, R. (2026). [*'Co-pilot won't teach you to be a nurse': Nursing academics' perspectives on GenAI use in undergraduate education*](https://doi.org/10.1007/s40979-026-00220-2). *International Journal for Educational Integrity*, 22(11).

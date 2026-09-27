@@ -45,27 +45,6 @@ Ortiz-Bonnin & Blahopoulou (2025) address the tension between ChatGPT's educatio
 - PAD did not meet normality assumptions and non-parametric methods were used; self-reports may still be affected by social desirability bias despite anonymity.
 - The study measured general risk perceptions rather than specific dishonest behaviors, so it cannot distinguish particular cheating practices around ChatGPT.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-detection]]
-- [[privacy]]
-- [[student-experience]]
-- [[anxiety-and-stress]]
-- [[ethics]]
-- [[ai-literacy]]
-- [[trust]]
-
-## Connected Articles
-
-- [[ai-tools-academic-work-cheating-2026]] — whether using AI tools for academic work counts as cheating
-- [[qu-wang-disclose-or-not-genai-2026]] — peer influence and psychological factors in disclosing GenAI use
-- [[moral-panic-genai-classroom]] — moral panic and appropriate GenAI use
-- [[best-response-student-ai-dialog-2026]] — student reasoning about AI use
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive signal
-
 ## Citation
 
 Ortiz-Bonnin, S., & Blahopoulou, J. (2025). [*Chat or cheat? Academic dishonesty, risk perceptions, and ChatGPT usage in higher education students*](https://doi.org/10.1007/s11218-025-10080-2). *Social Psychology of Education*, 28, 113. https://doi.org/10.1007/s11218-025-10080-2

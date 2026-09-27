@@ -62,20 +62,6 @@ GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to **
 - Study arms were assigned at the classroom level rather than individually, so treatment is clustered by class even though intention-to-treat, alternative specifications and absenteeism checks support the pattern.
 - Perceptions of learning were miscalibrated against measured exam performance in both AI arms, so self-reported learning or performance cannot serve as a gauge of the intervention's effect.
 
-## Connected Concepts
-
-- [[cognitive-offloading]] — the crutch mechanism driving the harm
-- [[scaffolding]] — the guardrail mechanism that prevents harm
-- [[socratic-method]] — the hint-not-answer interaction mode
-- [[generative-ai]] — the technology under study (GPT-4)
-- [[learning-gains]] — the durable outcome the study measures
-- [[math-education]] — the focal subject domain
-- [[intelligent-tutoring]] — the design paradigm GPT Tutor approximates
-
-## Connected Articles
-
-- [[genai-performance-vs-learning]]
-- [[generative-ai-reduced-study-time-math]]
 ## Citation
 
 Bastani, H., Bastani, O., Sungu, A., Ge, H., Kurucu, Ö., & Mushi, R. (2025). [*Generative AI without guardrails can harm learning: Evidence from high school mathematics*](https://doi.org/10.1073/pnas.2422633122). *Proceedings of the National Academy of Sciences*, 122(26).

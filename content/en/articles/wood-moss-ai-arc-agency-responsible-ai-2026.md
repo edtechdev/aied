@@ -51,22 +51,6 @@ For [[stakeholders|instructional designers]], the framework becomes a planning r
 - The framework is adapted from the authors' own earlier AI-ICE model, so its refinement is argued by its originators rather than validated independently.
 - The classroom and disciplinary examples ([[writing-education|writing]], [[biology-education|biology]], [[teacher-education|teacher education]], business) are illustrative suggestions, not documented implementations with results.
 
-## Connected Concepts
-
-- [[agency]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-use-disclosure]]
-
-## Connected Articles
-
-- [[student-centered-genai-responsible-framework-2026]] — another student-facing framework for responsible GenAI use in learning.
-- [[learn-framework-responsible-genai-pbl-2026]] — a responsible-GenAI scaffold applied through project-based learning.
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — challenges compliance-driven AI literacy in favor of human flourishing.
-- [[chen-zou-genai-group-assessment-agency-2026]] — examines learner agency and generative AI in group assessment settings.
-
 ## Citation
 
 Wood, D., & Moss, S. (2026). [Cultivating Agency and Responsible AI Use Through the AI-ARC Framework](https://doi.org/10.65201/CJHS2205). *Journal of Instructional Design and Technology*, 1(1), 8-17.

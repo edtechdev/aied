@@ -48,27 +48,6 @@ A generated dataset can look realistic while failing to instantiate the pattern 
 - One of the nine designed patterns, price-rating sensitivity for slow orders, rests on three observations above \$100 and longer than 45 minutes; the authors concede these "provide limited support" and require the reference explanation to state that limitation alongside the finding.
 - The [[agentic-ai|agentic]] pipeline depends on an external agent environment (it ships as an AI Agent Skill), and generation quality is bound to the model and the code the agent writes, which the paper does not benchmark.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[llm]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[problem-based-learning]]
-- [[experiential-learning]]
-- [[assessment-validity]]
-- [[hallucination-risk]]
-- [[educational-technology-developers]]
-
-## Connected Articles
-
-- [[agentschool-multi-agent-simulation-education-2026]] — Multi-agent simulation in education
-- [[ai-agents-constructive-conflict-design-education-2026]] — Designing constructive conflict into educational agents
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — AI-assisted curriculum analysis
-- [[ai-disruption-engineering-education-chat-2026]] — Disruption of engineering education by chat assistants
-
 ## Citation
 
 An, B., Hamdani, M., & Fox, J. (2026). [DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education](https://arxiv.org/abs/2609.19617). arXiv:2609.19617.

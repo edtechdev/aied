@@ -39,21 +39,6 @@ sources: [raw/papers/2603.11444.md]
 - Uptake was voluntary and sessions averaged about 16 minutes, and the evidence for benefit is forum reactions plus one teacher's improved engagement rather than a control-group comparison.
 - The authors note that learning depends on experience and uptake of the generated feedback, that some instructors may need structured in-session hints, and that isolation in MOOCs limits collaborative practice.
 
-## Connected Concepts
-
-- [[simulating-students]]
-- [[teacher-education]]
-- [[experiential-learning]]
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[cs-education]]
-- [[simulation]]
-- [[online-teaching-and-learning]]
-
-## Connected Articles
-
-- [[teachlm-post-training-llms-education]] — TeachLM: Post-Training LLMs for Education Using Authentic Learning Data
-
 ## Citation
 
 Mohne, C., Vo, N., Demszky, D., & Piech, C. (2026). *[EducaSim: Interactive simulacra for CS1 instructional practice](https://arxiv.org/abs/2603.11444)*.

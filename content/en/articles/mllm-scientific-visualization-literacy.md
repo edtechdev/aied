@@ -34,25 +34,6 @@ Results show MLLMs do **not** exhibit uniform SciVis literacy. Gemini is the str
 - GPT-5.4 and Claude-Opus-4.6 were evaluated on animation items via frame extraction because their APIs did not support direct video input at the time, so their animation scores — including Claude's 59.3% — partly reflect that extraction method.
 - The open-source comparison is limited to lightweight 8-9B models, and the human reference is the 485 non-expert participants of the original SVLAT tryout rather than a matched expert sample.
 
-## Connected Concepts
-
-- [[stem-education]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[formative-assessment]]
-- [[benchmark]]
-- [[multimodal]]
-- [[llm]]
-## Connected Articles
-
-- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
-
 ## Citation
 
 Patrick Phuoc Do, Chau M. Ta, Chaoli Wang (2026). [Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy](https://arxiv.org/abs/2607.15176).

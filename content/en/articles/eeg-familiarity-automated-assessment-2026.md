@@ -41,26 +41,6 @@ Beyond classification performance, the authors use feature importance and SHAP a
 - LOGO results are unstable: each held-out fold is a single trial block, standard deviations run near 0.24, and the higher CNN point estimates were not independently permutation-tested.
 - Spectral resolution is coarse (128 Hz sampling with 32-sample Welch segments gives 4 Hz bins), making narrow bands such as Delta (1-4 Hz) hard to isolate, and manual ICA selection and artifact rejection add subjectivity.
 
-## Connected Concepts
-- [[automated-assessment]]
-- [[learning-analytics]]
-- [[educational-measurement]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[cognitive-diagnosis]]
-- [[student-modeling]]
-- [[affective-computing]]
-- [[limitations-in-aied-research]]
-
-## Connected Articles
-- [[ai-assisted-learning-modes-eeg]] — AI-Assisted Learning Modes and EEG
-- [[physiological-signals-exam-outcomes-ml]] — Physiological Signals, Exam Outcomes, and ML
-- [[genai-oop-programming-assessments-2026]] — GenAI on OOP Programming Assessments
-- [[assessment-latent-structure-human-llm-2026]] — Assessment Latent Structure for Humans and LLMs
-- [[pedlow-genai-selfassessment-2026]] — GenAI Self-Assessment
-- [[jin-glat-genai-literacy-assessment]] — GLAT GenAI Literacy Assessment
-- [[genai-assessment-governance]] — GenAI Assessment Governance
-
 ## Citation
 
 Nanayakkara, I., & Halloluwa, T. (2026). [*Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction*](https://arxiv.org/abs/2608.16541).

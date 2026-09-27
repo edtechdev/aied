@@ -79,30 +79,6 @@ All three [[conversational-ai|chatbots]] produced structurally identical lesson 
 - Coding applied Bloom's Revised Taxonomy and Banks' four levels to plan documents, which records what a plan asks students to do rather than what students learned or how teachers actually revised the plans.
 - The study stops at the output: it provides no evidence about whether teachers have the time or training to redesign the plans it critiques, which is the step its own recommendation depends on.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[formative-assessment]]
-- [[regulation]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[pedagogical-llm-training]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[culturally-relevant-pedagogy]]
-- [[critical-thinking]]
-
-## Connected Articles
-
-- [[educational-llm-alignment]] — Educational LLM Alignment
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students
-- [[llm-cultural-relevance-k12]] — LLM cultural relevance in K-12
-- [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
-- [[prompt-based-programming-lesson]] — Prompt-based programming lessons
-
 ## Citation
 
 Trust, T., Maloy, R., Xu, C., & Pelletier, K. (2025). [*Civic education in the age of AI: Should we trust AI-generated lesson plans*](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/). *Contemporary Issues in Technology and Teacher Education*

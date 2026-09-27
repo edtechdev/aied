@@ -4,7 +4,6 @@ type: article
 foundations: [academic-integrity, cognitive-offloading]
 pedagogy: [motivation, self-determination-theory]
 ethics: [equity-in-ai-education]
-connected_faqs: [ai-guidance-children-under-13]
 sources: ['raw/papers/family-school-autonomy-support-genai-2026.md']
 confidence: medium
 research_method: [literature review]
@@ -44,21 +43,6 @@ The research agenda also names the conditions that make blanket advice unsafe. C
 - The evidence is largely cross-sectional: 26 studies were cross-sectional, 4 used two or more waves, and only 2 were experimental, which limits causal and developmental inference.
 - No cited study measured family and school inputs in the same participants — four measured a family input and 15 a school input — so the coordination in the review's framework is a specification to be tested, not an observed mechanism.
 - This is a narrative mini review rather than a systematic-review protocol, and the underlying measures of AI literacy, dependence and overreliance were largely developed in single-country or specialized university samples.
-
-## Connected Concepts
-- [[self-determination-theory]] — the organizing framework for autonomy support
-- [[cognitive-offloading]] — dependent versus autonomous offloading is the review's key distinction
-- [[generative-ai]] — the tool whose use is being regulated
-- [[k-12]] — the developmental populations in scope
-- [[academic-integrity]] — moral cognition, self-evaluation and policy clarity as pathways
-- [[motivation]] — need satisfaction, enjoyment and retained cognitive agency
-- [[parents-and-families]]
-## Connected Articles
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student dependency, AI literacy and self-efficacy
-- [[cognitive-offloading-metacognitive-review-2026]] — Cognitive offloading and metacognition review
-- [[genai-motivation-engagement-2026]] — Generative AI, motivation and engagement
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-designing AI with youth and relational privacy
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI
 
 ## Citation
 Fan, Y., Li, X., & Zhang, R. (2026). [Family-school autonomy support for children's responsible use of generative artificial intelligence: a self-determination theory synthesis and developmental research agenda](https://doi.org/10.3389/fpsyg.2026.1969217). *Frontiers in Psychology, 17*, 1969217.

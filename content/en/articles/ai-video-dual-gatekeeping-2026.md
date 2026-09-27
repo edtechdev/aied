@@ -45,28 +45,6 @@ The authors surface three tensions: negotiating [[agency]] when automated flags 
 - The educator evidence is self-report on 13 rating items covering the 12 CTML principles; the objective automated layer covered only 14 videos (7 topics × 2 conditions), and three of its five metrics were near ceiling and showed no significant change.
 - The authors describe the results as *early evidence* and state that proxy metrics cannot establish causal impact on student [[learning-gains|learning outcomes]] — no student outcome data were collected.
 
-## Connected Concepts
-- [[generative-ai]]
-- [[video-education]] — Video in Education: AI-generated, personalized, and analytics of video learning
-- [[teacher-role]]
-- [[learning-design]]
-- [[pedagogy]]
-- [[human-in-the-loop-ai]]
-- [[agentic-ai]]
-- [[scaffolding]]
-- [[agency]]
-- [[curriculum-design]]
-
-## Connected Articles
-- [[ai-generated-instructional-videos-computing-ed]] — AI-Generated Instructional Videos in Computing Education
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint Adaptive Video Generation
-- [[human-ai-collaboration-prerequisite-functions]] — Human-AI Collaboration Prerequisite Functions
-- [[human-ai-collaboration-trust-expectations]] — Human-AI Collaboration and Trust
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education Scoping Review
-- [[generative-refusal-ai-tools-for-thought]] — Generative Refusal: AI Tools for Thought
-- [[genai-mindtool-generative-learning]] — GenAI as Mindtool for Generative Learning
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Human-AI Collaborative Problem Solving
-
 ## Citation
 
 Kim, Y., Baek, I., & Kwak, N. (2026). [*When Saying No Makes Better Videos: Designing Dual Gatekeeping for Pedagogically Grounded AI Content Creation*](https://arxiv.org/abs/2608.19812). CHI 2026 Workshop on Understanding and Engaging Critical Resistance to AI in Education.

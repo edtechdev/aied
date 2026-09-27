@@ -8,7 +8,6 @@ technology: [generative-ai]
 assessment: [ai-detection, assessment, assessment-validity, authentic-assessment]
 methods: [research-methods-aied]
 ethics: [ai-use-disclosure]
-connected_faqs: [ai-guidance-children-under-13, course-ai-policy]
 research_method: [theoretical analysis]
 level: [higher ed]
 audience: [assessment designers, instructors, researchers, administrators]
@@ -86,35 +85,6 @@ Two cautions attach to the table. It describes a representative student, while r
 - **A deliberately stylised model.** It assumes a single representative student and normalized illustrative payoffs, and abstracts from disciplinary variation, student heterogeneity and institutional culture.
 - **Illustrative thresholds, not empirical estimates.** The deterrence ratio and the disclosure condition come from normalized illustrative values, and the authors present the propositions as testable rather than as findings to apply unchanged.
 - **The mechanism is measurable.** The disclosure cost is measurable, as are the discrimination margins, which the authors present as making the framework empirically tractable rather than merely conceptual.
-
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[assessment-validity]]
-- [[remote-proctoring]]
-- [[ai-use-disclosure]]
-- [[ai-detection]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[evaluative-judgment]]
-- [[higher-ed]]
-- [[formative-assessment]]
-- [[social-norms-ai-use]] — the informal rules around AI use
-
-## Connected Articles
-
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Detection's evidentiary collapse and the case for procedural justice and design
-- [[ethical-ai-higher-ed-game-theory]] — Coordination-game account of why policy pronouncements rarely change AI behavior
-- [[karr-ai-detection-humanization-2026]] — Why AI detection fails, and the humanization arms race
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Non-compliance with mandatory AI declarations
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: fear of retribution chills honest reporting
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Disclosure as help-seeking, redirected by anxiety toward peers
-- [[luo-dawson-value-judgments-grading-2026]] — Teacher value judgments and the two-way transparency problem
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authenticity redesigned rather than policed
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] — VARIA: task variation as a no-surveillance integrity mechanism
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
-- [[chirikov-regulate-ai-syllabi-2026]] — Syllabi shifting from integrity framing to task-level regulation
-- [[chen-zou-genai-group-assessment-agency-2026]] — Group norms and the negotiation of acceptable AI use
 
 ## Citation
 

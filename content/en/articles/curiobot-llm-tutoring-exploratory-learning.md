@@ -27,23 +27,6 @@ audience: [researchers, instructional designers]
 - Every interaction ran through a text-only interface with self-reported moderate English proficiency (reading 3.26±0.12, writing 3.16±0.13 on a 5-point scale), so learners who communicate in technical rather than verbose markers may be systematically underscored.
 - The operator-selection policy is a fixed prompted decision rule mapping engagement signals to operators, and the authors describe it as unoptimized, leaving learned controllers such as a contextual bandit over the five-operator action space as future work.
 
-## Connected Concepts
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[motivation]]
-
-## Connected Articles
-
-- [[socraticode-k12-programming-tutor]] — Toward SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
-- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
-- [[llm-reasoning-traces-metacognition]] — Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition
-
 ## Citation
 
 Gevindu Ganganath, Pasindu Bolonghege, Qianru Lyu, Pradeep Varakantham, Thivya Kandappu (2026). [Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior](https://arxiv.org/abs/2606.22349). submitted to EMNLP 2026.

@@ -57,24 +57,6 @@ The study is a small convenience-sample pilot in a single STEM sub-domain with s
 - **No learning-outcome measure by design:** the study evaluates perceived quality only, so it cannot support claims about [[learning-gains|learning effectiveness]].
 - **Measurement caveats:** the ten-item instrument omitted reverse-scored items, the two-item clarity scale had borderline reliability (Spearman-Brown = 0.63), open-ended responses were coded by a single rater, and with N = 22 all correlations are reported as exploratory.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[curriculum-design]]
-- [[pedagogical-agent]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[ai-generated-instructional-videos-computing-ed]] — AI-generated instructional videos in computing ed
-- [[ai-generated-slides-student-perception]] — Student perception of AI-generated slides
-- [[ai-enabled-serious-games]] — AI-enabled serious games
-- [[socratic-ai-physics-tutor-taxonomy-2026]] — Socratic AI physics tutor taxonomy
-- [[agentic-ai-education-scoping-review]] — Agentic AI in education scoping review
-
 ## Citation
 
 Rogosch, F., & Schrader, A. (2026). [*AI-Generated Interactive Fiction for Educational Use: A Pilot Study of Perceived Comprehensibility, Coherence, and Engagement*](https://doi.org/10.21125/edulearn.2026.1075). EDULEARN26 Proceedings, Article 1075.

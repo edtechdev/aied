@@ -6,7 +6,6 @@ type: article
 foundations: [limitations-in-aied-research]
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag]
 ethics: [ai-use-disclosure]
-connected_faqs: [reporting-interpreting-aied-research]
 sources: ['raw/papers/prisma-llm-ai-assisted-systematic-reviews-2026.md']
 confidence: high
 research_method: [bibliometric, secondary analysis]
@@ -68,34 +67,6 @@ The authors are explicit about the boundaries of their evidence. SciLitBench cov
 - **The reporting-richness index is descriptive.** Its 0-15 scale counts annotated evidence items, captures breadth with limited within-dimension depth, and is not a validated study-quality score.
 - **Paper-level silence is not proof of absence.** A software or product paper that reports no evaluation may still have validation in a product report, protocol, repository or prior publication, so the 38.0% figure is a reporting pattern rather than an audit of practice.
 - **No consensus development or user testing.** The checklist combines empirical observation with workflow expertise and prior guidance, and PRISMA-LLM is offered for testing rather than endorsed by the PRISMA Executive.
-
-## Connected Concepts
-
-- [[llm]]
-- [[meta-analysis-systematic-review]]
-- [[ai-use-disclosure]]
-- [[research-methods-aied]]
-- [[limitations-in-aied-research]]
-- [[human-in-the-loop-ai]]
-- [[prompt-engineering]]
-- [[rag]]
-- [[benchmark]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[agentic-ai]]
-
-## Connected Articles
-
-- [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback in education: A qualitative systematic literature review
-- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: The Manufacturing of an Evidence Base for AI-in-Education Through Flawed Meta-Analysis
-- [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — Can AI Evaluate Assessment? A Study of Large Language Model Meta-Assessment Performance
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[genai-educational-outcomes-meta-analysis]] — Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches
-- [[ai-science-chemistry-education-systematic-review-2025]] — Artificial Intelligence in Science and Chemistry Education: A Systematic Review
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — The Evolution of Research on AI and Education Across Four Decades: Insights from the AIxEd Framework
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators
 
 ## Citation
 

@@ -65,33 +65,6 @@ AI appears as an amplifier rather than a new failure mode. P7 asked how to use A
 - The audit is a snapshot of publicly accessible documentation, not proof of internal behavior: a zero means no disclosure was reachable within one or two clicks of the homepage, not that no internal commitment exists.
 - The India segment is smaller than its market importance and DPDPA enforcement was still developing, so cross-country differences are patterns within a purposive sample, not national privacy estimates.
 
-## Connected Concepts
-
-- [[privacy]]
-- [[governance]]
-- [[regulation]]
-- [[educational-policy-ai]]
-- [[edtech-platform]]
-- [[ai-use-disclosure]]
-- [[legal-issues-and-risks]]
-- [[k-12]]
-- [[higher-ed]]
-- [[mixed-methods-research]]
-- [[qualitative-research]]
-- [[administrator]]
-- [[stakeholders]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-
-## Connected Articles
-
-- [[data-privacy-ai-african-higher-education-2026]] — Rethinking data privacy for AI adoption in African higher education: A meta-synthesis of stakeholder perceptions and policy implications
-- [[league-ethical-governance-student-data-2026]] — Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics
-- [[qian-governing-genai-higher-ed-policy-2026]] — Governing generative AI in higher education: Emerging policy approaches and support ecosystems at innovative U.S. universities
-- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
-- [[perrotta-zero-shot-governance-2026]] — Zero-Shot Governance: General-Purpose AI in Policy
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-designing AI with youth partners: Enabling ideal classroom relationships through a novel AI relational privacy ethical framework
-
 ## Citation
 
 Meghna Manoj Nair, & Rachel Greenstadt (2026). [*"We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech*](https://arxiv.org/abs/2609.28137). arXiv preprint.

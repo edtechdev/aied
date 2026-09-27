@@ -52,22 +52,5 @@ For [[ai-education|AIED]] designers, SSAIL reframes safety from a property of mo
 - The human–AI performance expression, Observed performance = f(human contribution, AI contribution, human–AI interaction, task/context), is explicitly conceptual rather than a psychometric decomposition, so the framework supplies no method for separating the human contribution from the AI contribution.
 - The framework's own evidence layer is unvalidated: the paper identifies as open questions whether [[cognitive-offloading|cognitive labor]] can be classified reliably as protected, shared, or delegated, and whether coupled learner and system evidence supports more valid inferences than either stream alone.
 
-## Connected Concepts
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[pedagogical-safety]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[ai-education]]
-
-## Connected Articles
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI
-- [[seung-basham-cognitive-offloading-swld-2026]] — Cognitive Offloading in the Age of Generative AI and Students With Learning Disabilities
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion in Generative AI Learning
-- [[eduzone-llm-safety-k12]] — EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
-
 ## Citation
 Rahimi, S. (2026). [*SSAIL: A Design Framework for Safe and Sound AI for Learning*](https://osf.io/preprints/edarxiv/xg6e3/). EdArXiv preprint.

@@ -82,20 +82,6 @@ onal contexts
 - Scope was limited to [[k-12|K–12]] [[math-education|mathematics]] dialogue; real student behavior varies by subject and was never tested elsewhere.
 - Realism judgments are teacher self-report in interviews, with no measured learning outcomes and no comparison against real students.
 
-## Connected Concepts
-
-- [[k-12]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[scaffolding]]
-- [[simulating-students]]
-- [[student-modeling]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-
 ## Citation
 
 Martynova, D., Macina, J., Daheim, N., Yalçın, Ö. N., Zhang, X., & Sachan, M. (2026). [*Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students*](https://aclanthology.org/2025.bea-1.8).

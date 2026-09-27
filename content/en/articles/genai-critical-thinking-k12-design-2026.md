@@ -72,34 +72,6 @@ Implications are assigned by role: teachers should design tasks requiring explan
 - Short-horizon and cross-sectional designs dominate and few studies track the same students over years, so the claim that short-term engagement patterns harden into durable dispositions is an inference from developmental theory rather than an observed result.
 - The effect sizes come from a handful of quasi-experiments rather than a meta-analysis — 91 students in Jordan (η² = 0.21 to 0.35), 109 in Greece, 21 in Indonesia — and the supporting neurocognitive findings (Kosmyna et al., 2025) are preliminary and not specific to K–12 learners.
 
-## Connected Concepts
-
-- [[critical-thinking]] — the outcome construct, defined through Facione's six Delphi skills (interpretation, analysis, evaluation, inference, explanation, self-regulation) and treated as disposition plus practice
-- [[cognitive-offloading]] — the mechanism of harm when AI displaces rather than supports the cognitive effort reasoning requires
-- [[generative-ai]] — the technology whose effect the review argues is conditional on interaction design, not inherent
-- [[llm]] — the fluent, confident outputs whose surface qualities trigger uncritical acceptance in developing learners
-- [[ai-literacy]] — evaluative competence in how AI generates output and why it fails, shown to predict critical thinking and analytical skill
-- [[scaffolding]] — Vygotskian support that must stay responsive and fade, contrasted with the "anti-scaffold" that performs the task entirely
-- [[metacognition]] — self-monitoring that GenAI either externalizes for inspection or suppresses through fluent, authoritative-seeming output
-- [[inquiry-based-learning]] — the 5E cycle into which AI must be embedded at reasoning-demanding phases, not answer-supplying ones
-- [[evaluative-judgment]] — the design requirement to judge AI output rather than copy it, the single most direct enabler of reasoning gains
-- [[ai-feedback-quality]] — structured, prioritized, actionable feedback versus dense unprioritised feedback that overwhelms revision
-- [[prompt-engineering]] — prompt formulation before response, protected as the most cognitively demanding stage of inquiry
-- [[human-ai-collaboration]] — the distribution of cognitive responsibility between system and learner that determines the outcome
-
-## Connected Articles
-
-- [[chatgpt-critical-creative-thinking-review]] — Review evidence on how ChatGPT affects critical and creative thinking
-- [[cognitive-offloading-metacognitive-review-2026]] — Cognitive offloading and metacognition as the mechanisms of AI-related reasoning loss
-- [[cognitive-offloading-llm-synthesis-writing]] — Offloading dynamics observed in LLM-assisted synthesis writing
-- [[ai-feedback-critical-thinking-writing-2026]] — How AI feedback shapes critical thinking in writing tasks
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — Repositioning AI tutors from answer engines to reasoning facilitators
-- [[ai-mediated-cognitive-divergence-2026]] — Divergent cognitive effects when learning is mediated by AI
-- [[ai-assisted-inquiry-ssi-climate]] — AI-supported inquiry on socioscientific issues and reasoning demands
-- [[cognitive-shift-ai-education]] — The broader cognitive shift attributed to AI in education
-- [[cognitive-washout-ai-skill-decay-2026]] — Skill decay and washout when AI performs the practice
-- [[absent-cognitive-baseline-2026]] — The missing baseline against which AI's cognitive effects should be judged
-
 ## Citation
 
 Esmaeiligoujar, S., & Rahimi, S. (2026). [*Vicious or Virtuous? Designing Generative AI-Powered Learning Experiences to Foster Rather than Undermine Critical Thinking in K-12 Education*](https://doi.org/10.31234/osf.io/8d96p_v1). PsyArXiv preprint.

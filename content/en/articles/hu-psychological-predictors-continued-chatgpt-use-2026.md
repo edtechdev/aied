@@ -66,21 +66,6 @@ Two readings remain open and the design cannot separate them. Anxiety may interf
 - Intention and current use were not empirically separable here (latent correlation 0.98), and the general efficacy measure narrows what the trust to efficacy link can show.
 - Other candidate correlates, including perceived usefulness, social influence, and institutional policy, were left out of the model.
 
-## Connected Concepts
-
-- [[ai-literacy]]: distal competence that anchors the tested chain
-- [[trust]]: willingness to rely under uncertainty, and the model's pivot between knowledge and confidence
-- [[trust-calibration]]: the practical target of literacy instruction in the authors' reading
-- [[self-efficacy]]: general academic confidence as the second, more proximal mediator
-- [[anxiety-and-stress]]: AI anxiety as the boundary condition on the literacy to trust link
-- [[technology-acceptance-model]]: the parallel-predictor tradition this study reframes as an ordered sequence
-
-## Connected Articles
-
-- [[ai-literacy-learning-engagement-psych-capital-2026]]: AI literacy to engagement via psychological capital, a parallel mediator account in the same journal and population
-- [[trust-fairness-motivation-ai-teaching-assistants-2026]]: three-wave longitudinal study of trust as a leading indicator of fairness perceptions and learning motivation
-- [[ai-anxiety-strategic-regulation-writing-2026]]: how students convert AI anxiety into strategic regulation, the affective condition this model isolates at a single link
-
 ## Citation
 
 Hu, P. (2026). [*Psychological predictors of continued ChatGPT use among university students: the roles of AI literacy, trust, and academic self-efficacy*](https://doi.org/10.3389/fpsyg.2026.1900190).

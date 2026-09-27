@@ -63,30 +63,6 @@ Analysis of two undergraduate engineering students (127 and 58 total gestures; 9
 - Form labels come from a k-nearest-neighbors classifier (k = 7) evaluated at 0.85 accuracy and 0.84 Macro-F1 on a held-out split, and the semantic labels are produced by a single FLAN-T5 meaning agent under a forced JSON schema with no reported human agreement or inter-rater reliability.
 - The claim that gesture adds diagnostic value beyond speech is set up by the speech-only, gesture-only, and combined representations but not tested: the reported results are descriptive episode and confidence statistics, not a comparison against speech-only assessment or learning outcomes.
 
-## Connected Concepts
-
-- [[engineering-education]]
-- [[embodied-learning]]
-- [[multimodal]]
-- [[learning-analytics]]
-- [[assessment-validity]]
-- [[oral-assessment]] — Oral Assessment
-- [[math-education]]
-- [[llm]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[llm-automated-assessment-student-self-explanations]] — LLM Automated Assessment of Student Self-Explanations
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — Embodied Inquiry with AI as Facilitator
-- [[embodied-string-learning-blindness-low-vision-musicians]] — Embodied String Learning for Musicians with Blindness
-- [[confidence-aware-student-drawing-assessment]] — Confidence-Aware Assessment of Student-Drawn Scientific Models
-- [[multimodal-affective-its-presentation]] — Multimodal Affective Intelligent Tutoring Presentation
-- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-Mediated Authentic Assessment and Metacognition
-
 ## Citation
 
 Morphew, J. W., Mehrabi, A., Bennett, J. A., & Majmundar, A. M. (2026). [*A Multimodal Framework for Embodied Cognition in Oral Explanations*](https://github.com/amehrabi67/OralExams). ASEE Annual Conference & Exposition, Paper ID #51108.

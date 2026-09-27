@@ -66,24 +66,6 @@ This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated 
 - ESL was developed as a general active-teaching instrument for other content; the paper offers no evidence about how well anticipate–produce–reflect maps onto AI-specific objectives or about how episodes should be sequenced across grades at the macro level.
 - The claim that both levels of AI teaching operate under an "explainability" mode centered on social interaction and school-community participation is asserted without criteria for judging whether any given episode achieves it.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[situated-learning]]
-- [[experiential-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[k-12]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[critical-thinking]]
-- [[computational-thinking]]
-
-## Connected Articles
-
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — meta-analysis of AI literacy intervention effectiveness
-- [[vargas-situated-learning-ai-review-2024]] — Systematic review linking situated learning and AI
-
 ## Citation
 
 Panciroli, C., Allegra, M., Gentile, M., & Rivoltella, P. C. (2023). [*Towards AI literacy: A proposal of a framework based on the Episodes of Situated Learning*](https://doi.org/10.2760/115376) . *CEUR Workshop Proceedings* (Ital-IA 2023).

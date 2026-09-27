@@ -57,23 +57,6 @@ Perceived usefulness and perceived ease of use both increased significantly, sup
 - Social conditions matter here too: classrooms are heterogeneous, so access to such training and the infrastructure that supports AI use are unevenly distributed, and the findings say nothing about whether the benefits reach schools with fewer resources.
 - Finally, the SAELKIS items refer to AI-based technologies rather than explicitly to LLMs, so it remains unclear whether participants answered with LLM applications or broader AI in mind. Subsequent work should use larger, more diverse samples, comparison groups, longer follow-up, and measures of actual use.
 
-## Connected Concepts
-
-- [[technology-acceptance-model]] — the framework structuring the perceived usefulness, ease of use, and intention measures
-- [[professional-training]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-- [[llm]]
-- [[generative-ai]]
-- [[personalized-learning]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[guillen-curriculum-genai-teacher-competence-2026]] — TAM-based assessment of teacher digital competence with GenAI
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity theory and structural equation modeling of teacher AI adoption
-- [[tpack-genai-inservice-teachers-mediation-2026]] — In-service teachers' TPACK-GenAI and pedagogical knowledge
-
 ## Citation
 
 Mesenhöller, J., & Böhme, K. (2026). [*Empowering teachers to use AI for differentiation*](https://doi.org/10.3389/feduc.2026.1875856).

@@ -61,31 +61,6 @@ The evaluation uses the seven Teacher TalkMoves labels of a [[k-12]] mathematics
 - The approach strictly underperforms the fine-tuned classifier trained on expert-annotated gold data, so such datasets remain worthwhile when high confidence is required.
 - The evaluation covers 10 sessions and 3,217 teacher utterances from one K-12 mathematics corpus, and whether assertion-based coding reduces annotation and revision rounds remains an open question.
 
-## Connected Concepts
-
-- [[educational-nlp]]
-- [[llm]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[human-in-the-loop-ai]]
-- [[open-source]]
-- [[teacher-role]]
-- [[qualitative-research]]
-- [[quantitative-research]]
-- [[machine-learning]]
-- [[limitations-in-aied-research]]
-- [[theory-development-aied]]
-
-## Connected Articles
-
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth
-- [[llm-qualitative-coding-consensus-2026]] — How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding
-- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
-- [[melo-llm-classroom-observation-teach-2026]] — Validating AI-generated classroom observations: Reliability, accuracy, and limits of LLM-based pedagogical judgment
-- [[xiong-ai-educational-measurement-review-2026]] — A Decade of Reflection and Thematic Review on Artificial Intelligence's Impact on Educational Measurement
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise
-
 ## Citation
 
 Bernado, Ribeiro, Beberman, and Loeb (2026). [*EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues*](https://arxiv.org/abs/2609.27043). arXiv preprint.

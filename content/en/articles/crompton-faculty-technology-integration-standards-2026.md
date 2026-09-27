@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [pedagogy]
 methods: [design-based-research]
-connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors, administrators]
 level: [higher ed]
 sources: ['raw/papers/crompton-faculty-technology-integration-standards-2026.md']
@@ -56,24 +55,6 @@ This article is central to the knowledge base's [[educational-development]] and 
 - Participants were drawn largely from US faculty (28 institutions across five Carnegie types) plus international faculty from 11 countries, and the authors advise adopters to consider local contexts.
 - The authors state that cultural and institutional nuances in how faculty roles are understood were only partially addressed, so testing across more countries is needed.
 - The study establishes consensus and iteration rather than downstream effects; the authors call for design-based studies testing certificate programs built on the standards.
-
-## Connected Concepts
-
-- [[educational-development]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[administrator]]
-- [[pedagogy]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[guillen-curriculum-genai-teacher-competence-2026]]
-- [[kibar-ilgaz-ai-instructional-design-review-2026]]
-- [[kim-ai-andragogy-2026]]
-- [[enright-staff-perspectives-genai-2026]]
 
 ## Citation
 

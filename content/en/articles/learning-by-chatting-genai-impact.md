@@ -42,20 +42,6 @@ page_kind: [evaluation]
 - The study used one informal topic (nutrition and meal planning), and the authors state the task was not completely self-directed or unstructured; behaviors may differ in high-stakes domains such as healthcare, where credibility checking is more pronounced.
 - Diary entries are self-report accounts that may not capture every instance of information seeking, findings are aggregate rather than modeling individual differences, and participants were drawn from a screened pool of moderate GenAI users, so the results should not be read as characterizing all learners or all forms of learning.
 
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[agency]]
-## Connected Articles
-
-- [[tutoring-effectiveness-index]]
-- [[llm-fallacy-misattribution]]
-- [[efficiency-gain-illusion-ai-overreliance]]
 ## Citation
 
 Mittal, S., Blodgett, S. L., & Liao, Q. V. (2026). [Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning](https://arxiv.org/abs/2606.11669).

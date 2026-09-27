@@ -41,16 +41,5 @@ page_kind: [framework]
 - The theoretical frame is bounded: [[activity-theory-aied|CHAT]] offers no conceptual tools for explaining why students select one tool over another, and the analysis did not examine cases where implicit and formal rules align.
 - The temporal scope is a snapshot, so behaviors and tensions may shift quickly as AI tools develop.
 
-## Connected Concepts
-- [[activity-theory-aied]]
-- [[engineering-education]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[ethics]]
-
-## Connected Articles
-- [[jiang-genai-activity-theory-disciplines-2026]] — Activity theory perspective on disciplinary differences in GenAI use
-
 ## Citation
 Leino Lindell, T., & Stöhr, C. (2026). [*The AI disruption in engineering education: An analysis of changing student norms through cultural historical activity theory*](https://doi.org/10.1007/s12528-025-09488-8). Journal of Computing in Higher Education.

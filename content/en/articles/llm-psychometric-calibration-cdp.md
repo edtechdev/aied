@@ -32,31 +32,6 @@ This [[research-methods-aied|research]] connects to the growing body of work on 
 - The items are publicly distributed in the R package CDM and widely analyzed, so exposure in LLM training corpora cannot be ruled out; the authors call for replication on secure, unreleased item pools.
 - The informative condition used an in-sample prior estimated from the same 536 examinees that define the evaluation reference, so it marks an upper bound on prior benefit, and each cell was generated once at default sampling settings, leaving generation variability unquantified.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[personalized-learning]]
-- [[student-experience]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[edtech-platform]]
-- [[stem-education]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[item-response-theory]]
-- [[simulating-students]]
-- [[psychometrically-aware-ai]]
-- [[educational-measurement]]
-## Connected Articles
-
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
-- [[llm-student-misconception-identification]] — What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics
-
 ## Citation
 
 Wenjie Zhou, Yunting Liu, Renjiao Tang, Mark Wilson (2026). [Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach](https://arxiv.org/abs/2607.26317). arXiv preprint.

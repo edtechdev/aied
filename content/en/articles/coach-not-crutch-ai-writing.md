@@ -42,28 +42,6 @@ page_kind: [evaluation, framework]
 - Retention was probed only one day out, by recontacting a subsample of 800 participants of whom 633 responded (17–24% attrition, not differing by condition), and participants interacted with AI only once in the paradigm, so repeated use is untested.
 - Effort outcomes rest on behavioral proxies (time on task and keystrokes), and the keystrokes-per-minute metric was added after preregistration; the human-editor comparison used 49 editors who, on the authors' own check, got faster without getting worse as they worked, so the AI advantage is not an artifact of editor fatigue.
 
-## Connected Concepts
-
-- [[writing-education]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[ai-feedback-quality]]
-- [[learning-gains]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[feedback]]
-- [[transfer-of-learning]]
-
-## Connected Articles
-
-- [[ai-making-us-stupid]] — Is AI making us stupid?
-- [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
-- [[generative-ai-reduced-study-time-math]] — Generative AI reduced study time in math
-- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
-- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion
-- [[genai-performance-vs-learning]] — GenAI performance vs. learning
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle and AI
-
 ## Citation
 
 Lira, B., Rogers, T., Goldstein, D. G., Ungar, L., & Duckworth, A. L. (2025). [*Coach not crutch: Evidence that AI can improve writing skill despite reducing effort*](https://arxiv.org/abs/2502.02880).

@@ -44,22 +44,6 @@ page_kind: [framework]
 - The measures were task-specific prompt and output scores, not conceptual understanding, retention or independent problem solving, so claims about learning transfer remain unverified.
 - Transfer evidence rests on unaided tasks completed only five days after instruction, with the authors calling for longer-term and cross-disciplinary replication.
 
-## Connected Concepts
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[prompt-engineering]]
-- [[agency]]
-- [[generative-ai]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[vibe-compiler-metacognition-genai-agency-2026]] — Metacognition and agency with generative AI
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively discordant completion with GenAI
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner for co-regulated learning
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI literacy beyond a skills-gap framing
-
 ## Citation
 
 Wang, X., Zheng, Z., Zhang, J., Hou, X., & Zhu, Z. (2026). [*The IDEA Framework for Metacognitively Regulated GenAI Use in Higher Education: Development and Exploratory Pilot Evidence*](https://doi.org/10.1016/j.caeai.2026.100657). *Computers and Education: Artificial Intelligence*, 100657. https://doi.org/10.1016/j.caeai.2026.100657

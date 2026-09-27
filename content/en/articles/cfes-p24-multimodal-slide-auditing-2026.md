@@ -72,25 +72,6 @@ Both sham calls were correctly classified as having **no material difference**. 
 - Prompt and schema development was adaptive before the gate was frozen, so the reported boundary is a development-stage validation rather than an independent confirmatory test.
 - The lessons are author-created and Chinese-language, and neither [[teacher-role|teachers]] nor students used the system and no authentic classroom files were analyzed, leaving usability, workload, adoption, and [[learning-gains|learning outcomes]] outside the evidence.
 
-## Connected Concepts
-
-- [[benchmark]]
-- [[llm]]
-- [[multimodal]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[assessment-validity]]
-- [[generative-ai]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[cdpk-pedagogy-benchmark-llms]] — The Pedagogy Benchmark: CDPK + SEND
-- [[elbench-education-llm-benchmark-2026]] — ELBench: Education-Facing LLM Benchmark
-- [[teaching-monster-pck-benchmark-2026]] — Teaching Monster: PCK Benchmark
-- [[aissa-slides-analysis]] — Slides Analysis
-- [[xai-education-framework]] — Explainable AI in Education Framework
-
 ## Citation
 
 Ma, Y., Li, S., & Shi, S. (2026). [*Benchmarking Multimodal Large Language Models for Educational Slide Auditing*](https://osf.io/preprints/edarxiv/4y8xk_v1). EdArXiv preprint.

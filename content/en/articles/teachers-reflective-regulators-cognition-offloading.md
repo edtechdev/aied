@@ -55,23 +55,6 @@ Cognitive offloading varied with teaching experience, school level, school type,
 - Participants worked in a heterogeneous tool ecosystem (ChatGPT, Gemini, Copilot, Claude, and MagicSchool.ai alongside Doubao, Kimi, Ernie Bot, and SparkDesk) that the study did not systematically compare, so it cannot attribute any pattern to specific platform features or governance arrangements.
 - The six-stage offloading operationalization that guided data collection and coding is the authors' own heuristic built on Risko and Gilbert's framework, so the three-part thematic structure reflects that single analytic lens rather than a pre-validated instrument.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[teacher-role]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[ethics]]
-- [[feedback]]
-
-## Connected Articles
-
-- [[cognitive-offloading-metacognitive-review-2026]] — Cognitive offloading and metacognition review
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI tools, cognitive offloading and critical thinking
-- [[lodge-loble-cognitive-offloading-2026]] — Cognitive offloading and learning
-
 ## Citation
 
 Ho, C. S. M., & Chen, J. (2026). [Teachers as reflective regulators of cognition: Understanding cognitive offloading in AI-augmented practice](https://doi.org/10.1016/j.caeai.2026.100670). *Computers and Education: Artificial Intelligence*, 11, 100670.

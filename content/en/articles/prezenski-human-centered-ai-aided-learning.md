@@ -78,35 +78,6 @@ Reasons include the difficulty of sustained developer–educator collaboration, 
 - The claim that Human-Centered AI is rarely implemented rigorously in education rests on cited secondary sources describing UX being mistaken for human-centeredness and educators being consulted late (Zawacki-Richter et al.; Alfredo et al.); the review itself codes no design processes to quantify how widespread the problem is.
 - The review spans higher education and technology-mediated learning broadly, drawing no primary data from learners, teachers, or developers, so it identifies the risk surface and proposed remedies rather than testing whether either changes outcomes.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[ethics]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[cognitive-offloading]]
-- [[personalized-learning]]
-- [[game-based-learning]]
-- [[learning-analytics]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[llm]]
-- [[educational-robotics]]
-- [[knowledge-tracing]]
-
-## Connected Articles
-
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — Human-Centered AI metacognitive model
-- [[ai-making-us-stupid]] — Is AI making us stupid?
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle, AI, and the illusion of learning
-- [[genai-over-reliance-learning-2026]] — Generative AI over-reliance and learning
-
 ## Citation
 
 Prezenski, S. (2026). [*How human-centered is AI-aided learning in education?*](https://doi.org/10.1007/978-3-032-26816-7_21). In K. Tödt et al. (eds.), *Digital Education and Innovation*. Springer (Open Access).

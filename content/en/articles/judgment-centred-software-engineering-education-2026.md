@@ -60,35 +60,6 @@ AASEE complements rather than replaces earlier frameworks — Kumar's VIE framew
 - The search window runs from January 2023 to 23 September 2026 with no database-specific hit counts, and the synthesis is by a single author.
 - AASEE is normative and untested — an evidence-informed design hypothesis rather than a validated causal model — and the most SE-specific evidence, including the capstone and comprehension-debt studies, dates from 2026.
 
-## Connected Concepts
-
-- [[cs-education]]
-- [[engineering-education]]
-- [[evaluative-judgment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[human-ai-collaboration]]
-- [[scaffolding]]
-- [[help-seeking]]
-- [[prior-knowledge]]
-- [[trust-calibration]]
-- [[agentic-ai]]
-- [[curriculum-design]]
-- [[meta-analysis-systematic-review]]
-
-## Connected Articles
-
-- [[kumar-genai-computing-education-systematic-review-2026]] — Generative AI in computing education: A systematic review and a framework for responsible integration
-- [[ase-26-agentic-software-engineering-curriculum]] — ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL
-- [[llm-programming-support-governance-cs-education]] — Exploring the Design Space of LLM-Based Programming Support in CS Education
-- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
-- [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-
 ## Citation
 
 Mahmoud, Q. H. (2026). [*Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning*](https://arxiv.org/abs/2609.29473). arXiv preprint.

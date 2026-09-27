@@ -66,21 +66,6 @@ Preliminary findings are reported descriptively and interpretatively, without cl
 - Participants include learners, teachers, and parents across three broad age groups, so the pre/post self-report measures and rubrics mix roles and ages rather than isolating learner effects.
 - There is no comparison condition: the study is exploratory design-based evidence on feasibility and perceived usefulness, not an efficacy evaluation, and larger-scale validation and longitudinal tracking of learner trajectories remain future work.
 
-## Connected Concepts
-- [[human-in-the-loop-ai]]
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-## Connected Articles
-
-- [[ai-tutor-behavioral-evaluation]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
 ## Citation
 
 Pier Paolo Benedetti (2026). [Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China](https://arxiv.org/abs/2605.20665). Accepted at ICAIE 2026.

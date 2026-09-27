@@ -85,41 +85,6 @@ The authors connect the requirements to three instructional-design traditions, a
 - The synthesis combines heterogeneous designs without [[meta-analysis-systematic-review|meta-analytic]] effect pooling, and the authors mark the corpus counts as subject to re-tallying after a supplementary 2025–2026 search.
 - This ingested version is an Elsevier journal pre-proof (accepted 9 September 2026), so pagination and copy-edited wording may change in the version of record.
 
-## Connected Concepts
-
-- [[cs-education]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[higher-ed]]
-- [[assessment]]
-- [[summative-assessment]]
-- [[evaluative-judgment]]
-- zone of proximal development
-- [[desirable-difficulties]]
-- cognitive load
-- [[student-ai-interaction]]
-
-## Connected Articles
-
-- [[ai-generated-traces-novice-programmers]] — Traces of AI-generated code in novice programmers' work
-- [[ai-writes-code-student-writes-model-2026]] — Who learns when AI writes the code
-- [[buggy-genai-code-student-responses]] — How students respond to buggy GenAI-generated code
-- [[chatgpt-programming-education-text-mining]] — Text mining the ChatGPT-in-programming-education literature
-- [[assessment-team-problem-solving-computing-education]] — Assessing team problem solving in computing education
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment as the response to AI
-- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessment as an AI-resistant format
-- [[ai-literacy-equity-programming-policy]] — AI literacy, equity and programming-education policy
-- [[ai-agents-complete-lms-assessment-validity-2026]] — When agents complete LMS assessments: validity consequences
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-directed learning
-- [[du-yuan-epistemic-dependence-2026]] — Differentiating productive reliance from harmful dependence
-
 ## Citation
 
 Kumar, A., Wongsirichot, T., & Nanthaamornphong, A. (2026). [Generative AI in computing education: A systematic review and a framework for responsible integration](https://doi.org/10.1016/j.caeai.2026.100677). *Computers and Education: Artificial Intelligence*.

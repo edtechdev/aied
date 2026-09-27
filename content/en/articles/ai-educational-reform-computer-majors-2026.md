@@ -47,19 +47,6 @@ The intervention had five components: [[curriculum-design]] restructuring built 
 
 - Outcomes rely partly on self-report (student and faculty surveys) and context-specific assessment rubrics.
 
-## Connected Concepts
-
-- [[cs-education]] · [[higher-ed]] · [[curriculum-design]] · [[learning-design]] · [[personalized-learning]]
-- [[adaptive-learning]] · [[learning-analytics]] · [[formative-assessment]] · [[collaborative-learning]] · [[authentic-assessment]] · [[human-ai-collaboration]] · [[teacher-ai-competency]]
-
-## Connected Articles
-
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — AI integration in a software-engineering curriculum, complementary to the curriculum-restructuring lens here.
-- [[genai-meta-analysis-programming-learning]] — meta-analytic evidence on generative-AI effects in programming education, relevant to this reform's AI-enhanced CS courses.
-- [[chatgpt-programming-education-text-mining]] — text-mining analysis of ChatGPT in programming education, overlapping this study's computing-context focus.
-- [[ai-tpack-teacher-multi-agent-workflow]] — teacher development for AI-integrated instruction, echoing the faculty-competency component of the reform.
-- [[lock-integrating-ai-online-learning-higher-ed-2025]] — AI integration in higher-education online learning, consistent with the smart-teaching ecosystem described.
-
 ## Citation
 
 Wang, J., & Li, P. (2026). [AI-Driven Educational Reform: Enhancing Talent Cultivation in Computer-Related Majors for the Digital Era](https://doi.org/10.3389/fpsyg.2026.1790916). *Frontiers in Psychology, 17*, 1790916.

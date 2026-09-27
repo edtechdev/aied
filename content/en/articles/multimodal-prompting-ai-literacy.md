@@ -42,27 +42,6 @@ The study was conducted as an exploratory workshop with 28 postgraduate students
 - Evidence comes from eight self-documented group reports (109 pages in total) analyzed with reflexive thematic analysis, so the ethical-reasoning gap is read from students' own accounts rather than observed practice.
 - Participants ranged in age from 23 to 44 and came from diverse cultural, linguistic, and academic backgrounds, so the findings should be treated as exploratory and context-specific.
 
-## Connected Concepts
-
-- [[prompt-engineering]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[multimodal]]
-- [[reducing-ai-misuse]]
-- [[generative-ai]]
-- [[storytelling-in-education]]
-- [[creativity]]
-- [[collaborative-learning]]
-
-## Connected Articles
-
-- [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
-- [[same-ai-different-pathways]] — Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts
-- [[pchl-he-framework-genai-content-creation-2026]] — From Prompts to Verified Loops: The PCHL-HE Framework for Generative AI-Assisted Educational and Research Content Creation in Higher Education
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
-- [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies
-
 ## Citation
 
 Sofkova Hashemi, S. (2026). [*Students' multimodal prompting practices as epistemic work in AI literacy development*](https://doi.org/10.1016/j.caeai.2026.100635).

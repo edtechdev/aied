@@ -18,7 +18,6 @@ assessment: [authentic-assessment, formative-assessment, summative-assessment]
 institutions: [change-management, educational-policy-ai, governance]
 ethics: [ai-use-disclosure, equity-in-ai-education]
 contributors: [editor]
-connected_faqs: [faculty-development-ai, faculty-ai-competencies]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
@@ -59,32 +58,6 @@ Faculty raised assessment concerns in almost every session, and the fifth addres
 - The authors present no validated [[curriculum-design|curriculum]] and make no claims about changes in student learning, framing the series as one instantiation rather than a model to replicate.
 - The end-of-series evidence is a [[self-report-measures|self-report]] reflection survey; faculty most valued the collective discussion, while few reported concrete changes to teaching or policy.
 - [[ethics|Ethics of AI]] use and AI in the instructional laboratories were identified in the final session as areas the series had not yet addressed.
-
-## Connected Concepts
-- [[educational-development]]
-- [[change-management]]
-- [[teacher-ai-competency]]
-- [[physics-education]]
-- [[generative-ai]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[cognitive-offloading]]
-- [[educational-policy-ai]]
-- [[pedagogical-partnerships]]
-- [[authentic-assessment]]
-- [[student-ai-interaction]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
-- [[finkelstein-principled-ai-education-2025]] — A principled way to think about AI in education: guidance for educators and policy makers based on goals, models
-- [[chick-faculty-development-ethical-ai-2026]] — From fear to innovation: A case study of transformative faculty development for ethical AI integration in higher education
-- [[ai-integration-instructional-design-collaboratory-2026]] — AI Integration as Instructional Design: Lessons from a Cross-Institutional Faculty Collaboratory in Teacher Preparation
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — The AI Challenge: How college faculty assess the present and future of higher education in the age of AI
-- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
-- [[mccorkle-aligned-genai-course-policy-2025]] — Designing an Aligned Generative AI Course Policy: An Equitable and Transparent Learner-Centered Approach
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future
-- [[becker-chatgpt-typology-physics-2026]] — Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education
 
 ## Citation
 Perl-Nussbaum, D., & Finkelstein, N. D. (2026). [A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community](https://arxiv.org/abs/2609.23887). arXiv:2609.23887.

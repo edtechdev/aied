@@ -42,31 +42,6 @@ The study surveyed 93 bioscience graduate students and postdoctoral trainees enr
 - **Self-report measures.** Usage frequency was self-reported on a Never-to-Daily scale rather than observed behavior, and both predictors and outcomes relied on self-report, so response styles such as acquiescence or extremity bias could contribute to the associations.
 - **Coarse coding of prior AI education.** The null result for prior AI education should be read carefully, since AI literacy spans multiple competencies and the coding of prior education was relatively coarse.
 
-## Connected Concepts
-
-- [[personalized-learning]]
-- [[ai-literacy]]
-- [[adaptive-learning]]
-- [[affective-tutoring]]
-- [[bias-mitigation]]
-- [[affective-computing]]
-- [[knowledge-tracing]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[higher-ed]]
-- [[student-engagement]]
-- [[self-report-measures]]
-
-## Connected Articles
-
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
-- [[llm-student-misconception-identification]] — What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics
-
 ## Citation
 
 Yongkyung Oh, Lynn Talton, Alex Bui (2026). [Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction](https://arxiv.org/abs/2606.18548).

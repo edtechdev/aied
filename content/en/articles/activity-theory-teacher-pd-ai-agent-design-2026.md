@@ -38,17 +38,6 @@ page_kind: [framework]
 - Capacity and willingness are self-report 7-point Likert measures (AI-TPACK, IPACK, Attitude toward AI; α = 0.88–0.94) administered at the start of workshop Day 1 and the end of Day 2, capturing immediate change with no classroom implementation or student outcome measured.
 - The Basic Needs Satisfaction Survey was post-only, leaving no baseline need-frustration measure, and the researchers designed and facilitated both workshop cycles themselves; interview coding reached Cohen's κ = 0.78.
 
-## Connected Concepts
-- [[activity-theory-aied]]
-- [[teacher-role]]
-- [[educational-development]]
-- [[agentic-ai]]
-- [[generative-ai]]
-
-## Connected Articles
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity theory as a lens on teachers' adoption of AI (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — K-12 teachers' perspectives on AI use through activity theory
-
 ## Citation
 
 Xin, H., Niu, Q., Li, S., Sun, Y., Chai, C. S., Huang, L., & Chen, G. (2026). [*An activity-theoretical approach to teacher professional development in pedagogical AI agent design*](https://arxiv.org/abs/2605.12934).

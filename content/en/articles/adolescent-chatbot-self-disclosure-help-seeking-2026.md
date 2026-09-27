@@ -68,32 +68,6 @@ The cross-national divergence is explained culturally, not clinically. East Asia
 - All measures were [[self-report-measures|self-reported]], inviting recall bias and social desirability, and bullying perpetration in particular is likely under-reported; the predictor was a single open-ended item about willingness, not behavior, so the survey never established whether or how frequently participants used a chatbot, and everything the paper says about chatbot responses, [[ai-sycophancy]] or emotional responsiveness is an interpretation of a disposition rather than of an interaction, with the cultural and self-focus mechanisms offered as tentative explanations.
 - The coding forced each adolescent into one of three categories by predominant theme, erasing mixed motives, and no data were collected on which platforms adolescents used, so the authors explicitly warn that companion-style applications with stronger relational affordances may produce different patterns than the general-purpose assistants named in the prompt.
 
-## Connected Concepts
-
-- [[help-seeking]] — the orientation whose stability across sites carries the paper's central contrast
-- [[well-being]] — adolescent emotional adjustment framed through coping, disclosure and peer behavior
-- [[social-emotional-learning]] — the developmental domain in which disclosure and prosocial behavior are being shaped
-- [[student-ai-interaction]] — conversation topic as a moderator of what chatbot contact does to learners
-- [[conversational-ai]] — general-purpose assistants (ChatGPT, Bing, Bard) as the interaction partner studied
-- [[generative-ai]] — the technology class adolescents were asked about in the open-ended item
-- [[llm]] — the language-model substrate whose humanlike fluency drives the CASA effect
-- [[self-efficacy]] — the mechanism claimed to carry instrumental help-seeking into adaptive coping
-- [[trust]] — anthropomorphism, emotional responsiveness and perceived social presence as trust questions
-- [[privacy]] — personal disclosure to a commercial system, unmeasured but central to the practice
-- [[cognitive-offloading]] — the counter-reading in which chatbots absorb coping work rather than support it
-- [[anxiety-and-stress]] — adult concerns about adolescent chatbot use that the findings partly complicate
-
-## Connected Articles
-
-- [[culturally-aware-student-stress-chatbot-2026]] — cultural adaptation of stress-support chatbots for students
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — children's attitudes toward and trust in chatbot interaction
-- [[colbran-student-perspectives-genai-chatbots-2026]] — student perspectives on generative AI chatbots in learning
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — help-seeking and self-regulation with LLM support
-- [[ai-fallibility-warning-help-seeking]] — how fallibility signals change learners' help-seeking behavior
-- [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
-- [[regulating-ai-tutor-adolescent-srl]] — adolescent self-regulation with an AI tutor
-- [[human-ai-complementarity-social-emotional-learning-2026]] — complementarity between human and AI support in social-emotional learning
-
 ## Citation
 
 Hu, H., Habibi Asgarabad, M., Jen, E., & Cheung, H. N. (2026). [*Turn to chatbots for sharing feelings or seeking solutions? Differential associations of preferences for chatbot-mediated self-disclosure and instrumental help-seeking with adolescent interpersonal behaviors in the United States and Hong Kong*](https://doi.org/10.31234/osf.io/qm6bg_v1). PsyArXiv preprint.

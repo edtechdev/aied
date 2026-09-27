@@ -50,34 +50,6 @@ Two consequences follow. A process that relies on individual expertise for its e
 
 The analysis is retrospective, and coded items represent what was documented in case files rather than the full evidentiary basis for decisions; assessors may have relied on tacit reasoning that never entered the written record, and low-frequency codes may be underreported. The calibration sample of twelve cases is small, several codes remain rare even in the held-out sample so per-code estimates are imprecise, and the study was not disaggregated by cohort or discipline because the de-identified dataset lacks those fields and reporting at that level fell outside the [[privacy|ethics approval]]. The authors also note their positionality as employees of the institution whose data was analyzed, mitigated by anonymization. Finally, the data come from one Australian university; multi-institution replication is identified as the priority for future research.
 
-## Connected Concepts
-
-- [[academic-integrity]] — the paper's subject: what evidence institutions hold when they allege GenAI misuse
-- [[assessment-validity]] — probative value as the question of whether evidence bears on the claim at issue
-- [[ai-detection]] — detector output is the weakest-rated evidence type and has nearly vanished from case files
-- [[evaluative-judgment]] — panels weigh evidence through unstructured professional judgment
-- [[educational-measurement]] — the taxonomy's rating scales and inter-coder reliability work
-- [[remote-proctoring]] — proctoring records and observed prohibited exam behavior are among the few Strong evidence types
-- [[educational-policy-ai]] — the case for codifying evidentiary standards in misconduct procedures
-- [[governance]] — staged investigation, the balance of probabilities, and the burden on the institution
-- [[student-experience]] — weak evidentiary bases push students toward appeals
-- [[higher-ed]] — institutional practice across a three-year period of GenAI caseload growth
-- [[trust]] — defensibility of findings depends on explicit, auditable evidentiary standards
-- [[hallucination-risk]] — fabricated references are the most frequent concrete GenAI signal
-- [[ai-misuse-learning-harm]] — poor academic practice as an educational rather than disciplinary outcome
-- [[reducing-ai-misuse]] — what investigators can actually establish when they suspect misuse
-
-## Connected Articles
-
-- [[bassett-ai-detectors-education-2026]] — Argues detector output may never carry sufficient evidentiary weight for misconduct
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Detector reliability in higher education, cited as evidence against detector-based cases
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detector accuracy and the misclassification risk this paper's burden-of-proof argument depends on
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Proctoring evidence, the source of the Strong behavioral ratings here
-- [[teichmann-detecting-undetectable-misconduct-2026]] — The detection problem these case files record in practice
-- [[ivory-psychology-assessment-integrity-2026]] — Assessment vulnerability supplying the caseload that misconduct panels then weigh
-- [[biology-degree-integrity-genai-cheating-2026]] — Program-level exposure evidence, a complement to this case-file analysis
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Redesign rather than surveillance as the response to unverifiable authorship
-
 ## Citation
 
 Munoz, A., Hinchcliff, M., Langfield, C., & Rogerson, A. (2026). [*How strong is the evidence in generative AI-related academic misconduct allegations? A mixed-methods analysis*](https://doi.org/10.1007/s40979-026-00235-9). *International Journal for Educational Integrity*, 22(26).

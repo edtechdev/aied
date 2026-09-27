@@ -37,20 +37,6 @@ methods: [rct, benchmark]
 - Several nationality groups contain a single student in the clean data (German 1, Ghanaian 1, Hong Konger 1, Uzbek 1), and the authors state that such underrepresentation may produce wrong predictions for students inaccurately flagged as at-risk.
 - The study predicts withdrawal and cancellation but tests no intervention: there is no control group or retention trial, so it supports claims about classification accuracy, not about whether flagged students actually stay.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[higher-ed]]
-- [[student-engagement]] — early-warning signals of withdrawal
-- [[equity-in-ai-education]] — avoiding bias in risk scoring
-- [[ai-ed-evaluation]] — evaluating the predictive validity of the models
-- [[privacy]] — handling sensitive student and enrollment data
-- [[educational-measurement]] — using academic performance data to estimate risk
-## Connected Articles
-
-- [[ai-adoption-training-public-sector]]
-- [[trace-course-grade-prediction-2026]] — Course-grade prediction from learning traces
 ## Citation
 
 Soheila Gheisari, Hamid Salarian (2026). [Analysis and Prediction of At-Risk Students Using Machine Learning Algorithms](https://arxiv.org/abs/2606.20617).

@@ -65,27 +65,6 @@ The taxonomy's Epistemic Engagement category (understanding / using / critiquing
 - The authors state that classifications are "suffused with ethical and political values" and present the taxonomy as only one possible way to view the landscape, so it stakes out a position rather than offering a neutral instrument.
 - It is explicitly not a design method or pedagogical framework: it can help orient search and comparison but cannot specify what a particular learning activity should be.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[human-ai-collaboration]]
-- [[activity-theory-aied]]
-- [[prompt-engineering]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[student-llm-interaction-taxonomy-review-2026]] — Taxonomy review of student-LLM interactions
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Task-based taxonomy of LLM tasks for critical AI literacy
-- [[socratic-ai-physics-tutor-taxonomy-2026]] — Taxonomy of Socratic AI physics tutor dialogue
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — Taxonomy of AI educational leadership
-- [[metacognitive-learning-scenarios-taxonomy]] — Taxonomy of metacognitive learning scenarios
-
 ## Citation
 
 Dohn, N. B., Markauskaite, L., Huber, E., Wardak, D., Yang, H., Zeivots, S., Casey, A., van Diggele, C., Dohn, N. B., Mannix, K., Mantai, L., Pressick-Kilborn, K., Spence, N., Vallis, C., & Wilson, S. (2026). [Collaborative Making of a Boundary Object for Classifying Generative AI Learning Activities](https://doi.org/10.1007/s42438-026-00671-3). *Postdigital Science and Education*. https://doi.org/10.1007/s42438-026-00671-3

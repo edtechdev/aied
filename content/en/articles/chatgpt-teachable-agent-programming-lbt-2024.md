@@ -51,23 +51,6 @@ Learning-by-[[teacher-role|teaching]] is an effective [[active-learning]] strate
 - The self-regulation and self-efficacy measures are self-report, taken from a 20-item adapted MSLQ, and the study did not collect or analyze the students' teaching conversations — so the quality of students' teaching messages and of the agent's replies went unmeasured.
 - Findings are not broken down by student demographics (age, educational background, gender), which the authors flag as a limitation on understanding differential effects.
 
-## Connected Concepts
-
-- [[learning-by-teaching]]
-- [[generative-ai]]
-- [[cs-education]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[desirable-difficulties]]
-
-## Connected Articles
-
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: teachable agent for 546 students
-- [[knowloop-confusion-to-consolidation-2026]] — Teach-back consolidation in a conversational review system
-- [[curiobot-llm-tutoring-exploratory-learning]] — LLM tutoring for exploratory learning
-- [[structured-llm-feedback-programming]] — Structured LLM feedback in programming
-
 ## Citation
 
 Chen, A., Wei, Y., Le, H., & Zhang, Y. (2024). [*Learning-by-Teaching with ChatGPT: The Effect of a Teachable ChatGPT Agent on Programming Education*](https://arxiv.org/abs/2412.15226). [cs.CY].

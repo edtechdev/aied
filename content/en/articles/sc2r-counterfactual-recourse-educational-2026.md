@@ -56,28 +56,6 @@ The framework is evaluated **offline on the OULAD dataset**, using snapshots con
 - Retrain stability is the weaker indicator, meaning some recommendations may remain sensitive to changes in the learned predictive boundary.
 - The counterfactual baseline (a Wachter-style search) was compared on a controlled 200-case subset only, while the full-scale integer-programming plans were scored offline (127,972 plans).
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[ai-ed-evaluation]]
-- [[trust]]
-- [[educational-measurement]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[ethics]]
-- [[higher-ed]]
-- [[governance]]
-
-## Connected Articles
-
-- [[at-risk-students-ml-prediction]] — Machine Learning Prediction of At-Risk Students
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
-- [[xai-education-framework]] — Explainable AI in Education Framework
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
-- [[trace-course-grade-prediction-2026]] — Trace-Based Course Grade Prediction
-- [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards
-
 ## Citation
 
 Le, N. L., Abel, M.-H., & Laforge, B. (2026). [*From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support*](https://arxiv.org/abs/2608.17618). [cs.IR]. https://doi.org/10.48550/arXiv.2608.17618

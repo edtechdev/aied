@@ -70,33 +70,6 @@ The study's contribution is the decomposition. It supplies a measured basis for 
 
 The limitations are stated plainly and should constrain how the numbers are read. The sample comes from **one R1 university**, reflects only students who chose to share their experience, and may not represent students at other kinds of institution. All measures are self-reported perceptions on 13 constructs, so associations describe what students believe about their learning rather than measured [[learning-gains|learning gains]]; the regression on negative impact accounted for only about 30% of its variance, leaving most of the variation in reported harms unexplained. The FDR-significant policy effects are small in magnitude, and the authors flag the frequency-centered reading of AI impact as unreliable — their own data show that "how much" tells you less than "when, for what, and who evaluates it." The practical recommendation that follows is a move beyond permit-or-restrict policies toward explicit guidance on appropriate use, [[scaffolding|structural support]] for equitable access, and [[curriculum-design|course design]] that helps students extend rather than replace independent reasoning.
 
-## Connected Concepts
-
-- [[cognitive-offloading]] — the study's central distinction between cognitive and early reliance, and evidence that some offloading is associated with perceived benefit
-- [[ai-misuse-learning-harm]] — early reliance predicts negative impact, and evaluation literacy amplifies rather than buffers it
-- [[generative-ai]] — four measured profiles of use and benefit among students in AI-related courses
-- [[higher-ed]] — R1 university survey of undergraduate and graduate students
-- [[student-ai-interaction]] — a fine-grained account of how students consult GenAI relative to other help sources
-- [[ai-literacy]] — evaluation literacy as a measured construct that does not guarantee better perceived outcomes
-- [[educational-policy-ai]] — perceived instructor policy is associated with perceived impact and course-supported learning
-- [[equity-in-ai-education]] — premium access and tool breadth sort benefits, and breadth tracks lower independent confidence
-- [[self-efficacy]] — confidence without GenAI falls as usage and reported benefits rise
-- [[critical-thinking]] — reduced critical thinking is the concern most tightly linked to lower perceived learning
-- [[assessment]] — the authors' conclusion that course design must make the reasoning behind AI-assisted work visible
-
-## Connected Articles
-
-- [[du-yuan-epistemic-dependence-2026]] — Epistemic dependence in AI-mediated learning: six criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
-- [[verification-quality-reliance-calibration-genai-2026]] — Beyond checking: verification quality, reliance calibration, and learning in generative AI-assisted higher education
-- [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance: A Mixed-Method Study of Generative AI and Sustainable Learning Performance
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Understanding Student Dependency on AI: The Role of AI Literacy, Academic Self-Efficacy, and Resource Management Strategies
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators
-- [[efficiency-gain-illusion-ai-overreliance]] — The Efficiency Gain Illusion: How AI Overreliance Feels Like Progress
-- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31,000 course syllabi (Chirikov 2026)
-- [[genai-student-experiences-uk-he-survey-2026]] — GenAI Student Experiences: UK HE Survey
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[generative-ai-reduced-study-time-math]] — Generative AI Reduced Study Time on Math
-
 ## Citation
 
 Manikonda, L., Si, M., Munira, S., Seneviratne, O., & Bennett, K. (2026). [*The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses*](https://arxiv.org/abs/2609.18676). arXiv preprint arXiv:2609.18676.

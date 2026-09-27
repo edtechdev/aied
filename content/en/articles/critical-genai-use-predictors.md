@@ -57,20 +57,6 @@ page_kind: [evaluation]
 - The design is correlational: "transitioning from correlational to experimental or longitudinal research designs is required to establish causality."
 - The sample was powered (target N = 68) only for medium-large predictive relationships, leaving little power for small or nuanced exploratory effects, and the knowledge test's items go stale as tools evolve — the study itself flags the web-search item as a limitation of this kind.
 
-## Connected Concepts
-- [[cognitive-offloading]]
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[metacognition]]
-- [[student-experience]]
-- [[refutation-text]]
-
-## Connected Articles
-
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
-- [[ai-literacy-assessment-misalignment]]
-
 ## Citation
 
 Hefter, M. H., Paaßen, B., & Berthold, K. (2026). [*GenAI knowledge, epistemic orientation, and intellectual values predict undergraduate students' critical GenAI use*](https://doi.org/10.3390/aieduc2030027). *AI Educ.*, 2, 27

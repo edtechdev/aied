@@ -64,31 +64,5 @@ The study joins work showing generative AI improves problem-solving outcomes whe
 - Reported pre-test means are inconsistent: the independent-samples table and text give the experimental group 13.21 (SD = 2.82) and the control group 12.37 (SD = 3.04), while the paired-samples table and text swap those values. The equivalence conclusion (p = .189) is unaffected, but the baselines should be read with caution.
 - The design cannot rule out teacher, novelty, or selection effects, and the paper frames the findings as instructional effectiveness, not causal evidence.
 
-## Connected Concepts
-- [[generative-ai]]
-- [[scaffolding]]
-- [[visualization]]
-- [[conversational-ai]]
-- [[cognitive-psychology]]
-- [[prior-knowledge]]
-- [[problem-solving]]
-- [[student-ai-interaction]]
-- [[student-engagement]]
-- [[feedback]]
-- [[self-efficacy]]
-- [[learning-gains]]
-- [[math-education]]
-- [[quantitative-research]]
-- [[global-south]]
-
-## Connected Articles
-- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning: Evidence from high school mathematics
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred Scaffolding Does Not Lead to Better Learning Performance: Empirical Evidence from AI-Supported Mathematical Modelling
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving
-- [[hazel-prover-classroom-proof-assistant-2026]] — Hazel Prover: A Classroom Proof Assistant for Learning Structural Induction
-- [[genai-math-relevance-intervention-2026]] — Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention
-- [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
-
 ## Citation
 Davor, I. (2026). [*Generative AI-supported instruction as a cognitive scaffold: Effects on senior high school students' geometric reasoning and proof construction*](https://doi.org/10.3389/feduc.2026.1869961). *Frontiers in Education*, 11, 1869961.

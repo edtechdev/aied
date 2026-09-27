@@ -62,32 +62,6 @@ The authors introduce **cognitive surrender** to describe students offloading th
 - ALEKS PPL placement performance reflects prior learning, test-taking familiarity, and platform experience rather than purely retention of concepts practiced during ALEKS learning, so a gap remains between it and a laboratory-grade retention test.
 - The retention analysis observes the mechanism only at the population level, even though the evidence is consistent with it.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[regulation]]
-- [[learning-gains]]
-- [[math-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[assessment]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[cognitive-surrender]]
-
-## Connected Articles
-
-- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning
-- [[cognitive-shift-ai-education]] — Evidence of a cognitive shift in AI education
-- [[absent-cognitive-baseline-2026]] — The absent cognitive baseline in AI-native students
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive in mastery math
-- [[genai-availability-grades-satisfaction]] — AI availability, grades, and satisfaction
-
 ## Citation
 
 Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). [*Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build*](https://arxiv.org/abs/2605.21629).

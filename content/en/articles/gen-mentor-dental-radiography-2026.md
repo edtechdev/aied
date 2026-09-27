@@ -38,20 +38,5 @@ page_kind: [framework]
 - Expert review covered 64 synthetic ROIs and 100 LLM-generated textual items scored by five experts (three board-certified dental radiologists with more than eight years of clinical experience), with inter-rater agreement of ICC(2,5) = 0.82 and 0.80 respectively, and class-specific confidence intervals rested on only n = 16 ROI samples per class.
 - The study measured perceived instructional support, not learning: it included no baseline knowledge test, objective radiograph-reading task, blinded performance scoring, or delayed-retention measure, and questionnaire items Q18–Q20 were worded differently across the experimental and control groups.
 
-## Connected Concepts
-- [[medical-education]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[discipline-specific-aied]]
-- [[simulation]]
-- [[llm]]
-- [[ai-education]]
-
-## Connected Articles
-- [ai-teammate-task-distribution-medical-training-2026] — SCAN framework for AI task distribution in medical training
-- [genai-simulate-patient-history-pbl-2026] — GenAI-simulated patient histories in PBL
-- [medgame-llm-medical-education-gamification] — gamified LLM learning for medical education
-- [hdr-brachytherapy-agentic-ai-simulation-2026] — agentic AI simulation for brachytherapy training
-
 ## Citation
 Dong, Y., Peng, C., Wu, Y., Shen, S., Sun, X., Chen, T., Guan, S., Wang, C., Ni, E., Huang, T., & Tao, J. (2026). [Gen-Mentor: A human-in-the-loop instructional framework for dental radiography using generative AI](https://doi.org/10.1016/j.caeai.2026.100641). *Computers and Education: Artificial Intelligence, 11*, 100641.

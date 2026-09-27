@@ -49,34 +49,6 @@ OmniPhys matters to the knowledge base for three reasons. First, it extends the 
 - The ablation study ran on a Test-Mini subset of 10% of the data, selected by consensus of five state-of-the-art models for a 75% empirical failure rate, not on the full benchmark.
 - Failure analysis is limited to qualitative observations of representative error patterns; the authors state they still lack an error-attribution study at scale that would separate visual perception failures from logical reasoning errors.
 
-## Connected Concepts
-
-- [[physics-education]]
-- [[multimodal]]
-- [[llm]]
-- [[generative-ai]]
-- [[benchmark]]
-- [[assessment]]
-- [[automated-assessment]]
-- [[stem-education]]
-- [[intelligent-tutoring]]
-- [[learning-gains]]
-- [[computational-thinking]]
-- [[ai-ed-evaluation]]
-
-## Connected Articles
-
-- [[probing-ai-generated-physics-solutions-2026]] — Probing AI-generated physics solutions and preparing students to critique them
-- [[llm-computational-thinking-physics-2026]] — LLM support for computational thinking in physics
-- [[hashmi-socratic-physics-chatbot-2025]] — Socratic physics chatbot
-- [[physics-chatbot-epistemological-beliefs-2026]] — Physics chatbot and epistemological beliefs
-- [[ai-grading-handwritten-physics-2026]] — Large-scale AI grading of handwritten physics assessments
-- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments
-- [[llm-formative-feedback-systematic-review-2026]] — Systematic review of LLM-based formative feedback
-- [[assessment-latent-structure-human-llm-2026]] — Assessment instruments for humans and LLMs
-- [[syal-multimodal-dialogue-stem-2026]] — Multimodal dialogue in STEM
-- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the age of AI: output as evidence of learning
-
 ## Citation
 
 Chen, H., Lin, Y., Yushanjiang, N., Lin, X., & Zhang, M. (2026). [*OmniPhys: A unified multimodal benchmark for physics understanding and generation from Chinese educational corpora*](https://arxiv.org/abs/2608.25398). arXiv:2608.25398.

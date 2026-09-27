@@ -45,27 +45,6 @@ Online mathematics learning platforms increasingly adopt LLMs for scalable, on-d
 - Only gradient-based unlearning was examined, across three models pretrained on approximately 3 million data points from a single Algebra I online discussion forum, so other unlearning approaches remain unbenchmarked in education.
 - Evaluation rested on automated harmfulness classifiers and 50,000 sampled prompts rather than the extraction tests, membership-inference evaluations, and target-specific reproduction analyses the authors call for.
 
-## Connected Concepts
-
-- [[pedagogical-safety]]
-- [[privacy]]
-- [[k-12]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[governance]]
-- [[llm]]
-- [[math-education]]
-- [[intelligent-tutoring]]
-- [[open-source]]
-
-## Connected Articles
-
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
-- [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
-- [[vetting-dual-llm-safety-education]] — VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI
-- [[knowledge-distillation-ai-tutor-evaluation]] — Knowledge Distillation for Automated AI Tutor Evaluation
-
 ## Citation
 
 Li, C., Gülfidan, G., & Zhang-Kopf, Y. (2026). [*Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education*](https://doi.org/10.1016/j.caeai.2026.100642).

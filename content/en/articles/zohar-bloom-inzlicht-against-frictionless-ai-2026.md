@@ -7,7 +7,6 @@ foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, metacognition, motivation, social-emotional-learning, well-being]
 technology: [generative-ai]
 ethics: [ai-sycophancy]
-connected_faqs: [reducing-over-reliance]
 research_method: [position paper]
 audience: [researchers, instructors, policymakers]
 page_kind: [framework]
@@ -56,36 +55,6 @@ The organizing distinction is supplement versus substitute, applied by stage: in
 ## Limitations
 
 This is a short Comment (three pages) presenting a conceptual argument, not new data: the mechanisms are supported by citation to adjacent literatures (effort and meaning, [[desirable-difficulties|desirable difficulties]], cognitive debt, loneliness, sycophancy) rather than by studies the authors ran. The inverted-U relationship is asserted with a single empirical anchor (Campbell, Wang & Inzlicht 2025) and is not quantified, so where the optimum sits for a given learner or task is unspecified. The developmental-stage argument is offered as a plausible principle rather than tested — the authors acknowledge that AI's effects on learning, motivation and meaning "may differ depending on the stage of life or career" without estimating magnitudes. The journal notes the manuscript was considered suitable for publication without further review, so it carries editorial rather than external [[peer-assessment|peer assessment]]. Notably, the paper's own reading of the evidence converges with the systematic-review findings elsewhere in this knowledge base: efficiency gains that do not transfer to unaided performance, and benefits that depend on [[prior-knowledge|prior knowledge]].
-
-## Connected Concepts
-
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[ai-sycophancy]]
-- [[well-being]]
-- [[motivation]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[social-emotional-learning]]
-- [[cognitive-psychology]]
-- [[trust-calibration]]
-- [[student-ai-interaction]]
-- [[self-efficacy]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[brcic-effortless-trap-productive-struggle-2026]] — The effortless trap and productive struggle
-- [[cognitive-offloading-speedup-illusion]] — How speedup creates the illusion of learning
-- [[efficiency-gain-illusion-ai-overreliance]] — Efficiency gains and the illusion of over-reliance
-- [[genai-over-reliance-learning-2026]] — Over-reliance on GenAI and learning outcomes
-- [[ai-overreliance-complex-adaptive-system-2026]] — Over-reliance in complex adaptive systems
-- [[du-yuan-epistemic-dependence-2026]] — Productive reliance versus harmful dependence
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in social interaction
-- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI learning
-- [[kim-ai-productive-failure-adult-2026]] — AI and productive failure in adult learning
-- [[kumar-genai-computing-education-systematic-review-2026]] — Efficiency gains that do not transfer, and the VIE framework
-- [[ai-learning-companions-framework]] — A framework for AI learning companions
 
 ## Citation
 

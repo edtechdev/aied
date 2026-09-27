@@ -36,26 +36,6 @@ institutions: [regulation]
 - No convergent-validity evidence, and only one prediction direction was tested: alignment with validated self-report [[self-regulated-learning|self-regulation]] and procrastination measures was not examined, and delayed starts during ELA practice were not tested as predictors of math outcomes.
 - Several estimates are small or only marginal: early starters' Math growth reached just p=.07 and chronic delayers' ELA coefficient p=.11, so the 5-minute and 13-minute cut-points should be treated as provisional heuristics.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[educational-measurement]]
-- [[student-engagement]]
-- [[formative-assessment]]
-- [[learning-analytics]]
-- [[learning-gains]]
-- [[self-regulated-learning]]
-- [[student-modeling]]
-
-## Connected Articles
-
-- [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
-- [[engagement-assessment-video]] — Engagement Assessment in Video Learning
-- [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
-- [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards: rethinking learning visualizations as engagement tools
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
-- [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques
-
 ## Citation
 
 Gutterman, J., Gurung, A., Branstetter, L., Koedinger, K., & Aleven, V. (2026). [Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior](https://arxiv.org/abs/2606.25308).

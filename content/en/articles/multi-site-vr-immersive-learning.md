@@ -43,27 +43,6 @@ The system targets support for up to twenty participants, aiming for high usabil
 - All participants and the teacher were in the same physical location, so the multi-site scenario the system is built for was not itself tested.
 - Usability and sickness results come from self-report instruments (SUS and SSQ) in this small sample, with scores spanning 50.0 to 92.5, and no learning outcome was measured.
 
-## Connected Concepts
-
-- [[edtech-platform]]
-- [[active-learning]]
-- [[simulation]] — science experiments that are hard to run in a traditional classroom
-- [[embodied-learning]] — hands-on, three-dimensional understanding
-- [[student-experience]] — usability and VR-sickness outcomes
-- [[student-engagement]] — real-time co-presence and interaction
-- [[higher-ed]] — distributed university teaching scenarios
-- [[stem-education]] — science activities shared across sites
-- [[experiential-learning]] — immersive, hands-on learning activities
-## Connected Articles
-
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
-- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
-- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
-- [[mixed-reality-engineering-learning]] — Mixed-reality learning in engineering education
-
 ## Citation
 
 Wataru, I., & Nguyen, D. V. (2026). [*Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion*](https://arxiv.org/abs/2606.10325).

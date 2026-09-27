@@ -32,19 +32,6 @@ audience: [instructors, instructional designers, administrators]
 - The workload figures are planning estimates rather than time logs, and the git-history audit uses an author-defined notion of a "semantic repair" and is descriptive, not a benchmark.
 - The instructor was also an author, which can bias material design and interpretation, and the subject is small and proof-heavy, so transfer to large or non-proof courses remains a hypothesis for future offerings.
 
-## Connected Concepts
-
-- [[active-learning]]
-- [[llm]]
-- [[assessment]]
-- [[higher-ed]]
-- [[automated-assessment]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-## Connected Articles
-
-- [[ai-changing-teaching-workflows]]
-- [[nie-personavlm-long-term-personalization-2026]]
 ## Citation
 
 Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang (2026). [Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests](https://arxiv.org/abs/2606.23315).

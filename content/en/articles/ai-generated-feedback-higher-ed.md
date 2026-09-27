@@ -66,29 +66,6 @@ The authors' core argument: **feedback works as a systemic, relational process, 
 - **Small group-level N = 47** → wide CIs; modest source differences can't be fully ruled out.
 - **No prior-AI-experience data** collected; single course / discipline (Primary Teacher Education); **student assessment literacy not measured** (treated as a hypothesis, not tested).
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[rag]]
-- [[scaffolding]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[llm]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[learning-gains]]
-- [[cognitive-offloading]]
-## Connected Articles
-
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
-- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers' practices and perceptions
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
-- [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing
-- [[ai-learning-companions-framework]] — Building AI Companions that Prioritize Learning over Performance
-- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning: Evidence from high school mathematics
-
 ## Citation
 
 Grion, V., Doria, B., Agostini, D., & Slaviero, G. (2026). [*Artificial intelligence and feedback in university education: effectiveness and student perceptions*](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2697962). *Assessment & Evaluation in Higher Education*.

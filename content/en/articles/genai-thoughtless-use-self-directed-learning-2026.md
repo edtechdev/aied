@@ -41,26 +41,6 @@ A [[quantitative-research|quantitative]] study grounded in Social Cognitive Theo
 - The design is cross-sectional; the authors caution that the bootstrap mediation is statistical, not causal, and that developmental trajectories of thoughtless use cannot be observed.
 - All measures are self-report, and only self-efficacy and motivation were modeled as mediators — learning strategies, metacognitive skills, and social support were unmodeled, with motivation treated as a single undifferentiated construct.
 
-## Connected Concepts
-
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[cognitive-surrender]]
-
-## Connected Articles
-
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI use and [[learning-gains|learning outcomes]]
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of generative AI educational outcomes
-- [[chatgpt-perception-online-learning-engagement-2026]] — ChatGPT perception and online learning engagement
-
 ## Citation
 
 Zhao, H., & Gu, H. (2026). [*Thoughtless use of generative artificial intelligence and college students' self-directed learning: a multi-group SEM analysis of gender differences*](https://doi.org/10.1038/s41598-026-54337-y). *Scientific Reports*, 16, 24567.

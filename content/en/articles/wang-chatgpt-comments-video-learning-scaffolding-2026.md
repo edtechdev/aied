@@ -73,38 +73,6 @@ A four-condition ablation (P0 full prompt; P1 without comment-type definition; P
 - Study 2's four-condition ablation ran on 20 newly recruited participants with a newer model (GPT-5.4), making the model comparison a single-family contrast rather than a controlled benchmark.
 - Outcomes are perceived quality on Likert ratings rather than learning gains, and the ZPD-based individual information setting was specified but not activated, leaving personalization untested.
 
-## Connected Concepts
-
-- [[scaffolding]]
-- [[video-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[online-teaching-and-learning]]
-- [[student-engagement]]
-- [[motivation]]
-- [[multimodal]]
-- [[learning-analytics]]
-- [[agentic-ai]]
-- [[prompt-engineering]]
-- [[social-emotional-learning]]
-- [[sociocultural-learning]]
-- [[conversational-ai]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-
-## Connected Articles
-
-- [[ai-guided-learning-audiovideo-2026]] — How students guide AI in audio/video learning support
-- [[engagement-assessment-video]] — Engagement assessment in video learning
-- [[rethinking-scaffolding-llm-tutors]] — Design patterns for scaffolding in LLM tutors
-- [[guided-llm-scaffolding-independent-learning]] — Guided LLM prompting as a structured learning intervention
-- [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over human-recorded ones
-- [[ai-video-dual-gatekeeping-2026]] — Dual gatekeeping for pedagogically grounded AI video creation
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: adaptive pedagogical video generation
-- [[yasir-llm-tutoring-agents-2026]] — LLM tutoring feedback: accurate diagnosis ≠ actionable feedback
-- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM lecture companion supporting self-regulated learning
-
 ## Citation
 
 Wang, J., Du, Y., & Jin, Q. (2026). [Assessing ChatGPT-Generated Comments for Video-Based Learning Content to Enhance Knowledge and Emotional Support Based on Scaffolding Theory](https://doi.org/10.1016/j.caeai.2026.100676). *Computers and Education: Artificial Intelligence*, 100676.

@@ -60,20 +60,6 @@ Two hierarchical regressions tested the dimensions against overall perceived emp
 - Country of residence was retained only as two pooled codes, measurement invariance was not tested, and no country-level or institutional data were available, so results cannot be attributed to particular national systems.
 - The sample was predominantly male (71%), STEM-enrolled (67.4%), frequent AI users (90.3%), and work-experienced (86.1%); the post hoc sensitivity analysis could not detect effects as small as Cohen's f2=0.02.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[career-development-and-readiness]]
-- [[critical-thinking]]
-- [[higher-ed]]
-- [[technology-acceptance-model]]
-## Connected Articles
-
-- [[ai-literacy-career-adaptability-business-2026]] — Reports AI readiness and career adaptability in business and management students, the closest analogue to this study's perceived employability framing.
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Links generative AI dependence, critical thinking disposition, and self-perceived employability using the same self-report logic.
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Examines career adapt-abilities alongside AI anxiety, supplying the affective side of the AI and employability question.
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Compares how instructors and employers prioritize graduate AI skills, an external counterweight to student self-assessments.
-
 ## Citation
 
 ElSayary, Areej; Ragab, Karim. (2026). *[Bridging the Gap: Investigating Students' Self-Reported AI-Literacy and Perceived Employability Competencies for an AI-Enabled Workforce](https://doi.org/10.1002/jcal.70327)*. Journal of Computer Assisted Learning, 42, e70327. https://doi.org/10.1002/jcal.70327

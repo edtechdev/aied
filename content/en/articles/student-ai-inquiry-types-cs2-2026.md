@@ -61,26 +61,6 @@ This is a measurement and characterization study in the [[cs-education]] domain.
 - The Session 1 to Session 2 shift was only near-significant (χ²(17) = 27.03, p = .0576), not conventionally significant.
 - The generation difference is descriptive and rests on uneven group sizes (Session 1: 26 first-generation students asking 161 questions vs. 34 continuing-generation students asking 271), and classification was model-assigned with disagreements resolved by two reviewers.
 
-## Connected Concepts
-- [[student-ai-interaction]]
-- [[cs-education]]
-- [[prompt-engineering]]
-- [[llm]]
-- [[generative-ai]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[metacognition]]
-
-## Connected Articles
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): LLM Integration in CS2
-- [[student-llm-interaction-taxonomy-review-2026]] — Student-LLM Interaction Taxonomy Review
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts in Student-AI Dialogue
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
-- [[icap-cognitive-engagement-llm-agents]] — ICAP Cognitive Engagement with LLM Agents
-
 ## Citation
 
 Amoozadeh, M., & Alipour, A. (2026). [*Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks*](https://arxiv.org/abs/2608.17919). [cs.HC, cs.AI].

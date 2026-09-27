@@ -36,17 +36,5 @@ page_kind: [evaluation, framework]
 - The study was cross-sectional and confined to psychometric validation; it did not examine the relationship between reported GAI use and educational outcomes such as academic performance or student engagement.
 - The authors caution against generalizing the six-dimension structure to teachers in other countries or educational levels without further cross-cultural validation.
 
-## Connected Concepts
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[teacher-role]]
-- [[k-12]]
-
-## Connected Articles
-- [intelligent-tpack-ethics-teachers-trust-distrust-2026] — teacher trust and Intelligent-TPACK
-- [teachers-ai-knowledge-genai-lesson-planning-2026] — teachers' AI knowledge and GenAI lesson planning
-
 ## Citation
 Pérez-Montesdeoca, H., Rodríguez-Rodríguez, D., Stendardi, D., & Fernández-Sogorb, A. (2026). [Design and validation of a questionnaire on teachers' uses of generative artificial intelligence](https://doi.org/10.1016/j.caeo.2026.100332). *Computers and Education Open, 10*, 100332.

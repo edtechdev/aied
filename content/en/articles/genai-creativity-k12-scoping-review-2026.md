@@ -75,36 +75,6 @@ The review also circulates under a second title — [*Generative AI for Creative
 - **Coverage.** The corpus is English-language only by criterion, heavily skewed to language and writing tasks, and contains a single music study and no embodied or spatial work; only two explicit equity studies means the review can say little about who benefits. Much of the creativity-tool work appears in human–computer interaction and interaction-design venues such as CHI and IDC rather than in the assessment or creativity-measurement literature that supplies the psychometric standards the authors invoke, and several "studies" are frameworks, prototypes or conceptual papers, so design insight and demonstrated learning gain are not the same evidence.
 - **Currency.** The [[generative-ai]] capabilities under study move faster than publication cycles: the review's 2025 tools will date even if the problems of theory, measurement and equity that it diagnoses do not, and the authors' five-cycle and measurement arguments will need re-testing on the next generation of models.
 
-## Connected Concepts
-
-- [[creativity]] — the construct at the center of the review, which most included studies left undefined
-- [[generative-ai]] — the technology the corpus applies to K–12 creative learning, in assessment, co-creation and enhancement roles
-- [[human-ai-collaboration]] — co-creativity as alternating agency between student and model in storytelling and writing tasks
-- [[storytelling-in-education]] — the dominant creative task type, present in 17 of the reviewed enhancement studies
-- [[multimodal]] — GenAI's capacity for visual, text and audio expression, and the research gap outside language modalities
-- [[automated-assessment]] — LLM scoring of divergent thinking, drawings and game levels against human ratings
-- [[psychometrically-aware-ai]] — the construct validity, fairness and reliability standards the authors demand of creativity scoring
-- [[equity-in-ai-education]] — access, representation and citizenship divides that only two studies addressed directly
-- [[agency]] — creative ownership, the one universal stakeholder sub-theme and the review's design criterion
-- [[ai-literacy]] — functional, critical and rhetorical literacies as the precondition for reflective use
-- [[early-childhood-elementary-ai-education]] — the age band where custom scaffolds and child-friendly design mattered most
-- [[bias-mitigation]] — algorithmic bias, cultural stereotyping and how students were taught to notice and counter them
-- [[meta-analysis-systematic-review]] — the PRISMA-guided scoping method used to map 45 studies from 2,321 records
-- [[limitations-in-aied-research]] — thin theory, weak measurement and non-comparable designs as the field's standing problems
-
-## Connected Articles
-
-- [[trikonet-trivalence-co-creativity-2026]] — Co-creativity modeled as a socio-technical network, complementing this review's co-creativity category
-- [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling as a structured frame for AI-supported creative work
-- [[creative-project-approach-ai-early-childhood-2025]] — Developmentally tailored AI agents and the Project Approach for early-childhood creativity
-- [[rana-genai-design-thinking-2025]] — GenAI across design thinking's stages, with the same authorship and bias concerns
-- [[mujib-ai-ibl-creative-math-2026]] — Inquiry-based learning with AI measured on creative mathematical performance
-- [[chatgpt-critical-creative-thinking-review]] — A systematic review of ChatGPT's effects on critical and creative thinking
-- [[llm-cultural-relevance-k12]] — LLMs used to build culturally relevant K–12 pedagogy, addressing the representation divide
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — A systematic review of GenAI in K–12 teaching and learning more broadly
-- [[stanford-evidence-base-ai-k12-2026]] — The causal-evidence picture for AI in K–12 classrooms
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Design creativity measured in an AI-enabled immersive project-based learning environment
-
 ## Citation
 
 Rahimi, S., Babaee, M., Esmaeiligoujar, S., & Dede, C. (2026). [*Generative artificial intelligence and creativity in K–12 education: A systematic scoping review*](https://doi.org/10.31234/osf.io/npd9f_v1). *PsyArXiv Preprints*. In press in R. A. Beghetto (Ed.), *The Oxford handbook of AI and creativity in education* (Oxford University Press).

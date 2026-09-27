@@ -41,26 +41,6 @@ This is an **empirical qualitative study** using a **qualitative interpretivist*
 - Data were collected at a single point in time during rapid GenAI change, so participants' use may already have changed significantly since; the authors call for longitudinal, multi-institution work.
 - The paper is built on academic data and uses student data only as a supplement, so the student perspective carries less evidential weight than the framing suggests.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[teacher-role]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[educational-development]]
-
-## Connected Articles
-
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Oral exams as an authentic assessment strategy amid AI
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor roles in AI-supported formative assessment
-- [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity review
-- [[assessment-latent-structure-human-llm-2026]] — Assessment structure and human/LLM performance
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of GenAI educational outcomes
-- [[ai-lifelong-learning-policy]] — AI policy in higher education and lifelong learning
-
 ## Citation
 
 Nicola-Richmond, K., Dawson, P., Partridge, H., & Macfarlane, S. (2025). [*It takes a village. Program-wide approaches to redesigning assessment in a time of generative artificial intelligence (GenAI)*](https://doi.org/10.53761/zpp2ja61). *Journal of University Teaching and Learning Practice, 22*(7). (CC BY-ND 4.0.)

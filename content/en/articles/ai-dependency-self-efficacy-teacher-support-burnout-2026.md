@@ -52,24 +52,6 @@ Four instruments were used: an eight-item Academic Self-Efficacy Scale adapted f
 
 - Other relevant antecedents (self-regulated learning, [[motivation|intrinsic motivation]], [[critical-thinking|critical thinking]], academic engagement) and boundary conditions (AI literacy, digital competence, usage frequency, discipline, personality, achievement) were not modeled; the observed group differences are not formal moderation effects.
 
-## Connected Concepts
-
-- [[ai-misuse-learning-harm]] — AI dependency is framed as maladaptive reliance that shifts AI from learning aid to external regulator of cognition, with burnout as the harm
-- [[cognitive-offloading]] — Cognitive Offloading Theory explains why low-confidence students delegate demanding tasks to AI, and why habitual delegation depletes the resources that protect against burnout
-- [[self-efficacy]] — academic self-efficacy is the key individual resource that reduces AI dependency, extending self-efficacy from achievement to AI-related behavior
-- [[teacher-role]] — teacher support (Structure, Involvement, Autonomy Support) acts as a contextual resource that guides appropriate AI use and buffers dependency
-- [[well-being]] — learning burnout comprises emotional exhaustion, cynicism and diminished academic efficacy, the psychological cost of dependency
-- [[higher-ed]] — the study targets university students in AI-assisted learning environments
-- [[student-engagement]] — dependency is linked to passive learning, weakened participation and reduced engagement
-
-## Connected Articles
-
-- [[ai-dependence-academic-writing-ipace-2026]] — companion study of AI dependence using the I-PACE model; same construct and population, different theoretical frame (writing courses)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — directly overlaps on AI dependency, academic self-efficacy and higher-education students
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — review of dependence-related constructs and their psychological correlates, including measurement concerns relevant to the adapted IAT scale
-- [[du-yuan-epistemic-dependence-2026]] — theoretical treatment of dependence in AI-mediated learning and why it erodes autonomy
-- [[cognitive-offloading-metacognitive-review-2026]] — mechanisms and interventions for cognitive offloading, the process underlying the dependency path tested here
-
 ## Citation
 
 Huang, Q., Tu, S., Lin, J., Lu, L., & Lv, C. (2026). [The dark side of AI in education: AI dependency as a mediator linking academic self-efficacy and teacher support to learning burnout among university students](https://doi.org/10.3389/fpsyg.2026.1889053). *Frontiers in Psychology, 17*, 1889053.

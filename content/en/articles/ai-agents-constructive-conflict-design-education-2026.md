@@ -47,30 +47,6 @@ The authors draw a clear design agenda for adversarial agents in [[ai-education|
 - All 45 design proposals were coded by the first author alone, and the agent misread relationships between ideas it could not see as connected (e.g., P19 had two linked ideas treated as separate features).
 - The design captured a single interaction per participant, so it cannot show how designers' responses to adversarial agents evolve with repeated exposure.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[scaffolding]]
-- [[student-experience]]
-- [[design-thinking]]
-- [[socratic-method]]
-- [[creativity]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[feedback]]
-- [[student-engagement]]
-- [[generative-ai]]
-- [[llm]]
-
-## Connected Articles
-
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[knowloop-confusion-to-consolidation-2026]] — From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
-
 ## Citation
 
 Han, H. Z., & Martelaro, N. (2026). *[Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers](https://arxiv.org/abs/2608.04166)*. Human-Agent Interaction (HAI) 2026.

@@ -227,13 +227,17 @@ def select(args) -> list[str]:
 
 def body_for_budget(text: str) -> str:
     """The body the word budget applies to: from the end of the frontmatter to the
-    first Connected section (the same region the page contract names)."""
+    first Connected section (the same region the page contract names).
+
+    Pages written from 2026-09-27 carry no Connected sections, so `## Citation` is
+    the other boundary; whichever comes first ends the region. Without the Citation
+    cut, a new-style page's budget would count the citation line as body."""
     t = text
     if t.startswith("---"):
         parts = t.split("---", 2)
         if len(parts) == 3:
             t = parts[2]
-    cut = re.search(r"^##\s+Connected\s+(?:Concepts|Articles)", t, re.M)
+    cut = re.search(r"^##\s+(?:Connected\s+(?:Concepts|Articles)|Citation)\b", t, re.M)
     return t[: cut.start()] if cut else t
 
 

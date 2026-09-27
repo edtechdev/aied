@@ -51,32 +51,7 @@ methods: [meta-analysis-systematic-review]
 - Thresholding narrowed the coupling analysis from 213 retrieved documents to 58 meeting the cited-reference criterion and then 33 retained for clustering, so the four clusters summarize a subset of the field.
 - Bibliographic coupling and co-word analysis describe citation and keyword structure only; they carry no information about study quality, effect sizes, or actual [[learning-gains|learning outcomes]].
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[curriculum-design]]
-- [[personalized-learning]]
-- [[assessment]]
-- [[higher-ed]]
-- [[meta-analysis-systematic-review]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[educational-development]]
-- [[learning-analytics]]
-- [[active-learning]]
-- [[experiential-learning]]
-
-## Connected Articles
-
-- [[genai-educational-outcomes-meta-analysis]]
-- [[ai-distance-education-systematic-review-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[interactive-online-learning-ai-2025]]
-
 ## Citation
 
 Espino, L. C., & Espino, C. L. (2026). [Mapping the integration of AI into business education: Insights from a decade of research](https://doi.org/10.53761/5yhdnk13) . *Journal of University Teaching and Learning Practice*, 23(6).
-
 

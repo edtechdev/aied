@@ -55,26 +55,6 @@ The automation problem is robust character classification under authentic condit
 - Part of the grading stays manual by design: cropping and configuring each examination, flagging two-pass divergences, and post-processing misrecognitions — 35 at best, 334 at worst — while the setup is a non-trivial fixed cost.
 - Models were evaluated "in practical use" in one tested setting with approximate figures; by the authors' own standard, 88.90 % (334 errors) falls below the 88.28 % they already judged insufficient for summative use, so no deployment floor is established.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[higher-ed]]
-- [[multimodal]]
-- [[human-in-the-loop-ai]]
-- [[authentic-assessment]]
-## Connected Articles
-
-- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
-- [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
-- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterizing AI Tutor Blind Spots When Analyzing Student Reasoning
-- [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[llm-handwritten-math-grading]]
-
 ## Citation
 
 Grabowski, H., & Canz, M. (2026). [*Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations*](https://arxiv.org/abs/2606.08855).

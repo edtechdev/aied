@@ -6,7 +6,6 @@ type: article
 foundations: [learning-design]
 technology: [llm]
 ethics: [inclusive-learning, neurodiversity]
-connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [experiment]
 discipline: [cs education]
 sources: ['raw/papers/2607.24612.md']
@@ -38,24 +37,6 @@ level: [special education]
 - The segmentation-by-ADHD interaction terms were not statistically significant (errors p = .232; hesitations p = .242), and the authors state the study was underpowered to distinguish the groups statistically, so the equalizing claim rests on effect-size magnitude (ADHD d = 1.14 vs control d = 0.72).
 - The 4-second pause is a fixed, pilot-derived parameter from a 13-participant pilot, and the segments were added manually in Final Cut Pro and agreed on by the authors, not generated automatically.
 
-## Connected Concepts
-
-- [[inclusive-learning]]
-- [[cs-education]]
-- [[learning-design]]
-- [[neurodiversity]]
-- [[llm]]
-- [[universal-design-for-learning]]
-- [[special-education]]
-- [[learning-analytics]]
-- [[student-experience]]
-## Connected Articles
-
-- [[neurodivergent-computing-students]]
-- [[llm-educational-simulation-adhd]]
-- [[engagement-assessment-video]]
-- [[savvy-student-attention-video-learning]]
-- [[ai-generated-instructional-videos-computing-ed]]
 ## Citation
 
 Veronica Pimenova, Chris Lee, Baramee Bhakdibhumi, Simon Chu, Andrew Begel (2026). [Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education](https://arxiv.org/abs/2607.24612).

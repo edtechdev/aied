@@ -58,29 +58,6 @@ This article is directly relevant to the knowledge base's coverage of how [[ai-e
 - Category construction is interpretive: two researchers coded publications in NVivo and the domains were consolidated over three rounds of refinement, so the domain boundaries are an analytic judgment rather than a measured structure.
 - The performance figures quoted inside the taxonomy (for instance, 40% administrative workload reduction and >85% enrollment prediction accuracy) are drawn from the secondary literature reviewed, with no implementation of the framework evaluated in this study.
 
-## Connected Concepts
-
-- [[governance]]
-- [[administrator]]
-- [[higher-ed]]
-- [[educational-policy-ai]]
-- [[ethics]]
-- [[ai-education]]
-- [[human-ai-collaboration]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[trust]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-
-## Connected Articles
-
-- [[enright-staff-perspectives-genai-2026]]
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-ethics-bibliometric-2026]]
-- [[kibar-ilgaz-ai-instructional-design-review-2026]]
-
 ## Citation
 
 Sposato, M. (2025). [*Artificial intelligence in educational leadership: a comprehensive taxonomy and future directions*](https://doi.org/10.1186/s41239-025-00517-1). *International Journal of Educational Technology in Higher Education*.

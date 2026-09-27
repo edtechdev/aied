@@ -95,11 +95,24 @@ const updatedDisplay = (updated || created || '').split('T')[0];
 const publishedDisplay = (published || '').trim();
 const body = article.body || '';
 
-// Connected concept slugs for JSON-LD about/mentions (from body Connected Concepts section)
-const connectedConceptSlugs = (body.match(/^## Connected Concepts\s*\n([\s\S]*?)(?=^## |\Z)/m)?.[1] || '')
-  .split('\n')
-  .map(l => l.match(/\[\[([^\]|]+)/)?.[1])
-  .filter(Boolean);
+// Connected concept slugs for JSON-LD about/mentions.
+//
+// Pages written from 2026-09-27 carry NO Connected Concepts section (the curated
+// "relates to, beyond what it is about" layer lives on the concept pages), so fall
+// back to the concept links the body already carries inline: the narrative ends at
+// whichever comes first, `## Connected …` or `## Citation`, and the body's wikilinks
+// are the same evidence the section used to restate.
+const conceptLinksIn = (text: string): string[] =>
+  (text.match(/\[\[([^\]|]+)/g) || [])
+    .map((m) => m.slice(2).trim())
+    .filter((s) => conceptSlugs.has(s));
+const connectedConceptSlugs = [
+  ...new Set(
+    body.includes('## Connected Concepts')
+      ? conceptLinksIn(body.match(/^## Connected Concepts\s*\n([\s\S]*?)(?=^## |\Z)/m)?.[1] || '')
+      : conceptLinksIn(body.split(/^## (?:Connected|Citation)\b/m)[0])
+  ),
+];
 
 
 // slug -> display title for every page: wikilink labels and tag chips use the page's

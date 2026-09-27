@@ -42,33 +42,6 @@ The headline finding is neither sycophantic deference nor stable disagreement. M
 - Temperature was fixed at 0.7 across all ten models and five thousand responses, so behavior under the lower, consistency-oriented temperatures some deployments use is uncharacterized.
 - The ten frontier-model versions are a snapshot that will be superseded, so the findings describe the publicly accessible flagship surface on the run dates rather than a stable property of these labs.
 - Scorer dependency is mitigated but not eliminated: the three-model panel, the researcher hand-scoring layer, and the five-rater validation provide three distinct validity claims, yet consensus agreement against hand-scoring cleared at only κ = 0.704, and within-family scorer divergence on engagement redirection remained (0.42 and 0.40 against the Gemma comparisons).
-## Connected Concepts
-
-- [[ai-sycophancy]]
-- [[conversational-ai]]
-- [[llm]]
-- [[generative-ai]]
-- [[trust]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[technology-acceptance-model]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[anxiety-and-stress]]
-- [[bias-mitigation]]
-- [[ethics]]
-- [[well-being]]
-- [[educational-policy-ai]]
-- [[research-methods-aied]]
-
-## Connected Articles
-
-- [[contextual-sycophancy-ai-literacy]] — Sycophancy in AI output and its implications for AI literacy
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Teacher trust and distrust of AI as a dimension of ethical practice
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and employment/occupational concern among learners
-
 ## Citation
 
 [Not for People Like Me: How Frontier AI Models Redirect Skeptical Rural School Staff](https://doi.org/10.1016/j.caeai.2026.100659) — Rossmiller, Z. (2026). *Computers and Education: Artificial Intelligence*, 11, 100659.

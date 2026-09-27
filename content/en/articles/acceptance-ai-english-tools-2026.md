@@ -43,25 +43,6 @@ The study surveyed 210 undergraduates from a Chinese university, with balanced d
 - Subgroup analyses were exploratory and descriptive, not formal tests of between-group differences.
 - The counterintuitive associations of anxiety and risk perception with acceptance underscore the need for replication and for cautious interpretation of the descriptive patterns observed.
 
-## Connected Concepts
-
-- [[language-learning]]
-- [[generative-ai]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[higher-ed]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[english-education]]
-
-## Connected Articles
-
-- [[genai-pronunciation-feedback-wtc-2026]] — Associations Between Generative AI-Based Pronunciation Feedback and Willingness to Communicate
-- [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition
-- [[genai-feedback-design-multisite-experiment]] — Human-Centered GenAI Feedback Design in Higher Education
-- [[ai-tools-arab-english-classrooms]] — AI Tools in Arab University English Classrooms
-- [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — Will, Skill, Not Tool: Chinese University Students' Acceptance of Generative AI
-
 ## Citation
 
 Wu, J., Wang, Y., He, Y., Yin, X., Chen, F., & Wan, B. (2026). [*Acceptance of AI-assisted English language learning tools in higher education: Psychological correlates across disciplinary and proficiency groups*](https://doi.org/10.3389/fpsyg.2026.1806457).

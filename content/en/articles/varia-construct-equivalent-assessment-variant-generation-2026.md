@@ -55,23 +55,5 @@ The authors release VARIA, and the benchmark reframes the [[ai-detection|detecti
 - Both diversity measures are lexical (TF-IDF cosine and 4-gram Jaccard), so a generator that rephrases the same scenario in different words can register as diverse while remaining copyable in substance.
 - Whether a VARIA-passing variant set actually deters copying in a live cohort was not tested; behavioral copy-resistance requires a randomized classroom study that is under design but not yet reported.
 
-## Connected Concepts
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[academic-integrity]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment in an AI-Mediated World
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and the agentic-AI verification gap
-- [[ai-agents-complete-lms-assessment-validity-2026]] — AI agents completing LMS tasks; human-production assumption & agentic validity
-- [[ai-assessment-scale-reform]] — The AI Assessment Scale and Assessment Reform
-
 ## Citation
 Lee, E. (2026). [VARIA: Benchmarking Frontier LLMs on Construct-Equivalent Assessment Variant Generation](https://doi.org/10.35542/osf.io/u6xef_v2). EdArXiv preprint.

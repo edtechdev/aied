@@ -43,19 +43,6 @@ audience: [instructors]
 - AI assistance came from a GPT-3.5 API embedded in the experiment interface, so the effect sizes may not extend to newer models.
 - Students wrote introductions from three preselected articles per topic, so results may reflect a simplified source set rather than unaided academic writing ability.
 
-## Connected Concepts
-
-- [[writing-education]]
-- [[higher-ed]]
-- [[agency]]
-- [[cognitive-offloading]]
-## Connected Articles
-
-- [[genai-literary-assistants-writing-motivation-2026]] — GAI literary assistants and writing motivation
-- [[genai-group-writing-strategies-2026]] — Group strategies for GenAI collaborative writing
-- [[gpt-human-rater-essay-assessment-2026]] — GPT vs. human raters in essay assessment
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment
-
 ## Citation
 
 Bauer, N., Fütterer, T., Brucker, B., & Gerjets, P. (2026). [*Leveraging ChatGPT in academic writing: ChatGPT enhances students' writing quality, writing experience, and ownership*](https://doi.org/10.1016/j.caeo.2026.100351). *Computers and Education Open*, 100351. https://doi.org/10.1016/j.caeo.2026.100351

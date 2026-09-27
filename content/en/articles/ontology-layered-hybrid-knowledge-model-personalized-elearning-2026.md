@@ -35,27 +35,6 @@ sources: [raw/papers/ontology-layered-hybrid-knowledge-model-personalized-elearn
 - The scope excludes several questions by design: the model offers no way to measure personalization benefits or interoperability and does not address standards variation across countries, institutions, and curricula, nor privacy and security in knowledge management.
 - It assumes learners, pedagogical strategies, domain knowledge, and content can be explicitly formalized from observable interactions, which may not capture tacit, emotional, or context-dependent aspects of learning such as informal learning or complex instructor decision-making.
 
-## Connected Concepts
-
-- [[knowledge-graph]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[learning-design]]
-- [[edtech-platform]]
-- [[learning-analytics]]
-- [[llm]]
-
-## Connected Articles
-
-- [[multimodal-knowledge-graph-educational-reasoning]] — Multimodal knowledge graphs for educational reasoning
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs for lifelong learning
-- [[coursegraph-cs-course-comparison-2026]] — CourseGraph: CS course comparison
-- [[quantum-education-its]] — Quantum education intelligent tutoring (ITAS)
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Personalized learning in elementary fractions
-- [[knowledge-gap-detection-ai-tas]] — Knowledge-gap detection in AI teaching assistants
-
 ## Citation
 
 Ivanova, T. (2026). *[Ontology-based layered hybrid AI-driven knowledge model for personalized e-learning](https://doi.org/10.3390/math14050808)*. Mathematics, 14(5), 808.

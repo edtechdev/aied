@@ -38,24 +38,6 @@ methods: [meta-analysis-systematic-review]
 - Many included studies did not directly compare GenAI with human raters, so part of the evidence addresses whether model output looks reasonable rather than measured agreement with teacher grades.
 - The evidence is already dated by the technology: the authors note that educational research assesses earlier model versions while industry moves on to reasoning and agentic models, and that grading metrics and benchmarks change quickly.
 
-## Connected Concepts
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[automated-assessment]]
-- [[llm]]
-- [[teacher-role]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
-- [[genai-teacher-feedback-comparison]]
-- [[gpt-human-rater-essay-assessment-2026]]
-- [[llms-do-not-grade-essays-like-humans-2026]]
-- [[llm-formative-feedback-systematic-review-2026]]
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-
 ## Citation
 
 Jukiewicz, M., & Wyrwa, M. (2026). [Can ChatGPT Replace the Teacher in Assessment? A Review of Research on the Use of Large Language Models in Grading and Providing Feedback](https://doi.org/10.3390/app16020680). *Applied Sciences*, 16(2), 680.

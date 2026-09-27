@@ -59,30 +59,6 @@ This paper anchors the knowledge base's [[productive-failure]] concept with an A
 - Participants responded to AI application storyboards and paper prototypes rather than to a deployed system, and the study measured perceptions rather than learning outcomes or transfer gains.
 - The design yields design-direction evidence only: no outcome measures are reported, so the five principles' effects on struggle, [[transfer-of-learning|transfer]], or [[student-engagement|engagement]] remain untested.
 
-## Connected Concepts
-
-- [[productive-failure]]
-- [[generative-ai]]
-- [[llm]]
-- [[adult-learning]]
-- [[human-in-the-loop-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[socratic-method]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[learning-theories]]
-- [[higher-ed]]
-- [[transfer-of-learning]]
-
-## Connected Articles
-
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
-- [[finkelstein-principled-ai-education-2025]] — Principled AI in Education
-
 ## Citation
 
 Kim, J., Lin, X., Yu, S., & Detrick, R. (2026). [*Designing AI systems to support a productive-failure-based learning: insights from adult learners on AI applications and AI system design principles*](https://doi.org/10.1007/s11423-026-10655-6). *Educational Technology Research & Development*. DOI: 10.1007/s11423-026-10655-6.

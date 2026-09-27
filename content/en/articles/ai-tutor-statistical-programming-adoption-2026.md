@@ -77,34 +77,6 @@ The findings are framed against the [[cognitive-offloading|cognitive offloading]
 - The sample is a small convenience sample from one course at one institution, with restricted variability in some outcomes — final grades in particular had to be dichotomized because almost no one scored below the top band — which weakens the models' power to detect real effects.
 - Attrition is substantial (49 pretest, 34 posttest) and non-participation was invisible to the [[teacher-role|instructors]], so the pre/post comparisons and the end-of-semester evaluation rest on a self-selected subset of the more engaged students; with no demographic data collected at all, no subgroup or [[equity-in-ai-education|equity]] analysis is possible; tool-share proportions, grades, self-efficacy and compliance measures are all self-report.
 - The tutor itself misbehaved during the semester, repeatedly telling students their code could be improved without saying where, and the two-version structure means usage and evaluation data are not fully comparable across the term, leaving a moving instrument inside a longitudinal design.
-## Connected Concepts
-
-- [[intelligent-tutoring]] — the deployed artifact class: a domain-specific, always-available tutor replacing one-to-one human tutoring
-- [[cognitive-offloading]] — the main risk the paper argues the instructional frame mitigated
-- [[technology-acceptance-model]] — the theory the paper expected to fit, and the framework its null results strain
-- [[trust]] — measured before and after, and the null predictor that anchors the paper's surprise
-- [[self-efficacy]] — R self-efficacy rose with persistent tutor use
-- [[self-regulated-learning]] — unaided transfer tasks as the mechanism keeping AI help productive
-- [[help-seeking]] — the behavior students allocated across tutor, materials, other AI and the internet
-- [[generative-ai]] — the technology class, including the alternative tools students used only 8% of the time
-- [[llm]] — GPT-4o-mini and GPT-4o behind the tutor, and the reason version two scored higher
-- [[cs-education]] — the discipline and the novice-programming difficulty the tutor targeted
-- [[higher-ed]] — the semester-long undergraduate course the deployment was embedded in
-- [[student-experience]] — satisfaction, interaction quality and version preference as outcome measures
-
-## Connected Articles
-
-- [[access-not-enough-ai-tutoring-2026]] — Engagement with AI tutoring and the human scaffolding that sustains it
-- [[ai-literacy-tool-design-programming-education-2026]] — Scaffolded versus unrestricted generative AI in a programming course
-- [[ai-availability-student-motivation]] — How AI availability changes effort in introductory programming
-- [[ai-generated-traces-novice-programmers]] — Learning effects of AI support for novice programmers across institutions
-- [[ai-fallibility-warning-help-seeking]] — Warning students about AI fallibility and its effect on help-seeking in an ITS
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive scaffolding and cognitive engagement inside an intelligent tutor
-- [[ai-overreliance-complex-adaptive-system-2026]] — Overreliance modeled as a system property rather than a student trait
-- [[ai-learning-assistants-higher-ed-large-scale]] — Large-scale descriptive evidence on AI learning assistants in universities
-- [[acceptance-ai-english-tools-2026]] — Acceptance correlates for AI learning tools across disciplines
-- [[agentic-education-coding]] — Handing more of the programming loop to AI coding assistants
-
 ## Citation
 
 Préau, C., Burke, M., Müller, T., Rebholz, T. R., & Papenmeier, F. (2026). [*Student Adoption of an AI Tutor for Statistical Programming: A Longitudinal Study*](https://osf.io/preprints/psyarxiv/umspj). PsyArXiv preprint.

@@ -42,21 +42,6 @@ page_kind: [framework]
 - **Verification behavior was not quantified:** although check-the-source was emphasized in onboarding and supported by traceability links, the study did not log how often students used the "Confirm" link or how many records each student cross-checked.
 - **Self-report and post-task perception data dominate:** the roughly 65% reduction in review time is self-reported, most perception measures were collected post-task, and no assessment of unaided manual data-extraction skill tested whether the workflow transfers without the system.
 
-## Connected Concepts
-
-- [[inquiry-based-learning]]
-- [[stem-education]]
-- [[higher-ed]]
-- [[self-directed-learning]]
-- [[knowledge-graph]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[self-directed-growth-generative-ai-learning-analytics]] — a conceptual framework treating GenAI as a non-prescriptive scaffold for self-directed growth, complementing this study's empirical view of AI as an epistemic scaffold
-- [[dynamic-skill-matching-capstone-teams]] — LLM-driven skill extraction and team formation in STEM capstone courses, another AI-for-higher-ed workflow
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — where a language-based AI can stand within inquiry-based STEM learning, addressing a complementary boundary of AI as facilitator
-
 ## Citation
 
 [From literature to research-based learning: An AI-powered information extraction system to enhance undergraduate thesis completion](https://www.sciencedirect.com/science/article/pii/S2666920X26000536) — An, R., Zhu, W., Zhao, Q., Laaksonen, A., & Lan, S. (2026). *Computers and Education: Artificial Intelligence*, 10, 100591.

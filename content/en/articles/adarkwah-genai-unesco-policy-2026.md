@@ -5,7 +5,6 @@ updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
-connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 research_method: [policy analysis]
 level: [higher ed]
 sources: ['raw/papers/adarkwah-genai-unesco-policy-2026.md']
@@ -47,23 +46,6 @@ A total of **159 documents** (policy texts, institutional announcements, webpage
 - Almost all analyzed universities are Western, with only Singapore outside that group, so the authors describe the findings as a Western and Eurocentric view of GenAI policy that does not provide a universal discourse.
 - The evidence base is publicly available documents: reliance on public sources may overlook internal or evolving policies, and language barriers and limited institutional transparency further constrain access (the authors cite University of Copenhagen and TU Denmark policies kept on internal portals).
 - The analysis is a documentary snapshot: data collection ran from October 2024 to January 2025, coding 159 retrieved documents and 100 eligible websites, with reliability established by distributed coding among four researchers and consensus of at least three rather than a reported reliability statistic.
-
-## Connected Concepts
-
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[higher-ed]]
-- [[academic-integrity]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[ai-lifelong-learning-policy]]
-- [[unesco-ai-guidelines-chemical-education-2026]]
-- [[ssaho-ai-academic-integrity-review-2025]]
-- [[responsible-assessment-ai-era-stanford-2026]]
-- [[finkelstein-principled-ai-education-2025]]
 
 ## Citation
 

@@ -48,24 +48,6 @@ The key insight is that both student knowledge and task difficulty are explicitl
 - MathDial's student turns come from GPT-3.5-simulated students and crowd-sourced tutors rather than real learners, and the framework was not deployed in a live tutoring setting with real tutor feedback on interpretability.
 - LLM-based knowledge tracing is much more computationally expensive than the traditional models it slightly outperforms, and the authors note the standing bias risk that students from populations less represented in the training data may receive less accurate assessments.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[item-response-theory]]
-- [[knowledge-tracing]]
-- [[rag]]
-- [[student-modeling]]
-- [[llm]]
-
-## Connected Articles
-
-- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
-- [[explainable-probabilistic-kt]] — Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
-- [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing
-- [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
-- [[nie-personavlm-long-term-personalization-2026]] — LLM Student Modeling and Long-Term Memory Architecture
-- [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
-
 ## Citation
 
 Huang, S., Scarlatos, A., Lee, J., & Lan, A. (2026). [*Interpretable Knowledge Tracing*](https://arxiv.org/abs/2605.01097).

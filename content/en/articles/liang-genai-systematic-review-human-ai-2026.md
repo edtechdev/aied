@@ -37,26 +37,6 @@ This BJET review synthesizes 56 empirical studies on [[generative-ai|GenAI]] in 
 - **The evidence base is largely underpowered.** Of 56 included studies, only 12 met the conventional power threshold, so mode-level conclusions about effectiveness rest on small studies — and on uneven subsets, since the most populated internalization mode alone accounts for n = 34 of them — while compliance rates are described as similar across modes rather than decisive.
 - **Conceptual boundaries and reported evidence only.** The authors state the review still has limits in separating "learning" from "performance," and its statistical-rigour findings depend on what included studies reported, which was often incomplete.
 
-## Connected Concepts
-
-- [[prompt-engineering]]
-- [[affective-tutoring]]
-- [[automated-essay-scoring]]
-- [[curriculum-design]]
-- [[ai-detection]]
-- [[student-experience]]
-- [[administrator]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines
-- [[raza-farooq-aied-review-2020-2025]] — Review of Artificial Intelligence in Education from 2020 to 2025
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Learning-to-learn in the age of generative AI: A scoping review and conceptual framework
-- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[quest-ai-inquiry-preservice-teachers]] — Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers
-
 ## Citation
 
 Liang, Z., Yang, K., Sha, L., Gašević, D., Yan, L., & Chen, G. (2026). [A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective](https://doi.org/10.1111/bjet.70055).

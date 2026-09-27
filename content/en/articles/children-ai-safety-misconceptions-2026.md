@@ -62,34 +62,6 @@ Older children were not immune. Their structural reasoning was more sophisticate
 - The focus groups were prompted rather than spontaneous: semi-structured protocols and concrete props supported comprehension and cognitive load but mean children's responses "reflect their reasoning on prompted topics, rather than their spontaneous awareness", and prompts may have inflated the saliency of particular themes.
 - The analysis deliberately traced a broad thematic landscape across the whole 10–16 range instead of running separate analyses per age band, so age-unique perspectives remain unexplored even though the survey confirmed knowledge differs by age, and reflexive thematic analysis is a subjective process shaped by the authors' own disciplinary backgrounds; all safety attitudes are [[self-report-measures|self-reports]] from children about hypothetical systems rather than observed behavior with an operating AI, and the authors call for larger, more diverse samples and validated measures of objective AI knowledge as future work.
 
-## Connected Concepts
-
-- [[misconceptions]] — the paper's analytical core: children's incorrect models of AI capacities, privacy and misuse
-- [[ai-literacy]] — the intervention the authors press for, framed as reasoning about safety rather than technical definitions
-- [[privacy]] — data collection, permanence, re-identification and third-party access as children described them
-- [[ai-misuse-learning-harm]] — hacking, phishing, deepfakes, identity theft and the harms children anticipated
-- [[conversational-ai]] — chatbots and LLMs discussed through smartphones, ChatGPT and voice assistants
-- [[generative-ai]] — the AI/LLM definitions children were given and applied to robots and chat systems
-- [[educational-robotics]] — Blossom and social robots as the embodiment that shaped children's safety reasoning
-- [[trust-calibration]] — friendliness misread as a safety guarantee, and the gap between trust and evidence
-- [[learners]] — 10–16-year-olds as the population whose baseline knowledge is being mapped
-- [[parents-and-families]] — caregivers named as co-stakeholders in AI safety education
-- [[qualitative-research]] — reflexive thematic analysis of focus group transcripts as the study's interpretive method
-- [[k-12]] — the schooling context and the school-wide, age-appropriate interventions the authors recommend
-
-## Connected Articles
-
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Developmentally tiered AI literacy materials for K-12 students and teachers
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — Children's attitudes toward an age-tailored AI chatbot
-- [[ai-toys-child-development-2026]] — How AI-enabled toys bear on child development and play
-- [[demir-akar-ai-media-literacy-children-2026]] — An AI-based media literacy program for children's critical thinking
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-designing classroom AI around youth relational privacy
-- [[eduzone-llm-safety-k12]] — A framework for evaluating LLM safety for K-12 students and teachers
-- [[child-safety-genai]] — Expert-guided, incident-grounded evaluation of child safety in generative AI
-- [[hazra-safetutors-pedagogical-safety-2026]] — Safety and pedagogical harms in AI tutoring systems
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Rapid review of young people's generative AI use in PreK-12
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play-centered AI literacy curriculum for the youngest learners
-
 ## Citation
 
 Leisten, L. M., Moffat, R., Caruana, N., & Cross, E. S. (2026). [*“If we are good friends, AI doesn't spy so much”: Children's knowledge and misconceptions of AI safety*](https://osf.io/preprints/psyarxiv/jva7z_v1). *PsyArXiv Preprints*.

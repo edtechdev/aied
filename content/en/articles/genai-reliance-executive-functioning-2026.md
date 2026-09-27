@@ -71,34 +71,6 @@ Implications follow the individual-differences frame. The consistency of the pat
 - Every construct is self-reported on the same instrument, inviting common-method variance, and executive functioning was captured only as the BRIEF2 Global Executive Composite, so domain-level differences (working memory versus inhibition) cannot be tested.
 - The models were unadjusted for gender, age, achievement, socioeconomic background or neurodevelopmental conditions, and the three-item reliance measure is new and not yet validated against its neighboring constructs.
 
-## Connected Concepts
-
-- [[cognitive-offloading]] — the offloading literature that frames whether reliance helps or bypasses effortful thinking
-- [[self-regulated-learning]] — self-regulatory capacity as the individual difference the study foregrounds
-- [[metacognition]] — monitoring and evaluating AI output, conceptually distinct from reliance as measured
-- [[self-efficacy]] — academic self-efficacy named among candidate mechanisms behind the residual EF–reliance path
-- [[generative-ai]] — the technology whose schoolwork use and reliance the model explains
-- [[llm]] — the chatbot class (ChatGPT, Gemini, Copilot, MyAI) that dominates students' reported tool use
-- [[technology-acceptance-model]] — perceived usefulness as the TAM-derived mediator in the sequential model
-- [[help-seeking]] — teacher support as the alternative reliance is defined against, and evidence that it is not displaced
-- [[student-experience]] — the adolescents' own perceptions of usefulness, habit and preference for AI over effort
-- [[neurodiversity]] — ADHD and autism as populations where EF difficulties and reliance may interact
-- [[self-report-measures]] — the single measurement channel for every construct and the source of common-method risk
-- [[learning-gains]] — the outcome the cross-sectional design explicitly cannot address
-
-## Connected Articles
-
-- [[seung-basham-cognitive-offloading-swld-2026]] — Cognitive offloading and GenAI for students with learning disabilities, the paper's applied companion
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Outsourcing versus reallocation of cognitive effort in unsupervised GenAI assessment
-- [[metacognitively-discordant-completion-genai-2026]] — Aware pass-through of non-understanding when GenAI completes the work
-- [[aigc-affordance-student-self-regulation-2026]] — Serial mediation of GenAI affordance, self-efficacy and motivation
-- [[reclaiming-epistemic-agency-co-agency-2026]] — A critical framework for human–GenAI co-agency and student judgment
-- [[absent-cognitive-baseline-2026]] — The missing cognitive baseline in AI-native students' self-assessment
-- [[ai-cognitive-partner-co-regulation-learning]] — Developmental account of human–AI co-regulation in learning
-- [[learning-behavior-background-advantage-ai-ed]] — How learning behavior, not access, drives AI-assisted advantage
-- [[young-people-learning-generative-ai-rapid-review-2026]] — PreK-12 evidence review on young people's GenAI learning use
-- [[epistemic-proactivity-math]] — Temporal trajectories of student–AI interaction in mathematics
-
 ## Citation
 
 Klarin, J., Hoff, E., & Daukantaitė, D. (2026). [*Individual Differences in Reliance on Generative AI in Schoolwork: The Role of Executive Functioning Difficulties, Perceived Usefulness, and Habitual Use*](https://osf.io/preprints/psyarxiv/2rafb). PsyArXiv preprint, version 6, published 2026-09-17. (Lund University)

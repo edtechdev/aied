@@ -44,25 +44,6 @@ The study surveyed Australian secondary students in **Years 7, 8, and 10 (Npre =
 - Surveys were administered anonymously on paper and could not be paired, so the reported gains are group-level and may be subject to self-reporting bias.
 - The deepfake measure was a multi-select item that did not differentiate benign from harmful content such as sexualised imagery, so the male-sharing rate mixes both.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[teacher-ai-competency]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[k-12]]
-- [[stem-education]]
-- [[student-experience]]
-
-## Connected Articles
-
-- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analyzing Dyslexic Learners Insights from Online Forums
-- [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
-- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-- [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
-
 ## Citation
 
 Jake Renzella, Christian Bergh, Natasha Banks, Alexandra Vassar (2026). [Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement](https://arxiv.org/abs/2606.14718). arXiv preprint.

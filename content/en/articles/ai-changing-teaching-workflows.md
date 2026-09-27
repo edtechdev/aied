@@ -80,32 +80,6 @@ The shift from single-prompt [[conversational-ai|chatbots]] to [[agentic-ai|agen
 - The bottom quartile of students showed no improvement under either AI condition in the Brazil RCT, so the reallocation finding does not extend to the lowest performers.
 - The component-level quality claims (59.7% preference for AI lesson conclusions, 59.2% for high school content, 54.5% for customized GPT-4 at middle school, ~65% human preference at elementary level) come from blind expert and designer comparisons whose protocols are summarized rather than reported.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[student-experience]]
-- [[tpack]]
-- [[feedback]]
-- [[rct]]
-- [[equity-in-ai-education]]
-- [[human-in-the-loop-ai]]
-- [[educational-development]]
-## Connected Articles
-
-- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics
 ## Citation
 
 Ler, L. (2026). [*How AI Is Changing Teaching Workflows.*](https://edtechinsiders.substack.com/p/how-ai-is-changing-teaching-workflows) Edtech Insiders

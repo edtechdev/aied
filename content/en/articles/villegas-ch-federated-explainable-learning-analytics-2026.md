@@ -41,18 +41,6 @@ The framework formulates academic risk as a multitask problem with targets for b
 
 The EdNet proxy label is derived from the same temporal-persistence features used as inputs, inflating apparent cross-platform discrimination; the temporal representation abstracts learning into aggregated patterns without social interaction, instructor feedback, or learning-strategy variability; and the controlled experimental design does not capture real distributed-system complexity (variable client sizes, asynchronous updates, communication instability).
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[privacy]]
-- [[ai-ed-evaluation]]
-- [[machine-learning]]
-
-## Connected Articles
-
-- [[at-risk-students-ml-prediction]] — Machine-learning prediction of at-risk students
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-preserving federated learning for cognitive diagnosis
-
 ## Citation
 
 Villegas-Ch, W., Maldonado Navarro, A., Govea, J., Garcia-Ortiz, J., & Buenaño-Fernandez, D. (2026). [Federated and explainable learning analytics for privacy-preserving academic risk modeling across heterogeneous educational institutions](https://doi.org/10.1016/j.caeai.2026.100629). *Computers and Education: Artificial Intelligence, 11*, 100629.

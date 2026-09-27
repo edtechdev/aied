@@ -44,25 +44,6 @@ The data were analyzed with partial least squares structural equation modeling, 
 - The sample comprised only Chinese pre-service science teachers, limiting generalizability to other countries, regions or types of teacher education institution; generalizability across science disciplines (physics, chemistry, biology, earth science) was not tested; future multigroup comparisons are needed.
 - AI-TPACK was measured as a first-order construct of perceived AI-integrated pedagogical knowledge; it did not capture the sociocultural dimension of digitality emphasized by DPACK, nor DiKoLAN AI's subject-specific competencies in data processing, simulation and modeling, and scientific information evaluation.
 
-
-## Connected Concepts
-
-- [[ai-literacy]] — the independent variable; shown to be a necessary but insufficient foundation for AI integration intention.
-- [[tpack]] — AI-TPACK, an extension of TPACK, serves as the central mediating professional-knowledge construct.
-- [[inquiry-based-learning]] — the target teaching context into which pre-service teachers intend to integrate AI.
-- [[self-efficacy]] — science teaching self-efficacy is the key psychological mediator of integration intention.
-- [[science-education]] — the subject-specific domain in which AI-TPACK and efficacy are situated.
-- [[teacher-ai-competency]] — the broader competence framework the study's knowledge-and-confidence mechanism feeds into.
-- [[teacher-education]] — the context and site for the proposed pedagogical and curricular interventions.
-
-## Connected Articles
-
-- [[pre-service-science-teachers-ai-perceptions-2026]] — examines the same population's perceptions and acceptance of AI in science education programs.
-- [[ai-tpack-preservice-math-teachers]] — tests AI-TPACK readiness among preservice teachers with the same structural equation modeling method.
-- [[science-educators-ai-literacy-postqualification-2026]] — directly cited; finds no link between general AI literacy and AI use, complementing this study's mechanism-based findings.
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — empirically examines the broader intelligent-TPACK framework that this study's AI-TPACK construct draws on.
-- [[quest-ai-inquiry-preservice-teachers]] — tests an AI-supported inquiry model's effects on preservice teachers' AI literacy and authentic performance.
-
 ## Citation
 
 Zou, J., Li, N., Wang, X., & Du, J. (2026). [From AI literacy to AI-integrated inquiry-based science teaching: the serial mediating roles of AI-TPACK and science teaching self-efficacy among Chinese pre-service science teachers](https://doi.org/10.3389/fpsyg.2026.1911909). *Frontiers in Psychology, 17*, 1911909.

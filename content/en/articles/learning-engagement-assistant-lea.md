@@ -35,23 +35,6 @@ The work sits within the broader literature on [[intelligent-tutoring]] and [[ag
 - The cross-course RAGAS evaluation used the system's own generated answers as a stand-in reference for Context Precision and Context Recall absent human-authored ground truth, so those two metrics measure internal retrieval consistency rather than alignment with an independent correctness standard.
 - The hypothesized link between CMP202's sentence-bounded chunking and its lower Context Recall was not isolated through controlled ablation, and the three-course deployment, though spanning two disciplines and two academic levels, remains narrow in absolute breadth.
 
-## Connected Concepts
-
-- [[knowledge-tracing]]
-- [[student-experience]]
-- [[intelligent-tutoring]]
-- [[higher-ed]]
-- [[stem-education]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[personalized-learning]]
-- [[rag]]
-- [[agentic-ai]]
-- [[generative-ai]]
-- [[llm]]
-## Connected Articles
-
-- [[agentic-workflows-education]]
 ## Citation
 
 Teri Rumble, Javad Zarrin, P. George Lovell, Ruth Falconer (2026). [Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System](https://arxiv.org/abs/2607.13370).

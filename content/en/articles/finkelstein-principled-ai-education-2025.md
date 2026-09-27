@@ -55,47 +55,6 @@ The framework works as a checklist for any AI-in-education initiative. First, st
 - **Scope is higher education.** The framework is written for colleges and universities, and the paper notes that for transformation practices specifically the evidence base is much sparser than for the tools themselves.
 - **Several levers sit above the instructor.** The roles it identifies for making this work include department chairs, deans and centers for teaching and learning, so parts of the framework depend on institutional decisions a course-level reader cannot make alone.
 
-## Connected Concepts
-
-- [[active-learning]]
-- [[agency]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-technologies]]
-- [[authentic-assessment]] — Authentic Assessment
-- [[automated-assessment]]
-- [[collaborative-learning]]
-- [[curriculum-design]]
-- [[desirable-difficulties]]
-- [[educational-development]]
-- [[equity-in-ai-education]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[human-ai-collaboration]]
-- [[human-in-the-loop-ai]]
-- [[learning-design]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[motivation]]
-- [[productive-failure]]
-- [[research-methods-aied]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[sociocultural-learning]]
-- [[socratic-method]]
-- [[student-engagement]]
-- [[teacher-role]]
-- [[transfer-of-learning]] — AI Learning Transfer
-
-## Connected Articles
-
-- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
-- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
-
 ## Citation
 
 Finkelstein, N. (2025). [*A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies*](https://arxiv.org/abs/2510.01467).

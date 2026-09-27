@@ -16,7 +16,6 @@ assessment: [ai-detection, assessment-validity, educational-measurement]
 methods: [quantitative-research, research-methods-aied]
 ethics: [explainable-ai, bias-mitigation, differential-effects-across-learner-groups]
 foundations: [academic-integrity, reducing-ai-misuse, limitations-in-aied-research]
-connected_faqs: [should-we-use-ai-detectors]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -58,33 +57,6 @@ A 22.2% false positive rate is a problem about people, not metrics: each false p
 - The headline estimate rests on 36 documents from 18 participants, so intervals are wide (FPR 9.0%–45.2%; FNR 3.1%–32.8%) and error rates shifted under alternative train-test splits (mean FNR 23.7%–24.8%).
 - Writing condition is confounded with session order, because every participant completed the independent session first.
 - Other forms of AI assistance — brainstorming, editing, or generating text without paraphrase — were not evaluated.
-
-## Connected Concepts
-- [[ai-detection]]
-- [[academic-integrity]]
-- [[explainable-ai]]
-- [[machine-learning]]
-- [[assessment-validity]]
-- [[writing-education]]
-- [[llm]]
-- [[generative-ai]]
-- [[educational-measurement]]
-- [[quantitative-research]]
-- [[bias-mitigation]]
-- [[differential-effects-across-learner-groups]]
-- [[legal-issues-and-risks]]
-- [[limitations-in-aied-research]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-- [[bassett-ai-detectors-education-2026]] — Heads We Win, Tails You Lose: AI Detectors in Education
-- [[karr-ai-detection-humanization-2026]] — Why AI Detection Fails for Academic Integrity
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Who wrote this? Evaluating the reliability of AI detection tools in higher education
-- [[hadra-ai-detector-accuracy-efl-2026]] — Evaluating the accuracy and reliability of AI content detectors in academic contexts
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Detecting the Undetectable? Reassessing Academic Misconduct Procedures in the Era of Generative AI
-- [[detecting-llm-generated-text-latent-prompt]] — Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration
-- [[llm-detecting-llm-generated-content-education]] — Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond Detection: How Students Use—and Hide—AI in Online Assessments and What Authentic Tasks Can Do About It
 
 ## Citation
 Kumar, R., Siddiqui, N., & Fuchsberger, A. (2026). [Detecting GPT-Assisted Writing Using Interpretable Stylometric Features](https://arxiv.org/abs/2609.26687). arXiv:2609.26687.

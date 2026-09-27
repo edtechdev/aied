@@ -57,28 +57,6 @@ The lack of shared terminology motivates a convergent taxonomy of learning-orien
 - The reviewed literature was concentrated in higher education and drawn from a rapidly changing period (2021–2025).
 - The proposed taxonomy was synthesized from reported categorizations and grounded in established frameworks rather than validated against an independent corpus of learner–LLM dialogues, so its coverage, episode boundaries, and coding reliability still require empirical examination.
 
-## Connected Concepts
-
-- [[llm]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[meta-analysis-systematic-review]]
-- [[higher-ed]]
-- [[self-regulated-learning]]
-- [[assessment]]
-- [[ai-feedback-quality]]
-- [[self-report-measures]]
-
-## Connected Articles
-
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[llm-sentiment-analysis-education-research]]
-- [[student-rationalization-ai-writing]]
-- [[students-llm-usage-critical-thinking]]
-- [[learnmate2-llm-adaptive-learning]]
-- [[ai-generated-feedback-higher-ed]]
-
 ## Citation
 
 Borchers, C., Jansen, S., & Weidlich, J. (2026). [*Toward convergence in student-LLM interactions: A rapid scoping review and taxonomy for learning-oriented use*](https://osf.io/preprints/edarxiv/s74t8_v1/). EdArXiv preprint.

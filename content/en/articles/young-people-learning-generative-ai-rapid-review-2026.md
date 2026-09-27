@@ -8,7 +8,6 @@ pedagogy: [metacognition, self-regulated-learning, student-engagement]
 technology: [generative-ai]
 assessment: [assessment]
 ethics: [equity-in-ai-education]
-connected_faqs: [ai-guidance-children-under-13]
 audience: [learners, instructors]
 research_method: [literature review]
 level: [k 12, teacher education]
@@ -68,40 +67,6 @@ These are not fixed properties of a practice but of how a practice is enacted. T
 - The authors describe the peer-reviewed base as "emergent and uneven in methodological rigour" and analyze it as a narrative, coded synthesis across the learner, context, and culture dimensions of *How People Learn II* rather than through a meta-analytic protocol.
 - Outcome evidence is asymmetric: affective gains and immediate performance dominate the corpus while durable learning, transfer, and sustained self-regulation are inconsistently demonstrated, and the review notes that cultural and institutional evidence remains limited, so cross-context generalization needs care.
 - Tool-design claims lean heavily on a single comparison (Bastani et al. 2025: unrestricted GPT Base versus a guardrailed GPT tutor) and on studies from a four-year window, so the design lessons are only as strong as that small set of trials.
-
-## Connected Concepts
-
-- [[k-12]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[reducing-ai-misuse]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]
-- [[teacher-education]]
-- [[student-engagement]]
-- [[transfer-of-learning]]
-- [[desirable-difficulties]]
-- [[feedback]]
-- [[scaffolding]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[learning-gains]]
-- [[philosophy-of-ai-in-education]]
-- [[higher-ed]]
-- [[cognitive-surrender]]
-
-## Connected Articles
-
-- [[generative-ai-reduced-study-time-math]] — Cognitive surrender and the performance–learning gap in math
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From substitution to scaffolding: the harm cycle
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
-- [[absent-cognitive-baseline-2026]] — The absent cognitive baseline in AI-native students
-- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning
-- [[halani-designing-for-reach-2026]] — Designing for reach: the student alone with AI
 
 ## Citation
 

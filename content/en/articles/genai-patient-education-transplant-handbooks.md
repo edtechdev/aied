@@ -38,21 +38,6 @@ discipline: [medical education]
 - English-only and snapshot-in-time: the corpus and the 1,115 TransplantQA questions are English, and handbooks were collected over a single 2024-2025 window even though many centers also distribute Spanish and Mandarin materials and guidance evolves.
 - Retrieval-induced apparent divergence: differences between two handbooks' answers may reflect one poorly matching retrieval rather than institutional disagreement, and the absence pre-screen only partially mitigates this without controlled passage baselines.
 
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[llm]] — the model technology powering patient-education assistants
-- [[rag]] — grounding assistants in local handbook content
-- [[hallucination-risk]] — risk of inconsistent or unreliable AI-mediated answers
-- [[trust]] — patients relying on institution-provided guidance
-- [[governance]] — institutional oversight of AI-mediated patient education
-- [[ai-education]] — AI use in patient and health-education contexts
-## Connected Articles
-
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[medeasy-ai-standardized-patients]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[medgame-llm-medical-education-gamification]]
 ## Citation
 
 Yubo Li, Rema Padman, Ramayya Krishnan (2026). [Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks](https://arxiv.org/abs/2607.22606).

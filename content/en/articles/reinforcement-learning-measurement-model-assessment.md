@@ -35,21 +35,6 @@ The approach also relates to [[knowledge-tracing]] and [[learning-analytics]] as
 - The model uses a single positive ability parameter, which cannot capture multidimensional differences such as strategy selection, task persistence, or exploration patterns.
 - The empirical sample is episode-level (1,133 episodes reduced from 106,315 raw transitions) because some users appear in multiple gameplay sessions and the logs do not support clean aggregation of all behavior into one trajectory.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[educational-measurement]]
-- [[reinforcement-learning]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[learning-analytics]]
-- [[psychometrically-aware-ai]]
-- [[ai-ed-evaluation]]
-## Connected Articles
-
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[llm-psychometric-calibration-cdp]]
 ## Citation
 
 Xu, W., & Ji, F. (2026). [Reinforcement learning measurement model](https://arxiv.org/abs/2605.09305).

@@ -43,19 +43,6 @@ The key idea is that pedagogical evaluation — judging whether a tutor correctl
 - Evaluation is confined to four rubric tracks scored with lenient F1 and accuracy, so the reported commercial-model percentages describe rubric-level response quality rather than student learning outcomes.
 - Class imbalance in the source labels was substantial — Mistake Identification contained 1,069 Yes, 592 No, and 137 To Some Extent examples — requiring downsampling and synthetic generation before training could proceed.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[k-12]]
-- [[higher-ed]]
-- [[llm]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-## Connected Articles
-
-- [[ai-tutor-behavioral-evaluation]]
-- [[zerkouk-comprehensive-review-its-2025]]
 ## Citation
 
 Tahmid Al Hannan, Diego Garcia, Alex Njoroge, Suha Al Juboori, Tarek Sakakini (2026). [Knowledge Distillation for Automated AI Tutor Evaluation](https://arxiv.org/abs/2607.10647). arXiv preprint.

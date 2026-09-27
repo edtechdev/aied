@@ -63,17 +63,6 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 - No outcome data on student learning, or on the effects of the recommended workload and promotion changes, are reported; the strategic steps are recommendations to be tested rather than evaluated interventions.
 - Case evidence spans Australia, the UK/Singapore, and China, and the paper notes that national policy levers such as TEQSA guidance may push adoption toward Level 2 or toward fragmented, ad hoc responses — a contingency the framework does not model.
 
-## Connected Concepts
-
-- [[educational-development]]
-- [[student-experience]]
-- [[assessment-validity]]
-- [[teacher-ai-competency]]
-- [[regulation]]
-- [[authentic-assessment]]
-## Connected Articles
-- [[ai-adult-learning-guidelines-dis2026]]
-- [[finkelstein-principled-ai-education-2025]]
 ## Citation
 
 Binkowski, K. P., & Hopkins, A. (2026). [*The University AI Didn't Replace: Rethinking Universities in the AI Era*](https://arxiv.org/abs/2605.07056).

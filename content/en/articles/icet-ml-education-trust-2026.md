@@ -50,21 +50,5 @@ The central proposal is normative: [[trust-calibration|trust calibration]] shoul
 - The supporting tool analysis was a qualitative evaluation of a selected representative set of tools, platforms, and games against the three facets, not a systematic census of the field.
 - The motivating quantitative patterns — roughly 60% of coded supervised-learning activities at the lowest abstraction levels, and technical and societal perspectives on the same algorithm co-occurring in only about 3% of activities — come from two other systematic reviews (126 and 133 activities), so the framework rests on secondary coding of others' corpora.
 
-## Connected Concepts
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[computational-thinking]]
-- [[k-12]]
-- [[curriculum-design]]
-- [[pedagogy]]
-- [[ai-education]]
-
-## Connected Articles
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust-Utility Gap in Introductory Physics Education
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI Literacy Interventions in Education: A Meta-Analysis
-- [[zha-ai-literacy-biology-case-study]] — A Case Study of Integrating AI Literacy Education in a Biology Class
-- [[llm-computational-thinking-physics-2026]] — Using LLMs to Detect Growth in Computational Thinking in Introductory Physics
-
 ## Citation
 Haritz, P., Krone, H., & Liebig, T. (2026). [*Addressing Trust in AI Systems through Education: A Didactic Perspective*](https://arxiv.org/abs/2609.02453). arXiv preprint arXiv:2609.02453.

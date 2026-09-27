@@ -60,35 +60,6 @@ LLMersion-1 is a released reference implementation. A loader registry repairs do
 - The cost assumptions are narrow: $18 of electricity assumes 1,825 hours at 60 W and 16.5 cents per kWh, and the $227 device price is a dated retail snapshot.
 - The instance's stated edges are real: pronunciation feedback is segmental only and, in free conversation, references the recognizer's transcript of the learner's own speech, so a wholly misrecognized word escapes scoring; grammar correction works on transcripts rather than audio.
 
-## Connected Concepts
-
-- [[language-learning]]
-- [[english-education]]
-- [[speech-and-voice-technologies]]
-- [[intelligent-tutoring]]
-- [[conversational-ai]]
-- [[agentic-ai]]
-- [[llm]]
-- [[open-source]]
-- [[personalized-learning]]
-- [[self-directed-learning]]
-- [[digital-divide]]
-- [[global-south]]
-- [[equity-in-ai-education]]
-- [[parents-and-families]]
-- [[privacy]]
-
-## Connected Articles
-
-- [[kutti-ai-voice-first-learning-companion]] — Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children
-- [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Multimodality and Social Interactions in AI-Enhanced Embodied Robot-Assisted Language Learning: A Meta-Analysis
-- [[paratutor-parent-child-tutoring]] — ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time
-- [[asr-english-speaking-feedback-metacognition-2026]] — ASR Technology in College English Speaking Instruction: The Role of Feedback Internalization and Metacognitive Strategies
-- [[nguyen-genai-global-south-review-2026]] — Perceptions Of Generative AI in the Global South: A Scoping Review
-- [[llm-environmental-impact-student-usage-2026]] — When LLMs Slow Down: How Environmental Impacts Mediate University Students' LLM Usage
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual Tutoring with Computer-Assisted Learning: An Experiment in Take-Up and Learning
-
 ## Citation
 
 Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). [*LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity*](https://arxiv.org/abs/2609.29672). arXiv preprint.

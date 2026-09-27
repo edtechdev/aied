@@ -51,21 +51,6 @@ The problem: many teachers struggle with adoption because of limited training, u
 - Mediation was tested with the Baron and Kenny method and the Sobel test rather than bootstrapped or structural-equation approaches, so the indirect effect depends on a lower-power procedure.
 - The sample tilts toward secondary educators — 161 of 260 were secondary against 52 elementary and 47 college teachers, with over 75% of participants female — so estimates reflect that distribution.
 
-## Connected Concepts
-
-- [[teacher-role]]
-- [[educational-development]]
-- [[tpack]]
-- [[self-efficacy]]
-- [[teacher-ai-competency]]
-## Connected Articles
-
-- [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
-- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for artificial intelligence literacy through a self-determination theory perspective
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Development and evaluation of artificial intelligence literacy training for teacher education students
-
 ## Citation
 
 Sibug, V. B., Cruz, M. A. D., Vital, V. P., Grume, J. C., Gamboa, A. B., Fernando, E. Q., Feliciano, L. D., Salenga, J. L., & Miranda, J. P. P. (2026). [AI adoption among teachers: Insights on concerns, support, confidence, and attitudes](https://arxiv.org/abs/2605.00343). Proceedings of the 9th International Conference on Education and Multimedia Technology (ICEMT 2025), 267-269.

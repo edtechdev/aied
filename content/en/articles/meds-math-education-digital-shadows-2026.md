@@ -73,33 +73,6 @@ Second, the psychometric results depend on models answering about themselves. Ba
 
 Fourth, the psychological battery is narrow. Three instruments, 50 cue words and 18 high-school problems cannot cover the range of mathematical content, task formats or classroom contexts that matter for [[k-12]] and [[higher-ed]] practice, and the reasoning-verbosity-to-fallacy-rate relationship the authors flag as important is left for future work. Fifth, the ecosystem moves faster than the dataset: model versions, refusal behavior and reasoning styles all shift, so the snapshot describes 14 specific systems rather than the families they stand for. The authors position MEDS accordingly — an observational resource for auditing prompt-conditioned GenAI behavior, assertively not a stand-in for [[student-experience|student data]] — and note that because it is synthetic, using it carries no ethics-review or [[privacy]] constraint, which is precisely why it cannot answer the questions about real students it is often recruited for.
 
-## Connected Concepts
-
-- [[simulating-students]] — the core method: LLM personas standing in for learners and analyzed as shadows
-- [[anxiety-and-stress]] — math anxiety as the affective dimension MEDS tries to make measurable in models
-- [[self-efficacy]] — the belief dimension carried by MSES and the MSEAQ self-efficacy subscale
-- [[llm]] — the 14 systems across six families whose behavior the dataset records
-- [[psychometrically-aware-ai]] — psychometric scales adapted to AI respondents, with mixed distributions as the signal
-- [[trust-calibration]] — the accuracy-versus-confidence gap and myopic overconfidence
-- [[benchmark]] — MEDS as a multidimensional extension of score-only math benchmarks
-- [[network-analysis]] — forma mentis networks linking math concepts with emotional valence
-- [[learning-analytics]] — performance, confidence and fallacy data as a source of discrepancy indicators
-- [[bias-mitigation]] — family-specific biases, uncensored-versus-censored differences and stereotype testing
-- [[hallucination-risk]] — confident mathematical errors in a tutoring context
-- [[limitations-in-aied-research]] — simulation validity and the inference limits the authors state explicitly
-
-## Connected Articles
-
-- [[valid-student-simulation-llm-2026]] — What makes student simulation with LLMs valid, and where it fails
-- [[simulating-students-llm-review-2026]] — Review of architectures and mechanisms for simulating students
-- [[llm-student-simulation-misconception-faithfulness]] — Whether simulator personas reproduce real misconceptions or flatter the prompt
-- [[absent-cognitive-baseline-2026]] — The missing baseline problem in AI-native students' self-assessment
-- [[llm-fallacy-misattribution]] — Argumentative failure and misattributed competence in LLM reasoning
-- [[chudziak-ai-math-tutoring-platform]] — A personalized adaptive math tutoring platform built on LLMs
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — LLM maths tutoring for younger learners with rule-based constraints
-- [[verification-quality-reliance-calibration-genai-2026]] — Verification, reliance calibration and learning in GenAI-assisted study
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Affective math tutoring that responds to learner emotion
-
 ## Citation
 
 Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). [*Math Education Digital Shadows for facilitating learning with LLMs: Math performance, anxiety and confidence in simulated students and AIs*](https://arxiv.org/abs/2604.27618). arXiv:2604.27618.

@@ -49,25 +49,6 @@ The study is a [[meta-analysis-systematic-review|scoping review]] aligned to the
 - The search covered four databases for 12/2022-2/2025 in English only, and the design maps concepts and gaps rather than evaluating effects, so no claim about GenAI's impact on learning outcomes can be drawn from it.
 - The evidence base is skewed toward student perspectives and flattens very different educational systems into one category, limiting applicability across regional and national settings.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[global-south]]
-- [[meta-analysis-systematic-review]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[academic-integrity]]
-- [[personalized-learning]]
-
-## Connected Articles
-
-- [[genai-chinese-higher-education-integrity-2026]] — GenAI and academic integrity in Chinese higher education
-- [[multilingual-adaptive-learning-nigeria-2026]] — Multilingual adaptive learning in the Global South
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of GenAI educational outcomes
-- [[ai-literacy-equity-programming-policy]] — AI literacy, equity, and programming policy
-- [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity systematic review
-- [[genai-assessment-governance]] — GenAI assessment and governance
-
 ## Citation
 
 Nguyen, A. T., & Perkins, M. (2026). [*Perceptions of Generative AI in the Global South: A Scoping Review*](https://doi.org/10.53761/f22j6648). *Journal of University Teaching and Learning Practice*, Advanced Online Publication. https://doi.org/10.53761/f22j6648 (CC BY-ND 4.0)

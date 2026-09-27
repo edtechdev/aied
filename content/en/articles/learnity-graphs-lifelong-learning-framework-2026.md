@@ -37,27 +37,6 @@ audience: [curriculum designers, administrators, instructional designers]
 - The conditions under which the framework could be evaluated are themselves unresolved: knowledge representation, evaluation mechanisms, technological scalability, and governance for cross-institutional recognition.
 - No criteria are given for granularity — when a learnity becomes a distinct node in the graph — which the authors acknowledge is required to avoid graph inflation and preserve interpretability.
 
-## Connected Concepts
-
-- [[curriculum-design]]
-- [[educational-policy-ai]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[learning-design]]
-- [[knowledge-graph]]
-- [[lifelong-learning]]
-- [[personalized-learning]]
-- [[self-regulated-learning]]
-- [[student-modeling]]
-- [[transfer-of-learning]]
-- [[recommender-systems-and-learning-paths]]
-## Connected Articles
-
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher education policy
-- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education review
-- [[pchl-he-framework-genai-content-creation-2026]] — PCHL-HE framework
-- [[xie-hillm-cd-2026]] — HILLM curriculum design
-
 ## Citation
 
 Szekely, S., Gal-Ezer, J., & Harel, D. (2026). [*Rethinking Higher Education: From Fixed Curricula to Learnity Graphs*](https://arxiv.org/abs/2608.08543). (cs.CY).

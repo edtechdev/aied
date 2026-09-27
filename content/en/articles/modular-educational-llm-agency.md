@@ -36,19 +36,6 @@ page_kind: [framework]
 - Engagement, not learning, is what was measured: 95 of the conversations were judged genuine learning attempts by automated GPT-5 analysis and 63% were resolved or partially resolved, but only 97 chats were multi-turn and no relationship to course performance is established.
 - Linking interaction logs to exam data required explicit informed consent, which the authors state can significantly limit the sample size and demographic representativeness, and they describe the deployment as promising qualitative evidence needing larger-scale evaluation that accounts for motivational biases.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[agentic-ai]]
-- [[llm]]
-## Connected Articles
-
-- [[correct-answer-trap-ai-tutor]]
-- [[agentic-literacy-debt]]
-- [[rubric-aware-grading-rec-cbm]]
 ## Citation
 
 Julius Gabelmann, Felix Jahn, Kevin Baum, Sophie van Rossum, Emely Wuenscher, Timo P. Gros, & Verena Wolf (2026). [Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance](https://arxiv.org/abs/2605.30187). AISoLA 2025 (Track: Responsible and Trusted AI).

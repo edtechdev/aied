@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 technology: [generative-ai, llm]
 ethics: [equity-in-ai-education]
-connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 audience: [administrators]
 research_method: [secondary analysis, policy analysis]
 level: [higher ed]
@@ -53,16 +52,6 @@ The study performs a **secondary/document analysis** comparing institutional pol
 - The course-level analysis covers **computer science only** (a deliberate design choice to study early adopters), so findings may not transfer to other disciplines; the authors note most prior literature spans multiple domains and call for cross-discipline comparisons.
 - Institutional policies and course syllabi were **collected in different periods** (late 2023 vs. spring 2024), during which GenAI tools and guidance evolved rapidly.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]
-## Connected Articles
-
-- [[teacher-ai-adoption-confidence]]
 ## Citation
 
 Ganguly, A., Johri, A., McDonald, N., Ali, A., et al. (2026). [A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education](https://arxiv.org/abs/2607.12296).

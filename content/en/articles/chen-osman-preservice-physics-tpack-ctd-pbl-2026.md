@@ -57,32 +57,6 @@ The governing rule was that all AI output was provisional and required human ver
 - Both outcomes were [[self-report-measures|questionnaire]]-based — TPACK through a 28-item self-assessment and CPS through perceived processes aligned with the OECD PISA framework — so neither is evidence of demonstrated classroom competence or observed collaborative behavior, and AI process evidence was incomplete.
 - The study took place with third-year pre-service physics teachers at one public university in western China, leaving transferability to other institutions, regions, subjects, year levels and [[teacher-education|teacher education]] systems untested; the instruments came from validated sources but were translated into Chinese without construct adaptation and the platform is reported as DeepSeek rather than a fixed model version, which the authors flag as a limit on exact technical reproducibility.
 
-## Connected Concepts
-
-- [[tpack]] — the outcome construct, measured across seven domains with the strongest gains in integrated TPCK, TCK and PCK
-- [[collaborative-learning]] — collaboration was designed into the module through roles, shared artifacts and peer review rather than left informal
-- [[problem-based-learning]] — the pedagogical architecture that gave direction to the AI-supported scaffold
-- [[scaffolding]] — AI use was operationalized as bounded scaffolding, not as an autonomous solution provider
-- [[self-efficacy]] — TPACK and CPS were self-reported, so the gains describe perceived competence rather than observed performance
-- [[generative-ai]] — DeepSeek served idea generation, resource organization, explanation comparison and revision planning
-- [[prompt-engineering]] — task-specific prompt templates standardized how groups used the platform
-- [[teacher-ai-competency]] — the module targets discipline-specific AI-supported instructional design competence
-- [[physics-education]] — tasks were bound to specific physics content from DC circuits to electromagnetic compatibility
-- [[self-report-measures]] — the primary limitation is that both outcomes are questionnaire-based perceptions
-- [[group-work]] — CPS dimensions cover participation, perspective taking, regulation and shared knowledge building
-- [[guardrails]] — human verification, prompt templates and artifact checks govern what AI output may enter instruction
-
-## Connected Articles
-
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK development in another subject-specific teacher education setting
-- [[ai-tpack-preservice-math-teachers]] — pre-service teachers' AI-TPACK, comparably measured through self-report
-- [[ai-training-science-teacher-tpack-distance-2026]] — TPACK-focused AI training for science teachers in a distance format
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — AI scaffolding examined against collaborative problem solving
-- [[tpack-genai-inservice-teachers-mediation-2026]] — generative AI's mediating role in teachers' TPACK
-- [[pre-service-science-teachers-ai-perceptions-2026]] — perception-focused evidence of the kind this study moves beyond
-- [[teacher-educators-ai-integration-preservice-2026]] — teacher educators' role in integrating AI into pre-service preparation
-- [[wang-teacher-student-centered-agents-physics-2026]] — physics teaching with AI agents, a more agentic design contrast
-
 ## Citation
 
 Chen, Q., & Osman, K. (2026). [*Changes in pre-service physics teachers' TPACK and collaborative problem solving associated with an AI-supported CTD-PBL module: A quasi-experimental study*](https://doi.org/10.3390/info17070688). *Information*, 17(7), 688.

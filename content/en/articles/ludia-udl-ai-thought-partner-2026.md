@@ -5,7 +5,6 @@ updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [ai-education, learning-design]
 ethics: [accessibility, equity-in-ai-education, universal-design-for-learning]
-connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [system development]
 level: [teacher education]
 sources: ['raw/papers/ludia-udl-ai-thought-partner-2026.md']
@@ -58,19 +57,6 @@ The paper's most distinctive move is its refusal to claim evidence of effectiven
 - Nothing is independently verified: no external audit of accessibility, security, or reliability; no independent researcher review of the evidence claims; usability testing was informal and undocumented; and the Accessibility Conformance Report is self-authored and still in preparation.
 - Outputs have never been tested for cultural or linguistic bias, and the model may skew toward well-resourced, English-medium, Global North schooling; the 13 languages are machine translations that carry the assumptions of the English source.
 - The comparison guides were self-selected after the tool was largely built, one of them was co-developed by an organization that gave the authors an award, and the authors call reading yourself against guides you picked "the weakest form of assessment there is."
-
-## Connected Concepts
-- [[universal-design-for-learning]]
-- [[inclusive-learning]]
-- [[professional-training]]
-- [[learning-design]]
-- [[equity-in-ai-education]]
-- [[edtech-platform]]
-
-## Connected Articles
-
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
 
 ## Citation
 Stark, B., & Rostan, J. (2026). [*LUDIA: A Design and Evidence Statement*](https://doi.org/10.35542/osf.io/3nmgp_v1). EdArXiv preprint.

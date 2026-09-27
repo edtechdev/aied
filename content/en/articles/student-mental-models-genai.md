@@ -67,27 +67,6 @@ The authors connect this pattern to the knowledge-structure literature, noting t
 - Concept maps were self-generated with no constraints so as not to bias student thinking, and were scored holistically by two researchers on comprehensiveness, organization, and correctness using a 1–3 rubric mapped to a 9-point scale — an elicited, rubric-judged artifact rather than a direct measure of reasoning.
 - The study cannot connect mental models to behavior: whether students with more integrated mental models make more reflective, responsible use choices is left open, and the small resulting clusters (the transitional category in particular) limit inference from category size.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[human-ai-collaboration]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[trust]]
-- [[agency]]
-- [[academic-integrity]]
-## Connected Articles
-
-- [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
-- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
-
 ## Citation
 
 Ganguly, A., Garika, S. S., & Johri, A. (2026). [*Uncovering Students' Mental Models of Generative Artificial Intelligence*](https://arxiv.org/abs/2607.11692). arXiv preprint.

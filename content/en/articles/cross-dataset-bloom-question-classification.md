@@ -43,25 +43,6 @@ The motivation is practical: Bloom's taxonomy supports the systematic design, an
 - The cross-dataset comparison tested only a subset of ML and DL models and a limited set of LLMs; the authors call for more models, particularly open-source alternatives, to assess robustness and cost-effectiveness.
 - Five datasets are the entire evidence base, and transfer depends on direction: one dataset pair lost only 0.04 weighted F1 against an average cross-dataset decrease of 0.28.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[benchmark]]
-- [[educational-nlp]]
-- [[formative-assessment]]
-- [[llm]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI
-- [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations
-
 ## Citation
 
 Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, Gábor Kismihók (2026). [Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs](https://arxiv.org/abs/2606.13684). AIED 2026.

@@ -38,26 +38,6 @@ page_kind: [framework, evaluation]
 - The program was a month-long condensation of a semester-long course, and the analysis used three of the four reflection time points (two students omitted Reflection 3), with free time and pre-program arrival in Japan likely shaping what students wrote.
 - Model agreement was weakest at the first time point: 20% of Llama3's sentiment labels for Reflection 1 were not identified by the human coder, compared with 8% for Reflection 3 and 7% for Reflection 4.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[educational-nlp]]
-- [[research-methods-aied]]
-## Connected Articles
-
-- [[llm-student-misconception-identification]] — What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
-
 ## Citation
 
 Xiomara Gonzalez, Gabriella Coloyan Fleming, Andrew Katz, Maya Denton, Jessica Deters (2026). [LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments](https://arxiv.org/abs/2605.27403). arXiv preprint.

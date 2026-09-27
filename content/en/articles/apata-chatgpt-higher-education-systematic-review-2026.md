@@ -61,20 +61,6 @@ Asked how ChatGPT might reshape conventional teaching, faculty and students desc
 - Descriptive statistics and thematic content analysis identify trends but cannot establish the magnitude, direction, or statistical significance of relationships.
 - The review used no guiding theoretical framework such as the Technology Acceptance Model or TPACK, and examined only ChatGPT, excluding Gemini, Claude, Copilot, and Perplexity.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[educational-policy-ai]]
-## Connected Articles
-
-- [[ai-adaptation-gap-higher-education-2026]] — uses a similar stakeholder-perception lens to compare student, faculty, and administrative readiness for AI integration.
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — surveys the benefits and concerns higher education stakeholders attach to generative AI, the same tension this review synthesizes.
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — reports faculty and student ethical perspectives corresponding to this review's privacy, bias, and integrity themes.
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — another higher education systematic review, useful as a scope and method comparison for this synthesis.
-
 ## Citation
 
 Apata, Olukayode Emmanuel; Kwok, Oi-Man; Ajose, Segun Timothy. (2026). *[The Impact of ChatGPT on Higher Education: A Systematic Review of Global Opportunities, Perceptions, and Challenges](https://doi.org/10.1002/jcal.70309)*. Journal of Computer Assisted Learning, 42, e70309. https://doi.org/10.1002/jcal.70309

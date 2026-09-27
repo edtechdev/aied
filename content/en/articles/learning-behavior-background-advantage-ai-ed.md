@@ -37,24 +37,6 @@ Links [[generative-ai]] use to learning-gains, [[personalized-learning]], and [[
 - Attrition and filtering were substantial: logs for 346 participants entered the pipeline, 28 were excluded (13 disengaged Python participants, 4 in game theory, plus 11 Python participants flagged for syntax-based cheating), leaving a final analysis dataset of 318.
 - The behavioral analysis is observational: random assignment identifies the group-level effect of GPT access, but the learning-behavior pathways reflect interactions with unmeasured learner characteristics, so they are associations rather than identified causal mechanisms.
 
-
-## Connected Concepts
-
-- [[generative-ai]]
-- [[personalized-learning]]
-- [[student-experience]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-- [[digital-divide]]
-- [[learning-gains]]
-- [[self-regulated-learning]]
-- [[student-engagement]]
-- [[help-seeking]]
-## Connected Articles
-
-- [[ai-assisted-learning-modes-eeg]]
-- [[generative-ai-education-productivity-gaps]]
-- [[idan-anand-genai-productivity-divide-2026]]
 ## Citation
 
 Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, Fangzhao Wu (2026). [Learning behavior accounts for background-related advantage in AI-assisted education](https://arxiv.org/abs/2607.10101). arXiv preprint.

@@ -7,7 +7,6 @@ foundations: [ai-literacy]
 technology: [llm]
 methods: [mixed-methods-research]
 ethics: [equity-in-ai-education]
-connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [system development]
 discipline: [language learning]
 audience: [learners]
@@ -37,20 +36,6 @@ By grounding analysis in real user discourse rather than controlled experiments,
 - The human audit of 100 claims found 39 fully verifiable, 55 partially verifiable and 6 not verifiable, with follow-up rows far weaker than main responses (56 of 89 only partially verifiable, mostly because rows exported the full retrieved chunk instead of a short exact evidence phrase).
 - Both knowledge-graph construction and every generated response used gpt-4o-mini, and the authors note that LLM-based triple extraction and retrieval may introduce noise, so the graph should be treated as an interpretive aid rather than a complete representation of learner experience.
 
-## Connected Concepts
-
-- [[special-education]]
-- [[ai-literacy]]
-- [[inclusive-learning]]
-- [[equity-in-ai-education]]
-- [[student-experience]]
-- [[language-learning]]
-- [[k-12]]
-- [[higher-ed]]
-- [[neurodiversity]]
-## Connected Articles
-
-- [[nie-personavlm-long-term-personalization-2026]]
 ## Citation
 
 Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026). [DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums](https://arxiv.org/abs/2606.27619). Artificial Intelligence (cs.AI).

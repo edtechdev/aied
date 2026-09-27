@@ -45,21 +45,5 @@ The paper connects the [[cognitive-diagnosis]] [[research-methods-aied|research]
 - Evaluation is limited to three structured educational benchmarks (ASSIST09's top four concepts, GSM8K's five extracted concepts, and UCI's 649 students), and the authors state that extending the framework to open-ended assessment tasks may require adapted prompt engineering.
 - The benchmark knowledge states are heuristically derived rather than expert-annotated — proportions of correct answers per Q-matrix concept for ASSIST09, keyword-extracted success rates for GSM8K with GPT-4o-mini generating the concept tags, and normalized attribute groupings for UCI.
 
-## Connected Concepts
-- [[cognitive-diagnosis]]
-- [[privacy]]
-- [[trust-calibration]]
-- [[llm]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[learning-analytics]]
-
-## Connected Articles
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian Cognitive Diagnosis for Personalized Learning Paths
-- [[llm-cognitive-diagnosis-handwritten-math]] — LLM Cognitive Diagnosis of Handwritten Math
-- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness of LLMs in Education
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
-- [[zhang-ml-student-progress-programming-2026]] — Machine-Learning Student Progress in Programming
-
 ## Citation
 Boyapati, Y. M., Yu, C., Jiang, T., & Zhan, J. (2026). [*Privacy-Preserving Heterogeneous Multi-LLM Federated Inference for Cognitive Diagnosis*](https://arxiv.org/abs/2609.02947). arXiv:2609.02947.

@@ -43,23 +43,6 @@ page_kind: [evaluation]
 - Findings are specific to one general-chemistry final at one institution, administered and graded in German, using GPT-o4-mini with a single prompt and rubric presentation (296 of 459 students consented); the authors note performance drops for less well-represented languages and that results are a snapshot tied to a model version.
 - No student perception data were collected. Trust, fairness, and willingness to accept outcomes are inferred from related literature rather than surveyed, and consenting students may differ systematically from those who declined.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[chemistry-education]]
-- [[llm]]
-- [[multimodal]]
-- [[summative-assessment]]
-- [[human-in-the-loop-ai]]
-- [[item-response-theory]]
-- [[educational-measurement]]
-- [[science-education]]
-
-## Connected Articles
-
-- [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity in assessment
-- [[care-full-feedback-genai]] — Feedback and assessment with generative AI
-
 ## Citation
 
 Cvengros, J., & Kortemeyer, G. (2026). [Assisting the grading of a handwritten general chemistry exam with artificial intelligence](https://doi.org/10.1007/s44163-026-01606-4). *Discover Artificial Intelligence*, 6, 931.

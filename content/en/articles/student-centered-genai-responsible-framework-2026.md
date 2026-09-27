@@ -51,24 +51,5 @@ Compared with policy guidance, institutional frameworks, assessment scales, and 
 - The survey evidence underpinning the problem statement is drawn largely from the United Kingdom and the United States, and the interview evidence from a single Australian institution (19 students and 12 teachers in Corbin et al., 2025), so applicability in other systems is untested.
 - The framework assumes conditions that will not always hold — lawful access to at least one generative AI tool, an instructor who can be asked under Guideline 7, and assessment that still involves work produced outside supervised conditions — and it has little to add where AI use is wholly prohibited and invigilated or wholly required; it also leaves institutional procurement, tool selection, and the environmental and labor questions of AI supply chains unaddressed, and its ten guidelines may exceed what students hold in mind under time pressure.
 
-## Connected Concepts
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ethics]]
-- [[agency]]
-- [[governance]]
-- [[trust-calibration]]
-
-## Connected Articles
-- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — "Should I Tell My Teacher?" Student AI Disclosure Practices
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose Before Policy
-- [[learn-framework-responsible-genai-pbl-2026]] — The LEARN Framework for Responsible Use of Generative AI
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond Detection: How Students Use—and Hide—AI
-
 ## Citation
 Alsammani, A. (2026). [*A Student-Centered Framework for Responsible Use of Generative AI in Higher Education*](https://osf.io/preprints/edarxiv/vsjhe_v2/). EdArXiv preprint.

@@ -44,24 +44,6 @@ institutions: [governance, regulation]
 - Its evidence is documentary (e.g., Crawford, 2021, on labor and data extraction) and includes fast-moving examples such as DeepSeek's January 2025 release, so claims about market disruption date quickly.
 - As a normative argument for embedding critical AI literacy, it evaluates no intervention, no curriculum, and no learners; its recommendations remain untested.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[digital-divide]]
-- [[ai-misuse-learning-harm]]
-- [[governance]]
-- [[educational-development]]
-- [[regulation]]
-- [[misconceptions]]
-
-## Connected Articles
-
-- [[hingle-collaborative-ai-literacy-2025]] — Systematic Review of Collaborative Learning Activities for Promoting AI Literacy
-
 ## Citation
 
 Rudolph, J., Ismail, F., Tan, S., & Seah, P. (2025). [*Don't believe the hype. AI myths and the need for a critical approach in higher education*](https://doi.org/10.37074/jalt.2025.8.1.1). *Journal of Applied Learning & Teaching*, 8(1).

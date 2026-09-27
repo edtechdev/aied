@@ -41,23 +41,6 @@ methods: [meta-analysis-systematic-review]
 - No formal quality appraisal of included studies was performed, as systematic mapping reviews do not require one; the authors recommend a full appraisal in any future systematic review.
 - The mapped evidence is mostly short-term — only about one-third of studies extended beyond two months — and 71% quantitative (N = 60), so long-term effects and the qualitative experience of learners are thinly evidenced.
 
-## Connected Concepts
-
-- [[self-regulated-learning]] — the core construct under study
-- [[ai-education]] — the umbrella field
-- [[higher-ed]] — the dominant research context
-- [[adaptive-learning]] — a primary AI implementation form
-- [[intelligent-tutoring]] — AI as tutoring to support SRL
-- [[metacognition]] — the SRL aspect most studied
-- [[motivation]] — the underexplored SRL aspect
-- [[feedback]] — AI-delivered feedback supporting SRL
-- [[student-modeling]] — prediction and profiling of learners
-- [[assessment]] — AI-based assessment and evaluation
-
-## Connected Articles
-
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Adaptive learning technology, differentiated feedback, and SRL phases
-
 ## Citation
 
 Banihashem, S. K., Bond, M., Bergdahl, N., Khosravi, H., & Noroozi, O. (2025). [*A systematic mapping review at the intersection of artificial intelligence and self-regulated learning*](https://doi.org/10.1186/s41239-025-00548-8). *International Journal of Educational Technology in Higher Education*, 22, 50.

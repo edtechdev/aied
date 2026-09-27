@@ -60,34 +60,5 @@ The paper positions its lever against two neighbors: [[recommender-systems-and-l
 - Reviewers were instructors, TAs, and doctoral researchers rather than practitioners in the target roles, recruited unpaid through the university's MOOC service; no institutional review was sought.
 - Energy is thinly covered (n = 7; G = 3.43) against healthcare n = 32 and finance n = 22, and the industry increment on B1 is unresolved under clustering (0.25, p = 0.11).
 
-## Connected Concepts
-- [[video-education]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[llm]]
-- [[professional-training]]
-- [[rag]]
-- [[speech-and-voice-technologies]]
-- [[human-in-the-loop-ai]]
-- [[learning-design]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[lifelong-learning]]
-- [[online-teaching-and-learning]]
-- [[usability-research]]
-- [[human-ai-collaboration]]
-
-## Connected Articles
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora
-- [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation
-- [[personalized-ai-generated-videos-preference-2026]] — Students Prefer Personalized, AI-Generated Educational Videos over Non-Personalized, Human-Recorded Videos
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Designing Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[ai-generated-instructional-videos-computing-ed]] — Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education
-- [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
-- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential
-- [[crewscaler-ai-upskilling-framework]] — AI-accelerated End-to-End Framework for Rapid Professional Upskilling
-- [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
-
 ## Citation
 Puech, R., Agarwal, D. K., Santamaría Escobar, A., & Bertsimas, D. (2026). [Bespoke: Generating MOOC-Quality Industry-Personalized Lecture Videos at Scale](https://arxiv.org/abs/2609.26540). arXiv:2609.26540.

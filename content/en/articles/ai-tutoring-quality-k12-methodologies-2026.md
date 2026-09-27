@@ -70,29 +70,6 @@ The authors draw several practitioner lessons. Offline evals are best reserved a
 - The reported gains are confounded by user mix: primary metrics rose during US Thanksgiving and Christmas because holiday users are voluntary and more motivated, while in-school use is teacher-obligated.
 - Three reported metrics depend on LLM judges — cognitive engagement at F1 0.83, math error at F1 0.61, and giving away the final answer at F1 0.77 — and the authors note that students' counter-strategies erode gains after a change ships.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[llm]]
-- [[personalized-learning]]
-- [[research-methods-aied]]
-- [[student-engagement]]
-- [[edtech-platform]]
-- [[student-experience]]
-- [[prompt-engineering]]
-
-## Connected Articles
-
-- [[oatutor-open-source-adaptive-tutor-2023]]
-- [[genai-tutor-engagement-patterns]]
-- [[measuring-llm-tutors-teach-vs-solve]]
-- [[correct-answer-trap-ai-tutor]]
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]]
-- [[access-not-enough-ai-tutoring-2026]]
-- [[tutoring-effectiveness-index]]
-- [[deeptutor]]
-
 ## Citation
 
 Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R. J., DiGiano, C., Weatherholtz, K., & Zaluski, M. (2026). [*Methodologies for improving the quality of AI tutoring in K-12 education*](https://arxiv.org/abs/2608.11259). In Artificial Intelligence in Education (AIED 2026), LNCS vol. 16582. Springer.

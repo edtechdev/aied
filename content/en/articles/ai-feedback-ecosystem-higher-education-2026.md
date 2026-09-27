@@ -51,29 +51,6 @@ The automated feedback literature proposes a [[human-in-the-loop-ai|human-in-the
 - Participants self-selected through interest in AI and feedback, so students and educators who avoid AI may hold different views.
 - The authors state explicitly that the ecosystem conceptualization did not emerge inductively from the data and is not wholly original, even though the analysis itself was inductively derived.
 
-## Connected Concepts
-
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[human-ai-collaboration]]
-- [[human-in-the-loop-ai]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[llm]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[care-full-feedback-genai]] — feedback encounters as matters of care when generative AI mediates them
-- [[teachingcoach-chatbot-instructor-guidance]] — a chatbot built to give instructors feedback on their own teaching
-- [[access-not-enough-ai-tutoring-2026]] — human support as the condition for engagement with AI tutoring
-- [[feedback-futures-genai]] — what human and GenAI feedback capacities can and cannot reach
-- [[genai-teacher-feedback-comparison]] — student perceptions of usefulness and trust in AI versus teacher feedback
-
 ## Citation
 
 Bearman, M., Corbin, T., Walton, J., Tai, J., Nieminen, J. H., Dawson, P., Crawford, N., & Boud, D. (2026). [How artificial intelligence transforms the feedback ecosystem in higher education](https://doi.org/10.1080/02602938.2026.2730625). *Assessment & Evaluation in Higher Education*. Advance online publication.

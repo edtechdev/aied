@@ -5,7 +5,6 @@ updated: "2026-09-19T07:42:07-04:00"
 type: article
 technology: [adaptive-learning, personalized-learning, rag, learning-analytics]
 assessment: [formative-assessment, learning-gains]
-connected_faqs: [study-with-ai]
 level: [higher ed]
 sources: ['raw/papers/2606.22328.md']
 confidence: medium
@@ -57,18 +56,6 @@ The gap the study targets is durability. Learning science has long separated sho
 - Retention was assessed with one 14-item multiple-choice test at a seven-week horizon, so the design cannot speak to durability beyond that window.
 - Observed practice effort is a rubric-scored behavioral indicator derived from submitted conversation logs, not a measure of internal motivational state, and Levene's test was violated for this outcome, F(2, 86) = 3.58, p = .032, so the authors interpret effort inferences with caution and flag process data (timing, revision behavior) or self-report as future work.
 - The ordered ranking rests partly on comparisons with the weakest arm: adaptive and fixed retrieval were statistically indistinguishable from each other on posttest (G1 vs G2, p = .830) and fixed retrieval did not separate from learner-directed study at the adjusted threshold (d = 0.57, p = .071).
-
-## Connected Concepts
-
-- [[rct]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[transfer-of-learning]]
-- [[learning-gains]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[self-regulated-learning]]
-## Connected Articles
 
 ## Citation
 

@@ -37,24 +37,6 @@ methods: [meta-analysis-systematic-review]
 - Egger's regression test approached significance (t = 1.871, p = 0.066) with a right-skewed funnel plot, which the authors read as possible mild publication bias, though 8 of the 29 points fell outside the plot's slope lines.
 - Educational level and instructional method were not statistically significant moderators at the between-group level (p = 0.067 and p = 0.232), so the K-12-versus-higher-education and pedagogy contrasts rest on subgroup patterns rather than validated differences.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[critical-thinking]]
-- [[meta-analysis-systematic-review]]
-- [[self-regulated-learning]]
-- [[inquiry-based-learning]]
-- [[ai-education]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: cognitive scaffolding vs offloading
-- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education systematic review
-
 ## Citation
 
 Zhao, Y., Yue, Y., Sun, Z., Jiang, Q., & Li, G. (2025). [*Does generative artificial intelligence improve students' higher-order thinking? A meta-analysis based on 29 experiments and quasi-experiments*](https://doi.org/10.3390/jintelligence13120160). *Journal of Intelligence*, 13, 160.

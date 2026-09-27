@@ -67,33 +67,6 @@ Two validity exercises support that reading. Construct validity rests on correla
 - **Construct coverage.** Construct validity is limited to GenAI trust and acceptance, leaving the nomological network thin relative to the construct's breadth, and the authors propose adding frequency of use, information-verification and privacy-protection behaviors.
 - **Response format.** The GAILS measures perceived competence — what people believe they can do — and provides no behavioral or objective criterion against which those perceptions were checked, so over- or under-estimation stays invisible and every validity coefficient is a correlation with another self-report; the fit evidence is also mixed, with RMSEA above the stated acceptable cutoff. As with all [[self-report-measures]], high reliability and clean factor structure establish internal coherence, not accuracy, and the manuscript's participant narrative and demographic table disagree slightly on the student count (130 versus 131) and on whether workforce means employed plus freelancers.
 
-## Connected Concepts
-
-- [[ai-literacy]] — the parent construct the GAILS extends with interactional, generative competencies
-- [[generative-ai]] — the tool family the scale is built to measure competence with
-- [[educational-measurement]] — the EFA, CFA, reliability and invariance framework the validation uses
-- [[assessment-validity]] — convergent, discriminant and cross-group validity as the paper's evidence standard
-- [[self-report-measures]] — the response format and the central limitation on what the scores mean
-- [[trust]] — the moderate construct-validity correlate (r = 0.473 with the total score)
-- [[technology-acceptance-model]] — the adoption framework motivating the GenAI acceptance correlate
-- [[prompt-engineering]] — the interactional competence at the core of Adaptive Operational Skills
-- [[ethics]] — the responsible-use domain the Responsible GenAI Literacy factor operationalizes
-- [[privacy]] — one of the legal and data-protection concerns carried in the responsible item set
-- [[critical-thinking]] — evaluation and autonomous use treated as a higher-order GenAI competence
-- [[adult-learning]] — the workforce and adult sample the instrument was validated to serve
-
-## Connected Articles
-
-- [[competent-generative-ai-use-measures-review-2026]] — review and exploratory meta-analysis of measures for competent generative-AI use
-- [[genai-assessment-literacy-scale-2026]] — a neighbouring GenAI literacy scale developed for higher education students
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — mapping how AI literacy is conceptualized and measured across instruments
-- [[ai-literacy-assessment-misalignment]] — self-reported versus performance evidence for AI literacy
-- [[questionnaire-teachers-genai-uses-validation-2026]] — another GenAI-use instrument taken through design and validation
-- [[air-scale-motivations-ai-reading-2026]] — development and validation of a measure of motivations for AI use
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — scale development linking AI literacy, ethics and project-based learning
-- [[xiong-ai-educational-measurement-review-2026]] — a decade of AI's impact on educational measurement, reviewed
-- [[llm-psychometric-calibration-cdp]] — psychometric calibration with LLM-simulated examinees
-
 ## Citation
 
 Zhang, Y., Qi, J., He, X., Feng, Z., & Ji, F. (2026). [*The Generative Artificial Intelligence Literacy Scale (GAILS): Development, Validation, and Measurement Invariance Across Sex and Occupational Status Groups*](https://osf.io/preprints/psyarxiv/bg6pq_v2) (preprint). Department of Applied Psychology and Human Development, University of Toronto.

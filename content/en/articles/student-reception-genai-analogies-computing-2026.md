@@ -61,34 +61,5 @@ The authors recommend three [[learning-design|design]] moves and one [[teacher-r
 - Presentation order was counterbalanced within each concept, but the concept order (linked lists before recursion) was fixed for every participant.
 - The reflexive thematic analysis reports no intercoder reliability or consensus codebook, and participants' interests leaned toward gaming, sports and popular media, the very reference space one participant found alienating.
 
-## Connected Concepts
-- [[cs-education]]
-- [[generative-ai]]
-- [[critical-thinking]]
-- [[personalized-learning]]
-- [[student-ai-interaction]]
-- [[misconceptions]]
-- [[trust-calibration]]
-- [[prior-knowledge]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[qualitative-research]]
-- [[constructivist]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-- [[thermomix-genai-education-analogy-2026]] — With a Thermomix You Lose the Ability to Cook: A Kitchen Machine Analogy for Applications of Generative AI in Education
-- [[llm-diverse-explanations-programming]] — Exploring the Value of Diverse LLM Explanations in Introductory Programming
-- [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
-- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
-- [[student-mental-models-genai]] — Uncovering Students' Mental Models of Generative Artificial Intelligence
-- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education
-- [[students-llm-usage-critical-thinking]] — Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
-- [[cross-cultural-student-perceptions-genai-computing]] — Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics
-- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in generative AI-integrated learning
-
 ## Citation
 Bernstein, S., & Sibia, N. (2026). [Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education](https://arxiv.org/abs/2609.06095). Koli Calling 2026 (26th International Conference on Computing Education Research). arXiv:2609.06095.

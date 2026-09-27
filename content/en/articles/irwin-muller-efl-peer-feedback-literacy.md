@@ -41,30 +41,6 @@ level: [higher ed]
 - It assumes adequate digital infrastructure — the proposed offline fallback is a design gesture, not an evaluated component.
 - The authors acknowledge that LLM output is unreliable (hallucination risk) and that students may over-rely on GenAI, or the workflow may crowd out the human dialogue about feedback that peer review is meant to produce.
 
-## Connected Concepts
-
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[peer-assessment]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[writing-education]]
-- [[language-learning]]
-- [[ai-literacy]]
-- [[feedback-literacy]]
-- [[english-education]]
-
-## Connected Articles
-
-- [[becerra-aicofe-feedback-2026]] — AI-supported peer feedback systems
-- [[care-full-feedback-genai]] — Care-full feedback in the era of generative AI
-- [[feedback-futures-genai]] — Feedback futures and generative AI
-- [[chatgpt-feedback-engagement-genai]] — ChatGPT feedback and engagement with generative AI
-- [[learner-centered-feedback-ai]] — Learner-centered feedback with AI
-- [[ai-internal-feedback-evaluative-judgments]] — AI-internal feedback and evaluative judgments
-- [[cyberscholar-genai-writing-feedback]] — CyberScholar generative AI writing feedback
-- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
-
 ## Citation
 
 Irwin, B., & Muller, T. (2026). [*Positioning generative AI in EFL peer feedback: Training feedback literacy and enabling uptake in speaking classes*](https://doi.org/10.3390/educsci16040544). *Education Sciences*, 16, 544. https://doi.org/10.3390/educsci16040544

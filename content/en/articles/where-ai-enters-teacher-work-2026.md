@@ -49,25 +49,5 @@ The largest allocation effect, OR = 1.442 for special-education support and adap
 - Country-level and system-level moderation is summarized rather than interpreted case by case, so pooled slopes may not describe any single education system.
 - Task demand is measured at the domain level, so a teacher's single rating stands in for a whole category of work such as all assessment and marking.
 
-## Connected Concepts
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[educational-policy-ai]]
-- [[generative-ai]]
-- [[automated-assessment]]
-- [[special-education]]
-- [[career-development-and-readiness]]
-- [[professional-training]]
-- [[k-12]]
-
-## Connected Articles
-- [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
-- [[school-leaders-ai-readiness-professional-development-2026]] — School leaders' AI readiness and professional development
-- [[tan-aigem-ai-educational-management-2026]] — AI in educational management
-- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment?
-- [[talebzadeh-ai-green-education-2026]] — The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow
-- [[crompton-faculty-technology-integration-standards-2026]] — Faculty technology integration standards
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making machine learning findings accessible to teachers
-
 ## Citation
 Holster, J. (2026). [Where Artificial Intelligence Enters Teacher Work](https://doi.org/10.35542/osf.io/a39rp_v1). *EdArXiv*.

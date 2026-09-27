@@ -40,26 +40,6 @@ methods: [meta-analysis-systematic-review]
 - Reporting clusters in three of the five inquiry phases, so the framework's guidance for the orientation and conclusion phases is extrapolation from little direct evidence.
 - The review is a secondary synthesis of heterogeneous designs and does not model effect sizes, so its advantages and challenges are descriptive patterns rather than measured magnitudes.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[inquiry-based-learning]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[teacher-role]]
-- [[hallucination-risk]]
-- [[academic-integrity]]
-
-## Connected Articles
-
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents
-- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education systematic review
-- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI across learners, contexts, cultures
-
 ## Citation
 
 Jiang, H., Li, Y., Chugh, R., Xin, Y., & Cheng, H. (2026). [*The AI-powered co-inquirer: a systematic review of ChatGPT for inquiry-based learning in STEAM education*](https://doi.org/10.1186/s40594-026-00628-9). *International Journal of STEM Education*, 13, 42.

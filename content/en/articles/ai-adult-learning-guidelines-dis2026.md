@@ -84,30 +84,6 @@ The guidelines span four categories:
 - The heuristic evaluation tested systems against the guidelines rather than measuring learning; no guideline is validated against learner performance data, and the guideline exploration tool is presented as a demonstration of utility.
 - Guideline-level analysis counts statements rather than effects: grounding in learning science (G3) was raised entirely by research teams, and instructors and learners never explicitly discussed the value of theoretical or empirical evidence, so the set mixes concerns no learner voiced with those they prioritized most.
 
-## Connected Concepts
-
-- [[adult-learning]]
-- [[ai-education]]
-- [[adaptive-learning]]
-- [[educational-development]]
-- [[higher-ed]]
-- [[lifelong-learning]]
-- [[personalized-learning]]
-- [[professional-training]]
-- [[rag]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[motivation]]
-## Connected Articles
-
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
-
 ## Citation
-
-
 
 Reddig, J., Smith, G. R., Jr., Ahmadzadeh Siyahrood, S., Morris, W. G., Bae, Y., Crutcher, K., et al. (2026). [*Guidelines for Designing AI Technologies to Support Adult Learning*](https://doi.org/10.1145/3800645.3813102).

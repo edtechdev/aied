@@ -54,26 +54,6 @@ This study contributes process-level empirical evidence to the knowledge base's 
 - The collaborator role appeared in only 7.5% of logs (9 of 120), leaving the strongest metacognitive pattern thinly evidenced.
 - Recruitment required frequent GenAI users who had retained retrievable logs, selecting for experienced users.
 
-## Connected Concepts
-
-- [[motivation]]
-- [[metacognition]]
-- [[student-ai-interaction]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[ai-misuse-learning-harm]]
-- [[critical-thinking]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[shaw-nave-cognitive-surrender-2026]]
-- [[agency-gap-ai-writing]]
-- [[metacognitively-discordant-completion-genai-2026]]
-- [[genai-performance-vs-learning]]
-- [[metacognitive-training-optimal-cognitive-offloading-2026]]
-
 ## Citation
 
 Cui, Y., Yan, W., Chiu, T. K. F., & Nakajima, T. (2026). [*How motivation and roles influence metacognitive engagement in student-GenAI interaction*](https://doi.org/10.1186/s41239-026-00610-z). *International Journal of Educational Technology in Higher Education*.

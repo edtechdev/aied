@@ -42,25 +42,6 @@ The authors construct a knowledge graph whose entities are teaching resources, l
 - **Model-learned vs. empirically fixed weights.** IPI aggregation weights and fusion parameters are tuned on a validation split and held fixed; no sensitivity analysis is reported for them.
 - **No online/cold-start deployment test.** Robustness is tested by removing modalities, not by evaluating truly cold-start users or live personalization.
 
-## Connected Concepts
-
-- [[knowledge-graph]]
-- [[multimodal]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[curriculum-design]]
-- [[intelligent-tutoring]]
-- [[recommender-systems-and-learning-paths]]
-## Connected Articles
-
-- [[fair-explainable-edu-recommendations]] — A related CAEAI hybrid (Graph-GRU) recommender for course materials, sharing the CF-plus-structured-semantics design
-- [[multimodal-knowledge-graph-educational-reasoning]] — Knowledge graphs extended across content modalities
-- [[xai-teachers-trust-edtech-recommendations-2026]] — How teachers trust and accept AI [[edtech-platform|EdTech]] recommendation tools
-- [[ai-decision-support-online-learning-assessment-2026]] — AI decision support in online-learning resource navigation
-- [[pattern-kc-programming-recommendation]] — Knowledge-component-based recommendation in programming education
-
 ## Citation
 
 Liu, B., Sun, X., & Song, J. (2026). [A Hybrid Collaborative Filtering and Knowledge Graph-Based Cross-Domain Recommendation Method for Multimodal Teaching Resources](https://doi.org/10.1016/j.caeai.2026.100678). *Computers and Education: Artificial Intelligence*.

@@ -39,18 +39,5 @@ page_kind: [evaluation]
 - Two moderator instruments rested on self-report with modest reliability: the MARSI-R problem-solving subscale had α = .406 and the PPEQ structure-of-knowledge-coherence subscale α = .591, and the author states that findings on them are interpreted with considerable caution.
 - The author cautions against generalizing beyond Anatolian High Schools in this urban context — vocational, Imam-Hatip, private, and rural schools were not studied — and consent-based recruitment may have introduced self-selection.
 
-## Connected Concepts
-- [[refutation-text]]
-- [[misconceptions]]
-- [[stem-education]]
-- [[physics-education]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-
-## Connected Articles
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — Personalized AI dialogue vs. textbook refutation for belief correction
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — LLM-generated misconceptions for collaborative learning
-
 ## Citation
 Akdoğan, S. (2025). [*Comparing the effectiveness of expert-written text, AI-generated text, and interactive AI dialogues on students' conceptual understanding of heat and temperature*](https://open.metu.edu.tr/handle/11511/115200) (Doctoral dissertation, Middle East Technical University).

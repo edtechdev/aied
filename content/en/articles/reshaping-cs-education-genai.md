@@ -53,27 +53,6 @@ Assessment reform is where the report is most concrete — and most aware of its
 - Participants were self-selected and likely already engaged with AI in education, introducing selection bias, and the student workshop drew roughly half its cohort from Singapore-based institutions, limiting geographic generalizability.
 - Industry perspective comes through individual practitioners rather than employer surveys, so claims about workforce demand rest on secondary sources assembled by the authors.
 
-## Connected Concepts
-
-- [[cs-education]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[llm]]
-- [[curriculum-design]]
-- [[critical-thinking]]
-- [[computational-thinking]]
-- [[higher-ed]]
-## Connected Articles
-
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
-- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
-- [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
-- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
-- [[genai-meta-analysis-programming-learning]]
-- [[chatgpt-programming-education-text-mining]]
-
 ## Citation
 
 Lee, Y.-C., Boonprakong, N., Tan, Y., Soh, H., et al. (2026). [*Reshaping Undergraduate Computer Science Education in the Generative AI Era*](https://arxiv.org/abs/2606.07545).

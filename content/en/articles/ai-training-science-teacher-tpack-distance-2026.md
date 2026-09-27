@@ -55,35 +55,6 @@ The study is framed by SDG 4, on inclusive and equitable quality education and [
 - TPACK was self-reported with no observation of practice, indexing perceived readiness rather than AI integration, and the two-item PK subscale may not capture its breadth.
 - Training cells were badly unbalanced (76.4% of campus-based and 88.7% of distance participants reported no AI training), making the regression coefficients exploratory; the cross-sectional design permits no causal claim.
 
-## Connected Concepts
-
-- [[tpack]] — the Technological Pedagogical Content Knowledge framework that operationalizes the study's outcome construct
-- [[teacher-education]] — the preservice preparation context whose two delivery modes are compared
-- [[science-education]] — the disciplinary setting for AI integration, Grades 10–12 school science
-- [[online-teaching-and-learning]] — distance education as a delivery mode with distinct interaction and infrastructure conditions
-- [[teacher-ai-competency]] — the AI-specific professional knowledge indexed by self-reported TPACK
-- [[self-efficacy]] — perceived readiness and confidence as the proximal predictor of technology adoption
-- [[pedagogy]] — the weakest self-reported domain and the authors' proposed anchor for AI training
-- [[digital-divide]] — uneven device, connectivity and infrastructure access shaping distance provision
-- [[global-south]] — the equity and infrastructure framing of teacher preparation beyond the Global North
-- [[equity-in-ai-education]] — the risk that AI initiatives reproduce rather than narrow disparities
-- [[ai-literacy]] — the training content whose level and depth the study tests against readiness
-- [[assessment]] — a domain in which AI-supported science teaching is measured by the instrument's items
-- [[curriculum-design]] — where context-responsive training programs must be specified
-- [[educational-policy-ai]] — the SDG-aligned policy frame for AI in teacher education
-
-## Connected Articles
-
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Conceptualizing pre-service teachers' readiness for AI integration into teaching practices: An intelligent-TPACK approach
-- [[ai-tpack-mathematics-teacher-education-2026]] — Assessing AI-TPACK readiness in mathematics teacher education: The role of self-efficacy and teaching beliefs
-- [[ai-tpack-preservice-math-teachers]] — AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers
-- [[pre-service-science-teachers-ai-perceptions-2026]] — Perceptions and acceptance of artificial intelligence in science education programs: Voices of pre-service science teachers
-- [[designing-ai-professional-development-itpack-2026]] — Designing effective AI professional development: A framework grounded in intelligent-TPACK
-- [[ai-distance-education-systematic-review-2026]] — Artificial Intelligence in Distance Education: A Systematic Review of Emerging Pedagogical, Cognitive and Institutional Dynamics
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — Harnessing artificial intelligence for preservice teachers' development: A scoping review of applications, benefits, and challenges
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Pedagogy First, Technology Second: Cross-Level Relationships Between Teacher Professional Knowledge and Student Learning
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Unpacking ethics-domain of intelligent-TPACK scale in relation to in-service teachers' trust and distrust
-
 ## Citation
 
 Mnguni, L., El Islami, R. A. Z., Nuangchalerm, P., Sethole, K., Sari, I. J., Camara, J. S., & Van Bien, N. (2026). [AI training and science student teachers’ TPACK in campus-based and distance education: a comparative study](https://doi.org/10.1016/j.caeo.2026.100410). *Computers and Education Open, 11*, 100410.

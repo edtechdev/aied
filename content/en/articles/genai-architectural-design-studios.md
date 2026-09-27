@@ -43,25 +43,6 @@ The research combined the development of a GenAI interface with its implementati
 - Creativity itself is inherently subjective and resists objective evaluation, which the authors name as a central limitation: what one observer judges creative another may find banal, and the coded design processes map reported steps rather than measured originality.
 - Several findings are flagged by the authors as needing further research, including the claim that relinquishing control to GenAI establishes a new focal point for exploring creativity.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[design-thinking]]
-- [[teacher-role]]
-- [[prompt-engineering]]
-- [[generative-ai]]
-- [[creativity]]
-- [[student-experience]]
-- [[arts-design-and-media-education]]
-## Connected Articles
-
-- [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
-- [[ai-team-teaching-talk-analytics]] — AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
-- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
-
 ## Citation
 
 Leman Figen Gül, Burak Delikanlı, Oğulcan Üneşi, Ertuğrul Ömer Gül (2026). [Development and applications of Generative AI in architectural design studios](https://arxiv.org/abs/2607.24752).

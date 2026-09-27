@@ -59,25 +59,6 @@ Validity — the degree to which grades represent what they are meant to — is 
 - The sample sits in one national context, the Greater Bay Area (six universities), and skews junior: 2 associate professors or professors and 25 of 33 with 0–5 years' experience.
 - No participating university had GenAI grading policies or a ban, so findings describe grading under substantial teacher autonomy rather than a defined policy regime.
 
-## Connected Concepts
-
-- [[assessment-validity]]
-- [[assessment]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[trust]]
-- [[qualitative-research]]
-
-## Connected Articles
-
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — university teachers' experiences and perceptions of GAI in teaching and learning (Farazouli et al. 2026)
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — AI humanizers and the performance of legitimacy in assessment (Roe et al. 2026)
-- [[walton-bearman-assessment-judgment-2025]] — judgment in students' work with GenAI on assessment tasks (Walton et al. 2025)
-- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-
 ## Citation
 
 Luo, J. (Jess), & Dawson, P. (2026). [Exploring value judgements in grading: will teachers mark down student work assisted by GenAI, and should they?](https://doi.org/10.1080/03075079.2025.2552825). *Studies in Higher Education, 51*(9), 1970–1984.

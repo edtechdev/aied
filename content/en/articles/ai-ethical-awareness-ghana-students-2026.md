@@ -46,18 +46,5 @@ Because profiles differ in shape, not just level, the authors argue a uniform cu
 - Gender was the only background variable collected — age, academic discipline, educational level, and AI literacy were not measured — so the study cannot identify which student characteristics predict profile membership.
 - The smallest profile contains only 23 students, and the authors themselves question its stability and suggest consolidating it with the moderate group.
 
-## Connected Concepts
-- [[ethics]]
-- [[global-south]]
-- [[equity-in-ai-education]]
-- [[ai-education]]
-- [[student-experience]]
-- [[agency]]
-
-## Connected Articles
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics: a cultural-historical and ecological framework
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Understanding ethical dimensions of AI in higher education
-- [[league-ethical-governance-student-data-2026]] — Ethical governance of student data in learning analytics
-
 ## Citation
 Acquah, B. Y. S., Salifu, I., Arthur, F., Inkoom, M., Suradji, S. D., Inkoom, C., Quayson, E., Quaye, S. A., Gyedu, F. O., & Nortey, S. A. (2026). [Artificial intelligence ethical awareness of university students in Ghana: A network and latent profile analyses](https://doi.org/10.1016/j.caeai.2026.100652). *Computers and Education: Artificial Intelligence*, 100652.

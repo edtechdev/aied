@@ -61,30 +61,6 @@ Three features distinguish it from generic [[higher-ed|higher education]] govern
 - Its policy canvass is a snapshot the authors themselves expect to date quickly, and the survey figures it relies on are limited by low response rates and [[self-report-measures|self-report]].
 - The model policies it holds up as exemplars are selected illustrations rather than a random sample, so the framework is best read as a governance instrument for institutions rather than as the sector’s measured state.
 
-## Connected Concepts
-
-- [[academic-integrity]] — the conduct framework the policies formalise
-- [[assessment-validity]] — whether assisted work still measures legal competence
-- [[authentic-assessment]] — redesigning tasks that AI cannot complete for the student
-- [[ai-use-disclosure]] — the disclosure and citation norms still without consensus
-- [[governance]] — faculty governance as the constraint on law school policy
-- [[educational-policy-ai]] — institutional AI policy compared across a sector
-- [[critical-thinking]] — original legal reasoning as the learning objective at risk
-- [[socratic-method]] — preparation-dependent dialogue under Socratic teaching
-- [[experiential-learning]] — clinics, writing courses and practice-based training
-- [[professional-training]] — the licensed professions family this discipline belongs to
-- [[career-development-and-readiness]] — practice readiness as the stated purpose of policy
-- [[hallucination-risk]] — fabricated citations and their consequences in practice
-- [[legal-education]] — the discipline page this article anchors
-- [[legal-issues-and-risks]] — the liability questions institutions face when governance is unclear
-
-## Connected Articles
-
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi study on generative AI policy and practice in higher education
-- [[institutional-governance-ai-universities]] — Whether institutional AI governance aligns or fragments across units
-- [[ai-uk-higher-education-policy-2026]] — UK higher education policy and institutional decision making on AI
-- [[ivory-psychology-assessment-integrity-2026]] — Assessment redesign and the pass boundary in a professional program
-
 ## Citation
 
 Gutowski, N. N., & Hurley, J. W. (2025). [*Forging ahead or proceeding with caution: Developing policy for generative artificial intelligence in legal education*](https://scholars.law.unlv.edu/facpub/1488/). *University of Louisville Law Review*, 63(3), 581.

@@ -38,25 +38,6 @@ This sequential mixed-methods study examined 382 secondary school teachers engag
 
 The study's context is secondary school teachers (largely in Chinese/Hong Kong and East Asian settings), bounding generalizability to other regions and K-12 contexts. The authors acknowledge that sustaining a need-supportive culture within PLCs after the structured program ends is challenging, that systemic constraints (rigid curricula, limited resources, top-down mandates) can undermine need-supportive PD, and that the strategies may overlook the mediating role of contextual factors like teacher prior AI experience or entrenched school culture. The AI literacy test was a specific objective measure developed for the AI4future project.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[professional-training]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[tpack]]
-## Connected Articles
-
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Development and Evaluation of AI Literacy Training for Teachers
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — Human-Centric AI Pedagogy (HCAP) Framework
-- [[ai-tpack-preservice-math-teachers]] — AI-TPACK and Pre-Service Math Teachers
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ AI Faculty Readiness
-
 ## Citation
 
 Chiu, T. K. F., Bali, S., Tondeur, J., Howard, S., & Chan, K. K. H. (2026). [*Teacher education for artificial intelligence literacy through a self-determination theory perspective*](https://doi.org/10.1080/02619768.2026.2621848). *European Journal of Teacher Education*.

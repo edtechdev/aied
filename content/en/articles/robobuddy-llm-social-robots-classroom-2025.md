@@ -38,20 +38,6 @@ This is a **design-based/co-design and deployment study**. The [[research-method
 
 The deployment was a single-week study with 27 students, limiting generalizability and insight into long-term effects. The interface and activity frameworks were co-designed with four teachers, so the design reflects their context. The study focused on integration policies and scenario-based efficacy, with [[learning-gains|learning outcomes]] not comprehensively measured.
 
-## Connected Concepts
-
-- [[educational-robotics]]
-- [[llm]]
-- [[teacher-role]]
-- [[k-12]]
-- [[student-engagement]]
-
-## Connected Articles
-
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM-Powered Narrative HRI With the iCub Humanoid
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Embodiment in Creative Writing
-- [[social-robot-study-companions]] — Social Robots as Study Companions
-
 ## Citation
 
 Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). [*RoboBuddy in the classroom: Exploring LLM-powered social robots for storytelling in learning and integration activities*](https://arxiv.org/abs/2508.16706).

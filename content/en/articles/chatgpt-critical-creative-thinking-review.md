@@ -143,30 +143,6 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 - Assessment asymmetry: creative thinking was more often evaluated with direct performance tasks while critical thinking relied on indirect self-report measures, so apparent differences in robustness across the two domains partly reflect how each was operationalized and measured.
 - Nearly all included studies were cross-sectional or short-term, with no longitudinal tracking of cognitive habit formation, and the technology changes faster than the literature — the review calls for living systematic reviews tied to specific ChatGPT versions.
 
-## Connected Concepts
-
-- [[educational-development]]
-- [[higher-ed]]
-- [[human-in-the-loop-ai]]
-- [[metacognition]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[scaffolding]]
-- [[critical-thinking]]
-- [[creativity]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-
-## Connected Articles
-
-- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
-- [[critical-genai-use-predictors]] — GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use
-- [[ai-learning-companions-framework]] — Building AI Companions that Prioritize Learning over Performance
-- [[ai-literacy-assessment-misalignment]]
-- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
-- [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era
-
 ## Citation
 
 Li, C., Cui, H., & Hagedorn, L. S. (2026). [*The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes*](https://www.sciencedirect.com/science/article/pii/S2666920X26000330). *Computers and Education: Artificial Intelligence*.

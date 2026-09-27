@@ -59,27 +59,6 @@ At the nominal level, students preferring a chatbot that initiates guided inquir
 - All data came from one extra-credit activity in a single large calculus-based physics course at one midwestern land-grant R1 (roughly 1,800 enrolled; 1,191 activity responses, 1,408 EBAPS responses, 1,048 overlapping), covering waves content not taught in the course.
 - The design is correlational: preferences and beliefs were measured in the same week with no control group, so no causal direction between them can be established.
 
-## Connected Concepts
-
-- [[physics-education]]
-- [[pedagogical-agent]]
-- [[socratic-method]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[higher-ed]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[socratic-ai-physics-tutor-taxonomy-2026]]
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[becker-chatgpt-typology-physics-2026]]
-- [[genai-tutor-engagement-patterns]]
-- [[chatgpt-feedback-engagement-genai]]
-
 ## Citation
 
 Sirnoorkar, A., & Mamidpalliwar, O. (2026). [*Students' epistemological beliefs and their chatbot preferences in AI-mediated physics learning*](https://arxiv.org/abs/2607.29385). Proceedings of the 2026 Physics Education Research Conference.

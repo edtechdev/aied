@@ -46,28 +46,6 @@ The authors are explicit that the system is meant to support rather than replace
 - The pipeline is built on a single model family (Gemini), so generation quality is bound to that system; the authors state the work is "just a first step" and that evaluation with real teachers in real schools, including student learning efficacy, remains to be done.
 - The usability ratings were collected on a version lacking several components implemented since, so the reported average above 8.1 reflects an earlier build than the one the paper describes.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[simulation]]
-- [[active-learning]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[student-engagement]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[educational-technology-developers]]
-- [[usability-research]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[ai-enabled-serious-games]] — AI-enabled serious games
-- [[ai-tutor-authoring-promptdecipher]] — Authoring AI tutors from prompts
-- [[agentschool-multi-agent-simulation-education-2026]] — Multi-agent simulation in education
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Adaptive AI scaffolds for collaborative problem solving
-
 ## Citation
 
 Kovshov, A., Choudhury, A., Iurchenko, A., Keeling, A., Hassidim, A., Evron, A. S., … Lev, Y. (2026). [Harnessing Generative UI for Education: Tailored Learning Interactives](https://arxiv.org/abs/2609.20738). arXiv:2609.20738.

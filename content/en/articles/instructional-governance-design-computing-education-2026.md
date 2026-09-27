@@ -58,33 +58,5 @@ To test transfer beyond one institutional portfolio, the framework is applied to
 - The four external systems are a transfer test rather than an exhaustive taxonomy of AI tools in [[cs-education|computing education]], so the classification is illustrative.
 - Governance fit is argued conceptually; the paper does not validate the six dimensions empirically or show effects on learning outcomes.
 
-## Connected Concepts
-- [[governance]]
-- [[human-in-the-loop-ai]]
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[student-ai-interaction]]
-- [[guardrails]]
-- [[learning-analytics]]
-- [[cs-education]]
-- [[teacher-role]]
-- [[curriculum-design]]
-
-## Connected Articles
-- [[llm-programming-support-governance-cs-education]] — Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance
-- [[beyond-agent-label-agentic-ai-governance-2026]] — Beyond the Agent Label: Evidence Maturity, Human Monitoring, and Governance of Agentic AI in Higher Education
-- [[qian-governing-genai-higher-ed-policy-2026]] — Governing generative AI in higher education: Emerging policy approaches and support ecosystems at innovative U.S. universities
-- [[llm-student-simulation-teacher-insights]] — Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[llm-pedagogical-behavior-ai-tutoring-2026]] — LLM Pedagogical Behavior in AI Tutoring Interactions
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education
-- [[perrotta-zero-shot-governance-2026]] — Zero-Shot Governance: General-Purpose AI in Policy
-
 ## Citation
 Ethan Dickey (2026). [*Instructional Governance by Design: A Framework for AI in Computing Education*](https://arxiv.org/abs/2609.26098). arXiv preprint.

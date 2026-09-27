@@ -44,25 +44,6 @@ A distinctive contribution is the paper's treatment of the CT definition problem
 - The definitional analysis rests on how frequently definitions were cited within the 128 included reviews; the authors acknowledge that citation counts are influenced by recency and may not capture the depth of a work's influence.
 - Geographic claims come from first-author affiliations retrieved from Scopus for review articles only, and the authors note that other bibliometric analyses aggregate publication types, leaving it unclear whether these patterns hold across research forms. Only 23 of the 128 publications were meta-analyses, so most conclusions rest on review-level synthesis.
 
-## Connected Concepts
-
-- [[computational-thinking]] — the concept the meta-review defines and maps
-- [[cs-education]] — the curricular home of much CT research
-- [[k-12]] — where CT integration is most emphasized
-- [[stem-education]] — the broader context for CT
-- [[assessment]] — one of the five dominant CT research themes
-- [[ai-literacy]] — CT as the cognitive foundation for engaging with AI
-- [[educational-robotics]] — a dominant CT-learning vehicle in the review corpus
-
-## Connected Articles
-
-- [[tsingidou-ct-robotics-kindergarten-2026]] — companion systematic review of CT via robotics in kindergarten
-- [[computational-thinking-ai-agent-creation]] — CT applied to building AI agents
-- [[llm-computational-thinking-physics-2026]] — CT assessment across large-enrollment physics courses
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — GenAI-enhanced CT learning
-- [[ai-pbl-computational-thinking-2026]] — project-based learning and CT
-- [[computational-thinking-aica-2026]] — CT levels and AI coding assistants
-
 ## Citation
 
 Astor, K., Rönnlund, J., Fawcett, C., & Gredebäck, G. (2026). [*Computational thinking: A meta-review of systematic reviews and meta-analyses*](https://doi.org/10.1016/j.edurev.2026.100794). Educational Research Review, 52, 100794.

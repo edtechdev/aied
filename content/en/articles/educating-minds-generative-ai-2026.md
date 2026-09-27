@@ -64,33 +64,6 @@ Confabulation is the third concern: incorrect content delivered fluently and con
 
 - The proposal is normative with nothing attached: no implementation, evaluation or measurement, its named systems will date, and the ecological cost that should bound the design is unquantified.
 
-## Connected Concepts
-
-- [[distributed-cognition]] — the extended and hybrid accounts of cognition on which the whole argument rests
-- [[embodied-learning]] — the embodied, situated learning the authors say current educational AI undercuts
-- [[cognitive-offloading]] — the delegation and erosion risk from unguided, intensive LLM use
-- [[critical-thinking]] — the capacity the authors say unguided use may erode and the goal gap marginalizes
-- [[learning-theories]] — learning-science findings on effort, struggle and conceptual change, set against AI design
-- [[scaffolding]] — what educational technologies do to learning, and what AI now does more autonomously
-- [[generative-ai]] — the technology recast here as epistemic infrastructure rather than a helpful tool
-- [[llm]] — large language models as the active, persistent, generalist systems at issue
-- [[hallucination-risk]] — confabulation as both an educational risk and a verification pedagogy
-- [[ai-sycophancy]] — agreeable systems replacing dialogic friction with continuous affirmation
-- [[desirable-difficulties]] — effort and productive struggle as the conditions AI interfaces tend to smooth away
-- [[ai-literacy]] — the guidance whose absence pushes students into prompt tuning
-
-## Connected Articles
-
-- [[lodge-loble-cognitive-offloading-2026]] — Cognitive offloading and its implications for education, a key source for the erosion concern
-- [[cognitive-offloading-metacognitive-review-2026]] — Review evidence on offloading and metacognition that bears on the enhancement-versus-deskilling debate
-- [[ensemble-cognition-philosophy-ai-education]] — Philosophical work on cognition and AI in education in the same conceptual register
-- [[videla-embodied-ai-education-choreography]] — Embodied AI in education, the alternative pathway the paper calls for
-- [[tzirides-thinking-through-ai-2025]] — Thinking through AI: distributed cognition as an educational frame
-- [[generativism-learning-theory]] — A learning-theory attempt to account for generative AI in instruction
-- [[genai-mindtool-generative-learning]] — Generative AI framed as a mind tool rather than a delivery mechanism
-- [[critical-thinking-paradox-genai-learning-2026]] — The paradox of GenAI supporting and undercutting critical thinking
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Curriculum-level rethinking of pedagogy under generative AI
-
 ## Citation
 
 Di Paolo, L. D., Clark, A., & Wachter, T. (2026). [*Educating minds with generative AI*](https://doi.org/10.1038/s44271-026-00522-8). *Communications Psychology*, 4, 128.

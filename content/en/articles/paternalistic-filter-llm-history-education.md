@@ -40,21 +40,6 @@ Centers on [[llm]] tutors in [[student-experience]] and the harms catalogd under
 - Kimi K2's API temperature was not configurable, so some of its refusals may reflect stochastic behavior rather than model bias; the design used n = 30 iterations per condition across 4 models, 5 personas, and 3 prompts (1,800 calls), at T = 0 where controllable.
 - The audit covers a single historical event (the 1989 Romanian Revolution) and single-turn interactions only, leaving open whether the paternalistic patterns generalize to other cultural contexts or to multi-turn tutoring.
 
-## Connected Concepts
-
-- [[llm]]
-- [[student-experience]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[pedagogical-safety]]
-- [[hallucination-risk]]
-- [[trust]]
-## Connected Articles
-
-- [[hazra-safetutors-pedagogical-safety-2026]]
 ## Citation
 
 Alexis Popovici, Andrei Ionascu, Adrian-Marius Dumitran (2026). [The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students](https://arxiv.org/abs/2607.11292). arXiv preprint.

@@ -54,29 +54,6 @@ A **3 × 4 between-subjects design** with 274 participants (Mechanical Turk work
 - The study relied on a closed-source model (ChatGPT 3.5) whose weights are not public, leaving the generation pipeline unreproducible with open alternatives.
 - Attrition was high at 30%, though roughly even across conditions (36–43 excluded participants per condition), and the scope was limited to secondary and early post-secondary mathematics.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[llm]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[math-education]]
-- [[learning-gains]]
-- [[hallucination-risk]]
-- [[adaptive-learning]]
-- [[feedback]]
-
-## Connected Articles
-
-- [[oatutor-open-source-adaptive-tutor-2023]] — OATutor: Open-Source Adaptive Tutoring System
-- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
-- [[ai-generated-feedback-higher-ed]] — AI Feedback in University Education
-- [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators
-- [[access-not-enough-ai-tutoring-2026]] — Access Is Not Enough: AI Tutoring
-- [[adaptive-pretesting-retention]] — Adaptive Pretesting and Retention
-
 ## Citation
 
 Pardos, Z. A., & Bhandari, S. (2024). [*ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills*](https://doi.org/10.1371/journal.pone.0304013). *PLOS ONE*, 19(5), e0304013. https://doi.org/10.1371/journal.pone.0304013

@@ -42,29 +42,6 @@ institutions: [educational-policy-ai]
 - The AI-led and AI-only tier rests on emergent evidence: the cited two-district [[rct|RCT]] found human check-ins raised engagement but reading achievement did not improve, and 40–47% of students in AI-only studies never used the platform.
 - Safety questions about direct-to-student AI — data protection, student-safety [[guardrails]], and the developmental effects of AI companions — are flagged as open, so recommendations about unmonitored or AI-only use rest on unresolved risks.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[k-12]]
-- [[guardrails]]
-- [[pedagogical-safety]]
-- [[privacy]]
-- [[educational-policy-ai]]
-- [[learning-gains]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles?
-- [[ai-tutoring-quality-k12-methodologies-2026]] — AI tutoring quality in K-12: methodologies
-- [[hybrid-human-ai-tutoring-differentiated]] — Hybrid human-AI tutoring
-- [[access-not-enough-ai-tutoring-2026]] — Access is not enough: AI tutoring
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and harms
-- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
-
 ## Citation
 
 Turano, C., Pihl, V., Agnew, C., Ziegler, L., & Loeb, S. (2026). *AI Tutoring is Not a Monolith: What We Actually Know.* Stanford SCALE / National Student Support Accelerator (NSSA), Stanford University. [https://scale.stanford.edu](https://scale.stanford.edu)

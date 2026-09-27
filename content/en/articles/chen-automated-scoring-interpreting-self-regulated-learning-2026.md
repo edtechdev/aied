@@ -62,22 +62,6 @@ Read through Zimmerman's three-phase model, the cycle was reinforced during and 
 - The scoring system is proprietary with undisclosed formulations, and its agreement with human raters was limited, weakest on the dimension carrying the most weight.
 - Because the human rubric mirrored the system's four criteria, the experimental advantage may partly reflect rubric familiarity. With 24 questionnaire respondents and a design able to detect only effects at or above d = 0.85, the findings are preliminary.
 
-## Connected Concepts
-
-- [[self-regulated-learning]] — Zimmerman's three-phase cycle as the study's analytical frame
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[metacognition]]
-- [[assessment-validity]]
-- [[explainable-ai]]
-
-## Connected Articles
-
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC affordance and student self-regulation
-- [[pecuchova-automated-grading-open-ended-genai-2026]] — Automated grading of open-ended questions with GenAI
-- [[aiawe-automated-writing-evaluation]] — AiAWE: open-source LLM automated writing evaluation
-
 ## Citation
 
 Chen, C., & Liu, T. (2026). [*Impact of automated scoring on interpreting performance and self-regulated learning: evidence from a pedagogical experiment*](https://doi.org/10.3389/fpsyg.2026.1867463).

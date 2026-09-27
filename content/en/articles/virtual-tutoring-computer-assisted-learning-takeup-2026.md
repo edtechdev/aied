@@ -40,27 +40,6 @@ sources: [raw/papers/virtual-tutoring-computer-assisted-learning-takeup-2026.md]
 - The Year-2 design changes were not a clean experiment: several program features changed at once, so the gain from 45% to 83% take-up cannot be attributed to collapsing enrollment alone, and attendance records cannot say whether a missed week reflects the student, the family, or the program.
 - Attitudes come from a short self-report survey and the secondary achievement outcome from teacher-assigned report-card marks graded 1–4, neither of which is a clean measure of achievement.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[edtech-platform]]
-- [[math-education]]
-- [[k-12]]
-- [[help-seeking]]
-- [[student-engagement]]
-- [[adaptive-learning]]
-- [[learning-gains]]
-- [[equity-in-ai-education]]
-- [[parents-and-families]]
-## Connected Articles
-
-- [[elevate-genai-virtual-tutors]] — GenAI virtual tutors
-- [[access-not-enough-ai-tutoring-2026]] — Access is not enough for AI tutoring
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Improving AI tutoring quality in K-12
-- [[ai-availability-student-motivation]] — AI availability and student motivation
-
 ## Citation
 
 Oreopoulos, P., Dong, R., & Low, N. (2026). *[Virtual tutoring with computer-assisted learning: An experiment in take-up and learning](https://www.nber.org/papers/w35622)* (NBER Working Paper No. 35622). National Bureau of Economic Research.

@@ -82,28 +82,6 @@ A large-scale experiment in rural Brazil (Ch.6) demonstrated that even with inte
 - The TALIS-based finding that 37 percent of teachers use GenAI for work-related tasks is flagged in the report itself as carrying a higher risk of non-response bias and should be interpreted with caution.
 - Evidence on synergy is mixed: a meta-analysis of 106 experimental studies of human-AI collaboration found that, on average, human-AI combinations performed worse than the best of either humans or AI alone, particularly on decision-making tasks.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]
-- [[critical-thinking]]
-- [[collaborative-learning]]
-- [[digital-divide]]
-## Connected Articles
-
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching
-- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning with GenAI
-- [[hybrid-human-ai-tutoring-differentiated]] — Differentiating human tutor roles in hybrid human-AI tutoring
-- [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
-- [[adaptive-pretesting-retention]] — Do GenAI-enabled adaptive pretesting gains persist?
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for designing AI to support adult learning
-- [[genai-declaration-frameworks-higher-education]] — Domain-specific GenAI declaration frameworks in higher ed
-
 ## Citation
 
 OECD (2026). [*OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education*](https://doi.org/10.1787/062a7394-en). OECD Publishing, Paris.

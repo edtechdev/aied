@@ -44,25 +44,6 @@ The article translates the argument into a deployment-review question: what will
 - The analysis is built on an idealization — a "perfect AI" that executes specified tasks flawlessly once goals, constraints, and roles are given — which is a deliberate analytic device, not an observed system.
 - The five capacities (end-setting, reason-giving, contestability, refusal and revision, participation) are analytic categories rather than validated instruments, so the argument cannot estimate how fast or how far dissolution proceeds in a given program.
 - Illustrative scenes, such as a student who cannot explain the essay they submitted, carry the empirical weight; no comparison of institutions with and without AI delegation is offered.
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[governance]]
-- [[ethics]]
-- [[generative-ai]]
-- [[agency]]
-
-## Connected Articles
-
-- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
-- [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
-- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
-- [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)
-- [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing
-- [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
-
 ## Citation
 
 Kai Yao (2026). [When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution](https://arxiv.org/abs/2607.28041).

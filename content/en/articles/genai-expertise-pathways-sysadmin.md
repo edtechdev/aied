@@ -38,25 +38,6 @@ Drawing on 14 semi-structured interviews with IT professionals, this study explo
 - Accounts are self-reported; the claimed time savings (for example a "70, 80 percent time saving," or a two-month task compressed to two weeks) are participants' own estimates, not measured.
 - The account rests on one interview study, with no control condition and no observation of actual task performance.
 
-## Connected Concepts
-
-- [[human-in-the-loop-ai]]
-- [[ai-misuse-learning-harm]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[lifelong-learning]]
-- [[professional-training]]
-- [[human-ai-collaboration]]
-
-## Connected Articles
-
-- [[cognitive-commons-ai-expertise-regeneration]] — The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning
-- [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment
-- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction
-- [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding
-
 ## Citation
 
 Abou Khamis, R., Assal, H., & Matrawy, A. (2026). [Unanticipated effects of generative AI on expertise pathways and performance perception in system administration](https://arxiv.org/abs/2607.28650).

@@ -71,31 +71,5 @@ The system's operational properties are, however, plausible: a fully automated t
 - The claim that structure-aware cleaning and figure extraction raise retrieval precision over a generic RAG baseline is asserted with no comparative retrieval measurement reported.
 - Output reliability is unverified: animation motion is not checked against the [[physics-education|physics]] or mathematics being taught, and the hard-coded implementation improves interpretability of the generation process rather than correctness of the content.
 
-## Connected Concepts
-- [[personalized-learning]]
-- [[video-education]]
-- [[multimodal]]
-- [[rag]]
-- [[generative-ai]]
-- [[adaptive-learning]]
-- [[k-12]]
-- [[math-education]]
-- [[science-education]]
-- [[multilingual-learning]]
-- [[storytelling-in-education]]
-- [[visualization]]
-- [[student-engagement]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora
-- [[ai-generated-instructional-videos-computing-ed]] — Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education
-- [[personalized-ai-generated-videos-preference-2026]] — Students Prefer Personalized, AI-Generated Educational Videos over Non-Personalized, Human-Recorded Videos
-- [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques
-- [[bias-representation-text-to-image-education-2026]] — Bias and Representation in AI-Generated Text-to-Image in Education: A Systematic Review
-- [[structrag-diagram-reasoning-ai-tutoring]] — Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education
-- [[syal-multimodal-dialogue-stem-2026]] — Multimodal AI Tutoring in STEM
-
 ## Citation
 Siddhanth Sridhar, Shreya Chaurasia, Baddela Sai Yaswantha Reddy, Deepak Parmar and Shylaja S S (2026). [*Dynamic Learning Solutions: A System for Personalized Educational Video Generation*](https://arxiv.org/abs/2609.14408). arXiv preprint.

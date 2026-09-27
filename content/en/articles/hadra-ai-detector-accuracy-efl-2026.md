@@ -12,7 +12,6 @@ ethics: [equity-in-ai-education, bias-mitigation, trust]
 discipline: [english education, language learning]
 level: [higher ed]
 audience: [instructors, administrators, researchers, learners, educational technology developers]
-connected_faqs: [should-we-use-ai-detectors]
 page_kind: [evaluation]
 sources: ['raw/papers/hadra-ai-detector-accuracy-efl-2026.md']
 confidence: high
@@ -55,32 +54,6 @@ Their reading of the length and genre effects reinforces the point. Detection me
 - Only two detectors were tested, so the results do not transfer automatically to other commercial, [[open-source]] or emerging tools, whose behavior also shifts with each model update.
 - The hybrids were fixed at 50/50, whereas real students edit AI drafts to varying degrees or use assistance selectively at different stages, patterns the design could not capture.
 - Both generative and detection models continue to change quickly, so the authors call for longitudinal monitoring to establish whether detector reliability improves or fluctuates in ways that make consistent policy implementation impossible.
-
-## Connected Concepts
-
-- [[ai-detection]]
-- [[academic-integrity]]
-- [[assessment-validity]]
-- [[reducing-ai-misuse]]
-- [[generative-ai]]
-- [[assessment]]
-- [[higher-ed]]
-- [[english-education]]
-- [[language-learning]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[trust]]
-
-## Connected Articles
-
-- [[bassett-ai-detectors-education-2026]] — The case against treating detector verdicts as evidence in education
-- [[karr-ai-detection-humanization-2026]] — Detection, humanization and the arms race over authorship signals
-- [[teichmann-detecting-undetectable-misconduct-2026]] — What detection can and cannot show about misconduct
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — Manipulating detector output to perform legitimacy
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How online assessment design copes with AI authorship
-- [[genai-linguistic-diversity-academic-writing]] — Linguistic diversity and bias in AI-mediated academic writing
-- [[dollinger-equitable-assessment-ai-2026]] — Equity as a criterion for assessment design in the GenAI era
-- [[ivory-psychology-assessment-integrity-2026]] — Program-level evidence that the marking boundary, not detection, is the weak point
 
 ## Citation
 

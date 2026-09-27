@@ -47,21 +47,6 @@ This work connects to the broader [[automated-question-generation]] literature a
 - Self-report instrument: four 5-point Likert items plus one open-ended question, administered in sessions of about 12 minutes each, capture perceived engagement and ease of use rather than [[learning-gains|learning gains]].
 - The guardrail rates (12%, 8%, 3%) come from development-phase testing with approximately 200 test inputs and were not validated against labeled ground truth; the authors also report no systematic human evaluation of output quality and no comparison baselines.
 
-## Connected Concepts
-
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[academic-integrity]]
-- [[automated-question-generation]]
-- [[edtech-platform]]
-- [[student-engagement]]
-- [[higher-ed]]
-- [[motivation]]
-## Connected Articles
-
-- [[genai-performance-vs-learning]]
-- [[lata-ferpa-compliant-local-llm-autograder]]
-- [[moodle-ai-tutoring-deep-learning]]
 ## Citation
 
 Kurdya, Z., Zuqlam, M., Amassi, S., Telbany, S., & Saad, M. (2026). [Taklif.AI: LLM-powered platform for interest-based personalized college assignments](https://arxiv.org/abs/2605.05842).

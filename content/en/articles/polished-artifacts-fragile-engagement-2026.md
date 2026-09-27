@@ -64,18 +64,5 @@ GenAI introduces powerful new opportunities for collaboration and knowledge cons
 - The central new construct is unvalidated: the sense of epistemic closure is offered as a possibly relevant concept that "needs to be theoretically and empirically validated through adequate studies", and automation bias has not yet been taken up in CSCL work on human-AI collaboration.
 - The evidence it assembles is mixed and largely correlational — AI tutoring improves performance and reflection where designs demand active participation, while AI-supported writers show lower originality and weaker retention without AI — so the risk mechanism is described as conditional rather than demonstrated.
 
-## Connected Concepts
-- [[collaborative-learning]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[cognitive-offloading-speedup-illusion]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[critical-genai-use-predictors]]
-
 ## Citation
 Kimmerle, J. (2026). [*Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction*](https://doi.org/10.35542/osf.io/b8zjk_v1). EdArXiv preprint.

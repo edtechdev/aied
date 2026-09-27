@@ -11,7 +11,6 @@ level: [higher ed]
 sources: ['raw/papers/personalized-ai-generated-videos-preference-2026.md']
 confidence: high
 page_kind: [evaluation]
-connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** Tomlinson, Black, Patterson, van der Hoek, Ferguson, and Bietz (2026) field-deploy personalized [[generative-ai|AI-generated]] [[video-education|educational videos]] as the primary instructional modality in a large online undergraduate course and ask students to rank four video types defined by two crossed dimensions — [[personalized-learning|personalization]] (personalized vs. non-personalized) and source (human-recorded vs. AI-generated). Across two offerings (493 respondents), **personalization outweighed human presence**: students preferred AI-generated personalized videos over non-personalized human-recorded videos (mean rank 2.26 vs. 2.69, p < .001), and 88.4% ranked some personalized video first versus 73.8% for human-recorded. Human-recorded personalized videos were ranked highest overall, but they were a hypothetical condition students never experienced. The authors read the results as a turning point: personalized relevance and conciseness now compensate for, and sometimes surpass, the missing human presenter — pointing toward a complementary model where human instructors provide expertise and social connection while [[generative-ai|generative AI]] supplies scalable personalization.
@@ -37,28 +36,6 @@ connected_faqs: [asynchronous-online-courses-ai]
 - The study ran in one general-education "Science and Technology" course at one university across two quarters; 493 of 534 enrolled students responded (92.3%), and 54% were seniors completing general-education requirements.
 - One of the four ranked conditions was hypothetical — no human-recorded personalized videos were ever produced — so rankings mix lived experience with imagination, which the authors flag as a possible "imagination bias" operating in either direction.
 - The ranking task also contrasted generated videos against students' usual lecture-video baseline, so novelty and demand characteristics may inflate the personalization preference.
-
-## Connected Concepts
-
-- [[personalized-learning]] — the central construct; personalized relevance drove preference
-- [[video-education]] — Video in Education: AI-generated, personalized, and analytics of video learning
-- [[generative-ai]] — the LLM (GPT-4o, Claude) and HeyGen avatar video-generation pipeline
-- [[online-teaching-and-learning]] — video-based instruction as the primary modality in online courses
-- [[student-engagement]] — personalization as a driver of engagement and preference
-- [[adaptive-learning]] — scalable personalization of pacing/content at course scale
-- [[higher-ed]] — the large undergraduate general-education course context
-- [[pedagogical-agent]] — the AI avatar as a virtual pedagogical agent/presenter
-- [[multimodal]] — AI-generated video combining avatar, image, bullet, and audio modalities
-
-## Connected Articles
-
-- [[ai-generated-instructional-videos-computing-ed]] — student perceptions and preferences of AI-generated instructional videos in computing education
-- [[ai-video-dual-gatekeeping-2026]] — dual gatekeeping for pedagogically grounded AI content (video) creation
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: adaptive pedagogical video generation grounded in course corpora
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — how avatar identity shapes epistemic trust in AI-mediated learning
-- [[engagement-assessment-video]] — engagement assessment in video learning
-- [[savvy-student-attention-video-learning]] — student attention visualization for video-based learning
-- [[ai-psychotherapy-training-avatars]] — AI avatar use in (psychotherapy) training contexts
 
 ## Citation
 

@@ -67,36 +67,6 @@ The distinction changes what a study has to measure, and the knowledge base alre
 - **The mechanism claims lean on a small set of cited results.** The cognitive load, metacognition, motivation and self-efficacy arguments each rest on one or two studies, so they function as framing for future tests rather than as demonstrated effects.
 - **The authors state the evidence base is incomplete.** How generative AI influences encoding, consolidation and retrieval is unresolved, and the interaction between AI-assisted learning and prior knowledge "remain[s] to be examined" — the agenda is a call for research, not a settled finding.
 
-## Connected Concepts
-
-- [[cognitive-offloading]] — the displacement of internal cognitive effort
-- [[metacognition]] — the evaluative reflection generative AI may bypass
-- [[self-regulated-learning]] — the planning–monitoring–evaluating loop at risk
-- [[self-efficacy]] — confidence that can rise as capability declines
-- [[motivation]] — intrinsic motivation and the learner's diminished role
-- [[self-determination-theory]] — autonomy and engagement as motivational preconditions
-- [[transfer-of-learning]] — the durable-knowledge criterion
-- [[prior-knowledge]] — an interaction the authors flag as unexamined
-- [[scaffolding]] — design that preserves cognitive engagement
-- [[socratic-method]] — dialogue that promotes elaboration
-- [[assessment]] — the measures that decide what counts as learning
-- [[learning-gains]] — the outcome the performance/learning distinction refines
-- [[generative-ai]] — the technology under analysis
-- [[theory-development-aied]] — theory development in AI in education
-- [[research-methods-aied]] — the methodological conflation the piece diagnoses
-- [[cognitive-surrender]]
-
-## Connected Articles
-
-- [[generative-ai-guardrails-harm-learning]] — The causal demonstration that guardrails removed the assisted-practice harm
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitive laziness in its most visible form: aware pass-through of non-understanding
-- [[absent-cognitive-baseline-2026]] — Why AI-native students cannot locate their own cognitive boundary
-- [[cognitive-offloading-llm-synthesis-writing]] — Profiling what gets offloaded in LLM-mediated writing
-- [[shaw-nave-cognitive-surrender-2026]] — Cognitive surrender as a disposition, not an accident
-- [[weidlich-chatgpt-effect-search-cause-2025]] — An effect in search of a cause: the same critique of headline effect sizes
-- [[pedagogy-ai-mistakes]] — Using AI errors as learning opportunities rather than outsourcing judgment
-- [[zerkouk-comprehensive-review-its-2025]] — Intelligent tutoring evidence that conflates task success with learning
-
 ## Citation
 
 Yan, L., Greiff, S., Lodge, J. M., & Gašević, D. (2025). [*Distinguishing performance gains from learning when using generative AI*](https://doi.org/10.1038/s44159-025-00467-5). *Nature Reviews Psychology, 4*, 435–436.

@@ -43,23 +43,6 @@ The core finding is that **how** students prompt and integrate AI output matters
 - Performance improvements may partly reflect AI-assisted support for writing quality, task completion, or content organization rather than learning, so assignment scores and writing-quality metrics should not be read as measures of deeper conceptual understanding or long-term retention.
 - The study used ChatGPT-4o specifically, so model drift and newer model versions may change prompting effectiveness and metric reliability, and the raw textual datasets (student prompts, AI responses, and written submissions) cannot be publicly released for privacy reasons, limiting exact reproduction.
 
-## Connected Concepts
-
-- [[prompt-engineering]] — the core skill under study
-- [[higher-ed]] — the educational context
-- [[engineering-education]] — the discipline
-- [[generative-ai]] — the ChatGPT technology
-- [[student-ai-interaction]] — the interaction behaviors measured
-- [[learning-analytics]] — the logged interaction data
-
-## Connected Articles
-
-- [[learning-to-prompt-adaptive-tutoring]] — learning to prompt in adaptive tutoring
-- [[prompt-problems-nl-programming-mistakes]] — prompting problems in programming
-- [[voice-text-prompt-problems-computing-education]] — prompt problems in computing education
-- [[aaai2026-prompting-literacy-k12]] — prompting literacy in K-12
-- [[chatgpt-english-language-learning-malaysia]] — ChatGPT in language learning
-
 ## Citation
 
 Isaza Dominguez, L. G., Robles-Gómez, A., & Pastor-Vargas, R. (2026). [*An empirical study of ChatGPT use in engineering education: Prompting and performance*](https://doi.org/10.1016/j.iheduc.2026.101105). The Internet and Higher Education, 71, 101105.

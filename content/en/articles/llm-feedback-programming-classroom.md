@@ -35,25 +35,6 @@ This study provides one of the largest empirical validations of [[llm]]-based [[
 - The outcome measures — test case pass rates, time to correctness, and iteration patterns — capture short-term dynamics rather than longer-term retention, conceptual understanding, or transfer to new problems.
 - Evidence comes from a single introductory Python course at one U.S. R1 institution in the Fall 2025 semester, where 215 of the 365 enrolled students consented and non-consenting students' data were excluded from all analyses.
 
-## Connected Concepts
-
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[stem-education]]
-- [[higher-ed]]
-- [[cs-education]]
-
-## Connected Articles
-
-- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
-- [[llm-automated-assessment-student-self-explanations]] — Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education
-
 ## Citation
 
 Heickal, H., & Lan, A. (2026). [*A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming*](https://arxiv.org/abs/2606.08807). Accepted at IRAISE 2026.

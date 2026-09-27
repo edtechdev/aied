@@ -42,24 +42,6 @@ level: [primary education, k 12]
 - The post-survey (four multiple-item items and one open-ended item) was not formally validated or piloted; language was simplified and read aloud for first graders, who answered verbally or by pointing, and the authors state it was refined collaboratively rather than field-tested.
 - Trust and understanding are self-reported, and the grade-level statistical comparisons rest on small cells: chi-square tests found no significant grade differences in trust (χ²(6) = 5.68, p = .459), confiding (χ²(6) = 3.05, p = .80), or mental models of the bot (χ²(6) = 5.95, p = .429), even though the qualitative data suggested developmental variation.
 
-## Connected Concepts
-
-- [[conversational-ai]]
-- [[student-ai-interaction]]
-- [[early-childhood-elementary-ai-education]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[trust]]
-
-## Connected Articles
-
-- [[ai-toys-child-development-2026]]
-- [[ai-play-framework-early-childhood-2026]]
-- [[trust-reliance-ai-education-2026]]
-- [[eduzone-llm-safety-k12]]
-- [[conversational-ai-agents-umbrella-review-2026]]
-- [[colbran-student-perspectives-genai-chatbots-2026]]
-
 ## Citation
 
 Vahedian Movahed, S., & Martin, F. G. (2025). [Ask Me Anything: Exploring Children's Attitudes Toward an Age-tailored AI-powered Chatbot](https://doi.org/10.1007/s40593-025-00523-4). *International Journal of Artificial Intelligence in Education*, 35(4), 3979–4001.

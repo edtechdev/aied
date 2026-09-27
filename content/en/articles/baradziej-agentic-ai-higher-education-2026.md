@@ -77,40 +77,6 @@ This review's role-based map and outcome quantification distinguish it from the 
 - The corpus is geographically skewed — North America 35%, East and South Asia 28%, Europe 21%, [[global-south|Global South]] 10% — a concentration the authors name as a notable limitation, and adaptive-tutoring evidence is dominated by STEM and language learning, leaving the humanities, social sciences, and professional education under-evidenced.
 - Agentic status was assigned by a threshold rule rather than a validated taxonomy — a study counted as agentic only if its system met at least three of four criteria (autonomy, planning, tool use, persistent memory) — so the six role counts depend on that binary classification judgment, and vendor documentation and technology reports are cited illustratively in the Results and Discussion without being counted among the 48 included studies. The evidence base the review synthesizes is itself methodologically young — mostly short-term case studies and design demonstrations, few [[rct|RCTs]] and a near-total absence of longitudinal work — so causal claims about [[learning-gains|learning outcomes]] cannot yet be made.
 
-## Connected Concepts
-
-- [[agentic-ai]] — the construct the review operationalizes by role
-- [[higher-ed]] — the specific context of all 48 studies
-- [[intelligent-tutoring]] — the dominant agentic role
-- [[ai-literacy]] — first pillar of the tripartite framework
-- [[human-in-the-loop-ai]] — the Copilot/Autopilot axis and oversight
-- [[educational-development]] — competence-based educator training
-- [[cognitive-offloading]] — the passive-learner risk
-- [[bias-mitigation]] — multi-level algorithmic bias
-- [[privacy]] — student-data governance
-- [[equity-in-ai-education]] — cultural homogenization and the digital divide
-- [[academic-integrity]] — verification under agentic assessment
-- [[assessment]] — rubric-based and automated grading agents
-- [[educational-policy-ai]] — institutional governance
-- [[metacognition]] — risk of metacognitive erosion
-- [[self-regulated-learning]] — human-centered vs AI-centered agency configurations
-- [[generative-ai]] — the generative-to-agentic shift
-- [[llm]] — the substrate of agentic systems
-- [[meta-analysis-systematic-review]] — the review method
-- [[student-engagement]] — engagement outcomes
-- [[ai-ed-evaluation]] — benchmarking agent roles
-
-## Connected Articles
-
-- [[agentic-ai-education-scoping-review]] — 474-study scoping review of agentic AI capability levels (Wang et al. 2026)
-- [[kostopoulos-agentic-ai-education-2025]] — conceptual survey: operational checklist + role/autonomy/embodiment taxonomy (Kostopoulos et al. 2025)
-- [[agentic-ai-pedagogical-best-practice-2026]] — the automation-vs-learning tension
-- [[tool-invariant-framework-agentic-ai]] — teaching and assessing in the agentic age
-- [[bozkurt-ghost-students-agentic-ai-2026]] — ghost students and the verification gap
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance as a complex adaptive system
-- [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent in CS education
-
 ## Citation
 
 Baradziej, S. (2026). [*A systematic review of the roles of agentic AI in higher education*](https://doi.org/10.1016/j.ssaho.2026.103418). *Social Sciences & Humanities Open, 14*, 103418.

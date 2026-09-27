@@ -44,24 +44,6 @@ This is an **empirical synthesis** applying a comparative and interpretive desig
 - The two datasets were collected separately in 2024 and combined as an empirical synthesis, so student and instructor responses are not paired within the same institutions or courses.
 - The comparative design captures group differences at a single time point and cannot show how ethical literacy develops through instruction, mentorship, or institutional reform.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[ethics]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-
-## Connected Articles
-
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers in Higher Education
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy Through a Self-Determination Theory Perspective
-- [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Five-Stage Developmental Continuum for AI Literacy in Higher Education
-- [[drummond-genai-business-schools-framework-2026]] — Generating a Student-Informed Teaching and Learning Conceptual Framework for GenAI in Business Schools
-- [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies into AI Literacy for Education
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI Literacy: Going Beyond the AI Skills Gap Agenda
-
 ## Citation
 
 Fekete, I. (2026). [*Between promise and practice: Bridging ethical artificial intelligence literacy gaps across students, educators, and policy*](https://doi.org/10.53761/9fr5vw20). *Journal of University Teaching and Learning Practice, 23*(5).

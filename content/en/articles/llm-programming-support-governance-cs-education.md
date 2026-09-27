@@ -31,20 +31,6 @@ page_kind: [framework]
 - Screening audit trail: full-text exclusion reasons were not logged as mutually exclusive categories, so only the aggregate exclusion count is reported, which limits the reproducibility of the corpus construction.
 - Coding was based on what the included papers state their systems implement, so governance features that exist in deployed tools but are undocumented in their papers are not captured, and 82 of 132 possible policy-enforcement combinations were observed with 50 (37.9%) absent from the corpus.
 
-## Connected Concepts
-
-## Connected Concepts
-
-- [[llm]]
-- [[cs-education]]
-- [[scaffolding]]
-- [[feedback]]
-## Connected Articles
-
-- [[genai-assessment-governance]]
-- [[genai-policies-higher-ed-computing]]
-- [[structured-llm-feedback-programming]]
-- [[llm-feedback-programming-classroom]]
 ## Citation
 
 Kim, Monisha, Wu & Smith IV (2026). [Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance](https://arxiv.org/abs/2607.21257). arXiv preprint (cs.HC).

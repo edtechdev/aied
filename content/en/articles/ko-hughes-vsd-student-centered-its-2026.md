@@ -41,24 +41,6 @@ methods: [design-based-research, qualitative-research]
 - Evidence comes from value-oriented semi-structured interviews with students and instructors, with no pre/post measures, comparison condition, or behavioral data.
 - The site is atypical: it was among the few U.S. community colleges that fully enabled ALEKS's adaptive/AI capability rather than using it as a question bank, and many participants were adults returning after gaps of 10 to 30 years, so the findings are context-bound.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[explainable-ai]]
-- [[human-in-the-loop-ai]]
-- [[privacy]]
-- [[agency]]
-- [[ethics]]
-- [[stakeholders]]
-- [[design-based-research]]
-- [[human-ai-collaboration]]
-
-## Connected Articles
-
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: pedagogical safety guardrails for tutoring
-- [[making-ai-tutoring-productive-mastery-math-2026]] — design of productive AI math tutoring
-- [[zhang-tutormoments-2026]] — context-appropriateness of tutor help (scaffolding vs. rigor)
-
 ## Citation
 
 Ko, E. G., & Hughes, J. E. (2026). [Value-sensitive design in action: Designing student-centered intelligent tutoring systems with community college students and instructors](https://doi.org/10.1016/j.caeai.2026.100560). *Computers and Education: Artificial Intelligence, 10*, 100560.

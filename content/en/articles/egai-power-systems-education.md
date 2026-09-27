@@ -41,22 +41,6 @@ Argues for engineering-grounded AI (EGAI): AI workflows should follow establishe
 - No formal classroom evaluation of learning outcomes was conducted; the evidence is a targeted community survey, webinar attendance, and repository-visit counts, and the authors name a controlled classroom study as future work.
 - The motivation survey rests on 52 self-selected respondents from the IEEE power and energy community, so the reported barrier rates describe that professional population rather than educators broadly.
 
-## Connected Concepts
-
-- [[open-source]]
-- [[cs-education]]
-- [[curriculum-design]]
-- [[stem-education]]
-- [[professional-training]]
-## Connected Articles
-
-- [[drawedumath-vlm-struggling-students-2026]] — Educational VLM Evaluation
-- [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
-- [[structrag-diagram-reasoning-ai-tutoring]] — Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education
-- [[cogtax-cognitive-taxonomy]] — CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education
-- [[teacher-control-ai-generation-math-visuals]] — When Should Teachers Control AI Generation for Mathematics Visuals?
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
-
 ## Citation
 
 Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li (2026). [Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework](https://arxiv.org/abs/2608.02599). arXiv (cs.AI / eess.SY) preprint.

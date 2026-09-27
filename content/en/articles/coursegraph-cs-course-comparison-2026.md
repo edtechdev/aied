@@ -33,24 +33,6 @@ presents CourseGraph, a methodology for automatically evaluating external course
 - The method assumes course information is publicly available and comparable across institutions, yet the amount of published detail varies and terms such as "introductory" and "advanced" carry different meanings at different universities.
 - It compares course content only (learning outcomes, descriptions, topics), not learning methods or cognitive demand, which is why an applied hacking lab was assigned to a systems security lecture course.
 
-## Connected Concepts
-
-- [[administrator]]
-- [[cs-education]]
-- [[curriculum-design]]
-- [[educational-nlp]]
-- [[higher-ed]]
-- [[knowledge-graph]]
-
-## Connected Articles
-
-- [[wordstream-glass-learning-analytics]] — Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics
-- [[reshaping-cs-education-genai]] — Reshaping Undergraduate Computer Science Education in the Generative AI Era
-- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
-- [[universities-ai-era-rethinking]] — The University AI Didn''t Replace: Rethinking Universities in the AI Era
-- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
-- [[cross-cultural-student-perceptions-genai-computing]] — Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education
-
 ## Citation
 
 Nijdam, Arthur, Wagner, Paul Stankovski, & Ramezanian, Sara (2026). [CourseGraph: Finding overlaps and differences in Computer Science courses across universities](https://arxiv.org/abs/2608.05910).

@@ -13,7 +13,6 @@ sources: ['raw/papers/automated-online-exam-proctoring-decade-review-2026.md']
 confidence: high
 audience: [institutions, assessment professionals, administrators]
 page_kind: [synthesis]
-connected_faqs: [asynchronous-online-courses-ai]
 methods: [meta-analysis-systematic-review]
 ---
 
@@ -45,22 +44,6 @@ A [[meta-analysis-systematic-review|systematic review]] following [[inclusive-le
 - The review synthesizes 80 peer-reviewed articles published 2014–2024 under fixed inclusion/exclusion criteria, so non-peer-reviewed and more recent work is excluded.
 - The rapid evolution of AI methods means newer or hybrid frameworks may already surpass the performance of the systems reviewed.
 - Ethical evaluation remains underexplored in the included literature, particularly long-term data storage and enforcement of user consent.
-
-## Connected Concepts
-
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[online-teaching-and-learning]]
-- [[automated-assessment]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Comprehensive review of academic dishonesty in automated proctoring
-- [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity: systematic review
 
 ## Citation
 

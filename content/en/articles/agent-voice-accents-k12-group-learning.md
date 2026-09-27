@@ -39,27 +39,6 @@ The findings advance understanding of how GenAI's sociolinguistic design feature
 - A technical oversight meant two Black-accent groups received no audible agent output, so the condition structure became unbalanced — Black (n = 6), voiceless (n = 6), Indian (n = 11), British (n = 10) — and only 31 of 33 participants returned post-surveys.
 - Technical constraints including latency and limited model transparency affected interaction flow and trust, and the quantitative check found no significant accent differences on any CASUX subscale (Proficiency F(3, 27) = 0.232, p = .873; Etiquette & Mannerism F(3, 27) = 1.393, p = .266; Personality F(3, 27) = 0.776, p = .517), leaving the sample possibly underpowered for small effects.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[k-12]]
-- [[intelligent-tutoring]]
-- [[equity-in-ai-education]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[trust]]
-- [[collaborative-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[speech-and-voice-technologies]]
-## Connected Articles
-
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI
-- [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-
 ## Citation
 
 Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., & Anderson, E. (2026). [Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning](https://arxiv.org/abs/2606.12805).

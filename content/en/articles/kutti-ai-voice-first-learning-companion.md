@@ -33,26 +33,6 @@ The paper is a systems contribution rather than an efficacy study — no [[learn
 - No learning-gains evidence is reported, so the pedagogical claims remain design hypotheses pending classroom trials with children and their educators.
 - Hesitation detection is keyword-based, a coarse proxy for confusion that the authors say could be extended toward prosodic or acoustic analysis.
 
-## Connected Concepts
-
-- [[special-education]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[equity-in-ai-education]]
-- [[personalized-learning]]
-- [[student-experience]]
-- [[inclusive-learning]]
-- [[k-12]]
-- [[speech-and-voice-technologies]]
-## Connected Articles
-
-- [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
-- [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education
-- [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning
-- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
-
 ## Citation
 
 Kadharmoideen Fadurudeen (2026). [Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children](https://arxiv.org/abs/2607.22377). arXiv preprint.

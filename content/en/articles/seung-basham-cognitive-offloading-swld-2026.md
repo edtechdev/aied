@@ -41,25 +41,6 @@ page_kind: [framework]
 - SWLDs are treated as one group defined by executive-function, working-memory, and attention challenges, with no disaggregation by disability type, age, or setting, and the cited empirical base spans K-12 and higher education.
 - The model's four offloading factors — performance goals, task difficulty, academic self-efficacy, and perceptions of the tool — remain directionally unresolved; the authors note it is unclear whether these are merely correlated with offloading, exert directional influence, or operate reciprocally.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[special-education]]
-- [[inclusive-learning]]
-- [[neurodiversity]]
-- [[accessibility]]
-- [[universal-design-for-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[guardrails]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-directed learning
-- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
-
 ## Citation
 
 Seung, Y., & Basham, J. D. (2026). Cognitive offloading in the age of generative AI: What does it mean for students with learning disabilities? *Learning Disability Quarterly, 49*(3), 121–133. [https://doi.org/10.1177/07319487261439132](https://doi.org/10.1177/07319487261439132)

@@ -69,32 +69,5 @@ Three further constraints bound the claims. Comparing this transparent cohort wi
 - The instructor taught the course and conducted the research, so reflection content may carry power-imbalance and response-bias effects despite anonymization and open-ended prompts.
 - Comparison with the author's earlier blinded cohort is confounded by cohort, academic year and the intervening normalization of GenAI, so the transparency effect cannot be isolated; the four themes and three-principle framework are theoretical syntheses, and the confirmatory second pass was run by an LLM.
 
-## Connected Concepts
-- [[feedback]]
-- [[feedback-literacy]]
-- [[evaluative-judgment]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[trust]]
-- [[student-experience]]
-- [[ai-use-disclosure]]
-- [[writing-education]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[qualitative-research]]
-- [[student-ai-interaction]]
-- [[agency]]
-
-## Connected Articles
-- [[usher-faraon-who-grades-best-2026]] — Who Grades Best? Student and Instructor Perspectives on AI Grading
-- [[ai-grading-handwritten-physics-2026]] — AI Grading of Handwritten Physics Work
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — AI Humanizers and the Legitimacy of Assessment
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-Assisted, Instructor-Supervised Grading and Feedback
-- [[ai-internal-feedback-evaluative-judgments]] — AI Internal Feedback and Evaluative Judgments
-- [[tubino-adachi-ai-automated-feedback-literacy]] — AI Automated Feedback and Feedback Literacy
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
-- [[ai-generated-feedback-higher-ed]] — AI-Generated Feedback in Higher Education
-- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
-
 ## Citation
 AlGhamdi, R. (2026). [Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education](https://arxiv.org/abs/2609.05346). arXiv preprint arXiv:2609.05346.

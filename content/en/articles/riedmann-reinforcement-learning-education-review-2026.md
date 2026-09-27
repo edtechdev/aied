@@ -42,21 +42,6 @@ methods: [meta-analysis-systematic-review]
 - One author selected and screened the initial 184 records while only the final 89 were double-screened, and the authors acknowledge that personal bias and subjective judgment may have shaped selection and synthesis; restricting the search to peer-reviewed literature may have excluded relevant gray literature and studies using different terminology.
 - The corpus is unevenly distributed: 72 of 89 papers appeared between 2016 and 2024, applications cluster in STEM (39 papers) and college learners (n = 30), nearly half of the papers target no specific learner group, and 30% do not specify a learning environment topic.
 
-## Connected Concepts
-
-- [[reinforcement-learning]]
-- [[machine-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[meta-analysis-systematic-review]]
-
-## Connected Articles
-
-- [[reinforcement-learning-measurement-model-assessment]]
-- [[scaffolding-systematic-reviews-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
-
 ## Citation
 
 Riedmann, A., Schaper, P., & Lugrin, B. (2025). [Reinforcement Learning in Education: A Systematic Literature Review](https://doi.org/10.1007/s40593-025-00494-6). *International Journal of Artificial Intelligence in Education*, 35(4), 2669–2723.

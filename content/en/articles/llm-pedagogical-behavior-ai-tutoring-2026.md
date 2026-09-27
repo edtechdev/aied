@@ -38,22 +38,6 @@ discipline: [cs education]
 - The follow-up analyses are observational: conditioning on broad dialogue-act categories does not account for prompt content, task difficulty, student characteristics, or conversation history, and turn-level chi-squared tests do not model within-student dependence.
 - The assessment analysis tests incremental prediction, not causation: the modest exam sample and the strong concentration of responses at L3 and L4 leave little variation to detect performance differences.
 
-## Connected Concepts
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[llm]]
-- [[generative-ai]]
-- [[student-ai-interaction]]
-- [[teacher-role]]
-- [[metacognition]]
-
-## Connected Articles
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI
-- [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-generated help produces learning gains equivalent to human tutor-authored help
-
 ## Citation
 
 Lee, Baek, Park, & Shin (2026). [*LLM Pedagogical Behavior in AI Tutoring Interactions*](https://arxiv.org/abs/2608.22993).

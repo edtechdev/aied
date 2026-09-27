@@ -58,7 +58,6 @@ Fine-tuned models substantially outperform prompting-based methods on action fid
 
 On reasoning quality, INSIDE achieves the highest alignment across both settings: 51.8% on test_OP and 57.9% on test_NP, outperforming the strongest BloomCoT prompting baseline. Notably, larger and more capable models such as GPT-5 tend to score *lower*, suggesting stronger reasoning ability does not automatically translate into reasoning that matches student-like code edits. INSIDE achieves both high alignment and strong action fidelity—producing reasoning consistent with observed edits while generating code that follows realistic student progression—rather than optimizing alignment at the expense of realistic behavior.
 
-
 ## What this means for practice
 
 - **Designers.** Surface the internal dialogue, not just the predicted action: INSIDE reached 51.8% (test_OP) and 57.9% (test_NP) alignment between generated reasoning and real code edits without losing action fidelity, so the traces can expose likely misconceptions.
@@ -73,31 +72,6 @@ On reasoning quality, INSIDE achieves the highest alignment across both settings
 - Because LLMs are trained toward expert-like reasoning, the generated traces may read as more coherent than real novice reasoning, and even INSIDE leaves about 42% of generated claims unexplained by the student's code edits.
 - The two test splits are not clean: test_OP (5,262 submissions) and test_NP (1,054 submissions) differ in their student pass-rate distributions, and test_NP's standard errors (≈2.0–2.3 vs. ≈0.8–0.9) limit direct comparison between settings.
 - Results come from one introductory programming course at a single university (UC Berkeley, ~900 students per semester, two semesters), and reasoning quality is scored by an LLM judge whose agreement with human annotations was 88.0% (κ = 0.754).
-
-
-## Connected Concepts
-
-- [[student-modeling]]
-- [[simulating-students]]
-- [[metacognition]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[llm]]
-- [[learning-analytics]]
-- [[cognitive-diagnosis]]
-- [[higher-ed]]
-- [[scaffolding]]
-
-## Connected Articles
-
-- [[history-aware-student-simulation]]
-- [[valid-student-simulation-llm-2026]]
-- [[simulating-students-diverse-cognitive-levels-2025]]
-- [[simulating-students-llm-review-2026]]
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[agentschool-multi-agent-simulation-education-2026]]
-- [[llm-student-simulation-teacher-insights]]
-- [[nie-personavlm-long-term-personalization-2026]]
 
 ## Citation
 

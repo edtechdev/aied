@@ -20,7 +20,6 @@ confidence: medium
 
 ## Core Finding
 
-
 ## Why This Matters
 
 As [[generative-ai|generative AI]] floods EAP classrooms with instant, abundant feedback, the [[pedagogy|pedagogical]] question shifts from *obtaining* feedback to *processing* it. The paper argues that feedback becomes valuable only when learners can interpret, prioritize, and enact suggestions — a [[feedback|Feedback Loop]] that is cognitive rather than merely informational. Its central claim is that the value of AI in EAP writing should be framed as support for **organized feedback processing** rather than an expansion of feedback quantity.
@@ -54,37 +53,6 @@ As [[generative-ai|generative AI]] floods EAP classrooms with instant, abundant 
 - The second-review conditions are badly underpowered — 10 agents each (G3 n=10, G4 n=10) against 40 in the script and control groups — so the null result for the second-rater mechanism rests on unstable, imprecise estimates rather than a well-powered test.
 - Delayed retention is not established: the scripted group scored 76.00 versus 72.67 on Task 3, but the exact permutation test yielded p = 0.4000, and the Task 1 advantage weakened on the Task 2 transfer.
 - Measurement quality is high (ICC(2,1) = 0.9907; Cohen's κ = 0.992; argument-depth r = 0.8219) and the Task 1 script effect stayed positive under leave-one-out resampling (4.75–7.00), but the contribution is a mechanism clarified under controlled simulation conditions rather than classroom evidence.
-
-## Connected Concepts
-
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[language-learning]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[simulation]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[feedback-literacy]]
-- [[english-education]]
-
-## Connected Articles
-
-- [[ai-feedback-enactment-workflow-2026]]
-- [[ai-generated-feedback-higher-ed]]
-- [[feedback-futures-genai]]
-- [[care-full-feedback-genai]]
-- [[learner-centered-feedback-ai]]
-- [[sequenced-ai-feedback-learning]]
-- [[aiawe-automated-writing-evaluation]]
-- [[cyberscholar-genai-writing-feedback]]
-- [[ai-writing-support-stage-ownership-2026]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[valid-student-simulation-llm-2026]]
 
 ## Citation
 

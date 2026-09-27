@@ -42,16 +42,6 @@ This study provides a cognitive mechanism for the [[cognitive-offloading|Over-Re
 - Study 3 measured AI adoption immediately after the exposure phase, limiting conclusions about longer-term behavioral change.
 - The experiments did not directly control for participant motivation or incentives, and the binary AI-use variable is a rough proxy that does not capture how participants actually used AI.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[trust-calibration]]
-## Connected Articles
-
-- [[cognitive-shift-ai-education]]
 ## Citation
 
 Yu, S., Cheng, M., Jabbar, A., Sucholutsky, I., Collins, K. M., Jurafsky, D., & Hawkins, R. D. (2026). [The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks](https://arxiv.org/abs/2605.22687).

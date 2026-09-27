@@ -45,26 +45,6 @@ audience: [instructors, administrators]
 - Sentiment analysis returned 90% neutral responses, which the authors read as limited familiarity with ChatGPT, so the thematic evidence is dominated by undifferentiated sentiment.
 - All data come from two distance-learning courses at a single institution, Tecnológico de Monterrey, so curriculum and context effects cannot be separated from the tool.
 
-## Connected Concepts
-
-- [[biology-education]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[ai-literacy]]
-- [[active-learning]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[assessment]]
-
-## Connected Articles
-
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
-- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
-- [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
-
 ## Citation
 
 Elizondo-García, M. E., Hernández-De la Cerda, H., Benavides-García, I. G., Caratozzolo, P., & Membrillo-Hernández, J. (2025). [Who is solving the challenge? The use of ChatGPT in mathematics and biology courses using challenge-based learning](https://doi.org/10.3389/feduc.2025.1417642). *Frontiers in Education*, 10, 1417642.

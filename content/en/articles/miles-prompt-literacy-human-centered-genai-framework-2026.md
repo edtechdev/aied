@@ -42,19 +42,6 @@ audience: [instructors, instructional designers, faculty developers]
 - The process rubric presented in the paper is offered as a sample with three criteria, and the paper reports no reliability or validity evidence for it.
 - The five phases, the Prompt Literacy Cycle and the classroom activities have not been tested for effects on student learning; the authors state that empirical evaluation is currently underway.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[constructivist]]
-- [[critical-pedagogy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[human-ai-collaboration]]
-- [[metacognition]]
-- [[prompt-engineering]]
-
 ## Citation
 
 - Miles, A. J., Haber-Curran, P., & Arar, K. (2026). [Prompts to Practice: A Pedagogical Framework for Human-Centered AI Engagement](https://doi.org/10.55982/openpraxis.18.3.1191). *Open Praxis*, 18(3), 481-494.

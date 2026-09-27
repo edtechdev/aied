@@ -41,30 +41,6 @@ page_kind: [framework]
 - Sorting participants into four cases by experience and AI proficiency yields small cells, and the authors report that this design does not support robust comparative conclusions — findings should be interpreted with caution.
 - Data come from think-aloud planning sessions with ChatGPT (82 cord boxes) rather than enacted classroom lessons, and the study did not evaluate whether the AI-assisted lesson plans actually reflected student-centered instructional principles.
 
-## Connected Concepts
-
-- [[teacher-ai-competency]] — the knowledge and skills teachers need to integrate AI; this study shows they interact with experience
-- [[teacher-role]] — how teaching experience reshapes teachers' AI-mediated lesson-design role
-- [[learning-design]] — student-centered lesson design as the task context
-- [[human-ai-collaboration]] — AI as co-designer/partner versus tool
-- [[distributed-cognition]] — the theoretical lens for AI-dominant versus complementary distribution
-- [[tpack]] — Intelligent-TPACK survey used to measure AI proficiency
-- [[teacher-education]] — in-service professional development implications; differentiated support for integrating AI in lesson design
-- [[generative-ai]] — the ChatGPT tool under study
-- [[student-ai-interaction]] — parallel framing of interaction patterns (student side)
-- [[prompt-engineering]] — re-prompting and follow-up prompting as interaction strategies
-
-## Connected Articles
-
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — companion study of K-12 teachers' AI knowledge and interaction in lesson planning (I-TPACK)
-- [[teacher-ai-teaming-five-levels]] — teacher-AI teaming framework (transactional → synergistic)
-- [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK and multi-agent teacher workflows
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — pedagogical AI knowledge as the decisive layer
-- [[preservice-teacher-agency-genai-design-learning-2026]] — pre-service teacher agency during GenAI design-for-learning
-- [[learner-ai-interaction-patterns-oop]] — interaction patterns on the learner side
-- [[questionnaire-teachers-genai-uses-validation-2026]] — measurement of teachers' GenAI use
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — teachers' trust/distrust and Intelligent-TPACK
-
 ## Citation
 
 Choi, S., Jeong, S., Park, S., Kim, Y., & Han, I. (2026). [Analyzing teacher-AI interaction patterns across teacher experience and AI proficiency in student-centered lesson design](https://doi.org/10.1016/j.tate.2025.105266). *Teaching and Teacher Education, 169*, 105266.

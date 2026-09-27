@@ -31,25 +31,6 @@ sources: ['raw/papers/2606.09831.md']
 - Acoustic measures were derived from classroom audio alone, with no gaze, gesture, or spatial positioning data, so explanations of why loudness variation occurs remain inferential.
 - The unit of analysis was the individual teacher, which the authors note limits inferences about team-level coordination even though it establishes that experience-related acoustic differences are detectable.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[teacher-role]]
-- [[multimodal]] — acoustic features of classroom talk
-- [[professional-training]] — formative feedback on teaching practice
-- [[educational-development]] — improving teaching via automated analytics
-- [[teacher-ai-competency]] — AI-supported reflection on teaching
-- [[feedback]] — analytics feeding back to improve instruction
-- [[student-engagement]] — vocal modulation to foreground key information
-## Connected Articles
-
-- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
-- [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
-- [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
-- [[engagement-assessment-video]] — Video-based assessment of student engagement
-
 ## Citation
 
 Liu, Y., Martinez-Maldonado, R., Alfredo, R., Mejia-Domenzain, P., Rahayu, D., & Nawaz, S. (2026). [*AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design*](https://arxiv.org/abs/2606.09831).

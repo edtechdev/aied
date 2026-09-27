@@ -54,23 +54,6 @@ Post-lesson questionnaires on 5-point scales yielded 229 valid responses (93.5%)
 - Measurement covered immediate subjective evaluation alone: knowledge retention, transfer, and sustained viewing behavior were not measured, and no pre-/post-tests were run.
 - All items were created in-house with reliability coefficients, factor analysis, and scale validity left unverified, so results are self-assessed differences on individual items rather than construct-level changes such as ARCS attention or germane load.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[personalized-learning]]
-- [[pedagogical-llm-training]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[learning-design]]
-- [[language-learning]]
-- [[storytelling-in-education]]
-- [[speech-and-voice-technologies]]
-## Connected Articles
-
-- [[ai-generated-slides-student-perception]]
-- [[instructional-agents-multi-agent-course-gen]]
 ## Citation
 
 Kumoi, G., Watanabe, F., Suko, T., Ishida, T., et al. (2026). [A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential](https://arxiv.org/abs/2607.12235).

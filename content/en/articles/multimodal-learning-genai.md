@@ -146,32 +146,6 @@ The guide includes 15+ educator case studies spanning:
 - The environmental argument cannot be quantified: the guide notes precise energy costs for different GenAI platforms are very difficult to extract from their producers and suppliers, so it demonstrates only that multimodal generation uses substantially more energy than text, not how much.
 - The evidence base ages quickly and the guide says so: GenAI advanced even during final editing (it reports GPT-5's release in that window), and its cases were gathered from self-selected practitioners already using GenAI, so they document early adopters rather than typical practice.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[educational-development]]
-- [[formative-assessment]]
-- [[human-in-the-loop-ai]]
-- [[metacognition]]
-- [[pedagogical-llm-training]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[authentic-assessment]]
-- [[multimodal]]
-- [[universal-design-for-learning]]
-- [[learning-design]]
-- [[human-ai-collaboration]]
-## Connected Articles
-
-- [[syal-multimodal-dialogue-stem-2026]] — Multimodal AI Tutoring in STEM
-- [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
-- [[finkelstein-principled-ai-education-2025]] — Principled AI in Education
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
-- [[agentic-workflows-education]] — Agentic Workflows in Education
 ## Citation
 
 Varga-Atkins, T., Saunders, S., Beckingham, S., Hartley, P., Keshishi, N., Lacković, N., et al. (2026). [*Multimodal Learning with Generative AI*](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf).

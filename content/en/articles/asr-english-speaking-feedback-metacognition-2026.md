@@ -44,23 +44,6 @@ The study surveyed undergraduates at a teacher-training university in China who 
 - **ASR treated partly as monolithic** — the unique contributions of specific design elements are modeled but not isolated experimentally.
 - **Self-reported measures** of proficiency, motivation, and speaking gains, with proficiency grouped into coarse CEFR-based bands, may introduce measurement imprecision.
 
-## Connected Concepts
-
-- [[language-learning]] — the instruction domain the ASR tools target
-- [[feedback]] — corrective feedback quality is the study's central driver
-- [[metacognition]] — reflection tasks operationalize metacognitive strategy use
-- [[self-regulated-learning]] — reflective behavior mediates between tool input and speaking gains
-- [[intelligent-tutoring]] — direct design implications for automated feedback systems
-- [[personalized-learning]] — proficiency-based adaptation of feedback complexity
-- [[adaptive-learning]] — scaffolding that changes with learner readiness
-- [[student-engagement]] — intrinsic motivation as a sustaining mechanism
-- [[speech-and-voice-technologies]]
-## Connected Articles
-
-- [[ai-interlocutor-l2-spoken-dialogue]] — AI interlocutors for L2 spoken dialogue practice
-- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM companions and self-regulated learning
-- [[ai-guided-learning-audiovideo-2026]] — AI-guided audio-video learning support
-
 ## Citation
 
 Chen, D., Zeng, L., Ou, W., & Zhong, S. (2026). [ASR Technology in College English Speaking Instruction: The Role of Feedback Internalization and Metacognitive Strategies](https://doi.org/10.3389/fpsyg.2026.1847238). *Frontiers in Psychology, 17*, 1847238.

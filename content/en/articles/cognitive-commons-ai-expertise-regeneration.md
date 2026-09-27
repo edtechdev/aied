@@ -56,28 +56,6 @@ AI also transforms classical under-investment in general human capital into a *r
 - The framework assumes a particular cultural model of professional formation — expertise built through entry-level employment in hierarchical organizations and governed by formal credentialing — which the authors say "does not exhaust the ways human expertise has been or can be transmitted"; apprenticeship, guild, and community-based arrangements may show different commons dynamics.
 - The second depletion mechanism (augmentation without internalization) is undetectable in the employment data the framework leans on, and the qualitative evidence that would test it does not yet exist.
 
-## Connected Concepts
-
-- [[ai-misuse-learning-harm]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[distributed-cognition]]
-- [[generative-ai]]
-- [[governance]]
-- [[human-ai-collaboration]]
-- [[lifelong-learning]]
-- [[professional-training]]
-- [[theory-development-aied]]
-
-## Connected Articles
-
-- [[genai-expertise-pathways-sysadmin]] — Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration
-- [[chatgpt-impact-high-school-tests]] — Little Impact of ChatGPT Availability on High School Student Test Score Performance
-- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
-- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
-- [[ai-making-us-stupid]] — Is AI making us stupid?
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-
 ## Citation
 
 Lovett, N. (2026). [The tragedy of the cognitive commons: How AI could disrupt the regeneration of professional expertise. *Human Resource Development Review*, advance online publication](https://doi.org/10.1177/15344843261470602).

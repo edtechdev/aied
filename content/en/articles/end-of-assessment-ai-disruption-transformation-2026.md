@@ -44,29 +44,6 @@ A central transformation claim is that assessment shifts from extracting scores 
 - The one concrete case, the Generative AI in Assessment Community of Practice, is a self-selected closed cohort of roughly 80 members (plus about 130 affiliates) in its first year, which the authors describe as "still evolving" — it illustrates a field in transition rather than reporting outcomes.
 - The bias argument rests on cited examples rather than the authors' own data, such as the finding they attribute to Yang (2025) that AI image generators represent White individuals more accurately than people of color.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[psychometrically-aware-ai]]
-- [[educational-measurement]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[human-ai-collaboration]]
-- [[ai-feedback-quality]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[llm]]
-- [[item-response-theory]]
-
-## Connected Articles
-
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world
-- [[ai-assessment-scale-reform]] — AI Assessment Scale and reform
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
-
 ## Citation
 
 Hathcoat, J. D., Slotnick, R., & Miller, W. (2026). *[The End of Assessment? Disruption and Transformation in the Age of AI](https://www.rpajournal.com/the-end-of-assessment-disruption-and-transformation-in-the-age-of-ai/)*. Research & Practice in Assessment, 21(3).

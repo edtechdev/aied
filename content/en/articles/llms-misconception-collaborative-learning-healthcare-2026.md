@@ -37,16 +37,5 @@ level: [higher ed]
 - Implementation depends on an institutional pre-trained LLM chatbot and on uploading anonymized student examination answers and lecture notes, which adds data-governance requirements to the workflow.
 - The authors flag LLM vulnerabilities as a key limitation of the pedagogical method, noting that adversarial-attack testing or encryption specific to LLM modalities has yet to be explored.
 
-## Connected Concepts
-- [[refutation-text]]
-- [[misconceptions]]
-- [[collaborative-learning]]
-- [[medical-education]]
-- [[critical-thinking]]
-
-## Connected Articles
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — Personalized AI dialogue for misconception correction
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Expert/AI conceptual change text vs. AI dialogue
-
 ## Citation
 Cheah, B. C. J., Shorey, S., Ch'ng, J. H., & Tan, C. W. (2026). [*Implementing large language models to support misconception-based collaborative learning in health care education*](https://doi.org/10.2196/81875). JMIR Medical Education, 12, e81875.

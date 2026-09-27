@@ -50,28 +50,6 @@ The framework is extended to a traditional, non-adaptive domain. Whole-number bi
 - The decimal evidence is a secondary analysis: the 13 datasets in which 84%–88% of comparison errors aligned with whole-number bias are a theory-grounded exploratory application, not a direct empirical test of deceptive overgeneralization in K–12 mathematics.
 - Remediation showed immediate effects only — misapplication fell to 0.0%–23.1% within the ITS — with no delayed retention or transfer measured beyond the remediation sequence, and the fixed item order (detector items always after ample non-diagnostic cases) may differ from organic instructional sequencing.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[mastery-learning]]
-- [[student-modeling]]
-- [[learning-theories]]
-- [[transfer-of-learning]]
-- [[misconceptions]]
-- [[feedback]]
-- [[k-12]]
-
-## Connected Articles
-
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
-- [[neural-symbolic-knowledge-tracing]] — Injecting mastery/non-mastery rules into deep learning learner modeling
-- [[stanbkt-bayesian-knowledge-tracing]] — Standardized Bayesian knowledge tracing
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive through mastery-based math practice
-- [[genai-performance-vs-learning]] — The performance-vs-learning distinction in generative AI
-- [[correct-answer-trap-misconceptions]] — The correct answer trap and misconceptions in ITS
-
 ## Citation
 
 An, M., McLaren, B. M., & Stamper, J. (2026). [Deceptive overgeneralization: When adaptive learning enables systematic misapplication](https://doi.org/10.1002/jcal.70311). *Journal of Computer Assisted Learning, 42*, e70311.

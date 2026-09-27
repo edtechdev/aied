@@ -47,18 +47,6 @@ This study addresses a persistent gap in [[k-12]] [[ai-education|AI education]]:
 - Biology knowledge gains were not statistically significant (p = 0.21), and the transfer–explanation link came from qualitative analysis of 76 worksheet answers (κ = 0.88) that the authors say needs further quantitative testing.
 - A single instructor with over ten years of biology teaching experience and six weeks of summer AI training delivered all four lessons, so instructor effects cannot be separated from the design.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[k-12]]
-- [[biology-education]]
-- [[stem-education]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[transfer-of-learning]]
-- [[active-learning]]
-- [[ai-ed-evaluation]]
-
 ## Citation
 
 Zha, S., Maulucci Bragdon, M., Gong, N., Wang, J., Leavesley, S., Eaton, R., & Bosarge, E. (2025). [*A case study of integrating AI literacy education in a biology class*](https://doi.org/10.1007/s40593-025-00476-8). *International Journal of Artificial Intelligence in Education*, 35, 2453–2477.

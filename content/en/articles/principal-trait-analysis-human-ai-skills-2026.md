@@ -44,26 +44,6 @@ page_kind: [evaluation, framework]
 - On the knowledge-component definition of a skill — improvement with practice along a learning curve plus generalization across tasks — the temporal analysis found mostly flat trait trajectories, with only the *conceptual understanding orientation* trend rising and that confounded by later, more complex assignments.
 - Every stage is LLM-generated (behavior observations, trait naming, and 1–5 Likert trait scoring by an LLM-as-judge), no human validation of the derived traits is reported, and the authors note that some contradictory findings may stem from overly aggressive semantic clustering merging distinct behaviors.
 
-## Connected Concepts
-
-- [[human-ai-collaboration]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[self-regulated-learning]]
-- [[learning-analytics]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset used by PTA's educational evaluation
-- [[chat-debugging-human-ai-collaboration-circuits]] — Human–AI collaboration in debugging
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — Human-centered AI metacognitive models
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner for co-regulated learning
-- [[genai-mindtool-generative-learning]] — GenAI as a mindtool for generative learning
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Collaborative problem-solving modes with AI
-
 ## Citation
 
 McNichols, H., Du, K., & Lan, A. (2026). [*Principal Trait Analysis: Towards Deriving "Skills" in Human-AI Collaboration*](https://arxiv.org/abs/2608.11460). [cs.CL]. https://doi.org/10.48550/arXiv.2608.11460

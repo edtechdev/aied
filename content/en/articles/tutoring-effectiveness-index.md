@@ -17,7 +17,6 @@ methods: [benchmark]
 
 ## What It Is
 
-
 ## How It Works
 
 TEI combines four signals computed during decoding with fixed weights:
@@ -73,32 +72,6 @@ es and sizes?
 - The Schoenfeld verification signal is regex-derived and surface-level: a GPT-4o-mini paragraph classifier disagrees with it on more than half of paragraphs.
 - The four TEI weights are fixed a priori from theory, and the Helpful and leak rates are LLM-judge metrics that inherit same-model bias; the primary outcome (Δ Solve Rate) does not.
 
-## Connected Concepts
-
-- [[socratic-method]]
-- [[automated-question-generation]]
-- [[ai-ed-evaluation]]
-- [[open-source]]
-- [[pedagogical-llm-training]]
-- [[automated-assessment]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[reinforcement-learning]]
-- [[llm]]
-- [[math-education]]
-
-## Connected Articles
-
-- [[learning-by-chatting-genai-impact]]
-- [[aaai2026-prompting-literacy-k12]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[access-not-enough-ai-tutoring-2026]]
-- [[adaptive-pretesting-retention]]
-- [[agent-voice-accents-k12-group-learning]]
-- [[agentic-ai-education-scoping-review]]
-- [[agentic-ai-pedagogical-best-practice-2026]]
-- [[agentic-workflows-education]]
-- [[agents-that-teach-incidental-learning]]
 ## Citation
 
 Shim, J., & Lee, U. (2026). [The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals](https://arxiv.org/abs/2605.30666).

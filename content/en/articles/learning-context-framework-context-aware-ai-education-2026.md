@@ -37,23 +37,6 @@ page_kind: [framework]
 - Vignette 4's pilot exposes an observability gap in the framework's own data: misconception recovery reached 91.4% and anxiety 100%, but conscientiousness recovered at only 68.6% and language proficiency at 60%, so key intended context signals are not reliably observable from dialogue alone.
 - The stated deployment thresholds (Cohen's d ≥ 0.20 on primary learning outcomes and ≥ 95% accuracy in classifying learner states against ground-truth measures) are proposed go/no-go criteria deferred to future efficacy trials; neither had been met or tested when the paper was written.
 
-## Connected Concepts
-
-- [[ai-education]] — the umbrella field
-- [[student-modeling]] — the learner-modeling foundation
-- [[personalized-learning]] — the goal context-aware AI serves
-- [[adaptive-learning]] — a downstream application of learner context
-- [[human-ai-collaboration]] — context-aware AI as a collaborative partner
-- [[learning-analytics]] — the data layer for learner context
-- [[cognitive-offloading]] — a risk context-aware design should mitigate
-- [[motivation]] — an affective factor encoded in LC
-- [[self-regulated-learning]] — long-term learner context for regulation
-
-## Connected Articles
-
-- [[banihashem-ai-srl-systematic-mapping-review-2025]] — AI and self-regulated learning mapping
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Adaptive learning and feedback for SRL
-
 ## Citation
 
 Liu, N., Bradford, B., Hatchett, J., Diaz, G., Luzi, L., Wang, Z., Basu Mallick, D., & Baraniuk, R. (2026). [*Learning context: A unified framework and roadmap for context-aware AI in education*](https://arxiv.org/abs/2512.24362).

@@ -71,34 +71,6 @@ The proposed research agenda follows the same separation logic: develop a situat
 - The update was structured and seeded rather than a de novo database-wide search, so scales published outside those retrieval paths may be missing, and the coverage map is one author's interpretive classification with no independent duplicate coding or new COSMIN appraisal.
 - The AICOS-S source reports r = .05 with p = .11 at a reported N = 2,131, a discrepancy the author discloses rather than resolves; an unadjusted Pearson test at that N would give p ≈ .021, so the weighting of the largest effect is uncertain.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[self-report-measures]]
-- [[meta-analysis-systematic-review]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[human-in-the-loop-ai]]
-- [[professional-training]]
-- [[trust]]
-- [[agentic-ai]]
-- [[psychometrically-aware-ai]]
-- [[item-response-theory]]
-
-## Connected Articles
-
-- [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
-- [[xiong-ai-educational-measurement-review-2026]] — A Decade of Reflection and Thematic Review on Artificial Intelligence's Impact on Educational Measurement
-- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education
-- [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)
-- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Understanding Student Dependency on AI: The Role of AI Literacy, Academic Self-Efficacy, and Resource Management Strategies
-- [[cognitive-offloading-metacognitive-review-2026]] — Meta-Cognitive Insights into Cognitive Offloading: Mechanisms, Interventions, and Educational Implications
-- [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education
-- [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
-
 ## Citation
 
 Verí, D. (2026). [*Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use*](https://arxiv.org/abs/2609.15624). arXiv preprint.

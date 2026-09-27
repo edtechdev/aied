@@ -52,29 +52,6 @@ Pedagogical Symbiosis contributes a [[philosophy-of-ai-in-education|philosophica
 - The model addresses a universal K-16 audience while conceding that learners from under-resourced settings may need additional scaffolding at every stage and that learners with cognitive disabilities may require modified expectations; no evidence shows how the stages behave in those contexts.
 - Equity and access gaps, data sovereignty and privacy, and institutional implementation inertia are named as challenges the framework does not itself resolve.
 
-## Connected Concepts
-
-- [[learning-theories]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[embodied-learning]]
-- [[constructivist]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[digital-divide]]
-
-## Connected Articles
-
-- [[posthumanist-ai-literacy-2025]] — Posthumanist AI literacy
-- [[ensemble-cognition-philosophy-ai-education]] — Toward a philosophy of ensemble cognition
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Learning with machines: epistemic co-agency
-- [[cognitive-shift-ai-education]] — The cognitive shift in AI education
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulated learning
-- [[human-ai-collaboration-trust-expectations]] — Human-AI collaboration: trust and expectations
-
 ## Citation
 
 Elsayed, A. S. A. (2026). [*Pedagogical Symbiosis: conceptualizing the Post-Human Learner in the age of cognitive AI*](https://doi.org/10.1080/2331186X.2026.2699020). *Cogent Education*, 13(1), 2699020. doi:10.1080/2331186X.2026.2699020.

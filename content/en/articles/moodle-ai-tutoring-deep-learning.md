@@ -49,21 +49,6 @@ Unlike [[stanford-evidence-base-ai-k12-2026]] debates about specialized tutors, 
 - The shift from "surface learning" to deep conceptual understanding is the system's design goal, not a tested result: the automated scores (Ragas LLM-as-a-judge faithfulness of 0.97 and 0.98) judge grounding rather than correctness, and the human side measured usability and perceived utility rather than understanding.
 - All configuration findings come from one deployment on a single Moodle server using NLP and Machine Learning course notes and three specific models (Gemini Flash 2.0, GPT-4o-mini, Llama 3.1), so the optimal chunk size and temperature may not transfer to other courses or models.
 
-## Connected Concepts
-
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[edtech-platform]]
-- [[higher-ed]]
-## Connected Articles
-
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[becerra-aicofe-feedback-2026]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[pedagogy-ai-mistakes]]
 ## Citation
 
 Ostrowska, A., Kukla, M., Majstrak, G., Opala, J., Pergała, S., Skwarek, J., & Wróblewska, A. (2026). [*From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle*](https://arxiv.org/abs/2605.06963).

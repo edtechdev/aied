@@ -33,23 +33,6 @@ This approach represents a novel intersection of LLM benchmarking and [[assessme
 - Predictions may reflect biases in the source datasets, the selected reasoning models and the episode-labeling pipeline, and may be unreliable outside the evaluated domains.
 - The SAT Question Bank sets excluded figure-dependent items, so the reported gains do not extend to items that require figures, and robustness across additional assessment domains, reasoning models and item formats is left to future work.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[higher-ed]]
-- [[transfer-of-learning]]
-- [[knowledge-tracing]]
-- [[item-response-theory]]
-- [[cognitive-diagnosis]]
-
-## Connected Articles
-
-- [[huang-interpretable-knowledge-tracing-2026]]
 ## Citation
 
 Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao (2026). [Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction](https://arxiv.org/abs/2606.28186). Computation and Language (cs.CL).

@@ -60,28 +60,6 @@ The two education-specialized models, among the strongest education-oriented sys
 - Open-ended tasks (instructional quality, safe redirection, educational generation) are scored by rubric-based LLM judging, which is calibrated (mean κ = 0.83) but remains imperfect.
 - Module sizes are uneven by design, so module scores are not directly comparable, and the Safety module measures behavior against one education-oriented specification that includes region-specific content, so its result is interpretable only within that deployment context.
 
-## Connected Concepts
-
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
-- [[generative-ai]]
-- [[llm]]
-- [[intelligent-tutoring]]
-- [[research-methods-aied]]
-- [[educational-measurement]]
-
-## Connected Articles
-
-- [[teachbench-llm-teaching-evaluation]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[ai-tutor-behavioral-evaluation]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[nsmq-riddles-science-math-benchmark]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[knowledge-distillation-ai-tutor-evaluation]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-
 ## Citation
 
 Jiang, Y., Zhu, X., Tan, F., Zhang, Z., Huang, K., Yu, Y., Fei, Z., Luo, Y., Li, K., Hao, H., Zhai, G., & Zhou, A. (2026). [*ELBench: A multi-dimensional benchmark for education-facing large language models*](https://arxiv.org/abs/2608.09548).

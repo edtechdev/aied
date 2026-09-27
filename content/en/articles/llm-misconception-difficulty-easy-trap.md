@@ -35,31 +35,6 @@ This [[research-methods-aied|research]] connects to the growing body of work on 
 - The analysis rested on only 32 arithmetic items — 5 number-operation, 10 integer, 11 fraction, 4 decimal, and 2 exponent/root items — and the clearest evidence of systematic underestimation came from 11 fraction items.
 - Model difficulty came from 640 ratings (4 models × 5 repetitions × 32 items), a snapshot tied to specific model versions and prompts.
 - Prompting deliberately withheld misconception information to mirror everyday educator use, so the study cannot show whether richer prompts would remove the bias.
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[personalized-learning]]
-- [[student-experience]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[edtech-platform]]
-- [[stem-education]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[misconceptions]]
-- [[llm]]
-- [[math-education]]
-
-## Connected Articles
-
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-- [[llm-student-misconception-identification]] — What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics
-
 ## Citation
 
 Amanda La Hadi, Muhammad Johan Alibasa, Guanliang Chen, A. Taufiq Asyhari (2026). [The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty](https://arxiv.org/abs/2607.26067). EDM 2026 (Educational Data Mining Conference).

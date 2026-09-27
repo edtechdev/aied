@@ -69,23 +69,6 @@ The authors' recommendations center on course-level [[educational-policy-ai|poli
 - The reported cluster sizes are proportions of documents rather than of evidence: pedagogical implementation 0.19 (13 documents), student-centered learning and engagement 0.49 (34), AI infrastructure and human-AI collaboration 0.23 (16), and assessment, prompting, and model evaluation 0.09 (6).
 - The analysis measures published discourse through term frequencies, bigram and trigram patterns, and topic models, so it cannot show whether structured ChatGPT use improved student outcomes; the performance figures it repeats (a 0.91 grading correlation with instructors, a grading-time reduction of over 75 percent) come from the primary studies it reviews, not from this analysis.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[hallucination-risk]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[llm]]
-## Connected Articles
-
-- [[shame-guilt-ai-regulation-computing-education]] — Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education
-- [[eduguard-safe-rag-llm-tutor]] — EduGuard: A Safe RAG-Based LLM Tutor for Programming Education
-- [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
-- [[chatgpt-impact-high-school-tests]] — Little Impact of ChatGPT Availability on High School Student Test Score Performance
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning
-- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
-
 ## Citation
 
 Grume et al. (2026). [Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education](https://arxiv.org/abs/2605.00361). Pedagogical Innovations in CS Education (IGI Global).

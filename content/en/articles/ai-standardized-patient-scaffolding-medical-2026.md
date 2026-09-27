@@ -62,34 +62,5 @@ The authors advance "functional complementarity" as the organizing model: AI age
 - Within the multi-agent arm, weighted checklist scores fell from learning session 1 to session 2 by an average of 14.4 percentage points (median −4.5) across 46 participants, so learning trajectories were heterogeneous rather than uniformly positive.
 - Survey completion was partial (about 78% for the SUS and 58% for the UES), annotation agreement was weak for need-for-scaffolding (κ = 0.56) and progressive disclosure (κ = 0.31), and the phenotype clustering, trajectory analysis and process–survey correlations were exploratory. There was no delayed follow-up, so persistence and [[transfer-of-learning|transfer]] to higher-stakes settings remain unknown, and it is open whether [[scaffolding]] should be faded to protect independent interviewing and reasoning from [[trust-calibration|prompt dependence]].
 
-## Connected Concepts
-- [[medical-education]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[simulation]]
-- [[socratic-method]]
-- [[formative-assessment]]
-- [[intelligent-tutoring]]
-- [[human-ai-collaboration]]
-- [[assessment-validity]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-llm-training]]
-- [[rct]]
-- [[simulating-students]]
-- [[feedback]]
-
-## Connected Articles
-- [[medeasy-ai-standardized-patients]] — MedEasy: Designing AI Standardized Patients for Clinical Consultation Training
-- [[genai-simulate-patient-history-pbl-2026]] — Using Generative AI to Simulate Patient History-Taking in a Problem-Based Learning Tutorial: A Mixed-Methods Study
-- [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education
-- [[ai-teammate-task-distribution-medical-training-2026]] — AI as Teammate: Rethinking Task Distribution in Medical Training
-- [[wang-multi-agent-systems-learning-designers-2025]] — Multi-Agent Systems for Instructional Design
-- [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring
-- [[genai-scenario-based-healthcare-education-2026]] — Generative AI in Scenario-Based Healthcare Education: A Systematic Review of Applications, Validation Practices, and Pedagogical Integration
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — Implementing LLMs to Support Misconception-Based Collaborative Learning in Health Care Education
-- [[ai-use-critical-thinking-medical-students-2026]] — From AI Use to Critical Thinking Among Medical Students: A Moderated Mediation Perspective on Cognitive Load and Self-Regulated Learning
-
 ## Citation
 Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., & Lu, L. (2026). [Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training](https://arxiv.org/abs/2609.10939). arXiv preprint arXiv:2609.10939.

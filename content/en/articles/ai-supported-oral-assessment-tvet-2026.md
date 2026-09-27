@@ -67,38 +67,6 @@ What the work contributes is nonetheless specific: a method for voice assessment
 - Speech-to-text accuracy was not fully tested across a range of learner accents, and multilingual capture has been demonstrated for English, Korean and Mandarin Chinese but has not yet reached class deployments. Cultural context has been designed and tested for observer modes in long-form presentations but not with learners in assessment; a narrative audio study comparing AI and teacher judgment is planned for late 2026.
 - The most natural spoken interaction needs gaming-oriented hardware rather than the mid-range laptops used: the assessor laptop must stay mains-powered to sustain a naturally paced Socratic dialogue, and text-to-speech quality is constrained by graphics memory.
 
-## Connected Concepts
-
-- [[authentic-assessment]]
-- [[oral-assessment]] — Oral Assessment
-- [[assessment]]
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[human-in-the-loop-ai]]
-- [[multilingual-learning]]
-- [[privacy]]
-- [[design-thinking]]
-- [[professional-training]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[socratic-method]]
-- [[llm]]
-- [[culturally-relevant-pedagogy]]
-- [[regulation]]
-- [[speech-and-voice-technologies]]
-## Connected Articles
-
-- [[ai-vocational-education-training-review]] — Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness
-- [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments: Enhancing Integrity, Engagement, and Communication in the AI Era
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future
-- [[socratic-tests-conversational-assessment]] — The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World
-- [[kutti-ai-voice-first-learning-companion]] — Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children
-- [[dollinger-equitable-assessment-ai-2026]] — Reimagining Success and Failure: Equitable Assessment Practices in an Age of Artificial Intelligence
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[sovereign-hive-titl-further-education-2026]] — Atmospheric Regulation in the Age of Generative AI: The Sovereign Hive and the Tutor-in-the-Loop (TITL) Framework for Equity in Further Education
-
 ## Citation
 
 Adams (2026). [*Designing AI-Supported Oral Assessment in TVET*](https://osf.io/preprints/edarxiv/2meud_v1/). EdArXiv Preprints.

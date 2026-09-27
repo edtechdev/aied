@@ -42,34 +42,6 @@ audience: [administrators, assessment professionals, instructors]
 - The 55 humanizer sites were found through Google searches, which the authors chose for ecological validity, and no data were collected on how students actually reach these sites, leaving social media, word of mouth, and messaging channels unmeasured.
 - Sites were constantly changing, updating, or disappearing — several became inaccessible during data collection — which the authors name as a barrier to replicability, and the deep analysis covered 3 of the 55 sites, so the findings are not easily generalizable.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[ai-misuse-learning-harm]]
-- [[ai-use-disclosure]]
-- [[trust]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[karr-ai-detection-humanization-2026]] — Why AI Detection Fails for Academic Integrity: quantifies humanizer evasion (FNR >96%)
-- [[bassett-ai-detectors-education-2026]] — Heads We Win, Tails You Lose: AI Detectors in Education
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond Detection: How Students Use—and Hide—AI in Online Assessments and What Authentic Tasks Can Do About It
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World
-- [[student-rationalization-ai-writing]] — "It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing
-- [[detecting-llm-generated-text-latent-prompt]] — Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration
-- [[llm-detecting-llm-generated-content-education]] — Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content
-- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — Cheating or not cheating? Rethinking AI-giarism and academic integrity through secondary students' ethical reasoning
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — A Comprehensive Review of the Changing Landscape of Academic Dishonesty in Automated Proctoring in the Era of Artificial Intelligence
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference
-
 ## Citation
 
 Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). [*Dramaturgies of deception: AI humanizers and the performance of legitimacy in higher education assessment*](https://arxiv.org/abs/2605.02649). *Preprint, arXiv*.

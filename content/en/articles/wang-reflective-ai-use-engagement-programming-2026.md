@@ -62,20 +62,6 @@ The Copilot branch coded 66 nonblank Critical Engagement responses on a four-lev
 - **The data-traced strand measures no AI use at all.** The DTA logs carry no AI-assistant signal, so the trace branch cannot validate the survey's reflective-use claims; the authors present it as complementary behavior evidence, not confirmation.
 - **The trace models sat near or below conventional fit thresholds.** The authors report the trace and item-level models as weak and boundary-setting, so [[learning-analytics|learning analytics]] results here should be read as exploratory rather than confirmatory.
 
-## Connected Concepts
-
-- [[technology-acceptance-model]] — acceptance as a precondition, distinct from reflective use
-- [[student-engagement]] — the outcome construct across all three strands
-- [[self-regulated-learning]] — monitoring and revising AI suggestions
-- [[metacognition]] — reflective AI use as metacognitive feedback engagement
-- [[critical-thinking]] — evaluating and revising AI-generated suggestions
-
-## Connected Articles
-
-- [[ai-tutor-statistical-programming-adoption-2026]] — Student Adoption of an AI Tutor for Statistical Programming
-- [[wang-goal-setting-ai-engagement-2026]] — Explaining Learning Engagement in AI-Assisted Learning
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Structured Reflection on AI-Driven Explanatory Feedback
-
 ## Citation
 
 Wang, S., & Zhao, J. (2026). [*Reflective AI use and student engagement in AI-supported programming: technology acceptance, programming self-efficacy, and behavioral trace evidence*](https://doi.org/10.3389/fpsyg.2026.1929887).

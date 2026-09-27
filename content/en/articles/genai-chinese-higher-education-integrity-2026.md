@@ -45,22 +45,6 @@ confidence: high
 - All participants came from one province (Jiangxi), chosen partly because it is a researcher's home region with convenient local contacts, and the interviews ran only from December 2024 to January 2025.
 - The evidence is participants' accounts of their own thinking and conduct rather than any measured change in critical thinking or integrity, so the cognitive-inertia finding is perceptual rather than demonstrated.
 
-## Connected Concepts
-
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[agency]]
-- [[higher-ed]]
-- [[philosophy-of-ai-in-education]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-
-- [[critical-genai-use-predictors]] — Predictors of critical GenAI use
-- [[genai-impact-chinese-students-hss]] — GenAI impact on Chinese humanities and social science students
-- [[rudolph-ai-myths-critical-higher-ed]] — AI myths and critical higher education
-- [[students-llm-usage-critical-thinking]] — Student LLM use and critical thinking
-
 ## Citation
 
 Bai, L., & Costa, C. (2026). [*Navigating the challenges of Gen-AI in Chinese higher education: Balancing technological innovation with academic integrity and intellectual engagement*](https://doi.org/10.1016/j.caeo.2026.100397). *Computers and Education Open*, 100397. https://doi.org/10.1016/j.caeo.2026.100397

@@ -44,28 +44,6 @@ This is a Brief [[research-methods-aied|Research]] Report presenting the PAIRR m
 - [[educational-policy-ai|AI policies]] vary substantially across institutions and courses, as the authors note.
 - The applicability of the model across different writing courses and contexts is discussed as future work rather than empirically demonstrated here.
 
-## Connected Concepts
-
-- [[ai-feedback-quality]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[peer-assessment]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[language-learning]]
-
-## Connected Articles
-
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR): A Human-Centered Approach
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback
-- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
-- [[student-rationalization-ai-writing]] — "It's OK Because...": The Wild West of Student Rationalization
-- [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing
-
 ## Citation
 
 MacArthur, M., Minnillo, S., Sperber, L., Whithaus, C., & Stillman, N. (2025). [*GIFT-AI: Teaching the game and leveling the field: Peer and AI Review + Reflection in a business writing course*](https://doi.org/10.3389/fcomm.2025.1615752).

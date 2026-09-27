@@ -42,27 +42,6 @@ The study targets a known failure of accuracy-focused recommenders: students wit
 - **No human-centered bias auditing:** no instructor/student evaluation was conducted, so interpretability and trust claims remain model-centric and technical.
 - **What the evaluation does not capture:** only short-range item→precedes→item edges within a single course are modeled, so multi-semester trajectories, cross-course relationships and contextual shifts are out of scope; and substantial catalog-level popularity bias persists despite GroupDRO and exposure-based regularization, as the high Gini exposure metrics show.
 
-## Connected Concepts
-
-- [[human-in-the-loop-ai]]
-- [[personalized-learning]]
-- [[equity-in-ai-education]]
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[privacy]]
-- [[knowledge-graph]]
-- [[bias-mitigation]]
-- [[learning-analytics]]
-- [[recommender-systems-and-learning-paths]]
-## Connected Articles
-
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
-- [[raza-farooq-aied-review-2020-2025]] — Review of Artificial Intelligence in Education from 2020 to 2025
-- [[self-referential-l2-writing-llm-assessment]] — Toward Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
-- [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques
-- [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
-
 ## Citation
 
 Evangelista, E., & Bukhari, S. M. S. (2026). [*Fair and explainable educational recommendations with a hybrid Graph-GRU framework*](https://doi.org/10.1016/j.caeai.2026.100643).

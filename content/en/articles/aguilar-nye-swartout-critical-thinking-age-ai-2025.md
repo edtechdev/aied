@@ -74,30 +74,6 @@ Use concentrates in preparation. Among teachers using AI, 53.0% created assignme
 - The ABE evidence is an acceptance and perception study, with no comparison condition and no outcome measure for [[critical-thinking|critical thinking]]; the report itself asks whether the benefits transfer.
 - The teacher survey is a cross-sectional snapshot of 1,505 self-selected respondents in five countries, so country differences are confounded with sampling and context.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[critical-thinking]]
-- [[help-seeking]]
-- [[ai-literacy]]
-- [[llm]]
-- [[scaffolding]]
-- [[self-efficacy]]
-- [[metacognition]]
-- [[trust]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[feedback]]
-- [[technology-acceptance-model]]
-
-## Connected Articles
-
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — instrumental versus executive help-seeking with LLMs
-- [[ai-fallibility-warning-help-seeking]] — help-seeking in an AI-supported tutor
-- [[coach-not-crutch-ai-writing]] — coaching rather than shortcutting in AI-supported writing
-- [[teacher-ai-adoption-confidence]] — teacher confidence, concerns, and institutional support
-- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback for critical thinking and writing proficiency
-
 ## Citation
 
 Aguilar, S. J., Nye, B., Swartout, W. R., Macias, A., Xing, Y., & Xiu, R. (2025). [*Fostering Critical Thinking in the Age of AI*](https://doi.org/10.35542/osf.io/wr6n3_v2). A report from the USC Center for Generative AI and Society, Summer 2025. Research-center report (not peer-reviewed).

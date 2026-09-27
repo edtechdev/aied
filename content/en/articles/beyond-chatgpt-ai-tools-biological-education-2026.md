@@ -50,28 +50,6 @@ AI has transformed biological research — from AlphaFold's protein-structure pr
 - Longitudinal evidence is scarce: the review reports limited research on AI's long-term impact on student retention, comprehension, and career outcomes in biology.
 - Several included studies lacked a control group (for example, an AI-enhanced e-book study), and the authors identify fieldwork, authentic assessment, and the environmental cost of AI as gaps in the literature they reviewed.
 
-## Connected Concepts
-
-- [[biology-education]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[higher-ed]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[assessment]]
-- [[ethics]]
-- [[educational-policy-ai]]
-
-## Connected Articles
-
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant
-- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
-- [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
-
 ## Citation
 
 Cotton, P. A., & Cotton, D. R. E. (2026). [Beyond ChatGPT: A review of the use of AI tools in biological education](https://doi.org/10.1080/00219266.2026.2628797). *Journal of Biological Education*. Advance online publication. **CC BY-NC-ND 4.0.**

@@ -40,22 +40,6 @@ audience: [instructional designers, instructors, institutions]
 - The ENA results describe discourse co-occurrence, not observed design behavior; the authors state that connections drawn from low or high co-occurrence are researcher inferences grounded in discourse patterns.
 - Coding reliability was initially weak — low pre-moderation K-values for codes such as D.AUTO and I.E., which showed high raw agreement but disproportionately low kappa — and the binary aggregation used in the ENA model does not account for the intensity or repetition of connections within a unit of analysis.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[learning-design]]
-- [[self-determination-theory]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[curriculum-design]]
-- [[ai-ed-evaluation]]
-
-## Connected Articles
-
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for a GenAI-integrated future
-- [[jiang-genai-activity-theory-disciplines-2026]] — Generative AI across disciplines through activity theory
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-designed AI tutors and self-determination theory
-
 ## Citation
 
 Claassen, A., Ebbert, D., Kovanović, V., Mirriahi, N., & Dawson, S. (2026). Understanding the role of learning analytics and generative artificial intelligence on decision-making and learning design practice in higher education. *International Journal of Educational Technology in Higher Education, 23*, 43. [https://doi.org/10.1186/s41239-026-00619-4](https://doi.org/10.1186/s41239-026-00619-4)

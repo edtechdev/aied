@@ -40,22 +40,6 @@ A [[mixed-methods-research|mixed-methods]] survey of 81 introductory [[physics-e
 - **Entirely self-reported and cross-sectional.** Data collection fell in weeks 10–13, which precludes end-of-semester correlations and any causal claim; the gap between reported and actual verification behavior is described by the authors as the most significant limitation of the study.
 - **Single-item trust measure.** Trust was captured with one survey item rather than a validated multi-item scale, and the specific AI platform students used was not recorded.
 
-## Connected Concepts
-
-- [[physics-education]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[stem-education]]
-- [[self-report-measures]]
-
-## Connected Articles
-
-- [[becker-chatgpt-typology-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[socratic-ai-physics-tutor-taxonomy-2026]]
-
 ## Citation
 
 Fouad, E., & Bentley, I. (2026). [Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration](https://doi.org/10.1103/bdl1-6bn4).

@@ -42,25 +42,6 @@ The authors used a cross-sectional survey design with 480 undergraduate medical 
 - Data are self-report measures collected at a single time point, which raises common-method-bias concerns, and the moderated mediation effects are estimated from that single snapshot.
 - The sample is drawn from medical students in one national context (Pakistan), bounding generalizability to other disciplines, institutions and educational systems.
 - AI usage, cognitive load and self-regulated learning are all operationalized via standardized self-report instruments rather than objective behavioral measures.
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[critical-thinking]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[self-report-measures]]
-
-## Connected Articles
-
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
-- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
-- [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking
-- [[ai-availability-student-motivation]] — "Why Put in This Much Effort?": How AI Availability Shapes Students' Motivation
-- [[same-ai-different-pathways]] — Same AI, Different Pathways: Unpacking Mechanisms of AI-Mediated Learning
-- [[lodge-loble-cognitive-offloading-2026]] — Artificial Intelligence, Cognitive Offloading and Implications for Learning
-
 ## Citation
 
 Arshad, A., Lone, A., Arickswamy, L., Hassan, K., Alnaim, A. A., & AlFarhan, M. F. (2026). [*From AI use to critical thinking among medical students: A moderated mediation perspective on cognitive load and self-regulated learning*](https://doi.org/10.3389/fpsyg.2026.1883053).

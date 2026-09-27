@@ -45,27 +45,6 @@ Lowering the cost of asking makes asking easier — including for questions a le
 - Usefulness was conditioned on prior knowledge: qualitative feedback showed that Question Autocompletion's utility scaled with the learner's domain expertise, because the feature helps most when the underlying concepts are already understood.
 - The pen-based question answering ran through a Wizard-of-Oz procedure in which a human operator captured the sketched region and forwarded it to GPT-4o, so the measured experience reflects a facilitated pipeline rather than a fully deployed system.
 
-## Connected Concepts
-
-- [[llm]]
-- [[help-seeking]]
-- [[self-directed-learning]]
-- [[student-ai-interaction]]
-- [[multimodal]]
-- [[conversational-ai]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[usability-research]]
-- [[student-experience]]
-- [[active-learning]]
-
-## Connected Articles
-
-- [[ai-advice-suppresses-ikt-suspension-2026]] — AI advice and the suspension of prior knowledge
-- [[ai-dependence-academic-writing-ipace-2026]] — AI dependence in academic writing
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Adaptive AI scaffolds for collaborative problem solving
-- [[ai-tutor-authoring-promptdecipher]] — Authoring AI tutors from prompts
-
 ## Citation
 
 Rhee, J., Lee, C., Kim, H., Choe, K., Kim, B., Ko, S., & Seo, J. (2026). [Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs](https://arxiv.org/abs/2609.19870). arXiv:2609.19870.

@@ -43,35 +43,6 @@ institutions: [governance]
 - The cognitive-debt and credential-trust arguments rest partly on cited external evidence — for instance the result that GPT-4 access raised practice scores 48% while lowering exam performance 17% — rather than new data collected for this paper.
 - The authors themselves acknowledge that designing for presence is inherently difficult and does not scale like a quiz: oral defenses and portfolios require time, funding, and professional support that many institutions have cut, and the paper offers no cost or workload evidence.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[online-teaching-and-learning]]
-- [[governance]]
-- [[privacy]]
-- [[trust]]
-- [[ai-detection]]
-- [[guardrails]]
-- [[student-engagement]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[agentic-ai-education-scoping-review]] — Agentic AI in education: scoping review
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI pedagogical best practice
-- [[agentic-workflows-education]] — Agentic workflows in education
-- [[agentic-literacy-debt]] — Agentic literacy debt
-- [[tool-invariant-framework-agentic-ai]] — A tool-invariant framework for agentic AI
-- [[automated-online-exam-proctoring-decade-review-2026]] — Automated online exam proctoring: a decade review
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: AI in online assessments
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
-- [[end-of-assessment-ai-disruption-transformation-2026]] — The end of assessment: AI disruption and transformation
-
 ## Citation
 
 Bozkurt, A., Crompton, H., & Fell Kurban, C. (2026). [*The Devil is in the Details: AI agents, ghost students, and the crisis of verified presence in an agentic AI world*](https://doi.org/10.55982/openpraxis.18.1.1145). *Open Praxis*, 18(1).

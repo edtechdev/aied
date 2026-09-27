@@ -14,7 +14,6 @@ research_method: [thematic analysis]
 level: [higher ed]
 audience: [instructors, administrators, researchers, learners]
 page_kind: [synthesis]
-connected_faqs: [reduce-ai-cheating, course-ai-policy]
 sources: ['raw/papers/ji-student-voices-academic-integrity-scoping-2026.md']
 confidence: high
 ---
@@ -47,34 +46,6 @@ Third, **from universal principles to contextual sensitivity**: [[assessment|ass
 
 ## Limitations
 The reviewed studies name four recurring weaknesses. Samples are context-specific and rarely cross-national, so generalizability is limited, and coverage skews toward Western, English-speaking, high-income systems despite emerging [[global-south|Global South]] research (Nelson et al., 2025); sizes are often small. All depend on self-reported survey and interview data, open to social desirability bias, and several call for more diversified sources to triangulate findings. Most consequentially, every reviewed study is cross-sectional: the field lacks longitudinal work tracking students as tools and policies change, and lacks intervention studies testing whether ethics curricula, redesigned assessments or different policy communications work. The studies also suggest looking beyond writing, to coding, data science and music composition. Ji adds three limits of the review itself: three databases only, English-language publications only, and a technology moving too fast for any such map to stay current.
-
-## Connected Concepts
-
-- [[academic-integrity]] — the review's organizing construct and the thing students are asked to interpret
-- [[agency]] — students as moral-ethical agents rather than policy recipients
-- [[reducing-ai-misuse]] — the policy and pedagogical problem the implications address
-- [[framing-ai-use-for-students]] — the ethical gray area between assistance and misconduct
-- [[equity-in-ai-education]] — differentiated responses for students in unequal circumstances
-- [[culturally-relevant-pedagogy]] — culture and context shaping what counts as honest work
-- [[cognitive-offloading]] — over-reliance that students themselves try to resist
-- [[metacognition]] — Perdana et al.'s "augmented metacognition" as the desired collaboration
-- [[educational-policy-ai]] — the guidance vacuum and the call for co-created rules
-- [[governance]] — the institutional frameworks students ask for
-- [[authentic-assessment]] — tasks designed to resist GenAI substitution
-- [[assessment-validity]] — whether marks still track the student's own learning
-- [[global-south]] — where a growing share of this research is produced
-- [[ai-literacy]] — the educative lever the studies favor over detection
-
-## Connected Articles
-
-- [[mulisa-students-genai-integrity-perspectives-2026]] — an Ethiopian interview study that reads as one of this review's cases
-- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — the "AI-giarism" concept the review adopts for shifting forms of misconduct
-- [[ai-tools-academic-work-cheating-2026]] — whether students themselves label AI-assisted work cheating
-- [[student-rationalization-ai-writing]] — the justification work the review's third theme describes
-- [[psychological-mechanisms-academic-integrity-ai-2026]] — the attitudinal mediators behind the awareness-practice gap
-- [[genai-chinese-higher-education-integrity-2026]] — a policy-versus-practice study from one of the review's most studied systems
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — an argument for purpose-led rather than rules-led integrity work
-- [[wei-perkins-genai-student-collaboration-scoping-2026]] — a scoping review of the same generation, on group work rather than integrity
 
 ## Citation
 

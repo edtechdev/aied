@@ -45,22 +45,5 @@ The authors drew on [[inquiry-based-learning|inquiry]] traditions rooted in acti
 - The intervention was relatively short and the post-test followed soon after, so the durability and transfer of the gains remain open.
 - One step did not separate the groups: post-test distributions for data collection and analysis did not differ reliably, indicating basic evidence-gathering improves fairly evenly regardless of condition.
 
-## Connected Concepts
-- [[science-education]]
-- [[inquiry-based-learning]]
-- [[critical-thinking]]
-- [[generative-ai]]
-- [[assessment]]
-- [[agency]]
-- [[situated-learning]]
-- [[student-engagement]]
-- [[ai-education]]
-
-## Connected Articles
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-Supported Inquiry in Photosynthesis and Respiration
-- [[ai-partner-science-epistemic-vigilance]] — AI as a Science Partner and Epistemic Vigilance
-- [[ai-science-chemistry-education-systematic-review-2025]] — AI in Science and Chemistry Education (Systematic Review)
-- [[daniel-ai-sustainability-scoping-review-2026]] — AI and Sustainability (Scoping Review)
-
 ## Citation
 Gousopoulos, D. (2026). [Can AI-Assisted Inquiry Enhance Students' Decision-Making Skills in Socio-Scientific Issues? A Three-Group Experimental Study on Climate Change](https://doi.org/10.62225/2583049X.2026.6.3.6516). *International Journal of Advanced Multidisciplinary Research and Studies*, 6(3), 1956-1966.

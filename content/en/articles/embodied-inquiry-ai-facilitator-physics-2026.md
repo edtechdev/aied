@@ -63,25 +63,6 @@ The Gem facilitated through language alone, supplemented only by the photographs
 - There is no comparison condition and the authors offer an interpretive hypothesis rather than a measured outcome, so no effect on learning can be claimed.
 - Findings are bound to one ISLE fluid-statics activity run with a single Gemini-3-Pro Gem, so the fragility observed may not transfer to other prompts, models, or inquiry topics.
 
-## Connected Concepts
-
-- [[physics-education]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[professional-training]]
-- [[stem-education]]
-- [[simulation]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[multiagent-classroom-dual-process-physics-teachers-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[socratic-ai-physics-tutor-taxonomy-2026]]
-- [[genai-ar-physics-simulation-prompt-2026]]
-
 ## Citation
 
 Tufino, E., & Damiani, P. (2026). [*Embodied inquiry with AI as facilitator: An exploratory case study*](https://arxiv.org/abs/2607.21349).

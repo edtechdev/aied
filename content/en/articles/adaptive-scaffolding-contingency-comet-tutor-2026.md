@@ -17,7 +17,6 @@ technology: [intelligent-tutoring, conversational-ai, pedagogical-agent, adaptiv
 assessment: [self-report-measures, feedback]
 methods: [mixed-methods-research, quantitative-research]
 ethics: [guardrails]
-connected_faqs: [developing-ai-tutor, reducing-over-reliance]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -57,34 +56,6 @@ Contingency requires diagnosing the learner's state, and on a text channel the e
 - Participants met all three tutors in one untimed sitting and the analyzed sample is by construction those who passed every task, so retention is the question this design is least able to answer.
 - Load was measured by [[self-report-measures|self-report]] with mostly single items, so intrinsic and extraneous load are not separated and germane load rests on written responses.
 - Participants answered a social media call with [[generative-ai|generative AI]] already routine in their coursework (106 of 131 rated their AI use at 4 or 5), and task order was fixed, so position is a covariate rather than identified.
-
-## Connected Concepts
-- [[scaffolding]]
-- [[metacognition]]
-- [[productive-failure]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[help-seeking]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[conversational-ai]]
-- [[cs-education]]
-- [[feedback]]
-- [[self-report-measures]]
-- [[prior-knowledge]]
-- [[guardrails]]
-
-## Connected Articles
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred Scaffolding Does Not Lead to Better Learning Performance
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Towards the Pedagogical Steering of Large Language Models for Tutoring
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI
-- [[ai-writes-code-student-writes-model-2026]] — The AI Writes the Code, the Student Writes the Model
-- [[soft-barriers-copying-ai-programming-2026]] — Do Not Copy/Paste: Soft Barriers for Copying in AI-Assisted Programming
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — Learning-by-Teaching with ChatGPT: The Effect of a Teachable ChatGPT Agent on Programming Education
-- [[llm-judged-helpfulness-pedagogy-signal]] — Rethinking LLM-Judged Helpfulness as a Pedagogy Signal
 
 ## Citation
 Hou, X., Weng, Y., Yeh, C. H., Lee, D. L., Zheng, L., Li, F., et al. (2026). [Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does](https://arxiv.org/abs/2609.22993). arXiv:2609.22993.

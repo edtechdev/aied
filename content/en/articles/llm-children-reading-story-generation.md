@@ -44,21 +44,6 @@ Fine-tuning designs were systematically compared, with the curriculum-derived tr
 - The Rewarded SFT model's scalar rewards were computed from the same automatic metrics later used for evaluation, so the model may have been optimized toward the evaluation proxies rather than true educational quality; no expert human evaluation corroborates the NLP-based scores.
 - Study data are entirely batch-generated stories, with no authentic narratives from children, parents, or teachers, and the experiments ran on three L4 GPUs under IRB and deployment constraints that also precluded a full RLHF pipeline.
 
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[personalized-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[k-12]]
-- [[language-learning]]
-- [[storytelling-in-education]]
-- [[pedagogical-safety]]
-- [[scaffolding]]
-## Connected Articles
-
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[ai-generated-interactive-fiction-education-2026]]
 ## Citation
 
 Shen, Q., Cao, F., Yao, M., Gilda, S., Dorr, B. J., & Leite, W. L. (2026). [Children's English reading story generation via supervised fine-tuning of compact LLMs with controllable difficulty and safety](https://arxiv.org/abs/2605.13709). Proceedings of the 21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2026).

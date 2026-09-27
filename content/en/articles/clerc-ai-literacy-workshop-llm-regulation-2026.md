@@ -72,30 +72,6 @@ The [[ai-literacy|AI literacy]] intervention literature this joins is mostly sho
 
 This is the wiki's clearest classroom demonstration that the applied dimension of [[ai-literacy]] is both teachable in a short time and measurable in behavior. Where most studies in the collection show that access to a model is not enough, or that students over-trust fluent output, this one tests an intervention against a control group and reports effect sizes for the specific behaviors that matter: rejecting an underspecified prompt, judging whether an answer is right, and asking again when it is not. Its most transferable finding for practice is the follow-up question rate change (27.9% to 59.2%), because that is the recovery step a student performs after a weak prompt has already been accepted. Its most useful negative finding is methodological: self-reported [[metacognition|metacognitive]] awareness and generative AI attitudes predicted nothing, so programs that evaluate themselves on confidence surveys are measuring the wrong construct. The study's open materials — workshop slides and facilitation script (in French), anonymized data, and analysis code at [osf.io/fyu7c](https://osf.io/fyu7c/overview) — make it replicable in a way that most intervention studies here are not. Weight the evidence as short-term and single-site; a two-hour effect that has not been tested for durability should change what educators try, not what they assume works.
 
-## Connected Concepts
-
-- [[ai-literacy]] — the construct whose applied, regulatory dimension is tested here
-- [[generative-ai]] — the tool class students were trained to regulate
-- [[metacognition]] — the monitoring-and-control process the intervention targets
-- [[self-regulated-learning]] — the broader framework for regulating one's own learning with a system
-- [[cognitive-offloading]] — the failure mode the workshop is designed to prevent
-- [[prompt-engineering]] — taught here as agency over prompting, not as output optimization
-- [[critical-thinking]] — judging answer correctness rather than accepting fluency
-- [[k-12]] — the educational level studied (grades 8–9)
-- [[science-education]] — the subject context of the tasks
-- [[assessment]] — behavioral indicators as an alternative to self-report measurement
-
-## Connected Articles
-
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — meta-analysis of AI literacy interventions
-- [[ai-intuition-ai-literacy-k12-2026]] — dual framework for K-12 AI literacy
-- [[aaai2026-prompting-literacy-k12]] — teaching responsible AI chatbot use to K-12 students
-- [[genai-over-reliance-learning-2026]] — how over-reliance affects learning
-- [[cognitive-offloading-metacognitive-review-2026]] — review of cognitive offloading and metacognition
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — self-reflection as a countermeasure to offloading
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — prompt literacy as a human-centered competency
-- [[aigc-affordance-student-self-regulation-2026]] — GenAI affordances and student self-regulation
-
 ## Citation
 
 Clerc, O., Abdelghani, R., Desvaux, C., Poisson, E., Oudeyer, P.-Y., & Sauzéon, H. (2026). [*Teaching students to question the machine: An AI literacy intervention improves students' regulation of LLM use in a science task*](https://arxiv.org/abs/2604.01955). *ALIT4ALL 2026: 2nd International Workshop on AI Literacy Education For All, co-located with AIED 2026*.

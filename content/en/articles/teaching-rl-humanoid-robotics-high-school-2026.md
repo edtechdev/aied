@@ -60,36 +60,5 @@ Partners share a robot, so the framework separates robot performance from indivi
 - One expert omitted the overall implementation-readiness rating (no value was imputed), and a duplicated interview record was counted only once.
 - The instantiation is narrow: four students in two pairs, one ToddlerBot each, a recommended 1:4 mentor ratio; course completion and walking are implementation context, with student outcomes reserved for a separate study.
 
-## Connected Concepts
-- [[scaffolding]]
-- [[educational-robotics]]
-- [[reinforcement-learning]]
-- [[simulation]]
-- [[curriculum-design]]
-- [[project-based-learning]]
-- [[collaborative-learning]]
-- [[group-work]]
-- [[prior-knowledge]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[motivation]]
-- [[ai-literacy]]
-- [[experiential-learning]]
-- [[design-based-research]]
-
-## Connected Articles
-- [[riedmann-reinforcement-learning-education-review-2026]] — Reinforcement Learning in Education: A Systematic Literature Review
-- [[educational-robotics-pathways-2026]] — Pathways to Learning: Exploring High School Students' Learning of AI-Powered Educational Robotics
-- [[computational-thinking-educational-robotics-secondary-2026]] — Computational Thinking to Enhance Educational Robotics in Secondary School's Curriculum
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks: Presenting a Project-Based Approach for Robotics Education
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — Teaching AI, Robotics, & Community: A Hubs-Based K-12 Education Framework for Reaching Rural Schools
-- [[simulation-assisted-drone-learning-stem-2026]] — From simulation to flight: Simulation-assisted drone learning with teacher-AI co-designed scaffolds for secondary students' STEM knowledge and competencies
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — Coding, robots, computational concepts, and machine learning using the microbit card and the Maqueen and Nezha kits. A study in initial teacher training
-- [[mechanical-engineering-ai-curriculum-2026]] — Giving Mechanical Engineers Intelligent Tools: A Project-Based AI Education Curriculum in Thermal Engineering
-- [[teaching-with-robots-five-types-perspective-2026]] — Theoretical Perspectives on Teaching with Robots: From Interdisciplinary Prerequisites and Necessities in Today's Classrooms to Five Different Types of Robots
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education: A Comparative Systematic Review and Design Guidelines
-- [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions
-
 ## Citation
 Dong, Y., Cao, J., & Wang, S. (2026). [Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform](https://arxiv.org/abs/2609.25674). arXiv:2609.25674.

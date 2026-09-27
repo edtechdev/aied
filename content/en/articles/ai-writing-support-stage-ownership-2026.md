@@ -44,22 +44,6 @@ level: [higher ed]
 - Writing was forced into a linear outline → draft → revise sequence that the authors call "somewhat artificial," with AI drafting allowed only once and no multi-turn conversation, unlike the looping real writing process.
 - Ownership was measured post-task with a single 7-point Likert item ("I feel this piece of writing is truly mine"), and the sample consists of amateur writers, whom the authors expect to respond differently from professionals.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[metacognition]]
-- [[student-experience]]
-- [[writing-education]]
-- [[llm]]
-- [[authentic-assessment]]
-- [[agency]]
-## Connected Articles
-
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
-
 ## Citation
 
 Gero, K. I., Long, T., Schnitzler, C., & Dhillon, P. (2026). [*From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership*](https://arxiv.org/abs/2604.11009).

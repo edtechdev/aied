@@ -46,21 +46,6 @@ page_kind: [framework]
 - With mostly qualitative designs, no meta-analysis or quantitative aggregation was feasible — no effect sizes or trend estimates can be drawn from the synthesis.
 - Publication bias is likely (positive findings are more publishable than null results) and heterogeneity among the included studies is limited, constraining generalizability.
 
-## Connected Concepts
-
-- [[teacher-education]]
-- [[tpack]]
-- [[generative-ai]]
-- [[educational-development]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK PD framework
-- [[human-centered-ai-teacher-educators-2026]] — Human-centered AI for teacher educators
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in lesson planning
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — AI in preservice teacher development
-
 ## Citation
 
 Ó Ceallaigh, T. J., & Murphy, S. (2026). [*Teaching the teachers: A systematic review of genAI-specific technological pedagogical knowledge (TPK) in teacher education*](https://doi.org/10.1016/j.caeo.2026.100367). *Computers and Education Open*, 100367. https://doi.org/10.1016/j.caeo.2026.100367

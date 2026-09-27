@@ -63,30 +63,6 @@ Responsible design appears everywhere but in different sociotechnical forms: con
 - The paper proposes what companions should be measured against but reports no new outcome data on durable learning, so the learning-performance paradox remains supported by other studies rather than tested here.
 - The eight commitments are normative and largely unfalsifiable in their current form, since the paper specifies no thresholds at which a system would count as meeting each one, and implementation cost, institutional incentive structures and teacher workloads are named as context but not analyzed in depth, leaving the adoption side of responsible design underdeveloped.
 
-## Connected Concepts
-- [[cognitive-offloading]] — the mechanism by which performance gains mask capability atrophy
-- [[agentic-ai]] — companions as persistent, proactive systems rather than answer services
-- [[framing-ai-use-for-students]] — how institutions frame what AI is for shapes what tools get built
-- [[pedagogical-agent]] — the earlier tradition the paper absorbs and extends
-- [[adaptive-learning]] — the adaptive foundation, and the gap in persistent adaptation
-- [[student-modeling]] — the learner state a companion must maintain across sessions
-- [[productive-failure]] — the effort the design must protect rather than optimize away
-- [[self-regulated-learning]] — planning, monitoring and evaluation as companion design targets
-- [[metacognition]] — the paper's proposal for metacognitive onloading
-- [[transfer-of-learning]] — the durable-learning outcome current systems rarely measure
-- [[explainable-ai]] — transparency from open learner models, now a precondition
-- [[equity-in-ai-education]] and [[inclusive-learning]] — the least realized commitment
-- [[trust-calibration]] — learner trust as a design responsibility, not a by-product
-- [[governance]] — institutional purposes and incentives as part of responsible design
-
-## Connected Articles
-
-- [[teachlm-post-training-llms-education]] — post-training approaches that make a system persist in a pedagogical role
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — what pedagogical agents actually know about pedagogy when tested
-- [[yasir-llm-tutoring-agents-2026]] — tutoring agents evaluated against adaptive support criteria
-- [[ai-advice-suppresses-ikt-suspension-2026]] — learners who stop recognising what they do not know when assisted
-- [[pramod-agentic-ai-motivational-pathways-2026]] — how agentic AI use relates to motivational pathways
-
 ## Citation
 
 Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J. M., Tangen, J. M., Denny, P., DiCerbo, K., Buckingham Shum, S., & Baker, R. S. (2026). [Building AI Companions that Prioritize Learning over Performance](https://doi.org/10.1016/j.caeai.2026.100680). *Computers and Education: Artificial Intelligence*.

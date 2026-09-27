@@ -48,23 +48,6 @@ technology: [technology-acceptance-model]
 - The single-country sample limits generalization to other national and institutional contexts, a point the study itself makes about differences between emerging and developed-country settings.
 - Educational benefits such as improved teaching, learner engagement, and [[curriculum-design|curriculum]] innovation are reported as associations within the same survey, not as measured effects of adoption.
 
-## Connected Concepts
-
-- [[technology-acceptance-model]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[administrator]]
-
-## Connected Articles
-
-- [[dot-framework-survey-2026]]
-- [[tam-critical-use-genai-engineering-2026]]
-- [[ai-lifelong-learning-policy]]
-- [[socio-cognitive-genai-adoption-engineering-2026]]
-- [[ai-online-education-engagement-satisfaction-2026]]
-
 ## Citation
 
 Al-Rahmi, W. (2026). [*Exploring Organisational Drivers and Innovation Attributes of Artificial Intelligence Adoption in Higher Education*](https://doi.org/10.53761/fskfah39). *Journal of University Teaching and Learning Practice*, 23(6).

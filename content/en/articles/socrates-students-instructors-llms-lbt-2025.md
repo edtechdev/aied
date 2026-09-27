@@ -46,21 +46,6 @@ The method relies on **questions with engineered knowledge gaps that only a stud
 - Gains were statistically significant for assignments (p = 0.028) and projects (p = 0.018) but not for exams (p = 0.693), and the study included no long-term retention analysis.
 - Full replication is limited by the inability to share raw student data and by dependence on stochastic, versioned commercial LLM APIs.
 
-## Connected Concepts
-
-- [[learning-by-teaching]]
-- [[generative-ai]]
-- [[cs-education]]
-- [[active-learning]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-
-## Connected Articles
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT as a teachable agent in programming
-- [[prompting-teachability-novice-personas-lbt-2026]] — Designing novice personas for teachability
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: teachable agent at scale
-
 ## Citation
 
 Yang, X., Pujara, H., & Li, J. (2025). [*Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education*](https://arxiv.org/abs/2508.05979). In *COLM 2025*.

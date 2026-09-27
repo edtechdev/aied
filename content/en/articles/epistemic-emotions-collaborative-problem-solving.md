@@ -34,21 +34,6 @@ audience: [researchers, learning analytics designers]
 - Reporting mechanisms were imbalanced (64% probe-caught versus 36% self-caught), which the authors note may influence the relative density of connections between states.
 - All nine groups solved the Weights Task correctly, so the study carries no measure of learning or solution quality and cannot relate affective structure to performance.
 
-## Connected Concepts
-
-- [[affective-tutoring]]
-- [[collaborative-learning]]
-- [[affective-computing]] — computational modeling of emotional states
-- [[learning-analytics]] — affect-aware analytics of learning processes
-- [[social-emotional-learning]] — emotional regulation during joint problem solving
-- [[student-engagement]] — affective engagement during collaboration
-- [[multimodal]] — integrating sensors, video and network-based affect evidence
-## Connected Articles
-
-- [[multimodal-affective-its-presentation]]
-- [[affective-text-wearable-student-health]]
-- [[engagement-assessment-video]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — An affective approach to math tutoring
 ## Citation
 
 Sifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, Nathaniel Blanchard (2026). [Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving](https://arxiv.org/abs/2607.23317).

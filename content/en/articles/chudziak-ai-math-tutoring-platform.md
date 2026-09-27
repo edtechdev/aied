@@ -57,25 +57,6 @@ Built on LangGraph, the multi-agent system's main interaction loop centers on a 
 
 Real-world user studies to assess [[learning-gains|learning gains]], [[usability-research|user experience]], and practical utility of generated courses; advanced [[student-modeling|student modeling]] (e.g., [[affective-computing|affective]] state detection); spaced repetition; exploring different LLMs and RAG architectures; adaptability to other [[stem-education|STEM]] domains, [[accessibility]], and explainability.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[math-education]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[socratic-method]]
-- [[scaffolding]]
-- [[llm]]
-- [[rag]]
-- [[agentic-ai]]
-
-## Connected Articles
-
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — Frameworks for shifting AI tutors away from answer generation toward reasoning facilitation, directly aligned with this paper's core motivation.
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Another AI-based math tutoring system, offering a comparison point for affective and personalized math tutoring.
-- [[instructional-agents-multi-agent-course-gen]] — A parallel multi-agent LLM system for course material generation, relevant to this paper's course-creation pipeline.
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-augmented tutoring, complementing the paper's GraphRAG-based textbook retrieval.
-
 ## Citation
 
 Chudziak, J. A., & Kostka, A. (2025). [*AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education*](https://doi.org/10.48550/arXiv.2507.12484). The 26th International Conference on Artificial Intelligence in Education (AIED 2025).

@@ -56,29 +56,6 @@ The evaluation separates three questions that are often conflated: **accuracy** 
 - Model selection was constrained by strict privacy protections, and the results describe only the three systems tested (Claude Opus 4.6, GPT-5.4, Gemini 3 Flash); the authors warn that model updates create instability.
 - The qualitative strand rests on 25 focus-group participants (14 staff, 11 students) in nine groups, the best prompt per model was fixed on a 20% calibration subset (n = 153), and the work is a project report rather than a peer-reviewed study.
 
-## Connected Concepts
-
-- [[automated-essay-scoring]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[bias-mitigation]]
-- [[feedback]]
-- [[teacher-role]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[llm-essay-scoring-feature-weighting-2026]] — Feature weighting patterns in LLM-based essay scoring
-- [[ai-scoring-language-bias-physics]] — AI scoring and language bias in physics explanations
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Human-in-the-loop AI scoring in a national assessment
-- [[llm-essay-assessment-framework-reliability-2026]] — Framework for evaluating LLMs in essay assessment
-- [[choi-anchor-aes-prompting-2025]] — Anchor-based prompting for accessible AES
-- [[gpt-human-rater-essay-assessment-2026]] — Comparing GPT and human raters in essay assessment
-- [[aivaluate-anxiety-assessment-2026]] — Student anxiety in performance-based assessments using AIvaluate
-
 ## Citation
 
 OpRaise project team (2026). [AI in University Assessment: Evaluating the Opportunities and Risks of Automated Marking](https://www.emotional-cognition.psychol.cam.ac.uk/sites/default/files/OpRaise%20Report_DIGITAL.pdf). OpRaise project report, University of Cambridge, supported by ai@cam. (Project report; not peer reviewed.)

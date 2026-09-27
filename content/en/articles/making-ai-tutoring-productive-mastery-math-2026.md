@@ -39,29 +39,6 @@ sources: [raw/papers/making-ai-tutoring-productive-mastery-math-2026.md]
 - The delayed-test estimates are imprecise — the Mastery × AI coefficient on practiced Exercise 1 is 0.085 and only marginally significant, and the combined practiced-minus-unpracticed contrast is too imprecise to support a large or uniform effect.
 - The experiment cannot separately identify why mastery raised streak attainment (understanding versus repeated exposure or guessing), and later exercise outcomes are contaminated by differential progression and remaining class time.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[math-education]]
-- [[k-12]]
-- [[edtech-platform]]
-- [[learning-gains]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[help-seeking]]
-
-## Connected Articles
-
-- [[measuring-llm-tutors-teach-vs-solve]] — Measuring whether LLM tutors teach or solve
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[genai-performance-vs-learning]] — Distinguishing performance from learning
-- [[generative-ai-guardrails-harm-learning]] — GenAI guardrails and learning harm
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Improving AI tutoring quality in K-12
-
 ## Citation
 
 Oreopoulos, P., Liut, M., Sungu, A., & Low, N. (2026). *[Making AI tutoring productive: Evidence from a mastery-based math practice experiment](https://www.nber.org/papers/w35621)* (NBER Working Paper No. 35621). National Bureau of Economic Research.

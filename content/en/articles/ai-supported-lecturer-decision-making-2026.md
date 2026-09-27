@@ -41,20 +41,5 @@ The review deliberately separates what the studies found from what the authors r
 - AI in education is developing rapidly and the search was completed in October 2025, so the distribution reported is a snapshot of the literature at that point rather than a stable characterization of the field.
 - The review synthesizes how systems were designed and described by their authors, not how lecturers used them; its socio-technical reading therefore concerns the informational conditions these systems create, not their effects on decision-making. The taxonomy describes how the literature is distributed, not causal relationships established by the included studies.
 
-## Connected Concepts
-- [[learning-analytics]] — dashboards as the dominant system type
-- [[teacher-role]] — decision-making as the core of lecturer practice
-- [[assessment]] — one of the three well-supported decision types
-- [[feedback]] — likewise concentrated
-- [[learning-design]] — curriculum and learning-environment decisions as gaps
-- [[higher-ed]] — the review's institutional context
-
-## Connected Articles
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions
-- [[claassen-learning-analytics-genai-learning-design-2026]] — Educator reasoning with learning analytics and GenAI
-- [[ai-decision-support-online-learning-assessment-2026]] — AI decision support in online learning assessment
-- [[agentic-ai-education-scoping-review]] — Agentic AI in education scoping review
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated explainable learning analytics
-
 ## Citation
 Köroğlu, M. N., Mayrhofer, J., Steinmaurer, A., Wintersberger, P., Dennerlein, S. M., & Weinhandl, R. (2026). [AI-Supported lecturer decision-making in higher education: a socio-technical perspective](https://doi.org/10.1186/s41239-026-00623-8). *International Journal of Educational Technology in Higher Education, 23*(1), 49.

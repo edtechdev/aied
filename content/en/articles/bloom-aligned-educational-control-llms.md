@@ -32,23 +32,6 @@ page_kind: [framework, evaluation]
 - The benchmark suite is English-language and Python-centric (2,520 tasks drawn from three code benchmarks), leaving other programming languages and non-programming learning tasks unexamined.
 - Augmented tasks were produced with a zero-shot prompting protocol and no human audit of the generated mutations, and the Bloom judge, even with its reported agreement against a 150-question human-validated subset, may not hold on mutations that shift away from that validation distribution.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[higher-ed]]
-- [[teacher-role]]
-- [[llm]]
-- [[feedback]]
-- [[learning-gains]]
-## Connected Articles
-
-- [[pedagogy-ai-mistakes]]
 ## Citation
 
 S. Bekkouch, T. Constantinou, M. Ovaere, et al. (2026). [From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs](https://arxiv.org/abs/2607.08009).

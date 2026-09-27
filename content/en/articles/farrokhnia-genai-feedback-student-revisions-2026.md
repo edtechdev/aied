@@ -6,7 +6,6 @@ type: article
 pedagogy: [student-ai-interaction]
 technology: [generative-ai, prompt-engineering]
 assessment: [ai-feedback-quality, assessment, feedback, formative-assessment]
-connected_faqs: [ai-feedback-at-scale]
 research_method: [experiment]
 discipline: [writing education]
 level: [higher ed]
@@ -46,27 +45,6 @@ This is a tightly controlled experimental contribution to the knowledge base's f
 - Only one teacher and one essay task were used, so the study cannot separate teacher effects from the feedback condition.
 - The feedback-quality rubric covered structural features only, which the authors say may have overstated GenAI feedback quality by ignoring tone, perceived usefulness, and affective dimensions.
 - No significant between-group differences in revision performance were found, so the comparative claims rest on feedback quality rather than measured learning outcomes.
-
-## Connected Concepts
-
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[writing-education]]
-- [[assessment]]
-- [[higher-ed]]
-- [[formative-assessment]]
-- [[student-ai-interaction]]
-- [[teacher-role]]
-- [[trust]]
-
-## Connected Articles
-
-- [[ai-generated-feedback-higher-ed]]
-- [[genai-teacher-feedback-comparison]]
-- [[llms-do-not-grade-essays-like-humans-2026]]
-- [[ai-assisted-instructor-supervised-grading-feedback]]
 
 ## Citation
 

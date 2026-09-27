@@ -33,22 +33,6 @@ This paper presents an empirical evaluation of a vision-capable LLM-based grader
 - The study measures agreement with instructor-defined rubric items, not learning outcomes; students were not exposed to any AI-generated grading during the study, so effects on learning or trust are unknown.
 - Image capture conditions varied by course, and the qualitative error analysis rests on a small number of representative examples (Figure 3) rather than a systematic sample of failures.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[math-education]]
-- [[multimodal]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[assessment-validity]]
-- [[cognitive-diagnosis]]
-## Connected Articles
-
-- [[lata-ferpa-compliant-local-llm-autograder]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[syal-multimodal-dialogue-stem-2026]]
-- [[drawedumath-vlm-struggling-students-2026]]
-- [[llm-cognitive-diagnosis-handwritten-math]]
 ## Citation
 
 Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, Mariana Silva (2026). [Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs](https://arxiv.org/abs/2605.19043). International Conference on AI in Education (AIED 2026).

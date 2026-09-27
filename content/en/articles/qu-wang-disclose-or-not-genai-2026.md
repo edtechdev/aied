@@ -8,7 +8,6 @@ pedagogy: [learning-theories]
 technology: [generative-ai]
 methods: [mixed-methods-research]
 ethics: [trust]
-connected_faqs: [ai-guidance-children-under-13, course-ai-policy]
 research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/qu-wang-disclose-or-not-genai-2026.md']
@@ -47,27 +46,6 @@ Qu & Wang (2026) reframe GenAI non-disclosure in [[higher-ed|higher education]] 
 - Several constructs were measured with single-item indicators, which precludes estimates of internal consistency reliability and may inflate measurement error, attenuating effect sizes.
 - The sample of 409 undergraduates was determined by practical constraints rather than a priori power planning, and post-hoc registration weakens confirmatory inference.
 - The cross-sectional design captures disclosure intentions at one point in time and cannot establish the temporal ordering of norms, moral disengagement, and relational trust.
-
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[trust]]
-- [[ethics]]
-- [[student-experience]]
-- [[anxiety-and-stress]]
-- [[ai-literacy]]
-- [[student-engagement]]
-- [[peer-assessment]]
-## Connected Articles
-
-- [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — academic dishonesty, risk perceptions, and ChatGPT usage
-- [[ai-tools-academic-work-cheating-2026]] — whether using AI tools counts as cheating
-- [[moral-panic-genai-classroom]] — moral panic and appropriate GenAI use
-- [[best-response-student-ai-dialog-2026]] — student reasoning about AI use
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — automated proctoring and dishonesty
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive signal
 
 ## Citation
 

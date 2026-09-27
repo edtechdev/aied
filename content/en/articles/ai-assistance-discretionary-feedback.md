@@ -68,23 +68,6 @@ The increased provision did not degrade downstream outcomes. Students rated AI-a
 - Several outcomes are self-reports — TA ratings of draft usefulness and student ratings of the feedback they received — and the student interviews covered a subset of 9 students.
 - Longer-run effects are untested: the authors call for work on whether gains persist across semesters, whether subject domain moderates the effect, and how sustained exposure shapes TA reliance on drafts.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[ai-feedback-quality]]
-- [[teacher-role]]
-- [[feedback]]
-- [[rct]]
-- [[higher-ed]]
-## Connected Articles
-
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
-- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers'' practices and perceptions
-- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
-- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
-
 ## Citation
 
 Romina Mahinpei, Victoria Dean, Ruth Fong, Lydia T. Liu, Manoel Horta Ribeiro (2026). [AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education](https://arxiv.org/abs/2606.03095). arXiv.

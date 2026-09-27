@@ -49,26 +49,6 @@ The study used a descriptive, mixed-methods design with no variable manipulation
 - The sample skews toward AI-familiar, business-oriented students: 62% were business and management majors, 90% reported being very comfortable with AI tools, and 96% had prior LLM experience, which can restrict the range on exactly the subgroup comparisons that produced non-significant results.
 - The impact measures are self-reported perceptions of creativity, productivity, consensus building, and collective intelligence, supported by 80 open-ended responses and 15 interviews rather than any independent performance measure.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[collaborative-learning]]
-- [[critical-thinking]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[socratic-method]]
-- [[math-education]]
-- [[creativity]]
-
-## Connected Articles
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — Design-Based Research for Developing an AI-Assisted Collaborative Learning Model to Enhance Critical Thinking and Problem-Solving Skills in Higher Education
-- [[llm-critical-thinking-teamwork-review]] — Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review
-- [[ccct-cooperative-learning-technique]] — Artificial intelligence assisted design of a novel cooperative learning technique for higher education
-- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
-- [[ai-collaborative-learning-systematic-review]] — A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade
-
 ## Citation
 
 Agnaou, A., & El Asri, H. (2025). [*Artificial intelligence and collaborative learning: Impacts on creativity, critical thinking, and problem-solving*](https://doi.org/10.5590/JERAP.2025.15.2120).

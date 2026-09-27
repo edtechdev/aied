@@ -45,19 +45,6 @@ audience: [researchers, instructional designers]
 - AI-judge calibration rested on just 24 essays, each scored by one human rater; the AI judge's mean score ran higher than the human's (72.1 vs 63.3) even though the ranks correlated (Pearson's r = 0.943).
 - Prompts were run as 30,720 synthetic combinations producing short quiz answers and essays, so the durability of the prompt effects in longer, more realistic LbT interactions is untested.
 
-## Connected Concepts
-
-- [[learning-by-teaching]]
-- [[prompt-engineering]]
-- [[generative-ai]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-
-## Connected Articles
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT as a teachable agent in programming
-- [[prompt-coach-agentic-tutor-prompt-engineering]] — Prompt Coach: an agentic tutor for learning prompt engineering
-
 ## Citation
 
 Miller, S., & Bosch, N. (2026). [*Prompting for Teachability: Designing Novice Personas in LLMs for Learning by Teaching Contexts*](https://doi.org/10.1145/3785022.3785067). In *LAK '26: Learning Analytics and Knowledge Conference*.

@@ -34,29 +34,6 @@ This [[research-methods-aied|research]] connects to the growing body of work on 
 - No demographic information was provided, so the authors could not quantify bias by gender, ethnicity, or socioeconomic status and instead examined performance across ability levels only.
 - Coverage is secondary-school mathematics mock papers, so nothing here establishes that the single-ability finding holds in higher education or other subjects.
 - Clusters were fitted per exam with a Bernoulli Mixture Model and few departed in shape from the overall score distribution, so the "archetypes" are weakly identified rather than clean profiles.
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[personalized-learning]]
-- [[student-experience]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[edtech-platform]]
-- [[stem-education]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[cognitive-diagnosis]]
-## Connected Articles
-
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
-- [[llm-student-misconception-identification]] — What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
-
 ## Citation
 
 Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, Paul Edwards (2026). [Archetypes or ability? Clustering for modelling student mathematical competence](https://arxiv.org/abs/2607.26063). arXiv preprint.

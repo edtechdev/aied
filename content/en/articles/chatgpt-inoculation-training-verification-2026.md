@@ -7,7 +7,6 @@ foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [student-engagement]
 methods: [mixed-methods-research]
 ethics: [trust-calibration]
-connected_faqs: [verify-ai-output]
 audience: [learners, instructors]
 research_method: [experiment]
 discipline: [language learning]
@@ -44,23 +43,6 @@ page_kind: [evaluation]
 - Participants completed six-minute tasks in a screen-recorded session with raffle, SONA, or cash incentives, conditions far from unsupervised homework.
 - The intervention was one generic forewarning message rather than detailed refutations, and its behavioral effect was task-specific: significant for the academic-source-summary task but not uniform on the math quiz.
 - Verification behavior was coded from screen recordings with a single coder, and intentions and message usefulness were self-reported (usefulness M = 21.40, α = .80).
-
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[trust-calibration]]
-- [[trust]]
-- [[student-engagement]]
-- [[higher-ed]]
-- [[refutation-text]]
-
-## Connected Articles
-
-- [[genai-chatgpt-adoption-ethics-students-2026]] — Ethical and behavioral factors in ChatGPT adoption
-- [[chatgpt-academic-writing-quality-ownership-2026]] — ChatGPT in academic writing
-- [[gpt-human-rater-essay-assessment-2026]] — GPT vs. human raters in essay assessment
-- [[ai-perceptions-students-teachers-motivation-2026]] — AI perceptions, motivation, and self-efficacy
 
 ## Citation
 

@@ -67,27 +67,6 @@ The systematic, though modest, differences between assessment methods highlight 
 - The design compares each essay with the interaction log that produced it, so it cannot compare the same student's writing with and without AI assistance — a control the authors say would require a less ecologically valid experiment.
 - Inter-rater agreement was moderate and uneven across categories (Cohen's κ = 0.44), and the authors flag fabricated "meta-prompting" logs plus unreported tool variation (ChatGPT was most common at 68.6%, but Claude and other models also appear) as threats to validity and replicability.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[learning-analytics]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[higher-ed]]
-- [[trust]]
-- [[educational-measurement]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-
-## Connected Articles
-
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — Authentic AI-assisted assessment and metacognition
-- [[agency-gap-ai-writing]] — Student agency in AI-assisted writing
-- [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback
-
 ## Citation
 
 Oliveira, M., Zednik, C., Bombaerts, G., Sadowski, B., & Conijn, R. (2025). [*Assessing students' DRIVE: A framework to evaluate learning through interactions with generative AI*](https://doi.org/10.1016/j.caeai.2025.100497). *Computers and Education: AI*, 9, 100497.

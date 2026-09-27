@@ -45,26 +45,6 @@ The study argues that [[research-methods-aied|research]] on students' GenAI use 
 - Social desirability may have inflated evaluative-integration reports and suppressed low-verification-uptake reports, and the restricted high-GPA distribution may have attenuated associations with performance.
 - Excluding non-users restricts variation at the low end of frequency and limits findings to students with some academic GenAI use, and the modest single-institution sample limits generalizability.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-- [[reducing-ai-misuse]]
-- [[ai-misuse-learning-harm]]
-- [[student-experience]]
-- [[cognitive-surrender]]
-
-## Connected Articles
-
-- [[walton-bearman-assessment-judgment-2025]] — Judgment in students' work with GenAI on assessment
-- [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI use and disclosure
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Scoping review of GenAI and learning
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-directed learning
-
 ## Citation
 
 Stamatoulis, C., Pyrovetsi, L., Mourikis, C., Ponnam, A., & Karayianni, I. (2026). [*Same tool, different work: patterns of generative AI use and academic outcomes*](https://osf.io/preprints/psyarxiv/txf2e_v1). *PsyArXiv Preprints*.

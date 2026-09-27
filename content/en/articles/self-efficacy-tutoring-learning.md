@@ -41,26 +41,6 @@ The study examined how self-efficacy and favorability toward practice shape lear
 - The study spanned five days with two approximately 40-minute practice sessions per student, which the authors say limited their ability to observe meaningful change in self-efficacy, a relatively stable construct.
 - The sample came from seven ninth-grade mathematics classes at a single suburban middle school and from one intelligent tutoring system covering linear algebra topics; the authors could not rule out carryover effects between the two practice units, and generalization to other subjects or ITS designs remains untested.
 
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[personalized-learning]]
-- [[motivation]]
-- [[intelligent-tutoring]]
-- [[math-education]]
-- [[affective-tutoring]]
-- [[self-efficacy]]
-- [[learning-gains]]
-
-## Connected Articles
-
-- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
-- [[ecnuclaw-k12-personalized-companion]] — ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
-- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
-- [[metacognitive-awareness-experiential-vs-instructional]] — Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
-
 ## Citation
 
 Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, Paulo F. Carvalho (2026). [Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice](https://arxiv.org/abs/2606.17470). EC-TEL 2026.

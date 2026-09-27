@@ -59,31 +59,5 @@ For [[medical-education|medical English]] teaching the paper proposes a three-st
 - Two of the four services were capped at preview output, so their coverage figures measure export restrictions as much as transcription ability.
 - The abstract's rounded values (WER 15.02%, 47.77%, 72.14%; coverage 30.1%, 54.6%) differ from Table 1 (15.00%, 48.77%, 73.21%; 32.76%, 55.35%).
 
-## Connected Concepts
-- [[speech-and-voice-technologies]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[language-learning]]
-- [[medical-education]]
-- [[human-in-the-loop-ai]]
-- [[educational-nlp]]
-- [[scaffolding]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[trust-calibration]]
-- [[critical-thinking]]
-- [[professional-training]]
-- [[ai-literacy]]
-- [[quantitative-research]]
-
-## Connected Articles
-- [[asr-english-speaking-feedback-metacognition-2026]] — ASR Technology in College English Speaking Instruction: The Role of Feedback Internalization and Metacognitive Strategies
-- [[wright-transcription-not-generation-2026]] — Transcription is not generation: Distinguishing non-generative AI tool use from academic misconduct in higher education assessment
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons
-- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential
-- [[gemini-lualatex-physics-video-transcription-2026]] — Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs
-- [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques
-- [[voice-text-prompt-problems-computing-education]] — Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education
-
 ## Citation
 Stanchev, E. (2026). [AI-Mediated Input Transformation in Medical English: Speech Recognition and Transcript Reliability](https://osf.io/f38mr). EdArXiv preprint.

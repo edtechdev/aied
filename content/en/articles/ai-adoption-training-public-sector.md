@@ -43,25 +43,6 @@ The paper reports two auditable, third-party-verifiable cases rather than a cont
 - The financial results are modeled, not realized: the US\$1.1–5.2 million mitigation range (central estimate US\$2.8 million) depends on a probability matrix drawn from international public-audit literature rather than local data, and the study does not track whether managers complied with the recommendations.
 - Both cases come from Brazilian federal-district internal-control units with distinct mandates and baseline constraints, and the time gains diverged sharply between them (18.2% vs. 50%), so portability to other agencies or to educational institutions is untested.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[agentic-ai]]
-- [[professional-training]]
-- [[transfer-of-learning]]
-## Connected Articles
-
-- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
-- [[ase-26-agentic-software-engineering-curriculum]] — ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
-- [[guided-llm-scaffolding-independent-learning]] — Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics
-- [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
-- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
-
 ## Citation
 
 Vinicius Santana Gomes (2026). [The Main Barrier to AI Adoption in the Public Sector is Lack of Training](https://arxiv.org/abs/2606.01517).

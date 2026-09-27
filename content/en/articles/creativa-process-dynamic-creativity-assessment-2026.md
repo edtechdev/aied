@@ -62,33 +62,6 @@ The system is offered as an educational instrument rather than a selection test.
 - Validity evidence is convergent only: modest correlations with the same family of divergent-thinking measures the paper criticizes do not settle discriminant validity against unwanted constructs, nor predictive validity for anything the field cares about.
 - The cross-stage pilots — elementary, junior high and senior high school — are described without sample sizes, group statistics or design details, so the differentiation and "Prompted Shifters" observations are illustrative rather than evidential, and there is no longitudinal evidence that profiles predict later development, no analysis of whether scaffolding effects persist, and no examination of the [[equity-in-ai-education|equity]] and language-[[bias-mitigation|bias]] risks that travel with LLM scoring.
 
-## Connected Concepts
-
-- [[creativity]] — the construct being redefined and measured as process rather than product
-- [[project-based-learning]] — the staged, scenario-embedded CPS task as the assessment activity
-- [[llm]] — InnoSpark as the educational model that both scaffolds and evaluates
-- [[generative-ai]] — the technology enabling scalable interactive assessment
-- [[scaffolding]] — graduated prompting as the operationalization of the Zone of Proximal Creativity
-- [[problem-solving]] — the four-stage Creative Problem Solving cycle structuring the instrument
-- [[assessment]] — the paradigm shift from static product evaluation to process-dynamic measurement
-- [[automated-assessment]] — the AI evaluator role and the unverified consistency of machine scoring
-- [[assessment-validity]] — construct, convergent, discriminant and predictive validity questions left open
-- [[educational-measurement]] — reliability and correlation evidence from the 29-undergraduate sample
-- [[learning-analytics]] — real-time capture of behavioral and process data as the measurement substrate
-- [[conversational-ai]] — dialogue as the medium through which the assessment unfolds
-
-## Connected Articles
-
-- [[rubric-guided-genai-creativity-assessment-games-2026]] — Rubric-guided GenAI scoring of creativity in a game context
-- [[genai-creativity-k12-scoping-review-2026]] — Scoping review of generative AI and creativity in K-12 settings
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Project-based creativity with AI in vocational design education
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Conceptual landscape of measuring AI literacy with LLMs
-- [[assessment-latent-structure-human-llm-2026]] — Latent structure of assessment scores from human and LLM raters
-- [[llm-psychometric-calibration-cdp]] — Psychometric calibration of LLM-derived measures
-- [[psyscore-essay-scoring-zpd-feedback]] — Scoring within a zone-of-proximal-development logic
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-supported authentic assessment and metacognition
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — When AI scoring can be trusted, and how reliability is established
-
 ## Citation
 
 Wang, W., Zhang, Y., Li, M., Wang, Y., Wu, J., Qian, H., Zhou, A., & Guo, J. (2026). [*CREATIVA: A Preliminary Report on a Process-Dynamic Creativity Assessment System Powered by Large Language Models*](https://osf.io/preprints/psyarxiv/d4rsu_v1). Preprint (not yet peer reviewed). Shanghai Institute of AI for Education, East China Normal University.

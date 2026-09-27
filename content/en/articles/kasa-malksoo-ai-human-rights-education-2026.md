@@ -57,30 +57,6 @@ The first episode concerns session design: asked to build HRE activities from es
 - Both classroom episodes rest on the author's recollection as course instructor, with no independent record of student work, discussion quality or AI use.
 - The context is a European legal-education program in a specific regulatory environment; the author claims the insights may travel, not that they generalize as findings.
 
-## Connected Concepts
-
-- [[critical-pedagogy]] — the tradition the article works in, treating education as a site of power and of contestation
-- [[human-ai-collaboration]] — AI as a participant in the pedagogical relationship rather than a neutral instrument
-- [[generative-ai]] — the tool class integrated into course design, assignments and assessment across 2023–25
-- [[metacognition]] — reflective practice and reflection-on-action as both method and pedagogical aim
-- [[ethics]] — the rights-based frame, including privacy, non-discrimination and the right to education
-- [[equity-in-ai-education]] — participation, equality and inclusion as the principles against which adoption is judged
-- [[ai-use-disclosure]] — the disclosure question the author reframes as a condition for trust rather than a rule
-- [[governance]] — AI governance taught as a professional responsibility for future practitioners
-- [[hallucination-risk]] — why fluent answers are most dangerous where learners cannot yet judge them
-- [[agency]] — learners positioned to help shape how technology develops, not just to understand it
-- [[legal-education]] — the disciplinary setting, where technical competence and ethical judgment meet
-
-## Connected Articles
-
-- [[reflective-triangle-model-teacher-ai-2026]] — reflective practice as a structure for teacher engagement with AI
-- [[teachers-reflective-regulators-cognition-offloading]] — teachers as reflective regulators of their own cognitive work with AI
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — the critical-pedagogy reading of AI tutoring
-- [[rudolph-ai-myths-critical-higher-ed]] — critical scrutiny of AI claims in higher education
-- [[du-yuan-epistemic-dependence-2026]] — the dependence risk the polished-output episode illustrates
-- [[co-learning-ai-agent-hidden-rules-2026]] — students discovering the rules of an AI system rather than learning the discipline
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — policy and regulation in legal education, the same disciplinary setting
-
 ## Citation
 
 Kasa-Mälksoo, E. (2026). [*Challenges and opportunities of using artificial intelligence in human rights education: Reflections from higher education practice*](https://doi.org/10.1080/25355406.2026.2726840). *Human Rights Education Review*.

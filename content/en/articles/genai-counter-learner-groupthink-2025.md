@@ -41,26 +41,6 @@ A mixed-methods study under Yale IRB. 165 graduate health-professions learners (
 - Data are self-reported perceptions from 158 of the 165 participating learners, with the qualitative strand drawn solely from open-response survey comments.
 - Learners came from seven health-professions graduate programs at a single institution, so other professions (e.g., social work, addiction sciences) and non-health disciplines are unrepresented.
 
-## Connected Concepts
-
-- [[collaborative-learning]]
-- [[problem-based-learning]]
-- [[experiential-learning]]
-- [[active-learning]]
-- [[pedagogical-agent]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[student-engagement]]
-- [[ai-literacy]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[ai-communities-of-inquiry-2026]] — AI and Communities of Inquiry: collaborative inquiry with AI
-- [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards and engagement
-- [[ai-online-education-engagement-satisfaction-2026]] — AI in online education: learner engagement and satisfaction
-
 ## Citation
 
 Wiss, A., Showstark, M., Dobbeck, K., Pattershall-Geide, J., Zschaebitz, E., Joosten-Hagye, D., Potter, K., & Embry, E. (2025). [*Utilizing generative AI to counter learner groupthink by introducing controversy in collaborative problem based learning settings*](https://doi.org/10.24059/olj.v29i3.5096). *Online Learning Journal*, 29(3), 39–65.

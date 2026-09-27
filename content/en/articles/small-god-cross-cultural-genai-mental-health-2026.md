@@ -60,34 +60,6 @@ Schools and counseling services are where [[learners]] meet [[conversational-ai|
 - Platforms were self-selected rather than assigned, so interface and persona design are confounded with the reported imaginations.
 - Of 334 respondents who completed the [[self-report-measures|questionnaires]], 64 failed a validity check, and two master's-level trainees coded the attribute framework, so the taxonomy may reflect the prompt as much as participants' imagery.
 
-## Connected Concepts
-
-- [[affective-computing]] — the emotional cues and expressed empathy users attribute to systems that have neither
-- [[conversational-ai]] — the chatbot category the study interrogates through the imaginations of repeat users
-- [[culturally-relevant-pedagogy]] — imagined roles carry cultural scripts, and those scripts shape how students read the tool
-- [[generative-ai]] — the technology whose metaphysical and human-like framing is the object of the taxonomy
-- [[guardrails]] — escalation and refusal design as the practical answer to relational over-attribution
-- [[help-seeking]] — the behavior the authors warn may shrink if AI support is imagined as socially sufficient
-- [[llm]] — the underlying model class inside every imagined small god and honest friend
-- [[pedagogical-safety]] — what changes when the imagined entity is treated as a reliable emotional other
-- [[privacy]] — paired by the authors with imaginings of a mind that can read thoughts or live in one's head
-- [[sociocultural-learning]] — cultural experience supplying the raw material of imagination, which then reshapes it
-- [[trust]] — the disposition most directly produced by warm, always-available relational imagery
-- [[well-being]] — the outcome the paper frames as both promising and at risk through imaginative gap-filling
-
-## Connected Articles
-
-- [[student-mental-models-genai]] — How students' mental models of generative AI shape what they expect from it
-- [[culturally-aware-student-stress-chatbot-2026]] — A culturally aware stress and wellness chatbot for university students
-- [[ai-campus-wellbeing-tools]] — Campus well-being prevention and intervention delivered through AI tools
-- [[trust-calibration-chatbots-design-problem-2026]] — Why belief in chatbots is a calibration and design problem
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate their learning with a GenAI chatbot
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Experimenting with human-AI complementarity in social-emotional learning
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Female-coded chatbot design and the stereotypes it can reinforce
-- [[ai-learning-companions-framework]] — Designing AI companions that prioritize learning over performance
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI anxiety, emotion regulation and academic motivation in students
-- [[generative-ai-mediational-agent-sociocultural-2026]] — GenAI as a mediational agent in a sociocultural account of learning
-
 ## Citation
 
 Xiang, Y., Bassey, U.-A., & Luo, X. (2026). [*“It feels like a small God”: A thematic analysis of cross-cultural imaginations of generative AI among users seeking emotional and mental health support*](https://osf.io/preprints/psyarxiv/tw6vc_v1). *PsyArXiv Preprints*.

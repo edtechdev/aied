@@ -7,7 +7,6 @@ foundations: [academic-integrity]
 technology: [generative-ai, llm]
 assessment: [peer-assessment]
 ethics: [hallucination-risk]
-connected_faqs: [reporting-interpreting-aied-research, verify-ai-output]
 sources: ['raw/papers/citation-errors-hallucinations-computing-education-2026.md']
 confidence: high
 research_method: [bibliometric]
@@ -85,36 +84,6 @@ This is a field-level integrity audit rather than a study of learning or teachin
 - Coverage of 2026 is partial because the ACM Digital Library snapshot was taken on 1 April 2026, and UKICER, ITiCSE and CompEd had not yet run that year, making any 2026 cross-venue comparison invalid.
 - Each of the 828 suspicious records was coded once, with two coders dividing them evenly within each year, so no inter-rater reliability is available for the manual classification, and the candidate flagging relied on a locally hosted Qwen3.5-4B parse plus fuzzy matching against ACM metadata that itself produced 229 mismatch cases.
 - The audit covers only papers that survived peer review; given typical acceptance rates the submission stage likely contains a much larger population of fabricated references than the published record shows.
-
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[peer-assessment]]
-- [[llm]]
-- [[generative-ai]]
-- [[cs-education]]
-- [[meta-analysis-systematic-review]]
-- [[limitations-in-aied-research]]
-- [[quantitative-research]]
-- [[research-methods-aied]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[ai-detection]]
-- [[writing-education]]
-
-## Connected Articles
-
-- [[kumar-genai-computing-education-systematic-review-2026]] — Generative AI in computing education: systematic review and framework for responsible integration
-- [[ssaho-ai-academic-integrity-review-2025]] — Reassessing academic integrity in the age of AI
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Detecting the undetectable? Reassessing academic misconduct procedures
-- [[llm-fallacy-misattribution]] — The LLM fallacy and misattribution of competence
-- [[pairr-ai-peer-review-2025]] — Peer and AI review + reflection: a human-centered approach
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: reporting framework for AI-assisted systematic reviews
-- [[ai-ethics-bibliometric-2026]] — From abstract ethics to situated practice: bibliometric analysis of AI ethics
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Shaping responsible GenAI use in research through AI literacy
-- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — Generative AI and academic integrity of authentic assessments
 
 ## Citation
 

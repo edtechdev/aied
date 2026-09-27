@@ -37,18 +37,6 @@ The paper proposes a **three-stage [[pedagogy|pedagogical]] pathway** — Percep
 - Cognitive shifts were judged predominantly through qualitative classroom discourse analysis and observational indicators, with no standardized psychometric instruments, so the authors call for validated measures before larger-scale validation.
 - Generalizability across regions and socio-economic school tiers is untested, and the authors flag how variation in students' mathematical baselines may alter progress through the activation and deepening phases.
 
-## Connected Concepts
-- [[early-childhood-elementary-ai-education]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[computational-thinking]]
-- [[math-education]]
-- [[k-12]]
-
-## Connected Articles
-
 ## Citation
 
 Li, L., & Cao, Y. (2026). [*Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction — A Case Study of the Compound Line Graph*](https://arxiv.org/abs/2606.09598).

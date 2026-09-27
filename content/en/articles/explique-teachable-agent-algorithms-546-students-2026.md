@@ -52,23 +52,6 @@ page_kind: [evaluation]
 - Conceptual understanding is operationalized as the number of autograded MCQ attempts with unlimited retries, a behavioral proxy — effort, quiz strategy or circumvention moves that number as readily as understanding does.
 - By Weeks 10–11 roughly 30–35% of interactions involved external content use, so late-semester behavior was partly measured under a circumvention pattern rather than genuine teaching.
 
-## Connected Concepts
-
-- [[learning-by-teaching]]
-- [[generative-ai]]
-- [[cs-education]]
-- [[desirable-difficulties]]
-- [[scaffolding]]
-- [[higher-ed]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT as a teachable agent in programming
-- [[prompting-teachability-novice-personas-lbt-2026]] — Designing novice personas for teachability
-- [[hazra-safetutors-pedagogical-safety-2026]] — Safety and harms of AI tutoring
-- [[curiobot-llm-tutoring-exploratory-learning]] — LLM tutoring for exploratory learning
-
 ## Citation
 
 Wang, C., Petrie, C., Stouras, M., Ettlin, N., George, A., Mejia-Domenzain, P., Swamy, V., Käser, T., & Svensson, O. (2026). [*Turning 500+ Students into Teachers: A Semester-Long Study of an AI Teachable Agent in an Undergraduate Algorithms Course*](https://doi.org/10.1145/3774398.3811623). In *Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S '26)*.

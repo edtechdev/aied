@@ -5,7 +5,6 @@ updated: "2026-09-26T07:13:32-04:00"
 type: article
 foundations: [educational-development, teacher-ai-competency]
 technology: [generative-ai]
-connected_faqs: [faculty-development-ai]
 pedagogy: [professional-training]
 research_method: [quasi-experiment, instrument development, survey]
 audience: [faculty developers]
@@ -68,21 +67,6 @@ The authors interpret the large effects through the lens of focus on immediate, 
 - No follow-up measurement was taken after the 8-hour program, so the study cannot say whether gains persist after 6 months or a year — the sustainability question its own authors raise.
 - Every AI-PCK outcome is self-reported on a researcher-developed 5-point Likert questionnaire (10 items per component, total range 50–250; [[educational-measurement|Cronbach's alpha]] = 0.88), with no classroom observation or student-outcome measure.
 - Teachers from all disciplines were pooled and analyzed together, with no [[discipline-specific-aied|discipline-specific]] breakdown of AI-PCK needs.
-
-## Connected Concepts
-
-- [[research-methods-aied]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[professional-training]]
-- [[teacher-ai-competency]]
-- [[tpack]]
-## Connected Articles
-
-- [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK teacher multi-agent workflow
-- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education review
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher education policy
-- [[talebzadeh-ai-green-education-2026]] — AI in green education
 
 ## Citation
 

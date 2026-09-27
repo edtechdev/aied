@@ -72,30 +72,6 @@ These are structurally new competencies, not refinements. Design defaults are li
 - The principal-side competencies it proposes are unvalidated: no instrument measures them, and the paper notes that no AI literacy measurement scale has been tested for cross-cultural validity.
 - The governance argument rests on the EU AI Act Article 4 obligation as a policy anchor, but the paper evaluates neither whether such mandates change literacy outcomes nor the costs of the design and policy changes it recommends.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[cognitive-offloading]]
-- [[governance]]
-- [[trust-calibration]]
-- [[trust]]
-- [[ethics]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[higher-ed]]
-- [[educational-policy-ai]]
-
-## Connected Articles
-
-- [[genai-minoritized-knowledges-disability]] — Who bears the costs of AI deployment (knowledge/equity framing)
-- [[digital-literacy-illusion]] — Students overestimate their AI readiness
-- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing
-- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use
-- [[beyond-detection-authentic-assessment-ai-2025]] — Redesigning authentic assessment beyond detection
-- [[prompt-injection-defenses-educational-llm-tutors]] — Prompt injection defenses for educational LLM tutors
-
 ## Citation
 
 Nama, R. (2026). [*Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named*](https://arxiv.org/abs/2605.27396). *AI & Ethics*.

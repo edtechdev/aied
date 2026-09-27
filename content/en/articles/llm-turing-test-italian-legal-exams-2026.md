@@ -34,26 +34,6 @@ The article reports on a blind Turing Test experiment, assessing the performance
 - The models had internet access whereas human candidates are restricted to a very limited set of legal materials, an asymmetry the paper says may influence performance on tasks requiring doctrinal or jurisprudential recall.
 - Results are tied to the Italian legal system and to the state of the technology in September 2025, so transfer to other jurisdictions and to later model releases is not established.
 
-## Connected Concepts
-
-- [[benchmark]]
-- [[human-in-the-loop-ai]]
-- [[automated-essay-scoring]]
-- [[ai-ed-evaluation]]
-- [[open-source]]
-- [[assessment]]
-- [[professional-training]]
-- [[llm]]
-- [[legal-education]] — the professional program whose examinations the benchmark tests
-## Connected Articles
-
-- [[machines-misread-pedagogical-quality]] — Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback
-- [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
-- [[llm-computational-thinking-physics-2026]] — Using LLMs to Detect Growth in Computational Thinking in Introductory Physics
-- [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education
-- [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals
-
 ## Citation
 
 Bertoli, Germana et al. (2026). [What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries](https://arxiv.org/abs/2608.06166).

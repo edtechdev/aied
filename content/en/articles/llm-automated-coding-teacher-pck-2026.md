@@ -64,30 +64,5 @@ The authors attribute the results to the framework rather than the particular LL
 - GradeOpt still trailed human coders on PCK items, and its refinement did not sufficiently support distinguishing adjacent categories on the most complex items.
 - The study used GPT-4o throughout via OpenAI's developer API, a superseded generation; the authors attribute the gains to the framework rather than the model, but report no data-collection window or newer-model replication, so absolute figures are tied to that generation.
 
-## Connected Concepts
-- [[llm]]
-- [[prompt-engineering]]
-- [[educational-nlp]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[math-education]]
-- [[teacher-education]]
-- [[human-in-the-loop-ai]]
-- [[generative-ai]]
-- [[misconceptions]]
-- [[quantitative-research]]
-- [[psychometrically-aware-ai]]
-- [[ai-ed-evaluation]]
-
-## Connected Articles
-- [[teaching-monster-pck-benchmark-2026]] — Findings of the First Teaching Monster Challenge: A Benchmark of Pedagogical Content Knowledge in AI Agents
-- [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: A comparative evaluation of AI-rated scores in classroom observations
-- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring
-- [[durable-skills-measurement-ai-teammates-2026]] — Towards Scalable Measurement of Durable Skills
-- [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation with Large Language Models
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — AI Literacy of Teachers: Prompt Engineering and Model Selection as Predictors of AI-Feedback Quality
-
 ## Citation
 Copur-Gencturk, Y., Moreno, K., Chu, Y., Li, H., & Tang, J. (2026). [*Automated coding of content and pedagogical content knowledge of mathematics using a multi-agent large language model*](https://doi.org/10.1007/s11858-026-01796-2). *ZDM – Mathematics Education*.

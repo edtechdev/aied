@@ -40,24 +40,6 @@ methods: [qualitative-research]
 - Participants represent one disability group — learners with visual impairments — so the findings cannot be extended to auditory, cognitive, or mobility needs without further study.
 - The study captures perceptions at one point in the rapid development of generative AI; the authors state that a longitudinal design is needed because usage patterns will shift as the tools change.
 
-## Connected Concepts
-
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[assistive-technology]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[qualitative-research]]
-- [[global-south]]
-
-## Connected Articles
-
-- [[nguyen-genai-global-south-review-2026]]
-- [[prompt-privilege-equitable-ai-access-2026]]
-- [[tactile-statistical-graphs-accessibility]]
-- [[access-not-enough-ai-tutoring-2026]]
-
 ## Citation
 
 Khlaif, Z. N., Alshakhshir, R., Hamamra, B., & Joma, A. (2026). [Assistive generative AI for visually impaired learners: Personalization and inclusion in higher education](https://doi.org/10.1016/j.ijaied.2026.100008). *International Journal of Artificial Intelligence in Education*, 36, 100008.

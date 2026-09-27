@@ -44,21 +44,6 @@ This work provides a validated, expert-informed roadmap for evaluating the pedag
 - Pairwise AHP comparisons remain susceptible to anchoring and confirmation bias despite Delphi rounds and consistency ratios below 0.10, and culturally related indicators (C9, C16) showed the highest judgment volatility across the Monte Carlo runs.
 - Indicators S6–S8 reflect expert perceptions of transformation potential rather than classroom observation or longitudinal student outcomes, the framework captures a single static snapshot of weights, and the findings are conceptually transferable rather than statistically generalizable — no causal link between curriculum alignment and learning outcomes is established.
 
-## Connected Concepts
-- [[tpack]]
-- [[higher-ed]]
-- [[curriculum-design]]
-- [[assessment]]
-- [[ai-literacy]]
-- [[teacher-education]]
-- [[adaptive-learning]]
-
-## Connected Articles
-- [[ai-tpack-mathematics-teacher-education-2026]] — Assessing AI-TPACK Readiness in Mathematics Teacher Education
-- [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify? Cognitive Stewardship
-- [[credentials-carry-evidence-ai-agents-2026]] — Credentials That Carry Their Evidence: Credential Design
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Enhancing AI Literacy Course Satisfaction Through Empowerment in AI Problem-Solving
-
 ## Citation
 
 Wu, Z., & Li, Q. (2026). [Evaluation indicator system for AI certificate programs](https://doi.org/10.1186/s41239-026-00604-x). *International Journal of Educational Technology in Higher Education, 23*, 32.

@@ -40,23 +40,6 @@ methods: [meta-analysis-systematic-review]
 - The absence of a control or comparison group was a frequent design constraint in the quantitative and non-randomized studies, limiting causal inference, and participant diversity (cultural background, prior knowledge, demographics) was often not reported.
 - Almost none of the included studies provided public access to their datasets, agent source code, or implementation details, limiting reproducibility and comparison across agent architectures.
 
-## Connected Concepts
-
-- [[collaborative-learning]]
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[scaffolding]]
-- [[human-ai-collaboration]]
-- [[learning-gains]]
-- [[equity-in-ai-education]]
-- [[conversational-ai]]
-
-## Connected Articles
-
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent in CS education
-- [[genai-counter-learner-groupthink-2025]] — GenAI agent counters groupthink in PBL
-
 ## Citation
 
 Ba, S., Shi, X., Wu, S., & Lu, G. (2026). [*Artificial intelligence agents in computer-supported collaborative learning: a systematic literature review*](https://doi.org/10.1016/j.caeai.2026.100579). *Computers and Education: Artificial Intelligence*, 10, 100579.

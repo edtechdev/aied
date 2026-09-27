@@ -45,25 +45,6 @@ The study adopted a mixed-methods paradigm guided by a [[constructivist]] episte
 - No objective outcome measure was used, so the reported gains in [[creativity]] and [[ethics|ethical reasoning]] remain student claims; the authors note the absence of pre/post achievement or cognitive-load testing.
 - Sentiment analysis (a fine-tuned DistilBERT validated at 89% accuracy) surfaced affective trends, but the study did not examine how emotions such as anxiety or confusion shape [[student-engagement|engagement]] with GenAI.
 
-## Connected Concepts
-
-- [[design-thinking]]
-- [[generative-ai]]
-- [[creativity]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[scaffolding]]
-- [[higher-ed]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[learn-framework-responsible-genai-pbl-2026]]
-- [[critical-thinking-biological-sciences-ai-2025]]
-- [[tam-critical-use-genai-engineering-2026]]
-
 ## Citation
 
 Rana, V., Verhoeven, B., & Sharma, M. (2025). [*Generative AI in design thinking pedagogy: Enhancing creativity, critical thinking, and ethical reasoning in higher education*](https://doi.org/10.53761/tjse2f36). *Journal of University Teaching and Learning Practice*, 22(4).

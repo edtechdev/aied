@@ -35,25 +35,6 @@ The framework emphasizes [[equity-in-ai-education|cultural contextualization]] o
 - The authors claim analytical rather than statistical generalization, and name multi-site and longitudinal validation as future work; as a single-site pilot, generalizability is unestablished.
 - Only three museum educators acted as community partners and the prototype was validated through participatory feedback at Week 7 rather than through comparative evaluation against human-only baselines, which the authors also list as outstanding.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[collaborative-learning]]
-- [[culturally-relevant-pedagogy]]
-
-## Connected Articles
-
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[xai-education-framework]] — Explainable Artificial Intelligence in Education (XAI-ED)
-- [[ai-literacy-career-adaptability-business-2026]] — AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education
-- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analyzing Dyslexic Learners Insights from Online Forums
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-
 ## Citation
 
 Zhao, J., Zhang, W., Cai, J., Gao, H., & Zhang, L. (2026). [*Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design*](https://arxiv.org/abs/2606.09041).

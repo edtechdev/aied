@@ -63,35 +63,6 @@ The work is an experiment on ASAP/ASAP++, a trait-score-annotated corpus of eigh
 - Prompting methods are evaluated on a single fold while SFT and GRPO use five, so prompting and training numbers are not measured on identical evaluation samples; the independent-evaluator check is run on one fold only, and the evaluation-only verifier is itself fit to the evaluation data, so that result is read through the relative SFT to GRPO gain.
 - Proficiency is modeled as a static trait profile, and both backbones are fine-tuned through QLoRA adapters, so evolving knowledge, [[misconceptions]], motivation and writing strategies over time are outside the scope and the conclusions about the supervision hierarchy rest on two small open-weight models.
 
-## Connected Concepts
-- [[simulating-students]] — the task in question, extended here from short responses to full essays
-- [[automated-essay-scoring]] — both the evaluation metric and the reward source
-- [[writing-education]] — the domain and the construct being simulated
-- [[pedagogical-llm-training]] — SFT and reward-based training for education-specific behavior
-- [[student-modeling]] — trait profiles as the modeled student state
-- [[prompt-engineering]] — rubric-grounded prompting baselines
-- [[reinforcement-learning]] — GRPO with the Proficiency Alignment Reward
-- [[llm]] — the generators being conditioned
-- [[generative-ai]] — the technology class under study
-- [[assessment]] — rubric traits and score ranges define the target
-- [[quantitative-research]] — controlled comparison with five-fold cross-validation
-- [[k-12]] — ASAP essays come from grade 7 to 10 writers
-
-## Connected Articles
-
-- [[misconception-acquisition-dynamics-llms-2026]] — the same supervision question for mathematics: what training data a simulator needs to hold an error
-- [[llm-student-simulation-misconception-faithfulness]] — simulators abandon assigned errors under correction, a related realism failure
-- [[simulating-students-llm-review-2026]] — the wider review of LLM-based student simulation
-- [[valid-student-simulation-llm-2026]] — validity conditions that any simulator must satisfy
-- [[studentsim-llm-student-simulators]] — general-purpose student simulators for tutoring interaction
-- [[simulating-students-diverse-cognitive-levels-2025]] — conditioning simulators on learner level rather than writing traits
-- [[inside-llm-student-simulator-reasoning-2026]] — what happens inside a simulator when it plays a learner
-- [[history-aware-student-simulation]] — simulating a learner state that changes over time
-- [[llms-do-not-grade-essays-like-humans-2026]] — the AES-side reliability problem that constrains this evaluation loop
-- [[gpt-human-rater-essay-assessment-2026]] — human and model rater agreement on essays
-- [[llm-essay-assessment-framework-reliability-2026]] — reliability framing for LLM essay scoring
-- [[pecuchova-automated-grading-open-ended-genai-2026]] — automated grading of open-ended student work
-
 ## Citation
 
 Do, H., Kontak, J., & Sachan, M. (2026). [SWIM: Student Writing Simulation via Proficiency-Conditioned Generation](https://arxiv.org/abs/2609.03215). *Findings of the Association for Computational Linguistics: EMNLP 2026*.

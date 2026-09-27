@@ -39,23 +39,6 @@ audience: [instructional designers, instructors]
 - All five perception dimensions are self-reported, and the beta analysis rests on the 83 of 122 invited students who completed all five questionnaires; attrition across the multi-week study reduced statistical power and constrained model complexity.
 - Adaptive support was driven mainly by group-level performance, so it may not accurately reflect individual knowledge or behavior.
 - The evaluation sits in a single institution and two courses with a relatively homogeneous age range (M = 23.0, SD = 2.59), and the needs analysis drew on n = 100 students in one course, limiting generalizability.
-## Connected Concepts
-
-- [[conversational-ai]]
-- [[game-based-learning]]
-- [[business-education]]
-- [[universal-design-for-learning]]
-- [[self-regulated-learning]]
-- [[simulation]]
-- [[adaptive-learning]]
-
-## Connected Articles
-
-- [[ai-enabled-serious-games]] — AI and adaptivity in serious games for training
-- [[conversational-agents-novice-programmers-scoping-2025]] — conversational agents and design grounding in learning theory
-- [[ludia-udl-ai-thought-partner-2026]] — UDL-aligned AI tool design and equity-by-design
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — adaptive AI scaffolding for collaborative problem solving
-
 ## Citation
 
 [Designing Conversational Agents for Adaptive Instructional Support in Business Simulation Gaming](https://www.sciencedirect.com/science/article/pii/S2666920X2600038X) — Wenzel, A., Geiger, J.-M., & Liening, A. (2026). *Computers and Education: Artificial Intelligence*, 10, 100576.

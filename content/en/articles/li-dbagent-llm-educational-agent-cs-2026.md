@@ -42,31 +42,6 @@ page_kind: [evaluation]
 - Cognitive-engagement findings come from lag sequential analysis of interaction logs, and the psychological-safety explanation is inferred from those sequences rather than measured.
 - Efficacy varied by cohort — a Geoscience-major class underperformed the CS cohorts on Task 2 — so the pooled improvement masks subgroup differences driven by domain-specific digital readiness.
 
-## Connected Concepts
-
-- [[llm]]
-- [[agentic-ai]]
-- [[intelligent-tutoring]]
-- [[cs-education]]
-- [[cognitive-diagnosis]]
-- [[cognitive-offloading]]
-- [[student-ai-interaction]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-
-## Connected Articles
-
-- [[conversational-ai-tutors-framework]] — Conversational AI tutors framework
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: pedagogical LLM agents
-- [[measuring-llm-tutors-teach-vs-solve]] — Whether LLM tutors teach or solve
-- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs general AI
-- [[deeptutor]] — DeepTutor: open-source agentic tutoring framework
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
-
 ## Citation
 
 Li, X., Liu, Z., Jiang, S., Chen, J., & Chen, W. (2026). [*The impact of an LLM-based educational agent on learning achievement, cognitive dynamics, and student perceptions in computer science education*](https://doi.org/10.1186/s40594-026-00641-y). *International Journal of STEM Education*, 13, 51.

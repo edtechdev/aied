@@ -49,28 +49,6 @@ Quality was graded A, B, or C across four domains using a decision matrix adapte
 - Because 31 of 33 instruments were self-report, the synthesis describes how AI literacy is conceptualized and measured, not how it is enacted in practice.
 - The appraisal was conducted by the first author using a pre-specified decision matrix, and the review captures a snapshot of a fast-moving field.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[self-assessment]]
-- [[assessment-validity]]
-- [[psychometrically-aware-ai]]
-- [[item-response-theory]]
-- [[professional-training]]
-
-## Connected Articles
-
-- [[ai-literacy-assessment-misalignment]] — Parallel self-report and objective measures of teacher AI literacy barely agreed across 288 K-12 teachers.
-- [[genai-skill-bypass-literacy]] — Divergent AI literacy pathways among university students and staff.
-- [[pedlow-genai-selfassessment-2026]] — Guided GenAI self-assessment builds ethical awareness in transitioning higher education students.
-- [[critical-media-literacy-education-2026]] — Critical media literacy as a frame for evaluating AI-mediated information.
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Measuring acceptance of developmentally tiered AI literacy guidebooks across K-12 students and teachers.
-- [[ai-literacy-instrument-development-systematic-review-2026]] — PRISMA review of 47 AI literacy instruments and their psychometric quality.
-
 ## Citation
 
 Zainal, M. A., Mohd Matore, M. E. E., & Maat, S. M. (2026). [*Assessing teachers' AI literacy: a systematic review of measurement tools*](https://doi.org/10.1080/10494820.2026.2668793). *Interactive Learning Environments*.

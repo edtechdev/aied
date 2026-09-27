@@ -64,33 +64,6 @@ The paper argues such raters can function as scalable, unobtrusive assessors tha
 
 The study is bounded by its context: one 2D physics game, one level-editor task, and a dataset of 421 levels drawn from an earlier study of college students, so transferability to other domains, artifact types and age groups is untested, and the paper's own framing is physics and [[science-education|science]] education's game contexts rather than a general claim. The results are tied to GPT-4o and its specific version: prompting behavior and multimodal handling change across releases, and the model-comparison result shows that performance is not stable across a family, so the .74 figure should be read as a snapshot rather than a property of LLM-based scoring. Correlation is not agreement, and no score-level bias, calibration or absolute-error analysis is reported, so a model could rank levels in human order while displacing every score. The human criterion is two raters averaged, so their own variance is folded into the ground truth, and small differences in rater interpretation of dimensions such as humor or title creativity would cap what any model can achieve. Finally, dimension-level correlations are reported without per-dimension reliability for the human raters, and no [[qualitative-research|qualitative]] error analysis examines the levels where model and experts diverged most. These are ordinary [[limitations-in-aied-research|limitations of AIED research]] on measurement: the evidence supports rubric-guided LLMs as a screening and ranking aid at scale, and leaves their standing as a substitute for expert judgment open.
 
-## Connected Concepts
-
-- [[creativity]] — the construct under measurement, operationalized as novelty plus appropriateness in a designed artifact
-- [[automated-assessment]] — rubric-guided LLM scoring of student products as a scalable alternative to expert panels
-- [[assessment-validity]] — Spearman correlations with bootstrapped confidence intervals as the validity criterion
-- [[educational-measurement]] — averaged expert ratings as ground truth, run-to-run reliability and RMSE
-- [[game-based-learning]] — Physics Playground's level editor as the authentic, unobtrusive assessment context
-- [[multimodal]] — image plus structured JSON as the condition that best matched human ratings
-- [[llm]] — GPT-4o as the rater, with smaller models compared alongside it
-- [[generative-ai]] — the capability class being tested as an assessor rather than a generator
-- [[ai-feedback-quality]] — the accuracy question behind machine judgment of creative work
-- [[prompt-engineering]] — rubric text and structured JSON output as the highest-leverage intervention
-- [[psychometrically-aware-ai]] — correlation, reliability across runs and the correlation-is-not-agreement caveat
-- [[limitations-in-aied-research]] — single game, model-version dependence and unresolved rater variance
-
-## Connected Articles
-
-- [[llm-computational-thinking-physics-2026]] — LLMs mirroring human coders on physics problem-solving constructs
-- [[gpt-human-rater-essay-assessment-2026]] — Variability and bias when GPT and human raters score the same essays
-- [[bandit-driven-llm-essay-scoring-2026]] — Cutting the cost of LLM scoring through prompt selection
-- [[aiawe-automated-writing-evaluation]] — Open-source LLM writing evaluation with adapted instruction-tuned models
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — LLMs turned on assessment artifacts themselves
-- [[ground-truth-reliability-aied]] — Improving the reliability and validity of the human criterion
-- [[durable-skills-measurement-ai-teammates-2026]] — Rubric-based autorating of creativity in AI-mediated group tasks
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Design creativity as an outcome in AI-enabled project-based environments
-- [[rhaimi-productivemath-2025]] — The same group's generative-AI app for productive-failure teaching
-
 ## Citation
 
 Rahimi, S., Li, H., Esmaeiligoujar, S., & Ercan, D. (2026). [*Rubric-Guided Generative AI for Scalable Creativity Assessment in Educational Games*](https://osf.io/preprints/psyarxiv/3ybw7_v1).

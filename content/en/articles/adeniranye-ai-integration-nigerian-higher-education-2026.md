@@ -44,23 +44,6 @@ Three trained [[research-methods-aied|researchers]] conducted a comparative cont
 - A modest N = 45 limits statistical power and yields wide confidence intervals, so the reported relationships are associations rather than causal estimates.
 - The single cross-sectional time point cannot track the pace at which AI adoption is changing.
 
-
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[global-south]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[higher-ed]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[nguyen-genai-global-south-review-2026]] — Systematic review of GenAI in Global South education
-- [[multilingual-adaptive-learning-nigeria-2026]] — Adaptive learning in the Nigerian higher education context
-- [[pre-service-science-teachers-ai-perceptions-2026]] — AI acceptance among Ghanaian science teachers
-
 ## Citation
 
 Adeniranye, D. I., Lunn, S. J., Mosobalaje, O., Eze, P., Berhane, B., & Adeniyi, D. (2026). [Institutional structures, digital inequality, and AI integration in higher education](https://doi.org/10.1016/j.caeo.2026.100400). *Computers and Education Open, 11*, 100400.

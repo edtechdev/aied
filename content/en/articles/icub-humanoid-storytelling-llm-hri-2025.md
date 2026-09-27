@@ -29,20 +29,8 @@ This is a **usability/quality-of-experience study** of an LLM-powered narrative 
 - **Designers.** Budget more turns than the mean 5 ± 0.45 actually used per trial, since 28% of participants wanted additional turns while still accepting the roughly one-hour session length.
 - **Researchers.** Report component-level reliability alongside usability scores: VLM sticker agreement was 86% and overall system success 88%, so voice, detection, and LLM failures set the real ceiling on the experience.
 
-
 ## Limitations
 The study focuses on usability and perceived quality of experience rather than measured [[learning-gains|learning outcomes]]; sample sizes and context are not specified in the abstract. The iCub platform is research hardware with limited classroom availability, and the generalizability of the LLM-integrated interaction framework to other robot platforms and age groups warrants further study.
-## Connected Concepts
-- [[early-childhood-elementary-ai-education]]
-- [[educational-robotics]]
-- [[llm]]
-- [[student-engagement]]
-
-## Connected Articles
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy: LLM-Powered Social Robots for Storytelling
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Embodiment in Creative Writing
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
-- [[social-robot-study-companions]] — Social Robots as Study Companions
 ## Citation
 
 Lombardi, M., Calabrese, C., Ghiglino, D., Foglino, C., De Tommaso, D., Da Lisca, G., Natale, L., & Wykowska, A. (2025). [*Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative human-robot interaction*](https://arxiv.org/abs/2508.02505).

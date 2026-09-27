@@ -7,7 +7,6 @@ foundations: [cognitive-offloading, reducing-ai-misuse]
 pedagogy: [desirable-difficulties, scaffolding, self-regulated-learning]
 technology: [learning-analytics]
 assessment: [learning-gains]
-connected_faqs: [reducing-over-reliance, asynchronous-online-courses-ai]
 level: [k 12]
 sources: ['raw/papers/brcic-effortless-trap-productive-struggle-2026.md']
 confidence: high
@@ -39,28 +38,6 @@ page_kind: [framework]
 - The frame covers one idea, on first encounter, in a single pass; durable retention through spacing and review is a layer above it, and the assessment architecture, AI-use contracts, syllabus templates, and per-course blueprints are explicitly out of scope.
 - Several of its anchors are thin by the authors' own account: the access-timing study is a single lab with N = 105, the cognitive-offloading EEG work it cites is small and contested and must be read alongside its published critique, and the tutor "doubling" comes from one elite crossover course rather than a general magnitude.
 - The motivating master-teacher cases (Aristotle, Keller, Rátz, Szubartowski) illustrate what one-to-one mentoring can achieve but cannot establish causation — selection and survivorship effects dominate and the figures are non-peer-reviewed — and the model assumes the motivated, engaged student it cannot itself supply.
-
-## Connected Concepts
-
-- [[desirable-difficulties]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[socratic-method]]
-- [[self-efficacy]]
-- [[learning-gains]]
-- [[transfer-of-learning]]
-- [[k-12]]
-- [[reducing-ai-misuse]]
-- [[cognitive-surrender]]
-
-## Connected Articles
-
-- [[efficiency-gain-illusion-ai-overreliance]] — Efficiency gain illusion and AI over-reliance
-- [[ai-making-us-stupid]] — Is AI making us stupid?
-- [[generative-ai-reduced-study-time-math]] — Generative AI reduced study time in math
-- [[genai-performance-vs-learning]] — GenAI performance vs. learning
-- [[cognitive-offloading-speedup-illusion]] — The cognitive offloading speedup illusion
 
 ## Citation
 

@@ -41,27 +41,6 @@ page_kind: [evaluation]
 - There is no control group and no baseline ability measure, so the correlational design cannot separate LLM effects from pre-existing differences in student ability.
 - Tests were one-sided and non-parametric on a small sample, giving wide bootstrap intervals — the headline correlation's CI spans [−0.626, −0.044] — and the ten-week window cannot speak to long-term learning trajectories.
 
-## Connected Concepts
-
-- [[llm]]
-- [[cs-education]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[critical-thinking]]
-- [[self-regulated-learning]]
-- [[human-ai-collaboration]]
-
-## Connected Articles
-
-- [[reshaping-cs-education-genai]]
-- [[chatgpt-programming-education-text-mining]]
-- [[genai-meta-analysis-programming-learning]]
-- [[llm-programming-support-governance-cs-education]]
-- [[genai-over-reliance-learning-2026]]
-- [[genai-performance-vs-learning]]
-- [[llm-reliance-types-undergrad]]
-- [[trio-ethnography-llm-programming-education]]
-
 ## Citation
 
 Jošt, G., Taneski, V., & Karakatič, S. (2024). [*The impact of large language models on programming education and student learning outcomes*](https://doi.org/10.3390/app14104115). *Applied Sciences*, 14(4115).

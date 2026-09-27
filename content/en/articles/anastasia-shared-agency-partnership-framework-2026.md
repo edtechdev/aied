@@ -60,30 +60,6 @@ A central argument distinguishes self-direction from isolation. Anastasia propos
 - The framework is grounded in the author's own practice as a faculty member, dissertation chair, and researcher in higher education rather than in systematic observation, participant data, or a validated instrument.
 - The paper does not specify how the eight conditions would be measured or distinguished operationally, leaving their relative weighting and ordering untested.
 
-## Connected Concepts
-
-- [[pedagogical-partnerships]]
-- [[agency]]
-- [[self-determination-theory]]
-- [[self-efficacy]]
-- [[adult-learning]]
-- [[motivation]]
-- [[teacher-role]]
-- [[trust]]
-- [[higher-ed]]
-- [[student-engagement]]
-- [[feedback]]
-- [[collaborative-learning]]
-
-## Connected Articles
-
-- [[kim-ai-andragogy-2026]]
-- [[student-centered-genai-responsible-framework-2026]]
-- [[guided-inquiry-genai-course-policy-2026]]
-- [[kim-ai-productive-failure-adult-2026]]
-- [[activity-theory-teacher-pd-ai-agent-design-2026]]
-- [[reflective-triangle-model-teacher-ai-2026]]
-
 ## Citation
 
 Anastasia, C. (2026). [Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration](https://ssrn.com/abstract=7334378). SSRN Working Paper.

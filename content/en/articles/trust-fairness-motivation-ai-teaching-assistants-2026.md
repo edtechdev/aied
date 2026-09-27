@@ -41,34 +41,10 @@ Eight latent constructs were measured at every wave on five-point Likert scales:
 
 ## Limitations
 
-
 - **Observational design with a bounded window.** Despite within-person estimation, there was no random assignment to AI teaching assistant conditions or experimental manipulation of trust- or fairness-relevant features, so the associations cannot be read as causal; with only two four-week intervals, semester-level compounding of the per-interval effects is an explicitly speculative hypothesis rather than a finding, and the four-week spacing may miss micro-temporal processes better captured by experience sampling.
 - **Small-to-medium effects.** The within-person cross-lagged effects are statistically robust and FDR-corrected but bounded in practical import, and the power analysis was calibrated to effects of about that size.
 - **Everything measured by self-report, with alternatives left unmodeled.** Temporal separation and statistical remediation for common method variance cannot eliminate it fully, and behavioral indicators were not used; basic psychological need satisfaction, affective responses such as anxiety and frustration, and technology self-efficacy remain unmodeled as alternative mediators.
 - **Sample generalizability.** Undergraduates at three Chinese public universities: trust norms, power-distance orientations and responses to authority-like technological systems are culturally patterned, so the findings are scoped to that setting.
-
-## Connected Concepts
-
-- [[trust]] — the antecedent construct, decomposed into ability, benevolence and integrity dimensions.
-- [[trust-calibration]] — the paper concerns whether student trust aligns with AITA reliability and how it recalibrates over time.
-- [[motivation]] — intrinsic and extrinsic learning motivation is the outcome construct.
-- [[self-determination-theory]] — supplies the differential-pathway hypothesis linking procedural fairness to autonomous regulation.
-- [[equity-in-ai-education]] — distributive, procedural and interactional justice operationalize fairness toward AITA-allocated support.
-- [[pedagogical-agent]] — AI teaching assistants are conversational and adaptive pedagogical agents.
-- [[higher-ed]] — the setting and population are undergraduate higher education.
-- [[student-ai-interaction]] — trust and fairness are formed through sustained student-AITA interaction.
-
-## Connected Articles
-
-- [[trust-reliance-ai-education-2026]] — trust and reliance on AI in education, with AI literacy and need for cognition as moderators.
-- [[trust-calibration-chatbots-design-problem-2026]] — miscalibrated chatbot trust treated as a design problem, complementing the ability-trust design implications here.
-- [[human-ai-collaboration-trust-expectations]] — trust and distrust in higher-education human-AI collaboration.
-- [[calibrating-trustworthiness-llm-education-2026]] — co-designed metrics for evaluating LLM trustworthiness in education.
-- [[liang-ai-learning-motivation-sdt-2026]] — latent transition analysis of students' AI learning motivation within an SDT framing.
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — SDT need satisfaction in GenAI-supported classrooms, the parallel mediator left untested here.
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — pedagogical fairness of LLM tutors across student demographics, the design-side counterpart to perceived-justice measurement.
-- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]] — an AI teaching assistant system deployment, the same artifact class studied here.
-- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a learning partner tracked over time, a comparable longitudinal design.
 
 ## Citation
 

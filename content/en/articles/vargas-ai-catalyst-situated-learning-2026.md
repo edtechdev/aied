@@ -37,24 +37,6 @@ confidence: high
 - Cost, infrastructure, and educator training are named as open barriers, meaning the proposal assumes resources — simulation development, maintenance, and technical support — that many institutions do not have.
 - The predicted benefits are not differentiated by context or discipline; the essay offers no evidence about which learners, subjects, or settings gain most from AI-mediated situated learning.
 
-## Connected Concepts
-
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[constructivist]]
-- [[ai-education]]
-- [[learning-design]]
-- [[teacher-role]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — Embodied Inquiry with an AI Facilitator in Physics Education
-- [[metacognitive-awareness-experiential-vs-instructional]] — Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness
-- [[genai-ar-physics-simulation-prompt-2026]] — GenAI-Powered AR Physics Simulations
-- [[benzion-ai-physics-simulations-virtual-lab]] — AI Simulations and Virtual Labs in Physics
-
 ## Citation
 
 Vargas, E. G., Chiappe, A., & Fontán de Bedout, L. (2026). [Connecting Education with Reality: AI as a Catalyst for Situated Learning](https://doi.org/10.1080/00131725.2025.2596001). The Educational Forum, 90(2), 237–247.

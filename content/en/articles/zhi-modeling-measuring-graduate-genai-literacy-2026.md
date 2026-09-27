@@ -72,25 +72,6 @@ For [[metacognition|metacognitive]] and ethical development, they suggest case d
 - The model rests on professors’ normative judgments about what students ought to know, not students’ own accounts of practice, and the sample was small and predominantly male.
 - Each indicator used a single self-report item, and the cross-sectional design cannot establish causal ordering among the dimensions.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[theories-and-frameworks]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[generative-ai]]
-- [[academic-integrity]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[assessment-validity]]
-- [[psychometrically-aware-ai]]
-
-## Connected Articles
-
-- [[ai-literacy-instrument-development-systematic-review-2026]]: instrument development and psychometric quality
-- [[ai-literacy-assessment-misalignment]]: self-reported versus objective-based measures
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]]: conceptual landscape in AI literacy measurement
-
 ## Citation
 
 Zhi, Y., Yang, W., & Huang, K. (2026). [*Modeling and measuring graduate students’ generative AI literacy: a study based on Marzano’s taxonomy*](https://doi.org/10.3389/fpsyg.2026.1883978).

@@ -40,23 +40,6 @@ level: [k 12, teacher education]
 - The study did not record whether students engaged with AI individually, collaboratively, or as a whole class, nor the frequency or duration of use, so the authors cannot rule out that disparities in technological mastery shaped the reported outcomes.
 - Teachers drew on different tool types — generative AI, virtual labs and simulations, or both — which the authors state limited the comparability of their experiences and interpretations.
 
-## Connected Concepts
-
-- [[constructivist]]
-- [[experiential-learning]]
-- [[embodied-learning]]
-- [[simulation]]
-- [[intelligent-tutoring]]
-- [[stem-education]]
-- [[teacher-role]]
-- [[k-12]]
-
-## Connected Articles
-
-- [[pre-service-science-teachers-ai-perceptions-2026]]
-- [[benzion-ai-physics-simulations-virtual-lab]]
-- [[genai-ar-physics-simulation-prompt-2026]]
-
 ## Citation
 
 Li, S. (2025). [*Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives*](https://doi.org/10.4236/ce.2025.1611114). *Creative Education*, 16(11), 1858–1882.

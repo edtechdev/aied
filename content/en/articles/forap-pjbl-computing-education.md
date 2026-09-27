@@ -32,27 +32,6 @@ Anchors in [[active-learning]] and [[active-learning]] practice for [[k-12]] and
 - Durability is an acknowledged threat to adoption: installation and configuration materials can become outdated quickly as dependencies, versions, and platforms change, so reuse depends on sustained maintenance.
 - The authors note that the effect of different support materials on student outcomes is not yet isolated, and that broader surveys and interviews with instructors are still needed to understand how FORAP supports adoption and adaptation across computing courses.
 
-## Connected Concepts
-
-- [[active-learning]]
-- [[k-12]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[stem-education]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[project-based-learning]]
-- [[curriculum-design]]
-- [[learning-design]]
-## Connected Articles
-
-- [[visual-query-tracer-declarative-logic-learning]] — Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming
-- [[concept-catalyst-engineering-scaffolds]] — Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
-- [[q-learning-lab-rl-teaching]] — Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis
-- [[llm-design-problems-hot-pjbl]] — LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[human-ai-co-mentorship]] — Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting
-
 ## Citation
 
 Ahmad D. Suleiman, Jan DeWaters, David C. Shepherd, Turgay Korkmaz, Faraz Hussain, Yu Liu, Daqing Hou (2026). [Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio](https://arxiv.org/abs/2607.11129). arXiv preprint.

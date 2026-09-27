@@ -40,22 +40,6 @@ institutions: [governance]
 - The multidimensional scaling solution returned a stress value of 0.396, and the authors describe spontaneous recall as a measure with inherent limits that require methodological triangulation.
 - The proposed micro-credential framework has not been tested: the authors state its effectiveness is yet to be empirically validated and call for employer surveys to establish whether the portfolio criteria match professional standards.
 
-## Connected Concepts
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ethics]]
-- [[governance]]
-- [[curriculum-design]]
-- [[assessment]]
-- [[student-experience]]
-
-## Connected Articles
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI Literacy Interventions in Education: A Meta-Analysis
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Enhancing AI Literacy Course Satisfaction Through Empowerment in AI Problem-Solving
-- [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify? Cognitive Stewardship
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education
-
 ## Citation
 
 Şan, İ., & Orhan Karsak, H. (2026). [Knowing its name, not its nature: Word association mapping of student AI cognition and evidence-based micro-credential design in Turkish higher education](https://doi.org/10.1186/s41239-026-00621-w). *International Journal of Educational Technology in Higher Education, 23*, 46.

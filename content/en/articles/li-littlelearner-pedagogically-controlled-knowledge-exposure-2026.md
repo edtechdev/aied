@@ -59,30 +59,6 @@ The paper offers this setting as a substrate for the [[learning-sciences|learnin
 - Divergence is sharp only from Grade 7 onward, since adjacent standards can target the same operation while differing mainly in expected fluency; grade labels are a fuzzy proxy at the seam.
 - Precision-first filtering discards about 65% of ground-truth K–5 passages, so the corpus is a sharply bounded instrument rather than a representative sample.
 
-## Connected Concepts
-
-- [[pedagogical-llm-training]]
-- [[llm]]
-- [[curriculum-design]]
-- [[prior-knowledge]]
-- [[transfer-of-learning]]
-- [[reinforcement-learning]]
-- [[learning-sciences]]
-- [[benchmark]]
-- [[machine-learning]]
-- [[intelligent-tutoring]]
-- [[limitations-in-aied-research]]
-
-## Connected Articles
-
-- [[educational-llm-alignment]] — measuring misalignment between LLMs and intended educational impact
-- [[teachlm-post-training-llms-education]] — post-training language models on authentic learning data
-- [[learnlm-improving-gemini-learning]] — pedagogical fine-tuning of a frontier model
-- [[misconception-acquisition-dynamics-llms-2026]] — how language models acquire misconceptions from data
-- [[swim-student-writing-simulation-2026]] — what supervision a model needs to imitate learners at a proficiency level
-- [[elbench-education-llm-benchmark-2026]] — a multi-dimensional benchmark for education-facing LLMs
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — reinforcement learning for personalized tutoring behaviors
-
 ## Citation
 
 Li, F., Zeller, J., Prada-Corral, M., Wiedemer, T., Mayilvahanan, P., Cotterell, R., & Brendel, W. (2026). [*LittleLearner: Language models under pedagogically controlled knowledge exposure*](https://arxiv.org/abs/2608.13545). arXiv:2608.13545. Preprint, not peer-reviewed.

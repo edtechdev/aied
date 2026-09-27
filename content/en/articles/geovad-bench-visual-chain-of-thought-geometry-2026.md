@@ -63,36 +63,6 @@ Against open-source peers on GeoVAD-Bench, GeoWeave-8B posts the highest answer 
 - **Model-generated and model-verified training data.** The 400K perception pairs, 200K editing samples and 100K interleaved solutions were produced with Gemini-3.5-Flash and Qwen3.7-Max and filtered by re-executing the drawing code to discard failures, not by expert review.
 - **Unresolved scale and infrastructure costs.** The authors state that scaling behavior for training data and model parameters is unexplored, that the interleaved reinforcement learning infrastructure incurs substantial computational overhead, and that it does not yet accommodate joint policy updates across the visual generation and text understanding branches.
 
-## Connected Concepts
-
-- [[benchmark]]
-- [[math-education]]
-- [[multimodal]]
-- [[llm]]
-- [[cognitive-diagnosis]]
-- [[machine-learning]]
-- [[problem-solving]]
-- [[visualization]]
-- [[educational-measurement]]
-- [[stem-education]]
-- [[transfer-of-learning]]
-- [[reinforcement-learning]]
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[educational-nlp]]
-
-## Connected Articles
-
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: An Automatic Pipeline for Educational Math Diagram Evaluation
-- [[drawedumath-vlm-struggling-students-2026]] — The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors
-- [[omniphys-multimodal-physics-benchmark-2026]] — OmniPhys: A Unified Multimodal Benchmark for Physics Understanding and Generation from Chinese Educational Corpora
-- [[mllm-scientific-visualization-literacy]] — Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy
-- [[representation-robustness-llm-math-problem-solving]] — Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
-- [[elbench-education-llm-benchmark-2026]] — ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models
-- [[llm-reasoning-traces-metacognition]] — Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition
-- [[code-anchor-multi-view-visualization]] — Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations
-
 ## Citation
 
 Dong et al. (2026). [*Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving*](https://arxiv.org/abs/2609.12606). arXiv preprint arXiv:2609.12606.

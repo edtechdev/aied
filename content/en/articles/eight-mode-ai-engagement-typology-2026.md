@@ -56,36 +56,6 @@ For anyone who studies [[ai-education|AI in education]] by [[self-report-measure
 - Study 2's behavioral measure moved as coding defects were repaired across three protocol generations: the panel's Fleiss κ = .78 bounds consistency, not validity, and no figure is an inter-rater reliability of protocol 4.2.
 - The learning task constrained mode variance (mean profile 82% Tutor against 85% and 84% Production), leaving five non-Tutor modes sparse and every quiz model with negative repeated-cross-validated R²; the tiers are unvalidated prototypes, several scales had α < .70, and competitor constructs were never administered.
 
-## Connected Concepts
-
-- [[cognitive-offloading]] — the outcome most strongly associated with Oracle and the mechanism the Passive tier is theorized around
-- [[self-report-measures]] — the AIT's person-level channel and the layer that failed to correspond with observed behavior
-- [[educational-measurement]] — the convergent-validity, equivalence-testing and incremental-variance apparatus used throughout
-- [[assessment-validity]] — the auditability frame the authors apply to their own classifier, including what model agreement bounds
-- [[trust-calibration]] — the theoretical foundation of the Verification Agent mode and the AICal principle scale
-- [[metacognition]] — AI-specific metacognition (AIMeta) as a mode-associated principle and the mechanism behind the Tutor mode
-- [[critical-thinking]] — critical-thinking dispositions as covariates and the foundation of the Critical Challenger mode
-- [[student-ai-interaction]] — the broader literature on how students actually converse with AI systems
-- [[human-ai-collaboration]] — the human-first participation designs the paper contrasts with Human Confirmation
-- [[agency]] — cognitive governance, the dimension the Passivity–Partnership–Agency tiers order
-- [[icap-framework]] — the established engagement-levels framework the typology positions itself against
-- [[learning-analytics]] — the usage-level measures whose explanatory value the mode profiles exceed
-- [[self-regulated-learning]] — co-regulated and self-originated engagement, recorded per turn through the initiation property
-- [[student-engagement]] — multidimensional engagement with AI as the paper's headline construct claim
-
-## Connected Articles
-
-- [[competent-generative-ai-use-measures-review-2026]] — A structured review and exploratory meta-analysis of measures for competent generative-AI use
-- [[stamatoulis-genai-use-patterns-2026]] — Same tool, different work: patterns of generative-AI use and academic outcomes
-- [[ai-in-the-wild-college]] — Large-scale analysis of authentic college-student interactions with generative AI
-- [[efficiency-gain-illusion-ai-overreliance]] — People underestimate their rate of AI use and overestimate its benefits on simple tasks
-- [[ai-dependence-academic-writing-ipace-2026]] — Dependence on generative AI in writing courses analyzed through the I-PACE model
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI dependency as a mediator linking self-efficacy and support to learning burnout
-- [[ai-use-critical-thinking-medical-students-2026]] — AI use, cognitive load and self-regulated learning in critical-thinking outcomes
-- [[ai-literacy-instrument-development-systematic-review-2026]] — Systematic review of AI literacy instrument development and psychometric quality
-- [[ai-learning-assistants-higher-ed-large-scale]] — Large-scale descriptive analysis of AI-based learning assistants in higher education
-- [[ai-cognitive-partner-co-regulation-learning]] — Developmental framework for human-AI co-regulation in learning
-
 ## Citation
 
 Keith, M. J., Wood, D. A., & Posey, C. (2026).[*The eight-mode AI engagement typology: Differential cognitive signatures and a self-report–behavior gap*](https://osf.io/preprints/psyarxiv/53pwv_v1). Preprint (v19, 2026-08-18), submitted to *Scientific Reports*. Brigham Young University, Marriott School of Business. Unrefereed preprint; no public DOI assigned at the time of writing.

@@ -60,22 +60,6 @@ The metadata describe an interaction that behaves like a conversation rather tha
 - Only a single brief session was captured — no longitudinal change, no transfer to classroom placements and no student-teacher learning outcomes — so no comparison with role-plays or simulations is possible.
 - Outcomes rest on self-report scales (α = 0.73) and coding performed by the authors themselves; the authors call for objective cognitive-affective indicators such as cognitive-load ratings, behavioral performance rubrics or physiological proxies.
 
-## Connected Concepts
-
-- [[simulating-students]]
-- [[pedagogical-agent]]
-- [[student-ai-interaction]]
-- [[conversational-ai]]
-- [[sociocultural-learning]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[simulating-students-llm-review-2026]] — Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modeling in Education with Generative AI
-- [[llm-student-simulation-teacher-insights]] — Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students
-- [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation with Large Language Models
-- [[medeasy-ai-standardized-patients]] — MedEasy: Designing AI Standardized Patients for Clinical Consultation Training
-
 ## Citation
 
 Hauk, D., Menter, F., & Schorling, J.-M. (2026). [*Authentic and functional dialogue with AI-based student avatars: Evidence from a practice-based teacher education program*](https://doi.org/10.1111/bjet.70087). *British Journal of Educational Technology*.

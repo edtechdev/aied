@@ -72,36 +72,6 @@ The framework integrates and extends themes already present in the knowledge bas
 - The framework itself is untested: the four dimensions and their self-reinforcing cycle are a conceptual synthesis, with the figure marking the closing link to consequences beyond education as weakly evidenced (dashed) and grounded only in the 49-student exploratory analysis.
 - The "scaffold, do not substitute" principle is argued from one cited illustration (Maike) rather than from evaluated interventions, so the paper supports a design agenda and research questions, not demonstrated effects.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[agency]]
-- [[ethics]]
-- [[reducing-ai-misuse]]
-- [[desirable-difficulties]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[human-ai-collaboration]]
-- [[socratic-method]]
-- [[governance]]
-- [[assessment]]
-- [[academic-integrity]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Guiding Human–AI Collaboration
-- [[cognitive-offloading-speedup-illusion]] — Cognitive Offloading and the Speedup Illusion
-- [[cognitive-offloading-llm-synthesis-writing]] — Cognitive Offloading in LLM-Assisted Writing
-- [[correct-answer-trap-ai-tutor]] — The Correct-Answer Trap in AI Tutoring
-- [[generative-refusal-ai-tools-for-thought]] — Generative Refusal: AI Tools for Thought
-- [[ai-making-us-stupid]] — Is AI Making Us Stupid?
-- [[coach-not-crutch-ai-writing]] — Coach Not Crutch: AI Writing
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors
-- [[student-cheat-sheets-make-or-take]] — Make or Take: Student Cheat Sheets
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
-
 ## Citation
 
 Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2026). [*From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)*](https://arxiv.org/abs/2608.17451). [cs.HC]. https://doi.org/10.48550/arXiv.2608.17451

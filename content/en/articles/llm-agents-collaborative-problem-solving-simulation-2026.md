@@ -7,7 +7,6 @@ sources: ["raw/papers/llm-agents-collaborative-problem-solving-simulation-2026.m
 foundations: [agentic-ai]
 pedagogy: [problem-solving]
 technology: [learning-analytics, llm, simulating-students]
-connected_faqs: [group-work-ai]
 confidence: medium
 research_method: [system development]
 audience: [researchers, learning analytics designers, instructional designers]
@@ -39,23 +38,6 @@ methods: [benchmark, network-analysis]
 - Linguistic fidelity rests on five purposively selected turns (ROUGE-L 0.34 ± 0.14) rather than the full corpus of 1,423 coded turns, and no semantic evaluation such as BERTScore or human rating has been run.
 - The simulation overrepresented Technical Constraints–Design links and underrepresented Data and Performance Parameters, a directional bias the authors attribute to the dominance of high-frequency codes.
 - It is a secondary analysis of fully de-identified data with the pseudonym mapping key discarded, so no linkage to individual outcomes or to uses beyond the original study is possible.
-## Connected Concepts
-
-- [[problem-solving]]
-- [[agentic-ai]]
-- [[llm]]
-- [[simulating-students]]
-- [[network-analysis]]
-- [[learning-analytics]]
-- [[simulation]]
-
-## Connected Articles
-
-- [[llm-agents-5e-esl-grammar-2026]] — LLM-based agents designed to support learners, here for ESL grammar acquisition
-- [[student-ai-conversations-cognitive-engagement-2026]] — student–AI conversations as process-level signals of cognitive engagement
-- [[conversational-agents-business-simulation-gaming-2026]] — conversational agents providing adaptive instructional support within simulation-based learning
-- [[self-directed-growth-generative-ai-learning-analytics]] — a learning-analytics framework for generative AI in self-directed learning
-
 ## Citation
 
 [Modelling individual participants as LLM agents in collaborative problem solving simulations](https://www.sciencedirect.com/science/article/pii/S2666920X2600055X) — Fang, Z. (2026). *Computers and Education: Artificial Intelligence*, 10, 100593.

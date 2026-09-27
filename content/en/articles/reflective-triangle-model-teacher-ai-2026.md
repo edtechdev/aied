@@ -50,28 +50,6 @@ The study's contribution lies not in a new technical AI capability but in an arc
 - The tool under study also generated part of the research evidence: AI-supported analysis is not independent evidence and must be corroborated across multiple data sources, and the authors note the absence of reported inter-rater reliability among independent human coders.
 - The design cannot isolate AI's specific contribution from PLC structure, peer support, teachers' own reflective capacity, or school culture, so the findings are evidence of feasibility, observed change, and emerging mechanisms rather than of causal relationships.
 
-## Connected Concepts
-
-- [[teacher-role]]
-- [[teacher-education]]
-- [[professional-training]]
-- [[educational-development]]
-- [[metacognition|reflection]]
-- [[cognitive-offloading]]
-- [[teacher-ai-competency]]
-- [[ai-education]]
-- [[collaborative-learning]]
-- [[community-of-inquiry]]
-
-## Connected Articles
-
-- [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition: Understanding cognitive offloading in AI-augmented practice
-- [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an Intensive Generative AI Professional Development Program on Pedagogical Content Knowledge (AI-PCK)
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the Age of Generative Artificial Intelligence
-- [[hingle-collaborative-ai-literacy-2025]] — Systematic Review of Collaborative Learning Activities for Promoting AI Literacy
-- [[guillen-curriculum-genai-teacher-competence-2026]] — Transforming Curriculum Design with Generative AI: A Model for Assessing Teacher Digital Competence
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — Faculty Readiness for AI-Supported Teaching and Scalable Online Program Delivery in Higher Education
-
 ## Citation
 
 (2026). [*The Reflective Triangle Model: AI as a Cognitive Mediator in Teachers' Professional Learning and Learning-Community Development*](https://osf.io/preprints/edarxiv/zxtw6_v1/). EdArXiv preprint.

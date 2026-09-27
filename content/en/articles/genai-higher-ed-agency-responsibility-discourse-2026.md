@@ -59,30 +59,5 @@ Classification split the corpus into 239 empirical articles (65.3%), 47 policy o
 - Springer coverage was capped at 3,908 records from 16,271 hits, 48 Springer records lacked abstracts, and 61.7% of records come from a partially complete 2026.
 - Actor–predicate rules miss pronoun reference and negation, and passive-voice cues can surface oblique constructions; operational and publication-type coding add abstraction over mixed documents.
 
-## Connected Concepts
-- [[agency]]
-- [[academic-integrity]]
-- [[generative-ai]]
-- [[governance]]
-- [[ethics]]
-- [[ai-use-disclosure]]
-- [[educational-policy-ai]]
-- [[evaluative-judgment]]
-- [[philosophy-of-ai-in-education]]
-- [[human-ai-collaboration]]
-- [[higher-ed]]
-- [[ai-literacy]]
-
-## Connected Articles
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency: A Critical Framework for Human-Generative AI Co-Agency in Education
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Learning with machines: Toward a theory of epistemic co-agency
-- [[perrotta-zero-shot-governance-2026]] — Zero-Shot Governance: General-Purpose AI in Policy
-- [[qian-governing-genai-higher-ed-policy-2026]] — Governing generative AI in higher education: Emerging policy approaches and support ecosystems at innovative U.S. universities
-- [[bozkurt-ghost-students-agentic-ai-2026]] — The Devil is in the Details: AI Agents, Ghost Students, and the Crisis of Verified Presence in an Agentic AI World
-- [[walton-bearman-assessment-judgment-2025]] — How university students work on assessment tasks with generative AI
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — Co-Constructing AI Boundaries: Agency, Judgment, and Ethical Literacy in AI-Mediated Meaning-Making
-- [[wood-moss-ai-arc-agency-responsible-ai-2026]] — Cultivating Agency and Responsible AI Use Through the AI-ARC Framework
-- [[still-emerging-genai-use-higher-ed-2026]] — Still Emerging: Understanding Generative AI Use in Higher Education
-
 ## Citation
 Poudyal (2026). [*Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research*](https://arxiv.org/abs/2609.27184). arXiv preprint.

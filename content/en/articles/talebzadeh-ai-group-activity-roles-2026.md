@@ -49,20 +49,6 @@ Designing effective [[collaborative-learning|cooperative group activities]] that
 - A single AI tool (ChatGPT-4) and specific prompt templates were used, so findings may not generalize to other generative AI systems.
 - The researcher was both framework developer and analyst, creating potential confirmation bias despite mitigation, and self-report elements may involve social desirability; double-coding covered ~20% of designs (overall Cohen's κ = 0.82).
 
-## Connected Concepts
-
-- [[teacher-ai-competency]] — the knowledge teachers need; pedagogical prompt literacy as a core component
-- [[learning-design]] — differentiated group activity design as the collaborative object
-- [[teacher-role]] — the teacher as "Bilingual Learning Designer"
-- [[educational-development]] — PD implications for teaching teachers to design with AI
-
-## Connected Articles
-
-- [[talebzadeh-ai-green-education-2026]] — same author's IAT-framework study of AI-assisted instructional design quality
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — teacher experience × AI proficiency in lesson design interaction patterns
-- [[teacher-ai-teaming-five-levels]] — levels of teacher–AI teaming
-- [[connected-ai-lesson-planning-vietnam]] — AI-assisted lesson planning in K-12
-
 ## Citation
 
 Talebzadeh, H. (2026). [The Architecture of Roles in AI-Designed Group Activities: A comparative inductive analysis of novice and experienced teachers' differentiated instruction within the IAT framework](https://www.researchgate.net/publication/412207265). Farhangian University, Tehran, Iran.

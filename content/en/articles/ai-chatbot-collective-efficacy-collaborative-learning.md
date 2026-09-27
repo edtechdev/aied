@@ -49,26 +49,6 @@ The study used Design and Development Research Method Type 2, proceeding through
 - The principles are general rather than context-specific; project-based, maker, and discussion-based learning each have distinct characteristics that may require optimized or additional design principles.
 - The usability test used a small, relatively homogeneous sample of eight participants, and expert validation involved a small expert group with limited diversity of perspectives, potentially biasing the results; broader stakeholder samples and iterative testing cycles are recommended.
 
-## Connected Concepts
-
-- [[collaborative-learning]]
-- [[higher-ed]]
-- [[math-education]]
-- [[prompt-engineering]]
-- [[formative-assessment]]
-- [[affective-tutoring]]
-- [[curriculum-design]]
-- [[administrator]]
-
-## Connected Articles
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — Design-Based Research for Developing an AI-Assisted Collaborative Learning Model to Enhance Critical Thinking and Problem-Solving Skills in Higher Education
-- [[ccct-cooperative-learning-technique]] — Artificial intelligence assisted design of a novel cooperative learning technique for higher education
-- [[ai-collaborative-learning-skills-impacts]] — Artificial Intelligence and Collaborative Learning: Impacts on Creativity, Critical Thinking, and Problem-Solving
-- [[llm-critical-thinking-teamwork-review]] — Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review
-- [[ai-collaborative-learning-systematic-review]] — A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-
 ## Citation
 
 Kim, M., & Lim, C. (2025). [*AI chatbot design principles to enhance the collective efficacy in collaborative learning*](https://doi.org/10.1007/s12564-025-10080-z).

@@ -39,21 +39,5 @@ The paper contributes a [[research-methods-aied|methodological]] framing — tre
 - The two questionnaire versions were adapted to their respective learning conditions, which supports ecological validity but limits interpretation of the item-level comparisons.
 - Motivation was measured immediately after the learning experience only; the study does not capture long-term motivational change, workplace transfer, or actual professional performance.
 
-## Connected Concepts
-- [[game-based-learning]]
-- [[motivation]]
-- [[higher-ed]]
-- [[learning-design]]
-- [[self-determination-theory]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[feedback]]
-
-## Connected Articles
-- [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX Workload Study (companion study)
-- [[simon-student-engagement-adaptive-learning-2026]] — Student Engagement and Adaptive Learning
-- [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and Metacognitive Roles of GenAI
-- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation Shaping Future AI Education
-
 ## Citation
 Speranza, M. (2026). [*Motivational Ergonomics in Gamified and Artificial Intelligence-Supported Learning: An ARCS Study with Implications for Workplace Training*](https://osf.io/preprints/edarxiv/g4bek_v1/). EdArXiv preprint.

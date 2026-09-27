@@ -47,20 +47,6 @@ Teachers increasingly act as [[learning-design|instructional designers]] working
 - The authors state no formal statistical assessment of reporting bias (such as funnel plot analysis) was conducted, and certainty of evidence was not appraised with GRADE, given the conceptual and design-oriented focus of the included studies.
 - The search drew on EBSCOhost and Web of Science only (2015–2025) plus snowballing, and many included studies lacked explicit theoretical grounding, which limits what the synthesis can say about mechanisms.
 
-## Connected Concepts
-
-- [[teacher-ai-competency]] — the knowledge/skills teachers need to co-design with AI
-- [[learning-design]] — learning-task design as the collaborative object
-- [[human-ai-collaboration]] — collaboration modes from assistant to co-designer
-- [[teacher-role]] — the teacher as instructional designer with AI
-
-## Connected Articles
-
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — empirical teacher–AI interaction patterns in lesson design
-- [[preservice-teacher-agency-genai-design-learning-2026]] — pre-service teacher agency during GenAI design interactions
-- [[connected-ai-lesson-planning-vietnam]] — AI-assisted lesson planning in K-12
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and instructional design practice systematic review
-
 ## Citation
 
 Wang, Z., Liu, M., & Islam, A. Y. M. A. (2026). [Reimagining teacher-AI co-design in learning task design: trends and perspectives](https://doi.org/10.1057/s41599-026-06981-y). *Humanities and Social Sciences Communications, 13*, 757.

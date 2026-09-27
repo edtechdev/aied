@@ -6,7 +6,6 @@ type: article
 foundations: [human-ai-collaboration]
 pedagogy: [social-emotional-learning]
 technology: [affective-computing, generative-ai, pedagogical-agent]
-connected_faqs: [ai-guidance-children-under-13]
 research_method: [experiment]
 audience: [researchers, instructors]
 level: [preschool, primary education]
@@ -38,17 +37,6 @@ page_kind: [evaluation, framework]
 - The primary stated limitation is reliance on a static AI child with voice-based interactions rather than real children in vivo, which the authors say limits ecological validity and may underestimate educators' performance relative to the PCA.
 - The analysis was solely text-based, so subtle pedagogical and emotional nuances that facilitators convey through tone and gesture were unavailable to the expert raters.
 - Educators' expected advantage on growth-oriented nudging is likely larger with known students, so the present comparison should be read accordingly.
-
-## Connected Concepts
-- [[social-emotional-learning]]
-- [[pedagogical-agent]]
-- [[human-ai-collaboration]]
-- [[early-childhood-elementary-ai-education]]
-- [[affective-computing]]
-
-## Connected Articles
-- [social-robot-study-companions] — social robots as study companions
-- [knowledge-based-design-generative-social-robots-2026] — knowledge-based design of generative social robots
 
 ## Citation
 Raave, D. K., Colasante, T., Roldan Roa, E., Ramos Martinez, J. C., Li, H., et al. (2026). [An experimental study exploring human–AI complementarity in early social-emotional learning](https://doi.org/10.1016/j.caeo.2026.100331). *Computers and Education Open, 10*, 100331.

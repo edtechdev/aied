@@ -42,22 +42,6 @@ Jiang et al. address the under-studied question of **disciplinary differences** 
 - Responses were self-reported in a single wave with a gift card incentive, which may have encouraged quick completion, and some students may have underreported use despite anonymity assurances.
 - Only 560 undergraduates at four institutions were surveyed, graduate students were excluded, and limited demographic data were collected.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[higher-ed]]
-- [[discipline-specific-aied]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[writing-education]]
-
-## Connected Articles
-
-- [[walton-bearman-assessment-judgment-2025]] — Judgment in students' work with GenAI on assessment
-- [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use and academic outcomes
-- [[qu-wang-disclose-or-not-genai-2026]] — Disclosure and peer influence in GenAI use
-
 ## Citation
 
 Jiang, J., Farag, I., Lucia, B., Vetter, M. A., & Silvestro, J. (2026). [*Generative AI across the disciplines: an activity theory perspective on undergraduate students' AI use and disclosure practices*](https://ssrn.com/abstract=5753622). SSRN Working Paper.

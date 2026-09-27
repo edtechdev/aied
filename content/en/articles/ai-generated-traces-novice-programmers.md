@@ -43,24 +43,6 @@ The multi-institutional study compared GATs with textual explanations in introdu
 - **Narrow topic coverage and no long-term transfer:** interventions addressed a limited set of topics, and the immediate effects did not transfer to final-exam performance.
 - **The moderation finding is exploratory and self-reported:** engagement profiles came from k-means clustering on self-report CAP instruments, and cognitive load, frustration, and situational interest were Likert items, so the learner-difference results are suggestive rather than confirmatory.
 
-## Connected Concepts
-
-- [[cs-education]]
-- [[scaffolding]]
-- [[personalized-learning]]
-- [[stem-education]]
-- [[adaptive-learning]]
-- [[student-engagement]]
-
-## Connected Articles
-
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
-- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
-- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
-- [[prompt-coach-agentic-tutor-prompt-engineering]] — Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-
 ## Citation
 
 Noviello et al. (2026). [AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study](https://arxiv.org/abs/2606.03288).

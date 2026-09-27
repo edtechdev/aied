@@ -13,7 +13,6 @@ sources: ['raw/papers/2604.26962.md']
 confidence: high
 level: [higher ed]
 page_kind: [evaluation]
-connected_resources: [deeptutor]
 ---
 
 > **Synthesis:** DeepTutor is a fully [[open-source]] [[agentic-ai]] tutoring framework that closes the loop between citation-grounded problem tutoring and difficulty-calibrated [[automated-question-generation|question generation]] through a **hybrid personalization engine** coupling Static Knowledge Grounding (SKG) with Dynamic Personal Memory (DPM). The engine's **trace forest** — a three-level hierarchical memory distilled by specialized agents into an evolving learner profile — captures *how* a student errs, not just what they got wrong. Evaluated via a new student-centric benchmark (TutorBench) across five university disciplines, DeepTutor improves personalized metrics by **10.8%** on average and strengthens general agentic reasoning across five backbone models by **29.4%**. It addresses a root cause both prior tutoring and question-generation systems share: a lack of a fine-grained, evolving model of the learner.
@@ -69,25 +68,6 @@ DeepTutor addresses a critical gap in [[intelligent-tutoring]]: the disconnect b
 - TutorBench covers university curricula across five disciplines driven by a single LLM-based first-person simulator; finer-grained courses, longer curricular trajectories, and larger learner populations remain untested.
 - The Book Engine, Partners, Co-Writer, and Mastery Path extensions are architectural instantiations only — their effects on retention, engagement, interruption cost, and real learner outcomes require longitudinal human studies.
 - The multi-stage pipeline trades additional inference cost for controllability and personalization, which constrains deployment at scale.
-
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[rag]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[automated-question-generation]]
-- [[personalized-learning]]
-- [[simulating-students]]
-
-## Connected Articles
-
-- [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
-- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
-- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
-- [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
 
 ## Citation
 

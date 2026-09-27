@@ -33,19 +33,6 @@ page_kind: [evaluation]
 - Evaluation is confined to the Eedi [[math-education|mathematics]] dataset; the authors list expansion to other domains and languages as future work, so no cross-subject generalization is demonstrated.
 - Run-to-run stability was not tested: all prompted models ran at temperature 0 and no repeated runs across API versions were evaluated.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[human-in-the-loop-ai]]
-- [[scaffolding]]
-- [[misconceptions]]
-- [[math-education]]
-## Connected Articles
-
-- [[llm-student-misconception-identification]]
 ## Citation
 
 Moiz Imran, Sahan Bulathwela (2026). [Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning](https://arxiv.org/abs/2605.23925). AIED 2026.

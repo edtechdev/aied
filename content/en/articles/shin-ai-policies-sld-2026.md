@@ -4,7 +4,6 @@ created: "2026-08-23T12:00:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article
 ethics: [accessibility, equity-in-ai-education, inclusive-learning]
-connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [delphi]
 level: [special education]
 sources: ['raw/papers/shin-ai-policies-sld-2026.md']
@@ -60,27 +59,6 @@ This paper is a cornerstone reference for the knowledge base's accessibility/dis
 - Panelists were recruited purposively through academic networks, professional associations, and organizations against five qualification types, so priorities reflect that selected group's expert judgment rather than measured outcomes for students with SLD.
 - The document analysis covered 12 publicly available U.S. policy documents from a Westlaw search spanning January 2015 to March 2025; non-U.S. and non-public documents were out of scope, and only 2 of the 12 documents were SLD-specific.
 - Item generation was machine-assisted — structural topic modeling plus Sentence-BERT embeddings produced candidate items that researchers then manually reviewed and revised — and the SLD-specific policy corpus was thin, which constrains how much topic evidence those items can rest on.
-
-## Connected Concepts
-
-- [[accessibility]]
-- [[inclusive-learning]]
-- [[special-education]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]
-- [[assistive-technology]]
-- [[universal-design-for-learning]]
-- [[neurodiversity]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[governance]]
-- [[teacher-role]]
-- [[assessment]]
-- [[digital-divide]]
-- [[learning-design]]
-
-## Connected Articles
-- [[finkelstein-principled-ai-education-2025]] — Principled approaches to AI in education
 
 ## Citation
 

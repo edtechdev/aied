@@ -43,26 +43,6 @@ Operational use requires strategy-specific calibration, dimension-level validati
 - The corpus is 300 responses from a normal university in China, and the reference is the mean of three experienced music theory teachers, so agreement is measured against one small rater panel rather than an established benchmark.
 - Even the best strategy agreed only moderately with teacher means (ICC(2,1) = 0.657), and comparison covers just three prompting strategies, leaving the space of [[prompt-engineering|prompting]] designs largely unexplored.
 
-## Connected Concepts
-
-- [[formative-assessment]]
-- [[automated-essay-scoring]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[prompt-engineering]]
-- [[assessment-validity]]
-- [[higher-ed]]
-- [[educational-measurement]]
-- [[arts-design-and-media-education]]
-## Connected Articles
-
-- [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education
-- [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
-- [[llm-feedback-programming-classroom]] — LLM-Generated Feedback in Introductory Programming: A Classroom Study
-- [[becerra-aicofe-feedback-2026]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
-- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
-
 ## Citation
 
 Baicheng Lin, Lingxi Jin, Kyung-Seok Min (2026). [Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias](https://arxiv.org/abs/2608.01783). arXiv (cs.HC / cs.SD) preprint.

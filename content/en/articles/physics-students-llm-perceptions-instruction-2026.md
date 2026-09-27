@@ -48,27 +48,5 @@ Every number in this study is self-report from anonymous surveys, with no linked
 - The intervention was a single lesson taught by the course instructors, one of whom was also an undergraduate learning assistant during the study, so researcher and instructor roles overlap.
 - The pre and post comparisons are aggregate percentages rather than matched individuals, which the authors identify as a sampling-bias risk.
 
-## Connected Concepts
-- [[llm]]
-- [[physics-education]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-ai-interaction]]
-- [[trust-calibration]]
-- [[higher-ed]]
-- [[self-report-measures]]
-- [[student-engagement]]
-
-## Connected Articles
-- [[becker-chatgpt-typology-physics-2026]] — Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics
-- [[genai-assisted-problem-posing-physics-2026]] — Exploring Students' Perceptions of Using Generative AI-Assisted Problem Posing
-- [[probing-ai-generated-physics-solutions-2026]] — Probing AI-generated physics solutions
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — The trust-utility gap in physics students' use of AI
-- [[wang-teacher-student-centered-agents-physics-2026]] — Comparing teacher-centered and student-centered agents based on prompt engineering
-- [[multiagent-classroom-dual-process-physics-teachers-2026]] — Multi-agent classroom simulation with physics teachers
-- [[physics-chatbot-epistemological-beliefs-2026]] — Physics chatbot use and epistemological beliefs
-
 ## Citation
 O'Brien, J., Ellis, M., Robinson, A., Simonetti, J., & Ramakrishnan, N. (2026). [Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction](https://arxiv.org/abs/2609.21037). arXiv:2609.21037.

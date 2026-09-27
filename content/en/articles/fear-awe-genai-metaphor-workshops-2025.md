@@ -38,24 +38,5 @@ confidence: high
 - The authors acknowledge that the workshop-based elicitation, prompts, and facilitation may have shaped which metaphors were produced, so the categories may reflect the workshop design as well as participants' natural conceptualizations.
 - Time constraints limited how fully the metaphors could be analyzed and discussed with participants, and no follow-up measured whether the workshops changed later teaching or policy practice.
 
-## Connected Concepts
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[human-ai-collaboration]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[critical-thinking]]
-- [[student-ai-interaction]]
-- [[ethics]]
-
-## Connected Articles
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — How engineering faculty metaphors construct (and constrain) AI understanding
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Student strategies for regulating generative AI use
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative approaches to building AI literacy
-- [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
-
 ## Citation
 Vallis, C., Wilson, S., & Casey, A. (2025). [*Fear and awe: Making sense of generative AI through metaphor*](https://doi.org/10.5334/jime.972). Journal of Interactive Media in Education, 2025(1), 14.

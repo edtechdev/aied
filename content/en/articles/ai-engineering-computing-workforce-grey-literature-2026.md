@@ -51,28 +51,6 @@ The review's central conclusion from these projections is that engineering and c
 
 The paper extends the knowledge base's coverage of AI and work, complementing empirical frameworks like the [[workforce-readiness-smart-manufacturing-wrl-2026|Workforce Readiness Level]] and connecting to [[professional-training]], [[ai-literacy]], and [[governance]] concepts. It frames [[curriculum-design]] for engineering and computing as a strategic response to labor-market transformation, and positions [[higher-ed]] institutions as key actors in workforce preparation.
 
-## Connected Concepts
-
-- [[engineering-education]]
-- [[professional-training]]
-- [[ai-literacy]]
-- [[governance]]
-- [[curriculum-design]]
-- [[prompt-engineering]]
-- [[ethics]]
-- [[higher-ed]]
-- [[stem-education]]
-- [[cs-education]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level Framework for Smart Manufacturing
-- [[genai-expertise-pathways-sysadmin]] — GenAI and Expertise Pathways in System Administration
-- [[skill-diversity-worker-resilience]] — Skill Diversity and Worker Resilience
-- [[ai-vocational-education-training-review]] — AI in Vocational Education and Training: A Systematic Review
-- [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify?
-
 ## Citation
 
 Fletcher, T. L., Webb, M. E., Alharbi, A., & Fletcher, T. (2026). [*Artificial Intelligence (AI) and the Future of the Engineering and Computing Workforce: A Systematic Review of Gray Literature and Document Analysis of U.S. Reports (2020–2025)*](https://peer.asee.org/). ASEE Annual Conference & Exposition, Paper ID #53492.

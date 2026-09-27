@@ -63,34 +63,6 @@ The authors' proposed mechanism is perceptual and cognitive rather than stylisti
 - The sample is 155 children around age twelve in central Germany, over half on the Gymnasium track, so findings may not hold for other ages, tracks or cultures, and the authors flag the open question of learners underrepresented in [[pedagogical-llm-training|model training]] data.
 - Two design features are entangled with the manipulation: prompts instructed the model to adopt a teacher-like role with academic language and an evaluative stance, so authoritative social cues may contribute to the effects alongside contingency itself, and adaptivity is operationalized only as response-contingent content adaptation, ignoring stable learner characteristics; the reliance on a single model version (GPT-4, chosen as the accessible reference model at the time) is a further dependency, since the authors tested other models only informally and model-specific behavior is not part of the design.
 
-## Connected Concepts
-
-- [[ai-feedback-quality]] — the criteria set (specificity, suggestions, explanation, remarks, formulation) used to hold both conditions to equal quality
-- [[automated-assessment]] — the design space of machine-generated evaluative feedback on learner work
-- [[feedback]] — the parent construct, and the theoretical claim that feedback is inherently response-related
-- [[formative-assessment]] — the practice this study tests at the point where teacher capacity usually fails
-- [[generative-ai]] — the model class whose apparent advantage is here attributed to contingency rather than fluency
-- [[llm]] — GPT-4 as the feedback generator, driven by a constrained chain-of-thought prompt
-- [[metacognition]] — self-evaluation of one's own cue as the cognitive work the adaptive condition provokes
-- [[motivation]] — perceived motivational impact, measured and modeled as a correlate of revision gains
-- [[scaffolding]] — contingency as the defining feature the study operationalizes and tests
-- [[self-efficacy]] — measured as an exploratory moderator of plan quality improvement
-- [[self-regulated-learning]] — planning with implementation intentions as the target strategy
-- [[transfer-of-learning]] — the untested boundary between improving a plan and improving planning
-
-## Connected Articles
-
-- [[llm-formative-feedback-systematic-review-2026]] — systematic review of LLM-generated formative feedback across educational settings
-- [[genai-feedback-design-multisite-experiment]] — comparative experiment on alternative GenAI feedback designs for argumentation
-- [[genai-teacher-feedback-comparison]] — student perceptions of GenAI versus teacher feedback, usefulness and trust
-- [[care-full-feedback-genai]] — the craft and relational dimensions of feedback practice under generative AI
-- [[jin-genai-learning-analytics-feedback-literacy]] — learners' perceptions of AI feedback through a feedback literacy lens
-- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — psychological drivers of deep revision when AI feedback is received
-- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a self-regulated learning partner across a longer timescale
-- [[bilingual-llm-lecture-companion-srl-2026]] — LLM mediation designed around self-regulated learning processes
-- [[metacognitively-discordant-completion-genai-2026]] — how metacognitive judgment behaves during AI-supported completion
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — personalization effects in elementary classrooms, the level this study samples
-
 ## Citation
 
 Sukjaitham, S., Schaaf, M., Brod, G., & Breitwieser, J. (2026). [*Adaptivity makes feedback effective: Evidence from AI-generated feedback on children's plans*](https://doi.org/10.31234/osf.io/t2eac_v1). *PsyArXiv Preprints*. *PsyArXiv Preprints*.

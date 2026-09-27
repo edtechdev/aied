@@ -96,33 +96,6 @@ Both scenarios emphasize the critical sequence: *independent thinking first, [[s
 - The authors state that effectiveness and applicability may vary across disciplines, institutional contexts, and learner populations, since higher education systems differ in technological infrastructure, faculty expertise, and policy environments.
 - The analytics indicators the framework proposes — prompt formulation and revision patterns, draft modification sequences, transitions between AI-free and AI-mediated phases — are not directly observable measures of learning and are described as requiring pedagogical interpretation rather than automated classification.
 
-## Connected Concepts
-
-- [[agency]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[educational-development]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[socratic-method]]
-- [[transfer-of-learning]] — AI Learning Transfer
-
-## Connected Articles
-
-- [[students-llm-usage-critical-thinking]] — Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
-- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discours...
-- [[ai-learning-companions-framework]] — Building AI Companions that Prioritize Learning over Performance
-- [[finkelstein-principled-ai-education-2025]] — Principled AI in Education
-- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
-- [[sequenced-ai-feedback-learning]] — Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning
-- [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking
-
 ## Citation
 
 Vendrell, M., & Johnston, S.-K. (2026). [*Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education*](https://doi.org/10.1016/j.caeai.2026.100572). Computers and Education: Artificial Intelligence, 10, 100572.

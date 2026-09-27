@@ -47,26 +47,6 @@ Questionnaires were returned by students at six higher education institutions in
 - The sample came from one national context and was not designed to be nationally representative; cross-cultural and cross-institution invariance, test-retest reliability, and invariance across separately sampled undergraduate and postgraduate groups remain untested.
 - The validation did not include established AI literacy or assessment literacy instruments, so incremental validity beyond those adjacent constructs is still unknown; behavioral indicators such as revision logs or disclosure statements would strengthen ecological validity.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[feedback]]
-- [[academic-integrity]]
-- [[educational-measurement]]
-- [[higher-ed]]
-- [[self-regulated-learning]]
-
-## Connected Articles
-
-- [[jin-glat-genai-literacy-assessment]] — GLAT: a validated generative-AI literacy assessment, a sibling instrument to the GAA-LS
-- [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS): a parallel AI-literacy instrument validated for language educators
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Measuring acceptance of age-tiered AI literacy guidebooks (material-level, not literacy-level)
-- [[competent-generative-ai-use-measures-review-2026]] — Structured review of measures for competent generative-AI use
-- [[predictors-ethical-genai-use-higher-ed-2026]] — SEM predictors of ethical GenAI use, an outcome the GAA-LS is associated with
-- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI literacy through student-AI interaction patterns
-
 ## Citation
 
 Nie, J., Zhang, Z., Lu, X., Zhang, Y., & Zhang, M. (2026). [Development and Validation of the Generative AI Assessment Literacy Scale for Higher Education Students: Psychometric Evidence and Associations with Feedback Engagement and Academic Integrity](https://doi.org/10.3389/feduc.2026.1934632). *Frontiers in Education, 11*, 1934632.

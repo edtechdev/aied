@@ -29,20 +29,6 @@ page_kind: [evaluation]
 - Measurement error: the [[llm]] pipeline reconstructs assessment types and weighting from syllabi and, in the authors' words, does make errors, adding statistical noise that increases the likelihood of null findings, and the data do not include assessment category weightings of the final grade.
 - Course evaluations are self-reported with response rates and representativeness that fluctuate across offerings, so the satisfaction results may partly reflect who selected into responding rather than changes in the [[higher-ed]] experience.
 
-## Connected Concepts
-
-## Connected Concepts
-
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[learning-gains]]
-
-## Connected Articles
-
-- [[ai-availability-student-motivation]]
-- [[generative-ai-reduced-study-time-math]]
 ## Citation
 
 Dumlao, Wang, Xie, Hu, Bar, Chaney, Gold & Teplitskiy (2026). [Generative AI Availability, Grades, and Student Satisfaction at a Large University](https://arxiv.org/abs/2607.21534). arXiv preprint (cs.CY).

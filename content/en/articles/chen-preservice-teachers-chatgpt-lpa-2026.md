@@ -41,24 +41,6 @@ institutions: [change-management]
 - Data are entirely self-report questionnaire responses, so social desirability is uncontrolled and the psychological motivations behind each profile cannot be triangulated with behavioral evidence such as usage logs or practicum observation.
 - The cross-sectional design cannot show profile stability or movement, and the study tested none of its own recommendations — the differentiated training strategies are theory-driven and were not empirically evaluated, and only five of the six TAM/UTAUT2 constructs served as LPA indicators.
 
-## Connected Concepts
-
-- [[teacher-education]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[technology-acceptance-model]]
-- [[generative-ai]]
-- [[llm]]
-- [[stem-education]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education AI literacy
-- [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy training in teacher education
-- [[ai-changing-teaching-workflows]] — AI changing teaching workflows
-- [[enright-staff-perspectives-genai-2026]] — Staff perspectives on GenAI
-
 ## Citation
 
 Chen, P.-H., Lee, H.-Y., Huang, Y.-M., & Wu, T.-T. (2026). [*Unpacking the heterogeneity of pre-service teachers' ChatGPT acceptance: a latent profile analysis across STEM and non-STEM disciplines*](https://doi.org/10.1186/s40594-026-00634-x). *International Journal of STEM Education*, 13, 33.

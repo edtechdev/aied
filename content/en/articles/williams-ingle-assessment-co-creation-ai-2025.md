@@ -62,26 +62,5 @@ From a staff perspective, the partnership gained important insights that would n
 - Only the student partner was interviewed, and the authors note that a reciprocal interview of the staff partner would have yielded further insights and is recommended for future studies.
 - The authors state the findings were not definitive, and the evaluation used ChatGPT 3.5 output alone, so the conclusions describe one tool version's performance against one set of assessment instructions.
 
-## Connected Concepts
-- [[pedagogical-partnerships]]
-- [[generative-ai]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[medical-education]]
-- [[higher-ed]]
-- [[self-regulated-learning]]
-- [[student-engagement]]
-- [[student-experience]]
-- [[feedback]]
-- [[ethics]]
-- [[qualitative-research]]
-- [[trust]]
-
-## Connected Articles
-- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Five guiding principles for AI and students-as-partners
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-designing AI with youth: relational and privacy considerations
-
 ## Citation
 Williams, A., & Ingle, E. (2025). [*Assessment design through co-creation: Student-staff partnership in evaluating the impact of artificial intelligence*](https://doi.org/10.15173/ijsap.v9i1.5802). *International Journal for Students as Partners*, 9(1), 214–226.

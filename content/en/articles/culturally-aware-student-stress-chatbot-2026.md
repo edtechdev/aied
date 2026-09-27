@@ -7,7 +7,6 @@ pedagogy: [anxiety-and-stress, well-being]
 technology: [conversational-ai, machine-learning]
 methods: [benchmark]
 ethics: [culturally-relevant-pedagogy, equity-in-ai-education, ethics, global-south]
-connected_faqs: [ai-anxiety-wellbeing]
 sources: ['raw/papers/2609.11199.md']
 confidence: medium
 research_method: [system development]
@@ -70,31 +69,6 @@ Because a [[machine-learning|trained classifier]] decides the support tier, seve
 - The training data is not representative of Pakistani students, so the paper's culturally distinctive feature-importance result (teacher-student relationship at 10.0%) is preliminary by the authors' own account.
 - The chatbot was assessed only through simulated user inputs covering exam, family, financial and teacher-related concerns plus informal usability testing of the assessment-to-chatbot transition; the authors state this is a functional check, not a formal user study.
 - The pipeline is English at its core with prompted Urdu and Roman Urdu expressions rather than genuinely bilingual NLP, and no students were tested for cultural appropriateness, emotional safety or satisfaction.
-
-## Connected Concepts
-- [[well-being]] — student mental-health support as an AI application area
-- [[anxiety-and-stress]] — stress measurement and its multidimensional predictors
-- [[conversational-ai]] — chatbot dialogue as the delivery mechanism for support
-- [[machine-learning]] — Random Forest classification and feature-importance analysis
-- [[culturally-relevant-pedagogy]] — cultural adaptation of the system prompt and response tiers
-- [[global-south]] — region-specific tooling for an under-served student population
-- [[equity-in-ai-education]] — open-source models and low-resource deployment constraints
-- [[ethics]] — responsible design boundaries for health-adjacent AI
-- [[privacy]] — handling distress disclosures from students
-- [[human-in-the-loop-ai]] — escalation paths from automated support to counselling
-- [[higher-ed]] — the university context in which Sukoon is deployed
-- [[personalized-learning]] — tiering support to an individual's detected state
-
-## Connected Articles
-- [[ai-campus-wellbeing-tools]] — AI Campus Well-Being Tools
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — LLMs for Appropriate Student Support
-- [[nguyen-genai-global-south-review-2026]] — Generative AI in the Global South
-- [[colbran-student-perspectives-genai-chatbots-2026]] — Student Perspectives on GenAI Chatbots
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI Anxiety, Academic Motivation and Emotion
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Psychological Adaptation in AI-Assisted Language Learning
-- [[empathy-coaching-chatbot]] — Empathy Coaching Chatbot
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Mobile Chatbot Journaling and Motivation
-- [[kim-ai-anxiety-comprehensive-analysis]] — AI Anxiety: A Comprehensive Analysis
 
 ## Citation
 Bashir, M. F., & Afzal, M. (2026). [An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning](https://arxiv.org/abs/2609.11199). arXiv preprint arXiv:2609.11199.

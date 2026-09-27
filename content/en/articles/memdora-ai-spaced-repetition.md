@@ -5,7 +5,6 @@ updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [mastery-learning]
 technology: [adaptive-learning, generative-ai]
-connected_faqs: [study-with-ai]
 research_method: [system development]
 audience: [learners, software developers]
 sources: ['raw/papers/2607.25096.md']
@@ -41,24 +40,6 @@ The design rationale treats the flashcard as a full retrieval-practice instrumen
 - The classroom features (teacher assignment, per-card outcome tracking, institutional authentication) have not been evaluated in a real educational setting, so unmet teacher-workflow and class-management needs may remain.
 - AI-generated cards may vary in quality in highly specialized domains where the underlying language model has limited training coverage; user editing and one-click regeneration mitigate the variance but do not remove it.
 - The retention and reward claims are design rationale: the effort-reward comparison on 30-day retention and the classroom evaluation against control groups using traditional study methods are planned, not reported.
-
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[desirable-difficulties]]
-- [[motivation]]
-- [[learning-gains]]
-
-## Connected Articles
-
-- [[simulating-learner-task-selection]] — Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning
-- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
-- [[gaze-informed-ai-children]] — Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
-- [[xai-education-framework]] — Explainable Artificial Intelligence in Education (XAI-ED)
-- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
 
 ## Citation
 

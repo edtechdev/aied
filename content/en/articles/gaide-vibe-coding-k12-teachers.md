@@ -35,26 +35,6 @@ This work connects to core knowledge base themes: [[k-12]] [[teacher-role]] [[ai
 - Teachers continued prototyping outside the sessions because of time constraints, so the recorded video and CORDTRA diagrams cover only part of the design work.
 - All three teachers volunteered for the Presidential AI Challenge, so their motivation likely exceeds that of a typical K-12 teacher cohort.
 
-## Connected Concepts
-
-- [[vibe-coding]]
-- [[k-12]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[educational-development]]
-- [[design-thinking]]
-- [[prompt-engineering]]
-- [[professional-training]]
-## Connected Articles
-
-- [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
-- [[concept-catalyst-k12-teacher]] — Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-
 ## Citation
 
 Song, Choi, Kim, Kim, Weisberg & Moon (2026). [A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding](https://arxiv.org/abs/2607.05406). arXiv preprint.

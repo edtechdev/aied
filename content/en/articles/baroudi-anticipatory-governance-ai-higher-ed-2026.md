@@ -6,7 +6,6 @@ type: article
 foundations: [ai-education]
 ethics: [ethics]
 methods: [meta-analysis-systematic-review]
-connected_faqs: [institutional-ai-policy]
 audience: [administrators]
 level: [higher ed]
 sources: ['raw/papers/baroudi-anticipatory-governance-ai-higher-ed-2026.md']
@@ -49,25 +48,6 @@ This paper strengthens the knowledge base's treatment of [[governance]] and [[ed
 - Scoping review of 19 heterogeneous sources (2020-2025) with uneven regional representation and a concentration of Western studies; the authors state the conclusions are not intended to be universally generalizable.
 - Most included studies used conceptual or cross-sectional designs, so the review cannot establish longitudinal or causal effects of anticipatory governance.
 - No formal trustworthiness analysis of the included studies was conducted, which the authors flag as limiting the robustness of the analysis.
-
-## Connected Concepts
-
-- [[governance]]
-- [[educational-policy-ai]]
-- [[administrator]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[ethics]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[ai-uk-higher-education-policy-2026]]
-- [[ai-ethics-bibliometric-2026]]
-- [[adarkwah-genai-unesco-policy-2026]]
-- [[genai-assessment-governance]]
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
 
 ## Citation
 

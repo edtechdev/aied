@@ -36,22 +36,6 @@ page_kind: [framework]
 - Cross-language transfer to PowerShell, SQL, or other command-line systems is untested; the authors list empirical validation of the generalization hypothesis as future work.
 - The structural branch reads abstract syntax trees only, so it cannot separate commands with identical syntax but different operational meaning — the principal limitation of purely syntactic analysis.
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[assessment]]
-- [[cs-education]]
-- [[equity-in-ai-education]]
-- [[intelligent-tutoring]]
-
-## Connected Articles
-
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
-- [[mixed-reality-engineering-learning]] — Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
-- [[less-deliberate-teams-llm]] — Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work
-
 ## Citation
 
 Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira (2026). [CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education](https://arxiv.org/abs/2607.00140). Universidade de Vigo, submitted 30 Jun 2026

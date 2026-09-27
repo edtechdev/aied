@@ -53,27 +53,6 @@ The conclusion is emphatic: incorporating AI **should not diminish [[teacher-rol
 - Fixed search window: the review's own source checks are dated 2 March 2025, and the authors note that rapid AI advances may have produced new tools or findings after that window that the paper does not cover.
 - The seven recommendations the paper proposes (data-analysis tools, virtual labs, adaptive systems, collaborative projects, critical evaluation, curricular integration, professional development) are proposals only — no implementation or outcome data is reported for any of them.
 
-## Connected Concepts
-
-- [[biology-education]]
-- [[critical-thinking]]
-- [[higher-ed]]
-- [[ethics]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[active-learning]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[assessment]]
-
-## Connected Articles
-
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
-- [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
-
 ## Citation
 
 Papaneophytou, C., & Nicolaou, S. A. (2025). [Promoting critical thinking in biological sciences in the era of artificial intelligence: The role of higher education](https://doi.org/10.3390/higheredu4020024). *Trends in Higher Education*, 4, 24.

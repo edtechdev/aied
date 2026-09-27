@@ -55,32 +55,5 @@ The study's second half interrogates the label. Exit interviews and reflexive [[
 - Four participant-session EDA recordings were unusable (20 of the 450 segments, 10 of 225 RQ1 test rows), and the complete-case reanalysis altered both training and test [[writing-education|composition]], so it cannot isolate imputation effects.
 - Ratings were retrospective after each video and features summarize only the first 120 seconds of segments lasting roughly 140 to 155 seconds; the outcome is reported engagement, not achievement, and all participants shared the same four videos.
 
-## Connected Concepts
-- [[student-engagement]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[self-report-measures]]
-- [[learning-analytics]]
-- [[educational-measurement]]
-- [[student-modeling]]
-- [[machine-learning]]
-- [[video-education]]
-- [[online-teaching-and-learning]]
-- [[self-regulated-learning]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[theories-and-frameworks]]
-- [[limitations-in-aied-research]]
-
-## Connected Articles
-- [[engagement-assessment-video]] — EduGage: Methods and Dataset for Sensor-Based Momentary Assessment of Engagement in Self-Guided Video Learning
-- [[mind-the-student-engagement-prediction-2026]] — Mind the Student: Behavioral and Contextual Cues for Automated Engagement Prediction in Online Learning
-- [[physiological-signals-exam-outcomes-ml]] — Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction
-- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students
-- [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction
-- [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training
-- [[eight-mode-ai-engagement-typology-2026]] — The Eight-Mode AI Engagement Typology: Differential Cognitive Signatures and a Self-Report–Behavior Gap
-
 ## Citation
 Anupkrishnan, S., Sayar, I., Lee, J., Musunuri, S. H., Su, G.-M., Endres, M., et al. (2026). [E3Sense: Head-Confined Multimodal Sensing of Learner Engagement](https://arxiv.org/abs/2609.26569). arXiv:2609.26569.

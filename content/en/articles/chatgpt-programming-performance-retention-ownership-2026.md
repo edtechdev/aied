@@ -49,27 +49,5 @@ Cognitive load was measured on four channels: self-reported effort and difficult
 - Retention was measured at 48 hours only, so nothing here shows whether the recall gap persists, widens, or closes with practice.
 - Assistance was ChatGPT-4.5, and no data-collection window is reported, so the size of the performance advantage is specific to that model generation.
 
-## Connected Concepts
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[cs-education]]
-- [[learning-gains]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[learner-identity]]
-- [[problem-solving]]
-- [[self-report-measures]]
-- [[metacognition]]
-
-## Connected Articles
-- [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing
-- [[jost-llm-programming-education-learning-outcomes]] — The Impact of Large Language Models on Programming Education and Student Learning
-- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch?: A Grounded Theory of Cognitive Scaffolding and Offloading
-- [[llm-interaction-depth-task-quality-recall-2026]] — What Students Ask Matters: LLM Interaction Depth, Task Quality, and Immediate Recall
-- [[thinking-with-ai-reasoning-without-it-2026]] — Thinking with AI, reasoning without it
-- [[ai-writing-support-stage-ownership-2026]] — From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership
-- [[soft-barriers-copying-ai-programming-2026]] — Do Not Copy/Paste: Soft Barriers for Copying in AI-Assisted Programming
-
 ## Citation
 Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). [Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership](https://arxiv.org/abs/2609.21194). arXiv:2609.21194.

@@ -42,27 +42,6 @@ The study used an integrative literature review (distinct from a meta-analysis, 
 - The authors note the [[visualization]] lacks granularity at the expert level, and that the knowledge-skills-attitudes three-dimensional nature is not explicitly represented in the visual model.
 - The framework is a proposed instrument that still requires validation across more programs and disciplines.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-role]]
-- [[assessment-validity]]
-
-## Connected Articles
-
-- [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy Framework
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI Literacy: Going Beyond the Skills Gap Agenda
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework: Results of a Delphi Study
-- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — Human-Centric AI Pedagogy (HCAP) Framework
-- [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
-- [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review
-
 ## Citation
 
 Hackl, V., Müller, A. E., & Sailer, M. (2026). [*The AI literacy heptagon: A structured approach to AI literacy in higher education*](https://doi.org/10.1016/j.caeai.2026.100540).

@@ -13,7 +13,6 @@ ethics: [ai-use-disclosure, equity-in-ai-education, privacy]
 research_method: [policy analysis]
 level: [higher ed]
 audience: [administrators, policymakers, instructors, learners]
-connected_faqs: [institutional-ai-policy, course-ai-policy, faculty-ai-competencies]
 sources: ['raw/papers/qian-governing-genai-higher-ed-policy-2026.md']
 confidence: high
 ---
@@ -49,34 +48,6 @@ Five design options follow from the patterns rather than from the divergences. R
 ## Limitations
 
 The corpus is publicly available institution-level guidance captured at a single point in time, so pages may have changed after collection and some resources may since have been replaced. The sample is confined to the 50 U.S. universities ranked most innovative, and community colleges, liberal arts colleges, regional universities and non-U.S. institutions may organize GenAI governance differently. The study examines documents rather than enacted practice, and it does not systematically include student, faculty, staff or administrator perspectives that could reveal implementation barriers and local interpretations invisible in official materials.
-
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ai-use-disclosure]]
-- [[guardrails]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[ai-detection]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-- [[teacher-role]]
-- [[administrator]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance as an alternative to reactive AI policy in universities
-- [[institutional-governance-ai-universities]] — Institutional governance arrangements for AI adoption across universities
-- [[genai-assessment-governance]] — Governance of GenAI in assessment practice
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose before policy: what integrity policy should be aiming at
-- [[mccorkle-aligned-genai-course-policy-2025]] — Aligning course-level GenAI policy with course learning goals
-- [[guided-inquiry-genai-course-policy-2026]] — Guided inquiry as a route to course AI policy design
-- [[faculty-development-centers-genai-training-optimization-2026]] — How teaching centers organize GenAI faculty development
-- [[bassett-ai-detectors-education-2026]] — The limits of AI detectors in institutional integrity practice
 
 ## Citation
 

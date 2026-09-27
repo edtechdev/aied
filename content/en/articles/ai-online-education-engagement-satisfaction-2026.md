@@ -10,7 +10,6 @@ sources: ['raw/papers/ai-online-education-engagement-satisfaction-2026.md']
 confidence: high
 level: [higher ed]
 page_kind: [synthesis]
-connected_faqs: [asynchronous-online-courses-ai]
 methods: [meta-analysis-systematic-review]
 ---
 
@@ -41,25 +40,6 @@ This PRISMA-based systematic literature review searched Scopus and Web of Scienc
 - The review performs no formal quantitative synthesis: without aggregating effect sizes, it cannot weigh the strength of evidence behind individual claims about AI factors.
 - It proposes no concrete framework or system architecture linking AI capabilities to engagement dimensions, governance requirements, and stakeholder roles — the authors present the findings as a conceptual foundation rather than a design model.
 - The 30 included studies (2020–2025, English-language, Scopus and Web of Science) lean heavily on self-report for engagement and satisfaction, and their design diversity meant quality was scored with adapted MMAT 2018 indicators rather than a uniform instrument.
-
-## Connected Concepts
-- [[online-teaching-and-learning]]
-- [[student-engagement]]
-- [[motivation]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[privacy]]
-- [[bias-mitigation]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[affective-computing]]
-
-## Connected Articles
-- [[mooc-to-maic]]
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]]
-- [[ai-distance-education-systematic-review-2026]]
-- [[genai-educational-outcomes-meta-analysis]]
-- [[interactive-learning-dashboards-engagement]]
 
 ## Citation
 Katalinic, A., Slavuj, V., & Jaksic, D. (2026). [*Artificial Intelligence in Online Education: A Systematic Review of Its Impact on Learner Engagement and Satisfaction*](https://doi.org/10.3390/educsci16030389). *Education Sciences*, 16(3), 389.

@@ -50,28 +50,6 @@ A distinctive contribution is the four-part verification architecture covering *
 - The taxonomies may need disciplinary adaptation for laboratory, clinical, legal, creative, and high-security settings, and model capabilities, interfaces, and institutional policies evolve quickly enough to require periodic review of the framework's practical controls.
 - The prompt-context-harness-loop sequence was already articulated in technical discourse (Macedo, 2026), so the paper's contribution is a narrower pedagogical operationalization of it rather than conceptual priority.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[agentic-ai]]
-- [[governance]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[educational-development]]
-- [[higher-ed]]
-- [[human-in-the-loop-ai]]
-- [[learning-design]]
-- [[prompt-engineering]]
-- [[rag]]
-- [[hallucination-risk]]
-
-## Connected Articles
-
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs framework
-- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education review
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher education policy
-- [[xie-hillm-cd-2026]] — HILLM curriculum design
-
 ## Citation
 
 Nalyvaiko, O. (2026). [*From Prompts to Verified Loops: The PCHL-HE Framework for Generative AI-Assisted Educational and Research Content Creation in Higher Education*](https://osf.io/wudk7). EdArXiv preprint.

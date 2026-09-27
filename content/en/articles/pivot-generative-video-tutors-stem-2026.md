@@ -22,7 +22,6 @@ ai_assist:
     role: drafting
     date: "2026-09-22"
     agent: hermes-agent
-connected_faqs: [developing-ai-tutor]
 reviewed_by: [editor]
 ---
 
@@ -56,32 +55,6 @@ The third stage connects the video to post-video [[formative-assessment|formativ
 - The multi-stage pipeline — storyboard generation, executable rendering, verification and remediation — costs substantially more computation than direct multimedia synthesis, and the paper reports no efficiency or cost figures.
 - Expert evaluation used a questionnaire with 32 instructors and shuffled presentation order, so it measures perceived quality and perceived [[learning-gains|learning effectiveness]] rather than measured learning outcomes.
 - Generation depends on GPT-5.2 with Claude Sonnet 4.6 as fallback and Gemini-2.5-Flash as the automatic judge, so the reported scores are tied to those specific model versions.
-
-## Connected Concepts
-- [[scaffolding]]
-- [[misconceptions]]
-- [[video-education]]
-- [[generative-ai]]
-- [[multimodal]]
-- [[formative-assessment]]
-- [[automated-question-generation]]
-- [[prior-knowledge]]
-- [[adaptive-learning]]
-- [[feedback]]
-- [[cognitive-psychology]]
-- [[transfer-of-learning]]
-- [[stem-education]]
-- [[human-ai-collaboration]]
-
-## Connected Articles
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Designing Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[structrag-diagram-reasoning-ai-tutoring]] — Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education
-- [[correct-answer-trap-misconceptions]] — The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System
-- [[savvy-student-attention-video-learning]] — SAVVY: Student Attention Visualization for Video-based Learning Analysis
-- [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Knowledge and Skill Acquisition Support Using Deep Learning Audio-Video Processing
-- [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training
 
 ## Citation
 Ma, X., Wang, S., He, G., Zhang, Y., Wang, C., Lan, Y., & Qian, W. (2026). [From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning](https://arxiv.org/abs/2609.24083). arXiv:2609.24083.

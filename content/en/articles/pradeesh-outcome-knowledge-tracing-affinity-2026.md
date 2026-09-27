@@ -40,24 +40,6 @@ page_kind: [evaluation, framework]
 - Evaluation is predictive only — AUC and accuracy against exam attainment — with no test of whether acting on the predictions improves learning, and the authors state that the patterns they observed could reflect demographic differences, prior knowledge, or external influences on learning behavior that were not analyzed.
 - Knowledge states are 100-dimensional embeddings that the authors describe as not easy for humans to interpret directly, so any teacher-facing use depends on a separate visualization and interpretability layer.
 
-## Connected Concepts
-
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[machine-learning]]
-- [[intelligent-tutoring]]
-- [[cognitive-diagnosis]]
-- [[learning-analytics]]
-
-## Connected Articles
-
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
-- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
-- [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Knowledge Tracing
-- [[thymen-temporal-hypergraph-knowledge-tracing-2026]] — Augmenting Knowledge Tracing Through Modeling Dynamic Higher-Order Connections
-- [[cognitive-load-transfer-knowledge-tracing-2026]] — Incorporating Cognitive Load and Knowledge Transfer for Multi-Domain Knowledge Tracing
-- [[stanbkt-bayesian-knowledge-tracing]] — StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing
-
 ## Citation
 
 Pradeesh, N., Gopakumar, G., Pathinarupothi, R. K., & Krishnamoorthy, S. (2026). [Outcome-based knowledge tracing with affinity mapping and memory augmented outcome impact](https://doi.org/10.1016/j.ijaied.2026.100006). *International Journal of Artificial Intelligence in Education*, 36, 100006.

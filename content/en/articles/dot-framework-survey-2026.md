@@ -58,25 +58,6 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 - The cross-sectional design cannot capture the iterative design, prototype, test, and revise processes the DOT Framework treats as central.
 - The three-factor solution is exploratory and hypothesis-generating, ceiling effects in the Oversight and Governance items reduced discriminative power, and some items did not load cleanly onto any factor.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[design-thinking]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[human-in-the-loop-ai]]
-- [[governance]]
-- [[human-ai-collaboration]]
-
-## Connected Articles
-
-- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
-- [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions
-- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
-
 ## Citation
 
 Gibson, D., Azukas, M. E., & Knezek, G. (2026). [*Practitioner beliefs and behaviors in AI-enhanced education: DOT framework survey evidence*](https://arxiv.org/abs/2605.29041).

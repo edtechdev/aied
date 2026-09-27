@@ -51,22 +51,6 @@ Reed reports five recurring outcomes and labels them course-based observations r
 - No participant counts, comparison groups, or statistical measures are reported; the only figures are three academic years and five outcomes.
 - The model is described at the cycle level; assignments, rubrics, and journal prompts are not reproduced, so replication requires interpretation.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[universal-design-for-learning]]
-- [[evaluative-judgment]]
-- [[metacognition]]
-- [[prompt-engineering]]
-
-## Connected Articles
-
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Critical AI literacy built through multimodal composition in a writing classroom.
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Whether GenAI acts as scaffold or shortcut for self-regulated learning in postgraduate work.
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — How LLM-mediated help-seeking trades efficiency against learning effectiveness.
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure practices, stigma, and their link to self-regulation.
-
 ## Citation
 
 Reed, E. (2026). [Addressing Resource Literacy Through Structured AI Integration in Online English Composition](https://doi.org/10.65201/ELBU6695). *Journal of Instructional Design and Technology*, 1(2), 37-44.

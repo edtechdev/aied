@@ -11,7 +11,6 @@ confidence: high
 research_method: [survey]
 audience: [instructors, instructional designers]
 level: [higher ed]
-connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** Shi et al. (2026) applied unsupervised [[learning-analytics|data-mining]] techniques — association-rule mining and clustering — to survey data from 530 college students to identify the online-learning strategies most strongly associated with lower digital distraction. Self-regulated learning behaviors (goal setting, environment structuring, and time management) co-occurred most consistently with low distraction, along with learner-instructor and learner-content [[student-engagement|engagement]] and technical competencies. By contrast, reliance on peer [[help-seeking]] and learner-learner engagement appeared less often in low-distraction profiles. The study offers educators concrete levers for fostering focused [[higher-ed|college]] online-learning environments.
@@ -42,20 +41,6 @@ The proliferation of digital tools in education has intensified distraction — 
 - Digital distraction is self-reported on a 4-item questionnaire, and the authors note that participants' perceptions and recall may not reflect their behavior, calling for objective measures such as screen-time tracking or behavioral observation.
 - Distraction was dichotomized by median split into high (n = 314) and low (n = 216) groups, and the association-rule mining and clustering identify co-occurrence rather than causal effect.
 - No intervention is tested: findings describe which strategies co-occur with low distraction in a single cross-sectional survey, so the instructional implications remain hypotheses awaiting trial.
-
-## Connected Concepts
-- [[self-regulated-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[motivation]]
-- [[digital-divide]]
-
-## Connected Articles
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — LLMs as Collaborative Learning Partners
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Five Guiding Principles for AI in Student Assessment
-- [[human-ai-collaboration-trust-expectations]] — Human–AI Collaboration and Trust Expectations
-- [[ai-fallibility-warning-help-seeking]] — AI Fallibility Warnings and Help-Seeking
 
 ## Citation
 Shi, H., Bi, R., Lin, X., & Dai, Y. (2026). [*Decreasing Digital Distraction in College Students: Associated Online Learning Strategies Identified by Unsupervised Data Mining Approaches*](https://arxiv.org/abs/2609.04125). arXiv:2609.04125.

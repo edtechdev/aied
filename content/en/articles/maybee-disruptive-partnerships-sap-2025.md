@@ -51,29 +51,6 @@ ISRA (Information Studies Research Accelerator) is a redesigned first-year livin
 - The authors state that existing and ongoing studies are underway to examine the learning benefits, so the accounts of SPIRaL, PAL, and ISRA rest on program descriptions and a preliminary thematic analysis rather than completed outcome evidence.
 - ISRA's evidence is prospective: IRB approval was granted for a future examination of student coursework, and thematic analysis of first-year students' self-assessments had not yet been reported.
 
-## Connected Concepts
-
-- [[pedagogical-partnerships]]
-- [[ai-literacy]]
-- [[agency]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[equity-in-ai-education]]
-- [[student-engagement]]
-- [[generative-ai]]
-- [[critical-thinking]]
-- [[self-regulated-learning]]
-
-## Connected Articles
-
-- [[guided-inquiry-genai-course-policy-2026]] — GenAI Course Policy Through Guided Inquiry
-- [[student-centered-genai-responsible-framework-2026]] — Student-Centered GenAI Responsible Framework
-- [[institutional-change-framework-ai]] — Institutional Change Framework for AI
-- [[panciroli-ai-literacy-episodes-situated-learning]] — AI Literacy Episodes in Situated Learning
-- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — GenAI Authentic Assessment and Integrity
-
 ## Citation
 
 Maybee, C., LeGrand, S., & Fundator, R. (2025). [*Disruptive Partnerships: Collaborating with Students to Create Empowering Learning Experiences in Information Studies*](https://doi.org/10.21900/j.alise.2025.2017). *ALISE 2025 Juried Paper*.

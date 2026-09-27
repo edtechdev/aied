@@ -35,24 +35,6 @@ Persona skills distill personal interaction histories into portable and executab
 - Every personal trace is only a three-round user–assistant dialogue, which is short relative to the histories real [[personalized-learning|personalized]] skills are distilled from.
 - The defense suite covers four configurations spanning online and post-hoc interventions, so untested defense and distillation combinations may behave differently.
 
-## Connected Concepts
-- [[benchmark]]
-- [[trust]]
-- [[generative-ai]]
-- [[privacy]]
-- [[agentic-ai]]
-- [[student-experience]]
-- [[bias-mitigation]]
-- [[personalized-learning]]
-## Connected Articles
-
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
-- [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators
-- [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
-- [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
-
 ## Citation
 
 Yongli Xiang, Zhifang Zhang, Bojun Yang, Ziming Hong, Lei Feng, Miao Xu, & Tongliang Liu (2026). [When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills](https://arxiv.org/abs/2608.03700). .

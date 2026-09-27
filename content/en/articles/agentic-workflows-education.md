@@ -61,33 +61,6 @@ Kamalov et al. implemented a **multi-agent framework for [[automated-essay-scori
 - The literature synthesis screened 378 unique records down to 93 included studies, and the authors state plainly that sustainability was treated as a follow-up research priority rather than analyzed, so lifecycle cost and equity fall outside its scope.
 - No learner-facing evaluation was conducted: the authors flag that transfer across learner populations and the interplay among instructors, learners, and agents remains unstudied, and the work carries no ethics, consent, or funding declarations because none applied.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[formative-assessment]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-llm-training]]
-- [[agentic-ai]]
-- [[ai-education]]
-- [[authentic-assessment]] — Authentic Assessment
-- [[automated-essay-scoring]]
-- [[intelligent-tutoring]]
-- [[human-ai-collaboration]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[wang-multi-agent-systems-learning-designers-2025]] — Multi-Agent Systems for Instructional Design
-- [[chen-teacharena-language-agents-realistic-teaching-2026]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
-- [[golrang-propact-pair-programming-2026]] — Collaborative AI Tutoring
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
 ## Citation
 
 Kamalov, F., Santandreu Calonge, D., Smail, L., Azizov, D., Thadani, D. R., Kwong, T., & Atif, A. (2026). [*Evolution of AI in Education: Agentic Workflows*](https://arxiv.org/abs/2504.20082v2).

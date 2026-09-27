@@ -47,31 +47,6 @@ The study is theoretically distinctive in grounding the analysis in **postphenom
 - Coverage extends across three faculties (Social Sciences, Humanities, and Law) only; natural sciences, engineering, and medical education settings are not represented.
 - Data were collected in spring 2023, in the first months after ChatGPT's public release, so the reactions are anchored to that early period rather than to teachers' settled practice.
 
-## Connected Concepts
-
-- [[philosophy-of-ai-in-education]]
-- [[qualitative-research]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[anxiety-and-stress]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[critical-thinking]]
-- [[equity-in-ai-education]]
-- [[educational-development]]
-- [[theory-development-aied]]
-- [[trust]]
-- [[bias-mitigation]]
-
-## Connected Articles
-
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
-- [[enright-staff-perspectives-genai-2026]] — staff perspectives on GenAI in higher education
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — higher-education stakeholder SWOT of GenAI
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis for faculty
-- [[teachers-reflective-regulators-cognition-offloading]] — teachers as reflective regulators
-
 ## Citation
 
 Farazouli, A., Cerratto Pargman, T., Bolander Laksov, K., & McGrath, C. (2026). [Navigating uncertainty: university teachers' experiences and perceptions of generative artificial intelligence in teaching and learning](https://doi.org/10.1080/03075079.2025.2550766). *Studies in Higher Education, 51*(9), 1898–1913.

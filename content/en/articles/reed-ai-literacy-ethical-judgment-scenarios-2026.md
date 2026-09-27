@@ -57,33 +57,6 @@ For [[educational-policy-ai|institutional policy]], the findings support moving 
 
 The convenience sample came from one public university and was predominantly White, female, and first-year, with recruitment through psychology courses, so [[student-experience|student]] results may not generalize to the broader undergraduate population; race/ethnicity and discipline analyses were not possible because of small cell sizes. Coding "unsure" as incorrect may understate genuine ethical reasoning, since uncertainty can reflect epistemic humility or deliberation rather than lack of understanding. The fixed presentation order means order or priming effects cannot be excluded. The ceiling effect restricted score range and likely attenuated associations with AI literacy and demographics; the six-item measure's internal consistency was only KR-20 = 0.61, and the authors caution that high classification accuracy should not be read as comprehensive ethical competence. Removing the GLAT's ethics items to avoid criterion contamination narrowed the construct measured, and conceptual overlap between AI literacy and ethical judgment may not have been eliminated completely. Finally, the extra-binomial dispersion warrants caution, the cross-sectional design precludes causal claims, and the hypothetical, low-stakes vignettes should not be treated as evidence of students' intentions or actual conduct under academic pressure.
 
-## Connected Concepts
-
-- [[ai-literacy]] — the objectively measured predictor, operationalized with the GLAT
-- [[ethics]] — the judgment construct the scenarios assess
-- [[academic-integrity]] — the boundary students must draw between assistance and misconduct
-- [[generative-ai]] — the technology the vignettes concern
-- [[evaluative-judgment]] — judgment distinguished from awareness, knowledge, and behavior
-- [[self-report-measures]] — quantified performance contrasted with self-reported attitudes
-- [[educational-measurement]] — ceiling effects, KR-20 reliability, and criterion contamination frame the results
-- [[assessment-validity]] — the ethics-subscale exclusion is a criterion-contamination adjustment
-- [[critical-thinking]] — verification and original authorship define the accepted scenarios
-- [[ai-misuse-learning-harm]] — substitution of AI-generated work for student work
-- [[ai-use-disclosure]] — transparency practices the authors recommend
-- [[higher-ed]] — the setting and policy audience
-- [[learners]] — the undergraduate sample
-- [[student-experience]] — how students navigate GenAI decisions in coursework
-
-## Connected Articles
-
-- [[mulisa-students-genai-integrity-perspectives-2026]] — students' own perspectives on GenAI and integrity
-- [[ivory-psychology-assessment-integrity-2026]] — adjacent psychology assessment-integrity work
-- [[predictors-ethical-genai-use-higher-ed-2026]] — predictors of ethical GenAI use in higher education
-- [[ai-literacy-assessment-misalignment]] — measuring AI literacy against instructional goals
-- [[genai-assessment-literacy-scale-2026]] — instrument design for GenAI literacy and assessment
-- [[ai-tools-academic-work-cheating-2026]] — the cheating framing these scenarios probe
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — purpose before policy in academic integrity
-
 ## Citation
 
 Reed, J. M., Ferdig, R. E., Dodson, T. M., Gunstad, J., & Hughes, J. W. (2026). [*AI literacy and scenario-based ethical judgment about generative AI among undergraduate students*](https://doi.org/10.1007/s10805-026-09757-w). *Journal of Academic Ethics*, 24, 82.

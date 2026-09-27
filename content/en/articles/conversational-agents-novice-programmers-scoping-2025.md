@@ -41,32 +41,6 @@ page_kind: [synthesis]
 - The primary studies' evidence is weak: most of the 17 quasi-experimental studies were rated Moderate and none High, and only 3 of 23 used objective pre/post-test designs, so the review's causal claims about learning are limited.
 - Publication characteristics skew toward a few countries (US, South Africa, Taiwan) and research peaked in 2022, so the synthesis may not represent current LLM-era practice; it also excludes commercial products and code generators by design.
 
-## Connected Concepts
-
-- [[conversational-ai]]
-- [[pedagogical-agent]]
-- [[intelligent-tutoring]]
-- [[cs-education]]
-- [[scaffolding]]
-- [[feedback]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[llm]]
-- [[rag]]
-- [[multimodal]]
-- [[equity-in-ai-education]]
-- [[ai-ed-evaluation]]
-
-## Connected Articles
-
-- [[gaide-vibe-coding-k12-teachers]] — Vibe coding framework for K-12 teachers
-- [[conversational-ai-tutors-framework]] — Conversational AI tutors framework
-- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs general AI
-- [[measuring-llm-tutors-teach-vs-solve]] — Measuring whether LLM tutors teach or solve
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-
 ## Citation
 
 Barzanji, C., & Loitsch, C. (2025). [*Exploring conversational agents for novice programmers: a scoping review*](https://doi.org/10.1007/s44163-025-00521-4). *Discover Artificial Intelligence*, 5, 271.

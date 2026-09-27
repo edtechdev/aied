@@ -58,35 +58,6 @@ The authors report no significant reduction in overall trust in generative AI fr
 - **Reduction, not elimination, on self-reported attitudes.** The pooled estimate is a 48.1% reduction in attitude change measured by pre-to-post self-report after a single conversation of at least three exchanges, so nothing is known about persistence beyond the immediate post-test; the general warning alone was only marginal in Study 2 (b = −3.23, p = 0.053).
 - **Contested topics and current models only.** Outcomes were contested political issues with defensible arguments on both sides, the two systems tested were GPT-4.1 and Grok 4.5, and the paper states it has not yet undergone peer review.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[trust-calibration]]
-- [[conversational-ai]]
-- [[llm]]
-- [[generative-ai]]
-- [[ai-sycophancy]]
-- [[ethics]]
-- [[guardrails]]
-- [[misconceptions]]
-- [[refutation-text]]
-- [[rct]]
-- [[meta-analysis-systematic-review]]
-
-## Connected Articles
-
-- [[ai-fallibility-warning-help-seeking]] — Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI Literacy Interventions in Education: A Meta-Analysis of Effects and Moderators
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators
-- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time
-- [[students-llm-usage-critical-thinking]] — Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
-- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
-- [[digital-literacy-illusion]] — The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students
-- [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
-
 ## Citation
 
 Orchinik, R., & Rand, D. (2026). [*A light-touch AI literacy intervention helps protect against AI political persuasion*](https://arxiv.org/abs/2609.16432). arXiv preprint.

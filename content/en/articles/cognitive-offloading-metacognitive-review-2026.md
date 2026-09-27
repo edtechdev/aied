@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]
-connected_faqs: [reducing-over-reliance]
 research_method: [literature review]
 audience: [researchers, instructors]
 level: [higher ed]
@@ -70,30 +69,6 @@ This review strengthens the theoretical foundation of the knowledge base's [[cog
 - The empirical basis for its central timing principle is a small set of lab experiments (Gilbert et al., 2020; Grinschgl et al., 2020) on reminders and ranking feedback, not classroom AI use.
 - Its evidence on ability damage comes from contexts far from AI-supported study — the "Google Effect" for search engines and instrument overreliance in aviation — and its AI-specific warning is drawn from a single commentary (Skulmowski, 2023), not an AI study.
 - The behavioral findings it leans on are stimulus-specific and modest: incentives reduce offloading bias but do not eliminate it, and a cited meta-analysis (Baars et al., 2020) reports a negative correlation of r = −0.35.
-
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[feedback]]
-- [[scaffolding]]
-- [[distributed-cognition]]
-- [[student-experience]]
-
-## Connected Articles
-
-- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning (episodic vs. habitual offloading)
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking (Gerlich 2025)
-- [[coach-not-crutch-ai-writing]] — AI can work less and learn more: the "coach" boundary condition
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI replacing cognitive work
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Prompt patterns as offloading traces
-- [[cognitive-offloading-speedup-illusion]] — The speedup illusion
-- [[ai-making-us-stupid]] — The skills-vs-basic-abilities perspective
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitive disengagement in AI-assisted completion
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Embodied intelligence as the alternative to outsourcing
 
 ## Citation
 

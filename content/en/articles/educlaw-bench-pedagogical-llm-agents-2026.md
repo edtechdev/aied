@@ -42,26 +42,6 @@ Large language models (LLMs) power educational applications from tutoring to ess
 - Each tier is run with four LLM students (solarmini, llama-3.1-8b-instruct, qwen-2.5-7b-instruct, gemma3-4b-it), so a student succeeds about half the time (pass1 near 0.47) and all four rarely do together (pass4 near 0.11).
 - Helpfulness rests on a cross-family panel of three LLM judges scoring stratified 40-item samples per axis, and the live-classroom evidence is educator follow-up reports whose systematic analysis is left to future work.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[agentic-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[benchmark]]
-- [[simulation]]
-- [[curriculum-design]]
-- [[ai-ed-evaluation]]
-## Connected Articles
-
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
-- [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
-- [[chen-teacharena-language-agents-realistic-teaching-2026]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
-- [[knowledge-gap-detection-ai-tas]] — Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
-
 ## Citation
 
 Lee, U., Lee, S., Jeong, Y., Lee, E., Shin, M., & Kwon, H. (2026). [*EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners*](https://arxiv.org/abs/2608.03206).

@@ -45,21 +45,5 @@ Rather than accepting the productivity framing, the paper advances an emancipato
 - The critique of the productivity framing draws on evidence of over-reliance, metacognitive laziness, isolation, and lower well-being from naturally emerging uses of general-purpose [[generative-ai|GenAI]], not from studies of AI built specifically for education.
 - The dismissal of [[ethics|human-centered design]] approaches such as value-sensitive design is conceptual — they are judged insufficient to handle systemic drivers like economic incentives — and no empirical comparison of outcomes under the two design philosophies is provided.
 
-## Connected Concepts
-- [[generative-ai]]
-- [[agency]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[critical-pedagogy]]
-- [[learning-theories]]
-- [[well-being]]
-- [[philosophy-of-ai-in-education]]
-- [[agentic-ai]]
-
-## Connected Articles
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency
-- [[ai-intuition-ai-literacy-k12-2026]] — From AI Intuition to AI Literacy
-- [[beyond-agent-label-agentic-ai-governance-2026]] — Beyond the Agent Label
-
 ## Citation
 Prieto, L. P., & Dimitriadis, Y. (2026). [*An Emancipatory Vision for Designing (Generative) AI for Learner Flourishing*](https://arxiv.org/abs/2609.07715). International Workshop on Critical and More-than-human Perspectives on AI in Education (EC-TEL 2026). arXiv:2609.07715 [cs.CY].

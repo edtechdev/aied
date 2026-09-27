@@ -17,7 +17,6 @@ technology: [generative-ai, prompt-engineering]
 assessment: [authentic-assessment, assessment-validity]
 methods: [qualitative-research, ai-ed-evaluation]
 ethics: [ai-sycophancy, hallucination-risk, universal-design-for-learning]
-connected_faqs: [redesign-assessment-ai-era, faculty-development-ai]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -57,28 +56,6 @@ The paper's more interesting claim is that the tool developed the educators, not
 - No comparative condition: the study did not test Authentifire-generated assessments against assessments designed solely by academics.
 - Authentifire ran on GPT-4.1 without retrieval-augmented generation or real-time web search, and the host platform lacked features available in commercial products.
 - Generated assessments were produced for evaluation only and never deployed, so nothing here shows how they perform in marking or in student learning.
-
-## Connected Concepts
-- [[authentic-assessment]]
-- [[assessment-validity]]
-- [[generative-ai]]
-- [[evaluative-judgment]]
-- [[human-ai-collaboration]]
-- [[teacher-ai-competency]]
-- [[universal-design-for-learning]]
-- [[hallucination-risk]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future
-- [[dollinger-equitable-assessment-ai-2026]] — Reimagining Success and Failure: Equitable Assessment Practices in an Age of Artificial Intelligence
-- [[genai-assessment-literacy-scale-2026]] — Development and validation of the generative AI assessment literacy scale for higher education students
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI Agents, Joyful Assessment, and Third Space: Rethinking Assessment in the GenAI Era
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — Can AI Evaluate Assessment? A Study of Large Language Model Meta-Assessment Performance
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Efficiency at what cost? Salvaging constructive alignment from the GenAI hype
 
 ## Citation
 Paula, A. P., Fayek, H., Kalra, S., Date, A., Troynikov, O., Lam, M., et al. (2026). [Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education](https://osf.io/tydbj/). EdArXiv preprint.

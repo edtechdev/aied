@@ -40,24 +40,6 @@ page_kind: [synthesis]
 - Scope was deliberately narrow — English-language natural-language responses on science content (biology, chemistry, physics) tested with transformer-based technology — so other subjects, languages, and non-transformer approaches were excluded, and many models were evaluated on US-collected corpora.
 - The publication window ran from 2017 to 18 March 2024, when the authors note the 2024 data were still incomplete, so the GPT-model picture is an early snapshot.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[educational-nlp]]
-- [[llm]]
-- [[science-education]]
-- [[formative-assessment]]
-- [[meta-analysis-systematic-review]]
-
-## Connected Articles
-
-- [[automated-formative-assessments-a-level-sciences]]
-- [[gpt-human-rater-essay-assessment-2026]]
-- [[aiawe-automated-writing-evaluation]]
-- [[llm-formative-feedback-systematic-review-2026]]
-- [[ground-truth-reliability-aied]]
-
 ## Citation
 
 Morley, F., Walland, E., & Vidal Rodeiro, C. (2026). [Auto-marking short answer questions in science: The foundational years of transformer-based models from BERT to GPT-4](https://doi.org/10.1016/j.ijaied.2026.100005). *International Journal of Artificial Intelligence in Education*, 36, Article 100005.

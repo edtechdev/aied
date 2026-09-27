@@ -46,27 +46,6 @@ The study collected 45 complete staff responses from a population of 318 academi
 - Several scales failed validation and were excluded from the findings; datasets were not released because of ethics constraints.
 - The authors recommend larger and more balanced samples, and qualitative research that richly describes students' perspectives on purpose, trust and affectivity in LLM use.
 
-## Connected Concepts
-
-- [[higher-ed]] — the institutional setting the study examines
-- [[generative-ai]] — the class of tools under study
-- [[student-experience]] — students' reported use and perceptions
-- [[teacher-role]] — how staff imagine and scaffold student use
-- [[technology-acceptance-model]] — the framework the instruments rest on, and the target of the authors' critique
-- [[agency]] — the agency of both staff and students in shaping use
-- [[ai-literacy]] — the training response the authors find insufficient
-- [[framing-ai-use-for-students]] — staff perceptions of how students use GAI
-- [[self-regulated-learning]] — the independent study in which student use stays invisible
-
-## Connected Articles
-
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of student AI adoption in tertiary education, critiquing TAM/UTAUT reliance
-- [[enright-staff-perspectives-genai-2026]] — University staff perspectives on GenAI in education
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — Teacher autonomy and risk in GenAI adoption, extending TAM
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas in higher education
-- [[tam-critical-use-genai-engineering-2026]] — Technology acceptance model applied to critical GenAI use
-- [[guarded-adoption-genai-higher-education-2026]] — Cautious, risk-aware adoption of GenAI in higher education
-
 ## Citation
 
 Kahn, P., Carrigan, M., Wyman, I., Liu, R., Smith, P., Andonegui, A. R., et al. (2026). [Still Emerging: Understanding Generative AI Use in Higher Education](https://doi.org/10.3389/feduc.2026.1885253). *Frontiers in Education, 11*, 1885253.

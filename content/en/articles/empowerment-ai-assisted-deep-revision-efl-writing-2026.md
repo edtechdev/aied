@@ -45,25 +45,6 @@ Data were analyzed with partial least squares structural equation modeling (PLS-
 - **Quantitative scales may miss dynamic nuance** — deep revision is a complex, iterative cognitive process, and self-report instruments cannot capture the full dynamics of human–computer interaction.
 - **Single-context generalization** — findings rest on Chinese EFL freshmen and sophomores, limiting cross-cultural applicability.
 
-## Connected Concepts
-
-- [[cognitive-offloading]] — APL lets learners offload lower-level linguistic operations, freeing working memory for higher-order text reconstruction (Cognitive Load Theory).
-- [[self-efficacy]] — Perceived Competence mediates the effect of prompting literacy on deep revision engagement.
-- [[motivation]] — Intrinsic Motivation, grounded in Self-Determination Theory, is the strongest direct driver of deep revision.
-- [[ai-literacy]] — AI Prompting Literacy is conceptualized as the core psychological empowerment resource.
-- [[self-regulated-learning]] — Deep Revision Engagement reflects iterative, self-regulated text reconstruction rather than surface-level editing.
-- [[feedback]] — AI is reframed as a formative, zero-judgment feedback interlocutor that supports psychological safety.
-- [[writing-education]] — EFL academic writing is the empirical domain, framed as a cognitively demanding iterative process.
-- [[language-learning]] — Study population of EFL learners in Chinese higher education.
-
-## Connected Articles
-
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Shared SDT framing of psychological need satisfaction in generative-AI learning contexts.
-- [[ai-dependence-academic-writing-ipace-2026]] — The I-PACE model of AI dependence in academic writing, mirroring the "algorithmic dependence" risk examined here.
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Related examination of AI literacy and self-efficacy in student AI use.
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive offloading in prompting, the same CLT mechanism underlying APL's effect.
-- [[penny-transition-network-analysis-efl-writing-2026]] — Empirical work on EFL writing, the shared target population and construct of deep engagement.
-
 ## Citation
 
 Li, H., & Zhang, W. (2026). [Empowerment over enforcement: unpacking the psychological drivers of AI-assisted deep revision in EFL writing](https://doi.org/10.3389/fpsyg.2026.1871022). *Frontiers in Psychology, 17*, 1871022.

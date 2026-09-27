@@ -33,24 +33,6 @@ The finding that full automation reduces cognitive engagement echoes the [[cogni
 - The EEG data did not reach statistical significance (p > 0.29 for neural differences across modes) and the headset had limited spatial coverage, so the neural results are descriptive trends only.
 - Fatigue accumulated across the quiz (descriptive increases in delta activity), and the authors recommend larger samples and separated task blocks to address participant-level variation in focus.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[affective-computing]]
-- [[student-experience]]
-- [[k-12]]
-- [[active-learning]]
-- [[student-engagement]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-## Connected Articles
-
-- [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-
 ## Citation
 
 Kashika Khurana, Ally Liew (2026). [An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students](https://arxiv.org/abs/2606.26579). arXiv cs.HC / cs.CY.

@@ -37,28 +37,6 @@ audience: [instructional designers, software developers]
 - Expert ratings came from a within-subjects comparison against a strengthened baseline (MS Word plus ChatGPT plus Miro) in which the measured gap was dominated by retrieval quality rather than interaction design.
 - The deception test used a mismatched source label rather than a false domain claim, and participants were hobbyists and online novelists most prone to latent gaps, so professional novelists with internalized expertise may benefit less.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[ai-feedback-quality]]
-- [[creativity]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-graph]]
-- [[rag]]
-- [[scaffolding]]
-- [[writing-education]]
-- [[sociocultural-learning]]
-
-## Connected Articles
-
-- [[mindcopilot-llm-co-writing]] — MindCopilot co-writing
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Creative writing with robots
-- [[foxglove-writing-feedback-experts-llms]] — Foxglove writing feedback
-- [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in writing
-- [[self-referential-l2-writing-llm-assessment]] — L2 writing LLM assessment
-
 ## Citation
 
 Sun, R., Li, J., Tao, W., Zheng, X., Tan, Y., Wei, J., & Ma, Y. (2026). [*VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding*](https://arxiv.org/abs/2608.09698). (cs.HC); UIST 2026.

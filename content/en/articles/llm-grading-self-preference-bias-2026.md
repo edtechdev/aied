@@ -11,7 +11,6 @@ ethics: [bias-mitigation, equity-in-ai-education]
 research_method: [experiment]
 level: [higher ed]
 audience: [researchers, assessment designers, instructors, administrators]
-connected_faqs: [top-10-findings-ai-education-instructors]
 page_kind: [evaluation]
 sources: ['raw/papers/llm-grading-self-preference-bias-2026.md']
 confidence: high
@@ -77,34 +76,6 @@ Study 2 used GPT-5 exclusively for generation, and its abstract-level analyses r
 - The human baseline is 300 Prolific adults from the general population with at least undergraduate education, judging lay writing quality on a 0-100 scale - a quality-perception baseline rather than expert marking.
 - Study 2 used GPT-5 alone for generation and rests on 150 texts in total (50 student abstracts plus their rewritten and fully generated counterparts), giving weaker power than Study 1; its rewrite-versus-full comparisons would not survive correction for multiple comparisons.
 - Gemma3:1b failed to reproduce the pattern on abstracts (student versus rewrite p = .429; student versus fully generated p = .070), and the author leaves that divergence from its Study 1 behavior unexplained; the paper is under peer review and only Study 2 was preregistered.
-
-## Connected Concepts
-
-- [[automated-assessment]] — the practice the paper evaluates and the site of the fairness risk it documents
-- [[ai-detection]] — undermined by the same entanglement between authorship cues and quality judgment
-- [[bias-mitigation]] — the corrective the author demands: bias auditing and validation before deployment
-- [[academic-integrity]] — the integrity stakes when AI-assisted work is systematically advantaged
-- [[assessment-validity]] — the validity question of whether model grades measure knowledge or LLM conformity
-- [[automated-essay-scoring]] — the specific system class the self-preference finding most directly threatens
-- [[evaluative-judgment]] — human and model judgment compared on the same rating task and scale
-- [[equity-in-ai-education]] — unequal tool access converted into unequal grades
-- [[generative-ai]] — the technology whose output the evaluators were shown to favor
-- [[llm]] — the three model families tested as graders across a wide capability range
-- [[higher-ed]] — the psychology dissertation context from which the corpora were drawn
-- [[quantitative-research]] — the experimental and regression-based method behind every reported effect
-
-## Connected Articles
-
-- [[llms-do-not-grade-essays-like-humans-2026]] — Evidence that LLM grading diverges from human essay judgment
-- [[gpt-human-rater-essay-assessment-2026]] — Agreement between GPT and human raters on essay assessment
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — A second failure mode where submissions manipulate their own grader
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Reliability of AI scoring and when it can be trusted
-- [[llm-essay-assessment-framework-reliability-2026]] — Framework-level treatment of LLM essay assessment reliability
-- [[pecuchova-automated-grading-open-ended-genai-2026]] — Benchmarking GenAI graders against expert human markers
-- [[llm-comparative-judgment-writing-screening-2026]] — Comparative judgment as an alternative writing-screening approach
-- [[bassett-ai-detectors-education-2026]] — What AI detectors can and cannot establish about authorship
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Reliability limits of AI-generated-text detection
-- [[llm-detecting-llm-generated-content-education]] — Using LLMs to identify LLM-written educational text
 
 ## Citation
 

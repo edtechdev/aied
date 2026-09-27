@@ -117,28 +117,6 @@ This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tu
 - Comparisons cover a classic DKT baseline and a neural-symbolic variant without rule injection only; attention-based and graph-based knowledge tracing models remain untested against it.
 - The injected rules are pedagogically motivated but do not operationalize ethical principles, fairness constraints, or privacy-preserving mechanisms; the authors describe the work as a partial, methodological contribution to responsible AI rather than a comprehensive realization of it.
 
-## Connected Concepts
-
-- [[student-experience]]
-- [[pedagogical-llm-training]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[item-response-theory]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[educational-measurement]]
-
-
-## Connected Articles
-
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[nie-personavlm-long-term-personalization-2026]]
-- [[stanbkt-bayesian-knowledge-tracing]]
-- [[explainable-probabilistic-kt]]
-
-
 ## Citation
 
 Hooshyar, D., Šír, G., Yang, Y., Kärkkäinen, T., Hämäläinen, R., Krivich, E., Cukurova, M., Gašević, D., & Azevedo, R. (2026). [*Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling*](https://arxiv.org/abs/2604.08263).

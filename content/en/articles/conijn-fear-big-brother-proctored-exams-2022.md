@@ -45,29 +45,6 @@ Conijn, Kleingeld, Matzat, & Snijders (2022) provide the strongest empirical evi
 - The study could not map the full side-effect space: it did not measure proctoring's effects on [[privacy]] and security perceptions, so the total cost of surveillance remains unknown.
 - Cheating temptation and anxiety were reported rather than observed, and students may be less aware of peers cheating in online exams than on campus, which weakens the null-effect conclusion.
 
-## Connected Concepts
-
-- [[anxiety-and-stress]] — the test-anxiety construct this study directly measures
-- [[remote-proctoring]] — the proctoring practice under study
-- [[academic-integrity]] — the integrity rationale being challenged
-- [[privacy]] — the "Big Brother" surveillance concern
-- [[equity-in-ai-education]] — disproportionate anxiety on vulnerable students
-- [[student-experience]] — anxiety as part of the exam experience
-- [[well-being]] — the broader mental-health impact
-- [[assessment]] — the exam context
-- [[higher-ed]] — the setting
-- [[digital-divide]] — internet-literacy and technology gaps
-- [[ethics]] — the fairness of surveillance
-- [[trust]] — the surveillance-vs-trust tension
-- [[social-norms-ai-use]] — the informal rules around AI use
-
-## Connected Articles
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — automated proctoring and dishonesty review
-- [[automated-online-exam-proctoring-decade-review-2026]] — decade-long review of automated exam proctoring
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive signal
-- [[qu-wang-disclose-or-not-genai-2026]] — disclosure and relational trust
-
 ## Citation
 
 Conijn, R., Kleingeld, A., Matzat, U., & Snijders, C. (2022). [*The fear of Big Brother: The potential negative side-effects of proctored exams*](https://doi.org/10.1111/jcal.12651). *Journal of Computer Assisted Learning*, 38(6), 1521–1534.

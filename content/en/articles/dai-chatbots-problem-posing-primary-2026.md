@@ -38,22 +38,6 @@ methods: [network-analysis]
 - Both conditions used specific platforms, and the authors state that differences in platform functions, prompt design, and teacher support may influence how the tools perform, limiting transfer to other configurations.
 - The sample was third-graders in one school, so applicability to other age groups, school contexts, and longer-term instruction still needs validation.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[conversational-ai]]
-- [[k-12]]
-- [[stem-education]]
-- [[inquiry-based-learning]]
-- [[network-analysis]]
-- [[metacognition]]
-- [[student-experience]]
-
-## Connected Articles
-
-- [[penny-transition-network-analysis-efl-writing-2026]] — Transition network analysis of learner-chatbot interactions
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents
-
 ## Citation
 
 Dai, Z., Huang, F., Xiong, J., Yang, Y., Zhang, Q., & Peng, X. (2026). [*Inquiry-based learning in STEM education: the impact of generative AI-based chatbots on primary school students' problem posing ability in science*](https://doi.org/10.1186/s40594-026-00631-0). *International Journal of STEM Education*, 13, 44.

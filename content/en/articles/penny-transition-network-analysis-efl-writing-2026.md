@@ -45,25 +45,6 @@ This study is a model demonstration of [[network-analysis|Transition Network Ana
 - The user_chat node is coarse — off-task talk, clarification requests, frustration, and social pleasantries are not distinguished — and automated coding of feedback versus chat reached only substantial agreement (Fleiss' κ = 0.70 and 0.71), so the transition probabilities are approximations rather than exact measures.
 - Immediate successful_uptake measures error repair only; it does not establish long-term language acquisition or retention, which would require longitudinal data.
 
-## Connected Concepts
-
-- [[network-analysis]]
-- [[learning-analytics]]
-- [[english-education]]
-- [[language-learning]]
-- [[feedback]]
-- [[scaffolding]]
-- [[student-modeling]]
-- [[ai-literacy]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive offloading and prompting
-- [[tracing-genai-literacy-interaction-patterns]] — Epistemic Network Analysis of LLM literacy interaction patterns
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Epistemic Network Analysis of human-AI collaborative problem solving
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing
-
 ## Citation
 
 Woollaston, S., Flanagan, B., Toyokawa, Y., & Ogata, H. (2026). *[Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing](https://arxiv.org/abs/2607.14575)*. LAK '26 Transition Network Analysis Workshop.

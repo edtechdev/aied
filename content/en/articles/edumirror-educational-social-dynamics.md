@@ -60,26 +60,6 @@ Case Study 2 targeted stable traits, using scenarios of increasing social comple
 - Scale is limited: simulations involved small groups, the scalability test topped out at 30 agents in a kindergarten scenario, and the authors call scaling to an entire school — including network effects and sub-group formation — a technical challenge.
 - The questionnaire-based measurement is a consistency check rather than independent validation, since the LLM Surveyor measures dimensions already encoded in the agent's internal value system. Individual values (psychological needs) and social values (SVO) are modeled as parallel, selectable configurations rather than coupled and co-evolving, and agent cognitive processes such as memory consolidation and emotional regulation remain abstractions.
 
-## Connected Concepts
-
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[simulation]] — in silico simulation of classroom social dynamics
-- [[agentic-ai]] — value-driven multi-agent simulation
-- [[collaborative-learning]] — modeling group cooperation
-- [[social-emotional-learning]] — psychological needs and social value orientation
-- [[ai-education]] — hypothesis testing for educational research
-- [[student-experience]] — modeling latent psychological states of learners
-## Connected Articles
-
-- [[knowledge-gap-detection-ai-tas]] — Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
-- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
-- [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
-- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
-- [[agentschool-multi-agent-simulation-education-2026]] — Multi-agent simulation of educational environments
-
 ## Citation
 
 Lin, J., Yu, H., Zeng, Y., & Zhong, F. (2026). [*EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation*](https://arxiv.org/abs/2606.07948).

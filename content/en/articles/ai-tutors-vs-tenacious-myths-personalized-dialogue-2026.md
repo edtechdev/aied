@@ -36,16 +36,5 @@ audience: [instructors, instructional designers, researchers]
 - No process measures were collected during the intervention (response times, think-aloud protocols, linguistic analysis of responses), so the authors cannot distinguish reasoning-based from fluency-based mechanisms.
 - The exploratory measures — confidence and trust in AI — were collected post-intervention only, with no pre-intervention baseline, and measurement invariance across time points and demographic groups was not established for the misconception scale.
 
-## Connected Concepts
-- [[refutation-text]]
-- [[misconceptions]]
-- [[intelligent-tutoring]]
-- [[generative-ai]]
-
-## Connected Articles
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Comparing expert-written vs. AI-generated conceptual change text vs. interactive AI dialogue
-- [[ai-learning-companions-framework]] — AI companions and misconception correction
-- [[critical-genai-use-predictors]] — Recommends refutation texts to target conceptual misconceptions
-
 ## Citation
 Corbett, B. J., & Tangen, J. M. (2026). [*AI tutors vs. tenacious myths: Evidence from personalised dialogue interventions in education*](https://doi.org/10.1016/j.chb.2025.108828). Computers in Human Behavior, 175, 108828.

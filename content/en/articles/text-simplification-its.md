@@ -65,17 +65,6 @@ MuTSE addresses these by letting evaluators toggle prompts and models on the fly
 - MuTSE's local JSON persistence does not scale to concurrent multi-user deployments; a relational database would be needed for large collaborative annotation campaigns.
 - Cloud-based model access removes local GPU requirements but still imposes initial environment-configuration friction.
 - The alignment cascade is optimized for monolingual simplification; cross-lingual syntactic restructuring may not respect monotonic sentence order, so extending it to machine translation requires recalibrating λ.
-## Connected Concepts
-
-- [[sociocultural-learning]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[inclusive-learning]]
-- [[educational-nlp]]
-- [[llm]]
-## Connected Articles
-
-- [[zerkouk-comprehensive-review-its-2025]]
 ## Citation
 
 Roscan, R.-A., Petre, G., Dumitran, A.-M., & Dumitran, A.-L. (2026). [*MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator*](https://arxiv.org/abs/2604.08947).

@@ -34,25 +34,6 @@ The authors discuss limitations (integration complexity, content-authoring burde
 - Multiple-choice and open-ended assessment questions could not be rendered in the game, because student tokens returned no question content and no endpoint exists for posting runtime student answers.
 - Authorization used Unity deep linking that worked only for the UWP build target, a legacy framework no longer actively developed.
 
-## Connected Concepts
-
-- [[active-learning]]
-- [[administrator]]
-- [[equity-in-ai-education]]
-- [[teacher-ai-competency]]
-- [[game-based-learning]]
-- [[edtech-platform]]
-- [[student-engagement]]
-
-## Connected Articles
-
-- [[physiological-signals-exam-outcomes-ml]] — Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
-- [[savvy-student-attention-video-learning]] — SAVVY: Student Attention Visualization for Video-based Learning Analysis
-- [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
-- [[wordstream-glass-learning-analytics]] — Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics
-- [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
-- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
-
 ## Citation
 
 Yusubov, A., Bechtel, M., & Alizada, T. (2026). [Hypergamigication through integrating game engines and learning management systems: Ender's Game](https://arxiv.org/abs/2607.29300).

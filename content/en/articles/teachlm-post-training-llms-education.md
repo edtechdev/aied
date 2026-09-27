@@ -36,22 +36,6 @@ sources: [raw/papers/2510.05087.md]
 - Training data comes from one commercial platform (Polygence), spanning PhD-level tutors and projects that typically last 4–6 months, so transfer to other tutoring contexts and learner populations is untested.
 - The prompt-engineered predecessor tutor was tried with only n = 71 students, a small deployment on which the counterpoint to fine-tuning rests.
 
-## Connected Concepts
-
-- [[pedagogical-llm-training]]
-- [[llm]]
-- [[simulating-students]]
-- [[privacy]]
-- [[generative-ai]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[project-based-learning]]
-
-## Connected Articles
-
-- [[learnlm-improving-gemini-learning]] — LearnLM: Improving Gemini for Learning
-- [[educasim-cs1-instructional-practice]] — EducaSim: Interactive Simulacra for CS1 Instructional Practice
-
 ## Citation
 
 Perczel, J., Chow, J., & Demszky, D. (2025). *[TeachLM: Post-training LLMs for education using authentic learning data](https://arxiv.org/abs/2510.05087)*.

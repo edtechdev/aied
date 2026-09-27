@@ -50,25 +50,6 @@ This paper contributes directly to the knowledge base's understanding of [[stude
 - The analysis relied on chatbot interaction logs, which cannot capture learners' cognitive engagement, metacognitive regulation, or epistemic reasoning beyond the chat interface.
 - N = 97 was adequate for zero-inflated negative binomial modeling, but the authors note limited statistical power for subtler follow-up behaviors — the cluster difference in follow-up inquiry reached only p = .052 — and the design did not model how inquiry patterns unfold over time.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[conversational-ai]]
-- [[motivation]]
-- [[student-ai-interaction]]
-- [[personalized-learning]]
-- [[learning-gains]]
-- [[self-regulated-learning]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[scheu-mobile-chatbot-journaling-motivation-2026]]
-- [[genai-tutor-engagement-patterns]]
-- [[ai-learning-assistants-higher-ed-large-scale]]
-- [[kutti-ai-voice-first-learning-companion]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-
 ## Citation
 
 Lee, Y.-H., & Wu, J.-Y. (2026). [*Differential engagement with generative artificial intelligence in higher education: Gender, motivation, and achievement trajectories*](https://doi.org/10.1186/s41239-026-00615-8). *International Journal of Educational Technology in Higher Education*.

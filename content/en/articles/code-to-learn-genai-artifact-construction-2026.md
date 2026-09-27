@@ -68,25 +68,6 @@ The framework has three layers: the theoretical synthesis and its central mechan
 - It assumes reliable access to GenAI tools and devices; the author states that where access is uneven the approach can widen [[equity-in-ai-education|equity]] gaps rather than close them.
 - The Validate phase works only if students already hold enough domain knowledge to detect plausibly wrong AI-generated code, and the framework asks more of teachers — both are author-named risks rather than measured outcomes.
 
-## Connected Concepts
-
-- [[constructivist]] — constructionism as the framework's foundation
-- [[self-regulated-learning]] — self-regulation in AI-assisted construction
-- [[icap-framework]] — engagement taxonomy ranking student–AI interaction
-- [[computational-thinking]] — thinking through model construction
-- [[scaffolding]] — fading AI support
-- [[generative-ai]] — the tool enabling artifact construction
-- [[cognitive-offloading]] — the over-reliance risk the framework counters
-- [[k-12]] — upper-secondary context
-- [[cs-education]] — computing-education context
-- [[curriculum-design]] — designing AI-infused lessons
-- [[assessment]] — relocating evaluation to process, not artifact
-
-## Connected Articles
-
-- [[ai-writes-code-student-writes-model-2026]] — Theory + measurement program for model authorship with GenAI
-- [[competency-based-education-genai-production-2026]] — Production as a competency in the GenAI era
-
 ## Citation
 
 Gousopoulos, D. (2026). [*Code to Learn with Generative AI: A Theoretically Grounded Framework for Artifact Construction in Upper-Secondary Education*](https://doi.org/10.20944/preprints202606.1139.v1). Preprints.org. Preprint, not peer-reviewed.

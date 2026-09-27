@@ -42,22 +42,6 @@ The authors argue that organization is not incidental. On the generation side, a
 - The benefit is demonstrated for mid-training of LMs, not for classroom use, and the pipeline depends on a searchable pre-training corpus index, adding preprocessing and retrieval overhead not available to users without a suitably indexed corpus.
 - Component ablations rely on a fixed LLM judge, so the authors present them as diagnostic evidence about which pipeline stages matter rather than as downstream evidence.
 
-## Connected Concepts
-
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[curriculum-design]]
-
-## Connected Articles
-
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
-- [[generativism-learning-theory]] — Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence
-- [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
-
 ## Citation
 
 Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu (2026). [Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training](https://arxiv.org/abs/2607.28109).

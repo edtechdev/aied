@@ -74,31 +74,6 @@ The ablation study (RQ3) isolates each module's contribution: removing the ICAP 
 - There is no external benchmark or independent replication: R²LC = 0.92 and Mistake Precision = 76.8% are measured against one cohort, not against other grades, subjects, or datasets.
 - Several mechanisms are design choices rather than fitted quantities — for example the constructive-level gain coefficient given as 1.5 and the ZPD penalty in the fitness function — and generated hypotheses are bounded by the [[llm|LLM]] used as the mutation operator.
 
-## Connected Concepts
-
-- [[simulating-students]]
-- [[student-modeling]]
-- [[icap-framework]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[generative-ai]]
-- [[pedagogical-agent]]
-- [[item-response-theory]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[scaffolding]]
-- [[learning-analytics]]
-- [[constructivist]]
-
-## Connected Articles
-
-- [[simulating-students-diverse-cognitive-levels-2025]] — Embracing Imperfection: Simulating Diverse Cognitive Levels
-- [[simulating-students-llm-review-2026]] — Simulating Students with LLMs: A Review
-- [[valid-student-simulation-llm-2026]] — Toward Valid Student Simulation
-- [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: Multi-Agent Simulation for Education
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
-- [[mbp-kt-meta-behavioral-knowledge-tracing]] — Meta Behavioral Knowledge Tracing
-
 ## Citation
 
 Zhang, W., Cheng, Y., Ye, Z., & Huang, K. (2026). [*CogEvolution: A human-like generative educational agent to simulate student's cognitive evolution*](https://arxiv.org/abs/2604.14786). arXiv preprint.

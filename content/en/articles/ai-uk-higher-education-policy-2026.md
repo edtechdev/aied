@@ -4,7 +4,6 @@ created: "2026-08-11T13:10:53-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article
 ethics: [equity-in-ai-education, ethics]
-connected_faqs: [institutional-ai-policy]
 audience: [administrators]
 level: [higher ed]
 sources: ['raw/papers/ai-uk-higher-education-policy-2026.md']
@@ -57,22 +56,6 @@ The review identifies ethics, equity exclusion, and learner efficacy as central 
 - Its database search ran March–May 2025 and covered publications from 2018 to 2025, a frozen snapshot of an area the paper itself describes as fast-moving and uneven.
 - The PRISMA 2020 procedure was not preregistered on PROSPERO or an equivalent platform, and coding was manual by a single author, so no independent second coder or inter-rater reliability estimate is reported.
 - Because it is confined to UK higher education and to documentary sources, the review documents the ambition-capacity gap and the Russell Group/post-92 divide without quantifying the effect of any governance intervention.
-
-## Connected Concepts
-
-- [[administrator]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education review
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs framework
-- [[pchl-he-framework-genai-content-creation-2026]] — PCHL-HE framework
-- [[pre-service-science-teachers-ai-perceptions-2026]] — AI acceptance science teachers
 
 ## Citation
 

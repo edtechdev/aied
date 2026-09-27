@@ -47,21 +47,6 @@ level: [k 12, teacher education]
 - Frequencies from the questionnaire (N = 61), approximately 1,300 prompt–response pairs from 60 participants, and 17 group SWOT reflections are descriptive; the study reports no inferential statistics or effect sizes.
 - Coding reliability is limited: a second researcher reviewed only about 15% of the coded material, and no formal inter-coder coefficient such as Cohen's Kappa was calculated.
 
-## Connected Concepts
-
-- [[teacher-education]]
-- [[tpack]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK PD framework
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Ethics domain and teachers' trust
-- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
-- [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy
-
 ## Citation
 
 Velander, J. (2026). [*Beyond operational skills: Teachers' AI knowledge and interactions with generative AI in lesson planning*](https://doi.org/10.1016/j.caeo.2026.100371). *Computers and Education Open*, 100371. https://doi.org/10.1016/j.caeo.2026.100371

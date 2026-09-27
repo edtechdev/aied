@@ -32,25 +32,6 @@ methods: [benchmark]
 - Dataset composition is uneven: judge-filtered synthetic items made up 0.2% of Malrule but 14.6% of Eedi, so dataset-level differences can confound cross-model comparisons.
 - Model coverage is narrow relative to the claim: seven instruction-tuned LLMs from the Llama, Qwen3, and GPT-OSS families (4B–120B), evaluated on small splits such as Malrule's 790 training and 210 test items and Eedi's 800 test items.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[simulating-students]]
-- [[student-modeling]]
-- [[hallucination-risk]]
-- [[pedagogical-safety]]
-- [[trust]]
-- [[benchmark]]
-## Connected Articles
-
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[pedagogical-safety-rl]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[nie-personavlm-long-term-personalization-2026]]
-- [[ai-tutor-behavioral-evaluation]]
-- [[valid-student-simulation-llm-2026]]
-- [[simulating-students-llm-review-2026]]
 ## Citation
 
 Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748).

@@ -40,25 +40,6 @@ page_kind: [framework]
 - No measurement instrument or validation is specified for the mediating constructs, so the framework cannot yet be used to measure whether a given course pushed students toward scaffolding or task completion.
 - The author reports using ChatGPT for grammar, text flow, and APA alignment and Perplexity AI to assess the framework, making part of the synthesis itself AI-assisted.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[metacognition]]
-- [[student-engagement]]
-- [[generative-ai]]
-- [[scaffolding]]
-- [[higher-ed]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[lodge-loble-cognitive-offloading-2026]] — Cognitive offloading in the context of AI use
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitive discordance in genAI completion
-- [[think-first-chatgpt-later-2026]] — Think first, ChatGPT later
-- [[brcic-effortless-trap-productive-struggle-2026]] — The effortless trap: productive struggle and the illusion of learning
-
 ## Citation
 
 Øby, E. (2026). [*Beyond task completion: A theoretical integration and framework for guiding students' ChatGPT use for learning*](https://doi.org/10.53761/5apqd333) . *Journal of University Teaching and Learning Practice, 23*(5).

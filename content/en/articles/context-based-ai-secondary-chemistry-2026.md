@@ -44,26 +44,6 @@ audience: [instructors, curriculum designers, policymakers]
 - Variability in teacher implementation, despite fidelity checks, may also have influenced outcomes.
 - The authors flag potential novelty effects of the AI tools, so the gains may not persist once the novelty fades.
 
-## Connected Concepts
-
-- [[chemistry-education]]
-- [[k-12]]
-- [[constructivist]]
-- [[personalized-learning]]
-- [[student-engagement]]
-- [[motivation]]
-- [[ai-literacy]]
-- [[teacher-education]]
-- [[simulation]]
-- [[adaptive-learning]]
-- [[assessment]]
-- [[educational-policy-ai]]
-
-## Connected Articles
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-
 ## Citation
 
 Abdikayumova, N., & Madybekova, G. (2026). [Using context-based and AI-enhanced approaches to improve student engagement and achievement in secondary chemistry education](https://doi.org/10.1515/cti-2025-0068). *Chemistry Teacher International*, 8(1), 37–51.

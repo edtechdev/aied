@@ -40,21 +40,6 @@ This is a **design/case presentation** of a project-based learning framework for
 - The paper presents a framework and a case example rather than a rigorous comparative evaluation of [[learning-gains|learning outcomes]]; empirical evidence of effectiveness is not comprehensively reported in the abstract.
 - The approach is specific to one applied computer science degree program and context, so generalizability to other programs and levels is limited.
 
-## Connected Concepts
-
-- [[educational-robotics]]
-- [[project-based-learning]]
-- [[higher-ed]]
-- [[active-learning]]
-- [[computational-thinking]]
-- [[cs-education]]
-
-## Connected Articles
-
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM: LLMs and Robotic Simulation
-
 ## Citation
 
 Geger, T., Briechle, D., & Rausch, A. (2026). [*Bots and blocks: Presenting a project-based approach for robotics education*](https://arxiv.org/abs/2603.14529).

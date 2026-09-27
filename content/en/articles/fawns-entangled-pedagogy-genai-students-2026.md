@@ -38,26 +38,5 @@ methods: [qualitative-research]
 - The study is a secondary analysis of existing focus group data rather than purpose-designed individual interviews, and the authors treat accounts as co-constructed within focus group interactions, so they are contingent on those conversational conditions.
 - Participant selection was purposefully driven by the lead author's identification of analytically rich excerpts (40 identified, eight transcripts reviewed), which the authors present as one partial articulation of an always incomplete inquiry.
 
-## Connected Concepts
-- [[pedagogical-partnerships]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[learner-identity]]
-- [[student-ai-interaction]]
-- [[higher-ed]]
-- [[well-being]]
-- [[qualitative-research]]
-- [[pedagogy]]
-- [[trust]]
-- [[governance]]
-- [[ethics]]
-
-## Connected Articles
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships for navigating generative AI
-- [[colbran-student-perspectives-genai-chatbots-2026]] — Student perspectives on generative AI chatbots
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Curriculum and pedagogy in a generative AI era
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Governance of generative AI in higher education
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative approaches to building AI literacy
-
 ## Citation
 Fawns, T., Bearman, M., Corbin, T., Henderson, M., Walton, J., Liang, Y., McLean, J., Oberg, G., & Matthews, K. E. (2026). [*Illuminating complex student realities of artificial intelligence through an entangled pedagogy framework*](https://doi.org/10.1007/s10734-026-01730-1). Higher Education.

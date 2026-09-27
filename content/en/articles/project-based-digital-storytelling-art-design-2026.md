@@ -42,26 +42,6 @@ The model is grounded in an integrative theoretical framework: [[constructivist]
 - The study covers a single institutional context—a 15-week capstone at one Chinese university with 426 final-year students and 92 projects—so transferability across disciplines and institutions remains untested.
 - AI-supported practice was inferred from representative project analysis rather than process data; no design logs, reflective journals, or AI interaction records were collected, so variation in how students actually interacted with AI was not captured.
 
-## Connected Concepts
-
-- [[project-based-learning]]
-- [[storytelling-in-education]]
-- [[generative-ai]]
-- [[creativity]]
-- [[higher-ed]]
-- [[experiential-learning]]
-- [[constructivist]]
-- [[authentic-assessment]]
-- [[human-ai-collaboration]]
-- [[design-thinking]]
-- [[agency]]
-- [[arts-design-and-media-education]]
-## Connected Articles
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — shares digital storytelling as a motivating pedagogical medium (with social robots), complementing this study's PBL-DS framing.
-- [[genai-architectural-design-studios]] — examines GenAI integration in a parallel design-discipline studio context, reinforcing how AI reshapes creative education.
-- [[ai-agents-constructive-conflict-design-education-2026]] — another design-education study of AI in collaborative creative learning, contrasting with this human-centered PBL-DS model.
-
 ## Citation
 
 [In the AI era: A project-based digital storytelling framework for art and design education](https://doi.org/10.1016/j.caeai.2026.100645) — Tian, Y., Tang, M., Li, G., & Dang, W. (2026). *Computers and Education: Artificial Intelligence*, 11, 100645.

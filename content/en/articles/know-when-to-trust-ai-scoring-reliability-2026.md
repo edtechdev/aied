@@ -59,34 +59,6 @@ Three failure modes appear in the data. Length and elaboration are the known con
 ## Limitations
 The evidence base is one task family. Divergent thinking scoring is atypical in ways that flatter these methods: it requires higher-order interpretation of open text, the ground truth is a human-defined average, and responses are short enough that the entire scoring decision collapses to a single token. Generalization to [[automated-essay-scoring|essay scoring]], mathematical [[problem-solving|problem solving]] or knowledge testing is asserted as plausible and explicitly left untested; long-form outputs would break the joint-probability arithmetic, since an essay-length judgment means hundreds or thousands of dependent token predictions, and the authors point to sequence-level measures such as semantic entropy as the untested route forward. Architecture is a second boundary: the methods require models that generate tokens and expose log probabilities, which excludes encoder-only systems such as BERT and RoBERTa that already score some creativity tasks. Third, log probabilities are not fully stable across runs in instruction-tuned chat models, especially mixture-of-experts architectures, so confidence values will not be identical between requests even at temperature 0.0. Fourth, every result is tied to specific 2024 model versions accessed through one API preview, which fixes the comparison but dates the numbers as model generations move. Finally, the human ground truth itself is a consensus artifact, and the paper treats the r = 0.88 rater-to-consensus ceiling as the horizon against which automated scoring should be judged; measured error below that ceiling is partly disagreement with an imperfect standard rather than pure machine error, and applying these scores in high-stakes settings such as gifted identification raises [[assessment-validity|validity]] questions that improved correlation does not answer.
 
-## Connected Concepts
-
-- [[automated-assessment]] — the application area these three techniques improve
-- [[automated-essay-scoring]] — the adjacent high-volume scoring case the paper names as untested
-- [[assessment-validity]] — the standard against which correlation and error gains are read
-- [[psychometrically-aware-ai]] — the framing that maps the three methods onto measurement theory
-- [[item-response-theory]] — the analogue invoked for weighted probabilistic scoring over a distribution
-- [[educational-measurement]] — the discipline the paper positions LLM scoring inside
-- [[trust-calibration]] — confidence scores as a mechanism for deciding when to trust a machine score
-- [[human-in-the-loop-ai]] — low-confidence routing as the practical design pattern
-- [[llm]] — the class of models whose token probabilities are being exploited
-- [[creativity]] — divergent thinking and originality as the construct under measurement
-- [[bias-mitigation]] — the risk the paper concedes these techniques do not address
-- [[higher-ed]] — the assessment context regulators classify as high-stakes
-
-## Connected Articles
-
-- [[confidence-aware-student-drawing-assessment]] — Confidence-aware scoring applied to student drawing assessment
-- [[automated-scoring-marketing-posts-agreement-2026]] — Human-model agreement statistics for automated scoring of open text
-- [[ground-truth-reliability-aied]] — Why the human ground truth limits how reliable AI scoring can look
-- [[llms-do-not-grade-essays-like-humans-2026]] — Where LLM essay grading diverges from human graders
-- [[gpt-human-rater-essay-assessment-2026]] — Direct comparison of GPT and human raters on essay assessment
-- [[llm-essay-assessment-framework-reliability-2026]] — A reliability framework for LLM essay assessment
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Human review as the operational counterpart to confidence flagging
-- [[assessment-latent-structure-human-llm-2026]] — Latent structure of assessment scores produced by humans and LLMs
-- [[xiong-ai-educational-measurement-review-2026]] — Review of AI in educational measurement and its psychometric standing
-- [[bandit-driven-llm-essay-scoring-2026]] — Combining model outputs to improve scoring quality
-
 ## Citation
 
 Organisciak, P., & Acar, S. (2026). [*Know when to trust: Making AI scoring more reliable for educational assessment*](https://doi.org/10.3758/s13428-026-03058-1). *Behavior Research Methods*, 58(7).

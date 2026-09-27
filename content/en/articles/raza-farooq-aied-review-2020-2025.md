@@ -86,28 +86,6 @@ Looking across recent scholarship and policy roadmaps, three trajectories appear
 - The synthesis codes each study's technique, contribution, and outcome and reports frequency summaries; it pools no effect sizes and reports no formal quality appraisal, so it maps the field rather than estimating effect magnitudes.
 - Many included studies report learning effects but no operational metrics, which is why the authors recommend stratified, region-weighted searches and a simple cost–time–quality reporting template so future work tracks total cost of ownership alongside learning and equity outcomes.
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[multimodal]]
-- [[edtech-platform]]
-- [[governance]]
-- [[meta-analysis-systematic-review]]
-- [[human-ai-collaboration]]
-- [[privacy]]
-- [[authentic-assessment]]
-
-## Connected Articles
-
-- [[liang-genai-systematic-review-human-ai-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[genai-meta-analysis-programming-learning]]
-
 ## Citation
 
 Raza, S. H., & Farooq, A. (2025). [*Review of Artificial Intelligence in Education from 2020 to 2025*](https://doi.org/10.35542/osf.io/6bnez_v1). EdArXiv. doi:10.35542/osf.io/6bnez_v1.

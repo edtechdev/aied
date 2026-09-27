@@ -49,27 +49,6 @@ However, these perceived benefits did **not** translate into statistically signi
 - The debugging-oriented proficiency assessment was purpose-built for the study — eight items selected from a pool of 56 — and not validated at large scale, so the lower (38) and higher (65) proficiency groups are task-aligned categories rather than a measure of expertise.
 - Snippet difficulty varied substantially and some message-style effects were sensitive to the specific snippet; the study never evaluates a fully dynamic tutor.
 
-## Connected Concepts
-
-- [[cs-education]]
-- [[scaffolding]]
-- [[llm]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[student-ai-interaction]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[critical-thinking]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
-- [[chatgpt-programming-education-text-mining]] — Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education
-- [[ai-writes-code-student-writes-model-2026]] — The AI Writes the Code, the Student Writes the Model: Theory and Measurement for Learning by Construction with Generative AI
-- [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn with Generative AI: A Framework for Artifact Construction in Upper-Secondary Education
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-
 ## Citation
 
 Moraru, A.-R., Biswas, S., & Gadiraju, U. (2026). [*Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors*](https://arxiv.org/abs/2608.20896).

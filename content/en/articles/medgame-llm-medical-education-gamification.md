@@ -30,18 +30,6 @@ methods: [benchmark]
 - Benchmark contamination was checked but not eliminated: 409 of the 1,000 test cases (40.9%) have a high-similarity patient variant in the 4,000-case training set, and the comparison relies on LLM-as-a-judge scores.
 - Medical accuracy remains dependent on domain pretraining and expert revision rather than on the fine-tuning demonstrated here.
 
-## Connected Concepts
-
-- [[llm]]
-- [[intelligent-tutoring]]
-- [[generative-ai]]
-- [[game-based-learning]]
-- [[storytelling-in-education]]
-- [[professional-training]]
-## Connected Articles
-
-- [[syal-multimodal-dialogue-stem-2026]]
-- [[llm-tts-dialogue-lesson-generation]]
 ## Citation
 
 Wu, Zhou, Ma, Chen, Gao, Lin, Wu, Gou, Liu, Lau & Dou (2026). [MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education](https://arxiv.org/abs/2607.21570). arXiv preprint (cs.CL).

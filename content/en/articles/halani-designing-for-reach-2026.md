@@ -72,40 +72,6 @@ The levers are domain-general and not AI-specific: mapping them to Schoenfeld's 
 - The three illustrative configurations are classrooms the author has taught, presented for coherence rather than as representative accounts of all classrooms; no data were collected, so claims about reach are analytical rather than measured.
 - The framework cannot describe the educators' knowledge of the levers, the processes that renew settings over time, or the decisions about who is in the room.
 
-## Connected Concepts
-
-- [[learning-design]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[help-seeking]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[scaffolding]]
-- [[agency]]
-- [[desirable-difficulties]]
-- [[sociocultural-learning]]
-- [[math-education]]
-- [[teacher-role]]
-- [[student-engagement]]
-- [[authentic-assessment]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
-- [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in LLM-assisted writing
-- [[cognitive-offloading-speedup-illusion]] — The speedup illusion of cognitive offloading
-- [[generative-refusal-ai-tools-for-thought]] — Generative refusal: AI tools for thought
-- [[ai-availability-student-motivation]] — How AI availability shapes student motivation
-- [[correct-answer-trap-ai-tutor]] — The correct-answer trap in AI tutoring
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking scaffolding in LLM tutors
-- [[learning-by-chatting-genai-impact]] — Learning by chatting? GenAI impact
-- [[student-cheat-sheets-make-or-take]] — Make or take: student cheat sheets
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment
-- [[ai-assessment-scale-reform]] — The AI Assessment Scale and assessment reform
-
 ## Citation
 
 Halani, A. (2026). [*Designing for Reach: Seven Levers and the Student Alone with AI*](https://doi.org/10.35542/osf.io/t4cd2_v1). EdArXiv. https://osf.io/preprints/edarxiv/t4cd2_v1

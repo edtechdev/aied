@@ -43,22 +43,6 @@ page_kind: [evaluation]
 - Generative models are opaque: beyond the prompt and rubric, the process by which GPT-4 applied the rubric is unknown, and rubric edits did not move reliability monotonically (adding a model answer in iteration 3 reduced it).
 - Findings are tied to a single model version (GPT-4o-2024-05-13); the authors note it is unclear whether reliability holds for later generations of ChatGPT or other platforms.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[medical-education]]
-- [[generative-ai]]
-- [[assessment]]
-- [[llm]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[gpt-human-rater-essay-assessment-2026]]
-- [[bandit-driven-llm-essay-scoring-2026]]
-- [[ground-truth-reliability-aied]]
-- [[llm-formative-feedback-systematic-review-2026]]
-
 ## Citation
 
 Olvet, D. M., Kruidering, M., Fulton, T. B., Truong, B., Endo, K., Lucito, R., & Willey, J. M. (2026). [Can Generative Artificial Intelligence Reliably Score Open-Ended Question Assessments in Undergraduate Medical Education?](https://doi.org/10.1007/s40670-026-02638-2). *Medical Science Educator*, 36(6), 1539-1552.

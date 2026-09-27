@@ -38,23 +38,6 @@ page_kind: [evaluation]
 - Self-report measurement: the primary outcome was the TAICS self-efficacy scale, and self-reported pedagogy competence did not match the rubric-scored lesson plans; the AI ethics gain fell from significant to marginally significant after Benjamini–Hochberg correction.
 - No control group: the [[design-based-research|design-based research]] design compared pre–post scores within one cohort, and voluntary participation in the first iteration may have over-represented students already interested in AI.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[pedagogical-llm-training]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[k-12]]
-- [[tpack]]
-## Connected Articles
-
-- [[hcap-human-centric-ai-pedagogy-framework-2026]]
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-
 ## Citation
 
 Le, T. H., Huynh, L., Dang, B., Pham, H.-H., Nguyen, N. T. V., & Nguyen, A. (2026). [*Development and evaluation of artificial intelligence literacy training for teacher education students*](https://doi.org/10.1111/bjet.70047). British Journal of Educational Technology.

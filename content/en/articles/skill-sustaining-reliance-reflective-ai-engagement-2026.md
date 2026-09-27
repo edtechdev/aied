@@ -66,34 +66,6 @@ Scaffolding is meant to keep users engaged, but the prompts can become the sourc
 - The claim that prompts substitute for metacognitive habits rests on short-term habituation and overconfidence findings; no longitudinal scaffolding data is presented.
 - Individual differences appear mainly as Need for Cognition and perceived task difficulty, leaving other moderators untested.
 
-## Connected Concepts
-
-- [[agency]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[human-ai-collaboration]]
-- [[human-in-the-loop-ai]]
-- [[trust-calibration]]
-- [[trust]]
-- [[llm]]
-- [[professional-training]]
-- [[self-regulated-learning]]
-- [[critical-thinking]]
-- [[evaluative-judgment]]
-- [[desirable-difficulties]]
-
-## Connected Articles
-
-- [[ai-advice-suppresses-ikt-suspension-2026]] — AI Advice Suppresses People's Willingness to Say "I Don't Know", Even When the Advice Is Wrong and Accuracy Is Incentivized
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
-- [[verification-quality-reliance-calibration-genai-2026]] — Beyond checking: verification quality, reliance calibration, and learning in generative AI-assisted higher education
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Benefit or Bottleneck? Assessing the Impact of Structured Reflection on Learning from AI-Driven Explanatory Feedback
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators
-
 ## Citation
 
 de Jong, S. (2026). [*Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement*](https://arxiv.org/abs/2609.27726). arXiv preprint.

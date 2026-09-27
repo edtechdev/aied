@@ -7,7 +7,6 @@ foundations: [learning-design, limitations-in-aied-research]
 technology: [generative-ai, prompt-engineering]
 assessment: [assessment-validity]
 ethics: [equity-in-ai-education, ethics]
-connected_faqs: [reporting-interpreting-aied-research]
 sources: ['raw/papers/raise-framework-ai-education-reporting-2026.md']
 confidence: high
 research_method: [position paper]
@@ -55,29 +54,6 @@ For [[research-methods-aied|AIED research methods]], the practical consequence i
 ## Limitations
 
 RAISE is published as an editorial by the journal's editor-in-chief and, per the journal's standard policy stated in the disclosure, was **not subject to external [[peer-assessment|peer assessment]]**; the author also declares the editorial role as a competing interest. The framework is a reporting scaffold rather than an evaluated instrument: the editorial presents no [[assessment-validity|validity]] or reliability evidence, no inter-rater agreement data on checklist adoption, and no study of whether RAISE-compliant manuscripts improve review reliability, replication rates, or reader comprehension. The ten domains and 30 items are presented with a rationale grounded in the cited literature, but the selection and weighting of domains is not itself reported against a systematic derivation process. Coverage is declared flexible yet the editorial does not specify how much reporting is enough for a given study type, nor how reviewers should handle partial compliance. Finally, the item-level content lives in the checklist figure and supplemental documents rather than in the article text, so the article alone cannot be used to apply the framework item by item.
-
-## Connected Concepts
-
-- [[research-methods-aied]]
-- [[limitations-in-aied-research]]
-- [[ai-ed-evaluation]]
-- [[ethics]]
-- [[equity-in-ai-education]]
-- [[assessment-validity]]
-- [[meta-analysis-systematic-review]]
-- [[prompt-engineering]]
-- [[learning-design]]
-- [[educational-measurement]]
-- [[theory-development-aied]]
-- [[self-regulated-learning]]
-- [[parents-and-families]]
-## Connected Articles
-
-- [[tep-aied-model-reporting-2026]] — The TEP-AIED model: a three-dimensional transparency–ethics–pedagogy framework that positions itself against RAISE's granularity
-- [[prisma-llm-ai-assisted-systematic-reviews-2026]] — PRISMA-LLM: an empirical reporting framework for AI-assisted systematic reviews
-- [[oneill-presumed-effective-meta-analysis-2026]] — A forensic audit of AIED meta-analyses whose conclusions rest on the reporting failures RAISE targets
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — Corpus-level analysis of four decades of AI-and-education research, with its dataset shared for replication
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Methodological review of AI tutoring quality studies in K-12
 
 ## Citation
 
