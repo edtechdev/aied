@@ -53,6 +53,7 @@ from __future__ import annotations
 import argparse
 import difflib
 import json
+import re
 import os
 import pathlib
 import sys
@@ -176,6 +177,78 @@ def abstract_of(work: dict, limit: int = 900) -> str | None:
     return text[:limit] + ("..." if len(text) > limit else "")
 
 
+# --- significance screening (the knowledge base's inclusion bar) --------------
+# The maintainer's bar: a paper earns a page only if it contributes insight or
+# data to AI in education. Studies that report only what participants think, or
+# that are confined to a single classroom / one institution / a small sample, are
+# filtered out of the ingest list instead of being left for triage.
+#
+# These are deliberately conservative heuristics over the title and abstract:
+# a record is dropped only on a clear signal, the reason is printed so it can be
+# argued with, and a review/synthesis is always kept. Screening is NOT a judgement
+# of quality -- it decides what is worth spending full-text and writing effort on.
+AI_RE = re.compile(
+    r"(artificial intelligence|generative a\.?i\.?|generative ai|\bgai\b|chatgpt|chatbot|"
+    r"large language models?|\bllms?\b|gpt-?[0-9]|machine learning|intelligent tutoring|"
+    r"automated (writing|essay) (evaluation|scoring)|ai literacy|ai[- ](assisted|enhanced|"
+    r"driven|based|supported|powered|generated|mediated|integrated)|ai tools?|ai integration|"
+    r"ai-?generated)", re.I)
+REVIEW_RE = re.compile(
+    r"(systematic review|meta-?analys|scoping review|umbrella review|bibliometric|"
+    r"literature review|evidence synthesis|systematic literature)", re.I)
+STRENGTH_RE = re.compile(
+    r"(randomi[sz]ed|controlled trial|\bRCT\b|quasi-?experiment|longitudinal|multi-?site|"
+    r"multi-?institution|cross-?country|large-?scale|nationwide|national (survey|sample|study)|"
+    r"pre-?registered|structural equation|latent (class|profile|growth|transition)|"
+    r"mixed-?methods?|regression discontinuity|difference-in-difference|meta-?regression)", re.I)
+OUTCOME_RE = re.compile(
+    r"(achievement|performance|test scores?|learning gains?|learning outcomes?|post-?test|"
+    r"pre-?test|effect size|measured (outcomes|learning)|\bgrades?\b|completion rates?|"
+    r"\baccuracy\b|retention|\bexams?\b|error rates?|inter-?rater)", re.I)
+SELF_REPORT_RE = re.compile(
+    r"(perceptions?|attitudes?|\bviews\b|opinions|self-?reported|questionnaire|\bsurvey\b|"
+    r"perceived|willingness|intentions?|awareness|acceptance|readiness|beliefs)", re.I)
+TITLE_PERCEPTION_RE = re.compile(
+    r"(perceptions?|attitudes?|\bviews\b|opinions?|beliefs|readiness|awareness|acceptance|"
+    r"willingness|\bsurvey\b|questionnaire|needs analysis)", re.I)
+LOCAL_RE = re.compile(
+    r"(one (university|college|school|classroom|institution|course|district|faculty)|"
+    r"a single (university|college|school|classroom|institution|course|district)|"
+    r"single-?(site|institution|classroom|centre|center|course)|"
+    r"one (teacher|instructor|lecturer|professor)'?s? (class|classroom|course)|"
+    r"a (private|public|state|federal|selected) (university|college|school|institute))", re.I)
+SMALL_N_RE = re.compile(
+    r"\b(\d{1,3})\s+(students|participants|learners|teachers|respondents|pupils|"
+    r"undergraduates|educators|trainees|pre-?service teachers)\b", re.I)
+SMALL_N_LIMIT = 100
+
+
+def screen_scope(title: str, abstract: str) -> tuple:
+    """Return (verdict, reasons) for one work, judged from title + abstract only."""
+    text = f"{title or ''} {abstract or ''}".strip()
+    if REVIEW_RE.search(text):
+        return "keep", ["review or synthesis"]
+    if not text:
+        return "keep", ["no abstract available to screen"]
+    strengths = [m.group(0) for m in STRENGTH_RE.finditer(text)]
+    outcomes = [m.group(0) for m in OUTCOME_RE.finditer(text)]
+    selfrep = [m.group(0) for m in SELF_REPORT_RE.finditer(text)]
+    local = [m.group(0) for m in LOCAL_RE.finditer(text)]
+    small = [int(m.group(1)) for m in SMALL_N_RE.finditer(text) if int(m.group(1)) < SMALL_N_LIMIT]
+    reasons = []
+    if TITLE_PERCEPTION_RE.search(title or "") and not strengths:
+        reasons.append("perception/attitude study (self-report by construction)")
+    elif selfrep and not outcomes and not strengths:
+        reasons.append("self-report only, no measured outcome")
+    if small and not outcomes and not strengths:
+        reasons.append(f"small sample ({min(small)} stated)")
+    if local and not strengths:
+        reasons.append("localized to a single site or institution")
+    if reasons:
+        return "low_impact", reasons
+    return "keep", (strengths + outcomes)[:3] or ["no screening signal"]
+
+
 def shape(work: dict) -> dict:
     """One work as a flat record: the fields this pipeline actually uses."""
     authors = [
@@ -242,7 +315,12 @@ def cmd_search(a, key, mailto) -> int:
         "select": SELECT,
         "sort": sort,
     }
-    if a.search:
+    if a.search and a.title_abstract_search:
+        # title_and_abstract.search is a filter, and it is far tighter than the
+        # full-text `search` parameter, which matches any mention anywhere in a
+        # record and drags in work that is only tangentially related.
+        filters.append(f'title_and_abstract.search:"{a.search}"')
+    elif a.search:
         params["search"] = a.search
     if filters:
         params["filter"] = ",".join(filters)
@@ -255,6 +333,34 @@ def cmd_search(a, key, mailto) -> int:
                       "returned": len(out)}, ensure_ascii=False), file=sys.stderr)
     if a.with_pdf_only:
         out = [r for r in out if r["pdf_url"]]
+    dropped_ai = 0
+    if a.require_ai:
+        kept = []
+        for r in out:
+            if AI_RE.search(f"{r.get('title') or ''} {r.get('abstract') or ''}"):
+                kept.append(r)
+            else:
+                dropped_ai += 1
+        out = kept
+    dropped_low = 0
+    screened = []
+    for r in out:
+        verdict, reasons = screen_scope(r.get("title") or "", r.get("abstract") or "")
+        if a.show_screen:
+            print(f"  [{verdict}] {(r.get('title') or '')[:70]} -- {'; '.join(reasons)}",
+                  file=sys.stderr)
+        if a.drop_low_impact and verdict == "low_impact":
+            dropped_low += 1
+            continue
+        if a.drop_low_impact or a.show_screen:
+            r["scope_verdict"] = verdict
+            r["scope_reason"] = "; ".join(reasons)
+        screened.append(r)
+    out = screened
+    if a.require_ai or a.drop_low_impact:
+        print(json.dumps({"dropped_no_ai_term": dropped_ai,
+                          "dropped_low_impact": dropped_low,
+                          "kept": len(out)}, ensure_ascii=False), file=sys.stderr)
     return emit(out)
 
 
@@ -337,6 +443,17 @@ def main(argv: list[str] | None = None) -> int:
                     help="sort key. Default relevance_score:desc, which requires a --search; "
                          "a date sort combined with free text returns whatever newest work matched "
                          "any single term, so relevance is the right default for discovery")
+    ap.add_argument("--title-abstract-search", action="store_true",
+                    help="run the query against title_and_abstract.search (tighter) "
+                         "instead of the broad full-text search")
+    ap.add_argument("--require-ai", action="store_true",
+                    help="drop records with no AI/generative-AI term in title or abstract")
+    ap.add_argument("--drop-low-impact", action="store_true",
+                    help="drop self-report-only and small/localized studies (the "
+                         "knowledge base's significance bar); kept records carry a "
+                         "scope_reason field")
+    ap.add_argument("--show-screen", action="store_true",
+                    help="print screening detail for every record to stderr")
     ap.add_argument("--edu-only", action="store_true",
                     help="restrict to the Education subfield (OpenAlex subfields/3304)")
     ap.add_argument("--mailto", help="contact address for the polite pool")
