@@ -49,6 +49,25 @@ paths:
 # ---------------------------------------------------------------------------
 # Commands (paths relative to the repo root)
 # ---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
+# Article page length budget
+#
+# The body budget for a single article page, in words. The auditor
+# (tooling/scripts/audit-article-sections.py) counts from the end of the
+# frontmatter to `## Citation` (or to the first `## Connected` heading on an
+# older page that still carries one).
+#
+# The auditor REPORTS a page over `max_words` rather than failing the build, and
+# a page within a few percent of the ceiling is not worth a trim: only a page
+# well past it earns a trim-and-review pass. Raise the ceiling here and every
+# consumer moves with it -- the auditor, the scan job prompts, and the briefs
+# quoted from them. Keep this in step with `AGENTS.md`, which states the page
+# contract for contributors.
+# ---------------------------------------------------------------------------
+article:
+  min_words: 750          # below this the page usually lacks a section, not detail
+  max_words: 1100         # raised from 1000 on 2026-09-27
+
 build:
   # HARD GATES - run in this order before every build/commit. A green build is
   # not a substitute for either gate.

@@ -4,6 +4,17 @@ Last updated: 2026-09-27 | Total entries: 1717
 
 ## 2026-09-27
 
+- 📄 [[genai-social-annotation-epistemic-network-analysis-2026]] — Unpacking student interactions in GenAI-assisted social annotation: An epistemic network analysis of cognitive and social presence
+- 📄 [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responding to AI-generated emotional alerts: teachers' intervention and students' engagement in the mathematics classroom
+- 📄 [[educational-organizations-ai-era-leadership-review-2026]] — Educational Organizations in the AI Era: Digital Management and Leadership, Digital Skills, and Innovation
+- 📄 [[automated-scoring-learning-diagnosis-english-writing-2026]] — From automated scoring to learning diagnosis: a mechanism study of AI-supported formative assessment in English writing
+- 📄 [[genai-assessment-african-higher-education-review-2026]] — Rethinking assessment in the age of generative AI: A systematic literature review of African higher education
+- 📄 [[automated-essay-scoring-critical-thinking-physics-2026]] — Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays
+- 📄 [[automated-scoring-economics-math-items-nigeria-2026]] — Automated software scoring of senior school certificate examination mathematical items in economics using a contextual similarity model
+- 📄 [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
+- 📄 [[reflection-level-classification-hungarian-essays-2026]] — Automatic Reflection Level Classification in Hungarian Student Essays
+- 📄 [[ai-mathematics-education-prisma-review-2026]] — Artificial intelligence in mathematics education: A PRISMA-based systematic literature review
+- 📄 [[ai-higher-ed-service-delivery-systematic-review-2026]] — From digital transformation to intelligent classrooms: artificial intelligence, adaptive leadership, and service delivery in global higher education—a systematic literature review
 - 📄 [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
 - 📄 [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
 - 📄 [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception

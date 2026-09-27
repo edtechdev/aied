@@ -192,7 +192,7 @@ Author, A. (2026). [Title](https://doi.org/...). Journal, Vol(Issue), pages.
 ```
 **`## Citation` is always the LAST section on the page.** Exactly one per article, as a single
 APA-style line: the paper's title is the only hyperlinked text, first 6 authors + ", et al." for
-longer lists. The body carries no separate PDF/DOI link. Article body budget: ~600-900 words
+longer lists. The body carries no separate PDF/DOI link. Article body budget: 750-1,100 words (`wiki.config.yaml`, `article.min_words`/`max_words`)
 (frontmatter to `## Connected Concepts`), and `## Limitations` is written only when the study
 supplies real limits — a boilerplate "small sample, single institution" line is a defect, not a
 section.
