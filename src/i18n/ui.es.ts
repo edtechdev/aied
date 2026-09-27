@@ -104,7 +104,7 @@ const es: UiStrings = {
   notTranslatedHint:
     'Esta página aún no está traducida, así que el enlace abre la página de inicio de ese idioma.',
   translationNoticeHtml:
-    'Esta página está traducida al español, pero la base de conocimiento y sus páginas de artículo, de concepto y de preguntas frecuentes están escritas en inglés.',
+    'Esta página está traducida al español. Las páginas de artículo siguen escritas en inglés.',
   originalPageLabel: 'Leer esta página en inglés',
   chrome: {
     siteName: 'Base de conocimiento sobre IA en la educación',

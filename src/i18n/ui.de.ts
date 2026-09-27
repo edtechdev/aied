@@ -104,7 +104,7 @@ const de: UiStrings = {
   notTranslatedHint:
     'Diese Seite ist noch nicht übersetzt, der Link öffnet daher die Startseite dieser Sprache.',
   translationNoticeHtml:
-    'Diese Seite wurde maschinell ins Deutsche übersetzt; die Wissensbasis selbst und ihre Artikel-, Konzept- und FAQ-Seiten sind auf Englisch verfasst.',
+    'Diese Seite wurde maschinell ins Deutsche übersetzt; die Artikelseiten sind weiterhin auf Englisch verfasst.',
   originalPageLabel: 'Diese Seite auf Englisch lesen',
   chrome: {
     siteName: 'Wissensbasis zu KI in der Bildung',

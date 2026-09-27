@@ -102,7 +102,7 @@ const zh: UiStrings = {
   chooseLanguage: '选择语言',
   notTranslated: '仅英文',
   notTranslatedHint: '此页面尚未翻译，因此该链接会打开对应语言的主页。',
-  translationNoticeHtml: '本页面已译为中文，但知识库本身（包括其中的文章页面、概念页面和常见问题页面）均以英文撰写。',
+  translationNoticeHtml: '本页面已译为中文。文章页面仍以英文撰写。',
   originalPageLabel: '阅读本页的英文版本',
   chrome: {
     siteName: '教育中的人工智能知识库',
