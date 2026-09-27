@@ -76,6 +76,9 @@ build:
     # index.md and journal.md are generated from page frontmatter; this fails when
     # someone hand-edits them or adds a page without regenerating (both happened).
     - python3 tooling/scripts/gen-index-journal.py --check
+    # Slugs end up in published URLs, and the redirect maps are what keep old ones
+    # alive; a dead entry or a target with no page is a reader-visible 404.
+    - python3 tooling/scripts/check-slugs.py
     # Typed facet fields are authored directly (tags were retired) and must hold
     # concept slugs from their own registry section.
     - python3 tooling/scripts/validate-facets.py

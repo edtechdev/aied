@@ -35,7 +35,7 @@ Last updated: <YYYY-MM-DD> | Total entries: <N>
 
 ### Non-negotiables
 1. **Date headers are `## YYYY-MM-DD`** — the full 10-char date (`## 2026-09-01`), derived from `created[:10]` with any surrounding quotes stripped first. NO leading `"` quote, NO truncation. A header like `## "2026-09-0` is a BUG (introduced by accidentally quoting + slicing the date).
-2. **Icons:** articles `📄`, concept pages `📘`, resources `🧰`. No other icons. **Resource pages are included**, with `type: resource` and the 🧰 icon; FAQ pages are not listed in journal.md.
+2. **Icons:** articles `📄`, concept pages `📘`, resources `🧰`, FAQ pages `❓`. No other icons. **Resource and FAQ pages are both included.** The site's journal page lists all four collections (it is built from the Astro collections, not from this file), so the file must agree with it; the total therefore counts FAQs too. `index.md` is the exception: it counts FAQs in its count line but lists only articles, concepts and resources, matching the site, where FAQs have their own index page.
 3. **Single-line entries:** each entry is ONE line `- {icon} [[{slug}]] — {title}` with an em-dash (`—`, U+2014) separator. There is NO separate two-line `  - Title` form.
 4. **Titles are plain** — NOT wrapped in quotes.
 5. **Grouping:** group entries by `created` date, sort date-groups newest-first (`2026-09-01` before `2026-08-31`).

@@ -1654,7 +1654,7 @@ Articles: 1489 | Concepts: 217 | Resources: 26 | FAQs: 32
 - [[where-ai-enters-teacher-work-2026]] — Where Artificial Intelligence Enters Teacher Work
 - [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions
 - [[wiki-llm-indexing-ml-classes-2026]] — Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing
-- [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings
+- [[will-skill-not-tool-chinese-university-students-generative-ai-academic-writing]] — Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings
 - [[williams-ingle-assessment-co-creation-ai-2025]] — Assessment Design Through Co-Creation: Student-Staff Partnership in Evaluating the Impact of Artificial Intelligence
 - [[wood-moss-ai-arc-agency-responsible-ai-2026]] — Cultivating Agency and Responsible AI Use Through the AI-ARC Framework
 - [[wordstream-glass-learning-analytics]] — Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics

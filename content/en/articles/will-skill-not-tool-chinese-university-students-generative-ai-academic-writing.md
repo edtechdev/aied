@@ -9,7 +9,7 @@ audience: [learners]
 research_method: [survey]
 discipline: [writing education]
 level: [higher ed]
-sources: ['raw/papers/will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-.md']
+sources: ['raw/papers/will-skill-not-tool-chinese-university-students-generative-ai-academic-writing.md']
 confidence: high
 page_kind: [framework]
 institutions: [educational-policy-ai]
