@@ -24,7 +24,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Jansen, Bahr, Schaller, Höft, and Meyer (2026) gave 1507 secondary school students one standardized automated [[feedback]] message after a first draft of an argumentative text and recorded how their situational interest and revision performance changed. It asks whether students' dispositional receptivity to feedback and their perception of a message's usefulness explain the spread. Receptivity was measured before writing, perceived usefulness immediately after feedback. Behavioral engagement with feedback and instrumental attitudes towards it predicted revision performance, with the 25th-to-75th percentile difference corresponding approximately to a shift from the 46th to the 54th percentile, yet perceived usefulness mediated nothing for performance. Global receptivity predicted interest change, and there perceived usefulness fully mediated the link. The authors conclude that feedback models built for humans transfer to standardized automated contexts, and that performance and [[motivation|motivational]] outcomes follow different individual pathways.
+> **Synthesis:** Jansen, Bahr, Schaller, Höft, and Meyer (2026) gave 1507 secondary school students one standardized automated [[feedback]] message after a first draft of an argumentative text and recorded how their situational interest and revision performance changed. It asks whether students' dispositional receptivity to feedback and their perception of a message's usefulness explain the spread. Receptivity was measured before writing, perceived usefulness immediately after feedback. [[student-engagement|Behavioral engagement]] with feedback and instrumental attitudes towards it predicted revision performance, with the 25th-to-75th percentile difference corresponding approximately to a shift from the 46th to the 54th percentile, yet perceived usefulness mediated nothing for performance. Global receptivity predicted interest change, and there perceived usefulness fully mediated the link. The authors conclude that feedback models built for humans transfer to standardized automated contexts, and that performance and [[motivation|motivational]] outcomes follow different individual pathways.
 
 ## Key Findings
 
@@ -37,7 +37,7 @@ reviewed_by: [editor]
 
 ## How the study isolated individual differences
 
-Each of the 1507 students drafted an argumentative text on a randomly assigned topic, received exactly one of four predefined automated feedback messages, then had ten minutes to revise. Messages were drawn from a standardized set rather than generated from the draft, to avoid a confounding the authors flag in much generative AI work: there, students with different writing skills also receive different feedback. Receptivity was measured before writing, perceived usefulness immediately after the message. Analysis used structural equation modeling with bootstrapped confidence intervals, full-information maximum likelihood, and rubric-based text-quality indicators. The design is correlational: no receptivity dimension was manipulated, and the authors describe their evidence as "only task-level and correlative".
+Each of the 1507 students drafted an argumentative text on a randomly assigned topic, received exactly one of four predefined automated feedback messages, then had ten minutes to revise. Messages were drawn from a standardized set rather than generated from the draft, to avoid a confounding the authors flag in much [[generative-ai|generative AI]] work: there, students with different writing skills also receive different feedback. Receptivity was measured before writing, perceived usefulness immediately after the message. Analysis used structural equation modeling with bootstrapped confidence intervals, full-information maximum likelihood, and rubric-based text-quality indicators. The design is correlational: no receptivity dimension was manipulated, and the authors describe their evidence as "only task-level and correlative".
 
 ## Performance responds to dispositions, not to usefulness
 
@@ -62,7 +62,7 @@ Table 1 in the paper reviews prior studies of automated feedback for argumentati
 
 - Feedback was standardized, not personalized; individualized messages might have produced higher perceived usefulness and larger writing change.
 - Missing data were likely not missing at random, and full-information maximum likelihood does not correct for that.
-- The mediation rests on self-report measures, so shared method variance could inflate the indirect effects.
+- The mediation rests on [[self-report-measures]], so shared method variance could inflate the indirect effects.
 - Evidence is task-level and correlational; the suggestion that receptivity effects accumulate over time is explicitly tentative.
 
 ## Citation
