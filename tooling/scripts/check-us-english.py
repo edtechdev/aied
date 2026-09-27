@@ -165,15 +165,22 @@ def _load_slugs() -> None:
 WIKILINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
 
 
-def _strip_and_split(text: str) -> str:
-    """Remove frontmatter, the Citation section, protected spans, and link targets."""
+def _strip_and_split(text: str, is_page: bool = True) -> str:
+    """Remove frontmatter, the Citation section, protected spans, and link targets.
+
+    `is_page` gates the Citation cut: on a page the citation is the last section and
+    everything after it reproduces the published record, so it is skipped. A note that
+    DOCUMENTS the citation section (tooling/README.md does, three times) would otherwise
+    be truncated at its first mention and never scanned past it.
+    """
     if text.startswith("---"):
         end = text.find("\n---", 3)
         if end != -1:
             text = text[end + 4:]
-    cut = text.find("## Citation")
-    if cut != -1:
-        text = text[:cut]
+    if is_page:
+        cut = text.find("## Citation")
+        if cut != -1:
+            text = text[:cut]
     text = re.sub(r"`[^`\n]*`", " ", text)   # inline code holds identifiers, not prose
     text = WIKILINK.sub(lambda m: m.group(2) or "", text)
     if SLUGS:
@@ -198,7 +205,8 @@ def scan_file(path: Path) -> dict:
         raw = path.read_text(encoding="utf-8")
     except Exception:
         return hits
-    body = _strip_and_split(raw)
+    is_page = any(part in ("articles", "concepts", "faqs") for part in path.parts)
+    body = _strip_and_split(raw, is_page)
     for pat, w, us in PATTERNS:
         for m in pat.finditer(body):
             hits.setdefault(m.group(0).lower() + " -> " + us, 0)

@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-27
 
-Articles: 1491 | Concepts: 217 | Resources: 26 | FAQs: 32
+Articles: 1489 | Concepts: 217 | Resources: 26 | FAQs: 32
 
 ## Concepts
 
@@ -297,6 +297,7 @@ Articles: 1491 | Concepts: 217 | Resources: 26 | FAQs: 32
 - [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
 - [[automated-online-exam-proctoring-decade-review-2026]] — Ensuring Academic Integrity through Automated Online Exam Proctoring: A Decade-Long Systematic Review
 - [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
+- [[automated-scoring-learning-diagnosis-mechanism-2026]] — From automated scoring to learning diagnosis: a mechanism study of AI-supported formative assessment in English writing
 - [[automated-question-generation]] — Automated Question Generation
 - [[automated-scoring-economics-math-items-nigeria-2026]] — Automated software scoring of senior school certificate examination mathematical items in economics using a contextual similarity model
 - [[automated-scoring-learning-diagnosis-english-writing-2026]] — From automated scoring to learning diagnosis: a mechanism study of AI-supported formative assessment in English writing
