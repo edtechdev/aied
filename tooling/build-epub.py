@@ -301,7 +301,13 @@ def astro_body_markdown(astro_path, chapter_h1):
     # Drop a leading H1 that duplicates the chapter heading or the site title
     # (e.g. index.astro opens with the page-title H1).
     def _drop_first_h1(m):
-        t = _html.unescape(m.group(1)).strip()
+        # Compare the heading's TEXT, not its raw markup: the site pages put an
+        # inline <svg> icon inside the H1 (before the words), so a raw comparison
+        # never matches and the chapter title is emitted twice -- once by the
+        # chapter prefix below and once by the page body -- which shows up as a
+        # duplicate entry in the EPUB and PDF table of contents.
+        t = _html.unescape(re.sub(r'<[^>]+>', '', m.group(1)))
+        t = re.sub(r'\s+', ' ', t).strip()
         if t == chapter_h1 or t == NAME:
             return ''
         return m.group(0)
