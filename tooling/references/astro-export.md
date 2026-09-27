@@ -1,5 +1,10 @@
 # Phase 2: Wiki Static Export (Astro)
 
+> **RETIRED (2026-09-27): `index.md` and `journal.md` no longer exist.** The dated journal
+> readers see is the site's `/journal` page, rendered from the content collections at build
+> time. Any instruction below about regenerating, recounting or editing those two files is
+> obsolete; there is nothing to add a page to and no count to reconcile.
+
 Moved out of SKILL.md (2026-09-19) so the main skill stays under its size limit.
 Same rules apply; this is the export/publish half of the pipeline.
 

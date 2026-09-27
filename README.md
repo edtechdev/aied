@@ -232,7 +232,6 @@ The mirrored **AI agent skills** live in [`skills/research/`](skills/research/) 
 - **`wiki-batch-ingestion-qa`** — the QA layer across a batch: double H1s, heading links, same-text pipes, broken slugs, facet fields, length budget, and the tool-generation screen that decides whether a study still speaks to present-day AI.
 - **`wiki-source-acquisition`** — full-text recovery (arXiv, OSF/EdArXiv, publisher), the raw-source write-back contract, and what to do when only an abstract is available.
 - **`wiki-article-deletion`** — deleting a page and stripping every back-link, plus withdrawing a page whose claim is retired.
-- **`wiki-journal-update`** — regenerating `journal.md`/`index.md` correctly.
 - **`wiki-epub-export`** — building the EPUB/PDF offline versions.
 - **`wiki-site-quality`** — static-site bug fixes (broken links, dead metadata chips, formatting).
 - **`wiki-page-deepening`** — how to genuinely deepen/enrich/enhance a concept, article, or FAQ page (mine raw sources for specifics, weave into the narrative, add practical tips/examples/implications, cross-link, gate, ship).

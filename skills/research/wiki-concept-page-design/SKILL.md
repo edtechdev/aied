@@ -43,7 +43,7 @@ Avoid thin pages: a page with no distinct evidence base, or that only restates w
 4. Add **back-links** from connected concept pages + Tier-1 articles (they should link back to the new concept).
 5. Add tasteful **inline links** in the new page's narrative; run the inline-link scan; fix same-text pipes `[[x|x]]` immediately.
 6. **Verify** (self-links, heading links, same-text pipes, balanced brackets, broken slugs vs concepts∪articles∪redirects) — must PASS.
-7. Regenerate `index.md`/`journal.md` + `llms*.txt`, update `log.md`, `npm run build`, commit+push, **verify deploy via `gh run list`** (green build ≠ deployed).
+7. Regenerate `llms*.txt` (explicit request only), update `log.md`, `npm run build`, commit+push, **verify deploy via `gh run list`** (green build ≠ deployed).
 
 ## Narrow sub-concept inside an umbrella (naming-collision trap)
 
@@ -58,7 +58,7 @@ See `references/historical-concept-page.md` for the history-of-aied pattern (cre
 
 ### Concept-rename workflow (when you rename an umbrella)
 1. `git mv`/`os.rename` `content/en/concepts/<old>.md` → `content/en/concepts/<new>.md`; update frontmatter `title:`.
-2. Replace the old slug everywhere in `.md` (articles, concepts, index.md, journal.md, log.md, raw) — use a scripted sweep, then grep to confirm **zero** remaining occurrences in articles and concepts.
+2. Replace the old slug everywhere in `.md` (articles, concepts, log.md, raw) — use a scripted sweep, then grep to confirm **zero** remaining occurrences in articles and concepts.
 3. Update `src/data/conceptIndex.ts` (sidebar) and `tooling/concept-index.md` (canonical list, alphabetical spot).
 4. Fix piped display labels that still say the old title (e.g. `[[new-slug|Accessible Learning]]` → `[[new-slug|Inclusive Learning]]`).
 5. Add a **301 redirect** `'old-slug': 'new-slug'` in `src/data/conceptRedirects.ts` so old links resolve (verify live: old URL title says "Redirecting to: /aied/concepts/new/").

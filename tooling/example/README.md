@@ -4,8 +4,6 @@ Copy these files to your wiki root (`../` relative to the tooling/ directory) to
 
 From your wiki root:
 ```bash
-cp tooling/example/index.md .
-cp tooling/example/journal.md .
 cp tooling/example/log.md .
 cp -r tooling/example/articles/* content/en/articles/
 cp -r tooling/example/concepts/* content/en/concepts/

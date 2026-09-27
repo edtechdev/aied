@@ -145,10 +145,7 @@ filed under the matching section of `concepts.registry.yaml`, and a value of the
 
 6. **Append to log.md** — date, sources, paper list, the concepts touched
 
-7. **Regenerate index.md and journal.md** — do not rebuild these by hand; run the generator, which derives both files (and both counts) from page frontmatter:
-   ```bash
-   python3 [YOUR_WIKI_PATH]/tooling/scripts/gen-index-journal.py
-   ```
+7. **Nothing to regenerate for a page index or journal** — `index.md` and `journal.md` were retired; the site's journal page is rendered from the content collections at build time.
 
 8. **Regenerate agent-ready files** (llms.txt, llms-full.txt):
    ```bash

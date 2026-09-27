@@ -6,6 +6,11 @@ category: research
 
 # Research Wiki
 
+> **RETIRED (2026-09-27): `index.md` and `journal.md` no longer exist.** The dated journal
+> readers see is the site's `/journal` page, rendered from the content collections at build
+> time. Any instruction below about regenerating, recounting or editing those two files is
+> obsolete; there is nothing to add a page to and no count to reconcile.
+
 > **Concept vocabulary: one source (2026-09-13).** Every concept slug, title and
 > synonym phrase now lives in **`concepts.registry.yaml`** at the repo root, together
 > with the sidebar `sections`, the `redirects` merge map and the `never_link` list.

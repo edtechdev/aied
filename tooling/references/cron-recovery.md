@@ -1,5 +1,10 @@
 # Cron Stall Recovery
 
+> **RETIRED (2026-09-27): `index.md` and `journal.md` no longer exist.** The dated journal
+> readers see is the site's `/journal` page, rendered from the content collections at build
+> time. Any instruction below about regenerating, recounting or editing those two files is
+> obsolete; there is nothing to add a page to and no count to reconcile.
+
 When a daily ingestion cron job stalls mid-pipeline during an `execute_code` call, the raw papers and concept pages are usually saved, but downstream artifacts (index, log, journal, digest, static site) are not. This reference has the recovery procedure.
 
 ## Detect the Stall

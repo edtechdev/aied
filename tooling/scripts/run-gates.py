@@ -55,7 +55,7 @@ SCOPABLE = {
 # edited, so there is nothing to narrow them to.
 GLOBAL = (
     'check_concepts.py', 'validate-facets.py', 'gen-concept-artifacts.py',
-    'gen-index-journal.py', 'check-slugs.py', 'check-frontmatter-dates.py',
+    'check-slugs.py', 'check-frontmatter-dates.py',
 )
 
 
@@ -97,9 +97,9 @@ def changed_paths(wiki):
         out = subprocess.run(cmd, cwd=wiki, capture_output=True, text=True).stdout
         paths.update(p for p in out.splitlines() if p.strip())
     # Mirror the checker's own scope exactly: the default-locale page collections, plus
-    # the note files it scans with --include-docs. index.md, journal.md and
-    # AIED-BACKLOG.md are deliberately outside both, because they reproduce published
-    # titles verbatim and a British spelling in a paper's title is correct, not a defect.
+    # the note files it scans with --include-docs. AIED-BACKLOG.md is deliberately
+    # outside both, because it reproduces published titles verbatim and a British
+    # spelling in a paper's title is correct, not a defect.
     page_dirs = ('content/en/articles/', 'content/en/concepts/', 'content/en/faqs/')
     # AGENTS.md and README.md are the notes the checker already scans by default. The rest
     # of tooling/ and skills/ stay out of the scoped pass on purpose: several of those files

@@ -17,7 +17,7 @@ Use when the user asks to **repair, enrich, or fix defects in an existing articl
 5. **Add inline `[[slug]]` links** for every concept mentioned in the narrative body (aggressive per the maintainer's standing rule — including conceptually-similar phrases). Use the `wiki-inline-links` scanner (user-owned but its script still runs): `python3 <AGENT>/research/wiki-inline-links/scripts/inline_link_scan.py <WIKI> <slug>`. Verify every suggested concept slug exists first.
 6. **Add back-links** from connected concept pages (reciprocal Connected Articles entry + optionally a research bullet).
 7. **Verify** — link integrity must PASS: no same-text pipes `[[x|x]]`, no heading links, balanced `[[`/`]]`, no broken slugs (check against `content/en/concepts/` + `content/en/articles/` filenames + `conceptRedirects.ts`), no escape sequences. Then run the typed-metadata gate: `python3 tooling/scripts/validate-facets.py` (or `python3 tooling/scripts/run-gates.py` to run every gate — that suite is permission-gated, so propose it and wait). It is a hard gate, not a suggestion, and it lives in `wiki.config.yaml` under `build.gates`.
-8. **Deploy** per the wiki pipeline: bump `updated` timestamp → regen `index.md`/`journal.md` + `llms*.txt` → `npm run build` → `log.md` → commit+push → **verify deploy via `gh run list`** (green build ≠ deployed) and curl the live URL for HTTP 200.
+8. **Deploy** per the wiki pipeline: bump `updated` timestamp → regen `llms*.txt` (explicit request only) → `npm run build` → `log.md` → commit+push → **verify deploy via `gh run list`** (green build ≠ deployed) and curl the live URL for HTTP 200.
 
 ### Scheduled section sweep
 
@@ -138,7 +138,7 @@ Rules for picking the title:
 - **Truncate at ~120 characters on a word boundary.** Prefer dropping the subtitle at a colon when only a fragment of it would survive, or when the main title alone is already ≥90 characters; otherwise keep the subtitle as far as it fits. Strip a dangling `, x` fragment and trailing function words after cutting.
 - **Never shorten a title that already carries more of the paper's title than the parsed citation string** (the citation abbreviation is the weaker source).
 - **Compare on words, not characters:** a page whose title differs from the paper's only in capitalisation or punctuation is not a mismatch, and should keep its own capitalisation.
-- Update `index.md` and `journal.md` entry text in the same pass. The `## Citation` block stays untouched — it keeps the full title and the source link.
+- The `## Citation` block stays untouched — it keeps the full title and the source link.
 
 Full paper titles are long (median 101 characters, 314 over 120, 78 over 150), so truncation is the normal case, not the exception.
 

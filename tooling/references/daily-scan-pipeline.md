@@ -1,5 +1,10 @@
 # Daily AIED Scan Pipeline
 
+> **RETIRED (2026-09-27): `index.md` and `journal.md` no longer exist.** The dated journal
+> readers see is the site's `/journal` page, rendered from the content collections at build
+> time. Any instruction below about regenerating, recounting or editing those two files is
+> obsolete; there is nothing to add a page to and no count to reconcile.
+
 Reference for setting up an automated daily scan that searches arXiv + OpenAlex + Semantic Scholar
 for new AI-in-education papers, ingests them into the wiki, and sends a summary.
 
