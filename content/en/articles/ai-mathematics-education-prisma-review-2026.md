@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence in mathematics education: A PRISMA-based systematic literature review (2021-2025)"
 created: "2026-09-27T07:21:17-04:00"
-updated: "2026-09-27T07:21:17-04:00"
+updated: "2026-09-27T08:45:00-04:00"
 type: article
 sources: ['raw/papers/ai-mathematics-education-prisma-review-2026.md']
 confidence: high
@@ -39,7 +39,7 @@ reviewed_by: [editor]
 
 ## How the review was built
 
-The review followed the PRISMA reporting framework for identification, eligibility assessment, extraction, and synthesis. Scopus and Google Scholar were searched to August 1, 2025; the Scholar query used relevance-ranked results, which the authors report as a reproducibility limitation because rankings are dynamic. The 922 records were screened against criteria restricted to peer-reviewed work on mathematics teaching, learning, assessment, teacher education, or educational AI use; grey literature was excluded and language limited to English and Russian. RQ1 was analyzed deductively against predefined categories and RQ2 inductively, and the authors note that predefined parameters can lead to overlooking aspects beyond the initial framework. The [[meta-analysis-systematic-review|review synthesis]] combined this coding with the Mixed Methods Appraisal Tool (MMAT).
+The review followed the PRISMA reporting framework for identification, eligibility assessment, extraction, and synthesis. Scopus and Google Scholar were searched to August 1, 2025; the Scholar query used relevance-ranked results, which the authors report as a reproducibility limitation because rankings are dynamic. The 922 records were screened against criteria restricted to peer-reviewed work on mathematics teaching, learning, assessment, teacher education, or educational AI use; gray literature was excluded and language limited to English and Russian. RQ1 was analyzed deductively against predefined categories and RQ2 inductively, and the authors note that predefined parameters can lead to overlooking aspects beyond the initial framework. The [[meta-analysis-systematic-review|review synthesis]] combined this coding with the Mixed Methods Appraisal Tool (MMAT).
 
 ## What the included studies report
 
@@ -51,7 +51,7 @@ Asia (including Türkiye) accounted for 18 studies in the selected sample, cover
 
 ## What the review identifies as risks and remedies
 
-Two recurring concerns are the erosion of independent mathematical activity and exposure to incorrect outputs. Heavy dependence on ready-made AI solutions may reduce opportunities to practise problem solving and [[critical-thinking|critical evaluation]], and AI systems can produce incorrect solutions or flawed strategies; even specialized Math-LLMs can generate inaccuracies in long chains of logic. Learners often pay little attention to verifying accuracy, letting misconceptions take root. The review groups implementation problems into privacy and fairness, academic integrity, and social inequality: AI tools enable ready-made answers, high grades from AI-assisted work may not reflect students' knowledge, and the costs of high-quality systems can put them beyond some schools. Remedies proposed include [[governance]], assessment redesign toward critical evaluation, fairness-oriented algorithms, teacher development, and public funding of tutoring systems.
+Two recurring concerns are the erosion of independent mathematical activity and exposure to incorrect outputs. Heavy dependence on ready-made AI solutions may reduce opportunities to practice problem solving and [[critical-thinking|critical evaluation]], and AI systems can produce incorrect solutions or flawed strategies; even specialized Math-LLMs can generate inaccuracies in long chains of logic. Learners often pay little attention to verifying accuracy, letting misconceptions take root. The review groups implementation problems into privacy and fairness, academic integrity, and social inequality: AI tools enable ready-made answers, high grades from AI-assisted work may not reflect students' knowledge, and the costs of high-quality systems can put them beyond some schools. Remedies proposed include [[governance]], assessment redesign toward critical evaluation, fairness-oriented algorithms, teacher development, and public funding of tutoring systems.
 
 ## What this means for practice
 
@@ -59,7 +59,7 @@ Two recurring concerns are the erosion of independent mathematical activity and 
 - **Curriculum designers.** Ask students to critique AI-generated solutions and justify their own models rather than submit answers.
 - **Assessment designers.** Assume ready-made solution pathways exist; prefer tasks demanding critical thinking and creativity.
 - **Administrators.** Plan for infrastructure and equity: access is linked to institutional and material resources.
-- **Researchers.** Prioritise long-term impact, empirical validation of interventions, and policy evidence for low-resource settings.
+- **Researchers.** Prioritize long-term impact, empirical validation of interventions, and policy evidence for low-resource settings.
 
 ## Limitations
 
