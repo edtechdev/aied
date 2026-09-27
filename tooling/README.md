@@ -71,8 +71,6 @@ Create the directory structure and starter files:
 
 ```bash
 mkdir -p articles concepts raw/papers
-cp tooling/example/index.md .
-cp tooling/example/journal.md .
 cp tooling/example/log.md .
 cp tooling/example/articles/* content/en/articles/
 cp tooling/example/concepts/* content/en/concepts/
@@ -90,7 +88,6 @@ cp tooling/example/concepts.registry.example.yaml concepts.registry.yaml
 ```bash
 python3 tooling/scripts/check_concepts.py     # registry vs content/en/concepts/ vs generated views
 python3 tooling/scripts/gen-concept-artifacts.py   # regenerate the views from the registry
-python3 tooling/scripts/gen-index-journal.py       # regenerate index.md + journal.md from the pages
 ```
 
 ### 5. Set up the AI agent cron jobs
@@ -131,8 +128,6 @@ wiki/
 ├── public/            # llms.txt, llms-concepts.txt, llms-full.txt, robots.txt
 ├── astro.config.mjs   # Astro config (base, pagefind, sitemap)
 ├── package.json       # Astro 7 + pagefind + sitemap + rss
-├── index.md           # Full alphabetical catalog
-├── journal.md         # Reverse-chronological journal
 ├── log.md             # Audit log of every wiki action
 └── .github/workflows/ # Build & deploy to GitHub Pages
 ```
@@ -377,7 +372,6 @@ script-only cron watchdog (no LLM, silent while the preview is fresh).
 | YAML parsing errors | Titles with colons must be quoted: `title: "X: Y"` |
 | Paywalled articles | Hybrid journals (BJET) — the weekly cron skips paywalled articles and reports them |
 | `check_concepts.py` reports a stale generated view | Run `python3 tooling/scripts/gen-concept-artifacts.py` — `concept-index.md`, `conceptIndex.ts` and `conceptRedirects.ts` are generated from the registry |
-| `gen-index-journal.py --check` reports a stale `index.md` or `journal.md` | Both files are generated from page frontmatter, including the counts and the list lines. Run the script rather than editing them: the hand-written versions had drifted (a page counted but not listed, and a total that disagreed with the entries) and carried mistyped titles |
 | A concept page exists but nothing links to it | It has no aliases in `concepts.registry.yaml`; the scanner can only link terms it knows |
 | A link went to the wrong concept | Two concepts claim the same phrase — `check_concepts.py` flags duplicate alias claims |
 
@@ -393,7 +387,6 @@ To fully reproduce the ingestion workflow (including the inline-link HARD GATE a
 - **`research-wiki`** — the full ingestion + export pipeline (mirrored in `tooling/SKILL.md`)
 - **`wiki-inline-links`** — the aggressive inline-link + list-formatting pass that runs on every new/enriched page before build (mirrored in `skills/research/wiki-inline-links/`)
 - **`wiki-epub-export`** — EPUB/PDF regeneration (`skills/research/wiki-epub-export/`)
-- **`wiki-journal-update`** — regenerates `journal.md` + `index.md` in the exact on-disk format (`skills/research/wiki-journal-update/`)
 - **`wiki-site-quality`** — static-site bug fixes: dup H1, broken links, dead metadata chips, markdown tables, journal date quoting, public-repo privacy checks (`skills/research/wiki-site-quality/`)
 - **`wiki-astro-frontend`** — editing the Astro frontend (homepage, concept map, sidebar, icons, PWA, JSON-LD, theming) (`skills/research/wiki-astro-frontend/`)
 

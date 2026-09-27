@@ -9,7 +9,7 @@ AI in Education — research, products, policies, and pedagogical debates around
 - Use `wikilinks` to link between pages (`[[page-slug]]` or `[[page-slug|display text]]`)
 - **Inline hyperlink rule (wiki-style, HARD GATE):** hyperlink every concept mentioned by name in the BODY of a concept or article page to that concept's page. **On an article page this inline link is the ONLY place the relationship is recorded** (article pages have no Connected sections from 2026-09-27); concept, resource and FAQ pages keep their Connected Concepts/Articles lists as well. Use piped links when display text differs from the slug (e.g. `[[cognitive-offloading|doing the cognitive work]]`), the most specific slug matching the mention's meaning, and the dedicated umbrella page for generic terms (e.g. `[[feedback]]`, not `[[feedback-loop]]`, for plain "feedback"). **This pass is a BLOCKING PREREQUISITE before `npm run build` / commit / push / deploy on every newly created or enriched page — a green build does NOT substitute for it.** Load the `wiki-inline-links` skill and run the pass + verification (0 self-links, 0 heading links, balanced brackets, 0 broken links) on every new page first.
 - When updating a page, always bump the `updated` date+time (see Frontmatter above)
-- Every new page must be added to `index.md` under the correct section
+- Every new page must satisfy the frontmatter contract of its collection (there is no page index to add it to since `index.md` was retired)
 - Every action must be appended to `log.md` (local-only, gitignored like `raw/` — not committed; persists on the local repo for scan-complete anchors)
 - **Three page types:** `content/en/articles/<slug>.md` for individual papers, `content/en/concepts/<slug>.md` for broad topics that synthesize multiple papers, and `content/en/faqs/<slug>.md` for curated question-and-answer pages. An article belongs on a concept page's Connected Articles list; a concept page explains the concept itself, not any single paper; a FAQ answers a specific question and connects to concepts and articles via `connected_faqs` (below).
 - **Provenance markers:** On pages that synthesize 3+ sources, append `^[raw/papers/source-file.md]`
@@ -296,7 +296,7 @@ Requirements and conventions:
 - Encyclopedia-style body, roughly 200–350 words across the sections above (a platform with several capability areas sits at the top of that range), US English, `[[wikilinks]]` to
   concepts in the body and a `## Connected Concepts` list naming the concepts the resource serves.
 - Rendered at `/aied/resources/<slug>/`; listed on the `/aied/resources/` index (grouped by first
-  `resource_type`), on `index.md` under `## Resources`, in `journal.md` with a 🧰 badge, and as the
+  `resource_type`), as the
   closing "Free Tools and Resources" chapter of the EPUB/PDF exports.
 
 ### raw/ Frontmatter
@@ -326,7 +326,7 @@ The taxonomy lives in `concepts.registry.yaml`, the single source of truth: ever
 - **Add to existing page** when a source mentions something already covered
 - **DON'T create a page** for passing mentions, minor details, or things outside the domain
 - **Split a page** when it exceeds ~200 lines — break into sub-topics with cross-links
-- **Archive a page** when its content is fully superseded — remove it from `index.md` and the live site
+- **Archive a page** when its content is fully superseded — remove it from the live site
 
 ## Concept Pages
 One page per concept or topic. Include:
@@ -344,9 +344,9 @@ When new information conflicts with existing content:
 3. If the contradiction is significant, lower the page's `confidence` to `medium` or `low`
 4. Flag for user review in the lint report
 
-## Journal (`journal.md`)
-- Reverse chronological index of all ingested content/en/articles/papers/concepts/FAQs.
-- Automatically regenerated: sorted by `created` date in frontmatter, newest first.
+## Journal
+- The dated journal is a **site page** (`/journal`), built from the content collections grouped by each page's `created` date, newest first.
+- There is no `journal.md`: it was retired on 2026-09-27 rather than kept in sync with the page that readers actually see.
 - Shows: type badge (📄 article / 🏷️ concept / ❓ FAQ), wikilink to page, source reference, full title, and tags.
 - Excludes low-confidence stubs with no sources.
 - Regenerate after every ingestion batch to keep current.

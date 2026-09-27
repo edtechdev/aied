@@ -20,8 +20,6 @@ Checks that fail the gate:
   4. duplicate keys - legal in a JS object literal, and the last one silently wins;
   5. a redirect target that is not a well-formed slug (keys are exempt: a key is a
      historical URL, and it is often exactly the malformed one being retired);
-  6. a redirect key still listed in the generated index.md or journal.md, which
-     means a dead slug is being advertised;
   7. a page slug that is not a well-formed slug.
 
 Slugs shared across collections are reported as WARN, not failure: a paper and the
@@ -68,23 +66,10 @@ def read_map(root, filename, const):
     return entries
 
 
-def listed_slugs(root):
-    """Slugs advertised in the generated index.md and journal.md."""
-    out = set()
-    for name in ('index.md', 'journal.md'):
-        target = os.path.join(root, name)
-        if not os.path.exists(target):
-            continue
-        text = open(target, encoding='utf-8').read()
-        out.update(re.findall(r'\[\[([^\]|]+)\]\]', text))
-    return out
-
-
 def main():
     cfg = load_config()
     root = path(cfg, 'root')
     pages = live_slugs()
-    listed = listed_slugs(root)
     failures, warnings = [], []
 
     # --- 7: well-formed slugs
@@ -126,8 +111,6 @@ def main():
                 failures.append(f'{where}: target "{target}" has no page at {collection}/{target}.md, so this redirect 404s')
             if target in keys and target != key:
                 failures.append(f'{where}: target "{target}" is itself a redirect key (chained 301)')
-            if key in listed:
-                failures.append(f'{where}: key "{key}" is still listed in index.md or journal.md, which advertises a dead slug')
 
     for line in warnings:
         print(f'WARN  {line}')

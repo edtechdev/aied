@@ -59,7 +59,7 @@ Delegate in waves (10-child concurrency limit). Each subagent gets: article path
 - frontmatter integrity (starts `---`, closing `---` on its own line, all required fields present, `updated:` a full quoted ISO timestamp — the bare-date form `"2026-08-15"` is widespread on pre-August pages and violates the rule)
 - no self-links, no `##` heading links, no same-text pipes `[[x|x]]`, balanced `[[`/`]]`, 0 broken slugs
 - run `wiki-inline-links/scripts/check_list_formatting.py --all` (0 defects)
-- reconcile page count with `index.md` + built site
+- reconcile the page count with the built site and the content collections
 
 ## Pitfalls
 - **Never overwrite `AIED-BACKLOG.md`** — it is a real tracked file. If you accidentally write to it, `git checkout AIED-BACKLOG.md` to restore; save audits to a separate untracked file.

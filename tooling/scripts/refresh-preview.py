@@ -43,10 +43,6 @@ def newest_content_mtime(cfg):
         for name in os.listdir(d):
             if name.endswith('.md'):
                 stamps.append(os.path.getmtime(os.path.join(d, name)))
-    for extra in ('index.md', 'journal.md'):
-        f = os.path.join(path(cfg, 'root'), extra)
-        if os.path.exists(f):
-            stamps.append(os.path.getmtime(f))
     return max(stamps) if stamps else 0.0
 
 

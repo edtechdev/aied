@@ -5,7 +5,7 @@
 // Both the home page and the search page render this, so the numbers are computed
 // once from the same collections and cannot drift apart. The date is the latest
 // `updated` timestamp across every page in every collection (falling back to
-// `created`), which is what `index.md` calls its "Last updated" line.
+// `created`), which is the newest page date the header reports.
 //
 // Styles live here, not in the parent pages: Astro scopes a component's <style> to
 // the component's own markup, so a rule written in index.astro would never match

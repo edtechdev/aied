@@ -52,7 +52,7 @@ immediately after it. Each canonical heading must appear exactly once.
   print a decimal without a leading zero (`.97` for 0.97).
 - Read each page first, and do not restate its body content in the new bullets.
 - Change nothing else: no rewriting existing prose, no touching frontmatter, the Connected lists or the
-  citation. Do not touch `index.md`, `journal.md` or `log.md`, and no other page.
+  citation. Do not touch `log.md`, and no other page.
 - US English: behavior, modeling, judgment, organization, analyze; gray not grey; modeled not modelled.
 - Inline `[[wikilinks]]` in the new bullets only to slugs that exist — check with `os.path.exists` under
   `<WIKI>/concepts/`, `<WIKI>/articles/` or `<WIKI>/faqs/`.

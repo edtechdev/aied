@@ -29,7 +29,7 @@ Use when two wiki pages in `<WIKI>` cover the **same source article** and must b
 
 7. **Fix self-links** the repoint creates: the canonical page itself may now contain `[[canonical-slug]]` — from what was originally a link to the deleted page — in its Connected lists or narrative. Remove the Connected-list self-entry; reword narrative self-mentions to a related concept (e.g. `[[meta-analysis-systematic-review|systematic-review literature]]`) rather than the page's own slug.
 
-8. **Fix index.md + journal.md**: each had a separate entry per page. Remove the deleted page's line/entry — in `journal.md` identify it by its distinct **title line** (e.g. the loser's topic title), NOT by a greedy regex that can over-match and delete the canonical entry too. Keep the canonical's entry. Decrement BOTH `**Total pages:**` and `**Total entries:**` by **1** (only one page was deleted, not two). If the greedy regex removed the canonical journal entry as well, re-add it under its `## {created-date}` section and re-bump the count back up.
+8. **Nothing to fix in a page index or journal.** (`index.md` and `journal.md` were retired on 2026-09-27: the site's journal page renders from the content collections, so there is nothing to regenerate or recount.) The merge only changes which files exist.
 
 9. **Verify** (before build):
    - No dangling references to the deleted slug anywhere (exclude `log.md`).
@@ -41,7 +41,6 @@ Use when two wiki pages in `<WIKI>` cover the **same source article** and must b
 10. **Build, commit, push, verify live**: regen llms files + `npm run build` (green) → commit (mention "consolidate duplicate pages") → push → wait ~55s → `gh run list` BOTH workflows green → curl the deleted URL for **404** and the canonical URL for **200**. A green build does NOT mean the deletion is live — verify the 404.
 
 ## Pitfalls
-- **Greedy journal regex deletes BOTH entries.** If you match journal entries by a regex over the shared canonical-slug block, it can swallow the canonical entry plus the deleted one. Prefer matching on the loser's unique title line. After any edit, re-check the canonical entry still exists in journal.md.
 - **Self-links appear only AFTER the repoint**, not before. The canonical page is the one that self-references — always re-scan it post-repoint.
 - **Duplicate list-lines appear only AFTER the repoint.** Pages that linked to both pages now double up. Dedupe after repointing, not before.
 - **Count decrement is −1, not −2.** index/journal held 2 entries for 2 pages; deleting 1 page removes 1 entry. Verify the header count equals the actual number of `- [[...]]` / `- ◐ [[...]]` lines after editing.

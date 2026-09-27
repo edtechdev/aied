@@ -18,13 +18,13 @@ Use when the user asks to **delete an article page** in the AI-ed research wiki 
            if f.endswith(".md") and f != "log.md":   # log.md is historical plain-text — LEAVE it
                if slug in open(os.path.join(root,f)).read(): hits.append(...)
    ```
-   Typical refs: `index.md`, `journal.md`, `AUDIT-abstract-only-articles.md`, several `content/en/articles/*.md`, several `content/en/concepts/*.md`.
+   Typical refs: `AUDIT-abstract-only-articles.md`, several `content/en/articles/*.md`, several `content/en/concepts/*.md`. (Not `index.md`/`journal.md`: retired 2026-09-27, so a deleted page leaves no list line behind.)
 
 2. **Classify each reference as narrative vs list-line.** For each occurrence, check whether it sits on a Connected-list line (`ln.lstrip().startswith("- [[")`) or in body narrative. Use: `pre.endswith("- [[") or '\n- [[' in pre[-8:]` to detect list membership.
 
 3. **Delete the article file + raw source.** `content/en/articles/<slug>.md` and `raw/papers/<slug>.md` (the raw is gitignored so its deletion is invisible to git — still remove it).
 
-4. **Remove list-lines** from every `.md` file (except `log.md`): drop any line whose `lstrip().startswith("-")` and contains the slug. This covers `index.md`, `journal.md`, and Connected Articles lines in articles + concepts. `AUDIT-abstract-only-articles.md` rows start with `|` not `-`, so handle separately (drop rows starting with `|` that contain the slug).
+4. **Remove list-lines** from every `.md` file (except `log.md`): drop any line whose `lstrip().startswith("-")` and contains the slug. This covers Connected Articles lines in articles + concepts (`index.md`/`journal.md` are gone). `AUDIT-abstract-only-articles.md` rows start with `|` not `-`, so handle separately (drop rows starting with `|` that contain the slug).
 
 5. **Repair narrative citations** (the subtle part). A deleted article is often cited *in prose* as `[[slug|Author et al.]]` or `[[slug|concept phrase]]` as a named example (e.g. "**Codify** applies Socratic ITS principles...", "A conceptual framework ([[slug|Doyle & Swisher]]) uses..."). Removing only the link leaves a dangling citation or a broken sentence. Handle each in context:
    - If the citation is a **named example bullet/sentence** describing the deleted paper's finding → remove the whole bullet/sentence.
@@ -60,7 +60,7 @@ it was ingested):
   that describes a page now deleted will mislead the next reader. Append a fresh dated entry giving
   the reason, and add a short "WITHDRAWN the same day — see the entry above" marker to the historical
   bullet. Do not rewrite the history entry's substance, and do not touch older entries.
-- **Recount what the removal changes**: `index.md` article count, `journal.md` total entries, and any
+- **Recount what the removal changes**: any
   audit file's total; then confirm the deleted URL returns 404 and every touched page 200.
 
 ## Pitfalls
@@ -73,7 +73,7 @@ it was ingested):
 - **Do the removal in one pass, and only then assert the slug is gone.** A page that was ingested hours earlier carries the slug in two different places — the woven prose *and* a Connected Articles line — so an assertion placed after the prose cut but before the list cut fails on a page you actually cleaned. Cut the paragraph and the list line, collapse the blank lines (`\n{3,}` -> `\n\n`), then assert.
 - **A withdrawal requested the same session still removes the narrative weave.** The prose a concept pass wrote hours earlier is not grandfathered in: delete the bullet or paragraph the paper produced, and where a paragraph mixed it with a surviving source, keep the survivor and drop the deleted paper's clauses. Cognitive-psychology is the exception to watch: keep a general description of a framework the paper merely *applied* (CTML, CLT) and cut only the paper-specific half.
 - **An emptied journal date group needs `\n\n+`, not `\n\n`.** Deleting the last entries under a date heading leaves the heading with one extra blank line, so an anchored `^## <date>\n\n(?=## )` substitution silently does not match and the assertion that follows fails after the files are already written. Remove the group with `\n\n+` and re-check that the body still starts at the previous date.
-- **Recount every total the removal changes**: `index.md`'s `Articles:` line, `journal.md`'s `Total entries`, and the llms files (`generate-llms-files.py` — articles changed, so this one is in scope even though resources are excluded). Then confirm the deleted URL returns **404** live.
+- **Recount every total the removal changes**: the llms files (`generate-llms-files.py` — articles changed, so this one is in scope even though resources are excluded). Then confirm the deleted URL returns **404** live.
 - **The offline EPUB and PDF are not exempt.** They are committed artifacts and the standing rule is rebuild-on-request only, so a deletion leaves `public/aied.epub` and `public/aied.pdf` still carrying the removed pages. Say so explicitly in the report and offer the rebuild; do not rebuild them unasked.
 
 ## Connected-list trimming (companion to deletion)

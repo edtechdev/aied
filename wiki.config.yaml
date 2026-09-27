@@ -73,9 +73,6 @@ build:
   # not a substitute for either gate.
   gates:
     - python3 tooling/scripts/check_concepts.py
-    # index.md and journal.md are generated from page frontmatter; this fails when
-    # someone hand-edits them or adds a page without regenerating (both happened).
-    - python3 tooling/scripts/gen-index-journal.py --check
     # Slugs end up in published URLs, and the redirect maps are what keep old ones
     # alive; a dead entry or a target with no page is a reader-visible 404.
     - python3 tooling/scripts/check-slugs.py
