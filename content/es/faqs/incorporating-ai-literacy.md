@@ -6,6 +6,7 @@ weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
+source_updated: "2026-09-18T09:10:00-04:00"
 translation_of: faqs/incorporating-ai-literacy
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

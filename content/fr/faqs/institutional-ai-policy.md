@@ -9,6 +9,7 @@ research_method: [policy analysis, literature review, delphi]
 audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
+source_updated: "2026-09-18T09:10:00-04:00"
 translation_of: faqs/institutional-ai-policy
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

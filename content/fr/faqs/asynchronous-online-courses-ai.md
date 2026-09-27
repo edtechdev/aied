@@ -12,6 +12,7 @@ methods: [meta-analysis-systematic-review, rct, mixed-methods-research, design-b
 ethics: [guardrails]
 audience: [instructors, instructional designers]
 level: [higher ed, adult learning]
+source_updated: "2026-09-17T03:40:00-04:00"
 translation_of: faqs/asynchronous-online-courses-ai
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

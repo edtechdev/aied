@@ -6,6 +6,7 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
+source_updated: "2026-09-17T02:26:00-04:00"
 translation_of: faqs/ai-save-instructor-time
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

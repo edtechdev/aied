@@ -11,6 +11,7 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
+source_updated: "2026-09-19T06:28:59-04:00"
 translation_of: faqs/developing-ai-tutor
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

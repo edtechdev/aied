@@ -8,6 +8,7 @@ assessment: [ai-detection, assessment-validity]
 ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 institutions: [educational-policy-ai, governance]
+source_updated: "2026-09-19T06:28:59-04:00"
 translation_of: faqs/should-we-use-ai-detectors
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

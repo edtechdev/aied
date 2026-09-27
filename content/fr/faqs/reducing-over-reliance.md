@@ -11,6 +11,7 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
+source_updated: "2026-09-17T02:50:00-04:00"
 translation_of: faqs/reducing-over-reliance
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

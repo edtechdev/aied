@@ -12,6 +12,7 @@ audience: [instructors, curriculum designers]
 level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
+source_updated: "2026-09-17T02:50:00-04:00"
 translation_of: faqs/course-ai-policy
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

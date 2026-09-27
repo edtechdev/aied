@@ -5,6 +5,7 @@ updated: "2026-09-22T12:00:00-04:00"
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
+source_updated: "2026-09-17T02:26:00-04:00"
 translation_of: faqs/designing-ai-into-learning
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

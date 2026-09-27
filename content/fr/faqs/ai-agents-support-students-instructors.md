@@ -5,6 +5,7 @@ updated: "2026-09-22T19:12:18-04:00"
 weight: 66
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
+source_updated: "2026-09-17T02:26:00-04:00"
 translation_of: faqs/ai-agents-support-students-instructors
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

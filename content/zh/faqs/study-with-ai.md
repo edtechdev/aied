@@ -11,6 +11,7 @@ research_method: [experiment, literature review, survey]
 audience: [learners, instructors]
 level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
+source_updated: "2026-09-22T03:05:00-04:00"
 translation_of: faqs/study-with-ai
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]

@@ -5,6 +5,7 @@ updated: "2026-09-22T19:51:00-04:00"
 weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
+source_updated: "2026-09-18T06:20:00-04:00"
 translation_of: faqs/reduce-ai-cheating
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]

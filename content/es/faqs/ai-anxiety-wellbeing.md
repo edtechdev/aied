@@ -9,6 +9,7 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
+source_updated: "2026-09-17T03:00:00-04:00"
 translation_of: faqs/ai-anxiety-wellbeing
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

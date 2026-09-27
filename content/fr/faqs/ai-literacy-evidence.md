@@ -7,6 +7,7 @@ foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
+source_updated: "2026-09-17T02:26:00-04:00"
 translation_of: faqs/ai-literacy-evidence
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

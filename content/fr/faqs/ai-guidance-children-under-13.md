@@ -12,6 +12,7 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
+source_updated: "2026-09-17T03:00:00-04:00"
 translation_of: faqs/ai-guidance-children-under-13
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
