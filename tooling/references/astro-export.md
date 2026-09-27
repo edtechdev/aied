@@ -28,7 +28,7 @@ Use this phase when the user asks to build the wiki's static site, or when a cro
    ```bash
    python3 tooling/build-epub.py
    ```
-   This rewrites `public/aied.epub` and `public/aied.pdf` from the same markdown export as the site (home intro + Use-With-AI page pulled live from `index.astro`/`ai.astro`, all concept pages organized into umbrella-group chapters, FAQs, and a Notice page). The EPUB uses hard-coded hierarchical TOC numbering; the PDF uses a clickable blue TOC (via CSS counters in `tooling/pdf-style.css`). Requires `pandoc` and, for the PDF, the `weasyprint` Python package. Both are committed artifacts (built locally, like `llms-full.txt`), not generated in CI.
+   This rewrites `public/aied.epub` and `public/aied.pdf` from the same markdown export as the site (home intro + Use-With-AI page pulled live from `index.astro`/`ai.astro`, all concept pages organized into umbrella-group chapters, FAQs, and a Notice page). The EPUB uses hard-coded hierarchical TOC numbering; the PDF uses a clickable blue TOC (via CSS counters in `tooling/pdf-style.css`). Requires `pandoc`, and for the PDF the `weasyprint` Python package plus `pikepdf` for the language metadata. Both are committed artifacts (built locally, like `llms-full.txt`), not generated in CI.
 5. **Commit and push** — GitHub Actions deploys `dist/` to GitHub Pages:
    ```bash
    git add -A && git commit -m "..." && git push

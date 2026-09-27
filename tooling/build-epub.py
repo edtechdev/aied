@@ -855,11 +855,13 @@ def build_pdf():
         print('pdf output missing')
         return False
 
-    # Set PDF language metadata. WeasyPrint 69 does not write a /Lang key even
-    # with an <html lang> attribute, so set it (and re-affirm the document
-    # title) directly on the PDF catalog/Info via pikepdf — required for
-    # screen-reader and PDF/UA accessibility. Best-effort: never fail the build
-    # if pikepdf is unavailable.
+    # Set PDF language metadata. WeasyPrint 70 writes /Lang itself from the
+    # <html lang> attribute (WeasyPrint 69 did not, which is why this step
+    # exists), so what pikepdf does here is normalize the value to a region
+    # subtag (en -> en-US) and re-affirm the document title on the catalog,
+    # which is what screen-reader and PDF/UA checks read. Verify by reading the
+    # catalog back, not with pdfinfo, which does not print /Lang.
+    # Best-effort: never fail the build if pikepdf is unavailable.
     try:
         import pikepdf
         with pikepdf.open(PDF_OUT, allow_overwriting_input=True) as pdf:

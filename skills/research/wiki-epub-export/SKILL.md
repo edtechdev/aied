@@ -21,7 +21,7 @@ Generates and maintains the wiki's offline book-form deliverables — `aied.epub
 - The site's "Read the Knowledge Base Offline" section (`src/pages/ai.astro`) links both versions and notes they contain only the concept + FAQ pages (not the hundreds of article summaries).
 
 ## Rebuild steps
-1. `python3 tooling/build-epub.py` — writes `dist/aied-export.md`, runs pandoc for the EPUB (post-processes the zip into `public/aied.epub`), then runs pandoc + **weasyprint** for the PDF (`public/aied.pdf`).
+1. `python3 tooling/build-epub.py` — writes `dist/aied-export.md`, runs pandoc for the EPUB (post-processes the zip into `public/aied.epub`), runs pandoc + **weasyprint** for the PDF (`public/aied.pdf`), then normalizes the PDF's `/Lang` with **pikepdf**. Both Python packages must be installed for the interpreter that runs the build (`python3 -m pip install weasyprint pikepdf`): pandoc resolves `weasyprint` from PATH, pikepdf is imported, and both fail quietly — the EPUB still builds and the script still exits 0.
 
 **Do not run this while a site build is in flight (2026-09-17).** The builder writes `dist/aied-export.md`, the EPUB, and then the PDF from that
 markdown; `astro build` clears `dist/` before writing it. Run the two concurrently and the markdown is deleted between the EPUB and PDF steps, and the
@@ -60,6 +60,8 @@ For publishing to Amazon KDP, a standard EPUB3 upload is enough (Amazon converts
 10. **Rename the TOC title** to "Table of Contents" (pandoc defaults it to the book title).
 11. **No named HTML entities in EPUB XHTML.** Only the five XML-predefined entities (`&amp; &lt; &gt; &quot; &apos;`) are valid. Named entities like `&mdash;` (used on the Notice page) cause strict readers (e.g. Thorium on Windows) to fail parsing. Use a literal character or a numeric entity instead.
 12. **Caret citations (`^[[slug]]`) are deprecated.** The maintainer prefers minimizing footnote-style citations when authoring. In-source they are now parenthesized hyperlinks `([[slug]])`. The EPUB/PDF link converter strips a leading `^` (so `^[[slug]]` renders as a normal link, not a footnote) — but the source convention is `([[slug]])`.
+13. **A chapter title listed twice in the TOC means the H1 dedup is comparing markup, not text.** The export prefixes each chapter with its own heading and drops a page H1 that duplicates it; the site pages put an inline `<svg>` icon inside the H1 ahead of the words, so a verbatim comparison never matches and the title ships twice. Compare the heading's TEXT (strip tags, collapse whitespace). Verify on `dist/aied-export.md` (one occurrence), then in the EPUB: exactly two — one `nav.xhtml` TOC entry plus the chapter heading — and one in `toc.ncx`.
+14. **The Notice page carries the generation date; it must not reuse the module-level `today`.** Both editions print `Generated: <Month DD, YYYY>`. `build_epub()` binds a LOCAL `today` (a `date` object) and `date_str` for pandoc metadata, so reusing the module-level `today` string emits an ISO date instead. Keep the EPUB and PDF notice text identical, and verify by extracting the text out of both artifacts.
 
 ## Wikilinks in the EPUB/PDF
 - `[[target|label]]` / `[[target]]`:

@@ -290,12 +290,12 @@ python3 tooling/build-epub.py
 
 This writes `public/aied.epub` and `public/aied.pdf`. Supporting files:
 
-- `tooling/build-epub.py` — assembles the shared markdown export, runs pandoc for the EPUB (hard-coded hierarchical TOC numbering) and pandoc + **weasyprint** for the PDF (clickable blue TOC via CSS counters), and post-processes the EPUB (Notice page, CC0 badge, landmarks labeling).
+- `tooling/build-epub.py` — assembles the shared markdown export, runs pandoc for the EPUB (hard-coded hierarchical TOC numbering) and pandoc + **weasyprint** for the PDF (clickable blue TOC via CSS counters), post-processes the EPUB (Notice page carrying the generation date, CC0 badge, landmarks labeling), and finishes by setting the PDF language metadata with **pikepdf**.
 - `tooling/pdf-style.css` — PDF print layout (A4, page numbers, cover page, blue clickable links).
 - `tooling/gen-epub-cover.mjs` — renders the book cover (`public/epub-cover.png`) with sharp.
 - `tooling/gen-og-concept-map.mjs` — renders the concept-map images.
 
-The EPUB/PDF and cover are committed artifacts (built locally, like `llms-full.txt`) and served from `public/` by the deploy workflow. Requires `pandoc`, and for the PDF the `weasyprint` Python package.
+The EPUB/PDF and cover are committed artifacts (built locally, like `llms-full.txt`) and served from `public/` by the deploy workflow. Requires `pandoc`, and for the PDF the `weasyprint` Python package plus `pikepdf` for the language metadata.
 
 ## Configuration
 
@@ -357,6 +357,7 @@ script-only cron watchdog (no LLM, silent while the preview is fresh).
   registry and the linters all parse YAML. Everything else is stdlib.
 - **pandoc** — for the EPUB/PDF generation (`tooling/build-epub.py`)
 - **weasyprint** (Python, `pip install weasyprint`) — PDF engine used by pandoc for `aied.pdf`
+- **pikepdf** (Python, `pip install pikepdf`) — normalizes the PDF `/Lang` to `en-US` and re-affirms the title; best-effort, so its absence degrades metadata instead of failing the build
 - **pdftotext** (poppler-utils) for PDF extraction
 - **GitHub Pages** for deployment
 

@@ -174,7 +174,7 @@ python3 tooling/scripts/generate-llms-files.py
 python3 tooling/build-epub.py
 ```
 
-The EPUB/PDF and cover are committed artifacts built locally (like `llms-full.txt`); the CI deploy copies `public/` so they're served from `/aied/aied.epub` and `/aied/aied.pdf`. Building them requires `pandoc` and, for the PDF, the `weasyprint` Python package.
+The EPUB/PDF and cover are committed artifacts built locally (like `llms-full.txt`); the CI deploy copies `public/` so they're served from `/aied/aied.epub` and `/aied/aied.pdf`. Building them requires `pandoc`, the `weasyprint` Python package for the PDF, and `pikepdf` for the PDF's language metadata.
 
 ### How it stays current
 
