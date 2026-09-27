@@ -12,6 +12,7 @@ import SourceButtons from '../SourceButtons.astro';
 import { contentRepoPath } from '../../config/content';
 import { renderMarkdown } from '../../lib/markdown';
 import { strings } from '../../i18n';
+import { localizeHref } from '../../i18n/config';
 import { localizedTitles, localizedTitle } from '../../i18n/localizedTitles';
 
 const { entry, locale, pageType } = Astro.props;
@@ -100,7 +101,7 @@ const updatedDisplay = (data.updated || data.created || '').split('T')[0];
       id="connected-faqs"
       heading={chrome.metadataLabels.connected_faqs}
       items={connectedFaqs.map((f: any) => ({
-        href: `/aied/faqs/${f.id.replace('.md', '')}/`,
+        href: localizeHref(`/aied/faqs/${f.id.replace('.md', '')}/`, locale),
         title: localizedTitle(localized, 'faqs', f.id.replace('.md', ''), f.data.title),
         kind: 'faq' as const,
       }))}
@@ -110,7 +111,7 @@ const updatedDisplay = (data.updated || data.created || '').split('T')[0];
       id="connected-resources"
       heading={chrome.metadataLabels.connected_resources}
       items={connectedResources.map((r: any) => ({
-        href: `/aied/resources/${r.id.replace('.md', '')}/`,
+        href: localizeHref(`/aied/resources/${r.id.replace('.md', '')}/`, locale),
         title: localizedTitle(localized, 'resources', r.id.replace('.md', ''), r.data.title),
         kind: 'resource' as const,
         summary: r.data.summary,
