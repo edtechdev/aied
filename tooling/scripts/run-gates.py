@@ -14,9 +14,11 @@ for a file that has not changed is the same as the last time the gate ran. It
 scopes every gate that can be scoped to the pages touched since HEAD and names the
 gates it had to skip, instead of silently scanning all ~1,800 pages.
 
-The house-style gate is scoped by file rather than by page slug, and covers notes as
-well as pages: a British spelling in AGENTS.md or a reference doc is the same defect
-as one in an article, and scoping it to pages alone would let those through.
+The house-style gate is scoped by file rather than by page slug: a British spelling in
+AGENTS.md or README.md is the same defect as one in an article, and scoping it to page
+slugs alone would let those through. tooling/ and skills/ are deliberately outside the
+scoped pass, because several files there document this rule and their examples would be
+reported as defects; the explicit --include-docs pass is what covers them.
 
 A full-site run is a deliberate act (the user rule is explicit opt-in), because the
 inline-link gate walks the whole corpus and dominates the wall time.
@@ -53,7 +55,7 @@ SCOPABLE = {
 # edited, so there is nothing to narrow them to.
 GLOBAL = (
     'check_concepts.py', 'validate-facets.py', 'gen-concept-artifacts.py',
-    'check-frontmatter-dates.py',
+    'gen-index-journal.py', 'check-frontmatter-dates.py',
 )
 
 

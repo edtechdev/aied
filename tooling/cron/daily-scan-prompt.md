@@ -145,7 +145,10 @@ filed under the matching section of `concepts.registry.yaml`, and a value of the
 
 6. **Append to log.md** — date, sources, paper list, the concepts touched
 
-7. **Regenerate journal.md** — extract frontmatter from all article pages, group by `created`, newest first
+7. **Regenerate index.md and journal.md** — do not rebuild these by hand; run the generator, which derives both files (and both counts) from page frontmatter:
+   ```bash
+   python3 [YOUR_WIKI_PATH]/tooling/scripts/gen-index-journal.py
+   ```
 
 8. **Regenerate agent-ready files** (llms.txt, llms-full.txt):
    ```bash
