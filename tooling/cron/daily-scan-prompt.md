@@ -69,7 +69,29 @@ Query every other source in the config by its `type`:
 - `openalex` (OpenAlex) — open-access journals and repositories, i.e. the research that never
   reaches a preprint server. One entry point: `tooling/scripts/openalex_fetch.py`. The key is
   optional and the client falls back to the anonymous API without one; relevance is its default
-  sort, so never add a date sort to a free-text search. Details: `references/openalex.md`.
+  sort, so never add a date sort to a free-text search.
+
+  Run **every query in the source's `queries` list**, not one phrase. Measured on the 2026-09-27
+  window: one phrase surfaced 7 records where six shapes surfaced 29 after screening. Pass the
+  source's `args`, which apply the inclusion bar inside the client:
+
+  ```bash
+  python3 tooling/scripts/openalex_fetch.py --search "artificial intelligence in education" \
+      --edu-only --oa-only --since <WINDOW_START> --with-pdf-only --require-ai --drop-low-impact \
+      --max 25
+  ```
+
+  - `--require-ai` drops records with no AI term in the title or abstract. A general education
+    search is mostly not AI: 63 of ~109 records went this way on that window, so do not widen the
+    search to OpenAlex education generally.
+  - `--drop-low-impact` applies the significance bar: self-report-only studies (a perception or
+    attitude study is self-report by construction), work confined to one site or institution, and
+    samples stated under 100 with no measured outcome. It dropped 17 that week and prints each
+    reason to stderr, so report the count and the reasons -- they can be argued with.
+  - Do **not** make `--title-abstract-search` the default: it requires every term of the query,
+    which took the same window from 134 matches to 7, and from 29 screened records to 2.
+
+  Details: `references/openalex.md`.
 - `web_search` (EdArXiv) — search its `url` with the source's `query`.
 - `trove_search` (PsyArXiv by subject) — the OSF REST API cannot combine
   `filter[subjects]` with any other filter, and PsyArXiv publishes no RSS feed,

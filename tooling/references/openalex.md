@@ -58,6 +58,10 @@ python3 tooling/scripts/openalex_fetch.py --search "generative AI in education" 
 python3 tooling/scripts/openalex_fetch.py --search "AI literacy" --edu-only --oa-only \
     --since 2026-06-01 --with-pdf-only --max 25
 
+# the scan's screened run: several query shapes, AI term required, bar applied
+python3 tooling/scripts/openalex_fetch.py --search "AI literacy higher education" \
+    --edu-only --oa-only --since 2026-09-20 --with-pdf-only --require-ai --drop-low-impact --max 25
+
 # one work by DOI (what the source-acquisition path uses)
 python3 tooling/scripts/openalex_fetch.py --doi 10.1007/s11858-026-01827-y
 
@@ -88,6 +92,36 @@ links to fail.
 **Beware near-duplicates.** Zenodo and repository records repeat the same paper
 under different DOIs, so deduplicating on `dedupe_key` alone is not enough: also
 compare titles across recent results before ingesting.
+
+## The inclusion bar in the client (`--require-ai`, `--drop-low-impact`)
+
+The scan asks a broad engine for a narrow thing, so two client-side filters do the narrowing. Both
+are heuristics over the title and abstract, deliberately conservative: they drop only on a clear
+signal, always print the reason, and never judge quality -- they decide what is worth spending
+full-text retrieval and writing effort on.
+
+- **`--require-ai`** drops any record with no AI/generative-AI term in title or abstract. Needed
+  because `--edu-only` only pins the OpenAlex education subfield: over a one-week window
+  (2026-09-20 to 09-27) it left 36 of 72 records with no AI content at all -- teacher job
+  satisfaction, grade-3 number contexts, mathematics-teaching indicators. `--search` matches full
+  text, so a paper that mentions AI once in its discussion can outrank an AI paper.
+- **`--drop-low-impact`** applies the knowledge base's significance bar, in this order:
+  1. a review or synthesis is always kept;
+  2. a perception/attitude/survey/needs-analysis study in the **title** is dropped as self-report
+     by construction -- an outcome word in the abstract ("academic achievement" correlated with
+     attitudes) does not rescue it, which is why this test runs before the outcome check;
+  3. otherwise, self-report with no measured outcome and no design strength is dropped;
+  4. a stated sample under 100 with no outcome and no design strength is dropped;
+  5. a single-site/single-institution scope with no design strength is dropped.
+  Kept records carry `scope_verdict` and `scope_reason` so the triage list explains itself.
+
+Measured on that week: 63 records dropped for having no AI term, 17 dropped as low impact, 29 kept
+from six query shapes. Roughly a third of what survives is still weak -- the screen is a filter,
+not a reviewer, and the ambiguous ones are meant to reach triage.
+
+**Do not use `--title-abstract-search` as the default.** It is a tighter server-side filter, but it
+requires every term of the query: the same window went from 134 matches to 7, and after screening
+the 29 records became 2. Use it only for short queries where precision matters more than recall.
 
 ## Budget and limits
 

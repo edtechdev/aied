@@ -204,6 +204,23 @@ scan:
       fetcher_script: tooling/scripts/fetch-psyarxiv-edpsych.py
       max_results: 60
       max_age_days: 3
+    - name: OpenAlex (open-access journals and repositories)
+      type: openalex
+      script: tooling/scripts/openalex_fetch.py
+      # Several query shapes, not one phrase. Measured on the 2026-09-27 window: a
+      # single phrase surfaced 7 records; six shapes surfaced 29 after screening.
+      queries:
+        - "artificial intelligence in education"
+        - "generative AI teaching learning assessment"
+        - "large language model students learning"
+        - "AI literacy higher education"
+        - "ChatGPT assessment feedback"
+      # --require-ai drops records with no AI term; --drop-low-impact applies the
+      # significance bar (self-report-only, single-site and small-sample work).
+      args: ["--edu-only", "--oa-only", "--with-pdf-only", "--require-ai", "--drop-low-impact"]
+      max_results: 25
+      # The API key is resolved by the script itself (OPENALEX_API_KEY, then a key
+      # file). Never store a key here: this file is published.
   # Applied after retrieval; default_policy wins whenever the call is close.
   relevance_filter:
     include:
