@@ -1,7 +1,7 @@
 ---
 title: "Skills for Real Engineers"
 created: "2026-09-27T03:12:21-04:00"
-updated: "2026-09-27T03:12:21-04:00"
+updated: "2026-09-27T03:31:33-04:00"
 type: resource
 summary: "La colección de código abierto de Matt Pocock de habilidades de agente pequeñas y componibles, que incluye una habilidad de enseñanza de varias sesiones, una habilidad de cuestionamiento implacable y orientación sobre cómo escribir documentos que un agente pueda seguir."
 url: https://github.com/mattpocock/skills
@@ -19,7 +19,7 @@ audience: [instructors, learners, software developers]
 level: [higher ed, adult learning]
 confidence: high
 connected_resources: [clarity, education-agent-skills]
-source_updated: "2026-09-24T05:57:40-04:00"
+source_updated: "2026-09-27T03:31:33-04:00"
 translation_of: resources/matt-pocock-skills
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -38,7 +38,7 @@ El ejemplo más claro es `teach`, que se desarrolla a lo largo de varias sesione
 
 ## Qué saber antes de adoptarla
 
-Todo es [[open-source|código abierto]] bajo licencia MIT y gratuito para tomarlo como punto de partida del [[ai-literacy|alfabetización en IA]] o del [[self-directed-learning|aprendizaje autodirigido]] local. La adopción es enorme y avanza deprisa: unas 269.000 estrellas y 22.000 bifurcaciones al consultarlo en septiembre de 2026, con el último commit ese mismo día. La advertencia está en el alcance. Las habilidades dan por supuesto el contexto de trabajo de un [[human-ai-collaboration|ingeniero]] y se organizan en los cajones de ingeniería, productividad, obsoletas y en curso, de modo que algunas entradas están explícitamente inacabadas o retiradas, y el README sirve además como formulario de suscripción a un boletín. Trate las habilidades de enseñanza y de cuestionamiento como la parte transferible, y cuente con reescribir cualquiera de ellas antes de ponerla delante de su estudiantado.
+alrededor de 270.000 estrellas y 23.000 bifurcaciones al consultarlo en septiembre de 2026, con el commit más reciente el 18 de septiembre de 2026.
 
 ## Conceptos conectados
 [[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

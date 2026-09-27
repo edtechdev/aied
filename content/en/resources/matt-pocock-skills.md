@@ -1,7 +1,7 @@
 ---
 title: "Skills for Real Engineers"
 created: "2026-09-24T05:57:40-04:00"
-updated: "2026-09-24T05:57:40-04:00"
+updated: "2026-09-27T03:31:33-04:00"
 type: resource
 summary: "Matt Pocock's open-source collection of small, composable agent skills, including a multi-session teaching skill, a relentless questioning skill, and guidance on writing documents an agent can follow."
 url: https://github.com/mattpocock/skills
@@ -23,6 +23,8 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
+    date: "2026-09-24"
+    agent: hermes-agent
 reviewed_by: [editor]
 ---
 
@@ -32,7 +34,7 @@ The clearest example is `teach`, which runs over multiple sessions and treats th
 
 ## What to know before adopting it
 
-Everything is [[open-source|open source]] under MIT and free to take as a starting point for local [[ai-literacy|AI literacy]] or [[self-directed-learning|self-directed study]]. The adoption is large and fast-moving: roughly 269,000 stars and 22,000 forks when checked in September 2026, with the last commit that day. The caveat is scope. The skills assume an [[human-ai-collaboration|engineer's]] working context, they are organized into engineering, productivity, deprecated and in-progress buckets, so some entries are explicitly unfinished or retired, and the README doubles as a newsletter sign-up. Treat the teaching and questioning skills as the transferable part, and expect to rewrite any of them before putting one in front of students.
+Everything is [[open-source|open source]] under MIT and free to take as a starting point for local [[ai-literacy|AI literacy]] or [[self-directed-learning|self-directed study]]. The adoption is large and fast-moving: roughly 270,000 stars and 23,000 forks when checked in September 2026, with the most recent commit on September 18, 2026. The caveat is scope. The skills assume an [[human-ai-collaboration|engineer's]] working context, they are organized into engineering, productivity, deprecated and in-progress buckets, so some entries are explicitly unfinished or retired, and the README doubles as a newsletter sign-up. Treat the teaching and questioning skills as the transferable part, and expect to rewrite any of them before putting one in front of students.
 
 ## Connected Concepts
 [[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]
