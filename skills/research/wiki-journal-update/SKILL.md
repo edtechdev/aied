@@ -6,7 +6,15 @@ category: research
 
 # Wiki Journal Page Update (journal.md)
 
-Regenerating `journal.md` in the AI Ed Wiki (`<WIKI>/journal.md`) is a frequent, error-prone step. This skill pins down the **exact on-disk format** and the **safe regeneration procedure** so the page never ships with truncated date headers, quoted titles, or a stale stub-skip that drops real pages.
+`journal.md` and `index.md` are **generated files**. Run
+`python3 tooling/scripts/gen-index-journal.py` — it derives both, including the counts, from
+page frontmatter, and a gate (`--check`) fails when either is stale. Do not rebuild them by
+hand and do not append entries: hand maintenance is what produced a page counted but not
+listed, a total that disagreed with its own entries, mistyped titles, and an unsorted list.
+
+This skill remains the reference for the **exact on-disk format** the generator must produce
+(and what to check when the gate fails), so a format change here must be mirrored in the
+script.
 
 ## THE FORMAT (Astro-era, authoritative)
 
