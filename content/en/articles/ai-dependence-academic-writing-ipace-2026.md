@@ -43,23 +43,6 @@ The qualitative phase drew on open-ended survey responses and semi-structured in
 - **Small qualitative sample** of eight interviewees, limiting the breadth of thematic claims.
 - **I-PACE was designed for hedonic apps** such as gaming and social media; extending it to a study tool carries assumptions about what dependence means in academic work.
 
-## Connected Concepts
-
-- [[cognitive-offloading]] — dependence is framed as habitual offloading of core writing work to AI.
-- [[academic-integrity]] — policy ambiguity let students rationalize strategic AI use as compliant.
-- [[writing-education]] — the study setting is an undergraduate academic-writing course.
-- [[ai-literacy]] — the protective factor against dependence in the model.
-- [[ai-detection]] — students rewrote output specifically to evade detection.
-- [[self-efficacy]] — academic self-efficacy failed to predict stress directly, against expectation.
-- [[higher-ed]] — the population studied, and the policy context of the findings.
-- [[teacher-role]] — instructors' guidance and enforcement shaped students' reading of the rules.
-
-## Connected Articles
-
-- [[ai-collaborative-learning-skills-impacts]] — Over-reliance on AI in collaborative learning contexts
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — A privacy-preserving tool for AI-associated cognitive offloading
-- [[reddig-maclellan-personalized-feedback-llm-2026]] — LLM feedback and learner interaction in writing contexts
-
 ## Citation
 
 Liu, L., Zhuang, M., & Wang, J. (2026). [Are Students Dependent on AI in Writing Courses? Analyzing Factors Influencing Dependence on Generative AI Through the I-PACE Model](https://doi.org/10.3389/fpsyg.2026.1905037). *Frontiers in Psychology, 17*, 1905037.

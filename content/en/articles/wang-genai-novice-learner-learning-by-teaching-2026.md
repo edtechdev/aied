@@ -64,20 +64,6 @@ The authors explain the advantage through the mechanics of explanation: preparin
 - The intervention produced no significant improvement in planning and monitoring, which the authors attribute to insufficient design support and high cognitive load.
 - Outcomes were measured immediately after a short intervention; durability requires longer studies.
 
-## Connected Concepts
-
-- [[learning-by-teaching]]
-- [[generative-ai]]
-- [[self-efficacy]]
-- [[metacognition]]
-- [[human-ai-collaboration]]
-## Connected Articles
-
-- [[prompting-teachability-novice-personas-lbt-2026]] — specifies novice LLM personas for learning by teaching, the design counterpart to this study's role configuration.
-- [[socrates-students-instructors-llms-lbt-2025]] — students act as instructors of a large language model in computer science education, a parallel test of the same role reversal.
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — a teachable ChatGPT agent in programming education, an earlier implementation of teaching an AI learner.
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — uses an LLM as a student for vocabulary acquisition, extending the novice-learner role into language learning.
-
 ## Citation
 
 Wang, Haiyan; Wang, Congyao; Liu, Jiawen; Cao, Mei. (2026). *[The Contribution of Generative Artificial Intelligence as a Novice Learner to Students in the Learning by Teaching Model](https://doi.org/10.1002/jcal.70299)*. Journal of Computer Assisted Learning, 42, e70299. https://doi.org/10.1002/jcal.70299

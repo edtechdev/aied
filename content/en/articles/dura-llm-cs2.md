@@ -37,23 +37,6 @@ This paper contributes to the growing body of [[research-methods-aied|research]]
 - Reflections were graded by TAs and coded by five co-authors, two of whom taught the course, so the qualitative analysis is not independent of the instructional team.
 - The [[help-seeking]] comparison spans six semesters with differing enrollment (433-619 students), confounding the policy change with cohort and course differences; Piazza posting was flat (334 posts in both 2025 Spring and 2025 Fall) even as office hours interactions rose from 1,151 to 1,350.
 
-## Connected Concepts
-- [[cs-education]]
-- [[llm]]
-- [[generative-ai]]
-- [[scaffolding]]
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[equity-in-ai-education]]
-## Connected Articles
-
-- [[mixed-reality-engineering-learning]] — Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning
-- [[cogtax-cognitive-taxonomy]] — CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education
-- [[less-deliberate-teams-llm]] — Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work
-- [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education
-- [[commenting-copilot-student-code-specs]] — Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications
-- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
-
 ## Citation
 
 Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, Naren Ramakrishnan (2026). [Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2](https://arxiv.org/abs/2606.30908). SIGCSE Virtual 2026, submitted 29 Jun 2026

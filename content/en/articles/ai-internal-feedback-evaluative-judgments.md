@@ -49,26 +49,6 @@ The study is grounded in the internal feedback paradigm: students generate feedb
 - Participants came from a single institution and discipline, limiting transferability across disciplinary and [[governance|institutional]] settings.
 - Students sought external feedback mainly from AI, and not all AI feedback is accurate — which may have influenced evaluative judgment development. The authors recommend teachers comment on [[ai-feedback-quality|AI feedback quality]] and guide students to evaluate it critically.
 
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[assessment]]
-- [[feedback]]
-- [[metacognition]]
-- [[intelligent-tutoring]]
-- [[reducing-ai-misuse]]
-- [[math-education]]
-- [[prompt-engineering]]
-
-## Connected Articles
-
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
-- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
-- [[llm-automated-assessment-student-self-explanations]] — Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education
-- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
-- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI
-
 ## Citation
 
 Chen, S., & To, J. (2026). [*Unravelling undergraduates' development of evaluative judgments through AI-supported internal feedback*](https://doi.org/10.1080/02602938.2026.2711099).

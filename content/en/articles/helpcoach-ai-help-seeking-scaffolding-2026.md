@@ -56,31 +56,5 @@ The authors tested whether more targeted chatbot replies explained the retention
 - Self-regulation was measured with self-report MSLQ subscales rather than behavioral evidence, and no significant condition differences appeared on any subscale.
 - The evidence does not establish causation: the proportion of targeted chatbot help did not differ significantly between conditions.
 
-## Connected Concepts
-- [[help-seeking]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[problem-solving]]
-- [[self-regulated-learning]]
-- [[conversational-ai]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[cs-education]]
-- [[feedback]]
-- [[prior-knowledge]]
-- [[intelligent-tutoring]]
-- [[learning-gains]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated Help-Seeking
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
-- [[ai-fallibility-warning-help-seeking]] — Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments
-- [[scaffolding-student-ai-dialogue-framework-2026]] — Scaffolding Students-AI Dialogue: A Framework for Safe Educational Interactions
-- [[conversational-agents-novice-programmers-scoping-2025]] — Exploring Conversational Agents for Novice Programmers: A Scoping Review
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or Shortcut? Postgraduate IT Students' Use of Generative AI and Self-Regulated Learning
-
 ## Citation
 Jin, H., Peng, W., Han, J., Liao, Q. V., & Wang, X. (2026). [*HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving*](https://arxiv.org/abs/2609.28918). arXiv preprint.

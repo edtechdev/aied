@@ -60,23 +60,6 @@ Before the NLP analyses, the authors characterized longitudinal trajectories and
 - Within-person variance available for testing ranged from just 7% to 43%, with outcome ICCs of 0.57–0.93 (RMSSD at 0.93), so most physiological variation was stable rather than week-varying — a structural ceiling on what any weekly language predictor could explain.
 - The text is extremely sparse — a median of three words per response, with single-word responses making up 32% of the corpus, and a prompt answered only bimonthly — which limits what any NLP pipeline can extract from it.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[affective-computing]]
-- [[well-being]]
-- [[affective-tutoring]]
-- [[multimodal]]
-- [[educational-nlp]]
-- [[privacy]]
-- [[student-experience]]
-## Connected Articles
-
-- [[engagement-assessment-video]]
-- [[genai-tutor-engagement-patterns]]
-- [[ai-campus-wellbeing-tools]]
-- [[multimodal-ai-feedback-learning]]
-- [[physiological-signals-exam-outcomes-ml]]
 ## Citation
 
 Harry, T., Hidalgo, J., Price, M., Feng, Y., Stanton, K., Tompkins, C., Dodds, P. S., Fudolig, M. I., Bloomfield, L., & Danforth, C. (2026). [A formative study of brief affective text as a complement to wearable sensing for longitudinal student health monitoring](https://arxiv.org/abs/2605.14360). [cs.HC]. Submitted to ACM IMWUT.

@@ -38,20 +38,6 @@ audience: [instructors, instructional designers]
 - **No control group and no learning measure:** the study reports no comparison against existing training and no pre/post knowledge or behavior outcome.
 - **The platform was validated as a standalone tool** outside the university LMS, leaving untested whether embedding the modules in coursework changes engagement or completion.
 
-## Connected Concepts
-- [[game-based-learning]]
-- [[higher-ed]]
-- [[student-engagement]]
-- [[motivation]]
-- [[generative-ai]]
-
-## Connected Articles
-- [[cyberagents-gamified-cybersecurity-learning-2026]] — CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-- [[ai-enabled-serious-games]] — AI-Enabled Serious Games
-- [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by LLMs
-- [[nasa-tlx-workload-gamified-ai-2026]] — Perceived Workload Across Gamified and AI-Supported Learning
-
 ## Citation
 
 Li, Buzaid, & Qu (2026). [*Security Education in Higher Education through AI-Powered Gamification*](https://arxiv.org/abs/2608.24778).

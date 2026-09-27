@@ -85,31 +85,6 @@ The XAI-ED framework has become a foundational reference in [[ai-education|AIED]
 - The four case studies are drawn from pre-existing educational AI systems and show fit to the framework, not the framework's effectiveness; the paper reports no comparative data across them.
 - The pitfalls it names — explanation overload, misleading explanations, confirmation bias, over-trust, and gaming the system — are each described conceptually with no reported incidence or threshold at which they appear, and the mapping of explanation approaches to white-box, black-box, and glass-box model classes is argued rather than tested.
 
-## Connected Concepts
-
-- [[teacher-role]]
-- [[student-experience]]
-- [[bias-mitigation]]
-- [[metacognition]]
-- [[privacy]]
-- [[regulation]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-- [[learning-analytics]]
-- [[pedagogical-safety]]
-- [[trust]]
-- [[trust-calibration]]
-- [[explainable-ai]]
-- [[human-in-the-loop-ai]]
-## Connected Articles
-
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
 ## Citation
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074

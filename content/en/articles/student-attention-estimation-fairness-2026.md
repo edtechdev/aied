@@ -53,21 +53,5 @@ The core lesson is [[research-methods-aied|methodological]]: an in-processing re
 - The fairness intervention did not hold up: the selected gender regularizer (λ = 0.7) reduced the demographic MAE gap in only 4 of 10 training runs and, on the test set, both the gender gap and worst-group MAE increased relative to the unregularized model.
 - Real-time feasibility rests on a hardware-specific benchmark (mean warm latency 50.65 ms per prediction window on an NVIDIA A100-SXM4-40GB), and the contribution of the sensor modality was limited enough that the authors conclude visual representations are the primary information source for attention estimation in this dataset.
 
-## Connected Concepts
-- [[learning-analytics]]
-- [[student-engagement]]
-- [[equity-in-ai-education]]
-- [[multimodal]]
-- [[affective-computing]]
-- [[assessment]]
-- [[ai-education]]
-
-## Connected Articles
-- [[savvy-student-attention-video-learning]] — SAVVY: Student Attention Visualization for Video-based Learning Analysis
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education
-- [[ai-student-engagement-online-learning-review-2025]] — Artificial Intelligence and Student Engagement in Online Learning: A Literature Review
-- [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop ITS for Multimodal Affective Feedback
-- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement with an Extended ICAP Framework
-
 ## Citation
 Fragkiadakis, C., Mohammadi Ziabari, S. S., & Alsahag, A. M. M. (2026). [*Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation*](https://arxiv.org/abs/2609.02232). arXiv preprint arXiv:2609.02232.

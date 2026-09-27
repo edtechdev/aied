@@ -66,31 +66,6 @@ This is a development article that demonstrates a complete, implemented pipeline
 - The study ran within a single semester-length window, which the authors state is too short to reveal long-term knowledge retention.
 - The system was not tested against a control group or an alternative ITS platform, so the BN/KST/WDDI comparison is internal to G4L and cannot establish its advantage over other tutoring systems; knowledge outcomes rest on mastery ratios (correct answers over attempts) and log data, which the authors note cannot capture cognitive states, motivation, or off-platform learning and give no causal explanation for performance differences.
 
-
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[knowledge-graph]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[learning-gains]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[assessment]]
-- [[feedback]]
-- [[learning-design]]
-
-## Connected Articles
-
-- [[tutoring-effectiveness-index]]
-- [[genai-motivation-engagement-2026]]
-- [[genai-feedback-design-multisite-experiment]]
-- [[precision-education-student-digital-twins-2026]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]]
-
 ## Citation
 
 Csépányi-Fürjes, L., & Kovács, L. (2026). [Intelligent tutoring in dynamic domains: a graph-based system for comparative analysis of adaptive algorithms with intuitionistic fuzzy logic and forgetting](https://doi.org/10.1007/s11423-026-10639-6). *Educational Technology Research and Development*.

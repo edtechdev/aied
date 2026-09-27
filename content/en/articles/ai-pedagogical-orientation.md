@@ -76,18 +76,6 @@ These are not resolvable by more information or better tools — they require di
 - The results are a snapshot of a fast-moving technology: the authors note that AI tools and institutional initiatives have moved on since data collection, so the weak role of institutional context may not hold as adoption becomes more widespread and formally supported.
 - The exploratory factor analysis ran 36 variables against n = 90, and the authors report poor model fit in initial solutions that required iterative removal of low-communality items before the single dominant factor stabilized.
 
-## Connected Concepts
-
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[teacher-ai-competency]]
-- [[stem-education]]
-## Connected Articles
-
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
 ## Citation
 
 Atherton, T. J., Descamps, I., Holmes, T. R., Vizcarra, C. L., Sui, N., Webel, M., & Foley, J. J., IV. (2026). [Faculty orientations shape adoption of AI in research and teaching](https://arxiv.org/abs/2605.18140).

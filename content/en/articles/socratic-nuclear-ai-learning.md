@@ -40,21 +40,5 @@ Cluster analysis of chatbot usage and discussion patterns showed that users in t
 - The study was restricted to a single subject domain (nuclear safety) focused mostly on factual knowledge, measured short-term retention only, and the recommended 30-minute duration may have created implicit time pressure that penalized the Socratic mode; interest in the topic was not measured.
 - Participants may have behaved differently because of the EEG device (a Hawthorne effect), and reported gains come from a post-test immediately after the session, not from delayed retention.
 
-## Connected Concepts
-- [[socratic-method]]
-- [[generative-ai]]
-- [[student-engagement]]
-- [[affective-computing]]
-- [[cognitive-psychology]]
-- [[intelligent-tutoring]]
-- [[assessment]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — AI Tutors vs Tenacious Myths
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: Student Cognitive Evolution Agent
-- [[inside-llm-student-simulator-reasoning-2026]] — Inside an LLM Student Simulator's Reasoning
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual Tutoring and Computer-Assisted Learning Take-Up
-
 ## Citation
 Clin Deffarges, A., Kosmyna, N., & Maes, P. (2026). [Socrates went Nuclear: Comparing Interaction Strategies for AI systems in a Learning Context using Brain Sensing](https://arxiv.org/abs/2609.00584). arXiv:2609.00584.

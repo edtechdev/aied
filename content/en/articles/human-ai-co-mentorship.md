@@ -56,23 +56,6 @@ This model bridges [[agentic-workflows-education]] and practical classroom imple
 - The three failure modes and the students' arc toward skeptical evaluation rest on mentor observation during the project rather than on a measured instrument of verification skill.
 - The authors state that broader validation across more diverse cohorts and longitudinal outcomes is needed before the model can be generalized.
 
-## Connected Concepts
-
-- [[math-education]]
-- [[pedagogical-agent]]
-- [[intelligent-tutoring]]
-- [[socratic-method]]
-- [[active-learning]]
-- [[teacher-role]]
-- [[lifelong-learning]]
-- [[project-based-learning]]
-- [[human-ai-collaboration]]
-- [[scaffolding]]
-
-## Connected Articles
-
-- [[agentic-workflows-education]]
-- [[agentic-education-coding]]
 ## Citation
 
 Chawla, F., Chawla, A., Singh, R., Germino, J., & Khvatskii, G. (2026). [*Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting*](https://arxiv.org/abs/2605.05144).

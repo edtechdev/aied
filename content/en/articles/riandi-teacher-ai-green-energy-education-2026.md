@@ -38,18 +38,5 @@ This is a teacher-education perspective on the knowledge base's [[sustainability
 - The AI Knowledge construct showed weak reliability and validity, evidenced by low Cronbach's alpha and composite reliability values that the authors say could destabilize estimates in the structural model.
 - No AI training was provided before the survey, so the design captures an exploratory baseline only and cannot show whether capability changes over time or across disciplines.
 
-## Connected Concepts
-- [[sustainability]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[tpack]]
-- [[k-12]]
-- [[learning-design]]
-- [[generative-ai]]
-
-## Connected Articles
-- [[talebzadeh-ai-green-education-2026]] — The Role of AI in Green Education (Sustainable Development Pedagogy)
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Sustainable AI knowledge-base assistants in CS education
-
 ## Citation
 Riandi, R., Ismail, I., Kaniawati, I., Sopandi, W., Rostikawati, D. A., Hamka, D., & Suhendar, S. (2026). [*Teacher Involvement in Developing Sustainable Education Materials for AI Integration in Green Energy Education*](https://doi.org/10.1038/s41598-025-34422-4). *Scientific Reports*, 15.

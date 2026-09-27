@@ -59,32 +59,5 @@ Three principles guide practice. Output equivalence: comparable AI-assisted prod
 - Presumed capability equivalence is a theoretically derived risk, not an established prevalence claim.
 - The framework sets no operational thresholds — how much later independent performance, after how long, counts as carryover remains open.
 
-## Connected Concepts
-- [[assessment-validity]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[transfer-of-learning]]
-- [[educational-measurement]]
-- [[creativity]]
-- [[evaluative-judgment]]
-- [[theory-development-aied]]
-- [[differential-effects-across-learner-groups]]
-- [[equity-in-ai-education]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-
-## Connected Articles
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk? Assessment validity reasoning and generative AI
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity: Reconceptualizing assessment validity for the age of generative artificial intelligence
-- [[llm-fallacy-misattribution]] — The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows
-- [[durable-skills-measurement-ai-teammates-2026]] — Towards Scalable Measurement of Durable Skills
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
-- [[seung-basham-cognitive-offloading-swld-2026]] — Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency: A Critical Framework for Human-Generative AI Co-Agency in Education
-- [[polished-artifacts-fragile-engagement-2026]] — "Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction"
-- [[cognitive-commons-ai-expertise-regeneration]] — The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise
-
 ## Citation
 Sak, U. (2026). [Inferring Gifted Potential from AI-Assisted Work: An Attributional Validity Framework for Gifted Education](https://osf.io/qf4rt). EdArXiv preprint.

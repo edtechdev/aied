@@ -57,27 +57,6 @@ The reported experience offers practical guidance for other academic leagues and
 - Replicability beyond the founding context is argued rather than demonstrated: that the organizational principles are largely independent of the technical domain, and that the model extends beyond Brazil's [[global-south|university context]], is asserted without a second instantiation.
 - No data-collection procedure is described — no participant counts, surveys, or interviews — so the account of representative projects rests on the organizers' own description rather than on independent observation or participant data.
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[higher-ed]]
-- [[collaborative-learning]]
-- [[project-based-learning]]
-- [[active-learning]]
-- [[student-experience]]
-- [[curriculum-design]]
-- [[computational-thinking]]
-- [[ai-literacy]]
-
-## Connected Articles
-- [[community-centered-ai-education-adults]]
-- [[computational-thinking-ai-agent-creation]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[ai-adult-learning-guidelines-dis2026]]
-- [[civic-education-ai-lesson-plans]]
-
 ## Citation
-
-
 
 Panisson, A. R., Vianna, M. E. W. M., da Silva, I. F., da Silva, H. H., Savaris, R. F., Costa, B. P., et al. (2026). [*Academic League of Artificial Intelligence: An Integrative Perspective of Teaching, Research, and Extension*](https://arxiv.org/abs/2608.13447).

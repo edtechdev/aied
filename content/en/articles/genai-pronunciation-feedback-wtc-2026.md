@@ -44,24 +44,6 @@ The authors used a cross-sectional survey design with a convenience sample of 1,
 - All constructs (perceptions of feedback, pronunciation self-efficacy, WTC) are self-report measures collected at a single time point, so the mediating role of self-efficacy is inferred from covariance rather than manipulated.
 - The study focuses on perceptions of GenAI feedback rather than objective [[ai-feedback-quality|feedback quality]] or its actual behavioral effects on speaking performance.
 
-## Connected Concepts
-
-- [[language-learning]]
-- [[generative-ai]]
-- [[ai-feedback-quality]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[feedback]]
-- [[personalized-learning]]
-- [[speech-and-voice-technologies]]
-## Connected Articles
-
-- [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition
-- [[multimodal-ai-feedback-learning]] — LLM-Based Multimodal AI Feedback Produces Equivalent Learning
-- [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
-- [[cyberscholar-genai-writing-feedback]] — Generative AI Feedback, English Writing and Teacher Rubrics
-- [[genai-feedback-design-multisite-experiment]] — Human-Centered GenAI Feedback Design in Higher Education
-
 ## Citation
 
 Lu, Y., Yang, Y., Cui, T., Yang, Z., Cai, Y., & Jing, B. (2026). [*Associations between generative AI–based pronunciation feedback and willingness to communicate in English: The mediating role of English pronunciation self-efficacy*](https://doi.org/10.3389/fpsyg.2026.1918980).

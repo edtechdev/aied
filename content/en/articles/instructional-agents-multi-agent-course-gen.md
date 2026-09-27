@@ -8,7 +8,6 @@ technology: [llm, edtech-platform]
 assessment: [automated-assessment]
 research_method: [system development]
 audience: [instructors, faculty developers, software developers]
-connected_faqs: [top-10-findings-ai-education-instructors]
 level: [higher ed]
 sources: ['raw/papers/instructional-agents-multi-agent-course-gen.md']
 confidence: high
@@ -73,24 +72,6 @@ Evaluated across 5 university-level courses (Data Mining, Foundations of Machine
 - Limited support for rich visual and interactive elements important to modern [[pedagogy]].
 - Bias analysis was auxiliary only (CEAT-based), not a primary evaluation objective.
 - Human feedback is incorporated mainly through regeneration rather than fine-grained, targeted editing of specific content.
-
-## Connected Concepts
-
-- [[higher-ed]]
-- [[llm]]
-- [[learning-design]]
-- [[agentic-ai]]
-- [[curriculum-design]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[ai-ed-evaluation]]
-- [[scaffolding]]
-- [[pedagogical-agent]]
-
-## Connected Articles
-
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 
 ## Citation
 

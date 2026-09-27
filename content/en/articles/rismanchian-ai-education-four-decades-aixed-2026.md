@@ -46,20 +46,6 @@ methods: [research-methods-aied]
 - There is no data-driven or automated categorization step, which the authors state makes it difficult to scale AI×Ed for analyzing emerging trends.
 - The framework may not be rich enough to capture all AIED work, and the authors note that some projects are hard to situate on one or both axes.
 
-## Connected Concepts
-
-- [[history-of-aied]]
-- [[ai-education]]
-- [[theory-development-aied]]
-- [[research-methods-aied]]
-
-## Connected Articles
-
-- [[mishra-control-vs-agency-history-2025]] — a companion historical framing of AI in education's origins and conceptual tensions
-- [[simulating-students-llm-review-2026]] — LLM-based simulated students, extending the lineage of computational student models central to AI×Ed's analogy quadrant
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — LLM-based teachable agents in programming education, the renewed learning-by-teaching strand the paper highlights
-- [[icap-cognitive-engagement-llm-agents]] — agent-based modeling of the ICAP framework, exemplifying AIED's complex-systems methodology direction
-
 ## Citation
 
 Rismanchian, S., & Doroudi, S. (2025). [The evolution of research on AI and education across four decades: Insights from the AIxEd framework](https://doi.org/10.1007/s40593-025-00483-9). *International Journal of Artificial Intelligence in Education*, 35, 2797–2820.

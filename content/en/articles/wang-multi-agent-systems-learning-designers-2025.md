@@ -60,22 +60,6 @@ Time, tokens, and requests rise steeply from the baseline through the sequential
 - **Reliability was low and the sample small.** Expert agreement fell below chance when criteria were pooled, and the 20 raters were secondary math and science teachers (11 math, 9 science) in the United States only.
 - **One framework, a fixed set of architectures.** The study embeds one pedagogical framework in specific agent workflows, generated with gemini-2.5-flash plus three other Gemini models for the judge comparison, so other theories and designs are untested.
 
-## Connected Concepts
-
-- [[pedagogical-agent]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[prompt-engineering]]
-- [[active-learning]]
-
-## Connected Articles
-
-- [[finkelstein-principled-ai-education-2025]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[agentic-workflows-education]]
-- [[multi-agent-llm-social-learning]]
-- [[teachbench-llm-teaching-evaluation]]
-
 ## Citation
 
 Wang, J., Xiao, R., Hou, X., & Stamper, J. (2025). [*Enabling multi-agent systems as learning designers: applying learning sciences to AI instructional design*](https://arxiv.org/abs/2508.16659). arXiv:2508.16659. https://doi.org/10.48550/arXiv.2508.16659

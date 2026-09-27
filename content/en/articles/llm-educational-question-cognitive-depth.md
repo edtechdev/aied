@@ -33,32 +33,6 @@ LLM-generated educational questions show varying cognitive depth; models excel a
 - The comparison covers six LLMs (GLM4-9B-Chat, Qwen2.5-7B-Instruct, Baichuan2-7B-Chat, InternLM3-8B-Instruct, LLaMA-3-8B-Instruct-Chinese, Spark3.5-Max), most of them Chinese-oriented models at a single point in time.
 - The K–12 math dataset contains only "Apply"-level questions, and no classroom or learning-outcome evidence is reported; the authors place classroom-based studies of whether cognitive-shift metrics correlate with learning outcomes in future work.
 
-## Connected Concepts
-
-- [[automated-essay-scoring]]
-- [[formative-assessment]]
-- [[automated-question-generation]]
-- [[ai-ed-evaluation]]
-- [[human-in-the-loop-ai]]
-- [[cs-education]]
-- [[ai-detection]]
-- [[open-source]]
-- [[assessment]]
-- [[generative-ai]]
-- [[cognitive-diagnosis]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
-- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
-- [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
-- [[cross-dataset-bloom-question-classification]]
-
 ## Citation
 
 Xiaolong Wang, Zhe Zhao, Song Lai, Chaoli Zhang, Zijie Geng, Yu Tong, Ye Wei, Qingsong Wen (2026). [From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions](https://arxiv.org/abs/2606.18257).

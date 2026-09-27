@@ -56,35 +56,6 @@ The framework is a translation layer: appropriate interactions can be defined wi
 - The ten-minute session was too short to reach the third phase, all groups met the unframed model first without counterbalancing, and the LLM's own turns were ignored.
 - The sample was small and homogeneous: 27 children from one rural German school, 24 analyzed after a data loss, 4 female; the probabilistic checks still need validation.
 
-## Connected Concepts
-
-- [[ai-literacy]] — safe and developmentally adapted LLMs named as a precondition for AI literacy, not a by-product of it
-- [[ai-misuse-learning-harm]] — over-trust, attachment and cognitive surrender treated as harm classes to design against
-- [[conversational-ai]] — the multi-turn dialogue whose per-turn steering is the framework's object
-- [[critical-pedagogy]] — interaction design as a prompt for educators to reflect critically on practice
-- [[guardrails]] — post-hoc validation placed inside a pedagogical pipeline rather than left as generic filtering
-- [[hallucination-risk]] — inherent to the generative paradigm and worsened as instructions dilute across turns
-- [[human-ai-collaboration]] — the "human-AI co-thinking" mode that SCAFFOLD is built to preserve
-- [[llm]] — the probabilistic substrate the framework steers without modifying model weights
-- [[pedagogical-agent]] — the frame engine as a coded layer mediating between student and model
-- [[pedagogical-safety]] — safety defined pedagogically, with deterministic guarantees and auditable per-turn decisions
-- [[privacy]] — data minimization, local deployment and user-controlled memory preservation
-- [[scaffolding]] — zones of proximal development, participatory turn-taking and deliberate non-help
-- [[self-regulated-learning]] — preserving productive effort instead of delegating thinking to the model
-- [[sociocultural-learning]] — learning as social interaction, extended to multi-user group dialogue with an AI
-
-## Connected Articles
-
-- [[eduzone-llm-safety-k12]] — A benchmark for how unsafe K-12-facing LLMs actually are on student and teacher queries
-- [[eduguard-safe-rag-llm-tutor]] — Retrieval-grounded tutor safety, an alternative route to verified answers
-- [[hazra-safetutors-pedagogical-safety-2026]] — Pedagogical safety as a distinct property from content safety in AI tutoring
-- [[pedagogical-safety-rl]] — Pedagogical safety formalised inside a learning system's own optimization
-- [[children-ai-safety-misconceptions-2026]] — What children believe about AI surveillance and privacy, an input to safe design
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-designing relational privacy with young people rather than for them
-- [[robobuddy-llm-social-robots-classroom-2025]] — LLM-powered social robots in classroom activities, the deployment shape SCAFFOLD piloted
-- [[generative-ai-guardrails-harm-learning]] — Evidence that unguarded generative AI access can degrade learning once removed
-- [[regulating-ai-tutor-adolescent-srl]] — Adolescents' regulation and help-seeking with a GenAI tutor, a measure of whether scaffolding holds
-
 ## Citation
 
 Muss, O., Leisten, L. M., & Bardyn, C. E. (2026). [*Scaffolding Students-AI Dialogue: A Framework for Safe Educational Interactions*](https://osf.io/preprints/psyarxiv/dt2ex). *PsyArXiv* preprint.

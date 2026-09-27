@@ -67,31 +67,6 @@ Notably, the article **cites the PNAS [[guardrails]] paper** (Bastani et al. 202
 - The authors state that it is "far too early to say with certainty" what the long-term effects of offloading will be, and their Box 2 lists the open questions they cannot answer: prolonged offloading over years or decades, effects at different developmental stages, and whether decay varies with initial skill level or skill type.
 - The claim that basic cognitive abilities are more resilient rests on cognitive-training research rather than direct evidence about AI, and the authors concede that factors such as schooling are associated with modest changes in those abilities, leaving the developmental case unresolved.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[learning-gains]]
-- [[rag]]
-- [[cognitive-surrender]]
-
-## Connected Articles
-
-- [[coach-not-crutch-ai-writing]] — Coach not crutch: AI can improve writing skill despite reducing effort
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
-- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
-- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI
-- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning: Evidence from high school mathematics
-- [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle, AI, and the illusion of learning
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI tools in society: impacts on cognitive offloading and the future of critical thinking
-
 ## Citation
 
 Cash, T. N., Kelly, M. O., Macnamara, B. N., & Risko, E. F. (2026). [*Is AI making us stupid*](https://doi.org/10.1016/j.tics.2026.06.004). *Trends in Cognitive Sciences*

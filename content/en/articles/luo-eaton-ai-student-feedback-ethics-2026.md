@@ -42,21 +42,5 @@ The study addresses the research question *"What are the key ethical considerati
 - Interviews capture what teachers say, not what they do: the authors acknowledge that interview data may not reflect the actual decision-making teachers navigate when using AI for feedback.
 - The study omits other stakeholders such as developers of specialized AI-powered feedback systems, so how ethical considerations feature in tool design is inferred rather than observed, and the policy landscape is changing fast enough that the 2025 snapshot dates quickly.
 
-## Connected Concepts
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[ethics]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-literacy]]
-
-## Connected Articles
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor roles and ChatGPT in formative assessment
-- [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolding SRL feedback with generative AI and human peers
-- [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless generative AI use in self-directed learning
-
 ## Citation
 Luo, J., & Eaton, S. E. (2026). [*Is It Ethical for Teachers to Use AI for Student Feedback?*](https://doi.org/10.53761/887m5346). *Journal of University Teaching and Learning Practice*. https://doi.org/10.53761/887m5346. CC BY-ND 4.0.

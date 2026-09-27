@@ -34,26 +34,6 @@ The findings have implications for [[teacher-role|faculty development]] and [[ed
 - Primary coding was done by one member of the research team, so no inter-rater statistics were available; the authors mitigated this with an external reviewer and cross-team discussion of divergent codes.
 - Focus groups are shaped by group dynamics and social desirability, which the authors note constrains what staff disclose about their assessment practice.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[ai-literacy]]
-- [[authentic-assessment]]
-- [[educational-development]]
-## Connected Articles
-
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights
-- [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)
-- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
-
 ## Citation
 
 Mike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026). ['A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform](https://arxiv.org/abs/2606.26729). arXiv cs.HC.

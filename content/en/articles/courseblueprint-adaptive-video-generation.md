@@ -31,26 +31,6 @@ page_kind: [framework]
 - The judge is drawn from the same model family as the generator, which raises self-preference risk; the reported within-judge variance is small (σ̄=0.063, α≈0.97), but that does not establish agreement across model families.
 - The ablation isolates only the engagement module, with scaffolding-off and adaptive-off conditions left to future work, so the results are a focused contrast between the full system and a no-engagement variant rather than a causal decomposition of all four components.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[video-education]] — Video in Education: AI-generated, personalized, and analytics of video learning
-- [[generative-ai]]
-- [[learning-design]]
-- [[knowledge-graph]]
-- [[multimodal]]
-- [[personalized-learning]]
-- [[scaffolding]]
-- [[higher-ed]]
-## Connected Articles
-
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
-- [[generativism-learning-theory]] — Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
-
 ## Citation
 
 Md Zabirul Islam, Md Motaleb Hossen Manik, Ge Wang (2026). [CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora](https://arxiv.org/abs/2606.20608).

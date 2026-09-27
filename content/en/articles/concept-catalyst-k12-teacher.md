@@ -29,24 +29,6 @@ page_kind: [framework]
 - All teachers worked on the same well-known bridge design challenge, chosen to make interactions comparable; the authors note that behavior may differ when teachers write for their own projects.
 - No students were interviewed about the scaffolds, leaving their reception of the generated content untested.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[edtech-platform]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[trust]]
-- [[human-in-the-loop-ai]]
-## Connected Articles
-
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
-
 ## Citation
 
 Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl (2026). [Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI](https://arxiv.org/abs/2606.30590).

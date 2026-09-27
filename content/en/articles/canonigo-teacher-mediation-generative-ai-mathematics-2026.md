@@ -65,21 +65,6 @@ The authors argue that GenAI is not a neutral tool but a culturally situated art
 - The study used a premium model (ChatGPT-4), which may overstate benefits achievable with widely available, lower-performance tools and thereby intensify the equity concerns central to the inquiry.
 - The model-tier comparison was exploratory: prompts were not randomized, so the observed accuracy gap warrants larger-scale investigation.
 
-## Connected Concepts
-
-- [[teacher-role]]
-- [[agency]]
-- [[scaffolding]]
-- [[critical-pedagogy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-## Connected Articles
-
-- [[generative-ai-mediational-agent-sociocultural-2026]] — shares the sociocultural framing of GenAI as a cultural or mediational tool rather than a neutral tutor.
-- [[generative-ai-reduced-study-time-math]] — complementary evidence on how GenAI changes the cognitive work students do on mathematics problems.
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — secondary-school evidence that unmediated AI use can depress learning, the risk this study attributes to weak mediation.
-- [[genai-mindtool-generative-learning]] — the constructive use of GenAI as a thinking instrument, matching the reflective-dialogue practice reported here.
-
 ## Citation
 
 Canonigo, Allan Mesa. (2026). *[Teacher Mediation and the Contingent Promise of Generative AI in Mathematics Education](https://doi.org/10.1002/jcal.70307)*. Journal of Computer Assisted Learning, 42, e70307. https://doi.org/10.1002/jcal.70307

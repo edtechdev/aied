@@ -51,34 +51,6 @@ This is a qualitative case study of a single bounded context: the HEHI 303 Exper
 - The two raters were HEI research assistants actively involved in the course, and their agreement was weakest on Limitations and Gaps at 60% exact agreement; the rubric also measures response quality rather than student learning, with emotion, contradiction and cultural texture consistently underplayed regardless of geographic setting.
 - For wider adoption the authors list technical accuracy, training-data bias, privacy exposure through personalization, resource intensity, and the risk that over-dependence on AI erodes the interpersonal skills that [[social-emotional-learning|social and emotional learning]] depends on.
 
-## Connected Concepts
-
-- [[experiential-learning]] — the course model AI personas were tested against
-- [[simulation]] — AI role-play standing in for community interviews and FGDs
-- [[conversational-ai]] — ChatGPT 4.0 as the persona engine
-- [[prompt-engineering]] — the seven-step persona prompt routine taught to students
-- [[pedagogical-agent]] — personas cast as stakeholders rather than tutors
-- [[qualitative-research]] — needs assessment, thematic coding and focus group method being taught
-- [[human-in-the-loop-ai]] — instructor guidance required to contextualize inaccurate output
-- [[human-ai-collaboration]] — the complement-not-replace framing the paper ends on
-- [[culturally-relevant-pedagogy]] — the cultural specificity gap in AI dialogue
-- [[social-emotional-learning]] — emotional nuance as the consistently missing element
-- [[global-south]] — fragile, low-resource and conflict-affected educational settings
-- [[limitations-in-aied-research]] — single-case, rater-based evaluation and its reliability ceiling
-
-## Connected Articles
-
-- [[adversarial-stress-testing-role-playing-agents]] — Stress-testing role-playing LLM agents
-- [[conversational-agents-business-simulation-gaming-2026]] — Conversational agents in business simulation
-- [[genai-simulate-patient-history-pbl-2026]] — Simulated patient histories for problem-based learning
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing education
-- [[llm-qualitative-coding-consensus-2026]] — LLMs for qualitative coding and consensus
-- [[human-vs-llm-ordered-coding]] — Human versus LLM coding of qualitative data
-- [[empathy-coaching-chatbot]] — Chatbot coaching of empathy
-- [[culturally-aware-aied-community-learning]] — Culturally aware AI in community learning
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Human-AI complementarity in social-emotional learning
-- [[prompting-teachability-novice-personas-lbt-2026]] — Prompting teachability in novice personas
-
 ## Citation
 
 Elhajj, I., Germani, A., Farah, J. M., Sabbagh, D., & Hajj Hassan, J. (2026). [AI Personas: Can LLMs Replace Fieldwork in Experiential Learning?](https://doi.org/10.3390/aieduc2030030). *AI in Education, 2*(3), 30.

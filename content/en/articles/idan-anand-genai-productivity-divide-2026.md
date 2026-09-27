@@ -56,26 +56,6 @@ The findings reframe the educational and organizational stakes of GenAI. Because
 - **Weakly significant scaffolding effects.** The scaffolded-versus-unguided difference and the scaffolding × AIC interaction were only weakly significant (p > .05, p < .10), and the authors note that subgroup contrasts had limited statistical power.
 - **Self-reported AIC and preferences.** Interaction competence is measured from self-assessments whose alignment with measured performance varied by domain (ρ = .71 for general machine-learning knowledge), so the decisive moderator may partly reflect self-perception.
 
-## Connected Concepts
-
-- [[prompt-engineering]]
-- [[affective-tutoring]]
-- [[student-experience]]
-- [[administrator]]
-- [[teacher-ai-competency]]
-- [[socratic-method]]
-- [[help-seeking]]
-- [[bias-mitigation]]
-
-## Connected Articles
-
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
-- [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
-- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
-
 ## Citation
 
 Idan, L., & Anand, B. (2026). [Generative AI and the Productivity Divide: Human-AI Complementarities in Education](https://arxiv.org/abs/2605.18143).

@@ -39,25 +39,6 @@ page_kind: [evaluation]
 - Each vignette carried one behavioral trait and one LA indicator, an isolation that cannot show how models weigh multiple, conflicting signals about a student.
 - Statistical significance was driven by the sample size: correlations between LA indicators and recommended support were mostly weak and survived FDR correction only at n = 4,500.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[equity-in-ai-education]]
-- [[bias-mitigation]]
-- [[ai-feedback-quality]]
-- [[higher-ed]]
-- [[simulating-students]]
-
-## Connected Articles
-
-- [[ai-decision-support-online-learning-assessment-2026]] — AI decision support in online learning assessment
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
-- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
-- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating trustworthiness of LLMs in education
-- [[becerra-aicofe-feedback-2026]] — AICoFE: AI-powered feedback system with teacher-in-the-loop mediation
-
 ## Citation
 
 López-Pernas, S., Oliveira, E., Misiejuk, K., Deriba, F. G., Kaliisa, R., & Saqr, M. (2026). [*Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation*](https://doi.org/10.1016/j.chbah.2026.100357). Computers in Human Behavior: Artificial Humans, 9, 100357.

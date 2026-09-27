@@ -44,26 +44,6 @@ The speed-dating study paired participants with a series of storyboard scenarios
 - The samples were small and mismatched: two participating teachers taught only students younger than 12 while the student sample was 12 and above, and participants were compensated, which may have influenced what they shared.
 - Older students generally shared more thoughts than younger students, which the authors suspect masked details that only younger students had considered.
 
-## Connected Concepts
-
-- [[k-12]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[trust]]
-- [[agency]]
-- [[human-in-the-loop-ai]]
-- [[trust-calibration]]
-- [[social-emotional-learning]]
-## Connected Articles
-
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[modular-educational-llm-agency]] — Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance
-
 ## Citation
 
 Tomohiro Nagashima, Lisa Siegrist, Niklas Scholz, Shintaro Sato, Martina Vincoli, Man Su (2026). [Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI](https://arxiv.org/abs/2607.01506).

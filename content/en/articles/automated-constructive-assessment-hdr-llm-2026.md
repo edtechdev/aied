@@ -60,34 +60,5 @@ The paper places the work at the Modification stage of the [[samr-model]], argui
 - The study used a single model, OpenAI's GPT-4o, which the authors note may behave differently from other LLMs; robustness across models was left to future work.
 - Feedback effects were not followed up: whether model feedback changes understanding or behavior needs a long-term, [[qualitative-research|qualitative]] study, and the feedback experiment analyzed 74 of 80 respondents.
 
-## Connected Concepts
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[prompt-engineering]]
-- [[llm]]
-- [[automated-question-generation]]
-- [[critical-thinking]]
-- [[samr-model]]
-- [[human-in-the-loop-ai]]
-- [[authentic-assessment]]
-- [[educational-measurement]]
-- [[ai-feedback-quality]]
-- [[evaluative-judgment]]
-- [[explainable-ai]]
-
-## Connected Articles
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline
-- [[auto-marking-short-answer-science-2026]] — Auto-marking short answer questions in science: The foundational years of transformer-based models from BERT to GPT-4
-- [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — Can AI Evaluate Assessment? A Study of Large Language Model Meta-Assessment Performance
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment and metacognitive reflection: A mixed-methods study of the AAIWA model
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study
-- [[espino-ai-business-education-review-2026]] — Mapping the Integration of AI into Business Education: Insights from a Decade of Research
-- [[drummond-genai-business-schools-framework-2026]] — Generating a Student-Informed Teaching and Learning Conceptual Framework for GenAI in Business Schools: A Case Study
-
 ## Citation
 Takahashi, S., Yoshikawa, A., Kose, M., Suzuki, K., Inoue, C., Watanabe, Y., & Sawada, M. (2026). [Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence](https://arxiv.org/abs/2609.25790). arXiv:2609.25790.

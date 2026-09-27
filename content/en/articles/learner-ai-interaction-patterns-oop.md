@@ -41,24 +41,6 @@ This full [[research-methods-aied|research]] paper investigates how students int
 - A moderate silhouette coefficient means the clusters overlap, so the profiles capture broad tendencies rather than sharply separable categories.
 - The design is observational rather than experimental, so the findings are descriptive associations; engagement depth was not measured and some clusters were small, leaving the study possibly underpowered for small performance differences.
 
-## Connected Concepts
-
-- [[cs-education]]
-- [[higher-ed]]
-- [[human-in-the-loop-ai]]
-- [[socratic-method]]
-- [[generative-ai]]
-- [[learning-analytics]]
-- [[student-experience]]
-
-## Connected Articles
-
-- [[ai-team-teaching-talk-analytics]] — AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design
-- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-- [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
-- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
-- [[ai-generated-instructional-videos-computing-ed]] — Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education
-
 ## Citation
 
 Marina Lepp (2026). [Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course](https://arxiv.org/abs/2607.24755).

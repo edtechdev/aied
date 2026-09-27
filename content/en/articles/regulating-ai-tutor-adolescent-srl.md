@@ -35,24 +35,6 @@ The paper proposes a turn-level codebook combining SRL and [[metacognition|help-
 - There is no control condition, so the pre-to-post decline (67.5% to 56.9%, p = .014) cannot be separated from ordinary test difficulty, exam proximity, or repeated-measure effects.
 - Eight of 106 recruited students were excluded for incomplete tasks or questionnaires, and the mathematics-modeling task required at least six valid task-related turns, so the analyzed behavior reflects a compliant subsample of a class-based sample.
 
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[help-seeking]]
-- [[k-12]]
-- [[llm]]
-## Connected Articles
-
-- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
-- [[socraticode-k12-programming-tutor]] — Toward SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[llm-reasoning-traces-metacognition]] — Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition
-- [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
-
 ## Citation
 
 Abdelghani, R., Kaiser, P., & Murayama, K. (2026). [*Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use*](https://arxiv.org/abs/2606.08568).

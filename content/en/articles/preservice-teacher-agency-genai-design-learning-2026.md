@@ -35,19 +35,5 @@ confidence: high
 - The study captures a one-time interaction with a GenAI bot; repeated or longitudinal measures were not collected.
 - The agency indicators are proxies with known weaknesses: interaction length may reflect verbosity rather than engagement, ownership was measured only at task-execution level, and the proactive/reactive classification of collaborative problem-solving behavior was the authors' own extension.
 - Some utterances were difficult to categorize, yielding substantial but not perfect inter-rater reliability (κ = 0.70).
-## Connected Concepts
-- [[agency]]
-- [[teacher-education]]
-- [[tpack]]
-- [[learning-design]]
-- [[scaffolding]]
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-
-## Connected Articles
-- [intelligent-tpack-ethics-teachers-trust-distrust-2026] — ethical and trust dimensions of Intelligent-TPACK
-- [reclaiming-epistemic-agency-co-agency-2026] — epistemic agency and human–AI co-agency
-- [teacher-student-agency-orchestration] — orchestration of agency between teachers and students
-
 ## Citation
 Krushinskaia, K., Elen, J., & Raes, A. (2026). [Pre-service teachers' agency during their interactions with generative AI while designing for learning – a process view on Intelligent-TPACK](https://doi.org/10.1016/j.caeo.2026.100325). *Computers and Education Open, 10*, 100325.

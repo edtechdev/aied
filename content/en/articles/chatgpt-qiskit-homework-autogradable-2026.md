@@ -55,28 +55,6 @@ Third, **hidden grading is not hidden problem information**: hidden deterministi
 - No human participants were studied, so the work measures no student behavior, learning, motivation, or over-reliance, and there was no randomized baseline or ablation isolating the contribution of any single deterrence layer.
 - The study answers only for ChatGPT: exact model labels and dates were preserved for the nine archived sessions but not uniformly across the others, and rapid model and Qiskit changes limit temporal reproducibility.
 
-## Connected Concepts
-
-- [[cs-education]]
-- [[academic-integrity]]
-- [[automated-assessment]]
-- [[generative-ai]]
-- [[assessment]]
-- [[llm]]
-- [[physics-education]]
-- [[formative-assessment]]
-- [[prompt-engineering]]
-- [[student-ai-interaction]]
-
-## Connected Articles
-
-- [[zhan-chapman-genai-cs-education-2026]] — Harnessing generative AI in computer science education: pedagogical innovation, ethics, and the future of assessment
-- [[reshaping-cs-education-genai]] — Reshaping undergraduate computer science education in the generative AI era
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of generative AI
-- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching intro AI when the tools can do the homework
-- [[ai-tools-academic-work-cheating-2026]] — Is using AI tools for academic work cheating? Student perceptions and impact on academic performance
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
-
 ## Citation
 
 Kaltchenko, A., & Tiwana, G. (2026). [*ChatGPT Solves All Tested Qiskit Homework Assignments*](https://arxiv.org/abs/2608.19707).

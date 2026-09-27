@@ -69,27 +69,6 @@ The argument is ultimately one of social investment. Successful GenAI integratio
 - Several supporting arguments rest on unresolved evidence: the legal cases discussed (including Kato v. Palo Alto Unified School District) were ongoing at the time of writing, and the Norway and Denmark policy positions were still being implemented and evaluated.
 - The high relational intensity of the model may be difficult to sustain in larger classrooms without additional staffing or revised scheduling, and transferability to other FET contexts, jurisdictions, and educator populations remains untested.
 
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[neurodiversity]]
-- [[adult-learning]]
-- [[well-being]]
-- [[digital-divide]]
-- [[ai-misuse-learning-harm]]
-
-## Connected Articles
-
-- [[genai-over-reliance-learning-2026]]
-- [[cognitive-offloading-llm-synthesis-writing]]
-- [[digital-literacy-illusion]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[access-not-enough-ai-tutoring-2026]]
-- [[genai-can-harm-teaching-rct-2026]]
-
 ## Citation
 
 Herron, M. B. (2026). [*Atmospheric regulation in the age of generative AI: The sovereign hive and the tutor-in-the-loop (TITL) framework for equity in further education*](https://osf.io/preprints/edarxiv/jqaxz_v1/). EdArXiv preprint.

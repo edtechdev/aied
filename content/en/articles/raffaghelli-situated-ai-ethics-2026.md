@@ -49,15 +49,6 @@ The situated AI ethics framework offers a way to move AI ethics in education bey
 - All seven cases (Australia, Finland, England, France, Italy, New Zealand, South Korea) come from high- or upper-middle-income systems, with none from the Global South whose knowledge the paper itself argues is marginalized.
 - The authors present the five ecological levels as a useful structure for discussion rather than a claim that they are distinct, so the model still awaits empirical operationalization.
 
-## Connected Concepts
-
-- [[ethics]]
-- [[ai-education]]
-- [[teacher-ai-competency]]
-- [[learning-theories]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-
 ## Citation
 
 Raffaghelli, J. E., Vartiainen, H., Bower, M., Ronci, M., Shelton, C., MacCallum, K., Lee, J., Webb, M., Chtouki, Y., & Smith, D. (2026). [*Situated AI ethics: a cultural-historical and ecological framework for education*](https://doi.org/10.1016/j.caeo.2026.100368). *Computers and Education Open*, 11, 100368. doi:10.1016/j.caeo.2026.100368.

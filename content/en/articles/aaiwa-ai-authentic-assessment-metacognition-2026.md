@@ -48,20 +48,6 @@ page_kind: [evaluation]
 - The 75 pre-service teachers were clustered in three Indonesian universities and the authors report no multilevel modeling for that institutional clustering; the findings are bounded to Indonesian teacher education.
 - Measurement is self-report and single-rater: prior AWE experience and metacognitive reflection came from self-report (MRI Cronbach's α = 0.84; ICC(2,1) = .87), qualitative themes came from just 15 of the 75 participants, and one applied linguist rater reviewed feedback for cultural-linguistic bias, with the authors calling for a differential item functioning analysis.
 
-## Connected Concepts
-
-- [[authentic-assessment]]
-- [[feedback]]
-- [[metacognition]]
-- [[teacher-education]]
-
-## Connected Articles
-
-- [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback
-- [[gpt-human-rater-essay-assessment-2026]] — GPT vs. human raters in essay assessment
-- [[chatgpt-academic-writing-quality-ownership-2026]] — ChatGPT in academic writing
-- [[genai-group-writing-strategies-2026]] — Group strategies for GenAI collaborative writing
-
 ## Citation
 
 Oktoma, E., Nugraha, D., & Hidayat, A. (2026). [*AI-mediated authentic assessment and metacognitive reflection: A mixed-methods study of the AAIWA model*](https://doi.org/10.1016/j.caeo.2026.100395). *Computers and Education Open*, 100395. https://doi.org/10.1016/j.caeo.2026.100395

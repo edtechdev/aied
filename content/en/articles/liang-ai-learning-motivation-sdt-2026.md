@@ -43,24 +43,6 @@ Liang, Chiu, Yau, Meng, Yam, Chai & King (2026) extend Self-Determination Theory
 - Curriculum fidelity and exact instructional methods were not systematically observed across the 53 schools, and no school-level contextual indicators (socioeconomic composition, academic performance, infrastructure) were collected.
 - There was no control or comparison group, so the AI literacy gains cannot be attributed causally to the AI curriculum.
 
-## Connected Concepts
-
-- [[self-determination-theory]]
-- [[motivation]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[student-engagement]]
-- [[self-efficacy]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[niri-steam-ai-literacy-review-2026]] — AI literacy review across STEAM education
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy interventions
-- [[ai-literacy-assessment-misalignment]] — Self-reported vs. performance-based AI literacy
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — SDT and student engagement with GenAI
-
 ## Citation
 
 Liang, S., Yau, K. W., Meng, H., Chiu, T. K. F., Yam, Y., Chai, C. S., & King, I. (2026). [*From disengaged to self-determined: a latent transition analysis of students' AI learning motivation*](https://doi.org/10.1007/s10639-026-13998-y). *Education and Information Technologies*.

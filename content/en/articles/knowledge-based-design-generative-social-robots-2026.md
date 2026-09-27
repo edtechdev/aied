@@ -35,25 +35,9 @@ This is a **[[qualitative-research|qualitative]] interview study**. The [[resear
 - **Administrators.** Adopt privacy-by-design defaults before piloting: require informed consent, keep personal data out of model training, let students control what the robot may perceive, and prefer locally deployable models in strict data-protection settings.
 - **Researchers.** Test the requirements in an implementation study: the twelve requirements were identified but not yet empirically validated, so their contribution relative to embodiment and adaptivity remains unmeasured.
 
-
 ## Limitations
 
 The findings derive from twelve interviews in a specific higher-education context, so they may not generalize across disciplines, institutions, or learner populations. The design requirements are identified but not yet fully validated through implementation and evaluation. The focus is on the knowledge prerequisites of tutoring robots rather than on broader social-robot design or measured [[learning-gains|learning outcomes]].
-
-## Connected Concepts
-
-- [[educational-robotics]]
-- [[generative-ai]]
-- [[llm]]
-- [[higher-ed]]
-- [[intelligent-tutoring]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini: A Knowledge-Based Generative Social Robot
-- [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
-- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
 
 ## Citation
 

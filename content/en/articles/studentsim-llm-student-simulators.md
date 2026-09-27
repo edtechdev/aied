@@ -44,22 +44,5 @@ Behavioral fidelity and guidance responsiveness capture a student's state and it
 - The tutor-optimization proof of concept is limited to a single domain (chess) and uses the pooled Stage-1 simulator, so the tutor is optimized for students in general rather than any individual's idiosyncrasies.
 - The human evaluation of the trained tutor rests on 74 annotations from 8 expert annotators, and behavioral fidelity and guidance responsiveness capture only a student's state and its one-step update under guidance, not acquisition, retention, or forgetting over time.
 
-## Connected Concepts
-- [[simulating-students]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[ai-education]]
-
-## Connected Articles
-- [[inside-llm-student-simulator-reasoning-2026]] — Inside an LLM Student Simulator's Reasoning
-- [[history-aware-student-simulation]] — History-Aware Student Simulation
-- [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: Multi-Agent Simulation in Education
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: Student Cognitive Evolution Agent
-- [[deeptutor]] — DeepTutor
-
 ## Citation
 Yang, K., Wang, C., Galley, M., Zhai, C., Singh, C., Inala, J. P., Gao, J. (2026). [StudentSim: Training LLM-based Student Simulators](https://arxiv.org/abs/2609.01591). arXiv:2609.01591.

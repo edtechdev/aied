@@ -42,25 +42,6 @@ A [[quantitative-research|quantitative research]] design was used with data from
 - All measures are self-report.
 - The integration of three theories, while comprehensive, relies on the specific operationalization of autonomy support and autonomous motivation for AI use developed for this context.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-engagement]]
-- [[higher-ed]]
-- [[personalized-learning]]
-- [[student-experience]]
-- [[self-report-measures]]
-
-## Connected Articles
-
-- [[ai-availability-student-motivation]] — "Why Put in This Much Effort?": How AI Availability Shapes Students' Motivation
-- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns
-- [[same-ai-different-pathways]] — Same AI, Different Pathways: Unpacking Mechanisms of AI-Mediated Learning
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains From Learning When Using Generative AI
-- [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI
-
 ## Citation
 
 Ahmed, A., & Sultan, A. (2026). [*Examining the impact of generative AI on student motivation and engagement: The mediating role of autonomy-support and autonomous motivation in education*](https://doi.org/10.3389/fpsyg.2026.1852265).

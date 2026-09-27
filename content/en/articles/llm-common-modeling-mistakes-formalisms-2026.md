@@ -91,31 +91,5 @@ The paper concludes that the workflow recovers many known propositional logic mi
 - Coverage is uneven across formalisms — 84.44% of the 6,106 propositional-logic pairs and 79.39% of the modal logic pairs, but only 35.89% of the CTL pairs — and the authors attribute the CTL gap to the data set rather than the method.
 - All experiments used one model (GPT-OSS-120B) with a batch size of 50 and a fixed termination rule, and the CTL data came from two iterations of a single introductory logic course (summer 2025 and 2026), so cross-model and cross-course robustness are untested.
 
-## Connected Concepts
-- [[cs-education]]
-- [[misconceptions]]
-- [[cognitive-diagnosis]]
-- [[feedback]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[llm]]
-- [[generative-ai]]
-- [[learning-analytics]]
-- [[math-education]]
-- [[visualization]]
-- [[intelligent-tutoring]]
-- [[problem-solving]]
-
-## Connected Articles
-- [[llm-student-misconception-identification]] — Using LLMs to identify and characterize student misconceptions
-- [[correct-answer-trap-misconceptions]] — The Correct Answer Trap: detecting hidden misconceptions and giving feedback
-- [[student-misconceptions-conditionals-loops-taxonomy]] — How students (mis)understand conditionals and loops: a taxonomy
-- [[llm-student-simulation-misconception-faithfulness]] — Misconception faithfulness of LLM student simulators
-- [[prompt-problems-nl-programming-mistakes]] — Student mistakes and debugging in natural language programming tasks
-- [[llm-adaptive-programming-error-explanations-2026]] — LLMs for adaptive explanations of programming errors
-- [[yasir-llm-tutoring-agents-2026]] — LLM tutoring agents struggle where feedback matters most
-- [[hazel-prover-classroom-proof-assistant-2026]] — Hazel Prover: a classroom proof assistant for structural induction
-- [[visual-query-tracer-declarative-logic-learning]] — A visual query tracer and builder for declarative logic programming
-
 ## Citation
 Killich, L., Schmellenkamp, M., Vehlken, F., & Zeume, T. (2026). [*Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs*](https://arxiv.org/abs/2609.17111). arXiv preprint.

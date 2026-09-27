@@ -55,26 +55,6 @@ The most striking insight is the gap between students' accounts and their artifa
 - **Seven interviewees** did not bring historical interactions, so part of the evidence rests on recreated interactions or completed texts rather than traceable GenAI history.
 - Interpretation stayed contested within the team: on one student's reliance, one member argued the trade-off to learning might be offset by more consistent longer-term study, while others felt it was almost inevitably precluding learning.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[academic-integrity]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[ai-misuse-learning-harm]]
-
-## Connected Articles
-
-- [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use (evaluative integration vs low-verification uptake)
-- [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI use and disclosure
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI-generated exams and assessment quality
-- [[qu-wang-disclose-or-not-genai-2026]] — Disclosure and peer influence in GenAI use
-
 ## Citation
 
 Walton, J., Bearman, M., Crawford, N., Tai, J., & Boud, D. (2025). [*How university students work on assessment tasks with generative AI: matters of judgement*](https://doi.org/10.1080/02602938.2025.2570328). *Assessment & Evaluation in Higher Education*.

@@ -6,7 +6,6 @@ type: article
 foundations: [agency]
 pedagogy: [collaborative-learning]
 technology: [generative-ai]
-connected_faqs: [group-work-ai]
 methods: [qualitative-research]
 research_method: [interviews]
 discipline: [writing education]
@@ -46,21 +45,6 @@ audience: [instructors, researchers]
 - The sample is AI-expert by design, which the authors say gives insight into advanced patterns of Gen-AI use that may not yet be observable among less experienced users.
 - Data are 30-minute interview accounts plus written reflections, which conflicted on at least one occasion, so reported strategies are self-report and the motivation behind AI use is, by the authors' own observation, more complex than students articulate.
 - Three themes from exploratory thematic coding of one assignment are context-specific rather than a comprehensive taxonomy of collaborative Gen-AI use.
-
-## Connected Concepts
-
-- [[writing-education]]
-- [[collaborative-learning]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[agency]]
-
-## Connected Articles
-
-- [[chatgpt-academic-writing-quality-ownership-2026]] — ChatGPT in academic writing
-- [[genai-literary-assistants-writing-motivation-2026]] — GAI literary assistants and writing motivation
-- [[gpt-human-rater-essay-assessment-2026]] — GPT vs. human raters in essay assessment
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment
 
 ## Citation
 

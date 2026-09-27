@@ -32,21 +32,6 @@ page_kind: [evaluation]
 - Evaluation covers three English benchmarks with seven to eight rubric concepts each, and the authors leave multilingual assessment, domain-specific rubrics, and educator-in-the-loop rubric refinement to future work.
 - The framework is sensitive to tuning: the learning-rate search had to be restricted to a narrow 1e-5 to 1e-4 band because larger rates destabilize rubric-aware token attention before calibration can take effect.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[llm]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[scaffolding]]
-- [[automated-essay-scoring]]
-- [[educational-measurement]]
-- [[human-in-the-loop-ai]]
-## Connected Articles
-
-- [[genai-assessment-governance]]
-- [[cong-confidence-asag-2026]]
-- [[ground-truth-reliability-aied]]
 ## Citation
 
 Chengshuai Zhao, Fan Zhang, Kumar Satvik Chaudhary, Yiwen Li, Lo Pang-Yun Ting, Ying-Chih Chen, Huan Liu (2026). [REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading](https://arxiv.org/abs/2605.27402). arXiv preprint.

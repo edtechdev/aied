@@ -62,31 +62,5 @@ AI supplies an immediate "resource scaffold" of lexical choices students did not
 - DeepSeek is named without a version identifier, and consent ran 14 March to 27 March 2025; results describe a superseded model generation — a 2025 snapshot.
 - Intact classes rather than random assignment, and the second-task between-group difference did not reach significance; score findings rest on within-group change.
 
-## Connected Concepts
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[peer-assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[automated-essay-scoring]]
-- [[writing-education]]
-- [[language-learning]]
-- [[student-ai-interaction]]
-- [[motivation]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[research-methods-aied]]
-
-## Connected Articles
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
-- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
-- [[farrokhnia-genai-feedback-student-revisions-2026]] — Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions
-- [[irwin-muller-efl-peer-feedback-literacy]] — Positioning Generative AI in EFL Peer Feedback: Training Feedback Literacy and Enabling Uptake in Speaking Classes
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Leveraging generative AI to facilitate peer feedback in collaborative argumentation learning
-- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — Empowerment over enforcement: unpacking the psychological drivers of AI-assisted deep revision in EFL writing
-
 ## Citation
 Tang, J., Li, P., & Luo, R. (2026). [*Teacher feedback vs. AI-assisted peer feedback in L2 writing: A quasi-experimental study in a Chinese university*](https://doi.org/10.1371/journal.pone.0345976). *PLOS ONE*.

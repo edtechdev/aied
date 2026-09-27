@@ -74,33 +74,6 @@ For construct validity, the authors' framing is that the techno-centric imbalanc
 - The analysis works on constructs as researchers define them rather than on how respondents actually read items, so the flagged fallacies are hypotheses about intended meaning; the authors propose cognitive interviews or think-aloud protocols as the empirical follow-up.
 - The framework was applied only to English-language materials, with [[multilingual-learning|multilingual]] extension left as future work to test whether the patterns generalize across cultural and linguistic contexts; the authors also declare that Claude was used for language editing only, with all [[research-methods-aied|research design]], analysis and interpretation done by the authors.
 
-## Connected Concepts
-
-- [[ai-literacy]] — the contested construct whose measurement landscape the paper maps
-- [[assessment-validity]] — content validity, construct underrepresentation and label-to-item alignment as the paper's central concern
-- [[educational-measurement]] — scale quality, Cronbach's alpha and the cross-instrument comparison problem
-- [[psychometrically-aware-ai]] — using LLM embeddings as a psychometric instrument and validating them against known psychometrics
-- [[llm]] — sentence embeddings as the analytic tool, with explicit warnings about model selection and domain fit
-- [[self-report-measures]] — the corpus is restricted to self-report scales with item-level wording and reported internal consistency
-- [[stakeholders]] — population-contingent patterning across students, teachers, medical trainees, users and the general public
-- [[equity-in-ai-education]] — which competences get measured, and whose AI literacy ends up represented in the instruments
-- [[self-efficacy]] — an explicitly absent construct in adult-oriented instruments despite its prevalence in student scales
-- [[collaborative-learning]] — a construct family with no semantic core across instruments
-- [[motivation]] — the domain where jangle fallacies concentrate, with intrinsic motivation items collapsing into perceived utility
-- [[meta-analysis-systematic-review]] — the corpus source and the synthesis problem that semantic incommensurability creates
-
-## Connected Articles
-
-- [[ai-literacy-assessment-misalignment]] — Directly on the gap between what AI literacy assessments claim and what they measure
-- [[competent-generative-ai-use-measures-review-2026]] — A review of measures for competent generative AI use, complementing this instrument corpus
-- [[xiong-ai-educational-measurement-review-2026]] — Broader review of AI in educational measurement, situating LLM-based psychometrics
-- [[genai-assessment-literacy-scale-2026]] — Scale development for generative AI assessment literacy, an instance of the corpus type under study
-- [[questionnaire-teachers-genai-uses-validation-2026]] — Instrument validation for teachers' generative AI use, with the label-to-item questions this paper raises
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI literacy, a construct family the semantic map finds dispersed and coreless
-- [[ai-literacy-continuum-higher-education]] — How AI literacy is staged across higher education, one of the target populations analyzed here
-- [[sec-ai-literacy-narrative-review-2026]] — Narrative review mapping the AI literacy construct space from the literature side
-- [[niri-steam-ai-literacy-review-2026]] — AI literacy review across STEAM contexts, another route to the fragmentation problem
-
 ## Citation
 
 He, X., Zhang, X., Wang, C., & Ji, F. (2026). [*Clarifying the conceptual landscape in AI literacy measurement: A large language model based approach*](https://doi.org/10.31234/osf.io/hz4ak_v2). *PsyArXiv Preprints*.

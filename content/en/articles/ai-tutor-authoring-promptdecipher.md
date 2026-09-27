@@ -53,24 +53,6 @@ The paper presents an interactive demonstration plan in which attendees author a
 - The pipeline delegates intent inference and prompt rewriting to an [[llm]] and validates changes against previously passed test scenarios, with no reported benchmark of how accurately the inferred intent matches what the teacher intended.
 - The conference demonstration collects only informal feedback from attendees, so no measured usability or quality-assurance outcome is reported.
 
-## Connected Concepts
-
-- [[teacher-role]]
-- [[tpack]]
-- [[intelligent-tutoring]] — AI tutoring chatbots that teachers author
-- [[pedagogical-safety]] — ensuring tutors are safe before deployment
-- [[educational-development]] — building teacher capacity for AI authoring
-- [[llm]] — the models behind AI tutor interactions
-- [[prompt-engineering]] — system-prompt rewriting from teacher corrections
-- [[human-in-the-loop-ai]] — teacher QA as a first-class activity
-- [[agentic-ai]] — AI-scaffolded workflows for human roles
-## Connected Articles
-
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[agentic-workflows-education]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[prompt-coach-agentic-tutor-prompt-engineering]] — Coaching tutors to engineer prompts effectively
 ## Citation
 
 Koyama, M., Xiao, R., & Stamper, J. (2026). [*PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions*](https://arxiv.org/abs/2605.16605). In Proceedings of the 13th ACM Conference on Learning @ Scale (L@S '26).

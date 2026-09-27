@@ -43,27 +43,6 @@ Whereas most current ITS function, in essence, as interactive and adaptive probl
 - The components it keeps are themselves limited: knowledge tracing and related modeling remain constrained in accurately diagnosing students' knowledge states, which bounds how reliably a generative tutor can adapt to a learner.
 - The framework supplies no effect sizes, deployment thresholds, or cost figures, so it can support architecture and study design but cannot tell an institution whether a given conversational tutor will improve learning.
 
-## Connected Concepts
-
-- [[knowledge-tracing]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[affective-tutoring]]
-- [[scaffolding]]
-- [[pedagogical-agent]]
-- [[pedagogical-llm-training]]
-- [[formative-assessment]]
-- [[agency]]
-- [[student-modeling]]
-
-## Connected Articles
-
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[chen-teacharena-language-agents-realistic-teaching-2026]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
-- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
-- [[ai-stem-bibliometric-trends]] — Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-
 ## Citation
 
 Kirk Vanacore et al. (2026). [The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents](https://arxiv.org/abs/2602.19303).

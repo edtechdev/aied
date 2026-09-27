@@ -40,28 +40,6 @@ The authors administered an online survey to higher education students who use G
 - **Trust measured with two items.** The distrust construct rested on two items only, capturing skepticism toward the technology and lack of trust in its outputs.
 - **Two moderation paths left unresolved.** Hypotheses H6c and H6e returned positive but non-significant coefficients, which the authors say warrant [[qualitative-research|qualitative]] work, larger samples or experimental designs.
 
-
-## Connected Concepts
-
-- [[higher-ed]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[human-in-the-loop-ai]]
-- [[ai-detection]]
-- [[human-ai-collaboration]]
-- [[trust]]
-- [[generative-ai]]
-- [[academic-integrity]]
-
-## Connected Articles
-
-- [[student-mental-models-genai]] — Uncovering Students' Mental Models of Generative Artificial Intelligence
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
-
 ## Citation
 
 Razmerita, L., Zheng, X., & Allen, J. P. (2026). [*Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust*](https://doi.org/10.1016/j.caeai.2026.100625).

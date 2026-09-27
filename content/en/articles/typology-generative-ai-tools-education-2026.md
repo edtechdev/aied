@@ -16,8 +16,6 @@ page_kind: [framework]
 source_url: https://osf.io/preprints/edarxiv/4eqrk_v1/
 sources: ['raw/papers/typology-generative-ai-tools-education-2026.md']
 confidence: high
-connected_resources: [gemini-notebook]
-connected_faqs: [study-with-ai, ai-save-instructor-time]
 contributors: [editor]
 reviewed_by: [editor]
 ai_assist:
@@ -87,16 +85,6 @@ Nothing in the list speaks to learning outcomes, cost of ownership, privacy term
 - **Self-reported nominations set a deliberately low bar.** Two independent mentions are enough for inclusion, and the authors present the list as tools with "at least minimal traction," not as evidence of institutional adoption.
 - **The free-version criterion excludes a whole class of tools.** Institution-licensed platforms, textbook-integrated assistants and tools that require a school account are absent by construction, so the typology under-represents the tools that districts and universities may actually have available.
 - **The evidence is about use, not effect.** No outcome, cost, [[privacy]] or [[accessibility]] data were collected, and the authors position the list as a starting point for [[critical-thinking|critical evaluation]] rather than a recommendation.
-
-## Connected Concepts
-[[ai-education]], [[generative-ai]], [[edtech-platform]], [[ai-literacy]], [[ai-technologies]], [[llm]], [[intelligent-tutoring]], [[creativity]], [[equity-in-ai-education]], [[agency]]
-
-## Connected Articles
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education
-- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students (Politecnico di Milano, 2025/2026)
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Generative Artificial Intelligence (GAI) in Teaching and Learning Processes at the K-12 Level: A Systematic Review
 
 ## Citation
 

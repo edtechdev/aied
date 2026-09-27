@@ -52,25 +52,6 @@ The two most frequent comparison themes were the nature of the feedback **inform
 - All respondents came from four Australian universities, and Australian higher education may differ from other contexts.
 - The survey ran before most students had experienced GenAI feedback grounded in their curriculum or assignment resources, a development the authors expect could change perceptions significantly.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[feedback]]
-- [[trust]]
-- [[ai-feedback-quality]]
-- [[help-seeking]]
-## Connected Articles
-
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative a...
-- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
-- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers' practices and perceptions
-- [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-
 ## Citation
 
 Henderson, M., Bearman, M., Chung, J., Fawns, T., Buckingham Shum, S., Matthews, K. E., & de Mello Heredia, J. (2026). [*Comparing Generative AI and teacher feedback: Student perceptions of usefulness and trustworthiness*](https://doi.org/10.1080/02602938.2025.2502582). *Assessment & Evaluation in Higher Education*, 51(5), 863–878

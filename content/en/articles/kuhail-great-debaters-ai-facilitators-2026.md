@@ -72,21 +72,6 @@ The paper also flags what the design cannot show: language models struggle with 
 - Data came solely from quantitative self-reports, so the reasons behind the similar ratings, including trust and novelty, remain unexplained.
 - The AI moderator used GPT-4 and the debates were text-only, so findings do not extend to other models or to multimodal cues such as tone and body language.
 
-## Connected Concepts
-
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[collaborative-learning]]
-- [[student-engagement]]
-- [[conversational-ai]]
-- [[technology-acceptance-model]]
-## Connected Articles
-
-- [[llm-facilitation-timing-online-discussions]] — asks when AI should intervene in online discussions, the timing question that sits behind this paper's moderator-role comparison.
-- [[peer-group-vs-ai-feedback-2026]] — another direct human versus AI comparison in higher education, showing students split rather than uniformly favoring one source.
-- [[ai-agents-constructive-conflict-design-education-2026]] — an AI agent steering learner disagreement and discourse in a higher-ed experiment, adjacent to AI-managed discussion.
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — treats LLMs as collaborative learning partners in argumentative work, the peer-facing version of the facilitation studied here.
-
 ## Citation
 
 Kuhail, Mohammad Amin; Dahu, Butros M.; Kittur, Javeed; Thornquist, Erik. (2026). *[The Great Debaters Meet the Great Facilitators: How Debate Students Evaluate Human Moderators and Their AI Counterparts](https://doi.org/10.1002/jcal.70319)*. Journal of Computer Assisted Learning, 42, e70319. https://doi.org/10.1002/jcal.70319

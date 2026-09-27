@@ -40,20 +40,6 @@ This is a **platform development and evaluation study**. The [[research-methods-
 - The simulation environment (CoppeliaSim) and the specific LLM integration may not generalize to physical robots or other platforms.
 - The two interaction models (direct vs. autonomous control) may trade off differently across learner levels and tasks.
 
-## Connected Concepts
-
-- [[educational-robotics]]
-- [[llm]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[simulation]]
-
-## Connected Articles
-
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio: Conversational Block Programming
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks: Project-Based Robotics
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI in Cybersecurity Education
-
 ## Citation
 
 Lu, S., & Zhang, L. (2026). [*EduSim-LLM: An educational platform integrating large language models and robotic simulation for beginners*](https://arxiv.org/abs/2601.01196).

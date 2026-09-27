@@ -36,24 +36,6 @@ methods: [ai-ed-evaluation, benchmark]
 - Evaluation used a single dataset, SciEntsBank, and the authors call for diverse domains, model sizes, and annotation schemes before generalizing.
 - Consistency-based confidence came from 5 samples per item at temperatures between 0.2 and 1.0, a narrow sampling budget for estimating instability.
 - No educator study is reported, so how teachers interpret and act on confidence estimates in real grading workflows remains unknown.
-## Connected Concepts
-
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[psychometrically-aware-ai]]
-- [[rag]]
-- [[human-in-the-loop-ai]]
-- [[assessment]]
-## Connected Articles
-
-- [[short-answer-scoring-quality-degradation]] — Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specifi...
-- [[confidence-aware-student-drawing-assessment]] — Confidence-Aware Automated Assessment of Student-Drawn Scientific Models
-- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
-- [[hybrid-e-assessment-semi-automated-grading]]
-- [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback
-- [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
 ## Citation
 
 Cong, L., Hahn, S., Gombert, S., Camus, L., Drachsler, H., & Kroehne, U. (2026). [*Confidence Estimation in Automatic Short Answer Grading with LLMs*](https://arxiv.org/abs/2605.00200).

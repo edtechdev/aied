@@ -44,21 +44,6 @@ level: [higher ed]
 - The rater pool was 20 people (10 NES from the UK, 10 NNES from Taiwan, all CEFR C1+), and the study did not test fairness across learner subgroups such as L1 background or proficiency band, so subgroup-level bias cannot be ruled out.
 - Only score-level alignment was examined; the interpretability, explanation consistency and decision traceability of GPT's reasoning were not assessed.
 
-## Connected Concepts
-
-- [[automated-essay-scoring]]
-- [[assessment]]
-- [[llm]]
-- [[writing-education]]
-- [[language-learning]]
-
-## Connected Articles
-
-- [[llm-automated-grading-programming-comparison-2026]] — LLM grading in programming education
-- [[chatgpt-academic-writing-quality-ownership-2026]] — ChatGPT in academic writing
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment
-- [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback
-
 ## Citation
 
 Wu, H.-N., Chu, M.-N., & Hsu, J.-L. (2026). [*Comparing GPT and human raters in essay assessment: Variability, bias, and the potential of LLM-based scoring*](https://doi.org/10.1016/j.caeo.2026.100341). *Computers and Education Open*, 100341. https://doi.org/10.1016/j.caeo.2026.100341

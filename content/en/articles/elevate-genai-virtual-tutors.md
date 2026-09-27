@@ -59,23 +59,6 @@ ELEVATE is a framework plus a working reference prototype deployed in a real-wor
 - The deployment spans two local machines with GPUs from different generations (RTX 5060 Ti 16 GB and RTX 3060 12 GB), and the authors note that end-to-end responsiveness is bounded by the heaviest stage on the weakest resource: longer explanations may delay under the baseline configuration, and the queue can become a bottleneck with concurrent students, risking "noisy neighbor" effects without a queueing policy and admission control.
 - The conversation session is held in memory with no persistence, so continuity is lost after client restarts, and the authors note that adding persistence introduces governance requirements around retention, consent and access control. Embodiment itself is also a barrier for some learners, such as those with sensory sensitivities or discomfort with anthropomorphic agents, which makes avatar configuration a strong requirement rather than a preference.
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[equity-in-ai-education]]
-- [[k-12]]
-- [[privacy]]
-- [[personalized-learning]]
-## Connected Articles
-
-- [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
-- [[gaze-informed-ai-children]] — Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
-- [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education
-- [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-- [[lecturaagents-multi-agent-teaching]] — LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching
-
 ## Citation
 
 Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni (2026). [ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education](https://arxiv.org/abs/2606.30662). submitted 17 Jun 2026

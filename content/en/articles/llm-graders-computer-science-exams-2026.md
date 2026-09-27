@@ -63,34 +63,6 @@ Because two humans graded every submission, labels existed. One LoRA adapter per
 - Grading is static and nothing is executed, so "does not run" verdicts are unaudited.
 - Coverage is uneven: no rigorous or exacting persona appears outside Gemini.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[ai-ed-evaluation]]
-- [[assessment-validity]]
-- [[cs-education]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[human-in-the-loop-ai]]
-- [[summative-assessment]]
-- [[peer-assessment]]
-- [[educational-measurement]]
-- [[psychometrically-aware-ai]]
-- [[bias-mitigation]]
-- [[transfer-of-learning]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[llm-automated-grading-programming-comparison-2026]] — A systematic comparison of Large Language Models for automated assignment assessment in programming education
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
-- [[pecuchova-automated-grading-open-ended-genai-2026]] — Automated Grading of Open-Ended Questions in Higher Education Using GenAI Models
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs Do Not Grade Essays Like Humans
-- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline
-- [[usher-faraon-who-grades-best-2026]] — Who grades best? Comparing ChatGPT, peer, and instructor evaluations across varying levels of student project quality
-- [[short-answer-scoring-quality-degradation]] — Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation
-
 ## Citation
 
 Habibullah, A., Alshoibi, Y., Alshiekh, M., Khan, S., & Khan, N. (2026). [*Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams*](https://arxiv.org/abs/2609.29333). arXiv preprint.

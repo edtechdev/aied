@@ -62,30 +62,6 @@ Both human annotators and agents concentrated revisions on the **mid-range level
 
 Human coders had access to video (tone, timing, nonverbal cues) while LLMs were text-only, potentially undercutting the machines' sensitivity to [[multimodal]] aspects of engagement. Framework refinement also differed: humans refined across three staged phases with consensus discussion, whereas agents refined at every iteration in isolation — an asymmetry that may partly explain the human–machine gap. Future work should test fine-tuning on human-refined data and explore hybrid human–agent and fully multi-agent annotation systems.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[collaborative-learning]]
-- [[educational-nlp]]
-- [[feedback]]
-- [[higher-ed]]
-- [[human-in-the-loop-ai]]
-- [[icap-framework]]
-- [[learning-analytics]]
-- [[llm]]
-- [[multimodal]]
-- [[student-ai-interaction]]
-- [[student-engagement]]
-
-## Connected Articles
-
-- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
-- [[llm-facilitation-timing-online-discussions]] — To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy Framework
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication
-- [[prober-ai-inquiry-writing]] — Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing
-
 ## Citation
 
 Do, L. A., Jiang, H., Aeron, S., & Thomas, A. K. (2026). [Measuring cognitive engagement in collaborative discourse with an extended ICAP framework](https://arxiv.org/abs/2607.28651). *CogSci 2026*.

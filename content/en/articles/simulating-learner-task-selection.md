@@ -63,31 +63,6 @@ The awkward question is what to do about that, and the authors note it is expens
 - Motivational, [[metacognition|metacognitive]] and affective factors are deliberately excluded, so the model has no way to represent a learner who gives up, gets bored, or becomes more confident.
 - Alternative paradigms are not modeled — direct problem selection, multi-task selection, or fully system-driven sequencing — and the two datasets cover two domains only, so the framework's behavior under other skill structures is untested, and by the authors' own account it remains open whether learners *perceive* differing constraint levels or whether visible constraints erode the autonomy benefits that motivated shared control.
 
-## Connected Concepts
-
-- [[simulating-students]]
-- [[intelligent-tutoring]]
-- [[mastery-learning]]
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[agency]]
-- [[simulation]]
-- [[self-determination-theory]]
-- [[metacognition]]
-- [[learning-analytics]]
-- [[student-engagement]]
-- [[k-12]]
-
-## Connected Articles
-
-- [[simulating-students-llm-review-2026]] — Review of LLM-based student simulation
-- [[valid-student-simulation-llm-2026]] — Validity of LLM student simulation
-- [[nie-personavlm-long-term-personalization-2026]] — Memory in LLM-based student modeling
-- [[engagement-forecasting-its]] — Forecasting engagement in intelligent tutoring systems
-- [[neural-symbolic-knowledge-tracing]] — Neural-symbolic knowledge tracing
-- [[genai-tutor-engagement-patterns]] — Engagement patterns with a GenAI tutor
-
 ## Citation
 
 Noh, H., Chowdhary, A., Ooge, J., Aleven, V., & Borchers, C. (2026). [Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning](https://arxiv.org/abs/2605.21613). arXiv preprint (v2, 25 May 2026).

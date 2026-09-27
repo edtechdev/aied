@@ -11,8 +11,6 @@ research_method: [system development, case study]
 sources: ['raw/papers/2409.03512.md']
 confidence: high
 level: [higher ed]
-connected_faqs: [asynchronous-online-courses-ai]
-connected_resources: [openmaic]
 ---
 
 > **Synthesis:** MAIC (Massive AI-empowered Course) proposes a new paradigm for [[online-teaching-and-learning|online education]] that replaces the MOOC's "one video for N students" broadcast with an LLM-driven multi-agent classroom of "N agents for 1 student." By building all agents on a unified [[llm]] foundation, MAIC balances scalability with adaptivity — and collapses course-production cost from roughly **\$25,000 and 60 hours** per MOOC to **under \$2 and 30 minutes**. Piloted at Tsinghua University across two courses with **100,000+ learning records from 500+ students**, it deploys specialized Teacher, Assistant, Classmate, and Analyzer agents and is released [[open-source|open source]] as **OpenMAIC**.
@@ -69,24 +67,6 @@ MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agenti
 - The Tsinghua pilot covers two courses and 500+ students over three months with no control group; conclusions about engagement rest on initial observation compared with traditional MOOC formats rather than a controlled comparison.
 - Higher-order thinking outcomes were measured only as students' perceived impact on pre- and post-course questionnaires (abstract thinking t = 2.32, p = 0.02; critical thinking t = 2.37, p = 0.02), and the authors state that the abilities themselves were not estimated.
 - Cost and speed figures for course production come from the team's own generation pipeline in this deployment, not from independent measurement, and the paper notes that some inaccuracies in automatically generated content are expected at scale.
-
-## Connected Concepts
-- [[llm]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[pedagogical-agent]]
-- [[agentic-ai]]
-- [[generative-ai]]
-- [[rag]]
-- [[intelligent-tutoring]]
-## Connected Articles
-
-- [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-- [[lecturaagents-multi-agent-teaching]] — LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching
-- [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
 
 ## Citation
 

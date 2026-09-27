@@ -55,27 +55,6 @@ The paper integrates [[adult-learning]] theory with [[cognitive-offloading]], ex
 - The framework's applicability is explicitly gated (task consequentiality, learner discretion), and where goals, methods and AI functions are entirely imposed by an institution it has, in the author's words, reduced explanatory leverage for self-direction.
 - The paper is an EdArXiv preprint and has not been peer reviewed.
 
-## Connected Concepts
-
-- [[self-directed-learning]]
-- [[adult-learning]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[lifelong-learning]]
-- [[generative-ai]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[motivation]]
-
-## Connected Articles
-
-- [[ai-adult-learning-guidelines-dis2026]]
-- [[ai-lifelong-learning-policy]]
-- [[cognitive-offloading-llm-synthesis-writing]]
-- [[genai-over-reliance-learning-2026]]
-- [[agency-gap-ai-writing]]
-
 ## Citation
 
 Hyoung, J. J. (2026). [*What remains self-directed? Revisiting andragogy through cognitive delegation in generative AI-mediated adult learning*](https://osf.io/preprints/edarxiv/dh4mx_v1/). EdArXiv preprint.

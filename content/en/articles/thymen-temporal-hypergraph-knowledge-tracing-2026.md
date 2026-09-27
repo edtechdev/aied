@@ -37,26 +37,6 @@ page_kind: [evaluation]
 - The paper itself notes that the hypergraph's pedagogical richness is only partially operationalized — structural signals such as bridging concepts, concept clusters, and temporal motifs are encoded but not yet translated into instructional guidance.
 - Performance is judged by next-response prediction metrics such as AUC against seven baselines; the claim that trajectories are pedagogically plausible and stable is argued qualitatively rather than validated against learning outcomes.
 
-## Connected Concepts
-
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[cognitive-diagnosis]]
-- [[knowledge-graph]]
-- [[educational-nlp]]
-
-## Connected Articles
-
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
-- [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Meta-Behavioral Knowledge Tracing
-- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
-- [[stanbkt-bayesian-knowledge-tracing]] — Standardized Bayesian Knowledge Tracing
-
 ## Citation
 
 Mohammadi, M., Berahmand, K., Sadiq, S., & Khosravi, H. (2026). [Augmenting knowledge tracing through modeling dynamic higher-order concept interactions: A temporal hypergraph memory network](https://doi.org/10.1016/j.caeai.2026.100616). Computers and Education: Artificial Intelligence, 10, 100616.

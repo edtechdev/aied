@@ -72,29 +72,6 @@ The paper identifies four gaps in existing frameworks:
 - Reported outputs are production counts — a ~3,000-page knowledge base and a 1,267-item risk dataset — not learner outcomes, and no comparison group or alternative curriculum was studied.
 - The motivating figures for the pipeline (roughly 60% hallucination rate on post-cutoff questions, 52–70% correct actions for default LLM tutoring) are cited from prior work, not measured in this program.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[affective-tutoring]]
-- [[intelligent-tutoring]]
-- [[formative-assessment]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[lifelong-learning]]
-- [[llm]]
-- [[professional-training]]
-- [[prompt-engineering]]
-- [[rag]]
-- [[productive-failure]]
-## Connected Articles
-
-- [[skill-diversity-worker-resilience]] — Navigating the skill diversity frontier: How skill complexity explains worker resilience
-- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation
-- [[astra-atco-training-simulator]] — ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots
-- [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
-- [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training
-
 ## Citation
 
 Nguyen, T., Nguyen, H., & Ogburn, R. (2026). [*AI-accelerated End-to-End Framework for Rapid Professional Upskilling*](https://arxiv.org/abs/2607.14044). arXiv preprint.

@@ -56,25 +56,6 @@ This study provides strong empirical grounding for the knowledge base's [[cognit
 - Experiment 1 was powered to detect d = 0.39 — half the effect size reported by Engeler and Gilbert (2020) — and the intervention moved absolute bias but not signed bias, so the effect is modest and directional improvement is unproven.
 - Generalization beyond the reminder-setting paradigm is untested: reminder bias here is a laboratory measure of [[cognitive-offloading|intention offloading]], and the study reports no follow-up on whether more optimal reminder use persists or reaches everyday remembering.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[feedback]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[cognitive-surrender]]
-
-## Connected Articles
-
-- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading (Guo & Ye 2026): the beliefs-vs-experiences framework this study empirically validates
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking (Gerlich 2025)
-- [[coach-not-crutch-ai-writing]] — AI can work less and learn more: the "coach" boundary condition
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Prompt patterns as offloading traces
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitive disengagement in AI-assisted completion
-- [[lodge-loble-cognitive-offloading-2026]] — Cognitive offloading in the AI era
-- [[haiml-human-centered-ai-metacognitive-model-2026]] — A human-centered AI metacognitive model
-
 ## Citation
 
 Ngai, C., & Gilbert, S. J. (2026). [*Metacognitive training facilitates optimal cognitive offloading*](https://doi.org/10.1186/s41235-026-00714-0). *Cognitive Research: Principles and Implications*, 11(21).

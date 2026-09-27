@@ -37,19 +37,6 @@ methods: [mixed-methods-research]
 - The qualitative component rests on seven interviewees drawn from the larger survey, so those findings are illustrative rather than representative of the surveyed teachers.
 - The mediation finding is estimated from the survey model rather than from longitudinal or experimental data, so it cannot establish that strengthening pedagogical knowledge causes gains in TPACK-GenAI.
 
-## Connected Concepts
-
-- [[tpack]]
-- [[teacher-ai-competency]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK in a multi-agent teacher workflow
-- [[edurev-100741-tpack-genai-review]] — TPACK-GenAI review
-- [[preschool-teachers-ai-behavioral-intention-2026]] — teacher behavioral intention to use AI (Duan et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] — pre-service teacher preparation for responsible GenAI use (Kohnke et al. 2026)
-
 ## Citation
 
 [From proficiency to pedagogy: A mixed-methods study of in-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge](https://www.sciencedirect.com/science/article/pii/S2666920X26000834) — Mohebi, L., & ElSayary, A. (2026). *Computers and Education: Artificial Intelligence*, 10, 100599.

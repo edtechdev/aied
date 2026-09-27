@@ -68,23 +68,6 @@ TACTutor is produced through a two-stage post-training process applied to the Qw
 
 The authors are explicit that next-turn response quality is not the same as long-term learning: a locally well-scaffolded response depends for its effect on learner motivation, [[prior-knowledge|prior knowledge]], repeated interaction, and classroom context. A second limitation is label abstraction — a compact taxonomy is useful for training and diagnosis, but real teachers blend instruction, affect, pacing, and rapport in ways not always separable. Third, evaluation coupling means TACTBench is designed around a specified TACT construct, so improvements should be read alongside disaggregated rubric dimensions, judge flags, and external transfer checks rather than as universal proof of better teaching. Future work should measure downstream learner behavior, such as whether subsequent learner turns successfully [[help-seeking|self-repair]], toward trajectory-level training and evaluation centered on learner uptake.
 
-## Connected Concepts
-
-- [[llm]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[pedagogical-llm-training]]
-- [[pedagogical-safety]]
-- [[english-education]]
-
-## Connected Articles
-
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring
-- [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
-
 ## Citation
 
 Yang, D., Lin, S., Shen, L., Sheng, R., Qu, H., & Chen, Z. (2026). [*TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring*](https://arxiv.org/abs/2608.03952v1). v1.

@@ -67,33 +67,6 @@ The limits: one AI tool, one grading scenario, one controlled set of injection t
 - The submission was synthetic and the test space was small: one assignment from a real information-security course, a baseline established by six fail gradings, then 9 iterations per strategy for four attempts and 18 for the fifth, all run on the researcher's own machine in February 2026.
 - Trust and user behavior were not measured; the paper's second research question is answered by inference from demonstrated grade manipulation and from the inconsistent way the tool signaled or suppressed detected attacks, as the author states.
 
-## Connected Concepts
-
-- [[academic-integrity]] — the paper's frame: grading integrity when a submission can instruct its own grader
-- [[assessment-validity]] — a grade obtained through hidden instructions does not measure the learning it claims to measure
-- [[automated-assessment]] — AI-mediated grading as the workflow under attack
-- [[automated-essay-scoring]] — the specific task red-teamed here
-- [[prompt-engineering]] — the same techniques serve quality improvement and adversarial manipulation
-- [[guardrails]] — layered safety features that blocked simple attacks and were bypassed by combined ones
-- [[llm]] — Copilot (GPT-5.2) as the tested model, with metadata access apparently disabled
-- [[agentic-ai]] — wider system access would remove the one protection that held in this study
-- [[trust]] — unmeasured but argued, from detected attacks that are never reported
-- [[trust-calibration]] — the tool's false reassurance undermines any basis for calibrating reliance
-- [[governance]] — institutional rules for where AI may be used in assessment
-- [[educational-policy-ai]] — clear guidelines, training and resilience testing as the response
-- [[ai-misuse-learning-harm]] — a student who can manipulate the grader learns nothing and is not caught
-
-## Connected Articles
-
-- [[prompt-injection-defenses-educational-llm-tutors]] — Defensive counterpart: the security, usability and latency trade-offs of protecting educational tutors
-- [[pairr-ai-peer-review-2025]] — Human-centered design for AI review, where the same injection risk applies to reviewing
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Agents acting inside institutional systems, the deeper-access scenario this paper warns about
-- [[generative-ai-guardrails-harm-learning]] — What happens to learning when AI support is unguarded, the pedagogical side of the same concern
-- [[llms-do-not-grade-essays-like-humans-2026]] — The reliability question that sits underneath the security question here
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Misconduct procedures that this attack surface escapes entirely
-- [[munoz-misconduct-allegation-evidence-2026]] — What institutions can actually evidence when they allege misuse
-- [[calibrating-trustworthiness-llm-education-2026]] — Metrics and visualizations for judging when an LLM in education can be relied on
-
 ## Citation
 
 Humble, N. (2026). [*Ethical implications of prompt injection in AI-mediated grading: An adversarial red-team evaluation*](https://doi.org/10.1007/s10805-026-09758-9). *Journal of Academic Ethics*, 24, 85.

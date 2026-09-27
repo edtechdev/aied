@@ -37,27 +37,6 @@ methods: [meta-analysis-systematic-review]
 - Coverage is bounded by the search period and by four databases (PubMed, CINAHL, IEEE Xplore, Scopus), and the review is restricted to empirical AI applications — conceptual and Gray-literature sources are excluded.
 - The included studies vary in design and setting and were appraised with the CASP checklist rather than pooled, so the recommendations — including the 6–12 month multi-site pilots — are forward-looking proposals rather than demonstrated effects.
 
-## Connected Concepts
-
-- [[simulation]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[automated-assessment]]
-- [[curriculum-design]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[meta-analysis-systematic-review]]
-- [[educational-development]]
-- [[ai-ed-evaluation]]
-
-## Connected Articles
-
-- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive virtual patient for psychotherapy training
-- [[medgame-llm-medical-education-gamification]] — LLM gamification in medical education
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI simulation in clinical training
-- [[residencyrl-clinical-rl-training-2026]] — RL-based clinical training
-- [[simulating-students-java-programming-errors-llms]] — LLM simulation of learners
-
 ## Citation
 
 Alrazeeni, D. M., Alharrasi, M., Rony, M. K. K., Biswas, R. K., Tama, I. J., Halder, C. R., Deb, B., Bashar, F., & Akter, F. (2026). [*Transforming nursing education with artificial intelligence: A systematic review (2010–2025)*](https://doi.org/10.1177/23779608261424597). *SAGE Open Nursing*, 12, 1–31. https://doi.org/10.1177/23779608261424597

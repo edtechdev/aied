@@ -60,21 +60,6 @@ Three moderator analyses came back null, and the authors treat that nullity as i
 - Cognitive and affective outcomes were combined under a broad definition of AI literacy, pooling measures with different properties into one estimate.
 - Two studies reported no participant breakdown by school level, and detailed grade levels were not analyzed.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[ai-education]]
-- [[meta-analysis-systematic-review]]
-- [[learning-gains]]
-- [[educational-measurement]]
-- [[limitations-in-aied-research]]
-## Connected Articles
-
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — a parallel meta-analysis of AI literacy interventions that also tests moderators and reports similarly large effects.
-- [[ai-literacy-instrument-development-systematic-review-2026]] — documents the measurement fragmentation and psychometric gaps that this review names as the source of its heterogeneity.
-- [[caruana-pre-university-ai-education-slr-2026]] — a systematic review of pre-university AI education covering the same curricular landscape at the level of trends and pedagogical challenges.
-- [[stanford-evidence-base-ai-k12-2026]] — a broader K-12 AI evidence review that situates this effect estimate within the wider body of school-level AI research.
-
 ## Citation
 
 Yu, Wonjin; Kim, Nari; Chang, Ammi; Huang, Wanju. (2026). *[The Effects of K-12 Artificial Intelligence Education in Enhancing AI Literacy: A Meta-Analysis](https://doi.org/10.1002/jcal.70308)*. Journal of Computer Assisted Learning, 42, e70308. https://doi.org/10.1002/jcal.70308

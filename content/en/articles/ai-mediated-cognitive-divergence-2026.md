@@ -50,23 +50,6 @@ Faculty responded with four overlapping strategies: **[[assessment]] redesign** 
 - Student learning is characterized entirely through faculty perception — an absence of student voice the authors name explicitly — with no student interviews, portfolio analysis, or task-based measures of cognitive engagement.
 - It is one built-environment faculty at a single research-intensive university in Hong Kong (24 interviews, 32 survey respondents, five clustered discussions with 31 participants), so whether the amplification mechanism and the scalability constraints hold across other disciplines, resources, and governance cultures is untested.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[self-regulated-learning]]
-- [[learning-analytics]]
-- [[assessment]]
-
-## Connected Articles
-
-- [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognitive offloading
-- [[tian-genai-learning-adoption-pathways-2026]] — GenAI learning adoption pathways
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with GenAI
-
 ## Citation
 
 Crolla, K., Xia, X., & Jiang, Y. (2026). [*AI-mediated cognitive divergence in built-environment education: Evidence from a mixed-methods study*](https://doi.org/10.1016/j.caeai.2026.100665). *Computers and Education: Artificial Intelligence*.

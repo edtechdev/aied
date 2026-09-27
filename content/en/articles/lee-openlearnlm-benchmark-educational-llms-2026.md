@@ -57,22 +57,6 @@ Across the seven frontier models the axes rarely move together. Grok-4.1-fast po
 - **Most Skills items are machine-generated.** The 122K items come from a gpt-5-mini pipeline filtered by an LLM judge, so quality rests on automated screening alone.
 - **Items are borrowed and translated.** Content items come from Chinese examination and graduate science benchmarks, and pedagogical items from Chilean and Korean examinations, which may carry cultural assumptions.
 
-## Connected Concepts
-
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[trust-calibration]]
-
-## Connected Articles
-
-- [[cdpk-pedagogy-benchmark-llms]]
-- [[ai-tutor-behavioral-evaluation]]
-- [[student-llm-interaction-taxonomy-review-2026]]
-- [[genai-performance-vs-learning]]
-
 ## Citation
 
 Unggi Lee, Sookbun Lee, Heungsoo Choi, Jinseo Lee, Haeun Park, Younghoon Jeon, Sungmin Cho, Minju Kang, Junbo Koh, Jiyeong Bae, Minwoo Nam, Juyeon Eun, Yeonji Jung, and Yeil Jeong (2026). [*OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models*](https://arxiv.org/abs/2601.13882). arXiv:2601.13882. https://doi.org/10.48550/arXiv.2601.13882

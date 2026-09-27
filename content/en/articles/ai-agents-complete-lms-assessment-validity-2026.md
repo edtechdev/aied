@@ -12,7 +12,6 @@ level: [higher ed]
 sources: ['raw/papers/ai-agents-complete-lms-assessment-validity-2026.md']
 confidence: high
 page_kind: [evaluation]
-connected_faqs: [asynchronous-online-courses-ai]
 institutions: [educational-policy-ai, governance]
 ---
 
@@ -43,27 +42,6 @@ institutions: [educational-policy-ai, governance]
 - The broader record (at least 15 runs, three platforms, seven tools) is a public catalog of self-reported cases, and the authors note the scored quiz required no reasoning beyond the uploaded textbook, so the 10/10 result documents a structural design weakness rather than the ceiling of agent capability.
 - The contribution is a conceptual extension of Kane's framework to agents rather than an empirical validation, and the authors state two scope conditions: it addresses unproctored asynchronous environments only, and identity-verification proctoring verifies who attended a session, not who produced the artifact.
 - One author was a 2025–2026 Fellow in the Perplexity AI Business Fellowship, and one of the two demonstrating tools was Perplexity Comet — an interest to weigh alongside the feasibility claims.
-
-## Connected Concepts
-
-- [[assessment-validity]] — the central framework (Kane's argument-based validity, human-production assumption)
-- [[agentic-ai]] — autonomous agents completing browser/LMS tasks
-- [[academic-integrity]] — contrasted with validity: integrity punishes conduct; validity asks whether the score is supportable
-- [[authentic-assessment]] — redesign for authentic demonstrations of capability
-- [[ai-detection]] — rejected as insufficient (unreliable, biased, structurally blind)
-- [[assessment]] — the assessment-design ecosystem
-- [[remote-proctoring]] — narrows but does not close the gap
-- [[governance]] — accreditor guidance (C-RAC) and institutional policy
-- [[educational-policy-ai]] — institutional responses
-- [[generative-ai]] — the underlying technology
-
-## Connected Articles
-
-- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for generative AI
-- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments in the AI era
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond-detection authentic assessment
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
 
 ## Citation
 

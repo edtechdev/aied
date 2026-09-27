@@ -36,18 +36,6 @@ page_kind: [evaluation]
 - Only turn-level simulation is evaluated. The authors state that assessing how learning histories affect the faithfulness of fully simulated dialogues will require new metrics, and it remains unexamined.
 - The authors note a substantial lack of publicly available data containing student learning histories and dialogues, which limits testing the method in other domains such as programming and language learning.
 
-## Connected Concepts
-
-- [[reinforcement-learning]]
-- [[student-experience]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[simulating-students]]
-- [[student-modeling]]
-- [[llm]]
-## Connected Articles
-
-- [[kt4eqg-personalized-question-generation]]
 ## Citation
 
 Zhangqi Duan, Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Simon Woodhead, & Andrew Lan (2026). [Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues](https://arxiv.org/abs/2605.30051). arXiv preprint.

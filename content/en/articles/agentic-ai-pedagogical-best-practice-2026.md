@@ -61,35 +61,6 @@ Beyond the table, the paper flags two further risks of proactive initiative: **[
 - The recommendations — friction, dynamic fading, teacher-in-the-loop architecture, usage restraint — carry no implementation-cost, feasibility, or adoption evidence, so they remain untested design hypotheses.
 - The named failure modes (cognitive surrender, learners gaming reflective checkpoints, learned helplessness) are drawn from prior literature and not measured in an agentic deployment here.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[desirable-difficulties]]
-- [[prior-knowledge]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[human-in-the-loop-ai]]
-- [[collaborative-learning]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[llm]]
-- [[cognitive-surrender]]
-
-## Connected Articles
-
-- [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
-
 ## Citation
 
 Woollaston, S., Flanagan, B., Wijerathne, I., & Ogata, H. (2026). [*Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning*](https://arxiv.org/abs/2606.04543).

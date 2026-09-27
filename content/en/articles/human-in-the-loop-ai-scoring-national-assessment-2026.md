@@ -80,30 +80,5 @@ Several caveats bound the claims. Human scores are the ground truth, yet the cal
 - The at-least-50% workload reduction is a simulation over past editions rather than a live pilot, and no longitudinal drift monitoring is reported beyond applying 2024 prompts to 2025 data.
 - Generalization is bounded by setting: one national exam, one language, an age-21-plus adult certification population and GPT-5 at medium reasoning effort with structured JSON output, while the rubric text is withheld for confidentiality so the prompt engineering cannot be replicated from the paper.
 
-## Connected Concepts
-- [[automated-essay-scoring]]
-- [[human-in-the-loop-ai]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[writing-education]]
-- [[educational-measurement]]
-- [[psychometrically-aware-ai]]
-- [[llm]]
-- [[item-response-theory]]
-- [[ai-ed-evaluation]]
-- [[educational-policy-ai]]
-- [[global-south]]
-
-## Connected Articles
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs Do Not Grade Essays Like Humans
-- [[llm-essay-assessment-framework-reliability-2026]] — A Framework for Evaluation of Large Language Models in Essay Assessment: Reliability, Alignment, and Causal Reasoning
-- [[gpt-human-rater-essay-assessment-2026]] — Comparing GPT and human raters in essay assessment: Variability, bias, and the potential of LLM-based scoring
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
-- [[pecuchova-automated-grading-open-ended-genai-2026]] — Automated Grading of Open-Ended Questions in Higher Education Using GenAI Models
-- [[assessment-latent-structure-human-llm-2026]] — Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis
-- [[cong-confidence-asag-2026]] — Confidence-Aware Automatic Short Answer Grading
-- [[cvengros-grading-handwritten-chemistry-ai-2026]] — Assisting the grading of a handwritten general chemistry exam with artificial intelligence
-
 ## Citation
 Curi, M. E., Capdehourat, G., Amigo, I., Romano, M., Serra, R., Silveira, A., & Peri, A. (2026). [A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment](https://arxiv.org/abs/2609.05143). arXiv preprint arXiv:2609.05143.

@@ -35,25 +35,6 @@ This work directly informs the design of [[formative-assessment|AI writing feedb
 - Human feedback came from 14 recruited U.S.-based writing instructors under one shared protocol and one schema, on a single genre and grade level.
 - The goal-and-urgency schema privileges feedback organized around predefined argumentative moves and may draw attention disproportionately to the feedback types the schema makes easy to express, so results characterize feedback within that paradigm.
 
-## Connected Concepts
-
-- [[formative-assessment]]
-- [[ai-feedback-quality]]
-- [[writing-education]]
-- [[k-12]]
-- [[higher-ed]]
-- [[feedback]]
-- [[assessment]]
-- [[llm]]
-## Connected Articles
-
-- [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing
-- [[icle-plus-plus-essay-scoring]] — ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[cyberscholar-genai-writing-feedback]] — Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
-
 ## Citation
 
 Liu, Y., Song, Y., Gallagher, J., Sterman, S., & August, T. (2026). [*FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays*](https://arxiv.org/abs/2606.06271).

@@ -41,23 +41,6 @@ methods: [mixed-methods-research]
 - Trust and adoption were measured by self-report: a 5-point Likert trust questionnaire plus interview accounts, so reported intentions (for example, 77% of vocational teachers proposing individual coaching sessions) are not evidence of classroom use or student benefit.
 - The two contexts are narrow: one 13-week university mathematics course with log data from 201 students, and reflective journals from 246 nurse apprentices, of which a single classroom of 19 apprentices was visualized.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[teacher-role]]
-- [[trust]]
-- [[visualization]]
-- [[self-regulated-learning]]
-- [[online-teaching-and-learning]]
-- [[machine-learning]]
-- [[mixed-methods-research]]
-
-## Connected Articles
-
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[jin-genai-learning-analytics-feedback-literacy]]
-
 ## Citation
 
 Mejia-Domenzain, P., Neshaei, S. P., Laini, E., Nazaretsky, T., Bühlmann, P., & Käser, T. (2026). [Making machine learning findings accessible to teachers in blended classrooms](https://doi.org/10.1016/j.ijaied.2026.100001). *International Journal of Artificial Intelligence in Education*, 36, Article 100001.

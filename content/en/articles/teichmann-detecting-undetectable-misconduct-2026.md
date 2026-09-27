@@ -84,39 +84,6 @@ None of this requires an AI-proof assessment or a retreat to mass invigilation. 
 - The fairness proposals derive from procedural justice theory and the educational integrity enforcement pyramid and are not tested against case outcomes at any institution; the Vanderbilt example (a licensed detector whose advertised 1% false-positive rate implied some 750 mislabeled students among 75,000 annual submissions) is a single documented case.
 - The implementation arguments on workload and equity, such as premium models sitting behind subscriptions and uneven devices and connectivity, are reasoned rather than measured.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[ai-use-disclosure]]
-- [[authentic-assessment]]
-- [[remote-proctoring]]
-- [[evaluative-judgment]]
-- [[equity-in-ai-education]]
-- [[assessment]]
-- [[higher-ed]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[social-norms-ai-use]] — the informal rules around AI use
-
-## Connected Articles
-
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Deterrence, disclosure, and redesign modeled as an assessment-design problem
-- [[karr-ai-detection-humanization-2026]] — Why AI detection fails, and the humanization arms race
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authenticity redesigned rather than policed
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
-- [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work, and two-way transparency
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: fear of retribution chills honest reporting
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Non-compliance with mandatory AI declarations
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Disclosure as a help-seeking and self-regulation decision
-- [[automated-online-exam-proctoring-decade-review-2026]] — A decade of automated proctoring: accuracy, distress, and equity
-- [[conijn-fear-big-brother-proctored-exams-2022]] — Fear of the big brother: student experience of proctored exams
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[chirikov-regulate-ai-syllabi-2026]] — Syllabi shifting from integrity framing to task-level regulation
-- [[chen-zou-genai-group-assessment-agency-2026]] — Peer accountability and the negotiation of acceptable AI use in groups
-- [[ai-assessment-scale-reform]] — Rethinking assessment in the generative AI era
-
 ## Citation
 
 Teichmann, F. M. (2026). [*Detecting the undetectable? Reassessing academic misconduct procedures in the era of generative AI*](https://doi.org/10.1080/02602938.2026.2728036). *Assessment & Evaluation in Higher Education*, advance online publication.

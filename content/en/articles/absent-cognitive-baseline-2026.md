@@ -63,27 +63,6 @@ Methodologically, the paper argues that existing frameworks reach "ACB's door bu
 - The proposed evidence is a design, not a result: purposive sampling along AI-use frequency, mode, and depth, two rounds of semi-structured interviews plus reflective journals, and IPA analysis are outlined as future work.
 - The listed indicators (inability to describe one's own ability absent AI, conflating AI output quality with competence, disproportionate uncertainty on no-AI tasks, reading struggle as inefficiency) are described as entry points for inquiry rather than diagnostic criteria, and the construct's distinctness from [[cognitive-offloading|cognitive offloading]], metacognitive laziness, and the Dunning-Kruger effect is argued rather than measured.
 
-## Connected Concepts
-
-- [[metacognition]]
-- [[self-assessment]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[ai-misuse-learning-harm]]
-- [[learning-gains]]
-- [[theory-development-aied]]
-
-## Connected Articles
-
-- [[cognitive-offloading-speedup-illusion]] — The speed-up illusion of cognitive offloading
-- [[digital-literacy-illusion]] — The digital literacy illusion
-- [[ai-making-us-stupid]] — Is AI making us stupid?
-- [[epistemic-proactivity-math]] — Epistemic proactivity in student-AI math interaction
-
 ## Citation
 
 Jia, Y., & Xu, J. (2026). [*The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment*](https://doi.org/10.35542/osf.io/4cr8j_v5). EdArXiv Preprint. (Westcliff University)

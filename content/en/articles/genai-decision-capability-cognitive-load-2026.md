@@ -40,19 +40,5 @@ page_kind: [framework]
 - Perceived decision capability was defined within a task-agnostic model rather than a comparison of performance on a single business analytical task such as a case study or project evaluation.
 - Every construct — cognitive load, information quality, decision confidence, trust, and perceived decision capability — was self-reported in one cross-sectional survey, with no objective performance indicator or experimental decision task.
 
-## Connected Concepts
-- [[generative-ai]]
-- [[cognitive-psychology]]
-- [[business-education]]
-- [[technology-acceptance-model]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-
-## Connected Articles
-- [genai-motivation-engagement-2026] — GenAI motivation and engagement research
-- [acceptance-ai-english-tools-2026] — acceptance of AI English tools
-- [student-dependency-on-ai-literacy-self-efficacy-2026] — AI literacy, self-efficacy and dependency
-
 ## Citation
 Rai, J. S., Kathuria, S., Kaur, H., Singh, A., & Itani, M. N. (2026). [Modelling generative AI's influence on students' perceived decision capability: A cognitive load and decision augmentation approach](https://doi.org/10.1016/j.caeai.2026.100596). *Computers and Education: Artificial Intelligence, 10*, 100596.

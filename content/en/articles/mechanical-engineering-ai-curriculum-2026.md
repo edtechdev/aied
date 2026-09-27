@@ -43,26 +43,6 @@ The proposed curriculum integrates AI directly into existing thermal engineering
 - Undergraduates and graduate students took the course together with different prerequisites; the authors state that undergraduates' grasp of core concepts and programming proficiency put them at a relative disadvantage that inevitably affected the depth and quality of their project work and grades.
 - Outcome claims are prospective: the authors write that they hope to document curriculum changes in response to student feedback and test effects on engagement and grades, so impacts on retention, graduation, or job placement are not yet measured.
 
-## Connected Concepts
-
-- [[curriculum-design]]
-- [[engineering-education]]
-- [[project-based-learning]]
-- [[stem-education]]
-- [[ai-education]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[teacher-role]]
-- [[open-source]]
-
-## Connected Articles
-
-- [[llm-intervention-design-cs-review]] — LLM Intervention Design in Undergraduate CS Education: A Scoping Review
-- [[finkelstein-principled-ai-education-2025]] — Principled AI Education
-- [[reshaping-cs-education-genai]] — Reshaping CS Education with Generative AI
-- [[ai-disruption-engineering-education-chat-2026]] — AI Disruption in Engineering Education
-- [[llm-computational-thinking-physics-2026]] — Using LLMs to Detect Growth in Computational Thinking in Introductory Physics
-
 ## Citation
 
 Li, C., Hu, H., Dunlap, C., House, N., & Wai, J. (2026). [*Giving mechanical engineers intelligent tools: A project-based AI education curriculum in thermal engineering*](https://arxiv.org/abs/2608.26056).

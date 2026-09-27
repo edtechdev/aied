@@ -29,24 +29,6 @@ level: [adult learning]
 - [[student-engagement|Engagement]] and progress rested on self-report: intention to follow, self-efficacy, and step counts, with no objective activity tracking, and the authors note they emphasized tracking steps partly to improve the accuracy of self-reported counts.
 - The within-subject design means time spent with one chatbot version may carry over into how the next is perceived, and the weekly deltas showed no statistically significant differences under linear mixed models; the intervention also targeted physical activity coaching rather than classroom learning, so its education relevance is by analogy only.
 
-## Connected Concepts
-
-- [[affective-tutoring]]
-- [[personalized-learning]]
-- [[llm]]
-- [[student-experience]]
-- [[feedback]]
-- [[affective-computing]]
-- [[student-engagement]]
-## Connected Articles
-
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[ecnuclaw-k12-personalized-companion]] — ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education
-- [[llm-diverse-explanations-programming]] — Exploring the Value of Diverse LLM Explanations in Introductory Programming
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-- [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
-
 ## Citation
 
 Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, Zhou Yu (2026). [Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions](https://arxiv.org/abs/2606.26641).

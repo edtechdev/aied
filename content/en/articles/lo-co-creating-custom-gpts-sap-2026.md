@@ -52,24 +52,5 @@ The central argument is that co-creation with GenAI can extend the SaP paradigm 
 - The work took place in English-speaking STEM units at a single institution (Monash University), where institutional culture, disciplinary norms, and language fluency may all have influenced engagement with GenAI and partnership practices.
 - The authors position the study as a situated proof-of-concept for students-as-partners GenAI co-creation rather than evidence that such partnerships operate identically across broader, less self-selecting student populations.
 
-## Connected Concepts
-- [[pedagogical-partnerships]]
-- [[generative-ai]]
-- [[student-ai-interaction]]
-- [[human-ai-collaboration]]
-- [[collaborative-learning]]
-- [[agency]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[qualitative-research]]
-- [[ethics]]
-- [[student-experience]]
-
-## Connected Articles
-- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
-- [[student-centered-genai-responsible-framework-2026]] — A Student-Centered Framework for Responsible Use of Generative AI in Higher Education
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — "Should I Tell My Teacher?" Student AI Disclosure Practices
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency
-
 ## Citation
 Lo, S., Lea, T., Mavromoustakos, A., Joseph, B., Yii, M., Exintaris, B., Karunaratne, N., Pearson, D. L., Ritchie, T., Yuriev, E., & Pyun, J. (2026). [*Co-creating custom GPTs: An autoethnographic study of undergraduate students as partners in generative AI innovation*](https://doi.org/10.3389/feduc.2026.1818781). *Frontiers in Education, 11*, 1818781.

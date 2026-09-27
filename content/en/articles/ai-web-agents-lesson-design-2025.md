@@ -39,29 +39,6 @@ methods: [ai-ed-evaluation, benchmark, quantitative-research]
 - The authors name bias in the LLM's training data and in the transfer data as the most significant limitation of the method, warning that if those data skew toward particular student behaviors the approach may favor some student groups while neglecting others.
 - Technical limits remain: the model's context window and the requirement that the web agent be able to navigate the user interface, which the authors expect model and agent advances to lift rather than treat as solved.
 
-## Connected Concepts
-
-- [[learning-design]] — the web agent evaluates a learning experience holistically, blending pedagogy with UI interaction, before students engage
-- [[agentic-ai]] — autonomous, goal-directed web agents that navigate and act on interfaces rather than only answering prompts
-- [[simulating-students]] — the paper's central finding that a single describing agent outperforms simulated student populations
-- [[student-modeling]] — predicting dropout and completion as outcome modeling from agent-generated descriptions
-- [[cs-education]] — the Code in Place CS1 validation context; Karel, control flow, terminal, expressions lessons
-- [[online-teaching-and-learning]] — massive open-access online course evaluation at scale
-- [[generative-ai]] — GPT-4o (agent) and o1 (comparator/predictor) multimodal LLMs
-- [[llm]] — the underlying large language models
-- [[ai-ed-evaluation]] — using AI to evaluate learning experiences and give design feedback without human testers
-- [[pedagogical-agent]] — webVoyager-based agent that behaves like a student navigating the interface
-
-## Connected Articles
-
-- [[agentschool-multi-agent-simulation-education-2026]] — multi-agent simulation of education, contrasted with the single-agent finding here
-- [[llm-student-simulation-misconception-faithfulness]] — simulating students or sycophantic problem solving; epistemic fidelity versus the ~4% path coverage reported here
-- [[valid-student-simulation-llm-2026]] — validity criteria for simulated students; the competence paradox relates to why simulated agents underperform describing agents
-- [[zhang-ml-student-progress-programming-2026]] — predicting dropout and progress in large-scale online programming courses
-- [[jeon-isd-agent-bench-2026]] — benchmarking LLM agents for instructional design; complementary to using agents to evaluate designs
-- [[mooc-to-maic]] — AI agents reshaping MOOC learning, the "N agents for 1 student" inversion versus "one video for N students"
-- [[genai-educational-outcomes-meta-analysis]] — predicting educational outcomes with generative AI
-
 ## Citation
 
 Wang, S., Mitchell, J., & Piech, C. (2025). [AI Web Agents Can Effectively Guide Lesson Design and Predict Student Outcomes](https://doi.org/10.1007/978-3-031-98417-4_21). *In Artificial Intelligence in Education (AIED 2025),* pp. 290–304. Springer.

@@ -64,29 +64,6 @@ The authors extend A2-GLD into an **agentic workflow** that assigns each phase a
 - In that ChatTutor trial the immediate post-test differences were non-significant, F(2,172) = 1.89, p = .155; the retention advantage (M = 7.26 versus ChatGPT M = 6.72 and teaching-as-usual M = 5.93) emerged only four weeks later, so the key empirical warrant rests on one study with 15 min of intervention.
 - The eight pedagogical roles and the agentic workflow are proposals with no classroom implementation data — no evidence on instructor workload, tool access, or whether the Human Scaffolding phase can run at class scale — so adoption claims outrun what the paper measured.
 
-## Connected Concepts
-
-- [[learning-design]]
-- [[self-regulated-learning]]
-- [[curriculum-design]]
-- [[constructivist]]
-- [[prompt-engineering]]
-- [[formative-assessment]]
-- [[affective-tutoring]]
-- [[generative-ai]]
-- [[active-learning]]
-- [[scaffolding]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Rethinking Higher Education: From Fixed Curricula to Learnity Graphs
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[genai-marketing-education-roles-2026]] — When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education
-
 ## Citation
 
 Dabbagh, N., & Fake, H. (2026). [*Generative AI (GenAI) as a mindtool that supports generative learning (GL)*](https://doi.org/10.1016/j.caeai.2026.100626). *Computers and Education: Artificial Intelligence, 11*, 100626.

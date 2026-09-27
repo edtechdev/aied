@@ -77,19 +77,6 @@ The upcoming EU AI Act classifies some AI-in-education applications as high risk
 - Data privacy shaped the design and capped the evidence: the authors could not yet implement the system for mandatory task submissions, because coupling submissions to individual student identities would have raised the privacy risks they set out to avoid.
 - It is described only for a narrow setting — advanced undergraduate computer science courses in which Python is a new language, focused on data science — and the paper reports no student evaluation or learning-outcome data.
 
-## Connected Concepts
-
-- [[formative-assessment]]
-- [[intelligent-tutoring]]
-- [[cs-education]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-## Connected Articles
-
-- [[golrang-propact-pair-programming-2026]]
-- [[agentic-workflows-education]]
-- [[socraticode-k12-programming-tutor]]
 ## Citation
 
 Deriyeva, A., Dannath, J., & Paaßen, B. (2026). [*Programming Intelligent Tutoring Systems*](https://arxiv.org/abs/2604.16117).

@@ -122,20 +122,6 @@ Teacher ↔ AI System ↔ Student
 - Coverage is uneven across STEM: reviewed studies concentrate in mathematics and science education, with limited representation in technology and engineering education and in early-childhood and teacher-education contexts.
 - Measurement is inconsistent across the reviewed studies — the review's own stated barrier — because metacognitive outcomes were assessed with differing instruments, so reported benefits cannot be pooled or compared directly.
 
-## Connected Concepts
-
-- [[metacognition]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[stem-education]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[scaffolding]]
-- [[meta-analysis-systematic-review]]
-## Connected Articles
-
-- [[stanford-evidence-base-ai-k12-2026]]
 ## Citation
 
 Tsakeni, M., Nwafor, S. C., Mosia, M., & Egara, F. O. (2025). [*Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric–Systematic Review Approach*](https://doi.org/10.3390/jintelligence13110148). *Journal of Intelligence*.

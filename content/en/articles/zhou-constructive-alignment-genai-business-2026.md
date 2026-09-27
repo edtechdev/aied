@@ -49,22 +49,6 @@ institutions: [change-management]
 - Participants were purposively sampled for existing GenAI teaching experience and their 24 modules, so the sample skews toward motivated early adopters.
 - Given the rapid evolution of GenAI, the cross-sectional first-year data cannot show how integration strategies or institutional support change over time.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[curriculum-design]]
-- [[learning-design]]
-- [[assessment]]
-- [[higher-ed]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[drummond-genai-business-schools-framework-2026]] — Student-informed GenAI conceptual framework for business schools
-- [[espino-ai-business-education-review-2026]] — Review of AI integration in business education
-- [[gift-ai-pairr-business-writing-2025]] — AI-supported business writing pedagogy
-- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business contexts
-
 ## Citation
 
 Zhou, X., Chai, Q., Chilukuri, B., & Quach, J. J. Y. (2026). [*From experimentation to integration: Embedding generative artificial intelligence in business higher education through the lens of constructive alignment*](https://doi.org/10.53761/pc04tp05). *Journal of University Teaching and Learning Practice*, 23(2).

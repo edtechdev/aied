@@ -73,39 +73,6 @@ The authors expected GenAI might serve as a personalized tutor for students with
 - There were no student participants and no measurement of learning outcomes, so the argument rests on a documented interaction trajectory rather than on evidence that learners gain anything.
 - The authors note that whether general, uninformed prompts could support the same SOLO progression remains untested, and that the emphasis on informed prompting may not stay the bottleneck as systems improve.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[assessment-validity]]
-- [[feedback-literacy]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[assessment]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[evaluative-judgment]]
-- [[prompt-engineering]]
-- [[self-efficacy]]
-- [[summative-assessment]]
-
-## Connected Articles
-
-- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon framework for higher education (Hackl et al. 2026)
-- [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback and feedback literacy (Zhan & Yan 2026)
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Strategic regulation of GenAI in academic writing
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-directed learning
-- [[du-yuan-epistemic-dependence-2026]] — Differentiating productive reliance from harmful dependence
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates SRL benefit from AI feedback
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt privilege and equitable AI access
-- [[school-ai-education-readiness-gaps-agency-2026]] — Psychological vs. cognitive equity in school AI instruction
-- [[ai-availability-student-motivation]] — How AI availability reshapes student motivation
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment design under imperfect information: disclosure and student response
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Detection's evidentiary collapse and the case for redesign
-
 ## Citation
 
 Brunnström, L., & Palmqvist, L. (2026). [AI-interaction literacy: reflections on how generative AI might be used to support self-regulated learning in higher education](https://doi.org/10.1080/02602938.2026.2731261). *Assessment & Evaluation in Higher Education*.

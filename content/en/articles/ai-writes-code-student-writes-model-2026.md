@@ -7,7 +7,6 @@ foundations: [computational-thinking, curriculum-design, theory-development-aied
 pedagogy: [constructivist, self-regulated-learning]
 technology: [generative-ai]
 assessment: [assessment, educational-measurement]
-connected_faqs: [verify-ai-output]
 sources: ['raw/papers/ai-writes-code-student-writes-model-2026.md']
 confidence: medium
 discipline: [science education, cs education]
@@ -55,29 +54,6 @@ level: [secondary]
 - The audit of 24 studies (2021–2026) is gap-locating, not a systematic review: one database (Scopus), conference proceedings excluded, 20% double-screened, no quality appraisal.
 - The dissociation rests on three randomized studies (nearly a thousand Turkish mathematics students, Bastani et al., 2025; 117 writers, Fan et al., 2025; 1,222 participants, Liu et al., 2026), none using construction tasks.
 - The author's boundary conditions narrow the scope: domains must supply an external criterion (physics, chemistry, ecology and epidemiology do; history, literature and ethics largely do not).
-
-## Connected Concepts
-
-- [[generative-ai]]
-- [[constructivist]]
-- [[computational-thinking]]
-- [[self-regulated-learning]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[curriculum-design]]
-- [[scaffolding]]
-- [[metacognition]]
-- [[theory-development-aied]]
-- [[cs-education]]
-- [[feedback]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[competency-based-education-genai-production-2026]] — Knowledge, skills, attitudes, production: competency-based education after generative AI
-- [[ai-assessment-scale-reform]] — AI assessment scale reform
-- [[agency-gap-ai-writing]] — The agency gap in AI writing
-- [[pchl-he-framework-genai-content-creation-2026]] — A framework for generative AI content creation in higher education
 
 ## Citation
 

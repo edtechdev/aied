@@ -72,30 +72,6 @@ The paper states its limitations without softening them: the sample was small (N
 
 Read within those bounds, the contribution is a documented perception profile with one genuinely informative internal contrast — task speed rising while total study time does not — reported by an author who distinguishes throughout between perceived and measured outcomes. The knowledge base's larger-scale studies supply what this one cannot: whether assisted performance transfers to unassisted performance ([[genai-over-reliance-learning-2026]]), how reliance calibrates against objective competence ([[verification-quality-reliance-calibration-genai-2026]]), and how students' perceptions compare with faculty and institutional accounts of the same practices ([[beyond-hype-stakeholder-perceptions-genai-2026]], [[ai-perceptions-students-teachers-motivation-2026]]).
 
-## Connected Concepts
-
-- [[student-experience]] — self-reported study practices, perceived productivity, and perceived understanding
-- [[self-report-measures]] — the study's core measurement constraint: perceptions cannot establish behavior or learning
-- [[generative-ai]] — how a small convenience sample uses and evaluates generative tools for studying
-- [[higher-ed]] — the setting of the survey and of the systematic reviews it draws on
-- [[cognitive-offloading]] — half of respondents reported relying on AI instead of learning independently
-- [[critical-thinking]] — reduced critical thinking named among the reported disadvantages
-- [[academic-integrity]] — dishonesty and cheating appear in respondents' own account of the costs
-- [[learning-gains]] — the paper's explicit refusal to equate perceived improvement with measured learning
-- [[ai-literacy]] — evaluating outputs, identifying errors, and verifying information as the recommended response
-- [[privacy]] — individual-level data withheld, and minors in the sample raising consent questions
-
-## Connected Articles
-
-- [[ai-perceptions-students-teachers-motivation-2026]] — Student and teacher perceptions of AI and their relation to motivation
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
-- [[chatgpt-perception-online-learning-engagement-2026]] — ChatGPT perceptions, online learning, and engagement
-- [[colbran-student-perspectives-genai-chatbots-2026]] — Student perspectives on GenAI chatbots in higher education
-- [[genai-student-experiences-uk-he-survey-2026]] — GenAI Student Experiences: UK HE Survey
-- [[risk-perception-genai-perceived-benefits-2026]] — Risk perception of GenAI and perceived benefits
-- [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance: A Mixed-Method Study of Generative AI and Sustainable Learning Performance
-- [[ai-tools-academic-work-cheating-2026]] — Student cheating behavior with AI tools in academic work
-
 ## Citation
 
 Oladosu, A.-A. (2026). [*Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study*](https://osf.io/ur5w8/). OSF preprint.

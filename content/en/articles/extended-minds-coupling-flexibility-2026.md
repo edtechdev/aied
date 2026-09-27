@@ -69,34 +69,6 @@ Design is the second lever, because the coupling that emerges depends on the int
 - It is a conceptual argument, not an empirical study: it generated and analyzed no data and claims no findings about learning outcomes, and evidence on the long-term developmental effects of GenAI remains preliminary, so claims about cognitive debt, deskilling and parasitic integration should be investigated rather than treated as settled diagnoses; the taxonomy is offered as a way to direct that research.
 - It has normative limits — it cannot determine which capacities education ought to cultivate or how competing aims should be ranked — though it is not normatively neutral, since foregrounding competence, supervision, authorship and capacity development identifies features whose distribution requires justification; it is [[philosophy-of-ai-in-education]] and [[theory-development-aied]] work rather than an intervention study.
 
-## Connected Concepts
-
-- [[cognitive-offloading]] — the first of the four forms, and the concept the paper opens by reclassifying
-- [[distributed-cognition]] — the ecological distribution of cognitive labor that cognitive eco-sourcing analyses
-- [[human-ai-collaboration]] — delegation as the relation in which the agent stays inside the production loop
-- [[learning-design]] — the claim that interface and task design make some couplings more likely
-- [[learning-theories]] — scaffolding, expertise reversal and the developmental framing the taxonomy is indexed to
-- [[llm]] — the functional breadth that makes outsourcing widely available and less apparent
-- [[metacognition]] — the capacity for supervision and coupling flexibility the paper wants education to cultivate
-- [[generative-ai]] — the technology whose coupling forms education must now theorize
-- [[scaffolding]] — distinguished from coupling as the structured field of resources rather than the relation recruited
-- [[agency]] — epistemic authorship and the trajectory through which competence and control are retained
-- [[ai-literacy]] — reframed as scaffolded, reflective practice rather than technical proficiency
-- [[philosophy-of-ai-in-education]] — the conceptual register of the argument
-
-## Connected Articles
-
-- [[educating-minds-generative-ai-2026]] — The same author's companion conceptual paper on GenAI as epistemic infrastructure
-- [[andragogy-cognitive-delegation-genai-2026]] — Cognitive delegation in GenAI-mediated adult learning, read through andragogy
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing versus reallocation in unsupervised assessment
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — A conceptual model distinguishing bypass, offload and scaffold under LLMs
-- [[cognitive-offloading-llm-synthesis-writing]] — How offloading actually profiles in LLM-mediated synthesis writing
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Training metacognition to make offloading decisions better judged
-- [[reclaiming-epistemic-agency-co-agency-2026]] — A critical framework for human–GenAI co-agency and epistemic authorship
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Theorizing epistemic co-agency in machine-mediated learning
-- [[shaw-nave-cognitive-surrender-2026]] — Cognitive surrender as the failure mode the taxonomy's trajectory analysis predicts
-- [[ensemble-cognition-philosophy-ai-education]] — Reconceptualizing agency and mind in AI-mediated educational environments
-
 ## Citation
 
 Di Paolo, L. D. (2026). [*From Extended Minds to Coupling Flexibility: Cognitive Eco-Sourcing and Generative AI in Education*](https://osf.io/preprints/psyarxiv/c6yuw_v1). *Topoi* (manuscript submitted for publication).

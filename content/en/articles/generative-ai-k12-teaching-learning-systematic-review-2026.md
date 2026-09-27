@@ -67,30 +67,6 @@ An innovative contribution of the review is its identification of eight specific
 - Discipline coverage is skewed toward STEM, which means claims about arts, humanities, and creative subjects are extrapolations the review asks future empirical work to test.
 - The identified gaps are described rather than quantified: the review reports no pooled effect sizes, and long-term impact on educational outcomes is named as future work rather than an established finding.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[ai-literacy]]
-- [[teacher-education]]
-- [[teacher-ai-competency]]
-- [[ethics]]
-- [[privacy]]
-- [[personalized-learning]]
-- [[assessment]]
-- [[equity-in-ai-education]]
-- [[conversational-ai]]
-- [[tpack]]
-- [[critical-thinking]]
-
-## Connected Articles
-
-- [[elementary-writing-genai-systematic-review-2026]] — Elementary writing GenAI systematic review
-- [[sec-ai-literacy-narrative-review-2026]] — Secondary AI literacy narrative review
-- [[niri-steam-ai-literacy-review-2026]] — STEAM AI literacy review
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI literacy interventions meta-analysis
-
 ## Citation
 
 Marzano, D. (2026). [*Generative Artificial Intelligence (GAI) in Teaching and Learning Processes at the K-12 Level: A Systematic Review*](https://link.springer.com/article/10.1007/s10758-025-09853-7). *Technology, Knowledge and Learning*, 31, 789–829.

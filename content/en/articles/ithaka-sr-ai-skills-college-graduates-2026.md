@@ -73,27 +73,6 @@ Instructors slightly disagreed that their institutions expect undergraduates to 
 - Institutional characteristics and discipline were taken from an email list purchased from a marketing agency rather than reported by respondents, which the report says limits its reporting on institutional and disciplinary affiliation.
 - The report excludes instructors from community colleges and vocational institutions, and its authors note possible positive bias because instructors with strong objections to AI may be less likely to respond.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[career-development-and-readiness]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[professional-training]]
-- [[teacher-education]]
-- [[framing-ai-use-for-students]]
-- [[student-experience]]
-- [[educational-policy-ai]]
-- [[assessment]]
-
-## Connected Articles
-
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the engineering/computing workforce: gray-literature review
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce readiness for smart manufacturing
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI literacy beyond the skills-gap agenda
-- [[genai-skill-bypass-literacy]] — The GenAI skill bypass: divergent AI-literacy pathways
-
 ## Citation
 
 Fried, M. (2026). [*AI skills for college graduates: Exploring how instructors and employers prioritize AI skills differently*](https://sr.ithaka.org/publications/ai-skills-for-college-graduates/). Ithaka S+R.

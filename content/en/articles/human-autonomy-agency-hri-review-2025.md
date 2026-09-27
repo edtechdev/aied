@@ -43,21 +43,6 @@ This is a **systematic literature review** following the PRISMA workflow. The au
 - **A window that closes in early 2024.** The temporal scope of 2011 to early 2024 predates the widespread use of [[llm]]-powered social robots, so recent developments may be underrepresented.
 - **Human–robot interaction broadly, education only in part.** The review's scope is HRI rather than education specifically.
 
-
-## Connected Concepts
-
-- [[educational-robotics]]
-- [[agency]]
-- [[ethics]]
-- [[well-being]]
-- [[self-determination-theory]]
-
-## Connected Articles
-
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[task-context-trust-educational-hri-2026]] — Task Context Shapes Trust in Educational HRI
-- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
-
 ## Citation
 
 Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). [*Human autonomy and sense of agency in human-robot interaction: A systematic literature review*](https://arxiv.org/abs/2509.22271).

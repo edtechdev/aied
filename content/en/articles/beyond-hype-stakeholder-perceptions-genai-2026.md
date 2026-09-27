@@ -39,17 +39,5 @@ institutions: [educational-policy-ai, governance]
 - Fully anonymous Padlet collection prevented follow-up questions and made stakeholder roles unidentifiable, so the study could not test whether teachers, researchers, and administrators hold different views, as planned.
 - Padlet participation was not mandatory and attendance dropped part way through the webinars, so staff who left or declined to post are absent from the data.
 - The Balanced Scorecard is conceptual and built from qualitative SWOT themes rather than validated indicators; reliability coefficients, subgroup contrasts, and content-validity checks were not feasible with anonymous qualitative data.
-## Connected Concepts
-- [[stakeholders]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[educational-development]]
-
-## Connected Articles
-- [crompton-governing-genai-higher-ed-delphi-2026] — Delphi study on governing GenAI in higher ed
-- [long-ai-higher-ed-engagement-teaching-methods-2026] — AI engagement and teaching methods in higher ed
-
 ## Citation
 Humble, N., & Mozelius, P. (2026). [Beyond the hype – How higher education stakeholders view the benefits and concerns of generative AI for teaching, research, and administration](https://doi.org/10.1016/j.caeo.2026.100381). *Computers and Education Open, 10*, 100381.

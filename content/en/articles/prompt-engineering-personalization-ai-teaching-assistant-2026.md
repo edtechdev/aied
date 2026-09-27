@@ -47,25 +47,5 @@ The authors frame the results as preliminary evidence that prompt-based personal
 - The NLP evaluation covers 2,910 generated responses to 30 real student questions from a single Spring 2023 Knowledge-Based AI course, measuring response characteristics rather than learner outcomes; effects on learning and engagement are unmeasured.
 - Classroom deployment had not occurred at the time of writing: integration into Jill Watson was targeted for Spring 2027 and pilot deployment in selected Georgia Tech courses for Summer 2027, with broader rollout in 2027–2028.
 
-## Connected Concepts
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[prompt-engineering]]
-- [[llm]]
-- [[rag]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[cognitive-diagnosis]]
-
-## Connected Articles
-- [[reddig-maclellan-personalized-feedback-llm-2026]] — Embedding an LLM in an ITS's structure for personalized corrective feedback
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith (Stanford SCALE/NSSA brief)
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains
-- [[learnmate2-llm-adaptive-learning]] — LLM-based adaptive learning tutor
-- [[bilingual-llm-lecture-companion-srl-2026]] — SRL with a bilingual LLM lecture companion
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
-- [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos (Tomlinson et al. 2026)
-
 ## Citation
 Basu, S., Kakar, S., & Goel, A. (2026). [A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant](https://arxiv.org/abs/2609.03402). arXiv:2609.03402 (IAAI-27).

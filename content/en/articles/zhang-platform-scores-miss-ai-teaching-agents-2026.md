@@ -43,26 +43,6 @@ methods: [ai-ed-evaluation, quantitative-research]
 - The platform's scoring mechanism is undisclosed and could not be independently verified, and platform-versus-rubric divergence was characterized through rank comparisons rather than an agent-level correlation, which would be unstable at this sample size.
 - Expert calibration rested on a single expert rescoring 40 dialogues, precluding expert-to-expert reliability (total-score ICC = 0.51); the rubric weights were team-assigned without formal stakeholder input, the gender comparison was underpowered and cannot support claims of equitable delivery, and the outcome measured was teaching quality, not learning gain.
 
-## Connected Concepts
-
-- [[medical-education]]
-- [[pedagogical-agent]]
-- [[intelligent-tutoring]]
-- [[ai-ed-evaluation]]
-- [[assessment]]
-- [[simulation]]
-- [[generative-ai]]
-- [[llm]]
-- [[assessment-validity]]
-
-## Connected Articles
-
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI simulation in nursing education
-- [[llm-detecting-llm-generated-content-education]] — LLMs evaluating generated content
-- [[genai-scenario-based-healthcare-education-2026]] — GenAI in scenario-based healthcare education
-- [[pedagogy-ai-mistakes]] — Pedagogical quality of AI output
-- [[ai-learning-tools-engineering-education-needs]] — Needs- and attention-aware AI learning tools
-
 ## Citation
 
 Zhang, H., Qu, L., Zheng, J., Xiong, Y., Bai, H., Ji, R., Liu, G., Chen, W., Cheng, Z., Chen, Y., & Yang, C. (2026). [What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education](https://doi.org/10.2196/96819). *JMIR Medical Education, 12*, e96819.

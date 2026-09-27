@@ -37,18 +37,6 @@ page_kind: [framework, evaluation]
 - No new assistant's data was ingested: the analysis configuration is written using "XYZ" as a placeholder for a future assistant, so the generalizability claim rests on reanalysis of datasets that already existed in the A4L environment.
 - It is a system-development case study with no comparison condition and no student outcome measure; the demonstrated result is that three analyses were reproduced and one capability extended, not that the pipeline improves learning.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[edtech-platform]]
-- [[feedback]]
-- [[higher-ed]]
-- [[llm]]
-## Connected Articles
-
-- [[ai-assisted-writing-research-teams]]
-- [[llm-sentiment-analysis-education-research]]
 ## Citation
 
 Yallen Bai, Ploy Thajchayapong, & Ashok Goel (2026). [Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains](https://arxiv.org/abs/2605.30303). EDULEARN26.

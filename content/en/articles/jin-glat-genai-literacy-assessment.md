@@ -48,26 +48,6 @@ The instrument's items were built from a blueprint of 25 GenAI concepts organize
 - Measurement precision is uneven: the test information function peaks at θ = −0.8, so GLAT separates low- to moderate-literacy learners better than high scorers.
 - Item quality was uneven by the authors' own criteria: five of 25 items were dropped for discrimination indices below 0.3, and retained difficulties spanned 0.25 to 0.90.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[assessment-validity]]
-- [[higher-ed]]
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[self-report-measures]]
-
-## Connected Articles
-
-- [[ai-literacy-assessment-misalignment]] — Self-assessment of AI literacy misaligns with actual skill
-- [[ai-literacy-continuum-higher-education]] — A practical five-stage developmental continuum for AI literacy in higher education
-- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI literacy through interaction patterns
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI literacy beyond the skills gap
-- [[huang-interpretable-knowledge-tracing-2026]] — Knowledge tracing and item response theory
-
 ## Citation
 
 Jin, Y., Martinez-Maldonado, R., Gašević, D., & Yan, L. (2025). [*GLAT: The generative AI literacy assessment test*](https://doi.org/10.1016/j.caeai.2025.100436). *Computers and Education: Artificial Intelligence*, 9, 100436. https://doi.org/10.1016/j.caeai.2025.100436

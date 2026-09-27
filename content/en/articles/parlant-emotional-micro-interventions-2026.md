@@ -59,34 +59,6 @@ The AI element is a development aid, and its scope is narrow. To widen a reperto
 - Authenticity cannot be supplied by the framework. A forced tone can backfire and breed cynicism, so the same phrases will not work for every instructor.
 - Micro-interventions are not a substitute for structural support: they cannot compensate for poor curricula, inadequate resources or systemic inequities, and the direct reframing style may need cultural adaptation.
 
-## Connected Concepts
-
-- [[anxiety-and-stress]]
-- [[social-emotional-learning]]
-- [[self-efficacy]]
-- [[situated-learning]]
-- [[cognitive-psychology]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[learner-identity]]
-- [[motivation]]
-- [[well-being]]
-- [[higher-ed]]
-- [[professional-training]]
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[tpack]]
-- [[community-of-inquiry]]
-
-## Connected Articles
-
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI anxiety and academic motivation among university students, with emotion regulation as a mediator
-- [[ai-emotional-intelligence-teacher-development-2026]] — emotional intelligence as a force in teachers' professional development
-- [[human-ai-complementarity-social-emotional-learning-2026]] — human and AI roles in early social-emotional learning
-- [[emotion-aware-classroom-iot-monitoring-2026]] — sensing student emotion in the classroom through IoT monitoring
-- [[epistemic-emotions-collaborative-problem-solving]] — epistemic emotions during collaborative problem solving
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — how adaptive learning environments relate to students' emotions
-
 ## Citation
 
 Parlant, F. (2026). [Can You Feel It? A Practical Guide to Emotional Micro-Interventions for Higher Education Teachers (and Others)](https://doi.org/10.35542/osf.io/bmh7k_v1). OSF Preprints.

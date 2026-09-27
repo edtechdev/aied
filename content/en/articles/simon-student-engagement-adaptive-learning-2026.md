@@ -55,24 +55,6 @@ The authors interpret the social-interaction findings through [[motivation|self-
 - Engagement measurement was uneven across the evidence base: of the 44 studies appraised, only 10 reported both reliability and validity data for their instruments and 17 reported no psychometric information at all, while just eight were randomized controlled trials (12 non-randomized, eight descriptive, 15 mixed-method, one qualitative).
 - Effect sizes were out of scope, so the review names factors without giving any of them relative weight; the authors recommend meta-analysis to establish relative impact and experience sampling methods (ESM) for more ecologically valid engagement measurement.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[student-engagement]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[motivation]]
-- [[online-teaching-and-learning]]
-- [[feedback]]
-- [[self-regulated-learning]]
-
-## Connected Articles
-
-- [[ai-student-engagement-online-learning-review-2025]] — AI and student engagement in online learning
-- [[ai-online-education-engagement-satisfaction-2026]] — AI, online engagement and satisfaction
-- [[interactive-learning-dashboards-engagement]] — Dashboards and engagement
-- [[zerkouk-comprehensive-review-its-2025]] — Comprehensive ITS review
-
 ## Citation
 
 Simon, P. D., Zeng, L. M., & Fryer, L. K. (2026). [A systematic review of student engagement research in adaptive learning platforms](https://doi.org/10.1016/j.caeo.2026.100360). *Computers and Education Open*, 10, 100360.

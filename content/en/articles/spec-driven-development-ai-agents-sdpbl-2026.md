@@ -41,23 +41,6 @@ This report speaks directly to the [[cs-education|programming education]] thread
 - Added lines of code is a crude efficiency proxy that misses class design quality, refactoring, and redundant-code removal, and code comprehension was scored by instructors subjectively rather than by objective tests.
 - Instructor interventions are a confound for the central finding: the absence of a negative correlation between AI usage and comprehension may itself reflect the weekly one-on-one interviews.
 
-## Connected Concepts
-
-- [[cs-education]]
-- [[project-based-learning]]
-- [[agentic-ai]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[agentic-education-coding]] — Agentic AI tools in coding education
-- [[ai-writes-code-student-writes-model-2026]] — Ensuring comprehension when AI writes the code
-- [[liu-tool-tutor-crutch-programming-2026]] — Scaffolding vs. offloading in AI-assisted programming
-- [[code-review-genai-cs1]] — Instructor-led verification of AI-generated code in CS1
-- [[genai-meta-analysis-programming-learning]] — Effects of generative AI on programming learning
-- [[reshaping-cs-education-genai]] — Redesigning CS education for the generative-AI era
-
 ## Citation
 
 Tanaka, H., Igaki, H., Shimari, K., Honda, K., & Fukuyasu, N. (2026). [Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL](https://arxiv.org/abs/2608.30572). *arXiv preprint arXiv:2608.30572*.

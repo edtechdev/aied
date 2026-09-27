@@ -12,7 +12,6 @@ level: [higher ed]
 sources: ['raw/papers/2608.03973.md']
 confidence: high
 discipline: [business education]
-connected_faqs: [asynchronous-online-courses-ai]
 methods: [mixed-methods-research]
 ---
 
@@ -38,24 +37,6 @@ Uses multipronged analysis (syllabi review, educator survey, qualitative intervi
 - Courses and instructors were a convenience sample, which the authors note limits generalizability to institutions with different resources, student populations, or cultural settings.
 - Data collection was cross-sectional during a period of rapid GAI change, so adoption dynamics over time are not captured.
 - Survey respondents were primarily early adopters, which may overestimate GAI's perceived effectiveness across the broader marketing education community.
-
-## Connected Concepts
-
-- [[generative-ai]]
-- [[higher-ed]]
-- [[learning-design]]
-- [[teacher-role]]
-- [[professional-training]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[ai-interior-design-malaysia-2026]] — Artificial Intelligence as Catalyst and Contested Terrain: Transforming Interior Design Practice, Pedagogy, and Professional Regulation in Malaysia
-- [[talebzadeh-ai-green-education-2026]] — The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
-- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Rethinking Higher Education: From Fixed Curricula to Learnity Graphs
 
 ## Citation
 

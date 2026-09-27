@@ -52,24 +52,6 @@ Context mattered. At highly selective universities, the proportion of deep engag
 - The study has no data on students' use of general-purpose [[generative-ai|GenAI]] tools, and students who adopted the tutor may be more motivated than those who did not, which limits attribution of the patterns to the tutor itself.
 - Shallow engagement was inferred from indicators such as copy-pasting and direct answer requests; the authors describe that identification as needing further validation.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[socratic-method]]
-- [[help-seeking]]
-- [[learning-analytics]]
-- [[student-engagement]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[students-llm-usage-critical-thinking]] — Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
-- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies
-- [[knowledge-gap-detection-ai-tas]] — Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
-- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-
 ## Citation
 
 Youjie Chen et al. (2026). [Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use](https://arxiv.org/abs/2602.00447).

@@ -45,21 +45,6 @@ The study is described as factor-informed: AI-literacy-related domains were trea
 - The sample came from one university context and was modest for a complex latent-variable model, and the EFA-informed refinement, CFA, discriminant-validity diagnostics and SEM were all conducted on the same N = 130 dataset rather than split into development and validation samples; lavaan also produced near-singular variance-covariance warnings in some models.
 - Measurement evidence was not uniformly strong — information-source [[student-engagement|engagement]] had weak AVE and support/enablers was marginal, with mixed discriminant validity — so the broader AI-literacy domains should not be treated as fully validated dimensions.
 - The study did not measure [[cognitive-offloading|cognitive load]], classroom performance, observed AI use or longitudinal development, leaving open whether the identified predictors translate into actual pedagogical practice.
-## Connected Concepts
-
-- [[math-education]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[stem-education]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[tpack]]
-- [[teacher-ai-competency]]
-## Connected Articles
-
-- [[teacher-control-ai-generation-math-visuals]]
-- [[genai-runaway-object-math-higher-ed]]
-
 ## Citation
 
 Mosia, M., Nannim, F. A., & Egara, F. (2026). [*AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study*](https://doi.org/10.1016/j.caeai.2026.100650).

@@ -66,35 +66,6 @@ The recommended path is empirical calibration: estimate difficulty and discrimin
 - The study ran at one institution over one 10-week quarter with two instructors, and classroom retrieval practice was managed by a single instructor.
 - About 70% of deployed items were answered correctly by everyone, restricting score variance and limiting what item statistics can show.
 
-## Connected Concepts
-
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[educational-measurement]]
-- [[formative-assessment]]
-- [[item-response-theory]]
-- [[retrieval-spacing-interleaving]]
-- [[student-ai-interaction]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[prior-knowledge]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[psychometrically-aware-ai]]
-- [[self-report-measures]]
-- [[trust-calibration]]
-
-## Connected Articles
-
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal Item Parameter Estimation using Simulated Response Probabilities
-- [[bayesian-consensus-irt-item-banks-2026]] — Bayesian Consensus Calibration of Continuously Evolving IRT Item Banks
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: A Process-Based Framework for Fine-Grained Math Item Quality Assessment
-- [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
-
 ## Citation
 
 Yuan An & Lei Wang (2026). [*Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses*](https://arxiv.org/abs/2609.27063). arXiv preprint.

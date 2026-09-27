@@ -54,38 +54,10 @@ page_kind: [evaluation]
 
 ## Limitations
 
-
 - All measures were self-reported, leaving room for social desirability bias, recall bias, and subjective interpretation of items.
 - The sample was modest and drawn from a single public HBCU, and was predominantly female and STEM-enrolled; the authors state the profiles are context-specific and may not represent students at predominantly white institutions.
 - The cluster solution was stable across random initializations but the weak silhouette coefficient means the profiles should be read as meaningful yet partially overlapping rather than fully distinct, and different internal validation indices favored different solutions (K = 2 versus K = 3), which the authors attribute to the difficulty of identifying subgroup structure in moderate-sized psychological datasets.
 - The cross-sectional design prevents causal inference - whether psychological characteristics shape AI trust or AI experiences shape psychological functioning - and the authors call for larger multi-institution datasets, longitudinal designs tracking profiles over time, alternative clustering approaches such as hierarchical clustering or Gaussian mixture models, and further validation.
-
-## Connected Concepts
-
-- [[trust]] — the outcome construct at the center of the study, measured as confidence in and acceptance of AI systems.
-- [[trust-calibration]] — the paper reads resilient students' low AI trust as calibrated skepticism rather than blanket rejection.
-- [[anxiety-and-stress]] — perceived stress was one of the two strongest differentiators of the student profiles.
-- [[well-being]] — psychological resilience and stress are treated as indicators of students' psychological functioning.
-- [[self-efficacy]] — confidence in one's own abilities is the resilience-related theme that coexists with AI skepticism.
-- [[machine-learning]] — K-means clustering with internal validation metrics and stability analysis is the analytic core.
-- [[technology-acceptance-model]] — the AI trust scale was adapted from AI trust and technology acceptance literature.
-- [[higher-ed]] — the study population is university students at a US HBCU.
-- [[self-report-measures]] — all constructs came from voluntary Likert-scale questionnaire items.
-- [[equity-in-ai-education]] — the institutional framing is HBCU and MSI AI research capacity.
-- [[learning-analytics]] — the paper sits in the space of statistical and ML profiling of educational survey data.
-
-## Connected Articles
-
-- [[trust-reliance-ai-education-2026]] — trust and appropriate reliance in AI-assisted problem solving
-- [[icet-ml-education-trust-2026]] — machine learning applied to trust in education
-- [[human-ai-collaboration-trust-expectations]] — expectation effects on trust in human–AI collaboration
-- [[task-context-trust-educational-hri-2026]] — task context and trust in educational human–robot interaction
-- [[student-mental-models-genai]] — how learners model generative AI systems
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — dependence on AI alongside literacy and self-efficacy
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — student personas in higher education generative AI adoption
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI anxiety, motivation, and emotion in academic settings
-- [[student-math-competence-clustering]] — clustering students from survey and competence data
-- [[xai-teachers-trust-edtech-recommendations-2026]] — explainability and trust in AI-driven educational recommendations
 
 ## Citation
 

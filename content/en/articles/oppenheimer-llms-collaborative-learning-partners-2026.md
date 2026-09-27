@@ -41,23 +41,6 @@ level: [higher ed]
 - The performance measures come from one teaching assistant's rubric scoring of two assignments (iterations 1 and 5), and although the coder was blind to the study he was not blind to assignment timing, so fatigue or leniency as the term progressed could inflate the apparent gain; the first task could also have been easier than the last.
 - The [[self-efficacy]] and affective findings are self-report, using bi-valenced Likert scales and open-ended text, and the sentiment classification used to corroborate them was itself run with GPT-4 — the same class of model under study.
 
-## Connected Concepts
-
-- [[collaborative-learning]]
-- [[llm]]
-- [[human-ai-collaboration]]
-- [[student-ai-interaction]]
-- [[conversational-ai]]
-- [[learning-gains]]
-
-## Connected Articles
-
-- [[song-genai-learning-partner-srl-over-time-2026]]
-- [[student-perception-ai-use-collaboration]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[ai-feedback-critical-thinking-writing-2026]]
-- [[multi-agent-llm-social-learning]]
-
 ## Citation
 
 Oppenheimer, D. M., Cash, T. N., & Connell Pensky, A. E. (2025). [You've Got AI Friend in Me: LLMs as Collaborative Learning Partners](https://doi.org/10.1007/s40593-025-00521-6). *International Journal of Artificial Intelligence in Education*, 35, 3896–3921.

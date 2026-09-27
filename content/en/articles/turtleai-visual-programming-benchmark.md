@@ -34,25 +34,6 @@ Vision-language models (VLMs) have been explored for visual programming, where t
 - Domain coverage is narrow: the 823-task benchmark is confined to Turtle Graphics, and only 102 tasks come from real-world student drawings while 619 are synthetic.
 - Fine-tuned models still struggle on hand-drawn inputs (DSCraft), which the authors attribute to synthetic training data that focuses on clean renderings and lacks the noise and distortions of human drawings.
 
-## Connected Concepts
-
-- [[computational-thinking]]
-- [[stem-education]]
-- [[math-education]]
-- [[pedagogical-llm-training]]
-- [[benchmark]]
-- [[multimodal]]
-- [[k-12]]
-
-## Connected Articles
-
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
-- [[privacy-aware-classroom-incident-recognition-2026]] — Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
-- [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[eduzone-llm-safety-k12]] — EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
-
 ## Citation
 
 Wen, C., & Staub, J. (2026). [*TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics*](https://arxiv.org/abs/2606.03626).

@@ -42,28 +42,6 @@ This empirical study was conducted across two cohorts (N = 262 students) in a un
 
 The study is context-specific (a Slovak university software engineering course; UML diagram tasks in a [[discipline-specific-aied|domain-specific]] language), and the sentiment analysis relied on a custom heuristic Slovak lexicon rather than validated general-purpose tools. The dataset included a high proportion of international students, but nationality was not used in analysis. The no-feedback control condition's effects and long-term retention are not fully separated from the main comparisons. As a single-institution study, generalizability to other disciplines, languages, and feedback contexts requires replication.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[formative-assessment]]
-- [[ai-feedback-quality]]
-- [[higher-ed]]
-- [[curriculum-design]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[automated-essay-scoring]]
-
-## Connected Articles
-
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback
-- [[multimodal-ai-feedback-learning]] — LLM-Based Multimodal AI Feedback Produces Equivalent Learning
-- [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
-- [[rail-ed-genai-literacy-teacher-education]] — AI Literacy Training for Teachers
-- [[liang-genai-systematic-review-human-ai-2026]] — GenAI Systematic Review: Human-AI
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap
-
 ## Citation
 
 Pecuchova, J., Benko, L., & Drlik, M. (2026). [*Reimagining feedback through generative AI in engineering education*](https://doi.org/10.1016/j.caeai.2026.100574). *Computers and Education: Artificial Intelligence*.

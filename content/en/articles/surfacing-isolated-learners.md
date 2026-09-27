@@ -19,7 +19,6 @@ discipline: [cs education]
 
 ## What It Is
 
-
 ## How It Works
 
 Three signals feed into a topic priority score:
@@ -56,31 +55,6 @@ This is one of the first systems to operationalize **[[human-ai-collaboration|hu
 - Preliminary findings — not yet generalizable across diverse contexts
 - Weights set by [[research-methods-aied|researcher]] co-design, not learned from data
 
-## Connected Concepts
-
-- [[administrator]]
-- [[equity-in-ai-education]]
-- [[teacher-ai-competency]]
-- [[help-seeking]]
-- [[bias-mitigation]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[feedback]]
-
-## Connected Articles
-
-- [[a4l-analytics-pipeline]]
-- [[aaai2026-prompting-literacy-k12]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[access-not-enough-ai-tutoring-2026]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[adaptive-pretesting-retention]]
-- [[affective-text-wearable-student-health]]
-- [[agency-gap-ai-writing]]
-- [[agent-voice-accents-k12-group-learning]]
-- [[agentic-ai-education-scoping-review]]
 ## Citation
 
 Park, J., Medhat, Y., Wai, H. P., Thajchayapong, P., & Goel, A. K. (2026). [Surfacing Isolated Learners with Outcome-Independent Mediation of Feedback between Teachers and Students Using AI](https://arxiv.org/abs/2605.29240).

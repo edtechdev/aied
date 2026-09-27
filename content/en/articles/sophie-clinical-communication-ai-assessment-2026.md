@@ -57,31 +57,5 @@ The paper's most transferable design finding is a negative one. In the authors' 
 - The LLM judge was internally validated on archived data from the earlier study, showed weaker agreement for Be Explicit, and read transcripts only, without vocal, visual, or affective cues.
 - Human-likeness ratings cannot be attributed to the [[llm|language models]] alone, since both were embedded in an audiovisual system; the Tavus platform also caps concurrent users by payment plan.
 
-## Connected Concepts
-- [[simulation]]
-- [[automated-assessment]]
-- [[professional-training]]
-- [[medical-education]]
-- [[conversational-ai]]
-- [[virtual-and-augmented-reality]]
-- [[feedback]]
-- [[self-report-measures]]
-- [[assessment-validity]]
-- [[self-efficacy]]
-- [[experiential-learning]]
-- [[usability-research]]
-
-## Connected Articles
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[medeasy-ai-standardized-patients]] — MedEasy: Designing AI Standardized Patients for Clinical Consultation Training
-- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist
-- [[ai-psychotherapy-training-avatars]] — Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars
-- [[genai-simulate-patient-history-pbl-2026]] — Using Generative AI to Simulate Patient History-Taking in a Problem-Based Learning Tutorial: A Mixed-Methods Study
-- [[residencyrl-clinical-rl-training-2026]] — ResidencyRL: Reinforcement Learning in Simulated Clinical Environments
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-Powered Simulation for Nursing Education: Mixed Methods Systematic Review
-- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
-- [[adversarial-stress-testing-role-playing-agents]] — Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation
-- [[ai-teammate-task-distribution-medical-training-2026]] — AI as Teammate: Rethinking Task Distribution in Medical Training
-
 ## Citation
 Hasan, M., Epstein, R., Carroll, T., & Hoque, E. (2026). [Scalable AI-based clinical communication training and automated assessment](https://arxiv.org/abs/2609.22517). arXiv:2609.22517.

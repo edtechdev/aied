@@ -64,31 +64,6 @@ AIRIS is presented as a classroom-level response to the boiling frog problem: it
 - The motivating evidence comes from other work rather than this paper: foundation models solving introductory physics at expert level, documented metacognitive laziness, and the German [[ethics]] Council's warning about competence loss are cited as context, not measured here.
 - Teacher capacity is an assumption rather than a result — the framework depends on teachers who can anticipate plausible AI errors and design AI-resistant tasks, and the paper states that preparation programs have not yet systematically built those skills.
 
-## Connected Concepts
-
-- [[physics-education]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[ai-education]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
-- [[ai-generated-smartphone-circular-motion-lab-2026]] — AI-Generated Smartphone Physics Lab
-- [[probing-ai-generated-physics-solutions-2026]] — Probing AI-Generated Physics Solutions
-- [[benzion-ai-physics-simulations-virtual-lab]] — AI for Rapid Physics Simulations
-- [[genai-ar-physics-simulation-prompt-2026]] — GenAI AR Physics Simulations
-- [[hashmi-socratic-physics-chatbot-2025]] — Socratic Physics Chatbot
-- [[physics-chatbot-epistemological-beliefs-2026]] — Chatbot Preferences in AI-Mediated Physics Learning
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
-- [[ai-partner-science-epistemic-vigilance]] — AI as a Partner in Science Learning: Epistemic Vigilance
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators
-
 ## Citation
 
 Kuhn, J., Küchemann, S., Rakestraw, D. J., & Vogt, P. (2026). [*It's Not the Tool, It's the Task: A Framework for Cognitively Activated AI Augmentation in Physics Instruction*](https://doi.org/10.48550/arXiv.2601.13812). [physics.ed-ph].

@@ -43,28 +43,6 @@ The [[research-methods-aied|research]] responds to the widespread adoption of AI
 - The objective measure was scenario-based but not tailored to subject area or grade level, so it does not capture the subject-specific AI integration that the framework treats as central.
 - The authors note that recent additions to AI literacy frameworks (Detect AI, generative AI literacy) are not covered, and that many existing items are overly technical for K–12 educators — the measure may reward familiarity with terminology rather than the capacity to integrate AI into teaching.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[assessment-validity]]
-- [[ai-literacy]]
-- [[teacher-ai-competency]]
-- [[metacognition]]
-- [[k-12]]
-- [[educational-development]]
-- [[learning-analytics]]
-- [[self-report-measures]]
-- [[self-assessment]]
-
-## Connected Articles
-
-- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
-
 ## Citation
 
 Zhang, S., Xiao, R., Botelho, A. F., Liao, G., Chiu, T. K. F., Stamper, J., & Koedinger, K. R. (2026). [*How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures*](https://arxiv.org/abs/2601.06101).

@@ -39,21 +39,6 @@ This is a **design-based development and deployment study**. The [[research-meth
 
 The deployment involved 32 high school students, and detailed learning-outcome data are not fully reported in the abstract; the focus is on the design and observed use of the system. The system's effectiveness relative to other computational-thinking approaches requires comparative evaluation. Findings are specific to the high-school context and the particular robot/AI configuration.
 
-## Connected Concepts
-
-- [[computational-thinking]]
-- [[cs-education]]
-- [[educational-robotics]]
-- [[llm]]
-- [[embodied-learning]]
-- [[k-12]]
-
-## Connected Articles
-
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM: LLMs and Robotic Simulation
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-- [[computational-thinking-educational-robotics-secondary-2026]] — Computational Thinking and Educational Robotics
-
 ## Citation
 
 Li, L., Du, C., Sun, J., et al. (2026). [*RoboBlockly Studio: Conversational block programming with embodied robot feedback for computational thinking*](https://doi.org/10.1145/3800645.3813071).

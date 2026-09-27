@@ -42,21 +42,6 @@ The bounded question budget per slide forces the system to make pedagogical deci
 - The pipeline relies on a specific proprietary LLM (Gemini), which the authors flag as a reproducibility and long-term stability risk if the underlying API model is updated or deprecated.
 - The multi-pass architecture incurs substantial LLM inference latency and API costs when processing large decks.
 
-## Connected Concepts
-
-- [[llm]]
-- [[automated-question-generation]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[multimodal]]
-- [[higher-ed]]
-- [[educational-nlp]]
-- [[generative-ai]]
-## Connected Articles
-
-- [[generate-then-validate-question-gen]]
-- [[ai-generated-slides-student-perception]]
-- [[aissa-slides-analysis]]
 ## Citation
 
 Salsman, J. (2026). [*Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation*](https://arxiv.org/abs/2605.26428).

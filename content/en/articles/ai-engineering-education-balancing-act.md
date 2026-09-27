@@ -42,28 +42,6 @@ The chapter treats assessment as a key lever, reviewing frameworks such as the A
 - The sample is self-selected and international, dominated by engineering fields (52% of respondents), so the use patterns reported are not representative of all students.
 - 19 of the 100 respondents had never used [[llm|LLMs]] for their studies, so the reported use patterns rest on the remaining 81 users, and the questionnaire collected no learning-outcome data.
 - The chapter is a conceptual and literature-based analysis, not a controlled study: it documents perceptions of value and risk and cannot establish an effect of LLM use on learning.
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[teacher-ai-competency]]
-- [[bias-mitigation]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-
-## Connected Articles
-
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
-- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-- [[ai-team-teaching-talk-analytics]] — AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI
-
 ## Citation
 
 Olya Kudina (2026). [Using AI in engineering education: a balancing act, driven by clear purpose](https://arxiv.org/abs/2606.16626). The Routledge Handbook of the Philosophy of Engineering, 2nd ed.

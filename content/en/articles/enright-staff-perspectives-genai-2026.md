@@ -43,30 +43,6 @@ The study used an exploratory cross-sectional design with an online survey (host
 - Because the sample was small with low cell counts, only descriptive statistics were computed in SPSS version 28 and no inferential tests were run.
 - Data were collected between August 2023 and June 2024; the authors note that AI technologies and policies have evolved rapidly since, so some findings may no longer reflect current practice, and the study captures self-reported attitudes and experience rather than observed teaching or student outcomes.
 
-## Connected Concepts
-
-- [[teacher-role]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[student-ai-interaction]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[ethics]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[critical-thinking]]
-- [[prompt-engineering]]
-
-## Connected Articles
-
-- [[educators-engagement-ai-pbl-review-2026]]
-- [[tam-critical-use-genai-engineering-2026]]
-- [[ssaho-ai-academic-integrity-review-2025]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[ai-tools-academic-work-cheating-2026]]
-
 ## Citation
 
 Enright, H., Horvath, D., Petrovic, K., & Šarkić, B. (2026). [*"AI should help them learn, not learn for them": University staff perspectives on the role of Generative AI in education*](https://doi.org/10.53761/d5n2yh02). *Journal of University Teaching and Learning Practice*, 23(7).

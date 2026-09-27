@@ -64,26 +64,6 @@ This paper is a significant contribution to the [[teacher-ai-competency]] concep
 - Digital competence had R² = 0.230, so the model accounts for only 23% of its variance and leaves most of the construct to unmeasured determinants.
 - Contextual structural factors — connectivity, school infrastructure investment, software licensing, and national policy — were outside the model, and the authors present the findings as specific to the Dominican Republic.
 
-## Connected Concepts
-
-- [[teacher-ai-competency]] — the target construct the model is designed to assess and predict
-- [[self-efficacy]] — the exogenous root driving usefulness, ease of use, and enjoyment
-- [[motivation]] — perceived enjoyment as intrinsic motivation
-- [[learning-design]] — curriculum planning and GenAI integration in teaching
-- [[generative-ai]] — the tools (ChatGPT, DALL-E, Midjourney, Synthesia, HeyGen) being planned for
-- [[educational-development]] — training implications
-- [[teacher-role]] — teachers as orchestrators rather than replaced by AI
-- [[ai-education]] — broader field of AI integration in teaching
-- [[pedagogy]] — pedagogical digital competence and engaging pedagogies
-- [[assessment]] — GenAI tools for assessment efficiency
-
-## Connected Articles
-
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education AI literacy
-- [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy training in teacher education
-- [[ai-changing-teaching-workflows]] — AI changing teaching workflows
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI literacy and self-efficacy
-
 ## Citation
 
 Guillén-Gámez, F. D., Tomczyk, Ł., Habibi, A., & Díaz Vargas, B. L. (2026). [*Transforming curriculum design with generative AI: a model for assessing teacher digital competence*](https://doi.org/10.1007/s11423-026-10647-6). *Educational Technology Research and Development*.

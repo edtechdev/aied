@@ -71,26 +71,6 @@ The framework was evaluated on nine real-world benchmarks (Spanish, ASSISTments1
 - Preprocessing removed short histories: student sequences with fewer than five interactions were excluded, which may bias estimates for the sparsest learners.
 - Reliance on auxiliary models: the unbiasedness guarantee holds only if either the propensity model or the imputation model is accurate, and the method assumes mastery changes gradually, following the Power Law of Practice.
 
-## Connected Concepts
-
-- [[personalized-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[bias-mitigation]]
-- [[adaptive-learning]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-## Connected Articles
-
-- [[explainable-probabilistic-kt]] — Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
-- [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
-- [[knowledge-gap-detection-ai-tas]] — Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
-- [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
-- [[reliable-programming-kt]]
-- [[huang-interpretable-knowledge-tracing-2026]]
-
 ## Citation
 
 Zhan et al. (2026). [Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing](https://arxiv.org/abs/2605.05958). arXiv preprint.

@@ -61,35 +61,6 @@ Long-term effects are essentially unmeasured: the included meta-analyses rarely 
 - Heterogeneity is high (84% at the effect-size level), and all effects are averages of averages: nothing here pins down a specific tool, dose or duration in a specific classroom, and the influence of factors such as the [[research-methods-aied|measurement and design features]] of the underlying primary studies could not be disentangled.
 - The publication-bias picture is internally inconsistent — a symmetric funnel plot alongside significant PET-PEESE results — so the direction of the bias is presumed but not quantified, and the generalizability of a corpus weighted towards Asia and tertiary education to other systems and school levels is untested; because effects were larger in more recent meta-analyses while quality rose and power fell, the temporal trend is as compatible with shifting research practice as with improving technology — a rival explanation the authors raise but cannot rule out.
 
-## Connected Concepts
-
-- [[meta-analysis-systematic-review]] — the publication type synthesized here, and the layer whose quality is itself under audit
-- [[ai-ed-evaluation]] — the evidence base being appraised, including its power and publication-bias problems
-- [[limitations-in-aied-research]] — reproducibility deficits, underpowered meta-analyses and the garbage-in-garbage-out constraint
-- [[learning-gains]] — the outcome construct, quantified as Hedges' g across clusters and AI types
-- [[generative-ai]] — one AI type among six tested, and not the largest effect despite current prominence
-- [[intelligent-tutoring]] — the most established AI type, with the narrowest within-cluster heterogeneity
-- [[conversational-ai]] — chatbots, including ChatGPT, as the numerically largest AI-type effect
-- [[automated-essay-scoring]] — automated writing evaluation, the only AI type with a confidence interval including zero
-- [[language-learning]] — the most studied outcome domain, to the relative neglect of STEM
-- [[self-regulated-learning]] — the one outcome showing a negative coefficient, read as possible overreliance
-- [[motivation]] — the socio-emotional domain where the largest single effect sizes appear
-- [[higher-ed]] — 74% of included meta-analyses focused on tertiary students
-- [[k-12]] — comparatively under-represented, a stated gap for future work
-- [[research-methods-aied]] — reporting, risk-of-bias and measurement choices that future meta-analyses must address
-
-## Connected Articles
-
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — A meta-meta-analysis working at the primary-study level rather than the meta-analytic level
-- [[genai-meta-analysis-programming-learning]] — A domain-specific meta-analysis of generative AI and programming learning outcomes
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analytic evidence on AI literacy interventions rather than AI-delivered instruction
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Language-learning effects of a neighbouring technology, useful for calibrating chatbot effects
-- [[llm-formative-feedback-systematic-review-2026]] — Systematic review of LLM-generated formative feedback, the mechanism behind several outcome clusters
-- [[oneill-presumed-effective-meta-analysis-2026]] — Meta-analysis interrogating what counts as an effective AI intervention
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — A scrutiny of claims made from tutoring evidence, relevant to effect-size inflation
-- [[weidlich-chatgpt-effect-search-cause-2025]] — On mistaking effects of searching for effects of learning when students use AI
-- [[lock-integrating-ai-online-learning-higher-ed-2025]] — Higher-education integration context for the tertiary-heavy evidence base
-
 ## Citation
 
 Emslander, V., Lindner, M. A., Eitel, A., Kasneci, E., & Bardach, L. (2026). [*What Do We Know About the Effects of Artificial Intelligence in Education? A Second-Order Meta-Analysis*](https://osf.io/preprints/psyarxiv/6e5du) (Preprint, version 1, 8 June 2026).

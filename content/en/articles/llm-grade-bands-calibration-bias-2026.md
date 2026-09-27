@@ -17,7 +17,6 @@ page_kind: [evaluation]
 source_url: https://doi.org/10.1080/02602938.2026.2734796
 sources: ['raw/papers/llm-grade-bands-calibration-bias-2026.md']
 confidence: high
-connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 contributors: [editor]
 reviewed_by: [editor]
 ai_assist:
@@ -75,15 +74,6 @@ The practical reading is therefore about the shape of the risk rather than a ran
 - **One corpus, one prompt, one context.** A single filtered set of British university assignments marked with one shared prompt leaves discipline, genre, rubric and prompt design untested; other settings may produce different calibration.
 - **Reasoning effort could not be analyzed as a primary factor.** High-reasoning runs were unavailable and the available reasoning configurations did not form a complete comparison, so the supplementary low-versus-medium analysis remains exploratory.
 - **Model predictions were not re-moderated by human experts.** Accuracy is measured against existing reference labels without independent review of disputed or borderline essays, so disagreements are attributed to the model by construction.
-
-## Connected Concepts
-[[automated-assessment]], [[automated-essay-scoring]], [[assessment-validity]], [[educational-measurement]], [[evaluative-judgment]], [[generative-ai]], [[llm]], [[human-ai-collaboration]], [[bias-mitigation]], [[trust-calibration]]
-
-## Connected Articles
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs Do Not Grade Essays Like Humans
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: Making AI Scoring More Reliable for Educational Assessment
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline
-- [[ai-grading-handwritten-physics-2026]] — Large Scale AI Grading of Handwritten Physics Assessments: Score Agreement and Olympiad Team Selection Outcomes
 
 ## Citation
 

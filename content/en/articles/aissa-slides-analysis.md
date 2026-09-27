@@ -61,25 +61,6 @@ To assess perceived usability, the [[usability-research|System Usability Scale (
 - The study measured technical performance and perceived usability, not learning: no comparison against human teacher scores was run, and there is no evidence that iterative revision raised slide quality or presentation performance.
 - One model and one extraction pipeline were tested (GPT 5.2 through the OpenAI API, on features extracted from `.pptx` files), so how scores and feedback shift with other models or slide formats is unknown.
 
-## Connected Concepts
-
-- [[human-in-the-loop-ai]]
-- [[automated-essay-scoring]]
-- [[ai-ed-evaluation]]
-- [[formative-assessment]]
-- [[learning-analytics]]
-- [[automated-assessment]]
-- [[llm]]
-
-## Connected Articles
-
-- [[cong-confidence-asag-2026]] — Automatic Short Answer Grading with LLMs
-- [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
-- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
-- [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
-- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
-
 ## Citation
 
 Becerra, A., Gomez, D., & Cobos, R. (2026). [*AISSA: AI-based Student Slides Analysis Tool for Academic Presentations*](https://arxiv.org/abs/2605.04729).

@@ -12,7 +12,6 @@ confidence: high
 research_method: [quasi-experiment]
 level: [teacher education, higher ed]
 audience: [faculty developers, researchers]
-connected_faqs: [top-10-findings-ai-education-instructors]
 page_kind: [evaluation, framework]
 ---
 
@@ -71,37 +70,6 @@ That cycle also frames the study's forward-looking claim. As models internalize 
 - The outcome is coded feedback quality rather than a learning effect — no student ever received the feedback — and quality was scored by three trained coders with interrater reliability between κ = .73 and .93 on a 20% double-coded sample, leaving four fifths of the feedbacks single-coded.
 - Study 1's design allowed only 20 learning goals per prompt-and-model cell with no repeated measurement within a condition, and the eleven prompt variants were selected empirically from 330 pilot feedbacks by two authors identifying the promising features, rather than pre-registered.
 - The prompt manipulation held linguistic formulation constant within each category, so the study cannot separate the effect of a prompt category from the wording used to instantiate it, and it covers a single task — feedback on learning goals in lesson planning.
-
-## Connected Concepts
-
-- [[ai-literacy]] — the paper's framing: instrumental (models, prompts) alongside critical dimensions
-- [[prompt-engineering]] — operationalized as the 3K model's eleven practice-oriented categories
-- [[ai-feedback-quality]] — the dependent variable, rated on nine quality categories
-- [[feedback]] — the professional practice the study is trying to make affordable and individualized
-- [[feedback-literacy]] — the five-area cycle the paper uses to situate LLM interaction
-- [[teacher-ai-competency]] — model selection treated as a didactic decision, not a technicality
-- [[teacher-education]] — pre-service teachers and the case for teaching prompting
-- [[generative-ai]] — ChatGPT-4, Claude 3 and Gemini Advanced as the studied models
-- [[llm]] — model differences as predictors of output quality
-- [[discipline-specific-aied]] — subject-specific terminology as the decisive prompt feature
-- [[evaluative-judgment]] — the epistemic layer: translating assessment criteria into prompts
-- [[self-regulated-learning]] — iterative revision of prompts within the feedback cycle
-- [[formative-assessment]] — the function the generated feedback is meant to serve
-- [[professional-training]] — continuing education and PD as the delivery route for these skills
-- [[benchmark]] — the paper's call for pedagogical benchmarks and automated coding
-
-## Connected Articles
-
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback: Student Perceptions of Usefulness and Trustworthiness
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-- [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments Through AI-Supported Internal Feedback
-- [[ai-feedback-enactment-workflow-2026]] — Making AI-Generated Feedback Matter: From Provision to Student Enactment
-- [[reddig-maclellan-personalized-feedback-llm-2026]] — Generating In-Context, Personalized Feedback for Intelligent Tutors with Large Language Models
-- [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
-- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Prompts to Practice: A Pedagogical Framework for Human-Centered AI Engagement
-- [[wang-teacher-student-centered-agents-physics-2026]] — Comparing Teacher-Centered and Student-Centered Agents Based on Prompt Engineering
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: A Simulation-Based Study of Real-Time Coaching for Educational LLM Prompting
 
 ## Citation
 

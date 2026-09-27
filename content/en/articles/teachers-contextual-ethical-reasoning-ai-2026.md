@@ -43,19 +43,5 @@ The study's second contribution is empirical: the authors note little field evid
 - Teachers' accounts are self-reported and may reflect aspirational rather than fully enacted practice, with social desirability bias possible on universally recognized principles such as privacy, responsibility, and fairness.
 - AI technologies, policies, and discourse evolve rapidly, so the findings capture teachers' viewpoints only as of data collection (November 2024 – January 2025).
 
-## Connected Concepts
-- [[ethics]]
-- [[global-south]]
-- [[equity-in-ai-education]]
-- [[ai-education]]
-- [[teacher-role]]
-- [[ai-literacy]]
-
-## Connected Articles
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics: a cultural-historical and ecological framework
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Understanding ethical dimensions of AI in higher education
-- [[league-ethical-governance-student-data-2026]] — Ethical governance of student data in learning analytics
-- [[adarkwah-genai-unesco-policy-2026]] — Generative AI policy: a qualitative UNESCO framework analysis
-
 ## Citation
 Adelana, O. P., Ebubedike, M., Crabb, E., & Rienties, B. (2026). [Ethical principles of AI in education: Exploring teachers' contextual ethical reasoning through an STS lens](https://doi.org/10.1016/j.caeo.2026.100423). *Computers and Education Open*, 100423.

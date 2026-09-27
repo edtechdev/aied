@@ -61,34 +61,5 @@ Results are explained through [[constructivist]] learning theory, cognitive load
 - No structured training was provided, so heterogeneity in self-directed use patterns may have added variability.
 - The AI tools were the 2025 generation — DeepSeek V3.1 (released 21 August 2025) and Kimi's OK Computer Agent (September 2025) — since superseded, so the effects reflect that 2023–2025 window.
 
-## Connected Concepts
-- [[generative-ai]]
-- [[llm]]
-- [[conversational-ai]]
-- [[human-ai-collaboration]]
-- [[scaffolding]]
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[constructivist]]
-- [[student-engagement]]
-- [[student-ai-interaction]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[learning-gains]]
-- [[assessment]]
-- [[medical-education]]
-
-## Connected Articles
-- [[flipped-learning-genai-design-education-2026]] — Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course
-- [[ai-use-critical-thinking-medical-students-2026]] — From AI Use to Critical Thinking Among Medical Students: A Moderated Mediation Perspective on Cognitive Load and Self-Regulated Learning
-- [[international-students-conversational-ai-adaptation]] — Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing Students' and Faculty Experiences with Artificial Intelligence in Education: A Qualitative Study Using the Technology Acceptance Model
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]] — Bridging technology and education: The use of ChatGPT in grading pharmacy student exams
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ai-mediated-input-medical-english-asr-2026]] — AI-Mediated Input Transformation in Medical English: Speech Recognition and Transcript Reliability
-
 ## Citation
 Liu, Y. J., Ma, H. Z., Luo, H. Y., Xiong, Y. X., Qu, F. W., Xie, J. P., & Guo, Y. (2026). [*From traditional classroom to AI-enhanced flipped classroom: a three-year pedagogical evolution for international students in pharmacology*](https://doi.org/10.1186/s12909-026-09608-7). BMC Medical Education.

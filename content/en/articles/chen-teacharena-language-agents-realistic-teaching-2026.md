@@ -57,23 +57,6 @@ Two failure modes recur. The strategic surface learner is the lowest-scoring of 
 - **Task-level contracts, not learning.** Success means satisfying an evidence-to-trace contract, and the transfer probe uses one fixed weak model with zero headline weight.
 - **Frontier models only.** The board summarizes 17 frontier overlays, so these profiles say nothing about smaller or self-hosted systems.
 
-## Connected Concepts
-
-- [[pedagogical-agent]]
-- [[benchmark]]
-- [[intelligent-tutoring]]
-- [[simulating-students]]
-- [[scaffolding]]
-- [[formative-assessment]]
-
-## Connected Articles
-
-- [[astra-multi-agent-tutoring-benchmark-2026]]
-- [[measuring-llm-tutors-teach-vs-solve]]
-- [[teachbench-llm-teaching-evaluation]]
-- [[cdpk-pedagogy-benchmark-llms]]
-- [[ai-agents-complete-lms-assessment-validity-2026]]
-
 ## Citation
 
 Chen, Z., Liu, P., Sheng, R., Li, H., Tu, J., Deng, X., Shum, K., Liu, D., & Qu, H. (2026). [*TeachArena: Are language agents ready for realistic teaching work?*](https://arxiv.org/abs/2605.14322). arXiv:2605.14322 (version 3, revised August 2026). https://doi.org/10.48550/arXiv.2605.14322

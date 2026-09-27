@@ -39,15 +39,5 @@ institutions: [change-management]
 - The SEM model structure was deliberately held constant across subgroups to allow path-strength comparisons, so the reported fit is not the best achievable per group; the authors note subgroup-specific models would need larger subgroup samples.
 - AI attitudes fluctuate with media coverage and government priorities, so the cross-sectional timing of data collection captures one particular climate, and the reciprocal nature of activity-theory relations (e.g., Rules → Community and Community → Rules) was not tested longitudinally.
 
-## Connected Concepts
-- [[activity-theory-aied]]
-- [[teacher-role]]
-- [[technology-acceptance-model]]
-- [[educational-development]]
-- [[k-12]]
-
-## Connected Articles
-- [[lee-anson-k12-teachers-ai-activity-theory]] — K-12 teachers' perspectives on AI use through activity theory
-
 ## Citation
 Lee, J., & Granziera, H. (2026). [*Activity theory as a lens on teachers' adoption of AI technologies: A structural equation modeling*](https://doi.org/10.1016/j.caeo.2026.100349). Computers and Education Open, 10, 100349.

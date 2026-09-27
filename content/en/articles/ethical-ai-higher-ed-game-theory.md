@@ -7,7 +7,6 @@ foundations: [academic-integrity, ai-literacy]
 pedagogy: [motivation]
 technology: [generative-ai, llm]
 assessment: [formative-assessment]
-connected_faqs: [institutional-ai-policy]
 audience: [administrators, instructors]
 research_method: [theoretical analysis]
 level: [higher ed]
@@ -55,26 +54,6 @@ Across the model results, a consistent pattern emerges: **responsible AI use doe
 - Parameters are illustrative rather than estimated from data: payoffs a = 1, b = 0, c = 1, d = 2, reflection effort cost κ = 1, superficial reflection factor σ = 0.4, legitimacy cost δ = 1, and misuse penalty τ = 1, with peer sensitivity β = 0.1 in the baseline (probed at 0.01 and 0.5). Quantitative thresholds such as r ≈ 1.5 are therefore model-relative, not measured classroom values.
 - The model compresses student AI use into four factors — learning value, effort, perceived fairness, and transparency — plus one reflection mechanism, so it cannot test other plausible drivers such as disciplinary conventions or detection pressure.
 - Peer influence is represented by a single sensitivity parameter instead of measured student networks, so the cascade dynamics are not calibrated against observed cohort structure.
-
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[cognitive-offloading]]
-- [[regulation]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[motivation]]
-- [[collaborative-learning]]
-
-## Connected Articles
-
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[genai-assessment-governance]] — Governance frameworks for GenAI assessment
-- [[institutional-change-framework-ai]] — Institutional change framework for AI
 
 ## Citation
 

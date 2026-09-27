@@ -51,26 +51,6 @@ Weidlich also repositions authenticity, which is often treated as either a compe
 - Whether educators and program teams can apply the matrix consistently, make better redesign decisions with it, and gather the evidence it asks for under ordinary workload constraints is untested.
 - The framework can structure disciplinary deliberation but cannot determine whether AI-supported performance should be central, peripheral or restricted in a given field, and AI condition statements may be misunderstood or experienced as shifting responsibility onto students.
 
-## Connected Concepts
-
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[generative-ai]]
-- [[llm]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — coauthorship integrity as a reconceptualization of assessment validity
-- [[roe-assessment-twins-2026]] — assessment twins as a way to strengthen validity in the generative AI era
-- [[beyond-detection-authentic-assessment-ai-2025]] — redesigning authentic assessment rather than policing detection
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — assessment design under imperfect information about AI use
-
 ## Citation
 
 Weidlich, J. (2026). [Which inference is at risk? Assessment validity reasoning and generative AI](https://doi.org/10.1080/02602938.2026.2734795). *Assessment & Evaluation in Higher Education*. Advance online publication.

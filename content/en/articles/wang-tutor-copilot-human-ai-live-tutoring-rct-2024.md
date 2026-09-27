@@ -62,21 +62,6 @@ In post-study interviews (~20 treatment tutors), tutors found Tutor CoPilot help
 - The system is chat-only, an explicit scope limit relative to whiteboard and speech modalities that would carry additional privacy exposure.
 - Name de-identification does not prevent re-identification through email addresses, phone numbers, or personal anecdotes, and limiting shared context to the 10 most recent messages trades guidance quality for privacy.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[human-ai-collaboration]]
-- [[human-in-the-loop-ai]]
-- [[teacher-role]]
-- [[k-12]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-generated help equivalent to human tutor-authored help (Pardos & Bhandari 2024)
-- [[lodge-loble-cognitive-offloading-2026]] — Teacher augmentation as the promising equitable path for AI (Lodge & Loble 2026)
-- [[access-not-enough-ai-tutoring-2026]] — Access to AI tutoring tools alone does not close gaps
-
 ## Citation
 
 Wang, R. E., Ribeiro, A. T., Robinson, C. D., Loeb, S., & Demszky, D. (2024). [Tutor CoPilot: A human-AI approach for scaling real-time expertise](https://arxiv.org/abs/2410.03017). arXiv:2410.03017 (v2, January 2025).

@@ -38,29 +38,6 @@ confidence: high
 - The benefit did not extend to the final video (t(732.48) = 1.52, p = .129), so it is limited to one task within a three-phase assignment.
 - Outcomes are course grades rather than direct measures of feedback or AI literacy.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[assessment]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-- [[higher-ed]]
-- [[writing-education]]
-
-## Connected Articles
-
-- [[care-full-feedback-genai]] — Care-full feedback in the era of generative AI
-- [[chatgpt-feedback-engagement-genai]] — ChatGPT feedback and engagement with generative AI
-- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
-- [[ai-internal-feedback-evaluative-judgments]] — AI-internal feedback and evaluative judgments
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment with AI
-- [[authentic-products-authenticated-processes-2026]] — Authentic products, authenticated processes
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI literacy
-- [[critical-thinking-genai-scaffolding]] — Scaffolding critical thinking with generative AI
-
 ## Citation
 
 Richmond, J. L., & Nicholls, K. (2025). [*Using generative AI to promote psychological, feedback, and artificial intelligence literacies in undergraduate psychology*](https://journals.sagepub.com/doi/10.1177/00986283241287203). *Teaching of Psychology*, 52(3), 291–297. https://doi.org/10.1177/00986283241287203

@@ -61,23 +61,6 @@ In a 30-day field study, 204 adult learners (an independent sample from the inst
 - The analytic sample was 204 adult learners after 36 cases were excluded for lacking verifiable exposure (at least one logged tutor interaction and five minutes of non-upload use) or for unprocessable video, which may introduce selection effects and limits generalization to learners with comparable engagement and recording conditions.
 - Participants were adult learners recruited from partner MOOC platforms and enrolled in an oral presentation program — voluntary, feedback-driven practice rather than a controlled experimental sample — and the BARS rubric is specific to on-camera presentation, so a different rubric or domain would require re-annotation and retraining of the scoring models.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[rag]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[multimodal]]
-- [[student-modeling]]
-- [[feedback]]
-- [[professional-training]]
-- [[student-engagement]]
-## Connected Articles
-
-- [[educational-llm-alignment]]
-- [[cyberscholar-genai-writing-feedback]]
-- [[ai-tutor-behavioral-evaluation]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
 ## Citation
 
 Hung-Yue Suen & Kuo-En Hung (2026). [*An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training*](https://arxiv.org/abs/2605.17468). *IEEE Transactions on Learning Technologies*. DOI: 10.1109/TLT.2026.3693864

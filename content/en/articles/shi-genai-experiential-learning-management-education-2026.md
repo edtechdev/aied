@@ -68,23 +68,6 @@ The capability at stake is a different kind of [[problem-solving]]: not risk-fre
 - The authors name unresolved risks themselves: variation in instructors' [[ai-literacy|AI literacy]], concerns about the accuracy of generated content, and possible student dependence on AI assistance.
 - The examples come from one subject area and one level, strategic management in [[higher-ed|higher education]], with no trial in another course or institution.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[experiential-learning]]
-- [[situated-learning]]
-- [[simulation]]
-- [[business-education]]
-- [[transfer-of-learning]]
-
-## Connected Articles
-
-- [[drummond-genai-business-schools-framework-2026]] — a student-informed GenAI framework for business schools
-- [[zhou-constructive-alignment-genai-business-2026]] — constructive alignment for GenAI in business education
-- [[mesny-innovative-assessment-grading-management-2026]] — innovative assessment and grading in management education
-- [[conversational-agents-business-simulation-gaming-2026]] — conversational agents inside a business simulation game
-- [[ai-personas-fieldwork-experiential-learning-2026]] — AI personas in experiential fieldwork
-
 ## Citation
 
 Shi, X., Dai, T., & Zhang, G. (2026). [*From memorization to experiential learning: Reconfiguring classroom pedagogy in management education through generative AI*](https://doi.org/10.65170/jtip.v2i1.53). *Journal of Teaching Innovation and Practice*, 2(1), 23-32.

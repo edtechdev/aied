@@ -46,20 +46,5 @@ The authors conclude that while GenAI operates as effective cognitive scaffoldin
 - Cronbach's α reached 0.973 for GenAI use and 0.982 for programming learning, which the authors interpret as semantic redundancy and common-method bias rather than psychometric strength, so the rs = 0.802 association is likely inflated.
 - The design is cross-sectional with no control group; the authors call for quasi-experimental longitudinal comparisons of unrestricted assistants against Socratic-hint tutors.
 
-## Connected Concepts
-- [[cs-education]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[misconceptions]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[agency]]
-
-## Connected Articles
-- [[chain-behind-claim-warrantability-2026]] — The Chain Behind the Claim
-- [[emancipatory-ai-learner-flourishing-2026]] — An Emancipatory Vision for Generative AI Design
-- [[structrag-diagram-reasoning-ai-tutoring]] — StructRAG: Diagram Reasoning in AI Tutoring
-
 ## Citation
 Aquino Vara, M. J., & Encarnación Valentín, N. (2026). [*Beyond Immediate Resolution: Generative AI as an Informal Cognitive Tutor in Novice Programming Learning*](https://osf.io/preprints/edarxiv/7yu5h). EdArXiv preprint.

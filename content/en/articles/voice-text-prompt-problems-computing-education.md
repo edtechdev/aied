@@ -36,20 +36,6 @@ level: [higher ed]
 - Some students, including non-native English speakers, reported transcription issues, so evaluations may reflect technology performance rather than the modality itself, and transcription delay was not measured.
 - The three problems were relatively simple and short, and modality preference rests on two self-report reflection questions rather than a validated technology-acceptance instrument.
 
-## Connected Concepts
-
-- [[student-experience]]
-- [[cs-education]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[multimodal]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[prompt-problems-nl-programming-mistakes]]
-- [[prompt-based-programming-lesson]]
-- [[programming-its]]
 ## Citation
 
 Riegel, K., Hua, Y. C., Denny, P., Pădurean, V.-A., & Leinonen, J. (2026). [Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education](https://arxiv.org/abs/2607.05808).

@@ -40,32 +40,6 @@ confidence: high
 - The analytic methods entailed some subjectivity, and the intern-embedment component rests on field notes from three volunteers trained in the interview method rather than on systematic observation.
 - The 51% embarrassment figure and the 82% ChatGPT use versus 41% account-claiming figures come from the team's own 2024 campus survey, not from the 131-ad and 48-interview dataset analyzed here.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[higher-ed]]
-- [[framing-ai-use-for-students]]
-- [[ai-use-disclosure]]
-- [[student-experience]]
-- [[ethics]]
-- [[student-ai-interaction]]
-- [[ai-misuse-learning-harm]]
-- [[agency]]
-- [[trust]]
-- [[social-norms-ai-use]] — the informal rules around AI use
-
-## Connected Articles
-
-- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — Cheating or not cheating? Rethinking AI-giarism and academic integrity through secondary students' ethical reasoning
-- [[ai-tools-academic-work-cheating-2026]] — Is Using AI Tools for Academic Work Cheating? Student Perceptions, Ethics, and Impact on Academic Performance and Critical Thinking
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World
-- [[bassett-ai-detectors-education-2026]] — Heads We Win, Tails You Lose: AI Detectors in Education
-- [[student-rationalization-ai-writing]] — "It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — A Comprehensive Review of the Changing Landscape of Academic Dishonesty in Automated Proctoring in the Era of Artificial Intelligence
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI literacy: going beyond the AI skills gap agenda
-- [[digital-literacy-illusion]] — The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students
-
 ## Citation
 
 Sobo, E. J., Goldberg, D. M., Hauze, S. W., & Frazee, J. P. (2026). [*Cheating or competing? University students' experience of AI marketing and what it means for AI literacy programming*](https://doi.org/10.1111/napa.70029). *Annals of Anthropological Practice*, 50.

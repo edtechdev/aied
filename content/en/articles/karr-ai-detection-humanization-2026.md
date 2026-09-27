@@ -44,26 +44,6 @@ institutions: [educational-policy-ai]
 - One rewrite generator (Gemini 3 Flash), two detectors (Pangram 3.2, GPTZero), and one humanizer configuration (Undetectable AI v11) were used; results may not generalize to other models, versions, humanizers, or prompting strategies.
 - The study covers English only and should not be extrapolated to multilingual classrooms, and corpus size was constrained by API and humanization cost — 800 abstracts were targeted and 642 retained after filtering.
 
-## Connected Concepts
-
-- [[ai-detection]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[language-learning]]
-- [[writing-education]]
-- [[assessment]]
-- [[educational-policy-ai]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[bassett-ai-detectors-education-2026]] — Heads We Win, Tails You Lose: AI Detectors in Education
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
-- [[ssaho-ai-academic-integrity-review-2025]] — Review of AI-based plagiarism/AI-content detection reliability
-- [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Detecting LLM-generated Text via Latent Prompt Restoration
-
 ## Citation
 
 Karr, J. A., Jr., Khvatskii, G., Hua, T., & Chawla, N. V. (2026). [Why AI Detection Fails for Academic Integrity](https://arxiv.org/abs/2608.11256). *Proceedings of the ACM AI Leadership Summit (AILS '26)*, Atlanta, GA.

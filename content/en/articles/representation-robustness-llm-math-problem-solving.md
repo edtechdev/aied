@@ -30,20 +30,6 @@ methods: [benchmark]
 - Answers were restricted to integers or terminating decimals — logarithmic, non-square-root and irrational cases were excluded — to permit exact auto-grading, and decoding was fixed at temperature zero with one task-order seed, so the results are a deterministic snapshot rather than a distribution.
 - No human participants took part: the authors note that linking observed failure structures to user trust, frustration and task success would require integrating human-subject studies.
 
-## Connected Concepts
-
-- [[llm]]
-- [[assessment-validity]]
-- [[stem-education]]
-- [[intelligent-tutoring]]
-- [[math-education]]
-- [[benchmark]]
-- [[automated-assessment]]
-## Connected Articles
-
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[reinforcement-learning-measurement-model-assessment]]
-- [[epistemic-proactivity-math]]
 ## Citation
 
 Nath, Graf, Zhang & Zapata-Rivera (2026). [Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving](https://arxiv.org/abs/2607.20520). HCI International 2026.

@@ -40,21 +40,5 @@ The study extends the [[technology-acceptance-model|technology adoption]] litera
 - Only teacher perspectives were collected; students and school administrators were not included, though they affect AI integration.
 - Findings are specific to the Ghanaian context, and generalization to countries with different infrastructural and policy conditions should be treated with caution.
 
-## Connected Concepts
-- [[stem-education|science education]]
-- [[teacher-education]]
-- [[technology-acceptance-model]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[global-south]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[generative-ai]]
-
-## Connected Articles
-- [[crompton-faculty-technology-integration-standards-2026]] — Faculty Technology Integration Standards
-- [[espino-ai-business-education-review-2026]] — AI in Business Education Review
-- [[genai-pd-ai-pck-learning-gain-2026]] — GenAI Professional Development and AI-PCK
-
 ## Citation
 Amponsah, K. D., Adu-Boahen, J., Commey-Mintah, P., Kumassah, E. K., Ayittey, R. F., & Nketsiah, J. (2026). [*Perceptions and Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers*](https://osf.io/preprints/edarxiv/7yqbe_v1/). *Education Quarterly Reviews*, 9(3), 51–65. DOI: 10.31014/aior.1993.09.03.724.

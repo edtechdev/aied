@@ -6,7 +6,6 @@ type: article
 foundations: [limitations-in-aied-research]
 technology: [generative-ai, intelligent-tutoring, llm]
 assessment: [learning-gains]
-connected_faqs: [reporting-interpreting-aied-research]
 sources: ['raw/papers/weidlich-chatgpt-effect-search-cause-2025.md']
 confidence: high
 research_method: [position paper, theoretical analysis]
@@ -41,27 +40,6 @@ methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-ai
 - The audit reports a subset of codes from a larger review (Lawson et al., forthcoming) and examines only the academic-performance and higher-order-thinking-propensity models, so outcomes outside those categories are not assessed.
 - The critique is built on one worked example — a meta-analysis published within two years of ChatGPT's launch — though the authors argue the concerns apply equally to other syntheses such as Wang and Fan (2025).
 - The coding scheme is coarse on its face (14 of 19 comparisons, 74%, had a well-defined treatment; 8 of 19, 42%, a well-defined control; 10 of 19, 53%, a learning measure), which leaves small cells and limits how far moderator analyses of treatment features can go.
-
-## Connected Concepts
-
-- [[generative-ai]]
-- [[llm]]
-- [[research-methods-aied]]
-- [[meta-analysis-systematic-review]]
-- [[limitations-in-aied-research]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[intelligent-tutoring]]
-- [[assessment-validity]]
-- [[rct]]
-
-## Connected Articles
-
-- [[genai-educational-outcomes-meta-analysis]] — A large meta-analysis of generative AI's effect on educational outcomes
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical limits of AI tutors and weak theory use
-- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning (PNAS 2025 RCT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — Overreliance on AI as a complex adaptive system
-- [[ai-literacy-assessment-misalignment]] — Self-reported vs. performance-based AI literacy
 
 ## Citation
 

@@ -47,28 +47,6 @@ The study triangulates three perspectives: instructor perceptions (surveys with 
 - Keystroke metrics — mean initial planning latency of 167.2s and 114.6s, 12–16 characters deleted per 100 typed, and about 15 pauses per session longer than 10 seconds — are indirect behavioral proxies for planning, revision, and synthesis rather than direct measures of cognition.
 - Classroom deployment samples are small and uneven, at 28, 40, and 10 students across the three courses, and because DPs are open-ended, grading remains subjective and may require additional support to scale.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[formative-assessment]]
-- [[active-learning]]
-- [[scaffolding]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[project-based-learning]]
-- [[transfer-of-learning]]
-- [[automated-question-generation]]
-- [[critical-thinking]]
-
-## Connected Articles
-
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
-- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
-- [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
-- [[mllm-scientific-visualization-literacy]] — Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy
-- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
-
 ## Citation
 
 Ahmad D. Suleiman, Daqing Hou, Maliha Noushin Raida (2026). [LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning](https://arxiv.org/abs/2607.11032). arXiv preprint.

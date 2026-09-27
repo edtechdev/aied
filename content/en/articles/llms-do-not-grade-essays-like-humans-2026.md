@@ -43,26 +43,6 @@ Across several GPT (3.5/4/5) and Llama (2/3/4) models, agreement between [[autom
 - Feedback analysis depended on an ABSA model with a confidence threshold and majority voting, trait extraction used manually defined vocabularies, and the SHAP analysis relies on a proxy model of LLM scoring — each can miss or misclassify signals.
 - Model scores were compared only against human grades on two datasets, so the systematic biases documented here may not generalize to other essay types or rubrics.
 
-## Connected Concepts
-
-- [[automated-essay-scoring]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[writing-education]]
-- [[llm]]
-- [[generative-ai]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-
-- [[choi-anchor-aes-prompting-2025]] — Anchor-based prompting for automated essay scoring
-- [[icle-plus-plus-essay-scoring]] — iCLE++ essay scoring
-- [[psyscore-essay-scoring-zpd-feedback]] — PsyScore: psychometrically-aware essay scoring and feedback
-- [[self-referential-l2-writing-llm-assessment]] — Self-referential LLM assessment in L2 writing
-- [[ai-scoring-language-bias-physics]] — AI scoring and language bias
-
 ## Citation
 
 Mathew, J. G., Taher, S., Kundu, A., & Barbosa, D. (2026). [*LLMs Do Not Grade Essays Like Humans*](https://doi.org/10.1016/j.caeai.2026.100666). *Computers and Education: Artificial Intelligence*.

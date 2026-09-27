@@ -46,27 +46,6 @@ A socialist humanist approach must also address the material and social realitie
 - Scope is deliberately narrowed: the review does not explore socialist humanism as a political movement, the full breadth of adult learning theories, or specific AI literacy program efficacies.
 - No systematic search protocol or coding scheme is reported, and sources were identified partly through the Elicit research tool.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[higher-ed]]
-- [[ethics]]
-- [[critical-pedagogy]]
-- [[ai-education]]
-- [[generative-ai]]
-- [[governance]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)
-- [[andragogy-cognitive-delegation-genai-2026]] — What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delegation in Generative AI-Mediated Adult Learning
-- [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making
-- [[prompt-privilege-equitable-ai-access-2026]] — Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access
-- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
-
 ## Citation
 
 Rose, L. M. (2026). [*From Mechanical Compliance to Human Flourishing: A Socialist Humanist Approach to Asynchronous AI Literacy and Fair Use in Higher Education*](https://osf.io/preprints/edarxiv/xs9ga_v2/). EdArXiv preprint.

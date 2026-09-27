@@ -45,30 +45,6 @@ The taxonomy runs from **transactional** interactions (discrete, affordance-poor
 - The taxonomy is explicitly a map of affordances rather than a quality ranking — higher is not uniformly better — so it cannot be used to score systems on a single quality scale.
 - Claims about what current AI can do rest on published studies of particular systems and on observable behavior, because architectural claims about proprietary models often cannot be verified.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[collaborative-learning]]
-- [[affective-tutoring]]
-- [[teacher-ai-competency]]
-- [[socratic-method]]
-- [[help-seeking]]
-- [[pedagogical-agent]]
-- [[pedagogical-llm-training]]
-- [[human-ai-collaboration]]
-- [[teacher-role]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[recommender-systems-and-learning-paths]]
-## Connected Articles
-
-- [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[modular-educational-llm-agency]] — Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance
-- [[teacher-student-agency-orchestration]] — Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing
-- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-
 ## Citation
 
 Mutlu Cukurova (2026). [What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it](https://arxiv.org/abs/2606.15509). Handbook of AI and the Future of Education (forthcoming).

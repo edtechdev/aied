@@ -64,22 +64,6 @@ Feedback structure influenced efficiency (time and attempts) rather than final s
 - The study ran in a single course and excluded long submissions, which limits generalizability.
 - The outcomes capture short-term performance rather than long-term learning.
 
-## Connected Concepts
-
-- [[socratic-method]]
-- [[desirable-difficulties]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[automated-assessment]]
-- [[cs-education]]
-- [[scaffolding]]
-- [[formative-assessment]]
-## Connected Articles
-
-- [[ai-tutor-behavioral-evaluation]]
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[programming-its]]
-- [[llm-feedback-programming-classroom]]
 ## Citation
 
 Mihaylova, T., Logacheva, E., Hellas, A., Fan, J., Castro, F., Akram, B., Norouzi, N., Brusilovsky, P., & Leinonen, J. (2026). [The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance](https://arxiv.org/abs/2605.16933).

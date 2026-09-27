@@ -5,7 +5,6 @@ updated: "2026-09-19T08:08:51-04:00"
 type: article
 foundations: [ai-literacy, computational-thinking]
 pedagogy: [game-based-learning, learning-theories]
-connected_faqs: [ai-guidance-children-under-13]
 audience: [instructors]
 research_method: [literature review]
 discipline: [cs education]
@@ -55,25 +54,6 @@ AI-Play was implemented through a family-centered **Hour of Code** event using u
 - Expert validation relied on two early childhood educational technologists who reviewed the framework through open-ended discussions of clarity, usability, and developmental appropriateness, so its fit for young learners rests on a very small expert panel.
 - The only implementation evidence is a single family-centered Hour of Code event, evaluated through parent surveys and child reflection sheets; the reported high engagement and emerging understanding rest on parent and child report rather than a pre/post measure of children's understanding, with no comparison condition.
 - The implementation sat outside a structured early childhood curriculum, and the authors did not examine how teachers with differing experience levels would fold AI-Play into daily classroom practice; future work moves to Pre-K through early elementary classrooms.
-
-## Connected Concepts
-- [[early-childhood-elementary-ai-education]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[computational-thinking]]
-- [[game-based-learning]]
-- [[cs-education]]
-- [[learning-theories]]
-- [[ai-education]]
-- [[equity-in-ai-education]]
-- [[parents-and-families]]
-## Connected Articles
-
-- [[aaai2026-prompting-literacy-k12]] — Teaching Responsible Use of AI Chatbots to K-12 Students
-- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
-- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
-- [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults
-- [[computational-thinking-ai-agent-creation]] — Computational Thinking Development in AI Agent Creation
 
 ## Citation
 

@@ -43,26 +43,6 @@ The diagnostic exploits the fact that public tutoring benchmarks (MathTutorBench
 - The TutorBench analysis rests on a 30-example public sample and a deterministic metadata mapping rather than independent human coders, so it should be read as an auditable heuristic characterization of public rubric priorities, not a validated annotation study.
 - Because the work analyzes public artifacts rather than raw generations, it does not directly measure answer disclosure turn by turn, and its claims depend on benchmark design choices — different task groupings or alternative rubrics could change the reported gaps.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[pedagogical-llm-training]]
-- [[agentic-ai]]
-- [[scaffolding]]
-- [[help-seeking]]
-- [[pedagogical-agent]]
-- [[benchmark]]
-- [[learning-gains]]
-
-## Connected Articles
-
-- [[llm-judged-helpfulness-pedagogy-signal]] — Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
-- [[human-ai-collaboration-prerequisite-functions]] — What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it
-- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments
-- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
-
 ## Citation
 
 Junyi Yao, Zihao Zheng, Baichuan Li (2026). [Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact](https://arxiv.org/abs/2606.16206). arXiv preprint.

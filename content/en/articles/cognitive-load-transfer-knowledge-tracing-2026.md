@@ -36,20 +36,6 @@ page_kind: [evaluation]
 - "Cognitive load" is operationalized through three proxy features, and the authors state that other influencing factors are left to future work — no subjective, behavioral, or physiological load measure is used to validate the construct.
 - Graph construction depends on an external LLM backbone (Qwen-plus) and its output; performance therefore varies with that model, and the effect of its construction errors on tracing accuracy is not analyzed.
 
-## Connected Concepts
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-
-## Connected Articles
-- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
-- [[nie-personavlm-long-term-personalization-2026]] — LLM Student Modeling and Long-Term Memory Architecture
-- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
-- [[stanbkt-bayesian-knowledge-tracing]] — StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing
-
 ## Citation
 
 Zhang, Wang, Wu, Ding, Liu, Huang, Sha, Wang, & Liu (2026). [*Incorporating Cognitive Load and Knowledge Transfer for Multi-Domain Knowledge Tracing*](https://arxiv.org/abs/2608.24005).

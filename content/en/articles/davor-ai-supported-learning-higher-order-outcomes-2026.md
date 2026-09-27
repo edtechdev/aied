@@ -60,19 +60,6 @@ The most theoretically interesting result concerns [[ai-literacy|AI verification
 - **All six constructs were self-reported**, leaving social desirability and response inflation possible, and the outcomes capture perceived rather than demonstrated critical thinking and problem-solving.
 - **A single national sample of Ghanaian university students**, so extension to other countries, systems and cultures needs caution; the authors call for cross-context validation alongside attention to fairness, bias and privacy.
 
-## Connected Concepts
-
-* [[critical-thinking]] — Critical thinking and reasoning in the age of generative AI
-* [[cognitive-offloading]] — Cognitive offloading when learners delegate thinking to AI
-* [[self-regulated-learning]] — Self-regulated learning and metacognitive control
-* [[metacognition]] — Metacognition and monitoring in learning with AI
-
-## Connected Articles
-
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]]: Cognitive offloading and critical thinking under AI tool use
-- [[misiejuk-cognitive-offloading-prompting-2026]]: Cognitive offloading in student-AI collaboration
-- [[ai-cognitive-partner-co-regulation-learning]]: Human-AI co-regulation in learning
-
 ## Citation
 
 Davor, I., Larbi, E., & Boateng, F. O. (2026). [*Artificial intelligence-supported learning and higher-order cognitive outcomes*](https://doi.org/10.3389/feduc.2026.1855869). Frontiers in Education, 11.

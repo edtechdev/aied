@@ -54,23 +54,6 @@ confidence: high
 - All three courses operated at the same permitted level of the institution's four-level GenAI policy, with individual instructors setting their own rules, so the "trap" perception is bound to a context that had briefly banned GenAI entirely in 2023.
 - The qualitative themes come from 11 Cantonese-language interviews at that one institution and cannot be generalized to policy settings elsewhere.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[assessment]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[teacher-education]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide assessment redesign in response to GenAI
-- [[walton-bearman-assessment-judgment-2025]] — Student judgment work when assessing with GenAI
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Disclosure dilemmas in student GenAI use
-- [[beyond-detection-authentic-assessment-ai-2025]] — Moving assessment beyond detection toward authenticity
-
 ## Citation
 
 Zou, T. X. P., Hounsell, D., Huijser, H., & Tse, R. T. L. (2026). [*"Is this a trap?": Student teachers' perceptions and adoption of GenAI in assessments in three teacher education courses*](https://doi.org/10.14742/ajet.10549). *Australasian Journal of Educational Technology*, 42(1), 1–17.

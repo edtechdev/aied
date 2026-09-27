@@ -6,7 +6,6 @@ type: article
 foundations: [agency]
 pedagogy: [cognitive-psychology, well-being]
 technology: [educational-robotics, generative-ai, pedagogical-agent]
-connected_faqs: [ai-guidance-children-under-13]
 research_method: [literature review]
 level: [preschool, k 12]
 sources: ['raw/papers/ai-toys-child-development-2026.md']
@@ -39,21 +38,6 @@ The paper brings a [[k-12|childhood-development]] perspective to the AI-in-educa
 - The established evidence base concerns earlier scripted toys — button-press toys, talking dolls, and branching choose-your-own-adventure toys — whose responsiveness differs substantially from open-ended generative conversation, yet those findings carry the arguments about imagination and language.
 - For relationship formation the authors state there is no direct evidence on young children: the supporting findings are self-reported studies with adolescents who disclose more to chatbots than to people.
 - Systematic empirical work on the qualitative shifts in attachment is limited to illustrative accounts such as Turkle (2007), leaving the risk claims about blurred boundaries between pretend and real social engagement unmeasured.
-
-## Connected Concepts
-- [[early-childhood-elementary-ai-education]]
-- [[educational-robotics]]
-- [[pedagogical-agent]]
-- [[k-12]]
-- [[agency]]
-- [[well-being]]
-- [[generative-ai]]
-- [[trust-calibration]]
-- [[ai-literacy]]
-
-## Connected Articles
-- [[roboblockly-conversational-block-robotics-ct-2026]] — Conversational Block Robotics and CT
-- [[ai-play-framework-early-childhood-2026]] — AI and Play in Early Childhood
 
 ## Citation
 Xu, Y., Girouard, L., & Shi, Z. (2026). [*Artificial Intelligence in Toys: Implications for Child Development and Play*](https://osf.io/preprints/edarxiv/62qsn_v1/). EdArXiv preprint.

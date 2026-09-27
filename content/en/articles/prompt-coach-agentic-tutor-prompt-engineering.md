@@ -47,22 +47,6 @@ PC operates as an agent within the developer's IDE, combining an assessment comp
 - Sessions ran in isolation from any real project codebase on a single benchmark, which removes exactly the project context the tutor is designed to exploit and limits generalizability beyond the APPS task family.
 - Prompt quality was scored by the system's own eight-dimension registry and learner perceptions by 7-point Likert items (means 5.67–6.33); neither measures independently verified code correctness or learning transfer.
 
-## Connected Concepts
-
-- [[scaffolding]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[cs-education]]
-- [[professional-training]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[agentic-ai]]
-- [[llm]]
-- [[intelligent-tutoring]]
-- [[socratic-method]]
-## Connected Articles
-
-- [[prompt-based-programming-lesson]]
 ## Citation
 
 Mehra, R., Singi, K., Kaulgud, V., Sharma, V. S., & Choudhury, S. G. (2026). [*Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development*](https://arxiv.org/abs/2607.06074).

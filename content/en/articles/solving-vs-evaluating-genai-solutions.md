@@ -41,24 +41,6 @@ The study was a randomized A/B crossover experiment (N = 220) conducted in a jun
 - Randomization happened at existing group level, so students who routinely collaborated were kept together and cross-group contamination was possible; six assignments in one semester is a short window for transfer to exams.
 - Perceptions came from a post-only Qualtrics survey (208 respondents, 95% response rate) because technical constraints prevented a baseline survey, and study-habit and helpfulness measures are self-report.
 - Students generated their own GenAI artifacts, as the intervention deliberately mirrored real tool use, so the evaluated solutions varied across students.
-## Connected Concepts
-
-- [[higher-ed]]
-- [[cs-education]]
-- [[critical-thinking]]
-- [[generative-ai]]
-- [[computational-thinking]]
-- [[scaffolding]]
-
-## Connected Articles
-
-- [[cognitive-shift-ai-education]] — Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?
-- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
-- [[ai-generated-instructional-videos-computing-ed]] — Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education
-- [[genai-availability-grades-satisfaction]] — Generative AI Availability, Grades, and Student Satisfaction at a Large University
-
 ## Citation
 
 Ethan Dickey, Marios Mertzanidis, Alexandros Psomas (2026). [Is Solving Better Than Evaluating GenAI Solutions?](https://arxiv.org/abs/2607.27586).

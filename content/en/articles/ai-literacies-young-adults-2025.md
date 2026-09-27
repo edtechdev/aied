@@ -17,7 +17,6 @@ page_kind: [framework]
 source_url: https://downloads.bbc.co.uk/rd/responsible-innovation/responsible-innovation-centre-ai-literacies-young-adults.pdf
 sources: ['raw/papers/ai-literacies-young-adults-2025.md']
 confidence: medium
-connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, equity-ethics-pedagogical-safety-research]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -73,16 +72,6 @@ The institutional framing is what a reader should weigh. Public service media ar
 - **The evidence is desk research and expert opinion.** A landscape review of 40-plus frameworks, 35 interviews and survey data establish what provision exists and what experts think is missing; no learner outcome data are reported, and the framework itself has not been evaluated in use.
 - **The framework is a proposal with an assessment guide, not a validated instrument.** The progression levels are presented as a way to describe development; there is no reliability or [[assessment-validity|validity]] evidence for them.
 - **Scope and count limits.** The frameworks reviewed are English-language and concentrated in the United States, United Kingdom, Australia and Europe, the focus is UK 14–19-year-olds and public service media in particular, and the report's own count of frameworks reviewed varies between "40", "over 40" and "almost 40".
-
-## Connected Concepts
-[[ai-literacy]], [[critical-thinking]], [[critical-pedagogy]], [[equity-in-ai-education]], [[digital-divide]], [[curriculum-design]], [[learning-design]], [[inclusive-learning]], [[educational-policy-ai]], [[creativity]], [[lifelong-learning]], [[generative-ai]]
-
-## Connected Articles
-- [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
-- [[ai-intuition-ai-literacy-k12-2026]] — From AI Intuition to AI Literacy: A Dual Framework for K-12 Education
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[ai-literacy-assessment-misalignment]] — How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Assessing teachers' AI literacy: a systematic review of measurement tools
 
 ## Citation
 

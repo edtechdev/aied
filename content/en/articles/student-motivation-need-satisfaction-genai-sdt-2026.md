@@ -38,17 +38,5 @@ page_kind: [evaluation]
 - No condition combined teacher-directed learning with ChatGPT (schools declined it as incompatible with teacher-directed formats), so no conclusions extend to teacher-centered instructional contexts.
 - The study ran under naturalistic classroom conditions in Grades 7–8 across 14 urban schools (N = 2464), which reduces experimental control, and socioeconomic data were not collected, precluding equity-related subgroup analyses.
 
-## Connected Concepts
-- [[self-determination-theory]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[student-engagement]]
-- [[k-12]]
-
-## Connected Articles
-- [liang-ai-learning-motivation-sdt-2026] — AI learning motivation from a self-determination perspective
-- [students-engagement-with-generative-ai-in-academic-learning-a-self-determination] — student engagement with GenAI through SDT
-
 ## Citation
 Schweder, S., Hagenauer, G., & Raufelder, D. (2026). [Student motivation and need satisfaction in GenAI-supported classrooms: A self-determination theory perspective](https://doi.org/10.1016/j.caeo.2026.100348). *Computers and Education Open, 10*, 100348.

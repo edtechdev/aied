@@ -66,26 +66,6 @@ Teacher and institutional readiness is another critical barrier. Effective integ
 - Adult education is treated as a single system, so national governance arrangements, funding models, and the distinctions between formal, non-formal, and informal provision the paper calls for connecting are not disaggregated.
 - The paper does not report data on adult learners themselves — no enrollment, participation, or outcome figures — so claims about who is excluded, and by how much, are inferred from policy documents and prior research rather than measured.
 
-## Connected Concepts
-
-- [[self-directed-learning]]
-- [[lifelong-learning]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[bias-mitigation]]
-- [[cognitive-offloading]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[adult-learning]]
-- [[governance]]
-## Connected Articles
-
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[ai-pedagogical-orientation]]
 ## Citation
 
 Andresa Theodora, Nikolaos Tselios (2026). [Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy](https://arxiv.org/abs/2605.16296). [cs.CY].

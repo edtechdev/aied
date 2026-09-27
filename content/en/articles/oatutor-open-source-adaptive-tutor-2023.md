@@ -61,28 +61,6 @@ OATutor is a foundational example of [[adaptive-learning]] and [[intelligent-tut
 - The authoring figures come from a survey sent to 25 former editor-team members that drew 16 responses, one excluded as incomplete (N = 15 measured), with training time self-estimated to the nearest hour and problem-creation time to the nearest minute.
 - Scope is bounded to algebra content from three OpenStax textbooks: the authors' own extension interview (R4) found that adapting the platform for collaborative VR/AR training would take significant effort, and content bugs caused the worst student frustration in the first pilots.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[open-source]]
-- [[personalized-learning]]
-- [[math-education]]
-- [[edtech-platform]]
-- [[automated-question-generation]]
-- [[scaffolding]]
-
-## Connected Articles
-
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-Generated Help vs. Human Tutor Help
-- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
-- [[access-not-enough-ai-tutoring-2026]] — Access Is Not Enough: AI Tutoring
-- [[adaptive-pretesting-retention]] — Adaptive Pretesting and Retention
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators
-- [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors
-- [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: AI Tutor Authoring
-
 ## Citation
 
 Pardos, Z. A., Tang, M., Anastasopoulos, I., Sheel, S. K., & Zhang, E. (2023). [*OATutor: An open-source adaptive tutoring system and curated content library for learning sciences research*](https://doi.org/10.1145/3544548.3581574). In *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems*. ACM. https://doi.org/10.1145/3544548.3581574

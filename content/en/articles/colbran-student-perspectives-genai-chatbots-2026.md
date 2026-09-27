@@ -49,25 +49,6 @@ This paper gives the knowledge base rich, real-world evidence on [[student-ai-in
 - No longitudinal data were collected, so changes in perception over time could not be tracked, and the chatbot technology was relatively new at the time of measurement.
 - Students received no training beyond a limited set of starter prompts, and the study did not analyze the types or themes of student prompts.
 
-## Connected Concepts
-
-- [[conversational-ai]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[pedagogical-agent]]
-- [[student-ai-interaction]]
-- [[learning-design]]
-- [[trust]]
-
-## Connected Articles
-
-- [[scheu-mobile-chatbot-journaling-motivation-2026]]
-- [[conversational-agents-novice-programmers-scoping-2025]]
-- [[ai-generated-feedback-higher-ed]]
-
 ## Citation
 
 Colbran, S., Jha, M., & Schiavone, C. (2026). [*Understanding student perspectives on generative AI chatbots: a human-centred mixed-methods study in higher education*](https://doi.org/10.1186/s41239-026-00605-w). *International Journal of Educational Technology in Higher Education*.

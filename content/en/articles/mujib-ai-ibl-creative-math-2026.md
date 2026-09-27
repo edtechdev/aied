@@ -38,27 +38,6 @@ page_kind: [evaluation]
 - Participants came from a single grade level, limiting generalization to other grades, school settings, and demographic backgrounds.
 - Attitudes and self-perceptions were captured through a questionnaire using Likert-type items, so those measures are self-report and the critical problem-solving null result rests on the study's own tasks.
 
-## Connected Concepts
-
-- [[inquiry-based-learning]]
-- [[generative-ai]]
-- [[math-education]]
-- [[k-12]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[metacognition]]
-- [[creativity]]
-
-## Connected Articles
-
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[generative-ai-reduced-study-time-math]] — GenAI and reduced study time in math
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI learning penalty in secondary students
-
 ## Citation
 
 Mujib, M., Suherman, S., & Mardiyah, M. (2026). [*Evaluating the impact of AI-supported inquiry-based learning on students' creative mathematical performance, critical problem-solving skills, and attitudes toward mathematics*](https://doi.org/10.7160/eriesj.2026.190204). *Journal on Efficiency and Responsibility in Education and Science*, 19(2), 142–153.

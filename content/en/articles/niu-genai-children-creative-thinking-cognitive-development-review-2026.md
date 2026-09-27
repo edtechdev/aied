@@ -67,26 +67,6 @@ The recommendations are framed as precautionary principles rather than endorseme
 - **Children at the younger and older ends of the age range are thinly covered.** Upper-elementary and middle-school learners were most frequently represented, the corpus admits age-boundary cases whose findings do not establish age-specific effectiveness, and no study systematically examined developmental readiness thresholds for different tools.
 - **One search source and short-term designs dominate the core.** Google Scholar supplied 3,859 of the 6,401 initial records and is treated as a reproducibility limitation rather than a controlled bibliographic database, and every included intervention was short to moderate in duration with no longitudinal study.
 
-## Connected Concepts
-
-- [[generative-ai]] — the technology family under review
-- [[creativity]] — the outcome the review targets
-- [[llm]] — the dominant modality in the corpus
-- [[cognitive-psychology]] — executive function and cognitive control findings
-- [[scaffolding]] — the facilitation children needed
-- [[self-efficacy]] — a reported gain, alongside divergent thinking
-- [[equity-in-ai-education]] — the claims left untested
-- [[digital-divide]] — where democratization claims are unproven
-- [[cognitive-offloading]] — over-reliance as a recurring barrier
-- [[k-12]] — the population and settings reviewed
-- [[meta-analysis-systematic-review]] — the review methodology
-
-## Connected Articles
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo: Digital Storytelling Robots
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM-Powered Narrative HRI
-- [[seung-basham-cognitive-offloading-swld-2026]] — Cognitive Offloading in the Age of Generative AI
-
 ## Citation
 
 Niu, T., Liu, H., Pang, P., Luo, Y. T., & Liu, T. (2026). [*The role of generative AI in facilitating children’s creative thinking and cognitive development: a systematic scoping review*](https://doi.org/10.3389/fpsyg.2026.1880052).

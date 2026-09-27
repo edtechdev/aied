@@ -69,19 +69,6 @@ A second large band consists of turns in which the student does not advance the 
 - Reliability rests on a 10% expert-coded sample (287 messages, Cohen's κ = 0.78) and a single-rater coherence audit rather than a full multi-coder agreement study.
 - The consolidated 357-category codebook is a snapshot of one embedding model's groupings under a fixed clustering threshold (cosine distance 0.40), so a different model or threshold would regroup the categories.
 
-## Connected Concepts
-- [[intelligent-tutoring]]
-- [[socratic-method]]
-- [[physics-education]]
-- [[educational-nlp]]
-- [[student-experience]]
-
-## Connected Articles
-
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[becker-chatgpt-typology-physics-2026]]
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-
 ## Citation
 
 Hashmi, S. F. A., & Rebello, N. S. (2026). [*A Bottom-Up Taxonomy of Student Discourse with a Socratic AI Physics Tutor*](https://arxiv.org/abs/2608.07373).

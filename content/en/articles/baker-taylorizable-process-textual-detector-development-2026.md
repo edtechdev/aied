@@ -61,25 +61,6 @@ Each step is meant to produce evidence for one of four forms of rigor. Assessmen
 - Standardizing steps deskills work and concentrates expert judgment in fewer places, so someone executing only standardized steps may not develop the judgment to notice when the process is failing for a particular construct. The authors reply that a standardized process at least makes the points requiring judgment visible, while conceding the tension is not fully resolved.
 - The six criteria can only be judged by whether the process transfers to new constructs and domains, which takes time to establish.
 
-## Connected Concepts
-
-- [[educational-nlp]]
-- [[llm]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[research-methods-aied]]
-- [[qualitative-research]]
-- [[explainable-ai]]
-- [[bias-mitigation]]
-- [[limitations-in-aied-research]]
-- [[pedagogical-partnerships]]
-
-## Connected Articles
-
-- [[ground-truth-reliability-aied]] (Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity)
-- [[gpt-human-rater-essay-assessment-2026]] (Comparing GPT and Human Raters in Essay Assessment)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] (Ethical Implications of Prompt Injection in AI-Mediated Grading)
-
 ## Citation
 
 Baker, R. S., Mills, C., Lan, A., Lehman, B., & Barany, A. (2026). [*A Taylorizable Process for Textual Detector Development for Research-Practice Partnerships*](https://osf.io/preprints/edarxiv/6h387). Journal of Learning Engineering, 1(1), forthcoming.

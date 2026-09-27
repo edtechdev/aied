@@ -68,28 +68,6 @@ The review is balanced: AI can enhance writing efficiency, improve non-native En
 - The database search was run across the entire publication period with no year filter, 11 of 89 full-text reports could not be retrieved, and several included entries report no information about their participants.
 - The evidence is recent and fast-moving: the most-cited sources are 2023–2024 responses to ChatGPT's November 2022 release, so the findings may not extend to later tools and policies.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[assessment]]
-- [[generative-ai]]
-- [[ai-misuse-learning-harm]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[reducing-ai-misuse]]
-- [[higher-ed]]
-- [[authentic-assessment]]
-- [[framing-ai-use-for-students]]
-
-## Connected Articles
-
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and assessment validity
-- [[genai-chinese-higher-education-integrity-2026]] — Balancing Gen-AI in Chinese higher education
-- [[detecting-llm-generated-text-latent-prompt]] — Detecting LLM-generated text
-- [[genai-declaration-frameworks-higher-education]] — GenAI declaration frameworks
-- [[ai-assessment-scale-reform]] — The AI Assessment Scale and assessment reform
-
 ## Citation
 
 Balalle, H., & Pannilage, S. (2025). [*Reassessing academic integrity in the age of AI: A systematic literature review on AI and academic integrity*](https://doi.org/10.1016/j.ssaho.2025.101299). *Social Sciences & Humanities Open*, 11, 101299.

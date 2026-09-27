@@ -52,34 +52,6 @@ The assessment implication is that [[automated-question-generation]] and AI-auth
 
 The authors list four further constraints. The benchmark is confined to computer science, and disciplines with different epistemic structures may show different misconception dynamics. All annotators came from one institutional context, which may bias category boundaries despite the high agreement. Model selection was limited to [[open-source|open weights]] for reproducibility. And DeepSeek-R1's reasoning tags produced parsing failures that cost four concepts. They propose extending the corpus to other STEM and non-STEM fields, testing novice versus expert susceptibility, measuring conceptual change after repeated exposure, and building real-time detectors.
 
-## Connected Concepts
-
-- [[misconceptions]] — the paper extends the misconception literature from human learners to model-generated errors
-- [[hallucination-risk]] — Socratic traps are framed as a subtler category than overt hallucination
-- [[llm]] — seven open-weight models benchmarked on their capacity to produce pedagogically plausible errors
-- [[generative-ai]] — generative fluency is the mechanism that makes confident wrongness persuasive
-- [[cs-education]] — all 35 concepts come from the undergraduate CS curriculum
-- [[benchmark]] — SocraticTrap-CS is a publicly released annotated benchmark corpus
-- [[educational-nlp]] — expert annotation with Fleiss' kappa establishes a new annotated text category
-- [[socratic-method]] — the trap is named for the risk that apparently tutorial questioning misleads
-- [[intelligent-tutoring]] — the deployment setting the authors warn about
-- [[automated-question-generation]] — AI-authored explanations and items need pedagogical trustworthiness checks
-- [[critical-thinking]] — conceptual verification beyond fact-checking is the proposed learner skill
-- [[cognitive-diagnosis]] — error-type labels give diagnostic information about the nature of each failure
-- [[prior-knowledge]] — novice learners lack the domain knowledge to detect subtle conceptual errors
-- [[trust-calibration]] — fluency and authority raise the perceived credibility of subtly wrong explanations
-
-## Connected Articles
-
-- [[correct-answer-trap-misconceptions]] — Related work on how plausible wrong answers arise and persist
-- [[correct-answer-trap-ai-tutor]] — The same trap pattern in AI tutoring practice
-- [[llm-misconception-difficulty-easy-trap]] — LLMs and easy-to-overlook misconception items
-- [[llm-student-misconception-identification]] — Automatically detecting misconceptions in learner work
-- [[student-misconceptions-conditionals-loops-taxonomy]] — Catalogued human misconceptions in introductory programming
-- [[socratic-ai-physics-tutor-taxonomy-2026]] — A taxonomy of tutoring moves by a Socratic AI tutor in physics
-- [[elbench-education-llm-benchmark-2026]] — A related benchmark for evaluating LLMs on educational tasks
-- [[citation-errors-hallucinations-computing-education-2026]] — Fabricated references and hallucinated content in computing education
-
 ## Citation
 
 Miličević, M., Rovis, M., Karlović, R., Baressi Šegota, S., Mrzljak, V., Lorencin, I., & Etinger, D. (2026). [*The Socratic trap: Benchmarking the capacity of large language models to generate strategic misconceptions in computer science education*](https://doi.org/10.3390/info17070706). *Information*, 17(7), 706.

@@ -40,28 +40,6 @@ The central finding is a **discrepancy between initial perceptions and actual us
 - The study captures perceptions and access, not learning: there was no comparison condition and no measure of feedback quality, so it cannot show that the features improved feedback use or outcomes.
 - Trace data recorded access counts (visualization engagement of 50–67% per graph), which cannot distinguish a brief glance from sustained use.
 
-## Connected Concepts
-
-- [[feedback]]
-- [[learning-analytics]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[feedback-literacy]]
-
-## Connected Articles
-
-- [[care-full-feedback-genai]] — Care-full feedback with generative AI
-- [[feedback-futures-genai]] — GenAI feedback futures
-- [[genai-feedback-design-multisite-experiment]] — Multisite GenAI feedback design experiment
-- [[chatgpt-feedback-engagement-genai]] — ChatGPT feedback and student engagement
-- [[learner-centered-feedback-ai]] — Teachers' practices and perceptions of AI learner-centered feedback (PolyFeed)
-- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
-- [[ai-feedback-enactment-workflow-2026]] — AI feedback enactment workflows
-
 ## Citation
 
 Jin, F. J.-Y., Maheshi, B., Lai, W., Li, Y., Gasevic, D., Chen, G., Charwat, N., Chan, P. W. K., Martinez-Maldonado, R., Gašević, D., & Tsai, Y.-S. (2025). [*Students' Perceptions of Generative AI-Powered Learning Analytics in the Feedback Process: A Feedback Literacy Perspective*](https://doi.org/10.18608/jla.2025.8609). *Journal of Learning Analytics*, 12(1), 152–168.

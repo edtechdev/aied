@@ -36,21 +36,5 @@ methods: [benchmark]
 - The dataset contained only 60 essays (1,500–2,500 words, M = 1,941, SD = 324) from non-native English speakers, a scope the authors state may limit generalizability.
 - A single standardized rubric and one fixed prompting template were applied to all five models, so prompt-induced variability was deliberately controlled rather than measured, leaving the influence of prompt wording untested.
 - The comparison covers a fixed set of five models evaluated at one point in time, so the reported reliability profiles may not hold as model versions change.
-## Connected Concepts
-- [[automated-essay-scoring]]
-- [[llm]]
-- [[educational-nlp]]
-- [[assessment-validity]]
-- [[benchmark]]
-- [[writing-education]]
-- [[bias-mitigation]]
-- [[ai-ed-evaluation]]
-
-## Connected Articles
-- [llm-essay-scoring-feature-weighting-2026] — feature weighting patterns in LLM-based essay scoring
-- [llms-do-not-grade-essays-like-humans-2026] — LLMs do not grade essays like humans
-- [choi-anchor-aes-prompting-2025] — anchor-paper prompting for AES
-- [zhang-races-consistent-essay-scoring-llms-2026] — RACES: reward-aligned consistent essay scoring
-
 ## Citation
 Liu, T., Ye, L., & Yan, W. (2026). [A framework for evaluation of large language models in essay assessment: Reliability, alignment, and causal reasoning](https://doi.org/10.1016/j.caeai.2026.100565). *Computers and Education: Artificial Intelligence, 10*, 100565.

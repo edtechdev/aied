@@ -50,23 +50,6 @@ DeepSeek (open-weight) and OpenAI (proprietary) rubrics produced equivalent grad
 - The ±5-point equivalence margin is an operationally grounded benchmark rather than a universal standard, and it is narrower than the human evaluators' own pairwise mean absolute difference of 7.91–9.19 points.
 - The Stage 2 synthesis model was also one of the LLM evaluators — GPT-4o in the OpenAI family and deepseek-chat (DeepSeek V3) in the DeepSeek family — so synthesis and evaluation are not independent, and the Stage 1 candidate rubrics were not retained, leaving the synthesis step's contribution unmeasured.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[llm]]
-- [[generative-ai]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[ai-feedback-quality]]
-- [[trust]]
-
-## Connected Articles
-
-- [[llm-automated-assessment-student-self-explanations]] — LLM automated assessment of student self-explanations
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid e-assessment with semi-automated grading
-- [[automated-formative-assessments-a-level-sciences]] — Automated formative assessments
-
 ## Citation
 
 Mendonça, P. C., Quintal, F., Figueiredo, M., Baras, K., & Mendonça, F. (2026). [*A hybrid reasoning framework for artificial intelligence assessment rubric generation in human and automated contexts: Evidence from an undergraduate programming course*](https://doi.org/10.1016/j.caeai.2026.100663). *Computers and Education: Artificial Intelligence, 100663*.

@@ -39,22 +39,6 @@ Participants rated the tracer positively for building intuition about query eval
 - Sessions were conducted in interviews with hints from the interviewers rather than unsupervised use, and no comprehension, grade or other learning-outcome measure was collected.
 - The study surfaced tool bugs (request queuing under rapid pagination, the replace-symbol interaction in the editor) and only discussed scalability, leaving node grouping, focus+context techniques and indicators for infinite recursion to future versions.
 
-## Connected Concepts
-
-- [[scaffolding]]
-- [[cs-education]]
-- [[stem-education]]
-- [[higher-ed]]
-- [[computational-thinking]]
-- [[knowledge-graph]]
-- [[active-learning]]
-- [[transfer-of-learning]]
-## Connected Articles
-
-- [[programming-its]]
-- [[pedagogy-ai-mistakes]]
-- [[code-anchor-multi-view-visualization]]
-- [[supplynet-visual-exploratory-learning]]
 ## Citation
 
 Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, et al. (2026). [Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming](https://arxiv.org/abs/2607.18864). .

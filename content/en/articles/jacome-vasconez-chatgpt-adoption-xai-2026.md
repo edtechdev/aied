@@ -48,31 +48,6 @@ institutions: [educational-policy-ai, governance]
 - Only students' perspectives were measured; no instructors, administrators, or policymakers were surveyed, which the authors list as a gap for understanding institutional adoption.
 - Measurement caveats: the residuals departed from normality, addressed by relying on the Central Limit Theorem at n = 522, and heteroscedasticity was addressed with Davidson–MacKinnon HC3 robust standard errors.
 
-## Connected Concepts
-
-- [[technology-acceptance-model]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[trust]]
-- [[learning-analytics]]
-- [[academic-integrity]]
-- [[self-regulated-learning]]
-- [[critical-thinking]]
-- [[teacher-role]]
-- [[ethics]]
-- [[governance]]
-- [[educational-policy-ai]]
-
-## Connected Articles
-
-- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
-- [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption (UTAUT3 + ARCS)
-- [[genai-chatgpt-adoption-ethics-students-2026]] — Behavioral and ethical drivers of student ChatGPT adoption
-
 ## Citation
 
 Jácome-Vásconez, S., Diaz-Bedoya, D., Roig-Vila, R., González-Rodríguez, M., & Acosta-Vargas, P. (2026). Explaining ChatGPT adoption in higher education: Insights for AI literacy, educational practice, and responsible AI. *Education Sciences, 16*(9), 1432. https://doi.org/10.3390/educsci16091432

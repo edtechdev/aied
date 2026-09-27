@@ -32,23 +32,6 @@ For [[writing-education]], this represents a paradigm shift. Traditional [[autom
 - The framework covers one instantiation of co-writing — proactive suggestion-based completion; the authors state that generalization to other collaborative forms, such as outlining assistance or structural critiquing, remains an open question.
 - The controlled dataset contains 60 human-authored articles across 16 domains and 1,688 continuation queries, and the authors note the absence of the longitudinal user studies needed to show how writing preferences evolve.
 
-## Connected Concepts
-
-- [[writing-education]]
-- [[human-in-the-loop-ai]]
-- [[llm]]
-- [[human-ai-collaboration]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[automated-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-## Connected Articles
-
-- [[cyberscholar-genai-writing-feedback]]
-- [[structured-llm-feedback-programming]]
-- [[becerra-aicofe-feedback-2026]]
-- [[humanlike-ai-collaborative-writing]]
 ## Citation
 
 Youqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen (2026). [MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing](https://arxiv.org/abs/2605.23535). IJCAI 2026.

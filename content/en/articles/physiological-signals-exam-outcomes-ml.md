@@ -40,23 +40,6 @@ Physiological stress indicators — electrodermal activity, heart rate, and skin
 - The prediction target is coarse: grades were normalized and assigned values from 0 to 4, then categorized into letter grades ranging from A to F, so the models predict a grade category rather than a fine-grained score.
 - Rows with missing values were removed to maintain dataset integrity, and logistic regression and SVM were omitted from the variability analysis because of their deterministic behavior, so the 30-replicate consistency comparison covers only four of the six models.
 
-## Connected Concepts
-- [[educational-measurement]]
-- [[ai-ed-evaluation]]
-- [[well-being]]
-- [[affective-computing]]
-- [[learning-analytics]]
-- [[human-in-the-loop-ai]]
-- [[affective-tutoring]]
-## Connected Articles
-
-- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
-- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-- [[dynamic-skill-matching-capstone-teams]] — Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment
-- [[hypergamification-game-engine-lms]] — Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
-- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
-
 ## Citation
 
 Lala Yamazaki, Ramchandra Rimal (2026). [Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning](https://arxiv.org/abs/2606.14960). arXiv preprint.

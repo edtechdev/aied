@@ -41,26 +41,6 @@ At its core, LecturaAgents mirrors a professor–student relationship: a Profess
 - Expert-judged evaluation: pedagogical and comparative scoring depended on five expert educators validating rubric criteria, a labor-intensive protocol that limits how broadly the results scale.
 - Inherited LLM failure modes: the framework can produce factual errors, inconsistent reasoning, and prompt- or tool-sensitive outputs.
 
-## Connected Concepts
-
-- [[personalized-learning]]
-- [[pedagogical-llm-training]]
-- [[pedagogical-agent]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[embodied-learning]]
-- [[multimodal]]
-- [[teacher-ai-competency]]
-
-## Connected Articles
-
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
-- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
-- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
-- [[nie-personavlm-long-term-personalization-2026]] — LLM Student Modeling and Long-Term Memory Architecture
-
 ## Citation
 
 Jaward Sesay, Yue Yu, Siwei Dong, Yemin Shi, Guangyao Chen, Borje F. Karlsson (2026). [LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching](https://arxiv.org/abs/2606.16428). arXiv cs.CL.

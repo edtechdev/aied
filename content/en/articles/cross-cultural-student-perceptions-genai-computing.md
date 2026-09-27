@@ -32,29 +32,6 @@ The result complicates the knowledge base's [[academic-integrity]] thread: polic
 - Judgments were self-reported responses to hypothetical scenarios, so they may differ from real coursework behavior and are subject to social desirability bias and differing item interpretation across cultures.
 - Scenario-level contrasts may partly reflect cross-cultural response-style differences such as neutral-category use, so the Mann-Whitney U results should not be read as pure median shifts.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[cs-education]]
-- [[culturally-relevant-pedagogy]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[student-experience]]
-
-## Connected Articles
-
-- [[student-perception-ai-use-collaboration]]
-- [[genai-impact-chinese-students-hss]]
-- [[genai-policies-higher-ed-computing]]
-- [[a4l-analytics-pipeline]]
-- [[aaai2026-prompting-literacy-k12]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[access-not-enough-ai-tutoring-2026]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[adaptive-pretesting-retention]]
-- [[adhd-video-segmentation-computing-education]]
 ## Citation
 
 Harrington, B., Zlotnikova, I., Nadarajan, G., & Ekundayo, S. (2026). [Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education](https://arxiv.org/abs/2607.19699). arXiv preprint (cs.CY).

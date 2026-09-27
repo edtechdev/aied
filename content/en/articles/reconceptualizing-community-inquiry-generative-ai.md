@@ -11,7 +11,6 @@ level: [higher ed]
 sources: ['raw/papers/reconceptualizing-community-inquiry-generative-ai.md']
 confidence: high
 audience: [researchers, instructional designers]
-connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** Ba, Gašević, Lim, and Anderson (2026) reconceptualize the [[community-of-inquiry|Community of Inquiry]] (CoI) framework for the age of [[generative-ai|generative AI]], arguing that GenAI challenges the assumption that indicators of presence can be attributed primarily to human learners and [[teacher-role|instructor]]s. Rather than framing GenAI as a mere tool, dialogic partner, or 'fourth presence,' they position GenAI as an **epistemic condition** that shapes inquiry through direct use, indirect mediation of tasks, and latent influence on how contributions are interpreted and evaluated. Drawing on sociomaterial and postdigital perspectives, they argue that CoI presences are sociotechnical accomplishments emerging through human-GenAI assemblages, and propose a configuration-based heuristic where the relationship between GenAI involvement and inquiry quality is conditional on human accountability.
@@ -60,25 +59,6 @@ CoI remains theoretically valuable but its operationalizations need refinement: 
 - This is a conceptual analysis and provides no empirical evidence for the reconceptualization; the configuration-based four-quadrant heuristic is offered as a set of theoretically grounded propositions for future investigation.
 - It supplies no fully specified, psychometrically validated measurement revision, so existing CoI coding schemes and surveys remain unrevised for GenAI-mediated environments and cannot yet be applied robustly.
 - The argument was developed mainly with higher-education, text-based inquiry contexts in mind, and the authors state that generalizability of the reconceptualization to other contexts remains uncertain.
-
-## Connected Concepts
-- [[community-of-inquiry]] — Community of Inquiry
-- [[generative-ai]]
-- [[llm]]
-- [[critical-thinking]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[assessment]]
-- [[metacognition]]
-- [[online-teaching-and-learning]]
-- [[human-ai-collaboration]]
-- [[theory-development-aied]]
-
-## Connected Articles
-
-- [[ai-communities-of-inquiry-2026]] — AI in communities of inquiry
-- [[ai-online-education-engagement-satisfaction-2026]] — AI and online education engagement
-- [[critical-thinking-genai-scaffolding]] — Scaffolding critical thinking with GenAI
 
 ## Citation
 

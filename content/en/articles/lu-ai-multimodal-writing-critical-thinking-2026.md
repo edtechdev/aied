@@ -5,7 +5,6 @@ updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [critical-thinking]
 pedagogy: [collaborative-learning, scaffolding, self-regulated-learning]
-connected_faqs: [ai-guidance-children-under-13]
 methods: [mixed-methods-research]
 discipline: [writing education, language learning]
 audience: [instructors, learners, researchers]
@@ -42,23 +41,6 @@ The study contributes a rare upper-primary, multimodal test of conversational AI
 - AI-bot multimodal composing and structured peer collaboration were delivered together inside the same lessons, so neither component's contribution can be isolated.
 - Critical thinking was measured by a self-report questionnaire adapted from Wei (2025) and piloted with only 10 students, never independently validated for this population; with 10–11-year-olds answering in the same classroom as the intervention, social desirability and demand characteristics are plausible.
 - The one-month follow-up supports only short-term maintenance rather than durable development, and the qualitative evidence rests on a purposive subsample of nine students working with a single China-based tool (Doubao).
-
-## Connected Concepts
-
-- [[critical-thinking]]
-- [[writing-education]]
-- [[k-12]]
-- [[collaborative-learning]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[multimodal]]
-- [[pedagogical-agent]]
-
-## Connected Articles
-
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Narrative Drafting Scaffolding
-- [[elementary-writing-genai-systematic-review-2026]] — Rethinking Elementary Writing Instruction
 
 ## Citation
 

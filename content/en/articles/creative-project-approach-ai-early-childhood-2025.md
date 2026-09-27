@@ -6,7 +6,6 @@ type: article
 foundations: [agentic-ai, computational-thinking]
 pedagogy: [creativity, project-based-learning, social-emotional-learning]
 technology: [educational-robotics, generative-ai]
-connected_faqs: [ai-guidance-children-under-13]
 research_method: [theoretical analysis]
 audience: [instructors, instructional designers, faculty developers]
 level: [k 12, preschool]
@@ -38,33 +37,6 @@ page_kind: [framework]
 - The two supporting cases are illustrative accounts — a Matatalab story-based coding project and a kindergarten class co-creating a birthday song with Doubao — reported without participant counts, comparison conditions, or outcome measures.
 - The recommended tools are mostly commercial (Moxie, BubblePal, Heeyo.ai, Doubao, UBTECH robots) whose effectiveness evidence is not reviewed here, and the authors themselves note that research on this technology is rarely applied in real-world settings.
 - The risk discussion is author-stated rather than measured: hallucination in generative social robots, software and hardware failures in coding robots, and cost and access barriers that widen the [[digital-divide]] are named as concerns but not quantified.
-
-## Connected Concepts
-
-- [[early-childhood-elementary-ai-education]] — the primary domain; developmentally specific AI and robotics use for young children
-- [[educational-robotics]] — coding robots and generative social robots as the two embodied paradigms
-- [[project-based-learning]] — the Project Approach into which AI agents are integrated
-- [[generative-ai]] — the engine powering social robots and virtual agents (GPT, Doubao, etc.)
-- [[agentic-ai]] — generative agents that act as conversational partners and collaborators
-- [[constructivist]] — Papert's constructionism grounding coding-robot pedagogy
-- [[sociocultural-learning]] — Vygotsky's scaffolding and ZPD grounding generative social robots
-- [[creativity]] — creative learning as the central goal of the framework
-- [[computational-thinking]] — fostered by coding robots through tangible programming
-- [[social-emotional-learning]] — supported by generative social robots and co-creation activities
-- [[embodied-learning]] — why physical agents are preferred over screens for young children
-- [[ai-literacy]] — teachers and children need critical AI literacy to evaluate tools
-- [[parents-and-families]]
-## Connected Articles
-
-- [[ai-play-framework-early-childhood-2026]] — an AI-Play framework teaching early-childhood AI concepts through unplugged play
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI: a play-centered pre-K/kindergarten AI literacy curriculum blending unplugged play, tangible coding, and a social AI robot
-- [[ai-toys-child-development-2026]] — AI-enabled toys and child development (commercial playthings children meet at home)
-- [[tsingidou-ct-robotics-kindergarten-2026]] — robot-mediated computational thinking in kindergarten
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM-powered humanoid storytelling with young children
-- [[educational-robotics-pathways-2026]] — project-based robotics+AI learning (constructionist lens)
-- [[bots-blocks-project-based-robotics-education-2026]] — project-based robotics education in CS
-- [[knowledge-based-design-generative-social-robots-2026]] — knowledge-based design for generative social robots (addressing the same hallucination/feedback risks)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — preschool teachers' behavioral intention to use AI
 
 ## Citation
 

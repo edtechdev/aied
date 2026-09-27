@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, teacher-role]
 technology: [generative-ai]
 assessment: [assessment]
-connected_faqs: [course-ai-policy]
 research_method: [longitudinal study]
 audience: [instructors, administrators, policymakers, researchers]
 level: [higher ed]
@@ -51,30 +50,6 @@ institutions: [educational-policy-ai, governance, regulation]
 - The study cannot observe actual student AI use or learning outcomes: whether task-level restrictions protect skill formation remains untested, and students may use AI regardless of stated policies.
 - All syllabi come from a single large selective public research university in Texas (31,000+ syllabi, 2021–2025); the author calls for replication at community colleges, elite private universities, and international settings, since other contexts may show different patterns.
 - The computational classification reached 96% agreement with human coding but not every expanded classification dimension received full human validation, classifications require judgment where policies fall ambiguously between categories, and model updates can classify identical content differently, complicating exact replication.
-
-## Connected Concepts
-
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[governance]]
-- [[teacher-role]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[discipline-specific-aied]]
-- [[social-norms-ai-use]] — the informal rules around AI use
-
-## Connected Articles
-
-- [[chirikov-ai-grade-inflation-2026]] — Companion paper: AI task displacement as a mechanism of grade inflation (Chirikov 2026)
-- [[genai-policies-higher-ed-computing]] — How universities develop and communicate AI policies
-- [[adarkwah-genai-unesco-policy-2026]] — UNESCO guidance on GenAI in education policy
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on governing generative AI in higher education
-- [[zuo-instructor-power-genai-writing-2026]] — Instructors' perceived power relations with GenAI in writing
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Learning losses from homework outsourcing in secondary education
 
 ## Citation
 

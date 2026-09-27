@@ -51,23 +51,6 @@ A single MCQ response is just a digit — near-useless for attributing source �
 - The between-chatbot comparison on the chemistry instrument had low statistical power, which the authors name rather than reading as a null result.
 - Elevated person-fit scores can arise from legitimate sources such as learning disabilities or anxiety, and external validity is limited to six tools and two instruments.
 
-
-## Connected Concepts
-
-- [[item-response-theory]]
-- [[academic-integrity]]
-- [[generative-ai]]
-- [[llm]]
-- [[assessment]]
-- [[educational-measurement]]
-
-## Connected Articles
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — Automated online exam proctoring review
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal item parameter estimation
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — Can AI evaluate assessment
-- [[assessment-latent-structure-human-llm-2026]] — Latent structure of human vs. LLM assessment
-
 ## Citation
 
 Strugatski, A., & Alexandron, G. (2026). [Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments](https://doi.org/10.1016/j.caeai.2026.100668). *Computers and Education: Artificial Intelligence*, 100668.

@@ -65,21 +65,6 @@ Case studies on the Junyi dataset illustrate the interpretability payoff. At the
 - Interpretability is demonstrated through case studies on the Junyi dataset only; the paper reports no user study of whether students or instructors can understand, trust, or act on the reasoning paths.
 - The multi-level pattern mechanism requires per-dataset tuning: the optimal pattern level was 5 on ASSIST09 and 6 on Bridge2006, so the headline results depend on hyperparameters selected separately for each dataset.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[educational-measurement]]
-- [[adaptive-learning]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-## Connected Articles
-
-- [[neural-symbolic-knowledge-tracing]]
-- [[stanbkt-bayesian-knowledge-tracing]]
-- [[huang-interpretable-knowledge-tracing-2026]]
 ## Citation
 
 Wu, Xu, & Zhang (2026). [Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning](https://arxiv.org/abs/2605.09369). arXiv preprint (cs.AI).

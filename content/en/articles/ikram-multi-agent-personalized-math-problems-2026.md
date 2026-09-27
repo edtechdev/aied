@@ -59,22 +59,6 @@ Three annotators with college-level mathematics backgrounds labeled 45 sampled Z
 - No teachers or students participated, and the study measures problem quality rather than any effect on learning outcomes.
 - All results come from one model at temperature zero and a fixed set of 20 interest topics.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[pedagogical-agent]]
-- [[personalized-learning]]
-- [[llm]]
-- [[human-ai-collaboration]]
-- [[problem-solving]]
-
-## Connected Articles
-
-- [[walkington-teachers-multi-agent-personalized-problem-generation-2026]]: Teacher-driven context personalization with large language models
-- [[proiqa-math-item-quality-assessment-2026]]: Assessing the quality of generated math items
-- [[wang-multi-agent-systems-learning-designers-2025]]: Multi-agent workflows for instructional design
-- [[taklif-ai-interest-based-personalized-assignments]]: Personalizing assignments to student interests with AI
-
 ## Citation
 
 Ikram, F., Ashok Kumar, N., Lu, J., McNichols, H., Walkington, C., Heffernan, N., & Lan, A. S. (2026). [*A Multi-Agent Approach to Validate and Refine LLM-Generated Personalized Math Problems*](https://arxiv.org/abs/2604.05160). Published in AIED 2026: The 27th International Conference on Artificial Intelligence in Education. arXiv:2604.05160. https://doi.org/10.48550/arXiv.2604.05160

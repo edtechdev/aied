@@ -31,24 +31,6 @@ AdaPT uses transformers to adapt lesson plans across regional and differentiated
 - No student-level outcome was measured: judgments of contextual appropriateness come from 3 education specialists, so the system's effect on student learning remains untested.
 - The team reports that general-purpose LLMs show limited sensitivity to task difficulty — they produce acceptable tasks but weak gradients between basic and advanced levels — so fine-grained differentiation still needs teacher judgment; the long, detailed prompts that compensate also carry substantial token cost, which the authors name as a practical barrier to adoption.
 
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[teacher-ai-competency]]
-- [[bias-mitigation]]
-- [[k-12]]
-- [[curriculum-design]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
-
 ## Citation
 
 Yanjie Zhang, Jiajun Zhu, Minyu Wu, Huamin Qu, Sicheng Song (2026). [AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction](https://arxiv.org/abs/2606.17633).

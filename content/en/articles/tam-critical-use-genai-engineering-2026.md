@@ -40,28 +40,6 @@ page_kind: [framework]
 - The institutional and disciplinary specificity of the sample limits generalizability to other disciplines, institutions, or national contexts.
 - Data are cross-sectional, so the study cannot show how critical use and reliance evolve as GenAI tools change; the authors call for interviews, focus groups, or classroom observation to triangulate the survey.
 
-## Connected Concepts
-
-- [[technology-acceptance-model]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[cs-education]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[reducing-ai-misuse]]
-
-## Connected Articles
-
-- [[genai-reliance-types-scale]] — GenAI reliance types scale
-- [[llm-reliance-types-undergrad]] — LLM reliance types among undergraduates
-- [[trust-reliance-ai-education-2026]] — Trust and reliance in AI education
-- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency gain illusion: AI overreliance
-
 ## Citation
 
 Nguyen, T. H., Truong, L. T., & Nguyen, N. H. T. (2026). [Factors influencing university students' intention to use and reliance on generative artificial intelligence: An extended technology acceptance model with critical use](https://doi.org/10.1016/j.caeai.2026.100618). Computers and Education: Artificial Intelligence, 10, 100618.

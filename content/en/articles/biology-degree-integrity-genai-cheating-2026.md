@@ -68,33 +68,6 @@ The design does establish a cheap, replicable and diagnostic method: code each s
 - **Lecture components only.** The syllabus analysis excludes lab work that constituted 15-40% of the grade in some courses, so the percentages cover the codable graded portion.
 - **Weighted toward the largest offerings.** The sample skews to large courses (61% enrolling 200+) and online sections (45%), where vulnerability concentrates, so the aggregate describes the largest offerings, not a typical small seminar.
 
-## Connected Concepts
-
-- [[academic-integrity]] — the case study's subject: how much of a grade could be earned dishonestly
-- [[assessment]] — graded categories, point weights, and the structure of a course grade
-- [[assessment-validity]] — grades as a warrant about student learning, undermined by unverifiable authorship
-- [[formative-assessment]] — the low-stakes, outside-of-class assessments the field promoted are the most exposed category
-- [[summative-assessment]] — supervised high-stakes exams as the only category instructors rated minimally vulnerable
-- [[remote-proctoring]] — proctored and unproctored outside-of-class exams rated equally vulnerable
-- [[biology-education]] — core required biology courses across online and in-person degree routes
-- [[higher-ed]] — institutional norms, instructor autonomy, and department-level responsibility
-- [[generative-ai]] — the technological change that removes the cost and risk of outside-of-class dishonesty
-- [[curriculum-design]] — rebalancing points, ungrading, and the trade-off with active-learning structures
-- [[stem-education]] — why the grading architecture described here is not biology-specific
-
-## Connected Articles
-- [[ivory-psychology-assessment-integrity-2026]] — A whole psychology program 90% passable at minimum effort, and the marking criteria that let it through (Ivory et al. 2026)
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Review of academic dishonesty and automated proctoring in the AI era
-- [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
-- [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety
-- [[ai-tools-academic-work-cheating-2026]] — Student cheating behavior with AI tools in academic work
-- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment in an AI-Mediated World
-- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — GenAI and authentic assessment integrity (Kofinas et al. 2025)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — AI agents completing LMS tasks; human-production assumption and agentic validity
-- [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — Academic integrity and student study practices with AI
-- [[generative-ai-reduced-study-time-math]] — Generative AI Reduced Study Time on Math
-
 ## Citation
 
 Chan, B. G., Anderson, E. P., Lu, S., Abdellatif, N., Cooper, K. M., & Brownell, S. E. (2026). [*Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI*](https://osf.io/4bgd3/). OSF preprint.

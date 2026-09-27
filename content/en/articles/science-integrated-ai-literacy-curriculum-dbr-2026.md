@@ -38,21 +38,5 @@ methods: [design-based-research, mixed-methods-research]
 - Subgroup findings rest on self-reported gender and ethnicity, and interview data are retrospective accounts collected at the end of the program.
 - The authors name two unresolved limits: the long-term influence of the curriculum on students' AI knowledge, skills, attitudes, and career interests is unexamined, and the materials are not yet scaffolded for science educators in varied contexts.
 
-## Connected Concepts
-- [[ai-literacy]]
-- [[k-12]]
-- [[design-based-research]]
-- [[science-education]]
-- [[curriculum-design]]
-- [[machine-learning]]
-- [[equity-in-ai-education]]
-- [[ai-education]]
-
-## Connected Articles
-- [genai-literacy-training-teacher-education-dbr-2026] — DBR-based GenAI literacy teacher training
-- [ai-assisted-collaborative-learning-model-dbr] — DBR model for AI-assisted collaborative learning
-- [caruana-pre-university-ai-education-slr-2026] — systematic review of pre-university AI education
-- [liang-ai-learning-motivation-sdt-2026] — SDT analysis of students' AI learning motivation
-
 ## Citation
 Moore, K. S., Rabinowitz, G., Ali, S., Weckel, M., Lee, I., Gupta, P., & Chaffee, R. (2026). [Design of a science integrated secondary school AI literacy curriculum: A youth & AI expert guided design-based research approach](https://doi.org/10.1016/j.caeai.2026.100552). *Computers and Education: Artificial Intelligence, 10*, 100552.

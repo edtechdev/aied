@@ -42,24 +42,6 @@ A Hidden Markov Model tracked the dynamic evolution of knowledge states, computi
 - Efficiency gains were cross-validated across two different content domains rather than replicated within the same one, so the paper reports cross-domain generalization rather than direct replication.
 - The three mediators left 13.4% of the total effect unexplained, indicating unmeasured pathways such as engagement or emotional states.
 
-## Connected Concepts
-
-- [[cognitive-diagnosis]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[learning-analytics]]
-- [[item-response-theory]]
-- [[educational-measurement]]
-- [[learning-gains]]
-- [[motivation]]
-- [[self-regulated-learning]]
-- [[recommender-systems-and-learning-paths]]
-## Connected Articles
-
-- [[llm-cognitive-diagnosis-handwritten-math]] — LLM cognitive diagnosis of handwritten math
-- [[xie-hillm-cd-2026]] — HI-LLM for cognitive diagnosis
-- [[adaptive-pretesting-retention]] — Adaptive pretesting and retention
-
 ## Citation
 
 Feng, Z., & Huang, K. (2026). [*Bayesian cognitive diagnosis optimizes personalized learning paths via mediation of cognitive load and Hidden Markov Model state transitions*](https://doi.org/10.3389/fpsyg.2026.1879982). *Frontiers in Psychology, 17, 1879982*.

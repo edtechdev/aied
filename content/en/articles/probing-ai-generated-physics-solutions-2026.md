@@ -52,27 +52,6 @@ Problem-solving-only groups produced uncritical or misconception-based critiques
 - The authors treat the student component as an exploratory comparison of group-level critique patterns, so no individual-level learning measure is available.
 - Rubric reliability was established only on the AI outputs (two expert raters, weighted Cohen's κ = 0.64), not on the coding of student critiques.
 
-## Connected Concepts
-
-- [[physics-education]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[assessment]]
-- [[student-experience]]
-- [[research-methods-aied]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[ai-scoring-language-bias-physics]]
-- [[becker-chatgpt-typology-physics-2026]]
-- [[socratic-ai-physics-tutor-taxonomy-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[physics-chatbot-epistemological-beliefs-2026]]
-- [[genai-ar-physics-simulation-prompt-2026]]
-
 ## Citation
 
 Borse, N. S., Bralin, A., Savage, S., & Rebello, N. S. (2026). [*Probing AI-generated physics solutions and preparing students to critique them*](https://arxiv.org/abs/2608.12533).

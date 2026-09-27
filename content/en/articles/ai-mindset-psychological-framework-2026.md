@@ -59,33 +59,6 @@ The results sit uneasily beside a literature that routinely finds self-efficacy 
 - Nearly all measures are self-report, and several subscales are only marginally reliable (fear α = .66, acceptance α = .60, AI tool use α = .68), which weakens fine-grained claims.
 - The framework itself is new — one operationalization, not a validated instrument — with several subdomains non-significant and competence's status as the primary mediator untested against competing models; school type was also missing for a quarter of respondents, and the analyses cannot rule out unmodeled contextual moderators or institutional differences in AI infrastructure and policy.
 
-## Connected Concepts
-
-- [[ai-literacy]] — the competence domain the framework reframes as psychologically grounded rather than technical
-- [[anxiety-and-stress]] — AI-related fear as a technology appraisal with a directly and indirectly opposed pair of effects
-- [[self-efficacy]] — general self-efficacy measured and found inert, contrasted with domain-specific competence
-- [[teacher-ai-competency]] — pedagogical AI competence as the mediator translating mindset into behavior
-- [[tpack]] — Intelligent-TPACK and ethics as the operationalization of AI competence
-- [[technology-acceptance-model]] — one of the acceptance theories whose constructs the framework reorders
-- [[self-determination-theory]] — basic psychological needs (autonomy, competence, relatedness) as dispositional factors
-- [[motivation]] — hedonic motivation as an independent direct driver of use
-- [[human-ai-collaboration]] — teachers' sustained integration of AI into professional practice as the outcome modeled
-- [[self-regulated-learning]] — self-regulation and habit formation under rapid technological change
-- [[generative-ai]] — the technology whose adoption the model explains
-- [[theory-development-aied]] — the paper's framing contribution, an integrative framework plus an empirically tested model
-
-## Connected Articles
-
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for AI literacy through a self-determination theory lens
-- [[liang-ai-learning-motivation-sdt-2026]] — Latent transition analysis of AI learning motivation profiles
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI anxiety and academic motivation, mediated by emotion regulation
-- [[ai-anxiety-strategic-regulation-writing-2026]] — Students turning AI anxiety into strategic self-regulation
-- [[tpack-genai-inservice-teachers-mediation-2026]] — TPACK-GenAI and the mediating role of pedagogical knowledge
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of factors associated with AI adoption in tertiary education
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Social and cognitive drivers of GenAI adoption in engineering education
-- [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI learning adoption
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI literacy, psychological capital and learning engagement
-
 ## Citation
 
 Feng, S., Koch, M. J., & Carolus, A. (2026). [*AI Mindset – An Empirically Tested Theoretical Framework on the Psychological Factors Shaping AI Competence and AI Use*](https://doi.org/10.1016/j.chbah.2026.100402). *Computers in Human Behavior: Artificial Humans*.

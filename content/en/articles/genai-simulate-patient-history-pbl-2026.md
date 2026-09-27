@@ -41,19 +41,5 @@ Between-groups, [[mixed-methods-research|mixed-methods]] pilot at a small commun
 - Outcomes rest on locally developed instruments — an 8-item perceptions survey and an 11-item history quiz — and recall was near ceiling in both conditions (immediate 9.40 ePBLM vs 10.10 genAI of 11), leaving little room to detect a knowledge difference.
 - With only two groups per condition, group effects on the quiz and survey could not be statistically controlled, and the observational analysis used audio recordings only.
 
-## Connected Concepts
-- [[problem-based-learning]]
-- [[medical-education]]
-- [[generative-ai]]
-- [[pedagogical-agent]]
-- [[simulation]]
-- [[authentic-assessment]]
-
-## Connected Articles
-- [[medeasy-ai-standardized-patients]] — MedEasy: Designing AI Standardized Patients for Clinical Consultation Training
-- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
-- [[ai-psychotherapy-training-avatars]] — Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars
-- [[genai-patient-education-transplant-handbooks]] — Generative AI for Patient Education: Grounding Content and Equity in Transplant Handbooks
-
 ## Citation
 Mool, A., Schmid, J., Johnston, T., Smith McCoy, K.J., et al. (2026). [*Using generative AI to simulate patient history-taking in a problem-based learning tutorial*](https://doi.org/10.1007/s10758-025-09929-4). *Technology, Knowledge and Learning*.

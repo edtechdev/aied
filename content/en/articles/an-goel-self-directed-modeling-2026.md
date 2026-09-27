@@ -38,22 +38,6 @@ page_kind: [evaluation]
 - The clickstream contains no time durations, and 33 outlier sequences beyond mean ± 2 SD were removed before segmentation, so session pacing and extreme engagement patterns are invisible in the results.
 - The evidence is behavioral only — no surveys or interviews were used to verify that the inferred Observation, Construction, and Exploration labels match what learners intended, which the authors name as the main gap to close.
 
-## Connected Concepts
-
-- [[self-directed-learning]]
-- [[learning-analytics]]
-- [[simulation]]
-- [[student-modeling]]
-- [[science-education]]
-- [[adaptive-learning]]
-
-## Connected Articles
-
-- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
-- [[tutortrace-learner-behavioral-states-2026]] — TutorTrace: Classifying Learner Behavioral States in AI-Assisted Programming
-- [[benzion-ai-physics-simulations-virtual-lab]] — AI Generation of Physics Simulations: Building Your Own Virtual Lab
-- [[learning-behavior-background-advantage-ai-ed]] — Learning Behavior and Background Advantage in AI-Assisted Education
-
 ## Citation
 
 An, S., Hammock, J., & Goel, A. (2025). [How Online Learners Engage in Self-Directed Modeling: A Behavioral Analysis](https://doi.org/10.1007/s40593-025-00506-5). *International Journal of Artificial Intelligence in Education*, 35, 3501–3528.

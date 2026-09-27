@@ -52,29 +52,6 @@ The report synthesizes a future-focused convening (January 29, 2026) on how asse
 - Claims about AI scoring validity (construct-irrelevant variance, construct underrepresentation, failures of generalization) are synthesized from prior research and convening discussion; the authors report no validity analyses of their own.
 - The stakeholder recommendations span systems, researchers, developers, and funders, but the convening's participant mix (research, technology, K-12, and higher education) is not a representative sample of the field the recommendations target.
 
-## Connected Concepts
-
-- [[ai-ed-evaluation]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[authentic-assessment]]
-- [[equity-in-ai-education]]
-- [[human-in-the-loop-ai]]
-- [[trust]]
-## Connected Articles
-
-- [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations...
-- [[llm-handwritten-math-grading]] — Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
-- [[machines-misread-pedagogical-quality]] — Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation
-- [[socratic-tests-conversational-assessment]] — The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations
-- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-
 ## Citation
 
 ASSESSMENT, R., ERA, I.T.A., a, K.I.F., Conference, F., McGee, N.J., Thille, C., Choi, I., & Ercikan, K. (2026). [Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference](https://acceleratelearning.stanford.edu/conference/responsible-assessment-in-the-ai-era/)

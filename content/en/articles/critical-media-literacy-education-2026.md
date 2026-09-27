@@ -75,25 +75,6 @@ The study also underscores that [[equity-in-ai-education|digital inequity]] is a
 - The cross-sectional design provides only a snapshot of current perceptions and cannot capture how views and competencies evolve over time.
 - Readiness figures are self-assessed — 44.9% feeling able to analyze media information critically — so they measure perceived competence rather than demonstrated skill.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[self-assessment]]
-- [[critical-thinking]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[curriculum-design]]
-- [[ethics]]
-- [[educational-policy-ai]]
-
-## Connected Articles
-
-- [[ai-ethics-education-public-discourse]] — AI ethics in public discourse
-- [[ai-changing-teaching-workflows]] — How AI changes teaching workflows
-- [[ai-adult-learning-guidelines-dis2026]] — AI in adult learning design
-- [[elementary-writing-genai-systematic-review-2026]] — Elementary writing and GenAI review
-
 ## Citation
 
 Santos-Albardía, M., Peña-Fernández, S., & Agirreazkuenaga, I. (2025). [*Technology, education and critical media literacy: potential, challenges, and opportunities*](https://doi.org/10.3389/fhumd.2025.1608911). Frontiers in Human Dynamics, 7, 1608911.

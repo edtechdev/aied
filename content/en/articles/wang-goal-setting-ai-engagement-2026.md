@@ -45,23 +45,6 @@ Wang & Wang (2026) address an under-explored question: not just *whether* AI hel
 - The final sample of 758 came from 813 submitted questionnaires, with 55 cases (6.77%) dropped for implausibly short response times; eligibility required prior experience with AI-assisted English learning, so students with no such exposure are absent.
 - Engagement quality was not measured: the authors state the study cannot distinguish quantity from quality of engagement, including whether avoidance-driven AI use produces more superficial learning outcomes.
 
-## Connected Concepts
-
-- [[student-engagement]]
-- [[motivation]]
-- [[language-learning]]
-- [[english-education]]
-- [[higher-ed]]
-- [[self-determination-theory]]
-- [[teacher-role]]
-- [[ai-feedback-quality]]
-
-## Connected Articles
-
-- [[oby-chatgpt-use-learning-framework-2026]] — Theoretical framework for guiding students' ChatGPT use
-- [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of AI learning motivation
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — SDT and student engagement with GenAI
-
 ## Citation
 
 Wang, Y., & Wang, Y. (2026). [*Explaining learning engagement in AI-assisted learning through teacher support and achievement goals: insights from goal-setting theory*](https://doi.org/10.1057/s41599-026-07636-8). *Humanities and Social Sciences Communications*, 13(1215).

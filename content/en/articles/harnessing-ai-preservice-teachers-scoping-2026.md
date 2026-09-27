@@ -48,20 +48,6 @@ page_kind: [synthesis]
 - Search was limited to three databases (Web of Science, ScienceDirect, EBSCOhost) and to peer-reviewed articles published in English from January 2020, excluding non-English work and Gray literature.
 - Disciplinary coverage is skewed: among the 40 studies with a clear disciplinary context, language education (42.5%) and mathematics (27.5%) dominate, with minimal work on the arts and humanities.
 
-## Connected Concepts
-
-- [[teacher-education]]
-- [[educational-development]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-## Connected Articles
-
-- [[human-centered-ai-teacher-educators-2026]] — Design-based research on critical AI literacy for teacher educators
-- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK framework for AI professional development
-- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Intelligent-TPACK readiness of preservice teachers
-
 ## Citation
 
 Ziying, L., Yongchun, H., & Qiaoping, Z. (2026). [*Harnessing artificial intelligence for preservice teachers' development: A scoping review of applications, benefits, and challenges*](https://doi.org/10.1016/j.caeo.2026.100330). *Computers and Education Open*, 100330. https://doi.org/10.1016/j.caeo.2026.100330

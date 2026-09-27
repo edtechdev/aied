@@ -51,25 +51,6 @@ confidence: high
 - **Online sample skew.** The authors state that respondents completing the survey online may have higher digital literacy and more favorable perceptions of GenAI than other teacher groups.
 - **A construct was dropped for discriminant validity.** Attitude had to be removed from the model because its correlations with behavioral intention (.929) and perceived usefulness (.931) exceeded the square roots of their AVEs, so the 79.8% explained variance is a property of the trimmed model.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[technology-acceptance-model]]
-- [[teacher-role]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[educational-development]]
-
-## Connected Articles
-
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] - TAM-based meta-analysis of AI adoption in higher education
-- [[tam-critical-use-genai-engineering-2026]] - Technology acceptance model applied to critical GenAI use
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] - Teacher and student views on control and agency in AI classrooms
-- [[guarded-adoption-genai-higher-education-2026]] - Cautious, risk-aware adoption of GenAI in higher education
-- [[teacher-ai-adoption-confidence]] - Teacher confidence as a driver of AI adoption
-
 ## Citation
 
 Dai, H. M., Ni, K., Meng, H., Ju, B., Crawford, J., & Teo, T. (2026). [*GenAI as a frenemy in teaching: Perceived autonomy and risks*](https://doi.org/10.14742/ajet.11301). *Australasian Journal of Educational Technology*, 42(3), 157-179.

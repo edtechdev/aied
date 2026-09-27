@@ -17,7 +17,6 @@ technology: [generative-ai, llm]
 methods: [quantitative-research]
 institutions: [educational-policy-ai, regulation]
 ethics: [ai-use-disclosure, differential-effects-across-learner-groups]
-connected_faqs: [should-we-use-ai-detectors]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -58,33 +57,6 @@ The penalty is hard to attribute to enforcement, since nobody screened the essay
 - AI use is inferred from commercial detectors (GPTZero 3.9 primary, Pangram 3.1 for replication), and only essays likely primarily AI-written count as flagged, so prevalence is measured conservatively.
 - The essay-quality composite correlates 70% with admissions staff ratings and may miss dimensions that matter in selection.
 - The estimates rest on double machine learning over roughly 400 covariates and cannot exclude unmeasured confounding; 2025 outcomes were omitted because the program overhauled admissions after seeing preliminary results.
-
-## Connected Concepts
-- [[ai-detection]]
-- [[generative-ai]]
-- [[academic-integrity]]
-- [[evaluative-judgment]]
-- [[assessment-validity]]
-- [[automated-essay-scoring]]
-- [[writing-education]]
-- [[higher-ed]]
-- [[differential-effects-across-learner-groups]]
-- [[ai-use-disclosure]]
-- [[llm]]
-- [[quantitative-research]]
-- [[educational-policy-ai]]
-- [[regulation]]
-
-## Connected Articles
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Who wrote this? Evaluating the reliability of AI detection tools in higher education
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Detecting the Undetectable? Reassessing Academic Misconduct Procedures in the Era of Generative AI
-- [[bassett-ai-detectors-education-2026]] — Heads We Win, Tails You Lose: AI Detectors in Education
-- [[munoz-misconduct-allegation-evidence-2026]] — How strong is the evidence in generative AI-related academic misconduct allegations? A mixed-methods analysis
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The Hidden Cost of Disclosure: A Multi-institutional Study on Undergraduate Students' Generative AI Usage and Faculty Accusations
-- [[ai-writing-support-stage-ownership-2026]] — From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk? Assessment validity reasoning and generative AI
-- [[academic-erasure-complexity-ai-writing-2026]] — Academic Erasure: The Disappearance of Complexity Under AI-Supported Writing
 
 ## Citation
 Isley, C., Gaebler, J. D., & Goel, S. (2026). [AI-written admissions essays are widespread but penalized](https://arxiv.org/abs/2609.22549). arXiv:2609.22549.

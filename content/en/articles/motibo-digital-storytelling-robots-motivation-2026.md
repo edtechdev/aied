@@ -27,21 +27,8 @@ This is a **quasi-experimental study**. The [[research-methods-aied|researchers]
 - **Instructors.** Use the robot as a communication bridge for reticent learners: one student reluctant to speak to the instructor readily answered the robot's questions.
 - **Designers.** Build in instant feedback and motivational praise animations and keep the robot's gestures human-like, since these were the features students named when explaining their preference.
 
-
 ## Limitations
 The study is quasi-experimental (non-random assignment) with a five-day learning period, limiting causal inference and insight into long-term effects. The specific sample and student population are not detailed in the abstract. Findings focus on engagement measures, and the relationship to deeper [[learning-gains|learning outcomes]] and creativity requires further investigation.
-## Connected Concepts
-- [[educational-robotics]]
-- [[motivation]]
-- [[self-determination-theory]]
-- [[student-engagement]]
-- [[storytelling-in-education]]
-
-## Connected Articles
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM-Powered Narrative HRI
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy: LLM-Powered Social Robots
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind: Robot-Mediated Role-Play
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 ## Citation
 
 Fung, K. Y., & Lui, T. L. R. (2026). [*MotiBo: The impact of interactive digital storytelling robots on student motivation through self-determination theory*](https://arxiv.org/abs/2601.01218).

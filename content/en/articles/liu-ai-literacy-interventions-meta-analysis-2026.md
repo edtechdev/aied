@@ -49,28 +49,6 @@ The paper's central argument is that AI literacy education should move beyond kn
 - Study quality was not incorporated into the weighting, even though the pool combined (quasi-)experimental designs of varying internal validity.
 - Residual heterogeneity was left unmodeled: intervention duration, study design, and disciplinary background were not tested as moderators, and eight effect sizes were dropped as outliers.
 
-## Connected Concepts
-
-- [[ai-literacy]] — the target of the interventions
-- [[ai-ed-evaluation]] — meta-analytic evaluation of AI literacy outcomes
-- [[pedagogy]] — the instructional approaches examined
-- [[assessment]] — the performance-task outcomes
-- [[generative-ai]] — the GenAI-supported tools
-- [[higher-ed]] — a common intervention setting
-- [[k-12]] — a common intervention setting
-- [[project-based-learning]] — an integrated pedagogy found effective
-- [[problem-based-learning]] — an authentic real-world pedagogy common in the reviewed studies
-- [[inquiry-based-learning]] — an inquiry-driven pedagogy aligning with constructive learning
-- [[experiential-learning]] — a hands-on learning-by-doing approach supporting conceptual growth
-
-## Connected Articles
-
-- [[xiong-ai-educational-measurement-review-2026]] — companion on AI in educational measurement
-- [[panciroli-ai-literacy-episodes-situated-learning]] — AI literacy in situated learning
-- [[hingle-collaborative-ai-literacy-2025]] — collaborative AI literacy
-- [[tracing-genai-literacy-interaction-patterns]] — GenAI literacy interaction patterns
-- [[sec-ai-literacy-narrative-review-2026]] — narrative review of AI literacy
-
 ## Citation
 
 Liu, S., Lin, Z., Ng, O. L., Yang, Y., & Dai, Y. (2026). [*AI literacy interventions in education: A meta-analysis of effects and moderators*](https://doi.org/10.1016/j.edurev.2026.100813). Educational Research Review, 52,100813.

@@ -5,7 +5,6 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/preschool-teachers-ai-behavioral-intention-2026.md"]
 pedagogy: [anxiety-and-stress, self-efficacy]
-connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 research_method: [survey, structural equation modeling]
 audience: [administrators, faculty developers, instructional designers]
@@ -36,19 +35,6 @@ technology: [technology-acceptance-model]
 - The 270 valid responses (33 questionnaires excluded) came from a single online survey run in September and October 2025, mostly in the relatively developed regions of Shanghai, Zhejiang, and Guangdong.
 - The sample is heavily female (250 women, 93%; 20 men, 7%) and 81.9% (n = 221) already had experience with AI, so gender and education could not be modeled as moderators.
 - All six constructs — perceived usefulness, ease of use, subjective norm, AI anxiety, AI self-efficacy, and behavioral intention — were self-reported Likert items, leaving the relationships open to common-method effects.
-## Connected Concepts
-
-- [[technology-acceptance-model]]
-- [[early-childhood-elementary-ai-education]]
-- [[teacher-ai-competency]]
-
-## Connected Articles
-
-- [[ai-play-framework-early-childhood-2026]] — an AI play framework for early childhood
-- [[tsingidou-ct-robotics-kindergarten-2026]] — computational thinking and robotics in kindergarten
-- [[tpack-genai-inservice-teachers-mediation-2026]] — TPACK-GenAI and teacher integration (Mohebi & ElSayary 2026)
-- [[preservice-teachers-responsible-genai-2026]] — pre-service teacher preparation for responsible GenAI use (Kohnke et al. 2026)
-
 ## Citation
 
 [Exploring factors influencing preschool teachers' behavioral intention to use AI technologies in early childhood settings](https://www.sciencedirect.com/science/article/pii/S2666920X26000287) — Duan, Z., Shan, Y., & Gong, Y. (2026). *Computers and Education: Artificial Intelligence*, 10, 100589.

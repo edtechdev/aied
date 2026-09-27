@@ -73,30 +73,6 @@ The paper adds two under-discussed requirements to that workflow. The first is t
 - The comparison used individual observation cycles rather than the four-to-seven-cycle classroom averages CLASS prescribes, because the aim was rater-versus-AI consistency rather than an estimate of teacher quality.
 - Negative Climate hit a human ceiling — raters gave the maximum score of 7 in 63 of 71 observations while AI scores clustered at 6 — so that dimension's statistics rest on almost no human variance.
 
-## Connected Concepts
-
-- [[educational-measurement]] — AI–human agreement compared domain by domain on a validated observation instrument
-- [[automated-assessment]] — LLM as a rater of classroom quality rather than student work
-- [[assessment-validity]] — convergence is conditional on construct; agreement is not validity
-- [[early-childhood-elementary-ai-education]] — the first CLASS Pre-K benchmarking of AI observation, in Hong Kong kindergartens
-- [[human-in-the-loop-ai]] — AI as first-pass screening with raters retaining interpretive authority
-- [[llm]] — a single prompt-engineered GPT-5.0 model, transcript-only input
-- [[ai-ed-evaluation]] — validation-before-scale as the study's implicit standard
-- [[multimodal]] — the missing nonverbal, spatial and tonal evidence that transcripts cannot carry
-- [[teacher-role]] — observation output reframed as reflective evidence rather than evaluation
-
-## Connected Articles
-
-- [[melo-llm-classroom-observation-teach-2026]] — Validating AI-generated classroom observations: Reliability, accuracy, and limits of LLM-based pedagogical judgment
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[gpt-human-rater-essay-assessment-2026]] — Comparing GPT and human raters in essay assessment: Variability, bias, and the potential of LLM-based scoring
-- [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
-- [[cvengros-grading-handwritten-chemistry-ai-2026]] — Assisting the grading of a handwritten general chemistry exam with artificial intelligence
-- [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors
-- [[ai-grading-handwritten-physics-2026]] — Large Scale AI Grading of Handwritten Physics Assessments: Score Agreement and Olympiad Team Selection Outcomes
-
 ## Citation
 
 Fong, Y., Xiang, J., Chan, T.-Y. D., Lee, K., & Lau, E. Y. H. (2026). [*I code or AI code: A comparative evaluation of AI-rated scores in classroom observations*](https://arxiv.org/abs/2609.18274). arXiv preprint arXiv:2609.18274.

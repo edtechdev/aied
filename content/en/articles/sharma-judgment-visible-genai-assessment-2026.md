@@ -13,7 +13,6 @@ ethics: [ai-use-disclosure, equity-in-ai-education, trust]
 research_method: [position paper, theoretical analysis]
 level: [higher ed]
 audience: [assessment designers, instructors, administrators, learners]
-connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 page_kind: [framework]
 sources: ['raw/papers/sharma-judgment-visible-genai-assessment-2026.md']
 confidence: medium
@@ -64,34 +63,6 @@ The equity argument is load-bearing. Learners engage generative tools from unequ
 - **A single supportive setting.** Reflective engagement in one higher education context enables grounded insight but introduces possible confirmation bias and contextual limitation, and the practices may not transfer to differently resourced or less supportive environments.
 - **Interpretive reliability is unresolved.** Judgment is situated and its articulation varies across learners, so designs requiring justification depend on educators' capacity to interpret reasoning consistently — an open question of evaluative coherence the paper refers to future research.
 - **Visible judgment is not assured ethical practice.** The practices may become performative, with learners aligning discourse to expectations without internalizing commitments; making judgment visible creates conditions for ethical dialogue without guaranteeing it.
-
-## Connected Concepts
-
-- [[academic-integrity]] — The paper's subject: integrity reframed as pedagogical practice rather than compliance
-- [[evaluative-judgment]] — The construct the argument installs as the evaluative locus of integrity
-- [[assessment]] — Positioned as the integrity apparatus through which judgment becomes visible
-- [[assessment-validity]] — The design goal served by paired verification tasks
-- [[authentic-assessment]] — The adjacent movement the paper distinguishes its designs from
-- [[ai-detection]] — Recalibrated from primary infrastructure to one layer of governance
-- [[ai-use-disclosure]] — What annotated decision trails ask learners to articulate
-- [[generative-ai]] — The technology whose outputs and errors become objects of verification responsibility
-- [[metacognition]] — Distinguished from judgment in the paper's conceptual work
-- [[self-regulated-learning]] — Formative assessment and criteria transparency as the mechanism behind verification practices
-- [[trust]] — What surveillance-oriented regimes erode
-- [[equity-in-ai-education]] — Detection-based inference penalizes learners who use GenAI for linguistic or cognitive support
-- [[governance]] — Institutional policy reoriented from enforcement toward assessment architecture
-- [[higher-ed]] — The sector the argument addresses
-
-## Connected Articles
-
-- [[walton-bearman-assessment-judgment-2025]] — The study of students' judgment in GenAI assessment tasks that underpins Sharma's argument
-- [[roe-assessment-twins-2026]] — Paired-task designs that verify learning outcomes in AI-vulnerable summative assessment
-- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — Evidence that authentic assessment alone does not safeguard integrity
-- [[ivory-psychology-assessment-integrity-2026]] — Program-level evidence that the pass boundary and detection fail in different ways
-- [[beyond-detection-authentic-assessment-ai-2025]] — A design-side companion argument for moving past detection
-- [[genai-assessment-governance]] — Treating GenAI as a design variable in assessment governance
-- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — Students' own ethical reasoning about AI use as the object of integrity work
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — What disclosure practices look like when the burden falls on learners
 
 ## Citation
 

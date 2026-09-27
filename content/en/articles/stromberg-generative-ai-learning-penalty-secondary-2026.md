@@ -8,7 +8,6 @@ pedagogy: [active-learning]
 technology: [generative-ai]
 assessment: [assessment, learning-gains]
 ethics: [equity-in-ai-education]
-connected_faqs: [ai-guidance-children-under-13]
 research_method: [quasi-experiment, secondary analysis]
 level: [k 12]
 sources: ['raw/papers/stromberg-generative-ai-learning-penalty-secondary-2026.md']
@@ -44,24 +43,6 @@ This study is central to the knowledge base's understanding of [[reducing-ai-mis
 
 ## Limitations
 This is a working paper (SSRN preprint) and not yet peer-reviewed. The difference-in-differences design relies on observational AI-adoption patterns rather than randomization. The setting is Chinese secondary education, which may not generalize to other contexts. The "homework outsourcing" classification is behaviorally inferred from homework time/scores rather than directly observed tool use. Standard-deviation effect sizes appear large in part because averaging across subjects compresses the outcome SD.
-
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[reducing-ai-misuse]]
-- [[generative-ai]]
-- [[learning-gains]]
-- [[assessment]]
-- [[k-12]]
-- [[rct]]
-- [[equity-in-ai-education]]
-- [[ai-ed-evaluation]]
-- [[educational-policy-ai]]
-- [[parents-and-families]]
-## Connected Articles
-
-- [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity review
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Oral exams as authentic AI-resistant assessment
 
 ## Citation
 

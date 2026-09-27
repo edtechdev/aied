@@ -52,19 +52,6 @@ Validation ran for one year at the Institute of Technology and Leadership in Sã
 - Generative models showed behavioral drift after provider updates and needed prompt recalibration, and minor LaTeX syntactic anomalies recurred despite the absence of conceptual hallucinations.
 - Material quality ratings of 8.5–9.9/10 came from over 600 voluntary student evaluations, a self-selected sample rather than a controlled comparison.
 
-## Connected Concepts
-- [[learning-design]]
-- [[stem-education]]
-- [[curriculum-design]]
-- [[active-learning]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[bridging-instructional-design-framework-math]]
-- [[courseblueprint-adaptive-video-generation]]
-- [[didactical-teacher-assistant-dimensional-modeling]]
-
 ## Citation
 
 Paiva, H. M. (2026). [*Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education*](https://arxiv.org/abs/2608.07364).

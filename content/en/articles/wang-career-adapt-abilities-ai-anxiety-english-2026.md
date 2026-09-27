@@ -46,23 +46,6 @@ Wang (2026) connects the knowledge base's [[anxiety-and-stress]] and career-read
 - All three constructs were self-reported, risking social desirability bias and shared method variance; Harman's single-factor test was the only check, and the authors recommend marker-variable or multi-trait multi-method designs.
 - 444 English majors from four universities in Sichuan: the authors note eastern coastal regions with more developed language-services industries and more visible AI adoption may yield different profiles, and the study did not examine the antecedents of career adapt-abilities.
 
-## Connected Concepts
-
-- [[anxiety-and-stress]]
-- [[self-efficacy]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[well-being]]
-- [[motivation]]
-- [[professional-training]]
-
-## Connected Articles
-
-- [[kim-ai-anxiety-comprehensive-analysis]] — comprehensive review of AI anxiety and its interventions
-- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
-- [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive signal
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — workforce readiness in manufacturing
-
 ## Citation
 
 Wang, X. (2026). [*The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered*](https://doi.org/10.3389/fpsyg.2026.1767791). *Frontiers in Psychology*, 17, 1767791.

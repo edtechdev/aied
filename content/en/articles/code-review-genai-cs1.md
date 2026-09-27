@@ -62,22 +62,6 @@ The results were consistent across methods. Pairwise t-tests showed no statistic
 - Keystroke logs cannot identify AI use: pastes from outside the IDE are excluded to protect student privacy, so the authors cannot infer that all pasted text was AI-generated, and their analysis does not connect types of AI usage to performance on particular questions.
 - Student sentiment is self-reported: 90% reported the reviews motivated them to understand their code better and 65% that reviews helped them avoid over-reliance on AI tools, but these are survey responses paired only with exam scores, not an independent measure of understanding.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[oral-assessment]] — Oral Assessment
-- [[ai-literacy]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[formative-assessment]]
-- [[teacher-role]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[assessment]]
-- [[higher-ed]]
-## Connected Articles
-
-- [[stanford-evidence-base-ai-k12-2026]]
 ## Citation
 
 Peter Fowles, Erik Falor, Sulove Bhattarai, John Edwards, Seth Poulsen (2026). [Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom](https://arxiv.org/abs/2605.21374). .

@@ -45,27 +45,6 @@ Stenalt (2026) shifts focus from students and tools to **teachers' conceptions**
 - Conceptions and approaches are interpreted as situated responses to context, and the authors state the analysis does not provide in-depth insight into teachers' agentic will and power — the study maps variation, not its causes.
 - No longitudinal component: the authors call for further investigation of how the identified positions develop and whether they remain robust over time.
 
-## Connected Concepts
-
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[pedagogy]]
-- [[qualitative-research]]
-- [[learning-theories]]
-- [[teacher-education]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[ai-pedagogical-orientation]] — Faculty orientations shape AI adoption
-- [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
-- [[teachers-reflective-regulators-cognition-offloading]] — teachers as reflective regulators
-- [[enright-staff-perspectives-genai-2026]] — staff perspectives on GenAI
-- [[crompton-faculty-technology-integration-standards-2026]] — faculty technology-integration standards
-
 ## Citation
 
 Stenalt, M. H. (2026). [*Understanding what good education is: a phenomenographic investigation of university teachers' understandings of AI*](https://doi.org/10.1080/13562517.2026.2722337). *Teaching in Higher Education*.

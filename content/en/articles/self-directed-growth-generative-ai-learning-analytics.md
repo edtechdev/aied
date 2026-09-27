@@ -38,28 +38,6 @@ page_kind: [framework]
 - Human–AI psychological dynamics remain under-theorized — perceived AI authority, externalization of judgment, and erosion of internal self-regulation are named as open questions rather than addressed.
 - Self-Directed Growth still lacks clear operational definitions distinguishing iterative self-directed cycles from long-term aspirational trajectories, and the framework draws only on humanistic, constructivist, and pragmatic traditions, omitting critical theories of power, access, and technological determinism.
 
-## Connected Concepts
-
-- [[self-directed-learning]]
-- [[self-assessment]]
-- [[self-regulated-learning]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[agency]]
-- [[generative-ai]]
-- [[learning-theories]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[lifelong-learning]]
-
-## Connected Articles
-
-- [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolding self-regulated feedback with GenAI vs. human peers
-- [[jin-genai-learning-analytics-feedback-literacy]] — Students' perceptions of GenAI-powered learning analytics in feedback
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing
-- [[aied-unfinished-mission-bypass]] — AIED's unfinished mission: centering agency and motivation
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates ChatGPT acceptance and self-regulated learning
-
 ## Citation
 
 Mao, Q. (2025). [*Fostering Self-Directed Growth with Generative AI: Toward a New Learning Analytics Framework*](https://arxiv.org/abs/2504.20851). [cs.CY].

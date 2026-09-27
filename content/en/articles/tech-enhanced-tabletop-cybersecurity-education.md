@@ -42,26 +42,6 @@ A cybersecurity tabletop exercise is a conversation between participants respons
 - The study is a system development and case study paper: feedback came from post-exercise questionnaires and instructor observations, with no comparison against paper-based tabletop exercises and no measured learning outcome.
 - The courses span many local contexts, including one course run over two years, a summer school, and a remote two-country exercise, so the 24 lessons learned are practitioner experience rather than a controlled comparison.
 - The digital format changes the comparison standard, since trainees judge a digital exercise against polished applications rather than against other tabletop exercises.
-## Connected Concepts
-
-- [[cs-education]]
-- [[active-learning]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[professional-training]]
-- [[curriculum-design]]
-- [[experiential-learning]]
-- [[simulation]]
-
-## Connected Articles
-
-- [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
-- [[forap-pjbl-computing-education]] — Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio
-- [[visual-query-tracer-declarative-logic-learning]] — Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming
-- [[q-learning-lab-rl-teaching]] — Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis
-- [[llm-design-problems-hot-pjbl]] — LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
-
 ## Citation
 
 Jan Vykopal, Pavel Čeleda, Martin Horák, Valdemar Švábenský (2026). [Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned](https://arxiv.org/abs/2607.28179).

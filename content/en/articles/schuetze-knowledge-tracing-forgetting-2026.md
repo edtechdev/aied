@@ -38,24 +38,6 @@ page_kind: [evaluation, framework]
 - Trial counts varied by dropout and by how many trials each participant needed to reach criterion (average 562, minimum 187, maximum 1,195), which makes practice-opportunity count correlate with item difficulty.
 - Session 1 was excluded from the multi-session training runs because it contained additional manipulations that produced even worse model fits, so the extrapolation evidence starts from the relearning sessions alone.
 
-## Connected Concepts
-
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[cognitive-psychology]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-
-## Connected Articles
-
-- [[stanbkt-bayesian-knowledge-tracing]] — Bayesian Knowledge Tracing variants
-- [[skill-acquisition-without-temporal-info]] — Modeling learner skill when temporal data is missing
-- [[explainable-probabilistic-kt]] — Interpretable knowledge tracing
-- [[neural-symbolic-knowledge-tracing]] — Neuro-symbolic knowledge tracing
-- [[cognitive-load-transfer-knowledge-tracing-2026]] — Knowledge tracing and cognitive load
-- [[nie-personavlm-long-term-personalization-2026]] — Memory and student modeling
-
 ## Citation
 
 Schuetze, B. A., Yan, V. X., & Carvalho, P. F. (2025). [Capturing Session-to-Session Dynamics of Learning and Forgetting: Testing the Limits of Knowledge Tracing Models](https://doi.org/10.1007/s40593-025-00508-3). *International Journal of Artificial Intelligence in Education*, 35, 3559–3578.

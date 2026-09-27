@@ -47,28 +47,6 @@ Two features of the evidence base sharply limit what these estimates can justify
 - Only about two or three studies report per-student costs on a comparable basis, leaving the cost-effectiveness claim that motivates the literature almost never measured alongside the effects it is meant to justify.
 - The generative-AI studies are very recent, so their published effects may reflect early adopters, novelty, and models that have since been superseded, giving those estimates a shorter shelf life than the first-generation results against which they are compared.
 
-## Connected Concepts
-
-- [[learning-gains]] — the primary outcome domain and the review's organizing metric
-- [[adaptive-learning]] — the shared feature of all included interventions
-- [[intelligent-tutoring]] — first-generation adaptive tutors and the AI-tutoring subgroup
-- [[generative-ai]] — the second-generation tools whose differential is estimated
-- [[rct]] — the inclusion criterion and evidence hierarchy
-- [[personalized-learning]] — the personalization promise motivating the literature
-- [[cognitive-offloading]] — the "effort substitution" mechanism behind the Türkiye harm finding
-- [[reducing-ai-misuse]] — the guardrails that removed the harm without improving scores
-- [[equity-in-ai-education]] — the digital-divide and no-low-income-setting limitation
-- [[digital-divide]] — infrastructure requirements that bind in the settings with largest deficits
-- [[k-12]] — the preK–12 study population
-- [[ai-ed-evaluation]] — meta-analytic evaluation of AI education tools
-- [[educational-measurement]] — standardized effect-size aggregation and RVE methodology
-
-## Connected Articles
-
-- [[genai-educational-outcomes-meta-analysis]] — a complementary meta-analysis comparing traditional vs. AI-driven approaches
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — an experiment on virtual tutoring with computer-assisted learning
-- [[genai-meta-analysis-programming-learning]] — meta-analytic evidence on GenAI in a disciplinary context
-
 ## Citation
 
 Burneo, A., Dinarte-Diaz, L., Lopez, C., & Molina, E. (2026). [*Can EdTech close learning gaps? Global evidence from digital interventions*](https://documents.worldbank.org/). World Bank Policy Research Working Paper.

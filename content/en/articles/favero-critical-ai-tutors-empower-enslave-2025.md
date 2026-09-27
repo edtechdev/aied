@@ -39,29 +39,6 @@ This position paper occupies a critical counterpoint in the [[intelligent-tutori
 - Student evidence comes from cited surveys — 1,200 young adults aged 18–24 and an international survey of 4,000 university students across 16 countries — not from data the authors collected.
 - Constructs such as cognitive atrophy and loss of agency are not operationalized into measurable variables, so the paper cannot estimate the size or speed of the effects it warns about.
 - Because it catalogs harms rather than comparing conditions with and without AI tutors, it cannot attribute learning losses to tutor use.
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[governance]]
-- [[pedagogical-safety]]
-- [[regulation]]
-- [[student-experience]]
-- [[critical-thinking]]
-- [[agency]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
-- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning: Evidence from high school mathematics
-- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
-- [[ai-making-us-stupid]] — Is AI making us stupid?
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterizing AI Tutor Blind Spots When Analyzing Student Reasoning
-- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
-- [[ai-fatigue-academic-contexts]] — Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory
-
 ## Citation
 
 Favero, L., Pérez-Ortiz, J.-A., Käser, T., & Oliver, N. (2025). [Critical AI Tutors: Empower or Enslave?](https://arxiv.org/abs/2507.06878).

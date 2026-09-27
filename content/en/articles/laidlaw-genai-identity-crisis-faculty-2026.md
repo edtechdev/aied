@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 pedagogy: [learning-theories]
 technology: [generative-ai]
-connected_faqs: [faculty-development-ai]
 research_method: [theoretical analysis]
 audience: [faculty developers, instructors]
 level: [higher ed, adult learning]
@@ -38,26 +37,6 @@ institutions: [educational-policy-ai]
 - The article is an autoethnographic "Reflections on Practice" account from one academic developer at a single regional Australian university; it reports no participant sample, interview data, or comparison group, so it can support an interpretive reframing but not a measured effect.
 - The threshold concept framework (Meyer & Land) is applied to the author's own experience rather than tested; the argument does not establish that identity-focused development practices change faculty integration behavior.
 - Faculty anxiety and resistance enter the account through the author's narration rather than systematically collected faculty data, so the claims about liminality and non-adoption cannot be generalized to other institutions, disciplines, or national contexts.
-
-## Connected Concepts
-
-- [[educational-development]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[higher-ed]]
-- [[professional-training]]
-
-## Connected Articles
-
-- [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an intensive GenAI PD program on AI-PCK (competence-measurement counterpoint)
-- [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK teacher multi-agent workflow
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI faculty readiness framework
-- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education review
-- [[ai-assessment-scale-reform]] — The AI Assessment Scale and assessment reform
 
 ## Citation
 

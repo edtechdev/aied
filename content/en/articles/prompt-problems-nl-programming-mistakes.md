@@ -32,23 +32,6 @@ confidence: high
 - Cognitive load was not measured, leaving the alignment with cognitive load theory theoretical rather than empirical.
 - The analysis describes prompt mistakes and reported debugging strategies without an in-depth study of how students iteratively refine prompts or whether that refinement improves outcomes.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[cs-education]]
-- [[scaffolding]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[llm]]
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[misconceptions]]
-## Connected Articles
-
-- [[prompt-based-programming-lesson]]
-- [[reshaping-cs-education-genai]]
-- [[programming-its]]
-- [[voice-text-prompt-problems-computing-education]] — Text vs voice modality on Prompt Problems
 ## Citation
 
 Victor-Alexandru Padurean, Kaitlin Riegel, Gweneth Barbre, Musa Blake, Paul Denny, Adish Singla (2026). [Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks](https://arxiv.org/abs/2607.05034). [cs.CY].

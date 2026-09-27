@@ -62,21 +62,6 @@ Revision strategies were not associated with learning performance: neither score
 - The laboratory setting and a single 1-hour revision session leave the persistence of strategy adaptation unknown.
 - Support dosage was unmatched, since ChatGPT gave longer responses than the human expert, and the fragmented-processes group held only 5 students; sensitivity analyses excluding it confirmed the main findings.
 
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[help-seeking]]
-- [[generative-ai]]
-- [[writing-education]]
-- [[human-ai-collaboration]]
-## Connected Articles
-
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — frames GenAI as either a scaffold or a shortcut for self-regulated learning, the same tension this study tests with trace data.
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — treats help-seeking as a teachable SRL process rather than a resource that is simply available.
-- [[ai-writing-support-stage-ownership-2026]] — compares AI writing support at planning versus revision stages and what it does to text ownership.
-- [[human-ai-collaboration-academic-writing-2026]] — examines structured human-AI collaboration in academic writing and its effects on writing and critical thinking.
-
 ## Citation
 
 Iqbal, Sehrish; Jovanovic, Jelena; Fan, Yizhou; Raković, Mladen; Li, Xinyu; Chen, Guanliang; Gasevic, Dragan. (2026). *[Human or GenAI Support? Conditions Impacting Students' Strategy Choices in an Essay Revision Task](https://doi.org/10.1002/jcal.70300)*. Journal of Computer Assisted Learning, 42, e70300. https://doi.org/10.1002/jcal.70300

@@ -41,23 +41,5 @@ methods: [meta-analysis-systematic-review]
 - No formal quality scoring was applied: all 23 studies met a peer-review threshold by venue, but studies were not excluded on rigor, and quality and limitations were weighed only narratively.
 - Only three included studies reported structured PD, so the review's scale-up recommendations are partly extrapolated from three cases plus general teacher education principles; student learning outcomes were also scarce, leaving the analysis reliant on teacher self-reports and logic rather than outcome data.
 
-## Connected Concepts
-- [[generative-ai]]
-- [[language-learning]]
-- [[teacher-role]]
-- [[teacher-education]]
-- [[professional-training]]
-- [[english-education]]
-- [[teacher-ai-competency]]
-- [[meta-analysis-systematic-review]]
-
-## Connected Articles
-- [[teacher-education-ai-literacy-sdt-2026]]
-- [[preservice-teachers-responsible-genai-2026]]
-- [[preservice-teacher-agency-genai-design-learning-2026]]
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]]
-- [[genai-meta-analysis-programming-learning]]
-
 ## Citation
 Li, B., Exter, M., Feng, W., Tang, G., & Xu, K. (2026). [A systematic review of language educators' practices and development with GenAI](https://doi.org/10.1016/j.ijaied.2026.100010). *International Journal of Artificial Intelligence in Education*, 36, 100010.

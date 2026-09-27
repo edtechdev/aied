@@ -53,27 +53,6 @@ methods: [rct]
 - No background information was collected on the human tutors, and District B's tutors were middle school students, so the intervention's active ingredient is not characterized.
 - The achievement estimates are null and negative in sign in both districts, and the authors caution that even the highest-usage subgroup figure (18.3 minutes per week) should be read cautiously given the small sample size.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[k-12]]
-- [[student-experience]]
-- [[intelligent-tutoring]]
-- [[rct]]
-- [[student-engagement]]
-- [[equity-in-ai-education]]
-- [[learning-gains]]
-## Connected Articles
-
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[learner-ai-interaction-patterns-oop]] — Patterns of learner-AI interaction and academic performance
-- [[adaptive-pretesting-retention]] — Do GenAI-enabled adaptive pretesting gains persist?
-- [[ai-assessment-human-tutors]] — AI-driven assessment of human tutors
-- [[ai-coaching-rl-skill-development]] — AI coaching for accelerating human skill development
-- [[ai-availability-student-motivation]] — How AI availability shapes student motivation in programming
-- [[hybrid-human-ai-tutoring-differentiated]] — Differentiating human tutor roles in hybrid human-AI tutoring
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-
 ## Citation
 
 Robinson, C. D., Gormley, D., Trindade Ribeiro, A., & Loeb, S. (2026). [Access is Not Enough: Human Support Improves Engagement with AI Tutoring. EdWorkingPaper No. 26-1451, Annenberg Institute at Brown University. DOI](https://doi.org/10.26300/pz7p-p388)

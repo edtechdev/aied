@@ -53,27 +53,6 @@ The work is a [[theory-development-aied|theory-building]] contribution, offering
 - Interaction was confined to a single short session embedded in one regular mathematics lesson, with pre- and post-test items drawn from the IQB VERA pool; the authors call for longitudinal replication of these [[student-ai-interaction]] findings.
 - Coding reliability was uneven, with only moderate agreement on some dimensions, especially the mathematical-modeling steps — the dimension that carried one of the two significant temporal predictors.
 
-## Connected Concepts
-
-- [[math-education]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[stem-education]]
-- [[k-12]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[help-seeking]]
-- [[learning-analytics]]
-- [[student-ai-interaction]]
-- [[theory-development-aied]]
-
-## Connected Articles
-
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: affective math tutoring
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — AI-powered personalized learning in elementary fractions
-
 ## Citation
 
 Abdelghani, R., Kaiser, P., & Murayama, K. (2026). [From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning](https://arxiv.org/abs/2606.28472). (cs.CY).

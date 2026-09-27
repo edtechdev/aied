@@ -41,22 +41,6 @@ institutions: [change-management]
 - The 378 respondents come from a single engineering university in Bangladesh (IUT), recruited through purposive then convenience sampling, so the findings are contextually situated rather than universally generalizable; cross-institutional and cross-disciplinary replication is required.
 - The model omits salient constructs such as trust, ethical perception, and anxiety, and did not measure digital literacy, year of study, or enrollment type; heterogeneity was tested through multi-group analysis rather than continuous moderation.
 
-## Connected Concepts
-
-- [[technology-acceptance-model]]
-- [[generative-ai]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[global-south]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
-- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-
 ## Citation
 
 Asag, M. A., & Al Mamun, M. A. (2026). [Social and cognitive drivers of generative AI adoption: A unified socio-cognitive model for engineering education](https://doi.org/10.1016/j.caeai.2026.100614). Computers and Education: Artificial Intelligence, 10, 100614.

@@ -67,33 +67,6 @@ The [[agency|student agency]] story has two layers. One is the ownership student
 - The dose is small — 30-minute sessions, conversations typically four exchanges long, and in the survey sample a single encounter — so the authors note that personalization interventions are usually too brief to reliably build durable interest, and that stable perceptions may need sustained engagement.
 - The deployment results come from a pilot of only 71 problems across two domains, with voluntary ratings that 61% of students skipped, a response profile that could bias the thumbs-up proportion in either direction; the earlier error-rate result rests on a small preliminary pilot reported elsewhere.
 - The tool is model-dependent — reported sessions used OpenAI's GPT-4o or GPT-4.1, with o3-mini selecting among candidate problems, and AMPT's panel supports most OpenAI and Anthropic models — so behavior, verbosity, bias and problem quality will vary with the model in use and with ongoing prompt revisions; the authors also leave a scaling tension unresolved, since the features that make a problem meaningful to its author (an unfamiliar local dish, a low-frequency word, a teacher's name) can make it useless or harder to read for the students who later meet it.
-## Connected Concepts
-
-- [[personalized-learning]] — the design goal, pursued here by individualizing the story context rather than the task sequence
-- [[agency]] — student control over topic, characters, names and revisions, the paper's central explanatory construct
-- [[generative-ai]] — the technology that makes interest-matched problem generation feasible at scale
-- [[llm]] — the writing, clarifying and selecting agents behind candidate problems
-- [[conversational-ai]] — the chat interface through which AMPT elicits interests
-- [[motivation]] — situational interest theory and utility value as the motivational frame for context personalization
-- [[student-engagement]] — the outcome personalization is meant to move, measured here through liking and belonging
-- [[learner-identity]] — representation, membership and acceptance as the belonging components that shifted
-- [[math-education]] — story problems, reading demands and the discipline context of the study
-- [[intelligent-tutoring]] — MATHia as the deployment vehicle and the source of large-scale rating and error data
-- [[culturally-relevant-pedagogy]] — the representation gap students reported and the equity rationale for AMPT
-- [[problem-solving]] — the dual linguistic and numerical processing demands of math story problems
-
-## Connected Articles
-
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — AI-driven personalization of fractions learning and its relationship to interest in younger students
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem-posing ability in primary science
-- [[genai-assisted-problem-posing-physics-2026]] — student perceptions of generative AI-assisted problem posing in physics
-- [[ai-modeling-problem-generation-platform-2026]] — a platform approach to generating modeling problems with AI
-- [[generative-ai-reduced-study-time-math]] — how GenAI changes the time and learning on math problems
-- [[adaptive-scaffolding-cognitive-engagement-its]] — scaffolding cognitive engagement inside an intelligent tutoring system
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — design principles for LLM tutoring in primary mathematics
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — diagnostic modeling for personalized learning paths
-- [[access-not-enough-ai-tutoring-2026]] — engagement with AI tutoring and the role of human support
-
 ## Citation
 
 Norberg, K., Murphy, A., & Ritter, S. (2026). AMPT: A tool for personalizing math learning with generative AI. In [*GenAI in novel educational applications*](https://osf.io/preprints/psyarxiv/f4mzp_v1). Preprint; the peer-reviewed version is forthcoming.

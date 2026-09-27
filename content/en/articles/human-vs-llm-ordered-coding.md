@@ -46,28 +46,6 @@ The researchers treat coding quality not as a single accuracy number but along m
 - **A fixed context window, untested.** The window was set at up to five preceding messages, with no systematic sensitivity analysis of its size.
 - **Human coding treated as ground truth.** Qualitative coding is inherently interpretive, and in ordered coding disagreement can stem not only from whether a code is present but from how the text is segmented into codes.
 
-
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[self-regulated-learning]]
-- [[educational-nlp]]
-- [[automated-essay-scoring]]
-- [[learning-analytics]]
-- [[human-in-the-loop-ai]]
-- [[feedback]]
-- [[collaborative-learning]]
-- [[research-methods-aied]]
-
-## Connected Articles
-
-- [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
-- [[socratic-tests-conversational-assessment]] — The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations
-- [[cong-confidence-asag-2026]] — Automatic Short Answer Grading with LLMs
-- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
-- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
-
 ## Citation
 
 Misiejuk, K., López-Pernas, S., Oliveira, E. A., Eagan, B., & Saqr, M. (2026). [*Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis*](https://doi.org/10.1016/j.caeai.2026.100649).

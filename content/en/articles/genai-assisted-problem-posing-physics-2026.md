@@ -55,27 +55,6 @@ The findings lay a foundation for broader [[prompt-engineering]] training and fo
 - **Recruitment.** The online modality and small course size limited recruitment, and students self-selected into the extra-credit assignment (N = 49 reflections), which may have skewed views toward the agreeable while excluding GenAI opponents.
 - **Measurement.** Reliance on written reflection responses rather than interviews may have contributed to moderate inter-rater agreement (Cohen's Kappa around 0.50–0.53), which is nonetheless in the acceptable range for this kind of [[qualitative-research]].
 
-## Connected Concepts
-
-- [[physics-education]]
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[transfer-of-learning]]
-- [[active-learning]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[motivation]]
-- [[scaffolding]]
-
-## Connected Articles
-
-- [[probing-ai-generated-physics-solutions-2026]]
-- [[becker-chatgpt-typology-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[genai-ar-physics-simulation-prompt-2026]]
-- [[physics-chatbot-epistemological-beliefs-2026]]
-- [[ai-generated-smartphone-circular-motion-lab-2026]]
-
 ## Citation
 
 Dawson, L., & Rebello, N. S. (2026). [*Exploring students' perceptions of using generative AI-assisted problem posing*](https://arxiv.org/abs/2608.12523).

@@ -32,28 +32,7 @@ This is a **scoping review** following the **PRISMA-ScR** guidelines. The author
 - **Administrators.** Budget for the full cost of ownership — hardware, programming, and technical support — and expect short, project-based deployments rather than curriculum-wide integration.
 - **Researchers.** Design longitudinal studies in mainstream classrooms comparing Pepper with tablets, virtual agents, and hands-on materials, given that no large-scale longitudinal study was identified and 61.5% of samples had fewer than 50 participants.
 
-
 ## Limitations
 As a scoping review, its aim was to map available evidence rather than assess quality or synthesize effect sizes; it does not provide a quantitative meta-analysis. Only 13 empirical studies met inclusion criteria, reflecting the field's early stage, and the review notes the predominance of small-sample, short-duration qualitative studies with limited longitudinal follow-up. The search was restricted to English and Spanish publications, and the novelty effect of the robot may influence reported outcomes.
-## Connected Concepts
-- [[educational-robotics]]
-- [[teacher-role]]
-- [[k-12]]
-- [[higher-ed]]
-- [[special-education]]
-- [[equity-in-ai-education]]
-- [[motivation]]
-- [[student-engagement]]
-- [[embodied-learning]]
-- [[research-methods-aied]]
-
-## Connected Articles
-- [[pepper-robot-sign-language-lis-2025]] — Using the Pepper Robot to Support Sign Language Communication
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[social-robot-study-companions]] — Social Robots as Study Companions
-- [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
-- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
 ## Citation
 Martinez-Roig, R., Aragonés-González, M., & Cazorla, M. (2026). [*Exploring the implementation of the Pepper social robot in formal education: A scoping review*](https://doi.org/10.1007/s44322-026-00072-1). *Journal of New Approaches in Educational Research*, 15, 22.

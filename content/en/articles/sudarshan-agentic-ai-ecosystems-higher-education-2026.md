@@ -57,21 +57,6 @@ Inclusive and equitable learning are treated here as a design problem, not an ad
 - **The synthesis rests on the studies it reviews.** The coding covers the studies in the paper's own tables, so the reported distribution reflects that selected corpus, and many cited systems remain prototypes.
 - **Implementation questions stay open.** Interoperability, scalability, pedagogical over-reliance, bias, privacy, and human oversight are unresolved challenges rather than solved problems.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[inclusive-learning]]
-- [[accessibility]]
-- [[neurodiversity]]
-- [[intelligent-tutoring]]
-
-## Connected Articles
-
-- [[kostopoulos-agentic-ai-education-2025]] : Agentic AI in Education: State of the Art and Future Directions
-- [[baradziej-agentic-ai-higher-education-2026]] : Systematic review of agentic AI roles in higher education
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] : Assistive technologies for neurodivergent students in higher education
-
 ## Citation
 
 Vidya K Sudarshan, Anushka Sisodia, Reshma A Ramachandra, Sia Batra, Josephine Chong Leng Leng (2026). [*Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence*](https://arxiv.org/abs/2605.14266). arXiv:2605.14266. https://doi.org/10.48550/arXiv.2605.14266

@@ -50,25 +50,6 @@ This paper contributes empirical, ecologically valid evidence on how [[generativ
 - Outcomes are perception scores and behavioral traces rather than learning gains: the authors note that whether the feedback accurately and comprehensively addressed students' targeted needs was beyond the study's scope, and that the first author reviewed every GenAI comment before delivery — a workload that was never measured.
 - The tutor knew the GenAI condition existed, which the authors concede may have prompted greater deliberation or altered usual feedback practice in unquantifiable ways.
 
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[feedback]]
-- [[generative-ai]]
-- [[ai-feedback-quality]]
-- [[online-teaching-and-learning]]
-- [[higher-ed]]
-- [[student-ai-interaction]]
-- [[metacognition]]
-- [[trust]]
-
-## Connected Articles
-
-- [[ai-generated-feedback-higher-ed]]
-- [[genai-feedback-design-multisite-experiment]]
-- [[liu-deris-ai-feedback-literacy-uptake]]
-- [[tubino-adachi-ai-automated-feedback-literacy]]
-
 ## Citation
 
 Yilmaz, M., Temur, H. B., Emmungil, L., Çelik, E., Gauthier, A., & Cukurova, M. (2026). [*Supporting self-regulated learning through generative AI feedback in online higher education: the importance of student perceptions of the source of feedback*](https://doi.org/10.1186/s41239-026-00592-y). *International Journal of Educational Technology in Higher Education*.

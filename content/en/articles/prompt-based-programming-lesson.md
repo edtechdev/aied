@@ -30,27 +30,6 @@ confidence: high
 - The performance effect was not statistically significant (B = 0.756, 95% CI [−0.020, 1.533], p = 0.056) and less than one additional problem solved on average, with the model fitted to 106 observations across 53 participants.
 - Sessions ran in both in-person and online formats (experimental: 2 in-person, 5 online; control: 2 in-person, 6 online), and only short-term pre-to-post gains were measured, so persistence and transfer of prompting skill remain untested.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[llm]]
-- [[stem-education]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[prompt-engineering]]
-- [[cs-education]]
-- [[self-efficacy]]
-- [[professional-training]]
-## Connected Articles
-
-- [[bridging-instructional-design-framework-math]]
-- [[llm-misconception-difficulty-easy-trap]]
-- [[bloom-aligned-educational-control-llms]]
-- [[youtube-frames-chatgpt-education]]
-- [[anvil-ai-educational-animations]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[voice-text-prompt-problems-computing-education]] — Modality choice in prompt construction
-
 ## Citation
 
 Keith Tran, Samiha Marwan, Thomas Price (2026). [Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers](https://arxiv.org/abs/2606.30547).

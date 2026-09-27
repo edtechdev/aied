@@ -61,21 +61,6 @@ The fuzzy-set analysis asked which combinations of conditions were sufficient fo
 - The open-ended task allowed more interpretive freedom while the rubric rewarded prompt complexity, iterative optimization, and ethical reflection, so higher scores there may partly reflect alignment between task affordances and the scoring criteria.
 - The psychological needs were self-reported after completion, leaving reverse causality possible, and the configurational results depend on the chosen calibration anchors.
 
-## Connected Concepts
-
-- [[ai-literacy]]: the competency the instruction targets
-- [[self-determination-theory]]: autonomy, competence, and relatedness
-- [[motivation]]: intrinsic motivational pathways
-- [[generative-ai]]: AIGC image generation as the authentic task
-- [[prompt-engineering]]: the focus of skills-based instruction
-- [[higher-ed]]: the undergraduate setting
-
-## Connected Articles
-
-- [[liang-ai-learning-motivation-sdt-2026]]: SDT and AI learning motivation
-- [[aigc-affordance-student-self-regulation-2026]]: Self-efficacy and motivation as AIGC mediators
-- [[liu-ai-literacy-interventions-meta-analysis-2026]]: Meta-analysis of AI literacy interventions
-
 ## Citation
 
 Yu, S., Lin, Y., & Chen, C. (2026). [*Designing for AI literacy: psychological mechanisms and self-determination*](https://doi.org/10.3389/fpsyg.2026.1937845).

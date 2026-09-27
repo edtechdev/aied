@@ -75,37 +75,6 @@ The program has already expanded from 171 schools to more than 1,000, with the s
 - The analysis uses published aggregates with no microdata, and selection is treated as a single dimension — a simplification the authors flag in a system where 81.9% of students in the most disadvantaged quarter of the economic, social and cultural status index score below level 2 in science against 42.1% in the most advantaged quarter.
 - The article does not evaluate the program: it is a secondary analysis of published figures, it makes no claim that the tutor is ineffective, and the baseline of the 171 participating schools — the one figure that would remove the need for the bound — has never been published.
 
-## Connected Concepts
-
-- [[educational-policy-ai]] — the claim-and-qualification episode as a policy-communication problem with a proposed reporting standard
-- [[assessment-validity]] — school-level instrument used to license a system-level comparison
-- [[educational-measurement]] — identifying dispersion from a mean and a proficiency share; effect-size denominators
-- [[ai-ed-evaluation]] — bounding what the evidence can support before asking whether a program works
-- [[intelligent-tutoring]] — effect-size benchmarks against which the claimed gain is measured
-- [[equity-in-ai-education]] — voluntary participation as a socio-economically structured filter
-- [[global-south]] — Latin American scaling history: access is not instruction
-- [[research-methods-aied]] — partial identification, robustness across distributional assumptions
-- [[quantitative-research]] — an explicitly numerical treatment of a policy announcement
-- [[rct]] — the phased-rollout/staggered-adoption alternative the paper recommends
-- [[learning-gains]] — the gain implied by the claim versus the documented distribution of effects
-- [[meta-analysis-systematic-review]] — the pooled effect sizes used as benchmarks
-- [[digital-divide]] — connectivity constraints that motivate a phased rollout
-- [[stakeholders]] — governments, assessment agencies and banks whose credibility carries the claim
-- [[governance]] — reporting accountability for program claims used as system evidence
-
-## Connected Articles
-
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Can EdTech Close Learning Gaps? Global Evidence from Digital Interventions
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual Tutoring with Computer-Assisted Learning: An Experiment in Take-Up and Learning
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Methodologies for Improving the Quality of AI Tutoring in K-12 Education
-- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI: Output as Evidence of Learning
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[stanford-evidence-base-ai-k12-2026]] — The Evidence Base on AI in K-12: A 2026 Review
-- [[ai-assessment-scale-reform]] — 'A bit of chaos and madness': The AI Assessment Scale and the Work of Assessment Reform
-
 ## Citation
 
 Restrepo Morales, J. A., Rodríguez Flores, E. A., Giraldo Betancur, E. A., & Zea Restrepo, F. (2026). [*How much selection would be enough? Bounding the learning claim of El Salvador's artificial intelligence tutoring pilot*](https://osf.io/6gj9u/). OSF Preprints.

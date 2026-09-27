@@ -33,23 +33,6 @@ page_kind: [evaluation]
 - Expert review covered a limited set of interaction cases (n = 44). Interrater agreement was strong (κ = 0.88), but judgments of answer improvement and pedagogical quality still involve subjectivity, and the sample size limits precision.
 - No classroom deployment with real students has been run, so the magnitude and pattern of improvement for actual learners — including revision behavior over time — remain unknown.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[socratic-method]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[rag]]
-- [[simulating-students]]
-- [[feedback]]
-- [[llm]]
-## Connected Articles
-
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[nie-personavlm-long-term-personalization-2026]]
-- [[programming-its]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 ## Citation
 
 Jain, M., Bhatt, T., Pitts, G., Pandya, A., Brusilovsky, P., Norouzi, N., Hellas, A., Leinonen, J., & Akram, B. (2026). [Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education](https://arxiv.org/abs/2605.12988). BEA 2026.

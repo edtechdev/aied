@@ -71,36 +71,6 @@ The sharpest finding is a mismatch between expert-facing and learner-facing repr
 - The learner phase used one instructor's recordings and bundled several demonstrations into a single With LLM condition, so it cannot isolate the LLM.
 - Adoption counts across the 531 prompt–action pairs indicate whether a suggestion entered the flow, not model accuracy.
 
-## Connected Concepts
-
-- [[virtual-and-augmented-reality]] — the instructor-facing immersive teaching environment
-- [[multimodal]] — fused voice, pointing, and scene-state input
-- [[human-in-the-loop-ai]] — generated actions remain proposals subject to expert approval
-- [[generative-ai]] — operational realization of under-specified instructional intent
-- [[llm]] — intent interpretation, action schema mapping, and jargon explanation
-- [[human-ai-collaboration]] — iterative prompt-refine interaction with a co-participant
-- [[learning-design|instructional design]] — design requirements derived from instructor workflows
-- [[teacher-role]] — instructor authority over what enters the lesson
-- [[intelligent-tutoring]] — LLM assistance embedded in live pedagogical delivery
-- [[simulation]] — the digital twin of a theater hall and its lighting grid
-- [[visualization]] — spatial arrows, tagging, and beam vectors as instructional representations
-- [[experiential-learning]] — hands-on lighting practice in a risk-free venue
-- [[embodied-learning]] — spatial scale, viewpoint, and physical pointing in the venue
-- [[situated-learning]] — explanation anchored in the current scene state
-- [[scaffolding]] — jargon explanations and demonstrations that hold instructional flow
-- [[arts-design-and-media-education]]
-## Connected Articles
-
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
-- [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
-- [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Cultivating Design Creativity of Vocational Students: A Model of Project-Based Learning in AI-Enabled Immersive Virtual Environments
-- [[teacher-control-ai-generation-math-visuals]] — When Should Teachers Control AI Generation for Mathematics Visuals?
-- [[genai-ar-physics-simulation-prompt-2026]] — From Prompt to Embodied Simulation: Using Generative AI to Create AR Physics Learning Tools
-- [[mllm-scientific-visualization-literacy]] — Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy
-- [[syal-multimodal-dialogue-stem-2026]] — Multimodal AI Tutoring in STEM
-- [[code-anchor-multi-view-visualization]] — Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations
-
 ## Citation
 
 Liang, D., Li, C. Y., Wei, Z., Xu, X., Xia, M., Qu, H., & Tong, W. (2026). [*LumiNote: LLM-Assisted Multimodal Instruction for VR Stage Lighting Education*](https://arxiv.org/abs/2609.17335). arXiv preprint.

@@ -70,36 +70,6 @@ Median reply time spanned 1.9 seconds (GPT-5.4 mini) to 31.0 seconds (GPT-5.5 Pr
 - **Leaderboards are not learning measures.** The teaching-quality rankings came from expert evaluations of materials and observed conversational behaviors, not from how much students learned.
 - **No solo-practice control.** Students were never assigned to work GRE practice problems alone, so the added benefit of an AI tutor over independent practice is not identified.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[learning-gains]]
-- [[rct]]
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[student-engagement]]
-- [[conversational-ai]]
-- [[higher-ed]]
-- [[educational-measurement]]
-- [[equity-in-ai-education]]
-- [[teacher-role]]
-- [[item-response-theory]]
-- [[limitations-in-aied-research]]
-
-## Connected Articles
-
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: AI Tutoring with Khanmigo in a Two-Year School Experiment
-- [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact
-- [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals
-- [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
-- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know
-
 ## Citation
 
 Northcutt, C., Hasmani, I., Feng, K., Khangi, T., Plesner, A., & Mueller, J. (2026). [*StudentBench: AI and human tutoring yield equivalent GRE learning gains*](https://arxiv.org/abs/2609.28470). arXiv preprint.

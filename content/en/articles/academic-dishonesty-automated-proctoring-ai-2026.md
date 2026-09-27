@@ -45,23 +45,6 @@ A comprehensive thematic review of proctoring systems (conventional, online, aut
 - No primary data were collected. The review synthesizes other studies, and figures such as ~37.8% of college and ~41.8% of high-school students admitting to cheating come from the cited surveys rather than any measure the authors designed or administered.
 - The authors state that AI-based proctoring systems are trained on Western behavioral norms and may not be trained on datasets from other regions, which limits the fairness claims of the systems reviewed.
 
-## Connected Concepts
-
-- [[remote-proctoring]]
-- [[academic-integrity]]
-- [[summative-assessment]]
-- [[online-teaching-and-learning]]
-- [[automated-assessment]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
-- [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity: systematic review
-
 ## Citation
 
 Malhotra, M., & Chhabra, I. (2026). [*A comprehensive review of the changing landscape of academic dishonesty in automated proctoring in the era of artificial intelligence*](https://doi.org/10.1007/s44217-026-01275-6). *Discover Education*, 5, 236.

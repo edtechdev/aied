@@ -37,19 +37,6 @@ level: [teacher education]
 - Evidence comes from one approximately 45-minute interview per participant in the 2024 autumn semester; the authors note that a small number of questions about concerns and changing teacher roles may have steered participants toward risk-oriented topics such as privacy, bias, and access.
 - All participants were from Hong Kong, so the findings reflect that context, and the design privileges pre-service teacher voices without triangulating with in-service teachers—a step the authors say would strengthen external validity.
 
-## Connected Concepts
-
-- [[teacher-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[privacy]]
-
-## Connected Articles
-
-- [[tpack-genai-inservice-teachers-mediation-2026]] — TPACK-GenAI for in-service teachers (Mohebi & ElSayary 2026)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — teacher behavioral intention to use AI (Duan et al. 2026)
-- [[pre-service-science-teachers-ai-perceptions-2026]] — pre-service science teachers' AI perceptions
-
 ## Citation
 
 [Preparing pre-service teachers for responsible generative AI use: Curriculum implications for ethics, privacy, and AI literacy](https://www.sciencedirect.com/science/article/pii/S2666920X26000858) — Kohnke, L., Zou, D., Lai, C., & Gu, M. M. (2026). *Computers and Education: Artificial Intelligence*, 10, 100617.

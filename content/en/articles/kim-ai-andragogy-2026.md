@@ -88,39 +88,6 @@ This paper is the companion to the knowledge base's [[kim-ai-productive-failure-
 - Participants reacted to eleven scenarios deliberately designed to map one-to-one onto andragogical principles, so the close fit between AI affordances and andragogy is partly a property of the instrument.
 - Ethical dimensions — data [[privacy]], [[bias-mitigation|algorithmic bias]], and [[trust]] — were not probed in the interviews, and the authors frame the three design principles as design direction rather than validated effects.
 
-## Connected Concepts
-
-- [[adult-learning]]
-- [[ai-education]]
-- [[generative-ai]]
-- [[llm]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[affective-computing]]
-- [[well-being]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[agency]]
-- [[feedback]]
-- [[conversational-ai]]
-- [[pedagogical-agent]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[prior-knowledge]]
-- [[learning-theories]]
-- [[higher-ed]]
-- [[lifelong-learning]]
-- [[self-directed-learning|autonomy]]
-- [[trust]]
-
-## Connected Articles
-
-- [[kim-ai-productive-failure-adult-2026]] — Companion study by the same authors: AI design principles for productive-failure-based adult learning
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[ai-distance-education-systematic-review-2026]] — Systematic review of AI dynamics in distance education
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Self-determination theory and learner motivation with instructor-designed AI tutors
-- [[genai-motivation-engagement-2026]] — GenAI impact on motivation and engagement via autonomy-support
-
 ## Citation
 
 Kim, J., Lin, X., Yu, S., & Detrick, R. (2026). [*Adult learners' perspectives of AI applications in supporting andragogy*](https://doi.org/10.1007/s11423-026-10621-2). *Educational Technology Research & Development*.

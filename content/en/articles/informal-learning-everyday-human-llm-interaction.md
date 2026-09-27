@@ -56,24 +56,6 @@ Conversations were analyzed at three scales — conversations, turns, and adjace
 - Engagement labels (31.9% cognitive, 4.9% constructive) are behavioral indicators, not direct evidence of retention, transfer or skill development.
 - The corpus is confined to English-language coding and writing conversations of at least four message turns, so the authors state that generality to other domains, languages, interfaces and institutional settings is untested.
 
-## Connected Concepts
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[llm]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
-- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning
-- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
-
 ## Citation
 
 Zixin Chen, Haotian Li, Ziang Xiao, Huamin Qu, et al. (2026). [Informal Learning Emerges in Everyday Human-LLM Interaction](https://arxiv.org/abs/2607.17643). .

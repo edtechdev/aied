@@ -19,7 +19,6 @@ level: [adult learning]
 
 ## Core Finding
 
-
 ## Key Findings
 
 - **Availability of AI collapses judgment suspension.** In Studies 1a–1b, participants who could seek AI advice suspended judgment far less than baseline (0.06 vs. 0.36; 0.03 vs. 0.44). The replication ruled out tool malfunction as an explanation.
@@ -46,38 +45,6 @@ Although the study is framed around general [[human-in-the-loop-ai|human judgmen
 - Participants were US-based Prolific respondents paid a £0.30 base rate and \$0.10 per correct answer in the stakes conditions; whether errors with real-world rather than monetary consequences behave the same is untested.
 - The design did not record whether participants who overrode the AI consulted other sources such as the open Internet or another model, so successful overrides cannot be attributed to reduced AI reliance rather than increased use of alternatives.
 - The incentives, though effective, were modest, and the authors state that whether larger or reputational stakes would close more of the gap to baseline remains unknown.
-
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[reducing-ai-misuse]]
-- [[ai-misuse-learning-harm]]
-- [[trust-calibration]]
-- [[trust]]
-- [[self-efficacy]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[generative-ai]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[cognitive-surrender]]
-
-## Connected Articles
-
-- [[cognitive-offloading-metacognitive-review-2026]] — Cognitive offloading and metacognition review
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training and optimal cognitive offloading
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI tools, cognitive offloading, and critical thinking
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI literacy: beyond the skills gap
-- [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe compiler, metacognition, and GenAI agency
-- [[llm-critical-thinking-teamwork-review]] — LLMs, critical thinking, and teamwork
-- [[students-llm-usage-critical-thinking]] — Students' LLM usage and critical thinking
-- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI learning
-- [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble on cognitive offloading
-- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion and AI overreliance
 
 ## Citation
 

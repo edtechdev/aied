@@ -36,18 +36,6 @@ The findings also relate to [[generative-ai]] and [[finkelstein-principled-ai-ed
 - The study measures teacher perceptions, observed workflows, and image accuracy, not downstream outcomes — the authors state they cannot determine whether the observed differences produce higher-quality instructional materials or improved student understanding.
 - Verification depended on teachers' own manual inspection, which places sustained cognitive demands on them, and the researchers had no automated correctness check to fall back on.
 
-## Connected Concepts
-
-- [[teacher-role]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[math-education]]
-- [[curriculum-design]]
-- [[human-ai-collaboration]]
-## Connected Articles
-
-- [[finkelstein-principled-ai-education-2025]]
-- [[agentic-workflows-education]]
 ## Citation
 
 Li, Z., Wang, J., & Wang, A. Y. (2026). [When should teachers control AI generation for mathematics visuals?](https://arxiv.org/abs/2605.10672). Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S 2026), Seoul, Republic of Korea.

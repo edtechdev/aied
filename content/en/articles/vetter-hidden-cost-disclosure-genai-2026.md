@@ -40,23 +40,6 @@ institutions: [educational-policy-ai]
 - All variables are self-report on sensitive, misconduct-adjacent behavior: despite anonymity assurances, some respondents may not have fully reported their GenAI use, and gift-card incentives may have encouraged fast completion.
 - The disclosure–accusation findings are observational and statistically weak (Cramer's V = .13–.22 across the reported chi-square tests), so they establish association rather than a causal effect of transparency on accusation.
 
-## Connected Concepts
-
-- [[ai-use-disclosure]]
-- [[trust]]
-- [[trust-calibration]]
-- [[academic-integrity]]
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
-
 ## Citation
 
 Vetter, M. A., Farag, I., Jiang, J., Lucia, B., & Silvestro, J. J. (2026). The hidden cost of disclosure: A multi-institutional study on undergraduate students' generative AI usage and faculty accusations. *SSRN*. [https://doi.org/10.2139/ssrn.5755762](https://doi.org/10.2139/ssrn.5755762)

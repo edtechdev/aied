@@ -53,25 +53,6 @@ Two inference families are distinguished: group queries, which describe populati
 - No external benchmark exists: empirically validated competence models paired with large interventional datasets are absent, as are comparable causal learner modeling frameworks for the same problem.
 - No causal claim is established — the authors do not claim evidence about decision-making impact or the correctness of the counterfactual estimates — and some queries return near-vacuous intervals (0.11 to 0.95).
 
-## Connected Concepts
-
-- [[educational-measurement]]
-- [[student-modeling]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[item-response-theory]]
-- [[learning-analytics]]
-- [[adaptive-learning]]
-- [[psychometrically-aware-ai]]
-
-## Connected Articles
-
-- [[cotal-formative-assessment-scoring-2026]] — Cotal: Formative Assessment Scoring
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
-- [[cognitive-load-transfer-knowledge-tracing-2026]] — Cognitive Load and Transfer in Knowledge Tracing
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
-- [[bandit-driven-llm-essay-scoring-2026]] — Bandit-Driven Prompt-Selection for Low-Cost LLM Essay Scoring
-
 ## Citation
 
 Mangili, F., Antonucci, A., & Cabañas, R. (2026). [*Causal modelling of support interventions for student competency assessment*](https://arxiv.org/abs/2608.24632).

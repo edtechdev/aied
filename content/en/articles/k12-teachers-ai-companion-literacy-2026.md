@@ -8,7 +8,6 @@ pedagogy: [student-ai-interaction, well-being]
 technology: [conversational-ai, human-in-the-loop-ai]
 methods: [qualitative-research]
 ethics: [ethics, pedagogical-safety]
-connected_faqs: [ai-guidance-children-under-13]
 sources: ['raw/papers/k12-teachers-ai-companion-literacy-2026.md']
 confidence: high
 research_method: [interviews, thematic analysis]
@@ -69,35 +68,6 @@ The limitations are stated openly: 33 US teachers recruited through Prolific ske
 - Teachers responded to hypothetical scenario cards, so what they said they would do may differ from what they would do with a real student, parent and principal attached.
 - The cards bundle relational role with setting, legitimacy, privacy and age sensitivity, so the differences observed may reflect those co-varying features rather than the role itself.
 - The account is one-sided by design: counselors, parents and students themselves were not interviewed, and the policy landscape is changing quickly enough that teachers' judgments may shift as incidents and regulation accumulate.
-
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-role]]
-- [[student-ai-interaction]]
-- [[well-being]]
-- [[conversational-ai]]
-- [[pedagogical-safety]]
-- [[ethics]]
-- [[human-in-the-loop-ai]]
-- [[social-emotional-learning]]
-- [[stakeholders]]
-- [[governance]]
-- [[pedagogical-partnerships]]
-- [[parents-and-families]]
-## Connected Articles
-
-- [[ai-learning-companions-framework]] — Building AI Companions that Prioritize Learning over Performance
-- [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × Social-Emotional Learning Research
-- [[human-ai-complementarity-social-emotional-learning-2026]] — An Experimental Study Exploring Human–AI Complementarity in Early Social-Emotional Learning
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Beyond a single role: Justifying a role-adaptive framework for AI companions through a comparative study in elementary book talk
-- [[ecnuclaw-k12-personalized-companion]] — ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Measuring Acceptance of Age-Tiered AI Literacy Guidebooks: A Developmentally Informed Study of K-12 Students and Teachers
-- [[student-mental-models-genai]] — Uncovering Students' Mental Models of Generative Artificial Intelligence
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — "Should I Tell My Teacher?" Student AI Disclosure Practices, Stigma, and Self-Regulated Learning in Higher Education
 
 ## Citation
 

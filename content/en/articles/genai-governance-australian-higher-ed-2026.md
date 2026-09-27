@@ -55,31 +55,5 @@ The written environments favored visible outputs. Rules on authorship, editing, 
 - The independent human second coder achieved only moderate agreement with the human-led, AI-assisted primary coding (57.3%; kappa = 0.395), with 32 disagreements clustering at the potential-breach/clearly-prohibited and indeterminate/permitted-with-conditions boundaries.
 - Normalized Shannon entropy measures category dispersion and cannot distinguish desirable governance diversity from problematic inconsistency.
 
-## Connected Concepts
-- [[governance]]
-- [[academic-integrity]]
-- [[higher-ed]]
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[ai-use-disclosure]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[evaluative-judgment]]
-- [[qualitative-research]]
-- [[legal-issues-and-risks]]
-- [[stakeholders]]
-- [[agency]]
-- [[generative-ai]]
-
-## Connected Articles
-- [[qian-governing-genai-higher-ed-policy-2026]] — Governing generative AI in higher education: Emerging policy approaches and support ecosystems at innovative U.S. universities
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI implementation in higher education: A scoping review
-- [[coates-governing-academic-integrity-indicators-2025]] — Governing academic integrity: Ensuring the authenticity of higher thinking in the era of generative artificial intelligence
-- [[chirikov-regulate-ai-syllabi-2026]] — How Instructors Regulate AI in College: Evidence from 31,000 Course Syllabi
-- [[sharma-judgment-visible-genai-assessment-2026]] — Educational integrity in GenAI-augmented assessment: making judgment visible
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment Design Under Imperfect Information: Generative AI, Disclosure, and Student Response in Higher Education
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The Hidden Cost of Disclosure: A Multi-institutional Study on Undergraduate Students' Generative AI Usage and Faculty Accusations
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose Before Policy: Academic Integrity, Generative AI, and Rhetorical Stance
-
 ## Citation
 Poudyal, B. (2026). [*Mapping the Authorized Boundary: A Comparative Policy-Vignette Study of Generative AI Governance in Australian Higher Education*](https://arxiv.org/abs/2609.29689). arXiv preprint.

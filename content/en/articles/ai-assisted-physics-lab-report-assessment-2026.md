@@ -15,7 +15,6 @@ technology: [generative-ai, llm, multimodal]
 assessment: [automated-assessment, ai-feedback-quality, assessment-validity, evaluative-judgment, feedback, formative-assessment]
 ethics: [hallucination-risk, trust]
 contributors: [editor]
-connected_faqs: [ai-feedback-at-scale]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
@@ -55,31 +54,6 @@ The most transferable idea here is the aggregate view: reading reports one at a 
 - The analysis revisits a single experience in one Experimental Physics course, on one experimental activity about reaction time and statistics, so the guidance rests on a narrow base.
 - No [[quantitative-research|quantitative]] agreement statistics between model and instructor scores are reported, and the rubric-item recommendations are the authors' own elaboration from that experience rather than a validated instrument.
 - The work spans GPT-3.5, GPT-4, GPT-4o and the GPT-5 series up to GPT-5.4, so its conclusions describe a moving target rather than a fixed capability.
-
-## Connected Concepts
-- [[automated-assessment]]
-- [[ai-feedback-quality]]
-- [[assessment-validity]]
-- [[evaluative-judgment]]
-- [[physics-education]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[multimodal]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[educational-measurement]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[tripartite-feedback-framework-ai-assessment-2026]] — A Tripartite Feedback Framework for AI-Assisted Assessment of Complex Reports in Higher Education
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline
-- [[cvengros-grading-handwritten-chemistry-ai-2026]] — Assisting the grading of a handwritten general chemistry exam with artificial intelligence
-- [[ai-grading-handwritten-physics-2026]] — Large Scale AI Grading of Handwritten Physics Assessments: Score Agreement and Olympiad Team Selection Outcomes
-- [[gpt4-handwritten-math-exam-grading-2026]] — AI-assisted automated short answer grading of handwritten university-level mathematics exam
-- [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a Virtual Laboratory Teaching Assistant in Undergraduate Biology
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]] — Can ChatGPT Replace the Teacher in Assessment? A Review of Research on the Use of Large Language Models in Grading and Providing Feedback
 
 ## Citation
 Abreu, M., Stari, C., & Martí, A. C. (2026). [AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice](https://arxiv.org/abs/2609.22417). arXiv:2609.22417.

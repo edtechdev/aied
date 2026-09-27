@@ -7,7 +7,6 @@ foundations: [educational-development, teacher-role, tpack]
 pedagogy: [self-efficacy]
 technology: [generative-ai]
 methods: [quantitative-research]
-connected_faqs: [faculty-development-ai]
 research_method: [survey]
 discipline: [learning sciences]
 audience: [faculty developers, institutions, instructors]
@@ -45,23 +44,6 @@ The study extends the [[tpack|TPACK]] framework — originally developed for pre
 - Single institution and single region: 127 faculty at one large public research university in the Southern U.S. (180 responses collected between April 5 and June 30, 2024), so findings may not transfer to liberal arts colleges, community colleges, minority-serving institutions, or other regions.
 - The cross-sectional design precludes causal inference; the interpretation of technological knowledge as a gateway cannot be distinguished from reverse directionality.
 - The sample overrepresents Academic Professional Track faculty (62.20% vs. 37.80% tenured or tenure-track), and the instrument, though adapted for GenAI, has not undergone independent psychometric validation for this population — no formal expert panel review was conducted, and the near-ceiling reliabilities raise a discriminant-validity question about whether the three technology-integrated domains are empirically distinct.
-
-## Connected Concepts
-
-- [[tpack]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[educational-development]]
-- [[self-efficacy]]
-- [[teacher-role]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[tpack-genai-inservice-teachers-mediation-2026]] — In-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge (Mohebi & ElSayary 2026)
-- [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (TPACK-related DBR)
-- [[genai-pd-ai-pck-learning-gain-2026]] — Intensive GenAI professional development and AI-PCK gains
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Evaluation Indicator System for AI Certificate Programs
 
 ## Citation
 

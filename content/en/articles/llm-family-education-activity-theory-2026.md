@@ -55,31 +55,5 @@ LLM use redistributed educational labor without establishing a net reduction in 
 - Representing each study through a single focal activity configuration facilitates comparison but can underrepresent secondary relationships and changes within an activity.
 - The AODM lens foregrounds relations among participants, tools, purposes, and responsibilities; other frameworks could expose different patterns.
 
-## Connected Concepts
-- [[parents-and-families]]
-- [[activity-theory-aied]]
-- [[early-childhood-elementary-ai-education]]
-- [[conversational-ai]]
-- [[ai-literacy]]
-- [[collaborative-learning]]
-- [[sociocultural-learning]]
-- [[human-ai-collaboration]]
-- [[educational-robotics]]
-- [[storytelling-in-education]]
-- [[special-education]]
-- [[meta-analysis-systematic-review]]
-- [[equity-in-ai-education]]
-- [[scaffolding]]
-
-## Connected Articles
-- [[paratutor-parent-child-tutoring]] — ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time
-- [[llm-children-reading-story-generation]] — Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety
-- [[ai-toys-child-development-2026]] — Artificial Intelligence in Toys: Implications for Child Development and Play
-- [[family-school-autonomy-support-genai-2026]] — Family-school autonomy support for children's responsible use of generative artificial intelligence
-- [[children-ai-safety-misconceptions-2026]] — "If we are good friends, AI doesn't spy so much": Children's knowledge and misconceptions of AI safety
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity theory as a lens on teachers' adoption of AI technologies: A structural equation modeling
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — The role of generative AI in facilitating children's creative thinking and cognitive development: a systematic scoping review
-
 ## Citation
 Luo, L., Liang, Y., Cai, J., Wang, A., Pan, D., Zhou, M., Yu, C., & Hui, P. (2026). [*Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature*](https://arxiv.org/abs/2609.28886). arXiv preprint.

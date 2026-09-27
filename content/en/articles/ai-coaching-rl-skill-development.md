@@ -39,23 +39,6 @@ page_kind: [framework]
 - The coaching policy was trained against simulated learners whose skill evolution followed a probabilistic automaton, and the authors acknowledge that simulated learners may not capture the full variability of real human learning in more complex motor-skill training settings.
 - Only the assistance modulation was learned: verbal instructions and visual cues were predefined and triggered by fixed rules, so the results say nothing about jointly optimized multimodal coaching.
 
-## Connected Concepts
-
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[generative-ai]]
-- [[personalized-learning]]
-- [[professional-training]]
-- [[stem-education]]
-- [[formative-assessment]]
-- [[reinforcement-learning]]
-- [[embodied-learning]]
-- [[transfer-of-learning]]
-## Connected Articles
-
-- [[hazra-safetutors-pedagogical-safety-2026]]
 ## Citation
 
 Wang, W., Gu, E., Loquercio, A., Hu, H., & Mangharam, R. (2026). [AI Coaching for Accelerating Human Skill Development with Reinforcement Learning](https://arxiv.org/abs/2606.25337).

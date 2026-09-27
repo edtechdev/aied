@@ -44,22 +44,5 @@ Applied as a proof-of-concept Early Warning System, the survey-trained model ide
 - Retrospective recall bias is a stated limitation: upsolving habit and thought-quit were reported by stopped students after they disengaged, which may systematically inflate the apparent separation between active and stopped cohorts on self-reported measures, and both datasets are observational, permitting no causal conclusions.
 - The Early Warning System ran over only 22 active students with no follow-up data, so it is unverified whether the four flagged high-risk individuals actually attrited or declined.
 
-## Connected Concepts
-- [[cs-education]]
-- [[learning-analytics]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[student-engagement]]
-- [[assessment]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[self-report-measures]]
-
-## Connected Articles
-- [[ai-writes-code-student-writes-model-2026]] — AI Writes Code, Student Writes Model
-- [[ai-literacy-equity-programming-policy]] — AI Literacy, Equity and Programming Policy
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual Tutoring and Computer-Assisted Learning Take-Up
-- [[affective-text-wearable-student-health]] — Affective Text and Wearable Student Health
-
 ## Citation
 Ruhan, A. I., Naeem, G. M., Rafi, R. I., Mim, S. A., Opi, N. B., Chowdhury, D. F., & Sadi, M. R. K. (2026). [Predicting Student Attrition in Competitive Programming: A Large-Scale Study Integrating Survey Insights and Global Behavioral Logs](https://arxiv.org/abs/2608.28618). arXiv:2608.28618.

@@ -36,20 +36,5 @@ page_kind: [framework]
 - All measures are self-report and subject to social desirability and inaccurate self-assessment; the authors used Harman's single-factor test to check common method variance but did not add observational or multi-source data.
 - The model covers individual-level factors only, leaving contextual conditions and chatbot design features outside the analysis.
 - Task-embedded survey responses were analyzed as independent units rather than as data nested within individuals, so within- versus between-person effects remain untested.
-## Connected Concepts
-- [[student-engagement]]
-- [[conversational-ai]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[affective-computing]]
-- [[student-experience]]
-
-## Connected Articles
-- [genai-motivation-engagement-2026] — GenAI motivation and engagement research
-- [ai-student-engagement-online-learning-review-2025] — systematic review of AI applications for student engagement
-- [genai-tutor-engagement-patterns] — multi-institution engagement patterns
-
 ## Citation
 Huang, X., & Zhang, S. (2026). [Engagement in LLM chatbot-supported learning: The pivotal roles of GenAI competency and emotion](https://doi.org/10.1016/j.caeai.2026.100559). *Computers and Education: Artificial Intelligence, 10*, 100559.

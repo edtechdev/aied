@@ -32,21 +32,6 @@ This paper proposes a paradigm shift from Learning Analytics to Cognition Intell
 - The framework flags over-interpretation risk directly: AI-generated cognition reports may appear precise or authoritative while being uncertain, incomplete, or biased, and the paper proposes uncertainty markers and human correction without testing them.
 - Ethics and governance for longitudinal cognition modeling — privacy, consent, data ownership, interpretive accountability, and learner agency — are named as open concerns that future systems must resolve.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[adaptive-learning]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[cognitive-diagnosis]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[metacognition]]
-## Connected Articles
-
-- [[explainable-probabilistic-kt]]
-- [[nie-personavlm-long-term-personalization-2026]]
-- [[teacher-student-agency-orchestration]]
 ## Citation
 
 Annie Yuan (2026). [Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education](https://arxiv.org/abs/2605.17263). arXiv preprint (cs.HC).

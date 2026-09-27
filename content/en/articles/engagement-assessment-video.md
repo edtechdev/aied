@@ -86,19 +86,6 @@ This aligns with [[adaptive-learning]] principles: real-time learner modeling �
 - The prediction target is a single self-report item ("How difficult was it to pay attention during the last part of the lecture?") on a 5-point Likert scale that captures only the attentional dimension of engagement, and the authors note that exact self-reported scores remain difficult to predict.
 - All results come from participant-based 4-fold cross-validation over 715 probe-aligned windows of 44 seconds each rather than a deployed system; an LLM few-shot baseline reaches only 46.86% binary accuracy on the same task, showing how little signal a text-only approach extracts.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[video-education]] — Video in Education: AI-generated, personalized, and analytics of video learning
-- [[affective-tutoring]]
-- [[self-regulated-learning]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[multimodal]]
-- [[affective-computing]]
-## Connected Articles
-
-- [[syal-multimodal-dialogue-stem-2026]]
 ## Citation
 
 Leng, Z., Eyal, E., Shi, Y., He, J., Liu, Y., & Plötz, T. (2026). [*EduGage: Methods and Dataset for Sensor-Based Momentary Assessment of Engagement in Self-Guided Video Learning*](https://arxiv.org/abs/2605.01238)

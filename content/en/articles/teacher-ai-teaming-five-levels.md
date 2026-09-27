@@ -50,26 +50,6 @@ The framework defines a progression from minimal to maximal teacher-AI collabora
 - Full extraction yielded 103 studies, and GenAI-powered tools were only 39% of them, so claims about the higher teaming levels rest on a minority of the evidence base.
 - The review records which levels appear in the literature; it does not test whether reaching a higher level improves teaching quality or student outcomes.
 
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[teacher-ai-competency]]
-- [[ai-education]]
-- [[learning-design]]
-- [[tpack]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-## Connected Articles
-
-- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
-- [[chen-teacharena-language-agents-realistic-teaching-2026]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
-- [[prompt-based-programming-lesson]] — Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers
-- [[genai-marketing-education-roles-2026]] — When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education
-
 ## Citation
 
 Cukurova, M., Suraworachet, W., Zhou, Q., & Bulathwela, S. (2025). [*Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence*](https://arxiv.org/abs/2511.19580). arXiv preprint.

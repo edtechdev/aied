@@ -59,20 +59,6 @@ The discussion works through a single loop-tracing item: students were given a s
 - Intelligibility is unverified — inviting researchers and teachers to apply it in their own contexts is future work, so how reliably raters reach the same category is unknown.
 - Context is bounded: imperative languages (C, C++, Python, Java), block-based languages like Scratch, and constructs such as break and continue that are not taught in every introductory programming class.
 
-## Connected Concepts
-
-- [[cs-education]]
-- [[scaffolding]]
-- [[automated-assessment]]
-- [[student-experience]]
-- [[formative-assessment]]
-- [[assessment-validity]]
-- [[computational-thinking]]
-- [[cognitive-diagnosis]]
-## Connected Articles
-
-- [[programming-its]]
-- [[llm-student-misconception-identification]]
 ## Citation
 
 Eckert, D., & Kautz, C. (2026). [*How Students (Mis)understand Conditionals and Loops – A Taxonomy*](https://arxiv.org/abs/2605.26966).

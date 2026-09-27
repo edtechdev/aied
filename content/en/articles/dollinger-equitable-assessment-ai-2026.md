@@ -37,22 +37,6 @@ audience: [instructors, institutions, assessment designers]
 - They flag the risk that reform disadvantages students who benefit from clear structure and predetermined expectations, and that students may feel uncertain without numerical feedback and need scaffolded support to build intrinsic motivation; both are left unresolved in the paper's own account.
 - Grading reform lies largely outside the authors' control: institutional grading policy, accreditation, and external ranking systems constrain implementation, and no evidence is offered yet on how the proposed changes affect equity outcomes, which the paper names as a target for future empirical research.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[authentic-assessment]]
-- [[agency]]
-
-## Connected Articles
-
-- [[beyond-detection-authentic-assessment-ai-2025]] — Redesigning authentic assessment rather than detecting AI misuse
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Oral exams as an authentic assessment strategy amid AI
-- [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide collaborative redesign of assessment in the GenAI era
-- [[prompt-privilege-equitable-ai-access-2026]] — Equitable access and outcome gaps in AI-mediated tasks
-
 ## Citation
 
 Dollinger, M., & Nieminen, J. H. (2026). [*Reimagining Success and Failure: Equitable Assessment Practices in an Age of Artificial Intelligence*](https://doi.org/10.53761/20z06b11). *Journal of University Teaching and Learning Practice, 23*(1). (CC BY-ND 4.0.)

@@ -39,21 +39,6 @@ level: [higher ed]
 - Only two AI persona types were tested, so the study cannot show how more nuanced personas that shift stance with group progress or learner needs would behave.
 - The authors report analytic uncertainty: the retained clustering solution had a low silhouette score, indicating substantial overlap among the six agency profiles, and the TNA bootstrap tested only one-step transitions, so retained edges are stable empirical pathways rather than statistically over-represented transitions.
 
-## Connected Concepts
-
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[agentic-ai]]
-- [[collaborative-learning]]
-- [[creativity]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-
-## Connected Articles
-
-- [[human-ai-collaboration-trust-expectations]] — Human-AI collaboration and trust expectations
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulated learning
-
 ## Citation
 
 Jin, Y., Martinez-Maldonado, R., Gašević, D., Han, X., & Yan, L. (2026). *Emergent learner agency in implicit human-AI collaboration: How supportive and contrarian AI personas reshape interaction.* Journal of Computer Assisted Learning, 42, e70310. [https://doi.org/10.1002/jcal.70310](https://doi.org/10.1002/jcal.70310)

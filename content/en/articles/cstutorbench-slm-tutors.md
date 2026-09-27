@@ -38,21 +38,6 @@ methods: [benchmark]
 - Every item is single-turn, so the benchmark cannot capture the multi-turn dialogue of real tutoring, and no students were evaluated — higher rubric scores may not predict learning outcomes.
 - The automated judge (Claude Sonnet 4) showed instancing inconsistency, varying how it weighted or combined criteria across model-trial combinations.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[benchmark]]
-- [[cs-education]]
-- [[feedback]]
-- [[k-12]]
-- [[llm]]
-- [[privacy]]
-- [[prompt-engineering]]
-- [[scaffolding]]
-
-## Connected Articles
-
-- [[ai-tutor-behavioral-evaluation]]
 ## Citation
 
 Lane, H. C., & Kageler, B. (2026). [CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming](https://arxiv.org/abs/2607.05571).

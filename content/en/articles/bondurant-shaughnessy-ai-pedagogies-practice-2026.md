@@ -51,26 +51,6 @@ Decomposition breaks complex teaching into learnable elements, and the commentar
 - The accuracy figure quoted for large language models comes from a secondary source rather than a study of the specific teacher education tools discussed, so it bounds the risk without measuring it in this context.
 - Named platforms are examples of what is technically possible; the commentary evaluates none of them directly, and several cited rehearsal studies are exploratory or small-scale.
 
-## Connected Concepts
-
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[simulating-students]]
-- [[simulation]]
-- [[scaffolding]]
-- [[feedback]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[math-education]]
-- [[professional-training]]
-
-## Connected Articles
-
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — dialogue quality with AI student avatars in a practice-based teacher education setting
-- [[llm-student-simulation-teacher-insights]] — what teachers notice when LLM learners are wrong
-- [[simulating-students-llm-review-2026]] — architecture and role of LLM student simulators
-
 ## Citation
 
 Bondurant, L., & Shaughnessy, M. (2026). [Responsible integration of artificial intelligence into pedagogies of practice in mathematics teacher education](https://jmtet.net/index.php/Home/article/view/20). *Journal of Mathematics Teacher Education in Texas, 15*(3), 8-16.

@@ -11,7 +11,6 @@ sources: ['raw/papers/coauthorship-integrity-reconceptualizing-assessment-validi
 confidence: high
 audience: [assessment designers, assessment professionals, instructors]
 level: [higher ed]
-connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 Ebrahimzadeh, Shibani, and Buckingham Shum argue that when AI support for academic work is ubiquitous and often undetectable, assessment integrity must be reframed from a provenance problem (who wrote the text?) to a validity problem (what can justifiably be inferred from the evidence?). Written artifacts were trusted as proxies for the cognitive processes behind them; capable [[llm]]s break that link.
@@ -55,25 +54,6 @@ Deployed through Microsoft Azure using GPT-4-1106, the prototype's prompt compri
 - The expert evaluation (n = 8) used high-quality texts authored by the participants themselves in 7 of 8 cases — an optimal scenario. It shows technical feasibility, not readiness for summative deployment, which the authors say needs testing with student-authored texts of varying quality and length.
 - Because the submitted text may itself contain misunderstandings and responses are scored for consistency with it, scoring and feedback risk reinforcing those misconceptions; mitigations are proposed but not yet verified.
 - The contribution is a validity-framework extension plus a proof-of-concept: no students had used the tool, and items at the Evaluate and Create levels of Bloom's taxonomy were not evaluated because answering them exceeded the time available.
-
-## Connected Concepts
-
-- [[assessment-validity]] — the lens adopted to analyze GenAI's effects
-- [[academic-integrity]] — reframed as coauthorship integrity
-- [[generative-ai]] — the technology undermining the written-artifact proxy
-- [[agentic-ai]] — the conversational-agent basis of the AI Viva
-- [[assessment]] — the practice being reconceptualized
-- [[authentic-assessment]] — aligned verification of understanding
-- [[feedback]] — dialogic feedback in the AI Viva
-- [[llm]] — the underlying technology
-- [[ai-education]] — the umbrella field
-- [[higher-ed]] — the assessment context
-
-## Connected Articles
-
-- [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — Student acceptance of GenAI for academic writing
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — GenAI overuse and learner agency
-- [[genai-declaration-frameworks-higher-education]] — GenAI declaration frameworks in higher ed
 
 ## Citation
 

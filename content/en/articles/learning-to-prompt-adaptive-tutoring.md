@@ -38,22 +38,6 @@ confidence: high
 - The router developed a bias toward strategies that perform well across the most common subjects, and real-world data sparsity in long-tail subjects (e.g., Economics or Physics) made it hard for the policy to converge on subject-specific strategies within a limited live-deployment window.
 - The framework relies on a discrete pool of 20 pedagogical prompts, which prevents novel or hybrid instruction strategies, and data sparsity in the deployment constrains the statistical power of the downstream analyses and slows online convergence.
 
-## Connected Concepts
-
-- [[prompt-engineering]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[personalized-learning]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-
-## Connected Articles
-
-- [[ai-lms-middle-school-longitudinal]] — AI-integrated learning management system for middle school
-- [[special-r1-rl-special-education]] — Special-R1: RL for special education
-- [[measuring-llm-tutors-teach-vs-solve]] — Measuring whether LLM tutors teach or solve
-- [[llm-judged-helpfulness-pedagogy-signal]] — LLM-judged helpfulness as a pedagogy signal
-
 ## Citation
 
 Chang, P.-C., Hogan, N., Plaat, A., & van der Meer, M. T. (2026). [*Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring*](https://arxiv.org/abs/2606.20138). arXiv cs.AI preprint.

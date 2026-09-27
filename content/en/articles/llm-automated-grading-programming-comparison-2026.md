@@ -46,20 +46,6 @@ level: [higher ed]
 - Every model was queried with the same Chain-of-Thought prompt under default generation parameters in August 2025, with temperature, decoding, and safety filters left unmodified, making the findings a version- and prompt-specific snapshot.
 - The author states that low human–model agreement may also reflect a prompt that failed to communicate all nuances of pedagogical grading, and the prompt itself was never varied or ablated.
 
-## Connected Concepts
-
-- [[cs-education]]
-- [[automated-assessment]]
-- [[llm]]
-- [[assessment]]
-
-## Connected Articles
-
-- [[gpt-human-rater-essay-assessment-2026]] — GPT vs. human raters in essay assessment
-- [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — Micro:bit robotics in teacher training
-
 ## Citation
 
 Jukiewicz, M. (2026). [*A systematic comparison of Large Language Models for automated assignment assessment in programming education: Exploring the importance of architecture and vendor*](https://doi.org/10.1016/j.caeo.2026.100364). *Computers and Education Open*, 100364. https://doi.org/10.1016/j.caeo.2026.100364

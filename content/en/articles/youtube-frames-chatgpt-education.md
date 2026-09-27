@@ -29,25 +29,6 @@ confidence: high
 - The 52 videos were collected under one search strategy and a fixed time period, so the findings may not generalize to all LLM-related educational content.
 - Group classification and the epistemic network analysis used the same nine codes, so the ENA describes co-occurrence patterns within predefined groups rather than independently confirming the group separation, and the coding scheme reflects the researchers' theoretical perspective.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[higher-ed]]
-- [[teacher-role]]
-- [[llm]]
-- [[feedback]]
-- [[multimodal]]
-- [[network-analysis]]
-
-## Connected Articles
-
-- [[pedagogy-ai-mistakes]]
 ## Citation
 
 L. Xiao, G. Chen, Y. Zhang et al. (2026). [How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata](https://arxiv.org/abs/2607.08698).

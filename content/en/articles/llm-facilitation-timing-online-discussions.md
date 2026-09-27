@@ -11,7 +11,6 @@ level: [higher ed]
 sources: ['raw/papers/2607.28643.md']
 confidence: high
 audience: [researchers, instructors, instructional designers]
-connected_faqs: [asynchronous-online-courses-ai]
 discipline: [language learning]
 ---
 
@@ -48,25 +47,6 @@ Automating facilitation has been attempted with encoder-only classifiers, and LL
 - Raters saw only excerpts of each discussion rather than full threads, while real facilitation decisions are shaped by long-term dynamics, participant history, and community norms that the excerpts omit.
 - Rationales were optional to provide and very few were collected, and only two intervention types (positive and negative reinforcement) were labeled, restricting what the labeling can support.
 - PEFK's datasets are predominantly English-language and drawn from specific online or institutional settings, so the authors state the findings may not generalize to multilingual environments or culturally distinct moderation norms.
-
-## Connected Concepts
-
-- [[human-in-the-loop-ai]]
-- [[collaborative-learning]]
-- [[pedagogical-agent]]
-- [[ai-ed-evaluation]]
-- [[prompt-engineering]]
-- [[student-engagement]]
-- [[learning-analytics]]
-
-## Connected Articles
-
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication
-- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents
-- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
-- [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards: rethinking learning visualizations as engagement tools
-- [[physiological-signals-exam-outcomes-ml]] — Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
-- [[less-deliberate-teams-llm]] — Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work
 
 ## Citation
 

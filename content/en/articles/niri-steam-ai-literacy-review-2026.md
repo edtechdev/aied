@@ -36,24 +36,6 @@ methods: [meta-analysis-systematic-review]
 - Methods in the corpus were mainly mixed or qualitative and instruction predominantly technology-enhanced; because the analysis reports co-occurrence counts and discipline mappings rather than pooled effect sizes, it shows which elements the literature emphasizes, not how much learners gain in each.
 - The underrepresentation of Ethical Awareness, Creative Imagination, Creating with AI, Managing AI, and Designing AI is a property of what studies report, so some of the gap may reflect reporting and instrument choices rather than what happens in STEAM classrooms.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[stem-education]]
-- [[computational-thinking]]
-- [[k-12]]
-- [[ethics]]
-- [[curriculum-design]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI across learners, contexts, cultures
-- [[gaide-vibe-coding-k12-teachers]] — Vibe coding framework for K-12 teachers
-- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework
-
 ## Citation
 
 Niri, G., Chiu, T. K. F., Ombid, A. M. O., Ybañez, D. L. J. B., Dennerlein, S. M., Zhou, X., & Lavicza, Z. (2026). [*STEAM education for AI literacy: a systematic literature review*](https://doi.org/10.1186/s40594-026-00629-8). *International Journal of STEM Education*, 13, 46.

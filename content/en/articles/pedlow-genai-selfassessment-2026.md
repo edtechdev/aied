@@ -39,24 +39,5 @@ The study used a **pre-test/post-test quasi-experimental design** (Rogers & Reve
 - Data came from one Australian university (Edith Cowan) and a convenience sample of commencing nursing, health sciences, engineering, and science students, split unevenly between undergraduates (n=491) and postgraduates (n=206).
 - The instrument was designed in 2021 and expanded with GenAI-specific items only in 2023, so cohorts across the 2021–2025 window did not answer identical questions.
 
-## Connected Concepts
-- [[generative-ai]]
-- [[ethics]]
-- [[assessment]]
-- [[self-assessment]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[agency]]
-- [[higher-ed]]
-- [[ai-literacy]]
-
-## Connected Articles
-- [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitive discordance in GenAI completion
-- [[think-first-chatgpt-later-2026]] — Self-regulated, reflective use of ChatGPT
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless generative AI use in self-directed learning
-- [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolding self-regulated learning with generative AI
-
 ## Citation
 Pedlow, M., & Maldon, J. (2026). [*Raising Ethical Awareness of GenAI Use Through Student Self-Assessment in the Transition to Higher Education*](https://doi.org/10.53761/39ey1895). *Journal of University Teaching and Learning Practice*, 23(5).

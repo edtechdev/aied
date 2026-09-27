@@ -67,30 +67,6 @@ Researchers emphasize recurring **ethical challenges**: [[equity-in-ai-education
 - The evidence base is skewed toward teacher candidates (44.4%, n=8); middle-school (5.5%, n=1) and high-school (11.1%, n=2) students are barely represented.
 - Several risk/limitation categories — data dependency, effects on human decision-making, and skill development — rest on a single study each (n=1).
 
-## Connected Concepts
-
-- [[stem-education]]
-- [[generative-ai]]
-- [[ethics]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[ai-literacy]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[k-12]]
-- [[higher-ed]]
-- [[personalized-learning]]
-- [[simulation]]
-- [[digital-divide]]
-
-## Connected Articles
-
-- [[unesco-ai-guidelines-chemical-education-2026]] — Translating UNESCO AI guidelines to chemical education
-- [[context-based-ai-secondary-chemistry-2026]] — Context-based + AI in secondary chemistry
-- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-- [[philosophy-experimentation-ai-chemistry-2026]] — Reimagining the philosophy of experimentation in chemistry with AI
-
 ## Citation
 
 Erümit, A. K., & Özdemir Sarıalioğlu, R. (2025). [Artificial intelligence in science and chemistry education: A systematic review](https://doi.org/10.1007/s44217-025-00622-3). *Discover Education*, 4, 178.

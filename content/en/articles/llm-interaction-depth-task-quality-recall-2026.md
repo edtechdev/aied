@@ -43,27 +43,6 @@ The central theoretical contribution is separating comprehension from retention 
 - Testing was immediate only: the study measured comprehension, not delayed retention, so it cannot speak to what persists.
 - Interaction depth was proxied by keywords in student messages, which captures the surface form of explanation-seeking rather than its underlying quality.
 
-
-## Connected Concepts
-
-- [[llm]]
-- [[conversational-ai]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[prompt-engineering]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-
-## Connected Articles
-
-- [[measuring-llm-tutors-teach-vs-solve]] — Measuring whether LLM tutors teach or solve
-- [[genai-performance-vs-learning]] — The performance-vs-learning distinction in generative AI
-- [[stanbkt-bayesian-knowledge-tracing]] — Knowledge tracing and learning outcomes
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking
-
 ## Citation
 
 Tsiligkiris, V. (2026). [What students ask matters: LLM interaction depth, task quality, and immediate recall in higher education](https://doi.org/10.1186/s41239-026-00617-6). *International Journal of Educational Technology in Higher Education, 23*(44).

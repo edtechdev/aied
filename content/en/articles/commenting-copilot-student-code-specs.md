@@ -44,19 +44,6 @@ The study draws on multi-year data from undergraduate programming courses in whi
 - The modification analysis captures only changes visible in submissions; IDE-only revisions overwritten before submission do not appear in the data.
 - Comment classification and reflection analysis both relied on LLM-assisted pipelines, so classification errors remain: the reliability check on 200 randomly sampled comments reached 92.5% agreement (κ = 0.781) for Comment Type.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[student-experience]]
-
-## Connected Articles
-
-- [[programming-its]]
-- [[reshaping-cs-education-genai]]
 ## Citation
 
 Nasser Giacaman, Valerio Terragni, Paul Denny, Viraj Kumar (2026). [Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications](https://arxiv.org/abs/2607.10674). arXiv preprint.

@@ -66,30 +66,5 @@ RQ5 coded 20 constructs of responsible or trustworthy use. Explicit evidence ran
 - 2026 is a partial year and not a trend endpoint; English-only search strings constrain non-English work.
 - The map is descriptive: no dimension progresses monotonically, no contrast is causal, and empty cells record unobserved combinations.
 
-## Connected Concepts
-- [[educational-nlp]]
-- [[feedback]]
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[learning-analytics]]
-- [[llm]]
-- [[machine-learning]]
-- [[bias-mitigation]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[governance]]
-- [[higher-ed]]
-- [[limitations-in-aied-research]]
-
-## Connected Articles
-- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
-- [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback in education: A qualitative systematic literature review
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — Is It Ethical for Teachers to Use AI for Student Feedback?
-- [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of Artificial Intelligence in Engineering Education: A Systematic Review
-- [[agentic-ai-education-scoping-review]] — A scoping review of generative AI-powered agentic AI in education: Research landscape, agentic capabilities
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — Can AI Evaluate Assessment? A Study of Large Language Model Meta-Assessment Performance
-- [[human-vs-llm-ordered-coding]] — Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis
-
 ## Citation
 Eicher, J., & da Silva, R. (2026). [*From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026*](https://arxiv.org/abs/2609.27939). arXiv preprint.

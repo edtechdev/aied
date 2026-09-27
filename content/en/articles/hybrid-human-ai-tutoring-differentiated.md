@@ -36,21 +36,6 @@ This study extends the taxonomy in [[stanford-evidence-base-ai-k12-2026]] by sho
 - **The headline differentiation effect is marginal, and null at the cutoff.** Proactive tutoring's advantage over reactive tutoring was 75% on average but at p = .065, and the full-sample trend of a 26% improvement was likewise not significant (p = .086).
 - **A dichotomous median split.** Assigning support at the median may oversimplify the relationship between student need and optimal tutoring intensity, as the authors state — the students farthest below the cutoff are precisely the ones the design cannot distinguish.
 
-## Connected Concepts
-
-- [[personalized-learning]]
-- [[equity-in-ai-education]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[learning-gains]]
-- [[k-12]]
-- [[help-seeking]]
-## Connected Articles
-
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[tutoring-effectiveness-index]]
 ## Citation
 
 Gurung, A., Gao, G., Gutterman, J., Thomas, D. R., Gupta, S., Branstetter, L., Brunskill, E., Aleven, V., & Koedinger, K. R. (2026). [Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs](https://arxiv.org/abs/2605.11155). Proceedings of the 19th International Conference on Educational Data Mining (EDM'26).

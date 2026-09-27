@@ -86,21 +86,6 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 - The study of example-based teaching is limited to a specific interaction design; the authors note that alternative instructional protocols may produce different outcomes.
 - The benchmark is built from Gaokao (Chinese National College Entrance Examination) syllabi and questions across seven subjects — Mathematics, Physics, Chemistry, Biology, History, Geography, and Politics — so the domain rankings are tied to that exam's knowledge structure.
 
-## Connected Concepts
-
-- [[socratic-method]]
-- [[ai-ed-evaluation]]
-- [[intelligent-tutoring]]
-- [[benchmark]]
-- [[learning-gains]]
-- [[simulating-students]]
-
-## Connected Articles
-
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[educational-llm-alignment]]
-- [[agentic-workflows-education]]
-- [[quantum-education-its]]
 ## Citation
 
 Li, Z., Song, S., Ma, J., Li, R., Zeng, Y., Li, M., et al. (2026). [*TeachBench - Evaluating LLM Teaching Ability*](https://arxiv.org/abs/2601.21375).

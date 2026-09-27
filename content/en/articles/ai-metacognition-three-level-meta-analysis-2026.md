@@ -54,34 +54,6 @@ Accuracy ratings returned essentially zero (g = 0.035, p = .890); set against Fa
 - Egger's regression detected publication bias (t(119) = 4.371, p < .001); trim-and-fill imputed 12 effect sizes and raised the pooled effect to g = 0.777, a direction the paper does not explain.
 - Inadequate reporting blocked classification of metacognitive subcomponents and some categories held too few effects (the intelligent-peer role gave g = 0.764, 95% CI [-0.797, 2.326]); quality was sound (MERSQI mean 11.16, SD = 1.50) but mostly quasi-experimental, and the manuscript is a preprint with its OSF link blinded.
 
-## Connected Concepts
-
-- [[metacognition]] — the outcome construct, defined through knowledge, experience and monitoring/control
-- [[self-regulated-learning]] — the broader construct the authors deliberately separate from metacognition
-- [[cognitive-offloading]] — the risk mechanism behind the null accuracy-rating result and the "metacognitive laziness" critique
-- [[generative-ai]] — the dominant technology in the post-2022 studies, alongside earlier intelligent tutoring systems
-- [[intelligent-tutoring]] — the historical AI role and one of the tested moderator categories
-- [[meta-analysis-systematic-review]] — the method, its PRISMA reporting and its multilevel variants
-- [[self-report-measures]] — the measurement family carrying the largest and least trustworthy effects
-- [[scaffolding]] — the metacognitive support mechanism the authors claim AI supplies
-- [[self-directed-learning]] — a non-significant intervention setting that raises questions about unsupervised AI use
-- [[collaborative-learning]] — the task type tested and found not to moderate the effect
-- [[student-ai-interaction]] — the behavioral domain the observational measures capture
-- [[learning-gains]] — the neighbouring outcome other AI meta-analyses target, contrasted with metacognition here
-
-## Connected Articles
-
-- [[cognitive-offloading-metacognitive-review-2026]] — Mechanisms and interventions linking offloading to metacognitive monitoring
-- [[ai-metacognition-stem-review]] — Review of AI tools that scaffold metacognition in STEM settings
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Whether metacognitive training produces better-calibrated offloading
-- [[cui-motivation-roles-metacognitive-genai-2026]] — How motivation and AI role shape metacognitive engagement in GenAI interaction
-- [[zhao-genai-higher-order-thinking-meta-2026]] — Meta-analysis of GenAI effects on higher-order thinking, a neighbouring outcome
-- [[oneill-presumed-effective-meta-analysis-2026]] — Critique of flawed meta-analytic practice in AI-in-education evidence
-- [[banihashem-ai-srl-systematic-mapping-review-2025]] — Mapping review of the AI and self-regulated learning intersection
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — Process evidence on how students actually regulate learning with a chatbot
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy interventions, sharing the moderator-first design
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis of AI's effect on learning for comparison of effect magnitudes
-
 ## Citation
 
 Li, X., Liu, X., Lei, H., & Yang, H. (2026). [*Can artificial intelligence promote metacognition? Evidence from a three-level meta-analysis*](https://osf.io/preprints/psyarxiv/pa3wj_v1). *PsyArXiv Preprints*.

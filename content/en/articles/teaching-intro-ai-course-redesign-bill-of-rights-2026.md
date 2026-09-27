@@ -7,7 +7,6 @@ foundations: [academic-integrity, ai-education, ai-literacy, learning-design]
 technology: [generative-ai]
 assessment: [assessment]
 ethics: [ethics]
-connected_faqs: [course-ai-policy]
 audience: [instructors]
 research_method: [case study]
 level: [higher ed]
@@ -54,19 +53,6 @@ The AI Grading Paradox is sharpest: all but one group introduced a proctored, ha
 - One cohort, one instructor, one ten-week quarter: forty-six students in one Spring 2026 offering, no comparison condition, and evaluation numbers that moved modestly against 2023 (summative median 3.8 vs 3.9).
 - The course as taught was not the course as designed: the build-a-language-model strand was not delivered and survived as an optional reading, yet the paper's claim that students who build the methods by hand earn the judgment to supervise them depends on it.
 - The governance artifact is not validated: one hour of an AI-scaffolded prompt with 44 of 46 students present.
-
-## Connected Concepts
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[generative-ai]]
-- [[ethics]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[finkelstein-principled-ai-education-2025]]
-- [[beyond-detection-authentic-assessment-ai-2025]]
 
 ## Citation
 

@@ -10,7 +10,6 @@ level: [higher ed]
 sources: ['raw/papers/chatgpt-perception-online-learning-engagement-2026.md']
 confidence: high
 audience: [instructors, administrators]
-connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** This SEM-based study tested whether students' perception of ChatGPT (knowledge, willingness to use, and concerns) shapes [[online-teaching-and-learning|online learning]] [[student-engagement|engagement]] across behavioral, emotional, and cognitive dimensions, and whether engagement in turn drives [[learning-gains|academic performance]]. Using survey data from 305 graduate students in Iran, the authors found that ChatGPT perception accounts for 19.2% of variance in engagement, while perception plus engagement together explain 40.4% of variance in academic performance. Online learning engagement significantly mediates the perception→performance link, underscoring its pivotal role in translating AI adoption into academic gains.
@@ -47,21 +46,6 @@ connected_faqs: [asynchronous-online-courses-ai]
 - Perception, engagement, and performance were all measured with five-point Likert self-reports, which the authors note are open to bias related to students' perceptions and behaviors; they call for experimental designs in live settings with behavioral measures such as time-on-task.
 - The study measured none of the access conditions the authors flag as consequential — quality of internet access, use of VPNs to reach ChatGPT, and ChatGPT availability — all of which can shape perceptions, interactions, and outcomes in online learning.
 - Participants came from one institution and one national context, which the authors say limits applicability where perceptions of ChatGPT and its application differ across universities and cultures.
-
-## Connected Concepts
-
-- [[student-engagement]]
-- [[online-teaching-and-learning]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[motivation]]
-
-## Connected Articles
-
-- [[genai-educational-outcomes-meta-analysis]]
-- [[chatgpt-feedback-engagement-genai]]
-- [[student-perception-ai-use-collaboration]]
 
 ## Citation
 

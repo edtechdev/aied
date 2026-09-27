@@ -5,7 +5,6 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [human-ai-collaboration]
 technology: [conversational-ai, generative-ai, pedagogical-agent]
-connected_faqs: [ai-guidance-children-under-13]
 methods: [mixed-methods-research, quantitative-research, qualitative-research]
 audience: [instructors, instructional designers, researchers]
 level: [k 12]
@@ -45,20 +44,6 @@ confidence: high
 - The empirical study is formative with N = 19 elementary students (12 Grade 4, 7 Grade 5) at one experimental school in Taoyuan, Taiwan; the authors state generalizability to broader and more diverse cultural and educational contexts requires further investigation.
 - The within-subjects comparison is against each student's regular homeroom teacher rather than an active control condition, so the identified "competence gap" serves as a design rationale rather than a definitive measure of AI versus human efficacy.
 - The Role-Adaptive AI Companion Framework itself remains conceptual and architectural: full implementation of the three-role system is pending, with accurate real-time sensing of user affective states and seamless role transitions inside a single agent still unsolved.
-
-## Connected Concepts
-
-- [[conversational-ai]] — the dialogic medium; the paper shows its affective ceiling in fixed-role designs
-- [[pedagogical-agent]] — the AI companion as an agent whose role can be adapted
-- [[human-ai-collaboration]] — AI as a complementary, role-adaptive partner rather than replacement
-- [[learning-design]] — designing for the multi-stakeholder book-talk ecosystem
-- [[parents-and-families]]
-## Connected Articles
-
-- [[ai-learning-companions-framework]] — framework for AI learning companions
-- [[ecnuclaw-k12-personalized-companion]] — K-12 personalized AI companion
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — teacher-side AI interaction patterns in lesson design (companion lens)
-- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning
 
 ## Citation
 

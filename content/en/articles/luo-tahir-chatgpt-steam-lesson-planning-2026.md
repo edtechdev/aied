@@ -41,26 +41,6 @@ level: [preschool, primary education]
 - The lesson-plan sample is 25 plans (12 traditional, 13 ChatGPT-assisted): one teacher used ChatGPT daily and submitted only a single plan, leaving 12 usable pairs for the Wilcoxon comparison.
 - Benefits and challenges rest mainly on self-reported questionnaires and interviews, which the authors acknowledge may reflect socially desirable responding; evaluation was limited to professor rubric scores, and no student data were collected — the study never measured how the plans affected learners.
 
-## Connected Concepts
-
-- [[curriculum-design]]
-- [[prompt-engineering]]
-- [[generative-ai]]
-- [[early-childhood-elementary-ai-education]]
-- [[teacher-role]]
-- [[creativity]]
-- [[stem-education]]
-- [[human-ai-collaboration]]
-
-## Connected Articles
-
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]]
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]]
-- [[ai-changing-teaching-workflows]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[luo-ibl-patterns-llm-bloom-2026]]
-- [[teaching-the-teachers-genai-tpk-review-2026]]
-
 ## Citation
 
 Luo, Z., & Tahir, R. (2025). [ChatGPT-assisted lesson planning for children's STEAM arts education: An experimental study on benefits, challenges, methods, and a prompt framework](https://doi.org/10.1007/s40593-025-00513-6). *International Journal of Artificial Intelligence in Education, 35*, 3696–3745.

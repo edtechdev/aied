@@ -85,33 +85,6 @@ The review uses **OpenClaw** (Steinberger, 2026) — the fastest-growing [[open-
 - The evidence base itself is dominated by small-scale, short-term designs and post-2025 publication (278 of 474 studies in 2025, 146 in January–May 2026), limiting the maturity of any cumulative claim.
 - First authors are heavily concentrated in China (150, 31.6%) and the United States (93, 19.6%) — 51.2% combined — which the authors flag as a threat to generalizability across educational systems.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[agentic-ai]]
-- [[human-in-the-loop-ai]]
-- [[ai-education]]
-- [[open-source]]
-- [[student-experience]]
-- [[meta-analysis-systematic-review]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[llm]]
-- [[scaffolding]]
-## Connected Articles
-
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[finkelstein-principled-ai-education-2025]] — Principled AI in Education
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-
 ## Citation
 
 Wang, N., Zou, D., Xie, H., & Qin, S. J. (2026). [*A scoping review of generative AI-powered agentic AI in education: Research landscape, agentic capabilities, and insights from the frontier agent paradigm, exemplified by OpenClaw*](https://doi.org/10.1016/j.caeai.2026.100653).

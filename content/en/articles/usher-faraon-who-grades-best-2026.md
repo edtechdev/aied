@@ -50,23 +50,6 @@ confidence: high
 - ChatGPT graded through one fixed configuration — an initial structured prompt plus six criterion-specific prompts matched to a standardized six-criteria rubric — so the findings describe that configuration rather than ChatGPT grading in general.
 - The study tracked neither learning outcomes nor effects over time, so whether exposure to multiple evaluation sources improves students' evaluative judgment or their later work remains unknown.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[peer-assessment]]
-- [[assessment]]
-- [[feedback]]
-- [[conversational-ai]]
-- [[generative-ai]]
-- [[academic-integrity]]
-- [[assessment-validity]]
-
-## Connected Articles
-
-- [[pairr-ai-peer-review-2025]] — PAIRR: combining peer and AI review in a human-centered process
-- [[ai-internal-feedback-evaluative-judgments]] — Unravelling undergraduates' development of evaluative judgments
-- [[semantic-variability-llm-conversation-assessment-2026]] — Semantic variability in LLM conversation assessment
-
 ## Citation
 
 Usher, M., & Faraon, M. (2026). [Who grades best? Comparing ChatGPT, peer, and instructor evaluations across varying levels of student project quality](https://doi.org/10.1080/02602938.2025.2588682). *Assessment & Evaluation in Higher Education, 51*(6), 1156–1175.

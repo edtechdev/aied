@@ -51,22 +51,6 @@ As AI and [[generative-ai|generative AI]] moved into classrooms, the authors fra
 - The authors state that peak detection is sensitive to parameter choices and that annotating peaks from hashtags and selected tweets introduces interpretive subjectivity.
 - The platform's user base skews more technically literate and professionally engaged than the general population, and its algorithm may overrepresent emotionally charged posts, which limits generalization.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[governance]]
-- [[bias-mitigation]]
-- [[ai-education]]
-## Connected Articles
-
-- [[finkelstein-principled-ai-education-2025]]
-- [[moral-panic-genai-classroom]]
-- [[youtube-frames-chatgpt-education]]
 ## Citation
 
 Bagale, A., Mehjabin, N., Unlu, A., Johri, A., et al. (2026). [A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data](https://arxiv.org/abs/2607.12295).

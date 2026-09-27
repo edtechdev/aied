@@ -58,35 +58,6 @@ Failures localize cleanly. Error simulation and the implicit reasoning structure
 - The datasets are small and domain-bound: 429 Eedi math problems with annotated misconceptions and 500 sampled SciQ science questions.
 - Proportional match is measured against a finite set of human-authored distractors and ignores other plausible options, which is more acute on SciQ where distractors were not curated around specific misconceptions; the SciQ solution-anchoring gain (30.7% relative) rests on a small absolute change (0.14 to 0.18) relative to the confidence intervals.
 
-## Connected Concepts
-- [[automated-question-generation]] — distractor generation is the task under study
-- [[student-modeling]] — the paper tests whether models can represent incorrect reasoning
-- [[misconceptions]] — misconception-based distractors are the preferred design
-- [[assessment]] — MCQ item quality is the practical stake
-- [[educational-measurement]] — distractors carry diagnostic information about understanding
-- [[benchmark]] — proportional match against human distractors is the evaluation frame
-- [[cognitive-diagnosis]] — distractors expose specific procedural gaps
-- [[prompt-engineering]] — prompting setting and solution anchoring are the manipulations
-- [[qualitative-research]] — open coding built the taxonomy
-- [[llm]] — the models whose traces are analyzed
-- [[problem-solving]] — items require solving before they can be failed
-- [[k-12]] — the datasets are grade-school and science questions
-
-## Connected Articles
-
-- [[misconception-acquisition-dynamics-llms-2026]] — teaching a model to hold a misconception through training data
-- [[llm-student-misconception-identification]] — surfacing real students' misconceptions from answer data
-- [[llm-student-simulation-misconception-faithfulness]] — whether simulators hold an assigned misconception
-- [[correct-answer-trap-misconceptions]] — the gap between correct answers and conceptual understanding
-- [[llm-misconception-difficulty-easy-trap]] — misconceptions and item difficulty estimation
-- [[student-misconceptions-conditionals-loops-taxonomy]] — a misconception taxonomy for a different subject
-- [[student-math-competence-clustering]] — clustering students by mathematical competence
-- [[llm-common-modeling-mistakes-formalisms-2026]] — common mistakes models make when modeling formalisms
-- [[simulating-students-llm-review-2026]] — the wider review of LLM-based student simulation
-- [[valid-student-simulation-llm-2026]] — validity conditions for student simulation
-- [[generate-then-validate-question-gen]] — generating then validating assessment items
-- [[inside-llm-student-simulator-reasoning-2026]] — reasoning inside an LLM student simulator
-
 ## Citation
 
 Zengaffinen, Y., Opedal, A., Rooein, D., Srivatsa, K. A., Sonkar, S., & Sachan, M. (2026). [Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation for Multiple-Choice Questions](https://arxiv.org/abs/2603.15547). *Findings of the Association for Computational Linguistics: EMNLP 2026*.

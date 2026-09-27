@@ -32,17 +32,6 @@ page_kind: [evaluation]
 - Team structure is captured on only two dimensions, team size and team age; expertise diversity, cognitive roles, and division of labor within teams are not measured.
 - Some effects are marginal: the matched Nature team-size difference (8.50 vs 8.63, p = 0.384) was not significant and the Nature team-age distribution differences were not statistically significant, and impact is measured solely by FWCI.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[educational-development]]
-- [[writing-education]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-## Connected Articles
-
-- [[ai-productivity-moderation]]
-- [[persistent-ai-agents-academic-research]]
 ## Citation
 
 Haoyang Wang, Mingze Zhang, Yi Bu, Star Xing Zhao, Meijun Liu (2026). [Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams](https://arxiv.org/abs/2605.27404). arXiv preprint.

@@ -58,24 +58,5 @@ This positions sequencing as a [[curriculum-design]] and [[governance]] decision
 - The recurring checkpoint that makes the floor enforceable is expensive in time, and recurring probes invite coaching — an acute problem for the adversarial-defense case in writing — with the mitigations left to each program to design.
 - The design asks instructors to teach a practice many are still learning themselves, and the authors warn that a floor is easy to read as a ceiling and an invariant easy to convert into a form to be filled in, leaving a program with the apparatus but not the design.
 
-## Connected Concepts
-- [[generative-ai]]
-- [[curriculum-design]]
-- [[higher-ed]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[governance]]
-- [[agency]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[teacher-role]]
-
-## Connected Articles
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency
-- [[learn-framework-responsible-genai-pbl-2026]] — The LEARN Framework for Responsible Use of Generative AI
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose Before Policy
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Governing Generative AI in Higher Education
-
 ## Citation
 Torres-Sahli, M., Blake, J., Novoa-Echaurren, Á., & Pavez, I. (2026). [*Refrain, Then Amplify: A Curriculum Framework for Sequencing Generative AI to Form Professional Judgement*](https://osf.io/preprints/edarxiv/wn9t7_v1/). EdArXiv preprint.

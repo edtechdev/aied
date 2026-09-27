@@ -67,38 +67,6 @@ The exploratory study (12 May – 9 June 2026) used a Bulgarian-language questio
 - Condition effects were very small (Kendall's W = 0.026 to 0.217), and the key agent-versus-chatbot contrast was not significant, so the study cannot rank the two AI conditions; the authors read the null as possibly reflecting students' limited practical experience with agentic workflows and the novelty of those workflows, and suggest agentic value may become visible only under sustained, authentic implementation.
 - Only student perceptions were captured — no instructor perspective — the authors describe the implementation as an initial conceptual model rather than an optimized instructional system, and the paper is a non-peer-reviewed preprint.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[human-in-the-loop-ai]]
-- [[governance]]
-- [[academic-integrity]]
-- [[trust]]
-- [[business-education]]
-- [[personalized-learning]]
-- [[pedagogical-agent]]
-- [[ai-use-disclosure]]
-- [[prompt-engineering]]
-- [[conversational-ai]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[assessment]]
-
-## Connected Articles
-
-- [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents
-- [[agentic-ai-pedagogical-best-practice-2026]] — Pedagogical best practice for agentic AI
-- [[baradziej-agentic-ai-higher-education-2026]] — Agentic AI in higher education
-- [[ai-agents-complete-lms-assessment-validity-2026]] — Assessment validity when agents can complete an LMS
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and the agentic-AI verification gap
-- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use
-- [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use
-- [[beyond-agent-label-agentic-ai-governance-2026]] — Moving beyond the agent label: agentic AI governance
-- [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
-
 ## Citation
 
 Ilieva, G., Yankova, T., Ruseva, M., Klisarova-Belcheva, S., Georgiev, P., & Totkov, G. (2026). [Agentic Generative AI in Higher Education: Perceived Benefits, Risks, and Implications for Learning](https://doi.org/10.20944/preprints202609.0580.v1). *Preprints.org* (preprint, not peer-reviewed).

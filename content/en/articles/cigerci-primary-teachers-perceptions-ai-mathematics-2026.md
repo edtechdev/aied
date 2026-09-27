@@ -64,23 +64,6 @@ The survey shows a favorable but shallow orientation: willingness (M = 3.98) and
 - Because the design is cross-sectional, the links among training, frequency of use and positive perceptions cannot be read causally; teachers who already held favorable views may be more likely to seek both.
 - The 10 interview participants all had prior AI training, so untrained teachers are not represented. The authors also note that the very high alpha may indicate item redundancy, and that no student achievement, reasoning or observed teaching quality was measured.
 
-## Connected Concepts
-
-- [[teacher-ai-competency]]: competence and AI literacy named as barriers by interviewed teachers
-- [[teacher-role]]: AI framed as support for teacher judgment rather than a substitute
-- [[tpack]]: interpretive lens for judging AI output in mathematics
-- [[professional-training]]: prior AI training as the variable most associated with favorable perceptions
-- [[formative-assessment]]: assessment and feedback as prominent perceived uses
-- [[digital-divide]]: unequal access to devices, internet and tools
-- [[generative-ai]]: ChatGPT and other tools mentioned across instructional stages
-- [[math-education|math education]]: the subject-specific context of the study
-
-## Connected Articles
-
-- [[mathematics-teachers-chatbot-motivation-2026]]: teachers' motivation for using mathematics chatbots
-- [[pre-service-science-teachers-ai-perceptions-2026]]: positive perceptions alongside limited actual use
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]: expert review of AI-supported lesson plans
-
 ## Citation
 
 Ciğerci, F. M., & Uygun, N. (2026). [*Evaluation of primary school teachers’ use and perceptions of artificial intelligence in primary school mathematics instruction: a mixed-methods study*](https://doi.org/10.3389/fpsyg.2026.1741116).

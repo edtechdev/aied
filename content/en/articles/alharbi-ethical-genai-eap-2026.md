@@ -43,25 +43,6 @@ This is an **empirical mixed-methods study** using a convergent design within a 
 - Self-selection may have favored educators already predisposed toward innovation, and the absence of longitudinal follow-up means sustained classroom transformation and student-level impact are unmeasured.
 - Outcomes rest on self-reported instruments — an adapted 24-item Likert survey (α = 0.81–0.87) and rubric-scored artifacts — rather than on observed changes in teaching or learning.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[language-learning]]
-- [[ethics]]
-- [[higher-ed]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[educational-development]]
-- [[english-education]]
-
-## Connected Articles
-
-- [[fekete-ethical-ai-literacy-gaps-2026]] — Between Promise and Practice: Bridging Ethical Artificial Intelligence Literacy Gaps Across Students, Educators, and Policy
-- [[dollinger-equitable-assessment-ai-2026]] — Equitable Assessment and AI in Higher Education
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — AI, Student Feedback, and Ethics in Education
-- [[enright-staff-perspectives-genai-2026]] — Staff Perspectives on Generative AI in Higher Education
-- [[adarkwah-genai-unesco-policy-2026]] — Generative AI and UNESCO Policy in Higher Education
-
 ## Citation
 
 Alharbi, W., Hamid, S., Abbas, S., & Salieva, Z. (2026). [*Ethical Generative AI integration in English for Academic Purposes within higher education: A mixed-methods study*](https://doi.org/10.53761/xwb6h668). *Journal of University Teaching and Learning Practice, 23*(5). (CC BY-ND 4.0.)

@@ -32,18 +32,6 @@ confidence: medium
 - The regression puts teacher support (β = -0.324) and autonomy (β = -0.192) in a negative association with ICT aspiration growth against a small positive digital-skills effect (β = 0.072), which the authors attribute to complex, context-dependent dynamics rather than a clean causal story.
 - The discriminant model's classification accuracy was moderate and the high- and low-growth groups overlapped substantially, so learning-environment indicators do not fully determine ICT career trajectories, and labor market and socio-cultural factors are left unmodeled.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[teacher-ai-competency]]
-- [[equity-in-ai-education]]
-- [[k-12]]
-- [[digital-divide]]
-- [[stem-education]]
-## Connected Articles
-
-- [[digital-literacy-illusion]]
-- [[teacher-ai-adoption-confidence]]
 ## Citation
 
 Diana Maria Popa, Simona-Vasilica Oprea, Adela Bâra (2026). [Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?](https://arxiv.org/abs/2605.27391). arXiv preprint.

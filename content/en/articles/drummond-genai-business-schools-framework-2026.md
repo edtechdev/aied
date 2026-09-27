@@ -41,24 +41,6 @@ confidence: medium
 - The question set was non-validated, piloted with colleagues and amended before dissemination; three open-ended prompts were analyzed by reflexive thematic analysis in NVivo, so the themes come from brief written answers to self-defined questions.
 - No student outcome or employability data were collected, so the framework's claimed contribution to [[ai-literacy|AI literacy]], employability, and ethical conduct remains a design proposal rather than a demonstrated effect.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[academic-integrity]]
-- [[student-engagement]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — instructor roles in formative AI assessment
-- [[ai-student-engagement-online-learning-review-2025]] — AI and student engagement in online learning
-- [[zha-ai-literacy-biology-case-study]] — a discipline-specific AI literacy case study
-- [[ai-communities-of-inquiry-2026]] — AI within communities of inquiry in higher education
-
 ## Citation
 
 Drummond, M., & Dale, G. (2026). [*Generating a student-informed teaching and learning conceptual framework for GenAI in business schools: a case study*](https://doi.org/10.53761/6jvtax83). *Journal of University Teaching and Learning Practice*, 23(6).

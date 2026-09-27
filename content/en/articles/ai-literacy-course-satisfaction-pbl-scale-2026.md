@@ -40,23 +40,6 @@ page_kind: [evaluation]
 - The AI-PBLS was not subjected to formal expert validation or cognitive interviews, so its content validity is described as preliminary; the "AI" element is defined by the instructional context rather than item wording, which means the scale assumes every respondent has completed AI-based problem-solving activities in the same course.
 - Of 1,027 participating Hong Kong secondary and university students, only 446 provided complete data for the SEM, and the sample sits within a Confucian heritage culture emphasizing teacher authority, achievement, and collectivism, so the mediation estimates may not transfer to other settings.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[project-based-learning]]
-- [[ethics]]
-- [[educational-measurement]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[self-determination-theory]]
-
-## Connected Articles
-
-- [[ai-pbl-computational-thinking-2026]] — AI-supported problem-based learning for enhancing computational thinking
-- [[educators-engagement-ai-pbl-review-2026]] — systematic review of educators' engagement with AI in problem-based learning
-- [[questionnaire-teachers-genai-uses-validation-2026]] — design and validation of a questionnaire on AI/GenAI use
-- [[ai-literacy-heptagon-2026]] — structured framework for AI literacy in higher education
-
 ## Citation
 
 [Enhancing AI literacy course satisfaction through empowerment in AI problem-solving and ethical awareness: Development and validation of an AI project-based learning scale](https://www.sciencedirect.com/science/article/pii/S2666920X2600086X) — Zhu, J., & Kong, S. C. (2026). *Computers and Education: Artificial Intelligence*, 11, 100624.

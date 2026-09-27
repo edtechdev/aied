@@ -46,21 +46,6 @@ page_kind: [synthesis]
 - Screening of the 638 deduplicated records was semi-automated through Elicit Pro, with manual abstract review of the 90 papers it flagged and 69 full texts examined before 22 were excluded, so the final set depends on one vendor's screening tool.
 - Two co-authors independently audited only 30% of extraction entries, leaving the rest single-coded by the lead author, and the synthesis is interpretive Mayring-style content analysis rather than meta-analysis, so no pooled effect size is available across the 121 research questions.
 
-## Connected Concepts
-
-- [[feedback]]
-- [[formative-assessment]]
-- [[llm]]
-- [[feedback-literacy]]
-- [[self-regulated-learning]]
-
-## Connected Articles
-
-- [[gpt-human-rater-essay-assessment-2026]] — GPT vs. human raters in essay assessment
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment
-- [[llm-automated-grading-programming-comparison-2026]] — LLM grading in programming education
-- [[chatgpt-academic-writing-quality-ownership-2026]] — ChatGPT in academic writing
-
 ## Citation
 
 Maier, U., Seibold, M., & Klotz, C. (2026). [*LLM-generated formative feedback in education: A qualitative systematic literature review*](https://doi.org/10.1016/j.caeo.2026.100374). *Computers and Education Open*, 100374. https://doi.org/10.1016/j.caeo.2026.100374

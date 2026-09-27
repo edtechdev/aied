@@ -62,26 +62,6 @@ The LLM-judge separates clearly weak submissions but ranks the strongest poorly.
 - It evaluates single-shot instructional video generation, not [[intelligent-tutoring|interactive tutoring]]; systems do not adapt to later learner questions, errors, or confusion, leaving continuous diagnosis and individualized feedback untested.
 - Student [[learning-gains|learning gains]] are never measured directly — teaching-quality ratings and the automated judge stand in as a proxy — and only the challenge winner beat the organizer baselines, so most systems had not clearly improved on a commercial product or a well-chosen human-made video.
 
-## Connected Concepts
-
-- [[teacher-ai-competency]]
-- [[pedagogical-agent]]
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[agentic-ai]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[pedagogical-llm-training]]
-
-## Connected Articles
-
-- [[teachbench-llm-teaching-evaluation]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
-- [[ai-tutor-behavioral-evaluation]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[teaching-feedback-classification-benchmark]]
-
 ## Citation
 
 Lin, Y.-C., Guo, Y.-K., Chen, S.-C., Feng, B.-H., Hsu, Y.-M., Hsieh, H., Lin, Y.-J., Wu, Y.-L., Dong, J.-K., Cheng, A.-Y., Huang, Y.-H., Ieong, L.-L., Chen, K.-Y., Tchouang, M.-D., Sun, S.-H., Lin, C., Ding, J.-J., & Lee, H.-y. (2026). [*Findings of the first Teaching Monster Challenge: A benchmark of pedagogical content knowledge in AI agents*](https://arxiv.org/abs/2608.08852).

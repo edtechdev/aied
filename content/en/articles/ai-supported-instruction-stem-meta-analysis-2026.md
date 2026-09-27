@@ -56,32 +56,6 @@ Inclusion required an AI-supported intervention in a STEM field, an experimental
 - The evidence base is mostly cognitive and achievement-focused, so affective, [[motivation|motivational]] and [[metacognition|metacognitive]] outcomes are underrepresented, the role of [[generative-ai|generative AI]] in relation to accuracy, trust and [[critical-thinking|critical thinking]] needs more study, and cross-cultural and contextual comparisons remain underexplored.
 - The authors applied no formal quality appraisal tool: methodological quality was operationalized through the predefined inclusion and exclusion criteria, and the three studies excluded for poor quality were judged on that basis rather than a validated instrument; the borderline Begg's test (p = 0.0517) is also flagged as a reason for interpretive caution.
 
-## Connected Concepts
-
-- [[meta-analysis-systematic-review]] — the study's method: pooled effect sizes from experimental STEM studies
-- [[stem-education]] — the setting and population for all included interventions
-- [[learning-gains]] — the achievement outcomes synthesized (tests, exams, standardized assessments)
-- [[intelligent-tutoring]] — one of the main AI intervention types in the pooled studies
-- [[adaptive-learning]] — adaptive platforms and sequenced feedback as intervention designs
-- [[personalized-learning]] — the personalization mechanism the authors credit for the effect
-- [[science-education]] — highest-effect subject area subgroup
-- [[math-education]] — closely matched subject area subgroup
-- [[engineering-education]] — lower-effect technology and engineering subgroup
-- [[higher-ed]] — the largest subgroup by number of studies (university level)
-- [[k-12]] — primary, middle and high school subgroups, where effects diverged sharply
-- [[ai-education]] — the broader field the synthesis contributes to
-
-## Connected Articles
-
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — meta-meta-analysis of AI on learning outcomes
-- [[genai-educational-outcomes-meta-analysis]] — meta-analysis of generative AI effects on educational outcomes
-- [[ai-stem-bibliometric-trends]] — bibliometric mapping of AI research in STEM
-- [[ai-metacognition-stem-review]] — review of AI and metacognition in STEM settings
-- [[ai-science-chemistry-education-systematic-review-2025]] — systematic review of AI in science and chemistry education
-- [[genai-meta-analysis-programming-learning]] — meta-analysis of generative AI in programming learning
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — adaptive AI in STEM with deep learning methods
-- [[ai-tutoring-quality-k12-methodologies-2026]] — methodological critique of K-12 AI tutoring evidence
-
 ## Citation
 
 Doğan, Y., Kılıç, Z., Kalınkara, Y., & Talan, T. (2026). [The Impact of Artificial Intelligence-Supported Instruction on Student Learning in STEM: A Systematic Review and Meta-Analysis](https://doi.org/10.3390/jintelligence14060109). *Journal of Intelligence, 14*(6), 109.

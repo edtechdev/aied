@@ -41,19 +41,5 @@ TriKoNet allows diagnosing the extent to which technical artifacts stabilize, de
 - The triadic Dreamer–Critic–Realist structure is analytically constructed, and the paper states its validity for natural creativity processes still requires investigation.
 - Qualitative evidence comes from single sessions of about 90 minutes plus 132 pages of interview transcripts and Miro boards, and the paper notes that the framework organizing its own analysis stayed implicit while other actants were reconstructed explicitly.
 
-## Connected Concepts
-- [[creativity]]
-- [[pedagogical-agent]]
-- [[sociocultural-learning]]
-- [[generative-ai]]
-- [[agency]]
-- [[collaborative-learning]]
-- [[design-based-research]]
-- [[agentic-ai]]
-
-## Connected Articles
-- [[emancipatory-ai-learner-flourishing-2026]] — An Emancipatory Vision for Generative AI Design
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency
-
 ## Citation
 Ruhland, C. (2026). [*TriKoNet: The Trivalence Model of Potential Co-Creativity in Socio-Technical Networks*](https://osf.io/preprints/edarxiv/bfv2d). EdArXiv preprint.

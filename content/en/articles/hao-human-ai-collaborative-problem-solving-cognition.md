@@ -62,25 +62,6 @@ Drawing on the tension between system efficiency and regulatory engagement, the 
 - The three profiles were derived by agglomerative clustering of dialogue codes (Cohen's κ = 0.81); clustering is descriptive, so the design cannot show that a profile causes the performance or regulation differences.
 - Generalizability is bounded by the task — an AGI-themed argumentation problem on the MAIC platform, done by volunteers compensated with 200 RMB.
 
-## Connected Concepts
-
-- [[human-ai-collaboration]]
-- [[collaborative-learning]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[network-analysis]]
-
-## Connected Articles
-
-- [[epistemic-emotions-collaborative-problem-solving]]
-- [[ai-cognitive-partner-co-regulation-learning]]
-- [[cognitive-offloading-llm-synthesis-writing]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-
 ## Citation
 
 Hao, Z., Liu, X., Fan, J., Long, Y., Yu, J., Chen, W., & Zhang, Y. (2026). [*Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective*](https://arxiv.org/abs/2603.21288).

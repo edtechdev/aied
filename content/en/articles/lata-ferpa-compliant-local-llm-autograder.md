@@ -56,22 +56,6 @@ The paper is a deployment and program-evaluation study rather than a benchmark. 
 - Confidence results come from a retrospective pre-test on an anonymous survey (N = 159) analyzed with unpaired Mann-Whitney U tests; the design avoids response-shift bias but tends to inflate apparent gains, so the author says the +1.49-point magnitudes should not be read as clean pre/post differences.
 - No inferential statistics are reported for the between-cohort exam comparison, by design, and the author names the single-coder thematic analysis of free responses as a limitation of the qualitative evidence.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[feedback]]
-- [[generative-ai]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[stem-education]]
-- [[higher-ed]]
-- [[llm]]
-- [[privacy]]
-- [[open-source]]
-## Connected Articles
-
-- [[short-answer-scoring-quality-degradation]]
-- [[finkelstein-principled-ai-education-2025]]
 ## Citation
 
 Rodríguez, J. A. (2026). [LaTA: A drop-in, FERPA-compliant local-LLM autograder for upper-division STEM coursework](https://arxiv.org/abs/2605.05410). Submitted to Computers & Education.

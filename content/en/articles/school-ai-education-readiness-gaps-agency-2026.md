@@ -56,24 +56,6 @@ confidence: high
 - Outcomes relied primarily on self-report indicators plus a 25-item AI-literacy test, which may not represent students' authentic engagement or practical competence.
 - Participants were 752 junior-secondary students (Mage = 14.06) in Hong Kong, so both the curriculum structure and the readiness patterns may differ in other systems.
 
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[agency]]
-- [[k-12]]
-- [[digital-divide]]
-
-## Connected Articles
-
-- [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement
-- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps?
-- [[caruana-pre-university-ai-education-slr-2026]] — Pre-university AI education: systematic review
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Scaffolded AI literacy (SAIL) framework
-- [[stanford-evidence-base-ai-k12-2026]] — The K-12 AI evidence base
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap
-
 ## Citation
 
 Liang, S., Yau, K. W., Meng, H., Chiu, T. K. F., King, I., Yam, Y., & Chai, C. S. (2026). [Does school-based AI education narrow readiness gaps? The role of prior agency-related learning](https://doi.org/10.1016/j.compedu.2026.105745). *Computers & Education, 256*, 105745.

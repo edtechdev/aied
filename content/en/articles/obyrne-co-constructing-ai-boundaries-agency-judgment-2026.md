@@ -61,21 +61,5 @@ When [[generative-ai|generative AI]] enters an authentic literacy task, verifica
 - Digital trace data cannot capture intentions or affective states, so latency, prompt evolution, and edit distance were read as interpretive signals rather than metrics, and claims required patterns recurring across multiple Trios and data sources.
 - NotebookLM was chosen as a constrained, source-grounding environment, so the boundary work it made visible is tied to a tool that supplies a bounded corpus rather than searching the web.
 
-## Connected Concepts
-- [[agency]] — enacted through interruption, correction, constraint, and refusal rather than through maximal tool use
-- [[ai-literacy]] — reframed here as judging which work should not be delegated to a system
-- [[human-in-the-loop-ai]] — reconceived as an interactional literacy practice, not a technical safeguard
-- [[evaluative-judgment]] — the credibility, relevance, adequacy, and nuance checks that structure the loop
-- [[cognitive-offloading]] — what delegation without evaluative interruption produces
-- [[teacher-education]] — the dual-positionality site where AI boundaries are rehearsed professionally
-
-## Connected Articles
-- [[preservice-teacher-agency-genai-design-learning-2026]] — pre-service teachers' agency with generative AI, traced as a process
-- [[tracing-genai-literacy-interaction-patterns]] — student-AI interaction patterns in academic writing
-- [[cognitive-offloading-llm-synthesis-writing]] — profiles of offloading in LLM-mediated synthesis writing
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — refusal as a diagnostic rather than a deficit
-- [[reclaiming-epistemic-agency-co-agency-2026]] — a critical framework for human-GenAI epistemic agency
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL as a technical safeguard in writing assessment
-
 ## Citation
 O'Byrne, W. I. (2026). [*Co-constructing AI boundaries: Agency, judgment, and ethical literacy in AI-mediated meaning-making*](https://doi.org/10.1177/23813377261476996). *Literacy Research: Theory, Method, and Practice*, 1-22.

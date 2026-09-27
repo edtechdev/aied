@@ -52,25 +52,6 @@ Analysis proceeded through three-layer hierarchical [[research-methods-aied|hier
 - **Limited control variables** — AI literacy, digital competence, frequency of use, academic discipline, and prior training were not included as potential confounders.
 - **Composite scores treated as observed indicators** rather than latent factors; no confirmatory factor analysis was reported, so measurement error is unmodeled and construct-level validity claims are limited; **Common method bias risk** from single-time-point [[self-report-measures|self-report data]]; the single-factor diagnostic used is low in sensitivity, and marker-variable or common latent factor analyses were not performed.
 
-
-## Connected Concepts
-
-- [[technology-acceptance-model]] — the paper integrates TAM/UTAUT2 with CAT and PMT as its theoretical framework
-- [[generative-ai]] — the technology whose perceived risks and benefits are modeled
-- [[hallucination-risk]] — the accuracy and reliability concerns constituting the information risk dimension
-- [[privacy]] — unauthorized data collection and misuse defining the security risk dimension
-- [[trust]] — perceived controllability and trust in AI output shape coping appraisals
-- [[self-efficacy]] — coping efficacy is the mechanism converting threat appraisal into adaptive use
-- [[higher-ed]] — the setting for the recommended AI risk-management strategies
-
-## Connected Articles
-
-- [[tam-critical-use-genai-engineering-2026]] — extended TAM predicting students' use and reliance on generative AI
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI literacy and self-efficacy as factors in student dependency
-- [[guarded-adoption-genai-higher-education-2026]] — how high-achieving students cautiously adopt Gen AI
-- [[trust-reliance-ai-education-2026]] — trust and reliance calibration in educational AI use
-- [[genai-chatgpt-adoption-ethics-students-2026]] — ethical and behavioral factors in students' ChatGPT adoption
-
 ## Citation
 
 Du, W., Ning, S., Shi, Y., & Chen, Y. (2026). [The impact of risk perception on perceived benefits of generative artificial intelligence users—an empirical study based on university students](https://doi.org/10.3389/fpsyg.2026.1866428). *Frontiers in Psychology, 17*, 1866428.

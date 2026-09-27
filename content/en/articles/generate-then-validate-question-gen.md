@@ -50,28 +50,6 @@ Automated question generation reduces manual authoring burden for educators and 
 - Surrogate judgment at scale: the ten-run ablation relied on Gemini-2.5-Pro as an LLM judge rather than human raters, so its quality estimates inherit that model's biases.
 - One small generator: both generation and validation used a single small language model (Phi-2), so the results may not transfer to other generators or model families.
 
-## Connected Concepts
-
-- [[automated-question-generation]]
-- [[automated-assessment]]
-- [[llm]]
-- [[assessment]]
-- [[generative-ai]]
-- [[hallucination-risk]]
-- [[item-response-theory]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-## Connected Articles
-
-- [[code-gen]] — CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation
-- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models
-- [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal Item Parameter Estimation using Simulated Response Probabilities
-- [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
-- [[llm-educational-question-cognitive-depth]]
-- [[cross-dataset-bloom-question-classification]]
-
 ## Citation
 
 Wei, Y., Stamper, J., & Carvalho, P. F. (2026). [*Generate-Then-Validate: Question Generation for Education*](https://arxiv.org/abs/2512.10110).

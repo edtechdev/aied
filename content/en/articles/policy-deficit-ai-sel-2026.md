@@ -6,7 +6,6 @@ type: article
 foundations: [ai-education]
 pedagogy: [social-emotional-learning]
 ethics: [equity-in-ai-education, ethics]
-connected_faqs: [ai-anxiety-wellbeing]
 sources: ['raw/papers/policy-deficit-ai-sel-2026.md']
 confidence: high
 audience: [policymakers, researchers, institutions]
@@ -58,29 +57,5 @@ Rather than treating policy as a generic ethical horizon, the authors argue AI�
 - Only empirical studies, meta-analyses, and systematic reviews were eligible; conceptual papers, commentaries, reports, and working papers were excluded.
 - Coding of implicit policy implications is subjective, as the authors acknowledge — two authors coded individually and resolved disagreement with a third, with no inter-coder reliability statistic reported.
 - No time-frame limit was applied, and each distinct implication statement rather than each paper was the unit of analysis, so papers contribute unequally to the counts.
-## Connected Concepts
-- [[ai-education]]
-- [[social-emotional-learning]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[ethics]]
-- [[meta-analysis-systematic-review]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[teacher-role]]
-- [[well-being]]
-- [[generative-ai]]
-
-## Connected Articles
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory Governance in AI Higher Ed
-- [[adarkwah-genai-unesco-policy-2026]] — GenAI UNESCO Policy
-- [[guided-inquiry-genai-course-policy-2026]] — Guided Inquiry into GenAI Course Policies
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose Before Policy
-- [[institutional-governance-ai-universities]] — Institutional Governance of AI in Universities
-- [[genai-assessment-governance]] — GenAI Assessment Governance
-- [[league-ethical-governance-student-data-2026]] — Ethical Governance of Student Data
-- [[ai-uk-higher-education-policy-2026]] — AI in UK Higher Education Policy
-
 ## Citation
 Tran, V. C., Liu, Y., & Nguyen, V. T. (2026). [*The Policy Deficit in AI × Social-Emotional Learning Research*](https://arxiv.org/abs/2608.29950). arXiv:2608.29950.

@@ -39,24 +39,6 @@ This paper contributes to the growing body of [[research-methods-aied|research]]
 - Performance figures come from a single plate size (150x150 mm) measured by a test harness, and primitive counts vary by chart type (214 for scatter, 218 for box plots against 172 for histogram and line), so timing and file-size behavior on other plate sizes is not established.
 - The roughly two-hours-per-chart baseline and the practical bottleneck claim come from engagement with a single statistics course (institution withheld), and support is limited to five chart types at Grade 1 Braille, with Grade 2 Braille and additional chart types named as future work.
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[intelligent-tutoring]]
-- [[equity-in-ai-education]]
-- [[inclusive-learning]]
-- [[special-education]]
-- [[universal-design-for-learning]]
-- [[neurodiversity]]
-## Connected Articles
-
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
-- [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
-- [[gaze-informed-ai-children]] — Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
-- [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
-- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analyzing Dyslexic Learners Insights from Online Forums
-- [[cogtax-cognitive-taxonomy]] — CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education
-
 ## Citation
 
 Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, Sampath Jayarathna (2026). [Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education](https://arxiv.org/abs/2607.01214). IEEE IRI 2026, submitted 1 Jul 2026

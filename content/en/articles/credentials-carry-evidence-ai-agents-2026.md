@@ -65,27 +65,6 @@ The infrastructure this requires is not exotic: learning environments that emit 
 
 - The paper's own warnings bound the proposal: the credential rests on a [[assessment-validity|chain of inferences]] in which agents break the first link, and it insists the measurement layers must be validated with the same rigor as the assessments they replace, including avoiding circular validation in which one model certifies another.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[academic-integrity]]
-- [[higher-ed]]
-- [[edtech-platform]]
-- [[generative-ai]]
-- [[agentic-ai]]
-- [[governance]]
-- [[ai-education]]
-- [[automated-assessment]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[competency-based-education-genai-production-2026]] — Knowledge, Skills, Attitudes, Production: Competency-Based Education After Generative AI
-- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
-- [[detecting-llm-generated-text-latent-prompt]] — Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration
-- [[valid-student-simulation-llm-2026]] — Toward Valid Student Simulation with Large Language Models
-- [[ai-grading-handwritten-physics-2026]] — Large Scale AI Grading of Handwritten Physics Assessments
-
 ## Citation
 
 Srivastava, S. (2026). [*Credentials That Carry Their Evidence: Credential design, dynamic tiering, and approved use when AI agents can do the work*](https://osf.io/preprints/edarxiv/63rea_v1/). EdArXiv preprint.

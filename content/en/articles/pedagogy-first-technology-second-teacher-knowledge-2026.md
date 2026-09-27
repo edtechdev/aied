@@ -36,22 +36,6 @@ methods: [quantitative-research]
 - Those 46 teachers taught 2,832 students in 144 classes across 29 schools, so teacher-level estimates rest on a small number of higher-level units.
 - All constructs — teacher knowledge and students' SAIK, SAISG, and SBIAI — were measured with self-report Likert questionnaires, with no observed classroom or achievement data.
 - Data cover a single academic year (September 2023 to May 2024); the authors note longitudinal dynamics were not captured and that students' informal AI exposure may introduce unmeasured mediators.
-## Connected Concepts
-
-- [[tpack]]
-- [[teacher-ai-competency]]
-- [[k-12]]
-- [[teacher-education]]
-- [[pedagogy]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[tpack-genai-inservice-teachers-mediation-2026]] — in-service teachers' TPACK-GenAI and pedagogical mediation (Mohebi & ElSayary 2026)
-- [[preservice-teachers-responsible-genai-2026]] — pre-service teacher preparation for responsible GenAI use (Kohnke et al. 2026)
-- [[stanford-evidence-base-ai-k12-2026]] — evidence base for K-12 AI education
-- [[school-ai-education-readiness-gaps-agency-2026]] — school AI-education readiness gaps and teacher agency
-
 ## Citation
 
 [Pedagogy first, technology second: Cross-level relationships between teacher professional knowledge and student learning in artificial intelligence (AI) education](https://www.sciencedirect.com/science/article/pii/S2666920X26000263) — Shen, W., Chai, C.-S., Chiu, T. K. F., Yau, K. W., Meng, H., King, I., Wong, S., & Yam, Y. (2026). *Computers and Education: Artificial Intelligence*, 10, 100564.

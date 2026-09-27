@@ -13,7 +13,6 @@ research_method: [policy analysis, theoretical analysis]
 discipline: [language learning, writing education]
 level: [higher ed]
 audience: [administrators, assessment designers, policymakers, learners]
-connected_faqs: [redesign-assessment-ai-era, course-ai-policy, equity-ethics-pedagogical-safety-research]
 page_kind: [framework]
 sources: ['raw/papers/li-genai-assessment-language-equity-2026.md']
 confidence: high
@@ -71,34 +70,6 @@ Li is explicit that the analysis is not empirical: it does not measure student b
 - The article is doctrinal and normative rather than empirical: it measures neither student behavior nor policy comprehension, and it makes no claims about rates of GenAI use among EAL students.
 - The policy grounding is Australian and illustrative. TEQSA guidance from 2023 to 2025 and Universities Australia (2017) supply the reference points, with no jurisdictional survey behind them, so transfer of the framework to other national regimes is untested.
 - No reliability evidence exists for the framework's own instruments: the Box 1 quick tests and Box 3 decision rubric were not trialed with markers, leaving the paper's expectation that two markers characterize the same conduct alike, and its three proposed follow-up studies, untested.
-
-## Connected Concepts
-
-- [[academic-integrity]] — Fairness and responsibility are the values that anchor the language equity argument
-- [[equity-in-ai-education]] — Language equity is reframed as a legality and rule-design problem
-- [[multilingual-learning]] — EAL cohorts are the population whose burdens the framework is built to reduce
-- [[assessment-validity]] — Kane's interpretation/use argument and Messick's consequential validity structure the boundary
-- [[ai-use-disclosure]] — Disclosure is calibrated rather than exhaustive to avoid cohort-skewed compliance costs
-- [[ai-detection]] — Detector output is demoted to a triage signal that cannot carry a finding
-- [[generative-ai]] — The same interface performs permitted editing and prohibited drafting
-- [[assessment]] — Construct clarity and rubric design make the boundary workable
-- [[language-learning]] — Translation for comprehension and iterative editing count as legitimate support
-- [[educational-policy-ai]] — The deliverable is a model policy architecture with clauses and decision rubrics
-- [[governance]] — Cohort-level monitoring closes the loop between integrity enforcement and quality assurance
-- [[culturally-relevant-pedagogy]] — Cultural specificity of authorship proxies is a reason to distrust surface signals
-- [[authentic-assessment]] — Staged tasks and construct-aligned verification generate evidence without surveillance
-- [[trust]] — Legitimacy depends on rules students can understand, comply with, and see as fair
-- [[legal-issues-and-risks]] — reviewability, procedural fairness and the exposure created by imprecise rules
-## Connected Articles
-
-- [[dollinger-equitable-assessment-ai-2026]] — Equity as an explicit criterion for GenAI-era assessment design
-- [[genai-linguistic-diversity-academic-writing]] — Linguistic diversity and bias in AI-mediated academic writing
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — The parallel argument that purpose should precede policy
-- [[genai-assessment-governance]] — Institutional governance of GenAI assessment beyond single-tool rules
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceiving assessment validity when authorship is distributed
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Disclosure regimes and what assessment can infer from them
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Linguistic bias in writing feedback and marking
-- [[ivory-psychology-assessment-integrity-2026]] — Program-level evidence that the marking boundary, not detection, is the weak point
 
 ## Citation
 

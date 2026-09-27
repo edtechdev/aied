@@ -31,22 +31,6 @@ audience: [instructors, assessment designers]
 - Exam confidence, task-specific self-efficacy, and trust in automated feedback were measured by 5-point Likert self-report surveys rather than behavioral measures.
 - The automated marking pipeline is a proprietary system supplied free of charge by its developer (Cortex Global) for the study period, so the marking method is not reproducible from the reported details alone.
 
-## Connected Concepts
-
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[k-12]]
-- [[stem-education]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-## Connected Articles
-
-- [[llm-handwritten-math-grading]]
-- [[cong-confidence-asag-2026]]
-- [[hybrid-e-assessment-semi-automated-grading]]
-- [[short-answer-scoring-quality-degradation]]
 ## Citation
 
 Matey Yordanov, Mikhail Bychkov, Andrei Kuchma (2026). [The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences](https://arxiv.org/abs/2607.23566).

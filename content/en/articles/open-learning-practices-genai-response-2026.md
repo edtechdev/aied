@@ -65,34 +65,6 @@ His affirmative case rests on three claims: students learn research transparency
 
 This is a position paper, not an empirical study. Boysen offers a conceptual translation and a table of practices; he reports no classroom implementation, no student outcome data, no comparison against the banning or embracing alternatives, and no evidence that documentation actually deters [[ai-misuse-learning-harm|AI misuse]] or improves learning. The benefits he lists, reduced cheating motivation, better skill development, learning-focused intervention, are plausible mechanisms rather than demonstrated effects. The disadvantages are likewise asserted rather than measured, including the workload estimate and the grade-inflation concern. Feasibility questions the paper does not resolve include [[privacy|student privacy]] and consent when process data are collected, the position of students without reliable access to versioned cloud tools or AI platforms, and whether the intensive documentation model scales across a full teaching load. The proposal is best read as a framework inviting [[research-methods-aied|research]] rather than a validated intervention, and its value now is the reframing it offers: from detecting AI in products to observing learning in processes.
 
-## Connected Concepts
-
-- [[academic-integrity]] — the crisis of trust the proposal answers, and the target of its documentation model
-- [[ai-detection]] — the surveillance alternative Boysen rejects as unreliable in both directions
-- [[ai-use-disclosure]] — AI contribution statements plus exported chat transcripts as the reporting layer
-- [[assessment]] — relocated from final product to documented process, which is the paper's central move
-- [[assessment-validity]] — the claim that unsupervised work no longer supports inferences about learning
-- [[authentic-assessment]] — process evidence, portfolios and revisions as the observable object of evaluation
-- [[formative-assessment]] — early, learning-focused intervention on work in progress rather than final judgment
-- [[generative-ai]] — the capability that broke the assumption of attributable student work
-- [[higher-ed]] — the sector-wide context of the proposed change
-- [[pedagogical-partnerships]] — the shared learning plan as a negotiated agreement between teacher and student
-- [[research-methods-aied]] — the open science heritage the proposal borrows and the empirical work it invites
-- [[self-regulated-learning]] — documented steps as visible regulation of the learning process
-
-## Connected Articles
-
-- [[authentic-products-authenticated-processes-2026]] — The product-versus-process reframing that Boysen's proposal operationalizes
-- [[beyond-detection-authentic-assessment-ai-2025]] — Moving past detection toward assessment that can attribute learning
-- [[end-of-assessment-ai-disruption-transformation-2026]] — How GenAI disrupts established assessment and what replaces it
-- [[ivory-psychology-assessment-integrity-2026]] — Assessment integrity in psychology teaching, the disciplinary home of this proposal
-- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — Linking generative AI, authentic assessment and integrity
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose-driven integrity practice ahead of policy mandates
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student disclosure decisions as the reporting-transparency problem
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The friction and costs hidden inside AI disclosure requirements
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Portfolios as evidence of learning process in AI-mediated work
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Diagnostics grounded in the process rather than the product
-
 ## Citation
 
 Boysen, G. A. (2026). [*A proposal for open learning practices in response to Generative Artificial Intelligence*](https://doi.org/10.1037/stl0000484). *Scholarship of Teaching and Learning in Psychology*.

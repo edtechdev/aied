@@ -34,18 +34,6 @@ The [[pedagogy|pedagogical]] claim is that interpretive diversity in labeling is
 - The two institutions ran different pedagogical designs, and those contextual differences plus variations in group composition were never systematically analyzed.
 - The consensus finding rests on survey responses alongside only moderate Fleiss' kappa rather than recorded discussions, so the authors call for follow-up work using recorded group discussions to test whether the gap comes from metric confusion, social dynamics or beliefs about ground truth.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[bias-mitigation]]
-- [[cs-education]]
-- [[student-experience]]
-- [[critical-thinking]]
-
-## Connected Articles
-
-- [[critical-thinking-genai-scaffolding]]
-
 ## Citation
 
 Raumanns, R., Elstner, T., Ferger-Andrews, L., Carlsen, L. M., Potthast, M., & Schouten, G. (2026). [Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking](https://arxiv.org/abs/2607.20149). arXiv preprint (cs.CY).

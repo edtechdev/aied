@@ -57,35 +57,6 @@ This is a significant, high-confidence contribution to the knowledge base's [[pe
 - Quality was appraised with the Mixed Methods Appraisal Tool, but ratings were not quantitatively weighted, and the review is a descriptive thematic synthesis rather than a statistical meta-analysis.
 - Variation in the included studies' designs, methodological quality, and implementation contexts may partly explain their divergent findings, and the review cannot isolate which specific AI components drive reported effects.
 
-## Connected Concepts
-
-- [[personalized-learning]] — The review's central subject; it systematically synthesizes the field's trends, pathways, and future directions, directly advancing this concept.
-- [[adaptive-learning]] — Contemporary AI personalized systems use adaptive algorithms (collaborative filtering, recommendation, deep learning) to adjust content, pacing, and delivery in real time.
-- [[intelligent-tutoring]] — Traces the evolution from 1970s–1980s rule-based ITS through to generative-AI-driven virtual tutors and conversational agents.
-- [[ai-education]] — The overarching field the review surveys, mapping research priorities, geographic spread, methods, and subject areas across AIED.
-- [[generative-ai]] — Explicitly operationalized as context-sensitive AI producing text, feedback, materials, or dialogue; a transformative catalyst in Education 5.0.
-- [[llm]] — Large language models enable contextually appropriate feedback, personalized materials, and natural-language learner interaction.
-- [[student-modeling]] — Early ITS student models track learner progress and characteristics; modern learner profiles integrate clickstream, assessment, and interaction data.
-- [[assessment]] — AI-enabled predictive analytics, AI-supported oral assessment, and continuous evaluation improve assessment validity, inclusivity, and early intervention.
-- [[feedback]] — Real-time, personalized feedback is a core mechanism of AI-driven personalized learning pathways and engagement.
-- [[learning-analytics]] — Emerged in the 1990s as a discipline focused on systematic collection, analysis, and interpretation of educational data.
-- [[teacher-role]] — Teacher readiness, digital competence, acceptance, and trust are critical factors in effective AI integration.
-- [[pedagogy]] — The review argues for explicit alignment of AI features with constructivist and social learning theories.
-- [[learning-design]] — Adaptive content sequencing, learner-controlled pacing, and content personalization are grounded in constructivist learning design.
-- [[higher-ed]] — A dominant context of the reviewed studies; also professional disciplines such as nursing and medicine.
-- [[ethics]] — Data privacy, algorithmic bias, transparency, accountability, and epistemic trust are central cross-cutting concerns.
-- [[equity-in-ai-education]] — AI can both broaden access and perpetuate inequalities; cultural tailoring, cross-cultural validation, and equitable access are emphasized.
-- [[agency]] — Teacher agency and digital literacy emerge as pivotal factors for equitable, impactful AI integration.
-- [[self-regulated-learning]] — AI's influence on motivation, self-regulation, and metacognitive awareness is noted as an under-measured benefit of personalization.
-- [[k-12]] — Mentions early childhood education and computational/creative thinking among younger learners as future directions.
-
-## Connected Articles
-
-- [[ai-ethics-bibliometric-2026]] — Bibliometric companion examining the ethics landscape of AI in education.
-- [[scaffolding-systematic-reviews-2026]] — Methodological precedent for systematic review workflows in the knowledge base.
-- [[computational-thinking-aica-2026]] — Empirical K-12 study on AI coding assistants and learner characteristics complementing this field-wide review.
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — The Zhang et al. (2024) meta-analysis cited throughout this review on AI interventions for diverse learner populations.
-
 ## Citation
 
 Ikram, M., Hanefar, S. B. M., Saleem, S. M. U., & Zulfiqar, F. (2026). [*Artificial intelligence in education: a systematic review of personalized learning trends and future directions*](https://doi.org/10.3389/feduc.2026.1782626). *Frontiers in Education*, 11:1782626.

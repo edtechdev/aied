@@ -54,25 +54,6 @@ confidence: high
 - The evidence is small and largely self-reported: 7 groups' final videos, 18 end-of-unit survey responses and 12 daily reflections.
 - The researchers' own instruction shaped what students made — the AI Bill of Rights discussion and the PSA genre study influenced topic choices — and some technical terms (e.g., "failsafe") were never explained, which the authors concede.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[critical-pedagogy]]
-- [[multimodal]]
-- [[ethics]]
-- [[agency]]
-- [[storytelling-in-education]]
-- [[student-engagement]]
-- [[creativity]]
-
-## Connected Articles
-
-- [[posthumanist-ai-literacy-2025]] — Posthumanist reframing of AI literacy theory and practice
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Reorienting critical AI literacy toward critique and power
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Multiliteracies and AI portfolios in youth learning
-- [[youth-enter-chat-llm-student-talk-2026]] — How youth talk with language models in everyday learning
-- [[multimodal-learning-genai]] — Generative AI in multimodal learning contexts
-
 ## Citation
 
 Burriss, S. K., Eeds, A., Smith, B. E., Ziegler, H. H., Villanueva, A., & Deweese, M. (2026). [*"Young Scholar[s] on the Beat": Multimodal composition as a form of critical AI literacy pedagogy*](https://doi.org/10.1002/jaal.70064). *Journal of Adolescent & Adult Literacy*, 70(2), e70064.

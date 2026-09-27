@@ -37,19 +37,6 @@ page_kind: [evaluation]
 - The non-deterministic nature of LLMs introduced stochastic variation that the authors acknowledge may have influenced results, and the fine-tuning dataset of 245 human-generated listening items may not capture the full range of listening and content variation present in operational assessment contexts.
 - The evaluation rubric itself may be limited: professionally written distractors may appear less plausible in the analysis because they reflect likely test-taker misunderstandings or discourse-level inferences even when not tied to explicit passage wording.
 
-## Connected Concepts
-
-- [[llm]]
-- [[language-learning]]
-- [[assessment-validity]]
-- [[prompt-engineering]]
-- [[speech-and-voice-technologies]]
-## Connected Articles
-
-- [[llm-item-difficulty-prediction]] — LLM-based item difficulty prediction
-- [[item-writing-flaws-irt-difficulty-2026]] — item-writing flaws and IRT difficulty/discrimination (Schmucker & Moore 2026)
-- [[llm-agents-5e-esl-grammar-2026]] — LLM agents for ESL grammar (Yang et al. 2026)
-
 ## Citation
 
 [How to train your dragon: Evaluating prompting and fine-tuning for GPT-based item generation in L2 listening assessment](https://www.sciencedirect.com/science/article/pii/S2666920X26000792) — Aryadoust, V., & Wong, J. (2026). *Computers and Education: Artificial Intelligence*, 10, 100623.

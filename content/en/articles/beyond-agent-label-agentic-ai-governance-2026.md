@@ -71,31 +71,6 @@ This review consolidates and operationalizes the [[agentic-ai|agentic-AI]] gover
 - Screening and coding were done by one author with no second-reviewer reliability estimate, and the authors state the AOE framework is a proposal for validation, not a validated risk score.
 - Several retained sources are preprints or advance publications and the evidence base is concentrated in brief, single-context evaluations — the admissions-counseling deployment, for instance, ran two weeks at a cost of US\$11.58 and measured accuracy and hallucination rather than applicant decisions, access equity, appeal rates, or staff workload. The review's overall conclusion is correspondingly cautious: agentic AI may improve selected educational processes, but the field does not yet justify broad claims of sustained educational effectiveness or safe institutional autonomy.
 
-## Connected Concepts
-
-- [[agentic-ai]] — the construct the review redefines behaviorally
-- [[higher-ed]] — the deployment context
-- [[governance]] — the institutional governance requirements
-- [[human-in-the-loop-ai]] — accountable human control / oversight levels
-- [[regulation]] — EU AI Act and high-risk classification
-- [[equity-in-ai-education]] — the equity outcomes whose evidence is weakest
-- [[ethics]] — ethical validation and risk management
-- [[generative-ai]] — the tool class agentic systems extend
-- [[pedagogical-agent]] — conventional agents distinguished from agentic systems
-- [[transfer-of-learning]] — durable learning as a learner-level outcome
-- [[llm]] — the underlying model technology
-- [[metacognition]] — a learner-level outcome of interest
-
-## Connected Articles
-
-- [[baradziej-agentic-ai-higher-education-2026]] — systematic review of the roles of agentic AI in higher education
-- [[kostopoulos-agentic-ai-education-2025]] — agentic AI definitional checklist + taxonomy
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — inclusive agentic multi-agent ecosystem
-- [[agentic-ai-education-scoping-review]] — scoping review of agentic AI in education
-- [[tool-invariant-framework-agentic-ai]] — tool-invariant framing of agentic AI
-- [[institutional-governance-ai-universities]] — institutional governance of AI in universities
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — anticipatory governance of AI in higher ed
-
 ## Citation
 
 Dey, A. (2026). [*Beyond the agent label: Evidence maturity, human monitoring, and governance of agentic AI in higher education*](https://osf.io/preprints/edarxiv/va5pz_v1/). *EdArXiv preprint*.

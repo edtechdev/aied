@@ -42,30 +42,6 @@ methods: [ai-ed-evaluation, benchmark]
 - One standardized few-shot prompt (three fixed examples) was used for all 97 models, a setting the authors note may handicap reasoning models, which have a separate output space.
 - The benchmarks are static multiple-choice knowledge items: they cannot test generating a lesson plan, differentiating materials, or scaffolding a student turn by turn, and because CDPK and SEND results correlate highly the authors cannot be certain they isolate pedagogical knowledge rather than general MCQ ability; the ~50% human figure is an estimate from whole exams, not question-level data.
 
-## Connected Concepts
-
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[professional-training]]
-- [[k-12]]
-- [[special-education]]
-- [[llm]]
-- [[ai-literacy]]
-- [[educational-policy-ai]]
-- [[open-source]]
-
-## Connected Articles
-
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: evaluating LLM teaching ability
-- [[teaching-monster-pck-benchmark-2026]] — Teaching Monster Challenge: benchmark of pedagogical content knowledge
-- [[chen-teacharena-language-agents-realistic-teaching-2026]] — EduAgentBench: agent teaching benchmark
-- [[elbench-education-llm-benchmark-2026]] — ELBench: education LLM benchmark
-- [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index
-
 ## Citation
 
 Lelièvre, M., Waldock, A., Liu, M., Valdés Aspillaga, N., Mackintosh, A., Ogando Portelo, M. J., Lee, J., Atherton, P., Ince, R. A. A., & Garrod, O. G. B. (2025). [*Benchmarking the pedagogical knowledge of large language models*](https://arxiv.org/abs/2506.18710v1). Leaderboard: The Pedagogy Benchmark.

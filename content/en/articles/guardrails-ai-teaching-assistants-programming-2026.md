@@ -57,28 +57,5 @@ Comprehension was coded from 128 non-blank post-task explanations of the matrix 
 - Comprehension, interaction-stress, and external-LLM-use differences were descriptive only; only task-completion perceptions and the two behavioral measures were significant.
 - [[qualitative-research|Qualitative]] coding involves subjectivity, mitigated by a codebook, transparent reporting, and a flowchart.
 
-## Connected Concepts
-- [[guardrails]]
-- [[intelligent-tutoring]]
-- [[socratic-method]]
-- [[help-seeking]]
-- [[cs-education]]
-- [[scaffolding]]
-- [[conversational-ai]]
-- [[rct]]
-- [[student-engagement]]
-- [[cognitive-offloading]]
-- [[llm]]
-
-## Connected Articles
-- [[conversational-agents-novice-programmers-scoping-2025]] — Exploring Conversational Agents for Novice Programmers: A Scoping Review
-- [[llm-programming-support-governance-cs-education]] — Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance
-- [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — The Socratic trap: Benchmarking the capacity of large language models to generate strategic misconceptions in computer science education
-- [[socratic-ai-physics-tutor-taxonomy-2026]] — A Bottom-Up Taxonomy of Student Discourse with a Socratic AI Physics Tutor
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated Help-Seeking
-
 ## Citation
 Eastwood, M., Narne, H., Hilby, J., Denny, P., Aggarwal, A., & Kapoor, A. (2026). [*Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming*](https://arxiv.org/abs/2609.29995). arXiv preprint.

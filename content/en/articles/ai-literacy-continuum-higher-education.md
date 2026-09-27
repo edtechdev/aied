@@ -44,22 +44,6 @@ The five stages are explicitly intended as a diagnostic device, not just a descr
 - The case combines credit-bearing courses, intensive workshops, and outreach reaching over 330 participants, including high school students and international visitors, and reports no per-program completion or attrition counts — so the proportions of learners reaching later stages cannot be estimated.
 - The continuum was developed from observations primarily in North American higher education, and the authors state that cultural and institutional variation may affect its applicability; students may also sit at different stages for different tasks or disciplines, which the single stage label hides.
 
-## Connected Concepts
-- [[reducing-ai-misuse]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[ethics]]
-- [[educational-development]]
-- [[student-experience]]
-## Connected Articles
-
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
-- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
-- [[critical-media-literacy-education-2026]] — Technology, Education and Critical Media Literacy: Potential, Challenges, and Opportunities
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[ai-literacy-career-adaptability-business-2026]] — AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education
-
 ## Citation
 
 Liu & Levy (2026). [Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education](https://arxiv.org/abs/2606.00038).

@@ -4,7 +4,6 @@ created: "2026-09-08T02:39:41-04:00"
 updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [ai-literacy, human-ai-collaboration]
-connected_faqs: [institutional-ai-policy]
 pedagogy: [professional-training]
 sources: ['raw/papers/tan-aigem-ai-educational-management-2026.md']
 research_method: [theoretical analysis, policy analysis]
@@ -43,24 +42,6 @@ institutions: [change-management, educational-policy-ai, governance]
 - The framework is built from Scopus- and Web of Science-indexed publications and policy documents from UNESCO, OECD, the European Commission, ISO, and national bodies; no institution-level implementation data were gathered.
 - It was developed without data from the practitioners it addresses: no educational leaders, faculty, or students were surveyed or interviewed about these governance arrangements.
 
-## Connected Concepts
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[administrator]]
-- [[change-management]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[professional-training]]
-- [[higher-ed]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — AI educational-leadership taxonomy
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Governing GenAI in higher ed (Delphi)
-- [[institutional-governance-ai-universities]] — Institutional governance of AI in universities
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — AI faculty-readiness instrument
 ## Citation
 
 Tan, Q., Peng, Y., Han, W., & Santaveesuk, P. (2026). [Artificial Intelligence in Educational Management: Opportunities, Challenges, and Future Directions](https://internationalsped.com/index.php/ijse/article/view/5895). *International Journal of Special Education, 41*(19s), 1239-1252.

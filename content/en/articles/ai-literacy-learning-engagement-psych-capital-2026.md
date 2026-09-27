@@ -48,27 +48,6 @@ Analysis used SPSS for descriptives and correlations and SmartPLS for partial le
 - Only psychological capital as a composite construct was tested as a mediator; future work should disaggregate AI self-efficacy, technological resilience, and other specific mediators.
 - Rapid iteration of [[generative-ai|generative AI]] is shifting use from shallow instrumental application toward deep collaborative co-creation, so the conceptualization and measurement of AI literacy — and assessment tools capable of capturing adaptability and reflection across usage patterns — must evolve accordingly.
 
-## Connected Concepts
-
-- [[ai-literacy]] — the independent variable, treated as a technological cognitive resource that predicts engagement directly and via psychological capital
-- [[student-engagement]] — the outcome, operationalized as vigor, dedication, and absorption on the UWES-S
-- [[self-efficacy]] — one of the four psychological capital dimensions and the theoretical hinge of the cognitive mechanism
-- [[self-determination-theory]] — used to explain how autonomy and competence need satisfaction convert AI literacy into psychological resources
-- [[motivation]] — the intrinsic motivational state that need satisfaction activates along the pathway
-- [[learner-identity]] — professional commitment as identity-based boundary condition; self-verification and social identity theories account for its amplifying role
-- [[career-development-and-readiness]] — the study frames professional commitment as a malleable, career-relevant psychological variable that institutions can cultivate
-- [[higher-ed]] — institutional context for the intervention implications
-
-## Connected Articles
-
-- [[genai-motivation-engagement-2026]] — SDT-based modeling of autonomy support and autonomous motivation as mediators of GenAI's effect on engagement, testing an adjacent motivational pathway
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — decomposes GenAI-supported learning by autonomy, competence, and relatedness satisfaction, the same needs mechanism invoked here
-- [[liang-ai-learning-motivation-sdt-2026]] — latent transition analysis linking self-determined motivational profiles to gains in AI literacy, the reverse-direction counterpart to this pathway
-- [[wang-goal-setting-ai-engagement-2026]] — SEM study of learning engagement in AI-assisted learning with a different motivational lens (achievement goal orientations)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — shows AI literacy alone does not protect against overreliance and that self-efficacy matters at least as much, echoing the "literacy is not enough" argument
-- [[ai-literacy-career-adaptability-business-2026]] — finds AI readiness and AI self-efficacy, not literacy alone, link AI competence to career adapt-abilities, a parallel mediation account
-- [[sun-llm-nursing-education-professional-identity-2026]] — examines how AI integration reshapes professional identity formation, the construct this study treats as a moderator
-
 ## Citation
 
 Wang, N. (2026). [The impact of artificial intelligence literacy on learning engagement among university students: the mediating role of psychological capital and the moderating role of professional identity](https://doi.org/10.3389/fpsyg.2026.1892204). *Frontiers in Psychology, 17*, 1892204.

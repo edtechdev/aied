@@ -57,30 +57,5 @@ Part of the wiki's value is [[pedagogy|pedagogical]], not technical. Citations f
 - Scoring used one judge rating plus a binary groundedness flag instead of the RAGAS context recall, faithfulness, and factual correctness triad, and each arm was answered once, so answerer and judge stochasticity went unmeasured.
 - Cost — ingest compute, query tokens, latency — went unmeasured, so the price of compiling a wiki at ingest is unknown.
 
-## Connected Concepts
-- [[rag]]
-- [[llm]]
-- [[hallucination-risk]]
-- [[knowledge-graph]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[ai-ed-evaluation]]
-- [[curriculum-design]]
-- [[student-ai-interaction]]
-- [[retrieval-spacing-interleaving]]
-- [[self-regulated-learning]]
-- [[trust-calibration]]
-- [[machine-learning]]
-- [[higher-ed]]
-- [[multimodal]]
-
-## Connected Articles
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-- [[eduguard-safe-rag-llm-tutor]] — EduGuard: A Safe RAG-Based LLM Tutor for Programming Education
-- [[structrag-diagram-reasoning-ai-tutoring]] — Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education
-
 ## Citation
 Wright, B. (2026). [Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing](https://arxiv.org/abs/2609.25303). arXiv:2609.25303.

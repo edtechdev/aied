@@ -60,25 +60,6 @@ Participants were 120 music majors aged 20 to 24 at one university, each with at
 - Cosine similarity, detection recall, and cumulative reward are technical proxies that do not measure artistic expression, motivation, or retention.
 - Audio processing assumes monophonic input, and the system ran on a high performance cluster rather than classroom hardware. Expert review covered only three raters and 30 excerpts and is reported descriptively. The authors present the work as technical feasibility with preliminary educational potential.
 
-## Connected Concepts
-
-- [[adaptive-learning]] — the closed loop as a real-time adaptive learning architecture
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[multimodal]]
-- [[generative-ai]]
-- [[formative-assessment]]
-- [[ai-feedback-quality]]
-- [[automated-assessment]]
-- [[human-ai-collaboration]]
-- [[mastery-learning]]
-
-## Connected Articles
-
-- [[musical-education-ai-digital-transformation-2026]] — Challenges for Musical Education in the Age of AI and Digital Transformation
-- [[gpt4o-mini-music-analysis-scoring]] — Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses
-- [[riedmann-reinforcement-learning-education-review-2026]] — Reinforcement Learning in Education: A Systematic Literature Review
-
 ## Citation
 
 Zhu, Z., Luo, C., & Li, L. (2026). [*Adaptive teaching assistance model combining generative AI and big data analytics*](https://doi.org/10.3389/fpsyg.2026.1844703).

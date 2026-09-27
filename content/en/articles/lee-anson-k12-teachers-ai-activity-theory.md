@@ -38,15 +38,5 @@ methods: [qualitative-research]
 - The data capture one moment in AI development — collected April 5 to May 22, 2023, roughly six months after the sudden public interest in generative AI.
 - Only three broad open-ended questions were used, with a missing-response rate of about 15.7%; more structured questions tied to activity-theory constructs would probe deeper.
 
-## Connected Concepts
-- [[activity-theory-aied]]
-- [[teacher-role]]
-- [[k-12]]
-- [[generative-ai]]
-- [[qualitative-research]]
-
-## Connected Articles
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity theory as a lens on teachers' adoption of AI (SEM)
-
 ## Citation
 Lee, J., & Anson, D. W. J. (2027). [*K-12 teachers' perspectives on AI use in education through the lens of activity theory*](https://rptel.apsce.net). Research and Practice in Technology Enhanced Learning, 22, 5.

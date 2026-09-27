@@ -36,24 +36,6 @@ Demonstrates that the effectiveness of AI-supported learning depends critically 
 - Learning was measured with a short-term post-intervention test, so longer-term retention and transfer of knowledge were not captured.
 - Time expenditure was analyzed descriptively without formal statistical testing, and only a single prompting strategy was compared, leaving efficiency claims and alternative guidance designs unresolved.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[personalized-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[prompt-engineering]]
-## Connected Articles
-
-- [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
-- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[q-learning-lab-rl-teaching]] — Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-
 ## Citation
 
 Hou, X., Xiao, B., Liu, H., & Mueller, S. (2026). [*The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education*](https://arxiv.org/abs/2606.05509).

@@ -36,27 +36,6 @@ This is a **review/essay** (not an empirical study) in *Educational [[research-m
 - As a review/essay, it does not provide new empirical evidence: it is a position/review piece published in a major research journal (Educational Researcher) rather than a study presenting original data.
 - The author notes that more research is needed on how students and educators actually experience oral assessments in the current AI environment, and on more practical implementation guidance.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[oral-assessment]] — Oral Assessment
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[reducing-ai-misuse]]
-- [[generative-ai]]
-- [[critical-thinking]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[k-12]]
-- [[educational-policy-ai]]
-- [[speech-and-voice-technologies]]
-## Connected Articles
-
-- [[ssaho-ai-academic-integrity-review-2025]] — AI and Academic Integrity review
-- [[socratic-tests-conversational-assessment]] — Socratic tests / conversational assessment
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Multimodal embodied cognition and oral explanations
-
 ## Citation
 
 Fenton, A. (2025). [*Reconsidering the use of oral exams and assessments: An old way to move into a new future*](https://doi.org/10.3102/0013189X251333638). *Educational Researcher, 54*(7), 430–436.

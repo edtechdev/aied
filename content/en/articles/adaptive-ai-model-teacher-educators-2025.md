@@ -48,27 +48,6 @@ The fourth iteration produced a reflective diagnostic questionnaire, built throu
 - Participants were one cohesive Israeli group, selected for teacher-education and technology experience, a graduate degree, and strong digital and pedagogical skills, so the model's transferability rests on further testing.
 - The three case studies are illustrative dilemmas shared by participating educators rather than systematically sampled cases, and the questionnaire is self-report with no behavioral or outcome measure.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[teacher-ai-competency]]
-- [[design-thinking]]
-- [[professional-training]]
-- [[metacognition]]
-- [[theories-and-frameworks]]
-- [[design-based-research]]
-- [[educational-development]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[preservice-teachers-responsible-genai-2026]] — pre-service teachers on responsible GenAI use, ethics, and privacy
-- [[ai-literacy-assessment-misalignment]] — self-reported versus objective measures of AI literacy
-- [[genai-skill-bypass-literacy]] — divergent AI literacy pathways of university students and staff
-- [[age-tiered-ai-literacy-guidebooks-2026]] — acceptance of age-tiered AI literacy guidebooks in K-12
-- [[guillen-curriculum-genai-teacher-competence-2026]] — curriculum design and teacher digital competence
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — longitudinal AI usage, ethics, and policy in higher education
-
 ## Citation
 
 Eyal, L. (2025). [*Rethinking artificial-intelligence literacy through the lens of teacher educators: The adaptive AI model*](https://doi.org/10.1016/j.caeo.2025.100291). *Computers and Education Open*, 9, 100291.

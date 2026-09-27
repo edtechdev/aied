@@ -48,28 +48,6 @@ Measures came from a purpose-built 44-item questionnaire on a five-point Likert 
 
 - **Explained variance is incomplete:** a substantial share of the variance remains unaccounted for, and the authors note other individual, [[pedagogy|pedagogical]], technological and contextual factors are still at work.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[privacy]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[governance]]
-
-## Connected Articles
-
-- [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — Academic integrity and AI study practices
-- [[ssaho-ai-academic-integrity-review-2025]] — Review of AI and academic integrity
-- [[ethical-use-ai-engineering-education-review-2026]] — Ethical use of AI in engineering education
-- [[genai-chatgpt-adoption-ethics-students-2026]] — Ethical and behavioral factors in ChatGPT adoption
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC affordances and student self-regulation
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal AI usage, ethics and policy
-- [[institutional-ai-policy-health-informatics-2026]] — Institutional AI policy in health informatics
-
 ## Citation
 
 Tabares-Cruz, Y. B., Cevallos-Sánchez, H. A., Arteaga-Pita, I. G., et al. (2026). [Predictors of the Ethical Use of Generative Artificial Intelligence in Higher Education](https://doi.org/10.3389/feduc.2026.1942426). *Frontiers in Education, 11*, 1942426.

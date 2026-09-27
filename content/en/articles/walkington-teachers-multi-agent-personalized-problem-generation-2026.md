@@ -59,23 +59,6 @@ Realism was the dimension the agents handled best, and it shows how easily a mod
 - **Realism effects are not isolated.** No clear experimental studies separate realism from other task features, so its effect on learning remains untested.
 - **Feedback is narrow and curriculum-bound.** The student data cover three open-ended questions about 47 personalized problems from one Illustrative Mathematics unit.
 
-## Connected Concepts
-
-- [[personalized-learning]]
-- [[pedagogical-agent]]
-- [[human-in-the-loop-ai]]
-- [[generative-ai]]
-- [[motivation]]
-- [[hallucination-risk]]
-
-## Connected Articles
-
-- [[ikram-multi-agent-personalized-math-problems-2026]]: the group's multi-agent validation framework.
-- [[ampt-math-personalization-genai-2026]]: a chat-based tool for interest-based math problems.
-- [[taklif-ai-interest-based-personalized-assignments]]: AI-generated assignments from declared interests.
-- [[ai-modeling-problem-generation-platform-2026]]: AI-supported problem generation for instruction.
-- [[mathematics-teachers-chatbot-motivation-2026]]: mathematics teachers connecting tasks to motivation.
-
 ## Citation
 
 Candace Walkington, Theodora Beauchamp, Fareya Ikram, Merve Kocyigit Gurbuz, Fangli Xia, Morgan Lee, Andrew Lan (2026). [*Mathematics Teachers' Interactions with a Multi-Agent System for Personalized Problem Generation*](https://arxiv.org/abs/2604.12066). Accepted to AIED 2026, South Korea. arXiv:2604.12066. https://doi.org/10.48550/arXiv.2604.12066

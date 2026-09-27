@@ -44,22 +44,6 @@ page_kind: [evaluation]
 - The appropriate-reliance score records only observable accept-versus-reject decisions relative to recommendation correctness, so two students could reach the same score by very different strategies; no process data (think-aloud protocols or interaction logs) was collected.
 - Two of the four proposed moderators were not distinguishable from zero (programming self-efficacy p = .121; programming literacy p = .437), and the Johnson-Neyman boundaries fell far into the lower tail of the moderator distributions (z = -2.37 for AI literacy, -2.10 for need for cognition), so the moderation story rests on a narrow region of the sample.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[metacognition]]
-- [[agentic-ai]]
-- [[llm]]
-- [[rag]]
-- [[trust]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-## Connected Articles
-
-- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
-- [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact
-- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
-
 ## Citation
 
 Pitts, G., Rani, N., & Mildort, W. (2026). [Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators](https://arxiv.org/abs/2604.01114). AIED 2026.

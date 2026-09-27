@@ -49,23 +49,6 @@ The simulation methodology also raises questions about [[hazra-safetutors-pedago
 - Observer-rated behavioral expression was scored by three independent LLM raters blind to persona instructions, so the behavioral stability measures are themselves model-generated rather than human-coded.
 - Between-conversation stability rests on single-turn, context-free instantiations (N = 4,968), and within-conversation stability on 20 conversations of 9 turns (N = 3,952) — a short interaction window relative to the sustained, path-dependent interactions of real tutoring or teacher training.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[student-experience]]
-- [[rct]]
-- [[simulating-students]]
-- [[neurodiversity]]
-
-## Connected Articles
-
-- [[nie-personavlm-long-term-personalization-2026]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[drawedumath-vlm-struggling-students-2026]]
-- [[syal-multimodal-dialogue-stem-2026]]
 ## Citation
 
 Gonnermann-Müller, J., Haase, J., & Leins, N. (2026). [*LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles*](https://arxiv.org/abs/2605.06307).

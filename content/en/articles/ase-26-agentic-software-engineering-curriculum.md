@@ -50,25 +50,6 @@ Because grading work co-produced with an agent raises novel questions about auth
 - The core construct, the evolutionary spiral, is a conceptual synthesis of Boehm's spiral model, the co-evolution of problem and solution spaces (Maher; Dorst; Cross), and Brooks's contracting-point refinement; the paper states that its full development is deferred to a subsequent pre-print, so it remains empirically unvalidated.
 - The work is a single-author pre-print deposited on Zenodo under CC BY-ND 4.0, so the module structure, the grading policy, and the assessment weightings (50% coursework, 40% project, 10% meta-reflection) have not been reviewed against outcomes in any program.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[prompt-engineering]]
-- [[curriculum-design]]
-- [[metacognition]]
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[cs-education]]
-## Connected Articles
-
-- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
-- [[guided-llm-scaffolding-independent-learning]] — Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics
-- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-
 ## Citation
 
 Gorsky, M. (2026). [*ASE-26: A Curriculum for Agentic Software Engineering as a Discipline*](https://arxiv.org/abs/2606.01152).

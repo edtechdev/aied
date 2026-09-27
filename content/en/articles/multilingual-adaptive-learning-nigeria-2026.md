@@ -45,27 +45,6 @@ Evaluation combined automatic semantic metrics (BLEU, ROUGE-L, BERTScore, perple
 - One language only: Nigerian Pidgin English was the single representative low-resource language tested, so generalization to Nigeria's more than 520 indigenous languages is untested.
 - Small evaluation set: the quantitative comparison used 14 sample prompts, which the authors describe as a baseline for comparative analysis rather than an absolute ground truth, and the fine-tuning corpus was scraped from news platforms rather than classroom material.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[multilingual-learning]]
-- [[global-south]]
-- [[llm]]
-- [[equity-in-ai-education]]
-- [[personalized-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[digital-divide]]
-- [[inclusive-learning]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[learnmate2-llm-adaptive-learning]] — LearnMate2 LLM Adaptive Learning
-- [[llm-cultural-relevance-k12]] — LLM Cultural Relevance in K-12
-- [[zha-ai-literacy-biology-case-study]] — AI Literacy in Biology
-- [[clara-collaboration-literacy-dashboard]] — Collaborative Literacy Dashboard
-- [[eduguard-safe-rag-llm-tutor]] — Safe RAG LLM Tutor
-
 ## Citation
 
 Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J. (2026). [*An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria*](https://arxiv.org/abs/2608.15738). [cs.CY]. https://doi.org/10.48550/arXiv.2608.15738

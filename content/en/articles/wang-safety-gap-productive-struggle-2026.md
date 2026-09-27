@@ -51,23 +51,6 @@ This perspective paper is a strong conceptual argument linking productive-strugg
 - The Socratic and Adversarial AI architectures are design prescriptions: no system is implemented or evaluated here, and the paper reports no evidence that withholding solutions or adding adversarial prompts preserves [[productive-failure|productive struggle]] or improves learning.
 - No novel data, effect sizes, or comparative results are reported; the case rests on the recent literature the authors synthesize, leaving claims about novice learners in particular — the group the paper singles out as most at risk — untested.
 
-## Connected Concepts
-
-- [[productive-failure]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[scaffolding]]
-- [[socratic-method]]
-- [[trust]]
-- [[student-experience]]
-
-## Connected Articles
-
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems for Productive Failure
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
-
 ## Citation
 
 Wang, H., & Shan, W. (2026). [*The safety gap: restoring productive struggle through pedagogically aligned generative AI*](https://doi.org/10.3389/feduc.2026.1757622). *Frontiers in Education*, 11, 1757622. DOI: 10.3389/feduc.2026.1757622.

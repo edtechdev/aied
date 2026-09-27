@@ -60,27 +60,6 @@ No learning-outcomes study has been run at the time of writing. The paper instea
 - AI outputs are unverified against ground truth with no automated fact-checking layer, and speech-recognition accuracy on code-switched, accented classroom audio is not separately benchmarked — no word-error-rate figure exists for this pipeline.
 - The design is hard-coded to Hindi-English and untested on other code-switched pairs such as Spanish-English or Swahili-English; near-term future work is an independent multi-evaluator heuristic review, a code-switched ASR word-error-rate benchmark, an instructor accuracy benchmark for flashcards and detected gaps, and eventual execution of the pre-registered protocol.
 
-## Connected Concepts
-
-- [[llm]]
-- [[self-regulated-learning]]
-- [[language-learning]]
-- [[inclusive-learning]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[digital-divide]]
-- [[student-experience]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[ai-guided-learning-audiovideo-2026]]
-- [[scheu-mobile-chatbot-journaling-motivation-2026]]
-- [[kutti-ai-voice-first-learning-companion]]
-- [[international-students-conversational-ai-adaptation]]
-- [[savvy-student-attention-video-learning]]
-- [[genai-differentiated-eap-reading-materials-2026]]
-
 ## Citation
 
 Malhotra, T. (2026). [*A bilingual, LLM-mediated lecture companion for self-regulated learning: Architecture, theoretical framework, comparative and usability evaluation, and a pre-registered outcomes protocol*](https://osf.io/preprints/edarxiv/95rjw_v1/). EdArXiv preprint.

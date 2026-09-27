@@ -68,31 +68,6 @@ The [[research-methods-aied|methodological]] point generalizes beyond language a
 
 For assessment programs, the practical takeaway is that recalibration frequency need no longer be rationed by compute. If an update scales with new data, banks can be re-linked and re-aggregated on a quarterly or even faster cadence without a full-history refit — which matters most exactly where [[adaptive-learning|adaptive]] delivery and fast item turnover make stale parameters most costly.
 
-## Connected Concepts
-
-- [[item-response-theory]] — hierarchical Bayesian calibration of item parameters at bank scale
-- [[educational-measurement]] — linking, equating and posterior uncertainty as the core objects
-- [[psychometrically-aware-ai]] — AI-generated items carried by calibrated, uncertainty-aware parameters
-- [[automated-question-generation]] — the generation pipeline whose output volume creates the calibration problem
-- [[assessment-validity]] — a bank whose parameters come from prediction rather than pretesting
-- [[llm]] — language models behind automatic item generation and difficulty prediction
-- [[educational-nlp]] — text-based and embedding-based difficulty estimation feeding the population model
-- [[language-learning]] — the Duolingo English Test as the operational setting
-- [[learning-analytics]] — scalable computation over large sparse adaptive response streams
-- [[adaptive-learning]] — adaptive selection and scoring depend on the item posteriors produced
-
-## Connected Articles
-
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
-- [[item-writing-flaws-irt-difficulty-2026]] — The Impact of Item-Writing Flaws on Difficulty and Discrimination in Item Response Theory
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal Item Parameter Estimation using Simulated Response Probabilities
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study
-- [[llm-difficulty-calibration-programming-exams-2026]] — From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms
-- [[irt-human-genai-mcq-responses]] — Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments
-- [[xiong-ai-educational-measurement-review-2026]] — A Decade of Reflection and Thematic Review on Artificial Intelligence's Impact on Educational Measurement
-- [[durable-skills-measurement-ai-teammates-2026]] — Towards Scalable Measurement of Durable Skills
-
 ## Citation
 
 Jewsbury, P. A., Nydick, S. W., Liao, M., & Chen, S. (2026). [*Bayesian Consensus Calibration of Continuously Evolving IRT Item Banks*](https://arxiv.org/abs/2609.13590). Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con), NCME.

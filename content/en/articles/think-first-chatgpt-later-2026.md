@@ -6,7 +6,6 @@ type: article
 foundations: [cognitive-offloading, human-ai-collaboration]
 pedagogy: [creativity, metacognition, self-regulated-learning]
 technology: [generative-ai, prompt-engineering]
-connected_faqs: [reducing-over-reliance]
 research_method: [experiment]
 level: [higher ed]
 sources: ['raw/papers/10.1007_s10648-026-10118-7.md']
@@ -62,33 +61,6 @@ The findings sit alongside work on [[cognitive-offloading|Over-Reliance]] and AI
 - Transfer was measured on a single unassisted product-invention task completed immediately after the intervention, so durability beyond the session — retention, or application to course work — is untested.
 - The regulated-AI condition was not compared with a "regulated-human" group working the same sample prompts alone, so the design cannot fully separate the guided sequence from the specific contribution of collaborating with ChatGPT.
 - The sample prompts were presented for illustration only and were not engineered to elicit ChatGPT's best output; the authors flag better [[prompt-engineering|prompt engineering]] and additional self-regulation prompts as untested refinements.
-
-## Connected Concepts
-
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[creativity]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[prompt-engineering]]
-- [[desirable-difficulties]]
-- [[scaffolding]]
-- [[transfer-of-learning]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
-- [[ai-availability-student-motivation]] — How AI Availability Shapes Students' Motivation
-- [[cognitive-offloading-speedup-illusion]] — Cognitive Offloading and the Speedup Illusion
-- [[cognitive-offloading-llm-synthesis-writing]] — Cognitive Offloading in LLM-Assisted Writing
-- [[generative-refusal-ai-tools-for-thought]] — Generative Refusal: AI Tools for Thought
-- [[learning-by-chatting-genai-impact]] — Learning by Chatting? GenAI Impact
-- [[correct-answer-trap-ai-tutor]] — The Correct-Answer Trap in AI Tutoring
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors
-- [[student-cheat-sheets-make-or-take]] — Make or Take: Student Cheat Sheets
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
 
 ## Citation
 

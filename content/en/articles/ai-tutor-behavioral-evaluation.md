@@ -64,34 +64,6 @@ In binary logistic regression predicting student-perceived helpfulness, engageme
 - RelScore and SuccScore measure alignment between feedback and code edits rather than whether a student read the feedback, and large-scale rewrites or partially adopted suggestions complicate attribution.
 - The metrics capture immediate feedback uptake only, not longer-term [[learning-gains|learning]], and the tone and humanness pedagogy dimensions had too few undesired-feedback cases (n < 15) to be analyzed at all.
 
-## Connected Concepts
-
-- [[pedagogical-llm-training]]
-- [[socratic-method]]
-- [[math-education]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[affective-tutoring]]
-- [[knowledge-tracing]]
-- [[teacher-ai-competency]]
-- [[intelligent-tutoring]]
-- [[student-engagement]]
-- [[student-modeling]]
-- [[feedback]]
-- [[learning-gains]]
-
-## Connected Articles
-
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[ai-pedagogical-accompaniment-amico]]
-- [[cong-confidence-asag-2026]]
-- [[clara-collaboration-literacy-dashboard]]
-- [[golrang-propact-pair-programming-2026]]
-- [[cstutorbench-slm-tutors]]
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 ## Citation
 
 Niousha, R., Smith, S.B., Akram, B., Brusilovsky, P., Hellas, A., Leinonen, J., DeNero, J., & Norouzi, N. (2026). [*The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness*](https://arxiv.org/abs/2605.05648)

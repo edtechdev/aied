@@ -46,26 +46,6 @@ The authors argue their workflow likely exceeds an expert human transcriber with
 - Visual descriptions of graphs, diagrams, and presenter interactions were markedly weaker than equation transcription; in the second half of the transcription of video 15, the presenter's interactions with graphs were difficult to fully understand from the transcript alone.
 - The workflow depends on free-tier Google AI Studio, where submitted content may be used for model training, and on a local TeX Live installation, because web-based Overleaf's free tier timed out on the SE-tagging compilation.
 
-## Connected Concepts
-
-- [[accessibility]] — the core goal of producing screen-readable math-accessible PDFs
-- [[physics-education]] — the domain of the transcribed instructional videos
-- [[generative-ai]] — Gemini powers the transcription workflow
-- [[universal-design-for-learning]] — accessibility-by-construction framing for video-based STEM learning
-- [[multimodal]] — Gemini integrates audio and visual information from video
-- [[llm]] — the underlying transcription engine
-- [[assistive-technology]] — screen readers are the target consumers of the accessible PDFs
-- [[inclusive-learning]] — accessible transcripts support diverse learners
-- [[special-education]] — the blind and low-vision students the system is designed to support
-
-## Connected Articles
-
-- [[ludia-udl-ai-thought-partner-2026]] — UDL-aligned AI tool design in education
-- [[llm-computational-thinking-physics-2026]] — LLMs applied to physics education
-- [[hashmi-socratic-physics-chatbot-2025]] — AI chatbot for physics learning
-- [[multimodal-affective-its-presentation]] — multimodal AI in an intelligent tutoring context
-- [[learnlm-improving-gemini-learning]] — improving learning outcomes with Gemini models
-
 ## Citation
 
 Looney, C. W., & Duston, C. L. (2026). [*Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs*](https://arxiv.org/abs/2608.20733).

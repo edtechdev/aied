@@ -66,34 +66,5 @@ Education level, the moderator the study most wanted to test, could not be teste
 - All pooled studies sat in higher education (no K–12 settings), limiting generalization across developmental stages.
 - The evidence window (2023–2026) rests on earlier model generations, so the pooled effect may not transfer to current systems; the meta-analysis itself used ChatGPT 5.2 for proofreading, reference management, and analytical support.
 
-## Connected Concepts
-- [[meta-analysis-systematic-review]]
-- [[generative-ai]]
-- [[writing-education]]
-- [[language-learning]]
-- [[feedback]]
-- [[scaffolding]]
-- [[human-in-the-loop-ai]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[sociocultural-learning]]
-- [[cognitive-offloading]]
-- [[transfer-of-learning]]
-- [[llm]]
-- [[conversational-ai]]
-- [[automated-essay-scoring]]
-- [[ai-feedback-quality]]
-- [[learning-gains]]
-- [[quantitative-research]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[genai-writing-robma-reanalysis-2026]] — Is GenAI Helpful for Writing? A Re-Analysis Using Robust Bayesian Meta-Analysis (RoBMA)
-- [[genai-educational-outcomes-meta-analysis]] — Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches
-- [[elementary-writing-genai-systematic-review-2026]] — Rethinking Elementary Education's Writing Instruction in The Age of Generative AI: A Systematic Review
-- [[chatgpt-academic-writing-quality-ownership-2026]] — Leveraging ChatGPT in academic writing: ChatGPT enhances students' writing quality, writing experience, and ownership
-- [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency
-- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
-
 ## Citation
 Teng, M. F. (2026). [*Effectiveness of GenAI in enhancing writing performance: a meta-analysis*](https://doi.org/10.1186/s40862-026-00444-2). Asian-Pacific Journal of Second and Foreign Language Education.

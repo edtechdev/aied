@@ -44,24 +44,6 @@ This paper addresses the reality that students use [[generative-ai]] tools like 
 - Evidence for its effects is instructor-reported student feedback and engagement ("overwhelmingly positive") rather than assessed performance data.
 - The activities were developed in the authors' own introductory and graduate economics courses at two universities and rely on a single tool (ChatGPT), so transferability beyond that discipline and tool is untested.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[critical-thinking]]
-- [[higher-ed]]
-- [[student-engagement]]
-- [[learning-design]]
-- [[active-learning]]
-- [[reducing-ai-misuse]]
-
-## Connected Articles
-
-- [[hingle-collaborative-ai-literacy-2025]] — Systematic Review of Collaborative Learning Activities for Promoting AI Literacy
-- [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
-- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement with GenAI for Underrepresented Students
-- [[student-regulatory-awareness-genai]] — Student Regulatory Awareness of Generative AI Use
-
 ## Citation
 
 Beck, S., & Brodersen, D. (2025). [*Fostering Generative AI Literacy in Economics: A Hands-on Approach*](https://journalofeconomicsteaching.org/fostering-generative-ai-literacy-in-economics-a-hands-on-approach-beck-brodersen/). *Journal of Economics Teaching, 10*(4), 285–295. DOI: 10.58311/jeconteach.

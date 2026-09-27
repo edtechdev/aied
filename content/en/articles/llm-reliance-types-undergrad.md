@@ -30,24 +30,6 @@ confidence: high
 - Single-institution sample (N = 382 analyzable, 14 interviews, 35 open-ended responses) drawn from one public R1 AANAPISI in an urban mid-Atlantic setting; its demographics, R1 status, and AI policies may not represent other MSI contexts.
 - Power shortfall on moderation: a priori analysis required at least 395 participants to detect small interaction effects (f² = .02) and the sample of 382 fell marginally short, so non-significant moderation results are inconclusive rather than null.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[writing-education]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[self-efficacy]]
-## Connected Articles
-
-- [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing
-- [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)
-- [[student-rationalization-ai-writing]] — It''s OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-
 ## Citation
 
 Shahin Hossain (2026). [Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University](https://arxiv.org/abs/2606.28749). cs.CY / cs.AI / cs.HC.

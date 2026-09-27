@@ -71,23 +71,6 @@ Students developed procedural confidence — "Seeing the mask, prompt and seed t
 - No comparison condition was run: there was no generic-GenAI or non-AI control arm, so effects cannot be attributed to the bespoke workflow specifically.
 - The workflow was fine-tuned for residential interior scenarios (Flux 1 Kontext LoRA on the 20-million-image InteriorNet dataset), and the authors state it may not generalize to other design typologies or less supported studio environments.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[personalized-learning]]
-- [[educational-measurement]]
-- [[constructivist]]
-- [[educational-development]]
-- [[creativity]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[design-thinking]]
-- [[arts-design-and-media-education]]
-## Connected Articles
-
-- [[stanford-evidence-base-ai-k12-2026]]
 ## Citation
 
 Timo Kapsalis (2026). [Gen-AI-tecture: using generative AI to support architectural students in design tasks](https://arxiv.org/abs/2605.21361). Submitted to Journal of Architectural Education.

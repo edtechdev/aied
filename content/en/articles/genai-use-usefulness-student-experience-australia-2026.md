@@ -38,18 +38,5 @@ confidence: high
 - The design is a single cross-sectional online survey; frequency and purpose of use are self-reported rather than observed, and a further 826 students completed only part of the survey.
 - Findings come only from four Australian universities, so the demographic and equity patterns cannot be assumed to transfer to other national systems or institution types.
 
-## Connected Concepts
-- [[student-experience]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[academic-integrity]]
-- [[trust]]
-
-## Connected Articles
-- [genai-student-experiences-uk-he-survey-2026] — student GenAI experiences in UK higher ed
-- [genai-impact-chinese-students-hss] — GenAI's impact on Chinese humanities and social-science students
-
 ## Citation
 Chung, J., Henderson, M., Slade, C., Liang, Y., Pepperell, N., Corbin, T., et al. (2026). [The use and usefulness of GenAI in higher education: Student experience and perspectives](https://doi.org/10.1016/j.caeo.2026.100347). *Computers and Education Open, 10*, 100347.

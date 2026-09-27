@@ -12,7 +12,6 @@ level: [higher ed]
 sources: ['raw/papers/roe-assessment-twins-2026.md']
 confidence: high
 page_kind: [framework]
-connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** Roe, Perkins & Giray (2026) introduce **assessment twins** as a practical approach to redesigning assessment tasks for the age of [[generative-ai]]. An assessment twin pairs a GenAI-vulnerable task (e.g., a take-home essay) with a second, less vulnerable task assessing the same [[learning-gains|learning outcomes]], scheduled closely to allow cross-verification — enhancing [[assessment-validity]] without abandoning pedagogically valuable assessment formats. The paper maps GenAI threats across Messick's six strands of validity evidence and proposes a three-step design process (identify vulnerabilities, align outcomes/select the twin, develop interdependent marking). It directly addresses the [[academic-integrity]] problem of GenAI, complementing detection-focused responses with a validity-driven, [[pedagogy]]-first design strategy for [[ai-education|AI-mediated assessment]].
@@ -55,28 +54,6 @@ The approach is distinct from traditional protocols like the oral viva voce in i
 - Resource intensity is the paper's own most pressing stated challenge — twins need faculty time, administrative coordination, and institutional support — and the authors concede that in resource-limited settings with very large cohorts, a complete redesign using the AIAS may be more effective than twinning.
 - Equity and fairness risks arise when confirmatory tasks are allocated by sampling; the authors' mitigation (transparent, genuinely random, non-punitive selection) is asserted rather than tested.
 - The cohort-scaling guidance (5–25, 25–75, 75+) is offered as design advice with no implementation evidence behind it.
-
-## Connected Concepts
-
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-detection]]
-- [[educational-policy-ai]]
-- [[theory-development-aied]]
-
-## Connected Articles
-
-- [[credential-cognitive-stewardship-ai-assessment]] — Cognitive stewardship for AI-mediated assessment
-- [[ai-assessment-scale-reform]] — AI assessment scale reform
-- [[genai-assessment-governance]] — GenAI assessment governance
-- [[beyond-detection-authentic-assessment-ai-2025]] — Authentic assessment redesign
-- [[genai-declaration-frameworks-higher-education]] — GenAI declaration frameworks
 
 ## Citation
 

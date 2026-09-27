@@ -54,20 +54,6 @@ StanBKT's contribution is to move the whole estimation problem into a probabilis
 - The faster alternatives carry approximation error — MAP collapses the posterior to a single mode and quantifies no uncertainty at all, and variational inference and Pathfinder may underestimate posterior uncertainty in complex or weakly identified models.
 - Better prediction is not on offer: accuracy (0.694), AUC (0.711), and RMSE (0.449) were identical between pyBKT/EM and every StanBKT method, so a switch to Bayesian inference buys inference quality rather than fit.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[open-source]]
-- [[learning-analytics]]
-- [[knowledge-tracing]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-## Connected Articles
-
-- [[neural-symbolic-knowledge-tracing]]
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[mbp-kt-meta-behavioral-knowledge-tracing]]
 ## Citation
 
 Siddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, Adam C. Sales (2026). [StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing](https://arxiv.org/abs/2605.23048). arXiv preprint (cs.HC, cs.CY, stat.AP, stat.ME).

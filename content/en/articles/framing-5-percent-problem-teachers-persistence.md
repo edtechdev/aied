@@ -39,22 +39,6 @@ discipline: [math education]
 - The workshop captured stated priorities rather than classroom behavior: triangulation with classroom observations, student interviews, or longitudinal prototype trials was not conducted and is what the authors say would test transferability.
 - Perspectives may reflect local implementation norms and partnership recruitment, so the four themes should be treated as a needs-finding result rather than a validated model of persistence.
 
-## Connected Concepts
-
-- [[teacher-role]]
-- [[adaptive-learning]]
-- [[k-12]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[student-engagement]]
-- [[teacher-ai-competency]]
-- [[motivation]]
-- [[formative-assessment]]
-## Connected Articles
-
-- [[teacher-ai-adoption-confidence]]
-- [[interactive-learning-dashboards-engagement]]
-- [[engagement-forecasting-its]]
 ## Citation
 
 Conrad Borchers (2026). [Framing the 5% Problem: Teachers' Perspectives on Persistence in Educational Technology](https://arxiv.org/abs/2606.22294). EC-TEL 2026

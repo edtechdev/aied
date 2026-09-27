@@ -58,24 +58,5 @@ The study demonstrates the feasibility of integrating mindfulness into an ITS th
 - Anxiety and perceived care are self-report measures: the Abbreviated Math Anxiety Scale (trait), the STAI-6 (state), and a single item, "I feel supported by Matt," for perceived care.
 - The classroom context constrained the intervention itself: peer pressure limited engagement with individual, self-paced mindfulness practice, which the authors identify as a factor needing redesign (class-level randomization or homework delivery) in future studies.
 
-## Connected Concepts
-- [[intelligent-tutoring]]
-- [[math-education]]
-- [[pedagogical-agent]]
-- [[affective-computing]]
-- [[generative-ai]]
-- [[llm]]
-- [[self-regulated-learning]]
-- [[well-being]]
-- [[k-12]]
-- [[ai-education]]
-
-## Connected Articles
-- [[rhaimi-productivemath-2025]] — ProductiveMath: A Generative-AI-Powered App to Support Productive Failure Teaching
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System
-- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity in Mathematics Learning
-- [[curiobot-llm-tutoring-exploratory-learning]] — Curiosity as Linguistic Intervention with LLM Tutoring Dialogues
-
 ## Citation
 Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., & Nagashima, T. (2026). [*Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning*](https://arxiv.org/abs/2609.02611). arXiv preprint arXiv:2609.02611.

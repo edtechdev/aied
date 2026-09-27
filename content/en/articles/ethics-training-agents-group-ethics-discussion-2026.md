@@ -62,36 +62,5 @@ Participants found the phase structure familiar, and the facilitator's turn cont
 - Participants were strangers recruited through a university online community, meeting without shared [[prior-knowledge|prior knowledge]] or the relationships real project teams have.
 - Results hinge on the particular model and prompts (GPT-4o at temperature 0, hand-crafted personas, a 0.5 participation rate), which the authors say need verification.
 
-## Connected Concepts
-
-- [[ethics]]
-- [[collaborative-learning]]
-- [[group-work]]
-- [[pedagogical-agent]]
-- [[agentic-ai]]
-- [[simulation]]
-- [[human-ai-collaboration]]
-- [[stakeholders]]
-- [[stem-education]]
-- [[engineering-education]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ai-sycophancy]]
-- [[trust-calibration]]
-
-## Connected Articles
-
-- [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: An LLM-Powered Multi-Agent Simulation for Education
-- [[adversarial-stress-testing-role-playing-agents]] — Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation
-- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[genai-counter-learner-groupthink-2025]] — Utilizing Generative AI to Counter Learner Groupthink by Introducing Controversy in Collaborative Problem Based Learning Settings
-- [[less-deliberate-teams-llm]] — Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work
-- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
-- [[cost-of-ethics-crisis-cs-ethics-education]] — Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States
-- [[talebzadeh-ai-group-activity-roles-2026]] — The Architecture of Roles in AI-Designed Group Activities: A comparative inductive analysis of novice and experienced teachers' differentiated instruction within the IAT framework
-- [[ba-ai-agents-cscl-review-2026]] — Artificial Intelligence Agents in Computer-Supported Collaborative Learning: A Systematic Literature Review
-
 ## Citation
 Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U. (2026). [Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration](https://arxiv.org/abs/2609.11529). arXiv preprint arXiv:2609.11529.

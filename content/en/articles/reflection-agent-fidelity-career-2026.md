@@ -47,26 +47,6 @@ Guiding reflection means working on how someone sees their own future, and the m
 - The challenge findings lean on one annotator: the annotators were validated on Study 2 while Study 1 labels are used descriptively, and challenge was the code the human coders agreed on least.
 - Both studies used one model (GPT-4o as deployed in 2025), one topic (careers) and United States samples; the day-level tests could have missed effects smaller than about .10, every participant received at least some praise so nothing can be said about receiving none, and the trial's effects were small to begin with.
 
-## Connected Concepts
-
-- [[conversational-ai]]
-- [[ai-sycophancy]]
-- [[guardrails]]
-- [[trust]]
-- [[career-development-and-readiness]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[pedagogical-agent]]
-- [[rct]]
-- [[well-being]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-
-- [[5p-reflection-model-genai-2026]] — The 5P reflection model with GenAI
-- [[ai-advice-suppresses-ikt-suspension-2026]] — AI advice and the suspension of prior knowledge
-- [[ai-agents-peer-learning-discourse]] — Agents in peer-learning discourse
-
 ## Citation
 
 Nepal, S. K., Soh, S., Vinoya, N., Park, S., Roshanaei, M., & Harari, G. (2026). [Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial](https://arxiv.org/abs/2609.19635). arXiv:2609.19635.

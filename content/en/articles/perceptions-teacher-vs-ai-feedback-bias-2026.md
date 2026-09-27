@@ -66,34 +66,6 @@ They are equally careful about what not to conclude. A degree of skepticism is c
 
 The sample is convenience-recruited through Prolific from English-speaking teachers, over half in the United Kingdom; it is not representative, and the authors consider the findings time-sensitive, captured in the early adoption phase of [[generative-ai|generative AI]] in 2024, when attitudes and norms were still forming. K-12 teachers showed a slightly stronger teacher-label preference, which the authors note but decline to interpret, since no hypothesis covered it. The task is artificial: participants rated isolated messages for essays they had no relationship with, on a website, under explicit labels, which is not how feedback attribution works in a classroom. All outcomes are self-reported, so [[self-report-measures|self-report measures]] may overstate deliberation and cannot show whether the discount would change what teachers actually pass on to students; usefulness ratings in particular need not translate into use. The outcome set, [[feedback-literacy|credibility, usefulness and fairness]], is one operationalization of feedback perception and excludes affective dimensions. The paper is a preprint under review, so the reported estimates may change in the final version, and the authors state that the underlying mechanism, whether identity, threat, competence attribution or heuristic processing, is untested by their data.
 
-## Connected Concepts
-
-- [[ai-feedback-quality]] — the construct at stake: whether AI feedback is judged on its content or discounted by its source
-- [[feedback]] — the practice whose perceived credibility, usefulness and fairness were measured under two labels
-- [[trust]] — the paper's core barrier, treated as label-driven rather than evidence-driven
-- [[bias-mitigation]] — the interventions the authors propose against implicit negative attitudes toward AI
-- [[teacher-role]] — the professional identity that makes AI an outgroup and feedback a core duty
-- [[feedback-literacy]] — how credibly and usefully feedback is read, the perceptual layer the study probes
-- [[formative-assessment]] — the practice setting where AI-generated feedback is meant to operate
-- [[human-ai-collaboration]] — hybrid intelligence as the constructive response to teacher skepticism
-- [[trust-calibration]] — the alternative goal, balanced information about AI capabilities and limits, which the intervention failed to reach
-- [[generative-ai]] — GPT-4-turbo as the actual producer of every message in the experiment
-- [[technology-acceptance-model]] — the adoption literature that makes teacher attitudes a gate on implementation
-- [[self-report-measures]] — the measurement approach and its limits for translating ratings into behavior
-
-## Connected Articles
-
-- [[genai-teacher-feedback-comparison]] — Student perceptions of generative AI versus teacher feedback on usefulness and trustworthiness
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]] — Review of whether LLMs can replace teachers in grading and feedback
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Explainable-by-design LLMs for automated teacher assessment and what trust requires
-- [[pre-service-science-teachers-ai-perceptions-2026]] — Acceptance and perceptions of AI among pre-service science teachers
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Ethics-domain intelligent-TPACK and teachers' trust and distrust of AI
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Whether explainable AI improves teachers' trust in edtech recommendations
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Teacher and student views on control and agency in K-12 classroom AI
-- [[liu-deris-ai-feedback-literacy-uptake]] — Student feedback literacy as a predictor of whether AI feedback is used
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated versus human-developed assessment tasks through the TPCK frame
-- [[task-context-trust-educational-hri-2026]] — Task context, not appearance, as the driver of trust in educational technologies
-
 ## Citation
 
 Mertens, U., Jansen, T., Steinbach, M., Fleckenstein, J., & Meyer, J. (2026). [*Perceptions of Teacher- Versus AI-Generated Feedback: Experimental Findings on the (Implicit) Bias of Teachers Against AI*](https://osf.io/preprints/psyarxiv/s25rn_v1). Preprint, under review.

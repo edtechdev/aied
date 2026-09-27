@@ -18,7 +18,6 @@ methods: [benchmark]
 
 ## Overview
 
-
 **Benchmarking 15 predictors on 425 middle-school students:**
 - Feature-based models (regressions, decision trees, neural networks) reduce **MAE by 22–33%** compared to heuristic baselines
 - Percentile heuristics (adapted from prior behavioral domains) systematically **overpredict** — they assume past behavior continues, missing disengagement signals
@@ -52,24 +51,6 @@ The paper establishes a **reproducible [[benchmark]]** for engagement forecastin
 - Both prediction targets are imperfect proxies for effort and learning progress, and alternative proxies such as problem attempts, session frequency and active-versus-idle time were not compared in this work.
 - Human validation came from interviews with only 8 college tutors, while the forecasting evaluation used 425 middle-school students, so the tutor reasoning evidence rests on a different population and a much smaller sample than the predictive benchmark.
 
-## Connected Concepts
-
-- [[math-education]]
-- [[help-seeking]]
-- [[transfer-of-learning]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[affective-tutoring]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-
-## Connected Articles
-
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[golrang-propact-pair-programming-2026]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[genai-tutor-engagement-patterns]]
 ## Citation
 
 Qiu, E. S., Thomas, D. R., Guo, B., Aleven, V., & Borchers, C. (2026). [*From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning*](https://arxiv.org/abs/2605.12788). EDM 2026.

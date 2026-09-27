@@ -39,21 +39,6 @@ This is a theoretical/conceptual paper. Drawing on Kuhn's theory of paradigm shi
 
 As a conceptual paper, SPARK is a proposed framework that has not been empirically validated; the authors present it as a practice-oriented toolkit rather than a tested model. It draws on examples from prior learning-analytics adoption research (mainly Australian higher education) rather than new data on GenAI adoption specifically. The framework's abstractions (complex contagions, leverage points, adaptive space) require contextual translation by leaders, and the paper does not provide detailed case studies of SPARK in use. The focus is on higher education leadership; applicability to other sectors ([[k-12]], vocational) is not detailed.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[generative-ai]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-
-## Connected Articles
-
-- [[institutional-change-framework-ai]] — Institutional Change Framework for AI
-- [[ai-in-the-wild-college]] — AI in the Wild: College Contexts
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[stanford-evidence-base-ai-k12-2026]] — The Stanford Evidence Base for AI in K-12
-- [[genai-higher-education-systematic-review-2026]] — GenAI in Higher Education: A Systematic Review
-
 ## Citation
 
 Dawson, S., & Pardo, A. (2026). [*Leveraging complex systems: Leading for transformative change*](https://doi.org/10.1016/j.caeai.2026.100563). *Computers and Education: Artificial Intelligence*.

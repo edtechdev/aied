@@ -4,7 +4,6 @@ created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [ai-education, ai-literacy, teacher-role]
-connected_faqs: [faculty-development-ai]
 audience: [researchers, administrators, instructional designers]
 research_method: [survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1834827.md']
@@ -49,26 +48,6 @@ Participants completed established scales covering the seven AI-TPACK knowledge 
 - **Cross-sectional design.** The data cannot establish causal ordering; the authors note that teachers who already innovate may simply report higher competence, identity, and efficacy, so the paths may run in both directions.
 - **[[self-report-measures|Self-reported]] data only.** All focal constructs came from the same respondents at the same time, and the innovation scale retained the wording of a general innovation measure, so some responses may reflect innovative teaching in general rather than AI-specific innovation.
 - **No institutional-level controls.** University policy support, digital infrastructure, AI training provision, and organizational climate were not measured, though they plausibly shape whether competence becomes practice, and respondents were nested within universities.
-
-
-## Connected Concepts
-
-- [[teacher-role]] — professional identity and shifting role boundaries are the study's key motivational mechanism
-- [[teacher-education]] — implications target faculty development and preparation
-- [[educational-development|faculty development]] — the primary practical lever the authors recommend
-- [[ai-literacy]] — strongest mediator between AI competence and innovative teaching
-- [[self-efficacy]] — teaching self-efficacy as a partial, competence-dependent mediator
-- [[technology-acceptance-model]] — the adoption-intention paradigm the study argues is insufficient
-- [[higher-ed]] — the setting and the level at which the study's claims apply
-- [[curriculum-design]] — instructional redesign, not tool use, is where innovation shows up
-- [[self-report-measures]] — the methodological constraint on all self-reported constructs
-
-## Connected Articles
-
-- [[genai-pd-ai-pck-learning-gain-2026]] — Generative-AI professional development and AI-PCK
-- [[tpack-genai-inservice-teachers-mediation-2026]] — TPACK and GenAI mediation in in-service teachers
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity work for faculty
-- [[teacher-ai-adoption-confidence]] — Teacher AI adoption and confidence
 
 ## Citation
 

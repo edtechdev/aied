@@ -60,20 +60,6 @@ The design process was organized around the three stages of the pairing process 
 - The design space is knowingly incomplete: the authors state that certain regions, such as the challenge with full student control, remain unmapped.
 - The context is narrow — K-12 mathematics, pairing students inside an [[intelligent-tutoring|intelligent tutoring system]] that tracks mastery with [[knowledge-tracing|Bayesian knowledge tracing]] — so the rankings may not transfer to other subjects, ages, or tool designs.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[collaborative-learning]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[human-ai-collaboration]]
-## Connected Articles
-
-- [[ai-tutor-behavioral-evaluation]]
 ## Citation
 
 Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, Vincent Aleven (2026). [Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing](https://arxiv.org/abs/2605.18761). Accepted at CSCW 2026, to appear in PACM HCI.

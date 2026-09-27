@@ -38,30 +38,6 @@ This [[research-methods-aied|research]] connects to the growing body of work on 
 - The measurement structure did not hold as designed: self-regulated learning and self-efficacy items loaded on a single "personal agency" factor, one self-regulated learning item was dropped for conceptual incoherence, one competence item was removed for a weak .38 loading, and the self-report scales (three items each for autonomy, relatedness, and perceived needs) are brief.
 - The design is observational and cross-sectional, with no comparison condition and no follow-up, so it cannot establish that AI use produced the reported need states, and participants differed in AI experience and in the specific tools, versions, and tasks they used even within the chatbot category, leaving unobserved heterogeneity in use intensity and context; the authors present the results as insights for formulating design principles rather than evidence of effect.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[personalized-learning]]
-- [[student-experience]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[edtech-platform]]
-- [[stem-education]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[self-determination-theory]]
-- [[motivation]]
-- [[affective-computing]]
-## Connected Articles
-
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
-
 ## Citation
 
 Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous (2026). [Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes](https://arxiv.org/abs/2607.26338). Under review.

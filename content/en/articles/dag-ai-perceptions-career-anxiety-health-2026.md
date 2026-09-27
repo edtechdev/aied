@@ -5,7 +5,6 @@ updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, social-emotional-learning]
-connected_faqs: [ai-anxiety-wellbeing]
 audience: [learners]
 research_method: [survey]
 level: [higher ed, adult learning]
@@ -43,24 +42,6 @@ Dağ, Nal, Topuz, Kılınç, Demir, & Bektaş (2026) extend the career-anxiety e
 - The sample was 82.5% female, which makes meaningful gender comparisons difficult and weakens the model where gender matters.
 - Distribution through class representatives on WhatsApp produced a homogeneous, selection-biased sample that likely over-represented students with high anxiety, limiting generalizability.
 - Every variable was self-reported by the same respondents, risking common-method variance, and AIAS and JSAS total scores were used, so the results speak to general AI anxiety rather than its sub-dimensions.
-
-## Connected Concepts
-
-- [[anxiety-and-stress]]
-- [[career-development-and-readiness]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[well-being]]
-- [[self-efficacy]]
-- [[professional-training]]
-
-## Connected Articles
-
-- [[duan-ai-anxiety-career-decisions-college-2026]] — AI anxiety impairs career decisions via career adaptability
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and job-finding anxiety
-- [[kim-ai-anxiety-comprehensive-analysis]] — comprehensive analysis of AI anxiety
 
 ## Citation
 

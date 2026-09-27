@@ -51,25 +51,6 @@ The article cautions against **over-reliance** on AI in chemical experimentation
 - The concrete cases — the three simultaneous titration representations and the worked synthesis of a new compound — are illustrations, not findings from a classroom intervention, so the paper reports no measured effect on student learning.
 - Its scope is chemistry education rather than professional chemistry practice, framed through curriculum, instruction, engagement, and assessment; the claims about epistemology in research settings are argued rather than tested.
 
-## Connected Concepts
-
-- [[chemistry-education]]
-- [[philosophy-of-ai-in-education]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[higher-ed]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[unesco-ai-guidelines-chemical-education-2026]] — Translating UNESCO AI guidelines to chemical education (epistemic drift)
-- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-
 ## Citation
 
 Reyes, R. L., & Regala, J. D. (2026). [Reimagining the philosophy of experimentation in chemistry education: Embracing AI as a tool for scientific inquiry](https://doi.org/10.1007/s11191-025-00667-8). *Science & Education*, 35, 709–754.

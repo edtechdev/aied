@@ -49,27 +49,6 @@ The study used programming tests (T1, T2) and a final examination from an introd
 - System selection came from a week-10 student survey (87.8% of respondents had used AI assistants at least once), so the evaluated set reflects student usage rather than a systematic model sample, and the snapshot dates quickly as assistant versions change.
 - Two documented fragility sources: the authors note that assistants are highly sensitive to task phrasing and input format, and a single non-compiling solution moved a system average by nearly a point (Copilot's test-1 mean would have been 15 points had one zero-scoring solution been corrected).
 
-## Connected Concepts
-- [[cs-education]]
-- [[generative-ai]]
-- [[automated-assessment]]
-- [[higher-ed]]
-- [[academic-integrity]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[computational-thinking]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-- [[jost-llm-programming-education-learning-outcomes]] — LLM impact on programming education [[learning-gains|learning outcomes]] (Jošt et al. 2024)
-- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews
-- [[llm-automated-grading-programming-comparison-2026]] — Systematic comparison of LLMs for automated grading of programming
-- [[llm-difficulty-calibration-programming-exams-2026]] — From evaluated models to evaluation aids
-- [[genai-performance-vs-learning]] — GenAI performance vs. learning
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams
-- [[learner-ai-interaction-patterns-oop]] — Patterns of learner-AI interaction and academic performance
-- [[critical-engagement-code-completion]] — Critical engagement with code completion
-
 ## Citation
 
 Lepp, M., & Kaimre, J. (2026). [*Revisiting the Performance of Generative Artificial Intelligence on Introductory Object-Oriented Programming Assessments: Insights from 2026*](https://arxiv.org/abs/2608.16318). [cs.SE].

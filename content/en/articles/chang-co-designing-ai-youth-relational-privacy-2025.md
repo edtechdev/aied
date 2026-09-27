@@ -58,25 +58,5 @@ The framework is instantiated in the Community Builder (CoBi), an AI tool develo
 - The analysis is qualitative, and the authors call for quantitative, large-scale studies as CoBi is implemented across a variety of K-12 contexts.
 - Youth privacy preferences were elicited through a custom worksheet and facilitated discussion rather than observed behavior, so the findings rest on what participants said they wanted, not on how they acted.
 
-## Connected Concepts
-- [[pedagogical-partnerships]]
-- [[collaborative-learning]]
-- [[privacy]]
-- [[ethics]]
-- [[equity-in-ai-education]]
-- [[agency]]
-- [[k-12]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[trust]]
-- [[student-experience]]
-- [[qualitative-research]]
-
-## Connected Articles
-- [[lo-co-creating-custom-gpts-sap-2026]] — Co-Creating Custom GPTs: Students as Partners
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Five Guiding Principles for AI, Student Partnerships, and Trust
-- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
-- [[student-centered-genai-responsible-framework-2026]] — Student-Centered Generative AI Responsible Use Framework
-
 ## Citation
 Chang, M. A., Tissenbaum, M., Philip, T. M., & D'Mello, S. K. (2025). [*Co-designing AI with youth partners: Enabling ideal classroom relationships through a novel AI relational privacy ethical framework*](https://doi.org/10.1016/j.caeai.2025.100364). *Computers and Education: Artificial Intelligence, 8*, 100364.

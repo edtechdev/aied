@@ -60,24 +60,6 @@ These results point toward a new class of advising tools that move beyond simple
 
 The model was trained and tested on data from a single, medium-sized private university, so demographics, course offerings, and rigor may not generalize without retraining. Features were limited to major, course history, and grade history, excluding known influences such as [[student-engagement]] and non-cognitive skills; historical grading data may encode systemic bias, so fairness auditing and [[bias-mitigation]] are flagged as future work. The model also faces a cold-start problem for new students and for novel courses (mapped to `<OTHER>`) until sufficient data accumulates. These single-institution validation limits and the privacy sensitivity of institutional data (only an anonymized subset is shared) are explicitly acknowledged.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[higher-ed]]
-- [[personalized-learning]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-
-## Connected Articles
-
-- [[at-risk-students-ml-prediction]]
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[stanbkt-bayesian-knowledge-tracing]]
-- [[mbp-kt-meta-behavioral-knowledge-tracing]]
-- [[learning-behavior-background-advantage-ai-ed]]
-
 ## Citation
 
 Savala, P. (2026). [*Jointly predicting courses and grades using a transformer-based model*](https://arxiv.org/abs/2608.13409).

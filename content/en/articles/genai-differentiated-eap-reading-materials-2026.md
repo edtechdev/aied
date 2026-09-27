@@ -43,25 +43,6 @@ The study deployed a four-module role-prompted GenAI workflow — barrier analys
 - **Generalizability.** The expert-rating rubric and the specific EAP genre constrain generalization to other disciplines and material types.
 - **Power and material provenance.** Sample sizes per cell (n = 15) are modest, and the within-proficiency comparisons, while cleaner, rest on single-instructor-generated material versions.
 
-## Connected Concepts
-
-- [[language-learning]]
-- [[generative-ai]]
-- [[personalized-learning]]
-- [[scaffolding]]
-- [[learning-design]]
-- [[teacher-role]]
-- [[curriculum-design]]
-- [[english-education]]
-
-## Connected Articles
-
-- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
-- [[ai-tools-arab-english-classrooms]] — AI Tools in Arab University English Classrooms
-- [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback with AI
-- [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing
-
 ## Citation
 
 Gao, X. (2026). [*From unified to differentiated materials: Generative AI–supported adaptation of EAP reading materials*](https://doi.org/10.3389/fpsyg.2026.1887565).

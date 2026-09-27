@@ -36,18 +36,6 @@ page_kind: [evaluation]
 - Flaw annotation was automated rather than human-applied: agreement was estimated on a stratified sample of 120 items (40 per domain), 97.6% across 2280 criterion-level classifications, and the authors describe this as a supplementary estimate of label noise specific to the dataset rather than independent per-criterion validation.
 - Observed associations may partly reflect general textual properties such as length, readability, or complexity, and no model trained to predict high-difficulty items outperformed a majority-class baseline, which the authors attribute to class imbalance and to IWF criteria not assessing domain-specific knowledge.
 
-## Connected Concepts
-
-- [[item-response-theory]]
-- [[assessment-validity]]
-- [[llm]]
-
-## Connected Articles
-
-- [[llm-item-difficulty-prediction]] — LLM-based item difficulty prediction
-- [[gpt-item-generation-l2-listening-2026]] — GPT item generation for L2 listening (Aryadoust & Wong 2026)
-- [[multimodal-item-parameter-estimation-2026]] — multimodal item parameter estimation
-
 ## Citation
 
 [The impact of item-writing flaws on difficulty and discrimination in item response theory](https://www.sciencedirect.com/science/article/pii/S2666920X26000664) — Schmucker, R., & Moore, S. (2026). *Computers and Education: Artificial Intelligence*, 11, 100632.

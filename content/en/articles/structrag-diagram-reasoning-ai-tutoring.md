@@ -54,27 +54,6 @@ page_kind: [framework]
 - The evaluation dataset is withheld (it comes from university teaching materials; only schema, code, and prompts are released), so the reported numbers cannot be reproduced on the same items.
 - Ground truth was annotated by 12 STEM educators under a partially overlapping two-stage protocol, with each sample first checked independently by two educators and disagreements flagged as inconsistent, so the benchmark labels embed rater judgment.
 
-## Connected Concepts
-
-- [[socratic-method]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-- [[open-source]]
-- [[stem-education]]
-- [[knowledge-graph]]
-- [[rag]]
-- [[feedback]]
-- [[scaffolding]]
-
-## Connected Articles
-
-- [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
-- [[eduguard-safe-rag-llm-tutor]] — EduGuard: A Safe RAG-Based LLM Tutor for Programming Education
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-- [[llm-judged-helpfulness-pedagogy-signal]] — Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models
-
 ## Citation
 
 Sun, Y., Liao, Y., & Ma, X. (2026). [*Advancing diagram-based reasoning in AI tutoring systems: A structural approach for STEM education*](https://doi.org/10.1186/s40561-026-00459-9). *Smart Learning Environments*. Advance online publication

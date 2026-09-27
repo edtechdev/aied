@@ -45,15 +45,5 @@ The strong performance of anchor-inclusive prompts aligns with prior work favori
 - The prompt design space was deliberately narrow: more advanced strategies such as chain-of-thought prompting were not tested, and only three models (GPT-4o, GPT-4o mini, GPT-4 Turbo) were compared.
 - Agreement with human raters is the only criterion reported; there is no external measure of essay quality against which the anchor-prompted scores are validated.
 
-## Connected Concepts
-- [[k-12]]
-- [[automated-essay-scoring]]
-- [[prompt-engineering]]
-- [[writing-education]]
-- [[ai-literacy]]
-## Connected Articles
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[icle-plus-plus-essay-scoring]]
 ## Citation
 Choi, J., Tate, T., Ritchie, D., Nixon, N., & Warschauer, M. (2025). [*Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting*](https://doi.org/10.35542/osf.io/cbhgz_v1). EdArXiv. doi:10.35542/osf.io/cbhgz_v1.

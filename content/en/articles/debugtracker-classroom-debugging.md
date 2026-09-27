@@ -36,19 +36,6 @@ confidence: high
 - The three language tasks deliberately share one intended bug, so the cross-language evidence comes from a single debugging chain.
 - Debugger evidence depends on the relevant VS Code language extension, so capture is not fully language-agnostic.
 
-## Connected Concepts
-
-- [[formative-assessment]]
-- [[cs-education]]
-- [[feedback]]
-- [[learning-analytics]]
-- [[student-experience]]
-- [[computational-thinking]]
-
-## Connected Articles
-
-- [[programming-its]]
-
 ## Citation
 
 Liu, J., Yao, X., Zhang, Z., & Tian, Y. (2026). [DebugTracker: Lightweight Process Evidence for Classroom Debugging](https://arxiv.org/abs/2607.05871).

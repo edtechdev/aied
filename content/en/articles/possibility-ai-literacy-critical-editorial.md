@@ -40,23 +40,6 @@ This is a **critical editorial** (not an empirical study) in *Learning, Media an
 
 As an editorial, the article presents an argumentative and conceptual position rather than empirical evidence; it does not offer a practical AI literacy framework or [[curriculum-design|curriculum]]. Its historical and theoretical framing draws on Western (particularly Anglophone and Freirean) literacy traditions, and the proposal for rights- and sovereignty-based responses is programmatic rather than operationalized. The critique of commercial capture is illustrative rather than systematically evidenced.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[equity-in-ai-education]]
-- [[ai-education]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI Literacy: Beyond the Skills Gap
-- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy Interaction Patterns
-- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
-
 ## Citation
 
 Pangrazio, L. (2026). [*The (im)possibility of AI literacy*](https://doi.org/10.1080/17439884.2026.2615553). *Learning, Media and Technology*, 51(1), 1–7.

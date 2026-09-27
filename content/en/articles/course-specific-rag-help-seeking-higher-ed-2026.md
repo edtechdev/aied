@@ -48,27 +48,5 @@ The framing is about unequal access to support rather than about efficiency. Stu
 - The system was evaluated shortly after introduction, so novelty effects on ratings cannot be separated from the design.
 - The authors declare no conflict of interest but built the system they evaluated, which is a developer-as-researcher design rather than an independent test.
 
-## Connected Concepts
-- [[help-seeking]]
-- [[rag]]
-- [[llm]]
-- [[scaffolding]]
-- [[cs-education]]
-- [[trust-calibration]]
-- [[intelligent-tutoring]]
-- [[equity-in-ai-education]]
-- [[anxiety-and-stress]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[eduguard-safe-rag-llm-tutor]] — EduGuard: A Safe RAG-Based LLM Tutor for Programming Education
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated Help-Seeking
-- [[regulating-ai-tutor-adolescent-srl]] — Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning
-- [[ai-fallibility-warning-help-seeking]] — Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
-- [[llm-programming-support-governance-cs-education]] — Exploring the Design Space of LLM-Based Programming Support in CS Education
-- [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
-
 ## Citation
 Gray, A., & Hobbs, J. (2026). [Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education](https://arxiv.org/abs/2609.21600). arXiv:2609.21600.

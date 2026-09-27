@@ -7,7 +7,6 @@ foundations: [critical-thinking]
 pedagogy: [collaborative-learning, problem-solving]
 technology: [generative-ai]
 assessment: [assessment]
-connected_faqs: [group-work-ai]
 level: [higher ed]
 sources: ['raw/papers/systems-llm-skills-review.md']
 confidence: high
@@ -50,26 +49,6 @@ The review addressed four research questions (RQ1–RQ4) on how LLMs can foster 
 ## Limitations
 
 The authors explicitly list four limitations: (a) the search relied on the Web of Science Core Collection without considering other databases; (b) inclusion was restricted to scientific journal publications, excluding other document types; (c) the included documents did not focus on challenges of LLM adoption in teaching and learning, such as ethical concerns or privacy; and (d) the review covered only 2023 and 2024, the first two years of the technology's emergence. No formal risk-of-bias or quality-assessment instrument was applied to the included studies beyond the PRISMA 2020 protocol and the structured eligibility criteria.
-
-## Connected Concepts
-
-- [[higher-ed]]
-- [[collaborative-learning]]
-- [[critical-thinking]]
-- [[assessment]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[automated-essay-scoring]]
-- [[ai-detection]]
-
-## Connected Articles
-
-- [[ai-assisted-collaborative-learning-model-dbr]] — Design-Based Research for Developing an AI-Assisted Collaborative Learning Model to Enhance Critical Thinking and Problem-Solving Skills in Higher Education
-- [[ai-collaborative-learning-skills-impacts]] — Artificial Intelligence and Collaborative Learning: Impacts on Creativity, Critical Thinking, and Problem-Solving
-- [[ai-collaborative-learning-systematic-review]] — A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade
-- [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)
-- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction
-- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights
 
 ## Citation
 

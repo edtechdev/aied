@@ -66,26 +66,5 @@ The model is generally suited to major assessments, capstone projects, or profes
 - The Process stage requires documenting prompts and iterations continuously; the authors state that specialized tools to capture learners' ongoing interaction with GenAI still need to be developed.
 - Adoption is constrained by design: the authors limit the model to major assessments, capstone projects, or professional-development evaluation, and effective use depends on educators who can already deliver explicit instruction and [[scaffolding|scaffolding]].
 
-## Connected Concepts
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[scaffolding]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[ethics]]
-
-## Connected Articles
-- [[reclaiming-epistemic-agency-co-agency-2026]] — A critical framework for human–GenAI co-agency in education
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or shortcut? GenAI's dual role in SRL
-- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
-- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
-- [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI
-- [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education
-
 ## Citation
 Kadel, R., Shailendra, S., Islam, M. T., Saxena, U. R., Sharma, A., & Kaphle, S. (2026). [The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era](https://arxiv.org/abs/2609.03413). arXiv:2609.03413.

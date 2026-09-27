@@ -58,23 +58,6 @@ The finding that LLMs lag behind top human students on these riddles reinforces 
 - The riddles appear publicly on YouTube, so contamination of model training data is possible; the authors state they did not assess it and list de-contamination analysis as future work.
 - The student comparison uses retrospective real-world team performance rather than matched conditions, and only 156 riddles carried the metadata needed for the points analysis.
 
-## Connected Concepts
-
-- [[automated-question-generation]]
-- [[pedagogical-llm-training]]
-- [[benchmark]]
-- [[stem-education]]
-- [[k-12]]
-- [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-ed-evaluation]]
-## Connected Articles
-
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[teachbench-llm-teaching-evaluation]]
-- [[drawedumath-vlm-struggling-students-2026]]
-- [[civic-education-ai-lesson-plans]]
-- [[elbench-education-llm-benchmark-2026]]
 ## Citation
 
 Boateng, G., Ibrahim, N. D., John, S., et al. (2026). [*NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models*](https://arxiv.org/abs/2605.07051).

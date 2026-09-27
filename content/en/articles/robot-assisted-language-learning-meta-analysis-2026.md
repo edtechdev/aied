@@ -42,25 +42,6 @@ Embodied robots are increasingly used to support second-language (L2) learning, 
 - Only one of six moderators reached significance — robot-learner interaction format, and only marginally (p = .049) — leaving the moderator subgroups underpowered.
 - Publication-bias checks (Egger's regression z = 0.97, p = .33; trim-and-fill; fail-safe N) are only approximate because several studies contributed more than one effect size and the number of studies is small.
 
-## Connected Concepts
-
-- [[educational-robotics]]
-- [[language-learning]]
-- [[embodied-learning]]
-- [[multimodal]]
-- [[meta-analysis-systematic-review]]
-- [[learning-gains]]
-- [[collaborative-learning]]
-- [[pedagogical-agent]]
-
-## Connected Articles
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — Digital storytelling robots and motivation
-- [[pepper-robot-sign-language-lis-2025]] — Pepper robot for sign language learning
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Generative social robot in higher education
-- [[pepper-social-robot-formal-education-scoping-review-2026]] — Social robots in formal education scoping review
-- [[icub-humanoid-storytelling-llm-hri-2025]] — Humanoid storytelling with LLM-driven HRI
-
 ## Citation
 
 Wang, Y., Zhang, Z. J., & Zou, D. (2026). [*Multimodality and Social Interactions in AI-Enhanced Embodied Robot-Assisted Language Learning: A Meta-Analysis*](https://doi.org/10.1016/j.edurev.2026.100833). *Educational Research Review*.

@@ -58,29 +58,6 @@ Two calibrations explain the gap. Injecting all-zero learners per week moves the
 - The surrogate removes association between learners and association among a learner's own bands at the same time, so a separation does not identify which of the two is responsible.
 - Features are standardized using each dataset's own dispersion, so a generator that misstates the spread of a band is not penalized by any quantity reported here.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[ai-ed-evaluation]]
-- [[research-methods-aied]]
-- [[educational-measurement]]
-- [[quantitative-research]]
-- [[network-analysis]]
-- [[privacy]]
-- [[machine-learning]]
-- [[limitations-in-aied-research]]
-- [[edtech-platform]]
-
-## Connected Articles
-
-- [[datacanvas-edu-synthetic-data-business-analytics-2026]] — DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-Preserving Heterogeneous Multi-LLM Federated Inference for Cognitive Diagnosis
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and Explainable Learning Analytics for Privacy-Preserving Academic Risk Modeling Across Heterogeneous Educational Institutions
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[llm-unlearning-math-privacy]] — Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education
-- [[temporal-smoothness-debiased-kt]] — Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing
-- [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
-
 ## Citation
 
 Inoue, H., & Yasutake, K. (2026). [What fidelity metrics miss: A structural check on synthetic educational data](https://arxiv.org/abs/2609.27265). arXiv preprint.

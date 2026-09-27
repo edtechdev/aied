@@ -53,35 +53,6 @@ Two checks extend the main results. Tripling the question corpus with GPT-4o-gen
 - The extended-corpus robustness test uses GPT-4o-generated questions, so it measures behavior on synthetic rather than naturally occurring new items, and the misconception extension is a proposal only, since current datasets record binary correctness and no misconception results are reported.
 - Success is defined by the paper's own normalized metric, the percentage of maximum achievable knowledge-state improvement, which depends on assumptions about the calibrated model's mean knowledge state.
 
-## Connected Concepts
-- [[knowledge-tracing]] — the semantic KT model is the environment and reward source
-- [[reinforcement-learning]] — exercise sequencing optimized through value-based and policy-based methods
-- [[recommender-systems-and-learning-paths]] — the core application is next-exercise sequencing
-- [[adaptive-learning]] — policies personalize the exercise each student receives
-- [[personalized-learning]] — the four tasks target individual knowledge states
-- [[llm]] — GPT-4o produces solution steps, KC annotations and the extended question corpus
-- [[machine-learning]] — contrastive representation learning plus calibrated sequence modeling
-- [[learning-analytics]] — interpretable KC-level knowledge-state trajectories
-- [[student-modeling]] — a compact state encodes each student's history
-- [[cognitive-diagnosis]] — KC-level state estimation is a diagnostic object
-- [[math-education]] — XES3G5M and Eedi are both mathematics datasets
-- [[k-12]] — problem content and the Common Core alignment are school mathematics
-
-## Connected Articles
-
-- [[misconception-acquisition-dynamics-llms-2026]] — misconception-aware training and its data requirements
-- [[huang-interpretable-knowledge-tracing-2026]] — an adjacent effort to make knowledge tracing interpretable
-- [[xie-hillm-cd-2026]] — LLM-based cognitive diagnosis against knowledge tracing
-- [[proprl-prerequisite-relation-learning]] — learning prerequisite structure for sequencing
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — cognitive diagnosis driving personalized paths
-- [[skill-acquisition-without-temporal-info]] — modeling skill acquisition without full history
-- [[simulating-learner-task-selection]] — simulators that choose what a learner does next
-- [[graph-its-adaptive-algorithms-2026]] — adaptive algorithms inside an intelligent tutoring system
-- [[kt4eqg-personalized-question-generation]] — knowledge tracing applied to generating personalized questions
-- [[pattern-kc-programming-recommendation]] — KC patterns used for recommendation in a different domain
-- [[riedmann-reinforcement-learning-education-review-2026]] — a review of reinforcement learning in education
-- [[fair-explainable-edu-recommendations]] — fairness and explanation for educational recommenders
-
 ## Citation
 
 Ozyurt, Y., Almaci, T., Feuerriegel, S., & Sachan, M. (2025). [Personalized Exercise Recommendation with Semantically-Grounded Knowledge Tracing](https://proceedings.neurips.cc/paper_files/paper/2025/hash/13707aad517ddd6c09ea02e0f55e1e7a-Abstract-Conference.html). *Advances in Neural Information Processing Systems 38 (NeurIPS 2025)*.

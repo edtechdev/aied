@@ -61,21 +61,6 @@ institutions: [regulation]
 - No control or comparison condition with human feedback was used, and the trust, affect, and metacognition findings come from stimulated-recall interviews held a day after the task — self-report about one's own thinking, not directly observed mental process.
 - None of the 16 participants had previously taken the IELTS test, so the revision behavior observed may not represent more experienced or higher-proficiency writers.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[prompt-engineering]]
-- [[self-regulated-learning]]
-## Connected Articles
-
-- [[genai-teacher-feedback-comparison]]
-- [[ai-internal-feedback-evaluative-judgments]]
 ## Citation
 
 Zhan, Y., & Yan, Z. (2026). [*Students' engagement with ChatGPT feedback: Implications for student feedback literacy in the context of generative artificial intelligence*](https://doi.org/10.1080/02602938.2025.2471821). *Assessment & Evaluation in Higher Education*, 51(5), 821–834

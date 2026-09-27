@@ -47,32 +47,6 @@ The review applies the [[tpack|TPACK]] framework to identify what knowledge teac
 - The behavioral-engagement finding is a null result (SMD = 0.057, p = 0.828) and is much weaker evidence than the cognitive (g = 0.831) and affective (g = 0.729) effects, so the overall g = 0.752 should not be read as a uniform treatment effect.
 - Instructional-design variables (learning content, tool, strategy, assessment, outcome) significantly moderated outcomes, so pooled effect sizes conceal substantial variation between interventions.
 
-## Connected Concepts
-
-- [[tpack]]
-- [[teacher-ai-competency]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[learning-design]]
-- [[assessment]]
-- [[scaffolding]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[k-12]]
-- [[meta-analysis-systematic-review]]
-- [[educational-development]]
-
-## Connected Articles
-
-- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
-- [[genai-pd-ai-pck-learning-gain-2026]] — Intensive GenAI professional development and AI-PCK gains
-- [[teacher-ai-teaming-five-levels]] — Five-level teacher-AI teaming framework
-- [[ai-tpack-preservice-math-teachers]] — AI-TPACK readiness among pre-service mathematics teachers
-- [[teacher-ai-adoption-confidence]] — Teacher confidence and AI adoption
-- [[sec-ai-literacy-narrative-review-2026]] — Social-emotional competencies and AI literacy
-- [[genai-runaway-object-math-higher-ed]] — GenAI and mathematics in higher education
-- [[agentic-ai-education-scoping-review]] — Agentic AI in education scoping review
-
 ## Citation
 
 Liu, X., & Zhong, B. (2025). [*Integrating generative Artificial Intelligence into student learning: A systematic review from a TPACK perspective*](https://doi.org/10.1016/j.edurev.2025.100741). *Educational Research Review*, 49, 100741.

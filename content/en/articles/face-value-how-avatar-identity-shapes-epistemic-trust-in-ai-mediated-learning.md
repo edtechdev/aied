@@ -39,24 +39,6 @@ audience: [instructional designers, researchers]
 - Trust and epistemic uptake were modeled as static outcomes rather than processes, so the design supports association but not evidence about mechanisms.
 - Both samples were unpaid volunteers, with Study 2 recruited from a vetted online participant pool (e.g., Prolific, Qualtrics Panels), so participants may differ from typical classroom learners.
 
-## Connected Concepts
-
-- [[trust-calibration]] — epistemic trust in AI tutors
-- [[ai-education]] — the umbrella field
-- [[bias-mitigation]] — the bias activated by identity cues
-- [[pedagogical-agent]] — the avatar-based AI tutors
-- [[inclusive-learning]] — the equity concern
-- [[equity-in-ai-education]] — who is trusted vs ignored
-- [[human-ai-collaboration]] — learner uptake of AI guidance
-- [[stem-education]] — a domain amplifying bias
-- [[intelligent-tutoring]] — the intelligent-tutoring context
-
-## Connected Articles
-
-- [[social-robot-study-companions]]
-- [[multi-agent-llm-social-learning]]
-- [[agent-voice-accents-k12-group-learning]] — How agent voice accents shape human-AI collaboration
-
 ## Citation
 
 Anthis, Z., & Kyriakidou-Zacharoudiou, A. (2026). [*Face value: How avatar identity shapes epistemic trust in AI-mediated learning*](https://doi.org/10.1016/j.caeai.2026.100610). *Computers and Education: Artificial Intelligence*, 10, 100610.

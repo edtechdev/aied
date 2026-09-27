@@ -61,22 +61,6 @@ The study uses web-based document analysis with Braun and Clarke's six-phase the
 
 The models are conceptual and were not empirically validated; the author calls for pilots and longitudinal, mixed-methods testing. The dataset was limited to 80 publicly accessible, predominantly English-language documents published in a short window, so internal practices and tacit institutional knowledge are absent. The analysis involved a single researcher, with no inter-coder reliability check reported. The framework explicitly targets ICT programs at AQF levels 7 to 9 in Australia, and transferability elsewhere is asserted rather than demonstrated. Implementation challenges such as staff resistance, resource limits, and workload pressures are acknowledged but not resolved.
 
-## Connected Concepts
-
-- [[assessment-validity]]: valid evidence that students attained the intended competencies
-- [[authentic-assessment]]: process-oriented, integrity-focused design
-- [[generative-ai]]
-- [[academic-integrity]]
-- [[governance]]
-- [[curriculum-design]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[ai-assessment-scale-reform]]: The AI Assessment Scale and assessment reform
-- [[beyond-detection-authentic-assessment-ai-2025]]: Beyond Detection, authentic assessment redesign
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]: Coauthorship integrity and assessment validity
-
 ## Citation
 
 Ahangama, N. (2026). [*Designing assessments in the generative AI era: A tailored assessment framework for ICT tertiary education*](https://doi.org/10.1186/s41239-026-00582-0). International Journal of Educational Technology in Higher Education, 23(9).

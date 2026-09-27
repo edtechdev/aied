@@ -45,22 +45,6 @@ This paper connects [[productive-failure]] to [[teacher-role|teacher]] support a
 - Ratings used the authors' own five-item rubric (maximum total 25) rather than an external quality or learning measure, so the studies do not establish that productive-failure outcomes improve for students.
 - ProductiveMath has no student-facing features yet — the authors state that future work will add them — so the tool's classroom effects on productive failure remain untested.
 
-## Connected Concepts
-
-- [[productive-failure]]
-- [[generative-ai]]
-- [[llm]]
-- [[math-education]]
-- [[k-12]]
-- [[teacher-role]]
-- [[learning-design]]
-
-## Connected Articles
-
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems for Productive Failure
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-
 ## Citation
 
 Rhaimi, S., Ercan, D., Gao, R., Esmaeiligoujar, S., Babaee, M., Li, H., Zhang, S., Lee, S., Closser, A., & Botelho, A. (2025). [*ProductiveMath: A Generative-AI-Powered App to Support Productive Failure Teaching*](https://doi.org/10.1007/978-3-031-99264-3_43). University of Florida. DOI: 10.1007/978-3-031-99264-3_43.

@@ -95,37 +95,6 @@ The rules the strongest students set for themselves can be taught, and students 
 - The trial compared one specific scaffold — a 25-hint budget, a 15-minute AI cap, a session reflection and mandatory tagging — against open access, and the authors state the results say nothing about scaffolds in general.
 - The scaffold leaked across the randomized conditions, with some Coach students reporting that they looked at classmates' unrestricted screens when stuck, and performance was measured by course assignments and a ten-item concept inventory with no delayed test taken without AI.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[self-regulated-learning]]
-- [[self-efficacy]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-- [[help-seeking]]
-- [[metacognition]]
-- [[assessment]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[prompt-engineering]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch?: A Grounded Theory of Cognitive Scaffolding and Offloading in AI-Assisted Programming Education
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
-- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning: Evidence from high school mathematics
-- [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance: A Mixed-Method Study of Generative AI and Sustainable Learning Performance
-- [[cognitive-washout-ai-skill-decay-2026]] — After the Assistant Leaves: Cognitive Washout Dynamics and the Reversibility of AI-Induced Skill Decay
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Understanding Student Dependency on AI: The Role of AI Literacy, Academic Self-Efficacy, and Resource Management Strategies
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments
-- [[reshaping-cs-education-genai]] — Reshaping Undergraduate Computer Science Education in the Generative AI Era
-- [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis
-- [[jost-llm-programming-education-learning-outcomes]] — The Impact of Large Language Models on Programming Education and Student Learning Outcomes
-
 ## Citation
 
 Azimi, S. (2026). [*AI literacy over tool design: a mixed-methods study of scaffolded versus unrestricted generative AI in programming education*](https://arxiv.org/abs/2609.16784). arXiv preprint.

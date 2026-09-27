@@ -41,23 +41,6 @@ page_kind: [evaluation]
 - There was no controlled comparison condition, so learning effects cannot be attributed causally; facilitator influence, peer effects, and variable student motivation were uncontrolled classroom variables.
 - The tutor gave incorrect arithmetic information in 4 of 40 sessions (10%), and LLM version updates may shift prompt performance, requiring ongoing monitoring and periodic re-validation.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[guardrails]]
-- [[prompt-engineering]]
-- [[math-education]]
-- [[problem-solving]]
-- [[student-engagement]]
-
-## Connected Articles
-
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — designing LLM support that is appropriately scaffolded and agentic
-- [[llm-agents-5e-esl-grammar-2026]] — LLM agents structuring multi-turn instructional interaction
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — a scaffolding framework for AI literacy
-- [[ai-tpack-preservice-math-teachers]] — AI/TPACK integration in mathematics teacher education
-
 ## Citation
 
 [Taming the black box: Design principles for rule-integrated LLM tutoring systems in primary school mathematical problem solving](https://www.sciencedirect.com/science/article/pii/S2666920X26000482) — Looi, C.-K., Liu, Z., & Sun, D. (2026). *Computers and Education: Artificial Intelligence*, 10, 100586.

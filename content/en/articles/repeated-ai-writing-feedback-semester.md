@@ -33,22 +33,6 @@ The study surfaces the central tension in [[cognitive-offloading|Over-Reliance]]
 - Appraisals were a short feedback-appraisal slot within reflective essays and were analyzed with LLM-assisted coding, which remains an approximation of students' judgment.
 - The AI-text classifier used to estimate essay groundedness does not officially support Estonian and was assessed on a small test set, and the authors note a large share of the corpus likely cannot be treated as purely unaided student writing.
 
-## Connected Concepts
-
-- [[ai-feedback-quality]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[writing-education]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[learning-gains]]
-- [[generative-ai]]
-## Connected Articles
-
-- [[ai-generated-feedback-higher-ed]]
-- [[generative-ai-reduced-study-time-math]]
-- [[sequenced-ai-feedback-learning]]
 ## Citation
 
 Karjus, A., Leoste, J., & Oun, T. (2026). [Student Evaluation of Repeated AI Feedback Across a Semester of Writing](https://arxiv.org/abs/2607.16115).

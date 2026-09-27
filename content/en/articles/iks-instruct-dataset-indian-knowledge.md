@@ -43,25 +43,6 @@ IKS-Instruct targets a gap in instruction tuning: existing datasets such as Alpa
 - 67% of auto-generated Vedic mathematics pairs were erroneous before filtering, subtle errors may persist in retained pairs, and the manually verified v2.1 reduced coverage of mathematical techniques.
 - Coverage stops at the CBSE classes 6-12 alignment — no primary (classes 1-5) or higher education — and oral guru-shishya traditions and manuscript-only texts are structurally absent because the dataset is built from digitally available sources.
 
-## Connected Concepts
-- [[llm]]
-- [[generative-ai]]
-- [[educational-nlp]]
-- [[equity-in-ai-education]]
-- [[language-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[pedagogical-agent]]
-- [[open-source]]
-
-## Connected Articles
-
-- [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
-- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
-- [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[llm-children-reading-story-generation]] — Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety
-- [[book-level-synthetic-textbook-organization]] — Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training
-
 ## Citation
 
 Shwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani (2026). [IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems](https://arxiv.org/abs/2607.23322).

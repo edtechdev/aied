@@ -43,24 +43,6 @@ methods: [design-based-research]
 - The discourse classifiers were trained on data from a single curriculum unit, cover only three of the four Community Agreement categories, and lose accuracy on Whisper ASR transcripts (AUROCs of 0.71, 0.67, and 0.71) relative to human transcripts (0.84, 0.77, and 0.82).
 - CoBi processes speech only: the authors state it cannot attend to non-verbal cues such as gaze and head movement that carry conversational feedback, with multimodal support slated for a future version.
 
-## Connected Concepts
-
-- [[collaborative-learning]]
-- [[k-12]]
-- [[human-in-the-loop-ai]]
-- [[student-ai-interaction]]
-- [[edtech-platform]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[ai-collaborative-learning-systematic-review]]
-- [[ai-assisted-collaborative-learning-model-dbr]]
-- [[clara-collaboration-literacy-dashboard]]
-- [[privacy-aware-classroom-incident-recognition-2026]]
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]]
-- [[teacher-ai-teaming-five-levels]]
-
 ## Citation
 
 Breideband, T., Bush, J. B., Reitman, J. G., Rose, S., Weatherley, J., Penuel, W. R., & D'Mello, S. K. (2025). [A Feasibility and Implementation Integrity Study of the Community Builder (CoBi): An AI-based Collaboration Support System in K-12 Classrooms](https://doi.org/10.1007/s40593-025-00509-2). *International Journal of Artificial Intelligence in Education*, 35(4), 3579-3613.

@@ -43,28 +43,6 @@ confidence: high
 - The AIFL construct covers attitudes and practices only; the authors state it does not address emotional, ethical, or relational dimensions of feedback literacy.
 - Only student perspectives were measured, so the teacher-mediation role the paper recommends is untested in the data.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[writing-education]]
-- [[higher-ed]]
-- [[assessment]]
-- [[motivation]]
-- [[feedback-literacy]]
-
-## Connected Articles
-
-- [[ai-generated-feedback-higher-ed]]
-- [[learner-centered-feedback-ai]]
-- [[care-full-feedback-genai]]
-- [[ai-feedback-critical-thinking-writing-2026]]
-- [[chatgpt-feedback-engagement-genai]]
-- [[genai-feedback-design-multisite-experiment]]
-
 ## Citation
 
 Liu, K., & Deris, F. D. (2025). [*AI feedback literacy in higher education: Understanding, measuring, and predicting student feedback uptake*](https://doi.org/10.1080/02602938.2025.2587924). *Assessment & Evaluation in Higher Education*.

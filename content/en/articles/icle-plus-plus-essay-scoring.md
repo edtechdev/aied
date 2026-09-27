@@ -36,27 +36,6 @@ methods: [benchmark]
 - Trait scoring results were poorer on ICLE++ than on ASAP and hurt within-prompt holistic scoring, and the authors note that additional experiments are needed to explain why traits still improved cross-prompt scoring.
 - The corpus cannot be redistributed — source essays stay under ICLE's license and only the annotations with identifiers pointing to them are released, for non-profit research use.
 
-## Connected Concepts
-
-- [[automated-essay-scoring]]
-- [[automated-assessment]]
-- [[writing-education]]
-- [[benchmark]]
-- [[formative-assessment]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[ai-scoring-language-bias-physics]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[aiawe-automated-writing-evaluation]]
-
 ## Citation
 
 Shengjie Li, Vincent Ng (2026). [ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring](https://arxiv.org/abs/2607.27671).

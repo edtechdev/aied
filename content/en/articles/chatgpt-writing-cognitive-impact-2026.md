@@ -57,35 +57,6 @@ The study is a causal test of an [[cognitive-offloading|offloading]] prediction 
 - Several RM-HLM assumptions were violated — non-normal residuals, heterogeneity of variance in two models and a level-two N below 50 — which underestimates standard errors, though floor effects at pretest plausibly explain it.
 - Ecological validity is questionable (an artificial exam-like setting, unfamiliar desktops, one 20-minute episode), the manipulation was imperfect — 3 of 20 ChatGPT-group participants never used the tool — and the unvalidated test mainly captures lower levels of Bloom's taxonomy.
 
-## Connected Concepts
-
-- [[cognitive-offloading]] — the prediction the study tests: delegation of elaborative work to a model
-- [[critical-thinking]] — self-generated examples and connections as the thinking the task required
-- [[writing-education]] — writing-to-learn as the instructional frame the intervention sits inside
-- [[metacognition]] — deliberate elaboration as the mechanism, and the effort participants did not spend
-- [[generative-ai]] — ChatGPT 3.5 as the tool in the experimental condition
-- [[llm]] — the model class whose time efficiency was expected to amplify a writing-to-learn effect
-- [[conversational-ai]] — the chat interface through which participants generated examples
-- [[motivation]] — the pre-existing group difference that absorbed variance attributed to ChatGPT use
-- [[self-efficacy]] — self-efficacy for self-regulation of academic writing, measured and non-significant
-- [[transfer-of-learning]] — what a single 20-minute writing task can and cannot show about durable learning
-- [[desirable-difficulties]] — the effortful conditions the ChatGPT condition removed
-- [[retrieval-spacing-interleaving]] — self-generated elaboration contrasted with fluent, model-supplied content
-- [[cognitive-psychology]] — the learning and memory findings the hypothesis was built on
-
-## Connected Articles
-
-- [[ai-dependence-academic-writing-ipace-2026]] — I-PACE model of generative-AI dependence in academic writing
-- [[agency-gap-ai-writing]] — authorship and agency when AI writes alongside the student
-- [[academic-erasure-complexity-ai-writing-2026]] — what AI-assisted writing erases from the composing process
-- [[ai-anxiety-strategic-regulation-writing-2026]] — strategic regulation of AI use in writing
-- [[misiejuk-cognitive-offloading-prompting-2026]] — offloading and prompting in GenAI-supported study
-- [[seung-basham-cognitive-offloading-swld-2026]] — cognitive offloading among students with learning difficulties
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — cognitive outsourcing in GenAI-mediated assessments
-- [[absent-cognitive-baseline-2026]] — what disappears when the learner's baseline effort is removed
-- [[llm-interaction-depth-task-quality-recall-2026]] — interaction depth versus recall in LLM-supported study
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — the case against frictionless AI in learning
-
 ## Citation
 
 Wagner-Kobayashi, E. L. (2026). [*ChatGPT making our minds dull? The cognitive impact of using ChatGPT in the writing process*](https://osf.io/preprints/psyarxiv/j2u4y_v1). *PsyArXiv Preprints*.

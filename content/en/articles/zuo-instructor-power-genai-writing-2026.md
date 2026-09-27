@@ -52,26 +52,6 @@ An instrumental case study (exploratory approach) at "Palm Tree University," a f
 - All evidence is instructors' self-reported perceptions gathered at a single time point in Fall 2024; the study documents what instructors say they do, not observed classroom practice or student learning.
 - The 10 interviewees came from a fixed set of disciplines (English, Psychology, Education, Management, Biology, Medicine) with 3-27 years of teaching experience, leaving other fields and career stages unrepresented.
 
-## Connected Concepts
-
-- [[teacher-role]]
-- [[writing-education]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[academic-integrity]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]
-- [[pedagogy]]
-
-## Connected Articles
-
-- [[genai-policies-higher-ed-computing]] — GenAI policies in higher-ed computing
-- [[enright-staff-perspectives-genai-2026]] — Staff perspectives on GenAI
-- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing
-
 ## Citation
 
 Zuo, Y., Xu, X., & Dunning, L. A. (2026). ["Will AI steal my glory?": Power relations perceived by college instructors when grappling with Generative AI. *Journal of Applied Learning & Teaching*, 9(1)](https://doi.org/10.37074/jalt.2026.9.1.8).

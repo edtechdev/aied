@@ -89,26 +89,6 @@ High-fidelity simulation depends on granular, real-world traces of learner error
 - The framework assumes developers can enforce strict knowledge constraints through architectural design, which the authors concede may be undermined by the fragility of prompt engineering and the opacity of commercial black-box models.
 - The risks the framework raises are named but not tested: unlocalized "struggle" or "misconception" cues can reinforce stereotypes, and a simulator whose improvement is causally disconnected from the intervention it is meant to test functions as a "pedagogical placebo," with negative training transfer a stated risk for novice teachers.
 
-## Connected Concepts
-
-- [[simulating-students]]
-- [[student-modeling]]
-- [[llm]]
-- [[generative-ai]]
-- [[adaptive-learning]]
-- [[ai-ed-evaluation]]
-- [[trust-calibration]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[simulating-students-diverse-cognitive-levels-2025]] — Embracing Imperfection: Simulating Diverse Cognitive Levels
-- [[simulating-students-llm-review-2026]] — Simulating Students with LLMs: A Review
-- [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: Multi-Agent Simulation for Education
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
-- [[history-aware-student-simulation]] — History-Aware Profiles for Student Simulation
-- [[llm-student-simulation-teacher-insights]] — Can LLMs Simulate Human Learners?
-
 ## Citation
 
 Yuan, Z., Xiao, Y., Li, M., Xuan, W., Tong, R., Diab, M., & Mitchell, T. (2026). [*Towards valid student simulation with large language models*](https://arxiv.org/abs/2601.05473).

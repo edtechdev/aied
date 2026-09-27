@@ -40,19 +40,6 @@ Learning-by-teaching helps learners deepen understanding by explaining concepts 
 - Outcomes were highly individual rather than uniform: one participant scored 60% lower with the proposed system than with the baseline, attributed to cognitive overload.
 - The system's GPT-4o temperature was fixed at zero, producing repeatedly identical questions that several participants could predict, and the prompts did not strongly emphasize adapting to learner responses.
 
-## Connected Concepts
-
-- [[learning-by-teaching]]
-- [[generative-ai]]
-- [[language-learning]]
-- [[student-experience]]
-- [[scaffolding]]
-
-## Connected Articles
-
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT as a teachable agent in programming
-- [[prompting-teachability-novice-personas-lbt-2026]] — Designing novice personas for teachability
-
 ## Citation
 
 Uchida, T., Watanabe, K., Vargo, A., Ishimaru, S., Rose, R. L., Sugawara, A., Dengel, A., & Kise, K. (2026). [*Empowering Vocabulary Learning Through Teaching AI: Using LLMs as a Student to Perform Learning by Teaching in Vocabulary Acquisition*](https://doi.org/10.1145/3795011.3797361). In *Augmented Humans International Conference 2026 (AHs '26)*.

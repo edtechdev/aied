@@ -43,21 +43,6 @@ The review surfaces both opportunities and challenges. Opportunities include sca
 - Conference evidence comes from five venues (EARLI, NCME, AERA, ACE, ASCILITE), and the thematic structure comes from a four-topic LDA solution chosen by perplexity and coherence scores plus expert judgment — choices that shape the reported eras and themes.
 - It is a structured thematic synthesis, not a quantitative meta-analysis: no pooled effect sizes are reported, so the review cannot estimate how much AI improves measurement outcomes.
 
-## Connected Concepts
-
-- [[educational-measurement]] — the domain under review
-- [[ai-ed-evaluation]] — evaluation of AI-enabled assessment
-- [[assessment]] — the practice AI is reshaping
-- [[generative-ai]] — the driving technology of the Generative Era
-- [[assessment-validity]] — construct validity is a central challenge
-- [[automated-assessment]] — AI on scoring and item generation
-
-## Connected Articles
-
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — companion on AI literacy interventions and assessment
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — LLM-based assessment evaluation
-- [[genai-oop-programming-assessments-2026]] — GenAI on authentic programming exams
-
 ## Citation
 
 Xiong, J., & Li, F. (2026). [*A decade of reflection and thematic review on artificial intelligence's impact on educational measurement*](https://doi.org/10.1016/j.edurev.2026.100789). Educational Research Review, 51, 100789.

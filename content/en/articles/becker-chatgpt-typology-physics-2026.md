@@ -48,21 +48,6 @@ This study develops a data-driven typology of [[physics-education|physics]] stud
 - **Zero-inflation in the latent class analysis.** Categories were converted to indicator variables, so a topic a participant never mentioned is coded as "no endorsement"; the dataframe fed to the LCA is likely overpopulated with zeros, and filtering sparse variables mitigates but does not eliminate the distortion.
 - **One tool, one discipline.** Findings are specific to ChatGPT in physics study programs at German universities and should not be read as generalizable to generative AI as a whole.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[physics-education]]
-- [[rag]]
-- [[scaffolding]]
-## Connected Articles
-
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[socratic-ai-physics-tutor-taxonomy-2026]]
-- [[critical-genai-use-predictors]]
-
 ## Citation
 
 Becker, E., Bauer, A., Schrader, J., Bitzenbauer, P., & Veith, J. (2026). [Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education](https://doi.org/10.1103/gd1w-1637).

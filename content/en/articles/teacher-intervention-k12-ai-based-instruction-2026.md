@@ -61,30 +61,6 @@ A [[meta-analysis-systematic-review|systematic review]] following PRISMA, coveri
 - Coverage by system type is thin — 3 studies on embodied or robot-based systems and 5 on intelligent tutoring or automated feedback — leaving some designs represented by very few studies.
 - In many studies the independent effect of teacher intervention could not be separated from system design, instructional structure, student characteristics or classroom context, and teacher-side claims rest largely on perception; one large-scale quantitative study found orchestration was not directly associated with student achievement.
 
-## Connected Concepts
-
-- [[k-12]]
-- [[teacher-role]]
-- [[meta-analysis-systematic-review]]
-- [[learning-analytics]]
-- [[scaffolding]]
-- [[agency]]
-- [[human-in-the-loop-ai]]
-- [[intelligent-tutoring]]
-- [[generative-ai]]
-- [[feedback]]
-- [[student-engagement]]
-
-## Connected Articles
-
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]]
-- [[ai-tutoring-quality-k12-methodologies-2026]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]]
-- [[lee-anson-k12-teachers-ai-activity-theory]]
-- [[hybrid-human-ai-tutoring-differentiated]]
-- [[teacher-student-agency-orchestration]]
-
 ## Citation
 
 Lee, H. (2026). [Teacher intervention in K-12 AI-based instruction: a systematic review of processes, strategies, and effects](https://doi.org/10.1186/s40561-026-00461-1). *Smart Learning Environments*, 13(35).

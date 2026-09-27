@@ -65,37 +65,6 @@ For practice, the framework points at a division of labor that fits [[intelligen
 - **The competency result bypasses the architecture.** On the TIMSS benchmarks no stems were available, so the state-of-the-art competency accuracy came from a process-only variant with no tree construction and no graph network — it validates solution-text encoding, not the full framework.
 - **Baselines and label noise.** Comparison rests on a zero-shot LLM (Deepseek-V3.2) and two supervised encoders the authors note were not applicable to the stem-less datasets, and the authors acknowledge some apparent errors trace to inconsistent benchmark labels or to mathematically valid alternative solution routes.
 
-## Connected Concepts
-
-- [[automated-question-generation]]
-- [[assessment]]
-- [[math-education]]
-- [[item-response-theory]]
-- [[knowledge-graph]]
-- [[educational-measurement]]
-- [[benchmark]]
-- [[problem-solving]]
-- [[llm]]
-- [[k-12]]
-- [[personalized-learning]]
-- [[automated-assessment]]
-- [[cognitive-diagnosis]]
-- [[adaptive-learning]]
-- [[educational-nlp]]
-
-## Connected Articles
-
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the Quality of AI-Generated Exams: A Field Study
-- [[item-writing-flaws-irt-difficulty-2026]] — Item-Writing Flaws and IRT Difficulty
-- [[llm-item-difficulty-prediction]] — Predicting Item Difficulty with Large Language Models
-- [[generate-then-validate-question-gen]] — Generate then Validate: Question Generation for Education
-- [[slidesqaqa-pedagogical-question-generation]] — SlideSQaQA: Pedagogical Question Generation from Slides
-- [[kt4eqg-personalized-question-generation]] — Knowledge Tracing for Educational Question Generation
-- [[razavi-powers-item-difficulty-llm-2026]] — Razavi and Powers on Item Difficulty Prediction with LLMs
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal Item Parameter Estimation
-- [[llm-difficulty-calibration-programming-exams-2026]] — Difficulty Calibration of LLM-Generated Programming Exams
-- [[llm-misconception-difficulty-easy-trap]] — Easy Traps: Misconception-Based Item Difficulty
-
 ## Citation
 
 Tong, J., Li, M., Chen, H., Jiang, Y., Ge, H., Wang, Y., & Qian, H. (2026). [*ProIQA: A Process-Based Framework for Fine-Grained Math Item Quality Assessment*](https://arxiv.org/abs/2609.15292). Findings of ICDM 2026.

@@ -56,26 +56,6 @@ Java interventions showed more consistent gains; Python — despite dominance in
 - Control conditions vary across studies (no internet access, no LLM access, historical data), so "control group" is not comparable from one study to the next.
 - Programming-language effects are not isolated: Java studies showed more consistent gains while Python, despite its dominance in CS1, lacks sufficient experimental data.
 
-## Connected Concepts
-
-- [[computational-thinking]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[prompt-engineering]]
-- [[scaffolding]]
-- [[llm]]
-- [[cs-education]]
-- [[learning-design]]
-
-## Connected Articles
-
-- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
-- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
-- [[critical-engagement-code-completion]] — To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attentio...
-- [[reshaping-cs-education-genai]]
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-
 ## Citation
 
 Vissapragada, A. (2026). [*A review of intervention designs of LLM Integration in Undergraduate Computer Science Education*](https://osf.io/preprints/edarxiv/knhyz_v1). EdArXiv preprint.

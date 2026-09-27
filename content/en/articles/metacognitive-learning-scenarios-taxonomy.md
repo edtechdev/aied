@@ -41,25 +41,6 @@ The taxonomy enables targeted, scenario-specific professional development interv
 - Priority status rests on published meta-analyses of effective metacognitive interventions and on the capabilities of existing workplace instruments rather than on measurements the authors took, so the taxonomy generates predictions it does not test.
 - Scope is confined to professional learning contexts in adult learners; the implications for lifelong learning trajectories are acknowledged rather than established, and no professional-development intervention was implemented to validate the tier progression.
 
-## Connected Concepts
-
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[professional-training]]
-- [[lifelong-learning]]
-- [[self-regulated-learning]]
-- [[transfer-of-learning]]
-- [[learning-design]]
-## Connected Articles
-
-- [[curiobot-llm-tutoring-exploratory-learning]] — Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[ai-learning-companions-framework]] — Building AI Companions that Prioritize Learning over Performance
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
-
 ## Citation
 
 Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2026). [A taxonomy of metacognitive learning scenarios in professional contexts: Integrating systems theory with empirical constraints](https://arxiv.org/abs/2605.24142).

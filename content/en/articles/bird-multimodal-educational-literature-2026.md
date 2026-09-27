@@ -41,22 +41,6 @@ page_kind: [evaluation]
 - Computational limits forced subsampling of the full 515,688-excerpt corpus down to 20,000 rows (5,000 per Key Stage); the full text set was never benchmarked.
 - The linguistic modality was weak on its own (F1 = 0.392), so the headline 0.996 F1 is carried largely by the ELECTRA transformer; the authors call this unimodal linguistic weakness a scientific limitation, and the stakeholder web application had not yet been co-designed or evaluated with teachers.
 
-## Connected Concepts
-
-- [[educational-nlp]]
-- [[english-education]]
-- [[multimodal]]
-- [[llm]]
-- [[machine-learning]]
-- [[k-12]]
-
-## Connected Articles
-
-- [[llm-children-reading-story-generation]]
-- [[text-simplification-its]]
-- [[vocabulary-difficulty-prediction]]
-- [[acceptance-ai-english-tools-2026]]
-
 ## Citation
 
 Bird, J. J. (2026). [What differentiates educational literature? A multimodal fusion approach of transformers and computational linguistics](https://doi.org/10.1016/j.ijaied.2026.100007). *International Journal of Artificial Intelligence in Education*, 36, 100007.

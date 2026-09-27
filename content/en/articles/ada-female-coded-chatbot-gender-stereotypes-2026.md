@@ -41,26 +41,6 @@ level: [secondary, k 12]
 - The sample was *N* = 195 ninth-grade students in German secondary schools within a single learning group, and the non-binary response option on the gender item was selected by no participants, so the gender-stratified analyses compare only female and male students.
 - Chat logs could be attributed to only 57 of the 102 experimental-group participants (the rest most likely had an invalid or omitted identification number), so the usage analysis rests on a subsample, and novelty effects cannot be ruled out despite the interest findings.
 
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[stem-education]]
-- [[math-education]]
-- [[self-efficacy]]
-- [[conversational-ai]]
-- [[student-ai-interaction]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-
-## Connected Articles
-
-- [[all-girls-genai-makerspace-gender-equity-2026]] — An all-girls GenAI makerspace initiative for gender equity in computing
-- [[gender-bias-transfer-llm-writing]] — How LLM-assisted writing can contaminate student work with gender bias
-- [[dai-chatbots-problem-posing-primary-2026]] — Custom AI chatbots for problem posing in primary mathematics
-- [[mathematics-teachers-chatbot-motivation-2026]] — Chatbots and mathematics teacher motivation
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — How avatar identity shapes epistemic trust in AI-mediated learning
-- [[ai-overreliance-complex-adaptive-system-2026]] — Overreliance on AI as a complex adaptive system
-
 ## Citation
 
 Rücker, C. R., & Becker-Genschow, S. (2026). [Bridging the Gender Gap in STEM Education with AI: Female-Coded Chatbot as Role Model and Learning Assistant](https://doi.org/10.1016/j.chbah.2026.100392). *Computers in Human Behavior: Artificial Humans*. Advance online publication.

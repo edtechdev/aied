@@ -85,22 +85,6 @@ Role abandonment was most often triggered by Authority Challenge and Confusion a
 - All four evaluation metrics — Role Fidelity, Drift Index, Ethical Deviation, and Consistency — are computed by rule-based text analysis combined with keyword pattern matching over the conversation history, so the scores detect patterns rather than judge meaning.
 - Only three personas (Healthcare Assistant, Customer Support Agent, Financial Advisor) were tested, all in controlled environments; the authors note real deployments involve more complex domain-specific roles, and that adversarial testing techniques could themselves be misused to exploit deployed systems, requiring responsible access and [[governance|human oversight]].
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[ai-education]]
-- [[pedagogical-safety]]
-- [[intelligent-tutoring]]
-- [[pedagogical-agent]]
-## Connected Articles
-
-- [[detecting-llm-generated-text-latent-prompt]] — Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
-- [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
-- [[chen-teacharena-language-agents-realistic-teaching-2026]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-
 ## Citation
 
 Shouqi, S., Nazly, A., Wanniarachchi, J., & De Alwis, R. (2026). [*Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation*](https://arxiv.org/abs/2608.03166v1). v1.

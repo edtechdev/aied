@@ -66,35 +66,6 @@ The framework keeps three evaluation endpoints distinct: prediction is judged by
 - All 544 messages came from one small generator, Qwen2.5-Coder-1.5B-Instruct, under one deterministic decoding procedure, so structural results may not transfer to other models.
 - The source-verification signal rests on few traceable references: only 16 of 544 outputs had an exact code match before gating, and 25 still required structural review.
 
-## Connected Concepts
-
-- [[ai-feedback-quality]]
-- [[learning-analytics]]
-- [[cs-education]]
-- [[automated-assessment]]
-- [[feedback]]
-- [[scaffolding]]
-- [[knowledge-tracing]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[productive-failure]]
-- [[hallucination-risk]]
-- [[explainable-ai]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-
-## Connected Articles
-
-- [[llm-feedback-programming-classroom]] — A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming
-- [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
-- [[llm-adaptive-programming-error-explanations-2026]] — Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors
-- [[ai-supported-automated-programming-assessment-2026]] — Design and Evaluation of an AI-Supported Automated Programming Assessment Environment for Concept-Aligned Reinforcement in Engineering and Computing Education
-- [[reliable-programming-kt]] — Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols
-- [[learning-analytics-to-educational-interventions-2026]] — From Learning Analytics to Educational Interventions: Enhancing Decision-Making and Learning Design
-- [[at-risk-students-ml-prediction]] — Analysis and Prediction of At-Risk Students Using Machine Learning Algorithms
-- [[zhang-ml-student-progress-programming-2026]] — A Machine Learning Approach for Predicting Student Progress in Online Programming Education
-
 ## Citation
 
 Wang, S. (2026). [*A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education*](https://arxiv.org/abs/2609.29874). arXiv preprint.

@@ -37,20 +37,5 @@ audience: [instructors, curriculum designers, administrators]
 - The author writes from within a prior commitment to PBL-compatible pedagogy and acknowledges that the alignment "was found by someone inclined to look for it."
 - What counts as relevant judgment is treated as culturally situated, so the framework names the layer at which formation occurs without settling what that formation should produce.
 
-## Connected Concepts
-- [[problem-based-learning]]
-- [[collaborative-learning]]
-- [[cognitive-offloading]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[responsible-assessment-ai-era-stanford-2026]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]]
-- [[fenton-oral-exams-ai-authentic-assessment-2025]]
-
 ## Citation
 Rowe, M. (2026). [*Problem-based learning and the structural conditions for productive AI integration*](https://doi.org/10.35542/osf.io/haet3_v1). Preprint, OSF.

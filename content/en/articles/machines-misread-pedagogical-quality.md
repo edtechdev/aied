@@ -31,24 +31,6 @@ methods: [ai-ed-evaluation]
 - All four conditions ran within a single [[llm]]-based workflow on one intermediate-level statistics course in a Cybersecurity major, retaining roughly 120 of 180 generated candidates per rubric version.
 - Only two evaluation modes were compared inside that one workflow; no wider range of automated or hybrid evaluation baselines was benchmarked.
 
-## Connected Concepts
-
-- [[ai-ed-evaluation]]
-- [[llm]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[assessment]]
-- [[educational-measurement]]
-- [[automated-question-generation]]
-## Connected Articles
-
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
-- [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
-- [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
-
 ## Citation
 
 Pei-Yu Tseng, Mahir Akgun, Peng Liu (2026). [Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation](https://arxiv.org/abs/2606.23629).

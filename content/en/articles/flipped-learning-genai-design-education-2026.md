@@ -58,21 +58,6 @@ Three of five rubric dimensions plus the total score separated the cohorts with 
 - The questionnaire was collected from the intervention cohort only, and its pre- and post-course items were conceptually aligned but not identical repeated measures, so the shifts are self-reported perceptions rather than psychometric evidence of latent growth.
 - The qualitative material is thin by design: brief interviews with four students and the instructor, analyzed interpretively, with the swatch case presented as anecdotal.
 
-## Connected Concepts
-
-- [[design-education]]
-- [[generative-ai]]
-- [[experiential-learning]]
-- [[scaffolding]]
-- [[creativity]]
-- [[self-directed-learning]]
-
-## Connected Articles
-
-- [[genai-architectural-design-studios]] — Generative AI in architectural design studios
-- [[rana-genai-design-thinking-2025]] — GenAI and design thinking in design education
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — GenAI-supported project-based learning and creativity in vocational design
-
 ## Citation
 
 Qu, H., Ling, Z., & Yang, Y. (2026). [*Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course*](https://arxiv.org/abs/2609.18505). arXiv preprint arXiv:2609.18505.

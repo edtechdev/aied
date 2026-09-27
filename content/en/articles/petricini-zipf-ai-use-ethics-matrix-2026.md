@@ -51,21 +51,6 @@ Each quadrant implies a design intervention. Against Q4 dynamics the authors rec
 - The empirical grounding is 30 interviews at one large, research-intensive mid-Atlantic institution, coded qualitatively: the quadrants are descriptive patterns, not a validated [[educational-measurement|measurement]].
 - The link between instructor framing and student agency is called by the authors themselves "a promising design hypothesis that warrants further applied research and practice," and several claims — detection as technocentric culture, surveillance replaced by structure — are normative positions rather than evidence.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[ai-use-disclosure]]
-- [[trust-calibration]]
-- [[assessment]]
-- [[agency]]
-
-## Connected Articles
-
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — students hide AI use in online assessments; authentic tasks respond where detection cannot.
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — reframing integrity around purpose and rhetorical stance instead of enforcement.
-- [[guided-inquiry-genai-course-policy-2026]] — students co-designing generative AI course policies, a classroom route to the clarity axis.
-
 ## Citation
 
 Petricini, T., & Zipf, S. (2026). [Designing for Virtuous AI Use: The AI-Use Ethics Matrix in AI-Mediated Classrooms](https://doi.org/10.65201/KQJB3018). *Journal of Instructional Design and Technology*, 1(2), 28-36.

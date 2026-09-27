@@ -49,38 +49,6 @@ The model integrates four theoretical perspectives: sociotechnical and ecosystem
 - The model remains abstract and may operate differently across institutional contexts — research-intensive, teaching-oriented, open and distance, transnational, private, and resource-constrained institutions.
 - Identified mediators and moderators remain unquantified: GenAI-supported feedback may improve revision in one context and foster dependency in another, and AI-transparent assessment may strengthen integrity while increasing workload elsewhere.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[pedagogy]]
-- [[learning-design]]
-- [[higher-ed]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[agency]]
-- [[assessment]]
-- [[governance]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[tpack]]
-- [[activity-theory-aied]]
-- [[distributed-cognition]]
-- [[icap-framework]]
-- [[universal-design-for-learning]]
-- [[community-of-inquiry]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-
-## Connected Articles
-
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Critical framework for human-GenAI co-agency in education
-- [[pearls-epistemic-verification-2026]] — Framework for developing epistemic agency in GenAI-mediated higher education
-- [[beyond-detection-authentic-assessment-ai-2025]] — Moving beyond detection toward authentic assessment with AI
-- [[jiang-genai-activity-theory-disciplines-2026]] — Activity-theoretic analysis of GenAI across disciplines
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for generative AI
-- [[prompt-privilege-equitable-ai-access-2026]] — Equitable AI access and the prompt-privilege gap
-
 ## Citation
 
 Moganadas, S. R., Marín-González, F., Nun, S. H., & Gan, C. L. (2026). [Generative AI as a Didactic-Pedagogical Mediator: Rethinking Human Roles and Pedagogical Design in Higher Education](https://doi.org/10.3389/feduc.2026.1856839). *Frontiers in Education, 11*, 1856839.

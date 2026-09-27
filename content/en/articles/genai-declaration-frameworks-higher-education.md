@@ -35,19 +35,6 @@ This [[discipline-specific-aied|domain-specific]] approach is proposed as a foun
 - It does not itself detect misconduct, and pairing it with detection tools raises well-documented reliability concerns.
 - The boundary of what counts as "GenAI use" is not always obvious to students, and transferability is open: the categories derive from a computing education taxonomy, so their reach into other disciplines remains untested.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[higher-ed]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[educational-policy-ai]]
-- [[student-experience]]
-- [[regulation]]
-- [[governance]]
-
-## Connected Articles
-
 ## Citation
 
 Micallef, N., & Petrovska, O. (2026). [Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education](https://arxiv.org/abs/2606.13389).

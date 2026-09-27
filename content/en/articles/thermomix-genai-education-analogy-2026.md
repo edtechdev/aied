@@ -55,28 +55,5 @@ The authors argue the key is not whether students use AI but how that use shapes
 - What the scenarios are said to require — prior knowledge, self-regulation, the ability to judge credible sources — is drawn from cited prior work rather than measured here.
 - The authors present the domains as analogous rather than equivalent, describing the appliance as "sufficiently distant" to permit reflection, so the transfer of the analogy to learning remains an argument rather than a finding.
 
-## Connected Concepts
-- [[generative-ai]]
-- [[ai-education]]
-- [[cognitive-offloading]]
-- [[student-engagement]]
-- [[active-learning]]
-- [[icap-framework]]
-- [[prompt-engineering]]
-- [[critical-thinking]]
-- [[self-regulated-learning]]
-- [[pedagogical-agent]]
-- [[agency]]
-- [[creativity]]
-- [[feedback]]
-- [[teacher-role]]
-
-## Connected Articles
-- [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI literacy, self-efficacy and dependency
-- [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed
-- [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines
-
 ## Citation
 Rummel, N., Nachtigall, V., & Panadero, E. (2026). [With a Thermomix You Lose the Ability to Cook: A Kitchen Machine Analogy for Applications of Generative AI in Education](https://arxiv.org/abs/2609.09856). arXiv preprint arXiv:2609.09856.

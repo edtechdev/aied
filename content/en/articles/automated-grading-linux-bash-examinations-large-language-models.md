@@ -55,22 +55,6 @@ Grading command-line examinations by hand does not scale to rising enrollments i
 - The human reference rests on three experienced instructors grading a rubric refined over several terms, and the strongest model–human agreement (ICC(3,1) = 0.888) still trailed the instructors' own inter-rater reliability (0.949) — with MAE 0.100 points against 0.028 for humans.
 - The cross-question context failure mode was found by manual inspection of individual responses rather than measured statistically, so its frequency in the dataset is unknown.
 
-## Connected Concepts
-
-- [[llm]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[ai-feedback-quality]]
-- [[cs-education]]
-## Connected Articles
-
-- [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
-- [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterizing AI Tutor Blind Spots When Analyzing Student Reasoning
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
-
 ## Citation
 
 Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira (2026). [Automated Grading of Linux/Bash Examinations Using Large Language Models](https://arxiv.org/abs/2607.02432).

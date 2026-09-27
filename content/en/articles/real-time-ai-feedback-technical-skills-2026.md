@@ -68,29 +68,5 @@ The recommendation set goes well beyond the evidence: [[educational-policy-ai|st
 - The 88% and 42% figures are self-reported, with no instrument reliability, item count, or inferential test, and the "User Trust" / "Feedback Satisfaction" coding is described only in passing.
 - Intact classes and purposive selection replaced randomization, and measurement ended at the Week 6 post-test, leaving selection and retention unaddressed.
 
-## Connected Concepts
-- [[feedback]]
-- [[formative-assessment]]
-- [[ai-feedback-quality]]
-- [[self-efficacy]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[cognitive-offloading]]
-- [[llm]]
-- [[learning-gains]]
-- [[stem-education]]
-- [[vocational-education]]
-- [[anxiety-and-stress]]
-
-## Connected Articles
-- [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback in education: A qualitative systematic literature review
-- [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional Structures, Digital Inequality, and AI Integration in Higher Education
-- [[ai-vocational-education-training-review]] — Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — How much selection would be enough? Bounding the learning claim of El Salvador's artificial intelligence tutoring pilot
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
-
 ## Citation
 Muritala, N. K., Ahmed, H. S., & Olumorin, C. O. (2026). [*Impact of real-time AI feedback on the technical skill acquisition of STEM students in Colleges of Education in Kwara State*](https://doi.org/10.64726/ve5g5r44). Aminu Kano Academic Scholars Association journal.

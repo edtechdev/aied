@@ -27,20 +27,6 @@ audience: [instructional designers]
 - Question answerability was judged by Qwen-3-4B, an automated judge, with no human rating of item quality in the main results.
 - The generated items are elementary mathematics written for a third-grade audience, so the demonstrated gains may not transfer to the higher-education settings an adaptive platform would use them in.
 
-## Connected Concepts
-
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[llm]]
-- [[adaptive-learning]]
-- [[automated-question-generation]]
-- [[intelligent-tutoring]]
-- [[student-modeling]]
-- [[formative-assessment]]
-## Connected Articles
-
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[slidesqaqa-pedagogical-question-generation]]
 ## Citation
 
 Xinyi Gao, Qiucheng Wu, Lu Ding, Q. Vera Liao, Kaizhi Qian, Ying Xu, Shiyu Chang, Yang Zhang (2026). [KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing](https://arxiv.org/abs/2605.23933). arXiv preprint.

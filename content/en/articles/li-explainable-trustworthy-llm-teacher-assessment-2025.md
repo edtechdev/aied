@@ -52,35 +52,6 @@ The authors name four constraints. The corpora cannot capture [[multilingual-lea
 
 Two internal inconsistencies should travel with the results. The ablation deltas in the discussion section are much larger than those implied by the results tables: removing the [[trust|trustworthiness]] module is reported as a 9.2% ICS drop and a 14.7% ExpScore drop there, where the earlier ablation reports ICS falling to 78.6% and ExpScore to 0.69. The explanation-subset evaluation also reports ECE of 0.058 where the main table reports 0.032, which the paper attributes to distributional differences in the subset. Both are reported rather than reconciled. The deployment proposal is concrete regardless: integrate with classroom recording platforms to capture transcripts, generate rubric-aligned scores and curriculum-grounded rationales per lesson, and deliver [[visualization|dashboards]] that link strengths and improvement areas to standards, piloting in mathematics or language arts before scaling across subjects. The authors position the architecture as reusable in other high-stakes domains such as healthcare diagnostics and legal auditing.
 
-## Connected Concepts
-
-- [[explainable-ai]] — explainability embedded in inference rather than post hoc rationales
-- [[trust]] — trust framing that motivates the design
-- [[trust-calibration]] — uncertainty calibration and reject-and-refer gating
-- [[bias-mitigation]] — adversarial debiasing for subgroup fairness
-- [[automated-assessment]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[psychometrically-aware-ai]]
-- [[llm]]
-- [[educational-nlp]]
-- [[human-in-the-loop-ai]] — human review workload and referral of low-confidence cases
-- [[teacher-ai-competency]] — assessing teaching practice with AI
-- [[teacher-role]] — machine-scored models of instructional quality
-- [[governance]] — accountability and oversight for high-stakes deployment
-- [[multimodal]] — stated framework scope beyond the text-only evaluation
-
-## Connected Articles
-
-- [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation for teaching quality, the closest task analogue
-- [[ai-rated-classroom-observation-scores-2026]] — Automated observation scores and what they measure
-- [[calibrating-trustworthiness-llm-education-2026]] — Calibration as a trustworthiness requirement for educational LLMs
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Whether explanations change teacher trust in AI recommendations
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]] — ChatGPT applied to teacher assessment and feedback
-- [[demographic-signals-llm-student-assessment-2026]] — Demographic leakage and fairness in LLM scoring
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Human oversight of automated scoring at scale
-- [[gpt-human-rater-essay-assessment-2026]] — Agreement between human raters and LLM scoring
-
 ## Citation
 
 Li, Y., Yang, H., & Fang, Q. (2025). [*Towards trustworthy and explainable-by-design large language models for automated teacher assessment*](https://doi.org/10.3390/info16100882). *Information*, 16(10), 882.

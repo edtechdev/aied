@@ -62,26 +62,6 @@ EPIQ operationalizes readiness through a dashboard of threshold indicators acros
 - It privileges open and authoritative sources rather than paywalled sector reports, so member-only publications limit the detail that could be extracted.
 - Percentages are reproduced from cited surveys whose samples and question wording vary, so prevalence figures such as 61% and 72% are not a single measurement; the authors target robust directional patterns instead of fine-grained cross-survey comparison.
 
-## Connected Concepts
-
-- [[educational-development]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[academic-integrity]]
-- [[teacher-ai-competency]]
-- [[assessment-validity]]
-- [[learning-design]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[ai-detection]]
-
-## Connected Articles
-
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[ai-assessment-scale-reform]]
-- [[raza-farooq-aied-review-2020-2025]]
-
 ## Citation
 
 Sangwa, S., Ndahayo, C., & Dusengumuremyi, F. (2026). [*Faculty Readiness for AI-Supported Teaching and Scalable Online Program Delivery in Higher Education: The EPIQ-AI Framework for Epistemic Integrity*](https://doi.org/10.35542/osf.io/kj4vt_v1). EdArXiv.

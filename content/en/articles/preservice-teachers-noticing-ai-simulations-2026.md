@@ -65,30 +65,5 @@ Compared with classroom or [[video-education|video-based]] settings, where multi
 - Deficit-oriented, text-based design bounded what was observable: shaping through participant structures or material resources was invisible, and multimodal reasoning underrepresented.
 - The environments ran on GPT-4o (OpenAI, 2024), superseded by June 2026 publication, so patterns may not carry over to newer models; mentor feedback uptake was not systematically analyzed.
 
-## Connected Concepts
-- [[simulating-students]]
-- [[teacher-education]]
-- [[math-education]]
-- [[conversational-ai]]
-- [[network-analysis]]
-- [[generative-ai]]
-- [[llm]]
-- [[simulation]]
-- [[scaffolding]]
-- [[situated-learning]]
-- [[inquiry-based-learning]]
-- [[teacher-ai-competency]]
-
-## Connected Articles
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — Integrating ChatGPT in Mathematics Teacher Education: AI-Based Simulation Role-Playing to Support Practice-based Teaching
-- [[hauk-student-avatars-dialogue-teacher-education-2026]] — Authentic and functional dialogue with AI-based student avatars: Evidence from a practice-based teacher education program
-- [[llm-student-simulation-teacher-insights]] — Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students
-- [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation with Large Language Models
-- [[simulating-students-llm-review-2026]] — Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with Generative AI
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators
-- [[inside-llm-student-simulator-reasoning-2026]] — INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Artificial intelligence in initial teacher training for pre-service primary school teachers in mathematics: a systematic review
-- [[penny-transition-network-analysis-efl-writing-2026]] — Transition network analysis of EFL writing
-
 ## Citation
 Galiç, S., Tejera, M., Parodi, S., Hohenwarter, M., & Lavicza, Z. (2026). [*Preservice mathematics teachers' noticing in AI-based simulations: transitions among attending, interpreting, and shaping*](https://doi.org/10.1007/s11858-026-01805-4). *ZDM – Mathematics Education*.

@@ -11,7 +11,6 @@ sources: ['raw/papers/ai-student-engagement-online-learning-review-2025.md']
 confidence: high
 audience: [instructional designers, instructors, learning analytics designers]
 page_kind: [synthesis]
-connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** Zhou (2025) [[meta-analysis-systematic-review|systematically reviews]] 24 studies from the Web of Science database on how AI enhances [[student-engagement|student engagement]] in [[online-teaching-and-learning|online learning]]. Six key applications emerge: AI chatbots in [[learning-design|course design]], emotion/facial/voice recognition and eye tracking, [[reinforcement-learning|machine learning]] for data analysis, teacher–student interaction support, [[personalized-learning|personalized]] feedback and recommendations, and AI-powered bots in smart learning environments. Findings show that integrating diverse AI tools and data sources yields more accurate, real-time insight into cognitive, emotional, and behavioral engagement — while limitations include the single-database scope, the conflation of synchronous and asynchronous contexts, and an engagement-only focus.
@@ -41,27 +40,6 @@ A [[meta-analysis-systematic-review|systematic literature review]] of 24 peer-re
 - It is a single-database, peer-reviewed-only review; the authors identify both the single-database scope and the engagement-only focus as limitations of what the synthesis can claim.
 - The review does not distinguish asynchronous from synchronous online learning, a conflation the authors name explicitly even though design implications differ between the two.
 - Studies whose primary focus was not student engagement were excluded, and the heterogeneous engagement measures (surveys, AI recognition, coded activity data) were synthesized narratively, so the review reports no pooled effect estimates.
-
-
-## Connected Concepts
-
-- [[student-engagement]]
-- [[online-teaching-and-learning]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-agent]]
-- [[affective-computing]]
-- [[learning-analytics]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[ai-online-education-engagement-satisfaction-2026]] — AI in online education: systematic review of learner engagement and satisfaction
-- [[chatgpt-perception-online-learning-engagement-2026]] — How students' perception of ChatGPT shapes online learning engagement
-- [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards as engagement tools
-- [[genai-tutor-engagement-patterns]] — Patterns in GenAI tutor use and engagement
 
 ## Citation
 

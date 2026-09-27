@@ -45,25 +45,6 @@ methods: [qualitative-research]
 - Only participants who had used AI for education in the past year were included, so the study represents AI users, not non-users, and says nothing about why peers avoid the tools.
 - Interviews were conducted at a single time point and rely on self-reported perceptions, leaving no view of how use changes over time and leaving room for social desirability and recall bias.
 
-## Connected Concepts
-
-- [[medical-education]]
-- [[technology-acceptance-model]]
-- [[ai-literacy]]
-- [[well-being]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI simulation in nursing education
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs and nursing professional identity
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming nursing education with AI
-- [[genai-scenario-based-healthcare-education-2026]] — GenAI in scenario-based healthcare education
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption in tertiary education
-
 ## Citation
 
 Akbaba, A., & Calik Kus, A. (2026). [Nursing Students' and Faculty Experiences with Artificial Intelligence in Education: A Qualitative Study Using the Technology Acceptance Model](https://doi.org/10.1186/s12912-026-04986-1). *BMC Nursing* (Article in Press).

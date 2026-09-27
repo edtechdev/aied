@@ -41,25 +41,6 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 - Publication bias cannot be ruled out: 8 of 11 studies (73%) reporting knowledge or skill outcomes and 8 of 9 (89%) reporting self-efficacy or attitude outcomes found significant improvements, and heterogeneity was too great for formal publication-bias testing.
 - The 19 studies (N = 1,253) were conducted in high-income countries or regions with robust technological infrastructure, with none from Africa, South America, or low-income countries, and several quantitative studies had small samples that limited statistical power.
 
-## Connected Concepts
-
-- [[medical-education]]
-- [[simulation]]
-- [[generative-ai]]
-- [[llm]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[meta-analysis-systematic-review]]
-
-## Connected Articles
-
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming nursing education with AI: systematic review (2010–2025)
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education
-- [[medgame-llm-medical-education-gamification]] — Gamified LLM-based learning for medical education
-- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive virtual patient for psychotherapy training
-- [[genai-simulate-patient-history-pbl-2026]] — GenAI to simulate patient histories in problem-based learning
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework for AI task distribution in medical training
-
 ## Citation
 
 Jiang, H., Wang, Z., Shen, W., Meng, M., Yang, D., Li, X., & Hao, Y. (2026). [AI-Powered Simulation for Nursing Education: Mixed Methods Systematic Review](https://doi.org/10.2196/95167). *Journal of Medical Internet Research, 28*, e95167.

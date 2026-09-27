@@ -4,7 +4,6 @@ created: "2026-08-09T07:09:19-04:00"
 updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-education, ai-literacy]
-connected_faqs: [institutional-ai-policy]
 pedagogy: [professional-training]
 audience: [administrators]
 research_method: [policy analysis]
@@ -67,18 +66,6 @@ The authors recommend a layered governance approach grounded in [[pedagogy|pedag
 - Only eight business schools had their own policy at the time of crawling (Haas, Columbia, Tuck, Harvard Business School, MIT Sloan, Kellogg, Ross, and Wharton), so the within-institution comparison rests on eight paired documents, six of which diverge from the host university.
 - The three measures are automated text statistics — Spacy sentiment polarity, BERTopic topic modeling, and SBERT cosine similarity — which describe wording and framing rather than implementation, enforcement, or classroom effect.
 - The authors cannot determine whether documents labeled "guidelines" are mandatory or optional, and they call for modeling that distinction through separate analytical samples in future work.
-
-## Connected Concepts
-
-- [[regulation]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[ai-literacy]]
-## Connected Articles
-
-- [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings
 
 ## Citation
 

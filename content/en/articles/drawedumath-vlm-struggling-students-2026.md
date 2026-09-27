@@ -41,23 +41,6 @@ methods: [ai-ed-evaluation, benchmark]
 - Scoring depends on machine judgment: a majority vote of three LLM judges (Spearman ρ = 0.808 against human ratings) plus GPT-5-mini annotators labeling student error, validated on a manually checked sample of 200 examples (F1 = 0.984), with supporting annotations taken from pre-existing teacher captions.
 - Several analyses are narrowed by data constraints: the redrawing experiment uses a stratified sample of 336 images rather than the full dataset because redrawing is time-intensive, some images were dropped from one analysis because their captions leaked correctness information, and one set of results covers only questions shared across multiple student images.
 
-## Connected Concepts
-
-- [[math-education]]
-- [[multimodal]]
-- [[misconceptions]]
-- [[ai-ed-evaluation]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[k-12]]
-- [[llm]]
-- [[educational-nlp]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking LLMs for diagnosing students' cognitive skills from handwritten math
-
 ## Citation
 
 Lucy, L., Zhang, A., Anderson, N., Knight, R., & Lo, K. (2026). [*The aftermath of DrawEduMath: Vision language models underperform with struggling students and misdiagnose errors*](https://arxiv.org/abs/2603.00925).

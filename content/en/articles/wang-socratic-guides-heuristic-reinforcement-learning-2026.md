@@ -65,27 +65,6 @@ The parameter-training track follows an alignment ladder: prompt-only PT-Base re
 - Scope is one 7B backbone (Qwen2.5-7B-Instruct) and one Chinese-language corpus from a single platform, and both the reward and the SE definition lean on LLM judges and a hand-curated keyword set, so generalization is untested.
 - The work is an arXiv preprint (25 Jul 2026), not peer-reviewed.
 
-## Connected Concepts
-
-- [[socratic-method]]
-- [[scaffolding]]
-- [[reinforcement-learning]]
-- [[pedagogical-llm-training]]
-- [[llm]]
-- [[critical-thinking]]
-- [[ai-misuse-learning-harm]]
-- [[inquiry-based-learning]]
-- [[simulating-students]]
-- [[intelligent-tutoring]]
-
-## Connected Articles
-
-- [[singh-eduqwen-pedagogical-rl-2026]] — reinforcement learning as a pedagogical tuning route for open-source LLMs
-- [[teachlm-post-training-llms-education]] — post-training an LLM on authentic learning data
-- [[measuring-llm-tutors-teach-vs-solve]] — diagnosing whether LLM tutors teach or hand over solutions
-- [[valid-student-simulation-llm-2026]] — how far LLM student simulation can be trusted
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — designing tutors away from answer delivery
-
 ## Citation
 
 Wang, X., Song, S., Liu, W., & Zou, X. (2026). [*Beyond Direct Answering: Aligning Educational LLMs as Socratic Guides via Heuristic Reinforcement Learning*](https://arxiv.org/abs/2607.22996). arXiv:2607.22996. Preprint, not peer-reviewed.

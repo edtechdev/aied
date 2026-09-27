@@ -47,23 +47,6 @@ For [[ai-ed-evaluation]] practice, this study is a high-confidence, [[quantitati
 - The technology moved during the study window: the authors note that generative AI capabilities were developing rapidly throughout, so their pooled effects describe the tools studied rather than whatever version a reader has in front of them now.
 - Pooled effects sit consistently across university and secondary levels, but the country-level subgroups diverge, so a single national or institutional setting is not what these estimates describe.
 
-## Connected Concepts
-
-- [[self-directed-learning]]
-- [[ai-ed-evaluation]]
-- [[ai-feedback-quality]]
-- [[constructivist]]
-- [[critical-thinking]]
-- [[game-based-learning]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[learning-gains]]
-- [[meta-analysis-systematic-review]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[personalized-learning]]
-- [[self-determination-theory]]
-
 ## Citation
 
 Dong, Y. (2026). [Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches](https://www.nature.com/articles/s41599-026-06903-y). *Humanities and Social Sciences Communications* 13, 559. https://doi.org/10.1057/s41599-026-06903-y

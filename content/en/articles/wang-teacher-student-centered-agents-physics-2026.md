@@ -60,39 +60,6 @@ The authors attribute the student-centered advantage to interaction structure ra
 - Assignment used ID-number parity rather than random allocation, and the knowledge-test distributions were non-normal (Kolmogorov–Smirnov p < 0.01), requiring Mann–Whitney U and Wilcoxon signed-rank tests.
 - Cognitive load, flow and empathy perception were self-reported on questionnaires, so the affective advantages describe students' perceptions of the agent rather than observed pedagogical behavior.
 
-## Connected Concepts
-
-- [[physics-education]]
-- [[pedagogical-agent]]
-- [[prompt-engineering]]
-- [[generative-ai]]
-- [[llm]]
-- [[intelligent-tutoring]]
-- [[affective-computing]]
-- [[student-ai-interaction]]
-- [[misconceptions]]
-- [[motivation]]
-- [[student-engagement]]
-- [[teacher-role]]
-- [[hallucination-risk]]
-- [[personalized-learning]]
-- [[human-ai-collaboration]]
-
-## Connected Articles
-
-- [[becker-chatgpt-typology-physics-2026]] — Typology of ChatGPT use in physics learning
-- [[socratic-ai-physics-tutor-taxonomy-2026]] — Taxonomy of Socratic AI physics tutors
-- [[hashmi-socratic-physics-chatbot-2025]] — Socratic physics chatbot
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: cognitively activated AI augmentation in physics
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — The trust–utility gap in physics AI tools
-- [[probing-ai-generated-physics-solutions-2026]] — Probing AI-generated physics solutions
-- [[multiagent-classroom-dual-process-physics-teachers-2026]] — Multi-agent classroom simulation with physics teachers
-- [[adversarial-stress-testing-role-playing-agents]] — Adversarial stress testing of role-playing agents
-- [[correct-answer-trap-ai-tutor]] — When hints help and when they encourage over-reliance
-- [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement
-
-#
-
 ## Citation
 
 Wang, Y., Chen, X., Xiong, Y., Xu, S., Li, Q., & Zhou, S. (2026). [Comparing teacher-centered and student-centered agents based on prompt engineering: Effects on learning performance, cognitive load, flow experience, and empathy perception in physics learning](https://doi.org/10.1103/9t5b-twsb). *Physical Review Physics Education Research, 22*(2), 020131.

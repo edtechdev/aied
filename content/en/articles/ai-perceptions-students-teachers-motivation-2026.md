@@ -44,21 +44,6 @@ confidence: high
 - The authors did not measure fine-grained teacher technological knowledge (training or experience with specific digital or AI tools) or systematically assess school technological infrastructure.
 - The negative class-level association between teacher self-efficacy and student motivation (β = −0.63, p < .05) is counterintuitive and, as the authors state, needs further research to identify the conditions under which it operates.
 
-## Connected Concepts
-
-- [[student-experience]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[k-12]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[genai-literary-assistants-writing-motivation-2026]] — GAI literary assistants and writing motivation
-- [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in lesson planning
-- [[chatgpt-inoculation-training-verification-2026]] — Inoculation training for ChatGPT verification
-
 ## Citation
 
 Baez, C., Buchner, J., Ullrich, A.-L., & Schallert-Vallaster, S. (2026). [*Exploring AI perceptions in education: unveiling the role of student and teacher motivation and self-efficacy*](https://doi.org/10.1016/j.caeo.2026.100346). *Computers and Education Open*, 100346. https://doi.org/10.1016/j.caeo.2026.100346

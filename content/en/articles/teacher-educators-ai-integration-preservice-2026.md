@@ -55,33 +55,6 @@ The authors read the trust and authenticity crisis through Mezirow's transformat
 
 The authors acknowledge five limitations. The 13 participants were selected precisely for their pioneering engagement, so findings reflect early adopters and cannot be generalized to teacher educators in Israel or beyond; skeptical faculty are not represented. The data rest entirely on [[self-report-measures|self-reported]] accounts, with the student voice absent. The study captures a specific moment in a rapidly evolving technological and policy landscape, limiting temporal transferability. Although the sample spans seven institutions across three educational streams, the small number of participants per institution limits systematic institutional comparison. Finally, the hybrid human plus AI-assisted analysis is still an emerging practice in qualitative research, and its interpretive complexity needs further methodological attention.
 
-## Connected Concepts
-
-- [[ai-literacy]] — the core construct participants reframe from tool proficiency to critical and ethical competence
-- [[teacher-education]] — the institutional setting whose AI-era reimagining the paper argues for
-- [[teacher-ai-competency]] — teacher educators developing their own AI literacy while fostering students'
-- [[generative-ai]] — the tool set reshaping lesson planning, materials, and assessment
-- [[academic-integrity]] — the trust and authenticity crisis behind assessment redesign
-- [[authentic-assessment]] — in-class, process-based, and non-digital evidence of learning
-- [[cognitive-offloading]] — participants' fear of cognitive atrophy and lost expertise
-- [[critical-thinking]] — the deficit participants saw in students' uncritical use of outputs
-- [[digital-divide]] — economic barriers and unequal access to quality AI tools
-- [[educational-policy-ai]] — absent unified institutional policy and national frameworks discussed
-- [[assessment]] — shifts toward process documentation, examinations, and oral defenses
-- [[teacher-role]] — pedagogical advisors and lecturers as agents of change and epistemic mediators
-
-## Connected Articles
-
-- [[human-centered-ai-teacher-educators-2026]] — teacher educators' perspectives on human-centered AI integration
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — conceptual work on preparing pre-service teachers for AI
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK in teacher education programs
-- [[sutedjo-faculty-genai-tpack-21-2026]] — faculty GenAI knowledge through a TPACK lens
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — faculty identity tensions around generative AI
-- [[beyond-detection-authentic-assessment-ai-2025]] — redesigning assessment when detection fails
-- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — authenticity and integrity in AI-era assessment
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — teachers navigating uncertainty with generative AI
-- [[science-educators-ai-literacy-postqualification-2026]] — AI literacy development among educators in practice
-
 ## Citation
 
 Goldstein, O., Marae-Haj, N., & Zidan, W. (2026). [Pioneering Teacher Educators Navigating AI Integration in Pre-Service Teacher Preparation: Strategies and Challenges](https://doi.org/10.3390/aieduc2030029). *AI in Education, 2*(3), 29.

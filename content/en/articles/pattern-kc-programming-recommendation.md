@@ -31,17 +31,6 @@ This work connects to core knowledge base themes: [[knowledge-tracing]] [[person
 - The first step of the KC extraction pipeline uses topic labels for training, so the approach does not apply directly to unlabeled corpora.
 - No classroom study was run; the authors note the work does not yet measure problem-solving performance, time-to-solution, or transfer when recommendations are available.
 
-## Connected Concepts
-
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[cs-education]]
-- [[recommender-systems-and-learning-paths]]
-## Connected Articles
-
-- [[programming-its]]
 ## Citation
 
 Hoq, Pitts, Duan, Narayanan, Hassany, Lan, Brusilovsky & Akram (2026). [Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components](https://arxiv.org/abs/2607.05409). CSEDM Workshop 2026 (arXiv preprint).

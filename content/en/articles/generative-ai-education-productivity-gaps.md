@@ -62,22 +62,6 @@ The main results are stable across the ten iterations of the [[automated-essay-s
 - The design deliberately abstracts from firms, wages, and organizational task allocation, so the estimates are task-level capability effects and the authors state they should not be read as predictions about wage or aggregate inequality.
 - Outcomes rest on an LLM-based [[automated-essay-scoring|grading]] procedure validated against human graders on a random 10% subsample of 117 responses (correlation above 0.9); the equalizing pattern is also specific to one generation of AI capability and may attenuate or reverse as models change.
 
-## Connected Concepts
-
-- [[rct]]
-- [[generative-ai]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[professional-training]]
-## Connected Articles
-
-- [[skill-diversity-worker-resilience]] — Navigating the skill diversity frontier: How skill complexity explains worker resilience
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
-- [[genai-literacy-image-discrimination]] — Generative AI Literacy Training Improves Intelligence Analysts’ Discrimination of Real and AI-Generated Images
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
-
 ## Citation
 
 Cruces, G., Fernandez Meijide, D., Galiani, S., Galvez, R., & Lombardi, M. (2026). [*Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment*](https://arxiv.org/abs/2608.04198v1). v1.

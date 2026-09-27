@@ -39,25 +39,6 @@ confidence: medium
 - The design is pretest–posttest within the same teams and includes no separate control group: the same 28 teams produced both the baseline and the constrained plans, with concurrent instructor feedback on both sets serving as the paper's stated control rather than an independent comparison.
 - The outcome is rubric-scored lesson-plan quality over a two-week window, not student learning; the rubric's complexity-and-innovation index measures higher-order cognitive demands embedded in the designed tasks, so the IAT model's emphasis on student cognitive outcomes goes unmeasured.
 
-## Connected Concepts
-
-- [[learning-design]]
-- [[educational-development]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[scaffolding]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[sustainability]]
-
-## Connected Articles
-
-- [[genai-can-harm-teaching-rct-2026]] — Is Using GenAI Tools in Teaching Really Improving Teaching Quality?
-- [[q-learning-lab-rl-teaching]] — Q-Learning Lab: RL Teaching
-- [[didactical-teacher-assistant-dimensional-modeling]] — Didactical Teacher Assistant
-- [[teacher-control-ai-generation-math-visuals]] — Teacher Control of AI Generation for Math Visuals
-- [[caruana-pre-university-ai-education-slr-2026]] — SLR of pre-university AI education (Caruana et al. 2026)
-
 ## Citation
 
 Talebzadeh, H. (2026). [*The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints*](https://doi.org/10.35542/osf.io/x6qzy_v1). EdArXiv. doi:10.35542/osf.io/x6qzy_v1.

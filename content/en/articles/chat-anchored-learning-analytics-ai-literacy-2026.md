@@ -39,16 +39,5 @@ page_kind: [framework]
 - Students were not directed to use AI writing assistants, so LLM-augmented surface polish remains an uncontrolled confound, and only 30% of posts (n = 132) were hand-coded for [[icap-framework|ICAP]] to check automated indices.
 - The pipeline operates only at the descriptive-diagnostic level; the early-warning signal was not coupled to any automated or instructor scaffold, so the study measured no effect of the analytics on learning.
 
-## Connected Concepts
-- [[activity-theory-aied]]
-- [[learning-analytics]]
-- [[ai-literacy]]
-- [[icap-framework]]
-- [[student-ai-interaction]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI use and disclosure through an activity theory lens
-
 ## Citation
 Moon, J. (2026). [*A cultural-historical activity theory-anchored learning analytics pipeline for early detection and social-epistemic integration in AI literacy education*](https://www.tandfonline.com/journals/cile20). Interactive Learning Environments (in press).

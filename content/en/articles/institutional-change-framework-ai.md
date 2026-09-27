@@ -71,26 +71,6 @@ The framework was piloted through a faculty workshop series in a university [[ph
 - **Context-bound evidence.** The framework is drawn primarily from U.S.-based change initiatives, and the authors note that the relative weight of the dimensions and specific design implications may shift in different institutional contexts.
 - **Deliberately provisional.** The authors concede that the dimensions most salient today may be reordered as the technology and practices mature, and present the framework as a starting point rather than an exhaustive or final model; the workshop materials are available only from the corresponding author.
 
-## Connected Concepts
-
-- [[educational-development]]
-- [[higher-ed]]
-- [[educational-policy-ai]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[stem-education]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[governance]]
-- [[teacher-ai-competency]]
-- [[curriculum-design]]
-
-## Connected Articles
-
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
-- [[universities-ai-era-rethinking]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[pedagogy-ai-mistakes]]
 ## Citation
 
 Perl-Nussbaum, D., & Finkelstein, N. D. (2026). [*A Framework for Institutional Change in the Age of AI*](https://arxiv.org/abs/2605.12757).

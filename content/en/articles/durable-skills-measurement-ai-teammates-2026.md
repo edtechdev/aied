@@ -69,37 +69,6 @@ The boundaries are equally clear. Participants were US-based English-native adul
 - Rubric dimensions were coarse 1–4 scales with an NA option, and inter-expert agreement stayed at Kappa 0.45–0.64 after several calibration rounds, so the protocol cannot claim more precision than two trained experts achieve on the same transcripts.
 - Evidence was measured at conversation level (each turn rated 20 times, with any single NA returning an NA label), and the steering trades breadth for depth, so a single conversation is a poor vehicle for a whole-profile assessment.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[educational-measurement]]
-- [[collaborative-learning]]
-- [[critical-thinking]]
-- [[creativity]]
-- [[group-work]]
-- [[simulating-students]]
-- [[agentic-ai]]
-- [[human-ai-collaboration]]
-- [[student-modeling]]
-- [[psychometrically-aware-ai]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[assessment-validity]]
-
-## Connected Articles
-
-- [[assessment-team-problem-solving-computing-education]] — Assessing Team Problem Solving in Computing Education
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling for Competency Assessment
-- [[clara-collaboration-literacy-dashboard]] — CLARA: A Collaboration Literacy Dashboard
-- [[simulating-students-diverse-cognitive-levels-2025]] — Simulating Students at Diverse Cognitive Levels
-- [[simulating-students-llm-review-2026]] — Simulating Students with LLMs: A Review
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — LLM Agents in Collaborative Problem-Solving Simulation
-- [[ai-teammate-task-distribution-medical-training-2026]] — AI Teammates and Task Distribution in Medical Training
-- [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: Multi-Agent Simulation in Education
-- [[ai-coaching-rl-skill-development]] — AI Coaching and Skill Development
-- [[valid-student-simulation-llm-2026]] — Valid Student Simulation with LLMs
-
 ## Citation
 
 Globerson, A., Keeling, A., Choudhury, A., Iurchenko, A., Segal, A., Hassidim, A., et al. (2026). [*Towards Scalable Measurement of Durable Skills*](https://arxiv.org/abs/2609.15864). arXiv preprint.

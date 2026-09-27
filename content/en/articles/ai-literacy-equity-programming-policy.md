@@ -33,25 +33,6 @@ Frames AI literacy 'for all' as an [[equity-in-ai-education]] problem rooted in 
 - Scope is upper secondary (ISCED 3): earlier exposure embedded in lower-secondary mathematics or science (for example Norway's LK20) and informal pathways fall outside the study.
 - The classifications are a snapshot of a fast-moving policy field and may already be dated — the paper flags Kazakhstan's 2025/2026 and Romania's planned 2030 reforms — and federal or devolved systems are classified by dominant or nationally representative pattern where no single authoritative standard exists.
 
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[k-12]]
-- [[educational-policy-ai]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[educational-development]]
-- [[higher-ed]]
-- [[cs-education]]
-- [[curriculum-design]]
-- [[digital-divide]]
-## Connected Articles
-
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions
-- [[lodge-loble-cognitive-offloading-2026]] — Artificial intelligence, cognitive offloading and implications for education
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-
 ## Citation
 
 Adrian-Marius Dumitran, Iulia-Maria Popescu (2026). [Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis](https://arxiv.org/abs/2607.11314). arXiv preprint.

@@ -61,25 +61,5 @@ The authors conclude that literacy-based competencies should be embedded into [[
 - All domain scores and nexus awareness are self-reported 1–5 Likert means (governance 3.21, technical 3.87), so they measure perceived readiness rather than observed capability.
 - Policymakers are only 15% of the sample (students 40%, educators 25%, professionals 20%), which the authors say limits how far governance-specific conclusions can be generalized; no IRB review was required for the minimal-risk survey.
 
-## Connected Concepts
-- [[ai-literacy]]
-- [[governance]]
-- [[ethics]]
-- [[sustainability]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[curriculum-design]]
-- [[equity-in-ai-education]]
-- [[educational-policy-ai]]
-
-## Connected Articles
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — AI literacy as a metacognitive social practice
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework
-- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy and fair use
-
 ## Citation
 Islam, M. M., Morshed, M. N., & Islam, M. S. (2026). [Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework](https://arxiv.org/abs/2609.10489). arXiv preprint arXiv:2609.10489.

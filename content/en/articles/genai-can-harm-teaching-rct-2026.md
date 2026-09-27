@@ -54,25 +54,6 @@ The null average performance effect masks strong offsetting heterogeneity — an
 - The trial ran in one country (24 Turkish K-12 schools); 538 teachers were randomized but the analytical sample was 193 teachers and 2,816 students, so attrition shaped the analysis.
 - Teacher usage patterns come from the treatment arms' own interaction logs, and teachers' beliefs about AI's effect on learning were self-reported.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[k-12]]
-- [[student-experience]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[rag]]
-- [[motivation]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-
-- [[genai-expertise-pathways-sysadmin]] — Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-
 ## Citation
 
 Sungu, Lira & Duckworth (2026). [*Generative AI Can Harm Teaching*](https://ssrn.com/abstract=7007339)

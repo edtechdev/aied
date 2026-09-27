@@ -37,19 +37,5 @@ The proposed test reframes [[assessment]] around three questions: what must a st
 - The framework is illustrated with a single example, an engineering material-balance problem, and the author states it is intentionally non-prescriptive, leaving no scoring rules or validated instrument for others to reuse.
 - The argument rests on institutional policy reports from MIT, Brown, and the University of Toronto plus the ABET criteria, not on evidence about whether the proposed evidence formats actually distinguish independent from AI-augmented capability.
 
-## Connected Concepts
-- [[assessment]]
-- [[academic-integrity]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment and AI
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reassessing Authorship and Integrity for the Age of GenAI
-- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — GenAI, Authentic Assessment and Integrity
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose Before Policy in Academic Integrity
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive Capabilities for a GenAI Future
-
 ## Citation
 Saleh, N. B. (2026). [*A Human Capability Test for Learning Outcomes in the AI Era*](https://osf.io/preprints/edarxiv/gjrb9). EdArXiv preprint.

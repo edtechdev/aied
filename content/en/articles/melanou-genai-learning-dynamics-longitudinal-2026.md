@@ -66,21 +66,6 @@ Reflective use, the metacognitive practice of checking sources and verifying AI 
 - The study ran in one business informatics program at a practice-oriented university, so its authors call for replication across disciplines and institutions.
 - Novelty and Hawthorne effects cannot be excluded, the intervention included no explicit scaffolding or structured prompting, and several key constructs relied on self-report.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[critical-thinking]]
-- [[motivation]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[learning-gains]]
-## Connected Articles
-
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — meta-analytic evidence on generative AI and higher education learning outcomes, which this single-course longitudinal design tests at classroom level.
-- [[cui-motivation-roles-metacognitive-genai-2026]] — examines how motivation and role framing shape metacognitive engagement in student-GenAI interaction, the mechanism implicated here in reflective use.
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — another semester-scale look at AI usage in higher education, focused on ethics and policy rather than learning dynamics.
-- [[ai-mediated-cognitive-divergence-2026]] — reports widening differences between learners under AI mediation, approaching from another angle the Matthew effect this study failed to detect.
-
 ## Citation
 
 Melanou, Chrysanthi; Beege, Maik; Kimmig, Martin. (2026). *[Generative AI and Learning Dynamics in Higher Education: A Longitudinal Empirical Study](https://doi.org/10.1002/jcal.70322)*. Journal of Computer Assisted Learning, 42, e70322. https://doi.org/10.1002/jcal.70322

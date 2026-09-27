@@ -60,30 +60,6 @@ Using 10-fold cross-validation on the 270 confirmatory responses, the SEM kept t
 - Validation is single-institution and STEM-only (665 EPFL students across eight courses), and the authors state that their next step targets a broader student demographic.
 - Perceived Readiness rests on two items only (PR1, PR2), a weakness the authors intend to extend in the next version of the instrument.
 
-## Connected Concepts
-
-- [[trust]]
-- [[trust-calibration]]
-- [[technology-acceptance-model]]
-- [[ai-literacy]]
-- [[self-efficacy]]
-- [[ai-technologies]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-- [[student-experience]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[trust-reliance-ai-education-2026]] — trust and reliance on AI in education, with AI literacy and need for cognition as moderators
-- [[trust-calibration-chatbots-design-problem-2026]] — trust calibration framed as a design problem rather than a user deficit
-- [[calibrating-trustworthiness-llm-education-2026]] — co-designed metrics and visualizations for judging when a language model can be trusted
-- [[task-context-trust-educational-hri-2026]] — what a system does matters more than how it looks for trust in educational robotics
-- [[trust-in-ai-psychological-profiles-ml-2026]] — clustering university students by the psychological profiles associated with AI trust
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — teacher and student views of control and agency diverge around classroom AI
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — students adopt AI while remaining skeptical, a domain-specific trust-utility gap
-
 ## Citation
 
 Nazaretsky, T., Mejia-Domenzain, P., Swamy, V., Frej, J., & Käser, T. (2025). [The critical role of trust in adopting AI-powered educational technology for learning: An instrument for measuring student perceptions](https://doi.org/10.1016/j.caeai.2025.100368). *Computers and Education: Artificial Intelligence*, 8, 100368.

@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [self-regulated-learning]
 assessment: [ai-feedback-quality, feedback, formative-assessment]
-connected_faqs: [ai-feedback-at-scale]
 methods: [qualitative-research]
 audience: [learners, instructors]
 research_method: [interviews]
@@ -40,30 +39,6 @@ confidence: high
 - Single site and single discipline: 32 psychology students from The University of Queensland.
 - Task fidelity was compromised: the 25-minute essay task was simulated, performance did not affect grades, and AI use was not penalized — conditions the authors say likely shifted motivation away from learning goals.
 - Feedback literacy was measured by a self-report behavior scale (Dawson et al., 2024), so the predictor is students' account of their own behavior rather than an observed measure.
-
-## Connected Concepts
-
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
-- [[writing-education]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[academic-integrity]]
-- [[generative-ai]]
-- [[feedback-literacy]]
-- [[self-report-measures]]
-
-## Connected Articles
-
-- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
-- [[genai-feedback-design-multisite-experiment]] — GenAI feedback design multisite experiment
-- [[feedback-futures-genai]] — Feedback futures with generative AI
-- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
-- [[repeated-ai-writing-feedback-semester]] — Repeated AI writing feedback across a semester
-- [[ai-internal-feedback-evaluative-judgments]] — AI internal feedback and evaluative Judgment
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI literacy beyond the skills gap
 
 ## Citation
 

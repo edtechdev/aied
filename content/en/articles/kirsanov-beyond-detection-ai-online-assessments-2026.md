@@ -14,7 +14,6 @@ source_url: 'https://doi.org/10.1007/s10805-025-09691-3'
 confidence: high
 discipline: [business education]
 audience: [instructors, assessment designers, administrators]
-connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** **Students navigate [[governance|institutional]] AI ambiguity with caution and pragmatism — disclosure is rare, driven more by fear of penalties than by dishonesty.** Kirsanov, Kushwah, and Selvaretnam (2025/2026), a small case study of [[higher-ed|undergraduate]] economics students at the University of Glasgow (31/174 respondents), find that only about one-third report using AI in online assessments, and disclosure is rarer still. Non-disclosure appears to be **rational caution in the face of ambiguous policies and perceived academic risk**, not simple integrity violation. Students support guidance and structured [[regulation]], favor citation rules, and widely see real-world, data-based tasks as [[reducing-ai-misuse|reducing AI misuse]] — pointing toward [[authentic-assessment|authentic assessment]] and clear expectations over [[ai-detection|detection]] and deterrence.
@@ -41,22 +40,6 @@ connected_faqs: [asynchronous-online-courses-ai]
 - Female and international students were somewhat over-represented among respondents relative to the cohort as a whole, which may also have shaped the patterns observed.
 - All measures are self-reported, so social desirability bias is a live risk — students may have underreported AI use or overstated ethical caution despite the survey's anonymity.
 - Perceptions were captured at a single point in time, before the release of more advanced AI tools and detection systems, and the small sample size limits the strength of any statistical claims from the exploratory regression.
-
-## Connected Concepts
-
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-- [[ivory-psychology-assessment-integrity-2026]] — Program-wide susceptibility of psychology assessments to minimum-effort ChatGPT use (Ivory et al. 2026)
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
 
 ## Citation
 

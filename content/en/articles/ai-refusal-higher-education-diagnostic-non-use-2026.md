@@ -51,31 +51,6 @@ Zagami argues that the usual higher education debate, focused on academic integr
 - The sector evidence is indicative and drawn from studies with different populations and methods, which the paper says should not be read as comparable measures of a single refusal rate.
 - The vocabulary of private refusal, principled role-based non-use, bounded use and compulsory adoption is proposed rather than tested, so how well it holds up against institutional practice is an open question.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[agency]]
-- [[equity-in-ai-education]]
-- [[academic-integrity]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[change-management]]
-- [[assessment-validity]]
-- [[ai-detection]]
-- [[privacy]]
-- [[sustainability]]
-- [[critical-thinking]]
-- [[generative-ai]]
-- [[llm]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[generative-refusal-ai-tools-for-thought]] — refusal as a design relation between writers and AI tools for thought
-- [[paternalistic-filter-llm-history-education]] — differential refusal and epistemic injustice in LLM-mediated history education
-- [[guarded-adoption-genai-higher-education-2026]] — guarded adoption as the middle ground between uptake and resistance
-- [[becker-chatgpt-typology-physics-2026]] — pragmatic users and skeptical nonusers as a typology of adoption
-
 ## Citation
 
 Zagami, J. (2026). [AI refusal in higher education: The right to refuse, the duty to understand and the diagnostic value of non-use](https://doi.org/10.1080/07294360.2026.2694409). *Higher Education Research & Development, 45*(7), 2287-2294.

@@ -39,20 +39,6 @@ With 76.5% of students demanding [[pedagogy|pedagogical]] reform toward hands-on
 - The gender comparison rests on n = 241: two non-binary respondents (n = 2 of N = 243) were excluded from the comparative demographic analysis to eliminate any de-anonymization risk.
 - The design is cross-sectional with no intervention or follow-up, so the pedagogical reform the respondents demand is not tested for effectiveness here.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[self-efficacy]]
-
-## Connected Articles
-
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[cognitive-offloading-speedup-illusion]]
-- [[genai-assessment-governance]]
-- [[ai-fatigue-academic-contexts]]
-
 ## Citation
 
 Rodriguez-Alvarez, N., Blanch-Marsolini, A. M., Vara-Gutierrez, S., Gil-Garcia, H., Calzon-Dueñas, J., & Rodriguez-Merino, F. (2026). [The illusion of competence: Self-perceived digital literacy and AI readiness among European secondary students](https://arxiv.org/abs/2605.26010).

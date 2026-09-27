@@ -60,32 +60,6 @@ Of the 16 products with complete profiles, seven have independent reviews that e
 - Several counts describe the 16 products with complete profiles rather than all 20, and the authors plan to revise the analysis as the tour continues.
 - The report states that it did not analyze data privacy, technical integration, pricing, how products promote [[ai-literacy]], or environmental impact.
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[teacher-role]]
-- [[student-ai-interaction]]
-- [[student-experience]]
-- [[productive-failure]]
-- [[pedagogical-safety]]
-- [[guardrails]]
-- [[ai-misuse-learning-harm]]
-- [[teacher-ai-competency]]
-- [[change-management]]
-- [[edtech-platform]]
-- [[critical-thinking]]
-- [[multilingual-learning]]
-- [[interpreting-and-applying-aied-research]]
-
-## Connected Articles
-
-- [[wang-safety-gap-productive-struggle-2026]] — the safety gap between AI-supported performance and the productive struggle learning requires
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — a two-year school experiment with one of the targeted tools named in this report
-- [[thapa-lewis-process-oriented-assessment-2026]] — designing tasks so that reasoning, not polished output, is what gets assessed
-- [[ai-tools-academic-work-cheating-2026]] — what students themselves count as cheating when AI tools are involved
-- [[human-centered-ai-teacher-educators-2026]] — professional learning that keeps the teacher in the lead when AI enters the classroom
-
 ## Citation
 
 Instruction Partners. (2026). [AI in Action Learning Tour](https://ailearningtour.instructionpartners.org/). Report, not peer reviewed. Written chiefly by Emily Freitag and Doe Kim.

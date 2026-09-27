@@ -19,7 +19,6 @@ page_kind: [evaluation]
 
 ## Overview
 
-
 **Four-phase trajectory of student perception:**
 1. **Hype (2020):** Initial excitement slightly favored AI over HI in poll responses
 2. **Distrust:** Emerging skepticism as students encountered AI limitations
@@ -58,20 +57,6 @@ For instructors, these results suggest that [[ai-education|AI education]] should
 - The prompt itself is the measurement: a binary machine-intelligence-versus-human-intelligence choice necessarily simplifies a multidimensional relationship and may amplify contrast between the two.
 - Cohort composition, institutional context, and contemporaneous social or technological factors may each contribute to the observed pattern, and the four phases are offered as conceptual lenses that may overlap or recur, not as universal sequential stages.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[curriculum-design]]
-- [[educational-development]]
-- [[cognitive-offloading]]
-- [[student-experience]]
-
-## Connected Articles
-
-- [[contextual-sycophancy-ai-literacy]]
-- [[genai-performance-vs-learning]]
-- [[ai-pedagogical-orientation]]
 ## Citation
 
 Rekik, I. (2026). [Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?](https://arxiv.org/abs/2605.16292). ICLR HCAIR Workshop 2026.

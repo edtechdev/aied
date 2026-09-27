@@ -51,31 +51,6 @@ The bounded-support condition combined two components — restrictions on the de
 - Two intervention prompts concerned AI and could have cued the condition, a demand-characteristics risk the authors name.
 - The Week 8 task is a same-course, same-genre near-transfer assessment, not evidence of broad or far transfer, and the covariate-adjusted associative decomposition is not proof of causal mediation.
 
-
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[critical-thinking]]
-- [[agency]]
-- [[higher-ed]]
-- [[feedback]]
-
-## Connected Articles
-
-- [[coach-not-crutch-ai-writing]] — AI can "work less and learn more" when it scaffolds rather than substitutes (Lira et al. 2025)
-- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox and cognitive debt in GenAI learning
-- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading (Guo & Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
-- [[genai-performance-vs-learning]] — The performance-vs-learning distinction in generative AI
-- [[cognitive-offloading-speedup-illusion]] — The speedup illusion of AI-assisted work
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking (Gerlich 2025)
-
 ## Citation
 
 Chen, X. (2026). [Layer-sensitive cognitive offloading in generative AI-assisted writing: Supported performance and independent no-AI outcomes](https://doi.org/10.3389/fpsyg.2026.1906199). *Frontiers in Psychology, 17*, 1906199.

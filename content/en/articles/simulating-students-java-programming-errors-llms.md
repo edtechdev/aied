@@ -42,21 +42,6 @@ This work extends [[research-methods-aied|research]] on [[llm-student-simulation
 - The blinded annotation set was single-coded: the 401 items (205 authentic, 196 synthetic) were split between two annotators with no formal inter-rater reliability statistic, with calibration resting on a pilot of 43 submissions.
 - Struggling level was operationalized as the total number of submissions per problem, which the authors note may conflate difficulty with assignment placement, popularity, or course policies, and the AST edit distance they use as the diversity proxy is purely structural — functionally equivalent code can have distinct AST structures.
 
-## Connected Concepts
-- [[cs-education]]
-- [[simulating-students]]
-- [[learning-by-teaching]]
-- [[llm]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[student-modeling]]
-## Connected Articles
-
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[llm-student-misconception-identification]]
-- [[programming-its]]
-- [[ai-generated-traces-novice-programmers]]
-- [[code-review-genai-cs1]]
 ## Citation
 
 Keramati, A., Cao, J., Mohammadi, I., Warschauer, M., & Shi, Y. (2026). [Simulating Students' Java Programming Errors with Large Language Models](https://arxiv.org/abs/2606.14113).

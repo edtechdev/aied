@@ -70,35 +70,6 @@ Several claims are unresolved, not merely untested: whether extraneous cognitive
 - Part is extrapolated from adjacent research areas, and the borrowed [[quantitative-research|quantitative]] anchors — the 42% cybersickness prevalence rate, the timing of after-effects — come from immersive-media research with no pedagogical agents.
 - Scope covers one learner with one agent, excluding learner characteristics such as personality, intelligence and prior knowledge, along with environmental settings and appearance attributes.
 
-## Connected Concepts
-
-- [[pedagogical-agent]] — the simulated virtual character that socially interacts with a learner to facilitate learning, and the framework's focal point
-- [[virtual-and-augmented-reality]] — the AR, AV and VR media whose immersion, interactivity and realism form ACLIME's technical foundation
-- [[embodied-learning]] — body ownership, virtual own body agency and self-location, the sense of embodiment that XR intensifies and the proteus effect draws on
-- [[situated-learning]] — realistic situatedness inside virtual scenarios, which the authors argue promotes the task-related direction of interaction
-- [[human-ai-collaboration]] — learner and agent treated as a joint information-processing system that can share element interactivity
-- [[conversational-ai]] — natural dialogue as the agent's primary verbal channel, made more flexible by large language models
-- [[multimodal]] — verbal, visual, auditory and invisible social cues, plus haptic channels unavailable in non-immersive media
-- [[simulation]] — role-play scenarios such as climate-change field trips, negotiations and patient consultations that the agent inhabits
-- [[self-determination-theory]] — autonomy via virtual own body agency and relatedness via the human-agent space as routes to motivation
-- [[self-efficacy]] — mastery experiences and realistic social feedback that immersive agent interaction is expected to strengthen
-- [[cognitive-psychology]] — working-memory limits and the three types of cognitive load that frame the framework's central trade-off
-- [[trust]] — trust toward the agent as one marker of a sound human-agent space, lowering perceived disclosure risk
-- [[theory-development-aied]] — the paper's contribution as a conceptual framework intended to situate and guide future empirical work
-
-## Connected Articles
-
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — avatar identity and epistemic trust in AI-mediated learning
-- [[multi-site-vr-immersive-learning]] — a real-time multi-site immersive learning system, the infrastructure side of shared virtual environments
-- [[genai-xr-architectural-design-education-2026]] — generative AI and extended reality in a collaborative architectural design studio
-- [[genai-ar-physics-simulation-prompt-2026]] — building embodied AR physics learning tools from prompts
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LLM-assisted multimodal instruction delivered inside VR
-- [[ai-psychotherapy-training-avatars]] — AI-driven interactive patient avatars for clinical communication training
-- [[mixed-reality-engineering-learning]] — mixed reality and physical toolkits for engineering fundamentals
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — an agentic immersive simulation platform for clinical procedure training
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — embodied inquiry with AI as facilitator in physics learning
-- [[conversational-agents-business-simulation-gaming-2026]] — conversational agents providing adaptive instructional support in business simulation games
-
 ## Citation
 
 Ross, M., & Kaspar, K. (2026). [*Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)*](https://doi.org/10.31234/osf.io/e6smh_v1). *PsyArXiv Preprints*.

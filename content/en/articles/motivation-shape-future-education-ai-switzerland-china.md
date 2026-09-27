@@ -42,21 +42,6 @@ Chinese student teachers reported significantly higher perceived digital teachin
 - Measurement invariance held only partially: most motivational factors were not fully equivalent across the two groups, so the between-group mean comparisons (independent-samples t-tests) may be biased, and cross-cultural response styles on the 7-point scales may have contributed to the non-invariance.
 - Sample size constraints made a confirmatory factor analysis of the full second-order model infeasible (single-factor CFAs were run per higher-order factor), and the cultural interpretation leans on Hofstede-type dimensions that the authors note have been criticized for oversimplifying variation within countries.
 
-## Connected Concepts
-
-- [[motivation]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[technology-acceptance-model]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[ai-perceptions-students-teachers-motivation-2026]] — AI perceptions and motivation among students and teachers
-- [[mathematics-teachers-chatbot-motivation-2026]] — Mathematics teachers' chatbot motivation
-- [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy training in teacher education
-
 ## Citation
 
 Martínez-Moreno, J., Zhou, X., Petko, D., & Chiu, T. K. F. (2026). [*Motivation to shape the future of education with artificial intelligence: An international comparison between Switzerland and China*](https://doi.org/10.1016/j.caeo.2025.100327). *Computers and Education Open, 10, 100327*.

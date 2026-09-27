@@ -75,31 +75,5 @@ Two further observations matter for [[pedagogical-llm-training]] practice. First
 - **Single random seed (42) with no strong-prompt or retrieval baseline**, so the design cannot attribute the gains to fine-tuning rather than to prompt design or supplied evidence, and reports no variance across runs.
 - **Restricted model range.** Only Qwen2.5-3B-Instruct and Qwen2.5-7B-Instruct at r = 4, 8 and 16 were tested, with no other families such as Llama or DeepSeek and no larger models, so the configuration recommendations are scoped to these settings.
 
-## Connected Concepts
-- [[llm]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[pedagogical-llm-training]]
-- [[automated-assessment]]
-- [[adaptive-learning]]
-- [[student-ai-interaction]]
-- [[conversational-ai]]
-- [[discipline-specific-aied]]
-- [[educational-nlp]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[scaffolding]]
-- [[rag]]
-
-## Connected Articles
-- [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models
-- [[educational-llm-alignment]] — Educational LLM Alignment
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-- [[cdpk-pedagogy-benchmark-llms]] — Benchmarking the Pedagogical Knowledge of Large Language Models
-- [[didactical-teacher-assistant-dimensional-modeling]] — A didactical-driven teacher assistant for a dimensional modeling course
-- [[concept-catalyst-engineering-scaffolds]] — Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
-- [[llm-difficulty-calibration-programming-exams-2026]] — From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations
-
 ## Citation
 Shaowen Lu, Chengxu Liu, Ping Zhou and Tao Yang (2026). [*LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects*](https://arxiv.org/abs/2609.13918). arXiv preprint.

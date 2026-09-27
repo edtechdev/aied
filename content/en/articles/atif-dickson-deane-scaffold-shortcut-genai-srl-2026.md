@@ -38,21 +38,6 @@ methods: [mixed-methods-research]
 - The 12-week span captures one semester only, so the movement from hesitant to confident regular user cannot be separated from ordinary course progression.
 - The study is a single-subject mixed-methods design with no comparison condition, so the differentiated profiles are descriptive rather than evidence of an instructional effect.
 
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[agency]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulated learning
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-direction
-
 ## Citation
 
 Atif, A., & Dickson-Deane, C. (2026). *Scaffold or shortcut? Postgraduate IT students' use of generative AI and self-regulated learning.* Learning Letters, 8, Article 63. [https://doi.org/10.20851/ll.v8.63](https://doi.org/10.20851/ll.v8.63)

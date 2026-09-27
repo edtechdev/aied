@@ -70,33 +70,6 @@ Two more constraints follow from accountability. Consultants should be trained n
 - The legal and professional framing is United States specific — NASP standards, FERPA, HIPAA and business associate agreements — so the data-sharing prescriptions need translation before they apply in other jurisdictions, which the authors flag without supplying.
 - One author (Lockwood) declares a paid consulting relationship with PAR, Inc. on AI-assisted psychological report writing, a commercial interest to weigh against a proposal whose evidentiary base is adjacent-field reviews and survey data.
 
-## Connected Concepts
-
-- [[human-ai-collaboration]] — the augmented triad as a specific arrangement of human and machine contribution
-- [[teacher-role]] — the consultee's capacity as the mechanism through which student outcomes change
-- [[teacher-ai-competency]] — consultee knowledge and skill as named barriers AI is proposed to relieve
-- [[generative-ai]] — the model class generating templates, handouts, summaries and recommendations
-- [[llm]] — large language models and the cited evidence on IEP goals and psychological reports
-- [[conversational-ai]] — custom GPTs and Gems as on-demand coaching between consultation meetings
-- [[problem-solving]] — the four-phase PSC model this paper maps AI onto
-- [[special-education]] — eligibility administration, IEP goals and FERPA-protected records
-- [[privacy]] — BAAs, FERPA, NASP confidentiality and consent before recording consultation
-- [[hallucination-risk]] — plausible but non-factual output and prompt- and model-dependence
-- [[feedback]] — AI feedback on consultation skills, transcripts and consultee implementation
-- [[bias-mitigation]] — training-data bias in culturally responsive consultation decisions
-
-## Connected Articles
-
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Evaluating whether LLM support fits diverse student profiles
-- [[ivory-psychology-assessment-integrity-2026]] — Integrity and validity questions for psychology assessment in the AI age
-- [[human-ai-collaboration-prerequisite-functions]] — What human-AI collaboration requires before it can be claimed
-- [[ai-decision-support-online-learning-assessment-2026]] — AI decision support systems for assessment decisions
-- [[seung-basham-cognitive-offloading-swld-2026]] — Cognitive offloading and students with learning disabilities
-- [[shin-ai-policies-sld-2026]] — The policy void for AI and students with specific learning disabilities
-- [[special-r1-rl-special-education]] — Aligning LLM tutors to learners with disabilities through adaptive training
-- [[league-ethical-governance-student-data-2026]] — Ethical governance of student data beyond compliance
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Interaction profiles in human-AI collaborative problem solving
-
 ## Citation
 
 Wu, S., Dillon, C., & Lockwood, A. B. (2026). [*Artificial intelligence as an augmented partner in school consultation: Applications across the problem-solving process*](https://doi.org/10.1080/10474412.2026.2704776). *Journal of Educational and Psychological Consultation*. Advance online publication.

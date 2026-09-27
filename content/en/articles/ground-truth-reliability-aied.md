@@ -18,7 +18,6 @@ methods: [benchmark]
 
 ## Core Argument
 
-
 ## The Problem
 
 ### Noise vs. Bias in Educational Labeling
@@ -96,24 +95,6 @@ The paper illustrates these shifts through case studies of **multimodal tutoring
 - Its concrete illustrations come from multimodal tutoring case examples, such as a transcript coded for student math errors through explicit visual and implicit verbal lenses; the prevalence of κ-threshold misuse is evidenced by cited cases rather than a systematic sample of AIED papers.
 - The paper sets no quantitative bar for sufficiency: it leaves the "minimum viable validity evidence" for different AIED use cases as an open question and does not resolve how the four shifts apply to fully automated pipelines with no human raters.
 - The automation-bias and LLM-annotation risks it raises are drawn from other researchers' studies, so those claims are not tested in this work.
-
-## Connected Concepts
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[research-methods-aied]]
-- [[limitations-in-aied-research]]
-- [[human-in-the-loop-ai]]
-- [[ai-ed-evaluation]]
-- [[automated-essay-scoring]]
-- [[hallucination-risk]]
-## Connected Articles
-
-- [[short-answer-scoring-quality-degradation]] — Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
-- [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback
-- [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
-- [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
 
 ## Citation
 

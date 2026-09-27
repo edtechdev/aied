@@ -48,20 +48,5 @@ Participants performed bidirectional tasks in a CACI environment that integrated
 - Output-stage interaction patterns showed no statistically significant differences in interpreting quality, and quality depended on ratings from two expert interpreters on an 8-point scale (inter-rater reliability 0.774–0.854).
 - Materials were eight ChatGPT-4o-drafted speeches of about one minute (110 English words against roughly 135 Chinese words) with pre-recorded ASR and MT outputs matched for accuracy and BLEURT-20 score, so the AI behavior was fixed rather than live and the design cannot trace change over time.
 
-## Connected Concepts
-- [[language-learning]] — the task sits in interpreter training, a high-stakes branch of language education
-- [[cognitive-offloading]] — heavy AI reading substitutes for the learner's own processing route
-- [[metacognition]] — the authors argue for surfacing implicit strategy use
-- [[student-engagement]] — four distinct engagement profiles within one task
-- [[higher-ed]] — the participants were postgraduate interpreting trainees
-- [[intelligent-tutoring]] — ASR/MT assistance as a form of automated support
-- [[speech-and-voice-technologies]]
-## Connected Articles
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors and Foreign-Language Motivation
-- [[chatgpt-english-language-learning-malaysia]] — ChatGPT in English language learning
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Training learners to offload optimally
-- [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in LLM-assisted synthesis writing
-- [[ai-scoring-language-bias-physics]] — Scoring bias in AI language assessment
-
 ## Citation
 Kuang, H., Li, J., & Weng, Y. (2026). [Student-AI interaction in computer-assisted consecutive interpreting: patterns and performance](https://doi.org/10.3389/fpsyg.2026.1890808). *Frontiers in Psychology, 17*, 1890808.

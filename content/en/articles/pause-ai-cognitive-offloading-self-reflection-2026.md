@@ -7,7 +7,6 @@ foundations: [ai-literacy, cognitive-offloading, critical-thinking, reducing-ai-
 pedagogy: [metacognition, self-regulated-learning]
 assessment: [self-report-measures]
 ethics: [privacy, trust]
-connected_faqs: [reducing-over-reliance]
 sources: ['raw/papers/pause-ai-cognitive-offloading-self-reflection-2026.md']
 confidence: high
 research_method: [position paper, system development]
@@ -76,35 +75,6 @@ The stated limits are unusually explicit. Self-report of offloading is susceptib
 - Self-report of offloading is susceptible to the very faculty it concerns — a person whose critical-thinking habits have decayed may also have decayed insight into the decay — and the two behavioral probes only partially mitigate this.
 - The scored items conflate early consultation with substitution, so a respondent who deliberately brings AI in as a scaffold at the start of a task will honestly endorse items B2, C1 and D1 and read as offloading.
 - The object pool and category dictionaries are public, so the creativity probe is satisfiable by keyword stuffing; the author discloses this threat rather than defending against it, on the grounds that the threat model is self-deception rather than adversarial input.
-
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-report-measures]]
-- [[privacy]]
-- [[reducing-ai-misuse]]
-- [[critical-thinking]]
-- [[trust]]
-- [[generative-ai]]
-- [[llm]]
-- [[creativity]]
-- [[human-ai-collaboration]]
-- [[desirable-difficulties]]
-- [[anxiety-and-stress]]
-
-## Connected Articles
-
-- [[cognitive-offloading-metacognitive-review-2026]] — Meta-Cognitive Insights into Cognitive Offloading: Mechanisms, Interventions, and Educational Implications
-- [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
-- [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
-- [[ai-overreliance-complex-adaptive-system-2026]] — Modeling AI Overreliance as a Complex Adaptive System
-- [[cognitive-washout-ai-skill-decay-2026]] — After the Assistant Leaves: Cognitive Washout Dynamics and the Reversibility of AI-Induced Skill Decay
-- [[ai-use-critical-thinking-medical-students-2026]] — From AI Use to Critical Thinking Among Medical Students: A Moderated Mediation Perspective on Cognitive Load and Self-Regulated Learning
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation: A Serial Mediation Model of Self-Efficacy and Learning Motivation
-- [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment
 
 ## Citation
 

@@ -58,26 +58,6 @@ As a mid-range theory, Agentivism generates falsifiable claims rather than verdi
 - **Constructs resist simple measurement.** Delegated agency, verification, reconstruction, and transfer are unlikely to be captured by one method; research will need trace data, process measures, and delayed assessments together.
 - **Evidence is short-term.** Much current evidence comes from brief tasks while the strongest claims concern durable capability, and productive delegation likely differs across tasks and learners.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[agency]]
-- [[theories-and-frameworks]]
-- [[theory-development-aied]]
-- [[human-ai-collaboration]]
-- [[cognitive-offloading]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[trust-calibration]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[caeai-ai-companions-learning-over-performance-2026]] — Building AI Companions that Prioritize Learning over Performance
-- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI
-- [[student-llm-interaction-taxonomy-review-2026]] — Toward Convergence in Student-LLM Interactions
-
 ## Citation
 
 Yan, L., & Gašević, D. (2026). [*Agentivism: a learning theory for the age of artificial intelligence*](https://doi.org/10.1016/j.caeai.2026.100684). Computers and Education: Artificial Intelligence.

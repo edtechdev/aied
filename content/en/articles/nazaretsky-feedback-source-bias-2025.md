@@ -60,29 +60,6 @@ The paper's companion quality analysis is what makes the pattern interpretable: 
 - Prior experience with generative AI, knowledge levels and task complexity were not accounted for.
 - Perceptions were captured at a single time point and the study did not measure feedback uptake, so it cannot show whether students act differently on feedback they know came from AI.
 
-## Connected Concepts
-
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[trust]]
-- [[bias-mitigation]]
-- [[human-ai-collaboration]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[student-ai-interaction]]
-- [[llm]]
-- [[ai-literacy]]
-- [[feedback-literacy]]
-- [[evaluative-judgment]]
-- [[technology-acceptance-model]]
-
-## Connected Articles
-
-- [[perceptions-teacher-vs-ai-feedback-bias-2026]] — The teacher-side counterpart, with the same identical-feedback, randomized-label design
-- [[genai-teacher-feedback-comparison]] — Student perceptions of generative AI versus teacher feedback, the comparison this experiment isolates
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated versus human-developed assessment tasks through the TPCK frame
-- [[liu-deris-ai-feedback-literacy-uptake]] — Whether students act on AI feedback, the behavior this study did not measure
-
 ## Citation
 
 Nazaretsky, T., Mejia-Domenzain, P., Swamy, V., Frej, J., & Käser, T. (2025). [Who Gives Feedback Matters: Student Biases Towards Human and AI-Generated Formative Feedback](https://doi.org/10.1111/jcal.70153). Journal of Computer Assisted Learning.

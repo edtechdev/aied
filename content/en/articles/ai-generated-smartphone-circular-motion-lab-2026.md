@@ -59,24 +59,6 @@ The same simple setup allows both uniform and uniformly accelerated circular mot
 - **Device and sensor dependence:** accuracy rests on the browser's sensor-fusion pipeline and on one device's orientation API and gyroscope readings, so the sub-1% agreement figures cannot be assumed for every handset or browser.
 - **The prompt template is validated only for this lab:** it is supplied as supplementary material and proposed as adaptable to other sensor experiments, but no second experiment is evaluated here.
 
-## Connected Concepts
-
-- [[physics-education]]
-- mobile learning
-- [[generative-ai]]
-- [[stem-education]]
-- [[personalized-learning]]
-- [[scaffolding]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[becker-chatgpt-typology-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[multiagent-classroom-dual-process-physics-teachers-2026]]
-
 ## Citation
 
 Suñer, J. Ll., Muñoz-Pérez, F. M., Castro-Palacio, J. C., Monsoriu, J. A., Monteiro, M., Stari, C., & Martí, A. C. (2026). [*Studying circular motion with an AI-generated smartphone physics lab*](https://arxiv.org/abs/2607.28352).

@@ -67,19 +67,6 @@ The real-world validation uses the complete public school network of Calabria, I
 - No public benchmark dataset exists for school dimensioning under territorial constraints, and the real-world validation is a single region (Calabria, Italy, 190 binary decision variables) in a single school year (2025/2026); the model optimizes a policy-weighted proxy objective, not measured learning or [[equity-in-ai-education|equity]] outcomes.
 - The territorial-protection coefficient C4 was never exercised: the Calabrian dataset contains no institutions classified as at risk of dimensioning under the adopted regulatory framework, so that penalty term remained inactive.
 
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[ai-education]]
-- [[k-12]]
-## Connected Articles
-
-- [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions
-- [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-
 ## Citation
 
 Ciacco, A., Di Puglia Pugliese, L., & Guerriero, F. (2026). [*School network reorganization under educational and spatial constraints using classical and quantum optimization*](https://arxiv.org/abs/2608.05427v1). v1.

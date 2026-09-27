@@ -32,20 +32,6 @@ confidence: high
 - Follow-up actions are shaped by the platform's prompt-and-test workflow with hidden tests and its particular feedback; the authors call for varying feedback, letting students write their own tests, and adding debugging support to see whether the same bug-source patterns hold.
 - Bug source was not disclosed to students and no pre/post or delayed measure was collected, so how transparency affects trust, and whether these workflows produce measurable [[learning-gains|learning]], remains unknown.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[cs-education]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[student-experience]]
-- [[formative-assessment]]
-- [[critical-thinking]]
-## Connected Articles
-
-- [[code-review-genai-cs1]]
-- [[reshaping-cs-education-genai]]
 ## Citation
 
 Victor-Alexandru Padurean, Kaitlin Riegel, Alkis Gotovos, Jyotika Mahapatra, Ahana Ghosh, Adish Singla (2026). [When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code](https://arxiv.org/abs/2607.05068). .

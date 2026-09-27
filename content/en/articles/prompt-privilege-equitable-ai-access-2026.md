@@ -60,27 +60,6 @@ Experiments on the **MedQA** benchmark confirm the problem and the fix. Before P
 - The baseline disparity is small: only the low-literacy versus prompt-engineer pair reached significance, at a 1.0 percentage-point difference with a 95% CI of [−1.9, −0.1], and the baseline PES of 0.9959 already indicated largely consistent behavior across phrasings.
 - PET currently operates as a static normalization agent: adaptive capabilities such as clarification questions or personalized rewriting strategies — and broader [[human-ai-collaboration|human-in-the-loop]] design — are left to future versions.
 
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[digital-divide]]
-- [[bias-mitigation]]
-- [[inclusive-learning]]
-- [[assessment-validity]]
-
-## Connected Articles
-
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework: A Delphi Study for Equitable AI Literacy
-- [[ai-literacy-power-knowledge]] — AI Literacy as Power and Knowledge
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy Through Student-AI Co-Programming
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI Literacy Beyond the Skills Gap
-- [[access-not-enough-ai-tutoring-2026]] — Access Is Not Enough: AI Tutoring
-- [[multimodal-prompting-ai-literacy]] — Multimodal Prompting and AI Literacy
-- [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
-- [[digital-literacy-illusion]] — The Digital Literacy Illusion
-
 ## Citation
 
 Jin, L., Hu, L., Shen, B., Cai, H., & Xin, Y. (2026). [*Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access*](https://arxiv.org/abs/2608.08942).

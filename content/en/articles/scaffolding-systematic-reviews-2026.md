@@ -57,22 +57,6 @@ This paper significantly contributes to the knowledge base's [[scaffolding]] and
 - Evidence about automation comes from the authors' own workflow plus cited tool studies (e.g., ASReview, Covidence, MetaMate); no head-to-head tool comparison or accuracy benchmark is reported.
 - The authors report that inconsistent reporting across primary studies reduced interrater reliability during data extraction, and they addressed this through practice rounds and third-reviewer adjudication rather than reporting a reliability coefficient.
 
-## Connected Concepts
-
-- [[scaffolding]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[collaborative-learning]]
-- [[learning-design]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[learning-analytics]]
-
-## Connected Articles
-
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle Through Generative AI
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
-
 ## Citation
 
 Wang, X., Dadashipour, F., Basori, Maeda, Y., & Richardson, J. C. (2026). [*Scaffolding systematic reviews in learning design and technology through mentoring and AI integration*](https://doi.org/10.1007/s11423-026-10629-8). *Educational Technology Research and Development*.

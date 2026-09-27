@@ -37,24 +37,6 @@ confidence: medium
 - The paper's stated purpose is to compare two contrasting perspectives rather than test them, and it acknowledges that analytical work critically comparing these viewpoints remains limited.
 - Claims about memory and cognition, such as the Google effect extended to reasoning, are carried over from cited studies rather than measured in learners here, so effect sizes for AI-assisted study remain unquantified.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[seung-basham-cognitive-offloading-swld-2026]] — Cognitive offloading and GenAI for students with learning disabilities
-- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading (Guo & Ye 2026)
-- [[cognitive-offloading-speedup-illusion]] — The speedup illusion of AI-assisted work
-- [[ai-making-us-stupid]] — Research on AI's cognitive effects and learning displacement
-
 ## Citation
 
 Nesnin, N., Jyothika, V. V., Haris, N., Shaju, L., & Farhana, N. A. (2026). Cognitive offloading in the age of AI: Are students thinking less or learning differently? *International Journal of Technology and Emerging Research, 2*(ICITT-2026). [https://doi.org/10.64823/ijter.2621031](https://doi.org/10.64823/ijter.2621031)

@@ -53,39 +53,10 @@ The theoretical [[scaffolding]] combines Bandura's Social Cognitive Theory (mast
 
 ## Limitations
 
-
 - **Small, single-institution sample.** Fifty pre-service teachers at one institution, which limits generalizability and did not permit a robust examination of the instrument's structural validity; the study was adequately powered only for large effects, so smaller but meaningful ones may have gone undetected.
 - **Composition and stage.** All participants were female, a consequence of gender-segregated school placements and a predominantly female English cohort, and all were second-year pre-service teachers at the preparatory stage, so the findings may not transfer to more advanced or in-service teachers or to other contexts.
 - **Clustering and attribution.** Randomization at the school level means participants within a school are not fully independent, and multilevel modeling is recommended for future work with more schools; the intervention was also multi-component, with a control condition that differed in being face-to-face and less structured, so improvements cannot be attributed to the AI tools alone.
 - **Short intervention with thin data.** A single semester restricts claims about long-term sustainability past the practicum, and some participants were initially hesitant to record or document classroom activities, slightly limiting the observational and reflective data.
-
-## Connected Concepts
-
-- [[self-efficacy]]
-- [[teacher-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[social-emotional-learning]]
-- [[collaborative-learning]]
-- [[feedback]]
-- [[human-in-the-loop-ai]]
-- [[generative-ai]]
-- [[teacher-ai-competency]]
-- [[anxiety-and-stress]]
-- [[scaffolding]]
-- [[experiential-learning]]
-
-## Connected Articles
-
-- [[ai-emotional-intelligence-teacher-development-2026]] — AI and emotional intelligence as forces in teacher professional development
-- [[human-ai-co-mentorship]] — Human-AI co-mentorship designs in education
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI versus human assessment and EFL teacher knowledge
-- [[self-efficacy-tutoring-learning]] — Self-efficacy in tutoring and learning support
-- [[irwin-muller-efl-peer-feedback-literacy]] — EFL peer feedback literacy
-- [[liu-emerging-tech-tefl-review-2026]] — Emerging technologies in TEFL
-- [[ai-tpack-preservice-math-teachers]] — AI-TPACK development in pre-service teachers
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Conceptualizing pre-service teachers' AI readiness
-- [[gen-mentor-dental-radiography-2026]] — AI mentoring in a professional practicum setting
 
 ## Citation
 

@@ -55,33 +55,6 @@ institutions: [educational-policy-ai]
 - The framework is grounded in the Australian Higher Education Standards Framework and Australian national frameworks, and the advice is explicitly non-prescriptive, leaving its fit to other jurisdictions and standards regimes untested.
 - The five propositions are proposals: no institution-level implementation or evaluation data are offered, so their feasibility, cost, and effect at scale are unaddressed.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[lifelong-learning]]
-- [[distributed-cognition]]
-- [[collaborative-learning]]
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[learning-analytics]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[ethics]]
-- [[agency]]
-
-## Connected Articles
-
-- [[ai-assessment-scale-reform]] — Assessment reform for the age of AI
-- [[genai-assessment-governance]] — GenAI assessment governance
-- [[enright-staff-perspectives-genai-2026]] — Staff perspectives on GenAI
-- [[epistemic-proactivity-math]] — Epistemic proactivity in AI-supported math learning
-
 ## Citation
 
 Lodge, J. M., de Barba, P., Ainscough, L., Brazil, J. R., Broadbent, J., Ebbert, D., Frankland, S., Gabriel, F., Gašević, D., Hennicke, T., Lim, L.-A., Male, S. A., Mirriahi, N., Oliveira, E. A., Pacitti, H., Raković, M., Russell, J., Taylor-Griffiths, D., & Yang, S. (2026). [Assuring quality learning in a gen AI-integrated future: The role of adaptive capabilities. *TEQSA*, June 2026](https://www.teqsa.gov.au/guides-resources/resources/corporate-publications/assuring-quality-learning-gen-ai-integrated-future-role-adaptive-capabilities).

@@ -7,7 +7,6 @@ foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-rol
 pedagogy: [metacognition, self-regulated-learning, student-engagement]
 technology: [generative-ai, prompt-engineering]
 assessment: [feedback, formative-assessment]
-connected_faqs: [ai-feedback-at-scale]
 research_method: [theoretical analysis]
 audience: [instructors, learners]
 level: [higher ed]
@@ -55,27 +54,6 @@ Two contrasting illustrative cases (IELTS writing with ChatGPT 3.5) ground the a
 - This is a theoretical synthesis with no primary data: the framework is produced by deductive reasoning in four steps (literature search, analysis, adaptation, refinement), so it can propose relationships but cannot show that they hold.
 - Its empirical grounding is two illustrative cases drawn from a single trial use of ChatGPT 3.5 on IELTS writing — one tool version and one task — used to illustrate low- and high-literacy behavior rather than to measure it.
 - The cyclical model itself is untested: the paper offers no evidence that feedback forethought, control and retrospect predict engagement or learning, and the pathway is not yet validated against feedback engagement in real courses.
-
-## Connected Concepts
-
-- [[feedback]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[cognitive-offloading]]
-- [[prompt-engineering]]
-- [[feedback-literacy]]
-
-## Connected Articles
-
-- [[chatgpt-feedback-engagement-genai]] — Zhan & Yan's companion empirical study of students' ChatGPT feedback engagement and five feedback-literacy capacities in a GenAI context.
-- [[care-full-feedback-genai]] — Winstone et al.'s related position paper on feedback as "matters of care" in an age of GenAI.
-- [[genai-teacher-feedback-comparison]] — Student perceptions of the usefulness and trustworthiness of GenAI vs teacher feedback.
-- [[feedback-futures-genai]] — Complementary analysis of the limits of human and GenAI feedback capacities.
-- [[ai-internal-feedback-evaluative-judgments]] — Related work on evaluative judgment as a basis of feedback engagement.
 
 ## Citation
 

@@ -39,28 +39,6 @@ page_kind: [evaluation]
 - Ratings came from a single human expert, which ensured consistency but limited the diversity of perspectives against which AI agreement was judged.
 - LLM outputs vary between prompts, and the design deliberately held prompt wording constant rather than iterating as practitioners would; the rationales AI gave were compared to expert feedback only informally, not through formal qualitative analysis.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[educational-measurement]]
-- [[ai-feedback-quality]]
-- [[llm]]
-- [[hallucination-risk]]
-- [[human-in-the-loop-ai]]
-- [[psychometrically-aware-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[end-of-assessment-ai-disruption-transformation-2026]] — The End of Assessment? Disruption and transformation in the age of AI
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment in an AI-mediated world
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
-- [[assessment-latent-structure-human-llm-2026]] — Assessment latent structure: human vs. LLM
-
 ## Citation
 
 Green, K., Bao, Y., LeRoy, S., & Good, M. (2026). *[Can AI Evaluate Assessment? A Study of Large Language Model Meta-Assessment Performance](https://www.rpajournal.com/rpa-archives/)*. Research & Practice in Assessment, 21(2).

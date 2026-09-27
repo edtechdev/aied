@@ -58,19 +58,6 @@ Slicing learners by interaction count (0–10, 10–20, above 20) reveals that M
 - Preprocessing constrains the headline claim about low-activity learners: sequences with fewer than 5 interactions were filtered out before training and trajectories were segmented to a maximum length of 30, so the 0–10 interaction group contains only learners who already logged at least 5 interactions.
 - The collaborative signal is deliberately coarse: three content-agnostic operators paired with binary correctness, window size N and sequence length K left as hyperparameters that need sensitivity analysis, and time, effort, and affect absent from the behavioral vocabulary.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[student-engagement]]
-## Connected Articles
-
-- [[neural-symbolic-knowledge-tracing]]
-- [[reliable-programming-kt]]
-- [[temporal-smoothness-debiased-kt]]
 ## Citation
 
 Jia et al. (2026). [MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing](https://arxiv.org/abs/2605.08697). arXiv preprint.

@@ -69,25 +69,6 @@ Notably, the study is **qualitative** — it deliberately does not report quanti
 - The qualitative design (interviews, 31 hours of field notes, artifacts, final presentations) deliberately reports no quantified learning gains, documenting pathways rather than outcomes.
 - Findings come from the second year of one curriculum implementation, so patterns are situated in that program rather than representative.
 
-## Connected Concepts
-
-- [[educational-robotics]]
-- [[project-based-learning]]
-- [[constructivist]]
-- [[ai-education]]
-- [[k-12]]
-- [[cs-education]]
-- [[computational-thinking]]
-- [[student-engagement]]
-- [[motivation]]
-- [[creativity]]
-- [[pedagogy]]
-
-## Connected Articles
-
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI and Authentic Assessment
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: AI Literacy Module for K-12
-
 ## Citation
 
 McLaughlin, G., Novak, E., Ahmadi, S., Li, J., Guo, Y., Liu, R., & Borgerding, L. (2026). [*Pathways to Learning: Exploring High School Students' Learning of AI-Powered Educational Robotics*](https://doi.org/10.1007/s11423-026-10651-w). Educational Technology Research and Development.

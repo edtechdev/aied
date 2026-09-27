@@ -42,22 +42,6 @@ institutions: [educational-policy-ai]
 - The survey instrument was a service evaluation rather than a purpose-built research measure, and the authors caution that the study captures only the early phase of AI policy implementation.
 - The analysis stops at one school and one framework: the authors state that expanding TPB or integrating other theoretical perspectives is needed to capture GenAI's ethical ambiguity, so the attitude–behavior links reported here are not transferable as policy effects.
 
-## Connected Concepts
-
-- [[ai-use-disclosure]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
-
 ## Citation
 
 Gonsalves, C. (2025). Addressing student non-compliance in AI use declarations: Implications for academic integrity and assessment in higher education. *Assessment & Evaluation in Higher Education, 50*(4), 592–606. [https://doi.org/10.1080/02602938.2024.2415654](https://doi.org/10.1080/02602938.2024.2415654)

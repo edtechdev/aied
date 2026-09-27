@@ -21,7 +21,6 @@ ai_assist:
     role: drafting
     date: "2026-09-22"
     agent: hermes-agent
-connected_faqs: [developing-ai-tutor]
 reviewed_by: [editor]
 ---
 
@@ -56,33 +55,6 @@ The contribution distinguishing CoLearn from a conventional [[adaptive-learning]
 - BKT parameters are shared priors rather than fitted per skill, so absolute mastery values are indicative and not calibrated.
 - The observation function is weakest for low-performing learners (within-tier r ≈ 0.15 for the weak tier versus 0.48 and 0.41 for mixed and strong), and persona evaluation used 6 synthetic learners over 132 rounds, with no far-transfer measure.
 - Strategy self-evolution is planned but not implemented, and no direct comparison with other LLM tutors is made because of differences in experimental setup.
-
-## Connected Concepts
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[misconceptions]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[automated-question-generation]]
-- [[formative-assessment]]
-- [[cognitive-diagnosis]]
-- [[mastery-learning]]
-- [[llm]]
-- [[simulating-students]]
-- [[explainable-ai]]
-- [[learning-analytics]]
-- [[human-ai-collaboration]]
-
-## Connected Articles
-- [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System
-- [[correct-answer-trap-misconceptions]] — The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
-- [[curiobot-llm-tutoring-exploratory-learning]] — Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics
-- [[prober-ai-inquiry-writing]] — Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — How much selection would be enough? Bounding the learning claim of El Salvador's artificial intelligence tutoring pilot
 
 ## Citation
 He, K., Wu, Z., Zhang, L., Zhao, R., He, Y., & Li, J. (2026). [CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop](https://arxiv.org/abs/2609.21154). arXiv:2609.21154.

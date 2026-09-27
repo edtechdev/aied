@@ -36,19 +36,6 @@ The framework also touches on [[metacognition]] — students need to develop jud
 - Subgroup-sensitive evaluation, which carries the paper's [[equity-in-ai-education|equity]] argument, is acknowledged as methodologically demanding: small samples, missing demographic data, and privacy constraints limit what can be responsibly inferred.
 - The eight-week module sequence, assignments, and rubric are offered as adaptable templates; the authors note implementation will vary by institutional resources, student preparation, faculty expertise, and local data infrastructure.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[human-ai-collaboration]]
-- [[curriculum-design]]
-- [[trust]]
-- [[equity-in-ai-education]]
-- [[stem-education]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[agentic-workflows-education]]
 ## Citation
 
 Mei, D., Moore, K., & Sayler, B. (2026). [Preparing students for AI-powered materials discovery: A workflow-aligned framework for AI literacy, equity, and scientific judgment](https://arxiv.org/abs/2605.09624).

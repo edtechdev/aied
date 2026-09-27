@@ -63,29 +63,6 @@ This paper adds an **experiential/epistemological dimension** to the [[ai-litera
 - The framework's stated validation target, the PISA 2029 Media and Artificial Intelligence Literacy assessment, has not yet been administered, so alignment with it cannot be checked.
 - The authors themselves call for longitudinal impact studies and classroom-based research, conceding that evidence linking cultivated AI intuition to improved [[critical-thinking]] does not yet exist.
 
-## Connected Concepts
-
-- [[ai-literacy]] — the competency framework AI intuition complements
-- [[k-12]] — the educational level addressed
-- [[generative-ai]] — the tool class learners interact with
-- [[experiential-learning]] — the pedagogical mode through which intuition develops
-- [[critical-thinking]] — the outcome intuition is argued to safeguard
-- [[prompt-engineering]] — distinguished from AI intuition (output-optimizing vs. epistemic judgment)
-- [[curriculum-design]] — how the dual framework guides curriculum
-- [[teacher-role]] — teacher professional development for inductive environments
-- [[constructivist]] — learning through direct engagement
-- [[hallucination-risk]] — what intuition helps learners recognize
-- [[stem-education]] — the disciplinary context of much GenAI integration
-
-## Connected Articles
-
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — preservice teacher AI readiness
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — science-integrated AI literacy curriculum via design-based research
-- [[ai-tpack-mathematics-teacher-education-2026]] — teacher AI competencies (TPACK) in math education
-- [[genai-feedback-design-multisite-experiment]] — GenAI feedback design experimentation
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — prompt-engineering for personalization
-- [[metacognitive-awareness-experiential-vs-instructional]] — experiential vs. instructional metacognitive learning
-
 ## Citation
 
 Beau, M., & Lazar, M. (2026). [*From AI intuition to AI literacy: A dual framework for K-12 education*](https://doi.org/10.52358/mm.vi25.576). *EdArXiv preprint*.

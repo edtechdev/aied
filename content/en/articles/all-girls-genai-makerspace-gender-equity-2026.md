@@ -8,7 +8,6 @@ foundations: [ai-literacy]
 technology: [generative-ai]
 methods: [qualitative-research]
 ethics: [equity-in-ai-education]
-connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 research_method: [case study, interviews]
 discipline: [stem education]
@@ -44,25 +43,6 @@ While stakeholders generally viewed the all-girls format positively as a safer, 
 - Girls' own views rest on five interviews conducted by youth co-researchers with limited interview experience, producing short and closed responses, and all participating girls were white and lived in an urban European city, so their experiences are not equivalent to those of marginalized girls facing more complex intersectional challenges.
 - Girls' talk in a European language was not directly accessible to the researchers; translated and paraphrased accounts shared later by practitioners may have reduced the nuances of the girls' original meanings.
 - The data corpus is small and multi-source — 15 interviews with girls, parents, and practitioners, four reflective sessions, two observation fieldnotes, and 44 GenAI-generated images — and girls' direct participation in decision-making was limited throughout the initiative.
-
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[k-12]]
-- [[ai-literacy]]
-- [[agency]]
-- [[learner-identity]]
-- [[critical-pedagogy]]
-- [[stem-education]]
-- [[digital-divide]]
-- [[bias-mitigation]]
-- [[parents-and-families]]
-## Connected Articles
-
-- [[informal-learning-everyday-human-llm-interaction]] — explores informal, out-of-school AI interaction, the same setting type (informal learning) that this study argues remains under-researched for equity-oriented GenAI.
-- [[genai-literacy-image-discrimination]] — addresses learners' critical evaluation of GenAI-generated images, parallel to the workshops' activity of judging whether images were AI-produced.
-- [[critical-thinking-genai-scaffolding]] — concerns scaffolding of GenAI use in learning, echoing this study's call for responsive, girl-centered prompt-writing and pedagogical scaffolding.
 
 ## Citation
 

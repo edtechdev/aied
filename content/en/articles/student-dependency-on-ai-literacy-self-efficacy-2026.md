@@ -40,29 +40,6 @@ The central insight is that skill and confidence pull in opposite directions in 
 - Every construct was measured with self-report Likert items, and the ethics and emotional-regulation [[ai-literacy]] subscale had internal consistency of α = 0.64, below the conventional 0.70 threshold.
 - The sample is confined to a single country (Israel) and one data-collection window (August–September 2025), so the profiles may not transfer to other national or institutional contexts.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[self-efficacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[motivation]]
-- [[student-engagement]]
-- [[misconceptions]]
-- [[reducing-ai-misuse]]
-- [[generative-ai]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[end-of-assessment-ai-disruption-transformation-2026]] — The End of Assessment? Disruption and transformation in the age of AI
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Epistemic AI literacy in student-AI co-programming
-- [[genai-thoughtless-use-self-directed-learning-2026]] — GenAI and thoughtless use in self-directed learning
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
-
 ## Citation
 
 Maizel, H., Kalman Halevi, M., Sarid, M., & Tutian, R. (2026). *[Understanding Student Dependency on AI: The Role of AI Literacy, Academic Self-Efficacy, and Resource Management Strategies](https://doi.org/10.3390/educsci16071123)*. Education Sciences, 16(7), 1123.

@@ -57,18 +57,6 @@ Four themes emerged from daily and weekly learner feedback. First, [[student-eng
 - The content was Python only, following ACM/IEEE CS2013 introductory guidelines from variables and conditionals in W1 to loops, arrays, and functions by W4, which the authors note may limit transferability to other programming languages.
 - Evidence is self-report: daily stand-ups and weekly meetings with a 5-point Likert survey and open-ended reflection, coded by two of the authors, so the claims concern perceived clarity and engagement rather than measured programming gains, and the underlying model may reflect biases in training data, representation, and instructional style.
 
-## Connected Concepts
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[human-in-the-loop-ai]]
-- [[cs-education]]
-- [[k-12]]
-- [[socratic-method]]
-- [[scaffolding]]
-## Connected Articles
-
-- [[structured-llm-feedback-programming]]
 ## Citation
 
 Lucas, C., Tsai, C.-H., Bihani, A., & Sarker, J. (2026). [*Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study*](https://arxiv.org/abs/2605.17857).

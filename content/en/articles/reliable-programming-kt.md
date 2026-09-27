@@ -59,21 +59,6 @@ Task-specific hyperparameter optimization is a prerequisite for fair comparison.
 - The re-evaluation covers a single dataset — CodeWorkout, 69,627 interactions from 413 students across five assignments — and a subset of PKT models (DKT, Code-DKT, ECKT); the authors state that extending the rectified protocol to broader domains and architectures remains future work, so the corrected rankings are not yet shown to generalize.
 - Model comparisons rest on one 80/20 train/test split with five cross-validation folds, and hyperparameters were chosen by grid search on a single designated fold and then fixed across all folds, so the reported ordering is conditional on that one fold's selection.
 - The sequence-length finding rests on only two settings, Lmax = 50 and Lmax = 100, so intermediate truncations and other architecture families remain untested.
-## Connected Concepts
-
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[benchmark]]
-- [[adaptive-learning]]
-- [[cognitive-diagnosis]]
-- [[learning-analytics]]
-- [[cs-education]]
-- [[automated-assessment]]
-
-## Connected Articles
-
-- [[ground-truth-reliability-aied]]
-- [[programming-its]]
 ## Citation
 
 Kim & Kim (2026). [Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols](https://arxiv.org/abs/2605.04727). ITS 2026 (Springer LNCS).

@@ -58,25 +58,6 @@ Capability evolution follows a controlled lifecycle: observe need from behaviora
 - **It synthesizes literatures of different maturity.** Findings from intelligent tutoring and adaptive learning do not automatically transfer to language-model agents, and software-agent benchmarks say little about durable learning.
 - **The architecture may overestimate current integration.** Reliable learner modeling, agent orchestration, capability contracts, automated assurance and causal evaluation are each difficult today, and their interaction may create unanticipated failure modes.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[self-regulated-learning]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[human-ai-collaboration]]
-- [[guardrails]]
-- [[explainable-ai]]
-- [[accessibility]]
-
-## Connected Articles
-
-- [[wang-multi-agent-systems-learning-designers-2025]] : Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design
-- [[agentic-workflows-education]] : Evolution of AI in Education: Agentic Workflows
-- [[beyond-agent-label-agentic-ai-governance-2026]] : Beyond the Agent Label: Evidence Maturity, Human Monitoring, and Governance of Agentic AI in Higher Education
-
 ## Citation
 
 [*Beyond the Static LMS: A Conceptual Framework for Self-Evolving Agentic E-Learning Systems*](https://osf.io/preprints/edarxiv/27upe_v1/). John Cheung. EdArXiv preprint, submitted August 21, 2026. DOI 10.35542/osf.io/27upe_v1

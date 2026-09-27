@@ -49,22 +49,5 @@ Predictive-bias patterns for multilingual learners were similar across the LLM-b
 - Only one writing sample per student was collected at each screening wave, so the study cannot separate the benefit of averaging more samples from the benefit of sampling across occasions.
 - The study never compared LLM-based comparative judgment with human-performed comparative judgment on the same essays, and the authors warn that rapid LLM development limits generalization from these specific model rankings and cost comparisons.
 
-## Connected Concepts
-- [[automated-assessment]]
-- [[writing-education]]
-- [[llm]]
-- [[k-12]]
-- [[assessment-validity]]
-- [[equity-in-ai-education]]
-- [[multilingual-learning]]
-- [[assessment]]
-
-## Connected Articles
-- [[gpt-human-rater-essay-assessment-2026]] — Comparing GPT and Human Raters in Essay Assessment
-- [[bandit-driven-llm-essay-scoring-2026]] — Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring
-- [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System
-- [[llm-automated-grading-programming-comparison-2026]] — A Systematic Comparison of Large Language Models for Automated Assignment Assessment in Programming Education
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education
-
 ## Citation
 Mercer, S., & Reed, D. K. (2026). [*Validity of Large Language Model Comparative Judgment for Universal Writing Screening*](https://osf.io/preprints/edarxiv/4k9r8/). EdArXiv preprint.

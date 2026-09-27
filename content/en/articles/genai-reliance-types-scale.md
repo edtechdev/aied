@@ -33,27 +33,6 @@ Validation follows the multi-source framework of the *Standards for Educational 
 - No formal content-validity indices were computed; expert review of item content was informal, and the non-binary, genderqueer, and transgender subgroup (n = 25) was too small for full measurement-invariance testing, so only two-group comparisons were possible.
 - Test-retest temporal stability of the GenAI-RTS has not been established, and the interview accounts of movement from dependent toward strategic reliance are retrospective and cannot establish developmental change.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[writing-education]]
-- [[higher-ed]]
-- [[educational-measurement]]
-- [[trust]]
-- [[human-ai-collaboration]]
-## Connected Articles
-
-- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026
-- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
-- [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
-- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students' Motivation in Introductory Programming
-
 ## Citation
 
 Shahin Hossain, Tukhbita Afroz Nawmi (2026). [Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)](https://arxiv.org/abs/2607.14301).

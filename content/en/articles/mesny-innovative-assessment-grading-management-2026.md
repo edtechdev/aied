@@ -41,28 +41,6 @@ level: [higher ed]
 - This is a literature review with no new student or classroom data; evidence for the five practices' benefits comes from scholarship largely outside management education, and within the corpus ungrading appears in exactly one article (Kjaergaard et al., 2023) while standards-based, mastery-based, and competency-based grading are referenced by none.
 - The five practices were selected on the authors' own criteria — pedagogical validity, strategic relevance, feasibility, and complementarity — rather than derived systematically, so the set is a curated judgment rather than a complete map of the field.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[higher-ed]]
-- [[business-education]]
-- [[mastery-learning]]
-- [[feedback]]
-- [[academic-integrity]]
-
-## Connected Articles
-
-- [[drummond-genai-business-schools-framework-2026]] — GenAI and its implications for business-school assessment and learning
-- [[espino-ai-business-education-review-2026]] — Review of AI in business/management education
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Scoping review of authentic assessment
-- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — Authentic assessment and integrity in the generative AI era
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — Authentic assessment and metacognition with AI
-- [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide assessment redesign under GenAI
-- [[dollinger-equitable-assessment-ai-2026]] — Equity and inclusive assessment with AI
-
 ## Citation
 
 Mesny, A., Roberge-Maltais, I., & Galy, A. (2026). [Innovative assessment and grading practices in higher education: A critical exploration for management educators](https://doi.org/10.1016/j.ijme.2025.101307). *The International Journal of Management Education*, 24, 101307.

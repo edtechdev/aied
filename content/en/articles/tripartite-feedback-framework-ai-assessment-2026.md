@@ -7,7 +7,6 @@ foundations: [academic-integrity]
 technology: [generative-ai, human-in-the-loop-ai, rag]
 assessment: [assessment-validity, automated-assessment, feedback, feedback-literacy]
 ethics: [equity-in-ai-education]
-connected_faqs: [verify-ai-output]
 sources: ['raw/papers/tripartite-feedback-framework-ai-assessment-2026.md']
 confidence: high
 research_method: [theoretical analysis]
@@ -48,32 +47,6 @@ The paper positions itself against three substantive gaps. Hattie and Timperley 
 ## Limitations
 
 The paper is deliberately conceptual and reports **no empirical validation and no implemented pilot**, so which [[llm]] is used, how it is prompted, and how the RAG pipeline is configured remain open — and different models and configurations may satisfy the five boundary principles to varying degrees, particularly knowledge-base grounding and bounded verification. The taxonomy's boundaries may be harder to operationalize than stated: in reports with open-ended design, contested methodological choices or multiply interpretable data, tasks that look like straightforward fact-checking can contain embedded interpretive dimensions, and the conservative escalation default addresses this procedurally without resolving it. The five principles have not been tested for **simultaneous feasibility** — assessor time for knowledge-base curation, infrastructure for robust security, and the workflow demands of high-frequency oversight could make intermediate-level AI support impractical in most institutions, so the conditions may be so demanding that the framework limits its own operational value. It was developed for report genres in STEM and social science and should not be assumed to transfer to essays, [[eportfolio|portfolios]], dissertations or reflective writing. Its central pedagogical assumption — that differentiating feedback by level and source supports rather than undermines [[feedback-literacy|feedback literacy]] — is untested, and the author concedes it is equally plausible that multi-source feedback confuses students, weakens trust, or multiplies delivered information without building the capacity to seek and use feedback. Security may constrain viability more than capability if the adversarial landscape evolves faster than institutional response. Equity problems are named but cannot be pre-specified, and may be systematically differential in ways invisible without sustained disaggregated monitoring. The paper also acknowledges that the principles may **shift staff effort rather than reduce it**, leaving net efficiency gains an open question, and that a bounded framework could still ease future expansion of AI's role — which is why the principles are framed as a standing check rather than a one-off safeguard.
-
-## Connected Concepts
-
-- [[feedback]]
-- [[automated-assessment]]
-- [[human-in-the-loop-ai]]
-- [[feedback-literacy]]
-- [[self-assessment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[rag]]
-- [[hallucination-risk]]
-- [[higher-ed]]
-- [[equity-in-ai-education]]
-- [[ai-misuse-learning-harm]]
-
-## Connected Articles
-
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]] — Meta-analytic review of LLM grading and feedback: hybrid systems with teacher oversight perform best
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL scoring at national scale: routing human review where AI bias would change outcomes
-- [[llms-do-not-grade-essays-like-humans-2026]] — Where LLM essay grading diverges from human raters
-- [[student-perspectives-ai-writing-grading-2026]] — Students separate feedback utility from evaluative authority
-- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI as an enabler of feedback engagement
-- [[falahat-chatgpt-grading-pharmacy-exams-2026]] — ChatGPT-5 grading across item types: reliability collapses on short-answer and essay items
-- [[raise-framework-ai-education-reporting-2026]] — RAISE: reporting checklist for AI-in-education studies
-- [[automated-scoring-marketing-posts-agreement-2026]] — Small-corpus agreement statistics can mislead deployment decisions
 
 ## Citation
 

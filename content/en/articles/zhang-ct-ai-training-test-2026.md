@@ -37,21 +37,6 @@ audience: [assessment designers, researchers]
 - The sample came from CS- and AI-related fields where male students are dominant, so the null gender finding rests on an imbalanced sample rather than a well-powered comparison.
 - The test design followed Brennan and Resnick's framework, which covers CT concepts and practices but not CT perspectives, leaving one dimension of CT unmeasured.
 
-## Connected Concepts
-
-- [[computational-thinking]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[item-response-theory]]
-- [[cs-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[llm-cognitive-diagnosis-handwritten-math]] — LLM cognitive diagnosis in handwritten math
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated grading of Linux Bash exams
-
 ## Citation
 
 Zhang, S., & Zhang, S. (2026). [*Integrating AI into computational thinking: development and validation of an assessment tool for higher education students*](https://doi.org/10.1186/s40594-026-00623-0). *International Journal of STEM Education*, 13, 49.

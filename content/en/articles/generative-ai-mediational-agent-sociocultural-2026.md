@@ -53,40 +53,6 @@ Viewing AI as a mediational agent redirects [[research-methods-aied|researchers]
 - The authors place the concept's own success criterion in the future tense — its value "will depend on whether the concept helps the field to notice phenomena that existing categories leave unexplained" — and the essay offers no operationalization or measurement for that criterion.
 - The argument treats generative AI as a single undifferentiated category, without distinguishing systems by capability, interface, or deployment, so its conceptual claims cannot be bounded to particular tools or settings.
 
-## Connected Concepts
-
-- [[sociocultural-learning]]
-- [[learning-theories]]
-- [[generative-ai]]
-- [[constructivist]]
-- [[distributed-cognition]]
-- [[pedagogy]]
-- [[ai-education]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[philosophy-of-ai-in-education]]
-- [[reducing-ai-misuse]]
-- [[ethics]]
-- [[critical-thinking]]
-- [[framing-ai-use-for-students]]
-
-## Connected Articles
-
-- [[vargas-situated-learning-ai-review-2024]] — Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature
-- [[same-ai-different-pathways]] — Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI
-- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction
-- [[ba-ai-agents-cscl-review-2026]] — Artificial Intelligence Agents in Computer-Supported Collaborative Learning: A Systematic Literature Review
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the Age of Generative Artificial Intelligence
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Learning with Machines: Epistemic Co-Agency
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as Cognitive Partner and Co-Regulation
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — AI-Mediated Learning and Interpretive Cognition
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical/Creative Thinking
-- [[posthumanist-ai-literacy-2025]] — Posthumanist AI Literacy
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding
-
 ## Citation
 
 Warschauer, M., Tate, T., & Ritchie, D. (2026). [*Generative AI as a Mediational Agent: Rethinking Learning in Sociocultural Theory*](https://osf.io/preprints/edarxiv/wcpj5_v2/). EdArXiv preprint.

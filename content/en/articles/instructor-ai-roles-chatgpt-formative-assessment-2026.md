@@ -49,25 +49,6 @@ The study's principal contribution is an **Achievement-Based Instructor–AI Syn
 
 The findings are context-specific (13 pre-service teachers, single university, stoichiometry with ChatGPT); perceptions relied on self-reported descriptions rather than full interaction logs; and the model lacks a developmental/longitudinal dimension.
 
-## Connected Concepts
-
-- [[chemistry-education]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[human-ai-collaboration]]
-- [[teacher-education]]
-- [[generative-ai]]
-- [[feedback]]
-- [[student-engagement]]
-- [[agency]]
-- [[personalized-learning]]
-
-## Connected Articles
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[context-based-ai-secondary-chemistry-2026]] — Context-based + AI in secondary chemistry
-- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-
 ## Citation
 
 Ratniyom, J., Boonphadung, S., Intaraprasit, M., & Chumkaeo, P. (2026). [Instructor and AI roles in the chemistry classroom: Future science teachers' perceptions in a ChatGPT-enhanced formative assessment](https://doi.org/10.1515/cti-2025-0097). *Chemistry Teacher International*, advance online publication.

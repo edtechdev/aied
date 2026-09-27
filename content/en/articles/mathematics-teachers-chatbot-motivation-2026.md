@@ -47,21 +47,6 @@ level: [secondary]
 - The sample skews old (most aged 51–60) and draws on one national system with its own upper-secondary structure, so generalization to other countries and age profiles is untested.
 - The model omitted habit and hedonic motivation or enjoyment, which the authors flag as influential adoption factors in the wider literature and leave to future research.
 
-## Connected Concepts
-
-- [[math-education]]
-- [[teacher-role]]
-- [[motivation]]
-- [[tpack]]
-- [[teacher-education]]
-
-## Connected Articles
-
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in lesson planning
-- [[ai-perceptions-students-teachers-motivation-2026]] — AI perceptions, motivation, and self-efficacy
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — AI in preservice teacher development
-- [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy
-
 ## Citation
 
 Weinhandl, R., Andic, B., Wijaya, T. T., Bleckenwegner, V., Riegler, V., Baldinger, S., Mayrhofer, J., & Helm, C. (2026). [*Talking mathematics with AI: Understanding teachers' motivation for utilizing chatbots*](https://doi.org/10.1016/j.caeo.2026.100359). *Computers and Education Open*, 100359. https://doi.org/10.1016/j.caeo.2026.100359

@@ -5,7 +5,6 @@ updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking]
 technology: [generative-ai]
-connected_faqs: [ai-guidance-children-under-13, course-ai-policy]
 research_method: [case study]
 discipline: [english education, writing education]
 level: [secondary, teacher education]
@@ -52,24 +51,6 @@ institutions: [educational-policy-ai]
 - The policies were written speculatively for anticipated classrooms, because participants were not teachers of record, and the study gathered no empirical evidence from their actual teaching placements.
 - Coding produced 567 classifications across 27 data sets with agreement on 555 (98%) between two coders, and the authors caution explicitly against generalizing to other preservice contexts.
 - Because policy writing was a course assignment, what participants wrote may reflect course expectations as much as the rules they would enact in their own classrooms.
-
-## Connected Concepts
-
-- [[generative-ai]]
-- [[educational-policy-ai]]
-- [[teacher-education]]
-- [[writing-education]]
-- [[english-education]]
-- [[critical-thinking]]
-- [[academic-integrity]]
-
-## Connected Articles
-
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Preservice teachers' ChatGPT use and language-related pedagogical knowledge
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student decisions about disclosing generative AI use to teachers
-- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — Rethinking plagiarism and integrity in secondary generative AI contexts
-- [[ai-writing-support-stage-ownership-2026]] — AI-writing support and student ownership across writing stages
-- [[chirikov-regulate-ai-syllabi-2026]] — Regulating generative AI through course syllabi and academic policy
 
 ## Citation
 

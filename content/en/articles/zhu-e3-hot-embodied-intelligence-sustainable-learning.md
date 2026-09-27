@@ -41,25 +41,6 @@ institutions: [educational-policy-ai]
 - The background review was a design-oriented scoping process on titles, abstracts, and keywords only, so the framework is a structured, auditable design baseline rather than an exhaustive synthesis.
 - Validation remains planned rather than completed — small-scale design-based studies, quasi-experimental comparisons, and rubric-based expert audits of artifacts — so the paper claims no measured [[learning-gains|learning gains]].
 
-## Connected Concepts
-
-- [[embodied-learning]]
-- [[experiential-learning]]
-- [[constructivist]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[learning-theories]]
-- [[ai-education]]
-- [[sustainability]]
-
-## Connected Articles
-
-- [[ensemble-cognition-philosophy-ai-education]] — Reconceptualizing agency and mind in AI-mediated educational environments
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI tools, cognitive offloading, and the future of critical thinking
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education
-- [[white-wu-robotics-ai-education-2026]] — Robotics/embodied intelligence in AI education
-
 ## Citation
 
 Zhu, H., Jiang, X., Zhang, X., Xu, H., Su, D., Chen, Z., & Zhu, X. (2026). [*Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era*](https://doi.org/10.3390/su18073469). *Sustainability*, 18(7), 3469.

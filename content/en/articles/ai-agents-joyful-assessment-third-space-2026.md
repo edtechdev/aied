@@ -86,32 +86,6 @@ The paper's research agenda is more cautious than its framing, and several items
 - The four characteristics (safe, emotionally responsive, empowering, agency-supporting) are drawn from prior scholarship and asserted rather than operationalized or measured, leaving no instrument for testing them.
 - The worked example is a single course context (health communication in rural Appalachia), so its persona design and sequencing choices are not shown to transfer.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[academic-integrity]]
-- [[agentic-ai]]
-- [[agency]]
-- [[assessment-validity]]
-- [[feedback]]
-- [[ethics]]
-- [[scaffolding]]
-- [[authentic-assessment]]
-- [[self-efficacy]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment in the AI era
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Oral exams as authentic assessment with AI
-- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessment
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-supported authentic assessment and metacognition
-- [[anastasia-shared-agency-partnership-framework-2026]] — Shared agency and partnership framework
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI, group assessment and student agency
-- [[lo-co-creating-custom-gpts-sap-2026]] — Co-creating custom GPTs for a teaching program
-- [[epistemic-emotions-collaborative-problem-solving]] — Epistemic emotions in collaborative problem solving
-- [[aivaluate-anxiety-assessment-2026]] — Anxiety in performance-based assessment with an AI tool
-
 ## Citation
 
 El Khoury, E., & Ma, X. (2026). [AI Agents, Joyful Assessment, and Third Space: Rethinking Assessment in the GenAI Era](https://doi.org/10.22329/jtl.v20i4.11850). *Journal of Teaching and Learning*, 20(4), 230–241.

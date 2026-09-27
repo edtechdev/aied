@@ -40,23 +40,6 @@ audience: [instructors, administrators]
 - Modest sample (N = 78) with an underpowered regression: the Business reference group held n ≈ 5 and the language-status effect was marginal (B = –0.51, p = .053), so the demographic findings are hypothesis-generating only.
 - The 11-item instrument is newly developed without full psychometric validation: the proposed Disclosure to Peers (α = .34) and AI Usage (α = –.30) composites failed reliability and were analyzed item by item, and the cross-sectional design precludes causal claims about worry and concealment.
 
-## Connected Concepts
-
-- [[ai-use-disclosure]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[academic-integrity]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
-
 ## Citation
 
 Chang, D. H., Lin, M. P. C., Huang, J.-Y., & Ryoo, J. (2026). "Should I tell my teacher?" Student AI disclosure practices, stigma, and self-regulated learning in higher education. *Frontiers in Education, 11*, 1826174. [https://doi.org/10.3389/feduc.2026.1826174](https://doi.org/10.3389/feduc.2026.1826174)

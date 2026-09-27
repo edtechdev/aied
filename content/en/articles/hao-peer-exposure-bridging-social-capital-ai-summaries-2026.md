@@ -10,7 +10,6 @@ level: [higher ed]
 audience: [researchers, instructors]
 sources: ['raw/papers/hao-peer-exposure-bridging-social-capital-ai-summaries-2026.md']
 confidence: high
-connected_faqs: [asynchronous-online-courses-ai]
 ---
 > **Synthesis:** This [[design-based-research|design-based research]] study by Hao and Cukurova evaluates an AI-generated summary-driven learning design (AI-SLD) in [[online-teaching-and-learning|online]] [[collaborative-learning|collaborative]] discussion forums with 128 university students across three design iterations (baseline, Wizard-of-Oz, and full AI). Using [[learning-analytics|social network analysis]] of viewing logs and thematic analysis of interviews, it shows that AI-generated discussion summaries significantly broadened students' exposure to peer contributions and strengthened network connectedness, functioning as navigational [[scaffolding|scaffolds]] that lowered the effort of locating meaningful posts and expanded opportunities for building the weak-tie connections social-capital theory terms *bridging* social capital. However, the support did not prevent a decline in viewing activity under rising academic workload, and the effect was moderated by discussion topic and topic familiarity.
 
@@ -39,23 +38,6 @@ Prior research on online discussion engagement has largely targeted posting and 
 - Social network analysis of Moodle log data cannot determine the depth or quality of learners' viewing engagement.
 - The planned random-slopes model failed to converge because many students did not participate in all 8 weeks, forcing a random-intercepts-only model, and OLS replaced mixed effects for density because only three groups existed.
 - Interview evidence is partial: 31 students from the pilot and main cohorts only (about 60 minutes each, recruited voluntarily after grades were released), and pilot interviewees were told the summaries were human-written.
-
-## Connected Concepts
-
-- [[generative-ai]]
-- [[online-teaching-and-learning]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[community-of-inquiry]]
-- [[peer-assessment]]
-## Connected Articles
-
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the Age of Generative AI
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Leveraging generative AI to Facilitate Peer Feedback in Collaborative Argumentation
-- [[ai-online-education-engagement-satisfaction-2026]] — AI in Online Education: A Systematic Review of Its Impact on Learner Engagement and Satisfaction
-- [[ai-collaborative-learning-systematic-review]] — A Systematic Review of AI-Powered Collaborative Learning in Higher Education
 
 ## Citation
 

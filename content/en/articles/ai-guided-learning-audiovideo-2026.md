@@ -6,7 +6,6 @@ type: article
 pedagogy: [lifelong-learning, self-regulated-learning]
 technology: [learning-analytics, multimodal, personalized-learning, student-modeling]
 assessment: [feedback]
-connected_faqs: [study-with-ai]
 research_method: [system development]
 discipline: [language learning]
 sources: ['raw/papers/2608.08990.md']
@@ -69,23 +68,6 @@ The system highlights waveform regions emphasized by the classifier (where perfo
 - **Summaries can lose content:** for some questions, correct-answer percentages were higher when the original video was viewed, and the author also flags room for improvement in summary depth and synthesized audio quality.
 - **Adaptation rests on a proxy:** AIxSpeed infers listening difficulty from speech-recognition confidence (correlated at 0.9977 with human transcription accuracy for speeds above 1.0x), and the author notes performance may vary with input acoustics, speaker diversity, and content complexity.
 - **Generalization and duration remain unproven:** the dissertation evaluates pronunciation only, states it provides no evidence that Profy's framework extends to other imitation domains, and calls for longitudinal study of long-term learning outcomes.
-
-## Connected Concepts
-
-- [[personalized-learning]]
-- [[language-learning]]
-- [[feedback]]
-- [[self-regulated-learning]]
-- [[multimodal]]
-- [[student-modeling]]
-- [[learning-analytics]]
-- [[lifelong-learning]]
-
-## Connected Articles
-
-- [[ai-assisted-learning-modes-eeg]] — AI-assisted learning modes (EEG)
-- [[ai-generated-instructional-videos-computing-ed]] — AI-generated instructional videos
-- [[ai-adult-learning-guidelines-dis2026]] — AI in adult learning design
 
 ## Citation
 

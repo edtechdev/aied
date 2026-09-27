@@ -39,24 +39,6 @@ audience: [instructional designers, instructors]
 - Adaptivity was primarily rule-based and threshold-triggered, engagement with feedback resources was voluntary, and the dashboard served an informational function; regulatory behaviors were assessed only after task completion rather than in real time.
 - Self-report data were used to prompt the directive feedback, which the authors note introduces potential bias from inaccuracies in learners' self-assessments.
 
-## Connected Concepts
-
-- [[self-regulated-learning]] — the construct the ALT aims to foster
-- [[adaptive-learning]] — the technology delivering personalized feedback
-- [[feedback]] — the differentiated feedback under study
-- [[feedback-literacy]] — learners' capacity to engage with feedback
-- [[metacognition]] — a key SRL component supported/studied
-- [[motivation]] — pre-actional driver of regulatory behavior
-- [[self-efficacy]] — a pre-actional factor influencing regulation
-- [[learning-analytics]] — trace-data methodology
-- [[cognitive-offloading]] — the cognitive-load risk of transformative feedback
-- [[higher-ed]] — the study context (stochastics course)
-- [[self-report-measures]]
-
-## Connected Articles
-
-- [[banihashem-ai-srl-systematic-mapping-review-2025]] — Mapping review of AI and self-regulated learning
-
 ## Citation
 
 Mejeh, M., & Fromm, Y. M. (2026). [*Fostering self-regulated learning through adaptive learning technology: A differentiated perspective on the role of feedback*](https://doi.org/10.1016/j.learninstruc.2026.102394). *Learning and Instruction*, 105, 102394.

@@ -17,7 +17,6 @@ page_kind: [evaluation]
 
 ## Research Design
 
-
 ## Key Finding: Null Result
 
 **No meaningful impact of ChatGPT availability on high school test score averages in either direction.** Whether students use AI to cheat, to learn, or both, the aggregate effect on standardized test performance is negligible — at least in the short term and as AI is actually used.
@@ -44,20 +43,6 @@ The seasonal variation identification strategy is innovative for causal inferenc
 - **Precision has a floor.** Standard errors of 0.017-0.020 in most analyses would only produce a significant result for a test score change of .04 or greater, roughly 8% of a standard deviation.
 - **A key assumption is untestable here.** The study cannot adjust for the relationship between student characteristics and COVID-19 recovery rates, and substitutes a placebo test among students in grades 3-8 who are probably too young to use ChatGPT in their schoolwork.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[academic-integrity]]
-- [[k-12]]
-- [[assessment]]
-- [[learning-gains]]
-- [[ai-misuse-learning-harm]]
-- [[reducing-ai-misuse]]
-## Connected Articles
-
-- [[genai-performance-vs-learning]]
-- [[ai-making-us-stupid]]
 ## Citation
 
 Huntington-Klein, N. (2026). [Little impact of ChatGPT availability on high school student test score performance](https://arxiv.org/abs/2605.08812).

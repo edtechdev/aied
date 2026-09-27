@@ -43,23 +43,6 @@ The study collected survey data from 1,264 students at a vocational college in C
 - Hardiness is treated as a relatively stable disposition, which may understate its plasticity over time.
 - The study did not distinguish between different types or intensities of AI use, which could moderate the observed relationships.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[ai-misuse-learning-harm]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance: Generative AI and Sustainable Learning Performance
-- [[ai-use-critical-thinking-medical-students-2026]] — From AI Use to Critical Thinking Among Medical Students
-- [[ai-availability-student-motivation]] — "Why Put in This Much Effort?": How AI Availability Shapes Students' Motivation
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains From Learning When Using Generative AI
-- [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI
-
 ## Citation
 
 Wang, W., & Zhang, Q. (2026). [*AI-assisted autonomous learning and reduced academic accomplishment in vocational higher education: The mediating role of hardiness*](https://doi.org/10.3389/fpsyg.2026.1848291).

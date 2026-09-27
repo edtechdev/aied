@@ -51,28 +51,6 @@ The paper opens from a [[constructivist]] foundation (Richey et al., 2011): lear
 - The Four-Step AI Response Continuum is proposed as a readiness-matching heuristic without evidence that educators move through the four stages in that order, or that stage placement predicts successful integration.
 - The pedagogical examples (a coastal-ecosystem simulation, a mergers-and-acquisitions negotiation) are illustrations rather than tested interventions, and the paper flags data privacy, security, and the need for teachers to manage AI bias and error as unresolved.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[cognitive-offloading]]
-- [[constructivist]]
-- [[critical-thinking]]
-- [[embodied-learning]]
-- [[experiential-learning]]
-- [[higher-ed]]
-- [[learning-design]]
-- [[learning-theories]]
-- [[personalized-learning]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[finkelstein-principled-ai-education-2025]] — A Principled Way to Think About AI in Education
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice
-- [[ai-use-critical-thinking-medical-students-2026]] — AI Use and Critical Thinking in Medical Students
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive Virtual Patient for Psychotherapy Training
-
 ## Citation
 
 Fowlin, J., Coleman, D., Ryan, S., Gallo, C., Soares, E., & Hazelton, N. (2026). [*Empowering Educators: Operationalizing Age-Old Learning Principles Using AI*](https://doi.org/10.3390/educsci15030393). Education Sciences, 15(3), 393.

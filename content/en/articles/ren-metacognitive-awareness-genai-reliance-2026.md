@@ -59,19 +59,6 @@ After feedback, participants rated whether outcomes stemmed from their own abili
 - **Awareness calibration is not independent of the outcome.** It incorporates behavioral reliance and was measured after the decision episode, which is why the exploratory indirect effect is reported as associational rather than causal mediation.
 - **The attribution index is constructed**, and "metacognitive dependence" is not validated as a single latent trait.
 
-## Connected Concepts
-
-- [[metacognition]] — monitoring accuracy as the study's central construct
-- [[trust-calibration]] — appropriate reliance versus uncritical adoption of AI advice
-- [[cognitive-offloading]] — external support that can hide how much reasoning was outsourced
-- [[generative-ai]] — the tool examined in all three conditions
-
-## Connected Articles
-
-- [[eight-mode-ai-engagement-typology-2026]] — Self-Report and Behavior Gap in AI Engagement
-- [[efficiency-gain-illusion-ai-overreliance]] — Efficiency Gain Illusion and AI Overreliance
-- [[wang-reflective-ai-use-engagement-programming-2026]] — Reflective AI Use and Engagement in Programming
-
 ## Citation
 
 Ren, S. (2026). [*College students’ metacognitive awareness of generative-AI reliance: an experimental study of decision confidence and attribution bias*](https://doi.org/10.3389/fpsyg.2026.1926110).

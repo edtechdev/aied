@@ -39,30 +39,6 @@ confidence: high
 - The Padlet format constrained response length and depth and allowed no follow-up probing, so some responses may reflect initial judgments rather than elaborated ethical positions.
 - The findings are tied to one scenario: students' stated reasoning may differ from their behavior in high-stakes assessment, where performance pressure plays a greater role.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[ai-use-disclosure]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[framing-ai-use-for-students]]
-- [[k-12]]
-- [[student-engagement]]
-- [[agency]]
-- [[help-seeking]]
-
-## Connected Articles
-
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world
-- [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — Chat or cheat? ChatGPT and academic dishonesty
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI declarations
-- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Academic dishonesty and automated proctoring with AI
-- [[genai-chinese-higher-education-integrity-2026]] — GenAI and academic integrity in Chinese higher education
-- [[end-of-assessment-ai-disruption-transformation-2026]] — The end of assessment: AI disruption and transformation
-- [[ai-tools-academic-work-cheating-2026]] — AI tools, academic work, and cheating
-
 ## Citation
 
 Chan, C. K. Y. (2026). [*Cheating or not cheating? Rethinking AI-giarism and academic integrity through secondary students' ethical reasoning*](https://doi.org/10.1016/j.compedu.2026.105698). *Computers & Education*, 253, 105698.

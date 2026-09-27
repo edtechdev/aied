@@ -40,18 +40,5 @@ This is a concrete, empirical illustration of **AI for sustainability** in the k
 - No multiple informants — instructors, curriculum designers, and workplace supervisors were not interviewed — so findings reflect students' subjective perceptions rather than triangulated learning outcomes.
 - No longitudinal follow-up, so the study cannot show whether the reported changes in sustainability knowledge, attitudes, and behavior persist into professional practice.
 
-## Connected Concepts
-- [[sustainability]]
-- [[engineering-education]]
-- [[higher-ed]]
-- [[human-ai-collaboration]]
-- [[learning-design]]
-- [[personalized-learning]]
-- [[ethics]]
-
-## Connected Articles
-- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI in higher education
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI
-
 ## Citation
 Liu, F., Wang, H., Guo, Y., & Tang, T. (2026). [*Enhancing Sustainability Consciousness in Higher Education: Impacts of Artificial Intelligence-Integrated Sustainable Engineering Education*](https://doi.org/10.3390/su18042124). *Sustainability*, 18(4), 2124.

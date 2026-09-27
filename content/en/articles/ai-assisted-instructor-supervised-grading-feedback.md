@@ -61,23 +61,6 @@ Grading a cohort takes under an hour per case, students receive supplementary fe
 - No criterion-level instructor scores were collected, so the AI's low scores on Personal Opinion describe the AI's own score distribution and cannot be attributed to AI severity versus genuine student weakness.
 - Student ratings of feedback quality came from a self-selected 31% response rate (112 responses), and the estimated ~48 hours of instructor time saved per semester is a self-report figure.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[llm]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[human-in-the-loop-ai]]
-- [[teacher-role]]
-- [[academic-integrity]]
-
-## Connected Articles
-
-- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT formative assessment
-- [[llm-formative-feedback-systematic-review-2026]] — LLM formative feedback systematic review
-
 ## Citation
 
 Cruz, L. F., da Silva, M. M., & Mamede, H. S. (2026). [*AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline*](https://doi.org/10.1016/j.caeo.2026.100411). *Computers and Education Open*.

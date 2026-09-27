@@ -60,28 +60,6 @@ The audit scored public [[educational-policy-ai|institutional policy]] packages 
 - Scores came from four open-weight LLMs applying a single codebook with no independently human-coded comparison set, so between-model agreement is a sensitivity measure rather than validation: mean standard deviation was 0.57 for delegation-boundary scores, 0.53 for evidence-standard scores and 0.42 for learning-claim scores, with high-variation cases appearing in 13 to 22 of the 30 packages depending on the scenario.
 - The audit measures published policy text, not classroom practice, institutional intention or learning outcomes, and the constructs sit on different scale maxima (learning claim 0-3; boundary and evidence 0-4), so exact score levels are exploratory descriptions.
 
-
-## Connected Concepts
-
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[authentic-assessment]]
-- [[cognitive-offloading]]
-- [[educational-policy-ai]]
-- [[ethics]]
-- [[generative-ai]]
-- [[governance]]
-- [[theory-development-aied]]
-- [[trust]]
-
-## Connected Articles
-
-- [[genai-assessment-governance]] — Generative AI assessment governance
-- [[genai-policies-higher-ed-computing]] — GenAI policies in higher-ed computing
-- [[ai-assessment-scale-reform]] — AI assessment scale reform
-- [[universities-ai-era-rethinking]] — Rethinking universities in the AI era
-- [[genai-declaration-frameworks-higher-education]] — GenAI declaration frameworks in higher education
-
 ## Citation
 
 Yao, K. (2026). [What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education](https://arxiv.org/abs/2607.19988). (cs.CY). Accepted at AIES 2026.

@@ -4,7 +4,6 @@ created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-19T07:16:01-04:00"
 type: article
 pedagogy: [anxiety-and-stress, motivation, self-efficacy, well-being]
-connected_faqs: [ai-anxiety-wellbeing]
 audience: [researchers, instructors, administrators]
 research_method: [structural equation modeling, survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1951992.md']
@@ -43,22 +42,6 @@ Analysis proceeded in two stages. The main model used confirmatory factor analys
 - The sample was a convenience sample of Chinese undergraduates, all with prior AI experience; results should not be generalized to other countries or to students without AI experience.
 - AI learning anxiety was generally low with limited variance, which may have attenuated the estimated associations.
 - Reliance entirely on [[self-report-measures|self-report]] leaves residual risk of response style, social desirability, and common method bias.
-
-## Connected Concepts
-
-- [[anxiety-and-stress]] — the central emotion, modeled as an achievement-related outcome of control-value appraisals
-- [[self-efficacy]] — operationalizes the control appraisal (AI learning self-efficacy)
-- [[motivation]] — CVT frames anxiety within control and value appraisals tied to task engagement
-- [[technology-acceptance-model]] — TAM supplies the perceived-usefulness (value) construct
-- [[well-being]] — lower learning anxiety reflects positive emotional adjustment to AI-supported learning
-- [[higher-ed]] — the institutional-support context examined
-
-## Connected Articles
-
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI learning anxiety linked to academic motivation and emotion
-- [[kim-ai-anxiety-comprehensive-analysis]] — comprehensive analysis of AI-related anxiety constructs
-- [[self-efficacy-tutoring-learning]] — the self-efficacy mechanism in AI-assisted learning contexts
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI literacy and self-efficacy as levers on student outcomes
 
 ## Citation
 

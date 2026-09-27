@@ -37,21 +37,6 @@ This work complements [[genai-tutor-engagement-patterns]] by shifting focus from
 - Usage frequency and type come from students' self-reported weekly assignments rather than logged interactions, so the categories rest on what students chose to record.
 - Subgroup comparisons between High-Reliance and Low-Reliance students were not tested statistically because the groups were highly imbalanced (7 vs 16), so those differences are descriptive trends.
 - Students self-selected into LLM use with no restrictions and no control group, so the midterm gap cannot be read as an effect of LLM use.
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[learning-analytics]]
-- [[educational-development]]
-- [[critical-thinking]]
-- [[llm]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-## Connected Articles
-
-- [[critical-thinking-genai-scaffolding]]
-- [[genai-performance-vs-learning]]
-- [[genai-tutor-engagement-patterns]]
 ## Citation
 
 Park, M., Orozco Vasquez, I., & Conati, C. (2026). [Characterizing students' LLM usage behaviors and their association with learning in critical thinking tasks](https://arxiv.org/abs/2605.04534). In *Proceedings of EDM 2026*.

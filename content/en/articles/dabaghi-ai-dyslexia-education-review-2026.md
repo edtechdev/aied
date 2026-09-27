@@ -40,25 +40,6 @@ methods: [meta-analysis-systematic-review]
 - The corpus was narrowed from more than 500 retrieved papers to 72 analyzed studies (after removing 89 out-of-scope papers and 43 reviews), and the heterogeneity of methods and outcome measures across those 72 studies prevents any pooled effect estimate — this is a narrative mapping, not a meta-analysis.
 - The search window runs from 2018 to October 2024, and all generative-AI work in the corpus dates to 2024; the authors state plainly that this evidence base remains preliminary and may evolve significantly, so the review's conclusions about [[generative-ai|generative AI]] rest on a handful of recent, lightly validated studies.
 
-## Connected Concepts
-
-- [[neurodiversity]]
-- [[special-education]]
-- [[inclusive-learning]]
-- [[assistive-technology]]
-- [[generative-ai]]
-- [[accessibility]]
-- [[meta-analysis-systematic-review]]
-- [[personalized-learning]]
-
-## Connected Articles
-
-- [[seung-basham-cognitive-offloading-swld-2026]]
-- [[ai-science-chemistry-education-systematic-review-2025]]
-- [[genai-meta-analysis-programming-learning]]
-- [[llm-formative-feedback-systematic-review-2026]]
-- [[liu-ai-literacy-interventions-meta-analysis-2026]]
-
 ## Citation
 
 Dabaghi, K., D'Urso, S., & Sciarrone, F. (2026). [Artificial intelligence to help people with dyslexia in education: An interdisciplinary literature review](https://doi.org/10.1016/j.ijaied.2026.100012). *International Journal of Artificial Intelligence in Education*, 36, 100012.

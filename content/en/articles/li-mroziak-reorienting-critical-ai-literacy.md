@@ -45,27 +45,6 @@ This is a **perspective/conceptual paper** (RESPECT 2026), not an empirical stud
 
 As a perspective paper, it presents an argumentative, conceptual position rather than empirical evidence of effectiveness. The authors acknowledge practical challenges: financial constraints, sociopolitical pressures, and logistical difficulties in coordinating diverse groups; systemic inertia and educator compromises when schools resist critical perspectives; and the risk of co-opting community voices. They also note the paper's grounding in western, Anglophone academia and caution that they cannot claim expertise over the lived experiences of communities they do not directly belong to, and that applicability may be limited in regions with censorship or high [[governance|institutional]] barriers.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[ai-education]]
-- [[critical-thinking]]
-- [[agency]]
-- [[reducing-ai-misuse]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
-- [[possibility-ai-literacy-critical-editorial]] — The (im)possibility of AI literacy
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
-- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI Literacy: Beyond the Skills Gap
-- [[finkelstein-principled-ai-education-2025]] — Principled AI Education
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Can Critical AI Tutors Empower or Enslave?
-- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement with GenAI for Minority Students
-- [[genai-minoritized-knowledges-disability]] — GenAI and Minoritized Knowledges
-
 ## Citation
 
 Li, S., & Mroziak, J. (2026). [*Reorienting Critical AI Literacy: A Community-Rooted Praxis of "Resisting AI"*](https://doi.org/10.1145/3796496.3811782). In *Proceedings of the 2026 Conference for Research on Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT 2026)*. ACM, Chicago, IL.

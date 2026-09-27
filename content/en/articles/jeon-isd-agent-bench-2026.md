@@ -39,23 +39,6 @@ ISD-Agent-Bench operationalizes [[learning-design|instructional design theory]] 
 - Only 1,017 scenarios were scored for reliability, and no human expert has validated the rubric or the scores; the authors call for expert review and correlation analysis between LLM scores and expert judgments as future work.
 - Evaluation is static and single-pass, so it cannot measure whether an agent can refine a design from formative feedback, and domain coverage excludes performing arts, physical education, and trades training, where psychomotor learning falls outside the scenario specification.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[ai-ed-evaluation]]
-- [[learning-design]]
-- [[curriculum-design]]
-- [[benchmark]]
-- [[ai-education]]
-- [[llm]]
-- [[rag]]
-## Connected Articles
-
-- [[wang-multi-agent-systems-learning-designers-2025]] — Multi-Agent Systems for Instructional Design
-- [[educational-llm-alignment]] — Educational LLM Alignment
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-
 ## Citation
 
 Jeon, Y., Kim, S., Son, H., Lee, S., Jeong, Y., & Lee, U. (2026). [*ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents*](https://arxiv.org/abs/2602.10620).

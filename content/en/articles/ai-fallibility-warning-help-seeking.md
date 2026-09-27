@@ -33,24 +33,6 @@ Recent work in Technology-Enhanced Learning and [[human-ai-collaboration|Human-C
 - Exposure was two 50-minute class periods, and the authors state post-test data are not reported because unexpected class cancellations prevented many students from taking the post-test — so no learning claim is possible.
 - The tutor introduced no errors: hints and feedback were rule-based and hard-coded without [[llm|LLMs]], so the study cannot show how learners respond when the system actually makes mistakes.
 - Group sizes were unequal (12 students per class assigned to the warning condition) due to a concurrent data collection, which the authors note reduces statistical power.
-## Connected Concepts
-
-- [[help-seeking]]
-- [[pedagogical-agent]]
-- [[hallucination-risk]]
-- [[trust-calibration]]
-- [[intelligent-tutoring]]
-- [[math-education]]
-
-## Connected Articles
-
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments
-- [[prompt-injection-defenses-educational-llm-tutors]] — Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI Tutors: Empower or Enslave?
-- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
-- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
-
 ## Citation
 
 Nagashima, T., Hladký, M., & Rief, V. (2026). [*Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System*](https://arxiv.org/abs/2606.03822).

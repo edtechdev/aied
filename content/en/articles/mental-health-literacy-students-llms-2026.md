@@ -57,28 +57,5 @@ The item-level analysis is the part with practical bite. [[llm]] myth accuracy r
 - The 30-statement questionnaire was newly written with clinicians but has no comprehensive psychometric validation, and several items used hard numerical estimates or absolute wording.
 - Both students and models classified isolated statements in single-session tasks — one statement per chat session for the models — so nothing here tests explanation, follow-up questioning, or uncertainty communication.
 
-## Connected Concepts
-- [[misconceptions]]
-- [[llm]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[educational-measurement]]
-- [[benchmark]]
-- [[quantitative-research]]
-- [[hallucination-risk]]
-- [[trust-calibration]]
-- [[self-report-measures]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[correct-answer-trap-misconceptions]] — The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — AI tutors vs. tenacious myths: Evidence from personalised dialogue interventions in education
-- [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype. AI myths and the need for a critical approach in higher education
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — Implementing Large Language Models to Support Misconception-Based Collaborative Learning in Health Care Education
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Using Generative AI to Promote Psychological, Feedback, and Artificial Intelligence Literacies in Undergraduate Psychology
-- [[small-god-cross-cultural-genai-mental-health-2026]] — "It feels like a small God": A Thematic Analysis of Cross-Cultural Imaginations of Generative AI Among Users Seeking Emotional and Mental Health Support
-
 ## Citation
 Richter, E., Schoeniger, K., Schulze, M., Frede, L., Moeller, K., Redlich, R., et al. (2026). [Mental Health Literacy Across Psychology Students and Large Language Models](https://osf.io/e6s4t/). PsyArXiv preprint.

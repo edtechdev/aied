@@ -31,18 +31,6 @@ The findings complement the companion paper on the [[efficiency-gain-illusion-ai
 - The prediction and completion samples were not completely disjoint — some participants completed both on Prolific.
 - AI use was not standardized: participants used the model in very different ways, and the experiment did not control for participant motivation or incentives, with 6.3% of independent-condition and 4.0% of AI-condition responses excluded as low-quality.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[transfer-of-learning]]
-## Connected Articles
-
-- [[ai-productivity-moderation]]
-- [[digital-literacy-illusion]]
-- [[efficiency-gain-illusion-ai-overreliance]]
-- [[llm-reasoning-traces-metacognition]]
-
 ## Citation
 
 Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins (2026). [Cognitive offloading and the speedup illusion in human-AI interaction](https://arxiv.org/abs/2605.23177). Proceedings of the 48th Annual Meeting of the Cognitive Science Society (CogSci 2026).

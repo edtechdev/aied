@@ -46,27 +46,6 @@ Synthetic data that merely looks plausible would teach students to fit models to
 - Validation is the authors' own fit of a reparametrized model to tracked data; a near-unity R² establishes that the clip follows the assumed equation, not that the physics is correct, since a biased clip can still be fitted by the same functional form.
 - Recovered coefficients depend on assumed masses and dimensions (silicone sphere at ρ ≈ 1200 kg/m³ and d = 0.05 m, skydiver m = 80 kg), and no uncertainty analysis or propagation of tracking error is reported.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[simulation]]
-- [[physics-education]]
-- [[experiential-learning]]
-- [[inquiry-based-learning]]
-- [[prompt-engineering]]
-- [[multimodal]]
-- [[active-learning]]
-- [[assessment-validity]]
-- [[hallucination-risk]]
-- [[video-education]]
-
-## Connected Articles
-
-- [[airis-cognitively-activated-ai-physics-2026]] — Cognitively activated AI in physics
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics work
-- [[ai-particle-physics-education-redesign-2026]] — Redesigning particle physics education with AI
-- [[ai-scoring-language-bias-physics]] — Language bias in AI scoring of physics responses
-
 ## Citation
 
 Alvarado-Cruz, L. B., Suñer, J. Ll., Yuste, P., Castro-Palacio, J. C., Monsoriu, J. A., & Muñoz-Pérez, F. M. (2026). [From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education](https://arxiv.org/abs/2609.19400). arXiv:2609.19400.

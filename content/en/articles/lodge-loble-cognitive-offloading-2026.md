@@ -7,7 +7,6 @@ foundations: [ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
 technology: [rag]
 ethics: [equity-in-ai-education]
-connected_faqs: [reducing-over-reliance]
 research_method: [theoretical analysis, literature review]
 audience: [instructors]
 level: [k 12, higher ed]
@@ -63,31 +62,6 @@ The most promising and equitable path may be **teacher augmentation** rather tha
 - The most concrete effect sizes it cites come from three external trials (Batt et al., n = 4,000; Tutor CoPilot; LearnLM/Google & Eedi) run in different contexts and subjects, so their transfer to other settings and to student-facing AI is untested by this report.
 - Its uptake figures — 80% of Australian students and two-thirds of early secondary teachers (OECD 2025) — are self-report survey data that track use, not learning outcomes, so they establish exposure rather than harm.
 - The "metacognitive laziness" construct is adopted from a single prior study (Fan et al. 2024), and the report offers no measurement of its own to distinguish beneficial offloading from detrimental outsourcing in practice.
-
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[desirable-difficulties]]
-- [[self-regulated-learning]]
-- [[equity-in-ai-education]]
-- [[prior-knowledge]]
-- [[digital-divide]]
-- [[ai-misuse-learning-harm]]
-- [[teacher-role]]
-- [[k-12]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: RCT of AI augmenting tutors in real time
-- [[efficiency-gain-illusion-ai-overreliance]] — Efficiency-gain illusion and AI overreliance
-- [[brcic-effortless-trap-productive-struggle-2026]] — The effortless trap and productive struggle
-- [[absent-cognitive-baseline-2026]] — The absent cognitive baseline
-- [[ai-availability-student-motivation]] — How AI availability shapes student motivation
-- [[adaptive-pretesting-retention]] — Do gains from AI-enabled adaptive pretesting persist?
-- [[access-not-enough-ai-tutoring-2026]] — Human support improves engagement with AI tutoring
 
 ## Citation
 

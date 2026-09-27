@@ -38,26 +38,6 @@ level: [adult learning]
 - The comparison covers one domain and a single baseline simulation (the HBS Beer Game), and the authors state cross-subject deployment still needs domain-specific graph schemas, agent heuristics, and performance metrics to be defined with instructors.
 - Computational cost scales with the agent count, and the authors note that while simulation cost at the current scale is acceptable, it could become a concern in custom mode as network size grows.
 
-## Connected Concepts
-
-- [[llm]]
-- [[professional-training]]
-- [[active-learning]]
-- [[intelligent-tutoring]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[simulation]]
-- [[game-based-learning]]
-- [[experiential-learning]]
-## Connected Articles
-
-- [[ai-vocational-education-training-review]] — Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness
-- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
-- [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
-- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
-- [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
-- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
-
 ## Citation
 
 Li, Y., Han, K. K., Hu, T., Cao, Y.-F., Qu, H., & Song, S. (2026). [SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation](https://arxiv.org/abs/2606.24694).

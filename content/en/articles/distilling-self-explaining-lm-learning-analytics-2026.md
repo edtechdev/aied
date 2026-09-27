@@ -53,27 +53,6 @@ The pipeline also carries favorable [[ethics|privacy and fairness]] properties. 
 - The decomposition describes statistical association within the fitted surface and is not a causal-path reading, and the mentee approximates the mentor's effect surface rather than acting as a causal estimator: it never observes treatment or outcome and performs no causal identification.
 - Passing the faithfulness audit does not guarantee sound decisions: 98.8% of narrations passed in full on the 1,834-student held-out split while the entire negative tail of the mentor's surface was truncated, so treatment was recommended for all students in the 97.1%-imbalanced case.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[llm]]
-- [[trust]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[educational-nlp]]
-- [[student-modeling]]
-- [[multimodal]]
-- [[ethics]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality assessment
-- [[xai-education-framework]] — An Explainable AI framework for education
-- [[explainable-probabilistic-kt]] — Explainable probabilistic knowledge tracing
-- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
-- [[knowledge-distillation-ai-tutor-evaluation]] — Knowledge distillation for AI tutor evaluation
-
 ## Citation
 
 Pan, C., Meng, A., & Suk, Y. (2026). [*Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics*](https://arxiv.org/abs/2608.21165).

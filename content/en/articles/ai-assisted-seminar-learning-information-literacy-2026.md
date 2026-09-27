@@ -53,28 +53,6 @@ Usage logs show the librarian layer handling exactly the cases where the AI was 
 - The three components were never isolated, so the gains cannot be causally attributed to AI, librarian support, or seminars individually.
 - The platform is not tied to a dated system generation: the NLP layer is described only as pre-trained models "refined based on engineering vocabulary," with no named model release or version and no calendar window for the intervention, so the results cannot be anchored to a reproducible tool version.
 
-## Connected Concepts
-
-- [[collaborative-learning]]
-- [[sociocultural-learning]]
-- [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
-- [[recommender-systems-and-learning-paths]]
-- [[knowledge-graph]]
-- [[educational-measurement]]
-- [[self-report-measures]]
-
-## Connected Articles
-
-- [[genai-academic-search-workshop]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ai-assisted-collaborative-learning-model-dbr]]
-- [[clara-collaboration-literacy-dashboard]]
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[ai-learning-tools-engineering-education-needs]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]]
-
 ## Citation
 
 Huang, L. (2026). [*Developing an AI-Assisted Seminar-Based Learning Platform With Embedded Librarian Support: Enhancing Information Literacy of Engineering Research Teams*](https://doi.org/10.1002/cae.70268). *Computer Applications in Engineering Education*, 34, e70268.

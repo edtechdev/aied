@@ -62,32 +62,5 @@ The authors caution that the [[learning-gains|effect sizes]] invite scrutiny: no
 - Writing was assessed with one timed task per time point, and digital critical thinking rested entirely on [[self-report-measures|self-report]]; a posttest α of 0.99 may reflect item redundancy rather than construct breadth.
 - The paper does not name the [[generative-ai|generative AI assistant]] or the language-feedback tool, or their model versions, and reports no calendar dates for the 11-week intervention; process reflections came only from the experimental group.
 
-## Connected Concepts
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[prompt-engineering]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[sociocultural-learning]]
-- [[constructivist]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[student-ai-interaction]]
-- [[self-report-measures]]
-- [[learning-gains]]
-- [[english-education]]
-- [[writing-education]]
-
-## Connected Articles
-- [[ai-dependence-academic-writing-ipace-2026]] — Are Students Dependent on AI in Writing Courses? Analyzing Factors Influencing Dependence on Generative AI Through the I-PACE Model
-- [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency
-- [[academic-erasure-complexity-ai-writing-2026]] — Academic Erasure: The Disappearance of Complexity Under AI-Supported Writing
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI Anxiety to Strategic Regulation: How University Students Transform Generative AI into a Strategic Learning Resource
-- [[ai-partner-science-epistemic-vigilance]] — AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation
-- [[ai-feedback-enactment-workflow-2026]] — Making AI-Generated Feedback Matter: From Provision to Student Enactment
-
 ## Citation
 Alshehri, O. A. O., Lamouchi, A., Abdellatif, M. S., Al-Dosari, M. N. A., Mekheimer, M., & Nemt-allah, M. A. (2026). [*From tool to scaffold: Structured human–AI collaboration and its effects on academic writing and digital critical thinking among Saudi EFL learners*](https://doi.org/10.3389/fpsyg.2026.1830103). *Frontiers in Psychology*.

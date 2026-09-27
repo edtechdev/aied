@@ -52,29 +52,5 @@ On quality [[benchmark|benchmarks]], CogEvol-27B scores 83.7 on a slide suite an
 - Corpus composition: the HTML corpus is 69.8% [[simulation|simulations]] and 2.4% code tasks and contains no 3D examples, so quality claims are strongest for the artifact types well represented in training.
 - Measurement gap: every reward term except the executable probes reads a static rendering, so inert pages with well-composed opening frames score well on screenshot-based dimensions — the disclosed reward-hacking checkpoint is the case in point.
 - Evaluation conditions: results come from internally maintained suites scored centrally rather than released (slide-std, HTML-500) and from the authors' own production traffic with one partner; human evaluation was internal manual testing, no classroom learning outcomes were measured, and interactive probing costs about 55 seconds per GRPO step at batch size 64.
-## Connected Concepts
-- [[generative-ai]]
-- [[llm]]
-- [[agentic-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[multimodal]]
-- [[ai-education]]
-- [[knowledge-graph]]
-- [[automated-assessment]]
-- [[scaffolding]]
-
-## Connected Articles
-- [[ai-generated-slides-student-perception]] — AI-Generated Slides: Student Perception
-- [[ai-generated-instructional-videos-computing-ed]] — AI-Generated Instructional Videos
-- [[curriculum-as-code-instructional-design-2026]] — Curriculum as Code
-- [[wang-multi-agent-systems-learning-designers-2025]] — Multi-Agent Instructional Design
-- [[instructional-agents-multi-agent-course-gen]] — Instructional Agents for Course Generation
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI Instructional Design Review
-- [[refrain-amplify-genai-curriculum-2026]] — Refrain, Then Amplify Curriculum Framework
-- [[slidesqaqa-pedagogical-question-generation]] — SlideQAQA Pedagogical Question Generation
-- [[omniphys-multimodal-physics-benchmark-2026]] — OmniPhys Multimodal Benchmark
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education Scoping Review
-
 ## Citation
 Tu, S., Zhang-Li, D., Wang, Y., Gan, S., Wang, Y., Rong, H., ... Zhang, Y. (2026). [*CogEvol: Towards Efficient and Reliable Learning Environment Generation*](https://arxiv.org/abs/2608.30968). arXiv:2608.30968.

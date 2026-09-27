@@ -60,30 +60,6 @@ Strydom contends these dimensions offer a productive lens on how individuals dif
 - The implied interventions (differentiated staff development, alternative assessment formats, paradigm-informed governance) are untested; the author positions the framework as a stimulus for research and dialogue rather than a complete account.
 - The grounding is a single theoretical lineage — Schommer's multidimensional model of personal epistemological beliefs — refined against source literature by one author, with no independent or inter-coder validation of the paradigm set.
 
-## Connected Concepts
-
-- [[theory-development-aied]]
-- [[human-ai-collaboration]]
-- [[generative-ai]]
-- [[student-ai-interaction]]
-- [[ai-literacy]]
-- [[philosophy-of-ai-in-education]]
-- [[learning-theories]]
-- [[metacognition]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[higher-ed]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency as a theory of learning with machines
-- [[generativism-learning-theory]] — Generativism as a new learning theory
-- [[absent-cognitive-baseline-2026]] — The absent cognitive baseline (ACB)
-- [[epistemic-proactivity-math]] — Epistemic proactivity in student-AI math interaction
-
 ## Citation
 
 Strydom, S. (2026). [Framing human-AI dynamics: An epistemological perspective on generative AI practices. *Journal of Applied Learning & Teaching*, 9(2)](https://doi.org/10.37074/jalt.2026.9.2.11).

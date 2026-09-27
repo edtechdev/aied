@@ -48,21 +48,5 @@ page_kind: [evaluation]
 - Both measures are achievement tests given at the end of the 14-week intervention — the 20-item CT-RS, adapted by the authors from prior CT frameworks, and the 50-item CRPST — with no delayed retention or transfer measure.
 - The conditions differ by more than AI: the experimental group shared robotics kits and worked in groups while the control group received lectures, so the AI tools are not the only difference between them.
 
-## Connected Concepts
-- [[problem-based-learning]]
-- [[computational-thinking]]
-- [[generative-ai]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[k-12]]
-- [[metacognition]]
-- [[scaffolding]]
-
-## Connected Articles
-- [[ai-metacognition-stem-review]]
-- [[genai-educational-outcomes-meta-analysis]]
-- [[ai-communities-of-inquiry-2026]]
-- [[critical-thinking-biological-sciences-ai-2025]]
-
 ## Citation
 (2026). [*AI-supported problem-based learning for enhancing computational thinking*](https://doi.org/10.1016/j.chbah.2026.100263). *Computers in Human Behavior: Artificial Humans*, 7, 100263.

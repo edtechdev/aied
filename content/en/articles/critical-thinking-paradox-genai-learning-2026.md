@@ -7,7 +7,6 @@ foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 pedagogy: [desirable-difficulties, metacognition, transfer-of-learning]
 technology: [generative-ai]
 audience: [instructors, researchers]
-connected_faqs: [top-10-findings-ai-education-instructors]
 research_method: [theoretical analysis]
 sources: ['raw/papers/critical-thinking-paradox-genai-learning-2026.md']
 confidence: high
@@ -40,24 +39,6 @@ page_kind: [framework, synthesis]
 - Theoretical article with no data of its own: the paradox, the three-level framework, and H1–H4 are proposals, and the authors retain genuine heterogeneity as a rival explanation to a single paradoxical mechanism.
 - The evidence it integrates comes from studies with different designs and measures — product-outcome experiments, process-sensitive qualitative work, teacher-competency surveys, and neuroscientific findings — and none measured product quality and unaided delayed transfer in the same learners.
 - Cognitive debt is described as an emerging construct, so it is not yet operationalized or validated, and the confirmatory design and telemetry that would test the framework are only outlined.
-
-## Connected Concepts
-
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[transfer-of-learning]]
-
-## Connected Articles
-
-- [[ai-making-us-stupid]] — Is AI making us stupid?
-- [[genai-performance-vs-learning]] — GenAI performance vs. learning
-- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion
-- [[lodge-loble-cognitive-offloading-2026]] — Cognitive offloading
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle and AI
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI tools, cognitive offloading and critical thinking
 
 ## Citation
 

@@ -64,36 +64,6 @@ Deskilling is the reverse drift, Complement to Aid, and the authors attribute it
 ## Limitations
 This is a conceptual framework paper, and the authors say so: SCAN is a proposal, not a tested intervention, and no empirical study of its use is reported. The [[quantitative-research|quantitative]] parts are illustrative rather than validated — the KL ratios and transition inequalities are a way of expressing migration across sub-zones, not measurements taken from data — and the paper's supporting evidence for offloading, sycophancy and synergy is drawn from other people's findings, including the observation that human–AI synergy has rarely been demonstrated. Several proposals are explicitly speculative or offered for future work: BCI sentinels, mathematical formalisation via the "grey area" literature, and comparison of human-centric against AI-centric assignment. The framework also assumes a learner who can reliably self-assess task-specific knowledge, which is exactly the calibration the metacognitive loop is supposed to build, so its starting point and its goal partly presuppose each other.
 
-## Connected Concepts
-
-- [[cognitive-offloading]] — the reduction of mental effort that SCAN predicts is highest in Substitute and lowest in Complement
-- [[human-ai-collaboration]] — the Complement sub-zone and the paper's reading of collaboration by locus of control
-- [[metacognition]] — the three-part cycle (real-time evaluation, reflection, learning) that drives SCAN forward
-- [[sociocultural-learning]] — Vygotsky's Zone of Proximal Development, the framework's first theoretical pillar
-- [[self-regulated-learning]] — the student-facing scenario, where S/C/A/N classification becomes a study protocol
-- [[scaffolding]] — GenAI as a digital scaffold inside Aid, contrasted with a more knowledgeable human inside Non-negotiable
-- [[generative-ai]] — the general-knowledge model whose capabilities the "known to GenAI" zone represents
-- [[ai-sycophancy]] — the failure mode that tracks sub-zone proneness and motivates hardening probes and offloading budgets
-- [[transfer-of-learning]] — unaided transfer tasks as the assessment that distinguishes internalized skill from performed output
-- [[agency]] — human control, responsibility and the reversibility of delegation into automation
-- [[lifelong-learning]] — the stated long-term objective of sustaining capability across a working life with AI
-- [[professional-training]] — the knowledge-worker scenario and organizational guardrails on Substitute time
-- [[prior-knowledge]] — task-specific knowledge as the variable that decides which sub-zone a task occupies
-- [[prompt-engineering]] — the counter-argumentative prompting practice implied by monitoring and challenging AI output
-
-## Connected Articles
-
-- [[seung-basham-cognitive-offloading-swld-2026]] — Measuring cognitive offloading in students with specific learning disabilities
-- [[misiejuk-cognitive-offloading-prompting-2026]] — How prompting behavior relates to offloading and learning outcomes
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing to GenAI and what it means for assessment design
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or shortcut: GenAI use read through self-regulated learning
-- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a learning partner and the trajectory of self-regulation
-- [[absent-cognitive-baseline-2026]] — The cognitive cost of designing AI-supported tasks without a no-AI baseline
-- [[critical-thinking-paradox-genai-learning-2026]] — Performance gains alongside critical-thinking losses in GenAI-assisted learning
-- [[ai-teammate-task-distribution-medical-training-2026]] — Dividing tasks between human and AI teammates in professional training
-- [[andragogy-cognitive-delegation-genai-2026]] — Cognitive delegation to GenAI read through adult-learning principles
-- [[airis-hybrid-human-ai-cognition-2026]] — Hybrid human–AI cognition as a design target for learning systems
-
 ## Citation
 
 Tsim, F., & Gutoreva, A. (2025). [*SCAN: A Decision-Making Framework for Task Assignment with Generative AI*](https://osf.io/preprints/psyarxiv/g5fd8_v1). *PsyArXiv Preprints*.

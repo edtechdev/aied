@@ -37,20 +37,6 @@ page_kind: [framework]
 - The three dimensions are named but not operationalized: no measures, indicators, or decision rules are specified by which regulation, integration, and positioning could be distinguished empirically.
 - The integration of SRL, complex systems science, and Freirean critical pedagogy is a single author's synthesis in a sole-authored Learning Letters article, so readers get one reading of each tradition rather than a negotiated integration across scholars.
 
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[agency]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[metacognition]]
-- [[theory-development-aied]]
-
-## Connected Articles
-
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities with GenAI
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-direction
-
 ## Citation
 
 de Barba, P. G. (2026). *Learner agency across scales: An integrative perspective on self-regulated learning in algorithmically mediated environments.* Learning Letters, 7, Article 75. [https://doi.org/10.20851/ll.v7.75](https://doi.org/10.20851/ll.v7.75)

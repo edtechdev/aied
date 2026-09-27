@@ -8,7 +8,6 @@ technology: [adaptive-learning, generative-ai, technology-acceptance-model]
 assessment: [educational-measurement]
 methods: [quantitative-research, mixed-methods-research]
 ethics: [equity-in-ai-education]
-connected_faqs: [ai-guidance-children-under-13]
 research_method: [instrument development, survey]
 discipline: [stem education]
 audience: [instructors, curriculum designers, researchers, policymakers, instructional designers]
@@ -62,32 +61,6 @@ The limitations are substantial and stated plainly: results are embedded in Taiw
 - Student age, guidebook edition and facilitation mode were systematically aligned (Elementary students read collectively under teacher guidance; secondary students read individually in computer labs), so the observed cohort differences cannot be attributed uniquely to developmental stage or to material design.
 - Common method variance could not be ruled out: Harman's single-factor diagnostic returned a first component accounting for 57.8% of the variance (eigenvalue 10.404), no theoretically unrelated marker variable was included, and all 18 items were positively keyed.
 - The 37 teachers (13 elementary, 24 junior and senior high) supported only descriptive and exploratory cross-role checks, not confirmatory comparison, and the questionnaire contained no objective knowledge test or pre-post achievement measure.
-
-## Connected Concepts
-
-- [[ai-literacy]] — the competence the guidebooks target, measured here only as acceptance
-- [[generative-ai]] — the technology whose supervised classroom use the age threshold regulates
-- [[k-12]] — the policy context and participant population
-- [[technology-acceptance-model]] — the PE, EE, PP and BI construct family operationalized at material level
-- [[educational-measurement]] — split-sample EFA and CFA, invariance testing, HTMT and DIF checks
-- [[curriculum-design]] — the guidebook as an instructional artifact translating policy into activities
-- [[equity-in-ai-education]] — age-tiered safeguarding and equitable access as design priorities
-- [[adaptive-learning]] — the national platform through which the materials are distributed
-- [[teacher-role]] — teachers as co-designers, facilitators and gatekeepers of classroom use
-- [[self-efficacy]] — the effort and performance expectancy constructs neighboring perceived readiness
-- [[student-engagement]] — playfulness, multimodality and visual design as engagement signals
-- [[assessment]] — the open question of measuring literacy and ethical reasoning rather than perception
-
-## Connected Articles
-
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[ai-intuition-ai-literacy-k12-2026]] — From AI Intuition to AI Literacy: A Dual Framework for K-12 Education
-- [[rail-ed-genai-literacy-teacher-education]] — Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Generative AI in K-12 Teaching and Learning: A Systematic Review
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI Literacy Interventions in Education: A Meta-Analysis of Effects and Moderators
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Enhancing AI Literacy Course Satisfaction Through Empowerment in AI Problem-Solving and Ethical Awareness: Development and Validation of an AI Project-Based Learning Scale
-- [[eduzone-llm-safety-k12]] — EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
-- [[tam-critical-use-genai-engineering-2026]] — Factors Influencing University Students' Intention to Use and Reliance on Generative AI: An Extended Technology Acceptance Model with Critical Use
 
 ## Citation
 

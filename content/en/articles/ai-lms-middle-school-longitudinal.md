@@ -32,26 +32,6 @@ sources: ['raw/papers/2606.07544.md']
 - The threats the design must survive are named rather than measured — implementation variability, novelty effects, fadeout across educational transitions, measurement drift as assessments and curricula change, and attrition and missing data over a multi-year horizon.
 - Coverage is narrow by the authors' own account; they call for broadening the system beyond its initial subject areas and activity formats to writing, project-based learning, and collaborative tasks.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[scaffolding]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[edtech-platform]]
-- [[privacy]]
-## Connected Articles
-
-- [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
-- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-
 ## Citation
 
 Etchie, M. P., & Olutosin, T. (2026). [*AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes Through High School and Beyond*](https://arxiv.org/abs/2606.07544).

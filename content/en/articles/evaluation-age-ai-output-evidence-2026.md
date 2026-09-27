@@ -44,29 +44,6 @@ The authors argue evaluation must shift from certifying a final artifact to docu
 - All quantitative figures are self-reported attitudes — faculty confidence in detection tools, perceived task vulnerability, perceived institutional support on a 5-point Likert scale — with no student work, detector accuracy, or grading outcome measured.
 - The survey was fielded once with no control or comparison condition, and the qualitative material comes from inductive thematic coding of open-ended responses, so no causal claims about detection or assessment redesign follow.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[authentic-assessment]]
-- [[generative-ai]]
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[ethics]]
-- [[privacy]]
-- [[agency]]
-- [[desirable-difficulties]]
-- [[student-engagement]]
-
-## Connected Articles
-
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Authentic Assessment in Higher Education: A Scoping Review
-- [[agency-gap-ai-writing]] — The Agency Gap in AI Writing
-- [[critical-genai-use-predictors]] — Predictors of Critical GenAI Use
-- [[ying-genai-journalism-assessment-2026]] — GenAI in Journalism Assessment
-- [[cotal-formative-assessment-scoring-2026]] — Cotal: Formative Assessment Scoring
-
 ## Citation
 
 Chowdhury, M. Z. U. S., & Khan, S. R. (2026). [*Evaluation in the Age of AI: Output as Evidence of Learning*](https://arxiv.org/abs/2608.22660).

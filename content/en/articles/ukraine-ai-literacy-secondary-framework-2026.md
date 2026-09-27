@@ -40,20 +40,5 @@ page_kind: [framework, evaluation]
 - Only 36 paired observations remained from 1,130 registrations—60% attrition from 450 active participants—which limits statistical power, precluded analysis of moderating variables, and risks survivor bias.
 - Competence was self-reported, and the high baseline ethical awareness (67%) with the smallest gains (+18%) may reflect ceiling effects and social desirability rather than advanced ethical reasoning.
 
-## Connected Concepts
-- [[ai-literacy]]
-- [[k-12]]
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[tpack]]
-- [[generative-ai]]
-- [[equity-in-ai-education]]
-- [[global-south]]
-
-## Connected Articles
-- [liu-ai-literacy-interventions-meta-analysis-2026] — meta-analytic evidence on AI-literacy interventions
-- [genai-literacy-training-teacher-education-dbr-2026] — DBR-based GenAI literacy teacher training
-- [caruana-pre-university-ai-education-slr-2026] — systematic review of pre-university AI education
-
 ## Citation
 Marienko, M. V., Markova, O. M., & Semerikov, S. O. (2026). [AI literacy in secondary education: Framework, assessment, and professional development in the Ukrainian context](https://doi.org/10.1016/j.caeai.2026.100605). *Computers and Education: Artificial Intelligence, 10*, 100605.

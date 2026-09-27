@@ -47,23 +47,5 @@ The fourth and sixth research questions examined obstacles and public–private 
 - The findings rest on participants' self-reports, exposing them to anecdotal bias and overreporting of readiness, and cannot be generalized beyond eight leaders.
 - A single data source limited methodological triangulation; the authors call for future work combining interviews, documents and observations.
 
-## Connected Concepts
-- [[educational-development]]
-- [[ai-literacy]]
-- [[ai-education]]
-- [[technology-acceptance-model]]
-- [[self-directed-learning]]
-- [[administrator]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — AI adoption readiness among Ukrainian education managers: barriers, typologies and policy implications
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality and AI integration in Nigerian higher education
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — AI in educational leadership: a comprehensive taxonomy and future directions
-- [[principal-trait-analysis-human-ai-skills-2026]] — Principal trait analysis: deriving skills in human–AI collaboration
-- [[designing-ai-professional-development-itpack-2026]] — Designing effective AI professional development: a framework grounded in intelligent-TPACK
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Conceptualizing pre-service teachers' readiness for AI integration into teaching practices
-
 ## Citation
 Awodiji, O. A., & Adeoye, M. A. (2026). [*Exploring basic school leaders' AI readiness: The role of professional development*](https://doi.org/10.1016/j.caeo.2026.100409). *Computers and Education Open*, 11, 100409.

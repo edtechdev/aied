@@ -41,28 +41,6 @@ The study combines a design component — building CulturAIEd around CRP/CRT fra
 - The outcomes are self-reported confidence and perceived efficiency with no control comparison and no measure of student learning; the authors state that larger-scale studies with control comparisons are needed.
 - The tool was a demo built on gpt-4o-mini-2024-07-18, and the authors flag stereotype reproduction and the risk of "routinizing" CRP as unresolved risks rather than risks their design eliminated.
 
-## Connected Concepts
-
-- [[culturally-relevant-pedagogy]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[curriculum-design]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[llm]]
-
-## Connected Articles
-
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-
 ## Citation
 
 Wang, J., Xiao, R., Hou, X., Li, H., Tseng, Y. J., Stamper, J., & Koedinger, K. (2025). [*LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example*](https://arxiv.org/abs/2505.08083).

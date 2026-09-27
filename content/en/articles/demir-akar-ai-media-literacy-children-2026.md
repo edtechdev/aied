@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, critical-thinking, curriculum-design]
 technology: [generative-ai]
 ethics: [ethics]
-connected_faqs: [ai-guidance-children-under-13]
 research_method: [quasi-experiment]
 audience: [instructors, learners]
 level: [k 12, preschool]
@@ -38,23 +37,6 @@ methods: [mixed-methods-research]
 - The intervention lasted 18 hours, which the authors state may not capture long-term cognitive or behavioral change.
 - Media literacy was measured with a 12-item, 3-point Likert self-report disposition scale (Never/Sometimes/Always), and the qualitative evidence came from student reflections, posters, and observations, so response bias is possible.
 - The tools presuppose devices, connectivity, and digital-literacy support that the participating school already had; the authors flag that these disparities were not tested for scalability.
-
-## Connected Concepts
-
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[early-childhood-elementary-ai-education]]
-- [[k-12]]
-- [[mixed-methods-research]]
-- [[generative-ai]]
-- [[parents-and-families]]
-## Connected Articles
-
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Critical AI literacy reoriented toward community-rooted praxis
-- [[aaai2026-prompting-literacy-k12]] — An AI literacy module teaching responsible AI chatbot use to K-12 students
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Rapid review of young people learning with generative AI for PreK-12
-- [[caruana-pre-university-ai-education-slr-2026]] — Systematic review of pre-university AI education trends and challenges
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
 
 ## Citation
 

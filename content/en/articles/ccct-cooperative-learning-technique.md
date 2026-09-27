@@ -48,26 +48,6 @@ The study used an explanatory sequential mixed-methods design in three phases. P
 - The two-week intervention duration makes a novelty effect ("more fun," "more enjoyable") impossible to rule out; longitudinal studies are needed.
 - No formal [[meta-analysis-systematic-review|systematic review]] (e.g., PRISMA) or bibliometric analysis was used to establish the pedagogical gap motivating the new technique, and qualitative data relied on self-report, which may be subject to social desirability bias.
 
-## Connected Concepts
-
-- [[higher-ed]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[math-education]]
-- [[prompt-engineering]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[affective-tutoring]]
-
-## Connected Articles
-
-- [[ai-collaborative-learning-skills-impacts]] — Artificial Intelligence and Collaborative Learning: Impacts on Creativity, Critical Thinking, and Problem-Solving
-- [[ai-assisted-collaborative-learning-model-dbr]] — Design-Based Research for Developing an AI-Assisted Collaborative Learning Model to Enhance Critical Thinking and Problem-Solving Skills in Higher Education
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI chatbot design principles to enhance the collective efficacy in collaborative learning
-- [[llm-critical-thinking-teamwork-review]] — Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review
-- [[ai-collaborative-learning-systematic-review]] — A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-
 ## Citation
 
 Tutal, Ö. (2026). [*Artificial intelligence assisted design of a novel cooperative learning technique for higher education*](https://doi.org/10.1038/s41598-026-50770-1).

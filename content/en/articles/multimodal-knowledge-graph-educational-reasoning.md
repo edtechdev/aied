@@ -70,22 +70,6 @@ Across the three lectures, the model returned 1,155 raw concept and 400 raw rela
 - Canonicalization stays incomplete — singular and plural variants such as weight/weights and bias/biases survive — and isolated or noisy nodes may encode generic terms, numeric labels, or visual artifacts.
 - OCR and vision-language accuracy depend on frame resolution, handwriting, slide transitions, and diagram complexity, and answer generation sometimes adds correct background knowledge that the retrieved evidence does not support.
 
-## Connected Concepts
-
-- [[knowledge-graph]]
-- [[knowledge-tracing]]
-- [[ai-education]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-## Connected Articles
-
-- [[proprl-prerequisite-relation-learning]] — ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
-- [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
-- [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
-- [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
-- [[leveraging-complex-systems-leading-for-transformative-change]] — Leveraging complex systems: Leading for transformative change
-
 ## Citation
 
 Al Farib, S., Meem, M. A., Islam, S. R., & Raihan, M. T. (2026). [*Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning*](https://arxiv.org/abs/2608.03161v1). v1.

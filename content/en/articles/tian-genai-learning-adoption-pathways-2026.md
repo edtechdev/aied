@@ -53,22 +53,6 @@ This paper directly extends the knowledge base's coverage of [[technology-accept
 - All outcomes are self-reported measures of intention and use, leaving room for social desirability bias; no learning analytics or system logs were used to verify behavior.
 - The single-country focus limits generalizability, and personal innovativeness and motivational moderation effects came out weak, so the authors call for comparison across African higher education systems before the configurational model is assumed to transfer.
 
-## Connected Concepts
-
-- [[technology-acceptance-model]]
-- [[motivation]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-engagement]]
-- [[student-experience]]
-
-## Connected Articles
-
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[genai-motivation-engagement-2026]]
-- [[acceptance-ai-english-tools-2026]]
-
 ## Citation
 
 Tian, X., Ayanwale, M. A., Molefi, R. R., Manchanda, P., Gençel, N., & Ogunjoun, B. O. (2026). [*Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study*](https://doi.org/10.1186/s41239-026-00613-w). *International Journal of Educational Technology in Higher Education*.

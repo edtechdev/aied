@@ -56,25 +56,5 @@ Five interdisciplinary cases — psychology theory, educational statistics, [[cs
 - The literature synthesis is integrative rather than exhaustive, and the five cases (psychology theory, educational statistics, computer science, history, and health sciences) are illustrative rather than empirically tested.
 - The cases reflect selected Anglophone scholarly traditions and may not capture how knowledge, authority, access, and legitimacy are understood across cultures and institutions; the author states that co-design with students, educators, librarians, disability specialists, and disciplinary communities is necessary before broad implementation.
 
-## Connected Concepts
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[agency]]
-- [[assessment]]
-- [[ethics]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-- [[student-centered-genai-responsible-framework-2026]] — A Student-Centered Framework for Responsible Use of Generative AI
-- [[semantic-variability-llm-conversation-assessment-2026]] — Semantic Variability in LLM Conversation Assessment
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity
-- [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency
-
 ## Citation
 Wang, Z. (2026). [*From Plausibility to Verifiability: The PEARLS Framework for Developing Epistemic Agency in Generative AI-Mediated Higher Education*](https://osf.io/preprints/edarxiv/9mvpa_v1/). EdArXiv preprint.

@@ -40,24 +40,6 @@ This is a conceptual/theoretical paper proposing a framework, not an empirical s
 
 As a conceptual paper, the framework has not been empirically tested; the author explicitly calls for future [[research-methods-aied|research]] to test and refine the model. The framework's configurations are theoretical constructs without operationalized measures. The paper does not provide concrete [[curriculum-design|curriculum]] designs, only illustrative examples. The context is [[higher-ed|higher education]], and the author notes disciplinary norms vary in how knowledge is validated, which may affect how the framework applies across fields.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[critical-thinking]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[formative-assessment]]
-- [[scaffolding]]
-- [[higher-ed]]
-- [[theory-development-aied]] — Theory Development in AI in Education
-## Connected Articles
-
-- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI Literacy: Beyond the Skills Gap
-- [[genai-over-reliance-learning-2026]] — Generative AI and Over-Reliance
-- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Learning-to-Learn in the Age of Generative AI
-
 ## Citation
 
 Samuel, A. (2026). [*Learning with machines: Toward a theory of epistemic co-agency*](https://doi.org/10.1016/j.caeai.2026.100573). *Computers and Education: Artificial Intelligence*.

@@ -48,34 +48,6 @@ The framework integrates Beard's experiential learning sequence (concrete experi
 - Eight of nine students (89%) reported confidence in making ethical decisions while survey items on authorship and bias suggested superficial understanding, indicating self-report may overstate ethical competence.
 - The authors note limited GenAI integration in Malaysian journalism education and industry, leaving the framework's adaptation to other cultural and regulatory contexts untested.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[assessment]]
-- [[ethics]]
-- [[higher-ed]]
-- [[experiential-learning]]
-- [[academic-integrity]]
-- [[curriculum-design]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[student-engagement]]
-- [[scaffolding]]
-- [[agency]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Task-based taxonomy for critical AI literacy in journalism
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[responsible-assessment-ai-era-stanford-2026]]
-- [[ssaho-ai-academic-integrity-review-2025]]
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]]
-- [[fenton-oral-exams-ai-authentic-assessment-2025]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[ai-tools-academic-work-cheating-2026]]
-
 ## Citation
 
 Ngu, I.-Y., & Weller, D. (2026). [From Classroom Design to Newsroom Practice: Assessment Intervention Designing GenAI](https://doi.org/10.53761/4281ht04) . *Journal of University Teaching and Learning Practice*, 23(5).

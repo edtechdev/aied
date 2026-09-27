@@ -53,29 +53,6 @@ The separation of academic policy from curriculum and governance is the paper's 
 - **Keyword counts are not enforcement.** Frequencies such as academic integrity (n = 139) or privacy (n = 55) describe vocabulary use, not compliance, and one coded equity term survives only as a typo variant of "underserved" (n = 1).
 - **Unsupervised topic modeling and thin cells.** The 4-topic LDA solution cannot capture institutional intent, and the delivery-mode comparisons rested on cell counts too low to detect meaningful differences (policy type P = .85, audience P = .71).
 
-## Connected Concepts
-
-- [[educational-policy-ai]]
-- [[academic-integrity]]
-- [[governance]]
-- [[higher-ed]]
-- [[medical-education]]
-- [[privacy]]
-- [[curriculum-design]]
-- [[professional-training]]
-- [[generative-ai]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[assessment]]
-
-## Connected Articles
-
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi study on governing generative AI in higher education policy and practice
-- [[genai-policies-higher-ed-computing]] — Comparative analysis of institutional and course-level generative AI policies
-- [[institutional-governance-ai-universities]] — Institutional alignment and fragmentation in university AI governance
-- [[ssaho-ai-academic-integrity-review-2025]] — Systematic review of AI and academic integrity in higher education
-
 ## Citation
 
 Eldredge, C., Dolezel, D., Jones, J., Vooppala, N., & Bronsburg, S. E. (2026). [Institutional approaches to artificial intelligence policy and guidance in health informatics and information management education: emerging trends and inconsistencies](https://doi.org/10.1093/jamia/ocag150). *Journal of the American Medical Informatics Association*.

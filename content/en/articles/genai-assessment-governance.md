@@ -43,22 +43,6 @@ Two task designs deployed in an introductory [[physics-education|physics]] cours
 - Accuracy-ceiling validation rests on an expert answer key for the two tasks, not on a comparison between governed and ungoverned conditions or a broader set of disciplinary tasks.
 - The scaffold/interlocutor boundary is expected to shift as frontier models improve; the paper identifies empirical monitoring of when a task crosses a governance boundary as an unresolved methodological challenge.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[academic-integrity]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[educational-policy-ai]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-
-## Connected Articles
-
-- [[cong-confidence-asag-2026]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 ## Citation
 
 Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). [Generative AI as a design variable: An evidence-centered framework for principled governance in STEM assessment](https://arxiv.org/abs/2605.24837).

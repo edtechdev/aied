@@ -50,34 +50,6 @@ Five preregistered studies with **N = 3,075 participants and 12,766 human–AI c
 - Study 4's outcomes are self-reported — anticipated effort of being understood by a close other, social satisfaction, weekly relative preference — rather than observed changes in participants' relationships.
 - The longitudinal arm recruited 1,400 participants for 12 sessions over three weeks and lost 15.7% of AI-condition participants versus 10% of the no-AI control, with missing data handled under a missing-at-random assumption; the reported analyses also departed from the preregistration by omitting the baseline relative-preference covariate and by using random intercepts only instead of the specified random slopes.
 
-## Connected Concepts
-
-- [[ai-sycophancy]]
-- [[affective-computing]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[generative-ai]]
-- [[trust]]
-- [[trust-calibration]]
-- [[social-emotional-learning]]
-- [[well-being]]
-- [[cognitive-offloading]]
-- [[pedagogical-safety]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[reducing-ai-misuse]]
-
-## Connected Articles
-
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
-- [[socially-fluent-ai-identity-detection]] — Socially fluent AI decouples conversational signals from source identity
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-
 ## Citation
 
 Ibrahim, L., Hafner, F. S., Cheng, M., Lee, C., Anselmetti, R., Willer, R., Rocher, L., & Yang, D. (2026). [Sycophantic AI makes human interaction feel more effortful and less satisfying over time](https://arxiv.org/abs/2605.07912).

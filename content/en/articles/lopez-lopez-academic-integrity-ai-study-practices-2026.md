@@ -41,31 +41,6 @@ confidence: high
 - Integrity was measured with a small number of direct perception items rather than a validated questionnaire, including a single item on whether AI use is fraud, and the dataset held no scenario-based AI cases or disclosure-practice items.
 - The survey captured declared perceptions, not observed AI behavior, so the study cannot show how stated judgments correspond to students' actual AI-use practices.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[ai-use-disclosure]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[ethics]]
-- [[equity-in-ai-education]]
-- [[creativity]]
-- [[self-regulated-learning]]
-- [[assessment]]
-
-## Connected Articles
-
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world
-- [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — Chat or cheat? ChatGPT and academic dishonesty
-- [[genai-chinese-higher-education-integrity-2026]] — GenAI and academic integrity in Chinese higher education
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student dependency on AI, literacy, and self-efficacy
-- [[genai-student-experiences-uk-he-survey-2026]] — GenAI student experiences in UK higher education
-- [[ai-tools-academic-work-cheating-2026]] — AI tools, academic work, and cheating
-- [[ai-fatigue-academic-contexts]] — AI fatigue in academic contexts
-
 ## Citation
 
 López-López, E. M., Bru-Cordero, O. E., & Correa-Álvarez, C. D. (2026). [*Academic integrity in the age of AI: University students' study practices and ethical judgments*](https://doi.org/10.3390/higheredu5020049). *Trends in Higher Education*, 5(2), 49.

@@ -30,19 +30,6 @@ page_kind: [evaluation]
 - The evaluations rest on four exercises with n = 201 (programming 1), 870 (programming 2), 854 (short answer), and 846 (reflection) responses from 913 unique students, compared against 1,200 GPT-4o responses generated at 100 per prompt-exercise combination, so detection is tested against synthetic rather than organic AI use.
 - Preprocessing and prompt conditions were task-specific: non-code content was stripped from generated programming outputs to match student submission format, and typos were varied for textual tasks while bugs were varied for programming tasks.
 
-## Connected Concepts
-
-## Connected Concepts
-
-- [[llm]]
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[socially-fluent-ai-identity-detection]]
-- [[student-rationalization-ai-writing]]
 ## Citation
 
 Leinonen & Denny (2026). [Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content](https://arxiv.org/abs/2607.20446). arXiv preprint (cs.CL).

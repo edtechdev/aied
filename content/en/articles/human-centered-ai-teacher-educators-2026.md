@@ -46,21 +46,6 @@ level: [teacher education, adult learning]
 - Evidence comes from interviews and design activities across three cycles over 13 months; there was no comparison group, no pre/post outcome measure and no student-level learning data.
 - The program had no formal, program-wide AI integration at the time, so the three identified design needs are anchored to one institutional context and may not transfer to programs with existing AI policies.
 
-## Connected Concepts
-
-- [[teacher-education]]
-- [[ai-literacy]]
-- [[educational-development]]
-- [[ethics]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
-- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK PD framework
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — AI in preservice teacher development
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in lesson planning
-
 ## Citation
 
 Baran, E., Dilek, M., Ziba, M., & Xiao, X. (2026). [*Human-centered AI for teacher educators: Designing professional learning for critical AI literacy*](https://doi.org/10.1016/j.caeo.2026.100399). *Computers and Education Open*, 100399. https://doi.org/10.1016/j.caeo.2026.100399

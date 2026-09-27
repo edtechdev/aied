@@ -40,22 +40,6 @@ page_kind: [synthesis, framework]
 - Of 51 retained records, only 22 supplied first-order empirical evidence and 16 of those (72.7%) provided lower-leverage evidence for directional claims; none supported a firm causal model.
 - Coverage concentrates on generic conversational AI, ChatGPT and other productivity systems, Replika, and companion chatbots, which the authors say limits generalization across age groups, cultures, and platform types; the instrumental/relational framework itself is an interpretive step after coding, not a factor-analytically derived or causally tested model.
 
-## Connected Concepts
-- [[conversational-ai]]
-- [[cognitive-offloading]]
-- [[well-being]]
-- [[metacognition]]
-- [[ethics]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[student-engagement]]
-
-## Connected Articles
-- [[conversational-ai-agents-umbrella-review-2026]] — Conversational AI Agents in Education: An Umbrella Review
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition
-- [[chatbot-engagement-genai-competency-emotion-2026]] — Engagement in LLM Chatbot-Supported Learning
-- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being
-
 ## Citation
 
 Yan, D. (2026). [A critical narrative synthesis of psychological correlates, measurement, and reported findings on conversational AI engagement and dependence-related constructs](https://doi.org/10.3389/fpsyg.2026.1827795). *Frontiers in Psychology, 17*, 1827795.

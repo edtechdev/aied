@@ -57,31 +57,6 @@ Three problems surfaced. First, prior knowledge works against the framework: a m
 - **Dependence on the specific models.** Six sub-1B models could not follow the structured instructions, so the prototype settled on a single 2B executor.
 - **An unresolved black-box remainder.** Knowledge ablation against answer persistence and downstream knowledge tracing are proposed tests, not evidence that what stays latent is small enough for educational use.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[agentic-ai]]
-- [[explainable-ai]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[misconceptions]]
-- [[pedagogical-llm-training]]
-- [[personalized-learning]]
-- [[prior-knowledge]]
-- [[problem-solving]]
-- [[student-modeling]]
-
-## Connected Articles
-
-- [[agentic-workflows-education]]
-- [[deceptive-overgeneralization-adaptive-learning-2026]]
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[measuring-llm-tutors-teach-vs-solve]]
-- [[neural-symbolic-knowledge-tracing]]
-- [[nie-personavlm-long-term-personalization-2026]]
-- [[prober-ai-inquiry-writing]]
-- [[simulating-students-llm-review-2026]]
-
 ## Citation
 
 Moon, H., Rosé, C., & Stamper, J. (2026). [*Cognitive Agent Compilation for Explicit Problem Solver Modeling*](https://arxiv.org/abs/2605.07040). Accepted to AIED 2026 Blue Sky. arXiv:2605.07040. https://doi.org/10.48550/arXiv.2605.07040

@@ -31,32 +31,6 @@ page_kind: [framework]
 - The retrieval corpus is mono-authored, drawn entirely from one instructor's teaching notes, so system coverage is bounded by that single source.
 - The system is reactive and atomistic, with no learner model, no awareness of the course timeline, and no capacity to initiate interaction, and its transfer to courses built on theorem derivation, algorithmic processes, or code production is untested.
 
-## Connected Concepts
-
-- [[cs-education]]
-- [[socratic-method]]
-- [[learning-design]]
-- [[help-seeking]]
-- [[pedagogical-agent]]
-- [[automated-question-generation]]
-- [[llm]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-
-## Connected Articles
-
-- [[rethinking-scaffolding-llm-tutors]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[teachingcoach-chatbot-instructor-guidance]]
-- [[a4l-analytics-pipeline]]
-- [[aaai2026-prompting-literacy-k12]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[access-not-enough-ai-tutoring-2026]]
-- [[adaptive-pretesting-retention]]
-- [[affective-text-wearable-student-health]]
-
 ## Citation
 
 Laurent Brisson, Maria Segarra, Grégory Smits (2026). [A didactical-driven teacher assistant for a dimensional modeling course](https://arxiv.org/abs/2607.22598).

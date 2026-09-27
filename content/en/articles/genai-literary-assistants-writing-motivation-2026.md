@@ -50,21 +50,6 @@ audience: [instructors]
 - [[motivation]], flow, and self-efficacy were measured by self-report questionnaires; general motivation showed no significant change (2.93 → 3.00, t = −0.59, p = .560) with a pre–post correlation of 0.00, so those scales may not have been sensitive in this design.
 - The design cannot isolate the literary-character simulation from GAI use in general, and does not test whether the gains hold once the novelty of the camp fades.
 
-## Connected Concepts
-
-- [[writing-education]]
-- [[generative-ai]]
-- [[motivation]]
-- [[student-engagement]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-
-- [[chatgpt-academic-writing-quality-ownership-2026]] — ChatGPT in academic writing
-- [[genai-group-writing-strategies-2026]] — Group strategies for GenAI collaborative writing
-- [[gpt-human-rater-essay-assessment-2026]] — GPT vs. human raters in essay assessment
-- [[ai-perceptions-students-teachers-motivation-2026]] — AI perceptions, motivation, and self-efficacy
-
 ## Citation
 
 Wang, S. B., Wang, S. I.-C., & Liu, E. Z.-F. (2026). [*Role of generative AI literary assistants in enhancing ninth-grade students' writing motivation, flow and achievement*](https://doi.org/10.1016/j.caeo.2026.100339). *Computers and Education Open*, 100339. https://doi.org/10.1016/j.caeo.2026.100339

@@ -63,34 +63,5 @@ Customization rarely encodes the principles a study names. Process-oriented peda
 - The 23-study corpus reflects strict inclusion criteria and concentrates on higher education L2 academic writing, describing a bounded corpus.
 - Then-current models (GPT-3.5 Turbo, GPT-4, GPT-4o, GPT-4-turbo, GPT-3, BERT-family) and a search closed September 30, 2025 are superseded generations, so capability constraints behind reported challenges may no longer hold.
 
-## Connected Concepts
-- [[writing-education]]
-- [[feedback-literacy]]
-- [[prompt-engineering]]
-- [[sociocultural-learning]]
-- [[scaffolding]]
-- [[automated-essay-scoring]]
-- [[automated-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[peer-assessment]]
-- [[cognitive-offloading]]
-- [[meta-analysis-systematic-review]]
-- [[human-ai-collaboration]]
-- [[theory-development-aied]]
-- [[explainable-ai]]
-
-## Connected Articles
-- [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models
-- [[bandit-driven-llm-essay-scoring-2026]] — Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring
-- [[gpt-human-rater-essay-assessment-2026]] — Comparing GPT and human raters in essay assessment: Variability, bias, and the potential of LLM-based scoring
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Summarize, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- [[farrokhnia-genai-feedback-student-revisions-2026]] — Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Leveraging generative AI to facilitate peer feedback in collaborative argumentation learning
-- [[self-referential-l2-writing-llm-assessment]] — Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
-- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — Empowerment over enforcement: unpacking the psychological drivers of AI-assisted deep revision in EFL writing
-
 ## Citation
 Luo, Y. (2026). [*Customizing AI for writing pedagogy: a systematic review of pedagogical goals, theoretical principles, and technical design*](https://doi.org/10.1007/s11423-026-10697-w). *Educational Technology Research and Development*.

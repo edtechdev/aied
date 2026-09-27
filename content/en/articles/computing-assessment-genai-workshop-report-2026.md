@@ -61,31 +61,5 @@ Participants described calibrating assignments against model capability and watc
 - Room [[writing-education|composition]] was uneven—some rooms had twenty participants and skipped introductions, others four—and sections were evened out by editorial decision.
 - This is a snapshot of late July 2026, and several disagreements turn on what models can currently do; participants observed that positions taken six months earlier had not survived.
 
-## Connected Concepts
-- [[assessment]]
-- [[authentic-assessment]]
-- [[oral-assessment]]
-- [[evaluative-judgment]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[ai-use-disclosure]]
-- [[ai-detection]]
-- [[motivation]]
-- [[productive-failure]]
-- [[agentic-ai]]
-- [[change-management]]
-- [[equity-in-ai-education]]
-- [[curriculum-design]]
-
-## Connected Articles
-- [[kumar-genai-computing-education-systematic-review-2026]] — Generative AI in computing education: A systematic review and a framework for responsible integration
-- [[zhan-chapman-genai-cs-education-2026]] — Harnessing Generative Artificial Intelligence in Computer Science Education: Pedagogical Innovation, Ethical Responsibility, and the Future of Assessment
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: a systematic conceptual review of authentic assessment in AI-rich
-- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
-- [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments: Enhancing Integrity, Engagement, and Communication in the AI Era
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — From Cognitive Outsourcing to Reallocation: A 3P Analysis of Student–Generative AI Engagement in Unsupervised Assessments
-- [[llm-programming-support-governance-cs-education]] — Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance
-- [[shame-guilt-ai-regulation-computing-education]] — 'Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education
-
 ## Citation
 Akbar, M. S., Challen, G., Fund, F., Hopkins, C., Karnalim, O., Lin, K., McGuffee, J., Taneja, S., and Ware, R. (2026). [*AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI*](https://arxiv.org/abs/2609.27842). arXiv preprint.

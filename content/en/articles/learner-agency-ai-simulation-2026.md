@@ -17,7 +17,6 @@ page_kind: [evaluation]
 source_url: https://doi.org/10.1080/03075079.2026.2733930
 sources: ['raw/papers/learner-agency-ai-simulation-2026.md']
 confidence: high
-connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -77,15 +76,6 @@ What survives both readings is a design principle. An environment can provide pa
 - **A ceiling effect on the posttest.** Nineteen participants scored at least 16 of 17 points, compressing variance and lowering the reliability of the outcome measure (ω = .71 at posttest).
 - **The log analyses are correlational.** RQ2 and RQ3 were tested within subsets of conditions (n = 27 and n = 30) with interaction behavior observed rather than assigned, so behavioral–outcome associations cannot support causal claims.
 - **A single population and setting.** The sample was predominantly [[cs-education|computer science]] students at one German university, and the low-stakes, self-paced session does not resemble graded coursework in other disciplines.
-
-## Connected Concepts
-[[agency]], [[self-regulated-learning]], [[help-seeking]], [[simulation]], [[pedagogical-agent]], [[conversational-ai]], [[human-ai-collaboration]], [[prior-knowledge]], [[student-ai-interaction]], [[learning-gains]], [[student-engagement]]
-
-## Connected Articles
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[aied-unfinished-mission-bypass]] — AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does
-- [[ai-overreliance-complex-adaptive-system-2026]] — Modeling AI Overreliance as a Complex Adaptive System
 
 ## Citation
 

@@ -65,36 +65,6 @@ Growth is modeled as a discrete-time, spatially explicit Markov process over sch
 - The children themselves were never surveyed: their outcomes are parent-proxy reports, and one parent had discussed the survey with the child while two had not.
 - There was no control condition, and every ARC-specific parameter in the [[simulation]] had to be varied across 12 optimism levels instead.
 
-## Connected Concepts
-
-- [[educational-robotics]] — Competition robotics programs and their mentorship constraint
-- [[digital-divide]] — Rural–urban access geometry as the operative divide
-- [[k-12]] — The school system the framework targets
-- [[equity-in-ai-education]] — Who gets robotics and AI mentorship, and where
-- [[learning-by-teaching]] — Undergraduates and K–12 peer mentors learn through mentoring
-- [[career-development-and-readiness]] — Robotics participation and STEM pathways
-- [[teacher-education]] — Preparing teachers and mentors for technical instruction
-- [[stem-education]] — The disciplinary context of the competition pathway
-- [[cs-education]] — Undergraduate mentoring as structured computing practice
-- [[computational-thinking]] — Programming, sensors and planning in the robot task
-- [[project-based-learning]] — Learning organized around a real competitive project
-- [[human-ai-collaboration]] — Human–robot teaming as a seminar topic and practice
-- [[ai-literacy]] — AI topics embedded in the mentor course
-- [[professional-training]] — Youth protection and teaching-skills preparation
-
-## Connected Articles
-
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks: a project-based robotics course
-- [[educational-robotics-pathways-2026]] — Pathways to learning AI-powered educational robotics
-- [[computational-thinking-educational-robotics-secondary-2026]] — Computational thinking and educational robotics in secondary STEAM
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio: block programming with a conversational agent
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — Teacher training for micro:bit robotics and machine learning
-- [[k12-teachers-ai-companion-literacy-2026]] — K–12 teachers' AI companion and literacy development
-- [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Rural school staff and skepticism toward frontier AI
-- [[ai-divide-ses-personality-primary-education-2026]] — SES, personality and AI divides in primary education
-- [[multilingual-adaptive-learning-nigeria-2026]] — Adaptive learning in multilingual low-resource contexts
-
 ## Citation
 
 Jacobson, M. J., Rodriguez-Rivera, G., Drineas, P., & Xue, Y. (2026). [*Teaching AI, Robotics, & Community: A Hubs-Based K-12 Education Framework for Reaching Rural Schools*](https://arxiv.org/abs/2609.18072). arXiv preprint arXiv:2609.18072.

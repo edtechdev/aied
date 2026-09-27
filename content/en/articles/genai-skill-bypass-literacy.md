@@ -33,26 +33,6 @@ This work connects to core knowledge base themes: [[ai-literacy]] [[higher-ed]] 
 - Because Differential Item Functioning needs larger samples for adequate power, the study used deterministic Guttman ordering instead, reporting uncertainty through 95% confidence intervals on subgroup item-difficulty rank correlations.
 - Responses cover a 4-level × 7-item instrument, and the authors report low internal consistency and variance in person-fit across the population.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[cognitive-offloading]]
-- [[generative-ai]]
-- [[educational-development]]
-- [[self-efficacy]]
-- [[educational-measurement]]
-- [[self-assessment]]
-- [[curriculum-design]]
-## Connected Articles
-
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[ai-making-us-stupid]] — Is AI making us stupid?
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-
 ## Citation
 
 Oliveira, English, Ryan, Misiejuk, dal Ponte, Lopez-Pernas & Saqr (2026). [The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy](https://arxiv.org/abs/2607.05411). arXiv preprint.

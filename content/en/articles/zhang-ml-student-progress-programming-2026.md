@@ -12,7 +12,6 @@ discipline: [cs education]
 audience: [learning analytics designers, instructors]
 level: [k 12]
 page_kind: [evaluation]
-connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** **A Machine Learning Approach for Predicting Student Progress in Online Programming Education.** Zhang, Jeffries and Koprinska propose an [[machine-learning]] approach that predicts student progress at the *module* level in large-scale [[online-teaching-and-learning|online]] [[cs-education|programming]] courses: an intrinsically interpretable [[student-modeling|decision-tree model]] predicts a student's performance on the final problem of a module from content-interaction features derived from their [[learning-analytics|log data]]. Across four large-scale K-12 programming courses (~35,000 students), the glass-box decision trees delivered competitive accuracy (85–91%) against black-box models such as random forests and SVMs, while producing interpretable tree-based [[visualization|visualizations]] and slide rankings that educators found useful for intervening with at-risk learners and improving course design.
@@ -40,23 +39,6 @@ connected_faqs: [asynchronous-online-courses-ai]
 - The "Failed" class is barely represented — failed submissions account for at most 4.3% of submissions for any given module — and the authors state this is why predictions for that class degrade (Intermediate Python precision 0.11, recall 0.00).
 - Data come from four courses run by one provider over a five-week period in 2018, with roughly 35,000 students enrolled but only 20–50% active per course (for example, Novice Blockly averaged 1,952 active students out of 9,237), so the usable sample is far smaller than enrollment suggests.
 - Usefulness was judged qualitatively by two experienced educators reading the trees and slide rankings; no classroom intervention or measured outcome improvement was tested.
-
-## Connected Concepts
-
-- [[cs-education]]
-- [[machine-learning]]
-- [[learning-analytics]]
-- [[student-modeling]]
-- [[online-teaching-and-learning]]
-- [[k-12]]
-- [[visualization]]
-
-## Connected Articles
-
-- [[at-risk-students-ml-prediction]]
-- [[precision-education-student-digital-twins-2026]]
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]]
-- [[explainable-probabilistic-kt]]
 
 ## Citation
 

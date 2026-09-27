@@ -49,26 +49,6 @@ This paper is the key technical anchor connecting LLM-based [[intelligent-tutori
 - The measured outcomes are strategy fidelity and student perceptions (helpfulness, coherence, empathy); no learning-outcome measure is reported, so the claim that the PF tutor is more effective for learning is argued from prior research rather than demonstrated here.
 - The unsteered baseline that failed to elicit multiple solution attempts was itself an LLM configuration, so the comparison speaks to prompt-level steering rather than to what students learn with or without an AI tutor.
 
-## Connected Concepts
-
-- [[productive-failure]]
-- [[llm]]
-- [[intelligent-tutoring]]
-- [[socratic-method]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[k-12]]
-- [[math-education]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
-
 ## Citation
 
 Puech, R., Macina, J., Chatain, J., Sachan, M., & Kapur, M. (2025). [*Towards the Pedagogical Steering of Large Language Models for Tutoring: A Case Study with Modeling Productive Failure*](https://aclanthology.org/2025.findings-acl.1348/). *Findings of ACL 2025*, 26291–26311.

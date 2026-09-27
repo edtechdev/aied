@@ -71,33 +71,5 @@ The limits are stated plainly. The work is interpretive, not empirical, and does
 - The author states that classical concepts "require adaptation before they can speak to AI," so cultural translation into contemporary education carries an Orientalism risk the paper names but cannot remove.
 - The proposals — epistemic attunement, non-outsourceable self-cultivation, the Zhenren counter-ideal — remain aims and metaphors with no testable intervention, leaving open whether they change learning outcomes or only the language educators use.
 
-## Connected Concepts
-- [[philosophy-of-ai-in-education]]
-- [[theory-development-aied]]
-- [[ethics]]
-- [[critical-pedagogy]]
-- [[ai-literacy]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[agency]]
-- [[well-being]]
-- [[learning-theories]]
-- [[culturally-relevant-pedagogy]]
-- [[sustainability]]
-- [[equity-in-ai-education]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-- [[ensemble-cognition-philosophy-ai-education]] — Toward a philosophy of ensemble cognition: Reconceptualizing agency and mind in AI-mediated educational environments
-- [[avraamidou-ai-colonization-science-education]] — Can we disrupt the momentum of the AI colonization of science education?
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency: A Critical Framework for Human-Generative AI Co-Agency in Education
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical Symbiosis: conceptualizing the Post-Human Learner in the age of cognitive AI
-- [[emancipatory-ai-learner-flourishing-2026]] — An Emancipatory Vision for Designing (Generative) AI for Learner Flourishing
-- [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
-- [[du-yuan-epistemic-dependence-2026]] — Epistemic Dependence in AI-Mediated Learning
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent: Rethinking Learning in Sociocultural Theory
-- [[culturally-aware-aied-community-learning]] — Culturally-Aware AI for Cross-Boundary Community Learning
-- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
-
 ## Citation
 Xie, Q. (2026). [Alternative AI Philosophy: Daoism as Method for AI in Education](https://arxiv.org/abs/2609.10842). arXiv preprint arXiv:2609.10842.

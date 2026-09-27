@@ -51,22 +51,6 @@ Assessment here grades the reasoning trail rather than the output, and the five-
 - Discernment Rate and First-Pass Acceptance Rate are behavioral proxies offered as signals for investigating task design, not validated measures of thinking, and the redesigns appear as illustrative examples.
 - Students may arrive without the evaluative vocabulary the framework assumes, an implementation challenge Austin addresses through staged modeling rather than a validated intervention.
 
-## Connected Concepts
-
-- [[critical-thinking]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[evaluative-judgment]]
-- [[academic-integrity]]
-- [[learning-design]]
-
-## Connected Articles
-
-- [[ai-agents-complete-lms-assessment-validity-2026]] — shares the premise that agents now navigate and complete LMS tasks, and argues the response is assessment validity rather than detection.
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — the offloading and critical-thinking finding Austin cites directly for her claim that unguided AI use reduces reasoning while structured prompting preserves it.
-- [[authentic-products-authenticated-processes-2026]] — the same product-versus-process shift in authentic assessment, reached through a systematic review rather than a design protocol.
-- [[scan-framework-task-assignment-generative-ai-2025]] — a complementary decision framework for deciding which tasks to delegate to generative AI and which to keep human.
-
 ## Citation
 
 Austin, T. (2026). [When AI Agents Can Complete the Assignment: Practical Strategies for Designing Tasks That Still Require Human Thinking](https://doi.org/10.65201/PBYM5654). *Journal of Instructional Design and Technology*, 1(2), 8-18.

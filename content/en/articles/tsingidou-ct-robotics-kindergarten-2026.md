@@ -6,7 +6,6 @@ type: article
 foundations: [computational-thinking]
 technology: [educational-robotics]
 assessment: [assessment]
-connected_faqs: [ai-guidance-children-under-13]
 discipline: [stem education]
 level: [preschool, k 12]
 sources: ['raw/papers/tsingidou-ct-robotics-kindergarten-2026.md']
@@ -42,24 +41,6 @@ Methodologically, the review notes that although several CT frameworks exist in 
 - Only English-language, peer-reviewed records were retained (31 records were removed on language grounds alone), excluding non-English kindergarten robotics research.
 - Children with special education needs and disabilities (autism, Down syndrome, visual impairments) were excluded by the inclusion criteria, so the review gives an incomplete picture of CT learning through robotics for that population.
 - The synthesis reflects what included studies reported: with near-universal absence of a stated CT framework and mostly ad hoc, unvalidated measures, the review's framework and assessment findings rest on inconsistent primary reporting.
-
-## Connected Concepts
-- [[early-childhood-elementary-ai-education]]
-- [[computational-thinking]] — the skill being fostered
-- [[educational-robotics]] — the mediating technology
-- [[k-12]] — the kindergarten / early-childhood setting
-- [[scaffolding]] — one of the dominant learning strategies
-- [[project-based-learning]] — related to problem-based learning strategy
-- [[stem-education]] — the curricular context
-- [[assessment]] — the tools used to measure CT
-
-## Connected Articles
-
-- [[astor-computational-thinking-meta-review-2026]] — the CT meta-review companion
-- [[computational-thinking-educational-robotics-secondary-2026]] — CT via robotics in secondary school
-- [[game-based-gamified-robotics-education-review-2026]] — broader robotics/CT review
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — robotics + ML in teacher education
-- [[edusim-llm-robotic-simulation-education-2026]] — LLM-robotics simulation for beginners
 
 ## Citation
 

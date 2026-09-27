@@ -50,30 +50,6 @@ The review followed the **PRISMA** methodology. A February 2024 search across **
 - The search may have excluded relevant studies that used different terminology for the same constructs.
 - The controlled learning environments described may omit elements of real-world collaboration — interactions with colleagues, repositories, or other resources — that are hard to replicate.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[design-based-research]]
-- [[k-12]]
-- [[higher-ed]]
-- [[llm]]
-- [[collaborative-learning]]
-- [[icap-framework]]
-- [[active-learning]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-
-## Connected Articles
-
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — meta-analysis of AI literacy intervention effectiveness
-- [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
-- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework
-- [[ai-learning-companions-framework]] — Building AI Companions that Prioritize Learning over Performance
-- [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
-- [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults
-- [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem
-
 ## Citation
 
 Hingle, A., & Johri, A. (2025). [*Systematic review of collaborative learning activities for promoting AI literacy*](https://arxiv.org/abs/2508.15111v1).

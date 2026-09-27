@@ -61,34 +61,6 @@ This is not the fatigue story (the control condition carried similar load with a
 - The manipulation was access rather than measured offloading, and almost 40% of the genAI condition used ChatGPT rarely or never, so condition-level differences understate any real effect; whether unassisted [[retrieval-spacing-interleaving|retrieval practice]] erases the effort signature is unanswered.
 - Question difficulty was estimated from this sample's own accuracy, incentives moved time but never accuracy, and completion time is only an indirect measure of effort; the design tested extrinsic motivation only, so nothing follows about interest, [[agency|autonomy]] or [[motivation|intrinsic motivation]].
 
-## Connected Concepts
-
-- [[cognitive-offloading]] — the paper's central construct, and the distinction between offloading access to information and offloading its integration
-- [[critical-thinking]] — relational reasoning as inference over a constructed structure rather than recall of propositions
-- [[metacognition]] — metacognitive laziness, metacognitive decay, and the mismatch between perceived and actual effort requirements
-- [[self-regulated-learning]] — effort regulation as the self-regulatory process that the tool appeared to weaken
-- [[desirable-difficulties]] — the finding that effort withdrawal concentrated on the hardest, most productive items
-- [[generative-ai]] — ChatGPT (GPT-5.2 Instant) available for Stage 1 only, removed before the unassisted stages
-- [[conversational-ai]] — the chat interface, and the four observed use patterns from question copying to exploratory challenge
-- [[llm]] — the large language model whose fluent output may inflate perceived competence and reset effort expectations
-- [[motivation]] — motivation intensity theory and expected value of control as the competing effort accounts
-- [[cognitive-psychology]] — working memory capacity, element interactivity, cognitive load, and the memory test
-- [[transfer-of-learning]] — whether a short-term assisted benefit transfers to subsequent independent reasoning
-- [[problem-solving]] — Stage 1 and Stage 2 as inference problems over a network too large to hold at once
-
-## Connected Articles
-
-- [[seung-basham-cognitive-offloading-swld-2026]] — What cognitive offloading to genAI means for students with learning disabilities
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing and reallocation in unsupervised assessments
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Longitudinal prompting strategies as a window on student–AI offloading
-- [[aigc-affordance-student-self-regulation-2026]] — Self-regulation, self-efficacy and motivation in AIGC-supported learning
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitive discord between completing a task and understanding it
-- [[absent-cognitive-baseline-2026]] — The missing baseline for AI-native students' self-assessment
-- [[critical-thinking-paradox-genai-learning-2026]] — Separating efficiency gains from cognitive depth in genAI learning
-- [[polished-artifacts-fragile-engagement-2026]] — Reduced epistemic effort in human–AI knowledge construction
-- [[reclaiming-epistemic-agency-co-agency-2026]] — A critical framework for human–genAI co-agency in education
-- [[llm-fallacy-misattribution]] — Misattributing competence to LLM output and what it does to learners
-
 ## Citation
 
 Ratajczyk, D., Dymarska, A., Matłoka, A., Tomczyk, M., & Wiącek, M. (2026). [*Thinking with AI, reasoning without it: Cognitive offloading to generative AI weakens effort regulation*](https://doi.org/10.31234/osf.io/83jum_v1). PsyArXiv (preprint, not peer reviewed).

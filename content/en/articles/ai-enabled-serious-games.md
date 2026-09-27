@@ -32,18 +32,6 @@ This book chapter provides a comprehensive survey of AI integration in serious g
 - The chapter states that no deployed serious game has yet demonstrated LLM dialogue, [[reinforcement-learning|RL]]-based task sequencing and neural knowledge tracing operating simultaneously at interaction timescales in a validated high-stakes training context — so agent-based integration is a design framework rather than a proven deployment model.
 - Its stated open challenges are unresolved by design evidence: neural models produce predictions without interpretable reasoning, generative models can emit confident but inaccurate content, and RL policies can produce unintended strategies when reward functions are misspecified.
 - Because large-scale evidence on transfer and long-term gain is described as limited, the chapter cannot support claims about the effectiveness of AI-enabled serious games, only about their architectural possibilities.
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[agentic-ai]]
-- [[adaptive-learning]]
-- [[game-based-learning]]
-- [[llm]]
-- [[reinforcement-learning]]
-- [[professional-training]]
-## Connected Articles
-
-- [[multimodal-affective-its-presentation]]
 ## Citation
 
 Priyamvada Tripathi, Bill Kapralos (2026). [AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems](https://arxiv.org/abs/2605.21962). Springer book chapter, Advances in Global Applied Artificial Intelligence.

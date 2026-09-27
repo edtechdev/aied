@@ -43,24 +43,6 @@ methods: [mixed-methods-research, qualitative-research]
 - Understandability, [[trust]], and acceptance were each measured with a single 5-point item — a deliberate trade-off to keep a protocol of roughly 45 minutes from fatiguing participants — and understandability was captured as teachers' perception of a system attribute rather than the attribute itself.
 - The [[qualitative-research|qualitative]] findings come from 11 of the 41 teachers who completed a semi-structured think-aloud protocol, and the authors report only insights observed in at least three teachers, noting that teachers who did not speak to an issue may still hold an opinion.
 
-## Connected Concepts
-
-- [[trust]]
-- [[trust-calibration]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[technology-acceptance-model]]
-- [[edtech-platform]]
-- [[ai-education]]
-- [[recommender-systems-and-learning-paths]]
-## Connected Articles
-
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]]
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]]
-- [[activity-theory-teachers-adoption-ai-sem-2026]]
-- [[xai-education-framework]]
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]]
-
 ## Citation
 
 Feldman-Maggor, Y., Cukurova, M., Kent, C., & Alexandron, G. (2025). [The Impact of Explainable AI on Teachers' Trust and Acceptance of AI EdTech Recommendations: The Power of Domain-specific Explanations](https://doi.org/10.1007/s40593-025-00486-6). *International Journal of Artificial Intelligence in Education*, 35, 2889–2922.

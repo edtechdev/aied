@@ -42,22 +42,6 @@ The work also contributes to understanding how [[scaffolding]] can be implemente
 - All course materials came from Khan Academy's World History Project, so the findings may not transfer to STEM or other knowledge types.
 - Outcomes rest on learner-reported perceptions and quiz performance rather than expert assessment of the quality of generated plans and responses.
 - The baseline paired Khan Academy with Gemini-2.5 Pro rather than a platform with built-in LLM support such as KhanMigo, so the advantage over integrated systems is untested.
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[agentic-ai]]
-- [[personalized-learning]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[llm]]
-- [[metacognition]]
-- [[intelligent-tutoring]]
-## Connected Articles
-
-- [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalab...
-- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
-
 ## Citation
 
 Wang, X. J., Lee, C. P., & Mutlu, B. (2026). [LearnMate^2: Design and evaluation of an LLM-powered personalized and adaptive support system for online learning](https://arxiv.org/abs/2605.06257).

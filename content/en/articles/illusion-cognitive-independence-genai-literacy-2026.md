@@ -43,21 +43,6 @@ The study drew on an online [[self-report-measures|questionnaire]] completed by 
 - The instrument was largely novel and developed for this study, with one scale showing relatively low reliability.
 - The sample skewed toward graduate students and toward Southern and Eastern Europe, limiting generalizability across educational levels and cultural contexts.
 
-## Connected Concepts
-
-- [[ai-literacy]] — the competency profile the study decomposes into operational, conceptual, and critical-ethical dimensions.
-- [[cognitive-offloading]] — the delegation of mental effort that underlies the illusion of cognitive independence.
-- [[self-regulated-learning]] — the framework positioning GenAI literacy as a regulatory mechanism of human-AI interaction.
-- [[higher-ed]] — the setting and target population for the profile-based findings.
-- [[student-engagement]] — how patterns of GenAI use and monitoring reflect different modes of cognitive engagement.
-
-## Connected Articles
-
-- [[seung-basham-cognitive-offloading-swld-2026|Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?]]
-- [[reclaiming-epistemic-agency-co-agency-2026|Reclaiming Epistemic Agency: A Critical Framework for Human-Generative AI Co-Agency in Education]]
-- [[aigc-affordance-student-self-regulation-2026|AIGC Affordance and Student Self-Regulation: A Serial Mediation Model of Self-Efficacy and Learning Motivation]]
-- [[learner-ai-interaction-patterns-oop|Patterns of Learner-AI Interaction and Performance in an Object-Oriented Programming Course]]
-
 ## Citation
 
 Amzalag, M., Zviel-Girshin, R., & Beimel, D. (2026). [The Illusion of Cognitive Independence in the Age of Generative AI: Unpacking GenAI Literacy and Learner Profiles](https://doi.org/10.3389/feduc.2026.1861548). *Frontiers in Education, 11*, 1861548.

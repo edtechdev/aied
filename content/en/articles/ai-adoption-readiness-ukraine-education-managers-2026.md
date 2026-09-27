@@ -48,20 +48,5 @@ Because no single barrier was necessary or sufficient for low readiness, there i
 - The six-class LCA solution is exploratory on the study's own evidence: bootstrap stability was poor (mean ARI = 0.385) and BIC fell monotonically across the 2–6 class range without a clear minimum.
 - The sample represents 23 regions but may miss smaller rural institutions, and wartime conditions may have inflated or depressed readiness reports in ways the measures do not capture.
 
-## Connected Concepts
-- [[governance]]
-- [[regulation]]
-- [[educational-policy-ai]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[technology-acceptance-model]]
-- [[ai-education]]
-
-## Connected Articles
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI implementation (scoping review)
-- [[institutional-governance-ai-universities]] — Institutional governance of AI in universities and business schools
-- [[qian-governing-genai-higher-ed-policy-2026]] — Governing generative AI in higher education: policy approaches at US universities
-- [[adarkwah-genai-unesco-policy-2026]] — Generative AI policy: a qualitative UNESCO framework analysis
-
 ## Citation
 Kremen, V. G., Spirin, O. M., Liashenko, O. I., Lytvynova, S. H., Malovanyi, Y. I., Pinchuk, O. P., Sokolyuk, O. M., & Semerikov, S. O. (2026). [AI adoption readiness among Ukrainian education managers: Barriers, typologies, and policy implications](https://doi.org/10.1016/j.caeai.2026.100648). *Computers and Education: Artificial Intelligence*, 11, 100648.

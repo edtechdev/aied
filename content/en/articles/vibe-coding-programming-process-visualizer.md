@@ -34,33 +34,6 @@ This [[research-methods-aied|research]] connects to the growing body of work on 
 - Teacher feedback came from informal reviews and written comments collected during the course, with no control condition and no measured effect on student outcomes.
 - The tool depends on a course workflow that requires Thonny and log-file submission, so it does not transfer to courses without that logging infrastructure.
 - The views are built to prompt follow-up discussion and manual review rather than to serve as automated judgments, and time-window filtering of logs was requested but not yet implemented.
-## Connected Concepts
-
-- [[vibe-coding]]
-- [[automated-assessment]]
-- [[personalized-learning]]
-- [[student-experience]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[edtech-platform]]
-- [[stem-education]]
-- [[higher-ed]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[academic-integrity]]
-- [[learning-analytics]]
-- [[cs-education]]
-
-## Connected Articles
-
-- [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
-- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modeling student mathematical competence
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
-- [[llm-student-misconception-identification]] — What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics
-
 ## Citation
 
 Heidi Taveter, Marina Lepp (2026). [From Idea to Classroom in Days: Using Vibe Coding to Create a Programming Process Visualizer from IDE Activity Logs](https://arxiv.org/abs/2607.24757). FIE 2026 (IEEE Frontiers in Education Conference).

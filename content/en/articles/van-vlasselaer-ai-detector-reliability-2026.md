@@ -11,7 +11,6 @@ institutions: [educational-policy-ai, governance]
 ethics: [trust, trust-calibration, equity-in-ai-education]
 level: [higher ed]
 audience: [instructors, administrators, researchers, learners]
-connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating]
 page_kind: [evaluation]
 sources: ['raw/papers/van-vlasselaer-ai-detector-reliability-2026.md']
 confidence: high
@@ -44,34 +43,6 @@ The recommendations are deliberately modest about what detection can carry. The 
 ## Limitations
 
 Beyond the 160-paper scale, the single [[llm|generative model]] family for the AI categories, and the snapshot problem, the paper flags three constraints of its own. The design could not replicate the software-aided and manual refinements students actually apply, and only one humanization strategy — a single prompt — was tested, so real hybrid evasion may be harder to detect than measured, meaning the reported accuracies are optimistic for the defenders rather than conservative. The 1,163-thesis analysis had no ground truth and is exploratory: it describes the distribution of Pangram's flagging scores in an authentic setting and cannot be read as confirmed prevalence. And the human corpus, while deliberately pre-ChatGPT and therefore clean, comes from a single faculty, so disciplinary variation is minimal and no cross-discipline comparison was possible.
-
-## Connected Concepts
-
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[academic-integrity]]
-- [[trust-calibration]]
-- [[equity-in-ai-education]]
-- [[reducing-ai-misuse]]
-- [[ai-misuse-learning-harm]]
-- [[educational-measurement]]
-- [[summative-assessment]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[limitations-in-aied-research]]
-- [[machine-learning]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detector accuracy in an English-as-a-foreign-language context
-- [[karr-ai-detection-humanization-2026]] — Humanization strategies and detector evasion
-- [[roe-ai-humanizers-legitimacy-assessment-2026]] — AI humanizers and the performance of legitimacy
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Detecting what may be undetectable in misconduct cases
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
-- [[llm-detecting-llm-generated-content-education]] — Machine detection of LLM-generated educational text
-- [[ivory-psychology-assessment-integrity-2026]] — Program-level pass rates versus detection framing
 
 ## Citation
 

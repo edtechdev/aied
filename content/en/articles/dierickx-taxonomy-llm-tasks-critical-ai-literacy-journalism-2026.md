@@ -69,28 +69,6 @@ While grounded in journalism, the taxonomy's underlying logic is transferable to
 - The baseline prompts and risk-and-mitigation strategies are model-agnostic examples, not evaluated interventions: the paper reports no classroom study, student sample, or learning outcome.
 - Its four-stage news-workflow frame simplifies journalistic practice, which the authors note varies across organizations, genres, and contingent circumstances, so some tasks span stages.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[generative-ai]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[human-in-the-loop-ai]]
-- [[higher-ed]]
-- [[curriculum-design]]
-- [[ai-technologies]]
-- [[educational-nlp]]
-- [[scaffolding]]
-
-## Connected Articles
-
-- [[ying-genai-journalism-assessment-2026]] — Practice-based GenAI journalism assessment intervention
-- [[aaai2026-prompting-literacy-k12]] — K-12 prompting literacy
-- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI literacy interaction patterns
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Prompting patterns and cognitive offloading
-- [[critical-media-literacy-education-2026]] — Critical media literacy education
-
 ## Citation
 
 Dierickx, L., Bjerknes, F., Opdahl, A. L., & Lindén, C.-G. (2026). [A Taxonomy of LLM-Supported Tasks for Critical AI Literacy in Journalism](https://doi.org/10.1007/s42438-026-00690-0). *Postdigital Science and Education*. https://doi.org/10.1007/s42438-026-00690-0

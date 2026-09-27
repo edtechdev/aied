@@ -64,28 +64,6 @@ Where most offloading research captures the *moment* of AI use, this paper forma
 - Construct validity of the offloading-dose index rests on behavioral proxies that users can game, and offloading depth may be endogenous to ability (weaker performers leaning harder), which muddies causal readings of dose.
 - The proposed protocol is powered (about 100 enrolled per arm, 300 total, roughly 33 per domain-arm cell) only for its two primary contrasts; a d = 0.40 interaction is unresolvable at 33 per cell, so domain-composition and dose-superlinearity predictions are designated exploratory, and the 24-participant Stage 0 pilot cannot estimate reliability precisely.
 
-## Connected Concepts
-
-- [[cognitive-offloading]] — the central mechanism whose post-withdrawal dynamics the paper formalizes
-- [[generative-ai]] — the tool class whose withdrawal is studied
-- [[metacognition]] — situational awareness and metacognitive calibration as what degrades
-- [[transfer-of-learning]] — whether induced skill loss generalizes/washes out
-- [[self-regulated-learning]] — scheduled unassisted practice as intervention
-- [[critical-thinking]] — the outcome that offloading research links to reliance
-- [[intelligent-tutoring]] — the assistive systems whose withdrawal students face
-- [[llm]] — the underlying model technology
-- [[cognitive-surrender]]
-
-## Connected Articles
-
-- [[cognitive-offloading-speedup-illusion]] — the speedup illusion that masks reduced learning during use
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — substitutive vs. duplicative offloading and what happens when external stores vanish
-- [[critical-thinking-paradox-genai-learning-2026]] — cognitive debt and episodic vs. habitual offloading
-- [[generative-ai-reduced-study-time-math]] — reduced study time and retention losses
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — interventions that make offloading more optimal
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — randomized evidence that brief assistance depresses unassisted performance
-- [[ai-overreliance-complex-adaptive-system-2026]] — over-reliance as an emergent system dynamic
-
 ## Citation
 
 Yajee, R. (2026). [*After the assistant leaves: Cognitive washout dynamics and the reversibility of AI-induced skill decay*](https://osf.io/preprints/edarxiv/64qz7_v1/). *EdArXiv preprint*.

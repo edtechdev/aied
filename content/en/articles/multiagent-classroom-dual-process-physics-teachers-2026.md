@@ -57,22 +57,6 @@ A recurrent practical cue emerged: when a session was going well, Davide would v
 - The hazards were reified into stable characters — a pedagogical simplification the framework itself warns against — and the two vignette sets, though parallel, were not formally equated.
 - Each pair interacted for a single session (repeated sessions were planned but blocked by scheduling), the log cannot be attributed to individual participants, and the DPT lexicon count is keyword-based, registering the framework's words rather than their application.
 
-## Connected Concepts
-
-- [[physics-education]]
-- [[agentic-ai]]
-- [[professional-training]]
-- [[simulation]]
-- [[stem-education]]
-- [[higher-ed]]
-- [[teacher-role]]
-## Connected Articles
-
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[socratic-ai-physics-tutor-taxonomy-2026]]
-
-#
-
 ## Citation
 
 Tufino, E. (2026). [A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers](https://arxiv.org/abs/2608.05820).

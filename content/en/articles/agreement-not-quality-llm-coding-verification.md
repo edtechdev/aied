@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, human-ai-collaboration, teacher-role]
 technology: [llm]
 ethics: [equity-in-ai-education]
-connected_faqs: [reporting-interpreting-aied-research]
 audience: [instructors, researchers]
 level: [k 12]
 page_kind: [evaluation]
@@ -36,26 +35,6 @@ The study contributes a transferable blind-verification protocol for evaluating 
 - Verification rests on one independent expert, who judged 855 pairwise comparisons and reached a decisive preference in 801 cases (93.7%); with no second verifier there is no estimate of inter-verifier reliability, and a different expert might have endorsed the human coders' interpretation.
 - The LLM rankings are a capability snapshot: all inference ran at temperature zero with no session memory, so enhanced prompting strategies were left unexplored and specific ordering is expected to shift across model generations.
 - Only five of the models that coded the corpus entered verification, selected under a fixed verification budget, so the aggregate finding of no overall human–LLM preference is conditional on that model mix.
-
-## Connected Concepts
-
-- [[teacher-ai-competency]]
-- [[bias-mitigation]]
-- [[k-12]]
-- [[equity-in-ai-education]]
-- [[ai-education]]
-- [[ai-ed-evaluation]]
-- [[research-methods-aied]]
-- [[human-ai-collaboration]]
-- [[llm]]
-
-## Connected Articles
-
-- [[human-llm-collaborative-coding-k12-educator-ai]] — Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
-- [[lodge-loble-cognitive-offloading-2026]] — Artificial intelligence, cognitive offloading and implications for education
 
 ## Citation
 

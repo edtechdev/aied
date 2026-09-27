@@ -53,24 +53,6 @@ confidence: high
 - Model comparison rested on a 15% held-out test split of that 582-question set, and inputs were truncated to a 128-token maximum length.
 - Category confusability is unresolved in the labels themselves: fine-tuned BERT reached 92.00% recall on co-learner questions at only 74.19% precision, indicating substantial overlap with the facilitator category.
 
-## Connected Concepts
-
-- [[constructivist]]
-- [[educational-nlp]]
-- [[human-in-the-loop-ai]]
-- [[personalized-learning]]
-- [[scaffolding]]
-- [[student-ai-interaction]]
-- [[teacher-role]]
-
-## Connected Articles
-
-- [[student-ai-inquiry-types-cs2-2026]] — Typology of student AI inquiry types in computing education
-- [[llm-educational-question-cognitive-depth]] — LLMs and the cognitive depth of educational questions
-- [[cross-dataset-bloom-question-classification]] — Cross-dataset classification of questions by Bloom level
-- [[generative-ai-mediational-agent-sociocultural-2026]] — GenAI as a mediational agent in sociocultural learning
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive scaffolding and cognitive engagement in tutoring systems
-
 ## Citation
 
 Lee, H., Atif, A., & Kang, K. (2026). [*Analysing AI utilisation in education through learner question types: A constructivist approach*](https://doi.org/10.14742/ajet.10657). *Australasian Journal of Educational Technology*, 42(2), 77–94.

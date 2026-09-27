@@ -60,22 +60,6 @@ The moderation results read best as a boundary condition on GenAI use, not as ev
 - Convenience sampling at three Omani universities limits generalization.
 - GenAI dependence is an emerging construct spanning habitual reliance, reduced verification, and perceived loss of cognitive autonomy; one dominant factor emerged (first eigenvalue 3.49, 69.8% of variance, Cronbach's α = 0.892).
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[career-development-and-readiness]]
-- [[student-ai-interaction]]
-- [[generative-ai]]
-- [[self-report-measures]]
-- [[ai-misuse-learning-harm]]
-
-## Connected Articles
-
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI dependency as a mediator of self-efficacy, teacher support, and burnout
-- [[genai-decision-capability-cognitive-load-2026]] — GenAI, cognitive load, and business students' perceived decision capability
-- [[ai-literacy-career-adaptability-business-2026]] — AI readiness and career adaptability in business education
-
 ## Citation
 
 Shojaei, S. A., Armosh, F., Lihe, R., Hamacha, R., & Labib, J. (2026). [*Helpful or harmful? Generative AI dependence, self-reported critical thinking disposition, and self-perceived employability among business students*](https://doi.org/10.3389/feduc.2026.1885990).

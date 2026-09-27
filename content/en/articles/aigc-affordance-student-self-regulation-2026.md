@@ -45,20 +45,5 @@ Measurement quality was high by conventional standards — factor loadings 0.891
 - Reverse causality remains plausible on the authors' own account — high self-regulated learners may selectively perceive AIGC affordances, and self-efficacy and motivation may reciprocally reinforce each other.
 - The qualitative strand consists of 8 instructors (enterprise mentors and academic supervisors, interviews of roughly 30 minutes) rather than students, and it documents curriculum–industry misalignment, limited project diversity and weak enterprise engagement rather than student-level mechanisms.
 
-## Connected Concepts
-- [[self-regulated-learning]] — the outcome the model explains
-- [[self-efficacy]] — the strongest mediator in the model
-- [[motivation]] — the second mediating mechanism
-- [[generative-ai]] — AIGC tools as the affordance source
-- [[feedback]] — feedback quality as a predictor of satisfaction but not of regulation
-- [[higher-ed]] — private undergraduate industry-education programs
-
-## Connected Articles
-- [[liang-ai-learning-motivation-sdt-2026]] — AI and learning motivation through self-determination theory
-- [[genai-motivation-engagement-2026]] — Generative AI, motivation and engagement
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Dependency, AI literacy and self-efficacy
-- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or shortcut in GenAI-supported self-regulated learning
-- [[ai-perceptions-students-teachers-motivation-2026]] — Student and teacher motivation and self-efficacy with AI
-
 ## Citation
 Liang, S.-Z., Li, Z.-C., Hsu, Y.-M., & Xu, J.-L. (2026). [AIGC affordance and student self-regulation in private undergraduate education: a serial mediation model of self-efficacy and learning motivation](https://doi.org/10.3389/fpsyg.2026.1800950). *Frontiers in Psychology, 17*, 1800950.

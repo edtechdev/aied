@@ -46,20 +46,5 @@ institutions: [educational-policy-ai]
 - The widely cited 45% educator-confidence figure comes from a single external study cited within the review rather than from the review's own coding of its 50 articles, so that claim is second-hand evidence.
 - Studies focused solely on student engagement without educator perspectives were excluded, as were non-peer-reviewed sources, so the review reports nothing on learner-side outcomes and omits gray literature; full texts are said to have been assessed for "methodological rigor," but no validated quality-appraisal instrument is reported.
 
-## Connected Concepts
-- [[problem-based-learning]]
-- [[generative-ai]]
-- [[teacher-role]]
-- [[collaborative-learning]]
-- [[human-ai-collaboration]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]]
-- [[ai-communities-of-inquiry-2026]]
-- [[chatgpt-math-biology-challenge-based-learning-2025]]
-
 ## Citation
 Amdan, M.A., Asim, A., Rosman, N.F., Janius, N., Dasuki, F.H., & Johnny, N.K. (2026). [*A systematic review of educators' engagement with AI in problem-based learning*](https://doi.org/10.55197/qjssh.v7i1.787). *Quantum Journal of Social Sciences and Humanities*, 7(1).

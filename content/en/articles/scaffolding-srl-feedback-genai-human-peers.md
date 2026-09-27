@@ -7,7 +7,6 @@ foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 assessment: [ai-feedback-quality, feedback, formative-assessment, peer-assessment]
-connected_faqs: [ai-feedback-at-scale]
 methods: [mixed-methods-research]
 audience: [learners, instructors]
 research_method: [quasi-experiment]
@@ -20,7 +19,6 @@ level: [higher ed]
 > **Synthesis:** **In a [[mixed-methods-research|mixed-methods]] quasi-experiment, scaffolding self-regulated feedback with [[generative-ai|GenAI]] (ChatGPT-4o) produced a small but statistically significant improvement in first-year undergraduates' [[feedback-literacy|feedback literacy]] compared to scaffolding with human peer review (ANCOVA group effect p = 0.049, η²p = 0.03).** Gu, Chen, and Yan (2026) argue the advantage operates through self-regulated [[learning-gains|learning]]: GenAI supported students' goal setting, planning, [[critical-thinking|critical evaluation]], and immediate self-reflection across the forethought, control, and retrospect phases, while peer interaction retained distinct value for evaluative judgment — suggesting the two sources are complementary rather than competing.
 
 ## Core Finding
-
 
 ## The Study
 
@@ -57,35 +55,6 @@ Strengths include the mixed-methods design pairing a controlled quasi-experiment
 - The intervention ran three self-assessment cycles in a single semester, and the authors flag a possible novelty effect alongside the small effect size (η²p = 0.03).
 - Feedback literacy was measured with a 19-item self-report scale (α = 0.904) plus retrospective interviews with only nine students per group — no behavioral, stimulated-recall, or [[learning-analytics]] measures.
 - Generalizability is limited to one EFL writing context with Mandarin L1 students.
-
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[peer-assessment]]
-- [[self-assessment]]
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[generative-ai]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[higher-ed]]
-- [[feedback-literacy]]
-
-## Connected Articles
-
-- [[ai-generated-feedback-higher-ed]]
-- [[becerra-aicofe-feedback-2026]]
-- [[care-full-feedback-genai]]
-- [[learner-centered-feedback-ai]]
-- [[chatgpt-feedback-engagement-genai]]
-- [[genai-feedback-design-multisite-experiment]]
-- [[feedback-futures-genai]]
-- [[pairr-ai-peer-review-2025]]
-- [[genai-teacher-feedback-comparison]]
 
 ## Citation
 

@@ -39,16 +39,6 @@ page_kind: [framework]
 - It generalizes from community-based science education and constructionist traditions; no analysis is offered of how the approach performs in the settings where epistemic marginalization is most acute or how it interacts with mandated technical curricula.
 - Modular adoption "alongside technical instruction" is asserted rather than costed: the paper gives no account of the teacher time, community partnerships, or coordination a unit requires, or of how community co-evaluation would scale beyond a single unit.
 
-## Connected Concepts
-- [[ai-literacy]]
-- [[constructivist]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[reducing-ai-misuse]]
-- [[equity-in-ai-education]]
-
 ## Citation
 
 Ojeda-Ramirez, S., Gyles, S., & Peppler, K. (2026). [*Community-Based AI Learning: Redistributing Artificial Intelligence's Epistemic Authority in Education*](https://doi.org/10.1145/3796496.3811760). Proceedings of the 2026 Conference for Research on Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT 2026). ACM.

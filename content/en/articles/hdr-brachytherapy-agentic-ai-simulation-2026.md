@@ -55,26 +55,6 @@ The prototype comprised a Meta Quest 3 interface linked to a local GPU-accelerat
 - **The knowledge base bounds the answers.** The assistant is limited by the quality and number of documents it can reference and is built on a standardized set of HDR brachytherapy guidelines, so institution-specific protocols, practitioner preferences, and unusual clinical scenarios fall outside it.
 - **No automated [[assessment]] or adaptive feedback.** The current VR technology cannot track hand movements in the virtual environment, and the system does not quantitatively evaluate procedural correctness or spatial precision.
 
-## Connected Concepts
-
-- [[simulation]]
-- [[professional-training]]
-- [[rag]]
-- [[agentic-ai]]
-- [[multimodal]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[pedagogical-safety]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-
-- [[tibetcpr-ai-training-feedback]]
-- [[astra-atco-training-simulator]]
-- [[medgame-llm-medical-education-gamification]]
-- [[ai-use-critical-thinking-medical-students-2026]]
-- [[agentschool-multi-agent-simulation-education-2026]]
-
 ## Citation
 
 Xu, R., Barasa, K., Kumal, M., Liu, X., Zhou, W., & Qian, X. (2026). [*Agentic AI-driven immersive simulation: A knowledge-aware virtual training platform for high dose rate (HDR) brachytherapy*](https://arxiv.org/abs/2608.08163).

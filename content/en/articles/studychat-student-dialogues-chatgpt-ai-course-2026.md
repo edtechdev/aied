@@ -45,26 +45,6 @@ page_kind: [evaluation]
 - The usage–outcome findings are correlational: regression and k-means clustering (k = 4) are observational, and neither usage level nor cluster membership was a consistently significant predictor of overall course outcome.
 - Behavior labels for the full corpus were applied by an LLM (GPT-4.1), with human–LLM agreement of 0.58 broad / 0.49 specific, below the human two-pass agreement of 0.91 broad / 0.788 specific on the schema-development set.
 
-## Connected Concepts
-
-- [[llm]]
-- [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[cs-education]]
-- [[learning-gains]]
-- [[educational-nlp]]
-
-## Connected Articles
-
-- [[principal-trait-analysis-human-ai-skills-2026]] — PTA derives traits from human–AI collaboration using StudyChat
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner for co-regulated learning
-- [[chatgpt-programming-education-text-mining]] — ChatGPT in programming education
-- [[genai-mindtool-generative-learning]] — GenAI as a mindtool for generative learning
-- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT hints vs human tutor learning gains
-
 ## Citation
 
 McNichols, H., Ikram, F., & Lan, A. (2026). [*The StudyChat Dataset: Analyzing Student Dialogues With ChatGPT in an Artificial Intelligence Course*](https://arxiv.org/abs/2503.07928). In *Proceedings of the 16th International Learning Analytics and Knowledge Conference (LAK '26)*, Bergen, Norway. ACM. https://doi.org/10.48550/arXiv.2503.07928

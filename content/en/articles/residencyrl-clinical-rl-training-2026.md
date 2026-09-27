@@ -63,27 +63,6 @@ On held-out in-domain scenarios, the agent improves over the base model across a
 - Adversarial safety evaluations used automated adversarial agents rather than human actors, and proprietary training infrastructure limits full reproducibility.
 - Transfer to real patient care is unverified: the authors state that standardized human OSCE evaluation and prospective clinical studies are necessary, and that simulation fidelity narrows but does not eliminate the discrepancy with real encounters.
 
-## Connected Concepts
-
-- [[reinforcement-learning]]
-- [[simulation]]
-- [[professional-training]]
-- [[llm]]
-- [[intelligent-tutoring]]
-- [[trust-calibration]]
-- [[cognitive-diagnosis]]
-- [[human-in-the-loop-ai]]
-- [[pedagogical-safety]]
-
-## Connected Articles
-
-- [[tibetcpr-ai-training-feedback]]
-- [[astra-atco-training-simulator]]
-- [[medgame-llm-medical-education-gamification]]
-- [[ai-use-critical-thinking-medical-students-2026]]
-- [[pedagogical-safety-rl]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-
 ## Citation
 
 Liévin, V., Schmidgall, S., Strother, T., Bijamov, A., Goel, A., Palepu, A., et al. (2026). [*ResidencyRL: Reinforcement learning in simulated clinical environments*](https://arxiv.org/abs/2608.07418).

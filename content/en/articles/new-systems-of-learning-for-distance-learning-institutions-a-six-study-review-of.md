@@ -10,7 +10,6 @@ level: [higher ed]
 sources: ['raw/papers/10.1016_j.caeai.2026.100607.md']
 confidence: high
 audience: [institutions, instructional designers, instructors]
-connected_faqs: [asynchronous-online-courses-ai]
 methods: [design-based-research]
 institutions: [governance]
 ---
@@ -40,27 +39,6 @@ This is a six-study, 18-month Design-Based [[research-methods-aied|Research]] (D
 ## Limitations
 
 The RCT (Study 6) was exploratory: students were asked to explore the OpenLearn Create course at their leisure with no credits or external reward, and the sandbox environment differed from the main teaching environment, which may explain the lack of significant differences in process/outcome data. The study focuses on one institution (the Open University), and the AIDA application is institution-specific. The authors acknowledge that early AIDA work operated in "pilot project" mode with limited systems-thinking capacity, and the mapping to Sharples' framework involves interpretive judgment.
-
-## Connected Concepts
-
-- [[higher-ed]]
-- [[generative-ai]]
-- [[adult-learning]]
-- [[privacy]]
-- [[human-in-the-loop-ai]]
-- [[learning-analytics]]
-- [[rag]]
-- [[inclusive-learning]]
-- [[intelligent-tutoring]]
-
-## Connected Articles
-
-- [[tzirides-thinking-through-ai-2025]] — Thinking Through AI
-- [[genai-higher-education-systematic-review-2026]] — GenAI in Higher Education: A Systematic Review
-- [[ai-adult-learning-guidelines-dis2026]] — AI and Adult Learning Guidelines
-- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI Course Redesign
-- [[taklif-ai-interest-based-personalized-assignments]] — Taklif: AI Interest-Based Personalized Assignments
-- [[test-driven-ai-assisted-learning]] — Test-Driven AI-Assisted Learning
 
 ## Citation
 

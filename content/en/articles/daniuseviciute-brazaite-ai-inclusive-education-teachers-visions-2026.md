@@ -67,21 +67,6 @@ Teachers' sense of their own role was more measured than their vision. They repo
 - The Lithuanian setting gives these visions their shape.
 - Since September 2024 the country has required general schools and kindergartens to admit children with special educational needs, yet a national audit reported that although 94% of pupils with special educational needs attended general schools in 2024 to 2025, 56% did not receive all the educational support required. That gap between formal inclusion and individualized support is the background against which teachers imagine AI helping, and against which the authors warn that existing [[digital-divide|inequalities in access and support]] could be reproduced rather than resolved.
 
-## Connected Concepts
-
-- [[agency]]
-- [[inclusive-learning]]
-- [[personalized-learning]]
-- [[teacher-role]]
-- [[equity-in-ai-education]]
-- [[adaptive-learning]]
-
-## Connected Articles
-
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teachers' agency with generative AI
-- [[where-ai-enters-teacher-work-2026]] — Where Artificial Intelligence Enters Teacher Work
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive Generative AI for Visually Impaired Learners
-
 ## Citation
 
 Daniusevičiūtė-Brazaitė, L., Gaižiūnienė, L., & Pučėtaitė, R. (2026). [*AI in inclusive education: teachers’ visions of future-oriented practices*](https://doi.org/10.3389/feduc.2026.1890925).

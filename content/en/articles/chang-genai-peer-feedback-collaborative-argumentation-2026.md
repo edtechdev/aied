@@ -52,26 +52,6 @@ This article contributes empirical evidence to the knowledge base's [[feedback]]
 - Cognitive load was not measured or controlled, which the authors flag as a confound influencing motivation, engagement, feedback quality, and argumentation performance.
 - Prompt scaffolding was static and uniform rather than adaptive to students' differing abilities and cognitive levels.
 
-## Connected Concepts
-
-- [[collaborative-learning]]
-- [[feedback]]
-- [[scaffolding]]
-- [[prompt-engineering]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[student-ai-interaction]]
-
-## Connected Articles
-
-- [[reconceptualizing-community-inquiry-generative-ai]]
-- [[genai-simulate-patient-history-pbl-2026]]
-- [[feedback-futures-genai]]
-- [[learner-centered-feedback-ai]]
-
 ## Citation
 
 Chang, Y., Liu, Q., Lu, Y., & Miao, E. (2026). [*Leveraging generative AI to facilitate peer feedback in collaborative argumentation learning*](https://doi.org/10.1186/s41239-026-00586-w). *International Journal of Educational Technology in Higher Education*.

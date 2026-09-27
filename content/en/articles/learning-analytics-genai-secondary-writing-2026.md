@@ -17,7 +17,6 @@ page_kind: [evaluation]
 source_url: https://genai-la.genai-learning.online/
 sources: ['raw/papers/learning-analytics-genai-secondary-writing-2026.md']
 confidence: high
-connected_faqs: [reducing-over-reliance, writing-instruction-ai-best-practices]
 contributors: [editor]
 reviewed_by: [editor]
 ai_assist:
@@ -71,15 +70,6 @@ The behavioral result is the fragile part. With 46 students split unevenly betwe
 - **The plagiarism measure is incomplete by construction.** It compared student text against the model's own replies within the platform, so text pasted from elsewhere was invisible and the reported overlap percentages are likely underestimates; the authors suggest keystroke data as a more accurate basis.
 - **One task, one class, one short window.** A single argumentative essay written as homework over three weeks by Grade 9 students in one Hong Kong school leaves the durability of any behavioral change and its transfer to other populations and settings untested.
 - **The automatic coding was validated on one scheme.** Reliability was established for this hierarchical prompt taxonomy with a few-shot prompt, and the authors note that classification performance varies with the coding scheme's granularity, so the scores do not generalize to other dashboards without re-validation.
-
-## Connected Concepts
-[[learning-analytics]], [[generative-ai]], [[conversational-ai]], [[student-ai-interaction]], [[self-regulated-learning]], [[metacognition]], [[academic-integrity]], [[ai-literacy]], [[human-ai-collaboration]]
-
-## Connected Articles
-- [[jin-genai-learning-analytics-feedback-literacy]] — Students' Perceptions of Generative AI-Powered Learning Analytics in the Feedback Process: A Feedback Literacy Perspective
-- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[ai-dependence-academic-writing-ipace-2026]] — Are Students Dependent on AI in Writing Courses? Analyzing Factors Influencing Dependence on Generative AI Through the I-PACE Model
 
 ## Citation
 

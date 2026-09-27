@@ -62,29 +62,6 @@ Cross-category variation (26.3 points) far exceeds cross-model variation (8.8 po
 
 Open questions remain: does the ceiling move under iterative refinement or multi-agent collaboration, do results hold outside China, could the benchmark extend to K-12 or professional training, and what does the token-quality disconnect mean for tutoring billed by token?
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[benchmark]]
-- [[ai-ed-evaluation]]
-- [[reinforcement-learning]]
-- [[guardrails]]
-- [[pedagogical-llm-training]]
-- [[math-education]]
-- [[prompt-engineering]]
-- [[human-in-the-loop-ai]]
-- [[open-source]]
-
-## Connected Articles
-
-- [[chen-teacharena-language-agents-realistic-teaching-2026]] - An agent benchmark built on teaching tasks
-- [[persistent-ai-agents-academic-research]] - Persistent agents in academic work
-- [[ba-ai-agents-cscl-review-2026]] - AI agents in collaborative learning
-- [[agentic-ai-education-scoping-review]] - Scoping review of agentic AI
-- [[ai-tutor-behavioral-evaluation]] - Tutor effectiveness from 10,000 submissions
-- [[ai-generated-feedback-higher-ed]] - AI feedback in university education
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] - Journaling chatbot for motivation
-
 ## Citation
 
 Yu, J., Lu, P., Si, W., Lu, H., Wu, J., Tao, K., and 71 other authors (2026). [*AcademiClaw: When Students Set Challenges for AI Agents*](https://arxiv.org/abs/2605.02661). arXiv:2605.02661. https://doi.org/10.48550/arXiv.2605.02661

@@ -40,26 +40,6 @@ institutions: [educational-policy-ai]
 - The environmental figures are order-of-magnitude estimates: the simplified FLOPs formula is accurate within about 10%, and for proprietary models the active parameter count is assumed (about 100 billion for frontier models, 30 billion for flash models) rather than known, with any error scaling the reported FLOPs proportionally.
 - The authors identify gaps in their own framework: PUE-equivalent baselines need refining to reflect consumer-grade versus cloud GPUs, and the framework does not account for the water consumption of cloud-based GPUs.
 
-## Connected Concepts
-
-- [[open-source]]
-- [[ethics]]
-- [[llm]]
-- [[generative-ai]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[ground-truth-reliability-aied]]
-- [[educational-llm-alignment]]
-- [[aaai2026-prompting-literacy-k12]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[agency-gap-ai-writing]]
-- [[agent-voice-accents-k12-group-learning]]
 ## Citation
 
 Eimler, S. C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGinness, L., & Yapici, B. (2026). [The Environmental Cost of LLMs in AIED: Reporting and Practices](https://arxiv.org/abs/2606.11215).

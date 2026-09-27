@@ -66,39 +66,6 @@ Four principles carry the argument into design: reflective justification, staged
 - The argument is normative about what assessment ought to do, with no account of how institutions under efficiency and standardization pressure would resource dialogic assessment at scale.
 - Feasibility is left undifferentiated across settings — transfer to large lectures, laboratories, studios, or clinical placements is not addressed.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[ai-detection]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[academic-integrity]]
-- [[formative-assessment]]
-- [[evaluative-judgment]]
-- [[self-regulated-learning]]
-- [[critical-thinking]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[equity-in-ai-education]]
-- [[self-assessment]]
-- [[oral-assessment]]
-- [[scaffolding]]
-
-## Connected Articles
-
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: a systematic conceptual review of authentic assessment in AI-rich environments
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World
-- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — The Impact of Generative AI on Academic Integrity of Authentic Assessments Within a Higher Education Context
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk? Assessment validity reasoning and generative AI
-- [[van-vlasselaer-ai-detector-reliability-2026]] — Who wrote this? Evaluating the reliability of AI detection tools in higher education
-- [[bassett-ai-detectors-education-2026]] — Heads We Win, Tails You Lose: AI Detectors in Education
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Efficiency at what cost? Salvaging constructive alignment from the GenAI hype
-- [[sharma-judgment-visible-genai-assessment-2026]] — Educational integrity in GenAI-augmented assessment: making judgment visible
-- [[dollinger-equitable-assessment-ai-2026]] — Reimagining Success and Failure: Equitable Assessment Practices in an Age of Artificial Intelligence
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future
-- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI
-
 ## Citation
 
 Thapa, G. C., & Lewis, S. (2026). [Preserving epistemic authenticity: process-oriented assessment in the age of generative AI](https://doi.org/10.1080/02602938.2026.2736679). *Assessment & Evaluation in Higher Education*, 1-15.

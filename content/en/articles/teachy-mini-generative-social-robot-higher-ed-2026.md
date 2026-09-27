@@ -28,18 +28,6 @@ This is a **system development and preliminary evaluation study**. The [[researc
 
 ## Limitations
 The evaluation is preliminary with a small sample (N = 24), and the specific comparative [[learning-gains|learning outcomes]] are not fully detailed in the abstract. The system is built on the Reachy Mini platform, so generalizability to other robot platforms and to broader disciplinary content requires further study. The focus is on research-methodology tutoring, and longer-term effects and broader responsible-AI risks warrant additional evaluation.
-## Connected Concepts
-- [[educational-robotics]]
-- [[generative-ai]]
-- [[llm]]
-- [[higher-ed]]
-- [[intelligent-tutoring]]
-
-## Connected Articles
-- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design Requirements for GSRs
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
-- [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 ## Citation
 
 Vonschallen, S., Kaufmann, K., Oberle, D., Eyssel, F., & Schmiedel, T. (2026). [*Teachy Mini: Development and preliminary evaluation of a knowledge-based generative social robot for higher education*](https://arxiv.org/abs/2607.22345).

@@ -38,28 +38,6 @@ institutions: [educational-policy-ai, governance]
 - Clandestine use and rule clarity are self-reported in settings where students perceive AI use as prohibited, so those frequencies may be misreported in either direction.
 - The survey and thematic reflections come from one national context and one school type, leaving transfer to other educational systems untested.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[k-12]]
-- [[stem-education]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[cognitive-offloading]]
-- [[student-ai-interaction]]
-- [[prompt-engineering]]
-- [[scaffolding]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI across learners, contexts, cultures
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI learning penalty in secondary students
-- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education systematic review
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-
 ## Citation
 
 Lnenicka, M., & Coufal, P. (2026). [*Navigating AI in STEM: what secondary students actually do with generative AI-driven tools*](https://doi.org/10.1186/s40594-026-00637-8). *International Journal of STEM Education*, 13, 36.

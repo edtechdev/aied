@@ -40,30 +40,6 @@ audience: [assessment designers, instructors, institutions]
 - Markers were told in advance that some samples had GenAI input, a condition unlike normal marking that plausibly induced suspicion effects, and the design used pairwise consensus reconciliation with no third marker or moderator.
 - The six assessments sampled were all judged low in business proximity (none conducted in an actual workplace), and authenticity was mapped to two frameworks post hoc rather than varied experimentally.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[ai-detection]]
-- [[authentic-assessment]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[generative-ai]]
-- [[ai-misuse-learning-harm]]
-- [[higher-ed]]
-- [[learning-design]]
-- [[summative-assessment]]
-
-## Connected Articles
-
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Authentic assessment in the age of AI: scoping review
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes
-- [[ai-assessment-scale-reform]] — The AI Assessment Scale and the work of assessment reform
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Oral exams and AI-authentic assessment
-- [[walton-bearman-assessment-judgment-2025]] — Assessment judgment in the age of AI
-- [[end-of-assessment-ai-disruption-transformation-2026]] — The end of assessment: AI disruption and transformation
-
 ## Citation
 
 Kofinas, A. K., Tsay, C. H.-H., & Pike, D. (2025). [*The impact of generative AI on academic integrity of authentic assessments within a higher education context*](https://doi.org/10.1111/bjet.13585). *British Journal of Educational Technology*, 56(6).

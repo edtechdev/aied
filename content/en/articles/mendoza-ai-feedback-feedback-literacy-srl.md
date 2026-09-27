@@ -20,7 +20,6 @@ confidence: high
 
 ## Core Finding
 
-
 In a survey of 211 Hong Kong secondary students (Grades 7–9), Mendoza, Xiong and Yan found that all five [[technology-acceptance-model|Technology Acceptance Model]] (TAM) components (perceived usefulness, perceived ease of use, attitude, intention to use, actual use) positively predicted self-reflection. But every one of these links was **moderated by feedback sense-making**: students with stronger feedback-processing skills reported greater self-[[regulation|regulatory]] benefits from ChatGPT use, while those with weaker skills showed minimal or even negative associations.
 
 ## Design & Measures
@@ -71,33 +70,6 @@ Feedback sense-making significantly moderated each link (interactions β=.11–.
 - Cross-sectional survey of 211 secondary students (Grades 7–9, ages 12–15) in one government-funded Hong Kong school, so the moderation results cannot show that feedback literacy causes the self-regulation benefits.
 - Every construct was self-reported — acceptance, feedback sense-making, and self-reflection — with no observed revision behavior and no objective learning outcome.
 - Data were collected in October 2023, during the early, largely positive-coverage adoption period for ChatGPT, which may have inflated the acceptance associations the study reports.
-
-## Connected Concepts
-
-- [[ai-feedback-quality]]
-- [[self-regulated-learning]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[generative-ai]]
-- [[metacognition]]
-- [[k-12]]
-- [[cognitive-offloading]]
-- [[feedback-literacy]]
-
-## Connected Articles
-
-- [[ai-internal-feedback-evaluative-judgments]]
-- [[learner-centered-feedback-ai]]
-- [[ai-feedback-enactment-workflow-2026]]
-- [[repeated-ai-writing-feedback-semester]]
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[regulating-ai-tutor-adolescent-srl]]
-- [[genai-reliance-types-scale]]
-- [[genai-over-reliance-learning-2026]]
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]]
-- [[trust-reliance-ai-education-2026]]
 
 ## Citation
 

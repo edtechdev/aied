@@ -57,21 +57,6 @@ CLARA was designed around the idea that learners, educators, and AI should reaso
 - The paired agent comparison has relatively limited power to detect small effects, which is why the paper reports effect sizes throughout.
 - The rating evaluation covers 46 agent responses judged by four external raters blind to the two-condition design, and the underlying dataset is 12 sessions of 35 discussions drawn from settings as varied as child workshops and college classrooms, with session lengths from 11.9 to 137.3 minutes — a single system on a single dataset, not a cross-site replication.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[rag]]
-- [[collaborative-learning]]
-- [[generative-ai]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-## Connected Articles
-
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-- [[cyberscholar-genai-writing-feedback]]
-- [[ai-tutor-behavioral-evaluation]]
 ## Citation
 
 2026, A. (2026). [*CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy*](https://arxiv.org/abs/2605.17259)

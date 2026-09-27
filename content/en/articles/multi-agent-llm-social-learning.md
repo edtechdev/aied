@@ -47,22 +47,6 @@ The two experiments span the convergent–divergent spectrum of learning tasks (
 - Interactions were deliberately time-bounded at five-minute lessons and five-minute writing sessions, on SAT-level math problems and NYT writing prompts chosen for experimental tractability, so whether the peer-modeling and diversity benefits persist or attenuate over semester-length work is untested.
 - The two studies capture only two realizations of cognition — unassisted performance on isomorphic math problems and assisted essay quality with confidence, cognitive load, and idea diversity — and the writing study measures no learning transfer, while agent count, error types, role specializations, and interaction structure were each held fixed.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[collaborative-learning]]
-- [[scaffolding]]
-- [[writing-education]]
-- [[self-regulated-learning]]
-- [[motivation]]
-
-## Connected Articles
-
-- [[golrang-propact-pair-programming-2026]]
-- [[self-efficacy-tutoring-learning]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[humanlike-ai-collaborative-writing]]
-
 ## Citation
 
 Kumar, H., Mu, Z. K. (J.), Vincentius, J., & Anderson, A. (2026). [*Beyond the AI Tutor: Social Learning with LLM Agents*](https://arxiv.org/abs/2604.02677).

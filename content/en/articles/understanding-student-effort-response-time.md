@@ -36,17 +36,6 @@ The approach also relates to [[engagement-assessment-video]] and broader [[asses
 - The analyses are correlational; the moderation by prior proficiency and practice timing is consistent with theories of productive struggle and effort regulation, but the authors state causal interpretations are not warranted.
 - The authors note the results may not transfer to domains with heavier reading load, open-ended responses, or different classroom norms, and call for replication across domains and populations before use in adaptive decisions at scale.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[adaptive-learning]]
-- [[assessment]]
-- [[student-engagement]]
-- [[student-modeling]]
-
-## Connected Articles
-
-- [[engagement-assessment-video]]
 ## Citation
 
 Borchers, C., Zhang, L., Yang, K., Nagashima, T., & Domingue, B. W. (2026). [Understanding student effort using response-time propensities during problem solving](https://arxiv.org/abs/2605.08943).

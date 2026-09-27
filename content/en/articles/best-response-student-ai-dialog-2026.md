@@ -38,26 +38,6 @@ confidence: high
 - The account identifies a problem the framework does not yet solve: [[teacher-role|faculty]] who are philosophically unwilling to treat verified AI use as neutral, which the author describes as the place where implementation "is most honestly still in progress" and which is being addressed through brown-bag conversation rather than policy.
 - The policy was launched with the expectation that it would need revision after its first full year, and no first-year implementation data or student [[learning-gains|outcome]] evidence are presented.
 
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[ai-detection]]
-- [[authentic-assessment]]
-- [[assessment]]
-- [[ai-literacy]]
-- [[teacher-role]]
-- [[trust]]
-- [[student-experience]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[ai-tools-academic-work-cheating-2026]] — Systematic review: is AI use for academic work cheating?
-- [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity: systematic review
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI learning penalty evidence
-
 ## Citation
 
 Mandernach, B.J. (2026). [*The best response to student AI use is not detection, it is dialog*](https://doi.org/10.1080/00091383.2026.2706428). *Change: The Magazine of Higher Learning*, 58(4), 28–33.

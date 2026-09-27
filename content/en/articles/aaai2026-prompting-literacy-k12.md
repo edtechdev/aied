@@ -79,19 +79,6 @@ The lowest accuracy (Purpose, 0.85) stemmed from the auto-grader over-generating
 - Effects rest on self-report and short pre/post measures: confidence rose 10.4% (p < .001), but the 98 students who completed both pre- and post-test showed no significant change (p = .377) because of a pre-test ceiling (Mean = 4.4, SD = 1.04).
 - Reliability fell below the conventional benchmark and the assessment iteration rests on a small item pool: Cronbach's α was 0.68 for the original and 0.58 for the iterated version, which the authors attribute to small sample size and few items and flag for larger-scale administration.
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[ai-literacy]]
-- [[automated-assessment]]
-- [[k-12]]
-- [[llm]]
-- [[prompt-engineering]]
-- [[student-experience]]
-- [[digital-divide]]
-- [[formative-assessment]]
-## Connected Articles
-
 ## Citation
 
 Xiao, R., Hou, X., Tseng, Y.-J., Nieu, H., Liao, G., Stamper, J., & Koedinger, K. R. (2026). [*Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module*](https://doi.org/10.1609/aaai.v40i28.36924). AAAI.

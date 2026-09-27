@@ -41,25 +41,6 @@ The authors conducted a **three-round Delphi study** (an expert-panel consensus 
 
 The Delphi study had a modest fully-completed response rate in Round 1 (17 respondents) and was deliberately grounded in Aotearoa New Zealand, potentially limiting direct generalizability despite international participation. Under ethical approval, data could not be publicly shared to protect panel anonymity. The framework's broad, age-agnostic design means educators must adapt delivery to their specific contexts, and the authors note the field is rapidly evolving — future work should examine how emerging frameworks align with, extend, or diverge from SAIL and integrate insights across approaches. The introductory framework review was not a systematic [[meta-analysis-systematic-review|literature review]] but contextual framing.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[curriculum-design]]
-- [[scaffolding]]
-- [[digital-divide]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
-- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
-- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Development and Evaluation of AI Literacy Training for Teachers
-- [[sec-ai-literacy-narrative-review-2026]] — Social-Emotional Competence in AI Literacy
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI Literacy: Going Beyond the Skills Gap Agenda
-
 ## Citation
 
 MacCallum, K., Parsons, D., & Mohaghegh, M. (2026). [*The Scaffolded AI literacy (SAIL) framework: Results of a Delphi study for equitable AI literacy framework design in education*](https://doi.org/10.1016/j.caeai.2026.100584). *Computers and Education: Artificial Intelligence*.

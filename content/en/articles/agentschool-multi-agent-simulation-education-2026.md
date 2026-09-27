@@ -62,26 +62,6 @@ Calibration is treated as a set of alignment checks between simulated observable
 - Several educational constructs are only partially represented in the current student state: motivation, identity, and belonging are incompletely modeled.
 - The metrics and the outputs are fragile: raw node-count metrics are affected by generated graph size, and simulated outcomes may inherit bias from both the backbone models and the theoretical assumptions encoded in the simulator.
 
-## Connected Concepts
-
-- [[simulating-students]]
-- [[agentic-ai]]
-- [[sociocultural-learning]]
-- [[knowledge-graph]]
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[collaborative-learning]]
-
-## Connected Articles
-
-- [[simulating-students-diverse-cognitive-levels-2025]] — Embracing Imperfection: Simulating Diverse Cognitive Levels
-- [[simulating-students-llm-review-2026]] — Simulating Students with LLMs: A Review
-- [[valid-student-simulation-llm-2026]] — Toward Valid Student Simulation
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
-- [[history-aware-student-simulation]] — History-Aware Profiles for Student Simulation
-- [[llm-student-simulation-teacher-insights]] — Can LLMs Simulate Human Learners?
-
 ## Citation
 
 Ye, Y., Li, W., Wen, Z., Huang, Y., Hu, Y., Wei, Z., Wang, Y., Xie, X., Yang, H., Huang, Y., Li, R., Qian, H., Song, Y., Jiang, B., Li, B., Li, L., Zhang, B., Cai, P., Xu, X., Chen, S., Hu, X., He, L., Zhou, A., Qu, J., Shao, J., & Wang, X. (2026). [*AgentSchool: An LLM-powered multi-agent simulation for education*](https://arxiv.org/abs/2605.30144).

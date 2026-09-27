@@ -55,36 +55,6 @@ Twelve purposively sampled participants (nine academic developers, three learnin
 - Both sites are [[global-south|South African]] Historically Disadvantaged Institutions and the authors state the findings cannot be generalized elsewhere; masking of institutional and personal identification also means the two sites cannot be compared, even though Institution-A had begun folding AI into strategy while Institution-B's engagement was fragmented and individual-driven.
 - Only academic developers and learning designers were interviewed, so accounts of lecturers' worries and students' connectivity problems are second-hand, and the professional group is small and functionally specific.
 
-## Connected Concepts
-
-- [[global-south]] — the study's epistemic frame: situated knowledge, epistemic justice and imported technological prescriptions
-- [[equity-in-ai-education]] — the equity commitments developers held against institutional AI enthusiasm
-- [[digital-divide]] — the distributive register: connectivity, devices, budgets and digital literacy
-- [[change-management]] — the mediation of top-down digital transformation narratives into grounded practice
-- [[educational-policy-ai]] — institutional AI rhetoric loosely coupled to policy and infrastructure
-- [[governance]] — liminal institutional positioning between management imperatives and academic concerns
-- [[critical-pedagogy]] — Critical Digital Pedagogy as the study's theoretical anchor for interrogating technology
-- [[educational-development]] — the field itself: academic development as sociotechnical praxis rather than technical implementation
-- [[teacher-role]] — the shift from facilitators of reflective teaching to technological intermediaries
-- [[teacher-ai-competency]] — expertise demanded ahead of expertise held, and judgment as the target of professional learning
-- [[ai-literacy]] — developers' own emergent, collaborative and skeptical learning about AI
-- [[anxiety-and-stress]] — impostor feelings, public failure and ethical discomfort in mediation work
-- [[academic-integrity]] — the plagiarism, dependency and cognitive-outsourcing concerns developers raised with lecturers
-- [[professional-training]] — peer-learning spaces as the vehicle for practitioner development
-- [[generative-ai]] — the technology participants' accounts centered on
-- [[higher-ed]] — South African Historically Disadvantaged Institutions as the setting
-
-## Connected Articles
-
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional capacity and structural inequality as predictors of African AI integration
-- [[nguyen-genai-global-south-review-2026]] — What the Global South GenAI evidence base does and does not cover
-- [[chick-faculty-development-ethical-ai-2026]] — Faculty development for ethical AI integration at a US institution
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — Faculty identity disruption as generative AI enters teaching
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated ethics for AI in higher education
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Critical AI literacy as a reorientation of practice
-- [[universities-ai-era-rethinking]] — Rethinking the university's purpose under AI-driven transformation
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Governance responses to AI in higher education institutions
-
 ## Citation
 
 Sithole, M. P. (2026). [*Beyond the algorithm: academic developers as digital mediators in Global South higher education*](https://doi.org/10.1080/1360144X.2026.2726310). *International Journal for Academic Development*, advance online publication.

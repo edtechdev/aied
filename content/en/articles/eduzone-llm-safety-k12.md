@@ -40,24 +40,6 @@ EduZone is an automated evaluation framework that probes LLM safety in K-12 educ
 - Scenario plausibility was screened by three LLM judges rather than by humans, and the pool was narrowed from 6,188 candidate scenarios to 2,639; human annotation appears only as a reliability check (two annotators, Cohen's κ of 0.82-0.83).
 - The defense evaluation used a stratified 10 percent sample of 260 scenarios, not the full scenario set, so the reported attack-success reductions rest on a subset of the framework's interactions.
 
-## Connected Concepts
-
-- [[pedagogical-safety]]
-- [[pedagogical-llm-training]]
-- [[educational-policy-ai]]
-- [[ethics]]
-- [[benchmark]]
-- [[k-12]]
-- [[governance]]
-## Connected Articles
-
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring
-- [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators
-- [[drawedumath-vlm-struggling-students-2026]] — Educational VLM Evaluation
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
-
 ## Citation
 
 Junyeong Park, Jieun Han, Haneul Yoo, So-Yeon Ahn, Jinsung Yoon, Alice Oh (2026). [EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers](https://arxiv.org/abs/2608.02024). arXiv (cs.CY / cs.AI) preprint.

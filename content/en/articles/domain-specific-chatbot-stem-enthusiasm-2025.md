@@ -60,34 +60,6 @@ The authors argue that domain-specific [[discipline-specific-aied|custom chatbot
 - The study analyzed validated educational constructs rather than usage metrics, and the authors acknowledge that detailed interaction patterns would have given complementary insight into how students actually used the chatbot.
 - Novelty effects cannot be entirely ruled out, though the authors note that the situational interest finding suggests effects extending beyond mere technological curiosity.
 
-## Connected Concepts
-
-- [[stem-education]] — the subject domain the chatbot ADA was customized for
-- [[math-education]] — secondary mathematics as the intervention context and learning content
-- [[rct]] — cluster-randomized controlled trial design in authentic classrooms
-- [[technology-acceptance-model]] — framework used to measure acceptance of ADA, with high scores on all constructs
-- [[personalized-learning]] — the promise of tailored, real-time support that motivated the chatbot design
-- [[socratic-method]] — ADA's questioning strategy in place of direct answers
-- [[rag]] — retrieval-augmented generation used to ground ADA in curated curriculum content
-- [[prompt-engineering]] — iterative system-prompt refinement for accuracy and age appropriateness
-- [[motivation]] — situational interest and emotional responses as the affective outcome cluster
-- [[student-engagement]] — situational interest as the one clearly significant affective gain
-- [[cognitive-offloading]] — the small non-significant increase in intrinsic and extrinsic load
-- [[transfer-of-learning]] — the optimization and transfer subtasks that separated the groups descriptively
-
-## Connected Articles
-
-- [[hashmi-socratic-physics-chatbot-2025]] — domain-specific Socratic chatbot in physics education
-- [[lnenicka-secondary-students-genai-stem-2026]] — secondary students using generative AI in STEM settings
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — affective outcomes of an AI mathematics tutoring system
-- [[mathematics-teachers-chatbot-motivation-2026]] — chatbot use and motivation in mathematics teaching
-- [[chatbot-engagement-genai-competency-emotion-2026]] — chatbot engagement alongside emotion and competence measures
-- [[akbaba-nursing-ai-experiences-tam-2026]] — technology acceptance of an AI chatbot in another discipline
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — student self-regulation while working with a generative AI chatbot
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — chatbot intervention targeting student motivation
-- [[ai-metacognition-stem-review]] — review of AI support for learning in STEM contexts
-- [[physics-chatbot-epistemological-beliefs-2026]] — chatbot effects on epistemological beliefs in a science domain
-
 ## Citation
 
 Rücker, C. R., & Becker-Genschow, S. (2025). [Enhancing Enthusiasm for STEM Education with AI: Domain-Specific Chatbot as Personalized Learning Assistant](https://doi.org/10.1016/j.caeo.2025.100315). *Computers and Education Open, 9*, 100315.

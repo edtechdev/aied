@@ -51,29 +51,6 @@ Two findings resist synthesis. Trust in AI correlated positively with AI literac
 - Only one instrument in the review is performance-based and appeared in just two studies, so that comparison rests on a thin base.
 - The correlations are bivariate and not causal, and narrow age ranges (means 21.4 to 33.3 years) may hide age effects.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[educational-development]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[anxiety-and-stress]]
-- [[self-regulated-learning]]
-- [[student-engagement]]
-- [[educational-measurement]]
-- [[assessment-validity]]
-- [[meta-analysis-systematic-review]]
-- [[critical-thinking]]
-
-## Connected Articles
-
-- [[ai-literacy-assessment-misalignment]] — How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures
-- [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Measuring Acceptance of Age-Tiered AI Literacy Guidebooks: A Developmentally Informed Study of K-12 Students and Teachers
-- [[critical-media-literacy-education-2026]] — Technology, Education and Critical Media Literacy: Potential, Challenges, and Opportunities
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI Literacy Interventions in Education: A Meta-Analysis of Effects and Moderators
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for artificial intelligence literacy through a self-determination theory perspective
-
 ## Citation
 
 Bewersdorff, A., Nerdel, C., & Zhai, X. (2025). [*How AI literacy correlates with affective, behavioral, cognitive and contextual variables: A systematic review*](https://doi.org/10.1016/j.caeai.2025.100493). *Computers and Education: Artificial Intelligence*, 9, 100493.

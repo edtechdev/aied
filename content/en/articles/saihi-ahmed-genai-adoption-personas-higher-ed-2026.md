@@ -53,26 +53,6 @@ This article provides an empirical, person-centered complement to the knowledge 
 - Data came from a single cross-sectional Qualtrics survey of self-reported perceptions and intentions; the authors note this limits causal inference and leaves the findings open to common method and subjective bias.
 - Participants used whichever GenAI chatbot they already used (ChatGPT the most commonly reported), so platform differences in functionality, conversational quality, and interface design are mixed into the cluster structure.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[higher-ed]]
-- [[technology-acceptance-model]]
-- [[trust]]
-- [[student-experience]]
-- [[conversational-ai]]
-- [[ai-literacy]]
-- [[human-ai-collaboration]]
-- [[ethics]]
-- [[teacher-role]]
-- [[student-ai-interaction]]
-
-## Connected Articles
-
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[acceptance-ai-english-tools-2026]]
-- [[enright-staff-perspectives-genai-2026]]
-
 ## Citation
 
 Saihi, A., & Ahmed, V. (2026). [*Uncovering adoption personas for generative AI in higher education: a clustering-based segmentation approach*](https://doi.org/10.1186/s41239-026-00583-z). *International Journal of Educational Technology in Higher Education*.

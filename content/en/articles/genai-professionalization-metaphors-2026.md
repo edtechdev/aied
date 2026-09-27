@@ -38,19 +38,5 @@ confidence: high
 - The analyzed groups differ in level — a graduate course versus first-year undergraduates — so observed cohort differences may reflect contextual and linguistic factors rather than differences related to professional practice.
 - Coding relied on collaborative efforts within the coder team to establish negotiated agreement; no independent inter-rater reliability statistic is reported for the metaphor categories.
 
-## Connected Concepts
-- [[generative-ai]]
-- [[learner-identity]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[professional-training]]
-- [[career-development-and-readiness]]
-- [[ai-literacy]]
-
-## Connected Articles
-- [fear-awe-genai-metaphor-workshops-2025] — making sense of GenAI through metaphor workshops
-- [genai-use-usefulness-student-experience-australia-2026] — student experience of GenAI usefulness
-- [lodge-adaptive-capabilities-genai-future-2026] — adaptive capabilities for a GenAI-integrated future
-
 ## Citation
 Bohmer, A., Dillig, M., Andronache, D.-C., Beshlei, O., Bolaji, S., Isso, I., Kovaliuk, Y., Mason, J., Laza Medina, A., Stanescu, M.-H., & Yaroshenko, O. (2026). [Conceptualizations of GenAI and students' professionalization: Within the multi-layered environment of learning for higher education](https://doi.org/10.1016/j.caeai.2026.100636). *Computers and Education: Artificial Intelligence, 11*, 100636.

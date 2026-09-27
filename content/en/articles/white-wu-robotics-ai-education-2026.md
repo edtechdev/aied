@@ -59,22 +59,6 @@ The ethical and equity dimensions are the least adequately addressed. Schiff (20
 - It reports no primary data and no meta-analysis; field-level trend claims — for instance that most studies run four weeks or fewer with learners under 13 — rest on secondary reviews such as Chu et al. (2022) rather than on the authors' own coding of primary studies.
 - Its conclusions inherit the limits the review itself documents for the field — geographically concentrated, short-term, performance-metric-heavy research — so the recommendations describe what the current evidence base can support, not measured effects for any specific implementation.
 
-## Connected Concepts
-- [[educational-robotics]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[equity-in-ai-education]]
-- [[teacher-ai-competency]]
-- [[governance]]
-- [[educational-development]]
-- [[learning-analytics]]
-
-## Connected Articles
-
-- [[liang-genai-systematic-review-human-ai-2026]]
-- [[raza-farooq-aied-review-2020-2025]]
-
 ## Citation
 
 White, A. R., & Wu, Z. (2026). [*Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions*](https://doi.org/10.35542/osf.io/ebyhj_v1). EdArXiv. doi:10.35542/osf.io/ebyhj_v1.

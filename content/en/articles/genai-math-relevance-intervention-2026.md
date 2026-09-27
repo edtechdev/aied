@@ -60,34 +60,6 @@ The proposed mechanism links [[student-engagement|engagement]] and [[motivation]
 - **Design and measures.** Clustering by class is unmodelled given three clusters, the measures are [[self-report-measures|self-report]], only one Chinese system was used, and the interviews deliberately contrasted extreme and typical cases, which leaves moderate performers unexamined.
 - **Horizon.** The two-week window says nothing about longer persistence, so the study's contribution is a correction to the design of AI-assisted relevance work rather than a demonstration that [[conversational-ai|conversational AI]] reliably raises interest in a school subject.
 
-## Connected Concepts
-
-- [[motivation]] — relevance as a pivotal motivational construct and the paper's outcome of interest
-- [[student-engagement]] — the engagement state relevance is expected to feed, and the interest development it did not
-- [[self-efficacy]] — collected as a prior covariate and measured at a notably low baseline
-- [[generative-ai]] — used here as a dialogue partner for building identity-based relevance
-- [[conversational-ai]] — the real-time, personalized dialogue capability that motivated the intervention
-- [[pedagogical-agent]] — the AI cast in a guided, semi-structured instructional role within a researcher-authored script
-- [[math-education]] — trigonometry as the content and relevance to math as the target outcome
-- [[k-12]] — second-year high school students aged 15 to 17 in a vocational track
-- [[student-ai-interaction]] — the chat exchanges and the stimulated-recall interviews about them
-- [[personalized-learning]] — the personalization hypothesis that the results undercut
-- [[transfer-of-learning]] — generalization of relevance from math in general to a specific lesson a week later
-- [[mixed-methods-research]] — quantitative-then-qualitative sequencing built to explain an unexpected result
-
-## Connected Articles
-
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value relevance interventions repurposed for responsible GenAI use
-- [[llm-cultural-relevance-k12]] — Making learning content culturally relevant to K-12 students
-- [[taklif-ai-interest-based-personalized-assignments]] — Personalized assignments keyed to student interests
-- [[mathematics-teachers-chatbot-motivation-2026]] — Chatbots and motivation in mathematics classrooms
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Affective math tutoring, the motivational counterpart to relevance framing
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Need satisfaction and motivation when students work with GenAI
-- [[genai-motivation-engagement-2026]] — Broader evidence on GenAI, motivation and engagement
-- [[student-ai-conversations-cognitive-engagement-2026]] — What students actually do inside AI conversations
-- [[mindful-llm-math-tutoring-2026]] — Design choices in LLM math tutoring that shape learning
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Motivation and engagement outcomes in a GenAI writing intervention
-
 ## Citation
 
 Guo, Z., Fryer, L. K., & Shum, A. (2026). [*Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention*](https://doi.org/10.31234/osf.io/srxga_v1). *PsyArXiv Preprints*.

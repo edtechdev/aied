@@ -8,7 +8,6 @@ pedagogy: [motivation, self-regulated-learning]
 technology: [generative-ai]
 methods: [mixed-methods-research]
 ethics: [ai-misuse-learning-harm]
-connected_faqs: [reducing-over-reliance]
 audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/10.3389_fpsyg.2026.1847369.md']
@@ -43,23 +42,6 @@ The study employed a mixed-method design combining three-wave time-lagged survey
 - The sample is drawn from Chinese university students, bounding generalizability.
 - Polychronicity and the AI-literacy/AI-evaluation constructs rely on self-report operationalizations.
 - The qualitative strand, while informative, is limited to educator perspectives and does not directly capture students' behavioral mechanisms.
-
-## Connected Concepts
-
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[ai-misuse-learning-harm]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[ai-autonomous-learning-accomplishment-2026]] — AI-Assisted Autonomous Learning and Reduced Academic Accomplishment
-- [[ai-use-critical-thinking-medical-students-2026]] — From AI Use to Critical Thinking Among Medical Students
-- [[lodge-loble-cognitive-offloading-2026]] — Artificial Intelligence, Cognitive Offloading and Implications for Learning
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains From Learning When Using Generative AI
-- [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass: Mapping Divergent Pathways of Use
 
 ## Citation
 

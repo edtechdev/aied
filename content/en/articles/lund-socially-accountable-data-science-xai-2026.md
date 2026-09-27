@@ -12,7 +12,6 @@ discipline: [cs education]
 page_kind: [framework]
 confidence: low
 sources: ['raw/papers/lund-socially-accountable-data-science-xai-2026.md']
-connected_faqs: [incorporating-ai-literacy, equity-ethics-pedagogical-safety-research]
 institutions: [governance]
 ---
 
@@ -58,28 +57,6 @@ This is a [[research-methods-aied|narrative synthesis]] rather than a systematic
 - Not evaluated in a classroom: the authors present a conceptual paper and call for piloting these strategies in real courses.
 - The discussion scenario is a hypothetical composite built from documented patterns of harm, not a reported case.
 - The synthesis is narrative, not systematic, so coverage is argument-driven rather than reproducible.
-
-## Connected Concepts
-
-- [[explainable-ai]] — the technique layer the framework asks students to practice rather than merely name
-- [[ethics]] — the normative content, here given curricular machinery
-- [[curriculum-design]] — where the four pillars are meant to be embedded
-- [[cs-education]] — the program context the framework targets
-- [[critical-thinking]] — reflexivity and the interrogation of one's own assumptions
-- [[bias-mitigation]] — the harm the responsibility and reflexivity pillars are meant to catch
-- [[governance]] — the institutional and regulatory layer of the enforcement pillar
-- [[ai-literacy]] — the broader competence this framework specializes for AI builders
-
-## Connected Articles
-
-- [[xai-education-framework]] — a framework for explainable AI in education
-- [[cost-of-ethics-crisis-cs-ethics-education]] — the cost of the ethics crisis in CS ethics education
-- [[ai-ethics-education-public-discourse]] — AI ethics education and public discourse
-- [[ai-ethics-bibliometric-2026]] — bibliometric mapping of AI ethics research
-- [[fair-explainable-edu-recommendations]] — fairness and explainability in educational recommendations
-- [[xai-teachers-trust-edtech-recommendations-2026]] — XAI and teacher trust in edtech recommendations
-- [[agarwal-ethical-values-norms-aied-2026]] — ethical values and norms in AI in education
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — ethical dimensions of AI in higher education
 
 ## Citation
 

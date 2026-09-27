@@ -7,7 +7,6 @@ foundations: [agency, critical-thinking]
 pedagogy: [self-regulated-learning, transfer-of-learning]
 technology: [generative-ai, rag]
 assessment: [feedback]
-connected_faqs: [ai-feedback-at-scale]
 research_method: [experiment]
 level: [higher ed]
 sources: ['raw/papers/genai-feedback-design-multisite-experiment.md']
@@ -75,23 +74,6 @@ g revision.**
 - [[self-regulated-learning|Self-regulated learning]] rested substantially on self-report (a 12-item task-specific scale, McDonald's ω = .88) blended with LMS trace indicators, and feedback uptake was a four-indicator construct.
 - Argument-quality gains faced ceiling-related constraints on dimensions where drafts were already strong, which the authors addressed only through a supplementary baseline-adjusted final-score sensitivity model.
 - The 48-section cluster-randomized design assumed an intraclass correlation of .05 and was powered to detect effects of d = .25 and above, so smaller differences between conditions are not resolvable.
-
-## Connected Concepts
-
-- [[generative-ai]]
-- [[higher-ed]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[feedback]]
-- [[peer-assessment]]
-- [[transfer-of-learning]]
-
-## Connected Articles
-
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
 
 ## Citation
 

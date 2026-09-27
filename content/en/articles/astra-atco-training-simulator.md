@@ -32,23 +32,6 @@ ASTRA uses autonomous AI sim-pilots for scalable air traffic control training, r
 - The simulator supports only predefined scenarios; instructor live-editing of scenarios and adaptive scenario generation are described as future work rather than evaluated.
 - All reported evaluations are component-level (word error rate, mean opinion score, evaluator alignment) — no trainee cohort was run, so gains in learning or transfer, and comparison against a human simpilot baseline, remain open.
 
-## Connected Concepts
-
-- [[simulation]]
-- [[professional-training]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[active-learning]]
-
-## Connected Articles
-
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation
-- [[medeasy-ai-standardized-patients]] — MedEasy: Designing AI Standardized Patients for Clinical Consultation Training
-- [[ai-psychotherapy-training-avatars]] — Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars
-- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
-- [[curiobot-llm-tutoring-exploratory-learning]] — Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior
-- [[ai-vocational-education-training-review]] — Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness
-
 ## Citation
 
 Ethan Chew, Enjia Wu, Iruss Eng Wei Yeow, Ian Weiqin Lim, Ranen Sim, Brandon Koh Ziheng, Kaleb Nim, Caden Toh Jun Yi, Wei Dong Soin, Darius Kai Keat Koh, Galen King Yu Tay, Prannaya Gupta, Jonathan Ee Fang Koong, Yong Zhi Lim (2026). [ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots](https://arxiv.org/abs/2606.18319).

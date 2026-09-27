@@ -32,16 +32,6 @@ The study speaks to the [[cognitive-offloading]] and [[cognitive-offloading|Over
 - All participants were first-year engineering students in one course at Universitat Pompeu Fabra, Barcelona, and no demographic data were collected, so the authors warn that generalization to other disciplines, educational levels and cultural contexts is unestablished.
 - The design is quasi-experimental, with conditions assigned by class schedule rather than individually randomized, and students could use GenAI as they personally saw fit between the initial session and the five-week measurement, leaving that independent use uncontrolled.
 
-## Connected Concepts
-
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[experiential-learning]]
-- [[ai-literacy]]
-## Connected Articles
-
-- [[ai-metacognition-stem-review]]
 ## Citation
 
 Benazet i Montobbio, P., Rotter, J., & Hernández-Leo, D. (2026). [Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning](https://arxiv.org/abs/2607.20047). arXiv preprint (cs.CY/cs.HC).

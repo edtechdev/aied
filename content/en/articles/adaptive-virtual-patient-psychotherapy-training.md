@@ -30,27 +30,6 @@ sources: ['raw/papers/2606.10051.md']
 - Both the adaptive and the static systems used the same underlying large language model, so the authors frame the contribution as the architectural separation of behavioral state from language generation — the state-output alignment figures specifically may shift with other model families.
 - The dynamics module is parameterized from a single psychotherapy corpus and carries that corpus's distribution of therapist-client behavior forward, so the authors warn that deployment in populations under-represented in the corpus may produce dynamics that do not match real interaction patterns; the framework is also unvalidated in any second domain, and the deployed 3:1 exploration weight is an integer approximation of the SEM-implied ratio rather than an optimized parameter (the ablation indicates the optimum exceeds 3:1).
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[simulation]]
-- [[professional-training]]
-- [[adaptive-learning]]
-- [[feedback]]
-- [[student-modeling]]
-- [[scaffolding]]
-- [[affective-computing]]
-- [[multimodal]]
-## Connected Articles
-
-- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
-- [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
-- [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
-- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
-- [[ai-psychotherapy-training-avatars]] — AI psychotherapy training via realistic avatars
-
 ## Citation
 
 Chen, A., Jin, S., Bao, C., Wang, C., Kraut, R. E., Wu, T., & Zhu, H. (2026). [*The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist Micro-Skills*](https://arxiv.org/abs/2606.10051).

@@ -49,23 +49,6 @@ This paper extends the knowledge base's coverage of [[automated-essay-scoring]] 
 - Evaluation rests on a single public benchmark, ASAP 2.0 (approximately 24,000 argumentative essays, about 17,000 used for training, on a 1–6 scale), and the authors state results should be interpreted within that setting rather than as evidence of cross-dataset or cross-domain generalization; no macro-averaging across prompts was applied.
 - The pipeline is offline, not deployed: the authors describe it as an offline reward-guided training pipeline rather than a teacher-in-the-loop or real-time human feedback system, and the SimCSE metric measures semantic consistency of LLM-generated proxy feedback, not human-level feedback quality.
 
-## Connected Concepts
-
-- [[automated-essay-scoring]]
-- [[automated-assessment]]
-- [[assessment]]
-- [[llm]]
-- [[generative-ai]]
-- [[human-in-the-loop-ai]]
-- [[assessment-validity]]
-- [[feedback]]
-
-## Connected Articles
-
-- [[llms-do-not-grade-essays-like-humans-2026]]
-- [[ai-assisted-instructor-supervised-grading-feedback]]
-- [[ai-generated-feedback-higher-ed]]
-
 ## Citation
 
 Zhang, Z., Ding, Z., Liu, M., & Sang, H. (2026). [*RACES: reward-aligned consistent essay scoring with large language models*](https://doi.org/10.1186/s41239-026-00607-8). *International Journal of Educational Technology in Higher Education*.

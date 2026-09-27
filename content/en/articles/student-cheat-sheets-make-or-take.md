@@ -37,25 +37,6 @@ audience: [instructors, assessment designers]
 - No artifact-level comparison: the study recorded how students reasoned about the options, not what the two sheet types actually contained, so overlap in content, organization, information density, and exam alignment is unknown.
 - AI-supported cheat-sheet creation was not examined, and no student in the data identified AI as a reason for choosing instructor-provided over self-created sheets.
 
-## Connected Concepts
-
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[authentic-assessment]]
-- [[assessment]]
-- [[formative-assessment]]
-- [[cognitive-offloading]]
-- [[desirable-difficulties]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[student-experience]]
-## Connected Articles
-
-- [[adaptive-pretesting-retention]]
-- [[learnopt-exam-cognitive-structure]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]]
-- [[cognitive-offloading-llm-synthesis-writing]]
 ## Citation
 
 Helen Weixu Chen, Victoria Sakhnini, Lesley Istead (2026). [Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets](https://arxiv.org/abs/2607.24736).

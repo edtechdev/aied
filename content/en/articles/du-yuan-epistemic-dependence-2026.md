@@ -70,33 +70,6 @@ This review converges with several existing threads. It resonates with [[reclaim
 - The field moves faster than the search cutoff, and several cited works are preprints, editorials, or conference papers whose status and arguments may change after publication.
 - The framework abstracts across systems and disciplines that differ in retrieval, provenance, personalization, and governance, and no datasets were generated or analyzed: the six criteria are diagnostic questions, not a validated psychometric scale.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[agency]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[trust-calibration]]
-- [[human-in-the-loop-ai]]
-- [[theory-development-aied]]
-- [[ethics]]
-- [[equity-in-ai-education]]
-- [[academic-integrity]]
-- [[cognitive-surrender]]
-
-## Connected Articles
-
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Ecological Co-Agency Framework and human epistemic accountability (Poudyal 2026)
-- [[pearls-epistemic-verification-2026]] — PEARLS framework for artifact-level verification of AI output (Wang 2026)
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Toward a theory of epistemic co-agency (Samuel 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender
-- [[andragogy-cognitive-delegation-genai-2026]] — Cognitive delegation in GenAI-mediated adult learning
-- [[genai-over-reliance-learning-2026]] — Dual-pathway model of GenAI use and over-reliance (Gao, Sun & Khan 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Calibration training for optimal cognitive offloading (Ngai & Gilbert 2026)
-- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading (Guo & Ye 2026)
-- [[vibe-compiler-metacognition-genai-agency-2026]] — Synthesis-Analysis Reciprocity Model preserving epistemic agency
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Co-occurrence network analysis of cognitive-offloading prompt patterns
-
 ## Citation
 
 Du, Y., & Yuan, Y. (2026). [*Epistemic dependence in AI-mediated learning*](https://doi.org/10.1007/s00146-026-03294-1). *AI & Society*.

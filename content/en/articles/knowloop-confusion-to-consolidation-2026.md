@@ -57,24 +57,6 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 - This is an exploratory qualitative experience study, not a controlled comparison against a no-AI condition or a general-purpose chatbot.
 - Individual differences in metacognitive ability were not assessed, though the authors expect them to shape confusion-marking behavior and workflow engagement.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[desirable-difficulties]]
-- [[higher-ed]]
-- [[learning-by-teaching]]
-- [[personalized-learning]]
-- [[scaffolding]]
-- [[student-experience]]
-- [[metacognition]]
-- [[active-learning]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-
-## Connected Articles
-
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-
 ## Citation
 
 Fang, M., & Reidsma, D. (2026). [*From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review*](https://doi.org/10.1145/3816046.3816288). In *ACM Conversational User Interfaces 2026 (CUI '26)*, Bremen, Germany.

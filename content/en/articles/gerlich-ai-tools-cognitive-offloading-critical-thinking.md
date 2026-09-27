@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 methods: [mixed-methods-research]
 ethics: [digital-divide, trust]
-connected_faqs: [reducing-over-reliance]
 audience: [learners]
 level: [adult learning, higher ed]
 sources: ['raw/papers/gerlich-ai-tools-cognitive-offloading-critical-thinking.md']
@@ -39,26 +38,6 @@ confidence: medium
 - The 666 UK participants were recruited by convenience and purposive sampling; the author names potential sample bias as a limitation and cautions against broad generalization.
 - The design is cross-sectional and correlational: mediation is modeled statistically, not manipulated, so the author calls for longitudinal and experimental work before causal claims about AI eroding critical thinking.
 - Even the best-fitting random forest model accounted for 37% of the variance in critical thinking (R² = 0.370), leaving most of the outcome unexplained by AI use and offloading.
-
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-- [[digital-divide]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[trust]]
-
-## Connected Articles
-
-- [[lodge-loble-cognitive-offloading-2026]] — Artificial intelligence, cognitive offloading and implications for education
-- [[cognitive-offloading-speedup-illusion]] — The cognitive offloading speedup illusion
-- [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading and LLM synthesis/writing
-- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion and AI over-reliance
-- [[ai-making-us-stupid]] — Is AI making us stupid?
-- [[genai-over-reliance-learning-2026]] — GenAI over-reliance and learning
-- [[ai-use-critical-thinking-medical-students-2026]] — AI use and critical thinking in medical students
 
 ## Citation
 

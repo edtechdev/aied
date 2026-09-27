@@ -50,22 +50,6 @@ The paper proposes two foundational dimensions — rethinking [[pedagogy|pedagog
 - Its seven embodied design principles are proposals; the authors state that implementation requires material, institutional, and formative conditions often lacking in educational settings, and warn that the gap could deepen existing inequities in access and participation.
 - The embodiment technologies invoked are immature — the authors note that NAO's programming environment still lacks flexibility in unpredictable scenarios — so the sensors, robotics, and extended-reality ecosystems the framework needs are aspirational rather than available.
 
-## Connected Concepts
-
-- [[embodied-learning]]
-- [[critical-thinking]]
-- [[human-ai-collaboration]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[learning-theories]]
-
-## Connected Articles
-
-- [[ensemble-cognition-philosophy-ai-education]] — Toward a philosophy of ensemble cognition
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — Embodied Inquiry with AI as Facilitator
-- [[cognitive-commons-ai-expertise-regeneration]] — The Tragedy of the Cognitive Commons
-- [[ai-making-us-stupid]] — Is AI making us stupid?
-
 ## Citation
 
 Videla, R., Penny, S., & Ross, W. (2026). [*"If You Can't Dance Your Program, You Can't Write It": Challenges and Implications for AI in Education*](https://doi.org/10.1145/3759257). ACM Transactions on Computing Education, 26(3), Article 43.

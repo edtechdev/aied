@@ -39,23 +39,6 @@ page_kind: [evaluation]
 - There was no pretest, so group equivalence was never established; deep learning was measured only at posttest with median (IQR) summaries and Mann–Whitney U tests in a two-cluster design.
 - Qualitative corroboration comes from interviews with three science teachers — a small, non-independent source relative to the student outcome data.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[stem-education]]
-- [[k-12]]
-- [[ai-education]]
-- [[formative-assessment]]
-- [[feedback]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — AI-powered personalized learning for elementary fractions
-- [[adapt-adaptive-lesson-plan-transformer]] — Adaptive lesson plan generation
-- [[generative-ai-reduced-study-time-math]] — GenAI and reduced study time in math
-
 ## Citation
 
 Bin Bakheet, T., Alamri, H., & Alshaya, F. (2026). [*Developing deep learning in science through an adaptive AI-based STEM instructional program: evidence from sixth-grade classrooms*](https://doi.org/10.1186/s40594-026-00630-1). *International Journal of STEM Education*, 13, 35.

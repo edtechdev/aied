@@ -46,22 +46,6 @@ methods: [qualitative-research]
 - The evaluation rubric collapsed two EDBL stages ("proposing solutions" and "choosing the best solution") into a single rating category to fit the structure of the AI output, so the finer-grained process steps of the model the study uses as its benchmark were not separately assessed.
 - Prompt language and translation are a confound the authors flag: prompts were standardized in English after Turkish prompts failed, and the plans were translated for evaluation, a process documented and named as a limitation of the study.
 
-## Connected Concepts
-
-- [[science-education]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[teacher-education]]
-
-## Connected Articles
-
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]] — ChatGPT-assisted lesson planning in STEAM arts education
-- [[civic-education-ai-lesson-plans]] — AI-generated lesson plans in civic education
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in lesson planning
-- [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing teacher digital competence for GenAI curriculum design
-- [[avraamidou-ai-colonization-science-education]] — Critical commentary on AI colonization of science education
-
 ## Citation
 
 Karaismailoglu, F., Surmeli, H., & Yildirim, M. (2026). [Suitability of Artificial Intelligence Supported Lesson Plans from the Perspective of Science Education Experts](https://doi.org/10.1007/s10956-026-10342-4). *Journal of Science Education and Technology*.

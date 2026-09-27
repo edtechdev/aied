@@ -31,21 +31,6 @@ Examines AI-powered personalized [[learning-gains|learning]] in elementary fract
 - The comparison group was fourth graders while the Mathbot group was fifth graders, so developmental differences in mathematical reasoning confound the group comparison.
 - Situational interest was self-reported, with social desirability and recall bias possible, and Mathbot's black-box design prevents identifying which of its features produced any effect; the study also ran in one suburban southeastern U.S. school with a single AI tool.
 
-## Connected Concepts
-- [[early-childhood-elementary-ai-education]]
-- [[math-education]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[student-engagement]]
-- [[educational-development]]
-## Connected Articles
-
-- [[epistemic-proactivity-math]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-
 ## Citation
 
 Kenneth Holman (2024). [Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning](https://arxiv.org/abs/2608.04892). PhD dissertation, University of Central Florida.

@@ -47,20 +47,6 @@ page_kind: [evaluation]
 - Dimension 2 results come from self-reported four-point Likert scales without established baseline equivalence; the authors caution that the perceived benefits for mathematics and the arts are perceptions, not direct evidence of learning.
 - Nine one-hour sessions in April–May 2025 constitute a short intervention in a limited number of institutions, which the authors say restricts conclusions about longer-term retention and transfer to authentic classroom practice.
 
-## Connected Concepts
-
-- [[teacher-education]]
-- [[cs-education]]
-- [[educational-robotics]]
-- [[computational-thinking]]
-
-## Connected Articles
-
-- [[llm-automated-grading-programming-comparison-2026]] — LLM grading in programming education
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — AI in preservice teacher development
-- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK in mathematics teacher education
-
 ## Citation
 
 Sáez-López, J.-M., García-Jiménez, A.-S., & de Lara García-Cervigón, S. (2026). [*Coding, robots, computational concepts, and machine learning using the microbit card and the Maqueen and Nezha kits. A study in initial teacher training*](https://doi.org/10.1016/j.caeo.2026.100366). *Computers and Education Open*, 100366. https://doi.org/10.1016/j.caeo.2026.100366

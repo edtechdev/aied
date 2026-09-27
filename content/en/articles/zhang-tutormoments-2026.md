@@ -19,7 +19,6 @@ methods: [ai-ed-evaluation, benchmark]
 
 ## Core Finding
 
-
 ## Key Findings
 
 - **Frontier models default to over-helpfulness.** Minimally prompted LMs frequently over-scaffold and miss rigor-pushing opportunities — consistent with post-training that rewards helpfulness over contextually appropriate challenge.
@@ -47,26 +46,6 @@ This paper reframes the core evaluation question for AI tutors: **not "does the 
 - **Narrow data scope.** 462 text-only math tutoring transcripts covering 198 students in grades 2–7 and 173 human tutors, of which only 122 transcripts were annotated; other subjects and non-text modalities are not represented.
 - **Replay with an oracle student and subjective labels.** The synthetic student reproduces the human student's turns rather than reacting independently, and the ground-truth labels are derived from aggregated free-text teacher annotations whose scope the authors themselves flag as a source of disagreement.
 - **Privileged information in the scoring pipeline.** The LM generates its situation-action-result descriptions conditioned on teachers' scaffolding- and rigor-appropriateness recommendations, so pipeline accuracy is measured under conditions a deployable scorer would not have.
-
-## Connected Concepts
-
-- [[math-education]]
-- [[k-12]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[sociocultural-learning]]
-- [[desirable-difficulties]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
-- [[learning-gains]]
-
-## Connected Articles
-
-- [[lak2026-hint-button-unproductive-use]] — Unproductive hint-button use in intelligent tutoring
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Affect-aware math tutoring
 
 ## Citation
 

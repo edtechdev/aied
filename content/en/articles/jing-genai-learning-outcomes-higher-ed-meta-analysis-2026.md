@@ -59,21 +59,6 @@ Moderation analysis showed that context, not the tool alone, decides the size of
 - Outcome measures come from the original studies and are mostly short-term standardized tests, which may miss deeper competencies such as innovative thinking and lifelong learning, and the 2022 to 2024 window captures only early-stage GenAI use.
 - Risks that the effect sizes do not capture, including over-reliance, weakened [[critical-thinking|critical thinking]], hallucinations, data privacy and inequitable access to high-cost tools, fall outside the pooled estimates.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[meta-analysis-systematic-review]]
-- [[problem-solving]]
-- [[critical-thinking]]
-- [[self-directed-learning]]
-- [[equity-in-ai-education]]
-## Connected Articles
-
-- [[ai-education-effects-second-order-meta-analysis-2026]] — a second-order meta-analysis pooling earlier AI-in-education meta-analyses, which supplies the wider reference range for the effect sizes reported here.
-- [[zhao-genai-higher-order-thinking-meta-2026]] — a meta-analysis of GenAI's effects on higher-order thinking, complementing this page's professional skills dimension.
-- [[genai-educational-outcomes-meta-analysis]] — a comprehensive GenAI outcomes meta-analysis comparing traditional and AI-driven approaches, useful for checking whether these pooled estimates agree.
-- [[flipped-learning-genai-design-education-2026]] — a course-level study of flipped learning with GenAI, the classroom design that produced this meta-analysis's strongest academic performance estimate.
-
 ## Citation
 
 Jing, Yuhui; Wang, JunYi; Wang, PeiJun; Xu, Jun. (2026). *[The Impact of Generative Artificial Intelligence on Learning Outcomes in Higher Education: A Meta-Analysis](https://doi.org/10.1002/jcal.70329)*. Journal of Computer Assisted Learning, 42, e70329. https://doi.org/10.1002/jcal.70329

@@ -55,30 +55,6 @@ Qualitatively, participants reported that the activities helped them understand 
 - The AI literacy scale's post-test reliability was poor (α = 0.557) and complete-case analysis shrank the analytic samples (degrees of freedom of 41, 44, 42, and 35 rather than the full roster), reducing measurement sensitivity and statistical power.
 - The qualitative component relied on reflective self-evaluation forms and therefore captures perceived engagement rather than measured skill, and the sustainability competencies the framing invokes were not directly measured at all.
 
-
-## Connected Concepts
-
-- [[inquiry-based-learning]] — core pedagogy under study
-- [[teacher-education]] — pre-service science teacher context
-- [[computational-thinking]] — measured but non-significant outcome
-- [[ai-literacy]] — measured but non-significant outcome
-- [[biology-education]] — disciplinary domain
-- [[stem-education]] — integration context for CT and AI
-- [[problem-based-learning]] — integrated instructional component
-- [[generative-ai]] — AI tools used in the intervention
-- [[scaffolding]] — design guidelines and instructor guidance
-- [[formative-assessment]] — rubric-based feedback and self-evaluation
-- [[constructivist]] — conceptual-change framing
-- [[misconceptions]] — correcting science misconceptions
-
-## Connected Articles
-
-- [[genai-literacy-training-teacher-education-dbr-2026]] — design-based research on GenAI literacy in teacher education
-- [[quest-ai-inquiry-preservice-teachers]] — AI-supported inquiry with pre-service teachers
-- [[embodied-inquiry-ai-facilitator-physics-2026]] — AI-facilitated inquiry in a science domain
-- [[computational-thinking-aica-2026]] — computational thinking in educational contexts
-- [[zha-ai-literacy-biology-case-study]] — AI literacy in a biology context
-
 ## Citation
 
 [AI-Supported Inquiry-Based Learning in Photosynthesis and Respiration: Implications for Sustainable Science Teacher Education](https://doi.org/10.3390/su181808643). *Sustainability* 18(18), 8643.

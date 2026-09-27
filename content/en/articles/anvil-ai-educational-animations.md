@@ -67,25 +67,6 @@ Two focus groups with nine educators used a 60-minute semi-structured protocol g
 - **Automated measures are model-based proxies.** The automated measures are LLM/VLM-based and may reflect model biases; they do not directly capture visual aesthetics or pedagogical effectiveness, and low fidelity scores may partly reflect limitations in VLM-based reconstruction.
 - **No authentic-classroom evidence yet.** ANVIL has not been studied in real teaching workflows, so downstream effects on student understanding and [[student-experience|learner experience]] remain future work.
 
-## Connected Concepts
-
-- [[learning-design]]
-- [[generative-ai]]
-- [[teacher-role]]
-- [[cs-education]]
-- [[stem-education]]
-- [[educational-development]]
-- [[multimodal]]
-- [[llm]]
-## Connected Articles
-
-- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
-- [[talebzadeh-ai-green-education-2026]] — The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints
-- [[genai-marketing-education-roles-2026]] — When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education
-- [[concept-catalyst-engineering-scaffolds]] — Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
-- [[prompt-based-programming-lesson]] — Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers
-- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
-
 ## Citation
 
 Yuri Noviello, Anastasiia Birillo, Gosia Migut (2026). [ANVIL: Analogies and Videos for Lecturers](https://arxiv.org/abs/2605.16295). .

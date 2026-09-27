@@ -40,26 +40,6 @@ page_kind: [evaluation]
 - Fine-tuning was not feasible: the authors state that roughly 5000 items is insufficient relative to the scale LLM fine-tuning typically requires, and that proprietary items raise data-security and intellectual-property concerns, so both approaches rely on prompting plus a linear transformation trained on a subset to align the LLM's scale with the IRT scale.
 - Early-grade accuracy is limited by range restriction — average item-difficulty standard deviations of 0.80 (mathematics K-1) and 0.89 (reading) against 1.08 and 1.13 in higher grades — so the headline correlations are carried by the wider-spread upper grades and overstate performance on K-1 items.
 
-## Connected Concepts
-
-- [[item-response-theory]]
-- [[educational-measurement]]
-- [[llm]]
-- [[machine-learning]]
-- [[k-12]]
-- [[assessment]]
-- [[automated-question-generation]]
-- [[psychometrically-aware-ai]]
-- [[math-education]]
-- [[educational-nlp]]
-
-## Connected Articles
-
-- [[llm-item-difficulty-prediction]] — Cognitive episodes in LLM reasoning traces for interpretable item difficulty prediction
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-based difficulty calibration for programming examinations
-- [[vocabulary-difficulty-prediction]] — Vocabulary difficulty prediction in a BEA shared task
-- [[item-writing-flaws-irt-difficulty-2026]] — Item-writing flaws and difficulty/discrimination in IRT
-
 ## Citation
 
 Razavi, P., & Powers, S. (2026). [Estimating item difficulty using large language models and tree-based machine learning algorithms](https://doi.org/10.1016/j.ijaied.2026.100015). *International Journal of Artificial Intelligence in Education*, 36, Article 100015.

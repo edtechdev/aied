@@ -45,23 +45,6 @@ This survey study collected data from 339 university students enrolled in econom
 - All data were collected through a single survey instrument, though the authors report that common-method bias was mitigated.
 - The sample is confined to economics/management/business students; the authors call for assessment across a broader spectrum of disciplines and cohorts and extension to early-career professionals.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[assessment]]
-- [[equity-in-ai-education]]
-- [[motivation]]
-
-## Connected Articles
-
-- [[ai-literacy-continuum-higher-education]] — AI Literacy Continuum in Higher Education
-- [[ai-literacy-assessment-misalignment]] — AI Literacy and Assessment Misalignment
-- [[gender-differences-ai-literacy-deepfake]] — Gender Differences in AI Literacy
-- [[genai-skill-bypass-literacy]] — GenAI and Skill Bypass in Literacy
-- [[ai-autonomous-learning-accomplishment-2026]] — AI, Autonomous Learning, and Accomplishment
-
 ## Citation
 
 Testa, M., Apuzzo, A., & Pittaway, L. (2026). [*AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education*](https://doi.org/10.1016/j.ijme.2026.101394). *The International Journal of Management Education*, 24, 101394.

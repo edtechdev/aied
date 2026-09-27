@@ -63,31 +63,6 @@ institutions: [regulation]
 - All participants were current students or recent graduates of medical or nursing programs, and literacy was measured with the 20-item multiple-choice GLAT, so both the sample and the literacy construct are domain-specific to healthcare education.
 - The post-support task was administered immediately after the AI was removed, so it indexes near transfer rather than durable learning; the agency gap itself is theorized rather than directly measured, and no manipulation-check coding of agent turns is reported.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[student-experience]]
-- [[writing-education]]
-- [[agency]]
-- [[human-ai-collaboration]]
-- [[critical-thinking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[network-analysis]]
-
-## Connected Articles
-
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative a...
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
-- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers' practices and perceptions
-
 ## Citation
 
 Jin, Y., Yang, K., Martinez-Maldonado, R., Gašević, D., & Yan, L. (2026). [*The agency gap in AI-supported writing: How reactive and proactive agent designs shape multimodal reasoning*](https://doi.org/10.1016/j.caeai.2026.100655). *Computers and Education: Artificial Intelligence*. Advance online publication

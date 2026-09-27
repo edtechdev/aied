@@ -102,19 +102,6 @@ The paper proposes detecting reward hacking via:
 - Power and coverage are limited: n = 10 seeds per condition-profile cell may not confirm the large observed effects (d = 0.67–1.65) at Bonferroni-corrected thresholds, with the authors recommending n ≥ 30 per cell; the multi-objective condition tests a single weight configuration (0.3 engagement / 0.5 mastery / 0.2 pedagogical appropriateness); and the ablation removes C1 and C3 independently rather than testing every constraint combination.
 - The parameter sensitivity analysis re-scores fixed trajectories generated at baseline (W = 10, δmin = 0.40) rather than retraining, so it establishes metric robustness rather than how the policy would shift under different constraint hyperparameters, and threshold calibration remains domain-specific to this 27-concept knowledge graph.
 
-## Connected Concepts
-
-- [[reinforcement-learning]]
-- [[pedagogical-safety]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[ethics]]
-- [[pedagogical-llm-training]]
-
-## Connected Articles
-
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[educational-llm-alignment]]
 ## Citation
 
 Olukolaa, O., & Rahimi, N. (2026). [*Pedagogical Safety in Educational Reinforcement Learning*](https://arxiv.org/abs/2604.04237).

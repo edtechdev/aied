@@ -58,21 +58,6 @@ BEA (Building Educational Applications) is the premier venue for NLP-for-educati
 - Part of the measured difficulty reflects the KVL test-item format itself (choosing the L1 equivalent and context) rather than word difficulty, which the authors describe as an inherent limitation of that format.
 - Results are tied to model scale: performance improved with base model size up to 32B parameters, and the headline correlation comes from the largest models tested.
 
-## Connected Concepts
-
-- [[formative-assessment]]
-- [[language-learning]]
-- [[educational-nlp]]
-- [[benchmark]]
-- [[adaptive-learning]]
-- [[personalized-learning]]
-- [[scaffolding]]
-## Connected Articles
-
-- [[llm-children-reading-story-generation]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[cyberscholar-genai-writing-feedback]]
-- [[llm-item-difficulty-prediction]]
 ## Citation
 
 Nohejl, A., Wu, X., Ide, Y., Riera Machin, M. A., Chang, Y.-N., & Yanaka, H. (2026). [*What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction*](https://arxiv.org/abs/2605.14257). BEA 2026.

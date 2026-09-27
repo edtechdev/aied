@@ -61,37 +61,6 @@ This review provides the most comprehensive mapping of the [[intelligent-tutorin
 - Its effectiveness conclusions rest on studies the review itself judges to be mostly short-term and controlled, measured in part by self-reported engagement and satisfaction that may not correlate with measured learning.
 - The headline figures — roughly 20% improvement for ITS and up to 98% for individual human tutoring — are drawn from heterogeneous evaluations with inconsistent outcome measures, so they are not a common effect size.
 
-## Connected Concepts
-
-- [[adaptive-learning]] — the personalization mechanism ITS employ
-- [[affective-tutoring]] — the affective-computing advancement
-- [[ai-ed-evaluation]] — the evaluation frameworks the field needs
-- [[ai-education]] — the application context
-- [[automated-question-generation]] — an NLP capability
-- [[educational-nlp]] — the dialogue/processing layer
-- [[educational-policy-ai]] — the policy context for adoption
-- [[intelligent-tutoring]] — the systems under review
-- [[knowledge-tracing]] — a core student-modeling technique
-- [[learning-analytics]] — the data layer for continuous improvement
-- [[metacognition]] — a higher-order process modeling often misses
-- [[pedagogical-llm-training]] — the pedagogical-intentionality gap
-- [[rct]] — the rigorous design the field needs
-- [[scaffolding]] — a pedagogical approach embedded in ITS
-- [[socratic-method]] — a pedagogical approach embedded in ITS
-- [[student-modeling]] — the foundation and bottleneck
-
-## Connected Articles
-
-- [[stanbkt-bayesian-knowledge-tracing]] — StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing
-- [[nie-personavlm-long-term-personalization-2026]] — LLM Student Modeling and Long-Term Memory Architecture
-- [[history-aware-student-simulation]] — Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues
-- [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[syal-multimodal-dialogue-stem-2026]] — Multimodal AI Tutoring in STEM
-- [[ai-fallibility-warning-help-seeking]] — Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
-- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-
 ## Citation
 
 Zerkouk, M., Mihoubi, M., & Chikhaoui, B. (2025). [Comprehensive Review of Intelligent Tutoring Systems](https://arxiv.org/abs/2507.18882v1). *Journal of Computers in Education*.

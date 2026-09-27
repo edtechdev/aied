@@ -85,37 +85,6 @@ For [[learning-design|instructional design]] and [[assessment]] practice, the pa
 - The dashboard's value depends on instructor engagement: AI-assisted analysis runs only on demand, and the instructor evidence comes from two instructors, one per site.
 - The tool was deployed in two courses, which the authors state is insufficient to support strong generalizability claims; the control-flow ordering pattern is confounded with the differences in language, course level and student population between the two sites.
 
-## Connected Concepts
-
-- [[cs-education]]
-- [[problem-solving]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[misconceptions]]
-- [[cognitive-diagnosis]]
-- [[scaffolding]]
-- [[feedback]]
-- [[visualization]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[human-in-the-loop-ai]]
-- [[higher-ed]]
-- [[llm]]
-
-## Connected Articles
-
-- [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study
-- [[tutortrace-learner-behavioral-states-2026]] — TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
-- [[debugtracker-classroom-debugging]] — DebugTracker: Lightweight Process Evidence for Classroom Debugging
-- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
-- [[correct-answer-trap-misconceptions]] — The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
-- [[llm-adaptive-programming-error-explanations-2026]] — Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors
-- [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing
-- [[genai-cognitive-tutor-programming-2026]] — Beyond Immediate Resolution: Generative AI as an Informal Cognitive Tutor in Novice Programming Learning
-- [[code-anchor-multi-view-visualization]] — Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations
-
 ## Citation
 
 Prol, D., Leinonen, J., Hellas, A., Alkhamees, S., & Alipour, A. (2026). [*Pulla: A Parsons Problem Tool for Fine-Grained Behavioral Tracing and Instructor-Facing Problem-Solving Analysis*](https://arxiv.org/abs/2609.15944). arXiv preprint.

@@ -62,27 +62,6 @@ The authors demonstrate [[prompt-engineering|prompt engineering]] techniques for
 - Claims about global disparity (most high-income institutions implementing AI-driven tools by 2025 while low-income access stays constrained) rest on cited reports rather than measurement by the authors, so scope and magnitude cannot be verified from the article.
 - The discipline-specific claim that chemistry, more than mathematics or programming, resists text-only teaching of content such as molecular representation is argued from disciplinary reasoning rather than a tested cross-discipline comparison.
 
-## Connected Concepts
-
-- [[chemistry-education]]
-- [[educational-policy-ai]]
-- [[ethics]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[prompt-engineering]]
-- [[critical-thinking]]
-- [[digital-divide]]
-- [[assessment]]
-
-## Connected Articles
-
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
-- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-
 ## Citation
 
 Li, Y., Tolosa, L., Rivas Echeverria, F., & Marquez, R. (2026). [Translating UNESCO artificial intelligence guidelines to chemical education and its intersection with sustainable development goals](https://doi.org/10.1021/acs.jchemed.5c00819). *Journal of Chemical Education*, 103(3), 1135–1144.

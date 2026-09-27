@@ -61,30 +61,6 @@ Stage-appropriate authenticity: early units get constrained, well-[[scaffolding|
 - The four-dimensional authenticity continuum and the design moves are derived from prior literature and the authors' own practice in a single institutional learning-and-teaching unit, not from any measurement of authenticity or of student outcomes.
 - The paper's own challenges section concedes the proposed formats raise workload and can create new barriers (carer and employment constraints, real-world simulation limits) without offering cost or feasibility data; detection's error rates and bias are likewise cited from other studies rather than re-tested here.
 
-## Connected Concepts
-
-- [[authentic-assessment]]
-- [[assessment-validity]]
-- [[ai-detection]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
-- [[ai-assessment-scale-reform]] — The AI Assessment Scale and the work of assessment reform
-- [[genai-assessment-governance]] — Governance frameworks for GenAI assessment
-- [[institutional-change-framework-ai]] — Institutional change framework for AI
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
-- [[tool-invariant-framework-agentic-ai]] — A tool-invariant framework for teaching and assessing computational methods in the age of agentic AI
-- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing
-
 ## Citation
 
 Kickbusch, S., Ashford-Rowe, K., Kemp, A., Boreland, J., & Huijser, H. (2025). [*Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World*](https://doi.org/10.3390/educsci15111537). *Education Sciences*, 15(11), 1537. DOI 10.3390/educsci15111537.

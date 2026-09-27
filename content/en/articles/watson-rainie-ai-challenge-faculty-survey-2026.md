@@ -60,36 +60,6 @@ Two governance facts are the most actionable in the report. The first is the **8
 
 The sample is self-selected from faculty known to AAC&U, so it over-represents engaged and possibly more AI-aware instructors, and the authors state that results are not generalizable. All measures are [[self-report-measures|self-reported]] attitudes and estimates, including the cheating trend and the case-handling figures, which cannot be validated against institutional records. Several items were answered by people who had already said they do not use the tools, and the report marks those segments rather than excluding them. The forecast items are predictions about the next five years and therefore untestable at the time of publication.
 
-## Connected Concepts
-
-- [[academic-integrity]] — the concern that dominates the survey's negative expectations
-- [[ai-literacy]] — valued by half the respondents, taught by more
-- [[critical-thinking]] — the outcome faculty most expect to decline
-- [[cognitive-offloading]] — the mechanism behind the over-reliance expectation
-- [[metacognition]] — the self-regulation the forecasts assume will weaken
-- [[student-ai-interaction]] — how students use the tools faculty are judging
-- [[ai-detection]] — the response implied by integrity concern and questioned elsewhere
-- [[assessment-validity]] — what an assignment still measures once AI can complete it
-- [[teacher-ai-competency]] — the capability gap the preparedness items describe
-- [[educational-policy-ai]] — where the 87%/48% policy gap sits
-- [[governance]] — task forces, leadership offices and general education outcomes
-- [[change-management]] — adoption resisted by colleagues, not policy
-- [[trust]] — faculty skepticism about tools and about institutional readiness
-- [[equity-in-ai-education]] — the digital-inequity expectation
-- [[ai-misuse-learning-harm]] — the harm the forecasts name
-- [[student-experience]] — readiness, wellbeing and career prospects as faculty see them
-
-## Connected Articles
-
-- [[chick-faculty-development-ethical-ai-2026]] — What a structured faculty development program did to exactly these anxieties
-- [[qian-governing-genai-higher-ed-policy-2026]] — Institutional policy and support ecosystems at innovative universities
-- [[coates-governing-academic-integrity-indicators-2025]] — An indicator framework for governors facing the integrity question
-- [[vassallo-ai-guilt-complex-faculty-2026]] — Moral emotions among academics adopting AI, including guilt about their own use
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Students' own reading of the partner-versus-cheating question
-- [[ivory-psychology-assessment-integrity-2026]] — What happens to a whole program's assessment when the pass boundary is the operative variable
-- [[generative-ai-guardrails-harm-learning]] — The causal evidence behind the over-reliance concern
-- [[genai-performance-vs-learning]] — Why an instructor's impression of decline is hard to verify
-
 ## Citation
 
 Watson, C. E., & Rainie, L. (2026). [*The AI challenge: How college faculty assess the present and future of higher education in the age of AI*](https://www.aacu.org/research/the-ai-challenge). American Association of Colleges and Universities and Elon University Imagining the Digital Future Center.

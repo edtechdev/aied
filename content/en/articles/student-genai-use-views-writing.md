@@ -58,25 +58,6 @@ An exploratory [[mixed-methods-research|mixed-methods]] design combining a large
 - Use and views are self-reported, and response rates varied by question, so reported sample sizes differ across results — the guidance figures, for instance, use N = 502.
 - The four-part typology is offered as a continuum rather than a validated classification, and the authors state it is not exhaustive.
 
-## Connected Concepts
-
-- [[student-ai-interaction]]
-- [[writing-education]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[ai-literacy]]
-- [[feedback]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[self-report-measures]]
-
-## Connected Articles
-
-- [[student-perspectives-ai-writing-grading-2026]]
-- [[ai-anxiety-strategic-regulation-writing-2026]]
-- [[academic-erasure-complexity-ai-writing-2026]]
-- [[genai-usage-design-students-survey]]
-
 ## Citation
 
 Kuznetsov, A., Sheely, A., & Baker, J. (2026). [Student Use of and Views on GenAI for Writing](https://doi.org/10.1177/0092055X261478622). *Teaching Sociology*.

@@ -74,32 +74,5 @@ A second gap sits between the metrics and the risk they cannot see. ROUGE and th
 - **Completion is not correctness.** The 100% success rate records only that all 179 questions were answered inside the 240-second timeout; the surface metrics (BLEU-4 = 0.0000 on every item) carry no information about validity.
 - **External API and a static knowledge base.** Generation depends on the DeepSeek V3 API, which the authors name as an external latency and availability constraint, and the knowledge base was assembled from publicly available resources that may have coverage gaps for newer algorithmic results.
 
-## Connected Concepts
-- [[rag]]
-- [[llm]]
-- [[cs-education]]
-- [[higher-ed]]
-- [[computational-thinking]]
-- [[problem-solving]]
-- [[intelligent-tutoring]]
-- [[automated-question-generation]]
-- [[educational-nlp]]
-- [[knowledge-graph]]
-- [[hallucination-risk]]
-- [[learning-gains]]
-- [[scaffolding]]
-- [[pedagogical-llm-training]]
-
-## Connected Articles
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-- [[eduguard-safe-rag-llm-tutor]] — EduGuard: A Safe RAG-Based LLM Tutor for Programming Education
-- [[structrag-diagram-reasoning-ai-tutoring]] — Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education
-- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterizing AI Tutor Blind Spots When Analyzing Student Reasoning
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
-- [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents
-- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
-- [[computational-thinking-aica-2026]] — Exploring the Effect of Computational Thinking Levels on Students' Learning Performance, Cognition, and Behavior
-
 ## Citation
 Sushan Adhikari (2026). [*AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory*](https://arxiv.org/abs/2609.14572). arXiv preprint.

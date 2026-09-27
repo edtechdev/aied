@@ -71,34 +71,6 @@ The paper is explicit about its limits. The quantitative evidence is a pilot, no
 - The 130 items are self-reported institutional disclosures awaiting validation — the authors call for more [[quantitative-research|quantitative]] data subjected to psychometric validation before the indicators are used for [[educational-measurement|measurement]] or benchmarking.
 - The framework was designed before the technology it now governs was public: the program began in 2021, predating the late-2022 release of GenAI, and the institution-level case study evidence comes from five Australian universities in three states belonging to one national quality network.
 
-## Connected Concepts
-
-- [[academic-integrity]] — the paper reframes integrity as a governance responsibility for qualification authenticity
-- [[governance]] — the object of reform: boards, committees, policies, procedures and capability matrices
-- [[educational-policy-ai]] — the policy and procedure layer that must be updated for the GenAI era
-- [[regulation]] — external pressure from quality and regulatory agencies as a condition for reform
-- [[assessment]] — student assessment as the major touchpoint and the endpoint that yields credentials
-- [[assessment-validity]] — authenticity of student assessment as core to the validity of higher education
-- [[generative-ai]] — the "apex technology" driving the tipping point the paper responds to
-- [[ai-technologies]] — the platform, enterprise systems and tools the indicators ask institutions to account for
-- [[ai-use-disclosure]] — the transparency and reporting gap the indicator framework is designed to fill
-- [[trust]] — academic ethics, honesty and fairness as the basis of qualification credibility
-- [[educational-measurement]] — the reporting metric, sector comparisons and psychometric validation still required
-- [[student-experience]] — students as stakeholders and co-producers of assessment integrity
-- [[ai-literacy]] — integrity and technology literacy education named as a reform priority
-- [[change-management]] — governance reform as an organizational change problem in resilient institutions
-
-## Connected Articles
-
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Expert-consensus route to governing GenAI in higher education, complementary to this indicator approach
-- [[qian-governing-genai-higher-ed-policy-2026]] — Policy-level analysis of how universities govern GenAI
-- [[institutional-governance-ai-universities]] — Institutional governance structures and AI, the layer the reform proposals target
-- [[institutional-change-framework-ai]] — A change framework for embedding AI reform in universities
-- [[genai-assessment-governance]] — Governance of GenAI in assessment, the operational core of this paper's indicators
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Argues academic integrity needs purpose clarified before policy instruments
-- [[munoz-misconduct-allegation-evidence-2026]] — Case-file evidence on what institutions actually hold when they allege GenAI misconduct
-- [[ivory-psychology-assessment-integrity-2026]] — Program-level evidence of assessment vulnerability that governance indicators would surface
-
 ## Citation
 
 Coates, H., Croucher, G., & Calderon, A. (2025). [*Governing academic integrity: Ensuring the authenticity of higher thinking in the era of generative artificial intelligence*](https://doi.org/10.1007/s10805-025-09639-7). *Journal of Academic Ethics*, 23, 2015–2028.

@@ -60,34 +60,6 @@ Low-effort is the motive with the clearest risk profile. Its negative associatio
 - Divergent validity came only from preference for task switching and from self-reported ADHD and learning-disability status — both unrelated to any subscale — which rules out AIR as a proxy for general digital multitasking or attentional and learning difficulties but leaves the instrument's discriminant evidence on a narrow base.
 - The samples were primarily younger higher-education students recruited through Prolific, so because age and education shape GenAI adoption the [[educational-measurement|psychometrics]] may not transfer to older adults or other educational backgrounds; ADHD and learning-disability status were single binary self-report items rather than clinically validated or dimensional measures.
 - Most importantly, the scale measures [[motivation]], not outcome: comprehension and knowledge transfer also depend on planning, monitoring and evaluation, processes that confident-sounding GenAI responses may undermine by encouraging [[cognitive-offloading|offloading]] and overestimation; AIR cannot say whether a stated motive translates into a particular interaction pattern — only prompt logs, verification behavior and time on text can do that, which is the combination the authors propose for future work.
-## Connected Concepts
-
-- [[assessment-validity]] — the convergent, divergent and structural evidence the AIR validation rests on
-- [[cognitive-offloading]] — the risk pathway that Low-effort motivation is designed to predict
-- [[educational-measurement]] — instrument development, factor analysis and fit statistics as the study's method
-- [[generative-ai]] — the class of tools readers bring to the reading task
-- [[language-learning]] — the translation motive's territory, reading and translating across language boundaries
-- [[llm]] — the underlying model class behind AI reading tools
-- [[metacognition]] — comprehension monitoring and effort regulation that motives may support or erode
-- [[motivation]] — the construct AIR operationalizes, split into four reading-specific motives
-- [[self-determination-theory]] — the autonomy, competence and relatedness frame and the convergent-validity benchmark
-- [[self-regulated-learning]] — the second regulatory layer of deciding when to enlist GenAI while reading
-- [[self-report-measures]] — the instrument type, and the source of its main limitation
-- [[technology-acceptance-model]] — perceived usefulness and ease of use, the correlates examined alongside AIR
-
-## Connected Articles
-
-- [[seung-basham-cognitive-offloading-swld-2026]] — Cognitive offloading with GenAI and what it means for students with learning disabilities
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Longitudinal analysis of prompting strategies as offloading behavior
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing versus reallocation in unsupervised GenAI tasks
-- [[liang-ai-learning-motivation-sdt-2026]] — AI learning motivation profiled through SDT and latent transition analysis
-- [[reclaiming-epistemic-agency-co-agency-2026]] — Epistemic agency and co-agency as the counterweight to effort offloading
-- [[song-genai-learning-partner-srl-over-time-2026]] — Supporting self-regulated learning with GenAI without replacing effort
-- [[competent-generative-ai-use-measures-review-2026]] — Review and meta-analysis of measures for competent GenAI use
-- [[ai-literacy-assessment-misalignment]] — Self-reported versus performance measures of AI competence
-- [[xiong-ai-educational-measurement-review-2026]] — Thematic review of AI's impact on educational measurement
-- [[genai-assessment-literacy-scale-2026]] — A validated GenAI assessment literacy scale for higher education students
-
 ## Citation
 
 Brann, A., Etgar, S., & Sidi, Y. (2026). [*The AIR Scale: Development and validation of a measure of motivations for using AI during reading*](https://osf.io/preprints/psyarxiv/djexs_v1). *PsyArXiv Preprints*.

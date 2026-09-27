@@ -39,17 +39,5 @@ page_kind: [evaluation]
 - Worked examples were provided uniformly to all participants, which the authors state may have reduced sensitivity to detect motivational effects.
 - In-video guidance and segmented reflection tasks were combined, precluding conclusions about the isolated effect of each scaffolding element.
 
-## Connected Concepts
-- [[teacher-education]]
-- [[ai-literacy]]
-- [[tpack]]
-- [[motivation]]
-- [[ethics]]
-- [[professional-training]]
-
-## Connected Articles
-- [intelligent-tpack-ethics-teachers-trust-distrust-2026] — ethical and trust dimensions of Intelligent-TPACK
-- [liu-ai-literacy-interventions-meta-analysis-2026] — meta-analytic evidence on AI-literacy interventions
-
 ## Citation
 Boos, J., Eder, T., & Lachner, A. (2026). [Perceived utility moderates motivational intervention effects in learning to teach responsibly with GenAI](https://doi.org/10.1016/j.caeo.2026.100324). *Computers and Education Open, 10*, 100324.

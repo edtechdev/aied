@@ -44,22 +44,6 @@ This work extends the [[automated-assessment|Automated Grading]] landscape by ad
 - Scoring is binary correct or incorrect at the level of a single code line, which cannot represent partially correct explanations or distinguish minor from severe errors.
 - No student learning outcome was measured; the study establishes scoring agreement, not whether automated feedback improves comprehension.
 
-## Connected Concepts
-
-- [[llm]]
-- [[automated-assessment]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[formative-assessment]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[programming-its]]
-- [[cong-confidence-asag-2026]]
-- [[structured-llm-feedback-programming]]
 ## Citation
 
 Lekshmi-Narayanan, A.-B., Hassany, M., & Brusilovsky, P. (2026). [Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education](https://arxiv.org/abs/2605.21614).

@@ -67,21 +67,6 @@ Findings on learning are mixed. Positive results include improved examination an
 - Thematic coding of objectives and instructional strategies involved subjective judgments, particularly where aims overlapped or were described vaguely.
 - Objective identification began with an automated cue-word search, so indirectly stated objectives may not have reached researcher review.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[llm]]
-- [[feedback]]
-- [[academic-integrity]]
-- [[meta-analysis-systematic-review]]
-- [[teacher-role]]
-## Connected Articles
-
-- [[chatgpt-programming-education-text-mining]] — a text-mining analysis of ChatGPT research discussions in programming education, complementing this review's mapping of tool usage.
-- [[genai-meta-analysis-programming-learning]] — a meta-analysis quantifying generative AI's effects on productivity and learning in programming, supplying the effect sizes this descriptive review does not report.
-- [[liu-tool-tutor-crutch-programming-2026]] — a grounded theory of cognitive scaffolding and offloading in AI-assisted programming, which gives theoretical depth to the over-reliance concern documented here.
-- [[ai-supported-automated-programming-assessment-2026]] — a design and evaluation study of automated programming assessment, exemplifying the feedback systems this review found under-studied for comparison.
-
 ## Citation
 
 Yalçın, Yasin; Bakır-Yalçın, Eda; İslamoğlu, Hakan; Ursavaş, Ömer Faruk. (2026). *[Mapping Research on Generative Artificial Intelligence for Programming Education: A Systematic Review](https://doi.org/10.1002/jcal.70341)*. Journal of Computer Assisted Learning, 42, e70341. https://doi.org/10.1002/jcal.70341

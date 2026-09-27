@@ -42,23 +42,6 @@ The article organizes AI-assisted vocal pedagogy into three linked levels. *Tech
 - As a Perspective article it offers a conceptual framework rather than empirical data, so its claims rest on argument and synthesis of prior literature rather than tested outcomes.
 - The framework's three levels and three outcome criteria are proposed heuristics, not validated measures.
 - Its applicability across different vocal genres, pedagogical traditions and educational levels is asserted conceptually rather than demonstrated empirically.
-## Connected Concepts
-
-- [[generative-ai]]
-- [[feedback]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[human-ai-collaboration]]
-- [[human-in-the-loop-ai]]
-- [[teacher-role]]
-- [[arts-design-and-media-education]]
-## Connected Articles
-
-- [[multimodal-ai-feedback-learning]] — LLM-Based Multimodal AI Feedback Produces Equivalent Learning
-- [[genai-feedback-design-multisite-experiment]] — Human-Centered GenAI Feedback Design in Higher Education
-- [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition
-- [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking
-
 ## Citation
 
 Li, Y. (2026). [*Beyond output metrics: Reframing AI-assisted vocal pedagogy through human learning and educational value*](https://doi.org/10.3389/fpsyg.2026.1844841).

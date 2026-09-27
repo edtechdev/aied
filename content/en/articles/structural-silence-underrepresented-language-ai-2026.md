@@ -58,23 +58,6 @@ The authors recommend treating **offline-first design** as an equity-oriented in
 - Its quantitative claims come from secondary sources rather than collected data: the web-presence gap (under 0.5% of content for roughly 4% of the global population), the 67:1 token deficit, and the connectivity figures (36.5% rural vs 71.4% urban) rest on corpus statistics and national survey reports that date.
 - Bengali is a favorable case because of its demographic scale, literary history, and active NLP research community; the authors state that smaller and less-resourced languages face considerably more severe structural challenges, so the four-failure account is a framework to test, not a cross-linguistic finding.
 
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[language-learning]]
-- [[digital-divide]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[privacy]]
-- [[inclusive-learning]]
-- [[english-education]]
-
-## Connected Articles
-
-- [[ai-scoring-language-bias-physics]]
-- [[sec-ai-literacy-narrative-review-2026]]
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]]
-
 ## Citation
 
 Roy, A., & Roy, P. (2026). [*Structural silence: When AI infrastructure fails speakers of underrepresented languages*](https://arxiv.org/abs/2608.12278).

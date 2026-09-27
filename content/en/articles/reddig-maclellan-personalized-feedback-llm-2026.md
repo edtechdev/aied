@@ -40,27 +40,6 @@ level: [higher ed]
 - Classification was done by hand at two stages: error diagnoses agreed at Cohen's Kappa 0.931 and hint categories at 0.768, with the head coder's label used whenever coders disagreed.
 - Study 3's automated evaluation used the same model family to judge its own outputs and covered 1,303 feedback samples, and the authors report that those metrics disagreed with human judgment.
 
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[llm]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[ai-feedback-quality]]
-- [[pedagogical-llm-training]]
-- [[prompt-engineering]]
-- [[knowledge-tracing]]
-
-## Connected Articles
-
-- [[correct-answer-trap-misconceptions]] — The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA: A Synthetic Benchmark for Trace-Based Evaluation of Socially Intelligent Multi-Agent Tutoring
-- [[curiobot-llm-tutoring-exploratory-learning]] — Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback: Student Perceptions of Usefulness and Trustworthiness
-- [[hashmi-socratic-physics-chatbot-2025]] — Analyzing Undergraduate Problem-Solving in Physics Through Interaction with an AI Chatbot
-- [[genai-feedback-design-multisite-experiment]] — Human-Centered GenAI Feedback Design in Higher Education
-
 ## Citation
 
 Reddig, J. M., Arora, A., & MacLellan, C. J. (2025). [Generating In-Context, Personalized Feedback for Intelligent Tutors with Large Language Models](https://doi.org/10.1007/s40593-025-00505-6). *International Journal of Artificial Intelligence in Education*, 35(4), 3459-3500.

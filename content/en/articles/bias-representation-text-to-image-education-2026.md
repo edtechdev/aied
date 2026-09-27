@@ -38,20 +38,5 @@ methods: [meta-analysis-systematic-review]
 - Tool instability undermines reproducibility: providers update architectures, training data, and safety filters, and many platforms offer no transparent versioning, so specific outputs documented in the reviewed studies may not be reproducible.
 - The attention distribution across the six-part framework is uneven, and few studies directly compare age groups using comparable tasks, prompts, and evaluation criteria, so no firm conclusions about developmental differences are supported.
 - Bias-theme tallies count mentions rather than unique studies, and the coding categories are not mutually exclusive, so the year, design, and tool breakdowns describe emphasis within the corpus rather than independent evidence.
-## Connected Concepts
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[multimodal]]
-- [[ai-literacy]]
-- [[meta-analysis-systematic-review]]
-- [[ethics]]
-
-## Connected Articles
-- [t2i-competence-paradox-2026] — competence paradox in text-to-image use among art and design students
-- [nuclear-diffusion-text-to-image-learning-2026] — text-to-image foundation models for learning
-- [marked-pedagogies-linguistic-bias-writing-feedback] — stereotype-aligned biases in automated feedback
-- [genai-higher-education-systematic-review-2026] — systematic review of GenAI in higher education
-
 ## Citation
 Alon, L., Hadar Shoval, D., & Levkovich, I. (2026). [Bias and representation in AI generated text-to-image in education: A systematic review](https://doi.org/10.1016/j.caeai.2026.100587). *Computers and Education: Artificial Intelligence, 10*, 100587.

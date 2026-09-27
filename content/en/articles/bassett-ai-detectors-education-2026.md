@@ -7,7 +7,6 @@ foundations: [academic-integrity]
 technology: [generative-ai]
 assessment: [ai-detection, assessment-validity, authentic-assessment]
 ethics: [trust]
-connected_faqs: [ai-guidance-children-under-13, course-ai-policy, verify-ai-output]
 research_method: [theoretical analysis]
 discipline: [writing education]
 level: [higher ed]
@@ -53,31 +52,6 @@ AI detection raises security concerns around data storage and retention (includi
 - The procedural-fairness argument is built on the balance-of-probabilities evidentiary standard used in the authors' own higher education misconduct procedures, so its transfer to other jurisdictions, sectors, or legal frameworks is argued rather than demonstrated.
 - The central premise — that real-world text origin is unknowable, so detector output cannot be independently verified — is framed so that no available empirical test could settle it, leaving the paper's core claim unfalsifiable within the setting it critiques.
 - The authors write from a shared institutional position across Australian universities and one secondary school, and their recommendations for assessment redesign are proposals rather than tested interventions.
-
-## Connected Concepts
-
-- [[ai-detection]]
-- [[academic-integrity]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[trust]]
-- [[privacy]]
-- [[writing-education]]
-- [[student-experience]]
-- [[ai-education]]
-- [[educational-policy-ai]]
-- [[governance]]
-
-## Connected Articles
-
-- [[karr-ai-detection-humanization-2026]] — Why AI Detection Fails for Academic Integrity: controlled evidence of the catch-22
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment in the age of AI
-- [[detecting-llm-generated-text-latent-prompt]] — Detecting LLM-generated text via latent prompts
-- [[llm-detecting-llm-generated-content-education]] — LLMs detecting LLM-generated content in education
-- [[ai-assessment-scale-reform]] — The AI Assessment Scale and the work of assessment reform
 
 ## Citation
 

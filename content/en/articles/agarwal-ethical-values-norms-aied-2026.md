@@ -41,26 +41,6 @@ institutions: [educational-policy-ai, governance]
 - Only eight of the 25 included articles mention any educational setting, and only two focus on [[k-12|K-12]] education, so claims about schooling levels rest on a very thin base.
 - The values and norms were derived by thematically grouping definitions and keywords from 25 articles — 22 from the database search plus 3 found by backward snowballing — of which only three (12%) were methodology papers or original research.
 
-## Connected Concepts
-
-- [[ethics]]
-- [[ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[bias-mitigation]]
-- [[privacy]]
-- [[meta-analysis-systematic-review]]
-- [[social-norms-ai-use]] — the informal rules around AI use
-
-## Connected Articles
-
-- [[ai-ethics-bibliometric-2026]] — Bibliometric analysis situating AI ethics in professional educational practice
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated, ecological AI-ethics framework for education
-- [[ethical-use-ai-engineering-education-review-2026]] — Systematic review of ethical AI use in a discipline
-- [[league-ethical-governance-student-data-2026]] — Ethical governance framework for student data
-- [[policy-deficit-ai-sel-2026]] — Policy gap analysis on ethics and governance of AI in education
-- [[ssaho-ai-academic-integrity-review-2025]] — Systematic review of AI ethics and policy in higher education
-
 ## Citation
 
 Agarwal, B., Urlings, C., van Lankveld, G., & Klemke, R. (2026). [Identifying the ethical values and norms for artificial intelligence in education: A systematic literature review](https://doi.org/10.1016/j.ijaied.2026.100004). *International Journal of Artificial Intelligence in Education*, 36, 100004.

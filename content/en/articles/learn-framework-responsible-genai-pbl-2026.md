@@ -42,23 +42,6 @@ page_kind: [framework]
 - The framework is designed for inquiry-, reasoning-, and reflection-oriented learning, so the authors say its applicability is more limited in highly procedural or skills-based training contexts.
 - It presumes access to digital infrastructure and instructional support that resource-constrained settings may lack, and depends on GAI capabilities that keep shifting in accuracy, transparency, bias, and explainability.
 
-## Connected Concepts
-
-- [[problem-based-learning]]
-- [[generative-ai]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[critical-thinking]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: parallel argument that AI should scaffold, not substitute, human cognition
-- [[ai-metacognition-stem-review]] — AI and metacognition in STEM
-- [[efficiency-gain-illusion-ai-overreliance]] — Cognitive Offloading and the Speedup Illusion
-- [[self-directed-growth-generative-ai-learning-analytics]] — Self-directed growth and generative AI
-
 ## Citation
 
 Uden, L., & Hwang, G.-J. (2026). [*The LEARN framework for responsible use of generative AI in education: a neuroscience-informed model for problem-based learning*](https://doi.org/10.1007/s40692-026-00398-x). *Journal of Computers in Education*.

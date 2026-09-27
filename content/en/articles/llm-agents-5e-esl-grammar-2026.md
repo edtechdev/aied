@@ -37,19 +37,6 @@ page_kind: [evaluation]
 - The intervention lasted roughly 40 minutes in total, including pre- and post-tests, and no significant between-group difference in grammar acquisition was found — the authors attribute this partly to a ceiling effect and the short duration.
 - Instruction covered a single grammar structure (the present perfect tense) and a single LLM tool (DeepSeek), which occasionally misunderstood the 5E framework.
 - The controlled setting did not account for multitasking interference or emotional fluctuations typical of real classrooms, reducing ecological validity.
-## Connected Concepts
-
-- [[llm]]
-- [[language-learning]]
-- [[inquiry-based-learning]]
-- [[conversational-ai]]
-
-## Connected Articles
-
-- [[tact-pedagogically-adaptive-esl-tutoring]] — pedagogically adaptive ESL tutoring
-- [[gpt-item-generation-l2-listening-2026]] — LLM item generation for L2 listening assessment (Aryadoust & Wong 2026)
-- [[isaza-chatgpt-engineering-prompting-2026]] — prompt engineering for LLM use in education
-
 ## Citation
 
 [Designing large language model-based agents with 5E framework for ESL learners' grammar acquisition](https://www.sciencedirect.com/science/article/pii/S2666920X26000615) — Yang, X., Weng, X., & Yang, M. (2026). *Computers and Education: Artificial Intelligence*, 10, 100604.

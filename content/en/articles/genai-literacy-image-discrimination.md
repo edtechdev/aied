@@ -33,15 +33,6 @@ institutions: [regulation]
 - The study deviates from its pre-registration in two ways: participants judged 40 images before and after training instead of 50 and 50, and the final stimulus set contained 97 images rather than 100. Both changes were applied uniformly before data collection began.
 - The stimulus set is limited to images from contemporary diffusion models balanced on three dimensions, and the training itself was asymmetric — 50 AI-generated images against only 7 real ones. The training effect on AI-generated images was positive but not statistically significant (β = 0.331, p = 0.330), so the measured gain rests largely on improved performance on real photographs.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[professional-training]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-## Connected Articles
-
-- [[ai-literacy-continuum-higher-education]]
 ## Citation
 
 Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh (2026). [Generative AI Literacy Training Improves Intelligence Analysts’ Discrimination of Real and AI-Generated Images](https://arxiv.org/abs/2606.28510). cs.HC / cs.AI / cs.CY.

@@ -47,28 +47,6 @@ The authors note [[llm|LLMs]] may struggle with **specialized terminology and co
 - The comparison rests on eight student-generated questions, and the authors note that the limited quantity and the subjectivity of question selection may affect generalizability.
 - Students may lack the expertise to judge content accuracy, and authorship misclassification — only about 45% of AI answers were correctly identified — may itself have shaped the ratings.
 
-## Connected Concepts
-
-- [[biology-education]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[simulation]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[ai-literacy]]
-- [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[assessment]]
-
-## Connected Articles
-
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
-- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
-- [[ai-supported-experimental-design-chemistry-2026]] — AI in laboratory/experimental design (chemistry)
-- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation with AI
-
 ## Citation
 
 Doğru, M. S., & Faulconer, E. K. (2026). [ChatGPT as a virtual laboratory teaching assistant in undergraduate biology](https://doi.org/10.1007/s11165-025-10271-z). *Research in Science Education*, 56, 379–399.

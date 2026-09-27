@@ -74,34 +74,6 @@ The paper is a conceptual review and says so: no new data were collected, and th
 - The capability account rests on specific model versions at specific points in time — the Huber and Niklaus mapping of 43 [[benchmark]] tasks, for example — which the author states can be outdated within months of publication.
 - Evidence on the long-term consequences of AI tool use for foundational writing skills, critical thinking and academic [[self-efficacy|self-efficacy]] remains limited, and the practical guidance is illustrative rather than prescriptive across disciplines, institutions and pedagogical contexts.
 
-## Connected Concepts
-
-- [[assessment]] — the object of the redesign argument and the paper's central term
-- [[authentic-assessment]] — the AI-robust direction of travel: contexts, processes and performances AI cannot supply
-- [[assessment-validity]] — what is at stake when an AI can complete a task indistinguishably from a student
-- [[academic-integrity]] — reframed away from detection and penalty toward what authentic contribution looks like
-- [[automated-assessment]] — AI-assisted scoring, its scalability benefit and its black-box risk
-- [[summative-assessment]] — high-stakes grading where the paper keeps the human examiner responsible
-- [[formative-assessment]] — the case where timeliness of AI feedback is most clearly a pedagogical gain
-- [[feedback]] — configured against criterion-referenced feedback principles
-- [[llm]] — the technology whose documented limitations structure the whole design argument
-- [[generative-ai]] — treated as a condition of assessment rather than an intruder into it
-- [[prompt-engineering]] — P.R.O.M.P.T., retrieval-augmented generation and low-temperature settings as prerequisites
-- [[remote-proctoring]] — criticized on data protection, proportionality, bias and student-rights grounds
-
-## Connected Articles
-
-- [[beyond-detection-authentic-assessment-ai-2025]] — The move beyond detection toward authentic assessment design
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Oral examinations as an AI-robust assessment format in practice
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing and what GenAI does to assessment evidence
-- [[llms-do-not-grade-essays-like-humans-2026]] — The rater-bias finding the paper cites as an automated scoring limitation
-- [[assessing-quality-ai-generated-exams-field-2025]] — AI-generated exam items evaluated for quality in a real examination setting
-- [[automated-online-exam-proctoring-decade-review-2026]] — A decade of proctoring evidence, the technology the paper treats as contested
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — Whether LLMs can judge the quality of assessments themselves
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Keeping a human examiner in the grading loop at national scale
-- [[asynchronous-oral-assessment-2026]] — Scaling the oral formats the paper recommends beyond live viva voce
-- [[responsible-assessment-ai-era-stanford-2026]] — Institutional framing for responsible assessment in an AI era
-
 ## Citation
 
 Klapproth, F. (2026). [*AI-assisted assessment and instruction in higher education: Foundations, applications, and implications for exam design*](https://osf.io/preprints/psyarxiv/uwpfq_v1). *PsyArXiv Preprints* (preprint, not peer reviewed).

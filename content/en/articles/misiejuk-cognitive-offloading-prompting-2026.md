@@ -39,26 +39,6 @@ This longitudinal study analyzed student–AI interactions in a semester-long [[
 
 The study is context-specific (a social network analysis course, LLM-based dataset generation), and the prompting patterns may not generalize to other task types or disciplines. The "leveling" tendency could reflect the specific task design (minimal-effort tasks with plausible instant outputs) rather than a general characteristic of LLM-assisted work, as the authors acknowledge. The sample is 281 prompts from 122 submissions at a single university. Prompt quality was inferred from output quality, and the relationship between prompting behavior and [[learning-gains|learning outcomes]] is not directly causally tested.
 
-## Connected Concepts
-
-- [[cognitive-offloading]]
-- [[prompt-engineering]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[learning-analytics]]
-- [[self-regulated-learning]]
-- [[network-analysis]]
-
-## Connected Articles
-
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains From Learning
-- [[genai-can-harm-teaching-rct-2026]] — GenAI Tools: Improving Teaching Quality?
-- [[instructional-guidance-genai-learning]] — Instructional Guidance and GenAI Learning
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work
-- [[genai-meta-analysis-programming-learning]] — Meta-Analysis of GenAI in Programming
-
 ## Citation
 
 Misiejuk, K., López-Pernas, S., Kaliisa, R., & Saqr, M. (2026). [*Cognitive offloading in student–AI collaboration: A longitudinal analysis of prompting strategies*](https://doi.org/10.1016/j.chbr.2026.101130). *Computers in Human Behavior Reports*, 22, 101130.

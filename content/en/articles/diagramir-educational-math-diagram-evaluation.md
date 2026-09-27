@@ -38,20 +38,6 @@ methods: [benchmark]
 - The intermediate representation captures a restricted set of geometric primitives and relations, so more complex diagrams (multi-step constructions, coordinate plots) may need schema and check extensions.
 - Back-translation relies on LLMs to parse TikZ into IRs, and the authors report that this IR-generation step introduced stochastic errors.
 
-## Connected Concepts
-
-- [[math-education]]
-- [[automated-assessment]]
-- [[llm]]
-- [[multimodal]]
-- [[educational-nlp]]
-- [[benchmark]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[structrag-diagram-reasoning-ai-tutoring]] — StructRAG: structural diagram reasoning for STEM AI tutoring
-
 ## Citation
 
 Kumar, V., Mishra, S., Hao, R., Malik, R., Broman, D., & Demszky, D. (2025). *[DiagramIR: An automatic pipeline for educational math diagram evaluation](https://arxiv.org/abs/2511.08283)*. NeurIPS 2025 Math-AI Workshop.

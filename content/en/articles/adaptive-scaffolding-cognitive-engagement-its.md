@@ -65,28 +65,6 @@ The authors draw on two data-driven approaches to [[personalized-learning|person
 - Although Guided and Buggy examples were designed to elicit active and constructive engagement, the actual cognitive effort and students' perceived difficulty of each example type remain under-characterized, and perceived difficulty may diverge from objective cognitive demands.
 - The authors call for future work on adaptive methods that reward engagement or [[desirable-difficulties|productive struggle]] rather than performance alone, and on whether constructive engagement yields benefits beyond immediate posttest performance.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[icap-framework]]
-- [[learning-design]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[learning-gains]]
-- [[personalized-learning]]
-- [[reinforcement-learning]]
-- [[scaffolding]]
-- [[student-engagement]]
-- [[student-modeling]]
-
-## Connected Articles
-
-- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred Scaffolding in AI-Assisted Mathematical Modeling
-- [[pedagogical-safety-rl]] — Pedagogical Safety in Reinforcement Learning for Tutoring
-- [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Student Engagement
-
 ## Citation
 
 Dey Tithi, S., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., & Barnes, T. (2026). [Adaptive scaffolding for cognitive engagement in an intelligent tutoring system](https://arxiv.org/abs/2602.07308). arXiv preprint.

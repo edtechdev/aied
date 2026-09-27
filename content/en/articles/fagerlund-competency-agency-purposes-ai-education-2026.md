@@ -56,21 +56,6 @@ Subjectification, the domain Biesta treats as central, appeared as personally me
 - All participants were recruited from the same development projects, so somewhat similar ways of thinking are possible despite diverse backgrounds and regions.
 - The evidence rests on interviews only; the authors note that teachers' educational philosophies can be profound and elusive, so their articulation may reveal only partial insights.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[agency]]
-- [[teacher-role]]
-- [[ai-education]]
-- [[critical-thinking]]
-- [[ethics]]
-## Connected Articles
-
-- [[teacher-education-ai-literacy-sdt-2026]] — teacher education for AI literacy read through self-determination theory, complementing this paper's focus on why teachers pursue AI education.
-- [[preservice-teachers-responsible-genai-2026]] — curriculum implications for ethics, privacy, and AI literacy, matching the call here to connect AI skills with responsibility and data reflection.
-- [[where-ai-enters-teacher-work-2026]] — maps how AI enters teachers' professional work, the practitioner context that shapes the purposes teachers articulate.
-- [[reclaiming-epistemic-agency-co-agency-2026]] — a critical framework for human-generative AI co-agency, extending the agency and subjectification argument made here.
-
 ## Citation
 
 Fagerlund, Janne; Mertala, Pekka; Lehtoranta, Jukka; Mattila, Emilia; Salo, Laura; Korhonen, Tiina. (2026). [*From Competency to Agency: Teachers' Views of the Purposes of AI Education*](https://doi.org/10.1002/jcal.70302). Journal of Computer Assisted Learning, 42, e70302. https://doi.org/10.1002/jcal.70302

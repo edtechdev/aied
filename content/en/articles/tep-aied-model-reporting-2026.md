@@ -7,7 +7,6 @@ foundations: [limitations-in-aied-research, theory-development-aied]
 technology: [generative-ai]
 assessment: [assessment-validity]
 ethics: [ai-use-disclosure, ethics]
-connected_faqs: [reporting-interpreting-aied-research]
 research_method: [theoretical analysis]
 audience: [researchers]
 level: [higher ed]
@@ -48,35 +47,6 @@ methods: [ai-ed-evaluation, research-methods-aied]
 - No adoption or usability evidence is offered: there is no study of whether authors apply the seven-section table as intended, or whether compliance improves reproducibility and reporting quality; the worked template is illustrative rather than a track record.
 - By the authors' own scope statement the model is most applicable to experimental and intervention-based studies and informative rather than directly prescriptive for qualitative, design-based, and system-development research, so it may under-specify the evidence those designs need.
 - Its central claim — that pedagogy rather than the tool governs educational value — is asserted from the critiques of Weidlich et al. (2025) and Yan et al. (2025) rather than tested in this paper.
-
-## Connected Concepts
-
-- [[research-methods-aied]]
-- [[ai-ed-evaluation]]
-- [[theory-development-aied]]
-- [[limitations-in-aied-research]]
-- [[ethics]]
-- [[generative-ai]]
-- [[ai-use-disclosure]]
-- [[assessment-validity]]
-- [[transfer-of-learning]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-- [[equity-in-ai-education]]
-- [[privacy]]
-- [[governance]]
-- [[teacher-role]]
-- [[student-ai-interaction]]
-- [[ai-literacy]]
-- [[benchmark]]
-- [[open-source]]
-- [[peer-assessment]]
-
-## Connected Articles
-
-- [[genai-higher-education-systematic-review-2026]] — systematic review of GenAI in higher education
-- [[access-not-enough-ai-tutoring-2026]] — randomized field study of human support plus AI tutoring
-- [[raise-framework-ai-education-reporting-2026]] — RAISE: a 30-item, ten-domain reporting checklist for AI-in-education studies (Allison 2026)
 
 ## Citation
 

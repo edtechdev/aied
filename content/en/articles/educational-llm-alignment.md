@@ -78,24 +78,6 @@ This finding is a deep challenge to the [[zerkouk-comprehensive-review-its-2025|
 - Value-added measures are imperfect, high-variance estimates of causal impact and transcript segments are partial, lossy views of instruction; the authors present their variance decomposition as a statement about where misalignment concentrates under this measurement system, not as a definitive census of all sources of pedagogical effectiveness.
 - Estimates are conditional on the sampled items, segments, models, and prompt families (16 LLMs, 3 zero-shot prompt techniques), and the authors flag that the test set may have unobserved confounding factors in its construction.
 
-## Connected Concepts
-
-- [[ai-ed-evaluation]] — the article is fundamentally about how to evaluate whether educational AI works
-- [[benchmark]] — benchmark alignment is the first of the three (often misaligned) evaluation layers
-- [[pedagogical-llm-training]] — training approaches as the intervention point for alignment
-- [[llm]] — the systems whose capabilities and impact are misaligned
-- [[generative-ai]] — the broader class of models at issue
-- [[bias-mitigation]] — shared pretraining priors and the homogeneous "pedagogy heuristic" as a fairness concern
-- [[ethics]] — the responsibility to evaluate intended impact, not proxies
-- [[teacher-role]] — the article's subject (LLMs as teaching evaluators) bears directly on the teacher's role
-- [[ai-literacy]] — interpreting and critically evaluating AI outputs
-- [[ai-education]] — the umbrella field this evaluation challenge belongs to
-## Connected Articles
-
-- [[teachbench-llm-teaching-evaluation]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[llm-fallacy-misattribution]]
 ## Citation
 
 Hardy, M., & Kim, Y. (2026). [*Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact*](https://arxiv.org/abs/2603.00883).

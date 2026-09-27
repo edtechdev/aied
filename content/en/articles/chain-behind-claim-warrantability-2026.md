@@ -56,27 +56,6 @@ This essay adds a **procedural epistemology** for AI-assisted [[qualitative-rese
 - The framework gives a model no authority to decide whose experience matters, so low-frequency concerns, culturally specific language, irony, and relational meaning remain vulnerable to erasure.
 - Lower technical barriers do not by themselves produce equity: subscription costs, institutional data agreements, and uneven language coverage still stratify use, and the authors concede that a fully documented analysis can still be shallow or wrong.
 
-## Connected Concepts
-
-- [[qualitative-research]] — the methodology whose claims AI assists
-- [[research-methods-aied]] — the field's methods and reporting debates
-- [[llm]] — the tool class that enables fluent corpus reorganization
-- [[generative-ai]] — the broader technology
-- [[trust-calibration]] — knowing when to trust AI-assisted output
-- [[peer-assessment]] — strengthened by warrant artifacts
-- [[academic-integrity]] — rigor in AI-assisted scholarship
-- [[ethics]] — accountable AI-assisted inquiry
-- [[learning-analytics]] — the data-rich context where such corpora arise
-- [[ai-detection]] — transparency in the use of AI
-
-## Connected Articles
-
-- [[evaluation-age-ai-output-evidence-2026]] — process-based evaluation in the age of AI
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — evaluating LLM-based assessment
-- [[llm-detecting-llm-generated-content-education]] — detecting AI-generated content
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — AI interpretive cognition in social sciences & humanities
-- [[oneill-presumed-effective-meta-analysis-2026]] — audit of meta-analytic claims in AIED
-
 ## Citation
 
 Holster, J. D. (2026). [*The chain behind the claim: Warrantability in AI-assisted qualitative research*](https://osf.io/preprints/edarxiv/x7nkm_v1/). *EdArXiv preprint*.

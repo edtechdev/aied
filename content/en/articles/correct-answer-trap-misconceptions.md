@@ -29,25 +29,6 @@ audience: [instructors, assessment designers]
 - The diagnostic follow-up is a proof of concept: follow-up questions were generated for 7 TM instances and no student responses to them have been collected.
 - Both deployment modes — the teacher dashboard review queue and the autonomous tutor — are proposed configurations with no classroom trial and no measured effect on teacher workload.
 
-## Connected Concepts
-
-- [[formative-assessment]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-- [[automated-assessment]]
-- [[k-12]]
-- [[misconceptions]]
-- [[math-education]]
-- [[llm]]
-## Connected Articles
-
-- [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments
-- [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterizing AI Tutor Blind Spots When Analyzing Student Reasoning
-
 ## Citation
 
 Moiz Imran, Sahan Bulathwela (2026). [The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions](https://arxiv.org/abs/2606.23205). AIED PEAF 2026 Workshop

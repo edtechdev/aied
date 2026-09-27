@@ -6,7 +6,6 @@ type: article
 foundations: [critical-thinking, limitations-in-aied-research]
 technology: [generative-ai, llm]
 assessment: [learning-gains]
-connected_faqs: [reporting-interpreting-aied-research]
 sources: ['raw/papers/bartos-ai-learning-meta-meta-analysis-2026.md']
 confidence: high
 research_method: [secondary analysis]
@@ -42,26 +41,6 @@ methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-ai
 - Of the 1,840 effect size estimates, 632 had no reported publication year, so the pre- versus post-ChatGPT comparison rests on 690 and 518 estimates respectively.
 - The publication-bias adjustment is model-based — Bayesian model averaging over selection models and PET-PEESE — and the authors run a weight-function-only sensitivity analysis precisely because PET-PEESE can over-correct genuine small-study differences.
 - The outcome space is narrow: short-term, direct effects on traditional learning measures, so nothing here speaks to indirect effects such as [[metacognition]], feedback, or assessment change.
-
-## Connected Concepts
-
-- [[generative-ai]]
-- [[llm]]
-- [[research-methods-aied]]
-- [[meta-analysis-systematic-review]]
-- [[limitations-in-aied-research]]
-- [[ai-ed-evaluation]]
-- [[learning-gains]]
-- [[critical-thinking]]
-
-## Connected Articles
-
-- [[genai-educational-outcomes-meta-analysis]] — A large meta-analysis of generative AI's effect on educational outcomes (Dong 2026)
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
-- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning (PNAS 2025 RCT)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
-- [[ai-literacy-assessment-misalignment]] — Self-reported vs. performance-based AI literacy
 
 ## Citation
 

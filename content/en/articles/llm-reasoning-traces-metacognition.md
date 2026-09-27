@@ -38,21 +38,6 @@ While [[genai-assessment-governance|GenAI assessment governance]] focuses on *wh
 - The Full-trace condition was instantiated with gpt-oss-20b while answer-only and summary conditions used GPT-5, so the Full-trace impairment is conditioned on an open-weight verbose model, and Full-trace also revealed the answer only after the trace while summary showed trace and answer together, confounding trace content with the engagement requirement.
 - The ten-item battery is too small for signal-detection metacognitive indices such as meta-d' and M-ratio, and the design speaks to in-the-moment calibration rather than long-term learning or deskilling.
 
-## Connected Concepts
-
-- [[llm]]
-- [[metacognition]]
-- [[intelligent-tutoring]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[trust-calibration]]
-- [[trust]]
-- [[scaffolding]]
-## Connected Articles
-
-- [[becerra-aicofe-feedback-2026]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[genai-assessment-governance]]
 ## Citation
 
 Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). [Explaining too much? Understanding how large language model reasoning traces influence performance and metacognition](https://arxiv.org/abs/2605.25856).

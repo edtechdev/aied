@@ -62,19 +62,6 @@ The multi-agent workflow framing positions this work at the intersection of [[ag
 - Clustering used K-means on action-type distributions with a silhouette of 0.389, a modest separation that does not establish the three archetypes as natural kinds.
 - No student outcome or classroom implementation data were collected; the study measures design behavior and self-reported cognition, not teaching effectiveness.
 
-## Connected Concepts
-
-- [[teacher-ai-competency]]
-- [[educational-development]]
-- [[agentic-ai]]
-- [[tpack]]
-- [[self-efficacy]]
-- [[scaffolding]]
-## Connected Articles
-
-- [[teacher-ai-adoption-confidence]]
-- [[teachingcoach-chatbot-instructor-guidance]]
-- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 ## Citation
 
 Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2026). [*Modeling AI-TPACK in practice: Insights from teachers' multi-agent workflow design*](https://arxiv.org/abs/2605.13906).

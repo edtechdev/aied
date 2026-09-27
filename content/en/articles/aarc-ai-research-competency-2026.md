@@ -38,22 +38,5 @@ AARC defines the capacity to conduct inquiry with AI without relinquishing [[age
 - The framework originates in a single, well-resourced international school, and the authors state that transfer to differently resourced contexts cannot be assumed; cross-site implementation is listed as future work.
 - The specific tools and failure modes named in the paper will date quickly given how fast AI capabilities change, as the authors acknowledge; only the seven dimensions, the [[ai-literacy|AI literacy]] and AI intuition framing, and the verify–cite–reflect commitments are claimed to be tool-independent.
 
-## Connected Concepts
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[agency]]
-- [[metacognition]]
-- [[generative-ai]]
-- [[k-12]]
-- [[critical-thinking]]
-- [[scaffolding]]
-
-## Connected Articles
-- [[prober-ai-inquiry-writing]] — AI-Assisted Inquiry Writing
-- [[guided-inquiry-genai-course-policy-2026]] — Guided Inquiry and GenAI Course Policy
-- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — Rethinking AIGiarism and Secondary Integrity
-- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Preservice Teacher Agency in GenAI Design
-
 ## Citation
 Beau, A., Flaquière, D., & Lazar, G. (2026). [*AI-Assisted Research Competency in Secondary Education: A Framework for Epistemic Agency, Authorship and Responsible Knowledge Production*](https://osf.io/preprints/edarxiv/xa2sc). EdArXiv preprint.

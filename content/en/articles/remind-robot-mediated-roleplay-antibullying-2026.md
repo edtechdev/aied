@@ -5,7 +5,6 @@ updated: "2026-09-23T12:14:30-04:00"
 type: article
 pedagogy: [self-efficacy, social-emotional-learning]
 technology: [educational-robotics, simulation]
-connected_faqs: [ai-guidance-children-under-13]
 methods: [mixed-methods-research]
 research_method: [user study]
 level: [k 12]
@@ -38,21 +37,6 @@ This is a **mixed-methods play-testing study**. The [[research-methods-aied|rese
 ## Limitations
 
 The evaluation involved a small sample (18 children aged 9–10) in a play-testing context, limiting generalizability and evidence for sustained behavior change. The focus is on learning-goal support during the experience rather than long-term anti-bullying outcomes. The robot-mediated role-play setup requires specific hardware and facilitation.
-
-## Connected Concepts
-
-- [[simulation]] — robot-mediated role-play as a simulation-based rehearsal method
-- [[educational-robotics]]
-- [[social-emotional-learning]]
-- [[k-12]]
-- [[self-efficacy]]
-- [[student-engagement]]
-
-## Connected Articles
-
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo: Digital Storytelling Robots
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM-Powered Narrative HRI
-- [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
 
 ## Citation
 

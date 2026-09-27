@@ -38,20 +38,6 @@ methods: [ai-ed-evaluation, benchmark]
 - Representations remain identity-discriminative, so the model partly fits student appearance rather than engagement dynamics, and the weakly constrained Bayesian population prior does not compensate.
 - Each clip receives a single label while Perceiver IO mean-pools over 64 frames, suppressing within-clip fluctuations; finer-grained temporal supervision is needed to detect small engagement cues.
 
-## Connected Concepts
-- [[learning-analytics]]
-- [[student-engagement]]
-- [[multimodal]]
-- [[adaptive-learning]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[ai-student-engagement-online-learning-review-2025]] — Artificial Intelligence and Student Engagement in Online Learning
-- [[savvy-student-attention-video-learning]] — SAVVY: Student Attention Visualization
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive Scaffolding for Cognitive Engagement in an ITS
-- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement?
-- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse
-
 ## Citation
 
 Kantarci, Ramesh, & Roig (2026). [*Mind the Student: Behavioral and Contextual Cues for Automated Engagement Prediction in Online Learning*](https://arxiv.org/abs/2608.24340).

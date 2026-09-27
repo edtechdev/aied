@@ -36,26 +36,6 @@ SAVVY is an interactive visual analytics system for video-based learning that in
 - The audiovisual decomposition does not measure top-down attention directly: it supplies surrogate indicators biased toward top-down attentional allocation, and the system identifies problems without generating specific optimization recommendations.
 - Scalability is stated as a limitation: the visualization degrades as the number of concepts grows with video duration and the Individual Module becomes crowded with larger student samples, with path grouping and scrollbar interaction only partially alleviating this.
 
-## Connected Concepts
-
-- [[learning-analytics]]
-- [[video-education]] — Video in Education: AI-generated, personalized, and analytics of video learning
-- [[multimodal]]
-- [[higher-ed]]
-- [[human-in-the-loop-ai]]
-- [[motivation]]
-- [[student-engagement]]
-- [[student-experience]]
-
-## Connected Articles
-
-- [[physiological-signals-exam-outcomes-ml]] — Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
-- [[wordstream-glass-learning-analytics]] — Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics
-- [[hypergamification-game-engine-lms]] — Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game
-- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
-- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
-
 ## Citation
 
 Zhou, S., Shen, M., Wen, X., Qiu, Z., Jiang, Y., Wu, X., Wu, F., Wang, Y., & Zhou, Z. (2026). [SAVVY: Student attention visualization for video-based learning analysis](https://arxiv.org/abs/2607.29413).

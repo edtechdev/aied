@@ -15,7 +15,6 @@ confidence: high
 
 ## What It Is
 
-
 ## How It Works
 
 The framework has two core components:
@@ -62,30 +61,6 @@ ring systems?
 - The accept/reject judge saturates in the Normal and SPED-static conditions, leaving the GRPO run little usable gradient outside the adaptive setting.
 - All tutors are 7-8B models, so behavior at larger scales is untested, and only five disability profiles are modeled.
 
-## Connected Concepts
-
-- [[reinforcement-learning]]
-- [[pedagogical-agent]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-llm-training]]
-- [[special-education]]
-- [[scaffolding]]
-- [[neurodiversity]]
-- [[intelligent-tutoring]]
-
-## Connected Articles
-
-- [[a4l-analytics-pipeline]]
-- [[aaai2026-prompting-literacy-k12]]
-- [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[access-not-enough-ai-tutoring-2026]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[agent-voice-accents-k12-group-learning]]
-- [[agentic-ai-education-scoping-review]]
-- [[agentic-ai-pedagogical-best-practice-2026]]
-- [[agentic-education-coding]]
-- [[agentic-literacy-debt]]
 ## Citation
 
 Lee, U., Na, J., Jeong, Y., Park, H., & Jang, Y. (2026). [Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training](https://arxiv.org/abs/2605.30670).

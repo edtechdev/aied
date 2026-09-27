@@ -55,27 +55,6 @@ The free-response analysis supports this: in the TT format, "stiffness of speech
 - Format was confounded with lesson content (TS, SS, and TT each carried a different part of the curriculum) and every student viewed lessons in the fixed order TS → SS → TT with no counterbalancing, making format and presentation order statistically inseparable.
 - ARCS motivation used one item per component (versus 12 items on the RIMMS scale) and overall evaluation a single item, and all significant interaction effect sizes were small to medium (Cohen's f = .17 and .15), which the authors treat as preliminary evidence.
 
-## Connected Concepts
-
-- [[language-learning]]
-- [[student-engagement]]
-- [[motivation]]
-- [[critical-thinking]]
-- [[experiential-learning]]
-- [[generative-ai]]
-- [[conversational-ai]]
-- [[self-determination-theory]]
-- [[higher-ed]]
-- [[active-learning]]
-- [[speech-and-voice-technologies]]
-## Connected Articles
-
-- [[ai-guided-learning-audiovideo-2026]] — AI-guided audio/video learning systems and learner adaptation
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-authored prompts for student-AI dialogue
-- [[ai-learning-companions-framework]] — Framework for AI learning companions
-- [[engagement-assessment-video]] — Assessing student engagement in video-based learning
-- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
-
 ## Citation
 
 Watanabe, F., Suko, T., Ishida, T., Kuma, Y., Kobayashi, M., Hirasawa, S., & Kumoi, G. (2026). [*Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons*](https://arxiv.org/abs/2608.20822).

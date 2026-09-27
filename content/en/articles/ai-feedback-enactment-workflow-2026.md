@@ -58,31 +58,6 @@ The design's key strength is that the Enacted Feedback workflow scaffolds three 
 - **Platform log data only:** logs record observable actions at scale but not students' motivations or interpretations, leaving unexplained why some Enacted Feedback students bypassed suggestion selection and why Self-Directed students rarely used the optional assistance.
 - **No long-term learning measure:** submitted-work quality came from peer moderation at a single point in each cohort's cycle, so whether the engagement benefits become durable gains in feedback literacy, evaluative judgment, or independent revision remains an open question.
 
-## Connected Concepts
-
-- [[feedback]]
-- [[self-regulated-learning]]
-- [[self-assessment]]
-- [[human-ai-collaboration]]
-- [[learning-analytics]]
-- [[formative-assessment]]
-- [[student-experience]]
-- [[ai-feedback-quality]]
-- [[scaffolding]]
-- [[higher-ed]]
-- [[llm]]
-
-## Connected Articles
-
-- [[ai-generated-feedback-higher-ed]]
-- [[genai-feedback-design-multisite-experiment]]
-- [[sequenced-ai-feedback-learning]]
-- [[ai-internal-feedback-evaluative-judgments]]
-- [[learner-centered-feedback-ai]]
-- [[repeated-ai-writing-feedback-semester]]
-- [[feedback-futures-genai]]
-- [[care-full-feedback-genai]]
-
 ## Citation
 
 Alsaiari, O., Baghaei, N., Lodge, J. M., Gašević, D., Winstone, N., & Khosravi, H. (2026). [*Making AI-generated feedback matter: From provision to student enactment*](https://arxiv.org/abs/2608.11625).

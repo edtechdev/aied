@@ -44,25 +44,6 @@ Existing [[benchmark|benchmarks]] give limited insight into dynamic interaction 
 - The "ideal FSMs" encode domain assumptions about effective interaction design that may not generalize across topics or pedagogical contexts.
 - EE-Eval assesses interaction structure only; it does not evaluate content correctness, visual clarity, or actual learning outcomes.
 
-## Connected Concepts
-
-- [[llm]]
-- [[generative-ai]]
-- [[formative-assessment]]
-- [[learning-analytics]]
-- [[higher-ed]]
-- [[automated-assessment]]
-- [[active-learning]]
-- [[human-ai-collaboration]]
-## Connected Articles
-
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments
-- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
-- [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterizing AI Tutor Blind Spots When Analyzing Student Reasoning
-
 ## Citation
 
 Xiaozao Wang, Zhewei Wang, Hongyi Wen (2026). [Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations](https://arxiv.org/abs/2606.31012).

@@ -81,35 +81,6 @@ Three questions the paper leaves open deserve attention. First, whether translat
 - The automatic Critical Questions Generation task that the assessor depends on is described as "largely unexplored," and automatic evaluation of generated text remains an open problem — the project's planned automated metrics rest on a method the authors concede disagrees with human judgment.
 - Development and evaluation will draw on approximately 500 competency-based assessments already held in-house at one institution, UPV/EHU, with cross-linguistic comparability across Basque, Lithuanian, German and French asserted rather than demonstrated.
 
-## Connected Concepts
-
-- [[critical-thinking]]
-- [[multilingual-learning]]
-- [[science-education]]
-- [[language-learning]]
-- [[educational-nlp]]
-- [[feedback]]
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[assessment]]
-- [[llm]]
-- [[automated-assessment]]
-- [[automated-question-generation]]
-- [[curriculum-design]]
-- [[design-based-research]]
-- [[benchmark]]
-
-## Connected Articles
-
-- [[ai-partner-science-epistemic-vigilance]] — AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation
-- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
-- [[critical-thinking-biological-sciences-ai-2025]] — Promoting Critical Thinking in Biological Sciences in the Era of Artificial Intelligence: The Role of Higher Education
-- [[multilingual-adaptive-learning-nigeria-2026]] — An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria
-- [[llm-critical-thinking-teamwork-review]] — Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
-- [[avraamidou-ai-colonization-science-education]] — Can we disrupt the momentum of the AI colonization of science education?
-
 ## Citation
 
 Rodrigo Agerri, Itziar Aldabe, Elena Cabrio, Mark Cieliebak, Jan Deriu, Mariana Flores, Jurgita Kapočiūtė-Dzikienė, Dovilė Kuizinienė, Arantza Rico, Aritz Ruiz-González, Aitor Soroa, Mantas Vaškevičius, and Serena Villata (2026). [*CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education*](https://arxiv.org/abs/2609.13942). SEPLN 2026: 42nd International Conference of the Spanish Society for Natural Language Processing.

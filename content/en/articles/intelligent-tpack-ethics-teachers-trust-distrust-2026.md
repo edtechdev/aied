@@ -50,22 +50,6 @@ page_kind: [framework]
 - Data are written reflections and survey responses from a two-week asynchronous module, so the analysis captures stated ethical perceptions rather than observed classroom practice.
 - Case-study generalization was not a goal; the authors sought transferability through thick description of seven bounded cases, so findings should not be read as representative of K-12 teachers broadly.
 
-## Connected Concepts
-
-- [[teacher-education]]
-- [[tpack]]
-- [[ethics]]
-- [[trust]]
-- [[k-12]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Pre-service intelligent-TPACK readiness
-- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based professional development
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in GenAI lesson planning
-- [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy
-
 ## Citation
 
 Ocak, C., & Caskurlu, S. (2026). [*Unpacking ethics-domain of intelligent-TPACK scale in relation to in-service teachers' trust and distrust*](https://doi.org/10.1016/j.caeo.2025.100321). *Computers and Education Open*, 100321. https://doi.org/10.1016/j.caeo.2025.100321

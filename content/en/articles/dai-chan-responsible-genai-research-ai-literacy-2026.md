@@ -44,22 +44,6 @@ The study contributes an empirical account of how [[ai-literacy]] is enacted as 
 - Variation by discipline, stage of study, and familiarity with GenAI was not systematically analyzed, limiting the basis for comparative claims.
 - Reliance on self-reported interview data may introduce social desirability or response bias, and students may have underreported use out of integrity concerns.
 
-## Connected Concepts
-- [[ai-literacy]]
-- [[academic-integrity]]
-- [[ethics]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[governance]]
-- [[self-regulated-learning]]
-- [[llm]]
-
-## Connected Articles
-- [[student-centered-genai-responsible-framework-2026]] — A Student-Centered Framework for Responsible Use of Generative AI in Higher Education
-- [[ssaho-ai-academic-integrity-review-2025]] — Reassessing Academic Integrity in the Age of AI
-- [[pedlow-genai-selfassessment-2026]] — Raising Ethical Awareness of GenAI Use Through Student Self-Assessment
-- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose Before Policy: Academic Integrity, Generative AI, and Rhetoric
-
 ## Citation
 
 Dai, W., & Chan, C. K. Y. (2026). [Shaping responsible GenAI use in research through AI literacy-oriented guidelines: Insights from postgraduate students](https://doi.org/10.1186/s41239-026-00609-6). *International Journal of Educational Technology in Higher Education, 23*, 33.

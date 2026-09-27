@@ -41,27 +41,6 @@ page_kind: [framework]
 - No marker-variable test was conducted to quantify potential common method variance, and the study assessed neither predictive validity nor test–retest stability; the authors call for in-service validation and longitudinal designs.
 - Convergent validity is partly dependent on composite reliability, since AVE values ranged from 0.454 to 0.538 and only Ethics and Contextualization exceeded 0.50, while Cronbach's alphas above 0.90 required the authors to argue construct coherence rather than item redundancy.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[teacher-ai-competency]]
-- [[teacher-education]]
-- [[language-learning]]
-- [[english-education]]
-- [[educational-measurement]]
-- [[discipline-specific-aied]]
-- [[ethics]]
-- [[self-efficacy]]
-- [[agency]]
-- [[professional-training]]
-- [[psychometrically-aware-ai]]
-
-## Connected Articles
-
-- [[ai-tpack-mathematics-teacher-education-2026]] — Like Nabhan & Habók, develops and psychometrically validates a discipline-specific teacher AI competency instrument (AI-TPACK for mathematics), sharing the construct-development and EFA/CFA methodology.
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Examines teacher trust and distrust toward AI alongside an ethics-oriented teacher competency lens, complementing TAILS' Ethics and Autonomy dimensions.
-- [[panciroli-ai-literacy-episodes-situated-learning]] — Approaches teacher AI literacy from a situated, episode-based perspective, offering a complementary qualitative framing to TAILS' self-report measurement.
-
 ## Citation
 
 [Language teachers’ AI literacy: A psychometric study based on the ED-AI framework](https://doi.org/10.1016/j.caeai.2026.100583) — Nabhan, S., & Habók, A. (2026). *Computers and Education: Artificial Intelligence*, 10, 100583.

@@ -62,26 +62,6 @@ This article adds an evidence-based, within-subjects study of an emotionally int
 - AIvaluate sessions used a Wizard of Oz setup in which the teacher was the unseen interlocutor, so the findings describe students' experience of a simulated AI-mediated viva, not of a fully autonomous conversational agent.
 - Participants with identified social anxiety or neurodivergent profiles were neither recruited nor screened, so the relevance of the result to those learners is untested; the single slider also captured overall anxiety intensity only, not cognitive, somatic, or social-evaluative subtypes.
 
-## Connected Concepts
-
-- [[assessment]]
-- [[oral-assessment]] — Oral Assessment
-- [[conversational-ai]]
-- [[pedagogical-agent]]
-- [[affective-computing]]
-- [[well-being]]
-- [[generative-ai]]
-- [[llm]]
-- [[feedback]]
-- [[student-experience]]
-- [[ai-education]]
-
-## Connected Articles
-
-- [[conversational-ai-agents-umbrella-review-2026]] — Conversational AI Agents in Education: An Umbrella Review
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future
-- [[roe-assessment-twins-2026]] — Assessment twins: An approach for strengthening assessment validity in the age of generative AI
-
 ## Citation
 
 Yusuf, H., Money, A., & Daylamani-Zad, D. (2026). [*Exploring student anxiety and experience in performance-based assessments using AIvaluate: an LLM-augmented emotionally intelligent pedagogical AI conversational agent*](https://doi.org/10.1007/s11423-026-10634-x). Educational Technology Research and Development.

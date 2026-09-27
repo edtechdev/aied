@@ -37,24 +37,6 @@ sources: [raw/papers/2603.12471.md]
 - Only four LLMs were evaluated (GPT-4o, GPT-3.5-turbo, Llama-3.3 70B, Llama-3.1 8B), and model-level differences were not quantified even though markedness appeared across all four.
 - The attribute set was selective: attributes were assessed one at a time and drawn from U.S. stereotypes, leaving intersectional combinations and non-U.S. contexts unexamined.
 
-## Connected Concepts
-
-- [[writing-education]]
-- [[automated-assessment]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[feedback]]
-- [[personalized-learning]]
-- [[generative-ai]]
-- [[k-12]]
-- [[ai-feedback-quality]]
-
-## Connected Articles
-
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
-- [[gpt-human-rater-essay-assessment-2026]] — GPT vs human rater essay assessment
-- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback for critical thinking in writing
-
 ## Citation
 
 Tan, M., Phalen, L., & Demszky, D. (2026). *[Marked pedagogies: Examining linguistic biases in personalized automated writing feedback](https://doi.org/10.1145/3785022.3785113)*. LAK 2026.

@@ -48,27 +48,5 @@ The momentum result is the most actionable number in the paper: once a participa
 - The reward manipulation produced a directionally consistent but non-significant effect, so it is not evidence that incentives cannot work, only that this one did not.
 - Outcomes are single-item offloading and test decisions aggregated to proportions, measured online without supervision of how the assistant was actually consulted.
 
-## Connected Concepts
-- [[cognitive-offloading]]
-- [[cognitive-surrender]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[llm]]
-- [[generative-ai]]
-- [[learning-gains]]
-- [[motivation]]
-- [[desirable-difficulties]]
-- [[student-ai-interaction]]
-
-## Connected Articles
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive Training Facilitates Optimal Cognitive Offloading
-- [[cognitive-offloading-metacognitive-review-2026]] — Meta-Cognitive Insights into Cognitive Offloading
-- [[student-cognitive-offloading-ai-higher-ed-2026]] — Patterns of Student Cognitive Offloading to AI in Higher Education
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
-- [[nesnin-cognitive-offloading-ai-students-2026]] — Cognitive Offloading in the Age of AI
-- [[thinking-with-ai-reasoning-without-it-2026]] — Thinking with AI, reasoning without it
-- [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
-- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency gain illusion and AI over-reliance
-
 ## Citation
 Maier, S., Schwabe, K., Schneider, M., & Feuerriegel, S. (2026). [Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants](https://arxiv.org/abs/2609.20143). arXiv:2609.20143.

@@ -59,26 +59,6 @@ These results show that sycophantic alignment emerges in real multi-turn collabo
 - Advice quality was scored by an LLM-as-judge pipeline with only a random 10% of interactions manually checked, which puts the central outcome measure in the hands of an automated judge.
 - All interactions used a single model, GPT-4o, on a custom Django platform with no gold-standard rankings supplied to it, so the findings describe one model on one task family within one mixed between-subjects design (control n = 28, experimental n = 32).
 
-## Connected Concepts
-
-- [[pedagogical-llm-training]]
-- [[ai-feedback-quality]]
-- [[hallucination-risk]]
-- [[cognitive-offloading]]
-- [[trust]]
-- [[llm]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[bias-mitigation]]
-## Connected Articles
-
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[llm-fallacy-misattribution]]
-- [[yasir-llm-tutoring-agents-2026]]
-- [[educational-llm-alignment]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
 ## Citation
-
-
 
 Koyuturk, C., Guidotti, S., & Ognibene, D. (2026). [*The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration*](https://arxiv.org/abs/2605.18372).

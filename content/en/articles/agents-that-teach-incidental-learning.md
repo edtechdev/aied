@@ -68,17 +68,6 @@ A comprehension check closes the loop, refining the Concept Map and informing fu
 - The authors label the six principles "early" and invite the community to refine and extend them, so they are proposed requirements rather than validated design constraints.
 - No data are reported on the probe-and-triage mechanism's precision — false positives, developer acceptance, or whether asynchronous comprehension probes actually verify internalization remain untested.
 
-## Connected Concepts
-- [[cs-education]]
-- [[human-ai-collaboration]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[professional-training]]
-## Connected Articles
-
-- [[agentic-education-coding]]
-- [[agentic-workflows-education]]
 ## Citation
 
 Mehra, R., Suri, S., Tagadinamani, P. K., Singi, K., & Kaulgud, V. (2026). [*Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development*](https://arxiv.org/abs/2607.06101).

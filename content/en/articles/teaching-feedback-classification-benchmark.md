@@ -64,27 +64,6 @@ That result invites two objections, and the paper is organized around answering 
 - Spanish and English results differ in label source, domain, and training-set size, with label quality the dominant confound; English sentiment labels are star-derived and their noise is quantified (κ = 0.66) but not eliminated, which caps the English task.
 - The English corpus is scraped, self-selected RateMyProfessor data from a commercial platform whose school, department, and state fields are unreliable parsing artifacts, and it covers higher-education reviews only — no K-12 family feedback; no equity audit was run and no subgroup claim is made.
 
-## Connected Concepts
-
-- [[feedback]]
-- [[automated-assessment]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[formative-assessment]]
-- [[ai-feedback-quality]]
-- [[educational-development]]
-- [[benchmark]]
-- [[educational-nlp]]
-
-## Connected Articles
-
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-- [[llm-feedback-programming-classroom]] — LLM-Generated Feedback in Introductory Programming: A Classroom Study
-- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
-- [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
-- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers'' practices and perceptions
-
 ## Citation
 
 Esteban U. Vega Barajas (2026). [A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol](https://arxiv.org/abs/2607.11873). arXiv preprint.

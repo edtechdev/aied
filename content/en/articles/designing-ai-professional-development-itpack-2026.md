@@ -5,7 +5,6 @@ updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy, tpack]
 ethics: [ethics]
-connected_faqs: [faculty-development-ai]
 audience: [instructors, faculty developers]
 research_method: [theoretical analysis, literature review]
 sources: ['raw/papers/designing-ai-professional-development-itpack-2026.md']
@@ -43,21 +42,6 @@ page_kind: [framework]
 - The evidence base is small — the initial PRISMA review covered 14 AI PD studies — and the updated search (May 2024 to May 2025) yielded 17 new studies of which only 2 survived eligibility screening.
 - Inclusion criteria restricted the search to K-12, peer-reviewed empirical studies, so the framework's claimed transferability to higher education and adult learning goes beyond its evidence.
 - The framework depends on i-TPACK, a still-emerging extension of TPACK, and the paper's own stated limitations concern program duration, delivery format, outcome evaluation, and ethical integration — none of which a conceptual design can resolve.
-
-## Connected Concepts
-
-- [[teacher-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[ai-literacy]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Pre-service intelligent-TPACK readiness
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Ethics domain and teachers' trust
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in lesson planning
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — Scoping review of AI in preservice teacher development
 
 ## Citation
 

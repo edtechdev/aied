@@ -37,18 +37,6 @@ institutions: [educational-policy-ai]
 - Its larger claims rest on external evidence — cross-country firm-level findings that AI adoption concentrates in large, already-productive firms and Acemoglu's (2025) lower aggregate productivity estimates — rather than on data the authors collect.
 - The authors acknowledge the limits may prove transitional rather than structural, citing electricity adoption, which required decades of factory reorganization before productivity benefits appeared; the framework cannot say how long the gap will persist.
 
-## Connected Concepts
-- [[human-ai-collaboration]]
-- [[professional-training]]
-- [[generative-ai]]
-- [[teacher-role]]
-- [[academic-integrity]]
-- [[higher-ed]]
-## Connected Articles
-
-- [[cognitive-offloading-speedup-illusion]]
-- [[genai-assessment-governance]]
-- [[ai-fatigue-academic-contexts]]
 ## Citation
 
 Cho, W. I., Kim, S., & Kim, G. (2026). [Position: Adopting AI in practice does not guarantee the productivity boost](https://arxiv.org/abs/2605.24688). Accepted at ICML 2026. cs.CY.

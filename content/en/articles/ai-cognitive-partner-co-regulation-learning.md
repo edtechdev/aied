@@ -57,24 +57,6 @@ AI-assisted co-regulation can improve performance, reduce cognitive load, and ex
 - The developmental boundaries are asserted rather than measured: early childhood is confined to structured external regulation and adulthood to collaboration on complex cognition, but no age-graded evidence is presented for where those transitions fall.
 - The framework names excessive [[cognitive-offloading|cognitive offloading]] as the central risk while crediting offloading's benefits, and supplies no measure or threshold for where the balance tips.
 
-## Connected Concepts
-
-- [[learning-theories]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[human-ai-collaboration]]
-- [[theory-development-aied]] — Theory Development in AI in Education
-## Connected Articles
-
-- [[cognitive-offloading-llm-synthesis-writing]]
-- [[lodge-loble-cognitive-offloading-2026]]
-- [[ai-metacognition-stem-review]]
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]]
-
 ## Citation
 
 S, P., Joseph, J., Jose, M., S. M, A., N, R., & Joseph, J. (2026). [*Artificial intelligence as a cognitive partner: a developmental framework for human-AI co-regulation in learning*](https://doi.org/10.3389/fdpys.2026.1835258). *Frontiers in Developmental Psychology*, 4, 1835258.

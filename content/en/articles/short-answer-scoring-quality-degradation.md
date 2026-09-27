@@ -45,28 +45,6 @@ The findings also matter for [[formative-assessment]] systems — if ASAS works 
 - The assessment consisted of two open-ended biology items, and the fine-tuning data came from 669 students in grades 10-12 attending 25 high schools in the first of two collection cycles, so generalizability to other items and domains remains to be established.
 - The study does not employ standard evaluation metrics such as Quadratic Weighted Kappa (QWK) or Pearson's correlation, which may hinder direct comparison with existing ASAS benchmarks.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[human-in-the-loop-ai]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[benchmark]]
-- [[ai-feedback-quality]]
-
-
-## Connected Articles
-
-- [[cong-confidence-asag-2026]]
-- [[ai-tutor-behavioral-evaluation]]
-- [[sequenced-ai-feedback-learning]]
-- [[ground-truth-reliability-aied]]
-- [[generate-then-validate-question-gen]]
-- [[llm-psychometric-calibration-cdp]]
-
-
 ## Citation
 
 Schleifer, A. V. G., Ariely, M., & Klebanov, B. B. (2026). [*Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation*](https://arxiv.org/abs/2605.07647).

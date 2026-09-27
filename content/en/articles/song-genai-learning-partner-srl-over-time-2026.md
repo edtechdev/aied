@@ -11,7 +11,6 @@ sources: ['raw/papers/song-genai-learning-partner-srl-over-time-2026.md']
 source_url: 'https://doi.org/10.20851/ll.v8.73'
 confidence: high
 audience: [instructors, instructional designers]
-connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** **[[generative-ai|GenAI]] as a [[pedagogical-agent|learning partner]]** — a longitudinal study of 75 first-year university students across a full semester showing that SRL is both a stable aptitude and a dynamically fluctuating state. Individual baselines were consistent, but [[metacognition|metacognitive]] knowledge and [[well-being]] declined systemically over the term, driven by [[curriculum-design|curriculum]] demands (e.g., major assessment deadlines). A proof-of-concept demonstrated that giving an [[llm]] personal, temporal, and contextual information enables it to identify tailored SRL support directions.
@@ -35,20 +34,6 @@ connected_faqs: [asynchronous-online-courses-ai]
 - Every measure is self-report (MAI_K, MAI_R, WEMWBS, and single-item interest and self-efficacy scales), so the reported declines reflect perceived rather than demonstrated [[self-regulated-learning|self-regulation]] or learning.
 - Daily surveys ran only in weeks 4, 6, 8, and 9 (246 responses), so the "week-by-week" trajectory rests on four sampled weeks of the 12-week term.
 - The [[generative-ai|GenAI]] component is a proof-of-concept on two illustrative student cases whose output was judged appropriate by two members of the research team; there was no control group and no measured effect of the tailored support on learning.
-
-## Connected Concepts
-
-- [[self-regulated-learning]]
-- [[learning-analytics]]
-- [[generative-ai]]
-- [[metacognition]]
-- [[agency]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[banihashem-ai-srl-systematic-mapping-review-2025]] — Systematic mapping of AI and SRL
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulated learning
 
 ## Citation
 

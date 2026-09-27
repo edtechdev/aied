@@ -43,24 +43,6 @@ methods: [qualitative-research]
 - The data set is small, as the authors state, and no learning outcomes were measured; the sessions tracked only qualitative dimensions of the chat histories through inductive coding by two raters (percent agreement between the raters ranged from 0.88 to 1 across the assessment aspects).
 - The simulation's own weaknesses bound what it can teach: it learned new strategies in a single turn, was inconsistent with the common-denominator strategy for reasons the authors cannot yet explain, and periodically confused student and teacher roles.
 
-## Connected Concepts
-
-- [[teacher-education]]
-- [[math-education]]
-- [[simulation]]
-- [[generative-ai]]
-- [[teacher-role]]
-- [[pedagogical-llm-training]]
-- [[professional-training]]
-
-## Connected Articles
-
-- [[llm-student-simulation-teacher-insights]]
-- [[simulating-students-llm-review-2026]]
-- [[valid-student-simulation-llm-2026]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[mathematics-teachers-chatbot-motivation-2026]]
-
 ## Citation
 
 Zhuang, Y., & Zhang, S. (2025). [Integrating ChatGPT in Mathematics Teacher Education: AI-Based Simulation Role-Playing to Support Practice-based Teaching](https://doi.org/10.1007/s40593-025-00519-0). *International Journal of Artificial Intelligence in Education*, 35, 3873–3895.

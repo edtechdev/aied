@@ -34,19 +34,6 @@ level: [primary education]
 - The measures predate the spread of generative AI: the survey was collected in 2022–2023, before tools like [[generative-ai|ChatGPT]] entered classrooms, so the AI usage it captures is of an earlier generation of educational tools.
 - AI usage was teacher-reported and digital literacy came from the monitor's items rather than a performance-based assessment; teacher reports capture institutionally sanctioned school tools but miss autonomous, out-of-school use of general-purpose AI, and the authors call for performance-based digital literacy measures and independent teacher ratings in future work.
 
-## Connected Concepts
-
-- [[digital-divide]]
-- [[equity-in-ai-education]]
-- [[ai-literacy]]
-
-## Connected Articles
-
-- [[idan-anand-genai-productivity-divide-2026]] — the GenAI productivity divide
-- [[access-not-enough-ai-tutoring-2026]] — access alone does not equal benefit
-- [[digital-literacy-illusion]] — assumptions about digital competence
-- [[ai-availability-student-motivation]] — how AI availability shapes student dispositions
-
 ## Citation
 
 [Decoding divides: The role of socioeconomic status and personality traits in AI divides and educational inequality](https://www.sciencedirect.com/science/article/pii/S2666920X26000949) — Wang, Z., van Wetten, S., Segers, E., & Haelermans, C. (2026). *Computers and Education: Artificial Intelligence*, 10, 100566.

@@ -50,28 +50,6 @@ The findings converge strongly with UNESCO's Guidance for Generative [[ai-educat
 - The authors state that the Delphi pursuit of consensus may narrow the scope of perspectives and that the persona-based discussions involved interpretive synthesis by the research team, so the findings are "a structured expert-informed synthesis rather than a direct aggregation of individual perspectives."
 - Priority ratings rest on expert perception using 10-point importance, impact, and challenge scales rather than measured outcomes, and the three dimensions did not differ significantly, F(2, 42) = 0.91907, p > .05.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[llm]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ethics]]
-- [[formative-assessment]]
-- [[learning-analytics]]
-- [[human-ai-collaboration]]
-- [[inclusive-learning]]
-- [[adaptive-learning]]
-
-## Connected Articles
-
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Governing GenAI in higher education (Delphi study)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance of AI in higher education
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas in higher education
-- [[crompton-faculty-technology-integration-standards-2026]] — Faculty technology integration standards
-
 ## Citation
 
 Majumdar, R., Ifenthaler, D., Schumacher, C., Donlon, E., Hsu, H.-P., Zagami, J., Heitink, M., & Mueller, W. (2026). [*Fostering collaborative futures: Multidisciplinary approaches to AI integration in educational ecosystems*](https://doi.org/10.1016/j.caeo.2026.100405). *Computers and Education Open*.

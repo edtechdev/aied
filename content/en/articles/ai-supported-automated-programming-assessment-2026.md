@@ -52,26 +52,6 @@ Self-efficacy rose from 2.76 to 3.87 in the experimental group versus 2.82 to 3.
 - The quasi-experimental intact-class design limits causal claims; with no time-on-task-matched control, components cannot be separated.
 - Evidence is short-term and single-site: 90 students in one 5-week Python course in Taiwan, with no difficulty calibration, delayed posttest, or trust data.
 
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[mastery-learning]]
-- [[self-efficacy]]
-- [[motivation]]
-- [[generative-ai]]
-- [[learning-analytics]]
-- [[guardrails]]
-
-## Connected Articles
-
-- [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — AI-Assisted Assessment and Instruction in Higher Education: Foundations, Applications, and Implications for Exam Design
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline
-- [[ai-literacy-tool-design-programming-education-2026]] — AI literacy over tool design: a mixed-methods study of scaffolded versus unrestricted generative AI in programming education
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System
-- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
-
 ## Citation
 
 Lan, Y.-F. (2026). [*Design and Evaluation of an AI-Supported Automated Programming Assessment Environment for Concept-Aligned Reinforcement in Engineering and Computing Education*](https://doi.org/10.1002/cae.70271). *Computer Applications in Engineering Education*, 34, e70271.

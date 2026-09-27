@@ -53,25 +53,6 @@ Two exploratory analyses complicate the null result. Mastery-gated progression k
 - The non-adaptive comparison was equivalent in interface, content, and feedback, which isolates difficulty adaptation but likely narrows the expected effect size.
 - No data-collection year or preregistration identifier is reported, and the tutor is rule-based (CTAT+TutorShop, default BKT parameters), so the null result may not extend to LLM tutors.
 
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[differential-effects-across-learner-groups]]
-- [[formative-assessment]]
-- [[intelligent-tutoring]]
-- [[learning-gains]]
-- [[mastery-learning]]
-- [[prior-knowledge]]
-- [[self-regulated-learning]]
-
-## Connected Articles
-
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI Tutoring Productive: Evidence from a Mastery-Based Math Practice Experiment
-- [[graph-its-adaptive-algorithms-2026]] — Intelligent tutoring in dynamic domains: a graph-based system for comparative analysis of adaptive algorithms
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Methodologies for Improving the Quality of AI Tutoring in K-12 Education
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System
-
 ## Citation
 
 Sibley, L., Berner, T., & Schmalfeldt, T. (2026). [*Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics*](https://doi.org/10.1016/j.caeo.2026.100420). *Computers and Education Open*, 11, 100420.

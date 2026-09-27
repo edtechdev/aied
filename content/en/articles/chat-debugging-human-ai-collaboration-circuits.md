@@ -69,22 +69,6 @@ The study poses three [[research-methods-aied|research]] questions: (1) What are
 - **Single-method design.** The evidence is qualitative only; the authors' comprehensive [[mixed-methods-research|mixed-methods]] approach, pairing the themes with [[quantitative-research|quantitative]] measures, is planned future work rather than part of this study.
 - **Conclusions remain provisional.** More data collection is needed before the themes can be made robust (see [[limitations-in-aied-research|limitations in AI-education research]]).
 
-## Connected Concepts
-
-- [[llm]]
-- [[human-ai-collaboration]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[scaffolding]]
-## Connected Articles
-
-- [[generativism-learning-theory]] — Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence
-- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
-- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
-- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
-- [[llm-design-problems-hot-pjbl]] — LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication
-
 ## Citation
 
 Hu, J., & Ash, A. (2026). [*Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits*](https://arxiv.org/abs/2608.02955v1). v1.

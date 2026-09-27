@@ -6,7 +6,6 @@ type: article
 foundations: [agency, ai-literacy, teacher-role]
 pedagogy: [scaffolding, self-regulated-learning]
 assessment: [ai-feedback-quality, feedback, formative-assessment]
-connected_faqs: [ai-feedback-at-scale]
 methods: [design-based-research]
 research_method: [case study]
 discipline: [writing education]
@@ -19,7 +18,6 @@ confidence: medium
 > **Synthesis:** **Tubino and Adachi (2022) reframe AI automated feedback tools as a vehicle for developing students' [[feedback-literacy|feedback literacy]], not merely for reducing teacher workload.** Drawing on a Deakin University-wide T&L pilot (2021) with FeedbackFruits' AI automated feedback tool across 29 units and nearly 4,000 students, they show the tool positions feedback as a student-centered activity and affords the demonstration of several dimensions of Molloy et al.'s (2020) learning-centered framework for feedback literacy. They propose making the tool student-facing and degree-wide so students decide what and when to seek feedback on, building agency and self-regulated feedback literacy without adding teacher workload.
 
 ## Core Finding
-
 
 ## What the Paper Does
 
@@ -68,19 +66,6 @@ Strengths include a real-world, multi-faculty, large-scale pilot (~4,000 student
 - Reach was large (~4,000 students across 29 units at Deakin University, 2021) but engagement was thin: average usage was ~13% in undergraduate units and ~12% in postgraduate units, ranging from none to 34% in postgraduate units.
 - There is no comparison condition and no outcome measure of feedback literacy; the evidence is usage data (submission counts and same-day resubmissions) plus consultations with teachers.
 - Usage concentrated among proactive, high-achieving students, so the observed patterns may not represent the wider student population.
-
-## Connected Concepts
-
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[teacher-role]]
-- [[writing-education]]
-- [[agency]]
-- [[scaffolding]]
 
 ## Citation
 

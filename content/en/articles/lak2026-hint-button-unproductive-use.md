@@ -62,22 +62,6 @@ Unlike prior "gaming the system" detectors requiring complex machine-learned mod
 - [[discipline-specific-aied|Domain-specific]] to K–12 mathematics; generalizability to other domains or older learners remains an open question
 - Some high-performing students may strategically use bottom-out hints as worked examples
 
-## Connected Concepts
-
-- [[math-education]]
-- [[learning-analytics]]
-- [[help-seeking]]
-- [[k-12]]
-- [[student-experience]]
-- [[intelligent-tutoring]]
-- [[active-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-## Connected Articles
-
-- [[zhang-tutormoments-2026]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-
 ## Citation
 
 An, M., Mehrvarz, M., Stamper, J., & McLaren, B. M. (2026). [*Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems*](https://doi.org/10.1145/3785022.3785040).

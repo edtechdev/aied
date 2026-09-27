@@ -59,24 +59,6 @@ Recovery is uneven across parameters, and this is informative. The guessing para
 - The tuning touched only part of the model and the reconstruction only part of the curve: LoRA was applied to the Gated Attention components (about a quarter of the layers a conventional transformer would expose), the Gated DeltaNet layers were left untouched after known training instabilities, and ability was discretized into intervals rather than treated as continuous, which the authors link to weak recovery of the discrimination parameter a at 0.31.
 - The work is presented as a technical proof-of-concept on [[math-education|mathematics]] items with image-and-text stimuli; no other subject, item format, or student population is tested, and the authors call for broader validation rather than claiming general transfer.
 
-## Connected Concepts
-
-- [[item-response-theory]]
-- [[educational-measurement]]
-- [[psychometrically-aware-ai]]
-- [[student-modeling]]
-- [[automated-assessment]]
-- [[llm]]
-- [[multimodal]]
-- [[knowledge-tracing]]
-
-## Connected Articles
-
-- [[ai-assessment-scale-reform]] — AI assessment scale reform
-- [[ai-assessment-human-tutors]] — AI assessment compared with human tutors
-- [[socratic-tests-conversational-assessment]] — Conversational assessment
-- [[tutoring-effectiveness-index]] — Tutoring effectiveness index
-
 ## Citation
 
 Ormerod, C., & Kim, Y. (2026). [*Multimodal item parameter estimation using simulated response probabilities*](https://arxiv.org/abs/2608.10154).

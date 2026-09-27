@@ -44,22 +44,6 @@ The study draws on qualitative data from ten academics in a mathematics departme
 - Data were collected at one point in time, in the early weeks of the 2024–2025 spring semester, so findings are context-bound and in flux — practices that currently appear peripheral, supportive, or informal, particularly in research, may become more embedded or differently regulated over time.
 - The authors also caution that the findings identify empirical patterns consistent with a runaway-object perspective rather than fully demonstrating GenAI as a runaway object in the strong sense proposed by Engeström.
 
-## Connected Concepts
-
-- [[math-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[stem-education]]
-- [[educational-development]]
-- [[tpack]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[governance]]
-## Connected Articles
-
-- [[ai-tpack-preservice-math-teachers]]
-- [[epistemic-proactivity-math]]
-
 ## Citation
 
 Bakogianni, D., Liljekvist, Y., & Bui, P. (2026). [*GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics*](https://doi.org/10.1016/j.caeai.2026.100637).

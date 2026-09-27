@@ -18,7 +18,6 @@ level: [secondary]
 
 ## Core Finding
 
-
 ## Three Core Components
 
 LearnLens is designed as a dual-interface system serving both teachers and students, built around three components that each target a shortcoming of prior AI-feedback systems.
@@ -68,31 +67,6 @@ Strengths include a modular, component-level evaluation on authentic student ans
 - Evaluation covers teachers, not students: the 30-teacher usability study (N = 30) reports perceptions only, and the authors explicitly acknowledge the lack of student evaluation, so no claim about student learning gains is supported.
 - Teacher evidence is self-report Likert data (mean ratings never below 4.1/5 across nine items) from a single [[stem-education]] GCSE science context, which limits generalization to other subjects and year groups.
 - Scoring performance rests on 100 authentic student answers, and all experiments ran under local deployment with three models (Llama-3-8B, Qwen2.5-32B, QwQ-32B), so the reported MSE, latency and cost figures may not transfer to other model stacks or cloud settings.
-
-## Connected Concepts
-
-- [[ai-feedback-quality]]
-- [[feedback]]
-- [[llm]]
-- [[generative-ai]]
-- [[stem-education]]
-- [[student-modeling]]
-- [[human-in-the-loop-ai]]
-- [[curriculum-design]]
-- [[teacher-role]]
-- [[educational-nlp]]
-- [[formative-assessment]]
-- [[rag]]
-- [[knowledge-graph]]
-- [[hallucination-risk]]
-- [[prior-knowledge]]
-- [[privacy]]
-
-## Connected Articles
-
-- [[sequenced-ai-feedback-learning]]
-- [[care-full-feedback-genai]]
-- [[learner-centered-feedback-ai]]
 
 ## Citation
 

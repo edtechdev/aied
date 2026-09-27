@@ -37,32 +37,9 @@ This [[mixed-methods-research|mixed-methods]] study implemented PAIRR in 10 dist
 - **Instructors.** Encourage students to continue the AI conversation when it is productive: 35% did so, and 71% of those preferred combined feedback versus 50% of those who did not.
 - **Administrators.** Scale the model to large writing-intensive courses as well as small classes: preferences did not differ statistically by course size across the 10 writing courses and three WI courses studied.
 
-
 ## Limitations
 
 The study's focus was on student perceptions of AI feedback utility, so it did not directly evaluate AI outputs for bias or quality. Differences in course mode, writing support, instructor experience, rubrics, assignment prompts, and genre across courses may have affected perceptions; the large online PLA course was overrepresented, and its students received only one peer reviewer (vs. two elsewhere) yet got comprehensive TA feedback. ChatGPT 4.0 was released mid-study, and version access was variable. The authors did not distinguish one-shot vs. continued-conversation feedback in the main findings.
-
-## Connected Concepts
-
-- [[ai-feedback-quality]]
-- [[writing-education]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[academic-integrity]]
-- [[peer-assessment]]
-
-## Connected Articles
-
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback
-- [[multimodal-ai-feedback-learning]] — LLM-Based Multimodal AI Feedback Produces Equivalent Learning
-- [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
-- [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI
-- [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
-- [[student-rationalization-ai-writing]] — "It's OK Because...": The Wild West of Student Rationalization of AI Writing
-- [[ai-generated-feedback-higher-ed]] — AI-Generated Feedback in Higher Education
 
 ## Citation
 

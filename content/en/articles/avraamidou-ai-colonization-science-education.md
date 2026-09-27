@@ -64,22 +64,6 @@ The essay closes with an affirmative: *"Can we disrupt the momentum of the AI co
 - The critique is explicitly scoped to the Global North ("at least in the Global North"), so its account of industry capture may not describe science education elsewhere.
 - The feminist, human-centered alternative is programmatic: the essay offers a direction and six questions but no curriculum, implementation, or evaluation evidence.
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[stem-education]]
-- [[critical-thinking]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[reducing-ai-misuse]]
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-
-## Connected Articles
-
-- [[ai-ethics-education-public-discourse]]
-
 ## Citation
 
 Avraamidou, L. (2024). Can we disrupt the momentum of the AI colonization of science education? *Journal of Research in Science Teaching*, 61(10), 2570–2574. [https://doi.org/10.1002/tea.21961](https://doi.org/10.1002/tea.21961)

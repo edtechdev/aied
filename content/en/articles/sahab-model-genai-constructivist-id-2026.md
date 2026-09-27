@@ -38,23 +38,5 @@ The paper contributes to the [[teacher-ai-competency|teacher-AI competency]] and
 - The intervention lasted only 12 hours with no follow-up measurement, so durability of the competency gain is unknown.
 - The study measured teacher instructional-design competency, not student outcomes; the impact of SAHAB-designed lessons on student deep learning and engagement remains untested.
 
-## Connected Concepts
-- [[teacher-education]]
-- [[constructivist]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[teacher-ai-competency]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[agency]]
-- [[professional-training|professional development]]
-- [[teacher-role]]
-
-## Connected Articles
-- [[crompton-faculty-technology-integration-standards-2026]] — Faculty Technology Integration Standards
-- [[genai-pd-ai-pck-learning-gain-2026]] — GenAI Professional Development and AI-PCK
-- [[mishra-control-vs-agency-history-2025]] — Control vs Agency in AIED History
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical Partnerships with GenAI
-
 ## Citation
 Talebzadeh, H. (2026). [*Evaluating the Effectiveness of Generative Artificial Intelligence in Empowering Teachers for Constructivist Instructional Design: A Case Study of the SAHAB Model*](https://osf.io/preprints/edarxiv/dtn8y_v1/). ICELET 2026 Accepted Manuscript.

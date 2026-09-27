@@ -47,25 +47,6 @@ methods: [ai-ed-evaluation, benchmark, quantitative-research]
 - The reference condition approximated but did not replicate a human expert writing items for each course: AP Statistics questions were matched to courses by LLM-judged concept and difficulty, which may differ from expert judgment.
 - Exam type was not randomly assigned, and the model treats each student's latent ability θ as constant across the semester; if AI-tested and standardized-tested classes differed in ability change, the difficulty and discrimination comparisons are biased.
 
-## Connected Concepts
-
-- [[automated-question-generation]]
-- [[automated-assessment]]
-- [[item-response-theory]]
-- [[assessment-validity]]
-- [[generative-ai]]
-- [[llm]]
-- [[higher-ed]]
-- [[ai-ed-evaluation]]
-
-## Connected Articles
-
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-based difficulty calibration of exam questions
-- [[generate-then-validate-question-gen]] — Generate-Then-Validate question generation
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human assessment tasks in EFL
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment (AAIWA)
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — Student LLM usage and course outcomes
-
 ## Citation
 
 Isley, C., Gilbert, J., Kassos, E., Kocher, M., Nie, A., Brunskill, E., Domingue, B., Hofman, J., Legewie, J., Svoronos, T., Tuminelli, C., & Goel, S. (2025). [*Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study*](https://arxiv.org/abs/2508.08314). [cs.CY]. https://doi.org/10.48550/arXiv.2508.08314

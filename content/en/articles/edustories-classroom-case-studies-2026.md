@@ -46,26 +46,6 @@ The paper is careful about the distance between predicting an outcome and helpin
 - Outcome labels are the teachers' own perceived results, and expert judges agreed on only 82.56% of cases (κ = 0.7356), which bounds how accurately any system can be scored against this ground truth.
 - The English free-text is machine-translated Czech, and the authors estimate that 5–10% of stories may contain a typo or "translationese" text that no human proofreader verified.
 
-## Connected Concepts
-
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[llm]]
-- [[educational-nlp]]
-- [[benchmark]]
-- [[ai-feedback-quality]]
-- [[student-engagement]]
-- [[collaborative-learning]]
-- [[educational-development]]
-- [[quantitative-research]]
-
-## Connected Articles
-
-- [[ai-rated-classroom-observation-scores-2026]] — AI-rated classroom observation scores
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Teacher AI literacy and feedback quality
-- [[ai-changing-teaching-workflows]] — How AI changes teaching workflows
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — Teacher professional development for AI agents
-
 ## Citation
 
 Štefánik, M., Nehyba, J., Karasova, J., Fico, M., Škarková, L., Košatková, M., & Kosatka, D. (2026). [Edustories: A Collection of Real-world Case Studies from Classroom Practices](https://arxiv.org/abs/2609.20484). arXiv:2609.20484.

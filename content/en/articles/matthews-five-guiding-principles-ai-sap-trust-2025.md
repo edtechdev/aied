@@ -56,25 +56,5 @@ Each principle is accompanied by questions for students and educators to explore
 - The supporting prevalence figures are borrowed from other studies — 83% of over 8,000 students across multiple institutions reported using AI (Chung et al., 2025), and about half used it for [[feedback]] (Henderson et al., 2025) — so the argument depends on secondary evidence it does not itself evaluate.
 - The partnership examples cited (a University of Sydney student-staff AI guide, a Georgetown first-year writing AI policy, University College London medical assessment co-creation) come from others' published accounts rather than from evidence examined here, and the author explicitly invites further critical discussion and empirical research.
 
-## Connected Concepts
-- [[pedagogical-partnerships]]
-- [[trust]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[agency]]
-- [[ethics]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[pedagogy]]
-- [[student-engagement]]
-- [[ai-use-disclosure]]
-
-## Connected Articles
-- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
-- [[williams-ingle-assessment-co-creation-ai-2025]] — Assessment Design Through Co-Creation in the Age of AI
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-Designing AI with Youth
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — "Should I Tell My Teacher?" Student AI Disclosure Practices
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — GenAI in Peer Feedback and Collaborative Argumentation
-
 ## Citation
 Matthews, K. E. (2025). [*Five guiding principles for navigating artificial intelligence in students as partners practice to preserve pedagogical trust*](https://doi.org/10.15173/ijsap.v9i2.6871). *International Journal for Students as Partners, 9*(2), 1–8.

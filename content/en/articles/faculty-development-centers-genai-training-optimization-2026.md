@@ -5,7 +5,6 @@ updated: "2026-09-19T09:19:18-04:00"
 type: article
 technology: [prompt-engineering]
 methods: [mixed-methods-research]
-connected_faqs: [faculty-development-ai]
 foundations: [teacher-ai-competency]
 pedagogy: [professional-training]
 audience: [faculty developers, instructors, administrators, researchers]
@@ -46,29 +45,6 @@ The quasi-experimental training component drew 160 faculty from the baseline sam
 - Group assignment in the training component reflected voluntary sign-up, institutional scheduling, and course arrangements, so results are best interpreted as associations between structured training and readiness change rather than strict causal estimates.
 - Five universities cannot cover the full range of university types and disciplinary contexts in China and Kazakhstan, limiting generalizability.
 - University-level sensitivity checks were treated as descriptive rather than confirmatory, and country fixed effects could not be estimated because universities were nested within country.
-
-
-## Connected Concepts
-
-- [[professional-training]] — positioned as course-level professional learning for faculty, in the Guskey/Desimone tradition
-- [[teacher-ai-competency]] — the seven-dimension GenAI pedagogical readiness construct at the center of the study
-- [[prompt-engineering]] — structured prompt-task training is the intervention and the construct with the largest and most durable gains
-- [[educational-development]] — situates faculty development center practice in higher education development research
-- [[tpack]] — readiness dimensions are derived from TPACK, DigCompEdu, and AI literacy frameworks
-- [[stakeholders]] — institutional support, perceived permission, and policy clarity shaped practice
-- [[transfer-of-learning]] — disciplinary transfer was the weakest baseline dimension
-- [[multilingual-learning]] — multilingual GenAI resource access predicted readiness and shaped prompt language use
-
-## Connected Articles
-
-- [[sutedjo-faculty-genai-tpack-21-2026]] — cross-institutional faculty preparation and resources for GenAI, a direct parallel on faculty readiness
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — instrument development for faculty AI readiness, the same measurement problem
-- [[designing-ai-professional-development-itpack-2026]] — designing AI professional development around integrated teacher knowledge
-- [[crompton-faculty-technology-integration-standards-2026]] — faculty technology integration standards behind center-level training design
-- [[tpack-genai-inservice-teachers-mediation-2026]] — TPACK mediation of GenAI use among in-service teachers
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — teacher professional development design for AI, comparable PD intervention logic
-- [[ai-adaptation-gap-higher-education-2026]] — institutional conditions mediating AI adoption in higher education
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — institutional governance and policy clarity in GenAI adoption
 
 ## Citation
 

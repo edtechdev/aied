@@ -35,21 +35,6 @@ Synchronous suggestions increased efficiency but led to contextual misalignment 
 - The authors state their conclusions rest on qualitative findings because of the sample size, so the study establishes exploratory patterns rather than measured effects.
 - Convenience sample: participants were recruited through external Slack channels and the institute's paid-study listing, compensated \$16 CAD, and averaged 28.1 years old (range 19 to 54).
 
-## Connected Concepts
-
-- [[writing-education]]
-- [[generative-ai]]
-- [[human-ai-collaboration]]
-- [[ai-literacy]]
-- [[trust]]
-- [[agency]]
-- [[human-in-the-loop-ai]]
-## Connected Articles
-
-- [[becerra-aicofe-feedback-2026]]
-- [[mindcopilot-llm-co-writing]]
-- [[socially-fluent-ai-identity-detection]]
-- [[agency-gap-ai-writing]]
 ## Citation
 
 Yin, M., Chiang, A., Cox, S. R., & Xiao, R. (2026). ["It felt a bit eerie": Exploring humanlike interactions during collaborative writing with an artificial agent](https://arxiv.org/abs/2605.24729).

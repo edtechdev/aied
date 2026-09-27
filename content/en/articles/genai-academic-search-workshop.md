@@ -58,25 +58,6 @@ The second roundtable asked how to advance human-centered GenAI academic search.
 - The figures it reports belong to individual lightning talks, not the workshop: 1,596 seed authors, 10 disciplines, and 8 global regions bound one bias study's ground truth; 2,076 students and 101 librarians bound one curriculum's survey; approximately 1,700 first-year students describe one librarian's instruction reach; five top-ranked results bound one overview evaluation.
 - No attendance figures or levels of participant agreement are recorded, and clusters were assembled from sticky notes, so a theme's prominence is not a measured consensus.
 
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[ai-education]]
-- [[formative-assessment]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[llm]]
-- [[critical-thinking]]
-- [[higher-ed]]
-## Connected Articles
-
-- [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
-- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
-- [[reshaping-cs-education-genai]] — Reshaping Undergraduate Computer Science Education in the Generative AI Era
-
 ## Citation
 
 Liu, Y., Arguello, J., Hoeber, O., et al. (2026). [*Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)*](https://arxiv.org/abs/2606.08936).

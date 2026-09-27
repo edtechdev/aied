@@ -44,23 +44,6 @@ The study used a within-subjects experimental design in which 60 university stud
 - Evaluation covered only the first two levels of Bloom's taxonomy — retrieving data points and comprehending insights — leaving more complex cognitive tasks such as manipulating data stories untested.
 - The comics were not embedded in instructional activities or connected to learning outcomes, and the authors note that creation still requires substantial human involvement.
 
-## Connected Concepts
-
-- [[generative-ai]]
-- [[k-12]]
-- [[active-learning]]
-- [[storytelling-in-education]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation
-
 ## Citation
 
 Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, Roberto Martinez-Maldonado (2026). [Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation](https://arxiv.org/abs/2607.02361).

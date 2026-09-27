@@ -30,17 +30,6 @@ confidence: high
 - Feedback quality was judged on a stratified sample of 400 essays (50 per prompt) and by a double-blind panel of only three senior education experts rating 80 essays.
 - The trait-adaptive scorer depends on fine-grained analytic labels (e.g., Voice, Organization) that the authors note are scarce in operational assessment settings, restricting it to corpora with trait annotations.
 - The ZPD scaffolding gains (a 17.38% normalized gain for θ < −1) were measured through simulated revisions; the authors state the protocol cannot model motivation, epistemic trust or cognitive fatigue, and no controlled classroom trial was run.
-## Connected Concepts
-- [[automated-assessment]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[writing-education]]
-- [[scaffolding]]
-## Connected Articles
-- [[icle-plus-plus-essay-scoring]] — iCLE++ essay scoring
-- [[choi-anchor-aes-prompting-2025]] — Anchor-based AES prompting
-- [[becerra-aicofe-feedback-2026]] — AI peer feedback systems
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 ## Citation
 
 Xia, W., Wu, J., Shi, H., Wang, X., & Zheng, C. (2026). [*PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback*](https://arxiv.org/abs/2606.20287). East China Normal University / arXiv cs.CL preprint.

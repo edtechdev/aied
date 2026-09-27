@@ -49,26 +49,6 @@ This paper grounds the knowledge base's treatment of [[ethics]] in [[higher-ed]]
 - Only 135 of 776 faculty responded to the survey, and the authors flag potential non-response bias among faculty who chose not to participate.
 - The sequential design is cross-sectional, so it cannot track how ethical perceptions and practices change over time.
 
-## Connected Concepts
-
-- [[ethics]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[governance]]
-- [[academic-integrity]]
-- [[privacy]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[critical-thinking]]
-- [[agency]]
-
-## Connected Articles
-
-- [[ai-ethics-bibliometric-2026]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[shin-ai-policies-sld-2026]]
-- [[moral-panic-genai-classroom]]
-
 ## Citation
 
 Bilgiç, B., & Sever, D. (2026). [*Understanding ethical dimensions of AI in higher education: insights from faculty members and students*](https://doi.org/10.1186/s41239-026-00601-0). *International Journal of Educational Technology in Higher Education*.

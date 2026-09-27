@@ -29,22 +29,5 @@ The stakes fall hardest on **[[multilingual-learning|multilingual]] learners**, 
 - Students answered a single open-ended "spacewalk" task on sound transmission, all in German; whether the pattern holds across other content areas, ages, languages, or formats is untested.
 - Expert ratings served as the reference standard but are not ground truth — conceptual understanding can only be inferred indirectly from text-based explanations, the same limitation the study diagnoses in AI scoring.
 - The responses come from a dataset originally built to study physics teachers' assessment, and they vary naturally rather than through experimental manipulation, so the analyses are correlational.
-## Connected Concepts
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[bias-mitigation]]
-- [[assessment-validity]]
-- [[equity-in-ai-education]]
-- [[language-learning]]
-- [[ai-feedback-quality]]
-- [[educational-measurement]]
-- [[physics-education]]
-## Connected Articles
-- [[genai-linguistic-diversity-academic-writing]]
-- [[cong-confidence-asag-2026]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[short-answer-scoring-quality-degradation]]
-- [[ai-assessment-human-tutors]]
-- [[icle-plus-plus-essay-scoring]]
 ## Citation
 Feser, M. S., & Tschisgale, P. L. (2026). [*AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics*](https://arxiv.org/abs/2607.28210).

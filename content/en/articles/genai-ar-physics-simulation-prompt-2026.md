@@ -77,26 +77,6 @@ Three themes recur in the open answers: *feeling the wave* ("it entered my mind 
 - The demonstration covers one topic (wave and lamp) and one gesture, and the mapping is qualitative and meant for teaching rather than a quantitative model of an electromagnetic field.
 - Reliable hand tracking took several attempts in practice, and the interface depends on a working camera and ordinary classroom lighting, so results are tied to that implementation context.
 
-## Connected Concepts
-
-- [[physics-education]]
-- [[generative-ai]]
-- [[simulation]]
-- [[stem-education]]
-- [[prompt-engineering]]
-- [[personalized-learning]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[multimodal]]
-
-## Connected Articles
-
-- [[ai-generated-smartphone-circular-motion-lab-2026]]
-- [[fouad-bentley-trust-utility-gap-physics-2026]]
-- [[becker-chatgpt-typology-physics-2026]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[agentschool-multi-agent-simulation-education-2026]]
-
 ## Citation
 
 Levy, O., Glazer, J., Finkelstein, N. D., & Ben-Zion, Y. (2026). [*From prompt to embodied simulation: Using generative AI to create AR physics learning tools*](https://arxiv.org/abs/2607.24709).

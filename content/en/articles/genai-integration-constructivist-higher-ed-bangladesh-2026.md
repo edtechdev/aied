@@ -39,17 +39,5 @@ institutions: [educational-policy-ai]
 - The qualitative component rested on four focus group discussions of six faculty members each across four selected universities, with transcripts translated from Bangla to English before thematic analysis.
 - All adoption constructs are self-reported in a single cross-sectional survey; the authors call for future research on longitudinal effects that the design cannot support.
 
-## Connected Concepts
-- [[constructivist]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[global-south]]
-- [[technology-acceptance-model]]
-- [[educational-policy-ai]]
-
-## Connected Articles
-- [crompton-faculty-technology-integration-standards-2026] — faculty technology-integration standards
-- [genai-higher-education-systematic-review-2026] — systematic review of GenAI in higher education
-
 ## Citation
 Alam, M. M., Farhaz, S., Haq, S. M. A., & Ferdous, M. (2026). [Generative Artificial Intelligence integration in higher education: A constructivist learning theory approach](https://doi.org/10.1016/j.caeo.2026.100378). *Computers and Education Open, 10*, 100378.

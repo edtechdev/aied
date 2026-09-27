@@ -26,7 +26,6 @@ level: [k 12]
 5. **Gains are substantial and privacy-preserving by design.** At 128k context, PersonaVLM beats its Qwen2.5-VL-7B baseline by 22.4% on Persona-MME and 9.8% on PERSONAMEM, and outperforms GPT-4o — with training data synthesized locally.
 6. **Persona-MME is the first long-term personalization benchmark.** Spanning seven aspects (Memory, Intent, Preference, Behavior, Relationship, Growth, Alignment) and 14 tasks at 32k and 128k contexts, its 2,034 cases show performance collapsing at short contexts.
 
-
 ## Mapping to Educational Needs
 
 While PersonaVLM was evaluated on general assistant tasks, its memory taxonomy maps cleanly onto gaps in educational AI, where most tutoring systems still lack longitudinal [[student-modeling|student modeling]]:
@@ -54,47 +53,6 @@ The comparison with adjacent work sharpens the gap. [[huang-interpretable-knowle
 - The authors state three limits of the architecture itself: it does not support person recognition or tracking from video or audio, its ceiling is set by the underlying baseline model, and its memory is timeline-based, so related episodic memories from different times are never merged.
 - Training data is self-synthesized: 700 personas sampled from PersonaHub, 500 reserved for training, with personality traits randomly assigned rather than drawn from real learners.
 - Alignment optimizes user satisfaction, which is not the same target as learning; personality inference from limited interaction can stereotype learners and the EMA smoothing in the Personality Evolving Mechanism softens but does not remove that risk, leaving open what should constrain personalization from sliding into over-accommodation.
-
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[affective-tutoring]]
-- [[benchmark]]
-- [[desirable-difficulties]]
-- [[guardrails]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[knowledge-tracing]]
-- [[learning-gains]]
-- [[lifelong-learning]]
-- [[llm]]
-- [[metacognition]]
-- [[misconceptions]]
-- [[multimodal]]
-- [[pedagogy]]
-- [[personalized-learning]]
-- [[prior-knowledge]]
-- [[privacy]]
-- [[rag]]
-- [[regulation]]
-- [[reinforcement-learning]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[socratic-method]]
-- [[student-modeling]]
-- [[transfer-of-learning]]
-
-## Connected Articles
-
-- [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalab...
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterizing AI Tutor Blind Spots When Analyzing Student Reasoning
-- [[ecnuclaw-k12-personalized-companion]] — ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education
-- [[history-aware-student-simulation]] — Student simulation conditioned on interaction history
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing for real-time ability estimation
-- [[llm-student-simulation-misconception-faithfulness]] — Faithfulness of LLM-simulated student misconceptions
-- [[stanford-evidence-base-ai-k12-2026]] — Evidence base for AI tutor design in K-12
-- [[taklif-ai-interest-based-personalized-assignments]] — Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments
-- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
 
 ## Citation
 

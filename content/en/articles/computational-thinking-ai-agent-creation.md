@@ -42,19 +42,6 @@ These findings challenge linear learning assumptions in [[k-12]] and provide dir
 - Single site, no control group: 93 incoming high school freshmen at one public high school in southern China, recruited through voluntary enrollment without prior screening for programming experience.
 - Pattern recognition and generalization improved only modestly (d = 0.35), which the authors read as a higher-order capability that a five-day workshop may not be long enough to cultivate.
 
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[ai-literacy]]
-- [[computational-thinking]]
-- [[k-12]]
-- [[scaffolding]]
-- [[self-efficacy]]
-
-## Connected Articles
-
-- [[ai-metacognition-stem-review]]
-- [[agentic-education-coding]]
 ## Citation
 
 Sun, Y., Xin, H., Niu, Q., Li, S., Huang, L., & Chen, G. (2026). [Computational thinking development in AI agent creation: A mixed-methods study](https://arxiv.org/abs/2605.14330).

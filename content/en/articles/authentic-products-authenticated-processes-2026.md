@@ -53,25 +53,6 @@ The framework becomes a **review instrument for assessment briefs**: teams exami
 - The alignment scale is explicitly an indicative heuristic (weak, partial, substantial, strong), not a psychometric instrument, so the framework should not yet be used as a formal evaluation instrument.
 - The AI-aware validity dimension captures an emerging debate rather than settled evidence, and the authors note cross-disciplinary empirical evaluation of redesigned authentic assessments with shared outcome measures remains limited.
 
-## Connected Concepts
-
-- [[ai-ed-evaluation]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[llm]]
-- [[authentic-assessment]] — Authentic Assessment
-- [[academic-integrity]]
-- [[assessment]]
-- [[agency]]
-## Connected Articles
-
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-
 ## Citation
 
 Tsiligkiris, V. (2026). [*From authentic products to authenticated processes: a systematic conceptual review of authentic assessment in AI-rich higher education*](https://doi.org/10.1080/02602938.2026.2695376). *Assessment & Evaluation in Higher Education*.

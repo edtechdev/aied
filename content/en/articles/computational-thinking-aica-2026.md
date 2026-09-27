@@ -55,24 +55,6 @@ This article directly links learner cognition (CT) to measurable [[learning-gain
 - Cognitive characteristics were coded from reflection journals, which the authors note are inherently subjective and may not capture actual cognitive states.
 - No phase-by-phase performance measures (task success rates, concurrent exercise accuracy) were analyzed, so the study cannot trace when group differences emerged.
 
-## Connected Concepts
-
-- [[computational-thinking]] — CT is the central independent variable; the study empirically demonstrates its role as a differentiating learner characteristic in AI-assisted learning.
-- [[self-regulated-learning]] — Cognitive patterns analyzed via ENA show high-CT students display connected SRL coherence (planning–execution–reflection) absent in low-CT students.
-- [[learning-gains]] — The high-CT group significantly outperformed the low-CT group on post-test learning performance, directly linking CT to learning gains.
-- [[scaffolding]] — The AICA functions as a scaffold, but the authors argue scaffolds must be differentiated by CT level (open-ended vs. structured).
-- [[cs-education]] — Context is a K-12 Python coding course using an AI coding assistant; implications for AI-augmented CS education.
-- [[k-12]] — Study conducted with eighth-grade students, extending AI-in-education research to secondary schooling.
-- [[generative-ai]] — The AI coding assistant (Lingma) is a generative AI tool for code generation, explanation, and debugging.
-- [[student-engagement]] — Behavioral patterns reveal differential engagement quality: understanding-oriented (high CT) vs. answer-oriented (low CT).
-- [[equity-in-ai-education]] — Differential benefit by CT level raises equity concerns; differentiated scaffolding is proposed to mitigate them.
-
-## Connected Articles
-
-- [[llm-computational-thinking-physics-2026]] — Using LLMs to Detect Growth in Computational Thinking in Introductory Physics
-- [[human-llm-collaborative-coding-k12-educator-ai]] — Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — How Students' Feedback Literacy Moderates the Link Between ChatGPT Acceptance and Self-Regulated Learning
-
 ## Citation
 
 Zhao, S., Wang, Z., Chen, T., Kang, C., & Lan, Y.-J. (2026). [*Exploring the effect of computational thinking levels on students' learning performance, cognition, and behavior when using AI coding assistants*](https://doi.org/10.1007/s11423-026-10663-6).

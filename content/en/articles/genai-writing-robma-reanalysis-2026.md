@@ -51,32 +51,6 @@ The prior structure is the second difference. RoBMA's defaults are deliberately 
 - It is a single-author note with no DOI or venue in the source, whereas the original appeared in a peer-reviewed journal, so the asymmetry in scrutiny between the two is worth naming.
 - The informative μ ~ Normal(.40, 1) prior is defensible and transparent but still a substantive choice: different priors would produce different posteriors.
 
-## Connected Concepts
-
-- [[meta-analysis-systematic-review]] — the study design being re-analyzed and the design of the re-analysis itself
-- [[research-methods-aied]] — methodological critique as a contribution to the AI-in-education evidence base
-- [[limitations-in-aied-research]] — fragile effect sizes, small study counts and heterogeneity as field-level problems
-- [[generative-ai]] — the intervention whose effect on writing is at issue
-- [[llm]] — the underlying technology class that the recorded interventions rely on
-- [[writing-education]] — the outcome domain, measured through Hedge's *g* on writing performance
-- [[learning-gains]] — effect-size estimation of achievement outcomes as the currency of the debate
-- [[assessment-validity]] — whether a pooled estimate validly represents the construct it claims to measure
-- [[bias-mitigation]] — statistical correction of small-study and publication bias
-- [[quantitative-research]] — Bayesian and frequentist estimation of pooled effects
-- [[educational-measurement]] — priors, credible intervals and Bayes factors as inference machinery
-- [[trust]] — what a headline effect size should and should not license in practice
-
-## Connected Articles
-
-- [[oneill-presumed-effective-meta-analysis-2026]] — How a flawed meta-analytic pipeline manufactured an evidence base for AI in education
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis of AI and learning, by the authors of the RoBMA method used here
-- [[ai-education-effects-second-order-meta-analysis-2026]] — What pooled evidence across many meta-analyses says about AI in education
-- [[genai-meta-analysis-programming-learning]] — A competing meta-analysis of generative AI's effects on learning and productivity
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — A subject-specific meta-analysis of AI-supported instruction and student learning
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Effect sizes and moderators in AI literacy intervention research
-- [[agency-gap-ai-writing]] — What AI-supported writing actually changes in learners' reasoning
-- [[aiawe-automated-writing-evaluation]] — Automated evaluation of writing quality as a measurement problem in AI-supported writing
-
 ## Citation
 
 Hemelstrand, S. (2026). [*Is GenAI helpful for writing? A re-analysis using robust Bayesian meta-analysis (RoBMA)*](https://osf.io/preprints/psyarxiv/uk3vf_v2). KIMEP University, Department of Psychology. Data and R code: OSF project rnqzp.
