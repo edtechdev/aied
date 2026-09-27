@@ -151,6 +151,11 @@ def validate(cfg):
         errors.append(f"preview.port must be a port number, not {port!r}")
     if not get(cfg, 'preview.host'):
         errors.append("preview.host is not set")
+    _amin, _amax = get(cfg, 'article.min_words'), get(cfg, 'article.max_words')
+    if not isinstance(_amin, int) or not isinstance(_amax, int):
+        errors.append(f"article.min_words/article.max_words must be integers, got {_amin!r}/{_amax!r}")
+    elif _amin >= _amax:
+        errors.append(f"article.min_words ({_amin}) must be below article.max_words ({_amax})")
     if cfg.get('local_override'):
         warnings.append(f"per-machine overrides applied from {cfg['local_override']} "
                         f"(host={get(cfg, 'preview.host')}, port={get(cfg, 'preview.port')})")
