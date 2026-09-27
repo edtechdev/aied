@@ -1,7 +1,7 @@
 ---
 title: "FPDS Apps and Resources"
 created: "2026-09-27T03:11:20-04:00"
-updated: "2026-09-27T03:11:20-04:00"
+updated: "2026-09-27T03:31:33-04:00"
 type: resource
 summary: "La página pública de recursos de Faculty Professional Development Services en Hillsborough College, que reúne en un solo lugar sus recursos de IA, docencia y accesibilidad."
 url: https://fpdshc.github.io/apps/
@@ -19,7 +19,7 @@ audience: [instructors, faculty developers, instructional designers]
 level: [higher ed]
 confidence: high
 connected_resources: [edugems, gemini-notebook, liascript]
-source_updated: "2026-09-26T10:04:20-04:00"
+source_updated: "2026-09-27T03:31:33-04:00"
 translation_of: resources/fpds-apps-and-resources
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -36,7 +36,7 @@ ai_assist:
 
 ## Qué puede hacer con ella
 
-La sección de IA apunta al *AI-Era Assignment Design Coach*, un Gemini Gem que guía al profesorado en el rediseño de tareas en un mundo con capacidad de IA; el mismo coach también está disponible como proyecto de Playlab, y una hoja de trabajo de [[academic-integrity]] sin IA cubre la tarea con menos funciones. La sección también enumera un recorrido autoguiado por herramientas de IA y tareas docentes, la *AI in Education Knowledge Base* y un segundo Gemini Gem para diseñar módulos en línea. La sección de accesibilidad reúne una lista de verificación de Canvas que empieza por aquello con lo que usted trabaja y termina con una comprobación humana, una guía sobre [[universal-design-for-learning]] publicada bajo una licencia Creative Commons no comercial, y un segundo Gemini Gem que escribe texto alternativo para las imágenes. La sección de docencia reúne dos cursos de Canvas que la oficina mantiene, un kit de inicio para copiar en su propio curso y un curso de estrategias de enseñanza basadas en la evidencia con elementos de Canvas adaptables, además de una lista de verificación de la enseñanza en línea guardada en un documento. Cada entrada es una página de trabajo y no un anuncio, y las secciones enlazan hacia material que la oficina no aloja.
+La sección de IA apunta al *AI-Era Assignment Design Coach*, un Gemini Gem que guía al profesorado en el rediseño de tareas en un mundo con capacidad de IA; el mismo coach también está disponible como proyecto de Playlab, y una hoja de trabajo de [[academic-integrity]] sin IA cubre la tarea con menos funciones. La sección también enumera un recorrido autoguiado por herramientas de IA y tareas docentes, la *AI in Education Knowledge Base* y un segundo Gemini Gem para diseñar módulos en línea. La sección de accesibilidad reúne una lista de verificación de Canvas que empieza por aquello con lo que usted trabaja y termina con una comprobación humana, una guía sobre [[universal-design-for-learning]] publicada bajo una licencia Creative Commons no comercial, y otro Gemini Gem que escribe texto alternativo para las imágenes. La sección de docencia reúne dos cursos de Canvas que la oficina mantiene, un kit de inicio para copiar en su propio curso y un curso de estrategias de enseñanza basadas en la evidencia con elementos de Canvas adaptables, además de una lista de verificación de la enseñanza en línea guardada en un documento. Cada entrada es una página de trabajo y no un anuncio, y las secciones enlazan hacia material que la oficina no aloja.
 
 ## Para quién es
 
