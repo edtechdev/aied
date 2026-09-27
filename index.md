@@ -1,8 +1,8 @@
 # Index
 
-Last updated: 2026-09-26
+Last updated: 2026-09-27
 
-Articles: 1471 | Concepts: 217 | Resources: 26 | FAQs: 32
+Articles: 1474 | Concepts: 217 | Resources: 26 | FAQs: 32
 
 ## Concepts
 
@@ -326,6 +326,7 @@ Articles: 1471 | Concepts: 217 | Resources: 26 | FAQs: 32
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Beyond the algorithm: academic developers as digital mediators in Global South higher education
 - [[bias-mitigation]] — Bias Mitigation
 - [[bias-representation-text-to-image-education-2026]] — Bias and Representation in AI-Generated Text-to-Image in Education: A Systematic Review
+- [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Understanding ethical dimensions of AI in higher education: insights from faculty members and students
 - [[bilingual-llm-lecture-companion-srl-2026]] — A Bilingual, LLM-Mediated Lecture Companion for Self-Regulated Learning: Architecture, Theoretical Framework, Comparative and Usability Evaluation, and a Pre-Registered Outcomes Protocol
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Developing Deep Learning in Science Through an Adaptive AI-Based STEM Instructional Program: Evidence From Sixth-Grade Classrooms
@@ -390,6 +391,7 @@ Articles: 1471 | Concepts: 217 | Resources: 26 | FAQs: 32
 - [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — Effects of ChatGPT-Assisted Teacher Feedback on College Students' Critical Thinking Skills and Perceptions of Argumentative Writing
 - [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — The Impact of Digital and Artificial Intelligence Technologies on the Improvement of Foreign Language Listening, Speaking, Reading and Writing Skills: A Meta-Analysis
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Changes in pre-service physics teachers' TPACK and collaborative problem solving associated with an AI-supported CTD-PBL module: A quasi-experimental study
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Unpacking the Heterogeneity of Pre-service Teachers' ChatGPT Acceptance: A Latent Profile Analysis Across STEM and Non-STEM Disciplines
 - [[chen-teacharena-language-agents-realistic-teaching-2026]] — TeachArena: Are Language Agents Ready for Realistic Teaching Work?
 - [[chen-zou-genai-group-assessment-agency-2026]] — Students' Agency in GenAI-Mediated Group Assessment: An Ecological-Emergent Perspective
@@ -865,6 +867,7 @@ Articles: 1471 | Concepts: 217 | Resources: 26 | FAQs: 32
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI skills for college graduates: Exploring how instructors and employers prioritize AI skills differently
 - [[ivory-psychology-assessment-integrity-2026]] — The Integrity of Psychology Assessments in the AI Age: A Critical Examination
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Explaining ChatGPT Adoption in Higher Education: Insights for AI Literacy, Educational Practice, and Responsible AI
+- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
 - [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents
 - [[ji-student-voices-academic-integrity-scoping-2026]] — Academic integrity in the age of generative AI: A scoping review of research on higher education student voices
 - [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-Powered Simulation for Nursing Education: Mixed Methods Systematic Review

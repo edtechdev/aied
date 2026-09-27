@@ -62,27 +62,6 @@ Only two moderators reached significance: participant number and GenAI tool type
 - Heterogeneity is high (Total I2 = 56.31% learner-internal, 92.93% for product performance), and the product prediction interval crossed zero.
 - AI literacy could not be modeled as a separate outcome domain because its measures were too heterogeneous.
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[problem-based-learning]]
-- [[project-based-learning]]
-- [[collaborative-learning]]
-- [[self-regulated-learning]]
-- [[scaffolding]]
-- [[problem-solving]]
-- [[motivation]]
-- [[human-ai-collaboration]]
-- [[meta-analysis-systematic-review]]
-- [[research-methods-aied]]
-
-## Connected Articles
-
-- [[zhao-genai-higher-order-thinking-meta-2026]] — a parallel meta-analysis of GenAI and higher-order thinking, the domain this paper pools at g = 0.635
-- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — another 2026 meta-analysis of GenAI learning outcomes in higher education
-- [[educators-engagement-ai-pbl-review-2026]] — a review of how educators engage with AI in problem-based learning
-
 ## Citation
 
 Chen, Z., Yan, Z., Fu, Z., & Huang, H. (2026). [*Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis*](https://doi.org/10.1016/j.actpsy.2026.107734). *Acta Psychologica*, 270, Article 107734.
