@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-23T09:35:30-04:00"
+updated: "2026-09-28T04:14:44-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -44,6 +44,7 @@ Creativity is not a single monolithic faculty — it is realized differently in 
 
 - **Visual art and design — the competence paradox.** Text-to-image (T2I) tools compress the distance from idea to artifact, but ease does not simply liberate creativity. In a study of art and design students (417 surveyed), creative competence strongly predicted *intention* to use T2I tools — yet also predicted more *restrained, selective actual use*, as students negotiated authorship, originality, and skill preservation against efficiency ([[t2i-competence-paradox-2026]]). Ease and ready availability enable quick output generation rather than sustained [[student-engagement|engagement]], so the tool can quietly become a shortcut that erodes the iterative studio workflow it was meant to accelerate.
 - **Mathematics — creativity without transfer.** An AI-supported [[inquiry-based-learning|inquiry-based learning]] intervention in [[k-12|secondary]] mathematics (students averaging 12.79 years) significantly raised *creative mathematical performance* and attitudes toward math — but did **not** significantly improve critical [[problem-solving]] ([[mujib-ai-ibl-creative-math-2026]]). Creativity and convergent problem-solving are separable outcomes; AI-assisted inquiry can grow creative production while transferable analytical skills lag, reinforcing the wider [[cognitive-offloading|performance-learning gap]].
+- **Mathematics — teacher creativity moves with content and pedagogical knowledge.** In an embedded case study of eight in-service teachers from rural and under-resourced districts, a generative-AI-guided program of ten interactive modules built on Rhodes' 4P framework engaged teachers with mathematical creativity (MC), content knowledge (CK), and pedagogical content knowledge (PCK) as interconnected forms of reasoning rather than separate domains ([[bicer-genai-pd-math-creativity-2026]]). The contribution this page's measurement discussion needs is the authors' claim that MC does not develop independently of teachers' mathematical knowledge and their knowledge of how to make ideas accessible — and that it was the AI's nonjudgmental, non-evaluative tone that made productive struggle feel safe enough to attempt.
 - **Creative computing — friction that protects iteration.** Novice creative coders learn by understanding and extending "found examples," which AI can helpfully scaffold or temptingly bypass. Flowcode, an AI-powered creative-computing environment, pairs a code-structure [[visualization|flowchart]] with a learning-oriented chat and deliberately-designed friction — shown across two studies to steer AI use toward understanding and extending code rather than [[vibe-coding]] around it ([[flowcode-ai-creative-coding]]). Productive difficulty here is a feature that preserves the learner's generative loop.
 - **Literary creation — the unit between theme and text.** [[incipit-axiom-grounded-scaffolding-literary-creation-2026|Incipit]] argues that a work is organized by *stated premises* rather than themes, and builds an intermediate level — 1,455 axiom records spanning 149 works, joined by 472 typed relations — at which a writer revising a configuration can change an organizing commitment, a reader can justify a reconstruction, and a critic can compare two works. Its own audit sharpens the measurement point above: the artifact records a single curation, 1,448 of the 1,455 axioms map to exactly one work, and the proposed validation (five raters on a 35-record sample) has not run, so the framework is a research program rather than evidence about creative learning.
 
@@ -76,6 +77,7 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[scaffolding]]
 - [[arts-design-and-media-education]]
 ## Connected Articles
+- [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Axiom-grounded scaffolding for literary creation: premises as the unit between theme and text, validated only in plan (Liu & Zhao 2026)
 - [[powerful-learning-with-emerging-technology-2025]] — Scaffolding creativity instead of completing it
 - [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education

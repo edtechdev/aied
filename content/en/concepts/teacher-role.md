@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-25T21:56:00-04:00"
+updated: "2026-09-28T04:14:44-04:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -50,6 +50,7 @@ The abstraction "orchestrator" is easier to grasp through concrete, day-to-day s
 - **From grading to designing assessments that AI can't game.** Instructors stop relying on recall-based tasks that [[llm|LLMs]] trivially solve and instead design [[authentic-assessment|authentic assessments]], [[ai-assessment-scale-reform|assessment scales]], and [[formative-assessment|formative]] tasks that preserve [[learning-gains]].
 - **From teaching content to teaching *use*.** The teacher's job increasingly includes modeling how to prompt, evaluate, and responsibly use AI — an [[ai-literacy]] curriculum woven into every course, not a separate subject.
 - **From reading [[visualization|dashboards]] to acting on them — contextually.** [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] show that how teachers actually use analytics dashboards diverges by context: flipped-classroom (university) teachers followed a sequential exploration and favored course-level adaptation and showing dashboards in class, whereas vocational teachers revisited summary pages and used the tool mainly for individual coaching sessions. The actions teachers proposed were shaped by the content represented and their teaching level rather than the plot type — university teachers favored weekly tests and course adaptation, vocational teachers direct, individualized coaching. This points to context-aware dashboard design and differentiated teacher support needs rather than a one-size-fits-all analytics interface.
+- **From receiving alerts to judging them.** [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] followed one teacher and eight high-achieving high school students in a GeoGebra geometry lesson where Dash4Emotion framed students with red rectangles signaling negative emotion, and found that the alerts did not drive outcomes — the teacher's move after each alert did: reframing Mira's task from finding a minimum value to the geometric locus of minimal points reopened her exploration, three simultaneous alerts prompted a whole-class reframing, and one period's deliberate non-intervention was itself a pedagogical decision. The study's stance is that an AI-generated emotional alert is a cue to be interpreted alongside what the teacher can see, not an instruction to be obeyed.
 - **From gatekeeper to principled facilitator of collaboration feedback.** The Community Builder ([[breideband-community-builder-cobi-2026|CoBi]]) classroom pilots show the teacher role decisively shapes *implementation integrity*: teachers who used the AI's noticings and visualizations to spark [[metacognition]] and critical reflection about [[collaborative-learning|collaboration]] achieved high-integrity use, while those who let the system drift into performance-monitoring — or veer off into general AI discussions — did not. Teachers also worried about being put "on the spot" by real-time feedback and preferred pre/post-action review over live display, underscoring that orchestrating classroom-wide collaboration AI demands substantial [[professional-training|professional learning]], not just tool fluency.
 
 ### The orchestration metaphor
@@ -161,6 +162,7 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responding to AI-generated emotional alerts: teachers' intervention and students' engagement in the mathematics classroom
 
 - [[edustories-classroom-case-studies-2026]] — Edustories: A Collection of Real-world Case Studies from Classroom Practices
 - [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teachers design classroom chatbots as bounded experts and retain authority
