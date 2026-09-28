@@ -76,16 +76,16 @@
   "repoUrl": "https://github.com/edtechdev/aied",
   "issuesUrl": "https://github.com/edtechdev/aied/issues",
   "editor": {
-    "name": "the maintainer",
-    "contactUrl": "https://mastodon.social/@<account>"
+    "name": "Doug Holton",
+    "contactUrl": "https://mastodon.social/@dougholton"
   },
   "contributors": [
     {
       "id": "editor",
       "kind": "human",
       "role": "editor",
-      "name": "the maintainer",
-      "contactUrl": "https://mastodon.social/@<account>"
+      "name": "Doug Holton",
+      "contactUrl": "https://mastodon.social/@dougholton"
     }
   ],
   "aiDisclosure": {
