@@ -38,6 +38,12 @@ feed.xml
 /tags/
 # Permanent store for original source PDFs sent in chat (never committed)
 pdf-sources/
+
+# Sources that were NOT accepted into the knowledge base, and rejected resource candidates.
+# Both list material that is deliberately not published here, so they stay local like raw/ and
+# pdf-sources/. Keep them on disk; never commit them.
+AIED-BACKLOG.md
+resource-candidates.yaml
 # weasyprint temp files left in the repo root by the PDF build
 toPdfViaTempFile*
 
