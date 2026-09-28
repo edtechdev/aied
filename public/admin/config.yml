@@ -24,7 +24,7 @@ backend:
   branch: main
   open_authoring: true
   auth_scope: public_repo
-  base_url: https://sveltia-cms-auth.<account>.workers.dev
+  base_url: https://sveltia-cms-auth.aiedkb.workers.dev
 
 # We have no content media folders; concepts and FAQs are text-only.
 # media_folder is still required (internal storage is on by default). Uploads
