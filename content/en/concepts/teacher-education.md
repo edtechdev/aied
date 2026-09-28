@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-22T21:38:08-04:00"
+updated: "2026-09-28T04:14:44-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -51,6 +51,7 @@ In-service professional development supports practicing teachers in integrating 
 - **Human-centered and critical AI literacy.** [[design-based-research|Design-based research]] produces professional-learning curricula that operationalize critical AI literacy through human-centered AI activities, including educator-in-the-loop tasks.([[human-centered-ai-teacher-educators-2026]])
 - **Collaborative [[ai-ed-evaluation|evaluation of AI]]-generated content as PD.** [[teachers-collaborative-evaluation-ai-content-2026|Gat, Usher, and Barak (2026)]] report on a workshop in which 60 [[k-12|middle-school]] science teachers rated ChatGPT-generated assessment questions through their disciplinary, pedagogical, and curricular judgment. Collaborative evaluation itself functioned as professional development, helping teachers apply conceptual-precision criteria to AI output and surface the risk that AI content reinforces [[misconceptions]] — positioning teachers as critical evaluators of [[generative-ai|GenAI]] material rather than passive consumers.
 - **Structured PD for language educators is rare but effective.** A [[li-language-educators-genai-review-2026|systematic review of 23 studies]] (Li et al. 2026) found only three included studies reported structured professional development — an embedded grammar-course module, a government EMI program, and embedded chatbot inquiry — yet all converged on gains in knowledge, confidence, and identity reframing, shifting educators' views of GenAI from "replacement risk" to assistant/augmenter. The review argues PD should pair technical skill-building with practical wisdom, moving from [[ai-literacy|awareness-raising]] and ethics through hands-on tool mastery to co-design of AI-enhanced lessons, and recommends a two-phase "back-end then classroom" implementation strategy.
+The knowledge base's clearest instance of framework-driven GenAI PD for mathematics is a study of eight in-service teachers from rural and under-resourced districts who completed ten interactive modules built on Rhodes' 4P framework ([[bicer-genai-pd-math-creativity-2026]]). It supplies two design mechanisms in-service PD design otherwise lacks here: scaffolding that fades deliberately (explicit guidance early, then requests to justify, generalize and design tasks) and simulated student reasoning across Modules 6-10, alongside the finding that MC, CK and PCK moved together — while measuring engagement only, not teacher knowledge or student learning.
 - **Post-qualification programs.** In-service science educators' AI literacy and usage inform the design of AI-related post-qualification programs.([[science-educators-ai-literacy-postqualification-2026]])
 
 - **AI support and guidance in teacher design work.** [[pishtari-teacher-ai-training-learning-design-2026|Pishtari, Gnadlinger & Ley (2026)]] had 13 higher-education teachers design activities across no-AI, AI-chatbot, and AI-plus-training conditions in a half-day program. AI access raised higher-order (Bloom) task attainment and cut perceived cognitive effort, while the subsequent interaction-training session plateaued quality but slightly raised effort (germane vs. extraneous load unresolved). It frames PD for AI-era teaching as needing both pedagogy-grounded design frameworks (Bloom, [[icap-framework|ICAP]]) and structured chatbot-interaction strategies, while cautioning that quality gains may mask [[cognitive-offloading|offloading]] of pedagogical decisions to AI.
@@ -90,6 +91,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice English teachers authoring classroom AI policies: permitted, limited, and banned uses (Nash & Burriss 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 student teachers: shallow GenAI adoption, integrity anxiety, and assessment literacy that doesn't transfer
 - [[pishtari-teacher-ai-training-learning-design-2026]] — AI chatbot support and training in teachers' learning design

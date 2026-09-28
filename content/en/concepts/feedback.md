@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-26T09:01:07-04:00"
+updated: "2026-09-28T04:14:44-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -90,6 +90,7 @@ The "assessment for learning" paradigm reframes feedback as an overarching philo
 ### The provision-uptake pairing
 
 The knowledge base's core feedback insight is that **feedback quality and feedback literacy are two sides of one system**: high-quality feedback is inert without a literate recipient, and a literate student gains little from poor feedback. [[ai-feedback-quality]] covers the provision side (is the feedback accurate, timely, actionable?), while [[feedback-literacy]] covers the uptake side (can the student judge and act on it?). The feedback loop is what connects them — the mechanism by which quality feedback, received by a literate learner, closes the gap. Designing effective AI feedback therefore means designing both the system and the student.
+Which student-side capacities matter is empirically separable: among 1,507 secondary students who each received one standardized automated feedback message on an argumentative text, only behavioral engagement with feedback and instrumental attitudes towards it predicted revision performance — students at the 75th percentile on either dimension improved by about 0.10 or 0.11 WLE points more than comparable students at the 25th, roughly the 46th to the 54th percentile — while global receptivity, cognitive engagement and experiential attitudes were unrelated to it and perceived usefulness mediated no dimension's path to performance. Usefulness worked on the other outcome instead: global receptivity's effect on situational interest ran entirely through perceived usefulness (indirect β = 0.09, 95% CI [0.06, 0.13]), so revision gains tracked durable habits of acting on feedback while interest tracked the appraisal of a particular message. ([[jansen-argumentative-writing-feedback-receptivity-2026]])
 
 A two-layer model shows how the pairing can be organized around a machine without delegating judgment to it. In [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma's worked example]], an [[agentic-ai|agent]] produces a draft rubric-based evidence report on each transcript with every rating tied to quoted excerpts, and the instructor then reviews the report, leads a debrief and decides what the evidence means for that student — a division the authors summarize as the AI organizing evidence while the instructor interprets it. Their claim about uptake is appraisal-based: feedback and iteration outside the social hierarchies students navigate with peers and instructors are easier to attempt, and rehearsal at the student's own pace is what they argue turns occasional confidence into a settled habit of engaging with feedback.
 
@@ -116,6 +117,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[writing-education]]
 
 ## Connected Articles
+- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)

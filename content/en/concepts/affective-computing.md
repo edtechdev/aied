@@ -1,7 +1,7 @@
 ---
 title: Affective Computing
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-11T00:52:00-04:00"
+updated: "2026-09-28T04:14:44-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -45,6 +45,7 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 
 - **Emotionally intelligent assessment agents.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], an [[llm]]-augmented emotionally intelligent [[conversational-ai|conversational agent]], reduced student anxiety and social pressure during performance-based assessments while preserving [[usability-research|usability]].
 - **Empathy engineered through prompt design, not sensing.** Affective support does not require affect detection: [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] obtained a large difference in *empathy perception* (21.27 vs. 18.24; r = 0.53) between two LLM [[physics-education|physics]] agents that differed only in prompt-specified role and conversational moves — perspective-taking openings ("You have this question because…"), [[misconceptions|misconception]] diagnosis, and a comprehension check at the end of each round — while model, platform, and temperature were held constant. This is a useful counterweight to sensor-driven affective computing: the perceived emotional quality of a [[pedagogical-agent]] can be designed into the interaction script, while also reminding designers that perceived empathy is a self-report construct rather than evidence of genuine affective understanding ([[student-ai-interaction]]).
+- **Alerts that cue a teacher rather than adapt a tutor.** [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] deployed Dash4Emotion in a high school geometry classroom, where red-framed rectangles marked students read as experiencing negative emotion; across twenty identified episodes (five reported), what shifted engagement was the teacher's response to an alert, not the alert itself. The design point is that affect sensing can feed a human decision instead of an adaptive tutor's next move — with the study's own caution attached: it reports no validation of the facial-expression detection, so the signal is a prompt for teacher interpretation rather than evidence about a student's internal state.
 ## Connected Concepts
 - [[anxiety-and-stress]]
 - [[cognitive-offloading]]
@@ -61,6 +62,7 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[ai-sycophancy]]
 - [[social-emotional-learning]] — Social-Emotional Learning
 ## Connected Articles
+- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responding to AI-generated emotional alerts: teachers' intervention and students' engagement in the mathematics classroom
 - [[wang-teacher-student-centered-agents-physics-2026]] — Empathy perception from prompt-designed agent roles in physics learning (Wang et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning

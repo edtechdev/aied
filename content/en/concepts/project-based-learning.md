@@ -1,7 +1,7 @@
 ---
 title: Project-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-28T04:14:44-04:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
@@ -32,6 +32,7 @@ Project-based learning is closely related to — but distinct from — [[problem
 - **Robotics projects:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] presents an agile, semester-spanning project-based approach to teach robotics in an applied [[cs-education|computer science]] program, addressing the theory-practice gap.
 - **The Project Approach in early childhood with AI agents:** [[creative-project-approach-ai-early-childhood-2025|Yang, Li and Lee (2025)]] extend PBL's foundational form — the Project Approach (Katz & Chard), an extended collaborative investigation of a real-world topic — into [[early-childhood-elementary-ai-education|early childhood]], proposing a five-step **Creative Project Approach** that integrates [[agentic-ai|AI agents]] and [[educational-robotics|robots]] (coding robots and generative social robots) into projects to foster young children's [[creativity|creative learning]]. The five steps — identify learning needs, facilitate [[teacher-role|teacher]]-guided child–robot interaction, situate AI in contexts, calibrate the automation/creativity balance, and evaluate outcomes — keep the teacher as a facilitator guiding inquiry, positioning PBL as the natural vehicle for developmentally appropriate AI use with the youngest learners.
 - **Gamification coupling:** [[game-based-gamified-robotics-education-review-2026|A systematic review]] found [[game-based-learning|Gamification]] in robotics education strongly favored project-based learning (p = .009).
+The only three-level meta-analysis of this pairing pools 22 controlled studies (66 effect sizes, January 2023 to April 2026) and estimates a large effect for GenAI-supported PBL/PjBL, g = 0.819, 95% CI [0.655, 0.983], though the authors' PET-PEESE sensitivity analysis reduces the estimate to g = 0.378, so the headline figure should be read as potentially inflated ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]). Tool type moderated the effect significantly (QM = 14.301, p < .001): a general chatbot used directly pooled higher (g = 0.970) than systems customized into course platforms, virtual patients, or agents (g = 0.455), suggesting how a tool is embedded matters more than which model is chosen.
 - **AI literacy and co-design:** PBL underlies many [[ai-literacy|AI literacy]] and [[teacher-education]] interventions, where learners co-create AI tools or resources.
 - **AI-agent-supported software PBL:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] embedded Spec-Driven Development with [[agentic-ai|AI agents]] into a team-based undergraduate software PBL course, structuring projects into investigation, planning, implementation, and review phases paired with instructor-run comprehension checks.
 - **Immersive VR studios with an embedded teaching agent:** [[ai-ive-pbl-vocational-design-creativity-2026|Jin et al. (2026)]] specify the **AI-IVE-PBL** model for vocational design education, pairing PBL with an AI-enabled immersive virtual environment ([[virtual-and-augmented-reality|VR]] headsets plus an [[llm]]-backed teaching assistant). PBL's customary constraints for vocational learners — limited equipment, hard-to-replicate scenarios, delayed teacher [[scaffolding]] — are absorbed by immersion plus an in-session agent, and the model is stated as a five-phase loop (discovery, envisioning, modeling, communication, refinement) with a named actor and artifact per phase, driven by sustained idea-developing discourse. In a 12-week quasi-experiment (n = 63) the condition raised design ability and creative ability and lifted cognitive and behavioral [[student-engagement|engagement]], while leaving ideational novelty (innovative thinking) and affective engagement unchanged — a reminder that the design-specific and the ideational parts of a project's value do not move together.
@@ -60,6 +61,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[arts-design-and-media-education]]
 ## Connected Articles
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
 - [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
 - [[pbl-structural-conditions-ai-2026]]
 - [[genai-counter-learner-groupthink-2025]]

@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-22T07:47:22-04:00"
+updated: "2026-09-28T04:14:44-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -41,6 +41,7 @@ Collaborative learning is grounded in [[sociocultural-learning|sociocultural the
 **AI as a [[pedagogy|pedagogical]] mediator** reconceptualizes AI's role in collaboration beyond tool or peer. Drawing on sociocultural theory and [[distributed-cognition|distributed cognition]], **[[niari-ai-pedagogical-mediator-collaborative-learning|Niari]]** positions AI as an active participant in the orchestration of interaction, epistemic sense-making, and regulatory processes, redistributing agency, authority, and responsibility across human and non-human actors without displacing learner or teacher agency. This grounds collaborative learning in a socially mediated, co-regulated view of AI rather than an individualistic one.
 
 **Collaboration modes and the efficiency–regulation trade-off.** Empirical research on college students collaborating with AI for complex problem-solving identifies three distinct modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration*. The most efficient mode (delegated reasoning) yields the highest task performance but the lowest learners' self-regulatory engagement, while the mode with greatest self-regulation (concerted interpretation) underperforms on task outcomes.([[hao-human-ai-collaborative-problem-solving-cognition]]) This reveals a central design tension: collaborative-learning environments must balance the efficiency of the distributed human–AI system against the depth of learners' [[self-regulated-learning|regulatory]] engagement.
+The one meta-analytic contrast available for AI-supported collaborative work sits inside GenAI-supported PBL/PjBL interventions, where peer collaboration pooled at g = 0.885 against g = 0.416 for individual work, but the difference reached only a marginal trend (QM = 3.675, p = .055) and the individual-work side rests on two studies — so the pooled evidence that collaboration beats working alone under GenAI is suggestive rather than established ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
 
 **GenAI as agent and space in small groups — mode matters.** [[xu-genai-collaborative-space-2026|Xu et al. (2026)]] observe that *how* a team accesses GenAI shapes collaboration: with a single shared interface in synchronous work, teams co-construct "collective prompts," run a surface–evaluate–embed cycle, and treat the chat as shared memory; in asynchronous work, private prompting and output "de-labeling" fragment [[explainable-ai|transparency]] and raise the cost of sustaining a shared cognitive model. Their GenAI-Supported Cooperative Work (GSCW) lens frames GenAI as a configurable agent (individual assistant to team member) and an interactive collaborative space — connecting access configuration directly to the [[icap-framework|ICAP]]-relevant quality of interactive engagement.
 
@@ -95,6 +96,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
 - [[powerful-learning-with-emerging-technology-2025]] — Protecting human connection in AI-mediated collaboration
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
