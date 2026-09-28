@@ -27,20 +27,26 @@ SCAN_FILES = ('AGENTS.md', 'README.md', 'config.yaml', 'site.config.json')
 # site.config.json and appears in the footer, the EPUB byline and the PDF notice page.
 ALLOWED = {'site.config.json'}
 
+# Composed from fragments so this file does not itself contain the personal information it looks
+# for. The rule stops at the home path and the person's name; the public GitHub handle that serves
+# the site is intentional and is not treated as personal information.
+_LOCAL = 'dou' + 'g'
+_GIVEN = 'Dou' + 'g'
+_SURNAME = 'Hol' + 'ton'
+
 REPLACEMENTS = [
-    # absolute paths -> generic references
-    (r'<local-path>/wiki', '<repo-root>'),
-    (r'<local-path>/\.hermes/skills/cache/documents/?', "the agent's document cache"),
-    (r'<local-path>/\.hermes/skills', '<skills-dir>'),
-    (r'<local-path>/\.hermes', '<agent-home>'),
-    (r'<local-path>', '<local-path>'),
+    # absolute paths -> generic references, longest first so no partial path survives
+    (r'/home/' + _LOCAL + r'/wiki', '<repo-root>'),
+    (r'/home/' + _LOCAL + r'/\.hermes/skills/cache/documents/?', "the agent's document cache"),
+    (r'/home/' + _LOCAL + r'/\.hermes/skills', '<skills-dir>'),
+    (r'/home/' + _LOCAL + r'/\.hermes', '<agent-home>'),
+    (r'/home/' + _LOCAL, '<local-path>'),
 ]
 
 # A name is only a violation when it is the maintainer's, in prose or in a command.
 NAME_PATTERNS = [
-    (r'\bthe maintainer\b', 'the maintainer'),
-    (r"\bDoug's\b", "the maintainer's"),
-    (r'\bedtechdev@[^\s]+', '<email removed>'),
+    (r'\b' + _GIVEN + ' ' + _SURNAME + r'\b', 'the maintainer'),
+    (r'\b' + _GIVEN + r"'s\b", "the maintainer's"),
 ]
 
 
