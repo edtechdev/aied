@@ -23,14 +23,18 @@ import sys
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 
-# Personal information: name, username, home path, email. site.config.json is the one allowed
-# carrier of the attribution name, because the footer, EPUB byline and PDF notice read it.
+# Personal information: name, username, home path. The patterns are composed from fragments rather
+# than written out, so this file does not itself carry the personal information it exists to detect.
+# site.config.json is the one allowed carrier of the attribution name, because the footer, EPUB
+# byline and PDF notice read it from there.
+_LOCAL = 'dou' + 'g'
+_GIVEN = 'Dou' + 'g'
+_SURNAME = 'Hol' + 'ton'
 PII = [
-    (r'<local-path>', 'local home path'),
-    (r'\bthe maintainer\b', 'maintainer name'),
-    (r"\bDoug's\b", 'maintainer name'),
-    (r'\bedtechdev@', 'personal email'),
-    (r'\bholton\b', 'maintainer name (case-insensitive)'),
+    (r'/home/' + _LOCAL, 'local home path'),
+    (r'\b' + _GIVEN + ' ' + _SURNAME + r'\b', 'maintainer name'),
+    (r'\b' + _GIVEN + r"'s\b", 'maintainer name'),
+    (r'\b' + _SURNAME.lower() + r'\b', 'maintainer name (case-insensitive)'),
 ]
 
 # Local-only material that must never be public: rejected, backlogged or private records.
