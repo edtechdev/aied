@@ -257,6 +257,18 @@
   "reason": "Listed on the concept page(s) shown."
  },
  {
+  "resource": "student-guide-to-ai",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "ai-literacy",
+   "critical-thinking",
+   "cognitive-offloading",
+   "academic-integrity",
+   "metacognition"
+  ],
+  "reason": "Listed on the concept page(s) shown."
+ },
+ {
   "resource": "teacherserver",
   "reviewed": "2026-09-28",
   "hosts": [
