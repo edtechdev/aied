@@ -353,3 +353,40 @@
     and supplemental-instruction take-up and 17.8% of the grade effect ran through it. Skipped differential-effects-across-learner-groups,
     whose Gender section already carries gender-differential AI findings, and conversational-ai, which already carries
     a non-generative institutional chatbot evaluation - each would be another instance of a documented pattern.
+- article: deepedu-v1-vietnamese-education-ai-tutoring-2026
+  date: '2026-09-28'
+  integrated:
+  - global-south
+  no_change:
+  - intelligent-tutoring
+  - privacy
+  reason: Accepted one of three pairs. global-south covered local constraints, cultural mismatch and
+    resource scarcity but carried no data-sovereignty or on-premise hosting dimension; this supplies a
+    deployment forced on-premise by national data-localization law, which the page lacked. Skipped
+    intelligent-tutoring, whose narrative already covers localized, curriculum-aligned tutors in
+    low-resource settings (the Kwara State study), and privacy, which already carries the
+    student-records argument - each would be a second instance of a documented claim.
+- article: friction-paradox-generative-ai-education-abroad-2026
+  date: '2026-09-28'
+  integrated:
+  - desirable-difficulties
+  no_change:
+  - cognitive-offloading
+  - productive-failure
+  reason: Accepted one of three pairs. desirable-difficulties theorized difficulty only inside
+    structured academic tasks; this extends the construct to difficulty arising within relational
+    encounters and adds the mediation gradient, which orders uses by interpretive agency rather than
+    volume - a dimension the page did not carry. Skipped cognitive-offloading, 7,300 words that already
+    set out the autonomous-versus-dependent offloading distinction the paper builds on, and
+    productive-failure, which already states the effort principle the paper extends.
+- article: beyond-display-generative-representational-activity-2026
+  date: '2026-09-28'
+  integrated: []
+  no_change:
+  - math-education
+  - visualization
+  reason: No pair qualified. The contribution is representational theory - that generativity is a
+    different axis from dynamicity, and that specification, execution, coordination and warrant must be
+    separated as evidence. No concept page carries representational or dynamic-geometry theory to
+    extend, and the two nearest candidates (math-education, visualization) would gain only a link to a
+    theoretical distinction their narratives do not otherwise discuss.
