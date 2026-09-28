@@ -1,0 +1,151 @@
+# Resource-wiring record.
+#
+# Every resource page is reviewed for whether a concept page should list it in
+# `connected_resources`. Not every resource belongs on one - some are useful only inside
+# another tool's ecosystem - so an empty `hosts:` with a reason is a valid outcome. What is
+# never valid is the question going unasked, which is what this file records. A resource with
+# no entry here has not been reviewed; claims of a host are verified against the concept
+# pages by tooling/scripts/check-resource-wiring.py.
+#
+# Seeded from what the concept pages already list, plus the explicit decisions made in the
+# pass that added this gate. Entries with a deliberate empty `hosts:` carry the reason.
+
+[
+ {
+  "resource": "campus-ai-framework",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "change-management",
+   "educational-policy-ai",
+   "governance"
+  ],
+  "reason": "Listed on the concept pages shown."
+ },
+ {
+  "resource": "claw-ed",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "learning-design",
+   "online-teaching-and-learning",
+   "open-source",
+   "teacher-ai-competency"
+  ],
+  "reason": "Listed on the concept pages shown."
+ },
+ {
+  "resource": "education-agent-skills",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "active-learning",
+   "ai-literacy",
+   "learning-design",
+   "open-source"
+  ],
+  "reason": "Listed on the concept pages shown."
+ },
+ {
+  "resource": "edugems",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "ai-literacy",
+   "prompt-engineering"
+  ],
+  "reason": "Listed on the concept pages shown."
+ },
+ {
+  "resource": "gemini-notebook",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "rag"
+  ],
+  "reason": "Listed on the concept pages shown."
+ },
+ {
+  "resource": "id-toolbox",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "learning-design"
+  ],
+  "reason": "Listed on the concept pages shown."
+ },
+ {
+  "resource": "institutional-ai-readiness-pack",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "academic-integrity",
+   "governance"
+  ],
+  "reason": "Listed on the concept pages shown."
+ },
+ {
+  "resource": "lesson-md",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "learning-design"
+  ],
+  "reason": "Listed on the concept pages shown."
+ },
+ {
+  "resource": "liascript",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "learning-design",
+   "online-teaching-and-learning",
+   "open-source"
+  ],
+  "reason": "Listed on the concept pages shown."
+ },
+ {
+  "resource": "mglearn",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "ai-literacy"
+  ],
+  "reason": "Listed on the concept pages shown."
+ },
+ {
+  "resource": "onmicro-ai",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "learning-design",
+   "open-source"
+  ],
+  "reason": "Listed on the concept pages shown."
+ },
+ {
+  "resource": "pause-ai-use-self-examination",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "cognitive-offloading",
+   "cognitive-surrender"
+  ],
+  "reason": "Listed on the concept pages shown."
+ },
+ {
+  "resource": "pressing-prompts",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "ai-literacy",
+   "critical-pedagogy"
+  ],
+  "reason": "Listed on the concept pages shown."
+ },
+ {
+  "resource": "process-feedback",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "academic-integrity",
+   "process-oriented-assessment"
+  ],
+  "reason": "Listed on the concept pages shown."
+ },
+ {
+  "resource": "vibes-diy",
+  "reviewed": "2026-09-28",
+  "hosts": [
+   "learning-design",
+   "open-source"
+  ],
+  "reason": "Listed on the concept pages shown."
+ }
+]

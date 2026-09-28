@@ -130,12 +130,17 @@ gated by `tooling/scripts/check-resource-wiring.py`:
    prose already names; do not add claims to manufacture a link. Targets must be existing
    concept slugs — read `tooling/concept-index.md` rather than assuming — and a resource slug
    never resolves in a markdown body, so an external tool is linked with plain markdown.
-2. **The resource must be listed in the `connected_resources:` frontmatter of the 2-4 concept
-   pages a reader of that concept would want it from.** A resource no concept page lists is
-   reachable only from the `/resources/` index, so the reader who most needs it never sees it.
-   Another *resource* listing it is not enough — that is a sibling shelf, not a concept home.
-   Add the slug to the concept page's existing `connected_resources:` array (creating the
-   field if absent), and state the host in the ingest report.
+2. **Decide whether any concept page should list it, and record that decision in
+   `resource-wiring.yaml`.** Not every resource belongs on a concept page: some are only useful
+   inside another tool's ecosystem, and forcing a host invents a connection no reader needs.
+   The review itself is not optional, because the failure mode is a resource reachable only from
+   the `/resources/` index while the reader of the concept it serves never learns it exists.
+   Where a host does belong, add the slug to that concept page's `connected_resources:` array
+   (creating the field if absent). The record entry carries `hosts: [...]` or an empty `hosts:`
+   with a `reason:`, and the gate verifies a claimed host actually lists the resource — the same
+   pattern as the article concept-screen record. Another *resource* listing it is not a concept
+   home; check for one of those too, since that is what makes a resource look wired when it is
+   not.
 
 Run `python3 tooling/scripts/check-resource-wiring.py` for all pages, or pass slugs for just
 the ones you touched. It is declared in `build.gates` and scoped to changed pages by
