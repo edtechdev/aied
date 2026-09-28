@@ -295,13 +295,20 @@ saved sources with unrelated articles, and half of them could not be recovered. 
  with a robot check. Do not fight it: record the page in `AIED-BACKLOG.md` so the PDF can be supplied, and leave a
  marker in the source file rather than a wrong paper.
 
-### The section set is fixed — copy it, never compose it
+### The section set the auditor actually enforces
 
-`audit-article-sections.py` requires an article page to carry **`## Key Findings`**,
-**`## Method and Evidence`**, **`## What this means for practice`**, **`## Limitations`** and
-**`## Citation`** (Citation last). These names are not a style preference: the section audit
-fails the page on any of them missing, and it fails on the *missing* one while staying silent
-about an extra heading that reads plausibly. A brief to a writer that invents a heading —
-"What this means for practice" became "Why It Matters for Educators" once — produces a page that
-passes every other gate and then fails the audit alone. Copy the five names from this skill or
-from an existing page; when a brief has to name them, paste them rather than paraphrasing.
+`audit-article-sections.py` hard-fails an article page only on these: **`## What this means for practice`**
+missing or duplicated, **`## Limitations`** missing or duplicated, practice not immediately before
+limitations, **`## Citation`** not last, and bullet counts outside 3-5 (practice) and 2-4 (limitations).
+A section written as prose rather than bullets is *reported*, not failed.
+
+Everything else is free-form. `## Key Findings` is the house convention and 1,075 of 1,498 pages carry
+it, but the auditor does not require it. The body headings between Key Findings and practice are chosen
+per paper — "How the study was conducted", "What the evidence says" and similar. A heading such as
+`## Method and Evidence` is neither required nor forbidden, and only 6 of 1,498 pages carry it, so do
+not impose it on new pages: name the body sections after what they actually discuss. `AGENTS.md` states
+the same contract: Synthesis → Key Findings → 3-4 body sections → practice → limitations → Citation.
+
+Earlier revisions of this skill claimed the auditor fails a page on all five canonical headings. It never
+did, and briefs written from that claim put a heading on new pages that the rest of the corpus does not
+use. Copy the four names the auditor checks; compose the rest.

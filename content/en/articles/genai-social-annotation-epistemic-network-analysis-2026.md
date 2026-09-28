@@ -30,7 +30,7 @@ reviewed_by: [editor]
 ## Key Findings
 
 1. **GenAI scaffolding lifted engagement and reading performance.** Mann-Whitney U-tests indicated that GenAI-assisted social annotation (GASA) significantly enhanced students' cognitive engagement, emotional engagement and reading performance.
-2. **Behavioural engagement did not move.** No significant difference was found, which the authors attribute to a chatbot built for cognitive and social scaffolding rather than for directing behavior, on a platform that did not monitor annotation frequency.
+2. **Behavioral engagement did not move.** No significant difference was found, which the authors attribute to a chatbot built for cognitive and social scaffolding rather than for directing behavior, on a platform that did not monitor annotation frequency.
 3. **The two conditions' networks separated on one axis only.** Group differences were significant on the X-axis (U = 25.00, p = 0.01, r = 1.00; experimental median 0.16, control median -0.15) but not the Y-axis (U = 13.00, p = 1.00, r = 0.04).
 4. **GenAI tied social presence to high-level cognitive work.** In the experimental class, social presence indicators showed a strong connection to integration and resolution; without GenAI support, social presence was linked more to triggering and exploration.
 5. **High-achieving groups used the chatbot far more.** They initiated 1407 feedback requests across 2319 annotations (60.7%), whereas the low-achieving group initiated 737 feedback requests across 2167 annotations (34.0%).
