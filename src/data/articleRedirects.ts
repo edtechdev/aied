@@ -10,6 +10,8 @@
 // ingested twice), so there is no registry block to generate this from.
 
 export const ARTICLE_REDIRECTS: Record<string, string> = {
+  // Duplicate ingestion of the same study as automated-scoring-learning-diagnosis-mechanism-2026 (Yao & Fan); withdrawn.
+  'automated-scoring-learning-diagnosis-english-writing-2026': 'automated-scoring-learning-diagnosis-mechanism-2026',
   // Slugs respelled to US English (same pages, renamed for house style).
   // Slug truncated mid-phrase (and left a trailing hyphen, so the URL ended in /for-/).
   'will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-': 'will-skill-not-tool-chinese-university-students-generative-ai-academic-writing',
