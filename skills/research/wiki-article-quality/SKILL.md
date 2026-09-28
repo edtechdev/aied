@@ -6,7 +6,7 @@ category: research
 
 # Wiki Article Page Quality & Repair
 
-Use when the user asks to **repair, enrich, or fix defects in an existing article page** in the AI-ed research wiki (`<WIKI>`) — e.g. "this article is broken/thin/corrupted", "the numbering is wrong", "there are escaped character codes", "enrich this article", or "let me know if the full text is missing". Distinct from `wiki-concept-page-design` (create-vs-enrich concept pages), `wiki-link-bulk-editing` (bulk link sweeps), and the user-owned `wiki-inline-links` / `research-wiki` (per-page inline links and full ingestion). This skill is the **repair/enrichment QA layer** for article pages.
+Use when the user asks to **repair, enrich, or fix defects in an existing article page** in the AI-ed research wiki (`<local-path>/wiki`) — e.g. "this article is broken/thin/corrupted", "the numbering is wrong", "there are escaped character codes", "enrich this article", or "let me know if the full text is missing". Distinct from `wiki-concept-page-design` (create-vs-enrich concept pages), `wiki-link-bulk-editing` (bulk link sweeps), and the user-owned `wiki-inline-links` / `research-wiki` (per-page inline links and full ingestion). This skill is the **repair/enrichment QA layer** for article pages.
 
 ## Workflow
 
@@ -14,7 +14,7 @@ Use when the user asks to **repair, enrich, or fix defects in an existing articl
 2. **If the raw source is missing or abstract-only**, retrieve the full text before enriching (see Full-text retrieval below). Tell the user whether the full text was found; an abstract-only page can only be enriched to the depth the source allows.
 3. **Fix structural defects** (see Pitfalls): escaped character codes, ordered-list numbering, same-text pipes, frontmatter integrity (see Pitfall #11 for the frontmatter checklist; it is the typed-metadata model, with no `tags` field).
 4. **Enrich from the full text**: add a Synthesis blockquote, a `Key Findings` numbered list (CONTIGUOUS — see Pitfall #1), body sections, and connect to wiki concepts.
-5. **Add inline `[[slug]]` links** for every concept mentioned in the narrative body (aggressive per the maintainer's standing rule — including conceptually-similar phrases). Use the `wiki-inline-links` scanner (user-owned but its script still runs): `python3 <AGENT>/research/wiki-inline-links/scripts/inline_link_scan.py <WIKI> <slug>`. Verify every suggested concept slug exists first.
+5. **Add inline `[[slug]]` links** for every concept mentioned in the narrative body (aggressive per the maintainer's standing rule — including conceptually-similar phrases). Use the `wiki-inline-links` scanner (user-owned but its script still runs): `python3 <local-path>/.hermes/skills/research/wiki-inline-links/scripts/inline_link_scan.py <local-path>/wiki <slug>`. Verify every suggested concept slug exists first.
 6. **Add back-links** from connected concept pages (reciprocal Connected Articles entry + optionally a research bullet).
 7. **Verify** — link integrity must PASS: no same-text pipes `[[x|x]]`, no heading links, balanced `[[`/`]]`, no broken slugs (check against `content/en/concepts/` + `content/en/articles/` filenames + `conceptRedirects.ts`), no escape sequences. Then run the typed-metadata gate: `python3 tooling/scripts/validate-facets.py` (or `python3 tooling/scripts/run-gates.py` to run every gate — that suite is permission-gated, so propose it and wait). It is a hard gate, not a suggestion, and it lives in `wiki.config.yaml` under `build.gates`.
 8. **Deploy** per the wiki pipeline: bump `updated` timestamp → regen `llms*.txt` (explicit request only) → `npm run build` → `log.md` → commit+push → **verify deploy via `gh run list`** (green build ≠ deployed) and curl the live URL for HTTP 200.
@@ -81,7 +81,7 @@ When a `delegate_task` fan-out does inline-link enrichment on many articles in p
 - Always re-verify ALL touched files afterward (frontmatter fields, broken slugs, same-text pipes, balanced `[[`/`]]`), because a timed-out subagent may also have left same-text pipes like `[[assessment|assessment]]` that its own verify step never ran.
 
 ### 5. Full text may be missing from raw source
-The `raw/papers/*.md` file may hold only the abstract (the page is then thin and can't be deeply enriched). **HARD RULE (maintainer, 2026-08-24) — never enrich or retain an abstract-only page.** Retrieve the real PDF before enriching (see Full-text retrieval below); a page whose raw source is abstract-only must NOT be passed off as enriched, and an article should not be in the wiki at all unless its full text is permanently saved to `raw/papers/`. If full text cannot be retrieved (paywall/CAPTCHA block), do NOT enrich from the abstract — move the article to `<WIKI>/AIED-BACKLOG.md` under its journal section, list it in the report's FULL_TEXT_PENDING, and ask the maintainer to send the PDF. Also: an abstract-only page that just repeats the abstract as "Key Findings" is a signal the full text wasn't ingested.
+The `raw/papers/*.md` file may hold only the abstract (the page is then thin and can't be deeply enriched). **HARD RULE (maintainer, 2026-08-24) — never enrich or retain an abstract-only page.** Retrieve the real PDF before enriching (see Full-text retrieval below); a page whose raw source is abstract-only must NOT be passed off as enriched, and an article should not be in the wiki at all unless its full text is permanently saved to `raw/papers/`. If full text cannot be retrieved (paywall/CAPTCHA block), do NOT enrich from the abstract — move the article to `<local-path>/wiki/AIED-BACKLOG.md` under its journal section, list it in the report's FULL_TEXT_PENDING, and ask the maintainer to send the PDF. Also: an abstract-only page that just repeats the abstract as "Key Findings" is a signal the full text wasn't ingested.
 
 ### 6. Uncurated Connected Articles lists (alphabetical dumps)
 Some article pages carry a **Connected Articles list that is an uncurated alphabetical dump** — every article in the corpus whose slug sorts near it, regardless of relevance (e.g. a cognitive-offloading article listing analytics pipelines, health sensing, agentic-education). the maintainer flags this. **Fix:** curate to only the **genuinely-related** articles (typically 3–6) that share the paper's specific mechanism or thread (e.g. efficiency-gain illusion, productive struggle, absent cognitive baseline). Trim the rest. Do the same for Connected Concepts — keep only concepts the narrative actually engages, not a blanket dump.
@@ -185,6 +185,28 @@ Diagnosis order when a link target looks wrong:
 
 **Aliases are exact strings, so plurals and gerunds never match.** `self-report-measures` was registered with `self-report`, `survey instrument` and `questionnaire(s)` — but not `surveys`, so an article's "Surveys, reflections and ten capstone redesigns" was invisible to the scanner. When a concept page exists and obvious mentions still go unlinked, check for missing plural/gerund forms and add them (`surveys`, `policies`, `schools`, `platforms`, `biases`, `evaluations`, `visualizations`, `language models`, `tutoring systems` were all added in this pass, each verified absent from every other entry — no alias may map to two concepts). Prefer adding an alias over inventing a near-synonym concept page: "equitable teaching" and "equitable learning" became aliases of `inclusive-learning` rather than a new node.
 
+### 17. Link the tool the paper used, and flag it if it could be a resource (maintainer, 2026-09-28)
+
+When a paper hyperlinks the tool it studied — the chatbot, tutor, platform, model or plugin — put that link on
+the page, in a prose sentence that names the tool. A reader who meets a tool name with no way to reach it has to
+go searching; the paper already did that work. Link only a URL the source itself gives. Never construct one from
+the tool's name or from the vendor's likely homepage: a guessed link is the same defect as an invented proper
+noun, and it looks authoritative.
+
+Then ask one question and answer it in the ingest summary: **could this tool belong on the resource pages?** The
+bar, in the maintainer's words, is publicly available first, ideally free, and even more ideally open source.
+
+- Commercial products (Mainstay, Copilot, ChatGPT, most textbook-platform add-ons) usually fail the first test
+  unless the paper shows a public free tier a reader could actually use.
+- A free research prototype with a working public URL is a genuine candidate.
+- An open-source tool is the strongest kind, because a reader can run it, read it and keep it.
+
+Report candidates as a short list in the ingest summary - tool, URL, what the paper used it for, and which
+criterion it meets - and let the maintainer decide. **Never add a resource page unprompted**: the resource set is
+curated, and a tool appearing in one study is not evidence the knowledge base should host it. Record the decision
+in `resource-candidates.yaml` (tool, url, first seen in, disposition) so the same tool is not re-proposed on every
+later paper that cites it.
+
 ### 16. House style is US English — and never bulk-respell with a suffix rule (maintainer, 2026-09-19)
 
 The maintainer asked "why are you still using British spelling?" after reading a rewritten article. Cause: no house style was ever stated, most page prose is agent-drafted, and each page copied the spelling of the pages around it — so British forms (behaviour, programme, modelling, judgement, organisation, centre, artefact, -ise verbs) spread through the corpus. Measured before cleaning: ~850 British forms in body prose across ~300 pages, plus AGENTS.md, the tooling docs, the cron prompts and the skills.
@@ -248,13 +270,13 @@ As of 2026-08-23 the Astro templates render inline `[[wikilink]]`s to **canonica
 When the source is EdArXiv/OSF and the raw file is abstract-only:
 - The OSF page HTML (via `web_extract` on the DOI or `osf.io/preprints/edarxiv/<id>`) contains the full abstract + a PDF viewer name (e.g. `ACB_Jia_Xu_2026.pdf`).
 - **Download the PDF:** `https://osf.io/download/<id>` returns the real PDF. (`https://osf.io/preprints/edarxiv/<id>/download` returns an HTML page — use `/download/<id>` instead.)
-- If the auto-download fails (SSL error `exit 60`, HTTP 202 async prep, empty file, captcha/bot-blocking), **ask the maintainer to send the full-text PDF directly** — he routinely provides it and it unblocks enrichment. He will send it as a message attachment to `<AGENT>/cache/documents/`.
+- If the auto-download fails (SSL error `exit 60`, HTTP 202 async prep, empty file, captcha/bot-blocking), **ask the maintainer to send the full-text PDF directly** — he routinely provides it and it unblocks enrichment. He will send it as a message attachment to `<local-path>/.hermes/skills/cache/documents/`.
 - **Extract text:** `pip install pymupdf`, then `import pymupdf; doc=pymupdf.open('file.pdf'); text=''.join(p.get_text() for p in doc)` (or the deprecated `fitz` alias).
 - Save the full text back into `raw/papers/<slug>.md` (preserving the frontmatter) so future enrichment has it.
 - Papers are CC-BY 4.0 (open) — fine to ingest.
 
 ## Support files
-- `skills/research/wiki-inline-links/scripts/check_list_formatting.py` (run as `python3 ... <WIKI> --all`) — the ordered-list blank-line defect scanner, also gate 5 of `run-gates.py`.
+- `skills/research/wiki-inline-links/scripts/check_list_formatting.py` (run as `python3 ... <local-path>/wiki --all`) — the ordered-list blank-line defect scanner, also gate 5 of `run-gates.py`.
 - `scripts/detect-readfile-corruption.py` in the wiki-management skill (mirrored at `tooling/scripts/detect-readfile-corruption.py`) — escape-sequence and truncation damage from full-file reads.
 - `tooling/scripts/validate-facets.py` (repo tooling, not bundled here): the typed-metadata gate. Run it after any frontmatter repair.
 
