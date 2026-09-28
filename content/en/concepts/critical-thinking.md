@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-25T21:56:00-04:00"
+updated: "2026-09-28T04:53:20-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -31,7 +31,7 @@ Critical thinking is central to [[ai-literacy]] — students who cannot critical
 
 The knowledge base's articles explore critical thinking through [[design-based-research|design-based]] and empirical lenses. [[ai-agents-constructive-conflict-design-education-2026|Adversarial AI agents]] enact constructive conflict to prompt reconsideration in novice designers — a Socratic variant that forces critical re-evaluation. [[genai-can-harm-teaching-rct-2026|RCT research on GenAI in teaching]] raises the question of whether AI tools that optimize for surface-level outcomes may inadvertently suppress the critical thinking that leads to deeper learning. Measured evidence sharpens the point: whether critical thinking moves depends on how AI-mediated feedback and tasks are designed, and on learners' [[metacognition|metacognitive]] regulation, not on access to a model.
 
-[[chatgpt-critical-creative-thinking-review|Reviews of ChatGPT's impact on thinking]] document mixed findings: AI can [[scaffolding|scaffold]] critical analysis when used deliberately (e.g., asking students to critique AI-generated arguments), but it can also short-circuit thinking when used as an answer engine. This tension connects to [[ai-literacy-assessment-misalignment]] research showing that self-reported AI competence far exceeds actual critical evaluation ability.
+[[chatgpt-critical-creative-thinking-review|Reviews of ChatGPT's impact on thinking]] document mixed findings: AI can [[scaffolding|scaffold]] critical analysis when used deliberately (e.g., asking students to critique AI-generated arguments), but it can also short-circuit thinking when used as an answer engine. This tension connects to [[ai-literacy-assessment-misalignment]] research showing that self-reported AI competence far exceeds actual critical evaluation ability. A critical review of 80 HCI studies of critical thinking with AI found the field measuring what it rarely defines: only 23 of the 80 stated how they understood critical thinking at all, 49 (61%) assessed it through self-report rather than performance, and 42 (52%) used no control group ([[critical-review-critical-thinking-hci-research-ai-2026]]).
 
 - **Higher-order cognitive engagement in student-AI chat.** Chang and Li (2026) find that ~62% of student prompts to AI encode higher-order cognitive demand, with Bloom-level profiles varying by discipline ([[stem-education|STEM]] Apply-prevalent 20.8%, language Understand-prevalent 31.7%, social science Create-prevalent 33.8%). Their within-person design shows the same students produce significantly more higher-order prompts in social science than STEM courses (p < .001), indicating that disciplinary context shapes critical and higher-order engagement with AI.
 

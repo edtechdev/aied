@@ -12,126 +12,319 @@
 
 - article: automated-scoring-learning-diagnosis-mechanism-2026
   date: 2026-09-27
-  integrated: [formative-assessment, automated-essay-scoring]
+  integrated:
+  - formative-assessment
+  - automated-essay-scoring
   no_change: []
-  reason: "Integrated at ingest: comprehension accuracy correlated with actionability and diagnostic accuracy (r = 0.501 > 0.480 > 0.445), and the scoring model reached F1 = 0.824 on vocabulary against 0.579 on claim-evidence alignment."
-
+  reason: 'Integrated at ingest: comprehension accuracy correlated with actionability and diagnostic accuracy (r
+    = 0.501 > 0.480 > 0.445), and the scoring model reached F1 = 0.824 on vocabulary against 0.579 on claim-evidence
+    alignment.'
 - article: trust-calibration-genai-collaborative-regulation-2026
   date: 2026-09-27
-  integrated: [trust-calibration]
+  integrated:
+  - trust-calibration
   no_change: []
-  reason: "Integrated at ingest into the trust-calibration narrative."
-
+  reason: Integrated at ingest into the trust-calibration narrative.
 - article: thoeni-ai-chatbots-higher-education-expectations-evidence-2026
   date: 2026-09-27
-  integrated: [self-efficacy, limitations-in-aied-research]
-  no_change: [intelligent-tutoring, conversational-ai, student-engagement, motivation]
-  reason: "Accepted two of six pairs. self-efficacy had no randomized test of whether a tool caused the change: this supplies the time-effect-versus-treatment-effect caution (time β = 0.099, p = 0.0009; group p = 0.1162; interaction p = 0.5306). limitations-in-aied-research stated the speed problem but not the comparability consequence (pre-2023 tutoring rests on systems functionally unlike current models; no term-long RAG RCT in undergraduate education). Skipped four: each would be another instance of a documented pattern."
-
+  integrated:
+  - self-efficacy
+  - limitations-in-aied-research
+  no_change:
+  - intelligent-tutoring
+  - conversational-ai
+  - student-engagement
+  - motivation
+  reason: 'Accepted two of six pairs. self-efficacy had no randomized test of whether a tool caused the change:
+    this supplies the time-effect-versus-treatment-effect caution (time β = 0.099, p = 0.0009; group p = 0.1162;
+    interaction p = 0.5306). limitations-in-aied-research stated the speed problem but not the comparability consequence
+    (pre-2023 tutoring rests on systems functionally unlike current models; no term-long RAG RCT in undergraduate
+    education). Skipped four: each would be another instance of a documented pattern.'
 - article: barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025
   date: 2026-09-27
-  integrated: [cognitive-offloading, desirable-difficulties]
-  no_change: [retrieval-spacing-interleaving, learning-gains]
-  reason: "Accepted two of four pairs. cognitive-offloading's closest evidence was retention at 48 hours and an immediate post-test; this adds a randomized 45-day delayed endpoint with an effect size (d = 0.68) and shows the deficit survives a study-time covariate (F(1, 82) = 7.89, p = .006), ruling out the saved-time explanation. desirable-difficulties gets a direct delayed test in an AI setting, impairment largest on technical material. Skipped retrieval-spacing-interleaving (manipulates no retrieval, spacing or interleaving technique) and learning-gains (same-direction instance of claims it already carries)."
-
+  integrated:
+  - cognitive-offloading
+  - desirable-difficulties
+  no_change:
+  - retrieval-spacing-interleaving
+  - learning-gains
+  reason: Accepted two of four pairs. cognitive-offloading's closest evidence was retention at 48 hours and an immediate
+    post-test; this adds a randomized 45-day delayed endpoint with an effect size (d = 0.68) and shows the deficit
+    survives a study-time covariate (F(1, 82) = 7.89, p = .006), ruling out the saved-time explanation. desirable-difficulties
+    gets a direct delayed test in an AI setting, impairment largest on technical material. Skipped retrieval-spacing-interleaving
+    (manipulates no retrieval, spacing or interleaving technique) and learning-gains (same-direction instance of
+    claims it already carries).
 - article: mata-sustaining-ai-enabled-student-support-2026
   date: 2026-09-27
-  integrated: [change-management, conversational-ai]
-  no_change: [educational-policy-ai, equity-in-ai-education]
-  reason: "Accepted two of four pairs. change-management had no evidence on what keeps a programme running over years: this supplies the administrative home, single-writer communication, and the coordination burden that cut targeted campaigns from 36% to 6%. conversational-ai gets multi-year durability of a deployed institutional chatbot and the passive-versus-active engagement measurement point. Skipped educational-policy-ai (governance thesis already stated) and equity-in-ai-education (its only equity claim is an unmeasured author interpretation; subgroup analyses found no differential effects)."
-
+  integrated:
+  - change-management
+  - conversational-ai
+  no_change:
+  - educational-policy-ai
+  - equity-in-ai-education
+  reason: 'Accepted two of four pairs. change-management had no evidence on what keeps a programme running over
+    years: this supplies the administrative home, single-writer communication, and the coordination burden that
+    cut targeted campaigns from 36% to 6%. conversational-ai gets multi-year durability of a deployed institutional
+    chatbot and the passive-versus-active engagement measurement point. Skipped educational-policy-ai (governance
+    thesis already stated) and equity-in-ai-education (its only equity claim is an unmeasured author interpretation;
+    subgroup analyses found no differential effects).'
 - article: kestin-ai-tutoring-outperforms-active-learning-rct-2025
   date: 2026-09-27
-  integrated: [active-learning, learning-gains, intelligent-tutoring]
-  no_change: [scaffolding, student-engagement, motivation]
-  reason: "Accepted three of six pairs. All three lacked any trial whose comparator is research-based active learning rather than a lecture: the contribution is the demanding comparator plus a tutor engineered from the class's own seven practices (median post-test 4.5 against 3.5, effect size 0.63, 49 minutes on task against 60). Skipped scaffolding (its rule-guided-versus-improvised point is already carried), student-engagement and motivation (single self-report Likert items, the construct the page warns is not interchangeable with learning data)."
-
+  integrated:
+  - active-learning
+  - learning-gains
+  - intelligent-tutoring
+  no_change:
+  - scaffolding
+  - student-engagement
+  - motivation
+  reason: 'Accepted three of six pairs. All three lacked any trial whose comparator is research-based active learning
+    rather than a lecture: the contribution is the demanding comparator plus a tutor engineered from the class''s
+    own seven practices (median post-test 4.5 against 3.5, effect size 0.63, 49 minutes on task against 60). Skipped
+    scaffolding (its rule-guided-versus-improvised point is already carried), student-engagement and motivation
+    (single self-report Likert items, the construct the page warns is not interchangeable with learning data).'
 - article: automated-essay-scoring-critical-thinking-physics-2026
   date: 2026-09-28
-  integrated: [automated-essay-scoring]
-  no_change: [critical-thinking, assessment-validity, physics-education, automated-assessment, educational-nlp]
-  reason: "Integrated into automated-essay-scoring: dimension-level trait scoring bounded by per-dimension data, and the accuracy-vs-QWK collapse in ordinal scoring, neither on the page. Skipped five: the scorer-reliability findings restate claim classes already carried on assessment-validity, automated-assessment, physics-education and educational-nlp."
-
+  integrated:
+  - automated-essay-scoring
+  no_change:
+  - critical-thinking
+  - assessment-validity
+  - physics-education
+  - automated-assessment
+  - educational-nlp
+  reason: 'Integrated into automated-essay-scoring: dimension-level trait scoring bounded by per-dimension data,
+    and the accuracy-vs-QWK collapse in ordinal scoring, neither on the page. Skipped five: the scorer-reliability
+    findings restate claim classes already carried on assessment-validity, automated-assessment, physics-education
+    and educational-nlp.'
 - article: automated-scoring-economics-math-items-nigeria-2026
   date: 2026-09-28
-  integrated: [math-education]
-  no_change: [automated-assessment, assessment-validity, automated-essay-scoring, educational-nlp]
-  reason: "Integrated into math-education: the page's only AI-scoring material was LLM-solving fragility and item difficulty, with no automated marking agreement study for mathematical items. Skipped four: the claim classes (reference matching, agreement statistics that mislead on peculiar corpora) are already carried on those pages."
-
+  integrated:
+  - math-education
+  no_change:
+  - automated-assessment
+  - assessment-validity
+  - automated-essay-scoring
+  - educational-nlp
+  reason: 'Integrated into math-education: the page''s only AI-scoring material was LLM-solving fragility and item
+    difficulty, with no automated marking agreement study for mathematical items. Skipped four: the claim classes
+    (reference matching, agreement statistics that mislead on peculiar corpora) are already carried on those pages.'
 - article: genai-reliance-human-agency-collaborative-learning-2026
   date: 2026-09-28
-  integrated: [agency]
-  no_change: [human-ai-collaboration, collaborative-learning, cognitive-offloading, critical-thinking, learning-analytics, self-report-measures, equity-in-ai-education, group-work]
-  reason: "Integrated into agency: within-person three-wave evidence that reliance predicts lower subsequent perceived agency, plus the log finding that usage intensity cannot distinguish strategic consultation from offloading. Skipped eight: groups were the sampling frame not the unit of analysis, and the remaining claims are already stated on those pages."
-
+  integrated:
+  - agency
+  no_change:
+  - human-ai-collaboration
+  - collaborative-learning
+  - cognitive-offloading
+  - critical-thinking
+  - learning-analytics
+  - self-report-measures
+  - equity-in-ai-education
+  - group-work
+  reason: 'Integrated into agency: within-person three-wave evidence that reliance predicts lower subsequent perceived
+    agency, plus the log finding that usage intensity cannot distinguish strategic consultation from offloading.
+    Skipped eight: groups were the sampling frame not the unit of analysis, and the remaining claims are already
+    stated on those pages.'
 - article: genai-social-annotation-epistemic-network-analysis-2026
   date: 2026-09-28
-  integrated: [community-of-inquiry]
-  no_change: [collaborative-learning, student-engagement, human-ai-collaboration, equity-in-ai-education, agency, metacognition, scaffolding, network-analysis]
-  reason: "Integrated into community-of-inquiry: the first empirical network evidence under the page\u2019s theoretical presence-claims, plus the within-condition uptake split. Skipped eight: the remaining findings are instances of mechanisms already carried, or claims the study states without measuring."
-
+  integrated:
+  - community-of-inquiry
+  no_change:
+  - collaborative-learning
+  - student-engagement
+  - human-ai-collaboration
+  - equity-in-ai-education
+  - agency
+  - metacognition
+  - scaffolding
+  - network-analysis
+  reason: 'Integrated into community-of-inquiry: the first empirical network evidence under the page’s theoretical
+    presence-claims, plus the within-condition uptake split. Skipped eight: the remaining findings are instances
+    of mechanisms already carried, or claims the study states without measuring.'
 - article: jansen-argumentative-writing-feedback-receptivity-2026
   date: 2026-09-28
-  integrated: [feedback, motivation]
-  no_change: [feedback-literacy, writing-education, formative-assessment, assessment-validity]
-  reason: "Integrated into feedback (which uptake dimensions predict revision performance, and which do not) and motivation (interest moved through perceived usefulness, fully mediated). Skipped four: disposition-predicts-gain evidence and perceived-usefulness pathways already exist on those pages."
-
+  integrated:
+  - feedback
+  - motivation
+  no_change:
+  - feedback-literacy
+  - writing-education
+  - formative-assessment
+  - assessment-validity
+  reason: 'Integrated into feedback (which uptake dimensions predict revision performance, and which do not) and
+    motivation (interest moved through perceived usefulness, fully mediated). Skipped four: disposition-predicts-gain
+    evidence and perceived-usefulness pathways already exist on those pages.'
 - article: wraft-automated-writing-evaluation-argumentative-2026
   date: 2026-09-28
-  integrated: [ai-feedback-quality, automated-essay-scoring]
-  no_change: [writing-education, prompt-engineering, educational-nlp, assessment-validity]
-  reason: "Integrated into ai-feedback-quality (production method as a quality axis: prompting beat fine-tuning for a non-deterministic task) and automated-essay-scoring (scoring and feedback want different methods, so separate the modules). Skipped four: prompting-versus-fine-tuning is already on prompt-engineering's Connected list, and the rest are further instances."
-
+  integrated:
+  - ai-feedback-quality
+  - automated-essay-scoring
+  no_change:
+  - writing-education
+  - prompt-engineering
+  - educational-nlp
+  - assessment-validity
+  reason: 'Integrated into ai-feedback-quality (production method as a quality axis: prompting beat fine-tuning
+    for a non-deterministic task) and automated-essay-scoring (scoring and feedback want different methods, so separate
+    the modules). Skipped four: prompting-versus-fine-tuning is already on prompt-engineering''s Connected list,
+    and the rest are further instances.'
 - article: reflection-level-classification-hungarian-essays-2026
   date: 2026-09-28
-  integrated: [automated-essay-scoring]
-  no_change: [machine-learning, educational-nlp, metacognition, teacher-education, multilingual-learning, feedback, automated-assessment]
-  reason: "Integrated into automated-essay-scoring: a skewed rubric distribution where aggregate metrics mislead, with ROC-AUC and accuracy decoupling and class balancing lowering every metric. Skipped seven: the strong-aggregate-scores-hide-minority-class-discrimination pattern is already carried."
-
+  integrated:
+  - automated-essay-scoring
+  no_change:
+  - machine-learning
+  - educational-nlp
+  - metacognition
+  - teacher-education
+  - multilingual-learning
+  - feedback
+  - automated-assessment
+  reason: 'Integrated into automated-essay-scoring: a skewed rubric distribution where aggregate metrics mislead,
+    with ROC-AUC and accuracy decoupling and class balancing lowering every metric. Skipped seven: the strong-aggregate-scores-hide-minority-class-discrimination
+    pattern is already carried.'
 - article: genai-assessment-african-higher-education-review-2026
   date: 2026-09-28
-  integrated: [global-south]
-  no_change: [educational-policy-ai, governance, process-oriented-assessment, authentic-assessment, assessment, academic-integrity, assessment-validity, ai-use-disclosure, equity-in-ai-education, ai-literacy, ai-detection, higher-ed]
-  reason: "Integrated into global-south: the page argues Global South underrepresentation but carried no African higher-education assessment evidence base at all, and no count of its size or its ChatGPT-only scope. Skipped twelve: a review restating claims already carried with stronger evidence."
-
+  integrated:
+  - global-south
+  no_change:
+  - educational-policy-ai
+  - governance
+  - process-oriented-assessment
+  - authentic-assessment
+  - assessment
+  - academic-integrity
+  - assessment-validity
+  - ai-use-disclosure
+  - equity-in-ai-education
+  - ai-literacy
+  - ai-detection
+  - higher-ed
+  reason: 'Integrated into global-south: the page argues Global South underrepresentation but carried no African
+    higher-education assessment evidence base at all, and no count of its size or its ChatGPT-only scope. Skipped
+    twelve: a review restating claims already carried with stronger evidence.'
 - article: ai-higher-ed-service-delivery-systematic-review-2026
   date: 2026-09-28
   integrated: []
-  no_change: [higher-ed, change-management, governance, educational-policy-ai, equity-in-ai-education, global-south, limitations-in-aied-research, meta-analysis-systematic-review, administrator, ai-education]
-  reason: "No pair qualified. The review restates claims the pages already carry with stronger or more specific evidence: regional skew, adoption-is-uneven, governance realized as guidance rather than rule, policy lag, and self-reported positive-outcome skew. Its only genuinely new content would be a bibliometric count, which is not an organizing finding."
-
+  no_change:
+  - higher-ed
+  - change-management
+  - governance
+  - educational-policy-ai
+  - equity-in-ai-education
+  - global-south
+  - limitations-in-aied-research
+  - meta-analysis-systematic-review
+  - administrator
+  - ai-education
+  reason: 'No pair qualified. The review restates claims the pages already carry with stronger or more specific
+    evidence: regional skew, adoption-is-uneven, governance realized as guidance rather than rule, policy lag, and
+    self-reported positive-outcome skew. Its only genuinely new content would be a bibliometric count, which is
+    not an organizing finding.'
 - article: ai-mathematics-education-prisma-review-2026
   date: 2026-09-28
-  integrated: [math-education]
-  no_change: [stem-education, meta-analysis-systematic-review, equity-in-ai-education, motivation]
-  reason: "Integrated into math-education: the field's only review-level map, a teacher-facing automation category the page lacked, and the review's Psychology/emotion gap. Skipped four: the remaining sections already carry STEM dominance, heterogeneous evidence and access barriers."
-
+  integrated:
+  - math-education
+  no_change:
+  - stem-education
+  - meta-analysis-systematic-review
+  - equity-in-ai-education
+  - motivation
+  reason: 'Integrated into math-education: the field''s only review-level map, a teacher-facing automation category
+    the page lacked, and the review''s Psychology/emotion gap. Skipped four: the remaining sections already carry
+    STEM dominance, heterogeneous evidence and access barriers.'
 - article: ai-emotional-alerts-teachers-mathematics-classroom-2026
   date: 2026-09-28
-  integrated: [teacher-role, affective-computing]
-  no_change: [student-engagement, learning-analytics, social-emotional-learning, math-education, anxiety-and-stress]
-  reason: "Integrated into teacher-role (the alert as a cue to be judged, with deliberate non-intervention as pedagogy) and affective-computing (affect sensing feeding a human decision rather than an adaptive tutor, with the detection unvalidated in the study). Skipped five: no mathematics-learning outcome is reported and the alert/dashboard argument is already carried."
-
+  integrated:
+  - teacher-role
+  - affective-computing
+  no_change:
+  - student-engagement
+  - learning-analytics
+  - social-emotional-learning
+  - math-education
+  - anxiety-and-stress
+  reason: 'Integrated into teacher-role (the alert as a cue to be judged, with deliberate non-intervention as pedagogy)
+    and affective-computing (affect sensing feeding a human decision rather than an adaptive tutor, with the detection
+    unvalidated in the study). Skipped five: no mathematics-learning outcome is reported and the alert/dashboard
+    argument is already carried.'
 - article: bicer-genai-pd-math-creativity-2026
   date: 2026-09-28
-  integrated: [creativity, teacher-education]
-  no_change: [professional-training, teacher-role, teacher-ai-competency, equity-in-ai-education, math-education]
-  reason: "Integrated into creativity (teacher mathematical creativity co-developing with content and pedagogical content knowledge, not measured independently) and teacher-education (two design mechanisms: deliberate scaffold fading and simulated student reasoning across Modules 6-10). Skipped five: the pages cover the framing already, or the study reports no equity outcome."
-
+  integrated:
+  - creativity
+  - teacher-education
+  no_change:
+  - professional-training
+  - teacher-role
+  - teacher-ai-competency
+  - equity-in-ai-education
+  - math-education
+  reason: 'Integrated into creativity (teacher mathematical creativity co-developing with content and pedagogical
+    content knowledge, not measured independently) and teacher-education (two design mechanisms: deliberate scaffold
+    fading and simulated student reasoning across Modules 6-10). Skipped five: the pages cover the framing already,
+    or the study reports no equity outcome.'
 - article: chen-pbl-pjbl-genai-meta-analysis-2026
   date: 2026-09-28
-  integrated: [project-based-learning, problem-based-learning, collaborative-learning]
-  no_change: [motivation, active-learning, problem-solving, self-regulated-learning, critical-thinking, human-ai-collaboration, scaffolding, learning-gains, meta-analysis-systematic-review, ai-literacy]
-  reason: "Integrated three: the pages' only pooled effect for GenAI-supported PBL/PjBL with its PET-PEESE correction, the product-and-solution estimate behind the artifact-as-proxy claim, and the collaborative-versus-individual contrast. Skipped ten: bundled domain scores are not construct-specific contrasts, and the methods lesson is already carried."
-
+  integrated:
+  - project-based-learning
+  - problem-based-learning
+  - collaborative-learning
+  no_change:
+  - motivation
+  - active-learning
+  - problem-solving
+  - self-regulated-learning
+  - critical-thinking
+  - human-ai-collaboration
+  - scaffolding
+  - learning-gains
+  - meta-analysis-systematic-review
+  - ai-literacy
+  reason: 'Integrated three: the pages'' only pooled effect for GenAI-supported PBL/PjBL with its PET-PEESE correction,
+    the product-and-solution estimate behind the artifact-as-proxy claim, and the collaborative-versus-individual
+    contrast. Skipped ten: bundled domain scores are not construct-specific contrasts, and the methods lesson is
+    already carried.'
 - article: educational-organizations-ai-era-leadership-review-2026
   date: 2026-09-28
   integrated: []
-  no_change: [change-management, educational-policy-ai, teacher-ai-competency, governance, administrator, ai-literacy, professional-training, institutional-readiness]
-  reason: "No pair qualified. The review reports no study count, no effect sizes and no named mechanism; its claims (technology alone is insufficient, leadership and competency must move together) are already the thesis of those pages, supported there by appraised studies. Readiness would be an off-target second home."
-
+  no_change:
+  - change-management
+  - educational-policy-ai
+  - teacher-ai-competency
+  - governance
+  - administrator
+  - ai-literacy
+  - professional-training
+  - institutional-readiness
+  reason: No pair qualified. The review reports no study count, no effect sizes and no named mechanism; its claims
+    (technology alone is insufficient, leadership and competency must move together) are already the thesis of those
+    pages, supported there by appraised studies. Readiness would be an off-target second home.
 - article: gai-advocacy-practice-art-education-2026
   date: 2026-09-28
-  integrated: [educational-policy-ai, student-engagement]
-  no_change: [creativity, anxiety-and-stress, arts-design-and-media-education, teacher-role, higher-ed]
-  reason: "Integrated into educational-policy-ai (the measured student-side consequence of an advocacy-practice mismatch, which the page documented only in form) and student-engagement (an institution-level antecedent moving engagement in opposite directions through challenge and hindrance appraisals). Skipped five: the remaining homes are off-construct or already state the gap."
+  integrated:
+  - educational-policy-ai
+  - student-engagement
+  no_change:
+  - creativity
+  - anxiety-and-stress
+  - arts-design-and-media-education
+  - teacher-role
+  - higher-ed
+  reason: 'Integrated into educational-policy-ai (the measured student-side consequence of an advocacy-practice
+    mismatch, which the page documented only in form) and student-engagement (an institution-level antecedent moving
+    engagement in opposite directions through challenge and hindrance appraisals). Skipped five: the remaining homes
+    are off-construct or already state the gap.'
+- article: critical-review-critical-thinking-hci-research-ai-2026
+  date: '2026-09-28'
+  integrated:
+  - critical-thinking
+  - limitations-in-aied-research
+  no_change:
+  - assessment-validity
+  - educational-measurement
+  reason: 'Accepted two of four pairs. critical-thinking and limitations-in-aied-research both assert the measurement
+    problem without quantifying it; this review supplies review-level counts over 80 HCI studies - only 23 defined
+    critical thinking, 49 (61%) assessed it by self-report, 42 (52%) used no control group. Skipped assessment-validity
+    and educational-measurement: both already carry the self-report validity argument with specific studies cited,
+    so this would be another instance of a documented claim.'
