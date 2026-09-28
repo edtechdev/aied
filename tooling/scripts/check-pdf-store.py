@@ -39,7 +39,7 @@ from wiki_config import load_config, path  # noqa: E402
 
 # Directories that never hold a source we must preserve. `dist` holds the built
 # site (and any PDF someone downloads by hand); the offline book folders are
-# build artefacts, not sources.
+# build artifacts, not sources.
 SKIP_DIRS = {'.git', 'node_modules', 'dist', '.astro', '.cache', 'public'}
 # Folder names that mean "someone tried to start a second store".
 STORE_LOOKALIKES = ('pdfs', 'pdf', 'pdf_sources', 'pdf-sources', 'sources')

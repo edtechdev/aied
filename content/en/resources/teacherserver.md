@@ -21,7 +21,7 @@ connected_resources: [edugems]
 reviewed_by: [editor]
 ---
 
-**TeacherServer** is a free collection of AI generators aimed at educators, organised into two sets: fifteen most-used tools for K-12 teachers and fifteen for college faculty, inside a total of 1,194 tools. Each tool is a form: you describe what you need, refine the response in conversation, then save or share the result.
+**TeacherServer** is a free collection of AI generators aimed at educators, organized into two sets: fifteen most-used tools for K-12 teachers and fifteen for college faculty, inside a total of 1,194 tools. Each tool is a form: you describe what you need, refine the response in conversation, then save or share the result.
 
 ## What you can do with it
 For K-12: lesson plan, worksheet, [[special-education|IEP goal]], math word problem, reading activity, science lesson plan and science experiment generators, a phonics and reading coach, a Lexile score adjuster, a [[automated-question-generation|curriculum quiz maker]], a historical-perspective generator and tech-ethics scenarios. For college faculty: a text proofreader, paraphraser, case study generator, research idea generator, [[feedback|assignment feedback]], discussion prompts and a rubric generator. The site also republishes summaries of recent research on AI in education.
