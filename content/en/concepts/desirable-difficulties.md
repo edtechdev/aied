@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-28T03:40:56-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -61,7 +61,7 @@ Because AI is designed to be frictionless — instantly generating summaries, so
 
 The central tension for AI-supported learning is that [[generative-ai|generative AI]] is, by default, a friction-removing technology: it answers, generates, and produces polished artifacts on demand. Across the knowledge base, this plays out in two directions:
 
-- **The cost of removing struggle.** When AI erases spacing, retrieval, and generation, learners may show immediate performance gains but forfeit durable learning and transfer. This connects directly to the [[cognitive-offloading|Over-Reliance]] and [[ai-misuse-learning-harm]] findings: an AI that removes desirable difficulty produces the performance–learning gap documented across the knowledge base's evidence base. [[agentic-ai-pedagogical-best-practice-2026]] calls explicitly for intentional friction.
+- **The cost of removing struggle.** When AI erases spacing, retrieval, and generation, learners may show immediate performance gains but forfeit durable learning and transfer. This connects directly to the [[cognitive-offloading|Over-Reliance]] and [[ai-misuse-learning-harm]] findings: an AI that removes desirable difficulty produces the performance–learning gap documented across the knowledge base's evidence base. [[agentic-ai-pedagogical-best-practice-2026]] calls explicitly for intentional friction. [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui's (2025)]] randomized trial gives the principle a direct delayed test in an AI setting: 120 undergraduates who studied AI/ML topics with unrestricted ChatGPT scored 57.5% on a surprise retention test 45 days later against 68.5% for traditional learners (t(83) = −3.19, p = .002, Cohen's d = 0.68), and the deficit held with study time as a covariate (F(1, 82) = 7.89, p = .006). The impairment was largest on technical topics (d = 0.92) — the material where AI offered the most assistance, and where the struggle the principle says is productive is most needed.
 - **Designing struggle back in.** Instructional designs can deliberately preserve productive processing: draft-first routines, hint-not-answer tutoring, delayed feedback, and teach-back/explanation protocols. These are the concrete scaffolds explored under [[reducing-ai-misuse]] and [[structured-llm-feedback-programming]].
 
 **The inverted U and the effort paradox.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] supply the sharpest recent statement of why AI's friction-removal is not automatically good. They distinguish AI from earlier labor-saving [[ai-technologies|technologies]] on two grounds: it targets intellectual and creative work rather than physical or clerical work, and its friction removal is *extreme* — prior technologies eliminated excess friction, "tedious or insurmountable obstacles that offer little benefit for learning or meaning", whereas a chatbot lets a learner move from ideation to evaluation "without exerting meaningful effort, without questioning the output, and without engaging the cognitive processes that foster ownership, retention, or critical thought". Their organizing claim is that the effort–meaning relationship is curvilinear: moderate friction enhances meaning and motivation while excessive friction overwhelms, so AI's risk is overshooting into too little friction rather than excess. Two consequences matter pedagogically — effort is itself a trainable skill (rewarding process rather than product increases the tendency to strive and persevere), and the motivational benefits of effort erode in exactly the domains where AI substitutes for it, producing a cycle of increasing dependence ([[cognitive-offloading]], [[motivation]]).
@@ -95,6 +95,7 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[retrieval-spacing-interleaving]] — the operational techniques that instantiate this principle: testing effect, spacing, interleaving
 
 ## Connected Articles
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT as a cognitive crutch: a delayed randomized test of removing desirable difficulty (Barcaui 2025)
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI: the inverted-U argument for preserving beneficial friction
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning

@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-23T14:22:40-04:00"
+updated: "2026-09-28T03:40:56-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -43,6 +43,7 @@ Self-efficacy is distinct from actual competence: it is a belief about capabilit
 Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student-experience]], [[ai-literacy]], [[agency]], and [[educational-robotics]]. Building self-efficacy is a key mechanism through which AI supports engagement and learning. Self-efficacy is measured almost entirely by [[self-report-measures|self-report]], so its associations with observed behavior deserve the usual caution.
 
 - **AIGC self-efficacy as the pivot between tool and learning.** [[aigc-affordance-student-self-regulation-2026|Liang et al. (2026)]] find that perceived affordances of AI-generated content raise AIGC self-efficacy (beta = 0.583), which then mediates the paths to learning motivation (indirect effect 0.329) and to self-regulated learning (0.145), with the serial path affordance to self-efficacy to motivation to self-[[regulation]] also significant (0.173). The contrast that makes the finding useful is that the quality of AI [[assessment]] feedback did *not* predict self-efficacy (beta = 0.131, n.s.) even though it strongly predicted satisfaction — confidence with the tool is built by directing it, not by receiving good output from it.
+- **No treatment effect in a semester-long RCT — confidence rose with course time:** in [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni and Fryer's (2026)]] randomized field experiment with 454 undergraduates in a Principles of Marketing course, self-efficacy rose over the semester for all students (time effect β = 0.099, p = 0.0009, Cohen's ƒ2 = 0.025) while neither the group effect (p = 0.1162) nor the group × time interaction (p = 0.5306, d = 0.023) was significant, so the RAG chatbot added nothing. Confidence gains in AI-supported courses can track course progression rather than the tool — an attribution risk for a construct the field measures almost entirely by [[self-report-measures|self-report]].
 
 ## Connected Concepts
 
@@ -57,6 +58,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[self-report-measures]]
 - [[social-emotional-learning]] — Social-Emotional Learning
 ## Connected Articles
+- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — AI chatbots in higher education: comparing expectations to evidence (Thoeni & Fryer 2026)
 - [[genai-performance-vs-learning]] — confidence rising while technological dependence grows: self-efficacy as a misleading AI-era outcome (Yan et al. 2025)
 - [[ai-supported-ementoring-efl-preservice-2026]] — AI-supported e-mentoring raises EFL pre-service teachers' self-efficacy and emotional intelligence (quasi-experimental)
 - [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation

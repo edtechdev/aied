@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-26T09:01:07-04:00"
+updated: "2026-09-28T03:40:56-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -37,6 +37,7 @@ Scholarship converges on several change-management levers. **Governance framewor
 **Institutional transformation case studies** show how these levers play out in practice. [[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]] analyzes Lingnan University's strategic change across four dimensions — instructional upgrade through AI, prioritization of irreplaceable human competencies, curriculum renewal, and retention of ethical/cultural values — illustrating how a long-established institution can manage [[generative-ai|GenAI]]-driven change without relinquishing its identity. It frames the transformation as intellectual rather than technocentric, giving institutional leaders a staged model for mandating AI literacy while preserving humanistic mission.
 
 **School-system implementation evidence** shifts the question from which product to adopt to how it is used. Fieldwork by [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners]] — 32 classrooms in 16 school systems across seven states — found the same product landing well or badly according to how the teacher framed the purpose, watched the dashboard, and acted on what it reported, with ten-minute activities stretching across a class where routines and a clear place in the scope and sequence were missing. Products that specified teacher actions during use were used closer to their intended approach, and teachers needed sustained coaching rather than a single rollout; where leaders knew a product well, teachers took the desired actions more often.
+**Sustainability is a property of the organization, not the tool.** A four-year randomized evaluation of a non-generative AI text-messaging chatbot at California State University, Northridge, traces durability to an administrative home (joint oversight by the Office of Undergraduate Studies and the Office of the Registrar), one communication specialist writing every campaign for a consistent voice, and enough flexibility in the message mix to absorb the COVID-19 shock — while cross-office data sharing for targeted outreach proved burdensome enough that targeted campaigns fell from 36% to 6% of the annual total ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page 2026]], a working paper whose implementation findings rest on system observation and administrator discussions rather than the trial). Its engagement result reinforces the same lesson: annual opt-out rates never exceeded 4% over four years, which the authors read as receptivity sustained by how the institution adapted implementation rather than by the technology itself.
 
 **Assessment reform** is a central change-management battleground. The [[ai-assessment-scale-reform|AI Assessment Scale study]] shows framework implementation hampered by departmental inconsistencies, workload pressures, and uncertainty, with staff describing the process as "a bit of chaos and madness." The [[ethical-ai-higher-ed-game-theory|coordination game model]] offers a formal account of why policy statements alone fail: student AI use is a collective norm-formation process, and small, well-calibrated changes to reflective assessment incentives can trigger rapid cohort-wide shifts toward responsible use, whereas weak or misaligned incentives allow opportunistic practices to persist. This supports pedagogy-led governance over surveillance. The [[ai-adaptation-gap-higher-education-2026|AI adaptation gap survey]] adds a [[stakeholders|stakeholder]] dimension: students report higher AI-use intensity and perceived usefulness than faculty and administrative staff, while the latter report stronger [[academic-integrity]] concerns — and perceived usefulness drives [[trust]] (β = 0.402) more strongly than institutional policy clarity (β = 0.223).
 
@@ -62,6 +63,7 @@ Change management is the institutional complement to classroom-level integration
 - [[academic-integrity]] — central regulatory anchor around which assessment reform is organized
 
 ## Connected Articles
+- [[mata-sustaining-ai-enabled-student-support-2026]] — Sustaining AI-enabled student support: four-year implementation and impact study of an institutional chatbot (Mata, Russell & Page 2026)
 
 - [[institutional-change-framework-ai]] — six-dimension framework for adapting institutional change models to AI as an arrival technology
 - [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK framework and complexity leadership for transformative change
