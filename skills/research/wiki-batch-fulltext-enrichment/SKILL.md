@@ -30,7 +30,7 @@ Two different failure modes, and they need different triage:
 
 **(b) The raw source is truncated.** Raw files ingested before the 250k cap was adopted stop at ~50,300-50,800 characters and almost always cut off **before the results/discussion/limitations** — the exact material enrichment needs. **Use the exact-cap signature, not the size band: a body of 50,000-50,003 characters is a certain truncation; a body in the 40k-49k range is usually a complete short paper** (re-fetching those returns the same or slightly less text, so classify by re-fetch rather than by size). Real corpus: ~246 of 455 arXiv candidates were genuinely truncated and recovered a median of +32k characters each; of the files still sitting exactly at the cap afterwards, 112 of 123 were publisher/DOI sources with no fetchable PDF. A thin article over a truncated source cannot be fixed by reading harder — refresh first (step 1c). Quick test — read the last ~400 characters of the raw file; if it ends mid-section, it is truncated.
 
-Separate the remaining thin ones into **arXiv** (raw filename matches `^\d{4}\.\d{4,5}(v\d+)?$` → fetch yourself) and **non-arXiv** (publisher/DOI/report → need the PDF). Write the audit to a dedicated untracked file (e.g. `AUDIT-abstract-only-articles.md`) — do NOT overwrite the tracked `AIED-BACKLOG.md`.
+Separate the remaining thin ones into **arXiv** (raw filename matches `^\d{4}\.\d{4,5}(v\d+)?$` → fetch yourself) and **non-arXiv** (publisher/DOI/report → need the PDF). Write the audit to a dedicated untracked file (e.g. `AUDIT-abstract-only-articles.md`) — do NOT overwrite `AIED-BACKLOG.md`, which is gitignored and hand-maintained.
 
 ### 1c. Refresh a 50k-truncated raw from the source PDF
 Same fetch as below, but slice the saved body to the **250k** cap (not 50k):
@@ -62,7 +62,10 @@ Delegate in waves (10-child concurrency limit). Each subagent gets: article path
 - reconcile the page count with the built site and the content collections
 
 ## Pitfalls
-- **Never overwrite `AIED-BACKLOG.md`** — it is a real tracked file. If you accidentally write to it, `git checkout AIED-BACKLOG.md` to restore; save audits to a separate untracked file.
+- **Never overwrite `AIED-BACKLOG.md`** — it is the hand-maintained backlog of material the knowledge base
+  declined or is still waiting on, kept locally and gitignored so that rejected work is never published. It is
+  not under version control, so `git checkout AIED-BACKLOG.md` cannot restore it: copy it aside before editing,
+  and save audits to a separate untracked file.
 - **Children write British spellings however firmly the brief forbids them.** Pages drafted by workers that copied phrasing out of a UK paper arrived with `modelling` (x16 on one page), `behaviour`, `artefact`, `labour`, `defence`, `generalisability`. Always run
   `check-us-english.py` after a wave and fix with `tooling/scripts/respell-us-english.py --changed`,
   which respells body prose only — never the `## Citation` (which reproduces the paper's own title)

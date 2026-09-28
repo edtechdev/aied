@@ -91,7 +91,8 @@ DOI-backed source unobtainable.
 
 Keep `source_url`. Add `updated:`, a provenance field (`provided_pdf: pdf-sources/<slug>.pdf` for a
 user-supplied file, or a `version:` note stating where the text came from), and `sha256` over the
-new body only. Anything you cannot fetch must land in `AIED-BACKLOG.md` (tracked); write working
+new body only. Anything you cannot fetch must land in `AIED-BACKLOG.md` (a local, gitignored file, never
+published); write working
 audits to a separate untracked file and never overwrite the backlog wholesale.
 
 ## Verify before claiming success
