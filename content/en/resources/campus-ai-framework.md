@@ -25,7 +25,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 The Campus AI Framework is a higher-education-native operating model for AI strategy and
-governance, published by Joe Sabado. It sets out eight institutional pillars — from campus mission and
+governance, published by Joe Sabado. It sets out eight [[governance|governance]]-facing institutional pillars — from campus mission and
 AI principles through policies, governance, engagement, readiness, roles and implementation — four
 application domains where AI is put to work (teaching, learning and student success; research and
 innovation; operations and infrastructure; student and community engagement), and an AI Strategic
@@ -37,13 +37,15 @@ The pillars name what an institution has to build; the Compass is the selection 
 candidates against strategic fit, ethics and compliance, financial viability, operational efficiency,
 efficacy and evidence, and stakeholder impact, and tracking them through a screen-score-select-plan-
 track-reflect cycle with KPIs, OKRs and efficacy measures. Working tools include a maturity assessment
-for readiness and capability, a tool evaluation matrix, and a governance guide. The site's tabbed
+for readiness and capability, a tool evaluation matrix, and a governance guide. It is aimed at
+[[educational-policy-ai|AI policy and strategy]] work rather than at classroom practice, and it treats
+[[ai-literacy|AI literacy]] for everyone, competency by role and fluency for leaders as separate readiness needs. The site's tabbed
 diagram view maps each pillar to the companion sites that carry it further.
 
 ## Who it is for
 
 Cabinet leaders, provosts and CIOs deciding what to back; AI leads and governance committees
-sequencing the work; and unit-level practitioners who need a first concrete step. The site routes the
+sequencing the work; [[change-management|organizational change]] and adoption as the recurring theme; and unit-level practitioners who need a first concrete step. The site routes the
 three audiences to different entry points rather than one linear read.
 
 ## Notes and caveats

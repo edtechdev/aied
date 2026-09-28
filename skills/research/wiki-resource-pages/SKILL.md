@@ -117,3 +117,28 @@ outcome rather than assuming it.
   minor capabilities into one sentence instead. Only a genuinely many-featured platform sits at the
   top of the documented range.
 - **Body prose in US English only** — “canceled”, “license” as a noun; `check-us-english.py` is the gate.
+
+## Wiring a resource in — the two steps that get forgotten (2026-09-28)
+
+A new resource page is not finished when it renders. Two defects appeared across fifteen of
+twenty-seven resource pages at once, and a green build caught neither, so both are now
+gated by `tooling/scripts/check-resource-wiring.py`:
+
+1. **The prose must carry 1-3 `[[concept]]` links.** Links inside the `## Connected
+   Concepts` list do NOT count: that list is the page's own navigation, while prose links are
+   how a reader moving through the text meets the concepts. Attach links to concepts the
+   prose already names; do not add claims to manufacture a link. Targets must be existing
+   concept slugs — read `tooling/concept-index.md` rather than assuming — and a resource slug
+   never resolves in a markdown body, so an external tool is linked with plain markdown.
+2. **The resource must be listed in the `connected_resources:` frontmatter of the 2-4 concept
+   pages a reader of that concept would want it from.** A resource no concept page lists is
+   reachable only from the `/resources/` index, so the reader who most needs it never sees it.
+   Another *resource* listing it is not enough — that is a sibling shelf, not a concept home.
+   Add the slug to the concept page's existing `connected_resources:` array (creating the
+   field if absent), and state the host in the ingest report.
+
+Run `python3 tooling/scripts/check-resource-wiring.py` for all pages, or pass slugs for just
+the ones you touched. It is declared in `build.gates` and scoped to changed pages by
+`run-gates.py`. Note the counterpart failure this gate cannot see: a page can pass both
+checks and still overreach, so the delete test from `wiki-concept-narrative` still governs
+what a resource page asserts about a concept.
