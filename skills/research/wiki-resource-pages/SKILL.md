@@ -157,3 +157,12 @@ what a resource page asserts about a concept.
 - **Check an existing link's target, not just its label.** One page carried
   `[[assessment|feedback]]`, which renders as the word "feedback" but sends the reader to the
   assessment page. A mislabelled link passes every mechanical check.
+### Enum traps in the two fields you will reach for first
+
+`audience` has no `students` member - the value is **`learners`**, and `students` fails the Astro
+build with "value must be one of the allowed options" only after the page is written. `discipline`
+is a list of *education* disciplines (arts education, cs education, learning sciences, information
+technology, ...): a source from a field outside it, such as human-computer interaction, has no
+honest value, so **omit the field** rather than filing the page under the nearest education
+discipline. Both mistakes landed on one page in the same pass. Read the enum from
+`src/content.config.ts` before writing the frontmatter, not after the build rejects it.

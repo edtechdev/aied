@@ -1,7 +1,7 @@
 ---
 title: "AI chatbots in higher education: Comparing expectations to evidence"
 created: "2026-09-27T22:30:00-04:00"
-updated: "2026-09-27T22:30:00-04:00"
+updated: "2026-09-28T05:22:31-04:00"
 type: article
 sources: ['raw/papers/thoeni-ai-chatbots-higher-education-expectations-evidence-2026.md']
 confidence: high
@@ -37,7 +37,7 @@ reviewed_by: [editor]
 
 ## How the chatbot and the field experiment were built
 
-The authors insist a RAG system needs three elements: faculty-written expert content, system instructions, and rigorous validity and reliability testing. The content, written by the first author, ran to one document per chapter — topics, concepts, glossary, learning objectives and a lecture transcription — and excluded test questions and anything from the copyrighted textbook. Instructions set a personality, goals and functions, including a quiz feature that generated practice questions on any topic. It ran on Microsoft Copilot (ChatGPT 4o) at a temperature of 0.7. Testing took an estimated 100 hours over several months, including reviews of nearly 500 student–chatbot conversations from two earlier pilots; the finished chatbot answered all but 1 of 200 test questions correctly and consistently.
+The authors insist a RAG system needs three elements: faculty-written expert content, system instructions, and rigorous validity and reliability testing. The content, written by the first author, ran to one document per chapter — topics, concepts, glossary, learning objectives and a lecture transcription — and excluded test questions and anything from the copyrighted textbook. Instructions set a personality, goals and functions, including a quiz feature that generated practice questions on any topic. It ran on the Copilot chatbot with ChatGPT 4o at a temperature of 0.7. Testing took an estimated 100 hours over several months, including reviews of nearly 500 student–chatbot conversations from two earlier pilots; the finished chatbot answered all but 1 of 200 test questions correctly and consistently.
 
 The experiment ran over a 16-week fall semester with a 12-week treatment period (11 active weeks after fall break) across three sections — 207 asynchronous online, 43 small, 204 large face-to-face — yielding 454 analyzed students after 16 drops and 3 repeaters were excluded, split 231 control and 223 treatment. Randomization happened within sections after drop/add, and test #1, taken before anyone had access, showed no baseline differences. Both groups earned participation points for weekly study sessions. The four 50-question tests came from a bank of about 1,800 items and counted for 50 percent of course points; scores were z-standardized within each period because T1 and T2 covered different chapters.
 

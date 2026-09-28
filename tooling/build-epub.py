@@ -7,7 +7,8 @@ Metadata: title from site.config.json, the editor name from site.config.json
 Wiki [[wikilinks]] that resolve to concepts/FAQs present in the EPUB become
 internal anchors so navigation works inside the reader.
 """
-import os, re, glob, subprocess, datetime, json, sys
+import os
+import sys, re, glob, subprocess, datetime, json, sys
 
 WIKI = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -875,7 +876,12 @@ def build_pdf():
 
 
 if __name__ == '__main__':
+    # build_pdf() returns False when pandoc or weasyprint fails - most often because
+    # weasyprint is missing from the interpreter. Exiting 0 there once let a rebuild look
+    # successful while leaving a stale aied.pdf on disk, so the failure is now loud.
     build_epub()
-    build_pdf()
+    if not build_pdf():
+        sys.stderr.write('aied.pdf was NOT rebuilt - see the error above\n'); sys.exit(1)
+
 
 

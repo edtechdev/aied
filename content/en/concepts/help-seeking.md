@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-09-25T09:57:33-04:00"
+updated: "2026-09-28T05:38:15-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -14,6 +14,9 @@ reviewed_by: [editor]
 ---
 
 > **Help-Seeking** — the learner's process of recognizing a need for assistance and strategically requesting it, and how that process plays out in AI-supported learning environments. In [[ai-education|AI in education]], help-seeking is central to whether AI tools support or undermine learning: the *quality* of help-seeking (when, how, and what learners ask for) strongly shapes outcomes, and AI tutors, hints, and [[pedagogy|pedagogical]] agents are designed precisely to elicit productive help-seeking rather than answer-seeking.([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
+
+
+Proactive outreach can raise help-seeking without any change to the learning materials. A pre-registered experiment in large-enrollment undergraduate courses messaged students through an academic chatbot and found greater take-up of tutoring and supplemental instruction; mediation analysis attributed 17.8% of the grade effect to that increased help-seeking (p = 0.041) ([[chatbot-outreach-course-performance-2026]]).
 
 ## Questions to Consider
 

@@ -1,7 +1,7 @@
 ---
 title: "AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting"
 created: "2026-09-27T22:30:00-04:00"
-updated: "2026-09-27T22:30:00-04:00"
+updated: "2026-09-28T05:18:13-04:00"
 type: article
 sources: ['raw/papers/kestin-ai-tutoring-outperforms-active-learning-rct-2025.md']
 confidence: high
@@ -25,7 +25,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Kestin, Miller, Klales, Milbourne and Ponti ran a [[rct]] in Physical Sciences 2, Harvard's largest introductory physics course for life sciences students, during the Fall 2023 semester, with 194 of 233 enrolled students eligible for analysis. Every student worked through two lessons in a crossover design, meeting the same content once in an in-class [[active-learning]] lesson and once through a custom AI tutor called PS2 Pal, with pre- and post-tests around each. Students learned significantly more with the tutor, with a median post-test of 4.5 against 3.5 and median [[learning-gains]] more than double those of the class, while spending a median of 49 minutes on task against roughly 60 minutes in class; they also reported higher [[student-engagement]] and [[motivation]]. The authors attribute the result to design rather than to the technology alone: the tutor was engineered to carry the same research-based pedagogical practices as the in-class lessons rather than merely to answer questions.
+> **Synthesis:** Kestin, Miller, Klales, Milbourne and Ponti ran a [[rct]] in Physical Sciences 2, Harvard's largest introductory physics course for life sciences students, during the Fall 2023 semester, with 194 of 233 enrolled students eligible for analysis. Every student worked through two lessons in a crossover design, meeting the same content once in an in-class [[active-learning]] lesson and once through the course's own custom AI tutor, with pre- and post-tests around each. Students learned significantly more with the tutor, with a median post-test of 4.5 against 3.5 and median [[learning-gains]] more than double those of the class, while spending a median of 49 minutes on task against roughly 60 minutes in class; they also reported higher [[student-engagement]] and [[motivation]]. The authors attribute the result to design rather than to the technology alone: the tutor was engineered to carry the same research-based pedagogical practices as the in-class lessons rather than merely to answer questions.
 
 ## Key Findings
 
