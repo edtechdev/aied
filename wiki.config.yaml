@@ -76,6 +76,9 @@ build:
     # Slugs end up in published URLs, and the redirect maps are what keep old ones
     # alive; a dead entry or a target with no page is a reader-visible 404.
     - python3 tooling/scripts/check-slugs.py
+    # Resource pages must be reachable: concept links in the prose, and a listing on the
+    # concept pages that a reader would want the tool from.
+    - python3 tooling/scripts/check-resource-wiring.py
     # Ingesting an article is not finished until it has been screened against the concept
     # pages and the outcome recorded - integrated, or a reason why nothing qualified.
     - python3 tooling/scripts/check-concept-screen.py

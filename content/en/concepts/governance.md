@@ -9,7 +9,7 @@ connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 level: [higher ed]
 confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
-connected_resources: [institutional-ai-readiness-pack]
+connected_resources: [institutional-ai-readiness-pack, campus-ai-framework]
 reviewed_by: [editor]
 ---
 
