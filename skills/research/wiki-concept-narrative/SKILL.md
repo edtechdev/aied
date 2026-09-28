@@ -51,3 +51,33 @@ The wiki skills (`research-wiki`, `wiki-inline-links`, `wiki-faq-pages`, `wiki-a
 - **A citation wrapped in parentheses can never be the subject of a sentence (2026-09-21).** A delegated brief that shows the inline form as `([[slug|label]])` reliably comes back with sentences built that way, e.g. "...mapped more broadly. ([[slug|a 2026 review of teacher AI literacy instruments]]) appraised 33 instruments..." That is a fragment with no subject, and it repeats across every page of the batch. Reserve the parenthetical form for appositives mid-sentence ("A cross-level study of AI education ([[slug|46 teachers, 2,832 students]]) found..."). When the source is the sentence's subject, link the subject itself and keep the label inside the link: `[[slug|A 2026 review of teacher AI literacy instruments]] appraised 33 instruments...`. Audit leftovers with a regex matching a parenthetical wikilink immediately followed by a reporting verb (`synthesized|developed|appraised|found|had|built|validated|examined|tested|analyzed|surveyed|reported|showed`); a mid-sentence appositive is a false positive, so read each hit's context before editing.
 - **The same insertion can leave a link to the page's own slug.** Grep each edited page for `[[<its own slug>` (with `|` or `]]`) and strip the brackets rather than deleting the phrase: a self-link renders as a link back to the page the reader is already on.
 - **Label the study, not the instrument, when the label is the subject.** "Thianwan and Srikoon's 2025 AI Literacy Self-Assessment Questionnaire built a 15-item measure" is wrong (an instrument did not build itself); the same sentence with the label "Thianwan and Srikoon's 2025 validation study of an AI literacy self-assessment questionnaire" is right.
+
+## Recording the screen, and the gate that enforces it (2026-09-28)
+
+The screen is only complete when its outcome is written down. For every article page created
+on or after `concept_screen.since` in `wiki.config.yaml`, add one entry to
+`concept-screen.yaml` at the repo root:
+
+```yaml
+- article: <slug>
+  date: <YYYY-MM-DD the screen ran>
+  integrated: [<concept-slug>, ...]   # pages that now carry the finding in their NARRATIVE
+  no_change: [<concept-slug>, ...]    # screened, judged not to qualify
+  reason: "<why, in one or two sentences>"
+```
+
+An entry with an empty `integrated:` is normal and expected — most articles add nothing
+distinguishing, and the record exists so that a *skipped screen* can be told apart from a
+*correct no-change* decision. The distinction is the whole point: absence of an article from
+every concept narrative is the right outcome for much of the corpus, so it cannot be the
+signal that something was forgotten.
+
+`python3 tooling/scripts/check-concept-screen.py` is the gate (declared in
+`build.gates`, run by `run-gates.py`). It fails on an in-scope article with no entry, on an
+entry with neither an integration nor a reason, and on an entry that *claims* an integration
+the named concept page does not actually contain. That last check matters: it is what stops
+the record from becoming a formality anyone can satisfy by writing `integrated: [something]`
+without doing the work.
+
+This step was skipped for an entire day's batch before the gate existed. A stated rule that
+was silently violated needs a check, not a stronger sentence.

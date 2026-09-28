@@ -1,0 +1,47 @@
+# Concept-screen record.
+#
+# One entry per article page created on or after `concept_screen.since` in
+# wiki.config.yaml. Ingesting an article is finished only when this entry exists:
+# either `integrated:` lists the concept pages that now carry the finding (verified
+# against their narrative bodies by tooling/scripts/check-concept-screen.py), or
+# `integrated:` is empty and `reason:` records why nothing qualified.
+#
+# An article that adds another instance of a claim a concept page already carries does
+# NOT qualify, however solid the study: the bar is significant AND distinguishing. Most
+# entries should have an empty `integrated:` and a reason.
+
+- article: automated-scoring-learning-diagnosis-mechanism-2026
+  date: 2026-09-27
+  integrated: [formative-assessment, automated-essay-scoring]
+  no_change: []
+  reason: "Integrated at ingest: comprehension accuracy correlated with actionability and diagnostic accuracy (r = 0.501 > 0.480 > 0.445), and the scoring model reached F1 = 0.824 on vocabulary against 0.579 on claim-evidence alignment."
+
+- article: trust-calibration-genai-collaborative-regulation-2026
+  date: 2026-09-27
+  integrated: [trust-calibration]
+  no_change: []
+  reason: "Integrated at ingest into the trust-calibration narrative."
+
+- article: thoeni-ai-chatbots-higher-education-expectations-evidence-2026
+  date: 2026-09-27
+  integrated: [self-efficacy, limitations-in-aied-research]
+  no_change: [intelligent-tutoring, conversational-ai, student-engagement, motivation]
+  reason: "Accepted two of six pairs. self-efficacy had no randomized test of whether a tool caused the change: this supplies the time-effect-versus-treatment-effect caution (time β = 0.099, p = 0.0009; group p = 0.1162; interaction p = 0.5306). limitations-in-aied-research stated the speed problem but not the comparability consequence (pre-2023 tutoring rests on systems functionally unlike current models; no term-long RAG RCT in undergraduate education). Skipped four: each would be another instance of a documented pattern."
+
+- article: barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025
+  date: 2026-09-27
+  integrated: [cognitive-offloading, desirable-difficulties]
+  no_change: [retrieval-spacing-interleaving, learning-gains]
+  reason: "Accepted two of four pairs. cognitive-offloading's closest evidence was retention at 48 hours and an immediate post-test; this adds a randomized 45-day delayed endpoint with an effect size (d = 0.68) and shows the deficit survives a study-time covariate (F(1, 82) = 7.89, p = .006), ruling out the saved-time explanation. desirable-difficulties gets a direct delayed test in an AI setting, impairment largest on technical material. Skipped retrieval-spacing-interleaving (manipulates no retrieval, spacing or interleaving technique) and learning-gains (same-direction instance of claims it already carries)."
+
+- article: mata-sustaining-ai-enabled-student-support-2026
+  date: 2026-09-27
+  integrated: [change-management, conversational-ai]
+  no_change: [educational-policy-ai, equity-in-ai-education]
+  reason: "Accepted two of four pairs. change-management had no evidence on what keeps a programme running over years: this supplies the administrative home, single-writer communication, and the coordination burden that cut targeted campaigns from 36% to 6%. conversational-ai gets multi-year durability of a deployed institutional chatbot and the passive-versus-active engagement measurement point. Skipped educational-policy-ai (governance thesis already stated) and equity-in-ai-education (its only equity claim is an unmeasured author interpretation; subgroup analyses found no differential effects)."
+
+- article: kestin-ai-tutoring-outperforms-active-learning-rct-2025
+  date: 2026-09-27
+  integrated: [active-learning, learning-gains, intelligent-tutoring]
+  no_change: [scaffolding, student-engagement, motivation]
+  reason: "Accepted three of six pairs. All three lacked any trial whose comparator is research-based active learning rather than a lecture: the contribution is the demanding comparator plus a tutor engineered from the class's own seven practices (median post-test 4.5 against 3.5, effect size 0.63, 49 minutes on task against 60). Skipped scaffolding (its rule-guided-versus-improvised point is already carried), student-engagement and motivation (single self-report Likert items, the construct the page warns is not interchangeable with learning data)."

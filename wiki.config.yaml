@@ -76,6 +76,9 @@ build:
     # Slugs end up in published URLs, and the redirect maps are what keep old ones
     # alive; a dead entry or a target with no page is a reader-visible 404.
     - python3 tooling/scripts/check-slugs.py
+    # Ingesting an article is not finished until it has been screened against the concept
+    # pages and the outcome recorded - integrated, or a reason why nothing qualified.
+    - python3 tooling/scripts/check-concept-screen.py
     # Typed facet fields are authored directly (tags were retired) and must hold
     # concept slugs from their own registry section.
     - python3 tooling/scripts/validate-facets.py
@@ -157,6 +160,13 @@ agent:
 # ---------------------------------------------------------------------------
 # Daily new-paper scan
 # ---------------------------------------------------------------------------
+concept_screen:
+  # Articles with `created:` on or after this date must carry a recorded concept-screen
+  # decision in `record`. The requirement starts when the mechanism does; historical
+  # pages are deliberately out of scope.
+  since: "2026-09-27"
+  record: concept-screen.yaml
+
 scan:
   schedule: "0 9 * * 1-5"         # weekdays 09:00 (repo-local timezone)
   window:
