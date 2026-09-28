@@ -8,9 +8,11 @@ neither:
      list do not count - that list is the page's own navigation, while prose links are how
      a reader moving through the text meets the concepts. Fifteen of twenty-seven pages had
      zero.
-  2. The resource appears in no other page's `connected_resources:`. A resource that no
-     concept page lists is reachable only from the /resources index, so a reader of the
-     concept it serves never learns it exists.
+  2. Nobody ever asked whether the resource belongs in a concept page's
+     `connected_resources:`. Not every resource should be on a concept page - some are only
+     useful inside another tool's ecosystem - but the question is not optional, so it is
+     recorded in resource-wiring.yaml: either the concept pages that now list it, or an empty
+     list and a reason. An entry claiming a host that does not list the resource FAILS.
 
     python3 tooling/scripts/check-resource-wiring.py            # every resource page
     python3 tooling/scripts/check-resource-wiring.py <slug> ... # just these
@@ -34,6 +36,13 @@ def main(argv):
     concept_dir = path(cfg, 'concepts')
     concept_slugs = {n[:-3] for n in os.listdir(concept_dir) if n.endswith('.md')}
     want = set(argv[1:])
+    rec_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'resource-wiring.yaml')
+    record = {}
+    if os.path.exists(rec_path):
+        import yaml
+        for e in (yaml.safe_load(open(rec_path, encoding='utf-8')) or []):
+            if isinstance(e, dict) and e.get('resource'):
+                record[str(e['resource'])] = e
 
     # every page's connected_resources, so defect 2 is one pass rather than N
     listed = {}
@@ -69,9 +78,20 @@ def main(argv):
         if not valid:
             problems.append('%s: no `[[concept]]` link in the prose%s' % (
                 slug, '' if not links else ' (found %s, which do not resolve to concepts)' % links))
-        hosts = {h for h in listed.get(slug, set()) if 'resources/' not in h}
-        if not hosts:
-            problems.append('%s: listed in no other page\'s connected_resources' % slug)
+        entry = record.get(slug)
+        if entry is None:
+            problems.append('%s: no entry in resource-wiring.yaml - review whether a concept page should list it' % slug)
+        else:
+            hosts = entry.get('hosts') or []
+            if not hosts:
+                if not str(entry.get('reason') or '').strip():
+                    problems.append('%s: recorded with no host and no reason' % slug)
+            for h in hosts:
+                cpath = os.path.join(concept_dir, '%s.md' % h)
+                if not os.path.exists(cpath):
+                    problems.append('%s: names concept host %s, which does not exist' % (slug, h))
+                elif not re.search(r'connected_resources:.*\b' + re.escape(slug) + r'\b', open(cpath, encoding='utf-8').read(), re.M | re.S):
+                    problems.append('%s: claims host %s, but that page does not list it' % (slug, h))
 
     if problems:
         print('FAIL - %d resource page(s) checked, %d problem(s):' % (checked, len(problems)))
