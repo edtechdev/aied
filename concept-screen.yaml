@@ -328,3 +328,28 @@
     critical thinking, 49 (61%) assessed it by self-report, 42 (52%) used no control group. Skipped assessment-validity
     and educational-measurement: both already carry the self-report validity argument with specific studies cited,
     so this would be another instance of a documented claim.'
+- article: generative-ai-higher-education-systematic-review-2026
+  date: '2026-09-28'
+  integrated:
+  - limitations-in-aied-research
+  no_change:
+  - learning-gains
+  - generative-ai
+  reason: Accepted one of three pairs. limitations-in-aied-research asserted that outcome claims outrun evidence
+    without quantifying the pattern; this review supplies a four-level outcome typology over 103 higher-education
+    studies with 56% falling in one conditional pattern (confidence and motivation up, durable competence unchanged).
+    Skipped learning-gains, which already carries the conditional finding from the Dong 2026 meta-analysis of 53
+    studies, and generative-ai, which already carries a tool typology - each would be a second instance of a documented
+    claim.
+- article: chatbot-outreach-course-performance-2026
+  date: '2026-09-28'
+  integrated:
+  - help-seeking
+  no_change:
+  - differential-effects-across-learner-groups
+  - conversational-ai
+  reason: Accepted one of three pairs. help-seeking described recognition and strategic requests for help but carried
+    no outreach mechanism; this supplies a pre-registered test where proactive chatbot messaging raised tutoring
+    and supplemental-instruction take-up and 17.8% of the grade effect ran through it. Skipped differential-effects-across-learner-groups,
+    whose Gender section already carries gender-differential AI findings, and conversational-ai, which already carries
+    a non-generative institutional chatbot evaluation - each would be another instance of a documented pattern.

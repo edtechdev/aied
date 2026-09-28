@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-09-28T04:53:20-04:00"
+updated: "2026-09-28T05:25:17-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -14,7 +14,7 @@ methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 reviewed_by: [editor]
 ---
 
-> **Limitations in AIEd research** — the recurring weaknesses and constraints that affect how much confidence we can place in AI-in-education findings, and how readers should interpret them. These cut across individual studies: methodological limitations (generalizability, sample size, validity, self-report), the speed problem (AI and findings date quickly while publication lags), research-practice limitations (reproducibility, FAIR practices, proprietary tools), and weak theory use. Methodological limits are measurable rather than impressionistic: in a critical review of 80 HCI studies of critical thinking with AI, 42 (52%) ran no control group and most of the rest relied on self-report, so the field's positive findings rest on designs that cannot separate AI's effect from ordinary reflection ([[critical-review-critical-thinking-hci-research-ai-2026]]). Recognizing these limits is essential for reading the literature critically and for designing stronger studies.
+> **Limitations in AIEd research** — the recurring weaknesses and constraints that affect how much confidence we can place in AI-in-education findings, and how readers should interpret them. These cut across individual studies: methodological limitations (generalizability, sample size, validity, self-report), the speed problem (AI and findings date quickly while publication lags), research-practice limitations (reproducibility, FAIR practices, proprietary tools), and weak theory use. Methodological limits are measurable rather than impressionistic: in a critical review of 80 HCI studies of critical thinking with AI, 42 (52%) ran no control group and most of the rest relied on self-report, so the field's positive findings rest on designs that cannot separate AI's effect from ordinary reflection ([[critical-review-critical-thinking-hci-research-ai-2026]]) Outcome coding is uneven in the same way: a systematic review of 103 higher-education studies sorted its corpus into a four-level outcome typology and placed 56% of it in a single conditional pattern, where confidence and motivation rose without a matching gain in durable competence ([[generative-ai-higher-education-systematic-review-2026]]).. Recognizing these limits is essential for reading the literature critically and for designing stronger studies.
 
 ## Questions to Consider
 

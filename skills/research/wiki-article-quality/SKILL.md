@@ -272,3 +272,14 @@ saved sources with unrelated articles, and half of them could not be recovered. 
 - Publisher hosts (ScienceDirect, Springer, Wiley, Taylor & Francis, SAGE, IEEE, ACM) answer automated requests
   with a robot check. Do not fight it: record the page in `AIED-BACKLOG.md` so the PDF can be supplied, and leave a
   marker in the source file rather than a wrong paper.
+
+### The section set is fixed — copy it, never compose it
+
+`audit-article-sections.py` requires an article page to carry **`## Key Findings`**,
+**`## Method and Evidence`**, **`## What this means for practice`**, **`## Limitations`** and
+**`## Citation`** (Citation last). These names are not a style preference: the section audit
+fails the page on any of them missing, and it fails on the *missing* one while staying silent
+about an extra heading that reads plausibly. A brief to a writer that invents a heading —
+"What this means for practice" became "Why It Matters for Educators" once — produces a page that
+passes every other gate and then fails the audit alone. Copy the five names from this skill or
+from an existing page; when a brief has to name them, paste them rather than paraphrasing.
