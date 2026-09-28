@@ -10,7 +10,7 @@ ethics: [privacy]
 audience: [software developers, instructors, administrators, researchers]
 discipline: [stem education, writing education]
 confidence: medium
-connected_resources: [vibes-diy, onmicro-ai, liascript, claw-ed, education-agent-skills]
+connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy]
 methods: [benchmark]
 reviewed_by: [editor]
 ---

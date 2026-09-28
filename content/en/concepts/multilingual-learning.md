@@ -1,4 +1,5 @@
 ---
+connected_resources: [mglearn]
 title: Multilingual Learning
 created: "2026-08-19T09:55:00-04:00"
 updated: "2026-09-19T06:35:00-04:00"

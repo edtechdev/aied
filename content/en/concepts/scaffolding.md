@@ -1,4 +1,5 @@
 ---
+connected_resources: [onmicro-ai]
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-25T13:21:30-04:00"

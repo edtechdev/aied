@@ -1,4 +1,5 @@
 ---
+connected_resources: [matt-pocock-skills]
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-25T09:57:33-04:00"

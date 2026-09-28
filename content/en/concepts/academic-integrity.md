@@ -9,7 +9,7 @@ assessment: [ai-detection, assessment-validity, authentic-assessment]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, regulation]
-connected_resources: [institutional-ai-readiness-pack, process-feedback]
+connected_resources: [fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback]
 reviewed_by: [editor]
 ---
 

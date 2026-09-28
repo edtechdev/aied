@@ -9,7 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [edugems, pressing-prompts, mglearn, education-agent-skills]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, vibes-diy]
 reviewed_by: [editor]
 ---
 

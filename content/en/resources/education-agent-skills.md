@@ -27,7 +27,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-**Education Agent Skills** is a library of 165 agent skills for teachers, school leaders, and people building education tools. The skills are grouped into twenty domains spanning pedagogy, learning science, curriculum, assessment, and regeneration, and each one is written to be loaded by an agent rather than read as a document.
+**Education Agent Skills** is a library of 165 agent skills for teachers, school leaders, and people building education tools. The skills are grouped into twenty domains spanning pedagogy, learning science, [[curriculum-design|curriculum]], assessment, and regeneration, and each one is written to be loaded by an [[agentic-ai|agent]] rather than read as a document.
 
 ## What you can do with it
 

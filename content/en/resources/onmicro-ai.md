@@ -31,7 +31,7 @@ reviewed_by: [editor]
 
 ## What you can do with it
 
-Apps can be embedded in Canvas, Moodle, Blackboard, or any LTI-compatible platform, where grades and access can sync; the published examples include a patient-communication simulation, a case-study feedback app that scores understanding before a student moves on, and a short language-practice challenge. Usage analytics are the reason the project gives for preferring apps to custom chatbots: a designed flow can be observed and revised, while an open chat cannot. Models from the major providers can be selected, and the platform tracks what each app costs to run.
+Apps can be embedded in Canvas, Moodle, Blackboard, or any [[edtech-platform|LTI-compatible platform]], where grades and access can sync; the published examples include a patient-communication [[simulation]], a case-study feedback app that scores understanding before a student moves on, and a short language-practice challenge. Usage analytics are the reason the project gives for preferring apps to custom [[conversational-ai|chatbots]]: a designed flow can be observed and revised, while an open chat cannot. Models from the major providers can be selected, and the platform tracks what each app costs to run.
 
 ## Who it is for
 

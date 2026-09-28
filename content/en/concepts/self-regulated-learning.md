@@ -1,4 +1,5 @@
 ---
+connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
 updated: "2026-09-25T21:56:00-04:00"

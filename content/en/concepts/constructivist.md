@@ -1,4 +1,5 @@
 ---
+connected_resources: [vibes-diy]
 title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
 updated: "2026-09-17T02:26:00-04:00"

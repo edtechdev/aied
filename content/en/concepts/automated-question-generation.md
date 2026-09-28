@@ -1,4 +1,5 @@
 ---
+connected_resources: [teacherserver]
 title: Automated Question Generation
 created: "2026-05-08T10:44:35-04:00"
 updated: "2026-09-24T10:07:27-04:00"

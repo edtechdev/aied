@@ -9,7 +9,7 @@ technology: [generative-ai, llm, prompt-engineering]
 audience: [learners]
 level: [higher ed]
 confidence: high
-connected_resources: [edugems]
+connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 reviewed_by: [editor]
 ---
 

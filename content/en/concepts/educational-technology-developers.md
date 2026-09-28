@@ -1,4 +1,5 @@
 ---
+connected_resources: [playlab]
 title: "Educational Technology Developers"
 created: "2026-09-17T15:20:00-04:00"
 updated: "2026-09-17T15:20:00-04:00"

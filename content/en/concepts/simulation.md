@@ -1,4 +1,5 @@
 ---
+connected_resources: [openmaic]
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
 updated: "2026-09-23T12:14:06-04:00"

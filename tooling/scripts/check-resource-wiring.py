@@ -97,8 +97,8 @@ def main(argv):
         print('FAIL - %d resource page(s) checked, %d problem(s):' % (checked, len(problems)))
         for p in problems:
             print('  - %s' % p)
-        print('\nA resource page needs 1-3 [[concept]] links in its prose, and the slug in the')
-        print('connected_resources of the 2-4 concept pages that a reader of them would want it from.')
+        print('\nA resource page needs 1-3 [[concept]] links in its prose, and a recorded decision')
+        print('in resource-wiring.yaml about whether a concept page should list it.')
         return 1
     print('OK - %d resource page(s) wired: prose concept links present, each listed on a concept page' % checked)
     return 0

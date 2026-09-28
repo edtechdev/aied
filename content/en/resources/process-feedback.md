@@ -25,11 +25,11 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-**Process Feedback** is a learning-first alternative to AI detection tools. It records the writing process — time spent, revisions, copy-paste events, and whether and when AI was used — and presents it as a writing process report, shifting the question from whether a student cheated to how the work was actually done.
+**Process Feedback** is a learning-first alternative to [[ai-detection|AI detection]] tools. It records the writing process — time spent, revisions, copy-paste events, and whether and when AI was used — and presents it as a [[process-oriented-assessment|writing process report]], shifting the question from whether a student cheated to how the work was actually done.
 
 ## What you can do with it
 
-A teacher can view a report for one student or load hundreds at once from a teacher dashboard, and students can view their own reports and reflect on them. It works in Google Docs through a browser extension, in the project's own writing space, and in LMS editors such as Canvas, with LTI integration available; a report can also be downloaded as a PDF and uploaded to any platform. The project publishes reflection prompts for guiding student self-review, guidance on reading AI-use patterns, and teacher guides.
+A teacher can view a report for one student or load hundreds at once from a teacher dashboard, and students can view their own reports and [[metacognition|reflect]] on them. It works in Google Docs through a browser extension, in the project's own writing space, and in LMS editors such as Canvas, with LTI integration available; a report can also be downloaded as a PDF and uploaded to any platform. The project publishes reflection prompts for guiding student self-review, guidance on reading AI-use patterns, and teacher guides.
 
 ## Who it is for
 

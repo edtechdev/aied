@@ -27,15 +27,15 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-**Vibes DIY** turns a description written in plain words into a working web app, then keeps changing it as the creator describes what to change next. Someone who wants a bingo card generator, a scoreboard, or a small practice tool can build one without writing code, share it by link, and let others remix it from a gallery.
+**Vibes DIY** turns a description written in plain words into a working web app, then keeps changing it as the creator describes what to change next. Someone who wants a bingo card generator, a scoreboard, or a small practice tool can build one without [[vibe-coding|writing code]], share it by link, and let others remix it from a gallery.
 
 ## What you can do with it
 
-Describe an app, keep talking to revise it, and choose whether it stays private, is shared by invitation, or is published. Some projects connect to email, documents, or social accounts, which is how a small app becomes a working assistant with a personality. The `examples/` directory in the repository holds thirty complete apps with their source, including backends and access control, and the project publishes the prompt set it uses for generation, so the technique is inspectable rather than hidden.
+Describe an app, keep talking to revise it, and choose whether it stays private, is shared by invitation, or is published. Some projects connect to email, documents, or social accounts, which is how a small app becomes a working assistant with a personality. The `examples/` directory in the repository holds thirty complete apps with their source, including backends and access control, and the project publishes the [[prompt-engineering|prompt set]] it uses for generation, so the technique is inspectable rather than hidden.
 
 ## Who it is for
 
-It is a general-purpose builder rather than an education product: it is useful to an instructor or student who needs a small purpose-built tool and does not want to commission software, and to a class that studies how such tools are made. The React library, the CLI, the image component, and the prompt package are open source under Apache-2.0, so a district or a course can build with them directly.
+It is a general-purpose builder rather than an education product: it is useful to an instructor or student who needs a small purpose-built tool and does not want to commission software, and to a class that studies how such tools are made. The React library, the CLI, the image component, and the prompt package are [[open-source|open source]] under Apache-2.0, so a district or a course can build with them directly.
 
 ## Notes and caveats
 
