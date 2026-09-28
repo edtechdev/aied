@@ -1,5 +1,5 @@
 ---
-connected_resources: [pressing-prompts]
+connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-25T21:56:00-04:00"

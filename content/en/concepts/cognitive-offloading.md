@@ -10,7 +10,7 @@ ethics: [trust-calibration]
 audience: [learners]
 connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students-learn, how-ai-impacts-students, addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai, asynchronous-online-courses-ai]
 confidence: high
-connected_resources: [pause-ai-use-self-examination]
+connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 reviewed_by: [editor]
 ---
 
