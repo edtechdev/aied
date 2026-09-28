@@ -47,6 +47,9 @@ REPLACEMENTS = [
 NAME_PATTERNS = [
     (r'\b' + _GIVEN + ' ' + _SURNAME + r'\b', 'the maintainer'),
     (r'\b' + _GIVEN + r"'s\b", "the maintainer's"),
+    # the bare first name: a name split across a line break defeats the contiguous rule, and so
+    # does a casual reference. Word boundaries keep a longer name such as Douglas intact.
+    (r'\b' + _GIVEN + r'\b', 'the maintainer'),
 ]
 
 

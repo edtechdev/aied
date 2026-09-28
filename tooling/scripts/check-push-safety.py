@@ -12,8 +12,8 @@ Usage:
     python3 tooling/scripts/check-push-safety.py --message-file <f> # check a draft message too
 
 Exit 1 on any finding. Run it before `git push`, and read the output rather than the exit code
-alone: a legitimate hit (an author genuinely named the maintainer in a citation) has to be judged, not
-silently accepted.
+alone: a legitimate hit (a citation naming a real person who happens to share the name) has to be
+judged, not silently accepted.
 """
 import argparse
 import pathlib
@@ -35,6 +35,8 @@ PII = [
     (r'\b' + _GIVEN + ' ' + _SURNAME + r'\b', 'maintainer name'),
     (r'\b' + _GIVEN + r"'s\b", 'maintainer name'),
     (r'\b' + _SURNAME.lower() + r'\b', 'maintainer name (case-insensitive)'),
+    # the bare first name, which a split name or a casual reference leaves behind
+    (r'\b' + _GIVEN + r'\b', 'maintainer first name'),
 ]
 
 # Local-only material that must never be public: rejected, backlogged or private records.
@@ -80,10 +82,17 @@ def main():
                 h, body = chunk.split('\n', 1)
                 check_text(body, f'history message {h[:9]}', findings)
         files = git('ls-files').splitlines()
-        print(f'scanning {len(files)} tracked files for local-only material...')
+        print(f'scanning {len(files)} tracked files for local-only material and personal information...')
         for f in files:
             if any(f.startswith(p) for p in LOCAL_ONLY_PATHS):
                 findings.append((f, 'tracked local-only path'))
+            if f in ALLOWED_FILES:
+                continue
+            try:
+                text = (ROOT / f).read_text(encoding='utf-8')
+            except (UnicodeDecodeError, OSError):
+                continue
+            check_text(text, f, findings)
         base = None
     else:
         base = args.base or default_base()
