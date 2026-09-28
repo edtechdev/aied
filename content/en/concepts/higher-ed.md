@@ -1,4 +1,5 @@
 ---
+connected_resources: [pressing-prompts, teacherserver]
 title: Higher Education
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-24T10:07:27-04:00"

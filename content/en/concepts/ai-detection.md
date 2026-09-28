@@ -1,4 +1,5 @@
 ---
+connected_resources: [process-feedback]
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
 updated: "2026-09-26T07:13:32-04:00"

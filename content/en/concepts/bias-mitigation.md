@@ -1,4 +1,5 @@
 ---
+connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
 updated: "2026-09-25T09:57:33-04:00"

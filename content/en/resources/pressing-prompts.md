@@ -21,7 +21,7 @@ connected_resources: [pause-ai-use-self-examination]
 reviewed_by: [editor]
 ---
 
-**Pressing Prompts** is an openly accessible teaching resource for higher education instructors who want to run critical conversations about AI. Thirteen topics sit in three clusters — *Trust and Truth* (can we trust AI, bias, disinformation), *Power and Access* (sustainability, hidden labour, the AI divide, copyright) and *Self and Society* (whether AI harms critical thinking, privacy and surveillance, companionship and sycophancy).
+**Pressing Prompts** is an openly accessible teaching resource for higher education instructors who want to run critical conversations about AI. Thirteen topics sit in three clusters — *Trust and Truth* (can we trust AI, bias, disinformation), *Power and Access* ([[sustainability|sustainability]], hidden labor, the [[digital-divide|AI divide]], copyright) and *Self and Society* (whether AI harms [[critical-thinking|critical thinking]], privacy and surveillance, companionship and sycophancy).
 
 ## What you can do with it
 Each topic carries a framing question, conversation starters, structured activities with steps, materials and timing, and learning notes that surface grading criteria and preparation for the instructor without crowding the student view. Most activities include a no-AI alternative, and the project is explicit that meaningful learning about AI does not always require using AI. You can collect activities into a playlist and export it as PDF or Markdown for an LMS; no login is required and nothing is collected.

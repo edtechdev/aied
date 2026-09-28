@@ -1,4 +1,5 @@
 ---
+connected_resources: [drawsplat]
 title: Visualization
 type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]

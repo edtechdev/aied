@@ -1,4 +1,5 @@
 ---
+connected_resources: [lesson-md, liascript, onmicro-ai]
 title: Edtech Platform
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-24T10:07:27-04:00"

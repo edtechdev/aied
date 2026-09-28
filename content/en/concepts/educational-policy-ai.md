@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [governance, regulation]
 reviewed_by: [editor]
-connected_resources: [campus-ai-framework]
+connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 ---
 
 > **Educational AI policy** — the formal and informal rules governing AI use in educational institutions, from national legislation to classroom guidelines. Policy research in the knowledge base spans institutional governance, [[curriculum-design|curriculum]] mandates, and teacher preparation requirements.

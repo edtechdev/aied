@@ -1,4 +1,5 @@
 ---
+connected_resources: [mglearn]
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-19T06:35:00-04:00"

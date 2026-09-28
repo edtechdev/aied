@@ -26,12 +26,12 @@ reviewed_by: [editor]
 ## What you can do with it
 - Build a lesson artifact in the browser with no install and no account.
 - Draw and annotate a diagram, then export it for a handout or slide.
-- Make a concept map, chart or picture graph from classroom or CSV data.
+- Make a [[visualization|concept map]], chart or picture graph from classroom or CSV data.
 - Build quizzes, team activities and printable flashcards.
-- Anonymise or trim a video before sharing it with a class.
+- Anonymize or trim a [[multimodal|video]] before sharing it with a class.
 
 ## Who it is for
-Teachers and students who need a tool quickly and cannot wait for a district license, and schools that want a low-friction alternative to a stack of subscriptions. The site publishes privacy and accessibility statements, a district addendum and a Texas compliance page, which is the paperwork a school needs before it can approve a browser tool.
+Teachers and students who need a tool quickly and cannot wait for a district license, and schools that want a low-friction alternative to a stack of subscriptions. The site publishes privacy and [[accessibility|accessibility]] statements, a district addendum and a Texas compliance page, which is the paperwork a school needs before it can approve a browser tool.
 
 ## Notes
 The product site names no individual author and routes requests to a project inbox; DrawSplat is built by Miguel Guhlin, whose site documents its launches. The code is free in the license sense, not only the price sense: the whiteboard is GNU AGPL-3.0-or-later and the SplatWorks apps are GPL-3.0-only, with no per-seat license on student devices. Tools that read your files run locally in the browser, while cloud save and any professional-learning request do send data, so check the storage inventory page before using it with student work.

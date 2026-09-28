@@ -147,3 +147,13 @@ the ones you touched. It is declared in `build.gates` and scoped to changed page
 `run-gates.py`. Note the counterpart failure this gate cannot see: a page can pass both
 checks and still overreach, so the delete test from `wiki-concept-narrative` still governs
 what a resource page asserts about a concept.
+
+### Two mistakes to avoid when adding the prose links
+
+- **A resource page must not cite itself.** Two pages had a prose link pointing at their own
+  slug (or at the article slug for the study they implement), which the gate reports as "found
+  links that do not resolve to concepts". If the page describes a study, link the concept the
+  study demonstrates — `[[intelligent-tutoring|the DeepTutor study]]` — not the paper or the tool.
+- **Check an existing link's target, not just its label.** One page carried
+  `[[assessment|feedback]]`, which renders as the word "feedback" but sends the reader to the
+  assessment page. A mislabelled link passes every mechanical check.

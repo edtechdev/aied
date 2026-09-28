@@ -32,7 +32,7 @@ reviewed_by: [editor]
 
 ## What you can do with it
 
-The Activities Hub gathers most of the suites in one searchable place, including Critical Thinking Online Breakouts, Science Detectives, lab safety certification, literature rooms, barrier games, digital math tools, and Gen AI literacy. Language Bridge carries 22 bilingual and ESL activities for emergent bilingual students. The ELE Activity Bank holds 95 ready-to-run activities for professional learning and K–16 classrooms, each with a facilitator guide and a print-ready packet. Teacher Printables adds middle-school science labs and classroom-management materials, and the TCEA directory indexes the wider set of HTML tools, dashboards, and prompt libraries.
+The Activities Hub gathers most of the suites in one searchable place, including [[critical-thinking|Critical Thinking]] Online Breakouts, Science Detectives, lab safety certification, literature rooms, barrier games, digital math tools, and [[ai-literacy|Gen AI literacy]]. Language Bridge carries 22 [[multilingual-learning|bilingual and ESL]] activities for emergent bilingual students. The ELE Activity Bank holds 95 ready-to-run activities for professional learning and K–16 classrooms, each with a facilitator guide and a print-ready packet. Teacher Printables adds middle-school science labs and classroom-management materials, and the TCEA directory indexes the wider set of HTML tools, dashboards, and prompt libraries.
 
 ## Who it is for
 

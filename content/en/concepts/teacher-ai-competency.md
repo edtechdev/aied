@@ -11,7 +11,7 @@ ethics: [equity-in-ai-education]
 audience: [faculty developers, learners, instructors]
 level: [k 12, higher ed]
 confidence: high
-connected_resources: [claw-ed]
+connected_resources: [claw-ed, edugems, playlab, teacherserver]
 reviewed_by: [editor]
 ---
 

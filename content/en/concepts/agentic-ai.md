@@ -1,4 +1,5 @@
 ---
+connected_resources: [deeptutor]
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
 updated: "2026-09-26T07:13:32-04:00"

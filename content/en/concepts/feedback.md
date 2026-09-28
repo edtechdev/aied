@@ -1,4 +1,5 @@
 ---
+connected_resources: [clarity, pedagogical-promptbook]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-28T04:14:44-04:00"

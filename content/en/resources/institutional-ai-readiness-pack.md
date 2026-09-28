@@ -24,10 +24,10 @@ reviewed_by: [editor]
 **The Institutional AI Readiness Pack** turns a competency framework for responsible AI in academic research into instruments a university can actually run. Each file is offered in HTML, Word and PDF, and the whole pack downloads as a zip under CC BY 4.0 with attribution — no permission needed to adapt it into your own documents.
 
 ## What is in it
-An **assessment suite**: a 20-cell institutional AI-readiness maturity self-assessment with a scoring workbook, a researcher and doctoral-student survey, a supervisor survey, a sixty-rung gap-analysis worksheet and action ladder, and a board and council one-pager. **Role briefings** for senior research leadership, deans of research, graduate-school leadership and research-integrity committees. A **policy library** with a model institutional AI-in-research policy and an AI-use disclosure standard, both meant to be rewritten.
+An **assessment suite**: a 20-cell institutional AI-readiness maturity self-assessment with a scoring workbook, a researcher and doctoral-student survey, a supervisor survey, a sixty-rung gap-analysis worksheet and action ladder, and a board and council one-pager. **Role briefings** for senior research leadership, deans of research, graduate-school leadership and research-integrity committees. A **policy library** with a model institutional [[educational-policy-ai|AI-in-research policy]] and an AI-use disclosure standard, both meant to be rewritten.
 
 ## Who it is for
-Research leaders, committees and policy offices that need an evidence-based picture of how AI is used and governed across a research environment and a way to track change over time. It accompanies *Responsible AI in Academic Research: A Competency Framework for Research Training*, which defines five dimensions of readiness, and was written by Michael J. Zyphur, director of Instats.
+Research leaders, committees and policy offices that need an evidence-based picture of how AI is used and [[governance|governed]] across a research environment and a way to track [[change-management|change]] over time. It accompanies *Responsible AI in Academic Research: A Competency Framework for Research Training*, which defines five dimensions of readiness, and was written by Michael J. Zyphur, director of Instats.
 
 ## Connected Concepts
 [[governance]], [[educational-policy-ai]], [[change-management]], [[academic-integrity]], [[ai-use-disclosure]]

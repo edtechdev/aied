@@ -1,4 +1,5 @@
 ---
+connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-25T13:21:49-04:00"
