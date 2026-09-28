@@ -6,7 +6,7 @@ category: research
 
 # Wiki Article Page Quality & Repair
 
-Use when the user asks to **repair, enrich, or fix defects in an existing article page** in the AI-ed research wiki (`<local-path>/wiki`) — e.g. "this article is broken/thin/corrupted", "the numbering is wrong", "there are escaped character codes", "enrich this article", or "let me know if the full text is missing". Distinct from `wiki-concept-page-design` (create-vs-enrich concept pages), `wiki-link-bulk-editing` (bulk link sweeps), and the user-owned `wiki-inline-links` / `research-wiki` (per-page inline links and full ingestion). This skill is the **repair/enrichment QA layer** for article pages.
+Use when the user asks to **repair, enrich, or fix defects in an existing article page** in the AI-ed research wiki — e.g. "this article is broken/thin/corrupted", "the numbering is wrong", "there are escaped character codes", "enrich this article", or "let me know if the full text is missing". Distinct from `wiki-concept-page-design` (create-vs-enrich concept pages), `wiki-link-bulk-editing` (bulk link sweeps), and the user-owned `wiki-inline-links` / `research-wiki` (per-page inline links and full ingestion). This skill is the **repair/enrichment QA layer** for article pages.
 
 ## Workflow
 
@@ -14,7 +14,7 @@ Use when the user asks to **repair, enrich, or fix defects in an existing articl
 2. **If the raw source is missing or abstract-only**, retrieve the full text before enriching (see Full-text retrieval below). Tell the user whether the full text was found; an abstract-only page can only be enriched to the depth the source allows.
 3. **Fix structural defects** (see Pitfalls): escaped character codes, ordered-list numbering, same-text pipes, frontmatter integrity (see Pitfall #11 for the frontmatter checklist; it is the typed-metadata model, with no `tags` field).
 4. **Enrich from the full text**: add a Synthesis blockquote, a `Key Findings` numbered list (CONTIGUOUS — see Pitfall #1), body sections, and connect to wiki concepts.
-5. **Add inline `[[slug]]` links** for every concept mentioned in the narrative body (aggressive per the maintainer's standing rule — including conceptually-similar phrases). Use the `wiki-inline-links` scanner (user-owned but its script still runs): `python3 <local-path>/.hermes/skills/research/wiki-inline-links/scripts/inline_link_scan.py <local-path>/wiki <slug>`. Verify every suggested concept slug exists first.
+5. **Add inline `[[slug]]` links** for every concept mentioned in the narrative body (aggressive per the maintainer's standing rule — including conceptually-similar phrases). Use the `wiki-inline-links` scanner (user-owned but its script still runs): `python3 <skills-dir>/research/wiki-inline-links/scripts/inline_link_scan.py <repo-root> <slug>`. Verify every suggested concept slug exists first.
 6. **Add back-links** from connected concept pages (reciprocal Connected Articles entry + optionally a research bullet).
 7. **Verify** — link integrity must PASS: no same-text pipes `[[x|x]]`, no heading links, balanced `[[`/`]]`, no broken slugs (check against `content/en/concepts/` + `content/en/articles/` filenames + `conceptRedirects.ts`), no escape sequences. Then run the typed-metadata gate: `python3 tooling/scripts/validate-facets.py` (or `python3 tooling/scripts/run-gates.py` to run every gate — that suite is permission-gated, so propose it and wait). It is a hard gate, not a suggestion, and it lives in `wiki.config.yaml` under `build.gates`.
 8. **Deploy** per the wiki pipeline: bump `updated` timestamp → regen `llms*.txt` (explicit request only) → `npm run build` → `log.md` → commit+push → **verify deploy via `gh run list`** (green build ≠ deployed) and curl the live URL for HTTP 200.
@@ -31,30 +31,30 @@ prose that is structurally valid but reads wrong.
 
 ## Pitfalls
 - **Adding a canonical section next to a legacy heading creates the duplicate.** Before writing
-  `## What this means for practice` or `## Limitations` onto a page, check for an older heading covering the
-  same ground (`## Implications`, `## Implications for AI in Education`, `## Implications for practice`,
-  `## Limits`, `## Limitations and Open Questions`). The right move is a MERGE into the canonical section with
-  the legacy heading deleted, keeping every substantive point; writing a second canonical section beside it
-  leaves the page saying the same thing twice under two names. A batch that added sections without checking
-  produced 86 such pages. Note the legacy heading may also sit *after* practice in the page order, which is
-  what a merged page must correct.
+ `## What this means for practice` or `## Limitations` onto a page, check for an older heading covering the
+ same ground (`## Implications`, `## Implications for AI in Education`, `## Implications for practice`,
+ `## Limits`, `## Limitations and Open Questions`). The right move is a MERGE into the canonical section with
+ the legacy heading deleted, keeping every substantive point; writing a second canonical section beside it
+ leaves the page saying the same thing twice under two names. A batch that added sections without checking
+ produced 86 such pages. Note the legacy heading may also sit *after* practice in the page order, which is
+ what a merged page must correct.
 - **Run the gates before the commit, not in the same batch as it.** A gate that fails after the commit puts a
-  known defect into history and costs a second commit to repair. Two batches in one session committed first
-  and discovered afterwards that a subagent had written a British spelling (`grey`, `modelled`) — caught only
-  because the gate ran, but the fix then needed its own commit and the branch carries a commit that failed the
-  gate at the moment it was made.
+ known defect into history and costs a second commit to repair. Two batches in one session committed first
+ and discovered afterwards that a subagent had written a British spelling (`grey`, `modelled`) — caught only
+ because the gate ran, but the fix then needed its own commit and the branch carries a commit that failed the
+ gate at the moment it was made.
 - **Never hand-type the page list when delegating a batch.** Generate the work list from the filesystem
-  (enumerate the pages that actually lack the section), verify every slug resolves to a file, write the list
-  to a file, and tell each subagent to read that file. Slugs transcribed by hand into a delegation prompt do
-  not stay attached to reality: a batch went out with mostly non-existent slugs, eight children correctly
-  refused to guess, and the run produced three pages out of fifty-six. The children's refusal was right — a
-  subagent that "finds" a plausible nearby page and edits it is worse than one that stops.
+ (enumerate the pages that actually lack the section), verify every slug resolves to a file, write the list
+ to a file, and tell each subagent to read that file. Slugs transcribed by hand into a delegation prompt do
+ not stay attached to reality: a batch went out with mostly non-existent slugs, eight children correctly
+ refused to guess, and the run produced three pages out of fifty-six. The children's refusal was right — a
+ subagent that "finds" a plausible nearby page and edits it is worse than one that stops.
 - **A child's claim that a page is missing is evidence about the prompt, not about the wiki.** When children
-  report assigned files absent, check the assignment against disk before re-dispatching; if the paths are real,
-  the list was mangled in transit.
+ report assigned files absent, check the assignment against disk before re-dispatching; if the paths are real,
+ the list was mangled in transit.
 
-### 0. ALWAYS bump `updated` on significant edits — including concept pages (the maintainer corrected this)
-When you make a substantive edit or addition to ANY page — enriching an article, adding a section to a concept page, cross-linking, adding Connected Articles/bullets — you **must bump the `updated:` frontmatter timestamp** to a current full date+time ISO value (`2026-08-23T12:15:00-04:00`), not just articles. the maintainer flagged this explicitly when I edited the UDL, Special Education, and Inclusive Learning concept pages but left their `updated:` stale (UDL was still `2026-08-15`). This matters because the right-sidebar "Recently Updated Concepts" and RSS sort by `updated` via string compare — a stale timestamp hides the page from "recently updated" and mis-orders it. **Bump it in the SAME edit pass as the content change**, not as an afterthought, and bump every page you touched in the batch (a multi-page enrichment should touch many `updated:` fields). Full date+time (not date-only) — date-only values tie within a day and fall back to alphabetical order.
+### 0. ALWAYS bump `updated` on significant edits — including concept pages (maintainer correction)
+When you make a substantive edit or addition to ANY page — enriching an article, adding a section to a concept page, cross-linking, adding Connected Articles/bullets — you **must bump the `updated:` frontmatter timestamp** to a current full date+time ISO value (`2026-08-23T12:15:00-04:00`), not just articles. The maintainer flagged this explicitly when I edited the UDL, Special Education, and Inclusive Learning concept pages but left their `updated:` stale (UDL was still `2026-08-15`). This matters because the right-sidebar "Recently Updated Concepts" and RSS sort by `updated` via string compare — a stale timestamp hides the page from "recently updated" and mis-orders it. **Bump it in the SAME edit pass as the content change**, not as an afterthought, and bump every page you touched in the batch (a multi-page enrichment should touch many `updated:` fields). Full date+time (not date-only) — date-only values tie within a day and fall back to alphabetical order.
 
 ### 1. Ordered-list numbering breaks when items are separated by blank lines (bit the maintainer TWICE)
 In CommonMark, a blank line between ordered-list items splits the list, so every item restarts at `1.` — the rendered page shows "1. 1. 1. ...". **Fix:** remove the blank lines so items `1. 2. 3. 4. 5.` are contiguous. This bit two articles this session (`credential-cognitive-stewardship-ai-assessment`, `strydom-human-gai-paradigms-2026`). When writing a Key Findings list, write items back-to-back with NO blank lines between them. Detection: `grep -rlP '^\d+\. .*\n\n^\d+\. ' content/en/articles/ content/en/concepts/` finds affected pages.
@@ -65,7 +65,7 @@ Article bodies sometimes contain literal `\u2014` (em-dash), `\n` / `\n\n` (para
 ### 3. Same-text pipes introduced while adding inline links
 When the scanner suggests a link and you write `[[slug|slug]]` (e.g. `[[feedback|feedback]]`, `[[assessment|assessment]]`, `[[learning-gains|learning-gains]]`), the verifier flags it. **Fix:** if display text equals the slug, use bare `[[slug]]`; only pipe when the visible text differs (e.g. `[[cognitive-offloading|over-reliance]]`). Double-check after every patch round.
 
-### 4. Link-target specificity — don't over-match to umbrella concepts (the maintainer corrected this)
+### 4. Link-target specificity — don't over-match to umbrella concepts (maintainer correction)
 When adding inline links, the scanner dictionary and aggressive matching will happily link a **concept-specific phrase to a broad umbrella concept**. Confirmed instances (2026-08-23) of the SAME class on multiple articles:
 - "constructivist principles" → `[[learning-theories]]` instead of `[[constructivist]]` (a `constructivist` concept page exists)
 - "student engagement" → `[[student-experience]]` instead of `[[student-engagement]]`
@@ -81,22 +81,22 @@ When a `delegate_task` fan-out does inline-link enrichment on many articles in p
 - Always re-verify ALL touched files afterward (frontmatter fields, broken slugs, same-text pipes, balanced `[[`/`]]`), because a timed-out subagent may also have left same-text pipes like `[[assessment|assessment]]` that its own verify step never ran.
 
 ### 5. Full text may be missing from raw source
-The `raw/papers/*.md` file may hold only the abstract (the page is then thin and can't be deeply enriched). **HARD RULE (maintainer, 2026-08-24) — never enrich or retain an abstract-only page.** Retrieve the real PDF before enriching (see Full-text retrieval below); a page whose raw source is abstract-only must NOT be passed off as enriched, and an article should not be in the wiki at all unless its full text is permanently saved to `raw/papers/`. If full text cannot be retrieved (paywall/CAPTCHA block), do NOT enrich from the abstract — move the article to `<local-path>/wiki/AIED-BACKLOG.md` under its journal section, list it in the report's FULL_TEXT_PENDING, and ask the maintainer to send the PDF. Also: an abstract-only page that just repeats the abstract as "Key Findings" is a signal the full text wasn't ingested.
+The `raw/papers/*.md` file may hold only the abstract (the page is then thin and can't be deeply enriched). **HARD RULE (maintainer, 2026-08-24) — never enrich or retain an abstract-only page.** Retrieve the real PDF before enriching (see Full-text retrieval below); a page whose raw source is abstract-only must NOT be passed off as enriched, and an article should not be in the wiki at all unless its full text is permanently saved to `raw/papers/`. If full text cannot be retrieved (paywall/CAPTCHA block), do NOT enrich from the abstract — move the article to `AIED-BACKLOG.md` (a local, gitignored file that is never committed) under its journal section, list it in the report's FULL_TEXT_PENDING, and ask the maintainer to send the PDF. Also: an abstract-only page that just repeats the abstract as "Key Findings" is a signal the full text wasn't ingested.
 
 ### 6. Uncurated Connected Articles lists (alphabetical dumps)
-Some article pages carry a **Connected Articles list that is an uncurated alphabetical dump** — every article in the corpus whose slug sorts near it, regardless of relevance (e.g. a cognitive-offloading article listing analytics pipelines, health sensing, agentic-education). the maintainer flags this. **Fix:** curate to only the **genuinely-related** articles (typically 3–6) that share the paper's specific mechanism or thread (e.g. efficiency-gain illusion, productive struggle, absent cognitive baseline). Trim the rest. Do the same for Connected Concepts — keep only concepts the narrative actually engages, not a blanket dump.
+Some article pages carry a **Connected Articles list that is an uncurated alphabetical dump** — every article in the corpus whose slug sorts near it, regardless of relevance (e.g. a cognitive-offloading article listing analytics pipelines, health sensing, agentic-education). The maintainer flags this. **Fix:** curate to only the **genuinely-related** articles (typically 3–6) that share the paper's specific mechanism or thread (e.g. efficiency-gain illusion, productive struggle, absent cognitive baseline). Trim the rest. Do the same for Connected Concepts — keep only concepts the narrative actually engages, not a blanket dump.
 
 ### 7. Redundant / repetitive sections (the maintainer flags)
-the maintainer expects articles checked for **redundant sections that repeat the same points** — e.g. Key Findings restating each detail section verbatim, or a Key Finding previewing the Implications section. **Fix:** trim Key Findings to true headline findings (3–4) and let the detail section carry the full specifics; remove findings that merely preview Implications. Signal: same content appearing in 2+ of {Key Findings, a detail section, Implications}.
+The maintainer expects articles checked for **redundant sections that repeat the same points** — e.g. Key Findings restating each detail section verbatim, or a Key Finding previewing the Implications section. **Fix:** trim Key Findings to true headline findings (3–4) and let the detail section carry the full specifics; remove findings that merely preview Implications. Signal: same content appearing in 2+ of {Key Findings, a detail section, Implications}.
 
 ### 8. Thin articles / no inline links in narrative — backlog scan
-the maintainer periodically asks to find **articles that are thin or have no inline links in the narrative body**. Reusable scan (Python, in `execute_code`): for each `content/en/articles/*.md`, strip frontmatter and the `## Connected*` sections, then flag pages with `nlinks==0` OR (`nchars<~1200` AND `nheadings==0`). This finds the backlog (observed ~144 pages). Order by thinness; enrich the thinnest first. When enriching, follow Workflow steps 4–6 (add sections + inline links + back-links) and always run `check_list_formatting.py --all` before build (a patch can re-introduce blank lines between list items even on a previously-clean page — re-verify).
+The maintainer periodically asks to find **articles that are thin or have no inline links in the narrative body**. Reusable scan (Python, in `execute_code`): for each `content/en/articles/*.md`, strip frontmatter and the `## Connected*` sections, then flag pages with `nlinks==0` OR (`nchars<~1200` AND `nheadings==0`). This finds the backlog (observed ~144 pages). Order by thinness; enrich the thinnest first. When enriching, follow Workflow steps 4–6 (add sections + inline links + back-links) and always run `check_list_formatting.py --all` before build (a patch can re-introduce blank lines between list items even on a previously-clean page — re-verify).
 
-### 9. Article `title:` must NOT carry a parenthetical citation (the maintainer corrected this)
-The `title:` frontmatter (which renders as the page `<h1>` AND in the right-sidebar "Recently Added" list) should be **only the real paper title** — NO trailing ` (Author et al. 2026)` / ` (Author & Author 2026)`. the maintainer flagged all 5 productive-failure articles on 2026-08-23 for this. **Fix:** set `title:` to the clean paper title; keep the author/date citation exclusively in the `## Citation` section. When stripping the suffix, ALSO clean the Connected Articles display labels in every concept page that references the article with the parenthetical after the em-dash (`- [[slug]] — Title (Author 2026)` → `- [[slug]] — Title`) — a bulk `re.sub` across `content/en/concepts/*.md` (observed 60 labels / 25 files). Do NOT strip legitimate inline prose citations like `[[slug|Kim et al. (2026)]]` in narrative body — those are correct academic citations, not titles. Ingesting rule going forward: set the clean title from the start; never put the citation in the title.
+### 9. Article `title:` must NOT carry a parenthetical citation (maintainer correction)
+The `title:` frontmatter (which renders as the page `<h1>` AND in the right-sidebar "Recently Added" list) should be **only the real paper title** — NO trailing ` (Author et al. 2026)` / ` (Author & Author 2026)`. The maintainer flagged all 5 productive-failure articles on 2026-08-23 for this. **Fix:** set `title:` to the clean paper title; keep the author/date citation exclusively in the `## Citation` section. When stripping the suffix, ALSO clean the Connected Articles display labels in every concept page that references the article with the parenthetical after the em-dash (`- [[slug]] — Title (Author 2026)` → `- [[slug]] — Title`) — a bulk `re.sub` across `content/en/concepts/*.md` (observed 60 labels / 25 files). Do NOT strip legitimate inline prose citations like `[[slug|Kim et al. (2026)]]` in narrative body — those are correct academic citations, not titles. Ingesting rule going forward: set the clean title from the start; never put the citation in the title.
 
-### 10. Citation hyperlink must wrap ONLY the title (the maintainer corrected this)
-In the `## Citation` section, **only the article title is hyperlinked** to the source — the journal must NOT be inside the link, and there must be a single link (no redundant trailing DOI). the maintainer's rule: "Only the title of the article should be hyperlinked to the source, not the title plus the journal title." Recurring subagent-draft patterns that violate it (site-wide audit found ~448 candidates, 34 actually needed fixing):
+### 10. Citation hyperlink must wrap ONLY the title (maintainer correction)
+In the `## Citation` section, **only the article title is hyperlinked** to the source — the journal must NOT be inside the link, and there must be a single link (no redundant trailing DOI). The maintainer's rule: "Only the title of the article should be hyperlinked to the source, not the title plus the journal title." Recurring subagent-draft patterns that violate it (site-wide audit found ~448 candidates, 34 actually needed fixing):
 - **Journal (or title+journal) inside the link:** `Title. [*Journal*](url)` → `[*Title*](url). *Journal*`. (Observed on bassett-ai-detectors, care-full-feedback-genai, agency-gap-ai-writing, ai-making-us-stupid, xai-education-framework, civic-education-ai-lesson-plans, and ~12 more.)
 - **Title not hyperlinked at all** (DOI/URL left as bare trailing text): `Title. *Journal*. https://doi.org/...` → `[*Title*](url). *Journal*`. (Observed on ssaho, benzion, zhou, alrahmi, jost, rethinking, liu-deris, ~18 more.)
 - **Redundant trailing DOI** after the linked title (drop it).
@@ -197,7 +197,7 @@ Then ask one question and answer it in the ingest summary: **could this tool bel
 bar, in the maintainer's words, is publicly available first, ideally free, and even more ideally open source.
 
 - Commercial products (Mainstay, Copilot, ChatGPT, most textbook-platform add-ons) usually fail the first test
-  unless the paper shows a public free tier a reader could actually use.
+ unless the paper shows a public free tier a reader could actually use.
 - A free research prototype with a working public URL is a genuine candidate.
 - An open-source tool is the strongest kind, because a reader can run it, read it and keep it.
 
@@ -205,7 +205,7 @@ Report candidates as a short list in the ingest summary - tool, URL, what the pa
 criterion it meets - and let the maintainer decide. **Never add a resource page unprompted**: the resource set is
 curated, and a tool appearing in one study is not evidence the knowledge base should host it. Record the decision
 in `resource-candidates.yaml` (tool, url, first seen in, disposition) so the same tool is not re-proposed on every
-later paper that cites it.
+later paper that cites it - a local, gitignored record that is never committed.
 
 ### 16. House style is US English — and never bulk-respell with a suffix rule (maintainer, 2026-09-19)
 
@@ -270,13 +270,13 @@ As of 2026-08-23 the Astro templates render inline `[[wikilink]]`s to **canonica
 When the source is EdArXiv/OSF and the raw file is abstract-only:
 - The OSF page HTML (via `web_extract` on the DOI or `osf.io/preprints/edarxiv/<id>`) contains the full abstract + a PDF viewer name (e.g. `ACB_Jia_Xu_2026.pdf`).
 - **Download the PDF:** `https://osf.io/download/<id>` returns the real PDF. (`https://osf.io/preprints/edarxiv/<id>/download` returns an HTML page — use `/download/<id>` instead.)
-- If the auto-download fails (SSL error `exit 60`, HTTP 202 async prep, empty file, captcha/bot-blocking), **ask the maintainer to send the full-text PDF directly** — he routinely provides it and it unblocks enrichment. He will send it as a message attachment to `<local-path>/.hermes/skills/cache/documents/`.
+- If the auto-download fails (SSL error `exit 60`, HTTP 202 async prep, empty file, captcha/bot-blocking), **ask the maintainer to send the full-text PDF directly** — they routinely provide it and it unblocks enrichment. He will send it as a message attachment to the agent's document cache.
 - **Extract text:** `pip install pymupdf`, then `import pymupdf; doc=pymupdf.open('file.pdf'); text=''.join(p.get_text() for p in doc)` (or the deprecated `fitz` alias).
 - Save the full text back into `raw/papers/<slug>.md` (preserving the frontmatter) so future enrichment has it.
 - Papers are CC-BY 4.0 (open) — fine to ingest.
 
 ## Support files
-- `skills/research/wiki-inline-links/scripts/check_list_formatting.py` (run as `python3 ... <local-path>/wiki --all`) — the ordered-list blank-line defect scanner, also gate 5 of `run-gates.py`.
+- `skills/research/wiki-inline-links/scripts/check_list_formatting.py` (run as `python3 ... <repo-root> --all`) — the ordered-list blank-line defect scanner, also gate 5 of `run-gates.py`.
 - `scripts/detect-readfile-corruption.py` in the wiki-management skill (mirrored at `tooling/scripts/detect-readfile-corruption.py`) — escape-sequence and truncation damage from full-file reads.
 - `tooling/scripts/validate-facets.py` (repo tooling, not bundled here): the typed-metadata gate. Run it after any frontmatter repair.
 
@@ -289,11 +289,11 @@ saved sources with unrelated articles, and half of them could not be recovered. 
 - Read the paper's own `source_url` (or `doi`) from the file's frontmatter and fetch that document, nothing else.
 - Copy the file aside before overwriting it. `raw/` is gitignored, so an overwrite with no backup is final.
 - Verify the fetched text before keeping it: the page title's significant words must appear in it. Reject and report
-  a mismatch rather than saving it - a wrong paper is worse than a truncated right one.
+ a mismatch rather than saving it - a wrong paper is worse than a truncated right one.
 - Prefer the largest correct copy, but only among copies of the same paper.
 - Publisher hosts (ScienceDirect, Springer, Wiley, Taylor & Francis, SAGE, IEEE, ACM) answer automated requests
-  with a robot check. Do not fight it: record the page in `AIED-BACKLOG.md` so the PDF can be supplied, and leave a
-  marker in the source file rather than a wrong paper.
+ with a robot check. Do not fight it: record the page in `AIED-BACKLOG.md` so the PDF can be supplied, and leave a
+ marker in the source file rather than a wrong paper.
 
 ### The section set is fixed — copy it, never compose it
 
