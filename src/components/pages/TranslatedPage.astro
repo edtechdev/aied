@@ -8,6 +8,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import TranslationNotice from '../TranslationNotice.astro';
 import ConnectedList from '../ConnectedList.astro';
 import MetadataTable from '../MetadataTable.astro';
+import ResourceBar from '../ResourceBar.astro';
 import SourceButtons from '../SourceButtons.astro';
 import { contentRepoPath } from '../../config/content';
 import { renderMarkdown } from '../../lib/markdown';
@@ -84,12 +85,18 @@ const updatedDisplay = (data.updated || data.created || '').split('T')[0];
         {chrome.metadataLabels.created} {createdDisplay}{data.updated ? ` · ${chrome.metadataLabels.updated} ${updatedDisplay}` : ''}
       </div>
       {pageType === 'resources' && data.url && (
-        <p class="resource-line">
-          <a href={data.url}>{data.url.replace(/^https?:\/\//, '')}</a>
-          {data.author ? ` · ${data.author}` : ''}
-          {data.access ? ` · ${(data.access || []).join(', ')}` : ''}
-          {data.last_verified ? ` · ${chrome.lastVerified} ${data.last_verified}` : ''}
-        </p>
+        <ResourceBar
+          locale={locale}
+          title={data.title}
+          url={data.url}
+          author={data.author}
+          author_url={data.author_url}
+          source_code={data.source_code}
+          resource_type={data.resource_type}
+          access={data.access}
+          license={data.license}
+          last_verified={data.last_verified}
+        />
       )}
     </div>
 
@@ -134,11 +141,5 @@ const updatedDisplay = (data.updated || data.created || '').split('T')[0];
     color: var(--muted-color);
     font-size: 0.9rem;
     margin-bottom: 0.75rem;
-  }
-  .resource-line {
-    font-size: 0.9rem;
-    color: var(--muted-color);
-    margin: 0 0 0.75rem 0;
-    word-break: break-word;
   }
 </style>

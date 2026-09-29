@@ -39,6 +39,21 @@ export function localeLabel(code: Locale): string {
 }
 
 /**
+ * A taxonomy umbrella heading (one of the ten `sections:` in
+ * concepts.registry.yaml) in `locale`, falling back to the English label.
+ *
+ * The lookup key is the English heading, byte-identical to the registry string —
+ * the same string the generated src/data/conceptIndex.ts and
+ * src/data/facetVocab.ts carry — and the translations live in site.config.json
+ * under the locale's `taxonomyHeadings`. Those generated files are never edited:
+ * localization happens here, at render time, so a locale with no translations
+ * (or one missing a heading) renders the English heading unchanged.
+ */
+export function taxonomyHeading(label: string, locale: Locale): string {
+  return LOCALES.find((l) => l.code === locale)?.taxonomyHeadings?.[label] ?? label;
+}
+
+/**
  * Text direction for a locale. `dir` comes from the locale entry in
  * site.config.json and defaults to `ltr`, the same rule the reference docs site
  * uses. The direction is set on <html>; content that falls back to another

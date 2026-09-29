@@ -21,7 +21,19 @@
         "code": "es",
         "label": "Español",
         "style": "Neutral Spanish; keep 'prompt' untranslated",
-        "offlineDescription": "Esta es una traducción automática de la base de conocimiento en inglés y todavía no ha sido revisada por hablantes nativos. Incluye las páginas de conceptos y de preguntas frecuentes; las páginas de artículos siguen en inglés."
+        "offlineDescription": "Esta es una traducción automática de la base de conocimiento en inglés y todavía no ha sido revisada por hablantes nativos. Incluye las páginas de conceptos y de preguntas frecuentes; las páginas de artículos siguen en inglés.",
+        "taxonomyHeadings": {
+          "Foundations of AI in education": "Fundamentos de la IA en la educación",
+          "Learning and instruction": "Aprendizaje y enseñanza",
+          "Technologies and techniques": "Tecnologías y técnicas",
+          "AI in the disciplines": "La IA en las disciplinas",
+          "Levels and contexts": "Niveles y contextos",
+          "Assessment and measurement": "Evaluación y medición",
+          "Research methods and evaluation": "Métodos de investigación y evaluación",
+          "People": "Personas",
+          "Institutions and policy": "Instituciones y políticas",
+          "Equity, ethics, and responsible use": "Equidad, ética y uso responsable"
+        }
       },
       {
         "code": "fr",

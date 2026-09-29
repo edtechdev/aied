@@ -13,9 +13,11 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
 import { contentFilePath } from '../../config/content';
 import MetadataTable from '../../components/MetadataTable.astro';
+import ResourceBar from '../../components/ResourceBar.astro';
 import StarButton from '../../components/StarButton.astro';
 import ConnectedList from '../../components/ConnectedList.astro';
 import { renderMarkdown } from '../../lib/markdown';
+import { DEFAULT_LOCALE } from '../../i18n/config';
 
 export async function getStaticPaths() {
   const resources = await getCollection('resources');
@@ -56,8 +58,10 @@ if (connectedResources.length > 0) toc.push({ text: 'Connected Resources', slug:
 if (connectedFaqs.length > 0) toc.push({ text: 'Connected FAQs', slug: 'connected-faqs', depth: 2 });
 const createdDisplay = (created || '').split('T')[0];
 const updatedDisplay = (updated || created || '').split('T')[0];
-// Values are lowercase enum strings in frontmatter; display them as written.
-const titleCase = (s: string) => s.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+// This route serves the default locale only (the translated resource pages live in
+// src/pages/[locale]/resources/[slug].astro); ResourceBar resolves its labels from
+// this locale, falling back to English for any locale that has not translated them.
+const locale = DEFAULT_LOCALE;
 const metaFields: { name: string; values: string[] | undefined }[] = [
   { name: 'foundations', values: resource.data.foundations },
   { name: 'pedagogy', values: resource.data.pedagogy },
@@ -87,28 +91,18 @@ const pagefindFilterPairs: string[] = metaFields
         created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
       </div>
 
-      <div class="resource-bar">
-        <a class="resource-visit" href={url} target="_blank" rel="noopener">
-          Open {title} <span aria-hidden="true">↗</span>
-        </a>
-        <div class="resource-facts">
-          <div>
-            <strong>Made by</strong>{' '}
-            {author_url ? <a href={author_url} target="_blank" rel="noopener">{author}</a> : author}
-          </div>
-          {source_code && (
-            <div><strong>Source code</strong> <a href={source_code} target="_blank" rel="noopener">available <span aria-hidden="true">↗</span></a></div>
-          )}
-          <div>
-            <strong>Type</strong>{' '}
-            {(resource_type || []).map((t: string) => <span class="resource-chip">{titleCase(t)}</span>)}
-            {(access || []).map((a: string) => <span class="resource-chip resource-chip-access">{titleCase(a)}</span>)}
-          </div>
-          {license && <div><strong>License</strong> {license}</div>}
-          <div><strong>Link checked</strong> {last_verified}</div>
-        </div>
-        <p class="resource-url"><a href={url} target="_blank" rel="noopener">{url}</a></p>
-      </div>
+      <ResourceBar
+        locale={locale}
+        title={title}
+        url={url}
+        author={author}
+        author_url={author_url}
+        source_code={source_code}
+        resource_type={resource_type}
+        access={access}
+        license={license}
+        last_verified={last_verified}
+      />
     </div>
 
     <div style="line-height:1.8" data-pagefind-body>
@@ -140,50 +134,3 @@ const pagefindFilterPairs: string[] = metaFields
     <SourceButtons filePath={contentFilePath('resources', resource.id)} />
   </article>
 </BaseLayout>
-
-<style>
-  .resource-bar {
-    margin: 1.25rem 0 0.5rem;
-    padding: 1rem 1.1rem;
-    border: 1px solid var(--card-border-color);
-    border-radius: 10px;
-    background: color-mix(in srgb, var(--primary) 4%, transparent);
-  }
-  .resource-visit {
-    display: inline-block;
-    font-weight: 600;
-    color: var(--primary);
-    text-decoration: none;
-    font-size: 1.05rem;
-    padding: 0.5rem 0.9rem;
-    border: 1px solid var(--primary);
-    border-radius: 8px;
-  }
-  .resource-visit:hover { background: color-mix(in srgb, var(--primary) 12%, transparent); }
-  .resource-facts {
-    margin-top: 0.85rem;
-    display: flex;
-    flex-direction: column;
-    gap: 0.3rem;
-    font-size: 0.95rem;
-  }
-  .resource-facts strong { color: var(--muted-color); font-weight: 600; margin-right: 0.35rem; }
-  .resource-chip {
-    display: inline-block;
-    font-size: 0.8rem;
-    padding: 0.1rem 0.5rem;
-    margin: 0.15rem 0.25rem 0.15rem 0;
-    border-radius: 999px;
-    border: 1px solid var(--card-border-color);
-    background: var(--card-background-color);
-    color: var(--color);
-  }
-  .resource-chip-access { border-style: dashed; }
-  .resource-url {
-    margin: 0.85rem 0 0;
-    font-size: 0.85rem;
-    overflow-wrap: break-word;
-  }
-  .resource-url a { color: var(--muted-color); text-decoration: none; }
-  .resource-url a:hover { text-decoration: underline; }
-</style>

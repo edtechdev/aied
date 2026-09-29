@@ -1,0 +1,119 @@
+---
+// The resource page's metadata bar: the visit link, who made it, whether the code
+// is open, what kind of thing it is, its licence and when the link was last checked.
+//
+// Rendered by the English resource route (src/pages/resources/[slug].astro) and by
+// the translated resource page (src/components/pages/TranslatedPage.astro) from the
+// same frontmatter fields, so both show the same facts. The labels come from the
+// locale's ui module (src/i18n/ui.<code>.ts -> chrome.resourceLabels), so a locale
+// that has translated them reads in its own language and one that has not falls
+// back to the English labels. Field VALUES (author, licence, chips) stay as written
+// in frontmatter — a product name is not translated.
+import { strings } from '../i18n';
+
+interface Props {
+  /** Locale whose labels this bar renders. */
+  locale?: string;
+  title: string;
+  url: string;
+  author?: string;
+  author_url?: string;
+  source_code?: string;
+  resource_type?: string[];
+  access?: string[];
+  license?: string;
+  last_verified?: string;
+}
+
+const {
+  locale = 'en',
+  title,
+  url,
+  author,
+  author_url,
+  source_code,
+  resource_type = [],
+  access = [],
+  license,
+  last_verified,
+} = Astro.props;
+const labels = strings(locale).ui.chrome.resourceLabels;
+// `{title}` is moved by the translation; every other label is a plain string.
+const openText = labels.open.replace('{title}', title);
+// Values are lowercase enum strings in frontmatter; display them as written.
+const titleCase = (s: string) => s.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+---
+
+<div class="resource-bar">
+  <a class="resource-visit" href={url} target="_blank" rel="noopener">
+    {openText} <span aria-hidden="true">↗</span>
+  </a>
+  <div class="resource-facts">
+    {author && (
+      <div>
+        <strong>{labels.madeBy}</strong>{' '}
+        {author_url ? <a href={author_url} target="_blank" rel="noopener">{author}</a> : author}
+      </div>
+    )}
+    {source_code && (
+      <div><strong>{labels.sourceCode}</strong> <a href={source_code} target="_blank" rel="noopener">{labels.sourceCodeAvailable} <span aria-hidden="true">↗</span></a></div>
+    )}
+    {(resource_type.length > 0 || access.length > 0) && (
+      <div>
+        <strong>{labels.type}</strong>{' '}
+        {resource_type.map((t) => <span class="resource-chip">{titleCase(t)}</span>)}
+        {access.map((a) => <span class="resource-chip resource-chip-access">{titleCase(a)}</span>)}
+      </div>
+    )}
+    {license && <div><strong>{labels.license}</strong> {license}</div>}
+    {last_verified && <div><strong>{labels.linkChecked}</strong> {last_verified}</div>}
+  </div>
+  <p class="resource-url"><a href={url} target="_blank" rel="noopener">{url}</a></p>
+</div>
+
+<style>
+  .resource-bar {
+    margin: 1.25rem 0 0.5rem;
+    padding: 1rem 1.1rem;
+    border: 1px solid var(--card-border-color);
+    border-radius: 10px;
+    background: color-mix(in srgb, var(--primary) 4%, transparent);
+  }
+  .resource-visit {
+    display: inline-block;
+    font-weight: 600;
+    color: var(--primary);
+    text-decoration: none;
+    font-size: 1.05rem;
+    padding: 0.5rem 0.9rem;
+    border: 1px solid var(--primary);
+    border-radius: 8px;
+  }
+  .resource-visit:hover { background: color-mix(in srgb, var(--primary) 12%, transparent); }
+  .resource-facts {
+    margin-top: 0.85rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    font-size: 0.95rem;
+  }
+  .resource-facts strong { color: var(--muted-color); font-weight: 600; margin-right: 0.35rem; }
+  .resource-chip {
+    display: inline-block;
+    font-size: 0.8rem;
+    padding: 0.1rem 0.5rem;
+    margin: 0.15rem 0.25rem 0.15rem 0;
+    border-radius: 999px;
+    border: 1px solid var(--card-border-color);
+    background: var(--card-background-color);
+    color: var(--color);
+  }
+  .resource-chip-access { border-style: dashed; }
+  .resource-url {
+    margin: 0.85rem 0 0;
+    font-size: 0.85rem;
+    overflow-wrap: break-word;
+  }
+  .resource-url a { color: var(--muted-color); text-decoration: none; }
+  .resource-url a:hover { text-decoration: underline; }
+</style>

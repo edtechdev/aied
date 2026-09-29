@@ -7,6 +7,7 @@
 import { getCollection } from 'astro:content';
 import { FACET_FIELDS, FACET_DISPLAY_ORDER } from '../data/facetVocab';
 import { strings } from '../i18n';
+import { taxonomyHeading } from '../i18n/config';
 
 const { locale = 'en' } = Astro.props;
 const s = strings(locale).search;
@@ -22,7 +23,7 @@ const filterBar = [
   { filter: 'level', label: s.filterLabels.level },
   { filter: 'audience', label: s.filterLabels.audience },
   { filter: 'research_method', label: s.filterLabels.research_method },
-  ...(FACET_DISPLAY_ORDER as readonly string[]).map((field) => ({ filter: field, label: LABELS_MAP[field] || field })),
+  ...(FACET_DISPLAY_ORDER as readonly string[]).map((field) => ({ filter: field, label: taxonomyHeading(LABELS_MAP[field] || field, locale) })),
   { filter: 'page_kind', label: s.filterLabels.page_kind },
 ];
 const concepts = await getCollection('concepts');

@@ -87,6 +87,18 @@ export interface UiStrings {
     umbrellaConcept: string;
     disclaimer: string;
     metadataLabels: Record<string, string>;
+    /** Labels of the resource page's metadata block (Open / Made by / Type / ...). */
+    resourceLabels: {
+      /** Visit-link text; `{title}` is replaced with the resource title. */
+      open: string;
+      madeBy: string;
+      sourceCode: string;
+      /** Link text of the "source code available" link. */
+      sourceCodeAvailable: string;
+      type: string;
+      license: string;
+      linkChecked: string;
+    };
     /** Footer sentences with links; {licenseUrl}, {licenseName}, {issuesUrl}, {contactUrl}, {editorName} are substituted at render. */
     footerLicenseHtml: string;
     footerIssuesHtml: string;
@@ -181,6 +193,15 @@ const es: UiStrings = {
       sources: 'Fuentes',
       connected_faqs: 'Preguntas frecuentes relacionadas',
       connected_resources: 'Recursos relacionados',
+    },
+    resourceLabels: {
+      open: 'Abrir {title}',
+      madeBy: 'Creado por',
+      sourceCode: 'Código fuente',
+      sourceCodeAvailable: 'disponible',
+      type: 'Tipo',
+      license: 'Licencia',
+      linkChecked: 'Enlace verificado',
     },
     footerLicenseHtml:
       'Este sitio web fue generado por un <strong>agente de IA</strong> y está dedicado al dominio público bajo la licencia <a href="{licenseUrl}" class="footer-link" target="_blank" rel="noopener noreferrer">{licenseName}</a>. No se reservan derechos.',

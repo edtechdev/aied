@@ -53,6 +53,16 @@ export interface SiteConfig {
       dir?: 'ltr' | 'rtl';
       /** Freeform guidance for a translator working on this locale. */
       style?: string;
+      /**
+       * Translations of the taxonomy umbrella headings (the ten `sections:` in
+       * concepts.registry.yaml), keyed by the ENGLISH heading — the lookup key.
+       * A locale lists only the headings it has translated; anything absent (and
+       * any locale without the block) falls back to English, so the rendered
+       * English output is unchanged. Resolved at render time by
+       * `taxonomyHeading()` in src/i18n/config.ts; the generated
+       * src/data/conceptIndex.ts and src/data/facetVocab.ts stay untouched.
+       */
+      taxonomyHeadings?: Record<string, string>;
     }>;
   };
   license: {
