@@ -87,6 +87,18 @@ export interface UiStrings {
     umbrellaConcept: string;
     disclaimer: string;
     metadataLabels: Record<string, string>;
+    /** Labels of the resource page's metadata block (Open / Made by / Type / ...). */
+    resourceLabels: {
+      /** Visit-link text; `{title}` is replaced with the resource title. */
+      open: string;
+      madeBy: string;
+      sourceCode: string;
+      /** Link text of the "source code available" link. */
+      sourceCodeAvailable: string;
+      type: string;
+      license: string;
+      linkChecked: string;
+    };
     /** Footer sentences with links; {licenseUrl}, {licenseName}, {issuesUrl}, {contactUrl}, {editorName} are substituted at render. */
     footerLicenseHtml: string;
     footerIssuesHtml: string;
@@ -180,6 +192,15 @@ const ja: UiStrings = {
       sources: '出典',
       connected_faqs: '関連するFAQ',
       connected_resources: '関連するリソース',
+    },
+    resourceLabels: {
+      open: 'Open {title}',
+      madeBy: 'Made by',
+      sourceCode: 'Source code',
+      sourceCodeAvailable: 'available',
+      type: 'Type',
+      license: 'License',
+      linkChecked: 'Link checked',
     },
     footerLicenseHtml:
       'このウェブサイトは<strong>AIエージェント</strong>が生成したもので、パブリックドメインとして<a href=\"{licenseUrl}\" class=\"footer-link\" target=\"_blank\" rel=\"noopener noreferrer\">{licenseName}</a>ライセンスのもとで公開されています。権利は留保していません。',

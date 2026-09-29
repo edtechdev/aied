@@ -95,6 +95,15 @@ const he: UiStrings = {
       connected_faqs: 'שאלות נפוצות קשורות',
       connected_resources: 'משאבים קשורים',
     },
+    resourceLabels: {
+      open: 'Open {title}',
+      madeBy: 'Made by',
+      sourceCode: 'Source code',
+      sourceCodeAvailable: 'available',
+      type: 'Type',
+      license: 'License',
+      linkChecked: 'Link checked',
+    },
     footerLicenseHtml:
       'האתר הזה נוצר בידי <strong>סוכן בינה מלאכותית</strong> ומוקדש לנחלת הכלל תחת רישיון <a href="{licenseUrl}" class="footer-link" target="_blank" rel="noopener noreferrer">{licenseName}</a>. אין זכויות שמורות.',
     footerIssuesHtml:

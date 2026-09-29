@@ -16,7 +16,7 @@ import { hasPageCopy, type PageKey } from '../i18n';
 import HeaderMoreMenu from '../components/HeaderMoreMenu.astro';
 import { strings } from '../i18n';
 import { localizedTitles, localizedTitle } from '../i18n/localizedTitles';
-import { TRANSLATED_ROUTES, localeHref, localizeHref, setTranslationMap, translationMapFrom } from '../i18n/config';
+import { TRANSLATED_ROUTES, localeHref, localizeHref, setTranslationMap, translationMapFrom, taxonomyHeading } from '../i18n/config';
 import { buildNavItems } from '../lib/nav';
 import siteConfig from '../config/siteConfig';
 import 'katex/dist/katex.min.css';
@@ -1420,7 +1420,7 @@ const recentConceptItems = recentConcepts.map(c => ({
           </div>
           {conceptIndex.map((section, si) => (
             <details class="nav-section" open={si === 0} data-state-key={`nav:${si}:${section.heading}`}>
-              <summary><span>{section.heading}</span><svg class="nav-chev" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg></summary>
+              <summary><span>{taxonomyHeading(section.heading, locale)}</span><svg class="nav-chev" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg></summary>
               <div class="nav-section-body">
                 {section.groups.map(group => {
                   const items = group.items.filter(slug => conceptMap[slug]);

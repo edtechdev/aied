@@ -87,6 +87,18 @@ export interface UiStrings {
     umbrellaConcept: string;
     disclaimer: string;
     metadataLabels: Record<string, string>;
+    /** Labels of the resource page's metadata block (Open / Made by / Type / ...). */
+    resourceLabels: {
+      /** Visit-link text; `{title}` is replaced with the resource title. */
+      open: string;
+      madeBy: string;
+      sourceCode: string;
+      /** Link text of the "source code available" link. */
+      sourceCodeAvailable: string;
+      type: string;
+      license: string;
+      linkChecked: string;
+    };
     /** Footer sentences with links; {licenseUrl}, {licenseName}, {issuesUrl}, {contactUrl}, {editorName} are substituted at render. */
     footerLicenseHtml: string;
     footerIssuesHtml: string;
@@ -180,6 +192,15 @@ const ko: UiStrings = {
       sources: '출처',
       connected_faqs: '연결된 FAQ',
       connected_resources: '연결된 리소스',
+    },
+    resourceLabels: {
+      open: 'Open {title}',
+      madeBy: 'Made by',
+      sourceCode: 'Source code',
+      sourceCodeAvailable: 'available',
+      type: 'Type',
+      license: 'License',
+      linkChecked: 'Link checked',
     },
     footerLicenseHtml:
       '이 웹사이트는 <strong>AI 에이전트</strong>가 생성했으며, <a href="{licenseUrl}" class="footer-link" target="_blank" rel="noopener noreferrer">{licenseName}</a> 라이선스에 따라 퍼블릭 도메인에 헌정됩니다. 권리를 유보하지 않습니다.',

@@ -87,6 +87,18 @@ export interface UiStrings {
     umbrellaConcept: string;
     disclaimer: string;
     metadataLabels: Record<string, string>;
+    /** Labels of the resource page's metadata block (Open / Made by / Type / ...). */
+    resourceLabels: {
+      /** Visit-link text; `{title}` is replaced with the resource title. */
+      open: string;
+      madeBy: string;
+      sourceCode: string;
+      /** Link text of the "source code available" link. */
+      sourceCodeAvailable: string;
+      type: string;
+      license: string;
+      linkChecked: string;
+    };
     /** Footer sentences with links; {licenseUrl}, {licenseName}, {issuesUrl}, {contactUrl}, {editorName} are substituted at render. */
     footerLicenseHtml: string;
     footerIssuesHtml: string;
@@ -179,6 +191,15 @@ const zh: UiStrings = {
       sources: '来源',
       connected_faqs: '相关常见问题',
       connected_resources: '相关资源',
+    },
+    resourceLabels: {
+      open: 'Open {title}',
+      madeBy: 'Made by',
+      sourceCode: 'Source code',
+      sourceCodeAvailable: 'available',
+      type: 'Type',
+      license: 'License',
+      linkChecked: 'Link checked',
     },
     footerLicenseHtml:
       '本网站由 <strong>AI 智能体</strong>生成，并以 <a href="{licenseUrl}" class="footer-link" target="_blank" rel="noopener noreferrer">{licenseName}</a> 许可协议发布至公有领域。不保留任何权利。',
