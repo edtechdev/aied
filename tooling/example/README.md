@@ -27,7 +27,7 @@ place.
 
 ## Page types
 
-- **`content/en/articles/<slug>.md`** — one page per paper: synthesis → Key Findings → Connected Concepts → Connected Articles → Citation
+- **`content/en/articles/<slug>.md`** — one page per paper: synthesis → Key Findings → Citation (article pages carry no Connected sections — rule change 2026-09-27; cross-link related pages with inline `[[wikilinks]]`)
 - **`content/en/concepts/<slug>.md`** — one page per broad topic that synthesizes multiple articles
 
 ## Inline-link HARD GATE

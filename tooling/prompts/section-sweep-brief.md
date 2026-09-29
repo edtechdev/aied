@@ -39,7 +39,7 @@ bullets and delete the heading.
 ## Placement (mandatory)
 
 `... last body section ...` then `## What this means for practice` then `## Limitations` then
-`## Connected Concepts` then `## Connected Articles` then `## Citation`. If the page already has
+`## Citation`. (Article pages carry no `## Connected …` section — rule change 2026-09-27.) If the page already has
 `## Limitations`, insert practice immediately before it. If it already has practice, add only `## Limitations`,
 immediately after it. Each canonical heading must appear exactly once.
 
@@ -51,8 +51,8 @@ immediately after it. Each canonical heading must appear exactly once.
 - Every number you write must appear in that full text. Never invent or approximate a figure. A source may
   print a decimal without a leading zero (`.97` for 0.97).
 - Read each page first, and do not restate its body content in the new bullets.
-- Change nothing else: no rewriting existing prose, no touching frontmatter, the Connected lists or the
-  citation. Do not touch `log.md`, and no other page.
+- Change nothing else: no rewriting existing prose, no touching frontmatter, the citation, or any
+  `## Connected …` section. Do not touch `log.md`, and no other page.
 - US English: behavior, modeling, judgment, organization, analyze; gray not grey; modeled not modelled.
 - Inline `[[wikilinks]]` in the new bullets only to slugs that exist — check with `os.path.exists` under
   `<WIKI>/concepts/`, `<WIKI>/articles/` or `<WIKI>/faqs/`.
@@ -82,5 +82,5 @@ in detail. Two shortcuts that remove most of the exploration:
 
 - The audience labels you need are in the page's own `audience:` frontmatter. Read it; do not survey other pages to
   infer the convention.
-- Link only concepts you have already seen in the page's existing Connected Concepts or body text. You then never
+- Link only concepts you have already seen in the page's existing inline links or body text. You then never
   need a separate turn to test whether a slug resolves.

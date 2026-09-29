@@ -48,9 +48,9 @@ A genuinely enriched page contains **information the reader could not get by ski
 
 ### Article pages
 
-Canonical structure (unchanged): frontmatter → synthesis blockquote (`> …`) → narrative body → `## Connected Concepts` → `## Connected Articles` → `## Citation` (**LAST**).
+Canonical structure: frontmatter → synthesis blockquote (`> …`) → narrative body → `## Citation` (**LAST**). Article pages carry NO `## Connected …` section (rule change 2026-09-27); related concepts and articles are linked as inline `[[wikilinks]]` in the body.
 
-Deepen the *body* sections — typically Study Design, Key Findings, and Implications. Add the numbers and mechanisms mined in Step 1. Keep every existing section; add new `##` body sections only if they represent a genuinely distinct aspect (e.g. a dedicated "Interaction Patterns" section). Never insert content after `## Connected Concepts`.
+Deepen the *body* sections — typically Study Design, Key Findings, and Implications. Add the numbers and mechanisms mined in Step 1. Keep every existing section; add new `##` body sections only if they represent a genuinely distinct aspect (e.g. a dedicated "Interaction Patterns" section). Never insert content after `## Citation`.
 
 ### Concept pages
 
@@ -73,7 +73,7 @@ Deepen the answer with concrete specifics from the underlying sources, and link 
 1. **Narrative integration, never append-only.** Weave new content into the thematically-appropriate EXISTING section. Do **not** add a standalone `##`/`###` enrichment section between the body and `## Connected Concepts`. Exception: a *deliberate full rewrite* of the whole page (rare, and only when the user asks for a rewrite or the contribution is major).
 2. **No standalone source/PDF/DOI links in the body.** The source is hyperlinked ONLY via the bottom `## Citation` title→source link. No `📄 [PDF](…)`, `📄 arXiv · [PDF](…)`, `📄 [Full article](…)`, `📄 DOI: …` lines in narrative bodies. (`check_list_formatting.py` enforces this.)
 3. **`## Citation` at BOTTOM, title-only hyperlink.** Never top/mid-page. Only the title is linked. Never fabricate a DOI/URL — if no public source link, leave the title unlinked. **Format: APA, title italicized + hyperlinked** — see `wiki-citation-format` for the exact canonical form.
-4. **Cross-linking is bidirectional and precise.** Link the **most precise** matching concept (not the umbrella). Link SPECIFIC concepts, not umbrella pages. Both directions (article↔concept/article) must agree. Prefer `[[wikilinks]]` in Connected lists; inline links in body prose are fine when they add navigational value.
+4. **Cross-linking is bidirectional and precise.** Link the **most precise** matching concept (not the umbrella). Link SPECIFIC concepts, not umbrella pages. Both directions (article↔concept/article) must agree. Article pages link inline `[[wikilinks]]` in body prose (they carry no Connected list — rule change 2026-09-27); the curated Connected lists live on concept/resource/FAQ pages.
 5. **Concept pages REQUIRED sections**: `## Questions to Consider` (single contiguous bulleted list, 2-7 open pre-reading questions) then `## Introduction`. If enriching a concept, refresh Questions if content changed substantially.
 6. **Bump `updated`** (full ISO timestamp) in frontmatter on any significant edit — the maintainer flags stale `updated` dates.
 7. **Public-repo privacy**: the repo is public. No personal names, `/home/` paths, `<AGENT>`, or third-party site branding in tracked files or commit messages. Use neutral "the maintainer". (See `public-repo-pii-hygiene` for the full list.)
