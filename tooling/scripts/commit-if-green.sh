@@ -37,7 +37,15 @@ run_gate "list-formatting" python3 skills/research/wiki-inline-links/scripts/che
 run_gate "facets" python3 tooling/scripts/validate-facets.py
 
 articles=()
-for p in "$@"; do case "$p" in content/*/articles/*.md|articles/*.md) articles+=("$PWD/$p");; esac; done
+for p in "$@"; do
+  case "$p" in
+    content/*/articles/*.md|articles/*.md)
+      # The audit takes SLUGS, not paths, and a deleted page has no sections to audit.
+      [ -f "$p" ] || continue
+      articles+=("$(basename "${p%.md}")")
+      ;;
+  esac
+done
 if [ "${#articles[@]}" -gt 0 ]; then
   printf '%s\n' "${articles[@]}" > /tmp/commit-if-green-slugs.txt
   out="$(python3 tooling/scripts/audit-article-sections.py --slugs-file /tmp/commit-if-green-slugs.txt 2>&1)"
@@ -60,7 +68,9 @@ if [ $fail -ne 0 ]; then
   exit 1
 fi
 
-git add "$@" || exit 1
+# -A so an explicitly named DELETED path stages its removal; plain `git add <gone-path>`
+# fails with "did not match any files", which blocked every deletion commit.
+git add -A -- "$@" || exit 1
 
 # Stamp the AI-use trailers rather than calling `git commit` directly: the model
 # and role behind a change belong in the commit because a frontmatter field only
