@@ -91,11 +91,97 @@ LOCALE_ENTRY = next((e for e in ((SITE.get('i18n') or {}).get('locales') or [])
                      if e.get('code') == LOCALE), {})
 LOCALE_LABEL = LOCALE_ENTRY.get('label') or LOCALE
 OFFLINE_NOTE = LOCALE_ENTRY.get('offlineDescription') or ''
-BOOK_TITLE = NAME if IS_DEFAULT else f'{NAME} ({LOCALE_LABEL})'
+# The book's own title in the locale (the site's localized site name); it is the
+# EPUB/PDF metadata title and the Notice page's lead line. The default edition
+# keeps the site name and its existing chrome.
+OFFLINE_TITLE = LOCALE_ENTRY.get('offlineTitle') or ''
+BOOK_TITLE = (OFFLINE_TITLE if (not IS_DEFAULT and OFFLINE_TITLE)
+              else (NAME if IS_DEFAULT else f'{NAME} ({LOCALE_LABEL})'))
 BOOK_LANG = LOCALE
+# The site's name as the locale writes it (the book's own title when the locale
+# has one), so the notice prose reads in the locale throughout rather than
+# dropping the English site name into a translated sentence.
+LOCALE_SITE_NAME = OFFLINE_TITLE or NAME
+
+# The locale's own chrome strings (notice page prose, nav landmarks, TOC title).
+# One entry per string, all in site.config.json, so the book cannot drift from
+# the site. A locale with no entry keeps the English literal written below.
+NOTICE = LOCALE_ENTRY.get('offlineNotice') or {}
+
+
+def _nt(key, default):
+    """One localized notice/chrome string, falling back to English."""
+    return NOTICE.get(key) or default
+
+
+# Resource-chapter metadata labels (the same block the resource page renders).
+RES_LABELS = LOCALE_ENTRY.get('offlineResourceLabels') or {}
+
+
+def _rl(key, default):
+    return RES_LABELS.get(key) or default
+
+
+OPEN_IT_LABEL = _rl('open', 'Open it')
+MADE_BY_LABEL = _rl('madeBy', 'Made by')
+SOURCE_CODE_LABEL = _rl('sourceCode', 'Source code')
+TYPE_LABEL = _rl('type', 'Type')
+ACCESS_LABEL = _rl('access', 'Access')
+LICENSE_LABEL = _rl('license', 'License')
+LINK_CHECKED_LABEL = _rl('linkChecked', 'Link checked')
+
+# The book's umbrella chapter headings are the site's taxonomy headings, keyed by
+# the exact English heading. The SAME map the sidebar uses localizes them, so the
+# book and the site cannot drift; a locale with no entry keeps the English
+# heading. The heading keeps an explicit anchor derived from the English text so
+# any link to the chapter survives translation.
+TAXONOMY_HEADINGS = LOCALE_ENTRY.get('taxonomyHeadings') or {}
+
+
+def chapter_heading(heading):
+    """The locale's umbrella chapter heading (English when untranslated), with
+    an explicit anchor so links to the chapter survive the translation."""
+    translated = TAXONOMY_HEADINGS.get(heading) or heading
+    if translated == heading:
+        return heading
+    anchor = re.sub(r'[^a-z0-9]+', '-', heading.lower()).strip('-')
+    return f'{translated} {{#{anchor}}}'
 # The note is the locale's own; the default edition's notice text stays as it is.
 OFFLINE_NOTE_HTML = (f'\n    <p><em>{OFFLINE_NOTE}</em></p>'
                      if OFFLINE_NOTE and not IS_DEFAULT else '')
+
+
+def localized_notice_body(indent, cc0_b64, img_class='cc0'):
+    """The Notice page's prose, assembled from the locale's own strings
+    (site.config.json). Only a translated edition calls this: the default
+    edition keeps its English literals inline, so its bytes never change."""
+    open_p, close_p = f'{indent}<p>', '</p>'
+    note_html = OFFLINE_NOTE_HTML.replace('\n    ', '\n' + indent)
+    rows = [
+        f'{open_p}<strong>{BOOK_TITLE}</strong>{close_p}',
+        open_p + _nt('editedBy', 'Edited by {editors}.').format(
+            editors=CONTRIBUTOR_NAME_LIST) + close_p + note_html,
+        open_p + _nt('produced', 'This ebook was produced by an AI agent.').format(
+            license=LICENSE['name']) + close_p,
+        f'{open_p}<strong>{_nt("generated", "Generated")}:</strong> {GENERATED_DATE}{close_p}',
+        f'{indent}<p class="{img_class}"><img src="data:image/png;base64,{cc0_b64}"'
+        ' alt="" aria-hidden="true" width="88" height="31" /></p>',
+        f'{open_p}<strong>&#9888;&#65039; {_nt("disclaimerLabel", "Aviso")}:</strong> '
+        + _nt('disclaimerText', 'AI-generated output may contain inaccuracies or errors.')
+        + close_p,
+        open_p + f'<strong>{_nt("howMadeLabel", "How this text was made")}:</strong> '
+        + _nt('howMadeText', '{model}').format(model=AI_MODEL_CURRENT, policy=AI_POLICY)
+        + close_p,
+        open_p + _nt('contains', 'This document contains the concept and FAQ pages.')
+        .format(name=LOCALE_SITE_NAME, url=SITE_URL) + close_p,
+        open_p + _nt('sourceCode', 'The source code is available in the GitHub repository.')
+        .format(repo=REPO_URL) + close_p,
+        open_p + _nt('foundIssue', 'Found an issue? Please report it on GitHub.')
+        .format(issues=ISSUES_URL, editorUrl=EDITOR_URL, editor=EDITOR_NAME) + close_p,
+        open_p + '<em>' + _nt('latestEdition', 'The latest edition is available online at {url}/.')
+        .format(name=LOCALE_SITE_NAME, url=SITE_URL) + f'</em>{close_p}',
+    ]
+    return '\n'.join(rows)
 
 
 def _ui_label(key, default):
@@ -301,6 +387,16 @@ today = datetime.date.today().strftime('%B %d, %Y')
 # build_epub() binds a local `today` as a date object and a local `date_str` for the
 # pandoc metadata, so reusing those names here would silently change the format.
 GENERATED_DATE = datetime.date.today().strftime('%B %d, %Y')
+# A translated edition carries the date in its own language. Only the locales
+# that name their months here are reformatted; every other locale keeps the
+# English strftime output exactly as before.
+_LOCALIZED_MONTHS = {
+    'es': ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio',
+           'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'],
+}
+if LOCALE in _LOCALIZED_MONTHS:
+    _d = datetime.date.today()
+    GENERATED_DATE = f'{_d.day} de {_LOCALIZED_MONTHS[LOCALE][_d.month - 1]} de {_d.year}'
 # --- assemble markdown ---
 parts = []
 
@@ -627,10 +723,13 @@ parts.append(astro_body_markdown(AI_ASTRO, AI_H1, locale=LOCALE, anchor=AI_ANCHO
 
 # Concepts organized by umbrella groups
 for heading, groups in sections:
-    parts.append(f"\n# {heading}\n")
+    parts.append(f"\n# {chapter_heading(heading)}\n")
     for label, items in groups:
-        # H2 = sub-group label; H3 = each concept (kept under its group)
-        parts.append(f"\n## {label}\n")
+        # H2 = sub-group label; H3 = each concept (kept under its group). The
+        # sub-group labels come from the same taxonomy map as the chapter
+        # headings (site.config.json), so the book and the site's sidebar agree;
+        # a locale with no entry keeps the English label.
+        parts.append(f"\n## {TAXONOMY_HEADINGS.get(label, label)}\n")
         for slug in items:
             path = os.path.join(CONCEPTS_DIR, slug + '.md')
             if not os.path.exists(path):
@@ -757,23 +856,23 @@ for group_type in RESOURCE_GROUP_ORDER:
         title, body = process_md(os.path.join(RESOURCES_DIR, slug + '.md'), slug, 3)
         head = []
         if f['url']:
-            head.append("- **Open it:** [" + f['url'] + "](" + f['url'] + ")")
+            head.append("- **" + OPEN_IT_LABEL + ":** [" + f['url'] + "](" + f['url'] + ")")
         if f['author']:
             who = "[" + f['author'] + "](" + f['author_url'] + ")" if f['author_url'] else f['author']
-            head.append("- **Made by:** " + who)
+            head.append("- **" + MADE_BY_LABEL + ":** " + who)
         if f['source_code']:
-            head.append("- **Source code:** [" + f['source_code'] + "](" + f['source_code'] + ")")
+            head.append("- **" + SOURCE_CODE_LABEL + ":** [" + f['source_code'] + "](" + f['source_code'] + ")")
         bits = []
         if f['type']:
-            bits.append('Type: ' + ', '.join(t.title() for t in f['type']))
+            bits.append(TYPE_LABEL + ': ' + ', '.join(t.title() for t in f['type']))
         if f['access']:
-            bits.append('Access: ' + ', '.join(a.title() for a in f['access']))
+            bits.append(ACCESS_LABEL + ': ' + ', '.join(a.title() for a in f['access']))
         if f['license']:
-            bits.append('License: ' + f['license'])
+            bits.append(LICENSE_LABEL + ': ' + f['license'])
         if bits:
             head.append('- ' + ' · '.join(bits))
         if f['checked']:
-            head.append("- **Link checked:** " + f['checked'])
+            head.append("- **" + LINK_CHECKED_LABEL + ":** " + f['checked'])
         extra = ''
         if f['connected']:
             # H4, not H2. A resource entry is an H3, so an H2 heading here became
@@ -816,6 +915,153 @@ with open(md_path, 'w', encoding='utf-8') as f:
 print(f"Wrote {md_path}: {len(combined.splitlines())} lines")
 
 
+# --- cover image ------------------------------------------------------------
+# The committed public/epub-cover.png is a single English raster produced by
+# tooling/gen-epub-cover.mjs (Node + sharp): white portrait page, the title,
+# the radial concept map and the CC0 badge. The site renders the concept map
+# once PER LOCALE (src/components/ConceptMap.astro, labels from
+# src/i18n/pages/home.<locale>.ts), so a translated edition rasterizes its own
+# cover here with Pillow from that locale's labels — same geometry, localized
+# labels and title. The default edition keeps the committed file byte for byte.
+_COVER_NODE_SLUGS = [
+    # (slug, English label) — inner ring, then outer ring (ConceptMap order)
+    ('student-modeling', 'Modeling'), ('learning-theories', 'Learning'),
+    ('equity-in-ai-education', 'Equity'), ('feedback', 'Feedback'),
+    ('ai-literacy', 'AI Literacy'), ('assessment', 'Assessment'),
+    ('discipline-specific-aied', 'Disciplines'), ('pedagogy', 'Pedagogy'),
+    ('ethics', 'Ethics'), ('ai-technologies', 'Technologies'),
+    ('ai-ed-evaluation', 'Evaluation'), ('research-methods-aied', 'Research'),
+]
+
+
+def _cover_labels():
+    """(center, {slug: label}) from the locale's home page copy, i.e. the exact
+    labels the site's concept map renders. Falls back to the English labels."""
+    center = 'AI in Education'
+    labels = {slug: en for slug, en in _COVER_NODE_SLUGS}
+    path = os.path.join(WIKI, 'src', 'i18n', 'pages', f'home.{LOCALE}.ts')
+    try:
+        txt = open(path, encoding='utf-8').read()
+    except OSError:
+        return center, labels
+    block = re.search(r'conceptMap:\s*\{(.*?)\n\s{2}\},', txt, re.S)
+    if not block:
+        return center, labels
+    body = block.group(1)
+    m = re.search(r"\bcenter:\s*'([^']*)'", body)
+    if m:
+        center = m.group(1)
+    nodes = re.search(r'\bnodes:\s*\{(.*?)\}', body, re.S)
+    if nodes:
+        for slug, label in re.findall(r"'?([A-Za-z0-9-]+)'?:\s*'([^']*)'",
+                                      nodes.group(1)):
+            labels[slug] = label.replace("\\'", "'")
+    return center, labels
+
+
+def _cover_title_lines():
+    """The two title lines on the cover: the locale's own book title, split
+    across two lines, or the English pair for the default edition."""
+    if IS_DEFAULT or not OFFLINE_TITLE:
+        return ['AI in Education', 'Knowledge Base']
+    words = OFFLINE_TITLE.split()
+    if len(words) < 2:
+        return [OFFLINE_TITLE, '']
+    best, best_diff = 1, None
+    for i in range(1, len(words)):
+        a = len(' '.join(words[:i]))
+        b = len(' '.join(words[i:]))
+        if best_diff is None or abs(a - b) < best_diff:
+            best, best_diff = i, abs(a - b)
+    return [' '.join(words[:best]), ' '.join(words[best:])]
+
+
+def _locale_cover_path():
+    """The cover image for this edition (see the block comment above)."""
+    default = os.path.join(WIKI, 'public', 'epub-cover.png')
+    if IS_DEFAULT:
+        return default
+    out = os.path.join(WIKI, 'public', f'epub-cover{SUFFIX}.png')
+    try:
+        from PIL import Image, ImageDraw, ImageFont
+    except Exception as e:  # pragma: no cover - Pillow is a build dependency
+        print(f'Warning: Pillow unavailable ({e}); using the English cover')
+        return default
+    title_font_path = '/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf'
+    node_font_path = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
+    cc0_path = os.path.join(WIKI, 'public', os.path.basename(LICENSE['image']))
+    if not (os.path.exists(title_font_path) and os.path.exists(node_font_path)):
+        print('Warning: cover fonts not found; using the English cover')
+        return default
+
+    center, labels = _cover_labels()
+    W, H = 1200, 1800
+    img = Image.new('RGB', (W, H), '#ffffff')
+    d = ImageDraw.Draw(img)
+    d.rectangle([0, 0, W, 18], fill='#3b82f6')
+    d.rectangle([0, H - 18, W, H], fill='#3b82f6')
+
+    # Title: two centred lines, stepping the size down until each fits.
+    lines = _cover_title_lines()
+    for y, line in zip((170, 248), lines):
+        if not line:
+            continue
+        size = 64
+        font = ImageFont.truetype(title_font_path, size)
+        while font.getlength(line) > W - 100 and size > 24:
+            size -= 2
+            font = ImageFont.truetype(title_font_path, size)
+        d.text((W // 2, y), line, font=font, fill='#0b1220', anchor='mm')
+
+    # Concept map: same radial geometry as ConceptMap.astro / the cover script,
+    # placed at its position on the page (900x750 at x=150, y=330).
+    OX, OY = 150, 330
+    CX, CY, RECT_W, RECT_H = 450, 375, 138, 48
+    inner, outer = _COVER_NODE_SLUGS[:6], _COVER_NODE_SLUGS[6:]
+
+    def ring(nodes, radius, start_deg):
+        import math
+        n = len(nodes)
+        placed = []
+        for i, (slug, _en) in enumerate(nodes):
+            a = math.radians(start_deg + (360 / n) * i)
+            placed.append((slug, CX + radius * math.cos(a),
+                           CY + radius * math.sin(a)))
+        return placed
+
+    placed = ring(inner, 168, 30) + ring(outer, 280, 0)
+    for _slug, x, y in placed:
+        d.line([(OX + CX, OY + CY), (OX + x, OY + y)], fill='#2c3a45', width=2)
+
+    def label_size(text):
+        n = len(text)
+        return 11 if n >= 17 else (13 if n >= 12 else 16)
+
+    for slug, x, y in placed:
+        text = labels.get(slug, '')
+        d.rounded_rectangle([OX + x - RECT_W / 2, OY + y - RECT_H / 2,
+                             OX + x + RECT_W / 2, OY + y + RECT_H / 2],
+                            radius=14, fill='#dbeafe', outline='#3b82f6', width=2)
+        d.text((OX + x, OY + y + 6), text,
+               font=ImageFont.truetype(node_font_path, label_size(text)),
+               fill='#0b1220', anchor='mm')
+
+    csize = 15 if len(center) >= 16 else 20
+    d.rounded_rectangle([OX + CX - 95, OY + CY - 31, OX + CX + 95, OY + CY + 31],
+                        radius=16, fill='#3b82f6')
+    d.text((OX + CX, OY + CY + 7), center,
+           font=ImageFont.truetype(node_font_path, csize),
+           fill='#ffffff', anchor='mm')
+
+    if os.path.exists(cc0_path):
+        badge = Image.open(cc0_path).convert('RGBA').resize((140, 49))
+        img.paste(badge, ((W - 140) // 2, 1260), badge)
+
+    img.save(out)
+    print(f'Wrote {out} ({os.path.getsize(out)} bytes)')
+    return out
+
+
 def build_epub():
     """Run pandoc to produce aied.epub, then post-process to left-align the TOC."""
     today = datetime.date.today()
@@ -827,7 +1073,7 @@ def build_epub():
         '--metadata', f'lang={BOOK_LANG}',
         '--metadata', f'date={date_str}',
         '--split-level=3',
-        '--epub-cover-image=' + os.path.join(WIKI, 'public', 'epub-cover.png'),
+        '--epub-cover-image=' + _locale_cover_path(),
         '--toc', '--toc-depth=3',
     ]
     r = subprocess.run(cmd, capture_output=True, text=True)
@@ -903,14 +1149,28 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
                 data += css_rule.encode('utf-8')
             elif item.filename == 'EPUB/nav.xhtml':
                 text = data.decode('utf-8', errors='ignore')
-                # Rename the TOC title to "Table of Contents".
+                # Rename the TOC title (pandoc does not localize it for a
+                # translated edition; the label comes from site.config.json).
                 text = _re.sub(r'<h1 id="toc-title">[^<]*</h1>',
-                               '<h1 id="toc-title">Table of Contents</h1>', text)
+                               '<h1 id="toc-title">'
+                               + _nt('tocLabel', 'Table of Contents') + '</h1>', text)
                 # The second page is a Notice page: relabel it in the landmarks
-                # nav so the reader's outline/progress list shows "Notice"
-                # instead of the book title.
+                # nav so the reader's outline/progress list shows the notice label
+                # instead of the book title. All three landmark labels are set
+                # BEFORE number_toc() runs: number_toc injects its numbers into
+                # every list in nav.xhtml, including the landmarks list, so a
+                # label written afterwards would come out as "1. Notice".
                 text = _re.sub(r'epub:type="titlepage">[^<]*</a>',
-                               'epub:type="titlepage">Notice</a>', text)
+                               'epub:type="titlepage">'
+                               + _nt('noticeLabel', 'Notice') + '</a>', text)
+                text = _re.sub(r'epub:type="cover">[^<]*</a>',
+                               'epub:type="cover">'
+                               + _nt('coverLabel', 'Cover') + '</a>', text)
+                # `epub:type="toc">` (the '>' immediately after) matches the toc
+                # LANDMARK anchor, not <nav epub:type="toc" role=...>.
+                text = _re.sub(r'epub:type="toc">[^<]*</a>',
+                               'epub:type="toc">'
+                               + _nt('tocLabel', 'Table of Contents') + '</a>', text)
                 # Hard-code the hierarchical numbers into the TOC entries.
                 text = number_toc(text)
                 data = text.encode('utf-8')
@@ -919,7 +1179,8 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
                 # AI-generated disclaimer, and how-to-report-issues info.
                 cc0 = open(os.path.join(WIKI, 'public', os.path.basename(LICENSE['image'])), 'rb').read()
                 cc0_b64 = base64.b64encode(cc0).decode('ascii')
-                copyright_html = f"""<?xml version="1.0" encoding="UTF-8"?>
+                if IS_DEFAULT:
+                    copyright_html = f"""<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="{BOOK_LANG}" xml:lang="{BOOK_LANG}">
 <head>
@@ -961,12 +1222,37 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
   </section>
 </body>
 </html>"""
+                else:
+                    # Translated edition: the whole page in the locale's language,
+                    # strings from site.config.json (see localized_notice_body).
+                    copyright_html = f"""<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="{BOOK_LANG}" xml:lang="{BOOK_LANG}">
+<head>
+  <meta charset="utf-8" />
+  <title>{_nt('noticeLabel', 'Notice')}</title>
+  <style>
+    body {{ font-family: Georgia, serif; margin: 3em 2em; }}
+    h1 {{ font-size: 1.6em; }}
+    .cc0 {{ margin-top: 1.5em; }}
+    p {{ margin: 0.8em 0; }}
+  </style>
+  <link rel="stylesheet" type="text/css" href="../styles/stylesheet1.css" />
+</head>
+<body epub:type="copyright-page">
+  <section epub:type="copyright-page">
+    <h1>{_nt('noticeLabel', 'Notice')}</h1>
+{localized_notice_body('    ', cc0_b64)}
+  </section>
+</body>
+</html>"""
                 data = copyright_html.encode('utf-8')
             elif item.filename == 'EPUB/text/cover.xhtml':
                 # Replace pandoc's SVG-wrapped <image> (no alt text, not
                 # readable by screen readers) with an accessible <img> carrying
                 # an alt description of the cover and the EPUB-3 doc-cover role.
-                cover_alt = (
+                cover_alt = _nt(
+                    'coverAlt',
                     "Cover of the open AI in Education Knowledge Base resource: "
                     "minimalist white background with bright blue bars at top and "
                     "bottom; title in large dark serif font; a radial concept map "
@@ -1009,13 +1295,14 @@ def build_pdf():
     import pathlib, base64
 
     # Full-page cover + Notice page as HTML fragments injected before the body.
-    cover_src = os.path.join(WIKI, 'public', 'epub-cover.png')
+    cover_src = _locale_cover_path()
     cover_file = pathlib.Path(cover_src).as_uri()
     cc0 = open(os.path.join(WIKI, 'public', os.path.basename(LICENSE['image'])), 'rb').read()
     cc0_b64 = base64.b64encode(cc0).decode('ascii')
     pre_html = os.path.join(WIKI, 'dist', f'pdf-prefront{SUFFIX}.html')
     os.makedirs(os.path.dirname(pre_html), exist_ok=True)
-    notice = f"""<div class="cover-page"><img src="{cover_file}" alt="{NAME}" /></div>
+    if IS_DEFAULT:
+        notice = f"""<div class="cover-page"><img src="{cover_file}" alt="{NAME}" /></div>
 <section class="notice-page">
   <h1>Notice</h1>
   <p><strong>{BOOK_TITLE}</strong></p>
@@ -1040,6 +1327,14 @@ def build_pdf():
   <a href="{EDITOR_URL}">{EDITOR_NAME}</a>.</p>
   <p><em>The latest edition of the {NAME} is available online at
   {SITE_URL}/.</em></p>
+</section>"""
+    else:
+        # Translated edition: the cover and the Notice page in the locale's
+        # language (strings from site.config.json).
+        notice = f"""<div class="cover-page"><img src="{cover_file}" alt="{BOOK_TITLE}" /></div>
+<section class="notice-page">
+  <h1>{_nt('noticeLabel', 'Notice')}</h1>
+{localized_notice_body('  ', cc0_b64)}
 </section>"""
     with open(pre_html, 'w', encoding='utf-8') as f:
         f.write(notice)
