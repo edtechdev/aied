@@ -1,7 +1,7 @@
 ---
 title: Situated Learning
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-13T09:58:46-04:00"
+updated: "2026-09-28T21:41:14-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
@@ -55,7 +55,7 @@ Situated learning connects closely to [[embodied-learning]] (both stress the gro
 
 ## Connected Articles
 
-- [[vargas-situated-learning-ai-review-2024]] — PRISMA systematic review of situated learning and AI in education (primary reference for this stub)
+- [[vargas-situated-learning-ai-review-2024]] — PRISMA systematic review of situated learning and AI in education (primary reference for this page)
 - [[genai-educational-outcomes-meta-analysis]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[raffaghelli-situated-ai-ethics-2026]]

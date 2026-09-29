@@ -1,7 +1,7 @@
 ---
 title: Summative Assessment
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-28T21:41:14-04:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -38,7 +38,7 @@ The knowledge base's research documents how generative AI has fundamentally resh
 A key theme in the knowledge base is that **summative format determines AI-resistance** — the more a task requires live, in-person, individually-probed performance, the harder it is for students to substitute AI for their own learning.
 
 - **Oral exams and assessments.** [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]] argues the oral exam is a low-tech, inherently AI-resistant summative format: its real-time, interactive dialogue tests comprehension, [[critical-thinking|critical thinking]], and reasoning rather than memorization, prevents students from using AI to generate and memorize answers, and mirrors professional practice. [[socratic-tests-conversational-assessment|Socratic tests]] and [[code-review-genai-cs1|code-review interviews]] extend this to dynamic, conversational, and interview-based summative assessment.
-- **Closed-book, proctored, unassisted measures.** [[generative-ai-reduced-study-time-math|Evidence]] and [[stromberg-generative-ai-learning-penalty-secondary-2026|large-scale field data]] show that proctored closed-book exams — not inflated homework or take-home work — are the reliable signal of actual learning when students use AI. [[responsible-assessment-ai-era-stanford-2026|Responsible assessment]] frameworks embed these unassisted measures within a validity-driven redesign.
+- **Closed-book, proctored, unassisted measures.** [[generative-ai-reduced-study-time-math|Evidence]] and [[stromberg-generative-ai-learning-penalty-secondary-2026|large-scale field data]] show that proctored closed-book exams — not inflated homework or take-home work — are the reliable signal of actual learning when students use AI. [[responsible-assessment-ai-era-stanford-2026|Responsible assessment]] frameworks embed these unassisted measures within a validity-driven redesign. Where exams stay online, [[remote-proctoring|remote proctoring]] takes over that role, and the corpus's two reviews of automated proctoring find privacy and [[bias-mitigation|fairness]] concerns alongside detection gains ([[automated-online-exam-proctoring-decade-review-2026]], [[academic-dishonesty-automated-proctoring-ai-2026]]).
 
 ## High-stakes and standardized summative assessment
 

@@ -1,7 +1,7 @@
 ---
 title: Feedback Literacy
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-22T07:47:22-04:00"
+updated: 2026-09-28T21:46:01-04:00
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -57,7 +57,7 @@ Feedback literacy is widely framed as a set of interrelated capabilities — the
 
 ### Why feedback literacy matters for AI in education
 
-AI changes feedback in two directions that both raise the stakes of feedback literacy. First, AI dramatically increases the *volume and immediacy* of feedback ([[ai-feedback-quality]], [[feedback|Feedback Loop]]), so students confront far more feedback they must triage and evaluate. Second, AI-generated feedback carries distinct risks — inaccuracy, [[hallucination-risk|hallucination]], and the "illusion of mastery" — that demand [[critical-thinking|critical evaluation]] skills [[cognitive-offloading|Over-Reliance]] [[llm-fallacy-misattribution]]. Feedback literacy therefore becomes a core component of [[ai-literacy]]: knowing not only how to prompt an AI for feedback, but how to judge whether the feedback is worth acting on and how to convert it into genuine learning rather than task completion.
+AI changes feedback in two directions that both raise the stakes of feedback literacy. First, AI dramatically increases the *volume and immediacy* of feedback ([[ai-feedback-quality]], [[feedback|Feedback Loop]]), so students confront far more feedback they must triage and evaluate. Second, AI-generated feedback carries distinct risks — inaccuracy, [[hallucination-risk|hallucination]], and the "illusion of mastery" — that demand [[critical-thinking|critical evaluation]] skills and vigilance against Over-Reliance and [[llm-fallacy-misattribution|misattribution]]. Feedback literacy therefore becomes a core component of [[ai-literacy]]: knowing not only how to prompt an AI for feedback, but how to judge whether the feedback is worth acting on and how to convert it into genuine learning rather than task completion.
 
 [[ai-feedback-ecosystem-higher-education-2026|Bearman and colleagues (2026)]] add a further demand to that list. In their workshop study, students were not managing one feedback source but a network: they weighed educator comments against AI output, rubrics, course materials and peers, and when human feedback was slow they kept working with AI as a holding pattern, revising later if it had misled them. The authors suggest students can act as their own human-as-the-loop by managing those relations from the granular task to the broader trajectory, which is itself a feedback-literacy capability. Their warning is that thin or late educator comments are what push students toward unverified sources.
 

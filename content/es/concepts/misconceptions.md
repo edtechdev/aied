@@ -40,7 +40,7 @@ Las ideas erróneas sobre la IA importan porque son el precursor cognitivo de la
 
 ### Qué son las ideas erróneas sobre la IA
 
-Una idea errónea aquí no es mera ignorancia sobre cómo funciona un modelo, sino una creencia sostenida activamente y a menudo autorreforzada que produce errores sistemáticos en la forma en que el estudiantado interactúa con la IA. Son directamente análogas a las ideas erróneas de dominio que estudia la [[learning-theories|ciencia del aprendizaje]]: estables, verosímiles y resistentes a la corrección hasta que se las confronta. Corregirlas es un objetivo central de la educación en [[ai-literacy|alfabetización en IA]] y [[trust-calibration|calibración de la confianza]].
+Una idea errónea aquí no es mera ignorancia sobre cómo funciona un modelo, sino una creencia sostenida activamente y a menudo autorreforzada que produce errores sistemáticos en la forma en que el estudiantado interactúa con la IA. Son directamente análogas a las ideas erróneas de dominio que estudia la [[learning-sciences|ciencia del aprendizaje]]: estables, verosímiles y resistentes a la corrección hasta que se las confronta. Corregirlas es un objetivo central de la educación en [[ai-literacy|alfabetización en IA]] y [[trust-calibration|calibración de la confianza]].
 
 ### Ideas erróneas comunes en contextos académicos
 

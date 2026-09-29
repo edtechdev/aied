@@ -5,7 +5,7 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-28T21:41:14-04:00"
 reviewed_by: [editor]
 ---
 
@@ -44,7 +44,7 @@ Practical systems apply these principles at scale. AISSA combines LLM-based rubr
 
 ## Implications
 
-Across these twelve works, visualization emerges as a dual-use medium: AI increasingly generates and interprets visualizations, while dashboards and interactive visuals serve as the shared surface for human-AI sensemaking. Generative text-to-image and multimodal analysis extend the reach of visualization into specialized [[stem-education|STEM]] content and [[ai-feedback-quality|automated feedback]], but uneven model competence, severity-calibration failures, and [[ethics|ethical]] concerns over misinformation and authorship demand careful, layered verification. For designers and educators, the strongest conclusion is that interactivity and engagement — eliciting learner reasoning over visual data, letting users control cognitive effort, and treating AI-produced visuals as shared infrastructure rather than endpoints — matter more than the fidelity of the chart itself.
+Across the works discussed here, visualization emerges as a dual-use medium: AI increasingly generates and interprets visualizations, while dashboards and interactive visuals serve as the shared surface for human-AI sensemaking. Generative text-to-image and multimodal analysis extend the reach of visualization into specialized [[stem-education|STEM]] content and [[ai-feedback-quality|automated feedback]], but uneven model competence, severity-calibration failures, and [[ethics|ethical]] concerns over misinformation and authorship demand careful, layered verification. For designers and educators, the strongest conclusion is that interactivity and engagement — eliciting learner reasoning over visual data, letting users control cognitive effort, and treating AI-produced visuals as shared infrastructure rather than endpoints — matter more than the fidelity of the chart itself.
 
 ## Connected Concepts
 - [[learning-analytics]]

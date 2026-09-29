@@ -41,7 +41,7 @@ El desarrollo de instrumentos empieza a abordar esa brecha de medición de forma
 
 ### Por qué hay que calibrar la confianza
 
-La confianza no calibrada adopta dos formas. La **confianza excesiva** (aceptar la salida de la IA sin verificación) produce la aceptación acrítica que documentan la investigación sobre la [[cognitive-offloading|dependencia excesiva]] y la [[cognitive-offloading|dependencia excesiva]], y agrava el [[hallucination-risk|riesgo de alucinación]] de los errores seguros. La **confianza insuficiente** (evitar la IA por completo) renuncia a beneficios legítimos. Ambas [[stem-education|provienen]] de la misma raíz: una confianza basada en la apariencia y no en la evidencia. La investigación sobre las [[misconceptions|ideas erróneas]] muestra que el estudiantado suele caer por defecto en la confianza excesiva porque da por supuesto que una IA que «suena bien» tiene razón.
+La confianza no calibrada adopta dos formas. La **confianza excesiva** (aceptar la salida de la IA sin verificación) produce la aceptación acrítica que documentan la investigación sobre la [[cognitive-offloading|dependencia excesiva]] y la [[cognitive-offloading|dependencia excesiva]], y agrava el [[hallucination-risk|riesgo de alucinación]] de los errores seguros. La **confianza insuficiente** (evitar la IA por completo) renuncia a beneficios legítimos. Ambas provienen de la misma raíz: una confianza basada en la apariencia y no en la evidencia. La investigación sobre las [[misconceptions|ideas erróneas]] muestra que el estudiantado suele caer por defecto en la confianza excesiva porque da por supuesto que una IA que «suena bien» tiene razón.
 
 ### Cómo funciona la calibración
 

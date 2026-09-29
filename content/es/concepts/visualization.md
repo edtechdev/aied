@@ -5,7 +5,7 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-09-28T18:15:22-04:00"
+updated: "2026-09-28T21:41:14-04:00"
 translation_of: concepts/visualization
 source_updated: "2026-09-17T02:30:30-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
@@ -54,7 +54,7 @@ Los sistemas prácticos aplican estos principios a escala. AISSA combina la punt
 
 ## Implicaciones
 
-A lo largo de estos doce trabajos, la visualización emerge como un medio de doble uso: la IA genera e interpreta cada vez más visualizaciones, mientras que los paneles y los visuales interactivos sirven como superficie compartida para la construcción de sentido entre humanos y IA. La generación de texto a imagen y el análisis multimodal amplían el alcance de la visualización hacia contenido [[stem-education|STEM]] especializado y la [[ai-feedback-quality|retroalimentación automatizada]], pero la competencia desigual de los modelos, los fallos de calibración de gravedad y las inquietudes [[ethics|éticas]] sobre la desinformación y la autoría exigen una verificación cuidadosa y por capas. Para diseñadores y educadores, la conclusión más sólida es que la interactividad y el compromiso —elicitando el razonamiento del estudiantado sobre los datos visuales, dejando que las personas controlen el esfuerzo cognitivo y tratando los visuales producidos por IA como infraestructura compartida en lugar de como puntos finales— importan más que la fidelidad del propio gráfico.
+A lo largo de los trabajos aquí analizados, la visualización emerge como un medio de doble uso: la IA genera e interpreta cada vez más visualizaciones, mientras que los paneles y los visuales interactivos sirven como superficie compartida para la construcción de sentido entre humanos y IA. La generación de texto a imagen y el análisis multimodal amplían el alcance de la visualización hacia contenido [[stem-education|STEM]] especializado y la [[ai-feedback-quality|retroalimentación automatizada]], pero la competencia desigual de los modelos, los fallos de calibración de gravedad y las inquietudes [[ethics|éticas]] sobre la desinformación y la autoría exigen una verificación cuidadosa y por capas. Para diseñadores y educadores, la conclusión más sólida es que la interactividad y el compromiso —elicitando el razonamiento del estudiantado sobre los datos visuales, dejando que las personas controlen el esfuerzo cognitivo y tratando los visuales producidos por IA como infraestructura compartida en lugar de como puntos finales— importan más que la fidelidad del propio gráfico.
 
 ## Conceptos conectados
 - [[learning-analytics]]

@@ -69,7 +69,7 @@ La pregunta de diseño no es si el conductismo es «correcto», sino si la mecá
 
 ## El conductismo y la «educación sobre la IA»
 
-El conductismo también aparece en cómo quien aprende se encuentra con la IA como tema. La teoría es una de las cuatro [[learning-theories|teorías del aprendizaje]] dominantes —conductismo, cognitivismo, constructivismo y conectivismo— que la [[generative-ai|IA generativa]] está [[prompt-engineering|impulsando]] al profesorado a revisar.([[generativism-learning-theory]]) También se cita en contextos de aprendizaje cooperativo y de diseño como parte del trasfondo teórico que se enseña a quien aprende.([[ccct-cooperative-learning-technique]]) Entender el conductismo ayuda a quien aprende a ver por qué muchas herramientas de IA (y los productos construidos sobre ellas) están diseñadas para la respuesta y el refuerzo y no para una construcción más profunda.
+El conductismo también aparece en cómo quien aprende se encuentra con la IA como tema. La teoría es una de las cuatro [[learning-theories|teorías del aprendizaje]] dominantes —conductismo, cognitivismo, constructivismo y conectivismo— que la [[generative-ai|IA generativa]] está impulsando al profesorado a revisar.([[generativism-learning-theory]]) También se cita en contextos de aprendizaje cooperativo y de diseño como parte del trasfondo teórico que se enseña a quien aprende.([[ccct-cooperative-learning-technique]]) Entender el conductismo ayuda a quien aprende a ver por qué muchas herramientas de IA (y los productos construidos sobre ellas) están diseñadas para la respuesta y el refuerzo y no para una construcción más profunda.
 
 ## Implicaciones para el diseño y la investigación
 

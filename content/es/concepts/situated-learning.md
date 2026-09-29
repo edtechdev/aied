@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje situado
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-09-28T19:10:59-04:00"
+updated: "2026-09-28T21:41:14-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
@@ -65,7 +65,7 @@ El aprendizaje situado conecta estrechamente con el [[embodied-learning|aprendiz
 
 ## Artículos conectados
 
-- [[vargas-situated-learning-ai-review-2024]] — Revisión sistemática PRISMA sobre el aprendizaje situado y la IA en la educación (referencia principal de este esbozo)
+- [[vargas-situated-learning-ai-review-2024]] — Revisión sistemática PRISMA sobre el aprendizaje situado y la IA en la educación (referencia principal de esta página)
 - [[genai-educational-outcomes-meta-analysis]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[raffaghelli-situated-ai-ethics-2026]]

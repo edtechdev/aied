@@ -1,7 +1,7 @@
 ---
 title: Behaviorism
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-09-27T07:10:53-04:00"
+updated: "2026-09-28T21:37:06-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories]
@@ -59,7 +59,7 @@ The design question is not whether behaviorism is "right" but whether a given AI
 
 ## Behaviorism and "education about AI"
 
-Behaviorism also appears in how learners encounter AI as a topic. The theory is one of the four dominant [[learning-theories|learning theories]] — behaviorism, cognitivism, constructivism, and connectivism — that [[generative-ai|generative AI]] is [[prompt-engineering|prompting]] educators to revisit.([[generativism-learning-theory]]) It is also referenced in cooperative-learning and design contexts as part of the theoretical backdrop learners are taught.([[ccct-cooperative-learning-technique]]) Understanding behaviorism helps learners see why many AI tools (and the products built on them) are designed for response-and-reinforcement rather than for deeper construction.
+Behaviorism also appears in how learners encounter AI as a topic. The theory is one of the four dominant [[learning-theories|learning theories]] — behaviorism, cognitivism, constructivism, and connectivism — that [[generative-ai|generative AI]] is prompting educators to revisit.([[generativism-learning-theory]]) It is also referenced in cooperative-learning and design contexts as part of the theoretical backdrop learners are taught.([[ccct-cooperative-learning-technique]]) Understanding behaviorism helps learners see why many AI tools (and the products built on them) are designed for response-and-reinforcement rather than for deeper construction.
 
 ## Implications for design and research
 
