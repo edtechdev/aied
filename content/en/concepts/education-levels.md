@@ -1,7 +1,7 @@
 ---
 title: "Levels of Education"
 created: "2026-09-20T13:08:39-04:00"
-updated: 2026-09-28T21:44:10-04:00
+updated: "2026-09-28T21:44:10-04:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
