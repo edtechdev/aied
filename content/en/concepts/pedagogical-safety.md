@@ -57,7 +57,7 @@ Design pedagogical safety as a measurable, discipline-aware requirement rather t
 
 ### Connections to related concepts
 
-Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[governance]], [[regulation]], and [[llm]] with the interaction-level concerns of [[trust]], [[scaffolding]], [[metacognition]], and [[self-regulated-learning]]. It operates through [[pedagogical-llm-training|training]] and [[reinforcement-learning|RL]], depends on [[bias-mitigation]] and [[equity-in-ai-education]], and is motivated by the harms catalogd in [[ai-misuse-learning-harm]] and the [[hazra-safetutors-pedagogical-safety-2026|tutor harm taxonomies]].
+Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[governance]], [[regulation]], and [[llm]] with the interaction-level concerns of [[trust]], [[scaffolding]], [[metacognition]], and [[self-regulated-learning]]. It operates through [[pedagogical-llm-training|training]] and [[reinforcement-learning|RL]], depends on [[bias-mitigation]] and [[equity-in-ai-education]], and is motivated by the harms catalogued in [[ai-misuse-learning-harm]] and the [[hazra-safetutors-pedagogical-safety-2026|tutor harm taxonomies]].
 
 ## Connected Concepts
 - [[guardrails]] — the design mechanisms that implement safety

@@ -77,7 +77,7 @@ This complements the [[hazra-safetutors-pedagogical-safety-2026|SafeTutors taxon
 - **Misinformation** (incorrect content delivery)
 - **Bias** (demographic performance gaps)
 
-Pedagogical Safety in RL adds: **system-level safety** (how the *learning algorithm itself* can cause harm through optimization failures) — a concern orthogonal to the individual harm dimensions catalogd elsewhere.
+Pedagogical Safety in RL adds: **system-level safety** (how the *learning algorithm itself* can cause harm through optimization failures) — a concern orthogonal to the individual harm dimensions catalogued elsewhere.
 
 ## Detection Methods
 

@@ -34,7 +34,7 @@ It is deliberately not a duplicate of its neighbours. [[equity-in-ai-education|E
 
 ## How group differences get reported, and why most of it cannot
 
-**A single-group study is not a differential-effect study.** Most of the literature in this area measures one group in the absence of a comparison group. [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al. (2024)]] pooled 29 (quasi-)experimental studies of AI for students with disabilities and found a medium positive effect (Hedge's g = 0.588, 95% CI [0.349, 0.826]) — with no neurotypical comparator. That tells you an intervention helped, not that it helped this group differently.
+**A single-group study is not a differential-effect study.** Most of the literature in this area measures one group in the absence of a comparison group. [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al. (2024)]] pooled 29 (quasi-)experimental studies of AI for students with disabilities and found a medium positive effect (Hedges' g = 0.588, 95% CI [0.349, 0.826]) — with no neurotypical comparator. That tells you an intervention helped, not that it helped this group differently.
 
 **Subgroup analyses are usually too small to answer the question.** The [[ai-tutoring-micro-rct-gcse-science-2026|GCSE science micro-RCT]] is unusually explicit: its treatment-by-status interaction was 0.57 marks (95% CI −2.25 to 3.39), with stratified estimates of g = 0.28 (95% CI −0.04 to 0.59) for one group and g = 0.35 (95% CI 0.18 to 0.52) for the other. A subgroup interval that overlaps zero is a question for a local pilot, not a basis for a class-wide rule.
 
