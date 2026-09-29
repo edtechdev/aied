@@ -1,7 +1,7 @@
 ---
 title: Educación en física
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-09-28T20:10:55-04:00"
+updated: "2026-09-28T21:41:14-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -36,7 +36,7 @@ ai_assist:
 
 ## Introducción
 
-La [[research-methods-aied|investigación]] sobre educación en física se ha convertido en un banco de pruebas para la IA en la educación porque los problemas de física están bien estructurados y a la vez son cognitivamente exigentes, lo que los hace ideales para estudiar cómo afectan las herramientas de IA al aprendizaje, al razonamiento y a la evaluación. Los siete artículos de esta base de conocimiento dibujan en conjunto el panorama de un campo que lidia tanto con la promesa como con los límites de la IA: desde [[conversational-ai|chatbots]] socráticos que mejoran la calidad de las preguntas del estudiantado hasta sesgos sistemáticos de calificación que penalizan a quienes aprenden con diversidad lingüística.
+La [[research-methods-aied|investigación]] sobre educación en física se ha convertido en un banco de pruebas para la IA en la educación porque los problemas de física están bien estructurados y a la vez son cognitivamente exigentes, lo que los hace ideales para estudiar cómo afectan las herramientas de IA al aprendizaje, al razonamiento y a la evaluación. Los 26 artículos de esta base de conocimiento dibujan en conjunto el panorama de un campo que lidia tanto con la promesa como con los límites de la IA: desde [[conversational-ai|chatbots]] socráticos que mejoran la calidad de las preguntas del estudiantado hasta sesgos sistemáticos de calificación que penalizan a quienes aprenden con diversidad lingüística.
 
 ### Temas clave de investigación
 

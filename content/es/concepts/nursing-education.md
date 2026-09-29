@@ -30,7 +30,7 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - La simulación asistida por IA mejora de forma fiable el conocimiento y la [[self-efficacy|autoeficacia]], pero muestra efectos inconsistentes y a veces negativos sobre la destreza psicomotora compleja. ¿Dónde es la IA el [[teacher-role|docente]] adecuado y dónde debe seguir siendo no negociable un cuerpo humano en la sala?
-- El estudiantado de enfermería describe la IA como un consuelo emocional durante el estrés clínico. ¿Es un apoyo que hay que diseñar o una señal de que el [[sociocultural-learning|aprendizaje]] relacional está infradotado?
+- El estudiantado de enfermería describe la IA como un consuelo emocional durante el estrés clínico. ¿Es un apoyo que hay que diseñar o una señal de que el aprendizaje relacional está infradotado?
 - La ansiedad ante la IA entre el estudiantado de ciencias de la salud sigue a la ansiedad por la búsqueda de empleo. ¿Es enseñar alfabetización en IA el remedio, o aumenta la prominencia de una amenaza que la [[educational-policy-ai|política institucional]] debería abordar en su lugar?
 
 ## Introducción

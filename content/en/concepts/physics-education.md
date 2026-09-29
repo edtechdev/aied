@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-22T09:52:55-04:00"
+updated: "2026-09-28T21:41:14-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -26,7 +26,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Physics education [[research-methods-aied|research]] has become a proving ground for AI in education because physics problems are well-structured yet cognitively demanding, making them ideal for studying how AI tools affect learning, reasoning, and assessment. The seven articles in this knowledge base collectively paint a picture of a field grappling with both the promise and the limits of AI — from Socratic [[conversational-ai|chatbots]] that improve student question quality to systematic scoring biases that penalize linguistically diverse learners.
+Physics education [[research-methods-aied|research]] has become a proving ground for AI in education because physics problems are well-structured yet cognitively demanding, making them ideal for studying how AI tools affect learning, reasoning, and assessment. The 26 articles in this knowledge base collectively paint a picture of a field grappling with both the promise and the limits of AI — from Socratic [[conversational-ai|chatbots]] that improve student question quality to systematic scoring biases that penalize linguistically diverse learners.
 
 ### Key research themes
 

@@ -39,7 +39,7 @@ La accesibilidad es distinta de, aunque está estrechamente relacionada con, tre
 
 ### Por qué importa la distinción
 
-Un vídeo con subtítulos precisos y una transcripción correctamente etiquetada es *accesible*; un curso que estructura la discusión para incluir las preferencias comunicativas de un estudiante sordo *apoya a ese estudiante*. Se solapan —los medios accesibles son un requisito previo para la instrucción inclusiva—, pero exigen movimientos de diseño distintos y se apoyan en evidencia distinta. La accesibilidad se ancla en estándares y en la ley (WCAG, la [[educational-policy-ai|Ley de Tecnología de Asistencia]] de EE. UU. y la IDEA), mientras que el aprendizaje accesible y la educación especial se anclan en la pedagogía y en la [[student-experience|experiencia de quien aprende]].
+Un vídeo con subtítulos precisos y una transcripción correctamente etiquetada es *accesible*; un curso que estructura la discusión para incluir las preferencias comunicativas de un estudiante sordo *apoya a ese estudiante*. Se solapan —los medios accesibles son un requisito previo para la instrucción inclusiva—, pero exigen movimientos de diseño distintos y se apoyan en evidencia distinta. La accesibilidad se ancla en estándares y en la ley (WCAG, la [[assistive-technology|Ley de Tecnología de Asistencia]] de EE. UU. y la IDEA), mientras que el aprendizaje accesible y la educación especial se anclan en la pedagogía y en la [[student-experience|experiencia de quien aprende]].
 
 ### Grandes temas de investigación
 

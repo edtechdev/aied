@@ -1,7 +1,7 @@
 ---
 title: Arts, Design and Media Education
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-09-17T14:13:57-04:00"
+updated: "2026-09-28T21:41:14-04:00"
 type: concept
 foundations: [design-thinking]
 pedagogy: [creativity, embodied-learning, project-based-learning]
@@ -66,7 +66,7 @@ Immersive environments provide the more favorable counter-case in vocational des
 
 The craft question appears in several forms, and the sources disagree about how worried to be. [[genai-architecture-education|Kapsalis (2026)]] reports a levelling mechanism at entry level: students who described themselves as weak at drawing found the tool opened access to visual expression without removing the need for judgment. Against that, [[ai-interior-design-malaysia-2026|Syed Abdul Rahman (2026)]] warns that uncritical adoption risks graduates without foundational spatial reasoning, material knowledge or independent critical evaluation, and names the prevention of deskilling among early-career practitioners as a core [[regulation|regulatory]] concern. The disagreement is partly about sequencing: both favor technical foundations before generative exploration.
 
-What is consistent is a repositioning of what gets assessed. The Derby study measured procedural confidence in-session at 3.7 and 3.5 out of 5 but confidence in transferring those skills beyond the studio at only 2.6 — a gap its author attributes to single-session exposure and calls a curriculum-level problem. The Malaysia analysis recommends studio projects requiring comparative [[ai-ed-evaluation|evaluation of AI]] and non-AI design pathways, plus criteria that reward critical thinking alongside visual quality. Music's automated-scoring results point the same way: agreement with teacher means was dimension-specific, and the authors insist on human oversight rather than full delegation. [[ai-vocal-pedagogy-2026|Li (2026)]] adds that treating measured output as educational value in itself narrows vocal training into output correction and score optimization. The converging proposal is that creative assessment keep examining process, iteration and justified decision-making precisely because the finished artifact no longer evidences them.
+What is consistent is a repositioning of what gets assessed. The Derby study measured procedural confidence in-session at 3.7 out of 5 but confidence in transferring those skills beyond the studio at only 2.6 — a gap its author attributes to single-session exposure and calls a curriculum-level problem. The Malaysia analysis recommends studio projects requiring comparative [[ai-ed-evaluation|evaluation of AI]] and non-AI design pathways, plus criteria that reward critical thinking alongside visual quality. Music's automated-scoring results point the same way: agreement with teacher means was dimension-specific, and the authors insist on human oversight rather than full delegation. [[ai-vocal-pedagogy-2026|Li (2026)]] adds that treating measured output as educational value in itself narrows vocal training into output correction and score optimization. The converging proposal is that creative assessment keep examining process, iteration and justified decision-making precisely because the finished artifact no longer evidences them.
 
 ## Access and Inclusion in Arts Learning
 

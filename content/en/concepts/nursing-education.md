@@ -1,7 +1,7 @@
 ---
 title: "Nursing Education"
 created: "2026-09-17T14:04:21-04:00"
-updated: "2026-09-18T06:30:00-04:00"
+updated: "2026-09-28T21:37:06-04:00"
 type: concept
 foundations: [learner-identity]
 pedagogy: [professional-training, self-efficacy]
@@ -20,7 +20,7 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - AI-supported simulation reliably improves knowledge and [[self-efficacy]] but shows inconsistent, sometimes negative effects on complex psychomotor skill. Where is AI the right [[teacher-role|teacher]], and where must a human body in the room remain non-negotiable?
-- Nursing students describe AI as emotional comfort during clinical stress. Is that a support to design for, or a signal that the relational [[sociocultural-learning|apprenticeship]] is under-resourced?
+- Nursing students describe AI as emotional comfort during clinical stress. Is that a support to design for, or a signal that the relational apprenticeship is under-resourced?
 - AI anxiety among health-sciences students tracks job-search anxiety. Is teaching AI literacy the remedy, or does it raise the salience of a threat that [[educational-policy-ai|institutional policy]] should address instead?
 
 ## Introduction

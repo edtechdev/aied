@@ -1,7 +1,7 @@
 ---
 title: Peer Assessment
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-09-25T13:24:06-04:00"
+updated: "2026-09-28T21:37:06-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -38,7 +38,7 @@ The mechanism recurs across the literature. In a PRISMA 2020 [[meta-analysis-sys
 
 ## Training, calibration and feedback literacy
 
-Peer assessment fails predictably when students are untrained. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen, and Yan (2026)]] ran a [[mixed-methods-research|mixed-methods]] quasi-experiment with 118 first-year [[higher-ed|undergraduates]] in China, comparing [[generative-ai|ChatGPT]]-4o under pre-trained rubrics against structured peer-review worksheets with a high-quality exemplar. Feedback literacy rose slightly more in the GenAI group (ANCOVA p = 0.049, η²p = 0.03), but the [[qualitative-research|qualitative]] findings matter more: peer-group students chose feedback sources by social convenience — nearby peers, same-major peers, roommates — rarely held specific feedback goals, and faced social anxiety about seeking feedback. Peer evaluation was more often distorted by friendship bias and perceived peer proficiency, and peer reflection was often delayed until later exams. The authors recommend multi-stage designs with anonymous peer feedback, since peer review still uniquely builds audience awareness and evaluative judgment through giving feedback.
+Peer assessment fails predictably when students are untrained. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen, and Yan (2026)]] ran a [[mixed-methods-research|mixed-methods]] quasi-experiment with 118 first-year [[higher-ed|undergraduates]] in China, comparing ChatGPT-4o under pre-trained rubrics against structured peer-review worksheets with a high-quality exemplar. Feedback literacy rose slightly more in the GenAI group (ANCOVA p = 0.049, η²p = 0.03), but the [[qualitative-research|qualitative]] findings matter more: peer-group students chose feedback sources by social convenience — nearby peers, same-major peers, roommates — rarely held specific feedback goals, and faced social anxiety about seeking feedback. Peer evaluation was more often distorted by friendship bias and perceived peer proficiency, and peer reflection was often delayed until later exams. The authors recommend multi-stage designs with anonymous peer feedback, since peer review still uniquely builds audience awareness and evaluative judgment through giving feedback.
 
 Design frameworks target those bottlenecks. [[irwin-muller-efl-peer-feedback-literacy|Irwin and Muller (2026)]] propose two GenAI roles in EFL/ESL peer feedback on speaking, a case they argue is harder than writing because of time pressure, fleeting oral performance, and heightened affect: a Trainer supporting feedback givers through exemplar-based calibration and feedback-on-feedback, and a Synthesizer aggregating peer comments into a criteria-linked uptake report that normalizes formats, preserves minority views, and flags contradictions. Their principles are careful timing and sequencing, short repeated Trainer units, preserving the givers' voice, and [[guardrails]] that keep the [[teacher-role|teacher]] in the loop with no [[automated-assessment|automated grading]]. The paper is conceptual, with no new empirical data.
 

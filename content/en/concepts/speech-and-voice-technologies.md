@@ -1,7 +1,7 @@
 ---
 title: Speech and Voice Technologies
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-09-23T09:34:44-04:00"
+updated: "2026-09-28T21:37:06-04:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -17,7 +17,7 @@ reviewed_by: [editor]
 
 ## Questions to Consider
 
-- ASR feedback helps stronger learners more than weaker ones: in one survey of 325 Chinese [[higher-ed|undergraduates]], the payoff of reflective behavior and motivation was weak and non-significant at low proficiency and grew markedly stronger at average and high levels. If a tool raises the average while widening the gap, is it a success?
+- ASR feedback helps stronger learners more than weaker ones: in one survey of 325 Chinese undergraduates, the payoff of reflective behavior and motivation was weak and non-significant at low proficiency and grew markedly stronger at average and high levels. If a tool raises the average while widening the gap, is it a success?
 - TTS narration matched an instructor's own voice on comprehension, concentration, and overall evaluation — but dialogue-format TTS beat single-speaker TTS on comprehension and cognitive engagement while sounding *less* natural. Which would you choose for a first introduction to a concept, and which for a dense procedural walkthrough?
 - Two findings run against intuition: students who read the AI's output most heavily during interpreting tasks had the weakest delivery fluency, and a learner who answered in two words was marked correct while a fuller spoken answer was flagged. How much does a voice interface measure verbal fluency rather than understanding?
 - A voice agent with a British accent was treated as a tool, while agents with Indian and African American accents were anthropomorphized and treated as peers in [[k-12]] [[group-work|group work]]. If accent changes how a learner relates to an agent, who should decide which voice an educational product ships with?
@@ -32,7 +32,7 @@ The research here splits into four clusters: ASR pronunciation feedback, TTS-gen
 
 ## ASR and Pronunciation Feedback
 
-The most consistent message from the ASR work is that the tool is not the treatment — the feedback design is. [[asr-english-speaking-feedback-metacognition-2026|Chen et al. (2026)]] surveyed 325 undergraduates at a Chinese [[teacher-role|teacher]]-training university and modeled accuracy, usage frequency, [[ai-feedback-quality|feedback quality]], and reflection-task design against reflective behavior and intrinsic [[motivation]], then against speaking improvement. Accurate error correction and structured reflection tasks drove both [[feedback]] internalization and reflection. More frequent use boosted reflection but had no independent effect on motivation. Recognition accuracy raised motivation, plausibly by building trust in the tool, but did not by itself trigger deeper processing — a learner can register a flagged error without analyzing its cause. Reflection was the stronger predictor of speaking gains, and proficiency moderated both pathways: weak and non-significant at low proficiency, markedly stronger at average and high levels. The advice that follows is to explain errors articulatorially rather than flag them, ramp complexity with readiness, and frame correction supportively.
+The most consistent message from the ASR work is that the tool is not the treatment — the feedback design is. [[asr-english-speaking-feedback-metacognition-2026|Chen et al. (2026)]] surveyed 325 undergraduates at a Chinese teacher-training university and modeled accuracy, usage frequency, [[ai-feedback-quality|feedback quality]], and reflection-task design against reflective behavior and intrinsic [[motivation]], then against speaking improvement. Accurate error correction and structured reflection tasks drove both [[feedback]] internalization and reflection. More frequent use boosted reflection but had no independent effect on motivation. Recognition accuracy raised motivation, plausibly by building trust in the tool, but did not by itself trigger deeper processing — a learner can register a flagged error without analyzing its cause. Reflection was the stronger predictor of speaking gains, and proficiency moderated both pathways: weak and non-significant at low proficiency, markedly stronger at average and high levels. The advice that follows is to explain errors articulatorially rather than flag them, ramp complexity with readiness, and frame correction supportively.
 
 A second strand asks whether AI pronunciation feedback changes learners' disposition to speak. [[genai-pronunciation-feedback-wtc-2026|Lu et al. (2026)]] surveyed 1,701 Chinese university EFL learners and used covariance-based structural equation modeling with bias-corrected bootstrapping to test whether perceptions of [[generative-ai]] pronunciation feedback related to willingness to communicate, with pronunciation [[self-efficacy]] as mediator. The association was positive, and self-efficacy partially mediated it: the indirect path accounted for 69.9% of the total effect while a direct effect remained. All constructs were [[self-report-measures|self-reported]] at one time point, so the study describes a mechanism learners perceive rather than one that was manipulated.
 

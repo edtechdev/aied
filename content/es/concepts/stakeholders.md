@@ -1,7 +1,7 @@
 ---
 title: Partes interesadas
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-09-28T20:10:26-04:00"
+updated: "2026-09-28T21:41:14-04:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
@@ -40,7 +40,7 @@ La [[ai-education|IA en la educación]] trata en el fondo de personas: quienes a
 - **Diseñadores instruccionales y tecnólogos del aprendizaje.** Los profesionales que diseñan cursos, currículos y experiencias de aprendizaje en torno a la IA. Se relacionan con el [[learning-design|diseño del aprendizaje]] (la disciplina) y el [[curriculum-design|diseño curricular]], aunque la *persona y el rol* del diseñador instruccional aún no tienen una página propia: se agrupan aquí.
 - **Responsables de gestión y líderes institucionales.** Rectores, decanos, directores de sistemas de información y líderes que fijan políticas, asignan recursos y gobiernan la adopción. Cubiertos por [[administrator|responsables de gestión]] y conectados con la [[educational-policy-ai|política educativa sobre IA]], la [[governance|gobernanza]] y la [[regulation|regulación]].
 - **Responsables de política y reguladores.** Organismos gubernamentales e institucionales que fijan el marco legal y regulatorio. Se relacionan con la [[educational-policy-ai|política educativa sobre IA]], la [[regulation|regulación]] y la [[governance|gobernanza]].
-- **[[parents-and-families|Madres, padres y familias]].** Presentes en la [[research-methods-aied|investigación]] (p. ej., la supervisión del [[student-ai-interaction|uso de la IA por parte del estudiantado]] o las actitudes hacia la IA) pero aún sin una página propia: se agrupan aquí como parte interesada.
+- **[[parents-and-families|Madres, padres y familias]].** Presentes en la [[research-methods-aied|investigación]] (p. ej., la supervisión del [[student-ai-interaction|uso de la IA por parte del estudiantado]] o las actitudes hacia la IA) y ahora con una página propia: se agrupan aquí como parte interesada.
 
 ## Cómo aparecen las partes interesadas en la investigación
 

@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-26T07:13:32-04:00"
+updated: "2026-09-28T21:21:51-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -54,7 +54,7 @@ Even a well-performing interpretable detector keeps its errors at the level of d
 
 The definitional and procedural problems sit alongside the statistical ones. [[wright-transcription-not-generation-2026|Wright (2026)]] argues that blanket prohibitions on "AI use" are drafted around platform identity rather than function, so they capture non-generative format conversion — speech-to-text transcription, OCR, plain text to LATEX — along with the generative drafting they mean to bar; because detectors read low-perplexity writing as machine authorship, the resulting false positives fall hardest on disabled and [[equity-in-ai-education|equity]]-exposed students. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] reaches the design-side version of the same conclusion, positioning detection as a supplementary layer of integrity infrastructure at most, since it asks whether GenAI was used rather than how decisions were made.
 
-Detection research also carries a validity argument that outlasts questions of accuracy. Weidlich (2026) treats detector output as a conditional, probabilistic signal that may prompt further inquiry but cannot by itself establish misconduct or competence, which makes detection-centered governance an insufficient basis for upholding [[assessment-validity|assessment validity]]. Classification performance varies systematically across tools, task types, disciplines, model versions and human-AI editing practices, with formulaic STEM writing especially susceptible to algorithmic bias. Attempts to restore assessment security through detection then risk introducing construct-irrelevant variance, threatening fairness and the interpretation of scores.
+Detection research also carries a validity argument that outlasts questions of accuracy. [[weidlich-inference-at-risk-assessment-validity-2026|Weidlich (2026)]] treats detector output as a conditional, probabilistic signal that may prompt further inquiry but cannot by itself establish misconduct or competence, which makes detection-centered governance an insufficient basis for upholding [[assessment-validity|assessment validity]]. Classification performance varies systematically across tools, task types, disciplines, model versions and human-AI editing practices, with formulaic STEM writing especially susceptible to algorithmic bias. Attempts to restore assessment security through detection then risk introducing construct-irrelevant variance, threatening fairness and the interpretation of scores.
 
 ## Why not to use (or try to use) AI detectors
 

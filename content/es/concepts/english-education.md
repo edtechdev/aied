@@ -1,7 +1,7 @@
 ---
 title: Enseñanza del inglés (EAP / EFL / ESL)
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-09-28T19:11:56-04:00"
+updated: "2026-09-28T21:21:51-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -43,7 +43,7 @@ Este concepto organiza la [[research-methods-aied|investigación]] sobre IA en l
 - **Inglés académico (EAP):** apoyo de la IA al inglés basado en géneros y específico de disciplina que se usa en la escritura, la lectura y la retroalimentación de la educación superior, distinto de la enseñanza general de la escritura.
 - **Enseñanza del inglés (EFL/ESL/L2):** [[intelligent-tutoring|tutores de IA]], interlocutores y herramientas de [[feedback|retroalimentación]] para quienes aprenden inglés.
 - **[[assessment|Evaluación]] específica del inglés:** evaluación y retroalimentación automatizadas de la escritura y la expresión oral en inglés, incluida la revisión de escritura en EAP y la evaluación de la escritura en L2.
-- **Legibilidad de lectura y literatura:** Bird (2026) fusiona la clasificación de texto con transformadores y características de lingüística computacional para clasificar literatura inglesa por curso clave del Reino Unido, alcanzando un F1 de 0,996, un complemento escalable y basado en datos para el apoyo a la lectura en EAP basado en géneros y la alineación de niveles de lectura.
+- **Legibilidad de lectura y literatura:** [[bird-multimodal-educational-literature-2026|Bird (2026)]] fusiona la clasificación de texto con transformadores y características de lingüística computacional para clasificar literatura inglesa por curso clave del Reino Unido, alcanzando un F1 de 0,996, un complemento escalable y basado en datos para el apoyo a la lectura en EAP basado en géneros y la alineación de niveles de lectura.
 - **Equidad lingüística:** la tensión entre el dominio del inglés en la IA y las necesidades de quienes escriben en contextos multilingües y en inglés como lengua mundial.
 
 ## En qué se diferencia la enseñanza del inglés del aprendizaje de idiomas

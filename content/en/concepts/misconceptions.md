@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-09-22T09:52:55-04:00"
+updated: "2026-09-28T21:37:06-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -30,7 +30,7 @@ Misconceptions about AI matter because they are the cognitive precursor to the h
 
 ### What AI misconceptions are
 
-A misconception here is not mere ignorance of how a model works — it is an actively held, often self-reinforcing belief that produces systematic errors in how students interact with AI. They are directly analogous to the domain misconceptions studied in [[learning-theories|learning science]]: stable, plausible, and resistant to correction until confronted. Correcting them is a core aim of [[ai-literacy]] and [[trust-calibration]] education.
+A misconception here is not mere ignorance of how a model works — it is an actively held, often self-reinforcing belief that produces systematic errors in how students interact with AI. They are directly analogous to the domain misconceptions studied in [[learning-sciences|learning science]]: stable, plausible, and resistant to correction until confronted. Correcting them is a core aim of [[ai-literacy]] and [[trust-calibration]] education.
 
 ### Common misconceptions in academic contexts
 

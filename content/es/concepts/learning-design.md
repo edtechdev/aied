@@ -1,0 +1,161 @@
+---
+title: Diseño de aprendizaje
+created: "2026-09-28T21:03:34-04:00"
+updated: "2026-09-28T21:03:34-04:00"
+type: concept
+foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
+pedagogy: [scaffolding]
+technology: [generative-ai]
+audience: [instructors, faculty developers]
+level: [higher ed]
+connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
+confidence: high
+connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy]
+translation_of: concepts/learning-design
+source_updated: "2026-09-24T02:22:12-04:00"
+translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
+---
+
+*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+
+> **El diseño de aprendizaje** (también conocido como *diseño instruccional*): el proceso sistemático de crear experiencias de aprendizaje eficaces mediante el análisis de las necesidades de aprendizaje y el diseño, desarrollo, implementación y evaluación de materiales y actividades instruccionales. La IA está transformando el diseño de aprendizaje al automatizar la creación de contenidos, habilitar rutas de [[adaptive-learning|aprendizaje adaptativo]], apoyar la iteración basada en datos y aumentar —en lugar de sustituir— el papel de quien diseña la instrucción.
+
+## Preguntas para reflexionar
+
+- Piense en un curso o una lección que haya vivido o diseñado. ¿Dónde terminaba el «qué enseñar» (el currículo) y dónde empezaba el «cómo enseñarlo» (el diseño de aprendizaje)? ¿Y cómo interactuaban ambos?
+- Un supuesto habitual es que una mayor fluidez con la IA produce automáticamente mejores contenidos educativos. La página rebate esto con evidencia de que es la estructura pedagógica explícita —y no solo la fluidez con la IA— lo que determina la eficacia del aprendizaje. ¿Dónde ha visto resultados impresionantes que fracasaban al enseñar?
+- Si una herramienta de IA puede generar un curso completo a partir de un prompt, ¿qué decisiones humanas se vuelven más importantes en lugar de menos? La página sostiene que la IA aumenta y no sustituye el papel de quien diseña la instrucción: ¿cómo sería ese papel aumentado?
+- Algunos modelos de diseño instruccional como ADDIE se usan como pasos rígidos y lineales. Pero la página los trata como heurísticas de planificación iterativas y flexibles. ¿Cuándo podría socavar un buen diseño seguir un proceso demasiado literalmente?
+- La página muestra que un prompting pedagógicamente fundamentado —por ejemplo, un marco de cinco pasos basado en la teoría del aprendizaje— mejoró significativamente los resultados de orden superior. Si usted construyera un tutor de IA, ¿qué codificaría en una capa de diseño explícita para que su estrategia de enseñanza se mantenga trazable y reproducible?
+
+## Introducción
+
+El diseño de aprendizaje tiende un puente entre las capacidades de la IA y una pedagogía eficaz. Donde el [[curriculum-design|diseño curricular]] aborda *qué* enseñar a nivel de programa, el diseño de aprendizaje aborda *cómo* enseñarlo a nivel de curso y de lección. Los artículos de esta base de conocimiento exploran tanto la IA como herramienta para quienes diseñan el aprendizaje como los principios de diseño de aprendizaje para construir sistemas eficaces de [[intelligent-tutoring|tutoría con IA]].
+
+En qué consiste ese trabajo de diseño en la práctica es en sí mismo una cuestión empírica. [[tang-chatbots-learning-design-2026|Tang et al. (2026)]] codificaron 1.378 turnos diseñador-chatbot de cinco diseñadores de aprendizaje noveles que trabajaban con un chatbot integrado en una herramienta de diseño, y encontraron que el diálogo se concentraba en los resultados de aprendizaje previstos y el enfoque pedagógico más que en la generación de contenidos. Quienes diseñaban volvían una y otra vez a los resultados como comprobación de alineación mientras convertían los componentes del currículo en tareas concretas, y el papel del asistente cambiaba entre fases, desde aclarar términos hasta apoyar el diseño de tareas o hacer una pasada de verificación antes de una fecha límite. El apoyo al diseño, según esta evidencia, tiene menos que ver con producir material que con mantener coherente la intención de diseño.
+
+### Temas clave de la investigación
+
+**La creación de contenidos asistida por IA** es la aplicación más directamente transformadora. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]** presenta una arquitectura de seis fases que integra IA generativa con LaTeX y Python para automatizar la creación de materiales de [[stem-education|STEM]], validada en 8 módulos y 28 contextos de proyecto con valoraciones de calidad del estudiantado de 8,5-9,9/10. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** usa un marco multiagente estructurado en torno al modelo ADDIE, con agentes basados en roles (profesorado docente, diseñador instruccional, coordinador de curso) que colaboran para generar materiales de curso completos. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]** ofrece una canalización estructurada para la [[video-education|generación de vídeo]] [[pedagogy|pedagógica]] adaptativa fundamentada en corpus de cursos, y demuestra que una estructura pedagógica explícita —y no solo la fluidez con la IA— es esencial para generar contenidos educativos. Las plataformas de [[generative-ai|IA generativa]] también pueden encarnar principios de diseño de aprendizaje en los contenidos que producen: [[ai-modeling-problem-generation-platform-2026|una plataforma impulsada por IA para generar problemas de modelización matemática]] combinó principios de diseño consolidados con [[prompt-engineering|generación aumentada por recuperación]], desarrollada mediante el enfoque ADDIE para producir tareas y recomendaciones pedagógicamente fundamentadas de las que carecen los generadores de contenido convencionales. Sin embargo, el rendimiento de esa generación de contenidos y lecciones asistida por IA está mediado por la propia experiencia del profesorado: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] encontraron que el profesorado experimentado adapta críticamente las ideas de lección generadas por IA a su estudiantado y su contexto (volviendo a preguntar y elaborando sobre la salida), mientras que las personas noveles tienden a aceptar directamente las sugerencias de la IA; así, el valor pedagógico de las herramientas de contenido con IA depende de la experiencia y la competencia en IA del profesorado, y no solo de la herramienta. Una revisión sistemática del [[wang-teacher-ai-co-design-review-2026|co-diseño docente-IA de tareas de aprendizaje]] (Wang, Liu e Islam 2026) confirma el patrón a escala en 28 estudios (2015-2025): la IA generativa se usa principalmente para planificar lecciones, generar prompts e ideación creativa, y el modo de colaboración dominante es la IA como asistente o generador de contenido y no como co-diseñadora más plena, con la eficiencia, la capacidad de respuesta, la [[creativity|creatividad]] y la [[equity-in-ai-education|equidad]] apareciendo de forma recurrente como posibilidades. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] afina el hallazgo sobre la experiencia docente para el diseño de actividades grupales: el profesorado experimentado produce arquitecturas de roles más ricas, más sinérgicas y mejor alineadas con la ZDP en actividades cooperativas diseñadas con IA que las personas noveles, con independencia de su familiaridad con la IA, y enmarca la «alfabetización en prompts pedagógicos» como la palanca que convierte la salida de la IA en un [[collaborative-learning|aprendizaje grupal diferenciado]] eficaz.
+
+**La tutoría con IA pedagógicamente fundamentada** aplica principios de diseño instruccional al diseño de sistemas de IA. **[[didactical-teacher-assistant-dimensional-modeling|Brisson et al.]]** construyeron un asistente docente de orientación didáctica basado en un [[llm|LLM]] en el que la estrategia de tutoría se codifica en una capa externa explícita, lo que hace trazable y reproducible la selección de contenidos y la estructuración didáctica y aborda directamente las preocupaciones sobre la opacidad de [[rethinking-scaffolding-llm-tutors|Replantear el andamiaje en los tutores basados en LLM]]. **[[instructional-guidance-genai-learning|Hou et al.]]** demostraron que un marco de [[prompt-engineering|prompting]] de cinco pasos fundamentado en la [[learning-theories|teoría del aprendizaje]] generativa mejoraba significativamente los resultados cognitivos de orden superior, lo que muestra que la orientación instruccional —y no solo el acceso a la IA— determina la eficacia del aprendizaje. Ambos conectan con el [[scaffolding|andamiaje]] y la [[intelligent-tutoring|tutoría inteligente]].
+
+**Marcos y evaluación** ofrecen enfoques estructurados. **[[bridging-instructional-design-framework-math|Marco de diseño instruccional puente para matemáticas]]** y **[[cotal-formative-assessment-scoring-2026|CoTAL]]** demuestran principios de diseño [[human-in-the-loop-ai|con humanos en el bucle]]. **[[genai-mindtool-generative-learning|La IA generativa como herramienta mental para el aprendizaje generativo]]** sitúa la IA como una «herramienta mental» —un socio cognitivo que amplía en lugar de sustituir el pensamiento de quien aprende—, aplicando directamente la teoría del diseño instruccional a la integración de la IA. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** aplica los principios del Diseño Universal para el Aprendizaje para crear un socio de pensamiento con IA accesible para educadores, conectando el diseño instruccional con el [[inclusive-learning|aprendizaje inclusivo]]. **[[airis-cognitively-activated-ai-physics-2026|AIRIS]]** (Activar–Indagar–Reflexionar) es un marco de estructuración de tareas para un uso cognitivamente activado de la IA que acota la contribución de la IA de modo que la predicción, la interpretación y la evaluación sigan siendo de quien aprende: una adaptación específica de la IA de los ciclos de indagación, fundamentada en el [[self-regulated-learning|aprendizaje autorregulado]], la teoría de la carga cognitiva y la [[human-ai-collaboration|colaboración humano-IA]]. Como complemento a estos marcos de diseño, la [[dohn-boundary-object-classifying-genai-learning-activities-2026|taxonomía de Dohn et al. (2026)]] ofrece una *clasificación* y no un método de diseño: seis categorías (objetivo de aprendizaje, contenido, formato de representación, [[student-engagement|implicación]] epistémica, diseño social, artefactos) que permiten a quienes diseñan y a [[research-methods-aied|quienes investigan]] describir, comparar e imaginar actividades de aprendizaje con IA generativa haciendo explícitos el porqué, el qué, el cómo, el con qué y el con quién interactúa el estudiantado con la IA generativa, construida como objeto frontera mediante diálogo postdigital. Los marcos de aula inteligente lo extienden a la [[teacher-education|formación docente]]: [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao y Wang (2026)]] proponen un marco tridimensional para la educación inteligente —eficacia del aprendizaje, tecnologías de la información y la comunicación (TIC) y organización del aula— y lo instancian en un curso de máster en [[math-education|matemáticas]] que integra [[automated-assessment|calificación automatizada]], recomendaciones personalizadas y [[ai-feedback-quality|retroalimentación con IA]] múltiple en las fases previa, durante y posterior a la clase. Un cuasiexperimento mostró ganancias significativas en la capacidad del estudiantado para formular objetivos instruccionales precisos y profesionalmente fundamentados, y dio lugar al transferible **modelo D-T-E** (Demanda Disciplinar–Empoderamiento Tecnológico–Bucle de Evaluación), orientación [[discipline-specific-aied|específica de disciplina]] para [[educational-development|formadores de docentes]] que trasladan los conceptos de educación inteligente a la práctica del diseño instruccional.
+
+**La ingeniería de rúbricas guiada como palanca de diseño.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] demostraron que la rúbrica funciona como interfaz mediadora entre la intención pedagógica humana y la inferencia de la máquina: tratar los criterios de evaluación como artefactos de diseño revisables —en lugar de instrumentos fijos— y co-refinarlos iterativamente con el LLM elevó la concordancia LLM-humano sobre el trabajo de diseño del estudiantado del 54,75% al 81,25%. Las rúbricas diseñadas para LLM deben equilibrar precisión y flexibilidad —demasiado vagas invitan a la interpretación libre, demasiado rígidas reducen el modelo a la coincidencia de patrones— y el prompting consciente del rol (docente, revisor entre pares, evaluador de subvenciones) produjo retroalimentación evaluativa distinta. Esto sitúa la ingeniería de rúbricas como una práctica concreta de diseño de aprendizaje para modelar el comportamiento evaluador de la IA, con la supervisión humana en el bucle como elemento esencial.
+
+**Agentes de IA para el diseño instruccional** extienden el campo hacia la [[agentic-ai|IA agéntica]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** es el primer punto de referencia estandarizado y fundamentado en teoría para evaluar agentes de diseño instruccional basados en LLM: su Matriz de Contexto de 25.795 escenarios (51 variables contextuales × 33 subpasos de ISD de ADDIE) muestra que los agentes fundamentados en marcos clásicos de ISD (ADDIE, Dick & Carey, ISD de prototipado rápido) superan a los agentes sin teoría, lo que valida empíricamente que el diseño instruccional es una disciplina estructurada y no una tarea genérica de prompting. Los agentes no son solo *constructores* de diseños, sino también *críticos* de ellos: [[ai-web-agents-lesson-design-2025|Wang, Mitchell y Piech (2025)]] usan un único agente web autónomo que navega una lección en línea de varios pasos como lo haría un estudiante para evaluar un diseño de aprendizaje *antes* de que se impliquen estudiantes reales; su descripción de la experiencia del estudiante predice dónde abandonarán las personas noveles y saca a la luz retroalimentación de diseño accionable, superando a todos los modelos de referencia e incluso a una cohorte simulada de estudiantes en un curso global de CS1. Esto enmarca la evaluación agéntica previa al lanzamiento como un complemento de bajo coste a la iteración humana de diseño. **[[wang-multi-agent-systems-learning-designers-2025|Sistemas multiagente para diseñadores de aprendizaje]]** e **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** exploran marcos multiagente que orquestan agentes basados en roles en torno a modelos de diseño instruccional, mientras que **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** examina cómo el profesorado y los agentes aplican conjuntamente el conocimiento tecnológico-pedagógico-disciplinar. Este trabajo conecta el diseño instruccional con el [[benchmark|establecimiento de puntos de referencia]], la [[ai-ed-evaluation|evaluación de la IA educativa]] y el diseño del [[curriculum-design|currículo]] a escala.
+
+### Conexiones con conceptos relacionados
+
+El diseño de aprendizaje es la disciplina puente de la [[ai-education|IA en la educación]]: conecta el [[curriculum-design|diseño curricular]] (qué enseñar) con el [[scaffolding|andamiaje]] (cómo apoyar a quien aprende), el [[educational-development|desarrollo educativo]] (cómo preparar a los educadores) y la [[generative-ai|IA generativa]] (las propias herramientas). Está estrechamente acoplado con el [[teacher-role|papel docente]] porque las herramientas de IA remodelan lo que hacen quienes diseñan el aprendizaje y el profesorado, y con la [[ai-literacy|alfabetización en IA]] porque una integración eficaz de la IA exige que los educadores entiendan las capacidades y limitaciones de la IA. Las [[learning-sciences|ciencias del aprendizaje]] son el campo de investigación que hay detrás de estos principios: donde esta página cubre la práctica profesional de crear experiencias de aprendizaje, las ciencias del aprendizaje estudian esa práctica y sus diseños empíricamente y generan los principios cognitivos, motivacionales y sociales que el diseño de aprendizaje después operacionaliza.
+
+### Cómo determina el diseño de aprendizaje las ganancias de aprendizaje
+
+El diseño de aprendizaje es la palanca que decide si la IA produce [[learning-gains|ganancias de aprendizaje]] o un rendimiento meramente inflado por la IA. La evidencia de la base de conocimiento es consistente en esto: **la misma herramienta de IA produce grandes ganancias o un perjuicio neto según cómo se diseñe la experiencia de aprendizaje en torno a ella.** [[instructional-guidance-genai-learning|Hou et al.]] mostraron que un marco de prompting de cinco pasos fundamentado en la teoría del aprendizaje mejoraba significativamente los resultados cognitivos de orden superior, mientras que el acceso a la IA por sí solo no lo hacía; los marcos de [[genai-mindtool-generative-learning|herramienta mental]] y [[airis-cognitively-activated-ai-physics-2026|AIRIS]] preservan el trabajo cognitivo de quien aprende, de modo que se producen ganancias duraderas (y no mera eficiencia en la tarea). Las decisiones de diseño que protegen las [[learning-gains|ganancias de aprendizaje]] —andamiaje que exige un intento del estudiante, [[formative-assessment|evaluación formativa]] con medidas de resultados sin ayuda y una estructura pedagógica que mantiene a quien aprende como agente— reflejan el hallazgo del campo (véase [[learning-gains|ganancias de aprendizaje]]) de que la IA es una ganancia potente cuando ejerce de entrenadora y un perjuicio cuando responde. A la inversa, las lecciones mal diseñadas con IA integrada caen en la [[cognitive-offloading|brecha entre rendimiento y aprendizaje]], donde el éxito aparente enmascara la ausencia de aprendizaje.
+
+### Orientaciones prácticas para diseñadores y desarrolladores
+
+Para quienes diseñan la instrucción, desarrollan cursos y construyen experiencias de aprendizaje asistidas por IA, los hallazgos de la base de conocimiento se traducen en práctica accionable. Conviene marcar un límite antes de las prácticas mismas: el diseño de aprendizaje tal como lo describe esta página es el diseño de un curso para una cohorte conocida, mientras que los mismos principios incorporados a un producto que usarán muchos cursos —impartidos por personas que quien diseña nunca conocerá— son el trabajo de los [[educational-technology-developers|desarrolladores de tecnología educativa]], donde los valores por defecto, la configurabilidad y la documentación tienen peso pedagógico:
+
+**Fundamentar la generación con IA en un modelo instruccional estructurado.** El contenido de IA es tan bueno como la estructura pedagógica que hay detrás: la estructura explícita, y no la fluidez con la IA, determina la calidad. Diseñe en torno a un modelo reconocido (ADDIE, Dick & Carey, prototipado rápido) y codifique explícitamente las decisiones pedagógicas en lugar de confiar en que el modelo las infiera.([[courseblueprint-adaptive-video-generation]])([[jeon-isd-agent-bench-2026]])([[didactical-teacher-assistant-dimensional-modeling]])
+
+**Adoptar un marco a nivel de principios además de un modelo instruccional.** Un modelo a nivel de curso estructura un diseño; un marco publicado fija los criterios que muchos diseños deberían satisfacer. Un ejemplo que merece leerse entero es *Powerful Learning with Emerging Technology* de Digital Promise, que organiza su orientación en tres principios —basado en la evidencia, centrado en quien aprende y constructor de habilidades—, cada uno desglosado en prácticas y estrategias, y vincula la [[privacy|privacidad]], la [[explainable-ai|explicabilidad]] y la equidad a prácticas concretas como obligaciones de seguridad y no como extras opcionales.([[powerful-learning-with-emerging-technology-2025]])
+
+**Usar flujos de trabajo multiagente basados en roles para producir contenidos.** En lugar de un único prompt genérico, orqueste agentes y roles distintos (profesorado docente, diseñador instruccional, coordinador de curso) que colaboren mediante una canalización definida; esto refleja cómo trabajan los equipos reales de curso y produce materiales más completos que un solo prompt.([[instructional-agents-multi-agent-course-gen]])([[wang-multi-agent-systems-learning-designers-2025]])
+
+**Ofrecer orientación instruccional, no solo acceso a la IA.** Tanto si el estudiantado interactúa directamente con la IA como con materiales generados por IA, la orientación basada en la teoría del aprendizaje (por ejemplo, un [[scaffolding|andamiaje]] de prompting por pasos fundamentado en principios de aprendizaje generativo) impulsa resultados de orden superior; el acceso por sí solo no. Diseñe la actividad de aprendizaje en torno a cómo aprende la mente y trate la IA como una «herramienta mental» cognitiva que amplía el pensamiento en lugar de sustituirlo.([[instructional-guidance-genai-learning]])([[genai-mindtool-generative-learning]])
+
+**Hacer el contenido trazable y revisable.** Permita que una persona diseñadora revise y corrija la salida de la IA antes de que llegue a quien aprende, y estructure la generación con IA de modo que la justificación pedagógica (por qué este contenido, en este orden) sea inspeccionable, lo que aborda tanto la calidad como las preocupaciones sobre la opacidad que socavan una instrucción generada con [[trust|confianza]].([[bridging-instructional-design-framework-math]])([[cotal-formative-assessment-scoring-2026]])
+
+**Diseñar para la [[accessibility|accesibilidad]] desde el principio.** Aplique los principios del [[universal-design-for-learning|Diseño Universal para el Aprendizaje]] al construir herramientas de IA y materiales generados por IA, de modo que sirvan a estudiantes diversos, en lugar de adaptar la accesibilidad a posteriori.([[ludia-udl-ai-thought-partner-2026]])
+
+**Planificar para el medio de impartición.** El diseño instruccional para la [[online-teaching-and-learning|enseñanza y el aprendizaje en línea]] no es una traducción neutra del diseño presencial: el medio cambia qué andamiaje, evaluación e interacción son viables, y la IA multiplica tanto las oportunidades ([[personalized-learning|personalización]] escalable, apoyo siempre disponible) como los riesgos ([[academic-integrity|integridad]], [[cognitive-offloading|descarga cognitiva]]) que quienes diseñan deben prever. Diseñe el envoltorio pedagógico de la IA con la misma deliberación en línea que en contextos presenciales.
+
+**Evaluar contra un punto de referencia, no contra sensaciones.** Si está construyendo un agente de diseño instruccional, evalúelo contra un punto de referencia estandarizado y fundamentado en teoría (por ejemplo, [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]) para poder medir si fundamentarse en un marco real de ISD mejora de verdad la salida frente a un LLM genérico.([[jeon-isd-agent-bench-2026]])
+
+- **La IA está remodelando la práctica del diseño instruccional.** [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar e Ilgaz (2026)]] [[meta-analysis-systematic-review|revisan sistemáticamente]] 28 estudios (2020-2025) y encuentran que la IA ayuda a quienes diseñan con la generación de contenidos, las plantillas y la personalización, y se conceptualiza como compañera de trabajo, colaboradora o socia más que como una simple herramienta, aunque la alineación pedagógica y la preparación de los profesionales siguen siendo retos.
+
+## Conceptos conectados
+
+- [[interpreting-and-applying-aied-research]]
+- [[pedagogical-partnerships]] — Alianzas pedagógicas
+- [[online-teaching-and-learning]] — Enseñanza y aprendizaje en línea
+- [[curriculum-design]]
+- [[scaffolding]]
+- [[educational-development]]
+- [[teacher-role]]
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[intelligent-tutoring]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[formative-assessment]]
+- [[higher-ed]]
+- [[k-12]]
+- [[agentic-ai]]
+- [[inclusive-learning]]
+- [[universal-design-for-learning]]
+- [[learning-theories]]
+- [[learning-sciences]]
+- [[learning-gains]]
+- [[behaviorism]]
+- [[educational-technology-developers]]
+- [[pedagogy]] — Paraguas: pedagogías y estrategias de enseñanza en la educación con IA
+- [[stakeholders]] — Paraguas: personas y audiencias en la educación con IA (quienes aprenden, docentes, diseñadores, administradores, responsables de políticas)
+
+## Artículos conectados
+- [[powerful-learning-with-emerging-technology-2025]] — Aprendizaje potente con tecnología emergente
+- [[claassen-learning-analytics-genai-learning-design-2026]] — Analítica del aprendizaje e IA generativa en la toma de decisiones de diseño de aprendizaje
+- [[tang-chatbots-learning-design-2026]] — Uso de chatbots en el diseño de aprendizaje: quienes diseñan se detienen en los resultados y la pedagogía más que en la generación de contenidos (Tang et al. 2026)
+- [[zhou-constructive-alignment-genai-business-2026]]
+- [[ai-student-engagement-online-learning-review-2025]]
+- [[ai-communities-of-inquiry-2026]]
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Modelo de conocimiento híbrido por capas basado en ontologías para el aprendizaje electrónico personalizado
+- [[rewriting-curriculum-genai-pedagogy-2026]] — Reescribir el currículo: cambio pedagógico impulsado por la IA generativa
+- [[lin-llm-interactive-lesson-generation]] — Creación automática con LLM de lecciones de aprendizaje interactivas (Lin et al. 2025)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Patrones de interacción docente-IA en el diseño de lecciones según la experiencia y la competencia en IA (Choi et al. 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — La IA en la educación superior: implicación y papel mediador de los métodos de enseñanza
+- [[curriculum-as-code-instructional-design-2026]]
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taxonomía (objeto frontera) para clasificar actividades de aprendizaje con IA generativa
+- [[instructional-agents-multi-agent-course-gen]]
+- [[didactical-teacher-assistant-dimensional-modeling]]
+- [[instructional-guidance-genai-learning]]
+- [[courseblueprint-adaptive-video-generation]]
+- [[bridging-instructional-design-framework-math]]
+- [[cotal-formative-assessment-scoring-2026]]
+- [[genai-mindtool-generative-learning]]
+- [[ludia-udl-ai-thought-partner-2026]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[pchl-he-framework-genai-content-creation-2026]]
+- [[jeon-isd-agent-bench-2026]]
+- [[ai-web-agents-lesson-design-2025]] — Agentes web de IA: un agente web autónomo evalúa diseños de lección y predice el abandono del estudiantado antes de que este se implique (Wang, Mitchell y Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: un marco para la ampliación cognitivamente activada con IA en física
+- [[wang-multi-agent-systems-learning-designers-2025]]
+- [[ai-tpack-teacher-multi-agent-workflow]]
+- [[halani-designing-for-reach-2026]] — Diseñar para el alcance: siete palancas y el estudiante a solas con la IA
+- [[vargas-situated-learning-ai-review-2024]]
+- [[vargas-ai-catalyst-situated-learning-2026]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]
+- [[fowlin-operationalizing-learning-principles-ai]]
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: evaluación de LLM multimodales para la auditoría de diapositivas
+- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: cocreación con IA en el momento oportuno en todas las disciplinas
+- [[ai-video-dual-gatekeeping-2026]] — Cuando decir que no hace mejores vídeos: doble control de acceso para una creación de contenidos con IA pedagógicamente fundamentada
+- [[rhaimi-productivemath-2025]] — ProductiveMath: IA para apoyar el diseño de problemas de fracaso productivo
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — La IA y la práctica del diseño instruccional: una revisión sistemática (Kibar e Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — Tutoría inteligente basada en grafos para dominios dinámicos (2026)
+- [[guillen-curriculum-genai-teacher-competence-2026]] — Evaluación de la competencia digital docente para el diseño curricular con IA generativa (Guillén-Gámez 2026)
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Andamiaje ICAP adaptativo en un ITS (BKT frente a DRL)
+- [[preservice-teacher-agency-genai-design-learning-2026]] — La agencia de futuros docentes durante las interacciones con IA generativa en el diseño para el aprendizaje (Krushinskaia, Elen y Raes 2026)
+- [[making-ai-annoying-constrained-writing-2026]] — Hacer que la IA resulte molesta a propósito: la restricción en la escritura asistida por IA (Konradt, Boote y Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Modelo de aula inteligente y bucle D-T-E para mejorar la competencia en diseño instruccional en matemáticas de un máster en educación (Zhu et al. 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — Plataforma impulsada por IA que genera problemas de modelización matemática (ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — Co-diseño docente-IA de tareas de aprendizaje: tendencias y perspectivas (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Arquitectura de roles en actividades grupales diferenciadas diseñadas con IA (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — Los LLM como agentes del diseño pedagógico iterativo

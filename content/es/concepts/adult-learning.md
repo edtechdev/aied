@@ -1,7 +1,7 @@
 ---
 title: "Aprendizaje de adultos"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-09-28T20:20:21-04:00"
+updated: "2026-09-28T21:41:14-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -23,7 +23,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **El aprendizaje de adultos** — la teoría y la práctica de educar a personas adultas (andragogía), y cómo se pueden diseñar las herramientas y tecnologías de IA para apoyar la [[agency|autonomía]], la experiencia previa y la relevancia para el mundo real de quienes aprenden siendo adultos. Se explora en 9 artículos de esta base de conocimiento.
+> **El aprendizaje de adultos** — la teoría y la práctica de educar a personas adultas (andragogía), y cómo se pueden diseñar las herramientas y tecnologías de IA para apoyar la [[agency|autonomía]], la experiencia previa y la relevancia para el mundo real de quienes aprenden siendo adultos. Se explora en 13 artículos de esta base de conocimiento.
 
 ## Preguntas para reflexionar
 

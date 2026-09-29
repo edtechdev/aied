@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-28T03:40:56-04:00"
+updated: "2026-09-28T21:21:51-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -38,7 +38,7 @@ Self-efficacy is distinct from actual competence: it is a belief about capabilit
 - **Creative self-efficacy in children:** [[niu-genai-children-creative-thinking-cognitive-development-review-2026|Niu et al. (2026)]] report, in a systematic scoping review of 22 primary studies of generative AI with children aged 6 to 15, that gains in creative self-efficacy cluster with divergent thinking and narrative creativity, mostly through text-to-image tools that lower the barrier between idea and artifact. They stop short of claiming efficacy: the designs are heterogeneous, the review performed no critical appraisal, and the corpus is nearly silent on disability, low-connectivity and underserved learners, so creative confidence is an outcome reported to rise rather than one the field has confirmed.
 - **Teacher self-efficacy:** [[teacher-ai-competency|Teacher AI competency]] research examines how [[educational-development|professional development]] builds teachers' confidence in using AI, which affects adoption and integration. [[ai-supported-ementoring-efl-preservice-2026|Ismael, Luo & Li (2026)]] add quasi-experimental evidence that an AI-supported e-mentoring model raises EFL pre-service teachers' self-efficacy and emotional intelligence during the practicum: the experimental group gained substantially more than controls on both measures, with a large between-group effect and gains across all self-efficacy subdomains — and the authors attribute them to mentoring AI-mediated within structured reflective cycles rather than to the AI alone.
 - **Feedback and confidence:** [[ai-feedback-quality|AI feedback]] and [[intelligent-tutoring|tutoring]] can build learner self-efficacy by providing actionable, supportive feedback.
-- **Empowerment in AI [[problem-solving]]:** Zhu and Kong (2026) find that students' empowerment in using AI for problem solving mediates the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. In their SEM analysis of 1,027 students, PBL fostered conditions that empowered students to use AI for problem solving, which in turn drove course satisfaction — evidence that building students' confidence and capability with AI is a key mechanism of effective AI literacy education.
+- **Empowerment in AI [[problem-solving]]:** [[ai-literacy-course-satisfaction-pbl-scale-2026|Zhu and Kong (2026)]] find that students' empowerment in using AI for problem solving mediates the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. In their SEM analysis of 1,027 students, PBL fostered conditions that empowered students to use AI for problem solving, which in turn drove course satisfaction — evidence that building students' confidence and capability with AI is a key mechanism of effective AI literacy education.
 
 Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student-experience]], [[ai-literacy]], [[agency]], and [[educational-robotics]]. Building self-efficacy is a key mechanism through which AI supports engagement and learning. Self-efficacy is measured almost entirely by [[self-report-measures|self-report]], so its associations with observed behavior deserve the usual caution.
 

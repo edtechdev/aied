@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Detección de IA
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-09-28T20:16:26-04:00"
+updated: "2026-09-28T21:21:51-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -64,7 +64,7 @@ Incluso un detector interpretable que rinde bien mantiene sus errores en el nive
 
 Los problemas definicionales y procedimentales conviven con los estadísticos. [[wright-transcription-not-generation-2026|Wright (2026)]] sostiene que las prohibiciones generales sobre el «uso de IA» se redactan en torno a la identidad de la plataforma y no a su función, de modo que capturan la conversión de formato no generativa — transcripción de voz a texto, OCR, texto plano a LATEX — junto con la redacción generativa que pretenden impedir; y como los detectores leen la escritura de baja perplejidad como autoría de máquina, los falsos positivos resultantes recaen con más fuerza sobre el estudiantado con discapacidad y expuesto a la [[equity-in-ai-education|inequidad]]. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] llega a la versión de diseño de la misma conclusión y sitúa la detección, como mucho, como una capa suplementaria de la infraestructura de integridad, ya que pregunta si se usó IA generativa y no cómo se tomaron las decisiones.
 
-La investigación sobre detección también conlleva un argumento de validez que sobrevive a las cuestiones de precisión. Weidlich (2026) trata la salida del detector como una señal condicional y probabilística que puede motivar una indagación adicional pero no puede por sí sola establecer mala conducta o competencia, lo que convierte una gobernanza centrada en la detección en una base insuficiente para sostener la [[assessment-validity|validez de la evaluación]]. El rendimiento de la clasificación varía de forma sistemática entre herramientas, tipos de tarea, disciplinas, versiones de modelo y prácticas de edición humano-IA, y la escritura STEM formulista es especialmente susceptible al sesgo algorítmico. Los intentos de restaurar la seguridad de la evaluación mediante la detección corren entonces el riesgo de introducir varianza irrelevante para el constructo, amenazando la equidad y la interpretación de las puntuaciones.
+La investigación sobre detección también conlleva un argumento de validez que sobrevive a las cuestiones de precisión. [[weidlich-inference-at-risk-assessment-validity-2026|Weidlich (2026)]] trata la salida del detector como una señal condicional y probabilística que puede motivar una indagación adicional pero no puede por sí sola establecer mala conducta o competencia, lo que convierte una gobernanza centrada en la detección en una base insuficiente para sostener la [[assessment-validity|validez de la evaluación]]. El rendimiento de la clasificación varía de forma sistemática entre herramientas, tipos de tarea, disciplinas, versiones de modelo y prácticas de edición humano-IA, y la escritura STEM formulista es especialmente susceptible al sesgo algorítmico. Los intentos de restaurar la seguridad de la evaluación mediante la detección corren entonces el riesgo de introducir varianza irrelevante para el constructo, amenazando la equidad y la interpretación de las puntuaciones.
 
 ## Por qué no usar (ni intentar usar) detectores de IA
 

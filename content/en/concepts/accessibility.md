@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack]
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-22T04:20:00-04:00"
+updated: "2026-09-28T21:37:06-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -29,7 +29,7 @@ Accessibility is distinct from, but closely related to, three neighboring concep
 
 ### Why the distinction matters
 
-A video with accurate captions and a properly tagged transcript is *accessible*; a course that structures discussion to include a Deaf learner's communication preferences is *supporting that learner*. They overlap — accessible media is a prerequisite for inclusive instruction — but they require different design moves and draw on different evidence. Accessibility is anchored in standards and law (WCAG, the U.S. [[educational-policy-ai|Assistive Technology Act]] and IDEA), while accessible learning and special education are anchored in pedagogy and [[student-experience|learner experience]].
+A video with accurate captions and a properly tagged transcript is *accessible*; a course that structures discussion to include a Deaf learner's communication preferences is *supporting that learner*. They overlap — accessible media is a prerequisite for inclusive instruction — but they require different design moves and draw on different evidence. Accessibility is anchored in standards and law (WCAG, the U.S. [[assistive-technology|Assistive Technology Act]] and IDEA), while accessible learning and special education are anchored in pedagogy and [[student-experience|learner experience]].
 
 ### Key research themes
 
