@@ -1,7 +1,7 @@
 ---
 title: "Levels of Education"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-09-20T13:08:39-04:00"
+updated: 2026-09-28T21:44:10-04:00
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -16,7 +16,7 @@ confidence: medium
 reviewed_by: [editor]
 ---
 
-> **Levels of education** — the bands that organize this knowledge base's `level` metadata: **preschool**, **primary education**, **middle school**, **secondary**, **k 12**, **higher ed**, **undergraduate**, **graduate**, **adult learning**, **special education** and **[[teacher-role|teacher]] education**. This page is the umbrella for that field rather than a duplicate of any single band page: it explains what changes as you move across the bands, why the school/university break matters more than the subject being taught, and where the AI evidence is dense and where it is thin.
+> **Levels of education** — the bands that organize this knowledge base's `level` metadata: **preschool**, **primary education**, **middle school**, **secondary**, **K-12**, **higher ed**, **undergraduate**, **graduate**, **adult learning**, **special education** and **[[teacher-role|teacher]] education**. This page is the umbrella for that field rather than a duplicate of any single band page: it explains what changes as you move across the bands, why the school/university break matters more than the subject being taught, and where the AI evidence is dense and where it is thin.
 
 ## Questions to Consider
 
@@ -27,7 +27,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-The `level` metadata field names the band of education a source is about — bands, not ages: **preschool**, **primary education**, **middle school**, **secondary**, **k 12**, **higher ed**, **undergraduate**, **graduate**, **adult learning**, **special education**, **teacher education**. Some name a stage of schooling, two name the very different halves of university study, two name a [[learners|learner population]] rather than a stage, and one names the people who teach. A source can carry several bands at once.
+The `level` metadata field names the band of education a source is about — bands, not ages: **preschool**, **primary education**, **middle school**, **secondary**, **K-12**, **higher ed**, **undergraduate**, **graduate**, **adult learning**, **special education**, **teacher education**. Some name a stage of schooling, two name the very different halves of university study, two name a [[learners|learner population]] rather than a stage, and one names the people who teach. A source can carry several bands at once.
 
 This page is the umbrella for that field; the band pages do the deep work and should be read with it: [[k-12]], [[early-childhood-elementary-ai-education]], [[higher-ed]], [[adult-learning]], [[special-education]], [[teacher-education]] and [[vocational-education]].
 
