@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 217 concepts, 1498 articles, and 32 FAQs.
+> Complete text of 217 concepts, 1501 articles, and 32 FAQs.
 
 # Concepts
 
@@ -13002,6 +13002,7 @@ Teacher readiness is decisive. [[pre-service-science-teachers-ai-perceptions-202
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
+- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
 
 ---
 
@@ -13149,6 +13150,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[genai-writing-performance-meta-analysis-2026]] — Meta-analysis of GenAI writing performance: large pooled effect, fragile magnitude, methodology over pedagogy (Teng 2026)
 - [[customizing-ai-writing-pedagogy-systematic-review-2026]] — Systematic review of AI writing customization and the theory–design mismatch (Luo 2026)
 - [[human-ai-collaboration-academic-writing-2026]] — Structured human–AI collaboration in academic writing and digital critical thinking (Alshehri et al. 2026)
+- [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
 
 ---
 
@@ -14268,6 +14270,7 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher intervention in K-12 AI-based instruction: a systematic review
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
 
 ---
 
@@ -15294,6 +15297,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 - [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
 - [[nazaretsky-feedback-source-bias-2025]] — Who gives feedback matters: source labels shift ratings when the text is held comparable (Nazaretsky et al. 2025)
+- [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
 
 ---
 
@@ -16629,6 +16633,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 - [[llm-graders-computer-science-exams-2026]] — Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams
 - [[llm-automated-coding-teacher-pck-2026]] — Multi-agent LLM (GradeOpt) coding teachers' open-ended CK and PCK responses, reliability from prompt refinement against a coding manual
+- [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
 
 ---
 
@@ -18905,6 +18910,8 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - **Synthetic benchmarks for AI tutoring.** Open, reproducible datasets for evaluating AI tutoring remain scarce. ASTRA (Adaptive Socially-intelligent Team Reasoning Agents) is a multi-agent tutoring prototype and benchmark framework for studying collaborative programming with socially differentiated agents, supporting alone-tutor, pair-tutor, and pair-multiagent configurations (N=540; 360 sessions; 1,440 episodes) with a trace-ready schema for reproducible analysis of interaction, participation balance, and verification.
 - **Auditing benchmarks is now a research contribution in its own right.** Three 2026 artifacts push benchmark work past leaderboard aggregation. EduFair-Bench holds a simulated student fixed and varies demographic attributes, turning a tutoring benchmark into a fairness audit with turn-level pedagogical metrics ([[edufair-bench-pedagogical-fairness-llm-tutors-2026]]). GeoVAD-Bench diagnoses intermediate visual constructions — perception, auxiliary quality, utilization — rather than final correctness on 600 [[math-education|geometry]] problems ([[geovad-bench-visual-chain-of-thought-geometry-2026]]). Expert re-grading of six [[physics-education|physics]] benchmarks quantified the error such scores carry: 57.20% of audited rejections were item defects, 38.00% grader errors and only 4.80% true model failures ([[frontier-models-physics-benchmark-audit-2026]]). Together they argue that a benchmark score should always be read with its own audited error budget, which is the same discipline [[assessment-validity]] asks of classroom instruments.
 - **Decoupled annotation and question generation as a construction paradigm.** Most benchmarks build task-specific question–answer pairs per item or image, which makes extending to new tasks expensive, makes data hard to reuse across tasks, and leaves limited control over question form and complexity. MUSE inverts the order: annotate each artwork once into a reusable structured representation of its visual and semantic content, then instantiate 12 tasks from predefined generation rules, so one image yields a multi-view evaluation instance with difficulty and format treated as explicit design variables rather than by-products ([[muse-vlm-artistic-image-benchmark-2026]]). Its correlation evidence is a second argument for the design — the 12 tasks measure related but non-redundant capabilities (Jigsaw Puzzle correlates weakly with most others, ρ = 0.25 to −0.10), and on six external benchmarks general multimodal scores transfer unevenly to artistic educational imagery (BLINK Jigsaw vs. MUSE Jigsaw ρ = −0.20), which is the construct-coverage case against reading any single aggregate score as a proxy for educationally relevant capability ([[muse-vlm-artistic-image-benchmark-2026]]).
+- **K-12 science coverage and the saturation problem.** An NGSS-aligned benchmark for middle and high school science (1,078 + 1,150 synthetic items, three-judge validated) found nine open-weight models above 90% one-shot accuracy, while classical item statistics showed high difficulty values and low discrimination: model size did not predict performance, and the authors ask whether the test is too easy ([[llm-benchmark-secondary-science-topics-2026]]). It is the domain-specific case for reading a benchmark's own item statistics alongside its leaderboard.
+
 
 ## Connected Concepts
 
@@ -18942,6 +18949,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
 - [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
+- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
 
 ---
 
@@ -20953,8 +20961,6 @@ Mainstream AI and educational-technology research has historically been dominate
 - **Disability and [[inclusive-learning|inclusion]] in the Global South:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] — a [[qualitative-research|qualitative]] case study of 21 visually impaired undergraduates across three Palestinian universities — found GenAI bridges digital, geographic, and socioeconomic divides for disabled learners, extending [[technology-acceptance-model|technology-acceptance]] research to disability contexts where [[usability-research|usability]], affordability, and [[accessibility]] are mutually reinforcing.
 - **Designing for local stressors under resource constraints:** Bashir and Afzal (2026) build [[culturally-aware-student-stress-chatbot-2026|Sukoon]] as a Global South design response to a documented mismatch — mental-health [[conversational-ai|chatbots]] trained mostly on Western datasets and overwhelmingly English-language, while Pakistani students face academic, financial, familial, and relational stressors simultaneously and often cannot raise emotional difficulties with [[parents-and-families|parents]], [[teacher-role|teachers]], or peers because of stigma. The authors' practical constraints are as instructive as their model: a free-access [[open-source]] [[llm]] through a hosted API for low resource requirements, a lightweight Flask deployment for regional universities, "tools are available but often expensive" listed as a barrier, and unequal access to paid models flagged as a general dependency risk. They also note the classifier was trained on a publicly available dataset not representative of Pakistani students, and commit to locally collected DASS-21 data before drawing population conclusions.
 - **Thin and tool-specific assessment evidence from African higher education:** [[genai-assessment-african-higher-education-review-2026|A PRISMA 2020 systematic review]] of empirical research published between 2023 and 2025 located only ten studies, concentrated in Nigeria and South Africa and conducted almost exclusively on ChatGPT, so what is known about redesigning assessment for generative AI in African higher education rests on small-sample, single-institution, self-reported studies rather than measured learning gains — the review's authors frame their recommendations as directions rather than settled effects.
-
-- **Data-localization as a design constraint:** [[deepedu-v1-vietnamese-education-ai-tutoring-2026|DeepEdu-v1]] is a self-hosted Vietnamese tutoring stack built because routing student records to foreign servers would violate national data-localization law, and because models trained on Western-centric corpora cannot be trusted on the national textbook curriculum. Its contribution is infrastructure rather than measured learning: 7.7 times fewer retrieval calls and roughly 35% lower prefill latency than a published selective-attention baseline.
 
 ### Implications
 
@@ -33399,6 +33405,53 @@ Kenneth Holman (2024). [Exploring Fraction Comprehension and Interest in Element
 
 ---
 
+## [AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools](https://edtechdev.github.io/aied/articles/ai-powered-writing-feedback-awe-review-2026/)
+
+> **Synthesis:** This review synthesizes 50 empirical studies published between 2019 and 2024 on how AI-powered feedback shapes [[writing-education]]. The authors find that Automated Writing Evaluation (AWE) tools such as Grammarly, Quillbot and DeepL Write improve writing precision, fluency and grammatical proficiency through immediate, customized [[feedback]], and that they support organization and [[self-directed-learning]]. Three themes organize the evidence: writing accuracy improvement (25 studies), engagement and motivation (20 studies) and reduced [[teacher-role|teacher]] workload (15 studies). It also documents risks — weaker [[critical-thinking]] and [[creativity]] in learners who lean heavily on AWE, shallow discourse-level feedback, and tools tuned to standardized English norms. It positions AWE as supplementary [[scaffolding]]: [[formative-assessment]] works best when automated [[automated-assessment]] feedback is paired with teacher mediation, peer review and explicit [[feedback-literacy]] instruction.
+
+## Key Findings
+
+1. Across 50 studies from 2019 to 2024, AWE tools improved writing accuracy; 25 studies reported gains in grammar, punctuation and sentence structure from immediate [[feedback]].
+2. Accuracy improvement was the largest theme at 41.7%, ahead of [[student-engagement|student engagement]] and motivation at 33.3% (20 studies) and teacher workload and interaction at 25% (15 studies).
+3. Personalized feedback raised engagement, [[prompt-engineering|prompting]] repeated revision and greater [[self-directed-learning]] as students tracked their own progress between drafts.
+4. AWE tools cut teachers' mechanical correction workload, freeing time for higher-order concerns — argument development, coherence, organization — and for more teacher-student interaction.
+5. Overreliance on [[automated-assessment]] feedback was linked to weaker [[critical-thinking]] and creativity, while tools still misidentify correct structures and give thin discourse-level guidance.
+
+## What AWE tools change about writing accuracy
+
+The strongest evidence concerns accuracy. Twenty-five studies reported that [[automated-assessment]] tools improved grammar, punctuation and sentence construction, and that learners using Grammarly and Quillbot reduced grammatical mistakes and produced more complex sentences across successive drafts. The mechanism is iterative: because [[feedback]] arrives immediately and can be requested again and again, students revise many times before submission rather than waiting for one teacher response. Accuracy improvement accounted for 41.7% of findings, the largest share. AWE also sits alongside [[automated-essay-scoring]] in the broader family of automated [[assessment]] in [[language-learning]]. Several studies found gains in vocabulary range and coherence, and one six-month study recorded measurable growth in overall writing proficiency — but only where tools were embedded in structured drafting, feedback and revision cycles rather than used as stand-alone aids.
+
+## Motivation, independence and the risk of overreliance
+
+Twenty studies, 33.3% of findings, linked AI-powered feedback to stronger engagement and motivation. Learners valued feedback that was personalized, available at any time, and more comprehensive and reliable than expected; that confidence encouraged more detailed revision and ownership of their progress. AWE supported [[self-directed-learning]]: students could monitor improvement and spot gaps without waiting for a teacher. The same evidence warns that learners depending too heavily on automated suggestions became less critical and less willing to make substantive revisions, drifting toward the system's preferences rather than a developing academic voice — a pattern close to [[cognitive-offloading]]. Because perceptions are subjective, with some students finding the feedback motivating and others boring or excessively critical, the [[motivation|motivational]] benefit is not guaranteed. The authors tie that variability to individual attitudes and to [[feedback-literacy]].
+
+## The changing role of the teacher
+
+Fifteen studies, 25% of findings, documented a reduction in teachers' corrective workload once AWE tools entered the writing classroom. Automated correction of mechanical errors let instructors spend less time reading every paper for surface mistakes and more on higher-order issues such as argument development, topic selection, coherence and organization. That reallocation let teachers interact more with students, discuss ideas and analytical thinking, and give the tailored guidance automated systems cannot provide. The review does not read this as replacement. Human [[feedback]] remains essential for motivational support, for argument structure and rhetorical impact, and for helping students interpret harsh comments. The authors return repeatedly to teacher mediation as the condition that makes [[formative-assessment]] with AI pedagogically coherent, noting that early teacher feedback keeps later [[self-directed-learning]] productive in large or remote [[higher-ed]] classes.
+
+## Cultural and contextual limits of automated feedback
+
+Several limits recur across the studies. AWE tools often misidentify correct structures as errors or miss complex syntactic patterns, eroding learner trust. Most emphasize form and offer little help with discourse-level concerns such as audience awareness, coherence and rhetorical strategy. A deeper problem is cultural: tools built on standardized English norms may not represent the rhetorical traditions of learners from other linguistic backgrounds, risking the marginalization of legitimate styles, particularly in EFL settings. Students using Grammarly reported dissatisfaction with evaluations that followed American spelling and punctuation conventions. Digital literacy also shapes how learners engage with AWE regardless of second-language level, and AI cannot fully capture the diversity of written English. The authors therefore call for pairing [[ai-feedback-quality|automated feedback]] with human guidance, peer review and [[collaborative-learning|collaborative learning]] so accuracy is not pursued at the expense of voice.
+
+## What this means for practice
+
+- **Instructors.** Treat AWE output as a first-pass scaffold: build drafting cycles around the tool, then discuss its suggestions so students learn to judge when [[feedback]] is wrong.
+- **Instructors.** Spend your commenting time on higher-order work — argument, coherence, audience and voice — where the reviewed studies found automated systems weakest.
+- **Instructors.** Teach [[feedback-literacy]] directly: have students compare AWE comments with peer review and with your own, and name the styles the tool undervalues.
+- **Program leaders.** Embed AWE in a structured [[writing-education]] sequence instead of offering it as a stand-alone tool, and fund the teacher mediation learners still need.
+
+## Limitations
+
+- The review covers only empirical English-language peer-reviewed studies published from 2019 to 2024 in Google Scholar, ERIC and ResearchGate, excluding theoretical work and non-ELT contexts.
+- Study counts are inconsistent: the abstract and method describe 50 studies selected for coding, while the findings section discusses 60, and the theme percentages are computed on that larger base.
+- Tool coverage centers on Grammarly, Quillbot and DeepL Write with no links or versions given, and effectiveness rests largely on [[self-report-measures|self-reported]] perceptions of the tools.
+
+## Citation
+
+Gres, E., Riyanti, D., & Yuliana, Y. G. S. (2026). [*AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools*](https://doi.org/10.31943/wej.v10i2.572). Wiralodra English Journal, 10(2).
+
+---
+
 ## [Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost](https://edtechdev.github.io/aied/articles/ai-productivity-moderation/)
 
 > **Synthesis:** This ICML 2026 position paper argues that adopting AI in organizational practice does not automatically yield productivity gains — human and environmental factors critically moderate the relationship. Drawing on the partial equilibrium model of Gries and Naudé (2022), it identifies five key moderators that can attenuate or negate productivity benefits.
@@ -38693,42 +38746,6 @@ Stage-appropriate authenticity: early units get constrained, well-[[scaffolding|
 ## Citation
 
 Kickbusch, S., Ashford-Rowe, K., Kemp, A., Boreland, J., & Huijser, H. (2025). [*Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World*](https://doi.org/10.3390/educsci15111537). *Education Sciences*, 15(11), 1537. DOI 10.3390/educsci15111537.
-
----
-
-## [Beyond Display: From Dynamic Representation to Generative Representational Activity with Large Language Models](https://edtechdev.github.io/aied/articles/beyond-display-generative-representational-activity-2026/)
-
-> **Synthesis:** Adu-Gyamfi asks what, if anything, [[llm|large language models]] add to the history of computational [[math-education|mathematical representation]], and answers with a distinction rather than a new stage. Dynamicity concerns how representational states change and how mathematical relations are maintained across those changes; generativity concerns how states can be specified and computationally instantiated. Treating generativity as a sixth stage of dynamicity therefore conflates two axes. The paper names the configuration that is genuinely new *generative representational activity*: comparatively open discourse specifies mathematical objects, relations, constraints or representational operations, a computational system instantiates a candidate external representation, and that representation remains available for recursive re-specification through later discourse. Its sharpest consequence is evidentiary — a correct-looking product establishes neither that the requested relation was realized nor that the learner coordinated it.
-
-## Key Findings
-- **Generativity is not a sixth stage of dynamicity.** Dynamicity describes how representational states change and how relations are computationally maintained across those changes; generativity describes how states can be specified and instantiated, so the two answer different questions.
-- **Neither component is historically new.** Calculators, graphing systems, computer algebra, spreadsheets and microworlds already generated representational states, and natural-language mathematical input and free-form computational systems predate contemporary language models.
-- **The definition has three necessary parts.** Open discourse must specify mathematically consequential properties or operations, a system must instantiate a candidate representation, and the representation must remain addressable as an object of subsequent discussion.
-- **Discursive specification is not [[prompt-engineering|prompt engineering]].** What counts is whether the discourse articulates the object represented, the relation maintained, what may vary, what must stay invariant, or which conversion is requested.
-- **Four moments must be separated.** Specification, computational execution, mathematical coordination and warrant identify different accomplishments; asking a model to convert a graph to an equation and receiving the right equation establishes execution, not coordination.
-- **Generation does not entail representational fidelity.** In dynamic geometry an invariant can be preserved because its dependency is explicitly constructed, whereas in generative activity a linguistic request to preserve a relation is not itself a constraint-preserving mechanism.
-- **A research program, not a verdict.** The paper sets four problems — separating computational translation from representational coordination, generated representational ensembles, meta-representational activity, and mixed computational ecologies — and requires studies to record the division of representational work.
-
-## Method and Evidence
-This is a theoretical analysis. The author builds a historical comparison across graphing systems, dynamic geometry environments, microworlds, earlier natural-language [[intelligent-tutoring|tutors]] and Wolfram|Alpha, arguing that each countercase already supplied either computational generation or natural-language input but not the combination with recursive re-specification. The argument draws on representation theory and on Moreno-Armella, Hegedus and Kaput's account of the movement from static to dynamic mathematics, using Ainsworth's account of multiple representations to frame the coordination problem. One illustrative episode is analyzed, in which learners iterated prompts until a conversational system produced a three-dimensional representation while some structural features remained unresolved; the author reads it as showing that recursive re-specification is observable without assuming any single representation was mathematically adequate. No experimental design, sample or outcome measure is reported.
-
-## Why the distinction changes what counts as evidence
-The paper's central claim is about evidence rather than about error. Where generative assistance is available, a correct final product cannot show whether the learner specified the relation, the system inferred or executed it, the learner coordinated it, or the relation was independently warranted. That matters because natural-language mathematical specification is often underdetermined: expressions such as "same shape," "grows faster" or "keep the rate" can refer to different formal relations depending on context, and the system must resolve the ambiguity when producing a candidate. Generative activity therefore does not displace formalization; it creates an additional site at which the movement from informal specification to precise condition can be examined. For representational competence, the consequence is that students might complete graph-to-equation or table-to-graph tasks successfully with generative assistance while showing little change in unaided [[transfer-of-learning|translation]], which is why the author wants designs able to distinguish target production from explanation of source-target relations.
-
-## What this means for practice
-- **Instructors.** Ask students to say which moment of the work they performed rather than judging the product: have them state the relation they requested, the invariants they intended, and the grounds on which they accepted the representation the system produced.
-- **Assessment designers.** Treat a correct-looking generated representation as insufficient evidence of [[problem-solving|representational competence]] and require the coordination step to be made visible, for example by comparing an unassisted translation with a generated one.
-- **Curriculum designers.** Treat informal specification as a teachable object: the gap between "make it steeper" and a precise condition on slope is where formalization work now happens, so it belongs in tasks rather than in the prompt.
-- **Educational technology developers.** Do not present a generated representation as an authority on the relation it was asked to preserve; the paper's point is that a linguistic request is not a constraint-preserving mechanism, so fidelity has to be established by inspection.
-
-## Limitations
-- The paper is a theoretical analysis and reports no experimental design, sample, or outcome measure, so its claim that generative environments may externalize a design-critique cycle is framed as a research problem rather than as a demonstrated effect.
-- The single illustrative episode is used to show that recursive re-specification is observable, not that learners coordinated the relations involved; the author states that improvement in the generated product does not establish coordination.
-- The historical countercases are conceptual comparisons rather than empirical tests, and the argument that graphing systems, dynamic geometry and earlier tutors each lacked one element rests on the author's reading of those literatures.
-- The manuscript is posted as a preprint and has not been peer reviewed, and the four proposed research problems are stated without instruments, coding schemes or study designs, so the program is not yet operational.
-
-## Citation
-Adu-Gyamfi, K. (2026). [Beyond Display: From Dynamic Representation to Generative Representational Activity with Large Language Models](https://doi.org/10.21203/rs.3.rs-10706749/v1). Research Square (preprint).
 
 ---
 
@@ -46315,6 +46332,50 @@ Dai, H. M., Ni, K., Meng, H., Ju, B., Crawford, J., & Teo, T. (2026). [*GenAI as
 
 ---
 
+## [Conceptualising Human–AI Collaboration Competency for hybrid intelligence: towards learner agency](https://edtechdev.github.io/aied/articles/dang-human-ai-collaboration-competency-2026/)
+
+> **Synthesis:** Graduate competency frameworks acknowledge that students must learn to work with AI, but they rarely specify what collaboration itself requires, and they tend to leave learner [[agency]] implicit. Dang, Hong, Doyle, and Nguyen propose the Human-AI Collaboration Competency (HACC) framework, which models [[human-ai-collaboration|human-AI collaboration]] as a dynamic configuration of three components — domain competency, [[ai-literacy|AI competency]], and [[metacognition|metacognitive competency]] — and the intersections between them, including the ones it labels Working with AI and Agentic Learning with AI. Where TPACK assigns the integrative work to teachers' pedagogy, HACC assigns it to the learner's own metacognitive regulation, which the authors treat as the mechanism through which [[agency]] is exercised. To probe the framework, they coded interviews with 24 higher education educators in Aotearoa New Zealand into seven HACC dimensions and modeled the connections among them with [[network-analysis|Epistemic Network Analysis]]. Educators recognized every dimension but weighted domain and AI talk most heavily, and role level shifted how strongly they tied AI to metacognition and professional development.
+
+## Key Findings
+
+- HACC defines human-AI collaboration competency as a dynamic configuration of domain, AI, and metacognitive competency rather than a list of AI skills bolted onto an existing curriculum.
+- Learner agency is deliberately excluded as a standalone component; it is the emergent quality learners express when they coordinate the three competencies, supported by metacognition.
+- Its seven dimensions are the three components plus four intersections — Working with AI, Agentic Learning with AI, Agentic Personal and Professional Development, and HACC itself.
+- Twenty-four educators (9 early-career, 8 senior, 7 principal) across New Zealand disciplines recognized all seven dimensions, with domain (12–19%) and AI (16–22%) talk taking the largest share of 1,650 coded units.
+- Metacognition was more prominent among senior educators, who connected it to domain, AI, and learning with AI, matching the claim that students' persistent difficulties are regulatory rather than technical.
+- Principal educators' networks differed significantly from senior educators (U = 10.00, p = .04) and early-career educators (U = 7.00, p = .01) on the first ENA axis, centering on AI with links to HACC and professional development.
+
+## The HACC Framework
+
+The framework describes three components. Domain competency is disciplinary knowledge, conceptual understanding, and reasoning strategies — the epistemic anchor for judging whether AI output is accurate and appropriate. [[ai-literacy|AI competency]] covers operational fluency with AI tools plus an understanding of how systems generate output, their data dependencies, limits, and ethical concerns such as bias and attribution. [[metacognition|Metacognitive competency]] is the capacity to plan, monitor, and evaluate one's own cognition, extended here to managing AI's involvement: deciding when to consult AI, how to frame interactions, how to judge responses, and when to revise or override them. The authors then name the intersections: Working with AI (domain plus AI), Agentic Learning with AI (AI plus metacognition), Agentic Personal and Professional Development (domain plus metacognition), and HACC (all three). Their central move is to argue that the integrative role pedagogy plays in TPACK passes to the learner's own metacognition. Learner agency is not a separate node but the quality students express when they enact these competencies.
+
+## What Educators Recognized
+
+Interview transcripts were segmented into 6,822 utterances and reduced to 1,650 substantively relevant units; two coders independently coded 20% of the data with acceptable agreement (κ = 0.73, individual codes 0.65–0.82). To answer the first research question, the authors compared the share of coded units each dimension drew across role levels. Every HACC dimension appeared in educators' talk. Domain-related talk (12–19% of coded units) and AI-related talk (16–22%) accounted for the largest shares, framing discipline knowledge and skills as the backdrop for reasoning about [[human-ai-collaboration|human-AI collaboration]]. Metacognitive and integrative HACC-level talk appeared more situationally and rose among senior educators. The authors read the pattern as a shared set of competency considerations across role levels, with systematic differences in what educators foregrounded.
+
+## Role Level and the Metacognitive Turn
+
+The second research question asked how educators connect the dimensions, which [[network-analysis|Epistemic Network Analysis]] addressed using a four-utterance moving window over the coded units. Early-career educators' networks clustered around Domain, Working with AI, and AI, with weaker links to professional development and metacognition — an emphasis on disciplinary preparation and AI use for work tasks. Senior educators concentrated edge weight on metacognition, connected to domain, AI, and learning with AI, though the early-career versus senior comparison was not statistically significant (p = .07 on both axes) and is treated as descriptive. Principal educators differed significantly from both other groups on the first axis and showed the strongest co-occurrences around AI with links to HACC, professional development, and metacognition — a shift toward holistic graduate preparation. The authors read this as a consequence of expanding curricular responsibility.
+
+## What this means for practice
+
+- **Instructors.** Keep disciplinary judgment in the loop: design tasks in which students evaluate AI output against disciplinary standards, since educators treated domain competency as the anchor without which AI use becomes shallow.
+- **Instructors.** Make regulatory work visible and consequential through process portfolios, reflective AI-use logs, annotated decision trails, and learning analytics that trace revision, rather than grading the output alone.
+- **Curriculum designers.** Resist isolating AI in a standalone module; map where each course contributes domain, AI, or metacognitive competency and where the intersections are actually reached, because principal educators saw siloed programs as the problem.
+- **Administrators.** Recognize that students' AI choices are made inside assessment rules and integrity policies; clarify levels of acceptable use, because framing AI mainly as misconduct skews learners' judgment.
+
+## Limitations
+
+- HACC does not directly measure learner agency; it names competencies that may support it, so the framework's central claim is conceptual and future work must show how they translate into observable agentic processes.
+- The empirical component is a preliminary, educator-based evaluation: it shows how 24 staff recognized and connected HACC dimensions, not evidence of students' demonstrated competencies or developmental trajectories.
+- Participants came from a single country and the ENA rested on a modest number of participant-level units, so the principal-educator differences and the smaller senior-educator shifts indicate emphasis rather than definitive practice; discipline-level comparison was out of scope.
+
+## Citation
+
+Dang, B., Hong, Y., Doyle, C., & Nguyen, A. (2026). [*Conceptualising Human–AI Collaboration Competency for hybrid intelligence: towards learner agency through a metacognitive perspective*](https://doi.org/10.1080/03075079.2026.2740136). *Studies in Higher Education*.
+
+---
+
 ## [A Scoping Review of AI for Sustainability and Sustainable AI in Higher Education](https://edtechdev.github.io/aied/articles/daniel-ai-sustainability-scoping-review-2026/)
 
 > **Synthesis:** Daniel, Podgorodnichenko, and Carr (2026) conduct a scoping review of two interconnected yet distinct pathways at the intersection of AI and sustainability in [[higher-ed|higher education]]: **AI for Sustainability** (using AI to achieve sustainability outcomes) and **sustainable AI** (reducing the direct environmental and ethical impacts of AI itself). As both users and developers of AI, universities are well-positioned to advance environmental and social goals while ensuring responsible use. The review maps how these concepts are defined, the field's evolution, and universities' actual [[student-engagement|engagement]] with AI for sustainability — finding promising examples (energy management, climate monitoring, green campus programs) but limited scale and a lack of clear ethical or environmental guidelines, with much [[research-methods-aied|research]] remaining conceptual or small-scale.
@@ -46788,43 +46849,6 @@ The proliferation of digital tools in education has intensified distraction — 
 
 ## Citation
 Shi, H., Bi, R., Lin, X., & Dai, Y. (2026). [*Decreasing Digital Distraction in College Students: Associated Online Learning Strategies Identified by Unsupervised Data Mining Approaches*](https://arxiv.org/abs/2609.04125). arXiv:2609.04125.
-
----
-
-## [DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education](https://edtechdev.github.io/aied/articles/deepedu-v1-vietnamese-education-ai-tutoring-2026/)
-
-> **Synthesis:** A team at the Posts and Telecommunications Institute of Technology in Hanoi presents DeepEdu-v1, a self-hosted [[intelligent-tutoring]] stack for Vietnamese schools built on a framework it calls SCALE. The design is driven by two constraints a cloud assistant cannot satisfy: student records may not leave the country under Vietnam's data-localization law (Decree 53), and general models are not organized around the national textbook curriculum, so their answers about local content are unreliable. Its long-context engine issues 7.7 times fewer retrieval calls than a published selective-attention baseline while cutting time to first token by roughly 35%, and its self-improving agentic layer assembles a verified playbook from past sessions instead of fine-tuning. In its deployed configuration the system sustains a nearly 2x time-to-first-token speedup over standard vLLM serving and raises agentic accuracy from 70.0% to 79.5%.
-
-## Key Findings
-- **Two obstacles, not one, rule out a cloud assistant.** Routing educational records to foreign servers violates national data-localization law, and models trained on English-dominant corpora are not organized around the Vietnamese textbook curriculum, so local knowledge is "unsystematic and frequently hallucinated."
-- **Locality of the failure.** The authors cite early Vietnamese ChatGPT deployments asserting that national leaders founded the World Health Organization and that Emperor Quang Trung and his birth name Nguyen Hue were two distinct kings from opposing dynasties.
-- **A long-context engine that amortizes retrieval.** Similarity Chunk Rolling moves token selection from per-sub-chunk to per-cluster granularity, issuing 7.7 times fewer retrieval calls than the TokenSelect selective-attention baseline and cutting prefill latency (time to first token) by roughly 35% while matching or improving task accuracy.
-- **Playbook curation replaces fine-tuning.** The agentic layer continuously builds a verified, curriculum-grounded playbook from past interactions rather than updating weights, avoiding the compute cost of continual fine-tuning and its risk of catastrophic forgetting.
-- **Deployed gains.** In its deployed configuration DeepEdu delivers a nearly 2x time-to-first-token speedup over standard vLLM serving and lifts agentic accuracy from 70.0% to 79.5% on complex tasks.
-- **Where the gains concentrate.** The strongest per-track improvements appear on financial-reasoning and interactive-agent benchmarks, with the design intended to progressively reduce reliance on dominant-language priors as trustworthy local knowledge accumulates.
-
-## Method and Evidence
-This is a system-development paper evaluated on infrastructure and agentic-task [[benchmark|benchmarks]] rather than on students. The two components are a long-context inference engine that amortizes selective sparse attention across similar query chunks, and a self-improving agentic layer that curates a verified playbook through query-aware context engineering. Comparisons are made against TokenSelect for retrieval efficiency and against standard vLLM serving for deployment latency; accuracy is reported on grounded financial-reasoning and interactive-agent benchmarks, and the reported task accuracy moves from 70.0% to 79.5% in the deployed configuration.
-
-The engineering problem is memory, not only weights. Post-training quantization techniques such as AWQ and GPTQ tame the static weight footprint, but as a tutoring session stretches toward a million tokens the dynamic key-value cache overtakes it, and quadratic prefill latency then produces out-of-memory failures and slow responses on consumer-grade GPUs. Kernels such as FlashAttention and PagedAttention alleviate that bottleneck without removing it, which is what motivates the cluster-level retrieval scheme. Grounding is equally expensive the obvious way: continually fine-tuning on an evolving curriculum is computationally prohibitive for the institutions this work targets.
-
-## Why a general assistant is the wrong starting point
-The paper's framing is a policy argument as much as an engineering one. Educational records are sensitive [[privacy|personal data]], and Vietnamese law requires them to stay on-premise, which compels institutions to self-host [[open-source|open models]] rather than call a foreign API. Curriculum grounding is the second half: a tutor that answers fluently but invents local history, or that cannot follow the sequence of the national [[curriculum-design|textbook curriculum]], fails the pedagogical purpose it was deployed for. [[hallucination-risk|Hallucination]] on region-specific material is therefore treated as a deployment blocker rather than a quality nuisance, and it is the stated reason the playbook must be built from verified local interactions instead of relying on pretrained knowledge.
-
-## What this means for practice
-- **Instructors.** Check what a tutoring system actually knows about your curriculum before trusting its explanations: ask it the local, textbook-specific questions your students will ask, and treat fluent wrong answers about regional content as a sign the system is ungrounded rather than a one-off error.
-- **Administrators and institutions.** Treat data-localization obligations as a design requirement that shapes procurement, not as a legal footnote: a deployment that requires routing student records abroad may be unavailable to you regardless of its quality.
-- **Educational technology developers.** Long-context tutoring sessions fail on memory before they fail on accuracy, so budget for the key-value cache and prefill latency that quantization leaves untouched.
-- **Researchers.** Reporting efficiency in retrieval calls and time to first token alongside task accuracy makes a deployment claim checkable, and gives the field a vocabulary for infrastructure constraints that a benchmark-only evaluation would miss.
-
-## Limitations
-- No student learning outcome is measured: the evaluation reports latency, retrieval-call counts and accuracy on financial-reasoning and interactive-agent benchmarks, so the claim that tutoring "could markedly improve learning outcomes" is a motivation for the work, not a result of it.
-- The benchmark evidence is reported without confidence intervals, repeated runs or an ablation separating the contributions of the retrieval engine and the agentic layer, so the share of the 70.0% to 79.5% gain attributable to each is not established.
-- The system is built and evaluated for one language and one national curriculum, with the hallucination examples drawn from other deployments of other systems rather than from a controlled comparison, so transfer to another country is untested.
-- Efficiency figures come from the authors' own hardware and serving configuration; the paper does not report the specifications of the comparison machine, so the nearly 2x speedup may not hold on other consumer GPUs.
-
-## Citation
-Nguyen, Q., Nguyen, H., Hoang, H., Pham, T., Tran, C., & Vu, N. (2026). [DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education](https://arxiv.org/abs/2609.31568). arXiv:2609.31568.
 
 ---
 
@@ -61260,6 +61284,58 @@ Kofinas, A. K., Tsay, C. H.-H., & Pike, D. (2025). [*The impact of generative AI
 
 ---
 
+## [The shifting landscape of assessment in STEM education in the age of generative AI](https://edtechdev.github.io/aied/articles/koretsky-genai-stem-assessment-2026/)
+
+> **Synthesis:** Koretsky, Ding, Chiu, Hallström, and Li review how [[generative-ai|generative AI]] is reshaping [[stem-education|STEM]] assessment through the assessment triangle: cognition (what is assessed), observation (how evidence of learning is elicited), and interpretation (the inferences drawn from that evidence). Their scoping review of literature from Scopus, Web of Science, and ERIC organizes the field into three themes: AI's entanglement with assessment systems, including [[assessment-validity|validity]], redesign, and policy on acceptable use; AI as assessment infrastructure that analyzes evidence and generates feedback; and the fidelity of AI-generated assessment materials. The core argument is that ubiquitous GenAI turns assessment into a validity, design, and capability-definition problem rather than a cheating problem, and that the three vertices of the triangle must be realigned together rather than patched one at a time. As an editorial opening an article collection, it maps a research agenda rather than reporting a study.
+
+## Key Findings
+
+- **Validity, not cheating, is the frame.** GenAI disrupts the inference that a submitted product is credible evidence of what a student knows; framing this as [[assessment-validity|validity]] rather than cheating asks whether a task supports defensible interpretations.
+- **Formats are unevenly vulnerable.** An international survey found educators and students saw the validity threat as most salient for essays, take-home exams, and coding, so credibility depends on the conditions of production.
+- **Evidence should move into the process.** Redesign embeds evidence in the solution process — annotated drafts, in-class checkpoints, reflective accounts — alongside [[authentic-assessment|authentic assessment]] and [[oral-assessment|oral exams]] that enrich the observation component.
+- **Authenticity can still be gamed.** Authentic tasks gain meaning for students but need process, performance, and interaction data, and they depend on a culture where students value the work rather than on policing AI use.
+- **Acceptable use is negotiated, and policy is inconsistent.** What counts as acceptable use is task-dependent, so the same behavior is legitimate in one class and misconduct in another, weakening transferable judgment; [[ai-detection|detection]] is unreliable and disadvantages some populations.
+- **AI now sits in the assessment infrastructure.** Tools classify open-ended responses, score essays, and generate [[feedback]], moving from feature-based scoring toward transformer [[llm|large language models]], with the instructor in the loop as the strongest role.
+- **AI-generated tasks need a fidelity check.** Simulated dialogues and learner responses show simplified structures, repetitive behavior, unrealistic errors, and weak responsiveness, so they need a human-in-the-loop evaluation before grounding assessment.
+
+## Validity, acceptable use, and the policy gap
+
+The paper's central move is to treat AI-assisted work as an [[assessment-validity|assessment validity]] question. A student may break no articulated rule and still submit work in which AI performed the consequential intellectual work, so the product no longer evidences the targeted cognition. Restrictive anti-cheating controls cut the other way, reducing accessibility, authenticity, and alignment with professional practice. The authors cite an international survey reporting the validity threat as most salient for essays, take-home exams, and coding. Because AI is routine in professional practice, prohibiting it can produce secure evidence for capabilities students will not need.
+
+Accepted use is socially negotiated: students use chatbots for brainstorming, editing, translation, and partial drafting without regarding it as an [[academic-integrity|integrity]] violation, while institutions developed [[educational-policy-ai|policies]] quickly and unevenly. The authors argue effective policy works at the level of the specific task, with examples tied to the learning goal, model statements, and safe ways for students to ask questions, since [[ai-detection|detection]] is unreliable.
+
+## Redesigning assessment around process and authenticity
+
+If chatbots can reproduce answers to decontextualized, single-correct-answer questions, the authors argue, students see little value in mastering them. Redesign distributes evidence across the process: annotated drafts, in-class checkpoints, and reflective accounts reveal how students frame problems, respond to [[feedback]], and exercise [[evaluative-judgment|judgment]]. [[authentic-assessment|Authentic assessment]] — real-world tasks such as troubleshooting, open-ended design, and interpreting noisy data — gives students meaning, but can be gamed unless design also captures process, performance, and interaction data.
+
+[[oral-assessment|Oral exams]] are described as undergoing a renaissance, observing whether students understand key claims, choices, calculations, or code. Practices include sharing rubrics in advance, recording exams for review and calibration, offering rehearsal, and providing exemplar recordings. The paper also frames [[ai-literacy|AI literacy]] as an emerging competency distinct from foundational disciplinary competence and from judging AI-supported work.
+
+## AI in the assessment infrastructure, and the fidelity of AI-generated materials
+
+The second theme is AI as part of the assessment system itself, largely at the interpretation stage. Applications include classifying open-ended responses, scoring essays and constructed responses, and generating [[feedback]], progressing from feature-based scoring toward transformer [[llm|large language models]]. Their value is greatest when analysis is designed around disciplinary reasoning rather than surface similarity, and they describe a shift from summative scoring toward [[formative-assessment|formative]] uses. Automated results still require validation, and the strongest role is the instructor in the loop.
+
+The third theme concerns AI-generated artifacts such as classroom dialogues, teaching cases, and simulated student work. Available evidence reveals simplified interactional structures, repetitive behaviors, unrealistic student errors, and weak responsiveness to individual learners, and tasks optimized for a domain may still carry inaccurate content or inappropriate cognitive demands. The authors catalog candidate fidelity dimensions — content, linguistic, cognitive, behavioral, structural, and pedagogical, with psychological fidelity raised for future work — and conclude that AI-generated materials need a human-in-the-loop evaluation before they ground learning or assessment.
+
+## What this means for practice
+
+- **Instructors.** Test each AI use against the learning objective it serves, and move evidence into the process with annotated drafts, in-class checkpoints, and reflective accounts so a polished product is not the whole record.
+- **Assessment designers.** Treat understanding of key claims, choices, and calculations as the target, combine formats rather than replacing flexible assessment wholesale, and validate AI-generated tasks on content, structural, and pedagogical fidelity before use.
+- **Administrators and institutions.** Fund and recognize the labor that process checks, authentic tasks, and oral exams require, and renegotiate instructor responsibilities, since detection-based enforcement performs poorly.
+- **Researchers.** Examine how GenAI changes each vertex of the assessment triangle and the connections among them, and test whether integrated designs generate valid evidence.
+
+## Limitations
+
+- It is an editorial scoping review with no participants, intervention, or primary data; the three themes are an organizing synthesis of other studies, and the research directions are proposals.
+- The literature search is not reported reproducibly — no date range, database query strings, hit counts, or screening criteria — so coverage and study selection cannot be checked or replicated.
+- The fidelity dimensions rest on a small set of studies that the authors say present no single comprehensive framework, and variation across them is noted rather than resolved.
+- The authors acknowledge the technology and its tools evolve rapidly, so any review captures only a snapshot in time.
+
+## Citation
+
+Koretsky, M. D., Ding, M., Chiu, T. K. F., Hallström, J., & Li, Y. (2026). [The shifting landscape of assessment in STEM education in the age of generative AI](https://doi.org/10.1186/s40594-026-00648-5). *International Journal of STEM Education*, 13, Article 59.
+
+---
+
 ## [Agentic AI in Education: State of the Art and Future Directions](https://edtechdev.github.io/aied/articles/kostopoulos-agentic-ai-education-2025/)
 
 > **Synthesis:** This [[meta-analysis-systematic-review|narrative synthesis]] (2015–2025) of [[agentic-ai|agentic AI]] in education provides a definitional and conceptual scaffold for a fragmented field. It **operationalizes "agentic"** via a six-criterion checklist ([[agency|autonomy]], reasoning, memory, planning, goal-directed action, learning/adaptation) requiring at least four criteria to qualify — excluding reactive [[conversational-ai|chatbots]] — and organizes the space along three axes: **pedagogical role, autonomy level (reactive → adaptive → proactive → collaborative), and embodiment** (text-based, avatar/graphical, embodied/robotic). It reviews benefits ([[personalized-learning|personalization]], [[motivation]], [[teacher-role|teacher]] assistance) against challenges ([[cognitive-offloading|over-scaffolding]], opacity, [[bias-mitigation|bias]], equity) and charts future directions toward pedagogically-aware, interoperable, explainable, and ethically governed agents — arguing agentic AI should be a human-AI [[human-ai-collaboration|co-teaching]] partner, not a teacher replacement.
@@ -63852,6 +63928,45 @@ Copur-Gencturk, Y., Moreno, K., Chu, Y., Li, H., & Tang, J. (2026). [*Automated 
 ## Citation
 
 Jukiewicz, M. (2026). [*A systematic comparison of Large Language Models for automated assignment assessment in programming education: Exploring the importance of architecture and vendor*](https://doi.org/10.1016/j.caeo.2026.100364). *Computers and Education Open*, 100364. https://doi.org/10.1016/j.caeo.2026.100364
+
+---
+
+## [A Benchmark for LLM's Understanding of Middle School and High School Science Topics](https://edtechdev.github.io/aied/articles/llm-benchmark-secondary-science-topics-2026/)
+
+> **Synthesis:** Educators choosing a [[llm|large language model]] for [[science-education|science]] teaching have had no [[benchmark]] built on the content their [[k-12|K-12]] students study. This paper supplies two: an NGSS-aligned middle school set of 1,078 items and a high school set of 1,150 items, generated with Sonnet 4.6 Thinking, quality-gated, and validated by a three-judge [[llm|LLM]] panel. Nine open-weight models answered every item three times; OSS 120b led both benchmarks at 0.98 one-shot accuracy, but OSS-20b and Nemotron 3 Nano 30b a3 matched models several times larger, and model size did not predict accuracy. Most models scored above 90%, leaving [[item-response-theory|item difficulty]] high and discrimination low — a saturation pattern that makes the authors ask whether the test is too easy. A human reviewer — a science [[teacher-role|teacher]] of grades 7–12 for 10 years — judged 236 of 240 sampled items aligned (98.3%) while flagging missing diagrams, data interpretation, and mathematical representation.
+
+## Key Findings
+1. Nine open-weight LLMs from six labs answered every item three times under one zero-shot prompt; OSS 120b ranked first on both benchmarks at 0.98 one-shot accuracy.
+2. Model size did not predict performance: OSS-20b reached 0.94 and 0.96 one-shot, while Nemotron 3 Nano 30b a3 reached 0.97 on both benchmarks.
+3. Most models scored above 90% on both benchmarks, and majority-vote ensembles lifted accuracy by only 1% to 5%, with no model degrading.
+4. Building the 1,078 middle school and 1,150 high school items required rejecting and regenerating 4,433 and 1,770 candidate questions that failed the quality gates.
+5. Item-level quality was weak: difficulty was high, discrimination low, and trivial items (95% or more correct) exceeded 90% in some standard-and-question-type cells.
+6. Human review of 240 sampled items judged 236 (98.3%) aligned with their assigned NGSS standards and four (1.7%) misaligned, with no incorrect reference answers found.
+
+## Building a standards-aligned benchmark
+The ground-truth sets cover the 12 middle school and 12 high school science areas defined by the NGSS, generated with Sonnet 4.6 Thinking as question–answer pairs balanced across recall, conceptual understanding, and applied reasoning. Every candidate item passed a four-tier gate: near-duplicate removal at a rapidfuzz token-set ratio threshold of ≥ 88, a Flesch–Kincaid readability band (5.0–9.0 middle school, 5.0–13.0 high school), an item-level appropriateness check, and validation by a three-judge panel of Nemotron 3 Super 120b a12, Gemini Flash 3, and OSS 120b. Items drawing disagreement or unanimous rejection were dropped; disagreements occurred on 45 middle school and 44 high school items. The authors treat this as [[educational-measurement|educational measurement]], a question of [[assessment-validity|validity]]: a [[benchmark]] supports inferences only as far as its tasks represent the intended domain. Synthetic generation carries a reliability caveat, since candidate items and judgments both came from models.
+
+## What the leaderboard shows
+Nine open-weight models from six labs answered every question three times under one standardized zero-shot prompt, scored by a single [[llm|LLM]] judge. Most exceeded 90% on both benchmarks. The authors instead stress that small, locally deployable models held their own: OSS-20b scored 0.94 and 0.96, and Nemotron 3 Nano 30b a3 scored 0.97 on both while using fewer average tokens (433.70 middle school, 539.00 high school) than OSS-20b (556.10 and 723.60). Nemotron was significantly better than the rest at the middle school level under McNemar tests with Holm-Bonferroni corrections; at the high school level those differences were not significant. Models scoring well overall scored well across all 12 NGSS areas and all three item types, so model selection has to be deliberate rather than size-driven.
+
+## Item quality and the saturation problem
+Classical [[educational-measurement|test theory]] expects items that separate respondents; these largely did not. Mean item difficulty was high, mean item discrimination was low, and trivial items — 95% or more correct — exceeded 90% in some standard-and-question-type cells, such as HS-PS4 recall and HS-ETS1 recall, each at 1.00 difficulty. Only one question was broken (5% or fewer of the models answered correctly): an MS-LS2 recall item. The authors state plainly that their [[benchmark]] may be too easy, leaving open whether the items need improvement or secondary science has become tractable for this class of models. Because the datasets are fully synthetic, with no [[human-in-the-loop-ai|human oversight]] during item generation, they call for human-curated item comparisons, noting that text-only questions cannot exercise every NGSS [[curriculum-design|performance expectation]].
+
+## Human review of the items
+A former science teacher with 10 years of experience teaching grades 7–12 — an author who had no role in generating the items — reviewed a sample of 120 middle school and 120 high school question–answer pairs for standard alignment and reference-answer correctness. Of 240 items, 236 (98.3%) aligned and 4 (1.7%) were misaligned; 119 of 120 middle school items (99.2%) aligned, and the high school set accounted for three misalignments. No incorrect reference answers were found. The four rejected items sat close to their standard's content but omitted the primary relationship, practice, or representation the performance expectation is built around. The sample also contained no diagrams, figures, or graphs, no data interpretation tasks, and mathematical relationships expressed only in prose.
+
+## What this means for practice
+- **Instructors.** Treat model choice as a decision, not a default: OSS-20b and Nemotron 3 Nano 30b a3 matched larger models, so pilot a candidate on the science unit you teach.
+- **Administrators and institutions.** Favor open-weight models sized for local hosting; the best accuracy-per-token performers run under 100b parameters and keep student data local.
+- **Developers.** Use these NGSS-aligned sets as a fixed baseline when fine-tuning or building item-generation pipelines; above 90% is the floor.
+- **Researchers.** Move beyond single-turn recall and conceptual items toward multi-turn, evidence-based feedback, which the authors call the missing standard.
+
+## Limitations
+- Human review covered only 120 middle school and 120 high school items out of 1,078 and 1,150; the authors say that sample is not evidence about the full dataset.
+- Item metrics were poor — high difficulty, low discrimination, trivial shares above 90% in some cells — and the authors cannot separate weak items from model competence.
+
+## Citation
+Schroeder, N. L., Ambarwati, Y. E., Zhang, Y., & Zhai, C. (2026). [*A Benchmark for LLM's Understanding of Middle School and High School Science Topics*](https://arxiv.org/abs/2609.32020). arXiv.
 
 ---
 
@@ -77360,6 +77475,45 @@ Embodied robots are increasingly used to support second-language (L2) learning, 
 ## Citation
 
 Wang, Y., Zhang, Z. J., & Zou, D. (2026). [*Multimodality and Social Interactions in AI-Enhanced Embodied Robot-Assisted Language Learning: A Meta-Analysis*](https://doi.org/10.1016/j.edurev.2026.100833). *Educational Research Review*.
+
+---
+
+## [AIED unplugged, teacher workload, and numeracy learning: a clustered quasi-experimental mixed-methods study](https://edtechdev.github.io/aied/articles/rodrigues-aied-unplugged-numeracy-2026/)
+
+> **Synthesis:** Rodrigues and colleagues report what they describe as the first quasi-experimental evaluation of an "AIED unplugged" (AIED-U) system in authentic classrooms, testing a paradigm in which the teacher acts as the proxy between learners and the AI: students keep working with paper and pen while the teacher photographs their solutions, and the system returns [[personalized-learning|personalized]] exercise lists, [[automated-assessment|automated assessment]], and error-specific feedback. Across 19 Brazilian public-school classes randomly assigned to a control, a teacher-training, or a training-plus-system condition, students taught by trained teachers outperformed the control group, while the training and experimental conditions did not differ from each other. Perceived workload did not differ significantly across conditions, yet workload was negatively associated with learning gains, and the system produced a positive indirect effect on those gains through reduced teacher effort. The authors read the pattern as preliminary evidence that [[teacher-role|teacher-mediated AI]] can reach students it never touches directly, where the [[digital-divide|digital divide]] rules out one device per student.
+
+## Key Findings
+- Students taught by trained teachers outperformed the control group in the training condition (estimated difference 15.15, 95% CI [0.84, 31.10]) and the experimental condition (12.31, 95% CI [0.34, 21.86]).
+- Adding the AIED-U system to that training produced no further direct learning gain: the experimental and training conditions did not differ (−4.33, 95% CI [−17.29, 7.23]).
+- Perceived workload on the raw NASA-TLX did not differ significantly across conditions on any of the six subscales after adjustment, though the experimental group rated Mental Demand and Effort lowest.
+- Teacher workload was negatively associated with student [[learning-gains|learning gains]], most clearly for Mental Demand (coefficient −2.569) and Effort (−2.436).
+- The system had a positive indirect effect on learning gains through reduced Effort (3.649, 95% CI [1.097, 6.398]), which remained significant after p-value adjustment.
+- Teachers valued ready-made exercise lists and progress reports, but reported that photographing work, waiting for processing, and correcting recognition errors added time and attention.
+- Of 320 consenting students, 221 completed both tests; 99 (30.9%) were absent for one of them, and attrition did not differ across conditions (Fisher's exact test, p = 0.125).
+
+## Where the learning advantage came from
+The study ran in four Brazilian public urban schools across 19 third- and fourth-year elementary classes, allocated to control (3 classes), training (9), or experimental (9) conditions; two experimental teachers withdrew before student consent was collected, leaving 19 teachers. Learning gains were the difference between [[item-response-theory|Item Response Theory]]-based pre- and post-test proficiency scores normalized to a 0 to 100 scale. The control condition recorded a mean learning gain of −11.13, while training (5.30) and experimental (0.84) groups moved upward. Because the training and experimental conditions did not differ, the authors trace the advantage over usual practice to training rather than to the technology, concluding that "the technology alone does not replace the fundamental need for teacher preparation." The training was a single 50-minute session on planning, delivering, and assessing lessons through a competence-based framework aligned with Brazil's national curriculum.
+
+## Workload: a short, inconclusive test
+No NASA-TLX subscale separated the conditions after adjustment; Physical Demand carried the only unadjusted signal (p = 0.038, adjusted p = 0.269). With three, nine, and seven teachers per condition, the authors caution that the null may reflect either no effect or an effect the sample was too small to detect, and warn against reading it as definitive. What held together was the relationship structure: robust multilevel models linked higher workload to lower learning gains, and a mediation analysis found the experimental condition reduced teacher Effort, which was in turn associated with better gains. The authors label this mechanism exploratory, because workload was observed alongside the post-test rather than manipulated.
+
+## Teachers describe a conditional tool
+Thematic analysis of the interviews produced a mixed picture. Teachers valued preparation support — "We spend hours and hours looking for activities, and in the blink of an eye, it already provides everything better for us" — and reported that students were motivated by activities "created and will be corrected by technology." Yet the same accounts describe added labor: photographing sheets, waiting for processing, re-checking recognition failures (one teacher counted the app recognizing three of four items), reevaluating assessments click by click, and managing a class while operating a phone. Reports sometimes mismatched what teachers knew of their classes, eroding [[trust]]. One teacher's summary captures the paper's own framing: "If it really comes to work, and a few corrections are made, it will be very useful for teachers, who are already overloaded."
+
+## What this means for practice
+- **Instructors.** Treat teacher training as the active ingredient: the learning advantage over usual practice traced to preparation, not to the system, and the training and experimental conditions were indistinguishable on gains.
+- **Instructors.** Budget for the workflow around the tool, not just the tool — photographing solutions, waiting for processing, and fixing recognition errors were the stages teachers said cost the most time.
+- **Administrators and institutions.** Pair any deployment of [[teacher-role|teacher-mediated AI]] with sustained professional development and realistic time for the added capture-and-verify step, because workload was negatively associated with learning gains here.
+- **Researchers.** Treat the effort-mediated indirect effect as a hypothesis to confirm rather than a result to build on; the authors call for replications over longer interventions and with more robust recognition components.
+
+## Limitations
+- The teacher sample is very small: 3 teachers in control, 9 in training, and 7 in experimental, which the authors say leaves the workload null open to both no effect and insufficient statistical power.
+- The intervention lasted four lessons over two weeks in a single domain (numeracy) and one national context (Brazil), so the authors frame the estimates as preliminary, requiring confirmation at a larger scale.
+- Schools were selected purposively through the research team's network, and 99 of 320 consenting students (30.9%) missed one test and could not contribute a learning gain.
+- The mediation analysis is exploratory, since workload was observed and reported alongside the post-test rather than manipulated.
+
+## Citation
+Rodrigues, L., Guerino, G., Silva, T. E., Bianchini, L., Alves, M., Chalco Challco, G., Vieira, T., Marinho, M., Macario, V., Dermeval, D., Bittencourt, I. I., & Isotani, S. (2026). [AIED unplugged, teacher workload, and numeracy learning: a clustered quasi-experimental mixed-methods study](https://doi.org/10.1186/s40561-026-00465-x). *Smart Learning Environments*.
 
 ---
 
