@@ -1,12 +1,19 @@
 #!/usr/bin/env python3
-"""Build aied.epub of the AI Ed Wiki: home intro + use-with-AI + all concepts
-(organized into chapters by the umbrella groups) + FAQs.
+"""Build the offline edition (EPUB + PDF) of the AI Ed Wiki: home intro +
+use-with-AI + all concepts (organized into chapters by the umbrella groups) +
+FAQs + a resources chapter.
+
+`--locale <code>` builds a translated edition from that locale's own collections
+and built pages, writing public/aied.<code>.epub, public/aied.<code>.pdf and
+dist/aied-export.<code>.md. The default locale keeps the unprefixed names, the
+English copy written in this file, and its existing notice.
 
 Metadata: title from site.config.json, the editor name from site.config.json
 (never hardcoded here), CC0 public-domain dedication, and the generation date.
 Wiki [[wikilinks]] that resolve to concepts/FAQs present in the EPUB become
 internal anchors so navigation works inside the reader.
 """
+import argparse
 import os
 import sys, re, glob, subprocess, datetime, json, sys
 
@@ -56,16 +63,78 @@ AI_HOW_MADE = (
 )
 ORIGIN = SITE_URL[: -len(BASE)] if SITE_URL.endswith(BASE) else SITE_URL
 
-CONCEPTS_DIR = str(content_paths.collection('concepts'))
-FAQS_DIR = str(content_paths.collection('faqs'))
-RESOURCES_DIR = str(content_paths.collection('resources'))
+# --- locale -----------------------------------------------------------------
+# The default locale keeps the unprefixed artifact names (public/aied.epub,
+# public/aied.pdf, dist/aied-export.md); every other locale carries its code as
+# an infix, mirroring the route model and the llms files (llms.es.txt). The
+# chapter copy, the collection content and the front-matter note all follow the
+# requested locale.
+def _parse_args():
+    ap = argparse.ArgumentParser(
+        description='Build the offline EPUB/PDF edition for one locale.')
+    ap.add_argument('--locale', default=None,
+                    help='locale code (default: the site default locale)')
+    return ap.parse_args()
+
+
+LOCALE = _parse_args().locale or content_paths.DEFAULT_DIR
+IS_DEFAULT = LOCALE == content_paths.DEFAULT_DIR
+if LOCALE not in content_paths.LOCALES:
+    raise SystemExit(f'build-epub: unknown locale {LOCALE!r}; configured locales: '
+                     f'{", ".join(content_paths.LOCALES)}')
+SUFFIX = '' if IS_DEFAULT else f'.{LOCALE}'
+
+# The locale's own metadata: the label that identifies the language in the book
+# title, and the machine-translation note the front matter must carry. Both come
+# from site.config.json so the note cannot drift from the site's.
+LOCALE_ENTRY = next((e for e in ((SITE.get('i18n') or {}).get('locales') or [])
+                     if e.get('code') == LOCALE), {})
+LOCALE_LABEL = LOCALE_ENTRY.get('label') or LOCALE
+OFFLINE_NOTE = LOCALE_ENTRY.get('offlineDescription') or ''
+BOOK_TITLE = NAME if IS_DEFAULT else f'{NAME} ({LOCALE_LABEL})'
+BOOK_LANG = LOCALE
+# The note is the locale's own; the default edition's notice text stays as it is.
+OFFLINE_NOTE_HTML = (f'\n    <p><em>{OFFLINE_NOTE}</em></p>'
+                     if OFFLINE_NOTE and not IS_DEFAULT else '')
+
+
+def _ui_label(key, default):
+    """One chrome label from src/i18n/ui.<locale>.ts.
+
+    The default locale keeps the English literal written in this file; a
+    translated edition reads the label the site itself renders, so the book and
+    the site cannot disagree."""
+    if IS_DEFAULT:
+        return default
+    try:
+        with open(os.path.join(WIKI, 'src', 'i18n', f'ui.{LOCALE}.ts'),
+                  encoding='utf-8') as fh:
+            txt = fh.read()
+    except FileNotFoundError:
+        return default
+    m = re.search(r"^\s*" + re.escape(key) + r":\s*'((?:[^'\\]|\\.)*)'", txt, re.M)
+    return m.group(1).replace("\\'", "'") if m else default
+
+
+CONNECTED_FAQS_LABEL = _ui_label('connected_faqs', 'Connected FAQs')
+CONNECTED_RESOURCES_LABEL = _ui_label('connected_resources', 'Connected Resources')
+
+CONCEPTS_DIR = str(content_paths.collection('concepts', LOCALE))
+FAQS_DIR = str(content_paths.collection('faqs', LOCALE))
+RESOURCES_DIR = str(content_paths.collection('resources', LOCALE))
 INDEX_TS = os.path.join(WIKI, 'src', 'data', 'conceptIndex.ts')
-OUT = os.path.join(WIKI, 'public', 'aied.epub')
+OUT = os.path.join(WIKI, 'public', f'aied{SUFFIX}.epub')
 
 # --- load slug sets + redirects ---
 concept_slugs = {c[:-3] for c in os.listdir(CONCEPTS_DIR) if c.endswith('.md')}
 faq_slugs = {f[:-3] for f in os.listdir(FAQS_DIR) if f.endswith('.md')}
-article_slugs = {a[:-3] for a in os.listdir(content_paths.collection('articles')) if a.endswith('.md')}
+# Articles are the one collection that is not translated: a translated edition
+# still links its article wikilinks to the English article pages, which are the
+# only ones that exist. A locale that does translate them is picked up here.
+_ARTICLES_DIR = content_paths.collection('articles', LOCALE)
+if not _ARTICLES_DIR.is_dir():
+    _ARTICLES_DIR = content_paths.collection('articles')
+article_slugs = {a[:-3] for a in os.listdir(_ARTICLES_DIR) if a.endswith('.md')}
 
 # FAQ slug -> title map (for the Connected FAQs sections)
 faq_titles = {}
@@ -139,6 +208,30 @@ def convert_links(txt):
     epub_wikilink = re.compile(r'\^?' + WIKILINK_RE.pattern)
     return epub_wikilink.sub(repl, txt)
 
+def _site_link(href, label):
+    """One link from a site page -> an EPUB internal anchor when the target is in
+    this book, else a link to the live site.
+
+    The default edition carries every concept, so every concept URL is an
+    internal anchor; a translated edition only anchors the concepts it actually
+    holds, and links the rest out to the live site. The FAQ and use-with-AI
+    chapters keep their anchors in every edition, so links to them survive the
+    translated heading."""
+    for prefix in ('/aied/concepts/', f'/aied/{LOCALE}/concepts/'):
+        if href.startswith(prefix):
+            slug = href[len(prefix):].rstrip('/').split('/')[0]
+            if slug and (IS_DEFAULT or slug in concept_slugs):
+                return f'[{label}](#{slug})'
+            return f'[{label}]({ORIGIN}{href})'
+    if href.rstrip('/') in ('/aied/faq', f'/aied/{LOCALE}/faq'):
+        return f'[{label}](#frequently-asked-questions)'
+    if href.rstrip('/') in ('/aied/ai', f'/aied/{LOCALE}/ai'):
+        return f'[{label}](#use-this-knowledge-base-with-your-own-ai-assistant)'
+    if href.startswith('http'):
+        return f'[{label}]({href})'
+    return f'[{label}]({ORIGIN}{href})'
+
+
 def process_md(path, slug, hlevel):
     raw = open(path, encoding='utf-8').read()
     title = page_title(raw, slug)
@@ -156,7 +249,7 @@ def process_md(path, slug, hlevel):
             if t and t in faq_slugs:
                 connected.append(t)
     if connected:
-        lines = ['\n## Connected FAQs\n']
+        lines = ['\n## ' + CONNECTED_FAQS_LABEL + '\n']
         for t in connected:
             lines.append(f'- [{faq_titles.get(t, smart_title(t.replace("-", " ")))}](#{t})')
         body = body.rstrip('\n') + '\n' + '\n'.join(lines) + '\n'
@@ -245,38 +338,52 @@ def _strip_element(html_text, class_fragment):
     return ''.join(out)
 
 
-def _built_page_html(astro_path):
+def _built_page_html(astro_path, locale=None):
     """Map a page under src/pages to its built file under dist/ (or None).
 
     Used when a page's chapter copy cannot be read from the .astro source, e.g.
     index.astro now renders <HomePage locale="en" /> and the text lives in the
     i18n modules. The built page is the same copy with those expressions already
-    resolved."""
+    resolved. A non-default locale reads that locale's own build under
+    dist/<locale>/, where the translated copy is resolved."""
     rel = os.path.relpath(astro_path, os.path.join(WIKI, 'src', 'pages'))
     stem = rel[:-len('.astro')] if rel.endswith('.astro') else rel
+    root = os.path.join(WIKI, 'dist')
+    if locale and locale != content_paths.DEFAULT_DIR:
+        root = os.path.join(root, locale)
     candidates = [
-        os.path.join(WIKI, 'dist', stem + '.html'),
-        os.path.join(WIKI, 'dist', stem, 'index.html'),
+        os.path.join(root, stem + '.html'),
+        os.path.join(root, stem, 'index.html'),
     ]
     for c in candidates:
         if os.path.exists(c):
             return c
     return None
 
-def astro_body_markdown(astro_path, chapter_h1):
+def astro_body_markdown(astro_path, chapter_h1, locale=None, anchor=None):
     """Extract the body content of a .astro page (between <BaseLayout> and
     </BaseLayout>) and convert its simple HTML to markdown, so the EPUB always
     reflects the current site pages instead of a hardcoded copy.
-    Concept/FAQ/wiki links become internal EPUB anchors; external links stay."""
+    Concept/FAQ/wiki links become internal EPUB anchors; external links stay.
+
+    For a translated edition (`locale` other than the default) the chapter copy
+    comes from that locale's built page under dist/<locale>/, where the i18n
+    expressions are resolved, never from the English page source. `anchor`
+    attaches an explicit id to the chapter heading, so internal links keep
+    working once the heading itself is translated."""
     src = open(astro_path, encoding='utf-8').read()
     m = re.search(r'<BaseLayout\b[^>]*>(.*?)</BaseLayout>', src, re.S)
     body = m.group(1) if m else None
+    if locale and locale != content_paths.DEFAULT_DIR:
+        # A translated edition never reads the English page source: its copy is
+        # that locale's built page.
+        body = None
     if body is None:
         # The page may delegate its markup to a component (index.astro renders
         # <HomePage locale="en" />), in which case there is no literal body to
         # read here and the chapter copy comes from the built page instead,
         # where the i18n expressions are already resolved.
-        built = _built_page_html(astro_path)
+        built = _built_page_html(astro_path, locale)
         if built:
             html = open(built, encoding='utf-8').read()
             bm = re.search(r'<!--\s*export:page:start\s*-->(.*?)<!--\s*export:page:end\s*-->',
@@ -346,17 +453,7 @@ def astro_body_markdown(astro_path, chapter_h1):
 
     def link(m):
         href, label = m.group(1), m.group(2)
-        label = _html.unescape(label).strip()
-        if href.startswith('/aied/concepts/'):
-            slug = href.rstrip('/').split('/')[-1]
-            return f'[{label}](#{slug})'
-        if href in ('/aied/faq', '/aied/faq/'):
-            return f'[{label}](#frequently-asked-questions)'
-        if href in ('/aied/ai', '/aied/ai/'):
-            return f'[{label}](#use-this-knowledge-base-with-your-own-ai-assistant)'
-        if href.startswith('http'):
-            return f'[{label}]({href})'
-        return f'[{label}]({ORIGIN}{href})'
+        return _site_link(href, _html.unescape(label).strip())
     body = re.sub(r'<a\b[^>]*href="([^"]+)"[^>]*>(.*?)</a>', link, body, flags=re.S)
 
     def heading(m, level):
@@ -404,13 +501,129 @@ def astro_body_markdown(astro_path, chapter_h1):
     body = _html.unescape(body)
     body = re.sub(r'\n{3,}', '\n\n', body)
     body = re.sub(r'[ \t]+\n', '\n', body)
-    return f"# {chapter_h1}\n\n{body.strip()}\n"
+    heading_line = f"# {chapter_h1}" + (f" {{#{anchor}}}" if anchor else "")
+    return f"{heading_line}\n\n{body.strip()}\n"
+
+def _export_region(built_path):
+    """The chapter-copy slot of a built page, between the export markers."""
+    try:
+        with open(built_path, encoding='utf-8') as fh:
+            html_text = fh.read()
+    except OSError:
+        return None
+    m = re.search(r'<!--\s*export:page:start\s*-->(.*?)<!--\s*export:page:end\s*-->',
+                  html_text, re.S)
+    return m.group(1) if m else None
+
+
+def _first_h1(html_text):
+    """The text of the first <h1> in a fragment, tags stripped."""
+    m = re.search(r'<h1\b[^>]*>(.*?)</h1>', html_text, re.S)
+    if not m:
+        return None
+    t = _html.unescape(re.sub(r'<[^>]+>', '', m.group(1)))
+    return re.sub(r'\s+', ' ', t).strip() or None
+
+
+def _extract_element(html_text, class_fragment):
+    """Inner HTML of the first element whose class contains class_fragment.
+
+    Counts nesting of the same tag name, like _strip_element: a non-greedy regex
+    stops at the first closing tag and would truncate a nested widget."""
+    open_re = re.compile(r'<([a-z][a-z0-9]*)\b[^>]*class="[^"]*'
+                         + re.escape(class_fragment) + r'[^"]*"[^>]*>', re.I)
+    m = open_re.search(html_text)
+    if not m:
+        return None
+    tag = m.group(1)
+    depth, i, end = 1, m.end(), None
+    step = re.compile(rf'<(/?){tag}\b[^>]*?(/?)>', re.I)
+    while depth and i < len(html_text):
+        n = step.search(html_text, i)
+        if not n:
+            break
+        if n.group(1) == '/':
+            depth -= 1
+            if depth == 0:
+                end = n.start()
+                break
+        elif not n.group(2):
+            depth += 1
+        i = n.end()
+    return html_text[m.end():end if end is not None else len(html_text)]
+
+
+def _fragment_markdown(fragment):
+    """Minimal HTML -> markdown for a page's intro block: paragraphs, inline
+    emphasis and links, which is all the FAQ/resources openers use."""
+    t = re.sub(r'<style.*?</style>', '', fragment, flags=re.S)
+    t = re.sub(r'<script.*?</script>', '', t, flags=re.S)
+    t = re.sub(r'<a\b[^>]*href="([^"]+)"[^>]*>(.*?)</a>',
+               lambda m: _site_link(m.group(1), _html.unescape(m.group(2)).strip()),
+               t, flags=re.S)
+    t = re.sub(r'<strong>(.*?)</strong>', r'**\1**', t, flags=re.S)
+    t = re.sub(r'<em>(.*?)</em>', r'*\1*', t, flags=re.S)
+    t = re.sub(r'<br\s*/?>', '\n', t)
+    t = re.sub(r'</p>', '\n\n', t)
+    t = re.sub(r'<[^>]+>', '', t)
+    t = _html.unescape(t)
+    t = re.sub(r'[ \t]+', ' ', t)
+    t = re.sub(r'\n{3,}', '\n\n', t)
+    return t.strip()
+
+
+def built_chapter_intro(stem, default_h1):
+    """(chapter title, intro markdown) from this locale's built page under dist/.
+
+    The copy a reader sees above a collection (the FAQ and resources openers)
+    lives on the site page, not in the collection, so a translated edition takes
+    its localized heading and intro from that locale's built page instead of
+    re-using the English copy written in this file."""
+    path = os.path.join(WIKI, 'dist', LOCALE, stem, 'index.html')
+    region = _export_region(path) if os.path.exists(path) else None
+    if region is None:
+        return default_h1, None
+    intro = _fragment_markdown(_extract_element(region, 'page-intro') or '')
+    return (_first_h1(region) or default_h1), (intro or None)
+
+
+def built_group_headings(stem):
+    """The resource group labels, in page order, from this locale's built page."""
+    region = _export_region(os.path.join(WIKI, 'dist', LOCALE, stem, 'index.html'))
+    if not region:
+        return []
+    out = []
+    for raw in re.findall(r'<h2[^>]*class="[^"]*group-heading[^"]*"[^>]*>(.*?)</h2>',
+                          region, re.S):
+        out.append(re.sub(r'\s+', ' ', _html.unescape(re.sub(r'<[^>]+>', '', raw))).strip())
+    return out
+
 
 # Front-matter chapters are built from the live site pages so the EPUB stays in
-# sync with the site (no hardcoded copies to drift).
-parts.append(astro_body_markdown(os.path.join(WIKI, 'src', 'pages', 'index.astro'), 'Introduction'))
-parts.append(astro_body_markdown(os.path.join(WIKI, 'src', 'pages', 'ai.astro'),
-                                 'Use This Knowledge Base with Your Own AI Assistant'))
+# sync with the site (no hardcoded copies to drift). A translated edition reads
+# that locale's built pages under dist/<locale>/ and takes each chapter title
+# from the page's own localized H1, so the heading and the body agree.
+INDEX_ASTRO = os.path.join(WIKI, 'src', 'pages', 'index.astro')
+AI_ASTRO = os.path.join(WIKI, 'src', 'pages', 'ai.astro')
+# The site's own links point at this anchor, so a translated heading keeps it.
+AI_CHAPTER_ANCHOR = 'use-this-knowledge-base-with-your-own-ai-assistant'
+if IS_DEFAULT:
+    INDEX_H1 = 'Introduction'
+    AI_H1 = 'Use This Knowledge Base with Your Own AI Assistant'
+    AI_ANCHOR = None
+else:
+    _index_region = _export_region(os.path.join(WIKI, 'dist', LOCALE, 'index.html'))
+    _ai_region = _export_region(os.path.join(WIKI, 'dist', LOCALE, 'ai', 'index.html'))
+    if _index_region is None or _ai_region is None:
+        raise SystemExit(
+            f'build-epub: no built {LOCALE} pages under dist/{LOCALE}/. '
+            'Run the site build first (npm run build).')
+    INDEX_H1 = _first_h1(_index_region) or 'Introduction'
+    AI_H1 = _first_h1(_ai_region) or 'Use This Knowledge Base with Your Own AI Assistant'
+    AI_ANCHOR = AI_CHAPTER_ANCHOR
+AI_CHAPTER_LINE = AI_H1 + (f' {{#{AI_ANCHOR}}}' if AI_ANCHOR else '')
+parts.append(astro_body_markdown(INDEX_ASTRO, INDEX_H1, locale=LOCALE))
+parts.append(astro_body_markdown(AI_ASTRO, AI_H1, locale=LOCALE, anchor=AI_ANCHOR))
 
 # Concepts organized by umbrella groups
 for heading, groups in sections:
@@ -426,11 +639,18 @@ for heading, groups in sections:
             parts.append(f"\n### {title} {{#{slug}}}\n\n{body}")
 
 # FAQs
-parts.append("""# Frequently Asked Questions
+if IS_DEFAULT:
+    parts.append("""# Frequently Asked Questions
 
 This section answers common questions about **AI in education** — what the research says about how AI affects teaching and learning, and how educators, instructors, and instructional designers can put that evidence into practice. Each answer distills findings from the research summarized across this knowledge base, connecting the question to the relevant concepts and articles for deeper reading.
 
 """)
+else:
+    # Translated edition: the localized heading and intro come from the locale's
+    # built FAQ page, and the anchor keeps the site's own
+    # '#frequently-asked-questions' links working under the translated heading.
+    _faq_h1, _faq_intro = built_chapter_intro('faq', 'Frequently Asked Questions')
+    parts.append(f"# {_faq_h1} {{#frequently-asked-questions}}\n\n{_faq_intro or ''}\n")
 def _faq_weight(path):
     s = open(path, encoding='utf-8').read()
     m = re.search(r'^weight:\s*([0-9]+)', s, re.M)
@@ -462,7 +682,13 @@ A curated set of **free tools, collections, instruments and formats** for AI in 
 Not everything here is interactive. Alongside browser tools you will find libraries of ready-made prompts and "gems", collections of classroom activities, briefing and policy documents, assessment instruments, and open file formats. Each entry says who made it, what kind of thing it is, whether the source code is available, and what it costs to use. Every entry links to an external site this knowledge base does not control; the link-checked date records when a link was last confirmed to work. The same list lives at the knowledge base site under Resources.
 
 """
-parts.append(resources_intro)
+if IS_DEFAULT:
+    parts.append(resources_intro)
+else:
+    # Translated edition: the localized heading and intro come from the locale's
+    # built resources page; the list itself is rendered below from the collection.
+    _res_h1, _res_intro = built_chapter_intro('resources', 'Free Tools and Resources')
+    parts.append(f"# {_res_h1} {{#free-tools-and-resources}}\n\n{_res_intro or ''}\n")
 
 RESOURCE_GROUP_ORDER = [
     'software', 'ai tutor', 'agent skill', 'prompt or gem library',
@@ -506,12 +732,26 @@ for path in resource_paths:
         'connected': _rlist(fm, 'connected_resources'),
     }
 
+# Group labels: the default edition titles each group from its resource_type
+# slug; a translated edition takes the localized labels from its built resources
+# page, paired in order and guarded by the group count so a mismatch falls back
+# to the English label rather than mislabelling a group.
+_groups_present = [
+    g for g in RESOURCE_GROUP_ORDER
+    if any((resource_fields[os.path.basename(p)[:-3]]['type'] or [''])[0] == g
+           for p in resource_paths)
+]
+_group_labels = [] if IS_DEFAULT else built_group_headings('resources')
+if len(_group_labels) != len(_groups_present):
+    _group_labels = []
+_group_label_for = dict(zip(_groups_present, _group_labels))
+
 for group_type in RESOURCE_GROUP_ORDER:
     members = [os.path.basename(p)[:-3] for p in resource_paths
                if (resource_fields[os.path.basename(p)[:-3]]['type'] or [''])[0] == group_type]
     if not members:
         continue
-    parts.append("\n## " + group_type.title() + "\n")
+    parts.append("\n## " + (_group_label_for.get(group_type) or group_type.title()) + "\n")
     for slug in sorted(members, key=lambda s: resource_titles[s]):
         f = resource_fields[slug]
         title, body = process_md(os.path.join(RESOURCES_DIR, slug + '.md'), slug, 3)
@@ -543,7 +783,7 @@ for group_type in RESOURCE_GROUP_ORDER:
             # it ten times). H4 matches the level the resource page's own
             # subheadings are shifted to, and stays out of the TOC at
             # --toc-depth=3 while remaining visible in the body.
-            lines = ['\n#### Connected Resources\n']
+            lines = ['\n#### ' + CONNECTED_RESOURCES_LABEL + '\n']
             for other in f['connected']:
                 if other in resource_titles:
                     lines.append("- [" + resource_titles[other] + "](#" + other + ")")
@@ -557,7 +797,7 @@ combined = '\n\n'.join(parts)
 # AI Assistant" chapter from the TOC (EPUB + PDF). Mark them {.unlisted} so
 # pandoc's --toc omits them, while keeping the headings in the body text.
 use_chap = re.compile(
-    r'(?ms)^(# Use This Knowledge Base with Your Own AI Assistant\n)(.*?)(?=\n# )')
+    r'(?ms)^(# ' + re.escape(AI_CHAPTER_LINE) + r'\n)(.*?)(?=\n# )')
 def _unlist_use(m):
     body = re.sub(r'(?m)^(## .+)$', r'\1 {.unlisted}', m.group(2))
     return m.group(1) + body
@@ -569,7 +809,7 @@ combined = use_chap.sub(_unlist_use, combined)
 # thematic break instead.
 combined = re.sub(r'(?m)^-{3,}[ \t]*$', '***', combined)
 
-md_path = os.path.join(WIKI, 'dist', 'aied-export.md')
+md_path = os.path.join(WIKI, 'dist', f'aied-export{SUFFIX}.md')
 os.makedirs(os.path.dirname(md_path), exist_ok=True)
 with open(md_path, 'w', encoding='utf-8') as f:
     f.write(combined)
@@ -582,9 +822,9 @@ def build_epub():
     date_str = today.strftime('%B %d, %Y')
     cmd = [
         'pandoc', md_path, '-o', OUT,
-        '--metadata', f'title={NAME}',
+        '--metadata', f'title={BOOK_TITLE}',
         '--metadata', f'rights={LICENSE["fullName"]}',
-        '--metadata', 'lang=en',
+        '--metadata', f'lang={BOOK_LANG}',
         '--metadata', f'date={date_str}',
         '--split-level=3',
         '--epub-cover-image=' + os.path.join(WIKI, 'public', 'epub-cover.png'),
@@ -681,7 +921,7 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
                 cc0_b64 = base64.b64encode(cc0).decode('ascii')
                 copyright_html = f"""<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="en" xml:lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="{BOOK_LANG}" xml:lang="{BOOK_LANG}">
 <head>
   <meta charset="utf-8" />
   <title>Notice</title>
@@ -696,8 +936,8 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
 <body epub:type="copyright-page">
   <section epub:type="copyright-page">
     <h1>Notice</h1>
-    <p><strong>{NAME}</strong></p>
-    <p>Edited by {CONTRIBUTOR_NAME_LIST}.</p>
+    <p><strong>{BOOK_TITLE}</strong></p>
+    <p>Edited by {CONTRIBUTOR_NAME_LIST}.</p>{OFFLINE_NOTE_HTML}
     <p>This ebook was produced by an <strong>AI agent</strong> working for a human
     editor, and is dedicated to the
     public domain under a <strong>{LICENSE['name']}</strong> license - no rights reserved. You may copy, modify, distribute, and use the
@@ -755,7 +995,7 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
     return True
 
 
-PDF_OUT = os.path.join(WIKI, 'public', 'aied.pdf')
+PDF_OUT = os.path.join(WIKI, 'public', f'aied{SUFFIX}.pdf')
 PDF_CSS = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'pdf-style.css')
 
 
@@ -773,13 +1013,13 @@ def build_pdf():
     cover_file = pathlib.Path(cover_src).as_uri()
     cc0 = open(os.path.join(WIKI, 'public', os.path.basename(LICENSE['image'])), 'rb').read()
     cc0_b64 = base64.b64encode(cc0).decode('ascii')
-    pre_html = os.path.join(WIKI, 'dist', 'pdf-prefront.html')
+    pre_html = os.path.join(WIKI, 'dist', f'pdf-prefront{SUFFIX}.html')
     os.makedirs(os.path.dirname(pre_html), exist_ok=True)
     notice = f"""<div class="cover-page"><img src="{cover_file}" alt="{NAME}" /></div>
 <section class="notice-page">
   <h1>Notice</h1>
-  <p><strong>{NAME}</strong></p>
-  <p>Edited by {CONTRIBUTOR_NAME_LIST}.</p>
+  <p><strong>{BOOK_TITLE}</strong></p>
+  <p>Edited by {CONTRIBUTOR_NAME_LIST}.</p>{OFFLINE_NOTE_HTML}
   <p>This ebook was produced by an <strong>AI agent</strong> working for a human
   editor, and is dedicated to the
   public domain under a <strong>{LICENSE['name']}</strong> license - no rights reserved. You may copy, modify, distribute, and use the
@@ -822,12 +1062,12 @@ def build_pdf():
         # A bare H3 without an attribute is not a concept/FAQ — leave it.
         return line
 
-    pdf_md = os.path.join(WIKI, 'dist', 'aied-export-pdf.md')
+    pdf_md = os.path.join(WIKI, 'dist', f'aied-export-pdf{SUFFIX}.md')
     with open(pdf_md, 'w', encoding='utf-8') as f:
         f.write('\n'.join(_tag_concept_heading(l) for l in src_md.split('\n')))
 
     # Header CSS injected into the PDF <head> (PDF-only — never touches EPUB).
-    pdf_header = os.path.join(WIKI, 'dist', 'pdf-header.html')
+    pdf_header = os.path.join(WIKI, 'dist', f'pdf-header{SUFFIX}.html')
     with open(pdf_header, 'w', encoding='utf-8') as f:
         f.write(
             '<style>\n'
@@ -839,8 +1079,8 @@ def build_pdf():
     cmd = [
         'pandoc', pdf_md, '-o', PDF_OUT,
         '--pdf-engine=weasyprint',
-        '--metadata', f'title={NAME}',
-        '--metadata', 'lang=en',
+        '--metadata', f'title={BOOK_TITLE}',
+        '--metadata', f'lang={BOOK_LANG}',
         '--toc', '--toc-depth=3',
         '--include-before-body=' + pre_html,
         '--include-in-header=' + pdf_header,
@@ -866,10 +1106,13 @@ def build_pdf():
     try:
         import pikepdf
         with pikepdf.open(PDF_OUT, allow_overwriting_input=True) as pdf:
-            pdf.Root.Lang = pikepdf.String('en-US')
-            pdf.docinfo.Title = NAME
+            # The default edition normalizes to the en-US region subtag; a
+            # translated edition carries its own locale code.
+            pdf_lang = 'en-US' if IS_DEFAULT else LOCALE
+            pdf.Root.Lang = pikepdf.String(pdf_lang)
+            pdf.docinfo.Title = BOOK_TITLE
             pdf.save()
-        print(f"PDF metadata set: /Lang=en-US, Title={NAME!r}")
+        print(f"PDF metadata set: /Lang={pdf_lang}, Title={BOOK_TITLE!r}")
     except Exception as e:  # pragma: no cover - best-effort metadata
         print(f"Warning: could not set PDF metadata ({e})")
     return True

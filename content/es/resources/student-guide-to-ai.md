@@ -1,7 +1,7 @@
 ---
 title: "Student Guide to AI"
 created: "2026-09-29T03:32:26-04:00"
-updated: "2026-09-29T03:32:26-04:00"
+updated: "2026-09-29T04:17:57-04:00"
 type: resource
 summary: "Una guía estudiantil gratuita sobre inteligencia artificial en tres ediciones, de la Universidad de Elon, la AAC&U y The Princeton Review, cuya edición de 2026 desarrolla diez capacidades humanas con módulos de aprendizaje listos para el profesorado y una autoevaluación anónima."
 url: https://studentguidetoai.org/
@@ -17,6 +17,7 @@ ethics: [ethics]
 assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
+confidence: high
 source_updated: "2026-09-28T04:47:03-04:00"
 translation_of: resources/student-guide-to-ai
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."

@@ -7,11 +7,14 @@ import KnowledgeBaseStats from '../KnowledgeBaseStats.astro';
 import TranslationNotice from '../TranslationNotice.astro';
 import { strings } from '../../i18n';
 import { localizeHtml } from '../../i18n/config';
+import { localizeArtifactLinks } from '../../lib/offlineArtifacts';
 
 const { locale } = Astro.props;
 const s = strings(locale).home;
 const ui = strings(locale).ui;
-const L = (html: string) => localizeHtml(html, locale);
+// Copy strings are written in the default locale's terms; this also points
+// their artifact links at this locale's own files when those exist.
+const L = (html: string) => localizeArtifactLinks(localizeHtml(html, locale), locale);
 ---
 
 <BaseLayout title={s.title} locale={locale} toc={s.toc}>
