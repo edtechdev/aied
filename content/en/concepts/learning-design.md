@@ -11,7 +11,6 @@ level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy]
-contributors: [editor]
 reviewed_by: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
