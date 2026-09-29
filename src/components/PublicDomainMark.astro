@@ -1,0 +1,32 @@
+---
+/**
+ * PublicDomainMark — the Creative Commons "public domain" mark (a circled
+ * zero, CC0's `zero.svg`) rendered inline.
+ *
+ * Inline rather than an <img> for three reasons: the paths inherit
+ * `currentColor`, so one asset is legible on the light and the dark theme;
+ * the mark carries no alt text of its own to translate; and the Unicode
+ * circled zero (U+1F10D) that would otherwise stand in for it is missing from
+ * this site's font stack and from most system and e-reader fonts.
+ *
+ * Asset and its licence: src/assets/cc-zero.svg (CC0 1.0, Creative Commons
+ * press kit). The same mark is rasterized for the offline editions by
+ * tooling/gen-pd-mark.mjs.
+ */
+import mark from '../assets/cc-zero.svg?raw';
+
+interface Props {
+  /** Rendered edge length; the mark is square. Defaults to the text size. */
+  size?: string;
+}
+
+const { size = '1.15em' } = Astro.props;
+
+const svg = mark
+  .replace(/<!--[\s\S]*?-->/g, '')          // no comments inside the element
+  .replace(/width="[^"]*"/, `width="${size}"`)
+  .replace(/height="[^"]*"/, `height="${size}"`)
+  .trim();
+---
+
+<Fragment set:html={svg} />

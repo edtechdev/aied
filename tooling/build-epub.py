@@ -36,6 +36,14 @@ EDITOR_NAME = SITE['editor']['name']
 EDITOR_URL = SITE['editor']['contactUrl']
 LICENSE = SITE['license']
 
+# The public-domain mark shown on each edition's Notice page and cover: the CC0
+# "circled zero", rasterized from src/assets/cc-zero.svg (the Creative Commons
+# press kit icon, itself dedicated to the public domain under CC0 1.0) by
+# tooling/gen-pd-mark.mjs. It replaces the old raster badge, whose lettering was
+# the English words "PUBLIC DOMAIN" in every locale — the words beside the mark
+# are now translated (see _pd_mark_html). Path comes from site.config.json.
+PD_MARK_PATH = os.path.join(WIKI, 'public', os.path.basename(LICENSE['mark']))
+
 # Contributors and the AI-use policy also come from site.config.json, so the notice
 # page cannot drift from the evidence the pages carry. AI systems are never
 # contributors: see AI-USE.md for why (COPE/ICMJE authorship position).
@@ -151,7 +159,20 @@ OFFLINE_NOTE_HTML = (f'\n    <p><em>{OFFLINE_NOTE}</em></p>'
                      if OFFLINE_NOTE and not IS_DEFAULT else '')
 
 
-def localized_notice_body(indent, cc0_b64, img_class='cc0'):
+def _pd_mark_html(indent, b64, label, size=28):
+    """The public-domain mark and the name of what it means, on one line.
+
+    The image is the CC0 circled zero; `label` is the locale's own wording for
+    "public domain". The image carries no alt text of its own (empty alt,
+    aria-hidden): the visible label IS the accessible name, and unlike the old
+    badge's fixed English lettering it is translated.
+    """
+    return (f'{indent}<p class="pd-mark">'
+            f'<img src="data:image/png;base64,{b64}" alt="" aria-hidden="true"'
+            f' width="{size}" height="{size}" /> <span>{label}</span></p>')
+
+
+def localized_notice_body(indent, pd_b64):
     """The Notice page's prose, assembled from the locale's own strings
     (site.config.json). Only a translated edition calls this: the default
     edition keeps its English literals inline, so its bytes never change."""
@@ -164,8 +185,7 @@ def localized_notice_body(indent, cc0_b64, img_class='cc0'):
         open_p + _nt('produced', 'This ebook was produced by an AI agent.').format(
             license=LICENSE['name']) + close_p,
         f'{open_p}<strong>{_nt("generated", "Generated")}:</strong> {GENERATED_DATE}{close_p}',
-        f'{indent}<p class="{img_class}"><img src="data:image/png;base64,{cc0_b64}"'
-        ' alt="" aria-hidden="true" width="88" height="31" /></p>',
+        _pd_mark_html(indent, pd_b64, _nt('publicDomain', 'Public Domain')),
         f'{open_p}<strong>&#9888;&#65039; {_nt("disclaimerLabel", "Aviso")}:</strong> '
         + _nt('disclaimerText', 'AI-generated output may contain inaccuracies or errors.')
         + close_p,
@@ -918,7 +938,7 @@ print(f"Wrote {md_path}: {len(combined.splitlines())} lines")
 # --- cover image ------------------------------------------------------------
 # The committed public/epub-cover.png is a single English raster produced by
 # tooling/gen-epub-cover.mjs (Node + sharp): white portrait page, the title,
-# the radial concept map and the CC0 badge. The site renders the concept map
+# the radial concept map and the CC0 public-domain mark. The site renders the map
 # once PER LOCALE (src/components/ConceptMap.astro, labels from
 # src/i18n/pages/home.<locale>.ts), so a translated edition rasterizes its own
 # cover here with Pillow from that locale's labels — same geometry, localized
@@ -989,7 +1009,6 @@ def _locale_cover_path():
         return default
     title_font_path = '/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf'
     node_font_path = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
-    cc0_path = os.path.join(WIKI, 'public', os.path.basename(LICENSE['image']))
     if not (os.path.exists(title_font_path) and os.path.exists(node_font_path)):
         print('Warning: cover fonts not found; using the English cover')
         return default
@@ -1053,9 +1072,12 @@ def _locale_cover_path():
            font=ImageFont.truetype(node_font_path, csize),
            fill='#ffffff', anchor='mm')
 
-    if os.path.exists(cc0_path):
-        badge = Image.open(cc0_path).convert('RGBA').resize((140, 49))
-        img.paste(badge, ((W - 140) // 2, 1260), badge)
+    # Public-domain mark: the CC0 circled zero, square, on the same baseline as
+    # the old 140x49 "PUBLIC DOMAIN" badge it replaces.
+    if os.path.exists(PD_MARK_PATH):
+        M = 64
+        mark = Image.open(PD_MARK_PATH).convert('RGBA').resize((M, M))
+        img.paste(mark, ((W - M) // 2, 1252), mark)
 
     img.save(out)
     print(f'Wrote {out} ({os.path.getsize(out)} bytes)')
@@ -1082,7 +1104,7 @@ def build_epub():
         return False
 
     # Post-process: hard-code hierarchical TOC numbering, build a Copyright
-    # page (with CC0 image), rename the TOC title, and remove Back-to-Contents.
+    # page (with the CC0 mark), rename the TOC title, and remove Back-to-Contents.
     import zipfile, shutil, re as _re, base64
 
     css_rule = """
@@ -1175,10 +1197,10 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
                 text = number_toc(text)
                 data = text.encode('utf-8')
             elif item.filename == 'EPUB/text/title_page.xhtml':
-                # Turn the pandoc title page into a Notice page with CC0 image,
+                # Turn the pandoc title page into a Notice page with the CC0 mark,
                 # AI-generated disclaimer, and how-to-report-issues info.
-                cc0 = open(os.path.join(WIKI, 'public', os.path.basename(LICENSE['image'])), 'rb').read()
-                cc0_b64 = base64.b64encode(cc0).decode('ascii')
+                pd = open(PD_MARK_PATH, 'rb').read()
+                pd_b64 = base64.b64encode(pd).decode('ascii')
                 if IS_DEFAULT:
                     copyright_html = f"""<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
@@ -1189,7 +1211,8 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
   <style>
     body {{ font-family: Georgia, serif; margin: 3em 2em; }}
     h1 {{ font-size: 1.6em; }}
-    .cc0 {{ margin-top: 1.5em; }}
+    .pd-mark {{ margin-top: 1.5em; }}
+    .pd-mark img {{ vertical-align: middle; }}
     p {{ margin: 0.8em 0; }}
   </style>
   <link rel="stylesheet" type="text/css" href="../styles/stylesheet1.css" />
@@ -1204,7 +1227,7 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
     public domain under a <strong>{LICENSE['name']}</strong> license - no rights reserved. You may copy, modify, distribute, and use the
     content for any purpose without asking permission.</p>
     <p><strong>Generated:</strong> {GENERATED_DATE}</p>
-    <p class="cc0"><img src="data:image/png;base64,{cc0_b64}" alt="" aria-hidden="true" width="88" height="31" /></p>
+    {_pd_mark_html('    ', pd_b64, 'Public Domain')}
     <p><strong>&#9888;&#65039; Disclaimer:</strong> AI-generated output may contain
     inaccuracies or errors.</p>
     {AI_HOW_MADE}
@@ -1234,7 +1257,8 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
   <style>
     body {{ font-family: Georgia, serif; margin: 3em 2em; }}
     h1 {{ font-size: 1.6em; }}
-    .cc0 {{ margin-top: 1.5em; }}
+    .pd-mark {{ margin-top: 1.5em; }}
+    .pd-mark img {{ vertical-align: middle; }}
     p {{ margin: 0.8em 0; }}
   </style>
   <link rel="stylesheet" type="text/css" href="../styles/stylesheet1.css" />
@@ -1242,7 +1266,7 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
 <body epub:type="copyright-page">
   <section epub:type="copyright-page">
     <h1>{_nt('noticeLabel', 'Notice')}</h1>
-{localized_notice_body('    ', cc0_b64)}
+{localized_notice_body('    ', pd_b64)}
   </section>
 </body>
 </html>"""
@@ -1297,8 +1321,8 @@ def build_pdf():
     # Full-page cover + Notice page as HTML fragments injected before the body.
     cover_src = _locale_cover_path()
     cover_file = pathlib.Path(cover_src).as_uri()
-    cc0 = open(os.path.join(WIKI, 'public', os.path.basename(LICENSE['image'])), 'rb').read()
-    cc0_b64 = base64.b64encode(cc0).decode('ascii')
+    pd = open(PD_MARK_PATH, 'rb').read()
+    pd_b64 = base64.b64encode(pd).decode('ascii')
     pre_html = os.path.join(WIKI, 'dist', f'pdf-prefront{SUFFIX}.html')
     os.makedirs(os.path.dirname(pre_html), exist_ok=True)
     if IS_DEFAULT:
@@ -1312,7 +1336,7 @@ def build_pdf():
   public domain under a <strong>{LICENSE['name']}</strong> license - no rights reserved. You may copy, modify, distribute, and use the
   content for any purpose without asking permission.</p>
   <p><strong>Generated:</strong> {GENERATED_DATE}</p>
-  <p class="cc0"><img src="data:image/png;base64,{cc0_b64}" alt="" aria-hidden="true" width="88" height="31" /></p>
+  {_pd_mark_html('  ', pd_b64, 'Public Domain')}
   <p><strong>&#9888;&#65039; Disclaimer:</strong> AI-generated output may contain
   inaccuracies or errors.</p>
   {AI_HOW_MADE}
@@ -1334,7 +1358,7 @@ def build_pdf():
         notice = f"""<div class="cover-page"><img src="{cover_file}" alt="{BOOK_TITLE}" /></div>
 <section class="notice-page">
   <h1>{_nt('noticeLabel', 'Notice')}</h1>
-{localized_notice_body('  ', cc0_b64)}
+{localized_notice_body('  ', pd_b64)}
 </section>"""
     with open(pre_html, 'w', encoding='utf-8') as f:
         f.write(notice)

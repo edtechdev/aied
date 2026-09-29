@@ -9,9 +9,10 @@ Moved out of SKILL.md (2026-09-19) to keep the main skill under its size limit.
 - `scripts/add-backlinks.py` — Re-runnable back-link addition script
 - `scripts/fetch-rss-feeds.py` — Journal RSS feed fetcher (CAEAI, BJET; output JSON for the weekly ingestion cron)
 - `scripts/generate-llms-files.py` — Regenerates `public/llms.txt` and `public/llms-full.txt` from articles/ + content/en/concepts/
-- `build-epub.py` — Regenerates the offline `public/aied.epub` (pandoc) and `public/aied.pdf` (pandoc + weasyprint, then pikepdf for the language metadata) from the wiki markdown; also post-processes the EPUB (Notice page with the generation date, CC0 badge, landmarks, hard-coded TOC numbering)
+- `build-epub.py` — Regenerates the offline `public/aied.epub` (pandoc) and `public/aied.pdf` (pandoc + weasyprint, then pikepdf for the language metadata) from the wiki markdown; also post-processes the EPUB (Notice page with the generation date, the CC0 mark plus its localized "public domain" wording, landmarks, hard-coded TOC numbering)
 - `pdf-style.css` — Print layout for the PDF (A4, page numbers, cover page, clickable blue TOC)
 - `gen-epub-cover.mjs` — Renders the book cover `public/epub-cover.png` (sharp)
+- `gen-pd-mark.mjs` — Rasterizes the CC0 public-domain mark `public/public-domain-mark.png` from `src/assets/cc-zero.svg` (sharp)
 - `gen-og-concept-map.mjs` — Renders the concept-map images (white/dark variants) used in the site OG image, EPUB/PDF cover, and EPUB
 - `scripts/detect-readfile-corruption.py` — Detect and repair wiki pages corrupted by read_file line-number prefixes
 - `cron/daily-scan-prompt.md` — Daily arXiv/EdArXiv/PsyArXiv scan cron prompt

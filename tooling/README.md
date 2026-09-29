@@ -289,9 +289,10 @@ python3 tooling/build-epub.py
 
 This writes `public/aied.epub` and `public/aied.pdf`. Supporting files:
 
-- `tooling/build-epub.py` — assembles the shared markdown export, runs pandoc for the EPUB (hard-coded hierarchical TOC numbering) and pandoc + **weasyprint** for the PDF (clickable blue TOC via CSS counters), post-processes the EPUB (Notice page carrying the generation date, CC0 badge, landmarks labeling), and finishes by setting the PDF language metadata with **pikepdf**.
+- `tooling/build-epub.py` — assembles the shared markdown export, runs pandoc for the EPUB (hard-coded hierarchical TOC numbering) and pandoc + **weasyprint** for the PDF (clickable blue TOC via CSS counters), post-processes the EPUB (Notice page carrying the generation date, the CC0 public-domain mark and its localized name, landmarks labeling), and finishes by setting the PDF language metadata with **pikepdf**.
 - `tooling/pdf-style.css` — PDF print layout (A4, page numbers, cover page, blue clickable links).
 - `tooling/gen-epub-cover.mjs` — renders the book cover (`public/epub-cover.png`) with sharp.
+- `tooling/gen-pd-mark.mjs` — rasterizes the CC0 public-domain mark (`src/assets/cc-zero.svg`, the Creative Commons press-kit `zero.svg`, itself CC0) to `public/public-domain-mark.png`, which the EPUB/PDF Notice page and the covers use. The site inlines the SVG instead (`src/components/PublicDomainMark.astro`), so the mark follows the theme.
 - `tooling/gen-og-concept-map.mjs` — renders the concept-map images.
 
 The EPUB/PDF and cover are committed artifacts (built locally, like `llms-full.txt`) and served from `public/` by the deploy workflow. Requires `pandoc`, and for the PDF the `weasyprint` Python package plus `pikepdf` for the language metadata.

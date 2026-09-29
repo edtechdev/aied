@@ -104,6 +104,8 @@ const he: UiStrings = {
       license: 'License',
       linkChecked: 'Link checked',
     },
+    /** Localized name of the public-domain dedication, shown beside the CC0 mark. */
+    publicDomainLabel: 'נחלת הכלל',
     footerLicenseHtml:
       'האתר הזה נוצר בידי <strong>סוכן בינה מלאכותית</strong> ומוקדש לנחלת הכלל תחת רישיון <a href="{licenseUrl}" class="footer-link" target="_blank" rel="noopener noreferrer">{licenseName}</a>. אין זכויות שמורות.',
     footerIssuesHtml:

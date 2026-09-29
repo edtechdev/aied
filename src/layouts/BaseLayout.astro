@@ -11,6 +11,7 @@ import FaqSidebarList from '../components/FaqSidebarList.astro';
 import PrevNextNav from '../components/PrevNextNav.astro';
 import InstallPrompt from '../components/InstallPrompt.astro';
 import LanguageSwitcher from '../components/LanguageSwitcher.astro';
+import PublicDomainMark from '../components/PublicDomainMark.astro';
 import { localeDir, hasTranslation, DEFAULT_LOCALE } from '../i18n/config';
 import { hasPageCopy, type PageKey } from '../i18n';
 import HeaderMoreMenu from '../components/HeaderMoreMenu.astro';
@@ -1177,6 +1178,24 @@ const recentConceptItems = recentConcepts.map(c => ({
       flex-wrap: wrap;
       justify-content: center;
     }
+    /* The CC0 public-domain mark and its localized name. currentColor drives the
+       inline mark, so it follows --muted-color in both themes. */
+    .public-domain-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.2rem 0.7rem;
+      border: 1px solid var(--muted-border-color);
+      border-radius: 999px;
+      color: var(--muted-color);
+      font-size: 0.8rem;
+      line-height: 1.4;
+      text-decoration: none;
+    }
+    .public-domain-badge:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+    }
     .ai-badge {
       display: inline-flex;
       align-items: center;
@@ -1491,10 +1510,15 @@ const recentConceptItems = recentConcepts.map(c => ({
     </div>
     <div class="container">
       <footer class="site-footer">
-        <!-- Visual Badges -->
+        <!-- Visual badge: the CC0 public-domain mark (an inline SVG, so it takes
+             the theme's text colour and needs no alt text of its own) beside the
+             localized name of what it means. The visible label is the link's
+             accessible name, which is why this is no longer a raster image
+             carrying the English words "Public Domain" in every locale. -->
         <div class="footer-badges">
-          <a href={siteConfig.license.url} target="_blank" rel="noopener noreferrer" title={siteConfig.license.name}>
-            <img src={siteConfig.license.image} alt={siteConfig.license.imageAlt} style="border: none;">
+          <a class="public-domain-badge" href={siteConfig.license.url} target="_blank" rel="noopener noreferrer" title={siteConfig.license.name}>
+            <PublicDomainMark />
+            <span>{chrome.publicDomainLabel}</span>
           </a>
         </div>
 

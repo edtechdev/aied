@@ -1,5 +1,5 @@
 // Generate a book-cover image for the EPUB: title, concept map (white
-// background), and CC0 badge.
+// background), and the CC0 public-domain mark.
 // Output: public/epub-cover.png (portrait, 1200x1800).
 import sharp from 'sharp';
 import { fileURLToPath } from 'node:url';
@@ -10,7 +10,10 @@ const root = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const OUT = path.join(root, 'public', 'epub-cover.png');
 
 function b64(p){ return readFileSync(p).toString('base64'); }
-const cc0B64 = b64(path.join(root, 'public', 'cc0.png'));
+// The CC0 "circled zero", rasterized from src/assets/cc-zero.svg by
+// tooling/gen-pd-mark.mjs. It replaces the old 140x49 badge whose lettering was
+// the English words "PUBLIC DOMAIN" — the mark itself is language-neutral.
+const markB64 = b64(path.join(root, 'public', 'public-domain-mark.png'));
 
 // --- White-background concept map (same radial geometry as ConceptMap.astro) ---
 const CX=450, CY=375, RECT_W=138, RECT_H=48, FONT=16, FONT_SMALL=13;
@@ -56,7 +59,7 @@ const svg=`<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.or
 
 <image x="${(COVER_W-cmapW)/2}" y="330" width="${cmapW}" height="${cmapH}" xlink:href="data:image/png;base64,${cmapB64}"/>
 
-<image x="${(COVER_W-140)/2}" y="1260" width="140" height="49" xlink:href="data:image/png;base64,${cc0B64}"/>
+<image x="${(COVER_W-64)/2}" y="1252" width="64" height="64" xlink:href="data:image/png;base64,${markB64}"/>
 </svg>`;
 
 await sharp(Buffer.from(svg)).png().toFile(OUT);
