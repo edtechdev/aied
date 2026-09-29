@@ -45,7 +45,7 @@ metadata:
 
 > **Pitfall — never insert inline links above the closing `---` of the frontmatter
 > (2026-09-16, maintainer-caught).** A hand-rolled "link the first mention" helper that
-> searches the whole page up to `## Connected Concepts` will happily rewrite the YAML
+> searches the whole page up to `## Citation` (or `## Connected Concepts` on a concept page) will happily rewrite the YAML
 > `title:` field, producing titles like
 > `"Why we believe chatbots: [[trust]] calibration as a design problem"`, which then
 > render as broken text at the top of the page. Four pages were corrupted this way in one
@@ -177,7 +177,7 @@ Load the concept set fresh: `concepts = {c[:-3] for c in os.listdir('<WIKI>/conc
 
 ### Step 3 — Scan for unlinked mentions (narrative ONLY)
 For each target page:
-1. Split off the frontmatter (before `---`) and the `## Connected` sections — **only the body narrative** between them is linkable. Do NOT scan or modify the `## Connected Concepts` / `## Connected Articles` lists.
+1. Split off the frontmatter (before `---`) and the trailing `## Citation` section (or the `## Connected` sections on a concept/resource/FAQ page) — **only the body narrative** between them is linkable. Article pages have no `## Connected` section (rule change 2026-09-27). Do NOT scan or modify the `## Connected Concepts` / `## Connected Articles` lists.
 2. Remove `#`-heading lines from consideration (never link in headings).
 3. Skip any mention already inside a `[[...]]` link (check `before.rfind('[[') > before.rfind(']]')`).
 4. Skip mentions already linked elsewhere on the page (track linked slugs).

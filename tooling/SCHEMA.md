@@ -178,22 +178,17 @@ Named for this paper's content, not a template
 ## Limitations            (optional: evidence-bound limits only)
 - 2-4 bullets, each tied to a concrete fact about this study
 
-## Connected Concepts
-- [[concept-slug]]  (3-6 genuinely related concepts)
-
-## Connected Articles
-- [[article-slug]]  (2-4 genuinely related articles)
-
 ## Connected FAQs
-- [[faq-slug]]      (optional)
+- [[faq-slug]]      (optional; appended by the page template, not authored)
 
 ## Citation
 Author, A. (2026). [Title](https://doi.org/...). Journal, Vol(Issue), pages.
 ```
+Article pages carry NO `## Connected Concepts` / `## Connected Articles` section (rule change 2026-09-27): cross-link related concepts and articles as inline `[[wikilinks]]` in the body prose. The curated Connected lists live on concept, resource and FAQ pages.
 **`## Citation` is always the LAST section on the page.** Exactly one per article, as a single
 APA-style line: the paper's title is the only hyperlinked text, first 6 authors + ", et al." for
 longer lists. The body carries no separate PDF/DOI link. Article body budget: 750-1,100 words (`wiki.config.yaml`, `article.min_words`/`max_words`)
-(frontmatter to `## Connected Concepts`), and `## Limitations` is written only when the study
+(frontmatter to `## Citation`), and `## Limitations` is written only when the study
 supplies real limits — a boilerplate "small sample, single institution" line is a defect, not a
 section.
 

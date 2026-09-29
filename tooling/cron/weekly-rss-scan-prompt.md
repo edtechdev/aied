@@ -80,16 +80,15 @@ page_kind: [framework]  # optional: framework, synthesis, evaluation
 ---
 ```
 
-**Structure — FIXED order:** synthesis blockquote → `## Key Findings` → 3-4 `##` prose sections → `## What this means for practice` → `## Limitations` → `## Connected Concepts` → `## Connected Articles` → `## Citation` (LAST). Nothing goes after `## Citation`.
+**Structure — FIXED order:** synthesis blockquote → `## Key Findings` → 3-4 `##` prose sections → `## What this means for practice` → `## Limitations` → `## Citation` (LAST). (Article pages carry NO `## Connected …` section — rule change 2026-09-27; their cross-links are inline `[[slug]]` wikilinks.) Nothing goes after `## Citation`.
 - **`published`:** the article's own publication date, which is NOT `created` (the ingestion date — Recent Articles and the journal sort by that). Use the feed's or publisher's date at whatever precision it gives (`YYYY-MM-DD`, `YYYY-MM` or `YYYY`), never an invented day, and omit the field when the feed carries no date. It renders as `published … · added …` in the page header.
 - **Synthesis blockquote:** 3-5 sentences covering what was studied, method, key findings, significance (from the full abstract, not the RSS snippet)
 - **Key Findings section:** 3-5 contiguous bullets with the most important results (do NOT duplicate the synthesis text)
 - **What this means for practice:** lead with **Instructors**, then a labeled bullet for faculty developers/designers, administrators/institutions, researchers or developers only when the paper supports a genuinely distinct implication (match the page's `audience:` facet). 3-5 bullets, imperative and derived from this page's findings — no hedging.
 - **Limitations:** 2-4 bullets, each with a concrete fact from the paper (sample and recruitment, one site, incentives, self-report measures, researcher role conflict, no follow-up). Generic "small sample, single institution" boilerplate is a defect; omit the section if the paper gives no basis. Link `[[self-report-measures]]` when the limitation is the measure.
-- **Length budget: 750-1,100 words** for the body (the numbers live in `wiki.config.yaml` under `article:`) (frontmatter end → `## Connected Concepts`) — the two sections above come out of the body, not on top of it.
+- **Length budget: 750-1,100 words** for the body (the numbers live in `wiki.config.yaml` under `article:`) (frontmatter end → `## Citation`) — the two sections above come out of the body, not on top of it.
 - **House style: US English.** Write US English (behavior, program, modeling, judgment, organization, center, artifact, and -ize verbs); never respell the `## Citation` section or a quoted paper title. Verify with `python3 tooling/scripts/check-us-english.py` (a build gate).
-- **Connected Concepts:** 3-6 genuinely related concepts from `content/en/concepts/`
-- **Connected Articles:** 2-4 genuinely related articles from `content/en/articles/`
+- **Cross-links are INLINE (article pages carry no `## Connected Concepts` / `## Connected Articles` sections, rule change 2026-09-27).** Link related concepts and articles as inline `[[slug]]` wikilinks inside the prose, verifying each target exists. The curated Connected lists live on the concept, resource and FAQ pages.
 - **Citation:** APA format with hyperlinked title (DOI link)
 - **Article body must be substantial** — at least ~1,000 characters of synthesis/findings beyond the blockquote. A title + one-line blockquote is a stub; expand with key contributions, findings, and implications.
 - **Write the citation yourself in APA format** (Authors, Year. *Title*. URL). NEVER paste the Elsevier/ScienceDirect auto-generated citation from the publisher page — it comes out garbled (author lists like "ScienceDirect, C.L.A.A., ... & Access), L.C.B."). Get the real author list from Crossref: `curl -s https://api.crossref.org/works/<doi>` (fields: message.author[].family/given, message.title, message.volume, message.page).

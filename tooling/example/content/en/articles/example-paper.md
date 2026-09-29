@@ -42,18 +42,6 @@ roughly 600-900 words and leave the detail in `raw/papers/<slug>.md`.
 - Two to four bullets, each tied to a concrete fact about this study. Omit the section entirely
   rather than writing boilerplate such as "small sample, single institution".
 
-## Connected Concepts
-
-- [[example-concept]]
-
-## Connected Articles
-
-- [[example-paper-2]] — one line saying why it relates
-
-## Connected FAQs
-
-- [[example-faq]]
-
 ## Citation
 
 Author, A. (2026). [Example Paper: A Guide to Getting Started](https://doi.org/example). Example Journal, 12(3), 45-67.
