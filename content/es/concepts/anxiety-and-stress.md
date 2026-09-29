@@ -1,0 +1,142 @@
+---
+title: Ansiedad y estrés
+created: "2026-09-28T20:10:55-04:00"
+updated: "2026-09-28T20:10:55-04:00"
+type: concept
+foundations: [academic-integrity]
+pedagogy: [social-emotional-learning, well-being]
+technology: [affective-computing]
+assessment: [remote-proctoring]
+audience: [learners]
+confidence: high
+connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
+level: [adult learning]
+translation_of: concepts/anxiety-and-stress
+source_updated: "2026-09-26T08:41:16-04:00"
+translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
+---
+
+*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+
+> **Ansiedad y estrés**: los estados emocionales negativos que la integración de la IA puede inducir en quienes aprenden y en el personal docente (miedo a ser [[legal-issues-and-risks|acusado falsamente]], estrés por vigilancia, preocupación por la competencia o la [[academic-integrity|integridad]]), junto con los usos positivos de la IA para detectar, monitorizar y aliviar el estrés y la ansiedad. Este concepto se sitúa dentro de la familia más amplia del [[well-being|bienestar]] y se solapa con el [[social-emotional-learning|aprendizaje socioemocional]] y la [[affective-computing|computación afectiva]], pero nombra el constructo emocional específico —y sus lados tanto productivos como dañinos— que la [[research-methods-aied|investigación]] sobre IA en educación estudia ahora directamente.
+
+## Preguntas para reflexionar
+
+- La ansiedad ante la IA no es una sola cosa: abarca el estrés por la supervisión de exámenes, la ansiedad emocional de quien aprende, los miedos profesionales y la IA utilizada para aliviar el estrés. ¿Cuáles de ellos ha sentido o ha visto, y afectaron a su aprendizaje o a su docencia?
+- Un supuesto habitual es que la ansiedad siempre es mala. Pero la investigación encuentra que la ansiedad ante la IA puede ser productiva: quienes aprenden con ansiedad verifican y revisan con más cuidado. ¿Recuerda alguna vez en que su propia ansiedad le hizo trabajar con más cuidado?
+- La vigilancia continua y el miedo a ser señalado falsamente elevan la ansiedad ante los exámenes y pueden perjudicar el rendimiento, y el estrés recae con más fuerza sobre el estudiantado que no domina las herramientas y sobre quienes ya son vulnerables. ¿Es eso un problema de equidad o solo una cuestión de comodidad?
+- La ansiedad profesional —el miedo a que la IA desplace o devalúe su futuro profesional— mira hacia adelante y opera a nivel de identidad. ¿En qué medida ese miedo determina cómo usted, o el estudiantado que conoce, se relaciona con la IA?
+- Los estudios vinculan una mayor adaptabilidad profesional con una menor ansiedad ante la IA y encuentran que la autoeficacia solo ofrece un amortiguamiento limitado. Si la confianza genérica no basta, ¿qué tipo de apoyo reduciría de verdad la ansiedad ante la IA relacionada con la carrera profesional?
+- La ansiedad del profesorado ante la IA generativa puede reflejar pánicos morales anteriores en torno a las calculadoras y los motores de búsqueda. ¿Cuándo es una preocupación legítima la inquietud ante una tecnología nueva y cuándo es un patrón recurrente de resistencia al cambio?
+
+## Introducción
+
+La ansiedad ante la IA no es una sola cosa. Abarca al menos cuatro direcciones distintas, cada una con su propia base de evidencia: (1) **el estrés inducido por la supervisión de exámenes con IA y la vigilancia de la integridad**, (2) **la ansiedad ante la IA como emoción de quien aprende**, que puede ser una barrera o una señal productiva, (3) **la ansiedad ante la IA relacionada con la carrera profesional**, el miedo a que la IA desplace o devalúe el futuro profesional de una persona, y (4) **la IA como herramienta para detectar y aliviar el estrés y la ansiedad**. Reconocer todas ellas —incluido el hallazgo de la ansiedad productiva, que cuestiona el encuadre puramente negativo— es lo que distingue este concepto del paraguas amplio del [[well-being|bienestar]].
+
+## Supervisión remota de exámenes, acusaciones falsas y estrés por vigilancia
+
+La fuente más clara y más estudiada de estrés inducido por la IA es la [[remote-proctoring|supervisión remota de exámenes]]. La vigilancia continua, el miedo a ser señalado falsamente y la presión de sentirse observado elevan la ansiedad ante los exámenes y pueden perjudicar el rendimiento. Evidencia clave:
+- [[academic-dishonesty-automated-proctoring-ai-2026|La revisión sobre la supervisión automatizada]] documenta la **ansiedad de quienes se examinan** (especialmente en personas usuarias que no dominan las herramientas en línea) y las **brechas de competencia entre quien supervisa y quien se examina, que provocan acusaciones falsas de mala praxis**: el estrés agudo de ser acusado injustamente de hacer trampas con IA.
+- La página de concepto sobre [[remote-proctoring|supervisión remota de exámenes]] detalla cómo **la vigilancia continua y el miedo a las señales falsas** elevan la ansiedad ante los exámenes y cómo el estudiantado estresado rinde peor: un problema de equidad y de [[ethics|justicia]], no solo de comodidad.
+- Las instituciones que adoptan la supervisión remota de exámenes deben acompañar la monitorización con IA de **alternativas accesibles, una comunicación clara y apoyo para la ansiedad de quienes se examinan**, y sopesarla frente a alternativas de [[authentic-assessment|evaluación auténtica]] que reducen la vigilancia.
+
+Este conjunto conecta la ansiedad ante la IA con la [[privacy|privacidad]], la [[academic-integrity|integridad académica]] y la [[equity-in-ai-education|equidad en la educación con IA]]: el estrés recae con más fuerza sobre el estudiantado que no domina las herramientas y sobre quienes ya son vulnerables.
+
+## La ansiedad ante la IA como emoción de quien aprende (barrera y señal)
+
+Más allá de la supervisión de exámenes, el propio uso de la IA genera ansiedad: por ser reemplazado, por si el propio trabajo es «realmente propio», por la competencia. De forma crucial, esta ansiedad **no es puramente negativa**:
+- [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] encuentra que **la ansiedad ante la IA puede ser productiva**: una mayor ansiedad ante la IA se asoció positivamente con conductas de verificación y revisión (β=.24, p<.01), y la capacidad evaluativa predijo una [[student-engagement|implicación]] activa (β=.46, p<.001). Los cuatro tipos regulatorios de Kim (Dependencia acrítica 18,7%, Integración selectiva 34,6%, Transformación evaluativa 31,8%, Rechazo estratégico 14,9%) muestran que el escrutinio impulsado por la ansiedad puede transformar al estudiantado en personas usuarias más deliberadas y autorreguladas de la [[generative-ai|IA generativa]], en lugar de adoptantes pasivas. Esto reencuadra la ansiedad ante la IA: de barrera pasa a ser una señal potencialmente útil que fomenta un escrutinio más atento.
+- [[acceptance-ai-english-tools-2026|Los estudios de aceptación]] muestran que la ansiedad determina si quienes aprenden adoptan herramientas de IA, y [[teacher-education-ai-literacy-sdt-2026|la investigación sobre formación docente]] vincula la ansiedad ante la IA con la motivación y la [[self-regulated-learning|autorregulación]].
+- [[aivaluate-anxiety-assessment-2026|AIvaluate]] estudia la ansiedad del estudiantado durante [[assessment|evaluaciones basadas en el desempeño]] mediadas por IA, y muestra que la ansiedad ante la evaluación persiste y debe tenerse en cuenta en el diseño.
+- **Pánico moral y ansiedad del personal docente:** [[moral-panic-genai-classroom|el encuadre del pánico moral]] muestra que la ansiedad del profesorado ante la IA generativa refleja pánicos anteriores (calculadoras, motores de búsqueda), una respuesta de estrés del lado [[teacher-role|docente]] que moldea la política del aula.
+- **El «estado de vulnerabilidad» del profesorado y la sensación de estar «atascado».** [[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli et al. (2026)]] capturan directamente el lado *docente* de la ansiedad ante la IA: 24 docentes universitarios suecos describieron la aparición de la IA generativa como alarmante y abrumadora, e informaron de un **estado de vulnerabilidad** —poca confianza, inseguridad e incomodidad impulsadas por un conocimiento limitado de las capacidades de la IA generativa, una exposición escasa y el miedo a «no ir por delante del estudiantado»—. El profesorado se sintió «atascado» entre discursos utópicos y distópicos, cargado con una responsabilidad ampliada por la [[bias-mitigation|justicia]] y la calidad, y preocupado por sentirse incompetente al evaluar trabajos del estudiantado potencialmente (co)producidos con IA. Esto enmarca la ansiedad docente ante la IA como una respuesta emocional y profesional genuina a la reconfiguración del rol —no como mera resistencia— y aboga por apoyar la confianza y el bienestar del profesorado, no solo por formarlo en herramientas.
+- **Culpa anticipatoria: malestar que precede a la experiencia.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] encuestó al personal académico de una universidad maltesa (109 respuestas) y encontró que la culpa por la IA se asocia al miedo a transgredir y no a la experiencia en sí: el Índice de Culpa por IA (α = 0,88) obtuvo su respaldo más fuerte de la preocupación por que el uso de IA socave la propia credibilidad (34,9%) y de sentirse como si se hicieran [[academic-integrity|trampas]] (25,7%), mientras que el remordimiento *después* del uso quedó en último lugar (9,2%). La paradoja es que el pequeño grupo de personas no usuarias declaró más culpa (M = 3,25) que cualquier grupo de personas usuarias (M = 2,32): como quienes evitan nunca ponen a prueba sus miedos, la evitación puede preservar el malestar que pretendía prevenir. La culpa fue mayor entre el personal académico al inicio de su carrera (M = 2,71) y menor entre el sénior (M = 2,03), y se asoció al ocultamiento y no a la honestidad, correlacionando con limitar el uso de IA por incomodidad (r = .62) y con evitar declararlo a los colegas (r = .50), pero no con la [[ai-use-disclosure|declaración]] formal (r = .08).
+- **Miedo a perder valor profesional, y una salida.** [[chick-faculty-development-ethical-ai-2026|Chick, Morello y Staffey (2026)]] documentan una ansiedad docente existencial y no técnica. Diez miembros del profesorado y del personal entraron en un instituto de seis semanas con la integridad académica como principal preocupación (80%) y la [[cognitive-offloading|dependencia excesiva]] en segundo lugar (70%), describiendo al principio la IA generativa como una «máquina de hacer trampas», una «amenaza» o una «fuerza deshumanizadora»; un profesor de matemáticas expresó la amenaza identitaria con claridad: «Pasé años desarrollando experiencia en mi campo. Ahora una máquina puede resolver problemas más rápido y explicar soluciones mejor que yo. ¿Cuál es mi valor ahora?». La experimentación estructurada y segura desplazó el vocabulario hacia «asistente curioso» y «socio creativo» y dejó al 90% informando de percepciones positivas, y los autores afirman explícitamente que la resistencia que observaron «no proviene de la tecnofobia ni de un tradicionalismo obstinado, sino de preocupaciones legítimas sobre la calidad educativa, la equidad y la agencia humana», un contrapeso directo a leer la ansiedad docente como mero pánico moral.
+
+**El apoyo institucional actúa sobre la ansiedad a través de las valoraciones, no de las palabras tranquilizadoras.** Una encuesta de dos oleadas con 547 estudiantes de grado chinos ([[school-support-ai-learning-anxiety-control-value-2026|Jiang, Chen y Chen, 2026]]) rastreó cómo el apoyo escolar percibido se relaciona con la ansiedad ante el aprendizaje con IA a través de las valoraciones de control y valor: la percepción de competencia de quien aprende (control) y de la utilidad de la herramienta (valor). El apoyo predijo directamente una menor ansiedad, pero la mayor parte de su asociación pasó por las valoraciones y no al margen de ellas: mediante la autoeficacia para el aprendizaje con IA, mediante la [[technology-acceptance-model|utilidad percibida]] y mediante una ruta secuencial en la que la autoeficacia alimentaba la utilidad, que a su vez reducía la ansiedad. Un modelo de primer orden mostró que las *dimensiones* del apoyo no actuaban de forma independiente —solo el apoyo informativo conservó una ruta significativa hacia la autoeficacia—, y una validación cruzada con red neuronal artificial clasificó la autoeficacia y la utilidad percibida como los predictores más estables de la ansiedad. La implicación es que el estímulo institucional dirigido a la ansiedad solo surte efecto si cambia lo que el estudiantado cree sobre su propia capacidad y sobre la utilidad de la herramienta; las palabras tranquilizadoras generales no alteran las valoraciones que generan la ansiedad.
+
+**Los pronósticos del profesorado como forma distribuida de ansiedad ante la IA.** La encuesta de [[watson-rainie-ai-challenge-faculty-survey-2026|Watson y Rainie (2026)]] con 1.057 docentes de universidades y colleges estadounidenses registra la ansiedad docente como expectativas y no como síntomas: el 95% esperaba que la IA generativa aumentara la dependencia excesiva del estudiantado respecto a las herramientas, el 94% más problemas de integridad académica, el 90% un [[critical-thinking|pensamiento crítico]] disminuido, el 83% periodos de atención más cortos y el 81% [[equity-in-ai-education|desigualdades digitales]] más amplias, mientras que el 39% creía que las herramientas reducirían el papel del profesorado y el 47% temía que el impacto laboral a largo plazo en sus disciplinas fuera negativo. Los mismos encuestados no eran uniformemente pesimistas —el 61% seguía esperando un aprendizaje mejorado y personalizado—, pero el 73% había lidiado personalmente con un caso de integridad académica relacionado con el uso de IA generativa por parte del estudiantado, y ahí es donde un pronóstico se convierte en carga de trabajo. El informe es explícitamente una muestra no científica y no generalizable, así que documenta los miedos expresados por el sector y no efectos medidos.
+
+Esta dirección conecta la ansiedad ante la IA con la [[motivation|motivación]], la [[ai-literacy|alfabetización en IA]], la [[student-experience|experiencia del estudiantado]] y el [[self-regulated-learning|aprendizaje autorregulado]].
+
+## La ansiedad ante la IA relacionada con la carrera profesional
+
+Una dimensión distinta y cada vez más estudiada es la **ansiedad profesional**: el miedo a que la IA desplace puestos de trabajo, erosione la empleabilidad o devalúe el futuro profesional de una persona. Mientras que la ansiedad por la supervisión de exámenes es situacional y la ansiedad como emoción de quien aprende tiene que ver con la competencia durante la tarea, la ansiedad profesional mira hacia adelante y opera a nivel de identidad, y está estrechamente vinculada al [[career-development-and-readiness|desarrollo y la preparación profesional]]. El [[kim-ai-anxiety-comprehensive-analysis|análisis integral de la ansiedad ante la IA]] identifica el **miedo a ser reemplazado por la IA** como el principal contribuyente a la ansiedad ante la IA, junto con el crecimiento descontrolado de la IA, la privacidad, la desinformación y el sesgo. Una literatura empírica creciente cuantifica ahora cómo afecta este miedo al estudiantado:
+
+- **La adaptabilidad profesional es un factor protector.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] muestra que las habilidades de adaptación profesional predicen de forma significativa y negativa la ansiedad ante la IA entre estudiantes de filología inglesa, con las autoevaluaciones centrales mediando parcialmente la relación; el grupo de baja adaptabilidad presentó la ansiedad ante la IA más alta.
+- **La ansiedad ante la IA perjudica las decisiones profesionales.** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] utilizan el modelado de ecuaciones estructurales para mostrar que la ansiedad ante la IA predice directa y negativamente las decisiones profesionales, y lo hace en gran medida socavando la **adaptabilidad profesional** (con un 63,35% del efecto total); la [[self-efficacy|autoeficacia]] solo ofreció un amortiguamiento limitado.
+- **La ansiedad ante la IA predice la ansiedad por la búsqueda de empleo a gran escala.** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün y Danacıoğlu]] (1.057 estudiantes) y [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al.]] (821 estudiantes de ciencias de la salud) encuentran que la ansiedad ante la IA y las actitudes negativas hacia ella predicen la ansiedad por encontrar o buscar empleo, y las más afectadas son las mujeres, el estudiantado de ciencias sociales y el de rentas más bajas.
+
+**Implicación práctica:** construir [[career-development-and-readiness|preparación profesional]] —adaptabilidad, autoevaluaciones centrales y habilidades de IA valoradas por los empleadores— es una intervención validada para reducir la ansiedad ante la IA relacionada con la carrera, más que la autoeficacia genérica por sí sola. Las instituciones deberían universalizar el apoyo a la [[ai-literacy|alfabetización en IA]] y a la planificación profesional, y abordar el patrón de [[equity-in-ai-education|equidad]] de la ansiedad profesional.
+
+## La IA para detectar y aliviar el estrés y la ansiedad
+
+El lado positivo: los sistemas de IA detectan y ayudan a aliviar cada vez más el estrés y la ansiedad.
+- [[ai-campus-wellbeing-tools|Las herramientas de bienestar en el campus con IA]] abarcan la prevención (mejor recogida de comentarios) y la intervención (avances en la detección de problemas de salud mental).
+- [[affective-text-wearable-student-health|Texto afectivo + sensores portátiles]] (un estudio de un año con 458 estudiantes y anillos Oura) muestra que un texto naturalista ultracorto puede complementar la detección fisiológica con dispositivos portátiles para la monitorización longitudinal de la salud del estudiantado: una vía concreta de detección de estrés habilitada por IA.
+- Esto enlaza con la [[affective-computing|computación afectiva]] y la [[affective-tutoring|tutoría afectiva]], donde la IA lee y responde al estado emocional.
+- **Qué factores de estrés pondera el modelo y por qué importa el contexto.** [[culturally-aware-student-stress-chatbot-2026|Bashir y Afzal (2026)]] ofrecen una ventana de [[machine-learning|aprendizaje automático]] sobre qué factores de estrés impulsan realmente el malestar del estudiantado en un [[global-south|contexto no occidental]]. El análisis de importancia de características sobre 1.100 respuestas de encuesta situó la presión arterial en primer lugar (15,6%) y **la relación docente-estudiantado en segundo (10,0%)** —por delante de la calidad del sueño (9,3%), la depresión (8,3%) y el apoyo social (7,6%)—, mientras que el nivel de ansiedad quedó noveno con un 4,8%, lo que los autores leen como evidencia de que el estrés del estudiantado es multidimensional y no está impulsado por un único indicador psicológico. Atribuyen la prominencia de la relación docente-estudiantado al entorno educativo comparativamente jerárquico de Pakistán y lo presentan como una hipótesis para datos recogidos localmente, subrayando que los modelos de estrés y sus pesos de características dependen del contexto y no puede suponerse que se transfieran entre poblaciones de estudiantes.
+- **Intervención en tiempo real del lado docente.** [[parlant-emotional-micro-interventions-2026|La guía práctica de Parlant]] añade una contraparte humana a estas herramientas de IA: las *microintervenciones emocionales*, actos verbales o gestuales breves y deliberados que validan la emoción emergente de un estudiante, reencuadran la valoración que hay detrás y reconectan la dificultad con la identidad profesional (Validar, Reencuadrar, Conectar). Basado en la teoría de la valoración cognitiva, el enfoque se dirige a la valoración primaria («¿esto es una amenaza?») y a la secundaria («¿puedo afrontarlo?») en el momento en que el malestar pondría fin a la implicación, emparejando cuellos de botella como la frustración, el aislamiento y el síndrome del impostor con estados objetivo. Su autor afirma claramente que el marco no requiere IA; la [[generative-ai|IA generativa]] solo sirve como una forma opcional de redactar frases candidatas para que el docente las seleccione.
+
+## Por qué esto es distinto del bienestar
+
+El [[well-being|bienestar]] es el estado positivo amplio (salud emocional, psicológica y social) que la IA puede sostener o socavar. La **ansiedad y el estrés ante la IA** es el constructo emocional específico y medible dentro de ese espacio: nombra el afecto negativo discreto y sus usos productivos, y tiene su propia base de evidencia dedicada (estrés por supervisión de exámenes, ansiedad productiva ante la IA, detección de estrés impulsada por IA). Más que rivalizar con el bienestar, esta página desarrolla en profundidad la dimensión de la ansiedad y el estrés y se enlaza abundantemente con el [[well-being|bienestar]], el [[social-emotional-learning|aprendizaje socioemocional]], la [[affective-computing|computación afectiva]] y la [[remote-proctoring|supervisión remota de exámenes]].
+
+## Orientaciones prácticas
+- **Diseñar para la ansiedad, no solo para la integridad.** Los sistemas de supervisión de exámenes y de monitorización con IA deberían minimizar las acusaciones falsas y el estrés por vigilancia, especialmente para el estudiantado novato y vulnerable; conviene acompañar la monitorización de alternativas accesibles y una comunicación clara.
+- **Aprovechar la ansiedad productiva.** En lugar de limitarse a reducir la ansiedad ante la IA, apoyar la verificación, la revisión y la [[regulation|autorregulación]] que ya muestran quienes aprenden con ansiedad pero implicados.
+- **Usar la IA para detectar y aliviar el estrés** —mediante la computación afectiva, los dispositivos portátiles y las herramientas de bienestar en el campus—, protegiendo al mismo tiempo la privacidad.
+- **Tener en cuenta la ansiedad del personal docente** en la adopción y la política de IA, y no solo la experiencia del estudiantado.
+
+## Conceptos conectados
+- [[career-development-and-readiness]] — la preparación profesional como factor protector frente a la ansiedad ante la IA
+- [[well-being]] — el paraguas amplio que este concepto desarrolla en profundidad
+- [[remote-proctoring]] — la principal fuente de estrés por vigilancia y acusaciones falsas
+- [[social-emotional-learning]] — las competencias emocionales implicadas
+- [[affective-computing]] — la IA que lee el estado emocional
+- [[affective-tutoring]] — la IA que responde al afecto
+- [[academic-integrity]] — la dimensión de la integridad y la acusación de trampas
+- [[privacy]] — la preocupación por la vigilancia que subyace al estrés de la supervisión
+- [[student-experience]] — la ansiedad como parte de la experiencia de quien aprende
+- [[motivation]] — el efecto de la ansiedad en la adopción y la implicación
+- [[self-regulated-learning]] — el vínculo con la ansiedad productiva
+- [[ai-literacy]] — construir capacidad que reduce la ansiedad infundada
+- [[equity-in-ai-education]] — el estrés desproporcionado sobre el estudiantado vulnerable
+- [[ethics]] — la justicia de la vigilancia y las acusaciones falsas
+- [[teacher-role]] — la ansiedad del lado docente
+- [[assessment]] — la ansiedad ante la evaluación mediada por IA
+- [[social-norms-ai-use]] — el coste afectivo de la visibilidad
+
+## Artículos conectados
+- [[ai-anxiety-strategic-regulation-writing-2026]] — la ansiedad ante la IA como señal productiva de regulación estratégica
+- [[aivaluate-anxiety-assessment-2026]] — la ansiedad del estudiantado en la evaluación basada en el desempeño mediada por IA
+- [[ai-campus-wellbeing-tools]] — herramientas impulsadas por IA para el bienestar en el campus
+- [[affective-text-wearable-student-health]] — texto afectivo + sensores portátiles para la salud del estudiantado
+- [[academic-dishonesty-automated-proctoring-ai-2026]] — supervisión automatizada, ansiedad de quienes se examinan, acusaciones falsas
+- [[automated-online-exam-proctoring-decade-review-2026]] — revisión de una década sobre la supervisión automatizada de exámenes
+- [[moral-panic-genai-classroom]] — ansiedad del profesorado y pánico moral ante la IA generativa
+- [[acceptance-ai-english-tools-2026]] — la ansiedad que moldea la aceptación de herramientas de IA
+- [[teacher-education-ai-literacy-sdt-2026]] — formación docente, alfabetización en IA y ansiedad
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — el uso de IA entrelazado con la ansiedad, la confianza y la seguridad en uno mismo
+- [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — la percepción del riesgo y la ansiedad por deshonestidad académica suprimen el uso de ChatGPT
+- [[qu-wang-disclose-or-not-genai-2026]] — el dilema de la declaración como fuente de estrés del estudiantado
+- [[conijn-fear-big-brother-proctored-exams-2022]] — los exámenes supervisados elevan la ansiedad sin reducir las trampas
+- [[kim-ai-anxiety-comprehensive-analysis]] — análisis integral de la ansiedad ante la IA y las intervenciones
+- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — las habilidades de adaptación profesional reducen la ansiedad ante la IA
+- [[duan-ai-anxiety-career-decisions-college-2026]] — la ansiedad ante la IA perjudica las decisiones profesionales a través de la adaptabilidad profesional
+- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — la ansiedad ante la IA y las actitudes predicen la ansiedad por encontrar empleo
+- [[dag-ai-perceptions-career-anxiety-health-2026]] — la ansiedad ante la IA predice la ansiedad por la búsqueda de empleo en ciencias de la salud
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Experiencias y percepciones del profesorado universitario sobre la IA generativa: vulnerabilidad, repensar la evaluación, aprendizaje del estudiantado en riesgo (Farazouli et al. 2026)
+- [[culturally-aware-student-stress-chatbot-2026]] — Un chatbot culturalmente consciente impulsado por IA para la detección del estrés y el apoyo al bienestar entre estudiantes universitarios paquistaníes mediante PLN y aprendizaje automático
+- [[school-support-ai-learning-anxiety-control-value-2026]] — El apoyo escolar percibido reduce la ansiedad ante el aprendizaje con IA principalmente a través de las valoraciones de control y valor (69,5% mediado); validación cruzada con RNA (Jiang, Chen y Chen 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — El complejo de culpa por IA: la culpa anticipatoria supera al remordimiento posterior al uso entre el personal académico (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Encuesta de AAC&U/Elon a 1.057 docentes estadounidenses: pronósticos de dependencia excesiva, preocupación por la integridad y un papel docente disminuido (Watson y Rainie 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — Del miedo a la curiosidad: un instituto de seis semanas que lleva al profesorado a través de la amenaza identitaria (Chick, Morello y Staffey 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Los sentimientos de impostor y la incomodidad ética del personal de desarrollo académico como trabajo afectivo en el trabajo mediado por IA
+- [[parlant-emotional-micro-interventions-2026]] — Microintervenciones emocionales en tiempo real del lado docente, basadas en la teoría de la valoración cognitiva

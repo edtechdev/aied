@@ -1,0 +1,110 @@
+---
+title: Confianza
+created: "2026-09-28T20:10:47-04:00"
+updated: "2026-09-28T20:10:47-04:00"
+type: concept
+foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
+technology: [educational-robotics, intelligent-tutoring]
+ethics: [trust]
+confidence: high
+translation_of: concepts/trust
+source_updated: "2026-09-24T10:07:27-04:00"
+translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
+---
+
+*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+
+> **Confianza** — la disposición de quienes aprenden, del profesorado y de las instituciones a apoyarse en una persona o en un sistema de IA para el aprendizaje, el juicio y la toma de decisiones. En la [[ai-education|educación con IA]], la confianza abarca dos ámbitos relacionados pero distintos: la **confianza en la IA** (la seguridad en la competencia, la transparencia, la fiabilidad y la benevolencia de un sistema o agente de IA) y la **confianza interpersonal** (la confianza relacional entre el estudiantado y el profesorado, entre quienes aprenden y sus pares, y en toda la institución). Ambas son de doble filo: una confianza adecuada posibilita una [[student-engagement|implicación]] productiva, mientras que la confianza excesiva invita a la [[cognitive-offloading|dependencia excesiva]] y la desconfianza bloquea usos beneficiosos. El reto central es la **calibración**: alinear la confianza con la fiabilidad real, ya sea que esa fiabilidad pertenezca a un modelo o a una persona.
+
+## Preguntas para reflexionar
+
+- Cuando dice que «confía» en una herramienta de IA, frente a confiar en un docente o en un colega, ¿está describiendo lo mismo? ¿Qué hay de similar y qué de fundamentalmente distinto entre depositar confianza en un sistema y en una persona?
+- Existe una «brecha entre confianza y utilidad» documentada: la competencia aparente de una herramienta suele superar su fiabilidad real. Recuerde una herramienta que parecía impresionante pero le falló, o una que parecía limitada y resultó fiable. ¿Qué moldeó la distancia entre cómo se veía y lo que realmente podía hacer?
+- Piense en una IA que siempre está de acuerdo con usted y nunca cuestiona sus ideas. Puede resultar cómoda y digna de confianza, pero ¿es lo mismo estar de acuerdo que ser fiable? ¿A qué podría estar renunciando si la herramienta en la que se apoya nunca le lleva la contraria?
+- La página sostiene que la confianza del profesorado en la IA moldea cómo el estudiantado confía en esa IA: los dos ámbitos interactúan. En un curso que conozca bien, ¿cómo influiría el entusiasmo o el escepticismo de un docente respecto a la IA en que el estudiantado aceptara o cuestionara la herramienta?
+- El estudiantado suele decidir si declara su uso de IA según su comodidad con el profesorado más que según la política. Si usted fuera (o es) estudiante, ¿qué le haría estar dispuesto a ser sincero sobre su uso de la IA y qué le llevaría a ocultarlo? ¿Qué dice eso sobre cómo se construye realmente la confianza en un aula?
+- Un hallazgo: un tutor de IA que advierte «puedo cometer errores» llevó al estudiantado a buscar más ayuda, no menos. ¿Qué sugiere esto sobre si reconocer los límites debilita o refuerza la confianza que sostiene el aprendizaje real?
+
+## Introducción
+
+La confianza en la IA está moldeada por la competencia percibida, la transparencia, la consistencia y por si el sistema parece alineado con los objetivos de quien aprende; está estrechamente ligada a la [[ai-literacy|alfabetización en IA]] (saber en qué confiar), al [[critical-thinking|pensamiento crítico]] (evaluar la salida) y al diseño de una IA responsable. La confianza interpersonal, en cambio, se construye mediante relaciones, declaraciones, retroalimentación y [[pedagogy|cuidado pedagógico]] — las cualidades en las que el estudiantado se apoya cuando decide si un docente o una IA es una fuente fiable de orientación. Los dos ámbitos interactúan cada vez más: la IA está entretejida en las relaciones entre docentes y estudiantado, de modo que cómo el estudiantado confía en su docente moldea cómo confía (o cuestiona) las herramientas de IA que ese docente recomienda.
+
+## La confianza en los sistemas de IA
+
+La [[research-methods-aied|investigación]] de esta base de conocimiento examina cuándo el estudiantado confía adecuadamente en la orientación generada por IA. Las [[ai-fallibility-warning-help-seeking|advertencias sobre la falibilidad de la IA]] pueden mejorar la calibración: una intervención sencilla de transparencia que avisaba al estudiantado de que un tutor de IA podía cometer errores aumentó la [[help-seeking|búsqueda de ayuda]] en un STI de matemáticas, lo que sugiere que reconocer los límites con honestidad fomenta la confianza adecuada en lugar de socavarla. [[calibrating-trustworthiness-llm-education-2026|Codiseñar métricas de fiabilidad]] con ingenieros de aprendizaje muestra que la confianza se construye mejor sobre criterios observables y acordados que sobre una capacidad supuesta. Los estudios de [[fouad-bentley-trust-utility-gap-physics-2026|física]] y de [[t2i-competence-paradox-2026|generación de imágenes]] revelan una persistente *brecha entre confianza y utilidad*: quien usa la herramienta debe sopesar su competencia aparente frente a su fiabilidad real en una tarea. Entre los usuarios más jóvenes, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed y Martin (2025)]] encontraron que el 52% de los niños y niñas (de 6 a 14 años) confiaba en general en un chatbot adaptado a su edad y el 35% confiaba en él como en un docente o un amigo, con cerca de un tercio dispuesto a confiarle confidencias; además, los niños ponían a prueba activamente su credibilidad con preguntas de respuesta conocida, y la confianza no mostró diferencias estadísticamente significativas por curso — lo que ilustra cómo la confianza puede formarse antes de la evaluación crítica.
+
+La [[ai-overreliance-complex-adaptive-system-2026|modelización de la dependencia excesiva de la IA como sistema adaptativo complejo]] reencuadra la confianza como un proceso a escala de población: que las personas confíen en un asistente cuando acierta y lo verifiquen cuando se equivoca depende de dinámicas sociales y bucles de retroalimentación, no solo del juicio individual. La adulación amenaza la calibración desde el otro lado: [[ai-sycophancy|una IA que siempre está de acuerdo]] puede parecer digna de confianza precisamente porque nunca cuestiona a quien la usa, lo que invita a una aceptación acrítica ([[contextual-sycophancy-ai-literacy|adulación contextual]] y [[sycophantic-ai-social-interaction-2026|IA aduladora en la interacción social]]). En contextos [[embodied-learning|corporizados]] como la [[educational-robotics|robótica educativa]], la confianza está moldeada más por lo que el robot hace que por su aspecto ([[task-context-trust-educational-hri-2026|el contexto de la tarea y la confianza en la IHR educativa]]), y la [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|identidad del avatar]] moldea la confianza epistémica que el estudiantado deposita en el contenido de IA. La confianza en las herramientas de [[learning-analytics|analítica del aprendizaje]] también depende del contexto. [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] encontraron que las preocupaciones y barreras de adopción del profesorado divergían marcadamente según el contexto de aprendizaje: el profesorado de aula invertida (universidad) se preocupaba sobre todo por el anonimato de los datos y la posibilidad de que el estudiantado se excluyera, mientras que el de escritura reflexiva (formación profesional) temía el mal uso de la herramienta por parte de colegas y subrayaba la necesidad de contextualizar los datos — aunque ambos grupos declararon [[self-efficacy|autoeficacia]] y beneficios percibidos similares en una encuesta sobre confianza en la IA. El hallazgo de que la confianza en la herramienta se desacopla de la confianza en su gobernanza de datos y su uso social subraya que construir una confianza adecuada en la analítica exige atender a preocupaciones específicas de cada contexto, no solo a la competencia aparente del sistema.
+
+Cuán explicable es un sistema — y en qué términos — también moldea si el profesorado confía en sus recomendaciones. En un experimento intrasujeto con 41 docentes de [[chemistry-education|química]] en activo que usaban la herramienta de recomendación de agrupamientos [[xai-teachers-trust-edtech-recommendations-2026|GrouPer]], [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] encontraron que la [[explainable-ai|IA explicable]] construye confianza de forma indirecta, al aumentar la *comprensibilidad* del desempeño del sistema, y que las explicaciones **orientadas al dominio**, formuladas en lenguaje [[curriculum-design|curricular]] y pedagógico, fomentaban una comprensibilidad y una confianza aprendida significativamente mayores que las explicaciones puramente **orientadas a los datos** (importancia de las variables). Cabe destacar que la comprensibilidad por sí sola era insuficiente para parte del profesorado: declararon necesitar experiencia real en el aula con la herramienta antes de apoyarse plenamente en ella, lo que refuerza que la confianza en la IA es dinámica y se valida mediante un uso [[situated-learning|situado]], no se concede solo con una explicación.
+
+**La percepción del riesgo y la confianza no son opuestos.** Un estudio de percepción con 130 estudiantes sobre IA generativa [[agentic-ai|agéntica]] en [[higher-ed|educación superior]] encontró un riesgo percibido moderadamente elevado (M = 3,33; DE 0,89) junto con una confianza e intención de adopción más favorables (M = 3,62; DE 0,81) y — en contra de una expectativa simple de disuasión — una asociación *positiva* entre el riesgo percibido y la intención de uso continuado (ρ de Spearman = 0,317; p < 0,001) ([[ilieva-agentic-genai-higher-education-2026|Ilieva et al. 2026]]). Los autores lo interpretan como adopción informada y no como indiferencia: quienes usan la tecnología de forma comprometida o experimentada reconocen tanto su valor como sus límites, y solo el 45,4% dijo confiar en los agentes bajo la orientación del profesorado. Para la [[trust-calibration|calibración de la confianza]], la implicación es que la conciencia del riesgo no es la ausencia de confianza — puede ser un componente de ella —, mientras que el diseño transversal deja indistinguibles la conciencia, la exposición y la autoselección.
+
+[[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] respalda una concepción de la confianza en los algoritmos **específica por función y no global**: ni la aversión ni la apreciación hacia los algoritmos describían a estos 13 estudiantes, que a la vez confiaban en ChatGPT para retroalimentación superficial y desconfiaban de él como calificador. Su confianza dependía de la supervisión del docente, y su escepticismo provenía de los límites contextuales de la IA — leer mal la escritura a mano escaneada («escribió mal mi apellido y cree que cometí errores de ortografía cuando no fue así»), no conocer el sistema de calificación del docente y una positividad crónica — y no de tecnofobia, lo que sugiere que las medidas de confianza deberían descomponerse según la función que desempeña una IA y los riesgos asociados a ella.
+
+## La confianza en la IA sigue el estado psicológico, no la categoría demográfica
+
+[[trust-in-ai-psychological-profiles-ml-2026|Kumar et al. (2026)]] agruparon a 107 estudiantes de una HBCU pública según resiliencia, estrés percibido y confianza en la IA, y encontraron tres perfiles en los que **la confianza en la IA se disociaba de la confianza en uno mismo**: un grupo de alta resiliencia y bajo estrés con confianza favorable en la IA, un grupo moderadamente estresado que mantenía la *mayor* confianza en la IA de los tres pese a la tensión, y un grupo psicológicamente resiliente casi tan resiliente como los adoptantes pero marcadamente con menor confianza en la IA. El estrés y la confianza en la IA fueron las variables que más separaron los grupos (eta cuadrado parcial 0,528 y 0,521 frente a 0,315 de la resiliencia), y el género fue la única variable demográfica asociada significativamente a la pertenencia, con la afiliación a [[stem-education|STEM]], el nivel académico, la situación laboral y el grupo de edad todos no significativos. Dos implicaciones importan para esta página: primero, una baja confianza en la IA no es un indicador indirecto de baja confianza en uno mismo ni de poca familiaridad técnica, ya que quienes eran escépticos formaban el grupo más resiliente y con más presencia de STEM, lo que los autores leen como escepticismo calibrado y no como resistencia; segundo, como los grupos estaban solo débilmente separados (silueta 0,288, con el índice de Calinski-Harabasz prefiriendo dos grupos), deben tratarse como perfiles solapados y no como tipos de estudiante distintos. Los hallazgos provienen de una sola institución y de una encuesta [[self-report-measures|autoinformada]] transversal, por lo que establecen que la confianza varía con el estado psicológico, no por qué.
+
+## La confianza interpersonal en la educación
+
+La confianza también es fundamentalmente relacional. La brecha de confianza en el aula está documentada en [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|las visiones de docentes y estudiantado sobre el control y la agencia en la IA de K-12]]: el estudiantado quiere más [[agency|autonomía]] y flexibilidad, mientras que el profesorado prioriza la supervisión y el seguimiento, un desajuste que ambas partes deben gestionar para que la adopción de la IA tenga éxito. [[qu-wang-disclose-or-not-genai-2026|Por qué el estudiantado declara o esconde su uso de IA]] muestra que la declaración depende menos de la política que de factores relacionales — las normas percibidas entre pares y la **comodidad con el profesorado** son los predictores más fuertes —, lo que apunta a una baja confianza interpretativa en los entornos [[governance|institucionales]]. [[vetter-hidden-cost-disclosure-genai-2026|Los costes ocultos de la declaración]] añaden matices sobre cuándo la sinceridad tiene un coste social.
+
+La retroalimentación es un lugar clave de la confianza interpersonal. [[genai-teacher-feedback-comparison|Las percepciones del estudiantado sobre la retroalimentación de la IA generativa frente a la del profesorado]] muestran que ambas cubren necesidades distintas — complementarias pero no intercambiables —, con el estudiantado confiando en la retroalimentación del profesorado para el juicio relacional y personalizado y en la [[generative-ai|IA generativa]] para la rapidez y la [[accessibility|accesibilidad]]. [[care-full-feedback-genai|Una concepción «cuidadosa» de la retroalimentación]] sostiene que la retroalimentación digna de confianza es una práctica [[ethics|ética]] y relacional: construye relaciones educativas y se respeta como oficio profesional, valores que una IA no puede simplemente replicar. Por eso la confianza entre docente y estudiantado — construida sobre el cuidado y el juicio profesional — sigue siendo central aun cuando la IA entra en el circuito de la retroalimentación.
+
+## La calibración y los dos ámbitos juntos
+
+El reto unificador es la **calibración**: ajustar la confianza a la fiabilidad real, ya sea que la parte en quien se confía sea un modelo o una persona. La [[trust-calibration|calibración de la confianza]] es la capacidad [[metacognition|metacognitiva]] de saber cuándo confiar y cuándo cuestionar. Los estudios sobre [[feedback|retroalimentación]] e [[intelligent-tutoring|tutoría con IA]] examinan cuándo el estudiantado se apoya adecuadamente en la orientación de la IA o la cuestiona, mientras que la literatura interpersonal muestra que la confianza del estudiantado en un docente depende de una confianza relacional construida con el tiempo. A medida que la IA se integra en la [[teacher-role|labor docente]], estos ámbitos convergen: un docente que explica con transparencia qué puede y qué no puede hacer una herramienta de IA, y que demuestra fiabilidad en su propio juicio, construye el tipo de confianza que se traslada a las herramientas que recomienda. Construir una confianza adecuada — tanto en la IA como entre nosotros — es un objetivo central del diseño responsable de IA en educación.
+
+La calibración también se pone a prueba por los incentivos del propio sistema en el que se confía. Cuando personal escéptico ante la adopción de la IA consulta a la [[conversational-ai|IA conversacional]] — creada por organizaciones con un interés comercial en esa adopción —, existe el riesgo de que el sistema esté predispuesto a fomentarla. Una auditoría de diez modelos de frontera encontró que la mayoría reconocía las preocupaciones de una persona de personal rural de [[k-12|K-12]] (amenaza para el empleo, «no es para gente como yo») antes de reorientar hacia la implicación. Esto cuestiona la confianza ingenua y subraya la importancia de la [[human-in-the-loop-ai|supervisión humana]] y de una [[ai-ed-evaluation|evaluación independiente de la IA]].
+
+## Conceptos conectados
+
+- [[explainable-ai]]
+- [[trust-calibration]]
+- [[ai-literacy]]
+- [[critical-thinking]]
+- [[cognitive-offloading]]
+- [[educational-robotics]]
+- [[ethics]]
+- [[intelligent-tutoring]]
+- [[ai-sycophancy]]
+- [[human-ai-collaboration]]
+- [[remote-proctoring]]
+- [[social-norms-ai-use]] — el riesgo social sobre el que operan las normas y la declaración
+
+## Artículos conectados
+- [[ilieva-agentic-genai-higher-education-2026]] — El riesgo percibido se correlaciona positivamente con la intención de uso continuado: adopción informada (Ilieva et al. 2026)
+- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — UTAUT2 aumentado con XAI: el hábito como predictor más fuerte, cuatro perfiles de adopción (Jácome-Vasconez et al. 2026)
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — La brecha de confianza entre docentes y estudiantado por el control y la agencia en la IA del aula de K-12
+- [[qu-wang-disclose-or-not-genai-2026]] — Declarar el uso de IA depende de factores relacionales y de la comodidad con el profesorado, no de la política
+- [[genai-teacher-feedback-comparison]] — La retroalimentación de la IA generativa y la del profesorado cubren necesidades de confianza distintas y complementarias
+- [[care-full-feedback-genai]] — La retroalimentación digna de confianza como práctica «cuidadosa» y relacional
+- [[ai-fallibility-warning-help-seeking]] — Advertir de la falibilidad de la IA aumenta la búsqueda de ayuda en un STI
+- [[calibrating-trustworthiness-llm-education-2026]] — Codiseño de métricas y visualizaciones de fiabilidad para los LLM en educación
+- [[ai-overreliance-complex-adaptive-system-2026]] — La dependencia excesiva de la IA modelizada como sistema adaptativo complejo
+- [[fouad-bentley-trust-utility-gap-physics-2026]] — La brecha entre confianza y utilidad en las herramientas de IA para física
+- [[t2i-competence-paradox-2026]] — La paradoja de la competencia en la generación de imágenes con IA
+- [[task-context-trust-educational-hri-2026]] — El contexto de la tarea moldea la confianza en los robots educativos más que su apariencia
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — La identidad del avatar y la confianza epistémica en el aprendizaje mediado por IA
+- [[contextual-sycophancy-ai-literacy]] — La adulación contextual y sus límites para la calibración de la confianza
+- [[sycophantic-ai-social-interaction-2026]] — La IA aduladora hace que la interacción humana resulte menos satisfactoria con el tiempo
+- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — La confianza y la desconfianza del profesorado en la IA, moldeadas por la ética y el conocimiento técnico
+- [[ai-pedagogical-accompaniment-amico]] — Mediación pedagógica responsable y confianza en los sistemas con IA
+- [[best-response-student-ai-dialog-2026]] — La confianza en el diálogo entre estudiantado e IA
+- [[ai-adaptation-gap-higher-education-2026]] — La utilidad percibida como predictor más fuerte de la confianza en la IA en educación superior
+- [[bassett-ai-detectors-education-2026]] — Confianza y desconfianza en los sistemas de detección de IA
+- [[genai-use-usefulness-student-experience-australia-2026]] — La experiencia del estudiantado con la utilidad de la IA generativa en la educación superior australiana (Chung et al. 2026)
+- [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Auditoría algorítmica: cómo los LLM de frontera reorientan a personal rural escéptico de K-12
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Hacer accesibles al profesorado los hallazgos de aprendizaje automático en aulas semipresenciales
+- [[xai-teachers-trust-edtech-recommendations-2026]]
+- [[vahedian-children-attitudes-ai-chatbot-2026]]
+- [[student-perspectives-ai-writing-grading-2026]] — ¿Quién debería calificar mi trabajo? Perspectivas del estudiantado sobre la evaluación transparente de la escritura asistida por IA en educación superior
+- [[trust-in-ai-psychological-profiles-ml-2026]] — Tres perfiles de estudiantado en los que la confianza en la IA sigue la resiliencia y el estrés más que la demografía (Kumar et al. 2026)
+- [[bounded-reliance-ai-writing-feedback-2026]] — Confianza acotada: una perspectiva de credibilidad de la fuente sobre la implicación del estudiantado de ILE con la retroalimentación de escritura generada por IA
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Preguntas abiertas hacia una dependencia que sostenga las capacidades en la implicación reflexiva con la IA
