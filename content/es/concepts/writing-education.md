@@ -1,0 +1,161 @@
+---
+connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
+title: Escritura
+created: "2026-09-28T19:10:33-04:00"
+updated: "2026-09-28T19:10:33-04:00"
+type: concept
+foundations: [academic-integrity, ai-literacy, cognitive-offloading]
+pedagogy: [metacognition]
+assessment: [ai-feedback-quality, automated-essay-scoring, peer-assessment]
+discipline: [language learning, writing education]
+level: [higher ed]
+connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
+confidence: high
+translation_of: concepts/writing-education
+source_updated: "2026-09-25T13:21:49-04:00"
+translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
+---
+
+*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+
+> **Escritura** — el uso de herramientas de IA para la enseñanza de la escritura, la [[assessment|evaluación]], la [[feedback|retroalimentación]] y el estudio de cómo la [[generative-ai|IA generativa]] reconfigura el propio proceso de escritura. La educación de la escritura es uno de los dominios más afectados por la IA, porque los LLM destacan precisamente en las actividades en las que se centra la enseñanza de la escritura: la generación de texto, la revisión y la evaluación. La [[research-methods-aied|investigación]] en esta área abarca la [[automated-assessment|calificación automatizada]], la calidad de la retroalimentación con IA, el apoyo al proceso de escritura, la escritura en segunda lengua, la integridad académica y la pregunta más profunda de cómo la IA cambia lo que significa escribir y ser quien escribe.
+
+## Preguntas para reflexionar
+
+- La afirmación central de la página es que la escritura no es solo un producto, sino un proceso cognitivo, social y retórico, y que la IA puede desplazar justamente el trabajo mental que convierte la escritura en una actividad de aprendizaje. Cuando escribes, ¿qué ocurre en tu pensamiento que un párrafo final producido por la IA simplemente borra?
+- Un encuadre habitual es «la IA como herramienta» o, en el extremo opuesto, «la IA como amenaza para la autoría». La página ofrece una tercera visión: la escritura como un entrelazamiento humano-IA en el que la agencia se distribuye. ¿Cuál de estos encuadres coincide con tu propia experiencia de escribir con o sin IA, y qué implica cada uno para cómo enseñarías?
+- La investigación encontró que delegar las capas *más profundas* de la escritura — el razonamiento y la lógica argumentativa — perjudica más tu escritura independiente que delegar capas superficiales como la gramática. Piensa en tu último texto escrito con ayuda de IA. ¿Qué capa delegaste realmente, y qué predice eso sobre lo que puedes hacer ahora por tu cuenta?
+- La página advierte de que la retroalimentación de escritura con IA no es lingüísticamente neutra: personalizarla con la raza, la lengua o la discapacidad de un estudiante puede desviarla en direcciones alineadas con estereotipos, como elogiar en exceso o retener la crítica. Si has recibido o dado retroalimentación con IA «personalizada», ¿cómo detectarías que una herramienta estaba suavizando su crítica para cierto estudiantado?
+- La orientación de diseño que se da aquí es «acompañar, no redactar»: que la IA haga preguntas y critique esquemas, pero que exija a quien aprende producir primero la prosa. ¿Por qué permitir que quien aprende redacte antes de que intervenga la IA podría proteger la autoría y el juicio de un modo que una herramienta que escribe el borrador no podría?
+- Un hallazgo: el estudiantado a menudo dice «está bien porque…» para racionalizar el uso de la IA, lo que traslada el asunto de la vigilancia del plagio hacia la ética y la alfabetización en IA. Si diseñaras un curso de escritura, ¿cómo integrarías en él la honestidad y el juicio [[ethics|ético]] sobre la IA, en lugar de depender de la detección o el castigo?
+
+## Introducción
+
+La escritura no es solo un producto, sino un proceso cognitivo, social y retórico. Por eso el impacto de la IA en la educación de la escritura es tan trascendental y tan discutido: la IA puede ser un [[scaffolding|andamiaje]] que ayude al estudiantado a redactar, revisar y recibir una retroalimentación que de otro modo no obtendría, pero también puede desplazar el [[cognitive-offloading|trabajo cognitivo]] — y el público humano — que convierten la escritura en una actividad de aprendizaje. La investigación de la base de conocimiento enmarca de forma consistente la IA en la escritura como un *complemento centrado en las personas* de los procesos sociales y cognitivos de la escritura, y no como un sustituto. Donde el foco es **el inglés en concreto** — el [[english-education|inglés con fines académicos (EAP)]] y la [[teacher-role|enseñanza]] de la lengua inglesa (EFL/ESL/L2) —, véase la página de concepto dedicada a la [[english-education|educación en inglés]], que distingue la investigación específica del inglés y del registro académico de la escritura general y el aprendizaje general de lenguas.
+
+### Cómo aparece la IA en la educación de la escritura en la investigación
+
+- **Evaluación automatizada de ensayos:** los sistemas de [[automated-essay-scoring|evaluación automatizada de ensayos]] como la [[choi-anchor-aes-prompting-2025|evaluación automatizada de ensayos basada en anclas]] y [[aiawe-automated-writing-evaluation|AIAWE]] evalúan la escritura del estudiantado a escala, lo que plantea preguntas sobre la [[assessment-validity|validez de constructo]] y la reducción de la escritura a características medibles. Para la escritura argumentativa breve (unas 150–200 palabras) en español, la concordancia de la calificación con IA varía bruscamente según la dimensión de la rúbrica ([[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al., 2026]]): los ítems orientados a la estructura y el registro — introducción, conclusión, registro, concordancia nominal, concordancia sujeto-verbo — alcanzaron en la edición de 2025 una concordancia moderada corregida por azar con quienes califican de forma humana, mientras que los ítems lingüísticos de nivel micro (vocabulario, sintaxis, puntuación, conectores, argumentación) se mantuvieron en el rango de aceptable a leve. Esto sugiere que la asistencia de los LLM es más defendible para los rasgos macro del discurso y que las convenciones lingüísticas de bajo nivel deberían mantener herramientas deterministas o [[human-in-the-loop-ai|revisión humana]].
+
+- **Retroalimentación de escritura:** la investigación sobre la [[ai-feedback-quality|calidad de la retroalimentación con IA]] ([[genai-teacher-feedback-comparison|IA generativa frente a retroalimentación docente]], [[care-full-feedback-genai|retroalimentación cuidadosa]], [[repeated-ai-writing-feedback-semester|retroalimentación repetida con IA]]) examina si la retroalimentación con IA mejora la escritura y cómo se compara con la humana. El modelo PAIRR ([[pairr-ai-peer-review-2025|Revisión entre pares y con IA + reflexión]]) combina la IA con la [[peer-assessment|evaluación entre pares]] y encuentra que la retroalimentación con IA es más útil en un proceso centrado en las personas. Un cuasiexperimento de 8 semanas con 61 escritores chinos de L2 ([[teacher-vs-ai-peer-feedback-l2-writing-2026|Tang et al., 2026]]) da forma concreta a esa afirmación centrada en las personas: la retroalimentación del profesorado aportó muchos más elementos (316 frente a 185 en la primera tarea) y repriorizó hacia la organización y la argumentación, pero su ventaja en las revisiones entregadas se diluyó de 4,06 a 2,73 puntos en cuanto una segunda tarea exigió cambios estructurales, mientras que la [[peer-assessment|retroalimentación entre pares asistida por IA]] mantuvo un foco más estrecho y estable y se puso por delante (3,89 puntos, con una media de revisión de la tarea 2 de 89,82 frente a 88,35 del grupo de control, una diferencia pequeña que no alcanzó significación). Ninguno de los dos modos movió la complejidad sintáctica, así que los autores abogan por una división del trabajo híbrida «IA-Pares-Profesorado»: la IA para marcar errores y orientar el contenido, los pares para negociar las revisiones, el profesorado para la sintaxis compleja y la argumentación.
+
+- **Apoyo al proceso de escritura y agencia:** la [[agency-gap-ai-writing|investigación sobre la brecha de agencia]] y la [[ai-writing-support-stage-ownership-2026|investigación sobre la titularidad por etapas]] exploran cómo la IA cambia el proceso de escritura desde la planificación hasta la revisión, y cómo se ve afectada la [[agency|agencia]] del estudiantado cuando la IA participa en distintas etapas.
+
+- **Perspectivas poshumanistas:** [[posthumanist-ai-literacy-2025|un enfoque poshumanista de la alfabetización en IA]] reformula la escritura como un entrelazamiento humano-IA en el que la [[agency|agencia]] se distribuye, y desafía tanto la antropomorfización acrítica de la IA como su desestimación como mera herramienta: una visión relacional y no transaccional de la alfabetización en IA.
+
+- **Escritura en L2 / [[multilingual-learning|multilingüe]]:** la [[self-referential-l2-writing-llm-assessment|evaluación de la escritura en L2]], la [[genai-linguistic-diversity-academic-writing|investigación sobre diversidad lingüística]] y la [[ai-writing-support-stage-ownership-2026|investigación sobre la titularidad por etapas]] abordan cómo la IA apoya (o limita) a quienes escriben en segunda lengua y de forma multilingüe, incluido el riesgo de reforzar las normas del inglés académico estándar. La muestra de L2 más joven de la base de conocimiento procede de un programa de nueve semanas de escritura de opinión apoyada por IA generativa con 301 estudiantes de 5.º y 6.º grado en el este de China ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]), que elevó el yo ideal de escritura en L2 y la resiliencia académica y mejoró el uso de la lengua puntuado por rúbrica, mientras dejaba sin cambios la organización y las puntuaciones totales: el apoyo de la IA movió dimensiones específicas de la escritura y no la capacidad de escribir en su conjunto.
+
+- **Sesgo en la retroalimentación personalizada (Marked Pedagogies):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] muestran que las herramientas de retroalimentación de escritura con [[llm|LLM]] no son lingüísticamente neutras: personalizar la retroalimentación con la raza, la etnia, la designación de estudiante de inglés, la discapacidad de aprendizaje, el rendimiento o la motivación de un estudiante la desplaza sistemáticamente en direcciones alineadas con estereotipos — incluidos el sesgo de retroalimentación positiva y el sesgo de retención de retroalimentación (abuso del elogio, críticas menos sustantivas, supuestos de capacidad limitada) hacia el estudiantado marcado por su raza, su lengua o su discapacidad, incluso cuando el ensayo es idéntico. Esto convierte la «[[personalized-learning|personalización]]» misma en un vector de sesgo que las herramientas de retroalimentación de escritura deben auditar y controlar.
+
+- **Integridad académica:** la evidencia de encuesta complica directamente el encuadre de vigilancia: entre 504 estudiantes de sociología ([[student-genai-use-views-writing|Kuznetsov et al., 2026]]), el 65 por ciento había usado IA generativa para trabajos de curso, pero solo el 3 por ciento para generar el texto de una tarea y el 2 por ciento para producir un borrador completo, mientras que el miedo a cometer una falta académica fue la segunda preocupación más común (28 por ciento) y alrededor de una cuarta parte informó de no haber recibido ninguna orientación (19 por ciento) o de haber recibido una que le pareció poco clara. Con esta evidencia, el problema de la educación de la escritura es la ambigüedad sobre el uso permitido, y no la generación de texto generalizada. [[nash-preservice-teachers-classroom-ai-policies-2026|Nash y Burriss (2026)]] muestran cómo se produce esa ambigüedad en el aula. Al codificar las [[educational-policy-ai|políticas sobre IA]] de aula de 27 docentes de artes del lenguaje en [[teacher-education|formación]], encontraron que 26 de 27 permitían algún uso de [[generative-ai|IA generativa]], pero abrumadoramente en términos especificados por el docente, con 22 de 27 permitiendo la IA para la ideación y la lluvia de ideas y prohibiéndola para componer frases, párrafos o trabajos. Los límites rara vez se operacionalizaban — una participante permitía la IA «para poner en marcha tu pensamiento» y declaraba «aquí es donde debe trazarse la línea» sin decir dónde —, y muchas políticas prohibían a la vez entregar texto de IA y hacían al estudiantado responsable del texto de IA que entregaba, una contradicción que deja al estudiantado sin poder cumplir. Veintidós de las 27 políticas guardaban silencio sobre la lectura en su conjunto, dejando el trabajo de comprensión asistido por IA sin ninguna orientación.
+
+### La escritura como pensamiento
+
+Como la escritura es un proceso cognitivo, la investigación sobre IA y escritura se conecta con la [[cognitive-offloading|descarga cognitiva]] (¿el apoyo de la IA a la escritura puentea el pensamiento?), la [[metacognition|metacognición]] (¿mejora la retroalimentación con IA la [[self-assessment|autoevaluación]]?), el [[self-regulated-learning|aprendizaje autorregulado]] (¿regula el estudiantado su uso de la retroalimentación con IA?) y la [[ai-literacy|alfabetización en IA]] (¿puede el estudiantado evaluar críticamente la escritura generada por IA?). La investigación sobre el [[critical-thinking-genai-scaffolding|andamiaje del pensamiento crítico]] y la [[ai-feedback-critical-thinking-writing-2026|retroalimentación con IA para el pensamiento crítico]] muestra que el valor [[pedagogy|pedagógico]] de la IA en la escritura depende de si provoca reflexión y juicio en lugar de sustituir la respuesta.
+
+[[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] afina esto con un relato **sensible a las capas** de la [[cognitive-offloading|descarga cognitiva]] en la escritura académica asistida por IA generativa: delegar las capas *más profundas* (el razonamiento, la lógica argumentativa) conlleva una asociación negativa más fuerte con la calidad de la escritura independiente sin IA y con el [[critical-thinking|pensamiento de orden superior]] que delegar las capas superficiales (gramática, vocabulario). La colaboración abierta con IA produjo el mejor producto respaldado, pero los peores resultados independientes, mientras que un apoyo acotado con reflexión preservó la competencia: evidencia de que el apoyo de la IA generativa a la escritura no es uniformemente dañino, sino que su efecto depende de qué capa cognitiva delegue el estudiantado.
+
+[[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] extienden este razonamiento a la composición *multimodal* por parte de escritores más jóvenes. Hacer que 60 estudiantes de [[k-12|5.º grado]] externalizaran sus narrativas como imágenes y vídeos cortos generados por IA produjo ganancias sostenidas [[self-report-measures|autoinformadas]] en interpretación, análisis, evaluación y explicación — las facetas que ejercita la resemiotización multimodal —, pero **ninguna ganancia en inferencia**. Hacer explícito visualmente el significado rebajó la exigencia de inferir el significado implícito del texto, exactamente el mecanismo de descarga que describe Chen; solo una discusión estructurada entre pares restauró las ocasiones de inferir. El estudio advierte que la composición con [[multimodal|IA multimodal]] ayuda a los escritores jóvenes a reflexionar sobre la claridad y la coherencia, a la vez que puede descremar el trabajo inferencial que preserva la escritura solo textual: una consideración de diseño para el profesorado de escritura que combina [[visualization|recursos visuales]] de IA con la [[peer-assessment|retroalimentación]] entre pares.
+
+Un patrón específico de cada dimensión se repite en esta literatura, y es un diagnóstico útil. En el programa de escritura en L2 de primaria, la [[student-engagement|implicación]] emocional y conductual aumentó mientras que la cognitiva y la metacognitiva no lo hicieron, y los autores señalan la disminución del automonitoreo durante la escritura como un riesgo explícito del apoyo con IA generativa ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]). El disfrute y la actividad centrada en la tarea no son, por tanto, evidencia de que esté ocurriendo un procesamiento más profundo: la misma distinción que traza la investigación sobre la descarga cuando pregunta qué capa del trabajo cognitivo ha delegado un estudiante.
+
+Un [[meta-analysis-systematic-review|metaanálisis]] de 2026 ([[genai-writing-performance-meta-analysis-2026|Teng, 2026]]) de 11 efectos a nivel de estudio extraídos de 31 estudios refuerza el diagnóstico desde la dirección opuesta. Informa de una ventaja media grande para la enseñanza de la escritura apoyada por IA generativa (g = 0,80), pero con una heterogeneidad lo bastante alta como para que una nueva implementación pudiera plausiblemente no mostrar ningún beneficio, y el único moderador robusto fue la clasificación del riesgo de sesgo y no ningún rasgo pedagógico: la calidad del estudio, y no el diseño didáctico, explicaba la mayor parte de la varianza. La misma síntesis encuentra que la IA generativa es consistentemente más fuerte en los rasgos de orden inferior (gramática, diversidad léxica, fluidez de la frase), mientras que los efectos de orden superior sobre la argumentación y la coherencia siguen siendo inconsistentes, que es precisamente la brecha de capas que esta página trata como el problema central de diseño.
+
+### Diseñar el apoyo de la IA a la escritura: acompañar, no redactar
+
+Como la escritura no tiene una única respuesta correcta, las herramientas de escritura con IA exigen un diseño distinto al de los tutores con respuestas verificables. La orientación de diseño de la base de conocimiento (véase el ejemplo desarrollado del **acompañante de escritura con IA** en la pregunta frecuente sobre [[developing-ai-tutor|diseñar un tutor de IA]]) se centra en preservar la autoría y el [[evaluative-judgment|juicio evaluativo]] en lugar de producir texto acabado:
+
+- **Rastrear capacidades de escritura, no solo puntuaciones de ensayos.** El [[student-modeling|modelo de quien aprende]] de un acompañante de escritura puede rastrear la argumentación (especificidad de la tesis, alineación entre afirmación y evidencia, contraargumento), la organización, la integración de la evidencia, la revisión y el estilo, de modo que la retroalimentación se dirija a capacidades que persisten entre ensayos.
+- **Anclar la retroalimentación en la tarea.** Recuperar el enunciado real, la rúbrica, las lecturas del curso, las convenciones de cita y de género y la política de uso de IA, para que la retroalimentación se refiera a la tarea concreta en lugar de inventar expectativas genéricas.
+- **Tratar de forma distinta las etapas de la escritura.** La participación de la IA en la planificación reduce menos la titularidad percibida que en la redacción, y la redacción generada por IA produce la mayor caída de titularidad. Así, un acompañante puede hacer preguntas y criticar esquemas en la planificación, mientras exige a quien aprende producir primero la prosa en la redacción.
+- **Hacer la retroalimentación priorizada y reflexiva.** Cada ronda puede ofrecer una fortaleza que preservar, un problema de alto impacto, una pregunta que exija el juicio de quien escribe y un objetivo de revisión concreto, y el acompañante debería pedir a quienes aprenden que valoren si están de acuerdo con una sugerencia, desarrollando el [[feedback-literacy|juicio evaluativo]] en lugar de la obediencia.
+- **Preservar la voz autoral y proteger frente a la homogeneización.** El acompañante debería distinguir errores, problemas de claridad, elecciones retóricas y preferencias de estilo, y no «corregir» automáticamente estas últimas, sobre todo en el caso de quienes escriben de forma [[multilingual-learning|multilingüe]] y de estilos retóricos no estándar.
+
+Dos síntesis recientes matizan hasta qué punto se sigue esta orientación de diseño en la práctica. Una revisión de 23 estudios empíricos de personalización ([[customizing-ai-writing-pedagogy-systematic-review-2026|Luo, 2026]]) encuentra que, aunque los objetivos se han desplazado hacia los procesos de escritura y las habilidades de orden superior, la vía técnica dominante sigue siendo la [[prompt-engineering|ingeniería de prompts]] (13 de 23 estudios) orientada a optimizar la calidad de la salida, con la [[learning-theories|teoría del aprendizaje]] confinada a la interfaz, de modo que el sistema se comporta «en gran medida de forma ajena a la teoría»: un desajuste que ayuda a explicar la [[cognitive-offloading|dependencia excesiva]] y la revisión superficial que notifican esos mismos estudios. Su reformulación consiste en tratar la personalización como arquitectura y no como redacción: secuenciar etapas, retener respuestas e incorporar bucles de revisión. Un flujo de trabajo estructurado en cinco partes, probado durante 11 semanas con 53 estudiantes saudíes de grado de inglés como lengua extranjera ([[human-ai-collaboration-academic-writing-2026|Alshehri et al., 2026]]), muestra la alternativa en la práctica: el estudiantado enmarca problemas y diseña prompts, redacta, revisa, verifica afirmaciones y citas contra bases de datos académicas y regula su propia dependencia, registrando qué acepta o rechaza y por qué. La competencia en escritura y el [[critical-thinking|pensamiento crítico]] digital subieron juntos en esa condición (15,23 frente a 11,91 y 89,84 frente a 56,18 en la posprueba), mientras que el grupo de control sin IA apenas se movió, aunque el resultado de una sola sede y en parte [[self-report-measures|autoinformado]] es un límite superior preliminar y no un efecto establecido.
+
+Esta postura de acompañar y no redactar es la expresión en el dominio de la escritura del límite general de la base de conocimiento, «[[coach-not-crutch-ai-writing|acompañar en lugar de servir de muleta]]»: identificar la actividad cognitiva que produce aprendizaje (planificar, redactar, evaluar, revisar) y diseñar la IA para sostenerla sin quitársela a quien aprende.
+
+### Conexiones
+
+La educación de la escritura se conecta con la [[automated-essay-scoring|evaluación automatizada de ensayos]], la [[ai-feedback-quality|calidad de la retroalimentación con IA]], la [[academic-integrity|integridad académica]], la [[cognitive-offloading|descarga cognitiva]], la [[ai-literacy|alfabetización en IA]], el [[language-learning|aprendizaje de lenguas]], la [[formative-assessment|evaluación formativa]], la [[peer-assessment|evaluación entre pares]], la [[metacognition|metacognición]], el [[self-regulated-learning|aprendizaje autorregulado]] y la [[higher-ed|educación superior]]. Es un dominio donde las capacidades y los riesgos de la IA son ambos muy visibles, lo que lo convierte en un sitio rico para estudiar cómo la IA transforma la pedagogía, la [[assessment|evaluación]] y la propia naturaleza de la autoría y la [[agency|agencia]].
+
+## Implicaciones para el profesorado de escritura
+
+- **Enmarcar la IA como complemento, y no como sustituto, del proceso de escritura.** La investigación de la base de conocimiento trata de forma consistente la IA como un andamiaje para redactar, revisar y dar retroalimentación, a la vez que protege el trabajo cognitivo y el público humano que convierten la escritura en una actividad de aprendizaje: [[coach-not-crutch-ai-writing|acompañar en lugar de servir de muleta]].
+- **Usar la retroalimentación con IA dentro de un proceso centrado en las personas.** [[pairr-ai-peer-review-2025|PAIRR]] encuentra que la retroalimentación con IA es más útil combinada con la revisión entre pares y la reflexión; diseñe bucles de retroalimentación que mantengan en el centro al profesorado y al público de pares.
+- **Auditar la retroalimentación automatizada en busca de sesgo.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] muestra que la retroalimentación con LLM se desplaza en direcciones alineadas con estereotipos cuando se personaliza con atributos del estudiantado: vigile el sesgo positivo y el de retención, y deje explícito que la personalización puede ser un vector de sesgo.
+- **Proteger el trabajo cognitivo de la escritura.** Vigile la [[cognitive-offloading|dependencia excesiva]] que puentea la planificación, la revisión y la autoevaluación; use la IA en etapas elegidas ([[ai-writing-support-stage-ownership-2026|titularidad por etapas]]) para proteger la agencia del estudiantado.
+
+- **Diseñar para empoderar en lugar de para imponer.** Un estudio PLS-SEM con 327 estudiantes chinos de grado de inglés como lengua extranjera ([[empowerment-ai-assisted-deep-revision-efl-writing-2026|Li y Zhang, 2026]]) puso a prueba las dos palancas que el profesorado de escritura realmente tiene y encontró que solo una funciona. La alfabetización en [[prompt-engineering|ingeniería de prompts]] con IA predijo con fuerza la competencia percibida, la seguridad psicológica y la [[motivation|motivación intrínseca]], y las tres necesidades psicológicas mediaron parcialmente su vínculo con la implicación en la revisión profunda, con la motivación intrínseca como el factor individual más potente de la revisión profunda. Los mandatos externos no tuvieron ningún efecto directo. La traducción práctica es que exigir una revisión profunda no la produce: puede que el requisito impositivo sea necesario para que la revisión ocurra, pero la profundidad viene de construir la capacidad de prompting del estudiantado y la motivación intrínseca y la seguridad psicológica que se derivan de ella.
+
+- **Abordar la integridad académica de forma constructiva.** Pasar de vigilar el uso de la IA a construir la [[ai-literacy|alfabetización en IA]] y un encuadre de uso ético que permita al estudiantado usar la IA sin incurrir en faltas involuntarias.
+
+## Conceptos conectados
+
+- [[automated-essay-scoring]]
+- [[ai-feedback-quality]]
+- [[academic-integrity]]
+- [[cognitive-offloading]]
+- [[ai-literacy]]
+- [[language-learning]]
+- [[higher-ed]]
+- [[metacognition]]
+- [[llm]]
+- [[generative-ai]]
+- [[formative-assessment]]
+- [[peer-assessment]]
+- [[self-regulated-learning]]
+- [[student-experience]]
+- [[feedback-literacy]]
+- [[feedback]]
+- [[discipline-specific-aied]]
+- [[english-education]]
+- [[assessment]]
+- [[agency]]
+
+## Artículos conectados
+- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Políticas de aula sobre IA de docentes en formación: tensiones y entrelazamientos
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Un marco con intervención humana para la calificación asistida por IA en la evaluación de escritura a gran escala
+- [[llm-comparative-judgment-writing-screening-2026]] — Validez del juicio comparativo con grandes modelos de lenguaje para el cribado universal de escritura
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Descarga cognitiva sensible a las capas en la escritura asistida por IA generativa (Chen 2026)
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
+- [[benali-genai-academic-writing-2026]]
+- [[coach-not-crutch-ai-writing]] — Las herramientas de escritura con IA pueden mejorar la habilidad de escribir pese a reducir el esfuerzo (Lira et al. 2025)
+- [[llms-do-not-grade-essays-like-humans-2026]] — Los LLM no califican ensayos como las personas (Mathew et al. 2026)
+- [[pairr-ai-peer-review-2025]] — Revisión entre pares y con IA + reflexión (PAIRR)
+- [[posthumanist-ai-literacy-2025]] — Un enfoque poshumanista de la alfabetización en IA
+- [[choi-anchor-aes-prompting-2025]] — Evaluación automatizada de ensayos basada en anclas
+- [[aiawe-automated-writing-evaluation]] — AIAWE: evaluación automatizada de la escritura
+- [[agency-gap-ai-writing]] — La brecha de agencia en la escritura asistida por IA
+- [[ai-writing-support-stage-ownership-2026]] — De la planificación a la revisión: el apoyo de la IA a la escritura en distintas etapas
+- [[genai-teacher-feedback-comparison]] — Comparar la retroalimentación de la IA generativa y del profesorado
+- [[student-rationalization-ai-writing]] — «Está bien porque…»: el salvaje oeste de la racionalización del estudiantado
+- [[care-full-feedback-genai]] — Enfoques de retroalimentación cuidadosa
+- [[self-referential-l2-writing-llm-assessment]] — Evaluación autorreferencial de la escritura en L2
+- [[becerra-aicofe-feedback-2026]] — Sistemas de retroalimentación entre pares con IA
+- [[repeated-ai-writing-feedback-semester]] — Evaluación del estudiantado de la retroalimentación repetida con IA
+- [[elementary-writing-genai-systematic-review-2026]] — Repensar la enseñanza de la escritura en primaria
+- [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: andamiaje para la redacción de narrativas
+- [[ai-feedback-critical-thinking-writing-2026]] — Usar la retroalimentación generada por IA para mejorar el pensamiento crítico
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: sesgos lingüísticos en la retroalimentación automatizada y personalizada de escritura
+- [[zuo-instructor-power-genai-writing-2026]] — Relaciones de poder percibidas por docentes universitarios que lidian con la IA generativa en la escritura (Zuo, Xu y Dunning 2026)
+- [[bassett-ai-detectors-education-2026]] — Cara gano yo, cruz pierdes tú: los detectores de IA en educación (Bassett et al. 2026)
+- [[academic-erasure-complexity-ai-writing-2026]] — Borrado académico: la desaparición de la complejidad bajo la escritura asistida por IA
+- [[making-ai-annoying-constrained-writing-2026]] — Hacer que la IA moleste a propósito: la restricción en la escritura asistida por IA (Konradt, Boote y Taub 2026)
+- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Composición multimodal con IA y pensamiento crítico en la escritura de primaria (Lu et al. 2027)
+- [[student-genai-use-views-writing]] — Uso y opiniones del estudiantado sobre la IA generativa para escribir (Kuznetsov, Sheely y Baker 2026)
+- [[genai-writing-program-primary-l2-motivation-engagement]] — Un programa de escritura apoyado por IA generativa para la motivación, la implicación y el rendimiento en L2 en primaria (Lu et al. 2026)
+- [[automated-scoring-marketing-posts-agreement-2026]] — Concordancia y error en la calificación automatizada de publicaciones de marketing del estudiantado
+- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — La alfabetización en prompting y la motivación intrínseca impulsan la revisión profunda, mientras que los mandatos externos no tienen efecto directo (Li y Zhang 2026)
+- [[swim-student-writing-simulation-2026]] — simulación de la escritura del estudiantado condicionada por perfiles de competencia a nivel de rasgo
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluar el foco de la retroalimentación y la adaptabilidad pedagógica en la retroalimentación generada por LLM sobre la escritura del estudiantado
+- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Retroalimentación del profesorado frente a retroalimentación entre pares asistida por IA como andamiajes heterogéneos en L2 en un cuasiexperimento de 8 semanas (Tang et al. 2026)
+- [[genai-writing-performance-meta-analysis-2026]] — Metaanálisis del rendimiento en escritura con IA generativa: efecto agrupado grande, magnitud frágil, la metodología por encima de la pedagogía (Teng 2026)
+- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — Revisión sistemática de la personalización de la escritura con IA y el desajuste entre teoría y diseño (Luo 2026)
+- [[human-ai-collaboration-academic-writing-2026]] — Colaboración estructurada humano-IA en la escritura académica y el pensamiento crítico digital (Alshehri et al. 2026)
