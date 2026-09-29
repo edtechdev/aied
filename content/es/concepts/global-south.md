@@ -1,7 +1,7 @@
 ---
 title: Sur global
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-09-28T19:10:33-04:00"
+updated: "2026-09-29T07:11:41-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-09-28T21:44:10-04:00"
+source_updated: "2026-09-29T07:11:41-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -50,8 +50,6 @@ La investigación convencional sobre IA y tecnología educativa ha estado histó
 - **Discapacidad e [[inclusive-learning|inclusión]] en el Sur global:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] — un estudio de caso [[qualitative-research|cualitativo]] con 21 estudiantes universitarios con discapacidad visual de tres universidades palestinas — encontró que la IA generativa tiende puentes sobre las brechas digitales, geográficas y socioeconómicas de quienes aprenden con discapacidad, extendiendo la investigación sobre el [[technology-acceptance-model|modelo de aceptación tecnológica]] a contextos de discapacidad donde la [[usability-research|usabilidad]], la asequibilidad y la [[accessibility|accesibilidad]] se refuerzan mutuamente.
 - **Diseñar para estresores locales bajo restricciones de recursos:** Bashir y Afzal (2026) construyen [[culturally-aware-student-stress-chatbot-2026|Sukoon]] como una respuesta de diseño del Sur global ante un desajuste documentado: los [[conversational-ai|chatbots]] de salud mental entrenados mayoritariamente con datos occidentales y abrumadoramente en inglés, mientras que el estudiantado pakistaní afronta a la vez estresores académicos, económicos, familiares y relacionales y a menudo no puede plantear sus dificultades emocionales a [[parents-and-families|sus familias]], a su [[teacher-role|profesorado]] o a sus pares por el estigma. Las restricciones prácticas de los autores son tan instructivas como su modelo: un [[llm|LLM]] [[open-source|de código abierto]] de acceso gratuito a través de una API alojada por sus bajos requisitos de recursos, un despliegue ligero en Flask para universidades regionales, «las herramientas están disponibles pero suelen ser caras» enumerado como barrera, y el acceso desigual a los modelos de pago señalado como riesgo de dependencia general. También señalan que el clasificador se entrenó con un conjunto de datos público que no representa al estudiantado pakistaní, y se comprometen a recoger datos DASS-21 localmente antes de extraer conclusiones poblacionales.
 - **Evidencia de evaluación escasa y específica de herramientas en la educación superior africana:** [[genai-assessment-african-higher-education-review-2026|Una revisión sistemática PRISMA 2020]] de la investigación empírica publicada entre 2023 y 2025 localizó solo diez estudios, concentrados en Nigeria y Sudáfrica y realizados casi exclusivamente con ChatGPT, de modo que lo que se sabe sobre rediseñar la evaluación para la IA generativa en la educación superior africana se apoya en estudios de muestra pequeña, de una sola institución y autoinformados, y no en ganancias de aprendizaje medidas; los autores de la revisión enmarcan sus recomendaciones como orientaciones y no como efectos establecidos.
-
-- **La localización de datos como restricción de diseño:** [[deepedu-v1-vietnamese-education-ai-tutoring-2026|DeepEdu-v1]] es una pila de tutoría vietnamita autoalojada, construida porque enrutar los expedientes del estudiantado a servidores extranjeros violaría la ley nacional de localización de datos, y porque no se puede confiar en modelos entrenados con corpus centrados en Occidente para el currículo de los libros de texto nacionales. Su contribución es de infraestructura y no de aprendizaje medido: 7,7 veces menos llamadas de recuperación y una latencia de prellenado en torno a un 35% menor que una línea base publicada de atención selectiva.
 
 ### Implicaciones
 
