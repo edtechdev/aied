@@ -8,11 +8,11 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "en": {
     "epub": {
       "url": "/aied/aied.epub",
-      "bytes": 2182326
+      "bytes": 2186492
     },
     "pdf": {
       "url": "/aied/aied.pdf",
-      "bytes": 5859894
+      "bytes": 5865446
     },
     "llms": {
       "url": "/aied/llms.txt",
@@ -30,11 +30,11 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "es": {
     "epub": {
       "url": "/aied/aied.es.epub",
-      "bytes": 2419329
+      "bytes": 2423204
     },
     "pdf": {
       "url": "/aied/aied.es.pdf",
-      "bytes": 6415975
+      "bytes": 6419308
     },
     "llms": {
       "url": "/aied/llms.es.txt",
