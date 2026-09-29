@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-09-29T09:45:00-04:00"
+updated: "2026-09-29T10:29:04-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
@@ -29,9 +29,6 @@ The digital divide is commonly understood as operating across **three levels** (
 - **AI literacy as a mechanism for equity:** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|The SAIL framework]] was explicitly designed to address second- and third-level divides, providing a scaffolded, age-agnostic pathway for equitable AI literacy across all stages of education, grounded in the argument that AI literacy is inseparable from equity and participation.
 
 - **Policy and infrastructure:** [[oecd-digital-education-outlook-2026|OECD Digital Education Outlook 2026]] situates the digital divide within national [[educational-policy-ai|education policy]], examining how access to digital and AI technologies varies and what systems can do to close gaps.
-
-
-- **Measuring the first-level divide school by school.** Agray (2026) built a Digital Infrastructure Coverage Index from India's UDISE+ 2024–25 census of 1,471,473 schools and found that devices and connectivity, not electrification, are the binding constraint: 618,789 schools (42.1%) lack a pedagogical computer against 119,412 (8.1%) without electricity ([[digital-infrastructure-coverage-index-indian-schools-2026]]). National averages can overstate coverage, and the first-level divide is measurable at the level policy actually acts on.
 
 - **Responsible-use and [[prompt-engineering|prompting]] literacy:** [[aaai2026-prompting-literacy-k12|K-12 prompting-literacy research]] addresses the second-level divide by [[teacher-role|teaching]] students the skills to use AI [[conversational-ai|chatbots]] responsibly, recognizing that access alone does not confer the ability to [[ai-literacy|use AI well]].
 
@@ -86,4 +83,3 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital inequality as distributive problem vs. algorithmic coloniality as epistemic one, in South African HDIs
 
 - [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
-- [[digital-infrastructure-coverage-index-indian-schools-2026]] — Access before readiness: constructing and stress-testing a Digital Infrastructure Coverage Index

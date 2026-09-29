@@ -30,6 +30,20 @@ journal scanned by a narrow-topic pipeline will otherwise feed off-topic work in
 name the source in this prompt and say what to keep (per-item relevance filter), and give the source
 its own section heading in the backlog file, since that heading is the append target even while empty.
 
+### 1b. Check the rejected-paper denylist first (HARD)
+
+`AIED-REJECTED.md` at the wiki root is the maintainer's private record of material judged
+unsuitable, screened out of a sweep, or removed from the site after review. It is gitignored:
+read it locally, never publish it, and never copy its entries into a tracked file.
+
+For EVERY candidate from the feed, before the existing-article check and before ingesting,
+compare it against that file and **skip** any paper whose **DOI, arXiv id or title** matches an
+entry there. Match on **paper identity — DOI, arXiv id, normalized title — never on the slug**:
+a removed paper returns through a feed under a fresh slug, so a filename check cannot catch it.
+An entry is a maintainer decision to decline: do not ingest the paper and do not add it to
+`AIED-BACKLOG.md`. Report every candidate skipped this way, with the matching entry, in the run
+summary.
+
 ### 2. Check for existing articles — CONTENT-based dedup (HARD)
 Read /tmp/rss-articles.json. For EVERY candidate, extract its DOI (and title) and search **the contents** of `content/en/articles/` AND `raw/papers/` for that DOI string and a normalized title match before treating it as new.
 
