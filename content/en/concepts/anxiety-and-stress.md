@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-09-26T08:41:16-04:00"
+updated: "2026-09-29T15:31:39-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -37,6 +37,8 @@ The clearest and most-studied source of AI-induced stress is [[remote-proctoring
 - Institutions adopting remote proctoring must pair AI monitoring with **accessible alternatives, clear communication, and support for test-taker anxiety**, and weigh it against [[authentic-assessment|authentic assessment]] alternatives that reduce surveillance.
 
 This cluster connects AI anxiety to [[privacy]], [[academic-integrity]], and [[equity-in-ai-education]]: the stress falls hardest on tool-novice and already-vulnerable students.
+
+**Pressure that comes from continuous evaluation, not only from surveillance.** A 2026 conceptual manuscript revisiting Mulvenon's multi-stakeholder test-anxiety framework ([[mulvenon-test-anxiety-ai-accountability-2026|Mulvenon 2026]]) argues that the stressor itself has changed shape: as evaluation moves from episodic [[summative-assessment|high-stakes testing]] into continuous, data-rich interaction in [[adaptive-learning|adaptive]] and [[learning-analytics|analytics]]-mediated environments, acute test anxiety can fall while a diffuse, ongoing performance vigilance — what the paper calls "invisible anxiety" — rises in its place. It names "algorithmic accountability," carried by immediacy, visibility and data permanence, as the mechanism that redistributes pressure rather than removing it, and proposes an AI-Mediated Multi-Stakeholder Anxiety Model that measures none of its constructs, so the redistribution claim is argued from literature rather than demonstrated.
 
 ## AI anxiety as a learner emotion (barrier and signal)
 

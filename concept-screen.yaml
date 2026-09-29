@@ -404,3 +404,23 @@
   integrated: [human-ai-collaboration, metacognition]
   no_change: [agency]
   reason: "HACC reframes collaboration competency as a dynamic configuration rather than additive skills, reassigns TPACK's integrative role to learner metacognition and treats agency as emergent; both pages gained that framing. The agency page already carried agency as enacted, emergent and non-competency, and the one novel element - the framework's self-acknowledged inability to measure agency directly - has no purchase on a page that does not frame agency as measurable."
+- article: sadik-ai-ready-engineering-talent-faculty-2026
+  date: 2026-09-29
+  integrated: []
+  no_change: [ai-use-disclosure, prior-knowledge, academic-integrity, curriculum-design, change-management, engineering-education, cognitive-offloading, professional-training]
+  reason: "No pair qualified. The study's central contribution, conditional integration via five conditions, is already the substance of the pages screened - developmental-readiness staging is carried on curriculum-design (the refrain-then-amplify forming-versus-offloading criterion), disclosure and provenance on ai-use-disclosure, verification and task purpose on cognitive-offloading, and reciprocal professional accountability on engineering-education's ethics-to-accountability gap - so the faculty interview material adds another instance of claim classes those pages already carry."
+- article: loidl-chatgpt-career-development-2026
+  date: 2026-09-29
+  integrated: [career-development-and-readiness]
+  no_change: [technology-acceptance-model, student-ai-interaction, social-norms-ai-use]
+  reason: "Integrated into career-development-and-readiness: the page carried readiness capacities and employer skills gaps but no evidence on AI-mediated career preparation itself, so the 81% ChatGPT use and resume-led task distribution (52.94%) is a distinguishing dimension. Skipped three: the TAM regression reproduces a drop-out pattern the technology-acceptance-model page already carries in several extensions, and the tailoring/rehearsal and social-influence findings restate claims held by student-ai-interaction and social-norms-ai-use."
+- article: page-cognitive-partnership-cycle-human-ai-2026
+  date: 2026-09-29
+  integrated: [student-ai-interaction]
+  no_change: [human-ai-collaboration, metacognition, distributed-cognition, cognitive-offloading]
+  reason: "Integrated into student-ai-interaction: the page's form-to-learning account treats sustained iterative dialogue as the better pattern, and the conceptual distinction between conversational and cognitive iteration supplies the missing limit - that turn count is not a proxy for engagement depth. Skipped four: human-ai-collaboration already carries who-generates-and-decides and the performance-versus-learning caution, and metacognition, distributed-cognition and cognitive-offloading restate mechanisms their narratives already state."
+- article: mulvenon-test-anxiety-ai-accountability-2026
+  date: 2026-09-29
+  integrated: [anxiety-and-stress]
+  no_change: [teacher-role, learning-analytics, governance, student-modeling, formative-assessment]
+  reason: "Integrated into anxiety-and-stress: the page's assessment-pressure material was proctoring surveillance and career anxiety, with nothing on the shift from episodic testing to continuous data-driven evaluation, so the invisible-anxiety and algorithmic-accountability redistribution claim is distinguishing (recorded as argued from literature, not measured). Skipped five: teacher-role's continuous dashboard monitoring, learning-analytics' pipeline, and the governance, student-modeling and formative-assessment claims are already carried with stronger evidence."
