@@ -576,6 +576,15 @@ def astro_body_markdown(astro_path, chapter_h1, locale=None, anchor=None):
         return '\n' + '#'*level + ' ' + _html.unescape(m.group(1)).strip() + '\n'
     body = re.sub(r'<h1\b[^>]*>(.*?)</h1>', lambda m: heading(m,1), body, flags=re.S)
     body = re.sub(r'<h2\b[^>]*>(.*?)</h2>', lambda m: heading(m,2), body, flags=re.S)
+    # H3 (and H4) need the same handler as H1/H2. Without it the tag was merely
+    # stripped by the catch-all below, so a heading's text stayed inline and ran
+    # into whatever followed it -- the home page's per-audience labels reached the
+    # books as "Essential concepts[AI literacy](#ai-literacy), ...", a glued
+    # heading. The site hid the bug: its CSS puts the label on its own line, the
+    # book stylesheets do not. Emitting a heading keeps the label a block of its
+    # own in the EPUB and the PDF, matching the site's H3 structure.
+    body = re.sub(r'<h3\b[^>]*>(.*?)</h3>', lambda m: heading(m,3), body, flags=re.S)
+    body = re.sub(r'<h4\b[^>]*>(.*?)</h4>', lambda m: heading(m,4), body, flags=re.S)
 
     def code(m):
         return '\n```\n' + _html.unescape(m.group(1)).strip() + '\n```\n'
