@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-25T13:20:56-04:00"
+updated: "2026-09-29T09:45:00-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -187,3 +187,4 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 - [[llm-graders-computer-science-exams-2026]] — Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams
 - [[llm-automated-coding-teacher-pck-2026]] — Multi-agent LLM (GradeOpt) coding teachers' open-ended CK and PCK responses, reliability from prompt refinement against a coding manual
+- [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools

@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-28T22:17:25-04:00"
+updated: "2026-09-29T09:45:00-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -42,6 +42,8 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - **Synthetic benchmarks for AI tutoring.** Open, reproducible datasets for evaluating AI tutoring remain scarce. ASTRA (Adaptive Socially-intelligent Team Reasoning Agents) is a multi-agent tutoring prototype and benchmark framework for studying collaborative programming with socially differentiated agents, supporting alone-tutor, pair-tutor, and pair-multiagent configurations (N=540; 360 sessions; 1,440 episodes) with a trace-ready schema for reproducible analysis of interaction, participation balance, and verification.
 - **Auditing benchmarks is now a research contribution in its own right.** Three 2026 artifacts push benchmark work past leaderboard aggregation. EduFair-Bench holds a simulated student fixed and varies demographic attributes, turning a tutoring benchmark into a fairness audit with turn-level pedagogical metrics ([[edufair-bench-pedagogical-fairness-llm-tutors-2026]]). GeoVAD-Bench diagnoses intermediate visual constructions — perception, auxiliary quality, utilization — rather than final correctness on 600 [[math-education|geometry]] problems ([[geovad-bench-visual-chain-of-thought-geometry-2026]]). Expert re-grading of six [[physics-education|physics]] benchmarks quantified the error such scores carry: 57.20% of audited rejections were item defects, 38.00% grader errors and only 4.80% true model failures ([[frontier-models-physics-benchmark-audit-2026]]). Together they argue that a benchmark score should always be read with its own audited error budget, which is the same discipline [[assessment-validity]] asks of classroom instruments.
 - **Decoupled annotation and question generation as a construction paradigm.** Most benchmarks build task-specific question–answer pairs per item or image, which makes extending to new tasks expensive, makes data hard to reuse across tasks, and leaves limited control over question form and complexity. MUSE inverts the order: annotate each artwork once into a reusable structured representation of its visual and semantic content, then instantiate 12 tasks from predefined generation rules, so one image yields a multi-view evaluation instance with difficulty and format treated as explicit design variables rather than by-products ([[muse-vlm-artistic-image-benchmark-2026]]). Its correlation evidence is a second argument for the design — the 12 tasks measure related but non-redundant capabilities (Jigsaw Puzzle correlates weakly with most others, ρ = 0.25 to −0.10), and on six external benchmarks general multimodal scores transfer unevenly to artistic educational imagery (BLINK Jigsaw vs. MUSE Jigsaw ρ = −0.20), which is the construct-coverage case against reading any single aggregate score as a proxy for educationally relevant capability ([[muse-vlm-artistic-image-benchmark-2026]]).
+- **K-12 science coverage and the saturation problem.** An NGSS-aligned benchmark for middle and high school science (1,078 + 1,150 synthetic items, three-judge validated) found nine open-weight models above 90% one-shot accuracy, while classical item statistics showed high difficulty values and low discrimination: model size did not predict performance, and the authors ask whether the test is too easy ([[llm-benchmark-secondary-science-topics-2026]]). It is the domain-specific case for reading a benchmark's own item statistics alongside its leaderboard.
+
 
 ## Connected Concepts
 
@@ -79,3 +81,4 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
 - [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
+- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
