@@ -1,7 +1,7 @@
 ---
 title: Equidad
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-09-25T03:07:36-04:00"
+updated: "2026-09-28T22:08:03-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,10 +12,14 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-25T21:56:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -40,6 +44,7 @@ La equidad en la [[ai-education|educación con IA]] aborda tres preocupaciones q
 ## Equidad de acceso y de infraestructura
 
 - **La brecha digital:** [[digital-divide|el acceso desigual]] a las herramientas de aprendizaje impulsadas por IA entre líneas socioeconómicas, regiones y naciones es una barrera fundacional.  documenta cómo los beneficios de la [[generative-ai|IA generativa]] se distribuyen de forma desigual entre países e instituciones.
+- **La calidad de la herramienta forma parte de la brecha, y no solo el acceso a ella:** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] envió 50 prompts de matemáticas tres veces cada uno a los niveles gratuito y premium del mismo modelo y encontró que el nivel gratuito era inexacto en 49 de sus 150 respuestas (**32,7%**) frente a 18 de 150 (**12%**) del nivel premium (χ2(1) = 17,5, p < 0,001); el profesorado del centro con menos recursos de los dos estudiados calificó el modelo gratuito de «rayano en lo inútil para las matemáticas». Los autores leen esto como una brecha algorítmica que extiende la [[digital-divide|brecha digital]] más allá del acceso a los dispositivos hasta la calidad de la propia herramienta, de modo que un centro con «acceso a la IA» puede seguir entregando a su estudiantado un tutor materialmente menos fiable, con su propia salvedad de que la comparación fue exploratoria y los prompts no se aleatorizaron, lo que hace que el tamaño de la brecha sea indicativo y no concluyente. El mismo estudio muestra que la dirección que toma la brecha no está fijada por la herramienta: donde el profesorado exigía al estudiantado comparar la salida de la IA con su propio trabajo y daba al modelo un prompt previo para que retuviera las soluciones, la salida se convertía en un artefacto para la crítica, mientras que en las clases sin mediación el estudiantado consultaba primero el algoritmo y el profesorado pasaba a ser un validador («ya no soy el oráculo; soy el editor»).
 - **El acceso no basta:** [[access-not-enough-ai-tutoring-2026|proporcionar herramientas de IA sin abordar las barreras estructurales]] no cierra las brechas; el acceso debe ir acompañado de competencias, apoyo y condiciones que permitan un uso genuino.
 - **El profesorado prevé que la brecha se amplíe.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson y Rainie (2026)]] encuestaron a **1.057 docentes de universidades y colleges de EE. UU.** y encontraron que el **81%** esperaba que la IA generativa ampliara las desigualdades digitales (**58%** decía que mucho), la expectativa de equidad más fuerte del informe y que convive con el **68%** que dijo que sus instituciones no habían preparado al profesorado para usar las herramientas en la enseñanza y la mentoría. La misma encuesta muestra lo desigual de la adopción: el **26%** de las personas encuestadas no usa IA generativa en absoluto, cifra que sube al **40%** del profesorado de artes y [[humanities-education|humanidades]] y al **28%** de quienes trabajan en ciencias sociales, de modo que el no uso y la falta de preparación se concentran en determinadas [[discipline-specific-aied|disciplinas]]. El informe es una muestra no probabilística que sus autores declaran no generalizable, así que estas son las preocupaciones expresadas del sector y no efectos medidos.
 - **Desventaja de infraestructura:** [[structural-silence-underrepresented-language-ai-2026|Structural Silence]] muestra que la *infraestructura* de la IA (corpus de entrenamiento, tokenización, [[benchmark|puntos de referencia]], arquitecturas de despliegue) sitúa sistemáticamente en desventaja a quienes hablan lenguas infrarrepresentadas *antes de que se entrene un modelo*, y replantea la escasez de datos como un problema estructural y no incidental.
@@ -57,7 +62,7 @@ La preparación importa más que la preferencia, y el derecho a rechazar se dist
 
 ## Equidad de resultados
 
-- **Impacto diferenciado:** las herramientas de IA pueden ampliar las brechas si se diseñan sin una lente de equidad; [[genai-higher-education-systematic-review-2026|las revisiones sistemáticas]] y [[ai-scoring-language-bias-physics|los estudios sobre sesgo en la corrección]] muestran beneficios y daños desiguales entre grupos de estudiantes.
+- **Impacto diferenciado:** las herramientas de IA pueden ampliar las brechas si se diseñan sin una lente de equidad; [[genai-higher-education-systematic-review-2026|las revisiones sistemáticas]] y [[ai-scoring-language-bias-physics|los estudios sobre sesgo en la corrección]] muestran beneficios y daños desiguales entre grupos de estudiantes. La evidencia agrupada del beneficio arrastra el mismo límite: [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026|Jing et al. (2026)]] estiman una ganancia global de moderada a grande para estudiantes de grado en 35 estudios (g=0,53, IC del 95% [0,48, 0,64]) y a la vez afirman que el acceso desigual a herramientas costosas es uno de los riesgos que esos tamaños del efecto no pueden captar, y las pruebas de Egger significativas para el rendimiento académico y las competencias profesionales dejan sin resolver la asimetría del gráfico en embudo y los efectos de estudios pequeños.
 - **Amplificación del sesgo:** las sugerencias de la IA y la [[ai-feedback-quality|retroalimentación automatizada]] pueden reforzar (y no cuestionar) los sesgos existentes del profesorado y del sistema. [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] muestra que las herramientas de retroalimentación de escritura con LLM se desplazan sistemáticamente hacia el elogio alineado con estereotipos y la crítica retenida cuando la retroalimentación se personaliza con la raza, la lengua, la discapacidad, el rendimiento o la motivación del estudiante, incluso con ensayos idénticos, lo que convierte la «[[personalized-learning|personalización]]» en un vector de sesgo concreto en la retroalimentación automatizada.
 - **Sistemas conscientes de la justicia:** [[bias-mitigation|la mitigación de sesgos]] y la investigación sobre [[ground-truth-reliability-aied|fiabilidad de la verdad de referencia]] desarrollan métodos para detectar y corregir el sesgo en tutores, correctores y sistemas de recomendación con IA.
 - **Los regularizadores de justicia pueden no generalizar a estudiantes nuevos:** [[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]] añadieron una regularización de la brecha de error dirigida al género y la edad a un transformador [[multimodal]] que predice la atención del estudiantado en tiempo real, y encontraron que reducía las disparidades demográficas en los datos de *validación*, pero esas ganancias no se trasladaban de forma consistente a sujetos reservados ni a divisiones repetidas por sujeto (el modelo regularizado redujo la brecha en solo 4 de 10 ejecuciones de entrenamiento). Una justicia certificada en una sola división puede por tanto desvanecerse con estudiantes genuinamente nuevos; la IA educativa necesita evaluaciones con sujetos excluidos y semillas repetidas, y no solo métricas agregadas.
@@ -154,3 +159,7 @@ La preparación importa más que la preferencia, y el derecho a rechazar se dist
 - [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — Juicio ético basado en escenarios y alfabetización en IA entre 531 estudiantes de grado
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: la tutoría con IA y la humana producen ganancias de aprendizaje equivalentes en el GRE
 - [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus deberes. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en informática en la era de la IA generativa
+
+- [[genai-social-bias-software-engineering-education-2026]] — La IA generativa puede reforzar los sesgos sociales en la educación en ingeniería de software
+- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Brecha de precisión entre el nivel gratuito y el modelo premium en matemáticas: 32,7% frente a 12% (Canonigo 2026)
+- [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Ganancias de aprendizaje agrupadas con IA generativa (g=0,53) y el acceso desigual a herramientas costosas que no pueden captar

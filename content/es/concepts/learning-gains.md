@@ -1,7 +1,7 @@
 ---
 title: Mejoras en el aprendizaje
 created: "2026-09-25T04:31:08-04:00"
-updated: "2026-09-25T04:31:08-04:00"
+updated: "2026-09-28T22:04:22-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -11,10 +11,14 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-28T03:40:56-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -58,6 +62,7 @@ A lo largo de los [[rct|ECA]], los [[meta-analysis-systematic-review|metaanális
 
 - **La evidencia metaanalítica es en general positiva pero condicional.** [[genai-educational-outcomes-meta-analysis|Un metaanálisis exhaustivo de 53 estudios]] (Dong 2026) encuentra que la IA generativa supera en general a los enfoques tradicionales en rendimiento académico, [[critical-thinking|pensamiento de orden superior]] y escritura, con la [[ai-feedback-quality|retroalimentación con IA]] especialmente eficaz, aunque la IA generativa asistida por juegos no muestra ningún beneficio añadido significativo y las mejoras varían según el país y el resultado. [[genai-meta-analysis-programming-learning|El metaanálisis de la IA generativa y la programación]] encuentra grandes mejoras de productividad pero ninguna mejora significativa en el aprendizaje (g ≈ 0), lo que separa la eficiencia de la tarea del aprendizaje duradero. [[robot-assisted-language-learning-meta-analysis-2026|Un metaanálisis sobre el aprendizaje de idiomas]] encuentra mejoras positivas pero modestas en el aprendizaje con robots [[embodied-learning|corporeizados]] mejorados con IA. Para la [[ai-literacy|alfabetización en IA]] en concreto, [[liu-ai-literacy-interventions-meta-analysis-2026|un metaanálisis de tres niveles de 59 estudios]] estima un efecto global grande (g = 0,837), pero el amplio intervalo de predicción y el hallazgo de que las intervenciones centradas en el conocimiento superaron a las dirigidas a habilidades, actitudes o [[ethics|ética]] advierten de que el *resultado medido* da forma a la mejora aparente, lo que se hace eco del argumento más amplio de que las mejoras relacionadas con la IA dependen de qué se evalúa y de cómo.
 - **Los [[intelligent-tutoring|tutores de IA]] bien diseñados producen mejoras reales.** Un ECA por conglomerados de dos años ([[one-click-away-khanmigo-two-year-school-experiment-2026|Khanmigo]]) encontró que la tutoría con IA elevó el rendimiento en matemáticas ~1,3 rangos percentiles nacionales por trimestre (de 0,06 a 0,08 DE por curso escolar, ~0,14 DE por un año completo), unas mejoras parecidas a las de la práctica sin IA, lo que demuestra que la *implicación*, y no la capacidad del modelo, es la restricción determinante. [[making-ai-tutoring-productive-mastery-math-2026|NUMI]] mostró que el apoyo de IA mejoró la corrección en el siguiente intento tras los errores, con más tiempo por pregunta, una «ralentización productiva» que construye un dominio duradero. [[virtual-tutoring-computer-assisted-learning-takeup-2026|La tutoría virtual]] encontró que la restricción determinante es la adopción y la participación sostenida, y no la calidad del tutor.
+- **Un tutor construido a partir de la propia pedagogía de la clase superó al aprendizaje activo, y no solo a la clase magistral.** En un [[rct|ECA]] cruzado en el curso introductorio de física de Harvard, el estudiantado que aprendía con un tutor de IA personalizado obtuvo una mediana de 4,5 en el postest frente a 3,5 de las lecciones de aprendizaje activo en clase del curso (mediana basal 2,75), con un tamaño de efecto de 0,63 por regresión lineal, y dedicó una mediana de 49 minutos a la tarea frente a 60 en clase ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]). Como el grupo de control era aprendizaje activo basado en la investigación y no una clase magistral, el ensayo mide el tutor frente a un comparador exigente: el diseño que los autores atribuyen al hecho de haber construido el tutor con las mismas prácticas basadas en la investigación que la clase, más la retroalimentación personalizada a demanda y el ritmo propio.
 - **La IA puede igualar la ayuda humana.** [[chatgpt-hints-human-tutor-learning-gains-2024|La ayuda generada por ChatGPT]] produce mejoras en el aprendizaje equivalentes a las de la ayuda redactada por un tutor humano en habilidades de [[math-education|matemáticas]], evidencia de que la IA generativa puede ser tan eficaz como el [[scaffolding|andamiaje]] humano cuando se usa de forma adecuada.
 - **La IA sin salvaguardas puede dañar el aprendizaje.** El ECA sobre barreras de seguridad ([[generative-ai-guardrails-harm-learning|PNAS 2025]]) encontró que un tutor al estilo de ChatGPT sin salvaguardas elevó la práctica asistida un +48% pero *redujo* las puntuaciones de los exámenes sin asistencia un −17%, mientras que un tutor con salvaguardas (pista y no respuesta) eliminó el daño. Esta es la demostración más nítida de que **la eficacia del aprendizaje depende del diseño**: la misma clase de herramienta puede ser una mejora fuerte o un daño neto según cómo se configure.
 - **La eficacia percibida y la eficacia real divergen.** [[ai-literacy-assessment-misalignment|El rendimiento autoinformado se desalinea con el rendimiento medido]], y [[absent-cognitive-baseline-2026|la línea base cognitiva ausente]] muestra que el estudiantado nativo digital sobreestima su aprendizaje, de modo que las afirmaciones de eficacia basadas en el autoinforme no son fiables sin medidas objetivas de resultado. [[self-report-measures|Las medidas de autoinforme]] recogen los casos en que los resultados informados y los medidos se separan.
@@ -129,6 +134,7 @@ Las mejoras en el aprendizaje conectan con la [[assessment-validity|validez de l
 - [[research-methods-aied]] — Los métodos de investigación en AIED (sección de DBR)
 - [[social-emotional-learning]] — El aprendizaje socioemocional
 ## Artículos conectados
+- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — La tutoría con IA supera el aprendizaje activo en clase: un ECA que introduce un diseño novedoso basado en la investigación en un entorno educativo auténtico (Kestin et al. 2025)
 - [[genai-performance-vs-learning]] — por qué el rendimiento asistido no es un resultado de aprendizaje (Yan et al. 2025)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — La tutoría con IA no es un monolito: lo que sabemos de verdad (informe de Stanford SCALE/NSSA)
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — La tutoría virtual con CAL: un experimento sobre la adopción y el aprendizaje

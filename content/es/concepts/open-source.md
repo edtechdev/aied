@@ -13,7 +13,7 @@ confidence: medium
 connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy]
 methods: [benchmark]
 translation_of: concepts/open-source
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-28T21:41:14-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

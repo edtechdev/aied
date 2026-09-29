@@ -1,7 +1,7 @@
 ---
 title: Evaluación formativa
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-09-25T04:31:09-04:00"
+updated: "2026-09-28T22:05:50-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,10 +10,14 @@ assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, fo
 connected_faqs: [ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-27T13:10:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -59,6 +63,7 @@ Un amplio conjunto de investigaciones de la base de conocimiento examina la retr
 - **Escala y límites de la retroalimentación formativa con LLM (evidencia sistemática):** una [[meta-analysis-systematic-review|revisión sistemática]] guiada por PRISMA de 42 estudios empíricos (de 2023 a 2025) encuentra que los LLM pueden reducir la carga de trabajo del profesorado y ofrecer retroalimentación rápida y personalizada a escala, sobre todo en cohortes grandes o de [[higher-ed|educación superior]], pero que esa retroalimentación es a veces demasiado genérica o está desalineada con la calificación asignada, y que la fiabilidad baja en tareas más largas, [[multilingual-learning|multilingües]] o matizadas, lo que refuerza que la retroalimentación formativa con IA se despliega mejor bajo la supervisión del personal docente ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
 - **La adaptatividad es un ingrediente separable, no un adorno:** [[ai-feedback-adaptivity-children-plans-2026|Sukjaitham, Schaaf, Brod y Breitwieser (2026)]] aportan la prueba causal directa que la mayoría de los estudios sobre retroalimentación con LLM dan por supuesta, y enfrentan la retroalimentación contingente a la respuesta de GPT-4 con orientaciones genéricas escritas por personas expertas y emparejadas en estructura, tono, longitud y formulación [[motivation|motivacional]] (verificado con una rúbrica de calidad de cinco dimensiones, κ = 0,76 a 1,00). En un experimento prerregistrado intrasujeto, 155 estudiantes alemanes de quinto y sexto curso (M = 12,08 años) revisaron seis planes condicionales: la calidad de los planes subió de una mediana de **2 → 5** con retroalimentación adaptativa frente a **2 → 3** con orientaciones genéricas (V intrapersonal = 10.440, p < .001, r = .86; estimación de la interacción condición × tiempo = 1,68, EE = 0,14, p < .001, sin diferencias previas al apoyo). El estudiantado valoró la retroalimentación adaptativa como más útil (r = .67) y más motivadora (r = .74), y las percepciones a nivel de ensayo predijeron el tamaño de las ganancias de revisión, lo que convierte la [[technology-acceptance-model|utilidad percibida]] en parte de la vía y no en un subproducto afectivo. Como el control estaba a su vez bien diseñado, el estudio muestra un valor añadido *más allá* de una buena orientación no contingente, y no la diferencia entre recibir retroalimentación y no recibirla: la orientación genérica es un sustituto genuino pero limitado que se estanca en su propia mediana. La planificación sirvió como caso de prueba por ser una estrategia central del [[self-regulated-learning|aprendizaje autorregulado]] con criterios de calidad explícitos, lo que hace que la contingencia, la propiedad que distingue el [[scaffolding|andamiaje]] del apoyo estático, sea directamente medible en una respuesta de una sola frase. Las autorías definen la adaptatividad en sentido estricto como la adaptación del contenido de la retroalimentación a la respuesta concreta de quien aprende, y la distinguen de la interactividad conversacional, del tono y del [[adaptive-learning|aprendizaje adaptativo]] de rasgo estable.
 - **La utilidad percibida sigue a la accionabilidad:** [[mendonca-llm-feedback-perceived-usefulness-programming-2026|Mendonça et al. (2026)]] hicieron que 144 estudiantes de programación valoraran 893 instancias de retroalimentación generadas por LLM en cinco dimensiones y 237 informes consolidados en seis, manteniendo constantes el dominio, la tarea y el instrumento mientras variaba el nivel educativo. Las valoraciones fueron favorables en todos los casos, con medias a nivel de estudiante de 4,24 a 4,43 para las respuestas individuales y de 4,11 a 4,38 para los informes, pero la accionabilidad y la utilidad recibieron las valoraciones más bajas, aun cuando la accionabilidad y la precisión percibida tenían los mayores pesos relativos (32,6% y 29,0%) en un modelo que explicaba el 76% de la varianza de la utilidad percibida, y la motivación y la personalización encabezaban un modelo a nivel de informe de la intención de uso que explicaba el 53%. Como la accionabilidad es la dimensión que la investigación sobre [[feedback]] considera más difícil de ofrecer, el patrón se lee como [[technology-acceptance-model|aceptación tecnológica]] aplicada a la retroalimentación: la utilidad sigue a si quien aprende puede actuar, y no a lo pulida que suene la retroalimentación.
+- **La comprensión supera a la accionabilidad en el camino hacia la revisión:** [[automated-scoring-learning-diagnosis-mechanism-2026|Yao y Fan (2026)]] separaron el diagnóstico a nivel de problema de las sugerencias y dieron al estudiantado una hoja de interpretación escrita (reformulación, explicación del efecto, identificación de la incertidumbre, plan de revisión) antes de una revisión independiente, una revisión docente estructurada, una nueva evaluación y una reflexión. A lo largo de tres ciclos de escritura en dos clases intactas (96 estudiantes; 288 observaciones a nivel de ciclo), la comprensión de la retroalimentación fue la que guardó la asociación más fuerte con la calidad de la revisión (r = 0,501, por delante de la accionabilidad, con 0,480, y de la exactitud del diagnóstico, con 0,445), y el grupo con diagnóstico ganó 5,92 puntos de escritura frente a 3,58 (g de Hedges = 1,12), lo que sitúa la palanca en la comprensión que el estudiantado tiene del diagnóstico y no solo en su accionabilidad.
 
 ## Diseño fundamentado en el currículo y con el personal docente en el bucle
 
@@ -132,6 +137,7 @@ Los sistemas de evaluación formativa pueden pasar de ser herramientas de apoyo 
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[sequenced-ai-feedback-learning]] — Impact and pathways of sequenced AI feedback
 - [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI
+- [[automated-scoring-learning-diagnosis-mechanism-2026]] — De la puntuación automatizada al diagnóstico del aprendizaje: un estudio de mecanismo de la evaluación formativa apoyada por IA en la escritura en inglés
 - [[ai-internal-feedback-evaluative-judgments]] — Developing evaluative judgments through AI-supported internal feedback
 - [[cotal-formative-assessment-scoring-2026]] — CoTAL: formative assessment scoring with human-in-the-loop prompting
 - [[automated-formative-assessments-a-level-sciences]] — High-frequency automated formative assessment

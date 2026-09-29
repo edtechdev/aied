@@ -16,7 +16,7 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 translation_of: concepts/trust-calibration
-source_updated: "2026-09-27T08:33:43-04:00"
+source_updated: "2026-09-28T21:37:06-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
 
