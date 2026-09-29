@@ -353,19 +353,6 @@
     and supplemental-instruction take-up and 17.8% of the grade effect ran through it. Skipped differential-effects-across-learner-groups,
     whose Gender section already carries gender-differential AI findings, and conversational-ai, which already carries
     a non-generative institutional chatbot evaluation - each would be another instance of a documented pattern.
-- article: deepedu-v1-vietnamese-education-ai-tutoring-2026
-  date: '2026-09-28'
-  integrated:
-  - global-south
-  no_change:
-  - intelligent-tutoring
-  - privacy
-  reason: Accepted one of three pairs. global-south covered local constraints, cultural mismatch and
-    resource scarcity but carried no data-sovereignty or on-premise hosting dimension; this supplies a
-    deployment forced on-premise by national data-localization law, which the page lacked. Skipped
-    intelligent-tutoring, whose narrative already covers localized, curriculum-aligned tutors in
-    low-resource settings (the Kwara State study), and privacy, which already carries the
-    student-records argument - each would be a second instance of a documented claim.
 - article: friction-paradox-generative-ai-education-abroad-2026
   date: '2026-09-28'
   integrated:
@@ -396,16 +383,6 @@
   integrated: [benchmark]
   no_change: [science-education, k-12, llm]
   reason: "The K-12 NGSS benchmark's finding that most open-weight models exceed 90% while item discrimination collapses is a distinguishing measurement, so it was woven into the benchmark page's item-statistics discussion; the science-education, k-12 and llm pages already carry the relevant coverage."
-- article: deepe-v1-vietnamese-education-agentic-llm-2026
-  date: 2026-09-29
-  integrated: []
-  no_change: [intelligent-tutoring, llm, global-south]
-  reason: "The paper's contribution is a long-context serving-efficiency method (Similarity Chunk Rolling) and a playbook-based agentic layer; its educational claims about self-hosted, curriculum-grounded tutoring restate what the intelligent-tutoring, llm and global-south pages already carry."
-- article: digital-infrastructure-coverage-index-indian-schools-2026
-  date: 2026-09-29
-  integrated: [digital-divide]
-  no_change: [equity-in-ai-education, educational-policy-ai]
-  reason: "The finding that devices and connectivity, not electrification, bind screen-based instruction (618,789 of 1,471,473 Indian schools lack a pedagogical computer) is a distinguishing measurement added to the digital-divide page; the equity and policy pages already frame the access gap generically."
 - article: ai-powered-writing-feedback-awe-review-2026
   date: 2026-09-29
   integrated: []

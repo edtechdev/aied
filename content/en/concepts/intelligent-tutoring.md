@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-29T09:45:00-04:00"
+updated: "2026-09-29T10:29:04-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 pedagogy: [scaffolding]
@@ -177,4 +177,3 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
-- [[deepe-v1-vietnamese-education-agentic-llm-2026]] — DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education

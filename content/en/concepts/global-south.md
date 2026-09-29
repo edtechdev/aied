@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-29T09:45:00-04:00"
+updated: "2026-09-29T10:29:04-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -79,4 +79,3 @@ The scaling record is part of that picture, and it is sobering. Programs that wo
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators in South African HDIs: digital inequality vs. algorithmic coloniality
 - [[ai-ethical-awareness-ghana-students-2026]] — Artificial intelligence ethical awareness of Ghanaian university students
 - [[teachers-contextual-ethical-reasoning-ai-2026]] — Ethical principles of AI in education: teachers' contextual ethical reasoning
-- [[deepe-v1-vietnamese-education-agentic-llm-2026]] — DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education

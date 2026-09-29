@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-29T09:45:00-04:00"
+updated: "2026-09-29T10:29:04-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -130,4 +130,3 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[digital-infrastructure-coverage-index-indian-schools-2026]] — Access before readiness: constructing and stress-testing a Digital Infrastructure Coverage Index

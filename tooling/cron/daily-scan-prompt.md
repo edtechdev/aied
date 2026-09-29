@@ -108,6 +108,20 @@ Query every other source in the config by its `type`:
   sort requirement and the DOI caveat (DOIs are minted late; cite
   `https://osf.io/<id>` until then).
 
+## Rejected-paper denylist (check BEFORE ingesting)
+
+`AIED-REJECTED.md` at the wiki root is the maintainer's private record of material judged
+unsuitable, screened out of a sweep, or removed from the site after review. It is gitignored:
+read it locally, never publish it, and never copy its entries into a tracked file.
+
+Before saving a raw source or creating an article page for ANY candidate, check it against that
+file and **skip** every paper whose **DOI, arXiv id or title** matches an entry there. Match on
+**paper identity — DOI, arXiv id, normalized title — never on the slug**: a removed paper comes
+back through a feed under a fresh slug, and a filename check cannot catch it. An entry is a
+maintainer decision to decline, so do not re-ingest the paper and do not add it to
+`AIED-BACKLOG.md`. List every candidate skipped this way, with the matching entry, in the run
+report.
+
 ## Ingestion Workflow
 
 For each new relevant paper:
