@@ -104,8 +104,7 @@ The same file holds the two blocks that back the AI-use disclosure: **`contribut
 │   ├── aied.epub      # Offline EPUB version (concepts + FAQs)
 │   ├── aied.pdf       # Offline PDF version (concepts + FAQs)
 │   ├── epub-cover.png # Book cover used by the EPUB/PDF
-│   ├── public-domain-mark.png # CC0 mark (circled zero) for the EPUB/PDF notice page + cover
-│   └── aied-cover.jpg # Social/OG card art
+│   └── public-domain-mark.png # CC0 mark (circled zero) for the EPUB/PDF notice page + cover
 ├── tooling/           # Reusable tooling for running your own knowledge base
 ├── skills/            # Mirrored AI agent skills (inline linking, EPUB/PDF, site QA, ...)
 ├── site.config.json   # Single source of truth for site-wide metadata
