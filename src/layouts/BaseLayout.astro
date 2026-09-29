@@ -1427,7 +1427,7 @@ const recentConceptItems = recentConcepts.map(c => ({
                   if (!items.length) return null;
                   return (
                     <div class="nav-group">
-                      <div class="nav-group-label">{group.label}</div>
+                      <div class="nav-group-label">{taxonomyHeading(group.label, locale)}</div>
                       <ul class="nav-list">
                         {items.map(slug => (
                           <li><a href={localizeHref(`/aied/concepts/${slug}/`, locale)}>{conceptMap[slug]}</a></li>
