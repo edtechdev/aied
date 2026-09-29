@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-28T04:14:44-04:00"
+updated: "2026-09-28T22:17:25-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -18,7 +18,7 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - Think of a time you learned something deeply in a group. What made it work? Now imagine an AI [[conversational-ai|chatbot]] joining that group — how could it strengthen or quietly undermine what you experienced?
-- Research finds a trade-off: delegating reasoning to AI produces the best task performance but the least self-regulatory engagement, while the mode that builds self-[[regulation]] underperforms on the task. If you had to choose, which would you protect — the outcome or the struggle?
+- Research finds a trade-off: delegating reasoning to AI produces the best task performance but the least self-regulatory engagement, while the mode that builds self-[[self-regulated-learning|regulation]] underperforms on the task. If you had to choose, which would you protect — the outcome or the struggle?
 - The ICAP framework ranks 'interactive' collaboration as the deepest form of engagement. Could an AI that answers for the group actually downgrade collaboration from interactive to merely passive — even if students feel more satisfied?
 - One study found AI mediators are trusted only while they stay neutral; when the AI shifts to advising or challenging, that trust erodes. How neutral should a group's AI mediator really be?
 - When learners use AI to produce a polished artifact, they may skip the epistemic effort that builds understanding. How would you design an AI partner that surfaces disagreement and conflict instead of smoothing it over?

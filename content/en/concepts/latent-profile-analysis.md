@@ -1,14 +1,14 @@
 ---
 title: "Latent Profile Analysis"
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-09-20T12:39:59-04:00"
+updated: "2026-09-28T22:17:25-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 reviewed_by: [editor]
 ---
 
-> **Latent profile analysis (LPA)** — a person-centered method that sorts a sample into unobserved subgroups (profiles) when each case is described by several variables at once. It is the continuous-indicator member of the mixture-modeling family; its sibling **latent class analysis (LCA)** applies the same logic to categorical indicators. Both ask a different question from the [[quantitative-research|variable-centered]] models that dominate AI-in-education research: not "how much does X predict Y on average" but "how many different kinds of learner, [[teacher-role|teacher]], or manager hide inside that average." In this knowledge base the method shows that one AI tool lands very differently across subgroups — five ethical-awareness profiles among Ghanaian undergraduates, six readiness typologies among Ukrainian education managers, four [[generative-ai|ChatGPT]]-acceptance profiles among Taiwanese pre-service teachers.
+> **Latent profile analysis (LPA)** — a person-centered method that sorts a sample into unobserved subgroups (profiles) when each case is described by several variables at once. It is the continuous-indicator member of the mixture-modeling family; its sibling **latent class analysis (LCA)** applies the same logic to categorical indicators. Both ask a different question from the [[quantitative-research|variable-centered]] models that dominate AI-in-education research: not "how much does X predict Y on average" but "how many different kinds of learner, [[teacher-role|teacher]], or manager hide inside that average." In this knowledge base the method shows that one AI tool lands very differently across subgroups — five ethical-awareness profiles among Ghanaian undergraduates, six readiness typologies among Ukrainian education managers, four [[generative-ai|generative-AI]]-acceptance profiles among Taiwanese pre-service teachers.
 
 ## Questions to Consider
 
@@ -19,7 +19,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Most AI-in-education evidence is variable-centered: it estimates average relationships, and averages assume homogeneity. Person-centered methods instead take the person as the unit of analysis and ask how many distinct configurations of attributes exist in the sample. LPA belongs to that family, and its payoff here is that it converts learner diversity from a rhetorical claim into a measurable finding: when close to a quarter of undergraduates sit in the two lowest ethical-awareness profiles despite a comfortable sample mean, differentiation stops being a design preference.
+Most AI-in-education evidence is variable-centered: it estimates average relationships, and averages assume homogeneity. Person-centered methods instead take the person as the unit of analysis and ask how many distinct configurations of attributes exist in the sample. LPA belongs to that family, and its payoff here is that it converts learner diversity from a rhetorical claim into a measurable finding: when the largest ethical-awareness profile holds just over a quarter of undergraduates and the smallest only 4.5 percent despite a comfortable sample mean, differentiation stops being a design preference.
 
 ## What the method does, and when it is the right tool
 
@@ -36,7 +36,7 @@ Ordinary clustering ([[machine-learning|k-means]] and hierarchical) pursues the 
 Three uses recur.
 
 - **Establishing heterogeneity before designing for it.** Kremen and colleagues' survey of 395 Ukrainian education managers used person-centered LCA to show that "the manager" is a fiction: six typologies run from Competency-constrained (25.6 percent, willing but unskilled) to Barrier-free skeptics (highest readiness yet 74 percent AI distrust), and the authors read them as a mandate for differentiated training.
-- **Recovering subgroups an aggregate hides.** Acquah and colleagues retained five ethical-awareness profiles from Comprehensive Very High (26.1 percent) to Low Ethical Awareness (4.5 percent, beneficence 2.06), the two lowest together covering close to a quarter of the sample. Chen and colleagues found that Resistant Skeptics reported high perceived ease of use but very low behavioral intention — the corpus's clearest demonstration that the ease-of-use/intention paradox is invisible to a mean-level model.
+- **Recovering subgroups an aggregate hides.** Acquah and colleagues retained five ethical-awareness profiles from Comprehensive Very High (26.1 percent) to Low Ethical Awareness (4.5 percent, beneficence 2.06), with the largest single profile covering just over a quarter of the sample. Chen and colleagues found that Resistant Skeptics reported high perceived ease of use but very low behavioral intention — the corpus's clearest demonstration that the ease-of-use/intention paradox is invisible to a mean-level model.
 - **Profiling calibration rather than level.** The teacher AI-literacy study applied LPA to the agreement between [[self-report-measures|self-report]] and objective measures, yielding six profiles: overestimation, underestimation, alignment, and a low/low group concentrated among teachers without prior [[ai-literacy|AI literacy]] experience. Here profiles describe a pattern across instruments, not a score band.
 
 Profiles then serve as an independent variable: discipline shaped membership among pre-service teachers (Cramér's V = 0.532, STEM students concentrated in Technology Pioneers), and membership predicted later [[self-efficacy]], burnout, and [[anxiety-and-stress|AI anxiety]] elsewhere in the corpus.

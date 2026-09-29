@@ -1,7 +1,7 @@
 ---
 title: Pedagogías y estrategias de enseñanza
 created: "2026-09-25T03:54:11-04:00"
-updated: "2026-09-25T03:54:11-04:00"
+updated: "2026-09-28T22:12:00-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,10 +9,14 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-09-17T14:46:00-04:00"
+source_updated: "2026-09-26T07:13:32-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -52,7 +56,7 @@ La base de conocimiento documenta un rico conjunto de estrategias de enseñanza 
 
 La [[research-methods-aied|investigación]] de la base de conocimiento examina la pedagogía en la intersección de la IA y la enseñanza de varias maneras:
 
-- **La IA como agente pedagógico.** Las herramientas de IA encarnan pedagogías: un [[intelligent-tutoring|tutor]] construido sobre el [[socratic-method|cuestionamiento socrático]] incita a quien aprende a razonar, mientras que un chatbot que genera respuestas puede recurrir por defecto a darlas directamente (véase [[reducing-ai-misuse]] sobre por qué importa la postura pedagógica). La literatura sobre [[agentic-ai|IA agéntica]] muestra que fundamentar los agentes en la teoría del diseño instruccional supera a la [[prompt-engineering|ingeniería de prompts]] sin más. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] reformulan este papel de manera formal: en lugar de una relación diádica entre instructor y [[student-modeling|modelo del estudiantado]] con la IA generativa como suplemento o amenaza externa, proponen un **modelo triádico anidado de instructor, estudiantado e IA generativa** en el que la IA generativa opera como *mediador didáctico-pedagógico* acotado dentro de un espacio compartido de mediación didáctica gobernado por instituciones y actores, y del que se derivan cinco proposiciones investigables sobre la mediación del aprendizaje, la transformación del papel docente, la alfabetización en IA y la agencia de quien aprende, la evaluación procesual y transparente respecto a la IA, y la [[governance]] institucional.
+- **La IA como agente pedagógico.** Las herramientas de IA encarnan pedagogías: un [[intelligent-tutoring|tutor]] construido sobre el [[socratic-method|cuestionamiento socrático]] incita a quien aprende a razonar, mientras que un chatbot que genera respuestas puede recurrir por defecto a darlas directamente (véase [[reducing-ai-misuse]] sobre por qué importa la postura pedagógica). La literatura sobre [[agentic-ai|IA agéntica]] muestra que fundamentar los agentes en la teoría del diseño instruccional supera a la [[prompt-engineering|ingeniería de prompts]] sin más. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] reformulan este papel de manera formal: en lugar de una relación diádica entre instructor y [[student-modeling|modelo del estudiantado]] con la IA generativa como suplemento o amenaza externa, proponen un **modelo triádico anidado de instructor, estudiantado e IA generativa** en el que la IA generativa opera como *mediador didáctico-pedagógico* acotado dentro de un espacio compartido de mediación didáctica gobernado por instituciones y actores, y del que se derivan cinco proposiciones investigables sobre la mediación del aprendizaje, la transformación del papel docente, la alfabetización en IA y la agencia de quien aprende, la [[process-oriented-assessment|evaluación procesual y transparente respecto a la IA]], y la [[governance]] institucional.
 - **La pedagogía determina el efecto de la IA.** Un hallazgo recurrente es que *cómo* se usa la IA importa tanto como *si* se usa. La [[instructional-guidance-genai-learning|investigación sobre la orientación instruccional]] y los [[generative-ai-guardrails-harm-learning|ensayos controlados aleatorizados con tutores con barreras]] muestran que la misma IA puede perjudicar o ayudar según el envoltorio pedagógico (pistas frente a respuestas, uso estructurado frente a uso abierto).
 - **Estrategias de enseñanza para la alfabetización en IA.** Enseñar al estudiantado *a usar bien la IA* es en sí mismo una tarea pedagógica: la investigación sobre [[ai-literacy]] y [[reducing-ai-misuse]] desarrolla estrategias (pensar primero, IA después, reflexionar; declaración de uso de IA; entrenamiento en calibración) que pertenecen a este marco.
 - **La pedagogía en la práctica docente.** [[teacher-role]] y [[teacher-ai-competency]] examinan cómo adopta el profesorado la IA dentro de su repertorio pedagógico existente, y [[pedagogical-llm-training]] y [[pedagogical-agent]] estudian herramientas de IA entrenadas para seguir principios pedagógicos.

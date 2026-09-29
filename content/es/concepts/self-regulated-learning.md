@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje autorregulado
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-09-25T03:45:34-04:00"
+updated: "2026-09-28T22:12:01-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -11,10 +11,15 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-09-25T03:45:34-04:00"
+source_updated: "2026-09-25T21:56:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+connected_resources: [process-feedback]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -23,13 +28,14 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> El aprendizaje autorregulado (AAR) describe a quien aprende como un participante activo capaz de dar forma y desarrollar de manera exitosa sus acciones cognitivas y conductuales. Las herramientas de IA pueden [[scaffolding|andamiar]] el desarrollo del AAR o, sin proponérselo, cortocircuitarlo al eliminar las exigencias regulatorias que construyen la pericia.([[scheu-mobile-chatbot-journaling-motivation-2026]])([[stanford-evidence-base-ai-k12-2026]])
+> El aprendizaje autorregulado (AAR) describe a quien aprende como un participante activo capaz de dar forma y desarrollar de manera exitosa sus acciones cognitivas y conductuales. Las herramientas de IA pueden [[scaffolding|andamiar]] el desarrollo del AAR o, sin proponérselo, cortocircuitarlo al eliminar las exigencias regulatorias que construyen la pericia.([[scheu-mobile-chatbot-journaling-motivation-2026]])([[stanford-evidence-base-ai-k12-2026]]) La evidencia longitudinal afina la distinción: el uso reflexivo en torno a una herramienta de IA predijo el pensamiento crítico (β = 0,43), pero no la ganancia de conocimiento, y el acceso a la herramienta por sí solo no cambió ninguna de las dos cosas.([[melanou-genai-learning-dynamics-longitudinal-2026]])
 
 ## Preguntas para reflexionar
 
 - El AAR describe a quien aprende gestionando activamente su aprendizaje a través de tres fases: previsión (fijación de metas, planificación, autoeficacia), desempeño (estrategia, autoobservación) y autorreflexión (evaluación, adaptación). Antes de leer, ¿qué fase hace usted bien de verdad, y cuál se salta aunque sabe que le convendría hacerla?
 - La tensión central de la página: la IA puede andamiar la autorregulación o cortocircuitarla al eliminar las exigencias regulatorias que construyen la pericia. ¿Cómo puede una herramienta que facilita una tarea volverlo a usted un regulador más débil de su propio aprendizaje, y puede notar la diferencia en su propio uso?
 - El estudiantado muestra a menudo un «déficit de producción»: posee conocimiento sobre la autorregulación, pero no lo despliega de forma espontánea, por ejemplo pidiendo a un chatbot que «extraiga las ideas principales» y omitiendo por completo la planificación y la monitorización. ¿Se ha sorprendido haciendo el equivalente cognitivo de esto, aun sabiendo cuál es la estrategia mejor?
+- Cuando hay apoyo disponible, su propio juicio puede quedar fuera de escena: en un estudio con datos de trazas, lo que determinó la estrategia de revisión elegida fue el apoyo disponible, y no la precisión metacognitiva de quien aprende. Si la ayuda externa se impone a su lectura de su propio aprendizaje, ¿qué juicio mantendría deliberadamente en sus propias manos?
 - La investigación encontró una «brecha de [[trust-calibration|mala calibración]]»: el estudiantado puede *percibir* más aprendizaje con IA generativa mientras retiene menos, y prefiere la IA a tomar apuntes pese a una retención más débil. Si se siente productivo mientras usa una herramienta, ¿cómo llegaría a descubrir que en realidad no está aprendiendo más?
 - Que la IA generativa funcione como andamiaje, atajo o socio depende más de la capacidad regulatoria de quien aprende que de la herramienta misma. Pero la página también muestra que la autorregulación amortigua, aunque no anula, el daño de la descarga cognitiva profunda. ¿Qué significa esa salvedad de «amortigua pero no anula» para diseñar mejores herramientas de IA?
 - Fíjese una meta antes de leer: elija una tarea en la que use IA con regularidad y decida de antemano cuál de las tres fases del AAR (previsión, desempeño, reflexión) protegerá deliberadamente de ser automatizada. ¿Qué resultado le dirá que funcionó?
@@ -109,6 +115,9 @@ Por ejemplo:
 - **La tensión entre iniciativa [[agentic-ai|agéntica]] y autorregulación.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] señalan que cuanto más automatiza un agente una tarea, menos trabajo cognitivo autorregulado realiza quien aprende, de modo que los diseños deberían dar a quien aprende control sobre la iniciación del agente (andamiaje dinámico y que se desvanece) para preservar su capacidad autorreguladora en lugar de externalizarla.
 - **La autorregulación da forma al uso de asistentes de IA para programar.** [[computational-thinking-aica-2026|Un estudio sobre asistentes de IA para programación]] encontró que el estudiantado con alto [[computational-thinking]] mostró una coherencia autorreguladora más fuerte (planificación, ejecución y autorreflexión) y usó el AICA para comprender el código, mientras que el estudiantado con bajo pensamiento computacional lo usó para obtener respuestas inmediatas.
 - **El AAR se da junto con una menor distracción digital en el [[online-teaching-and-learning|aprendizaje en línea]].** [[decreasing-digital-distraction-college-online-learning-2026|Shi et al. (2026)]], mediante minería de datos no supervisada en 530 estudiantes universitarios, encontraron que las estrategias de AAR (fijación de metas, estructuración del entorno y gestión del tiempo) se daban conjuntamente, y de la forma más consistente, con una menor distracción digital en el [[higher-ed|aprendizaje en línea]], junto con la implicación estudiante-docente y estudiante-contenido. El hallazgo sitúa la formación concreta en AAR como una intervención de alto impacto para el estudio en línea con concentración.
+- **La conciencia metacognitiva, y no el acceso a la herramienta, es el motor más fuerte del rendimiento adaptativo en STEM.** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai y Alshahri (2026)]] construyeron y validaron el AI-STEM-MLCS con 649 estudiantes de secundaria en Arabia Saudí (CFI = 0,983, RMSEA = 0,019; ω de McDonald = 0,888 a 0,905) y encontraron que sus cuatro dimensiones explicaban el 68 % de la varianza del rendimiento en aprendizaje autorregulado (R² = 0,68). La conciencia metacognitiva basada en IA fue el predictor más fuerte (β = 0,38, p < 0,001), seguida de la transferencia cognitiva y la adaptabilidad (β = 0,29, p = 0,008) y del aprendizaje autorregulado potenciado por IA (β = 0,21, p = 0,040), mientras que el razonamiento creativo y crítico en STEM con IA no predijo el criterio (β = 0,14, p = 0,135). Los autores leen el patrón como evidencia de que la retroalimentación [[adaptive-learning|adaptativa]] eleva el rendimiento en STEM sobre todo al incitar a quien aprende a examinar los errores, recalibrarse y reutilizar estrategias, de modo que el instrumento funciona mejor como un diagnóstico que localiza lagunas de metaaprendizaje que como una única puntuación global. Es una medida de [[self-report-measures|autoinforme]] validada en un solo sistema nacional, así que los coeficientes son provisionales.
+- **El apoyo externo puede saltarse el propio juicio metacognitivo de quien aprende.** [[iqbal-human-genai-support-essay-revision-2026|Iqbal et al. (2026)]] siguieron a 87 estudiantes de inglés como lengua extranjera que revisaban un ensayo con apoyo de [[generative-ai|IA generativa]] (ChatGPT 4.0), con apoyo de personas expertas o sin apoyo. La condición de apoyo fue con diferencia el correlato más fuerte de la estrategia de revisión que elegía el estudiantado (V de Cramér = 0,668), muy por delante del arrastre de la tarea de escritura anterior (V = 0,333), mientras que la precisión del juicio metacognitivo (p = 0,172), la habilidad de escritura (p = 0,261) y la [[motivation|motivación]] (p = 0,683) no mostraron asociación. El juicio metacognitivo siguió a la estrategia solo cuando no había apoyo disponible (prueba de permutación p = 0,0460). El estudiantado con apoyo de IA generativa fue el que más ganó (unos 4 puntos de media con la estrategia de búsqueda de ayuda decreciente, frente a −0,5 puntos para la misma estrategia con apoyo de personas expertas), pero ninguna estrategia de revisión se asoció con el cambio de puntuación (H(3) = 3,895, p = 0,273), así que las ganancias vinieron de la herramienta y no de una mejor autorregulación. La orientación de los autores es que la IA generativa debería propiciar la reflexión sobre la propia estrategia de revisión en lugar de suministrar ayuda directa.
+- **El uso reflexivo se asocia con el pensamiento crítico, no con la ganancia de conocimiento.** [[melanou-genai-learning-dynamics-longitudinal-2026|Melanou et al. (2026)]] siguieron tres clases paralelas de estudiantes de informática empresarial (N = 87) a lo largo de un curso de nueve semanas, con un aumento del conocimiento en todos los grupos (F(1, 50) = 29,87, p < 0,001, η²p = 0,374) y sin ventaja de la IA, sin interacción Tiempo × Grupo y sin efecto Mateo (F(1, 48) = 2,46, p = 0,124; BF01 = 8,70). El uso reflexivo (comprobar las fuentes y verificar la salida de la IA antes de adoptarla) fue notablemente mayor en la condición con IA (3,72 frente a 2,82; F(1, 40) = 20,21, p < 0,001) y predijo el pensamiento crítico (β = 0,43, p < 0,001), pero no la ganancia de conocimiento, que sí predijo la carga cognitiva pertinente (β = 0,51, p = 0,001). La lectura práctica es que el acceso a la IA no es una intervención en sí mismo y que su rédito metacognitivo aparece antes en la calidad del razonamiento que en las puntuaciones de las pruebas.
 
 ## El AAR mediado por LLM: ¿andamiaje, atajo o socio?
 
@@ -126,8 +135,10 @@ La lección colectiva: **el AAR es el mecanismo central que distingue el uso cr�
 ## Implicaciones
 
 - **Para las herramientas de diario y de chatbot:** combine la instrucción sobre AAR (basada en un curso) con apoyo opcional a la escritura para obtener ganancias tanto de motivación como de implicación
+- **Para quienes diseñan herramientas:** haga de la evaluación un paso obligatorio y no opcional. Iqbal et al. encontraron que fue el apoyo disponible, y no el juicio metacognitivo de quien aprende, lo que decidió la estrategia de revisión que usaba el estudiantado, y que las ganancias de puntuación con IA generativa no provinieron de una mejor regulación, mientras que Melanou et al. encontraron que el uso reflexivo predecía el pensamiento crítico allí donde el mero acceso a la herramienta no lo hacía. Las interacciones que piden a quien aprende verificar, comparar y reestrategizar son las que llevan el valor de aprendizaje.
+- **Para el profesorado:** trate la conciencia metacognitiva basada en IA como la primera palanca y compruébela de forma explícita. Alatoai y Alshahri la encontraron el predictor más fuerte del rendimiento adaptativo en STEM (β = 0,38) y que la transferencia y la adaptabilidad quedaban en segundo lugar (β = 0,29), así que las actividades que llevan al estudiantado a examinar errores y a trasladar una estrategia a un nuevo contexto de problema hacen más que las indicaciones genéricas de razonamiento crítico o creativo.
 - **Para la [[educational-policy-ai|política sobre IA]]:** los criterios de adquisición deberían preguntar si una herramienta desarrolla o desplaza la autorregulación
-- **Para quienes [[research-methods-aied|investigan]]:** son esenciales los estudios a largo plazo que midan resultados de AAR (y no solo el rendimiento inmediato)
+- **Para quienes [[research-methods-aied|investigan]]:** son esenciales los estudios a largo plazo que midan resultados de AAR (y no solo el rendimiento inmediato); Melanou et al. muestran el rédito de esa paciencia, ya que el uso reflexivo de un semestre movió el pensamiento crítico (β = 0,43) sin mover la ganancia de conocimiento.
 
 
 ## Agentes conversacionales y AAR en juegos de simulación
@@ -190,3 +201,6 @@ La lección colectiva: **el AAR es el mecanismo central que distingue el uso cr�
 - [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 - [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- [[alatoai-ai-learning-environments-self-regulation-2026]] — Un instrumento validado para la autorregulación apoyada por IA en el aprendizaje adaptativo en STEM, con la conciencia metacognitiva como el predictor más fuerte
+- [[iqbal-human-genai-support-essay-revision-2026]] — La condición de apoyo, y no el juicio metacognitivo, decidió la elección de estrategia de revisión en un experimento de revisión de ensayos
+- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Estudio longitudinal: el uso reflexivo de la IA predijo el pensamiento crítico, pero no la ganancia de conocimiento, sin efecto Mateo

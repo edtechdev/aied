@@ -1,7 +1,7 @@
 ---
 title: Gobernanza de la IA
 created: "2026-09-25T04:32:03-04:00"
-updated: "2026-09-25T07:01:57-04:00"
+updated: "2026-09-28T22:05:50-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -9,7 +9,7 @@ connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 level: [higher ed]
 confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
-connected_resources: [institutional-ai-readiness-pack]
+connected_resources: [institutional-ai-readiness-pack, campus-ai-framework]
 translation_of: concepts/governance
 source_updated: "2026-09-25T09:57:33-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
@@ -83,6 +83,8 @@ La evidencia que [[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami (2
 ### La gobernanza en distintos niveles
 
 La gobernanza de la IA opera en varios niveles, desde el **nacional y regulatorio** (política gubernamental, el marco de la OCDE, las directrices estatales sobre IA) hasta el **institucional** (políticas universitarias, grupos rectores de IA, comités de revisión ética) y el **de aula** (orientaciones del profesorado, declaraciones en los programas de asignatura, diseño de tareas). Una gobernanza eficaz alinea estos niveles: los marcos nacionales fijan las expectativas, las instituciones las traducen en políticas y estructuras de apoyo, y el profesorado las implementa de maneras que construyen la alfabetización en IA y la agencia del estudiantado. La investigación de la base de conocimiento subraya que la gobernanza no consiste solo en restringir, sino en crear las condiciones para una integración de la IA responsable, equitativa y favorable al aprendizaje, incluido el [[educational-development|desarrollo del profesorado]], las orientaciones transparentes y la evaluación continua.
+
+**Una misma conducta, veredictos distintos.** [[genai-governance-australian-higher-ed-2026|Poudyal (2026)]] aplicó 15 viñetas estandarizadas de uso por parte del estudiantado a los entornos de política pública de 20 universidades australianas, lo que produjo 300 clasificaciones: un 40,0% claramente prohibido, un 32,3% de posibles incumplimientos de la política, un 9,0% permitido con condiciones y un 18,7% indeterminado —ninguna alcanzó el umbral de claramente permitido—. Los instrumentos vinculantes guardaban silencio sobre la IA generativa en 100 combinaciones, mientras que las orientaciones resolvieron 88, y la reescritura de lenguaje declarada y un párrafo redactado por IA produjeron la mayor divergencia entre universidades, frente a la unanimidad en el caso de una prohibición explícita en la evaluación. Donde los niveles descritos más arriba se dan por alineados, este estudio mide hasta qué punto divergen, y sitúa la frontera operativa en las orientaciones y no en la política vinculante.
 
 
 
@@ -160,3 +162,4 @@ La gobernanza es distinta de la [[educational-policy-ai|política educativa sobr
 - [[edtech-privacy-deferral-2026]] — «We'll Fix It Later»: Education, AI, and the Deferral of Student Privacy in EdTech
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 - [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
+- [[genai-governance-australian-higher-ed-2026]] — Trazar la frontera autorizada: un estudio comparativo de política y viñetas sobre la gobernanza de la IA generativa en la educación superior australiana

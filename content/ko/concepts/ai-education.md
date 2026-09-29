@@ -1,7 +1,7 @@
 ---
 title: 교육에서의 인공지능
 created: "2026-09-22T14:35:21-04:00"
-updated: "2026-09-22T14:35:21-04:00"
+updated: "2026-09-28T22:10:14-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,10 +13,14 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-09-22T03:10:00-04:00"
+source_updated: "2026-09-23T09:53:41-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
@@ -24,8 +28,6 @@ ai_assist:
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
-
-# 교육에서의 인공지능
 
 > **교육에서의 인공지능(AIED)**: 인공지능을 교수와 학습에 적용하고 그 설계, 활용, 평가, 결과를 연구하는 광범위한 학제 간 분야입니다. 지식베이스의 상위 개념으로서 교육에서의 인공지능은 **교육을 위한 AI**(AI로 교수와 평가를 개선하는 것)와 **AI에 관한 교육**(AI 리터러시와 비판적 이해를 기르는 것)을 아우릅니다. 이 분야는 교수 공학, [[learning-sciences|학습과학]](학습자가 실제로 달라졌는지를 묻는 경험적 연구 분야로, 도구가 성과를 냈는지만 묻는 것과는 다릅니다), 컴퓨터 과학, [[educational-policy-ai|교육 정책]], [[ethics|윤리]], [[equity-in-ai-education|형평성]]이 교차하는 지점에 있습니다. 이 페이지는 이 분야에 대한 소개이자 지식베이스가 다루는 모든 개념으로 가는 지도입니다.
 
@@ -54,7 +56,7 @@ ai_assist:
 - **[[learning-theories|학습 이론]]**: 학습이 이루어지는 방식에 대한 상위 개념으로, AI의 설계와 평가를 형성하는 이론적 틀([[behaviorism|행동주의]], [[cognitive-psychology|인지주의]], [[constructivist|구성주의]], [[sociocultural-learning|사회문화적 접근]], 인지적 접근, [[motivation|동기적 접근]])을 다룹니다.
 - **[[ai-technologies|기술]]**: 기술적 층위에 대한 상위 개념으로, AIED를 가능하게 하는 AI 시스템([[llm|LLM]], [[generative-ai|생성형 AI]], [[multimodal|멀티모달]], [[educational-robotics|로보틱스]])과 기법([[rag|RAG]], [[prompt-engineering|프롬프트 엔지니어링]], [[reinforcement-learning|강화 학습]], [[pedagogical-llm-training|모델 훈련]], [[agentic-ai|에이전트형 오케스트레이션]])을 다룹니다. 학습자 모델링 계열, 즉 [[knowledge-tracing|지식 추적]], [[cognitive-diagnosis|인지적 진단]], [[simulating-students|학생 시뮬레이션]]과 이를 활용하는 시스템([[intelligent-tutoring|지능형 튜터링]], [[adaptive-learning|적응형 학습]], [[personalized-learning|개인화 학습]])은 이 기술 갈래 안의 [[student-modeling|학습자 모델링과 적응형 교수]] 상위 개념 아래에 묶입니다.
 - **[[discipline-specific-aied|전공 분야에서의 AI]]**: AI가 여러 교과 영역에 어떻게 적용되는지에 대한 상위 개념입니다([[math-education|수학]], [[physics-education|물리]], [[language-learning|언어 학습]], [[cs-education|컴퓨터 과학]], [[writing-education|글쓰기]], [[stem-education|STEM]], [[engineering-education|공학]], [[business-education|경영]], [[teacher-education|교사 교육]], [[medical-education|보건 전문직]] 등). 나아가 학문적 교과를 넘어 정답 여부가 아니라 실제 수행을 평가하는 전문·응용 갈래([[nursing-education|간호]], [[information-technology|정보 기술]], [[vocational-education|직업 교육과 훈련]], [[design-education|디자인 교육]])와 교육 수준([[k-12|K-12]], [[higher-ed|고등 교육]], [[adult-learning|성인 학습]])도 포함합니다.
-- **[[assessment|평가]]**([[formative-assessment|형성평가]], [[summative-assessment|총괄평가]], [[authentic-assessment|실제적 평가]], [[automated-assessment|자동화 평가]] 갈래 포함): AI가 학습자를 평가하는 방식과 함께 평가의 타당성과 정직성을 재편하는 방식에 대한 상위 개념입니다.
+- **[[assessment|평가]]**([[formative-assessment|형성평가]], [[summative-assessment|총괄평가]], [[authentic-assessment|실제적 평가]], [[oral-assessment|구두]], [[automated-assessment|자동화 평가]] 갈래 포함): AI가 학습자를 평가하는 방식과 함께 평가의 타당성과 정직성을 재편하는 방식에 대한 상위 개념입니다.
 - **[[feedback|피드백]]**: 피드백이 생성되고 전달되고 활용되는 방식에 대한 상위 개념으로, 피드백 루프, [[ai-feedback-quality|피드백 품질]], [[feedback-literacy|피드백 리터러시]]와 그 평가 맥락([[formative-assessment|형성평가]], [[peer-assessment|동료 평가]], [[automated-assessment|자동화 평가]])을 다룹니다.
 - **[[stakeholders|AI 교육의 이해관계자]]**: 행위자가 누구인지에 대한 상위 개념으로, 학습자, [[teacher-role|교수자]], [[learning-design|학습 설계자]], [[administrator|관리자]], [[educational-policy-ai|정책 입안자]]를 다룹니다.
 - **[[ai-ed-evaluation|교육 분야 AI 개입 평가]]**와 **[[research-methods-aied|AIED 연구 방법]]**: AI가 효과가 있는지 우리가 어떻게 아는지에 대한 상위 개념으로, 효과 연구, [[benchmark|벤치마크]], [[rct|무작위 대조 시험]], [[meta-analysis-systematic-review|메타분석]], 그리고 핵심 결과 지표인 [[learning-gains|학습 성과]]를 다룹니다. 독자께서는 [[limitations-in-aied-research|이 근거가 전반적으로 지닌 한계]]도 함께 저울질하시기 바랍니다.
@@ -81,7 +83,7 @@ AI가 교수와 학습을 어떻게 지원하는가는 이 분야의 핵심입�
 
 - **핵심 교수법:** [[pedagogy|교수법과 교수 전략]]은 지식베이스의 교수 방법 커버리지를 총괄하는 상위 개념이며, [[active-learning|능동적 학습]], [[collaborative-learning|협력 학습]], [[group-work|모둠 활동]], [[project-based-learning|프로젝트 기반 학습]], [[problem-based-learning|문제 기반 학습]], [[productive-failure|생산적 실패]], [[inquiry-based-learning|탐구 기반 학습]], [[experiential-learning|경험 학습]], [[game-based-learning|게임 기반 학습]], [[learning-by-teaching|가르치며 배우기]], [[scaffolding|스캐폴딩]], [[socratic-method|소크라테스식 문답법]], [[critical-pedagogy|비판적 교수법]], [[pedagogical-partnerships|교수 파트너십]], [[storytelling-in-education|스토리텔링]], [[learning-design|학습 설계]], [[online-teaching-and-learning|온라인 교수와 학습]], [[video-education|교육에서의 영상]]이 함께합니다.
 - **학습 이론과 과정:** [[learning-theories|학습 이론]] 상위 개념([[behaviorism|행동주의]], [[cognitive-psychology|인지주의]], [[constructivist|구성주의]], [[sociocultural-learning|사회문화적 접근]], [[distributed-cognition|분산 인지]], [[situated-learning|상황 학습]], [[embodied-learning|체화 학습]], [[community-of-inquiry|탐구 공동체]])이 [[self-regulated-learning|자기조절 학습]], [[self-determination-theory|자기결정이론]], [[motivation|동기]], [[self-efficacy|자기효능감]], [[self-directed-learning|자기주도 학습]], [[metacognition|메타인지]], [[desirable-difficulties|바람직한 어려움]], [[transfer-of-learning|학습 전이]], [[prior-knowledge|선행 지식]], [[icap-framework|ICAP 인지적 참여]], [[refutation-text|반박 텍스트]], [[retrieval-spacing-interleaving|인출, 간격, 교차 학습]], [[activity-theory-aied|활동 이론]]처럼 학습자에게 향하는 과정과 나란히 자리합니다.
-- **학습자 참여와 경험:** [[student-engagement|학생 참여]], [[help-seeking|도움 요청]], [[social-emotional-learning|사회정서 학습]], [[well-being|웰빙]], [[creativity|창의성]], [[problem-solving|문제 해결]], [[mastery-learning|완전 학습]], [[student-ai-interaction|학생-AI 상호작용]]은 학습자가 실제로 AI를 어떻게 마주하고 영향을 받는지를 규정합니다.
+- **학습자 참여와 경험:** [[student-engagement|학생 참여]], [[help-seeking|도움 요청]], [[social-emotional-learning|사회정서 학습]], [[well-being|웰빙]], [[creativity|창의성]], [[problem-solving|문제 해결]], [[mastery-learning|완전 학습]], [[student-ai-interaction|학생-AI 상호작용]]은 학습자가 실제로 AI를 어떻게 마주하고 영향을 받는지를 규정합니다. 그리고 [[social-norms-ai-use|AI 활용을 둘러싸고 자리 잡는 사회적 규범]]이 그것을 얼마나 공개적으로 논의할 수 있는지를 결정합니다.
 
 ## 기술과 기법
 
@@ -104,7 +106,7 @@ AI는 다양한 전공 분야와 교육 수준에 걸쳐 적용됩니다. 지식
 
 AI는 학습자를 평가하는 방식과 AI 시스템 자체를 평가하는 방식을 모두 바꿉니다.
 
-- **평가와 피드백:** [[assessment|평가]], [[formative-assessment|형성평가]], [[summative-assessment|총괄평가]], [[authentic-assessment|실제적 평가]], [[eportfolio|전자 포트폴리오]], [[feedback|피드백]]과 [[feedback-literacy|피드백 리터러시]], [[ai-feedback-quality|AI 피드백 품질]], [[peer-assessment|동료 평가]], [[automated-assessment|자동화 평가]], [[automated-essay-scoring|자동 에세이 채점]], [[automated-question-generation|자동 문항 생성]]입니다. 모델이 이제 요구만 하면 그럴듯한 완성본을 만들어 낼 수 있기 때문에, 지식베이스는 학습자 자신에게 남는 역량을 앞세웁니다. 바로 [[evaluative-judgment|평가적 판단]], 즉 자신의 작업과 동료의 작업, AI 산출물의 품질을 근거 있는 기준에 비추어 헤아리는 능력입니다. 이는 여러 피드백 및 실제적 평가 연구가 수렴하는 구성 개념입니다. 다기관 실험에서 혼합 피드백 조건이 AI의 직접 피드백보다 더 나은 성과를 냈다는 결과, AI 형성 피드백의 지속가능성 격차, 그리고 산출물만이 아니라 학생이 내리는 결정을 평가하는 실천적 전환이 모두 이 지점을 가리킵니다. 또한 AI 시대의 재설계가 [[ai-detection|탐지]]에서 검증을 견뎌 내는 과제로 옮겨 가는 핵심 이유이기도 합니다. [[group-work|모둠 활동]] 역시 과정과 산출물 양쪽으로 평가되는데, 이때 팀은 누구의, 어떤 종류의 AI 활용이 용인되는지를 협상해야 합니다.
+- **평가와 피드백:** [[assessment|평가]], [[formative-assessment|형성평가]], [[summative-assessment|총괄평가]], [[authentic-assessment|실제적 평가]], [[eportfolio|전자 포트폴리오]], [[feedback|피드백]]과 [[feedback-literacy|피드백 리터러시]], [[ai-feedback-quality|AI 피드백 품질]], [[peer-assessment|동료 평가]], [[oral-assessment|구두 평가]], [[automated-assessment|자동화 평가]], [[automated-essay-scoring|자동 에세이 채점]], [[automated-question-generation|자동 문항 생성]]입니다. 모델이 이제 요구만 하면 그럴듯한 완성본을 만들어 낼 수 있기 때문에, 지식베이스는 학습자 자신에게 남는 역량을 앞세웁니다. 바로 [[evaluative-judgment|평가적 판단]], 즉 자신의 작업과 동료의 작업, AI 산출물의 품질을 근거 있는 기준에 비추어 헤아리는 능력입니다. 이는 여러 피드백 및 실제적 평가 연구가 수렴하는 구성 개념입니다. 다기관 실험에서 혼합 피드백 조건이 AI의 직접 피드백보다 더 나은 성과를 냈다는 결과, AI 형성 피드백의 지속가능성 격차, 그리고 산출물만이 아니라 학생이 내리는 결정을 평가하는 실천적 전환이 모두 이 지점을 가리킵니다. 또한 AI 시대의 재설계가 [[ai-detection|탐지]]에서 검증을 견뎌 내는 과제로 옮겨 가는 핵심 이유이기도 합니다. [[group-work|모둠 활동]] 역시 과정과 산출물 양쪽으로 평가되는데, 이때 팀은 누구의, 어떤 종류의 AI 활용이 용인되는지를 협상해야 합니다.
 - **측정과 타당성:** [[assessment-validity|평가 타당성]], [[psychometrically-aware-ai|심리측정을 고려한 AI]], [[educational-measurement|교육 측정]], [[item-response-theory|문항반응이론]], [[self-report-measures|자기보고 측정]](이 근거의 상당 부분을 떠받치는 도구이자 되풀이되는 한계), [[ai-detection|AI 탐지]], [[remote-proctoring|원격 감독]], [[academic-integrity|학문적 정직성]]입니다.
 
 ## 연구 방법과 검증

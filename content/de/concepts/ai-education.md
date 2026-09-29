@@ -29,8 +29,6 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-# KI in der Bildung
-
 > **KI in der Bildung (AIED)**: das breite, interdisziplinäre Feld, das künstliche Intelligenz auf Lehren und Lernen anwendet und ihr Design, ihren Einsatz, ihre Bewertung und ihre Folgen untersucht. Als Dachkonzept der Wissensbasis umfasst KI in der Bildung **KI für die Bildung** (KI nutzen, um Unterricht und Prüfen zu verbessern) und **Bildung über KI** (KI-Kompetenz und kritisches Verständnis aufbauen). Das Feld liegt an der Schnittstelle von Unterrichtstechnologie, [[learning-sciences|Lernwissenschaften]] – dem empirischen Forschungsfeld, das fragt, ob sich ein Lernender verändert hat, und nicht nur, ob ein Werkzeug funktioniert hat –, Informatik, [[educational-policy-ai|Bildungspolitik]], [[ethics|Ethik]] und [[equity-in-ai-education|Gerechtigkeit]]. Diese Seite ist eine Einführung in das Feld und eine Karte zu jedem Konzept, das die Wissensbasis abdeckt.
 
 ## Fragen zum Nachdenken
