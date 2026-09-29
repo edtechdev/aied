@@ -5,11 +5,14 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import TranslationNotice from '../TranslationNotice.astro';
 import { strings } from '../../i18n';
 import { localizeHtml } from '../../i18n/config';
+import { localizeArtifactLinks } from '../../lib/offlineArtifacts';
 
 const { locale } = Astro.props;
 const s = strings(locale).ai;
 const ui = strings(locale).ui;
-const L = (html: string) => localizeHtml(html, locale);
+// Copy strings are written in the default locale's terms; this also points
+// their artifact links at this locale's own files when those exist.
+const L = (html: string) => localizeArtifactLinks(localizeHtml(html, locale), locale);
 const copyLabels = { ok: s.copyOk, fail: s.copyFail };
 ---
 
@@ -26,7 +29,7 @@ const copyLabels = { ok: s.copyOk, fail: s.copyFail };
     <button id="copy-prompt-btn" type="button" class="copy-btn">{s.copyButton}</button>
     <span class="prompt-hint">{s.copyHint}</span>
   </p>
-  <pre id="prompt-block" tabindex="0" aria-label={s.promptAriaLabel}><code>{s.promptText}</code></pre>
+  <pre id="prompt-block" tabindex="0" aria-label={s.promptAriaLabel}><code>{localizeArtifactLinks(s.promptText, locale)}</code></pre>
 
   <h2 id="how-to-use-it">{s.howHeading}</h2>
   <ol style="line-height:1.9">
@@ -36,19 +39,19 @@ const copyLabels = { ok: s.copyOk, fail: s.copyFail };
   <details style="line-height:1.8;margin-top:0.5rem">
     <summary style="cursor:pointer;font-weight:600">{s.techSummary}</summary>
     <ul style="line-height:1.9;margin-top:0.5rem">
-      {s.techItems.map((item) => <li set:html={item} />)}
+      {s.techItems.map((item) => <li set:html={localizeArtifactLinks(item, locale)} />)}
     </ul>
   </details>
 
   <h2 id="ready-made-assistants">{s.assistantsHeading}</h2>
   <p style="line-height:1.7">{s.assistantsIntro}</p>
   <ul style="line-height:1.9">
-    {s.assistants.map((item) => <li set:html={item} />)}
+    {s.assistants.map((item) => <li set:html={localizeArtifactLinks(item, locale)} />)}
   </ul>
 
   <h2 id="what-is-in-the-knowledge-base">{s.corpusHeading}</h2>
   <p style="line-height:1.7">{s.corpusHtml1}</p>
-  <p style="line-height:1.7" set:html={s.corpusHtml2} />
+  <p style="line-height:1.7" set:html={localizeArtifactLinks(s.corpusHtml2, locale)} />
 
   <h2 id="already-answered">{s.answeredHeading}</h2>
   <p style="line-height:1.7">{s.answeredIntro}</p>

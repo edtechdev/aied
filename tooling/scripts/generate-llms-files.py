@@ -3,6 +3,7 @@
 import os
 import re
 import html
+import argparse
 import json
 import sys
 from datetime import date
@@ -12,6 +13,7 @@ from wikilink_text import resolve_wikilinks, strip_md_links  # noqa: E402
 
 WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import content_paths
+import pathlib
 
 
 # Single source of truth for site-wide metadata (shared with the Astro site
@@ -39,15 +41,16 @@ def parse_md(path):
             fm[key.strip()] = val.strip().strip('"\'')
     return fm, parts[2].strip()
 
-def load_titles():
-    """slug -> page title for every collection.
+def load_titles(locale):
+    """slug -> page title for every collection, in one locale.
 
     Wikilinks must flatten to what the site shows for the target, which is its
-    title, not its slug.
+    title, not its slug. A translated page carries the translated title, so this
+    must be built from the requested locale or the links contradict the prose.
     """
     titles = {}
     for d in ('concepts', 'articles', 'faqs'):
-        dirpath = str(content_paths.collection(d))
+        dirpath = str(content_paths.collection(d, locale))
         if not os.path.isdir(dirpath):
             continue
         for f in os.listdir(dirpath):
@@ -57,7 +60,8 @@ def load_titles():
     return titles
 
 
-TITLES = load_titles()
+# Filled per locale in main(): resolve_wikilinks reads this module global.
+TITLES = {}
 
 
 def first_para(md):
@@ -97,10 +101,10 @@ def concept_order():
         pass
     return order
 
-def collect():
+def collect(locale):
     articles, concepts, faqs = [], [], []
     for d, store in [('articles', articles), ('concepts', concepts), ('faqs', faqs)]:
-        dirpath = str(content_paths.collection(d))
+        dirpath = str(content_paths.collection(d, locale))
         if not os.path.isdir(dirpath):
             continue
         for f in sorted(os.listdir(dirpath)):
@@ -229,27 +233,105 @@ def build_llms_concepts(concepts, faqs):
     return "\n".join(lines) + "\n"
 
 
+def buildable_locales(min_pages=20):
+    """Locale codes with enough translated content to be worth an offline build.
+
+    A locale folder exists for every configured language as soon as its chrome is
+    translated, so folder existence says nothing about content. Only locales whose
+    translated concept+FAQ pages reach the threshold get artifacts, which means a
+    new language starts producing them on its own once its pages land.
+    """
+    out = [content_paths.DEFAULT_DIR]
+    for code in content_paths.LOCALES:
+        if code == content_paths.DEFAULT_DIR:
+            continue
+        n = 0
+        for d in ('concepts', 'faqs'):
+            p = pathlib.Path(str(content_paths.collection(d, code)))
+            if p.is_dir():
+                n += len(list(p.glob('*.md')))
+        if n >= min_pages:
+            out.append(code)
+    return out
+
+
+def locale_note(locale):
+    """The locale's own description line for the header, from site.config.json."""
+    for entry in ((SITE.get('i18n') or {}).get('locales') or []):
+        if entry.get('code') == locale:
+            return entry.get('offlineDescription') or ''
+    return ''
+
+
 def main():
-    articles, concepts, faqs = collect()
+    ap = argparse.ArgumentParser(description='Regenerate the llms files for one locale.')
+    ap.add_argument('--locale', default=None,
+                    help='locale code (default: the site default locale)')
+    ap.add_argument('--all-buildable', action='store_true',
+                    help='regenerate for every locale with enough translated content')
+    args = ap.parse_args()
+
+    if args.all_buildable:
+        codes = buildable_locales()
+    else:
+        codes = [args.locale or content_paths.DEFAULT_DIR]
+
+    for code in codes:
+        build_one(code)
+
+
+def build_one(locale):
+    """Write this locale's llms files. Naming mirrors the route model: the default
+    locale is unprefixed, every other locale carries its code as an infix."""
+    global TITLES
+    TITLES = load_titles(locale)
+
+    is_default = locale == content_paths.DEFAULT_DIR
+    articles, concepts, faqs = collect(locale)
     os.makedirs(OUT, exist_ok=True)
 
-    with open(os.path.join(OUT, 'llms.txt'), 'w', encoding='utf-8') as fh:
-        fh.write(build_llms_txt(articles, concepts, faqs))
-    with open(os.path.join(OUT, 'llms-full.txt'), 'w', encoding='utf-8') as fh:
-        fh.write(build_llms_full(articles, concepts, faqs))
-    with open(os.path.join(OUT, 'llms-concepts.txt'), 'w', encoding='utf-8') as fh:
-        fh.write(build_llms_concepts(concepts, faqs))
+    suffix = '' if is_default else f'.{locale}'
+    names = {
+        'catalog': f'llms{suffix}.txt',
+        'concepts': f'llms{suffix}-concepts.txt',
+        'full': f'llms{suffix}-full.txt',
+    }
 
-    print(f"Articles: {len(articles)}, Concepts: {len(concepts)}, FAQs: {len(faqs)}")
-    print(f"llms.txt: {os.path.getsize(os.path.join(OUT, 'llms.txt'))} bytes")
-    print(f"llms-full.txt: {os.path.getsize(os.path.join(OUT, 'llms-full.txt'))} bytes")
-    concepts_bytes = os.path.getsize(os.path.join(OUT, 'llms-concepts.txt'))
-    print(f"llms-concepts.txt: {concepts_bytes} bytes ({concepts_bytes / 1024 / 1024:.1f} MB, "
-          f"{len(concepts)} concepts + {len(faqs)} FAQs)")
-    # This file exists to stay under chat attachment limits; say so if it stops doing that.
+    note = locale_note(locale)
+    def decorate(text):
+        """For a translated file, REPLACE the generated English description with the
+        locale's own note. Adding a second line instead leaves the English description
+        below it, which then advertises other-language counts in the wrong language."""
+        if is_default or not note:
+            return text
+        lines = text.split('\n')
+        for i, ln in enumerate(lines):
+            if ln.startswith('> '):
+                lines[i] = f'> {note}'
+                return '\n'.join(lines)
+        return text
+
+    with open(os.path.join(OUT, names['catalog']), 'w', encoding='utf-8') as fh:
+        fh.write(decorate(build_llms_txt(articles, concepts, faqs)))
+    with open(os.path.join(OUT, names['concepts']), 'w', encoding='utf-8') as fh:
+        fh.write(decorate(build_llms_concepts(concepts, faqs)))
+    # A full dump for a non-default locale would be mostly English articles wearing a
+    # translated filename, which is exactly the kind of dishonesty the disclosure
+    # fields exist to prevent. Articles are not translated, so it is not written.
+    if is_default:
+        with open(os.path.join(OUT, names['full']), 'w', encoding='utf-8') as fh:
+            fh.write(build_llms_full(articles, concepts, faqs))
+
+    print(f"[{locale}] Articles: {len(articles)}, Concepts: {len(concepts)}, FAQs: {len(faqs)}")
+    for key in ('catalog', 'concepts', 'full'):
+        p = os.path.join(OUT, names[key])
+        if os.path.exists(p):
+            print(f"  {names[key]}: {os.path.getsize(p)} bytes")
+    concepts_bytes = os.path.getsize(os.path.join(OUT, names['concepts']))
     if concepts_bytes > 9_500_000:
-        print(f"WARNING: llms-concepts.txt is {concepts_bytes / 1024 / 1024:.1f} MB, over the 10 MB "
-              "attachment limit it exists to stay under — trim the concept or FAQ bodies, or split the file.")
+        print(f"  WARNING: {names['concepts']} is {concepts_bytes / 1024 / 1024:.1f} MB, over the 10 MB "
+              "attachment limit it exists to stay under — trim or split the file.")
+
 
 if __name__ == '__main__':
     main()

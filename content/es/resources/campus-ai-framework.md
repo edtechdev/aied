@@ -1,7 +1,7 @@
 ---
 title: "Campus AI Framework"
 created: "2026-09-29T03:32:26-04:00"
-updated: "2026-09-29T03:32:26-04:00"
+updated: "2026-09-29T04:17:57-04:00"
 type: resource
 summary: "Un modelo operativo nativo de la educación superior para la estrategia y la gobernanza de la IA: ocho pilares institucionales, cuatro dominios de aplicación y una Strategic Compass para elegir iniciativas, con un diagrama que cartografía sus sitios complementarios."
 url: https://campusaiframework.com/sites
@@ -16,6 +16,7 @@ institutions: [change-management, educational-policy-ai]
 ethics: [equity-in-ai-education]
 audience: [administrators, institutions]
 level: [higher ed]
+confidence: high
 source_updated: "2026-09-28T04:05:42-04:00"
 translation_of: resources/campus-ai-framework
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."

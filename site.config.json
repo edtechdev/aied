@@ -20,7 +20,8 @@
       {
         "code": "es",
         "label": "Español",
-        "style": "Neutral Spanish; keep 'prompt' untranslated"
+        "style": "Neutral Spanish; keep 'prompt' untranslated",
+        "offlineDescription": "Esta es una traducción automática de la base de conocimiento en inglés y todavía no ha sido revisada por hablantes nativos. Incluye las páginas de conceptos y de preguntas frecuentes; las páginas de artículos siguen en inglés."
       },
       {
         "code": "fr",
