@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-09-29T10:29:04-04:00"
+updated: "2026-09-29T12:09:53-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
@@ -46,6 +46,8 @@ AI adds new layers to the equity implications of technology. Algorithmic bias ca
 
 **Access and epistemic hierarchy are different problems.** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole (2026)]] draws the distinction sharply from interviews with [[educational-development|academic developers]] at two South African Historically Disadvantaged Institutions: digital inequality is distributive — devices, connectivity, budgets, digital literacy — and answerable in principle through redistribution, whereas **algorithmic coloniality** is epistemic and persists even under conditions of full access, because it inheres in what the systems encode and whose knowledge they center. The study's participants experience both at once, described as being "asked to build a digital future on analogue foundations": the foundations name the material register of the divide, and the imported future arrives pre-loaded with the epistemic assumptions of the contexts that designed it. The practical implication for equity work is that closing an access gap does not by itself unsettle the hierarchy — the two phenomena operate at different registers and require different responses.
 
+**A design can route around the device gap instead of waiting for it to close.** [[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]] test whether students who never touch a computer can still receive intelligent-tutoring-style support, using a paradigm they call "AIED unplugged" in which the teacher is the proxy between learner and system: students keep working with paper and pen, the teacher photographs their solutions on a smartphone, and the system returns personalized exercise lists, automated scoring, and error-specific feedback. Their clustered quasi-experiment across 19 Brazilian public-school classes is, by their account, the first quasi-experimental evaluation of such a system in authentic classrooms rather than a prototype, and the app ran on teachers' own phones under the intermittent connectivity typical of those schools. The design is therefore a distinct equity strategy from the ones above: rather than closing the first-level divide of devices and bandwidth before AI tutoring can reach anyone, or raising second-level skills as the entry ticket, it reaches students the AI never interacts with directly. The same study, however, shows the route is not free of the divide it sidesteps. The learning advantage over usual practice traced to the teacher training rather than to the technology — the training and full-system conditions did not differ on gains — and the system's positive indirect effect on learning operated through *reduced teacher effort*, with heavier workload associated with lower gains. Routing around the access gap thus does not dissolve the equity problem; it relocates the binding constraint to teacher capability and time.
+
 ### Connections to related concepts
 
 The digital divide is a core concern of [[equity-in-ai-education]] research, closely tied to [[ai-literacy]] (which is positioned as a central mechanism for addressing structural barriers), and to [[ethics]] and [[bias-mitigation]] (since algorithmic bias disproportionately affects marginalized groups). It connects to [[ai-education]] and [[higher-ed]] as the settings where access and capability gaps manifest, and relates to [[student-experience]] as it shapes who can participate meaningfully in AI-shaped learning.
@@ -65,6 +67,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 ## Connected Articles
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
 - [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
+- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: teacher-as-proxy tutoring reaches students with no device (Rodrigues et al. 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access

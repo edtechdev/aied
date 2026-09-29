@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-28T04:14:44-04:00"
+updated: "2026-09-29T12:12:42-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -117,6 +117,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 ## Connected Articles
 - [[genai-reliance-human-agency-collaborative-learning-2026]] — A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning
 - [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
+- [[dang-human-ai-collaboration-competency-2026]] — Learner agency as the emergent quality of coordinating domain, AI and metacognitive competencies, not a standalone node (Dang et al. 2026)
 
 - [[learner-agency-ai-simulation-2026]] — Access to choice vs. agency enacted: sliders, an optional AI agent and learning in a flocking simulation
 - [[powerful-learning-with-emerging-technology-2025]] — Agency as one of three design principles

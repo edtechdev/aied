@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-09-26T10:12:17-04:00"
+updated: "2026-09-29T12:10:25-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -87,6 +87,7 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[teacher-educators-ai-integration-preservice-2026]] — prompts, version history, monitored contributions, and journey journals after a trust crisis (Goldstein et al. 2026)
 - [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — study practices, ethical judgments, and the case for testing oral defenses and process evidence
 - [[learn-framework-responsible-genai-pbl-2026]] — the LEARN framework: process-focused rubrics, oral justifications, staged submissions (Uden & Hwang 2026)
+- [[koretsky-genai-stem-assessment-2026]] — process checks (annotated drafts, in-class checkpoints, reflective accounts) within the assessment triangle in STEM (Koretsky et al. 2026)
 - [[genai-didactic-pedagogical-mediator-2026]] — AI-transparent process-oriented assessment as a researchable proposition (Moganadas et al. 2026)
 - [[ai-tools-academic-work-cheating-2026]] — revision history, interaction patterns, and time-on-task with disclosure (Padhy 2026)
 - [[espino-ai-business-education-review-2026]] — a decade of business-education research converging on process-visible tasks
