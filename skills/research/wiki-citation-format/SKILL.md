@@ -49,3 +49,14 @@ Ganguly, A., Garika, S. S., & Johri, A. (2026). [*Uncovering Students' Mental Mo
 
 - `wiki-page-deepening` — HARD RULE #3: `## Citation` at BOTTOM, title-only hyperlink, never fabricate a DOI/URL.
 - `wiki-astro-frontend/references/article-citation-audit.md` — the class-level sweep for mangled citations across many articles (author-garbage regexes, arXiv-strip order, re-audit pitfalls).
+
+### Take the DOI from the paper's own suggested citation
+
+The first DOI matched in a PDF's text is usually not the paper's. A quick regex over an
+EdWorkingPaper returned `10.26300/81nh-8262`, which belongs to Wang et al.'s Tutor CoPilot (24-1054)
+sitting in the bibliography; the paper's own suggested citation gave `10.26300/es6b-sm82`. On an
+Elsevier article the trap is the same: the DOI in the header may be the journal's or a cited work's.
+
+Read the suggested-citation or the title-page DOI line and use that. If the paper gives a version
+date there - a 2022 working paper reissued as a June 2026 version cites itself as 2026 - take that
+year too, since it is what every reader of the paper will search for.
