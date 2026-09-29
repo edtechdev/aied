@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-22T09:52:55-04:00"
+updated: "2026-09-28T22:17:25-04:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -42,7 +42,7 @@ Multimodal AI enables learners to produce and engage with content across text, i
 
 ### 2. Multimodal tutoring and the capability boundary
 
-When LLM-based tutors must solve problems that embed meaning in graphs, force diagrams, schematics, or tables, their accuracy degrades sharply — the **Multimodal Interference Effect**.([[syal-multimodal-dialogue-stem-2026]])([[syal-multimodal-dialogue-stem-2026]])
+When LLM-based tutors must solve problems that embed meaning in graphs, force diagrams, schematics, or tables, their accuracy degrades sharply — the **Multimodal Interference Effect**.([[syal-multimodal-dialogue-stem-2026]])
 
 - On OpenStax physics problems, text-only accuracy of ~96% drops to **~74%** on image-rich problems, consistently across model families.([[syal-multimodal-dialogue-stem-2026]])
 - **Visual Processing Errors** — failures to extract information from graphs or diagrams — dominate the error taxonomy and are the most correctable failure mode.

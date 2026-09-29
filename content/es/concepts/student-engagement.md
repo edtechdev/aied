@@ -1,7 +1,7 @@
 ---
 title: Implicación del estudiantado
 created: "2026-09-25T04:03:10-04:00"
-updated: "2026-09-25T04:03:10-04:00"
+updated: "2026-09-28T22:10:53-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -11,10 +11,14 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/student-engagement
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-28T04:14:44-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -48,6 +52,7 @@ La implicación es un constructo multidimensional arraigado en la psicología ed
 - **Frágil y dependiente del contexto:** [[polished-artifacts-fragile-engagement-2026|Artefactos pulidos, implicación frágil]] y [[genai-tutor-engagement-patterns|patrones de implicación en varias instituciones]] encuentran que la implicación varía según la tarea, el contexto y quien aprende: una herramienta de IA que implica profundamente a un estudiante puede producir una conducta superficial de persecución de la salida en otro.
 
 - **Antecedentes motivacionales:** [[ai-availability-student-motivation|La disponibilidad de la IA y la motivación]] muestra que saber que la IA está disponible puede reducir el valor percibido del esfuerzo implicado, en particular en quien aprende de forma novata: la implicación está moldeada por la expectativa, el valor y la competencia percibida tanto como por las características de la herramienta. **[[wang-goal-setting-ai-engagement-2026|Wang y Wang (2026)]]** amplían esto con una explicación desde la teoría del establecimiento de metas sobre **758 estudiantes universitarios de inglés** en aprendizaje asistido por IA, que muestra que el **apoyo del profesorado** mejora directamente la implicación y opera a través de las **metas de aproximación al dominio y de aproximación al rendimiento** del estudiantado (y no de las metas de evitación). Por tanto, la implicación en contextos de IA no es solo un resultado individual o de diseño: también está **andamiada socialmente** por el profesorado y por las orientaciones de meta que se anima a adoptar a quien aprende.
+Ese andamiaje tiene una contraparte institucional con una doble vía. El diseño de dos estudios de [[gai-advocacy-practice-art-education-2026|Chen (2026)]] (160 estudiantes de arte en un experimento de escenario y 425 en una encuesta) encontró que la inconsistencia percibida entre la defensa institucional de la IA generativa y sus prácticas reales de enseñanza y evaluación predecía la implicación en el proceso creativo a través de dos valoraciones opuestas —negativa por obstaculización (β = −0,060, p = 0,004) y positiva por desafío (β = 0,217, p < 0,001)—, y que el pensamiento de vías reforzaba solo la ruta positiva, de modo que la misma condición institucional implicó a unos estudiantes y desimplicó a otros.
 
 - **La competencia y la emoción como motores de la implicación:** [[chatbot-engagement-genai-competency-emotion-2026|Zhao et al. (2026)]] modelan **871 estudiantes universitarios** que interactúan con un chatbot de [[llm|LLM]] y encuentran que la **competencia en IA generativa** predice la implicación con el chatbot tanto directamente como indirectamente a través de las **emociones positivas** (la vía afectiva), y que tanto la competencia como la emoción positiva predicen la implicación y las emociones positivas de aprendizaje. La implicación es, por tanto, a la vez un resultado de *habilidad* y un resultado *afectivo*: quien aprende que carece de [[teacher-ai-competency|competencia en IA]] y experimenta ansiedad o frustración se desimplica, lo que tiene implicaciones para la formación en [[ai-literacy|alfabetización en IA]] como intervención sobre la implicación y no solo como meta de habilidad.
 
@@ -120,6 +125,8 @@ La implicación del estudiantado se conecta con la [[motivation|motivación]] y 
 - [[productive-failure]]
 
 ## Artículos conectados
+
+- [[gai-advocacy-practice-art-education-2026]] — Cuando las universidades defienden la IA generativa pero la práctica se queda corta: valoraciones del estudiantado e implicación en el proceso creativo en la educación artística
 
 - [[e3sense-multimodal-learner-engagement-sensing-2026]] — EEG confinado en la cabeza, seguimiento ocular y EDA predicen valoraciones de implicación de cinco niveles, mientras que las definiciones del propio estudiantado desplazan el mapeo (Anupkrishnan et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation

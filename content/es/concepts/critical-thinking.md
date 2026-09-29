@@ -12,6 +12,7 @@ confidence: medium
 translation_of: concepts/critical-thinking
 source_updated: "2026-09-28T04:53:20-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+connected_resources: [pressing-prompts, student-guide-to-ai]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

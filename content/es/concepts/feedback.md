@@ -9,6 +9,7 @@ confidence: high
 translation_of: concepts/feedback
 source_updated: "2026-09-28T04:14:44-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+connected_resources: [clarity, pedagogical-promptbook]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

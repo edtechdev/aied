@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje personalizado
 created: "2026-09-25T04:31:17-04:00"
-updated: "2026-09-25T04:31:17-04:00"
+updated: "2026-09-28T22:09:54-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,10 +10,14 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/personalized-learning
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-26T01:51:49-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"

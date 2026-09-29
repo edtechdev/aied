@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-22T09:52:55-04:00"
+updated: "2026-09-28T22:17:25-04:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -58,6 +58,7 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - **Adapt gamified and interdisciplinary AI thoughtfully.** [[medgame-llm-medical-education-gamification|Gamified LLM learning]] and [[alrazeeni-transforming-nursing-education-ai-2026|nursing-education transformation]] show promise but need evaluation for safety and skill outcomes; for nursing specifically, that safety-and-skill evidence — including the RCT in which AI-assisted simulation underperformed standardized patients — is gathered on [[nursing-education]].
 
 ## Connected Concepts
+
 - [[problem-based-learning]]
 - [[higher-ed]]
 - [[simulation]]
@@ -76,6 +77,7 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[virtual-and-augmented-reality]] — immersive and AR clinical training
 
 ## Connected Articles
+
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing students' and faculty AI experiences (TAM; psychosocial support)
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 8-dimension rubric evaluation of AI teaching agents in medical education

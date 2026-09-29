@@ -1,7 +1,7 @@
 ---
 title: Cognitive Surrender
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-28T22:17:25-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -20,7 +20,7 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 1. When a student accepts an AI answer that happens to be right, has the class succeeded? What would have to be true for the acceptance itself to be the thing that mattered?
-2. Is a calibrated delegator who knows their own limits different in kind from a student who simply cannot tell? How would [[teacher-role|an instructor]] the difference in a single piece of work?
+2. Is a calibrated delegator who knows their own limits different in kind from a student who simply cannot tell? How would [[teacher-role|an instructor]] tell the difference in a single piece of work?
 3. If confidence rises while accuracy falls — as it does when AI advice is available — what does that do to the learner's own error detection?
 4. Where is verification teachable, and where is it a workload problem [[educational-policy-ai|policy]]? Which parts of a [[curriculum-design|curriculum]] would need to change for checking to be the norm rather than the exception?
 5. Should institutions measure surrender at all, or does measuring it invite the same surveillance that [[ai-use-disclosure|disclosure rules]] struggle with?
@@ -87,7 +87,7 @@ Does surrender habituate, or does it decay with disuse? [[cognitive-washout-ai-s
 
 ## Limitations
 
-The evidence for surrender as a named construct rests heavily on one program of laboratory work: three preregistered experiments on an adapted Cognitive Reflection Test with convenience samples, which establishes the mechanism and the dispositional moderators but [[transfer-of-learning|transfer]] high-stakes professional judgment. The design also captures single exposures, so nothing in it shows whether surrender habituates or compounds. The field evidence is observational: the ALEKS panel shows faster completion with worse proctored retention, but a causal attribution to surrender rather than to study-strategy change requires assumptions the design cannot test. Definitions are still unstable across the literature — offloading, over-reliance, dependence, attachment and problematic use are routinely conflated, and [[yan-conversational-ai-engagement-dependence-synthesis-2026|at least one synthesis]] argues that frequent delegation should not be labeled dependence without impaired control or harm. Finally, [[self-report-measures|self-reports]] of trust, need for cognition and checking behavior carry the usual limits, and much of the classroom evidence concerns [[higher-ed|higher education]] and [[k-12|secondary]] rather than early schooling.
+The evidence for surrender as a named construct rests heavily on one program of laboratory work: three preregistered experiments on an adapted Cognitive Reflection Test with convenience samples, which establishes the mechanism and the dispositional moderators but does not [[transfer-of-learning|transfer]] to high-stakes professional judgment. The design also captures single exposures, so nothing in it shows whether surrender habituates or compounds. The field evidence is observational: the ALEKS panel shows faster completion with worse proctored retention, but a causal attribution to surrender rather than to study-strategy change requires assumptions the design cannot test. Definitions are still unstable across the literature — offloading, over-reliance, dependence, attachment and problematic use are routinely conflated, and [[yan-conversational-ai-engagement-dependence-synthesis-2026|at least one synthesis]] argues that frequent delegation should not be labeled dependence without impaired control or harm. Finally, [[self-report-measures|self-reports]] of trust, need for cognition and checking behavior carry the usual limits, and much of the classroom evidence concerns [[higher-ed|higher education]] and [[k-12|secondary]] rather than early schooling.
 
 ## Connected Concepts
 

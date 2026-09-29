@@ -1,7 +1,7 @@
 ---
 title: Evaluación
 created: "2026-09-25T03:53:48-04:00"
-updated: "2026-09-25T03:53:48-04:00"
+updated: "2026-09-28T22:07:38-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -12,10 +12,15 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-26T07:13:32-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+connected_resources: [idstack, lesson-md, master-instructional-design]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -62,7 +67,7 @@ La IA plantea preguntas fundamentales de [[assessment-validity|validez]]: ¿las 
 
 ## La integridad y el debate sobre la detección
 
-La IA en la evaluación ha intensificado la conversación sobre la [[academic-integrity|integridad]]. Una línea se centra en la [[ai-detection|detección de texto generado por IA]], mientras que un cuerpo creciente de [[research-methods-aied|investigación]] sostiene que la detección es una herramienta limitada y situacional, no una estrategia de primera elección. [[beyond-detection-authentic-assessment-ai-2025|Más allá de la detección]] y [[responsible-assessment-ai-era-stanford-2026|La evaluación responsable]] sostienen que la autenticidad no se puede imponer a base de vigilancia: hay que rediseñarla, situando la IA como colaboradora declarada y priorizando la [[authentic-assessment|evaluación auténtica y basada en procesos]] por encima de la vigilancia. **[[walton-bearman-assessment-judgment-2025|Walton et al. (2025)]]** anclan esto en evidencia sobre **cómo juzga realmente el estudiantado** su camino por la evaluación con IA generativa: entrevistas con retroceso de pantalla (scroll-back) con 26 estudiantes revelaron un espectro de seis eventos de juicio, desde evaluar críticamente el conocimiento de la IA y aprender a través de sus limitaciones hasta adoptar ideas sin crítica y juzgar mal las aportaciones de la IA como propias. **[[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]]** añaden una contraparte [[quantitative-research|cuantitativa]]: en 157 estudiantes, *cómo* se usa la IA generativa (integración evaluativa para apoyar la comprensión frente a una adopción como atajo con poca verificación) predijo el rendimiento, mientras que la simple **frecuencia** de uso **no predijo ni** el rendimiento ni la [[self-efficacy|autoeficacia]] académica. Juntos, estos estudios reformulan la pregunta de la evaluación desde *si* el estudiantado usa IA hacia *cómo juzga y pauta* ese uso.
+La IA en la evaluación ha intensificado la conversación sobre la [[academic-integrity|integridad]]. Una línea se centra en la [[ai-detection|detección de texto generado por IA]], mientras que un cuerpo creciente de [[research-methods-aied|investigación]] sostiene que la detección es una herramienta limitada y situacional, no una estrategia de primera elección. [[beyond-detection-authentic-assessment-ai-2025|Más allá de la detección]] y [[responsible-assessment-ai-era-stanford-2026|La evaluación responsable]] sostienen que la autenticidad no se puede imponer a base de vigilancia: hay que rediseñarla, situando la IA como colaboradora declarada y priorizando la [[authentic-assessment|evaluación auténtica]] y [[process-oriented-assessment|basada en procesos]] por encima de la vigilancia. **[[walton-bearman-assessment-judgment-2025|Walton et al. (2025)]]** anclan esto en evidencia sobre **cómo juzga realmente el estudiantado** su camino por la evaluación con IA generativa: entrevistas con retroceso de pantalla (scroll-back) con 26 estudiantes revelaron un espectro de seis eventos de juicio, desde evaluar críticamente el conocimiento de la IA y aprender a través de sus limitaciones hasta adoptar ideas sin crítica y juzgar mal las aportaciones de la IA como propias. **[[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]]** añaden una contraparte [[quantitative-research|cuantitativa]]: en 157 estudiantes, *cómo* se usa la IA generativa (integración evaluativa para apoyar la comprensión frente a una adopción como atajo con poca verificación) predijo el rendimiento, mientras que la simple **frecuencia** de uso **no predijo ni** el rendimiento ni la [[self-efficacy|autoeficacia]] académica. Juntos, estos estudios reformulan la pregunta de la evaluación desde *si* el estudiantado usa IA hacia *cómo juzga y pauta* ese uso.
 
 ## El rediseño de la evaluación en la era de la IA
 

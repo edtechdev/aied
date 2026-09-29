@@ -1,7 +1,7 @@
 ---
 title: Career Development and Readiness
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-09-10T15:28:00-04:00"
+updated: "2026-09-28T22:17:25-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
@@ -31,7 +31,7 @@ As AI transforms occupations, education's role in career development has broaden
 - **Employer and graduate perspectives.** [[ithaka-sr-ai-skills-college-graduates-2026|The ITHAKA S+R report]] (500 US four-year-college instructors, compared against 200 US employers) documents a **systematic skills-prioritization gap** between instructors and employers that signals the workforce demands shaping [[higher-ed|higher education]] curricula. Instructors and employers agree on the importance of only one of 26 AI skills (setting realistic expectations for AI-augmented work): instructors prioritize a *critical, responsible-use* orientation (attribution, human accountability, limits of AI), while employers favor *workflow, automation, and human–AI teaming* skills. The report finds only three of 26 skills are taught by half or more instructors — the under-taught categories (workflow redesign, automation, technical integration) are precisely where employer demands diverge most — and that most institutions lack both a consensus on what AI skills look like and an assessment framework for them. For career development, this means graduates' readiness depends on closing a real, measurable gap between what employers value and what curricula teach, not just on adding AI literacy.
 - **Course policy as a workforce-competency decision.** [[mccorkle-aligned-genai-course-policy-2025|McCorkle's (2025)]] design case makes the trade-off explicit at task level: for each step of a semester project the instructor pairs an emerging [[generative-ai|GenAI]] workforce competency (prompting for objectives, generating images, writing scripts, text-to-speech narration) against the need to assess a foundational skill, and permits AI only where the competency wins — a concrete way to build the workflow skills employers value ([[prompt-engineering]], evaluation of [[llm|LLM]] output) into existing assignments rather than adding a separate AI course.
 - **Sector-specific readiness frameworks.** [[workforce-readiness-smart-manufacturing-wrl-2026|Workforce readiness for smart manufacturing]] and [[ai-engineering-computing-workforce-grey-literature-2026|the future of the engineering/computing workforce]] translate general employability into [[discipline-specific-aied|discipline-specific]] competency frameworks.
-- **Workforce transitions.**  and [[post-covid-ict-career-aspirations|ICT career aspirations]] examine how students' career intentions shift in response to technological change.
+- **Workforce transitions.** The [[post-covid-ict-career-aspirations|ICT career aspirations]] study examines how students' career intentions shift in response to technological change.
 - **Theoretical grounding.** The [[kim-ai-anxiety-comprehensive-analysis|AI Anxiety comprehensive analysis]] identifies the **fear of replacement by AI** as a primary driver of AI anxiety — the career dimension this concept addresses head-on.
 
 ## Career readiness as a protective and developmental goal

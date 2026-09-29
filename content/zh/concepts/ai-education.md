@@ -1,7 +1,7 @@
 ---
 title: 教育中的人工智能
 created: "2026-09-22T14:35:06-04:00"
-updated: "2026-09-22T14:35:06-04:00"
+updated: "2026-09-28T22:10:14-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,10 +13,14 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-09-22T03:10:00-04:00"
+source_updated: "2026-09-23T09:53:41-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
@@ -24,8 +28,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 教育中的人工智能
 
 > **教育中的人工智能（AI in Education，AIED）**：一个广阔而跨学科的研究领域，它把人工智能应用于教与学，并研究其设计、使用、评价与后果。作为本知识库的总括概念，教育中的人工智能既包含**面向教育的人工智能**（用人工智能改进教学与评估），也包含**关于人工智能的教育**（培养人工智能素养与批判性理解）。它位于教学技术、[[learning-sciences|学习科学]]（即探究学习者是否发生变化、而不只是工具是否发挥作用的实证研究领域）、计算机科学、[[educational-policy-ai|教育政策]]、[[ethics|伦理]]与[[equity-in-ai-education|公平]]的交汇处。本页既是这一领域的导论，也是通往本知识库所涵盖的每一个概念的地图。
 
@@ -54,7 +56,7 @@ ai_assist:
 - **[[learning-theories|学习理论]]**：关于“学习如何发生”的总括页面，即塑造人工智能设计与评价的理论框架（[[behaviorism|行为主义]]、[[cognitive-psychology|认知主义]]、[[constructivist|建构主义]]、[[sociocultural-learning|社会文化取向]]、认知取向、[[motivation|动机取向]]）。
 - **[[ai-technologies|技术]]**：技术层的总括页面，即驱动 AIED 的人工智能系统（[[llm|大语言模型]]、[[generative-ai|生成式人工智能]]、[[multimodal|多模态]]、[[educational-robotics|机器人]]）与技术手段（[[rag|检索增强生成]]、[[prompt-engineering|提示工程]]、[[reinforcement-learning|强化学习]]、[[pedagogical-llm-training|模型训练]]、[[agentic-ai|智能体式编排]]）。学习者建模这一族，包括[[knowledge-tracing|知识追踪]]、[[cognitive-diagnosis|认知诊断]]、[[simulating-students|模拟学生]]，以及消费这些模型输出的系统（[[intelligent-tutoring|智能导学]]、[[adaptive-learning|自适应学习]]、[[personalized-learning|个性化学习]]），在这一技术脉络中归入[[student-modeling|学习者建模与自适应教学]]这一总括页面。
 - **[[discipline-specific-aied|各学科中的人工智能]]**：关于人工智能如何应用于各个学科领域的总括页面（[[math-education|数学]]、[[physics-education|物理]]、[[language-learning|语言学习]]、[[cs-education|计算机科学]]、[[writing-education|写作]]、[[stem-education|STEM]]、[[engineering-education|工程]]、[[business-education|商科]]、[[teacher-education|教师教育]]、[[medical-education|医疗卫生专业]]等）；在学术科目之外，还包括那条以“展示出的实践”而非“正确性”为评价对象的专业与应用脉络（[[nursing-education|护理]]、[[information-technology|信息技术]]、[[vocational-education|职业教育与培训]]、[[design-education|设计教育]]），以及各教育层次（[[k-12|K-12]]、[[higher-ed|高等教育]]、[[adult-learning|成人学习]]）。
-- **[[assessment|评估]]**（含[[formative-assessment|形成性]]、[[summative-assessment|终结性]]、[[authentic-assessment|真实性]]与[[automated-assessment|自动化]]等支脉）：关于人工智能如何既评价学习者，又重塑评估效度与诚信的总括页面。
+- **[[assessment|评估]]**（含[[formative-assessment|形成性]]、[[summative-assessment|终结性]]、[[authentic-assessment|真实性]]、[[oral-assessment|口头]]与[[automated-assessment|自动化]]等支脉）：关于人工智能如何既评价学习者，又重塑评估效度与诚信的总括页面。
 - **[[feedback|反馈]]**：关于反馈如何生成、传递与使用的总括页面，包括反馈回路、[[ai-feedback-quality|反馈质量]]、[[feedback-literacy|反馈素养]]，以及它的各种评估情境（[[formative-assessment|形成性]]、[[peer-assessment|同伴]]、[[automated-assessment|自动化]]）。
 - **[[stakeholders|人工智能教育中的相关人群]]**：回答“行动者是谁”的总括页面，包括学习者、[[teacher-role|教师]]、[[learning-design|学习设计师]]、[[administrator|管理者]]与[[educational-policy-ai|政策制定者]]。
 - **[[ai-ed-evaluation|人工智能教育评价]]**与**[[research-methods-aied|研究方法]]**：回答“我们如何知道人工智能是否有效”的总括页面，包括效能研究、[[benchmark|基准测试]]、[[rct|随机对照试验]]、[[meta-analysis-systematic-review|元分析]]，以及作为核心结果指标的[[learning-gains|学习增益]]。读者还应权衡[[limitations-in-aied-research|这类证据普遍存在的局限]]。
@@ -80,7 +82,7 @@ ai_assist:
 
 - **核心教学法：**[[pedagogy|教学法与教学策略]]（本知识库教学方法覆盖的总括页面），以及[[active-learning|主动学习]]、[[collaborative-learning|协作学习]]、[[group-work|小组合作]]、[[project-based-learning|项目式学习]]、[[problem-based-learning|问题式学习]]、[[productive-failure|有益失败]]、[[inquiry-based-learning|探究式学习]]、[[experiential-learning|体验式学习]]、[[game-based-learning|游戏化学习]]、[[learning-by-teaching|以教促学]]、[[scaffolding|脚手架]]、[[socratic-method|苏格拉底式教学法]]、[[critical-pedagogy|批判性教学法]]、[[pedagogical-partnerships|教学伙伴关系]]、[[storytelling-in-education|叙事教学]]、[[learning-design|学习设计]]、[[online-teaching-and-learning|在线教学与学习]]与[[video-education|视频在教育中的应用]]。
 - **学习理论与过程：**[[learning-theories|学习理论]]总括页面（[[behaviorism|行为主义]]、[[cognitive-psychology|认知主义]]、[[constructivist|建构主义]]、[[sociocultural-learning|社会文化取向]]、[[distributed-cognition|分布式认知]]、[[situated-learning|情境学习]]、[[embodied-learning|具身学习]]、[[community-of-inquiry|探究共同体]]）与面向学习者的过程并存，例如[[self-regulated-learning|自我调节学习]]、[[self-determination-theory|自我决定理论]]、[[motivation|动机]]、[[self-efficacy|自我效能]]、[[self-directed-learning|自我导向学习]]、[[metacognition|元认知]]、[[desirable-difficulties|合意困难]]、[[transfer-of-learning|学习迁移]]、[[prior-knowledge|先前知识]]、[[icap-framework|ICAP 认知参与]]、[[refutation-text|反驳性文本]]、[[retrieval-spacing-interleaving|提取、间隔与交错练习]]以及[[activity-theory-aied|活动理论]]。
-- **学习者参与和体验：**[[student-engagement|学生参与]]、[[help-seeking|求助行为]]、[[social-emotional-learning|社会情感学习]]、[[well-being|福祉]]、[[creativity|创造力]]、[[problem-solving|问题解决]]、[[mastery-learning|掌握学习]]与[[student-ai-interaction|学生与人工智能的互动]]，共同塑造了学习者实际接触人工智能并受其影响的方式。
+- **学习者参与和体验：**[[student-engagement|学生参与]]、[[help-seeking|求助行为]]、[[social-emotional-learning|社会情感学习]]、[[well-being|福祉]]、[[creativity|创造力]]、[[problem-solving|问题解决]]、[[mastery-learning|掌握学习]]与[[student-ai-interaction|学生与人工智能的互动]]，共同塑造了学习者实际接触人工智能并受其影响的方式，而[[social-norms-ai-use|围绕人工智能使用逐渐形成的社会规范]]则决定人们能在多大程度上公开讨论这些。
 ## 技术与方法
 
 [[ai-technologies|技术]]页面是技术层的总括页面：
@@ -102,7 +104,7 @@ ai_assist:
 
 人工智能既改变了我们评价学习者的方式，也改变了我们评价人工智能系统本身的方式：
 
-- **评估与反馈：**[[assessment|评估]]、[[formative-assessment|形成性评估]]、[[summative-assessment|终结性评估]]、[[authentic-assessment|真实性评估]]、[[eportfolio|电子档案袋]]、[[feedback|反馈]]与[[feedback-literacy|反馈素养]]、[[ai-feedback-quality|人工智能反馈质量]]、[[peer-assessment|同伴评估]]、[[automated-assessment|自动化评估]]、[[automated-essay-scoring|自动作文评分]]与[[automated-question-generation|自动题目生成]]。由于模型如今可以按需生成看似成型的成品作业，本知识库特意凸显那项仍属学习者本人的能力：[[evaluative-judgment|评价性判断]]，即依据有理据的标准来评判自己、同伴以及人工智能产出之质量的能力。它正是若干反馈与真实性评估研究共同指向的构念，包括多校实验中混合反馈条件优于直接由人工智能给出的反馈、人工智能形成性反馈在可持续性上的缺口，以及把评价对象从成品转向学生所做决策这一务实做法；它也是人工智能时代教学重新设计从[[ai-detection|检测]]转向“其诚信经得起查验的任务”的一个核心原因。[[group-work|小组合作]]同样要同时评估过程与成果，团队必须就“谁以何种方式参与人工智能才可接受”达成一致。
+- **评估与反馈：**[[assessment|评估]]、[[formative-assessment|形成性评估]]、[[summative-assessment|终结性评估]]、[[authentic-assessment|真实性评估]]、[[eportfolio|电子档案袋]]、[[feedback|反馈]]与[[feedback-literacy|反馈素养]]、[[ai-feedback-quality|人工智能反馈质量]]、[[peer-assessment|同伴评估]]、[[oral-assessment|口头评估]]、[[automated-assessment|自动化评估]]、[[automated-essay-scoring|自动作文评分]]与[[automated-question-generation|自动题目生成]]。由于模型如今可以按需生成看似成型的成品作业，本知识库特意凸显那项仍属学习者本人的能力：[[evaluative-judgment|评价性判断]]，即依据有理据的标准来评判自己、同伴以及人工智能产出之质量的能力。它正是若干反馈与真实性评估研究共同指向的构念，包括多校实验中混合反馈条件优于直接由人工智能给出的反馈、人工智能形成性反馈在可持续性上的缺口，以及把评价对象从成品转向学生所做决策这一务实做法；它也是人工智能时代教学重新设计从[[ai-detection|检测]]转向“其诚信经得起查验的任务”的一个核心原因。[[group-work|小组合作]]同样要同时评估过程与成果，团队必须就“谁以何种方式参与人工智能才可接受”达成一致。
 - **测量与效度：**[[assessment-validity|评估效度]]、[[psychometrically-aware-ai|具备心理测量意识的人工智能]]、[[educational-measurement|教育测量]]、[[item-response-theory|项目反应理论]]、[[self-report-measures|自陈式测量]]（这一证据中很大一部分所依赖的工具，也是一个反复出现的局限）、[[ai-detection|人工智能检测]]、[[remote-proctoring|远程监考]]与[[academic-integrity|学术诚信]]。
 
 ## 研究方法与评价
