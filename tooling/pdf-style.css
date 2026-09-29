@@ -67,8 +67,15 @@ hr { border: none; border-top: 1px solid #ccc; }
 .notice-page h1 { font-size: 18pt; margin-bottom: 0.6em; }
 .notice-page p { margin: 0.7em 0; }
 .notice-page .pd-mark { margin-top: 1.2em; }
-/* The CC0 public-domain mark sits inline with its localized label. */
-.notice-page .pd-mark img { vertical-align: middle; }
+/* The CC0 public-domain mark sits inline with its localized label, at the
+   surrounding text's size (the site's footer badge uses 1.15em too). The size
+   must be here and not in the <img>'s width/height: WeasyPrint ignores those
+   attributes and would draw the 256px raster at 2.7in. */
+.notice-page .pd-mark img {
+  width: 1.15em;
+  height: 1.15em;
+  vertical-align: middle;
+}
 
 /* Table of contents — make entries visibly clickable (blue) and add
    hierarchical numbering (1 / 1.1 / 1.2.1) via CSS counters. WeasyPrint

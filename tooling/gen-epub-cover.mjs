@@ -12,7 +12,9 @@ const OUT = path.join(root, 'public', 'epub-cover.png');
 function b64(p){ return readFileSync(p).toString('base64'); }
 // The CC0 "circled zero", rasterized from src/assets/cc-zero.svg by
 // tooling/gen-pd-mark.mjs. It replaces the old 140x49 badge whose lettering was
-// the English words "PUBLIC DOMAIN" — the mark itself is language-neutral.
+// the English words "PUBLIC DOMAIN" — the mark itself is language-neutral, so
+// the words now sit beside it as live text (below) instead of being baked into
+// the artwork, and a translated edition uses its own wording for them.
 const markB64 = b64(path.join(root, 'public', 'public-domain-mark.png'));
 
 // --- White-background concept map (same radial geometry as ConceptMap.astro) ---
@@ -60,6 +62,9 @@ const svg=`<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.or
 <image x="${(COVER_W-cmapW)/2}" y="330" width="${cmapW}" height="${cmapH}" xlink:href="data:image/png;base64,${cmapB64}"/>
 
 <image x="${(COVER_W-64)/2}" y="1252" width="64" height="64" xlink:href="data:image/png;base64,${markB64}"/>
+<!-- The mark on its own does not say what it means, so it is labelled, as the
+     site's footer badge and the book notice pages are. -->
+<text x="600" y="1372" text-anchor="middle" fill="#0b1220" font-size="34" font-weight="600" font-family="Georgia,serif">Public Domain</text>
 </svg>`;
 
 await sharp(Buffer.from(svg)).png().toFile(OUT);

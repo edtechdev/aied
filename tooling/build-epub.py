@@ -166,6 +166,12 @@ def _pd_mark_html(indent, b64, label, size=28):
     "public domain". The image carries no alt text of its own (empty alt,
     aria-hidden): the visible label IS the accessible name, and unlike the old
     badge's fixed English lettering it is translated.
+
+    The width/height attributes are only a fallback: WeasyPrint ignores them on
+    an <img> and draws the 256px raster at its intrinsic size, which made the
+    mark fill the PDF's notice page. The size is therefore set in CSS, in em so
+    it tracks the surrounding text — see `.pd-mark img` in tooling/pdf-style.css
+    and in the EPUB Notice page's own <style> block.
     """
     return (f'{indent}<p class="pd-mark">'
             f'<img src="data:image/png;base64,{b64}" alt="" aria-hidden="true"'
@@ -1082,11 +1088,20 @@ def _locale_cover_path():
            fill='#ffffff', anchor='mm')
 
     # Public-domain mark: the CC0 circled zero, square, on the same baseline as
-    # the old 140x49 "PUBLIC DOMAIN" badge it replaces.
+    # the old 140x49 "PUBLIC DOMAIN" badge it replaces, with this locale's own
+    # wording for "public domain" under it — the mark alone does not say what it
+    # means, and a translated edition must not print English there.
     if os.path.exists(PD_MARK_PATH):
         M = 64
         mark = Image.open(PD_MARK_PATH).convert('RGBA').resize((M, M))
         img.paste(mark, ((W - M) // 2, 1252), mark)
+        pd_label = _nt('publicDomain', 'Public Domain')
+        lsize = 34
+        lfont = ImageFont.truetype(title_font_path, lsize)
+        while lfont.getlength(pd_label) > W - 120 and lsize > 18:
+            lsize -= 2
+            lfont = ImageFont.truetype(title_font_path, lsize)
+        d.text((W // 2, 1372), pd_label, font=lfont, fill='#0b1220', anchor='mm')
 
     img.save(out)
     print(f'Wrote {out} ({os.path.getsize(out)} bytes)')
@@ -1221,7 +1236,7 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
     body {{ font-family: Georgia, serif; margin: 3em 2em; }}
     h1 {{ font-size: 1.6em; }}
     .pd-mark {{ margin-top: 1.5em; }}
-    .pd-mark img {{ vertical-align: middle; }}
+    .pd-mark img {{ width: 1.15em; height: 1.15em; vertical-align: middle; }}
     p {{ margin: 0.8em 0; }}
   </style>
   <link rel="stylesheet" type="text/css" href="../styles/stylesheet1.css" />
@@ -1267,7 +1282,7 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
     body {{ font-family: Georgia, serif; margin: 3em 2em; }}
     h1 {{ font-size: 1.6em; }}
     .pd-mark {{ margin-top: 1.5em; }}
-    .pd-mark img {{ vertical-align: middle; }}
+    .pd-mark img {{ width: 1.15em; height: 1.15em; vertical-align: middle; }}
     p {{ margin: 0.8em 0; }}
   </style>
   <link rel="stylesheet" type="text/css" href="../styles/stylesheet1.css" />
