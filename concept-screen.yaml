@@ -424,3 +424,18 @@
   integrated: [anxiety-and-stress]
   no_change: [teacher-role, learning-analytics, governance, student-modeling, formative-assessment]
   reason: "Integrated into anxiety-and-stress: the page's assessment-pressure material was proctoring surveillance and career anxiety, with nothing on the shift from episodic testing to continuous data-driven evaluation, so the invisible-anxiety and algorithmic-accountability redistribution claim is distinguishing (recorded as argued from literature, not measured). Skipped five: teacher-role's continuous dashboard monitoring, learning-analytics' pipeline, and the governance, student-modeling and formative-assessment claims are already carried with stronger evidence."
+- article: liang-k12-kgraph-curriculum-knowledge-graph-2026
+  date: 2026-09-29
+  integrated: []
+  no_change: [benchmark, knowledge-graph, curriculum-design, pedagogical-llm-training, educational-measurement, multimodal, transfer-of-learning, ai-ed-evaluation, math-education]
+  reason: "No pair qualified. K12-Bench is a further instance of a claim the benchmark page already carries - that education-relevant constructs beyond content knowledge go untested (the same page added a 2026 K-12 science benchmark finding that day) - and the textbook-derived graph is a further instance of the LLM-constructed curriculum graphs already on knowledge-graph (HiLLM-CD, CourseGraph) and the multimodal graphs on multimodal. curriculum-design already carries AI curriculum mapping, pedagogical-llm-training already carries data-composition findings, and the remaining candidates are off-construct, so nothing survived the delete test."
+- article: worden-foundationalassist-knowledge-tracing-dataset-2026
+  date: 2026-09-29
+  integrated: [knowledge-tracing]
+  no_change: [student-modeling, item-response-theory, benchmark, math-education, personalized-learning, metacognition, automated-question-generation, misconceptions, help-seeking]
+  reason: "Integrated into knowledge-tracing: the page carried tracing approaches and three validation caveats but no evidence that off-the-shelf models fail as tracers, so FoundationalASSIST's finding that the best of four frontier LLMs reaches only 56.2% against a 51.3% always-correct baseline (AUC-ROC 0.559, optimism bias 85.4% vs 12.6%) is a distinguishing capability boundary. Skipped the rest: item-response-theory already carries several LLM difficulty-estimation instruments, and the others add no claim the pages lack."
+- article: garrod-edu-qurating-educational-data-curation-2026
+  date: 2026-09-29
+  integrated: [educational-nlp]
+  no_change: [pedagogical-llm-training, global-south, multilingual-learning, culturally-relevant-pedagogy, reinforcement-learning, educational-measurement, curriculum-design, misconceptions, prior-knowledge, scaffolding]
+  reason: "Integrated into educational-nlp: the page had no coverage of corpus-scale data curation, so distilled multi-dimensional scorers labeling 322.25M FineWeb-Edu-Fortified documents is a distinguishing application of educational NLP to the instructional text other models are trained on, not just to learner-produced language. Skipped ten: curated corpora for local languages, upstream coverage gaps, and GRPO reward design are claim classes already carried by multilingual-learning, global-south and reinforcement-learning."
