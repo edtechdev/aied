@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-26T01:51:49-04:00"
+updated: "2026-09-29T12:12:52-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -136,6 +136,7 @@ The same section of the evidence base supplies the case-file counterpart, and it
 - [[teichmann-detecting-undetectable-misconduct-2026]] — The misconduct procedure as a validity problem
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment validity under imperfect information: a response-region model
 - [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk? Separating five validity pressures and checking what a redesign weakens (Weidlich 2026)
+- [[koretsky-genai-stem-assessment-2026]] — STEM assessment as a validity, design and capability-definition problem, not a cheating one: process evidence, oral exams and the fidelity of AI-generated tasks (Koretsky et al. 2026)
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
 - [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
 - [[el-salvador-ai-tutoring-selection-claim-2026]] — Bounding the learning claim of El Salvador's AI tutoring pilot (Restrepo Morales et al. 2026)

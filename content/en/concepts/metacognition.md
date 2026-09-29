@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-27T07:10:53-04:00"
+updated: "2026-09-29T12:09:58-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -35,6 +35,8 @@ Metacognition in education refers to learners' awareness, monitoring, and [[regu
 Within [[self-regulated-learning]] frameworks, metacognition is the central mechanism that enables learners to adapt strategies, recognize confusion, and seek help appropriately.([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
 How learners actually deploy metacognition around AI is shaped by more than the tool itself: [[cui-motivation-roles-metacognitive-genai-2026|Cui et al.]] find that student motivation and the interaction role they adopt shape their metacognitive [[student-engagement|engagement]] with [[generative-ai|GenAI]] — meaning whether AI use is metacognitively rich depends on the learner's stance as much as on the technology. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar (2026)]] add the [[student-ai-interaction|AI interaction]] itself as an object of that reflection: the closing step of their [[prompt-engineering|Prompt Literacy]] Cycle asks learners to examine what the process revealed about how prompts function and what assumptions shaped the response, and they make reflection and revision the phase in which authorship and critical judgment develop.
+
+A more fundamental role for metacognition appears when the locus of coordination shifts from teacher to learner. [[dang-human-ai-collaboration-competency-2026|Dang, Hong, Doyle and Nguyen (2026)]] argue in their [[human-ai-collaboration|Human-AI Collaboration Competency (HACC)]] framework that the integrative work TPACK assigns to pedagogy passes, once the actor is the learner, to the learner's own metacognition — the competency that lets students direct the collaboration, [[trust-calibration|calibrate]] their reliance on [[generative-ai|AI]], and remain the authors of their learning. They treat metacognitive competency as the mechanism through which [[agency|learner agency]] is enacted, deliberately excluding agency as a separate component and reading it instead as the emergent quality of coordinating domain, AI, and metacognitive competency. Their [[network-analysis|Epistemic Network Analysis]] of interviews with 24 higher education educators found metacognitive talk rising with role level — senior educators connected it to domain, AI, and learning with AI — which the authors read as educators with broader curricular responsibility seeing students' persistent difficulties as regulatory rather than technical.
 
 ## How AI Tools Affect Metacognition
 
@@ -166,3 +168,4 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — From diagnosis to meta-diagnosis: teachers judging AI-generated inferences (Hoppe, Loibl & Leuders 2026)
 - [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- [[dang-human-ai-collaboration-competency-2026]] — Metacognition, not pedagogy, as the mechanism of learner agency in human-AI collaboration (Dang, Hong, Doyle & Nguyen 2026)

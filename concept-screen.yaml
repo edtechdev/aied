@@ -388,3 +388,19 @@
   integrated: []
   no_change: [writing-education, automated-assessment, feedback]
   reason: "The review restates established automated-writing-evaluation benefits and overreliance risks; the writing-education page already discusses AWE tools, so nothing distinguishing was added."
+
+- article: koretsky-genai-stem-assessment-2026
+  date: 2026-09-29
+  integrated: []
+  no_change: [assessment-validity, process-oriented-assessment, ai-literacy]
+  reason: "All three screened concepts already carried this paper's points from stronger primary sources: the rule-broken-vs-validity reframe and its reverse (restrictive proctoring cutting validity) are stated by Mohamed & Temimi, Teichmann, Hadjisolomou and Weidlich; process evidence and its limits are the stated thesis of the process-oriented page; and the AI-literacy distinction is a single undeveloped paragraph in an editorial scoping review with no evidence or operationalization. No narrative change; the page gained only a back-link where the paper is genuinely central."
+- article: rodrigues-aied-unplugged-numeracy-2026
+  date: 2026-09-29
+  integrated: [teacher-role, digital-divide]
+  no_change: []
+  reason: "Teacher-as-proxy is new to the teacher-role page, which had orchestration but no teacher standing in for the system, and the effect runs through the teacher (training drove gains; reduced Effort mediated the learning effect, 3.649, 95% CI [1.097, 6.398]). The unplugged design is also a distinct equity strategy on the digital-divide page, with the caveat that it relocates rather than removes the constraint."
+- article: dang-human-ai-collaboration-competency-2026
+  date: 2026-09-29
+  integrated: [human-ai-collaboration, metacognition]
+  no_change: [agency]
+  reason: "HACC reframes collaboration competency as a dynamic configuration rather than additive skills, reassigns TPACK's integrative role to learner metacognition and treats agency as emergent; both pages gained that framing. The agency page already carried agency as enacted, emergent and non-competency, and the one novel element - the framework's self-acknowledged inability to measure agency directly - has no purchase on a page that does not frame agency as measurable."
