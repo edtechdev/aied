@@ -6,7 +6,7 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-28T22:17:25-04:00"
+updated: "2026-09-29T09:45:00-04:00"
 reviewed_by: [editor]
 ---
 
@@ -71,3 +71,4 @@ Teacher readiness is decisive. [[pre-service-science-teachers-ai-perceptions-202
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
+- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics

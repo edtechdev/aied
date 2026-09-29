@@ -390,3 +390,24 @@
     separated as evidence. No concept page carries representational or dynamic-geometry theory to
     extend, and the two nearest candidates (math-education, visualization) would gain only a link to a
     theoretical distinction their narratives do not otherwise discuss.
+
+- article: llm-benchmark-secondary-science-topics-2026
+  date: 2026-09-29
+  integrated: [benchmark]
+  no_change: [science-education, k-12, llm]
+  reason: "The K-12 NGSS benchmark's finding that most open-weight models exceed 90% while item discrimination collapses is a distinguishing measurement, so it was woven into the benchmark page's item-statistics discussion; the science-education, k-12 and llm pages already carry the relevant coverage."
+- article: deepe-v1-vietnamese-education-agentic-llm-2026
+  date: 2026-09-29
+  integrated: []
+  no_change: [intelligent-tutoring, llm, global-south]
+  reason: "The paper's contribution is a long-context serving-efficiency method (Similarity Chunk Rolling) and a playbook-based agentic layer; its educational claims about self-hosted, curriculum-grounded tutoring restate what the intelligent-tutoring, llm and global-south pages already carry."
+- article: digital-infrastructure-coverage-index-indian-schools-2026
+  date: 2026-09-29
+  integrated: [digital-divide]
+  no_change: [equity-in-ai-education, educational-policy-ai]
+  reason: "The finding that devices and connectivity, not electrification, bind screen-based instruction (618,789 of 1,471,473 Indian schools lack a pedagogical computer) is a distinguishing measurement added to the digital-divide page; the equity and policy pages already frame the access gap generically."
+- article: ai-powered-writing-feedback-awe-review-2026
+  date: 2026-09-29
+  integrated: []
+  no_change: [writing-education, automated-assessment, feedback]
+  reason: "The review restates established automated-writing-evaluation benefits and overreliance risks; the writing-education page already discusses AWE tools, so nothing distinguishing was added."

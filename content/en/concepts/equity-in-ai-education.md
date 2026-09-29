@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-29T03:21:33-04:00"
+updated: "2026-09-29T09:45:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -149,3 +149,4 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Free-tier vs premium-model accuracy gap in mathematics: 32.7% vs 12% (Canonigo 2026)
 - [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Pooled GenAI learning gains (g=0.53) and the inequitable access to high-cost tools they cannot capture
+- [[digital-infrastructure-coverage-index-indian-schools-2026]] — Access before readiness: constructing and stress-testing a Digital Infrastructure Coverage Index

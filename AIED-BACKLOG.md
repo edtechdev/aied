@@ -6,8 +6,8 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-09-25
-**Total backlog:** 25 OpenAlex harvest candidates still being pursued, listed with no outcome · 7 new articles · 54 truncated source texts awaiting PDFs · 15 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-09-29
+**Total backlog:** 25 OpenAlex harvest candidates still being pursued, listed with no outcome · 8 new articles · 54 truncated source texts awaiting PDFs · 15 pages awaiting a full text before their practice and limitations sections can be written
 
 ## OpenAlex harvest (2026-09-25)
 
@@ -79,6 +79,10 @@ Relevant, evidence-bearing AI-in-education research found through OpenAlex and n
 
 ### The Mathematical Education
 - [Exploring teachers’ instrumental orchestration and roles in high school mathematics classes using AI-based digital tools](https://doi.org/10.63311/mathedu.26.6525) - observational content analysis | objective | 2026-05-31 - Lesson recordings and teacher screen captures empirically document classroom orchestration with AI tools. `accept`
+
+## OpenAlex harvest (2026-09-29)
+
+- [AI literacy and graduate employability in the age of artificial intelligence: The mediating role of career adaptability and the moderating role of growth mindset](https://doi.org/10.1016/j.ssaho.2026.103551) — [DOI: 10.1016/j.ssaho.2026.103551](https://doi.org/10.1016/j.ssaho.2026.103551) — *Social Sciences & Humanities Open*, 2026-09-26 (gold OA). Full text not retrievable: ScienceDirect returned an HTML landing page (832 KB) instead of a PDF to a scripted client; needs the PDF supplied. Survey of 455 final-year university students, PLS-SEM.
 
 ## Computers and Education: Artificial Intelligence (CAEAI)
 

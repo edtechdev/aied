@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-25T13:21:49-04:00"
+updated: "2026-09-29T09:45:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -156,3 +156,4 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[genai-writing-performance-meta-analysis-2026]] — Meta-analysis of GenAI writing performance: large pooled effect, fragile magnitude, methodology over pedagogy (Teng 2026)
 - [[customizing-ai-writing-pedagogy-systematic-review-2026]] — Systematic review of AI writing customization and the theory–design mismatch (Luo 2026)
 - [[human-ai-collaboration-academic-writing-2026]] — Structured human–AI collaboration in academic writing and digital critical thinking (Alshehri et al. 2026)
+- [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
