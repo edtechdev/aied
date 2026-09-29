@@ -1,7 +1,7 @@
 ---
 title: Integridad académica
 created: "2026-09-25T03:53:54-04:00"
-updated: "2026-09-25T03:53:54-04:00"
+updated: "2026-09-28T22:08:10-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,10 +11,14 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, process-feedback]
 translation_of: concepts/academic-integrity
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-26T01:51:49-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -206,3 +210,5 @@ El caso disciplinar más claro a favor del rediseño frente a la detección proc
 - [[ai-written-admissions-essays-penalized-2026]] — Los ensayos de admisión escritos por IA están muy extendidos pero se penalizan
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — ¿Quién actúa, quién sabe, quién responde? Análisis del discurso asistido por corpus sobre agencia, responsabilidad epistémica y rendición de cuentas en la investigación sobre IA generativa en educación superior
 - [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus deberes. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en informática en la era de la IA generativa
+
+- [[genai-governance-australian-higher-ed-2026]] — Trazar el límite autorizado: un estudio comparativo de viñetas de política sobre la gobernanza de la IA generativa en la educación superior australiana

@@ -9,7 +9,7 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-09-28T04:14:44-04:00"
+source_updated: "2026-09-28T21:21:51-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

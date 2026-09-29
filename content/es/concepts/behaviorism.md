@@ -9,7 +9,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/behaviorism
-source_updated: "2026-09-27T07:10:53-04:00"
+source_updated: "2026-09-28T21:37:06-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

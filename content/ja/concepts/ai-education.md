@@ -1,7 +1,7 @@
 ---
 title: 教育におけるAI
 created: "2026-09-22T14:35:13-04:00"
-updated: "2026-09-22T14:35:13-04:00"
+updated: "2026-09-28T22:08:27-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,10 +13,14 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-09-22T03:10:00-04:00"
+source_updated: "2026-09-23T09:53:41-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
@@ -54,7 +58,7 @@ ai_assist:
 - **[[learning-theories|学習理論]]** — 学習がどのように起こるかの最上位概念です。AIの設計と評価を形づくる理論的枠組み([[behaviorism|行動主義]]、[[cognitive-psychology|認知主義]]、[[constructivist|構成主義]]、[[sociocultural-learning|社会文化的学習]]、認知的、[[motivation|動機づけ]])を扱います。
 - **[[ai-technologies|技術]]** — 技術的な層の最上位概念です。AIEDを支えるAIシステム([[llm|LLM]]、[[generative-ai|生成AI]]、[[multimodal|マルチモーダル]]、[[educational-robotics|ロボティクス]])と手法([[rag|RAG]]、[[prompt-engineering|プロンプトエンジニアリング]]、[[reinforcement-learning|強化学習]]、[[pedagogical-llm-training|モデル訓練]]、[[agentic-ai|エージェント型オーケストレーション]])を扱います。学習者モデリングの系列、すなわち[[knowledge-tracing|知識トレーシング]]、[[cognitive-diagnosis|認知診断]]、[[simulating-students|学生のシミュレーション]]と、これらを利用するシステム([[intelligent-tutoring|知的個別指導]]、[[adaptive-learning|適応学習]]、[[personalized-learning|個別最適化学習]])は、この技術系統の中で[[student-modeling|学習者モデリングと適応的な指導]]という最上位概念のもとにまとめられています。
 - **[[discipline-specific-aied|専門分野におけるAI]]** — AIが教科領域をまたいでどのように応用されるかの最上位概念です([[math-education|数学]]、[[physics-education|物理]]、[[language-learning|言語学習]]、[[cs-education|情報科学]]、[[writing-education|作文]]、[[stem-education|STEM]]、[[engineering-education|工学]]、[[business-education|経営]]、[[teacher-education|教員養成]]、[[medical-education|医療専門職]]など)。さらに、学問教科を越えて、正しさよりも実践の実証を評価する専門職・応用の系統([[nursing-education|看護]]、[[information-technology|情報技術]]、[[vocational-education|職業教育訓練]]、[[design-education|デザイン教育]])と、教育段階([[k-12|K-12]]、[[higher-ed|高等教育]]、[[adult-learning|成人学習]])も扱います。
-- **[[assessment|評価]]**([[formative-assessment|形成的]]、[[summative-assessment|総括的]]、[[authentic-assessment|真正の]]、[[automated-assessment|自動]]の各系統を含む) — AIが学習者を評価すると同時に、評価の妥当性と誠実性を作り変える様子を扱う最上位概念です。
+- **[[assessment|評価]]**([[formative-assessment|形成的]]、[[summative-assessment|総括的]]、[[authentic-assessment|真正の]]、[[oral-assessment|口頭]]、[[automated-assessment|自動]]の各系統を含む) — AIが学習者を評価すると同時に、評価の妥当性と誠実性を作り変える様子を扱う最上位概念です。
 - **[[feedback|フィードバック]]** — フィードバックがどのように生成され、届けられ、使われるかの最上位概念です。フィードバックループ、[[ai-feedback-quality|フィードバックの品質]]、[[feedback-literacy|フィードバックリテラシー]]、そしてその評価の文脈([[formative-assessment|形成的]]、[[peer-assessment|相互]]、[[automated-assessment|自動]])を扱います。
 - **[[stakeholders|AI教育のステークホルダー]]** — 行為者が誰であるかの最上位概念です。学習者、[[teacher-role|教員]]、[[learning-design|学習デザイナー]]、[[administrator|管理者]]、[[educational-policy-ai|政策立案者]]です。
 - **[[ai-ed-evaluation|教育AIの検証]]** と **[[research-methods-aied|研究方法]]** — AIが機能するかどうかをどうやって知るかの最上位概念です。有効性研究、[[benchmark|ベンチマーク]]、[[rct|ランダム化比較試験]]、[[meta-analysis-systematic-review|メタ分析]]、そして中核となる成果指標としての[[learning-gains|学習効果]]を扱います。読者は、[[limitations-in-aied-research|この根拠基盤に共通する限界]]もあわせて考慮すべきです。
@@ -80,7 +84,7 @@ AIが指導と学習をどのように支えるかは、この分野の中心で
 
 - **中核となる教授法:** [[pedagogy|教授法と教育戦略]](ナレッジベースの教育方法の網羅の最上位概念)と、[[active-learning|アクティブラーニング]]、[[collaborative-learning|協調学習]]、[[group-work|グループワーク]]、[[project-based-learning|プロジェクトベース学習]]、[[problem-based-learning|問題基盤型学習]]、[[productive-failure|生産的失敗]]、[[inquiry-based-learning|探究型学習]]、[[experiential-learning|経験学習]]、[[game-based-learning|ゲームベース学習]]、[[learning-by-teaching|教えることによる学習]]、[[scaffolding|足場かけ]]、[[socratic-method|ソクラテス式問答法]]、[[critical-pedagogy|批判的教育学]]、[[pedagogical-partnerships|教育パートナーシップ]]、[[storytelling-in-education|ストーリーテリング]]、[[learning-design|学習設計]]、[[online-teaching-and-learning|オンライン教育と学習]]、[[video-education|教育における動画]]です。
 - **学習理論と学習プロセス:** [[learning-theories|学習理論]]の最上位概念([[behaviorism|行動主義]]、[[cognitive-psychology|認知主義]]、[[constructivist|構成主義]]、[[sociocultural-learning|社会文化的学習]]、[[distributed-cognition|分散認知]]、[[situated-learning|状況的学習]]、[[embodied-learning|身体化された学習]]、[[community-of-inquiry|探究共同体]])は、学習者に向き合うプロセス、すなわち[[self-regulated-learning|自己調整学習]]、[[self-determination-theory|自己決定理論]]、[[motivation|動機づけ]]、[[self-efficacy|自己効力感]]、[[self-directed-learning|自己主導学習]]、[[metacognition|メタ認知]]、[[desirable-difficulties|望ましい困難]]、[[transfer-of-learning|学習の転移]]、[[prior-knowledge|事前知識]]、[[icap-framework|ICAP認知エンゲージメント]]、[[refutation-text|反駁テキスト]]、[[retrieval-spacing-interleaving|検索練習・分散・インターリービング]]、[[activity-theory-aied|活動理論]]と並びます。
-- **学習者のエンゲージメントと経験:** [[student-engagement|学生エンゲージメント]]、[[help-seeking|援助要請]]、[[social-emotional-learning|社会情動的学習]]、[[well-being|ウェルビーイング]]、[[creativity|創造性]]、[[problem-solving|問題解決]]、[[mastery-learning|完全習得学習]]、[[student-ai-interaction|学生とAIの相互作用]]が、学習者が実際にAIとどう出会い、どう影響を受けるかを形づくります。
+- **学習者のエンゲージメントと経験:** [[student-engagement|学生エンゲージメント]]、[[help-seeking|援助要請]]、[[social-emotional-learning|社会情動的学習]]、[[well-being|ウェルビーイング]]、[[creativity|創造性]]、[[problem-solving|問題解決]]、[[mastery-learning|完全習得学習]]、[[student-ai-interaction|学生とAIの相互作用]]が、学習者が実際にAIとどう出会い、どう影響を受けるかを形づくります。そして[[social-norms-ai-use|AI利用をめぐって定着する社会的規範]]が、それをどれだけ率直に議論できるかを決めます。
 
 ## 技術と手法
 
@@ -102,7 +106,7 @@ AIは専門分野と教育段階をまたいで応用されます。ナレッジ
 
 AIは、学習者をどう評価するかと、AIシステムそのものをどう検証するかの両方を変えます。
 
-- **評価とフィードバック:** [[assessment|評価]]、[[formative-assessment|形成的評価]]、[[summative-assessment|総括的評価]]、[[authentic-assessment|真正の評価]]、[[eportfolio|eポートフォリオ]]、[[feedback|フィードバック]]と[[feedback-literacy|フィードバックリテラシー]]、[[ai-feedback-quality|AIフィードバックの品質]]、[[peer-assessment|相互評価]]、[[automated-assessment|自動評価]]、[[automated-essay-scoring|自動作文評価]]、[[automated-question-generation|自動問題生成]]です。モデルがもっともらしい完成品を求めに応じて作り出せるようになったため、ナレッジベースは学習者自身に残る能力に焦点を当てます。すなわち[[evaluative-judgment|評価的判断]]で、自分の作品、仲間の作品、AIの出力の質を、根拠ある基準に照らして見極める力です。これはいくつものフィードバック研究と真正の評価研究が収束する構成概念です。多施設実験でハイブリッドなフィードバック条件が直接的なAIフィードバックを上回ったこと、AIによる形成的フィードバックに持続性のギャップがあること、出来上がった作品だけでなく学生が下す判断を評価するという実践的な方向転換が、その表れです。またこれは、AI時代の再設計が[[ai-detection|検出]]から、検査に耐える課題へと移る中核的な理由でもあります。[[group-work|グループワーク]]も同様に、過程と成果の両面から評価され、そこではチームがどのようなAI関与を、誰のAI関与を許容とするかを交渉しなければなりません。
+- **評価とフィードバック:** [[assessment|評価]]、[[formative-assessment|形成的評価]]、[[summative-assessment|総括的評価]]、[[authentic-assessment|真正の評価]]、[[eportfolio|eポートフォリオ]]、[[feedback|フィードバック]]と[[feedback-literacy|フィードバックリテラシー]]、[[ai-feedback-quality|AIフィードバックの品質]]、[[peer-assessment|相互評価]]、[[oral-assessment|口頭評価]]、[[automated-assessment|自動評価]]、[[automated-essay-scoring|自動作文評価]]、[[automated-question-generation|自動問題生成]]です。モデルがもっともらしい完成品を求めに応じて作り出せるようになったため、ナレッジベースは学習者自身に残る能力に焦点を当てます。すなわち[[evaluative-judgment|評価的判断]]で、自分の作品、仲間の作品、AIの出力の質を、根拠ある基準に照らして見極める力です。これはいくつものフィードバック研究と真正の評価研究が収束する構成概念です。多施設実験でハイブリッドなフィードバック条件が直接的なAIフィードバックを上回ったこと、AIによる形成的フィードバックに持続性のギャップがあること、出来上がった作品だけでなく学生が下す判断を評価するという実践的な方向転換が、その表れです。またこれは、AI時代の再設計が[[ai-detection|検出]]から、検査に耐える課題へと移る中核的な理由でもあります。[[group-work|グループワーク]]も同様に、過程と成果の両面から評価され、そこではチームがどのようなAI関与を、誰のAI関与を許容とするかを交渉しなければなりません。
 - **測定と妥当性:** [[assessment-validity|評価の妥当性]]、[[psychometrically-aware-ai|心理測定を意識したAI]]、[[educational-measurement|教育測定]]、[[item-response-theory|項目反応理論]]、[[self-report-measures|自己報告指標]](この根拠の大きな割合を支える手段であり、繰り返し指摘される限界でもあります)、[[ai-detection|AI検出]]、[[remote-proctoring|遠隔監視]]、[[academic-integrity|学問的誠実性]]です。
 
 ## 研究方法と検証

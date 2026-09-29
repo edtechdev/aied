@@ -1,7 +1,7 @@
 ---
 title: בינה מלאכותית בחינוך
 created: "2026-09-22T14:34:58-04:00"
-updated: "2026-09-22T14:34:58-04:00"
+updated: "2026-09-28T22:08:27-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,10 +13,14 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-09-22T03:10:00-04:00"
+source_updated: "2026-09-23T09:53:41-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
@@ -54,7 +58,7 @@ ai_assist:
 - **[[learning-theories|תיאוריות למידה]]**: המטרייה לאופן שבו מתרחשת הלמידה, כלומר המסגרות התיאורטיות ([[behaviorism|ביהביוריזם]], [[cognitive-psychology|קוגניטיביזם]], [[constructivist|קונסטרוקטיביזם]], [[sociocultural-learning|סוציו-תרבותיות]], קוגניטיביות, [[motivation|מוטיבציוניות]]) שמעצבות את העיצוב ואת ההערכה של בינה מלאכותית.
 - **[[ai-technologies|טכנולוגיות]]**: המטרייה לשכבה הטכנית, כלומר מערכות הבינה המלאכותית ([[llm|מודלים לשוניים גדולים]], [[generative-ai|בינה מלאכותית יוצרת]], [[multimodal|רב-מודאליות]], [[educational-robotics|רובוטיקה]]) והטכניקות ([[rag|הפקה מוגברת באחזור]], [[prompt-engineering|הנדסת הנחיות]], [[reinforcement-learning|למידת חיזוק]], [[pedagogical-llm-training|אימון מודלים]], [[agentic-ai|תזמור סוכני]]) שמפעילות את התחום. משפחת מידול הלומד ([[knowledge-tracing|מעקב אחר ידע]], [[cognitive-diagnosis|אבחון קוגניטיבי]], [[simulating-students|סימולציית סטודנטים]], והמערכות שנעזרות בהן: [[intelligent-tutoring|הוראה חכמה]], [[adaptive-learning|למידה אדפטיבית]], [[personalized-learning|למידה מותאמת אישית]]) מקובצת תחת מטריית [[student-modeling|מידול הלומד והוראה אדפטיבית]] בתוך האשכול הטכני הזה.
 - **[[discipline-specific-aied|בינה מלאכותית בתחומי הדעת]]**: המטרייה לאופן שבו בינה מלאכותית מיושמת על פני תחומי דעת ([[math-education|מתמטיקה]], [[physics-education|פיזיקה]], [[language-learning|לימוד שפות]], [[cs-education|מדעי המחשב]], [[writing-education|כתיבה]], [[stem-education|STEM]], [[engineering-education|הנדסה]], [[business-education|עסקים]], [[teacher-education|הכשרת מורים]], [[medical-education|מקצועות הבריאות]] ועוד), ומעבר לתחומי הדעת האקדמיים גם האשכול המקצועי והיישומי שמעריך פרקטיקה מודגמת ולא נכונות ([[nursing-education|סיעוד]], [[information-technology|טכנולוגיות מידע]], [[vocational-education|חינוך והכשרה מקצועיים]], [[design-education|חינוך לעיצוב]]), וכן רמות חינוכיות ([[k-12|גן עד תיכון]], [[higher-ed|השכלה גבוהה]], [[adult-learning|למידת מבוגרים]]).
-- **[[assessment|הערכה]]** (עם אשכולות [[formative-assessment|מעצבת]], [[summative-assessment|מסכמת]], [[authentic-assessment|אותנטית]] ו[[automated-assessment|אוטומטית]]): המטרייה לאופן שבו בינה מלאכותית גם מעריכה לומדים וגם מעצבת מחדש את תוקף ההערכה ואת יושרה.
+- **[[assessment|הערכה]]** (עם אשכולות [[formative-assessment|מעצבת]], [[summative-assessment|מסכמת]], [[authentic-assessment|אותנטית]], [[oral-assessment|בעל-פה]] ו[[automated-assessment|אוטומטית]]): המטרייה לאופן שבו בינה מלאכותית גם מעריכה לומדים וגם מעצבת מחדש את תוקף ההערכה ואת יושרה.
 - **[[feedback|משוב]]**: המטרייה לאופן שבו משוב נוצר, נמסר ומשמש: לולאת המשוב, [[ai-feedback-quality|איכות המשוב]], [[feedback-literacy|אוריינות משוב]], והקשרי ההערכה שלו ([[formative-assessment|מעצבת]], [[peer-assessment|עמיתים]], [[automated-assessment|אוטומטית]]).
 - **[[stakeholders|בעלי עניין בחינוך עם בינה מלאכותית]]**: המטרייה לשאלה מי הם השחקנים: לומדים, [[teacher-role|מורים]], [[learning-design|מעצבי למידה]], [[administrator|מנהלים]] ו[[educational-policy-ai|קובעי מדיניות]].
 - **[[ai-ed-evaluation|הערכת התערבויות של בינה מלאכותית בחינוך]]** ו**[[research-methods-aied|שיטות מחקר]]**: המטריות לשאלה כיצד אנחנו יודעים אם בינה מלאכותית עובדת: מחקרי יעילות, [[benchmark|מדדי ביצוע]], [[rct|ניסויים מבוקרים אקראיים]], [[meta-analysis-systematic-review|מטא-אנליזה]], ו[[learning-gains|הישגי למידה]] כמדד התוצאה המרכזי. על הקוראים לשקול גם את [[limitations-in-aied-research|המגבלות הרוחביות של בסיס הראיות הזה]].
@@ -81,7 +85,7 @@ ai_assist:
 
 - **פדגוגיות ליבה:** [[pedagogy|פדגוגיות ואסטרטגיות הוראה]], המטרייה לכיסוי שיטות ההוראה במאגר הידע, לצד [[active-learning|למידה פעילה]], [[collaborative-learning|למידה שיתופית]], [[group-work|עבודה בקבוצות]], [[project-based-learning|למידה מבוססת פרויקטים]], [[problem-based-learning|למידה מבוססת בעיות]], [[productive-failure|כישלון פרודוקטיבי]], [[inquiry-based-learning|למידה מבוססת חקר]], [[experiential-learning|למידה חווייתית]], [[game-based-learning|למידה מבוססת משחק]], [[learning-by-teaching|לימוד דרך הוראה]], [[scaffolding|פיגום]], [[socratic-method|השיטה הסוקרטית]], [[critical-pedagogy|פדגוגיה ביקורתית]], [[pedagogical-partnerships|שותפויות פדגוגיות]], [[storytelling-in-education|סיפור סיפורים]], [[learning-design|עיצוב למידה]], [[online-teaching-and-learning|הוראה ולמידה מקוונות]] ו[[video-education|וידאו בחינוך]].
 - **תיאוריות ותהליכי למידה:** מטריית [[learning-theories|תיאוריות הלמידה]] ([[behaviorism|ביהביוריזם]], [[cognitive-psychology|קוגניטיביזם]], [[constructivist|קונסטרוקטיביזם]], [[sociocultural-learning|סוציו-תרבותיות]], [[distributed-cognition|קוגניציה מבוזרת]], [[situated-learning|למידה ממוקמת]], [[embodied-learning|למידה מגולמת]], [[community-of-inquiry|קהילת חקר]]) יושבת לצד תהליכים הפונים ללומד כמו [[self-regulated-learning|למידה עצמית מוסדרת]], [[self-determination-theory|תיאוריית ההגדרה העצמית]], [[motivation|מוטיבציה]], [[self-efficacy|מסוגלות עצמית]], [[self-directed-learning|למידה מוכוונת עצמית]], [[metacognition|מטא-קוגניציה]], [[desirable-difficulties|קשיים רצויים]], [[transfer-of-learning|העברה של למידה]], [[prior-knowledge|ידע קודם]], [[icap-framework|מעורבות קוגניטיבית לפי ICAP]], [[refutation-text|טקסט הפרכה]], [[retrieval-spacing-interleaving|שליפה, פיזור ומיזוג]] ו[[activity-theory-aied|תיאוריית הפעילות]].
-- **מעורבות וחוויה של הלומד:** [[student-engagement|מעורבות סטודנטים]], [[help-seeking|חיפוש עזרה]], [[social-emotional-learning|למידה חברתית-רגשית]], [[well-being|רווחה]], [[creativity|יצירתיות]], [[problem-solving|פתרון בעיות]], [[mastery-learning|למידת שליטה]] ו[[student-ai-interaction|אינטראקציה בין סטודנט לבינה מלאכותית]] מעצבים כיצד לומדים פוגשים את הבינה המלאכותית ומושפעים ממנה בפועל.
+- **מעורבות וחוויה של הלומד:** [[student-engagement|מעורבות סטודנטים]], [[help-seeking|חיפוש עזרה]], [[social-emotional-learning|למידה חברתית-רגשית]], [[well-being|רווחה]], [[creativity|יצירתיות]], [[problem-solving|פתרון בעיות]], [[mastery-learning|למידת שליטה]] ו[[student-ai-interaction|אינטראקציה בין סטודנט לבינה מלאכותית]] מעצבים כיצד לומדים פוגשים את הבינה המלאכותית ומושפעים ממנה בפועל, ואילו [[social-norms-ai-use|הנורמות החברתיות שמתגבשות סביב השימוש בבינה מלאכותית]] קובעות באיזו פתיחות ניתן לדון בכך.
 
 ## טכנולוגיות וטכניקות
 
@@ -104,7 +108,7 @@ ai_assist:
 
 בינה מלאכותית משנה גם את האופן שבו אנחנו מעריכים לומדים וגם את האופן שבו אנחנו מעריכים מערכות בינה מלאכותית עצמן:
 
-- **הערכה ומשוב:** [[assessment|הערכה]], [[formative-assessment|הערכה מעצבת]], [[summative-assessment|הערכה מסכמת]], [[authentic-assessment|הערכה אותנטית]], [[eportfolio|תיק עבודות אלקטרוני]], [[feedback|משוב]] ו[[feedback-literacy|אוריינות משוב]], [[ai-feedback-quality|איכות משוב מבוסס בינה מלאכותית]], [[peer-assessment|הערכת עמיתים]], [[automated-assessment|הערכה אוטומטית]], [[automated-essay-scoring|ניקוד חיבורים אוטומטי]] ו[[automated-question-generation|יצירת שאלות אוטומטית]]. מפני שמודל יכול כעת להפיק לפי דרישה עבודה מוגמרת ומשכנעת, מאגר הידע מציב בחזית את היכולת שנשארת של הלומד עצמו: [[evaluative-judgment|שיפוט הערכתי]], היכולת להעריך את איכות עבודתו שלו, עבודת עמיתיו ופלט הבינה המלאכותית למול קריטריונים מנומקים. זהו המבנה שמספר מחקרי משוב והערכה אותנטית מתכנסים אליו, ובהם מצב המשוב ההיברידי שהשיג תוצאות טובות ממשוב בינה מלאכותית ישיר בניסוי רב-אתרי, פער הקיימות במשוב מעצב מבוסס בינה מלאכותית, והמהלך המעשי של הערכת ההחלטות שהסטודנטים מקבלים ולא רק של התוצר. זו גם סיבה מרכזית לכך שעיצוב מחדש בעידן הבינה המלאכותית עובר מ[[ai-detection|גילוי]] למשימות שיושרן שורד בדיקה. גם [[group-work|עבודה בקבוצות]] מוערכת הן לפי התהליך והן לפי התוצר, ושם על הצוותים לנהל משא ומתן על מה נחשב למעורבות קבילה בבינה מלאכותית.
+- **הערכה ומשוב:** [[assessment|הערכה]], [[formative-assessment|הערכה מעצבת]], [[summative-assessment|הערכה מסכמת]], [[authentic-assessment|הערכה אותנטית]], [[eportfolio|תיק עבודות אלקטרוני]], [[feedback|משוב]] ו[[feedback-literacy|אוריינות משוב]], [[ai-feedback-quality|איכות משוב מבוסס בינה מלאכותית]], [[peer-assessment|הערכת עמיתים]], [[oral-assessment|הערכה בעל פה]], [[automated-assessment|הערכה אוטומטית]], [[automated-essay-scoring|ניקוד חיבורים אוטומטי]] ו[[automated-question-generation|יצירת שאלות אוטומטית]]. מפני שמודל יכול כעת להפיק לפי דרישה עבודה מוגמרת ומשכנעת, מאגר הידע מציב בחזית את היכולת שנשארת של הלומד עצמו: [[evaluative-judgment|שיפוט הערכתי]], היכולת להעריך את איכות עבודתו שלו, עבודת עמיתיו ופלט הבינה המלאכותית למול קריטריונים מנומקים. זהו המבנה שמספר מחקרי משוב והערכה אותנטית מתכנסים אליו, ובהם מצב המשוב ההיברידי שהשיג תוצאות טובות ממשוב בינה מלאכותית ישיר בניסוי רב-אתרי, פער הקיימות במשוב מעצב מבוסס בינה מלאכותית, והמהלך המעשי של הערכת ההחלטות שהסטודנטים מקבלים ולא רק של התוצר. זו גם סיבה מרכזית לכך שעיצוב מחדש בעידן הבינה המלאכותית עובר מ[[ai-detection|גילוי]] למשימות שיושרן שורד בדיקה. גם [[group-work|עבודה בקבוצות]] מוערכת הן לפי התהליך והן לפי התוצר, ושם על הצוותים לנהל משא ומתן על מה נחשב למעורבות קבילה בבינה מלאכותית.
 - **מדידה ותוקף:** [[assessment-validity|תוקף ההערכה]], [[psychometrically-aware-ai|בינה מלאכותית מודעת לפסיכומטריה]], [[educational-measurement|מדידה חינוכית]], [[item-response-theory|תיאוריית תגובת הפריט]], [[self-report-measures|מדדי דיווח עצמי]] (הכלי שעומד מאחורי חלק גדול מהראיות האלה, ומגבלה חוזרת ונשנית), [[ai-detection|גילוי בינה מלאכותית]], [[remote-proctoring|פיקוח מרחוק]] ו[[academic-integrity|יושר אקדמי]].
 
 ## שיטות מחקר והערכה

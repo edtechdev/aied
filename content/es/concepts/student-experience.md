@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-09-26T07:13:32-04:00"
+source_updated: "2026-09-28T21:21:51-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

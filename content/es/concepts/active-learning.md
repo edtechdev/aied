@@ -32,7 +32,7 @@ ai_assist:
 - La IA puede hacer posible el aprendizaje activo a escala, pero una IA mal diseñada también puede hacer el trabajo cognitivo por el estudiantado. ¿Dónde ha visto que la IA vuelva a quien aprende más pasivo en lugar de más implicado?
 - Un estudio de EEG encontró que la colaboración interactiva entre el estudiantado y la IA produjo la mayor implicación cognitiva, mientras que la automatización total la redujo. ¿Por qué «hacer» con la IA podría superar a «ver» cómo la IA hace el trabajo?
 - El teach-back —pedir a quien aprende que explique lo que entiende— saca a la luz las lagunas con más eficacia que una relectura pasiva. ¿Cuándo podría ser un movimiento de aprendizaje mejor pedir a quien aprende que le explique algo a una IA en lugar de dejar que la IA responda por él?
-- El aprendizaje activo depende de un [[scaffolding|andamiaje]] calibrado que se desvanece a medida que crece la competencia. ¿Qué dificultad tiene un tutor de IA para saber cuándo dar un paso atrás, y cuál es el riesgo si nunca lo hace?
+- El aprendizaje activo depende de un andamiaje calibrado que se desvanece a medida que crece la competencia. ¿Qué dificultad tiene un tutor de IA para saber cuándo dar un paso atrás, y cuál es el riesgo si nunca lo hace?
 
 ## Introducción
 

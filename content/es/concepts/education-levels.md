@@ -14,7 +14,7 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-09-20T13:08:39-04:00"
+source_updated: "2026-09-28T21:44:10-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

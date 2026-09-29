@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
 translation_of: concepts/arts-design-and-media-education
-source_updated: "2026-09-17T14:13:57-04:00"
+source_updated: "2026-09-28T21:41:14-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

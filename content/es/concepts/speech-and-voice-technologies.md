@@ -11,7 +11,7 @@ audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
 translation_of: concepts/speech-and-voice-technologies
-source_updated: "2026-09-23T09:34:44-04:00"
+source_updated: "2026-09-28T21:37:06-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

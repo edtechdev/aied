@@ -1,7 +1,7 @@
 ---
 title: Agencia de quien aprende
 created: "2026-09-25T03:54:08-04:00"
-updated: "2026-09-25T03:54:08-04:00"
+updated: "2026-09-28T22:08:10-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,10 +10,14 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-28T04:14:44-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -40,6 +44,8 @@ La agencia importa porque el aprendizaje es más eficaz cuando quien aprende par
 **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** enmarcan el control frente a la agencia como la tensión esencial y recurrente de la IA en la educación, desde los primeros sistemas de tutoría inteligente hasta la [[generative-ai|IA generativa]] actual, lo que convierte la agencia de quien aprende en el eje persistente de los debates del campo.
 
 **Una visión de suma cero de la agencia con herramientas agénticas:** [[emancipatory-ai-learner-flourishing-2026|Prieto y Dimitriadis (2026)]] sostienen que cuanto más agencia se concede a las herramientas educativas de IA, menos conserva quien aprende, es decir, que la agencia es en la práctica un juego de suma cero, y que los enfoques actuales de diseño centrado en las personas (por ejemplo, el diseño sensible a los valores) son insuficientes porque la dependencia excesiva y el aislamiento responden a factores sistémicos más amplios y a la tendencia humana a tomar el camino más fácil. Su visión de diseño emancipador, orientada al florecimiento de quien aprende dentro de sistemas complejos, trata la preservación y el cultivo de la agencia de quien aprende como el objetivo central del diseño de IA generativa y no como algo secundario.
+
+**La agencia como propósito, y no solo como capacidad:** mientras los planteamientos anteriores preguntan cuánta agencia conserva quien aprende, [[fagerlund-competency-agency-purposes-ai-education-2026|Fagerlund et al. (2026)]] preguntan para qué sirve la [[ai-education|IA en la educación]]. Entrevistaron a trece docentes finlandeses, desde preescolar hasta noveno grado, sobre los propósitos de enseñar con IA y sobre IA, y leyeron sus relatos a través de los tres dominios del propósito educativo de Biesta (cualificación, socialización y subjetivación), y encontraron en la competencia el fin más claro y concreto: el profesorado quería que el estudiantado entendiera la IA como un fenómeno sociotécnico y que usara sus herramientas. La subjetivación, es decir, una implicación autodeterminada y personalmente significativa con la IA, se afirmaba como importante pero quedaba sin estrategias didácticas concretas, con el profesorado recurriendo a la discusión genérica y a la contemplación en lugar de a actividades diseñadas. Los autores proponen la **agencia informada en IA** como un heurístico que sitúa la subjetivación en el centro y trata las [[ai-literacy|competencias]] como su base explicativa, y que ayuda al estudiantado a ver qué opciones existen y a elegir cuáles seguir. La consecuencia práctica es directa: un currículo centrado primero en habilidades puede desplazar el propósito agentivo al que debería servir, y el remedio es hacer explícito el «porqué» de la educación en IA en lugar de añadir otra competencia a la lista.
 
 ## Cómo aparece la agencia en la investigación de la base de conocimiento
 
