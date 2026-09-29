@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: IA multimodal
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-09-28T21:03:34-04:00"
+updated: "2026-09-28T22:21:27-04:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -11,7 +11,7 @@ discipline: [stem education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/multimodal
-source_updated: "2026-09-22T09:52:55-04:00"
+source_updated: "2026-09-28T22:17:25-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ La IA multimodal permite a quienes aprenden producir contenido en texto, imagen,
 
 ### 2. Tutoría multimodal y la frontera de capacidad
 
-Cuando los tutores basados en LLM deben resolver problemas que incrustan significado en gráficos, diagramas de fuerzas, esquemas o tablas, su precisión se degrada bruscamente: el **efecto de interferencia multimodal**.([[syal-multimodal-dialogue-stem-2026]])([[syal-multimodal-dialogue-stem-2026]])
+Cuando los tutores basados en LLM deben resolver problemas que incrustan significado en gráficos, diagramas de fuerzas, esquemas o tablas, su precisión se degrada bruscamente: el **efecto de interferencia multimodal**.([[syal-multimodal-dialogue-stem-2026]])
 
 - En problemas de física de OpenStax, la precisión solo de texto de en torno al 96% baja a **cerca del 74%** en problemas ricos en imágenes, de forma consistente entre familias de modelos.([[syal-multimodal-dialogue-stem-2026]])
 - Los **errores de procesamiento visual** —fallos al extraer información de gráficos o diagramas— dominan la taxonomía de errores y son el modo de fallo más corregible.

@@ -1,7 +1,7 @@
 ---
 title: Educación médica y en profesiones de la salud
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-09-28T19:11:07-04:00"
+updated: "2026-09-28T22:21:27-04:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/medical-education
-source_updated: "2026-09-22T09:52:55-04:00"
+source_updated: "2026-09-28T22:17:25-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,7 @@ La HPE es un ámbito de alto riesgo y basado en competencias donde los beneficio
 - **Adapte con criterio la IA gamificada e interdisciplinar.** El [[medgame-llm-medical-education-gamification|aprendizaje gamificado con LLM]] y la [[alrazeeni-transforming-nursing-education-ai-2026|transformación de la educación en enfermería]] son prometedores, pero necesitan evaluación de seguridad y de resultados de habilidades; en el caso concreto de la enfermería, esa evidencia de seguridad y habilidades —incluido el ensayo controlado aleatorizado en el que la simulación asistida por IA rindió peor que los pacientes estandarizados— se recoge en [[nursing-education|educación en enfermería]].
 
 ## Conceptos conectados
+
 - [[problem-based-learning]]
 - [[higher-ed]]
 - [[simulation]]
@@ -86,6 +87,7 @@ La HPE es un ámbito de alto riesgo y basado en competencias donde los beneficio
 - [[virtual-and-augmented-reality]] — formación clínica inmersiva y con RA
 
 ## Artículos conectados
+
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluación de un sistema multiagente de modelos de lenguaje orientado al andamiaje para el entrenamiento en entrevista clínica
 - [[akbaba-nursing-ai-experiences-tam-2026]] — Experiencias con IA del estudiantado y el profesorado de enfermería (TAM; apoyo psicosocial)
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Evaluación con rúbrica de 8 dimensiones de agentes docentes de IA en educación médica

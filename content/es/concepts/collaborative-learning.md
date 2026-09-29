@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje colaborativo
 created: "2026-09-28T21:06:00-04:00"
-updated: "2026-09-28T21:06:00-04:00"
+updated: "2026-09-28T22:21:27-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-09-28T04:14:44-04:00"
+source_updated: "2026-09-28T22:17:25-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - Piense en una ocasión en la que aprendió algo en profundidad en grupo. ¿Qué hizo que funcionara? Ahora imagine que un [[conversational-ai|chatbot]] de IA se suma a ese grupo: ¿cómo podría reforzar o socavar en silencio lo que usted vivió?
-- La investigación encuentra una disyuntiva: delegar el razonamiento en la IA produce el mejor rendimiento en la tarea pero el menor compromiso autorregulador, mientras que el modo que construye la [[regulation|autorregulación]] rinde peor en la tarea. Si tuviera que elegir, ¿qué protegería: el resultado o el esfuerzo?
+- La investigación encuentra una disyuntiva: delegar el razonamiento en la IA produce el mejor rendimiento en la tarea pero el menor compromiso autorregulador, mientras que el modo que construye la [[self-regulated-learning|autorregulación]] rinde peor en la tarea. Si tuviera que elegir, ¿qué protegería: el resultado o el esfuerzo?
 - El marco ICAP sitúa la colaboración «interactiva» como la forma más profunda de implicación. ¿Podría una IA que responde por el grupo degradar en realidad la colaboración de interactiva a meramente pasiva, incluso si el estudiantado se siente más satisfecho?
 - Un estudio encontró que se confía en los mediadores de IA solo mientras se mantienen neutrales; cuando la IA pasa a aconsejar o a cuestionar, esa confianza se erosiona. ¿Qué grado de neutralidad debería tener realmente el mediador de IA de un grupo?
 - Cuando quienes aprenden usan la IA para producir un artefacto pulido, pueden saltarse el esfuerzo epistémico que construye la comprensión. ¿Cómo diseñaría una compañera de IA que saque a la luz el desacuerdo y el conflicto en lugar de suavizarlos?

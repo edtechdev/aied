@@ -1,14 +1,14 @@
 ---
 title: Desarrollo y preparación profesional
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-09-28T21:03:34-04:00"
+updated: "2026-09-28T22:21:27-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-09-10T15:28:00-04:00"
+source_updated: "2026-09-28T22:17:25-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ A medida que la IA transforma las ocupaciones, el papel de la educación en el d
 - **Perspectivas de quienes emplean y de quienes se gradúan.** [[ithaka-sr-ai-skills-college-graduates-2026|El informe de ITHAKA S+R]] (500 docentes de universidades estadounidenses de cuatro años, comparados con 200 empleadores estadounidenses) documenta una **brecha sistemática de priorización de habilidades** entre el profesorado y quienes emplean, lo que señala las demandas del mundo laboral que moldean los currículos de [[higher-ed|educación superior]]. El profesorado y quienes emplean coinciden en la importancia de solo una de 26 habilidades de IA (establecer expectativas realistas para el trabajo aumentado con IA): el profesorado prioriza una orientación hacia el *uso crítico y responsable* (atribución, responsabilidad humana, límites de la IA), mientras que quienes emplean prefieren habilidades de *flujos de trabajo, automatización y trabajo conjunto entre personas y IA*. El informe encuentra que solo tres de las 26 habilidades las enseña la mitad o más del profesorado —las categorías menos enseñadas (rediseño de flujos de trabajo, automatización, integración técnica) son precisamente donde más divergen las demandas de quienes emplean— y que la mayoría de las instituciones carece tanto de un consenso sobre cómo son las habilidades de IA como de un marco para evaluarlas. Para el desarrollo profesional, esto significa que la preparación de quienes se gradúan depende de cerrar una brecha real y medible entre lo que valoran quienes emplean y lo que enseñan los currículos, y no solo de añadir alfabetización en IA.
 - **La política de curso como decisión sobre competencias laborales.** El caso de diseño de [[mccorkle-aligned-genai-course-policy-2025|McCorkle (2025)]] hace explícito el compromiso a nivel de tarea: para cada paso de un proyecto de semestre, el profesorado empareja una competencia laboral emergente en [[generative-ai|IA generativa]] (prompting para objetivos, generación de imágenes, escritura de guiones, narración con texto a voz) con la necesidad de evaluar una habilidad fundacional, y permite la IA solo cuando gana la competencia, una forma concreta de incorporar a las tareas existentes las habilidades de flujo de trabajo que valoran quienes emplean ([[prompt-engineering|ingeniería de prompts]], evaluación de la salida de un [[llm|LLM]]) en lugar de añadir un curso aparte sobre IA.
 - **Marcos de preparación específicos de cada sector.** [[workforce-readiness-smart-manufacturing-wrl-2026|La preparación laboral para la fabricación inteligente]] y [[ai-engineering-computing-workforce-grey-literature-2026|el futuro de la fuerza laboral de ingeniería e informática]] traducen la empleabilidad general en marcos de competencias [[discipline-specific-aied|específicos de cada disciplina]].
-- **Transiciones laborales.**  y [[post-covid-ict-career-aspirations|las aspiraciones profesionales en TIC]] examinan cómo cambian las intenciones profesionales del estudiantado en respuesta al cambio tecnológico.
+- **Transiciones laborales.** El estudio sobre las [[post-covid-ict-career-aspirations|aspiraciones profesionales en TIC]] examina cómo cambian las intenciones profesionales del estudiantado en respuesta al cambio tecnológico.
 - **Fundamentación teórica.** El [[kim-ai-anxiety-comprehensive-analysis|análisis integral de la ansiedad ante la IA]] identifica el **miedo a ser reemplazado por la IA** como un factor principal de la ansiedad ante la IA: la dimensión profesional que este concepto aborda de lleno.
 
 ## La preparación profesional como objetivo protector y de desarrollo

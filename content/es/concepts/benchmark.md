@@ -1,7 +1,7 @@
 ---
 title: Punto de referencia
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-09-28T21:03:34-04:00"
+updated: "2026-09-28T22:21:27-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-28T22:17:25-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -45,8 +45,8 @@ Los puntos de referencia constituyen la base probatoria de la [[ai-education|inv
 ### Por qué los puntos de referencia importan en la IAED
 
 Los puntos de referencia se conectan con la [[ai-ed-evaluation|evaluación de la IA educativa]] y la [[assessment-validity|validez de la evaluación]]: sin puntos de referencia rigurosos, las afirmaciones sobre la eficacia de la [[intelligent-tutoring|tutoría con IA]] no son verificables. También se cruzan con la [[bias-mitigation|mitigación de sesgos]], ya que el diseño de un punto de referencia puede codificar o amplificar sesgos. La tensión entre el rendimiento en puntos de referencia y la utilidad en el mundo real se explora en varios artículos, y conecta con las preocupaciones sobre la [[transfer-of-learning|transferencia del aprendizaje]] en aplicaciones de [[generative-ai|IA generativa]].
-- **Cuando el fallo está en la métrica y no en el sistema:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] obtuvo BLEU-4 = 0,0000 en las 179 preguntas teóricas de examen de [[cs-education|informática]], mientras que una rúbrica pedagógica de seis criterios dio 0,7620, porque demostraciones lógicamente equivalentes difieren habitualmente en notación, nombres de variables y estrategia de demostración. Una puntuación de cero dice más sobre el solapamiento de n-gramas que sobre la calidad de la respuesta, que es el argumento general contra tratar las métricas superficiales como la cifra principal para los sistemas de IAED en dominios formales.
 
+- **Cuando el fallo está en la métrica y no en el sistema:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] obtuvo BLEU-4 = 0,0000 en las 179 preguntas teóricas de examen de [[cs-education|informática]], mientras que una rúbrica pedagógica de seis criterios dio 0,7620, porque demostraciones lógicamente equivalentes difieren habitualmente en notación, nombres de variables y estrategia de demostración. Una puntuación de cero dice más sobre el solapamiento de n-gramas que sobre la calidad de la respuesta, que es el argumento general contra tratar las métricas superficiales como la cifra principal para los sistemas de IAED en dominios formales.
 - **Puntos de referencia contrafactuales a nivel de constructo.** CFES-P24 expresa principios del aprendizaje multimedia como transformaciones deterministas y reversibles de diapositivas, para auditar si los MLLM responden a constructos específicos de diseño instruccional en lugar de producir valoraciones holísticas plausibles. Un piloto congelado mostró reconocimiento de constructos (operación, principio, reparación, localización de evidencia) de 8/8, mientras que el juicio comparativo (dirección 6/8) y la calibración de la severidad (0/8) fallaron, lo que aboga por tarjetas de puntuación por capas en lugar de puntuaciones compuestas.([[cfes-p24-multimodal-slide-auditing-2026]])
 - **Evaluación independiente del ensayo en puntos de referencia fisiológicos.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara y Halloluwa (2026)]] comparan 15 modelos de ML/DL para la predicción de familiaridad basada en EEG y muestran que la elección del esquema de validación cambia drásticamente los resultados principales: la validación cruzada estratificada estándar permite fugas temporales e informa de hasta 0,9853 de F1, mientras que la validación Group K-Fold independiente del ensayo baja el máximo a 0,6038 de F1. La lección —la evaluación consciente de la temporalidad y de las fugas es esencial para que los puntos de referencia educativos sean creíbles— se extiende más allá del EEG a cualquier punto de referencia que use datos secuenciales o estructurados en el tiempo.
 - **Puntos de referencia sintéticos para la tutoría con IA.** Los conjuntos de datos abiertos y reproducibles para evaluar la tutoría con IA siguen siendo escasos. ASTRA (Adaptive Socially-intelligent Team Reasoning Agents) es un prototipo de tutoría multiagente y un marco de referencia para estudiar la programación colaborativa con agentes socialmente diferenciados, con configuraciones de tutor individual, tutor en pareja y pareja multiagente (N = 540; 360 sesiones; 1.440 episodios) y un esquema listo para trazas que permite un análisis reproducible de la interacción, el equilibrio de participación y la verificación.

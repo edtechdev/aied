@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai]
 title: Plataforma edtech
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-09-28T21:09:18-04:00"
+updated: "2026-09-28T22:21:27-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/edtech-platform
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-28T22:17:25-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Plataforma edtech** — los sistemas digitales, los sistemas de gestión del aprendizaje (LMS), los sistemas de tutoría y los entornos de aprendizaje en línea a través de los cuales la IA llega a quienes aprenden y a quienes enseñan. En la IA en la educación, la plataforma es la *capa de infraestructura* que determina si una capacidad de IA llega al estudiantado, cómo se despliega (abierta o propietaria, integrada o independiente) y quién puede acceder a ella, adaptarla y evaluarla. La investigación de esta base de conocimiento examina las plataformas desde varios ángulos: su diseño, sus restricciones de adopción y de implicación, su gobernanza institucional y sus implicaciones de equidad.([[access-not-enough-ai-tutoring-2026]])([[oatutor-open-source-adaptive-tutor-2023]])
+> **Plataforma edtech** — los sistemas digitales, los sistemas de gestión del aprendizaje (LMS), los sistemas de tutoría y los entornos de aprendizaje en línea a través de los cuales la IA llega a quienes aprenden y a quienes enseñan. En la IA en la educación, la plataforma es la *capa de infraestructura* que determina si una capacidad de IA llega al estudiantado, cómo se despliega (abierta o propietaria, integrada o independiente) y quién puede acceder a ella, adaptarla y evaluarla. La investigación de esta base de conocimiento examina las plataformas desde varios ángulos: su diseño, sus restricciones de adopción y de implicación, su gobernanza institucional y sus implicaciones de equidad.([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
 
 ## Preguntas para reflexionar
 

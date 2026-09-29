@@ -1,12 +1,12 @@
 ---
 title: Análisis de perfiles latentes
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-09-28T21:04:13-04:00"
+updated: "2026-09-28T22:26:08-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-09-20T12:39:59-04:00"
+source_updated: "2026-09-28T22:26:08-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,7 +18,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **El análisis de perfiles latentes (LPA)** — un método centrado en las personas que clasifica una muestra en subgrupos no observados (perfiles) cuando cada caso se describe mediante varias variables a la vez. Es el miembro de indicadores continuos de la familia del modelado de mezclas; su pariente, el **análisis de clases latentes (LCA)**, aplica la misma lógica a los indicadores categóricos. Ambos plantean una pregunta distinta de la de los modelos [[quantitative-research|centrados en las variables]] que dominan la investigación sobre IA en la educación: no «cuánto predice X a Y en promedio», sino «cuántos tipos distintos de persona que aprende, de [[teacher-role|docente]] o de directivo se esconden dentro de ese promedio». En esta base de conocimiento, el método muestra que una misma herramienta de IA aterriza de forma muy distinta según los subgrupos: cinco perfiles de conciencia ética entre estudiantes de grado ghaneses, seis tipologías de preparación entre directivos ucranianos de la educación y cuatro perfiles de aceptación de [[generative-ai|ChatGPT]] entre futuros docentes taiwaneses.
+> **El análisis de perfiles latentes (LPA)** — un método centrado en las personas que clasifica una muestra en subgrupos no observados (perfiles) cuando cada caso se describe mediante varias variables a la vez. Es el miembro de indicadores continuos de la familia del modelado de mezclas; su pariente, el **análisis de clases latentes (LCA)**, aplica la misma lógica a los indicadores categóricos. Ambos plantean una pregunta distinta de la de los modelos [[quantitative-research|centrados en las variables]] que dominan la investigación sobre IA en la educación: no «cuánto predice X a Y en promedio», sino «cuántos tipos distintos de persona que aprende, de [[teacher-role|docente]] o de directivo se esconden dentro de ese promedio». En esta base de conocimiento, el método muestra que una misma herramienta de IA aterriza de forma muy distinta según los subgrupos: cinco perfiles de conciencia ética entre estudiantes de grado ghaneses, seis tipologías de preparación entre directivos ucranianos de la educación y cuatro perfiles de aceptación de la [[generative-ai|IA generativa]] entre futuros docentes taiwaneses.
 
 ## Preguntas para reflexionar
 
@@ -29,7 +29,7 @@ ai_assist:
 
 ## Introducción
 
-La mayor parte de la evidencia sobre IA en la educación está centrada en las variables: estima relaciones promedio, y los promedios presuponen homogeneidad. Los métodos centrados en las personas toman en cambio a la persona como unidad de análisis y preguntan cuántas configuraciones distintas de atributos existen en la muestra. El LPA pertenece a esa familia, y su rendimiento aquí es que convierte la diversidad del estudiantado de una afirmación retórica en un hallazgo medible: cuando cerca de una cuarta parte de quienes cursan estudios de grado se sitúa en los dos perfiles de menor conciencia ética pese a una media muestral cómoda, la diferenciación deja de ser una preferencia de diseño.
+La mayor parte de la evidencia sobre IA en la educación está centrada en las variables: estima relaciones promedio, y los promedios presuponen homogeneidad. Los métodos centrados en las personas toman en cambio a la persona como unidad de análisis y preguntan cuántas configuraciones distintas de atributos existen en la muestra. El LPA pertenece a esa familia, y su rendimiento aquí es que convierte la diversidad del estudiantado de una afirmación retórica en un hallazgo medible: cuando los perfiles de conciencia ética van del 26,1 por ciento al 4,5 por ciento pese a una media muestral cómoda, la diferenciación deja de ser una preferencia de diseño.
 
 ## Qué hace el método y cuándo es la herramienta adecuada
 
@@ -46,7 +46,7 @@ El agrupamiento ordinario ([[machine-learning|k-means]] y jerárquico) persigue 
 Se repiten tres usos.
 
 - **Establecer la heterogeneidad antes de diseñar para ella.** La encuesta de Kremen y sus colegas a 395 directivos ucranianos de la educación usó un LCA centrado en las personas para mostrar que «el directivo» es una ficción: seis tipologías van desde la limitada por competencias (25,6 por ciento, dispuesta pero sin habilidades) hasta los escépticos sin barreras (la preparación más alta, pero con un 74 por ciento de desconfianza hacia la IA), y los autores las leen como un mandato de formación diferenciada.
-- **Recuperar subgrupos que un agregado oculta.** Acquah y sus colegas retuvieron cinco perfiles de conciencia ética, desde la muy alta integral (26,1 por ciento) hasta la conciencia ética baja (4,5 por ciento, beneficencia 2,06), y los dos más bajos juntos cubren cerca de una cuarta parte de la muestra. Chen y sus colegas encontraron que los escépticos reacios declaraban una facilidad de uso percibida alta, pero una intención conductual muy baja: la demostración más clara del corpus de que la paradoja entre facilidad de uso e intención es invisible para un modelo de nivel medio.
+- **Recuperar subgrupos que un agregado oculta.** Acquah y sus colegas retuvieron cinco perfiles de conciencia ética, desde la muy alta integral (26,1 por ciento) hasta la conciencia ética baja (4,5 por ciento, beneficencia 2,06), un abanico que va de algo más de una cuarta parte de la muestra a menos de una vigésima parte. Chen y sus colegas encontraron que los escépticos reacios declaraban una facilidad de uso percibida alta, pero una intención conductual muy baja: la demostración más clara del corpus de que la paradoja entre facilidad de uso e intención es invisible para un modelo de nivel medio.
 - **Perfilar la calibración en lugar del nivel.** El estudio sobre la alfabetización en IA del profesorado aplicó el LPA a la concordancia entre las [[self-report-measures|autodeclaraciones]] y las medidas objetivas, y obtuvo seis perfiles: sobreestimación, subestimación, alineación y un grupo bajo/bajo concentrado entre el profesorado sin experiencia previa en [[ai-literacy|alfabetización en IA]]. Aquí los perfiles describen un patrón entre instrumentos, no una banda de puntuación.
 
 Los perfiles sirven entonces como variable independiente: la disciplina moldeó la pertenencia entre futuros docentes (V de Cramér = 0,532, con el estudiantado de STEM concentrado en los pioneros tecnológicos) y la pertenencia predijo más tarde la [[self-efficacy|autoeficacia]], el agotamiento y la [[anxiety-and-stress|ansiedad ante la IA]] en otros puntos del corpus.
