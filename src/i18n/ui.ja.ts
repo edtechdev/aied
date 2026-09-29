@@ -99,6 +99,13 @@ export interface UiStrings {
       license: string;
       linkChecked: string;
     };
+    /**
+     * Name of the public-domain dedication, shown beside the CC0 mark in the
+     * footer (the mark is an inline SVG and carries no text of its own). The
+     * visible label is the link's accessible name, so it replaces the fixed
+     * English alt text the footer's raster badge used to carry.
+     */
+    publicDomainLabel: string;
     /** Footer sentences with links; {licenseUrl}, {licenseName}, {issuesUrl}, {contactUrl}, {editorName} are substituted at render. */
     footerLicenseHtml: string;
     footerIssuesHtml: string;
@@ -202,6 +209,8 @@ const ja: UiStrings = {
       license: 'License',
       linkChecked: 'Link checked',
     },
+    /** Localized name of the public-domain dedication, shown beside the CC0 mark. */
+    publicDomainLabel: 'パブリックドメイン',
     footerLicenseHtml:
       'このウェブサイトは<strong>AIエージェント</strong>が生成したもので、パブリックドメインとして<a href=\"{licenseUrl}\" class=\"footer-link\" target=\"_blank\" rel=\"noopener noreferrer\">{licenseName}</a>ライセンスのもとで公開されています。権利は留保していません。',
     footerIssuesHtml:

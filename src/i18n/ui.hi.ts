@@ -105,6 +105,13 @@ export interface UiStrings {
       license: string;
       linkChecked: string;
     };
+    /**
+     * Name of the public-domain dedication, shown beside the CC0 mark in the
+     * footer (the mark is an inline SVG and carries no text of its own). The
+     * visible label is the link's accessible name, so it replaces the fixed
+     * English alt text the footer's raster badge used to carry.
+     */
+    publicDomainLabel: string;
     /** Footer sentences with links; {licenseUrl}, {licenseName}, {issuesUrl}, {contactUrl}, {editorName} are substituted at render. */
     footerLicenseHtml: string;
     footerIssuesHtml: string;
@@ -208,6 +215,8 @@ const hi: UiStrings = {
       license: 'License',
       linkChecked: 'Link checked',
     },
+    /** Localized name of the public-domain dedication, shown beside the CC0 mark. */
+    publicDomainLabel: 'सार्वजनिक डोमेन',
     footerLicenseHtml:
       'यह वेबसाइट एक <strong>AI एजेंट</strong> द्वारा उत्पन्न की गई है और <a href="{licenseUrl}" class="footer-link" target="_blank" rel="noopener noreferrer">{licenseName}</a> लाइसेंस के अंतर्गत सार्वजनिक डोमेन को समर्पित है। कोई अधिकार सुरक्षित नहीं।',
     footerIssuesHtml:

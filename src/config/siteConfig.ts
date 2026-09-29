@@ -69,8 +69,20 @@ export interface SiteConfig {
     name: string;
     fullName: string;
     url: string;
-    image: string;
-    imageAlt: string;
+    /**
+     * Rasterized CC0 mark (the circled zero) used by the offline editions —
+     * public/public-domain-mark.png, rendered from src/assets/cc-zero.svg by
+     * tooling/gen-pd-mark.mjs. The site itself inlines the SVG (see
+     * src/components/PublicDomainMark.astro) so the mark follows the theme,
+     * which is why there is no `image`/`imageAlt` here any more: the label
+     * beside the mark is localized per locale (ui.<locale>.ts ->
+     * chrome.publicDomainLabel) instead of being a fixed English alt text.
+     */
+    mark: string;
+    /** Upstream vector source of the mark (Creative Commons press kit). */
+    markSource?: string;
+    /** Licence of the mark asset itself. */
+    markLicense?: string;
   };
   theme: {
     background: string;

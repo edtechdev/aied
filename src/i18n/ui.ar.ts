@@ -99,6 +99,13 @@ export interface UiStrings {
       license: string;
       linkChecked: string;
     };
+    /**
+     * Name of the public-domain dedication, shown beside the CC0 mark in the
+     * footer (the mark is an inline SVG and carries no text of its own). The
+     * visible label is the link's accessible name, so it replaces the fixed
+     * English alt text the footer's raster badge used to carry.
+     */
+    publicDomainLabel: string;
     /** Footer sentences with links; {licenseUrl}, {licenseName}, {issuesUrl}, {contactUrl}, {editorName} are substituted at render. */
     footerLicenseHtml: string;
     footerIssuesHtml: string;
@@ -204,6 +211,8 @@ const ar: UiStrings = {
       license: 'License',
       linkChecked: 'Link checked',
     },
+    /** Localized name of the public-domain dedication, shown beside the CC0 mark. */
+    publicDomainLabel: 'الملكية العامة',
     footerLicenseHtml:
       'أنشأ هذا الموقع <strong>وكيل ذكاء اصطناعي</strong>، وهو مُهدى إلى الملكية العامة بموجب ترخيص <a href="{licenseUrl}" class="footer-link" target="_blank" rel="noopener noreferrer">{licenseName}</a>. ولا حقوق محفوظة.',
     footerIssuesHtml:

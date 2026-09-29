@@ -15,7 +15,10 @@
     "locales": [
       {
         "code": "en",
-        "label": "English"
+        "label": "English",
+        "offlineNotice": {
+          "publicDomain": "Public Domain"
+        }
       },
       {
         "code": "es",
@@ -59,6 +62,7 @@
         },
         "offlineTitle": "Base de conocimiento sobre IA en la educación",
         "offlineNotice": {
+          "publicDomain": "Dominio público",
           "noticeLabel": "Aviso",
           "coverLabel": "Portada",
           "tocLabel": "Tabla de contenidos",
@@ -88,49 +92,76 @@
       {
         "code": "fr",
         "label": "Français",
-        "style": "Standard French; keep product names in English"
+        "style": "Standard French; keep product names in English",
+        "offlineNotice": {
+          "publicDomain": "Domaine public"
+        }
       },
       {
         "code": "zh",
         "label": "中文",
-        "style": "Simplified Chinese; keep product names in English"
+        "style": "Simplified Chinese; keep product names in English",
+        "offlineNotice": {
+          "publicDomain": "公有领域"
+        }
       },
       {
         "code": "de",
         "label": "Deutsch",
-        "style": "Standard German (de-DE), formal Sie"
+        "style": "Standard German (de-DE), formal Sie",
+        "offlineNotice": {
+          "publicDomain": "Gemeinfreiheit"
+        }
       },
       {
         "code": "ja",
         "label": "日本語",
-        "style": "Japanese, polite です・ます form"
+        "style": "Japanese, polite です・ます form",
+        "offlineNotice": {
+          "publicDomain": "パブリックドメイン"
+        }
       },
       {
         "code": "ko",
         "label": "한국어",
-        "style": "Korean, polite -습니다체"
+        "style": "Korean, polite -습니다체",
+        "offlineNotice": {
+          "publicDomain": "퍼블릭 도메인"
+        }
       },
       {
         "code": "pt",
         "label": "Português",
-        "style": "Brazilian Portuguese, informal você"
+        "style": "Brazilian Portuguese, informal você",
+        "offlineNotice": {
+          "publicDomain": "Domínio público"
+        }
       },
       {
         "code": "ar",
         "label": "العربية",
         "dir": "rtl",
-        "style": "Modern Standard Arabic; on first use keep a technical term in Latin script in parentheses"
+        "style": "Modern Standard Arabic; on first use keep a technical term in Latin script in parentheses",
+        "offlineNotice": {
+          "publicDomain": "الملكية العامة"
+        }
       },
       {
         "code": "he",
         "label": "עברית",
         "dir": "rtl",
-        "style": "Modern Hebrew; on first use keep a technical term in Latin script in parentheses"
+        "style": "Modern Hebrew; on first use keep a technical term in Latin script in parentheses",
+        "offlineNotice": {
+          "publicDomain": "נחלת הכלל"
+        }
       },
       {
         "code": "hi",
         "label": "हिन्दी",
-        "style": "Standard Hindi (Devanagari); keep Latin acronyms AI and AIEd as-is"
+        "style": "Standard Hindi (Devanagari); keep Latin acronyms AI and AIEd as-is",
+        "offlineNotice": {
+          "publicDomain": "सार्वजनिक डोमेन"
+        }
       }
     ]
   },
@@ -171,8 +202,9 @@
     "name": "CC0 1.0",
     "fullName": "CC0 1.0 Universal Public Domain Dedication",
     "url": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "image": "/aied/cc0.png",
-    "imageAlt": "CC0 Public Domain"
+    "mark": "/aied/public-domain-mark.png",
+    "markSource": "https://mirrors.creativecommons.org/presskit/icons/zero.svg",
+    "markLicense": "CC0 1.0"
   },
   "theme": {
     "background": "#0d1418",

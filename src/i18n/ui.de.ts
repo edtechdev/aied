@@ -99,6 +99,13 @@ export interface UiStrings {
       license: string;
       linkChecked: string;
     };
+    /**
+     * Name of the public-domain dedication, shown beside the CC0 mark in the
+     * footer (the mark is an inline SVG and carries no text of its own). The
+     * visible label is the link's accessible name, so it replaces the fixed
+     * English alt text the footer's raster badge used to carry.
+     */
+    publicDomainLabel: string;
     /** Footer sentences with links; {licenseUrl}, {licenseName}, {issuesUrl}, {contactUrl}, {editorName} are substituted at render. */
     footerLicenseHtml: string;
     footerIssuesHtml: string;
@@ -203,6 +210,8 @@ const de: UiStrings = {
       license: 'License',
       linkChecked: 'Link checked',
     },
+    /** Localized name of the public-domain dedication, shown beside the CC0 mark. */
+    publicDomainLabel: 'Gemeinfreiheit',
     footerLicenseHtml:
       'Diese Website wurde von einem <strong>KI-Agenten</strong> erzeugt und steht als gemeinfrei unter einer <a href="{licenseUrl}" class="footer-link" target="_blank" rel="noopener noreferrer">{licenseName}</a>-Lizenz. Keine Rechte vorbehalten.',
     footerIssuesHtml:
