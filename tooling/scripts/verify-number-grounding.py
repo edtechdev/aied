@@ -148,7 +148,13 @@ def strip_identifiers(text):
     text = re.sub(r'\b10\.\d{4,}/[^\s)\]"\']*', ' ', text)
     # release identifiers ("version 1.0.0", "v2.1") are labels, not measured claims
     text = re.sub(r'(?i)\bversions?\s+v?\d+(?:\.\d+)+', ' ', text)
-    text = re.sub(r'\bv\d+(?:\.\d+)+\b', ' ', text)
+    text = re.sub(r'\bv\d+(?:\.\d+)+', ' ', text)
+    # Ordered-list markers at the start of a line: "5. **Refusal is..." is a list position,
+    # not a claim. Without this, every numbered list looked like an ungrounded number.
+    text = re.sub(r'(?m)^\s*\d+[.)]\s', ' ', text)
+    # Alphanumeric identifiers carry digits that are not statistics: EDULEARN26, GPT-4o,
+    # PISA2026, TPACK21. Require a letter adjacent to the digits so plain numbers survive.
+    text = re.sub(r'\b(?=\w*[A-Za-z])(?=\w*\d)\w+\b', ' ', text)
     return text
 
 
