@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-09-25T09:57:33-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -87,6 +87,8 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 
 Governance is distinct from — but inseparable from — [[educational-policy-ai|educational AI policy]]. **Policy is the content**: the formal rules and statements (what AI use is allowed, what must be disclosed, what assessment is permitted). **Governance is the machinery** that produces, implements, enforces, and revises those rules: who sets them, how they are resourced and communicated, how compliance and appeals are handled, and how they adapt as AI evolves. Where the [[educational-policy-ai|policy]] page catalogs the *rules themselves* and their maturity gaps, this page focuses on the *structures and practices* that make rules real — steering groups, ethical review, assessment governance, and accountability across levels. A rule on paper is policy; a rule that is owned, monitored, and enforced is governance. The two are mutually dependent: policy without governance is unenforced, and governance without policy lacks direction.
 
+**Accountability language can leave the responsible actor unnamed.** [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] extracted 166 obligation or answerability expressions from 366 GenAI higher-education abstracts and found that none assigned responsibility to a system while 33 left the bearer unspecified; "governance is needed" names no one who convenes, decides, or enforces. Institutions and policy actors bore 37 obligations, institution/educator metonymies 30, educators 20, researchers 18, and students only six.
+
 [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify **ethics & data governance** as one of seven enablers of trustworthy LA-based educational interventions — policies for the ethical use of LA and AI, data privacy, security, and accountability — and position [[trust|trustworthiness]] (including leadership and governance that support implementation) as the prerequisite for meaningful data-informed interventions.
 
 
@@ -144,7 +146,5 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy (Perrotta 2026)
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 - [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
 - [[genai-governance-australian-higher-ed-2026]] — Mapping the Authorized Boundary: A Comparative Policy-Vignette Study of Generative AI Governance in Australian Higher Education

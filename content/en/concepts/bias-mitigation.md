@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-09-25T09:57:33-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -42,6 +42,8 @@ The knowledge base's research documents bias entering at multiple points in the 
 - **Visual bias in text-to-image tools:** [[bias-representation-text-to-image-education-2026|Alon, Hadar Shoval, and Levkovich (2026)]] [[meta-analysis-systematic-review|systematically review]] 31 peer-reviewed studies (2023–2025) on bias and representation in educational uses of AI-generated text-to-image. Using a six-part analytic framework (gender; race, ethnicity, and SES; culture and religion; age; body and (dis)ability; content), they find biased representation pervasive — images frequently centered white, male, Western, thin, and non-disabled figures, while diversity related to age, body, and ability was largely overlooked. Most studies relied on image audits and [[qualitative-research|qualitative]] methods, with few experimental or intervention-based designs, revealing significant blind spots in how educational research measures and responds to visual bias.
 - **Non-discrimination as a core ethical value.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], a [[meta-analysis-systematic-review|systematic review]] of 25 articles, identify non-discrimination (definitions using bias/discrimination/diversity) as one of six main ethical values for [[ai-education|AI in education]], alongside data stewardship, human oversight, goodwill, explicability, and educational aptness. The review notes the values are tightly coupled and can conflict — e.g., non-discrimination vs. data stewardship — producing ethical dilemmas, and that no norms on non-discrimination address end users directly, leaving learners largely passive in the ethical literature.
 
+- **Allocation bias in AI-assisted team formation.** [[genai-social-bias-software-engineering-education-2026|Entezami et al. (2026)]] show bias entering a task class outside scoring and feedback: three LLMs assigning 28-student software-engineering classes to four teams routed men at least 80% less often than women to Interface Design rather than Core Development (GPT-5.2 OR < 0.01), and nationality shifted placements independently of merit. Supplying skills reduced but did not remove it - 99.2% of skill-based assignments matched one of two ground-truth teams, yet gender still decided between equally valid options (OR 2.53 GPT-4.1, 2.81 GPT-5.2, 1.43 DeepSeek) - and parallel image generation skewed single-person images male and light-skinned (gender V = 0.64 and 0.65; skin tone V = 0.57 and 0.61) while multi-person images stayed comparatively balanced.
+
 ## Mitigation approaches
 
 The knowledge base's research illustrates several complementary strategies:
@@ -52,6 +54,7 @@ The knowledge base's research illustrates several complementary strategies:
 - **Validated, language-independent scoring:** addressing [[ai-scoring-language-bias-physics|scoring bias]] requires scoring that separates conceptual understanding from linguistic quality, and auditing scores for language bias.
 - **Explainability:** [[xai-education-framework|XAI in education]] provides transparency into why a system produced a given score or recommendation, enabling detection and correction of biased behavior and supporting [[trust]].
 - **Pipeline-wide auditing:** [[antiskillbench-persona-skills-privacy-2026|persona-skills auditing]] and systematic audits like the paternalistic-filter study show the value of auditing models across identity conditions before deployment.
+- **Fairness measurement is largely absent where analysis scales.** A PRISMA-ScR scoping review of 421 studies applying NLP to student evaluation of teaching found a formal fairness metric in only 8 studies (1.9%) and institutional-use risk in 18, while study limitations appeared in 70.5% and privacy protections in 42.3%; the authors read the coexistence as [[llm|LLM]] adoption broadening the technical repertoire without proportional gains in validation or responsible-use reporting ([[nlp-student-evaluation-teaching-scoping-review-2026|Eicher & da Silva (2026)]]).
 
 ## Mitigation across the AI pipeline
 

@@ -1,7 +1,7 @@
 ---
 title: Evaluative Judgment
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-09-25T09:57:33-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -77,6 +77,8 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 - **Build toward sustainable judgment, not momentary fixes.** Feedback that cannot transfer to the next task trains nothing durable.
 - **Pair it with process and orals.** Process artifacts and short oral explanations show judgment in action where a final product cannot, which is a core reason AI-era assessment redesign relies on them.
 
+- **Make retained judgment visible with comprehension-debt probes.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]] defines four cross-cutting obligations — explain, verify, modify, and account — that make retained competence visible at every level of AI integration, and proposes delayed change requests, code walkthroughs, independently designed tests, defect localization, and live debugging as probes that compare what was produced with what can later be demonstrated. Under [[agentic-ai|agentic]] capability the assessment target moves to supervision — task contracts, permission boundaries, sandboxes, evaluation harnesses, diff review, rollback, and human accountability — shifting assessment from visible authorship toward visible judgment.
+
 ## Connected Concepts
 
 - [[ai-education]] — AI in education (umbrella)
@@ -119,8 +121,5 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 - [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
 - [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — the Agency Check (credible, relevant, acceptable, nuanced) that structures each AI interaction
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
 
 - [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education

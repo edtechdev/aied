@@ -1,7 +1,7 @@
 ---
 title: AI Regulation in Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -41,6 +41,8 @@ Regulation is the legal and policy layer of AI [[governance]]: it sets the bindi
 The knowledge base documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and regulation research argue for proactive [[governance]] rather than reactive policy. Studies of  and [[raza-farooq-aied-review-2020-2025|comprehensive AIED reviews]] highlight that regulation is uneven across jurisdictions and educational levels, creating an inconsistent operating environment for teachers, students, and developers.
 
 **The gap is one of evidence as well as timing.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] characterize one professional sector as making policy under time pressure without an evidence base to make it with: most ABA-approved US [[legal-education|law schools]] took generally prohibitive positions while reserving discretion to individual instructors, and the authors report no consensus on disclosure or citation practice and only a ~15% response rate to the ABA's 2024 policy survey. Their normative response — clear guidelines whatever the stance, [[stakeholders|stakeholder]] involvement in drafting, and governance designed to be flexible and reviewed periodically — matches the [[crompton-governing-genai-higher-ed-delphi-2026|global Delphi consensus]], which likewise treats policy maintenance as a recurring institutional mechanism rather than a one-time task. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher and Calderon (2025)]] add the reverse dependency: their governance reform program concludes that institutional development is unlikely to pay out without external affordance from regulation, benchmarking and cross-institutional competition, making the quality and regulatory agencies — and the comparison they force between institutions — the condition under which internal governance reform takes hold.
+
+An audit of EdTech platform privacy policies gives that dependency a concrete instance. Across 48 platforms, data collection was disclosed comparatively well (mean 1.81 of 2) while AI disclosure (0.90) and accountability (1.07) lagged, and 33% made no meaningful AI disclosure despite visible AI features; US [[k-12]] platforms scored highest overall (M = 7.47 against 5.50 for US [[higher-ed|higher education]]) yet gained nothing on AI disclosure or accountability — regulation, the authors conclude, raises only what it names, so enforceable rules and procurement standards rather than voluntary commitments must make [[privacy]] a condition of deployment ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
 ### Connections
 

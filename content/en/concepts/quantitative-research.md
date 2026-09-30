@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -41,6 +41,9 @@ Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tut
 
 ### Longitudinal research
 Longitudinal designs track the same learners over time, capturing change, growth, and durable learning that single-time-point measurement misses. [[ai-lms-middle-school-longitudinal|A longitudinal LMS study]] tracks students across a school year. Longitudinal designs are essential for distinguishing AI-inflated performance from [[genai-performance-vs-learning|durable learning]].
+
+
+Between-dataset comparisons need a fixed working point: a structural check of synthetic educational data found that analyzing each dataset at its own threshold reversed a contrast that held at a shared point, and that its surrogate comparison needed only the synthetic data and permutations of itself - a permutation-based null rather than an absolute threshold ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
 
 ### Computational and psychometric quantification
 Quantitative methods also include the direct measurement of constructs via instruments — the domain of [[educational-measurement]] and [[item-response-theory]]. The knowledge base's [[jin-glat-genai-literacy-assessment|GLAT]] is a 20-item quantitative instrument validated with IRT; [[educational-measurement|measurement instruments]] across [[ai-literacy|AI literacy]], acceptance, and self-efficacy provide the validated scales on which survey and experimental research depend.
@@ -83,5 +86,4 @@ Quantitative and [[qualitative-research|qualitative]] methods are complements �
 - [[ai-lms-middle-school-longitudinal]] — A longitudinal AI-integrated LMS study
 - [[genai-over-reliance-learning-2026]] — From enhancement to over-reliance (mixed-method)
 - [[adaptive-pretesting-retention]] — Adaptive pretesting and retention
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

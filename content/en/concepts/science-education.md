@@ -6,7 +6,7 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-29T09:45:00-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 reviewed_by: [editor]
 ---
 
@@ -44,6 +44,8 @@ AI grading is advancing rapidly on high-stakes work. [[ai-grading-handwritten-ph
 ### Teacher perceptions and the critical view
 
 Teacher readiness is decisive. [[pre-service-science-teachers-ai-perceptions-2026|Amponsah et al.]] found Ghanaian pre-service science teachers hold positive attitudes and strong intentions toward AI but only moderate actual classroom use — an intention–use gap pointing to [[teacher-ai-competency]] and [[governance|institutional]] support as the real levers. [[becker-chatgpt-typology-physics-2026|Becker et al.]] and [[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]] document that physics students are domain-calibrated skeptics, not uncritical adopters: a 50-point trust-utility gap (91% use, 41% trust) and two distinct user profiles (Pragmatic Users vs. Skeptical Non-Users) that challenge one-size-fits-all policies. Counterbalancing the techno-optimism, [[avraamidou-ai-colonization-science-education|Avraamidou]] warns of an "AI colonization" of science education — extraction without consent, algorithmic monoculture, and dehumanized, profit-centered reform — and calls for a feminist, human-centered AI prioritizing justice over profit, while [[ai-science-chemistry-education-systematic-review-2025|Erümit & Özdemir Sarıalioğlu]]'s systematic review of 18 studies emphasizes [[ethics|ethical]] risks (bias, hallucination, [[academic-integrity|plagiarism]], erosion of independent thinking) and the need for [[teacher-education|teacher training]] and conscious use. The collective lesson across all thirteen articles is that AI in science education delivers gains when embedded in sound inquiry, [[scaffolding]], and [[assessment]] design — and undercuts learning when it displaces the epistemic work students must do themselves.
+
+[[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]] ask how well general models handle the science content itself: on NGSS-aligned item sets for middle school (1,078 items) and high school (1,150 items), nine open-weight models mostly exceeded 90%, with model size unrelated to accuracy, and a science teacher judged 236 of 240 sampled items (98.3%) aligned while flagging the absence of diagrams, data interpretation, and mathematical representation — text-only items cannot exercise every NGSS performance expectation. The high item difficulty and low discrimination leave open whether the items need improvement or secondary science has become tractable for this class of models, and the authors call multi-turn, evidence-based feedback the missing standard.
 
 ## Connected Concepts
 

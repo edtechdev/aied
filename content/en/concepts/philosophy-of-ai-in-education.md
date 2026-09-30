@@ -1,7 +1,7 @@
 ---
 title: Philosophy of AI in Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -33,6 +33,8 @@ This is a concept page for the philosophical and theoretical foundations of [[ai
 - **Agency, authorship, and meaning.** When AI mediates interpretation and meaning-making, philosophy asks how authorship, epistemic [[agency]], and interpretive autonomy are reconfigured.([[voicu-ai-interpretive-cognition-ssh-2026]])
 - **Values, justice, and the purpose of education.** Philosophical analysis examines whether AI-driven education serves human flourishing and educational justice, or whether it instrumentalises learning in service of productivity.([[avraamidou-ai-colonization-science-education]]) This connects to [[critical-pedagogy]] and [[ethics]].
 - **Whose philosophy? Pluralism in the field's conceptual foundations.** Xie (2026) argues that the field's philosophical debate is over-determined by a single Western architecture — [[agency|epistemic agency]] as a property of discrete subjects, knowledge framed representationally and calculatively, and the human–AI relation located within subject–object dualism — so that its limits become the limits of the field's collective imagination. As a comparative counterweight he reconstructs Daoist concepts — "Dao nature" (道性), self-cultivation (修道) and the "Zhenren" (真人) — not as "Eastern content" added to an unchanged frame but as resources that reshape the conceptual foundations through which AI itself is understood, applying them to knowledge (epistemic monoculture and synthetic misinformation), knowing (offloading that degrades [[critical-thinking|critical thought]]) and impact (environmental costs and Global North–South asymmetries).([[daoism-ai-education-philosophy-2026]])
+
+- **Agency without answerability.** A corpus-assisted discourse analysis of 366 GenAI higher-education abstracts finds [[generative-ai|AI]] named 2,050 times and entering 447 strict actor–predicate associations - the field's most frequent actor - yet action predicates dominate them (78.7%) and no sentence makes a system responsible: of 166 obligation expressions, none assigned responsibility to a system, and the single clause linking AI to accountability says AI is not accountable. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] reads this as functional agency recognized in language without the relational responsibility that would attach it to anyone.
 
 ### Relationship to learning theories
 

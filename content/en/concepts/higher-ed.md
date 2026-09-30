@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T06:56:00-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -116,8 +116,6 @@ Professional-degree programs hold most of the graduate-level evidence, and it is
 - [[engagement-intensity-learner-modeling]] — Engagement intensity as a learner-modeling signal for adaptive AI ethics instruction (Oh, Talton & Bui 2026)
 - [[ai-assisted-writing-research-teams]] — AI-assisted writing shifts research teams toward smaller, junior-leaner, highly cited collaborations (Wang et al. 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — Assistant and Enabler forms dominate higher-education GenAI research; the marginal entanglement types stay rare for institutional rather than technical reasons (Sun, Dohn & Rehm 2026)
 - [[students-at-stake-ai-deployment-risks-2026]] — Student-side map of AI deployment across admissions, financial aid, student services and education delivery, with a four-question procurement screen (Student Defense 2026)

@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-30T06:12:25-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
@@ -124,8 +124,6 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
 - [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
 - [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
 - [[human-ai-collaboration-academic-writing-2026]] — Five-part structured EFL writing workflow; verification and responsible-use routines drove paired writing and digital critical-thinking gains
 - [[wang-genai-novice-learner-learning-by-teaching-2026]] — Role reversal: students teach a GAI novice learner, outperforming peers who query a GAI teacher
 - [[iqbal-human-genai-support-essay-revision-2026]] — Support type shaped revision strategies and scores, but no strategy predicted gain; GenAI gains may be task-specific

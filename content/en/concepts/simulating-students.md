@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-09-28T21:37:06-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge-tracing, llm, pedagogical-agent, simulation, student-modeling]
@@ -124,6 +124,5 @@ The 2026 durable-skills work inverts the usual direction of simulation. Instead 
 - [[misconception-acquisition-dynamics-llms-2026]] — what has to be in the training data before a simulator holds a misconception at all
 - [[llm-distractor-generation-student-reasoning-2026]] — trace-level analysis of how models simulate incorrect student reasoning
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
 - [[llm-simulating-student-scientific-thinking-2026]] — six models against 8,820 lesson-embedded science ideas: where simulated reasoning overshoots young learners' scope, vocabulary and certainty
 - [[preservice-teachers-noticing-ai-simulations-2026]] — three weeks of preservice teachers' attending, interpreting and shaping in an equal-sign chatbot simulation, and how the design steers what they notice

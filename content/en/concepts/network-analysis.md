@@ -1,7 +1,7 @@
 ---
 title: Network Analysis
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-09-28T21:44:10-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
@@ -40,6 +40,8 @@ Network methods are used across the knowledge base's evidence base to answer que
 - **Trace AI-literacy and interaction signatures.** ENA on interaction logs identifies distinct patterns of [[llm|LLM]] use (iterative strategic refinement vs. linear commands), distinguishing learner [[ai-literacy|proficiency]] and development. ([[tracing-genai-literacy-interaction-patterns]])
 - **Analyze discourse and framing.** ENA is applied to [[qualitative-research|qualitative]] and [[multimodal]] data (e.g., YouTube frames of ChatGPT in education) to reveal the structure of public or disciplinary discourse. ([[youtube-frames-chatgpt-education]])
 - **Complement self-report and product metrics.** Because network methods use observed behavioral data, they can expose discrepancies between what learners claim and what they actually do — a recurring finding in the knowledge base's feedback-uptake literature.
+
+- **Graph structure as a validation quantity, not a descriptive summary.** [[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]] track β0 - the number of connected components of a weekly proximity graph over learners at a fixed Euclidean threshold - to test whether synthetic cohorts reproduce the real ones, preferring it because it is fixed by the graph alone, needs no optimization or random seed unlike modularity maximization, and stays defined when a seventh to a third of learners sit alone in a component.
 
 ## Methodological considerations
 

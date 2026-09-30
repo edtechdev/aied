@@ -1,7 +1,7 @@
 ---
 title: Mixed-Methods Research
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 research_method: [survey]
 confidence: high
@@ -34,6 +34,8 @@ Mixed-methods designs integrate the breadth, precision, and causal power of quan
 - **Explaining mechanisms.** [[same-ai-different-pathways]] combines strands to unpack the mechanisms of AI-mediated learning across discipline-institution contexts, where quantitative differences alone would be opaque.
 - **Complementing outcome data with experience.** [[hazra-safetutors-pedagogical-safety-2026|AI tutor safety]] pairs quantitative harm indicators with qualitative accounts of pedagogical harm; [[t2i-competence-paradox-2026]] pairs quantitative survey results with qualitative negotiation-of-identity accounts.
 - **Design and evaluation.** [[genai-feedback-design-multisite-experiment|A multisite experiment on GenAI feedback design]] combines experimental outcome measurement with qualitative feedback from learners, integrating quantitative effect estimation with design guidance.
+
+- **Triangulating a policy phenomenon.** A study of student-privacy deferral in EdTech pairs twelve semi-structured interviews with a 48-platform document audit scored by two coders for inter-rater reliability (mean Cohen's κ = 0.781), using the interviews to explain why privacy is postponed and the audit to show the disclosure pattern that deferral produces — a convergent design in which neither strand alone could support the claim ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
 ## Strengths and limitations
 

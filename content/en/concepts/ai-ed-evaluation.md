@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-25T09:57:33-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -51,6 +51,8 @@ The velocity of the systems being evaluated is a further constraint. [[ai-tutori
 
 
 - **Data fidelity is a separate evaluation problem from output quality.** Synthetic educational cohorts that reproduce each variable's summary statistics can still misstate the structure of the data: a weekly proximity graph over learners varied 2.6 to 4.9 times less across a term in the synthetic versions than in the real cohorts, so a fidelity score does not predict which analyses survive on real data ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake, 2026]]).
+
+- **In-distribution accuracy is not deployability.** A Bloom-level classifier scoring a macro F1 of 0.88 on its curated item bank fell to 0.48 and 0.20 on two sets of AI-generated questions, a loss that tracked the near-absence of explicit Bloom trigger verbs rather than model size; untrained [[llm|LLMs]] were the most robust option out of distribution (0.79 and 0.41–0.51) and retraining on labeled out-of-distribution data recovered the largest gains (up to 0.82), so transfer belongs in the report alongside in-distribution fit ([[bloom-classifier-ai-assisted-questions-2026|Castanares et al., 2026]]).
 
 ### Connections to related concepts
 

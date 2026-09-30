@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-25T09:57:33-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -52,6 +52,7 @@ Language learning has emerged as a significant AI in education domain because la
 - **Prepare language teachers' [[ai-literacy|AI literacy]].** [[governing-unseen-ai-literacy-language-teachers-2026|Systematic reviews]] find AI literacy among language teachers is a key gap — invest in teacher [[educational-development|professional development]] alongside tool adoption. As AI reshapes language education, AI literacy is also crucial for teachers to engage critically with the technology: the Teachers' AI Literacy Scale (TAILS) was developed for language [[teacher-education|teacher education]], operationalizing the six-dimension ED-AI framework (knowledge, evaluation, collaboration, contextualization, [[agency|autonomy]], [[ethics]]) and validated with preservice English language teachers.
 
 - **Four interaction profiles in a high-pressure bilingual task.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li and Weng (2026)]] used eye-tracking, pen-recording and voice-recording with 22 interpreting trainees to show that students divide attention between AI output and their own note-taking in four distinct ways — Intensive Engagers, Fast Scanners, Traditionalists and Frequent Switchers — and that 58.3% of stage-level observations changed profile between the comprehension and production stages of the same task. Only comprehension-stage patterns predicted product quality, and the AI-heaviest cluster scored lowest on fluency of delivery and target language quality, which makes the case for teaching learners to describe and reflect on their own strategy rather than prescribing one way of working with the tool.
+- **Route the full four-skill loop around cost and connectivity.** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] release LLMersion-1, a local-first prototype that works listening, reading, speaking and writing over the learner's own document on consumer hardware — a 1B tutor quantizes to 808 MB and the whole resident stack stays under 4 GB — and prices five years of daily practice at roughly $18 of electricity, against $1,200 for a cloud subscription. No learner outcomes are reported and pronunciation feedback is segmental only.
 
 ## Connected Concepts
 

@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-29T12:09:58-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -60,6 +60,7 @@ When AI is designed to support reflection rather than replace it, metacognition 
 - The **example-based course** in Scheu et al.'s [[conversational-ai|chatbot]] increased **perceived competence** (a metacognitive [[self-assessment]]) even when the [[llm]] assistant alone did not
 
 - **Surfacing interaction patterns that learners cannot see.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li and Weng (2026)]] tracked eye movements, note-taking and speech while 22 interpreting trainees worked with a speech-recognition and machine-translation system, and found that the way students divided [[cognitive-psychology|attention]] between AI output and their own notes was invisible to them: 58.3% changed profile between task stages, and the heaviest readers of AI output scored lowest on delivery fluency and target language quality. The pedagogical consequence is that reflection has to be scaffolded by external evidence, because a learner's strategy is not introspectable — the authors argue for guiding students to describe and evaluate why they worked a given way at each stage.
+- **A reflective scaffold can habituate and replace the self-monitoring it protects.** [[skill-sustaining-reliance-reflective-ai-engagement-2026|de Jong (2026)]] warns that repeated prompts to reflect may wear off through habituation — much as repeated warnings are dismissed automatically — so a professional who reflects only when the system asks may end with neither the tool nor the self-monitoring habit; the paper argues reflective prompts should be treated as a fading skill-building intervention and tested for whether users reflect without them.
 - **A selective gain: metacognitive knowledge without planning and monitoring.** [[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al. (2026)]] split 68 preservice teachers into a group that explained the flipped classroom to a generative AI novice learner (n=33) and a group that questioned a generative AI teacher (n=35). The novice-learner group scored higher on metacognitive knowledge and learning strategies (p < 0.001, Cohen's *d* = 0.41) but not on planning and monitoring (M = 4.01 vs. 3.78, p = 0.062), even though the same group's explanation and application scores rose (r = 0.474 and r = 0.642) while factual recall did not separate the groups (p = 0.416). The split follows the two components in the Introduction: explaining to someone who asks back built declarative awareness of what one knows, but nothing in the design made the learner set a route or check progress, which the authors attribute to task design and cognitive load rather than to the role itself. [[learning-by-teaching]] with AI is therefore a lever on metacognitive knowledge, not automatically on [[self-regulated-learning|regulation]], and the authors recommend adding explicit planning prompts and progress feedback.
 
 ## The Engagement–Motivation Distinction
@@ -166,6 +167,5 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — Reflective use rose with AI access and predicted critical thinking, not knowledge gain (Melanou, Beege & Kimmig 2026)
 - [[alatoai-ai-learning-environments-self-regulation-2026]] — Metacognitive awareness as the strongest predictor of adaptive STEM learning (Alatoai & Alshahri 2026)
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — From diagnosis to meta-diagnosis: teachers judging AI-generated inferences (Hoppe, Loibl & Leuders 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
 - [[dang-human-ai-collaboration-competency-2026]] — Metacognition, not pedagogy, as the mechanism of learner agency in human-AI collaboration (Dang, Hong, Doyle & Nguyen 2026)
