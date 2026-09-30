@@ -79,11 +79,42 @@ def changed_article_slugs(wiki):
     return sorted(slugs)
 
 
+FACET_FIELDS = (
+    'foundations', 'pedagogy', 'technology', 'assessment',
+    'methods', 'institutions', 'ethics',
+)
+WIKILINK = re.compile(r'\[\[([^\]|]+)(?:\|[^\]]*)?\]\]')
+
+
+def concept_candidates(text, concept_slugs):
+    """Every concept this article declares a link to: facet metadata plus inline links.
+
+    The screen has to answer for ALL of these, not only the ones it decided to
+    integrate. An article's facet fields and its own inline links are the claims it
+    makes about which concepts it speaks to, so each one needs a decision recorded -
+    integrated, or a reason it does not qualify.
+    """
+    if text.startswith('---'):
+        parts = text.split('\n---', 1)
+        fm = parts[0] if len(parts) == 2 else ''
+        body = parts[1] if len(parts) == 2 else text
+    else:
+        fm, body = '', text
+    found = set()
+    for field in FACET_FIELDS:
+        m = re.search(r'^%s:\s*\[(.*?)\]' % field, fm, re.M)
+        if m:
+            found.update(v.strip() for v in m.group(1).split(',') if v.strip())
+    found.update(t.strip().replace('.md', '') for t in WIKILINK.findall(body))
+    return {c for c in found if c in concept_slugs}
+
+
 def main(argv):
     wiki = os.environ.get('WIKI_ROOT') or os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     cfg = load_config()
     screen = cfg.get('concept_screen') or {}
     since = screen.get('since') or ''
+    coverage_since = screen.get('coverage_since') or ''
     record_path = os.path.join(wiki, screen.get('record') or 'concept-screen.yaml')
     if not since:
         print('SKIP - concept_screen.since is not configured in wiki.config.yaml')
@@ -106,6 +137,7 @@ def main(argv):
             return 0
     art_dir = path(cfg, 'articles')
     problems = []
+    backlog = []
     checked = 0
     for name in sorted(os.listdir(art_dir)):
         if not name.endswith('.md'):
@@ -123,6 +155,8 @@ def main(argv):
             problems.append('%s (created %s): no entry in concept-screen.yaml - run the concept screen' % (slug, created))
             continue
         integrated = entry.get('integrated') or []
+        decided = {str(c) for c in integrated}
+        decided.update(str(c) for c in (entry.get('no_change') or []))
         if not integrated:
             if not str(entry.get('reason') or '').strip():
                 problems.append('%s: recorded with no integration and no reason' % slug)
@@ -134,6 +168,27 @@ def main(argv):
             elif slug not in narrative(open(cpath, encoding='utf-8').read()):
                 problems.append('%s: claims integration into %s, but that page does not mention it' % (slug, c))
 
+        # Every concept the article declares must carry a decision. Otherwise the
+        # screen answered only for the pairs that happened to be listed already and
+        # never asked whether the article contributes to the rest. Required from
+        # coverage_since onward; earlier in-scope articles are reported as backlog.
+        concept_dir = path(cfg, 'concepts')
+        concept_slugs = {n[:-3] for n in os.listdir(concept_dir) if n.endswith('.md')}
+        candidates = concept_candidates(text, concept_slugs)
+        unaccounted = sorted(candidates - decided)
+        if unaccounted:
+            if coverage_since and created < coverage_since:
+                backlog.append((slug, unaccounted))
+            else:
+                problems.append(
+                    '%s: %d concept candidate(s) with no recorded decision: %s'
+                    % (slug, len(unaccounted), ', '.join(unaccounted)))
+
+    if backlog and not problems:
+        n = sum(len(u) for _, u in backlog)
+        print('note - coverage backlog: %d article(s) predate full-coverage screening '
+              '(%d concept candidate(s) undecided). These pass the weaker requirement.'
+              % (len(backlog), n))
     if problems:
         print('FAIL - %d article(s) checked, %d problem(s):' % (checked, len(problems)))
         for p in problems:

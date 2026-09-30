@@ -87,6 +87,10 @@ build:
     # The record above proves a screen happened; this proves the integration is real prose
     # rather than a bare Connected Articles entry (the append-only pattern).
     - python3 tooling/scripts/check-concept-integration.py --changed
+    # And this proves the prose that was woven in is readable: no added sentence that
+    # repeats one already on the page, and none long enough to lose an instructor reading
+    # it. Pages grow by weaving, so this is the failure mode to watch as they grow.
+    - python3 tooling/scripts/check-concept-prose.py --changed
     # Typed facet fields are authored directly (tags were retired) and must hold
     # concept slugs from their own registry section.
     - python3 tooling/scripts/validate-facets.py
@@ -173,6 +177,15 @@ concept_screen:
   # decision in `record`. The requirement starts when the mechanism does; historical
   # pages are deliberately out of scope.
   since: "2026-09-27"
+  # From this date the record must account for EVERY concept the article declares -
+  # each facet field and each concept it links inline - as either `integrated:` or
+  # `no_change:`. Without it a screen answers only for the pairs that happened to be
+  # listed already and never asks whether the article contributes to the rest, which is
+  # how the append-only pattern survived: the article's own facet fields named the
+  # concepts it speaks to, and nobody checked them.
+  # Older in-scope articles keep the weaker requirement (a record exists) and are
+  # reported as a coverage backlog rather than failing the gate.
+  coverage_since: "2026-10-01"
   record: concept-screen.yaml
 
 scan:
