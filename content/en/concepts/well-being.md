@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-09-30T12:20:22-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -41,6 +41,9 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 - **Emotional-support tutoring is not automatically better for well-being.** An LLM mindfulness layer added to an algebra tutor reduced state-math anxiety in both arms but no more than cognitive-only hints and feedback, though students rated the mindful agent more supportive — a caution against reading perceived care as a well-being outcome ([[mindful-llm-math-tutoring-2026|Rief et al., 2026]]).
 
 - **AI anxiety, adaptation, and dependence as well-being signals:** [[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al. (2026)]] find AI anxiety is negatively tied to academic motivation partly through reduced [[metacognition|emotion regulation]] (moderated by gender) in a large Chinese sample; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] shows learners of [[language-learning|Japanese]] sort into maladaptive, moderate, and positive psychological-adaptation profiles driven by technostress and resilience that shift toward better adaptation over a semester; and [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] cautions that cross-sectional correlates of [[conversational-ai]] engagement (loneliness, anxiety, low well-being) should not be read as consequences, and that supportive and harmful experiences coexist.
+
+
+- **Whether AI bonding protects or harms depends on offline relationships.** [[ai-connectedness-adolescent-mental-health-2026|Fu and Zhao (2026)]] propose that mental-health effects track AI connectedness relative to traditional offline connectedness rather than its intensity alone — supplementary when real-world bonds meet identity-confirmation needs, compensatory when [[parents-and-families|caregivers]] do not — and predict an inverted-U relation between the two.
 - **Culturally [[situated-learning|situated]] well-being support and its limits:** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] describe Sukoon, a hybrid well-being system for Pakistani university students that pairs a Random Forest stress classifier (89.09% accuracy over three severity levels; 20 survey features) with an [[llm]] dialogue layer that escalates tone and support intensity across three tiers in line with the Stepped Care Model. It was built because Western-designed mental-health tools are English-language and culturally mismatched for students who express distress in Urdu or Roman Urdu and who face academic, financial, familial and relational stressors simultaneously; the authors are explicit that it is not a [[medical-education|clinical]] diagnostic or therapy tool, that high-distress responses point toward professional counselling, and that the chatbot layer has not yet been evaluated with students on cultural appropriateness or emotional safety.
 
 - **Teacher well-being and role:** AI's impact on [[teacher-role|teachers]] — including workload, anxiety about teaching with disruptive technology, and the capacity to provide emotional support — is a recurring concern, connecting to [[teacher-ai-competency]] and [[educational-development|professional development]].
@@ -91,3 +94,4 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[ai-emotional-intelligence-teacher-development-2026]] — Relational densification as the criterion for AI-supported teacher development
 
 - [[ai-enabled-course-development-first-year-adjustment-2026]] — High AI-course approval coexisting with self-reported strain, and task pressure weakening adjustment
+- [[ai-connectedness-adolescent-mental-health-2026]] — AI connectedness and adolescent mental health: supplementary versus compensatory bonding, with an inverted-U prediction

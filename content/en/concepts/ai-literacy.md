@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T12:20:22-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -62,6 +62,9 @@ Research points to [[collaborative-learning|collaborative]] and [[active-learnin
 **Instructional emphasis and task openness reach performance through different needs.** [[yu-designing-ai-literacy-self-determination-2026|Yu, Lin and Chen (2026)]] randomized 320 undergraduates to four groups in a 2 x 2 experiment on an AIGC image-generation task scored with an objective rubric (ICC = 0.89) and found that thinking-based instruction, covering model limitations, critical evaluation and ethics, outperformed skills-based prompting instruction (M = 9.21 vs 7.69, F(1, 316) = 50.79, p < 0.001, partial eta squared = 0.138), with the wider margin on open-ended tasks (10.10 vs 8.00). The structural model shows the two design choices travel by different routes: instruction worked indirectly through autonomy (beta = 0.035) and competence (beta = 0.079), while task openness operated mainly through autonomy (beta = 0.029), competence was the strongest predictor of performance (beta = 0.358) and relatedness had no independent effect. What the instruction contains therefore matters more than whether learners get prompting practice, and it matters most when the task is open-ended.
 
 The variables surrounding AI literacy have since been mapped more broadly. [[ai-literacy-correlates-affective-behavioral-cognitive-2025|A 2025 systematic review of AI literacy's correlates]] synthesized 31 studies across 14 countries (N = 12,071) and found the most consistent associations in the affective and behavioral band: AI self-efficacy, positive AI attitudes, motivation and digital competence all moved with AI literacy, while AI anxiety and negative attitudes moved against it. Demographic variables barely registered, with age and socio-economic status correlating weakly or not at all. The review's caution is about instruments: the same studies that produced strong correlations from self-assessment also showed far weaker ones when AI literacy was tested rather than self-rated.
+
+
+One apparent negative association reverses under control: among 303 Hong Kong undergraduates, technology anxiety correlated negatively with AI literacy (r = −0.14) yet predicted β = 0.15 in a joint model, an effect confined to critical evaluation and ethical competence ([[ai-literacy-determinants-university-students-2026|Chow et al. (2026)]]).
 
 [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] adds an ordered account of what AI literacy predicts rather than what predicts it. Surveying 450 university students in mainland China who already use ChatGPT, the study found AI literacy related directly to continued use (beta = 0.16, p = 0.002) and indirectly along a serial path through [[trust]] and academic [[self-efficacy]] (indirect effect = 0.07, 95% CI [0.04, 0.10]), with the literacy to trust link the largest association in the model (beta = 0.50). [[anxiety-and-stress|AI anxiety]] moderated that first link (interaction beta = -0.25, simple slopes falling from 0.76 to 0.25 across the anxiety range), so the chain thinned for more anxious students and literacy instruction alone should not be assumed to reach them. The design is cross-sectional and the sample is restricted to existing users, so the ordering is a modeling assumption rather than an observed sequence.
 
@@ -236,3 +239,5 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — K-12 AI education raised AI literacy with a pooled g = 0.892 across 57 positive effects, and measurement disagreement explains the heterogeneity (Yu et al. 2026)
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — Literacy demands differ by student–GenAI entanglement type; Assistant and Enabler forms dominate while the rest stay marginal for institutional reasons (Sun, Dohn & Rehm 2026)
 - [[ai-competence-framework-landscape-2026]] — Comparative analysis of 16 AI competence frameworks for education and workforce development
+
+- [[ai-literacy-determinants-university-students-2026]] — External resources, digital competence and psychological profile as joint determinants, with a technology-anxiety sign reversal

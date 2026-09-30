@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T10:54:00-04:00"
+updated: "2026-09-30T12:20:22-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -131,6 +131,9 @@ A cluster of Learning Letters studies (2026) converges on a central tension: [[g
 
 The collective lesson: **SRL is the core mechanism distinguishing critical from uncritical AI use.** Whether GenAI functions as a scaffold, shortcut, or partner depends on learners' regulatory capacity and on whether tools are designed to preserve (rather than remove) the regulatory demands that build expertise.
 
+
+Which support is in play decides which mediator carries the association: among 3,003 Chinese pre-service teachers, perceived AI tool support ran to innovative competence mainly through AI [[self-efficacy]] (60.88% of that path's total effect), while perceived school-based intelligent environment support ran mainly through self-regulated learning (29.64% versus 18.60%) ([[preservice-teachers-ai-support-innovative-competence-2026|Liu et al. (2026)]]).
+
 ## Implications
 
 - **For journaling/chatbot tools:** Combine SRL instruction (course-based) with optional writing support to get both motivation and engagement gains
@@ -195,3 +198,4 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — Longitudinal: reflective AI use predicted critical thinking but not knowledge gain, with no Matthew effect
 
 - [[genai-literacy-srl-special-education-2026]] — GenAI literacy related to self-regulated learning behaviors mainly through learning agency
+- [[preservice-teachers-ai-support-innovative-competence-2026]] — Support type flips the mediator: AI self-efficacy vs self-regulated learning

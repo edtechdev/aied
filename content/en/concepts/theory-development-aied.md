@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-09-30T12:20:22-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -32,6 +32,9 @@ Theory development in AIEd sits at the boundary between the applied [[learning-t
 A growing cluster of articles explicitly creates new theory for the AI era rather than applying existing frames:
 
 - **Generativism.** [[generativism-learning-theory|Generativism]] is proposed as a new learning theory, arguing that behaviorism, cognitivism, [[constructivist|constructivism]], and connectivism each rest on one assumption that generative AI breaks: that observable output certifies learning (behaviorism), that cognitive operations happen inside the learner (cognitivism), that meaning is constructed rather than supplied (constructivism), and that the hard part is navigating to existing knowledge rather than generating it (connectivism). It names four constructs — epistemic partnership, distributed agency, generative literacy, and adaptive metacognition — and derives an assessment indicator for each, a direct bid to name a distinct theoretical paradigm for AI-mediated learning. What it does not do is state propositions that could fail: it is a position paper synthesizing existing evidence, so unlike Agentivism below it offers a vocabulary and a measurement agenda rather than a falsifiable theory.
+
+
+- **AI connectedness.** [[ai-connectedness-adolescent-mental-health-2026|Fu and Zhao (2026)]] reconstruct connectedness for the AI era through the ethics of care and neo-ecological theory, defining "artificial intelligence connectedness" as a psychologically real yet ethically asymmetric bond with three dimensions and six falsifiable propositions awaiting scale development.
 
 
 The synthetic position adds a rival bid that does state propositions: it names *synthetic promotion* and *authorial suspension* — a self densely voiced yet un-authored — and predicts a crossover interaction in which a life-decision narrative's rated authorship and coherence move in opposite directions ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
@@ -119,3 +122,4 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 
 - [[synthetic-position-self-authorship-2026]] — The synthetic position: a dialogical-self bid naming synthetic promotion and authorial suspension with a crossover prediction
 - [[capability-decision-model-teacher-readiness-2026]] — Falsifiable capability-first teacher readiness model with four disconfirmation conditions
+- [[ai-connectedness-adolescent-mental-health-2026]] — Artificial intelligence connectedness: a three-dimensional construct with six falsifiable propositions for later testing

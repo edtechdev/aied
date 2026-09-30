@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T12:20:22-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -38,6 +38,9 @@ The idea has moved from a proposition to a recurring recommendation across the k
 ## What process evidence looks like in practice
 
 The most explicit design vocabulary comes from Thapa and Lewis, whose four commitments carry the argument into task design: reflective justification, staged task design, dialogic engagement, and evaluative transparency. In practice, students explain interpretive decisions rather than only presenting conclusions, submit work that develops across checkpoints, take part in [[oral-assessment|oral or dialogic]] exchanges about their reasoning, and work against criteria they can apply themselves — the terrain of [[feedback-literacy|feedback literacy]] and [[self-assessment]]. Boysen's (2026) proposal for open learning practices translates the same logic into an audit trail: a shared learning plan set before the project begins, a learning analysis plan naming required and forbidden sources, and documented drafts and version histories, preserved through Track Changes and saved file versions, that expose the work process and explain what informed each revision. He frames this as [[self-regulated-learning|self-regulation]] made visible.
+
+
+The channel chosen for process evidence changes what can be evidenced: in the same 79-student generative-AI study, higher-depth monitoring and planning were more common in think-aloud units while higher-depth regulation was more common in interaction logs, so no single record captures the whole process ([[metacognitive-processes-genai-interaction-logs-2026|Li and Liu (2026)]]).
 
 Practitioner and framework accounts fill in the artifacts. Uden and Hwang's (2026) LEARN framework, aimed at [[problem-based-learning|problem-based learning]] [[assessment]], asks for process-focused rubrics, oral justifications, staged submissions, and reasoning traces with [[ai-use-disclosure|AI-use disclosure]], and treats reflection through learning journals and think-aloud protocols as the [[metacognition|metacognitive]] engine of the sequence. Moganadas and colleagues (2026) make AI-transparent, process-oriented assessment one of five researchable propositions, requiring documentation, verification, and reflective justification rather than prohibition or detector use. Padhy (2026) recommends capturing revision history, interaction patterns, and time-on-task, paired with transparent disclosure. Goldstein, Marae-Haj and Zidan (2026) report the same artifacts emerging from practice after a [[trust]] crisis: prompting records, document version history, monitored group contributions, and reflective "journey journals" kept in physical notebooks — alongside the plain finding that take-home written work could no longer evidence learning.
 
@@ -87,3 +90,5 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[authentic-products-authenticated-processes-2026]] — authentic products and the processes that produced them
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — the oral exam as an AI-resistant format that makes reasoning live
 - [[thapa-lewis-process-oriented-assessment-2026]] — epistemic authenticity and the four design commitments behind process-oriented assessment (Thapa & Lewis 2026)
+
+- [[metacognitive-processes-genai-interaction-logs-2026]] — Channel-conditional process evidence: logs and think-aloud reveal different processes

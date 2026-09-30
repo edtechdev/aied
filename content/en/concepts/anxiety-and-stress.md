@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-09-30T12:20:22-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -77,6 +77,9 @@ This direction connects AI anxiety to [[motivation]], [[ai-literacy]], [[student
 A distinct and increasingly studied dimension is **career anxiety** — the fear that AI will displace jobs, erode employability, or devalue one's professional future. Where proctoring anxiety is situational and learner-emotion anxiety is about in-task competence, career anxiety is forward-looking and identity-level, and it is tightly linked to [[career-development-and-readiness]]. The [[kim-ai-anxiety-comprehensive-analysis|AI Anxiety comprehensive analysis]] identifies the **fear of replacement by AI** as the primary contributor to AI anxiety, alongside uncontrolled AI growth, privacy, misinformation, and bias. A growing empirical literature now quantifies how this fear affects students:
 
 - **Career adaptability is a protective factor.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] shows career adapt-abilities significantly and negatively predict AI anxiety among English majors, with core self-evaluations partially mediating the relationship; the low-adaptability group had the highest AI anxiety.
+
+
+- **Threat and favorable appraisal co-activated in one profile.** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] found a group above the sample mean on all six indicators at once — AI use anxiety 1.521 and STARA awareness 0.951 alongside perceived quality 1.753 — so high anxiety did not signal a negative appraisal of the technology.
 - **AI anxiety impairs career decisions.** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] use structural equation modeling to show AI anxiety directly and negatively predicts career decisions, and does so largely by undermining **career adaptability** (accounting for 63.35% of the total effect); [[self-efficacy]] offered only limited buffering.
 
 
@@ -151,3 +154,4 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 
 - [[ai-employment-threat-career-anxiety-2026]] — AI employment threat and career decision anxiety: perceived employability mediates and growth mindset moderates
 - [[ai-enabled-course-development-first-year-adjustment-2026]] — AI usage pressure weakens the link between AI proficiency and first-year adjustment
+- [[ai-attitude-latent-profiles-career-development-2026]] — A profile high on both AI anxiety and perceived AI quality, not one or the other

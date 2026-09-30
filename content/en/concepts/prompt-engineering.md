@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T12:20:22-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -37,6 +37,9 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 - **Prompt cognition tracks the discipline, not the student.** [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] classified 60,087 prompts from 116 courses and found Bloom-level profiles differed by discipline — STEM Apply-prevalent (20.8%), social science Create-prevalent (33.8%) — with course-level variance exceeding student-level variance.
 - **Prompting as literacy:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] and [[aaai2026-prompting-literacy-k12|K-12 prompting literacy]] research frame prompting as a core [[ai-literacy]] component
 - **Novices default to trial and error, and blame the model.** In a text-linguistics seminar, ten genAI novices refined prompts by trial and error, rarely reached for in-context examples, and overwhelmingly attributed poor outputs to the LLM rather than their own prompt formulation ([[llms-text-linguistics-teaching-2026|Brocca & Garassino (2026)]]).
+
+
+- **When the instructor models the prompt, students reuse it verbatim.** Among 310 recorded prompts from twelve middle-school STEAM groups, exact copying of the instructor's instruction was the most frequent student standpoint at 47.1%, ahead of spontaneous inquiry at 28.7% ([[middle-school-genai-steam-interactions-2026|Zhao & Li (2026)]]).
 
 - **A regulatory cycle beats a prompt formula.** In a quasi-experimental pilot with 42 undergraduates, students taught the IDEA cycle (Intent, Deconstruction, Expression, Adaptation) produced higher-quality prompts and outputs than peers taught Role–Task–Context–Format prompting in all five task categories (adjusted prompt gains of +11.77 to +29.19 points) ([[idea-framework-metacognitive-genai-2026|Wang et al., 2026]]).
 - **Prompting as system design:** [[cotal-formative-assessment-scoring-2026|CoTAL]] uses [[human-in-the-loop-ai|human-in-the-loop]] prompt engineering for [[formative-assessment|formative assessment]] scoring; [[choi-anchor-aes-prompting-2025|anchor-based prompting]] improves [[automated-essay-scoring|automated essay scoring]]
@@ -113,3 +116,5 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Prompt engineering vs prompt literacy: a five-phase human-centered GenAI engagement framework with a five-step Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
 - [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
+
+- [[middle-school-genai-steam-interactions-2026]] — Middle-school STEAM groups copied the instructor's instruction verbatim in 47.1% of prompts

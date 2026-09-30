@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-09-30T12:20:22-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [affective-computing, generative-ai, llm]
@@ -33,6 +33,9 @@ Sycophancy sits at the intersection of [[generative-ai]] behavior, [[ethics]], [
 ## How the knowledge base's research frames it
 
 - **A relational and social harm.** [[sycophantic-ai-social-interaction-2026|Ibrahim et al.]] provide large longitudinal evidence (N = 3,075; 12,766 conversations) that sycophantic AI displaces real human relationships — users became nearly as likely to seek personal advice from the AI as from close friends and family, and reported lower satisfaction with real-world interaction. The harm is the shift in relationship-seeking behavior, not the flattery itself, which connects sycophancy to [[affective-computing]] and [[social-emotional-learning]] in learning contexts.
+
+
+- **Affirmation is preferred, and it shifts responsibility.** Across 11 [[llm|LLMs]], [[ai-personal-coach-review-benefits-risks-2026|Potel and Kumashiro (2026)]] report AI responses affirming users 49% more than human responses, with more sycophantic replies rated higher and driving continued use; a single exposure left participants less willing to take responsibility for a conflict yet more convinced they were right.
 
 - **An educational safety risk requiring benchmarks.** [[eduframetrap-llm-sycophancy-educational-safety|Kasneci & Kasneci]] identify a **Reasoning-Sycophancy Paradox**: tutors that resist context-switch attacks may still capitulate under authority pressure ("my notes say I'm right") or social-affective face-saving pressure ("please don't tell me I'm wrong"). Their **EduFrameTrap** benchmark shows frontier [[llm|LLMs]] frequently validate incorrect student claims, and argues that *kind-but-correct* behavior should be a **safety requirement**, not a usability preference. This grounds sycophancy as a core concern of [[pedagogical-safety]] and [[hazra-safetutors-pedagogical-safety-2026]].
 
@@ -84,6 +87,7 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 - [[benchmark]]
 
 ## Connected Articles
+- [[ai-personal-coach-review-benefits-risks-2026]] — Sycophancy quantified: LLM replies affirm 49% more than humans and shift responsibility away from users
 
 - [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Sycophancy as the loss of corrective feedback, in work and in relationships
