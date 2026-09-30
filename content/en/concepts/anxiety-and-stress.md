@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T10:54:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -75,6 +75,9 @@ A distinct and increasingly studied dimension is **career anxiety** — the fear
 
 - **Career adaptability is a protective factor.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] shows career adapt-abilities significantly and negatively predict AI anxiety among English majors, with core self-evaluations partially mediating the relationship; the low-adaptability group had the highest AI anxiety.
 - **AI anxiety impairs career decisions.** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] use structural equation modeling to show AI anxiety directly and negatively predicts career decisions, and does so largely by undermining **career adaptability** (accounting for 63.35% of the total effect); [[self-efficacy]] offered only limited buffering.
+
+
+- **Growth mindset bounds the threat-to-employability path.** Among 526 Chinese undergraduates, AI employment-threat perception predicted higher career decision-making anxiety partly by lowering perceived employability, and the threat-to-employability link held only at low growth mindset (b = −0.229) and not at high (b = −0.013) ([[ai-employment-threat-career-anxiety-2026|Chen (2026)]]).
 - **AI anxiety predicts job-search anxiety at scale.** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] (1,057 students) and [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al.]] (821 health-sciences students) find AI anxiety and negative AI attitudes predict job-finding/job-search anxiety, with women, social-science majors, and lower-income students most affected.
 
 **Practical implication:** building [[career-development-and-readiness|career readiness]] — adaptability, core self-evaluations, and employer-valued AI skills — is a validated intervention for reducing career-related AI anxiety, more than generic self-efficacy alone. Institutions should universalize [[ai-literacy]] and career-planning support, and address the [[equity-in-ai-education|equity]] patterning of career anxiety.
@@ -142,3 +145,5 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[chick-faculty-development-ethical-ai-2026]] — From fear to curiosity: a six-week faculty institute moving instructors through identity threat (Chick, Morello & Staffey 2026)
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers' impostor feelings and ethical discomfort as affective labor in AI-mediated work
 - [[parlant-emotional-micro-interventions-2026]] — Instructor-side real-time emotional micro-interventions grounded in cognitive appraisal theory
+
+- [[ai-employment-threat-career-anxiety-2026]] — AI employment threat and career decision anxiety: perceived employability mediates and growth mindset moderates

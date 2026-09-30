@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T10:54:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -32,6 +32,7 @@ Motivation is a foundational construct in education research, and the rise of AI
 ## Key research themes
 
 **AI effects on student motivation** is the most direct line of research. **[[ai-availability-student-motivation]]** examines how the availability of AI assistance affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] research on motivation erosion when AI does the work. **[[scheu-mobile-chatbot-journaling-motivation-2026]]** explores mobile [[conversational-ai|chatbot]] journaling as a motivational intervention. **[[ai-learning-tools-engineering-education-needs]]** examines what motivates students to adopt AI learning tools in [[engineering-education|engineering education]].
+A 42-study meta-analysis (56 effect sizes, 6,059 students) found GenAI-supported learning raised motivation by Hedges' g = 0.764 (95% CI [0.566, 0.962]) — but with I² = 93.7% and a 95% prediction interval of [−0.689, 2.217], the average conceals settings where the effect is near zero or negative ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 - **Unreflective use erodes motivation — more so for men.** Thoughtless GenAI use (accepting answers unexamined) predicted lower motivation (β = −0.54) and lower [[self-efficacy]] (β = −0.37) among 487 undergraduates, and the motivation effect was significantly stronger for male students while the self-efficacy effect was stronger for female students ([[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu, 2026]]).
 Why a reader reaches for AI is itself a measurable variable: the AIR scale resolves four motives for GenAI-assisted reading — Task-oriented, Feel-good, Translation and Low-effort — and only Low-effort, using AI when tired or disengaged, was negatively related to need for cognition (r = −.18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar and Sidi (2026)]]).
 
@@ -99,3 +100,5 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[genai-writing-program-primary-l2-motivation-engagement]] — Construct-specific motivation gains in a primary L2 GenAI writing program (Lu et al. 2026)
 - [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: four motive families for reaching for AI while reading
 - [[genai-math-relevance-intervention-2026]] — GenAI relevance dialogue raised relevance as identification but left class interest flat
+
+- [[genai-learning-motivation-meta-analysis-2026]] — Random-effects meta-analysis of GenAI's effect on learning motivation (56 effect sizes, 6,059 students)

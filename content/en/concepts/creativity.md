@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T10:54:00-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -36,6 +36,9 @@ Creativity spans the divergent-thinking end of the cognitive spectrum — genera
 - **Co-creativity is a network effect, not an individual trait:** [[trikonet-trivalence-co-creativity-2026|Ruhland (2026)]] draws on Actor-Network Theory to model creativity as an emergent property of socio-technical networks — a triadic interplay of stabilization, destabilization, and re-stabilization among human and non-human actors, with [[generative-ai|generative AI]] agents treated as equal, constitutive network participants. In a study where [[pedagogy|pedagogical]] avatars were co-designed in a creative network, the avatar designs were not individual creative acts but emerged through translation processes among students, [[research-methods-aied|researchers]], and design tools. TriKoNet frames the risk that ready-made AI avatars shift creative [[agency]] toward machine-induced convenience (the "Convenience Trap") and argues that co-constituting the AI's action structure with [[learners]] preserves co-creativity.
 
 - **Think-first collaboration sustains independent creativity:** Wong and Qiu (2026) found that students who generated their own ideas *before* using ChatGPT (a "think first, ChatGPT later" protocol) showed no immediate boost on the assisted task, yet outperformed both a free-AI group and a human-only group on a later unassisted creativity task. Freely using ChatGPT produced only transient performance that collapsed when assistance was removed — a form of [[cognitive-offloading|Over-Reliance]] rather than learning — whereas collaborative [[human-ai-collaboration|co-creation]] aimed at improving one's *own* ideas yielded durable gains in independent creativity. This gives direct experimental evidence that protecting creative agency is not merely desirable but is what converts AI-assisted work into learning.
+
+
+A counterweight from graduate research: among 1,157 Chinese graduate students, [[generative-ai|GenAI]] dependence was positively associated with self-reported research creativity, far more strongly for functional, task-oriented dependence (β = 0.457) than for existential reliance (β = 0.147), with [[critical-thinking|critical thinking]] carrying roughly 85.0% of the functional pathway ([[genai-dependence-research-creativity-2026|Yin et al. (2026)]]).
 
 
 - **Embodiment pays off unevenly.** A physical robot paired with a high-creativity model significantly raised originality over human–human and text-based collaboration, while human and text-based conditions kept the advantage in imagery and voice — an embodiment paradox in which the robot amplified the AI's output without improving style ([[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Liu & Song (2026)]]).
@@ -91,3 +94,5 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[flowcode-ai-creative-coding]] — Flowcode: an AI-powered environment scaffolding iteration in creative computing
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: trivalence model of potential co-creativity in socio-technical networks
 - [[genai-creativity-k12-scoping-review-2026]] — PRISMA scoping review of 45 K–12 studies: four GenAI uses for creativity, homogenization, and the measurement gap
+
+- [[genai-dependence-research-creativity-2026]] — Functional versus existential GenAI dependence and research creativity in 1,157 graduate students

@@ -1,7 +1,7 @@
 ---
 title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T10:54:00-04:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -31,6 +31,9 @@ Learner identity concerns who a learner understands themselves to be, and who th
 Identity is a motivational and developmental construct distinct from (but connected to) related abilities and beliefs. Where [[self-efficacy]] concerns *can I do this?*, identity concerns *who am I — and who am I becoming?* It is built through participation, recognition, and authorship — through seeing oneself reflected in a domain and having that self-view validated. AI reshapes the conditions under which identity forms because it changes *who does the work*, *what counts as one's own contribution*, and *whether a learner feels recognized as the author of their learning*. This makes identity a first-order design concern rather than a peripheral "soft" factor.
 
 - **Authorship and competence under threat.** When AI produces text, images, or code, learners may question whether the result is truly "theirs" — a challenge to the authorship dimension of identity. **[[t2i-competence-paradox-2026|Liu et al. (2026)]]** document a *competence paradox* in art and design students using text-to-image GenAI: the tools feel easy and useful, yet their use simultaneously threatens the **creative identity** students derive from manual craft and authorship, producing a genuine tension between ease and self-worth.
+
+
+A distinct authorship condition, not only a threat to authorship: when self-formative dialogue is habitually delegated to a conversational model, the authors argue the integrative work of authoring is *delegated* rather than undeveloped or absent — a self densely voiced yet un-authored, which they say existing constructs have no slot for ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
 - **Shame and hidden use.** **[[shame-guilt-ai-regulation-computing-education|Lin et al.]]** show that computing students experience shame and guilt around AI use, which function as social regulators driving *hiding* and selective disclosure — behaviors that can fragment academic identity and undermine honest engagement with learning.
 - **Identity as something AI can scaffold.** AI need not only threaten identity. **[[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]** argue that accountable, relationally-oriented [[pedagogy|pedagogical]] accompaniment can support learners' **STEM identity** development by providing transparent, bounded support that leaves room for the learner to own their trajectory.
 
@@ -94,3 +97,4 @@ Learner identity connects to [[agency]] (identity is enacted through agentic aut
 - [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
 - [[genai-professionalization-metaphors-2026]] — GenAI conceptualizations and student professional identity
 
+- [[synthetic-position-self-authorship-2026]] — Authorial suspension: delegated authorship as a self densely voiced yet un-authored (conceptual analysis)
