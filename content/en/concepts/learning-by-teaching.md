@@ -1,7 +1,7 @@
 ---
 title: Learning by Teaching
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -96,6 +96,7 @@ The [[research-methods-aied|research]] above converges on a few reusable pattern
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — Explaining to an AI tutee: the best-evidenced sequence in the knowledge base
 - [[generative-ai]]
 - [[active-learning]]
 - [[constructivist]]

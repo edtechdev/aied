@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -103,6 +103,7 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — Why process evidence is proposed when output no longer identifies the author
 - [[interpreting-and-applying-aied-research]]
 - [[authentic-assessment]]
 - [[automated-assessment]]

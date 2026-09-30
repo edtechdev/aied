@@ -1,7 +1,7 @@
 ---
 title: Evaluative Judgment
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-09-30T12:20:22-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -87,6 +87,7 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — The appraisal step students perform on AI output inside these sequences
 - [[ai-education]] — AI in education (umbrella)
 - [[assessment-validity]]
 - [[feedback]]

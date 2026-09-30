@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -79,6 +79,7 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — Why the effortful order outperforms the fluent one
 - [[learning-by-teaching]]
 - [[self-regulated-learning]]
 - [[metacognition]]

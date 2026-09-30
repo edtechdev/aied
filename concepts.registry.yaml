@@ -1380,6 +1380,21 @@ concepts:
     - student partnership
     - student-staff partnership
     - students as partners
+  pedagogical-patterns:
+    title: Pedagogical Patterns
+    aliases:
+    - activity sequence
+    - activity sequences
+    - instructional pattern
+    - instructional patterns
+    - instructional sequence
+    - instructional sequences
+    - learning sequence
+    - learning sequences
+    - pedagogical pattern
+    - pedagogical patterns
+    - teaching pattern
+    - teaching patterns
   pedagogical-safety:
     title: Pedagogical Safety
     aliases:
@@ -2100,6 +2115,7 @@ sections:
   - label: Core pedagogies
     items:
     - pedagogy
+    - pedagogical-patterns
     - active-learning
     - collaborative-learning
     - project-based-learning

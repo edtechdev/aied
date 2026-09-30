@@ -1,7 +1,7 @@
 ---
 title: Group Work
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -96,6 +96,7 @@ A second line of research treats AI as a participant rather than a tool, and its
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — Role scripts for groups sharing one AI
 - [[ai-education]] — AI in education (umbrella)
 - [[collaborative-learning]]
 - [[assessment]]

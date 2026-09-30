@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-09-30T12:20:22-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -65,6 +65,7 @@ The operational costs are itemized elsewhere. Boysen lists new technology, revis
 Thapa and Lewis's account is conceptual: no participants, no data collection, and no implementation trial, so the four principles are argued rather than tested, and the paper itself calls for empirical work on [[student-experience|student experience]], educator workload, and long-term viability. Feasibility is left undifferentiated across settings — transfer to large lectures, laboratories, studios, or clinical placements is not addressed. Lane's (2026) position paper notes the institutional ceiling: process-based assessment is blunted by grading and transcript structures that reward polished final artifacts, so classroom redesign alone does not change the incentive. [[educational-measurement|Measurement]] is thin as well: Jin and colleagues' (2026) review of [[ai-literacy|AI-literacy]] instruments calls for performance-based and process-oriented assessment and behavioral-trace measurement of [[prompt-engineering|prompting]] and verification, but reports that the existing instruments lean on [[self-report-measures|self-report]]. No source here reports a [[rct|controlled trial]] of a process-oriented redesign against a product-oriented one, which leaves the central claim — that process evidence is both harder to counterfeit and fairer to judge — argued from principle, practitioner report, and case-file evidence rather than demonstrated at scale.
 
 ## Connected Concepts
+- [[pedagogical-patterns]] — Staged checkpoints and process evidence as sequenced designs
 - [[assessment]]
 - [[authentic-assessment]]
 - [[ai-detection]]

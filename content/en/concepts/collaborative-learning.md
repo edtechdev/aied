@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -81,6 +81,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - **Design for the viewing/attention that precedes contribution.** Collaborative learning in [[online-teaching-and-learning|online discussion]] forums depends not only on posting but on the reading that precedes it. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova (2026)]] show LLM-generated discussion summaries and example posts can act as navigational [[scaffolding|scaffolds]] that broaden students' exposure to peers' contributions and the network conditions for bridging (weak-tie) social capital — support that should complement, not replace, socio-pedagogical strategies for sustaining engagement under academic workload.
 
 ## Connected Concepts
+- [[pedagogical-patterns]] — Scripted shared-AI collaboration and its tested role designs
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[group-work]] — Group work
 - [[problem-based-learning]]

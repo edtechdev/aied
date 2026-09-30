@@ -1,7 +1,7 @@
 ---
 title: Oral Assessment
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -73,6 +73,7 @@ The binding constraint is staffing and hardware rather than pedagogy, and the co
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — Oral and viva verification sequences, and what they do and do not demonstrate
 - [[assessment]] — the broader field this format sits inside
 - [[authentic-assessment]] — the design tradition that makes the integrity case
 - [[assessment-validity]] — what a format can and cannot claim to measure

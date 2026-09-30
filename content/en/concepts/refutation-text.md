@@ -1,7 +1,7 @@
 ---
 title: Refutation Text
 created: "2026-08-26T10:20:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
 technology: [generative-ai]
@@ -54,6 +54,7 @@ Refutation texts are one member of the conceptual-change toolkit, alongside anal
 For educators, refutation texts remain a reliable, low-barrier way to correct stubborn misconceptions. For those integrating AI, the evidence suggests: (1) use AI to *generate* effective refutation/conceptual-change content at scale; (2) where feasible, deliver refutation through personalized AI dialogue for stronger immediate engagement and belief change; (3) expect AI-generated misconceptions to be pedagogically useful when structured discussion is used to confront them; and (4) design for the learner — refutation effects can be concentrated in high-achieving students and moderated by epistemology and metacognition, so scaffolding and follow-up matter.
 
 ## Connected Concepts
+- [[pedagogical-patterns]] — Refutation sequences, including two directly conflicting results
 - [[misconceptions]]
 - [[scaffolding]]
 - [[metacognition]]

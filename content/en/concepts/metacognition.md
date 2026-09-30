@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T12:20:22-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -132,6 +132,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — The reflection steps these sequences build in
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[self-regulated-learning]]
 - [[self-assessment]]

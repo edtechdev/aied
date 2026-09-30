@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -118,6 +118,7 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - **Use analytics to support, not replace, teaching.** Leverage [[learning-analytics]] to forecast engagement and target support, but keep [[human-in-the-loop-ai|human oversight]] central.
 
 ## Connected Concepts
+- [[pedagogical-patterns]] — The context that makes sequencing load-bearing, since the system cannot see an attempt
 - [[assessment-validity]] — validity of the inference from submitted work to learning
 - [[agentic-ai]] — autonomous systems that operate tools and platforms, including an LMS
 - [[community-of-inquiry]] — Community of Inquiry

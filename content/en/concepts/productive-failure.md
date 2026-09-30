@@ -1,7 +1,7 @@
 ---
 title: Productive Failure
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -82,6 +82,7 @@ Productive failure connects to [[learning-theories]] (constructivism), [[desirab
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — Attempt-before-instruction as a full sequence, with its thin evidence base
 - [[constructivist]]
 - [[learning-theories]]
 - [[desirable-difficulties]]
