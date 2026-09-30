@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-28T22:17:25-04:00"
+updated: "2026-09-29T20:22:52-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -42,6 +42,8 @@ Collaborative learning is grounded in [[sociocultural-learning|sociocultural the
 
 **Collaboration modes and the efficiency–regulation trade-off.** Empirical research on college students collaborating with AI for complex problem-solving identifies three distinct modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration*. The most efficient mode (delegated reasoning) yields the highest task performance but the lowest learners' self-regulatory engagement, while the mode with greatest self-regulation (concerted interpretation) underperforms on task outcomes.([[hao-human-ai-collaborative-problem-solving-cognition]]) This reveals a central design tension: collaborative-learning environments must balance the efficiency of the distributed human–AI system against the depth of learners' [[self-regulated-learning|regulatory]] engagement.
 The one meta-analytic contrast available for AI-supported collaborative work sits inside GenAI-supported PBL/PjBL interventions, where peer collaboration pooled at g = 0.885 against g = 0.416 for individual work, but the difference reached only a marginal trend (QM = 3.675, p = .055) and the individual-work side rests on two studies — so the pooled evidence that collaboration beats working alone under GenAI is suggestive rather than established ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
+
+**Role design is a lever on the quality, not the volume, of collaborative knowledge construction.** [[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al. (2026)]] assigned rotating moderator, analyst and arguer roles across 58 [[higher-ed|graduate students]] and their AI partner in 16 groups, and found the structure lifted the *content* of group mind maps nearly a full SOLO band (M = 3.65 to 4.59, z = 3.771, p < 0.001) while node and branch counts stayed flat — organization rather than coverage — at the cost of a moderate rise in collaborative [[cognitive-offloading|cognitive load]] (p = 0.023). [[network-analysis|Lag sequential analysis]] added an evaluation self-transition and a conflict-to-defending path the tool alone had not produced, positioning [[human-ai-collaboration|human-AI collaboration]] as a design problem rather than a tool problem.
 
 **GenAI as agent and space in small groups — mode matters.** [[xu-genai-collaborative-space-2026|Xu et al. (2026)]] observe that *how* a team accesses GenAI shapes collaboration: with a single shared interface in synchronous work, teams co-construct "collective prompts," run a surface–evaluate–embed cycle, and treat the chat as shared memory; in asynchronous work, private prompting and output "de-labeling" fragment [[explainable-ai|transparency]] and raise the cost of sustaining a shared cognitive model. Their GenAI-Supported Cooperative Work (GSCW) lens frames GenAI as a configurable agent (individual assistant to team member) and an interactive collaborative space — connecting access configuration directly to the [[icap-framework|ICAP]]-relevant quality of interactive engagement.
 
