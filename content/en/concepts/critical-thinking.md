@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T10:54:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -32,6 +32,9 @@ Structured dialogue control, not a better prompt, is what separates a fallacy tu
 
 The knowledge base's articles explore critical thinking through [[design-based-research|design-based]] and empirical lenses. [[ai-agents-constructive-conflict-design-education-2026|Adversarial AI agents]] enact constructive conflict to prompt reconsideration in novice designers — a Socratic variant that forces critical re-evaluation. [[genai-can-harm-teaching-rct-2026|RCT research on GenAI in teaching]] raises the question of whether AI tools that optimize for surface-level outcomes may inadvertently suppress the critical thinking that leads to deeper learning. Measured evidence sharpens the point: whether critical thinking moves depends on how AI-mediated feedback and tasks are designed, and on learners' [[metacognition|metacognitive]] regulation, not on access to a model.
 
+
+GenAI use's link to self-reported critical thinking ran almost entirely through GenAI [[feedback-literacy]]: in 421 Chinese undergraduates, feedback literacy mediated 71.98% of the total association (β=0.185), and the residual direct path was positive only for less reflective students (β=0.177) and non-significant for more reflective ones ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
+
 **A meta-analytic anchor for the moderation claim.** Across 29 experiments GenAI raised higher-order thinking moderately (g = 0.609), with critical thinking at ES = 0.691 — below problem-solving (0.745) and above creativity (0.444) — strongest for 8–16-week interventions (0.759) and for high-SRL learners (0.863 against 0.284) ([[zhao-genai-higher-order-thinking-meta-2026|Zhao et al. (2025)]]).
 
 [[chatgpt-critical-creative-thinking-review|Reviews of ChatGPT's impact on thinking]] document mixed findings: AI can [[scaffolding|scaffold]] critical analysis when used deliberately (e.g., asking students to critique AI-generated arguments), but it can also short-circuit thinking when used as an answer engine. This tension connects to [[ai-literacy-assessment-misalignment]] research showing that self-reported AI competence far exceeds actual critical evaluation ability. A critical review of 80 HCI studies of critical thinking with AI found the field measuring what it rarely defines: only 23 of the 80 stated how they understood critical thinking at all, 49 (61%) assessed it through self-report rather than performance, and 42 (52%) used no control group ([[critical-review-critical-thinking-hci-research-ai-2026]]).
@@ -49,6 +52,9 @@ The knowledge base's articles explore critical thinking through [[design-based-r
 - **Offloading depth, not use, bounds higher-order thinking.** Delegating the reasoning layer of writing — warrants, counterarguments, evidence interpretation — carried the strongest negative association with independent higher-order thinking (ab = −0.34), and self-regulated writing weakened but never reversed it ([[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]]).
 
 - **Dependence, not use, is where the association with critical thinking turns.** Shojaei and colleagues (2026) surveyed 412 business students in Oman and found a near-zero bivariate correlation between [[generative-ai|GenAI]] use and self-reported critical-thinking disposition (r = 0.050), with dependence predicting lower disposition (β = -0.389) and weakening the link from use to disposition (β = -0.239), so that the simple slope fell from 0.424 at low dependence to -0.054 at high dependence. ([[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. 2026]])
+
+
+A larger cross-sectional survey points the other way: among 1,157 Chinese graduate students, [[generative-ai|GenAI]] dependence was positively associated with critical thinking (β = 0.492), and critical thinking carried roughly 85.0% of the path from functional dependence to research creativity ([[genai-dependence-research-creativity-2026|Yin et al. (2026)]]).
 
 - **A short reflection prompt makes reliance on AI advice more discriminative.** In a three-condition experiment with 342 undergraduates, Ren (2026) found that open ChatGPT support produced acceptance of incorrect AI recommendations on 62.4% of trials, falling to 39.7% with a brief metacognitive reflection prompt (OR = 0.40, 95% CI [0.28, 0.56]); reflection also improved awareness calibration (0.59 vs. 0.41) and cut the AI-specific attribution bias index from 0.42 to 0.21 without reducing recommendation accuracy or triggering blanket rejection of useful advice. ([[ren-metacognitive-awareness-genai-reliance-2026|Ren 2026]])
 
@@ -118,3 +124,6 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Verification-centered GenAI integration in university chemistry education (Vega-Baudrit and Rivera Álvarez 2026)
 - [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — teacher-curated ChatGPT feedback raised critical thinking via higher-order revision (Chen et al. 2026)
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — a semester of AI access left critical thinking flat; reflective use predicted it (Melanou et al. 2026)
+
+- [[genai-dependence-research-creativity-2026]] — GenAI dependence positively associated with critical thinking in 1,157 graduate students
+- [[genai-use-critical-thinking-moderation-2026]] — GenAI use to critical thinking via feedback literacy, with a direct path only for less reflective students

@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T10:54:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
@@ -43,6 +43,9 @@ A census of educator tool use shows attention concentrated on production rather 
 With 80+ articles, generative AI is the knowledge base's largest technology thread. Research spans effectiveness studies ([[genai-meta-analysis-programming-learning|meta-analyses]]), safety concerns ([[hazra-safetutors-pedagogical-safety-2026|tutor harms]], [[eduguard-safe-rag-llm-tutor|guardrailing]]), and design principles ([[instructional-guidance-genai-learning|instructional guidance]]).
 Pooled across 53 studies, GenAI-assisted education outperformed non-GenAI approaches on achievement (g = 0.40), higher-order thinking (g = 0.72), motivation (g = 0.81) and writing (g = 0.76), though game-assisted GenAI added no significant benefit (g = 0.24) ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
 
+
+A separate 42-study meta-analysis of motivation alone puts the pooled effect lower (g = 0.764) and reports a 95% prediction interval spanning [−0.689, 2.217], so the motivational advantage is not reliably positive for a new setting ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
+
 Generative UI is the newest capability in this thread: models that emit a working interactive artifact — sliders, manipulable simulations — rather than prose. [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]], a Google Research team, report that off-the-shelf generative UI is not yet pedagogically precise enough for complex constructs, but that decomposing a learning objective into progressive leveled goals and wrapping generation in critique and self-improvement loops yields interactives expert teachers rate as acceptable. Theirs is an orchestration design: teachers state objectives, approve them and select among candidate simulations, so the binding constraint on bespoke [[simulation|interactive learning material]] shifts from production to specification, and [[guardrails|pedagogical guardrails]] are embedded in the generation pipeline rather than left to teacher vigilance afterwards.
 
 Beyond these core strands, recent work extends the evidence base across [[governance|institutional]], interactional, and domain contexts. Qin (2026) documents how Lingnan University institutionalized GenAI literacy for all undergraduates as part of a digital liberal-arts transformation. Chang and Li (2026) show that student-AI conversations encode discipline-associated cognitive [[student-engagement|engagement]], with ~62% of prompts reflecting higher-order cognitive demand. Neto and colleagues (2026) [[meta-analysis-systematic-review|systematically review]] GenAI in scenario-based healthcare education, finding [[prompt-engineering|prompt design]] functions as instructional specification but is rarely aligned with instructional frameworks (34.8%) or reported in reproducible detail (34.8%). GenAI also powers role-play simulations of learners for practice-based [[teacher-education|teacher training]]: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang and Zhang (2025)]] built *Student GPT*, a custom ChatGPT chatbot that simulated a [[k-12|middle school]] student holding common ratio-reasoning [[misconceptions]], giving preservice mathematics teachers affordable, content-specific practice at diagnosing student thinking — evidence that prompt design (a literature-grounded prompt reliably elicited target conceptual errors, 0.98 vs. 0.40) can steer an off-the-shelf generative model into a useful pedagogical persona.
@@ -74,6 +77,7 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 - [[k-12]] — a primary deployment context
 
 ## Connected Articles
+- [[genai-learning-motivation-meta-analysis-2026]] — Meta-analysis of GenAI's effect on learning motivation, with a prediction interval spanning harm to benefit
 
 - [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives

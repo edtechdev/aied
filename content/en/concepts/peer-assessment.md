@@ -1,7 +1,7 @@
 ---
 title: Peer Assessment
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T10:54:00-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -58,6 +58,9 @@ The pattern generalizes to professional writing. [[gift-ai-pairr-business-writin
 
 The most rigorous test of how much design matters is a multisite cluster-randomized experiment. [[genai-feedback-design-multisite-experiment|Ateş (2026)]] randomized 48 sections across 4 universities — 1,176 first-year undergraduates in [[biology-education|biology]], [[chemistry-education|chemistry]], and [[physics-education|physics]] — to four conditions for scientific argumentation: peer feedback only, direct GenAI feedback, reflective GenAI feedback (self-evaluation then AI critique), and a hybrid of self-evaluation → peer feedback → GenAI critique. Direct GenAI beat peer feedback on immediate argument quality but showed weaker [[transfer-of-learning|transfer]]; reflective and hybrid designs produced stronger feedback uptake and self-regulated learning; the hybrid showed the clearest advantage on conceptual learning; both outperformed direct GenAI on delayed AI-free transfer. GenAI's value, the authors conclude, depends less on access than on whether the environment preserves student agency and ownership during revision.
 
+
+Sequencing AI feedback before peer discussion, rather than after it, also raised outcomes: against peer feedback alone, 122 Chinese EFL students given AI-plus-peer integrated feedback reported higher affective, behavioral and cognitive engagement (partial η² = 0.29, 0.28, 0.32) and outperformed on all four IELTS writing dimensions, largest for task achievement (d = 1.41) ([[ai-peer-feedback-l2-writing-engagement-2026|Liu (2026)]]).
+
 That pattern — an early advantage that does not hold — recurs when the comparison is teacher feedback against AI-assisted peer feedback rather than GenAI alone. [[teacher-vs-ai-peer-feedback-l2-writing-2026|Tang, Li, and Luo (2026)]] ran an eight-week quasi-experiment with 61 Chinese L2 writers (244 graded texts) working from one five-dimension checklist, with one class receiving teacher written feedback and the other AI-assisted peer feedback. Teacher feedback produced far more comments — 316 items against 185 in the first task, concentrated on vocabulary and technical details — and the slightly larger immediate gain, but its improvement fell sharply by the second task while the AI-assisted peer class held steady and finished with the higher revision score. The AI-assisted peer comments were fewer but stayed anchored in content and structure, and their early lexical-diversity edge did not persist; neither mode moved syntactic complexity. The authors read the two as complementary [[scaffolding|scaffolds]] and propose an AI–Peer–Teacher hybrid, in which AI marks surface errors during drafting, peers negotiate content in revision, and the teacher targets what neither reached.
 
 Adding GenAI can also raise the quality of the peer feedback itself, but apparently only with prompt support. [[chang-genai-peer-feedback-collaborative-argumentation-2026|Chang et al. (2026)]] compared three conditions among 45 student teachers in 12 groups over four rounds of collaborative argumentation: plain peer feedback, peer feedback with GenAI, and peer feedback with GenAI under prompt scaffolding. The GenAI-supported groups outperformed plain peer feedback on argumentation performance, and the prompt-scaffolded group performed best on advanced elements such as "rebuttal data and warrant" and "addressing the opposing view". GenAI-supported groups produced more explanations, suggestions, and neutral or negative feedback, and the scaffolded group paired negative emotions with higher-order feedback content — [[critical-thinking|critical evaluation]] rather than passive acceptance. It is a small single experiment, but it isolates prompt scaffolding as the active ingredient.
@@ -96,6 +99,7 @@ The open questions are about the strength of the evidence, not only about design
 - [[scaffolding]]
 
 ## Connected Articles
+- [[ai-peer-feedback-l2-writing-engagement-2026]] — Integrated AI-plus-peer feedback raised all three engagement dimensions and all four IELTS writing dimensions
 
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)

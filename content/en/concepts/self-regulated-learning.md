@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T10:54:00-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -44,6 +44,9 @@ A systematic mapping of 84 AI–SRL studies found the research concentrated on h
 Crucially, SRL around AI is shaped by *perception* as well as behavior: [[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]] demonstrate that whether students perceive feedback as coming from AI or a human significantly affects their self-regulated learning and revision behavior — a reminder that the social framing of AI, not just its content, changes how learners regulate around it.
 
 Where GenAI enters the cycle decides its effect: mapping Zimmerman's forethought, performance, and reflection phases onto AI-mediated environments, a co-agency framework argues the point of entry determines whether the tool amplifies or erodes the learner's sense of control, and that offloading supports transformative learning only when the decision is intentional rather than routine ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
+
+
+A cross-sectional survey of 434 special-education undergraduates measures one such chain: [[generative-ai|GenAI]] literacy was positively associated with GenAI-assisted self-regulated learning behaviors (total B = 0.701), running mainly through learning [[agency]] (B = 0.345) rather than challenge emotions (B = 0.061) ([[genai-literacy-srl-special-education-2026|Yang et al. (2026)]]).
 
 ## Digital Support for SRL
 
@@ -190,3 +193,5 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[alatoai-ai-learning-environments-self-regulation-2026]] — A validated instrument for AI-supported self-regulation in adaptive STEM learning, with metacognitive awareness as the strongest predictor
 - [[iqbal-human-genai-support-essay-revision-2026]] — Support condition, not metacognitive judgment, drove revision strategy choice in an essay-revision experiment
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — Longitudinal: reflective AI use predicted critical thinking but not knowledge gain, with no Matthew effect
+
+- [[genai-literacy-srl-special-education-2026]] — GenAI literacy related to self-regulated learning behaviors mainly through learning agency
