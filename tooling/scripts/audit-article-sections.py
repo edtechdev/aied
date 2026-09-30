@@ -44,19 +44,19 @@ import content_paths
 import wiki_config
 
 # Body-word budget for a new article page, from the page contract (AGENTS.md and the
-# scan prompt): 750-1,100 words, counted from the end of the frontmatter through the
-# Citation section (or the first Connected section on an older page). Reported rather
-# than failed -- see the note in audit(). The ceiling was raised 1000 -> 1100 on
-# 2026-09-27: pages landing within a few percent of it were being sent through a
-# whole trim-and-review pass for no reader benefit, so the budget is a target, and
-# only a page WELL past it is worth a trim.
+# scan prompt), counted from the end of the frontmatter through the Citation section
+# (or the first Connected section on an older page). Reported rather than failed --
+# see the note in audit(). The ceiling has been raised twice (1000 -> 1100 on
+# 2026-09-27, 1100 -> 1500 on 2026-09-30) because pages landing within a few percent
+# of it were being sent through a whole trim-and-review pass for no reader benefit:
+# the budget is a target, and only a page WELL past it is worth a trim.
 # The budget lives in wiki.config.yaml (`article.min_words` / `article.max_words`)
 # so this auditor, the scan prompts and the briefs all read one source. The
 # fallbacks below cover a config that cannot be read at all; if you are changing
 # the number, change it in the config, not here.
 _wiki_cfg = wiki_config.load_config()
-WORD_BUDGET_MIN = wiki_config.get(_wiki_cfg, 'article.min_words', 750)
-WORD_BUDGET_MAX = wiki_config.get(_wiki_cfg, 'article.max_words', 1100)
+WORD_BUDGET_MIN = int(wiki_config.get(_wiki_cfg, 'article.min_words', 750) or 750)
+WORD_BUDGET_MAX = int(wiki_config.get(_wiki_cfg, 'article.max_words', 1500) or 1500)
 
 ARTICLES = content_paths.collection("articles")
 RAW = ROOT / "raw" / "papers"

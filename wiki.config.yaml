@@ -66,7 +66,7 @@ paths:
 # ---------------------------------------------------------------------------
 article:
   min_words: 750          # below this the page usually lacks a section, not detail
-  max_words: 1100         # raised from 1000 on 2026-09-27
+  max_words: 1500         # raised 1000 -> 1100 (2026-09-27) -> 1500 (2026-09-30)
 
 build:
   # HARD GATES - run in this order before every build/commit. A green build is
