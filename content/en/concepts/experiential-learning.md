@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
@@ -30,6 +30,7 @@ Experiential learning is closely related to [[active-learning]], [[project-based
 - **Robotics projects:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] uses a project-based, hands-on approach to teach robotics, addressing the lack of practical experience in classic programs.
 - **Simulation and embodied learning:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] lets beginners experiment with simulated robots, and [[embodied-learning|embodied]] robot interaction grounds learning in direct experience.
 
+- **AI as infrastructure for uncertainty, not efficiency.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] give a generative-AI role the job of generating disruptive events and cascading consequences in a business simulation, so teams revise plans under incomplete information, and warn that protected simulations can leave decision habits that become a liability outside the classroom.
 ### Two forms of hands-on learning in an AI-supported curriculum
 
 A thematic review of 32 peer-reviewed studies of hands-on learning in AI-supported design education
@@ -46,6 +47,8 @@ educative. Consistent with this, [[prompt-engineering|prompting]] alone did not 
 
 Experiential learning connects to [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]], and [[higher-ed]] professional preparation.
 
+Work-integrated experience can be the binding condition for advanced competence: across 89 sponsored capstone projects in a smart-manufacturing lab, advancement from Workforce Readiness Level 6 to 7 was gated by industry-embedded placements rather than additional coursework ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
+
 ## Connected Concepts
 - [[active-learning]]
 - [[project-based-learning]]
@@ -58,7 +61,6 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[virtual-and-augmented-reality]] — immersive practice as deliberate experience
 
 ## Connected Articles
-- [[ying-genai-journalism-assessment-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
@@ -67,11 +69,7 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[ai-lms-middle-school-longitudinal]] — AI-Integrated LMS Longitudinal Study
-- [[vargas-situated-learning-ai-review-2024]]
 - [[li-ai-science-situated-learning-teachers-2025]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[ai-personas-fieldwork-experiential-learning-2026]] — AI personas substituting for community fieldwork, with a five-indicator rubric for where the substitution fails (Elhajj et al. 2026)
 - [[hands-on-learning-necessity-age-of-ai-review-2026]] — Thematic review distinguishing Embodied Hands-on from Cognitive Hands-on in AI-supported design education (Yu, Liu & Zhu 2026)
 - [[shi-genai-experiential-learning-management-education-2026]] — a strategic management course reconfigured around three generative AI mechanisms

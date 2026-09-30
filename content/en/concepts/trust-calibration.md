@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -38,9 +38,12 @@ Instrument development is beginning to address that measurement gap directly: [[
 
 Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without verification) produces the uncritical acceptance documented in [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research, and compounds the [[hallucination-risk]] of confident errors. **Under-trust** (avoiding AI entirely) forgoes legitimate benefits. Both stem from the same root: trust based on appearance rather than evidence. Research on [[misconceptions]] shows students often default to over-trust because they assume an AI that "sounds right" is right.
 
+Higher trust does not buy better judgment: among 432 undergraduates solving Python problems with accurate and deliberately misleading AI suggestions, greater trust predicted *lower* appropriate reliance (r = -.42), students accepted 86.03% of the misleading recommendations, and the relationship was moderated by [[ai-literacy|AI literacy]] and need for cognition ([[trust-reliance-ai-education-2026|Pitts, Rani & Mildort (2026)]]).
+
 ### How calibration works
 
 - **Verification habits:** checking AI claims against primary sources and the "AI proposes, you verify" rule, rather than accepting plausible-sounding output.
+- **A risk-based verification protocol:** [[pearls-epistemic-verification-2026|Wang (2026)]] specifies six interdependent dimensions to examine — Process, Evidence, Access, Reproducibility, Legitimacy and Source — and directs verification at claims that are central, surprising, numerical or difficult to reverse, so effort tracks the cost of being wrong rather than the fluency of the answer.
 - **Context awareness:** recognizing that [[trust|trustworthiness]] varies by task — a well-trodden topic the model has seen extensively is safer than an obscure, high-stakes, or fast-moving one.
 - **Stakes adjustment:** applying more scrutiny where errors are costly (submitted work, medical or legal claims) and less where they are benign.
 - **Metacognitive monitoring:** tracking when and why one over-trusts, which connects calibration to [[metacognition]] and [[self-regulated-learning]].
@@ -125,7 +128,6 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[sidorkin-ai-generated-course-readings-2026]] — Bounded trust and instructor oversight in AI-generated course readings (Sidorkin 2026)
 - [[trust-calibration-chatbots-design-problem-2026]] — Trust calibration reframed as a design problem: a two-dimensional user typology and eight design propositions (Jaidka & Cai 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading: a tool that suppressed and contradicted its own warnings (Humble 2026)
 - [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Trust-gated inference and explainable-by-design assessment, with trust left unmeasured (Li et al. 2025)

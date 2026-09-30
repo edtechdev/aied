@@ -1,7 +1,7 @@
 ---
 title: Evaluative Judgment
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -74,6 +74,7 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 
 - **State it as an outcome.** If appraising work quality — including AI output — is what matters, write it into the [[learning-gains|learning outcomes]] and assess it, rather than leaving it as a by-product of the task.
 - **Assess the decision, not only the artifact.** Ask students to justify what they kept, changed, or rejected; this turns the thinking into evidence and makes substitution visible without surveillance.
+- **Name the judgment routine.** O'Byrne's Agency Check — Credible, Relevant, Acceptable, Nuanced — asks whether output is accurate, fitting, serviceable, and carries stance and voice; in a semester-long study, final artifacts from the most and least judgmental students looked deceptively alike ([[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne, 2026]]).
 - **Use exemplars and calibration deliberately.** Comparative judgment against strong, average, and weak exemplars is the mechanism the evidence supports, and AI makes generating those exemplars cheap — one of its clearest [[pedagogy|pedagogical]] uses.
 - **Prefer hybrid and reflective feedback over direct output.** Self-evaluation before AI critique, or self + peer + AI, preserves the [[agency]] that direct AI feedback erodes; design the feedback environment rather than just adding a tool.
 - **Build toward sustainable judgment, not momentary fixes.** Feedback that cannot transfer to the next task trains nothing durable.
@@ -119,7 +120,6 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 - [[hadra-ai-detector-accuracy-efl-2026]] — Detector inaccuracy and hybrid-writing failure: human judgment as the recommended replacement for the verdict (Hadra et al. 2026)
 - [[wright-transcription-not-generation-2026]] — Function, not platform: judging what a tool did rather than what it is (Wright 2026)
 - [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms and the Discernment Rate: grading the reasoning trail behind AI-assisted work (Austin 2026)
-- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
 - [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
 - [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — the Agency Check (credible, relevant, acceptable, nuanced) that structures each AI interaction

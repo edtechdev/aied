@@ -1,7 +1,7 @@
 ---
 title: Situated Learning
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:53:03-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
@@ -61,5 +61,4 @@ Situated learning connects closely to [[embodied-learning]] (both stress the gro
 - [[raffaghelli-situated-ai-ethics-2026]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[videla-embodied-ai-education-choreography]]
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design

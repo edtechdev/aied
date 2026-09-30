@@ -2,7 +2,7 @@
 connected_resources: [deeptutor]
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -206,7 +206,6 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI in clinical simulation
 - [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and the agentic-AI verification gap (Bozkurt et al. 2026)
 - [[ai-agents-complete-lms-assessment-validity-2026]] — AI agents completing LMS tasks; validity failure via the human-production assumption (Hadjisolomou & El-Haddad 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a describing agent as a learning-experience evaluator (predicts dropout, gives design feedback before students engage)
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD with AI agents in software PBL; automation vs. comprehension
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training

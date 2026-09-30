@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -29,6 +29,8 @@ reviewed_by: [editor]
 
 AI-ed evaluation spans several distinct objects of assessment. It can evaluate the **output** (is the AI's answer, grade, or feedback correct and reliable?), the **process** (does the tool support valid, defensible assessment and learning?), and the **agent** (does an AI tutor or agent teach effectively and behave appropriately?). Each requires different methods and raises different validity questions.
 
+The field's decade-long arc is itself a frame: [[xiong-ai-educational-measurement-review-2026|Xiong and Li (2026)]] trace three eras — Formative (2015–2018), Expansion (2019–2022) and Generative (2023–present) — across 313 articles, and argue that constructs and validity arguments must be rewritten for [[human-ai-collaboration|human–AI collaboration]], since [[item-response-theory|IRT]] and Classical Test Theory models were built on unassisted human performance.
+
 ### How AI-ed evaluation appears in the research
 
 - **Output reliability and ground truth:** [[ground-truth-reliability-aied|Modernizing ground truth]] argues that reliability problems in AI-ed evaluation often trace back to the reference data itself — the "ground truth" labels systems are judged against — and proposes four shifts toward improving reliability and validity. [[calibrating-trustworthiness-llm-education-2026|Calibrating trustworthiness]] co-designs evaluation metrics and visualizations with stakeholders so that trust in an AI tool rests on demonstrated, interpretable evidence.
@@ -52,8 +54,13 @@ AI-ed evaluation spans several distinct objects of assessment. It can evaluate t
 AI-ed evaluation is difficult for several reasons. First, **reliability is not enough** — a system can agree with a rubric yet misjudge pedagogy, as [[machines-misread-pedagogical-quality|human–machine alignment research]] shows. Second, **ground truth is contested** — what counts as a "correct" answer, grade, or teaching move is itself a judgment that varies across disciplines and experts, per [[ground-truth-reliability-aied|ground-truth modernization]]. Third, **educational validity is multidimensional** — [[assessment-validity]], [[formative-assessment]], and [[authentic-assessment]] each impose different criteria that a single accuracy metric cannot capture. Finally, **the target keeps moving** — agentic AI and [[multimodal]] models demand evaluation frameworks ([[agentic-ai]], [[tool-invariant-framework-agentic-ai|tool-invariant assessment]]) rather than reuse of text-model benchmarks. Evaluation findings are also subject to the same cross-cutting limitations that affect all AIED research — they age as AI improves, depend on reproducibility and FAIR practices, and may rest on proprietary systems — so evaluation results should be read with the caveats in [[limitations-in-aied-research]]. A further, emerging dimension is **resource sustainability**: on-premise deployments increasingly report energy consumption and hardware requirements (e.g., VRAM, mWh per query) alongside accuracy — see [[shen-sustainable-ai-knowledge-base-cs-education-2026|sustainable on-premise knowledge-base assistants]] — so that a complete evaluation weighs environmental and infrastructural cost, not just output quality.
 
 **Reliability does not guarantee validity.** [[melo-llm-classroom-observation-teach-2026|Validation of LLM-based classroom observation]] shows that a model can be highly stable across repeated evaluations yet still misalign with expert judgment, and conversely that models aligning well with experts are often more variable — reliability and accuracy decouple, so a single-pass accuracy figure can overstate dependability. The same study documents an **explicit-cue bias**: text-based LLM evaluators privilege explicitly verbalized behaviors and under-weight implicit or contextual evidence (e.g., sustained student [[self-regulated-learning|self-regulation]] where a rubric allows high ratings on absence-tolerant criteria), producing systematic rather than random disagreement. This underscores that measurement reliability is a prerequisite for — not a proxy for — valid interpretation, and that evaluation must include repeated-measures stability checks alongside expert-anchored accuracy.
+Even a validated long-horizon discourse model tracks independent outcome measures only weakly: NSPA's Student Reasoning and Teacher Uptake scores correlated with value-added models of teacher effectiveness at ρ = 0.10, so automated constructs need external outcome validation before they inform evaluation ([[nspa-neuro-symbolic-pedagogical-alignment-2026|Fang and Liu, 2026]]).
+
+Evaluation of simulated learners faces the same standard: a simulator is valid only if its behavior is *epistemically* faithful rather than merely fluent, so it should be scored against its stated behavioral goal and environment, not generic humanness — and automated judges match expert human preferences about 65% of the time ([[valid-student-simulation-llm-2026|Yuan et al. (2026)]]).
 
 **Aggregate accuracy hides who is served poorly.** [[drawedumath-vlm-struggling-students-2026|Evaluations of vision-language models on DrawEduMath]] show that overall accuracy obscures a systematic weakness: models underperform precisely on the student work that needs the most pedagogical help (erroneous, struggling-student work), so disaggregating evaluation by student proficiency and error status is necessary to avoid overstating capability and widening achievement gaps.
+
+**Binary correctness hides the failures that matter.** On a three-way step-diagnosis benchmark of 10,836 simulated pairs, seven LLM tutors classified optimal steps near-perfectly (F1 94–99%) but valid alternatives at F1 0–76% and incorrect steps at 4–55% — over-rejection and over-validation — and accurate diagnosis still did not yield actionable feedback ([[yasir-llm-tutoring-agents-2026|Yasir et al. (2026)]]).
 
 - **Reusing human instruments to evaluate LLMs needs a latent-structure check.** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] fit exploratory factor analysis separately for humans and six multimodal LLMs: LLM–human congruence stayed below the human–human baseline on both instruments, and parallel analysis retained different factor counts (five for humans versus four for LLMs).
 
@@ -67,6 +74,8 @@ The velocity of the systems being evaluated is a further constraint. [[ai-tutori
 - **Data fidelity is a separate evaluation problem from output quality.** Synthetic educational cohorts that reproduce each variable's summary statistics can still misstate the structure of the data: a weekly proximity graph over learners varied 2.6 to 4.9 times less across a term in the synthetic versions than in the real cohorts, so a fidelity score does not predict which analyses survive on real data ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake, 2026]]).
 
 - **In-distribution accuracy is not deployability.** A Bloom-level classifier scoring a macro F1 of 0.88 on its curated item bank fell to 0.48 and 0.20 on two sets of AI-generated questions, a loss that tracked the near-absence of explicit Bloom trigger verbs rather than model size; untrained [[llm|LLMs]] were the most robust option out of distribution (0.79 and 0.41–0.51) and retraining on labeled out-of-distribution data recovered the largest gains (up to 0.82), so transfer belongs in the report alongside in-distribution fit ([[bloom-classifier-ai-assisted-questions-2026|Castanares et al., 2026]]).
+
+- **An AI difficulty scale is an evaluation aid, not a grade.** AI difficulty estimates tracked problem-level pass rate strongly (rho = −0.871 across 79 problems) but weakened to −0.552 on a 106-problem CS101 sample and approached zero at exam level, so such scales belong in item review, not student evaluation ([[llm-difficulty-calibration-programming-exams-2026|Yan et al. (2026)]]).
 
 ### Connections to related concepts
 
@@ -132,16 +141,13 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[socratic-tests-conversational-assessment]] — The Theoretical Foundation of Socratic Tests
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
 - [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
-- [[zerkouk-comprehensive-review-its-2025]] — Comprehensive Review of Intelligent Tutoring Systems
 - [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of generative AI educational outcomes
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
 - [[elbench-education-llm-benchmark-2026]] — ELBench: education LLM benchmark
-- [[teaching-monster-pck-benchmark-2026]] — Teaching Monster: PCK benchmark
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytic evaluation of adaptive + AI EdTech
 - [[xiong-ai-educational-measurement-review-2026]] — AI's role across scoring, psychometrics, assessment
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analytic evaluation of AI literacy outcomes
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
 - [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
 - [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills

@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T09:21:40-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -52,8 +52,11 @@ Key findings:
 - **Kosmyna et al. (2025):** Students who used AI essay assistance were **83% unable to recall quotes** from their own essays, vs. 11% for non-AI users — indicating they did not engage with the content during production.
 - **Stadler et al. (2024):** General-purpose AI reduced cognitive load but produced **lower-quality reasoning** vs. traditional search, suggesting metacognitive engagement was displaced.
 - **Lehmann et al. (2025):** General AI for [[cs-education|programming]] harmed understanding for low-[[prior-knowledge]] students — the students most in need of metacognitive scaffolding received answers instead.
+- **Metacognitive laziness.** The field names a distinct failure mode in which learners abdicate their metacognitive responsibilities to the tool — adopting the term *metacognitive laziness* for the resulting illusion of competence, and warning that its cognitive risks fall hardest on novices and weaker self-regulators ([[lodge-loble-cognitive-offloading-2026|Lodge & Loble (2026)]]).
 
 Fluency is why the loss goes unnoticed. Learners judge their learning partly from how easily material is processed, and Bjork et al. (2013) show that fluency cues lead people to overestimate their understanding when content feels easy; fluent AI-generated text supplies that feeling whether or not comprehension followed, creating the conditions for a manufactured illusion of competence. [[generativism-learning-theory|Generativism]] treats this as the reason adaptive metacognition cannot be assumed: the learner has to ask whether ease of reading reflects understanding rather than reading the ease as the answer.
+
+**Awareness does not guarantee that completion stops.** [[metacognitively-discordant-completion-genai-2026|Jia (2026)]] names *metacognitively discordant completion*: a learner who invested real effort, holds a formed first-person verdict that understanding has not arrived, and releases the work anyway — the case the fluency-illusion and withdrawn-effort accounts both assume away.
 Learners are also miscalibrated about AI's costs: participants predicted independent times accurately but underestimated AI-assisted time, and reported lower effort (0.61 points on NASA-TLX) while AI sped up only three of 24 tasks — a bias absent when the imagined helper was another person ([[cognitive-offloading-speedup-illusion|Yu et al. (2026)]]).
 The cost appears bounded rather than global: offloading degrades the specific skill practiced, not the underlying domain-general abilities, and surfaces on withdrawal: an endoscopy study found adenoma detection fall from 28.4% to 22.4% when the AI was unavailable, leaving source-monitoring (telling an AI's reasoning from one's own) an open metacognitive risk ([[ai-making-us-stupid|Cash et al. (2026)]]).
 
@@ -139,11 +142,9 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[cognitive-surrender]]
 
 ## Connected Articles
-- [[powerful-learning-with-emerging-technology-2025]] — Explainability and productive struggle as metacognitive design
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — a two-hour AI literacy workshop shifted middle-school students' LLM-interaction regulation, unlike their self-reported metacognition (Clerc et al. 2026)
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
 - [[du-yuan-epistemic-dependence-2026]] — Epistemic dependence in AI-mediated learning (Du & Yuan 2026)
-- [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
 - [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
@@ -156,12 +157,10 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[ai-metacognition-stem-review]] — AI tools scaffolding metacognition in STEM
 - [[ai-making-us-stupid]] — Is AI making us stupid? critique of cognitive offloading
 - [[stanford-evidence-base-ai-k12-2026]] — General-purpose AI suppresses metacognition by completing reasoning
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Miscalibration gap and metacognitive inequity with GenAI
 - [[ai-advice-suppresses-ikt-suspension-2026]] — AI advice suppresses willingness to say "I don't know", even with wrong advice and accuracy incentives
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and pedagogical best practice: the tension between automation and learning
 - [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning

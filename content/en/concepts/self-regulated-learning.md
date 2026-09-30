@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -36,9 +36,14 @@ SRL is the process whereby learners actively manage their own learning through t
 
 Proficient self-regulated learners employ cognitive strategies to improve success and utilize [[metacognition]] to refine their learning processes continuously.([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
+
+Empirical work in a technology-mediated course confirms the phase links: in an eight-week adaptive stochastics study (194 students), task value, self-efficacy, goal orientation and positive emotions in the pre-actional phase predicted actional regulatory behavior while negative emotions hindered it, and post-actional satisfaction fed forward into the next pre-actional phase ([[mejeh-fromm-srl-adaptive-learning-feedback-2026|Mejeh & Fromm (2026)]]).
+
 A systematic mapping of 84 AI–SRL studies found the research concentrated on higher-education students and on the metacognitive and cognitive aspects of self-regulation, with the motivational dimension underexplored and over a third of studies specifying no SRL theory at all ([[banihashem-ai-srl-systematic-mapping-review-2025|Banihashem et al. (2025)]]).
 
 Crucially, SRL around AI is shaped by *perception* as well as behavior: [[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]] demonstrate that whether students perceive feedback as coming from AI or a human significantly affects their self-regulated learning and revision behavior — a reminder that the social framing of AI, not just its content, changes how learners regulate around it.
+
+Where GenAI enters the cycle decides its effect: mapping Zimmerman's forethought, performance, and reflection phases onto AI-mediated environments, a co-agency framework argues the point of entry determines whether the tool amplifies or erodes the learner's sense of control, and that offloading supports transformative learning only when the decision is intentional rather than routine ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
 
 ## Digital Support for SRL
 
@@ -82,6 +87,8 @@ AI tools can enter this loop at different points:
 
 [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] reframes effective [[generative-ai|GenAI]] use in [[writing-education|academic writing]] as **strategic regulation** — an enacted SRL practice of verifying, revising, selectively adopting, or rejecting AI output. In a [[mixed-methods-research|mixed-methods]] study of 107 students, higher [[anxiety-and-stress|AI anxiety]] was positively associated with verification and revision (β=.24), while evaluative capacity predicted active revision and selective integration (β=.46). Students clustered into four regulatory types — Uncritical Reliance (18.7%), Selective Integration (34.6%), Evaluative Transformation (31.8%), and Strategic Rejection (14.9%) — showing that [[ai-literacy]] in [[higher-ed]] functions less as acceptance than as regulatory competence grounded in [[evaluative-judgment]] and [[ethics|ethical]] responsibility. This positions SRL as the core mechanism distinguishing critical from uncritical AI use.
 
+
+Classify before delegating: [[scan-framework-task-assignment-generative-ai-2025|Tsim and Gutoreva (2025)]] turn self-regulation into a per-task protocol — label each subtask Substitute, Complement, Aid or Non-negotiable, justify it in a short metacognitive note, and keep an audit trail of prompts, drafts and human revisions — with the cycle repeating so one task's assignment informs the next.
 **The interaction itself as an object of regulation.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström and Palmqvist (2026)]] document the same regulation demand from the other direction: in an eight-round demonstration using a chatbot to prepare a take-home [[summative-assessment|examination]] answer, the AI's default output stayed at the *[[quantitative-research|quantitative]]*, multistructural end of the SOLO taxonomy — polished, submission-ready and pedagogically thin — and reached a usable three-step learning loop only after repeated meta-level interventions ("this is overwhelming, can you condense it?"). Their conclusion is that productive use required "the very self-regulatory skills the tool was expected to support": the learner must set incremental goals, request difficulty adjustments, and reflect on what is not yet understood, on top of the disciplinary content itself. They name this capacity [[ai-literacy|AI-interaction literacy]] and treat disengaging from the tool as a legitimate regulatory decision rather than a failure of persistence ([[metacognition]]).
 
 - **Satisfaction is not self-regulation.** [[aigc-affordance-student-self-regulation-2026|Liang et al. (2026)]] surveyed 689 undergraduates in industry-education programs and tested a serial mediation model in which the perceived affordances of AI-generated content raise AIGC [[self-efficacy]] (beta = 0.583) and, through it, learning [[motivation]] (beta = 0.565) and self-regulated learning (beta = 0.250), with motivation the heaviest single predictor of SRL (beta = 0.527). The load-bearing negative results sit alongside those paths: the quality of AI assessment feedback predicted satisfaction strongly (beta = 0.712) but not self-efficacy (beta = 0.131), and satisfaction had no significant effect on self-regulated learning (beta = 0.032). A well-liked, well-functioning assistant is therefore not evidence that regulation improved — the mechanism runs through confidence and motivation, not through the learner's experience of the tool.
@@ -176,8 +183,6 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Mixed evidence on metacognition/self-regulation with GenAI
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and the self-regulation tension
-- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
 - [[decreasing-digital-distraction-college-online-learning-2026]] — SRL and lower digital distraction in online learning (Shi et al. 2026)
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: a learner-facing loop of task identification, justification and post-task reflection

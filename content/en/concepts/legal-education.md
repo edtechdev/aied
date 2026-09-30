@@ -1,7 +1,7 @@
 ---
 title: "Legal Education"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-09-18T07:00:00-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -36,6 +36,8 @@ The evidence base is currently thin and policy-heavy. One substantial article an
 - **Legal research.** Commercial platforms such as Lexis+ AI and Westlaw Precision with CoCounsel embed generative features in the tools students are already trained on, which makes "AI use" hard to separate from ordinary database searching. Gutowski and Hurley note how much of the familiar workflow this compresses: identifying authorities and secondary sources in minutes instead of hours.
 - **Drafting and writing support.** Initial case briefs, outlines, memoranda, first-pass syntheses and sentence-level feedback on clarity and grammar. The authors place AI-generated work in the same supervisory relationship as work by a paralegal or junior associate: a lawyer remains responsible for its accuracy and legal sufficiency.
 - **Study and bar preparation.** Generating practice questions, fact patterns, and "hypotheticals" for timed practice, and tutoring on recurring weaknesses. Gutowski and Hurley pair this with the observation that generative AI now passes both the Bar Exam and the Multistate Professional Responsibility Exam, which they read as saying more about the minimal-competency bar than about the model.
+
+- **Task-specific profiles, not a leaderboard.** Under a blind protocol, the same out-of-the-box models that reached human bar-exam levels (cumulative scores 26–79 of 100) all failed the notary exam, which requires goal-directed legal planning under strict formal constraints — and were misled by deliberate traps embedded in it ([[llm-turing-test-italian-legal-exams-2026|Bertoli et al. (2026)]]).
 - **Journals, moot court and advising.** Screening submissions, preparing advocacy, and academic support programs using custom models trained on past exams, model answers and course materials.
 - **Assessment and integrity.** The recurring problem cases: undisclosed drafting, citation to non-existent authority, and exams that no longer measure unaided analysis.
 

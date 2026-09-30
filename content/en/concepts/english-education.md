@@ -1,7 +1,7 @@
 ---
 title: English Education (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-09-30T06:12:25-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -81,6 +81,8 @@ AI's English dominance is a defining feature of this strand. Because models are 
 - **Integrate AI ethically into EAP.** [[alharbi-ethical-genai-eap-2026|Ethical GenAI in EAP]] calls for transparent, responsible use in [[higher-ed]] English teaching that preserves academic integrity.
 - **Expect cautious, preparatory-first adoption.** A [[li-language-educators-genai-review-2026|systematic review of 23 studies]] (Li et al. 2026) finds language educators value [[generative-ai|GenAI]] most for behind-the-scenes preparation — lesson planning, materials creation, and writing support/feedback — while hesitating on direct classroom use, with primary concerns centering on [[academic-integrity|academic integrity]] (plagiarism and [[assessment-validity|assessment validity]]). Adoption is shaped by professional-identity, [[pedagogy|pedagogical]], technical, [[governance|institutional]], and integrity factors, and competency gaps map to episteme (understanding AI's capabilities/limits), techne ([[prompt-engineering]], AI-enhanced task/assessment design, detecting AI-generated text), and phronesis ([[ethics|ethical]] judgment, bias/privacy handling) — so EAP/EFL instructors should build these competencies deliberately and plan a "back-end then classroom" implementation.
 - **Differentiate by proficiency and need.** [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment]] and adaptive tutoring research support tailoring AI support and evaluation to learners' level rather than one-size-fits-all.
+
+- **Weight technology toward production.** A meta-analysis of 33 TEFL studies found a small-to-moderate overall effect (g = 0.38, reduced to 0.28 by trim-and-fill) that rose with educational level and favored productive skills — speaking and writing — over receptive ones ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
 
 ## Connected Concepts
 

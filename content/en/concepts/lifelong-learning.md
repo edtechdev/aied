@@ -1,7 +1,7 @@
 ---
 title: Lifelong Learning
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
@@ -62,6 +62,5 @@ Lifelong learning connects to [[adult-learning]] and [[professional-training]] (
 - [[ai-lifelong-learning-policy]] — AI in lifelong learning: opportunities and challenges in adult-education policy
 - [[community-centered-ai-education-adults]] — Co-designing community-centered AI education for adults
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 
 

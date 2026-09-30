@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -72,22 +72,17 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[student-experience]]
 
 ## Connected Articles
-- [[powerful-learning-with-emerging-technology-2025]] — Privacy as a safety obligation attached to agency
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] — Privacy concerns of pre-service teachers about responsible GenAI use (Kohnke et al. 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[automated-online-exam-proctoring-decade-review-2026]]
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[ai-fatigue-academic-contexts]]
 - [[ai-lms-middle-school-longitudinal]]
 - [[child-safety-genai]]
 - [[eduzone-llm-safety-k12]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[teachlm-post-training-llms-education]] — TeachLM: anonymization and consent for authentic learning data
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-preserving federated LLM cognitive diagnosis
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — What proctoring systems capture, and the privacy literature's absence from the evidence base

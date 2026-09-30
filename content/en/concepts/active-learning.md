@@ -1,7 +1,7 @@
 ---
 title: Active Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -33,6 +33,8 @@ AI-enabled active learning manifests across multiple forms in this knowledge bas
 ## How active learning appears in the knowledge base's research
 
 - **Interaction mode determines cognitive engagement.** [[ai-assisted-learning-modes-eeg|An EEG study of high school students]] compared Auto (AI solves independently), Interactive (student–AI collaboration with scaffolding), and Manual (no AI) modes: **Interactive produced the highest cognitive engagement and task accuracy**, while Auto reduced engagement and risked over-reliance. This gives a neurophysiological dimension to the argument that AI must keep students *doing* rather than watching.
+
+- **AI-supported inquiry is not automatically higher-order.** A quasi-experiment with 120 Grade 8 students found AI-supported [[inquiry-based-learning|inquiry-based learning]] raised creative mathematical performance and attitudes toward mathematics but produced no significant gain in critical [[problem-solving]] — a caution against reading creativity and affect gains as evidence of deeper reasoning ([[mujib-ai-ibl-creative-math-2026|Mujib et al., 2026]]).
 
 - **Exploratory and simulation-based active learning.** [[supplynet-visual-exploratory-learning|SupplyNet]] uses a contextual multi-agent LLM simulation to support visual exploratory learning in supply-chain education, pairing an interactive network view with a branching "what-if" timeline so learners trace causal dynamics rather than consume abstract content. [[curiobot-llm-tutoring-exploratory-learning|Curiobot]] and [[genai-assisted-problem-posing-physics-2026|problem-posing in physics]] similarly foreground learner-driven exploration.
 
@@ -107,6 +109,5 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 - [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: staged conversational post-lecture review
 - [[academic-league-of-ai-2026]] — Academic League of AI: project-based active learning
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 

@@ -1,7 +1,7 @@
 ---
 title: Affective Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -81,8 +81,6 @@ Affective tutoring intersects with [[hazra-safetutors-pedagogical-safety-2026|Sa
 - [[socratic-method]]
 ## Connected Articles
 
-- [[zerkouk-comprehensive-review-its-2025]]
 - [[ecnuclaw-k12-personalized-companion]]
 - [[epistemic-emotions-collaborative-problem-solving]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[nie-personavlm-long-term-personalization-2026]]

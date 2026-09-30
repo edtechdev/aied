@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -53,6 +53,7 @@ The knowledge base's research illustrates several complementary strategies:
 - **Fairness-aware modeling:** [[fair-explainable-edu-recommendations|The Hybrid HKG-GRU framework]] integrates **Group Distributionally Robust Optimization (GroupDRO)** for fairness alongside explainability and counterfactual stability, evaluated on Moodle logs (152 students, ~150k interactions). It demonstrates that recommendation systems can be trained to be fair and transparent, not just accurate.
 - **Debiasing estimators:** [[temporal-smoothness-debiased-kt|Temporal Smoothness Doubly Robust (TSDR) learning]] combines a propensity model with an error-imputation model, retaining unbiasedness if either is correct, to remove selection bias from knowledge-tracing mastery estimates.
 - **Prompt-level mitigation:** [[gender-bias-transfer-llm-writing|the gender-bias study]] shows a neutral prompt largely avoids inducing gender-differentiated language, so prompt design is a practical mitigation lever.
+- **Dialect-invariant training:** [[nspa-neuro-symbolic-pedagogical-alignment-2026|Fang and Liu (2026)]] show training dialect invariance in beats patching it on: dropping the style-transfer contrastive term nearly tripled the counterfactual flipping rate (4.3% to 11.8%) and widened the non-standard-dialect false-negative gap by ten points, while costing only 0.8 Macro-F1 and cutting African American Vernacular English false negatives by 18.4 points.
 - **Validated, language-independent scoring:** addressing [[ai-scoring-language-bias-physics|scoring bias]] requires scoring that separates conceptual understanding from linguistic quality, and auditing scores for language bias.
 - **Explainability:** [[xai-education-framework|XAI in education]] provides transparency into why a system produced a given score or recommendation, enabling detection and correction of biased behavior and supporting [[trust]].
 - **Pipeline-wide auditing:** [[antiskillbench-persona-skills-privacy-2026|persona-skills auditing]] and systematic audits like the paternalistic-filter study show the value of auditing models across identity conditions before deployment.
@@ -104,8 +105,6 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[zhan-chapman-genai-cs-education-2026]]
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[ai-scoring-language-bias-physics]] — Language bias in AI-based scoring
 - [[gender-bias-transfer-llm-writing]] — Gender bias transfer in LLM-assisted writing
@@ -121,7 +120,6 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - [[bias-representation-text-to-image-education-2026]] — Bias and representation in AI-generated text-to-image: systematic review (Alon et al. 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 
 - [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education

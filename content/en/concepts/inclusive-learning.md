@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -75,6 +75,7 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 - **Evaluate pedagogical quality, not just linguistic metrics.** [[text-simplification-its|MuTSE]] shows LLM output variability requires human-in-the-loop evaluation so that simplification helps rather than oversimplifies.
 - **Use AI to close performance gaps.** [[adhd-video-segmentation-computing-education|AI-segmented videos]] eliminated the ADHD performance gap — deploy adaptive AI where evidence shows it equalizes outcomes.
 - **Treat the security/accessibility trade-off explicitly.** [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]] models how anti-cheating measures can inadvertently exclude learners with visual-processing needs — weigh integrity against access.
+- **Access can turn on phrasing, not just format.** With the underlying task held fixed, model accuracy rose from 82.4% for low-literacy wording to 83.4% for expert phrasing, so requiring students to prompt better adds a new exclusion; a system-side rewriter that normalizes requests removed the significant gap without altering content ([[prompt-privilege-equitable-ai-access-2026|Jin et al. (2026)]]).
 - **Guard against AI reproducing exclusion.** [[genai-minoritized-knowledges-disability|Disability-centered critique]] warns that Anglophone, Western-centric training data marginalizes disabled ways of knowing — audit AI tools for epistemic justice alongside [[equity-in-ai-education]].
 
 ## Connected Concepts
@@ -118,7 +119,6 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 - [[suacode-african-students-motivations]]
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[special-r1-rl-special-education]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education

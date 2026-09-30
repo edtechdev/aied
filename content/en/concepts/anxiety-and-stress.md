@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -45,6 +45,7 @@ This cluster connects AI anxiety to [[privacy]], [[academic-integrity]], and [[e
 Beyond proctoring, AI use itself generates anxiety — about being replaced, about whether one's work is "really one's own," about competence. Crucially, this anxiety is **not purely negative**:
 - [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] finds **AI anxiety can be productive**: higher AI anxiety was positively associated with verification and revision behaviors (β=.24, p<.01), and evaluative capacity predicted active [[student-engagement|engagement]] (β=.46, p<.001). Kim's four regulatory types (Uncritical Reliance 18.7%, Selective Integration 34.6%, Evaluative Transformation 31.8%, Strategic Rejection 14.9%) show anxiety-driven scrutiny can transform students into more deliberate, self-regulated users of [[generative-ai|generative AI]] rather than passive adopters. This reframes AI anxiety from a barrier to a potentially useful signal that encourages closer scrutiny.
 - [[acceptance-ai-english-tools-2026|Acceptance studies]] show anxiety shapes whether learners adopt AI tools, and [[teacher-education-ai-literacy-sdt-2026|teacher-education research]] links AI anxiety to motivation and [[self-regulated-learning|self-regulation]].
+- **The disclosure dilemma.** In a survey of 409 undergraduates, comfort with instructors and perceived peer disclosure — not moral disengagement — were the strongest predictors of disclosing GenAI use, and non-disclosure read as strategic adaptation to peer norms and low interpretive trust rather than negligence ([[qu-wang-disclose-or-not-genai-2026|Qu & Wang (2026)]]).
 - [[aivaluate-anxiety-assessment-2026|AIvaluate]] studies student anxiety during AI-mediated [[assessment|performance-based assessments]], showing assessment anxiety persists and must be designed for.
 - **Moral panic and educator anxiety:** [[moral-panic-genai-classroom|the moral-panic framing]] shows faculty anxiety about GenAI mirrors earlier panics (calculators, search engines) — a [[teacher-role|teacher]]-side stress response that shapes classroom policy.
 - **Teachers' "state of vulnerability" and feeling "stuck."** [[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli et al. (2026)]] capture the *educator* side of AI anxiety directly: 24 Swedish university teachers described the emergence of GAI as alarming and overwhelming, and reported a **state of vulnerability** — low confidence, insecurity, and discomfort driven by limited knowledge of GAI's capabilities, limited exposure, and fear of "not being ahead of students." Teachers felt "stuck" between utopian and dystopian discourses, burdened by amplified responsibility for [[bias-mitigation|fairness]] and quality, and worried about feeling incompetent when assessing student work potentially (co-)produced with AI. This frames teacher AI anxiety as a genuine emotional and professional response to role reconfiguration — not mere resistance — and argues for supporting teacher confidence and well-being, not just tool training.
@@ -127,7 +128,6 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[acceptance-ai-english-tools-2026]] — Anxiety shaping AI tool acceptance
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher education, AI literacy, and anxiety
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — AI use intertwined with anxiety, trust, confidence
-- [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — Risk perception and academic-dishonesty anxiety suppress ChatGPT use
 - [[qu-wang-disclose-or-not-genai-2026]] — The disclosure dilemma as a source of student stress
 - [[kim-ai-anxiety-comprehensive-analysis]] — Comprehensive analysis of AI anxiety and interventions
 - [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Career adapt-abilities reduce AI anxiety

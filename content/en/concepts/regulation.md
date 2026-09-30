@@ -1,7 +1,7 @@
 ---
 title: AI Regulation in Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -77,7 +77,6 @@ Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[
 - [[student-regulatory-awareness-genai]] — Student regulatory awareness of GenAI
 - [[dot-framework-survey-2026]] — Technology-adoption frameworks
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[qian-governing-genai-higher-ed-policy-2026]] — Guidance over binding policy: internal AI rules across 50 innovative US universities (Qian 2026)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Law school GenAI policy scored on five dimensions: prohibitive by default, instructor discretion, periodic review (Gutowski & Hurley 2025)
 - [[wright-transcription-not-generation-2026]] — Over-inclusive AI prohibitions and the reasonable-adjustment duties they may engage (Wright 2026)

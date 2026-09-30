@@ -1,7 +1,7 @@
 ---
 title: Self-Assessment
 created: "2026-09-21T11:21:57-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -68,6 +68,8 @@ Developmental stage sets one boundary on accuracy, and the youngest learners are
 
 The measurement face also shows up in evaluation design, where self-assessment instruments are used as outcome measures. One study of AI-assisted assessment of complex reports in higher education explicitly evaluates learning with validated feedback literacy and self-assessment instruments alongside subsequent performance and comparison with a control group. That is defensible when the instrument measures a belief the study is actually about, such as [[self-efficacy]] or perceived competence, and misleading when it is treated as a stand-in for achievement. The recurring critique of [[ai-ed-evaluation|AI intervention studies]] applies with full force here.
 
+
+Measuring agency through post-task questionnaires and task-specific [[self-efficacy]] risks circular reasoning: the learner's estimate is read back as evidence of the capacity it is meant to indicate, and the alternative is dynamic analytics that track how self-assessment is used across successive cycles ([[self-directed-growth-generative-ai-learning-analytics|Mao (2025)]]).
 ## What generative AI changes
 
 The two faces converge under generative AI, because the tool attacks the link both of them rely on: that a learner's submitted work is evidence about the learner.
@@ -107,12 +109,7 @@ It also introduces a naming hazard worth stating plainly. **AI self-evaluation**
 
 ## Connected Articles
 
-- [[pedlow-genai-selfassessment-2026]] — Pre- and post-semester self-assessments on ethical GenAI use across nursing, health sciences, engineering and science cohorts (Pedlow et al. 2026)
-- [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy scripts versus calibration training in AI-assisted writing (2026)
-- [[scaffolding-srl-feedback-genai-human-peers]] — Three self-assessment cycles comparing scaffolded GenAI feedback with peer feedback, N = 118 (2026)
 - [[self-directed-growth-generative-ai-learning-analytics]] — Self-assessment placed at the center of a self-directed growth framework (2026)
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Validated self-assessment instruments used as learning outcomes in AI-assisted assessment (2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Structured self-assessments as process evidence for adaptive capabilities (Lodge et al. 2026)
 - [[age-tiered-ai-literacy-guidebooks-2026]] — Developmentally tiered AI literacy materials, with measurement of acceptance and validity (2026)
 - [[chatgpt-critical-creative-thinking-review]] — Triangulating AI feedback with peer, instructor, and self-assessment (2026)
 - [[yasir-llm-tutoring-agents-2026]] — Why feedback should not rest on a model's self-assessed reasoning validity (Yasir et al. 2026)

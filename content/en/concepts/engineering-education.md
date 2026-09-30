@@ -1,7 +1,7 @@
 ---
 title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -38,7 +38,11 @@ Engineering education research is distinctive because it sits at the intersectio
 - **Prompting strategy predicts performance, not usage volume:** among 128 fourth-year engineering students, AI Query Efficiency and AI-Driven Problem-Solving were the strongest predictors of academic success and remained significant after controlling for cumulative GPA ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
 
 - **Students' own metaphors exceed what the tools deliver:** [[ai-engineering-education-balancing-act|Kudina (2026)]] found 100 engineering students most valued LLMs for writing support, conceptual clarification and coding, yet framed them as "oracle" and "tutor" — authority and personalization a probabilistic text generator cannot supply, a "cruel optimism" that depends on verification skills students are still building.
+
+- **Embed AI in the discipline, not beside it:** a project-based thermal-engineering curriculum folded machine learning into existing thermal topics across introductory, application and advanced levels rather than adding computer-science courses, and undergraduates meeting only minimal entry requirements produced weaker projects than graduate peers ([[mechanical-engineering-ai-curriculum-2026|Li et al. (2026)]]).
 - **[[intelligent-tutoring|AI tutoring]] and feedback for [[quantitative-research|quantitative]] engineering courses:** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin et al. (2026)]] introduce Arthur, an AI teaching assistant that delivers real-time, personalized feedback on Calculated Formula Questions in an undergraduate Engineering Economics course — a domain where pen-and-paper, unstructured solutions have blocked prior AI support. Its full life-cycle pipeline (curating previously graded handwritten submissions, random-masking [[machine-learning|data augmentation]], per-question XGBoost diagnosis backbones, and a dialogue-based question-bank web interface) offers a scalable pathway for [[ai-feedback-quality|AI feedback]] across engineering courses that lack structured digital data, and the framework is designed to generalize to CFQs in other engineering disciplines.
+
+- **AI for sustainability, integrated rather than modular.** The four-pillar AI-SEE framework (intelligence-driven, green-empowered, responsibility-leading, practice-integrated) distributes AI across engineering coursework; in a 144-student transportation-engineering case, students reported engagement across personal, academic, professional, and social levels, with sustainability reasoning carried into families and peer networks ([[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]]).
 - **A tool-rich studio can depress efficacy without improving the product.** In a 27-student architectural design studio, teams using a generative-AI plus [[virtual-and-augmented-reality|XR]] pipeline showed larger pre–post declines in design [[self-efficacy]] (β = −1.675) and outcome expectancy (β = −2.088) than controls, while one headset per student produced no coordinated collaboration ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]).
 
 ## Signature concerns
@@ -60,6 +64,8 @@ The knowledge base's engineering education coverage is still developing. Sub-are
 - **Use multimodal, embodied assessment.** [[multimodal-embodied-cognition-oral-explanations-2026|Gesture + speech assessment]] adds diagnostic evidence beyond language alone — consider embodied cues when evaluating conceptual understanding.
 - **Prepare students for the workforce, not just the course.** The [[ai-engineering-computing-workforce-grey-literature-2026|Dual Train Problem]] urges durable AI competencies, ethics/governance, and skill-based credentials aligned with emerging roles.
 - **Model critical use and appropriate reliance.** [[tam-critical-use-genai-engineering-2026|Critical-use TAM research]] shows students rely on AI heavily for understanding tasks but less for assessment — guide them toward appropriate, verifiable reliance across task types.
+
+- **Teach AI use as a skill inside class time.** [[structured-ai-demonstrations-engineering-mechanics|Geng et al. (2026)]] ran nine instructor-led demonstrations, each 10–15 minutes at the end of a lecture and sequenced from tool literacy through strategic delegation to model evaluation — but students seeing no connection to assessment reported them redundant, so tie them to graded work.
 
 ## Connected Concepts
 

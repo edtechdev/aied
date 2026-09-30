@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Design Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -70,7 +70,6 @@ Design thinking in AI education is deeply entangled with [[human-ai-collaboratio
 - [[arts-design-and-media-education]]
 ## Connected Articles
 
-- [[rana-genai-design-thinking-2025]]
 - [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
 - [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
 - [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions with University Students

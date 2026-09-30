@@ -1,7 +1,7 @@
 ---
 title: Network Analysis
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
@@ -86,5 +86,4 @@ Network methods are used across the knowledge base's evidence base to answer que
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive offloading and prompting (SNA/network methods)
 - [[youtube-frames-chatgpt-education]] — ENA of YouTube frames of ChatGPT in education
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing (ENA)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

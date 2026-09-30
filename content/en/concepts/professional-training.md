@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -87,11 +87,8 @@ Professional training differs from academic education in its focus on applied sk
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[astra-atco-training-simulator]]
 - [[ai-adoption-training-public-sector]]
-- [[residencyrl-clinical-rl-training-2026]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — HiBob AI Skills Framework validated with instructors and employers
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[faculty-development-centers-genai-training-optimization-2026]] — Comparative survey showing institutional conditions, not national context, explain faculty GenAI readiness gaps (Bi et al. 2026)

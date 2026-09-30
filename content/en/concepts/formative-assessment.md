@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -48,6 +48,8 @@ A large body of knowledge base research examines AI-generated formative feedback
 - **Rubric-guided prompting and role-aware feedback:** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] showed that iterative rubric co-refinement — clarifying performance descriptors and explicitly accepting implicit indicators of learning — drove LLM–human agreement on student design work from 54.75% to 81.25% (Cronbach's Alpha rising from 0.393 to 0.798), with the largest gains in the cognitively demanding Iteration & Reflection category. Prompting the same model under instructor, peer-reviewer, and grant-reviewer roles produced distinct evaluative feedback, and post-revision LLMs were more consistent than some human raters in applying performance thresholds — positioning rubric-guided LLMs as calibration and co-design partners in formative feedback environments, with human-in-the-loop oversight remaining essential.
 - **AI feedback sustains participation and drives gains at scale:** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]]'s semester-long field experiment across undergraduate tutorials found that individual GPT-4 formative feedback (spanning all three Hattie & Timperley dimensions — Feed-Back, Feed-Up, Feed-Forward) sustained the highest participation across eight open-ended tasks, lengthened student answers, and produced the strongest content learning gains — an effect driven by reliable, consistent AI provision, since when high-quality textual peer feedback was actually received, peer outcomes matched AI's.
 - **Feedback futures:** [[feedback-futures-genai|Feedback Futures]] synthesizes a special issue and argues the question is not *whether* [[generative-ai|GenAI]] can produce feedback but how to design feedback that supports learning, distilling recurring tensions across the field.
+
+- **Most formative feedback is momentary, not sustainable.** In a scoping review of 37 authentic-assessment studies, 23 used formative feedback for immediate improvement but only four used sustainable feedback that students transfer to future contexts — the reactive pattern current AI feedback tools reproduce ([[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud & Du (2025)]]).
 - **Diagnosis-first feedback for open-ended quantitative problems:** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Arthur (Yin et al. 2026)]] delivers real-time, personalized formative feedback on Engineering Economics Calculated Formula Questions, a domain where handwritten, unstructured solutions had previously blocked AI support. A per-question [[machine-learning|XGBoost]] backbone diagnoses likely rubric-labeled mistakes from students' submitted numerical answers (average precision 0.81, recall 0.79), and a dialogue-based scheme requests intermediate answers only when prediction confidence is low — balancing feedback accuracy against collection efficiency within a question-bank web interface.
 - **Scale and limits of LLM formative feedback (systematic evidence):** a PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) finds LLMs can reduce teacher workload and deliver rapid, personalized feedback at scale — especially in large or [[higher-ed|higher-education]] cohorts — but that feedback is sometimes too generic or misaligned with the assigned grade and reliability slips on longer, [[multilingual-learning|multilingual]], or nuanced tasks, reinforcing that formative AI feedback is best deployed under educator oversight ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
 - **Adaptivity is a separable ingredient, not decoration:** [[ai-feedback-adaptivity-children-plans-2026|Sukjaitham, Schaaf, Brod & Breitwieser (2026)]] supply the direct causal test that most LLM-feedback studies assume away, pitting GPT-4 response-contingent feedback against expert-written generic guidance matched on structure, tone, length, and [[motivation|motivational]] phrasing (verified with a five-dimension quality rubric, κ = .76–1.00). In a preregistered within-subjects experiment, 155 German fifth- and sixth-graders (M = 12.08 years) revised six if-then plans: plan quality rose from a median of **2 → 5** under adaptive feedback versus **2 → 3** under generic guidance (within-person V = 10,440, p < .001, r = .86; condition × time interaction estimate = 1.68, SE = 0.14, p < .001, with no pre-support difference). Children rated adaptive feedback both more helpful (r = .67) and more motivating (r = .74), and trial-level perceptions predicted the size of revision gains — making [[technology-acceptance-model|perceived usefulness]] part of the pathway rather than an affective byproduct. Because the control was itself well designed, the study shows added value *beyond* good non-contingent guidance rather than the difference between feedback and nothing: generic guidance is a genuine but limited substitute that plateaus at its own median. Planning served as the test case as a core [[self-regulated-learning|self-regulated learning]] strategy with explicit quality criteria, which makes contingency — the property that distinguishes [[scaffolding]] from static support — directly measurable on a one-sentence response. The authors define adaptivity narrowly as response-contingent adaptation of feedback content to the learner's concrete response, distinguishing it from conversational interactivity, tone, and stable-trait [[adaptive-learning|adaptive learning]].
@@ -89,6 +91,9 @@ Formative assessment in AI education connects to the learning process itself:
 - **AI-generated rubrics matched human scoring only within a margin.** Four AI rubrics met pooled equivalence with the human baseline within ±5 points across 308 programming responses (correlations 0.948–0.973), but five rubric–assignment cells exceeded it, and GPT-4.1/4o graded systematically harsher on structured rubrics (−4.46 against −0.66 for free-form) ([[harmogen-ai-assessment-rubric-generation|Mendonça et al., 2026]]).
 - **Validity and quality:** the [[ai-feedback-quality|quality]] and [[assessment-validity|validity]] of AI-generated formative items and feedback must be evaluated; [[ai-ed-evaluation]] provides the methods.
 
+- **AI scoring adds a validity threat.** Because an AI scorer can reward construct-irrelevant features such as language fluency instead of scientific reasoning, a Stanford/ETS white paper distilled from a ~100-leader convening argues assessment should accumulate continuous, context-rich evidence rather than certify one-shot outputs ([[responsible-assessment-ai-era-stanford-2026|McGee et al. (2026)]]).
+
+- **Keep the vulnerable task and add a twin.** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]] argue take-home essays and research reports carry substantial formative value and should be retained for learning, paired with a second task assessing the same outcomes that supplies reliable summative evidence.
 ## Risk: Assessment as surveillance
 
 Formative assessment systems can shift from learning-support tools to behavior-monitoring infrastructure. The same data streams that enable adaptive tutoring can enable punitive tracking if [[governance]] is weak. This connects to [[privacy]] and [[well-being|student well-being]], and argues for formative systems that support learning rather than surveil it.
@@ -124,14 +129,11 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
 - [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide approaches to redesigning assessment in the GenAI era
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Students' perceptions of multiliteracies development with AI-assisted portfolio assessment
 - [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: from provision to enactment
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of GenAI
 - [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[sequenced-ai-feedback-learning]] — Impact and pathways of sequenced AI feedback
 - [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — From automated scoring to learning diagnosis: a mechanism study of AI-supported formative assessment in English writing
@@ -152,7 +154,6 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
-- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
 - [[auto-marking-short-answer-science-2026]]
 - [[gpt4-feedback-student-activation-2026]]
@@ -160,7 +161,6 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[ai-feedback-adaptivity-children-plans-2026]] — Adaptivity makes feedback effective: evidence from AI-generated feedback on children's plans
-- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
 - [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Automated scoring, interpreting performance, and self-regulated learning (Chen & Liu 2026)
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Teachers' diagnostic skills in AI-supported formative assessment: from diagnosis to meta-diagnosis
 - [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — Perceived usefulness and intention to use LLM-generated feedback in programming across three educational levels

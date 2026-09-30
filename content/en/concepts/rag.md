@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, pedagogical-llm-training, edtech-platform]
 ethics: [hallucination-risk, pedagogical-safety]
@@ -26,6 +26,7 @@ reviewed_by: [editor]
 
 - **Domain-specific retrieval with notation awareness:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] indexes textbooks, 847 lecture slides, 312 solved practice problems, 156 worked proof templates and 89 complexity worksheets for theoretical [[cs-education|computer science]] courses, adding mathematical entity recognition and notation-aware re-ranking; it answered all 179 instructor-authored exam questions within a 240-second timeout (mean 38.0 seconds) but produced BLEU-4 = 0.0000 and a 0.7620 rubric score, which illustrates both the value of the architecture and the limits of the metrics used to judge it.
 - **Hallucination reduction:** [[eduguard-safe-rag-llm-tutor|EduGuard]] and [[eduzone-llm-safety-k12|EduZone]] use RAG to keep AI tutor responses grounded in verified educational content, reducing [[hallucination-risk]].
+- **Grounding is only as good as source inspection:** only 1 of 12 participants noticed a deliberately mismatched source card, so a provenance label can act as a seal of authority rather than an invitation to verify the retrieved material ([[veriforge-narrative-drafting-scaffolding-2026|Sun et al. (2026)]]).
 - **Curriculum-grounded tutoring:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] retrieves relevant curriculum materials to inform tutoring responses, ensuring alignment with course content.
 - **Textbook and materials indexing:** [[book-level-synthetic-textbook-organization|Synthetic textbook organization]] indexes educational content for retrieval. [[structrag-diagram-reasoning-ai-tutoring|StructRAG]] extends retrieval to structured diagrams.
 - **Training pipeline integration:** [[pedagogical-llm-training|Pedagogical LLM training]] uses RAG to ground tutor training in educational best practices.
@@ -60,6 +61,5 @@ RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation
 - [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
 - [[wiki-llm-indexing-ml-classes-2026]] — Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing

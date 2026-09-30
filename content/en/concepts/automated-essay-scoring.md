@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -36,6 +36,8 @@ Automated Essay Scoring has a long history in educational technology, from early
 - **Dimension-level trait scoring is bounded by the data behind each dimension.** [[automated-essay-scoring-critical-thinking-physics-2026|Firdausi et al. (2026)]] trained one classifier per dimension of Ennis's FRISCO critical-thinking framework on 106 Indonesian eleventh-grade physics essays (83 for training, 23 for testing, with three teacher raters agreeing at kappa 0.78–0.84 on every dimension). Agreement concentrated on expression rather than reasoning: quadratic weighted kappa reached 0.763 for Clarity and 0.728 for Situation but only 0.374 for Focus, 0.332 for Reason and 0.227 for Inference. The ordinal signal was manufactured rather than observed — synthetic level-1 essays (template generation, degradation to 20–40% of original length, keyword removal) plus LLM paraphrase lifted Focus by +0.346 kappa off a 0.028 baseline — and one configuration reached 0.652 accuracy with near-zero or negative kappa, so accuracy is not a usable selection criterion in ordinal AES.
 
 **Bias and fairness** is a critical concern. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** found that AI scoring systematically underestimates students from linguistically diverse backgrounds, highlighting the need for [[bias-mitigation]] and [[equity-in-ai-education]] considerations in AES deployment.
+
+**Disagreement with human graders is systematic, not random.** Out-of-the-box GPT and Llama models agreed only weakly with human scores (QWK ≈ 0.17–0.28 against 0.72 between two human raters) and biased in a quality-dependent direction — higher for short, underdeveloped essays and lower for long, strong ones carrying minor surface errors ([[llms-do-not-grade-essays-like-humans-2026|Mathew et al. (2026)]]).
 
 **L2 and self-referential assessment** explores non-native writing contexts. **[[self-referential-l2-writing-llm-assessment|Profile-based L2 assessment]]** uses a self-referential approach comparing student writing to their own prior work rather than native-speaker norms.
 
@@ -92,4 +94,3 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: self-confidence, weighted probabilistic scoring and ensembling improve LLM scoring agreement
 - [[swim-student-writing-simulation-2026]] — a frozen AES verifier used as a dense training reward for a writing generator
-- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing

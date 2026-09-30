@@ -1,7 +1,7 @@
 ---
 title: Virtual and Augmented Reality
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -89,11 +89,7 @@ The same logic explains why presence is not automatically good. Motion sickness,
 ## Connected Articles
 
 - [[genai-ar-physics-simulation-prompt-2026]] — four-element prompt generating hand-controlled AR physics simulations; 29-student pilot, perception-only evidence
-- [[multi-site-vr-immersive-learning]] — real-time multi-site VR classroom; usability and VR-sickness outcomes, UI consistency as the weak point
 - [[mixed-reality-engineering-learning]] — mixed-reality apps vs physical toolkits vs classroom in engineering mechanics; engagement up, complex visualization still hard
-- [[liu-emerging-tech-tefl-review-2026]] — TEFL meta-analysis where VR/AR produced the largest subgroup effects
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — intelligent VR for students with disabilities: positive but not statistically significant
-- [[vargas-ai-catalyst-situated-learning-2026]] — lack of immersive tooling as a barrier to situated learning
 - [[medgame-llm-medical-education-gamification]] — gamified medical training with AI
 - [[tech-enhanced-tabletop-cybersecurity-education]] — augmented tabletop scenarios in cybersecurity education
 - [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study

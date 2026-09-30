@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -42,6 +42,8 @@ Mainstream AI and educational-technology research has historically been dominate
 - **Designing for local stressors under resource constraints:** Bashir and Afzal (2026) build [[culturally-aware-student-stress-chatbot-2026|Sukoon]] as a Global South design response to a documented mismatch — mental-health [[conversational-ai|chatbots]] trained mostly on Western datasets and overwhelmingly English-language, while Pakistani students face academic, financial, familial, and relational stressors simultaneously and often cannot raise emotional difficulties with [[parents-and-families|parents]], [[teacher-role|teachers]], or peers because of stigma. The authors' practical constraints are as instructive as their model: a free-access [[open-source]] [[llm]] through a hosted API for low resource requirements, a lightweight Flask deployment for regional universities, "tools are available but often expensive" listed as a barrier, and unequal access to paid models flagged as a general dependency risk. They also note the classifier was trained on a publicly available dataset not representative of Pakistani students, and commit to locally collected DASS-21 data before drawing population conclusions.
 - **Thin and tool-specific assessment evidence from African higher education:** [[genai-assessment-african-higher-education-review-2026|A PRISMA 2020 systematic review]] of empirical research published between 2023 and 2025 located only ten studies, concentrated in Nigeria and South Africa and conducted almost exclusively on ChatGPT, so what is known about redesigning assessment for generative AI in African higher education rests on small-sample, single-institution, self-reported studies rather than measured learning gains — the review's authors frame their recommendations as directions rather than settled effects.
 
+- **Equity is the least-studied dimension across the region.** A PRISMA-ScR scoping review of 75 Global South studies (2022–2025) found equity the least-examined of its five areas despite its centrality to inclusive education, and reported a gap between students' stated ethical positions and their behavior ([[nguyen-genai-global-south-review-2026|Nguyen & Perkins, 2026]]).
+
 ### Implications
 
 Attending to Global South contexts requires moving beyond assuming Western models and benchmarks transfer directly. It calls for locally grounded datasets, culturally relevant [[pedagogy]], community-centered evaluation standards, and research that treats learners' lived and community epistemologies as authoritative — aligning with frameworks like community-based AI learning and [[technology-acceptance-model|technology-acceptance]] research adapted to local conditions.
@@ -72,7 +74,6 @@ The scaling record is part of that picture, and it is sobering. Programs that wo
 - [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana STEM Benchmark
 - [[genai-minoritized-knowledges-disability]] — Marginalization of minoritized knowledges
 - [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
 - [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning

@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -43,10 +43,14 @@ reviewed_by: [editor]
 - **Privacy tensions:** [[privacy]] concerns grow as analytics become more granular and AI-driven.
 - **A governance review framework for student data.** LEAGUE proposes six pillars — Lawfulness, Equity, Agency, Governance, Utility, and Ethics by Design — treating FERPA and GDPR compliance as the floor and recommending scheduled reassessment as models drift ([[league-ethical-governance-student-data-2026|Varadaraju & Vijayakumar (2026)]]).
 
+**Model course concurrency, not just sequence.** TRACE gives every course in a semester the same positional encoding, and jointly predicting courses and grades cut grade-prediction error to 0.1339 MAE — a 46.4% reduction over a grades-only transformer — on ten years of institutional data ([[trace-course-grade-prediction-2026|Savala (2026)]]).
+
 ### The learning analytics cycle
 
 Learning analytics is canonically framed as a cycle that begins with learner activity producing data, which is processed into measures and indicators that are then translated into **interventions** — and the intervention feeds back into learner activity to close the loop. The intervention step is what distinguishes analytics from mere monitoring or prediction: without it, analytics describe and flag but never change learning. This cycle is the organizing frame for understanding where AI tools (dashboards, feedback generators, prescriptive recommenders) sit in the pipeline and which step they automate.
 A learner-facing dashboard is only as good as its reach: in a Hong Kong Grade 9 writing study a prompt classifier reached a macro F1 of 0.757, about a third of the 46 students opened the three GenAI-use dashboards and the group differences in copying and learning-oriented prompting were not reliable ([[learning-analytics-genai-secondary-writing-2026|Fong et al. (2026)]]).
+
+A frequency encoding of qualitative data is an entry point, not a verdict: in a ten-participant study, some instructors read frequency encodings as a productive way in while others warned they obscure rare but critical responses, so the design keeps every aggregate view linked back to verbatim student text ([[wordstream-glass-learning-analytics|Nguyen et al. (2026)]]).
 
 ### From description to intervention
 
@@ -70,6 +74,9 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 
 - **Enablers of LA-based educational interventions (2026).** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify and prioritize seven enablers of trustworthy LA-based educational interventions via Delphi + AHP + SNAP: [[governance|institutional]] strategic orientation, pedagogical & other [[research-methods-aied|research]] foundations, available resources, pedagogical support, ethics & data governance, stakeholder engagement, and quality assurance. Institutional strategic orientation ranked highest (and most influential on other enablers), with available resources second. [[trust|Trustworthiness]] (ethical compliance, transparent/unbiased algorithms, pedagogical validity) is framed as the prerequisite without which LA-based interventions are not meaningful.
 - **LLM interaction depth predicts task quality but not recall (2026).** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] links turn-level LLM conversational telemetry (Depth/Volume/Pacing) to [[learning-gains|learning outcomes]]: explanation-seeking "depth" predicted independently marked task quality (β = 6.27) but not immediate recall — a dissociation between elaboration-driven comprehension and retrieval-driven consolidation that has implications for how [[llm]] interaction is measured and evaluated in LA.
+
+
+- **A shared interaction unit is missing.** Across 46 categorizations from 33 studies there is no shared meta-characteristic — similar labels name different phenomena — so the review proposes the *interaction episode*, a goal-directed bounded exchange, as the unit for correlating dialogue with skill acquisition ([[student-llm-interaction-taxonomy-review-2026|Borchers, Jansen & Weidlich (2026)]]).
 - **Simulating collaborative discourse for learning analytics.** [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] uses fine-tuned participant-specific LLM agents to reproduce collaborative problem solving dialogues, validated with Epistemic Network Analysis (ENA distance 0.17, permutation p = 0.65). The approach offers learning-analytics researchers a scalable way to generate authentic collaborative discourse for studying interaction dynamics, turn-taking, and thematic code trajectories without collecting new human data.
 - **Open, reproducible data and trace-ready analytics.** [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] releases a synthetic [[benchmark]] with a trace-ready schema (N=540; 360 sessions; 1,440 episodes) for analyzing interaction and participation balance in collaborative programming. Log and trace data are the natural counterweight to [[self-report-measures|self-report]] in this literature: the same construct is often measured twice, once by asking and once by observing, and the two do not always agree. Separately, an exploratory ML framework with SHAP analysis identified the learning-related constructs most associated with intended academic ChatGPT use among university students, prioritizing [[explainable-ai|interpretability]] ([[determinants-chatgpt-use-higher-education-2026]]).
 - **Reusable analytics infrastructure, validated only in-house (2026).** [[a4l-analytics-pipeline|Bai et al. (2026)]] reproduced published findings from three Georgia Tech AI assistants by changing configuration values rather than code, though the claim rests on reanalysis of existing single-institution datasets and the one capability extension was done by insiders.
@@ -128,7 +135,6 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[pulla-parsons-problem-tool-2026]] — Pulla: process-level behavioral tracing and instructor-facing difficulty analysis in Parsons problems (Prol et al. 2026)
 - [[a4l-analytics-pipeline]]
 - [[league-ethical-governance-student-data-2026]]
-- [[precision-education-student-digital-twins-2026]]
 - [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

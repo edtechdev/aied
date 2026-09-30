@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -43,9 +43,12 @@ The knowledge base's [[research-methods-aied|research]] examines pedagogy at the
 
 - **AI as a pedagogical agent.** AI tools embody pedagogies — a [[intelligent-tutoring|tutor]] built on [[socratic-method|Socratic questioning]] prompts learners to reason, while an answer-generating chatbot may default to direct provision (see [[reducing-ai-misuse]] on why the pedagogical stance matters). The [[agentic-ai|agentic AI]] literature shows that grounding agents in instructional-design theory outperforms raw [[prompt-engineering|prompting]]. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] reframe this role formally: rather than a dyadic instructor–[[student-modeling|student model]] with GenAI as an external supplement or threat, they propose a nested **instructor–student–GenAI triadic model** in which GenAI operates as a bounded *didactic-pedagogical mediator* within a shared didactic mediation space governed by institutions and stakeholders — yielding five researchable propositions on learning mediation, instructor-role transformation, AI literacy and learner agency, AI-transparent [[process-oriented-assessment|process-oriented assessment]], and institutional [[governance]].
 - **Pedagogy determines AI's effect.** A recurring finding is that *how* AI is used matters as much as *whether* it is used. [[instructional-guidance-genai-learning|Instructional-guidance research]] and [[generative-ai-guardrails-harm-learning|guardrailed-tutor RCTs]] show the same AI can harm or help depending on the pedagogical wrapper (hints vs. answers, structured vs. open use).
+- **Pedagogical knowledge outweighs technical knowledge.** Across 46 teachers and 2,832 students, teacher pedagogical AI knowledge predicted students' perceptions of AI for social good and their intention to learn AI, while technical knowledge alone was insufficient — and neither predicted students' AI knowledge ([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al. (2026)]]).
 - **AI's clearest contribution is offloading administrative work.** A PRISMA review of 28 studies found AI most often enhanced instructional planning and assessment design, with its most reported benefit the automation of grading, feedback and progress monitoring (18 studies, 64.2%) — while pedagogical alignment was the most cited challenge (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).
 **Automation and learning trade off directly.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] walk six pedagogical principles — prior-knowledge activation, [[collaborative-learning]], [[problem-based-learning]], [[formative-assessment]], [[scaffolding]], [[metacognition]] — through what proactive agentic initiative does to each, arguing the more an agent automates, the less cognitive work the learner does unless friction, dynamic fading, and human oversight are designed in.
 - **Teaching strategies for AI literacy.** Teaching students *to use AI well* is itself a pedagogical task — [[ai-literacy]] and [[reducing-ai-misuse]] research develops strategies (think-first/AI-second/reflect, AI-declaration, calibration training) that belong to this umbrella.
+
+- **AI-literacy instruction moves knowledge fastest.** A three-level meta-analysis of 59 studies (172 effect sizes) found knowledge-focused interventions (g ≈ .97) clearly outperformed those targeting skills (≈ .67), attitudes (≈ .68), or [[ethics]] (≈ .64), so pairing concept teaching with sustained practice targets the outcomes that resist instruction ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
 - **Pedagogy in teacher practice.** [[teacher-role]] and [[teacher-ai-competency]] examine how teachers adopt AI within their existing pedagogical repertoire, and [[pedagogical-llm-training]] / [[pedagogical-agent]] study AI tools trained to follow pedagogical principles.
 
 ## Relationship to learning theories
@@ -63,6 +66,8 @@ Different pedagogical strategies produce different kinds and sizes of [[learning
 - **Socratic and dialogue-based strategies** ([[socratic-method]]) target higher-order thinking and reasoning — gains that are harder to measure than skill gains but central to [[critical-thinking]].
 
 The key cross-cutting finding, consistent with the knowledge base's [[learning-gains]] research, is that **the strategy's effect on learning depends more on how it preserves learner effort and productive struggle than on which label it carries** — any pedagogy, even a "good" one, fails if AI is configured to bypass the cognitive work it was meant to elicit (see [[cognitive-offloading]], [[desirable-difficulties]]).
+
+That emphasis on preserved effort is not absolute: a four-study [[mixed-methods-research|mixed-methods]] design (N = 912) found that framing GenAI as a pedagogical partner activated both critical vigilance and strategic offloading, with offloading above a threshold freeing capacity for higher-order reflection rather than eroding it ([[wang-zhang-pedagogical-partnerships-genai-2026|Wang and Zhang (2026)]]).
 
 ## Implications for AI in education
 
@@ -108,7 +113,6 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 - [[jeon-isd-agent-bench-2026]] — Grounding agents in instructional-design theory
 - [[ai-learning-tools-engineering-education-needs]] — AI learning tools in engineering education
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI
-- [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instructional approaches in AI literacy interventions
 

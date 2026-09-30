@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Safety
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-21T13:04:27-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13]
 type: concept
 foundations: [cognitive-offloading]
@@ -45,6 +45,8 @@ Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and cont
 ### RL and alignment approaches to safety
 
 - [[pedagogical-safety-rl|Pedagogical safety in RL]] formalizes the problem: as [[reinforcement-learning]] personalizes instruction, poorly specified rewards invite "reward hacking" — test-score inflation, [[student-engagement|engagement]] gaming, and short-term gains. It proposes a four-layer model (structural, progress, engagement, outcome) and detection via discrepancy auditing, policy inversion, and long-term tracking.
+
+- **Guidance-oriented RL at mid-size.** [[singh-eduqwen-pedagogical-rl-2026|Singh et al. (2026)]] optimized a dense 32B model with DAPO reinforcement learning plus a filtered synthetic SFT stage to 96.52% on a pedagogical-knowledge benchmark, above a far larger proprietary system — though that score comes entirely from teacher-exam multiple-choice items, leaving free-form tutoring dialogue untested.
 
 ### Sycophancy and manipulation risks
 
@@ -90,7 +92,6 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 - [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
 - [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teacher-designed safety layers: domain boundaries, filtering, and override
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[eduzone-llm-safety-k12]]
 - [[eduguard-safe-rag-llm-tutor]]
 - [[hazra-safetutors-pedagogical-safety-2026]]
@@ -102,7 +103,6 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 - [[pedagogical-safety-rl]]
 - [[singh-eduqwen-pedagogical-rl-2026]]
 - [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[residencyrl-clinical-rl-training-2026]]
 - [[eduframetrap-llm-sycophancy-educational-safety]]
 - [[favero-critical-ai-tutors-empower-enslave-2025]]
 - [[sec-ai-literacy-narrative-review-2026]]

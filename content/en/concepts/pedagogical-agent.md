@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -55,6 +55,7 @@ A complementary use of role-based agents targets [[teacher-education|teacher]] p
 ## Practical guidance
 
 Design for the learner's agency, not the model's convenience. Favor tutoring-specific guardrails — [[scaffolding]], hints, [[socratic-method|Socratic questioning]], [[misconceptions|misconception]] targeting — over raw answer generation, since solving and teaching diverge. Distribute support by user role (parent vs child, peer vs peer) rather than through a single generic interface, and treat collaboration as a valid target for scaffolding. Don't assume students will take up scaffolding; evaluate uptake in real contexts. Build [[human-in-the-loop-ai|human oversight]] into authoring — as [[ai-tutor-authoring-promptdecipher|PromptDecipher]] does by making teacher QA of bot responses a first-class activity — and choose cheaper backends where quality holds. Report teaching and solving scores separately, and validate generated content with users rather than assuming generation equals usefulness.
+Learner preference is a poor proxy for scaffolding quality: students in AI-supported mathematical modeling performed best with Peer and Teaching Assistant roles yet rated the more directive Tutor and Excellent Student roles highest on usefulness and self-efficacy ([[preferred-scaffolding-ai-mathematical-modeling|Zhu, Yang and Yang (2026)]]).
  A review of 46 studies of AI agents in computer-supported collaborative learning distinguishes cognitive scaffolding, social facilitation and instructional orchestration, and finds cognitive gains consistent while behavioral, social and emotional outcomes are context-dependent — so the agent's function should be chosen for the outcome it is meant to produce ([[ba-ai-agents-cscl-review-2026|Ba et al. (2026)]]).
 
 ## Connections to related concepts
@@ -89,7 +90,6 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 ## Connected Articles
 - [[wang-teacher-student-centered-agents-physics-2026]] — Student-centered agent role outperforms teacher-centered role across performance, load, flow, and empathy (Wang et al. 2026)
 - [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME: conceptual framework for pedagogical agents in AR/VR — tutor vs role-playing partner, realism, presence, cognitive load (Ross & Kaspar 2026)
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-generated-interactive-fiction-education-2026]]
@@ -119,7 +119,6 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 - [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred scaffolding in AI-supported mathematical modeling
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[liao-role-adaptive-ai-companion-book-talk-2026]] — Role-adaptive AI companion for elementary book talk; affective ceiling of fixed-role agents (Liao 2026)
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: pedagogical avatars co-constituted with learners in creative networks
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
 
 - [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots

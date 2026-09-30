@@ -1,7 +1,7 @@
 ---
 title: Project-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
@@ -62,7 +62,6 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[arts-design-and-media-education]]
 ## Connected Articles
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
-- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
 - [[pbl-structural-conditions-ai-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
@@ -70,10 +69,8 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[genai-literacy-training-teacher-education-dbr-2026]] — AI Literacy Training for Teachers
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[teachlm-post-training-llms-education]] — TeachLM: project-based tutoring data from Polygence
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — PBL is a dominant CT learning strategy
-- [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: AI agents and robotics within the Project Approach in early childhood (Yang, Li & Lee 2025)
 - [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in team software PBL
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: an immersive VR design studio with an embedded teaching agent, evaluated against traditional PBL (Jin et al. 2026)

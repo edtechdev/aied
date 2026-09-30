@@ -1,7 +1,7 @@
 ---
 title: Administrators
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:53:03-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -33,6 +33,8 @@ AI adoption in education is not purely a classroom decision; it is also an insti
 ### How the administrator perspective appears in the research
 
 - **Policy and institutional decision-making:** [[ai-uk-higher-education-policy-2026|UK higher-education AI policy research]] finds that AI integration is accelerating but fragmented, with a gap between high-level policy ambition and institutional implementation — a recurring theme for administrators navigating strategy without clear operational guidance.
+
+- **A ten-domain taxonomy to organize the stack.** [[sposato-ai-educational-leadership-taxonomy-2025|Sposato (2025)]] synthesized 314 publications into ten domains — from administrative efficiency through governance and DEI — giving leaders shared vocabulary for matching a stated institutional problem to the domains that address it.
 
 - **Leadership structures lag strategic intent.** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] found only 7% of institutions had created senior AI leadership roles even though 49% treated AI as a strategic priority, with empowering and distributive leadership styles associated with higher faculty engagement and the theory-implementation gap widest where policy and infrastructure are weak.
 - **Well-being and student experience:** [[ai-campus-wellbeing-tools|AI campus well-being tools]] examine how institutions deploy AI for student support, linking administrator choices to [[student-experience]] outcomes.

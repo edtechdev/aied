@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -34,6 +34,8 @@ Educational development is the professional and institutional work through which
 - **Adoption and confidence:** [[teacher-ai-adoption-confidence|Teacher AI adoption research]] identifies concerns, support, confidence, and attitudes as key predictors. Faculty-development programs must address all four.
 - **Curriculum integration:** [[institutional-change-framework-ai|Institutional change frameworks]] and [[ai-assessment-scale-reform|assessment reform]] require faculty to redesign courses, not just add AI tools.
 - **Training programs:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-tpack-preservice-math-teachers|TPACK-based preservice training]] provide models for structured faculty [[ai-education|AI education]].
+
+- **AI-mediated professional reflection.** The Reflective Triangle Model positions AI as a cognitive mediator across self-reflection, collaborative reflection, and community reflection in a professional learning community, tested in a four-week feasibility case with six teachers; the boundary it draws is that individual insight does not automatically become shared professional knowledge ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance]] and policy:** [[genai-policies-higher-ed-computing|Institutional AI policy analysis]] documents the gap between institutional ambitions and faculty support capacity.
 - **AI literacy is institutionally invisible.** A systematic review of 32 studies of language-teacher AI literacy found it absent from workload models, promotion policies and resource allocation, with development fragmented and accountability displaced across institutions and agencies — so literacy development defaults to individual effort rather than structural support ([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik & Duran, 2026]]).
 
@@ -73,6 +75,8 @@ For faculty developers, academic leaders, and [[stakeholders|instructional desig
 
 **Build toward curriculum redesign, not tool adoption.** The goal is faculty redesigning courses and assessment, not just adding AI tools. Ground professional development in course-level redesign work and assessment reform, and give faculty structured frameworks for doing so (e.g. [[ai-assessment-scale-reform|assessment scales]], [[institutional-change-framework-ai|institutional change frameworks]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
+**Convene the village, not the individual.** Across 12 academics and 17 students interviewed, GenAI-era assessment redesign exceeded any single academic's capability — inflexible processes, long lead times and workload burden were named — so the authors propose a program-wide team combining assessment-design, GenAI, subject-matter, program and industry expertise ([[nicola-richmond-programwide-assessment-genai-2025|Nicola-Richmond et al., 2025]]).
+
 **Run the series on the room's own data rather than imported best practice.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum and Finkelstein (2026)]] document a worked model from a large public R1 physics department: six biweekly sessions of 60 to 75 minutes, nineteen faculty participating across the series and about ten at any meeting, in which every session opened with local data or department-sourced materials, moved to small-group testing of AI against real anonymized student homework, and closed in collective discussion. What faculty found by testing was more useful than any package the facilitators could have imported — AI solved every problem they tried, but its feedback on real student work was uneven, prompt-dependent and surface-focused unless given explicit goals and rubrics, and students prompted shallowly and modified output superficially unless productive use was modeled. The first concrete output was a living repository of five entries — syllabus policy statements, classroom discussion materials, the student survey, AI-integrated homework tasks and assessment structures — which is why the authors treat the session structure itself as the argument rather than any content it delivered.
 
 **Anchor in a competency framework.** Development should also build **pedagogical [[prompt-engineering|prompt literacy]]** — the capacity to encode pedagogical intentions into prompts — since [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] finds it is pedagogical expertise, not AI fluency, that determines the quality of teachers' AI-assisted design work.([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])([[talebzadeh-ai-group-activity-roles-2026]])
@@ -88,6 +92,8 @@ For faculty developers, academic leaders, and [[stakeholders|instructional desig
 **Discipline-specific smart-classroom models.** [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao, and Wang (2026)]] show how a [[math-education|mathematics]] M.Ed. course can be enhanced with intelligent educational [[ai-technologies|technologies]] ([[automated-assessment|automated scoring]], personalized recommendations, multi-[[ai-feedback-quality|AI feedback]]) integrated across pre-, in-, and post-class stages within a three-dimensional smart-classroom framework. Their quasi-experiment found statistically significant gains in instructional-objective design proficiency, offering a transferable **D-T-E Model** (Disciplinary Demand–Technological Empowerment–Evaluation Loop) for [[teacher-education|teacher educators]] and educational developers looking to move smart-education frameworks from macro concepts into discipline-specific practice.
 
 **Benchmark against what faculty themselves report.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]]'s survey of 1,057 US faculty finds the institutional layer thin in ways program designers can measure directly: 59% judged their school unprepared to use generative AI effectively for preparing students for the future and 68% said it had not prepared faculty to use it for teaching and mentoring, while the structural response ran to a task force in 55% of institutions but an AI literacy general education outcome in only 13%. Faculty had not waited for policy — 87% wrote their own assignment-level rules against 48% who could point to an institutional one — and they named colleagues' resistance (82%) and unfamiliarity (83%), not mandate, as the obstacles to departmental adoption. For development programs this argues for treating peer norms, shared assignment-level policy language and explicit measures of institutional readiness as part of the intervention rather than leaving them to the policy document.
+
+**Instructor response reflects power centers, not attitude.** In an instrumental case study of 33 writing instructors, four polycentric power centers — the global GenAI trend, the university/department, colleagues, and students — shaped practice, and adjuncts constrained by limited discourse power shifted from detection toward teaching acceptable use ([[zuo-instructor-power-genai-writing-2026|Zuo et al. (2026)]]).
 
 ## Connected Concepts
 
@@ -106,7 +112,6 @@ For faculty developers, academic leaders, and [[stakeholders|instructional desig
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
-- [[powerful-learning-with-emerging-technology-2025]] — Guidance for product teams as well as educators
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI alignment advice: developers recast as technology trainers
 - [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethical dimensions of AI: faculty and student views

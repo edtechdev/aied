@@ -1,7 +1,7 @@
 ---
 title: Embodied Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
@@ -27,6 +27,7 @@ Embodied learning is closely related to [[active-learning]], [[experiential-lear
 
 - **Grounded programming:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] grounds [[cs-education|block programming]] in embodied robot execution, creating a tight loop of authoring, running, observing, and revising so learners see their code become behavior.
 - **Social-robotic interaction:** [[educational-robotics|Social robots]] used for [[storytelling-in-education|storytelling]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), role-play ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]), and sign language ([[pepper-robot-sign-language-lis-2025|Pepper]]) provide embodied social interaction that supports relational and [[social-emotional-learning|emotional]] learning.
+- **Embodiment features are not what drives outcomes.** A meta-analysis of 11 RALL studies (N = 595, g = 0.83, I² = 84.4%) found robot morphology, modality, autonomy, and social role did not moderate L2 learning; group-based formats beat one-on-one, so the robot's position, not its embodiment, carried the effect ([[robot-assisted-language-learning-meta-analysis-2026|Wang et al. (2026)]]).
 - **Embodiment and creative writing:** [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Research on robot-LLM integration in creative writing]] examines how embodiment affects learners' interaction and outcomes.
 - **Human-robot interaction:** [[educational-robotics|HRI]] research ([[task-context-trust-educational-hri-2026|trust]], [[human-autonomy-agency-hri-review-2025|agency]]) examines how physical embodiment shapes trust, [[student-engagement|engagement]], and [[agency|autonomy]].
 - **Gesture as evidence of understanding:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] integrate computer-vision gesture tracking with [[llm]] analysis of speech to show that engineering students' conceptual understanding of statistics is expressed through both speech and gesture. High-confidence explanatory gestures cluster around specific concepts (especially the mean), and close gesture–speech coupling signals coherent conceptual talk while divergence marks developing ideas — positioning embodied action as evidence in [[assessment-validity|assessment]] via [[multimodal|multimodal learning analytics]], not only as a learning mechanism.
@@ -63,9 +64,7 @@ Embodied learning connects to [[educational-robotics]], [[educational-robotics]]
 - [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[vargas-situated-learning-ai-review-2024]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[videla-embodied-ai-education-choreography]]
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)

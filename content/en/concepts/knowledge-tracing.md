@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
@@ -35,9 +35,13 @@ Knowledge tracing transforms raw exercise responses into estimates of what a stu
 - **Semantic, recommendation-oriented KT:** [[exrec-exercise-recommendation-knowledge-tracing-2025|ExRec (Ozyurt, Almaci, Feuerriegel and Sachan, 2025)]] grounds the *input* rather than the architecture: an LLM annotates each question with solution steps and knowledge concepts aligned to the Common Core State Standards for Mathematics, contrastive learning aligns question, solution-step and concept embeddings (with false negatives removed by pre-clustering concept variants such as "interpreting a bar chart" and "reading information from a bar graph"), and a KC-calibration loss lets the tracer predict a concept-level knowledge state directly instead of inferring one by running the model over every question in that concept. The calibrated tracer then serves as the reinforcement-learning environment for exercise recommendation, where a model-based value estimation initialises the critic from the tracer itself. Across four tasks on XES3G5M averaged over 2,048 test students, non-RL baselines gave marginal or negative knowledge gains, value-based continuous methods beat policy-based ones, and the model-based value estimate improved them consistently — most sharply on the weakest-concept task, where the target changes at every step. Reported gains are percentage-of-maximum knowledge improvement, not learning outcomes, and the pipeline depends on generated solution steps whose quality the tracer inherits.
 - **Outcome-based knowledge tracing (OKT):** [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] trace student knowledge within Outcome-Based Education systems by treating **course outcomes as the knowledge concepts themselves**, and substitute expert-validated OBE "affinity mappings" between course and program outcomes for attention- or graph-derived concept relations. A Memory Augmented Neural Network (MANN) models how each outcome's attainment impacts others, and domain-adaptive BERT fine-tuning enriches the outcome embeddings (with a GRU backbone beating LSTM). On live [[engineering-education|engineering]]-program LMS data (2,416 students, 966 outcomes) OKT reached 89.81% AUC — outperforming DKT, DKVMN, EKT, and SimpleKT — while giving only competitive results on ASSISTments, confirming the advantage is tied to OBE-specific [[curriculum-design|curriculum]] structure.
 
+- **Snapshot-only tracing.** [[skill-acquisition-without-temporal-info|Nagai et al. (2026)]] induce a pseudo-temporal order from inclusion relations among learners' skill sets, treating expanding skill sets as learning progression so single-time-point snapshots remain traceable — but the formulation assumes skills are never lost, so deployments for learners who regress need an explicit forgetting mechanism first.
+
 ### Relationship to other concepts
 
 Knowledge tracing is closely related to [[student-modeling]] — while knowledge tracing specifically models cognitive knowledge over time, student modeling is the broader practice of representing all aspects of a learner ([[affective-computing|affective]] state, [[student-engagement|engagement]], preferences). Knowledge tracing feeds into [[adaptive-learning]] and [[personalized-learning]] systems that need to know what to teach next, and into [[intelligent-tutoring]] platforms that use mastery estimates to select appropriate problems. It connects to [[learning-analytics]] for dashboard and intervention design, and to [[cognitive-diagnosis]] for fine-grained skill [[assessment]]. Knowledge-tracing constructs also inform [[simulating-students|simulated students]] — a simulated learner's cognitive state is often formalized with the same mastery/decay dynamics that knowledge tracing models, so [[simulation]] is a way to *generate* the knowledge states that tracing methods normally *infer* from real response data.
+
+**A scope caveat: tracing estimates domain mastery, not higher-order cognition.** A 15-year review of 127 intelligent tutoring studies finds Bayesian and deep-learning tracing improved over the period yet still unable to model higher-order cognitive processes, metacognition, or motivation — the states an adaptive system would most need to target ([[zerkouk-comprehensive-review-its-2025|Zerkouk et al. (2025)]]).
 
 **A caveat: mastery is not correctness.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] show that BKT's two-state (learned/unlearned) assumption can be violated by *deceptive overgeneralization* — learners can appear mastered yet systematically misapply a skill when a hidden application constraint is violated. This argues for tracing conditional understanding (knowing *when to withhold* an action), not only action correctness, when mastery estimates drive [[adaptive-learning|adaptive]] stopping rules.
 
@@ -70,19 +74,12 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[multimodal-item-parameter-estimation-2026]]
 - [[huang-interpretable-knowledge-tracing-2026]]
 - [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[pattern-kc-programming-recommendation]]
-- [[proprl-prerequisite-relation-learning]]
-- [[reinforcement-learning-measurement-model-assessment]]
 - [[skill-acquisition-without-temporal-info]]
 - [[xie-hillm-cd-2026]]
 - [[zerkouk-comprehensive-review-its-2025]]
-- [[trace-course-grade-prediction-2026]]
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
 - [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantically grounded tracing with KC-calibrated states, used as an RL environment for recommendation
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
 - [[crediting-assisted-work-inflates-mastery-2026]] — Which evidence rule decides a mastery claim (Srivastava 2026)

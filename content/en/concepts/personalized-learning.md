@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -46,6 +46,7 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 ### AutoML for Learner Portraits
 
 Personalization is a central objective for improving educational quality, yet processing multi-source heterogeneous learning-behavior data remains a challenge. A personalized neural cognitive architecture search framework, driven by automated [[reinforcement-learning|machine learning]], builds learner portraits and generates diagnostic models for heterogeneous learner profiles, integrating multi-modal data to move beyond static examination outcomes.
+A static knowledge base cannot personalize: ontologies evolve slowly and handle uncertainty poorly, so the architecture matches representation to knowledge type — declarative to ontologies, procedural to rules, uncertain to fuzzy or probabilistic ontologies, implicit to analytics and machine learning — and prefers a system of small mapped ontologies to one monolithic model ([[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova, 2026]]).
 
 ## Relationship to adaptive learning and intelligent tutoring
 
@@ -60,6 +61,8 @@ A PRISMA 2020 review of 22 higher-education interventions places personalized-le
 - **System vs. perceived personalization** — A system can adapt without the learner feeling recognized
 - **Longitudinal validity** — Personalization benefits may decay if profiles become stale or overfit
 - **[[equity-in-ai-education|Equity]] risks** — Over-personalization can strand learners in low-expectation tracks
+
+- **Bias risks** — Conditioning on student attributes can encode stereotype: with essays held constant, feedback for students marked by race, language, or disability became more praising and less critical ([[marked-pedagogies-linguistic-bias-writing-feedback|Tan, Phalen & Demszky (2026)]]).
 
 ## Personalization and assessment
 
@@ -82,6 +85,7 @@ Bernstein and Sibia (2026) sharpen a distinction between interest personalizatio
 A third axis of personalization is the *goal*, and it is the input AI planners handle worst. [[personapath-personalized-learning-paths-2026|Liu et al. (2026)]] paired 2,000 synthetic learner personas with a 347-textbook, 4,092-concept prerequisite graph and asked ten LLMs to plan, step by step, which knowledge a learner should study to reach a stated target unit. The models produced structurally sound curricula — DeepSeek-V3.1 reached 90.9% on prerequisite-and-hallucination validity — while failing to adapt them to the learner: adaptivity topped out at 44.7%, DeepSeek-V3.1's final pass rate was 29.5% in Basic Education and 14.6% in Higher Education, and removing the mastery field from the persona cost up to 26.1 percentage points of adaptivity while leaving validity almost unchanged. Generating the whole path in one pass instead of interactively raised validity by as much as 30.8 points while cutting adaptivity by 28.8. The claim "personalized" is a claim about responding to a learner's state, and the state variable is the part these planners can most easily do without — a computational counterpart to the measurement concern above.
 
 A fourth axis is the *audience* rather than the individual learner: [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] regenerates an existing lecture for a named professional group (healthcare, finance, or energy), and its expert raters scored industry-framed versions 0.32 points higher on personalization depth (3.97 vs. 3.65) while audience calibration lagged (3.52). Tailoring to a cohort rather than to a learner is a cheaper and more tractable form of personalization, but the rubric that measured it assessed judged fit, not learner outcomes.
+Personalization can outweigh a human presenter: in a large online course (493 respondents), students ranked AI-generated personalized videos above non-personalized human-recorded ones (mean rank 2.26 versus 2.69) and 88.4% ranked some personalized video first, against 73.8% for human-recorded ([[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]]).
 
 ## Prompt-conditioned micro-personalization
 
@@ -119,20 +123,12 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[ai-powered-personalized-learning-elementary-fractions-2026]] — Personalized adaptive learning for elementary fractions
 - [[ai-coaching-rl-skill-development]] — Reinforcement-learning coaching for skill development
 - [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[trace-course-grade-prediction-2026]] — Course-grade prediction from learning traces
-- [[self-directed-growth-generative-ai-learning-analytics]] — Self-directed growth with generative-AI learning analytics
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in personalized automated feedback
-- [[nguyen-genai-global-south-review-2026]] — Generative AI in education across the Global South
-- [[vargas-situated-learning-ai-review-2024]] — Situated learning and AI review
-- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review: adaptive pathways & recommenders are a top AI integration use case in higher ed
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[sidorkin-ai-generated-course-readings-2026]] — Dual tailoring of AI-generated course readings along interest and comprehension dimensions (Sidorkin 2026)
 - [[personalization-paradox-adaptive-learning-emotions-2026]] — Personalization paradox: perceived adaptive personalization linked to lower self-regulated learning via academic emotions, buffered by AI literacy (Li, Lin & Qiu 2026)
 - [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM planners reach 90.9% validity but no model exceeds 44.7% adaptivity when personalizing paths to a stated learner goal (Liu et al. 2026)

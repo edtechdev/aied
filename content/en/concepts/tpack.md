@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-09-30T09:20:45-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
 technology: [generative-ai]
@@ -43,6 +43,8 @@ TPACK holds that effective technology integration is not the sum of separate kno
 The AI era has pushed the framework toward a technology-with-intelligence reading. Rather than a passive tool, generative AI is an active agent that can plan, generate content, tutor, and adapt — so integration knowledge increasingly includes **orchestration**: deciding when and how AI acts, scaffolds, or yields to [[human-in-the-loop-ai|human judgment]].
 
 - **Beyond discrete knowledge.** [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK research]] argues effective AI integration emerges not from possessing separate domains but from the dynamic interplay of **systems thinking**, **pedagogical beliefs**, and **[[self-efficacy]]** — challenging static, checklist-based models of teacher AI competency. Teacher archetypes (Systematic Optimizers, Prolific Creators, Passive Observers) emerge from how teachers design multi-agent instructional workflows.
+
+- **What integration frameworks leave out.** A co-agency critique holds that TPACK and SAMR address teacher knowledge and adoption levels but leave power, data ownership, and accountability unaddressed, so integration knowledge needs an explicit ethical boundary rather than another knowledge domain ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
 - **Cross-level evidence for the pedagogical core.** [[pedagogy-first-technology-second-teacher-knowledge-2026|A multilevel study of 46 teachers and 2,832 secondary students]] found technical AI knowledge alone was insufficient — even slightly dampening students' perceptions of AI for social good — while pedagogical AI knowledge (TPAIK) is what fostered students' perceptions and behavioral intention to learn AI. The result distills to a **"pedagogy first, technology second"** guideline that echoes the mediating-role findings above.
 - **A review lens for the whole field.** [[edurev-100741-tpack-genai-review|A systematic review from a TPACK perspective]] (Liu & Zhong, 2025) analyzed 71 empirical studies of GenAI in student learning, finding an overall positive effect (Hedges' g = 0.752) and identifying GenAI literacy for students and **GenAI-TPACK professional development for teachers** as the two critical priorities for the field.
 - **Proficiency alone does not predict pedagogical integration.** [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] measured teachers' Intelligent-TPACK to segment participants and observed that even AI-proficient novices relied passively on AI output during lesson design, whereas experienced teachers — with lower measured AI-TPACK — critically re-engaged and adapted AI suggestions to pedagogical context. The result reinforces the pattern above: AI-TPACK translates into sound classroom use through experienced pedagogical judgment, and [[teacher-education]] support must therefore target the *application* of AI knowledge, not its mere possession.
@@ -98,7 +100,6 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 - [[tpack-genai-inservice-teachers-mediation-2026]] — In-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge (Mohebi & ElSayary 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (TPACK-related DBR)
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[edurev-100741-tpack-genai-review]] — Integrating generative AI into student learning: A systematic review from a TPACK perspective
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
 - [[ai-tpack-preservice-math-teachers]] — AI-TPACK readiness among pre-service mathematics teachers
@@ -112,10 +113,7 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 - [[sec-ai-literacy-narrative-review-2026]] — Social-emotional competencies and AI literacy
 - [[genai-runaway-object-math-higher-ed]] — GenAI and mathematics in higher education
 - [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
-- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty self-perceived TPACK-21 knowledge for GenAI in higher education (Sutedjo, Chowdhury & Liu 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[ai-training-science-teacher-tpack-distance-2026]] — Comparative survey of 186 South African science student teachers: campus advantage in self-reported TPACK, and AI training associated with weaker reported TPACK at the distance institution
 - [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK and science teaching self-efficacy serially mediate AI literacy's effect on inquiry-integration intention (Zou et al. 2026)
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — AI-supported CTD-PBL module and pre-service physics teachers' TPACK and collaborative problem solving (Chen & Osman 2026)

@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -43,6 +43,8 @@ Facilitator endorsement is the strongest observed lever on whether students acce
 
 **Collaboration modes and the efficiency–regulation trade-off.** Empirical research on college students collaborating with AI for complex problem-solving identifies three distinct modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration*. The most efficient mode (delegated reasoning) yields the highest task performance but the lowest learners' self-regulatory engagement, while the mode with greatest self-regulation (concerted interpretation) underperforms on task outcomes.([[hao-human-ai-collaborative-problem-solving-cognition]]) This reveals a central design tension: collaborative-learning environments must balance the efficiency of the distributed human–AI system against the depth of learners' [[self-regulated-learning|regulatory]] engagement.
 The one meta-analytic contrast available for AI-supported collaborative work sits inside GenAI-supported PBL/PjBL interventions, where peer collaboration pooled at g = 0.885 against g = 0.416 for individual work, but the difference reached only a marginal trend (QM = 3.675, p = .055) and the individual-work side rests on two studies — so the pooled evidence that collaboration beats working alone under GenAI is suggestive rather than established ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
+
+A scoping review of 18 studies maps the same trade-off across group work: GenAI supported knowledge development, idea generation and communication efficiency while also reducing the demand for peer interaction, negotiation and collective sensemaking, and randomized evidence found more innovative AI suggestions without a significant gain in participants' overall innovativeness ([[wei-perkins-genai-student-collaboration-scoping-2026|Wei and Perkins (2026)]]).
 
 **Role design is a lever on the quality, not the volume, of collaborative knowledge construction.** [[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al. (2026)]] assigned rotating moderator, analyst and arguer roles across 58 [[higher-ed|graduate students]] and their AI partner in 16 groups, and found the structure lifted the *content* of group mind maps nearly a full SOLO band (M = 3.65 to 4.59, z = 3.771, p < 0.001) while node and branch counts stayed flat — organization rather than coverage — at the cost of a moderate rise in collaborative [[cognitive-offloading|cognitive load]] (p = 0.023). [[network-analysis|Lag sequential analysis]] added an evaluation self-transition and a conflict-to-defending path the tool alone had not produced, positioning [[human-ai-collaboration|human-AI collaboration]] as a design problem rather than a tool problem.
 
@@ -106,7 +108,6 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 
 ## Connected Articles
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
-- [[powerful-learning-with-emerging-technology-2025]] — Protecting human connection in AI-mediated collaboration
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[genai-counter-learner-groupthink-2025]]
@@ -131,4 +132,3 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
 - [[chen-zou-genai-group-assessment-agency-2026]] — GenAI as coordination infrastructure in student groups: intensified, restrained, and non-enacted use
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
-- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education

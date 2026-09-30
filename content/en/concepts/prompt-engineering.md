@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -31,7 +31,12 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 ### How prompt engineering appears in the research
 
 - **Prompting as cognitive trace:** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk et al.]] show that prompt patterns reveal [[cognitive-offloading|cognitive offloading]] — high-quality work uses context-rich, polite, and instructional prompts; low-quality work shows reactive disagreement without domain grounding
+
+- **Depth improves the product, not the retention.** In 22 postgraduates, the share of explanation-seeking ("why/how/explain") prompts predicted independently marked task quality (β = 6.27) beyond baseline knowledge and prompt volume, yet showed a null association with immediate recall ([[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]]).
+
+- **Prompt cognition tracks the discipline, not the student.** [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] classified 60,087 prompts from 116 courses and found Bloom-level profiles differed by discipline — STEM Apply-prevalent (20.8%), social science Create-prevalent (33.8%) — with course-level variance exceeding student-level variance.
 - **Prompting as literacy:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] and [[aaai2026-prompting-literacy-k12|K-12 prompting literacy]] research frame prompting as a core [[ai-literacy]] component
+- **Novices default to trial and error, and blame the model.** In a text-linguistics seminar, ten genAI novices refined prompts by trial and error, rarely reached for in-context examples, and overwhelmingly attributed poor outputs to the LLM rather than their own prompt formulation ([[llms-text-linguistics-teaching-2026|Brocca & Garassino (2026)]]).
 
 - **A regulatory cycle beats a prompt formula.** In a quasi-experimental pilot with 42 undergraduates, students taught the IDEA cycle (Intent, Deconstruction, Expression, Adaptation) produced higher-quality prompts and outputs than peers taught Role–Task–Context–Format prompting in all five task categories (adjusted prompt gains of +11.77 to +29.19 points) ([[idea-framework-metacognitive-genai-2026|Wang et al., 2026]]).
 - **Prompting as system design:** [[cotal-formative-assessment-scoring-2026|CoTAL]] uses [[human-in-the-loop-ai|human-in-the-loop]] prompt engineering for [[formative-assessment|formative assessment]] scoring; [[choi-anchor-aes-prompting-2025|anchor-based prompting]] improves [[automated-essay-scoring|automated essay scoring]]
@@ -39,7 +44,11 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 - **Prompting is the entry skill, not the discipline.** Gorsky (2026) frames [[ai-literacy]] for software professionals as the ability to manage [[agentic-ai|agents]] rather than to prompt them, naming framing, specification, context engineering, verification, multi-agent orchestration and auditability as the skills a curriculum must assess ([[ase-26-agentic-software-engineering-curriculum|Gorsky (2026)]]).
 - **Adaptive prompt routing:** [[learning-to-prompt-adaptive-tutoring|Learning to Prompt]] treats prompt selection as part of the tutoring system itself — subject-aware prompt routing over 14 pedagogical features, where a stochastic router selects the best prompt per conversation. This shifts prompting from a learner skill into an adaptive system-design lever, improving [[student-engagement|engagement]] and efficiency (28.1% vs 19.6% exercise conversion in a real-world A/B test).
 - **Prompt modalities:** [[voice-text-prompt-problems-computing-education|Voice vs. text input research]] examines whether prompting modality affects [[learning-gains|learning outcomes]]
+
+- **Prompting beyond text — scientific illustration.** Prompting can generate molecular and physical-chemistry figures quickly, but a locally persuasive rendering can still be wrong or carry representational bias, so students must interrogate AI-generated visualizations against chemical principles rather than trust them ([[unesco-ai-guidelines-chemical-education-2026|Li et al. (2026)]]).
 - **Scaffolded prompting:** [[guided-llm-scaffolding-independent-learning|Guided LLM scaffolding]] and [[scaffolding-critical-engagement-genai-minority-students|critical engagement scaffolding]] teach structured prompting as a learning intervention
+
+- **Coach prompting with fading support:** in ARPG+, a real-time coach diagnosed prompt quality across six dimensions and faded support as competence grew, lifting final prompt quality to 7.82 against 5.95 for static templates and 4.52 with no assistance ([[ye-arpg-real-time-coaching-llm-prompting-2026|Ye et al. (2026)]]).
 - **Task decomposition has an optimum:** generating tutor-training lessons in three segments produced the highest-rated lessons (mean 14.67) while a single pass scored lowest (10.67) and five segments fell back below three — moderate decomposition beats both extremes ([[lin-llm-interactive-lesson-generation|Lin et al. (2025)]]).
 - **Prompt privilege and equity:** [[prompt-privilege-equitable-ai-access-2026|Jin et al.]] show prompting expertise is unevenly distributed — users who phrase requests skillfully systematically get better output than those expressing the same intent less adroitly. Their Prompt Equity Transformer shifts prompt optimization from the user to the AI system, arguing that [[equity-in-ai-education|equitable]] output should be engineered into the model rather than demanded of novices.
 - **Prompt refinement plateaus; fine-tuning takes over from there.** Iterative prompt design yielded diminishing item-quality gains in L2 listening [[assessment]], but fine-tuning GPT-4.1 on the optimized prompt — the prompt held constant — produced more contextually grounded and balanced items, isolating model adaptation rather than prompt craft as the next lever ([[gpt-item-generation-l2-listening-2026|Aryadoust & Wong, 2026]]).
@@ -58,6 +67,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 
 - **Writing skill drives prompting, and both predict [[vibe-coding]] success.** In a preregistered CHI 2026 study (N=100), [[vibe-coding-writing-cs-achievement-2026|Thorgeirsson, Weidmann & Su]] found that written-communication proficiency predicted GUI-oriented vibe-coding performance (r = .29), with human-graded prompt quality *mediating* the link — response-process evidence that clear, structured prose translates into better natural-language programming prompts. Both writing skill and [[cs-education|CS achievement]] were independent predictors, and CS achievement (r = .39) carried roughly twice the unique variance, so improving prompting alone is unlikely to fully substitute for programming fundamentals in LLM-native development.
 - **Prompting strategy predicts performance.** An [[isaza-chatgpt-engineering-prompting-2026|empirical study of 128 engineering students]] found that AI Query Efficiency (clear, well-structured prompts) and AI-Driven [[problem-solving]] (strategic integration of AI output into reasoning) were the strongest predictors of academic success — even after controlling for GPA — indicating prompting is a teachable skill that shapes how effectively students learn with AI.
+- **Prompting style, not just prompt quality, tracks outcomes.** Traits derived from 1,540 tutoring sessions linked conceptual questioning to exam performance while task-delegation behaviors correlated negatively — but the same traits failed to replicate the following semester, so they are behavioral patterns rather than stable skills ([[principal-trait-analysis-human-ai-skills-2026|McNichols, Du and Lan (2026)]]).
 - **A usable taxonomy, and which prompt categories actually pay off.** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] translate technical strategies into the 3K model (*Kontext, Kernauftrag, Klarheit* — context, core task, clarity): eleven practice-oriented categories, each with a good/average/suboptimal rubric, and each tested as an experimental variation on feedback generated for pre-service teachers' learning goals. Domain-specific technical language was the decisive category — replacing subject terminology with everyday paraphrases significantly reduced feedback quality across three models (β = −0.412) — while adding concrete examples and removing the chain-of-thought instruction produced no significant difference from the baseline in the first study; examples did help once the analysis was rerun with the best-performing model-prompt combinations (β = 0.52). Prompt quality and model choice together explained 42.8% of the variance in rated feedback quality, which is the paper's case that prompt engineering is a measurable and teachable competency rather than a stylistic preference — and that its categories are not interchangeable in effect size.
 
 ## Connected Concepts
@@ -83,7 +93,6 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
 - [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: real-time coaching for educational LLM prompting
 - [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Task-based taxonomy of LLM tasks for critical AI literacy in journalism
-- [[ying-genai-journalism-assessment-2026]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
@@ -94,17 +103,10 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[choi-anchor-aes-prompting-2025]]
 - [[guided-llm-scaffolding-independent-learning]]
 - [[learning-to-prompt-adaptive-tutoring]]
-- [[llm-intervention-design-cs-review]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[tracing-genai-literacy-interaction-patterns]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[probing-ai-generated-physics-solutions-2026]]
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[teachlm-post-training-llms-education]] — TeachLM: prompt engineering as a stopgap
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 - [[isaza-chatgpt-engineering-prompting-2026]] — Prompting behaviors predict engineering student performance
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]

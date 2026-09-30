@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -41,6 +41,8 @@ Ethical AI use is not only a matter of principles but of how the people involved
 - **Faculty vs. students.** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever (2026)]], a [[mixed-methods-research|mixed-methods]] study of 971 students and 135 faculty, found both groups supportive of ethical AI use but in different registers: faculty emphasized ethical principles while flagging a lack of institutional guidelines, whereas students valued AI's learning benefits but voiced uncertainty about who shares ethical responsibility. Both worried that excessive AI use could weaken [[critical-thinking|cognitive skills]] — a concern that frames ethical integration as preserving learners' cognitive development, not merely regulating tool use. Faculty scored high on individual responsibility yet rated institutional guideline adequacy lowest (M = 2.99), exposing a gap between personal ethics and structural support.
 - **Students vs. instructors in readiness.** [[fekete-ethical-ai-literacy-gaps-2026|Fekete (2026)]] found students report higher ethical awareness than instructors (4.03 vs. 2.44), yet instructors show stronger willingness to use AI — students interpret ethics through immediate coursework while teachers treat it as institutional clarity and integrity. Both report weak institutional support, and readiness develops through different channels: instructors' moral awareness grows with institutional and social support, while students' confidence correlates with [[self-efficacy]] and collaboration rather than formal instruction.
 
+- **Use rises faster than ethical consensus.** Across four semesters in a US teacher-education program, students' GenAI use climbed from 57% to 83% for assessment preparation and 44% to 76% for studying, while 'unsure' ethical responses rose steadily and AI users rated its academic use as more ethical than non-users ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker et al. (2026)]]).
+
 - **Normative frames are not interchangeable.** Among 151 Spanish undergraduates, moral equity was a necessary condition for intending to use LLMs in exam preparation (d = 0.338) but not a sufficient predictor, while consequentialist (β = 0.350) and deontological (β = 0.329) judgments were — students apply several normative frames ([[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella et al. (2026)]]).
 - **A shared multidimensional structure.** The six themes in [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]] — spanning data ethics, algorithm ethics, and pedagogical ethics — form an interconnected causal chain from fundamental principles (transparency, accountability, fairness, autonomy) to behavioral outcomes, underscoring that responsible AI use depends as much on clear institutional roadmaps as on individual awareness.
 
@@ -53,6 +55,8 @@ The knowledge base's research increasingly locates ethics in institutions and st
 - **Policy robustness varies.** [[adarkwah-genai-unesco-policy-2026|Adarkwah et al. (2026)]], analyzing [[generative-ai|GenAI]] policies at 30 top universities against UNESCO's eight-component framework, found core ethical principles widely embraced but [[inclusive-learning|inclusion]], equity, and [[sustainability]] often neglected — and national AI-readiness ranking did not predict strong institutional policy. Policies tend to be declarative and misconduct-focused rather than operationally assured.
 - **Ethics & data governance as an enabler.** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify ethics & data governance as one of seven enablers of trustworthy [[learning-analytics]]-based interventions — positioning [[trust|trustworthiness]] (ethical compliance, data security, transparent algorithms, pedagogical validity) as the prerequisite without which data-informed educational change is not meaningful.
 - **A [[meta-analysis-systematic-review|systematic review]] of [[engineering-education|engineering education]]** finds ethical AI guidance is predominantly student-facing and compliance-oriented (centered on [[academic-integrity]] and disclosure), while reciprocal accountability for faculty AI use and institutional responsibility remain underdeveloped — a pattern heightened by engineering's professional stakes in public safety and [[well-being]]. ([[ethical-use-ai-engineering-education-review-2026]])
+
+- **The teacher as AI user raises its own ethics.** Eight areas of ethical consideration — professionalism, accountability, transparency, effectiveness, inclusivity, security, contextual fit, and policy and resources — frame teachers' AI use for feedback, and only 14 of 50 top-ranked universities had specific guidance for it ([[luo-eaton-ai-student-feedback-ethics-2026|Luo & Eaton (2026)]]).
 - **A consolidated value framework for AIED ethics.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], a [[meta-analysis-systematic-review|systematic review]] of 25 articles, consolidate the fragmented ethics literature into six main ethical values for [[ai-education|AI in education]] — non-discrimination, data stewardship, [[human-in-the-loop-ai|human oversight]], goodwill, explicability, and educational aptness — and map the ethical norms extracted from the literature onto a stakeholder-by-value matrix (developers, educational institutes, end users, regulators). The review finds norms distributed unevenly: developers attract the most, while end users receive the fewest and least actionable norms, and no norms on non-discrimination, data stewardship, or educational aptness address end users directly — student voices are essentially absent, with "end user" norms mostly actions other stakeholders take to enable teachers. The authors argue end users should have agency and active roles rather than being treated as passive beneficiaries, and note the values are tightly coupled and can conflict (e.g., explicability vs. accuracy/[[privacy]], non-discrimination vs. data stewardship), producing ethical dilemmas alongside power asymmetries between stakeholder sets.
 
 - **Responsibility named without a relationship.** Corpus analysis of 366 GenAI higher-education abstracts shows the field's responsibility vocabulary is largely adjectival: "responsible AI/GenAI" occurs 83 times across 59 documents and "responsible use" 66 times across 44, while "AI responsibility" and "student responsibility" never appear as exact phrases, and grammatical removal is routine - 800 passive constructions, 780 of them without any agent reference, alongside 1,152 responsibility-related nominalizations. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] finds no clause attaching a consequence to a system, so responsibility is recognized as a word without the relational agency that would turn it into action.
@@ -95,8 +99,6 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
-- [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: ethics, privacy, AI literacy (Kohnke et al. 2026)
-- [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
@@ -111,8 +113,6 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
 - [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
 - [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics: a cultural-historical framework for education
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
-- [[ssaho-ai-academic-integrity-review-2025]] — Culture of academic integrity as the ethical response to AI
 - [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgment: A Bibliometric Analysis (Mazlan et al. 2026)
 - [[adarkwah-genai-unesco-policy-2026]] — UNESCO generative AI policy framework analysis
 - [[luo-eaton-ai-student-feedback-ethics-2026]] — Is it ethical for teachers to use AI for student feedback?
@@ -120,7 +120,6 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[alharbi-ethical-genai-eap-2026]] — Ethical generative AI integration in English for Academic Purposes
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research

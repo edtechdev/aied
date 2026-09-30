@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -121,8 +121,6 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[ai-assessment-scale-reform]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-uk-higher-education-policy-2026]]
-- [[ssaho-ai-academic-integrity-review-2025]] — Call for explicit, co-developed AI-use policies
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Move beyond adoption-or-ban; staged, developmentally responsive guidance
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy (Perrotta 2026)
@@ -131,4 +129,3 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[li-genai-assessment-language-equity-2026]] — A purpose-based support–substitution boundary with calibrated disclosure and decision rubrics (Li 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading: grades changed undetected, and the policy-level response (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — 130 governance indicators for authenticating assessment, and the external pressure reform needs (Coates, Croucher & Calderon 2025)
-- [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community

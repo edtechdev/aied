@@ -1,7 +1,7 @@
 ---
 title: Distributed Cognition
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-30T09:21:40-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
@@ -74,7 +74,6 @@ Fowlin et al. (2026) operationalize that apportionment as a two-phase sequence: 
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Posthuman learner with cognition distributed across biological and artificial systems
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing distributed cognition alongside experiential and situated learning
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction in lesson design: AI-dominant vs complementary distributed cognition by experience and proficiency (Choi et al. 2026)
 - [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space: how access configuration distributes group cognition (Xu et al. 2026)
 - [[cognitive-distribution-student-genai-interaction-2026]] — Cognitive Distribution Framework: five interaction types and four roles from self-directed ChatGPT use

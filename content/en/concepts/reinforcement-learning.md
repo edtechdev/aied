@@ -1,7 +1,7 @@
 ---
 title: Reinforcement Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 pedagogy: [active-learning, scaffolding]
 technology: [adaptive-learning, intelligent-tutoring, llm, personalized-learning]
@@ -35,6 +35,8 @@ Reinforcement learning (RL) trains an agent by rewarding desired behavior — th
 - **Safety and skill transfer.** [[pedagogical-safety-rl]] integrates safety constraints into RL-based tutoring so that reward optimization does not come at the cost of learner well-being; [[ai-coaching-rl-skill-development]] shows RL-driven coaching that supports genuine skill development and transfer.
 - **What a reward leaves out shapes who benefits.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] found a deep-RL tutor rewarded on test score and time efficiency matched a BKT heuristic on posttest (A = .58 each, against 65.7) but assigned only 4% of training problems to constructive buggy-example repair and favored high prior-knowledge students.
 - **Simulation and practice.** [[history-aware-student-simulation]] and [[q-learning-lab-rl-teaching]] use RL and simulated learners to train and evaluate [[pedagogical-agent|pedagogical agents]], connecting RL to [[student-modeling]] and [[learning-analytics]].
+
+- **Long-horizon, safety-weighted RL.** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] optimizes whole 60-turn clinical encounters — well beyond the ≤12-turn horizons of concurrent dialogue systems — and training against adversarial simulated patients with a safety-aligned reward raised diagnostic accuracy 7.0% and cut missed red-flag rates by about a third.
 
 ### Evidence across the field
 

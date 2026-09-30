@@ -1,7 +1,7 @@
 ---
 title: Sociocultural Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:53:03-04:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
@@ -45,6 +45,8 @@ Sociocultural theory shapes AIED [[research-methods-aied|research]] in several d
 - **Apprenticeship and community.** Sociocultural ideas underpin cognitive apprenticeship, modeling, coaching, and fading; communities of practice frame learning as movement toward fuller participation in a community's practices.
 - **Cultural and [[governance|institutional]] context.** The [[constructivist|constructivism]]-adjacent sociocultural strand stresses that the cultural dimension shapes what counts as knowing, who is an authority, and what effort means — see the [[young-people-learning-generative-ai-rapid-review-2026|Sydney PreK-12 rapid review's]] learners–contexts–cultures framing.
 
+- **Validating talk measures requires the youth whose talk is measured.** Re-contextualizing talk-move definitions with four focal students raised LLM classification F1 by +0.104 for Claim and +0.23 for Question, and students' own interpretations diverged from adult and model framings — a structural limit of text-based classification, not a data-size problem ([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
+
 ### Connection to cognitive load and metacognition
 
 The sociocultural strand is tightly coupled to [[cognitive-offloading|Cognitive Load]] Theory (support should manage load without eliminating productive effort) and to [[metacognition]] (learners in the zone are actively monitoring and regulating their understanding). [[stanford-evidence-base-ai-k12-2026]] synthesizes [[k-12|K-12]] evidence that AI tools work best when they keep learners in the ZPD rather than answering for them, and [[human-in-the-loop-ai]] research addresses how human and AI support jointly define the learner's zone.
@@ -75,7 +77,5 @@ The sociocultural strand is tightly coupled to [[cognitive-offloading|Cognitive 
 - [[golrang-propact-pair-programming-2026]] — Collaborative AI tutoring
 - [[finkelstein-principled-ai-education-2025]] — Principled AI education frameworks
 - [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
-- [[text-simplification-its]] — Text simplification in ITS
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: co-creativity as network effect via Actor-Network Theory

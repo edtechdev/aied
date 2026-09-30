@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -64,7 +64,10 @@ Multimodal AI broadens both the *content* of assessment and the *signal* used to
 - **Educational vision-language model evaluation** and [[mllm-scientific-visualization-literacy|multimodal LLM literacy]] extend the field's evaluation toolkit to multimodal reasoning and [[visualization]].([[drawedumath-vlm-struggling-students-2026]])([[mllm-scientific-visualization-literacy]])
 - **Multimodal grading of handwritten [[chemistry-education|chemistry]] exposes a format-dependent capability boundary:** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] graded a 296-student handwritten general-chemistry final page-by-page against rubric images with a multimodal, reasoning LLM, scoring textual answers and chemical-reaction equations reliably (normed F1 highest) but drawing and graphing *worse than random* — background grids visually distract AI vision and scientific diagrams/chemical structures remain hard to interpret — reinforcing that multimodal AI's vision is not robust to representation-heavy work and is best deployed with [[human-in-the-loop-ai|human deferral]] of graphical items ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 - **Construct recognition and comparative judgment are separable skills.** [[cfes-p24-multimodal-slide-auditing-2026|Ma et al. (2026)]] express six multimedia-learning principles as reversible slide edits plus visual-equivalence sham controls, and find both models recovered every operation, principle and repair (8/8) while severity calibration failed entirely (0/8) — a composite score would conceal which layer fails.
+
+- **Fairness gains can be validated into existence.** A multimodal attention estimator beat a visual-only baseline only modestly, and its gender-targeted MAE-gap regularizer cut the validation gap from 0.02 to 0.005 yet increased the gap and worst-group error on held-out subjects — so subgroup-aware, repeated subject-level validation is required before deployment ([[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]]).
 - **Multimodal grading can reproduce a selection outcome even where item-level scoring lags.** Grading 10,364 handwritten Olympiad and university pages, an LLM matched examiner totals at r = 0.93–0.96 and placed the same five students on the Olympiad team, yet part agreement reached 70%: second-reader evidence, not a scorer of record ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
+- **Diagram generation is a capability frontier, not a solved one.** On a 15,246-question physics benchmark that scores multimodal output, synthesizing or editing structured physics diagrams proved harder than answering, and leading models stayed below 70% strict mastery — evidence that visual *production* lags visual *comprehension* ([[omniphys-multimodal-physics-benchmark-2026|Chen et al., 2026]]).
 
 ## Multimodal AI for language and accessible learning
 
@@ -108,7 +111,6 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Video PSA composition on AI ethics as critical AI literacy pedagogy (Burriss et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 - [[omniphys-multimodal-physics-benchmark-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
 - [[drawedumath-vlm-struggling-students-2026]] — VLM performance on handwritten student math work (DrawEduMath, Lucy et al. 2026)
 - [[multimodal-learning-genai]] — Educator's guide to multimodal learning with generative AI (MMLD-AI model)
 - [[syal-multimodal-dialogue-stem-2026]] — The Multimodal Interference Effect and structured-dialogue recovery in STEM
