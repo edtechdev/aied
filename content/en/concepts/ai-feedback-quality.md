@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-09-30T14:23:52-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 type: concept
 foundations: [ai-literacy]
@@ -29,6 +29,9 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 ### How AI feedback quality appears in the research
 
 - **Comparability to human feedback:** [[ai-generated-feedback-higher-ed|Studies in higher education]] find that AI-generated feedback is experienced as acceptable and supportive — comparable to teacher feedback. But acceptability does not guarantee learning effectiveness. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) likewise finds [[llm]] grading and feedback quality to be task-contingent — matching human raters on short, well-structured answers with detailed rubrics but degrading on complex, open-ended, or [[multilingual-learning|multilingual]] work, with feedback sometimes too generic or misaligned with the grade — and identifies prompt quality, rubric detail, model version, and assessment language as the dominant determinants of grading and feedback quality ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
+
+
+Student-perceived quality is more mixed than acceptability suggests: 77 of 93 undergraduates found AI feedback easy to understand, yet 68 found it repetitive and 79 self-contradictory; only 31 agreed it grades complex or creative writing, and 81.7% preferred human scoring for a final paper worth 40% of the grade ([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]]).
 - **A pooled anchor for the feedback mechanism.** A 53-study meta-analysis found GenAI feedback produced the largest effect in the study (g = 1.27), against g = 0.40 for achievement, credited to comprehension, timeliness and objectivity — though students can distrust AI feedback and its lack of emotional response may raise cognitive load ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
 
 
@@ -147,3 +150,4 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 
 - [[intelligent-tutoring-mathematics-education-review-2026]] — Narrative review of AI tutoring in mathematics: real-time feedback gains and implementation conditions
 - [[agent-type-feedback-style-self-directed-learning-2026]] — Socratic versus directive feedback styles: comprehension monitoring against prioritization, and the cognitive-load cost
+- [[when-students-prefer-ai-scoring-feedback-2026]] — Student-perceived AI feedback quality: understandable yet repetitive, trusted for mechanics not interpretation

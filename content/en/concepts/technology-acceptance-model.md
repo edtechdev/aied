@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-09-30T14:23:52-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -37,6 +37,9 @@ The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with
 
 ### Theory of Planned Behavior (TPB)
 TPB explains intention through attitude, subjective norms, and perceived behavioral control. It is frequently paired with TAM/UTAUT in AI-adoption studies — e.g. [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] integrate TAM, TPB, UTAUT, and the FATE ([[bias-mitigation|Fairness]], Accountability, Transparency, Ethics) framework to model the behavioral and [[ethics|ethical]] drivers of student ChatGPT adoption.
+
+
+Adoption research usually stops at intention; a TPB extension that instead measured delay despite a genuine intention found perceived behavioral control the strongest negative predictor of GenAI-assisted learning procrastination (β = −0.331) across 1,243 undergraduates, with the intention–delay link significant only at moderate-to-high learning GenAI anxiety ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]]).
 
 ### Diffusion of Innovation (DOI)
 Rogers' DOI theory explains adoption as a social process in which innovations diffuse through populations over time, emphasizing innovation attributes (relative advantage, compatibility, complexity, trialability, observability) and adopter categories. It appears in the knowledge base's [[governance|institutional]]-level analyses, e.g. [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] combine the Technology–Organization–Environment (TOE) framework with DOI to model organizational AI adoption in Saudi universities.
@@ -116,3 +119,4 @@ Risk's link to use also depends on the system: across the 49 TALIS 2024 systems 
 
 - [[capability-decision-model-teacher-readiness-2026]] — Ordered alternative to bolting TPACK capability onto Theory of Planned Behavior adoption models
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Person-centered TALIS 2024 profiles of perceived AI utility and risk across 49 systems
+- [[genai-learning-procrastination-planned-behavior-2026]] — TPB extension measuring GenAI-assisted learning procrastination and anxiety's moderation of the intention–delay link

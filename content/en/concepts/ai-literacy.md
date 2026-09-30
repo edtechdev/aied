@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-09-30T14:23:52-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -62,6 +62,9 @@ Research points to [[collaborative-learning|collaborative]] and [[active-learnin
 **Instructional emphasis and task openness reach performance through different needs.** [[yu-designing-ai-literacy-self-determination-2026|Yu, Lin and Chen (2026)]] randomized 320 undergraduates to four groups in a 2 x 2 experiment on an AIGC image-generation task scored with an objective rubric (ICC = 0.89) and found that thinking-based instruction, covering model limitations, critical evaluation and ethics, outperformed skills-based prompting instruction (M = 9.21 vs 7.69, F(1, 316) = 50.79, p < 0.001, partial eta squared = 0.138), with the wider margin on open-ended tasks (10.10 vs 8.00). The structural model shows the two design choices travel by different routes: instruction worked indirectly through autonomy (beta = 0.035) and competence (beta = 0.079), while task openness operated mainly through autonomy (beta = 0.029), competence was the strongest predictor of performance (beta = 0.358) and relatedness had no independent effect. What the instruction contains therefore matters more than whether learners get prompting practice, and it matters most when the task is open-ended.
 
 The variables surrounding AI literacy have since been mapped more broadly. [[ai-literacy-correlates-affective-behavioral-cognitive-2025|A 2025 systematic review of AI literacy's correlates]] synthesized 31 studies across 14 countries (N = 12,071) and found the most consistent associations in the affective and behavioral band: AI self-efficacy, positive AI attitudes, motivation and digital competence all moved with AI literacy, while AI anxiety and negative attitudes moved against it. Demographic variables barely registered, with age and socio-economic status correlating weakly or not at all. The review's caution is about instruments: the same studies that produced strong correlations from self-assessment also showed far weaker ones when AI literacy was tested rather than self-rated.
+
+
+A structural-equation study of 502 faculty respondents at one Chinese research university found AI literacy the strongest predictor of AI well-being (β = 0.713), against a small [[self-efficacy|technological self-efficacy]] path (β = 0.082), with social and organizational support reaching well-being only indirectly ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
 
 
 One apparent negative association reverses under control: among 303 Hong Kong undergraduates, technology anxiety correlated negatively with AI literacy (r = −0.14) yet predicted β = 0.15 in a joint model, an effect confined to critical evaluation and ethical competence ([[ai-literacy-determinants-university-students-2026|Chow et al. (2026)]]).
@@ -245,3 +248,4 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 
 - [[ai-literacy-determinants-university-students-2026]] — External resources, digital competence and psychological profile as joint determinants, with a technology-anxiety sign reversal
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Six-facet instrument adding responsible-use and self-development facets, scalar-invariant across adolescents, young adults and midlife adults
+- [[faculty-ai-well-being-social-supports-2026]] — Structural equation model of faculty AI well-being, social supports and AI literacy

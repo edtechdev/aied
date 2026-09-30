@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-09-30T14:23:52-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -31,6 +31,9 @@ Self-efficacy is distinct from actual competence: it is a belief about capabilit
 
 - **Declines under GenAI-plus-XR studio work:** in a 27-student architectural [[arts-design-and-media-education|design studio]], teams using a [[generative-ai|GenAI]] and multi-user XR pipeline showed larger relative pre–post declines in design self-efficacy confidence (β = −1.675, p = 0.021) and outcome expectancy (β = −2.088, p = 0.002) than teams continuing the normal workflow, with no significant difference in blinded panel ratings of their presentations ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). Tool-rich environments can depress efficacy beliefs even when the work itself is judged equivalent.
 - **AI self-efficacy and career readiness:** [[ai-literacy-career-adaptability-business-2026|Research on AI readiness]] shows that AI self-efficacy moderates the relationship between AI literacy and AI readiness: literacy translates into readiness only when learners have confidence in using AI, and self-efficacy directly predicts [[career-development-and-readiness|career adaptability]].
+
+
+- **Confidence is not always the lever.** A cross-sectional SEM of 502 university faculty found technological self-efficacy a small predictor of AI well-being (β = 0.082) while AI literacy dominated (β = 0.713), bounding the claim that confidence gates AI outcomes: for well-being, knowledge outweighed confidence ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
 
 - **Skills can enable dependency while efficacy buffers it.** Among 478 Israeli undergraduates, the skill dimensions of [[ai-literacy|AI literacy]] were positively associated with AI dependency (using/understanding AI β = 0.404) while AI self-efficacy was negatively associated (β = −0.132), so literacy training that builds only tool skill may increase reliance ([[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel et al. (2026)]]).
 - **Trust as the pivot between literacy and confidence:** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] surveyed 450 university students who already use ChatGPT and found an ordered chain rather than two parallel correlates: [[ai-literacy|AI literacy]] related to [[trust]] in the tool (beta = 0.50), trust to academic self-efficacy (0.48), and self-efficacy to continued use, with the serial indirect effect significant (0.07, 95% CI [0.04, 0.10]). [[anxiety-and-stress|AI anxiety]] weakened the literacy to trust link (interaction beta = -0.25, simple slopes falling from 0.76 to 0.25 across the anxiety range), so the same knowledge bought less confidence, and reached less use, among more anxious students. Confidence is thus a downstream link in the chain rather than a starting point.
@@ -86,3 +89,4 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Reported creative self-efficacy gains from generative AI in children (scoping review)
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — Speaking self-efficacy reverses the anxiety pathway from AI-assisted practice to willingness
+- [[faculty-ai-well-being-social-supports-2026]] — Faculty SEM: technological self-efficacy a weak predictor of AI well-being

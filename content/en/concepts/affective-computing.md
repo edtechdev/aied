@@ -1,7 +1,7 @@
 ---
 title: Affective Computing
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-09-30T14:23:52-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -27,6 +27,9 @@ reviewed_by: [editor]
 ### Sensing emotion to adapt instruction
 
 Affective computing aims to make AI systems emotionally aware so they can respond to how learners feel, not just what they do. In education this means sensing frustration, confusion, confidence, boredom, or engagement and adapting instruction accordingly. [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] demonstrates the approach by modeling affect from two modalities — conversational text and real-time facial expression — and mapping aggregated emotional state to [[pedagogy|pedagogical]] strategies before [[prompt-engineering|prompting]] the tutor.
+
+
+The signals themselves are ambiguous: a single expressive channel cannot reliably distinguish distress, effort, embarrassment, fatigue, or strategic self-presentation without the person, task, culture and situation that produced them — "contextual under interpretation" — so a classifier reading the visible signal alone risks recommendations that are plausible but pedagogically wrong ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]]).
 
 - **Emotional and reflective LLM support in middle-school math:** [[mindful-llm-math-tutoring-2026|Rief et al. (2026)]] layered mindfulness onto an algebra [[intelligent-tutoring|tutor]] for 7th graders via dynamic chats, breathing exercises, and mindful error-feedback language. In a small classroom [[rct]] (42 completers of 252 participants) the mindful version reached similar algebra learning in less time and with fewer requested hints than cognitive support alone — higher learning efficiency and more balanced [[help-seeking]] — though state-math-anxiety reduction did not differ significantly between conditions.
 
@@ -74,3 +77,5 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[sycophantic-ai-social-interaction-2026]]
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 - [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
+
+- [[ai-emotion-regulation-sport-exercise-2026]] — Reframing AI-supported emotion regulation: signals need context, not autonomous interpretation

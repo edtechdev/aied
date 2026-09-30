@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-09-30T14:23:52-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -67,6 +67,9 @@ Human-in-the-loop design has become central to the knowledge base's [[agentic-ai
 - **Validity and quality control.** HITL is a quality gate for [[automated-assessment|automated assessment]] and generation — humans adjudicate where automated scoring is unreliable (see [[llms-do-not-grade-essays-like-humans-2026|LLM essay grading]] [[research-methods-aied|research]]) and validate generated items. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 grading and feedback studies (2023–2025) reaches the same conclusion explicitly: LLMs match human raters on short, well-structured tasks but cannot fully replace human judgment on complex, open-ended, or subjective work, and the highest grading effectiveness is achieved in hybrid systems that combine AI-driven grading with teacher oversight and verification ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] show concretely where that boundary falls: ChatGPT-5 matched faculty on objective pharmacy-exam items (CCC 0.935–1.000) but was unreliable on short-answer and essay items even when given a rubric, leading the authors to recommend hybrid grading with human review for complex, subjective, or high-stakes assessment.
  Repetition is not a substitute for that oversight: regrading identical submissions on five different days, the same model reproduced its own results at only Krippendorff's alpha 0.625, with variation concentrated in the middle grades and A and F absent from the five-session counts ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **Learner agency.** Keeping a human in the loop preserves [[agency]] and supports [[self-regulated-learning]], countering the [[cognitive-offloading|over-reliance]] that fully autonomous assistance can induce.
+
+
+- **Students put the human at the high-stakes end themselves.** Among 93 undergraduates, 81.7% preferred human scoring for a final paper worth 40% of the grade, 75 of 93 wanted AI to assist rather than replace graders, and 69 wanted AI scoring always human-reviewed ([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]]).
 - **Trust and calibration.** Transparent human oversight supports [[trust-calibration]] — learners and instructors know a qualified human stands behind the system.
 - **Criteria visible before review raise agreement.** [[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] found that surfacing trustworthiness metrics to reviewers as they compared LLM responses lifted inter-rater agreement from Krippendorff's alpha 0.3987 to 0.4931, while adding further measures added cognitive overhead without return.
 - **Bounded agency as an architecture, not a disclaimer.** [[ilieva-agentic-genai-higher-education-2026|Ilieva et al.'s (2026)]] AGAI-HE framework for [[agentic-ai|agentic]] learning support builds supervision into the model itself, as a third layer alongside the pedagogical-workflow and agentic-support layers: it defines acceptable AI use, pedagogical boundaries, [[privacy]] rules, [[ai-use-disclosure|disclosure requirements]], source verification, instructor checkpoints, [[academic-integrity|integrity]] mechanisms, and final human accountability, and requires every agentic function to trace to a learning requirement, assessment purpose, or governance control. It is a concrete instantiation of the principle that HITL is a system-design property rather than a policy statement — and the authors' 130-student perception study is a reminder that adding agentic orchestration under that oversight did not, by itself, register as better learning support than a chatbot.
@@ -145,3 +148,4 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 
 - [[llm-grading-assistants-public-health-2026]] — Identical LLM grading reruns on different days reproduce at only Krippendorff's alpha 0.625
+- [[when-students-prefer-ai-scoring-feedback-2026]] — Undergraduates prefer human scoring for high-stakes work and AI as an assistant, not a replacement

@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-09-30T14:23:52-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -50,6 +50,9 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 - **Culturally [[situated-learning|situated]] well-being support and its limits:** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] describe Sukoon, a hybrid well-being system for Pakistani university students that pairs a Random Forest stress classifier (89.09% accuracy over three severity levels; 20 survey features) with an [[llm]] dialogue layer that escalates tone and support intensity across three tiers in line with the Stepped Care Model. It was built because Western-designed mental-health tools are English-language and culturally mismatched for students who express distress in Urdu or Roman Urdu and who face academic, financial, familial and relational stressors simultaneously; the authors are explicit that it is not a [[medical-education|clinical]] diagnostic or therapy tool, that high-distress responses point toward professional counselling, and that the chatbot layer has not yet been evaluated with students on cultural appropriateness or emotional safety.
 
 - **Teacher well-being and role:** AI's impact on [[teacher-role|teachers]] — including workload, anxiety about teaching with disruptive technology, and the capacity to provide emotional support — is a recurring concern, connecting to [[teacher-ai-competency]] and [[educational-development|professional development]].
+
+
+A structural equation model of 502 university faculty found AI literacy predicted AI well-being far more strongly (β = 0.713) than technological self-efficacy (β = 0.082), with social and organizational support reaching well-being only indirectly — competence, not encouragement, carried the effect ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
 - **Relational densification as the evaluative criterion for AI-supported teacher development:** [[ai-emotional-intelligence-teacher-development-2026|Aponte et al. (2026)]] argue that AI supports teachers' socio-emotional development only when it functions as relational infrastructure rather than a symbolic substitute for human accompaniment. They propose **relational densification** as the criterion for judging AI-supported professional-development initiatives — whether they strengthen trust, mentoring, peer support, collaboration, psychological safety, and reduced isolation — and note these relationships have downstream effects on students through classroom climate, [[pedagogy|pedagogical]] responsiveness, and socio-emotional support. The synthesis also cautions that affective data [[governance]] and the political economy of educational AI carry distinct ethical risks, framing [[ai-literacy|critical AI literacy]] as a socio-emotional competence.
 
 - **Ethics and responsible AI:** Well-being is a core ethical consideration in [[ai-education]], linking to [[ethics]] and the imperative to design AI that supports rather than harms learners' mental health and belonging.
@@ -59,6 +62,9 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 ### Well-being as a design consideration
 
 A recurring theme is that well-being should be a deliberate design consideration in AI in education, not an afterthought. This means: designing AI to support rather than replace human relationships; ensuring students can maintain agency and confidence rather than experiencing [[anxiety-and-stress|AI-induced anxiety]] or over-reliance; supporting educators' capacity and well-being as they integrate AI; and [[ai-ed-evaluation|evaluating AI]] systems not only for [[learning-gains|learning outcomes]] but also for their effects on students' and teachers' well-being. [[research-methods-aied|Research]] connects well-being to [[motivation]], [[self-regulated-learning]], and [[student-experience]] (belonging and engagement). [[daoism-ai-education-philosophy-2026|Xie (2026)]] argues for an educational telos to match: the Daoist "Zhenren" (真人) counter-ideal replaces frictionless optimization with "cultivated wholeness," reimagining learning as the harmonious integration of self, society and cosmos, and insisting that "no student is merely a dataset to be managed, but a whole being capable of achieving equanimity."
+
+
+A conceptual reframing grounds [[self-regulated-learning|emotion regulation]] support in physical activity and campus ecology rather than affect detection alone: no single expressive channel identifies distress without context, so AI should support regulation through exercise while teachers and counsellors keep interpretation, and affect monitoring becomes coercive once tied to attendance or grading ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]]).
 
 ### Connections to related concepts
 
@@ -99,3 +105,5 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[ai-enabled-course-development-first-year-adjustment-2026]] — High AI-course approval coexisting with self-reported strain, and task pressure weakening adjustment
 - [[ai-connectedness-adolescent-mental-health-2026]] — AI connectedness and adolescent mental health: supplementary versus compensatory bonding, with an inverted-U prediction
 - [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Perceived AI assistant intelligence, goal progress and mental health, with AI literacy as moderator
+- [[ai-emotion-regulation-sport-exercise-2026]] — Conceptual reframing of AI-supported emotion regulation through sport, exercise and campus ecology
+- [[faculty-ai-well-being-social-supports-2026]] — Structural equation model of faculty AI well-being: AI literacy dominates over self-efficacy

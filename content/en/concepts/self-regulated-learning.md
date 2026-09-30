@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T12:20:22-04:00"
+updated: "2026-09-30T14:23:52-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -42,6 +42,9 @@ Empirical work in a technology-mediated course confirms the phase links: in an e
 A systematic mapping of 84 AI–SRL studies found the research concentrated on higher-education students and on the metacognitive and cognitive aspects of self-regulation, with the motivational dimension underexplored and over a third of studies specifying no SRL theory at all ([[banihashem-ai-srl-systematic-mapping-review-2025|Banihashem et al. (2025)]]).
 
 Crucially, SRL around AI is shaped by *perception* as well as behavior: [[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]] demonstrate that whether students perceive feedback as coming from AI or a human significantly affects their self-regulated learning and revision behavior — a reminder that the social framing of AI, not just its content, changes how learners regulate around it.
+
+
+One failure mode sits before regulation begins: GenAI-assisted learning procrastination — unnecessary delay in starting GenAI-supported work despite a genuine intention to use it. Among 1,243 Chinese undergraduates, more frequent GenAI use went with less of it (β = −0.195), and learning GenAI anxiety strengthened the intention-delay link ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]]).
 
 Where GenAI enters the cycle decides its effect: mapping Zimmerman's forethought, performance, and reflection phases onto AI-mediated environments, a co-agency framework argues the point of entry determines whether the tool amplifies or erodes the learner's sense of control, and that offloading supports transformative learning only when the decision is intentional rather than routine ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
 
@@ -199,3 +202,4 @@ Which support is in play decides which mediator carries the association: among 3
 
 - [[genai-literacy-srl-special-education-2026]] — GenAI literacy related to self-regulated learning behaviors mainly through learning agency
 - [[preservice-teachers-ai-support-innovative-competence-2026]] — Support type flips the mediator: AI self-efficacy vs self-regulated learning
+- [[genai-learning-procrastination-planned-behavior-2026]] — GenAI-assisted learning procrastination: an intention-behavior gap that anxiety strengthens

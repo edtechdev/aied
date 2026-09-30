@@ -1,7 +1,7 @@
 ---
 title: Meta-Analysis and Systematic Review
 created: "2026-08-14T05:24:40-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T14:23:52-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
@@ -48,6 +48,9 @@ Systematic reviews and meta-analyses in AI in education serve several distinct p
 - **Map the field and its gaps** — a scoping review documents what has been studied, where the evidence is concentrated, and where it is missing (e.g., workplace settings, non-English work, failure cases).([[ai-vocational-education-training-review]])
 - **Identify moderators and conditions** — meta-analysis tests whether effects differ by [[learners|learner population]], domain, AI system type, or study design, revealing for whom and under what conditions a tool works. But a moderator is only as trustworthy as the studies behind it: in [[genai-writing-performance-meta-analysis-2026|a 2026 meta-analysis of GenAI-supported L2 writing]], the only moderator that survived methodological control was the studies' risk-of-bias classification, while an instructional-model difference that had looked significant in subgroup analysis collapsed once study quality and sample size were entered. Methodological quality, not pedagogy, carried the effect — so apparent pedagogical moderators warrant the same scrutiny as pooled estimates. Null moderators carry the same lesson in reverse. In [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|Chen and Wei's meta-analysis of digital and AI technologies for foreign-language skills]] (40 studies, 3,367 participants, pooled g = 0.962), the moderators that survived were study design (quasi-experiments g = 1.019 against true experiments g = 0.474), intervention duration, and tool count, while language skill type, technology type, educational level, setting, and sample size showed no significant between-group difference, leading the authors to conclude that effectiveness cannot be attributed to a technology label or a skill category. [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|Yu and colleagues' meta-analysis of K-12 AI education]] (16 studies, 57 effect sizes, g = 0.892) found all three of its tested moderators (publication source, publication year, school level) null and read the residual heterogeneity (I2 = 94.68%) as evidence that the field has not agreed on how to measure [[ai-literacy]] at all. When a moderator comes back null and heterogeneity stays high, the synthesis conclusion is often about the outcome construct or the primary-study designs as much as about the intervention.
 - **Expose methodological quality** — reviews routinely find that the field relies on underpowered, pre-experimental, or quasi-experimental designs and immediate post-tests, tempering conclusions.([[ai-vocational-education-training-review]])([[zerkouk-comprehensive-review-its-2025]]) Thin reporting of what was actually done is part of that picture, and it bounds what any later synthesis can say: [[yalcin-genai-programming-education-systematic-review-2026|Yalcin and colleagues' systematic review of GenAI in programming education]] could not identify an instructional approach in 26 of its 46 studies, and 32 of the 46 appeared in conference proceedings, so the review could code pedagogy for fewer than half its corpus and ends with mixed impact evidence (some studies showed improved exam and coding performance, while others found no significant difference against instructor feedback). A synthesis inherits the reporting habits of its field.
+
+
+Screening reliability can be construct-dependent: in a PRISMA-ScR scoping review of 123 studies of GenAI, [[cognitive-offloading|offloading]] and [[agency|learner agency]], title/abstract agreement (Fleiss' κ = 0.7103) fell to κ = 0.4884 at full text, which the authors attribute to the interpretive boundary between broad GenAI relevance and substantive relevance to the mechanism ([[genai-cognitive-offloading-learner-agency-review-2026|Wang et al. (2026)]]).
 
 ### Examples from the knowledge base
 
@@ -167,3 +170,5 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 - [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Meta-analysis of GenAI in higher education: short-intervention effects collapse as duration grows
 - [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — Meta-analysis of K-12 AI education: large effect with null moderators and heterogeneity attributed to measurement
 - [[yalcin-genai-programming-education-systematic-review-2026]] — Systematic review of GenAI in programming education: thin instructional reporting in 26 of 46 studies
+
+- [[genai-cognitive-offloading-learner-agency-review-2026]] — 123-study scoping review mapping GenAI, cognitive offloading and learner agency in higher education
