@@ -57,4 +57,4 @@ Qualitatively, participants reported that the activities helped them understand 
 
 ## Citation
 
-[AI-Supported Inquiry-Based Learning in Photosynthesis and Respiration: Implications for Sustainable Science Teacher Education](https://doi.org/10.3390/su181808643). *Sustainability* 18(18), 8643.
+Aydın, G. (2026). [AI-Supported Inquiry-Based Learning in Photosynthesis and Respiration: Implications for Sustainable Science Teacher Education](https://doi.org/10.3390/su181808643). *Sustainability* 18(18), 8643.

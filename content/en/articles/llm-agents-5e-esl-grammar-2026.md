@@ -39,4 +39,4 @@ page_kind: [evaluation]
 - The controlled setting did not account for multitasking interference or emotional fluctuations typical of real classrooms, reducing ecological validity.
 ## Citation
 
-[Designing large language model-based agents with 5E framework for ESL learners' grammar acquisition](https://www.sciencedirect.com/science/article/pii/S2666920X26000615) — Yang, X., Weng, X., & Yang, M. (2026). *Computers and Education: Artificial Intelligence*, 10, 100604.
+Yang, X., Weng, X., & Yang, M. (2026). [Designing large language model-based agents with 5E framework for ESL learners' grammar acquisition](https://www.sciencedirect.com/science/article/pii/S2666920X26000615). *Computers and Education: Artificial Intelligence*, 10, 100604.

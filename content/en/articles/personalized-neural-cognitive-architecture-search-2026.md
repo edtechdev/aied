@@ -44,4 +44,4 @@ The system was evaluated on a proprietary [[governance|institutional]] dataset o
 - Fairness checks covered only gender and parental education, holding AUC disparities to 2.1% and 2.8%; other learner populations remain unvalidated.
 ## Citation
 
-[Personalized neural cognitive architecture search](https://doi.org/10.1016/j.caeai.2026.100620) — Jia, L., & Dong, K. (2026). *Computers and Education: Artificial Intelligence*, 11, 100620.
+Jia, L., & Dong, K. (2026). [Personalized neural cognitive architecture search](https://doi.org/10.1016/j.caeai.2026.100620). *Computers and Education: Artificial Intelligence*, 11, 100620.

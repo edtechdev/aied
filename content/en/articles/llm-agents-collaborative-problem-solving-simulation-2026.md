@@ -40,4 +40,4 @@ methods: [benchmark, network-analysis]
 - It is a secondary analysis of fully de-identified data with the pseudonym mapping key discarded, so no linkage to individual outcomes or to uses beyond the original study is possible.
 ## Citation
 
-[Modelling individual participants as LLM agents in collaborative problem solving simulations](https://www.sciencedirect.com/science/article/pii/S2666920X2600055X) — Fang, Z. (2026). *Computers and Education: Artificial Intelligence*, 10, 100593.
+Fang, Z. (2026). [Modelling individual participants as LLM agents in collaborative problem solving simulations](https://www.sciencedirect.com/science/article/pii/S2666920X2600055X). *Computers and Education: Artificial Intelligence*, 10, 100593.

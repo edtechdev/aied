@@ -61,4 +61,4 @@ Thirty-six of 38 secondary school teachers from a workshop on mathematical model
 
 ## Citation
 
-[Creating an AI-powered platform for generating modelling problems: A case study on direct variation in secondary school mathematics](https://doi.org/10.1016/j.caeai.2026.100640) — Lo, C. K., Huang, X., Cheung, H. W., Yee, T. L., Bai, S., Chen, G., & Tlili, A. (2026). *Computers and Education: Artificial Intelligence*, 11, 100640.
+Lo, C. K., Huang, X., Cheung, H. W., Yee, T. L., Bai, S., Chen, G., & Tlili, A. (2026). [Creating an AI-powered platform for generating modelling problems: A case study on direct variation in secondary school mathematics](https://doi.org/10.1016/j.caeai.2026.100640). *Computers and Education: Artificial Intelligence*, 11, 100640.

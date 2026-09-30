@@ -42,4 +42,4 @@ page_kind: [framework]
 
 ## Citation
 
-[Improving instructional design proficiency of master's students in mathematics education through intelligent educational technologies](https://www.sciencedirect.com/science/article/pii/S2666920X26000597) — Zhu, F., Liang, Q., Mao, Z., & Wang, Y. (2026). *Computers and Education: Artificial Intelligence*, 10, 100597.
+Zhu, F., Liang, Q., Mao, Z., & Wang, Y. (2026). [Improving instructional design proficiency of master's students in mathematics education through intelligent educational technologies](https://www.sciencedirect.com/science/article/pii/S2666920X26000597). *Computers and Education: Artificial Intelligence*, 10, 100597.

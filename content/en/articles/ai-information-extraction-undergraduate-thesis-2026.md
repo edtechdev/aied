@@ -44,4 +44,4 @@ page_kind: [framework]
 
 ## Citation
 
-[From literature to research-based learning: An AI-powered information extraction system to enhance undergraduate thesis completion](https://www.sciencedirect.com/science/article/pii/S2666920X26000536) — An, R., Zhu, W., Zhao, Q., Laaksonen, A., & Lan, S. (2026). *Computers and Education: Artificial Intelligence*, 10, 100591.
+An, R., Zhu, W., Zhao, Q., Laaksonen, A., & Lan, S. (2026). [From literature to research-based learning: An AI-powered information extraction system to enhance undergraduate thesis completion](https://www.sciencedirect.com/science/article/pii/S2666920X26000536). *Computers and Education: Artificial Intelligence*, 10, 100591.

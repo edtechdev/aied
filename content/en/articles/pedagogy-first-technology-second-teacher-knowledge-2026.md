@@ -38,4 +38,4 @@ methods: [quantitative-research]
 - Data cover a single academic year (September 2023 to May 2024); the authors note longitudinal dynamics were not captured and that students' informal AI exposure may introduce unmeasured mediators.
 ## Citation
 
-[Pedagogy first, technology second: Cross-level relationships between teacher professional knowledge and student learning in artificial intelligence (AI) education](https://www.sciencedirect.com/science/article/pii/S2666920X26000263) — Shen, W., Chai, C.-S., Chiu, T. K. F., Yau, K. W., Meng, H., King, I., Wong, S., & Yam, Y. (2026). *Computers and Education: Artificial Intelligence*, 10, 100564.
+Shen, W., Chai, C.-S., Chiu, T. K. F., Yau, K. W., Meng, H., King, I., Wong, S., & Yam, Y. (2026). [Pedagogy first, technology second: Cross-level relationships between teacher professional knowledge and student learning in artificial intelligence (AI) education](https://www.sciencedirect.com/science/article/pii/S2666920X26000263). *Computers and Education: Artificial Intelligence*, 10, 100564.

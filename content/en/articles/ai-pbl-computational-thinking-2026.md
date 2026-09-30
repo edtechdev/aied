@@ -49,4 +49,4 @@ page_kind: [evaluation]
 - The conditions differ by more than AI: the experimental group shared robotics kits and worked in groups while the control group received lectures, so the AI tools are not the only difference between them.
 
 ## Citation
-(2026). [*AI-supported problem-based learning for enhancing computational thinking*](https://doi.org/10.1016/j.chbah.2026.100263). *Computers in Human Behavior: Artificial Humans*, 7, 100263.
+Ayanwale, M. A., & Omeh, C. B. (2026). [*AI-supported problem-based learning for enhancing computational thinking*](https://doi.org/10.1016/j.chbah.2026.100263). *Computers in Human Behavior: Artificial Humans*, 7, 100263.

@@ -39,4 +39,4 @@ level: [teacher education]
 
 ## Citation
 
-[Preparing pre-service teachers for responsible generative AI use: Curriculum implications for ethics, privacy, and AI literacy](https://www.sciencedirect.com/science/article/pii/S2666920X26000858) — Kohnke, L., Zou, D., Lai, C., & Gu, M. M. (2026). *Computers and Education: Artificial Intelligence*, 10, 100617.
+Kohnke, L., Zou, D., Lai, C., & Gu, M. M. (2026). [Preparing pre-service teachers for responsible generative AI use: Curriculum implications for ethics, privacy, and AI literacy](https://www.sciencedirect.com/science/article/pii/S2666920X26000858). *Computers and Education: Artificial Intelligence*, 10, 100617.

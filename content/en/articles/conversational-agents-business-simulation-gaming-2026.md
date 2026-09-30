@@ -41,4 +41,4 @@ audience: [instructional designers, instructors]
 - The evaluation sits in a single institution and two courses with a relatively homogeneous age range (M = 23.0, SD = 2.59), and the needs analysis drew on n = 100 students in one course, limiting generalizability.
 ## Citation
 
-[Designing Conversational Agents for Adaptive Instructional Support in Business Simulation Gaming](https://www.sciencedirect.com/science/article/pii/S2666920X2600038X) — Wenzel, A., Geiger, J.-M., & Liening, A. (2026). *Computers and Education: Artificial Intelligence*, 10, 100576.
+Wenzel, A., Geiger, J.-M., & Liening, A. (2026). [Designing Conversational Agents for Adaptive Instructional Support in Business Simulation Gaming](https://www.sciencedirect.com/science/article/pii/S2666920X2600038X). *Computers and Education: Artificial Intelligence*, 10, 100576.

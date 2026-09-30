@@ -38,4 +38,4 @@ page_kind: [evaluation]
 
 ## Citation
 
-[The impact of item-writing flaws on difficulty and discrimination in item response theory](https://www.sciencedirect.com/science/article/pii/S2666920X26000664) — Schmucker, R., & Moore, S. (2026). *Computers and Education: Artificial Intelligence*, 11, 100632.
+Schmucker, R., & Moore, S. (2026). [The impact of item-writing flaws on difficulty and discrimination in item response theory](https://www.sciencedirect.com/science/article/pii/S2666920X26000664). *Computers and Education: Artificial Intelligence*, 11, 100632.

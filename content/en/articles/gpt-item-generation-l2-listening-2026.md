@@ -39,4 +39,4 @@ page_kind: [evaluation]
 
 ## Citation
 
-[How to train your dragon: Evaluating prompting and fine-tuning for GPT-based item generation in L2 listening assessment](https://www.sciencedirect.com/science/article/pii/S2666920X26000792) — Aryadoust, V., & Wong, J. (2026). *Computers and Education: Artificial Intelligence*, 10, 100623.
+Aryadoust, V., & Wong, J. (2026). [How to train your dragon: Evaluating prompting and fine-tuning for GPT-based item generation in L2 listening assessment](https://www.sciencedirect.com/science/article/pii/S2666920X26000792). *Computers and Education: Artificial Intelligence*, 10, 100623.

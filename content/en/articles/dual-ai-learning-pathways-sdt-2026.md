@@ -39,4 +39,4 @@ methods: [quantitative-research]
 - Scalar-level measurement invariance supported cross-group comparison, but multi-group differences were concentrated in specific links and the context base is limited to the sampled China and Thailand groupings.
 ## Citation
 
-[How high-school pressure and autonomy support are linked to dual AI learning pathways: A cross-contextual SEM analysis](https://www.sciencedirect.com/science/article/pii/S2666920X26001013) — Shen, Q., & Arunrugstichai, W. (2026). *Computers and Education: Artificial Intelligence*, 10, 100621.
+Shen, Q., & Arunrugstichai, W. (2026). [How high-school pressure and autonomy support are linked to dual AI learning pathways: A cross-contextual SEM analysis](https://www.sciencedirect.com/science/article/pii/S2666920X26001013). *Computers and Education: Artificial Intelligence*, 10, 100621.

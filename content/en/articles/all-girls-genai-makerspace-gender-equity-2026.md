@@ -46,4 +46,4 @@ While stakeholders generally viewed the all-girls format positively as a safer, 
 
 ## Citation
 
-[Beyond "painting in pink": A critical case study of all-girls generative AI workshops in a European makerspace and implications for gender equity in computing](https://doi.org/10.1016/j.caeai.2026.100602) — Liu, Q., Archer, L., Nag Chowdhuri, M., Freedman, E., & DeWitt, J. (2026). *Computers and Education: Artificial Intelligence*, 10, 100602.
+Liu, Q., Archer, L., Nag Chowdhuri, M., Freedman, E., & DeWitt, J. (2026). [Beyond "painting in pink": A critical case study of all-girls generative AI workshops in a European makerspace and implications for gender equity in computing](https://doi.org/10.1016/j.caeai.2026.100602). *Computers and Education: Artificial Intelligence*, 10, 100602.

@@ -52,4 +52,4 @@ The study's contribution lies not in a new technical AI capability but in an arc
 
 ## Citation
 
-(2026). [*The Reflective Triangle Model: AI as a Cognitive Mediator in Teachers' Professional Learning and Learning-Community Development*](https://osf.io/preprints/edarxiv/zxtw6_v1/). EdArXiv preprint.
+Nguyen, T. T. T. (2026). [*The Reflective Triangle Model: AI as a Cognitive Mediator in Teachers' Professional Learning and Learning-Community Development*](https://osf.io/preprints/edarxiv/zxtw6_v1/). EdArXiv preprint.

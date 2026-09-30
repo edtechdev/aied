@@ -33,4 +33,4 @@ Computing students show inconsistencies between confidence in cybersecurity know
 
 ## Citation
 
-[Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity](https://arxiv.org/abs/2606.18541).
+Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). [Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity](https://arxiv.org/abs/2606.18541).

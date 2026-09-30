@@ -42,4 +42,4 @@ page_kind: [evaluation]
 
 ## Citation
 
-[Enhancing AI literacy course satisfaction through empowerment in AI problem-solving and ethical awareness: Development and validation of an AI project-based learning scale](https://www.sciencedirect.com/science/article/pii/S2666920X2600086X) — Zhu, J., & Kong, S. C. (2026). *Computers and Education: Artificial Intelligence*, 11, 100624.
+Zhu, J., & Kong, S. C. (2026). [Enhancing AI literacy course satisfaction through empowerment in AI problem-solving and ethical awareness: Development and validation of an AI project-based learning scale](https://www.sciencedirect.com/science/article/pii/S2666920X2600086X). *Computers and Education: Artificial Intelligence*, 11, 100624.

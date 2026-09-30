@@ -43,4 +43,4 @@ methods: [meta-analysis-systematic-review]
 
 ## Citation
 
-[Generative AI in scenario-based healthcare education: A systematic review of applications, validation practices, and pedagogical integration](https://www.sciencedirect.com/science/article/pii/S2666920X26001165) — Neto, M., Pinto, R., Reis, J., & Antão, L. (2026). *Computers and Education: Artificial Intelligence*, 11, 100654.
+Neto, M., Pinto, R., Reis, J., & Antão, L. (2026). [Generative AI in scenario-based healthcare education: A systematic review of applications, validation practices, and pedagogical integration](https://www.sciencedirect.com/science/article/pii/S2666920X26001165). *Computers and Education: Artificial Intelligence*, 11, 100654.

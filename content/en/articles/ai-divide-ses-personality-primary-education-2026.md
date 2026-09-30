@@ -36,4 +36,4 @@ level: [primary education]
 
 ## Citation
 
-[Decoding divides: The role of socioeconomic status and personality traits in AI divides and educational inequality](https://www.sciencedirect.com/science/article/pii/S2666920X26000949) — Wang, Z., van Wetten, S., Segers, E., & Haelermans, C. (2026). *Computers and Education: Artificial Intelligence*, 10, 100566.
+Wang, Z., van Wetten, S., Segers, E., & Haelermans, C. (2026). [Decoding divides: The role of socioeconomic status and personality traits in AI divides and educational inequality](https://www.sciencedirect.com/science/article/pii/S2666920X26000949). *Computers and Education: Artificial Intelligence*, 10, 100566.

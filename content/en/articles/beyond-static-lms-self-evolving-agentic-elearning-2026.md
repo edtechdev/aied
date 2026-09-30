@@ -60,4 +60,4 @@ Capability evolution follows a controlled lifecycle: observe need from behaviora
 
 ## Citation
 
-[*Beyond the Static LMS: A Conceptual Framework for Self-Evolving Agentic E-Learning Systems*](https://osf.io/preprints/edarxiv/27upe_v1/). John Cheung. EdArXiv preprint, submitted August 21, 2026. DOI 10.35542/osf.io/27upe_v1
+Cheung, J. (2026). [*Beyond the Static LMS: A Conceptual Framework for Self-Evolving Agentic E-Learning Systems*](https://osf.io/preprints/edarxiv/27upe_v1/). EdArXiv preprint, submitted August 21, 2026. DOI 10.35542/osf.io/27upe_v1

@@ -59,4 +59,4 @@ CLARA was designed around the idea that learners, educators, and AI should reaso
 
 ## Citation
 
-2026, A. (2026). [*CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy*](https://arxiv.org/abs/2605.17259)
+Xie, D., Anderson, K., Eze, T., Lin, C., Shin, B., & Worsley, M. (2026). [*CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy*](https://arxiv.org/abs/2605.17259)
