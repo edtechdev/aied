@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -51,6 +51,8 @@ The knowledge base's research increasingly locates ethics in institutions and st
 - **Ethics & data governance as an enabler.** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify ethics & data governance as one of seven enablers of trustworthy [[learning-analytics]]-based interventions — positioning [[trust|trustworthiness]] (ethical compliance, data security, transparent algorithms, pedagogical validity) as the prerequisite without which data-informed educational change is not meaningful.
 - **A [[meta-analysis-systematic-review|systematic review]] of [[engineering-education|engineering education]]** finds ethical AI guidance is predominantly student-facing and compliance-oriented (centered on [[academic-integrity]] and disclosure), while reciprocal accountability for faculty AI use and institutional responsibility remain underdeveloped — a pattern heightened by engineering's professional stakes in public safety and [[well-being]]. ([[ethical-use-ai-engineering-education-review-2026]])
 - **A consolidated value framework for AIED ethics.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], a [[meta-analysis-systematic-review|systematic review]] of 25 articles, consolidate the fragmented ethics literature into six main ethical values for [[ai-education|AI in education]] — non-discrimination, data stewardship, [[human-in-the-loop-ai|human oversight]], goodwill, explicability, and educational aptness — and map the ethical norms extracted from the literature onto a stakeholder-by-value matrix (developers, educational institutes, end users, regulators). The review finds norms distributed unevenly: developers attract the most, while end users receive the fewest and least actionable norms, and no norms on non-discrimination, data stewardship, or educational aptness address end users directly — student voices are essentially absent, with "end user" norms mostly actions other stakeholders take to enable teachers. The authors argue end users should have agency and active roles rather than being treated as passive beneficiaries, and note the values are tightly coupled and can conflict (e.g., explicability vs. accuracy/[[privacy]], non-discrimination vs. data stewardship), producing ethical dilemmas alongside power asymmetries between stakeholder sets.
+
+- **Responsibility named without a relationship.** Corpus analysis of 366 GenAI higher-education abstracts shows the field's responsibility vocabulary is largely adjectival: "responsible AI/GenAI" occurs 83 times across 59 documents and "responsible use" 66 times across 44, while "AI responsibility" and "student responsibility" never appear as exact phrases, and grammatical removal is routine - 800 passive constructions, 780 of them without any agent reference, alongside 1,152 responsibility-related nominalizations. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] finds no clause attaching a consequence to a system, so responsibility is recognized as a word without the relational agency that would turn it into action.
 
 ## Toward situated and ecological AI ethics
 

@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -33,6 +33,8 @@ reviewed_by: [editor]
 - **[[curriculum-design|Curriculum]]-anchored predictive analytics:** [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] estimate knowledge states within Outcome-Based Education by tracing course outcomes directly from LMS interaction and attainment data, using OBE affinity mappings (course–program outcome relations) to structure concept links and a memory-augmented network to model cross-outcome impact — reaching 89.81% AUC and beating DKT, DKVMN, EKT, and SimpleKT on live university engineering data, while staying only competitive (not superior) on general-purpose ASSISTments data.
 - **Interpretable progress prediction with an action window:** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] predict module-level student progress in large-scale online [[cs-education|programming]] courses from content-interaction log features, using glass-box decision trees that match black-box accuracy (85–91%) while flagging "No submission" dropout outcomes up to 7–8 days before module deadlines — an explicit, real-time window for [[teacher-role|intervention]] rather than a bare risk flag, and an exploratory typology of disengaged-at-risk, disengaged-but-successful, and engaged high-performer profiles.
 - **Federated, explainable risk modeling across institutions (2026).** [[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al. (2026)]] extend risk modeling beyond single-institution prediction by training a multitask (performance + dropout) model across simulated institutions via federated learning, so raw student data never leaves each institution. Under controlled heterogeneity (label skew, class imbalance, temporal drift, structural missingness) the model preserves ranking accuracy (OULAD AUC 0.918) and structurally stable feature-importance rankings, yet probabilistic calibration drifts — decoupling ranking performance from probability reliability. For early-warning systems this is a caution that threshold-based interventions may need per-institution calibration, and an argument for evaluating analytics along discrimination, calibration, robustness, and explainability at once.
+
+- **Synthetic-data validation is a prerequisite for privacy-preserving analytics.** A structural check on synthetic versions of four annual study-habit cohorts (117-120 learners over eighteen weeks) found partition descriptors agreeing closely in two of four cohorts while week-to-week variation ran 2.6 to 4.9 times lower without exception (coefficient of variation 0.086-0.152 against 0.399-0.539 for the real cohorts), and only 36% of findings reached on synthetic pilot data were confirmed on the real data across twenty-five validation requests ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
 - **Engagement analytics:** [[student-engagement|Engagement measurement]] and [[engagement-intensity-learner-modeling|intensity modeling]] quantify how students interact with AI systems.
 - **Feedback analytics:** [[teaching-feedback-classification-benchmark|Feedback classification]] and [[ai-feedback-quality|quality assessment]] analyze the feedback students receive.
 - **Network analysis:** [[misiejuk-cognitive-offloading-prompting-2026|Co-Occurrence Network Analysis]] and [[epistemic-emotions-collaborative-problem-solving|epistemic network analysis]] reveal interaction patterns.
@@ -125,6 +127,4 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[precision-education-student-digital-twins-2026]]
 - [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education

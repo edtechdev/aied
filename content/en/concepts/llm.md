@@ -1,7 +1,7 @@
 ---
 title: Large Language Models (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-29T10:29:04-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, intelligent-tutoring, prompt-engineering, rag]
@@ -29,6 +29,10 @@ LLMs are the most-referenced concept in the knowledge base (60+ articles) becaus
 
 - **Tutoring:** [[intelligent-tutoring|AI tutors]] use LLMs for dialogue, explanation, and [[problem-solving]] guidance. [[pedagogical-llm-training|Pedagogical training]] adapts general LLMs for educational use.
 - **Assessment:** [[automated-assessment|Grading systems]], [[automated-essay-scoring|essay scoring]], and [[llm-item-difficulty-prediction|item difficulty prediction]] leverage LLM capabilities. [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] show GPT-4o can estimate the difficulty of K-5 math and reading items (N = 5170) calibrated under the Rasch IRT model: zero-shot ratings correlated moderately-to-strongly with true difficulties (r = 0.83 math, r = 0.81 reading) but varied by grade, while a feature-based strategy in which the LLM extracts cognitive and linguistic features for tree-based models reached correlations up to r = 0.87 — evidence that structured feature extraction can outperform a single holistic LLM judgment. Across the aggregate grading literature, a PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) concludes that LLMs match human raters on short, well-structured tasks with detailed rubrics yet cannot fully replace human judgment on complex, open-ended, or subjective work, and that model version is a dominant determinant of grading quality ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). Reliability also varies sharply by item type: [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] found ChatGPT-5 matched faculty closely on objective pharmacy-exam items (CCC 0.935–1.000) but was unreliable on short-answer (CCC ≈0) and essay (0.341–0.854) items, and that providing a rubric did not consistently improve agreement.
+
+- **Generated item labels track surface form, not difficulty.** A 378-item audit found an LLM's Easy/Medium/Hard labels rose in lockstep with its own co-generated Bloom level (ρ=0.90) and with stem length (15.9 to 30.2 words) yet correlated with empirical item difficulty at only ρ=0.06 over 7,888 student responses, evidence that generation-time difficulty metadata describes formatting rather than demand on [[prior-knowledge|prior knowledge]] ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
+
+- **Annotation quality is a design outcome, not a single-prompt property.** [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] prompted a five-model panel to judge human-readable assertions about each utterance instead of emitting a label directly, and a transparent classifier over those binary judgments (macro-F1 0.673, Cohen's κ 0.688) beat the best published direct prompting of a frontier model (0.61 macro-F1) while trailing a fine-tuned RoBERTa-base encoder (0.76); cross-model agreement functioned as a screening device, not as validity evidence.
 - **[[multimodal]] reasoning LLMs as graders:** when a multimodal, reasoning-capable LLM (GPT-o4-mini) graded a 296-student handwritten general-[[chemistry-education|chemistry]] exam page-by-page against rubric images, single-run total scores were highly reproducible (ICC(A,1) = 0.967; averaging five runs reached 0.993) and agreed strongly with TA totals (R² = 0.91), yet item-level reliability was sharply format-dependent — textual and reaction-equation answers graded well while drawing and graphing were worse than random (background grids distract AI vision). This shows an LLM grader's [[trust|trustworthiness]] is a function of response format and task, not just raw model capability, and that [[human-in-the-loop-ai|selective deferral]] via confidence filters is needed for high-stakes use ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 - **Content:** [[generative-ai|Generative AI]] content creation relies on LLMs. [[automated-question-generation|Question generation]] and [[ai-generated-instructional-videos-computing-ed|video generation]] are LLM-driven.
 - **Safety:** [[pedagogical-safety]], [[hallucination-risk]], and [[hazra-safetutors-pedagogical-safety-2026]] [[research-methods-aied|research]] examine LLM-specific risks.
@@ -87,10 +91,5 @@ A complementary line of work reframes LLMs from static graders into emulators of
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
 - [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement

@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-28T03:40:56-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -41,6 +41,8 @@ Scholarship converges on several change-management levers. **Governance framewor
 **Sustainability is a property of the organization, not the tool.** A four-year randomized evaluation of a non-generative AI text-messaging chatbot at California State University, Northridge, traces durability to an administrative home (joint oversight by the Office of Undergraduate Studies and the Office of the Registrar), one communication specialist writing every campaign for a consistent voice, and enough flexibility in the message mix to absorb the COVID-19 shock — while cross-office data sharing for targeted outreach proved burdensome enough that targeted campaigns fell from 36% to 6% of the annual total ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page 2026]], a working paper whose implementation findings rest on system observation and administrator discussions rather than the trial). Its engagement result reinforces the same lesson: annual opt-out rates never exceeded 4% over four years, which the authors read as receptivity sustained by how the institution adapted implementation rather than by the technology itself.
 
 **Assessment reform** is a central change-management battleground. The [[ai-assessment-scale-reform|AI Assessment Scale study]] shows framework implementation hampered by departmental inconsistencies, workload pressures, and uncertainty, with staff describing the process as "a bit of chaos and madness." The [[ethical-ai-higher-ed-game-theory|coordination game model]] offers a formal account of why policy statements alone fail: student AI use is a collective norm-formation process, and small, well-calibrated changes to reflective assessment incentives can trigger rapid cohort-wide shifts toward responsible use, whereas weak or misaligned incentives allow opportunistic practices to persist. This supports pedagogy-led governance over surveillance. The [[ai-adaptation-gap-higher-education-2026|AI adaptation gap survey]] adds a [[stakeholders|stakeholder]] dimension: students report higher AI-use intensity and perceived usefulness than faculty and administrative staff, while the latter report stronger [[academic-integrity]] concerns — and perceived usefulness drives [[trust]] (β = 0.402) more strongly than institutional policy clarity (β = 0.223).
+
+An assessment-practice workshop with 73 computing educators supplies the counterpart from the classroom side. Nearly every change participants described had been made by an individual instructor in a single course without institutional coordination — colleagues inside one department taking opposite positions with nothing reconciling them — and the curricular response the report argues for will not conclude in time to help students now enrolled; assignment difficulty was also observed to expire on roughly a semester's cycle, which makes calibration against current model capability a perishable institutional asset rather than a one-time decision ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 
 ## Implications
 

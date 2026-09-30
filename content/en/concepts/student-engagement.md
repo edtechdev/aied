@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-09-30T07:03:17-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -49,6 +49,8 @@ That [[scaffolding]] has an institutional counterpart with a dual pathway. [[gai
 - **Predicting academic AI use from learning constructs.** An exploratory [[reinforcement-learning|machine learning]] framework analyzed survey data from 166 university students to identify learning-related constructs associated with intended academic ChatGPT use, using SHAP analysis to maintain [[explainable-ai|interpretability]]. Findings inform how engagement, learning support, and other constructs shape students' incorporation of AI tools into academic work.
 
 - **Access to an AI tool can *lower* measured engagement, and completion rates will not show it.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] randomized tutor access across 13 blocks at a large U.S. public university and found recorded platform participation fell by 0.90 SDs, page views by 0.37–0.38 SDs and active days by 0.51–0.61 SDs — while homework submission and on-time submission were unaffected. The dissociation is the measurement lesson: a course monitoring only assignment completion would have seen nothing, because the reduction sat in the discussion, quiz and instructor-interaction activity the platform logged. Students in treated sections also reported asking the instructor fewer content questions (about 57% versus 44%), so the decline coincided with substitution away from human contact rather than with disengagement from the course.
+
+- **Reply latency is an engagement lever.** In 1,137 Quantitative AI tutoring sessions, faster replies tracked with more student messages and more correct practice (median reply time 1.9 s to 31.0 s across models; lower latency correlating with engagement at Spearman ρ=-0.81, p=.0056), a chain the authors read as explaining how models that score unremarkably on teaching quality still reach human-level gains ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
 
 ### Measuring engagement: the metric-choice problem
 

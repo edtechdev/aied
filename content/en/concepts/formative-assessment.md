@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-27T13:10:09-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -30,6 +30,8 @@ Formative assessment is central to [[ai-education|AI in education]] because it s
 AI systems generate formative assessment items across modalities, with reliability varying by type:
 
 - **Multiple-choice questions:** [[code-gen]] shows [[agentic-ai|agentic AI]] can reliably generate MCQs for coding comprehension when validated across seven pedagogical dimensions — success rates reach **98.6%** for concept alignment and **79.9%** for feedback quality — suggesting AI is strongest on verifiable dimensions and weakest on instructional-judgment dimensions. This connects to [[automated-question-generation|automated question generation]] more broadly.
+
+- **An easy generated item bank gives no formative signal.** In a 10-week deployment about 70% of AI-generated practice items were answered correctly by every student (p = 1.0), so the low-stakes quizzes that ran every 15 to 20 minutes were well received but carried almost no discriminating information for adapting instruction ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
 - **Automated essay scoring:** multi-agent frameworks (e.g., MASS) improve consistency over stand-alone [[llm|LLMs]] for [[automated-essay-scoring|essay scoring]], though [[explainable-ai|interpretability]] of multi-agent scoring decisions remains an open challenge.
 - **Formative scoring pipelines:** [[cotal-formative-assessment-scoring-2026|CoTAL]] couples Chain-of-Thought prompting with [[active-learning|active learning]] and Evidence-Centered Design to produce generalizable formative-assessment scoring with human-in-the-loop [[prompt-engineering|prompt engineering]].
 - **High-frequency, [[automated-assessment|automatically-marked assessments]]:** [[automated-formative-assessments-a-level-sciences|automated formative assessments in A-level sciences]] examines the effect of high-frequency, automatically-marked formative assessment on [[learning-gains|learning outcomes]]. A scoping review of short-answer auto-marking in [[science-education|science]] (2017–early 2024) confirms this formative short-answer use case is a field with real traction: BERT-family models dominated auto-marking through 2021 before prompting larger [[llm|LLMs]] from ~2022, and domain-augmented, rubric-aware, and chain-of-thought models performed best — yet the review's calls for comprehensive evaluation and unresolved [[bias-mitigation|fairness]] and explainability gaps caution against extending such systems to unmediated [[summative-assessment|summative]] or high-stakes use ([[auto-marking-short-answer-science-2026]]).
@@ -158,4 +160,3 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — Perceived usefulness and intention to use LLM-generated feedback in programming across three educational levels
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Adaptive teaching assistance combining generative AI and big data analytics in music education
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education

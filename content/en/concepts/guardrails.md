@@ -1,7 +1,7 @@
 ---
 title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-09-26T08:44:09-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -67,6 +67,8 @@ Guardrails themselves are not neutral: [[paternalistic-filter-llm-history-educat
 - **Guardrails** are the *mechanisms/techniques* — the concrete design controls (prompting, RAG, training, QA, auditing) that implement that goal.
 
 The two are closely coupled: almost every guardrail technique is a way of achieving [[pedagogy|pedagogical]] safety, and pedagogical safety is almost entirely delivered through guardrails. Guardrails is therefore best understood as the **design and engineering layer** beneath the pedagogical-safety principle, and is also the broader term used across general AI safety (content moderation, jailbreak resistance) before it is specialized for education.
+
+**Guardrails as a distribution of authority.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]] treats guardrails as allocations across six separable dimensions — pedagogical grounding, AI instructional authority, human accountability, learner agency, context boundaries, and evaluation visibility — rather than points on a strict-to-permissive line, so tools sharing a model can distribute authority very differently. At course scale the boundary must cover the request space, the response space, and educator visibility, not only generated content.
 **Guardrails can redirect learners rather than stop them.** [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] randomized 132 students in an introductory programming course across four AI teaching assistants that varied pedagogical style (Socratic versus direct instruction) and context awareness. Students rated the Socratic assistant with full context least favorably, and that same condition descriptively showed the highest interaction stress, the highest rate of external general-purpose LLM use, and the lowest share of post-task explanations demonstrating full comprehension — differences the study reports as descriptive rather than statistically significant. Friction does not remove the demand for help; it can relocate that demand to tools the course cannot see, which makes calibration a pedagogical-safety question and not only a design one.
 
 ## Design Principles

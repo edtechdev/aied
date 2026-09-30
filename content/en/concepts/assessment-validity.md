@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T06:56:00-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -56,6 +56,8 @@ A conceptual proposal raises a validity boundary that applies to every AI-mediat
 - **AI-assigned item metadata is not psychometric evidence.** Across a 10-week [[cs-education|data science]] study of 311 deployed multiple-choice items, LLM difficulty ratings tracked the model's own Bloom labels (rho = 0.90) but not empirical item difficulty (rho = 0.06), so item difficulty has to be established from response data rather than from the generating model's labels ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang, 2026]]).
 
 - **Student judgments of curricular alignment track difficulty, not content.** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] asked students to rate whether each item in a graded 60-item exam aligned with the course [[curriculum-design|curriculum]] and found the ratings correlated with item difficulty at ρ = 0.762 (easier items judged aligned, harder items not aligned, ρ = −0.762, p < 0.001), while ratings did not differ by item source. Where an instrument asks students to judge an assessment's curricular fit, the resulting score is partly a difficulty rating and cannot be read as independent evidence of alignment.
+
+- **Realign the assessment triangle rather than patch one vertex.** [[koretsky-genai-stem-assessment-2026|Koretsky et al. (2026)]] frame the [[generative-ai|GenAI]] problem through the assessment triangle — cognition (what is assessed), observation (how evidence of learning is elicited), and interpretation (the inference drawn) — and argue the three vertices must be realigned together, since redesigning tasks without repairing the interpretation leaves the inference unsupported. Their scoping review also makes the fidelity of AI-generated assessment materials a validity property in its own right, cataloguing content, linguistic, cognitive, behavioral, structural, and pedagogical dimensions and requiring human-in-the-loop evaluation before such tasks ground assessment.
 
 ### Redesign over detection
 
@@ -151,7 +153,4 @@ The same section of the evidence base supplies the case-file counterpart, and it
 - [[gifted-potential-ai-assisted-work-attributional-validity-2026]] — Four targets of inference and three attribution errors when a product is read as evidence of learner capacity (Sak 2026)
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
 - [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
 - [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Student ratings of curricular alignment track item difficulty (rho = 0.762) rather than content (Vogt et al. 2026)

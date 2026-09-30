@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -42,6 +42,8 @@ Curriculum design addresses the *what* of education at the program level, comple
 **[[governance|Institutional]] frameworks** address curriculum change at scale. **[[finkelstein-principled-ai-education-2025]]** and **[[finkelstein-principled-ai-education-2025]]** provide principles for integrating AI across educational programs. **[[ai-adoption-training-public-sector]]** examines barriers to AI curriculum adoption in public sector education.
 
 **Sequencing AI across the program.** [[refrain-amplify-genai-curriculum-2026|Torres-Sahli et al.]] propose a "refrain, then amplify" framework that sequences generative AI at the program level: withhold a generative tool while a capacity is forming, then restore it to amplify that capacity once the student can direct it and judge its returns. Governed by a forming-versus-offloading criterion (whether a stretch of work builds a capacity or merely passes it through the tool), the framework links curriculum design to [[cognitive-offloading]], [[self-regulated-learning]], and [[academic-integrity]], with hard-to-fake checkpoints at each refrain-to-amplify hinge.
+
+A curriculum-level consequence of model capability is that AI-resistant design expires. Computing educators described calibrating assignments against what the models could not yet do and watching the calibration lapse — one cybersecurity instructor's problems required genuine [[problem-solving|problem solving]] seven or eight months earlier and were then simply solved — with a facilitator estimating a shelf life of about one semester. The workshop's structural finding is that nearly every adaptation was made by an individual instructor within a single course, without the institutional coordination a durable curricular response would require ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 
 **Whole-course alignment when generative AI is permitted.** A 2026 redesign of an introductory nuclear and particle [[physics-education|physics]] course ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al.]]) integrated three activity types with distinct roles — lectures for concepts and notation, tutorials for standard analytic practice, and homework as an exploratory "research-shaped" component of unusually difficult, multi-method problems. The reported friction (an undeclared programming prerequisite, insufficient time to understand rather than merely obtain answers, and misalignment among lectures, tutorials, homework and [[summative-assessment|examination]]) illustrates that permitting generative AI forces curriculum alignment work across the whole course rather than a change to one assignment type; their recommended structure keeps the AI-permitted exploratory work as bonus-bearing advanced tasks while the unaided written exam determines the grade.
 
@@ -114,5 +116,4 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
 - [[sidorkin-ai-generated-course-readings-2026]] — AI-generated weekly readings as a textbook substitute, with sourcing and review caveats (Sidorkin 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI

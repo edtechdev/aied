@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-09-29T12:10:25-04:00"
+updated: "2026-09-30T07:29:37-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -29,7 +29,7 @@ ai_assist:
 
 ## Introduction
 
-Assessment in [[higher-ed|higher education]] has long inferred the thinking from the product. A submitted essay, report, or examination answer stood in for the [[critical-thinking|reasoning]] behind it, and grading treated a well-argued artifact as evidence of a well-argued process. Thapa and Lewis (2026) name the assumption that generative AI breaks: a polished response "may no longer represent anyone's thinking process," so the inference from artifact to understanding stops being safe. Their answer is not a better detector but a different evidence base. Process-oriented assessment collects evidence of interpretation, justification, and knowledge construction as they develop, so that reasoning stays visible when output can be produced on demand.
+Assessment in [[higher-ed|higher education]] has long inferred the thinking from the product. A submitted essay, report, or examination answer stood in for the [[critical-thinking|reasoning]] behind it, and grading treated a well-argued artifact as evidence of a well-argued process. [[thapa-lewis-process-oriented-assessment-2026|Thapa and Lewis (2026)]] name the assumption that generative AI breaks: a polished response "may no longer represent anyone's thinking process," so the inference from artifact to understanding stops being safe. Their answer is not a better detector but a different evidence base. Process-oriented assessment collects evidence of interpretation, justification, and knowledge construction as they develop, so that reasoning stays visible when output can be produced on demand.
 
 It helps to say what the concept is not. It is not [[authentic-assessment|authentic assessment]], which asks whether a task mirrors worthwhile real-world practice; Thapa and Lewis keep the axes separate and insist that an authentic task with a single unsupervised product is still exposed. It is not [[ai-detection|AI detection]], which asks whether the tool was used rather than how a decision was made. And it is not [[automated-assessment|automated assessment]], which concerns who or what does the marking: a machine-graded staged [[eportfolio|portfolio]] can be process-oriented, and a human-graded final essay need not be. The concept concerns which evidence is collected, over what period, and under what conditions it is produced.
 
@@ -78,7 +78,6 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
 ## Connected Articles
-- [[thapa-lewis-process-oriented-assessment-2026]] — epistemic authenticity and the four design commitments behind process-oriented assessment (Thapa & Lewis 2026)
 - [[genai-performance-vs-learning]] — performance is not learning: a research agenda built on process measures (Yan et al. 2026)
 - [[aied-unfinished-mission-bypass]] — amplifying process-based assessment as one of five AIED priorities (Lane 2026)
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Black Box Assessment and the learning trajectory in take-home examinations (Brunnström & Palmqvist 2026)
@@ -87,7 +86,6 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[teacher-educators-ai-integration-preservice-2026]] — prompts, version history, monitored contributions, and journey journals after a trust crisis (Goldstein et al. 2026)
 - [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — study practices, ethical judgments, and the case for testing oral defenses and process evidence
 - [[learn-framework-responsible-genai-pbl-2026]] — the LEARN framework: process-focused rubrics, oral justifications, staged submissions (Uden & Hwang 2026)
-- [[koretsky-genai-stem-assessment-2026]] — process checks (annotated drafts, in-class checkpoints, reflective accounts) within the assessment triangle in STEM (Koretsky et al. 2026)
 - [[genai-didactic-pedagogical-mediator-2026]] — AI-transparent process-oriented assessment as a researchable proposition (Moganadas et al. 2026)
 - [[ai-tools-academic-work-cheating-2026]] — revision history, interaction patterns, and time-on-task with disclosure (Padhy 2026)
 - [[espino-ai-business-education-review-2026]] — a decade of business-education research converging on process-visible tasks
@@ -99,3 +97,4 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[beyond-detection-authentic-assessment-ai-2025]] — authenticity must be redesigned, not policed
 - [[authentic-products-authenticated-processes-2026]] — authentic products and the processes that produced them
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — the oral exam as an AI-resistant format that makes reasoning live
+- [[thapa-lewis-process-oriented-assessment-2026]] — epistemic authenticity and the four design commitments behind process-oriented assessment (Thapa & Lewis 2026)

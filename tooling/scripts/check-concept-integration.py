@@ -107,11 +107,12 @@ def main(argv: list[str]) -> int:
         return 0
 
     defects = 0
+    missing = 0
     for slug in slugs:
         path = os.path.join(ARTICLES, slug + '.md')
         if not os.path.exists(path):
             print(f'{slug}: no such article page')
-            defects += 1
+            missing += 1
             continue
         text = read(path)
         fm, body = split_frontmatter(text)
@@ -145,6 +146,9 @@ def main(argv: list[str]) -> int:
                   'pair was missed): ' + ', '.join(absent))
 
     print()
+    if missing:
+        print(f'note - {missing} slug(s) have no article page (deleted or renamed); '
+              'these are not bare-list defects.')
     if defects:
         print(f'FAIL - {defects} concept page(s) carry the article as a bare list entry. '
               'Either weave the finding into that page\'s narrative or drop the entry.')
