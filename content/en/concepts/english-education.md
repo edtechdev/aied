@@ -1,7 +1,7 @@
 ---
 title: English Education (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-09-28T21:21:51-04:00"
+updated: "2026-09-30T06:12:25-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -45,7 +45,7 @@ This concept organizes AI [[research-methods-aied|research]] in **English educat
 | Target language | Any L2 (French, Spanish, Japanese, …) | English specifically |
 | Focus | L2 acquisition generally: spoken dialogue, pronunciation, literacy | English as a target + the academic-English register |
 | Signature contexts | Conversation, pronunciation, general fluency | **EAP**: academic writing, reading, feedback, genre |
-| Representative AI | L2 interlocutors, pronunciation feedback, robot-assisted L2 | EAP writing tools, EFL peer-feedback, English academic writing assessment |
+| Representative AI | L2 interlocutors, [[speech-and-voice-technologies|pronunciation feedback]], robot-assisted L2 | EAP writing tools, EFL peer-feedback, English academic writing assessment |
 
 The two overlap heavily (most English learning is also L2 acquisition), but English education foregrounds English as the target and the academic register — e.g., [[alharbi-ethical-genai-eap-2026|ethical GenAI integration in EAP]], [[feedback-literacy-scripts-eap-writing|GenAI EAP writing revision]], and [[genai-differentiated-eap-reading-materials-2026|EAP reading-material adaptation]] are EAP-specific in ways generic language-learning research is not.
 
@@ -65,7 +65,7 @@ Many writing-education articles are English-first (e.g., [[marked-pedagogies-lin
 ## Articles in this cluster
 
 - **EAP-specific:** [[alharbi-ethical-genai-eap-2026|Ethical GenAI integration in EAP]], [[feedback-literacy-scripts-eap-writing|GenAI EAP writing revision]], [[genai-differentiated-eap-reading-materials-2026|EAP reading-material adaptation]].
-- **EFL/ESL/L2:** [[tact-pedagogically-adaptive-esl-tutoring|TACT ESL tutoring]], [[sutama-chatgpt-eportfolio-speaking-2026|ChatGPT EFL e-portfolio speaking]], [[irwin-muller-efl-peer-feedback-literacy|EFL peer-feedback literacy]], [[ai-vs-human-assessment-efl-tpck-2026|AI vs human EFL assessment]], [[acceptance-ai-english-tools-2026|acceptance of AI English tools]], [[ai-tools-arab-english-classrooms|AI in Arab English classrooms]].
+- **EFL/ESL/L2:** [[tact-pedagogically-adaptive-esl-tutoring|TACT ESL tutoring]], [[sutama-chatgpt-eportfolio-speaking-2026|ChatGPT EFL e-portfolio speaking]], [[irwin-muller-efl-peer-feedback-literacy|EFL peer-feedback literacy]], [[ai-vs-human-assessment-efl-tpck-2026|AI vs human EFL assessment]], [[acceptance-ai-english-tools-2026|acceptance of AI English tools]], [[ai-tools-arab-english-classrooms|AI in Arab English classrooms]], [[zhao-ji-appraisal-human-ai-revisions-2026|appraisal analysis of peer and AI revisions of EFL argumentative essays]].
 - **L2 English writing/assessment:** [[self-referential-l2-writing-llm-assessment|self-referential L2 writing assessment]], [[ai-interlocutor-l2-spoken-dialogue|L2 spoken-dialogue interlocutors]].
 - **Linguistic equity / World Englishes:** [[genai-linguistic-diversity-academic-writing|GenAI and linguistic diversity in academic writing]], [[governing-unseen-ai-literacy-language-teachers-2026|AI literacy among language teachers]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages in AI infrastructure]].
 
@@ -119,3 +119,4 @@ AI's English dominance is a defining feature of this strand. Because models are 
 - [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 - [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
+- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Peer and AI revisions of EFL argumentative essays differ in dialogic positioning (Zhao & Ji 2026)
