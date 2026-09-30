@@ -42,4 +42,4 @@ This review positions AI Anxiety as a distinct psychological phenomenon — broa
 
 ## Citation
 
-Kim, J. J. H., Soh, J. Y., Kadkol, S., Solomon, I., Yeh, H., Srivatsa, A. V., Nahass, G., Choi, J. Y., Lee, S., & Ajilore, O. (n.d.). *AI Anxiety: A Comprehensive Analysis of Psychological Factors and Interventions*. Manuscript/preprint.
+Kim, J. J. H., Soh, J., Kadkol, S., Solomon, I., Yeh, H., Srivatsa, A. V., Nahass, G. R., Choi, J. Y., Lee, S., Nyugen, T., & Ajilore, O. (2025). [*AI Anxiety: A Comprehensive Analysis of Psychological Factors and Interventions*](https://doi.org/10.1007/s43681-025-00686-9). *AI and Ethics*, 5(4), 3993–4009.

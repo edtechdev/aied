@@ -45,4 +45,4 @@ The five simulations — Satellite Positioning, Virtual Flight, QuadPhysics, Dro
 
 ## Citation
 
-[From simulation to flight: Simulation-assisted drone learning with teacher-AI co-designed scaffolds for secondary students' STEM knowledge and competencies](https://doi.org/10.1016/j.caeai.2026.100651) — Yeung, R. C. Y., Yeung, C. H., Sun, D., Keane, T., & Yang, Y. (2026). *Computers and Education: Artificial Intelligence*, 11, 100651.
+Yeung, R. C. Y., Yeung, C. H., Sun, D., Keane, T., & Yang, Y. (2026). [From simulation to flight: Simulation-assisted drone learning with teacher-AI co-designed scaffolds for secondary students' STEM knowledge and competencies](https://doi.org/10.1016/j.caeai.2026.100651). *Computers and Education: Artificial Intelligence*, 11, 100651.

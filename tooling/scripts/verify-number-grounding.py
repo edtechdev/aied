@@ -140,6 +140,10 @@ def strip_identifiers(text):
     text = re.sub(r'\]\([^)]*\)', ' ', text)
     text = re.sub(r'\[\d+(?:\s*,\s*\d+)*\]', ' ', text)   # citation markers: [7,15], [12]
     text = re.sub(r'\b[KG][-–]?12\b', ' ', text)            # the K-12 term, not the number 12
+    # Test statistics carry degrees of freedom in parentheses: F(1,41), t(2, 45), χ²(3).
+    # The tokenizer read "F(1,41)" as the number 141, which then looked ungrounded on
+    # every page reporting an ANOVA. Strip the whole call.
+    text = re.sub(r'\b(?:F|t|χ²|chi2|χ2|X2|Z|r|df)\s*\(\s*\d+(?:\s*,\s*\d+)*\s*\)', ' ', text)
     text = re.sub(r'arXiv[:\s]*\d{4}\.\d{4,5}', ' ', text, flags=re.I)
     text = re.sub(r'\b10\.\d{4,}/[^\s)\]"\']*', ' ', text)
     # release identifiers ("version 1.0.0", "v2.1") are labels, not measured claims
@@ -176,6 +180,23 @@ def ungrounded(slug):
             continue   # the reverse: the page prints "0.054" where the source prints ".054"
         if len(value) >= 4 and value in squeezed:   # survives PDF line-wrap artefacts
             continue
+        # A page may abbreviate a large count the way the source's prose does not:
+        # "678k" for a source's "678,000", or write a proportion as a percentage
+        # ("87.8" where the source prints "0.878"). Accept both, since each is the
+        # same quantity, not a different one.
+        if re.search(r'(?<![\d.])' + re.escape(value) + r'0*(?![\d])', raw_n):
+            continue   # trailing zeros: "0.4" for the source's "0.40"
+        if re.fullmatch(r'\d{1,3}(?:\.\d+)?', value) and float(value) >= 100:
+            alt = str(int(float(value) * 1000))
+            if re.search(r'(?<![\d.])' + re.escape(alt) + r'(?![\d])', raw_n):
+                continue   # thousands abbreviation: "678k" for "678,000"
+        if '.' in value:
+            try:
+                hundredths = f'{float(value) / 100:g}'
+            except ValueError:
+                hundredths = ''
+            if hundredths and re.search(r'(?<![\d.])' + re.escape(hundredths) + r'(?![\d])', raw_n):
+                continue   # proportion written as a percentage: "87.8" for "0.878"
         if any(form in raw_l for form in spelled_forms(value)):
             continue   # the source spells the number out, e.g. "Thirty-three articles"
         misses.append(value)

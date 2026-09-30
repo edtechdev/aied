@@ -43,4 +43,4 @@ page_kind: [framework]
 
 ## Citation
 
-[Language teachers’ AI literacy: A psychometric study based on the ED-AI framework](https://doi.org/10.1016/j.caeai.2026.100583) — Nabhan, S., & Habók, A. (2026). *Computers and Education: Artificial Intelligence*, 10, 100583.
+Nabhan, S., & Habók, A. (2026). [Language teachers’ AI literacy: A psychometric study based on the ED-AI framework](https://doi.org/10.1016/j.caeai.2026.100583). *Computers and Education: Artificial Intelligence*, 10, 100583.

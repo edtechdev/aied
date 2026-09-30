@@ -42,4 +42,4 @@ institutions: [change-management]
 
 ## Citation
 
-[AI for education: The digital transformation of a liberal arts institution – implementation at Lingnan University](https://www.sciencedirect.com/science/article/pii/S2666920X26000548) — Qin, S. J. (2026). *Computers and Education: Artificial Intelligence*, 10, 100592.
+Qin, S. J. (2026). [AI for education: The digital transformation of a liberal arts institution – implementation at Lingnan University](https://www.sciencedirect.com/science/article/pii/S2666920X26000548). *Computers and Education: Artificial Intelligence*, 10, 100592.

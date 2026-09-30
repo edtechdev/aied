@@ -39,4 +39,4 @@ methods: [design-based-research, qualitative-research]
 - Two of the seven activity prototypes were discontinued mid-study, so the activity sequences are context-dependent exemplars.
 ## Citation
 
-[Play with AI (PL-AI): A play-centered, design-based curriculum for AI literacy in pre-K and kindergarten](https://www.sciencedirect.com/science/article/pii/S2666920X26000317) — Lee, J. (2026). *Computers and Education: Artificial Intelligence*, 10, 100569.
+Lee, J. (2026). [Play with AI (PL-AI): A play-centered, design-based curriculum for AI literacy in pre-K and kindergarten](https://www.sciencedirect.com/science/article/pii/S2666920X26000317). *Computers and Education: Artificial Intelligence*, 10, 100569.

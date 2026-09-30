@@ -57,4 +57,4 @@ Extraction was done primarily by the first author, with an explicit "not enough 
 
 ## Citation
 
-Nanna Inie, Anne Marie Kristensen, Morten Misfeldt & Peter Dalsgaard. [A Critical Review of Critical Thinking in HCI Research About AI](https://doi.org/10.1080/10447318.2026.2722522). *International Journal of Human–Computer Interaction*, 2026, published online 21 September 2026.
+Inie, N., Kristensen, A. M., Misfeldt, M., & Dalsgaard, P. (2026). [A Critical Review of Critical Thinking in HCI Research About AI](https://doi.org/10.1080/10447318.2026.2722522). *International Journal of Human–Computer Interaction*, 2026, published online 21 September 2026.

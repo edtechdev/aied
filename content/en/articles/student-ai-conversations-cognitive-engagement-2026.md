@@ -42,4 +42,4 @@ level: [higher ed]
 
 ## Citation
 
-[Chat as Learning: Student-AI Conversations as Discipline-Associated Cognitive Engagement Patterns](https://www.sciencedirect.com/science/article/pii/S2666920X26001062) — Chang, C.-K., & Li, K.-H. (2026). *Computers and Education: Artificial Intelligence*, 11, 100644.
+Chang, C.-K., & Li, K.-H. (2026). [Chat as Learning: Student-AI Conversations as Discipline-Associated Cognitive Engagement Patterns](https://www.sciencedirect.com/science/article/pii/S2666920X26001062). *Computers and Education: Artificial Intelligence*, 11, 100644.

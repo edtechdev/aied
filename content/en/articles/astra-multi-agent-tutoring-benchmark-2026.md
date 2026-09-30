@@ -45,4 +45,4 @@ The benchmark is deliberately positioned as **simulated evidence for benchmarkin
 - Agent performance is tied to the underlying gpt-4o-mini client, and no human-subject data or ethics-approved classroom deployment was collected — empirical validation remains future work.
 ## Citation
 
-[ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring and participation-balanced collaboration in introductory programming](https://doi.org/10.1016/j.caeai.2026.100633) — Oyelere, S. S. (2026). *Computers and Education: Artificial Intelligence*, 11, 100633.
+Oyelere, S. S. (2026). [ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring and participation-balanced collaboration in introductory programming](https://doi.org/10.1016/j.caeai.2026.100633). *Computers and Education: Artificial Intelligence*, 11, 100633.

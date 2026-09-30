@@ -44,4 +44,4 @@ The model is grounded in an integrative theoretical framework: [[constructivist]
 
 ## Citation
 
-[In the AI era: A project-based digital storytelling framework for art and design education](https://doi.org/10.1016/j.caeai.2026.100645) — Tian, Y., Tang, M., Li, G., & Dang, W. (2026). *Computers and Education: Artificial Intelligence*, 11, 100645.
+Tian, Y., Tang, M., Li, G., & Dang, W. (2026). [In the AI era: A project-based digital storytelling framework for art and design education](https://doi.org/10.1016/j.caeai.2026.100645). *Computers and Education: Artificial Intelligence*, 11, 100645.

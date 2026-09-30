@@ -41,4 +41,4 @@ To address this, the authors propose **CAP4CPS** (Context-Aware Prompting for CP
 - Ground truth came from manual coding with 20% of the data double-coded (Kappa 0.937 overall, 0.871 for chat), the prompt template is manually fixed, and no real-time deployment was tested, so claims about near-real-time feedback remain prospective.
 ## Citation
 
-[Context-aware prompting for collaborative problem solving skill identification](https://doi.org/10.1016/j.caeai.2026.100567) — Zhu, M., Feng, L., Wang, X., & Huang, W. (2026). *Computers and Education: Artificial Intelligence*, 10, 100567.
+Zhu, M., Feng, L., Wang, X., & Huang, W. (2026). [Context-aware prompting for collaborative problem solving skill identification](https://doi.org/10.1016/j.caeai.2026.100567). *Computers and Education: Artificial Intelligence*, 10, 100567.

@@ -37,4 +37,4 @@ technology: [technology-acceptance-model]
 - All six constructs — perceived usefulness, ease of use, subjective norm, AI anxiety, AI self-efficacy, and behavioral intention — were self-reported Likert items, leaving the relationships open to common-method effects.
 ## Citation
 
-[Exploring factors influencing preschool teachers' behavioral intention to use AI technologies in early childhood settings](https://www.sciencedirect.com/science/article/pii/S2666920X26000287) — Duan, Z., Shan, Y., & Gong, Y. (2026). *Computers and Education: Artificial Intelligence*, 10, 100589.
+Duan, Z., Shan, Y., & Gong, Y. (2026). [Exploring factors influencing preschool teachers' behavioral intention to use AI technologies in early childhood settings](https://www.sciencedirect.com/science/article/pii/S2666920X26000287). *Computers and Education: Artificial Intelligence*, 10, 100589.

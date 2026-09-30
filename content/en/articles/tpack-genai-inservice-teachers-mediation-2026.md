@@ -39,4 +39,4 @@ methods: [mixed-methods-research]
 
 ## Citation
 
-[From proficiency to pedagogy: A mixed-methods study of in-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge](https://www.sciencedirect.com/science/article/pii/S2666920X26000834) — Mohebi, L., & ElSayary, A. (2026). *Computers and Education: Artificial Intelligence*, 10, 100599.
+Mohebi, L., & ElSayary, A. (2026). [From proficiency to pedagogy: A mixed-methods study of in-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge](https://www.sciencedirect.com/science/article/pii/S2666920X26000834). *Computers and Education: Artificial Intelligence*, 10, 100599.

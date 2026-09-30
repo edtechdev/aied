@@ -43,4 +43,4 @@ page_kind: [evaluation]
 
 ## Citation
 
-[Taming the black box: Design principles for rule-integrated LLM tutoring systems in primary school mathematical problem solving](https://www.sciencedirect.com/science/article/pii/S2666920X26000482) — Looi, C.-K., Liu, Z., & Sun, D. (2026). *Computers and Education: Artificial Intelligence*, 10, 100586.
+Looi, C.-K., Liu, Z., & Sun, D. (2026). [Taming the black box: Design principles for rule-integrated LLM tutoring systems in primary school mathematical problem solving](https://www.sciencedirect.com/science/article/pii/S2666920X26000482). *Computers and Education: Artificial Intelligence*, 10, 100586.

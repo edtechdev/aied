@@ -46,4 +46,4 @@ Methodologically, the study applies exploratory factor analysis (EFA; KMO = 0.68
 - The sample is skewed — 72.9% male, mean age 21.4 years, 77.1% bachelor's students, and 57.2% educated in Asia — so group contrasts rest on uneven cells.
 ## Citation
 
-[An Exploratory Machine Learning Approach to Understanding Determinants of Future ChatGPT Use in Higher Education](https://doi.org/10.1016/j.caeai.2026.100613) — Verma, C., & Kumar, D. (2026). *Computers and Education: Artificial Intelligence*, 10, 100613.
+Verma, C., & Kumar, D. (2026). [An Exploratory Machine Learning Approach to Understanding Determinants of Future ChatGPT Use in Higher Education](https://doi.org/10.1016/j.caeai.2026.100613). *Computers and Education: Artificial Intelligence*, 10, 100613.
