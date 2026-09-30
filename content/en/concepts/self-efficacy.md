@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T12:53:22-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -34,6 +34,9 @@ Self-efficacy is distinct from actual competence: it is a belief about capabilit
 
 - **Skills can enable dependency while efficacy buffers it.** Among 478 Israeli undergraduates, the skill dimensions of [[ai-literacy|AI literacy]] were positively associated with AI dependency (using/understanding AI β = 0.404) while AI self-efficacy was negatively associated (β = −0.132), so literacy training that builds only tool skill may increase reliance ([[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel et al. (2026)]]).
 - **Trust as the pivot between literacy and confidence:** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] surveyed 450 university students who already use ChatGPT and found an ordered chain rather than two parallel correlates: [[ai-literacy|AI literacy]] related to [[trust]] in the tool (beta = 0.50), trust to academic self-efficacy (0.48), and self-efficacy to continued use, with the serial indirect effect significant (0.07, 95% CI [0.04, 0.10]). [[anxiety-and-stress|AI anxiety]] weakened the literacy to trust link (interaction beta = -0.25, simple slopes falling from 0.76 to 0.25 across the anxiety range), so the same knowledge bought less confidence, and reached less use, among more anxious students. Confidence is thus a downstream link in the chain rather than a starting point.
+
+
+The anxiety route through which AI-assisted practice relates to willingness can reverse rather than fade with confidence: the conditional indirect association fell from 0.142 at low speaking self-efficacy to 0.044 at the mean and −0.054 at high, an effect concentrated in a small upper tail ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 - **Profiles of academic self-efficacy and who reaches for AI:** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et al. (2026)]] ran a latent profile analysis of academic self-efficacy among 102 university students with motor disabilities in Spain and found three profiles (low 29.4%, moderate 41.2%, high 29.4%) whose reported AI use rose stepwise with profile level (means 2.41, 3.56, 4.68; F(2, 99) = 27.84, p < .001, eta squared = .36), with Excellence, the planning and goal-setting dimension, most strongly associated with AI use (beta = .47). The authors read this as an [[equity-in-ai-education|equity]] problem: if confidence tracks with uptake, students with lower self-efficacy may be the least likely to reach for AI support that could reduce [[accessibility|access]] barriers, so support for academic self-efficacy belongs inside [[inclusive-learning|inclusion]] frameworks.
 - **AI use patterns and self-efficacy:** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] found that using [[generative-ai|GenAI]] to *support understanding* (evaluative integration) was fully mediated by academic self-efficacy in its association with performance — understanding-oriented AI use builds confidence — whereas shortcut use (low-verification uptake) predicted worse outcomes partly independently of self-efficacy. Self-efficacy is thus both a pathway through which productive AI use helps and a factor that shortcut use may fail to build.
 - **Attribution shapes whether efficacy grows.** Crediting success to the AI rather than to one's own effort constrains [[self-efficacy]] growth and reinforces shortcut patterns, so sequencing complex activities into steps where students attribute progress to their own strategies matters more than the tool ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]).
@@ -81,3 +84,5 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[hu-psychological-predictors-continued-chatgpt-use-2026]] — AI literacy, trust and academic self-efficacy in a serial chain to continued ChatGPT use
 - [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Academic self-efficacy profiles and reported AI use among university students with motor disabilities
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Reported creative self-efficacy gains from generative AI in children (scoping review)
+
+- [[ai-speaking-practice-communicative-readiness-2026]] — Speaking self-efficacy reverses the anxiety pathway from AI-assisted practice to willingness

@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T12:53:22-04:00"
 type: concept
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
@@ -63,6 +63,9 @@ The concepts form a pipeline rather than competitors: **student modeling** is th
 ## The shared validity challenge
 
 Across the whole family, the defining validity challenge is the same: the learner representation must **faithfully reflect a learner's true state** rather than the system's default assumptions. For **student modeling** and [[knowledge-tracing]], this means the model must genuinely capture what a learner knows ([[ai-ed-evaluation|evaluation]] and [[assessment-validity|measurement validity]]). For [[simulating-students|simulation]], it means the synthetic learner must exhibit realistic imperfection rather than the model's full competence or [[ai-sycophancy|sycophantic]] agreement. Adaptive systems that consume faulty models inherit and propagate that error.
+
+
+Models that infer learner state from gameplay reached AUCs of 0.848–0.913, yet only two of the 55 reviewed studies audited them for demographic bias and just one examined differential outcomes by learner ability ([[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt (2026)]]).
 Some intended signals may not be recoverable from dialogue at all: the Learning Context framework's pilot recovered misconceptions at 91.4% and anxiety at 100% but conscientiousness at only 68.6% and language proficiency at 60%, so a context-aware model should capture slow-to-surface traits rather than wait for dialogue to expose them ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
 
 [[edumirror-educational-social-dynamics|Lin et al. (2026)]] expose a circularity in how such synthetic learners are validated: their EduMirror agents administer psychometric questionnaires post-hoc and read agreement with the agent's internal value representation as psychological validity, but because the Surveyor measures dimensions already encoded in that value system the check is a consistency check rather than independent validation.
@@ -137,3 +140,5 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[vi
 - [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — compact learner state plus a calibrated tracer as a recommender environment
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
+
+- [[ai-game-based-learning-systematic-review-2026]] — Stealth assessment reached AUCs of 0.848–0.913, but bias audits were near-absent across 55 studies

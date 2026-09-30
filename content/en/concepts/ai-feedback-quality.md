@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-09-30T12:53:22-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 type: concept
 foundations: [ai-literacy]
@@ -71,6 +71,9 @@ A controlled comparison isolates the feedback component from the adaptive system
 - **Linguistic and perceptual quality of AI instructional comments:** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du and Jin (2026)]] assess ChatGPT-generated in-video scaffolding comments against instructor comments on part-of-speech composition, 3-gram diversity, Zipf's law conformity, readability, topical relevance (TF-IDF and BERTScore), and learner ratings. The generated comments were *more* complex and adjective-rich but *less* varied and less readable, and trailed human comments on topical alignment (0.607 vs. 0.747 BERTScore for knowledge support) and on perceived timing and helpfulness — evidence that AI feedback quality must be judged on linguistic [[accessibility]] and [[affective-computing|affective]] fit, not relevance alone. Their analytic battery is offered as a reusable [[learning-analytics]] pipeline for auditing AI-generated instructional content.
 
 - **Prompt design and model choice as measured predictors of quality:** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] decompose the sources of AI feedback quality with hierarchical regression on feedback generated for 153 pre-service teachers' lesson-planning goals. Across 240 feedbacks from three models under four systematically varied prompts, the model alone explained 26.9% of the variance in nine-category quality ratings and adding the prompt lifted the model to 42.8% (ΔR² = 15.9%); in a replication with the strongest model-prompt combinations (345 feedbacks) the model explained 18.4% and the prompt a further 5.7%. The largest single prompt effect was negative: replacing domain-specific technical terminology with everyday paraphrases lowered feedback quality significantly (β = −0.412), while adding concrete examples and removing the chain-of-thought instruction were not significant in the first study. Quality is therefore not a fixed property of "the AI" — it is jointly produced by which model is chosen and how the task is phrased, and both are teachable.
+
+
+Style is a quality dimension with a cost: with the same model, directive feedback scored higher on prioritizing essential features and on specificity, while Socratic feedback raised comprehension monitoring — and directive feedback carried the higher cognitive load ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
 How the feedback is *produced* belongs on that list too. In a modular automated writing evaluation system for argumentative essays, supervised fine-tuning on 90 teacher-annotated essays produced unusable feedback — the fine-tuned GPT-4o exceeded its 8,000-token context window on every inference and fine-tuned LLaMA-3.3-70B emitted JSON that would not parse — whereas directly prompting Claude 3.7 generated 630 micro comments across 40 essays whose teachers judged 94.69% necessary and effective, leading the authors to conclude that for a non-deterministic generation task prompting can beat fine-tuning ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]]).
 
 ### Quality dimensions
@@ -143,3 +146,4 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[nazaretsky-feedback-source-bias-2025]] — Blind-then-disclosed source labels on identical feedback: students rate AI-labeled feedback lower and read low-rated human feedback as AI
 
 - [[intelligent-tutoring-mathematics-education-review-2026]] — Narrative review of AI tutoring in mathematics: real-time feedback gains and implementation conditions
+- [[agent-type-feedback-style-self-directed-learning-2026]] — Socratic versus directive feedback styles: comprehension monitoring against prioritization, and the cognitive-load cost

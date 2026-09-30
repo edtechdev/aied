@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-09-30T12:53:22-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -71,6 +71,9 @@ TAM's cognitive focus also under-captures emotional and relational dimensions of
 
 **Risk perception as a dimension-specific extension.** A survey of 814 Chinese university students ([[risk-perception-genai-perceived-benefits-2026|Du, Ning, Shi & Chen (2026)]]) folds Cognitive Appraisal Theory and Protection Motivation Theory into TAM/UTAUT2 to ask not whether students adopt [[generative-ai|generative AI]] but what they gain from it. The model family's assumption that risk uniformly suppresses adoption does not survive: risk perception splits into information, security, technical, [[ethics|ethical]], and legal dimensions that move benefits in opposite directions. Security risk — a threat students believe they can manage through [[privacy|privacy practices]] — was *positively* associated with perceived academic assistance and skill development, consistent with problem-focused coping, whereas information risk, which learners cannot easily verify, eroded psychological and emotional support, daily-life, and leisure benefits through avoidance. Threshold analyses further showed effects that change sign beyond dimension-specific cut-points, and usage experience mattered independently: students with more than a year of GenAI use reported higher benefits across four domains. The practical implication for acceptance research is that "perceived risk" is too coarse a construct to model — controllability, not the mere presence of risk, is what determines whether students engage or withdraw.
 
+
+Risk's link to use also depends on the system: across the 49 TALIS 2024 systems that administered the items, perceived AI utility was positively associated with AI use in all 49, while perceived risk was negatively associated in 40 and positively in nine ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
+
 ## Connected Concepts
 
 - [[business-education]]
@@ -112,3 +115,4 @@ TAM's cognitive focus also under-captures emotional and relational dimensions of
 - [[risk-perception-genai-perceived-benefits-2026]] — CAT + PMT folded into TAM/UTAUT2: dimension-specific and non-monotonic risk effects on perceived GenAI benefits (Du, Ning, Shi & Chen 2026)
 
 - [[capability-decision-model-teacher-readiness-2026]] — Ordered alternative to bolting TPACK capability onto Theory of Planned Behavior adoption models
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Person-centered TALIS 2024 profiles of perceived AI utility and risk across 49 systems

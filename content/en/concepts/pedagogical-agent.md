@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T12:53:22-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -64,6 +64,9 @@ Pedagogical agents sit at the intersection of [[intelligent-tutoring]] (their di
 
 Crucially, pedagogical agents are judged by their [[learning-gains|learning gains]], not by how fluently they respond. The knowledge base's evidence is that agents produce durable gains when designed as tutoring-specific coaches with guardrails — [[stanford-evidence-base-ai-k12-2026|tutoring-specific AI consistently outperforms general-purpose chatbots]] — and can harm learning when they substitute for the learner's effort ([[generative-ai-guardrails-harm-learning|the guardrail RCT]], [[jost-llm-programming-education-learning-outcomes|LLM-reliance and grades]]). Measuring an agent's [[learning-gains]] therefore requires unassisted, transferable outcome measures, not in-tool performance.
 
+
+Better feedback is not the same as better learning: customizing an agent with knowledge bases and a workflow raised feedback accuracy and specificity but left self-regulatory behaviors, learning experiences and outcomes unchanged, and its gain advantage appeared only under directive feedback ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
+
 ## Connected Concepts
 
 - [[learning-gains]]
@@ -122,3 +125,5 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
 
 - [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
+
+- [[agent-type-feedback-style-self-directed-learning-2026]] — Customized agent raised feedback quality but not self-regulation or outcomes; gain edge only under directive feedback

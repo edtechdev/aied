@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-09-30T12:53:22-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -71,6 +71,9 @@ The knowledge base's PD literature identifies effective approaches:
 - **Inquiry and authentic practice:** [[quest-ai-inquiry-preservice-teachers|AI-supported inquiry models]] build AI literacy and authentic performance in pre-service teachers.
 - **Context-specific readiness:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI readiness framework]] emphasizes that faculty readiness is a sociotechnical issue requiring alignment of faculty capacity, [[governance]], and quality assurance.
 - **Support must be differentiated by experience and AI proficiency.** [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] found that how teachers actually interact with AI in lesson design depends on the *interplay* of teaching experience and AI proficiency, not either alone. Experienced teachers with high AI proficiency critically adapt AI output to context (re-prompting, elaboration), whereas novices — even technically fluent ones — tend to accept AI responses directly and rarely consider students and context. This argues for profiling-based PD: response-evaluation checklists and prompt templates for novices, and hands-on skill-building for experienced teachers with lower AI proficiency.
+
+
+Belief configuration is a second profiling axis: among 40,680 teachers in TALIS 2024, the same non-use status masked opposite barriers — 83.3% of the Indifferent profile cited pedagogical reservations while 66.2% of Measured Endorsement cited insufficient knowledge and skills ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]). AI-related professional learning tracked profile membership more consistently than age or attainment.
 
 - **Teachers do not share one conception of AI.** A phenomenographic study of 16 Danish higher-education teachers found three conceptions of teaching-with-AI and three of learning-with-AI, so a single workshop model reaches only part of any faculty group ([[stenalt-good-education-teacher-ai-conceptions-2026|Stenalt (2026)]]).
 - **Co-design and pedagogical prompt literacy are competencies, not add-ons.** A [[meta-analysis-systematic-review|systematic review]] of teacher–AI co-design of learning tasks ([[wang-teacher-ai-co-design-review-2026|Wang, Liu & Islam 2026]], 28 studies) finds the dominant collaboration mode is AI as assistant/content generator, and locates a gap in teachers' fuller co-design and dialogic partnership capacities. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] shows PD that pairs technical AI training with pedagogical reasoning — building "pedagogical prompt literacy" (encoding [[tpack|PCK]] into prompts) — is what lets teachers turn AI output into effective [[collaborative-learning|differentiated group activities]].
@@ -169,3 +172,4 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 
 - [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first teacher readiness model with performance-based capability indicators
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national survey of 1,405 K-12 teachers: readiness predicts positive beliefs but not concern
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Four TALIS 2024 teacher belief profiles link professional learning and profile-specific barriers to AI use

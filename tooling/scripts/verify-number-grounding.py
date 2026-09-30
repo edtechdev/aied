@@ -192,6 +192,12 @@ def ungrounded(slug):
         # same quantity, not a different one.
         if re.search(r'(?<![\d.])' + re.escape(value) + r'0*(?![\d])', raw_n):
             continue   # trailing zeros: "0.4" for the source's "0.40"
+        if '.' in value:
+            # ...and the reverse, where the page pads a zero the source omits:
+            # the page prints "0.30" for a source's "0.3".
+            trimmed = value.rstrip('0').rstrip('.')
+            if trimmed != value and re.search(r'(?<![\d.])' + re.escape(trimmed) + r'(?![\d])', raw_n):
+                continue
         if re.fullmatch(r'\d{1,3}(?:\.\d+)?', value) and float(value) >= 100:
             alt = str(int(float(value) * 1000))
             if re.search(r'(?<![\d.])' + re.escape(alt) + r'(?![\d])', raw_n):

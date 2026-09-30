@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-30T12:20:22-04:00"
+updated: "2026-09-30T12:53:22-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -37,6 +37,9 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 
 
 - **High approval can coexist with strain, and AI task pressure weakens the benefit.** Among 551 first-year students, 82.76% approved the integration of digital and intelligent content while 69.51% reported [[anxiety-and-stress|anxiety]] or tension, and the AI-proficiency-to-adjustment slope fell from 0.42 to 0.20 as AI task pressure rose ([[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin (2026)]]).
+
+
+- **Perceived AI capability can raise mental health through goal progress.** [[perceived-ai-intelligence-medical-students-mental-health-2026|Chen et al. (2026)]] found the serial path from perceived assistant intelligence to mental health significant (B = 0.098) and stronger at high [[ai-literacy]] (0.124) than low (0.072), though all outcomes were measured immediately after a brief task.
 
 - **Emotional-support tutoring is not automatically better for well-being.** An LLM mindfulness layer added to an algebra tutor reduced state-math anxiety in both arms but no more than cognitive-only hints and feedback, though students rated the mindful agent more supportive — a caution against reading perceived care as a well-being outcome ([[mindful-llm-math-tutoring-2026|Rief et al., 2026]]).
 
@@ -95,3 +98,4 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 
 - [[ai-enabled-course-development-first-year-adjustment-2026]] — High AI-course approval coexisting with self-reported strain, and task pressure weakening adjustment
 - [[ai-connectedness-adolescent-mental-health-2026]] — AI connectedness and adolescent mental health: supplementary versus compensatory bonding, with an inverted-U prediction
+- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Perceived AI assistant intelligence, goal progress and mental health, with AI literacy as moderator

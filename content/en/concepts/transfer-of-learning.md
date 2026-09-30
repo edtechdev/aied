@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-09-30T12:53:22-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -25,6 +25,9 @@ reviewed_by: [editor]
 ## Introduction
 
 Transfer of learning is a foundational concern in education [[research-methods-aied|research]], and AI tools have made it urgent. The defining empirical pattern documented across AI in education studies is a **transfer paradox**: students using AI typically show immediate, measurable gains on tasks where AI is available, but those gains often fail to persist — or even reverse — when AI is removed and students must demonstrate understanding independently. This pattern implicates [[cognitive-offloading|Over-Reliance]], Cognitive Load Theory, and [[metacognition]] as the mechanisms at work, and connects directly to debates about [[intelligent-tutoring|AI Tutoring]] design.
+
+
+Readiness is not transfer: AI-assisted spoken practice was associated with lower speaking anxiety and higher willingness to communicate with humans, yet neither study observed human speaking, leaving the route from AI rehearsal to human communicative ability an untested pedagogical proposal ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
 ### The transfer paradox
 
@@ -113,3 +116,5 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[rachatasumrit-example-problem-ratio-2026]]
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
 - [[shi-genai-experiential-learning-management-education-2026]] — argues that protected classroom simulations can form decision habits that fail outside them
+
+- [[ai-speaking-practice-communicative-readiness-2026]] — AI-assisted speaking practice raised willingness toward humans but no study observed human speaking

@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T12:20:22-04:00"
+updated: "2026-09-30T12:53:22-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -146,6 +146,9 @@ The knowledge base's frameworks and empirical studies converge on a set of pract
 
 A distinct research thread treats AI literacy not only as a target for instruction but as a construct to be measured. The knowledge base's assessment strand distinguishes **self-reported** from **performance-based** literacy: self-reports diverge sharply from demonstrated competence (teachers overestimate by ~40%), and performance-based measures predict classroom AI integration far better than confidence surveys (r≈0.72 vs 0.31). Intervention work reproduces that divergence at the level of behavior: in [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]], neither GenAI attitudes nor a general metacognitive-awareness scale predicted students' regulation of LLM interaction or their final task scores (r = .01 and r = .04, both non-significant), while the behaviors the workshop changed — rejecting underspecified prompts, judging answer correctness, asking a follow-up — did track answer quality. Validated instruments are emerging to close this gap — the [[jin-glat-genai-literacy-assessment|GLAT]] provides a psychometrically validated generative-AI literacy assessment, and diagnostic profiles (overestimators vs. true novices) let designers target support where it is needed. For design and research, this ties AI literacy to [[educational-measurement]] and to [[assessment]] broadly: a literacy framework is only as useful as the instruments used to track growth, and stage-based continua require reliable measurement to place learners along them.
 
+
+A 32-item six-facet instrument extends the four-dimension model with two further facets — responsible use and self-development — and holds scalar invariance across adolescents (12–17), young adults (18–40) and midlife adults (41–60), though the authors caution the ΔCFI approached the conventional cutoff ([[sfailq-six-facet-ai-literacy-questionnaire-2026|Liu et al. (2026)]]).
+
 [[zhi-modeling-measuring-graduate-genai-literacy-2026|Zhi, Yang and Huang (2026)]] build a graduate-specific model on Marzano's taxonomy: grounded-theory analysis of interviews with 14 professors condensed 329 raw labels into 96 concepts, 15 categories and five dimensions (cognitive foundation, operational skills, higher-order thinking, metacognitive reflection, ethical responsibility), then operationalized them as a 15-item Likert scale whose five factors emerged in exploratory factor analysis (83.14% of cumulative variance) and held in confirmatory factor analysis on a second subsample (CFI = 0.934, RMSEA = 0.083), with reliability from 0.796 to 0.842 across 308 valid questionnaires.
 
 A related question is *what* the instruments can measure at all. [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] note that existing AI literacy scales and competency frameworks assume individually measurable performance and so structurally exclude collaborative, creative expression — their unit's evidence was [[multimodal]] film artifacts, reflections, and civic discourse rather than a [[summative-assessment|summative]] score, and the authors argue such evidence can *complement* rather than replace conventional measures. Broadening the construct may therefore require broadening the admissible evidence, not merely adding modality-rich items to existing scales.
@@ -241,3 +244,4 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[ai-competence-framework-landscape-2026]] — Comparative analysis of 16 AI competence frameworks for education and workforce development
 
 - [[ai-literacy-determinants-university-students-2026]] — External resources, digital competence and psychological profile as joint determinants, with a technology-anxiety sign reversal
+- [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Six-facet instrument adding responsible-use and self-development facets, scalar-invariant across adolescents, young adults and midlife adults

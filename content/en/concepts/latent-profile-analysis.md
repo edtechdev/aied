@@ -1,7 +1,7 @@
 ---
 title: "Latent Profile Analysis"
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-09-30T12:20:22-04:00"
+updated: "2026-09-30T12:53:22-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
@@ -36,6 +36,8 @@ Ordinary clustering ([[machine-learning|k-means]] and hierarchical) pursues the 
 Three uses recur.
 
 - **Establishing heterogeneity before designing for it.** Kremen and colleagues' survey of 395 Ukrainian education managers used person-centered LCA to show that "the manager" is a fiction: six typologies run from Competency-constrained (25.6 percent, willing but unskilled) to Barrier-free skeptics (highest readiness yet 74 percent AI distrust), and the authors read them as a mandate for differentiated training.
+
+- **Cross-system alignment as a stability check.** [[teachers-ai-belief-profiles-talis-2024-2026|Fang and Jin (2026)]] retained four belief profiles from 40,680 teachers across 49 education systems (Indifferent 6.13% to Measured Endorsement 56.29%), and changing the alignment reference left classification agreement at 99.62% — while utility ordered the profiles identically in all 49 systems and risk did not.
 - **Recovering subgroups an aggregate hides.** Acquah and colleagues retained five ethical-awareness profiles from Comprehensive Very High (26.1 percent) to Low Ethical Awareness (4.5 percent, beneficence 2.06), a spread running from just over a quarter of the sample to under a twentieth. Chen and colleagues found that Resistant Skeptics reported high perceived ease of use but very low behavioral intention — the corpus's clearest demonstration that the ease-of-use/intention paradox is invisible to a mean-level model.
 - **Profiling calibration rather than level.** The teacher AI-literacy study applied LPA to the agreement between [[self-report-measures|self-report]] and objective measures, yielding six profiles: overestimation, underestimation, alignment, and a low/low group concentrated among teachers without prior [[ai-literacy|AI literacy]] experience. Here profiles describe a pattern across instruments, not a score band.
 
@@ -95,3 +97,5 @@ Four cautions, each stated in the source pages:
 - [[liang-ai-learning-motivation-sdt-2026]] — Latent transition analysis of three motivation profiles over a year
 - [[trust-in-ai-psychological-profiles-ml-2026]] — K-means profiles; silhouette vs. Calinski–Harabasz disagreement; ARI 0.989
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Hierarchical and k-means clustering into four GenAI adoption personas
+
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Four teacher AI-belief profiles from 40,680 teachers in 49 systems, with alignment stability
