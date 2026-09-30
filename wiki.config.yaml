@@ -81,7 +81,12 @@ build:
     - python3 tooling/scripts/check-resource-wiring.py
     # Ingesting an article is not finished until it has been screened against the concept
     # pages and the outcome recorded - integrated, or a reason why nothing qualified.
-    - python3 tooling/scripts/check-concept-screen.py
+    # Scoped with --changed so this runs in the cheap pass a normal ingestion uses: the
+    # step was skipped for a whole batch precisely because this gate was skipped there.
+    - python3 tooling/scripts/check-concept-screen.py --changed
+    # The record above proves a screen happened; this proves the integration is real prose
+    # rather than a bare Connected Articles entry (the append-only pattern).
+    - python3 tooling/scripts/check-concept-integration.py --changed
     # Typed facet fields are authored directly (tags were retired) and must hold
     # concept slugs from their own registry section.
     - python3 tooling/scripts/validate-facets.py
