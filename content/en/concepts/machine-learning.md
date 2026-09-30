@@ -4,7 +4,7 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-28T21:21:51-04:00"
+updated: "2026-09-29T20:22:52-04:00"
 reviewed_by: [editor]
 ---
 
@@ -53,7 +53,7 @@ Validation practice is another source of overconfidence. [[schuetze-knowledge-tr
 
 ## Teacher education and machine-learning literacy
 
-Machine learning also appears in education as a *subject*. In [[microbit-robotics-machine-learning-teacher-training-2026|initial teacher training]], hands-on coding and robotics interventions using the Micro:bit and supervised image-classification projects significantly improved preservice teachers' knowledge of computational concepts and introductory machine learning, and their attitudes toward teaching it. As [[ai-literacy|AI literacy]] enters curricula, equipping [[teacher-education|teachers]] with a working grasp of machine learning becomes a precondition for teaching it to students.
+Machine learning also appears in education as a *subject*. In [[microbit-robotics-machine-learning-teacher-training-2026|initial teacher training]], hands-on coding and robotics interventions using the Micro:bit and supervised image-classification projects significantly improved preservice teachers' knowledge of computational concepts and introductory machine learning, and their attitudes toward teaching it. As [[ai-literacy|AI literacy]] enters curricula, equipping [[teacher-education|teachers]] with a working grasp of machine learning becomes a precondition for teaching it to students. A contrasting route reaches the same concepts without any software: in [[sung-ai-literacy-unplugged-ml-k12-pd-2026|Sung and Gunpinar's (2026) online professional development]], ten K-12 educators built an "explainable feature matrix" by hand — a yes/no table of shape features that *is* the classifier, testable and revisable rather than opaque — with Code.org's sorting game and Google Slides as the only tools. Their [[self-efficacy|AI self-efficacy]] rose from below-moderate (M = 3.13) to above-moderate (M = 3.71) and negative descriptors in a word-association task fell from 30% of participants to none, though the evidence is small, uncontrolled, and entirely [[self-report-measures|self-reported]].
 
 ## Connected Concepts
 
