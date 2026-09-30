@@ -27,6 +27,7 @@ when the mechanism does, and back-filling 1,500 historical pages is not the inte
 """
 import os
 import re
+import subprocess
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -53,6 +54,31 @@ def frontmatter_date(text, key):
     return m.group(1) if m else ''
 
 
+def changed_article_slugs(wiki):
+    """Article slugs created or edited in the working tree since HEAD.
+
+    This is what `--changed` checks, so the gate can run inside the scoped gate
+    pass that a normal ingestion uses. Mirrors run-gates.py's changed_slugs: the
+    untracked listing matters, because a brand-new article is exactly the case
+    this gate exists for and it is not in `git diff HEAD` until it is added.
+    """
+    cmds = [
+        ['git', 'diff', '--name-only', 'HEAD'],
+        ['git', 'ls-files', '--others', '--exclude-standard'],
+    ]
+    paths = set()
+    for cmd in cmds:
+        out = subprocess.run(cmd, cwd=wiki, capture_output=True, text=True).stdout
+        paths.update(p for p in out.splitlines() if p.strip())
+    slugs = set()
+    for p in paths:
+        parts = p.replace('\\', '/').split('/')
+        if p.endswith('.md') and len(parts) >= 3 and parts[0] == 'content' \
+                and parts[1] == 'en' and parts[2] == 'articles':
+            slugs.add(os.path.basename(p)[:-3])
+    return sorted(slugs)
+
+
 def main(argv):
     wiki = os.environ.get('WIKI_ROOT') or os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     cfg = load_config()
@@ -73,6 +99,11 @@ def main(argv):
             by_article[str(e['article'])] = e
 
     want = set(argv[1:])
+    if '--changed' in want:
+        want = set(changed_article_slugs(wiki))
+        if not want:
+            print('No changed article page(s) vs HEAD - no concept screen to check.')
+            return 0
     art_dir = path(cfg, 'articles')
     problems = []
     checked = 0
