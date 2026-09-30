@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T11:35:26-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -52,6 +52,9 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 
 - **Emerging [[ai-technologies|technologies]] yield small-to-moderate, level-dependent gains.** A [[liu-emerging-tech-tefl-review-2026|meta-analysis of 33 TEFL studies]] (N = 3,181) finds an overall effect of Hedges' g = 0.38 that rises with educational level (primary 0.29, secondary 0.35, tertiary 0.44), with VR/AR yielding the largest effects and productive skills (speaking, writing) gaining more than receptive skills — supporting the use of emerging tech, especially at tertiary level, while keeping expectations realistic.
 - **Use AI to extend communicative practice, not replace it.** [[ai-interlocutor-l2-spoken-dialogue|AI interlocutors]] and [[tact-pedagogically-adaptive-esl-tutoring|adaptive ESL tutors]] expand interactional practice at scale — pair them with human interaction so fluency and uptake transfer to real conversation.
+
+
+- **Watch AI output for pragmatic, not just grammatical, error.** Teachers across five online language-teaching methods named pragmatic blindness, where AI output is grammatically correct but wrong in tone, formality or culture ([[ai-ethics-tensions-online-pedagogy-2026|Baoyi and Khan (2026)]]).
 - **Prioritize feedback quality over quantity in ASR-supported speaking.** [[asr-english-speaking-feedback-metacognition-2026|Chen et al. (2026)]] find that accurate error correction and structured reflection tasks improve [[feedback]] internalization and reflective behavior in college English speaking, while frequent ASR use and recognition accuracy boost motivation or reflection only partially — technical precision alone does not drive deeper cognitive engagement, and language proficiency moderates the gains (stronger learners internalize feedback more effectively). This argues for pedagogically sound feedback (e.g., articulatory explanations over simple error flags), scaffolded reflection, and proficiency-differentiated support.
 
 - **Give clues before corrections.** A 'clue before correction' ChatGPT task, in which learners infer fixes from guided hints rather than receiving direct corrections, reduced cognitive load and supported personalized revision — but the benefit held mainly for learners who already had enough prior knowledge (58 students, CEFR A1–B1) ([[lukesova-clue-before-correction-2026|Lukešová & Jennings (2026)]]).
@@ -118,3 +121,5 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 - [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 learners (Lu et al. 2026)
 
 - [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
+
+- [[ai-ethics-tensions-online-pedagogy-2026]] — Pragmatic blindness: AI language output can be grammatically correct but culturally wrong

@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T11:35:26-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -93,6 +93,9 @@ The same section of the evidence base supplies the case-file counterpart, and it
 
 [[opraise-automated-marking-ai-assessment-2026|The OpRaise comparison of three frontier models against 761 authentic essays across three UK universities]] makes the benchmark part of the validity argument. Human marks were used as ground truth on the explicit ground that academic judgment is the socially accepted standard, while the authors acknowledge that human markers agree only moderately with one another — which caps the AI–human agreement that could reasonably be demanded, and means a correlation cannot be read as ready-or-not without a reference point. Within that frame the failures appeared as systematic structure rather than random error: marks compressed toward the middle of the scale, so the best and worst essays were misjudged most; agreement was weakest at grade boundaries; and AI marks tracked vocabulary range, connectives and sentence complexity while human marks were broadly insensitive to them. The practical lesson is double-edged, because the same study found reliability to be excellent — identical re-marks across time and high agreement between models. A validity case for automated marking therefore cannot rest on stability or on average agreement; it has to show the absence of systematic deviation, which is exactly what this evidence did not find.
 
+
+Run-to-run stability is not guaranteed, however: repeating the same grading on identical submissions five days apart gave Krippendorff's alpha 0.625, with variation concentrated in the middle grades and A and F absent from the repeated-session counts ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
+
 - **Model size is not a proxy for assessment validity.** Across eight configurations of four families on 114 marked essays, exact band agreement spanned 18.4% to 54.4% and tracked the family rather than parameter count — the largest model, GPT-OSS 120B, undergraded by 1.316 bands, and temperature was no fix ([[llm-grade-bands-calibration-bias-2026|Kerwat et al. (2026)]]).
 
 - **Agreement and benchmark error masquerade as learning.** Two 2026 studies show distinct routes by which a score can look valid while establishing something else. An open-ended marketing-writing study found LLM-human absolute agreement of only ICC(2,1) .435 and a hybrid that was significantly worse than the LLM alone, with anchor [[writing-education|composition]] moving agreement from .338 to .902 ([[automated-scoring-marketing-posts-agreement-2026]]). An expert audit of six physics benchmarks attributed 95.20% of audited rejections to defective items or graders rather than model error, moving CritPt mean@5 from 32.29% to 87.50% ([[frontier-models-physics-benchmark-audit-2026]]). In both cases the threat is construct-irrelevant variance outside the model being scored.
@@ -156,3 +159,5 @@ The same section of the evidence base supplies the case-file counterpart, and it
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
 - [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
 - [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Student ratings of curricular alignment track item difficulty (rho = 0.762) rather than content (Vogt et al. 2026)
+
+- [[llm-grading-assistants-public-health-2026]] — Five-day repeat grading of identical submissions gave Krippendorff's alpha 0.625

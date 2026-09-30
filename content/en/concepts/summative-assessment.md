@@ -1,7 +1,7 @@
 ---
 title: Summative Assessment
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-09-30T11:35:26-04:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -55,6 +55,7 @@ The knowledge base's assessment literature consistently emphasizes that [[assess
 - **Summative format is a validity and integrity lever:** AI-resistant summative formats (oral, proctored, closed-book, in-person) preserve the connection between assessed performance and actual learning.
 - **Proctored/unassisted measures are the reliable signal:** when students use AI, unassisted summative exams — not homework — reveal genuine learning.
 - **Automated scoring needs psychometric scrutiny:** using LLMs to grade high-stakes exams requires evaluation of reliability, fairness, and validity, not just accuracy.
+ Grading error is also grade-dependent: across 32 public-health exam submissions, the LLMs avoided the scale's ends — no E or F appeared in fast mode — while the best model matched the human grade exactly on 50.0% and within ±1 grade on 90.6% ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **AI can also generate exams:** AI-assisted exam and task generation is an emerging summative-design application that itself needs quality evaluation.
 - **Reconsider grading purpose, not just format.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] critique traditional summative, norm-referenced grading for encouraging superficial, fragmented learning, giving students little control or transparency, harming intrinsic [[motivation]], fueling stress and [[well-being|anxiety]], and perpetuating inequities while largely assessing recall rather than real-world application. They position reassessment, [[mastery-learning|standards-based grading]], and ungrading as grading-focused innovations that can soften summative-heavy practice, while acknowledging these remain marginal in management education because of normative barriers — grading on a curve, external signaling (rankings, internships, accreditation), and students' instrumental mindset — and recommend incremental experimentation with institutional support.
 
@@ -72,6 +73,7 @@ The knowledge base's assessment literature consistently emphasizes that [[assess
 - [[k-12]]
 
 ## Connected Articles
+- [[llm-grading-assistants-public-health-2026]] — LLM graders compress the grade scale and avoid the extremes in high-stakes essay assessment
 
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]
