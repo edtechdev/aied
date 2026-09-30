@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -49,6 +49,7 @@ Disclosure is the mechanism that makes AI-assisted work *visible* and therefore 
 ### Disclosure is not a detection mechanism
 
 A recurring institutional error is to treat declarations as a way to catch prohibited use. They cannot serve that function: they depend on candour, and enforcing them runs back into the same undetectability, since an institution generally cannot prove that an undeclared use occurred. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] locates their real value elsewhere — in visible integrity commitments embedded in a culture of [[trust]], and in transparency, shared expectations, and student reflection rather than enforcement. The educational mechanism is normative, not forensic.
+The scale is documented: across 7,462 applications to a US public policy master's program, a signed no-AI attestation did not prevent 56.1% of 2025 applicants from submitting one essay a commercial detector classified as primarily AI-written, and each flagged essay associated with 1.5 to 2.6 percentage points lower admission probability ([[ai-written-admissions-essays-penalized-2026|Isley, Gaebler and Goel (2026)]]).
 
 The modeling work of [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] supplies the condition under which disclosure works, expressed as a design threshold rather than a hope: disclosed use beats hidden use only when the [[academic-integrity|cost of honesty]] stays below the deterrent it buys. Because that bound rises with detection credibility, detection and disclosure safety reinforce each other — but only if the false-positive risk of being flagged falls on honest and dishonest responses alike, in which case honesty keeps its comparative protection. Their design implication is direct: treat a declared AI use as context rather than a confession, which keeps the cost of honesty low precisely in the settings where monitoring is strongest, and read disclosure as a demonstration of [[evaluative-judgment|evaluative judgment]] rather than an admission. Permission and disclosure are separate levers — permission changes the formal boundary of acceptable use, disclosure changes visibility — and success at one says nothing about the other.
 

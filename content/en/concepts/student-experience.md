@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-28T21:21:51-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -63,6 +63,9 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 - **Positive/constructive:** AI can support [[authentic-assessment|authentic]], [[process-oriented-assessment|process-oriented]] assessment and reflective practice (e.g., [[pedlow-genai-selfassessment-2026|guided self-assessment]]), turning integrity concerns into opportunities for [[ai-literacy]] and responsibility.
 
 Student accounts of integrity are less settled than the dishonesty framing suggests. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]] interviewed 27 undergraduates at an Ethiopian university and found the student body divided against itself: almost all used GenAI or watched peers use it and most credited it with raising their achievement, a minority called coursework use outright misconduct, and the sharpest and most widely shared complaint was fairness — AI users scoring above students who worked honestly, which some described as killing their sense of diligence and left one participant unsure "whether we are benefiting or suffering from the use of AI." The procedure side matters too: [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] coded 1,162 GenAI misconduct cases and found that the evidence most often cited — detector output, similarity reports, AI-typical content patterns — carried the weakest probative value, and that with no minimum evidentiary threshold in the pipeline students with thin cases were pushed toward appeals. Over-inclusive definitions broaden that exposure: [[wright-transcription-not-generation-2026|Wright (2026)]] shows that prohibitions aimed at "[[generative-ai|generative AI]]" can catch tools that merely convert the format of work a student already authored, an over-inclusion that falls hardest on disabled and [[equity-in-ai-education|equity]]-exposed students. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] points the constructive way out, treating integrity as a [[pedagogy|pedagogical]] practice enacted through [[evaluative-judgment|judgment]] — annotated decision trails, verification, oral defense, version history — rather than compliance secured through surveillance.
+
+
+Verification can shift how students experience the question: a request to explain their work first read as an accusation, but once the syllabus framed it in advance as pedagogy rather than surveillance they disclosed AI use more openly and treated assignments as learning tasks, in five-to-ten-minute conversations ([[best-response-student-ai-dialog-2026|Mandernach, 2026]]).
 
 ### Social and relational impacts
 

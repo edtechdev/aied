@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -70,4 +70,3 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of students' AI learning motivation (2,086 secondary students)
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)

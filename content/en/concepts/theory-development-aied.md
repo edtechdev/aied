@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-09-27T07:10:53-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -101,7 +101,6 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment under GenAI
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
 - [[rismanchian-ai-education-four-decades-aixed-2026]]
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education

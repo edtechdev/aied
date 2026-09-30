@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Special Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-22T09:52:55-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -37,6 +37,7 @@ Special education is a domain where AI's capacity for personalization and adapta
 **AI for dyslexia across detection, support, and personalized learning.** A 2026 interdisciplinary [[meta-analysis-systematic-review|systematic review]] (Dabaghi, D'Urso & Sciarrone, PRISMA-guided, 2018–2024, n=72) maps how AI supports students with dyslexia in education, finding AI used for detection, assistive support, and personalized learning — but with these strands evolving in parallel rather than in integration, driven more by technological opportunity than by consolidated educational theory. ML-based help-education tools fall into five areas (specific applications, engagement, personalization, recommendation, generic support) yet emphasize technical performance and classification accuracy while overlooking ecological validity and practical classroom deployment. Detection research (EEG, eye-tracking, ML models) prioritizes early intervention and shows diagnostic promise, but often requires specialized equipment and controlled environments, limiting scalability and accessibility in typical school settings. Open challenges include limited experimental validation, scalability, [[ethics]]/privacy concerns with sensitive student data, limited teacher support and training, and language/cultural barriers (most research targets English-speaking populations).
 
 **Cognitive offloading for students with learning disabilities (SWLDs).** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]], a conceptual review in a *Learning Disability Quarterly* special series on AI for students with LD, reframe [[generative-ai|GenAI]] use for SWLDs through the [[cognitive-offloading]] lens. They argue that GenAI can be a **compensatory aid or a shortcut** depending on how offloading decisions interact with SWLDs' cognitive and [[motivation|motivational]] profiles (executive-function and working-memory challenges, heightened cognitive load, effort-avoidant performance goals, lower academic self-efficacy, and inflated expectations toward GenAI) and with instructional design. For reading and writing, GenAI can scaffold access (text leveling, summarizing, [[multimodal]] outputs, planning, drafting, revision feedback) while preserving higher-order [[student-engagement|engagement]] — but excessive offloading risks bypassing the comprehension, planning, and monitoring processes that are already fragile for these learners, fostering "[[metacognition|metacognitive]] laziness" and compounding literacy difficulties across domains. The paper positions **instructional [[guardrails]]** as the key moderating factor and recommends [[teacher-role|teaching]] strategic offloading, building [[ai-literacy]] to calibrate tool trust, sequencing mastery experiences to build [[self-efficacy]], and aligning tasks and assessment with IEP goals that prioritize skill development over substitution. This extends the knowledge base's special-education coverage to the equity dimension of offloading: the same tool that lowers barriers to access can, if unguarded, substitute for the practice SWLDs need most.
+**AI-generated intervention content needs pre-generation controls, not only review.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] found practitioners rated the co-designed Social Story tool highly usable (SUS 86.8) yet called its images generically Western and its behavior tracker mismatched to goal-linked clinical judgment — constraints they would have set before generation.
 
 ## Implications for special-education instructors
 
@@ -73,6 +74,5 @@ Special education is a domain where AI's capacity for personalization and adapta
 - [[genai-minoritized-knowledges-disability]]
 - [[embodied-string-learning-blindness-low-vision-musicians]]
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
 - [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories

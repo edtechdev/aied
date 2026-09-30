@@ -45,6 +45,7 @@ SCOPABLE = {
     'inline_link_scan.py': 'slugs',
     'check_list_formatting.py': 'slugs',
     'audit-article-sections.py': 'changed',
+    'check-citation-attribution.py': 'changed',
     'check-ai-disclosure.py': 'changed',
     'verify-number-grounding.py': 'changed',
     'check-us-english.py': 'paths',

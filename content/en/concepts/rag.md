@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-23T09:34:44-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, pedagogical-llm-training, edtech-platform]
 ethics: [hallucination-risk, pedagogical-safety]
@@ -59,7 +59,6 @@ RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up
 - [[book-level-synthetic-textbook-organization]]
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
-- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
 - [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
 - [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation
 - [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education

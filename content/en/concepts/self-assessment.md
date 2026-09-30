@@ -1,7 +1,7 @@
 ---
 title: Self-Assessment
 created: "2026-09-21T11:21:57-04:00"
-updated: "2026-09-21T12:50:58-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -111,15 +111,11 @@ It also introduces a naming hazard worth stating plainly. **AI self-evaluation**
 - [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy scripts versus calibration training in AI-assisted writing (2026)
 - [[scaffolding-srl-feedback-genai-human-peers]] — Three self-assessment cycles comparing scaffolded GenAI feedback with peer feedback, N = 118 (2026)
 - [[guided-llm-scaffolding-independent-learning]] — Verification-focused scaffolding improved independent performance and self-assessment calibration in statistics (2026)
-- [[absent-cognitive-baseline-2026]] — Academic self-assessment without the experiential record to calibrate against (2026)
-- [[ai-literacy-assessment-misalignment]] — Self-reported and objective measures of teacher AI literacy correlate only weakly, r = 0.07 to 0.24 (Zhang et al. 2026)
 - [[genai-skill-bypass-literacy]] — Rasch analysis of 158 GenAI-literacy self-assessments: an inverted skill profile (2026)
 - [[self-directed-growth-generative-ai-learning-analytics]] — Self-assessment placed at the center of a self-directed growth framework (2026)
 - [[tripartite-feedback-framework-ai-assessment-2026]] — Validated self-assessment instruments used as learning outcomes in AI-assisted assessment (2026)
-- [[ai-feedback-enactment-workflow-2026]] — Enacting AI feedback raised uptake and self-assessment confidence (2026)
 - [[interactive-learning-dashboards-engagement]] — A Judgment of Learning self-assessment feature inside an interactive dashboard (2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Structured self-assessments as process evidence for adaptive capabilities (Lodge et al. 2026)
-- [[critical-media-literacy-education-2026]] — Self-assessed media competence lags perceived importance (2026)
 - [[age-tiered-ai-literacy-guidebooks-2026]] — Developmentally tiered AI literacy materials, with measurement of acceptance and validity (2026)
 - [[chatgpt-critical-creative-thinking-review]] — Triangulating AI feedback with peer, instructor, and self-assessment (2026)
 - [[yasir-llm-tutoring-agents-2026]] — Why feedback should not rest on a model's self-assessed reasoning validity (Yasir et al. 2026)

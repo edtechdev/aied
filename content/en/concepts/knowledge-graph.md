@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
@@ -80,8 +80,6 @@ Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curr
 - [[learnopt-exam-cognitive-structure]] — LearnOpt: exam cognitive structure
 - [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
 - [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Hybrid CF–KG cross-domain recommendation for multimodal teaching resources
-- [[concept-catalyst-engineering-scaffolds]] — Concept Catalyst engineering scaffolds
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-driven cognitive diagnosis
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
-- [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)

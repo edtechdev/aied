@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-28T09:22:00-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -98,8 +98,6 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT as a cognitive crutch: a delayed randomized test of removing desirable difficulty (Barcaui 2025)
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI: the inverted-U argument for preserving beneficial friction
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
-- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
-- [[brcic-effortless-trap-productive-struggle-2026]] — Six-move model of learning and AI placement (Brcic & Frljic 2026)
 - [[agentic-ai-pedagogical-best-practice-2026]]
 - [[finkelstein-principled-ai-education-2025]]
 - [[structured-llm-feedback-programming]]

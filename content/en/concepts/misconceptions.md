@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-09-28T21:37:06-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -35,6 +35,7 @@ A misconception here is not mere ignorance of how a model works — it is an act
 ### Common misconceptions in academic contexts
 
 - **The authority fallacy** — treating [[llm]] output as verified fact rather than a probabilistic completion. Drives uncritical acceptance and the answer-seeking-over-understanding pattern documented in [[intelligent-tutoring|AI-tutoring]] research, where learners accept a model's answer without checking it against [[hallucination-risk]].
+- **The independent-check illusion** — treating AI feedback as an outside correction when the model mirrors your own reasoning. Users' baseline accuracy was the dominant predictor of final performance, and sycophancy-specific prompting cut positional mimicry (OR = 0.26) but left error propagation untouched, so learner training is not the safeguard ([[contextual-sycophancy-ai-literacy|Koyuturk et al. (2026)]]).
 - **Learning-equals-output** — believing that producing work *with* AI is the same as having learned it. This is the exact error behind [[cognitive-offloading|Over-Reliance]]: the drafting, recall, and revision processes that build durable knowledge get outsourced.
 - **The neutrality illusion** — assuming AI is objective and unbiased. Students often miss that models encode training-data biases and that in [[writing-education]] contexts this produces idea homogenization across a cohort.
 - **The integrity gray zone** — misjudging whether [[academic-integrity|AI use is acceptable]]. Some students see AI output as "not copying a person" and therefore permissible; others over-correct and think *any* use is cheating. [[governance|Institutional]] inconsistency feeds both errors.
@@ -119,9 +120,7 @@ These refutations are deliberately written in the [[refutation-text]] form so th
 - [[trust]]
 
 ## Connected Articles
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype: eight AI myths and the need for a critical approach in higher education
-- [[drawedumath-vlm-struggling-students-2026]] — VLMs misdiagnose student math errors (DrawEduMath, Lucy et al. 2026)
 - [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
 - [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
 - [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education

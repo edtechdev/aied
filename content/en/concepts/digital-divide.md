@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
@@ -33,6 +33,8 @@ The digital divide is commonly understood as operating across **three levels** (
 - **Responsible-use and [[prompt-engineering|prompting]] literacy:** [[aaai2026-prompting-literacy-k12|K-12 prompting-literacy research]] addresses the second-level divide by [[teacher-role|teaching]] students the skills to use AI [[conversational-ai|chatbots]] responsibly, recognizing that access alone does not confer the ability to [[ai-literacy|use AI well]].
 
 - **Representation and structural silence:** [[structural-silence-underrepresented-language-ai-2026|Research on underrepresented languages]] highlights how the digital divide extends to *which* communities, languages, and perspectives are represented in and served by AI systems — a cultural and epistemic dimension of inequality.
+
+- **Code-switching is its own exclusion.** Most LLM lecture tools assume single-language English audio and reliable internet, ruling out classrooms mixing English and a home language; India's UDISE+ data put school internet access near 54% with a 24-point urban-rural gap, and a bilingual companion answers with on-device transcription and local-first storage ([[bilingual-llm-lecture-companion-srl-2026|Malhotra, 2026]]).
 
 ### AI deepens (and can close) divides
 
@@ -70,7 +72,6 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
 - [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: teacher-as-proxy tutoring reaches students with no device (Rodrigues et al. 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026

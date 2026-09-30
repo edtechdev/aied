@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -35,6 +35,8 @@ SRL is the process whereby learners actively manage their own learning through t
 3. **Self-reflection:** [[self-assessment]], causal attribution, adaptation
 
 Proficient self-regulated learners employ cognitive strategies to improve success and utilize [[metacognition]] to refine their learning processes continuously.([[scheu-mobile-chatbot-journaling-motivation-2026]])
+
+A systematic mapping of 84 AI–SRL studies found the research concentrated on higher-education students and on the metacognitive and cognitive aspects of self-regulation, with the motivational dimension underexplored and over a third of studies specifying no SRL theory at all ([[banihashem-ai-srl-systematic-mapping-review-2025|Banihashem et al. (2025)]]).
 
 Crucially, SRL around AI is shaped by *perception* as well as behavior: [[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]] demonstrate that whether students perceive feedback as coming from AI or a human significantly affects their self-regulated learning and revision behavior — a reminder that the social framing of AI, not just its content, changes how learners regulate around it.
 
@@ -173,15 +175,12 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and SRL: perceived source matters
 - [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
 - [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
-- [[bilingual-llm-lecture-companion-srl-2026]] — SRL with a bilingual LLM lecture companion
 - [[generative-ai-reduced-study-time-math]] — Cognitive surrender as loss of self-regulated learning
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Mixed evidence on metacognition/self-regulation with GenAI
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and the self-regulation tension
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulated learning
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
 - [[decreasing-digital-distraction-college-online-learning-2026]] — SRL and lower digital distraction in online learning (Shi et al. 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: a learner-facing loop of task identification, justification and post-task reflection
 - [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI

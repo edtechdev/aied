@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-28T22:17:25-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -52,6 +52,8 @@ When LLM-based tutors must solve problems that embed meaning in graphs, force di
 
 The practical design implication is a **visual grounding checkpoint** in multimodal tutoring: a deliberate step where the system describes what it sees before attempting a solution, giving the student or a human supervisor a chance to correct perceptual errors.([[syal-multimodal-dialogue-stem-2026]])
 
+[[ai-assisted-physics-lab-report-assessment-2026|Abreu et al. (2026)]] add a prior constraint: an equation, graph or unit can appear in a report yet never be retrieved from the processed document, so a disagreement with the instructor may be an extraction failure rather than a reasoning one — which makes submission format part of the assessment design.
+
 ### 3. Multimodal assessment and measurement
 
 Multimodal AI broadens both the *content* of assessment and the *signal* used to score it.
@@ -60,6 +62,8 @@ Multimodal AI broadens both the *content* of assessment and the *signal* used to
 - **Multimodal item response estimation** uses fine-tuned multimodal LLMs to reconstruct item characteristic curves (IRT / 3PL) directly from predicted option probabilities on image-and-text items, connecting multimodal AI to [[educational-measurement]] and [[item-response-theory]].([[multimodal-item-parameter-estimation-2026]])
 - **Educational vision-language model evaluation** and [[mllm-scientific-visualization-literacy|multimodal LLM literacy]] extend the field's evaluation toolkit to multimodal reasoning and [[visualization]].([[drawedumath-vlm-struggling-students-2026]])([[mllm-scientific-visualization-literacy]])
 - **Multimodal grading of handwritten [[chemistry-education|chemistry]] exposes a format-dependent capability boundary:** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] graded a 296-student handwritten general-chemistry final page-by-page against rubric images with a multimodal, reasoning LLM, scoring textual answers and chemical-reaction equations reliably (normed F1 highest) but drawing and graphing *worse than random* — background grids visually distract AI vision and scientific diagrams/chemical structures remain hard to interpret — reinforcing that multimodal AI's vision is not robust to representation-heavy work and is best deployed with [[human-in-the-loop-ai|human deferral]] of graphical items ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
+- **Construct recognition and comparative judgment are separable skills.** [[cfes-p24-multimodal-slide-auditing-2026|Ma et al. (2026)]] express six multimedia-learning principles as reversible slide edits plus visual-equivalence sham controls, and find both models recovered every operation, principle and repair (8/8) while severity calibration failed entirely (0/8) — a composite score would conceal which layer fails.
+- **Multimodal grading can reproduce a selection outcome even where item-level scoring lags.** Grading 10,364 handwritten Olympiad and university pages, an LLM matched examiner totals at r = 0.93–0.96 and placed the same five students on the Olympiad team, yet part agreement reached 70%: second-reader evidence, not a scorer of record ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 
 ## Multimodal AI for language and accessible learning
 
@@ -119,10 +123,8 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[privacy-aware-classroom-incident-recognition-2026]] — Privacy-aware multimodal classroom sensing
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Multimodal OCR instruction in cybersecurity education
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating visual math diagrams from LLM-generated code
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
-- [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodal AI composing and critical thinking in primary writing (Lu et al. 2027)
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving

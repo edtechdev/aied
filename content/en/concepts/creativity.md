@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-28T04:14:44-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -85,7 +85,6 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[rana-genai-design-thinking-2025]]
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review
 - [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
-- [[ai-collaborative-learning-skills-impacts]] — AI and Collaborative Learning: Impacts on Creativity
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
 - [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
 - [[genai-mindtool-generative-learning]] — GenAI as a Mindtool for Generative Learning

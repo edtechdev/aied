@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-30T07:37:28-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -38,10 +38,16 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 
 - **When the metric, not the system, is the failure:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] scored BLEU-4 = 0.0000 on all 179 theoretical [[cs-education|computer science]] exam questions while a six-criterion pedagogical rubric gave 0.7620, because logically equivalent proofs routinely differ in notation, variable names and proof strategy. A zero score says more about n-gram overlap than about answer quality, which is the general case against treating surface metrics as the headline number for formal-domain AIED systems.
 - **Construct-level counterfactual benchmarks.** CFES-P24 expresses multimedia-learning principles as deterministic, reversible slide transformations to audit whether MLLMs respond to specific instructional-design constructs rather than producing plausible holistic ratings. A frozen pilot showed construct recognition (operation, principle, repair, evidence localization) at 8/8 while comparative judgment (direction 6/8) and severity calibration (0/8) failed — arguing for layered scorecards over composite scores.([[cfes-p24-multimodal-slide-auditing-2026]])
+
+- **Verification can beat judgment on generated content.** [[diagramir-educational-math-diagram-evaluation|Kumar et al. (2025)]] back-translate generated math diagrams into a schema-constrained intermediate representation and run deterministic rule checks, reaching higher agreement with human raters (Cohen's κ 0.48–0.56) than LLM-as-a-Judge (0.39–0.47) and letting a small model match the best judge at 10× lower cost.
 - **Trial-independent evaluation in physiological benchmarks.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara & Halloluwa (2026)]] benchmark 15 ML/DL models for EEG-based familiarity prediction and show that the choice of validation scheme changes headline results dramatically: standard stratified cross-validation allows temporal leakage and reports up to 0.9853 F1, while trial-independent Group K-Fold validation drops the peak to 0.6038 F1. The lesson — temporal/leakage-aware evaluation is essential for credible educational benchmarks — extends beyond EEG to any benchmark using sequential or time-structured data.
 
 - **Distribution shift is a second benchmark axis beyond leakage.** A benchmark that reports a classifier's in-distribution score and its transfer score is reporting two different quantities: a Bloom-level classifier held at macro F1 0.88 on its curated bank fell to 0.48 and 0.20 on two AI-generated question sets, and retraining on labeled out-of-distribution data recovered up to 0.82, so a single in-distribution leaderboard number overstates what a deployed instrument will do ([[bloom-classifier-ai-assisted-questions-2026|Castanares et al., 2026]]).
+
+- **A human-normed benchmark may not measure the same construct for an LLM.** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] compared human and multimodal-LLM response structures on a chemistry diagnostic and a quantitative-reasoning exam; factor congruence between LLMs and humans stayed below the human–human baseline and parallel analysis retained different factor counts.
 - **Synthetic benchmarks for AI tutoring.** Open, reproducible datasets for evaluating AI tutoring remain scarce. ASTRA (Adaptive Socially-intelligent Team Reasoning Agents) is a multi-agent tutoring prototype and benchmark framework for studying collaborative programming with socially differentiated agents, supporting alone-tutor, pair-tutor, and pair-multiagent configurations (N=540; 360 sessions; 1,440 episodes) with a trace-ready schema for reproducible analysis of interaction, participation balance, and verification.
+
+- **Horizon is a benchmark axis, not a detail.** [[educlaw-bench-pedagogical-llm-agents-2026|Lee et al. (2026)]] place a tutor agent in a continuous 30-day relationship with a simulated learner and find every adapter plateaued by day 5–10, no adapter led learning gain on more than one base-model tier, and the five scoring axes were largely independent.
 
 - **A tutoring benchmark scored against human tutors rather than leaderboards.** StudentBench randomizes 2,383 adults across AI tutoring, live expert human tutoring, and a video control on newly written GRE items, finding pooled AI tutoring statistically equivalent to human tutoring (p=.015) and 5.5-6.9 percentage points above the control; its teaching-quality leaderboards, built from 2,028 expert pairwise comparisons, rank lesson plans and conversational behavior rather than how much students learned ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
 - **Auditing benchmarks is now a research contribution in its own right.** Three 2026 artifacts push benchmark work past leaderboard aggregation. EduFair-Bench holds a simulated student fixed and varies demographic attributes, turning a tutoring benchmark into a fairness audit with turn-level pedagogical metrics ([[edufair-bench-pedagogical-fairness-llm-tutors-2026]]). GeoVAD-Bench diagnoses intermediate visual constructions — perception, auxiliary quality, utilization — rather than final correctness on 600 [[math-education|geometry]] problems ([[geovad-bench-visual-chain-of-thought-geometry-2026]]). Expert re-grading of six [[physics-education|physics]] benchmarks quantified the error such scores carry: 57.20% of audited rejections were item defects, 38.00% grader errors and only 4.80% true model failures ([[frontier-models-physics-benchmark-audit-2026]]). Together they argue that a benchmark score should always be read with its own audited error budget, which is the same discipline [[assessment-validity]] asks of classroom instruments.
@@ -75,13 +81,10 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
 - [[icle-plus-plus-essay-scoring]] — ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring
-- [[elbench-education-llm-benchmark-2026]]
 - [[teaching-monster-pck-benchmark-2026]]
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: benchmark for evaluating generated math diagrams
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
 - [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
 - [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: annotation-first, task-generative benchmark construction, and dimension-level non-redundancy across 12 artistic-imagery tasks (Zhu et al. 2026)
 - [[mental-health-literacy-students-llms-2026]] — Mental Health Literacy Across Psychology Students and Large Language Models

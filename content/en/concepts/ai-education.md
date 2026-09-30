@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-23T09:53:41-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -179,6 +179,4 @@ Field-wide reviews of AI in education — the studies that survey the whole fiel
 - [[liang-genai-systematic-review-human-ai-2026]] — Generative AI in education: systematic review of 56 empirical studies
 - [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
 - [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
-- [[caruana-pre-university-ai-education-slr-2026]] — Pre-university AI education: systematic literature review of 42 studies
 - [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
-- [[caeai-ai-companions-learning-over-performance-2026]] — a research agenda for AI companions built around learning rather than performance

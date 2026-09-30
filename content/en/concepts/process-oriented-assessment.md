@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -79,17 +79,13 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[equity-in-ai-education]]
 ## Connected Articles
 - [[genai-performance-vs-learning]] — performance is not learning: a research agenda built on process measures (Yan et al. 2026)
-- [[aied-unfinished-mission-bypass]] — amplifying process-based assessment as one of five AIED priorities (Lane 2026)
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Black Box Assessment and the learning trajectory in take-home examinations (Brunnström & Palmqvist 2026)
 - [[wang-safety-gap-productive-struggle-2026]] — the safety gap and prioritizing process-based assessment in medical education (Wang & Shan 2026)
 - [[human-centered-ai-teacher-educators-2026]] — teacher educators asking for AI-resistant, process-based tasks built on justification and reflection (Baran et al. 2026)
 - [[teacher-educators-ai-integration-preservice-2026]] — prompts, version history, monitored contributions, and journey journals after a trust crisis (Goldstein et al. 2026)
 - [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — study practices, ethical judgments, and the case for testing oral defenses and process evidence
 - [[learn-framework-responsible-genai-pbl-2026]] — the LEARN framework: process-focused rubrics, oral justifications, staged submissions (Uden & Hwang 2026)
 - [[genai-didactic-pedagogical-mediator-2026]] — AI-transparent process-oriented assessment as a researchable proposition (Moganadas et al. 2026)
-- [[ai-tools-academic-work-cheating-2026]] — revision history, interaction patterns, and time-on-task with disclosure (Padhy 2026)
 - [[espino-ai-business-education-review-2026]] — a decade of business-education research converging on process-visible tasks
-- [[ai-literacy-instrument-development-systematic-review-2026]] — the measurement agenda: performance-based and process-oriented assessment (Jin et al. 2026)
 - [[open-learning-practices-genai-response-2026]] — documented drafts and version histories as the auditable process record (Boysen 2026)
 - [[sharma-judgment-visible-genai-assessment-2026]] — annotated decision trails, oral defense, and draft differences selected for visible judgment
 - [[munoz-misconduct-allegation-evidence-2026]] — what misconduct case files contain, and the process evidence they lack

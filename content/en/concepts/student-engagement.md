@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -119,7 +119,6 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[e3sense-multimodal-learner-engagement-sensing-2026]] — Head-confined EEG, eye tracking, and EDA predict five-level engagement ratings, while learners' own definitions shift the mapping (Anupkrishnan et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 - [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-online-education-engagement-satisfaction-2026]]
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: systematic review of engagement + mediating role of teaching methods
 - [[genai-motivation-engagement-2026]] — Impact of Generative AI on Student Motivation and Engagement
 - [[critical-engagement-code-completion]] — To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion
@@ -135,13 +134,11 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress
 - [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Engagement
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Affective gains common but weak indicators of learning
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
 - [[chatbot-engagement-genai-competency-emotion-2026]] — GenAI competency and emotion as drivers of chatbot engagement (Zhao et al. 2026)
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
-- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
 - [[gpt4-feedback-student-activation-2026]]
 - [[genai-writing-program-primary-l2-motivation-engagement]] — Dimension-specific engagement gains at the primary level (Lu et al. 2026)
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — Cognitive and behavioral engagement up, affective engagement flat, in an immersive VR PBL studio (Jin et al. 2026)

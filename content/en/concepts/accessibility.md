@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack]
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-28T21:37:06-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -47,6 +47,8 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 
 **The limits of accessibility alone.** **[[genai-minoritized-knowledges-disability|Critical work]]** warns that AI trained on Anglophone, Western-centric data can marginalize disability-centered ways of knowing. Accessible formats do not guarantee inclusive or just instruction — reinforcing that accessibility is necessary but not sufficient, and must connect to [[equity-in-ai-education]].
 
+**Accommodation-focused, diagnosis-gated tools dominate.** A scoping review of 40 studies of digital assistive technologies for neurodivergent students found 28 made a formal diagnosis a condition of participation and only three worked on neurotypical peers rather than the student, while reporting inversion effects — cognitive overload, fatigue, distraction and over-reliance on generative AI.([[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]])
+
 ## Implications for practice
 
 - **Prioritize the format barrier first.** Captions, transcripts, alt text, contrast, and keyboard operability are the gatekeeping layer — without them nothing else matters for learners who need them.
@@ -89,6 +91,5 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[genai-minoritized-knowledges-disability]] — Critical perspective on AI and disability-centered knowledge
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
 - [[wright-transcription-not-generation-2026]] — Transcription is not generation: over-inclusive AI prohibitions and the assistive tools they capture

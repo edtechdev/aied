@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -39,6 +39,8 @@ Authentic assessment sits at the heart of how [[assessment]] is being rethought 
 
 [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud & Du's (2025) scoping review]] of 37 empirical studies (2000–2024) proposes six design dimensions: (1) authenticity in assessment (assessment, professional, digital, self, and social authenticity — with only 3/37 studies addressing social authenticity, a critical gap), (2) cognitive challenges, (3) assessment criteria (with students often passive recipients rather than co-authors of rubrics), (4) feedback (formative-dominated, but sustainable feedback rare), (5) [[agency|student agency]] (choice in what/how/when/where to submit was rare), and (6) social collaboration. It also proposes a cyclical co-design model — negotiate goals, create context, co-design criteria, plan feedback — that AI tools could operationalize.
 
+[[dollinger-equitable-assessment-ai-2026|Dollinger and Nieminen (2026)]] bound this optimism with the *paradox of inclusive assessment*: both the accommodations model and structural critiques that reframe assessment as disabling leave intact the zero-sum logic that "for one student to succeed, someone else needs to fail," so distributed and agentic forms must change that logic rather than only widen access.
+
 ## Authentic assessment in the AI era
 
 The knowledge base's assessment-redesign literature argues that authenticity must be **redesigned, not policed**:
@@ -46,7 +48,11 @@ The knowledge base's assessment-redesign literature argues that authenticity mus
 - [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] contends that authenticity cannot be policed into existence; it must be designed, positioning AI as a declared collaborator rather than a cheating application, and prioritizing authentic, [[process-oriented-assessment|process-based assessment]] over surveillance.
 - [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] reframes assessment around validity evidence and authentic tasks that mirror students' future work.
 - [[authentic-products-authenticated-processes-2026|Authentic products, authenticated processes]] examines how AI-rich [[higher-ed|higher education]] can assess both genuine outputs and the processes that produced them.
+
+- **An AI drafting partner still leaves the judgment.** [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] piloted a GPT-4.1 assessment designer with eight coordinators: it produced usable overviews, tasks, criteria, timelines and rubrics but repeatedly missed disciplinary context and topic sequencing, and all eight refused end-to-end automation, locating [[evaluative-judgment|academic judgment]] rather than the model.
 - [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] argues for assessing computational methods and process rather than tool-specific outputs, using oral defense and verification.
+
+- **Scalable oral assessment, with a scoring caveat.** [[asynchronous-oral-assessment-2026|Pentland, Lowenthal & Krier (2026)]] delivered time-limited, non-revisitable recorded responses graded against embedded rubrics, and found students outscored their in-person multiple-choice exams; they stress this is a format effect rather than a [[learning-gains|learning gain]], with LLM re-scoring agreeing with the instructor at ICC = 0.73 and 0.60.
 - [[fenton-oral-exams-ai-authentic-assessment-2025|Reconsidering oral exams]] positions the oral exam/assessment as a low-tech authentic alternative that is inherently AI-resistant — its real-time, interactive dialogue tests comprehension, [[critical-thinking|critical thinking]], and reasoning (not memorization), mirrors professional practice, and prevents students from using AI to generate and memorize answers. It offers a concrete set of practical recommendations (clear rubrics, standardized content, assessor training, [[prompt-engineering|prompting]] guidelines, [[bias-mitigation|bias mitigation]]) for reintroducing [[oral-assessment]] across high school and higher education.
 - [[eportfolio|E-portfolio assessment]] is another authentic, process-based form that resists AI fabrication: [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud & Du (2025)]] identify social contribution portfolios among the authentic forms most robust to generative AI, and [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] recommends annotated portfolios and recorded walkthroughs that probe reasoning in real time. [[ni-lam-multiliteracies-ai-portfolio-2026|Ni & Lam (2026)]] and [[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]] show generative AI can assist the portfolio process — feedback, drafting, reflection — while the portfolio's reasoning traces and drafts preserve authenticity.
 - **Authenticity criteria can themselves restrain AI use.** [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found that a rubric requiring students to ground a group presentation in their own first-hand teaching experience, and to reflect on shared classroom observations, led seven of fifteen student groups to *deliberately reduce* their GenAI use. Students argued the tool could not meet the epistemic demand — "AI only knows that moment when you type" — because it lacked the longitudinal, situated knowledge their classmates and [[teacher-role|teacher]] had. Both layers mattered: the authenticity of the task and the relational authenticity of contributing one's own thinking to a group, which reframed heavy AI use as free-riding on peers. The design implication is that authentic, experience-grounded criteria do evaluative work even without enforcement — they supply a reason for restraint that policy statements cannot.
@@ -71,6 +77,8 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - **Co-design at scale:** AI tools could enable rubric co-design and student co-creation of assessment parameters at classroom or [[online-teaching-and-learning|MOOC]] scale — though machine-mediated agency must be designed carefully.
 - **Address the social-authenticity gap:** only 3/37 studies addressed social issues; AI assessment tools should help students contribute to societal transformation, not merely simulate it.
 - **Sustainable feedback:** [[ai-feedback-quality|AI feedback]] should be designed to transfer to future contexts, not just provide reactive, momentary corrections.
+
+- **Process-focused measurement now has validity evidence.** [[assessing-student-drive-framework-2025|Oliveira et al. (2025)]] scored 70 graded essays on how students steered a GenAI dialogue and made course knowledge visible; those process scores correlated r = 0.54 with traditional essay scores while rewarding conceptual work over structured task specification.
 - **Authentic assessment suits practice-oriented fields.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] find authentic assessment especially well-suited to [[business-education|management education]]: tasks mirroring real professional problems (live consulting projects, [[visualization|dashboards]] with executive briefings) align with the field's practice-oriented, [[career-development-and-readiness|employability]] focus and can support inclusive, integrity-preserving alternatives to exam-centered assessment in the generative AI era. In their review of 58 articles from four management-education journals, however, authentic assessment appeared mainly via technology-mediated [[simulation|simulations]] and was often conflated with [[experiential-learning|experiential learning]] — a terminology gap that can obscure its broader value and uptake.
 
 ## Connected Concepts
@@ -108,7 +116,6 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[espino-ai-business-education-review-2026]]
 - [[genai-simulate-patient-history-pbl-2026]]
 - [[pbl-structural-conditions-ai-2026]]
-- [[best-response-student-ai-dialog-2026]]
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
@@ -121,7 +128,6 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 - [[mesny-innovative-assessment-grading-management-2026]]

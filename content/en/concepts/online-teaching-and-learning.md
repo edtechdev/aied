@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-09-26T07:13:32-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -155,11 +155,7 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - [[genai-marketing-education-roles-2026]] — AI as tutor, teammate and tool: roles and their effects on presence
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: assessment design for online settings
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
-- [[ai-student-engagement-online-learning-review-2025]]
 - [[lock-integrating-ai-online-learning-higher-ed-2025]] — Integrating AI in online learning in higher education: a four-theme critical literature review
-- [[ai-online-education-engagement-satisfaction-2026]]
-- [[ai-distance-education-systematic-review-2026]]
-- [[ai-decision-support-online-learning-assessment-2026]]
 - [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
 - [[learnmate2-llm-adaptive-learning]] — LearnMate²: Personalized and Adaptive Support System for Online Learning
 - [[llm-facilitation-timing-online-discussions]] — Human and LLM Facilitator Tendencies in Online Discussions
@@ -168,7 +164,6 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementing AIDA at the Open University
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
-- [[educasim-cs1-instructional-practice]] — EducaSim: scalable role play for massive online courses
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
 - [[zhang-ml-student-progress-programming-2026]]
 - [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)

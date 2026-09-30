@@ -1,7 +1,7 @@
 ---
 title: ICAP Framework
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-09-14T06:35:00-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -99,5 +99,4 @@ ICAP's emphasis on generative, process-level engagement has been adopted by asse
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — ICAP cognitive-depth model in a generative student-simulation agent
 - [[assessing-student-drive-framework-2025]] — ICAP-anchored assessment of reflective GenAI interaction
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 

@@ -1,7 +1,7 @@
 ---
 title: Lifelong Learning
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
@@ -31,6 +31,7 @@ Lifelong learning refers to continuous education throughout life — upskilling,
 - **From fixed curricula to adaptive structures:** [[learnity-graphs-lifelong-learning-framework-2026|Learnity graphs]] propose rethinking fixed higher-education curricula as interconnected units of knowledge that learners can navigate flexibly across a lifetime.
 - **Autonomy and self-direction:** [[andragogy-cognitive-delegation-genai-2026|Andragogy and cognitive delegation]] revisits adult-learning theory under AI-mediated cognitive delegation, asking what remains self-directed when AI participates in identifying needs, setting goals, and producing content.
 - **Policy and community:** [[ai-lifelong-learning-policy|AI in lifelong-learning policy]] and [[community-centered-ai-education-adults|community-centered AI education]] address the institutional and equity dimensions of adult AI learning.
+- **Expertise regeneration is itself at risk.** In the most AI-exposed US occupations, workers aged 22–25 saw a 16% relative employment decline (Oct 2022–Sep 2025) while those 35–49 grew over 8%, and the deep expertise needed to validate AI outputs depends on the entry-level roles that decline removes ([[cognitive-commons-ai-expertise-regeneration|Lovett (2026)]]).
 
 ### Connections
 

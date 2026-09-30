@@ -1,7 +1,7 @@
 ---
 title: Affective Computing
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-28T04:14:44-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -67,14 +67,10 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
 - [[emotion-aware-classroom-iot-monitoring-2026]] — Emotion-aware classroom quality assessment via IoT-based real-time monitoring (Nguyen et al. 2026)
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-online-education-engagement-satisfaction-2026]]
-- [[ai-assisted-learning-modes-eeg]]
 - [[ai-campus-wellbeing-tools]]
 - [[ai-fatigue-academic-contexts]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[sycophantic-ai-social-interaction-2026]]
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)

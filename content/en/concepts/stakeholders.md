@@ -1,7 +1,7 @@
 ---
 title: Stakeholders
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-09-28T21:41:14-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
@@ -37,6 +37,8 @@ reviewed_by: [editor]
 - **Differential impacts by role.** Research examines how AI affects different audiences differently — [[student-experience]] studies student outcomes, [[teacher-role]] studies pedagogical integration, [[administrator]] studies institutional strategy, and [[educational-development]] studies professional learning.
 - **Multi-stakeholder governance.** [[governance]] and [[educational-policy-ai]] research emphasizes aligning national, institutional, and classroom stakeholders — policymakers set expectations, administrators implement, teachers adapt, and students experience the result.
 - **Equity across audiences.** [[equity-in-ai-education]] examines how AI's benefits and harms distribute across learners and institutions, connecting stakeholders to [[bias-mitigation|fairness]] and access.
+
+- **Role differences can be asserted more easily than observed.** A SWOT of 167 contributions from 152 higher-education personnel found teachers, researchers and administrators converging on the same strengths and threats, while fully anonymous collection left roles unidentifiable, so the study could not test its plan to contrast them ([[beyond-hype-stakeholder-perceptions-genai-2026|Humble & Mozelius, 2026]]).
 
 ## Identity across audiences
 

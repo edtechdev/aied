@@ -1,7 +1,7 @@
 ---
 title: Sociocultural Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-18T11:48:51-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
@@ -38,6 +38,8 @@ The ZPD (Vygotsky) is the sociocultural concept most widely applied in [[intelli
 Sociocultural theory shapes AIED [[research-methods-aied|research]] in several distinct ways:
 
 - **AI as a mediational agent.** Generative AI complicates the sociocultural distinction between mediational means and social interaction: it both mediates activity *and* generates context-sensitive, contingent contributions that shape interaction, without possessing intentionality, social membership, or accountability. Warschauer, Tate, and Ritchie (2026) propose the *mediational agent* as a hybrid category, and derive human-first habits of participation (primacy of human cognition, purposeful [[student-engagement|engagement]], supervisory agency, epistemic vigilance, reflective [[self-regulated-learning|self-regulation]]) to preserve [[agency|learner agency]].([[generative-ai-mediational-agent-sociocultural-2026]])
+
+- **A stage-sensitive account of AI's regulatory role.** [[ai-cognitive-partner-co-regulation-learning|A developmental framework of human–AI co-regulation]] gives AI four roles — scaffold, metacognitive support, external memory, and decision partner — and places them by stage: structured external regulation in early childhood, a [[metacognition|metacognitive]] partner in middle childhood and adolescence, and a collaborator on complex cognition in adulthood.
 - **ZPD-calibrated scaffolding.** [[intelligent-tutoring|AI tutors]] should dynamically calibrate help to sit within each learner's zone. [[stanford-evidence-base-ai-k12-2026]] shows how tutors tuned to a learner's level outperform generic assistance; [[adaptive-learning]] and [[golrang-propact-pair-programming-2026]] operationalize ZPD by adjusting difficulty and hints; and principled frameworks like [[finkelstein-principled-ai-education-2025]] argue support should be withdrawn as competence grows.
 - **A fourth zone: what the model knows.** [[scan-framework-task-assignment-generative-ai-2025|Tsim and Gutoreva (2025)]] extend Vygotsky's diagram rather than the tutoring loop, adding a *known to [[generative-ai|GenAI]]* zone to the ZPD and reading off four sub-zones that classify what a task should be assigned to: Substitute (no task-specific knowledge, so the model's general competence carries it), Aid (partial knowledge, augmented), Complement (enough knowledge to supervise the model's output), and Non-negotiable (enough to do it unaided, so delegation adds little). [[scaffolding|Scaffolding]] is expressed as task assignment rather than hint delivery, and a [[metacognition|metacognitive]] loop of real-time evaluation, reflection and learning is what moves a task between sub-zones over time.
 - **Apprenticeship and community.** Sociocultural ideas underpin cognitive apprenticeship, modeling, coaching, and fading; communities of practice frame learning as movement toward fuller participation in a community's practices.
@@ -68,7 +70,6 @@ The sociocultural strand is tightly coupled to [[cognitive-offloading|Cognitive 
 - [[intelligent-tutoring]]
 
 ## Connected Articles
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 - [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: Validation of LLM-Based Measures of Student Talk
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[golrang-propact-pair-programming-2026]] — Collaborative AI tutoring

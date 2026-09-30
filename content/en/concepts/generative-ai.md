@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
@@ -75,7 +75,6 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[genai-higher-education-systematic-review-2026]] — Systematic review of GenAI in higher education
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 - [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of GenAI learning outcomes
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI in programming learning
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
@@ -85,15 +84,11 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 - [[hazra-safetutors-pedagogical-safety-2026]] — Harms of AI tutoring agents
 - [[eduguard-safe-rag-llm-tutor]] — Guardrailing a safe RAG LLM tutor
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From substitution to scaffolding: breaking the harm cycle
-- [[beyond-detection-authentic-assessment-ai-2025]] — Redesigning authentic assessment for an AI-mediated world
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
-- [[demir-akar-ai-media-literacy-children-2026]] — AI-based critical media literacy program for children
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[pecuchova-automated-grading-open-ended-genai-2026]]

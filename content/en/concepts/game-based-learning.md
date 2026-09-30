@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
@@ -62,5 +62,4 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 - [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
 - [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX workload across gamified/AI conditions
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS motivation and AI-supported gamification
-- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)

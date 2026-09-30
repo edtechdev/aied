@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -97,14 +97,11 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[rethinking-scaffolding-llm-tutors]] — Rethinking scaffolding in LLM tutors
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education systematic review
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — The substitution-to-scaffolding AI harm cycle
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender and motivation in GenAI achievement
-- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
 - [[liao-role-adaptive-ai-companion-book-talk-2026]] — Role-adaptive AI companion for elementary book talk; affective ceiling of fixed-role agents (Liao 2026)
 - [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space in small-group dynamics (Xu et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-29T20:22:52-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -50,6 +50,7 @@ The one meta-analytic contrast available for AI-supported collaborative work sit
 **GenAI as group coordination infrastructure — and the risk of flattened cooperation.** [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] show how fifteen pre-service teacher groups handled GenAI in a graded group presentation, and the split runs against the usual assumption that group pressure increases AI reliance. Five groups intensified use to solve a familiar collaboration problem — not knowing what peers' sections contained — feeding that work into a chatbot to make it intelligible and align their own part, with one group rebuilding its cycle as *discussion → externalization to GenAI → collective review → re-discussion*. The authors read this as more than [[cognitive-offloading|cognitive offloading]], since students kept judgment while the tool absorbed coordination, but flag that the smoother workflow may bypass the disagreement through which cohesion is conventionally built, making relational labor the open question. Seven groups cut their GenAI use instead, protecting the [[situated-learning|situated]] knowledge built in shared classrooms ("AI only knows that moment when you type"), [[bias-mitigation|fairness]] to groupmates, originality across groups, and the diversity of perspectives the group already held. Three groups saw no change at all: with the task partitioned into independent sections, individually sophisticated GenAI practice never became a collective capability, even though coherence was an explicit criterion. The pattern suggests group norms, not the tool, decide what a group does with AI — and that collective adoption can lower the perceived [[ai-misuse-learning-harm|risk of misuse]] rather than raise commitment.
 
 **Collaboration as the object of instruction.** [[golrang-propact-pair-programming-2026|ProPACT]] is an AI-driven [[intelligent-tutoring|adaptive tutor]] for pair programming that treats the *dyad* — not the individual — as the unit of analysis, modeling joint visual attention, joint mental effort, and pupil-based signals in real time to predict collaborative breakdowns up to 30 seconds in advance and intervene before they occur. Dyads receiving proactive feedback achieved substantially higher debugging success and completed tasks more efficiently, and showed sustained gains in collaborative regulation afterward — evidence that AI can teach collaboration itself, not just support a task. Measuring collaborative competence poses the complementary challenge of assessing collaborative problem-solving (CPS) skill at scale, which traditionally requires manually coding process data from simulated tasks into CPS behaviors — time-consuming and impractical at scale; [[prompt-engineering|context-aware prompting]] of pre-trained language models automates this coding by modeling contextual dependencies and fusing cognitive and social abilities, achieving superior performance over strong baselines.
+**Scaffold on the order of group talk, not its frequency.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]] mined 65 students' triad dialogue sequences and found one ordering — paraphrasing, then proposing, then questioning — tracked improvement while the reverse did not; the maximal scaffold raised on-task behavior yet also scripting and fewer problem-solving indicators.
 
 **AI as a neutral mediator — and the tension when it stops being neutral.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] is a Discord-based [[llm]] probe that mediates disciplinary boundaries in interdisciplinary student teams by surfacing implicit assumptions and returning anonymized syntheses to shared discussion. Students valued it as both cognitive support and a relational buffer, but a central tension emerged: AI's perceived neutrality was load-bearing, and eroded once the AI moved from neutral mediator to advisor or challenger — a key design constraint for [[pedagogical-agent|agents]] that mediate collaboration while preserving [[human-ai-collaboration]] and [[trust-calibration]].
 
@@ -65,6 +66,10 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 
 - **Model collaboration, not just the individual.** Tools that track dyadic or group state (as [[golrang-propact-pair-programming-2026|ProPACT]] does) can scaffold the collaboration itself, predicting and preventing breakdowns rather than reacting to them.
 - **Preserve cognitive conflict.** Structure AI as an argumentative partner that surfaces disagreement and implicit assumptions, avoiding the polished-artifacts problem where AI smooths over fragile epistemic engagement.
+
+- **Match the agent's function to the outcome you intend.** A review of 46 studies of AI agents in computer-supported collaborative learning found cognitive gains consistently reported while behavioral, social and emotional outcomes stayed context-dependent, with the strongest alignment between agent function and outcome inside the same domain ([[ba-ai-agents-cscl-review-2026|Ba et al. (2026)]]).
+
+- **A separate Facilitator role reduces dominance, not responsiveness.** In [[astra-multi-agent-tutoring-benchmark-2026|Oyelere's (2026)]] simulated benchmark, adding a Facilitator agent alongside the Tutor lowered dyadic turn and word imbalance (M = 0.103 and 0.105 versus 0.183 and 0.182) without changing reciprocal engagement — though the learners were synthetic personas, not real dyads.
 - **Balance efficiency against self-regulation.** Collaborative AI that maximizes task efficiency (delegated reasoning) can undercut learners' regulatory engagement; design should deliberately protect space for concerted interpretation.
 - **Respect the neutrality constraint.** AI mediators are trusted while neutral; moving into advisory or challenging roles destabilizes that trust, so role switches should be explicit and configurable.
 - **Accommodate neurodivergent learners.** Structured assignments, small consistent teams, and explicit role definitions are requirements AI collaboration tools must support.
@@ -103,7 +108,6 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[genai-counter-learner-groupthink-2025]]
-- [[ai-communities-of-inquiry-2026]]
 - [[polished-artifacts-fragile-engagement-2026]]
 - [[epistemic-emotions-collaborative-problem-solving]]
 - [[hingle-collaborative-ai-literacy-2025]]
@@ -118,7 +122,6 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAI and student group work: a scoping review (Wei & Perkins 2026)
-- [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
 - [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space in small-group dynamics (Xu et al. 2026)
 - [[breideband-community-builder-cobi-2026]]
@@ -126,5 +129,4 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
 - [[chen-zou-genai-group-assessment-agency-2026]] — GenAI as coordination infrastructure in student groups: intensified, restrained, and non-enacted use
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
-- [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
 - [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education

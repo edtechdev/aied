@@ -1,7 +1,7 @@
 ---
 title: Activity Theory
 created: "2026-08-26T08:20:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -86,5 +86,4 @@ For designers and educators, activity theory counsels looking beyond the AI tool
 - [[ai-disruption-engineering-education-chat-2026]] — Changing student norms in engineering education via CHAT
 - [[activity-theory-teacher-pd-ai-agent-design-2026]] — CHAT-SDT redesign of teacher professional development
 - [[chat-anchored-learning-analytics-ai-literacy-2026]] — CHAT-anchored learning analytics pipeline for AI literacy
-- [[chatgpt-critical-creative-thinking-review]] — CHAT as one theoretical lens on ChatGPT pedagogy
 

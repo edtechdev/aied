@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai]
 title: Edtech Platform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-28T22:17:25-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -69,6 +69,8 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 3. **Prefer open, replicable platforms for research.** Open-source platforms like OATutor enable reproducible adaptive-learning research and a shared evidence base.([[oatutor-open-source-adaptive-tutor-2023]])
 4. **Design AI-native platforms with governance and bounds.** Privacy-first architecture, data minimization, auditable logs, and role-based access are critical as platforms become AI-integrated — connecting to [[privacy]] and [[governance]] concerns.([[ai-lms-middle-school-longitudinal]])
 5. **Explain recommendations in the teacher's domain language.** A platform's AI features earn trust and uptake when their explanations are understandable and pedagogically meaningful: in a within-subject experiment with an AI grouping-recommendation tool (GrouPer), [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found domain-driven explanations framed in curricular language increased teachers' understandability, trust, and acceptance significantly more than raw feature-importance explanations — and that real classroom use still mattered for full acceptance.([[xai-teachers-trust-edtech-recommendations-2026]])
+6. **Separate the system that produces evidence from the one that grades it.** When agents can complete a course on a learner's behalf, [[credentials-carry-evidence-ai-agents-2026|Srivastava (2026)]] argues a platform must emit contemporaneous, inspectable evidence of the learner's reasoning and must not be its sole grader — the environment, issuer and verifier should be independent.([[credentials-carry-evidence-ai-agents-2026]])
+7. **Generate representations at design time, not at runtime.** [[edtech-design-time-generative-ui|Neshaei et al. (2026)]] argue runtime adaptation cannot be verified at scale and propose encoding content as modality-agnostic semantic cards, from which interactive, audio, simplified-text and low-bandwidth variants are generated and instructor-approved before release — eliminating per-learner inference cost, though no prototype is reported.
 
 ## Connected Concepts
 
@@ -117,7 +119,6 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[learnmate2-llm-adaptive-learning]] — LLM-powered personalized adaptive learning platform
 - [[multi-site-vr-immersive-learning]] — Multi-site VR immersive learning platform
 - [[privacy-aware-classroom-incident-recognition-2026]] — Privacy-aware computer vision in classroom platforms
-- [[a4l-analytics-pipeline]] — A configurable analytics pipeline platform
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research and systems
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 - [[breideband-community-builder-cobi-2026]]

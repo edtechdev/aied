@@ -1,7 +1,7 @@
 ---
 title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
@@ -63,4 +63,3 @@ SSH education foregrounds the very capabilities generative AI most challenges �
 - [[paternalistic-filter-llm-history-education]] — LLM use and historical reasoning in history education
 - [[genai-impact-chinese-students-hss]] — GenAI's impact on humanities and social science students
 - [[acceptance-ai-english-tools-2026]] — AI acceptance among language and humanities learners
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)

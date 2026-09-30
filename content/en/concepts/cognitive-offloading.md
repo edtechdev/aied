@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -187,7 +187,6 @@ Two controlled studies in the recent batch pin down the two halves of this claim
 - [[student-cognitive-offloading-ai-higher-ed-2026]] — Patterns of student cognitive offloading to AI in higher education: naturalistic ChatGPT message-level evidence (Piatnitckaia et al. 2026)
 - [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants
 - [[chatgpt-programming-performance-retention-ownership-2026]] — Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Offloading tendency and verification literacy predicting higher-order outcomes through metacognitive self-regulation (Davor et al. 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt reduces acceptance of incorrect AI advice and improves awareness calibration (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI dependence as a boundary condition on critical-thinking disposition and self-perceived employability (Shojaei et al. 2026)

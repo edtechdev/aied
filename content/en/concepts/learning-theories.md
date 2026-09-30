@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-09-23T16:28:35-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -72,6 +72,8 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 ### Theories proposed for the AI era
 
 Alongside the classical families, the knowledge base documents theories written specifically for learning with AI systems, and these carry the design implications that the older theories leave open. [[yan-agentivism-learning-theory-ai-2026|Agentivism (Yan and Gašević 2026)]] is a mid-range example: it defines learning as durable growth in human capability rather than successful task completion, names four mechanisms (delegated agency, epistemic monitoring and verification, reconstructive internalization, and transfer under reduced support), and states six testable propositions, among them that AI support preserving learner responsibility for problem framing, criteria setting and justification produces stronger learning than support that delivers answers.
+
+[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]'s **Pedagogical Symbiosis** makes a stronger ontological claim: the learner is a *Post-Human* entity whose cognition is hybrid rather than tool-assisted, organized by four principles: cognitive offloading and augmentation, epistemic co-construction, metacognitive symbiosis, and dynamic identity formation; operationalized as a Symbiotic Portfolio rubric and a "Cognitive Choreographer" teacher role; it is explicitly untested.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: Peer Assessment
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-09-28T21:37:06-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -99,7 +99,6 @@ The open questions are about the strength of the evidence, not only about design
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
 - [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment
 - [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
 - [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI
 - [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing

@@ -1,7 +1,7 @@
 ---
 title: Embodied Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
@@ -68,7 +68,6 @@ Embodied learning connects to [[educational-robotics]], [[educational-robotics]]
 - [[vargas-situated-learning-ai-review-2024]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[fowlin-operationalizing-learning-principles-ai]]
 - [[videla-embodied-ai-education-choreography]]
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)

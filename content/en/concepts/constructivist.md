@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
@@ -137,17 +137,14 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[embodied-inquiry-ai-facilitator-physics-2026]] — Embodied inquiry with an AI facilitator
 - [[beyond-detection-authentic-assessment-ai-2025]] — Authentic assessment and knowledge construction
 - [[teacher-ai-teaming-five-levels]] — Levels of teacher–AI collaboration in design
-- [[ccct-cooperative-learning-technique]] — Cooperative learning framed through constructivist theories
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency between learner and machine
 - [[ensemble-cognition-philosophy-ai-education]]
 - [[vargas-situated-learning-ai-review-2024]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[ojeda-ramirez-community-based-ai-learning]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)

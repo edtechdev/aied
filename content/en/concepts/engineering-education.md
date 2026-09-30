@@ -1,7 +1,7 @@
 ---
 title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-09-17T14:13:57-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -35,6 +35,8 @@ Engineering education research is distinctive because it sits at the intersectio
 - **Embodied and [[multimodal]] assessment:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] develop a multimodal framework integrating computer-vision gesture tracking with [[llm]] analysis of speech to assess engineering students' conceptual understanding of statistics, showing that gesture adds diagnostic evidence beyond speech and that close gesture–speech coupling signals coherent understanding.
 - **Workforce transformation:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. gray literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending durable AI competencies, [[ethics]] and [[governance]], and skill-based credentials for emerging roles.
 - **Student adoption and reliance:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extend the Technology Acceptance Model with *critical use* to model how engineering/CS students form intentions to use [[generative-ai|GenAI]] and how that intention predicts reliance across understanding, assessment, programming, and engineering-project tasks — finding moderate, appropriate reliance and heavy use for understanding-related tasks but limited use for full assessment writing. [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrate TAM with [[technology-acceptance-model|UTAUT]] to model Bangladeshi engineering students' adoption, explaining 64% of usage variance and highlighting job relevance, result demonstrability, and subjective norms as key drivers.
+
+- **Students' own metaphors exceed what the tools deliver:** [[ai-engineering-education-balancing-act|Kudina (2026)]] found 100 engineering students most valued LLMs for writing support, conceptual clarification and coding, yet framed them as "oracle" and "tutor" — authority and personalization a probabilistic text generator cannot supply, a "cruel optimism" that depends on verification skills students are still building.
 - **[[intelligent-tutoring|AI tutoring]] and feedback for [[quantitative-research|quantitative]] engineering courses:** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin et al. (2026)]] introduce Arthur, an AI teaching assistant that delivers real-time, personalized feedback on Calculated Formula Questions in an undergraduate Engineering Economics course — a domain where pen-and-paper, unstructured solutions have blocked prior AI support. Its full life-cycle pipeline (curating previously graded handwritten submissions, random-masking [[machine-learning|data augmentation]], per-question XGBoost diagnosis backbones, and a dialogue-based question-bank web interface) offers a scalable pathway for [[ai-feedback-quality|AI feedback]] across engineering courses that lack structured digital data, and the framework is designed to generalize to CFQs in other engineering disciplines.
 
 ## Signature concerns

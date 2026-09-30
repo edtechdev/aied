@@ -1,7 +1,7 @@
 ---
 title: Inquiry-Based Learning
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -35,6 +35,8 @@ Inquiry-based learning centers on student-driven questions and the inquiry proce
 **Cognitive-level patterns in LLM-driven IBL.** An exploratory study of 117 interview transcripts and interaction records ([[luo-ibl-patterns-llm-bloom-2026|Luo et al.]]) identified 14 interaction patterns across Bloom's cognitive levels, showing how students' prior knowledge shapes LLM use and highlighting the need for scaffolding that targets higher-order thinking stages and mitigates over-reliance.
 
 **Outcomes evidence is mixed.** An AI-supported IBL experiment in [[math-education|mathematics]] ([[mujib-ai-ibl-creative-math-2026|Mujib et al.]]) improved creative mathematical performance and attitudes but not critical problem-solving skills — suggesting AI-IBL mainly supports [[creativity]] and [[affective-computing|affective]] development. A meta-analysis of 29 experiments ([[zhao-genai-higher-order-thinking-meta-2026|Zhao et al.]]) found GenAI has a moderate positive effect on higher-order thinking, strongest for problem-solving and with 8–16 week interventions and higher [[self-regulated-learning]] learners benefiting most. A quasi-experiment with 48 pre-service science teachers in Türkiye ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) using an 8-week AI-supported guided inquiry program (integrating problem- and design-based learning) found significant group-by-time gains in conceptual understanding of photosynthesis and cellular respiration, but *no* significant effect on AI literacy or self-perceived [[computational-thinking|computational thinking]] — evidence that AI-IBL can deepen domain understanding while the development of AI/CT competencies requires more explicit, targeted design.
+
+[[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] isolated the AI contribution from the inquiry itself in a three-group climate study: AI-assisted inquiry outgained inquiry-only peers on decision-making (d = 0.69), with the largest gains in monitoring and adaptive management (d = 1.37), while basic data collection improved equally across all conditions.
 
 **[[equity-in-ai-education|Equity]] and context.** A conceptual framework bridges generative-AI co-design with open educational practices to support inquiry-led STEM teaching in under-resourced contexts, using AI-generated, [[multilingual-learning|multilingual]], contextually relevant [[simulation|simulations]].
 

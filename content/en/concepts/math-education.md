@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-28T21:41:14-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -41,6 +41,8 @@ The knowledge base's only field-level synthesis of this domain is a 2021–2025 
 **Higher education math** explores AI's impact on advanced math practice. **[[genai-runaway-object-math-higher-ed|Bui et al.]]** applied [[sociocultural-learning|socio-cultural]] theory to [[generative-ai|GenAI]] in university mathematics, analyzing AI as a "runaway object" that transforms academic practice in ways that outpace [[governance|institutional]] and pedagogical norms.
 
 **LLM tutoring and [[learning-design|instructional design]]** is an emerging cluster of two 2026 studies that sharpen the math-education evidence base. [[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu, and Sun (2026)]] developed a rule-guided [[intelligent-tutoring|LLM tutoring system]] for primary-school math word problems whose three-layer architecture (diagnosis → intent selection → constrained response generation) improved interactional consistency and reduced premature answer-giving in a 40-student Grade 5 classroom pilot — evidence that procedural math domains need [[guardrails|structured rule-guards]] on otherwise stochastic LLM scaffolding. [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao, and Wang (2026)]] applied a smart-classroom model to mathematics M.Ed. students and found statistically significant gains (p < .05) in instructional-objective design across curriculum-standards, textbook, and student-condition dimensions.
+
+Prompt design is itself a measurable lever: on the MathDial benchmark a pedagogically informed Socratic "Tutor Prompt" raised Success@N and sharply cut Telling@N relative to a base prompt for both GPT-4o and GPT-4o-mini ([[chudziak-ai-math-tutoring-platform|Chudziak & Kostka (2025)]]).
 
 **[[generative-ai|GenAI]] for mathematical modeling tasks** extends the generation strand beyond routine exercises. An AI-powered platform developed through the ADDIE approach used direct variation in secondary school mathematics as an illustrative topic, addressing teachers' lack of time and resources to design high-quality modeling tasks: existing tools typically produce conventional word problems or routine exercises, whereas the platform aimed to generate resources that foster mathematical modeling competencies, grounded in established design principles and [[prompt-engineering|retrieval-augmented generation]].
 - **Visual chain of thought: the [[agency|autonomy]] gap in geometry.** GeoVAD-Bench diagnoses intermediate visual aids rather than final answers across 600 auxiliary-construction problems (200 easy, 200 medium, 200 hard), and finds a consistent pattern: supplying the reference auxiliary diagram improves accuracy modestly (+3.3, +3.0, +7.0 points across three models) while leaving the model to construct its own auxiliary line on the way to the correct answer widens the gap by 10.0 to 13.5 points, with two models performing worse than when they had no visual reasoning at all. Four process-error categories accounted for 93.1% and 89.7% of attributed failures. For [[problem-solving]] instruction the finding is that diagrammatic scaffolding has to be trained and evaluated separately from answer accuracy. ([[geovad-bench-visual-chain-of-thought-geometry-2026]])
@@ -93,7 +95,6 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[chudziak-ai-math-tutoring-platform]] — AI-powered math tutoring platform (Chudziak & Kostka 2025)
-- [[drawedumath-vlm-struggling-students-2026]] — VLMs underperform on math student work with errors (DrawEduMath, Lucy et al. 2026)
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[zhang-tutormoments-2026]]
 - [[lak2026-hint-button-unproductive-use]]
@@ -105,7 +106,6 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[ai-tpack-preservice-math-teachers]]
 - [[genai-runaway-object-math-higher-ed]]
 - [[generative-ai-reduced-study-time-math]] — ALEKS mastery platform: text-based problems most AI-susceptible
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic pipeline for educational math diagram evaluation
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design

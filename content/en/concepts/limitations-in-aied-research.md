@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -36,6 +36,8 @@ The knowledge base's [[research-methods-aied|research methods]] page details the
 - **Generalizability.** Findings from a single course, institution, discipline, or national context may not transfer. Small, convenience, or single-institution samples limit external validity; results from one AI tool rarely extend to a different tool or context.
 - **Synthesis-level rigor is a separate axis from primary-study rigor.** A meta-analysis can satisfy its own inclusion criteria and still pool studies that differ in design, implementation fidelity and outcome measure without weighting any of that: [[ai-supported-instruction-stem-meta-analysis-2026|Doğan and colleagues (2026)]] state plainly that they used no formal quality appraisal tool and treated the inclusion criteria as the rigor threshold, so a quasi-experimental study and a randomized one contributed equally to the pooled [[stem-education|STEM]] estimate. The same review shows a related reporting hazard: its heterogeneity is quoted as I² = 82.98% under a fixed-effect model and I² = 15.75% under the random-effects model, meaning readers who lift a single heterogeneity figure without its model cannot tell how inconsistent the corpus actually is. Appraise a synthesis on how it handled dependent effect sizes, quality, and heterogeneity, not only on whether it followed a search protocol.
 - **Small sample sizes.** Many AIED studies are underpowered — too few participants to reliably detect meaningful effects or to support the strong claims sometimes drawn from them.
+
+- **Validation design can manufacture the headline number.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara and Halloluwa (2026)]] benchmark fifteen models on EEG-based familiarity and show that standard stratified cross-validation allows temporal leakage and reports up to 0.9853 F1, while trial-independent Group K-Fold validation drops the peak to 0.6038 F1 — still above chance, but far from the quoted result.
 - **Validity and measurement.** [[assessment-validity|Construct validity]] is often thin: proxies for "learning," "[[student-engagement|engagement]]," or "literacy" vary widely, and instruments are not always validated for the population or construct being studied. [[benchmark|Benchmark]] accuracy does not equal educational effectiveness.
 - **Self-report and survey data.** A large share of the corpus relies on self-reported attitudes, motivation, and usage. Self-report is subject to bias — respondents overestimate competence, under-report [[ai-misuse-learning-harm|misuse]], and misjudge their own behavior — so perception-based measures frequently diverge from objective performance (see [[ai-literacy-assessment-misalignment]] and [[educational-measurement]]).
 - **Context and validation reporting can be quantified across a literature.** A PRISMA-ScR review of 421 studies of NLP on teaching-evaluation comments found country unresolved in 221 studies, single-institution scopes in 232 of 284 resolved cases (81.7%), external validation in 33 (7.8%) and inter-annotator agreement in 54 (12.8%) ([[nlp-student-evaluation-teaching-scoping-review-2026|Eicher & da Silva (2026)]]).

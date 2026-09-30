@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-28T21:44:10-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -119,10 +119,8 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[tpack-genai-inservice-teachers-mediation-2026]] — In-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge (Mohebi & ElSayary 2026)
 - [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
-- [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation for teacher professional development (Melo et al. 2026)
 - [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Generative AI across representations, decompositions and approximations: rehearsal, structured feedback and the accuracy cautions
-- [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an intensive GenAI professional development program
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
 - [[teacher-ai-teaming-five-levels]] — Toward synergistic teacher-AI interactions
@@ -155,7 +153,6 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — A three-hour teacher PD session raised perceived usefulness and ease of use but not stated intention to adopt (Mesenhöller & Böhme 2026)
 - [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Systematic review of AI in pre-service primary mathematics teacher training: ethics addressed in only three of eleven studies (Pinto et al. 2026)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: preparedness, non-use and the individual-vs-institutional policy gap (Watson & Rainie 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — Six-week faculty institute from fear to ethical integration, symbiotic pedagogy and AIPACK (Chick, Morello & Staffey 2026)
 - [[ai-integration-instructional-design-collaboratory-2026]] — Cross-institutional faculty collaboratory: AI integration as instructional design in teacher preparation
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systematic review of 33 instruments for measuring teacher AI literacy: 31 self-report, two objective knowledge tests, no performance tasks (Zainal, Mohd Matore & Maat 2026)
 - [[adaptive-ai-model-teacher-educators-2025]] — A design-based adaptive AI literacy model and 20-item reflective questionnaire co-designed with 22 teacher educators (Eyal 2025)

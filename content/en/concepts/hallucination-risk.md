@@ -1,7 +1,7 @@
 ---
 title: Hallucination Risk
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-28T21:46:01-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -29,6 +29,8 @@ reviewed_by: [editor]
 Hallucination in educational AI takes several forms documented in this knowledge base's articles: fabricated evidence in [[assessment|student assessment]], over-confident misdiagnosis of learner knowledge, and plausible-sounding but incorrect explanations that students accept as truth. The risk is amplified in education because the asymmetry of knowledge between AI and learner means the learner is poorly positioned to verify AI outputs. A further setting is AI-generated course readings that stand in for a textbook: in a graduate course that replaced its commercial text this way, only about 0.80% of 4,487 logged pages carried an APA-style in-text citation and DOI strings were essentially absent, so most claims could not be audited from within the artifact ([[sidorkin-ai-generated-course-readings-2026|Sidorkin, 2026]]). That traceability gap is distinct from a wrong answer, because the text reads as authoritative while offering limited internal means of confirmation.
 
 **Assessment hallucination** is particularly damaging. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** found that LLMs fabricate evidence quotes not present in student handwriting when diagnosing cognitive skills, with 58.5% of incorrect diagnoses accompanied by false claims of evidential confidence. **[[llm-fallacy-misattribution]]** documented systematic over-attribution of evidence in [[llm]] reasoning — models claim evidential support where none exists. Both connect to [[ai-ed-evaluation]] and [[knowledge-tracing]] concerns about [[assessment-validity]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] add two failure modes visible when AI output is marked rather than inspected: fabricated particulars that survive grading — a reviewed paper that does not exist, complete with an unresolvable DOI, and a sample size reported as 378 where the source said 329 — and self-contradiction inside a single response, where the model reasoned its way to the correct option and then reported a different one in its closing summary. Because reference lists are currently marked for formatting rather than accuracy, this class of error reaches a passing grade while misleading the student who uses the same tool to revise.
+
+In an assessment-design pilot, [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] found fabricated references and unrealistic time estimates that survived repeated prompting and required substantial academic revision — hallucination in an educator-facing drafting tool rather than in student work.
 
 **Strategic [[misconceptions]]** are a subtler relative of overt hallucination. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] prompted seven open-weight models to produce a "[[socratic-method|Socratic]] trap" for 35 core computer-science concepts — an explanation that is fluent and authoritative while resting on a subtle, domain-specific error — and three domain experts confirmed 221 of 241 prompted segments (91.7%) as strategic misconceptions, with no significant differences between CS domains. The errors were predominantly conceptual rather than factual (66.5% vs. 33.5%) and none were purely logical, and they were rated moderately to highly persuasive (M = 3.71 on a five-point scale), with model identity explaining 43% of the variance. Because individual statements can be correct while the relation between them is wrong, fact-checking is insufficient; the authors argue [[ai-literacy|learners]] need conceptual verification and mental-model validation. They also caution that the rate measures capability under adversarial [[prompt-engineering|prompting]] rather than the prevalence of such errors in ordinary use, and that no students were tested, so no deception or learning outcome was measured.
 
@@ -62,7 +64,6 @@ Hallucination in educational AI takes several forms documented in this knowledge
 - [[prompt-injection-defenses-educational-llm-tutors]]
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 - [[sidorkin-ai-generated-course-readings-2026]]
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: fluently plausible explanations that are wrong at the conceptual level (Miličević et al. 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden prompt injections raise AI-graded marks undetected, and detected attacks go unreported (Humble 2026)

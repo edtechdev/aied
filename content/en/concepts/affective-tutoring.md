@@ -1,7 +1,7 @@
 ---
 title: Affective Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -58,6 +58,8 @@ The authors argue that emotional risks are part of a broader pattern of **erosio
 2. **Transparency about affect detection** — Students should know when and how their emotions are being inferred
 3. **Affect-as-one-signal-among-many** — Combine with cognitive state (e.g., [[huang-interpretable-knowledge-tracing-2026]]) and behavioral engagement
 4. **Privacy-by-default for [[multimodal]] sensors** — Facial/video data requires stronger protections than text-only inference
+
+A boundary on affect inference from dialogue: [[ecnuclaw-k12-personalized-companion|Zhou, Li and Zhang (2026)]] update a five-dimension learner profile at each turn — including an emotional dimension — but extract signals with keyword dictionaries, so a student who expresses frustration without the predefined keywords is not profiled, and profile accuracy has not been validated against expert judgment.
 
 ## Relationship to Broader Safety
 

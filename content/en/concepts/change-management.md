@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -47,6 +47,7 @@ An assessment-practice workshop with 73 computing educators supplies the counter
 ## Implications
 
 Change management in AI education carries both positive and negative implications. **Positively**, structured frameworks give institutions a path from reactive crisis management to proactive, participatory governance; [[crompton-governing-genai-higher-ed-delphi-2026|Delphi consensus]] and [[baroudi-anticipatory-governance-ai-higher-ed-2026|anticipatory governance]] both support treating [[ai-literacy]] and [[ethics]] as cross-cutting institutional capabilities rather than isolated rules. **Negatively**, fragmented adoption widens existing gaps: the [[adarkwah-genai-unesco-policy-2026|UNESCO framework analysis]] of 30 leading universities finds core ethical and [[governance]] principles widely embraced but [[inclusive-learning|inclusion]], equity, and [[sustainability]] (internet access, gender parity, environmental impact) often overlooked — and national AI-preparedness rankings do not predict robust institutional policy. The [[league-ethical-governance-student-data-2026|LEAGUE framework]] extends this concern to [[learning-analytics]], arguing that governance must move beyond compliance (FERPA/GDPR) toward lawfulness, equity, [[agency]], utility, and ethics by design, reviewing student-data practices transparently and educationally.
+ In institutions where strategy runs ahead of infrastructure the work compounds: academic developers at two South African Historically Disadvantaged Institutions called AI strategy "performance more than practice," and the paper insists digital inequality - a distributive problem - be kept separate from algorithmic coloniality, an epistemic problem that survives full access ([[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole, 2026]]).
 
 **For [[administrator|administrators]] and [[educational-policy-ai|policymakers]]**, the evidence argues for participatory governance, infrastructure investment, and capacity-building over aspirational strategy documents, translating national policy into concrete instructor support rather than issuing top-down mandates. **For instructors**, change management means moving from adopter to inquiry-driven experimenter, engaging [[pedagogical-partnerships|students as partners]], and anchoring reform in durable pedagogical principles rather than tools that may be obsolete within months — with the caveat that professional development must target a full design cycle (needs assessment, feedback) rather than tool use alone, as the [[dot-framework-survey-2026|DOT framework survey]] demonstrates.
 

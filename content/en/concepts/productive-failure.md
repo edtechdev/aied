@@ -1,7 +1,7 @@
 ---
 title: Productive Failure
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -111,6 +111,4 @@ Productive failure connects to [[learning-theories]] (constructivism), [[desirab
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
 - [[finkelstein-principled-ai-education-2025]] — Principled AI in Education
-- [[crewscaler-ai-upskilling-framework]] — AI Upskilling Framework (productive failure as a tutoring protocol)
 
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does
