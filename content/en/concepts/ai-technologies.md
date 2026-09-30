@@ -1,7 +1,7 @@
 ---
 title: Technologies
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-09-22T03:05:00-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
@@ -36,6 +36,7 @@ reviewed_by: [editor]
 - **Retrieval-augmented generation (RAG).** [[rag|RAG]] grounds LLM outputs in retrieved knowledge, reducing hallucination and improving accuracy — a core technique for [[pedagogical-safety|safe]] educational deployment.
 - **Reinforcement learning.** [[reinforcement-learning|Reinforcement learning]] trains agents to optimize behavior over time, used in [[adaptive-learning|adaptive systems]] and [[game-based-learning|game-based learning]].
 - **Agentic orchestration.** [[agentic-ai|Agentic AI]] systems plan and execute multi-step workflows — often orchestrating multiple specialized agents (see [[agentic-ai|multi-agent systems]]) — and are reshaping AI from a prompt-responding tool into a proactive collaborator.
+- **The educational agent stack lags the frontier.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] mapped 474 studies and found GPT-series models and LangChain dominant while governed tool orchestration, persistent memory, and long-horizon planning were largely absent — and only 138 of 474 (29%) drew on educational theory.
 - **Model training and adaptation.** [[pedagogical-llm-training|Training and fine-tuning LLMs for pedagogy]], [[educational-llm-alignment|educational alignment]], and [[cstutorbench-slm-tutors|small-language-model adaptation]] make general models education-specific.
 
 ## How the technical layer connects to the field

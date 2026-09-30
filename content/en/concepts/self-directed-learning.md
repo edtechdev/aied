@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Self-Directed Learning
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -68,5 +68,4 @@ Because SDL emphasizes learner-initiated direction, interventions to protect it 
 - [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of generative AI educational outcomes
 - [[andragogy-cognitive-delegation-genai-2026]] — Andragogy and cognitive delegation with GenAI
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
 - [[an-goel-self-directed-modeling-2026]]

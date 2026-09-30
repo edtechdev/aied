@@ -6,7 +6,7 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 reviewed_by: [editor]
 ---
 
@@ -24,6 +24,7 @@ reviewed_by: [editor]
 ## Introduction
 
 Science education is where AI's promise and its limits collide most visibly, because the disciplines demand rigorous [[multimodal]] reasoning — visual-spatial thinking in physics, laboratory skills in chemistry, and organism-level systems in biology — alongside well-structured, verifiable content that LLMs handle well. The thirteen articles synthesized here span all three disciplines and levels, from [[k-12]] secondary classrooms to [[higher-ed]] university courses and [[teacher-education|pre-service teacher]] programs. Across them, a consistent picture emerges: AI functions best not as an answer generator but as an embedded partner — a co-inquirer, a content generator, a virtual lab assistant — whose contribution is decided by [[learning-design|instructional design]] and the surrounding pedagogical structure.
+A four-week randomized evaluation of an AI revision platform in GCSE science gives the picture a causal estimate — Hedges' g = 0.33, with no evidence the effect differed by subject or disadvantage — against an already technology-rich counterfactual, so the figure is added value rather than AI versus nothing ([[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]]).
 
 ### Virtual labs and simulations
 

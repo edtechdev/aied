@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -36,6 +36,9 @@ Curriculum design addresses the *what* of education at the program level, comple
 **Curriculum mapping and analysis** uses AI to understand existing curricula. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** analyzed 23 syllabi from AI-assisted software engineering courses, identifying common themes — [[prompt-engineering|prompt engineering]], code review with AI, [[ethics|ethical considerations]] — and deriving design guidance that emphasizes balancing tool fluency with foundational knowledge. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** applies computational methods to compare CS course structures across institutions.
 
 **AI literacy integration** embeds AI competencies across disciplines. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** provides a scaffolded AI literacy framework applicable across all ages and educational stages, addressing second- and third-level [[digital-divide|digital divides]]. **[[tracing-genai-literacy-interaction-patterns]]** examines how AI literacy develops through interaction patterns. **[[hingle-collaborative-ai-literacy-2025]]** explores collaborative approaches to AI literacy curriculum development, connecting to [[collaborative-learning]].
+Integration in practice lags the frameworks. [[critical-media-literacy-education-2026|Santos-Albardía et al. (2025)]] found only 13.8% of surveyed education and journalism students said their coursework addressed critical media analysis, against 97.8% who rated it important, and their expert interviews traced the gap to teacher training that prioritizes technical and instructional skills over media education.
+
+A 42-study review of pre-university AI education finds curricula moving from technical content toward competency-based models built on frameworks such as AI4K12 and the Five Big Ideas in AI, with [[ai-literacy]] treated as a cross-curricular competency while standardized instruments for assessing it remain absent ([[caruana-pre-university-ai-education-slr-2026|Caruana et al. (2026)]]).
 
 **[[discipline-specific-aied|Domain-specific]] curriculum innovation** applies curriculum design to specific fields. **[[genai-architecture-education]]** explores how generative AI reshapes architectural design [[pedagogy]]. **[[talebzadeh-ai-green-education-2026]]** examines AI integration in green education curricula. **[[connected-ai-lesson-planning-vietnam]]** and **[[llm-cultural-relevance-k12]]** address [[culturally-relevant-pedagogy|culturally responsive curriculum design]].
 
@@ -52,6 +55,7 @@ A curriculum-level consequence of model capability is that AI-resistant design e
 **Generating curriculum-aligned modeling tasks.** AI-powered platforms can address teachers' lack of time and resources for designing high-quality [[math-education|mathematical modeling]] tasks by generating curriculum-aligned problems and pedagogical recommendations grounded in design principles and [[rag|retrieval-augmented]] generation — an approach illustrated with direct variation in secondary school mathematics ([[ai-modeling-problem-generation-platform-2026]]). Course readings themselves are now a generation target too: Sidorkin (2026) replaced a commercial textbook with weekly AI-generated readings in a graduate educational leadership course, and although students rated them useful and 75 percent agreed they learned more than in a comparable course, the 4,487 pages of logs carried APA-style in-text citations on only about 0.80 percent of pages and paired a named campus or system with assertive policy claims on roughly 1.03 percent of pages without a verifiable source. The curriculum-materials lesson is to treat generated readings as draft production under instructor review, to budget for the instructor labor of prompt design and verification, and to curate vetted sources into the assistant rather than leaving source quality for students to infer from context.
 
 **AI-assisted lesson planning at the curriculum-into-classroom layer.** At the point where a curriculum becomes a taught lesson, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir (2025)]] experimentally compared teacher-generated versus ChatGPT-assisted plans in children's [[stem-education|STEAM]] arts education, finding AI-assisted plans rated significantly higher by six expert professors (median 20.5 vs. 17.6, p = .002, large effect). They show the payoff depends on how the teacher delegates: the recommended method fills content gaps in a self-outlined lesson (preserving teacher design [[agency|autonomy]]) rather than delegating the whole plan, and they contribute a Role–Instructions–End Goal prompt template for reproducible, quality-controlled generation — evidence that AI lesson planning is strongest when embedded within, not substituted for, the teacher's curriculum decisions. In science education, expert validation reaches a parallel verdict on platform design: [[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu, Surmeli and Yildirim (2026)]] had eleven [[science-education]] specialists rate ChatGPT-4 and an education-focused tool (Teacher's Buddy) on sixth-grade plans aligned to Turkey's revised curriculum and the Engineering [[design-based-research|Design-Based]] Learning model. The education-focused platform scored higher across all eight quality criteria — including feedback-intensive stages and curriculum alignment — evidence that embedding pedagogical structure into an AI yields better-aligned output; yet some experts still preferred the general-purpose plan for its stronger social-emotional emphasis, and 7 of 11 judged the plans "applicable by correction" rather than directly usable. The choice of platform and prompt framing, not just the AI itself, shapes how well generated plans align to curriculum standards and process models.
+Structure, not prompt phrasing, is what makes AI drafting reliable in production: [[curriculum-as-code-instructional-design-2026|Paiva (2026)]]'s Curriculum-as-Code pipeline pruned context aggressively and generated materials section by section across 28 project contexts, which cut instructor preparation time from roughly eight to two hours per instruction and left no conceptual or mathematical hallucinations for human review to catch.
 
 ### Connections to related concepts
 
@@ -86,12 +90,9 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[zhou-constructive-alignment-genai-business-2026]]
 - [[nicola-richmond-programwide-assessment-genai-2025]]
 - [[espino-ai-business-education-review-2026]]
-- [[drummond-genai-business-schools-framework-2026]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
-- [[ai-interior-design-malaysia-2026]]
 - [[critical-media-literacy-education-2026]]
-- [[ai-generated-interactive-fiction-education-2026]]
 - [[reshaping-cs-education-genai]]
 - [[ase-26-agentic-software-engineering-curriculum]]
 - [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
@@ -106,11 +107,7 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
 - [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]

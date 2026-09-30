@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-28T22:17:25-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 type: concept
 foundations: [ai-literacy]
@@ -42,6 +42,7 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 - **Discretionary feedback provision:** [[ai-assistance-discretionary-feedback|Research on AI-assisted feedback in higher education]] examines whether AI increases the quantity and quality of feedback instructors provide.
 
 - **Reliable provision, not inherent superiority, drives AI's edge:** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]]'s semester-long field experiment found GPT-4 feedback beat [[peer-assessment|peer feedback]] because it was *consistently* delivered — nearly all AI-feedback respondents (369/398) received textual plus numeric feedback while under two-thirds of peer-feedback students received none, and much peer feedback was non-targeted praise. When high-quality textual peer feedback *was* received, peer outcomes matched AI's — indicating the AI advantage is reliability, not quality at the margin. Students also rated peer feedback slightly higher on perceived validity and emotion (mild [[trust|algorithm aversion]]) yet still activated and learned more from AI, showing perceived quality and behavioral outcomes can diverge.
+- **The advantage can come from a worked example, not corrective feedback.** Practicing cover letters with AI beat feedback from experienced human editors on a later unaided task (d = .20), and merely viewing one AI-revised letter matched practicing with the tool, so the gain tracked the example ([[coach-not-crutch-ai-writing|Lira et al. (2025)]]).
 
 - **Source label versus feedback quality:** [[perceptions-teacher-vs-ai-feedback-bias-2026|Mertens et al. (2026)]] separate the *source* of feedback from its quality by holding content constant — 401 teachers rated feedback messages that were all generated with GPT-4-turbo but randomly labeled as teacher- or [[generative-ai|ChatGPT]]-generated, and the label alone shifted credibility (b = 0.21), usefulness (b = 0.47) and fairness (b = 0.48, all p < .001), with 73% preferring the teacher-labeled message, t(400) = 15.55, d = 0.78. Provider-directed items moved furthest — perceived effort (b = 1.34) and willingness to rely (b = 1.45) — and a written explanation of how ChatGPT works changed nothing (interaction ps ≥ .399), pointing to [[trust]], [[teacher-role|professional identity]] and [[bias-mitigation|ingroup bias]] in the rater rather than any deficiency in the feedback itself. Perceived quality can therefore be discounted by provenance even when the content is identical, which means a genuinely good tool can still stall at the point of use.
 
@@ -97,7 +98,6 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Assessing ChatGPT in-video comments: linguistic, semantic, and perceptual quality (Wang, Du & Jin 2026)
 - [[luo-eaton-ai-student-feedback-ethics-2026]]
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[coach-not-crutch-ai-writing]] — AI writing feedback outperformed human editors on practice letters (Lira et al. 2025)
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: LLM feedback generation with educators in the loop (Zhao et al. 2025)
 - [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Critiquing ChatGPT output against a rubric builds feedback literacy (Richmond & Nicholls 2025)
@@ -115,7 +115,6 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
 - [[genai-educational-outcomes-meta-analysis]]
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - [[gpt4-feedback-student-activation-2026]]
 - [[reddig-maclellan-personalized-feedback-llm-2026]]

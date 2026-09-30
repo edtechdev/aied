@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -124,7 +124,6 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
 - [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk: assessment validity reasoning and generative AI (Weidlich 2026)
-- [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on GenAI governance and policy
 - [[qian-governing-genai-higher-ed-policy-2026]] — Governance by guidance: instructor-set syllabus rules and a four-unit support ecosystem across 50 innovative US universities (Qian 2026)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Faculty governance, instructor discretion and periodic review in law school GenAI policy (Gutowski & Hurley 2025)

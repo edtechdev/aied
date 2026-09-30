@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -130,7 +130,6 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[zerkouk-comprehensive-review-its-2025]]
 - [[embodied-inquiry-ai-facilitator-physics-2026]]
 - [[prober-ai-inquiry-writing]]
-- [[critical-thinking-genai-scaffolding]]
 - [[generative-ai-guardrails-harm-learning]]
 - [[pedagogy-ai-mistakes]]
 - [[stanford-evidence-base-ai-k12-2026]] — Structured Socratic hints vs. open-ended general-purpose Q&A

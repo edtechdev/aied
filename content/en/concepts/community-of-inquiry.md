@@ -1,7 +1,7 @@
 ---
 title: "Community of Inquiry"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-09-28T04:14:44-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -48,6 +48,8 @@ GenAI destabilises the assumption that indicators of presence can be attributed 
 Empirical network evidence now sits under these claims: in a quasi-experiment where 63 Chinese undergraduates (33 with, 30 without a GPT-4o mini chatbot) annotated shared readings on CollaboRead across five weekly tasks, [[network-analysis|epistemic network analysis]] showed the assisted class binding social presence to integration and resolution while the control class bound social presence to triggering and exploration (X-axis U = 25.00, p = 0.01, r = 1.00; Y-axis U = 13.00, p = 1.00, r = 0.04), with higher self-reported cognitive and emotional engagement in the assisted class. The presences then separate inside the condition rather than between them: high-achieving groups initiated 1407 feedback requests across 2319 annotations (60.7%) against 737 across 2167 (34.0%) in the low-achieving group, which stayed in a self-referential loop and weakly leveraged the scaffold.([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
 
 Rather than a tool, a dialogic partner, or a speculative "fourth presence," GenAI is best understood as an **epistemic condition** — a pervasive influence that reconfigures how presences are enacted, interpreted, evidenced, and governed through both visible outputs and invisible training-data, algorithmic, and platform logics.
+
+The framework's own authors supply a role taxonomy for that condition: [[ai-communities-of-inquiry-2026|Stenbom and Garrison (2026)]] place AI as learning-design support, an independent learner resource, an instructor-support function via analytics, a community member, and a sustained dialogical partner, and propose shared [[metacognition]] — self- and co-[[self-regulated-learning|regulation]] — as what keeps learners auditing AI output.
 
 ## Practical implications
 

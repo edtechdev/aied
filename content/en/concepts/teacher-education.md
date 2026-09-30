@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-28T21:21:51-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -32,6 +32,7 @@ Cross-level evidence sharpens the design priority: [[pedagogy-first-technology-s
 Pre-service (initial) teacher education prepares future teachers during their certification programs. AI research in this strand includes:
 
 - **AI-TPACK and intelligent-TPACK readiness.** Instruments and frameworks measure and build pre-service teachers' readiness to integrate AI, extending the [[tpack]] framework with an AI/ethics dimension.([[conceptualizing-preservice-teachers-ai-readiness-2026]])([[ai-tpack-mathematics-teacher-education-2026]])
+- **Acceptance profiles, and an ease-of-use/intention paradox.** [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al. (2026)]] profiled 128 pre-service teachers into four ChatGPT-acceptance groups: Resistant Skeptics (14.06%) reported high perceived ease of use but very low behavioral intention, so operational skills training alone does not convert them.
 - **Applications and benefits.** A scoping review of 55 studies shows AI enhances pre-service teachers' instructional design, subject instruction, practical teaching skills, evaluation, reflective practice, [[critical-thinking|critical thinking]], technology integration, and pedagogical innovation.([[harnessing-ai-preservice-teachers-scoping-2026]])
 - **[[educational-robotics|Educational robotics]] and ML.** Initial teacher training embeds coding, robotics, and [[machine-learning]] activities (e.g., micro:bit) to build [[computational-thinking|computational thinking]] in future teachers.([[microbit-robotics-machine-learning-teacher-training-2026]])
 - **Authentic assessment and metacognition.** AI-mediated assessment models (e.g., AAIWA) integrate [[authentic-assessment|authentic rubric-based assessment]], condition-responsive [[ai-feedback-quality|AI feedback]], and [[metacognition|metacognitive reflection]] in pre-service programs.([[aaiwa-ai-authentic-assessment-metacognition-2026]])
@@ -98,7 +99,6 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Pedagogical AI knowledge as the priority lever for teacher professional learning (Shen et al. 2026)
 - [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
-- [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
 - [[harnessing-ai-preservice-teachers-scoping-2026]] — Scoping review of AI in preservice teacher development
 - [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based professional development framework
 - [[human-centered-ai-teacher-educators-2026]] — Professional learning for critical AI literacy in teacher educators
@@ -113,7 +113,6 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and post-qualification programs
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors report institutional AI-skills consensus and assessment gaps
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Teachers essential for relational/higher-order work in hybrid arrangements
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
@@ -123,7 +122,6 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 - [[pre-service-science-teachers-ai-perceptions-2026]] — Ghanaian pre-service science teachers' AI perceptions (UTAUT/TPB)
 - [[sahab-model-genai-constructivist-id-2026]] — SAHAB model: GenAI constructivist instructional design
-- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
 - [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)

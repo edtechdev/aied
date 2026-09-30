@@ -1,7 +1,7 @@
 ---
 title: "Latent Profile Analysis"
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-09-30T07:37:28-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
@@ -87,11 +87,6 @@ Four cautions, each stated in the source pages:
 
 ## Connected Articles
 
-- [[ai-ethical-awareness-ghana-students-2026]] — Five ethical-awareness profiles; entropy 0.816 (five-class) vs. 0.929 (four-class); smallest profile n = 23
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — Six manager typologies; BIC monotonic across 2–6 classes; bootstrap stability mean ARI 0.385
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Four ChatGPT-acceptance profiles (entropy 0.985); ease-of-use ≠ intention paradox
-- [[becker-chatgpt-typology-physics-2026]] — LCA on categorical indicators from 1,189 coded responses; zero-inflation caveat
-- [[ai-literacy-assessment-misalignment]] — LPA on self-report vs. objective agreement: six calibration profiles
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Three-wave latent profile transition analysis of psychological adaptation
 - [[liang-ai-learning-motivation-sdt-2026]] — Latent transition analysis of three motivation profiles over a year
 - [[trust-in-ai-psychological-profiles-ml-2026]] — K-means profiles; silhouette vs. Calinski–Harabasz disagreement; ARI 0.989

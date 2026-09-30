@@ -1,7 +1,7 @@
 ---
 title: Biology Education
 created: "2026-08-19T13:10:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -33,6 +33,9 @@ Biology education research on AI clusters around a tension: AI has revolutionize
 **Critical thinking in the AI era.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]]** argue that as AI shapes biological research, **critical thinking** — skepticism, contextual understanding, and ethical reasoning — must be deliberately cultivated, with [[human-in-the-loop-ai|human oversight]] remaining indispensable to validate AI outputs and prevent [[equity-in-ai-education|bias]]. This connects to the knowledge base-wide [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns.
 
 **Specialized AI tools and the broader review.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]]** review the full landscape of AI tools in biological education, including **iNaturalist and Google Lens** for species identification, bioimaging and machine-learning tools, assistive technologies, and predictive modeling of at-risk students — alongside the integrity, assessment-design, misinformation, and critical-thinking challenges of generative AI.
+
+
+**How much of the grade is actually exposed.** Weighting each graded category of one department's 38 core-course syllabi by instructor-rated vulnerability put 33% of course points at high exposure and 81% at least somewhat exposed - 41% and 100% online - with only in-person proctored exams rated minimally vulnerable ([[biology-degree-integrity-genai-cheating-2026|Chan et al., 2026]]).
 
 ### Connections to related concepts
 

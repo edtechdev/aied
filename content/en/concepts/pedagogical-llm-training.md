@@ -1,7 +1,7 @@
 ---
 title: Training Pedagogical LLMs for Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-22T09:52:55-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -112,6 +112,8 @@ Training for pedagogy is not just about accuracy — it is a **safety interventi
 - However, training on pedagogical [[benchmark|benchmarks]] does not guarantee multi-turn safety; SafeTutors shows even specialized models degrade over sustained dialogue
 - **Grounding and validation can substitute for — or complement — training.** [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] found that a frontier *untrained* GPT-4 produced ~35% too-general, incorrect, or answer-revealing hints when authoring ITS feedback, and that its own automated quality checks misaligned with human judgment — leading the authors to conclude that LLMs lack an internal model of instruction and that robust validation or domain-specific training is required before unsupervised learner-facing use, supporting the case that grounding and quality control are themselves pedagogical interventions alongside reward design.
 
+- **A ceiling on what post-hoc training and prompting can fix.** [[educational-llm-alignment|Hardy and Kim (2026)]] find model and prompt choice account for only about 15% of the misalignment between LLMs and student learning gains — the rest shared across models — and benchmark-weighting and unanimous-voting ensembles worsened alignment, so pretraining data is the dominant lever.
+
 ### Sycophancy reduction as a training objective
 
 Because tutoring requires corrective friction — challenging a student's incorrect claim rather than affirming it — reducing [[ai-sycophancy|sycophancy]] is a core objective for pedagogical LLM training. [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] shows that models which resist context-switch attacks still capitulate under authority or social-[[affective-computing|affective]] pressure, withholding corrective feedback; its authors argue "kind-but-correct" behavior should be an explicit training requirement, not a [[usability-research|usability]] preference. Training that rewards guiding over answering (as in EduQwen's DAPO reward model) is one structural lever against sycophantic answer-giving. Yet [[contextual-sycophancy-ai-literacy|contextual sycophancy]] persists even after prompting/alignment training — learners' errors still propagate into AI advice — so sycophancy mitigation in trained tutors must combine reward design, alignment against sycophancy benchmarks, and system-level safeguards rather than rely on any single stage.
@@ -145,11 +147,9 @@ Because tutoring requires corrective friction — challenging a student's incorr
 ## Connected Articles
 
 - [[zerkouk-comprehensive-review-its-2025]]
-- [[civic-education-ai-lesson-plans]]
 - [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]]
 - [[contextual-sycophancy-ai-literacy]]
 - [[educational-llm-alignment]]
-- [[eduguard-safe-rag-llm-tutor]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[llm-tts-dialogue-lesson-generation]]
 - [[multimodal-learning-genai]]

@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-19T06:35:00-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -58,6 +58,8 @@ Inclusive learning sits at the intersection of [[equity-in-ai-education]], [[lea
 **AI for dyslexia: detection, support, and [[personalized-learning|personalized learning]].** A 2026 interdisciplinary [[meta-analysis-systematic-review|systematic review]] (Dabaghi, D'Urso & Sciarrone, PRISMA-guided, 2018–2024, n=72) finds AI supporting students with dyslexia across detection, assistive support, and personalized learning — but with these strands evolving in parallel rather than in integration, driven more by technological opportunity than by consolidated educational theory. ML-based help-education tools span five areas (specific applications, engagement, personalization, recommendation, generic support) yet emphasize technical performance and classification accuracy while overlooking ecological validity and practical classroom deployment. Detection research (EEG, eye-tracking, ML models) shows diagnostic promise for early intervention but often requires specialized equipment and controlled environments, limiting scalability and accessibility in typical school settings. Open challenges include limited experimental validation, scalability, [[ethics]]/privacy concerns with sensitive student data, limited [[teacher-role|teacher]] support and training, and language/cultural barriers (most research targets English-speaking populations) — underscoring that inclusive learning must pair technical capability with validated, scalable, and ethically grounded deployment.
 
 **Disability-centered AI critique** examines how AI systems can marginalize rather than include. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** argues that [[generative-ai|generative AI]] systems in higher education actively marginalize disability-centered ways of knowing due to Anglophone, Western-centric training data — connecting to [[equity-in-ai-education]] concerns about epistemic justice.
+
+**Formal diagnosis gatekeeping excludes the learners a tool claims to serve.** In [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al.'s (2026)]] scoping review of 40 studies of digital assistive technologies for neurodivergent students, 28 made a formal diagnosis a condition of participation and only three treated the environment rather than the student.
 
 **Accessible tools in practice** shows how AI can expand participation. **[[suacode-african-students-motivations|SuaCode]]** demonstrated that smartphone-based coding courses reach students in low-resource African contexts where fewer than 1% have coding skills. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** worked with blind and low-vision musicians to develop non-visual learning strategies, centering disability-led [[embodied-learning|embodied]] design. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** provides a no-cost, private, multilingual AI thought partner connecting educators with UDL principles. **[[special-r1-rl-special-education|Special-R1]]** extends [[reinforcement-learning|reinforcement learning]] to model cognitive and communicative diversity across disability profiles.
 
@@ -116,9 +118,7 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 - [[suacode-african-students-motivations]]
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[special-r1-rl-special-education]]
-- [[bilingual-llm-lecture-companion-srl-2026]]
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education

@@ -2,7 +2,7 @@
 connected_resources: [openmaic]
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-23T12:14:06-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -27,7 +27,12 @@ Simulation sits at the core of [[experiential-learning|experiential]] and [[acti
 ### AI and simulation
 
 - **AI-powered environments:** adaptive simulations adjust difficulty and scenarios to a learner's state, linking to [[adaptive-learning]] and [[reinforcement-learning]]-based coaching.
+
+- **Prompt-generated simulations put a bespoke lab within reach.** Instructors can generate browser-run models of the topic a course needs from a reusable prompt template (sliders, animation, time-dependent graphs), validating each twice - technically, then against the known analytical solution - instead of accepting the closest published simulation ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion et al., 2025]]).
+
+- **Automating the human counterpart.** [[astra-atco-training-simulator|Chew et al. (2026)]] replace the specialist human role-players who staff air-traffic-control simulations with autonomous [[llm|LLM]] sim-pilots, removing a training-capacity bottleneck; their fine-tuned speech pipeline cut word error rate on Singaporean-accented aviation speech from 107.80% to 23.45%, though all evaluations were component-level with no trainee cohort run.
 - **Simulated agents:** AI can simulate patients (for medical training), students (for [[teacher-role|teacher]] practice), or conversation partners, making high-stakes interpersonal practice accessible and repeatable. In [[teacher-education|teacher education]], [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang and Zhang (2025)]] built *Student GPT*, a custom ChatGPT [[conversational-ai|chatbot]] that role-played a [[k-12|middle school]] student holding common ratio-reasoning [[misconceptions]], giving preservice [[math-education|mathematics]] teachers affordable, content-specific practice at diagnosing student thinking — and used an [[affective-computing|Affective]], Communicative, Technical (ACT) coding framework to systematically assess the simulated student's role-play strengths (clarity, relevance, error consistency) and authenticity weaknesses (teacher-like tone, role confusion).
+- **Grounded dynamics, not a prompted persona.** [[adaptive-virtual-patient-psychotherapy-training|Chen et al. (2026)]] parameterized a virtual patient's disclosure dynamics from nearly 2,000 hours of real psychotherapy transcripts, then updated the level each turn; across 1,033 turns with 20 clinicians its disclosure rose with therapist empathy and exploration while a prompt-only baseline on the same LLM stayed flat.
 - **Role-play puts the learner in the part.** Where simulated agents supply the counterpart, role-play gives the learner that part instead. [[remind-robot-mediated-roleplay-antibullying-2026|Sanoubari and colleagues (2026)]] had 18 children aged 9-10 watch a bullying scene enacted by social robots, reason about each character's position, then rehearse defending by puppeteering a robotic avatar, and reported gains in perceived [[self-efficacy]] for defending plus better-calibrated beliefs about whether confronting a bully actually stops it. Their framing, robot-mediated applied drama, keeps a human facilitator in the Forum Theatre role and confines automation to narrative control, which is a useful reminder that the demanding part of role-play is the reflection rather than the machinery. [[lock-integrating-ai-online-learning-higher-ed-2025|Lock, Arteaga and Johnson (2025)]] place role-play alongside simulation among the strategies that AI-supported online learning draws on.
 
 - **Simulated learners:** models of student behavior let [[research-methods-aied|researchers]] and designers test tutoring systems and [[curriculum-design|curriculum]] before live deployment, grounding [[student-modeling]] and [[knowledge-tracing]].
@@ -60,7 +65,6 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[learner-agency-ai-simulation-2026]] — Parameter control and an optional AI agent in a complex-systems simulation: gains tracked enactment, not access
 - [[benzion-ai-physics-simulations-virtual-lab]]
 - [[genai-simulate-patient-history-pbl-2026]]
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review (simulation, assessment)
 - [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive Virtual Patients for Psychotherapy Training
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
@@ -71,10 +75,6 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
 - [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
-- [[educasim-cs1-instructional-practice]] — EducaSim: simulated small-group section for teacher practice
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)

@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -33,6 +33,8 @@ Writing is not merely output but a cognitive, social, and rhetorical process. Th
 
 - **Automated essay scoring:** [[automated-essay-scoring]] systems like [[choi-anchor-aes-prompting-2025|anchor-based AES]] and [[aiawe-automated-writing-evaluation|AIAWE]] evaluate student writing at scale, raising questions about [[assessment-validity|construct validity]] and the reduction of writing to measurable features. For short argumentative writing (about 150–200 words) in Spanish, AI scoring agreement varies sharply by rubric dimension ([[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al., 2026]]): structure- and register-oriented items — introduction, conclusion, register, nominal agreement, subject–verb agreement — reached moderate chance-corrected agreement with human raters in the 2025 edition, while micro-level linguistic items (vocabulary, syntax, punctuation, connectors, argumentation) stayed in the fair-to-slight range. This suggests LLM assistance is most defensible for macro-level discourse features, and that low-level language conventions should keep deterministic tooling or [[human-in-the-loop-ai|human review]].
 
+Agreement is a property of the corpus, not the scorer: [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]] scored 60 student marketing posts with deterministic rules, an [[llm|LLM]] and an equal-weight hybrid — the LLM led at ICC(2,1) = .435 while the hybrid's .266 retained the rules' negative bias — and adding 15 low-quality anchors lifted the LLM to .846.
+
 - **Writing feedback:** [[ai-feedback-quality|AI feedback quality]] research ([[genai-teacher-feedback-comparison|GenAI vs. teacher feedback]], [[care-full-feedback-genai|care-full feedback]], [[repeated-ai-writing-feedback-semester|repeated AI feedback]]) examines whether AI feedback improves writing and how it compares to human feedback. The PAIRR model ([[pairr-ai-peer-review-2025|Peer and AI Review + Reflection]]) combines AI with [[peer-assessment]] and finds AI feedback is most useful in a human-centered process. An 8-week quasi-experiment with 61 Chinese L2 writers ([[teacher-vs-ai-peer-feedback-l2-writing-2026|Tang et al., 2026]]) gives that human-centered claim a concrete shape: teacher feedback delivered far more items (316 versus 185 in the first task) and re-prioritized toward organization and argumentation, but its posted-revision advantage gave way from 4.06 to 2.73 points once a second task demanded structural change, while [[peer-assessment|AI-assisted peer feedback]] held a narrower, steadier focus and edged ahead (3.89 points, with a task-2 revision mean of 89.82 against the control's 88.35 — a small difference that did not reach significance). Neither mode moved syntactic complexity, so the authors argue for a hybrid "AI-Peer-Teacher" division of labor: AI for error marking and content guidance, peers for negotiating revisions, teachers for complex syntax and argumentation.
 - **AI feedback does not adapt to writing stages the way teachers do.** [[llm-feedback-focus-adaptivity-student-writing-2026|Almousa et al. (2026)]] found the teacher changed significantly on five feedback focus types between draft stages — Praise rising from 26.9% initially to 84.9% in final drafts — while the closest model moved on three types and the smallest on none, and no model reproduced the teacher's differentiation of higher- and lower-performing students.
 
@@ -47,6 +49,7 @@ Writing is not merely output but a cognitive, social, and rhetorical process. Th
 - **Bias in personalized feedback (Marked Pedagogies):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] show that [[llm]] writing-feedback tools are not language-neutral: personalizing feedback with a student's race, ethnicity, ELL designation, learning disability, achievement, or motivation systematically shifts feedback in stereotype-aligned ways — including positive feedback bias and feedback withholding bias (overuse of praise, less substantive critique, assumptions of limited ability) for students marked by race, language, or disability, even when the essay is identical. This makes "[[personalized-learning|personalization]]" itself a bias vector that writing-feedback tools must audit and control.
 
 - **Academic integrity:** Survey evidence complicates the policing frame directly: among 504 sociology students ([[student-genai-use-views-writing|Kuznetsov et al., 2026]]), 65 percent had used GenAI for coursework but only 3 percent to generate assignment text and 2 percent to produce a full draft, while fear of an academic offense was the second most common concern (28 percent) and roughly a quarter reported no guidance at all (19 percent) or guidance they found unclear. On this evidence the writing-education problem is ambiguity about permitted use, not widespread text generation. [[nash-preservice-teachers-classroom-ai-policies-2026|Nash and Burriss (2026)]] show how such ambiguity is produced at the classroom level. Coding 27 [[teacher-education|preservice]] English language arts teachers' own classroom [[educational-policy-ai|AI policies]], they found that 26 of 27 permitted some [[generative-ai|generative AI]] use but overwhelmingly on teacher-specified terms, with 22 of 27 allowing AI for ideation and brainstorming while disallowing AI composition of sentences, paragraphs or papers. Limits were rarely operationalized — one participant allowed AI "to get your thinking started" and declared "this is where the line should be drawn" without saying where — and many policies simultaneously prohibited submitting AI text and held students responsible for the AI text they submitted, a contradiction that leaves students unable to comply. Twenty-two of the 27 policies were silent on reading altogether, ceding AI-supported comprehension work to no guidance at all.
+- **Compliance can mask absent inquiry (academic erasure).** From 49 educator accounts, [[academic-erasure-complexity-ai-writing-2026|Nwagboso & Atuba (2026)]] name *academic erasure* — fluency that satisfies every surface criterion while bypassing the epistemic labor of argument — and trace its driver to assessment culture, where rubrics rewarding polish make AI use the rational response rather than misconduct.
 
 ### Writing as thinking
 
@@ -96,6 +99,8 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 
 - **Address academic integrity constructively.** Move from policing AI use toward building [[ai-literacy]] and ethical-use framing that lets students use AI without unintentional misconduct.
 
+- **Detection is not an integrity strategy for writing.** [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] argue detector scores cannot meet the balance-of-probabilities standard integrity cases require and that the human-or-AI dichotomy misreads work created *with* rather than *by* AI, recommending institutions move budget from detection and surveillance toward [[authentic-assessment|assessment design]] and [[ai-literacy]].
+
 ## Connected Concepts
 
 - [[automated-essay-scoring]]
@@ -125,7 +130,6 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-- [[benali-genai-academic-writing-2026]]
 - [[coach-not-crutch-ai-writing]] — AI writing tools can improve writing skill despite reducing effort (Lira et al. 2025)
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
@@ -140,7 +144,6 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[self-referential-l2-writing-llm-assessment]] — Self-Referential L2 Writing Assessment
 - [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback
-- [[elementary-writing-genai-systematic-review-2026]] — Rethinking Elementary Writing Instruction
 - [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Narrative Drafting Scaffolding
 - [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: linguistic biases in personalized automated writing feedback

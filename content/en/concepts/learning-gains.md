@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-28T03:40:56-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -53,6 +53,8 @@ Across the knowledge base's [[rct|RCTs]], [[meta-analysis-systematic-review|meta
 - **Unguarded AI can harm learning.** The guardrail RCT ([[generative-ai-guardrails-harm-learning|PNAS 2025]]) found an unguarded ChatGPT-style tutor raised assisted practice +48% but *reduced* unassisted exam scores −17%, while a guardrailed (hint-not-answer) tutor eliminated the harm. This is the sharpest demonstration that **learning efficacy is design-contingent**: the same class of tool can be a strong learning gain or a net harm depending on how it is configured.
 - **Perceived vs. actual efficacy diverge.** [[ai-literacy-assessment-misalignment|Self-reported performance misaligns with measured performance]], and [[absent-cognitive-baseline-2026|the absent cognitive baseline]] shows AI-native students overestimate their learning — so efficacy claims based on self-report are unreliable without objective outcome measures. [[self-report-measures]] collects the cases where reported and measured outcomes come apart.
 
+- **Gains can come from reallocating teacher time, not from AI grading.** In a randomized experiment across 178 Brazilian schools (~19,000 seniors), AI and human essay grading produced identical exam gains, but AI classrooms saw ~35% more one-on-one teacher conversations about writing, and the bottom quartile improved under neither condition ([[ai-changing-teaching-workflows|Ler, 2026]]).
+
 **Takeaway:** the weight of evidence supports **modest, conditional, and design-dependent learning gains** from AI — real when AI is structured to coach rather than answer, guardrailed, and paired with unassisted outcome measures, and absent or negative when it substitutes for the learner's own effort. This is why learning gains as an outcome must be measured with valid, AI-resistant instruments and why [[ai-ed-evaluation]] pairs efficacy claims with [[research-methods-aied|methodological]] scrutiny.
 
 
@@ -84,6 +86,7 @@ The knowledge base's corpus — meta-analyses, RCTs, quasi-experiments, and fiel
 - **Design is decisive.** The same tool class can be a strong gain or a net harm depending on configuration ([[generative-ai-guardrails-harm-learning]], [[stanford-evidence-base-ai-k12-2026]]).
 - **How AI is used matters more than whether.** [[jost-llm-programming-education-learning-outcomes|Use for explanations was benign; use for code generation was harmful]]; [[genai-over-reliance-learning-2026|over-reliance]] erodes gains.
 - **Duration and self-[[regulation]] moderate effects.** [[zhao-genai-higher-order-thinking-meta-2026|Effects were strongest at 8–16 weeks]] and for learners with higher [[self-regulated-learning]].
+- **Computational-thinking level moderates AI-assisted gains.** In a four-week eighth-grade AI coding-assistant course, high-CT students outscored low-CT peers on the post-test (72.54 vs 61.73, p = .031) despite comparable prior coding knowledge, using the assistant to understand code while low-CT students retrieved answers ([[computational-thinking-aica-2026|Zhao et al. (2026)]]).
 - **AI-IBL supports creativity but not necessarily problem-solving.** [[mujib-ai-ibl-creative-math-2026|Mujib et al.]] improved creative performance and attitudes but not critical problem-solving.
 - **[[student-experience|Student experience]] diverges from measured gains.** [[absent-cognitive-baseline-2026|AI-native students overestimate their learning]], and [[ai-literacy-assessment-misalignment|self-report misaligns with performance]] — perceptions of gains are not reliable evidence of them.
 
@@ -140,7 +143,6 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 - [[genai-educational-outcomes-meta-analysis]]
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Immediate performance vs durable learning distinction
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
-- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[ai-assisted-collaborative-learning-model-dbr]] — AI-Assisted Collaborative Learning model DBR (critical thinking +24.1%, problem-solving gains)
 - [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs general AI
 - [[jost-llm-programming-education-learning-outcomes]] — LLM reliance and grades in coding (negative correlations)
@@ -155,7 +157,6 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis: adaptive/AI EdTech raises learning ~0.125 sd
 - [[gpt4-feedback-student-activation-2026]]
 - [[rachatasumrit-example-problem-ratio-2026]]

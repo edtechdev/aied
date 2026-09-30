@@ -1,7 +1,7 @@
 ---
 title: Educational NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
@@ -29,6 +29,8 @@ Natural language processing in education applies computational methods to the la
 - **Analysis of student language.** [[llm-sentiment-analysis-education-research]] applies LLM-based sentiment analysis to educational research, extracting emotional and evaluative signals from student text at scale, feeding [[learning-analytics]] and [[affective-computing]].
 - **Prediction and measurement.** [[llm-item-difficulty-prediction]] and [[vocabulary-difficulty-prediction]] use language models to estimate item and text difficulty — core inputs to [[educational-measurement]], [[adaptive-learning]], and [[item-response-theory]] models.
 - **Readability and [[curriculum-design|curriculum]] alignment.** Bird (2026) fuses transformer text classification with computational-linguistics features to classify English literature by UK Key Stage, reaching an F1 of 0.996 — a data-driven complement to [[vocabulary-difficulty-prediction]] and [[llm-item-difficulty-prediction]] for [[educational-measurement]] and reading-level alignment.
+
+- **Discourse-level classification localizes what surface features miss.** A BERT model fine-tuned on only its last four transformer layers classifies adjacent sentence pairs as causal, contrastive, progressive or incoherent and emits the breakpoint as a diagnostic, reaching a mean F1 of at least 0.891 on 28,736 sentence pairs ([[bert-discourse-english-teaching-2026|Wang et al., 2026]]).
 - **Feedback and classification.** [[teaching-feedback-classification-benchmark]] provides a [[benchmark]] for classifying teaching feedback, advancing [[feedback|Feedback Loop]] research and [[pedagogical-llm-training]].
 - **Scaling NLP on evaluation comments without reaching use.** A PRISMA-ScR scoping review and evidence map of 421 studies applying NLP to open-ended student evaluation of teaching (2015–2026) finds sentiment analysis still the modal task (300/421, 71.3%) and a 49.7-point actionability discontinuity: 258 studies (61.3%) demonstrated a usable output but only 49 (11.6%) reached evaluation by an intended user, with a formal fairness metric in just 8 studies (1.9%) and external validation in 33 (7.8%) ([[nlp-student-evaluation-teaching-scoping-review-2026|Eicher & da Silva (2026)]]).
 - **Short-answer assessment in science.** Morley et al.'s [[meta-analysis-systematic-review|scoping review]] of transformer-based auto-marking of short-answer science questions (2017–early 2024) shows BERT-family models became the field's dominant workhorse for [[automated-assessment|free-text marking]] before larger [[llm|LLMs]] were adopted via [[prompt-engineering|prompting]], and that models augmented with domain knowledge — extra pre-training, rubric or textbook data, meta-learning — consistently outperformed those without ([[auto-marking-short-answer-science-2026]]).
@@ -64,10 +66,8 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[ai-generated-interactive-fiction-education-2026]]
 - [[zerkouk-comprehensive-review-its-2025]]
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: IR-based evaluation of math diagrams
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
 - [[auto-marking-short-answer-science-2026]]
 - [[pecuchova-automated-grading-open-ended-genai-2026]]
 - [[llm-automated-coding-teacher-pck-2026]] — Multi-agent LLM (GradeOpt) codes teachers' content and pedagogical content knowledge; classical encoders and naive prompting fall short on PCK

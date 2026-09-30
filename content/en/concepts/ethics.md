@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -47,6 +47,7 @@ Ethical AI use is not only a matter of principles but of how the people involved
 The knowledge base's research increasingly locates ethics in institutions and structures, not just individuals:
 
 - **The institutional responsibility gap.** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]] call for faculty [[educational-development|professional development]], ethics courses, and clear institutional guidelines; [[fekete-ethical-ai-literacy-gaps-2026|Fekete]] similarly finds that institutional support drives instructor readiness while students rely on informal, [[self-directed-learning|self-directed learning]] — a responsibility gap for [[educational-policy-ai|policy]].
+- **Ethics training moves awareness, but policy gaps complicate compliance.** An eight-week GenAI professional-development program with 97 educators raised ethical-awareness scores from 3.21 to 4.05 (Cohen's d = 0.93) and policy familiarity from 27% to 79%, yet the hardest barrier participants named was reconciling institutional policy gaps with their ethical values ([[alharbi-ethical-genai-eap-2026|Alharbi et al. (2026)]]).
 - **Policy robustness varies.** [[adarkwah-genai-unesco-policy-2026|Adarkwah et al. (2026)]], analyzing [[generative-ai|GenAI]] policies at 30 top universities against UNESCO's eight-component framework, found core ethical principles widely embraced but [[inclusive-learning|inclusion]], equity, and [[sustainability]] often neglected — and national AI-readiness ranking did not predict strong institutional policy. Policies tend to be declarative and misconduct-focused rather than operationally assured.
 - **Ethics & data governance as an enabler.** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify ethics & data governance as one of seven enablers of trustworthy [[learning-analytics]]-based interventions — positioning [[trust|trustworthiness]] (ethical compliance, data security, transparent algorithms, pedagogical validity) as the prerequisite without which data-informed educational change is not meaningful.
 - **A [[meta-analysis-systematic-review|systematic review]] of [[engineering-education|engineering education]]** finds ethical AI guidance is predominantly student-facing and compliance-oriented (centered on [[academic-integrity]] and disclosure), while reciprocal accountability for faculty AI use and institutional responsibility remain underdeveloped — a pattern heightened by engineering's professional stakes in public safety and [[well-being]]. ([[ethical-use-ai-engineering-education-review-2026]])
@@ -115,11 +116,9 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[luo-eaton-ai-student-feedback-ethics-2026]] — Is it ethical for teachers to use AI for student feedback?
 - [[fekete-ethical-ai-literacy-gaps-2026]] — Bridging ethical AI literacy gaps across students, educators, and policy
 - [[alharbi-ethical-genai-eap-2026]] — Ethical generative AI integration in English for Academic Purposes
-- [[ai-tools-academic-work-cheating-2026]] — Is using AI tools for academic work cheating? Student perceptions and ethics
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research

@@ -1,7 +1,7 @@
 ---
 title: Meta-Analysis and Systematic Review
 created: "2026-08-14T05:24:40-04:00"
-updated: "2026-09-30T07:37:28-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
@@ -52,6 +52,8 @@ Systematic reviews and meta-analyses in AI in education serve several distinct p
 ### Examples from the knowledge base
 
 - **[[genai-meta-analysis-programming-learning|Meta-analysis of GenAI and programming]]** — pools evidence on the productivity-learning trade-off, finding significant productivity gains but no significant learning gain (g ≈ 0), illustrating meta-analysis's ability to separate short-term efficiency from durable learning.([[genai-meta-analysis-programming-learning]])
+
+- **[[edurev-100741-tpack-genai-review|Meta-analysis of GenAI in student learning from a TPACK lens]]** — pools 71 studies (74 effect sizes) to a medium-to-large effect (g = 0.752) that decomposes unevenly: strong cognitive (g = 0.831) and affective (g = 0.729) gains but a small, non-significant behavioral-engagement effect (SMD = 0.057, p = 0.828) (Liu & Zhong, 2025).
 - **[[ai-vocational-education-training-review|Systematic review of AI in VET]]** — first systematic review of 26 studies, documenting the [[constructivist]]-in-name, behaviorist-in-practice gap and the absence of workplace studies.([[ai-vocational-education-training-review]])
 
 - **[[genai-higher-education-systematic-review-2026|Systematic review of GenAI in higher education]]** — maps opportunities, challenges, and [[pedagogy|pedagogical]] innovations across a five-year window.
@@ -145,7 +147,6 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 - [[nguyen-genai-global-south-review-2026]]
 - [[espino-ai-business-education-review-2026]]
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review
 - [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
 - [[ai-vocational-education-training-review]] — First systematic review of AI in vocational education and training
@@ -158,13 +159,11 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
 - [[genai-writing-performance-meta-analysis-2026]] — Meta-analysis of GenAI-supported L2 writing: a large pooled effect undermined by extreme heterogeneity and a quality-driven moderator
 - [[ai-literacy-heptagon-2026]] — Integrative literature review of AI literacy dimensions (PRISMA-guided)
-- [[ai-metacognition-stem-review]] — Systematic review of AI and metacognition in STEM
 - [[llm-intervention-design-cs-review]] — Review informing LLM intervention design in CS
 - [[human-autonomy-agency-hri-review-2025]] — Review of human autonomy and agency in human-robot interaction
 - [[rail-ed-genai-literacy-teacher-education]] — Review of GenAI literacy in teacher education
 - [[student-llm-interaction-taxonomy-review-2026]]
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI (Daniel et al. 2026)
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping review classifying 22 AI-integration studies with FACETS + SAMR; most sit at Substitution/Augmentation

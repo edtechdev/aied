@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-09-21T13:00:10-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -79,7 +79,6 @@ Educative levers look different again once integrity is treated as a practice to
 
 ## Connected Articles
 - [[ivory-psychology-assessment-integrity-2026]] — Version-control evidence trails and reproducible analysis documents as misuse deterrents (Ivory et al. 2026)
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: placement rule for AI use (Brcic & Frljic 2026)
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
 - [[ai-assessment-scale-reform]] — The AI Assessment Scale and Assessment Reform
@@ -87,7 +86,6 @@ Educative levers look different again once integrity is treated as a practice to
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning (K-12 AI Literacy Module)
 - [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: GenAI Declaration Frameworks
 - [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline
-- [[ai-availability-student-motivation]] — AI Availability and Student Motivation
 - [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
 - [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time

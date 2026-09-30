@@ -1,7 +1,7 @@
 ---
 title: "Pedagogical Partnerships"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-09-22T09:52:55-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -60,6 +60,7 @@ These strands share a core claim: that the people who will live with [[ai-educat
 Pedagogical partnership is related to but distinct from several neighboring concepts:
 
 - **[[agency|Learner agency]] and [[self-directed-learning]]:** Partnership supports learner agency by giving students a voice in what and how they learn, and it overlaps with self-directed learning. However, partnership is fundamentally *relational* — agency and direction emerge through the instructor–student relationship rather than in isolation. Some frameworks conceptualize this as "shared agency" that exists in the relationship between student and instructor, not within either party alone.
+ Anastasia (2026) names the eight conditions such a partnership requires — instructor presence, trust, psychological safety, dialogue, voice and choice, meaningful feedback, reflection, and shared responsibility — and argues that choice alone does not create autonomy: students may be handed options while lacking the information, confidence, or psychological safety to exercise them ([[anastasia-shared-agency-partnership-framework-2026|Anastasia (2026)]]).
 - **[[collaborative-learning]]:** Both involve working together, but collaborative learning typically refers to students learning *with each other* within a designed activity, whereas pedagogical partnership centers students and staff collaborating on the *design* of education itself.
 - **[[student-engagement]]:** Partnership is a deep form of engagement, but engagement describes a student's involvement in learning while partnership describes a changed power relationship in which students share responsibility for shaping that learning.
 - **[[teacher-role]]:** Partnership redefines the teacher's role from sole authority and gatekeeper of knowledge to co-designer and intellectual guide, without diminishing faculty expertise.

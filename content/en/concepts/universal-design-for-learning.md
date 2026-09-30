@@ -1,7 +1,7 @@
 ---
 title: Universal Design for Learning
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-21T09:28:29-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -69,6 +69,8 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 - Deploy AI to close performance gaps (e.g., AI-segmented videos with pauses helped ADHD learners) and to lower the cost of accessible formats.
 - Guard against AI that assumes one communication style or penalizes neurodivergent expression — connect to [[accessibility]], [[equity-in-ai-education]], and [[neurodiversity]].
 
+- **Target functional barriers, not diagnoses.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] found the 40-study corpus of assistive technologies for neurodivergent students organized around accommodation and diagnosis-gated tools, and argue that designing to the cross-cutting barriers students actually face is what makes a tool plausibly universal.
+
 ## Connected Concepts
 
 - [[inclusive-learning]]
@@ -95,6 +97,5 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 - [[neurodivergent-computing-students]] — Neurodivergent Computing Students
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
-- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
 - [[faculty-accessible-course-design-ai-2026]] — “AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world

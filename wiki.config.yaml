@@ -102,6 +102,10 @@ build:
     # Article page shape: the practice and Limitations sections, their bullet counts
     # (practice 3-5, Limitations 2-4) and the section order, on the pages touched here.
     - python3 tooling/scripts/audit-article-sections.py --changed
+    # A citation that begins with the year or the title names no author, so the study cannot
+    # be attributed in a concept weave and the line cannot be checked against the source.
+    # 37 article pages had accumulated that way; the shape is checked from now on.
+    - python3 tooling/scripts/check-citation-attribution.py --changed
     # AI-use / provenance fields: valid values everywhere, and present on pages
     # created on or after the date the per-page fields were introduced (see AI-USE.md).
     - python3 tooling/scripts/check-ai-disclosure.py

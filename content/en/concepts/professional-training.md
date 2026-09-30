@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -28,6 +28,8 @@ reviewed_by: [editor]
 ### AI in professional training
 
 - **Simulation and practice:** [[adaptive-virtual-patient-psychotherapy-training|Virtual patient training]] and [[astra-atco-training-simulator|ATCO training simulators]] create AI-powered professional practice environments. In [[teacher-education|teacher education]], AI role-play simulation extends this into practice-based teaching: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Student GPT]] simulated a [[misconceptions|misconception]]-holding middle-school math student so preservice teachers could practice diagnosing and remediating student errors, aligning with the "approximations of practice" of practice-based [[teacher-role|teacher]] learning as an affordable complement to costly platforms like TeachLivE.
+
+[[ai-coaching-rl-skill-development|Wang et al. (2026)]] add a coaching-policy lesson: fading assistance against the learner's estimated competence cut simulator lap time 27.9% (p = 0.005) and failures by 3.52 per lap, whereas rule-based fading on a fixed schedule produced no reliable lap-time change.
 - **Lifelong learning integration:** [[lifelong-learning]] and [[adult-learning]] [[research-methods-aied|research]] connect professional training to continuous education.
 - **Public sector:** [[ai-adoption-training-public-sector|Public sector AI adoption]] examines training in government contexts.
 - **Workforce readiness frameworks:** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] propose a Workforce Readiness Level (WRL) framework that adapts the Technology Readiness Level scale into nine competency stages scored across four pillars (digital/[[ai-literacy|AI literacy]], cyber-physical fluency, [[human-ai-collaboration|human-machine collaboration]], data-driven decision making), under a "no-thin-pillar" rule. Evidence from smart-manufacturing capstones shows the highest readiness stages are gated by industry-embedded experience rather than coursework — pointing to work-integrated learning as essential to professional AI training.
@@ -60,6 +62,7 @@ reviewed_by: [editor]
 Professional training differs from academic education in its focus on applied skills, immediate workplace relevance, and adult learner characteristics. [[adult-learning]] theory and [[adult-learning]] principles inform professional AI training design. Its other boundary is [[vocational-education|vocational education and training]]: VET admits people who do not yet hold the occupation and closes with a trade or technical qualification, so it carries initial occupational preparation and the qualification frameworks that certify it, whereas professional training starts from an existing role — reskilling, continuing professional education or vendor certification — and assumes the competence VET awards.
 
 **Expertise regeneration as a training concern.** The Cognitive Commons framework ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) argues that HRD must move beyond organizational reskilling to profession-level stewardship: eliminating entry-level developmental positions in AI-exposed sectors can deplete the shared expertise pool on which all organizations depend, with a time-delayed effect that appears only after 5–20 years. This reframes professional training from individual competency development to collective commons maintenance.
+**Pair AI production with verification, and seek outside measures.** [[crewscaler-ai-upskilling-framework|Nguyen et al. (2026)]] put automated hallucination checks and an SME audit between drafting and delivery across a five-stage upskilling pipeline, and rest the framework's strongest claims on a NASBA CPE accreditation and a vendor certification exam rather than self-defined success measures.
 
 ## Connected Concepts
 - [[lifelong-learning]]
@@ -78,15 +81,12 @@ Professional training differs from academic education in its focus on applied sk
 ## Connected Articles
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
-- [[cdpk-pedagogy-benchmark-llms]] — LLM pedagogical-knowledge benchmark (CDPK + SEND)
-- [[ai-interior-design-malaysia-2026]]
 - [[crewscaler-ai-upskilling-framework]]
 - [[ai-coaching-rl-skill-development]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[astra-atco-training-simulator]]
 - [[ai-adoption-training-public-sector]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
-- [[cyberagents-gamified-cybersecurity-learning-2026]]
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — HiBob AI Skills Framework validated with instructors and employers

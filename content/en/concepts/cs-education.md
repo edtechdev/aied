@@ -2,7 +2,7 @@
 connected_resources: [liascript]
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -39,6 +39,7 @@ reviewed_by: [editor]
 - **Model-generated strategic misconceptions:** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] built SocraticTrap-CS around 35 concepts from the ACM/IEEE CS2023 curriculum — algorithms, programming languages, databases, networks and operating systems — and asked seven open-weight models for a fluent, authoritative explanation resting on a subtle error. Six of the seven produced an expert-confirmed strategic misconception for 91% or more of prompted concepts (221 of 241 segments, 91.7%), with no significant differences between CS domains; conceptual errors dominated (66.5% conceptual vs. 33.5% factual, and none purely logical), and both persuasiveness and error type varied by domain. The authors therefore recommend domain-sensitive countermeasures — reasoning-focused checks in programming-heavy courses, cross-referencing against protocol specifications in networking — and evaluation of [[automated-question-generation]] and AI-authored explanations on pedagogical [[trust|trustworthiness]] rather than correctness alone.
 - **[[authentic-assessment]] performance:** [[genai-oop-programming-assessments-2026|Lepp & Kaimre (2026)]] show 2026 [[generative-ai|GenAI]] systems outscore the average student cohort on authentic introductory OOP [[assessment|assessments]] and frequently earn full marks on longer programming tasks, yet still struggle with interfaces, abstract classes, inheritance, and image-based questions — recurring error patterns instructors can exploit when designing assessments.
 - **Predictive modeling for at-risk support:** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] show that intrinsically interpretable decision trees trained on content-interaction log features accurately predict module-level progress in large-scale online programming courses (85–91% accuracy across four K-12 courses) and flag "No submission" dropout outcomes, giving educators a 7–8 day window to [[teacher-role|intervene]] with struggling and disengaged [[learners]] before module deadlines — complementing the automated-grading and attrition-prediction work above.
+- **Retrieval-augmented support for theoretical CS fits asynchronous study only.** AlgoRAG answered all 179 instructor-authored exam questions within a 240-second timeout at a mean 38.0 seconds each, and its BLEU-4 of 0.0000 across the set is a property of n-gram matching on mathematical proofs rather than a system failure ([[algorag-rag-theoretical-cs-education-2026|Adhikari (2026)]]).
 
 ### Programming pedagogy: from blocks to embodied, game-based learning
 
@@ -100,6 +101,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 ## Implications for computing instructors
 
 - **Design assessments AI cannot coast through.** Exploit GenAI's recurring failure patterns (interfaces, abstract classes, inheritance, image-based tasks) instead of banning tools outright — [[genai-oop-programming-assessments-2026|GenAI systems still struggle there]].
+- **Autogradable take-home assignments offered no completion resistance.** [[chatgpt-qiskit-homework-autogradable-2026|Kaltchenko & Tiwana (2026)]] ran 50 ChatGPT sessions per Qiskit assignment and all 150 artifacts executed and passed the grader, because personalization varied parameters rather than task structure; the remedy is direct assessment of understanding — supervised modification or oral defense.
 - **Calibrate trust, don't just build it.** [[trust-reliance-ai-education-2026|Trust-reliance research]] shows higher trust predicted *worse* discrimination of misleading AI suggestions; teach verification and critical evaluation, moderated by AI literacy and need for cognition.
 - **Keep debugging and [[desirable-difficulties|productive struggle]] alive.** Choose tools or deliberately fallible agents ([[chatgpt-teachable-agent-programming-lbt-2024|learning-by-teaching]]) that preserve error-correction practice, and personalize AI-generated media to avoid expertise-reversal effects ([[ai-generated-traces-novice-programmers|expertise-reversal]]).
 - **Govern AI assistance explicitly.** Define policy, enforcement, and authority for LLM support ([[llm-programming-support-governance-cs-education|PEA]]) rather than leaving boundaries implicit.
@@ -172,7 +174,6 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
-- [[astor-computational-thinking-meta-review-2026]] — Meta-review situating CT in CS education
 - [[soft-barriers-copying-ai-programming-2026]] — Copy-paste resistance in AI-assisted programming
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
 - [[zhang-ml-student-progress-programming-2026]]

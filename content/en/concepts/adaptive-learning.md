@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -34,6 +34,8 @@ reviewed_by: [editor]
 
 The knowledge base documents mixed evidence: adaptive systems improve outcomes when adaptation is grounded in reliable [[student-modeling|student models]], but poorly-calibrated adaptation can harm learning. [[personalized-learning|Personalization research]] distinguishes effective adaptation from superficial customization. [[khalifeh-redefining-personalized-learning-ai-2026|Systematic reviews]] find that "adaptive," "personalized," "individualized," and "customized" learning are used inconsistently — so effect sizes depend heavily on how adaptation is operationalized, and the field calls for a unified framework.
 
+A PRISMA 2020 review that screened 959 records down to 22 higher-education interventions counts adaptive pathways and recommender systems among the leading AI applications, but most studies improved existing practice rather than transforming it ([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh et al. (2026)]]).
+
 ### The AI era: LLM-based adaptation and its risks
 
 [[generative-ai|Generative AI]] has expanded what adaptive systems can do — conversational [[agentic-ai|agentic]] tutors, [[rag]]-grounded content, and [[llm]]-driven [[intelligent-tutoring|tutoring]] adapt not only problem difficulty but language and explanation style (e.g., [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutoring]]). However, LLM-based adaptation introduces new risks: without reliable [[student-modeling|student models]], adaptation may be based on shallow signals; over-adaptation can reduce the productive struggle students need (see [[desirable-difficulties]], [[cognitive-offloading]]); and the balance between personalizing and preserving learner [[agency]] is an open design question (see [[agentic-ai|agentic AI]]). A learner-requested variant of adaptation runs without any [[student-modeling|student model]] at all: in Sidorkin's (2026) graduate course the readings adjusted only when students asked follow-up questions to reframe, deepen, simplify or localize them, and comprehension-oriented requests reliably produced denser scaffolding (3.4x to 8.7x more definitional markers than baseline text), which is why requiring at least three follow-up questions per reading turned the material into an interaction. It also relocates the adaptive burden onto the learner: adaptation here happens only if the student knows what to ask for.
@@ -50,10 +52,17 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - **RL as an adaptation mechanism, empirically mapped.** [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]] synthesize 89 RL-in-education studies and find adaptation splits into content-related (instructional sequencing/content scheduling, n = 53) and guidance-related (hints, [[feedback]], activity selection, n = 36) mechanisms — with RL showing statistically significant superiority over baselines more often for guidance-related adaptation than for content scheduling. They recommend model-free RL for adaptive learning and caution that classical RL outperformed Deep RL in the reviewed studies.
 
 - **Correctness-based adaptivity can stop practice too early.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] found that adaptive systems inferring mastery from correctness risk terminating practice before learners encounter contexts where the learned action should be withheld — leaving deceptive overgeneralization undetected. They recommend including "do-not-act" detector tasks before mastery stopping rules trigger, so adaptation tests conditional understanding (knowing when to withhold an action), not only correctness.
+- **Adapt the *type* of cognitive engagement, not only the difficulty.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] found BKT and deep-RL policies assigning guided (active) or buggy (constructive) worked examples both beat random assignment in a 113-student logic tutor (posttest 72.3 and 72.5 vs 65.7), with BKT serving low prior-knowledge students best and DRL the high.
 
 - **Engagement profiles as adaptation targets.** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] traced 315 online learners building 822 models in VERA and classified their engagement into Observation, Construction, and Exploration profiles, finding that learners tend to progress from construction-focused behavior toward fuller, hypothesis-driven Exploration while Observation persists across phases. They argue adaptive and personalized design should recognize these profiles and target feedback (e.g., recommending similar models or supporting deeper conceptual understanding) to move surface-level observers toward more integrative, full-cycle modeling.
+- **A memory that is read but not written is not adaptation.** CoLearn's frozen-memory control served fixed items while still reading the learner profile, and the share of items aimed at a genuinely weak skill fell from 0.72 to 0.57, with final mastery error rising above the adaptive condition ([[colearn-agentic-tutor-co-learning-loop-2026|He et al. (2026)]]).
 
 - **The gain came from sequencing, not from a smarter tutor.** [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al. (2026)]] trained a personalized tutor with LLM-guided reinforcement learning and deployed it in a five-month Python course across ten Taipei [[k-12|high schools]], randomizing 770 students between adaptive and fixed easy-to-hard problem sequences. Adaptive sequencing raised the in-person, unassisted [[summative-assessment|final exam]] score by 0.156 SD (0.150 SD with controls) — while mediation analysis attributed the effect almost entirely to engagement (0.185 SD via time on task, 0.149 SD via attempts) rather than to easier or harder material, and gains were largest for beginners and lower-tier schools. The adaptive lever was the order of practice, not the quality of the chat.
+
+- **Keep mastery decisions rule-based and confine machine learning to monitoring.** An eight-week adaptive STEM program for 30 sixth-graders governed pathways by rule-based mastery while machine learning tracked performance, keeping adaptation auditable, but with no pretest and one classroom per condition, its gains are a pilot template to validate locally ([[bin-bakheet-adaptive-ai-stem-deep-learning-2026|Bin Bakheet et al., 2026]]).
+
+- **Adapt the bottleneck attribute, not the weak average.** Transition modeling of knowledge states ranked analytical thinking as the hardest to acquire and the easiest to lose — lowest forward transition probability 0.31 and highest backward 0.22-0.23 — making re-practice of the flagged attribute a sharper adaptation target than overall mastery ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng & Huang, 2026]]).
+- **Adaptation from process sequences, not aggregate scores.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]] derived scaffold rules by mining the *order* of 65 students' dialogue turns in triads, moving adaptive learning from aggregated behavioral or performance measures toward individual process sequences; maximal scaffolding raised on-task behavior but also scripting, and the design is untested.
 
 ## Connected Concepts
 
@@ -74,19 +83,15 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[learning-context-framework-context-aware-ai-education-2026]]
 - [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[simon-student-engagement-adaptive-learning-2026]] — Systematic review of student engagement in adaptive learning platforms
 - [[zhan-chapman-genai-cs-education-2026]]
 - [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-online-education-engagement-satisfaction-2026]]
 - [[interactive-online-learning-ai-2025]]
-- [[ai-decision-support-online-learning-assessment-2026]]
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -108,10 +113,8 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis pooling adaptive + AI-enabled tools across 14 RCTs
-- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review: adaptive pathways among the leading higher-ed AI integration use cases
 - [[an-goel-self-directed-modeling-2026]]

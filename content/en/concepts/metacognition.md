@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -44,12 +44,16 @@ A more fundamental role for metacognition appears when the locus of coordination
 
 When AI completes reasoning tasks for students — solving math problems, writing essays, generating code — the student loses practice in monitoring their own understanding and selecting strategies.([[stanford-evidence-base-ai-k12-2026]])
 
+Reliance is not failure: [[du-yuan-epistemic-dependence-2026|Du and Yuan (2026)]] judge AI-mediated learning by six diagnostic criteria — contestability, recoverability, transfer, traceability, distributed responsibility and epistemic plurality — and distinguish instrumental assistance, which helps produce output, from judgment-bearing assistance, which supplies the standards by which output is judged.
+
 Key findings:
 - **Kosmyna et al. (2025):** Students who used AI essay assistance were **83% unable to recall quotes** from their own essays, vs. 11% for non-AI users — indicating they did not engage with the content during production.
 - **Stadler et al. (2024):** General-purpose AI reduced cognitive load but produced **lower-quality reasoning** vs. traditional search, suggesting metacognitive engagement was displaced.
 - **Lehmann et al. (2025):** General AI for [[cs-education|programming]] harmed understanding for low-[[prior-knowledge]] students — the students most in need of metacognitive scaffolding received answers instead.
 
 Fluency is why the loss goes unnoticed. Learners judge their learning partly from how easily material is processed, and Bjork et al. (2013) show that fluency cues lead people to overestimate their understanding when content feels easy; fluent AI-generated text supplies that feeling whether or not comprehension followed, creating the conditions for a manufactured illusion of competence. [[generativism-learning-theory|Generativism]] treats this as the reason adaptive metacognition cannot be assumed: the learner has to ask whether ease of reading reflects understanding rather than reading the ease as the answer.
+Learners are also miscalibrated about AI's costs: participants predicted independent times accurately but underestimated AI-assisted time, and reported lower effort (0.61 points on NASA-TLX) while AI sped up only three of 24 tasks — a bias absent when the imagined helper was another person ([[cognitive-offloading-speedup-illusion|Yu et al. (2026)]]).
+The cost appears bounded rather than global: offloading degrades the specific skill practiced, not the underlying domain-general abilities, and surfaces on withdrawal: an endoscopy study found adenoma detection fall from 28.4% to 22.4% when the AI was unavailable, leaving source-monitoring (telling an AI's reasoning from one's own) an open metacognitive risk ([[ai-making-us-stupid|Cash et al. (2026)]]).
 
 ### The Augmentation Opportunity (Scheu et al., 2026)
 
@@ -58,6 +62,7 @@ When AI is designed to support reflection rather than replace it, metacognition 
 - **Learning journals** are a classic metacognitive practice: by reflecting on learning processes, students increase awareness of their cognition
 - **Structured prompts** that ask students to self-explain, evaluate strategies, or identify knowledge gaps preserve metacognitive demand. CoMeT (Hou et al. 2026) gives that phrase a definition and an empirical warrant: it treats metacognitive demand as a quantity distinct from [[cognitive-offloading|cognitive load]] — what the learner must decide, state, or judge before help arrives, not simply what remains when help is withheld — and held it statistically equivalent to a tutor that withheld answers by design (p_TOST = .004) while its own support escalated and faded one rung at a time. Fading held when the learner's turn was aimed at the decision under support: turns aimed elsewhere drew a later concession 40.3% of the time against 28.8% for aimed turns, an 11.5-point difference, so what a tutor must read for is where the learner's attention sits rather than how much effort the turn displays.
 - The **example-based course** in Scheu et al.'s [[conversational-ai|chatbot]] increased **perceived competence** (a metacognitive [[self-assessment]]) even when the [[llm]] assistant alone did not
+- **An emerging framing puts the system, not just the individual, in the loop.** A bibliometric–systematic review of 135 STEM-classroom studies (24 core studies) finds a posthumanist framing emerging that positions AI as a co-regulator of learning, shifting the unit of analysis from individual reflection to system-level [[regulation]] and [[distributed-cognition|distributed cognition]] ([[ai-metacognition-stem-review|Tsakeni et al. (2025)]]).
 
 - **Surfacing interaction patterns that learners cannot see.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li and Weng (2026)]] tracked eye movements, note-taking and speech while 22 interpreting trainees worked with a speech-recognition and machine-translation system, and found that the way students divided [[cognitive-psychology|attention]] between AI output and their own notes was invisible to them: 58.3% changed profile between task stages, and the heaviest readers of AI output scored lowest on delivery fluency and target language quality. The pedagogical consequence is that reflection has to be scaffolded by external evidence, because a learner's strategy is not introspectable — the authors argue for guiding students to describe and evaluate why they worked a given way at each stage.
 - **A reflective scaffold can habituate and replace the self-monitoring it protects.** [[skill-sustaining-reliance-reflective-ai-engagement-2026|de Jong (2026)]] warns that repeated prompts to reflect may wear off through habituation — much as repeated warnings are dismissed automatically — so a professional who reflects only when the system asks may end with neither the tool nor the self-monitoring habit; the paper argues reflective prompts should be treated as a fading skill-building intervention and tested for whether users reflect without them.
@@ -158,7 +163,6 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Reflection on the prompting process and authorship development in the Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
 - [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt cut acceptance of incorrect AI advice and improved awareness calibration (Ren 2026)
 - [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Automated scoring reinforced monitoring but not planning, and self-reported reflection stayed unproductive (Chen & Liu 2026)
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Verification literacy acting only through metacognitive self-regulation (Davor, Larbi & Boateng 2026)

@@ -1,7 +1,7 @@
 ---
 title: Large Language Models (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, intelligent-tutoring, prompt-engineering, rag]
@@ -32,11 +32,15 @@ LLMs are the most-referenced concept in the knowledge base (60+ articles) becaus
 
 - **Generated item labels track surface form, not difficulty.** A 378-item audit found an LLM's Easy/Medium/Hard labels rose in lockstep with its own co-generated Bloom level (ρ=0.90) and with stem length (15.9 to 30.2 words) yet correlated with empirical item difficulty at only ρ=0.06 over 7,888 student responses, evidence that generation-time difficulty metadata describes formatting rather than demand on [[prior-knowledge|prior knowledge]] ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
 
+- **Generated items can still match expert items.** o3-mini in a generate→judge→revise loop built exams for 71 classes; under a Bayesian hierarchical 2PL [[item-response-theory|IRT]] model the AI items were easier but more discriminating (ᾱ = 1.3 vs. 1.2) and more informative (I_max = 3.85 vs. 2.61) than expert AP Statistics items ([[assessing-quality-ai-generated-exams-field-2025|Isley et al. (2025)]]).
+
 - **Annotation quality is a design outcome, not a single-prompt property.** [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] prompted a five-model panel to judge human-readable assertions about each utterance instead of emitting a label directly, and a transparent classifier over those binary judgments (macro-F1 0.673, Cohen's κ 0.688) beat the best published direct prompting of a frontier model (0.61 macro-F1) while trailing a fine-tuned RoBERTa-base encoder (0.76); cross-model agreement functioned as a screening device, not as validity evidence.
 - **[[multimodal]] reasoning LLMs as graders:** when a multimodal, reasoning-capable LLM (GPT-o4-mini) graded a 296-student handwritten general-[[chemistry-education|chemistry]] exam page-by-page against rubric images, single-run total scores were highly reproducible (ICC(A,1) = 0.967; averaging five runs reached 0.993) and agreed strongly with TA totals (R² = 0.91), yet item-level reliability was sharply format-dependent — textual and reaction-equation answers graded well while drawing and graphing were worse than random (background grids distract AI vision). This shows an LLM grader's [[trust|trustworthiness]] is a function of response format and task, not just raw model capability, and that [[human-in-the-loop-ai|selective deferral]] via confidence filters is needed for high-stakes use ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 - **Content:** [[generative-ai|Generative AI]] content creation relies on LLMs. [[automated-question-generation|Question generation]] and [[ai-generated-instructional-videos-computing-ed|video generation]] are LLM-driven.
 - **Safety:** [[pedagogical-safety]], [[hallucination-risk]], and [[hazra-safetutors-pedagogical-safety-2026]] [[research-methods-aied|research]] examine LLM-specific risks.
 - **Diagnosis:** [[knowledge-tracing]] and [[cognitive-diagnosis]] increasingly incorporate LLMs for richer [[student-modeling|student modeling]]. Grounding matters enormously for error diagnosis: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] showed that supplying GPT-4 the tutor interface structure plus Bayesian [[knowledge-tracing]] skill estimates raised logical-error identification from 40% to 81% on factoring (overall error diagnosis ~87.8%), while multi-step problems and responses with several errors remained weak cases and hallucinated "common-[[misconceptions|misconception]]" diagnoses persisted — evidence that an LLM's diagnostic value is as much a function of the structured context and [[student-modeling|learner-model]] signals it receives as of the model itself.
+
+- **Verification separated from generation — with correlated failure modes.** [[eduguard-safe-rag-llm-tutor|Hossain et al. (2026)]] restrict tutor retrieval to instructor-approved course material and route claims through an architecturally separate DeBERTa-v3-large-MNLI verifier, but caution both models share broad web training and can fail in correlated ways, and the verifier cannot check a code trace without executing it.
 - **Assessment model shift (2017–2024):** Morley et al.'s scoping review of auto-marking short-answer [[science-education|science]] questions traces the field's move from fine-tuning smaller [[educational-nlp|BERT]] models (dominant through 2021) toward prompting larger LLMs (GPT-1/2/3.5/4) from roughly 2022 — adopted via [[prompt-engineering]] rather than fine-tuning — with domain-augmented models, rubric-aware prompting, and chain-of-thought lifting accuracy. Yet GPT models were rarely benchmarked against BERT on standard corpora, few auto-markers could explain their marks, and [[bias-mitigation|bias]] was seldom examined, cautions that apply to LLM assessment generally ([[auto-marking-short-answer-science-2026]]).
 
 ### Model-specific research
@@ -74,11 +78,9 @@ A complementary line of work reframes LLMs from static graders into emulators of
 - [[llm-item-difficulty-prediction]]
 - [[eduguard-safe-rag-llm-tutor]]
 - [[llm-difficulty-calibration-programming-exams-2026]]
-- [[elbench-education-llm-benchmark-2026]]
 - [[student-llm-interaction-taxonomy-review-2026]]
 - [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following
 - [[teachlm-post-training-llms-education]] — TeachLM: post-training with authentic learning data
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design

@@ -2,7 +2,7 @@
 connected_resources: [onmicro-ai]
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -54,11 +54,14 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 
 Agents must scaffold dynamically, not statically: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] identify that automated scaffolds risk staying static instead of being withdrawn as competence grows, and recommend dynamic scaffolds that adapt and fade — a key guardrail for [[agentic-ai]]. CoMeT (Hou et al. 2026) supplies both the separation and the warrant for *when* to fade: its support climbs one rung each time a learner does not use it and drops to the lightest rung on take-up, holding [[metacognition|metacognitive demand]] statistically equivalent to a withholding tutor (p_TOST = .004) while delivering an artifact in 48.1% of sessions against 23.7% — more system labor, not less. The trigger it validated is aim rather than depth: after a full demonstration the tutor later conceded 30.3% of what was still open, after a pasted artifact 25.9%, after a bare assertion 20.4% and after a request to build 33.7%, whereas turns not aimed at the decision under support drew a later concession 40.3% of the time against 28.8% for aimed turns (11.5-point difference, 95% bootstrap interval [2.1, 22.4]). Take-up was sparse — 37.0% after the first ask and 21.8% after the third — so a fade rule keyed to learner effort would read a non-answer as readiness.
 
+- **Place AI by phase of the idea, not by course.** The six-move placement frame holds AI out of the first hard attempt and final unaided check while licensing it between them for hints, examples and drill; if AI makes the task feel effortless, it is in the wrong place ([[brcic-effortless-trap-productive-struggle-2026|Brcic & Frljic, 2026]]).
+
 Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-2026|Zhang et al. (2026)]] introduce TutorMoments, which evaluates whether LM tutors scaffold only when support is needed, push for rigor when the student is ready, and avoid over-scaffolding (reducing cognitive demand more than the situation requires). Minimally prompted frontier models default to over-scaffolding at the expense of productive struggle.
 
 - **AI that scaffolds productive struggle.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive AI design principles (non-directive support, reflective design, [[human-in-the-loop-ai]]) that keep scaffolding in the productive-struggle zone rather than collapsing to answer-giving; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show [[llm]] tutors can be steered to give help only when strictly necessary — scaffolding that preserves the learner's own effort.
 
 **Scaffold withdrawal as the enforcement mechanism for verification.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot and Nanthaamornphong (2026)]] synthesize 72 computing-education studies and locate scaffold withdrawal, alongside guardrail tools and [[self-regulated-learning]] designs, as one of three ways courses enforce critical engagement with AI output — structurally (constraining what the tool returns), procedurally (reflection logs, self-testing) and temporally (progressively restoring conditions under which independent reasoning is required). Their evidence is that efficiency gains under AI assistance do not [[transfer-of-learning|transfer]] to unaided performance, and that the failure mode — the *pseudo-apprenticeship* pattern, where students watch AI generate code without performing the task — is exactly modeling without whole-task practice. Graduated access therefore functions as a fading schedule for a powerful new form of support, and the review grounds it in 4C/ID: assistance helps only when the learner already has enough schema to engage critically with it (the zone of proximal development, [[cognitive-offloading]]).
+Sequencing is the scaffold's other lever: [[critical-thinking-genai-scaffolding|Vendrell and Johnston (2026)]] recommend requiring a learner's independent attempt before any AI consultation and then using the model to generate counterarguments rather than answers, with deliberate AI-free phases, so the support amplifies reasoning instead of replacing it.
 
 ## Rule-Guided vs. Ad-Hoc Scaffolding
 
@@ -91,7 +94,6 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 - [[kumar-genai-computing-education-systematic-review-2026]] — Scaffold withdrawal as the mechanism enforcing verification (VIE framework)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Entropy-timed AI comments as in-video knowledge and emotional scaffolding (Wang, Du & Jin 2026)
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[guided-llm-scaffolding-independent-learning]] — Guided LLM prompting as a structured learning intervention
 - [[scaffolding-critical-engagement-genai-minority-students]] — Culturally responsive critical-engagement scaffolding with GenAI
 - [[rethinking-scaffolding-llm-tutors]] — Design patterns for scaffolding in LLM tutors
@@ -99,32 +101,25 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 - [[correct-answer-trap-ai-tutor]] — When hints help vs. when they encourage over-reliance
 - [[critical-thinking-genai-scaffolding]] — Scaffolding critical thinking with GenAI
 - [[veriforge-narrative-drafting-scaffolding-2026]] — Scaffolded narrative drafting with Veriforge
-- [[ai-cognitive-partner-co-regulation-learning]] — AI cognitive partner supporting co-regulation of learning
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred scaffolding in AI-supported mathematical modeling
 - [[agentic-ai-pedagogical-best-practice-2026]] — Dynamic (fading) scaffolds as a guardrail for agentic AI
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[brcic-effortless-trap-productive-struggle-2026]] — Guarded vs. unguarded AI: the placement rule (Brcic & Frljic 2026)
 - [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific AI preserves productive struggle vs. general-purpose task completion
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Guardrailed GenAI tools as scaffolds vs answer sources
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 - [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Scaffolding is a dominant CT learning strategy
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — AI across the pedagogies of practice in mathematics teacher education: structured rehearsal feedback raised probing questions (Bondurant & Shaughnessy 2026)
 - [[ai-integration-instructional-design-collaboratory-2026]] — AI integration as instructional design: critique of AI output must be assigned, and disciplinary analysis comes first
@@ -133,7 +128,6 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 - [[sidorkin-ai-generated-course-readings-2026]] — Comprehension prompts as a scaffold dial in AI-generated course readings (Sidorkin 2026)
 - [[ai-literacy-tool-design-programming-education-2026]] — A hint-budgeted AI Study Coach: scaffolded vs unrestricted GenAI use, and why the constraint alone did not produce learning (Azimi 2026)
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: scaffolding reframed as deciding which sub-zone a task belongs to
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does
 - [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
 - [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Automated scoring as formative scaffolding: it converts into a gain only where the targeted deficit is decomposable, reliable and sensitively scaled (Chen & Liu 2026)
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Closed-loop adaptive scaffolding that tracks the learner's current boundary in music practice, with error detection as triage (Zhu et al. 2026)

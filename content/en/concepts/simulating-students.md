@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge-tracing, llm, pedagogical-agent, simulation, student-modeling]
@@ -36,6 +36,7 @@ AI-mediated approximations sharpen the question the page cares about: whom the s
 ### The core challenge: realistic imperfection
 
 The defining difficulty of student simulation is that LLMs are trained to be "helpful assistants" that produce correct, polished answers. Yet real students are imperfect — they make characteristic mistakes, hold misconceptions, and learn gradually. A simulated student that answers perfectly (or too randomly) is not a valid model of a learner. Research frames this as the **competence paradox**: broadly capable LLMs asked to emulate partially knowledgeable learners produce unrealistic error patterns and learning dynamics. [[llm-simulating-student-scientific-thinking-2026|Nguyen and Cao (2026)]] give that drift a direction. Against lesson-embedded student ideas drawn from 49 NGSS-aligned science lessons, six models kept most ideas inside the expected knowledge scope and roughly two-thirds at or below the target reading level, but overshot exactly where the learner was youngest: elementary and middle-school ideas more often exceeded the target grade's knowledge scope and reading level, while the corpus as a whole leaned toward broader reasoning, more technical vocabulary and fewer uncertainty markers ("maybe", "it seems") than the lesson ideas. Model choice is not one-dimensional either — a system that matches lesson ideas closely can still pitch them above grade, so the repair is usually instructional, since an explicit grade-level re-prompt lifted most models back into range. Addressing it requires constraining the simulation so it reflects a genuine epistemic state — what the learner knows, how errors are structured, and how state evolves — rather than the model's full competence. Techniques include cognitive prototypes grounded in [[knowledge-graph]] or [[knowledge-tracing]] models, explicit epistemic state specifications, and state-transition models of learning rather than simple persona-conditioned role-play.
+CogEvolution models cognitive dynamics rather than a static persona — an ICAP depth perceptron sets each state update's size and an evolutionary update stays within a Zone-of-Proximal-Development radius — reaching R²LC = 0.92 where static agents reach 0.45 and collapsing to 0.58 without the ICAP module ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al. (2026)]]).
 
 ### Fidelity over surface realism
 
@@ -106,7 +107,6 @@ The 2026 durable-skills work inverts the usual direction of simulation. Instead 
 - [[simulating-students-diverse-cognitive-levels-2025]] — Embracing Imperfection: Simulating Diverse Cognitive Levels
 - [[simulating-students-llm-review-2026]] — Simulating Students with LLMs: A Review
 - [[valid-student-simulation-llm-2026]] — Toward Valid Student Simulation
-- [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: Multi-Agent Simulation for Education
 - [[inside-llm-student-simulator-reasoning-2026]]
 - [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for synthetic dialogues
 - [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section for teacher practice
@@ -123,6 +123,5 @@ The 2026 durable-skills work inverts the usual direction of simulation. Instead 
 - [[swim-student-writing-simulation-2026]] — prompting versus SFT versus reward-based training for a student writing simulator
 - [[misconception-acquisition-dynamics-llms-2026]] — what has to be in the training data before a simulator holds a misconception at all
 - [[llm-distractor-generation-student-reasoning-2026]] — trace-level analysis of how models simulate incorrect student reasoning
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
 - [[llm-simulating-student-scientific-thinking-2026]] — six models against 8,820 lesson-embedded science ideas: where simulated reasoning overshoots young learners' scope, vocabulary and certainty
 - [[preservice-teachers-noticing-ai-simulations-2026]] — three weeks of preservice teachers' attending, interpreting and shaping in an equal-sign chatbot simulation, and how the design steers what they notice

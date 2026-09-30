@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -32,8 +32,10 @@ Motivation is a foundational construct in education research, and the rise of AI
 ## Key research themes
 
 **AI effects on student motivation** is the most direct line of research. **[[ai-availability-student-motivation]]** examines how the availability of AI assistance affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] research on motivation erosion when AI does the work. **[[scheu-mobile-chatbot-journaling-motivation-2026]]** explores mobile [[conversational-ai|chatbot]] journaling as a motivational intervention. **[[ai-learning-tools-engineering-education-needs]]** examines what motivates students to adopt AI learning tools in [[engineering-education|engineering education]].
+Why a reader reaches for AI is itself a measurable variable: the AIR scale resolves four motives for GenAI-assisted reading — Task-oriented, Feel-good, Translation and Low-effort — and only Low-effort, using AI when tired or disengaged, was negatively related to need for cognition (r = −.18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar and Sidi (2026)]]).
 
 **Motivation in AI-mediated engagement** examines how motivational quality (not just quantity) changes with AI. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined self-determination theory with [[network-analysis|epistemic network analysis]] to study engagement with [[generative-ai|generative AI]]. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** traced motivation developmentally via latent transition analysis of **2,086 [[k-12|secondary]] students** in a year-long AI curriculum, finding three stable profiles (Disengaged, Developing, Self-Determined) and that reaching the Self-Determined profile predicted the largest [[ai-literacy]] gains. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** used goal-setting theory with **758 [[higher-ed|university]] English learners**, showing that **teacher support** drives AI-assisted engagement primarily through mastery-approach and performance-approach goals (the approach, not avoidance, goal orientations). Together these studies show that motivation in AI contexts is both developmental and socially scaffolded — it shifts over time and responds to teacher support and goal framing, not just tool design.
+Motivation shapes how students frame the tool, and the framing carries the metacognitive payoff: [[cui-motivation-roles-metacognitive-genai-2026|Cui et al. (2026)]] found the collaborator role — 7.5% of logs — was the only one producing a complete metacognitive chain, while extrinsically motivated students used GenAI as a replacement tool in 64.6% of logs and produced no higher-order connections.
 
 **Motivation gains are construct-specific, not general.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] found that a nine-week GenAI-supported [[writing-education|writing]] program for 301 Grade 5 and 6 learners raised their ideal L2 writing self and academic buoyancy — the aspirational and the resilience components of motivation — while leaving growth mindset unchanged; the only growth-mindset gain appeared in the control group and did not survive correction for multiple comparisons. Students attributed the shift to seeing fluent text built from vocabulary they already knew, which made successful writing feel attainable. So motivation is not a single dial that AI turns up: what improved was the belief that one *can* write well, not the belief that ability grows with effort. The same construct-specificity appears when GenAI is itself the relevance intervention. [[genai-math-relevance-intervention-2026|Guo, Fryer and Shum (2026)]] had **218 high-school students** spend one hour in semi-structured dialogue with a [[conversational-ai|chatbot]] aimed at personal relevance to [[math-education|math]]; the collective, class-level version raised relevance as identification (F = 4.35, p = .014, η² = 0.04; against the control, F = 11.11, p = .001, η² = 0.073 — a medium effect) and, in the SEM, predicted relevance to a specific lesson one week later (β = 0.18, p < .01), while interest in the math class did not move (F = 0.29, p = .75, η² = 0.003). The authors attribute the decoupling to dose: a single one-hour session is too brief for relevance gains to consolidate into interest in the class.
 **A feedback message moves interest through its perceived usefulness, not through the learner's dispositions.** [[jansen-argumentative-writing-feedback-receptivity-2026|Jansen et al. (2026)]] gave 1,507 secondary students one standardized automated feedback message after a first draft of an argumentative text: global receptivity was the only receptivity dimension related to situational interest change (about 0.11 points on the observed scale, roughly the 54th versus 46th percentile), and that effect was fully mediated by perceived usefulness (indirect β = 0.09, 95% CI [0.06, 0.13]) with no significant direct path left (β = 0.06, 95% CI [−0.07, 0.16]), so what shifted interest was the felt worth of the message rather than the learner's general stance toward feedback.
@@ -71,7 +73,6 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[oby-chatgpt-use-learning-framework-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-online-education-engagement-satisfaction-2026]]
 - [[chatgpt-perception-online-learning-engagement-2026]]
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]
@@ -82,17 +83,14 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[framing-5-percent-problem-teachers-persistence]]
 - [[self-efficacy-tutoring-learning]]
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
-- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
-- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
 - [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of students' AI learning motivation (2,086 secondary students)
 - [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
 - [[genai-writing-program-primary-l2-motivation-engagement]] — Construct-specific motivation gains in a primary L2 GenAI writing program (Lu et al. 2026)
 - [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: four motive families for reaching for AI while reading

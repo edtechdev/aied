@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-24T02:22:12-04:00"
+updated: "2026-09-30T08:05:25-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -34,6 +34,8 @@ ai_assist:
 Learning design bridges AI capabilities and effective pedagogy. Where [[curriculum-design]] addresses *what* to teach at the program level, learning design addresses *how* to teach it at the course and lesson level. The articles in this knowledge base explore both AI as a tool for learning designers and learning-design principles for building effective [[intelligent-tutoring|AI tutoring]] systems.
 
 What that design work involves in practice is itself an empirical question. [[tang-chatbots-learning-design-2026|Tang et al. (2026)]] coded 1,378 designer-chatbot turns from five novice learning designers working with a chatbot embedded in a design tool, and found the dialogue clustered on intended learning outcomes and pedagogical approach rather than content generation. Designers returned to outcomes repeatedly as an alignment check while turning curriculum components into concrete tasks, and the assistant's role shifted across phases, from clarifying terms to supporting task design to running a verification pass before a deadline. Design support, on this evidence, is less about producing material than about keeping design intent coherent.
+
+Learning analytics and generative AI support different parts of design: across 11 focus groups at one Australian university, analytics discourse co-occurred most with context and course-level problem-solving (0.32), while GenAI discourse centered on assessment design (0.26) and designing for student self-determination (0.15) ([[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]]).
 
 ### Key research themes
 
@@ -68,6 +70,7 @@ For instructional designers, course developers, and engineers building AI-assist
 **Provide instructional guidance, not just AI access.** Whether learners interact with AI directly or with AI-generated materials, guidance built on learning theory (e.g. a stepwise prompting [[scaffolding|scaffold]] grounded in generative-learning principles) drives higher-order outcomes; access alone does not. Design the learning activity around how the mind learns, and treat AI as a cognitive "mindtool" that extends thinking rather than replacing it.([[instructional-guidance-genai-learning]])([[genai-mindtool-generative-learning]])
 
 **Make content traceable and reviewable.** Let a human designer review and correct AI output before it reaches learners, and structure AI generation so the pedagogical rationale (why this content, in this order) is inspectable — addressing both quality and the opacity concerns that undermine [[trust]]-generated instruction.([[bridging-instructional-design-framework-math]])([[cotal-formative-assessment-scoring-2026]])
+- **Review AI-generated media at the script stage, not after synthesis.** PedaCo puts educator review on the script — where pedagogical errors are cheap to fix — before anything is rendered; rated instructional validity rose from 3.07 to 3.86, while the automated post-synthesis layer improved only two of five dimensions ([[ai-video-dual-gatekeeping-2026|Kim, Baek and Kwak (2026)]]).
 
 **Design for [[accessibility]] from the start.** Apply [[universal-design-for-learning|UDL]] principles when building AI tools and AI-generated materials so they serve diverse learners, rather than retrofitting accessibility after the fact.([[ludia-udl-ai-thought-partner-2026]])
 
@@ -110,8 +113,6 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 - [[tang-chatbots-learning-design-2026]] — Chatbot use in learning design: designers dwell on outcomes and pedagogy rather than content generation (Tang et al. 2026)
 - [[zhou-constructive-alignment-genai-business-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-communities-of-inquiry-2026]]
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[lin-llm-interactive-lesson-generation]] — Automatic LLM creation of interactive learning lessons (Lin et al. 2025)
@@ -139,14 +140,12 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
