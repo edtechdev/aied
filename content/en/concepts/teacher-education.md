@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T12:53:22-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -34,6 +34,8 @@ Pre-service (initial) teacher education prepares future teachers during their ce
 - **AI-TPACK and intelligent-TPACK readiness.** Instruments and frameworks measure and build pre-service teachers' readiness to integrate AI, extending the [[tpack]] framework with an AI/ethics dimension.([[conceptualizing-preservice-teachers-ai-readiness-2026]])([[ai-tpack-mathematics-teacher-education-2026]])
 - **Acceptance profiles, and an ease-of-use/intention paradox.** [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al. (2026)]] profiled 128 pre-service teachers into four ChatGPT-acceptance groups: Resistant Skeptics (14.06%) reported high perceived ease of use but very low behavioral intention, so operational skills training alone does not convert them.
 - **Applications and benefits.** A scoping review of 55 studies shows AI enhances pre-service teachers' instructional design, subject instruction, practical teaching skills, evaluation, reflective practice, [[critical-thinking|critical thinking]], technology integration, and pedagogical innovation.([[harnessing-ai-preservice-teachers-scoping-2026]])
+
+- **Unscaffolded genAI access scored below no genAI.** In an 11-week quasi-experiment with 52 pre-service teachers, the unscaffolded genAI class produced lower rubric-rated lesson plans than the no-genAI class (adjusted 86.54 vs 81.87, F = 8.348, p = 0.006, η² = 0.146), with no group difference in [[self-regulated-learning]] or critical thinking ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang et al. (2026)]]).
 - **[[educational-robotics|Educational robotics]] and ML.** Initial teacher training embeds coding, robotics, and [[machine-learning]] activities (e.g., micro:bit) to build [[computational-thinking|computational thinking]] in future teachers.([[microbit-robotics-machine-learning-teacher-training-2026]])
 - **Authentic assessment and metacognition.** AI-mediated assessment models (e.g., AAIWA) integrate [[authentic-assessment|authentic rubric-based assessment]], condition-responsive [[ai-feedback-quality|AI feedback]], and [[metacognition|metacognitive reflection]] in pre-service programs.([[aaiwa-ai-authentic-assessment-metacognition-2026]])
 - **AI-supported inquiry in [[stem-education|science education]].** A quasi-experiment with 48 pre-service science teachers in Türkiye ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) integrated problem- and design-based learning into an 8-week AI-supported guided inquiry program on photosynthesis and respiration. It produced significant gains in conceptual understanding of the two [[biology-education|biological]] processes, but *no* significant effect on AI literacy or self-perceived [[computational-thinking|computational thinking]] — a reminder that AI-IBL can deepen subject-matter understanding in teacher candidates without automatically building their AI/CT competencies, which require explicit, targeted design.
@@ -136,3 +138,5 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[teachers-collaborative-evaluation-ai-content-2026]] — Teachers' collaborative evaluation of AI-generated content as professional development (Gat, Usher & Barak 2026)
 - [[ai-training-science-teacher-tpack-distance-2026]] — Campus versus distance comparison of 186 science student teachers' AI-related TPACK and training levels
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — traces pre-service teachers building AI boundaries in a semester-long literacy ethnography
+
+- [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — Unscaffolded genAI lowered pre-service teachers' lesson-plan quality below the no-genAI class

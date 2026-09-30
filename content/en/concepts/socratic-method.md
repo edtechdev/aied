@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T12:53:22-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -27,6 +27,9 @@ reviewed_by: [editor]
 ## Introduction
 
 The Socratic method is one of the oldest pedagogical techniques — originating with Socrates in ancient Athens — and it has found new relevance in the age of [[generative-ai|generative AI]]. In AI education [[research-methods-aied|research]], the Socratic method refers to AI systems that engage learners through guided dialogue, posing questions that lead students to discover answers rather than providing them outright. Asking structured questions rather than providing answers is one of the strongest pedagogical scaffolds for deep learning; when automated via AI, it produces measurable reasoning gains but also requires careful calibration to avoid frustrating learners or displacing human mentorship.([[hashmi-socratic-physics-chatbot-2025]])([[favero-critical-ai-tutors-empower-enslave-2025]])
+
+
+Socratic and directive feedback moved different things: Socratic feedback raised comprehension monitoring and task orientation, directive feedback scored higher on prioritization of essential features, and only the directive condition gained from a customized agent ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
 
 ## How it works in AI tutoring
 
@@ -124,6 +127,7 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[productive-failure]] — Productive Failure
 ## Connected Articles
+- [[agent-type-feedback-style-self-directed-learning-2026]] — Socratic versus directive feedback styles in a 2 x 2 postgraduate design study
 
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[hashmi-socratic-physics-chatbot-2025]]

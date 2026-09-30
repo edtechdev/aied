@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-09-30T12:20:22-04:00"
+updated: "2026-09-30T12:53:22-04:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -44,6 +44,9 @@ A configurational test sharpens the point: among 498 medical undergraduates, GAI
 
 **SDT applied to instructors' own AI-mediated practice.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used SDT as the interpretive lens on how instructors integrate [[learning-analytics|learning analytics]] and generative AI into [[learning-design|learning design]] — finding that supporting instructors' basic needs (autonomy, competence, relatedness) fosters the creative [[problem-solving]] their design work requires. In their ENA analysis, GenAI use was associated with designing for student self-determination (e.g., co-creating assessment rubrics with students), extending SDT from learners to the educators who build need-supportive AI-mediated environments.
 
+
+For teachers themselves, AI collaboration cuts both ways: a three-wave study of 468 university teachers found it raised work engagement through psychological availability while lowering it through work alienation, and [[teacher-ai-competency|digital competency]] strengthened the first path and weakened the second ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
+
 A co-agency framework bounds SDT's reach in AI-mediated education: it changes the circumstances under which autonomy, competence, and relatedness arise but leaves equity of power, data ownership, and accountability unaddressed, which is why its authors set human epistemic accountability as a non-negotiable condition outside the theory ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
 
 **Autonomy support as the frame for children's GenAI use.** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]] relocate the question of responsible use from restriction to need support, arguing that the distinction that matters is whether adults around a child support autonomy rather than control it, and distinguishing dependent from autonomous [[cognitive-offloading]] within SDT terms: dependent offloading transfers [[agency]] and lowers intrinsic motivation, autonomous offloading scaffolds while the learner retains epistemic control. Two features of the review are directly relevant to SDT application: it insists that autonomy support is not permissiveness, and it treats the family-school coordination that current guidance assumes as an untested hypothesis, formalizing additive, synergistic and compensatory versions that only a factorial trial contrasting family-only, school-only, coordinated and usual-practice guidance could discriminate.
@@ -80,3 +83,4 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
 
 - [[genai-learning-engagement-medical-undergraduates-2026]] — GAI use is weakly tied to need satisfaction and unnecessary for high engagement (He et al. 2026)
+- [[teacher-ai-collaboration-work-engagement-2026]] — Dual pathways from teacher–AI collaboration to work engagement, moderated by digital competency

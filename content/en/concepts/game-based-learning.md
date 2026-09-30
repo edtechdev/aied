@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T12:53:22-04:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
@@ -28,6 +28,9 @@ GBL is grounded in [[motivation]], [[student-engagement]], and [[active-learning
 - **Robot-mediated games:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] is a robot-mediated role-play game for anti-bullying intervention, and [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] uses interactive [[storytelling-in-education|digital storytelling]] to boost motivation.
 - **AI [[conversational-ai|conversational agents]] in simulation games:** Wenzel, Geiger, and Liening (2026) derive the CAIS-GBL framework — four design principles and fifteen design features for AI conversational agents in digital game-based learning — from theory-driven meta-requirements spanning cognitive, motivational, [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] engagement, with an [[equity-in-ai-education|equity]]-by-design stance. Their instantiated agent (Lara) in a business simulation game was positively received for cognitive and [[community-of-inquiry|social presence]] and [[self-regulated-learning]] support, addressing the common gap of limited [[formative-assessment|formative]] feedback and structured reflection in simulation games.
 
+
+- **AI-GBL effectiveness:** A 55-study systematic review of AI-supported game-based learning finds positive effects on knowledge, intrinsic motivation and affective engagement, but only 4 studies (7%) met its High-quality threshold and only 4 (7%) were [[rct|RCTs]] ([[ai-game-based-learning-systematic-review-2026|Kaşarcı & Yurt, 2026]]). Effectiveness turned on aligning the AI mechanism with a stated [[learning-theories|learning theory]].
+
 ### Gamification
 
 **Gamification** is the application of game-design elements (points, badges, levels, leaderboards, challenges, progress bars) to non-game contexts to motivate and engage users. Unlike game-based learning — where learning happens *through* a game — gamification layers game mechanics onto an existing learning activity without turning it into a full game. It is used in education to boost motivation, [[student-engagement]], and persistence, and is widely applied in formal classroom settings.
@@ -53,6 +56,7 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 - [[virtual-and-augmented-reality]] — immersive and gamified practice overlap in design and evidence
 
 ## Connected Articles
+- [[ai-game-based-learning-systematic-review-2026]] — Systematic review of 55 AI-supported game-based learning studies: positive outcomes, a thin evidence base
 
 - [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind

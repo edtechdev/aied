@@ -1,7 +1,7 @@
 ---
 title: Theories and Frameworks
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-09-23T17:12:00-04:00"
+updated: "2026-09-30T12:53:22-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -104,6 +104,9 @@ Two neighbouring pages are deliberately about something else. [[philosophy-of-ai
 
 Frameworks are not evidence. They are usually borrowed from pre-LLM contexts and localized by whoever applies them, they can function as branding, and stage models invite checkbox adoption that reports movement through levels rather than learning. Claims resting on a framework should be read alongside [[limitations-in-aied-research|the field's cross-cutting limitations]], the [[assessment-validity|validity]] of whatever measured the outcome, and the known limits of [[self-report-measures|self-report]].
 
+
+Mechanism-to-theory alignment can nonetheless be decisive: a thematic synthesis of 55 AI-supported game-based learning studies found effectiveness turned on whether the AI mechanism enacted the pedagogy it was meant to serve rather than on algorithmic sophistication ([[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt (2026)]]).
+
 ## Connected Concepts
 
 - [[theory-development-aied]] — building and revising theory in the field
@@ -118,6 +121,7 @@ Frameworks are not evidence. They are usually borrowed from pre-LLM contexts and
 - [[research-methods-aied]] — how theory gets tested
 
 ## Connected Articles
+- [[ai-game-based-learning-systematic-review-2026]] — Mechanism-to-theory alignment, not algorithmic sophistication, drove effectiveness in 55 AI game-based learning studies
 
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — four decades of AIED through the AI×Ed framework
 - [[educating-minds-generative-ai-2026]] — theory-heavy synthesis of generative AI and learning
