@@ -1,7 +1,7 @@
 ---
 title: Mixed-Methods Research
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T07:37:28-04:00"
 type: concept
 research_method: [survey]
 confidence: high
@@ -27,13 +27,16 @@ Mixed-methods designs integrate the breadth, precision, and causal power of quan
 
 - **Sequential explanatory (QUAN → qual).** Quantitative data are collected first, then qualitative data explain or contextualize surprising or significant quantitative findings. [[genai-over-reliance-learning-2026|A mixed-method study of GenAI and sustainable learning]] pairs three-wave surveys with educator interviews to explain the quantitative pattern of enhancement-to-over-reliance.
 - **Sequential exploratory (QUAL → quan).** Qualitative work builds theory, generates hypotheses, or informs instrument design that is then tested quantitatively. [[becker-chatgpt-typology-physics-2026|A qualitative typology of ChatGPT adoption]] yields categories that can inform later survey design.
+- **Exploratory sequential with measurement invariance.** [[trust-calibration-genai-collaborative-regulation-2026|Bu and Li (2026)]] code interviews to identify the model's four dimensions, build a 22-item instrument from them, and then test configural, metric, and scalar invariance across gender and disciplinary area on an analytic sample of 642 — showing a qualitative strand feeding a survey instrument and an invariance test confirming the constructs behave the same way across groups.
 - **Convergent/parallel.** Quantitative and qualitative strands run simultaneously and are integrated in analysis. [[t2i-competence-paradox-2026|The competence-paradox study]] uses instructor focus groups, a student survey, and follow-up interviews in parallel; [[fouad-bentley-trust-utility-gap-physics-2026|the trust–utility gap study]] combines survey and interview evidence on physics students' AI adoption.
 
 ## How mixed methods appear in the knowledge base
 
 - **Explaining mechanisms.** [[same-ai-different-pathways]] combines strands to unpack the mechanisms of AI-mediated learning across discipline-institution contexts, where quantitative differences alone would be opaque.
 - **Complementing outcome data with experience.** [[hazra-safetutors-pedagogical-safety-2026|AI tutor safety]] pairs quantitative harm indicators with qualitative accounts of pedagogical harm; [[t2i-competence-paradox-2026]] pairs quantitative survey results with qualitative negotiation-of-identity accounts.
+- **Integration without pooling.** [[wang-reflective-ai-use-engagement-programming-2026|Wang and Zhao (2026)]] coordinate a survey (N = 131), human coding of 66 Critical Engagement texts, and programming logs (N = 1,423) that come from different samples and are never merged, assigning the AI-free trace branch a boundary-test role rather than a confirmatory one — each strand is given a distinct inferential job instead of being reported side by side.
 - **Design and evaluation.** [[genai-feedback-design-multisite-experiment|A multisite experiment on GenAI feedback design]] combines experimental outcome measurement with qualitative feedback from learners, integrating quantitative effect estimation with design guidance.
+- **Process evidence inside a large trial.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] pair system observation and discussions with administrators against a four-year randomized evaluation of 8,708 students across eight semesters, powered to detect effects of 0.05 standard deviations, so the same study explains the organizational conditions that sustained a chatbot program and reports tightly bounded nulls on GPA and persistence.
 
 - **Triangulating a policy phenomenon.** A study of student-privacy deferral in EdTech pairs twelve semi-structured interviews with a 48-platform document audit scored by two coders for inter-rater reliability (mean Cohen's κ = 0.781), using the interviews to explain why privacy is postponed and the audit to show the disclosure pattern that deferral produces — a convergent design in which neither strand alone could support the claim ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
@@ -41,6 +44,7 @@ Mixed-methods designs integrate the breadth, precision, and causal power of quan
 
 - **Strengths:** triangulation increases confidence; quantitative breadth plus qualitative depth; can explain unexpected results and bridge mechanism and magnitude; produces both effects and meaning; well-suited to complex, contextual AI-in-education phenomena.
 - **Limitations:** complex, resource-intensive, and methodologically demanding; integration can be shallow if strands are merely reported side-by-side rather than genuinely merged; still inherits the weaknesses of each strand (e.g., self-report bias in surveys, researcher dependence in interviews); requires proficiency in both methodological traditions.
+- **A clustering limit that bounds the inference.** [[human-ai-collaboration-academic-writing-2026|Alshehri et al. (2026)]] assign two intact classes (n = 31, n = 22), so with only two clusters the reported t-tests ignore the intraclass nesting and multilevel models are not estimable, making the significance tests optimistic about what the design can support.
 
 ## Relationship to the broader methods landscape
 

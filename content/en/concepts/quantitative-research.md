@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T07:37:28-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -35,6 +35,7 @@ Cross-sectional surveys measure self-reported attitudes, perceptions, motivation
 
 ### Experimental and quasi-experimental research
 Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tutor, or AI-scaffolded vs. unassisted) to estimate causal effects on outcomes. **Randomized controlled trials ([[rct]]s)** are the gold standard for internal validity. [[access-not-enough-ai-tutoring-2026|A randomized field study of human support plus AI tutoring]] and [[genai-can-harm-teaching-rct-2026|an RCT on generative AI in teaching]] use assignment to isolate causal effects. **Quasi-experimental** designs (pre/post, matched groups without randomization) are more feasible in intact classrooms but weaker on causal claims.
+ [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adopt a within-subject crossover instead: every student meets the same physics content twice, once in an in-class active-learning lesson and once through the course's own AI tutor, with pre- and post-tests around each, so each learner serves as their own control and between-person differences cancel.
 
 - **Strengths:** strongest causal inference; clean outcome measurement; supports effect-size estimation and efficacy claims.
 - **Limitations:** costly and slow; artificial conditions reduce ecological validity; fast-changing AI tools date experiments quickly; small samples underpower detection of effects; ethical constraints on withholding helpful tools.
@@ -51,8 +52,14 @@ Quantitative methods also include the direct measurement of constructs via instr
 ## How quantitative research appears in the knowledge base
 
 - **Efficacy and causal claims.** RCTs and quasi-experiments test whether AI tools improve learning ([[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]]).
+
+- **Preregistration and replication.** [[chatbot-outreach-course-performance-2026|Meyer et al. (2026)]] state their hypotheses and analysis plan before the trial and pool the randomized comparison across two semesters and two large asynchronous courses, so the estimate rests on a fixed plan and a replication rather than a single sample.
 - **Mechanism modeling.** SEM/PLS-SEM tests mediators and moderators of AI adoption and learning ([[tian-genai-learning-adoption-pathways-2026]], [[acceptance-ai-english-tools-2026]], [[teacher-education-ai-literacy-sdt-2026]]).
+
+- **Panel models that separate within- from between-person effects.** [[genai-reliance-human-agency-collaborative-learning-2026|Wu and Lu (2026)]] estimate a random-intercept cross-lagged panel model over three waves of collaborative-writing data, which separates stable differences between students from within-person temporal order — the distinction that licenses reading heightened reliance as preceding a fall in perceived agency rather than merely attending it.
 - **Measurement and scale development.** The knowledge base documents quantitative instrument development and validation ([[jin-glat-genai-literacy-assessment|GLAT]], [[educational-measurement]]).
+
+- **Performance versus durable learning.** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] randomizes 120 students to AI-assisted or traditional study and measures retention with a surprise 20-question test 45 days after the intervention, so the outcome is what survived the delay rather than what appeared at the end of the session.
 
 ## Strengths and limitations
 

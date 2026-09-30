@@ -1,7 +1,7 @@
 ---
 title: Usability Research
 created: "2026-08-24T02:15:00-04:00"
-updated: "2026-09-14T06:35:00-04:00"
+updated: "2026-09-30T07:37:28-04:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -38,6 +38,8 @@ Usability and UX research answer questions like: Can students figure out how to 
 - **AI learning tool evaluation.** [[rhaimi-productivemath-2025|ProductiveMath]], [[supplynet-visual-exploratory-learning|SupplyNet]], and [[anvil-ai-educational-animations|educational animations]] are evaluated for usability and UX.
 - **Human–robot and [[conversational-ai|conversational AI]] interaction.** [[icub-humanoid-storytelling-llm-hri-2025|The humanoid storytelling study]] is an explicit usability study of [[llm]]-powered interaction; [[conversational-ai-agents-umbrella-review-2026|an umbrella review of conversational AI agents]] identifies usability and interaction quality as a recurring theme.
 - **Design and refinement.** Usability findings feed iterative design (see [[design-thinking]] and [[learning-design]]), improving tools before or alongside efficacy testing.
+- **One instrument across contexts, and the ceiling that limits it.** [[mendonca-llm-feedback-perceived-usefulness-programming-2026|Mendonça et al. (2026)]] held domain, task, and instrument constant while educational level varied, so 144 students' ratings of 893 feedback answers and 237 reports compare contexts rather than disciplines — and only perceived accuracy differed across levels. The study also names the limit of this kind of user evaluation: 72.2 to 86.4 percent of students averaged at least 4 of 5, and the authors state that their non-significant differences do not establish equivalence because no margin was set in advance.
+- **Rater design reported as part of the finding.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] had 25 domain-matched experts judge 92 regenerated lectures against a rubric anchored at "a standard MOOC lecture's quality," assigning each video to a single reviewer (k = 1) to spread the panel across more of the corpus instead of collecting repeat ratings. The trade-off is modeled rather than hidden: a random-intercept model attributes about 35 percent of residual variance to the reviewer (ICC = 0.35) and intervals are reviewer-clustered, which is how an expert panel can report "87 percent at or above the bar" with an honest range.
 
 ## Relationship to other research families
 
