@@ -248,14 +248,9 @@ if not _ARTICLES_DIR.is_dir():
     _ARTICLES_DIR = content_paths.collection('articles')
 article_slugs = {a[:-3] for a in os.listdir(_ARTICLES_DIR) if a.endswith('.md')}
 
-# FAQ slug -> title map (for the Connected FAQs sections)
-faq_titles = {}
-for _f in os.listdir(FAQS_DIR):
-    if not _f.endswith('.md'):
-        continue
-    _s = open(os.path.join(FAQS_DIR, _f), encoding='utf-8').read()
-    _m = re.search(r'^title:\s*["\']?(.*?)["\']?\s*$', _s, re.M)
-    faq_titles[_f[:-3]] = _m.group(1).strip() if _m else _f[:-3]
+# FAQ slug -> title: PAGE_TITLES (added below, once page_title is defined) covers
+# concepts, FAQs and articles alike — see the Connected FAQs section built in
+# process_md() and the bare-wikilink labels in convert_links().
 
 # redirects (mirror src/data/conceptRedirects.ts)
 REDIRECTS = {
@@ -284,6 +279,22 @@ def page_title(txt, slug):
     m = re.search(r'^title:\s*["\']?(.*?)["\']?\s*$', txt, re.M)
     return m.group(1).strip() if m else smart_title(slug.replace('-',' '))
 
+# slug -> the page's own title, for every page this edition can link to.
+# A wikilink written as a bare `[[slug]]` carries no label: the site shows the
+# TARGET page's own title there ("Well-Being", or the locale's translation), so
+# the book has to as well — a de-slugified guess prints "Well Being", and in a
+# translated edition it prints the guess in ENGLISH ("Learners", "Critical
+# Thinking") in the middle of a Spanish list. Mirrors `allTitles` in
+# src/pages/concepts/[slug].astro. Articles are the one untranslated collection,
+# so their titles stay English in every edition — as they do on the site.
+PAGE_TITLES = {}
+for _dir in (CONCEPTS_DIR, FAQS_DIR, _ARTICLES_DIR):
+    for _name in sorted(os.listdir(_dir)):
+        if _name.endswith('.md'):
+            _p = os.path.join(_dir, _name)
+            PAGE_TITLES[_name[:-3]] = page_title(
+                open(_p, encoding='utf-8').read(), _name[:-3])
+
 def shift_headings(txt, add):
     out = []
     for line in txt.split('\n'):
@@ -293,6 +304,29 @@ def shift_headings(txt, add):
             out.append('#'*lvl + ' ' + m.group(2))
         else:
             out.append(line)
+    return '\n'.join(out)
+
+def separate_headings(txt):
+    """Put a blank line before every ATX heading.
+
+    Most concept pages write `## Connected Articles` directly after the last
+    bullet of `## Connected Concepts`, with no blank line between them. That is
+    valid CommonMark (a heading may interrupt a paragraph and the site renders it
+    correctly), but PANDOC does not let a heading interrupt a paragraph or a list
+    item: it swallows the heading as literal text at the end of the previous
+    bullet. The reader then sees the two Connected lists run together under one
+    heading, with the shredded `#### Connected Articles` glued onto the last item.
+    Normalize here rather than editing ~110 source pages whose rendering is
+    already right."""
+    out, fenced = [], False
+    for line in txt.split('\n'):
+        if re.match(r'^\s*(```|~~~)', line):
+            fenced = not fenced
+            out.append(line)
+            continue
+        if not fenced and re.match(r'^#{1,6}\s+\S', line) and out and out[-1].strip():
+            out.append('')
+        out.append(line)
     return '\n'.join(out)
 
 def convert_links(txt):
@@ -306,7 +340,8 @@ def convert_links(txt):
         target, label = m.group(1), m.group(2)
         raw = target.replace('.md','').strip()
         canon = resolve(raw)
-        disp = label.strip() if label else smart_title(canon.replace('-',' '))
+        disp = label.strip() if label else (
+            PAGE_TITLES[canon] if canon in PAGE_TITLES else smart_title(canon.replace('-',' ')))
         if canon in concept_slugs or canon in faq_slugs:
             return f'[{disp}](#{canon})'
         if canon in article_slugs:
@@ -349,6 +384,7 @@ def process_md(path, slug, hlevel):
     title = page_title(raw, slug)
     body = strip_frontmatter(raw)
     body = convert_links(body)
+    body = separate_headings(body)
 
     # Append a Connected FAQs section (from frontmatter connected_faqs) so the
     # EPUB concept/article pages link out to the FAQ chapter, like the site does.
@@ -363,7 +399,7 @@ def process_md(path, slug, hlevel):
     if connected:
         lines = ['\n## ' + CONNECTED_FAQS_LABEL + '\n']
         for t in connected:
-            lines.append(f'- [{faq_titles.get(t, smart_title(t.replace("-", " ")))}](#{t})')
+            lines.append(f'- [{PAGE_TITLES.get(t, smart_title(t.replace("-", " ")))}](#{t})')
         body = body.rstrip('\n') + '\n' + '\n'.join(lines) + '\n'
 
     # Some concept pages contain stray empty heading lines (just '#' with no
