@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:22:04-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -48,6 +48,8 @@ A growing cluster of articles explicitly creates new theory for the AI era rathe
 ## Advancing established theory
 
 Other work extends existing theory into the AI context rather than founding new paradigms: [[critical-thinking-paradox-genai-learning-2026|critical-thinking-paradox]] work integrates [[cognitive-offloading|cognitive-load theory]] with load-reduction instruction into a three-level framework; [[dollinger-equitable-assessment-ai-2026|equitable assessment]] re-theorizes [[assessment]] under GenAI disruption. [[reconceptualizing-community-inquiry-generative-ai|Ba, Gašević, Lim & Anderson (2026)]] reconceptualize the [[community-of-inquiry|Community of Inquiry]] framework itself: rather than framing GenAI as a tool, dialogic partner, or a speculative "fourth presence," they reposition it as an *epistemic condition* that reconfigures how cognitive, social, and [[teacher-role|teaching]] presence are enacted, evidenced, and governed — recasting CoI presences as sociotechnical accomplishments of human–GenAI assemblages and proposing a configuration-based heuristic in which GenAI involvement and inquiry quality are conditionally related through human accountability. Much of this is conceptual-framework work ([[drummond-genai-business-schools-framework-2026|business-school frameworks]], [[valid-student-simulation-llm-2026|valid simulation]]) that operationalizes theory for practice.
+
+[[metacognitive-ownership-human-ai-regulation-2026|Lin and Chang (2026)]] extend [[self-regulated-learning]] and human–AI regulation by naming what the learner governs — standards, evaluative judgments, and control authorization — rather than only what the AI does.
 
 [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] advance ACT-R and the Knowledge-Learning-Instruction framework by theorizing *deceptive overgeneralization* — a failure mode in which knowledge compilation yields an overgeneralized production that produces correct actions while omitting a critical application constraint — and by empirically validating a detection/remediation procedure across adaptive ITSs and a [[k-12]] decimal-learning dataset.
 
@@ -105,3 +107,4 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[rismanchian-ai-education-four-decades-aixed-2026]]
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
 - [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
+- [[metacognitive-ownership-human-ai-regulation-2026]] — Metacognitive ownership: construct definition, boundaries, and a research agenda

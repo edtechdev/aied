@@ -494,3 +494,52 @@
   integrated: [intelligent-tutoring, differential-effects-across-learner-groups, student-engagement, rct]
   no_change: [help-seeking, cognitive-offloading, learning-gains, human-ai-collaboration, higher-ed, equity-in-ai-education, self-regulated-learning, generative-ai, llm, rag]
   reason: "Integrated into three pages. intelligent-tutoring: the page's causal evidence is a run of positive or null tutoring results (Medly, the MBA tutor experiment, Tutor CoPilot) plus the K-12 guardrail harm literature, so a multi-discipline university-scale RCT in which a well-grounded, citable, LMS-embedded tutor lowered final grades by 0.37 SDs in the exact-match sample and platform participation by 0.90 SDs is a distinguishing adverse deployment result with its own mechanism (technical integration without instructional integration). differential-effects-across-learner-groups: the page states that first-generation evidence amounts to one usage difference and no effect, so a measured differential (-0.50 SDs for first-generation students against -0.22 for their peers) fills a gap the page names itself. student-engagement: the page treats engagement as a mechanism AI usually raises and warns that high engagement need not mean learning, so a randomized reduction of 0.90 SDs in recorded participation alongside unchanged homework submission is the mirror-image case and a measurement caution the page lacks. Skipped help-seeking: the substitution away from instructor contact is a randomized instance of the sequencing claim the page already carries (Manikonda's early reliance, Viberg's whom-to-ask-first), so the mechanism went into the intelligent-tutoring insertion instead. Skipped cognitive-offloading and learning-gains: the 73.8% direct-answer request distribution and the performance-versus-learning caution restate claim classes those pages already carry from stronger designs. Skipped human-ai-collaboration, higher-ed, equity-in-ai-education, self-regulated-learning, generative-ai, llm and rag: the deployment, equity and mechanism claims there are already carried, and the equity finding belongs on the differential-effects page where the first-generation gap is mapped. Added later the same day, on review: the rct page. The screen had treated the methods facet as a tag and skipped it, which was wrong - that page's account of RCTs covers micro-trials and the gold-standard trade-offs but had nothing on cluster assignment, so instructor-level randomization with 34 clusters, 15% uptake and an intent-to-treat estimand is a distinguishing design lesson rather than a methods label."
+- article: human-ai-collaboration-design-education-rubric-2026
+  date: 2026-09-30
+  integrated:
+  - tpack
+  no_change: [process-oriented-assessment, teacher-ai-competency, human-ai-collaboration, assessment-validity, authentic-assessment, peer-assessment, creativity, critical-thinking, socratic-method, teacher-role, student-ai-interaction, prompt-engineering, generative-ai, hallucination-risk, transfer-of-learning, self-report-measures, ai-use-disclosure, design-based-research, qualitative-research]
+  reason: 'The one distinguishing contribution is AI-Validation Knowledge as a domain-general fourth TPACK competency, woven into the tpack page''s AI-TPACK narrative. The process-oriented rubric itself is another instance of a claim class process-oriented-assessment already carries (Thapa and Lewis, Boysen, LEARN, Moganadas, Padhy), so that page was left alone; the remaining candidates restate existing coverage.'
+
+- article: cognitive-distribution-student-genai-interaction-2026
+  date: 2026-09-30
+  integrated:
+  - distributed-cognition
+  no_change: [student-ai-interaction, cognitive-offloading, metacognition, trust-calibration, student-engagement, self-directed-learning, ai-literacy, agency, transfer-of-learning, critical-thinking, constructivist, motivation, generative-ai, llm, conversational-ai, hallucination-risk, regulation, human-ai-collaboration, theories-and-frameworks, prompt-engineering, process-oriented-assessment, self-report-measures, mixed-methods-research, qualitative-research, quantitative-research]
+  reason: 'The Cognitive Distribution Framework''s five interaction types and four roles are a genuinely new process account of how cognition is redistributed, so it was woven into distributed-cognition. student-ai-interaction and cognitive-offloading already carry the interaction-quality and offloading claims; the rest are context rather than a distinguishing finding.'
+
+- article: ai-competence-framework-landscape-2026
+  date: 2026-09-30
+  integrated:
+  - ai-literacy
+  no_change: [teacher-ai-competency, professional-training, curriculum-design, career-development-and-readiness, lifelong-learning, vocational-education, k-12, assessment, assessment-validity, formative-assessment, summative-assessment, evaluative-judgment, benchmark, meta-analysis-systematic-review, theories-and-frameworks, educational-policy-ai, governance, ethics, privacy, academic-integrity, ai-use-disclosure, agency, critical-thinking, metacognition, problem-solving, self-efficacy, sustainability, transfer-of-learning, human-ai-collaboration, teacher-ai-competency, multimodal, generative-ai, agentic-ai, interpreting-and-applying-aied-research]
+  reason: 'The comparative map of 16 institutionally endorsed competence frameworks - a shared core of ten areas against wide variation in structure and guidance - is the distinguishing contribution and was woven into ai-literacy. teacher-ai-competency already carries the competency-gap and instrument material, so it was screened and declined.'
+
+- article: ai-marking-accuracy-gcse-physics-2026
+  date: 2026-09-30
+  integrated:
+  - automated-assessment
+  no_change: [assessment-validity, educational-measurement, psychometrically-aware-ai, benchmark, feedback, human-in-the-loop-ai, trust-calibration, limitations-in-aied-research, llm, physics-education, quantitative-research, ai-ed-evaluation]
+  reason: 'The reference-standard point - that agreement with examination-board marks is a proxy for accuracy because board marks are themselves fallible human judgements - is not on the page and was woven into automated-assessment. The rest is another alignment study in a claim class the page already documents (OPRaiSE, HITL national assessment).'
+
+- article: metacognitive-ownership-human-ai-regulation-2026
+  date: 2026-09-30
+  integrated:
+  - metacognition
+  - theory-development-aied
+  no_change: [self-regulated-learning, agency, human-ai-collaboration, evaluative-judgment, formative-assessment, cognitive-offloading, trust, trust-calibration, generative-ai, ai-use-disclosure, research-methods-aied, writing-education]
+  reason: 'Metacognitive ownership is a new construct naming what the learner governs (standards appropriation, monitoring-judgment governance, control authorization), so it was woven into metacognition and, as a refinement of an established theory, into theory-development-aied''s advancing-established-theory narrative. self-regulated-learning and agency already carry the learner-governance material.'
+
+- article: heutagogical-teaching-ai-enhanced-education-2026
+  date: 2026-09-30
+  integrated:
+  - teacher-role
+  no_change: [self-directed-learning, self-regulated-learning, self-efficacy, professional-training, agency, ai-literacy, assessment, evaluative-judgment, bias-mitigation, inclusive-learning, inquiry-based-learning, metacognition, transfer-of-learning, tpack, self-report-measures, mixed-methods-research, qualitative-research]
+  reason: 'The shift from information provider to learning designer, with a non-significant post-program comparison after adjustment, is a distinguishing role finding and was woven into teacher-role. tpack and self-directed-learning already carry the framework material the paper applies rather than extends.'
+
+- article: srjudge-knowledge-concept-tagging-2026
+  date: 2026-09-30
+  integrated:
+  - educational-nlp
+  no_change: [knowledge-tracing, cognitive-diagnosis, recommender-systems-and-learning-paths, online-teaching-and-learning, benchmark, machine-learning, reinforcement-learning, prompt-engineering, llm, math-education, biology-education, physics-education, quantitative-research]
+  reason: 'The Select-Reason-Judge pipeline for knowledge-concept tagging is a distinct educational-NLP application, woven into educational-nlp. The page''s downstream concepts (knowledge-tracing, cognitive-diagnosis, recommender-systems-and-learning-paths) are described as applications rather than extended by the method.'

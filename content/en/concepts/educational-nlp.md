@@ -1,7 +1,7 @@
 ---
 title: Educational NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:22:04-04:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
@@ -39,6 +39,7 @@ Natural language processing in education applies computational methods to the la
 - **Taxonomy classifiers lose most of their accuracy on generated content.** A Bloom-level classifier scoring macro-F1 0.88 on a curated item bank fell to 0.48 and 0.20 across two AI-generated question sets, with the loss tracking the absence of explicit Bloom trigger verbs rather than model size; only [[llm|LLMs]] (0.41 to 0.79) and classifiers retrained on generated items (up to 0.82) held up ([[bloom-classifier-ai-assisted-questions-2026|Castanares et al., 2026]]).
 - **Corpus-scale curation for pre-training data.** [[garrod-edu-qurating-educational-data-curation-2026|Garrod et al. (2026)]] replace a single "is this educational?" score with twenty inspectable rubric dimensions — factual accuracy, pedagogical structure, level suitability and foundational-literacy criteria among them — and distill GPT-4.1-mini's pairwise preferences into reusable Edu-QuRaters that recover held-out judge preferences at mean accuracy 0.917, then label all 322.25M rows of FineWeb-Edu-Fortified, where the filtered mixtures lifted downstream [[benchmark|benchmark]] accuracy over the FineWeb-Edu baseline. It marks a role for educational NLP beyond analyzing the language learners produce: screening the instructional text that other models are trained on.
 - **Auditable coding by separating assertions from interpretation.** [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] replace single-label prompting with a schema of 221 human-readable assertions - 74 corpus-derived, 48 construct-derived, and 100 automatic word-presence checks - that a transparent classifier maps to the construct label, reaching macro-F1 0.673 and Cohen's κ 0.688 on the TalkMoves teacher-talk corpus against a published direct-prompting maximum of 0.61 macro-F1 and 0.58 κ, while trailing a fine-tuned RoBERTa-base classifier at 0.76. Requiring Krippendorff's α ≥ 0.5 kept only 33 of 74 corpus-derived assertions, and a words-only baseline scored 0.339 macro-F1, so the gain comes from learned behavioral assertions rather than keyword frequency.
+- **Concept tagging at scale.** [[srjudge-knowledge-concept-tagging-2026|Yang et al. (2026)]] split knowledge-concept tagging into a Select–Reason–Judge pipeline — a small model shortlists candidate concepts, the LLM reasons over the shortlist, then judges — lifting tagging accuracy on three benchmarks by shrinking the model's decision space.
 
 ### Connection to tutoring and measurement
 
@@ -74,3 +75,4 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 - [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
+- [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: selective-reasoning pipeline for fine-grained knowledge concept tagging

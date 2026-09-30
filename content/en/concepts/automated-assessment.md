@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:22:04-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -93,6 +93,8 @@ A central design goal within automated assessment is **confidence awareness**: A
 ## Quality and fairness
 
 Automated assessment quality depends on [[assessment-validity]] and [[bias-mitigation]]. [[ai-scoring-language-bias-physics|Language bias]] research shows that automated scoring can systematically disadvantage certain student populations.
+**The criterion is itself fallible.** [[ai-marking-accuracy-gcse-physics-2026|Bozdag and Qiu (2026)]] mark GCSE physics scripts with an AI system and compare them against both official examination-board marks and experienced teachers' judgment, treating agreement with the board as a proxy for accuracy rather than accuracy itself.
+
 
 ### Deployment scenarios and what each one requires
 
@@ -185,3 +187,4 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
 - [[llm-graders-computer-science-exams-2026]] — Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams
 - [[llm-automated-coding-teacher-pck-2026]] — Multi-agent LLM (GradeOpt) coding teachers' open-ended CK and PCK responses, reliability from prompt refinement against a coding manual
+- [[ai-marking-accuracy-gcse-physics-2026]] — AI marking compared with examination-board marks and teacher judgment in GCSE physics
