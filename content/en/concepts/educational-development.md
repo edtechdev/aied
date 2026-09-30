@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T14:23:52-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -66,6 +66,9 @@ On this account, faculty asking "what's the point of teaching in a GenAI world?"
 For faculty developers, academic leaders, and [[stakeholders|instructional designers]] planning AI [[professional-training|professional development]], the knowledge base's evidence suggests:
 
 **Address the four adoption drivers, not just knowledge.** Confidence, attitudes, support, and concerns predict whether faculty actually adopt AI — a knowledge-only workshop that ignores these is unlikely to change practice. Design development to build confidence through hands-on use, provide ongoing support (not one-shot training), and actively surface and respond to faculty concerns.([[teacher-ai-adoption-confidence]])
+
+
+Confidence and literacy are not interchangeable targets: in a 502-respondent SEM of university faculty, AI literacy was the dominant predictor of AI well-being (β = 0.713) while [[self-efficacy|technological self-efficacy]] contributed little (β = 0.082), and support reached well-being only indirectly ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
 
 
 **Treat guideline demand and guideline adequacy as separate problems.** Faculty at one university strongly backed institutional measures against unethical AI use (M = 4.59) while rating existing guidelines lowest (M = 2.99), and named data privacy and cultural inclusivity their weakest knowledge - a concrete target for professional development ([[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgic & Sever, 2026]]).
@@ -141,3 +144,5 @@ For faculty developers, academic leaders, and [[stakeholders|instructional desig
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: institutional unpreparedness, thin governance and the 87%/48% policy gap (Watson & Rainie 2026)
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators in Global South higher education: development as sociotechnical praxis
 - [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
+
+- [[faculty-ai-well-being-social-supports-2026]] — Faculty AI well-being tracks AI literacy rather than technological self-efficacy

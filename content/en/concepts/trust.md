@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T10:54:00-04:00"
+updated: "2026-09-30T14:23:52-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -59,6 +59,9 @@ Trust is also fundamentally relational. The classroom trust gap is documented in
 
 Feedback is a key site of interpersonal trust. [[genai-teacher-feedback-comparison|Students' perceptions of GenAI versus teacher feedback]] find the two serve different needs — complementary but not interchangeable — with students trusting teacher feedback for relational, personalized judgment and [[generative-ai|GenAI]] for speed and [[accessibility]]. [[care-full-feedback-genai|A "care-full" account of feedback]] argues that trustworthy feedback is an [[ethics|ethical]], relational practice: it builds educative relationships and is respected as a professional craft, values an AI cannot simply replicate. This is why teacher-student trust — built on care and professional judgment — remains central even as AI enters the feedback loop.
 
+
+Peer trust runs through a different channel: among 406 university students rating a recalled classmate, that classmate's GenAI use was associated with lower interpersonal trust, carried by perceived warmth and competence, and the negative association held only when perceived [[ai-literacy|AI literacy]] was low — it was non-significant at high ([[observer-perceptions-genai-interpersonal-trust-2026|Zhang et al. (2026)]]).
+
 ## Calibration and the two domains together
 
 The unifying challenge is **calibration**: matching trust to actual reliability, whether the trusted party is a model or a person. [[trust-calibration]] is the [[metacognition|metacognitive]] capacity to know when to trust and when to question. Studies of AI [[feedback]] and [[intelligent-tutoring]] examine when learners appropriately rely on or challenge AI guidance, while the interpersonal literature shows that students' trust in an instructor depends on relational trust built over time. As AI becomes embedded in [[teacher-role|teaching]], these domains converge: an instructor who transparently explains what an AI tool can and cannot do, and who demonstrates reliability in their own judgment, builds the kind of trust that carries over to the tools they endorse. Building appropriate trust — in both AI and in each other — is a core goal of responsible AI design in education.
@@ -108,3 +111,4 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
 
 - [[ai-empowerment-threat-genai-dependence-2026]] — Empowerment and threat appraisals moved trust in opposite directions, carrying GenAI dependence
+- [[observer-perceptions-genai-interpersonal-trust-2026]] — Peers' GenAI use lowers interpersonal trust through perceived warmth and competence, buffered by AI literacy
