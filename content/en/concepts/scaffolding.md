@@ -2,7 +2,7 @@
 connected_resources: [onmicro-ai]
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -81,6 +81,7 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 - **A scaffold the learner cannot verify is a fluent substitute.** Because [[chemistry-education|chemistry]] reasons across observable phenomena, particulate models and symbolic notation, a generated answer can be locally persuasive and globally wrong. [[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit and Rivera Álvarez (2026)]] place scaffolding on the productive side of their Presage-Process-Product analysis and uncritical copying on the failure side, and require scaffolds to demand representational translation in both directions, since a response that describes neutralization correctly can still claim that every equivalence point has a pH of 7. Verification is designed into the task rather than announced as a rule: students identify a false assumption, correct a unit or mechanism error, compare a symbolic structure with a submicroscopic model, or justify rejecting a generated answer. Because students cannot verify what they do not yet understand, [[prior-knowledge|prior knowledge]] and scaffolding come first, and prompting is treated as an epistemic act in which the learner specifies the constraints the answer must satisfy.
 
 ## Connected Concepts
+- [[pedagogical-patterns]] — Where in the sequence support belongs, and why attempt-before-help is the load-bearing rule
 - [[problem-based-learning]] — PBL embeds fading scaffolds around ill-structured problems
 - [[learning-by-teaching]] — Scaffolding knowledge building through explanation
 - [[sociocultural-learning]] — Vygotskian foundation: ZPD and socially mediated learning

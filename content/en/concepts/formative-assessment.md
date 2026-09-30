@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -109,6 +109,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — The sequenced forms formative assessment takes when AI supplies part of the feedback
 - [[assessment]]
 - [[educational-measurement]]
 - [[automated-assessment]]

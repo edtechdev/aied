@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -57,7 +57,7 @@ Where generated materials fall short is curriculum fit: seven math teachers rate
 
 ### Connections to related concepts
 
-Learning design is the bridge discipline of [[ai-education|AI in education]] — it connects [[curriculum-design]] (what to teach) with [[scaffolding]] (how to support learners), [[educational-development]] (how to prepare educators), and [[generative-ai]] (the tools themselves). It is tightly coupled with [[teacher-role]] because AI tools reshape what learning designers and teachers do, and with [[ai-literacy]] because effective AI integration requires educators to understand AI capabilities and limitations. The [[learning-sciences|learning sciences]] are the research field behind these principles: where this page covers the professional practice of creating learning experiences, the learning sciences study that practice and its designs empirically and generate the cognitive, motivational and social principles that learning design then operationalizes.
+Learning design is the bridge discipline of [[ai-education|AI in education]] — it connects [[curriculum-design]] (what to teach) with [[scaffolding]] (how to support learners), [[educational-development]] (how to prepare educators), and [[generative-ai]] (the tools themselves). It is tightly coupled with [[teacher-role]] because AI tools reshape what learning designers and teachers do, and with [[ai-literacy]] because effective AI integration requires educators to understand AI capabilities and limitations. Design work ultimately resolves into an *order of activity*: [[pedagogical-patterns|pedagogical patterns]] catalogue the tested orders of moves, so a designer can decide where in a lesson AI belongs rather than only what to include. The [[learning-sciences|learning sciences]] are the research field behind these principles: where this page covers the professional practice of creating learning experiences, the learning sciences study that practice and its designs empirically and generate the cognitive, motivational and social principles that learning design then operationalizes.
 
 ### How learning design determines learning gains
 

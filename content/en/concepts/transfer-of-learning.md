@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -92,6 +92,7 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — The outcome most of these sequences are ultimately judged on
 - [[metacognition]]
 - [[desirable-difficulties]]
 - [[cognitive-offloading]]

@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -130,6 +130,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — Tested feedback sequences, including why higher-quality AI feedback produced no more revision
 - [[eportfolio]]
 - [[ai-feedback-quality]]
 - [[feedback-literacy]]

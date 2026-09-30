@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T14:23:52-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -99,6 +99,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - **Oversight of AI adoption advice.** Because [[conversational-ai|conversational AI]] systems consulted by skeptical users may be predisposed to encourage adoption, human oversight and independent evaluation are essential. An audit showing most frontier models redirect skeptical rural [[k-12]] staff toward [[student-engagement|engagement]] underlines the need for transparent, auditable AI advice rather than uncritical reliance.
 
 ## Connected Concepts
+- [[pedagogical-patterns]] — Where human review sits in tested sequences, and what has never been tested in isolation
 - [[guardrails]]
 - [[formative-assessment]]
 - [[automated-assessment]]

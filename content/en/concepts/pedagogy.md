@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -36,6 +36,8 @@ The knowledge base documents a rich set of individual teaching strategies and pe
 - **Online and distance pedagogies.** [[online-teaching-and-learning|Online teaching and learning]] is itself a pedagogical context, not just a delivery channel: the medium shapes which strategies are viable ([[active-learning]] rethought for asynchronous forums, [[collaborative-learning]] via digital discussion, [[intelligent-tutoring|tutoring agents]] replacing face-to-face interaction). In this medium, AI raises both new opportunities (scalable [[personalized-learning|personalization]], always-on support) and new risks ([[academic-integrity|academic integrity]], [[cognitive-offloading|cognitive offloading]]), making pedagogical intent decisive.
 - **Motivation and [[student-engagement|engagement]] approaches.** [[game-based-learning]] (learning through games), [[self-determination-theory]] (supporting autonomy, competence, relatedness), and [[motivation]]-oriented strategies.
 - **[[equity-in-ai-education|equity]]-conscious pedagogies.** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]], [[universal-design-for-learning|Universal Design for Learning]], [[critical-pedagogy]], and [[inclusive-learning]] ensure strategies serve diverse learners.
+
+**Approaches are not sequences, and the difference decides outcomes.** Everything above describes *what kind* of teaching is happening. [[pedagogical-patterns|Pedagogical patterns]] describe the *order* of moves inside a lesson — what students do first, where AI enters, and where human judgment stays — and the knowledge base documents those tested sequences separately, because the same tool helps or harms depending on its position in the order. Attempting a problem before AI offers help, and receiving hints rather than answers, is the most consistently supported arrangement in the evidence base; putting the assistant first is one of the best-documented ways to depress later unassisted performance. A pedagogy adopted without deciding that order leaves the decisive variable unset.
 
 ## How pedagogy appears in AI in education
 

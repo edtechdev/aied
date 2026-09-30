@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -137,6 +137,7 @@ Two controlled studies in the recent batch pin down the two halves of this claim
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — The risk every effort-first sequence is designed to avoid
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[ai-literacy]] — Knowing when to offload and recognizing reliance patterns
 - [[agency]] — Diminished when AI substitutes for the learner's cognition

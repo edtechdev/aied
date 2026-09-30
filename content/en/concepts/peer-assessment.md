@@ -1,7 +1,7 @@
 ---
 title: Peer Assessment
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-09-30T10:54:00-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -82,6 +82,7 @@ The open questions are about the strength of the evidence, not only about design
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — PAIRR and combined peer-plus-AI feedback: the sequences and their comparative evidence
 - [[writing-education]]
 - [[formative-assessment]]
 - [[self-assessment]]

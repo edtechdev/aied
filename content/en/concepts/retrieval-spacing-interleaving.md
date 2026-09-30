@@ -1,7 +1,7 @@
 ---
 title: "Retrieval, Spacing and Interleaving"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -81,6 +81,7 @@ Interleaving's inclusion here therefore rests on the same theoretical family as 
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — Spaced retrieval sequences, and the retention cost of assisting during encoding
 - [[desirable-difficulties]] — the principle these three techniques operationalize
 - [[cognitive-psychology]] — memory, encoding and retrieval as the theoretical home of all three
 - [[prior-knowledge]] — retrieval practice as activation of what the learner already holds

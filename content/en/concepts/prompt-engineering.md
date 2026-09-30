@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T12:20:22-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -74,6 +74,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - **A usable taxonomy, and which prompt categories actually pay off.** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] translate technical strategies into the 3K model (*Kontext, Kernauftrag, Klarheit* — context, core task, clarity): eleven practice-oriented categories, each with a good/average/suboptimal rubric, and each tested as an experimental variation on feedback generated for pre-service teachers' learning goals. Domain-specific technical language was the decisive category — replacing subject terminology with everyday paraphrases significantly reduced feedback quality across three models (β = −0.412) — while adding concrete examples and removing the chain-of-thought instruction produced no significant difference from the baseline in the first study; examples did help once the analysis was rerun with the best-performing model-prompt combinations (β = 0.52). Prompt quality and model choice together explained 42.8% of the variance in rated feedback quality, which is the paper's case that prompt engineering is a measurable and teachable competency rather than a stylistic preference — and that its categories are not interchangeable in effect size.
 
 ## Connected Concepts
+- [[pedagogical-patterns]] — The scaffolding layer inside structured-use sequences
 - [[vibe-coding]]
 - [[guardrails]]
 - [[scaffolding]]

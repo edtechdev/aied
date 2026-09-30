@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -68,6 +68,7 @@ Professional-degree programs hold most of the graduate-level evidence, and it is
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — The level where most of the tested sequence evidence was generated
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[generative-ai]] — Generative AI technologies and models
 - [[llm]] — Large language models

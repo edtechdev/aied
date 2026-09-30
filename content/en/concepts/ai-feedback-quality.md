@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T14:23:52-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 type: concept
 foundations: [ai-literacy]
@@ -101,6 +101,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — Quality does not predict revision: the sequences that make AI feedback usable
 - [[formative-assessment]]
 - [[automated-assessment]]
 - [[feedback]]

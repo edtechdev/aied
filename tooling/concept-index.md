@@ -59,6 +59,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`learning-by-teaching`** — Learning by Teaching — phrases: learning by teaching; peer teaching; teach-back; teachable agents
 - **`online-teaching-and-learning`** — Online Teaching and Learning — phrases: distance education; distance learning; e learning; e-learning; MOOC; online courses; online education; online learning; online teaching; remote learning; virtual learning
 - **`pedagogical-partnerships`** — Pedagogical Partnerships — phrases: co-creation with students; pedagogical partnership; pedagogical partnerships; student partnership; student-staff partnership; students as partners
+- **`pedagogical-patterns`** — Pedagogical Patterns — phrases: activity sequence; activity sequences; instructional pattern; instructional patterns; instructional sequence; instructional sequences; learning sequence; learning sequences; pedagogical pattern; pedagogical patterns; teaching pattern; teaching patterns
 - **`pedagogy`** — Pedagogies and Teaching Strategies — phrases: instructional strategies; pedagogical; pedagogies; pedagogy; teaching methods; teaching practice; teaching practices; teaching strategies
 - **`problem-based-learning`** — Problem-Based Learning — phrases: pbl; problem based learning; problem-based learning
 - **`productive-failure`** — Productive Failure — phrases: productive failure; productive persistence

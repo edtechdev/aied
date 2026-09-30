@@ -1,7 +1,7 @@
 ---
 title: Feedback Literacy
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-30T10:54:00-04:00"
+updated: "2026-09-30T16:25:27-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -72,6 +72,7 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 
 ## Connected Concepts
 
+- [[pedagogical-patterns]] — The critical-appraisal steps these sequences build into the workflow
 - [[eportfolio]]
 - [[ai-feedback-quality]]
 - [[feedback]]
