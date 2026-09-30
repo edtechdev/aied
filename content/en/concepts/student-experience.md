@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:53:03-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -129,12 +129,10 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[student-mental-models-genai]]
 - [[genai-usage-design-students-survey]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[student-llm-interaction-taxonomy-review-2026]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI-skills expectations for college graduates vs. institutional readiness
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
 - [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
-- [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)

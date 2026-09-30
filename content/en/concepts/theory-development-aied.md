@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-09-30T09:22:04-04:00"
+updated: "2026-09-30T09:53:03-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -39,6 +39,8 @@ A growing cluster of articles explicitly creates new theory for the AI era rathe
 - **The cognitive commons.** [[cognitive-commons-ai-expertise-regeneration|Cognitive commons and expertise regeneration]] draws on common-pool-resource theory and [[distributed-cognition|distributed cognition]] to explain how rational AI adoption decisions can deplete the shared expertise pool professions require for renewal.
 - **Performance vs. learning.** [[genai-performance-vs-learning|Performance-vs-learning]] theorizes the sharp divergence between AI-inflated task performance and durable learning, a distinction that recurs across the knowledge base's [[learning-gains]] evidence.
 - **Epistemic [[ai-literacy|AI literacy]] (EAIL).** [[constructing-epistemic-ai-literacy-student-ai-co-programming|Epistemic AI Literacy]] reframes AI literacy as a process-oriented epistemic competence centered on how knowledge is constructed and justified when students co-program with generative AI.
+
+- **Tri-System Theory.** [[shaw-nave-cognitive-surrender-2026|Shaw and Nave (2026)]] extend dual-process accounts with **System 3** — external, automated, data-driven reasoning from AI that can supplement, supplant or suppress System 1 and System 2 — and name **cognitive surrender**, the uncritical adoption of AI output, as its characteristic failure.
 - **Cognitive stewardship.** [[credential-cognitive-stewardship-ai-assessment|Credential and cognitive stewardship]] theorizes the [[governance|institutional]] responsibility for protecting knowledge and learning in AI-pervasive assessment contexts.
 - **Co-[[regulation]] and epistemic proactivity.** [[ai-cognitive-partner-co-regulation-learning|AI as a cognitive partner in co-regulation]] integrates executive function, [[metacognition]], distributed cognition, and [[sociocultural-learning|sociocultural]] development into a developmental model; [[epistemic-proactivity-math|epistemic proactivity]] theorizes students' agentic stance toward AI in [[math-education|mathematics]].
 - **Human-GAI [[student-engagement|engagement]] paradigms.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] addresses the field's "theory deficit" by grounding seven enacted human-GAI engagement paradigms (guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, [[equity-in-ai-education|equity]]) in Schommer's multidimensional model of personal epistemological beliefs — an epistemological, rather than tool-focused, theory of how individuals differently position themselves relative to AI.

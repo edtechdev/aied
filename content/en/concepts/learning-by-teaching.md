@@ -1,7 +1,7 @@
 ---
 title: Learning by Teaching
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:53:03-04:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -43,6 +43,8 @@ The knowledge base's evidence base traces this shift to **conversational, LLM-ba
 ## Engineering Fallibility: LLMs as Novice Tutees
 
 A central design challenge for LLM-based teachable agents is that LLMs are trained to produce expert-level, fluent responses by default — the opposite of the fallible novice the LbT paradigm wants. Making an LLM a good tutee requires **engineering fallibility**:
+
+- **Generated errors can pass as authentic.** In a blinded annotation study, experts misclassified 164 of 196 (83.7%) LLM-generated Java submissions as human-written, so a tutee can supply realistic bugs to debug rather than only correct code ([[simulating-students-java-programming-errors-llms|Keramati et al. (2026)]]).
 
 - **[[prompting-teachability-novice-personas-lbt-2026|Prompting for teachability]]** (Miller & Bosch) found that constraint-based prompts explicitly forcing error production (e.g., "answer incorrectly" or "get 2–3 wrong") elicit novice-like behavior far more reliably than persona-, misconception-, or uncertainty-based prompts.
 - **[[socrates-students-instructors-llms-lbt-2025|Engineered knowledge gaps]]** (Yang et al.) design problems the LLM cannot solve without knowledge only the student possesses, making teaching a necessity and countering the passive over-reliance of LLM-as-tutor use.

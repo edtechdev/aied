@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -35,6 +35,8 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 - **AI anxiety and student experience:** Studies on students' engagement with AI (e.g., [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDT-based research]]) find AI use is intertwined with anxiety, trust, and confidence, with students' well-being affected by concerns about academic integrity, [[creativity]], and [[cognitive-offloading|Over-Reliance]].
 - **Anxiety reduction is not uniformly beneficial.** In a counterbalanced within-subjects study of 35 pre-university students, an LLM-augmented conversational agent lowered self-reported anxiety during oral assessments (calmness 6.50 vs. 5.86, p = .028), but the authors caution that moderate anxiety can be facilitative and recorded no attainment scores ([[aivaluate-anxiety-assessment-2026|Yusuf, Money and Daylamani-Zad (2026)]]).
 
+- **Emotional-support tutoring is not automatically better for well-being.** An LLM mindfulness layer added to an algebra tutor reduced state-math anxiety in both arms but no more than cognitive-only hints and feedback, though students rated the mindful agent more supportive — a caution against reading perceived care as a well-being outcome ([[mindful-llm-math-tutoring-2026|Rief et al., 2026]]).
+
 - **AI anxiety, adaptation, and dependence as well-being signals:** [[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al. (2026)]] find AI anxiety is negatively tied to academic motivation partly through reduced [[metacognition|emotion regulation]] (moderated by gender) in a large Chinese sample; [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] shows learners of [[language-learning|Japanese]] sort into maladaptive, moderate, and positive psychological-adaptation profiles driven by technostress and resilience that shift toward better adaptation over a semester; and [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] cautions that cross-sectional correlates of [[conversational-ai]] engagement (loneliness, anxiety, low well-being) should not be read as consequences, and that supportive and harmful experiences coexist.
 - **Culturally [[situated-learning|situated]] well-being support and its limits:** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] describe Sukoon, a hybrid well-being system for Pakistani university students that pairs a Random Forest stress classifier (89.09% accuracy over three severity levels; 20 survey features) with an [[llm]] dialogue layer that escalates tone and support intensity across three tiers in line with the Stepped Care Model. It was built because Western-designed mental-health tools are English-language and culturally mismatched for students who express distress in Urdu or Roman Urdu and who face academic, financial, familial and relational stressors simultaneously; the authors are explicit that it is not a [[medical-education|clinical]] diagnostic or therapy tool, that high-distress responses point toward professional counselling, and that the chatbot layer has not yet been evaluated with students on cultural appropriateness or emotional safety.
 
@@ -42,6 +44,8 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 - **Relational densification as the evaluative criterion for AI-supported teacher development:** [[ai-emotional-intelligence-teacher-development-2026|Aponte et al. (2026)]] argue that AI supports teachers' socio-emotional development only when it functions as relational infrastructure rather than a symbolic substitute for human accompaniment. They propose **relational densification** as the criterion for judging AI-supported professional-development initiatives — whether they strengthen trust, mentoring, peer support, collaboration, psychological safety, and reduced isolation — and note these relationships have downstream effects on students through classroom climate, [[pedagogy|pedagogical]] responsiveness, and socio-emotional support. The synthesis also cautions that affective data [[governance]] and the political economy of educational AI carry distinct ethical risks, framing [[ai-literacy|critical AI literacy]] as a socio-emotional competence.
 
 - **Ethics and responsible AI:** Well-being is a core ethical consideration in [[ai-education]], linking to [[ethics]] and the imperative to design AI that supports rather than harms learners' mental health and belonging.
+
+- **Detector anxiety as a well-being risk.** [[sovereign-hive-titl-further-education-2026|Herron (2026)]] names "flagxiety" — anxiety induced by fear of unreliable [[ai-detection|AI-detector]] allegations — and argues that marginalized further-education learners, whose cognitive uniqueness can be read as misconduct, need relational regulation rather than an unregulated interface that can trigger cognitive shutdown.
 
 ### Well-being as a design consideration
 

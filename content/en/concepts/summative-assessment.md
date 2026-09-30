@@ -1,7 +1,7 @@
 ---
 title: Summative Assessment
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:53:03-04:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -41,6 +41,7 @@ A key theme in the knowledge base is that **summative format determines AI-resis
 - **Oral exams and assessments.** [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]] argues the oral exam is a low-tech, inherently AI-resistant summative format: its real-time, interactive dialogue tests comprehension, [[critical-thinking|critical thinking]], and reasoning rather than memorization, prevents students from using AI to generate and memorize answers, and mirrors professional practice. [[socratic-tests-conversational-assessment|Socratic tests]] and [[code-review-genai-cs1|code-review interviews]] extend this to dynamic, conversational, and interview-based summative assessment.
 - **Closed-book, proctored, unassisted measures.** [[generative-ai-reduced-study-time-math|Evidence]] and [[stromberg-generative-ai-learning-penalty-secondary-2026|large-scale field data]] show that proctored closed-book exams — not inflated homework or take-home work — are the reliable signal of actual learning when students use AI. [[responsible-assessment-ai-era-stanford-2026|Responsible assessment]] frameworks embed these unassisted measures within a validity-driven redesign. Where exams stay online, [[remote-proctoring|remote proctoring]] takes over that role, and the corpus's two reviews of automated proctoring find privacy and [[bias-mitigation|fairness]] concerns alongside detection gains ([[automated-online-exam-proctoring-decade-review-2026]], [[academic-dishonesty-automated-proctoring-ai-2026]]).
 
+- **Pair a vulnerable task with a confirming twin.** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]] keep a GenAI-vulnerable task for its learning value but pair it with a second task assessing the same outcomes, making the mark interdependent through a confirmatory threshold or weighting so the twin certifies the result.
 ## High-stakes and standardized summative assessment
 
 High-stakes summative assessment — entrance exams, standardized tests, and certification — carries outsized consequences and is a focus of AI-era concern. [[stromberg-generative-ai-learning-penalty-secondary-2026|The generative AI learning penalty study]] measured outcomes on high-school (Zhongkao) and college (Gaokao) entrance exams, finding entrance-exam scores fell 18–24% after prolonged AI use. [[brcic-effortless-trap-productive-struggle-2026|The Effortless Trap]] and [[genai-performance-vs-learning|performance-vs-learning research]] warn that gains on AI-assisted tasks do not transfer to unassisted high-stakes measures.

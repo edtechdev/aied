@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -60,6 +60,8 @@ Recent theoretical work extends the classical strand in several directions, each
 - **Deceptive overgeneralization.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] extend the ACT-R / Knowledge-Learning-Instruction tradition by theorizing when observed correctness masks incomplete conditional understanding: learners compile an overgeneralized production that omits an application constraint yet still performs correctly — a failure mode that adaptive mastery systems, and even traditional instruction, can miss unless they test *when to withhold* an action.
 - **Executable KLI theory.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] ground the Knowledge-Learning-Instruction framework in an executable computational model (the Apprentice Learner framework with an ACT-R-style memory mechanism) that reproduces a cross-over interaction in human data: pure practice aids verbatim fact memory (by delaying forgetting) while example-integrated practice aids generalizable skill induction. Because KLI ties constant (fact) knowledge to memory processes and variable (skill) knowledge to induction, the result is a predicted content–treatment interaction rather than a contradiction between testing and worked-example recommendations — and the model's success only when a memory mechanism is present demonstrates that practice and examples play distinct, complementary roles.
 
+- **Embodiment as an ontological challenge to AI's paradigm.** [[videla-embodied-ai-education-choreography|Videla, Penny and Ross (2026)]] argue an ontological divide separates embodied, enactive cognition from the representational idiom AI embodies, so AI should be decentered as the epistemic center rather than treated as a neutral tool.
+
 ### How the knowledge base organizes this strand
 
 Rather than treating learning theories as abstract philosophy, the knowledge base grounds each in the AI-in-education research that uses it. The [[constructivist]] and [[behaviorism]] pages document how AI designs embody (or betray) each theory; Cognitive Load Theory, [[self-regulated-learning]], [[metacognition]], and [[transfer-of-learning]] connect theory to specific AI mechanisms and outcomes. This mirrors how the knowledge base treats other umbrella domains like [[feedback]] and [[assessment]] — a coherent system of interacting concepts rather than isolated pages.
@@ -104,10 +106,8 @@ Alongside the classical families, the knowledge base documents theories written 
 ## Connected Articles
 - [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
 
-- [[powerful-learning-with-emerging-technology-2025]] — Three design principles for emerging technology: evidence-based, learner-centered, skill-building
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[ai-cognitive-partner-co-regulation-learning]] — Positions AI as a cognitive partner in human-AI co-regulation; developmental framework across the lifespan
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: a philosophical framework reconceptualizing thinking as human–AI interaction
@@ -115,13 +115,9 @@ Alongside the classical families, the knowledge base documents theories written 
 - [[generativism-learning-theory]] — Proposes a new learning theory for the generative AI age, revisiting the classical four
 - [[ai-vocational-education-training-review]] — Documented the constructivism/behaviorism theory-practice gap in AI for VET
 - [[genai-educational-outcomes-meta-analysis]]
-- [[vargas-situated-learning-ai-review-2024]]
-- [[raffaghelli-situated-ai-ethics-2026]]
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[videla-embodied-ai-education-choreography]]
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning

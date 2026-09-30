@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -29,6 +29,8 @@ Mathematics education has become a primary domain for [[ai-education|AI in educa
 ### Key research themes
 
 **AI math tutoring and scaffolding** is the largest cluster, with four articles examining how AI tutors support or undermine math learning. **[[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]** demonstrates that adding affective awareness — detecting student emotions from text and facial expressions — produces a +23-point win rate advantage in math tutoring, connecting to [[affective-computing]] and [[affective-tutoring]]. **[[zhang-tutormoments-2026|TutorMoments]]** evaluates 462 teacher-annotated transcripts from grades 2-7 math tutoring and finds frontier models default toward over-helpfulness, rarely pushing for rigor even when students are ready — directly challenging the alignment between AI helpfulness and [[scaffolding]] principles. **[[lak2026-hint-button-unproductive-use|An et al.]]** analyzed 999 students across three semesters in the *Decimal Point* ITS, finding that premature hint requests and superficial hint reading consistently predict reduced [[learning-gains|learning gains]], even after controlling for [[prior-knowledge|prior knowledge]] — a finding that connects to [[help-seeking]] and [[learning-analytics]].
+
+**Socio-emotional support can buy efficiency rather than achievement.** Adding an LLM mindfulness layer to a seventh-grade algebra tutor left learning and state-math anxiety unchanged between arms (42 of 252 students analyzed after disruptions), yet mindful-condition students reached comparable learning with less time and fewer requested hints ([[mindful-llm-math-tutoring-2026|Rief et al., 2026]]).
 
 **[[cognitive-diagnosis|Cognitive diagnosis]] and assessment** explores AI's ability to evaluate math thinking. [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] add a large-scale item-difficulty study spanning both math and reading: across 5,170 K-5 items calibrated under the Rasch IRT model, GPT-4o's zero-shot difficulty ratings correlated moderately-to-strongly with true difficulties (r = 0.83 math, r = 0.81 reading) but were uneven across grades, while a feature-based approach (LLM-extracted features into tree-based models) reached correlations up to r = 0.87, with grade level and word count the top predictors. The study offers a practical seven-step workflow for testing professionals and cautions that generalizability beyond K-5 math and reading is unclear. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** benchmarked 18 LLMs on 3,036 teacher-annotated diagnostic verdicts from handwritten math work, finding all models severely underperform (F1 < 0.5) with systematic over-attribution and hallucination of evidence — connecting to [[knowledge-tracing]], [[hallucination-risk]], and [[multimodal]] assessment challenges. **[[representation-robustness-llm-math-problem-solving|Nath et al.]]** showed that [[llm]] math [[problem-solving]] is highly sensitive to surface representation — models flip correctness across equivalent problem formulations — raising [[assessment-validity]] concerns for AI-based math scoring.
 **[[automated-scoring-economics-math-items-nigeria-2026|Olaoye, Owolabi and Olaoye (2026)]]** show a contrasting route to evaluating mathematical responses: their Automated Extended Essay Grading Software scores extended-response mathematical items in a senior-secondary Economics examination by semantic similarity against the WAEC marking scheme, with no training on graded scripts, and agreed with 12 human examiners at an intra-class correlation of 0.863 (average measures) with Pearson coefficients from 0.604 to 0.864. The agreement sits where the marks are lowest — the software averaged 5.94 out of 20 against 5.97 for the raters, each examiner marked only 84 of the 1,008 scripts, and the authors attribute the low scores to candidates' unfamiliarity with computer-based answering.
@@ -94,7 +96,6 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[chudziak-ai-math-tutoring-platform]] — AI-powered math tutoring platform (Chudziak & Kostka 2025)
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[zhang-tutormoments-2026]]

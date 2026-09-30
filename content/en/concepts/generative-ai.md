@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
@@ -31,8 +31,12 @@ Unlike earlier rule-based or retrieval-based systems, generative AI produces flu
 - **Simulated patients and case consistency.** A multi-expert annotated corpus of 4,815 student-AI messages from the MeduAI-SP platform ([[ai-standardized-patient-scaffolding-medical-2026|Yang et al., 2026]]) found that only about 0.68% of LLM-generated standardized-patient responses contained clear fidelity problems, and progressive disclosure was rated clinically appropriate in roughly 99.3% of patient messages. This supports the claim that generative-AI simulated patients can sustain case consistency and inquiry-dependent, non-premature disclosure under structured YAML scripting (qwen-max), making them a stable-enough environment for outcome research rather than only for plausibility demonstrations — while the system deliberately withheld diagnoses and [[summative-assessment|summative]] scores during learning.
 - **Assessment:** [[automated-essay-scoring|Essay scoring]], [[automated-assessment|automated grading]], and [[formative-assessment]] increasingly rely on generative models. [[benchmark|Benchmarks]] substantiate this shift for open-ended work: [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]] found that context-sensitive GenAI models (GPTo1 reaching almost-perfect agreement with human graders) sharply outperformed earlier sentence-embedding approaches on grading open-ended student responses, which relied on rigid reference matching and misclassified valid but differently-worded answers. [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] extend this to pre-clerkship [[medical-education|medical]] education, where GPT-4's scoring of open-ended questions reached substantial-to-almost-perfect inter-rater agreement with faculty (weighted kappa up to 0.94) — but only after humans iteratively refined the rubric across three rounds and remained in the loop to arbitrate discrepancies — while the most synthetic, holistic-rubric question stalled at moderate (κw = 0.54). This is evidence that generative assessment reliability is shaped as much by human rubric engineering and error-pattern analysis as by the raw model. Yet the same fluency does not generalize across item types: [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] found ChatGPT-5 matched human faculty on objective pharmacy-exam items (CCC 0.935–1.000) but not on short-answer (≈0) or essay (0.341–0.854) items, and a structured rubric did not reliably close the gap.
 - **Risks:** [[hallucination-risk|Hallucination]], [[cognitive-offloading|Over-Reliance]], [[cognitive-offloading]], and [[academic-integrity]] concerns arise specifically from generative AI's fluency and [[accessibility]].
+
+- **A learning-safety problem beyond output quality.** [[ssail-safe-sound-ai-learning-2026|Rahimi (2026)]] argues generative AI can raise the quality of a learner's work while performing cognitive work they need to do, so safety should be judged on the human-development trajectory — Learning Safety protecting competencies and Learning Soundness supporting their development — rather than accuracy, bias, or privacy.
 - **Effectiveness claims measure performance, not learning.** The field's largest estimate — a [[meta-analysis-systematic-review|meta-analysis]] of 69 studies reporting *g* = 0.7 for ChatGPT and similar tools — pools immediate task success rather than delayed, unassisted retention, so it is not evidence that generative AI produces [[learning-gains|learning]] ([[genai-performance-vs-learning|Yan et al., 2025]]).
 - **Learning environment generation:** Specialized generative models now turn a course brief directly into finished learning artifacts. [[cogevol-learning-environment-generation-2026|CogEvol (Tu et al. 2026)]], a family of models trained for single-pass generation of structured slides and self-contained interactive HTML pages, completes a slide in a median of 17 seconds and an interactive page in 59 — replacing minutes-long multi-turn [[agentic-ai|agent]] [[scaffolding]]. Reliability is enforced via a production pipeline that converts real failures into 53,687 verified SFT samples plus a hybrid rule-plus-VLM reward for GRPO-based RL. This positions generative AI as a content authoring engine with implications for [[teacher-role|teacher]] and [[curriculum-design|curriculum]] production workflows, and for evaluating whether AI-generated learning environments are functionally and pedagogically sound rather than merely visually polished.
+
+A census of educator tool use shows attention concentrated on production rather than instruction: image, audio, video and presentation tools made up roughly half of the 50 tools nominated by 211 educators across nine countries, while tutoring and chatbot tools formed the smallest teaching-facing group ([[typology-generative-ai-tools-education-2026|Bower, Torrington & Lai (2026)]]).
 
 ### The knowledge base's generative AI coverage
 
@@ -77,15 +81,10 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of GenAI learning outcomes
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI in programming learning
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
 - [[genai-performance-vs-learning]] — Performance vs. learning with GenAI
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitive discordance in GenAI completion
 - [[hazra-safetutors-pedagogical-safety-2026]] — Harms of AI tutoring agents
 - [[eduguard-safe-rag-llm-tutor]] — Guardrailing a safe RAG LLM tutor
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From substitution to scaffolding: breaking the harm cycle
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
-- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]

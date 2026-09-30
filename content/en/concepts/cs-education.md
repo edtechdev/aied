@@ -2,7 +2,7 @@
 connected_resources: [liascript]
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -62,6 +62,7 @@ The question "what should students still learn by hand?" now reshapes computing 
 
 - **From production to judgment: comprehension debt and AASEE.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]] argues the field should shift from a production-centered to a judgment-centered model, and extends comprehension debt — the deferred learning and maintenance cost when AI-assisted production outpaces a learner's ability to explain, test, modify, and justify the software — into an [[assessment]] lens, grounded in 621 reflective diaries from 207 students. The review refines the AASEE framework into five non-linear integration levels crossed by four evidence obligations — explain, verify, modify, and account — and reports a conditional evidence base: a STEM [[meta-analysis-systematic-review|meta-analysis]] with extreme heterogeneity (I² = 96.32%) loses its pooled benefit once publication bias is corrected, and syntheses of 76, 72, and 64 studies show short-term efficiency gains that do not [[transfer-of-learning|transfer]] to unaided performance.
 - **New pedagogies and assessment models:** [[test-driven-ai-assisted-learning|Test-Driven AI-Assisted Learning]] replaces lectures with [[self-directed-learning|self-directed]] AI-assisted study gated by weekly closed-book tests, preserving individual accountability while AI agents scale material production and marking under [[human-in-the-loop-ai|human oversight]].
+- **Teach the model's mechanics offline.** A practitioner resource suite teaches the full LLM training→generation pipeline unplugged — hand-tallied n-gram grids and dice-based sampling, no programming or mathematics assumed — and reports delivery to roughly 400 participants, with engagement beginning only at the generation stage ([[llms-unplugged-teaching-resources-2026|Swift (2026)]]).
 - **What predicts [[vibe-coding]] success — and what to keep teaching:** [[vibe-coding-writing-cs-achievement-2026|A preregistered CHI 2026 study (N=100)]] of pure "no-code" vibe-coding found that both computer-science achievement (r = .39) and written-communication proficiency (r = .29) independently predicted performance, with CS achievement remaining significant even after controlling for domain-general cognitive ability and contributing roughly twice the unique variance of writing skill. Because the environment hid generated code, CS knowledge could only help indirectly (problem decomposition, algorithmic thinking) — making the CS estimate a *lower bound* for AI-assisted workflows that also permit editing. The authors argue curricula should weigh written communication alongside CS fundamentals, rather than treating vibe coding as syntax mastery made obsolete.
 
 ### AI literacy, agency, and the risk of over-reliance
@@ -70,6 +71,8 @@ Because programming is where AI assistance is most powerful, it is also where th
 
 - **Trust ≠ appropriate reliance:** [[trust-reliance-ai-education-2026|Trust and reliance on AI (Pitts et al.)]] find that higher trust in an AI assistant predicted *worse* discrimination between correct and misleading suggestions during Python [[problem-solving]] — moderated by [[ai-literacy]] and need for cognition. Calibration, not confidence, is the goal.
 - **Epistemic AI literacy:** [[constructing-epistemic-ai-literacy-student-ai-co-programming|Wu (2026)]] shows that in student-AI co-programming, 78.8% of interactions relied on non-mastery-oriented aims and unreliable strategies (outsourcing, verification-seeking), with only 11.1% showing high epistemic engagement — genuine learning rarely emerges without deliberate design support.
+
+- **AI inquiries are narrow and generation-patterned.** Classifying 830 CS2 prompts against the Graesser taxonomy, [[student-ai-inquiry-types-cs2-2026|Amoozadeh and Alipour (2026)]] found assertion, verification, and instrumental prompts dominated both sessions, and that first-generation students asked fewer questions and leaned on verification while continuing-generation peers used the AI as an active problem-solving partner.
 - **Structural interventions against copy-paste over-reliance:** [[soft-barriers-copying-ai-programming-2026|Soft barriers for copying in AI-assisted programming]] evaluate lightweight design interventions (e.g., mechanisms that discourage blind copy-paste of AI output) and find they can reduce over-reliance without blocking AI assistance — evidence that the [[cognitive-offloading|over-reliance]] risk in CS education is amenable to instructional-design fixes, not just learner-education or bans.
 - **Teachable agents and productive practice:** [[chatgpt-teachable-agent-programming-lbt-2024|Learning-by-teaching with ChatGPT]] improved knowledge gains and code quality but undermined error-correction practice because the agent is too competent — a design lesson: make agents *deliberately fallible* so debugging is preserved.
 - **Assistance governance:** [[llm-programming-support-governance-cs-education|a scoping review of 90 systems]] introduces the **PEA framework** (Policy, Enforcement, Authority) for bounding and controlling LLM assistance — a comparative vocabulary for designing [[scaffolding]] that limits over-reliance.
@@ -142,7 +145,6 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)
 - [[tutortrace-learner-behavioral-states-2026]]
 - [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
-- [[zhan-chapman-genai-cs-education-2026]] — GenAI in CS education
 - [[code-review-genai-cs1]] — CS1 code review of AI-generated code
 - [[dura-llm-cs2]] — DURA: LLM assistants for CS2
 - [[reshaping-cs-education-genai]] — reshaping undergraduate CS curricula for GenAI
@@ -175,7 +177,6 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[soft-barriers-copying-ai-programming-2026]] — Copy-paste resistance in AI-assisted programming
-- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
 - [[zhang-ml-student-progress-programming-2026]]
 - [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in a software PBL course; throughput vs. comprehension
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education

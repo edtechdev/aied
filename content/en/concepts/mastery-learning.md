@@ -6,7 +6,7 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 reviewed_by: [editor]
 ---
 
@@ -61,7 +61,5 @@ Standards-based grading is the assessment counterpart to mastery learning, and [
 ## Connected Articles
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[neural-symbolic-knowledge-tracing]] — Injecting mastery/non-mastery rules into deep learning for responsible, interpretable learner modeling
-- [[simulating-learner-task-selection]] — Simulating how learner task-selection strategies and system constraints shape mastery-learning efficiency
-- [[memdora-ai-spaced-repetition]] — Cognitively grounded, AI-powered spaced repetition for sustaining retention after mastery
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[crediting-assisted-work-inflates-mastery-2026]] — Crediting assisted work inflates mastery: which evidence rule decides who is declared mastered (Srivastava 2026)

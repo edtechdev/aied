@@ -1,7 +1,7 @@
 ---
 title: "Pedagogical Partnerships"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -48,6 +48,8 @@ The intersection of pedagogical partnership and AI is one of the fastest-growing
 
 - **Students as co-designers of AI policy.** Rather than institutions imposing AI rules on students, partnership positions students as co-creators of course- and institution-level AI policy. For example, a guided-inquiry activity in which students co-designed a [[generative-ai]] course policy surfaced student priorities around training, standardized disclosure, institutional support, and involvement in decision-making ([[guided-inquiry-genai-course-policy-2026]]).
 - **Students as co-creators of AI tools.** In students-as-partners frameworks, students have co-designed and refined custom AI [[conversational-ai|chatbots]] aligned with pedagogical goals — an approach that extends the SaP paradigm to include AI tools themselves and positions student voice as central to responsible AI innovation ([[lo-co-creating-custom-gpts-sap-2026]]).
+
+- **Whole-class co-design, evaluated by self-assessment.** A first-year information-studies program had students and faculty co-design course goals and policies in the first week and revisit them through the term, with students grading themselves and their groups against personal goals, team goals and a shared rubric rather than final products ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
 - **Co-creation in assessment and AI.** Student-staff partnerships have co-evaluated AI-generated output in coursework assessments and co-designed evaluation criteria, improving understanding of AI's benefits and limits and supporting [[self-regulated-learning]] ([[williams-ingle-assessment-co-creation-ai-2025]]).
 - **Partnership to preserve pedagogical trust.** In the face of AI-driven uncertainty and "AI shame," partnership practices that nurture *pedagogical trust* — a confident, reciprocal learning relationship open to uncertainty and co-navigated through dialogue — offer a way to sustain the relational core of education ([[matthews-five-guiding-principles-ai-sap-trust-2025]]).
 - **Youth as co-designers of AI systems.** Participatory design approaches engage historically minoritized students as partners in designing the AI systems that will affect their classrooms, surfacing students' values and [[ethics|ethical]] commitments ([[chang-co-designing-ai-youth-relational-privacy-2025]]).
@@ -117,4 +119,3 @@ For educators and institutions seeking to adopt pedagogical partnership, the kno
 - [[anastasia-shared-agency-partnership-framework-2026]] — Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration
 - [[maybee-disruptive-partnerships-sap-2025]] — Disruptive Partnerships: Collaborating with Students in Information Studies
 - [[student-centered-genai-responsible-framework-2026]] — Student-centered framework for responsible generative AI use
-- [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community

@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
@@ -76,6 +76,5 @@ Problem solving is the applied outcome of [[critical-thinking|critical thinking]
 - [[genai-feedback-design-multisite-experiment]] — Reflective/hybrid feedback outperforms direct AI on delayed transfer
 - [[dai-chatbots-problem-posing-primary-2026]] — Chatbots improve primary students' problem posing in inquiry-based learning
 - [[llm-computational-thinking-physics-2026]] — LLMs as scalable assessors of computational problem solving in physics
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[rachatasumrit-example-problem-ratio-2026]]

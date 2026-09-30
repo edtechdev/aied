@@ -1,7 +1,7 @@
 ---
 title: "Latent Profile Analysis"
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:53:03-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
@@ -91,4 +91,3 @@ Four cautions, each stated in the source pages:
 - [[liang-ai-learning-motivation-sdt-2026]] — Latent transition analysis of three motivation profiles over a year
 - [[trust-in-ai-psychological-profiles-ml-2026]] — K-means profiles; silhouette vs. Calinski–Harabasz disagreement; ARI 0.989
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Hierarchical and k-means clustering into four GenAI adoption personas
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Person-centered LPA combined with variable-centered comparisons

@@ -5,7 +5,7 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:53:03-04:00"
 reviewed_by: [editor]
 ---
 
@@ -60,7 +60,6 @@ Across the works discussed here, visualization emerges as a dual-use medium: AI 
 ## Connected Articles
 
 - [[interactive-learning-dashboards-engagement]] — Rethinking learning visualizations as engagement tools via pedagogical agents
-- [[wordstream-glass-learning-analytics]] — Quantitative encoding of qualitative learning analytics
 - [[mllm-scientific-visualization-literacy]] — Benchmarking multimodal LLMs for scientific visualization literacy
 - [[nuclear-diffusion-text-to-image-learning-2026]] — Domain-adapted text-to-image models for nuclear concept visualization
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Effectiveness, benefits, and ethics of AI-assisted data comics

@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:53:03-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -65,6 +65,8 @@ The choice of metric is definitional: a study that measures engagement as *time-
 - **Behavioral telemetry from learning [[edtech-platform|platforms]]:** [[engagement-forecasting-its|Effort and progress forecasting]], [[learning-engagement-assistant-lea|Learning Engagement Assistant]], [[engagement-assessment-video|video engagement assessment]], and [[interactive-learning-dashboards-engagement|learning dashboards]] translate behavioral and physiological signals (attention, activity, persistence) into engagement metrics used for adaptive feedback and instructor intervention.
 
 - **Physiological sensing adds a modality — and a baseline problem.** [[e3sense-multimodal-learner-engagement-sensing-2026|E3Sense]] co-locates dry-electrode EEG, eye-tracking glasses, and forehead electrodermal electrodes on the head and predicts 450 segment-level engagement ratings from 30 university participants on a five-level ordinal scale: AdaBoost over the fused [[multimodal]] representation reached 75.0% balanced within-one-level accuracy against 63.0% for always predicting the most common rating. The narrowness of that gap is the point — within-one credit hands a sensor-free baseline most of its score on skewed ratings — and asking learners what engagement means to them moved the same measure from 64.6% to 71.5%, evidence that the [[self-report-measures|self-report]] label, not only the sensor, decides what such analytics can claim.
+
+- **Fairness constraints need held-out subjects to hold.** A multimodal attention estimator's gender-targeted regularizer cut the validation MAE gap from 0.02 to 0.005 but increased both the gap and worst-group error on held-out subjects, so subgroup-aware, repeated subject-level validation belongs in any engagement-sensing claim ([[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]]).
 
 - **Engagement as a learner-modeling signal:** [[engagement-intensity-learner-modeling|Engagement intensity as a learner-modeling signal]] uses engagement strength to inform adaptive AI systems, positioning engagement metrics as inputs to [[student-modeling]] and [[adaptive-learning]] rather than merely evaluation outputs.
 
@@ -133,10 +135,8 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[engagement-assessment-video]] — Engagement Assessment in Video Learning
 - [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress
 - [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Engagement
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Affective gains common but weak indicators of learning
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
 - [[chatbot-engagement-genai-competency-emotion-2026]] — GenAI competency and emotion as drivers of chatbot engagement (Zhao et al. 2026)
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
 - [[gpt4-feedback-student-activation-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -50,6 +50,7 @@ Across the knowledge base's [[rct|RCTs]], [[meta-analysis-systematic-review|meta
 - **Well-designed [[intelligent-tutoring|AI tutors]] produce real gains.** A two-year cluster RCT ([[one-click-away-khanmigo-two-year-school-experiment-2026|Khanmigo]]) found AI tutoring raised math achievement ~1.3 national percentile ranks per term (~0.06–0.08 SD/school year, ~0.14 SD for a full year), gains resembling practice without AI — demonstrating that *engagement*, not model capability, is the binding constraint. [[making-ai-tutoring-productive-mastery-math-2026|NUMI]] showed AI support improved next-attempt correctness after mistakes with more time per question — a "productive slowdown" that builds durable mastery. [[virtual-tutoring-computer-assisted-learning-takeup-2026|Virtual tutoring]] found the binding constraint is take-up and sustained participation, not tutor quality.
 - **A tutor built from the class's own pedagogy beat active learning, not just lecturing.** In a crossover [[rct]] in Harvard's introductory physics course, students learning from a custom AI tutor scored a median 4.5 on the post-test against 3.5 for the course's in-class active-learning lessons (baseline median 2.75), with a linear-regression effect size of 0.63, and spent a median 49 minutes on task against 60 in class ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]). Because the control was research-based active learning rather than a lecture, the trial measures the tutor against a demanding comparator — the design the authors credit was engineering the tutor from the same research-based practices as the class, plus personalized feedback on demand and self-pacing.
 - **AI can match human help.** [[chatgpt-hints-human-tutor-learning-gains-2024|ChatGPT-generated help]] produces learning gains equivalent to human tutor-authored help on [[math-education|mathematics]] skills — evidence that generative AI can be as efficacious as human [[scaffolding]] when used appropriately.
+- **Gains depend on who is teaching with it.** Low-experience tutors given AI support raised student pass rates by 9 percentage points, with smaller gains for more experienced tutors — an augmentation pattern that boosts the least experienced most ([[oecd-digital-education-outlook-2026|OECD, 2026]]).
 - **Unguarded AI can harm learning.** The guardrail RCT ([[generative-ai-guardrails-harm-learning|PNAS 2025]]) found an unguarded ChatGPT-style tutor raised assisted practice +48% but *reduced* unassisted exam scores −17%, while a guardrailed (hint-not-answer) tutor eliminated the harm. This is the sharpest demonstration that **learning efficacy is design-contingent**: the same class of tool can be a strong learning gain or a net harm depending on how it is configured.
 - **Perceived vs. actual efficacy diverge.** [[ai-literacy-assessment-misalignment|Self-reported performance misaligns with measured performance]], and [[absent-cognitive-baseline-2026|the absent cognitive baseline]] shows AI-native students overestimate their learning — so efficacy claims based on self-report are unreliable without objective outcome measures. [[self-report-measures]] collects the cases where reported and measured outcomes come apart.
 
@@ -125,11 +126,9 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 ## Connected Articles
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
 - [[genai-performance-vs-learning]] — why assisted performance is not a learning outcome (Yan et al. 2025)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
 - [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
 - [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming

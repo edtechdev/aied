@@ -1,7 +1,7 @@
 ---
 title: Activity Theory
 created: "2026-08-26T08:20:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:53:03-04:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -81,7 +81,6 @@ For designers and educators, activity theory counsels looking beyond the AI tool
 - [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI use and disclosure through an activity theory lens
 - [[genai-runaway-object-math-higher-ed]] — CHAT analysis of GenAI reshaping teaching and research activity systems
 - [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics fusing ecological systems theory with CHAT
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — CHAT framing of AI interventions for students with disabilities
 - [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity theory as a lens on teachers' adoption of AI (SEM)
 - [[lee-anson-k12-teachers-ai-activity-theory]] — K-12 teachers' perspectives on AI use through activity theory
 - [[ai-disruption-engineering-education-chat-2026]] — Changing student norms in engineering education via CHAT

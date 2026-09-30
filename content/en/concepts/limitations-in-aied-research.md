@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -42,6 +42,7 @@ The knowledge base's [[research-methods-aied|research methods]] page details the
 - **Validity and measurement.** [[assessment-validity|Construct validity]] is often thin: proxies for "learning," "[[student-engagement|engagement]]," or "literacy" vary widely, and instruments are not always validated for the population or construct being studied. [[benchmark|Benchmark]] accuracy does not equal educational effectiveness.
 - **Self-report and survey data.** A large share of the corpus relies on self-reported attitudes, motivation, and usage. Self-report is subject to bias — respondents overestimate competence, under-report [[ai-misuse-learning-harm|misuse]], and misjudge their own behavior — so perception-based measures frequently diverge from objective performance (see [[ai-literacy-assessment-misalignment]] and [[educational-measurement]]).
 - **Context and validation reporting can be quantified across a literature.** A PRISMA-ScR review of 421 studies of NLP on teaching-evaluation comments found country unresolved in 221 studies, single-institution scopes in 232 of 284 resolved cases (81.7%), external validation in 33 (7.8%) and inter-annotator agreement in 54 (12.8%) ([[nlp-student-evaluation-teaching-scoping-review-2026|Eicher & da Silva (2026)]]).
+- **Reporting richness is measurable, and method type predicts it.** In 888 review-automation papers, 38.0% of software/product papers since 2023 reported no evaluation against 9.3% of LLM papers, and 52% of 118 positive-only LLM papers still flagged an unmet reliability bar — the pattern behind PRISMA-LLM's five disclosure tiers ([[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta & Lin (2026)]]).
 - **Standardizing within each dataset can hide a misstatement of spread.** When synthetic educational cohorts were standardized by their own dispersion, the fact that their weekly structure varied 2.6 to 4.9 times less than the real cohorts' became invisible to the reported statistics - routine preprocessing, in the authors' words not a hypothetical worry ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake, 2026]]).
 
 - **Model-generated labels are not ground truth.** Where the labels that train or evaluate a system are themselves produced by language models, agreement between annotators cannot establish validity: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] never validated their assertion annotations against human gold labels, and the 49 encoder classifiers they release inherit that provenance and may not be valid where applications differ in significant dimensions. Their schema also strictly underperformed the fine-tuned classifier trained on expert-annotated data (macro-F1 0.673 against 0.76), leaving expert-labeled corpora worthwhile when high confidence is required.

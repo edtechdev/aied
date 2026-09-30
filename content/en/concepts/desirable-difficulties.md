@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -62,6 +62,8 @@ Because AI is designed to be frictionless — instantly generating summaries, so
 The central tension for AI-supported learning is that [[generative-ai|generative AI]] is, by default, a friction-removing technology: it answers, generates, and produces polished artifacts on demand. Across the knowledge base, this plays out in two directions:
 
 - **The cost of removing struggle.** When AI erases spacing, retrieval, and generation, learners may show immediate performance gains but forfeit durable learning and transfer. This connects directly to the [[cognitive-offloading|Over-Reliance]] and [[ai-misuse-learning-harm]] findings: an AI that removes desirable difficulty produces the performance–learning gap documented across the knowledge base's evidence base. [[agentic-ai-pedagogical-best-practice-2026]] calls explicitly for intentional friction. [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui's (2025)]] randomized trial gives the principle a direct delayed test in an AI setting: 120 undergraduates who studied AI/ML topics with unrestricted ChatGPT scored 57.5% on a surprise retention test 45 days later against 68.5% for traditional learners (t(83) = −3.19, p = .002, Cohen's d = 0.68), and the deficit held with study time as a covariate (F(1, 82) = 7.89, p = .006). The impairment was largest on technical topics (d = 0.92) — the material where AI offered the most assistance, and where the struggle the principle says is productive is most needed.
+
+- **Same model, two guardrails, opposite outcomes:** students given unrestricted GPT-4 used it as a crutch and performed worse than controls once it was removed, while students given a guardrailed tutor performed like controls — friction, not the model, decided whether the tool helped ([[young-people-learning-generative-ai-rapid-review-2026|Arthars et al. (2026)]]).
 - **Designing struggle back in.** Instructional designs can deliberately preserve productive processing: draft-first routines, hint-not-answer tutoring, delayed feedback, and teach-back/explanation protocols. These are the concrete scaffolds explored under [[reducing-ai-misuse]] and [[structured-llm-feedback-programming]]. A 2026 conceptual extension ([[friction-paradox-generative-ai-education-abroad-2026|Gupta]]) pushes the same logic beyond structured academic tasks to difficulty inside relational encounters: in education abroad it argues the educational question is not how much generative AI is present but which difficulties it dissolves, and proposes a *mediation gradient* that orders uses by the interpretive [[agency]] transferred to the system rather than by volume of use.
 
 **The inverted U and the effort paradox.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] supply the sharpest recent statement of why AI's friction-removal is not automatically good. They distinguish AI from earlier labor-saving [[ai-technologies|technologies]] on two grounds: it targets intellectual and creative work rather than physical or clerical work, and its friction removal is *extreme* — prior technologies eliminated excess friction, "tedious or insurmountable obstacles that offer little benefit for learning or meaning", whereas a chatbot lets a learner move from ideation to evaluation "without exerting meaningful effort, without questioning the output, and without engaging the cognitive processes that foster ownership, retention, or critical thought". Their organizing claim is that the effort–meaning relationship is curvilinear: moderate friction enhances meaning and motivation while excessive friction overwhelms, so AI's risk is overshooting into too little friction rather than excess. Two consequences matter pedagogically — effort is itself a trainable skill (rewarding process rather than product increases the tendency to strive and persevere), and the motivational benefits of effort erode in exactly the domains where AI substitutes for it, producing a cycle of increasing dependence ([[cognitive-offloading]], [[motivation]]).
@@ -107,11 +109,8 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[sequenced-ai-feedback-learning]]
 - [[critical-thinking-genai-scaffolding]]
 - [[epistemic-emotions-collaborative-problem-solving]]
-- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific AI preserves productive struggle vs. general-purpose chatbots
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Productive friction built into GenAI tools supports learning
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle

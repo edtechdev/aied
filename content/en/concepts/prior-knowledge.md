@@ -1,7 +1,7 @@
 ---
 title: Prior Knowledge
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
@@ -39,6 +39,7 @@ Generative AI has made prior knowledge a central design consideration rather tha
 
 - **The bypass risk.** [[agentic-ai-pedagogical-best-practice-2026|Proactive agentic AI]] that pre-fetches and surfaces content can bypass the retrieval practice that activates prior knowledge — the learner never has to recall or integrate what they know before receiving an answer. This is one of the six pedagogical risks identified in the [[agentic-ai|agentic]]-education best-practice framework, and it connects directly to [[cognitive-offloading|Over-Reliance]] and the [[desirable-difficulties]] principle that effortful processing supports durable learning.
 - **Prior knowledge shapes the pattern of offloading, not only outcomes.** In a synthesis-writing study the high-knowledge, minimal-offloading cluster authored 80% of its essay against 2% for the heaviest offloading cluster (mean 25.1 prompts), so prompt volume tracked prior knowledge rather than effort ([[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]]).
+- **The benefit gap compounds.** Because productive AI use depends on what a learner already knows, students with stronger prior knowledge leverage it better while novices are the most likely to treat it as a substitute — a distributional risk that can widen achievement gaps even when access is equal ([[lodge-loble-cognitive-offloading-2026|Lodge & Loble (2026)]]).
 - **Priming and activation as design.** [[genai-mindtool-generative-learning|GenAI mindtool approaches]] deliberately "prime the learning task" by activating prior knowledge and curiosity through prompting questions, AI-generated visuals, and analogies (e.g., "What do you already know about ecosystems?") before introducing new content — modeling the retrieval-and-integration path rather than the answer-supply path.
 - **Student modeling and memory.** AI systems increasingly model learners' prior-knowledge state and longitudinal memory (e.g., incorporating prior-knowledge state and forgetting curves into tutoring memory), enabling spaced repetition and adaptive review that build on what each learner already knows.([[nie-personavlm-long-term-personalization-2026]])
 - **A personalized-adaptation lever.** Because learners differ widely in prior knowledge, adaptation must be tuned to the individual — a core argument for [[personalized-learning]] and adaptive [[scaffolding]] that meet learners at their actual current state rather than a class-average assumption.

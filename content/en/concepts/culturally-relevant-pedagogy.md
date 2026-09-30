@@ -1,7 +1,7 @@
 ---
 title: Culturally Relevant Pedagogy
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -85,7 +85,5 @@ Grounded in the knowledge base's own articles, educators and designers can apply
 - [[cross-cultural-student-perceptions-genai-computing]] — Cross-Cultural Perceptions of GenAI Use
 - [[international-students-conversational-ai-adaptation]] — International Students and Conversational AI
 - [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamese Lesson Planning
-- [[taklif-ai-interest-based-personalized-assignments]] — Taklif: Interest-Based Personalized Assignments
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 - [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
 

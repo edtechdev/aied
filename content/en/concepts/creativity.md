@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -83,15 +83,9 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 ## Connected Articles
 - [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Axiom-grounded scaffolding for literary creation: premises as the unit between theme and text, validated only in plan (Liu & Zhao 2026)
-- [[powerful-learning-with-emerging-technology-2025]] — Scaffolding creativity instead of completing it
-- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
-- [[rana-genai-design-thinking-2025]]
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review
-- [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
-- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
-- [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
 - [[t2i-competence-paradox-2026]] — The competence paradox of text-to-image AI among art and design students
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported inquiry-based learning and creative mathematical performance
 - [[flowcode-ai-creative-coding]] — Flowcode: an AI-powered environment scaffolding iteration in creative computing

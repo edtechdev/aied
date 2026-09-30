@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Multilingual Learning
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-09-19T06:35:00-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
@@ -42,6 +42,8 @@ Multilingual AI must go beyond translation to reflect [[culturally-relevant-peda
 ## Assessment bias
 
 Multilingual concerns also affect [[automated-assessment|automated assessment]]: [[ai-scoring-language-bias-physics|AI scoring can exhibit language bias]] (e.g., in [[physics-education|physics]]), penalizing non-native speakers. Ensuring assessment tools are fair across languages is part of [[assessment-validity]].
+
+LLM-based comparative judgment is a case where bias tracked the human baseline rather than the model: scores for Grades 3–6 informational writing converged with researcher rubrics (r = .59–.73) and showed predictive-bias patterns for multilingual learners similar to human scoring, with no evidence that greater model capability or cost improved validity ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
 
 ## Implications for instructors in multilingual contexts
 

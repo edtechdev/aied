@@ -1,7 +1,7 @@
 ---
 title: Training Pedagogical LLMs for Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -84,6 +84,9 @@ Two complementary post-training strategies for embedding pedagogy into foundatio
 
 **Synthesis:** LearnLM shows that instruction following + RLHF is a viable route when training data is scarce; TeachLM shows that when authentic longitudinal interaction data *is* available, post-training on it directly outperforms both prompting and synthetic-only data. Together they frame the pedagogical-training design space as a choice between scalable instruction-conditioned post-training and data-driven fine-tuning on real tutoring interactions.
 
+
+Post-training can target the pedagogical decision rather than the next utterance: a tutor trained on a 13-strategy taxonomy and a two-axis student-move taxonomy gained 20.30 points over its Qwen3.5-4B backbone, and its diagnostic benchmark withholds the learner-state labels available only during training so the model must infer state from the dialogue ([[tact-pedagogically-adaptive-esl-tutoring|Yang et al. (2026)]]).
+
 ## Rubric-guided prompting as a lightweight alternative
 
 Not all pedagogical shaping requires retraining. [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] showed that rubric-guided prompting — treating the rubric as a semantic interface between human pedagogical intent and machine inference — can push a general-purpose LLM toward human-like [[evaluative-judgment|evaluative judgment]] without fine-tuning: iterative rubric co-refinement raised LLM–human agreement on student design work from 54.75% to 81.25% (Cronbach's Alpha 0.393 → 0.798), and role-aware prompting (instructor, peer-reviewer, grant-reviewer) produced distinct evaluative feedback. This complements the training-based approaches above: where TeachLM argues prompt engineering is a stopgap and authentic-data post-training is the scarce ingredient, Yaşar et al. demonstrate that a well-engineered rubric can itself be a powerful, low-cost lever for aligning LLM evaluation with pedagogical intent — though [[human-in-the-loop-ai|human-in-the-loop]] oversight remains essential, as models can still misinterpret nuance, hallucinate rationale, or blend roles. A further lightweight alternative is prompt-level role-play customization without retraining: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang and Zhang (2025)]] used the OpenAI custom-GPT feature to simulate a misconception-holding middle-school math student, and found that a refined, literature-grounded prompt (specifying three ratio-reasoning [[misconceptions]]) elicited the target conceptual errors far more reliably than a broad algebra prompt (0.98 vs. 0.40 presence) — evidence that careful prompt design can substantially steer an off-the-shelf model toward a desired pedagogical persona, even while the simulated agent retained authenticity limitations (teacher-like tone, role confusion).
@@ -113,6 +116,7 @@ Training for pedagogy is not just about accuracy — it is a **safety interventi
 - **Grounding and validation can substitute for — or complement — training.** [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] found that a frontier *untrained* GPT-4 produced ~35% too-general, incorrect, or answer-revealing hints when authoring ITS feedback, and that its own automated quality checks misaligned with human judgment — leading the authors to conclude that LLMs lack an internal model of instruction and that robust validation or domain-specific training is required before unsupervised learner-facing use, supporting the case that grounding and quality control are themselves pedagogical interventions alongside reward design.
 
 - **A ceiling on what post-hoc training and prompting can fix.** [[educational-llm-alignment|Hardy and Kim (2026)]] find model and prompt choice account for only about 15% of the misalignment between LLMs and student learning gains — the rest shared across models — and benchmark-weighting and unanimous-voting ensembles worsened alignment, so pretraining data is the dominant lever.
+- **Supervise by capability, not by source.** [[omniedu-open-educational-foundation-models-2026|Liang et al. (2026)]] assign every example one target behavior — subject competence, curriculum grounding, diagnostic reasoning, or scaffolding — plus one task-specific instruction, lifting every scale with the largest gains in scaffolding and in using a learner's history, while knowledge-state diagnosis stayed weakest at 54.04%.
 
 ### Sycophancy reduction as a training objective
 
@@ -146,14 +150,9 @@ Because tutoring requires corrective friction — challenging a student's incorr
 
 ## Connected Articles
 
-- [[zerkouk-comprehensive-review-its-2025]]
 - [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]]
 - [[contextual-sycophancy-ai-literacy]]
 - [[educational-llm-alignment]]
-- [[llm-tts-dialogue-lesson-generation]]
-- [[multimodal-learning-genai]]
-- [[neural-symbolic-knowledge-tracing]]
-- [[nsmq-riddles-science-math-benchmark]]
 - [[singh-eduqwen-pedagogical-rl-2026]]
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
 - [[tact-pedagogically-adaptive-esl-tutoring]]

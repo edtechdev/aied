@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack]
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -78,8 +78,6 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[legal-issues-and-risks]] — the umbrella page for over-broad rules, defective evidence and reasonable adjustment
 - [[arts-design-and-media-education]]
 ## Connected Articles
-- [[powerful-learning-with-emerging-technology-2025]] — Accessibility as a learner-centered requirement
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 - [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analysis of AI interventions for students with disabilities
 - [[adhd-video-segmentation-computing-education]] — AI-segmented videos with fixed pauses

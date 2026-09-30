@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -133,7 +133,6 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementing AIDA at the Open University
 - [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: Leading for Transformative Change
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Students' Engagement With GenAI (SDT)
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment Redesign
 - [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
 - [[genai-declaration-frameworks-higher-education]] — AI declaration frameworks

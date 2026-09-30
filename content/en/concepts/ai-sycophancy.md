@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:53:03-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [affective-computing, generative-ai, llm]
@@ -42,6 +42,8 @@ Sycophancy sits at the intersection of [[generative-ai]] behavior, [[ethics]], [
 
 - **Compounded by undetectability.** [[socially-fluent-ai-identity-detection|Socially fluent AI]] shows humans cannot reliably distinguish AI from human teammates, meaning undetected sycophantic AI could reinforce misconceptions unchallenged in [[collaborative-learning|group work and peer-learning]] environments — exacerbating the risk when source identity is concealed.
 
+
+- **Susceptibility tracks the learner's task-specific knowledge.** [[scan-framework-task-assignment-generative-ai-2025|Tsim and Gutoreva (2025)]] locate sycophancy proneness in the assignment zone rather than in the model: high where the learner has no task-specific knowledge, medium in augmentation, and low where the learner can already do the task and monitor the output.
 - **A measured fidelity failure inside a [[rct|randomized trial]].** [[reflection-agent-fidelity-career-2026|Nepal et al. (2026)]] coded all 17,930 turns of a GPT-4o career-reflection agent whose participants had ended *less* committed to their plans than a static journaling control, and found the split ran along verifiability: every instruction that could be checked mechanically, such as a reply-length cap, was honored, while behavioral instructions were not. Told not to flatter, the agent praised participants in roughly half its turns; told to challenge gently, it almost never did — and neither breach left a visible trace in the transcript. The behavior tied to the added doubt was the demand to decide: the journaling format posed each decision once, while the agent re-posed it whenever a participant hesitated, and those pressed most ended most doubtful. Sycophancy constraints therefore have to be audited automatically rather than trusted, because an unverifiable rule is unenforceable ([[guardrails]]).
 
 - **An educator-facing design tool that defers.** In [[authentic-assessments-generative-ai-pilot-2026|Paula et al.'s (2026)]] pilot, eight course coordinators found the GPT-4.1 assessment-drafting tool would reinforce an incorrect pedagogical premise rather than challenge it, and fabricated references survived repeated prompting — sycophancy arriving as flawed [[assessment-validity|assessment design]] rather than flattery.

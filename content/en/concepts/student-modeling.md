@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
@@ -33,6 +33,8 @@ These concepts answer "what does this learner know, feel, and need?" — the rep
 - **A causal formalism for learner models.** [[causal-modeling-competency-assessment-2026|Mangili et al. (2026)]] replace noisy-gate Bayesian networks with structural causal models elicited from experts, making hints explicit endogenous variables so the model can ask what a student would have answered without the help they used — slightly less predictive, but capable of counterfactuals associative models cannot express.
 
 The study of [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] illustrates that faithful representation does not require the most complex model family: a lightweight, intrinsically interpretable decision-tree student model — built from course content-interaction features rather than rich telemetry — predicts module-level progress in large-scale online [[cs-education|programming]] courses (85–91% accuracy) and separates disengaged at-risk, disengaged-but-successful, and engaged high-performer [[student-engagement|engagement]] profiles, supporting [[learning-analytics]] early-warning at scale.
+
+A predictive learner model can rest on the structure of enrollment rather than trace data: TRACE encodes each semester as an unordered basket of courses and predicts the course set and grades together, cutting grade-prediction error to 0.1339 MAE — 46.4% below a grades-only model — across 5,326 students and ten years ([[trace-course-grade-prediction-2026|Savala (2026)]]).
 
 Student models can also be built purely from behavioral traces and still support adaptation. [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] derived three engagement profiles — Observation, Construction, and Exploration — from the clickstreams of 315 online learners building 822 ecological models in VERA, without any demographic or contextual data, and showed these profiles predict model quality (Exploration yields the most complex and diverse models, while Observation is dominated by copied rather than original models). Such engagement-level characterizations are the coarse-grained student models that the [[adaptive-learning|adaptive-instruction]] layer can consume to target feedback.
 Affective student modeling is a further dimension: a math tutor inferred emotion from conversational text and facial expression and mapped the aggregated state to tutoring strategies, but the multimodal fusion reached only 60% accuracy against participants' own annotations, making the affect read the pipeline's weakest link ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
@@ -73,9 +75,15 @@ Hidden misconceptions show the same failure from the other side: [[correct-answe
 ## LLM-era modeling
 
 Recent advances use [[llm|LLMs]] for richer modeling. The [[xie-hillm-cd-2026|HiLLM-CD framework]] represents students as proficiency trees; [[multimodal-knowledge-graph-educational-reasoning|multimodal approaches]] construct evidence-grounded knowledge representations from diverse data sources; [[inside-llm-student-simulator-reasoning-2026|LLMs now simulate students with reasoning]]. LLMs enable automated model construction from educational text and higher-fidelity [[simulating-students|student simulation]], reducing reliance on expert annotation — while sharpening the fidelity concerns above. Learner-model signals also *ground* LLM reasoning: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] found that feeding GPT-4 a student's Bayesian [[knowledge-tracing]] skill estimate along with the tutor's interface structure sharply improved its error diagnosis (logical-error identification rising from 40% to 81% on factoring; ~87.8% overall), while multi-step problems and responses containing several errors remained the weakest cases — evidence that coupling a formal learner model to an LLM strengthens, but does not guarantee, sound inference about a real student. [[colearn-agentic-tutor-co-learning-loop-2026|CoLearn (He et al., 2026)]] shows what a persistent version of that coupling looks like: mastery and mined misconceptions are stored per (learner, subject) rather than as per-session logs, so evidence accumulates across sessions, and the memory is written by an LLM-graded observation function while staying inspectable to the learner through mastery bars and a label naming what each generated question was chosen to probe. Its controls make the writing step explicit — with the memory read but no longer updated, the share of items aimed at a genuinely weak skill fell from 0.72 to 0.57 — and it keeps this page's qualification intact: the stored mastery is the agent's belief about the learner, not a measurement of their knowledge.
+Language can replace ID embeddings as the representation: PLCD builds LLM-derived concept schemas and exercise process graphs as priors, reaching 83.51% accuracy on XES3G5M, with largest gains in cold start — 4.60 ACC points over KCD for new concepts and 4.00 for new exercises — where ID-based models have no history ([[process-grounded-language-cognitive-diagnosis-2026|Liu et al. (2026)]]).
+
+
+Simulator quality separates into two axes: a pool-then-specialize pipeline that trains shared behavioral patterns before a per-student adapter reached behavioral fidelity 0.51 and guidance responsiveness 0.91 in chess, against 0.23 and 0.72 for a frontier role-play baseline, showing a simulator must both match a student and be steerable ([[studentsim-llm-student-simulators|Yang et al. (2026)]]).
 
 Risk scores can be accurate yet unsupported: [[at-risk-students-ml-prediction|Gheisari and Salarian (2026)]] reached 99% accuracy predicting withdrawal from enrollment and performance records, but on a single institution's 1,027 cleaned records with no external validation, no intervention tested, and fairness audits named as future work — the score supports triage, not a verdict about a student.
 
+
+A learner model that only predicts risk is not enough for decision support: coupling a calibrated at-risk model with integer-programming recourse over discrete actions — validated against timing, budget, immutability and availability constraints — produced compact intervention plans where optimization alone accepted unenactable ones ([[sc2r-counterfactual-recourse-educational-2026|Le, Abel & Laforge (2026)]]).
 ## Connections to other concepts
 
 Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[visualization|dashboards]] and interventions), [[formative-assessment]] (analytics-driven assessment), and [[feedback]] (what the system tells the learner). It connects to [[ai-education]] as a core strand of AI for education.
@@ -105,25 +113,18 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[vi
 - [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[learning-context-framework-context-aware-ai-education-2026]]
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[yasir-llm-tutoring-agents-2026]] — LLM tutors over-reject valid-alternative, over-validate incorrect (Yasir et al. 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[multimodal-item-parameter-estimation-2026]]
 - [[at-risk-students-ml-prediction]]
 - [[correct-answer-trap-misconceptions]]
 - [[cross-subject-validity-delayed-start]]
 - [[edumirror-educational-social-dynamics]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[llm-item-difficulty-prediction]]
 - [[multimodal-knowledge-graph-educational-reasoning]]
-- [[proprl-prerequisite-relation-learning]]
-- [[simulating-students-java-programming-errors-llms]]
-- [[skill-acquisition-without-temporal-info]]
 - [[xie-hillm-cd-2026]]
 - [[inside-llm-student-simulator-reasoning-2026]]
 - [[trace-course-grade-prediction-2026]]
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for multi-turn evaluation
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
@@ -135,7 +136,4 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[vi
 - [[zhang-ml-student-progress-programming-2026]]
 - [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — compact learner state plus a calibrated tracer as a recommender environment
-- [[misconception-acquisition-dynamics-llms-2026]] — the Expert Tutor Misconception Model as a computational analogue of knowledge of student misconceptions
-- [[llm-distractor-generation-student-reasoning-2026]] — modeling incorrect reasoning rather than correctness
-- [[swim-student-writing-simulation-2026]] — proficiency-conditioned modeling of student writing
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop

@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
@@ -84,6 +84,7 @@ This mirrors the [[icap-framework|ICAP]] hierarchy — constructive and interact
 - **Constructive conflict** — adversarial AI agents that challenge a learner's design or reasoning, prompting reconsideration and deeper construction of alternatives, in the tradition of Socratic tutoring.([[ai-agents-constructive-conflict-design-education-2026]])
 - **Internal feedback via comparison** — having learners compare their own work against AI-generated exemplars so that the act of comparison itself generates learning.([[ai-internal-feedback-evaluative-judgments]])
 - **Question-type-aware prompting** — classifying learner questions into constructivist roles so the system can deliberately escalate a student from information-seeking toward exploratory, dialogic inquiry instead of mirroring whatever cognitive depth the question implies. Because facilitator and co-learner intent remain confusable for automated classifiers, this design keeps a human validating the categorization before it drives [[feedback]] or [[scaffolding]].([[lee-learner-question-types-ai-education-2026]])
+- **Community as the evaluative standard** — learners design something real for their community using AI as a design resource, while community knowledge and community practitioners serve as the standard that judges the outcome, leaving room for limitation, refusal, or strategic non-use where critical engagement requires it.([[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]])
 
 ## Constructivism and "education about AI"
 
@@ -125,8 +126,6 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[mishra-control-vs-agency-history-2025]] — Positions constructionism (Papert) against cognitive tutors in AIED history
 - [[code-to-learn-genai-artifact-construction-2026]] — Code-to-Learn with GenAI: constructionism framework for artifact construction
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory and measurement program for learning-by-construction with GenAI
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 - [[ai-vocational-education-training-review]] — Constructivism espoused but behaviorist AI dominates in VET; the "Turing Trap"
 - [[generative-refusal-ai-tools-for-thought]] — AI tools that withhold generation to protect constructive thought
 - [[genai-mindtool-generative-learning]] — GenAI as a thinking tool supporting learner construction
@@ -139,7 +138,6 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[beyond-detection-authentic-assessment-ai-2025]] — Authentic assessment and knowledge construction
 - [[teacher-ai-teaming-five-levels]] — Levels of teacher–AI collaboration in design
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency between learner and machine
-- [[vargas-situated-learning-ai-review-2024]]
 - [[ojeda-ramirez-community-based-ai-learning]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]

@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:53:03-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 pedagogy: [scaffolding]
@@ -39,6 +39,9 @@ Intelligent tutoring is the classic *application-side* member of the [[student-m
 
 The emergence of [[llm|LLMs]] has created a productive tension in the tutoring field. Traditional Intelligent Tutoring Systems (ITS) offer precision and transparency — you know exactly why the system made a particular decision — but lack flexibility. LLM tutors offer natural dialogue and broad knowledge but can hallucinate, over-scaffold, or bypass learning entirely. Modern [[research-methods-aied|research]] increasingly explores **hybrid approaches** that combine structured ITS components with LLM flexibility. [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] demonstrate this concretely in the Apprentice Tutor College Algebra ITS: supplying GPT-4 the tutor's interface structure and Bayesian [[knowledge-tracing]] skill estimates within the prompt lifted logical-error diagnosis from 40% to 81% on factoring (and error identification overall to 87.8%) and produced ~66% error-targeted hints — direct evidence that embedding an LLM in an ITS's structured framework grounds generation, curbs hallucinated diagnoses, and yields context-aware corrective feedback, even though roughly a third of the hints remained too general, incorrect, or answer-revealing.
 Training pedagogy into the model is a distinct route from prompting it: LearnLM mixed pedagogical data into Gemini's post-training, was preferred by education experts over GPT-4o (+31%), Claude 3.5 Sonnet (+11%) and base Gemini 1.5 Pro (+13%), and — because co-trained rather than fine-tuned afterwards — the gains survive future base-model releases ([[learnlm-improving-gemini-learning|LearnLM Team (2025)]]).
+
+
+TeachLM argues the scarce ingredient is authentic learner–tutor interaction: fine-tuned on 100,000 hours of one-on-one tutoring, it roughly doubled student talk time and increased dialogue turns by 50%, after an earlier prompt-engineered tutor could not close the gap to human tutors ([[teachlm-post-training-llms-education|Perczel, Chow & Demszky (2025)]]).
 
 Intelligent Tutoring Systems represent one of the oldest and most researched areas of [[ai-education|AI in education]]. Unlike general-purpose LLM tutors, ITS traditionally use structured approaches: domain models (what to teach), [[student-modeling|student models]] (what the learner knows), and pedagogical models (how to teach). These components enable fine-grained tracking of student progress, misconception diagnosis, and adaptive sequencing.
 
@@ -150,7 +153,6 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[speech-and-voice-technologies]]
 ## Connected Articles
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
-- [[typology-generative-ai-tools-education-2026]] — Educator-reported tutoring and chatbot tools in a 2026 typology
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS in community college developmental math
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)
@@ -173,7 +175,6 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[learnlm-improving-gemini-learning]] — LearnLM: improving Gemini for learning
 - [[teachlm-post-training-llms-education]] — TeachLM: post-training LLMs with authentic learning data
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[schuetze-knowledge-tracing-forgetting-2026]]

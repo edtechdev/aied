@@ -1,7 +1,7 @@
 ---
 title: Computational Thinking
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -35,7 +35,11 @@ The knowledge base's connected articles converge on a central claim: computation
 
 - **LLMs as tools for CT assessment and development.** [[generative-ai|Generative AI]] offers scalable ways to measure and scaffold CT. [[llm-computational-thinking-physics-2026|Physics CT assessment research]] showed LLMs can mirror human raters in scoring growth in Data Practices and Computational Problem-Solving Practices across large-enrollment [[physics-education]] courses — while both humans and the LLM struggled with the more complex Systems Thinking construct, marking a clear boundary for automation. [[visual-query-tracer-declarative-logic-learning|Visual query tracing]] shows how visualization can scaffold abstract computation, building intuition that supports CT development. [[student-misconceptions-conditionals-loops-taxonomy|A taxonomy of conditionals-and-loops misconceptions]] provides fine-grained targets for [[scaffolding]] and for automated misconception detection, connecting to [[misconceptions]]. These tools work best, however, when pedagogical design leads: [[llm-intervention-design-cs-review|the CS review]] found semester-long "Virtual Tutor" designs with scaffolded feedback consistently improved CT, whereas unstructured tool access increased frustration.
 
+Durable competencies shift once implementation is automated: a workshop report names abstraction, computational thinking, and a "verification spectrum" as the skills to teach, citing a trial of nearly 1,000 students where unrestricted GPT-4 access raised practice performance 48% but cut exam scores 17% once AI was withdrawn ([[reshaping-cs-education-genai|Lee et al. (2026)]]).
+
 - **CT across K-12, teacher education, and assessment redesign.** CT spans the whole [[k-12]] to [[higher-ed]] spectrum and is reshaping assessment. At the early-childhood end, AI-Play extends CT and AI literacy to Pre-K–K2 learners and non-technical families; at the university end, the [[genai-oop-programming-assessments-2026|OOP assessment study]] found 2026 GenAI systems outperform the average student on authentic programming exams yet still fail on interfaces, abstract classes, and inheritance — recurring conceptual gaps that mark exactly where CT remains hard to automate. [[solving-vs-evaluating-genai-solutions|A randomized A/B crossover study]] showed that evaluation-and-critique tasks produce comparable outcomes to generation, suggesting CT can be exercised through judging flawed AI solutions, though gains require deliberate scaffolding. Underpinning all of this is the teacher: the microbit study links CT instruction directly to [[teacher-education]], and [[hashmi-socratic-physics-chatbot-2025|Socratic chatbot research]] ties the precise problem formulation that CT demands to measurable course performance.
+
+- **A validated instrument locates where CT is hardest.** A 34-item computational-thinking test built with Evidence-Centered Design and validated by item-response theory across 461 AI-programming students concentrated difficulty in data representation, logical-operator sequencing, and loop structures rather than evenly across the syllabus ([[zhang-ct-ai-training-test-2026|Zhang & Zhang (2026)]]).
 
 ### CT and the shift from AI consumers to producers, creators, and designers
 
@@ -82,7 +86,6 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 - [[ai-pbl-computational-thinking-2026]]
 - [[computational-thinking-ai-agent-creation]]
 - [[reshaping-cs-education-genai]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[prompt-problems-nl-programming-mistakes]]
 - [[llm-computational-thinking-physics-2026]]
 - [[hashmi-socratic-physics-chatbot-2025]]
@@ -99,7 +102,6 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 - [[game-based-gamified-robotics-education-review-2026]]
 - [[solving-vs-evaluating-genai-solutions]]
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction

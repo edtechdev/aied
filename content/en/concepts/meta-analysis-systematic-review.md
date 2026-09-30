@@ -1,7 +1,7 @@
 ---
 title: Meta-Analysis and Systematic Review
 created: "2026-08-14T05:24:40-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
@@ -142,25 +142,17 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 - [[simulation]]
 
 ## Connected Articles
-- [[xia-ai-interdisciplinary-higher-education-review-2026]] — Systematic review of AI in interdisciplinary higher education (59 studies)
-- [[nguyen-genai-global-south-review-2026]]
 - [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
 - [[ai-vocational-education-training-review]] — First systematic review of AI in vocational education and training
 - [[ai-collaborative-learning-systematic-review]] — PRISMA systematic review of AI-powered collaborative learning
 - [[genai-higher-education-systematic-review-2026]] — Systematic review of GenAI in higher education
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive systematic review of intelligent tutoring systems
 - [[chatgpt-critical-creative-thinking-review]] — Systematic review of ChatGPT and critical/creative thinking
 - [[stanford-evidence-base-ai-k12-2026]] — Evidence base for AI in K-12
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
 - [[genai-writing-performance-meta-analysis-2026]] — Meta-analysis of GenAI-supported L2 writing: a large pooled effect undermined by extreme heterogeneity and a quality-driven moderator
 - [[ai-literacy-heptagon-2026]] — Integrative literature review of AI literacy dimensions (PRISMA-guided)
-- [[llm-intervention-design-cs-review]] — Review informing LLM intervention design in CS
-- [[rail-ed-genai-literacy-teacher-education]] — Review of GenAI literacy in teacher education
-- [[student-llm-interaction-taxonomy-review-2026]]
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping review classifying 22 AI-integration studies with FACETS + SAMR; most sit at Substitution/Augmentation
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education

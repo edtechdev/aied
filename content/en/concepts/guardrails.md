@@ -1,7 +1,7 @@
 ---
 title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:53:03-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -107,7 +107,6 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 
 - [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
 - [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[generative-ai-guardrails-harm-learning]] — the canonical field RCT on guardrails
 - [[eduzone-llm-safety-k12]] — K-12 LLM safety framework
 - [[eduguard-safe-rag-llm-tutor]] — RAG-based safety for tutors

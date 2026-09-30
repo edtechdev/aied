@@ -1,7 +1,7 @@
 ---
 title: Technologies
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:53:03-04:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
@@ -79,7 +79,6 @@ The technical strand is inseparable from the knowledge base's other themes:
 
 ## Connected Articles
 
-- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
 - [[cstutorbench-slm-tutors]] — Small language model tutoring benchmarks
@@ -88,7 +87,5 @@ The technical strand is inseparable from the knowledge base's other themes:
 - [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and harms
 - [[elbench-education-llm-benchmark-2026]] — Education LLM benchmark
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini generative social robot
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in education
 - [[benzion-ai-physics-simulations-virtual-lab]] — LLM-generated physics simulations for the classroom
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Factors in adopting AI tools
 

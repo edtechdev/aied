@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -50,6 +50,7 @@ The consequence is a set of claims that look similar in a results section but di
 Two implications follow for anyone reading or designing this research. First, whether a self-report instrument is even measuring its named construct is an empirical question, answered by validation rather than by the plausibility of the items. Second, the direction of the temptation in AI in education is consistent: tools are evaluated by how users feel about them, and feeling is precisely the part that self-report captures most cheaply. [[self-assessment]] is a member of that wider family rather than a synonym for it: where self-report measures reach attitudes, trust, and satisfaction, self-assessment turns the learner's estimate specifically onto their own skill, confidence, or learning.
 
 A validated instrument can make that limit precise rather than vague. The AI Literacy Self-Assessment Questionnaire (AIL-SAQ) of [[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan and Srikoon (2025)]] is a 15-item scale confirmed with a stable three-factor structure across two samples (n = 335 exploratory, n = 579 confirmatory) and an overall Cronbach's alpha of .934. Its authors are explicit that it records perceived understanding, attitudes, and awareness rather than demonstrated skill, and that self-assessment accuracy depends on metacognitive ability still maturing in children, so a child's self-estimate is a weaker signal than an adult's.
+The opposite choice is also defensible: PAUSE is a four-domain offloading self-check that publishes no reliability or validity evidence, offers no composite, and states that readings must not justify any consequential decision, and its items conflate deliberate scaffolding with substitution — a respondent who brings AI in early to scaffold reads as offloading ([[pause-ai-cognitive-offloading-self-reflection-2026|Alam, 2026]]).
 
 ## The perception–behavior gap
 

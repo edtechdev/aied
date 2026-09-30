@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -33,12 +33,17 @@ Curriculum design addresses the *what* of education at the program level, comple
 
 **Redesigning curricula for the AI era** is the central challenge. **[[reshaping-cs-education-genai|Lee et al.]]** synthesized findings from international workshops on reshaping undergraduate [[cs-education|CS education]], arguing that as GenAI automates implementation-level programming, curricula must shift toward system design, abstraction, and critical evaluation — while de-emphasizing low-level implementation details. **[[ase-26-agentic-software-engineering-curriculum|Gorsky]]** formalized Agentic Software Engineering as a distinct discipline with a 21-module curriculum focused on the "evolution of intent" and practitioner discipline required to manage [[agentic-ai|AI agents]]. Both connect to [[ai-literacy]] and [[scaffolding]].
 
+Reviewing the change as systemic rather than additive, [[rewriting-curriculum-genai-pedagogy-2026|Sabani et al. (2026)]] triangulate a scoping review, bibliometric mapping of 209 records, 36 articles, and ten academic-leader interviews into five shifts — including knowledge transmission giving way to capability development and local experimentation to institutional governance.
+
 **Curriculum mapping and analysis** uses AI to understand existing curricula. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** analyzed 23 syllabi from AI-assisted software engineering courses, identifying common themes — [[prompt-engineering|prompt engineering]], code review with AI, [[ethics|ethical considerations]] — and deriving design guidance that emphasizes balancing tool fluency with foundational knowledge. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** applies computational methods to compare CS course structures across institutions.
 
 **AI literacy integration** embeds AI competencies across disciplines. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** provides a scaffolded AI literacy framework applicable across all ages and educational stages, addressing second- and third-level [[digital-divide|digital divides]]. **[[tracing-genai-literacy-interaction-patterns]]** examines how AI literacy develops through interaction patterns. **[[hingle-collaborative-ai-literacy-2025]]** explores collaborative approaches to AI literacy curriculum development, connecting to [[collaborative-learning]].
 LearnAI shows what an embedded version looks like: a wide-exposure layer of short presentations inside 18 existing courses across five disciplines (293 students), paired with opt-in one-to-one co-creation sessions run by trained undergraduate peer tutors, so mixed-ability learners meet AI tasks at their own level ([[learnai-just-in-time-ai-cocreation-university-2026|Qu et al. (2026)]]).
 Integration in practice lags the frameworks. [[critical-media-literacy-education-2026|Santos-Albardía et al. (2025)]] found only 13.8% of surveyed education and journalism students said their coursework addressed critical media analysis, against 97.8% who rated it important, and their expert interviews traced the gap to teacher training that prioritizes technical and instructional skills over media education.
+A PRISMA review of 39 STEAM studies (2016–2025) found a parallel imbalance in AI-literacy elements: implementations developed technical literacies — fundamental AI concepts, computational thinking, data literacy — while underdeveloping ethical awareness, creative imagination, and creating, managing and designing with AI, so auditing each unit against them is the practical response ([[niri-steam-ai-literacy-review-2026|Niri et al., 2026]]).
 
+
+Student voice is another design input: 84% of 166 final-year business students wanted GenAI taught in their units and 85% saw it as essential for employability, while only 7% had learned about it from their university ([[rook-plumb-genai-curricula-student-insights-2026|Rook & Plumb (2026)]]).
 A 42-study review of pre-university AI education finds curricula moving from technical content toward competency-based models built on frameworks such as AI4K12 and the Five Big Ideas in AI, with [[ai-literacy]] treated as a cross-curricular competency while standardized instruments for assessing it remain absent ([[caruana-pre-university-ai-education-slr-2026|Caruana et al. (2026)]]).
 Instructors and employers agreed on the importance of only one of 26 AI skills — setting realistic expectations for AI-augmented work — and just three of the 26 were taught by half or more instructors, the report's evidence of an AI skills gap between higher education and employers ([[ithaka-sr-ai-skills-college-graduates-2026|Fried (2026)]]).
 
@@ -46,13 +51,22 @@ K-12 ML activity design stays at the surface: a review behind the ICE-T framewor
 
 **[[discipline-specific-aied|Domain-specific]] curriculum innovation** applies curriculum design to specific fields. **[[genai-architecture-education]]** explores how generative AI reshapes architectural design [[pedagogy]]. **[[talebzadeh-ai-green-education-2026]]** examines AI integration in green education curricula. **[[connected-ai-lesson-planning-vietnam]]** and **[[llm-cultural-relevance-k12]]** address [[culturally-relevant-pedagogy|culturally responsive curriculum design]].
 
+
+**Embed AI inside the discipline rather than beside it.** A three-tier (introductory, application, advanced) AI curriculum folded machine learning into existing thermal-engineering topics across a 39.1-hour course rather than adding computer-science electives, avoiding extra load on mechanical-engineering students and releasing its syllabus, data and code openly ([[mechanical-engineering-ai-curriculum-2026|Li et al. (2026)]]).
+
+A journalism case shows the values-first variant: a triadic values–processes–competencies scaffold moved students from human-only reporting to AI-integrated work, yet 8 of 9 (89%) reported confidence in ethical decisions while survey items on authorship and bias suggested only superficial understanding ([[ying-genai-journalism-assessment-2026|Ngu and Weller (2026)]]).
+
 **[[governance|Institutional]] frameworks** address curriculum change at scale. **[[finkelstein-principled-ai-education-2025]]** and **[[finkelstein-principled-ai-education-2025]]** provide principles for integrating AI across educational programs. **[[ai-adoption-training-public-sector]]** examines barriers to AI curriculum adoption in public sector education.
 
 **Sequencing AI across the program.** [[refrain-amplify-genai-curriculum-2026|Torres-Sahli et al.]] propose a "refrain, then amplify" framework that sequences generative AI at the program level: withhold a generative tool while a capacity is forming, then restore it to amplify that capacity once the student can direct it and judge its returns. Governed by a forming-versus-offloading criterion (whether a stretch of work builds a capacity or merely passes it through the tool), the framework links curriculum design to [[cognitive-offloading]], [[self-regulated-learning]], and [[academic-integrity]], with hard-to-fake checkpoints at each refrain-to-amplify hinge.
 
+The lever for the highest stages is not more coursework: across 89 sponsored capstone projects, advancement from Workforce Readiness Level 6 to 7 was gated by industry-embedded experience — co-ops and Manufacturing Extension Partnership projects — so degrees need work-integrated learning rather than another technical elective ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
+
 A curriculum-level consequence of model capability is that AI-resistant design expires. Computing educators described calibrating assignments against what the models could not yet do and watching the calibration lapse — one cybersecurity instructor's problems required genuine [[problem-solving|problem solving]] seven or eight months earlier and were then simply solved — with a facilitator estimating a shelf life of about one semester. The workshop's structural finding is that nearly every adaptation was made by an individual instructor within a single course, without the institutional coordination a durable curricular response would require ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 
 **Whole-course alignment when generative AI is permitted.** A 2026 redesign of an introductory nuclear and particle [[physics-education|physics]] course ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al.]]) integrated three activity types with distinct roles — lectures for concepts and notation, tutorials for standard analytic practice, and homework as an exploratory "research-shaped" component of unusually difficult, multi-method problems. The reported friction (an undeclared programming prerequisite, insufficient time to understand rather than merely obtain answers, and misalignment among lectures, tutorials, homework and [[summative-assessment|examination]]) illustrates that permitting generative AI forces curriculum alignment work across the whole course rather than a change to one assignment type; their recommended structure keeps the AI-permitted exploratory work as bonus-bearing advanced tasks while the unaided written exam determines the grade.
+
+**Depth of alignment, not frequency of use, separates integration patterns.** Across 17 business-module cases, six embedded GenAI systematically across teaching, learning and assessment (constructive), nine did so inconsistently (blended) and two sporadically (ad hoc); the constructive cases reported the strongest engagement, capability and curriculum-relevance outcomes ([[zhou-constructive-alignment-genai-business-2026|Zhou et al. (2026)]]).
 
 **Constructive alignment advice under critical scrutiny.** Where the sources above report on alignment in practice, [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] read the guidance itself as a discourse. Their [[qualitative-research|critical discourse analysis]] of 14 pieces of gray literature published from November 2022 to April 2025 — mostly institutional pages and chapters from centrally positioned [[educational-development|learning and teaching units]] — found constructive alignment presented as an efficiency problem: generative AI was "an effective and efficient way to draft rubrics" that could "streamline the process", anthropomorphized as "an educational expert and assistant", a "sparring partner" or an "intelligent assistant in instructional design", while academic staff supplied only "subject matter expertise" and the tool took on "the heavy lifting of developing learning objectives, organizing course content ... and aligning course components". Copy-and-paste prompt recipes and numbered templates framed CA as a standardisable product, producing three failure modes: performativity (alignment that only looks aligned), erasure of situated and critical context, and shallow CA that conflates alignment with the constructive dimension. Their remedy re-sequences the curriculum-design workflow — educators must understand CA well enough to direct, evaluate and reject AI output before delegating any part of it — and bounds any tool to an institutional [[rag|retrieval-augmented]] agent grounded in local policy, rubrics and graduate attributes, with a "liminal tutor" role that extends rather than replaces the [[educational-development|developer]] relationship.
 
@@ -92,7 +106,6 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[ying-genai-journalism-assessment-2026]]
 - [[rook-plumb-genai-curricula-student-insights-2026]]
 - [[zhou-constructive-alignment-genai-business-2026]]
-- [[nicola-richmond-programwide-assessment-genai-2025]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[critical-media-literacy-education-2026]]
@@ -104,7 +117,6 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[tracing-genai-literacy-interaction-patterns]]
 - [[finkelstein-principled-ai-education-2025]]
 - [[hingle-collaborative-ai-literacy-2025]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills Framework: 26 assessable skills for curriculum mapping
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
@@ -114,5 +126,4 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[sidorkin-ai-generated-course-readings-2026]] — AI-generated weekly readings as a textbook substitute, with sourcing and review caveats (Sidorkin 2026)
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI

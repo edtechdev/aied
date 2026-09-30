@@ -1,7 +1,7 @@
 ---
 title: Psychometrically Aware AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
@@ -30,6 +30,8 @@ As AI systems increasingly score responses, predict difficulty, and provide [[fe
 - **Model confidence is not enough.** On SciEntsBank, verbalized, latent and consistency-based confidence each failed to separate correct from incorrect short answers; the best calibration came from adding dataset-derived aleatoric uncertainty — within-cluster entropy of embedded responses — through a Random Forest plus Platt scaling, enabling selective auto-grading and human review ([[cong-confidence-asag-2026|Cong et al. (2026)]]).
 - **Confidence flags triage review, not acceptance.** In high-stakes handwritten physics grading, AI confidence labels tracked far lower score error on high-confidence parts, yet some high-confidence, unflagged parts still disagreed with official marks, so the labels are useful for prioritizing examiner review rather than authorising automatic acceptance ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **Difficulty prediction:** [[llm-item-difficulty-prediction|Item-difficulty prediction]] shows how LLM-based estimates must be validated against psychometric models (see [[item-response-theory]]). [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] provide a large-scale demonstration: across 5,170 K-5 math and reading items calibrated under the Rasch IRT model, GPT-4o's zero-shot difficulty ratings correlated moderately-to-strongly with true difficulties (r = 0.83 math, r = 0.81 reading) but were uneven across grades, while a feature-based approach (LLM-extracted features into tree-based models) reached correlations up to r = 0.87. The study's interpretable [[explainable-ai|feature importance]] (grade level and word count top predictors) and its practical seven-step workflow illustrate how psychometrically aware AI can be operationalized — while its early-grade range-restriction finding and generalizability caveats underscore the need to validate LLM estimates against fitted psychometric parameters.
+
+- **Recovering a curve is not the same as recovering every parameter.** A multimodal model fine-tuned as a [[simulating-students|simulated respondent]] estimated held-out item difficulty at r = 0.85 and recovered the guessing parameter at 0.48, but discrimination was weak at 0.31 — so which parameter a method recovers is the finding ([[multimodal-item-parameter-estimation-2026|Ormerod & Kim, 2026]]).
 - **Measurement validity:** The concept connects to [[assessment-validity]] and [[educational-measurement]], the frameworks that define what valid, reliable AI assessment looks like.
 - **Latent-structure validity:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] show that a psychometrically aware stance must also verify that an assessment measures the *same latent construct* in LLMs as in humans. Because LLM and human response factor structures diverge on the same instruments, even well-scoring models may not be measuring the construct the exam purports to measure — a caveat for any AI assessment that borrows human validity evidence.
 - **A label can measure more, or less, than it names.** Embedding 12 AI literacy instruments' 55 constructs and 272 items surfaced jangle pairs (same label, different measurement) and jingle pairs (different labels, near-identical wording), recovering reliability at r = 0.49, a pre-collection check that construct distinctions survive into item wording ([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al. (2026)]]).
@@ -60,6 +62,5 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 - [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparing AI literacy instruments: jangle and jingle pairs across 55 constructs
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
