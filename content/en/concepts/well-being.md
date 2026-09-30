@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T11:35:26-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -34,6 +34,9 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 
 - **AI anxiety and student experience:** Studies on students' engagement with AI (e.g., [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDT-based research]]) find AI use is intertwined with anxiety, trust, and confidence, with students' well-being affected by concerns about academic integrity, [[creativity]], and [[cognitive-offloading|Over-Reliance]].
 - **Anxiety reduction is not uniformly beneficial.** In a counterbalanced within-subjects study of 35 pre-university students, an LLM-augmented conversational agent lowered self-reported anxiety during oral assessments (calmness 6.50 vs. 5.86, p = .028), but the authors caution that moderate anxiety can be facilitative and recorded no attainment scores ([[aivaluate-anxiety-assessment-2026|Yusuf, Money and Daylamani-Zad (2026)]]).
+
+
+- **High approval can coexist with strain, and AI task pressure weakens the benefit.** Among 551 first-year students, 82.76% approved the integration of digital and intelligent content while 69.51% reported [[anxiety-and-stress|anxiety]] or tension, and the AI-proficiency-to-adjustment slope fell from 0.42 to 0.20 as AI task pressure rose ([[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin (2026)]]).
 
 - **Emotional-support tutoring is not automatically better for well-being.** An LLM mindfulness layer added to an algebra tutor reduced state-math anxiety in both arms but no more than cognitive-only hints and feedback, though students rated the mindful agent more supportive — a caution against reading perceived care as a well-being outcome ([[mindful-llm-math-tutoring-2026|Rief et al., 2026]]).
 
@@ -86,3 +89,5 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
 - [[ai-emotional-intelligence-teacher-development-2026]] — Relational densification as the criterion for AI-supported teacher development
+
+- [[ai-enabled-course-development-first-year-adjustment-2026]] — High AI-course approval coexisting with self-reported strain, and task pressure weakening adjustment

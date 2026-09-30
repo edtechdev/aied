@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-09-30T10:54:00-04:00"
+updated: "2026-09-30T11:35:26-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -36,6 +36,9 @@ A growing cluster of articles explicitly creates new theory for the AI era rathe
 
 The synthetic position adds a rival bid that does state propositions: it names *synthetic promotion* and *authorial suspension* — a self densely voiced yet un-authored — and predicts a crossover interaction in which a life-decision narrative's rated authorship and coherence move in opposite directions ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
 - **Agentivism.** [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]] propose Agentivism as a mid-range learning theory for human-AI interaction, defining learning as durable growth in human capability rather than successful task completion with AI, and specifying four mechanisms: delegated agency, epistemic monitoring and verification, reconstructive internalization, and transfer under reduced support. What separates it from the other bids on this page is falsifiability: it states six propositions, including that learning is stronger when AI preserves learner responsibility for problem framing, criteria setting and justification than when it supplies answers, and that requiring verification should improve delayed performance while repeated low-friction delegation without reconstruction should weaken learners' calibration of their own competence.
+
+
+Teacher-side theorizing now makes the same testability commitment: the Capability–Decision Model orders [[tpack|AI-TPACK]] capability upstream of attitude and perceived behavioral control and names four disconfirmation conditions — mediation failure, discriminant collapse, moderation nullity and context redundancy — though the model remains untested ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 - **Epistemic co-agency.** [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Learning with Machines]] builds "toward a theory of epistemic co-agency," a theory-informed model of how learners and GenAI systems jointly produce knowledge and understanding.
 - **The absent cognitive baseline (ACB).** [[absent-cognitive-baseline-2026|The Absent Cognitive Baseline]] theorizes a structural gap in AI-native students' academic self-assessment — a three-dimension framework explaining why students overestimate their learning when AI inflates performance.
@@ -115,3 +118,4 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[metacognitive-ownership-human-ai-regulation-2026]] — Metacognitive ownership: construct definition, boundaries, and a research agenda
 
 - [[synthetic-position-self-authorship-2026]] — The synthetic position: a dialogical-self bid naming synthetic promotion and authorial suspension with a crossover prediction
+- [[capability-decision-model-teacher-readiness-2026]] — Falsifiable capability-first teacher readiness model with four disconfirmation conditions

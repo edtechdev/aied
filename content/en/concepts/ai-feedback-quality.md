@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T11:35:26-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 type: concept
 foundations: [ai-literacy]
@@ -30,6 +30,9 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 
 - **Comparability to human feedback:** [[ai-generated-feedback-higher-ed|Studies in higher education]] find that AI-generated feedback is experienced as acceptable and supportive — comparable to teacher feedback. But acceptability does not guarantee learning effectiveness. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) likewise finds [[llm]] grading and feedback quality to be task-contingent — matching human raters on short, well-structured answers with detailed rubrics but degrading on complex, open-ended, or [[multilingual-learning|multilingual]] work, with feedback sometimes too generic or misaligned with the grade — and identifies prompt quality, rubric detail, model version, and assessment language as the dominant determinants of grading and feedback quality ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
 - **A pooled anchor for the feedback mechanism.** A 53-study meta-analysis found GenAI feedback produced the largest effect in the study (g = 1.27), against g = 0.40 for achievement, credited to comprehension, timeliness and objectivity — though students can distrust AI feedback and its lack of emotional response may raise cognitive load ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
+
+
+A controlled comparison isolates the feedback component from the adaptive system: with the same diagnostic [[intelligent-tutoring|tutoring]] system, learners receiving automated real-time feedback rose from 1.90 to 3.54 on a four-point mathematics assessment against 1.90 to 2.85 without it (F(1, 76) = 9.24, p = .003, d = 0.73) ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).
 
 - **A supportive feedback sequence can still harm learning.** [[sequenced-ai-feedback-learning|Cao et al. (2026)]] found that encouragement → hints → correct answer lowered post-test scores (B = −0.83, p = .02) despite raising perceived encouragement, with frequent resubmissions predicting worse performance (B = −0.33, p = .001), so engagement and satisfaction are not proxies for [[learning-gains|learning]].
 
@@ -138,3 +141,5 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[real-time-ai-feedback-technical-skills-2026]] — Own-language "Clarify" explanation and scaffolded nudges in a real-time tutor: what makes synchronous feedback usable (Muritala, Ahmed & Olumorin 2026)
 - [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher vs AI-assisted peer feedback: authoritative error correction decays, steady focus holds, and what students do with each (Tang, Li & Luo 2026)
 - [[nazaretsky-feedback-source-bias-2025]] — Blind-then-disclosed source labels on identical feedback: students rate AI-labeled feedback lower and read low-rated human feedback as AI
+
+- [[intelligent-tutoring-mathematics-education-review-2026]] — Narrative review of AI tutoring in mathematics: real-time feedback gains and implementation conditions

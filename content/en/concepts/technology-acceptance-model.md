@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T11:35:26-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -55,6 +55,9 @@ Adoption models are applied across the knowledge base to model student and [[tea
 - **Psychological correlates:** [[acceptance-ai-english-tools-2026|Wu et al.]] build on TAM to relate motivation, [[self-efficacy]], anxiety, and risk perception to acceptance of AI-assisted English learning.
 - **[[regulation|Regulatory]] competence critique:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] argues that adoption-centered TAM models treat use as a stable decision, whereas effective AI use is an ongoing process of judgment, revision, and selective uptake — reframing [[ai-literacy]] as regulatory competence and [[critical-thinking]] rather than acceptance.
 
+
+Adding a [[tpack|TPACK]]-family capability alongside belief frameworks such as the Theory of Planned Behavior as parallel predictors invites construct overlap and leaves the causal ordering of capability, attitude and control undecided; the Capability–Decision Model instead places AI-TPACK capability upstream of attitude and perceived behavioral control ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
+
 - **ML determinants of ChatGPT adoption:** An exploratory ML approach examined how students' perceptions and demographics relate to intended academic ChatGPT use, using SHAP analysis to identify key learning-related constructs — prioritizing educational meaning over maximizing algorithmic performance ([[determinants-chatgpt-use-higher-education-2026]]).
 
 - **[[explainable-ai|Explainability]] and domain relevance as acceptance levers for teachers:** Adapting trust-in-automation theory to teacher acceptance of AI recommendations, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found that understandability (raised by explainable AI) correlated positively with both trust and acceptance of an AI grouping tool, and that domain-driven explanations in [[curriculum-design|curricular]] language outperformed data-driven feature-importance ones on all three. Acceptance was additionally driven by [[pedagogy|pedagogical]] alignment and workload-reduction potential — situational factors beyond trust that standard TAM/UTAUT constructs rarely capture, reinforcing the case for extending adoption models with context and explainability.
@@ -107,3 +110,5 @@ TAM's cognitive focus also under-captures emotional and relational dimensions of
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[age-tiered-ai-literacy-guidebooks-2026]] — Material-level PE/EE/playfulness/intention model for age-tiered AI literacy guidebooks, with documented playfulness-intention construct overlap
 - [[risk-perception-genai-perceived-benefits-2026]] — CAT + PMT folded into TAM/UTAUT2: dimension-specific and non-monotonic risk effects on perceived GenAI benefits (Du, Ning, Shi & Chen 2026)
+
+- [[capability-decision-model-teacher-readiness-2026]] — Ordered alternative to bolting TPACK capability onto Theory of Planned Behavior adoption models

@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T11:35:26-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -34,7 +34,13 @@ AI in education is a fast-moving, heterogeneous field, and its evidence base car
 The knowledge base's [[research-methods-aied|research methods]] page details the strengths and limitations of each design. Several limits recur across designs and deserve particular attention:
 
 - **Generalizability.** Findings from a single course, institution, discipline, or national context may not transfer. Small, convenience, or single-institution samples limit external validity; results from one AI tool rarely extend to a different tool or context.
+
+
+- **Cross-national belief comparisons carry a measurement risk.** A five-country survey of 1,405 K-12 teachers used automated machine translation without back-translation or measurement-invariance testing and measured plagiarism and creativity concern with single items, so its country contrasts cannot be read as equivalent constructs ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu et al. (2026)]]).
 - **Synthesis-level rigor is a separate axis from primary-study rigor.** A meta-analysis can satisfy its own inclusion criteria and still pool studies that differ in design, implementation fidelity and outcome measure without weighting any of that: [[ai-supported-instruction-stem-meta-analysis-2026|Doğan and colleagues (2026)]] state plainly that they used no formal quality appraisal tool and treated the inclusion criteria as the rigor threshold, so a quasi-experimental study and a randomized one contributed equally to the pooled [[stem-education|STEM]] estimate. The same review shows a related reporting hazard: its heterogeneity is quoted as I² = 82.98% under a fixed-effect model and I² = 15.75% under the random-effects model, meaning readers who lift a single heterogeneity figure without its model cannot tell how inconsistent the corpus actually is. Appraise a synthesis on how it handled dependent effect sizes, quality, and heterogeneity, not only on whether it followed a search protocol.
+
+
+- **Retrieval design sets a synthesis's headline numbers.** In a scoping review of 195 teacher-education studies, digital competence and [[tpack|TPACK]] were explicit search descriptors while instructional design and assessment had no equivalent, so the reported 46.5% and 1.9% describe the retrieved corpus rather than the field ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 - **Small sample sizes.** Many AIED studies are underpowered — too few participants to reliably detect meaningful effects or to support the strong claims sometimes drawn from them.
 
 - **Validation design can manufacture the headline number.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara and Halloluwa (2026)]] benchmark fifteen models on EEG-based familiarity and show that standard stratified cross-validation allows temporal leakage and reports up to 0.9853 F1, while trial-independent Group K-Fold validation drops the peak to 0.6038 F1 — still above chance, but far from the quoted result.
@@ -130,3 +136,6 @@ The purpose of this knowledge base is to help close that gap — to make it easi
 - [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+
+- [[digital-competence-ai-responsive-pedagogy-2026]] — Scoping review of 195 teacher-education studies where search-string design shapes the reported frequencies
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national K-12 teacher survey: machine-translated items, single-item concern measures, no invariance testing

@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T11:35:26-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -65,6 +65,7 @@ Human-in-the-loop design has become central to the knowledge base's [[agentic-ai
 - **Pedagogical safety.** [[pedagogical-safety]] requires that AI with real instructional authority retains human oversight, so errors, biases, or harmful outputs are caught before they reach learners. This is especially important for autonomous agents that [[agentic-ai|proactively pursue goals]].
 - **Oversight is rare in practice, not just in theory.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] found robust embedded governance and human-in-the-loop oversight were rarely exhibited across 474 educational agentic-AI systems, even as single-task autonomy and multi-agent collaboration grew — the gap between the design principle and deployed practice.
 - **Validity and quality control.** HITL is a quality gate for [[automated-assessment|automated assessment]] and generation — humans adjudicate where automated scoring is unreliable (see [[llms-do-not-grade-essays-like-humans-2026|LLM essay grading]] [[research-methods-aied|research]]) and validate generated items. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 grading and feedback studies (2023–2025) reaches the same conclusion explicitly: LLMs match human raters on short, well-structured tasks but cannot fully replace human judgment on complex, open-ended, or subjective work, and the highest grading effectiveness is achieved in hybrid systems that combine AI-driven grading with teacher oversight and verification ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] show concretely where that boundary falls: ChatGPT-5 matched faculty on objective pharmacy-exam items (CCC 0.935–1.000) but was unreliable on short-answer and essay items even when given a rubric, leading the authors to recommend hybrid grading with human review for complex, subjective, or high-stakes assessment.
+ Repetition is not a substitute for that oversight: regrading identical submissions on five different days, the same model reproduced its own results at only Krippendorff's alpha 0.625, with variation concentrated in the middle grades and A and F absent from the five-session counts ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **Learner agency.** Keeping a human in the loop preserves [[agency]] and supports [[self-regulated-learning]], countering the [[cognitive-offloading|over-reliance]] that fully autonomous assistance can induce.
 - **Trust and calibration.** Transparent human oversight supports [[trust-calibration]] — learners and instructors know a qualified human stands behind the system.
 - **Criteria visible before review raise agreement.** [[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] found that surfacing trustworthiness metrics to reviewers as they compared LLM responses lifted inter-rater agreement from Krippendorff's alpha 0.3987 to 0.4931, while adding further measures added cognitive overhead without return.
@@ -142,3 +143,5 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
 - [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
+
+- [[llm-grading-assistants-public-health-2026]] — Identical LLM grading reruns on different days reproduce at only Krippendorff's alpha 0.625

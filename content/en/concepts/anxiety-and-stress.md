@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-09-30T10:54:00-04:00"
+updated: "2026-09-30T11:35:26-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -64,6 +64,9 @@ Beyond proctoring, AI use itself generates anxiety — about being replaced, abo
  network cross-validation ranked self-efficacy and perceived usefulness as the most stable predictors of anxiety. The implication is
  that institutional encouragement aimed at anxiety only lands if it changes what students believe about their own capability and the
  tool's usefulness; general reassurance does not alter the appraisals that generate the anxiety.
+
+
+Competence is not a full buffer, though: among 551 Chinese first-year students, self-reported AI usage pressure weakened the link between AI proficiency and psychological adjustment, with the AI-proficiency-to-adjustment slope falling from 0.42 under low pressure to 0.20 under high pressure ([[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin (2026)]]).
 
 **Faculty forecasts as a distributed form of AI anxiety.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]]'s survey of 1,057 US college and university faculty registers educator anxiety as expectations rather than symptoms: 95% expected generative AI to increase students' over-reliance on the tools, 94% more academic integrity concerns, 90% diminished [[critical-thinking|critical thinking]], 83% shorter attention spans and 81% wider [[equity-in-ai-education|digital inequities]], while 39% believed the tools would diminish the role of faculty and 47% feared the long-term employment impact in their disciplines would be negative. The same respondents were not uniformly pessimistic — 61% still expected improved and customized learning — but 73% had personally dealt with an academic integrity case involving students' generative AI use, which is where a forecast turns into workload. The report is explicitly a non-scientific sample that is not generalizable, so it documents the sector's expressed fears rather than measured effects.
 
@@ -147,3 +150,4 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[parlant-emotional-micro-interventions-2026]] — Instructor-side real-time emotional micro-interventions grounded in cognitive appraisal theory
 
 - [[ai-employment-threat-career-anxiety-2026]] — AI employment threat and career decision anxiety: perceived employability mediates and growth mindset moderates
+- [[ai-enabled-course-development-first-year-adjustment-2026]] — AI usage pressure weakens the link between AI proficiency and first-year adjustment

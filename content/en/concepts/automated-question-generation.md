@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Automated Question Generation
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T11:35:26-04:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -50,6 +50,8 @@ The central challenge in AQG is **quality control**:
 
 - **Generated difficulty labels can be a construct-validity failure, not a calibration error.** Across 378 generated items the model's Easy/Medium/Hard labels tracked the Bloom level co-generated with them (ρ=0.90) and surface form - mean stem length rising from 15.9 to 22.1 to 30.2 words - but correlated with empirical item difficulty at only ρ=0.06 over 7,888 responses from 54 students, the case for calibrating generated metadata against response data rather than trusting co-generated tags ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
 - **Large-scale psychometric field validation:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] validates an iterative-refinement AQG pipeline (generate→judge→revise, Self-Refine style) in 91 real college classes (~1,686 students). Bayesian hierarchical 2PL [[item-response-theory|IRT]] analysis shows AI-generated questions perform on par with expert-written standardized-exam items — somewhat easier (β̄ = −0.45 vs. 0.35) but slightly more discriminating (ᾱ = 1.3 vs. 1.2), with higher peak test information (reliability 0.79 vs. 0.72) — demonstrating that AQG can produce course-tailored, psychometrically sound assessments at scale.
+
+- Average psychometric parity can mask item-level shortfalls: a scoping review of 153 medical-education reports found AI item generation sometimes matched human difficulty and discrimination, yet in one physiology comparison only 9 of 40 ChatGPT items met all ideal criteria against 19 of 40 faculty items ([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
 - **Recognizability in a live exam, and what review actually removes:** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] put 30 AI-generated and 30 National Licensing Exam MCQs into a graded tablet-based exam taken by 119 fifth-year [[medical-education|medical students]], with the AI items drafted from the course's own materials by ChatGPT-4o and Gemini 1.5 Pro through an expert panel that accepted 82% of them and eliminated 18.2% as unusable. Students' source attribution did not differ between the two kinds of item, and item difficulty, distractor distribution and perceived curricular alignment were statistically indistinguishable — a *recognition* result rather than a quality result, and the reason the authors describe the workflow's benefit as shifting educator effort from drafting to reviewing rather than removing it. One exploratory difference survived: Gemini items were harder than the licensing-exam items (p = 0.028), while ChatGPT items were not (p = 0.984).
 - **Task-dependence:** generation reliability varies by item type. [[cong-confidence-asag-2026|Short-answer grading]] and [[self-referential-l2-writing-llm-assessment|analytic writing assessment]] show that open-response and writing items are harder to generate and grade reliably than structured items.
 - **Cognitive quality:** [[llm-educational-question-cognitive-depth|cognitive-depth evaluation]] shows generated items may skew toward lower-order thinking unless explicitly designed for higher-order outcomes.
@@ -93,6 +95,7 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 - [[ai-education]]
 
 ## Connected Articles
+- [[genai-medical-education-transformation-review-2026]] — Scoping review of 153 medical-education reports on AI item generation versus faculty item quality
 
 - [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale field validation of AI-generated exam quality via IRT
 - [[generate-then-validate-question-gen]] — Generate-Then-Validate question generation

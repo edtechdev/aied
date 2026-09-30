@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-09-30T11:35:26-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -41,6 +41,11 @@ The knowledge base's research converges on several interconnected dimensions:
 - **Ethical and critical use:** recognizing [[bias-mitigation|bias]] in AI outputs, protecting student data ([[privacy]]), and ensuring equitable outcomes ([[equity-in-ai-education]]). [[llm-cultural-relevance-k12|Culturally relevant AI use]] examines how teachers can use LLMs to diversify materials rather than reinforce dominant norms.
 - **Ethical responsibility is distributed, not individual.** Across seven national cases teachers are positioned as moral gatekeepers of AI use while lacking institutional and epistemic support, so ethical AI literacy has to extend to critical and political agency rather than technical skill ([[raffaghelli-situated-ai-ethics-2026|Raffaghelli et al. (2026)]]).
 - **Confidence and attitudes:** teacher [[self-efficacy|confidence]] shapes adoption. [[teacher-ai-adoption-confidence|Adoption research]] finds confidence, support, and perceived utility drive whether teachers actually use AI, and [[ai-pedagogical-orientation|faculty orientations]] shape adoption in research and teaching.
+
+- In a five-country survey of 1,405 K-12 teachers, AI readiness predicted positive beliefs about GenAI's instructional value (B = .59, R² = .50) yet predicted *greater* creativity concern (B = .18), and the same predictors explained only 7% and 6% of concern — readiness-building alone leaves concern untouched ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu et al. (2026)]]).
+
+
+Readiness should be ordered and measured accordingly: the Capability–Decision Model places demonstrated AI capability upstream of attitude and confidence and proposes performance indicators rather than self-report alone — lesson-design tasks, prompt-evaluation tasks seeded with errors, content-validity judgments and classroom artifact rubrics ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 **Emotional and moral readiness is a distinct dimension.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] surveyed the academic staff of a Maltese [[higher-ed|university]] (109 respondents) and built an AI Guilt Index (α = 0.88) from four moral-emotion items, finding that *anticipatory* guilt outweighed remorse experienced after use: the strongest endorsement was worry that AI use undermines one's credibility (34.9% agreeing), then feeling like one is [[academic-integrity|cheating]] when using it (25.7%), while post-use remorse drew only 9.2%. The findings that matter for competency frameworks are that non-users reported *higher* guilt than users (M = 3.25 vs M = 2.32) and that guilt fell as career security rose — early-career academics reported the most (M = 2.71) and senior academics the least (M = 2.03). Emotional readiness is therefore not captured by skill or confidence measures, and the paper argues competency frameworks should treat guilt and identity concern as normal transitional responses rather than faults to correct.
 A stronger version of that reframing holds that GenAI is a threshold concept rather than a skills gap: an autoethnographic account argues faculty anxiety and resistance are constitutive of threshold crossing, so skills-based training fails and principled non-adoption should be respected rather than corrected ([[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]]).
@@ -161,3 +166,6 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
 - [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
 - [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
+
+- [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first teacher readiness model with performance-based capability indicators
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national survey of 1,405 K-12 teachers: readiness predicts positive beliefs but not concern

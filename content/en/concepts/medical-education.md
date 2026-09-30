@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-09-30T11:35:26-04:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -51,6 +51,9 @@ AI in medical and health-professions education is a growing strand of the knowle
 
 - **The shape of the field's own literature.** [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram, Nichols, Ganti and Gue (2026)]] map the ethical-AI-in-medical-education literature itself: 1,403 Web of Science publications from 1995 to 2026, negligible for two decades, then 113 in 2023, 256 in 2024 and 500 in 2025; 39 countries clear the authorship threshold, led by the United States (533 publications) over China (189) and England (95); and the most-cited works are capability tests — ChatGPT's performance on medical licensing examinations above all — rather than governance scholarship. Their reading is that the field has grown fast without growing evenly, and that empirical evaluation of [[governance|governance]] frameworks is the work the citation record is not rewarding. It is a useful caution for anyone treating the volume of published AI-in-medical-education research as evidence that its safe-use questions have been answered.
 
+
+A 153-report scoping review of GenAI in medical education maps applications — [[simulation|simulation]] and clinical skills largest (47 reports), ahead of assessment generation and feedback (22) and case-based learning and clinical reasoning (21) — yet only 13 reports carried a follow-up or retention signal and no patient-level outcome was found ([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
+
 ### Why it matters
 
 HPE is a high-stakes, competency-based domain where AI's benefits (scalable practice, adaptive feedback, simulation) must be balanced against risks ([[cognitive-offloading|Over-Reliance]], erosion of hands-on clinical skill, ethical and safety concerns). The knowledge base's general concepts — [[teacher-role]], [[assessment]], [[feedback]], [[equity-in-ai-education]], and [[ethics]] — apply with particular intensity in health professions, where errors carry direct patient consequences.
@@ -84,6 +87,7 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[virtual-and-augmented-reality]] — immersive and AR clinical training
 
 ## Connected Articles
+- [[genai-medical-education-transformation-review-2026]] — Scoping review of 153 medical-education GenAI reports: simulation leads, durability and patient outcomes unmeasured
 
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 8-dimension rubric evaluation of AI teaching agents in medical education
