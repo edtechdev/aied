@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-30T10:54:00-04:00"
+updated: "2026-09-30T12:20:22-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -39,6 +39,9 @@ Creativity spans the divergent-thinking end of the cognitive spectrum — genera
 
 
 A counterweight from graduate research: among 1,157 Chinese graduate students, [[generative-ai|GenAI]] dependence was positively associated with self-reported research creativity, far more strongly for functional, task-oriented dependence (β = 0.457) than for existential reliance (β = 0.147), with [[critical-thinking|critical thinking]] carrying roughly 85.0% of the functional pathway ([[genai-dependence-research-creativity-2026|Yin et al. (2026)]]).
+
+
+A national survey complicates that pattern: across 5,764 Chinese university students, AI dependence correlated negatively with self-reported creativity (r = −0.17), with escape and social motivations carrying negative indirect paths and instrumental and entertainment motivations positive ones ([[ai-dependence-creativity-motivation-literacy-2026|Hou et al. (2026)]]).
 
 
 - **Embodiment pays off unevenly.** A physical robot paired with a high-creativity model significantly raised originality over human–human and text-based collaboration, while human and text-based conditions kept the advantage in imagery and voice — an embodiment paradox in which the robot amplified the AI's output without improving style ([[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Liu & Song (2026)]]).
@@ -96,3 +99,4 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[genai-creativity-k12-scoping-review-2026]] — PRISMA scoping review of 45 K–12 studies: four GenAI uses for creativity, homogenization, and the measurement gap
 
 - [[genai-dependence-research-creativity-2026]] — Functional versus existential GenAI dependence and research creativity in 1,157 graduate students
+- [[ai-dependence-creativity-motivation-literacy-2026]] — AI dependence and four motivations for use relate divergently to self-reported creativity (Hou et al. 2026)

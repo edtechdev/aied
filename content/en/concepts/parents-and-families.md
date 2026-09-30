@@ -1,7 +1,7 @@
 ---
 title: Parents and Families
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-09-25T09:57:33-04:00"
+updated: "2026-09-30T12:20:22-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -39,6 +39,9 @@ The clearest design evidence on home tutoring comes from [[paratutor-parent-chil
 ## Companions and reading tools in the home
 
 Families more often meet AI as a companion app than as a tutoring system. [[liao-role-adaptive-ai-companion-book-talk-2026|Liao (2026)]] compared a fixed "student peer" companion (Whisper with GPT-3.5) against experienced homeroom teachers in book-talk sessions with 19 elementary students in Taoyuan, Taiwan — 12 in Grade 4 and seven in Grade 5, four sessions each. Students spent significantly more time with the AI, yet contributed a markedly lower proportion of words and sentences; for Grade 5 the share was less than a third of what they produced with the teacher, a pattern the paper calls conversational dominance. The companion was effective at eliciting factual recall and significantly weaker than the teacher at [[prompt-engineering|prompting]] emotional and future-oriented reflection — an affective ceiling. Liao's response is a role-adaptive framework in which one companion occupies Student Peer, Teacher Assistant and Parent Advisor roles, the last extending discussion into the home. The diagnosis behind it is a support vacuum: most companion designs stay focused on the student–AI dyad and give teachers and parents no defined place.
+
+
+**A share of adolescents prefer confiding in AI to their parents.** Cited Chinese data put 13.5% of young internet users preferring to confide in AI over their parents, and [[ai-connectedness-adolescent-mental-health-2026|Fu and Zhao's (2026)]] framework predicts AI bonding becomes compensatory substitution when caregivers fail to recognize an adolescent's identity-confirmation needs.
 
 Two early-childhood papers bear on what reaches the home. [[creative-project-approach-ai-early-childhood-2025|Yang, Li and Lee (2025)]] argue that physical, [[embodied-learning|embodied]] agents are developmentally preferable to screens for young children, but warn that generative social robots can fabricate content that preoperational children accept as truth, lack developmental calibration in their [[feedback]], and carry cost and access barriers that widen the [[digital-divide]]. [[ai-play-framework-early-childhood-2026|Malallah et al. (2026)]] take a different route with the same age group: their unplugged, [[game-based-learning|play]]-based AI-Play framework was implemented through a family-centered Hour of Code event, with parent surveys and child reflection sheets used to gauge engagement and [[usability-research|usability]] for at-home replication. They report high engagement and emerging understanding that AI learns from examples.
 
@@ -85,6 +88,7 @@ A 2026 scoping review maps how far the field has gone. [[llm-family-education-ac
 - [[intelligent-tutoring]] — the model behind AI-mediated parent–child tutoring
 
 ## Connected Articles
+- [[ai-connectedness-adolescent-mental-health-2026]] — Adolescent AI connectedness and when AI bonding substitutes for unmet caregiver recognition
 
 - [[paratutor-parent-child-tutoring]] — role-separated LLM support for 23 parent–child dyads in Chinese home math tutoring
 - [[liao-role-adaptive-ai-companion-book-talk-2026]] — fixed peer-role companion versus teacher with 19 elementary students in Taiwan

@@ -1,7 +1,7 @@
 ---
 title: Career Development and Readiness
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-09-29T15:31:39-04:00"
+updated: "2026-09-30T12:20:22-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
@@ -27,6 +27,9 @@ As AI transforms occupations, education's role in career development has broaden
 
 ## How career development and readiness appears in the knowledge base
 - **Career adaptability reduces AI anxiety.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] shows career adapt-abilities significantly and negatively predict AI anxiety among English majors, with core self-evaluations partially mediating the relationship; the low-adaptability group showed the highest AI anxiety. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] confirm the mechanism with SEM: AI anxiety impairs career decisions largely through eroded career adaptability (63.35% of the total effect), and self-efficacy offered limited buffering. [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] add that AI anxiety and negative AI attitudes predict post-graduation job-finding anxiety across 1,057 students, with women, social-science majors, and second-years most affected. [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al.]] extend this to health-sciences students (821, r = 0.233). Career readiness is thus an empirically validated buffer against [[anxiety-and-stress|career-related AI anxiety]].
+
+
+- **Readiness tracked engagement, not threat level.** In [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]], the most AI-anxious profile still reported the highest career crafting (4.222) and self-perceived employability (3.964), alongside the favorable profile that did not differ significantly — so anxiety level did not index career readiness.
 - **AI literacy is necessary but not sufficient.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] argue AI literacy alone is not enough for career readiness — students also need adaptability and positive self-evaluations, directly linking [[ai-literacy]] to career outcomes.
 - **Employer and graduate perspectives.** [[ithaka-sr-ai-skills-college-graduates-2026|The ITHAKA S+R report]] (500 US four-year-college instructors, compared against 200 US employers) documents a **systematic skills-prioritization gap** between instructors and employers that signals the workforce demands shaping [[higher-ed|higher education]] curricula. Instructors and employers agree on the importance of only one of 26 AI skills (setting realistic expectations for AI-augmented work): instructors prioritize a *critical, responsible-use* orientation (attribution, human accountability, limits of AI), while employers favor *workflow, automation, and human–AI teaming* skills. The report finds only three of 26 skills are taught by half or more instructors — the under-taught categories (workflow redesign, automation, technical integration) are precisely where employer demands diverge most — and that most institutions lack both a consensus on what AI skills look like and an assessment framework for them. For career development, this means graduates' readiness depends on closing a real, measurable gap between what employers value and what curricula teach, not just on adding AI literacy.
 - **Course policy as a workforce-competency decision.** [[mccorkle-aligned-genai-course-policy-2025|McCorkle's (2025)]] design case makes the trade-off explicit at task level: for each step of a semester project the instructor pairs an emerging [[generative-ai|GenAI]] workforce competency (prompting for objectives, generating images, writing scripts, text-to-speech narration) against the need to assess a foundational skill, and permits AI only where the competency wins — a concrete way to build the workflow skills employers value ([[prompt-engineering]], evaluation of [[llm|LLM]] output) into existing assignments rather than adding a separate AI course.
@@ -66,3 +69,4 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and attitudes predict job-finding anxiety (1,057 students)
 - [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences (r=0.233, 821 students)
 
+- [[ai-attitude-latent-profiles-career-development-2026]] — Four AI-attitude profiles: career crafting and employability tracked engagement, not anxiety
