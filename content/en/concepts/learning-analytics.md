@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -41,10 +41,12 @@ reviewed_by: [editor]
 - **Feedback analytics:** [[teaching-feedback-classification-benchmark|Feedback classification]] and [[ai-feedback-quality|quality assessment]] analyze the feedback students receive.
 - **Network analysis:** [[misiejuk-cognitive-offloading-prompting-2026|Co-Occurrence Network Analysis]] and [[epistemic-emotions-collaborative-problem-solving|epistemic network analysis]] reveal interaction patterns.
 - **Privacy tensions:** [[privacy]] concerns grow as analytics become more granular and AI-driven.
+- **A governance review framework for student data.** LEAGUE proposes six pillars — Lawfulness, Equity, Agency, Governance, Utility, and Ethics by Design — treating FERPA and GDPR compliance as the floor and recommending scheduled reassessment as models drift ([[league-ethical-governance-student-data-2026|Varadaraju & Vijayakumar (2026)]]).
 
 ### The learning analytics cycle
 
 Learning analytics is canonically framed as a cycle that begins with learner activity producing data, which is processed into measures and indicators that are then translated into **interventions** — and the intervention feeds back into learner activity to close the loop. The intervention step is what distinguishes analytics from mere monitoring or prediction: without it, analytics describe and flag but never change learning. This cycle is the organizing frame for understanding where AI tools (dashboards, feedback generators, prescriptive recommenders) sit in the pipeline and which step they automate.
+A learner-facing dashboard is only as good as its reach: in a Hong Kong Grade 9 writing study a prompt classifier reached a macro F1 of 0.757, about a third of the 46 students opened the three GenAI-use dashboards and the group differences in copying and learning-oriented prompting were not reliable ([[learning-analytics-genai-secondary-writing-2026|Fong et al. (2026)]]).
 
 ### From description to intervention
 
@@ -125,7 +127,6 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[learning-paths-patterns-learning-design-2026]] — Markov chain and pattern mining of 29,064 planned activities in 554 courses, revealing a design grammar led by Acquisition and consolidating Practice
 - [[pulla-parsons-problem-tool-2026]] — Pulla: process-level behavioral tracing and instructor-facing difficulty analysis in Parsons problems (Prol et al. 2026)
 - [[a4l-analytics-pipeline]]
-- [[huang-interpretable-knowledge-tracing-2026]]
 - [[league-ethical-governance-student-data-2026]]
 - [[precision-education-student-digital-twins-2026]]
 - [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI

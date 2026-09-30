@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -61,6 +61,8 @@ When AI is designed to support reflection rather than replace it, metacognition 
 
 - **Learning journals** are a classic metacognitive practice: by reflecting on learning processes, students increase awareness of their cognition
 - **Structured prompts** that ask students to self-explain, evaluate strategies, or identify knowledge gaps preserve metacognitive demand. CoMeT (Hou et al. 2026) gives that phrase a definition and an empirical warrant: it treats metacognitive demand as a quantity distinct from [[cognitive-offloading|cognitive load]] — what the learner must decide, state, or judge before help arrives, not simply what remains when help is withheld — and held it statistically equivalent to a tutor that withheld answers by design (p_TOST = .004) while its own support escalated and faded one rung at a time. Fading held when the learner's turn was aimed at the decision under support: turns aimed elsewhere drew a later concession 40.3% of the time against 28.8% for aimed turns, an 11.5-point difference, so what a tutor must read for is where the learner's attention sits rather than how much effort the turn displays.
+
+- **Assign an AI-use level per task.** HAIML pairs its three layers with Four AI Use Levels — from no AI use, through brainstorming, to AI collaboration and AI-integrated creation with output evaluation — so an instructor sets the level for a task and keeps metacognitive reflection central at every level ([[haiml-human-centered-ai-metacognitive-model-2026|Reardon, 2026]]).
 - The **example-based course** in Scheu et al.'s [[conversational-ai|chatbot]] increased **perceived competence** (a metacognitive [[self-assessment]]) even when the [[llm]] assistant alone did not
 - **An emerging framing puts the system, not just the individual, in the loop.** A bibliometric–systematic review of 135 STEM-classroom studies (24 core studies) finds a posthumanist framing emerging that positions AI as a co-regulator of learning, shifting the unit of analysis from individual reflection to system-level [[regulation]] and [[distributed-cognition|distributed cognition]] ([[ai-metacognition-stem-review|Tsakeni et al. (2025)]]).
 
@@ -95,6 +97,8 @@ External support can also step in front of the judgment entirely. [[iqbal-human-
 [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] provide direct causal evidence that metacognitive calibration is a *trainable* skill. In two preregistered experiments (N=164, N=416), **just five practice trials pairing a performance prediction with veridical feedback** improved calibration and reduced bias. A four-group additive design isolated the causal component: **making predictions alone was ineffective; adding performance feedback drove the improvement; explicitly labeling over-/underconfidence added nothing further**. Critically, the improvement acted on *absolute* calibration — raising confidence in the underconfident and lowering it in the overconfident — so it corrected [[trust-calibration|miscalibration]] in both directions rather than shifting everyone one way (which is why signed/directional effects were null). This strengthens the "experiences not beliefs" account above and shows the *minimum viable metacognitive training*: prediction + immediate, task-specific feedback.
 
 - **A brief reflection prompt sharpens monitoring during AI-supported decisions.** [[ren-metacognitive-awareness-genai-reliance-2026|Ren (2026)]] added three reflection prompts before finalizing answers in a three-condition experiment with 342 undergraduates: acceptance of incorrect ChatGPT advice fell from 62.4% to 39.7% (*OR* = 0.40) and awareness calibration rose (0.59 vs. 0.41), while recommendation accuracy and alignment with correct advice stayed high. Reflection made reliance more discriminative rather than uniformly defensive, which supports treating reliance as a monitoring problem rather than a question of how much AI is used.
+
+- **Nest prompting inside a metacognitive cycle.** The IDEA framework sequences GenAI use as Intent, Deconstruction, Expression, and Adaptation, making prompting one step in planning and monitoring rather than a stand-alone skill; students taught it produced higher-quality prompts than peers taught Role–Task–Context–Format prompting in all five task categories ([[idea-framework-metacognitive-genai-2026|Wang et al., 2026]]).
 
 ## Implications for Tool Design
 
@@ -134,14 +138,12 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 
 ## Connected Articles
 - [[powerful-learning-with-emerging-technology-2025]] — Explainability and productive struggle as metacognitive design
-- [[genai-performance-vs-learning]] — the performance/learning distinction, and metacognitive laziness as offloaded evaluation (Yan et al. 2025)
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — a two-hour AI literacy workshop shifted middle-school students' LLM-interaction regulation, unlike their self-reported metacognition (Clerc et al. 2026)
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
 - [[du-yuan-epistemic-dependence-2026]] — Epistemic dependence in AI-mediated learning (Du & Yuan 2026)
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
 - [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
 - [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
 - [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
@@ -162,7 +164,6 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Reflection on the prompting process and authorship development in the Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
-- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt cut acceptance of incorrect AI advice and improved awareness calibration (Ren 2026)
 - [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Automated scoring reinforced monitoring but not planning, and self-reported reflection stayed unproductive (Chen & Liu 2026)
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Verification literacy acting only through metacognitive self-regulation (Davor, Larbi & Boateng 2026)

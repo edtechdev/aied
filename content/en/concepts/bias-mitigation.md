@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -40,6 +40,8 @@ The knowledge base's research documents bias entering at multiple points in the 
 - **Marginalized knowledges:** [[genai-minoritized-knowledges-disability|Generative AI and minoritized knowledges]] documents how training data and model behavior marginalize non-dominant knowledge systems and disability perspectives.
 - **Stereotype-aligned automated feedback (Marked [[pedagogy|Pedagogies]]):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] show four widely used LLMs systematically shift writing feedback in stereotype-aligned ways when feedback is personalized with student attributes — race, ethnicity, ELL designation, learning disability, achievement, or motivation — producing positive feedback bias and feedback withholding bias (overuse of praise, less substantive critique, assumptions of limited ability) for marked students even on identical essays. The "Marked Words" concentration metric offers a concrete method for auditing such bias in automated feedback.
 - **Visual bias in text-to-image tools:** [[bias-representation-text-to-image-education-2026|Alon, Hadar Shoval, and Levkovich (2026)]] [[meta-analysis-systematic-review|systematically review]] 31 peer-reviewed studies (2023–2025) on bias and representation in educational uses of AI-generated text-to-image. Using a six-part analytic framework (gender; race, ethnicity, and SES; culture and religion; age; body and (dis)ability; content), they find biased representation pervasive — images frequently centered white, male, Western, thin, and non-disabled figures, while diversity related to age, body, and ability was largely overlooked. Most studies relied on image audits and [[qualitative-research|qualitative]] methods, with few experimental or intervention-based designs, revealing significant blind spots in how educational research measures and responds to visual bias.
+
+- **Avatar identity cues reproduce offline bias.** Across two experiments (N = 396), White avatars — and, in STEM contexts, Asian male avatars — were rated more credible and competent while older Black female avatars were penalized; STEM and procedural tasks amplified the bias and reflective and interpersonal tasks attenuated it ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
 - **Non-discrimination as a core ethical value.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], a [[meta-analysis-systematic-review|systematic review]] of 25 articles, identify non-discrimination (definitions using bias/discrimination/diversity) as one of six main ethical values for [[ai-education|AI in education]], alongside data stewardship, human oversight, goodwill, explicability, and educational aptness. The review notes the values are tightly coupled and can conflict — e.g., non-discrimination vs. data stewardship — producing ethical dilemmas, and that no norms on non-discrimination address end users directly, leaving learners largely passive in the ethical literature.
 
 - **Allocation bias in AI-assisted team formation.** [[genai-social-bias-software-engineering-education-2026|Entezami et al. (2026)]] show bias entering a task class outside scoring and feedback: three LLMs assigning 28-student software-engineering classes to four teams routed men at least 80% less often than women to Interface Design rather than Core Development (GPT-5.2 OR < 0.01), and nationality shifted placements independently of merit. Supplying skills reduced but did not remove it - 99.2% of skill-based assignments matched one of two ground-truth teams, yet gender still decided between equally valid options (OR 2.53 GPT-4.1, 2.81 GPT-5.2, 1.43 DeepSeek) - and parallel image generation skewed single-person images male and light-skinned (gender V = 0.64 and 0.65; skin tone V = 0.57 and 0.61) while multi-person images stayed comparatively balanced.
@@ -115,7 +117,6 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[xai-education-framework]] — Explainable AI in education
 - [[antiskillbench-persona-skills-privacy-2026]] — Persona-skills privacy and bias auditing
 - [[genai-minoritized-knowledges-disability]] — GenAI and the marginalization of minoritized knowledges
-- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education: systematic review
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned biases in automated writing feedback
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - [[bias-representation-text-to-image-education-2026]] — Bias and representation in AI-generated text-to-image: systematic review (Alon et al. 2026)

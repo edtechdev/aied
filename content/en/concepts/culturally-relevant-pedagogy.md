@@ -1,7 +1,7 @@
 ---
 title: Culturally Relevant Pedagogy
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -46,6 +46,7 @@ A body of knowledge base-sourced work addresses the *content* and *evaluation* g
 - **Non-Western training data:** IKS-Instruct provides a **24,795-example [[multilingual-learning|multilingual]] instruction dataset** for [[teacher-role|teaching]] LLMs Indian Knowledge Systems across seven [[language-learning|languages]] and 41 [[pedagogy|pedagogical]] techniques. A compact domain-tuned 7B model reached a median judge score of 6.39 (vs. 6.54 for a far larger general-purpose model) — while the base model scored **near zero** on IKS-specific dimensions, showing how much culturally grounded data improves relevance.
 - **[[global-south|Global South]] [[benchmark|benchmarks]]:** The **NSMQ Riddles** benchmark draws 1.8K scientific/mathematical riddles from 11 years of Ghana's National Science and Maths Quiz — one of the first Global South educational benchmarks — and found state-of-the-art LLMs **underperform the best student contestants**, exposing geographic bias in how models are evaluated.
 - **Culture over policy:** A cross-cultural survey of Canadian and South Korean [[cs-education|computing]] students found that **culture, not policy text, drove perceptions of AI-use ethicality** — identical behaviors were judged differently across cohorts, reinforcing the need for culturally aware communication rather than abstract rules.
+- **Cultural navigation is where AI support is weakest:** International students rated conversational AI highest for grammar, structure, and summarizing (mean 4.27) and lowest for cultural navigation (mean 3.49) ([[international-students-conversational-ai-adaptation|Nourian et al. (2026)]]).
 - **Cultural adaptation as design moves:** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] operationalize cultural relevance in an AI [[well-being]] support system ([[culturally-aware-student-stress-chatbot-2026|Sukoon]]) through three moves: a bilingual 20-question assessment with parallel English and Urdu labels; a system prompt instructing the model to respond consistently with Pakistani social and cultural norms and to use Urdu and Roman Urdu expressions where appropriate; and explicit sensitivity to locally salient stressors (family expectations, financial pressure, hierarchical teacher-student relationships). Their justification is empirical as well as ethical — [[explainable-ai|feature importance]] placed teacher-student relationship second among stress predictors — but they concede the adaptation lives in the prompt rather than in the NLP pipeline, and that cultural appropriateness was assessed only by informal testing, not by the students the system targets.
 
 ### Practical Guidance
@@ -80,7 +81,6 @@ Grounded in the knowledge base's own articles, educators and designers can apply
 - [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
 - [[ojeda-ramirez-community-based-ai-learning]] — Community-Based AI Learning
 - [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
 - [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana STEM Benchmark
 - [[cross-cultural-student-perceptions-genai-computing]] — Cross-Cultural Perceptions of GenAI Use
 - [[international-students-conversational-ai-adaptation]] — International Students and Conversational AI

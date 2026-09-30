@@ -1,7 +1,7 @@
 ---
 title: Learning by Teaching
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -53,6 +53,7 @@ A central design challenge for LLM-based teachable agents is that LLMs are train
 Two further affordances recur across the knowledge base:
 
 - **Questions identify knowledge gaps.** LbT systems use learner-generated questions to expose gaps and reinforce comprehension, and [[teaching-ai-vocabulary-lbt-llms-2026|LLM-generated questions]] replace rigid template-based generators.
+- **Teach-back surfaces what clarification misses.** In a 22-participant post-lecture review system, a Peer agent's reflective teach-back consistently exposed gaps between what learners believed they understood and what they could articulate, which lecture-grounded clarification alone had not revealed ([[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]).
 - **LbT [[scaffolding|scaffolds]] self-[[regulation]].** Teaching a [[conversational-ai|conversational agent]] fosters [[self-efficacy]] and the implementation of self-regulated learning strategies, and connects LbT to [[desirable-difficulties]] — the effortful act of explaining and correcting is itself a productive struggle that AI's friction-removal would otherwise erase.
 
 ## Why It Matters in AI Education

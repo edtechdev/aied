@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -31,6 +31,7 @@ Trust in AI is shaped by perceived competence, transparency, consistency, and wh
 Transparency about *what a system is* — not only what it can do — also shapes calibration: the Amico accompaniment prototype made its identity and limits explicit, and its Italy–China pilot found learners recognized it as a bounded support tool rather than an autonomous tutor or relational substitute, avoiding anthropomorphic over-trust ([[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]).
 
 In higher-education institutions, the lever may be usefulness rather than rules: a survey of 2,121 students, faculty and staff at one university found perceived usefulness the strongest correlate of trust in AI (β = 0.402), with perceived policy clarity positive but weaker (β = 0.223) ([[ai-adaptation-gap-higher-education-2026|Braun & Khafizov, 2026]]).
+**Distrust of accuracy can coexist with confidence in managing the tool.** In a survey of 8,021 students across four Australian universities, 51% distrusted GenAI's factual accuracy while 76% were confident in their ability to get the outputs they wanted, and usefulness rather than trust or rule compliance drove their use ([[genai-use-usefulness-student-experience-australia-2026|Chung et al., 2026]]).
 
 The [[ai-overreliance-complex-adaptive-system-2026|modeling of AI overreliance as a complex adaptive system]] reframes trust as a population-level process: whether people trust an assistant when it is right and check it when it is wrong depends on social dynamics and feedback loops, not just individual judgment. Sycophancy threatens calibration from the other direction — [[ai-sycophancy|an AI that always agrees]] can feel trustworthy precisely because it never challenges the user, inviting uncritical acceptance ([[contextual-sycophancy-ai-literacy|contextual sycophancy]] and [[sycophantic-ai-social-interaction-2026|sycophantic AI in social interaction]]). In [[embodied-learning|embodied]] contexts like [[educational-robotics]], trust is shaped more by what the robot does than what it looks like ([[task-context-trust-educational-hri-2026|task context and trust in educational HRI]]), and [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|avatar identity]] shapes the epistemic trust learners place in AI content. Trust in [[learning-analytics|analytics]] tools is also context-dependent. [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] found that teachers' concerns and adoption barriers diverged sharply by learning context: flipped-classroom (university) teachers worried most about data anonymization and student opt-out, whereas reflective-writing (vocational) teachers feared misuse of the tool by fellow educators and stressed the need to contextualize data — even though both groups reported similar [[self-efficacy]] and perceived benefits in a trust in AI survey. The finding that trust in the tool is decoupled from trust in its data governance and social use underscores that building appropriate trust in analytics requires attending to context-specific concerns, not just the system's apparent competence.
 
@@ -78,7 +79,6 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 
 ## Connected Articles
 - [[ilieva-agentic-genai-higher-education-2026]] — Perceived risk correlates positively with continued-use intention: informed adoption (Ilieva et al. 2026)
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — The teacher-student trust gap over control and agency in K-12 classroom AI
 - [[qu-wang-disclose-or-not-genai-2026]] — Disclosing AI use is driven by relational factors and comfort with instructors, not policy
 - [[genai-teacher-feedback-comparison]] — GenAI and teacher feedback serve different, complementary trust needs
@@ -92,13 +92,11 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Avatar identity and epistemic trust in AI-mediated learning
 - [[contextual-sycophancy-ai-literacy]] — Contextual sycophancy and its limits for trust calibration
 - [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel less satisfying over time
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Teachers' trust and distrust of AI shaped by ethics and technical knowledge
 - [[ai-pedagogical-accompaniment-amico]] — Accountable pedagogical mediation and trust in AI-enabled systems
 - [[best-response-student-ai-dialog-2026]] — Trust in student-AI dialogue
 - [[ai-adaptation-gap-higher-education-2026]] — Perceived usefulness as the strongest predictor of AI trust in higher ed
 - [[bassett-ai-detectors-education-2026]] — Trust and distrust of AI detection systems
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
-- [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]

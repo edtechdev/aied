@@ -1,7 +1,7 @@
 ---
 title: Framing AI Use for Students
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -107,4 +107,3 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 - [[ai-ethics-education-public-discourse]] — Public discourse on AI ethics in education
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors frame AI as critical/responsible use; employers frame it as productivity
 - [[ssaho-ai-academic-integrity-review-2025]] — Building a culture of academic integrity via clear expectations
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Human-first habits of participation in AI-mediated learning

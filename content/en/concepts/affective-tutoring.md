@@ -1,7 +1,7 @@
 ---
 title: Affective Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -58,6 +58,7 @@ The authors argue that emotional risks are part of a broader pattern of **erosio
 2. **Transparency about affect detection** — Students should know when and how their emotions are being inferred
 3. **Affect-as-one-signal-among-many** — Combine with cognitive state (e.g., [[huang-interpretable-knowledge-tracing-2026]]) and behavioral engagement
 4. **Privacy-by-default for [[multimodal]] sensors** — Facial/video data requires stronger protections than text-only inference
+5. **Trigger on trajectories, not point estimates** — Ordered affect shows short-range persistence and directional transitions, and probe-caught reports (self-loops around curiosity and confusion) are a different measurement from self-caught ones (frustration, surprise, conflict), so interventions should key on the sequence rather than summary frequencies ([[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]]).
 
 A boundary on affect inference from dialogue: [[ecnuclaw-k12-personalized-companion|Zhou, Li and Zhang (2026)]] update a five-dimension learner profile at each turn — including an emotional dimension — but extract signals with keyword dictionaries, so a student who expresses frustration without the predefined keywords is not profiled, and profile accuracy has not been validated against expert judgment.
 
@@ -82,8 +83,6 @@ Affective tutoring intersects with [[hazra-safetutors-pedagogical-safety-2026|Sa
 
 - [[zerkouk-comprehensive-review-its-2025]]
 - [[ecnuclaw-k12-personalized-companion]]
-- [[empathy-coaching-chatbot]]
-- [[engagement-assessment-video]]
 - [[epistemic-emotions-collaborative-problem-solving]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[nie-personavlm-long-term-personalization-2026]]

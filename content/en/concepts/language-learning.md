@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -41,6 +41,8 @@ A comparison of 52 EFL assessment tasks rated by 20 experienced teachers found n
 **Motivational mechanisms in AI-assisted language learning** examine why learners engage with AI for language practice. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** used goal-setting theory with 758 Chinese university English learners to show that **teacher support** enhances engagement in AI-assisted learning through students' mastery-approach and performance-approach goals (not avoidance goals) — evidence that the pedagogical and social context, not just the AI tool, determines whether learners stay engaged with AI-assisted language practice. This connects language learning to [[motivation]] and [[student-engagement]].
 
 [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] add a qualitative self-determination case: in interviews with 25 Malaysian undergraduates, ChatGPT supported competence and autonomy, and its conversational responsiveness produced a sense of being heard — an "AI-mediated motivational ecology" in which relatedness is partly met by the tool, though inaccurate references demanded verification and human complement.
+
+Design quality, not usage frequency, carried the motivational effect in an instructor-built tutor: across 74 undergraduates using a course-scoped Japanese GPT, out-of-class usage frequency showed no significant correlation with autonomy, competence, or relatedness, while learners rated the tutor highly for self-directed learning (M = 4.39) and cited affective safety (60.8%) ([[instructor-designed-ai-tutors-foreign-language-sdt-2026|Lee & Kwon, 2026]]).
 
 **GenAI-supported writing at the primary level.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] ran a nine-week opinion-writing program with 301 Grade 5 and 6 learners in Eastern China, with eight intact classes randomly assigned to the program or to conventional instruction. The program raised learners' ideal L2 writing self (adjusted mean difference 0.20) and academic buoyancy (0.17), and lifted behavioral and emotional engagement, but it did not move growth mindset, cognitive or metacognitive engagement, or rubric-scored organization — among writing dimensions only language use improved. Two features of the design matter for language teachers: prompting was taught explicitly, through a categorized bank of prompts tied to specific writing goals, and GenAI feedback was used alongside comparison with teacher feedback and repeated revision. The authorship gains learners reported rested on that instructional structure rather than on the tool by itself, and the authors name reduced [[metacognition|self-monitoring]] and shortcut-oriented strategies as the standing risks.
 
@@ -105,7 +107,6 @@ A comparison of 52 EFL assessment tasks rated by 20 experienced teachers found n
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[liu-emerging-tech-tefl-review-2026]] — Meta-analysis of emerging tech for EFL
 - [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
-- [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[asr-english-speaking-feedback-metacognition-2026]] — ASR technology in college English speaking: feedback internalization and metacognitive strategies
 - [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 learners (Lu et al. 2026)

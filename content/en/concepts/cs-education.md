@@ -2,7 +2,7 @@
 connected_resources: [liascript]
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -178,7 +178,6 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
 - [[zhang-ml-student-progress-programming-2026]]
 - [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in a software PBL course; throughput vs. comprehension
-- [[genai-cognitive-tutor-programming-2026]] — GenAI as informal cognitive tutor in novice programming learning
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: benchmarking models' capacity to generate strategic misconceptions across the CS curriculum
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection red-team of AI-mediated grading: hidden instructions that move the mark undetected

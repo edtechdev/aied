@@ -1,7 +1,7 @@
 ---
 title: Large Language Models (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, intelligent-tutoring, prompt-engineering, rag]
@@ -79,10 +79,8 @@ A complementary line of work reframes LLMs from static graders into emulators of
 - [[eduguard-safe-rag-llm-tutor]]
 - [[llm-difficulty-calibration-programming-exams-2026]]
 - [[student-llm-interaction-taxonomy-review-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following
 - [[teachlm-post-training-llms-education]] — TeachLM: post-training with authentic learning data
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[auto-marking-short-answer-science-2026]]

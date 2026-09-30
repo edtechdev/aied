@@ -1,7 +1,7 @@
 ---
 title: Training Pedagogical LLMs for Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -150,7 +150,6 @@ Because tutoring requires corrective friction — challenging a student's incorr
 - [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]]
 - [[contextual-sycophancy-ai-literacy]]
 - [[educational-llm-alignment]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[llm-tts-dialogue-lesson-generation]]
 - [[multimodal-learning-genai]]
 - [[neural-symbolic-knowledge-tracing]]

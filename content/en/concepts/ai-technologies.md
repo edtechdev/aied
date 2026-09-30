@@ -1,7 +1,7 @@
 ---
 title: Technologies
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
@@ -87,7 +87,6 @@ The technical strand is inseparable from the knowledge base's other themes:
 - [[eduguard-safe-rag-llm-tutor]] — Guardrailing RAG-based LLM tutors
 - [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and harms
 - [[elbench-education-llm-benchmark-2026]] — Education LLM benchmark
-- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-based design for generative social robots
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini generative social robot
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in education
 - [[benzion-ai-physics-simulations-virtual-lab]] — LLM-generated physics simulations for the classroom

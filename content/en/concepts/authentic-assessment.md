@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -74,6 +74,7 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 ## Implications for AI in education
 
 - **AI-proof assessment types:** in-vivo demonstrations, social-contribution portfolios, co-created artifacts with auditable provenance, and real-time [[embodied-learning|embodied]] interaction are more resilient to generative AI than take-home essays or MCQs.
+- **The exposure is measurable.** A three-year psychology degree proved 90% passable: ChatGPT produced adequate output on 36 of 40 coursework assessments, and only the four tasks requiring presence, a visual artifact, or the student's own data resisted ([[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]]).
 - **Co-design at scale:** AI tools could enable rubric co-design and student co-creation of assessment parameters at classroom or [[online-teaching-and-learning|MOOC]] scale — though machine-mediated agency must be designed carefully.
 - **Address the social-authenticity gap:** only 3/37 studies addressed social issues; AI assessment tools should help students contribute to societal transformation, not merely simulate it.
 - **Sustainable feedback:** [[ai-feedback-quality|AI feedback]] should be designed to transfer to future contexts, not just provide reactive, momentary corrections.
@@ -102,7 +103,6 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[arts-design-and-media-education]]
 ## Connected Articles
 - [[thapa-lewis-process-oriented-assessment-2026]] — process-oriented assessment and epistemic authenticity as what a task should authenticate
-- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[ivory-psychology-assessment-integrity-2026]] — What AI could not pass: presence, visual artifacts, and the student's own data (Ivory et al. 2026)
 - [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
 - [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
@@ -113,7 +113,6 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
 - [[nicola-richmond-programwide-assessment-genai-2025]]
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[espino-ai-business-education-review-2026]]
 - [[genai-simulate-patient-history-pbl-2026]]
 - [[pbl-structural-conditions-ai-2026]]
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review

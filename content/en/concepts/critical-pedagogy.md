@@ -1,7 +1,7 @@
 ---
 title: Critical Pedagogy
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
 pedagogy: [critical-pedagogy]
@@ -40,6 +40,9 @@ Critical pedagogy is distinct from [[critical-thinking]]. Critical thinking is a
 
 - **Sustainability as a value-based project.** AI's effect on educational sustainability is conditional and governance-mediated, not intrinsic: a value-critical analysis holds that AI supports sustainable education only when adoption is subordinated to explicit educational values and undermines it when technologization and commodification erode them ([[alsuhaymi-sustainable-education-ai-digitalization-2026|Alsuhami & Atallah (2026)]]).
 - **Efficiency-first alignment discourse as an erasure of context.** [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] apply Fairclough's three-dimensional model to 14 pieces of gray literature (November 2022 – April 2025) advising higher-education practitioners to use [[generative-ai|generative AI]] for constructive alignment, and find a techno-solutionist discourse in which the tool is anthropomorphized as "an educational expert and assistant" and academic staff are positioned as supplying "subject matter expertise" while the system performs the pedagogical work. The analysis names the erasure of situated, disciplinary and critical context as one of three failure modes — alongside performativity (alignment that only looks aligned) and shallow alignment that conflates the constructive dimension with the aligned one — evidence that even advice about [[learning-design|course design]], ostensibly a neutral technical matter, carries the depoliticising logic critical pedagogues critique elsewhere.
+
+
+- **Design remedies are not enough on their own.** Human-centered design approaches such as value-sensitive design are insufficient: they leave the systemic drivers — workforce-productivity framings and economic incentives — untouched, and [[agency]] may be zero-sum, so capability handed to the tool is capability the learner does not retain ([[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis (2026)]]).
 
 - **Human rights education as the test case for AI governance as formation.** [[kasa-malksoo-ai-human-rights-education-2026|Kasa-Mälksoo (2026)]] works through the UN's *about, through, for* framework in a law program and locates the difficulty not in the technology but in the pedagogy: students submitted polished written work and polished session designs without the engagement those artifacts are supposed to evidence, and the most critical thinking appeared in end-of-course writing rather than in class dialogue. Her conclusion shifts the educator's role rather than shrinking it — [[governance|AI governance]] becomes a professional responsibility students are trained to contest, and the [[llm|tool]] is directed rather than banned.
 ### The role of the educator

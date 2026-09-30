@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -46,6 +46,7 @@ Prompt design is itself a measurable lever: on the MathDial benchmark a pedagogi
 
 **[[generative-ai|GenAI]] for mathematical modeling tasks** extends the generation strand beyond routine exercises. An AI-powered platform developed through the ADDIE approach used direct variation in secondary school mathematics as an illustrative topic, addressing teachers' lack of time and resources to design high-quality modeling tasks: existing tools typically produce conventional word problems or routine exercises, whereas the platform aimed to generate resources that foster mathematical modeling competencies, grounded in established design principles and [[prompt-engineering|retrieval-augmented generation]].
 - **Visual chain of thought: the [[agency|autonomy]] gap in geometry.** GeoVAD-Bench diagnoses intermediate visual aids rather than final answers across 600 auxiliary-construction problems (200 easy, 200 medium, 200 hard), and finds a consistent pattern: supplying the reference auxiliary diagram improves accuracy modestly (+3.3, +3.0, +7.0 points across three models) while leaving the model to construct its own auxiliary line on the way to the correct answer widens the gap by 10.0 to 13.5 points, with two models performing worse than when they had no visual reasoning at all. Four process-error categories accounted for 93.1% and 89.7% of attributed failures. For [[problem-solving]] instruction the finding is that diagrammatic scaffolding has to be trained and evaluated separately from answer accuracy. ([[geovad-bench-visual-chain-of-thought-geometry-2026]])
+- **AI-susceptible problems lose study time and retention.** A ten-year panel of 3.2 million ALEKS interactions found learning time on text-based word problems — those most transcribable into AI prompts — fell 26.9% after ChatGPT's release, while proctored retention items showed a 25% decline in the odds of a correct response ([[generative-ai-reduced-study-time-math|Rismanchian et al., 2026]]).
 
 ### Connections to related concepts
 

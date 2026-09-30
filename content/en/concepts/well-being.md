@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -79,7 +79,6 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[sovereign-hive-titl-further-education-2026]]
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision oriented toward learner flourishing
 - [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
 - [[ai-emotional-intelligence-teacher-development-2026]] — Relational densification as the criterion for AI-supported teacher development

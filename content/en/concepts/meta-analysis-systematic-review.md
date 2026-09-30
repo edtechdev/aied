@@ -1,7 +1,7 @@
 ---
 title: Meta-Analysis and Systematic Review
 created: "2026-08-14T05:24:40-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
@@ -143,10 +143,7 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 
 ## Connected Articles
 - [[xia-ai-interdisciplinary-higher-education-review-2026]] — Systematic review of AI in interdisciplinary higher education (59 studies)
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[nguyen-genai-global-south-review-2026]]
-- [[espino-ai-business-education-review-2026]]
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
 - [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
 - [[ai-vocational-education-training-review]] — First systematic review of AI in vocational education and training
@@ -160,7 +157,6 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 - [[genai-writing-performance-meta-analysis-2026]] — Meta-analysis of GenAI-supported L2 writing: a large pooled effect undermined by extreme heterogeneity and a quality-driven moderator
 - [[ai-literacy-heptagon-2026]] — Integrative literature review of AI literacy dimensions (PRISMA-guided)
 - [[llm-intervention-design-cs-review]] — Review informing LLM intervention design in CS
-- [[human-autonomy-agency-hri-review-2025]] — Review of human autonomy and agency in human-robot interaction
 - [[rail-ed-genai-literacy-teacher-education]] — Review of GenAI literacy in teacher education
 - [[student-llm-interaction-taxonomy-review-2026]]
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis

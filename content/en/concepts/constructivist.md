@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
@@ -34,6 +34,7 @@ Constructivism is a family of theories rather than a single doctrine, but its co
 - **Prior knowledge shapes new learning.** New ideas are interpreted through the learner's existing mental models, so instruction must surface and build on what learners already know — a principle directly relevant to [[misconceptions]] and to AI tutors that adapt to the learner.
 - **Social interaction supports construction.** A major strand — social constructivism — holds that meaning is co-constructed through dialogue, collaboration, and culturally [[situated-learning|situated]] activity. This connects constructivism to [[collaborative-learning]] and to [[socratic-method]] approaches in which AI prompts rather than dictates.([[ai-agents-constructive-conflict-design-education-2026]])
 - **Construction is visible in activity.** Learners reveal (and consolidate) their understanding by generating, explaining, and producing — which is why the [[icap-framework|ICAP framework]] ranks "constructive" and "interactive" [[student-engagement|engagement]] above "active" and "passive" modes.([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
+A boundary on the theory is that constructivism presumes human-centered epistemic agency, which leaves it short of accounting for an AI that simulates reasoning and co-constructs meaning; the proposed supplement is epistemic co-agency, in which learners treat AI output as contestable and keep epistemic sovereignty over what counts as knowledge ([[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Samuel (2026)]]).
 
 ## Constructionism
 
@@ -138,13 +139,9 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[beyond-detection-authentic-assessment-ai-2025]] — Authentic assessment and knowledge construction
 - [[teacher-ai-teaming-five-levels]] — Levels of teacher–AI collaboration in design
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency between learner and machine
-- [[ensemble-cognition-philosophy-ai-education]]
 - [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
 - [[ojeda-ramirez-community-based-ai-learning]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)

@@ -2,7 +2,7 @@
 connected_resources: [openmaic]
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -64,7 +64,6 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 ## Connected Articles
 - [[learner-agency-ai-simulation-2026]] — Parameter control and an optional AI agent in a complex-systems simulation: gains tracked enactment, not access
 - [[benzion-ai-physics-simulations-virtual-lab]]
-- [[genai-simulate-patient-history-pbl-2026]]
 - [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive Virtual Patients for Psychotherapy Training
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
@@ -72,9 +71,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[supplynet-visual-exploratory-learning]] — SupplyNet: Visual Exploratory Learning
 - [[medeasy-ai-standardized-patients]] — MedEASY: AI Standardized Patients
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — Robot-mediated role-play game for bystander intervention (applied drama)
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
-- [[li-ai-science-situated-learning-teachers-2025]]
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)

@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -46,6 +46,7 @@ Inclusive learning sits at the intersection of [[equity-in-ai-education]], [[lea
 ### Key research themes
 
 **AI-powered content accessibility** demonstrates how automated pipelines can reduce barriers. **[[adhd-video-segmentation-computing-education|Pimenova et al.]]** showed that AI-segmented [[video-education|instructional videos]] with fixed pauses eliminated the performance gap between ADHD and non-ADHD learners — strong evidence for Universal Design for Learning via automated content transformation. The study connects to [[neurodivergent-computing-students]] research on how [[collaborative-learning|collaborative learning]] structures affect neurodivergent comfort. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** designed an [[llm]]-powered question-generation system for Deaf and Hard of Hearing learners, introducing Visual and Emotion question strategies that target moments of visual or emotional difficulty in video — while revealing the persistent mismatch between text-based AI prompts and DHH learners' sign-based first languages, underscoring the need for language- and culture-aware AI design. **[[text-simplification-its|MuTSE]]** tackles a complementary barrier — reading level — by evaluating LLM-based text simplification for [[intelligent-tutoring]], matching content complexity to each learner's current level via a [[human-in-the-loop-ai|human-in-the-loop]] evaluation framework rather than relying on linguistic metrics that miss [[pedagogy|pedagogical]] quality.
+Equation-heavy video can be made accessible rather than manually transcribed: a Gemini-plus-LuaLaTeX pipeline turned 16 instructional physics videos into PDFs that passed PDF/UA-2 and ISO 32005 validation, with only one video needing a second attempt ([[gemini-lualatex-physics-video-transcription-2026|Looney & Duston (2026)]]).
 
 **Sensory accessibility: blind, low-vision, and Deaf learners.** Several articles invert the assumption that edtech must be visual. **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** makes spoken conversation the primary and sufficient modality for visually-impaired children — real-time struggle detection, [[multilingual-learning|multilingual]] answer matching, and offline-first on-device ASR remove both the visual dependency and the connectivity requirement. **[[tactile-statistical-graphs-accessibility|Obiuwevwi et al.]]** built a reusable pipeline that generates tactile 3D-printed statistical graphs for blind/low-vision students in under 250ms, with optional LLM-based chart extraction from images. **[[pepper-robot-sign-language-lis-2025|Bolla et al.]]** explored whether the Pepper social robot can produce intelligible Italian Sign Language, co-designing 52 signs with a Deaf student and expert interpreter — extending [[educational-robotics]] into communicative accessibility for Deaf learners while highlighting the challenge of reproducing the non-manual components (facial expression, posture) crucial to meaning. **[[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]]** extend this line of work to higher education, finding in a [[qualitative-research|qualitative]] case study of 21 visually impaired undergraduates in Palestine that GenAI tailors pace, content, and delivery to individual profiles and converts complex academic texts across modalities — with learners viewing GenAI as complementing rather than replacing teachers, preserving human connection while enabling participation.
 
@@ -102,7 +103,6 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 - [[adaptive-learning]]
 - [[speech-and-voice-technologies]]
 ## Connected Articles
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[adhd-video-segmentation-computing-education]]
 - [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners

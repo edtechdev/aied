@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -53,6 +53,7 @@ Learning journals are a promising SRL intervention: by reflecting on their learn
 ### Dashboards communicating SRL profiles to teachers
 
 [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] extend digital SRL support to the teacher side: their [[learning-analytics]] dashboard (DashED) communicates ML-derived self-regulated learning profiles to teachers in blended classrooms, and how teachers act on those profiles is context-dependent. In use, flipped-classroom (university) teachers followed a sequential exploration and favored course-level adaptation and showing [[visualization|dashboards]] in class, whereas vocational teachers revisited summary pages and used the tool mainly for individual coaching sessions. The actions teachers proposed were shaped by the content represented and their teaching level rather than the plot type — university teachers favored weekly tests and course adaptation, vocational teachers direct, individualized coaching. This positions the dashboard as a scaffold for teachers' regulation of instruction, with design needs that vary by context rather than a single optimal interface.
+The student-facing counterpart is sparser: a dashboard that showed 46 secondary students their own GenAI prompts and their text overlap with the model's replies was opened by only about a third of the class, making voluntary exposure rather than the visualization itself the binding constraint ([[learning-analytics-genai-secondary-writing-2026|Fong et al. (2026)]]).
 
 ### Scheu et al.'s 2×2 Experiment (2026)
 
@@ -158,7 +159,6 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[cognitive-surrender]]
 
 ## Connected Articles
-- [[genai-performance-vs-learning]] — offloading planning, monitoring and evaluating short-circuits the SRL loop (Yan et al. 2025)
 - [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI-interaction literacy: steering a chatbot demanded the SRL it was meant to support (Brunnström & Palmqvist 2026)
 - [[5p-reflection-model-genai-2026]] — The 5P reflection model for the GenAI era (Kadel et al. 2026)
@@ -174,8 +174,6 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and SRL: perceived source matters
 - [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
-- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
-- [[generative-ai-reduced-study-time-math]] — Cognitive surrender as loss of self-regulated learning
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Mixed evidence on metacognition/self-regulation with GenAI
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and the self-regulation tension
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)

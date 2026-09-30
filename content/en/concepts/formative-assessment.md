@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -62,6 +62,8 @@ A large body of knowledge base research examines AI-generated formative feedback
 
 [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl & Leuders (2026)]] sharpen what educator-in-the-loop means once a tool produces its own claims rather than raw observations. Their conceptual analysis argues that AI-generated diagnostic inferences are qualitatively different evidence, because they are already the product of algorithmic interpretation, so teachers need a further layer the authors call **meta-diagnosis**: deliberately accepting, rejecting, or modifying an inference and integrating it with their own contextual knowledge. Specifying the DiaCoM framework for this treats AI-generated inferences as a situation characteristic and the accept, reject, or modify decision as diagnostic behavior, while expanding the person characteristics teachers need to include knowledge of how AI systems actually work. Because current systems rest mostly on performance data such as task correctness and completion time, motivational states and classroom dynamics stay largely absent, so the paper keeps teachers, not the dashboard, as the responsible reflective agents and frames judging algorithmic claims as a target for professional development.
 
+Matching the AI's role to achievement level is a related design move: pre-service science teachers described ChatGPT as a Patient Tutor for low achievers, a Personal Coach for medium achievers, and an Intellectual Sparring Partner for high achievers, while the instructor kept the final explanation of difficult content ([[instructor-ai-roles-chatgpt-formative-assessment-2026|Ratniyom et al., 2026]]).
+
 ## Design trade-offs
 
 | Dimension | AI Suitability | Human Requirement |
@@ -83,6 +85,8 @@ Formative assessment in AI education connects to the learning process itself:
 - **Scaffolding:** [[scaffolding]] and formative assessment work together — AI can provide just-in-time hints and prompts, though sequenced feedback research cautions against over-structuring.
 
 - **Rubric quality moves automated-grading agreement more than model choice.** On 1,200 Linux/bash exam responses, [[automated-grading-linux-bash-examinations-large-language-models|Alonso-Carracedo et al. (2026)]] found adding a full rubric plus a reference answer lifted every model (best: Gemini 3.0 Pro, ICC(3,1) = 0.888 against a human ceiling of 0.949), while agreement fell monotonically as the question's cognitive level rose.
+
+- **AI-generated rubrics matched human scoring only within a margin.** Four AI rubrics met pooled equivalence with the human baseline within ±5 points across 308 programming responses (correlations 0.948–0.973), but five rubric–assignment cells exceeded it, and GPT-4.1/4o graded systematically harsher on structured rubrics (−4.46 against −0.66 for free-form) ([[harmogen-ai-assessment-rubric-generation|Mendonça et al., 2026]]).
 - **Validity and quality:** the [[ai-feedback-quality|quality]] and [[assessment-validity|validity]] of AI-generated formative items and feedback must be evaluated; [[ai-ed-evaluation]] provides the methods.
 
 ## Risk: Assessment as surveillance

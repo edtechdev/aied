@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -43,6 +43,7 @@ The knowledge base's [[research-methods-aied|research]] examines pedagogy at the
 
 - **AI as a pedagogical agent.** AI tools embody pedagogies — a [[intelligent-tutoring|tutor]] built on [[socratic-method|Socratic questioning]] prompts learners to reason, while an answer-generating chatbot may default to direct provision (see [[reducing-ai-misuse]] on why the pedagogical stance matters). The [[agentic-ai|agentic AI]] literature shows that grounding agents in instructional-design theory outperforms raw [[prompt-engineering|prompting]]. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] reframe this role formally: rather than a dyadic instructor–[[student-modeling|student model]] with GenAI as an external supplement or threat, they propose a nested **instructor–student–GenAI triadic model** in which GenAI operates as a bounded *didactic-pedagogical mediator* within a shared didactic mediation space governed by institutions and stakeholders — yielding five researchable propositions on learning mediation, instructor-role transformation, AI literacy and learner agency, AI-transparent [[process-oriented-assessment|process-oriented assessment]], and institutional [[governance]].
 - **Pedagogy determines AI's effect.** A recurring finding is that *how* AI is used matters as much as *whether* it is used. [[instructional-guidance-genai-learning|Instructional-guidance research]] and [[generative-ai-guardrails-harm-learning|guardrailed-tutor RCTs]] show the same AI can harm or help depending on the pedagogical wrapper (hints vs. answers, structured vs. open use).
+- **AI's clearest contribution is offloading administrative work.** A PRISMA review of 28 studies found AI most often enhanced instructional planning and assessment design, with its most reported benefit the automation of grading, feedback and progress monitoring (18 studies, 64.2%) — while pedagogical alignment was the most cited challenge (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).
 **Automation and learning trade off directly.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] walk six pedagogical principles — prior-knowledge activation, [[collaborative-learning]], [[problem-based-learning]], [[formative-assessment]], [[scaffolding]], [[metacognition]] — through what proactive agentic initiative does to each, arguing the more an agent automates, the less cognitive work the learner does unless friction, dynamic fading, and human oversight are designed in.
 - **Teaching strategies for AI literacy.** Teaching students *to use AI well* is itself a pedagogical task — [[ai-literacy]] and [[reducing-ai-misuse]] research develops strategies (think-first/AI-second/reflect, AI-declaration, calibration training) that belong to this umbrella.
 - **Pedagogy in teacher practice.** [[teacher-role]] and [[teacher-ai-competency]] examine how teachers adopt AI within their existing pedagogical repertoire, and [[pedagogical-llm-training]] / [[pedagogical-agent]] study AI tools trained to follow pedagogical principles.
@@ -98,7 +99,6 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 - [[pedagogical-llm-training]] — AI tools trained to follow pedagogical principles
 ## Connected Articles
 - [[genai-didactic-pedagogical-mediator-2026]] — GenAI as didactic-pedagogical mediator: instructor–student–GenAI triadic model (Moganadas et al. 2026)
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'Pedagogy first, technology second' — TPAIK outweighs technical TAIK for student outcomes (Shen et al. 2026)
 - [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with generative AI
 - [[ai-communities-of-inquiry-2026]]
@@ -108,9 +108,7 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 - [[jeon-isd-agent-bench-2026]] — Grounding agents in instructional-design theory
 - [[ai-learning-tools-engineering-education-needs]] — AI learning tools in engineering education
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI
-- [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instructional approaches in AI literacy interventions
 

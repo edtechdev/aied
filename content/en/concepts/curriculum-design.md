@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -36,9 +36,13 @@ Curriculum design addresses the *what* of education at the program level, comple
 **Curriculum mapping and analysis** uses AI to understand existing curricula. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** analyzed 23 syllabi from AI-assisted software engineering courses, identifying common themes — [[prompt-engineering|prompt engineering]], code review with AI, [[ethics|ethical considerations]] — and deriving design guidance that emphasizes balancing tool fluency with foundational knowledge. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** applies computational methods to compare CS course structures across institutions.
 
 **AI literacy integration** embeds AI competencies across disciplines. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** provides a scaffolded AI literacy framework applicable across all ages and educational stages, addressing second- and third-level [[digital-divide|digital divides]]. **[[tracing-genai-literacy-interaction-patterns]]** examines how AI literacy develops through interaction patterns. **[[hingle-collaborative-ai-literacy-2025]]** explores collaborative approaches to AI literacy curriculum development, connecting to [[collaborative-learning]].
+LearnAI shows what an embedded version looks like: a wide-exposure layer of short presentations inside 18 existing courses across five disciplines (293 students), paired with opt-in one-to-one co-creation sessions run by trained undergraduate peer tutors, so mixed-ability learners meet AI tasks at their own level ([[learnai-just-in-time-ai-cocreation-university-2026|Qu et al. (2026)]]).
 Integration in practice lags the frameworks. [[critical-media-literacy-education-2026|Santos-Albardía et al. (2025)]] found only 13.8% of surveyed education and journalism students said their coursework addressed critical media analysis, against 97.8% who rated it important, and their expert interviews traced the gap to teacher training that prioritizes technical and instructional skills over media education.
 
 A 42-study review of pre-university AI education finds curricula moving from technical content toward competency-based models built on frameworks such as AI4K12 and the Five Big Ideas in AI, with [[ai-literacy]] treated as a cross-curricular competency while standardized instruments for assessing it remain absent ([[caruana-pre-university-ai-education-slr-2026|Caruana et al. (2026)]]).
+Instructors and employers agreed on the importance of only one of 26 AI skills — setting realistic expectations for AI-augmented work — and just three of the 26 were taught by half or more instructors, the report's evidence of an AI skills gap between higher education and employers ([[ithaka-sr-ai-skills-college-graduates-2026|Fried (2026)]]).
+
+K-12 ML activity design stays at the surface: a review behind the ICE-T framework found that invisible use, button interaction, and model deployment account for almost 60% of coded supervised-learning activities, open-ended creation appeared only twice, and technical and societal perspectives co-occurred in only about 3% of activities ([[icet-ml-education-trust-2026|Haritz et al., 2026]]).
 
 **[[discipline-specific-aied|Domain-specific]] curriculum innovation** applies curriculum design to specific fields. **[[genai-architecture-education]]** explores how generative AI reshapes architectural design [[pedagogy]]. **[[talebzadeh-ai-green-education-2026]]** examines AI integration in green education curricula. **[[connected-ai-lesson-planning-vietnam]]** and **[[llm-cultural-relevance-k12]]** address [[culturally-relevant-pedagogy|culturally responsive curriculum design]].
 
@@ -89,7 +93,6 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[rook-plumb-genai-curricula-student-insights-2026]]
 - [[zhou-constructive-alignment-genai-business-2026]]
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[espino-ai-business-education-review-2026]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[critical-media-literacy-education-2026]]
@@ -101,7 +104,6 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[tracing-genai-literacy-interaction-patterns]]
 - [[finkelstein-principled-ai-education-2025]]
 - [[hingle-collaborative-ai-literacy-2025]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills Framework: 26 assessable skills for curriculum mapping
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines

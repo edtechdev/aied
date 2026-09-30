@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -38,6 +38,7 @@ Agency matters because learning is most effective when learners are active, inte
 - **Robotics and [[educational-robotics|human-robot interaction]]:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] was explicitly designed to preserve learner agency in [[computational-thinking|computational thinking]]; [[human-autonomy-agency-hri-review-2025|a systematic review]] examines how human-robot interaction affects human autonomy and sense of agency, central to [[well-being]] and [[governance]] debates.
 - **[[collaborative-learning|Collaborative learning]]:** [[human-ai-collaboration]] [[research-methods-aied|research]] examines how cognitive tasks are shared between learners and AI, with agency determining whether the human or the AI directs the interaction.
 - **Critical [[student-engagement|engagement]]:** [[cognitive-offloading|Cognitive offloading]] research shows how students who delegate interpretation to AI can lose agency over their own reasoning; critical and [[metacognition|metacognitive]] approaches aim to protect it.
+The cost depends on which layer is delegated: in an eight-week writing study, delegating reasoning — warrants, counterarguments, evidence interpretation — carried the strongest negative association with independent performance (ab = −0.34), and self-regulated writing weakened but never reversed it ([[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]]).
 A three-wave panel study of 342 undergraduates in 85 fixed writing groups gives that concern a temporal direction: once stable between-person differences were separated in a random intercept cross-lagged panel model, higher-than-usual [[generative-ai|GenAI]] reliance predicted lower subsequent perceived agency, while agency-to-reliance paths were weaker and not statistically supported, though the confidence intervals and Monte Carlo sensitivity analyses left small reverse effects possible. Its log data also warn against reading usage volume as lost agency — self-reported reliance did correspond to AI-use intensity, but the logs could not distinguish strategic consultation from [[cognitive-offloading|offloading]] or deference, so dashboards should read intensity alongside evidence of discourse, reflection and revision.([[genai-reliance-human-agency-collaborative-learning-2026|Wu & Lu, 2026]])
 A complementary account widens SRL rather than replacing it: [[de-barba-srl-genai-2026|de Barba (2026)]] distinguishes regulation (managing one's own process), integration (organizing the self across time and contexts) and positioning (critically interpreting what the environment measures), and argues agency-oriented design must move learners from "agency within conditions" to "agency over conditions" instead of optimizing behavioral proxies.
 - **Design for agency:** Knowledge-based design for [[educational-robotics|generative social robots]] ([[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]]) addresses risks like overreliance that undermine learner agency.
@@ -140,7 +141,6 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
 - [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history
-- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
 - [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio

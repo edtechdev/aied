@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -48,6 +48,7 @@ When LLM-based tutors must solve problems that embed meaning in graphs, force di
 - **Visual Processing Errors** — failures to extract information from graphs or diagrams — dominate the error taxonomy and are the most correctable failure mode.
 - A simple structured-dialogue intervention (have the model describe what it sees, correct only *observable* misreadings without giving away physics, then re-prompt) restores accuracy to **~95%** with zero retraining.([[syal-multimodal-dialogue-stem-2026]])
 - This is an **equity concern**: students working on image-rich problems — precisely the problems that build deep conceptual understanding in STEM — currently receive less reliable AI support than those on text-only exercises.
+- **Constructing a visual aid is harder than reading one.** On GeoVAD-Bench, supplying an expert auxiliary diagram raised accuracy (+3.3 to +7.0 points), but letting models construct their own auxiliary line widened the gap by 10.0 to 13.5 points — two models scored worse than with no visual reasoning at all ([[geovad-bench-visual-chain-of-thought-geometry-2026|Dong et al., 2026]]).
 - **The boundary is a profile, not a level — and artistic imagery sits outside the region models handle well.** [[muse-vlm-artistic-image-benchmark-2026|MUSE (Zhu et al., 2026)]] evaluates 30 open- and proprietary VLMs on 12 tasks over 1,174 commissioned artworks, and the capability spread across dimensions is wider than any aggregate score suggests: scene classification is near-mature (23 of 30 models above 75.0, median 81.0) while emotion detection tops out at 39.5 and the open-ended tasks that require models to *articulate* their evidence score at 50.90 (visual clue identification) and 49.18 (emotion cause inference) on semantic similarity. Compositional and viewpoint-dependent reasoning fail hardest — where the ground truth specifies no definite lateral or vertical relation, 90.0% and 73.3% of models assert one anyway, only 43.3% place the girl correctly in depth, and no model resolves all three dimensions of a single item. Failures also cascade: a mis-grounded character is then justified with a fluent rationale built from nearby visual semantics (butterflies, birds), which is the outcome most dangerous in tutoring because the explanation reads as competent. For image-based [[language-learning|language learning]] this argues for dimension-level validation on the imagery a course actually uses, rather than importing a general multimodal score, and for extending the grounding checkpoint described below — describe what is seen, and where, before reasoning from it — to [[situated-learning|situated]] artistic content ([[muse-vlm-artistic-image-benchmark-2026]]).
 
 The practical design implication is a **visual grounding checkpoint** in multimodal tutoring: a deliberate step where the system describes what it sees before attempting a solution, giving the student or a human supervisor a chance to correct perceptual errors.([[syal-multimodal-dialogue-stem-2026]])
@@ -76,6 +77,7 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 3. **Preserve human meaning-making.** Multimodal AI should augment, not replace, the learner's own construction and evaluation of meaning across modes.([[multimodal-learning-genai]]) 
 4. **Extend evaluation to multimodal validity.** [[assessment-validity|Assessment validity]], bias, and reliability must be examined when AI scores or generates multimodal artifacts.([[multimodal-item-parameter-estimation-2026]])([[ai-ed-evaluation]])
 5. **Watch equity and privacy.** Unreliable support on image-rich problems and the data demands of multimodal sensing both carry equity and privacy implications.([[syal-multimodal-dialogue-stem-2026]])([[privacy-aware-classroom-incident-recognition-2026]])
+6. **Match the pipeline to the content.** A cybersecurity lab assistant's multimodal LLM handled dense visual slides better, while an OCR-plus-LLM pipeline delivered comparable instructional value on text-centric slides at significantly lower computational cost.([[genai-cybersecurity-ocr-multimodal-instruction-2025|Patel et al. (2025)]])
 
 ## Connected Concepts
 - [[generative-ai]]
@@ -124,7 +126,6 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Multimodal OCR instruction in cybersecurity education
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodal AI composing and critical thinking in primary writing (Lu et al. 2027)
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving

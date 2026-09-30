@@ -1,7 +1,7 @@
 ---
 title: Activity Theory
 created: "2026-08-26T08:20:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -47,6 +47,7 @@ AI introduces new **tools/mediating artifacts** into existing educational activi
 - **Norm change and systemic disruption.** Because AI introduces a new tool into the activity system, it generates contradictions with existing rules and norms. Studies of students' GenAI use [[ai-disruption-engineering-education-chat-2026|show how new implicit rules emerge]] as students adapt — transforming norms around self-direction, learning objectives, the teacher's role, and [[ethics]].
 - **Anchoring [[learning-analytics|learning analytics]] and measurement.** Activity theory can ground the *design* of analytics by mapping measurement facets onto activity-system elements. A CHAT-anchored analytics pipeline [[chat-anchored-learning-analytics-ai-literacy-2026|maps temporal participation, discourse quality, and concept sophistication to CHAT elements]] to detect early at-risk participation in small discussion-based classes.
 - **Disciplinarity and cross-context variation.** Because activity systems are historically and culturally situated, activity theory explains why the same AI tool produces different outcomes across disciplines and contexts — each discipline functioning as an activity system with its own rules, community, and division of labor [[jiang-genai-activity-theory-disciplines-2026|(e.g., differences in undergraduates' GenAI use and disclosure across academic domains)]].
+- **One tool, two activity systems, uneven penetration.** Among ten mathematics academics analyzed through CHAT, GenAI stayed a peripheral tool in the research activity system while reshaping the teacher's role toward mediator of critical reasoning in teaching, with adoption spreading through student use and peer networks rather than [[governance|institutional]] policy ([[genai-runaway-object-math-higher-ed|Bakogianni et al., 2026]]).
 
 ### Activity theory and related frameworks
 

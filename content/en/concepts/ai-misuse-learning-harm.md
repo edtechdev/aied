@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -89,7 +89,6 @@ The most important practical nuance is that the harm is **selective by assessmen
 
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
-- [[generative-ai-reduced-study-time-math]] — Generative AI Reduced Study Time on Math
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
 - [[ai-availability-student-motivation]] — AI Availability and Student Motivation
 - [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy

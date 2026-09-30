@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Self-Directed Learning
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -32,6 +32,7 @@ Self-directed learning is closely related to — but distinct from — [[self-re
 The knowledge base's [[research-methods-aied|research]] documents both sides of the GenAI–SDL relationship.
 
 - **AI can support SDL.** [[ai-lifelong-learning-policy|AI and lifelong learning]] and [[self-directed-growth-generative-ai-learning-analytics|self-directed growth with GenAI + learning analytics]] show that AI tools can [[scaffolding|scaffold]] independent inquiry, provide on-demand resources, and personalize learning paths in ways that strengthen learner autonomy. [[genai-educational-outcomes-meta-analysis|Meta-analytic evidence]] on generative AI educational outcomes and [[conversational-ai-informal-learning|conversational AI in informal learning]] suggest positive potential when AI is used as a resource the learner directs.
+- **Learners want a thinking partner, not an oracle.** Interviewed adult learners wanted AI to prompt reflection and verify rather than supply answers, and to leave them in control of the learning path rather than prescribe it ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
 
 - **Thoughtless use undermines SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] show that the **thoughtless use of GenAI** — adopting AI outputs without critical evaluation — significantly harms undergraduates' SDL both directly and through erosion of [[self-efficacy]] and [[motivation]] (the model explained 75.3% of SDL variance; TUGA β = −0.42). The negative effect on motivation was stronger for male students and on self-efficacy stronger for female students. This connects to the broader [[cognitive-offloading|over-reliance]] risk documented in the knowledge base.
 

@@ -1,7 +1,7 @@
 ---
 title: Computational Thinking
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -79,7 +79,6 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 
 ## Connected Articles
 
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
 - [[ai-pbl-computational-thinking-2026]]
 - [[computational-thinking-ai-agent-creation]]
 - [[reshaping-cs-education-genai]]

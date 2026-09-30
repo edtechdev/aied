@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
@@ -70,7 +70,6 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[multimodal-item-parameter-estimation-2026]]
 - [[huang-interpretable-knowledge-tracing-2026]]
 - [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
-- [[learning-engagement-assistant-lea]]
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[multimodal-knowledge-graph-educational-reasoning]]
 - [[pattern-kc-programming-recommendation]]

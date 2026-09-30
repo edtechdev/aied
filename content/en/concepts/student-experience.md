@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -28,6 +28,7 @@ reviewed_by: [editor]
 ### How student experience is studied
 
 - **Large-scale surveys:** [[ai-in-the-wild-college|AI in the Wild]] analyzes authentic interactions of thousands of college students, while [[genai-availability-grades-satisfaction|availability and satisfaction studies]] correlate AI access with student outcomes. These are [[self-report-measures|self-report measures]]: they capture perceptions and intentions well and behavior only approximately.
+- **Non-use is a reasoned position, not a gap to close.** A cross-institutional UK survey of 7,087 students found 32% did not use GenAI for study at all, with non-users citing wanting to do the work themselves (86%), inaccuracy (81%), and ethical or environmental concerns ([[genai-student-experiences-uk-he-survey-2026|Gow et al., 2026]]).
 - **Interaction patterns:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] maps how students engage with AI across assignments. [[misiejuk-cognitive-offloading-prompting-2026|Prompting analysis]] reveals cognitive engagement levels through prompt structure.
 - **Motivation and agency:** [[ai-availability-student-motivation|AI availability and motivation]] examines whether knowing AI is available changes student effort. [[aied-unfinished-mission-bypass|AIED's unfinished mission]] frames [[agency]] and [[motivation]] as central challenges.
 - **Perceptions and attitudes:** [[genai-usage-design-students-survey|GenAI usage surveys]] and [[student-mental-models-genai|mental model studies]] investigate how students understand and trust AI.

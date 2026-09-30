@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -38,6 +38,7 @@ The knowledge base's [[research-methods-aied|research methods]] page details the
 - **Small sample sizes.** Many AIED studies are underpowered — too few participants to reliably detect meaningful effects or to support the strong claims sometimes drawn from them.
 
 - **Validation design can manufacture the headline number.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara and Halloluwa (2026)]] benchmark fifteen models on EEG-based familiarity and show that standard stratified cross-validation allows temporal leakage and reports up to 0.9853 F1, while trial-independent Group K-Fold validation drops the peak to 0.6038 F1 — still above chance, but far from the quoted result.
+- **Benchmarks can supply the failures they report.** Expert re-grading of 250 rejected physics items attributed 238 (95.20%) to benchmark or grader errors and only 12 (4.80%) to genuine model errors, so a model's measured error rate cannot fall below the instrument's defect rate.([[frontier-models-physics-benchmark-audit-2026|Ansari et al. (2026)]])
 - **Validity and measurement.** [[assessment-validity|Construct validity]] is often thin: proxies for "learning," "[[student-engagement|engagement]]," or "literacy" vary widely, and instruments are not always validated for the population or construct being studied. [[benchmark|Benchmark]] accuracy does not equal educational effectiveness.
 - **Self-report and survey data.** A large share of the corpus relies on self-reported attitudes, motivation, and usage. Self-report is subject to bias — respondents overestimate competence, under-report [[ai-misuse-learning-harm|misuse]], and misjudge their own behavior — so perception-based measures frequently diverge from objective performance (see [[ai-literacy-assessment-misalignment]] and [[educational-measurement]]).
 - **Context and validation reporting can be quantified across a literature.** A PRISMA-ScR review of 421 studies of NLP on teaching-evaluation comments found country unresolved in 221 studies, single-institution scopes in 232 of 284 resolved cases (81.7%), external validation in 33 (7.8%) and inter-annotator agreement in 54 (12.8%) ([[nlp-student-evaluation-teaching-scoping-review-2026|Eicher & da Silva (2026)]]).

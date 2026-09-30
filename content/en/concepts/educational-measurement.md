@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -145,15 +145,12 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[llm-item-difficulty-prediction]] — Cognitive evaluation of LLM item-difficulty prediction
 - [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
 - [[ai-scoring-language-bias-physics]] — AI scoring and language bias in physics
-- [[hashmi-socratic-physics-chatbot-2025]] — Socratic physics chatbot
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 - [[xiong-ai-educational-measurement-review-2026]] — Decade thematic review of AI in educational measurement
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
-- [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[age-tiered-ai-literacy-guidebooks-2026]] — Split-half EFA/CFA validation with invariance, HTMT and DIF checks, including an honest account of playfulness-intention construct overlap

@@ -1,7 +1,7 @@
 ---
 title: Psychometrically Aware AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
@@ -58,7 +58,6 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 - [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
 - [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
 - [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI
-- [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis

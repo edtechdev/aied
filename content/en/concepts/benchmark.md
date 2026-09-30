@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -43,6 +43,8 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - **Trial-independent evaluation in physiological benchmarks.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara & Halloluwa (2026)]] benchmark 15 ML/DL models for EEG-based familiarity prediction and show that the choice of validation scheme changes headline results dramatically: standard stratified cross-validation allows temporal leakage and reports up to 0.9853 F1, while trial-independent Group K-Fold validation drops the peak to 0.6038 F1. The lesson — temporal/leakage-aware evaluation is essential for credible educational benchmarks — extends beyond EEG to any benchmark using sequential or time-structured data.
 
 - **Distribution shift is a second benchmark axis beyond leakage.** A benchmark that reports a classifier's in-distribution score and its transfer score is reporting two different quantities: a Bloom-level classifier held at macro F1 0.88 on its curated bank fell to 0.48 and 0.20 on two AI-generated question sets, and retraining on labeled out-of-distribution data recovered up to 0.82, so a single in-distribution leaderboard number overstates what a deployed instrument will do ([[bloom-classifier-ai-assisted-questions-2026|Castanares et al., 2026]]).
+
+- **A corpus built to test cross-corpus transfer.** ICLE++ annotates persuasive essays with holistic and ten trait-level scores to expose [[automated-essay-scoring|AES]] research's reliance on ASAP, whose timed, native-speaker-only essays confound length with quality; models trained on trait annotations transferred better across corpora than those trained on holistic scores alone ([[icle-plus-plus-essay-scoring|Li & Ng, 2026]]).
 
 - **A human-normed benchmark may not measure the same construct for an LLM.** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] compared human and multimodal-LLM response structures on a chemistry diagnostic and a quantitative-reasoning exam; factor congruence between LLMs and humans stayed below the human–human baseline and parallel analysis retained different factor counts.
 - **Synthetic benchmarks for AI tutoring.** Open, reproducible datasets for evaluating AI tutoring remain scarce. ASTRA (Adaptive Socially-intelligent Team Reasoning Agents) is a multi-agent tutoring prototype and benchmark framework for studying collaborative programming with socially differentiated agents, supporting alone-tutor, pair-tutor, and pair-multiagent configurations (N=540; 360 sessions; 1,440 episodes) with a trace-ready schema for reproducible analysis of interaction, participation balance, and verification.

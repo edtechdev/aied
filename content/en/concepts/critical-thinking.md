@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -26,6 +26,7 @@ reviewed_by: [editor]
 ## Introduction
 
 Critical thinking is central to [[ai-literacy]] — students who cannot critically evaluate AI outputs are vulnerable to [[cognitive-offloading|Over-Reliance]], [[hallucination-risk|hallucinated information]], and biased recommendations. Research on [[cognitive-offloading]] shows that easy access to AI answers can displace critical engagement, while [[socratic-method|Socratic approaches]] that withhold direct answers preserve the cognitive effort necessary for deeper thinking.
+Structured dialogue control, not a better prompt, is what separates a fallacy tutor from a debating chatbot: routing each turn through Toulmin-based intent detection, a fixed strategy order and a verifier agent let one Socratic system pass 84.5% of dialogue-quality metrics against 61.5% for a heuristics baseline ([[lftutor-logical-fallacy-education-2026|Shi et al. (2026)]]).
 
 ### Critical thinking in AI education research
 
@@ -41,6 +42,7 @@ The knowledge base's articles explore critical thinking through [[design-based-r
 - **Dimension-specific critical-thinking gains in primary multimodal writing.** [[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] followed 60 [[k-12|Grade 5]] students through an eight-week [[conversational-ai]]-supported multimodal writing practice in which they turned narratives into AI-generated images and short videos. Repeated-measures analysis across six critical-thinking dimensions found sustained gains (T1→T2 and T1→T3) in interpretation, analysis, evaluation, and explanation, a short-lived self-[[regulation]] gain, and **no change in inference** — an uneven, dimension-level pattern that an aggregate critical-thinking score would have hidden. The authors argue the AI-generated visuals *externalized* meaning and thereby lowered the inferential demand writing normally imposes, while [[collaborative-learning|peer collaboration]] (peer questions that forced inferring others' interpretations) supplied the occasions for inference the solo [[student-ai-interaction|AI interaction]] did not. The design lesson: [[multimodal|multimodal AI]] composing supports several critical-thinking facets but should be paired with continued [[scaffolding]] and structured peer exchange to preserve inference and [[self-regulated-learning|self-regulation]].
 
 - **AI scaffolding and offloading pull critical thinking in opposite directions.** Davor, Larbi and Boateng (2026) surveyed 533 university students in Ghana and found that AI task scaffolding predicted higher critical thinking (β = .185) while [[cognitive-offloading|cognitive offloading]] tendency predicted lower critical thinking (-.240); AI verification literacy had no direct effect on critical thinking and worked only through [[metacognition|metacognitive self-regulation]], a full mediation pattern the authors read as evidence that teaching students to fact-check AI is not enough on its own. ([[davor-ai-supported-learning-higher-order-outcomes-2026|Davor et al. 2026]])
+- **Offloading depth, not use, bounds higher-order thinking.** Delegating the reasoning layer of writing — warrants, counterarguments, evidence interpretation — carried the strongest negative association with independent higher-order thinking (ab = −0.34), and self-regulated writing weakened but never reversed it ([[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]]).
 
 - **Dependence, not use, is where the association with critical thinking turns.** Shojaei and colleagues (2026) surveyed 412 business students in Oman and found a near-zero bivariate correlation between [[generative-ai|GenAI]] use and self-reported critical-thinking disposition (r = 0.050), with dependence predicting lower disposition (β = -0.389) and weakening the link from use to disposition (β = -0.239), so that the simple slope fell from 0.424 at low dependence to -0.054 at high dependence. ([[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. 2026]])
 
@@ -82,33 +84,24 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 
 ## Connected Articles
 - [[powerful-learning-with-emerging-technology-2025]] — Critical thinking as understanding and evaluating AI
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
-- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use negatively correlates with critical thinking via offloading (Gerlich 2025)
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — AI-mediated learning and the restructuring of interpretive cognition in SSH
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[avraamidou-ai-colonization-science-education]] — Disrupting the AI colonization of science education
 - [[videla-embodied-ai-education-choreography]] — Embodied cognition and AI in education
 - [[li-mroziak-reorienting-critical-ai-literacy]] — Reorienting critical AI literacy
 - [[panciroli-ai-literacy-episodes-situated-learning]] — AI literacy via Episodes of Situated Learning
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing age-old learning principles with AI
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for GenAI
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and college students' self-directed learning
-- [[genai-counter-learner-groupthink-2025]] — Countering learner groupthink with GenAI-introduced controversy in PBL
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
 - [[probing-ai-generated-physics-solutions-2026]] — Preparing students to critique AI-generated physics solutions
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
