@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -44,6 +44,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 
 - **AIGC self-efficacy as the pivot between tool and learning.** [[aigc-affordance-student-self-regulation-2026|Liang et al. (2026)]] find that perceived affordances of AI-generated content raise AIGC self-efficacy (beta = 0.583), which then mediates the paths to learning motivation (indirect effect 0.329) and to self-regulated learning (0.145), with the serial path affordance to self-efficacy to motivation to self-[[regulation]] also significant (0.173). The contrast that makes the finding useful is that the quality of AI [[assessment]] feedback did *not* predict self-efficacy (beta = 0.131, n.s.) even though it strongly predicted satisfaction — confidence with the tool is built by directing it, not by receiving good output from it.
 - **No treatment effect in a semester-long RCT — confidence rose with course time:** in [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni and Fryer's (2026)]] randomized field experiment with 454 undergraduates in a Principles of Marketing course, self-efficacy rose over the semester for all students (time effect β = 0.099, p = 0.0009, Cohen's ƒ2 = 0.025) while neither the group effect (p = 0.1162) nor the group × time interaction (p = 0.5306, d = 0.023) was significant, so the RAG chatbot added nothing. Confidence gains in AI-supported courses can track course progression rather than the tool — an attribution risk for a construct the field measures almost entirely by [[self-report-measures|self-report]].
+- **Confidence can rise while the capability behind it declines.** Among university students, frequent generative-AI use raised perceived confidence and efficiency *and* increased technological dependence in the same learners, so a self-efficacy score taken during AI-assisted work can read high at the moment the underlying skill is eroding ([[genai-performance-vs-learning|Yan et al., 2025]]).
 
 ## Connected Concepts
 
@@ -63,16 +64,13 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[ai-supported-ementoring-efl-preservice-2026]] — AI-supported e-mentoring raises EFL pre-service teachers' self-efficacy and emotional intelligence (quasi-experimental)
 - [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
 - [[oby-chatgpt-use-learning-framework-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-literacy-career-adaptability-business-2026]] — AI Literacy, AI Readiness, and Career Adaptability
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
 - [[social-robot-study-companions]] — Social Robots as Study Companions
 - [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP Framework
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-- [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
 - [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use and academic self-efficacy
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming

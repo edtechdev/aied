@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -96,7 +96,6 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice English teachers authoring classroom AI policies: permitted, limited, and banned uses (Nash & Burriss 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 student teachers: shallow GenAI adoption, integrity anxiety, and assessment literacy that doesn't transfer
 - [[pishtari-teacher-ai-training-learning-design-2026]] — AI chatbot support and training in teachers' learning design
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Pedagogical AI knowledge as the priority lever for teacher professional learning (Shen et al. 2026)
 - [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
 - [[harnessing-ai-preservice-teachers-scoping-2026]] — Scoping review of AI in preservice teacher development
@@ -127,7 +126,6 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
-- [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]

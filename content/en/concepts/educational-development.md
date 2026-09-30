@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -35,6 +35,7 @@ Educational development is the professional and institutional work through which
 - **Curriculum integration:** [[institutional-change-framework-ai|Institutional change frameworks]] and [[ai-assessment-scale-reform|assessment reform]] require faculty to redesign courses, not just add AI tools.
 - **Training programs:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-tpack-preservice-math-teachers|TPACK-based preservice training]] provide models for structured faculty [[ai-education|AI education]].
 - **[[governance]] and policy:** [[genai-policies-higher-ed-computing|Institutional AI policy analysis]] documents the gap between institutional ambitions and faculty support capacity.
+- **AI literacy is institutionally invisible.** A systematic review of 32 studies of language-teacher AI literacy found it absent from workload models, promotion policies and resource allocation, with development fragmented and accountability displaced across institutions and agencies — so literacy development defaults to individual effort rather than structural support ([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik & Duran, 2026]]).
 
 ### Metaphors and shared language in educational development
 
@@ -68,6 +69,7 @@ For faculty developers, academic leaders, and [[stakeholders|instructional desig
 **Treat guideline demand and guideline adequacy as separate problems.** Faculty at one university strongly backed institutional measures against unethical AI use (M = 4.59) while rating existing guidelines lowest (M = 2.99), and named data privacy and cultural inclusivity their weakest knowledge - a concrete target for professional development ([[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgic & Sever, 2026]]).
 
 **Treat readiness as a sociotechnical alignment problem.** The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] shows faculty readiness spans epistemic, pedagogical, institutional, and quality-and-compliance domains. Programs that only train the individual miss the institutional levers (policy, workload, incentives, quality standards) that enable or block change — align those alongside training.([[sangwa-epiq-ai-faculty-readiness-2026]])
+**Do not equate infrastructure investment with transformation.** Across 125 studies, institutional investment in GenAI infrastructure and educational development correlated only weakly with actual pedagogical change (r = 0.12), while 60–70% of instructors felt unprepared to integrate GenAI — making development, not procurement, the binding constraint.([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
 
 **Build toward curriculum redesign, not tool adoption.** The goal is faculty redesigning courses and assessment, not just adding AI tools. Ground professional development in course-level redesign work and assessment reform, and give faculty structured frameworks for doing so (e.g. [[ai-assessment-scale-reform|assessment scales]], [[institutional-change-framework-ai|institutional change frameworks]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
@@ -109,7 +111,6 @@ For faculty developers, academic leaders, and [[stakeholders|instructional desig
 - [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethical dimensions of AI: faculty and student views
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[espino-ai-business-education-review-2026]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
 - [[fear-awe-genai-metaphor-workshops-2025]] — Fear and Awe: Making Sense of Generative AI Through Metaphor (faculty/staff/student metaphor workshop)
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers

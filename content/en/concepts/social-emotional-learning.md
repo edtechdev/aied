@@ -1,7 +1,7 @@
 ---
 title: Social-Emotional Learning
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-28T22:17:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -33,6 +33,8 @@ Social-emotional learning is closely related to, but distinct from, emotional in
 - **Integrating SEC into AI literacy:** [[sec-ai-literacy-narrative-review-2026|The narrative review by Palmquist et al.]] proposes an integrated framework that combines AI literacy with social-emotional competencies, arguing that technical proficiency alone is insufficient — educators and students need both technological and emotional intelligence to navigate AI-mediated learning environments, fostering [[personalized-learning|personalized learning]], collaboration, and ethical [[student-engagement|engagement]].
 
 - **Teachers and relational practice:** Research on [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|AI literacy frameworks]] and [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|teacher-student trust]] emphasizes that SEL supports the relational dimensions of learning (teacher-student and student-student relationships), which AI must complement rather than replace.
+
+- **What a pedagogical agent can and cannot carry in SEL.** Across 108 blind-rated observations, a generative-AI pedagogical agent was more consistent than educators at maintaining respectful tone and routine procedural scaffolding, while educators outperformed it at guiding reflection and promoting social-emotional knowledge — supporting a division of labor, not substitution ([[human-ai-complementarity-social-emotional-learning-2026|Raave et al., 2026]]).
 
 - **Well-being and AI's affective impact:** Research examines how the increasing use of generative AI affects students' socio-emotional skills, well-being, sociability, and sense of trust and empathy — concerns that motivated the OECD's call for AI literacy grounded in humanistic, social, and emotional values.
 

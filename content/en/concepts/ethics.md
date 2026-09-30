@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -40,6 +40,8 @@ Ethical AI use is not only a matter of principles but of how the people involved
 
 - **Faculty vs. students.** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever (2026)]], a [[mixed-methods-research|mixed-methods]] study of 971 students and 135 faculty, found both groups supportive of ethical AI use but in different registers: faculty emphasized ethical principles while flagging a lack of institutional guidelines, whereas students valued AI's learning benefits but voiced uncertainty about who shares ethical responsibility. Both worried that excessive AI use could weaken [[critical-thinking|cognitive skills]] — a concern that frames ethical integration as preserving learners' cognitive development, not merely regulating tool use. Faculty scored high on individual responsibility yet rated institutional guideline adequacy lowest (M = 2.99), exposing a gap between personal ethics and structural support.
 - **Students vs. instructors in readiness.** [[fekete-ethical-ai-literacy-gaps-2026|Fekete (2026)]] found students report higher ethical awareness than instructors (4.03 vs. 2.44), yet instructors show stronger willingness to use AI — students interpret ethics through immediate coursework while teachers treat it as institutional clarity and integrity. Both report weak institutional support, and readiness develops through different channels: instructors' moral awareness grows with institutional and social support, while students' confidence correlates with [[self-efficacy]] and collaboration rather than formal instruction.
+
+- **Normative frames are not interchangeable.** Among 151 Spanish undergraduates, moral equity was a necessary condition for intending to use LLMs in exam preparation (d = 0.338) but not a sufficient predictor, while consequentialist (β = 0.350) and deontological (β = 0.329) judgments were — students apply several normative frames ([[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella et al. (2026)]]).
 - **A shared multidimensional structure.** The six themes in [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]] — spanning data ethics, algorithm ethics, and pedagogical ethics — form an interconnected causal chain from fundamental principles (transparency, accountability, fairness, autonomy) to behavioral outcomes, underscoring that responsible AI use depends as much on clear institutional roadmaps as on individual awareness.
 
 ## From principles to institutional governance

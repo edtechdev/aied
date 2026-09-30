@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -40,6 +40,7 @@ AI-ed evaluation spans several distinct objects of assessment. It can evaluate t
 
 - **Pedagogical quality and alignment:** [[machines-misread-pedagogical-quality|Why machines misread pedagogical quality]] documents human–machine misalignment in judging what makes instruction good, and [[tutoring-effectiveness-index|the Tutoring Effectiveness Index]] predicts tutor quality from teaching behavior. [[responsible-assessment-ai-era-stanford-2026|Responsible assessment in the AI era]] and [[authentic-products-authenticated-processes-2026|authenticated processes]] argue that evaluation must reach beyond correct answers to whether assessment remains authentic, valid, and defensible when AI can produce the "products" of learning.
 - **Production monitoring and judge calibration:** [[llm-judge-evaluation-educational-ai-2026|Rohlfs et al. (2026)]] report what happens when LLM-as-judge evaluation runs at product scale, drawing on a K-12 suite that serves millions of teacher and student messages each month. As the program matured, false positives came to dominate the evaluators' flags and misdirected analyst attention away from failures that warranted product change. Three changes — unanimous-fail panels of repeated judge runs, per-evaluator judge-model choices, and softened rubrics — cut confirmed false positives by 99% and raised per-flag precision from 0.6% to 49% across 21 deployed evaluators, while an egregious-failure set kept capture at 100%. The lesson for evaluation practice is that an evaluator's operating point, not its headline accuracy, decides whether a flag is actionable.
+- **Judge diversity as a validity protocol.** A benchmark for instructional-design agents drew its judges from different model providers rather than one, reporting high inter-judge reliability across 1,017 scored scenarios ([[jeon-isd-agent-bench-2026|Jeon et al. (2026)]]).
 
 - **Audit an explanation against the attribution it claims, not for fluency.** [[distilling-self-explaining-lm-learning-analytics-2026|Pan et al. (2026)]] gate a model's narrations on arithmetic closure, cited covariates, decision fidelity and the unsafe-treatment rate, because fluent text is equally well-formed whether its signal is exact or noisy — 98.8% of narrations passed while the negative tail was truncated.
 - **Prompt sensitivity is a first-order property of an LLM grader.** [[llm-graders-computer-science-exams-2026|Habibullah et al. (2026)]] graded a 570-student [[cs-education|computer-vision]] exam across 171 configurations and a 1,038-student machine-learning exam across 162: a short "strict grader" preamble drove 14 of 17 open-weights models out of the graded band, while the replication reproduced the vulnerability but not its direction, improving seven models whose neutral prompts over-marked. One prompt's accuracy is not evidence of a usable grader, and signed bias belongs beside the mean-absolute-error figure; LoRA fine-tuning on pooled dual-graded examples brought five small models to human parity and nearly erased the persona sensitivity.

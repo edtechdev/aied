@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -32,6 +32,7 @@ Motivation is a foundational construct in education research, and the rise of AI
 ## Key research themes
 
 **AI effects on student motivation** is the most direct line of research. **[[ai-availability-student-motivation]]** examines how the availability of AI assistance affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] research on motivation erosion when AI does the work. **[[scheu-mobile-chatbot-journaling-motivation-2026]]** explores mobile [[conversational-ai|chatbot]] journaling as a motivational intervention. **[[ai-learning-tools-engineering-education-needs]]** examines what motivates students to adopt AI learning tools in [[engineering-education|engineering education]].
+- **Unreflective use erodes motivation — more so for men.** Thoughtless GenAI use (accepting answers unexamined) predicted lower motivation (β = −0.54) and lower [[self-efficacy]] (β = −0.37) among 487 undergraduates, and the motivation effect was significantly stronger for male students while the self-efficacy effect was stronger for female students ([[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu, 2026]]).
 Why a reader reaches for AI is itself a measurable variable: the AIR scale resolves four motives for GenAI-assisted reading — Task-oriented, Feel-good, Translation and Low-effort — and only Low-effort, using AI when tired or disengaged, was negatively related to need for cognition (r = −.18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar and Sidi (2026)]]).
 
 **Motivation in AI-mediated engagement** examines how motivational quality (not just quantity) changes with AI. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined self-determination theory with [[network-analysis|epistemic network analysis]] to study engagement with [[generative-ai|generative AI]]. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** traced motivation developmentally via latent transition analysis of **2,086 [[k-12|secondary]] students** in a year-long AI curriculum, finding three stable profiles (Disengaged, Developing, Self-Determined) and that reaching the Self-Determined profile predicted the largest [[ai-literacy]] gains. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** used goal-setting theory with **758 [[higher-ed|university]] English learners**, showing that **teacher support** drives AI-assisted engagement primarily through mastery-approach and performance-approach goals (the approach, not avoidance, goal orientations). Together these studies show that motivation in AI contexts is both developmental and socially scaffolded — it shifts over time and responds to teacher support and goal framing, not just tool design.
@@ -43,6 +44,8 @@ Motivation shapes how students frame the tool, and the framing carries the metac
 **Teacher motivation and persistence** examines motivation among educators. **[[framing-5-percent-problem-teachers-persistence|Framing the 5 Percent Problem]]** studies teacher persistence with AI tools, and **[[teacher-education-ai-literacy-sdt-2026|Chiu et al.]]** found need-supportive [[educational-development|professional development]] fosters sustained behavioral engagement in professional learning communities.
 
 - **Cross-cultural motivation of future teachers:** [[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al. (2026)]] validated the (D)FIT-Choice scale with 416 student teachers in Switzerland and China, finding Swiss teachers report stronger social utility and intrinsic motivation while Chinese teachers show higher perceived digital competence and enthusiasm for integrating AI — highlighting how cultural and systemic factors shape motivation to shape the future of education with AI.
+
+- **Self-efficacy is the root of teachers' enjoyment of GenAI.** In a PLS-SEM study of 434 in-service teachers, self-efficacy was the model's only exogenous variable and its largest effect was on perceived enjoyment (β = 0.805, f² = 1.839), feeding perceived usefulness and ease of use in turn ([[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez et al., 2026]]).
 
 **The effort paradox and the vicious cycle of assistance.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] argue that motivation is not simply helped or hindered by AI but redistributed: humans generally take the path of least resistance, yet they also seek effort out — the effort paradox — because effort signals that actions matter and because reward attached to process rather than product increases the tendency to strive and persevere. Two claims follow. First, the effort–meaning relationship is an inverted U, so the motivational target is moderate friction, and the risk of frictionless AI is overshooting into too little. Second, a vicious cycle: as AI replaces effort in a domain, the motivational benefits of effort there erode, which makes users more dependent on AI, which erodes motivation further. They also separate supplement from substitute by developmental stage — learners in earlier stages risk bypassing the experiences that build perseverance, while those with established skills can use AI to save time ([[desirable-difficulties]], [[self-efficacy]]).
 
@@ -74,7 +77,6 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[chatgpt-perception-online-learning-engagement-2026]]
-- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]
 - [[ai-availability-student-motivation]]
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
@@ -82,7 +84,6 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[scheu-mobile-chatbot-journaling-motivation-2026]]
 - [[framing-5-percent-problem-teachers-persistence]]
 - [[self-efficacy-tutoring-learning]]
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions

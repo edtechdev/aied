@@ -2,7 +2,7 @@
 connected_resources: [onmicro-ai]
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -118,7 +118,6 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Scaffolding is a dominant CT learning strategy
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — AI across the pedagogies of practice in mathematics teacher education: structured rehearsal feedback raised probing questions (Bondurant & Shaughnessy 2026)

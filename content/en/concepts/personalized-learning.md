@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -111,13 +111,10 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 ## Connected Articles
 - [[bespoke-industry-personalized-lecture-videos-2026]] — Industry-personalized lecture video regeneration from a seed transcript: audience-level tailoring, rated by domain experts (Puech et al. 2026)
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-- [[learning-context-framework-context-aware-ai-education-2026]]
 - [[mishra-control-vs-agency-history-2025]] — Distinguishes two forms of personalization (uniform vs diverse outcomes)
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
 - [[deeptutor]] — Agent-native personalization substrate for tutoring
-- [[learnmate2-llm-adaptive-learning]] — LLM-based adaptive learning tutor
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[ai-powered-personalized-learning-elementary-fractions-2026]] — Personalized adaptive learning for elementary fractions
 - [[ai-coaching-rl-skill-development]] — Reinforcement-learning coaching for skill development
@@ -125,13 +122,10 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Lifelong learning graph framework
 - [[trace-course-grade-prediction-2026]] — Course-grade prediction from learning traces
 - [[self-directed-growth-generative-ai-learning-analytics]] — Self-directed growth with generative-AI learning analytics
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in personalized automated feedback
-- [[genai-higher-education-systematic-review-2026]] — Systematic review of generative AI in higher education
-- [[interactive-online-learning-ai-2025]] — Interactive online learning with AI
 - [[nguyen-genai-global-south-review-2026]] — Generative AI in education across the Global South
 - [[vargas-situated-learning-ai-review-2024]] — Situated learning and AI review
 - [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles

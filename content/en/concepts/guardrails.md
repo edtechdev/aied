@@ -1,7 +1,7 @@
 ---
 title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -112,7 +112,6 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 - [[eduzone-llm-safety-k12]] — K-12 LLM safety framework
 - [[eduguard-safe-rag-llm-tutor]] — RAG-based safety for tutors
 - [[paternalistic-filter-llm-history-education]] — auditing guardrails for bias
-- [[hazra-safetutors-pedagogical-safety-2026]] — the pedagogical harm taxonomy
 - [[singh-eduqwen-pedagogical-rl-2026]] — RL-aligned guided learning
 - [[tact-pedagogically-adaptive-esl-tutoring]] — taxonomy-aligned post-training
 - [[eduframetrap-llm-sycophancy-educational-safety]] — sycophancy as a safety risk

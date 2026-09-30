@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 type: concept
 foundations: [ai-literacy]
@@ -29,6 +29,7 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 ### How AI feedback quality appears in the research
 
 - **Comparability to human feedback:** [[ai-generated-feedback-higher-ed|Studies in higher education]] find that AI-generated feedback is experienced as acceptable and supportive — comparable to teacher feedback. But acceptability does not guarantee learning effectiveness. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) likewise finds [[llm]] grading and feedback quality to be task-contingent — matching human raters on short, well-structured answers with detailed rubrics but degrading on complex, open-ended, or [[multilingual-learning|multilingual]] work, with feedback sometimes too generic or misaligned with the grade — and identifies prompt quality, rubric detail, model version, and assessment language as the dominant determinants of grading and feedback quality ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
+- **A pooled anchor for the feedback mechanism.** A 53-study meta-analysis found GenAI feedback produced the largest effect in the study (g = 1.27), against g = 0.40 for achievement, credited to comprehension, timeliness and objectivity — though students can distrust AI feedback and its lack of emotional response may raise cognitive load ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
 
 - **Feedback classification [[benchmark|benchmarks]]:** [[teaching-feedback-classification-benchmark|Cross-language feedback benchmarks]] assess whether feedback quality classification transfers across languages and educational contexts, connecting to [[ai-ed-evaluation]].
 
@@ -40,6 +41,7 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 - **Evidence-constrained, risk-adaptive feedback:** [[risk-adaptive-genai-feedback-programming-2026|Wang (2026)]] separates three functions that feedback research usually evaluates together — predicting which failed state will persist, deciding when limited support capacity should be spent, and generating feedback whose claims stay inside recorded evidence. Across 2993 failed-submission states from 215 students, a calibrated risk model selected 17.8% of eligible test states and captured 25.2% of observed persistent failures, and after one standardized repair pass 519 of 544 generated messages carried all required components. Timing and grounding therefore join linguistic quality and retrievability as dimensions a feedback system has to be judged on.
 
 - **Discretionary feedback provision:** [[ai-assistance-discretionary-feedback|Research on AI-assisted feedback in higher education]] examines whether AI increases the quantity and quality of feedback instructors provide.
+- **The relational layer resists delegation:** across 21 higher-education teachers using an AI feedback tool, 12 rewrote the model's text, revisions clustered on tone and encouragement (Student–Teacher Relationship f = 24), and the more experienced teachers flagged editing burden, trust and misinformation risk while novices deferred to the tool ([[learner-centered-feedback-ai|Aldino et al. (2026)]]).
 
 - **Reliable provision, not inherent superiority, drives AI's edge:** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]]'s semester-long field experiment found GPT-4 feedback beat [[peer-assessment|peer feedback]] because it was *consistently* delivered — nearly all AI-feedback respondents (369/398) received textual plus numeric feedback while under two-thirds of peer-feedback students received none, and much peer feedback was non-targeted praise. When high-quality textual peer feedback *was* received, peer outcomes matched AI's — indicating the AI advantage is reliability, not quality at the margin. Students also rated peer feedback slightly higher on perceived validity and emotion (mild [[trust|algorithm aversion]]) yet still activated and learned more from AI, showing perceived quality and behavioral outcomes can diverge.
 - **The advantage can come from a worked example, not corrective feedback.** Practicing cover letters with AI beat feedback from experienced human editors on a later unaided task (d = .20), and merely viewing one AI-revised letter matched practicing with the tool, so the gain tracked the example ([[coach-not-crutch-ai-writing|Lira et al. (2025)]]).

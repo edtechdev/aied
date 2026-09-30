@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -42,6 +42,7 @@ The knowledge base's research converges on several interconnected dimensions:
 - **Confidence and attitudes:** teacher [[self-efficacy|confidence]] shapes adoption. [[teacher-ai-adoption-confidence|Adoption research]] finds confidence, support, and perceived utility drive whether teachers actually use AI, and [[ai-pedagogical-orientation|faculty orientations]] shape adoption in research and teaching.
 
 **Emotional and moral readiness is a distinct dimension.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] surveyed the academic staff of a Maltese [[higher-ed|university]] (109 respondents) and built an AI Guilt Index (α = 0.88) from four moral-emotion items, finding that *anticipatory* guilt outweighed remorse experienced after use: the strongest endorsement was worry that AI use undermines one's credibility (34.9% agreeing), then feeling like one is [[academic-integrity|cheating]] when using it (25.7%), while post-use remorse drew only 9.2%. The findings that matter for competency frameworks are that non-users reported *higher* guilt than users (M = 3.25 vs M = 2.32) and that guilt fell as career security rose — early-career academics reported the most (M = 2.71) and senior academics the least (M = 2.03). Emotional readiness is therefore not captured by skill or confidence measures, and the paper argues competency frameworks should treat guilt and identity concern as normal transitional responses rather than faults to correct.
+A stronger version of that reframing holds that GenAI is a threshold concept rather than a skills gap: an autoethnographic account argues faculty anxiety and resistance are constitutive of threshold crossing, so skills-based training fails and principled non-adoption should be respected rather than corrected ([[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]]).
 
 ## The competency gap
 
@@ -118,7 +119,6 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
 - [[tpack-genai-inservice-teachers-mediation-2026]] — In-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge (Mohebi & ElSayary 2026)
 - [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation for teacher professional development (Melo et al. 2026)
 - [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Generative AI across representations, decompositions and approximations: rehearsal, structured feedback and the accuracy cautions
 - [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an intensive GenAI professional development program
@@ -144,7 +144,6 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[ukraine-ai-literacy-secondary-framework-2026]] — Five-level AI literacy framework + PD for Ukrainian secondary educators (Marienko et al. 2026)
-- [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
 - [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]

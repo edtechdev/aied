@@ -1,7 +1,7 @@
 ---
 title: Adult Learners
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-09-28T21:41:14-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -50,6 +50,7 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - **Treat technical and structural reliability as a precondition.** Engagement depends as much on stable, inclusive infrastructure as on pedagogical quality — unstable or exclusionary platforms undermine otherwise sound design.
 
 - **AI design principles for andragogy.** [[kim-ai-andragogy-2026|Kim et al. (2026)]] find adult learners value AI as a collaborative learning agent and derive three AI design principles for andragogy: human-in-the-loop (shared mental models, human-AI co-creation), emotional design (calibrating AI reliance, empathetic communication), and adaptability (continuous adaptation, interoperability). Their eleven scenario prototypes also map each andragogical principle onto a concrete AI affordance: [[intelligent-tutoring|AI tutors]] and [[learning-by-teaching|teachable agents]] for involvement, monitoring and [[learning-analytics|analytics tools]] for autonomy and self-assessment, empathetic [[conversational-ai|chatbots]] and [[simulation|simulations]] for experience, case libraries and higher-order question generators for problem-centered work, and AI planners and career coaches for relevance.
+- **Preserve productive struggle.** The same group's productive-failure study maps AI support onto the two PF phases and concludes the design must not resolve the struggle: conversational agents act as non-directive thinking partners during generation and exploration, then support comparison, reorganization and transfer during consolidation ([[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]]).
 
 ## Connected Concepts
 

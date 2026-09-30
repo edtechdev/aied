@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -67,6 +67,9 @@ Not all evidence favors constraining the AI. [[socratic-nuclear-ai-learning|Socr
 - **A Socratic tutor with full context can be rated the worst of four.** In a 2×2 randomized trial with 132 introductory Python students, the GPT-4o assistant using Socratic questioning with full problem context scored significantly lower on support for task completion (mean rank 48.63, μ = 3.53) than the direct-instruction and no-context variants (χ²(3) = 12.14, p = .007), trended highest on interaction stress and external LLM use (23% against 15% overall), and produced the fewest full-comprehension post-task explanations (48%). Socratic conditions sent more queries (μ = 11.1 per problem without context), which [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] read as withheld answers forcing extra back-and-forth rather than productive struggle.
 
 In [[medical-education|clinical]]-interview training, [[ai-standardized-patient-scaffolding-medical-2026|the MeduAI-SP trial (Yang et al., 2026)]] had the tutor agent deliver Socratic prompts only on a flagged need — missing key history, premature closure, conversational impasse, or communication breakdown — phrasing them as reflective questions such as whether the gathered information sufficed to support the leading diagnosis. Students trained under this Socratic scaffolding scored 31 percentage points higher on the observable "expressing empathy" checklist item (Holm-corrected P = 8.30e-4) and 0.90 points higher on the 1–5 OSCE communication domain (P = 4.50e-4), linking non-answer-giving questioning to measurable patient-centered communication gains rather than to diagnostic accuracy (84% vs. 86%; P = 1.000).
+
+
+Fidelity is not guaranteed by configuration: a purpose-configured ISLE facilitator restored the test-before-prediction order students had inverted, yet when pressed to "just tell us" which can weighed more it produced mass values no one had measured, crossing from questioning into fabricating data ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani (2026)]]).
 
 ## Research in the knowledge base
 
@@ -134,7 +137,6 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[pedagogy-ai-mistakes]]
 - [[stanford-evidence-base-ai-k12-2026]] — Structured Socratic hints vs. open-ended general-purpose Q&A
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design

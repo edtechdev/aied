@@ -1,7 +1,7 @@
 ---
 title: Item Response Theory
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
@@ -29,7 +29,10 @@ IRT treats ability (θ) and item parameters (difficulty, discrimination, sometim
 - **AI-predicted difficulty:** [[llm-item-difficulty-prediction|LLM item-difficulty prediction]] uses language models to estimate item difficulty, which must be validated against empirically fitted IRT parameters.
 - **Psychometric calibration:** [[llm-psychometric-calibration-cdp|LLM psychometric calibration]] aligns model-based assessment with IRT-based measurement so that AI-generated responses preserve measurement properties.
 - **Knowledge tracing and student modeling:** IRT is closely related to [[knowledge-tracing]] and [[student-modeling]] — models that track learner knowledge over time — sharing the goal of estimating unobservable learner states from observable responses.
+
+- **IRT quantities read out of LLM logits.** [[huang-interpretable-knowledge-tracing-2026|Huang et al. (2026)]] extract student ability θ = z^GOOD − z^BAD and tutor-turn difficulty d = z^HARD − z^EASY from next-token logits and combine them in a 1PL Rasch predictor, making dialogue-based knowledge tracing interpretable (64.29% accuracy, 65.25 AUC on QATD2k).
 - **Bayesian hierarchical field validation:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] uses a Bayesian hierarchical 2PL IRT model (with pre-test anchor items to place 1,686 students on a common θ scale) to show that AI-generated questions match expert-written standardized-exam items in difficulty and discrimination — a large-scale demonstration of IRT as the validation backbone for [[automated-question-generation]].
+- **Test information localises precision.** A 20-item GenAI-literacy test validated with a 2PL model (RMSEA = 0.03, CFI = 0.97) had its information function peak at θ = −0.8, making it most precise for low-to-moderate literacy learners rather than uniform across the scale ([[jin-glat-genai-literacy-assessment|Jin et al. (2025)]]).
 
 - **Separating human from GenAI responses with person-fit statistics:** [[irt-human-genai-mcq-responses|Strugatski and Alexandron (2026)]] apply person-fit statistics (PFS) within IRT to distinguish human from [[generative-ai]] responses on multiple-choice assessments. PFS flag GenAI responses as 'aberrant' responders in two authentic contexts (a [[chemistry-education|chemistry]] test and a national exam), show that different [[conversational-ai|chatbots]] produce distinct response patterns (a heterogeneous group of 'intelligences'), and reveal that newer GenAI versions become more human-like — positioning IRT as a robust framework for [[academic-integrity|integrity]] screening in high-stakes testing.
 

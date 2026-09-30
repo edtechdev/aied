@@ -1,7 +1,7 @@
 ---
 title: Self-Assessment
 created: "2026-09-21T11:21:57-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -110,11 +110,8 @@ It also introduces a naming hazard worth stating plainly. **AI self-evaluation**
 - [[pedlow-genai-selfassessment-2026]] — Pre- and post-semester self-assessments on ethical GenAI use across nursing, health sciences, engineering and science cohorts (Pedlow et al. 2026)
 - [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy scripts versus calibration training in AI-assisted writing (2026)
 - [[scaffolding-srl-feedback-genai-human-peers]] — Three self-assessment cycles comparing scaffolded GenAI feedback with peer feedback, N = 118 (2026)
-- [[guided-llm-scaffolding-independent-learning]] — Verification-focused scaffolding improved independent performance and self-assessment calibration in statistics (2026)
-- [[genai-skill-bypass-literacy]] — Rasch analysis of 158 GenAI-literacy self-assessments: an inverted skill profile (2026)
 - [[self-directed-growth-generative-ai-learning-analytics]] — Self-assessment placed at the center of a self-directed growth framework (2026)
 - [[tripartite-feedback-framework-ai-assessment-2026]] — Validated self-assessment instruments used as learning outcomes in AI-assisted assessment (2026)
-- [[interactive-learning-dashboards-engagement]] — A Judgment of Learning self-assessment feature inside an interactive dashboard (2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Structured self-assessments as process evidence for adaptive capabilities (Lodge et al. 2026)
 - [[age-tiered-ai-literacy-guidebooks-2026]] — Developmentally tiered AI literacy materials, with measurement of acceptance and validity (2026)
 - [[chatgpt-critical-creative-thinking-review]] — Triangulating AI feedback with peer, instructor, and self-assessment (2026)

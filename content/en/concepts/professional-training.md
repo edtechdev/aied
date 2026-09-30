@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -33,6 +33,7 @@ reviewed_by: [editor]
 - **Lifelong learning integration:** [[lifelong-learning]] and [[adult-learning]] [[research-methods-aied|research]] connect professional training to continuous education.
 - **Public sector:** [[ai-adoption-training-public-sector|Public sector AI adoption]] examines training in government contexts.
 - **Workforce readiness frameworks:** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] propose a Workforce Readiness Level (WRL) framework that adapts the Technology Readiness Level scale into nine competency stages scored across four pillars (digital/[[ai-literacy|AI literacy]], cyber-physical fluency, [[human-ai-collaboration|human-machine collaboration]], data-driven decision making), under a "no-thin-pillar" rule. Evidence from smart-manufacturing capstones shows the highest readiness stages are gated by industry-embedded experience rather than coursework — pointing to work-integrated learning as essential to professional AI training.
+- **Instructor and employer priorities diverge.** A survey of 500 US instructors and an employer panel agreed on the importance of only one of 26 AI skills — setting realistic expectations for AI-augmented work — and only three of the 26 were taught by half or more instructors ([[ithaka-sr-ai-skills-college-graduates-2026|Fried (2026)]]).
 - **[[discipline-specific-aied|Domain-specific]] PD evidence is thin.** A [[li-language-educators-genai-review-2026|systematic review of language educators]] (Li et al. 2026) found only three of 23 studies reported structured [[educational-development|professional development]], yet those that did converged on gains in knowledge, confidence, and identity — evidence that structured, domain-specific training (pairing technical skill with practical wisdom) is both scarce and effective, and that PD should move from awareness-raising and ethics through hands-on tool mastery to co-design of AI-enhanced lessons.
 - **Teacher educator professional development as model-building:** [[adaptive-ai-model-teacher-educators-2025|Eyal (2025)]] ran a year-long 180-hour course in which 22 higher-education teacher educators co-designed the Adaptive Artificial-Intelligence-Literacy Model, replacing fixed competency ladders with three inter-related axes (context fit, professional needs, dynamic development) and a 20-item reflective self-assessment questionnaire. The design premise is that AI literacy is situational: a pre-service teacher in a resource-limited setting, a subject teacher, and a principal need different competencies, so professional development should target role-specific judgment rather than a standardized rubric.
 - **What training should target:** the field's measurement base lags the technology it describes. In a systematic review of 33 teacher AI literacy instruments, [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] found that 29 (87.9%) targeted general AI concepts while only four (12.1%), all published in 2025, addressed generative AI. If instruments track what training is meant to build, that distribution marks generative-AI competence in teaching as the least measured and most urgent target for professional development.
@@ -86,8 +87,6 @@ Professional training differs from academic education in its focus on applied sk
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[astra-atco-training-simulator]]
 - [[ai-adoption-training-public-sector]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — HiBob AI Skills Framework validated with instructors and employers
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration

@@ -1,7 +1,7 @@
 ---
 title: Prior Knowledge
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
@@ -77,5 +77,4 @@ Generative AI has made prior knowledge a central design consideration rather tha
 - [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble on cognitive offloading
 - [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in LLM synthesis writing
 - [[bridging-instructional-design-framework-math]] — An instructional-design framework for math
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[rachatasumrit-example-problem-ratio-2026]]

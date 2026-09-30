@@ -1,7 +1,7 @@
 ---
 title: Feedback Literacy
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -100,7 +100,6 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 - [[learner-centered-feedback-ai]] — Teachers' practices and perceptions of AI learner-centered feedback
 - [[care-full-feedback-genai]] — Care-full feedback design with GenAI
 - [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
-- [[feedback-futures-genai]] — Feedback futures with GenAI
 - [[ai-feedback-ecosystem-higher-education-2026]] — AI reworks the relations among students, educators, peers and materials in the feedback ecosystem (Bearman et al. 2026)
 - [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
 - [[repeated-ai-writing-feedback-semester]] — Repeated AI writing feedback across a semester

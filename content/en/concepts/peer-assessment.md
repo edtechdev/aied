@@ -1,7 +1,7 @@
 ---
 title: Peer Assessment
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -73,6 +73,7 @@ Peer norms also shape honesty, which matters wherever peers assess AI-influenced
 ## Design implications and open questions
 
 Several design moves follow. Give assessors training, exemplars, and criteria before they assess, because untrained peer assessment is vulnerable to friendship bias, convenience-based source selection, and social anxiety. Sequence the work so self-evaluation precedes peer feedback and AI critique, since the hybrid condition produced the strongest conceptual learning and best delayed transfer. Where GenAI enters, scaffold how students prompt it. Keep the teacher in the loop for anything that becomes a grade, treat peer grades as quality-dependent evidence rather than uniform marks, and make AI use itself something groups negotiate and document.
+GenAI-mediated review also inherits the tool's linguistic norms: contributors to a World Englishes dialogue argue that reviewers using GenAI are exposed to the same bias toward dominant English varieties as the models, and recommend editing or rewriting generated text to reflect the writer's own linguistic identity ([[genai-linguistic-diversity-academic-writing|Ugwuanyi et al. (2026)]]).
 
 The open questions are about the strength of the evidence, not only about design. Much of the peer-and-AI evidence is small and context-bound: 45 student teachers in one course, 34 students in one business writing course, 52 pre-service teachers in 15 focus groups. The PAIRR survey is the largest dataset here and measures student perceptions, not the quality of the AI outputs students judged. Only the multisite experiment's 1,176 undergraduates approaches causal-comparative scale, and it tests feedback design for scientific argumentation rather than peer assessment as such. Meanwhile [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] audited 14 peer-reviewed meta-analyses claiming AI improves education and found none provided a valid basis for its claims — all but two defined the treatment as a tool rather than a pedagogical intervention, heterogeneity was high in every meta-analysis reporting I² (77.2% to 94.4%), and an audit of 59 primary studies found 61% had [[assessment-validity|validity concerns]], most often a mismatch between the outcome measured and the claim made. Claims about what AI does in peer assessment should be treated as claims about a designed activity, tested in that activity's terms.
 

@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
@@ -31,6 +31,7 @@ Knowledge graphs are a recurring structural mechanism across the knowledge base'
 - **[[knowledge-tracing]] models** use concept graphs to propagate student proficiency estimates across related skills, improving prediction accuracy when data is sparse.
 - **[[student-modeling]] systems** leverage knowledge graphs to represent what learners know in a semantically meaningful way, enabling fine-grained diagnosis.
 - **[[adaptive-learning]] platforms** use prerequisite graphs to sequence content and recommend [[personalized-learning|personalized learning]] paths.
+- **Algorithm choice over the graph changes outcomes.** In G4L, propagating mastery through an Evolving Knowledge Space Graph with Bayesian knowledge propagation produced +24% measured knowledge (0.717 → 0.887), against +5% for Knowledge Space Theory and +1% for Weighted Distance Dependent Induction ([[graph-its-adaptive-algorithms-2026|Csépányi-Fürjes & Kovács, 2026]]).
 - **[[cognitive-diagnosis]] frameworks** like [[xie-hillm-cd-2026|HiLLM-CD]] construct concept trees from educational text using LLMs, eliminating manual annotation.
 - **Knowledge-graph-augmented tutoring:** [[quantum-education-its|ITAS]] uses a knowledge graph of quantum concepts (with explicit prerequisite relationships) to drive a multi-agent tutoring system, traversing the graph to select next topics for counterintuitive material.
 - **Curriculum and course modeling:** [[coursegraph-cs-course-comparison-2026|CourseGraph]] compares CS course structures across institutions using graph representations; [[learnity-graphs-lifelong-learning-framework-2026|Learnity graphs]] model [[lifelong-learning|lifelong learning]] pathways.
@@ -77,7 +78,6 @@ Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curr
 - [[proprl-prerequisite-relation-learning]] — ProPrL: prerequisite-relation learning
 - [[knowledge-gap-detection-ai-tas]] — Knowledge-gap detection in AI teaching assistants
 - [[visual-query-tracer-declarative-logic-learning]] — Visual query tracer for declarative logic learning
-- [[learnopt-exam-cognitive-structure]] — LearnOpt: exam cognitive structure
 - [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
 - [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Hybrid CF–KG cross-domain recommendation for multimodal teaching resources
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-driven cognitive diagnosis

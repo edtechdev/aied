@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
@@ -35,6 +35,7 @@ These concepts answer "what does this learner know, feel, and need?" — the rep
 The study of [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] illustrates that faithful representation does not require the most complex model family: a lightweight, intrinsically interpretable decision-tree student model — built from course content-interaction features rather than rich telemetry — predicts module-level progress in large-scale online [[cs-education|programming]] courses (85–91% accuracy) and separates disengaged at-risk, disengaged-but-successful, and engaged high-performer [[student-engagement|engagement]] profiles, supporting [[learning-analytics]] early-warning at scale.
 
 Student models can also be built purely from behavioral traces and still support adaptation. [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] derived three engagement profiles — Observation, Construction, and Exploration — from the clickstreams of 315 online learners building 822 ecological models in VERA, without any demographic or contextual data, and showed these profiles predict model quality (Exploration yields the most complex and diverse models, while Observation is dominated by copied rather than original models). Such engagement-level characterizations are the coarse-grained student models that the [[adaptive-learning|adaptive-instruction]] layer can consume to target feedback.
+Affective student modeling is a further dimension: a math tutor inferred emotion from conversational text and facial expression and mapped the aggregated state to tutoring strategies, but the multimodal fusion reached only 60% accuracy against participants' own annotations, making the affect read the pipeline's weakest link ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
 [[cross-subject-validity-delayed-start|Gutterman et al. (2026)]] found a delayed-start signal recorded during math practice predicted English outcomes, with chronic delayers (over 13 minutes) showing lower gains (ELA β = -.11 SD) even after controlling for [[prior-knowledge|prior knowledge]] and time-on-task — so behavioral student models can transfer across subjects without per-course retraining, though their cut-points must be re-derived.
 
 ## The adaptive-instruction layer
@@ -60,6 +61,7 @@ The concepts form a pipeline rather than competitors: **student modeling** is th
 ## The shared validity challenge
 
 Across the whole family, the defining validity challenge is the same: the learner representation must **faithfully reflect a learner's true state** rather than the system's default assumptions. For **student modeling** and [[knowledge-tracing]], this means the model must genuinely capture what a learner knows ([[ai-ed-evaluation|evaluation]] and [[assessment-validity|measurement validity]]). For [[simulating-students|simulation]], it means the synthetic learner must exhibit realistic imperfection rather than the model's full competence or [[ai-sycophancy|sycophantic]] agreement. Adaptive systems that consume faulty models inherit and propagate that error.
+Some intended signals may not be recoverable from dialogue at all: the Learning Context framework's pilot recovered misconceptions at 91.4% and anxiety at 100% but conscientiousness at only 68.6% and language proficiency at 60%, so a context-aware model should capture slow-to-surface traits rather than wait for dialogue to expose them ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
 
 [[edumirror-educational-social-dynamics|Lin et al. (2026)]] expose a circularity in how such synthetic learners are validated: their EduMirror agents administer psychometric questionnaires post-hoc and read agreement with the agent's internal value representation as psychological validity, but because the Surveyor measures dimensions already encoded in that value system the check is a consistency check rather than independent validation.
 
@@ -103,7 +105,6 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[vi
 - [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[learning-context-framework-context-aware-ai-education-2026]]
-- [[interactive-online-learning-ai-2025]]
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[yasir-llm-tutoring-agents-2026]] — LLM tutors over-reject valid-alternative, over-validate incorrect (Yasir et al. 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
@@ -112,16 +113,13 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[vi
 - [[correct-answer-trap-misconceptions]]
 - [[cross-subject-validity-delayed-start]]
 - [[edumirror-educational-social-dynamics]]
-- [[huang-interpretable-knowledge-tracing-2026]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[knowledge-gap-detection-ai-tas]]
 - [[llm-item-difficulty-prediction]]
 - [[multimodal-knowledge-graph-educational-reasoning]]
 - [[proprl-prerequisite-relation-learning]]
 - [[simulating-students-java-programming-errors-llms]]
 - [[skill-acquisition-without-temporal-info]]
 - [[xie-hillm-cd-2026]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[inside-llm-student-simulator-reasoning-2026]]
 - [[trace-course-grade-prediction-2026]]
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
