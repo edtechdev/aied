@@ -51,6 +51,7 @@ SCOPABLE = {
     'check-resource-wiring.py': 'slugs',
     'check-concept-screen.py': 'changed',
     'check-concept-integration.py': 'changed',
+    'check-concept-prose.py': 'changed',
 }
 
 # Registry- and corpus-level gates: they validate a fixed artifact (the concept
