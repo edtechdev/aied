@@ -1,7 +1,7 @@
 ---
 title: Differential Effects Across Learner Groups
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-09-19T06:20:00-04:00"
+updated: "2026-09-30T07:03:17-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -84,7 +84,7 @@ This strand is small in article count and strong in mechanism, because the evide
 ## Socioeconomic status, geography, and age
 
 - **Digital literacy, not AI usage, is the mediator.** [[ai-divide-ses-personality-primary-education-2026|Wang and colleagues (2026)]] modeled survey and national registry data from 4,497 Grade 6 students in the Netherlands and found the link between personality traits and academic performance ran through digital literacy rather than AI usage intensity, with differences in digital literacy driven more by personality than by socioeconomic status — and SES advantages operating independently of AI engagement. The classic SES-only framing is incomplete.
-- **Geography can be the binding constraint.** [[arc-hubs-k12-ai-robotics-rural-2026|ARC's account]] of [[k-12]] robotics and AI education reports that rural FIRST LEGO League participation fell in the 2020 remote season and never recovered while urban participation gradually did, and identifies sustained local technical mentorship — not kits or curriculum — as the constraint that is distributed geographically.
+- **Geography can be the binding constraint.** [[arc-hubs-k12-ai-robotics-rural-2026|ARC's account]] of [[k-12]] robotics and AI education reports that rural FIRST LEGO League participation fell in the 2020 remote season and never recovered while urban participation gradually did, and identifies sustained local technical mentorship — not kits or [[curriculum-design|curriculum]] — as the constraint that is distributed geographically.
 - **Adult learners are a separate design case,** covered by [[adult-learning|Adult Learning]] and the knowledge base's andragogy work rather than by K-12 studies.
 - **Access still gates everything else:** see [[digital-divide|Digital Divide]] and the finding that [[access-not-enough-ai-tutoring-2026|access to AI tutoring is not enough]] without [[pedagogy|pedagogical]] integration.
 
@@ -93,6 +93,7 @@ This strand is small in article count and strong in mechanism, because the evide
 The honest finding of this survey is how thin some groups are. Each of these is a real gap in the evidence base, not a gap in this page.
 
 - **First-generation students:** one study reports a usage difference rather than an effect. In [[student-ai-inquiry-types-cs2-2026|a CS2 inquiry study]], continuing-generation students treated the AI as an active [[problem-solving]] partner, while first-generation students took a confirmatory, validation-oriented role and asked fewer questions overall.
+- **First-generation students: the first effect estimate, and it runs the wrong way.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]'s [[rct|randomized trial]] of a course-integrated [[intelligent-tutoring|AI tutor]] supplies what the entry above lacks — a measured differential rather than a usage pattern. In the full sample the effect of tutor access on final grades was 2.87 points (0.28 SDs) more negative for first-generation students, implying −5.10 points (−0.50 SDs) for them against −2.23 points (−0.22 SDs) for their peers; the differential was larger in the exact-match sample (−3.89 points, −0.35 SDs), and first-generation students also lost more homework points and platform page views. The study reports no mechanism and its precision varies by outcome, but the direction is the opposite of the narrowing-gap story: the students with the least prior access to academic support carried the largest measured cost.
 - **International students:** one [[mixed-methods-research|mixed-methods]] study (survey n = 60, interviews n = 14) on [[international-students-conversational-ai-adaptation|cross-cultural adaptation support]].
 - **Gifted and high-achieving students:** effectively unstudied as a group in this corpus.
 - **Refugee, immigrant, and displaced learners:** no studies.
@@ -148,3 +149,4 @@ The honest finding of this survey is how thin some groups are. Each of these is 
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — A subgroup interaction whose confidence interval crosses zero
 - [[student-ai-inquiry-types-cs2-2026]] — The corpus's one first-generation usage finding
 - [[international-students-conversational-ai-adaptation]] — The corpus's one international-student study
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — The corpus's first effect estimate for first-generation students: tutor access cost them 0.50 SDs of final grade against 0.22 for their peers (Liu et al. 2026)
