@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-09-30T09:20:45-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
 technology: [generative-ai]
@@ -64,6 +64,7 @@ mediators rather than directly, and the result held after controlling for gender
 model's practical claim is a sequence with an entry point: AI literacy is necessary but insufficient, and the work of integration
 happens where technological, pedagogical, and content knowledge are combined — which is also where teachers' confidence in teaching
 the subject is built.
+- **Validation as a fourth competency.** [[human-ai-collaboration-design-education-rubric-2026|Orhon, Cekerol and Ugur (2026)]] extend the model with **AI-Validation Knowledge** — subjecting probabilistic AI output to discipline-specific verification before treating it as evidence of a legitimate decision — and pair it with a process-oriented rubric for design education.
 
 ## Why It Matters in AI Education
 
@@ -118,3 +119,4 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 - [[ai-training-science-teacher-tpack-distance-2026]] — Comparative survey of 186 South African science student teachers: campus advantage in self-reported TPACK, and AI training associated with weaker reported TPACK at the distance institution
 - [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK and science teaching self-efficacy serially mediate AI literacy's effect on inquiry-integration intention (Zou et al. 2026)
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — AI-supported CTD-PBL module and pre-service physics teachers' TPACK and collaborative problem solving (Chen & Osman 2026)
+- [[human-ai-collaboration-design-education-rubric-2026]] — Assessing Human-AI Collaboration in Design Education: a process-oriented rubric grounded in an extended AI-TPACK framework

@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-09-30T09:21:40-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -45,6 +45,8 @@ A more fundamental role for metacognition appears when the locus of coordination
 When AI completes reasoning tasks for students — solving math problems, writing essays, generating code — the student loses practice in monitoring their own understanding and selecting strategies.([[stanford-evidence-base-ai-k12-2026]])
 
 Reliance is not failure: [[du-yuan-epistemic-dependence-2026|Du and Yuan (2026)]] judge AI-mediated learning by six diagnostic criteria — contestability, recoverability, transfer, traceability, distributed responsibility and epistemic plurality — and distinguish instrumental assistance, which helps produce output, from judgment-bearing assistance, which supplies the standards by which output is judged.
+**Naming the governance question.** [[metacognitive-ownership-human-ai-regulation-2026|Lin and Chang (2026)]] propose **metacognitive ownership** — the learner's governance of the standards, evaluative judgments and actions an AI contributes to — separating standards appropriation, monitoring-judgment governance and control authorization, and requiring a realistic opportunity to act differently.
+
 
 Key findings:
 - **Kosmyna et al. (2025):** Students who used AI essay assistance were **83% unable to recall quotes** from their own essays, vs. 11% for non-AI users — indicating they did not engage with the content during production.
@@ -174,3 +176,4 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — From diagnosis to meta-diagnosis: teachers judging AI-generated inferences (Hoppe, Loibl & Leuders 2026)
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
 - [[dang-human-ai-collaboration-competency-2026]] — Metacognition, not pedagogy, as the mechanism of learner agency in human-AI collaboration (Dang, Hong, Doyle & Nguyen 2026)
+- [[metacognitive-ownership-human-ai-regulation-2026]] — Metacognitive ownership: a construct for learner governance of standards, judgments and actions
