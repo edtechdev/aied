@@ -1,7 +1,7 @@
 ---
 title: Network Analysis
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-09-30T07:37:28-04:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
@@ -46,9 +46,12 @@ Network methods are used across the knowledge base's evidence base to answer que
 ## Methodological considerations
 
 - **Coding is the foundation.** All network variants depend on reliably coding raw data (utterances, events, relationships) into discrete nodes/codes; automated LLM-based coding is increasingly used but requires human validation (e.g., Fleiss' κ of 0.70–0.71 in TNA studies). ([[penny-transition-network-analysis-efl-writing-2026]])
+- **Treating coder agreement as a running check, not a one-off statistic.** [[preservice-teachers-noticing-ai-simulations-2026|Galiç et al. (2026)]] coded 304 noticing statements at Krippendorff's α = .803 and monitored agreement across the study, re-coding disputed statements whenever pooled κ fell below their .85 recalibration threshold (at Cases 18 and 27) and needing no further recalibration by Cases 36–51. The sequence is the point: reliability measured only at the end would have left the early transition models resting on coder drift, since those weekly transition patterns were the study's finding.
 - **Network-level metrics summarize structure.** Density, reciprocity, centralization, and in-/out-strength describe whether interaction is random or organized around "gravitational" hubs, and how reciprocal the exchange is.
 - **Statistical comparison is needed for group differences.** Chi-squared tests or permutation testing are used to establish that observed network differences (e.g., by proficiency) are not due to chance.
+- **Validate the instrument before reading its network.** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai & Alshahri (2026)]] built the 45-item AI-STEM-MLCS by the full scale-development route — expert content-validity ratios, exploratory then confirmatory factor analysis (CFI = 0.983, RMSEA = 0.019), McDonald's ω of 0.888–0.905, and two-week test-retest ICCs of 0.751–0.900 — before modeling the four dimensions with exploratory graph analysis. Deriving structure from a network whose nodes are unvalidated scale scores is what that ordering guards against, and the authors name the Saudi-specific validation as the boundary on transferring the structure.
 - **Interpret with care.** Node granularity (e.g., a coarse "chat" node) can obscure intent; automated classification carries some ambiguity; and cross-sectional network structure does not establish causality.
+- **Networks that expose what an aggregate hides.** [[genai-social-annotation-epistemic-network-analysis-2026|Pan et al. (2026)]] found the GenAI-annotating class outscored and out-engaged its control, then split the experimental class by median performance and showed the gain was not shared: high-achieving groups initiated 60.7 percent of feedback requests across their annotations against 34.0 percent for low-achieving groups, which stayed in a self-referential loop (group separation significant on the ENA X-axis, U = 25.00, p = 0.01). The design lesson is that one group-level effect can summarize two different interaction structures — and the two groups were intact classes, so the comparison identifies the pattern without attributing it causally.
 
 ## Implications for AI-in-education research
 

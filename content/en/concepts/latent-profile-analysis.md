@@ -1,7 +1,7 @@
 ---
 title: "Latent Profile Analysis"
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-09-28T22:26:08-04:00"
+updated: "2026-09-30T07:37:28-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
@@ -50,6 +50,7 @@ No single statistic selects the solution; the corpus treats retention as a judgm
 - **[[explainable-ai|Interpretability]] and profile size.** The trust-in-AI profiling study kept three clusters although the Calinski–Harabasz index preferred two, because three were interpretable, and it notes that a silhouette coefficient of 0.288 signals weak or borderline separation. Chen and colleagues warn that their smallest profile (14.06 percent of 128 cases) may be unstable, and the Ghana study's smallest profile holds only 23 students, which its authors propose merging.
 - **Stability under resampling.** Bootstrap stability is the honest check on whether profiles would recur in a new sample: mean adjusted Rand index was 0.385 for the Ukrainian six-class solution but 0.989 across 100 random initializations in the trust-in-AI study — the same nominal design, very different evidential weight.
 - **Bootstrap likelihood ratio tests (BLRT)** and the Lo–Mendell–Rubin test are standard companions to BIC and entropy in the wider mixture-modeling literature, but the profile studies in this knowledge base do not report them. Where a page reports only BIC and entropy, treat the class count as provisional.
+- **Retention defended with the rival solution and a likelihood-ratio test.** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et al. (2026)]] report that a four-profile solution fit the 102 students slightly better but did not improve significantly and left a smallest class at 12.7 percent, so they retain three profiles (entropy .89) rather than the numerically better-fitting model. Reporting the losing solution and what disqualified it is what makes the retained class count a judgment readers can check, and the study's purpose-built 12-item AI-use measure — validated on a separate sample of 85 that the authors call preliminary — marks the other boundary of its evidence.
 
 Report the comparisons, not just the winner: a page that says "we retained five profiles" without the rival solution, the entropy values, and the smallest profile's size gives readers no way to judge the choice.
 
