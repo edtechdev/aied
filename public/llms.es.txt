@@ -31,6 +31,7 @@
 - [Modelo SAMR](https://edtechdev.github.io/aied/concepts/samr-model/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Conocimiento Tecnológico, Pedagógico y de Contenido (TPACK)](https://edtechdev.github.io/aied/concepts/tpack/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Pedagogías y estrategias de enseñanza](https://edtechdev.github.io/aied/concepts/pedagogy/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+- [Patrones pedagógicos](https://edtechdev.github.io/aied/concepts/pedagogical-patterns/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Aprendizaje activo](https://edtechdev.github.io/aied/concepts/active-learning/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Aprendizaje colaborativo](https://edtechdev.github.io/aied/concepts/collaborative-learning/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Aprendizaje basado en proyectos](https://edtechdev.github.io/aied/concepts/project-based-learning/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
