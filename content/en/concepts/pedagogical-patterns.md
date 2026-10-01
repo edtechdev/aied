@@ -11,6 +11,16 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
 reviewed_by: [editor]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: drafting
+    date: "2026-09-30"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash
+    role: revision
+    date: "2026-10-01"
+    agent: hermes-agent
 ---
 
 > **Pedagogical Patterns** — the *ordered sequences* of activity that research in this knowledge base has tested, with attention to where [[generative-ai|generative AI]] enters the sequence and where [[human-in-the-loop-ai|human judgment]] has to remain. Where [[pedagogy]] catalogs approaches ([[active-learning|active learning]], [[problem-based-learning|problem-based learning]], [[collaborative-learning|collaborative learning]]) and [[learning-design]] describes how a course is designed, this page catalogs what students and teachers actually *do*, in what order, and what happened when it was tried. PAIRR — draft, peer review, AI review, reflection, revision — is the best-documented example, and the pattern behind it recurs across disciplines: effort first, AI second, human judgment at the stakes.
