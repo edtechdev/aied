@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-01T09:16:43-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -138,6 +138,8 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - **Fabricated references have reached the published computing-education record.** [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] traced 113,588 references from 5,225 computing education papers in the ACM Digital Library against the full corpus of 723,930 publications and 15,872,533 references, manually verified 828 suspicious records, and confirmed 30 references containing verifiably fabricated bibliographic information across 14 papers, all published in 2025 or 2026. At the SIGCSE Technical Symposium the verified count rose from 3 in 2025 to 17 in 2026, sitting in 2.3% of 2026 proceedings papers, and hallucinated references appeared across five SIGCSE-sponsored or in-cooperation venues in 2025. The number is intact only with its counterweight: most flagged references were benign — 229 were ACM metadata mismatches where the PDF was correct and 188 were valid bibliographic variants — so the venue figure is a deliberate lower bound. It lands on authors, not only on [[peer-assessment]], because reviewers checking reference lists cannot verify every entry, and [[llm]]-assisted drafting makes an invented but plausible citation cheap to produce.
 
 - **Clarity without redesign moves misuse sideways rather than removing it.** [[petricini-zipf-ai-use-ethics-matrix-2026|Petricini & Zipf (2026)]] plot AI use on two axes — students' intention and effort against the clarity and support the environment provides — and report that the most populated quadrant in their interview data was *anxious compliance*, where students hide legitimate help (grammar support, concept explanations, organizing their own ideas) to avoid [[legal-issues-and-risks|false accusation]]. Their warning is directional: where rules become clear but [[assessment]] still rewards speed and product, policy-aware students shift into *efficient circumvention* rather than into *virtuous tool use*. [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]] reaches the same place from the assignment side — when agents satisfy every rubric criterion without visible reasoning, grading the decision trail (confidence calibration, rejected AI suggestions, course-specific constraints) replaces detection, which she notes misfires in both directions.
+- A six-year analysis of a large-enrollment CS2 course found 45.7% of Spring 2026 students flagged for patterns consistent with LLM-assisted coding, with flagged students scoring far lower on proctored exams [[argus-academic-integrity-genai-2026|Racovan et al. (2026)]].
+- Instructors frequently suspect inappropriate AI use but rarely trust their current investigation tools; multi-view writing traces that combine product and process measures can surface cases such as copy-typing that neither view reveals alone [[drafttrace-ai-writing-analytics-2026|Chandarana et al. (2026)]].
 
 ## Connected Concepts
 - [[pedagogical-patterns]] — Verification sequences adopted in response to generative AI
@@ -198,3 +200,5 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
 
 - [[genai-governance-australian-higher-ed-2026]] — Mapping the Authorized Boundary: A Comparative Policy-Vignette Study of Generative AI Governance in Australian Higher Education
+- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: A Multi-View Analytics Environment for AI-Integrated Writing
+- [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI

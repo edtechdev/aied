@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-01T09:16:43-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -38,6 +38,7 @@ The knowledge base's research illustrates the main technical families:
 - **Zero-shot likelihood / latent-prompt methods:** [[detecting-llm-generated-text-latent-prompt|EchoPrompt]] is a training-free zero-shot detector that exploits the latent prompt dependency inherent in machine-generated text. By restoring a generic assistant-response prefix and measuring likelihood-gain differences between instruction-tuned and base models, it achieves state-of-the-art detection without training, remaining robust across domain shift and paraphrasing attacks. This contrasts with purely probability-based statistical detectors that ignore the generation mechanism.
 - **LLM self-detection:** [[llm-detecting-llm-generated-content-education|Leinonen & Denny (2026)]] test whether LLMs can reliably detect their own generated content across programming, reflective writing, and short-answer tasks. Detection proves **highly task-dependent**: reliable for programming and longer reflective responses, but poor for short answers, where LLMs often judge their own output as *more* human-like than authentic student work. Minor prompt variations sharply reduce accuracy.
 - **Classifier-based and watermarking approaches:** statistical classifiers and watermarks are widely deployed in commercial tools, though their reliability is contested as LLM outputs become more sophisticated.
+- Detection need not be a verdict: in a six-year CS2 study, H-scores were near-zero before LLMs were public and rose to a mean of 11.9 by 2026, yet every flag still required human review [[argus-academic-integrity-genai-2026|Racovan et al. (2026)]].
 
 ## The limits and risks of detection
 
@@ -138,3 +139,4 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
 - [[detecting-gpt-assisted-writing-stylometric-2026]] — Nine interpretable stylometric features: ROC-AUC 0.870 but four of 18 independently authored documents flagged (Kumar et al. 2026)
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — One human manuscript, five detectors, classifications from "0% human" to "Human Generated", plus the documented institutional retreat from detection (Angelier 2026)
+- [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI

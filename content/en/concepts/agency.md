@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-01T09:16:43-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -75,6 +75,8 @@ Learner agency is not only a static individual trait — it is also an **emergen
 For collaborative settings, this reframes the design question: not *whether* AI can participate as a teammate, but *how* its patterned participation balances epistemic rigor, emotional safety, and learners' sense of ownership. Bounded friction (constrained challenge, paired with integrative and repair moves) and explicit meta-collaborative literacy are the recommended safeguards.
 
 A structural reading of agency appears in [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma's joyful assessment framework]], where agency is treated as a design property rather than motivation: students choose the order of tasks, set the pace, and signal when an interaction ends, so support is available while responsibility for the work stays with the learner. The mechanism they name is appraisal — rehearsing without an audience and choosing when to begin shifts what a task means, from verdict to something a student can shape — and they argue repeated experience of that shift is what settles occasional feelings of efficacy into an everyday stance toward assessment.
+
+- Felt authorship can be decoupled from measured distinctiveness: builders who produced visually generic sites felt no less authorial than the cohort's most original ones [[vibe-coding-design-diversity-2026|Boussioux et al. (2026)]].
 
 ## Agency vs. learner identity
 
@@ -158,3 +160,4 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[fagerlund-competency-agency-purposes-ai-education-2026]] — Competency vs. agency as the purposes of AI education, and the informed AI agency heuristic (Fagerlund et al. 2026)
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Teacher mediation as the condition keeping GenAI an artifact for critique rather than an authority (Canonigo 2026)
 - [[charles-teacher-readiness-by-design-ai-rich-2026]] — Teacher agency as a resource mobilized through design, with readiness judged from artifacts rather than usage (Charles 2026)
+- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity

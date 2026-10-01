@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-01T09:16:43-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -43,6 +43,8 @@ The most explicit design vocabulary comes from Thapa and Lewis, whose four commi
 The channel chosen for process evidence changes what can be evidenced: in the same 79-student generative-AI study, higher-depth monitoring and planning were more common in think-aloud units while higher-depth regulation was more common in interaction logs, so no single record captures the whole process ([[metacognitive-processes-genai-interaction-logs-2026|Li and Liu (2026)]]).
 
 Practitioner and framework accounts fill in the artifacts. Uden and Hwang's (2026) LEARN framework, aimed at [[problem-based-learning|problem-based learning]] [[assessment]], asks for process-focused rubrics, oral justifications, staged submissions, and reasoning traces with [[ai-use-disclosure|AI-use disclosure]], and treats reflection through learning journals and think-aloud protocols as the [[metacognition|metacognitive]] engine of the sequence. Moganadas and colleagues (2026) make AI-transparent, process-oriented assessment one of five researchable propositions, requiring documentation, verification, and reflective justification rather than prohibition or detector use. Padhy (2026) recommends capturing revision history, interaction patterns, and time-on-task, paired with transparent disclosure. Goldstein, Marae-Haj and Zidan (2026) report the same artifacts emerging from practice after a [[trust]] crisis: prompting records, document version history, monitored group contributions, and reflective "journey journals" kept in physical notebooks — alongside the plain finding that take-home written work could no longer evidence learning.
+
+- DraftTrace operationalizes process-oriented assessment for AI-integrated writing by aligning keystroke-level process measures with the final product and with AI-interaction traces, showing that copy-typing is identifiable only when product and process are read together [[drafttrace-ai-writing-analytics-2026|Chandarana et al. (2026)]].
 
 ## A different axis from authenticity, and from marking
 
@@ -93,3 +95,4 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[thapa-lewis-process-oriented-assessment-2026]] — epistemic authenticity and the four design commitments behind process-oriented assessment (Thapa & Lewis 2026)
 
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Channel-conditional process evidence: logs and think-aloud reveal different processes
+- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: A Multi-View Analytics Environment for AI-Integrated Writing
