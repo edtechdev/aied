@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-01T09:16:43-04:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -30,6 +30,8 @@ AI misuse is distinct from AI use. Use describes employing AI as a complement to
 ### The performance–learning gap
 
 The core concept, articulated in [[genai-performance-vs-learning]], is that generative AI easily boosts **performance** — immediate efficiency and output quality — while often bypassing the deep cognitive and [[metacognition|metacognitive]] processing required for **learning**. A tool that optimizes for performance can therefore undermine learning. The gap is now causally demonstrated at field scale: a [[rct|randomized controlled trial]] found unguarded AI assistance raised practice performance but reduced later unassisted exam scores.
+
+- Flagged LLM-assisted work in a large CS2 course correlated with weaker proctored-exam performance (r = −0.537 in 2026), and the gap widened as the number of flagged assignments rose [[argus-academic-integrity-genai-2026|Racovan et al. (2026)]].
 
 ### Mechanisms of harm
 
@@ -100,3 +102,4 @@ The most important practical nuance is that the harm is **selective by assessmen
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
 - [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI dependency fully mediates the path from self-efficacy and teacher support to learning burnout (Huang et al. 2026)
 - [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance predicts negative impact while cognitive reliance predicts positive impact, and evaluation literacy strengthens rather than buffers the harm of consulting AI first (Manikonda et al. 2026)
+- [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI

@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-01T09:16:43-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -90,6 +90,8 @@ This aligns with [[intelligent-tutoring|AI Tutoring]] research showing that tuto
 
 Transfer of learning connects to [[metacognition]] (self-monitoring of understanding), Cognitive Load Theory (germane vs extraneous load), [[desirable-difficulties]] (productive struggle), [[scaffolding]] (fading support), [[cognitive-offloading|Over-Reliance]] (tool dependence), and [[sociocultural-learning]] (general-purpose AI operates outside the ZPD by completing work for students). It is the bridge between assisted performance and genuine learning — the distinction between [[stanford-evidence-base-ai-k12-2026]] and the central question for [[intelligent-tutoring|AI Tutoring]] effectiveness.
 
+- In a 36-participant comparison, learners assisted by a desk robot held their score at 7.0/10 once help was withdrawn while ChatGPT-assisted learners fell to 4.4/10, a 60% higher short-term transfer score [[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]].
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — The outcome most of these sequences are ultimately judged on
@@ -119,3 +121,4 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[shi-genai-experiential-learning-management-education-2026]] — argues that protected classroom simulations can form decision habits that fail outside them
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — AI-assisted speaking practice raised willingness toward humans but no study observed human speaking
+- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk

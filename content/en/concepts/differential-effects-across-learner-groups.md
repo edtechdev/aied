@@ -1,7 +1,7 @@
 ---
 title: Differential Effects Across Learner Groups
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-09-30T07:03:17-04:00"
+updated: "2026-10-01T09:16:43-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -71,6 +71,7 @@ Gender research here divides into whether tools treat learners differently, and 
 - **But prompt content transfers bias into student work.** [[gender-bias-transfer-llm-writing|A controlled study with 123 participants]] had students write career-plan essays for paired profiles differing only in gender, under no-AI, neutral-AI, and gender-biased-AI conditions; the biased condition transferred gender-differentiated language into student writing and suppressed female [[agency]] asymmetrically. The researchers first confirmed the effect on 1,600 generated essays.
 - **Space and framing matter as much as the tool.** [[all-girls-genai-makerspace-gender-equity-2026|An all-girls generative AI makerspace case study]] found girls valued the single-gender setting as safer and more relaxed, and warns against "girlification" — surface-level adaptation that leaves power relations untouched.
 - **Model sensitivity is a model property, not a constant.** In [[edufair-bench-pedagogical-fairness-llm-tutors-2026|EduFair-Bench]], five tutors from 7B to 70B were audited across nine demographic levels: Qwen2.5-7B exceeded the |r| ≥ 0.10 bias threshold in 7 of 12 domain-by-dimension cells, while LLaMA-3.1-8B exceeded it once. Pedagogy-specific training reduced some biases and increased others.
+- Gender-diverse students collapsed into an “Unknown Gender” category had the lowest true positive rates under every fairness method with a normal error profile, and no single-axis method improved their treatment [[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]].
 
 ## Race, ethnicity, and minoritized students
 
@@ -150,3 +151,4 @@ The honest finding of this survey is how thin some groups are. Each of these is 
 - [[student-ai-inquiry-types-cs2-2026]] — The corpus's one first-generation usage finding
 - [[international-students-conversational-ai-adaptation]] — The corpus's one international-student study
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — The corpus's first effect estimate for first-generation students: tutor access cost them 0.50 SDs of final grade against 0.22 for their peers (Liu et al. 2026)
+- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems

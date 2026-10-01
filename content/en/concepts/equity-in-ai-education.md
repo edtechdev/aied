@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-10-01T09:16:43-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -72,6 +72,7 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - **The best-evidenced methods are the least scalable ones.** In a workshop with 73 computing educators, oral and interactive assessment was reported as the strongest available evidence of individual understanding and the least scalable remedy proposed — raised in one room alongside 400-plus students and a handful of teaching assistants — so the strategies with the clearest link to verified learning sit in the institutions teaching the fewest students, an equity gap between institutions rather than within a cohort ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 - **Tutoring quality shifts with learner demographics.** EduFair-Bench pairs a fixed [[simulating-students|LLM student]] with each tutor across nine demographic levels spanning gender, immigration background, first language and socioeconomic status, and scores five turn-level pedagogical metrics. In [[intelligent-tutoring|LLM tutoring]] the largest deviations appear in explicit demographic conditions — step scaffolding correlating up to |r| = 0.144 in mathematics and corrective tone exceeding 0.10 for every model in [[chemistry-education|chemistry]] (0.102-0.168) and [[physics-education|physics]] (0.129-0.294) — and in 11 of 15 model-by-domain cells the wrong-answer condition scored higher than the correct one, indicating that tone tracked the student's demographic label rather than the quality of the student's reasoning. Pedagogy-specific [[reinforcement-learning|reinforcement learning]] redistributed rather than removed these gaps. ([[edufair-bench-pedagogical-fairness-llm-tutors-2026]])
 - **Implicit demographic signals are a less controllable bias channel than stated attributes.** [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto and Hovy (2026)]] held each task input fixed while varying only the demographic context across six instruction-tuned [[llm|LLMs]] and three educational tasks, producing 192,480 inference calls, and separated *explicit* signals (stated student attributes) from *implicit* ones carried by a ten-prompt [[conversational-ai|conversation]] history. In [[automated-essay-scoring|automated essay scoring]] most models were comparatively stable under explicit conditioning, while implicit conditioning inflated scores — Llama-70B scored 1.57 points above its own default (p < 0.001). In metalinguistic question answering the implicit condition drifted the other way: responses for lower education levels received less positive sentiment, a 0.3 average gap between the lowest and the higher education levels on a 0-4 scale against a within-item standard deviation of 0.07. The equity difficulty is structural — the cue is not a stated attribute that a policy can forbid or a prompt field that an audit can inspect, but a property of the interaction itself.
+- Post-hoc fairness interventions on a vendor-controlled early warning system redistributed disparities without reducing them: [[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]] name this “fairness theatre”, where dashboard metrics converge while groups' error burdens persist or worsen.
 
 ## Linguistic, cultural, and disability inclusion
 
@@ -158,3 +159,4 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Pooled GenAI learning gains (g=0.53) and the inequitable access to high-cost tools they cannot capture
 
 - [[intelligent-tutoring-mathematics-education-review-2026]] — Mathematics AI-tutoring review finding inclusiveness and achievement-gap claims unsupported
+- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems

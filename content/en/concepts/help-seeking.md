@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-01T09:16:43-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -53,6 +53,8 @@ The **affordance perspective** explains a key mechanism: when an interface makes
 
 Two simple, interpretable indicators — premature hint requests and superficial hint reading — are computable from standard tutoring logs and are consistently associated with reduced [[learning-gains|learning gains]] across semesters, even after controlling for [[prior-knowledge|prior knowledge]]. This makes them practical for [[learning-analytics]] [[visualization|dashboards]] and real-time intervention, unlike complex machine-learned "gaming the system" detectors.([[lak2026-hint-button-unproductive-use]])
 
+- Operational support demand complicates the classic help-seeking model: across 4,093 queries, at least 20.4% asked about the status of a pending submission rather than for knowledge, a class a retrieval-bound assistant served only 1.3% of the time [[student-query-demand-hybrid-ai-support-2026|Gupta et al. (2026)]].
+
 ## Designing AI systems to promote productive help-seeking
 
 ### Scaffolding how students ask
@@ -74,6 +76,7 @@ Rather than removing help, research recommends re-engineering how it is delivere
 
 - **Delayed hint availability** — requiring minimum engagement time or solution attempts before hints (especially bottom-out hints) are accessible.([[lak2026-hint-button-unproductive-use]])
 - **Moving from *whether* to *how*** — the key design question is how to structure hint delivery aligned with productive-struggle principles, not whether to provide hints at all.([[lak2026-hint-button-unproductive-use]])
+- Help requests are the most recoverable impasse type at onset (47.0%) but fall furthest once assistance fails (12.5% at depth six or more), so persistence, not the request itself, is the signal worth tracking [[guided-ai-tutor-impasse-resolution-2026|Ahtisham et al. (2026)]].
 
 ### The uptake problem in LLM tutors
 
@@ -88,6 +91,8 @@ Help-seeking is an integral part of [[self-regulated-learning]]: productive help
 [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg et al. (2026)]] show that, in everyday STEM study, LLM help-seeking is not a single act but a layered, context-dependent process with four stages: (1) *deciding whether help is needed* — students try tasks independently first to preserve learning value; (2) *choosing whom to ask* — ChatGPT as a low-barrier first step, then peers for conceptual negotiation, then instructors for complex or high-stakes issues; (3) *determining the type of help* — from hints and explanations to scaffolding [[problem-solving]], streamlining routine work, and extending learning; and (4) *judging the help received* — exercising selective trust and verifying AI outputs against coursework or with humans. Crucially, students favored **instrumental help-seeking** (enhancing understanding) over **executive help-seeking** (obtaining solutions), a distinction that the authors propose adapting into new SRL-for-LLM measurement items.
 
 In fully online [[english-education|composition]], availability of the tool is not the bottleneck. [[reed-resource-literacy-genai-composition-2026|Reed (2026)]] observed that students who struggled were not the ones without support but the ones who did not recognize when help was needed, which resource fit the task, or how to judge feedback once it arrived — and fluent [[generative-ai]] output is easily mistaken for authoritative support. Her response was to make help-seeking *structured* rather than merely available: required touchpoints that decode task demands, map resources with justification, compare feedback sources, and close the loop with reflection.
+
+- In AI-integrated writing, students seek help in stages: early prompters mainly request clarification or direct help, late prompters verify drafted answers, and multi-turn collaboration appears only among those issuing three or more prompts [[drafttrace-ai-writing-analytics-2026|Chandarana et al. (2026)]].
 
 ### Making behavioral context visible: TutorTrace
 
@@ -140,3 +145,6 @@ In fully online [[english-education|composition]], availability of the tool is n
 - [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
 - [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
+- [[guided-ai-tutor-impasse-resolution-2026]] — Examining Variation in How Guided AI Tutors Resolve Student Impasses
+- [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
+- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: A Multi-View Analytics Environment for AI-Integrated Writing

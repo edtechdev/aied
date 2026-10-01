@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Vibe Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-09-20T16:38:31-04:00"
+updated: "2026-10-01T09:16:43-04:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -36,6 +36,8 @@ The definition of vibe coding is still in flux. Some use the term broadly to mea
 ### Who succeeds at vibe coding: evidence
 
 A preregistered cross-sectional study (N = 100 tertiary students) provides the first controlled, participant-level evidence on which skills predict vibe-coding success. Both [[writing-education|written-communication proficiency]] (r = .29) and computer-science achievement (r = .39) significantly predicted performance on expert-vetted, GUI-oriented vibe-coding tasks, with CS achievement remaining significant after controlling for domain-general cognitive skills (partial r = .281). In a joint model CS achievement contributed roughly twice the unique variance of writing skill, but both added independent predictive value. Critically, human-graded prompt quality mediated the writing→performance link, giving response-process evidence that clear prose operates by producing better prompts. Because the environment hid the source code, CS knowledge could only help indirectly (through problem decomposition, algorithmic thinking, and mental models of control flow) — so the authors argue their CS estimate is a *lower bound* for AI-assisted programming in which users may also edit code directly ([[vibe-coding-writing-cs-achievement-2026|Thorgeirsson et al., 2026]]).
+
+- In a course deployment, 73 students building sites for distinct businesses on one vibe-coding platform produced roughly a dozen distinct designs, and felt authorship did not track measured originality [[vibe-coding-design-diversity-2026|Boussioux et al. (2026)]].
 
 ### Vibe coding as end-user development and teacher tooling
 
@@ -75,3 +77,4 @@ A faculty-level case study in this knowledge base supplies the organizational la
 - [[reshaping-cs-education-genai]] — Reshaping Undergraduate CS Education for Generative AI
 - [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
 - [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — AI intrapreneurship: faculty building their own tools, and the organizational enablers that decide whether the impulse survives (Zimmer 2026)
+- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
