@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Vibe Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-10-01T09:16:43-04:00"
+updated: "2026-10-01T09:59:06-04:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -37,11 +37,13 @@ The definition of vibe coding is still in flux. Some use the term broadly to mea
 
 A preregistered cross-sectional study (N = 100 tertiary students) provides the first controlled, participant-level evidence on which skills predict vibe-coding success. Both [[writing-education|written-communication proficiency]] (r = .29) and computer-science achievement (r = .39) significantly predicted performance on expert-vetted, GUI-oriented vibe-coding tasks, with CS achievement remaining significant after controlling for domain-general cognitive skills (partial r = .281). In a joint model CS achievement contributed roughly twice the unique variance of writing skill, but both added independent predictive value. Critically, human-graded prompt quality mediated the writing→performance link, giving response-process evidence that clear prose operates by producing better prompts. Because the environment hid the source code, CS knowledge could only help indirectly (through problem decomposition, algorithmic thinking, and mental models of control flow) — so the authors argue their CS estimate is a *lower bound* for AI-assisted programming in which users may also edit code directly ([[vibe-coding-writing-cs-achievement-2026|Thorgeirsson et al., 2026]]).
 
-- In a course deployment, 73 students building sites for distinct businesses on one vibe-coding platform produced roughly a dozen distinct designs, and felt authorship did not track measured originality [[vibe-coding-design-diversity-2026|Boussioux et al. (2026)]].
-
 ### Vibe coding as end-user development and teacher tooling
 
 A major promise of vibe coding is that it lets non-programmers — including [[teacher-role|teachers]] and domain experts — build their own software, an LLM-era form of end-user development. A [[gaide-vibe-coding-k12-teachers|GAIDE framework study]] showed K-12 teachers (non-programmers) using vibe coding in an eight-week workshop to create AI-powered learning tools, raising their [[ai-literacy|AI literacy]] and demonstrating "learning-by-creating" as a professional-development model. In higher education, an instructor rapidly built a [[vibe-coding-programming-process-visualizer|programming-process visualizer from IDE activity logs]] via vibe coding in a matter of days, making students' programming processes visible for teaching and [[academic-integrity]] review. These cases position vibe coding not merely as a learner skill but as an authoring capability that [[educational-development|reshapes who can create educational technology]].
+
+### Design homogenization: access without diversity
+
+Vibe coding's end-user-development promise is about who can build, not what gets built. In a course deployment, 73 students building sites for distinct businesses on one vibe-coding platform produced roughly a dozen distinct designs, and felt authorship did not track measured originality ([[vibe-coding-design-diversity-2026|Boussioux et al. (2026)]]). Lowering the barrier to building may standardize the output — a cost the access promise does not advertise.
 
 ### Learning, agency, and the risk of over-reliance
 

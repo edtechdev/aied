@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-10-01T09:16:43-04:00"
+updated: "2026-10-01T09:59:06-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -58,7 +58,7 @@ The knowledge base's research illustrates several complementary strategies:
 - **Explainability:** [[xai-education-framework|XAI in education]] provides transparency into why a system produced a given score or recommendation, enabling detection and correction of biased behavior and supporting [[trust]].
 - **Pipeline-wide auditing:** [[antiskillbench-persona-skills-privacy-2026|persona-skills auditing]] and systematic audits like the paternalistic-filter study show the value of auditing models across identity conditions before deployment.
 - **Fairness measurement is largely absent where analysis scales.** A PRISMA-ScR scoping review of 421 studies applying NLP to student evaluation of teaching found a formal fairness metric in only 8 studies (1.9%) and institutional-use risk in 18, while study limitations appeared in 70.5% and privacy protections in 42.3%; the authors read the coexistence as [[llm|LLM]] adoption broadening the technical repertoire without proportional gains in validation or responsible-use reporting ([[nlp-student-evaluation-teaching-scoping-review-2026|Eicher & da Silva (2026)]]).
-- Two of six post-hoc fairness methods directed corrections at already-advantaged groups because they used group size to define disadvantage; reassigning disadvantage by observed disparity redirected one method but left the other flipping zero predictions [[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]].
+- **Group size is not a proxy for disadvantage:** two of six post-hoc fairness methods directed corrections at already-advantaged groups because they used group size to define disadvantage; reassigning disadvantage by observed disparity redirected one method but left the other flipping zero predictions — a limit on what post-hoc mitigation can claim ([[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]]).
 
 ## Mitigation across the AI pipeline
 
