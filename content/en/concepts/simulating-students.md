@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-01T18:44:10-04:00"
+updated: "2026-10-01T19:39:20-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge-tracing, llm, pedagogical-agent, simulation, student-modeling]
@@ -84,6 +84,8 @@ A third 2026 thread concerns *how* a simulator is built rather than what it is u
 
 Benchmarking nine simulation methods against seven reference-based metrics on 382 held-out math dialogues, prompting trailed fine-tuning on dialogue acts (0.4998 against 0.6840), ROUGE-L (0.1648 against 0.3212) and cosine similarity (0.5460 against 0.7390) ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Yet the best method tested, preference optimization on an 8B model, beat supervised fine-tuning only marginally and was worse on errors, and a three-tutor human evaluation reproduced that ranking.
 
+Architecture can enforce what prompting cannot: a neuro-symbolic simulator imposing self-regulated learning structure through a semi-Markov controller and flaw-injected knowledge tracing reached behavioral divergence of 0.31 against a 0.53 baseline ([[beagle-grounded-learner-emulation-2026|Wang et al., 2026]]). Injecting its metacognitive vocabulary into baselines never beat 0.63, removing the symbolic controller pushed divergence to 6.81, and in a 71-rater Turing test its traces were indistinguishable from real students (52.8%, d′ = 0.15).
+
 ### Auditing AI with simulated students
 
 Beyond evaluating pedagogy, simulated students serve as a **test harness for auditing AI systems themselves** — a controlled way to probe how an AI behaves across diverse learner profiles before it touches real students. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] illustrate this: they generated 4,500 synthetic student vignettes with three LLMs to audit whether current [[llm|large language models]] can act as prescriptive [[learning-analytics]] recommenders, finding limited sensitivity to student need and sharp cross-model inconsistency. Using simulated cohorts to stress-test an AI's recommendations (rather than only to train or evaluate tutors) is a growing role for the paradigm, closely tied to [[ai-ed-evaluation|evaluating AI in education]] and to [[equity-in-ai-education]] when the audit is meant to surface disparate treatment across learner types.
@@ -145,3 +147,4 @@ The 2026 durable-skills work inverts the usual direction of simulation. Instead 
 - [[simulating-novice-students-machine-unlearning-2026]] — machine unlearning as a way to put a simulator at a stable novice knowledge level, and relearning through teaching dialogue
 - [[student-development-agent-risk-free-simulation-2025]] — predicting students' post-course developmental outcomes on a multi-agent platform without exposing them to the intervention
 - [[preservice-teachers-noticing-ai-simulations-2026]] — three weeks of preservice teachers' attending, interpreting and shaping in an equal-sign chatbot simulation, and how the design steers what they notice
+- [[beagle-grounded-learner-emulation-2026]] — a neuro-symbolic simulator that enforces SRL structure architecturally rather than by prompting, and passes a human Turing test
