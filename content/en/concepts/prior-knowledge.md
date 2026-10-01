@@ -1,7 +1,7 @@
 ---
 title: Prior Knowledge
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-01T18:49:55-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
@@ -29,6 +29,7 @@ Prior knowledge activation is one of the most robust findings in [[learning-scie
 
 - **It is the strongest predictor of learning.** Decades of [[research-methods-aied|research]] show that what a learner already knows correlates with [[learning-gains|learning outcomes]] more strongly than almost any other factor, because new information is encoded relative to existing mental models. AI systems that adapt to each learner's prior-knowledge state therefore hold particular promise for efficiency and [[transfer-of-learning|transfer]].
 - **Activation matters, not just possession.** Having prior knowledge is not enough — it must be actively retrieved and connected to the new material. This is why "activating prior knowledge" is a standard [[pedagogy|instructional]] move, and why retrieval practice (recalling what you know before adding to it) improves learning beyond simple re-exposure.
+- **It does not always predict who does the work that drives learning.** In a five-day learning-by-teaching study with 23 middle-school tutors, prior test scores did not predict the share of knowledge-building responses a tutor produced, and low-prior tutors who built knowledge finished statistically level with high-prior peers ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **It shapes interpretation.** Learners interpret new information through what they already believe. When those beliefs are wrong ([[misconceptions]]), prior knowledge can *interfere* with learning, which is why instruction must surface and address misconceptions rather than assume a neutral starting point.
 - **It drives student modeling.** To personalize, an AI system must estimate the learner's prior-knowledge state — the basis of [[knowledge-tracing]], student modeling, and adaptive [[scaffolding]]. The quality of these estimates determines whether adaptation is genuinely helpful or misleading.
 - **Knowledge content determines which process practice recruits.** Whether learning hinges on memory or on induction is set by the prior-knowledge structure of the target: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] follow the [[learning-theories|KLI]] framework in distinguishing knowledge components with constant conditions and responses (facts, acquired through memory and retrieval practice) from those with variable conditions and responses (skills, acquired through induction and generalization to novel inputs) — which is why the optimal mix of worked examples and practice differs for fact content versus skill content.
@@ -78,4 +79,5 @@ Generative AI has made prior knowledge a central design consideration rather tha
 - [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble on cognitive offloading
 - [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in LLM synthesis writing
 - [[bridging-instructional-design-framework-math]] — An instructional-design framework for math
+- [[knowledge-building-tutor-learning-2026]] — knowledge-building rather than prior knowledge predicts tutor learning, and low-prior tutors who build knowledge catch up
 - [[rachatasumrit-example-problem-ratio-2026]]

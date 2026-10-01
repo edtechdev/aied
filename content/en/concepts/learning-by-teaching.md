@@ -1,7 +1,7 @@
 ---
 title: Learning by Teaching
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-01T18:49:55-04:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -49,6 +49,7 @@ A central design challenge for LLM-based teachable agents is that LLMs are train
 - **[[prompting-teachability-novice-personas-lbt-2026|Prompting for teachability]]** (Miller & Bosch) found that constraint-based prompts explicitly forcing error production (e.g., "answer incorrectly" or "get 2–3 wrong") elicit novice-like behavior far more reliably than persona-, misconception-, or uncertainty-based prompts.
 - **[[socrates-students-instructors-llms-lbt-2025|Engineered knowledge gaps]]** (Yang et al.) design problems the LLM cannot solve without knowledge only the student possesses, making teaching a necessity and countering the passive over-reliance of LLM-as-tutor use.
 - **Explique's apprentice constraints** (Wang et al.) instruct the tutee to (a) stay a novice, (b) keep requesting clarification until the student's explanation is accurate, and (c) never reveal the target explanation — and to *resist* students who try to reverse the roles and have the tutee explain back.
+- **Unlearning as a weights-level route to fallibility.** Machine unlearning suppresses 16 targeted knowledge components in Mistral-7B, dropping accuracy from about 0.75 at a 10% forgetting ratio to below 0.5 at 40% while the base model held near 0.85. The suppressed knowledge returned through supervised relearning and coach-guided dialogue, so the tutee's knowledge level is a dial rather than an assertion ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]]).
 
 ## Questioning, Self-Regulation, and Active Learning
 
@@ -57,6 +58,7 @@ Two further affordances recur across the knowledge base:
 - **Questions identify knowledge gaps.** LbT systems use learner-generated questions to expose gaps and reinforce comprehension, and [[teaching-ai-vocabulary-lbt-llms-2026|LLM-generated questions]] replace rigid template-based generators.
 - **Teach-back surfaces what clarification misses.** In a 22-participant post-lecture review system, a Peer agent's reflective teach-back consistently exposed gaps between what learners believed they understood and what they could articulate, which lecture-grounded clarification alone had not revealed ([[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]).
 - **LbT [[scaffolding|scaffolds]] self-[[regulation]].** Teaching a [[conversational-ai|conversational agent]] fosters [[self-efficacy]] and the implementation of self-regulated learning strategies, and connects LbT to [[desirable-difficulties]] — the effortful act of explaining and correcting is itself a productive struggle that AI's friction-removal would otherwise erase.
+- **What predicts tutor learning is knowledge-building, not prior knowledge.** Across 23 middle-school tutors, the share of responses that built knowledge rather than restated it predicted conceptual post-test scores (β = .138, p < 0.05) while prior test scores did not predict who produced them, and low-prior tutors who built knowledge finished level with high-prior peers ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 
 ## Why It Matters in AI Education
 
@@ -119,4 +121,6 @@ The [[research-methods-aied|research]] above converges on a few reusable pattern
 - [[socrates-students-instructors-llms-lbt-2025]] — Students as instructors of LLMs (Socrates)
 - [[teaching-ai-vocabulary-lbt-llms-2026]] — Vocabulary learning by teaching AI
 - [[knowloop-confusion-to-consolidation-2026]] — Teach-back consolidation in a conversational review system
+- [[simulating-novice-students-machine-unlearning-2026]] — machine unlearning to hold a tutee at a novice knowledge level, and relearning through teaching dialogue
 - [[simulating-students-java-programming-errors-llms]] — Simulating student errors with LLMs
+- [[knowledge-building-tutor-learning-2026]] — knowledge-building responses, not prior knowledge, predict tutor learning
