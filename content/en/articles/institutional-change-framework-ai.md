@@ -1,7 +1,7 @@
 ---
 title: A Framework for Institutional Change in the Age of AI
 created: "2026-05-14T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-10-01T15:03:14-04:00"
 type: article
 foundations: [agentic-ai, ai-education, educational-development]
 pedagogy: [pedagogy, scaffolding]
@@ -9,7 +9,7 @@ research_method: [theoretical analysis]
 discipline: [stem education]
 audience: [faculty developers, administrators, instructors]
 level: [higher ed]
-sources: ['raw/papers/2605.12757.md']
+sources: ['raw/papers/10.1186_s40594-026-00649-4.md']
 confidence: high
 page_kind: [framework]
 institutions: [change-management]
@@ -47,7 +47,7 @@ The framework was piloted through a faculty workshop series in a university [[ph
 - Relates to [[higher-ed]] and [[teacher-role]] — redefining instructor and institutional roles in AI-era education
 - Aligns with [[ai-literacy]] calls for faculty AI literacy as a prerequisite for meaningful institutional change
 - Contrasts with [[scaffolding]] and [[pedagogy-ai-mistakes]] — while those address classroom-level AI integration, this framework addresses the institutional conditions needed for such integration to succeed
-- Shares the systemic perspective of  — institutional capacity is a bottleneck for [[ai-education|AI in education]] globally
+- Shares the systemic perspective of [[change-management]] — institutional capacity is a bottleneck for [[ai-education|AI in education]] globally
 
 ## Open Questions
 
@@ -69,8 +69,8 @@ The framework was piloted through a faculty workshop series in a university [[ph
 - **No empirical test of the framework.** The authors state plainly that they have not tested whether change initiatives designed in accordance with it produce positive outcomes relative to alternative approaches; it is a theoretical contribution.
 - **A single, brief case study.** Application is illustrated through one faculty workshop series in one university physics department, so the six dimensions are shown in a single discipline and institution type.
 - **Context-bound evidence.** The framework is drawn primarily from U.S.-based change initiatives, and the authors note that the relative weight of the dimensions and specific design implications may shift in different institutional contexts.
-- **Deliberately provisional.** The authors concede that the dimensions most salient today may be reordered as the technology and practices mature, and present the framework as a starting point rather than an exhaustive or final model; the workshop materials are available only from the corresponding author.
+- **Deliberately provisional.** The authors concede that the dimensions most salient today may be reordered as the technology and practices mature, and present the framework as a starting point rather than an exhaustive or final model; the workshop materials are available from the authors upon request.
 
 ## Citation
 
-Perl-Nussbaum, D., & Finkelstein, N. D. (2026). [*A Framework for Institutional Change in the Age of AI*](https://arxiv.org/abs/2605.12757).
+Perl-Nussbaum, D., & Finkelstein, N. D. (2026). [*A framework for institutional change in the age of AI*](https://doi.org/10.1186/s40594-026-00649-4). *International Journal of STEM Education*, 13, 60.
