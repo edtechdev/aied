@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-10-01T09:16:43-04:00"
+updated: "2026-10-01T09:59:06-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -77,6 +77,8 @@ The limited evidence suggests transfer is possible when:
 
 - **Transfer as the criterion that separates learning from assistance.** [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]] build their theory of human-AI learning around transfer under reduced support: assisted performance counts as learning only if the capability persists once the support is withdrawn, which makes transfer the test rather than one outcome among several. Their proposition is directional, that requiring source checking or justification during AI-supported work should improve delayed performance, while repeated low-friction delegation without reconstruction should weaken learners' calibration of their own competence.
 
+- **Guidance is co-located with the work.** Against the negative-transfer pattern in the table above, a 36-participant comparison found learners assisted by a desk robot held their score at 7.0/10 once help was withdrawn while ChatGPT-assisted learners fell to 4.4/10, a 60% higher short-term transfer score ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). The result is short-term transfer measured about 35 minutes after the task, with no delayed retention test, in 36 participants at one campus.
+
 This aligns with [[intelligent-tutoring|AI Tutoring]] research showing that tutoring-specific tools with pedagogical guardrails outperform general-purpose [[conversational-ai|chatbots]], and with [[scaffolding]] principles about fading support as competence grows.
 
 ### Unanswered questions
@@ -89,8 +91,6 @@ This aligns with [[intelligent-tutoring|AI Tutoring]] research showing that tuto
 ### Connections to related concepts
 
 Transfer of learning connects to [[metacognition]] (self-monitoring of understanding), Cognitive Load Theory (germane vs extraneous load), [[desirable-difficulties]] (productive struggle), [[scaffolding]] (fading support), [[cognitive-offloading|Over-Reliance]] (tool dependence), and [[sociocultural-learning]] (general-purpose AI operates outside the ZPD by completing work for students). It is the bridge between assisted performance and genuine learning — the distinction between [[stanford-evidence-base-ai-k12-2026]] and the central question for [[intelligent-tutoring|AI Tutoring]] effectiveness.
-
-- In a 36-participant comparison, learners assisted by a desk robot held their score at 7.0/10 once help was withdrawn while ChatGPT-assisted learners fell to 4.4/10, a 60% higher short-term transfer score [[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]].
 
 ## Connected Concepts
 

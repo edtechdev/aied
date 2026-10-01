@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-01T09:59:02-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 pedagogy: [scaffolding]
@@ -121,7 +121,7 @@ This relational-intensity framing is the "not a monolith" counterpoint to the fi
 
 **Start from open tooling where possible.** Open-source agentic tutoring frameworks (e.g. [[deeptutor]]) lower the barrier to a citation-grounded, difficulty-calibrated tutor you can inspect and extend.([[deeptutor]])
 
-Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhang et al. (2026)]] evaluate whether LM tutors adapt to learners' evolving understanding at teacher-annotated decision points. They find frontier models default toward over-helpfulness and rarely push for rigor, and that evaluation-aware prompting improves but does not fully solve adaptivity. A systematic view of the RL-driven branch of this adaptation comes from [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]], whose review of 89 RL-in-education studies finds classical RL policies more consistently effective than Deep RL and RL adaptation delivering significant gains more often for guidance-related tasks (hints, [[feedback]]) than for content scheduling — evidence that how an ITS adapts scaffolding matters as much as which algorithm it uses.
+Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhang et al. (2026)]] evaluate whether LM tutors adapt to learners' evolving understanding at teacher-annotated decision points. They find frontier models default toward over-helpfulness and rarely push for rigor, and that evaluation-aware prompting improves but does not fully solve adaptivity. Each additional impasse turn lowered next-turn recovery odds by 12.7%, and questioning lost value with depth (scripted question × depth AOR = 0.78) while addressing the student's error grew more beneficial (AOR = 1.14) — a tutor's escalation, not just its answer-withholding, must change as an impasse persists ([[guided-ai-tutor-impasse-resolution-2026|Ahtisham et al. (2026)]]). A systematic view of the RL-driven branch of this adaptation comes from [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]], whose review of 89 RL-in-education studies finds classical RL policies more consistently effective than Deep RL and RL adaptation delivering significant gains more often for guidance-related tasks (hints, [[feedback]]) than for content scheduling — evidence that how an ITS adapts scaffolding matters as much as which algorithm it uses.
 - **Adapting the type of cognitive engagement, not just the intensity.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] held difficulty constant and varied the worked-example form — guided (active) or buggy (constructive) — via a BKT rule and a deep-RL policy, both beating random assignment (posttest 72.3 and 72.5 vs 65.7).
 
 - **[[deceptive-overgeneralization-adaptive-learning-2026|Deceptive overgeneralization (An et al. 2026)]]** shows ITS mastery stopping rules (BKT, 95% threshold) can end practice before learners learn *when to withhold* a skill: learners who overgeneralized misapplied actions on first "do-not-act" items at 61.5%–100%, and targeted refrain-practice with constraint-naming [[feedback]] reduced this to near-floor. Correctness-based mastery inference is necessary but not sufficient for ITS adaptivity.
@@ -186,3 +186,4 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — A multi-discipline RCT of a course-grounded, LMS-embedded AI tutor: final grades down 0.37 SDs in the exact-match sample, platform participation down 0.90 SDs, with no instructional integration (Liu et al. 2026)
+- [[guided-ai-tutor-impasse-resolution-2026]] — Variation in how guided AI tutors resolve student impasses, and why escalation must change with depth
