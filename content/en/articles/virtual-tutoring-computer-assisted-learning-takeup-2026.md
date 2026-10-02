@@ -1,7 +1,7 @@
 ---
 title: "Virtual Tutoring with Computer-Assisted Learning: An Experiment in Take-Up and Learning"
 created: "2026-08-17T17:55:00-04:00"
-updated: "2026-09-19T09:38:08-04:00"
+updated: "2026-10-01T20:36:14-04:00"
 type: article
 pedagogy: [help-seeking, student-engagement]
 technology: [adaptive-learning, human-in-the-loop-ai, intelligent-tutoring, edtech-platform]
@@ -15,7 +15,7 @@ audience: [administrators, policymakers, instructional designers]
 sources: [raw/papers/virtual-tutoring-computer-assisted-learning-takeup-2026.md]
 ---
 
-> **Synthesis:** **TWiK (Tutoring With Khan Academy)** — a low-cost online after-school tutoring layer in which one-on-one human virtual tutors supervise struggling Grade 4–8 students working through the Khan Academy practice their teacher already assigned. A two-year [[rct|randomized trial]] with the Toronto District School Board finds the binding constraint is **take-up and sustained participation**, not tutor quality: only 45% of assigned students reached a first session in Year 1, but collapsing enrollment to a single step raised first-session take-up to 83% in Year 2 — while weekly attendance stayed near 40% because students attended intermittently rather than dropping out. The offer raised practice by ~10 minutes a week and produced small, imprecise gains (ITT 0.055 SD on math assessment; ~0.08 SD on report-card marks) plus improved math attitudes, effects that grew with take-up. The core lesson for [[intelligent-tutoring|AI tutoring]] and [[edtech-platform|computer-assisted learning]] alike: the platform supplies content, but someone must get the student to practice regularly.
+> **Synthesis:** **TWiK (Tutoring With Khan Academy)** — a low-cost online after-school tutoring layer in which one-on-one human virtual tutors supervise struggling Grade 4–8 students working through the Khan Academy practice their teacher already assigned. A two-year [[rct|randomized trial]] with the Toronto District School Board finds the binding constraint is **[[student-support-and-success|take-up]] and sustained participation**, not tutor quality: only 45% of assigned students reached a first session in Year 1, but collapsing enrollment to a single step raised first-session take-up to 83% in Year 2 — while weekly attendance stayed near 40% because students attended intermittently rather than dropping out. The offer raised practice by ~10 minutes a week and produced small, imprecise gains (ITT 0.055 SD on math assessment; ~0.08 SD on report-card marks) plus improved math attitudes, effects that grew with take-up. The core lesson for [[intelligent-tutoring|AI tutoring]] and [[edtech-platform|computer-assisted learning]] alike: the platform supplies content, but someone must get the student to practice regularly.
 
 ## Key Findings
 

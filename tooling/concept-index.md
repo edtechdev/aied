@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 218
+**Total concepts:** 219
 
 ## Foundations of AI in education
 
@@ -107,6 +107,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`student-ai-interaction`** — Student-AI Interaction — phrases: ai interaction; interactions with AI; learner-AI interaction; student ai interaction; student AI use; student prompting; student questions to AI; student-AI dialogue; student-ai interaction
 - **`student-engagement`** — Student Engagement — phrases: behavioral engagement; behavioural engagement; engagement; engagement indicators; engagement measurement; engagement metrics; learner engagement; student engagement
 - **`student-experience`** — Student Experience — phrases: learner experience; student accountability; student experience; student experiences; student voice
+- **`student-support-and-success`** — Student Support and Success — phrases: academic advising; academic support; student persistence; student retention; student services; student success; student success services; student support; student support and success; support services
 - **`well-being`** — Well-Being — phrases: mental health; student wellbeing; well being; well-being; wellbeing
 
 ### Lifelong and professional learning
@@ -147,7 +148,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`human-in-the-loop-ai`** — Human-in-the-Loop — phrases: HITL; human in the loop; human judgment; human judgement; human moderation; human oversight; human review; human-in-the-loop; human-in-the-loop AI
 - **`intelligent-tutoring`** — Intelligent Tutoring — phrases: AI tutoring; ITS; adaptive tutor; ai tutor; ai tutors; intelligent tutoring; intelligent tutoring system; intelligent tutoring systems; tutoring system; tutoring systems; tutors
 - **`knowledge-tracing`** — Knowledge Tracing — phrases: bayesian knowledge tracing; knowledge modeling; knowledge modelling; knowledge tracing; student knowledge modeling; student knowledge modelling
-- **`learning-analytics`** — Learning Analytics — phrases: analytics; educational data mining; learning analytics
+- **`learning-analytics`** — Learning Analytics — phrases: academic risk prediction; analytics; early warning; early warning system; educational data mining; learning analytics; predictive analytics; predictive learning analytics
 - **`pedagogical-agent`** — Pedagogical Agent — phrases: animated pedagogical agent; learning agent; learning companion; learning partner; pedagogical agent; tutor agent; virtual agent
 - **`personalized-learning`** — Personalized Learning — phrases: adaptive learning path; individualized learning; personalisation; personalised learning; personalization; personalized learning
 - **`recommender-systems-and-learning-paths`** — Recommender Systems and Learning Paths — phrases: course sequencing; curriculum sequencing; learning path; learning paths; learning pathways; prerequisite relations; recommendation engine; recommender system; recommender systems

@@ -1,7 +1,7 @@
 ---
 title: Career Development and Readiness
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-09-30T12:20:22-04:00"
+updated: "2026-10-01T20:35:10-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
@@ -55,6 +55,7 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[higher-ed]]
 - [[student-experience]]
 - [[well-being]]
+- [[student-support-and-success]] — the outcomes that follow completion: persistence, retention, and graduation
 
 ## Connected Articles
 - [[mccorkle-aligned-genai-course-policy-2025]] — Assessment-vs-workforce-competency trade-offs decided task by task (McCorkle 2025)

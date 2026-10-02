@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-01T20:35:10-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -70,6 +70,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[pedagogical-safety]]
 - [[legal-issues-and-risks]]
 - [[student-experience]]
+- [[student-support-and-success]] — student records, cross-office data sharing, and federated risk modeling
 
 ## Connected Articles
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)

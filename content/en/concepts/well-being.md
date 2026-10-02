@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-30T14:23:52-04:00"
+updated: "2026-10-01T20:35:10-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -83,6 +83,7 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[self-regulated-learning]]
 - [[teacher-ai-competency]]
 - [[higher-ed]]
+- [[student-support-and-success]] — campus support services spanning advising, outreach, and referral
 
 ## Connected Articles
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Friction, meaning, and loneliness as a biological signal

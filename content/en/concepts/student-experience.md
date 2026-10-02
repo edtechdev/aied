@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-01T20:35:10-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -80,6 +80,8 @@ Verification can shift how students experience the question: a request to explai
 
 **Overall:** the same AI tool can support or undermine students depending on design and use. The guardrail throughout is to keep the learner doing the cognitively important work while using AI for support ([[scaffolding|scaffold, do not substitute]]), and to attend to the full range of impacts — not just performance. One configuration shifts where the experience begins: when AI generates the course readings themselves rather than helping with homework, students become auditors of their own [[curriculum-design|curriculum]]. In [[sidorkin-ai-generated-course-readings-2026|Sidorkin's (2026)]] graduate course, students valued the contextual specificity and adjustability of the generated texts and 75 percent agreed they learned more than in a comparable course without an AI companion, yet they had to infer source quality from context because Wikipedia links and peer-reviewed citations appeared in the same lists without labels, and four of 24 survey respondents used dependence language, including one describing themselves as "somewhat codependent on the AI for reassurance and structure."
 
+The longest-run outcomes a student experiences — whether they return next term, accumulate credits, and graduate — are institutional rather than instructional, and [[student-support-and-success]] tracks how AI support affects them: task completion moves readily, persistence and graduation far less so.
+
 ## Connections
 
 Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes cognitive work), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior). It is the learner-facing member of the [[stakeholders]] umbrella, and the home for summarizing all the ways AI impacts students.
@@ -109,6 +111,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[self-report-measures]]
 - [[student-engagement]] — how AI systems measure and respond to student behavior
 - [[social-norms-ai-use]] — how AI use becomes visible to peers
+- [[student-support-and-success]] — the institutional side of support: what the university does to students, not what happens in a course
 
 ## Connected Articles
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use

@@ -1,7 +1,7 @@
 ---
 title: Jointly Predicting Courses and Grades Using a Transformer-Based Model (TRACE)
 created: "2026-08-14T09:17:22-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-10-01T20:35:19-04:00"
 type: article
 technology: [knowledge-tracing, learning-analytics, machine-learning, personalized-learning, student-modeling]
 assessment: [educational-measurement]
@@ -46,7 +46,7 @@ TRACE offers interpretable models that adapt to new institutions via retraining 
 
 ## Early Alert Systems
 
-These results point toward a new class of advising tools that move beyond simple risk-flagging to data-driven insight into how specific course combinations affect student success. An early-warning system could run continuously as grade data updates each semester and feed results into student advising. TRACE's grade-prediction MAE of 0.0392 on a [0, 1] GPA scale — about 0.1568 on a typical [0, 4] scale, roughly half the difference between adjacent +/- grades such as B vs B+ — is accurate enough to serve a meaningful purpose in an [[ai-ed-evaluation|early-alert]] context. While such models do not replace human insight, they can alert faculty and support staff to emerging problems, supporting early intervention and [[feedback|nudging]] rather than the manual instructor alerts many institutions still rely on.
+These results point toward a new class of advising tools that move beyond simple risk-flagging to data-driven insight into how specific course combinations affect [[student-support-and-success|student success]]. An early-warning system could run continuously as grade data updates each semester and feed results into student advising. TRACE's grade-prediction MAE of 0.0392 on a [0, 1] GPA scale — about 0.1568 on a typical [0, 4] scale, roughly half the difference between adjacent +/- grades such as B vs B+ — is accurate enough to serve a meaningful purpose in an [[ai-ed-evaluation|early-alert]] context. While such models do not replace human insight, they can alert faculty and support staff to emerging problems, supporting early intervention and [[feedback|nudging]] rather than the manual instructor alerts many institutions still rely on.
 
 ## What this means for practice
 

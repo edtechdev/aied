@@ -1,7 +1,7 @@
 ---
 title: "Sustaining AI-enabled student support: A four-year implementation and impact study"
 created: "2026-09-27T22:30:00-04:00"
-updated: "2026-09-27T22:30:00-04:00"
+updated: "2026-10-01T20:36:14-04:00"
 type: article
 sources: ['raw/papers/mata-sustaining-ai-enabled-student-support-2026.md']
 confidence: high
@@ -26,7 +26,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Mata, Russell, and Page study CSUNny, a non-generative [[conversational-ai]] text-messaging chatbot at California State University, Northridge, a large urban public university. This is a working paper from the Annenberg Institute at Brown University (EdWorkingPaper No. 26-1409), not a peer-reviewed article. The design pairs system observation and discussions with administrators against a four-year [[rct]] that followed two undergraduate cohorts (N = 8,708) through eight semesters — an example of [[mixed-methods-research]] in [[ai-education]]. The study asks what it takes for an institution to sustain centralized chatbot communication, how receptive students remain over time, and what impact the tool has on outcomes across college. The verdict splits: impacts concentrate in completion of time-sensitive administrative tasks such as early course registration, while academic performance and persistence show no detectable effects.
+> **Synthesis:** Mata, Russell, and Page study CSUNny, a non-generative [[conversational-ai]] text-messaging chatbot at California State University, Northridge, a large urban public university. This is a working paper from the Annenberg Institute at Brown University (EdWorkingPaper No. 26-1409), not a peer-reviewed article. The design pairs system observation and discussions with administrators against a four-year [[rct]] that followed two undergraduate cohorts (N = 8,708) through eight semesters — an example of [[mixed-methods-research]] in [[ai-education]]. The study asks what it takes for an institution to sustain centralized chatbot communication, how receptive students remain over time, and what impact the tool has on outcomes across college. The verdict splits: impacts concentrate in [[student-support-and-success|completion of time-sensitive administrative tasks]] such as early course registration, while academic performance and persistence show no detectable effects.
 
 ## Key Findings
 

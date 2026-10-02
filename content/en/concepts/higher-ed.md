@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-01T20:35:10-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -39,6 +39,8 @@ AI deployment outside the classroom has become a consumer-protection question, a
 ### Student experience at scale
 
 Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [[genai-availability-grades-satisfaction|GenAI availability and satisfaction]] document how students actually use AI — revealing gaps between institutional policy and everyday practice. [[genai-student-experiences-uk-he-survey-2026|Survey research]] captures how students navigate the AI landscape, and studies of [[generative-ai-reduced-study-time-math|study time]], [[ithaka-sr-ai-skills-college-graduates-2026|AI skills for graduates]], and [[student-perceptions-ai-study-productivity-2026|student perceptions of AI tools]] show that the student experience of AI is mixed — efficient but often shallower. Much of this university learning now happens online, where [[online-teaching-and-learning|online teaching and learning]] shapes both AI's benefits (scalable personalization, always-on support) and its risks ([[academic-integrity|academic integrity]], [[cognitive-offloading|cognitive offloading]]) for college students. An exploratory ML approach using SHAP analysis examined how students' perceptions and demographics relate to intended academic ChatGPT use, prioritizing [[explainable-ai|interpretability]] ([[determinants-chatgpt-use-higher-education-2026]]). In art and [[design-education|design education]], where generative AI challenges the value of human [[creativity]], a [[project-based-learning|project-based learning]] model with [[storytelling-in-education|digital storytelling]] at its core cultivated the emotional, cultural, and narrative capacities AI lacks — evaluated through a 15-week embedded case study with 426 Chinese undergraduates who translated local cultural heritage into [[multimodal]] narratives ([[project-based-digital-storytelling-art-design-2026]]). Assistive and inclusive uses of GenAI are also reshaping the student experience for [[special-education|disabled learners]]: [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] — a [[qualitative-research|qualitative]] case study of 21 visually impaired undergraduates across three Palestinian universities — found GenAI tailors pace, content, and delivery to individual profiles, simplifies complex texts, and converts content across modalities, giving learners a sense of [[agency|autonomy]] and confidence in class participation while being viewed as complementing rather than replacing teachers.
+
+Beyond the classroom, AI reaches students through the institution itself — advising, outreach, referral, and the allocation of scarce support — which [[student-support-and-success|student support and success]] gathers as its own body of evidence. Its central caution about scale comes from a four-year randomized evaluation (N = 8,708) in which registration nudges moved a deadline by 34 percentage points while graduation, credits, and GPA did not move at all.
 
 ### Graduate and professional education
 
@@ -85,6 +87,8 @@ Professional-degree programs hold most of the graduate-level evidence, and it is
 - [[teacher-role]] — Evolving teacher role in AI classrooms
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 - [[arts-design-and-media-education]]
+- [[student-support-and-success]] — advising, outreach, referral, and support allocation — the institutional side of student success
+
 ## Connected Articles
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI Faculty Readiness Framework
 - [[ai-in-the-wild-college]] — AI in the Wild: College Student AI Use

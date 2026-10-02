@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence in educational leadership: a comprehensive taxonomy and future directions"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-09-19T09:24:40-04:00"
+updated: "2026-10-01T20:35:19-04:00"
 type: article
 foundations: [ai-education, ai-literacy, educational-development, human-ai-collaboration]
 ethics: [ethics, trust]
@@ -14,7 +14,7 @@ page_kind: [framework]
 institutions: [change-management, educational-policy-ai, governance]
 ---
 
-> **Synthesis:** Sposato (2025) develops a ten-domain taxonomy of AI applications specifically tailored to educational leadership, filling a gap between AI research and how institutional leaders understand, evaluate, and implement AI. Built from a systematic [[meta-analysis-systematic-review|literature review]] and inductive analysis of 314 publications (2017–2024), the taxonomy spans Administrative Efficiency, Personalized Learning, Enhancing [[pedagogy|Teaching Practices]], Decision-Making and Policy Formulation, Student Support Services, Organizational Leadership and Strategic Planning, Governance and Compliance, Community [[student-engagement|Engagement]] and Communication, Ethical AI Leadership, and Diversity, Equity, and [[inclusive-learning|Inclusion]]. The framework gives leaders a common language for strategic AI integration while foregrounding ethical and [[equity-in-ai-education|equity]] concerns. It is primarily a conceptual/organizing contribution rather than an empirical test of outcomes.
+> **Synthesis:** Sposato (2025) develops a ten-domain taxonomy of AI applications specifically tailored to educational leadership, filling a gap between AI research and how institutional leaders understand, evaluate, and implement AI. Built from a systematic [[meta-analysis-systematic-review|literature review]] and inductive analysis of 314 publications (2017–2024), the taxonomy spans Administrative Efficiency, Personalized Learning, Enhancing [[pedagogy|Teaching Practices]], Decision-Making and Policy Formulation, [[student-support-and-success|Student Support Services]], Organizational Leadership and Strategic Planning, Governance and Compliance, Community [[student-engagement|Engagement]] and Communication, Ethical AI Leadership, and Diversity, Equity, and [[inclusive-learning|Inclusion]]. The framework gives leaders a common language for strategic AI integration while foregrounding ethical and [[equity-in-ai-education|equity]] concerns. It is primarily a conceptual/organizing contribution rather than an empirical test of outcomes.
 
 ## Core Finding
 

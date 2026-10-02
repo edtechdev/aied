@@ -1,7 +1,7 @@
 ---
 title: Administrators
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-01T20:35:10-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -60,6 +60,7 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 - [[educational-development]]
 - [[teacher-role]]
 - [[ai-literacy]]
+- [[student-support-and-success]] — the institutional processes administrators run: advising, outreach, referral, and allocation
 
 ## Connected Articles
 - [[sposato-ai-educational-leadership-taxonomy-2025]] — AI in educational leadership: comprehensive taxonomy

@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-01T20:35:10-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -113,6 +113,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[trust-calibration]]
 - [[generative-ai]]
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
+- [[student-support-and-success]] — oversight for institutional AI support systems
 
 ## Connected Articles
 - [[ai-literacy-sdg-governance-framework-2026]] — AI literacy as a governance capacity for sustainable development: the AIRE Taxonomy and AI–SDG Nexus (Islam, Morshed & Islam 2026)

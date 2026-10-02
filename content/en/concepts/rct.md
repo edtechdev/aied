@@ -1,7 +1,7 @@
 ---
 title: RCT
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-10-01T20:35:10-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -57,6 +57,7 @@ For the fuller treatment of experimental design in AI in education — including
 - [[generative-ai]]
 - [[higher-ed]]
 - [[ai-education]]
+- [[student-support-and-success]] — the design behind the strongest student-support evidence
 
 ## Connected Articles
 

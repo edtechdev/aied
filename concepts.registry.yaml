@@ -1010,9 +1010,14 @@ concepts:
   learning-analytics:
     title: Learning Analytics
     aliases:
+    - academic risk prediction
     - analytics
+    - early warning
+    - early warning system
     - educational data mining
     - learning analytics
+    - predictive analytics
+    - predictive learning analytics
   learning-by-teaching:
     title: Learning by Teaching
     aliases:
@@ -1869,6 +1874,19 @@ concepts:
     - student model
     - student modeling
     - student modelling
+  student-support-and-success:
+    title: Student Support and Success
+    aliases:
+    - academic advising
+    - academic support
+    - student persistence
+    - student retention
+    - student services
+    - student success
+    - student success services
+    - student support
+    - student support and success
+    - support services
   summative-assessment:
     title: Summative Assessment
     aliases:
@@ -2169,6 +2187,7 @@ sections:
     - mastery-learning
     - anxiety-and-stress
     - student-experience
+    - student-support-and-success
     - social-norms-ai-use
   - label: Lifelong and professional learning
     items:
