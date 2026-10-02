@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-02T12:40:11-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -35,6 +35,8 @@ The taxonomies themselves do not yet agree: across 46 categorizations from 33 st
 
 Complementing these taxonomy studies, [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] characterize the *dialogue form* of student inquiries. Among 38 [[higher-ed|undergraduates]] completing unsupervised argumentative essays, 76.32% used a single-turn ask–get-answer–stop pattern — typically pasting the assessment title without specifying their needs and resubmitting identical prompts when dissatisfied — and 78.94% touched [[generative-ai|GenAI]] only at the start (ideas, background) or end (polishing, length) of a task, keeping it separate from reading and independent [[writing-education|writing]]; only 23.68% sustained iterative back-and-forth dialogue with follow-up questions and their own reasoning. The authors place these patterns on a spectrum from **cognitive outsourcing** to **cognitive reallocation** — the GenAI-era analogue of surface versus [[metacognition|deep approaches]] to learning — noting that most students conceived the tool as an upgraded search engine, which constrained them to the outsourcing end.
 Reframing these patterns as epistemic work, an analysis of 200 co-programming chat sessions found 78.8% of student–GenAI interactions ran on non-mastery aims and strategies such as outsourcing or verification-seeking, and only 11.1% coupled mastery-oriented aims with epistemic justification ([[constructing-epistemic-ai-literacy-student-ai-co-programming|Wu (2026)]]).
+
+Coding 50 sampled exchanges gives a three-way typology of the same behavior: [[three-pathways-student-ai-interaction-2026|Zahra (2026)]] classified 46% as Passive Review, where the model acts as an oracle and output is accepted with little scrutiny, 18% as Direct Question, and 36% as Strategic Dialogue, pairing the distribution with a constraint-first design argument (kappa = .48 between coders). A seven-assignment survey of 211 computing students reaches the same conclusion from the other direction: [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]] measured LLM adoption from 89.6% in algorithms to 15.2% in software engineering and attributed the spread to assignment complexity, verifiability and scaffolding rather than to the subfield.
 
 ### Interaction quality and learning
 
@@ -98,3 +100,4 @@ Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-
 - [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
 - [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
 - [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
+- [[three-pathways-student-ai-interaction-2026]] — Three Pathways typology of student-AI interaction: 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue

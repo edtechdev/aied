@@ -1,7 +1,7 @@
 ---
 title: "Design Education"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-09-17T14:04:29-04:00"
+updated: "2026-10-02T12:40:11-04:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -49,6 +49,8 @@ It is also distinct from [[design-thinking]], a human-centered problem-solving m
 
 - **Students negotiate the tools rather than simply accept them.** [[t2i-competence-paradox-2026|Liu, Meng & Zhang (2026)]] surveyed 417 art and design students: performance expectancy, social influence, novelty value and creative competence predicted intention to use text-to-image tools, while effort expectancy predicted negatively, read as shortcut-oriented coursework use. Their competence paradox is that creative competence supports intention yet predicts more selective use as students weigh authorship and skill preservation — an [[assessment-validity]] problem in a studio where process is the assessed object. [[rana-genai-design-thinking-2025|Rana et al. (2025)]] reached a compatible conclusion from 112 reflections in a 12-week [[design-thinking]] course: benefits dominated (86% positive sentiment), ethical concerns drove 62% negative sentiment, and scaffolded integration moved students from skepticism to 72% positive orientation.
 
+- **AI critique can be bound to the artifact rather than the prompt.** [[critsly-design-education-ai-critique-2026|Kadir (2026)]] routes studio feedback through a shared board of designs, notes and pins and five bounded activities; the study reports simulated readiness (78% of 109 labels at Analyzing or above), not learning gains.
+
 ## Professional formation and regulation
 
 Assessment problems here are inseparable from professional ones. [[ai-interior-design-malaysia-2026|Syed Abdul Rahman (2026)]] describes Malaysian interior designers shifting from primary form-generators toward critical mediators and curators of machine output, with [[visualization]] platforms compressing timelines while generated schemes still lack cultural specificity, climatic responsiveness and reliable constructability. Its curriculum recommendation is sequencing rather than substitution — CAD/BIM, construction knowledge and human factors before generative exploration, and criteria rewarding [[critical-thinking]] and ethical reflection. The professional side is unresolved: interior design regulation is less formalized than architecture's, leaving open questions of disclosure, accountability for algorithmic error, and deskilling among early-career practitioners. The analysis is document-based and single-country.
@@ -89,3 +91,4 @@ Assessment problems here are inseparable from professional ones. [[ai-interior-d
 - [[same-ai-different-pathways]]
 - [[yasar-llms-iterative-pedagogical-design-2026]]
 - [[rana-genai-design-thinking-2025]]
+- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: artifact-aware AI critique workspace for studio feedback; simulation-based readiness study, not learning gains

@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-02T12:40:11-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -59,6 +59,8 @@ A reusable four-element prompt — tools, display, hand controls, optimization �
 **Agent role design as an instructional variable.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] hold the model (DeepSeek R1), platform, and temperature constant and vary only the prompt-specified role: a teacher-centered agent answering authoritatively from a bounded textbook knowledge source, versus a student-centered agent configured as an empathic teacher with knowledge of students' understanding, scripted to diagnose the cause of [[misconceptions]], name the relevant concept, and transfer to an analogous phenomenon. Across 59 high-school graduates working two conceptual items, the student-centered agent produced higher post-test scores (9.67 vs. 7.93; r = 0.38), lower extraneous and higher germane cognitive load, stronger flow experience (d = 0.92), and higher empathy perception (r = 0.53) — evidence that role framing, not just answer accuracy, is what makes a physics agent instructionally effective ([[pedagogical-agent]], [[prompt-engineering]]).
 - **Benchmark scores understate what models can already do in physics.** Re-grading six widely used physics benchmarks with domain experts found that most of the reported shortfall was an artifact of defective items and restrictive automated graders: of 250 audited rejections, 143 (57.20%) were benchmark defects and 95 (38.00%) grader errors, with only 12 (4.80%) genuine model errors. Corrected, HLE-Physics mean@4 rose from 47.28% to 78.66% and CritPt from 32.29% to 87.50%. For physics instruction this cuts both ways: it means students can already obtain expert-level text solutions to many canonical problems, so assessment of physics reasoning needs to move toward items that resist benchmark contamination and toward process evidence rather than final answers. ([[frontier-models-physics-benchmark-audit-2026]])
 - **AI grading can reproduce a high-stakes physics outcome without matching every part.** Grading 10,364 handwritten Olympiad and university pages, a multimodal LLM recovered the same five-student Olympiad team as examiners and correlated with totals at r = 0.93–0.96, but exact question-part agreement reached 70% — examiner-controlled second reading, not replacement ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
+
+- **Physics benchmarks can be curriculum-grounded and non-English.** [[physicsmate-bengali-secondary-physics-benchmark-2026|Jahin et al. (2026)]] built 1,834 Bengali questions from the national Grade 9-10 physics textbook and a 1,760-node knowledge graph; one fixed fine-tuning recipe gained 5.5, 15.0 and 23.3 points at 0.6B, 1.7B and 4B parameters.
 
 ### Connections to related concepts
 
@@ -124,3 +126,4 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[physics-students-llm-perceptions-instruction-2026]] — Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction
 - [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
 - [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
+- [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1,834 Bengali secondary-physics QA pairs mapped to a 1,760-node curriculum graph, with small-model adaptation gains
