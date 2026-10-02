@@ -411,6 +411,7 @@ def process_md(path, slug, hlevel):
     # shifted duplicate heading splits the page into two EPUB chapters and
     # duplicates it in the TOC. (Bodies may start with a blank line before the H1.)
     lines = body.split('\n')
+    skipped_note = False
     for idx, ln in enumerate(lines):
         m = re.match(r'^#\s+(.*)$', ln)
         if m is not None:
@@ -418,8 +419,17 @@ def process_md(path, slug, hlevel):
             if h1.lower() == title.lower() or title.lower() in h1.lower():
                 del lines[idx]
             break
-        if ln.strip():
-            break  # first non-blank line is not an H1
+        if not ln.strip():
+            continue  # blank line before the H1: keep looking
+        # A TRANSLATED body opens with the machine-translation note, an
+        # emphasis-only line, before its title H1. Skip that one line and keep
+        # looking, or the H1 survives, is shifted to a chapter heading, and the
+        # page is listed twice in the EPUB/PDF table of contents. Verified
+        # 2026-10-02: every Spanish FAQ was duplicated in the ES nav.
+        if not skipped_note and re.match(r'^\*[^*].*\*$', ln.strip()):
+            skipped_note = True
+            continue
+        break  # first real content line is not an H1
     body = shift_headings('\n'.join(lines), hlevel - 1)
     return title, body
 

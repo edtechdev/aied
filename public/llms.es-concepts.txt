@@ -34,7 +34,7 @@ La cobertura de conceptos de la base de conocimiento se articula en torno a vari
 - **[[ai-literacy|Alfabetización en IA]]**: la página general sobre comprender, usar y evaluar críticamente la IA, que abarca la [[prompt-engineering|ingeniería de prompts]], el [[critical-thinking|pensamiento crítico]], la [[ethics|ética de la IA]] y el [[reducing-ai-misuse|uso responsable]]. Junto a ella, la [[human-ai-collaboration|colaboración entre personas y IA]] y la [[agentic-ai|IA agéntica]] enmarcan cómo trabajan juntas las personas y la IA.
 - **[[pedagogy|Pedagogías y estrategias de enseñanza]]**: la página general sobre cómo se enseña, es decir, los métodos y las estrategias didácticas en los que opera la IA ([[active-learning|aprendizaje activo]], [[collaborative-learning|aprendizaje colaborativo]], [[project-based-learning|aprendizaje basado en proyectos]], [[problem-based-learning|aprendizaje basado en problemas]], [[experiential-learning|aprendizaje experiencial]], [[game-based-learning|aprendizaje basado en juegos]], [[socratic-method|método socrático]], [[scaffolding|andamiaje]] y muchos más), incluido el contexto diferenciado de la [[online-teaching-and-learning|enseñanza y el aprendizaje en línea]].
 - **[[learning-theories|Teorías del aprendizaje]]**: la página general sobre cómo se aprende, es decir, los marcos teóricos ([[behaviorism|conductismo]], [[cognitive-psychology|cognitivismo]], [[constructivist|constructivismo]], [[sociocultural-learning|sociocultural]], cognitivo, [[motivation|motivacional]]) que dan forma al diseño y a la evaluación de la IA.
-- **[[ai-technologies|Tecnologías]]**: la página general de la capa técnica, es decir, los sistemas de IA ([[llm|LLM]], [[generative-ai|IA generativa]], [[multimodal|multimodal]], [[educational-robotics|robótica]]) y las técnicas ([[rag|RAG]], [[prompt-engineering|ingeniería de prompts]], [[reinforcement-learning|aprendizaje por refuerzo]], [[pedagogical-llm-training|entrenamiento de modelos]], [[agentic-ai|orquestación agéntica]]) que impulsan la AIED. La familia del modelado de quien aprende ([[knowledge-tracing|seguimiento del conocimiento]], [[cognitive-diagnosis|diagnóstico cognitivo]], [[simulating-students|simulación del estudiantado]] y los sistemas que los aprovechan: [[intelligent-tutoring|tutoría inteligente]], [[adaptive-learning|aprendizaje adaptativo]] y [[personalized-learning|aprendizaje personalizado]]) se agrupa bajo la página general de [[student-modeling|modelado del estudiantado e instrucción adaptativa]], dentro de esta línea técnica.
+- **[[ai-technologies|Tecnologías]]**: la página general de la capa técnica, es decir, los sistemas de IA ([[llm|LLM]], [[generative-ai|IA generativa]], [[multimodal|multimodal]], [[educational-robotics|robótica]]) y las técnicas ([[rag|RAG]], [[prompt-engineering|ingeniería de prompts]], [[reinforcement-learning|aprendizaje por refuerzo]], [[llm-training-and-fine-tuning|entrenamiento de modelos]], [[agentic-ai|orquestación agéntica]]) que impulsan la AIED. La familia del modelado de quien aprende ([[knowledge-tracing|seguimiento del conocimiento]], [[cognitive-diagnosis|diagnóstico cognitivo]], [[simulating-students|simulación del estudiantado]] y los sistemas que los aprovechan: [[intelligent-tutoring|tutoría inteligente]], [[adaptive-learning|aprendizaje adaptativo]] y [[personalized-learning|aprendizaje personalizado]]) se agrupa bajo la página general de [[student-modeling|modelado del estudiantado e instrucción adaptativa]], dentro de esta línea técnica.
 - **[[discipline-specific-aied|La IA en las disciplinas]]**: la página general sobre cómo se aplica la IA en distintas áreas de conocimiento ([[math-education|matemáticas]], [[physics-education|física]], [[language-learning|aprendizaje de idiomas]], [[cs-education|informática]], [[writing-education|escritura]], [[stem-education|STEM]], [[engineering-education|ingeniería]], [[business-education|empresa]], [[teacher-education|formación del profesorado]], [[medical-education|profesiones de la salud]] y más), además de, más allá de las materias académicas, la línea profesional y aplicada que evalúa la práctica demostrada y no solo la corrección ([[nursing-education|enfermería]], [[information-technology|tecnología de la información]], [[vocational-education|formación profesional y vocacional]], [[design-education|educación en diseño]]) y los niveles educativos ([[k-12|K-12]], [[higher-ed|educación superior]], [[adult-learning|aprendizaje de personas adultas]]).
 - **[[assessment|Evaluación]]** (con las líneas [[formative-assessment|formativa]], [[summative-assessment|sumativa]], [[authentic-assessment|auténtica]], [[oral-assessment|oral]] y [[automated-assessment|automatizada]]): la página general sobre cómo la IA evalúa a quien aprende y a la vez transforma la validez y la integridad de la evaluación.
 - **[[feedback|Retroalimentación]]**: la página general sobre cómo se genera, se entrega y se usa la retroalimentación: el bucle de retroalimentación, la [[ai-feedback-quality|calidad de la retroalimentación con IA]], la [[feedback-literacy|alfabetización en retroalimentación]] y sus contextos de evaluación ([[formative-assessment|formativa]], [[peer-assessment|entre pares]], [[automated-assessment|automatizada]]).
@@ -69,7 +69,7 @@ Cómo apoya la IA la enseñanza y el aprendizaje es el corazón del campo. Entre
 
 La página de [[ai-technologies|Tecnologías]] es la página general de la capa técnica:
 
-- **Modelos y técnicas:** [[generative-ai|IA generativa]], [[llm|grandes modelos de lenguaje]], [[rag|generación aumentada por recuperación]], [[multimodal|modelos multimodales]], [[educational-nlp|PLN educativo]], [[reinforcement-learning|aprendizaje por refuerzo]], [[knowledge-graph|grafos de conocimiento]], [[educational-robotics|robots en la educación]], [[conversational-ai|IA conversacional]], [[simulation|simulación]] y [[pedagogical-llm-training|entrenamiento de LLM pedagógicos]]. Los métodos subyacentes también importan: el [[machine-learning|aprendizaje automático]] es donde se construyen estos sistemas, las [[speech-and-voice-technologies|tecnologías de habla y voz]] sostienen la tutoría oral y la práctica de idiomas, la [[visualization|visualización]] cubre los cuadros de mando y la analítica visual para el estudiantado y el profesorado, y la [[virtual-and-augmented-reality|realidad virtual y aumentada]] alberga prácticas inmersivas cuya capa visual el modelo ya puede generar. Aquí también tienen cabida estilos de interacción más recientes, y sobre todo el [[vibe-coding|vibe coding]], el flujo de trabajo guiado por lenguaje natural en el que la persona describe un programa pidiéndoselo a un LLM y juzga el comportamiento resultante en lugar de leer o editar el código fuente, lo que replantea la [[cs-education|programación]] como un acto de expresión y verificación y rebaja la barrera para que el [[teacher-role|usuario final]] construya sus propias herramientas. Los marcos de profundidad de integración como [[samr-model|SAMR]] y las teorías de adopción como el [[technology-acceptance-model|TAM]] clasifican hasta qué punto se adopta la IA y cuánto transforma la tarea.
+- **Modelos y técnicas:** [[generative-ai|IA generativa]], [[llm|grandes modelos de lenguaje]], [[rag|generación aumentada por recuperación]], [[multimodal|modelos multimodales]], [[educational-nlp|PLN educativo]], [[reinforcement-learning|aprendizaje por refuerzo]], [[knowledge-graph|grafos de conocimiento]], [[educational-robotics|robots en la educación]], [[conversational-ai|IA conversacional]], [[simulation|simulación]] y [[llm-training-and-fine-tuning|entrenamiento de LLM pedagógicos]]. Los métodos subyacentes también importan: el [[machine-learning|aprendizaje automático]] es donde se construyen estos sistemas, las [[speech-and-voice-technologies|tecnologías de habla y voz]] sostienen la tutoría oral y la práctica de idiomas, la [[visualization|visualización]] cubre los cuadros de mando y la analítica visual para el estudiantado y el profesorado, y la [[virtual-and-augmented-reality|realidad virtual y aumentada]] alberga prácticas inmersivas cuya capa visual el modelo ya puede generar. Aquí también tienen cabida estilos de interacción más recientes, y sobre todo el [[vibe-coding|vibe coding]], el flujo de trabajo guiado por lenguaje natural en el que la persona describe un programa pidiéndoselo a un LLM y juzga el comportamiento resultante en lugar de leer o editar el código fuente, lo que replantea la [[cs-education|programación]] como un acto de expresión y verificación y rebaja la barrera para que el [[teacher-role|usuario final]] construya sus propias herramientas. Los marcos de profundidad de integración como [[samr-model|SAMR]] y las teorías de adopción como el [[technology-acceptance-model|TAM]] clasifican hasta qué punto se adopta la IA y cuánto transforma la tarea.
 - **Modelado del estudiantado y sistemas adaptativos:** los sistemas técnicos que representan a quien aprende y se adaptan a él se agrupan bajo la página general de [[student-modeling|modelado del estudiantado e instrucción adaptativa]]: [[knowledge-tracing|seguimiento del conocimiento]], [[cognitive-diagnosis|diagnóstico cognitivo]], [[simulating-students|simulación del estudiantado]], [[intelligent-tutoring|tutoría inteligente]], [[adaptive-learning|aprendizaje adaptativo]], [[personalized-learning|aprendizaje personalizado]], [[recommender-systems-and-learning-paths|sistemas de recomendación y rutas de aprendizaje]], [[pedagogical-agent|agentes pedagógicos]], [[affective-tutoring|tutoría afectiva]], [[affective-computing|computación afectiva]], [[human-in-the-loop-ai|IA con intervención humana]] y [[learning-analytics|analítica del aprendizaje]]. Se sitúan en la capa técnica porque son los propios sistemas de IA, distintos de las pedagogías que aplican.
 
 ## La IA en las disciplinas
@@ -3579,7 +3579,7 @@ La [[research-methods-aied|investigación]] de la base de conocimiento examina l
 - **La IA como agente pedagógico.** Las herramientas de IA encarnan pedagogías: un [[intelligent-tutoring|tutor]] construido sobre el [[socratic-method|cuestionamiento socrático]] incita a quien aprende a razonar, mientras que un chatbot que genera respuestas puede recurrir por defecto a darlas directamente (véase [[reducing-ai-misuse]] sobre por qué importa la postura pedagógica). La literatura sobre [[agentic-ai|IA agéntica]] muestra que fundamentar los agentes en la teoría del diseño instruccional supera a la [[prompt-engineering|ingeniería de prompts]] sin más. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] reformulan este papel de manera formal: en lugar de una relación diádica entre instructor y [[student-modeling|modelo del estudiantado]] con la IA generativa como suplemento o amenaza externa, proponen un **modelo triádico anidado de instructor, estudiantado e IA generativa** en el que la IA generativa opera como *mediador didáctico-pedagógico* acotado dentro de un espacio compartido de mediación didáctica gobernado por instituciones y actores, y del que se derivan cinco proposiciones investigables sobre la mediación del aprendizaje, la transformación del papel docente, la alfabetización en IA y la agencia de quien aprende, la [[process-oriented-assessment|evaluación procesual y transparente respecto a la IA]], y la [[governance]] institucional.
 - **La pedagogía determina el efecto de la IA.** Un hallazgo recurrente es que *cómo* se usa la IA importa tanto como *si* se usa. La [[instructional-guidance-genai-learning|investigación sobre la orientación instruccional]] y los [[generative-ai-guardrails-harm-learning|ensayos controlados aleatorizados con tutores con barreras]] muestran que la misma IA puede perjudicar o ayudar según el envoltorio pedagógico (pistas frente a respuestas, uso estructurado frente a uso abierto).
 - **Estrategias de enseñanza para la alfabetización en IA.** Enseñar al estudiantado *a usar bien la IA* es en sí mismo una tarea pedagógica: la investigación sobre [[ai-literacy]] y [[reducing-ai-misuse]] desarrolla estrategias (pensar primero, IA después, reflexionar; declaración de uso de IA; entrenamiento en calibración) que pertenecen a este marco.
-- **La pedagogía en la práctica docente.** [[teacher-role]] y [[teacher-ai-competency]] examinan cómo adopta el profesorado la IA dentro de su repertorio pedagógico existente, y [[pedagogical-llm-training]] y [[pedagogical-agent]] estudian herramientas de IA entrenadas para seguir principios pedagógicos.
+- **La pedagogía en la práctica docente.** [[teacher-role]] y [[teacher-ai-competency]] examinan cómo adopta el profesorado la IA dentro de su repertorio pedagógico existente, y [[llm-training-and-fine-tuning]] y [[pedagogical-agent]] estudian herramientas de IA entrenadas para seguir principios pedagógicos.
 
 ## Relación con las teorías del aprendizaje
 
@@ -3629,7 +3629,7 @@ El hallazgo transversal clave, coherente con la investigación de la base de con
 - [[curriculum-design]]
 - [[higher-ed]]
 - [[k-12]]
-- [[pedagogical-llm-training]] — Herramientas de IA entrenadas para seguir principios pedagógicos
+- [[llm-training-and-fine-tuning]] — Herramientas de IA entrenadas para seguir principios pedagógicos
 ## Artículos conectados
 - [[genai-didactic-pedagogical-mediator-2026]] — La IA generativa como mediador didáctico-pedagógico: modelo triádico de instructor, estudiantado e IA generativa (Moganadas et al. 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
@@ -4873,7 +4873,7 @@ A diferencia de los tutores de IA de instrucción directa que dan respuestas, lo
 - **Sacan a la superficie las [[misconceptions|ideas erróneas]]** — mediante contraejemplos cuidadosamente elegidos
 - **Orientan hacia la comprensión** — sin desvelar la respuesta
 
-El enfoque socrático encarna directamente el principio de [[pedagogical-llm-training|EduQwen]]: **recompensar «guiar» por encima de «responder».** Sin embargo, la calibración socrática en tiempo real es más difícil que la pedagogía de papel: EduQwen optimiza una guía correcta en un [[benchmark|punto de referencia]] de opción múltiple, mientras que un tutor socrático en vivo debe decidir *cuándo* guiar, *cuándo* dar una pista y *cuándo* responder, a partir de las señales del estudiante en tiempo real. El [[affective-tutoring|estado afectivo]] es un moderador crítico: un estudiante frustrado puede necesitar una breve respuesta directa antes de volver al modo socrático.
+El enfoque socrático encarna directamente el principio de [[llm-training-and-fine-tuning|EduQwen]]: **recompensar «guiar» por encima de «responder».** Sin embargo, la calibración socrática en tiempo real es más difícil que la pedagogía de papel: EduQwen optimiza una guía correcta en un [[benchmark|punto de referencia]] de opción múltiple, mientras que un tutor socrático en vivo debe decidir *cuándo* guiar, *cuándo* dar una pista y *cuándo* responder, a partir de las señales del estudiante en tiempo real. El [[affective-tutoring|estado afectivo]] es un moderador crítico: un estudiante frustrado puede necesitar una breve respuesta directa antes de volver al modo socrático.
 
 ## Evidencia de eficacia
 
@@ -9169,7 +9169,7 @@ La formación profesional se distingue de la educación académica por su foco e
 
 ## Sistemas de IA en la educación
 
-- **Grandes modelos de lenguaje (LLM).** La columna vertebral computacional de la mayor parte de la [[ai-education|IAED]] moderna: los [[llm|LLM]] generan texto similar al humano para tutoría, evaluación y generación de contenido, y son la tecnología más citada de la base de conocimiento. El [[pedagogical-llm-training|entrenamiento pedagógico]] adapta los LLM generales al uso educativo.
+- **Grandes modelos de lenguaje (LLM).** La columna vertebral computacional de la mayor parte de la [[ai-education|IAED]] moderna: los [[llm|LLM]] generan texto similar al humano para tutoría, evaluación y generación de contenido, y son la tecnología más citada de la base de conocimiento. El [[llm-training-and-fine-tuning|entrenamiento pedagógico]] adapta los LLM generales al uso educativo.
 - **IA generativa.** La categoría más amplia de sistemas que producen texto, código, imágenes y otros contenidos: la [[generative-ai|IA generativa]] (impulsada principalmente por LLM) es la tecnología detrás de la ola actual de investigación en [[ai-education|IAED]]. Véanse también los [[multimodal|modelos multimodales]] (texto, imagen, audio) y la [[simulation|simulación]].
 - **Robots y sistemas corporeizados.** La [[educational-robotics|robótica educativa]] añade una presencia corporeizada y a menudo social: kits programables para el pensamiento computacional y robots humanoides o sociales para tutoría, narración y juego de roles. La robótica es una vertiente técnica distinta que se solapa con la [[agentic-ai|IA agéntica]] y el diseño con [[human-in-the-loop-ai|human-in-the-loop]].
 - **Sistemas basados en conocimiento.** Los [[knowledge-graph|grafos de conocimiento]] y la [[educational-nlp|PLN educativa]] representan y procesan conocimiento de dominio, cada vez más combinados con LLM para una tutoría fundamentada y explicable.
@@ -9180,7 +9180,7 @@ La formación profesional se distingue de la educación académica por su foco e
 - **Generación aumentada por recuperación (RAG).** La [[rag|RAG]] fundamenta la salida del LLM en conocimiento recuperado, lo que reduce las alucinaciones y mejora la precisión: una técnica central para un despliegue educativo [[pedagogical-safety|seguro]].
 - **Aprendizaje por refuerzo.** El [[reinforcement-learning|aprendizaje por refuerzo]] entrena agentes para optimizar su comportamiento a lo largo del tiempo; se usa en [[adaptive-learning|sistemas adaptativos]] y en el [[game-based-learning|aprendizaje basado en juegos]].
 - **Orquestación agéntica.** Los sistemas de [[agentic-ai|IA agéntica]] planifican y ejecutan flujos de trabajo de varios pasos, a menudo orquestando varios agentes especializados (véanse los [[agentic-ai|sistemas multiagente]]), y están reconfigurando la IA de herramienta que responde a prompts en colaboradora proactiva.
-- **Entrenamiento y adaptación de modelos.** El [[pedagogical-llm-training|entrenamiento y ajuste fino de LLM para la pedagogía]], la [[educational-llm-alignment|alineación educativa]] y la [[cstutorbench-slm-tutors|adaptación de modelos de lenguaje pequeños]] hacen que los modelos generales sean específicos para la educación.
+- **Entrenamiento y adaptación de modelos.** El [[llm-training-and-fine-tuning|entrenamiento y ajuste fino de LLM para la pedagogía]], la [[educational-llm-alignment|alineación educativa]] y la [[cstutorbench-slm-tutors|adaptación de modelos de lenguaje pequeños]] hacen que los modelos generales sean específicos para la educación.
 
 ## Cómo se conecta la capa técnica con el campo
 
@@ -9211,7 +9211,7 @@ La vertiente técnica es inseparable de los demás temas de la base de conocimie
 - [[prompt-engineering]]
 - [[vibe-coding]]
 - [[rag]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[ai-ed-evaluation]]
 - [[benchmark]]
 - [[pedagogy]]
@@ -9445,7 +9445,7 @@ Una revisión sistemática interdisciplinar de 2026 (Dabaghi, D'Urso y Sciarrone
 
 Los LLM son el concepto más referenciado de la base de conocimiento (más de 60 artículos), porque sustentan casi todas las aplicaciones de IA educativa:
 
-- **Tutoría:** los [[intelligent-tutoring|tutores con IA]] usan LLM para el diálogo, la explicación y la orientación en la [[problem-solving|resolución de problemas]]. El [[pedagogical-llm-training|entrenamiento pedagógico]] adapta los LLM generales al uso educativo.
+- **Tutoría:** los [[intelligent-tutoring|tutores con IA]] usan LLM para el diálogo, la explicación y la orientación en la [[problem-solving|resolución de problemas]]. El [[llm-training-and-fine-tuning|entrenamiento pedagógico]] adapta los LLM generales al uso educativo.
 - **Evaluación:** los [[automated-assessment|sistemas de calificación]], la [[automated-essay-scoring|corrección automática de ensayos]] y la [[llm-item-difficulty-prediction|predicción de la dificultad de los ítems]] aprovechan las capacidades de los LLM. [[razavi-powers-item-difficulty-llm-2026|Razavi y Powers (2026)]] muestran que GPT-4o puede estimar la dificultad de ítems de matemáticas y lectura de K-5 (N = 5170) calibrados con el modelo IRT de Rasch: las valoraciones de cero disparos correlacionaron de forma moderada a fuerte con las dificultades reales (r = 0.83 en matemáticas, r = 0.81 en lectura), pero variaron según el curso; en cambio, una estrategia basada en características, en la que el LLM extrae características cognitivas y lingüísticas para modelos de árbol, alcanzó correlaciones de hasta r = 0.87, lo que es evidencia de que la extracción estructurada de características puede superar a un único juicio holístico del LLM. En el conjunto de la literatura sobre calificación, una [[meta-analysis-systematic-review|revisión sistemática]] guiada por PRISMA de 42 estudios empíricos (2023–2025) concluye que los LLM igualan a los evaluadores humanos en tareas cortas y bien estructuradas con rúbricas detalladas, pero no pueden sustituir del todo el juicio humano en trabajos complejos, abiertos o subjetivos, y que la versión del modelo es un determinante dominante de la calidad de la calificación ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). La fiabilidad también varía mucho según el tipo de ítem: [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] encontraron que ChatGPT-5 coincidía estrechamente con el profesorado en ítems objetivos de exámenes de farmacia (CCC 0.935–1.000), pero no era fiable en ítems de respuesta corta (CCC ≈0) ni de ensayo (0.341–0.854), y que proporcionar una rúbrica no mejoraba de forma consistente el acuerdo.
 - **LLM de razonamiento [[multimodal|multimodales]] como calificadores:** cuando un LLM multimodal y con capacidad de razonamiento (GPT-o4-mini) calificó página a página un examen manuscrito de [[chemistry-education|química]] general de 296 estudiantes comparándolo con imágenes de rúbricas, las puntuaciones totales de una sola pasada fueron muy reproducibles (ICC(A,1) = 0.967; promediar cinco pasadas llegó a 0.993) y coincidieron con fuerza con los totales del profesorado auxiliar (R² = 0.91), pero la fiabilidad a nivel de ítem dependía mucho del formato: las respuestas de texto y de ecuaciones químicas se calificaban bien, mientras que el dibujo y la representación gráfica salían peor que el azar (las cuadrículas de fondo distraen la visión de la IA). Esto muestra que la [[trust|fiabilidad]] de un calificador LLM es función del formato de respuesta y de la tarea, y no solo de la capacidad bruta del modelo, y que para usos de alto riesgo se necesita la [[human-in-the-loop-ai|derivación selectiva a una persona]] mediante filtros de confianza ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 - **Contenido:** la creación de contenido con [[generative-ai|IA generativa]] se apoya en los LLM. La [[automated-question-generation|generación de preguntas]] y la [[ai-generated-instructional-videos-computing-ed|generación de vídeos]] están impulsadas por LLM.
@@ -9472,7 +9472,7 @@ Una línea de trabajo complementaria reformula los LLM, de calificadores estáti
 - [[knowledge-tracing]]
 - [[higher-ed]]
 - [[scaffolding]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[learning-by-teaching]]
 - [[ai-technologies]] — Marco: tecnologías y técnicas de IA (modelos, entrenamiento de LLM, robótica, RAG, agentes)
 
@@ -9537,7 +9537,7 @@ Una línea de trabajo complementaria reformula los LLM, de calificadores estáti
 - **Reducción de alucinaciones:** [[eduguard-safe-rag-llm-tutor|EduGuard]] y [[eduzone-llm-safety-k12|EduZone]] usan RAG para mantener las respuestas del tutor de IA fundamentadas en contenido educativo verificado, reduciendo el [[hallucination-risk|riesgo de alucinación]].
 - **Tutoría fundamentada en el currículo:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] recupera materiales curriculares relevantes para informar las respuestas de tutoría, asegurando la alineación con el contenido del curso.
 - **Indexación de libros de texto y materiales:** [[book-level-synthetic-textbook-organization|La organización sintética de libros de texto]] indexa contenido educativo para su recuperación. [[structrag-diagram-reasoning-ai-tutoring|StructRAG]] extiende la recuperación a diagramas estructurados.
-- **Integración en el pipeline de entrenamiento:** [[pedagogical-llm-training|El entrenamiento pedagógico de LLM]] usa RAG para fundamentar el entrenamiento de tutores en las mejores prácticas educativas.
+- **Integración en el pipeline de entrenamiento:** [[llm-training-and-fine-tuning|El entrenamiento pedagógico de LLM]] usa RAG para fundamentar el entrenamiento de tutores en las mejores prácticas educativas.
 - **Apoyo académico específico de cada curso:** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] recupera de los materiales didácticos aprobados de un único módulo de programación para atender a estudiantes que dudan en acudir a un docente, y el 89% de los 15 estudiantes evaluadores calificó sus respuestas como muy alineadas con los materiales del curso; el punto de diseño es que la fundamentación es una respuesta institucional al desajuste entre los [[llm|LLM]] de propósito general y las expectativas a nivel de módulo.
 - **Estructura en el momento de la ingesta frente a recuperación en el momento de la consulta:** [[wiki-llm-indexing-ml-classes-2026|Wright (2026)]] compiló el mismo corpus del curso de aprendizaje automático DS3001 en siete páginas wiki de conceptos interconectadas con citas de fuentes, y lo contrastó con una línea base de RAG vectorial ajustada, basada en recuperación por fragmentos con embeddings. Sobre 59 preguntas escritas por personas, el wiki compilado respondió mejor que el índice ajustado (9,95 frente a 9,05 de 10, con un intervalo de confianza bootstrap de la diferencia que excluye el cero) y estuvo más a menudo fundamentado en el material que quien respondía realmente veía (98% frente a 81%), con ambas brechas casi triplicándose en las preguntas que necesitaban material de más de una página (puntuaciones entre páginas de 9,93 frente a 8,14, donde la tasa de fundamentación de RAG cayó del 87% al 64%). La brecha de fundamentación no fue un fallo de recuperación: solo 2 de las 11 respuestas no fundamentadas del RAG vectorial fueron fallos de recuperación, mientras que las otras 9 tenían los extractos relevantes en contexto y aun así añadieron detalle no respaldado —evidencia de que la estructura en la ingesta restringe la elaboración, no solo el acceso.
 
@@ -9553,7 +9553,7 @@ RAG cumple un papel complementario al ajuste fino de [[llm|LLM]]: la recuperaci�
 - [[knowledge-graph]]
 - [[edtech-platform]]
 - [[intelligent-tutoring]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[pedagogical-safety]]
 - [[k-12]]
 - [[higher-ed]]
@@ -9683,6 +9683,167 @@ La ingeniería de prompts se conecta con el [[scaffolding|andamiaje]]: las indic
 - [[teacher-ai-literacy-prompt-feedback-quality-2026]] — La ingeniería de prompts y la selección de modelo como predictores de la calidad de la retroalimentación con IA (Jacobsen et al. 2026)
 - [[context-prompts-physics-assignments-2026]] — Tareas de física impulsadas por inteligencia artificial mediante indicaciones de contexto
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluar el foco de la retroalimentación y la adaptabilidad pedagógica en la retroalimentación generada por LLM sobre la escritura del estudiantado
+
+---
+
+## [Entrenamiento y ajuste fino de LLM](https://edtechdev.github.io/aied/concepts/llm-training-and-fine-tuning/)
+
+*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+
+> La optimización especializada en un dominio puede transformar un modelo de tamaño medio de [[open-source|código abierto]] (Qwen3-32B) en un experto de dominio [[pedagogy|pedagógico]] que supera a sistemas propietarios mucho mayores, pero solo cuando el entrenamiento recompensa *guiar* en lugar de *responder*.([[singh-eduqwen-pedagogical-rl-2026]]) La teoría clásica del diseño instruccional (ADDIE, Dick y Carey) combinada con el razonamiento ReAct moderno alcanza el mejor rendimiento en el diseño instruccional automatizado.([[jeon-isd-agent-bench-2026]])
+
+## Preguntas para reflexionar
+
+- Los [[conversational-ai|chatbots]] de propósito general están optimizados para dar respuestas rápidas y correctas. ¿Por qué eso es lo *contrario* de lo que necesita un tutor, y qué sugiere ese «desajuste de incentivos» sobre la IA lista para usar como herramienta de [[teacher-role|enseñanza]]?
+- Un punto de referencia encontró que 97 modelos puntuaban entre el 28% y el 89% en conocimiento pedagógico, lo que significa que no se aprende automáticamente en el preentrenamiento. ¿Le sorprende, y qué implica eso para confiar en un [[llm]] de propósito general para enseñar?
+- El entrenamiento de EduQwen recompensa explícitamente «guiar» por encima de «responder». Antes de leer los métodos, ¿se le ocurre cómo le indicaría a una IA que prefiera guiar, y cómo mediría si de hecho lo hizo?
+- La página muestra que la teoría clásica del diseño (ADDIE) combinada con un razonamiento flexible superó tanto a la teoría pura como a la técnica pura. ¿Por qué «estructura más flexibilidad» podría superar a cualquiera de las dos por separado cuando una IA diseña la enseñanza?
+- Entrenar pedagogía en un modelo cuesta tiempo, datos y cómputo. En su contexto, ¿qué le convencería de que la inversión vale la pena frente a simplemente pedirle a un modelo de propósito general que «actúe como un tutor»?
+
+## Introducción
+
+Los LLM de propósito general están optimizados para ser útiles: quienes los usan quieren respuestas rápidas y correctas. La tutoría requiere lo contrario: el objetivo **no es dar la respuesta, sino ayudar al estudiante a llegar a ella por sí mismo**. Esto crea un desajuste de incentivos fundamental.
+
+## Enfoque 1: una canalización RL-SFT-RL para el razonamiento pedagógico (EduQwen)
+
+Singh et al. (2026) desarrollaron una canalización de tres etapas que transforma Qwen3-32B en EduQwen, alcanzando un **96,52%** en el punto de referencia CDPK y superando a Gemini-3 Pro (90,55%).
+
+### Etapa 1: RL inicial (EduQwen 32B-RL1)
+- **Algoritmo:** DAPO (Decoupled Advantage Policy Optimization) con recorte asimétrico
+- **[[reinforcement-learning|Modelo de recompensa]]:** prioriza las respuestas que *guían* sobre las respuestas directas
+- **Aprendizaje por currículo:** dificultad progresiva; la minería de negativos duros excluye las preguntas que el modelo base ya resuelve perfectamente
+- **Despliegues ampliados:** de 5→8 pasos para capturar decisiones pedagógicas de varios pasos
+- **Resultado:** 94,13% (ya SOTA)
+
+### Etapa 2: SFT sintético (EduQwen 32B-SFT)
+- El modelo RL1 genera 40.000 respuestas sintéticas
+- La selección basada en gradientes conserva solo los ejemplos difíciles
+- Muestreo ponderado por dificultad: preguntas fáciles → un ejemplo; preguntas difíciles → todos, con mayor peso
+- **Resultado:** 96,20%
+
+### Etapa 3: RL final (EduQwen 32B-SFT-RL2)
+- Segunda ronda de DAPO, reutilizando el conjunto original de negativos duros
+- El modelo ahora resuelve problemas que al principio le resultaban difíciles
+- **Resultado:** 96,52% (SOTA definitivo)
+
+## El punto de referencia de pedagogía: evaluar el conocimiento pedagógico
+
+Lelièvre et al. (2025) presentaron **The Pedagogy Benchmark**, que mide el conocimiento pedagógico entre dominios (CDPK) y el conocimiento sobre [[special-education|necesidades educativas especiales]] y discapacidad (SEND) a partir de exámenes reales de [[educational-development|desarrollo profesional]] docente. En **97 modelos**, la precisión osciló entre el **28% y el 89%**, lo que revela que el conocimiento pedagógico no se adquiere automáticamente en el preentrenamiento general.
+
+**Conexión con EduQwen:** el EduQwen de Singh et al. alcanzó un **96,52% en CDPK**, lo que demuestra que la optimización dirigida con RL+SFT puede cerrar la brecha de conocimiento pedagógico que documentan Lelièvre et al. El punto de referencia sirve a la vez como diagnóstico (muestra que la mayoría de los modelos falla en pedagogía) y como objetivo de entrenamiento (muestra que la optimización funciona).
+
+Las tablas de clasificación en vivo siguen las fronteras de Pareto entre coste y precisión: [rebrand.ly/pedagogy](https://rebrand.ly/pedagogy)
+
+## Enfoque 2: agentes de diseño instruccional fundamentados en la teoría (ISD-Agent-Bench)
+
+Jeon et al. (2026) crearon un punto de referencia para agentes LLM que automatizan el [[learning-design|diseño de sistemas instruccionales]] (ISD), y probaron si la teoría pedagógica clásica mejora el rendimiento del agente.
+
+| Arquitectura | Rendimiento | Por qué |
+|-------------|-------------|-----|
+| **Híbrida: teoría + ReAct** | **Mejor** | Los marcos clásicos ADDIE/Dick y Carey aportan estructura; ReAct permite un razonamiento flexible de varios pasos |
+| Solo teoría | Moderado | Estructurado pero inflexible |
+| Solo técnica (ReAct puro) | Peor | Flexible pero sin fundamento pedagógico |
+
+**Idea clave:** la calidad teórica correlaciona fuertemente con el rendimiento en el punto de referencia. Los agentes basados en la teoría destacan en el **diseño centrado en problemas** y en la **alineación entre objetivos y evaluación**.
+
+### Diseño del punto de referencia
+- **25.795 escenarios** de Context Matrix (51 variables × 5 categorías × 33 subpasos de ISD)
+- **Protocolo de múltiples jueces** entre distintos proveedores de LLM para mitigar el sesgo del LLM como juez
+- Se alcanzó una alta fiabilidad entre jueces
+
+## Enfoque 3: seguimiento de instrucciones pedagógicas (LearnLM) y postentrenamiento con datos auténticos (TeachLM)
+
+Dos estrategias complementarias de postentrenamiento para incorporar la pedagogía a los modelos fundacionales:
+
+- **Seguimiento de instrucciones pedagógicas (LearnLM).** [[learnlm-improving-gemini-learning|LearnLM de Google]] reformula el entrenamiento de modelos educativos como *seguimiento de instrucciones pedagógicas*: los ejemplos de entrenamiento y evaluación llevan instrucciones a nivel de sistema que describen el comportamiento pedagógico deseado, lo que permite a desarrolladores y docentes especificar el comportamiento del tutor sin comprometerse con una única definición de pedagogía. Mezclado directamente en el postentrenamiento de Gemini (etapas de SFT + modelo de recompensa + RLHF) mediante coentrenamiento, LearnLM fue preferido por personas expertas frente a GPT-4o (+31%), Claude 3.5 Sonnet (+11%) y Gemini 1.5 Pro base (+13%) en evaluaciones multiturno guiadas por escenarios. Hallazgo clave: **el RL es sustancialmente más eficaz que el SFT solo** para seguir instrucciones pedagógicas matizadas en conversaciones largas.
+
+- **Postentrenamiento con datos auténticos (TeachLM).** [[teachlm-post-training-llms-education|TeachLM]] sostiene que la [[prompt-engineering|ingeniería de prompts]] es un paliativo y que el ingrediente escaso son los datos *auténticos* de interacción entre quien aprende y el tutor. Entrenado con 100.000 horas de sesiones individuales de Polygence (rigurosamente anonimizadas), construye un **[[student-modeling|modelo de estudiante]] auténtico** ajustado que permite una evaluación sintética multiturno, y el modelo docente duplica el tiempo de habla del estudiante, mejora el estilo de preguntar y aumenta los turnos de diálogo un 50%.
+
+**Síntesis:** LearnLM muestra que el seguimiento de instrucciones más RLHF es una vía viable cuando los datos de entrenamiento son escasos; TeachLM muestra que cuando *sí* hay datos auténticos de interacción longitudinal, el postentrenamiento con ellos supera directamente tanto el prompting como los datos solo sintéticos. Juntos enmarcan el espacio de diseño del entrenamiento pedagógico como una elección entre un postentrenamiento escalable condicionado por instrucciones y un ajuste fino basado en datos de interacciones de tutoría reales.
+
+## El prompting guiado por rúbricas como alternativa ligera
+
+No toda configuración pedagógica requiere reentrenamiento. [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] mostraron que el prompting guiado por rúbricas —tratar la rúbrica como una interfaz semántica entre la intención pedagógica humana y la inferencia de la máquina— puede empujar a un LLM de propósito general hacia un [[evaluative-judgment|juicio evaluativo]] semejante al humano sin ajuste fino: el refitado iterativo de la rúbrica elevó la concordancia entre LLM y personas del 54,75% al 81,25% en trabajos de diseño de estudiantes (alfa de Cronbach 0,393 → 0,798), y el prompting consciente del rol (docente, revisor entre pares, revisor de subvenciones) produjo retroalimentación evaluativa distinta. Esto complementa los enfoques basados en entrenamiento anteriores: donde TeachLM sostiene que la ingeniería de prompts es un paliativo y que el postentrenamiento con datos auténticos es el ingrediente escaso, Yaşar et al. demuestran que una rúbrica bien diseñada puede ser en sí misma una palanca potente y de bajo coste para alinear la evaluación de los LLM con la intención pedagógica, aunque la supervisión [[human-in-the-loop-ai|con intervención humana]] sigue siendo esencial, ya que los modelos aún pueden malinterpretar matices, alucinar justificaciones o mezclar roles. Otra alternativa ligera es la personalización por juego de roles a nivel de prompt sin reentrenamiento: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang y Zhang (2025)]] usaron la función de GPT personalizado de OpenAI para simular a un estudiante de secundaria básica que sostiene una idea errónea, y encontraron que un prompt refinado y fundamentado en la literatura (que especificaba tres [[misconceptions|ideas erróneas]] sobre el razonamiento con razones) provocaba los errores conceptuales buscados con mucha más fiabilidad que un prompt amplio de álgebra (presencia de 0,98 frente a 0,40), evidencia de que un diseño cuidadoso del prompt puede orientar sustancialmente un modelo listo para usar hacia una persona pedagógica deseada, aun cuando el agente simulado conservaba limitaciones de autenticidad (tono de docente, confusión de roles).
+
+La intervención más ligera de esta familia no es el prompting sino la adaptación eficiente en parámetros. [[lora-finetuned-control-systems-course-qa-2026|Lu et al. (2026)]] construyeron 360 diálogos sistema–usuario–asistente a partir de un curso de Sistemas de Control Lineales, reestructuraron las respuestas en un formato Solución–Método–Puntos de Enseñanza y aplicaron LoRA a Qwen2.5-3B y 7B en rangos 4, 8 y 16. La cobertura de salida estructurada pasó de casi cero en la base a aproximadamente 1,00, y la mejor configuración (7B, r = 16) alcanzó un ROUGE-L de 0,4093 con intervalos de confianza bootstrap para la ganancia enteramente por encima de cero, pero la ganancia por millón de parámetros del adaptador cayó monótonamente a medida que subía el rango, así que la alineación a nivel de curso es una disyuntiva entre escala y rango y no una mejora gratuita. Las métricas miden similitud y formato, no precisión de derivación.
+
+## Enfoque 4: entrenar roles de simulador, no solo tutores
+
+La misma maquinaria de postentrenamiento se dirige ahora al lado del aprendiente en la interacción, y los resultados dicen que el presupuesto de supervisión importa más que el prompt. [[misconception-acquisition-dynamics-llms-2026|Liu et al. (2026)]] ajustaron con instrucciones tres modelos pequeños para *adquirir* ideas erróneas de álgebra en dos roles —un Modelo de Estudiante Novato con Ideas Erróneas que sostiene una sola idea errónea, y un Modelo de Tutor Experto con Ideas Erróneas que sostiene diez— y midieron tanto la precisión de las ideas erróneas como la de resolución correcta. El rol de estudiante mostró una disyuntiva que ningún prompt podía arreglar: el error aprendido se sobregeneralizaba más allá de sus tipos de problema aplicables hasta que se mezclaron explícitamente ejemplos correctos en los datos de entrenamiento, en proporciones tan bajas como un ejemplo correcto por cada cuatro de ideas erróneas. El rol de tutor no mostró ese coste, con una precisión correcta estable o en aumento del 93% al 98% cuando se entrenaron conjuntamente diez ideas erróneas, aunque las muestras a escala de aula fueron insuficientes y las ideas erróneas poco frecuentes requerirían datos de varias instituciones. De forma más concluyente, ninguno de los dos roles adquirió nada cuando se entrenó solo con respuestas finales —la precisión de las ideas erróneas se mantuvo por debajo del 30% en todos los tamaños de datos—, así que los rastros de solución paso a paso, y no más ejemplos, son el requisito limitante. [[swim-student-writing-simulation-2026|SWIM (Do, Kontak y Sachan, 2026)]] llega a la conclusión espejo para un simulador de escritura: el prompting fundamentado en rúbricas dio un control limitado de la competencia (mejor QWK medio por rasgo de 0,577 para Claude Sonnet, 0,422 para GPT-5.4, y casi cero al pedírselo a un modelo abierto de 7B), el ajuste fino supervisado elevó un modelo de 7B a 0,474 ± 0,023, y el GRPO contra una recompensa derivada de la puntuación automática de ensayos lo elevó aún más a 0,618 ± 0,005 en todos los rasgos y prompts, con la recompensa diseñada como una precisión densa normalizada por rasgo porque las recompensas de coincidencia exacta son demasiado dispersas en el entorno de múltiples rasgos.
+
+## Síntesis: qué hace que funcione el entrenamiento pedagógico
+
+| Principio | EduQwen | ISD-Agent-Bench |
+|-----------|---------|-----------------|
+| **Recompensar y guiar, no responder** | El modelo de recompensa DAPO penaliza las soluciones directas | Los pasos de ISD exigidos por la teoría requieren alineación entre objetivos y evaluación |
+| **Currículo por dificultad** | Minería de negativos duros + despliegues progresivos | Context Matrix varía sistemáticamente la complejidad |
+| **Razonamiento de varios pasos** | Despliegues ampliados (5→8 pasos) | Cadenas de razonamiento estilo ReAct |
+| **Validar con teoría** | El punto de referencia CDPK mide el conocimiento pedagógico | Los marcos ADDIE/Dick y Carey fundamentan las decisiones de diseño |
+| **Refinamiento iterativo** | Canalización RL → SFT → RL | La evaluación con múltiples jueces reduce el sesgo |
+
+## Relación con la seguridad y el diseño
+
+Entrenar para la pedagogía no es solo cuestión de precisión: es una **intervención de seguridad**:
+- Un modelo que recompensa «guiar» por encima de «responder» es menos probable que incurra en los [[hazra-safetutors-pedagogical-safety-2026|daños de la divulgación excesiva de respuestas]]
+- Los agentes fundamentados en la teoría (ISD-Agent-Bench) se alinean con principios pedagógicos que previenen la [[metacognition|supresión metacognitiva]]
+- Sin embargo, entrenar con [[benchmark|puntos de referencia]] pedagógicos no garantiza la seguridad multiturno; SafeTutors muestra que incluso los modelos especializados se degradan en un diálogo sostenido
+- **La fundamentación y la validación pueden sustituir al entrenamiento o complementarlo.** [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora y MacLellan (2025)]] encontraron que un GPT-4 de frontera *sin entrenar* producía pistas un ~35% demasiado generales, incorrectas o que revelaban la respuesta al redactar retroalimentación para un sistema de tutoría inteligente, y que sus propias comprobaciones automáticas de calidad no se alineaban con el juicio humano, lo que llevó a los autores a concluir que los LLM carecen de un modelo interno de la instrucción y que se requiere una validación sólida o un entrenamiento específico de dominio antes de usarlos sin supervisión con aprendientes, lo que respalda la idea de que la fundamentación y el control de calidad son en sí mismos intervenciones pedagógicas junto al diseño de recompensas.
+
+### La reducción de la adulación como objetivo de entrenamiento
+
+Como la tutoría requiere fricción correctiva —cuestionar una afirmación incorrecta del estudiante en lugar de reafirmarla—, reducir la [[ai-sycophancy|adulación]] es un objetivo central del entrenamiento pedagógico de LLM. [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] muestra que los modelos que resisten ataques de cambio de contexto igual se rinden ante la presión de la autoridad o la presión social [[affective-computing|afectiva]], y retienen la retroalimentación correctiva; sus autores sostienen que el comportamiento «amable pero correcto» debería ser un requisito explícito de entrenamiento y no una preferencia de [[usability-research|usabilidad]]. El entrenamiento que recompensa guiar por encima de responder (como en el modelo de recompensa DAPO de EduQwen) es una palanca estructural contra la respuesta aduladora. Sin embargo, la [[contextual-sycophancy-ai-literacy|adulación contextual]] persiste incluso después del prompting o del entrenamiento de alineación —los errores de quienes aprenden siguen propagándose al consejo de la IA—, así que la mitigación de la adulación en tutores entrenados debe combinar diseño de recompensas, alineación frente a puntos de referencia de adulación y salvaguardas a nivel de sistema, en lugar de depender de una sola etapa.
+
+## Preguntas abiertas
+
+1. ¿El entrenamiento pedagógico con RL generaliza entre asignaturas, o siempre se necesita un ajuste [[discipline-specific-aied|específico de la materia]] (como sugiere SafeTutors)?
+2. ¿Puede combinarse la canalización RL-SFT-RL con memoria longitudinal (véase [[nie-personavlm-long-term-personalization-2026]]) para una tutoría personalizada?
+3. ¿Mejoraría la teoría de los agentes ISD la conversación general de tutoría, o se limita al [[curriculum-design|diseño curricular]] de nivel macro?
+
+## Conceptos conectados
+
+- [[intelligent-tutoring]]
+- [[scaffolding]]
+- [[adaptive-learning]]
+- [[metacognition]]
+- [[affective-tutoring]]
+- [[human-in-the-loop-ai]]
+- [[personalized-learning]]
+- [[student-modeling]]
+- [[self-regulated-learning]]
+- [[pedagogical-safety]]
+- [[formative-assessment]]
+- [[llm]]
+- [[authentic-assessment]]
+- [[ai-sycophancy]]
+- [[ai-feedback-quality]]
+- [[bias-mitigation]]
+- [[ai-technologies]] — Paraguas: tecnologías y técnicas de IA (modelos, entrenamiento de LLM, robótica, RAG, agentes)
+
+## Artículos conectados
+
+- [[zerkouk-comprehensive-review-its-2025]]
+- [[civic-education-ai-lesson-plans]]
+- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]]
+- [[contextual-sycophancy-ai-literacy]]
+- [[educational-llm-alignment]]
+- [[eduguard-safe-rag-llm-tutor]]
+- [[kar-mathbuddy-affective-math-tutoring-2025]]
+- [[llm-tts-dialogue-lesson-generation]]
+- [[multimodal-learning-genai]]
+- [[neural-symbolic-knowledge-tracing]]
+- [[nsmq-riddles-science-math-benchmark]]
+- [[singh-eduqwen-pedagogical-rl-2026]]
+- [[eduframetrap-llm-sycophancy-educational-safety]] — La adulación es un riesgo de seguridad educativa: por qué los tutores LLM necesitan puntos de referencia de adulación
+- [[tact-pedagogically-adaptive-esl-tutoring]]
+- [[learnlm-improving-gemini-learning]] — LearnLM: mejorar Gemini para el aprendizaje
+- [[teachlm-post-training-llms-education]] — TeachLM: postentrenamiento de LLM para la educación con datos de aprendizaje auténticos
+- [[yasar-llms-iterative-pedagogical-design-2026]] — Los LLM como agentes de diseño pedagógico iterativo
+- [[reddig-maclellan-personalized-feedback-llm-2026]]
+- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
+- [[lora-finetuned-control-systems-course-qa-2026]] — Modelos ajustados con LoRA para preguntas y respuestas de un curso de sistemas de control: una evaluación multidimensional de la escala del modelo y los efectos del rango
+- [[misconception-acquisition-dynamics-llms-2026]] — Composición de datos, mezcla de ejemplos correctos y supervisión paso a paso para modelos conscientes de las ideas erróneas
+- [[swim-student-writing-simulation-2026]] — El entrenamiento supervisado y basado en recompensas superó al prompting con rúbricas para el control de la competencia
+- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: modelos fundacionales abiertos para el aprendizaje y la enseñanza
 
 ---
 
@@ -10069,7 +10230,7 @@ El procesamiento de lenguaje natural en educación aplica métodos computacional
 - **Análisis del lenguaje del estudiantado.** [[llm-sentiment-analysis-education-research|La investigación sobre análisis de sentimiento asistido por LLM]] aplica el análisis de sentimiento basado en LLM a la investigación educativa, extrayendo señales emocionales y evaluativas del texto del estudiantado a escala, lo que alimenta la [[learning-analytics|analítica del aprendizaje]] y la [[affective-computing|computación afectiva]].
 - **Predicción y medición.** [[llm-item-difficulty-prediction|La predicción de la dificultad de los ítems con LLM]] y [[vocabulary-difficulty-prediction|la predicción de la dificultad del vocabulario]] usan modelos de lenguaje para estimar la dificultad de ítems y de textos, insumos centrales de la [[educational-measurement|medición educativa]], el [[adaptive-learning|aprendizaje adaptativo]] y los modelos de [[item-response-theory|teoría de respuesta al ítem]].
 - **Legibilidad y alineación con el [[curriculum-design|diseño curricular]].** Bird (2026) combina la clasificación de texto con transformers y características de lingüística computacional para clasificar literatura inglesa por Key Stage del Reino Unido, y alcanza un F1 de 0,996: un complemento basado en datos de [[vocabulary-difficulty-prediction|la predicción de la dificultad del vocabulario]] y [[llm-item-difficulty-prediction|la predicción de la dificultad de los ítems con LLM]] para la [[educational-measurement|medición educativa]] y la alineación con el nivel de lectura.
-- **Retroalimentación y clasificación.** [[teaching-feedback-classification-benchmark|La investigación sobre un punto de referencia para clasificar la retroalimentación docente]] ofrece un [[benchmark|punto de referencia]] para clasificar la retroalimentación docente, lo que hace avanzar la investigación sobre el [[feedback|bucle de retroalimentación]] y el [[pedagogical-llm-training|entrenamiento pedagógico de LLM]].
+- **Retroalimentación y clasificación.** [[teaching-feedback-classification-benchmark|La investigación sobre un punto de referencia para clasificar la retroalimentación docente]] ofrece un [[benchmark|punto de referencia]] para clasificar la retroalimentación docente, lo que hace avanzar la investigación sobre el [[feedback|bucle de retroalimentación]] y el [[llm-training-and-fine-tuning|entrenamiento pedagógico de LLM]].
 - **Evaluación de respuestas breves en ciencias.** La [[meta-analysis-systematic-review|revisión de alcance]] de Morley et al. sobre la corrección automática con transformers de preguntas de respuesta breve en ciencias (2017–principios de 2024) muestra que los modelos de la familia BERT se convirtieron en el caballo de batalla dominante del campo para la [[automated-assessment|corrección de texto libre]] antes de que se adoptaran [[llm|LLM]] más grandes mediante [[prompt-engineering|prompts]], y que los modelos aumentados con conocimiento del dominio —preentrenamiento adicional, datos de rúbricas o de libros de texto, metaaprendizaje— superaron de forma consistente a los que carecían de él ([[auto-marking-short-answer-science-2026]]).
 - **Sensibilidad al contexto frente a la coincidencia con referencias en la calificación de respuestas abiertas.** Al evaluar once modelos de [[generative-ai|IA generativa]] y de embeddings de oraciones con 1.885 respuestas abiertas de ingeniería de software, [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko y Drlik (2025)]] muestran que los [[llm|LLM]] sensibles al contexto (GPTo1 el mejor, con una concordancia casi perfecta con las personas) superan a los modelos basados en referencias y similitud del coseno (BERT, RoBERTa, T5, USE), que clasificaron erróneamente de forma sistemática respuestas válidas pero formuladas de otro modo. Su análisis de NLI reveló que muchas respuestas semánticamente correctas caían en la categoría de *contradicción* respecto a las respuestas de referencia, lo que evidencia que la calificación del PLN educativo debe acomodar la formulación breve, diversa y con palabras propias del estudiantado en lugar de una alineación rígida con la referencia. El contraste se agudiza en el conocimiento docente: al codificar las respuestas abiertas de 268 docentes estadounidenses de matemáticas de [[k-12|secundaria]], tanto los codificadores clásicos (RoBERTa, Sentence-BERT) como un GPT-4o ingenuo con un único prompt se quedaron muy por debajo de la codificación humana en conocimiento [[pedagogy|didáctico]] del contenido (PCK), mientras que un arnés de LLM con tres agentes que añadía de forma iterativa puntos de aclaración al manual de codificación *humano* alcanzó una concordancia sustancial en PCK y una concordancia casi humana en los ítems de conocimiento del contenido, mucho más tratables: la fiabilidad procede de refinar las instrucciones frente a desacuerdos reales y no de un modelo más grande, y los ítems de razonamiento docente más complejos siguen necesitando [[human-in-the-loop-ai|revisión experta]] ([[llm-automated-coding-teacher-pck-2026|Copur-Gencturk et al., 2026]]).
 - **Clasificación de preguntas generadas por quienes aprenden.** [[lee-learner-question-types-ai-education-2026|Lee, Atif y Kang (2026)]] clasifican 434 preguntas auténticas de estudiantes, formuladas por 11 estudiantes de TI en 12 cursos, en tres roles instruccionales [[constructivist|constructivistas]] —transmisor de conocimiento, facilitador y coprendiz— y evalúan cuatro transformers en la tarea. DeBERTa lideró con una precisión del 86,36% (F1 86,52%) y un 96,67% de precisión en preguntas factuales de transmisor de conocimiento, pero solo un 78,79% de precisión en consultas de facilitador; un BERT ajustado alcanzó el mejor recall de coprendiz (92,00%) con menor precisión. El resultado refleja el patrón recurrente del campo: las puntuaciones agregadas altas ocultan una discriminación débil en las categorías de orden superior. El solapamiento conceptual entre roles, la intención ambigua de quien aprende y la formulación técnica específica del dominio malinterpretada como profundidad cognitiva derrotan a las características léxicas superficiales, lo que aboga por embeddings sensibles al contexto, señales de diálogo multiturno y características sensibles a la intención ([[cross-dataset-bloom-question-classification]], [[llm-educational-question-cognitive-depth]]).
@@ -10087,7 +10248,7 @@ El PLN educativo sustenta tanto el análisis del lenguaje de quien aprende ([[st
 - [[socratic-method]]
 - [[scaffolding]]
 - [[adaptive-learning]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[metacognition]]
 - [[rct]]
 - [[learning-analytics]]
@@ -10147,7 +10308,7 @@ Una [[riedmann-reinforcement-learning-education-review-2026|revisión sistemáti
 
 ### Conexión con la base de conocimiento
 
-El RL sustenta buena parte del diseño moderno de [[agentic-ai|IA agéntica]] y de [[intelligent-tutoring|tutoría inteligente]], donde el agente debe optimizar el aprendizaje a largo plazo y no una única respuesta correcta. Se conecta con el [[pedagogical-llm-training|entrenamiento pedagógico de LLM]] (el RL como método de entrenamiento), con el [[scaffolding|andamiaje]] (un diseño de la recompensa que preserve el esfuerzo productivo) y con el [[self-regulated-learning|aprendizaje autorregulado]] (agentes que ayudan a quien aprende a regular su propia estrategia). Como el diseño de la recompensa codifica valores educativos, la investigación sobre RL en la AIED está estrechamente ligada a la [[pedagogical-safety|seguridad pedagógica]] y a las consideraciones de equidad del comportamiento [[equity-in-ai-education|equitativo]] de los tutores.
+El RL sustenta buena parte del diseño moderno de [[agentic-ai|IA agéntica]] y de [[intelligent-tutoring|tutoría inteligente]], donde el agente debe optimizar el aprendizaje a largo plazo y no una única respuesta correcta. Se conecta con el [[llm-training-and-fine-tuning|entrenamiento pedagógico de LLM]] (el RL como método de entrenamiento), con el [[scaffolding|andamiaje]] (un diseño de la recompensa que preserve el esfuerzo productivo) y con el [[self-regulated-learning|aprendizaje autorregulado]] (agentes que ayudan a quien aprende a regular su propia estrategia). Como el diseño de la recompensa codifica valores educativos, la investigación sobre RL en la AIED está estrechamente ligada a la [[pedagogical-safety|seguridad pedagógica]] y a las consideraciones de equidad del comportamiento [[equity-in-ai-education|equitativo]] de los tutores.
 
 ## Conceptos conectados
 
@@ -10162,7 +10323,7 @@ El RL sustenta buena parte del diseño moderno de [[agentic-ai|IA agéntica]] y 
 - [[learning-analytics]]
 - [[open-source]]
 - [[pedagogical-safety]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[ai-technologies]] — Marco general: tecnologías y técnicas de IA (modelos, entrenamiento de LLM, robótica, RAG, IA agéntica)
 
 ## Artículos conectados
@@ -10663,167 +10824,6 @@ La misma lógica explica por qué la presencia no es automáticamente buena. Los
 - [[genai-xr-architectural-design-education-2026]] — IA generativa y realidad extendida en la enseñanza colaborativa del diseño arquitectónico: un estudio exploratorio de estudio de diseño
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: estudio de diseño en RV inmersiva con un asistente docente respaldado por LLM, evaluado frente al PBL tradicional (Jin et al. 2026)
 - [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: instrucción multimodal asistida por LLM en la enseñanza de la iluminación escénica en RV, y dónde se rompió el anclaje (Liang et al. 2026)
-
----
-
-## [Entrenamiento de LLM pedagógicos para la tutoría](https://edtechdev.github.io/aied/concepts/pedagogical-llm-training/)
-
-*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-> La optimización especializada en un dominio puede transformar un modelo de tamaño medio de [[open-source|código abierto]] (Qwen3-32B) en un experto de dominio [[pedagogy|pedagógico]] que supera a sistemas propietarios mucho mayores, pero solo cuando el entrenamiento recompensa *guiar* en lugar de *responder*.([[singh-eduqwen-pedagogical-rl-2026]]) La teoría clásica del diseño instruccional (ADDIE, Dick y Carey) combinada con el razonamiento ReAct moderno alcanza el mejor rendimiento en el diseño instruccional automatizado.([[jeon-isd-agent-bench-2026]])
-
-## Preguntas para reflexionar
-
-- Los [[conversational-ai|chatbots]] de propósito general están optimizados para dar respuestas rápidas y correctas. ¿Por qué eso es lo *contrario* de lo que necesita un tutor, y qué sugiere ese «desajuste de incentivos» sobre la IA lista para usar como herramienta de [[teacher-role|enseñanza]]?
-- Un punto de referencia encontró que 97 modelos puntuaban entre el 28% y el 89% en conocimiento pedagógico, lo que significa que no se aprende automáticamente en el preentrenamiento. ¿Le sorprende, y qué implica eso para confiar en un [[llm]] de propósito general para enseñar?
-- El entrenamiento de EduQwen recompensa explícitamente «guiar» por encima de «responder». Antes de leer los métodos, ¿se le ocurre cómo le indicaría a una IA que prefiera guiar, y cómo mediría si de hecho lo hizo?
-- La página muestra que la teoría clásica del diseño (ADDIE) combinada con un razonamiento flexible superó tanto a la teoría pura como a la técnica pura. ¿Por qué «estructura más flexibilidad» podría superar a cualquiera de las dos por separado cuando una IA diseña la enseñanza?
-- Entrenar pedagogía en un modelo cuesta tiempo, datos y cómputo. En su contexto, ¿qué le convencería de que la inversión vale la pena frente a simplemente pedirle a un modelo de propósito general que «actúe como un tutor»?
-
-## Introducción
-
-Los LLM de propósito general están optimizados para ser útiles: quienes los usan quieren respuestas rápidas y correctas. La tutoría requiere lo contrario: el objetivo **no es dar la respuesta, sino ayudar al estudiante a llegar a ella por sí mismo**. Esto crea un desajuste de incentivos fundamental.
-
-## Enfoque 1: una canalización RL-SFT-RL para el razonamiento pedagógico (EduQwen)
-
-Singh et al. (2026) desarrollaron una canalización de tres etapas que transforma Qwen3-32B en EduQwen, alcanzando un **96,52%** en el punto de referencia CDPK y superando a Gemini-3 Pro (90,55%).
-
-### Etapa 1: RL inicial (EduQwen 32B-RL1)
-- **Algoritmo:** DAPO (Decoupled Advantage Policy Optimization) con recorte asimétrico
-- **[[reinforcement-learning|Modelo de recompensa]]:** prioriza las respuestas que *guían* sobre las respuestas directas
-- **Aprendizaje por currículo:** dificultad progresiva; la minería de negativos duros excluye las preguntas que el modelo base ya resuelve perfectamente
-- **Despliegues ampliados:** de 5→8 pasos para capturar decisiones pedagógicas de varios pasos
-- **Resultado:** 94,13% (ya SOTA)
-
-### Etapa 2: SFT sintético (EduQwen 32B-SFT)
-- El modelo RL1 genera 40.000 respuestas sintéticas
-- La selección basada en gradientes conserva solo los ejemplos difíciles
-- Muestreo ponderado por dificultad: preguntas fáciles → un ejemplo; preguntas difíciles → todos, con mayor peso
-- **Resultado:** 96,20%
-
-### Etapa 3: RL final (EduQwen 32B-SFT-RL2)
-- Segunda ronda de DAPO, reutilizando el conjunto original de negativos duros
-- El modelo ahora resuelve problemas que al principio le resultaban difíciles
-- **Resultado:** 96,52% (SOTA definitivo)
-
-## El punto de referencia de pedagogía: evaluar el conocimiento pedagógico
-
-Lelièvre et al. (2025) presentaron **The Pedagogy Benchmark**, que mide el conocimiento pedagógico entre dominios (CDPK) y el conocimiento sobre [[special-education|necesidades educativas especiales]] y discapacidad (SEND) a partir de exámenes reales de [[educational-development|desarrollo profesional]] docente. En **97 modelos**, la precisión osciló entre el **28% y el 89%**, lo que revela que el conocimiento pedagógico no se adquiere automáticamente en el preentrenamiento general.
-
-**Conexión con EduQwen:** el EduQwen de Singh et al. alcanzó un **96,52% en CDPK**, lo que demuestra que la optimización dirigida con RL+SFT puede cerrar la brecha de conocimiento pedagógico que documentan Lelièvre et al. El punto de referencia sirve a la vez como diagnóstico (muestra que la mayoría de los modelos falla en pedagogía) y como objetivo de entrenamiento (muestra que la optimización funciona).
-
-Las tablas de clasificación en vivo siguen las fronteras de Pareto entre coste y precisión: [rebrand.ly/pedagogy](https://rebrand.ly/pedagogy)
-
-## Enfoque 2: agentes de diseño instruccional fundamentados en la teoría (ISD-Agent-Bench)
-
-Jeon et al. (2026) crearon un punto de referencia para agentes LLM que automatizan el [[learning-design|diseño de sistemas instruccionales]] (ISD), y probaron si la teoría pedagógica clásica mejora el rendimiento del agente.
-
-| Arquitectura | Rendimiento | Por qué |
-|-------------|-------------|-----|
-| **Híbrida: teoría + ReAct** | **Mejor** | Los marcos clásicos ADDIE/Dick y Carey aportan estructura; ReAct permite un razonamiento flexible de varios pasos |
-| Solo teoría | Moderado | Estructurado pero inflexible |
-| Solo técnica (ReAct puro) | Peor | Flexible pero sin fundamento pedagógico |
-
-**Idea clave:** la calidad teórica correlaciona fuertemente con el rendimiento en el punto de referencia. Los agentes basados en la teoría destacan en el **diseño centrado en problemas** y en la **alineación entre objetivos y evaluación**.
-
-### Diseño del punto de referencia
-- **25.795 escenarios** de Context Matrix (51 variables × 5 categorías × 33 subpasos de ISD)
-- **Protocolo de múltiples jueces** entre distintos proveedores de LLM para mitigar el sesgo del LLM como juez
-- Se alcanzó una alta fiabilidad entre jueces
-
-## Enfoque 3: seguimiento de instrucciones pedagógicas (LearnLM) y postentrenamiento con datos auténticos (TeachLM)
-
-Dos estrategias complementarias de postentrenamiento para incorporar la pedagogía a los modelos fundacionales:
-
-- **Seguimiento de instrucciones pedagógicas (LearnLM).** [[learnlm-improving-gemini-learning|LearnLM de Google]] reformula el entrenamiento de modelos educativos como *seguimiento de instrucciones pedagógicas*: los ejemplos de entrenamiento y evaluación llevan instrucciones a nivel de sistema que describen el comportamiento pedagógico deseado, lo que permite a desarrolladores y docentes especificar el comportamiento del tutor sin comprometerse con una única definición de pedagogía. Mezclado directamente en el postentrenamiento de Gemini (etapas de SFT + modelo de recompensa + RLHF) mediante coentrenamiento, LearnLM fue preferido por personas expertas frente a GPT-4o (+31%), Claude 3.5 Sonnet (+11%) y Gemini 1.5 Pro base (+13%) en evaluaciones multiturno guiadas por escenarios. Hallazgo clave: **el RL es sustancialmente más eficaz que el SFT solo** para seguir instrucciones pedagógicas matizadas en conversaciones largas.
-
-- **Postentrenamiento con datos auténticos (TeachLM).** [[teachlm-post-training-llms-education|TeachLM]] sostiene que la [[prompt-engineering|ingeniería de prompts]] es un paliativo y que el ingrediente escaso son los datos *auténticos* de interacción entre quien aprende y el tutor. Entrenado con 100.000 horas de sesiones individuales de Polygence (rigurosamente anonimizadas), construye un **[[student-modeling|modelo de estudiante]] auténtico** ajustado que permite una evaluación sintética multiturno, y el modelo docente duplica el tiempo de habla del estudiante, mejora el estilo de preguntar y aumenta los turnos de diálogo un 50%.
-
-**Síntesis:** LearnLM muestra que el seguimiento de instrucciones más RLHF es una vía viable cuando los datos de entrenamiento son escasos; TeachLM muestra que cuando *sí* hay datos auténticos de interacción longitudinal, el postentrenamiento con ellos supera directamente tanto el prompting como los datos solo sintéticos. Juntos enmarcan el espacio de diseño del entrenamiento pedagógico como una elección entre un postentrenamiento escalable condicionado por instrucciones y un ajuste fino basado en datos de interacciones de tutoría reales.
-
-## El prompting guiado por rúbricas como alternativa ligera
-
-No toda configuración pedagógica requiere reentrenamiento. [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] mostraron que el prompting guiado por rúbricas —tratar la rúbrica como una interfaz semántica entre la intención pedagógica humana y la inferencia de la máquina— puede empujar a un LLM de propósito general hacia un [[evaluative-judgment|juicio evaluativo]] semejante al humano sin ajuste fino: el refitado iterativo de la rúbrica elevó la concordancia entre LLM y personas del 54,75% al 81,25% en trabajos de diseño de estudiantes (alfa de Cronbach 0,393 → 0,798), y el prompting consciente del rol (docente, revisor entre pares, revisor de subvenciones) produjo retroalimentación evaluativa distinta. Esto complementa los enfoques basados en entrenamiento anteriores: donde TeachLM sostiene que la ingeniería de prompts es un paliativo y que el postentrenamiento con datos auténticos es el ingrediente escaso, Yaşar et al. demuestran que una rúbrica bien diseñada puede ser en sí misma una palanca potente y de bajo coste para alinear la evaluación de los LLM con la intención pedagógica, aunque la supervisión [[human-in-the-loop-ai|con intervención humana]] sigue siendo esencial, ya que los modelos aún pueden malinterpretar matices, alucinar justificaciones o mezclar roles. Otra alternativa ligera es la personalización por juego de roles a nivel de prompt sin reentrenamiento: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang y Zhang (2025)]] usaron la función de GPT personalizado de OpenAI para simular a un estudiante de secundaria básica que sostiene una idea errónea, y encontraron que un prompt refinado y fundamentado en la literatura (que especificaba tres [[misconceptions|ideas erróneas]] sobre el razonamiento con razones) provocaba los errores conceptuales buscados con mucha más fiabilidad que un prompt amplio de álgebra (presencia de 0,98 frente a 0,40), evidencia de que un diseño cuidadoso del prompt puede orientar sustancialmente un modelo listo para usar hacia una persona pedagógica deseada, aun cuando el agente simulado conservaba limitaciones de autenticidad (tono de docente, confusión de roles).
-
-La intervención más ligera de esta familia no es el prompting sino la adaptación eficiente en parámetros. [[lora-finetuned-control-systems-course-qa-2026|Lu et al. (2026)]] construyeron 360 diálogos sistema–usuario–asistente a partir de un curso de Sistemas de Control Lineales, reestructuraron las respuestas en un formato Solución–Método–Puntos de Enseñanza y aplicaron LoRA a Qwen2.5-3B y 7B en rangos 4, 8 y 16. La cobertura de salida estructurada pasó de casi cero en la base a aproximadamente 1,00, y la mejor configuración (7B, r = 16) alcanzó un ROUGE-L de 0,4093 con intervalos de confianza bootstrap para la ganancia enteramente por encima de cero, pero la ganancia por millón de parámetros del adaptador cayó monótonamente a medida que subía el rango, así que la alineación a nivel de curso es una disyuntiva entre escala y rango y no una mejora gratuita. Las métricas miden similitud y formato, no precisión de derivación.
-
-## Enfoque 4: entrenar roles de simulador, no solo tutores
-
-La misma maquinaria de postentrenamiento se dirige ahora al lado del aprendiente en la interacción, y los resultados dicen que el presupuesto de supervisión importa más que el prompt. [[misconception-acquisition-dynamics-llms-2026|Liu et al. (2026)]] ajustaron con instrucciones tres modelos pequeños para *adquirir* ideas erróneas de álgebra en dos roles —un Modelo de Estudiante Novato con Ideas Erróneas que sostiene una sola idea errónea, y un Modelo de Tutor Experto con Ideas Erróneas que sostiene diez— y midieron tanto la precisión de las ideas erróneas como la de resolución correcta. El rol de estudiante mostró una disyuntiva que ningún prompt podía arreglar: el error aprendido se sobregeneralizaba más allá de sus tipos de problema aplicables hasta que se mezclaron explícitamente ejemplos correctos en los datos de entrenamiento, en proporciones tan bajas como un ejemplo correcto por cada cuatro de ideas erróneas. El rol de tutor no mostró ese coste, con una precisión correcta estable o en aumento del 93% al 98% cuando se entrenaron conjuntamente diez ideas erróneas, aunque las muestras a escala de aula fueron insuficientes y las ideas erróneas poco frecuentes requerirían datos de varias instituciones. De forma más concluyente, ninguno de los dos roles adquirió nada cuando se entrenó solo con respuestas finales —la precisión de las ideas erróneas se mantuvo por debajo del 30% en todos los tamaños de datos—, así que los rastros de solución paso a paso, y no más ejemplos, son el requisito limitante. [[swim-student-writing-simulation-2026|SWIM (Do, Kontak y Sachan, 2026)]] llega a la conclusión espejo para un simulador de escritura: el prompting fundamentado en rúbricas dio un control limitado de la competencia (mejor QWK medio por rasgo de 0,577 para Claude Sonnet, 0,422 para GPT-5.4, y casi cero al pedírselo a un modelo abierto de 7B), el ajuste fino supervisado elevó un modelo de 7B a 0,474 ± 0,023, y el GRPO contra una recompensa derivada de la puntuación automática de ensayos lo elevó aún más a 0,618 ± 0,005 en todos los rasgos y prompts, con la recompensa diseñada como una precisión densa normalizada por rasgo porque las recompensas de coincidencia exacta son demasiado dispersas en el entorno de múltiples rasgos.
-
-## Síntesis: qué hace que funcione el entrenamiento pedagógico
-
-| Principio | EduQwen | ISD-Agent-Bench |
-|-----------|---------|-----------------|
-| **Recompensar y guiar, no responder** | El modelo de recompensa DAPO penaliza las soluciones directas | Los pasos de ISD exigidos por la teoría requieren alineación entre objetivos y evaluación |
-| **Currículo por dificultad** | Minería de negativos duros + despliegues progresivos | Context Matrix varía sistemáticamente la complejidad |
-| **Razonamiento de varios pasos** | Despliegues ampliados (5→8 pasos) | Cadenas de razonamiento estilo ReAct |
-| **Validar con teoría** | El punto de referencia CDPK mide el conocimiento pedagógico | Los marcos ADDIE/Dick y Carey fundamentan las decisiones de diseño |
-| **Refinamiento iterativo** | Canalización RL → SFT → RL | La evaluación con múltiples jueces reduce el sesgo |
-
-## Relación con la seguridad y el diseño
-
-Entrenar para la pedagogía no es solo cuestión de precisión: es una **intervención de seguridad**:
-- Un modelo que recompensa «guiar» por encima de «responder» es menos probable que incurra en los [[hazra-safetutors-pedagogical-safety-2026|daños de la divulgación excesiva de respuestas]]
-- Los agentes fundamentados en la teoría (ISD-Agent-Bench) se alinean con principios pedagógicos que previenen la [[metacognition|supresión metacognitiva]]
-- Sin embargo, entrenar con [[benchmark|puntos de referencia]] pedagógicos no garantiza la seguridad multiturno; SafeTutors muestra que incluso los modelos especializados se degradan en un diálogo sostenido
-- **La fundamentación y la validación pueden sustituir al entrenamiento o complementarlo.** [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora y MacLellan (2025)]] encontraron que un GPT-4 de frontera *sin entrenar* producía pistas un ~35% demasiado generales, incorrectas o que revelaban la respuesta al redactar retroalimentación para un sistema de tutoría inteligente, y que sus propias comprobaciones automáticas de calidad no se alineaban con el juicio humano, lo que llevó a los autores a concluir que los LLM carecen de un modelo interno de la instrucción y que se requiere una validación sólida o un entrenamiento específico de dominio antes de usarlos sin supervisión con aprendientes, lo que respalda la idea de que la fundamentación y el control de calidad son en sí mismos intervenciones pedagógicas junto al diseño de recompensas.
-
-### La reducción de la adulación como objetivo de entrenamiento
-
-Como la tutoría requiere fricción correctiva —cuestionar una afirmación incorrecta del estudiante en lugar de reafirmarla—, reducir la [[ai-sycophancy|adulación]] es un objetivo central del entrenamiento pedagógico de LLM. [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] muestra que los modelos que resisten ataques de cambio de contexto igual se rinden ante la presión de la autoridad o la presión social [[affective-computing|afectiva]], y retienen la retroalimentación correctiva; sus autores sostienen que el comportamiento «amable pero correcto» debería ser un requisito explícito de entrenamiento y no una preferencia de [[usability-research|usabilidad]]. El entrenamiento que recompensa guiar por encima de responder (como en el modelo de recompensa DAPO de EduQwen) es una palanca estructural contra la respuesta aduladora. Sin embargo, la [[contextual-sycophancy-ai-literacy|adulación contextual]] persiste incluso después del prompting o del entrenamiento de alineación —los errores de quienes aprenden siguen propagándose al consejo de la IA—, así que la mitigación de la adulación en tutores entrenados debe combinar diseño de recompensas, alineación frente a puntos de referencia de adulación y salvaguardas a nivel de sistema, en lugar de depender de una sola etapa.
-
-## Preguntas abiertas
-
-1. ¿El entrenamiento pedagógico con RL generaliza entre asignaturas, o siempre se necesita un ajuste [[discipline-specific-aied|específico de la materia]] (como sugiere SafeTutors)?
-2. ¿Puede combinarse la canalización RL-SFT-RL con memoria longitudinal (véase [[nie-personavlm-long-term-personalization-2026]]) para una tutoría personalizada?
-3. ¿Mejoraría la teoría de los agentes ISD la conversación general de tutoría, o se limita al [[curriculum-design|diseño curricular]] de nivel macro?
-
-## Conceptos conectados
-
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[adaptive-learning]]
-- [[metacognition]]
-- [[affective-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[personalized-learning]]
-- [[student-modeling]]
-- [[self-regulated-learning]]
-- [[pedagogical-safety]]
-- [[formative-assessment]]
-- [[llm]]
-- [[authentic-assessment]]
-- [[ai-sycophancy]]
-- [[ai-feedback-quality]]
-- [[bias-mitigation]]
-- [[ai-technologies]] — Paraguas: tecnologías y técnicas de IA (modelos, entrenamiento de LLM, robótica, RAG, agentes)
-
-## Artículos conectados
-
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[civic-education-ai-lesson-plans]]
-- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]]
-- [[contextual-sycophancy-ai-literacy]]
-- [[educational-llm-alignment]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[llm-tts-dialogue-lesson-generation]]
-- [[multimodal-learning-genai]]
-- [[neural-symbolic-knowledge-tracing]]
-- [[nsmq-riddles-science-math-benchmark]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]] — La adulación es un riesgo de seguridad educativa: por qué los tutores LLM necesitan puntos de referencia de adulación
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: mejorar Gemini para el aprendizaje
-- [[teachlm-post-training-llms-education]] — TeachLM: postentrenamiento de LLM para la educación con datos de aprendizaje auténticos
-- [[yasar-llms-iterative-pedagogical-design-2026]] — Los LLM como agentes de diseño pedagógico iterativo
-- [[reddig-maclellan-personalized-feedback-llm-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[lora-finetuned-control-systems-course-qa-2026]] — Modelos ajustados con LoRA para preguntas y respuestas de un curso de sistemas de control: una evaluación multidimensional de la escala del modelo y los efectos del rango
-- [[misconception-acquisition-dynamics-llms-2026]] — Composición de datos, mezcla de ejemplos correctos y supervisión paso a paso para modelos conscientes de las ideas erróneas
-- [[swim-student-writing-simulation-2026]] — El entrenamiento supervisado y basado en recompensas superó al prompting con rúbricas para el control de la competencia
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: modelos fundacionales abiertos para el aprendizaje y la enseñanza
 
 ---
 
@@ -11978,7 +11978,7 @@ La tutoría afectiva se cruza con [[hazra-safetutors-pedagogical-safety-2026|Saf
 
 ## Conceptos conectados
 
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[intelligent-tutoring]]
 - [[personalized-learning]]
 - [[adaptive-learning]]
@@ -12052,7 +12052,7 @@ La computación afectiva se sitúa en la intersección de la [[affective-tutorin
 - [[student-modeling]]
 - [[math-education]]
 - [[open-source]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[ai-sycophancy]]
 - [[social-emotional-learning]] — Aprendizaje socioemocional
 ## Artículos conectados
@@ -12468,7 +12468,7 @@ La calidad ya no es el precio automático de la apertura. [[singh-eduqwen-pedago
 
 ### Herramientas, tutores e infraestructura de investigación abiertos
 
-El caso más claro a favor del código abierto es la replicación. [[oatutor-open-source-adaptive-tutor-2023|OATutor]] —el primer sistema de tutoría adaptativa totalmente abierto construido sobre principios de ITS— combina un **código con licencia MIT** con una **biblioteca de contenido Creative Commons (CC BY)** procedente de los manuales de álgebra de OpenStax, además de [[knowledge-tracing|traza de conocimiento]], pruebas A/B y soporte LTI; su objetivo de diseño explícito es que una persona investigadora pueda ejecutar un experimento y luego publicar todo el marco, el contenido y la plataforma de extremo a extremo como un enlace a un repositorio. [[stanbkt-bayesian-knowledge-tracing|StanBKT]] defiende lo mismo en la capa de método, sustituyendo las estimaciones puntuales por maximización de la expectativa por inferencia bayesiana completa (HMC, inferencia variacional, Pathfinder, optimización) en un paquete abierto de Python que expone la incertidumbre de la que dependen las comparaciones A/B de intervenciones adaptativas. [[deeptutor|DeepTutor]] publica un marco completo de tutoría [[agentic-ai|agéntica]] con una memoria de estudiante en forma de bosque de trazas —Apache 2.0, y para finales de 2026 un espacio de trabajo de aprendizaje completo y no solo los flujos que evalúa su artículo— y el generador de aulas OpenMAIC de [[mooc-to-maic|MAIC]] se distribuye bajo MIT junto con el estudio que lo evalúa, de modo que un curso puede generarse, autoalojarse e inspeccionarse en lugar de solo leerse; [[vismatic-secure-sandbox-cs-education|VISMATIC]] publica su sandbox en contenedores para la monitorización orientada a procesos, de modo que otras instituciones puedan adoptar el modelo de integridad y no la versión del proveedor. El código abierto también conlleva la carga de transparencia: los scripts de los prompts de tutoría afectiva de [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] se publican para su inspección y para más trabajo de [[pedagogical-llm-training|entrenamiento pedagógico]]. La infraestructura abierta fija el punto de referencia de lo que deberían hacer los agentes educativos: la [[agentic-ai-education-scoping-review|revisión de alcance de 474 estudios sobre IA agéntica]] de la base de conocimiento usa un proyecto de agentes de código abierto en rápido crecimiento como su punto de referencia del «paradigma de agente de frontera» y encuentra que los sistemas educativos siguen careciendo de orquestación de herramientas gobernada, memoria persistente, planificación de horizonte largo y acción auditable.
+El caso más claro a favor del código abierto es la replicación. [[oatutor-open-source-adaptive-tutor-2023|OATutor]] —el primer sistema de tutoría adaptativa totalmente abierto construido sobre principios de ITS— combina un **código con licencia MIT** con una **biblioteca de contenido Creative Commons (CC BY)** procedente de los manuales de álgebra de OpenStax, además de [[knowledge-tracing|traza de conocimiento]], pruebas A/B y soporte LTI; su objetivo de diseño explícito es que una persona investigadora pueda ejecutar un experimento y luego publicar todo el marco, el contenido y la plataforma de extremo a extremo como un enlace a un repositorio. [[stanbkt-bayesian-knowledge-tracing|StanBKT]] defiende lo mismo en la capa de método, sustituyendo las estimaciones puntuales por maximización de la expectativa por inferencia bayesiana completa (HMC, inferencia variacional, Pathfinder, optimización) en un paquete abierto de Python que expone la incertidumbre de la que dependen las comparaciones A/B de intervenciones adaptativas. [[deeptutor|DeepTutor]] publica un marco completo de tutoría [[agentic-ai|agéntica]] con una memoria de estudiante en forma de bosque de trazas —Apache 2.0, y para finales de 2026 un espacio de trabajo de aprendizaje completo y no solo los flujos que evalúa su artículo— y el generador de aulas OpenMAIC de [[mooc-to-maic|MAIC]] se distribuye bajo MIT junto con el estudio que lo evalúa, de modo que un curso puede generarse, autoalojarse e inspeccionarse en lugar de solo leerse; [[vismatic-secure-sandbox-cs-education|VISMATIC]] publica su sandbox en contenedores para la monitorización orientada a procesos, de modo que otras instituciones puedan adoptar el modelo de integridad y no la versión del proveedor. El código abierto también conlleva la carga de transparencia: los scripts de los prompts de tutoría afectiva de [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] se publican para su inspección y para más trabajo de [[llm-training-and-fine-tuning|entrenamiento pedagógico]]. La infraestructura abierta fija el punto de referencia de lo que deberían hacer los agentes educativos: la [[agentic-ai-education-scoping-review|revisión de alcance de 474 estudios sobre IA agéntica]] de la base de conocimiento usa un proyecto de agentes de código abierto en rápido crecimiento como su punto de referencia del «paradigma de agente de frontera» y encuentra que los sistemas educativos siguen careciendo de orquestación de herramientas gobernada, memoria persistente, planificación de horizonte largo y acción auditable.
 
 ### Puntos de referencia, conjuntos de datos y transparencia de método abiertos
 
@@ -12493,7 +12493,7 @@ La apertura del contenido y la apertura de los modelos también son complementar
 ## Conceptos conectados
 
 - [[intelligent-tutoring]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[adaptive-learning]]
 - [[edtech-platform]]
 - [[privacy]]
@@ -16969,7 +16969,7 @@ Las dos caras convergen bajo la IA generativa, porque la herramienta ataca el v�
 
 Donde el trabajo puede producirse a demanda, un ensayo sólido ya no demuestra el juicio que hay detrás, y pedir a un estudiante que evalúe un borrador que no escribió es una tarea distinta de evaluar uno propio. Por eso los argumentos sobre la [[assessment-validity|validez de la evaluación]] se han desplazado de la detección al rediseño, y por eso la autoevaluación pasa de ser una ayuda de estudio a ser un componente del propio diseño de la evaluación: el juicio que un estudiante hace sobre una pieza de salida de IA, registrado y con razones, es evidencia de un modo en que la salida no lo es.
 
-También introduce un riesgo de denominación que conviene enunciar con claridad. La **autoevaluación de la IA** no es este concepto. Cuando un artículo informa de que un modelo evalúa su propio razonamiento o califica su propia salida, eso es evaluación de modelos y corresponde a la [[automated-assessment|evaluación automatizada]] y al estudio del [[pedagogical-llm-training|entrenamiento de modelos]] y de los aprendices simulados; un estudio de tutoría plantea la versión práctica del punto al sostener que la retroalimentación debería condicionarse a un clasificador diagnóstico separado y no a la validez del razonamiento autoevaluada por el modelo. La autoevaluación de quien aprende y la autoevaluación de un modelo comparten un vocabulario y nada más.
+También introduce un riesgo de denominación que conviene enunciar con claridad. La **autoevaluación de la IA** no es este concepto. Cuando un artículo informa de que un modelo evalúa su propio razonamiento o califica su propia salida, eso es evaluación de modelos y corresponde a la [[automated-assessment|evaluación automatizada]] y al estudio del [[llm-training-and-fine-tuning|entrenamiento de modelos]] y de los aprendices simulados; un estudio de tutoría plantea la versión práctica del punto al sostener que la retroalimentación debería condicionarse a un clasificador diagnóstico separado y no a la validez del razonamiento autoevaluada por el modelo. La autoevaluación de quien aprende y la autoevaluación de un modelo comparten un vocabulario y nada más.
 
 ## Implicaciones para la práctica
 
@@ -19482,7 +19482,7 @@ La velocidad de los sistemas que se evalúan es otra restricción. [[ai-tutoring
 
 ### Conexiones con conceptos relacionados
 
-La evaluación de la IA en educación se sitúa en el centro de los métodos y los riesgos de la base de conocimiento. Operacionaliza la [[assessment-validity|validez de la evaluación]], la [[educational-measurement|medición educativa]] y el [[benchmark|punto de referencia]] dentro de la [[assessment|evaluación]] y la [[automated-assessment|evaluación automatizada]]. Su llamada a la supervisión humana conecta con la [[human-in-the-loop-ai|IA con la persona en el bucle]] y el [[teacher-role|rol docente]], mientras que su atención a la fiabilidad conecta con el [[hallucination-risk|riesgo de alucinación]], la [[automated-assessment|evaluación con IA consciente de la confianza]] y la [[trust-calibration|calibración de la confianza]]. La distinción entre evaluar el rendimiento y evaluar el aprendizaje enlaza con [[genai-performance-vs-learning|rendimiento frente a aprendizaje]] y con el [[student-modeling|modelado del estudiante]]; y la evaluación de agentes pedagógicos conecta con la [[intelligent-tutoring|tutoría inteligente]], el [[pedagogical-llm-training|entrenamiento pedagógico de LLM]] y la [[pedagogical-safety|seguridad pedagógica]].
+La evaluación de la IA en educación se sitúa en el centro de los métodos y los riesgos de la base de conocimiento. Operacionaliza la [[assessment-validity|validez de la evaluación]], la [[educational-measurement|medición educativa]] y el [[benchmark|punto de referencia]] dentro de la [[assessment|evaluación]] y la [[automated-assessment|evaluación automatizada]]. Su llamada a la supervisión humana conecta con la [[human-in-the-loop-ai|IA con la persona en el bucle]] y el [[teacher-role|rol docente]], mientras que su atención a la fiabilidad conecta con el [[hallucination-risk|riesgo de alucinación]], la [[automated-assessment|evaluación con IA consciente de la confianza]] y la [[trust-calibration|calibración de la confianza]]. La distinción entre evaluar el rendimiento y evaluar el aprendizaje enlaza con [[genai-performance-vs-learning|rendimiento frente a aprendizaje]] y con el [[student-modeling|modelado del estudiante]]; y la evaluación de agentes pedagógicos conecta con la [[intelligent-tutoring|tutoría inteligente]], el [[llm-training-and-fine-tuning|entrenamiento pedagógico de LLM]] y la [[pedagogical-safety|seguridad pedagógica]].
 
 ### Evaluación de las mejoras de aprendizaje
 
@@ -20983,7 +20983,7 @@ La investigación recogida en esta base de conocimiento ilustra varias estrategi
 La mitigación de sesgos no es una solución única, sino un proceso continuo que recorre la canalización:
 
 1. **Curación de datos** — diversificar los datos de entrenamiento y auditar las etiquetas en busca de brechas basadas en la identidad y anotaciones injustas.
-2. **[[pedagogical-llm-training|Entrenamiento del modelo]]** — aplicar objetivos de desesgado y de equidad (por ejemplo, GroupDRO, estimadores doblemente robustos).
+2. **[[llm-training-and-fine-tuning|Entrenamiento del modelo]]** — aplicar objetivos de desesgado y de equidad (por ejemplo, GroupDRO, estimadores doblemente robustos).
 3. **Diseño del prompt y del sistema** — diseñar prompts y sistemas neutros que no respondan de forma diferencial a la [[learner-identity|identidad de quien aprende]].
 4. **Calificación y evaluación** — validar que la calificación automatizada mide la comprensión y no el lenguaje ni proxies demográficos.
 5. **Evaluación y auditoría** — auditar los modelos en distintas condiciones identitarias (idioma, género, cultura) y exigir explicabilidad para sacar a la luz el sesgo.
@@ -22191,7 +22191,7 @@ La [[rag|generación aumentada por recuperación]] ancla las respuestas del tuto
 
 ### 3. Controles y entrenamiento a nivel de modelo
 
-- **Ajuste fino / postentrenamiento:** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] usa aprendizaje por refuerzo para priorizar el aprendizaje guiado sobre el hecho de dar respuestas; [[tact-pedagogically-adaptive-esl-tutoring|TACT]] alinea el postentrenamiento con una taxonomía de estrategias de tutoría mediante GRPO para que los modelos andamien en lugar de limitarse a responder. Es el enfoque del [[pedagogical-llm-training|entrenamiento pedagógico de LLM]] para incorporar la seguridad al comportamiento.
+- **Ajuste fino / postentrenamiento:** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] usa aprendizaje por refuerzo para priorizar el aprendizaje guiado sobre el hecho de dar respuestas; [[tact-pedagogically-adaptive-esl-tutoring|TACT]] alinea el postentrenamiento con una taxonomía de estrategias de tutoría mediante GRPO para que los modelos andamien en lugar de limitarse a responder. Es el enfoque del [[llm-training-and-fine-tuning|entrenamiento pedagógico de LLM]] para incorporar la seguridad al comportamiento.
 - **Desaprendizaje:** el [[llm-unlearning-math-privacy|desaprendizaje en matemáticas]] aplica desaprendizaje basado en gradientes para eliminar información de identificación personal y contenido dañino de los tutores de matemáticas (salida de datos personales reducida al 0,1% y tasas de toxicidad al 0,0%) conservando la utilidad posterior, una salvaguarda de [[privacy|privacidad]] y seguridad a nivel de modelo.
 - **Modelización de recompensas en el aprendizaje por refuerzo:** [[pedagogical-safety-rl|la seguridad pedagógica en el aprendizaje por refuerzo]] formaliza cómo las recompensas mal especificadas invitan al «hackeo de recompensas» (inflación de puntuaciones en pruebas, manipulación de la [[student-engagement|implicación]]), y propone un modelo de cuatro capas y su detección mediante auditoría de discrepancias e inversión de políticas.
 
@@ -22231,7 +22231,7 @@ Los dos están estrechamente acoplados: casi todas las técnicas de salvaguarda 
 - [[prompt-engineering]] — la técnica de diseño «pista, no respuesta»
 - [[rag]] — el anclaje en conocimiento como salvaguarda
 - [[human-in-the-loop-ai]] — el control de calidad y la supervisión del profesorado
-- [[pedagogical-llm-training]] — la capa de entrenamiento y alineación
+- [[llm-training-and-fine-tuning]] — la capa de entrenamiento y alineación
 - [[reinforcement-learning]] — modelización de recompensas para un comportamiento seguro
 - [[bias-mitigation]] — auditar las salvaguardas en términos de justicia
 - [[ai-sycophancy]] — el riesgo de manipulación que deben resistir las salvaguardas
@@ -22288,7 +22288,7 @@ Los dos están estrechamente acoplados: casi todas las técnicas de salvaguarda 
 
 ## Introducción
 
-La privacidad es la condición previa para una IA digna de confianza en la educación. Como los sistemas de IA mejoran con datos —la [[personalized-learning|personalización]] exige perfiles detallados de quien aprende, la [[learning-analytics|analítica del aprendizaje]] exige registros granulares de interacción y los [[pedagogical-llm-training|modelos de tutoría ajustados]] exigen transcripciones auténticas de las interacciones entre estudiantado y tutor—, los mismos datos que hacen posible una educación adaptativa y escalable también crean riesgo de vigilancia, mal uso y daño. La base de conocimiento trata la privacidad como algo inseparable de la [[ethics|ética]] (el marco normativo), la [[regulation|regulación]] (los requisitos legales), la [[governance|gobernanza]] (la responsabilidad institucional) y la [[equity-in-ai-education|equidad]] (quién queda protegido y quién expuesto). Sus artículos sobre privacidad se agrupan en torno a cuatro problemas recurrentes: la recopilación a escala, el consentimiento y la transparencia, la seguridad y el anonimato, y las protecciones específicas que se deben a la infancia.
+La privacidad es la condición previa para una IA digna de confianza en la educación. Como los sistemas de IA mejoran con datos —la [[personalized-learning|personalización]] exige perfiles detallados de quien aprende, la [[learning-analytics|analítica del aprendizaje]] exige registros granulares de interacción y los [[llm-training-and-fine-tuning|modelos de tutoría ajustados]] exigen transcripciones auténticas de las interacciones entre estudiantado y tutor—, los mismos datos que hacen posible una educación adaptativa y escalable también crean riesgo de vigilancia, mal uso y daño. La base de conocimiento trata la privacidad como algo inseparable de la [[ethics|ética]] (el marco normativo), la [[regulation|regulación]] (los requisitos legales), la [[governance|gobernanza]] (la responsabilidad institucional) y la [[equity-in-ai-education|equidad]] (quién queda protegido y quién expuesto). Sus artículos sobre privacidad se agrupan en torno a cuatro problemas recurrentes: la recopilación a escala, el consentimiento y la transparencia, la seguridad y el anonimato, y las protecciones específicas que se deben a la infancia.
 
 ## Los retos centrales de la privacidad
 
@@ -22463,7 +22463,7 @@ La sicofancia se sitúa en la intersección del comportamiento de la [[generativ
 
 ## Conexiones con conceptos relacionados
 
-La sicofancia está estrechamente ligada a la [[cognitive-offloading|dependencia cognitiva]] y a la [[llm-fallacy-misattribution|falacia del LLM y la atribución errónea de competencia]] (el estudiantado puede atribuir a su propia competencia la afirmación de una IA sicofántica), a la [[feedback|retroalimentación]] y a la [[ai-feedback-quality|calidad de la retroalimentación de la IA]] (la retroalimentación debe a veces cuestionar, no solo apoyar), a la [[trust|confianza]] y a la [[trust-calibration|calibración de la confianza]] (la confianza acrítica habilita el bucle de errores), a la [[bias-mitigation|mitigación de sesgos]] y al [[hallucination-risk|riesgo de alucinación]], y a la [[ai-literacy|alfabetización en IA]] (hay que enseñar a quienes aprenden a reconocer y resistir la aquiescencia sicofántica). Su mitigación —tutoría amable pero correcta, independencia epistémica, evaluación basada en puntos de referencia— es un objetivo de diseño central de la [[pedagogical-safety|seguridad pedagógica]], el [[pedagogical-llm-training|entrenamiento pedagógico de LLM]] y la [[educational-llm-alignment|alineación educativa de LLM]].
+La sicofancia está estrechamente ligada a la [[cognitive-offloading|dependencia cognitiva]] y a la [[llm-fallacy-misattribution|falacia del LLM y la atribución errónea de competencia]] (el estudiantado puede atribuir a su propia competencia la afirmación de una IA sicofántica), a la [[feedback|retroalimentación]] y a la [[ai-feedback-quality|calidad de la retroalimentación de la IA]] (la retroalimentación debe a veces cuestionar, no solo apoyar), a la [[trust|confianza]] y a la [[trust-calibration|calibración de la confianza]] (la confianza acrítica habilita el bucle de errores), a la [[bias-mitigation|mitigación de sesgos]] y al [[hallucination-risk|riesgo de alucinación]], y a la [[ai-literacy|alfabetización en IA]] (hay que enseñar a quienes aprenden a reconocer y resistir la aquiescencia sicofántica). Su mitigación —tutoría amable pero correcta, independencia epistémica, evaluación basada en puntos de referencia— es un objetivo de diseño central de la [[pedagogical-safety|seguridad pedagógica]], el [[llm-training-and-fine-tuning|entrenamiento pedagógico de LLM]] y la [[educational-llm-alignment|alineación educativa de LLM]].
 
 **La sicofancia como pérdida de la retroalimentación correctiva.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom e Inzlicht (2026)]] identifican el coste funcional de la sicofancia en lugar de limitarse a señalar el comportamiento: las amistades y parejas reales discrepan, cuestionan nuestras opiniones y nos decepcionan, que es precisamente la *retroalimentación correctiva* de la que carecen los acompañantes de IA sicofánticos, y esa fricción es lo que hace robustas las relaciones y les da una historia compartida. Citan evidencia de que los acompañantes de IA están de acuerdo con casi todo, «incluso cuando decimos y creemos cosas peligrosas» (Ibrahim, Hafner y Rocher 2025), y señalan una asimetría relacionada en las valoraciones de empatía: las respuestas empáticas generadas por IA se valoran como de mayor calidad que las humanas hasta que quien las recibe descubre que su interlocutor es una IA. Para la educación, la implicación es que un sistema optimizado para la calidez y el acuerdo elimina la señal de error que necesita quien aprende, de modo que la sicofancia es un problema de diseño con un coste [[pedagogy|pedagógico]] y no solo un defecto de cortesía ([[trust-calibration]], [[feedback-literacy]]).
 
@@ -22489,7 +22489,7 @@ La sicofancia está estrechamente ligada a la [[cognitive-offloading|dependencia
 - [[ai-literacy]]
 - [[bias-mitigation]]
 - [[hallucination-risk]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[simulating-students]]
 - [[student-modeling]]
 - [[misconceptions]]
@@ -22962,11 +22962,11 @@ La seguridad convencional de los [[llm|LLM]] —filtros de toxicidad, resistenci
 
 ### Orientación práctica
 
-Diseñe la seguridad pedagógica como un requisito medible y consciente de la disciplina, y no como algo añadido a posteriori. Evalúe con [[benchmark|puntos de referencia]] multiturno y [[discipline-specific-aied|específicos de la materia]] y con auditorías de trato injusto, y no con filtros de toxicidad de un solo turno; fundamente las respuestas con [[rag|RAG]]; prefiera [[pedagogical-llm-training|métodos de alineación]] que recompensen la guía y el andamiaje por encima de dar respuestas; y exija control de calidad [[human-in-the-loop-ai|con el docente en el circuito]] antes del despliegue. Para [[k-12|K-12]] en especial, trate la [[ai-sycophancy|adulación]], el rechazo diferencial y la [[cognitive-offloading|dependencia excesiva]] como preocupaciones de seguridad de primer orden junto al contenido y el [[hallucination-risk|riesgo de alucinación]]. Los marcos de diseño hacen esto concreto: [[ssail-safe-sound-ai-learning-2026|SSAIL]] (Rahimi, 2026) reformula la seguridad en torno a las competencias de quien aprende —la Seguridad del Aprendizaje protege el desarrollo, el mantenimiento y la demostración válida de capacidades humanas valiosas (razonamiento, disposiciones epistémicas, [[agency|agencia]]) frente a daños previsibles, mientras que la Solidez del Aprendizaje asegura que la herramienta apoye de verdad ese desarrollo— y operacionaliza ambas mediante un diseño centrado en la evidencia, asignando deliberadamente qué debe hacer quien aprende y qué puede hacer la IA a medida que se desarrolla.
+Diseñe la seguridad pedagógica como un requisito medible y consciente de la disciplina, y no como algo añadido a posteriori. Evalúe con [[benchmark|puntos de referencia]] multiturno y [[discipline-specific-aied|específicos de la materia]] y con auditorías de trato injusto, y no con filtros de toxicidad de un solo turno; fundamente las respuestas con [[rag|RAG]]; prefiera [[llm-training-and-fine-tuning|métodos de alineación]] que recompensen la guía y el andamiaje por encima de dar respuestas; y exija control de calidad [[human-in-the-loop-ai|con el docente en el circuito]] antes del despliegue. Para [[k-12|K-12]] en especial, trate la [[ai-sycophancy|adulación]], el rechazo diferencial y la [[cognitive-offloading|dependencia excesiva]] como preocupaciones de seguridad de primer orden junto al contenido y el [[hallucination-risk|riesgo de alucinación]]. Los marcos de diseño hacen esto concreto: [[ssail-safe-sound-ai-learning-2026|SSAIL]] (Rahimi, 2026) reformula la seguridad en torno a las competencias de quien aprende —la Seguridad del Aprendizaje protege el desarrollo, el mantenimiento y la demostración válida de capacidades humanas valiosas (razonamiento, disposiciones epistémicas, [[agency|agencia]]) frente a daños previsibles, mientras que la Solidez del Aprendizaje asegura que la herramienta apoye de verdad ese desarrollo— y operacionaliza ambas mediante un diseño centrado en la evidencia, asignando deliberadamente qué debe hacer quien aprende y qué puede hacer la IA a medida que se desarrolla.
 
 ### Conexiones con conceptos relacionados
 
-La seguridad pedagógica es la capa protectora que conecta el [[hallucination-risk|riesgo de alucinación]], la [[rag|RAG]], [[k-12|K-12]], la [[ethics|ética]], la [[governance|gobernanza]], la [[regulation|regulación]] y los [[llm|LLM]] con las preocupaciones a nivel de interacción de la [[trust|confianza]], el [[scaffolding|andamiaje]], la [[metacognition|metacognición]] y el [[self-regulated-learning|aprendizaje autorregulado]]. Opera a través del [[pedagogical-llm-training|entrenamiento]] y el [[reinforcement-learning|RL]], depende de la [[bias-mitigation|mitigación de sesgos]] y la [[equity-in-ai-education|equidad]], y está motivada por los daños catalogados en [[ai-misuse-learning-harm|mal uso de la IA y daño al aprendizaje]] y las [[hazra-safetutors-pedagogical-safety-2026|taxonomías de daños de los tutores]].
+La seguridad pedagógica es la capa protectora que conecta el [[hallucination-risk|riesgo de alucinación]], la [[rag|RAG]], [[k-12|K-12]], la [[ethics|ética]], la [[governance|gobernanza]], la [[regulation|regulación]] y los [[llm|LLM]] con las preocupaciones a nivel de interacción de la [[trust|confianza]], el [[scaffolding|andamiaje]], la [[metacognition|metacognición]] y el [[self-regulated-learning|aprendizaje autorregulado]]. Opera a través del [[llm-training-and-fine-tuning|entrenamiento]] y el [[reinforcement-learning|RL]], depende de la [[bias-mitigation|mitigación de sesgos]] y la [[equity-in-ai-education|equidad]], y está motivada por los daños catalogados en [[ai-misuse-learning-harm|mal uso de la IA y daño al aprendizaje]] y las [[hazra-safetutors-pedagogical-safety-2026|taxonomías de daños de los tutores]].
 
 ## Conceptos conectados
 - [[guardrails]] — los mecanismos de diseño que implementan la seguridad
@@ -22978,7 +22978,7 @@ La seguridad pedagógica es la capa protectora que conecta el [[hallucination-ri
 - [[governance]]
 - [[llm]]
 - [[cognitive-offloading]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[intelligent-tutoring]]
 - [[bias-mitigation]]
 - [[reinforcement-learning]]
@@ -23528,7 +23528,7 @@ Un modelo más grande puede resolver problemas más difíciles y, aun así, no l
 
 El comportamiento pedagógico debe diseñarse de forma explícita, fundamentarse en la [[learning-theories|teoría del aprendizaje]], probarse con distintos grupos de estudiantes y supervisarse durante un uso sostenido. La elección del modelo importa, pero la capa de diseño instruccional sigue siendo esencial. Un [[reichert-human-centered-llm-chatbot-design-teachers-2026|estudio de diseño participativo con seis docentes de secundaria]] sugiere que la seguridad proviene del alcance y la supervisión más que de la escala: los docentes diseñaron de forma independiente «expertos acotados», una capacidad especializada confinada a un dominio estrictamente definido y bajo supervisión humana, trazando dos líneas de límite (límites de autoridad, porque la responsabilidad del aprendizaje y la seguridad del estudiantado no puede delegarse, y límites de especialidad, porque la IA carece de conocimiento contextual de cada estudiante y de las normas del aula) y tres capas de protección (límites de dominio, filtrado de contenido con rechazos estandarizados y anulación por parte del profesorado). Pidieron registro completo de las conversaciones y alertas en tiempo real en lugar de mejores explicaciones del modelo.
 
-Véanse [[learning-design|Diseño del aprendizaje]], [[pedagogical-llm-training|Entrenamiento pedagógico de modelos de lenguaje]], [[pedagogical-safety|Seguridad pedagógica]] y [[reichert-human-centered-llm-chatbot-design-teachers-2026|diseño de chatbots de expertos acotados]].
+Véanse [[learning-design|Diseño del aprendizaje]], [[llm-training-and-fine-tuning|Entrenamiento pedagógico de modelos de lenguaje]], [[pedagogical-safety|Seguridad pedagógica]] y [[reichert-human-centered-llm-chatbot-design-teachers-2026|diseño de chatbots de expertos acotados]].
 
 ---
 
@@ -24728,6 +24728,100 @@ El objetivo no es un curso en el que la IA no pueda participar. Es un curso en e
 
 ---
 
+## [¿Cómo sabemos que una IA educativa funciona correctamente y no solo que puntúa bien?](https://edtechdev.github.io/aied/faqs/checking-whether-educational-ai-works/)
+
+*Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
+
+# ¿Cómo sabemos que una IA educativa funciona correctamente y no solo que puntúa bien?
+
+Una IA educativa puede parecer que funciona cuando no lo hace. Las puntuaciones que más se ven —cuán parecida es la respuesta del modelo a una correcta, o cuán cerca quedan sus calificaciones de las de una persona— pueden verse sólidas mientras lo que a usted le importa de verdad está roto.
+
+En un proyecto de esta base de conocimiento, el mismo sistema obtuvo una buena puntuación de concordancia al calificar ensayos y, en el mismo despliegue, produjo retroalimentación cortada a mitad de frase e ilegible. La calificación funcionaba. La retroalimentación no. Nada en el número titular lo indicaba.
+
+Esta página trata de distinguir una cosa de la otra, y no supone ningún conocimiento previo de medición.
+
+## Qué miden en realidad las puntuaciones habituales
+
+Dos tipos de número dominan esta literatura, y ambos miden **parecido y no corrección**.
+
+- **Puntuaciones de similitud** (las verá llamadas ROUGE y BLEU) comparan la redacción de la respuesta del modelo con la redacción de una respuesta de referencia. Un modelo que escribe algo cercano al texto esperado puntúa bien, aunque su razonamiento sea incorrecto y aunque un estudiante pudiera llegar a la respuesta correcta por una vía que no enseña nada.
+- **Puntuaciones de concordancia** (las verá como QWK, o kappa cuadrática ponderada) miden cuán cerca quedan las calificaciones del modelo de las calificaciones de una persona. Un modelo puede coincidir con quien califica en la nota final y estar equivocado sobre el *porqué*, que es justo la parte de la que aprende un estudiante.
+
+Un estudiante puede llegar a una respuesta incorrecta por una vía equivocada que parece correcta, y ninguna puntuación de similitud lo notará. Si lo que le importa es el razonamiento, necesita algo que lea el razonamiento: una rúbrica aplicada por una persona, o una comprobación escrita para ese paso concreto.
+
+El asistente de curso de Sistemas de Control Lineal es un buen ejemplo de un equipo que informa de esto con honestidad. Su mejor configuración alcanzó una puntuación de similitud de **0.4093** frente a respuestas de referencia, con la mejora medida de forma fiable por encima de cero, y los autores afirman con claridad que sus números miden redacción y formato ([[lora-finetuned-control-systems-course-qa-2026]]).
+
+## Un sistema puede pasar una prueba y fallar la siguiente
+
+Esta es la lección más útil de la base de conocimiento, porque es la que pilla a la gente.
+
+En el proyecto WrAFT, un modelo ajustado alcanzó una puntuación de concordancia de **0.84** con calificadores humanos en 360 ensayos TOEFL reservados. Es un resultado sólido para *calificar*. El modelo del mismo proyecto entrenado para *escribir retroalimentación* produjo una salida truncada e ilegible, mientras que promptear simplemente otro modelo produjo la retroalimentación que el profesorado prefirió ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+
+Así que evalúe cada salida que produce su sistema, una a una. Una buena puntuación en el módulo de calificación no le dice nada sobre el módulo de retroalimentación que tiene al lado.
+
+## Compruebe si su verificador automático coincide con las personas
+
+Muchos equipos usan ahora una segunda IA para comprobar la primera. Es razonable, pero la segunda IA no es correcta de forma automática.
+
+Un estudio en el que un modelo de frontera redactaba pistas para un [[intelligent-tutoring|sistema de tutoría inteligente]] encontró que aproximadamente el **35%** eran demasiado generales, incorrectas o revelaban la respuesta, y que las propias comprobaciones automáticas de calidad del modelo discrepaban del juicio humano sobre cuáles eran malas ([[reddig-maclellan-personalized-feedback-llm-2026]]).
+
+Versión práctica: tome una muestra de unos cincuenta resultados, haga que una persona los valore y compare eso con las valoraciones de su verificador automático. Si los dos discrepan, su número automático no es evidencia.
+
+## Convierta una puntuación en una regla que pueda aplicar
+
+Una correlación le dice que el modelo acierta normalmente. No le dice qué hacer en las ocasiones en que no acierta. El resultado del enrutado por confianza es la plantilla más clara que hay aquí, y es lo bastante simple como para copiarla.
+
+La confianza resultó ser una señal de advertencia fiable: cuando el modelo no estaba seguro, era más probable que se equivocara (**β = −0.602, p < .001**). Así que el equipo envió al **20%** de respuestas menos seguras a una persona. Esa única regla elevó la concordancia con las calificaciones humanas de **0.78 a 0.82** y recortó el trabajo manual de calificación en aproximadamente un **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
+
+Fíjese en lo que contiene el informe: un umbral, una persona y un ahorro. «Concordancia 0.84» no contiene nada de eso, y por eso es difícil actuar sobre ello.
+
+## Cuando pueda, mida la cosa en sí
+
+El arreglo más limpio es entrenar el modelo sobre la misma cantidad que pretende medir. Un modelo ajustado se entrenó para reproducir las propiedades estadísticas de los ítems de un examen —los números que describen cuán difícil es cada pregunta y qué bien separa a los estudiantes más fuertes de los más débiles— y aprendió esos patrones en lugar de que se los dijeran ([[multimodal-item-parameter-estimation-2026]]). El objetivo era una propiedad del propio instrumento de evaluación, así que la evaluación pudo ser sobre esa propiedad y no sobre la redacción.
+
+Informe también de la progresión, no solo del punto final. El simulador de escritura SWIM publicó la puntuación de cada etapa una junto a otra —prompting basado en rúbrica **0.577**, ajuste fino **0.474 ± 0.023**, aprendizaje por refuerzo **0.618 ± 0.005** ([[swim-student-writing-simulation-2026]])—, y eso es lo que permite a quien lee ver si el entrenamiento hizo algo. Un único número final no puede decírselo.
+
+## Pruebe la seguridad en una conversación completa, no en una respuesta
+
+La mayoría de las pruebas de seguridad comprueban un único intercambio. Los daños que importan en la tutoría se acumulan. SafeTutors encontró que incluso los modelos construidos específicamente para enseñar se degradan a lo largo de una conversación larga y pueden revelar respuestas que deberían retener ([[hazra-safetutors-pedagogical-safety-2026]]).
+
+Ejecute la comprobación de seguridad en conversaciones completas, e incluya los turnos en los que el estudiante se equivoca, insiste o intenta convencer al modelo de que abandone su papel.
+
+## Si prueba con estudiantes falsos, compruebe antes a los estudiantes falsos
+
+Generar estudiantes simulados en lugar de reclutar personas reales abarata mucho la evaluación. Pero un estudiante simulado es un instrumento de medición, y puede equivocarse como cualquier instrumento.
+
+La prueba más directa de esto en la base de conocimiento comparó estudiantes simulados y prompteados con **382 diálogos reservados** de la mayor colección pública de diálogos reales de matemáticas entre estudiante y tutor, usando siete medidas que cubren lenguaje, comportamiento y pensamiento ([[simulated-students-tutoring-dialogues-2026]]). Otros trabajos inciden en el realismo desde otros ángulos: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] entrena modelos para *actuar* y *pensar* como estudiantes, y los perfiles conscientes del historial condicionan la simulación al pasado de un estudiante en lugar de a una persona fija ([[history-aware-student-simulation]]).
+
+Si su banco de pruebas es un estudiante simulado, compruebe el simulador antes de fiarse de lo que dice sobre su tutor.
+
+## Compare con algo fuera de su propio proyecto
+
+Si no tiene una línea base propia, un benchmark externo le dice si su número es bueno. En el benchmark de pedagogía CDPK, EduQwen alcanzó un **96.52%** frente al **90.55%** de Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). El Pedagogy Benchmark, construido a partir de exámenes reales de desarrollo profesional docente y con **97 modelos**, encontró una precisión que va del **28% al 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+
+Esa dispersión es el punto: en una tarea sobre enseñanza, los modelos fueron de malos a buenos. Lea los resultados de un benchmark como un rango dentro del cual usted se sitúa, no como un veredicto.
+
+## Una lista de comprobación antes de publicar
+
+**1.** Escriba en una frase qué le importa de verdad, y elija una medida que capture *eso* y no el parecido.
+**2.** Obtenga primero una línea base, incluida una simple. El modelo del asistente de curso sin fundamentación puntuó por debajo de una búsqueda por palabras clave.
+**3.** Compruebe cada salida que produce su sistema por separado.
+**4.** Haga que una persona valore una muestra y compárelo con su verificador automático.
+**5.** Convierta la precisión en una regla: un umbral, una persona y un ahorro.
+**6.** Pruebe la seguridad en conversaciones completas.
+**7.** Compruebe cualquier estudiante simulado antes de fiarse de él.
+**8.** Guarde los fallos. La retroalimentación truncada y las pistas que revelan la respuesta son los hallazgos, no el ruido.
+
+## Preguntas relacionadas
+
+- [[making-ai-better-at-supporting-learning|¿Cómo podemos hacer que la IA apoye mejor el aprendizaje en nuestra propia materia?]]
+- [[training-ai-tutors-to-guide-rather-than-answer|¿Cómo entrenamos a un tutor de IA para que guíe a los estudiantes en lugar de responderles?]]
+- [[evaluating-ai-interventions-methods|¿Qué medidas y métodos de investigación puede usar el profesorado para evaluar intervenciones relacionadas con la IA?]] — la versión orientada al profesorado
+- [[reporting-interpreting-aied-research|¿Cuáles son las buenas prácticas para informar e interpretar la investigación sobre IA en educación?]] — la versión orientada a la investigación
+- [[llm-training-and-fine-tuning]] — la página de concepto completa
+
+---
+
 ## [¿Cómo redacto una política de IA para un curso y la comunico al estudiantado?](https://edtechdev.github.io/aied/faqs/course-ai-policy/)
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
@@ -25668,6 +25762,219 @@ Para la contraparte a nivel de curso de este trabajo, véase [[course-ai-policy|
 
 ---
 
+## [¿Cómo podemos hacer que la IA apoye mejor el aprendizaje en nuestra propia materia?](https://edtechdev.github.io/aied/faqs/making-ai-better-at-supporting-learning/)
+
+*Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
+
+# ¿Cómo podemos hacer que la IA apoye mejor el aprendizaje en nuestra propia materia?
+
+Un modelo de propósito general responderá con gusto la pregunta de un estudiante en su lugar, y no sabe nada de su plan de estudios, su rúbrica ni de los errores que sus estudiantes cometen en realidad. Cerrar esa brecha suele plantearse como un problema de entrenamiento. En esta base de conocimiento es sobre todo un problema de **fundamentación y prompting**, y la evidencia de ese orden es inusualmente directa: un estudio sobre un asistente de curso encontró que la recuperación, y no el modelo, era la decisión de primer orden, y que un modelo general sin fundamentación obtuvo una puntuación *por debajo* de una línea base TF-IDF.
+
+El entrenamiento es real y a veces necesario, pero es la tercera o cuarta cosa que conviene probar, no la primera. Lo que sigue es la escalera en el orden que evita desperdiciar cómputo.
+
+## La versión corta
+
+Hay cinco palancas, en orden creciente de coste y compromiso: el **prompting**, la **recuperación** sobre sus propios materiales, la **adaptación eficiente en parámetros** ([[llm-training-and-fine-tuning|LoRA]] y similares), el **ajuste fino completo** y el **post-entrenamiento** con señales de preferencia o recompensa. Cada peldaño cuesta más datos, más cómputo y más disciplina de evaluación que el anterior, y cada uno es una peor primera opción salvo que una medición justifique la subida.
+
+La literatura de investigación informa sobre todo de la parte alta de esa escalera, y por eso es fácil recurrir al entrenamiento cuando la fundamentación habría bastado.
+
+## Paso 1: Obtenga una línea base que pueda superar de verdad
+
+Antes de cambiar nada, registre lo que obtiene con un prompt simple. Después registre lo que obtiene un método trivial, porque ese es el número que le mantiene honesto.
+
+El estudio del [[shen-sustainable-ai-knowledge-base-cs-education-2026|asistente de base de conocimiento del curso]] merece leerse solo por esto. Un LLM local sin recuperación alcanzó un **52.3%** de precisión. Una línea base TF-IDF —un método léxico de hace décadas— alcanzó el **55.4%**. El modelo era peor que el método clásico.
+
+Si se salta este paso no podrá saber si su ajuste fino ayudó, y puede acabar publicando algo que una búsqueda por palabras clave supera.
+
+## Paso 2: Fundamente el modelo en sus propios materiales
+
+Añadir [[rag|generación aumentada por recuperación]] sobre los materiales del curso, sin ningún ajuste fino, elevó ese mismo sistema del 52.3% al **66.6%**. Es la mayor ganancia única que se reporta en esta base de conocimiento para su coste, y es reversible: cuando sus documentos cambien, vuelve a indexar en lugar de reentrenar.
+
+Otros dos resultados apuntan en la misma dirección. Una revisión PRISMA de 23 estudios empíricos sobre personalización de la IA para la [[writing-education|enseñanza de la escritura]] encontró **predominio del prompt engineering (N = 13), por delante del ajuste fino (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Y cuando una base de conocimiento tiene que mantenerse actualizada, la recuperación es la única palanca que se mantiene actual sin volver a ejecutar un entrenamiento.
+
+La recuperación también tiene una forma pedagógica. Fundamentar un modelo en sus propios ejemplos resueltos y rúbricas es lo que hace que se mantenga dentro del [[scaffolding|andamiaje]] que usted diseñó en lugar de derivar hacia consejos genéricos.
+
+## Paso 3: Trabaje el prompt contra una rúbrica
+
+El trabajo de prompt no es un preliminar que se hace mientras se espera para entrenar. Dos resultados muestran lo que consigue por sí solo:
+
+- **El prompting guiado por rúbrica, co-refinado de forma iterativa, elevó la concordancia entre LLM y personas en el trabajo de diseño del estudiantado del 54.75% al 81.25%** (alfa de Cronbach 0.393 → 0.798), sin ningún ajuste fino ([[yasar-llms-iterative-pedagogical-design-2026]]).
+- Un prompt personalizado fundamentado en la literatura provocó los [[misconceptions|errores conceptuales]] matemáticos objetivo con una presencia de **0.98**, frente a **0.40** de un prompt genérico ([[zhuang-zhang-chatgpt-math-teacher-education-2026]]).
+
+La señal práctica es la **meseta**. En el estudio de generación de ítems, el refinamiento iterativo del prompt dejó de mejorar, y el ajuste fino de GPT-4.1 *sobre el prompt optimizado* añadió entonces la ganancia restante ([[gpt-item-generation-l2-listening-2026]]). Una meseta tras un trabajo real de prompt es su evidencia de que el entrenamiento podría aportar algo. Recurrir al entrenamiento antes de haber llegado a una es adivinar.
+
+## Paso 4: Adapte el modelo cuando el objetivo sea estable y específico
+
+La adaptación compensa cuando necesita que el modelo mantenga una propiedad de forma fiable: un nivel de lectura, un formato de salida, un dominio que desconoce. El resultado recurrente es que **apuntar bien gana al tamaño**.
+
+- Tres modelos **8B** ajustados sobre un currículo de lectura infantil diseñado por especialistas superaron a GPT-4o y Llama 3.3 70B en modo zero-shot en métricas relacionadas con la dificultad, con problemas de seguridad insignificantes. Los autores lo formulan como **controlabilidad frente a escala** ([[llm-children-reading-story-generation]]).
+- Un conjunto de instrucciones de **24,795 ejemplos** fundamentado en los sistemas de conocimiento indios produjo un ajuste fino de **7B** con una puntuación de **6.39** en un panel externo de cinco jueces, a **0.15** de un modelo de referencia general fuerte y a una fracción del coste de despliegue, mientras que el mismo modelo base puntuó **cerca de cero en dimensiones específicas del dominio** sin el ajuste fino ([[iks-instruct-dataset-indian-knowledge]]). Esa brecha entre «competente en general» y «competente aquí» es todo el argumento a favor de la adaptación de dominio.
+- Un único adaptador [[llm-training-and-fine-tuning|LoRA]] entrenado con unos **3,900** ejemplos calificados agrupados llevó a cinco modelos abiertos pequeños (4B–30B) a la paridad o mejor con un calificador humano en dos exámenes de informática ([[llm-graders-computer-science-exams-2026]]). Un adaptador, un conjunto de datos, varios modelos base: esa es la forma de un despliegue que un equipo pequeño puede ejecutar de verdad.
+
+Fíjese en la palabra *estable* del título. El formato, la rúbrica, el nivel de lectura y el vocabulario del dominio son objetivos estables. La prosa cargada de juicio no lo es, y ahí es donde falla la adaptación.
+
+## Paso 5: Cambie cómo se comporta, no solo lo que produce
+
+La adaptación enseña al modelo *qué producir*. El post-entrenamiento le enseña *cómo comportarse*, y para la tutoría esa distinción es todo el problema: los modelos generales se post-entrenan con preferencia humana por la utilidad, lo que significa responder con prontitud, mientras que enseñar exige retener la respuesta.
+
+Aquí es donde viven los resultados educativos más sólidos. El modelo de recompensa de EduQwen priorizó explícitamente **las respuestas que guían por encima de las respuestas directas**, y su pipeline de tres etapas alcanzó un **96.52%** en el benchmark CDPK frente al **90.55%** de Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). El simulador de escritura SWIM pasó del prompting guiado por rúbrica (mejor QWK **0.577**) al ajuste fino supervisado (**0.474 ± 0.023**) y al aprendizaje por refuerzo (**0.618 ± 0.005**) en todos los rasgos y prompts ([[swim-student-writing-simulation-2026]]).
+
+Un hallazgo de esta área es fácil de pasar por alto y caro de ignorar: **la calidad de la supervisión gana a la cantidad**. Los modelos ajustados con instrucciones aprendieron errores conceptuales de álgebra solo cuando se entrenaron con **trazas de solución paso a paso**; entrenados solo con respuestas finales, la precisión se mantuvo **por debajo del 30% en todos los tamaños de datos** ([[misconception-acquisition-dynamics-llms-2026]]). Si sus ejemplos de entrenamiento son pares de pregunta y respuesta correcta, está entrenando lo que no es.
+
+## Cuando adaptar el modelo no ayuda
+
+Esta es la parte que el entusiasmo suele saltarse.
+
+- **Texto cargado de juicio.** En WrAFT, el mismo proyecto que se ajustó con éxito para *calificar* ensayos (QWK 0.84) produjo una salida truncada e ilegible cuando se ajustó para *retroalimentar*, mientras que promptear directamente Claude 3.7 produjo la retroalimentación que el profesorado valoró mejor ([[wraft-automated-writing-evaluation-argumentative-2026]]). El ajuste fino enseñó al modelo a acertar una nota; no le enseñó a escribir.
+- **La escala no es un predictor fiable** del rendimiento posterior bajo adaptación LoRA, y **hiperparámetros idénticos produjeron comportamientos de adaptación cualitativamente distintos según la arquitectura** ([[aiawe-automated-writing-evaluation]]). Una receta que funcionó en un modelo no es una receta.
+- **La arquitectura puede importar más que el número de parámetros.** El ajuste fino de tres modelos abiertos de texto a imagen sobre 1,000 imágenes de ingeniería nuclear con leyendas mejoró sustancialmente Stable Diffusion XL, dio ganancias limitadas para SD-v3.5-Medium y **no produjo ninguna mejora medible en Flux.1** ([[nuclear-diffusion-text-to-image-learning-2026]]).
+- **A veces la respuesta es validar en lugar de entrenar.** Un GPT-4 de frontera sin entrenar produjo aproximadamente un **35%** de pistas demasiado generales, incorrectas o que revelaban la respuesta al redactar retroalimentación para tutoría, y sus propias comprobaciones automáticas de calidad discreparon del juicio humano ([[reddig-maclellan-personalized-feedback-llm-2026]]).
+
+## Qué exige en la práctica
+
+Para el peldaño de la adaptación, el listón es más bajo de lo que la mayoría de los equipos supone: **unos cientos o unos miles de ejemplos y una sola GPU**. LoRA entrena un número pequeño de parámetros añadidos y deja congelados los pesos base, de modo que varios modelos pueden servirse desde un único adaptador.
+
+El rango es un compromiso y no un dial que haya que maximizar: la ganancia por millón de parámetros del adaptador cayó de forma monótona al subir el rango, y la alineación a nivel de curso fue una decisión de escala y rango y no una mejora gratuita ([[lora-finetuned-control-systems-course-qa-2026]]). Qué capas adaptar es también una decisión real: actualizar **solo las cuatro últimas capas Transformer** de un analizador de discurso basado en BERT superó tanto adaptar solo la capa superior como el ajuste fino de las 12 capas ([[bert-discourse-english-teaching-2026]]).
+
+El coste que es fácil subestimar es la evaluación, no el cómputo. Véase [[checking-whether-educational-ai-works|¿Cómo sabemos que una IA educativa funciona correctamente y no solo que puntúa bien?]]
+
+## Calibre lo que espera
+
+La elección de modelo y de prompt juntas explican solo alrededor del **15%** del desajuste entre los LLM y las ganancias de aprendizaje del estudiantado, y en ese estudio la ponderación por benchmark y los ensembles de voto unánime hicieron la alineación *peor* ([[educational-llm-alignment]]). Los datos de preentrenamiento son la palanca dominante sobre cómo se comporta un modelo, y es la única palanca que no puede accionar.
+
+Eso no es un argumento contra el trabajo anterior. Es un argumento contra esperar que un ajuste fino arregle un problema de diseño. Si el problema es que su tutor responde con demasiada facilidad, el entrenamiento puede abordarlo. Si el problema es que su estudiantado no se implica, el entrenamiento no lo hará.
+
+## Un orden de decisión breve
+
+**1.** Registre una línea base solo con prompt, incluida una trivial.
+**2.** Añada recuperación sobre sus propios materiales.
+**3.** Trabaje el prompt de forma iterativa contra su rúbrica y vigile la meseta.
+**4.** Adapte el modelo con LoRA cuando el objetivo sea un formato, una rúbrica, un nivel o un dominio estables.
+**5.** Post-entrene solo cuando necesite cambiar *cómo* se comporta, y escriba la recompensa contra un benchmark, porque se va a explotar.
+**6.** Supervise a nivel de paso, no de respuesta.
+**7.** Mantenga a una persona en el circuito donde la confianza sea baja.
+**8.** Pruebe la seguridad en conversaciones completas, no en turnos sueltos.
+
+## Preguntas relacionadas
+
+- [[training-ai-tutors-to-guide-rather-than-answer|¿Cómo entrenamos a un tutor de IA para que guíe a los estudiantes en lugar de responderles?]] — la mitad de post-entrenamiento en detalle
+- [[checking-whether-educational-ai-works|¿Cómo sabemos que una IA educativa funciona correctamente y no solo que puntúa bien?]] — cómo saber si algo de esto funcionó
+- [[developing-ai-tutor|¿Cuáles son las buenas prácticas para desarrollar un tutor de IA eficaz?]] — la cara de diseño de interacción del mismo objetivo
+- [[designing-educational-ai-software|¿Cuáles son las buenas prácticas y consejos para diseñar software educativo de IA eficaz?]]
+- [[llm-training-and-fine-tuning]] — la página de concepto completa
+
+---
+
+## [¿Cómo hacemos que un estudiante simulado se comporte como un estudiante real?](https://edtechdev.github.io/aied/faqs/making-simulated-students-behave-like-learners/)
+
+*Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
+
+# ¿Cómo hacemos que un estudiante simulado se comporte como un estudiante real?
+
+Un estudiante simulado es fácil de hacer convincente y difícil de hacer veraz. Pida a un modelo general que interprete a un estudiante con dificultades y producirá confusión fluida y verosímil: el vocabulario correcto del no-saber, en el registro correcto. Después pregúntele qué diría ese estudiante tras ser corregido, y en silencio dará la respuesta correcta.
+
+Esa brecha es todo el problema, y no se resuelve escribiendo una persona mejor en el prompt. Esta página trata de lo que hace realmente que un estudiante simulado se comporte como uno, para quien construye un simulador o lo usa para ensayar o para probar.
+
+## La versión corta
+
+Los modelos se entrenan para ser útiles y correctos. Los estudiantes no son ni una cosa ni la otra. Así que el trabajo consiste en limitar **qué sabe el simulador** y **cómo cambia ese conocimiento**, y después comprobar que se comporta como un estudiante en lugar de sonar como uno. El prompting por sí solo no llega ahí; la evidencia de abajo es bastante consistente en que el prompting fija un techo que el entrenamiento o la estructura eliminan.
+
+## Empiece por saber qué no está simulando
+
+El hallazgo más útil para quien está a punto de fiarse de un simulador tiene que ver con la cobertura. Doce docentes que tutorizaron a estudiantes LLM informaron de lenguaje demasiado complejo, ausencia de emoción, atención inusualmente constante y saltos de conocimiento inexplicados, y las simulaciones representaban solo **uno de cuatro** cuadrantes de comportamiento real del estudiantado ([[llm-student-simulation-teacher-insights|Martynova et al., 2026]]). El cuadrante que cubrían era el más fácil de simular.
+
+Eso importa porque casi nadie lo comprueba. Solo el **3%** de los estudios que simulan estudiantes validan su simulador después de usarlo. Si construye uno y no lo valida, está en la inmensa mayoría, y también es la razón por la que esta estadística merece citarse.
+
+## La paradoja de la competencia: su simulador sabe demasiado
+
+La dificultad definitoria es que un modelo capaz no puede fingir con facilidad ser un conocedor parcial. La investigación lo llama la **paradoja de la competencia**: los modelos ampliamente capaces a los que se pide emular a estudiantes con conocimiento parcial producen patrones de error y dinámicas de aprendizaje poco realistas.
+
+La deriva tiene una dirección, y apunta a los estudiantes que más necesitan ser simulados. Frente a ideas de estudiantes extraídas de **49 lecciones de ciencias alineadas con NGSS**, seis modelos mantuvieron la mayoría de las ideas dentro del alcance de conocimiento esperado y aproximadamente dos tercios en el nivel de lectura objetivo o por debajo, pero se pasaron de largo justo donde el estudiante era más joven. Las ideas de primaria y secundaria obligatoria superaron con más frecuencia el alcance de conocimiento y el nivel de lectura del curso objetivo, y el corpus en conjunto tendía a un razonamiento más amplio, más vocabulario técnico y **menos marcadores de incertidumbre** («quizá», «parece que») que las ideas reales de las lecciones ([[llm-simulating-student-scientific-thinking-2026|Nguyen y Cao, 2026]]).
+
+Dos notas prácticas de ese estudio. La elección de modelo no es unidimensional: un sistema que se ajusta de cerca a las ideas de la lección puede aun así situarlas por encima del curso. Y el arreglo suele ser instruccional más que arquitectónico: un re-prompt explícito de nivel de curso devolvió a la mayoría de los modelos al rango.
+
+## El realismo superficial es el objetivo equivocado
+
+Un simulador que suena como un estudiante puede aun así no sostener las creencias de uno, y las comprobaciones de calidad habituales no pueden notar la diferencia.
+
+El fallo está cuantificado. En **siete modelos de 4B a 120B parámetros**, los simuladores cambiaron a la respuesta correcta a tasas casi uniformes cualquiera que fuera la retroalimentación que recibían, así que la similitud de la salida no dice nada sobre el estado de creencia que hay detrás. Entrenar contra la **Puntuación de Cambio Selectivo** elevó la fidelidad hasta **+0.56** ([[llm-student-simulation-misconception-faithfulness|Do, Sonkar y Sachan, 2026]]). Si quiere que un simulador sostenga un error conceptual, tiene que entrenarlo para esa propiedad; no puede deducirlo del texto.
+
+El error contrario también ocurre, y por eso «¿parece humano?» es una prueba débil en ambas direcciones. En un estudio ciego, anotadores expertos clasificaron erróneamente **164 de 196 (83.7%)** entregas de Java generadas por LLM como escritas por personas: los errores eran funcionalmente indistinguibles de los auténticos. La alineación con los errores reales cayó después al aumentar la dificultad del problema ([[simulating-students-java-programming-errors-llms|Keramati et al., 2026]]).
+
+## El prompting fija un techo que el entrenamiento elimina
+
+SWIM es la comparación más clara de los tres enfoques, porque puntúa cada ensayo generado contra su perfil de rasgo objetivo en lugar de juzgarlo impresionísticamente:
+
+- **Prompting guiado por rúbrica**: control limitado incluso para modelos propietarios fuertes — mejor QWK medio de rasgo **0.577** (Claude Sonnet), **0.422** (GPT-5.4), cerca de cero para un modelo abierto de 7B.
+- **Ajuste fino supervisado** sobre pares reales de puntuación y ensayo: **0.474 ± 0.023** para ese modelo de 7B.
+- **GRPO** con una recompensa derivada de la calificación automática de ensayos: **0.618 ± 0.005**, con las ganancias manteniéndose en dos calificadores independientes contra los que la política nunca se entrenó ([[swim-student-writing-simulation-2026]]).
+
+El prompting produjo además una población **idealizada** y no realista: puntuación general normalizada media de **0.74** frente a **0.58** de los estudiantes reales, y una longitud mediana de **304 palabras** frente a **167**. Los modelos entrenados recuperaron las distribuciones humanas de puntuación y longitud sin ninguna supervisión sobre la longitud.
+
+Una cosa siguió siendo difícil, y conviene saberlo antes de prometer realismo: la **forma auténtica de baja competencia**. Los modelos entrenados recuperaron la sintaxis pero escribían demasiado pocos errores ortográficos y gramaticales, mientras que el prompting simulaba la debilidad sobre todo mediante corrupción superficial: faltas de ortografía rociadas sobre una prosa por lo demás competente.
+
+## Dos maneras de limitar qué sabe el simulador
+
+Si el modelo sabe demasiado, puede especificar el estado en el que debería estar o quitarle el conocimiento.
+
+**Condicione sobre un estado epistémico y no sobre una persona.** Un marco sin entrenamiento construye el prototipo cognitivo de cada estudiante a partir de un [[knowledge-graph|grafo de conocimiento]] y puntúa candidatos de búsqueda en haz contra él, y reporta una mejora del 100% en la precisión de la simulación ([[simulating-students-diverse-cognitive-levels-2025|Wu et al., 2025]]). Su calidad **sube con el nivel cognitivo del estudiante**, que es el hallazgo que conviene llevarse: los estudiantes más débiles siguen siendo el caso difícil, lo cual es desafortunado dado que suelen ser el objetivo. Modelar la dinámica cognitiva en lugar de una persona fija va más lejos: las actualizaciones de estado basadas en ICAP de CogEvolution alcanzaron R²LC = **0.92** donde los agentes estáticos alcanzan **0.45**, y cayeron a **0.58** sin su módulo ICAP ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al., 2026]]).
+
+**O quite el conocimiento.** Suprimir 16 componentes de conocimiento concretos en Mistral-7B bajó la precisión de aproximadamente **0.75** con una ratio de olvido del 10% a **por debajo de 0.5** con el 40%, mientras que el modelo base se mantuvo cerca de **0.85**, y el conocimiento suprimido resultó recuperable mediante re-aprendizaje supervisado y diálogo guiado por un coach ([[simulating-novice-students-machine-unlearning-2026|Song, Guo y Lin, 2026]]). Esto es lo más parecido a fabricar directamente un novato, y la recuperabilidad es una ventaja si quiere que el simulador aprenda durante una sesión.
+
+## Haga que la interacción esté guionizada, no la persona
+
+La estabilidad de la persona resulta ser un problema de diseño de interacción y no de elección de modelo. Cruzando cinco LLM con tres diseños de prompt y cuatro personas de intensidad de TDAH, las **interacciones guionizadas y ancladas en tareas eliminaron la deriva de comportamiento** valorada por observadores: hasta un **97% menos** que el diálogo sin guion. Y sin instrucciones explícitas de persona, la representación base del estudiantado se sesgaba hacia síntomas altos de TDAH ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase y Leins, 2026]]).
+
+La lectura práctica: si su simulador deriva, el arreglo puede estar en lo que le pide hacer turno a turno y no en qué modelo eligió ni en cómo describió al estudiante.
+
+## Compruébelo en dos ejes, no en uno
+
+La formalización más clara de «¿este simulador sirve?» viene de StudentSim, que exige dos cosas que deben cumplirse **juntas**:
+
+- **Fidelidad de comportamiento**: cuán bien el simulador iguala las respuestas propias de un estudiante.
+- **Capacidad de respuesta a la guía**: cuán fiablemente se actualiza hacia donde lleva la guía del tutor.
+
+Su benchmark convierte corpus públicos de estudiantes (ajedrez, escritura en inglés como segunda lengua, matemáticas) en un protocolo por estudiante sobre el que cualquier simulador se ajusta y se puntúa con registros reservados. El resultado es un diagnóstico útil: el seguimiento de estado específico del dominio fue **débil en capacidad de respuesta**, y el juego de rol con LLM basado solo en prompt fue **débil en fidelidad** ([[studentsim-llm-student-simulators|Yang et al., 2026]]). Un simulador puede pasar una prueba y fallar la otra, así que informe de ambas.
+
+Como prueba de concepto, un StudentSim congelado usado como recompensa en un bucle de [[reinforcement-learning|aprendizaje por refuerzo]] para un tutor de ajedrez produjo tutores que las personas expertas valoraron como más precisos, mejor guiados y más personalizados que los entrenados contra una recompensa de un simulador LLM de frontera o sin RL alguno. Un buen simulador no es solo una herramienta de medición: puede ser la señal de entrenamiento.
+
+## Valide contra estudiantes reales, no contra su intuición
+
+Dos benchmarks muestran lo que cuesta la validación y lo que aporta.
+
+Comparando **nueve métodos de simulación** con **siete métricas basadas en referencia** sobre **382 diálogos reservados** del mayor corpus público de diálogos reales de matemáticas entre estudiante y tutor, el prompting quedó por detrás del ajuste fino en actos de diálogo (**0.4998** frente a **0.6840**), ROUGE-L (**0.1648** frente a **0.3212**) y similitud de coseno (**0.5460** frente a **0.7390**). Pero el mejor método probado —optimización de preferencias sobre un modelo de 8B— superó al ajuste fino supervisado solo **marginalmente** y fue **peor en errores**, y una evaluación humana con tres tutores reprodujo ese orden ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). La lección es que lo más alto de esta escalera no está muy por encima de su mitad, así que una brecha grande entre su simulador y una línea base informa más que una pequeña.
+
+Los simuladores de estudiantes también reproducen acciones observables sin el razonamiento latente que hay detrás. [[inside-llm-student-simulator-reasoning-2026|INSIDE]] ajusta modelos para generar un diálogo interno antes de cada acción, y alcanza la mayor alineación entre el razonamiento generado y las ediciones de código reales —**51.8%** en problemas conocidos, **57.9%** en problemas no vistos— sin perder fidelidad de acción (Niousha et al., 2026). Si le importa *por qué* su estudiante simulado hizo algo, la fidelidad a nivel de acción no basta.
+
+## A veces una descripción supera a una simulación
+
+Un resultado que conviene conocer antes de construir una cohorte: para evaluar una experiencia de aprendizaje en línea *antes* de que el estudiantado se implique —predecir abandono y finalización, y dar retroalimentación de diseño—, un único **agente web «descriptor»** que recorre la lección y produce una descripción rica de la experiencia superó a simular directamente una población de estudiantes.
+
+Los estudiantes simulados de esa comparación mostraban mucha menos variedad de comportamiento que los estudiantes reales: en **100 agentes** sobre cinco lecciones de prueba reprodujeron solo alrededor del **4%** de los caminos que tomaron los estudiantes reales, y costaban bastante más cómputo. El pipeline de describir y luego predecir logró la mejor predicción de la distribución de abandono en un curso masivo global de CS1 (JSD media **0.060**, superando a todas las líneas base) ([[ai-web-agents-lesson-design-2025|Wang, Mitchell y Piech, 2025]]).
+
+La frontera que dibuja es útil: simular una *distribución* de estudiantes puede ser innecesario —o contraproducente— cuando el objetivo es predecir resultados o criticar un diseño. La simulación se gana su coste cuando cubrir la variación real del estudiantado importa, como al auditar el trato de una IA a perfiles diversos o al dar a un docente algo contra lo que ensayar.
+
+## Una lista de comprobación antes de fiarse de un simulador
+
+**1.** Anote a qué estudiantes *no* está cubriendo. Las simulaciones tienden a capturar el cuadrante más fácil.
+**2.** Pruebe el estado de creencia, no la prosa. Pregunte qué dice el simulador tras ser corregido; un simulador que cambia a la respuesta correcta no sostiene el error conceptual.
+**3.** No se apoye solo en el prompting si la fidelidad importa. El prompting fija un techo que el entrenamiento o la estructura eliminan.
+**4.** Decida cómo limitará el conocimiento —especificar el estado epistémico o quitarlo— en lugar de describir una persona.
+**5.** Guionice la interacción, no solo la persona. Los turnos anclados en tareas recortan drásticamente la deriva de comportamiento.
+**6.** Puntúe por separado la fidelidad y la capacidad de respuesta a la guía. Un simulador puede pasar una y fallar la otra.
+**7.** Valide contra datos reales de estudiantes e informe de la línea base que supera. Los mejores métodos aquí solo superan marginalmente a los que están por debajo.
+**8.** Compruebe si un único agente descriptor respondería a su pregunta de forma más barata antes de construir una población.
+**9.** Espere que los estudiantes más débiles sean el caso más difícil, y dígalo si su simulador se usará para extraer conclusiones sobre ellos.
+
+## Preguntas relacionadas
+
+- [[checking-whether-educational-ai-works|¿Cómo sabemos que una IA educativa funciona correctamente y no solo que puntúa bien?]] — evaluar los sistemas que prueba contra un simulador
+- [[addressing-common-misconceptions-ai-education|¿Cómo podemos abordar los errores conceptuales comunes sobre la IA en educación?]] — si los estudiantes simulados pueden sustituir a estudiantes reales en la investigación
+- [[making-ai-better-at-supporting-learning|¿Cómo podemos hacer que la IA apoye mejor el aprendizaje en nuestra propia materia?]] — los métodos de entrenamiento que hay detrás de los resultados de ajuste fino anteriores
+- [[simulating-students]] — la página de concepto completa
+
+---
+
 ## [¿Cómo puedo rediseñar la evaluación para que una calificación siga diciéndome algo defendible sobre lo que el estudiante sabe o puede hacer?](https://edtechdev.github.io/aied/faqs/redesign-assessment-ai-era/)
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -26197,7 +26504,7 @@ Si participas en una audiencia, esta es la sección que importa.
 
 - **La salida de un detector nunca es prueba aislada, nunca activa una consecuencia automática y nunca fundamenta una conclusión.** Dilo en la propia política, no en un memorando.([[karr-ai-detection-humanization-2026]])
 - **El estudiantado debe poder ver la acusación y responder a ella**, con el derecho al silencio preservado y una vía de verificación oral disponible para cualquier acusación que se base solo en el estilo.([[bassett-ai-detectors-education-2026]])
-- **Los términos de contratación deben cubrir la retención de datos, el uso para [[pedagogical-llm-training|entrenamiento de modelos]], la ubicación del almacenamiento, la notificación de brechas y los derechos de apelación**: el riesgo es de tu institución, no del proveedor.([[bassett-ai-detectors-education-2026]])
+- **Los términos de contratación deben cubrir la retención de datos, el uso para [[llm-training-and-fine-tuning|entrenamiento de modelos]], la ubicación del almacenamiento, la notificación de brechas y los derechos de apelación**: el riesgo es de tu institución, no del proveedor.([[bassett-ai-detectors-education-2026]])
 - **Financia la alternativa.** La queja documentada del profesorado es la "sospecha sin recurso", así que la partida que importa es la capacidad de verificación y la orientación, no una licencia de detección.([[best-response-student-ai-dialog-2026]])
 - **Pide por escrito las tasas de error y luego intenta validarlas localmente.** Si la tasa anunciada no puede reproducirse con tus propias entregas, como le ocurrió a Vanderbilt, esa es tu respuesta.([[teichmann-detecting-undetectable-misconduct-2026]])
 
@@ -26450,6 +26757,91 @@ Elija una tarea que le inquiete y haga dos cambios: indique la regla sobre la IA
 Para la versión de estos malentendidos, parte por parte, véase [[addressing-common-misconceptions-ai-education|¿Cómo podemos abordar los malentendidos comunes sobre la IA en la educación?]]; para los requisitos de diseño que implican los hallazgos 9 y 10, véanse [[equity-ethics-pedagogical-safety-research|¿Cómo debería la investigación sobre IA en educación incorporar la equidad, la accesibilidad, la privacidad, la ética y la seguridad pedagógica?]] y [[redesign-assessment-ai-era|¿Cómo debería rediseñarse la evaluación para la era de la IA?]].
 
 Una advertencia importante: la base de evidencia sobre IA generativa se desarrolla con rapidez. Buena parte consiste en intervenciones breves, estudios de [[self-report-measures|autoinforme]], una sola disciplina o trabajos emergentes de 2025–2026, y los hallazgos de la investigación madura sobre [[intelligent-tutoring|tutoría inteligente]] son en general más sólidos que las afirmaciones sobre [[conversational-ai|chatbots]] de propósito general sin restricciones. Sea especialmente escéptico ante resultados que solo muestren **satisfacción del estudiantado, velocidad de la tarea, calidad del resultado o rendimiento inmediato con ayuda** sin medir el aprendizaje diferido o sin ayuda.
+
+---
+
+## [¿Cómo entrenamos a un tutor de IA para que guíe a los estudiantes en lugar de responderles?](https://edtechdev.github.io/aied/faqs/training-ai-tutors-to-guide-rather-than-answer/)
+
+*Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
+
+# ¿Cómo entrenamos a un tutor de IA para que guíe a los estudiantes en lugar de responderles?
+
+Un modelo de propósito general se post-entrena con preferencia humana por la utilidad, y en la práctica utilidad significa responder la pregunta con prontitud y de forma completa. La tutoría exige lo contrario: ayudar a un estudiante a llegar a la respuesta en lugar de entregársela. Este es el único lugar de la IA educativa donde puede que necesite de verdad cambiar el comportamiento aprendido del modelo y no solo su prompt, y es también la parte mejor documentada del campo. Los resultados son grandes, y la variable decisiva es la **recompensa**, no el algoritmo.
+
+## Por qué el prompting puede no bastar aquí
+
+El [[prompt-engineering|prompting]] y hasta el entrenamiento general de alineación dejan un tirón hacia el acuerdo. La [[contextual-sycophancy-ai-literacy|sycophancy contextual]] persiste después del prompting y de la alineación, y los errores del estudiantado siguen propagándose al consejo de la IA. EduFrameTrap muestra que los modelos que resisten ataques de cambio de contexto se rinden igualmente ante la presión de autoridad o socioafectiva y retienen la retroalimentación correctiva, y por eso sus autores sostienen que el comportamiento «amable pero correcto» debería ser un **requisito explícito de entrenamiento** y no una preferencia ([[eduframetrap-llm-sycophancy-educational-safety]]).
+
+Si el modo de fallo de su tutor es que da la razón ante una respuesta incorrecta, pedirle por prompt que no lo haga es una mitigación, no una solución.
+
+## La recompensa es todo el diseño
+
+Una recompensa es una especificación comprimida de lo que usted quiere, y los modelos optimizan lo que usted escribió de verdad. Eso convierte el diseño de la recompensa en la decisión de mayor apalancamiento del proceso, y es donde se ganó el mejor resultado que hay aquí.
+
+El modelo de recompensa de EduQwen **priorizó las respuestas que guían por encima de las respuestas directas**, con minería de negativos duros para excluir preguntas que el modelo base ya resolvía, y rollouts ampliados de 5 a 8 pasos para capturar decisiones pedagógicas de varios pasos. Su pipeline de tres etapas —RL inicial, SFT sintético, RL final— alcanzó un **96.52%** en el benchmark CDPK, frente al **90.55%** de Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]).
+
+De ahí se siguen dos cosas. Primero, espere que la recompensa se explote: especifica menos de lo que usted quiso, así que escríbala contra un benchmark y no contra una intuición. Segundo, los números intermedios son instructivos: la primera etapa de RL por sí sola alcanzó el 94.13%, el SFT sobre 40,000 respuestas autogeneradas lo llevó al 96.20%, y la ronda final de RL añadió la última fracción. La mayor parte de la ganancia llegó pronto.
+
+## El aprendizaje por refuerzo supera a la imitación para la pedagogía
+
+Si solo hace ajuste fino supervisado, enseña al modelo a imitar sus demostraciones. Eso basta para el formato y no basta para el juicio. El hallazgo de LearnLM es explícito: **el RL es sustancialmente más eficaz que el SFT por sí solo para seguir instrucciones pedagógicas matizadas en conversaciones largas** ([[learnlm-improving-gemini-learning]]).
+
+Su enfoque condicionado por instrucciones permite además que desarrolladores y docentes especifiquen el comportamiento del tutor sin comprometerse con una única definición de pedagogía, y se mezcla en las etapas de post-entrenamiento de Gemini mediante co-entrenamiento. Las personas expertas lo prefirieron frente a GPT-4o (**+31%**), Claude 3.5 Sonnet (**+11%**) y Gemini 1.5 Pro base (**+13%**).
+
+## Supervise el proceso, no la respuesta
+
+El hallazgo más accionable de esta área se refiere a *qué debe contener el dato de entrenamiento*. Los modelos ajustados con instrucciones aprendieron errores conceptuales de álgebra solo cuando se entrenaron con **trazas de solución paso a paso**. Entrenados solo con respuestas finales, la precisión se mantuvo **por debajo del 30% en todos los tamaños de datos** ([[misconception-acquisition-dynamics-llms-2026]]).
+
+Dos detalles más de ese estudio importan a quien construya cualquiera de los dos lados de un tutor:
+
+- El rol de **estudiante** sobreeneralizó el error aprendido hasta que se mezclaron explícitamente ejemplos correctos en proporciones tan bajas como **uno de cada cuatro**.
+- El rol de **tutor** no mostró ese coste, y mantuvo una precisión correcta del **93% al 98%** en diez errores conceptuales entrenados conjuntamente.
+
+Si está entrenando a un tutor para que diagnostique, sus ejemplos necesitan el razonamiento, no solo el veredicto. Un conjunto de pares de pregunta y respuesta correcta no puede enseñar a un modelo a detectar dónde se equivocó un estudiante.
+
+## Haga que el dato de entrenamiento cargue con la pedagogía
+
+Si la supervisión tiene que contener razonamiento, el esquema de etiquetado es una decisión curricular y no un paso de limpieza de datos. Dos resultados inciden directamente en ello.
+
+**Etiquete cada ejemplo con el comportamiento que quiere.** Un estudio sobre etiquetas de supervisión encontró que asignar a cada ejemplo de entrenamiento un comportamiento objetivo —competencia en la materia, fundamentación curricular, razonamiento diagnóstico o andamiaje— elevó todas las escalas de modelo probadas, con las mayores ganancias en andamiaje y en el uso del historial del estudiante. El diagnóstico del estado de conocimiento siguió siendo el comportamiento más débil, con un **54.04%**, que es una expectativa útil que conviene llevar: el diagnóstico es lo más difícil de enseñar de esta lista ([[omniedu-open-educational-foundation-models-2026]]).
+
+**Trate la selección de datos como un problema de entrenamiento en sí.** Edu-QuRating adapta la destilación de preferencias a la curación de datos educativos, y sustituye una única puntuación de «¿esto es educativo?» por **20 dimensiones de rúbrica** que cubren precisión factual, estructura pedagógica y adecuación de nivel ([[garrod-edu-qurating-educational-data-curation-2026]]). Si está reuniendo un corpus a partir de texto web, ese es el tipo de filtro que decide a qué va a sonar su modelo.
+
+## La densidad de la recompensa importa tanto como la recompensa
+
+Una recompensa de coincidencia exacta es demasiado dispersa cuando lo que le importa tiene varias dimensiones. El simulador de escritura SWIM muestra la progresión con claridad:
+
+- Prompting guiado por rúbrica: mejor QWK medio de rasgo **0.577** (Claude Sonnet), **0.422** (GPT-5.4), cerca de cero para un modelo abierto de 7B
+- Ajuste fino supervisado: **0.474 ± 0.023** para ese modelo de 7B
+- GRPO con una recompensa densa de precisión normalizada por rasgo: **0.618 ± 0.005**, en todos los rasgos y prompts ([[swim-student-writing-simulation-2026]])
+
+El diseño de la recompensa era el punto: una señal densa normalizada por rasgo en lugar de coincidencia exacta, porque la coincidencia exacta es demasiado dispersa en un entorno multi-rasgo. Si su recompensa solo se activa con una respuesta perfecta, la mayor parte de su señal de entrenamiento es silencio.
+
+## Entrene la decisión, no solo el enunciado
+
+El post-entrenamiento no tiene por qué moldear solo lo que dice el modelo. TACT post-entrenó a un tutor sobre una taxonomía de 13 estrategias más una taxonomía de movimientos del estudiante de dos ejes y ganó **20.30 puntos** sobre su modelo base Qwen3.5-4B, con un benchmark diagnóstico que **retiene las etiquetas de estado del estudiante** disponibles durante el entrenamiento, de modo que el modelo tiene que inferir el estado a partir del diálogo ([[tact-pedagogically-adaptive-esl-tutoring]]).
+
+La misma lógica recorre la alineación en [[special-education|educación especial]] ([[special-r1-rl-special-education]]) y el trabajo de RL heurístico que alinea modelos como guías socráticos en lugar de respondedores ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Una plataforma va más lejos y entrena la *política* en lugar de la prosa: un agente de aprendizaje por refuerzo elige el siguiente problema de práctica, de modo que lo que hace después el estudiante lo decide el modelo entrenado ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+
+## ¿Qué datos necesita?
+
+Dos apuestas opuestas definen el espacio, y cuál tome depende de lo que ya tenga:
+
+- **Post-entrenamiento condicionado por instrucciones cuando sus datos son escasos.** LearnLM lleva instrucciones a nivel de sistema que permiten a docentes y desarrolladores especificar el comportamiento del tutor, y se apoya en el co-entrenamiento en lugar de en un corpus grande de transcripciones de tutoría.
+- **Ajuste fino sobre datos de interacción auténticos cuando los tenga.** TeachLM apuesta a que el [[prompt-engineering|prompt engineering]] es un parche y que el ingrediente escaso es la interacción real entre estudiante y tutor. Entrenado con **100,000 horas** de sesiones individuales bajo un anonimizado riguroso, duplica el tiempo de habla del estudiantado, mejora el estilo de preguntar y aumenta los turnos de diálogo en un **50%** ([[teachlm-post-training-llms-education]]).
+
+Una vía más barata hacia el comportamiento pedagógico es la destilación: Pedagogy-R1 (1.5B y 7B) se ajustó con instrucciones sobre salidas filtradas pedagógicamente y destiladas de un profesor QwQ-32B, junto con prompting de Cadena de Pedagogía ([[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]]).
+
+## Pruébelo en conversaciones completas
+
+El entrenamiento no hace que un modelo sea seguro a lo largo de una conversación larga. SafeTutors muestra que incluso los modelos pedagógicos especializados se degradan en diálogos sostenidos y pueden incurrir en daños por revelar en exceso la respuesta ([[hazra-safetutors-pedagogical-safety-2026]]). La [[pedagogical-safety|seguridad pedagógica]] tiene que probarse a la longitud de una conversación y no en un turno suelto, incluidos los turnos en los que el estudiante se equivoca, insiste o intenta convencer al modelo de que abandone su papel.
+
+## Adónde ir después
+
+- [[making-ai-better-at-supporting-learning|¿Cómo podemos hacer que la IA apoye mejor el aprendizaje en nuestra propia materia?]] — si el entrenamiento es siquiera la palanca correcta
+- [[checking-whether-educational-ai-works|¿Cómo sabemos que una IA educativa funciona correctamente y no solo que puntúa bien?]] — medir si el comportamiento cambió de verdad
+- [[developing-ai-tutor|¿Cuáles son las buenas prácticas para desarrollar un tutor de IA eficaz?]] — la contraparte de diseño de interacción, que moldea el mismo comportamiento de guía mediante andamiaje y escaleras de pistas en lugar de entrenamiento
+- [[llm-training-and-fine-tuning]] — la página de concepto completa
 
 ---
 
