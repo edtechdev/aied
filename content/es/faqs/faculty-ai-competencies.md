@@ -1,12 +1,13 @@
 ---
 title: "¿Qué competencias necesita el profesorado en relación con la IA?"
 created: "2026-09-22T18:29:06-04:00"
-updated: "2026-09-22T18:29:06-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-source_updated: "2026-09-17T02:27:38-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/faculty-ai-competencies
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

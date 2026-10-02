@@ -1,7 +1,8 @@
 ---
 title: Aprendizaje por refuerzo
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-09-28T18:23:55-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 pedagogy: [active-learning, scaffolding]
 technology: [adaptive-learning, intelligent-tutoring, llm, personalized-learning]

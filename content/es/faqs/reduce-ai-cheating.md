@@ -1,11 +1,12 @@
 ---
 title: "¿Cómo puedo reducir las trampas con IA en mi curso?"
 created: "2026-09-22T18:29:08-04:00"
-updated: "2026-09-22T18:29:08-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-source_updated: "2026-09-18T06:20:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/reduce-ai-cheating
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

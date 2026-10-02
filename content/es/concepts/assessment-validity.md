@@ -1,8 +1,8 @@
 ---
 title: Validez de la evaluación
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-09-28T22:07:38-04:00"
-connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai]
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
 assessment: [authentic-assessment, automated-assessment, formative-assessment]

@@ -1,14 +1,15 @@
 ---
 title: "¿Usar IA ayuda de verdad a que mi estudiantado aprenda?"
 created: "2026-09-22T18:32:58-04:00"
-updated: "2026-09-22T18:32:58-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [evaluating-ai-interventions-methods, how-ai-impacts-students, top-10-findings-ai-education-instructors]
 weight: 90
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [active-learning]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation]
-source_updated: "2026-09-17T02:26:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/does-ai-help-students-learn
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

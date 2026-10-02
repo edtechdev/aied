@@ -1,7 +1,8 @@
 ---
 title: "¿Cómo puede ayudarme la IA a dar mejor retroalimentación a escala?"
 created: "2026-09-22T18:40:51-04:00"
-updated: "2026-09-22T18:40:51-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
 technology: [human-in-the-loop-ai]
@@ -10,7 +11,7 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-source_updated: "2026-09-17T02:50:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/ai-feedback-at-scale
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

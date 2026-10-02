@@ -1,13 +1,14 @@
 ---
 title: "¿Cómo está impactando la IA al estudiantado?"
 created: "2026-09-22T18:57:28-04:00"
-updated: "2026-09-22T18:57:28-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [does-ai-help-students-learn, study-with-ai, ai-anxiety-wellbeing, ai-guidance-children-under-13]
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-source_updated: "2026-09-17T02:43:50-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/how-ai-impacts-students
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

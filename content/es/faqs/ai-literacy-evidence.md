@@ -1,13 +1,14 @@
 ---
 title: "¿Qué evidencia existe sobre las intervenciones de alfabetización en IA en la educación superior?"
 created: "2026-09-22T18:29:06-04:00"
-updated: "2026-09-22T18:29:06-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
-source_updated: "2026-09-17T02:26:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/ai-literacy-evidence
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

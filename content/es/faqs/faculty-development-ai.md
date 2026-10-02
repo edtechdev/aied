@@ -1,7 +1,8 @@
 ---
 title: "¿Cómo diseño un desarrollo profesional docente en IA que cambie realmente la práctica?"
 created: "2026-09-22T18:29:07-04:00"
-updated: "2026-09-22T18:29:07-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
 weight: 65
 type: faq
 foundations: [educational-development, teacher-role, tpack, teacher-ai-competency]
@@ -10,7 +11,7 @@ research_method: [survey, case study]
 audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
-source_updated: "2026-09-18T09:10:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/faculty-development-ai
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

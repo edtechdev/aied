@@ -1,7 +1,8 @@
 ---
 title: Entrenamiento y ajuste fino de LLM
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-09-28T20:10:35-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]

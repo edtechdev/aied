@@ -1,7 +1,8 @@
 ---
 title: Ingeniería de prompts
 created: "2026-09-25T03:54:13-04:00"
-updated: "2026-09-25T03:54:13-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]

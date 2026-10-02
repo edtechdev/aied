@@ -1,7 +1,8 @@
 ---
 title: "¿Cómo deberían abordar la IA los padres y el profesorado con niños menores de 13 años?"
 created: "2026-09-22T18:29:10-04:00"
-updated: "2026-09-22T18:29:10-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [equity-ethics-pedagogical-safety-research, incorporating-ai-literacy, how-ai-impacts-students]
 weight: 75
 type: faq
 foundations: [ai-literacy]
@@ -12,7 +13,7 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-source_updated: "2026-09-17T03:00:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/ai-guidance-children-under-13
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

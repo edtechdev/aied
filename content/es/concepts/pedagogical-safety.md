@@ -1,8 +1,8 @@
 ---
 title: Seguridad pedagógica
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-09-28T20:10:35-04:00"
-connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13]
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
 technology: [llm, rag]

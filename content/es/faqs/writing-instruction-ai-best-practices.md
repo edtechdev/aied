@@ -1,13 +1,14 @@
 ---
 title: "¿Cuáles son las mejores prácticas para la enseñanza de la escritura en el contexto de la IA?"
 created: "2026-09-22T18:32:58-04:00"
-updated: "2026-09-22T18:32:58-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
 ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 discipline: [engineering education, humanities education, writing education]
-source_updated: "2026-09-17T02:26:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/writing-instruction-ai-best-practices
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

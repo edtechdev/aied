@@ -1,12 +1,13 @@
 ---
 title: "¿Cómo debería incorporar la alfabetización en IA a mi curso?"
 created: "2026-09-22T18:57:28-04:00"
-updated: "2026-09-22T18:57:28-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
-source_updated: "2026-09-18T09:10:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/incorporating-ai-literacy
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

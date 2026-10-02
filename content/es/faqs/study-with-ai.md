@@ -1,7 +1,8 @@
 ---
 title: "¿Cómo debería usar la IA para estudiar y aprender de forma eficaz?"
 created: "2026-09-22T18:29:05-04:00"
-updated: "2026-09-22T18:29:05-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [reducing-over-reliance, verify-ai-output, how-ai-impacts-students, ai-anxiety-wellbeing]
 weight: 60
 type: faq
 foundations: [cognitive-offloading]
@@ -11,7 +12,7 @@ research_method: [experiment, literature review, survey]
 audience: [learners, instructors]
 level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
-source_updated: "2026-09-22T03:05:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/study-with-ai
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

@@ -1,7 +1,8 @@
 ---
 title: "¿Cuáles son las buenas prácticas para desarrollar un tutor de IA eficaz?"
 created: "2026-09-22T18:57:28-04:00"
-updated: "2026-09-22T18:57:28-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, designing-educational-ai-software]
 weight: 74
 type: faq
 foundations: [learner-identity]
@@ -11,7 +12,7 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-source_updated: "2026-09-19T06:28:59-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/developing-ai-tutor
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

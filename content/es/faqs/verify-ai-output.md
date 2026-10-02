@@ -1,7 +1,8 @@
 ---
 title: "¿Cómo enseño a los estudiantes a verificar los resultados de la IA?"
 created: "2026-09-22T18:29:06-04:00"
-updated: "2026-09-22T18:29:06-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [incorporating-ai-literacy, study-with-ai, reducing-over-reliance, asynchronous-online-courses-ai]
 weight: 65
 type: faq
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]
@@ -9,7 +10,7 @@ ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
-source_updated: "2026-09-17T02:50:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/verify-ai-output
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
