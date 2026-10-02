@@ -1,7 +1,8 @@
 ---
 title: "How Do We Write and Implement an Institutional AI Policy?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-09-18T09:10:00-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research]
 weight: 65
 type: faq
 ethics: [equity-in-ai-education, ethics, privacy]

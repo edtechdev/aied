@@ -1,7 +1,8 @@
 ---
 title: "How Do I Teach Students to Verify AI Output?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-09-17T02:50:00-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [incorporating-ai-literacy, study-with-ai, reducing-over-reliance, asynchronous-online-courses-ai]
 weight: 65
 type: faq
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]

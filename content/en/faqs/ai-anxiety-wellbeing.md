@@ -1,7 +1,8 @@
 ---
 title: "How Does AI Affect Student Anxiety and Well-Being, and What Can We Do?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-09-17T03:00:00-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [how-ai-impacts-students, study-with-ai]
 weight: 60
 type: faq
 pedagogy: [anxiety-and-stress, motivation, self-efficacy, social-emotional-learning, well-being]

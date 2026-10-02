@@ -1,7 +1,8 @@
 ---
 title: "How Can AI Help Me Give Better Feedback at Scale?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-09-17T02:50:00-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
 technology: [human-in-the-loop-ai]

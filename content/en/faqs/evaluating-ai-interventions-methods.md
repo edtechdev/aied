@@ -1,7 +1,8 @@
 ---
 title: "What Measures and Research Methods Can an Instructor Use to Evaluate AI-Related Interventions?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-09-14T13:43:30-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]

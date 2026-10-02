@@ -1,7 +1,8 @@
 ---
 title: "How Do We Train an AI Tutor to Guide Students Rather Than Answer Them?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-02T08:08:31-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, developing-ai-tutor, ai-agents-support-students-instructors]
 weight: 72
 type: faq
 foundations: [ai-education, agency]

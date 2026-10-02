@@ -1,7 +1,8 @@
 ---
 title: "How Can I Reduce AI Cheating in My Course?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-09-18T06:20:00-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]

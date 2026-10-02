@@ -1,7 +1,8 @@
 ---
 title: "How Do I Write a Course AI Policy and Communicate It to Students?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-09-17T02:50:00-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, institutional-ai-policy, asynchronous-online-courses-ai]
 weight: 70
 type: faq
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]

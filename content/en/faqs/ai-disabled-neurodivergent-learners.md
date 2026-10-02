@@ -1,7 +1,8 @@
 ---
 title: "How Can AI Support Disabled and Neurodivergent Learners in My Course?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-09-19T06:28:59-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [equity-ethics-pedagogical-safety-research, reducing-over-reliance]
 weight: 65
 type: faq
 methods: [meta-analysis-systematic-review]

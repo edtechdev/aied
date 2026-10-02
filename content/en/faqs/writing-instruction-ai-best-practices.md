@@ -1,7 +1,8 @@
 ---
 title: "What Are Best Practices for Writing Instruction in the Context of AI?"
 created: "2026-09-12T08:13:03-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
 ethics: [ai-use-disclosure, multilingual-learning]

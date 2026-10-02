@@ -1,7 +1,8 @@
 ---
 title: "How Do I Design Faculty Development for AI That Actually Changes Practice?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-09-18T09:10:00-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
 weight: 65
 type: faq
 foundations: [educational-development, teacher-role, tpack, teacher-ai-competency]

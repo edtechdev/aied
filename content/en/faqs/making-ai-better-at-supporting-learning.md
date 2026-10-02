@@ -1,7 +1,8 @@
 ---
 title: "How Can We Make AI Better at Supporting Learning in Our Own Subject?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-02T08:07:09-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, developing-ai-tutor, designing-educational-ai-software]
 weight: 74
 type: faq
 foundations: [ai-education]
