@@ -1,7 +1,8 @@
 ---
 title: "How Do We Know an Educational AI Is Working Correctly, Not Just Scoring Well?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-02T08:08:31-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -23,73 +24,83 @@ ai_assist:
     agent: hermes-agent
 ---
 
-The failure mode here is silent. A model can reach excellent similarity and ranking scores while producing output nobody can use — one system in this knowledge base scored well on essays and generated truncated, unparseable feedback in the same deployment. So the question is not whether your metrics improved. It is whether they measure the thing you actually care about.
+An educational AI can look like it is working while it is not. The scores you see most often — how similar the model's answer is to a correct one, or how closely its grades match a human's — can look strong while the thing you actually care about is broken.
 
-## Similarity is not correctness
+In one project in this knowledge base, the same system earned a good agreement score for grading essays and, in the same deployment, produced feedback that was cut off mid-sentence and unreadable. The grading worked. The feedback did not. Nothing in the headline number said so.
 
-This is the most common trap in the fine-tuning literature here. **ROUGE-L and QWK measure similarity and ranking, not derivational correctness.**
+This page is about telling the difference, and it assumes no background in measurement.
 
-The Linear Control Systems course assistant is a good example of doing it properly and still flagging the caveat: its best configuration reached ROUGE-L **0.4093** with bootstrap confidence intervals for the gain entirely above zero, and structured-output coverage near **1.00** — and the authors state plainly that their metrics measure similarity and formatting ([[lora-finetuned-control-systems-course-qa-2026]]).
+## What the usual scores actually measure
 
-A student can reach a wrong answer by a wrong route that looks like a right one. No similarity metric will tell you. If the construct is *the reasoning is sound*, you need an instrument that reads the reasoning.
+Two kinds of number dominate this literature, and both measure **resemblance rather than correctness**.
 
-## The same system can pass one check and fail the next
+- **Similarity scores** (you will see them called ROUGE and BLEU) compare the wording of the model's answer with the wording of a reference answer. A model that writes something close to the expected text scores well — even if its reasoning is wrong, and even if a student could reach the right answer by a route that teaches nothing.
+- **Agreement scores** (you will see QWK, or quadratic weighted kappa) measure how closely the model's grades line up with a human's grades. A model can agree with the grader on the final mark while being wrong about *why*, which is the part a student learns from.
 
-WrAFT is the clearest case in the knowledge base. A fine-tuned GPT-4o module reached **QWK 0.84** and **RMSE 0.44** on 360 held-out TOEFL essays for *scoring*. The same project's supervised fine-tune for *feedback generation* produced truncated and unparseable output, while directly prompting Claude 3.7 produced the feedback teachers rated best ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+A student can reach a wrong answer by a wrong route that looks like a right one, and no similarity score will notice. If what you care about is the reasoning, you need something that reads the reasoning — a rubric applied by a person, or a check written for that particular step.
 
-The lesson generalizes: an excellent score on one module says nothing about the module beside it. Evaluate each output your system produces, not the system's headline number.
+The Linear Control Systems course assistant is a good example of a team reporting this honestly. Its best configuration reached a similarity score of **0.4093** against reference answers, with the improvement measured reliably above zero, and the authors state plainly that their numbers measure wording and format ([[lora-finetuned-control-systems-course-qa-2026]]).
 
-## Check whether your automated checks agree with humans
+## A system can pass one test and fail the next
 
-A validation layer is not self-validating. A frontier untrained GPT-4 produced roughly **35%** too-general, incorrect or answer-revealing hints when authoring feedback for an [[intelligent-tutoring|intelligent tutoring system]], and **its own automated quality checks misaligned with human judgment**. The authors conclude that LLMs lack an internal model of instruction and that robust validation or domain-specific training is needed before unsupervised learner-facing use ([[reddig-maclellan-personalized-feedback-llm-2026]]).
+This is the most useful lesson in the knowledge base, because it is the one that catches people out.
 
-Before trusting an LLM-as-judge score, check it against human ratings on a sample. If the two disagree, the automated number is not evidence.
+In the WrAFT project, a fine-tuned model reached an agreement score of **0.84** with human graders across 360 held-out TOEFL essays. That is a strong result for *grading*. The same project's model trained to *write feedback* produced output that was truncated and unparseable — while simply prompting a different model produced the feedback teachers preferred ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
-## Turn an accuracy number into an operating policy
+So evaluate every output your system produces, one at a time. A good score on the grading module tells you nothing about the feedback module beside it.
 
-A correlation is not a deployment decision. The confidence-routing result is the best template in the knowledge base for closing that gap: confidence was a reliable predictor of scoring error (**β = −0.602, p < .001**), and routing the least confident **20%** of responses to human review moved a fine-tuned GPT-3.5 model from **r = 0.781 to r = 0.822** (RMSE 0.5990 → 0.5544) while cutting manual scoring work by roughly **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
+## Check whether your automatic checker agrees with people
 
-That is what a usable evaluation looks like: it names the threshold, the human's role, and the cost saved. "QWK 0.84" does not.
+Many teams now use a second AI to check the first one. That is reasonable, but the second AI is not automatically right.
 
-## When the target is a construct, measure the construct
+A study that had a frontier model author hints for an [[intelligent-tutoring|intelligent tutoring system]] found roughly **35%** of them were too general, incorrect, or gave the answer away — and the model's own automated quality checks disagreed with human judgment about which ones were bad ([[reddig-maclellan-personalized-feedback-llm-2026]]).
 
-The way out of the similarity trap is to train and measure the same quantity. The item-parameter result is the cleanest example in the knowledge base: a fine-tuned multimodal model (Qwen3.5-based) was shown to reconstruct item characteristic curves for multiple-choice items, **learning the response patterns encoded in 3PL and MCM curves rather than being told them** ([[multimodal-item-parameter-estimation-2026]]). The target was a measurable property of the assessment, so the evaluation could be about that property.
+Practical version: take a sample of about fifty outputs, have a person rate them, and compare that with your automatic checker's ratings. If the two disagree, your automatic number is not evidence.
 
-Two cautions to carry alongside it:
+## Turn a score into a rule you can act on
 
-- **Ranking and calibration are different claims.** A model can rank students correctly while being wrong about how likely each is to need help. If your system triggers an intervention, calibration is the number that matters.
-- **Report the progression, not just the endpoint.** SWIM's simulator reported rubric-prompting (0.577), supervised fine-tuning (0.474 ± 0.023) and reinforcement learning (0.618 ± 0.005) as a sequence ([[swim-student-writing-simulation-2026]]), which is what makes the training's contribution legible. A single final score cannot tell a reader whether the training did anything.
+A correlation tells you the model is usually right. It does not tell you what to do on the occasions when it is not. The confidence-routing result is the clearest template here, and it is simple enough to copy.
 
-## Test safety at conversation length
+Confidence turned out to be a reliable warning sign: when the model was unsure, it was more likely to be wrong (**β = −0.602, p < .001**). So the team sent the least confident **20%** of responses to a human. That single rule raised agreement with human grades from **0.78 to 0.82** and cut manual grading work by roughly **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
 
-Accuracy testing at the single turn misses the harms that accumulate. SafeTutors shows that even specialized pedagogical models degrade across sustained dialogue and can commit answer over-disclosure harms ([[hazra-safetutors-pedagogical-safety-2026]]).
+Notice what the report contains: a threshold, a person, and a saving. "Agreement 0.84" contains none of those, which is why it is hard to act on.
 
-Run the safety evaluation across whole conversations, and include the turns where the student is wrong, persistent, or pushing. Single-turn safety passes are the weakest evidence a tutoring system can offer.
+## When you can, measure the thing itself
 
-## If you simulate students, validate the simulator
+The cleanest fix is to train the model on the same quantity you intend to measure. A fine-tuned model was trained to reproduce the statistical properties of test questions — the numbers describing how hard each question is and how well it separates stronger from weaker students — and it learned those patterns rather than being told them ([[multimodal-item-parameter-estimation-2026]]). The target was a property of the assessment itself, so the evaluation could be about that property instead of about wording.
 
-Generating learners instead of recruiting them changes the economics of evaluation, but a simulator is a measurement instrument and inherits every validity question that implies.
+Report the progression as well as the endpoint. SWIM's writing simulator published each stage's score side by side — rubric-based prompting **0.577**, fine-tuning **0.474 ± 0.023**, reinforcement learning **0.618 ± 0.005** ([[swim-student-writing-simulation-2026]]) — which is what lets a reader see whether the training did anything. A single final number cannot tell them that.
 
-Benchmarking fine-tuned and prompted models on **382 held-out dialogues** from the largest public corpus of real student–tutor mathematics dialogues — across seven metrics spanning linguistic, behavioral and cognitive aspects — is the field's most direct test of whether simulated students behave like students ([[simulated-students-tutoring-dialogues-2026]]). Related approaches push on fidelity from other directions: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] fine-tunes models to both *act* and *think* like students, and history-aware profiles condition simulation on a student's prior trajectory rather than a static persona ([[history-aware-student-simulation]]).
+## Test safety over a whole conversation, not one reply
 
-If your evaluation harness is a simulated student, validate the simulator before you trust its verdicts on your tutor.
+Most safety testing checks a single exchange. The harms that matter in tutoring accumulate. SafeTutors found that even models built specifically for teaching degrade over a long conversation and can reveal answers they should be withholding ([[hazra-safetutors-pedagogical-safety-2026]]).
 
-## Benchmarks give you an external reference point
+Run the safety check across complete conversations, and include the turns where the student is wrong, keeps pushing, or tries to talk the model out of its role.
 
-When you have no baseline of your own, an external benchmark tells you whether a number is good. On the CDPK pedagogy benchmark, EduQwen reached **96.52%** against Gemini-3 Pro's **90.55%** ([[singh-eduqwen-pedagogical-rl-2026]]). The Pedagogy Benchmark, drawn from real teacher professional-development exams across **97 models**, found accuracy ranging from **28% to 89%** — a reminder that pedagogical knowledge is not acquired incidentally during general pretraining ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+## If you test with fake students, check the fake students first
 
-Read benchmarks as ranges rather than verdicts. A model at the top of a 28–89% spread is doing something very different from one at the bottom, and the spread itself is the finding.
+Generating simulated students instead of recruiting real ones makes evaluation far cheaper. But a simulated student is a measuring instrument, and it can be wrong in the ways any instrument can.
+
+The most direct test of this in the knowledge base benchmarked simulated and prompted students against **382 held-out dialogues** from the largest public collection of real student–tutor mathematics dialogues, using seven measures covering language, behavior and thinking ([[simulated-students-tutoring-dialogues-2026]]). Other work pushes on realism from different angles: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] trains models to both *act* and *think* like students, and history-aware profiles condition the simulation on a student's past rather than a fixed persona ([[history-aware-student-simulation]]).
+
+If your testing harness is a simulated student, check the simulator before you trust what it says about your tutor.
+
+## Compare against something outside your own project
+
+If you have no baseline of your own, an outside benchmark tells you whether your number is any good. On the CDPK pedagogy benchmark, EduQwen reached **96.52%** against Gemini-3 Pro's **90.55%** ([[singh-eduqwen-pedagogical-rl-2026]]). The Pedagogy Benchmark, built from real teacher professional-development exams and covering **97 models**, found accuracy ranging from **28% to 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+
+That spread is the point: on a task about teaching, models ranged from poor to good. Read benchmark results as a range you sit inside, not as a verdict.
 
 ## A checklist before you ship
 
-**1.** State the construct you are measuring, and name a metric that measures *it* rather than similarity.
-**2.** Establish a baseline, including a trivial one — the course assistant's ungrounded model scored below TF-IDF.
-**3.** Evaluate each output separately; a good score does not transfer between modules.
-**4.** Sample-check any LLM-as-judge against human ratings.
-**5.** Convert accuracy into an operating policy: a threshold, a human, and a cost.
-**6.** Test safety across whole conversations, not single turns.
-**7.** Validate any student simulator you use as a measuring instrument.
-**8.** Keep the failure cases. Truncated output and answer-revealing hints are the findings, not the noise.
+**1.** Write down in one sentence what you actually care about, and pick a measure that captures *that* rather than similarity.
+**2.** Get a baseline first, including a simple one. The course assistant's model with no grounding scored below a plain keyword search.
+**3.** Check each output your system produces separately.
+**4.** Have a person rate a sample and compare it with your automatic checker.
+**5.** Turn accuracy into a rule: a threshold, a person, and a saving.
+**6.** Test safety across whole conversations.
+**7.** Check any simulated student before trusting it.
+**8.** Keep the failures. Truncated feedback and answer-revealing hints are the findings, not the noise.
 
 ## Related questions
 

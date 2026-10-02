@@ -1,7 +1,8 @@
 ---
 title: "How Should AI in Education Research Incorporate Equity, Accessibility, Privacy, Ethics, and Pedagogical Safety?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-09-19T06:28:59-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
 
 ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy, pedagogical-safety]

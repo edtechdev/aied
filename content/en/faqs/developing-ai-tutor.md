@@ -1,7 +1,8 @@
 ---
 title: "What Are Best Practices for Developing an Effective AI Tutor?"
 created: "2026-08-29T20:36:43-04:00"
-updated: "2026-09-19T06:28:59-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, designing-educational-ai-software]
 weight: 74
 type: faq
 foundations: [learner-identity]

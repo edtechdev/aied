@@ -327,6 +327,7 @@ const faqs = defineCollection({
     updated: timeField.optional().transform(v => v ?? ''),
     weight: z.number().catch(0).transform(v => Number.isFinite(v) ? v : 0).optional(),
     source_url: z.string().optional(),
+    connected_faqs: connectedFaqs,
     connected_resources: connectedResources,
     ...structuredMeta,
     ...provenance,

@@ -1,7 +1,8 @@
 ---
 title: "How Should I Handle AI in Group and Collaborative Assignments?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-09-17T03:00:00-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
 type: faq
 foundations: [academic-integrity, agency]

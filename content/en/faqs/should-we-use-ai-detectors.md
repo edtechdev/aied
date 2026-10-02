@@ -1,7 +1,8 @@
 ---
 title: "Should We Use AI Detectors?"
 created: "2026-09-17T09:21:00-04:00"
-updated: "2026-09-19T06:28:59-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]

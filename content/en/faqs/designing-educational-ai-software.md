@@ -1,7 +1,8 @@
 ---
 title: "What Are Best Practices and Tips for Designing Effective Educational AI Software?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-09-18T09:10:00-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]

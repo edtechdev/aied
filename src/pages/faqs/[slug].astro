@@ -34,6 +34,15 @@ const connectedResources = (faq.data.connected_resources || [])
   .map(s => resourceById.get(s))
   .filter((r): r is NonNullable<typeof r> => Boolean(r));
 
+// Connected FAQs: slugs in frontmatter `connected_faqs`, rendered the same way as on
+// concept and article pages so a reader can move between related questions. A page is
+// never listed against itself, and unknown slugs are dropped rather than rendered.
+const faqById = new Map(faqs.map(f => [f.id.replace('.md', ''), f]));
+const connectedFaqs = (faq.data.connected_faqs || [])
+  .filter((s: string) => s !== slug)
+  .map(s => faqById.get(s))
+  .filter((f): f is NonNullable<typeof f> => Boolean(f));
+
 const allArticles = await getCollection('articles');
 
 
@@ -84,6 +93,9 @@ const allTitles: Record<string, string> = {};
 
 const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs, titles: allTitles });
 const toc = rendered.headings.filter(h => h.depth <= 3);
+if (connectedFaqs.length > 0) {
+  toc.push({ text: 'Connected FAQs', slug: 'connected-faqs', depth: 2 });
+}
 if (connectedResources.length > 0) {
   toc.push({ text: 'Connected Resources', slug: 'connected-resources', depth: 2 });
 }
@@ -113,6 +125,16 @@ if (connectedResources.length > 0) {
     <div style="line-height:1.8" data-pagefind-body>
       <Fragment set:html={rendered.html} />
     </div>
+
+    <ConnectedList
+      id="connected-faqs"
+      heading="Connected FAQs"
+      items={connectedFaqs.map((f: any) => ({
+        href: `/aied/faqs/${f.id.replace('.md', '')}/`,
+        title: f.data.title,
+        kind: 'faq' as const,
+      }))}
+    />
 
     <ConnectedList
       id="connected-resources"

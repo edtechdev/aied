@@ -1,7 +1,8 @@
 ---
 title: "What Are Notable Gaps in the Research Literature on AI in Education?"
 created: "2026-08-24T14:10:00-04:00"
-updated: "2026-09-19T06:28:59-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [reporting-interpreting-aied-research, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 weight: 45
 type: faq
 foundations: [limitations-in-aied-research]

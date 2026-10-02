@@ -1,7 +1,8 @@
 ---
 title: "What Are the Top 10 Findings from AI in Education Research That Instructors Should Know About?"
 created: "2026-08-24T09:42:00-04:00"
-updated: "2026-09-19T14:21:37-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [addressing-common-misconceptions-ai-education, does-ai-help-students-learn, reduce-ai-cheating, faculty-ai-competencies]
 weight: 100
 foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]
 assessment: [assessment]

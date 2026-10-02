@@ -1,7 +1,8 @@
 ---
 title: "How Do I Redesign Assessment So That a Grade Still Tells Me Something Defensible About What the Student Knows or Can Do?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-10-02T08:21:34-04:00"
+connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
