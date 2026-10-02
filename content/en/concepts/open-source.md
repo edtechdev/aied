@@ -1,8 +1,9 @@
 ---
 title: Open Source
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-02T08:08:45-04:00"
 type: concept
+connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [agentic-ai, ai-education, curriculum-design]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, edtech-platform, open-source]
 assessment: [automated-assessment]

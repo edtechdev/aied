@@ -1,8 +1,8 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T16:25:27-04:00"
-connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
+updated: "2026-10-02T08:08:45-04:00"
+connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]

@@ -1,8 +1,8 @@
 ---
 title: Pedagogical Safety
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
-connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13]
+updated: "2026-10-02T08:08:45-04:00"
+connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
 technology: [llm, rag]

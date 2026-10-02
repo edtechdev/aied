@@ -1,8 +1,9 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-10-02T07:35:56-04:00"
+updated: "2026-10-02T08:08:45-04:00"
 type: concept
+connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]
 technology: [affective-computing, generative-ai, llm]
 assessment: [feedback]

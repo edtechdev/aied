@@ -1,8 +1,9 @@
 ---
 title: LLM Training and Fine-Tuning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-02T07:37:16-04:00"
+updated: "2026-10-02T08:08:45-04:00"
 type: concept
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
 pedagogy: [scaffolding]
 technology: [generative-ai, llm, intelligent-tutoring, adaptive-learning, reinforcement-learning, open-source, educational-nlp]
