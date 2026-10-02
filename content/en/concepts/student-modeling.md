@@ -1,8 +1,9 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-02T07:37:41-04:00"
+updated: "2026-10-02T08:36:43-04:00"
 type: concept
+connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 reviewed_by: [editor]

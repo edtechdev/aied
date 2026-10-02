@@ -2,8 +2,8 @@
 connected_resources: [deeptutor]
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-09-30T09:59:35-04:00"
-connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai]
+updated: "2026-10-02T08:36:43-04:00"
+connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding]

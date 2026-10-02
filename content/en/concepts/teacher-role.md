@@ -1,14 +1,14 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T09:22:04-04:00"
+updated: "2026-10-02T08:36:43-04:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring]
 audience: [instructors, faculty developers, learners]
 level: [k 12, higher ed]
-connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai]
+connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 
 confidence: high
 reviewed_by: [editor]
