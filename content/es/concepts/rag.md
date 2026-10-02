@@ -1,7 +1,8 @@
 ---
 title: RAG (Generación Aumentada por Recuperación)
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-09-28T18:15:22-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [making-ai-better-at-supporting-learning]
 type: concept
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
 ethics: [hallucination-risk, pedagogical-safety]

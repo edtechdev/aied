@@ -1,12 +1,13 @@
 ---
 title: "¿Qué medidas y métodos de investigación puede usar un docente para evaluar intervenciones relacionadas con la IA?"
 created: "2026-09-22T18:29:05-04:00"
-updated: "2026-09-22T18:29:05-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-source_updated: "2026-09-14T13:43:30-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/evaluating-ai-interventions-methods
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

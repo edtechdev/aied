@@ -1,7 +1,8 @@
 ---
 title: Simular estudiantes
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-09-28T19:10:59-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge-tracing, llm, pedagogical-agent, simulation, student-modeling]

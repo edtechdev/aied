@@ -1,11 +1,11 @@
 ---
 title: Punto de referencia
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-09-28T22:21:27-04:00"
+updated: "2026-10-02T09:09:37-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
-connected_faqs: [reporting-interpreting-aied-research]
+connected_faqs: [reporting-interpreting-aied-research, checking-whether-educational-ai-works]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]

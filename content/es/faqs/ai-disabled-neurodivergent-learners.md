@@ -1,7 +1,8 @@
 ---
 title: "¿Cómo puede la IA apoyar al estudiantado con discapacidad y neurodivergente en mi curso?"
 created: "2026-09-22T18:32:58-04:00"
-updated: "2026-09-22T18:32:58-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [equity-ethics-pedagogical-safety-research, reducing-over-reliance]
 weight: 65
 type: faq
 methods: [meta-analysis-systematic-review]
@@ -9,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-source_updated: "2026-09-19T06:28:59-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

@@ -1,14 +1,15 @@
 ---
 title: "¿Deberíamos usar detectores de IA?"
 created: "2026-09-22T18:29:10-04:00"
-updated: "2026-09-22T18:29:10-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
 ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 institutions: [educational-policy-ai, governance]
-source_updated: "2026-09-19T06:28:59-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/should-we-use-ai-detectors
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

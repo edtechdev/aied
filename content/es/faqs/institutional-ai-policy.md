@@ -1,7 +1,8 @@
 ---
 title: "¿Cómo redactamos e implantamos una política institucional sobre la IA?"
 created: "2026-09-22T18:53:09-04:00"
-updated: "2026-09-22T18:53:09-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research]
 weight: 65
 type: faq
 ethics: [equity-in-ai-education, ethics, privacy]
@@ -9,7 +10,7 @@ research_method: [policy analysis, literature review, delphi]
 audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
-source_updated: "2026-09-18T09:10:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/institutional-ai-policy
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

@@ -1,7 +1,8 @@
 ---
 title: "¿Cómo debería manejar la IA en los trabajos grupales y colaborativos?"
 created: "2026-09-22T18:29:05-04:00"
-updated: "2026-09-22T18:29:05-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
 type: faq
 foundations: [academic-integrity, agency]
@@ -11,7 +12,7 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-09-17T03:00:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/group-work-ai
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

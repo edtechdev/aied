@@ -1,7 +1,8 @@
 ---
 title: "¿Cuáles son las mejores prácticas para informar e interpretar la investigación sobre IA en educación?"
 created: "2026-09-22T18:29:07-04:00"
-updated: "2026-09-22T18:29:07-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [checking-whether-educational-ai-works, research-gaps-aied, evaluating-ai-interventions-methods]
 weight: 65
 type: faq
 foundations: [limitations-in-aied-research, interpreting-and-applying-aied-research]
@@ -11,7 +12,7 @@ research_method: [literature review]
 audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
-source_updated: "2026-09-19T06:28:59-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/reporting-interpreting-aied-research
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

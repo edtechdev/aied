@@ -1,11 +1,12 @@
 ---
 title: "¿Cómo puedo rediseñar la evaluación para que una calificación siga diciéndome algo defendible sobre lo que el estudiante sabe o puede hacer?"
 created: "2026-09-22T18:29:05-04:00"
-updated: "2026-09-22T18:29:05-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-source_updated: "2026-09-17T02:26:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/redesign-assessment-ai-era
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

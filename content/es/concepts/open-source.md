@@ -1,7 +1,8 @@
 ---
 title: Código abierto
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-09-28T21:41:14-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [making-ai-better-at-supporting-learning]
 type: concept
 foundations: [agentic-ai, ai-education, curriculum-design]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, edtech-platform, open-source]

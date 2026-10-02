@@ -1,15 +1,14 @@
 ---
 title: La docencia
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-09-28T22:10:53-04:00"
+updated: "2026-10-02T09:09:37-04:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring]
 audience: [instructors, faculty developers, learners]
 level: [k 12, higher ed]
-connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai]
-
+connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
 source_updated: "2026-09-28T04:14:44-04:00"

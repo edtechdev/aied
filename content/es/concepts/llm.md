@@ -1,7 +1,8 @@
 ---
 title: Grandes modelos de lenguaje (LLM)
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-09-25T03:07:36-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [making-ai-better-at-supporting-learning]
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, intelligent-tutoring, prompt-engineering, rag]

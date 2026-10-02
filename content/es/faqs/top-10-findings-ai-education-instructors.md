@@ -1,13 +1,14 @@
 ---
 title: "¿Cuáles son los 10 hallazgos principales de la investigación sobre IA en educación que el profesorado debería conocer?"
 created: "2026-09-22T18:29:07-04:00"
-updated: "2026-09-22T18:29:07-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [addressing-common-misconceptions-ai-education, does-ai-help-students-learn, reduce-ai-cheating, faculty-ai-competencies]
 weight: 100
 foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]
 assessment: [assessment]
 research_method: [literature review]
 audience: [instructors]
-source_updated: "2026-09-19T14:21:37-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/top-10-findings-ai-education-instructors
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

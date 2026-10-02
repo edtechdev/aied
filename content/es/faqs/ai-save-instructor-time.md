@@ -1,12 +1,13 @@
 ---
 title: "¿Cómo puede ahorrarme tiempo la IA como docente?"
 created: "2026-09-22T18:29:10-04:00"
-updated: "2026-09-22T18:29:10-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-source_updated: "2026-09-17T02:26:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/ai-save-instructor-time
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

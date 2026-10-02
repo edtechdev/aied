@@ -1,7 +1,8 @@
 ---
 title: "¿Cuáles son las lagunas notables en la literatura de investigación sobre la IA en la educación?"
 created: "2026-09-22T18:29:05-04:00"
-updated: "2026-09-22T18:29:05-04:00"
+updated: "2026-10-02T09:09:37-04:00"
+connected_faqs: [reporting-interpreting-aied-research, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 weight: 45
 type: faq
 foundations: [limitations-in-aied-research]
@@ -12,7 +13,7 @@ research_method: [literature review]
 level: [higher ed]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-source_updated: "2026-09-19T06:28:59-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/research-gaps-aied
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
