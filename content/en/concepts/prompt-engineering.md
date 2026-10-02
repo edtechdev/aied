@@ -1,8 +1,9 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-02T08:08:45-04:00"
 type: concept
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, llm, prompt-engineering]

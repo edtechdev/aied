@@ -1,8 +1,9 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-01T19:39:20-04:00"
+updated: "2026-10-02T08:08:45-04:00"
 type: concept
+connected_faqs: [checking-whether-educational-ai-works]
 foundations: [agentic-ai, teacher-role]
 technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge-tracing, llm, pedagogical-agent, simulation, student-modeling]
 audience: [instructors]

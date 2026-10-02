@@ -1,8 +1,9 @@
 ---
 title: Large Language Models (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-02T07:32:07-04:00"
+updated: "2026-10-02T08:08:45-04:00"
 type: concept
+connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
 technology: [generative-ai, intelligent-tutoring, prompt-engineering, rag]
 assessment: [automated-assessment]
