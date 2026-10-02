@@ -18,7 +18,7 @@ discipline: [learning sciences]
 audience: [researchers, software developers]
 foundations: [curriculum-design]
 pedagogy: [prior-knowledge, transfer-of-learning]
-technology: [pedagogical-llm-training, llm, reinforcement-learning]
+technology: [llm-training-and-fine-tuning, llm, reinforcement-learning]
 methods: [benchmark]
 ---
 
@@ -49,7 +49,7 @@ The paper offers this setting as a substrate for the [[learning-sciences|learnin
 
 - **Instructors.** Do not read a model's curriculum-shaped competence as a student's prerequisite structure: LITTLELEARNER was sometimes better at a downstream skill than at its prerequisite, so a right answer to a hard question is not evidence that the groundwork is there.
 - **Researchers.** Use the released corpus and model as a controlled substrate for attribution studies — [[prior-knowledge|prior knowledge]] is fully specified here, so [[transfer-of-learning|transfer]] claims become checkable — but treat grade labels as a coarse proxy.
-- **Software developers.** Expect [[pedagogical-llm-training|post-training]] and [[prompt-engineering|prompting]] to sharpen behavior inside a model's training scope without widening it.
+- **Software developers.** Expect [[llm-training-and-fine-tuning|post-training]] and [[prompt-engineering|prompting]] to sharpen behavior inside a model's training scope without widening it.
 - **Curriculum designers.** Read a [[curriculum-design|curriculum]] as a specification of exposure, not an ordering a model will reproduce.
 
 ## Limitations

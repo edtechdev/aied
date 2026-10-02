@@ -51,7 +51,7 @@ The knowledge base's [[research-methods-aied|research]] examines pedagogy at the
 - **Teaching strategies for AI literacy.** Teaching students *to use AI well* is itself a pedagogical task — [[ai-literacy]] and [[reducing-ai-misuse]] research develops strategies (think-first/AI-second/reflect, AI-declaration, calibration training) that belong to this umbrella.
 
 - **AI-literacy instruction moves knowledge fastest.** A three-level meta-analysis of 59 studies (172 effect sizes) found knowledge-focused interventions (g ≈ .97) clearly outperformed those targeting skills (≈ .67), attitudes (≈ .68), or [[ethics]] (≈ .64), so pairing concept teaching with sustained practice targets the outcomes that resist instruction ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
-- **Pedagogy in teacher practice.** [[teacher-role]] and [[teacher-ai-competency]] examine how teachers adopt AI within their existing pedagogical repertoire, and [[pedagogical-llm-training]] / [[pedagogical-agent]] study AI tools trained to follow pedagogical principles.
+- **Pedagogy in teacher practice.** [[teacher-role]] and [[teacher-ai-competency]] examine how teachers adopt AI within their existing pedagogical repertoire, and [[llm-training-and-fine-tuning]] / [[pedagogical-agent]] study AI tools trained to follow pedagogical principles.
 
 ## Relationship to learning theories
 
@@ -103,7 +103,7 @@ That emphasis on preserved effort is not absolute: a four-study [[mixed-methods-
 - [[curriculum-design]]
 - [[higher-ed]]
 - [[k-12]]
-- [[pedagogical-llm-training]] — AI tools trained to follow pedagogical principles
+- [[llm-training-and-fine-tuning]] — AI tools trained to follow pedagogical principles
 ## Connected Articles
 - [[genai-didactic-pedagogical-mediator-2026]] — GenAI as didactic-pedagogical mediator: instructor–student–GenAI triadic model (Moganadas et al. 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'Pedagogy first, technology second' — TPAIK outweighs technical TAIK for student outcomes (Shen et al. 2026)

@@ -53,7 +53,7 @@ const ar: HomeStrings = {
     {
       id: 'developers',
       heading: 'المطوّرون',
-      html: `<a href="/aied/concepts/educational-technology-developers/">البناء من أجل التعليم</a>، و<a href="/aied/concepts/ai-technologies/">التقنيات التي تقوم عليها هذه الأنظمة</a>، و<a href="/aied/concepts/intelligent-tutoring/">التدريس الخصوصي الذكي</a>، و<a href="/aied/concepts/multimodal/">الذكاء الاصطناعي متعدد الوسائط</a>، و<a href="/aied/concepts/student-modeling/">نمذجة المتعلّم</a>، و<a href="/aied/concepts/pedagogical-llm-training/">تدريب نموذج للتدريس وتكييفه</a>.`,
+      html: `<a href="/aied/concepts/educational-technology-developers/">البناء من أجل التعليم</a>، و<a href="/aied/concepts/ai-technologies/">التقنيات التي تقوم عليها هذه الأنظمة</a>، و<a href="/aied/concepts/intelligent-tutoring/">التدريس الخصوصي الذكي</a>، و<a href="/aied/concepts/multimodal/">الذكاء الاصطناعي متعدد الوسائط</a>، و<a href="/aied/concepts/student-modeling/">نمذجة المتعلّم</a>، و<a href="/aied/concepts/llm-training-and-fine-tuning/">تدريب نموذج للتدريس وتكييفه</a>.`,
     },
     {
       id: 'administrators',

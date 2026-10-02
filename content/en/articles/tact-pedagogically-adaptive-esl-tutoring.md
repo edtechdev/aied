@@ -24,7 +24,7 @@ page_kind: [evaluation]
 2. **Strong in-domain gains.** On TACTBench, a strategy-balanced diagnostic of 78 authentic tutoring contexts, TACTutor improves 20.30 points over its Qwen3.5-4B backbone (TACT_Overall 0.629 → 0.832), with the accept rate rising from 0.603 to 0.872 and leak-or-overhelp falling from 0.346 to 0.026, outperforming all evaluated proprietary baselines.
 3. **Transfer preserved.** TACTutor matches or exceeds its backbone on external educational [[benchmark|benchmarks]] (MRBench, TutorBench, LongTutor, DeepTutor), indicating the taxonomy-aligned training improves in-domain ESL tutoring without over-specializing.
 4. **Learners perceive the shift.** In a blinded, within-participant study with 50 learners (200 conversations), TACTutor earned the highest overall mean rating (5.54/7), beating its backbone on all four [[teacher-role|teaching]]-behavior dimensions, with gains concentrated in encouragement (+0.58) and guiding (+0.40).
-5. **Open foundation.** Data (TACTCorpus), benchmark (TACTBench), and model weights are released publicly, providing an open basis for [[pedagogical-llm-training|pedagogically grounded]] language tutoring at scale.
+5. **Open foundation.** Data (TACTCorpus), benchmark (TACTBench), and model weights are released publicly, providing an open basis for [[llm-training-and-fine-tuning|pedagogically grounded]] language tutoring at scale.
 
 ## Framework Design
 
@@ -62,7 +62,7 @@ TACTutor is produced through a two-stage post-training process applied to the Qw
 - **Software developers.** Withhold gold labels from the policy at diagnostic time — TACT's protocol excludes student-move labels because annotated learner states would not be available in deployment, forcing the model to infer learner state from the dialogue itself.
 - **Software developers.** Score candidate responses on decomposed dimensions (pedagogical move, learner agency, ESL content accuracy, tone/rapport, cognitive load) plus accept, leak-or-overhelp, and off-task flags, so each failure points to taxonomy coverage, reward design, prompting, data filtering, or model capacity.
 - **Software developers.** Verify transfer on external [[benchmark|benchmarks]] (MRBench, TutorBench, LongTutor, DeepTutor) before claiming general tutoring improvement; TACTutor matched or exceeded its backbone on all four.
-- **Software developers.** Prefer a compact open backbone you can post-train over a larger proprietary API: the paper frames the recipe as supporting local deployment where inference cost, latency, and conversation confidentiality matter, and as [[pedagogical-llm-training|domain-agnostic]] enough to transfer to math, science, programming, and other languages.
+- **Software developers.** Prefer a compact open backbone you can post-train over a larger proprietary API: the paper frames the recipe as supporting local deployment where inference cost, latency, and conversation confidentiality matter, and as [[llm-training-and-fine-tuning|domain-agnostic]] enough to transfer to math, science, programming, and other languages.
 
 ## Limitations
 

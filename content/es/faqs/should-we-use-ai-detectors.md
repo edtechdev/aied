@@ -81,7 +81,7 @@ Si participas en una audiencia, esta es la sección que importa.
 
 - **La salida de un detector nunca es prueba aislada, nunca activa una consecuencia automática y nunca fundamenta una conclusión.** Dilo en la propia política, no en un memorando.([[karr-ai-detection-humanization-2026]])
 - **El estudiantado debe poder ver la acusación y responder a ella**, con el derecho al silencio preservado y una vía de verificación oral disponible para cualquier acusación que se base solo en el estilo.([[bassett-ai-detectors-education-2026]])
-- **Los términos de contratación deben cubrir la retención de datos, el uso para [[pedagogical-llm-training|entrenamiento de modelos]], la ubicación del almacenamiento, la notificación de brechas y los derechos de apelación**: el riesgo es de tu institución, no del proveedor.([[bassett-ai-detectors-education-2026]])
+- **Los términos de contratación deben cubrir la retención de datos, el uso para [[llm-training-and-fine-tuning|entrenamiento de modelos]], la ubicación del almacenamiento, la notificación de brechas y los derechos de apelación**: el riesgo es de tu institución, no del proveedor.([[bassett-ai-detectors-education-2026]])
 - **Financia la alternativa.** La queja documentada del profesorado es la "sospecha sin recurso", así que la partida que importa es la capacidad de verificación y la orientación, no una licencia de detección.([[best-response-student-ai-dialog-2026]])
 - **Pide por escrito las tasas de error y luego intenta validarlas localmente.** Si la tasa anunciada no puede reproducirse con tus propias entregas, como le ocurrió a Vanderbilt, esa es tu respuesta.([[teichmann-detecting-undetectable-misconduct-2026]])
 

@@ -71,7 +71,7 @@ If you sit in a hearing, this is the section that matters.
 
 - **Detector output is never standalone evidence, never triggers an automatic consequence, and never grounds a finding.** State this in the policy itself, not in a memo.([[karr-ai-detection-humanization-2026]])
 - **Students must be able to see the accusation and respond to it**, with the right to silence preserved and an oral verification route available for any allegation that rests on style alone.([[bassett-ai-detectors-education-2026]])
-- **Procurement terms should cover data retention, use for [[pedagogical-llm-training|model training]], storage location, breach notification, and appeal rights** — the risk sits with your institution, not the vendor.([[bassett-ai-detectors-education-2026]])
+- **Procurement terms should cover data retention, use for [[llm-training-and-fine-tuning|model training]], storage location, breach notification, and appeal rights** — the risk sits with your institution, not the vendor.([[bassett-ai-detectors-education-2026]])
 - **Fund the alternative.** The documented faculty complaint is "suspicion without recourse," so the budget line that matters is verification capacity and guidance, not a detection license.([[best-response-student-ai-dialog-2026]])
 - **Ask for error rates in writing, then try to validate them locally.** If the advertised rate cannot be reproduced on your own submissions — as Vanderbilt found — that is your answer.([[teichmann-detecting-undetectable-misconduct-2026]])
 

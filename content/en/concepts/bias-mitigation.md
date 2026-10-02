@@ -65,7 +65,7 @@ The knowledge base's research illustrates several complementary strategies:
 Bias mitigation is not a single fix but an ongoing process spanning the pipeline:
 
 1. **Data curation** — diversify training data and audit labels for identity-based gaps and unfair annotations.
-2. **[[pedagogical-llm-training|Model training]]** — apply debiasing and fairness-aware objectives (e.g., GroupDRO, doubly robust estimators).
+2. **[[llm-training-and-fine-tuning|Model training]]** — apply debiasing and fairness-aware objectives (e.g., GroupDRO, doubly robust estimators).
 3. **Prompt and system design** — design neutral prompts and systems that do not differentially respond to [[learner-identity|learner identity]].
 4. **Scoring and assessment** — validate that automated scoring measures understanding rather than language or demographic proxies.
 5. **Evaluation and auditing** — audit models across identity conditions (language, gender, culture) and require explainability to surface bias.

@@ -1,7 +1,7 @@
 ---
 title: "Simulated Students in Tutoring Dialogues: Substance or Illusion?"
 created: "2026-10-01T18:33:01-04:00"
-updated: "2026-10-01T18:33:01-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 sources: ['raw/papers/10.18653_v1_2026.acl-long.1960.md']
 confidence: high
@@ -22,7 +22,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Scarlatos, Lee, Woodhead, and Lan (2026) ask whether the [[simulating-students|simulated students]] now used to train and evaluate AI tutors actually behave like students. They formalize the task as predicting the next student turn in a real tutoring dialogue, define seven metrics spanning linguistic, behavioral, and cognitive aspects, and benchmark fine-tuned and prompted models on 382 held-out dialogues from the largest public corpus of real student–tutor math dialogues. The headline result is that [[prompt-engineering|prompting]] strategies perform poorly, and even the best method tested — [[reinforcement-learning|preference optimization]] on an 8B model — is only marginally better than supervised fine-tuning. A three-evaluator human study reproduces the automated ranking, so the finding is not an artifact of the metrics. The authors conclude that simulation quality is currently an illusion rather than a substance, and release code and annotations so others can measure it.
+> **Synthesis:** Scarlatos, Lee, Woodhead, and Lan (2026) ask whether the [[simulating-students|simulated students]] now used to train and evaluate AI tutors actually behave like students. They formalize the task as predicting the next student turn in a real tutoring dialogue, define seven metrics spanning linguistic, behavioral, and cognitive aspects, and benchmark fine-tuned and prompted models on 382 held-out dialogues from the largest public corpus of real student–tutor math dialogues. The headline result is that [[prompt-engineering|prompting]] strategies perform poorly, and even the best method tested — [[reinforcement-learning|preference optimization]] on an 8B model — is only marginally better than [[llm-training-and-fine-tuning|supervised fine-tuning]]. A three-evaluator human study reproduces the automated ranking, so the finding is not an artifact of the metrics. The authors conclude that simulation quality is currently an illusion rather than a substance, and release code and annotations so others can measure it.
 
 ## Key Findings
 

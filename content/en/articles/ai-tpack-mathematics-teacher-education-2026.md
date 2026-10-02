@@ -1,7 +1,7 @@
 ---
 title: "Assessing AI-TPACK readiness in mathematics teacher education: The role of self-efficacy and teaching beliefs"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-19T12:04:28-04:00"
+updated: "2026-10-02T07:32:04-04:00"
 type: article
 pedagogy: [self-efficacy]
 assessment: [educational-measurement]
@@ -29,7 +29,7 @@ page_kind: [evaluation]
 
 **Teaching beliefs as cognitive barrier.** Strong traditional teaching beliefs showed weak negative associations with AI-TCK (β = −0.03) and AI-TPK (β = −0.15), contrary to the H2 hypotheses, interpreted via second-order barriers and the conflict between traditional mathematical rigor and AI's perceived unpredictability. AI-TK did not directly predict AI-TPACK but was mediated through AI-TPK (β = 0.30) and AI-TCK (β = 0.35), which in turn predicted overall AI-TPACK (β = 0.59 and 0.64) — consistent with Ouyang et al.'s "know-how/know-why/know-how-to-teach" synthesis.
 
-**Implication.** Mathematics teacher training must be redesigned to address both technical proficiency and psychological readiness (self-efficacy and beliefs), embedding AI-[[pedagogical-llm-training|pedagogical training]] continuously across the four-year [[curriculum-design|curriculum]] rather than as a single elective, and linking to the knowledge base's [[teacher-education]] and [[math-education]] concepts. Limitations include cross-sectional self-reported data with potential social-desirability bias, restriction to the Chinese mathematics-education context, and exploratory pruning of non-significant paths (H2b, H3c) pending larger-sample validation.
+**Implication.** Mathematics teacher training must be redesigned to address both technical proficiency and psychological readiness (self-efficacy and beliefs), embedding AI-[[teacher-ai-competency|pedagogical training]] continuously across the four-year [[curriculum-design|curriculum]] rather than as a single elective, and linking to the knowledge base's [[teacher-education]] and [[math-education]] concepts. Limitations include cross-sectional self-reported data with potential social-desirability bias, restriction to the Chinese mathematics-education context, and exploratory pruning of non-significant paths (H2b, H3c) pending larger-sample validation.
 
 ## What this means for practice
 

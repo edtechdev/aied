@@ -36,7 +36,7 @@ ai_assist:
 
 ## Sistemas de IA en la educación
 
-- **Grandes modelos de lenguaje (LLM).** La columna vertebral computacional de la mayor parte de la [[ai-education|IAED]] moderna: los [[llm|LLM]] generan texto similar al humano para tutoría, evaluación y generación de contenido, y son la tecnología más citada de la base de conocimiento. El [[pedagogical-llm-training|entrenamiento pedagógico]] adapta los LLM generales al uso educativo.
+- **Grandes modelos de lenguaje (LLM).** La columna vertebral computacional de la mayor parte de la [[ai-education|IAED]] moderna: los [[llm|LLM]] generan texto similar al humano para tutoría, evaluación y generación de contenido, y son la tecnología más citada de la base de conocimiento. El [[llm-training-and-fine-tuning|entrenamiento pedagógico]] adapta los LLM generales al uso educativo.
 - **IA generativa.** La categoría más amplia de sistemas que producen texto, código, imágenes y otros contenidos: la [[generative-ai|IA generativa]] (impulsada principalmente por LLM) es la tecnología detrás de la ola actual de investigación en [[ai-education|IAED]]. Véanse también los [[multimodal|modelos multimodales]] (texto, imagen, audio) y la [[simulation|simulación]].
 - **Robots y sistemas corporeizados.** La [[educational-robotics|robótica educativa]] añade una presencia corporeizada y a menudo social: kits programables para el pensamiento computacional y robots humanoides o sociales para tutoría, narración y juego de roles. La robótica es una vertiente técnica distinta que se solapa con la [[agentic-ai|IA agéntica]] y el diseño con [[human-in-the-loop-ai|human-in-the-loop]].
 - **Sistemas basados en conocimiento.** Los [[knowledge-graph|grafos de conocimiento]] y la [[educational-nlp|PLN educativa]] representan y procesan conocimiento de dominio, cada vez más combinados con LLM para una tutoría fundamentada y explicable.
@@ -47,7 +47,7 @@ ai_assist:
 - **Generación aumentada por recuperación (RAG).** La [[rag|RAG]] fundamenta la salida del LLM en conocimiento recuperado, lo que reduce las alucinaciones y mejora la precisión: una técnica central para un despliegue educativo [[pedagogical-safety|seguro]].
 - **Aprendizaje por refuerzo.** El [[reinforcement-learning|aprendizaje por refuerzo]] entrena agentes para optimizar su comportamiento a lo largo del tiempo; se usa en [[adaptive-learning|sistemas adaptativos]] y en el [[game-based-learning|aprendizaje basado en juegos]].
 - **Orquestación agéntica.** Los sistemas de [[agentic-ai|IA agéntica]] planifican y ejecutan flujos de trabajo de varios pasos, a menudo orquestando varios agentes especializados (véanse los [[agentic-ai|sistemas multiagente]]), y están reconfigurando la IA de herramienta que responde a prompts en colaboradora proactiva.
-- **Entrenamiento y adaptación de modelos.** El [[pedagogical-llm-training|entrenamiento y ajuste fino de LLM para la pedagogía]], la [[educational-llm-alignment|alineación educativa]] y la [[cstutorbench-slm-tutors|adaptación de modelos de lenguaje pequeños]] hacen que los modelos generales sean específicos para la educación.
+- **Entrenamiento y adaptación de modelos.** El [[llm-training-and-fine-tuning|entrenamiento y ajuste fino de LLM para la pedagogía]], la [[educational-llm-alignment|alineación educativa]] y la [[cstutorbench-slm-tutors|adaptación de modelos de lenguaje pequeños]] hacen que los modelos generales sean específicos para la educación.
 
 ## Cómo se conecta la capa técnica con el campo
 
@@ -78,7 +78,7 @@ La vertiente técnica es inseparable de los demás temas de la base de conocimie
 - [[prompt-engineering]]
 - [[vibe-coding]]
 - [[rag]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[ai-ed-evaluation]]
 - [[benchmark]]
 - [[pedagogy]]

@@ -1,5 +1,5 @@
 ---
-title: Entrenamiento de LLM pedagógicos para la tutoría
+title: Entrenamiento y ajuste fino de LLM
 created: "2026-09-28T20:10:35-04:00"
 updated: "2026-09-28T20:10:35-04:00"
 type: concept
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 methods: [benchmark]
-translation_of: concepts/pedagogical-llm-training
+translation_of: concepts/llm-training-and-fine-tuning
 source_updated: "2026-09-22T09:52:55-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

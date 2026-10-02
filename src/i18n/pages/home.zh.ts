@@ -53,7 +53,7 @@ const en: HomeStrings = {
     {
       id: 'developers',
       heading: '开发者',
-      html: `<a href="/aied/concepts/educational-technology-developers/">为教育而开发</a>、<a href="/aied/concepts/ai-technologies/">底层技术</a>、<a href="/aied/concepts/intelligent-tutoring/">智能导学</a>、<a href="/aied/concepts/multimodal/">多模态 AI</a>、<a href="/aied/concepts/student-modeling/">学习者建模</a>，以及<a href="/aied/concepts/pedagogical-llm-training/">为教学训练和调整模型</a>。`,
+      html: `<a href="/aied/concepts/educational-technology-developers/">为教育而开发</a>、<a href="/aied/concepts/ai-technologies/">底层技术</a>、<a href="/aied/concepts/intelligent-tutoring/">智能导学</a>、<a href="/aied/concepts/multimodal/">多模态 AI</a>、<a href="/aied/concepts/student-modeling/">学习者建模</a>，以及<a href="/aied/concepts/llm-training-and-fine-tuning/">为教学训练和调整模型</a>。`,
     },
     {
       id: 'administrators',

@@ -54,7 +54,7 @@ const ja: HomeStrings = {
     {
       id: 'developers',
       heading: '開発者',
-      html: `<a href="/aied/concepts/educational-technology-developers/">教育のための開発</a>、<a href="/aied/concepts/ai-technologies/">基盤となる技術</a>、<a href="/aied/concepts/intelligent-tutoring/">知的個別指導システム</a>、<a href="/aied/concepts/multimodal/">マルチモーダルAI</a>、<a href="/aied/concepts/student-modeling/">学習者モデリング</a>、<a href="/aied/concepts/pedagogical-llm-training/">教育向けにモデルを訓練し適応させること</a>。`,
+      html: `<a href="/aied/concepts/educational-technology-developers/">教育のための開発</a>、<a href="/aied/concepts/ai-technologies/">基盤となる技術</a>、<a href="/aied/concepts/intelligent-tutoring/">知的個別指導システム</a>、<a href="/aied/concepts/multimodal/">マルチモーダルAI</a>、<a href="/aied/concepts/student-modeling/">学習者モデリング</a>、<a href="/aied/concepts/llm-training-and-fine-tuning/">教育向けにモデルを訓練し適応させること</a>。`,
     },
     {
       id: 'administrators',

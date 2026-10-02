@@ -5,7 +5,7 @@ updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [teacher-role]
 pedagogy: [student-ai-interaction]
-technology: [generative-ai, intelligent-tutoring, llm, pedagogical-llm-training, prompt-engineering, reinforcement-learning]
+technology: [generative-ai, intelligent-tutoring, llm, llm-training-and-fine-tuning, prompt-engineering, reinforcement-learning]
 research_method: [system development]
 audience: [instructors, software developers]
 confidence: high

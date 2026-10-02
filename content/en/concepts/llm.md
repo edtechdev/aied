@@ -1,7 +1,7 @@
 ---
 title: Large Language Models (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T12:20:22-04:00"
+updated: "2026-10-02T07:32:07-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, intelligent-tutoring, prompt-engineering, rag]
@@ -27,7 +27,7 @@ reviewed_by: [editor]
 
 LLMs are the most-referenced concept in the knowledge base (60+ articles) because they underpin nearly every AI education application:
 
-- **Tutoring:** [[intelligent-tutoring|AI tutors]] use LLMs for dialogue, explanation, and [[problem-solving]] guidance. [[pedagogical-llm-training|Pedagogical training]] adapts general LLMs for educational use.
+- **Tutoring:** [[intelligent-tutoring|AI tutors]] use LLMs for dialogue, explanation, and [[problem-solving]] guidance. [[llm-training-and-fine-tuning|Training and fine-tuning]] adapts general LLMs for educational use.
 - **Assessment:** [[automated-assessment|Grading systems]], [[automated-essay-scoring|essay scoring]], and [[llm-item-difficulty-prediction|item difficulty prediction]] leverage LLM capabilities. [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] show GPT-4o can estimate the difficulty of K-5 math and reading items (N = 5170) calibrated under the Rasch IRT model: zero-shot ratings correlated moderately-to-strongly with true difficulties (r = 0.83 math, r = 0.81 reading) but varied by grade, while a feature-based strategy in which the LLM extracts cognitive and linguistic features for tree-based models reached correlations up to r = 0.87 — evidence that structured feature extraction can outperform a single holistic LLM judgment. Across the aggregate grading literature, a PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) concludes that LLMs match human raters on short, well-structured tasks with detailed rubrics yet cannot fully replace human judgment on complex, open-ended, or subjective work, and that model version is a dominant determinant of grading quality ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). Reliability also varies sharply by item type: [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] found ChatGPT-5 matched faculty closely on objective pharmacy-exam items (CCC 0.935–1.000) but was unreliable on short-answer (CCC ≈0) and essay (0.341–0.854) items, and that providing a rubric did not consistently improve agreement.
 
 - **Generated item labels track surface form, not difficulty.** A 378-item audit found an LLM's Easy/Medium/Hard labels rose in lockstep with its own co-generated Bloom level (ρ=0.90) and with stem length (15.9 to 30.2 words) yet correlated with empirical item difficulty at only ρ=0.06 over 7,888 student responses, evidence that generation-time difficulty metadata describes formatting rather than demand on [[prior-knowledge|prior knowledge]] ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
@@ -65,7 +65,7 @@ LLMs also affirm preferentially: across 11 models, AI responses affirmed users 4
 - [[knowledge-tracing]]
 - [[higher-ed]]
 - [[scaffolding]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[learning-by-teaching]]
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 

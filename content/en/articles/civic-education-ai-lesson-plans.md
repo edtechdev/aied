@@ -4,7 +4,7 @@ created: "2026-05-09T04:33:04-04:00"
 updated: "2026-09-20T08:26:15-04:00"
 type: article
 foundations: [ai-literacy, teacher-role, teacher-ai-competency]
-technology: [generative-ai, pedagogical-llm-training]
+technology: [generative-ai, llm-training-and-fine-tuning]
 assessment: [formative-assessment]
 methods: [quantitative-research]
 ethics: [equity-in-ai-education]
@@ -59,7 +59,7 @@ All three [[conversational-ai|chatbots]] produced structurally identical lesson 
 
 ## Open Questions
 
-- Would fine-tuned educational LLMs (e.g., [[pedagogical-llm-training|EduQwen]]) produce more cognitively demanding and multiculturally-aware lesson plans?
+- Would fine-tuned educational LLMs (e.g., [[llm-training-and-fine-tuning|EduQwen]]) produce more cognitively demanding and multiculturally-aware lesson plans?
 - How do these findings generalize to other subjects (math, science, language arts)?
 - Can better [[prompt-engineering|prompt engineering]] (e.g., explicitly requesting [[critical-thinking|higher-order thinking]] and multicultural integration) close the gap?
 - What does the teacher revision process look like in practice — do teachers have the time and training to meaningfully redesign AI outputs?

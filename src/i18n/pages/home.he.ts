@@ -31,7 +31,7 @@ const he: HomeStrings = {
     {
       id: 'developers',
       heading: 'מפתחים',
-      html: `<a href="/aied/concepts/educational-technology-developers/">בנייה עבור החינוך</a>, <a href="/aied/concepts/ai-technologies/">הטכנולוגיות שמתחת לפני השטח</a>, <a href="/aied/concepts/intelligent-tutoring/">הוראה חכמה (intelligent tutoring)</a>, <a href="/aied/concepts/multimodal/">בינה מלאכותית רב-מודאלית (multimodal)</a>, <a href="/aied/concepts/student-modeling/">מודל הלומד (learner modeling)</a>, ו<a href="/aied/concepts/pedagogical-llm-training/">אימון והתאמה של מודל להוראה</a>.`,
+      html: `<a href="/aied/concepts/educational-technology-developers/">בנייה עבור החינוך</a>, <a href="/aied/concepts/ai-technologies/">הטכנולוגיות שמתחת לפני השטח</a>, <a href="/aied/concepts/intelligent-tutoring/">הוראה חכמה (intelligent tutoring)</a>, <a href="/aied/concepts/multimodal/">בינה מלאכותית רב-מודאלית (multimodal)</a>, <a href="/aied/concepts/student-modeling/">מודל הלומד (learner modeling)</a>, ו<a href="/aied/concepts/llm-training-and-fine-tuning/">אימון והתאמה של מודל להוראה</a>.`,
     },
     {
       id: 'administrators',

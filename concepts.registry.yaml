@@ -1092,6 +1092,24 @@ concepts:
     - language models
     - large language model
     - large language models
+  llm-training-and-fine-tuning:
+    title: LLM Training and Fine-Tuning
+    aliases:
+    - fine-tuning
+    - fine tuning
+    - llm fine-tuning
+    - fine-tuning tutors
+    - llm training
+    - model adaptation
+    - model training
+    - parameter-efficient fine-tuning
+    - pedagogical fine-tuning
+    - pedagogical training
+    - post-training
+    - pretraining
+    - instruction tuning
+    - LoRA
+    - training pedagogical LLMs
   machine-learning:
     title: Machine Learning
     aliases:
@@ -1365,17 +1383,6 @@ concepts:
     - pedagogical agent
     - tutor agent
     - virtual agent
-  pedagogical-llm-training:
-    title: Training Pedagogical LLMs for Tutoring
-    aliases:
-    - fine-tuning tutors
-    - llm training
-    - LLM training for tutoring
-    - model training
-    - pedagogical fine-tuning
-    - pedagogical LLM
-    - pedagogical training
-    - training pedagogical LLMs
   pedagogical-partnerships:
     title: Pedagogical Partnerships
     aliases:
@@ -2206,6 +2213,7 @@ sections:
     - llm
     - rag
     - prompt-engineering
+    - llm-training-and-fine-tuning
     - vibe-coding
     - multimodal
     - speech-and-voice-technologies
@@ -2217,7 +2225,6 @@ sections:
     - conversational-ai
     - simulation
     - virtual-and-augmented-reality
-    - pedagogical-llm-training
   - label: Learner modeling and adaptive systems
     items:
     - student-modeling
@@ -2383,6 +2390,7 @@ sections:
     - sustainability
     - pedagogical-safety
 redirects:
+  pedagogical-llm-training: llm-training-and-fine-tuning
   evaluative-judgement: evaluative-judgment
   ai-anxiety-and-stress: anxiety-and-stress
   accessible-learning: inclusive-learning

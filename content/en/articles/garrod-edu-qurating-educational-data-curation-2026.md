@@ -10,7 +10,7 @@ research_method: [experiment, system development]
 level: [primary education, secondary]
 audience: [researchers, software developers]
 pedagogy: [scaffolding, prior-knowledge, misconceptions]
-technology: [educational-nlp, pedagogical-llm-training, llm]
+technology: [educational-nlp, llm-training-and-fine-tuning, llm]
 assessment: [educational-measurement]
 methods: [benchmark, ai-ed-evaluation, quantitative-research]
 ethics: [global-south, multilingual-learning, culturally-relevant-pedagogy]
@@ -22,7 +22,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Garrod and colleagues at Fab AI introduce Edu-QuRating, which adapts QuRating's preference distillation to [[educational-nlp|educational data curation]], replacing a single "is this educational?" score with separate dimensions of text quality. It defines 20 rubric dimensions — six core criteria such as factual accuracy, [[pedagogy|pedagogical]] structure and level suitability, plus student- and teacher-facing foundational-literacy dimensions modeled on the GEEAP reading report — and has GPT-4.1-mini compare document pairs under each rubric, distilling those preferences into Edu-QuRaters that score one text at a time. Trained on 200k judgments, the best scorer recovers held-out judge preferences with mean accuracy 0.917 (Gemma-3-4B-PT) against 0.895 for Sheared-LLaMA-1.3B. The scorers then labeled 322.25M FineWeb-Edu-Fortified documents for [[pedagogical-llm-training|small-model pre-training]], where filtered mixtures beat the FineWeb-Edu baseline on nine-[[benchmark|benchmark]] accuracy (0.3962 vs 0.3806), and as [[reinforcement-learning|GRPO]] rewards they produced responses preferred over Qwen3-4B.
+> **Synthesis:** Garrod and colleagues at Fab AI introduce Edu-QuRating, which adapts QuRating's preference distillation to [[educational-nlp|educational data curation]], replacing a single "is this educational?" score with separate dimensions of text quality. It defines 20 rubric dimensions — six core criteria such as factual accuracy, [[pedagogy|pedagogical]] structure and level suitability, plus student- and teacher-facing foundational-literacy dimensions modeled on the GEEAP reading report — and has GPT-4.1-mini compare document pairs under each rubric, distilling those preferences into Edu-QuRaters that score one text at a time. Trained on 200k judgments, the best scorer recovers held-out judge preferences with mean accuracy 0.917 (Gemma-3-4B-PT) against 0.895 for Sheared-LLaMA-1.3B. The scorers then labeled 322.25M FineWeb-Edu-Fortified documents for [[llm-training-and-fine-tuning|small-model pre-training]], where filtered mixtures beat the FineWeb-Edu baseline on nine-[[benchmark|benchmark]] accuracy (0.3962 vs 0.3806), and as [[reinforcement-learning|GRPO]] rewards they produced responses preferred over Qwen3-4B.
 
 ## Key Findings
 1. **One distilled scorer replaces the judge at scale.** Edu-QuRaters trained on 200k GPT-4.1-mini pairwise judgments recover held-out preferences from single-text scores with mean accuracy 0.917 (Gemma-3-4B-PT) and 0.895 (Sheared-LLaMA-1.3B), above 0.86 on every criterion.

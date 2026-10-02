@@ -1,7 +1,7 @@
 ---
 title: Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety
 created: "2026-05-14T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -27,7 +27,7 @@ The generated stories were designed for use by teachers, parents, and children i
 
 ## Methodological Contribution
 
-Fine-tuning designs were systematically compared, with the curriculum-derived training data providing curriculum alignment that general-purpose models lack. The [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] evaluation framework provides a template for assessing AI-generated educational content.
+[[llm-training-and-fine-tuning|Fine-tuning]] designs were systematically compared, with the curriculum-derived training data providing curriculum alignment that general-purpose models lack. The [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] evaluation framework provides a template for assessing AI-generated educational content.
 
 ## What this means for practice
 

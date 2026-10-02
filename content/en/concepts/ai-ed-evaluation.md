@@ -79,7 +79,7 @@ The velocity of the systems being evaluated is a further constraint. [[ai-tutori
 
 ### Connections to related concepts
 
-AI-ed evaluation sits at the center of the knowledge base's methods and risks. It operationalizes [[assessment-validity]], [[educational-measurement]], and [[benchmark]] within [[assessment]] and [[automated-assessment]]. Its call for human oversight connects to [[human-in-the-loop-ai]] and [[teacher-role]], while its focus on reliability connects to [[hallucination-risk]], [[automated-assessment|Confidence Aware AI Assessment]], and [[trust-calibration]]. The distinction between evaluating performance and evaluating learning links to [[genai-performance-vs-learning|performance vs. learning]] and to [[student-modeling]]; and evaluation of pedagogical agents connects to [[intelligent-tutoring]], [[pedagogical-llm-training]], and [[pedagogical-safety]].
+AI-ed evaluation sits at the center of the knowledge base's methods and risks. It operationalizes [[assessment-validity]], [[educational-measurement]], and [[benchmark]] within [[assessment]] and [[automated-assessment]]. Its call for human oversight connects to [[human-in-the-loop-ai]] and [[teacher-role]], while its focus on reliability connects to [[hallucination-risk]], [[automated-assessment|Confidence Aware AI Assessment]], and [[trust-calibration]]. The distinction between evaluating performance and evaluating learning links to [[genai-performance-vs-learning|performance vs. learning]] and to [[student-modeling]]; and evaluation of pedagogical agents connects to [[intelligent-tutoring]], [[llm-training-and-fine-tuning]], and [[pedagogical-safety]].
 
 ### Evaluating learning gains
 

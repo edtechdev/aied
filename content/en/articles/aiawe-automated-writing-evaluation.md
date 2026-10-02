@@ -1,7 +1,7 @@
 ---
 title: "AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models"
 created: "2026-06-12T04:33:04-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 technology: [generative-ai, llm, open-source]
 assessment: [automated-assessment]
@@ -21,7 +21,7 @@ page_kind: [evaluation]
 - **Quadratic Weighted Kappa (QWK):** 0.828
 - **Agreement within ±0.5 of human score:** 90.56%
 
-These results outperform both LLaMA-3.3-70B and the fine-tuned GPT-3.5 baseline from prior work on the same dataset, demonstrating that [[generative-ai|open-weight LLMs can match or exceed proprietary fine-tuning]] for rubric-aligned scoring.
+These results outperform both LLaMA-3.3-70B and the [[llm-training-and-fine-tuning|fine-tuned]] GPT-3.5 baseline from prior work on the same dataset, demonstrating that [[generative-ai|open-weight LLMs can match or exceed proprietary fine-tuning]] for rubric-aligned scoring.
 
 Three broader findings emerge: (1) model scale is not a reliable predictor of downstream performance under LoRA adaptation; (2) identical LoRA hyperparameters produce qualitatively different adaptation behaviors across architectures; and (3) the system runs on a [[edtech-platform|consumer-grade server]], making it accessible for [[governance|institutional]] deployment. The work contributes to debates about [[short-answer-scoring-quality-degradation|automated assessment quality]] and the feasibility of [[open-source]] AI tools in [[writing-education]].
 

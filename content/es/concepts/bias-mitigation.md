@@ -68,7 +68,7 @@ La investigación recogida en esta base de conocimiento ilustra varias estrategi
 La mitigación de sesgos no es una solución única, sino un proceso continuo que recorre la canalización:
 
 1. **Curación de datos** — diversificar los datos de entrenamiento y auditar las etiquetas en busca de brechas basadas en la identidad y anotaciones injustas.
-2. **[[pedagogical-llm-training|Entrenamiento del modelo]]** — aplicar objetivos de desesgado y de equidad (por ejemplo, GroupDRO, estimadores doblemente robustos).
+2. **[[llm-training-and-fine-tuning|Entrenamiento del modelo]]** — aplicar objetivos de desesgado y de equidad (por ejemplo, GroupDRO, estimadores doblemente robustos).
 3. **Diseño del prompt y del sistema** — diseñar prompts y sistemas neutros que no respondan de forma diferencial a la [[learner-identity|identidad de quien aprende]].
 4. **Calificación y evaluación** — validar que la calificación automatizada mide la comprensión y no el lenguaje ni proxies demográficos.
 5. **Evaluación y auditoría** — auditar los modelos en distintas condiciones identitarias (idioma, género, cultura) y exigir explicabilidad para sacar a la luz el sesgo.

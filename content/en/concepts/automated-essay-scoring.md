@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-02T07:37:41-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -61,6 +61,8 @@ Token-level confidence, probability-weighted scoring, and ensembling each improv
 
 AES sits at the intersection of [[automated-assessment]], [[writing-education]], and [[generative-ai]]. It connects to [[formative-assessment]] when used for feedback rather than grading, to [[feedback|Feedback Loop]] when integrated into iterative writing processes, and to [[ai-literacy]] when educators understand and calibrate AES tools. The [[assessment-validity]] and [[educational-measurement]] concepts are essential for ensuring AES scores are meaningful and fair.
 - **Agreement, error and what a hybrid scorer adds.** In a small open-ended marketing-writing corpus the LLM out-scored both deterministic rules and an equal-weight hybrid on absolute agreement with human raters (ICC(2,1) .435 versus .266 and .091), with the hybrid significantly worse than the LLM alone, while score dispersion and a single near-empty response showed how strongly such estimates depend on corpus composition ([[automated-scoring-marketing-posts-agreement-2026]]).
+
+Open systems are part of this picture too: AiAWE scores argumentative essays with a LoRA-adapted Gemma-3-27B-it, reaching QWK 0.828 and agreement within ±0.5 of the human score on 90.56% of 360 evaluation essays — and reports that model scale did not reliably predict downstream performance under LoRA adaptation ([[aiawe-automated-writing-evaluation]]).
 
 ## Connected Concepts
 

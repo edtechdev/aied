@@ -53,7 +53,7 @@ const ko: HomeStrings = {
     {
       id: 'developers',
       heading: '개발자',
-      html: `<a href="/aied/concepts/educational-technology-developers/">교육을 위한 개발</a>, <a href="/aied/concepts/ai-technologies/">기반이 되는 기술</a>, <a href="/aied/concepts/intelligent-tutoring/">지능형 튜터링</a>, <a href="/aied/concepts/multimodal/">멀티모달 AI</a>, <a href="/aied/concepts/student-modeling/">학습자 모델링</a>, 그리고 <a href="/aied/concepts/pedagogical-llm-training/">교수를 위한 모델 훈련과 조정</a>.`,
+      html: `<a href="/aied/concepts/educational-technology-developers/">교육을 위한 개발</a>, <a href="/aied/concepts/ai-technologies/">기반이 되는 기술</a>, <a href="/aied/concepts/intelligent-tutoring/">지능형 튜터링</a>, <a href="/aied/concepts/multimodal/">멀티모달 AI</a>, <a href="/aied/concepts/student-modeling/">학습자 모델링</a>, 그리고 <a href="/aied/concepts/llm-training-and-fine-tuning/">교수를 위한 모델 훈련과 조정</a>.`,
     },
     {
       id: 'administrators',

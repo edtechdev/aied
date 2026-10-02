@@ -5,7 +5,7 @@ updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [learning-design]
 pedagogy: [situated-learning]
-technology: [llm, pedagogical-llm-training, prompt-engineering]
+technology: [llm, llm-training-and-fine-tuning, prompt-engineering]
 assessment: [feedback, formative-assessment, educational-measurement]
 sources: ['raw/papers/yasar-llms-iterative-pedagogical-design-2026.md']
 confidence: high

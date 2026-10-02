@@ -3,7 +3,7 @@ title: "LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assi
 created: "2026-06-17T04:33:04-04:00"
 updated: "2026-09-19T08:49:57-04:00"
 type: article
-technology: [generative-ai, intelligent-tutoring, llm, pedagogical-llm-training, personalized-learning, rag]
+technology: [generative-ai, intelligent-tutoring, llm, llm-training-and-fine-tuning, personalized-learning, rag]
 audience: [software developers]
 research_method: [system development, design and evaluation study]
 level: [higher ed]

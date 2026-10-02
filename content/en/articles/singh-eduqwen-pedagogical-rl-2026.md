@@ -3,7 +3,7 @@ title: "Application-Driven Pedagogical Knowledge Optimization of Open-Source LLM
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-20T04:00:38-04:00"
 type: article
-technology: [llm, pedagogical-llm-training, rag, reinforcement-learning, open-source]
+technology: [llm, llm-training-and-fine-tuning, rag, reinforcement-learning, open-source]
 ethics: [pedagogical-safety]
 audience: [software developers]
 research_method: [system development]

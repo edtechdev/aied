@@ -1,7 +1,7 @@
 ---
 title: "Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education"
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 technology: [intelligent-tutoring, llm]
 ethics: [privacy, pedagogical-safety]
@@ -41,7 +41,7 @@ Online mathematics learning platforms increasingly adopt LLMs for scalable, on-d
 ## Limitations
 
 - The context is limited to Algebra I, where unlearning was applied and evaluated, so results and procedures may not transfer directly to other subject areas, grade levels, learning platforms, or deployment contexts.
-- The PII-containing output rate captures classifier-detected PII-like spans in generated responses and is not direct evidence of memorized training-data leakage; entities such as names, cities, schools, and institutions may be common, generic, or already present in broader pretraining.
+- The PII-containing output rate captures classifier-detected PII-like spans in generated responses and is not direct evidence of memorized training-data leakage; entities such as names, cities, schools, and institutions may be common, generic, or already present in broader [[llm-training-and-fine-tuning|pretraining]].
 - Only gradient-based unlearning was examined, across three models pretrained on approximately 3 million data points from a single Algebra I online discussion forum, so other unlearning approaches remain unbenchmarked in education.
 - Evaluation rested on automated harmfulness classifiers and 50,000 sampled prompts rather than the extraction tests, membership-inference evaluations, and target-specific reproduction analyses the authors call for.
 

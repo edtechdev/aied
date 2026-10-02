@@ -46,7 +46,7 @@ A diferencia de los tutores de IA de instrucción directa que dan respuestas, lo
 - **Sacan a la superficie las [[misconceptions|ideas erróneas]]** — mediante contraejemplos cuidadosamente elegidos
 - **Orientan hacia la comprensión** — sin desvelar la respuesta
 
-El enfoque socrático encarna directamente el principio de [[pedagogical-llm-training|EduQwen]]: **recompensar «guiar» por encima de «responder».** Sin embargo, la calibración socrática en tiempo real es más difícil que la pedagogía de papel: EduQwen optimiza una guía correcta en un [[benchmark|punto de referencia]] de opción múltiple, mientras que un tutor socrático en vivo debe decidir *cuándo* guiar, *cuándo* dar una pista y *cuándo* responder, a partir de las señales del estudiante en tiempo real. El [[affective-tutoring|estado afectivo]] es un moderador crítico: un estudiante frustrado puede necesitar una breve respuesta directa antes de volver al modo socrático.
+El enfoque socrático encarna directamente el principio de [[llm-training-and-fine-tuning|EduQwen]]: **recompensar «guiar» por encima de «responder».** Sin embargo, la calibración socrática en tiempo real es más difícil que la pedagogía de papel: EduQwen optimiza una guía correcta en un [[benchmark|punto de referencia]] de opción múltiple, mientras que un tutor socrático en vivo debe decidir *cuándo* guiar, *cuándo* dar una pista y *cuándo* responder, a partir de las señales del estudiante en tiempo real. El [[affective-tutoring|estado afectivo]] es un moderador crítico: un estudiante frustrado puede necesitar una breve respuesta directa antes de volver al modo socrático.
 
 ## Evidencia de eficacia
 

@@ -55,7 +55,7 @@ La [[rag|generación aumentada por recuperación]] ancla las respuestas del tuto
 
 ### 3. Controles y entrenamiento a nivel de modelo
 
-- **Ajuste fino / postentrenamiento:** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] usa aprendizaje por refuerzo para priorizar el aprendizaje guiado sobre el hecho de dar respuestas; [[tact-pedagogically-adaptive-esl-tutoring|TACT]] alinea el postentrenamiento con una taxonomía de estrategias de tutoría mediante GRPO para que los modelos andamien en lugar de limitarse a responder. Es el enfoque del [[pedagogical-llm-training|entrenamiento pedagógico de LLM]] para incorporar la seguridad al comportamiento.
+- **Ajuste fino / postentrenamiento:** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] usa aprendizaje por refuerzo para priorizar el aprendizaje guiado sobre el hecho de dar respuestas; [[tact-pedagogically-adaptive-esl-tutoring|TACT]] alinea el postentrenamiento con una taxonomía de estrategias de tutoría mediante GRPO para que los modelos andamien en lugar de limitarse a responder. Es el enfoque del [[llm-training-and-fine-tuning|entrenamiento pedagógico de LLM]] para incorporar la seguridad al comportamiento.
 - **Desaprendizaje:** el [[llm-unlearning-math-privacy|desaprendizaje en matemáticas]] aplica desaprendizaje basado en gradientes para eliminar información de identificación personal y contenido dañino de los tutores de matemáticas (salida de datos personales reducida al 0,1% y tasas de toxicidad al 0,0%) conservando la utilidad posterior, una salvaguarda de [[privacy|privacidad]] y seguridad a nivel de modelo.
 - **Modelización de recompensas en el aprendizaje por refuerzo:** [[pedagogical-safety-rl|la seguridad pedagógica en el aprendizaje por refuerzo]] formaliza cómo las recompensas mal especificadas invitan al «hackeo de recompensas» (inflación de puntuaciones en pruebas, manipulación de la [[student-engagement|implicación]]), y propone un modelo de cuatro capas y su detección mediante auditoría de discrepancias e inversión de políticas.
 
@@ -95,7 +95,7 @@ Los dos están estrechamente acoplados: casi todas las técnicas de salvaguarda 
 - [[prompt-engineering]] — la técnica de diseño «pista, no respuesta»
 - [[rag]] — el anclaje en conocimiento como salvaguarda
 - [[human-in-the-loop-ai]] — el control de calidad y la supervisión del profesorado
-- [[pedagogical-llm-training]] — la capa de entrenamiento y alineación
+- [[llm-training-and-fine-tuning]] — la capa de entrenamiento y alineación
 - [[reinforcement-learning]] — modelización de recompensas para un comportamiento seguro
 - [[bias-mitigation]] — auditar las salvaguardas en términos de justicia
 - [[ai-sycophancy]] — el riesgo de manipulación que deben resistir las salvaguardas

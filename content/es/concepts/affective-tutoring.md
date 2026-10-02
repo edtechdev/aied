@@ -75,7 +75,7 @@ La tutoría afectiva se cruza con [[hazra-safetutors-pedagogical-safety-2026|Saf
 
 ## Conceptos conectados
 
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[intelligent-tutoring]]
 - [[personalized-learning]]
 - [[adaptive-learning]]

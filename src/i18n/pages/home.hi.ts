@@ -53,7 +53,7 @@ const hi: HomeStrings = {
     {
       id: 'developers',
       heading: 'डेवलपर',
-      html: `<a href="/aied/concepts/educational-technology-developers/">शिक्षा के लिए निर्माण</a>, <a href="/aied/concepts/ai-technologies/">इनके पीछे की तकनीकें</a>, <a href="/aied/concepts/intelligent-tutoring/">बुद्धिमान ट्यूटरिंग</a>, <a href="/aied/concepts/multimodal/">मल्टीमॉडल AI</a>, <a href="/aied/concepts/student-modeling/">शिक्षार्थी मॉडलिंग</a>, और <a href="/aied/concepts/pedagogical-llm-training/">शिक्षण के लिए मॉडल का प्रशिक्षण और अनुकूलन</a>।`,
+      html: `<a href="/aied/concepts/educational-technology-developers/">शिक्षा के लिए निर्माण</a>, <a href="/aied/concepts/ai-technologies/">इनके पीछे की तकनीकें</a>, <a href="/aied/concepts/intelligent-tutoring/">बुद्धिमान ट्यूटरिंग</a>, <a href="/aied/concepts/multimodal/">मल्टीमॉडल AI</a>, <a href="/aied/concepts/student-modeling/">शिक्षार्थी मॉडलिंग</a>, और <a href="/aied/concepts/llm-training-and-fine-tuning/">शिक्षण के लिए मॉडल का प्रशिक्षण और अनुकूलन</a>।`,
     },
     {
       id: 'administrators',

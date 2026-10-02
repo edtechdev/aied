@@ -1,7 +1,7 @@
 ---
 title: "Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics"
 created: "2026-08-24T09:10:00-04:00"
-updated: "2026-09-19T10:56:42-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 technology: [learning-analytics, llm]
 ethics: [trust]
@@ -14,7 +14,7 @@ level: [secondary]
 methods: [ai-ed-evaluation, benchmark]
 ---
 
-> **Synthesis:** Pan, Meng, and Suk (2026) propose a two-stage fine-tuning pipeline that distills a fitted black-box ML estimator and its post hoc interpretation into a small, open-weight [[llm|LLM]], so that one model returns both an individual-level estimate and a natural-language explanation offline on a commodity laptop. The pipeline pairs the ALE-fANOVA decomposition of a causal estimator with a "mentor" narration that a small "mentee" model learns via LoRA, and it is evaluated under a **faithfulness-first** framework that audits every narration against the attribution it claims to describe rather than trusting fluent text as correct text. A [[simulation]] study separates distillation loss from estimator loss and shows the 2B-parameter mentee achieves near-lossless recovery of the oracle effect surface (r > .90), while almost all remaining error under a realistic X-learner originates upstream. The work carries direct implications for [[trust]] and the privacy-preserving deployment of [[learning-analytics]] decision support.
+> **Synthesis:** Pan, Meng, and Suk (2026) propose a two-stage [[llm-training-and-fine-tuning|fine-tuning]] pipeline that distills a fitted black-box ML estimator and its post hoc interpretation into a small, open-weight [[llm|LLM]], so that one model returns both an individual-level estimate and a natural-language explanation offline on a commodity laptop. The pipeline pairs the ALE-fANOVA decomposition of a causal estimator with a "mentor" narration that a small "mentee" model learns via LoRA, and it is evaluated under a **faithfulness-first** framework that audits every narration against the attribution it claims to describe rather than trusting fluent text as correct text. A [[simulation]] study separates distillation loss from estimator loss and shows the 2B-parameter mentee achieves near-lossless recovery of the oracle effect surface (r > .90), while almost all remaining error under a realistic X-learner originates upstream. The work carries direct implications for [[trust]] and the privacy-preserving deployment of [[learning-analytics]] decision support.
 
 ## A two-stage distillation pipeline
 

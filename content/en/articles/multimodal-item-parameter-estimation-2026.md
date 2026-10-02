@@ -1,7 +1,7 @@
 ---
 title: "Multimodal Item Parameter Estimation using Simulated Response Probabilities"
 created: "2026-08-12T12:37:38-04:00"
-updated: "2026-09-19T10:43:18-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 technology: [llm, multimodal, student-modeling]
 assessment: [automated-assessment, educational-measurement, item-response-theory, psychometrically-aware-ai]
@@ -47,7 +47,7 @@ Recovery is uneven across parameters, and this is informative. The guessing para
 ## What this means for practice
 
 - **Developers.** Fine-tune a multimodal model as a [[simulating-students|simulated respondent]] rather than regressing the stimulus straight onto parameters: the tuned Qwen3.5-9B reached a Pearson correlation of 0.85 on difficulty against 0.68 for MathBERT and 0.75 for MetaMath.
-- **Developers.** Keep the fine-tuning parameter-efficient and narrow — LoRA was applied only to the Gated Attention components, adapting roughly a quarter of the layers a conventional transformer would expose, which was enough for the headline result.
+- **Developers.** Keep the [[llm-training-and-fine-tuning|fine-tuning]] parameter-efficient and narrow — LoRA was applied only to the Gated Attention components, adapting roughly a quarter of the layers a conventional transformer would expose, which was enough for the headline result.
 - **Assessment designers.** Read the guessing parameter as the sign that real response behavior was captured: c was recovered at a correlation of 0.48 where the regression baselines were far lower, something a model that only reads the question cannot easily infer about how often low-ability students pick a given distractor.
 - **Assessment designers.** Report difficulty to educators in the five descriptive bands, where the model reached a QWK of 0.835 against 0.692 for MetaMath and 0.625 for MathBERT, rather than in raw b values that [[item-response-theory|IRT]] consumers must translate themselves.
 - **Researchers.** Treat discrimination as the unsolved parameter before building on this: a was recovered weakly (0.31 for Qwen3.5-9B), most plausibly because ability was discretized into intervals and a regression-based correction applied to the raw estimates, and nothing here shows the method transfers beyond [[math-education|mathematics]] items.

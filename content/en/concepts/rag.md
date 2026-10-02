@@ -3,7 +3,7 @@ title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-30T09:59:35-04:00"
 type: concept
-technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, pedagogical-llm-training, edtech-platform]
+technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
@@ -29,7 +29,7 @@ reviewed_by: [editor]
 - **Grounding is only as good as source inspection:** only 1 of 12 participants noticed a deliberately mismatched source card, so a provenance label can act as a seal of authority rather than an invitation to verify the retrieved material ([[veriforge-narrative-drafting-scaffolding-2026|Sun et al. (2026)]]).
 - **Curriculum-grounded tutoring:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] retrieves relevant curriculum materials to inform tutoring responses, ensuring alignment with course content.
 - **Textbook and materials indexing:** [[book-level-synthetic-textbook-organization|Synthetic textbook organization]] indexes educational content for retrieval. [[structrag-diagram-reasoning-ai-tutoring|StructRAG]] extends retrieval to structured diagrams.
-- **Training pipeline integration:** [[pedagogical-llm-training|Pedagogical LLM training]] uses RAG to ground tutor training in educational best practices.
+- **Training pipeline integration:** [[llm-training-and-fine-tuning|Pedagogical LLM training]] uses RAG to ground tutor training in educational best practices.
 - **Course-specific academic support:** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] retrieves from a single programming module's approved teaching materials to serve students who hesitate to approach a lecturer, and 89% of the 15 evaluating students rated its responses highly aligned with course materials; the design point is that grounding is an institutional answer to the mismatch between general-purpose [[llm|LLMs]] and module-level expectations.
 - **Ingest-time structure versus query-time retrieval:** [[wiki-llm-indexing-ml-classes-2026|Wright (2026)]] compiled the same DS3001 machine-learning course corpus into seven cross-referenced wiki concept pages carrying source citations, and set it against a tuned vector-RAG baseline of chunked-embedding retrieval. Over 59 human-written questions the compiled wiki out-answered the tuned index (9.95 vs. 9.05 of 10, with a bootstrap CI on the difference excluding zero) and was more often grounded in the material the answerer actually saw (98% vs. 81%), with both gaps roughly tripling on questions that needed material from more than one page (cross-page scores 9.93 vs. 8.14, where RAG's grounded rate fell from 87% to 64%). The grounding gap was not a retrieval failure: only 2 of vector RAG's 11 ungrounded answers were retrieval misses, while the other 9 had the relevant excerpts in context and still added unsupported detail — evidence that structure at ingest constrains elaboration, not just access.
 
@@ -45,7 +45,7 @@ RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up
 - [[knowledge-graph]]
 - [[edtech-platform]]
 - [[intelligent-tutoring]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[pedagogical-safety]]
 - [[k-12]]
 - [[higher-ed]]

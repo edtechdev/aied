@@ -127,9 +127,9 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`generative-ai`** — Generative AI — phrases: ChatGPT; gai; genai; generative ai; generative artificial intelligence; generative model
 - **`knowledge-graph`** — Knowledge Graph — phrases: graph-based knowledge; knowledge graph; knowledge graph construction
 - **`llm`** — Large Language Models (LLMs) — phrases: GPT; LLM; foundation model; language model; language models; large language model; large language models
+- **`llm-training-and-fine-tuning`** — LLM Training and Fine-Tuning — phrases: fine-tuning; fine tuning; llm fine-tuning; fine-tuning tutors; llm training; model adaptation; model training; parameter-efficient fine-tuning; pedagogical fine-tuning; pedagogical training; post-training; pretraining; instruction tuning; LoRA; training pedagogical LLMs
 - **`machine-learning`** — Machine Learning — phrases: deep learning; machine learning; ML model; neural network; neural networks; predictive modeling; predictive modelling; supervised learning
 - **`multimodal`** — Multimodal AI — phrases: multi-modal; multimodal; multimodal AI; multimodal learning; multimodal learning analytics
-- **`pedagogical-llm-training`** — Training Pedagogical LLMs for Tutoring — phrases: fine-tuning tutors; llm training; LLM training for tutoring; model training; pedagogical fine-tuning; pedagogical LLM; pedagogical training; training pedagogical LLMs
 - **`prompt-engineering`** — Prompt Engineering — phrases: prompt design; prompt engineering; prompt literacy; prompting; prompting strategies; prompting strategy
 - **`rag`** — RAG (Retrieval-Augmented Generation) — phrases: rag; retrieval augmentation; retrieval augmented; retrieval-augmented; retrieval-augmented generation
 - **`reinforcement-learning`** — Reinforcement Learning — phrases: reinforcement learning; reward model; RLHF
@@ -333,6 +333,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - `instructional-design` → **`learning-design`**
 - `mooc` → **`online-teaching-and-learning`**
 - `over-reliance` → **`cognitive-offloading`**
+- `pedagogical-llm-training` → **`llm-training-and-fine-tuning`**
 - `peer-review` → **`peer-assessment`**
 - `plagiarism-detection` → **`ai-detection`**
 - `programming-education` → **`cs-education`**

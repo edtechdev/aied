@@ -18,7 +18,7 @@ level: [primary education]
 audience: [instructors, educational technology developers, researchers]
 foundations: [critical-thinking]
 pedagogy: [socratic-method, scaffolding, inquiry-based-learning]
-technology: [pedagogical-llm-training, llm, reinforcement-learning]
+technology: [llm-training-and-fine-tuning, llm, reinforcement-learning]
 methods: [ai-ed-evaluation]
 ethics: [ai-misuse-learning-harm]
 confidence: medium
@@ -41,7 +41,7 @@ verified: [citation, links, numbers]
 
 Tutoring dialogues are reconstructed from platform logs. A character-level TF–IDF and logistic-regression scientific-intent filter (macro-F1 = 0.9805 ± 0.0022) removes 1,601 off-topic questions and keeps 8,911; Sentence-BERT embeddings and K-Means (K=15) organize the rest, and 134 high-view seeds support 395 replayed real trajectories and 402 synthetic ones. Phase 1 fine-tunes Qwen2.5-7B-Instruct on the 797-trajectory corpus for 3 epochs at batch size 16; Phase 2 applies [[reinforcement-learning|GRPO]] with group size 8, PPO clip 0.2 and KL coefficient 0.01.
 
-The reward is Rtotal = α·Rcog + β·Reng − γ·Rdir. Rcog rewards cognitive lift: a Qwen-turbo judge assigns Bloom's Taxonomy levels to the student's turn and the tutor's response, and the normalized difference scores movement toward higher-order demand — where [[critical-thinking]] enters the design. Reng scores cues that correlated with child follow-ups in the logs: rhetorical questions, analogical framing, extreme-value language and hypotheses. Rdir penalizes premature disclosure of seed-specific keyword sets, with a Kquery correction exempting terms the student already introduced. The work belongs to [[pedagogical-llm-training]], not to [[prompt-engineering]] alone.
+The reward is Rtotal = α·Rcog + β·Reng − γ·Rdir. Rcog rewards cognitive lift: a Qwen-turbo judge assigns Bloom's Taxonomy levels to the student's turn and the tutor's response, and the normalized difference scores movement toward higher-order demand — where [[critical-thinking]] enters the design. Reng scores cues that correlated with child follow-ups in the logs: rhetorical questions, analogical framing, extreme-value language and hypotheses. Rdir penalizes premature disclosure of seed-specific keyword sets, with a Kquery correction exempting terms the student already introduced. The work belongs to [[llm-training-and-fine-tuning]], not to [[prompt-engineering]] alone.
 
 ## Two outcome-oriented metrics
 

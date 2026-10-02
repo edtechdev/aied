@@ -39,7 +39,7 @@ The signs matter more than magnitudes: [[reinforcement-learning|reward]] verific
 
 ## The Alignment Tax
 
-The paper quantifies severe degradation from [[pedagogy|pedagogical]] [[pedagogical-llm-training|GRPO fine-tuning]]:
+The paper quantifies severe degradation from [[pedagogy|pedagogical]] [[llm-training-and-fine-tuning|GRPO fine-tuning]]:
 - Thinking length drops from 1,764 to 119 words/turn (−93%)
 - Content-Knowledge accuracy falls by −71% relative
 - Pedagogical-Knowledge accuracy falls by −80% relative
@@ -62,7 +62,7 @@ es and sizes?
 - **Software developers.** Rerank candidate responses at inference time before reaching for training: TEI@8 raised the improvement rate on pre-incorrect scenarios from 59.0% to 81.9% on a frozen model, with no [[reinforcement-learning|RL]].
 - **Software developers.** Budget the rerank explicitly: TEI@8 costs 4.1× the tokens of greedy decoding (16,334 vs 3,984) and roughly half the cost of Cons@8 (31,868).
 - **Software developers.** Keep verification language in the signal set and stop rewarding question-ending turns: dropping the verification term removes −.054 AUC and math-step density −.036, while the question-rate term carries a 1.0 penalty.
-- **Software developers.** Audit any [[pedagogical-llm-training|pedagogically fine-tuned]] tutor for reasoning collapse: the GRPO run behind this study's alignment tax cut thinking from 1,764 to 119 words per turn (−93%), with content-knowledge accuracy down 71% relative and pedagogical knowledge down 80%.
+- **Software developers.** Audit any [[llm-training-and-fine-tuning|pedagogically fine-tuned]] tutor for reasoning collapse: the GRPO run behind this study's alignment tax cut thinking from 1,764 to 119 words per turn (−93%), with content-knowledge accuracy down 71% relative and pedagogical knowledge down 80%.
 - **Software developers.** Gate deployment on a student-outcome check rather than a judge score: the Student Δ Solve Rate crossed from +0.180 to −0.012, so an aligned tutor that passes rubric-style evaluation can still be detrimental.
 
 ## Limitations

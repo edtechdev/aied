@@ -1,7 +1,7 @@
 ---
 title: "Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training"
 created: "2026-06-01T04:33:04-04:00"
-updated: "2026-09-16T15:51:16-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, llm, personalized-learning, reinforcement-learning]
@@ -37,7 +37,7 @@ Students with specific learning disabilities in [[math-education|mathematics]] r
 
 ## Why It Matters
 
-This is the first multi-turn pedagogical [[reinforcement-learning|RL]] framework specifically targeting [[special-education|special education]]. It demonstrates that [[intelligent-tutoring|LLM tutors]] can be systematically aligned to support students with [[neurodiversity|disabilities]], improving both perceived helpfulness and pedagogical fit. The persona-conditioned reward rubric provides a replicable recipe for adapting RLHF-based tutor fine-tuning to diverse learner profiles.
+This is the first multi-turn pedagogical [[reinforcement-learning|RL]] framework specifically targeting [[special-education|special education]]. It demonstrates that [[intelligent-tutoring|LLM tutors]] can be systematically aligned to support students with [[neurodiversity|disabilities]], improving both perceived helpfulness and pedagogical fit. The persona-conditioned reward rubric provides a replicable recipe for adapting RLHF-based tutor [[llm-training-and-fine-tuning|fine-tuning]] to diverse learner profiles.
 
 ## Open Questions
 

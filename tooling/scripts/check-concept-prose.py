@@ -108,15 +108,55 @@ def paragraphs(body: str) -> list[str]:
             if b.strip() and not b.strip().startswith('#') and not b.strip().startswith('>')]
 
 
+def _render_form(line: str) -> str:
+    """A line as the READER sees it, for change detection.
+
+    Retargeting a wikilink while keeping its label (`[[old-slug|label]]` ->
+    `[[new-slug|label]]`) renders identically, so it is not new prose. A rename
+    sweep touches every line carrying the old slug, and without this the gate
+    reports the pre-existing long sentences on those lines as freshly added --
+    nine false defects on the 2026-10-02 rename. A bare `[[slug]]` is left alone
+    on purpose: its rendered text is the target's title, so it really did change.
+    """
+    return re.sub(r'\[\[[^\]|]+\|([^\]]*)\]\]', r'[[\1]]', line)
+
+
 def added_lines(slug: str) -> list[str]:
-    """Lines this change adds to the concept page's narrative."""
-    out = subprocess.run(['git', 'diff', '-U0', 'HEAD', '--',
-                          f'content/en/concepts/{slug}.md'],
+    """Lines this change adds to the concept page's narrative.
+
+    A changed line counts as added only if its rendered form is new; a line that
+    differs from its predecessor solely by a wikilink target is not an addition.
+
+    A page with no HEAD version (new or renamed) has no diff to read, so its whole
+    narrative counts as added -- otherwise a brand-new concept page is reported as
+    clean because `git diff` says nothing about an untracked file.
+    """
+    path = f'content/en/concepts/{slug}.md'
+    head = subprocess.run(['git', 'show', f'HEAD:{path}'],
+                          cwd=WIKI, capture_output=True, text=True)
+    if head.returncode != 0:
+        try:
+            return narrative(read(os.path.join(WIKI, path))).splitlines()
+        except OSError:
+            return []
+    out = subprocess.run(['git', 'diff', '-U0', 'HEAD', '--', path],
                          cwd=WIKI, capture_output=True, text=True).stdout
-    lines = []
+    removed: list[str] = []
+    added: list[str] = []
     for l in out.split('\n'):
-        if l.startswith('+') and not l.startswith('+++'):
-            lines.append(l[1:])
+        if l.startswith('-') and not l.startswith('---'):
+            removed.append(_render_form(l[1:]))
+        elif l.startswith('+') and not l.startswith('+++'):
+            added.append(l[1:])
+    # Consume a prior line for each addition that merely retargeted a link.
+    pool = list(removed)
+    lines = []
+    for l in added:
+        form = _render_form(l)
+        if form in pool:
+            pool.remove(form)          # same rendered text -> not new prose
+            continue
+        lines.append(l)
     return lines
 
 
@@ -129,12 +169,24 @@ def head_narrative_words(slug: str) -> int | None:
 
 
 def changed_slugs() -> list[str]:
-    out = subprocess.run(['git', 'diff', '--name-only', 'HEAD', '--', 'content/en/concepts'],
-                         cwd=WIKI, capture_output=True, text=True).stdout
-    out += subprocess.run(['git', 'diff', '--name-only', '--cached', 'HEAD',
-                           '--', 'content/en/concepts'],
-                          cwd=WIKI, capture_output=True, text=True).stdout
-    return sorted({os.path.basename(p)[:-3] for p in out.split() if p.endswith('.md')})
+    """Concept pages created, edited or renamed in the working tree since HEAD.
+
+    Two gaps this closes (both hit on the 2026-10-02 rename):
+    - a DELETED page still appears in `git diff --name-only`, and the checks then
+      fail on a page that is intentionally gone. Skip paths absent from disk; a
+      rename is covered by its destination, which does exist.
+    - a NEW page is untracked, so `git diff` alone never sees it and it goes
+      unchecked until commit. `git ls-files --others` picks it up, mirroring
+      run-gates.py's own changed-file detection.
+    """
+    paths: set[str] = set()
+    for cmd in (['git', 'diff', '--name-only', 'HEAD', '--', 'content/en/concepts'],
+                ['git', 'diff', '--name-only', '--cached', 'HEAD', '--', 'content/en/concepts'],
+                ['git', 'ls-files', '--others', '--exclude-standard', '--', 'content/en/concepts']):
+        out = subprocess.run(cmd, cwd=WIKI, capture_output=True, text=True).stdout
+        paths.update(p for p in out.split() if p.endswith('.md'))
+    return sorted({os.path.basename(p)[:-3] for p in paths
+                   if os.path.exists(os.path.join(WIKI, p))})
 
 
 def main(argv: list[str]) -> int:

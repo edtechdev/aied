@@ -1,7 +1,7 @@
 ---
 title: "WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays"
 created: "2026-09-27T07:21:54-04:00"
-updated: "2026-09-27T07:21:54-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 sources: ['raw/papers/wraft-automated-writing-evaluation-argumentative-2026.md']
 confidence: high
@@ -26,7 +26,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Labib and colleagues present WrAFT (Writing Assessment and Feedback Tool), a modular [[automated-assessment|automated writing evaluation]] system for argumentative essays. WrAFT separates the work into three modules: [[automated-essay-scoring|scoring]], surface-level feedback on grammar and mechanics, and deep-level feedback on organization, coherence, and argumentation. Built on a proprietary ETS dataset of 480 TOEFL Independent Writing essays with official benchmark scores (120 essays for scoring fine-tuning, 360 for testing), the fine-tuned GPT-4o module reached a [[benchmark|quadratic weighted kappa]] (QWK) of 0.84 and an RMSE of 0.44 on the 0-5 scale, ahead of the Wang and Gayed (2024) baseline (QWK 0.78, RMSE 0.57). Teachers approved 96.14% of surface-level edits, 93.03% of macro comments, and 94.69% of micro comments. The sharpest lesson runs against intuition: supervised fine-tuning failed at feedback generation, producing truncated or unparseable output, while directly [[prompt-engineering|prompting]] Claude 3.7 produced the feedback teachers rated best. It ships as a free interactive web application.
+> **Synthesis:** Labib and colleagues present WrAFT (Writing Assessment and Feedback Tool), a modular [[automated-assessment|automated writing evaluation]] system for argumentative essays. WrAFT separates the work into three modules: [[automated-essay-scoring|scoring]], surface-level feedback on grammar and mechanics, and deep-level feedback on organization, coherence, and argumentation. Built on a proprietary ETS dataset of 480 TOEFL Independent Writing essays with official benchmark scores (120 essays for scoring fine-tuning, 360 for testing), the fine-tuned GPT-4o module reached a [[benchmark|quadratic weighted kappa]] (QWK) of 0.84 and an RMSE of 0.44 on the 0-5 scale, ahead of the Wang and Gayed (2024) baseline (QWK 0.78, RMSE 0.57). Teachers approved 96.14% of surface-level edits, 93.03% of macro comments, and 94.69% of micro comments. The sharpest lesson runs against intuition: [[llm-training-and-fine-tuning|supervised fine-tuning]] failed at feedback generation, producing truncated or unparseable output, while directly [[prompt-engineering|prompting]] Claude 3.7 produced the feedback teachers rated best. It ships as a free interactive web application.
 
 ## Key Findings
 

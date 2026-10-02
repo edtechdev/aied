@@ -4,7 +4,7 @@ created: "2026-09-15T10:30:00-04:00"
 updated: "2026-09-19T09:08:46-04:00"
 type: article
 pedagogy: [student-ai-interaction]
-technology: [adaptive-learning, conversational-ai, educational-nlp, llm, pedagogical-llm-training]
+technology: [adaptive-learning, conversational-ai, educational-nlp, llm, llm-training-and-fine-tuning]
 assessment: [automated-assessment]
 sources: ['raw/papers/lora-finetuned-control-systems-course-qa-2026.md']
 confidence: high
@@ -58,7 +58,7 @@ Dataset size and coverage are the first constraint: 360 samples, 54 of them for 
 
 Evaluation is the third. The framework relies on automatic metrics and rule-based marker detection, and although bootstrap intervals were computed for ROUGE and structured-output metrics, BERTScore-F1 is reported only as a mean because per-sample values were not retained. Experiments used a single training seed with no variance across seeds, and no strong-prompt or retrieval-augmented baseline was included, so the design cannot separate the contributions of fine-tuning, [[prompt-engineering|prompt design]] and retrieval. A human-evaluation rubric covering formula accuracy, derivational rigor, completeness and instructional clarity is the named next step, alongside multi-seed runs and comparisons against [[rag]] and combined LoRA-RAG systems.
 
-Two further observations matter for [[pedagogical-llm-training]] practice. First, the framework deliberately excludes teachability — the extent to which an answer helps a student follow and verify a solution — because that requires human rating. Second, the paper frames LoRA and retrieval as complementary rather than competing: LoRA internalizes course terminology and style, retrieval supplies traceable evidence from textbooks and formula sheets. The [[higher-ed]] implication is a deployment model of one lightweight adapter per course on a shared base model, with adapters of tens to hundreds of megabytes that stay cheap to store, distribute and version — a plausible route to [[discipline-specific-aied]] support without full-parameter retraining, but one whose instructional value remains, by the authors' own account, unverified.
+Two further observations matter for [[llm-training-and-fine-tuning]] practice. First, the framework deliberately excludes teachability — the extent to which an answer helps a student follow and verify a solution — because that requires human rating. Second, the paper frames LoRA and retrieval as complementary rather than competing: LoRA internalizes course terminology and style, retrieval supplies traceable evidence from textbooks and formula sheets. The [[higher-ed]] implication is a deployment model of one lightweight adapter per course on a shared base model, with adapters of tens to hundreds of megabytes that stay cheap to store, distribute and version — a plausible route to [[discipline-specific-aied]] support without full-parameter retraining, but one whose instructional value remains, by the authors' own account, unverified.
 
 ## What this means for practice
 
