@@ -1,8 +1,9 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-10-02T07:37:41-04:00"
+updated: "2026-10-02T08:36:43-04:00"
 type: concept
+connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
 confidence: medium
