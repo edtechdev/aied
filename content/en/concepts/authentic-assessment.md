@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-10-02T14:30:18-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -87,6 +87,8 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - **Process-focused measurement now has validity evidence.** [[assessing-student-drive-framework-2025|Oliveira et al. (2025)]] scored 70 graded essays on how students steered a GenAI dialogue and made course knowledge visible; those process scores correlated r = 0.54 with traditional essay scores while rewarding conceptual work over structured task specification.
 - **Authentic assessment suits practice-oriented fields.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] find authentic assessment especially well-suited to [[business-education|management education]]: tasks mirroring real professional problems (live consulting projects, [[visualization|dashboards]] with executive briefings) align with the field's practice-oriented, [[career-development-and-readiness|employability]] focus and can support inclusive, integrity-preserving alternatives to exam-centered assessment in the generative AI era. In their review of 58 articles from four management-education journals, however, authentic assessment appeared mainly via technology-mediated [[simulation|simulations]] and was often conflated with [[experiential-learning|experiential learning]] — a terminology gap that can obscure its broader value and uptake.
 
+- **Authenticity is not security, and the gap is visible at sector scale.** Where the single-degree audit above found 90% of coursework passable, [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] scores recorded presentations, remote group projects and unsupervised digital artifacts in the high-exposure band across 53,915 items, because the public record shows nothing about how production was supervised.
+
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 - [[eportfolio]]
@@ -143,3 +145,4 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
 
 - [[ai-ethics-tensions-online-pedagogy-2026]] — Task realism corrosion: AI-resistant redesign eroding authenticity in online language teaching
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Authentic-surfaced formats (recorded presentations, remote group projects, digital artifacts) score high across 53,915 items: authenticity does not verify authorship
