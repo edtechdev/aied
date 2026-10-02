@@ -1,7 +1,7 @@
 ---
 title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-10-02T14:30:18-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
@@ -33,6 +33,8 @@ SSH education is a distinct subject area in the knowledge base, complementary to
 - **Critical and philosophical dimensions.** [[voicu-ai-interpretive-cognition-ssh-2026|Critical AI literacy]] and the [[philosophy-of-ai-in-education|philosophy of AI in education]] are especially salient in SSH, where questions of meaning, values, and epistemic authority are central.
 - **[[governance|Institutional]] digital transformation.** Qin (2026) documents how Lingnan University repositioned itself as a "Research-Intensive Liberal Arts Institution in the Digital Era," mandating GenAI literacy for all undergraduates (including a required first-year Common Core course on generative AI covering latent spaces, GANs, diffusion models, [[prompt-engineering|prompting]], fine-tuning, bias, and misinformation). The position paper argues the AI-for-education shift is an *intellectual transformation* rather than technocentric augmentation, positioning [[ai-literacy|digital fluency]] as a core liberal arts competency while a [[human-in-the-loop-ai|human-in-the-loop]] model foregrounds [[ethics|ethical]] reasoning, critical judgment, and social responsibility — a concrete blueprint for [[higher-ed|higher education]] balancing [[generative-ai|GenAI]] innovation with humanistic foundations.
 
+- **The sector's assessment exposure is now measured, and it is concentrated rather than diffuse.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] audited 15,587 Arts and Humanities unit records across Australia's Group of Eight universities and found 58.6% of 2026 assessment items highly exposed to [[generative-ai|GenAI]], with take-home essays and research reports accounting for 71.4% of that exposure once weighted by marks.
+
 ### Why it matters
 
 SSH education foregrounds the very capabilities generative AI most challenges — original authorship, interpretive judgment, critical analysis, and context-sensitive meaning-making. The knowledge base treats this domain as a critical counterweight to instrumental, skills-based framings of AI: it asks whether AI-supported learning preserves [[critical-thinking]], epistemic responsibility, and interpretive autonomy, connecting to [[critical-pedagogy]] and [[ai-literacy]].
@@ -63,3 +65,4 @@ SSH education foregrounds the very capabilities generative AI most challenges �
 - [[paternalistic-filter-llm-history-education]] — LLM use and historical reasoning in history education
 - [[genai-impact-chinese-students-hss]] — GenAI's impact on humanities and social science students
 - [[acceptance-ai-english-tools-2026]] — AI acceptance among language and humanities learners
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Computational audit of 15,587 Go8 Arts and Humanities units: 58.6% of 2026 assessment items highly AI-exposed, concentrated in essays and reports
