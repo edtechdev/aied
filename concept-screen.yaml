@@ -1,24 +1,10 @@
-# Concept-screen record.
-#
-# One entry per article page created on or after `concept_screen.since` in
-# wiki.config.yaml. Ingesting an article is finished only when this entry exists:
-# either `integrated:` lists the concept pages that now carry the finding (verified
-# against their narrative bodies by tooling/scripts/check-concept-screen.py), or
-# `integrated:` is empty and `reason:` records why nothing qualified.
-#
-# An article that adds another instance of a claim a concept page already carries does
-# NOT qualify, however solid the study: the bar is significant AND distinguishing. Most
-# entries should have an empty `integrated:` and a reason.
-
 - article: automated-scoring-learning-diagnosis-mechanism-2026
   date: 2026-09-27
   integrated:
   - formative-assessment
   - automated-essay-scoring
   no_change: []
-  reason: 'Integrated at ingest: comprehension accuracy correlated with actionability and diagnostic accuracy (r
-    = 0.501 > 0.480 > 0.445), and the scoring model reached F1 = 0.824 on vocabulary against 0.579 on claim-evidence
-    alignment.'
+  reason: "Integrated at ingest: comprehension accuracy correlated with actionability and diagnostic accuracy (r = 0.501 > 0.480 > 0.445), and the scoring model reached F1 = 0.824 on vocabulary against 0.579 on claim-evidence alignment."
 - article: trust-calibration-genai-collaborative-regulation-2026
   date: 2026-09-27
   integrated:
@@ -35,11 +21,7 @@
   - conversational-ai
   - student-engagement
   - motivation
-  reason: 'Accepted two of six pairs. self-efficacy had no randomized test of whether a tool caused the change:
-    this supplies the time-effect-versus-treatment-effect caution (time β = 0.099, p = 0.0009; group p = 0.1162;
-    interaction p = 0.5306). limitations-in-aied-research stated the speed problem but not the comparability consequence
-    (pre-2023 tutoring rests on systems functionally unlike current models; no term-long RAG RCT in undergraduate
-    education). Skipped four: each would be another instance of a documented pattern.'
+  reason: "Accepted two of six pairs. self-efficacy had no randomized test of whether a tool caused the change: this supplies the time-effect-versus-treatment-effect caution (time β = 0.099, p = 0.0009; group p = 0.1162; interaction p = 0.5306). limitations-in-aied-research stated the speed problem but not the comparability consequence (pre-2023 tutoring rests on systems functionally unlike current models; no term-long RAG RCT in undergraduate education). Skipped four: each would be another instance of a documented pattern."
 - article: barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025
   date: 2026-09-27
   integrated:
@@ -48,12 +30,7 @@
   no_change:
   - retrieval-spacing-interleaving
   - learning-gains
-  reason: Accepted two of four pairs. cognitive-offloading's closest evidence was retention at 48 hours and an immediate
-    post-test; this adds a randomized 45-day delayed endpoint with an effect size (d = 0.68) and shows the deficit
-    survives a study-time covariate (F(1, 82) = 7.89, p = .006), ruling out the saved-time explanation. desirable-difficulties
-    gets a direct delayed test in an AI setting, impairment largest on technical material. Skipped retrieval-spacing-interleaving
-    (manipulates no retrieval, spacing or interleaving technique) and learning-gains (same-direction instance of
-    claims it already carries).
+  reason: Accepted two of four pairs. cognitive-offloading's closest evidence was retention at 48 hours and an immediate post-test; this adds a randomized 45-day delayed endpoint with an effect size (d = 0.68) and shows the deficit survives a study-time covariate (F(1, 82) = 7.89, p = .006), ruling out the saved-time explanation. desirable-difficulties gets a direct delayed test in an AI setting, impairment largest on technical material. Skipped retrieval-spacing-interleaving (manipulates no retrieval, spacing or interleaving technique) and learning-gains (same-direction instance of claims it already carries).
 - article: mata-sustaining-ai-enabled-student-support-2026
   date: 2026-09-27
   integrated:
@@ -62,12 +39,7 @@
   no_change:
   - educational-policy-ai
   - equity-in-ai-education
-  reason: 'Accepted two of four pairs. change-management had no evidence on what keeps a programme running over
-    years: this supplies the administrative home, single-writer communication, and the coordination burden that
-    cut targeted campaigns from 36% to 6%. conversational-ai gets multi-year durability of a deployed institutional
-    chatbot and the passive-versus-active engagement measurement point. Skipped educational-policy-ai (governance
-    thesis already stated) and equity-in-ai-education (its only equity claim is an unmeasured author interpretation;
-    subgroup analyses found no differential effects).'
+  reason: "Accepted two of four pairs. change-management had no evidence on what keeps a programme running over years: this supplies the administrative home, single-writer communication, and the coordination burden that cut targeted campaigns from 36% to 6%. conversational-ai gets multi-year durability of a deployed institutional chatbot and the passive-versus-active engagement measurement point. Skipped educational-policy-ai (governance thesis already stated) and equity-in-ai-education (its only equity claim is an unmeasured author interpretation; subgroup analyses found no differential effects)."
 - article: kestin-ai-tutoring-outperforms-active-learning-rct-2025
   date: 2026-09-27
   integrated:
@@ -78,11 +50,7 @@
   - scaffolding
   - student-engagement
   - motivation
-  reason: 'Accepted three of six pairs. All three lacked any trial whose comparator is research-based active learning
-    rather than a lecture: the contribution is the demanding comparator plus a tutor engineered from the class''s
-    own seven practices (median post-test 4.5 against 3.5, effect size 0.63, 49 minutes on task against 60). Skipped
-    scaffolding (its rule-guided-versus-improvised point is already carried), student-engagement and motivation
-    (single self-report Likert items, the construct the page warns is not interchangeable with learning data).'
+  reason: "Accepted three of six pairs. All three lacked any trial whose comparator is research-based active learning rather than a lecture: the contribution is the demanding comparator plus a tutor engineered from the class's own seven practices (median post-test 4.5 against 3.5, effect size 0.63, 49 minutes on task against 60). Skipped scaffolding (its rule-guided-versus-improvised point is already carried), student-engagement and motivation (single self-report Likert items, the construct the page warns is not interchangeable with learning data)."
 - article: automated-essay-scoring-critical-thinking-physics-2026
   date: 2026-09-28
   integrated:
@@ -93,10 +61,7 @@
   - physics-education
   - automated-assessment
   - educational-nlp
-  reason: 'Integrated into automated-essay-scoring: dimension-level trait scoring bounded by per-dimension data,
-    and the accuracy-vs-QWK collapse in ordinal scoring, neither on the page. Skipped five: the scorer-reliability
-    findings restate claim classes already carried on assessment-validity, automated-assessment, physics-education
-    and educational-nlp.'
+  reason: "Integrated into automated-essay-scoring: dimension-level trait scoring bounded by per-dimension data, and the accuracy-vs-QWK collapse in ordinal scoring, neither on the page. Skipped five: the scorer-reliability findings restate claim classes already carried on assessment-validity, automated-assessment, physics-education and educational-nlp."
 - article: automated-scoring-economics-math-items-nigeria-2026
   date: 2026-09-28
   integrated:
@@ -106,9 +71,7 @@
   - assessment-validity
   - automated-essay-scoring
   - educational-nlp
-  reason: 'Integrated into math-education: the page''s only AI-scoring material was LLM-solving fragility and item
-    difficulty, with no automated marking agreement study for mathematical items. Skipped four: the claim classes
-    (reference matching, agreement statistics that mislead on peculiar corpora) are already carried on those pages.'
+  reason: "Integrated into math-education: the page's only AI-scoring material was LLM-solving fragility and item difficulty, with no automated marking agreement study for mathematical items. Skipped four: the claim classes (reference matching, agreement statistics that mislead on peculiar corpora) are already carried on those pages."
 - article: genai-reliance-human-agency-collaborative-learning-2026
   date: 2026-09-28
   integrated:
@@ -122,10 +85,7 @@
   - self-report-measures
   - equity-in-ai-education
   - group-work
-  reason: 'Integrated into agency: within-person three-wave evidence that reliance predicts lower subsequent perceived
-    agency, plus the log finding that usage intensity cannot distinguish strategic consultation from offloading.
-    Skipped eight: groups were the sampling frame not the unit of analysis, and the remaining claims are already
-    stated on those pages.'
+  reason: "Integrated into agency: within-person three-wave evidence that reliance predicts lower subsequent perceived agency, plus the log finding that usage intensity cannot distinguish strategic consultation from offloading. Skipped eight: groups were the sampling frame not the unit of analysis, and the remaining claims are already stated on those pages."
 - article: genai-social-annotation-epistemic-network-analysis-2026
   date: 2026-09-28
   integrated:
@@ -139,9 +99,7 @@
   - metacognition
   - scaffolding
   - network-analysis
-  reason: 'Integrated into community-of-inquiry: the first empirical network evidence under the page’s theoretical
-    presence-claims, plus the within-condition uptake split. Skipped eight: the remaining findings are instances
-    of mechanisms already carried, or claims the study states without measuring.'
+  reason: "Integrated into community-of-inquiry: the first empirical network evidence under the page’s theoretical presence-claims, plus the within-condition uptake split. Skipped eight: the remaining findings are instances of mechanisms already carried, or claims the study states without measuring."
 - article: jansen-argumentative-writing-feedback-receptivity-2026
   date: 2026-09-28
   integrated:
@@ -152,9 +110,7 @@
   - writing-education
   - formative-assessment
   - assessment-validity
-  reason: 'Integrated into feedback (which uptake dimensions predict revision performance, and which do not) and
-    motivation (interest moved through perceived usefulness, fully mediated). Skipped four: disposition-predicts-gain
-    evidence and perceived-usefulness pathways already exist on those pages.'
+  reason: "Integrated into feedback (which uptake dimensions predict revision performance, and which do not) and motivation (interest moved through perceived usefulness, fully mediated). Skipped four: disposition-predicts-gain evidence and perceived-usefulness pathways already exist on those pages."
 - article: wraft-automated-writing-evaluation-argumentative-2026
   date: 2026-09-28
   integrated:
@@ -165,10 +121,7 @@
   - prompt-engineering
   - educational-nlp
   - assessment-validity
-  reason: 'Integrated into ai-feedback-quality (production method as a quality axis: prompting beat fine-tuning
-    for a non-deterministic task) and automated-essay-scoring (scoring and feedback want different methods, so separate
-    the modules). Skipped four: prompting-versus-fine-tuning is already on prompt-engineering''s Connected list,
-    and the rest are further instances.'
+  reason: "Integrated into ai-feedback-quality (production method as a quality axis: prompting beat fine-tuning for a non-deterministic task) and automated-essay-scoring (scoring and feedback want different methods, so separate the modules). Skipped four: prompting-versus-fine-tuning is already on prompt-engineering's Connected list, and the rest are further instances."
 - article: reflection-level-classification-hungarian-essays-2026
   date: 2026-09-28
   integrated:
@@ -181,9 +134,7 @@
   - multilingual-learning
   - feedback
   - automated-assessment
-  reason: 'Integrated into automated-essay-scoring: a skewed rubric distribution where aggregate metrics mislead,
-    with ROC-AUC and accuracy decoupling and class balancing lowering every metric. Skipped seven: the strong-aggregate-scores-hide-minority-class-discrimination
-    pattern is already carried.'
+  reason: "Integrated into automated-essay-scoring: a skewed rubric distribution where aggregate metrics mislead, with ROC-AUC and accuracy decoupling and class balancing lowering every metric. Skipped seven: the strong-aggregate-scores-hide-minority-class-discrimination pattern is already carried."
 - article: genai-assessment-african-higher-education-review-2026
   date: 2026-09-28
   integrated:
@@ -201,9 +152,7 @@
   - ai-literacy
   - ai-detection
   - higher-ed
-  reason: 'Integrated into global-south: the page argues Global South underrepresentation but carried no African
-    higher-education assessment evidence base at all, and no count of its size or its ChatGPT-only scope. Skipped
-    twelve: a review restating claims already carried with stronger evidence.'
+  reason: "Integrated into global-south: the page argues Global South underrepresentation but carried no African higher-education assessment evidence base at all, and no count of its size or its ChatGPT-only scope. Skipped twelve: a review restating claims already carried with stronger evidence."
 - article: ai-higher-ed-service-delivery-systematic-review-2026
   date: 2026-09-28
   integrated: []
@@ -218,10 +167,7 @@
   - meta-analysis-systematic-review
   - administrator
   - ai-education
-  reason: 'No pair qualified. The review restates claims the pages already carry with stronger or more specific
-    evidence: regional skew, adoption-is-uneven, governance realized as guidance rather than rule, policy lag, and
-    self-reported positive-outcome skew. Its only genuinely new content would be a bibliometric count, which is
-    not an organizing finding.'
+  reason: "No pair qualified. The review restates claims the pages already carry with stronger or more specific evidence: regional skew, adoption-is-uneven, governance realized as guidance rather than rule, policy lag, and self-reported positive-outcome skew. Its only genuinely new content would be a bibliometric count, which is not an organizing finding."
 - article: ai-mathematics-education-prisma-review-2026
   date: 2026-09-28
   integrated:
@@ -231,9 +177,7 @@
   - meta-analysis-systematic-review
   - equity-in-ai-education
   - motivation
-  reason: 'Integrated into math-education: the field''s only review-level map, a teacher-facing automation category
-    the page lacked, and the review''s Psychology/emotion gap. Skipped four: the remaining sections already carry
-    STEM dominance, heterogeneous evidence and access barriers.'
+  reason: "Integrated into math-education: the field's only review-level map, a teacher-facing automation category the page lacked, and the review's Psychology/emotion gap. Skipped four: the remaining sections already carry STEM dominance, heterogeneous evidence and access barriers."
 - article: ai-emotional-alerts-teachers-mathematics-classroom-2026
   date: 2026-09-28
   integrated:
@@ -245,10 +189,7 @@
   - social-emotional-learning
   - math-education
   - anxiety-and-stress
-  reason: 'Integrated into teacher-role (the alert as a cue to be judged, with deliberate non-intervention as pedagogy)
-    and affective-computing (affect sensing feeding a human decision rather than an adaptive tutor, with the detection
-    unvalidated in the study). Skipped five: no mathematics-learning outcome is reported and the alert/dashboard
-    argument is already carried.'
+  reason: "Integrated into teacher-role (the alert as a cue to be judged, with deliberate non-intervention as pedagogy) and affective-computing (affect sensing feeding a human decision rather than an adaptive tutor, with the detection unvalidated in the study). Skipped five: no mathematics-learning outcome is reported and the alert/dashboard argument is already carried."
 - article: bicer-genai-pd-math-creativity-2026
   date: 2026-09-28
   integrated:
@@ -260,10 +201,7 @@
   - teacher-ai-competency
   - equity-in-ai-education
   - math-education
-  reason: 'Integrated into creativity (teacher mathematical creativity co-developing with content and pedagogical
-    content knowledge, not measured independently) and teacher-education (two design mechanisms: deliberate scaffold
-    fading and simulated student reasoning across Modules 6-10). Skipped five: the pages cover the framing already,
-    or the study reports no equity outcome.'
+  reason: "Integrated into creativity (teacher mathematical creativity co-developing with content and pedagogical content knowledge, not measured independently) and teacher-education (two design mechanisms: deliberate scaffold fading and simulated student reasoning across Modules 6-10). Skipped five: the pages cover the framing already, or the study reports no equity outcome."
 - article: chen-pbl-pjbl-genai-meta-analysis-2026
   date: 2026-09-28
   integrated:
@@ -281,10 +219,7 @@
   - learning-gains
   - meta-analysis-systematic-review
   - ai-literacy
-  reason: 'Integrated three: the pages'' only pooled effect for GenAI-supported PBL/PjBL with its PET-PEESE correction,
-    the product-and-solution estimate behind the artifact-as-proxy claim, and the collaborative-versus-individual
-    contrast. Skipped ten: bundled domain scores are not construct-specific contrasts, and the methods lesson is
-    already carried.'
+  reason: "Integrated three: the pages' only pooled effect for GenAI-supported PBL/PjBL with its PET-PEESE correction, the product-and-solution estimate behind the artifact-as-proxy claim, and the collaborative-versus-individual contrast. Skipped ten: bundled domain scores are not construct-specific contrasts, and the methods lesson is already carried."
 - article: educational-organizations-ai-era-leadership-review-2026
   date: 2026-09-28
   integrated: []
@@ -297,9 +232,7 @@
   - ai-literacy
   - professional-training
   - institutional-readiness
-  reason: No pair qualified. The review reports no study count, no effect sizes and no named mechanism; its claims
-    (technology alone is insufficient, leadership and competency must move together) are already the thesis of those
-    pages, supported there by appraised studies. Readiness would be an off-target second home.
+  reason: No pair qualified. The review reports no study count, no effect sizes and no named mechanism; its claims (technology alone is insufficient, leadership and competency must move together) are already the thesis of those pages, supported there by appraised studies. Readiness would be an off-target second home.
 - article: gai-advocacy-practice-art-education-2026
   date: 2026-09-28
   integrated:
@@ -311,10 +244,7 @@
   - arts-design-and-media-education
   - teacher-role
   - higher-ed
-  reason: 'Integrated into educational-policy-ai (the measured student-side consequence of an advocacy-practice
-    mismatch, which the page documented only in form) and student-engagement (an institution-level antecedent moving
-    engagement in opposite directions through challenge and hindrance appraisals). Skipped five: the remaining homes
-    are off-construct or already state the gap.'
+  reason: "Integrated into educational-policy-ai (the measured student-side consequence of an advocacy-practice mismatch, which the page documented only in form) and student-engagement (an institution-level antecedent moving engagement in opposite directions through challenge and hindrance appraisals). Skipped five: the remaining homes are off-construct or already state the gap."
 - article: critical-review-critical-thinking-hci-research-ai-2026
   date: '2026-09-28'
   integrated:
@@ -323,11 +253,7 @@
   no_change:
   - assessment-validity
   - educational-measurement
-  reason: 'Accepted two of four pairs. critical-thinking and limitations-in-aied-research both assert the measurement
-    problem without quantifying it; this review supplies review-level counts over 80 HCI studies - only 23 defined
-    critical thinking, 49 (61%) assessed it by self-report, 42 (52%) used no control group. Skipped assessment-validity
-    and educational-measurement: both already carry the self-report validity argument with specific studies cited,
-    so this would be another instance of a documented claim.'
+  reason: "Accepted two of four pairs. critical-thinking and limitations-in-aied-research both assert the measurement problem without quantifying it; this review supplies review-level counts over 80 HCI studies - only 23 defined critical thinking, 49 (61%) assessed it by self-report, 42 (52%) used no control group. Skipped assessment-validity and educational-measurement: both already carry the self-report validity argument with specific studies cited, so this would be another instance of a documented claim."
 - article: generative-ai-higher-education-systematic-review-2026
   date: '2026-09-28'
   integrated:
@@ -335,12 +261,7 @@
   no_change:
   - learning-gains
   - generative-ai
-  reason: Accepted one of three pairs. limitations-in-aied-research asserted that outcome claims outrun evidence
-    without quantifying the pattern; this review supplies a four-level outcome typology over 103 higher-education
-    studies with 56% falling in one conditional pattern (confidence and motivation up, durable competence unchanged).
-    Skipped learning-gains, which already carries the conditional finding from the Dong 2026 meta-analysis of 53
-    studies, and generative-ai, which already carries a tool typology - each would be a second instance of a documented
-    claim.
+  reason: Accepted one of three pairs. limitations-in-aied-research asserted that outcome claims outrun evidence without quantifying the pattern; this review supplies a four-level outcome typology over 103 higher-education studies with 56% falling in one conditional pattern (confidence and motivation up, durable competence unchanged). Skipped learning-gains, which already carries the conditional finding from the Dong 2026 meta-analysis of 53 studies, and generative-ai, which already carries a tool typology - each would be a second instance of a documented claim.
 - article: chatbot-outreach-course-performance-2026
   date: '2026-09-28'
   integrated:
@@ -348,11 +269,7 @@
   no_change:
   - differential-effects-across-learner-groups
   - conversational-ai
-  reason: Accepted one of three pairs. help-seeking described recognition and strategic requests for help but carried
-    no outreach mechanism; this supplies a pre-registered test where proactive chatbot messaging raised tutoring
-    and supplemental-instruction take-up and 17.8% of the grade effect ran through it. Skipped differential-effects-across-learner-groups,
-    whose Gender section already carries gender-differential AI findings, and conversational-ai, which already carries
-    a non-generative institutional chatbot evaluation - each would be another instance of a documented pattern.
+  reason: Accepted one of three pairs. help-seeking described recognition and strategic requests for help but carried no outreach mechanism; this supplies a pre-registered test where proactive chatbot messaging raised tutoring and supplemental-instruction take-up and 17.8% of the grade effect ran through it. Skipped differential-effects-across-learner-groups, whose Gender section already carries gender-differential AI findings, and conversational-ai, which already carries a non-generative institutional chatbot evaluation - each would be another instance of a documented pattern.
 - article: friction-paradox-generative-ai-education-abroad-2026
   date: '2026-09-28'
   integrated:
@@ -360,481 +277,2262 @@
   no_change:
   - cognitive-offloading
   - productive-failure
-  reason: Accepted one of three pairs. desirable-difficulties theorized difficulty only inside
-    structured academic tasks; this extends the construct to difficulty arising within relational
-    encounters and adds the mediation gradient, which orders uses by interpretive agency rather than
-    volume - a dimension the page did not carry. Skipped cognitive-offloading, 7,300 words that already
-    set out the autonomous-versus-dependent offloading distinction the paper builds on, and
-    productive-failure, which already states the effort principle the paper extends.
+  reason: Accepted one of three pairs. desirable-difficulties theorized difficulty only inside structured academic tasks; this extends the construct to difficulty arising within relational encounters and adds the mediation gradient, which orders uses by interpretive agency rather than volume - a dimension the page did not carry. Skipped cognitive-offloading, 7,300 words that already set out the autonomous-versus-dependent offloading distinction the paper builds on, and productive-failure, which already states the effort principle the paper extends.
 - article: beyond-display-generative-representational-activity-2026
   date: '2026-09-28'
   integrated: []
   no_change:
   - math-education
   - visualization
-  reason: No pair qualified. The contribution is representational theory - that generativity is a
-    different axis from dynamicity, and that specification, execution, coordination and warrant must be
-    separated as evidence. No concept page carries representational or dynamic-geometry theory to
-    extend, and the two nearest candidates (math-education, visualization) would gain only a link to a
-    theoretical distinction their narratives do not otherwise discuss.
-
+  reason: No pair qualified. The contribution is representational theory - that generativity is a different axis from dynamicity, and that specification, execution, coordination and warrant must be separated as evidence. No concept page carries representational or dynamic-geometry theory to extend, and the two nearest candidates (math-education, visualization) would gain only a link to a theoretical distinction their narratives do not otherwise discuss.
 - article: llm-benchmark-secondary-science-topics-2026
   date: 2026-09-29
-  integrated: [benchmark]
-  no_change: [science-education, k-12, llm]
-  reason: "The K-12 NGSS benchmark's finding that most open-weight models exceed 90% while item discrimination collapses is a distinguishing measurement, so it was woven into the benchmark page's item-statistics discussion; the science-education, k-12 and llm pages already carry the relevant coverage."
+  integrated:
+  - benchmark
+  no_change:
+  - science-education
+  - k-12
+  - llm
+  reason: The K-12 NGSS benchmark's finding that most open-weight models exceed 90% while item discrimination collapses is a distinguishing measurement, so it was woven into the benchmark page's item-statistics discussion; the science-education, k-12 and llm pages already carry the relevant coverage.
 - article: ai-powered-writing-feedback-awe-review-2026
   date: 2026-09-29
   integrated: []
-  no_change: [writing-education, automated-assessment, feedback]
-  reason: "The review restates established automated-writing-evaluation benefits and overreliance risks; the writing-education page already discusses AWE tools, so nothing distinguishing was added."
-
+  no_change:
+  - writing-education
+  - automated-assessment
+  - feedback
+  reason: The review restates established automated-writing-evaluation benefits and overreliance risks; the writing-education page already discusses AWE tools, so nothing distinguishing was added.
 - article: koretsky-genai-stem-assessment-2026
   date: 2026-09-29
   integrated: []
-  no_change: [assessment-validity, process-oriented-assessment, ai-literacy]
+  no_change:
+  - assessment-validity
+  - process-oriented-assessment
+  - ai-literacy
   reason: "All three screened concepts already carried this paper's points from stronger primary sources: the rule-broken-vs-validity reframe and its reverse (restrictive proctoring cutting validity) are stated by Mohamed & Temimi, Teichmann, Hadjisolomou and Weidlich; process evidence and its limits are the stated thesis of the process-oriented page; and the AI-literacy distinction is a single undeveloped paragraph in an editorial scoping review with no evidence or operationalization. No narrative change; the page gained only a back-link where the paper is genuinely central."
 - article: rodrigues-aied-unplugged-numeracy-2026
   date: 2026-09-29
-  integrated: [teacher-role, digital-divide]
+  integrated:
+  - teacher-role
+  - digital-divide
   no_change: []
-  reason: "Teacher-as-proxy is new to the teacher-role page, which had orchestration but no teacher standing in for the system, and the effect runs through the teacher (training drove gains; reduced Effort mediated the learning effect, 3.649, 95% CI [1.097, 6.398]). The unplugged design is also a distinct equity strategy on the digital-divide page, with the caveat that it relocates rather than removes the constraint."
+  reason: Teacher-as-proxy is new to the teacher-role page, which had orchestration but no teacher standing in for the system, and the effect runs through the teacher (training drove gains; reduced Effort mediated the learning effect, 3.649, 95% CI [1.097, 6.398]). The unplugged design is also a distinct equity strategy on the digital-divide page, with the caveat that it relocates rather than removes the constraint.
 - article: dang-human-ai-collaboration-competency-2026
   date: 2026-09-29
-  integrated: [human-ai-collaboration, metacognition]
-  no_change: [agency]
-  reason: "HACC reframes collaboration competency as a dynamic configuration rather than additive skills, reassigns TPACK's integrative role to learner metacognition and treats agency as emergent; both pages gained that framing. The agency page already carried agency as enacted, emergent and non-competency, and the one novel element - the framework's self-acknowledged inability to measure agency directly - has no purchase on a page that does not frame agency as measurable."
+  integrated:
+  - human-ai-collaboration
+  - metacognition
+  no_change:
+  - agency
+  reason: HACC reframes collaboration competency as a dynamic configuration rather than additive skills, reassigns TPACK's integrative role to learner metacognition and treats agency as emergent; both pages gained that framing. The agency page already carried agency as enacted, emergent and non-competency, and the one novel element - the framework's self-acknowledged inability to measure agency directly - has no purchase on a page that does not frame agency as measurable.
 - article: sadik-ai-ready-engineering-talent-faculty-2026
   date: 2026-09-29
   integrated: []
-  no_change: [ai-use-disclosure, prior-knowledge, academic-integrity, curriculum-design, change-management, engineering-education, cognitive-offloading, professional-training]
-  reason: "No pair qualified. The study's central contribution, conditional integration via five conditions, is already the substance of the pages screened - developmental-readiness staging is carried on curriculum-design (the refrain-then-amplify forming-versus-offloading criterion), disclosure and provenance on ai-use-disclosure, verification and task purpose on cognitive-offloading, and reciprocal professional accountability on engineering-education's ethics-to-accountability gap - so the faculty interview material adds another instance of claim classes those pages already carry."
+  no_change:
+  - ai-use-disclosure
+  - prior-knowledge
+  - academic-integrity
+  - curriculum-design
+  - change-management
+  - engineering-education
+  - cognitive-offloading
+  - professional-training
+  reason: No pair qualified. The study's central contribution, conditional integration via five conditions, is already the substance of the pages screened - developmental-readiness staging is carried on curriculum-design (the refrain-then-amplify forming-versus-offloading criterion), disclosure and provenance on ai-use-disclosure, verification and task purpose on cognitive-offloading, and reciprocal professional accountability on engineering-education's ethics-to-accountability gap - so the faculty interview material adds another instance of claim classes those pages already carry.
 - article: loidl-chatgpt-career-development-2026
   date: 2026-09-29
-  integrated: [career-development-and-readiness]
-  no_change: [technology-acceptance-model, student-ai-interaction, social-norms-ai-use]
+  integrated:
+  - career-development-and-readiness
+  no_change:
+  - technology-acceptance-model
+  - student-ai-interaction
+  - social-norms-ai-use
   reason: "Integrated into career-development-and-readiness: the page carried readiness capacities and employer skills gaps but no evidence on AI-mediated career preparation itself, so the 81% ChatGPT use and resume-led task distribution (52.94%) is a distinguishing dimension. Skipped three: the TAM regression reproduces a drop-out pattern the technology-acceptance-model page already carries in several extensions, and the tailoring/rehearsal and social-influence findings restate claims held by student-ai-interaction and social-norms-ai-use."
 - article: page-cognitive-partnership-cycle-human-ai-2026
   date: 2026-09-29
-  integrated: [student-ai-interaction]
-  no_change: [human-ai-collaboration, metacognition, distributed-cognition, cognitive-offloading]
+  integrated:
+  - student-ai-interaction
+  no_change:
+  - human-ai-collaboration
+  - metacognition
+  - distributed-cognition
+  - cognitive-offloading
   reason: "Integrated into student-ai-interaction: the page's form-to-learning account treats sustained iterative dialogue as the better pattern, and the conceptual distinction between conversational and cognitive iteration supplies the missing limit - that turn count is not a proxy for engagement depth. Skipped four: human-ai-collaboration already carries who-generates-and-decides and the performance-versus-learning caution, and metacognition, distributed-cognition and cognitive-offloading restate mechanisms their narratives already state."
 - article: mulvenon-test-anxiety-ai-accountability-2026
   date: 2026-09-29
-  integrated: [anxiety-and-stress]
-  no_change: [teacher-role, learning-analytics, governance, student-modeling, formative-assessment]
+  integrated:
+  - anxiety-and-stress
+  no_change:
+  - teacher-role
+  - learning-analytics
+  - governance
+  - student-modeling
+  - formative-assessment
   reason: "Integrated into anxiety-and-stress: the page's assessment-pressure material was proctoring surveillance and career anxiety, with nothing on the shift from episodic testing to continuous data-driven evaluation, so the invisible-anxiety and algorithmic-accountability redistribution claim is distinguishing (recorded as argued from literature, not measured). Skipped five: teacher-role's continuous dashboard monitoring, learning-analytics' pipeline, and the governance, student-modeling and formative-assessment claims are already carried with stronger evidence."
 - article: liang-k12-kgraph-curriculum-knowledge-graph-2026
   date: 2026-09-29
   integrated: []
-  no_change: [benchmark, knowledge-graph, curriculum-design, pedagogical-llm-training, educational-measurement, multimodal, transfer-of-learning, ai-ed-evaluation, math-education]
-  reason: "No pair qualified. K12-Bench is a further instance of a claim the benchmark page already carries - that education-relevant constructs beyond content knowledge go untested (the same page added a 2026 K-12 science benchmark finding that day) - and the textbook-derived graph is a further instance of the LLM-constructed curriculum graphs already on knowledge-graph (HiLLM-CD, CourseGraph) and the multimodal graphs on multimodal. curriculum-design already carries AI curriculum mapping, pedagogical-llm-training already carries data-composition findings, and the remaining candidates are off-construct, so nothing survived the delete test."
+  no_change:
+  - benchmark
+  - knowledge-graph
+  - curriculum-design
+  - pedagogical-llm-training
+  - educational-measurement
+  - multimodal
+  - transfer-of-learning
+  - ai-ed-evaluation
+  - math-education
+  reason: No pair qualified. K12-Bench is a further instance of a claim the benchmark page already carries - that education-relevant constructs beyond content knowledge go untested (the same page added a 2026 K-12 science benchmark finding that day) - and the textbook-derived graph is a further instance of the LLM-constructed curriculum graphs already on knowledge-graph (HiLLM-CD, CourseGraph) and the multimodal graphs on multimodal. curriculum-design already carries AI curriculum mapping, pedagogical-llm-training already carries data-composition findings, and the remaining candidates are off-construct, so nothing survived the delete test.
 - article: worden-foundationalassist-knowledge-tracing-dataset-2026
   date: 2026-09-29
-  integrated: [knowledge-tracing]
-  no_change: [student-modeling, item-response-theory, benchmark, math-education, personalized-learning, metacognition, automated-question-generation, misconceptions, help-seeking]
+  integrated:
+  - knowledge-tracing
+  no_change:
+  - student-modeling
+  - item-response-theory
+  - benchmark
+  - math-education
+  - personalized-learning
+  - metacognition
+  - automated-question-generation
+  - misconceptions
+  - help-seeking
   reason: "Integrated into knowledge-tracing: the page carried tracing approaches and three validation caveats but no evidence that off-the-shelf models fail as tracers, so FoundationalASSIST's finding that the best of four frontier LLMs reaches only 56.2% against a 51.3% always-correct baseline (AUC-ROC 0.559, optimism bias 85.4% vs 12.6%) is a distinguishing capability boundary. Skipped the rest: item-response-theory already carries several LLM difficulty-estimation instruments, and the others add no claim the pages lack."
 - article: garrod-edu-qurating-educational-data-curation-2026
   date: 2026-09-29
-  integrated: [educational-nlp]
-  no_change: [pedagogical-llm-training, global-south, multilingual-learning, culturally-relevant-pedagogy, reinforcement-learning, educational-measurement, curriculum-design, misconceptions, prior-knowledge, scaffolding]
+  integrated:
+  - educational-nlp
+  no_change:
+  - pedagogical-llm-training
+  - global-south
+  - multilingual-learning
+  - culturally-relevant-pedagogy
+  - reinforcement-learning
+  - educational-measurement
+  - curriculum-design
+  - misconceptions
+  - prior-knowledge
+  - scaffolding
   reason: "Integrated into educational-nlp: the page had no coverage of corpus-scale data curation, so distilled multi-dimensional scorers labeling 322.25M FineWeb-Edu-Fortified documents is a distinguishing application of educational NLP to the instructional text other models are trained on, not just to learner-produced language. Skipped ten: curated corpora for local languages, upstream coverage gaps, and GRPO reward design are claim classes already carried by multilingual-learning, global-south and reinforcement-learning."
 - article: sung-ai-literacy-unplugged-ml-k12-pd-2026
   date: 2026-09-29
-  integrated: [machine-learning]
-  no_change: [ai-literacy, self-efficacy, teacher-ai-competency, teacher-education, professional-training, explainable-ai, computational-thinking, digital-divide, math-education]
+  integrated:
+  - machine-learning
+  no_change:
+  - ai-literacy
+  - self-efficacy
+  - teacher-ai-competency
+  - teacher-education
+  - professional-training
+  - explainable-ai
+  - computational-thinking
+  - digital-divide
+  - math-education
   reason: "Integrated into machine-learning: its teacher-ML-literacy section carried only a hands-on coding and robotics route, so an unplugged design in which ten K-12 educators build an explainable feature matrix by hand - the classifier is the visible table, with no software beyond Code.org's sorting game and Google Slides - is a contrasting instructional mode with a different outcome (AI self-efficacy, 3.13 to 3.71), not another instance. Skipped nine: the self-efficacy gains, the PD design and the geometry bridge restate claim classes already carried on self-efficacy (teacher PD confidence plus the attribution caution), teacher-ai-competency, teacher-education, professional-training and math-education, and the unplugged and explainability-by-construction strands are already on ai-literacy, early-childhood-elementary-ai-education, digital-divide and explainable-ai."
 - article: cheng-symbiotic-role-design-human-genai-collaboration-2026
   date: 2026-09-29
-  integrated: [collaborative-learning]
-  no_change: [human-ai-collaboration, group-work, scaffolding, cognitive-offloading, distributed-cognition, agency, network-analysis, metacognition, self-regulated-learning, technology-acceptance-model, student-ai-interaction, learning-gains, critical-thinking]
+  integrated:
+  - collaborative-learning
+  no_change:
+  - human-ai-collaboration
+  - group-work
+  - scaffolding
+  - cognitive-offloading
+  - distributed-cognition
+  - agency
+  - network-analysis
+  - metacognition
+  - self-regulated-learning
+  - technology-acceptance-model
+  - student-ai-interaction
+  - learning-gains
+  - critical-thinking
   reason: "Integrated into collaborative-learning: the page carried roles only as a design requirement for neurodivergent learners and role switches as a trust caveat, so role assignment plus rotation across members and the AI partner - with the artifact-level contrast of mind-map content rising nearly a full SOLO band while node and branch counts stayed flat - is a distinguishing outcome dimension (structure moves organization, not volume). Skipped the rest: human-ai-collaboration already carries role architecture and role-adaptive logic (Talebzadeh, Liao, Xu), critical-thinking already carries role rotation as a structure for critical human-AI interaction, and the cognitive-load, TAM, metacognition and process claims restate mechanisms those pages state."
 - article: chen-bertopic-ai-online-learning-research-topics-2026
   date: 2026-09-29
   integrated: []
-  no_change: [online-teaching-and-learning, learning-analytics, adaptive-learning, personalized-learning, multimodal, affective-computing, explainable-ai, machine-learning, ai-ed-evaluation, interpreting-and-applying-aied-research, meta-analysis-systematic-review]
+  no_change:
+  - online-teaching-and-learning
+  - learning-analytics
+  - adaptive-learning
+  - personalized-learning
+  - multimodal
+  - affective-computing
+  - explainable-ai
+  - machine-learning
+  - ai-ed-evaluation
+  - interpreting-and-applying-aied-research
+  - meta-analysis-systematic-review
   reason: "No pair qualified. The unit of analysis is the publication, not the learner: the topic map and its trend tests describe research attention, and where a page already maps a field by scoping or systematic review, a BERTopic topic model is a second instrument for the same construct. The declines in adaptive and personalized topics, the absent collaborative strand and explainability's non-emergence as an empirical topic are meta-observations about a 2010-2023 Web of Science corpus, not claims the concept pages carry."
 - article: zhao-ji-appraisal-human-ai-revisions-2026
   date: 2026-09-30
-  integrated: [writing-education, feedback]
-  no_change: [ai-feedback-quality, ai-literacy, critical-thinking, peer-assessment, english-education, generative-ai, llm, quantitative-research]
+  integrated:
+  - writing-education
+  - feedback
+  no_change:
+  - ai-feedback-quality
+  - ai-literacy
+  - critical-thinking
+  - peer-assessment
+  - english-education
+  - generative-ai
+  - llm
+  - quantitative-research
   reason: "Integrated into writing-education and feedback. writing-education: the page carried revision-quality research but nothing on the rhetorical stance a revision leaves behind, so the finding that the three draft types are statistically indistinguishable in Engagement frequency while their Contract/Expand configuration differs (peer feedback more contractive, AI revision more balanced) is a distinguishing outcome dimension rather than another feedback-quality result. feedback: the page's provision-and-uptake system had no claim about what a revision does to the writer's dialogic position, so stance-as-outcome is a claim class it lacks. Skipped ai-feedback-quality (the study measures revisions, not feedback quality), peer-assessment (already carries the AI-versus-peer comparison through Tang et al. and Geschwind et al.), english-education (cluster page: listed and connected, no narrative claim needed), and the remaining candidates (ai-literacy, critical-thinking, generative-ai, llm, quantitative-research), which restate what those pages carry."
 - article: sun-student-genai-entanglement-literacy-demands-2026
   date: 2026-09-30
-  integrated: [ai-literacy, higher-ed, human-ai-collaboration]
-  no_change: [critical-thinking, self-regulated-learning, scaffolding, creativity, cognitive-offloading, meta-analysis-systematic-review, theory-development-aied, generative-ai, llm, student-ai-interaction, pedagogy]
+  integrated:
+  - ai-literacy
+  - higher-ed
+  - human-ai-collaboration
+  no_change:
+  - critical-thinking
+  - self-regulated-learning
+  - scaffolding
+  - creativity
+  - cognitive-offloading
+  - meta-analysis-systematic-review
+  - theory-development-aied
+  - generative-ai
+  - llm
+  - student-ai-interaction
+  - pedagogy
   reason: "Integrated into three pages. ai-literacy: the page described four dimensions and how they develop but treated the demand as one generic set, so a framework in which what an activity requires varies with how epistemic work is distributed - with literacy reframed as recognizing that distribution and acting within it - is a distinguishing move. higher-ed: the page maps institutional transformation and student experience but carried no evidence about which forms of GenAI use have become legitimate, so the 42.16%/42.16% Assistant-Enabler concentration with the marginal types read as an institutional-legitimacy limit is a claim class it lacked. human-ai-collaboration: the page's who-generates-and-decides axis explains preservation versus substitution, but not why some distributions of epistemic work stay rare, so the institutional-recognition account of the marginal entanglements is distinguishing. Skipped the rest: critical-thinking, self-regulated-learning, scaffolding, creativity and cognitive-offloading carry the higher-order-competence claims already, meta-analysis-systematic-review carries scoping-review method, theory-development-aied already carries taxonomy-extension work, and generative-ai, llm, student-ai-interaction and pedagogy are mechanism pages the finding does not change."
 - article: sriram-ethical-ai-medical-education-bibliometric-2026
   date: 2026-09-30
-  integrated: [medical-education]
-  no_change: [governance, educational-policy-ai, ethics, research-methods-aied, meta-analysis-systematic-review, network-analysis, generative-ai, llm]
+  integrated:
+  - medical-education
+  no_change:
+  - governance
+  - educational-policy-ai
+  - ethics
+  - research-methods-aied
+  - meta-analysis-systematic-review
+  - network-analysis
+  - generative-ai
+  - llm
   reason: "Integrated into medical-education: the page is a catalogue of how AI appears in health-professions education and carried no claim about the shape of its own literature, so a bibliometric map showing output rising from 113 (2023) to 500 (2025), 39 countries clearing the authorship threshold with the United States at 533 publications against China's 189, and a citation record dominated by capability testing rather than governance scholarship is a distinguishing reflexive claim. Skipped governance, educational-policy-ai and ethics: those pages carry the governance and ethics substance, and 'the literature under-studies governance' is a claim about research attention rather than about governance itself - the class the chen-bertopic screen declined on 2026-09-29. Skipped research-methods-aied, meta-analysis-systematic-review and network-analysis: bibliometric mapping as a method is not a claim those pages lack, and generative-ai and llm are mechanism pages the finding does not change."
 - article: vogt-ai-mcq-recognition-medical-assessment-2026
   date: 2026-09-30
-  integrated: [automated-question-generation, assessment-validity]
-  no_change: [medical-education, ai-detection, self-assessment, ai-literacy, automated-assessment, educational-measurement]
+  integrated:
+  - automated-question-generation
+  - assessment-validity
+  no_change:
+  - medical-education
+  - ai-detection
+  - self-assessment
+  - ai-literacy
+  - automated-assessment
+  - educational-measurement
   reason: "Integrated into two pages. automated-question-generation: the page's validation material covers item-side quality (hallucination, difficulty calibration, psychometric field validation) but nothing on whether students can tell AI-drafted items from reference items, so a graded exam in which source attribution did not differ between 30 AI-generated and 30 licensing-exam MCQs, with 18.2% of generated items eliminated in expert review, is a distinguishing recognition result. assessment-validity: the page carries detector and human-marking validity but no claim about perception measures, so the finding that student alignment ratings track item difficulty at rho = 0.762 is a new construct-validity caution. Skipped medical-education (the result is an assessment finding already carried by the AQG page, and the medical-education narrative would restate it), ai-detection (the recognition finding concerns assessment items, not text detection), and self-assessment, ai-literacy, automated-assessment and educational-measurement, which already carry the metacognitive and psychometric claim classes."
 - article: najem-behavioral-clustering-adaptive-learning-recommendation-2026
   date: 2026-09-30
-  integrated: [recommender-systems-and-learning-paths]
-  no_change: [learning-analytics, adaptive-learning, personalized-learning, student-modeling, machine-learning, educational-measurement]
+  integrated:
+  - recommender-systems-and-learning-paths
+  no_change:
+  - learning-analytics
+  - adaptive-learning
+  - personalized-learning
+  - student-modeling
+  - machine-learning
+  - educational-measurement
   reason: "Integrated into recommender-systems-and-learning-paths: the page states that the field cannot yet point to a reranking or regularization fix that reliably changes exposure, so a framework whose design includes an explicit diversity-regularization term (lambda = 0.30) against preference collapse, together with the authors' own caveat that the clustering inputs are self-reported proxies rather than LMS interaction traces, is a distinguishing design claim awaiting validation. Skipped learning-analytics: the self-report-versus-trace distinction is already on that page, so another instance of clustering on survey inputs adds no claim it lacks. Skipped adaptive-learning, personalized-learning, student-modeling, machine-learning and educational-measurement: the profile-to-object mapping and the clustering algorithm restate mechanism classes those pages already carry."
 - article: angelier-ai-detection-pitfalls-inclusive-assessment-2026
   date: 2026-09-30
-  integrated: [ai-detection]
-  no_change: [process-oriented-assessment, assessment-validity, academic-integrity, bias-mitigation, differential-effects-across-learner-groups, inclusive-learning]
+  integrated:
+  - ai-detection
+  no_change:
+  - process-oriented-assessment
+  - assessment-validity
+  - academic-integrity
+  - bias-mitigation
+  - differential-effects-across-learner-groups
+  - inclusive-learning
   reason: "Integrated into ai-detection: the page carries detector error rates, the bias mechanism and the case against treating a score as a finding, but had no cross-tool audit on a single known-provenance text and no record of the institutions that have withdrawn from detection, so five tools returning classifications from '0% human' to 'Human Generated' on one human manuscript, plus the dated list from Vanderbilt (2023) through Waterloo, Cape Town, the Free State and Witwatersrand and the annulled New York misconduct finding, are claim classes the page lacked. Skipped process-oriented-assessment: the page already carries the process-evidence model and its workload costs, and this paper's four-stage version adds no component it lacks. Skipped assessment-validity, academic-integrity, bias-mitigation, differential-effects-across-learner-groups and inclusive-learning: the non-native-speaker false-positive evidence and the validity framing are already carried there from stronger primary sources."
 - article: students-at-stake-ai-deployment-risks-2026
   date: 2026-09-30
-  integrated: [higher-ed]
-  no_change: [governance, educational-policy-ai, privacy, equity-in-ai-education, bias-mitigation, ai-detection, academic-integrity, student-experience]
+  integrated:
+  - higher-ed
+  no_change:
+  - governance
+  - educational-policy-ai
+  - privacy
+  - equity-in-ai-education
+  - bias-mitigation
+  - ai-detection
+  - academic-integrity
+  - student-experience
   reason: "Integrated into higher-ed: the page covers teaching, learning, assessment and institutional transformation but nothing about AI deployment in the administrative functions that shape the student relationship, so a student-side map of admissions, recruitment, financial aid, advising and benefits access - with the consumer-protection framing, the white-labeling failure mode and the four-question procurement screen - is a distinguishing claim class. Skipped governance and educational-policy-ai: both already carry the policy-versus-governance distinction and a procurement-justification line (Zagami 2026), so the four questions largely restate material there. Skipped privacy, equity-in-ai-education, bias-mitigation, ai-detection, academic-integrity and student-experience: this is an advocacy report without primary data, so its claims in those areas restate evidence those pages already carry from peer-reviewed sources."
 - article: liu-course-integrated-ai-tutoring-rct-2026
   date: 2026-09-30
-  integrated: [intelligent-tutoring, differential-effects-across-learner-groups, student-engagement, rct]
-  no_change: [help-seeking, cognitive-offloading, learning-gains, human-ai-collaboration, higher-ed, equity-in-ai-education, self-regulated-learning, generative-ai, llm, rag]
+  integrated:
+  - intelligent-tutoring
+  - differential-effects-across-learner-groups
+  - student-engagement
+  - rct
+  no_change:
+  - help-seeking
+  - cognitive-offloading
+  - learning-gains
+  - human-ai-collaboration
+  - higher-ed
+  - equity-in-ai-education
+  - self-regulated-learning
+  - generative-ai
+  - llm
+  - rag
   reason: "Integrated into three pages. intelligent-tutoring: the page's causal evidence is a run of positive or null tutoring results (Medly, the MBA tutor experiment, Tutor CoPilot) plus the K-12 guardrail harm literature, so a multi-discipline university-scale RCT in which a well-grounded, citable, LMS-embedded tutor lowered final grades by 0.37 SDs in the exact-match sample and platform participation by 0.90 SDs is a distinguishing adverse deployment result with its own mechanism (technical integration without instructional integration). differential-effects-across-learner-groups: the page states that first-generation evidence amounts to one usage difference and no effect, so a measured differential (-0.50 SDs for first-generation students against -0.22 for their peers) fills a gap the page names itself. student-engagement: the page treats engagement as a mechanism AI usually raises and warns that high engagement need not mean learning, so a randomized reduction of 0.90 SDs in recorded participation alongside unchanged homework submission is the mirror-image case and a measurement caution the page lacks. Skipped help-seeking: the substitution away from instructor contact is a randomized instance of the sequencing claim the page already carries (Manikonda's early reliance, Viberg's whom-to-ask-first), so the mechanism went into the intelligent-tutoring insertion instead. Skipped cognitive-offloading and learning-gains: the 73.8% direct-answer request distribution and the performance-versus-learning caution restate claim classes those pages already carry from stronger designs. Skipped human-ai-collaboration, higher-ed, equity-in-ai-education, self-regulated-learning, generative-ai, llm and rag: the deployment, equity and mechanism claims there are already carried, and the equity finding belongs on the differential-effects page where the first-generation gap is mapped. Added later the same day, on review: the rct page. The screen had treated the methods facet as a tag and skipped it, which was wrong - that page's account of RCTs covers micro-trials and the gold-standard trade-offs but had nothing on cluster assignment, so instructor-level randomization with 34 clusters, 15% uptake and an intent-to-treat estimand is a distinguishing design lesson rather than a methods label."
 - article: human-ai-collaboration-design-education-rubric-2026
   date: 2026-09-30
   integrated:
   - tpack
-  no_change: [process-oriented-assessment, teacher-ai-competency, human-ai-collaboration, assessment-validity, authentic-assessment, peer-assessment, creativity, critical-thinking, socratic-method, teacher-role, student-ai-interaction, prompt-engineering, generative-ai, hallucination-risk, transfer-of-learning, self-report-measures, ai-use-disclosure, design-based-research, qualitative-research]
-  reason: 'The one distinguishing contribution is AI-Validation Knowledge as a domain-general fourth TPACK competency, woven into the tpack page''s AI-TPACK narrative. The process-oriented rubric itself is another instance of a claim class process-oriented-assessment already carries (Thapa and Lewis, Boysen, LEARN, Moganadas, Padhy), so that page was left alone; the remaining candidates restate existing coverage.'
-
+  no_change:
+  - process-oriented-assessment
+  - teacher-ai-competency
+  - human-ai-collaboration
+  - assessment-validity
+  - authentic-assessment
+  - peer-assessment
+  - creativity
+  - critical-thinking
+  - socratic-method
+  - teacher-role
+  - student-ai-interaction
+  - prompt-engineering
+  - generative-ai
+  - hallucination-risk
+  - transfer-of-learning
+  - self-report-measures
+  - ai-use-disclosure
+  - design-based-research
+  - qualitative-research
+  reason: The one distinguishing contribution is AI-Validation Knowledge as a domain-general fourth TPACK competency, woven into the tpack page's AI-TPACK narrative. The process-oriented rubric itself is another instance of a claim class process-oriented-assessment already carries (Thapa and Lewis, Boysen, LEARN, Moganadas, Padhy), so that page was left alone; the remaining candidates restate existing coverage.
 - article: cognitive-distribution-student-genai-interaction-2026
   date: 2026-09-30
   integrated:
   - distributed-cognition
-  no_change: [student-ai-interaction, cognitive-offloading, metacognition, trust-calibration, student-engagement, self-directed-learning, ai-literacy, agency, transfer-of-learning, critical-thinking, constructivist, motivation, generative-ai, llm, conversational-ai, hallucination-risk, regulation, human-ai-collaboration, theories-and-frameworks, prompt-engineering, process-oriented-assessment, self-report-measures, mixed-methods-research, qualitative-research, quantitative-research]
-  reason: 'The Cognitive Distribution Framework''s five interaction types and four roles are a genuinely new process account of how cognition is redistributed, so it was woven into distributed-cognition. student-ai-interaction and cognitive-offloading already carry the interaction-quality and offloading claims; the rest are context rather than a distinguishing finding.'
-
+  no_change:
+  - student-ai-interaction
+  - cognitive-offloading
+  - metacognition
+  - trust-calibration
+  - student-engagement
+  - self-directed-learning
+  - ai-literacy
+  - agency
+  - transfer-of-learning
+  - critical-thinking
+  - constructivist
+  - motivation
+  - generative-ai
+  - llm
+  - conversational-ai
+  - hallucination-risk
+  - regulation
+  - human-ai-collaboration
+  - theories-and-frameworks
+  - prompt-engineering
+  - process-oriented-assessment
+  - self-report-measures
+  - mixed-methods-research
+  - qualitative-research
+  - quantitative-research
+  reason: The Cognitive Distribution Framework's five interaction types and four roles are a genuinely new process account of how cognition is redistributed, so it was woven into distributed-cognition. student-ai-interaction and cognitive-offloading already carry the interaction-quality and offloading claims; the rest are context rather than a distinguishing finding.
 - article: ai-competence-framework-landscape-2026
   date: 2026-09-30
   integrated:
   - ai-literacy
-  no_change: [teacher-ai-competency, professional-training, curriculum-design, career-development-and-readiness, lifelong-learning, vocational-education, k-12, assessment, assessment-validity, formative-assessment, summative-assessment, evaluative-judgment, benchmark, meta-analysis-systematic-review, theories-and-frameworks, educational-policy-ai, governance, ethics, privacy, academic-integrity, ai-use-disclosure, agency, critical-thinking, metacognition, problem-solving, self-efficacy, sustainability, transfer-of-learning, human-ai-collaboration, teacher-ai-competency, multimodal, generative-ai, agentic-ai, interpreting-and-applying-aied-research]
-  reason: 'The comparative map of 16 institutionally endorsed competence frameworks - a shared core of ten areas against wide variation in structure and guidance - is the distinguishing contribution and was woven into ai-literacy. teacher-ai-competency already carries the competency-gap and instrument material, so it was screened and declined.'
-
+  no_change:
+  - teacher-ai-competency
+  - professional-training
+  - curriculum-design
+  - career-development-and-readiness
+  - lifelong-learning
+  - vocational-education
+  - k-12
+  - assessment
+  - assessment-validity
+  - formative-assessment
+  - summative-assessment
+  - evaluative-judgment
+  - benchmark
+  - meta-analysis-systematic-review
+  - theories-and-frameworks
+  - educational-policy-ai
+  - governance
+  - ethics
+  - privacy
+  - academic-integrity
+  - ai-use-disclosure
+  - agency
+  - critical-thinking
+  - metacognition
+  - problem-solving
+  - self-efficacy
+  - sustainability
+  - transfer-of-learning
+  - human-ai-collaboration
+  - teacher-ai-competency
+  - multimodal
+  - generative-ai
+  - agentic-ai
+  - interpreting-and-applying-aied-research
+  reason: The comparative map of 16 institutionally endorsed competence frameworks - a shared core of ten areas against wide variation in structure and guidance - is the distinguishing contribution and was woven into ai-literacy. teacher-ai-competency already carries the competency-gap and instrument material, so it was screened and declined.
 - article: ai-marking-accuracy-gcse-physics-2026
   date: 2026-09-30
   integrated:
   - automated-assessment
-  no_change: [assessment-validity, educational-measurement, psychometrically-aware-ai, benchmark, feedback, human-in-the-loop-ai, trust-calibration, limitations-in-aied-research, llm, physics-education, quantitative-research, ai-ed-evaluation]
-  reason: 'The reference-standard point - that agreement with examination-board marks is a proxy for accuracy because board marks are themselves fallible human judgements - is not on the page and was woven into automated-assessment. The rest is another alignment study in a claim class the page already documents (OPRaiSE, HITL national assessment).'
-
+  no_change:
+  - assessment-validity
+  - educational-measurement
+  - psychometrically-aware-ai
+  - benchmark
+  - feedback
+  - human-in-the-loop-ai
+  - trust-calibration
+  - limitations-in-aied-research
+  - llm
+  - physics-education
+  - quantitative-research
+  - ai-ed-evaluation
+  reason: The reference-standard point - that agreement with examination-board marks is a proxy for accuracy because board marks are themselves fallible human judgements - is not on the page and was woven into automated-assessment. The rest is another alignment study in a claim class the page already documents (OPRaiSE, HITL national assessment).
 - article: metacognitive-ownership-human-ai-regulation-2026
   date: 2026-09-30
   integrated:
   - metacognition
   - theory-development-aied
-  no_change: [self-regulated-learning, agency, human-ai-collaboration, evaluative-judgment, formative-assessment, cognitive-offloading, trust, trust-calibration, generative-ai, ai-use-disclosure, research-methods-aied, writing-education]
-  reason: 'Metacognitive ownership is a new construct naming what the learner governs (standards appropriation, monitoring-judgment governance, control authorization), so it was woven into metacognition and, as a refinement of an established theory, into theory-development-aied''s advancing-established-theory narrative. self-regulated-learning and agency already carry the learner-governance material.'
-
+  no_change:
+  - self-regulated-learning
+  - agency
+  - human-ai-collaboration
+  - evaluative-judgment
+  - formative-assessment
+  - cognitive-offloading
+  - trust
+  - trust-calibration
+  - generative-ai
+  - ai-use-disclosure
+  - research-methods-aied
+  - writing-education
+  reason: Metacognitive ownership is a new construct naming what the learner governs (standards appropriation, monitoring-judgment governance, control authorization), so it was woven into metacognition and, as a refinement of an established theory, into theory-development-aied's advancing-established-theory narrative. self-regulated-learning and agency already carry the learner-governance material.
 - article: heutagogical-teaching-ai-enhanced-education-2026
   date: 2026-09-30
   integrated:
   - teacher-role
-  no_change: [self-directed-learning, self-regulated-learning, self-efficacy, professional-training, agency, ai-literacy, assessment, evaluative-judgment, bias-mitigation, inclusive-learning, inquiry-based-learning, metacognition, transfer-of-learning, tpack, self-report-measures, mixed-methods-research, qualitative-research]
-  reason: 'The shift from information provider to learning designer, with a non-significant post-program comparison after adjustment, is a distinguishing role finding and was woven into teacher-role. tpack and self-directed-learning already carry the framework material the paper applies rather than extends.'
-
+  no_change:
+  - self-directed-learning
+  - self-regulated-learning
+  - self-efficacy
+  - professional-training
+  - agency
+  - ai-literacy
+  - assessment
+  - evaluative-judgment
+  - bias-mitigation
+  - inclusive-learning
+  - inquiry-based-learning
+  - metacognition
+  - transfer-of-learning
+  - tpack
+  - self-report-measures
+  - mixed-methods-research
+  - qualitative-research
+  reason: The shift from information provider to learning designer, with a non-significant post-program comparison after adjustment, is a distinguishing role finding and was woven into teacher-role. tpack and self-directed-learning already carry the framework material the paper applies rather than extends.
 - article: srjudge-knowledge-concept-tagging-2026
   date: 2026-09-30
   integrated:
   - educational-nlp
-  no_change: [knowledge-tracing, cognitive-diagnosis, recommender-systems-and-learning-paths, online-teaching-and-learning, benchmark, machine-learning, reinforcement-learning, prompt-engineering, llm, math-education, biology-education, physics-education, quantitative-research]
-  reason: 'The Select-Reason-Judge pipeline for knowledge-concept tagging is a distinct educational-NLP application, woven into educational-nlp. The page''s downstream concepts (knowledge-tracing, cognitive-diagnosis, recommender-systems-and-learning-paths) are described as applications rather than extended by the method.'
+  no_change:
+  - knowledge-tracing
+  - cognitive-diagnosis
+  - recommender-systems-and-learning-paths
+  - online-teaching-and-learning
+  - benchmark
+  - machine-learning
+  - reinforcement-learning
+  - prompt-engineering
+  - llm
+  - math-education
+  - biology-education
+  - physics-education
+  - quantitative-research
+  reason: The Select-Reason-Judge pipeline for knowledge-concept tagging is a distinct educational-NLP application, woven into educational-nlp. The page's downstream concepts (knowledge-tracing, cognitive-diagnosis, recommender-systems-and-learning-paths) are described as applications rather than extended by the method.
 - article: genai-learning-motivation-meta-analysis-2026
   date: 2026-09-30
-  integrated: [generative-ai, k-12, motivation]
-  no_change: [ai-education, anxiety-and-stress, cognitive-offloading, differential-effects-across-learner-groups, early-childhood-elementary-ai-education, help-seeking, higher-ed, intelligent-tutoring, language-learning, learners, learning-design, limitations-in-aied-research, llm, meta-analysis-systematic-review, multimodal, pedagogy, personalized-learning, quantitative-research, self-determination-theory, self-report-measures, special-education]
+  integrated:
+  - generative-ai
+  - k-12
+  - motivation
+  no_change:
+  - ai-education
+  - anxiety-and-stress
+  - cognitive-offloading
+  - differential-effects-across-learner-groups
+  - early-childhood-elementary-ai-education
+  - help-seeking
+  - higher-ed
+  - intelligent-tutoring
+  - language-learning
+  - learners
+  - learning-design
+  - limitations-in-aied-research
+  - llm
+  - meta-analysis-systematic-review
+  - multimodal
+  - pedagogy
+  - personalized-learning
+  - quantitative-research
+  - self-determination-theory
+  - self-report-measures
+  - special-education
   reason: "Integrated into three pages. motivation: the construct page carries no pooled meta-analytic estimate for GenAI and motivation, so 56 effect sizes over 6,059 students with I-squared = 93.7% and a 95% prediction interval spanning [-0.689, 2.217] supplies both the magnitude and its instability. generative-ai: that page states a confident pooled motivation effect (g = 0.81) with no interval or stability caveat, and this synthesis reports a lower pooled estimate whose prediction interval spans negative, which directly qualifies it. k-12: the page asserts that ChatGPT makes learning more engaging for younger students, while the education-stage moderator puts the effect smallest in school settings (secondary g = 0.360, primary g = 0.311) against 0.886 at university. Skipped the other 21: the study measures motivation outcomes only, so pages about tutoring design, personalization, help-seeking, offloading, multimodal capability, self-determination and measurement either gain another instance or name a variable the study does not measure; the meta-analysis and limitations pages already carry pooled-effect and unstable-moderator claims from stronger examples; and special-education and early-childhood are exclusions the paper states rather than findings."
 - article: ai-peer-feedback-l2-writing-engagement-2026
   date: 2026-09-30
-  integrated: [peer-assessment]
-  no_change: [ai-education, ai-feedback-quality, ai-literacy, benchmark, collaborative-learning, curriculum-design, feedback, feedback-literacy, generative-ai, human-ai-collaboration, learning-gains, limitations-in-aied-research, llm, metacognition, mixed-methods-research, motivation, prompt-engineering, qualitative-research, quantitative-research, scaffolding, self-efficacy, self-report-measures, sociocultural-learning, student-engagement, teacher-role]
+  integrated:
+  - peer-assessment
+  no_change:
+  - ai-education
+  - ai-feedback-quality
+  - ai-literacy
+  - benchmark
+  - collaborative-learning
+  - curriculum-design
+  - feedback
+  - feedback-literacy
+  - generative-ai
+  - human-ai-collaboration
+  - learning-gains
+  - limitations-in-aied-research
+  - llm
+  - metacognition
+  - mixed-methods-research
+  - motivation
+  - prompt-engineering
+  - qualitative-research
+  - quantitative-research
+  - scaffolding
+  - self-efficacy
+  - self-report-measures
+  - sociocultural-learning
+  - student-engagement
+  - teacher-role
   reason: "Integrated into peer-assessment: the page advises sequencing self-evaluation, then peer, then AI on a small evidence base, and this quasi-experiment supplies a controlled comparison of the opposite order (AI feedback before peer discussion) against peer-only, with effect sizes the page lacks - partial eta-squared of 0.29, 0.28 and 0.32 across affective, behavioral and cognitive engagement and the largest writing gain on task achievement (d = 1.41). Skipped the other 25: the study varies the feedback arrangement rather than feedback quality, so ai-feedback-quality, feedback and feedback-literacy gain another instance of comparisons those pages already carry; student-engagement already states that which dimension moves is design-dependent; and the remaining candidates name constructs the study does not measure (self-efficacy, metacognition, motivation, scaffolding) or are method and umbrella pages where a single quasi-experiment adds no claim class."
 - article: genai-dependence-research-creativity-2026
   date: 2026-09-30
-  integrated: [creativity, critical-thinking]
-  no_change: [ai-literacy, ai-misuse-learning-harm, cognitive-offloading, explainable-ai, generative-ai, human-ai-collaboration, human-in-the-loop-ai, limitations-in-aied-research, llm, metacognition, quantitative-research, self-efficacy, self-regulated-learning, self-report-measures, student-ai-interaction, trust-calibration]
+  integrated:
+  - creativity
+  - critical-thinking
+  no_change:
+  - ai-literacy
+  - ai-misuse-learning-harm
+  - cognitive-offloading
+  - explainable-ai
+  - generative-ai
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - limitations-in-aied-research
+  - llm
+  - metacognition
+  - quantitative-research
+  - self-efficacy
+  - self-regulated-learning
+  - self-report-measures
+  - student-ai-interaction
+  - trust-calibration
   reason: "Integrated into two pages as counter-evidence. creativity: the page reads reliance as undermining creativity, and this survey separates functional, task-oriented dependence (beta = 0.457) from existential reliance (beta = 0.147) and finds the functional form positively associated with self-reported research creativity, with critical thinking carrying roughly 85% of that path. critical-thinking: the page carries Shojaei finding that the simple slope turns negative at high dependence, so a larger graduate sample (1,157) pointing the other way (beta = 0.492) is a boundary condition on that reading. Skipped the other 16: dependence, collaboration quality and creativity are survey constructs, so pages about offloading modes, trust calibration, explainability, human-in-the-loop placement and student-AI interaction name variables the study does not measure; ai-literacy already carries the double-edged dependence finding; and the quantitative, self-report and limitations pages already document cross-sectional PLS-SEM mediation as a design class with its limits."
 - article: genai-literacy-srl-special-education-2026
   date: 2026-09-30
-  integrated: [self-regulated-learning]
-  no_change: [agency, agentic-ai, ai-literacy, benchmark, generative-ai, quantitative-research, self-report-measures, special-education, student-engagement]
+  integrated:
+  - self-regulated-learning
+  no_change:
+  - agency
+  - agentic-ai
+  - ai-literacy
+  - benchmark
+  - generative-ai
+  - quantitative-research
+  - self-report-measures
+  - special-education
+  - student-engagement
   reason: "Integrated into self-regulated-learning: the page discusses scaffolds versus shortcuts and treats offloading as beneficial only when intentional, but carries no measured antecedent chain, and this survey of 434 special-education undergraduates supplies one - GenAI literacy to GenAI-assisted SRL behaviors (total B = 0.701) running mainly through learning agency (B = 0.345) rather than challenge emotions (B = 0.061). Skipped the other 9: the sample is special-education majors rather than learners with disabilities, so special-education gains no instructional claim; agency and ai-literacy already carry confirming instances of agency resources and literacy-to-outcome chains; and benchmark (measurement-model fit here), agentic-ai, quantitative-research, self-report-measures, generative-ai and student-engagement name constructs or design classes the study does not extend."
 - article: synthetic-position-self-authorship-2026
   date: 2026-09-30
-  integrated: [constructivist, learner-identity, theory-development-aied]
-  no_change: [academic-integrity, agency, ai-sycophancy, cognitive-offloading, conversational-ai, critical-thinking, generative-ai, human-ai-collaboration, llm, metacognition, motivation, pedagogy, self-directed-learning, well-being]
+  integrated:
+  - constructivist
+  - learner-identity
+  - theory-development-aied
+  no_change:
+  - academic-integrity
+  - agency
+  - ai-sycophancy
+  - cognitive-offloading
+  - conversational-ai
+  - critical-thinking
+  - generative-ai
+  - human-ai-collaboration
+  - llm
+  - metacognition
+  - motivation
+  - pedagogy
+  - self-directed-learning
+  - well-being
   reason: "Integrated into three pages on its argument rather than data - it is a conceptual analysis in Dialogical Self Theory. constructivist: the page recommends constructive conflict via adversarial agents but carries no boundary on whether simulated opposition can compel revision, and the article argues a counter-position that never resists withholds what makes dialogue potent. learner-identity: the page failure mode is authorship loss as a threat, and this names a distinct condition - delegated authorship, a self densely voiced yet un-authored - that existing constructs have no slot for. theory-development-aied: that page contrasts theory bids that state falsifiable propositions with those that do not, and this bid states one, including a crossover prediction. Skipped the other 14: the framework reports no data, so well-being, critical-thinking, cognitive-offloading, metacognition, motivation, self-directed-learning and academic-integrity gain no measured claim; agency, ai-sycophancy, conversational-ai, human-ai-collaboration, pedagogy and llm already carry the corresponding framing; and generative-ai is a technology catalog this paper does not address."
 - article: ai-employment-threat-career-anxiety-2026
   date: 2026-09-30
-  integrated: [anxiety-and-stress]
-  no_change: [ai-education, ai-literacy, ai-technologies, career-development-and-readiness, generative-ai, limitations-in-aied-research, motivation, quantitative-research, self-efficacy, self-report-measures, well-being]
+  integrated:
+  - anxiety-and-stress
+  no_change:
+  - ai-education
+  - ai-literacy
+  - ai-technologies
+  - career-development-and-readiness
+  - generative-ai
+  - limitations-in-aied-research
+  - motivation
+  - quantitative-research
+  - self-efficacy
+  - self-report-measures
+  - well-being
   reason: "Integrated into anxiety-and-stress: the page career-anxiety section notes that self-efficacy offered only limited buffering and asks what else reduces career-related AI anxiety, and this survey supplies a boundary condition - growth mindset, with the threat-to-employability path significant only at low growth mindset (b = -0.229) and not at high (b = -0.013). Skipped the other 11: career-development-and-readiness already carries career adaptability as a validated buffer plus several threat-to-outcome studies; the remaining candidates are umbrella or method pages (ai-education, ai-technologies, quantitative-research, self-report-measures, limitations-in-aied-research) where a single cross-sectional survey adds no claim class, or name variables the study does not measure (ai-literacy, self-efficacy, motivation, well-being, generative-ai)."
 - article: genai-use-critical-thinking-moderation-2026
   date: 2026-09-30
-  integrated: [critical-thinking, feedback-literacy]
-  no_change: [ai-education, cognitive-offloading, feedback, generative-ai, human-ai-collaboration, limitations-in-aied-research, llm, metacognition, prompt-engineering, quantitative-research, self-regulated-learning, self-report-measures]
+  integrated:
+  - critical-thinking
+  - feedback-literacy
+  no_change:
+  - ai-education
+  - cognitive-offloading
+  - feedback
+  - generative-ai
+  - human-ai-collaboration
+  - limitations-in-aied-research
+  - llm
+  - metacognition
+  - prompt-engineering
+  - quantitative-research
+  - self-regulated-learning
+  - self-report-measures
   reason: "Integrated into two pages. critical-thinking: the page states that whether critical thinking moves depends on design and metacognitive regulation, and this moderated-mediation survey supplies the conduit and a conditional direct path - feedback literacy mediating 71.98% of the total association (beta = 0.185), with the residual direct path positive only for less reflective students (beta = 0.177). feedback-literacy: the page carries feedback literacy as a moderator of AI feedback value and as a predictor of uptake, but never as the mediator of a GenAI-use to critical-thinking link, and this supplies that role plus a moderated-mediation index of 0.030. Skipped the other 12: the study measures no offloading, prompting, collaboration-mode or SRL-phase variable, so those pages gain another instance or nothing at all; metacognition already carries both regulation-mediated effects and reflective-use findings; and the self-report, quantitative and limitations pages already document this exact design class and its common-method limits."
 - article: ai-empowerment-threat-genai-dependence-2026
   date: 2026-09-30
-  integrated: [trust]
-  no_change: [ai-education, ai-literacy, ai-misuse-learning-harm, cognitive-offloading, educational-policy-ai, generative-ai, human-ai-collaboration, llm, metacognition, quantitative-research, scaffolding, self-regulated-learning, self-report-measures, student-ai-interaction, technology-acceptance-model, theories-and-frameworks]
+  integrated:
+  - trust
+  no_change:
+  - ai-education
+  - ai-literacy
+  - ai-misuse-learning-harm
+  - cognitive-offloading
+  - educational-policy-ai
+  - generative-ai
+  - human-ai-collaboration
+  - llm
+  - metacognition
+  - quantitative-research
+  - scaffolding
+  - self-regulated-learning
+  - self-report-measures
+  - student-ai-interaction
+  - technology-acceptance-model
+  - theories-and-frameworks
   reason: "Integrated into trust: the page carries risk-and-trust coexistence but not the appraisal-to-trust-to-reliance structure, and this survey supplies it with coefficients - perceived empowerment and perceived threat near-independent (r = 0.030) yet moving trust in opposite directions (beta = 0.576 and beta = -0.328), with trust carrying significant indirect associations with dependence in both directions. Skipped the other 16: the model predicts reported dependence rather than adoption, so technology-acceptance-model and theories-and-frameworks gain another borrowed-theory instance; cognitive-offloading, ai-misuse-learning-harm and ai-literacy already carry antecedent models of dependence; and the remaining candidates name variables the study does not measure (scaffolding, metacognition, self-regulated-learning, student-ai-interaction, educational-policy-ai, generative-ai, llm) or are umbrella and method pages (ai-education, quantitative-research, self-report-measures)."
 - article: ai-ethics-tensions-online-pedagogy-2026
   date: 2026-09-30
-  integrated: [authentic-assessment, language-learning]
-  no_change: [academic-integrity, ai-education, ai-misuse-learning-harm, ai-use-disclosure, anxiety-and-stress, assessment-validity, cognitive-offloading, collaborative-learning, educational-policy-ai, equity-in-ai-education, generative-ai, group-work, human-ai-collaboration, llm, online-teaching-and-learning, pedagogy, process-oriented-assessment, qualitative-research, scaffolding, self-directed-learning, self-report-measures, student-engagement, teacher-role, trust]
+  integrated:
+  - authentic-assessment
+  - language-learning
+  no_change:
+  - academic-integrity
+  - ai-education
+  - ai-misuse-learning-harm
+  - ai-use-disclosure
+  - anxiety-and-stress
+  - assessment-validity
+  - cognitive-offloading
+  - collaborative-learning
+  - educational-policy-ai
+  - equity-in-ai-education
+  - generative-ai
+  - group-work
+  - human-ai-collaboration
+  - llm
+  - online-teaching-and-learning
+  - pedagogy
+  - process-oriented-assessment
+  - qualitative-research
+  - scaffolding
+  - self-directed-learning
+  - self-report-measures
+  - student-engagement
+  - teacher-role
+  - trust
   reason: "Integrated into two pages. authentic-assessment: the page argues authenticity must be redesigned around what AI cannot counterfeit and names only retreat-to-supervised-exams as a failure mode, while this qualitative study names a second failure mode inside redesign itself - task realism corrosion, where activities become AI-resistant rather than authentic - with authenticity tensions the dominant category (11 of 20). language-learning: the page recommends AI interlocutors to extend communicative practice but carries no claim about AI output pragmatic competence, and teachers across five online methods named pragmatic blindness, output grammatically correct but wrong in tone, formality or culture. Skipped the other 23: the study reports teacher perceptions with no measured outcome, so integrity, validity, offloading, scaffolding, group-work and teacher-role pages gain another instance of claims they already carry with stronger evidence; anxiety, equity, generative-ai, llm, pedagogy, self-directed-learning, self-report, engagement and qualitative-research are facet-only; and ai-education is an umbrella page reserved for field-wide reviews."
 - article: llm-grading-assistants-public-health-2026
   date: 2026-09-30
-  integrated: [assessment-validity, automated-assessment, human-in-the-loop-ai, summative-assessment]
-  no_change: [ai-education, automated-essay-scoring, benchmark, educational-measurement, evaluative-judgment, generative-ai, human-ai-collaboration, limitations-in-aied-research, llm, professional-training, prompt-engineering, quantitative-research, teacher-role]
+  integrated:
+  - assessment-validity
+  - automated-assessment
+  - human-in-the-loop-ai
+  - summative-assessment
+  no_change:
+  - ai-education
+  - automated-essay-scoring
+  - benchmark
+  - educational-measurement
+  - evaluative-judgment
+  - generative-ai
+  - human-ai-collaboration
+  - limitations-in-aied-research
+  - llm
+  - professional-training
+  - prompt-engineering
+  - quantitative-research
+  - teacher-role
   reason: "Integrated into four pages, all from one method-comparison study of 32 public-health exam submissions. automated-assessment gains a configuration lever the page lacks: the same model moving from weighted kappa 0.269 in fast mode to 0.718 in thinking mode. assessment-validity gains counter-evidence to the page claim that re-marking reliability was excellent, since repeating the same grading five days apart reproduced at only Krippendorff alpha 0.625. summative-assessment gains a measured, grade-dependent failure mode: the LLMs avoid the scale ends, with the best model matching the human grade exactly on 50.0% and within plus or minus one grade on 90.6%. human-in-the-loop-ai gains the boundary that repetition cannot substitute for oversight. Skipped the other 8: automated-essay-scoring, benchmark, educational-measurement and llm already carry agreement ceilings, grade compression and version sensitivity; and the rest either name variables the study does not vary or already document its limits as classes."
 - article: ai-limitations-efl-higher-education-review-2026
   date: 2026-09-30
   integrated: []
-  no_change: [academic-integrity, ai-education, ai-feedback-quality, ai-literacy, ai-technologies, ai-use-disclosure, anxiety-and-stress, cognitive-offloading, creativity, critical-thinking, curriculum-design, digital-divide, edtech-platform, equity-in-ai-education, feedback, generative-ai, hallucination-risk, higher-ed, limitations-in-aied-research, llm, meta-analysis-systematic-review, mixed-methods-research, pedagogy, problem-solving, qualitative-research, quantitative-research, scaffolding, self-regulated-learning, speech-and-voice-technologies, student-engagement, teacher-role, tpack]
+  no_change:
+  - academic-integrity
+  - ai-education
+  - ai-feedback-quality
+  - ai-literacy
+  - ai-technologies
+  - ai-use-disclosure
+  - anxiety-and-stress
+  - cognitive-offloading
+  - creativity
+  - critical-thinking
+  - curriculum-design
+  - digital-divide
+  - edtech-platform
+  - equity-in-ai-education
+  - feedback
+  - generative-ai
+  - hallucination-risk
+  - higher-ed
+  - limitations-in-aied-research
+  - llm
+  - meta-analysis-systematic-review
+  - mixed-methods-research
+  - pedagogy
+  - problem-solving
+  - qualitative-research
+  - quantitative-research
+  - scaffolding
+  - self-regulated-learning
+  - speech-and-voice-technologies
+  - student-engagement
+  - teacher-role
+  - tpack
   reason: "No integration, and this is the batch clearest case for it. The review contribution is corpus-frequency counts of limitations (over-reliance in 27 of 54 studies, reduced critical thinking in 25, infrastructure in 18), and its authors caution that these describe patterns of reporting rather than prevalence. Every candidate page already carries the corresponding claim with stronger evidence: critical-thinking has the Zhao meta-analysis and the mixed moderation evidence, hallucination-risk quantifies prevalence at 10-40%, digital-divide carries first- and second-level divides. A reporting frequency cannot revise a claim class, so all 27 pairs are no_change. The anxiety-and-stress pair is also a spurious wikilink: the matched word is the verb in the authors stress that these figures describe reporting patterns."
 - article: digital-competence-ai-responsive-pedagogy-2026
   date: 2026-09-30
-  integrated: [limitations-in-aied-research, tpack]
-  no_change: [agency, ai-education, ai-feedback-quality, ai-literacy, ai-technologies, collaborative-learning, conversational-ai, curriculum-design, digital-divide, edtech-platform, educational-development, ethics, feedback, formative-assessment, generative-ai, human-in-the-loop-ai, learning-design, meta-analysis-systematic-review, mixed-methods-research, online-teaching-and-learning, pedagogy, professional-training, prompt-engineering, quantitative-research, self-efficacy, situated-learning, teacher-ai-competency, teacher-education, teacher-role, transfer-of-learning, writing-education]
+  integrated:
+  - limitations-in-aied-research
+  - tpack
+  no_change:
+  - agency
+  - ai-education
+  - ai-feedback-quality
+  - ai-literacy
+  - ai-technologies
+  - collaborative-learning
+  - conversational-ai
+  - curriculum-design
+  - digital-divide
+  - edtech-platform
+  - educational-development
+  - ethics
+  - feedback
+  - formative-assessment
+  - generative-ai
+  - human-in-the-loop-ai
+  - learning-design
+  - meta-analysis-systematic-review
+  - mixed-methods-research
+  - online-teaching-and-learning
+  - pedagogy
+  - professional-training
+  - prompt-engineering
+  - quantitative-research
+  - self-efficacy
+  - situated-learning
+  - teacher-ai-competency
+  - teacher-education
+  - teacher-role
+  - transfer-of-learning
+  - writing-education
   reason: "Integrated into two pages, both boundary conditions rather than findings. limitations-in-aied-research: the page covers pooling, quality appraisal and heterogeneity but says nothing about retrieval design, and the review supplies a stated one - digital competence and TPACK were explicit search descriptors while instructional design and assessment had no equivalent, so its 46.5% and 1.9% describe the retrieved corpus rather than the field. tpack: the page asserts competence frameworks are the dominant theoretical lens, and the review shows that apparent dominance is partly an artifact of those same retrieval descriptors. Skipped the other 31: the review reports corpus frequencies and multi-label coding, so pages covering teacher competency, professional development, self-efficacy, digital divide, ethics, feedback and assessment gain confirming instances or nothing at all."
 - article: genai-tools-steam-educators-2026
   date: 2026-09-30
   integrated: []
-  no_change: [academic-integrity, ai-education, ai-literacy, ai-use-disclosure, assessment-validity, authentic-assessment, automated-assessment, bias-mitigation, cognitive-offloading, collaborative-learning, computational-thinking, constructivist, conversational-ai, creativity, curriculum-design, desirable-difficulties, digital-divide, discipline-specific-aied, educational-policy-ai, eportfolio, equity-in-ai-education, ethics, experiential-learning, explainable-ai, feedback, formative-assessment, generative-ai, global-south, governance, hallucination-risk, human-ai-collaboration, human-in-the-loop-ai, inquiry-based-learning, intelligent-tutoring, learning-analytics, learning-design, llm, meta-analysis-systematic-review, metacognition, multimodal, oral-assessment, pedagogy, personalized-learning, privacy, problem-based-learning, process-oriented-assessment, project-based-learning, prompt-engineering, sociocultural-learning, teacher-ai-competency, teacher-role, theories-and-frameworks, tpack]
+  no_change:
+  - academic-integrity
+  - ai-education
+  - ai-literacy
+  - ai-use-disclosure
+  - assessment-validity
+  - authentic-assessment
+  - automated-assessment
+  - bias-mitigation
+  - cognitive-offloading
+  - collaborative-learning
+  - computational-thinking
+  - constructivist
+  - conversational-ai
+  - creativity
+  - curriculum-design
+  - desirable-difficulties
+  - digital-divide
+  - discipline-specific-aied
+  - educational-policy-ai
+  - eportfolio
+  - equity-in-ai-education
+  - ethics
+  - experiential-learning
+  - explainable-ai
+  - feedback
+  - formative-assessment
+  - generative-ai
+  - global-south
+  - governance
+  - hallucination-risk
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - inquiry-based-learning
+  - intelligent-tutoring
+  - learning-analytics
+  - learning-design
+  - llm
+  - meta-analysis-systematic-review
+  - metacognition
+  - multimodal
+  - oral-assessment
+  - pedagogy
+  - personalized-learning
+  - privacy
+  - problem-based-learning
+  - process-oriented-assessment
+  - project-based-learning
+  - prompt-engineering
+  - sociocultural-learning
+  - teacher-ai-competency
+  - teacher-role
+  - theories-and-frameworks
+  - tpack
   reason: "No integration. This 15-study narrative mini-review states no mechanism, boundary condition or number that its target pages lack; every candidate page already carries its recommendations in measured form - visible-process integrity, human review for high-stakes judgment, embedded AI literacy, layered governance, process portfolios, protected productive struggle. All 53 pairs are no_change, the largest skip set in the batch, and the reason is the same across them: synthesis-level restatement without evidence that can complicate an existing claim."
 - article: k12-teachers-genai-beliefs-five-countries-2026
   date: 2026-09-30
-  integrated: [limitations-in-aied-research, teacher-ai-competency]
-  no_change: [academic-integrity, ai-literacy, assessment, benchmark, creativity, early-childhood-elementary-ai-education, educational-development, educational-policy-ai, generative-ai, global-south, k-12, motivation, multilingual-learning, process-oriented-assessment, professional-training, prompt-engineering, quantitative-research, research-methods-aied, self-determination-theory, self-efficacy, self-report-measures, teacher-role, technology-acceptance-model, theories-and-frameworks, trust]
+  integrated:
+  - limitations-in-aied-research
+  - teacher-ai-competency
+  no_change:
+  - academic-integrity
+  - ai-literacy
+  - assessment
+  - benchmark
+  - creativity
+  - early-childhood-elementary-ai-education
+  - educational-development
+  - educational-policy-ai
+  - generative-ai
+  - global-south
+  - k-12
+  - motivation
+  - multilingual-learning
+  - process-oriented-assessment
+  - professional-training
+  - prompt-engineering
+  - quantitative-research
+  - research-methods-aied
+  - self-determination-theory
+  - self-efficacy
+  - self-report-measures
+  - teacher-role
+  - technology-acceptance-model
+  - theories-and-frameworks
+  - trust
   reason: "Integrated into two pages. limitations-in-aied-research: the page names generalizability, self-report bias and thin validation reporting but not the cross-national measurement problem this survey exemplifies - items machine-translated without back-translation or measurement-invariance testing, and two of three outcome models measured with single items, so its country contrasts cannot be read as equivalent constructs. teacher-ai-competency: the page confident claim that teacher confidence drives adoption gains a measured complication, since readiness predicted positive beliefs (B = .59, R-squared = .50) yet predicted greater creativity concern (B = .18) and explained only 7% and 6% of concern. Skipped the other 25: most are facet-only (trust, professional-training, multilingual-learning, global-south) or restate belief patterns those pages already carry, and the survey measures no policy, engagement or integrity variable."
 - article: genai-medical-education-transformation-review-2026
   date: 2026-09-30
-  integrated: [automated-question-generation, medical-education]
-  no_change: [ai-education, ai-feedback-quality, ai-literacy, assessment-validity, automated-assessment, benchmark, conversational-ai, curriculum-design, desirable-difficulties, edtech-platform, educational-policy-ai, educational-robotics, equity-in-ai-education, feedback, formative-assessment, generative-ai, governance, guardrails, hallucination-risk, human-ai-collaboration, icap-framework, limitations-in-aied-research, llm, meta-analysis-systematic-review, mixed-methods-research, multimodal, pedagogy, personalized-learning, privacy, problem-based-learning, professional-training, prompt-engineering, qualitative-research, quantitative-research, rag, research-methods-aied, self-directed-learning, self-report-measures, simulation, student-ai-interaction, teacher-role, transfer-of-learning, trust-calibration]
+  integrated:
+  - automated-question-generation
+  - medical-education
+  no_change:
+  - ai-education
+  - ai-feedback-quality
+  - ai-literacy
+  - assessment-validity
+  - automated-assessment
+  - benchmark
+  - conversational-ai
+  - curriculum-design
+  - desirable-difficulties
+  - edtech-platform
+  - educational-policy-ai
+  - educational-robotics
+  - equity-in-ai-education
+  - feedback
+  - formative-assessment
+  - generative-ai
+  - governance
+  - guardrails
+  - hallucination-risk
+  - human-ai-collaboration
+  - icap-framework
+  - limitations-in-aied-research
+  - llm
+  - meta-analysis-systematic-review
+  - mixed-methods-research
+  - multimodal
+  - pedagogy
+  - personalized-learning
+  - privacy
+  - problem-based-learning
+  - professional-training
+  - prompt-engineering
+  - qualitative-research
+  - quantitative-research
+  - rag
+  - research-methods-aied
+  - self-directed-learning
+  - self-report-measures
+  - simulation
+  - student-ai-interaction
+  - teacher-role
+  - transfer-of-learning
+  - trust-calibration
   reason: "Integrated into two pages. medical-education: the page only corpus-level map is a bibliometric publication count, and the review supplies a pedagogical-function distribution (simulation and clinical skills largest at 47 reports, assessment 22, case-based reasoning 21) plus a durability boundary, since only 13 of 153 reports carried any follow-up or retention signal and no patient-level outcome was identified. automated-question-generation: the page field-validation bullet presents AI-generated items as psychometrically on par with expert items, and this review shows average parity can coexist with item-level shortfalls (9 of 40 ChatGPT items met all ideal criteria against 19 of 40 faculty items). Skipped the other 43: many are facet-only technology tags (llm, rag, multimodal, privacy) and the rest are corpus counts that instantiate limits or outcome-mix claims those pages already carry. The reviewer also noted that this review strongest field-level claim - activity availability changing without durable learning - had no candidate page in this batch."
 - article: capability-decision-model-teacher-readiness-2026
   date: 2026-09-30
-  integrated: [self-report-measures, teacher-ai-competency, technology-acceptance-model, theory-development-aied, tpack]
-  no_change: [ai-literacy, anxiety-and-stress, assessment-validity, biology-education, change-management, digital-divide, educational-development, educational-policy-ai, equity-in-ai-education, ethics, evaluative-judgment, generative-ai, global-south, governance, llm, mixed-methods-research, parents-and-families, pedagogy, professional-training, prompt-engineering, quantitative-research, research-methods-aied, self-efficacy, social-norms-ai-use, teacher-role, theories-and-frameworks]
+  integrated:
+  - self-report-measures
+  - teacher-ai-competency
+  - technology-acceptance-model
+  - theory-development-aied
+  - tpack
+  no_change:
+  - ai-literacy
+  - anxiety-and-stress
+  - assessment-validity
+  - biology-education
+  - change-management
+  - digital-divide
+  - educational-development
+  - educational-policy-ai
+  - equity-in-ai-education
+  - ethics
+  - evaluative-judgment
+  - generative-ai
+  - global-south
+  - governance
+  - llm
+  - mixed-methods-research
+  - parents-and-families
+  - pedagogy
+  - professional-training
+  - prompt-engineering
+  - quantitative-research
+  - research-methods-aied
+  - self-efficacy
+  - social-norms-ai-use
+  - teacher-role
+  - theories-and-frameworks
   reason: "Integrated into five pages, the most of any article in this batch, on its argument rather than data: it is a Hypothesis and Theory paper proposing the Capability-Decision Model with no empirical study of its own. teacher-ai-competency and technology-acceptance-model gain the model central ordering claim and its critique of bolting TPACK capability onto Theory of Planned Behavior as parallel predictors. self-report-measures gains a failure mode the page lacks - not self-report versus performance but discriminant collapse between two self-report constructs, with criteria fixed in advance (HTMT below .85, nested-model test). tpack gains the construct-overlap warning that self-reported TPACK and efficacy-based perceived behavioural control may not be empirically distinguishable. theory-development-aied gains a teacher-side bid that states four disconfirmation conditions while remaining untested. Skipped the other 26: the model brackets teacher anxiety and reports no governance, equity or policy evidence, so those pages gain nothing, and several pairs are facet-only."
 - article: intelligent-tutoring-mathematics-education-review-2026
   date: 2026-09-30
-  integrated: [ai-feedback-quality, equity-in-ai-education]
-  no_change: [adaptive-learning, ai-education, ai-literacy, assessment-validity, curriculum-design, desirable-difficulties, digital-divide, edtech-platform, educational-development, educational-policy-ai, feedback, formative-assessment, global-south, governance, help-seeking, human-ai-collaboration, intelligent-tutoring, interpreting-and-applying-aied-research, learners, learning-analytics, learning-gains, limitations-in-aied-research, math-education, meta-analysis-systematic-review, misconceptions, pedagogy, personalized-learning, privacy, problem-solving, productive-failure, research-methods-aied, samr-model, scaffolding, student-engagement, student-modeling, teacher-role, transfer-of-learning, usability-research]
+  integrated:
+  - ai-feedback-quality
+  - equity-in-ai-education
+  no_change:
+  - adaptive-learning
+  - ai-education
+  - ai-literacy
+  - assessment-validity
+  - curriculum-design
+  - desirable-difficulties
+  - digital-divide
+  - edtech-platform
+  - educational-development
+  - educational-policy-ai
+  - feedback
+  - formative-assessment
+  - global-south
+  - governance
+  - help-seeking
+  - human-ai-collaboration
+  - intelligent-tutoring
+  - interpreting-and-applying-aied-research
+  - learners
+  - learning-analytics
+  - learning-gains
+  - limitations-in-aied-research
+  - math-education
+  - meta-analysis-systematic-review
+  - misconceptions
+  - pedagogy
+  - personalized-learning
+  - privacy
+  - problem-solving
+  - productive-failure
+  - research-methods-aied
+  - samr-model
+  - scaffolding
+  - student-engagement
+  - student-modeling
+  - teacher-role
+  - transfer-of-learning
+  - usability-research
   reason: "Integrated into two pages. ai-feedback-quality: the page lacks a controlled comparison isolating the feedback component, and this review supplies one - the same diagnostic tutoring system with automated real-time feedback took learners from 1.90 to 3.54 on a four-point mathematics assessment against 1.90 to 2.85 without it (F(1, 76) = 9.24, p = .003, d = 0.73). equity-in-ai-education: the page benefits framing gains a boundary, since inclusiveness claims are unsupported because studies rarely test whether gains are distributed consistently across ability, gender, socioeconomic, linguistic, disability and geographical groups. Skipped the other 38: this is a bounded narrative review of 20 publications with no pooled effects, and its conditions and cautions are already saturated on the target pages - math-education carries a field-level PRISMA synthesis, and adaptive-learning, productive-failure, scaffolding, help-seeking, learning-gains and student-engagement already state its claims."
 - article: ai-enabled-course-development-first-year-adjustment-2026
   date: 2026-09-30
-  integrated: [anxiety-and-stress, well-being]
-  no_change: [ai-ed-evaluation, ai-education, ai-literacy, assessment-validity, cognitive-offloading, curriculum-design, edtech-platform, generative-ai, learning-design, limitations-in-aied-research, quantitative-research, self-determination-theory, self-efficacy, self-report-measures]
+  integrated:
+  - anxiety-and-stress
+  - well-being
+  no_change:
+  - ai-ed-evaluation
+  - ai-education
+  - ai-literacy
+  - assessment-validity
+  - cognitive-offloading
+  - curriculum-design
+  - edtech-platform
+  - generative-ai
+  - learning-design
+  - limitations-in-aied-research
+  - quantitative-research
+  - self-determination-theory
+  - self-efficacy
+  - self-report-measures
   reason: "Integrated into two pages. anxiety-and-stress: the page treats AI anxiety as barrier and signal and traces support to anxiety through appraisals, but carries no boundary on whether AI competence itself keeps protecting students, and this survey supplies one - AI usage pressure weakened the AI-proficiency-to-adjustment link, with the slope falling from 0.42 under low pressure to 0.20 under high pressure. well-being: the page treats AI well-being effects as conditional, and this adds a measured moderation showing high approval can coexist with strain (82.76% approved the integration while 69.51% reported anxiety or tension). Skipped the other 12: the study is a single-institution cross-sectional survey whose self-report composite is the configuration the self-report-measures page already documents, and the remaining candidates are umbrella or facet-only pages."
 - article: chatgpt-peer-feedback-evaluative-judgement-2025
   date: 2026-09-30
-  integrated: [evaluative-judgment]
-  no_change: [active-learning, ai-education, ai-feedback-quality, collaborative-learning, conversational-ai, critical-thinking, curriculum-design, feedback, feedback-literacy, formative-assessment, generative-ai, hallucination-risk, human-ai-collaboration, limitations-in-aied-research, llm, metacognition, mixed-methods-research, peer-assessment, prompt-engineering, qualitative-research, quantitative-research, self-regulated-learning, self-report-measures, student-ai-interaction, student-engagement, teacher-role, trust-calibration]
+  integrated:
+  - evaluative-judgment
+  no_change:
+  - active-learning
+  - ai-education
+  - ai-feedback-quality
+  - collaborative-learning
+  - conversational-ai
+  - critical-thinking
+  - curriculum-design
+  - feedback
+  - feedback-literacy
+  - formative-assessment
+  - generative-ai
+  - hallucination-risk
+  - human-ai-collaboration
+  - limitations-in-aied-research
+  - llm
+  - metacognition
+  - mixed-methods-research
+  - peer-assessment
+  - prompt-engineering
+  - qualitative-research
+  - quantitative-research
+  - self-regulated-learning
+  - self-report-measures
+  - student-ai-interaction
+  - student-engagement
+  - teacher-role
+  - trust-calibration
   reason: "Integrated into evaluative-judgment only. The page carries comparison-based exemplar training and a multisite hybrid-versus-direct AI feedback experiment, but no finding that the feedback source shapes which dimension of the construct develops. This case study supplies that: ChatGPT-4o gave procedural guidance but could not flag a wrong data file or a misapplied test, while peer dialogue caught the erroneous data in real time and forced justification of the method choice. Skipped the other 27: this is a single-cohort 32-student case study inside one statistics course, so peer-assessment, feedback, feedback-literacy, ai-feedback-quality, trust-calibration, self-regulated-learning and the method pages gain another instance of claims they already carry, and the rest are facet-only mentions."
 - article: metacognitive-processes-genai-interaction-logs-2026
   date: 2026-09-30
-  integrated: [metacognition, process-oriented-assessment]
-  no_change: [ai-literacy, assessment-validity, early-childhood-elementary-ai-education, educational-measurement, evaluative-judgment, generative-ai, human-ai-collaboration, learning-analytics, limitations-in-aied-research, llm, mixed-methods-research, prompt-engineering, qualitative-research, research-methods-aied, scaffolding, self-regulated-learning, student-ai-interaction, trust-calibration, writing-education]
+  integrated:
+  - metacognition
+  - process-oriented-assessment
+  no_change:
+  - ai-literacy
+  - assessment-validity
+  - early-childhood-elementary-ai-education
+  - educational-measurement
+  - evaluative-judgment
+  - generative-ai
+  - human-ai-collaboration
+  - learning-analytics
+  - limitations-in-aied-research
+  - llm
+  - mixed-methods-research
+  - prompt-engineering
+  - qualitative-research
+  - research-methods-aied
+  - scaffolding
+  - self-regulated-learning
+  - student-ai-interaction
+  - trust-calibration
+  - writing-education
   reason: "Integrated into two pages, both on the same measured contrast. metacognition: the page explains metacognitive processes and warns that strategy must be made visible by external evidence, but carries no claim that the measurement channel biases which processes appear; this study shows higher-depth monitoring and planning over-represented in think-aloud units while higher-depth regulation is over-represented in interaction logs. process-oriented-assessment: the page argues for collecting process evidence as the alternative to product but does not note that the channel determines what can be evidenced, which is the same finding read as a design boundary. Skipped the other 19: the study is a single-group descriptive design with no participant-level inferential test and no outcome measure, so learning-analytics, educational-measurement, mixed-methods, qualitative-research and self-regulated-learning gain instances of the cross-channel divergence those pages already document."
 - article: preservice-teachers-ai-support-innovative-competence-2026
   date: 2026-09-30
-  integrated: [self-regulated-learning]
-  no_change: [ai-education, ai-technologies, anxiety-and-stress, cognitive-offloading, edtech-platform, generative-ai, higher-ed, intelligent-tutoring, limitations-in-aied-research, quantitative-research, scaffolding, self-efficacy, self-report-measures, simulation, teacher-ai-competency, teacher-education, teacher-role, technology-acceptance-model]
+  integrated:
+  - self-regulated-learning
+  no_change:
+  - ai-education
+  - ai-technologies
+  - anxiety-and-stress
+  - cognitive-offloading
+  - edtech-platform
+  - generative-ai
+  - higher-ed
+  - intelligent-tutoring
+  - limitations-in-aied-research
+  - quantitative-research
+  - scaffolding
+  - self-efficacy
+  - self-report-measures
+  - simulation
+  - teacher-ai-competency
+  - teacher-education
+  - teacher-role
+  - technology-acceptance-model
   reason: "Integrated into self-regulated-learning: the page treats self-efficacy and SRL as a reciprocal loop but carries no claim that which mediator carries a support-to-outcome association depends on the kind of support. This survey of 3,003 Chinese pre-service teachers supplies that boundary with measured indirect shares, since perceived AI tool support ran mainly through AI self-efficacy (60.88% of that path) while perceived school-based intelligent environment support ran mainly through self-regulated learning (29.64% versus 18.60%). Skipped the other 18: the support measure is an overall perception that does not distinguish tool types, so ai-technologies, generative-ai, intelligent-tutoring, simulation and technology-acceptance-model are facet-only; and the cross-sectional single-source survey limits are already the staple of the self-report, quantitative and limitations pages."
 - article: ai-connectedness-adolescent-mental-health-2026
   date: 2026-09-30
-  integrated: [parents-and-families, theory-development-aied, well-being]
-  no_change: [ai-education, ai-sycophancy, anxiety-and-stress, benchmark, community-of-inquiry, conversational-ai, educational-measurement, ethics, generative-ai, human-ai-collaboration, learner-identity, limitations-in-aied-research, llm, motivation, pedagogical-safety, privacy, self-report-measures, social-emotional-learning, student-ai-interaction, student-engagement, teacher-role, theories-and-frameworks, trust]
+  integrated:
+  - parents-and-families
+  - theory-development-aied
+  - well-being
+  no_change:
+  - ai-education
+  - ai-sycophancy
+  - anxiety-and-stress
+  - benchmark
+  - community-of-inquiry
+  - conversational-ai
+  - educational-measurement
+  - ethics
+  - generative-ai
+  - human-ai-collaboration
+  - learner-identity
+  - limitations-in-aied-research
+  - llm
+  - motivation
+  - pedagogical-safety
+  - privacy
+  - self-report-measures
+  - social-emotional-learning
+  - student-ai-interaction
+  - student-engagement
+  - teacher-role
+  - theories-and-frameworks
+  - trust
   reason: "Integrated into three pages, on its argument rather than data: it is a theory-reconstruction paper with no sample, measures or effect sizes. theory-development-aied: the page tracks the AI-era theory bids and distinguishes those stating falsifiable propositions, and this is a distinct construct grounded in the ethics of care and neo-ecological theory with three dimensions and six propositions. well-being: the page makes the general point that effects depend on use but carries no non-monotonic prediction and no moderator, and this supplies offline connectedness as the boundary condition with an inverted-U prediction. parents-and-families: the page carries home companions and the support vacuum but has no figure on adolescents preferring AI confidants and no mechanism for compensatory substitution. Skipped the other 23: the paper reports no data, so anxiety-and-stress, learner-identity, privacy, ethics, social-emotional-learning and the measurement pages gain no measured claim, and the rest already carry the construct class it touches."
 - article: ai-personal-coach-review-benefits-risks-2026
   date: 2026-09-30
-  integrated: [ai-sycophancy, llm]
-  no_change: [agency, ai-education, anxiety-and-stress, cognitive-offloading, conversational-ai, ethics, generative-ai, guardrails, hallucination-risk, human-ai-collaboration, human-in-the-loop-ai, limitations-in-aied-research, meta-analysis-systematic-review, motivation, peer-assessment, personalized-learning, rct, research-methods-aied, self-determination-theory, self-regulated-learning, self-report-measures, trust, well-being]
+  integrated:
+  - ai-sycophancy
+  - llm
+  no_change:
+  - agency
+  - ai-education
+  - anxiety-and-stress
+  - cognitive-offloading
+  - conversational-ai
+  - ethics
+  - generative-ai
+  - guardrails
+  - hallucination-risk
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - limitations-in-aied-research
+  - meta-analysis-systematic-review
+  - motivation
+  - peer-assessment
+  - personalized-learning
+  - rct
+  - research-methods-aied
+  - self-determination-theory
+  - self-regulated-learning
+  - self-report-measures
+  - trust
+  - well-being
   reason: "Integrated into two pages. ai-sycophancy: the page carries the harm, the benchmark and relational displacement but not the measured affirmation rate or the responsibility shift, and this review reports AI responses affirming users 49% more than human responses across 11 models, with sycophantic replies rated higher and a single exposure leaving participants less willing to take responsibility for a conflict yet more convinced they were right. llm: the page catalogs model behaviour across tutoring, grading and diagnosis but says nothing about affirmation bias as a failure mode. Skipped the other 23: this is a narrative review with no fixed protocol and no pooled estimate, so its coaching findings, accuracy figures and scope caveats restate claims the target pages already hold from stronger, more specific evidence."
 - article: ai-literacy-determinants-university-students-2026
   date: 2026-09-30
-  integrated: [ai-literacy]
-  no_change: [anxiety-and-stress, assessment, assessment-validity, critical-thinking, curriculum-design, digital-divide, equity-in-ai-education, generative-ai, limitations-in-aied-research, prior-knowledge, quantitative-research, self-directed-learning, self-efficacy, self-report-measures, teacher-role, technology-acceptance-model, theories-and-frameworks]
+  integrated:
+  - ai-literacy
+  no_change:
+  - anxiety-and-stress
+  - assessment
+  - assessment-validity
+  - critical-thinking
+  - curriculum-design
+  - digital-divide
+  - equity-in-ai-education
+  - generative-ai
+  - limitations-in-aied-research
+  - prior-knowledge
+  - quantitative-research
+  - self-directed-learning
+  - self-efficacy
+  - self-report-measures
+  - teacher-role
+  - technology-acceptance-model
+  - theories-and-frameworks
   reason: "Integrated into ai-literacy as counter-evidence. The page reports that AI anxiety moves against AI literacy, drawn from zero-order associations, and this survey supplies a measured sign reversal under control: technology anxiety correlated negatively (r = -0.14) yet predicted beta = 0.15 in a joint model, with the effect confined to critical evaluation and ethical competence rather than the performance dimensions. Skipped the other 17: the study is a self-report survey of learner-perceived determinants, so assessment, curriculum-design, self-directed-learning, teacher-role and technology-acceptance-model are facet-only, and the cross-sectional single-institution limits are already documented on the limitations and self-report pages."
 - article: ai-attitude-latent-profiles-career-development-2026
   date: 2026-09-30
-  integrated: [anxiety-and-stress, career-development-and-readiness, latent-profile-analysis]
-  no_change: [administrator, ai-literacy, ai-technologies, discipline-specific-aied, edtech-platform, generative-ai, human-ai-collaboration, learner-identity, limitations-in-aied-research, motivation, quantitative-research, self-efficacy, self-report-measures, student-engagement, sustainability]
+  integrated:
+  - anxiety-and-stress
+  - career-development-and-readiness
+  - latent-profile-analysis
+  no_change:
+  - administrator
+  - ai-literacy
+  - ai-technologies
+  - discipline-specific-aied
+  - edtech-platform
+  - generative-ai
+  - human-ai-collaboration
+  - learner-identity
+  - limitations-in-aied-research
+  - motivation
+  - quantitative-research
+  - self-efficacy
+  - self-report-measures
+  - student-engagement
+  - sustainability
   reason: "Integrated into three pages, all from the person-centred design. latent-profile-analysis: the page states explicitly that the corpus profile studies do not report the Lo-Mendell-Rubin or BLRT tests, and this study supplies exactly that retention evidence (significant at four profiles, p = 0.035; nonsignificant at five, p = 0.376). anxiety-and-stress: the page treats AI anxiety as impairing and protective factors as reducing it, and this finds a profile above the sample mean on all six indicators at once, so high anxiety did not index a negative appraisal of the technology. career-development-and-readiness: the page frames career readiness as a validated buffer against career-related AI anxiety, and here the most anxious profile still reported the highest career crafting and employability, so outcomes tracked engagement rather than threat level. Skipped the other 15: the article measures no motivation, engagement or interaction construct, and its caveats are instances of limitation classes the pages already name."
 - article: middle-school-genai-steam-interactions-2026
   date: 2026-09-30
-  integrated: [prompt-engineering]
-  no_change: [ai-education, ai-literacy, collaborative-learning, conversational-ai, critical-thinking, evaluative-judgment, feedback-literacy, generative-ai, human-ai-collaboration, inquiry-based-learning, limitations-in-aied-research, llm, metacognition, mixed-methods-research, prior-knowledge, problem-solving, qualitative-research, scaffolding, self-regulated-learning, self-report-measures, student-ai-interaction, student-engagement, trust]
+  integrated:
+  - prompt-engineering
+  no_change:
+  - ai-education
+  - ai-literacy
+  - collaborative-learning
+  - conversational-ai
+  - critical-thinking
+  - evaluative-judgment
+  - feedback-literacy
+  - generative-ai
+  - human-ai-collaboration
+  - inquiry-based-learning
+  - limitations-in-aied-research
+  - llm
+  - metacognition
+  - mixed-methods-research
+  - prior-knowledge
+  - problem-solving
+  - qualitative-research
+  - scaffolding
+  - self-regulated-learning
+  - self-report-measures
+  - student-ai-interaction
+  - student-engagement
+  - trust
   reason: "Integrated into prompt-engineering: the page carries novice trial-and-error and template-based prompting but not the finding that when an instructor models the prompt, students reproduce it verbatim, and this study supplies a measured mechanism with a rate (exact copying of the instructor instruction was the most frequent student standpoint at 47.1%, ahead of spontaneous inquiry at 28.7%). Skipped the other 23: this is an exploratory 12-student, no-control-group case in one STEAM module, so ai-literacy, critical-thinking, metacognition, scaffolding, evaluative-judgment and self-regulated-learning gain confirming K-12 instances of patterns those pages already document with stronger evidence."
 - article: genai-learning-engagement-medical-undergraduates-2026
   date: 2026-09-30
-  integrated: [self-determination-theory]
-  no_change: [ai-education, cognitive-offloading, conversational-ai, generative-ai, interpreting-and-applying-aied-research, limitations-in-aied-research, llm, motivation, qualitative-research, quantitative-research, self-directed-learning, self-report-measures, student-engagement, teacher-role]
+  integrated:
+  - self-determination-theory
+  no_change:
+  - ai-education
+  - cognitive-offloading
+  - conversational-ai
+  - generative-ai
+  - interpreting-and-applying-aied-research
+  - limitations-in-aied-research
+  - llm
+  - motivation
+  - qualitative-research
+  - quantitative-research
+  - self-directed-learning
+  - self-report-measures
+  - student-engagement
+  - teacher-role
   reason: "Integrated into self-determination-theory: the page carries SDT profiles and the finding that the three needs do not move together, but no configurational test, and this study adds a necessity and sufficiency result in which generative AI use was only weakly tied to need satisfaction (beta = 0.155) and was unnecessary for high engagement, with competence acting as the core condition. Skipped the other 14: the cross-sectional design and the generally measured need satisfaction bound what the mediation can claim, and the remaining candidates are facet links or already-present methods (fsQCA appears via an earlier study)."
 - article: ai-dependence-creativity-motivation-literacy-2026
   date: 2026-09-30
-  integrated: [creativity]
-  no_change: [administrator, ai-education, ai-literacy, ai-misuse-learning-harm, anxiety-and-stress, cognitive-offloading, conversational-ai, ethics, generative-ai, limitations-in-aied-research, llm, metacognition, motivation, process-oriented-assessment, quantitative-research, self-determination-theory, self-report-measures, student-ai-interaction, well-being]
+  integrated:
+  - creativity
+  no_change:
+  - administrator
+  - ai-education
+  - ai-literacy
+  - ai-misuse-learning-harm
+  - anxiety-and-stress
+  - cognitive-offloading
+  - conversational-ai
+  - ethics
+  - generative-ai
+  - limitations-in-aied-research
+  - llm
+  - metacognition
+  - motivation
+  - process-oriented-assessment
+  - quantitative-research
+  - self-determination-theory
+  - self-report-measures
+  - student-ai-interaction
+  - well-being
   reason: "Integrated into creativity as counter-evidence. The page carries a positive dependence-to-creativity association from an earlier graduate survey (beta = 0.457); this 5,764-student survey reports the opposite sign (r = -0.17) with sign-divergent motivational pathways, so the page cannot state the relationship as settled without it. Skipped the other 19: the model is a cross-sectional self-report SEM with a self-reported creativity outcome and no interaction or log data, so self-report-measures, student-ai-interaction, well-being and self-determination-theory are facet mentions whose pages already carry the claim class - the use-motive typology does not map onto autonomy, competence or relatedness."
 - article: ai-game-based-learning-systematic-review-2026
   date: 2026-09-30
-  integrated: [game-based-learning, student-modeling, theories-and-frameworks]
-  no_change: [active-learning, adaptive-learning, ai-education, ai-feedback-quality, anxiety-and-stress, assessment-validity, automated-assessment, bias-mitigation, cognitive-offloading, critical-thinking, desirable-difficulties, differential-effects-across-learner-groups, equity-in-ai-education, explainable-ai, feedback, generative-ai, intelligent-tutoring, interpreting-and-applying-aied-research, knowledge-tracing, language-learning, learning-analytics, learning-gains, learning-theories, limitations-in-aied-research, llm, machine-learning, meta-analysis-systematic-review, motivation, psychometrically-aware-ai, quantitative-research, rct, scaffolding, science-education, self-determination-theory, self-efficacy, simulation, student-engagement, virtual-and-augmented-reality]
+  integrated:
+  - game-based-learning
+  - student-modeling
+  - theories-and-frameworks
+  no_change:
+  - active-learning
+  - adaptive-learning
+  - ai-education
+  - ai-feedback-quality
+  - anxiety-and-stress
+  - assessment-validity
+  - automated-assessment
+  - bias-mitigation
+  - cognitive-offloading
+  - critical-thinking
+  - desirable-difficulties
+  - differential-effects-across-learner-groups
+  - equity-in-ai-education
+  - explainable-ai
+  - feedback
+  - generative-ai
+  - intelligent-tutoring
+  - interpreting-and-applying-aied-research
+  - knowledge-tracing
+  - language-learning
+  - learning-analytics
+  - learning-gains
+  - learning-theories
+  - limitations-in-aied-research
+  - llm
+  - machine-learning
+  - meta-analysis-systematic-review
+  - motivation
+  - psychometrically-aware-ai
+  - quantitative-research
+  - rct
+  - scaffolding
+  - science-education
+  - self-determination-theory
+  - self-efficacy
+  - simulation
+  - student-engagement
+  - virtual-and-augmented-reality
   reason: "Integrated into three pages. game-based-learning: that page is thin and robotics-focused with no synthesis of AI-supported GBL, so this 55-study systematic review supplies its only AI-GBL outcome and quality claim, including the 7% High-quality and 7% RCT shares. student-modeling: the page carries model faithfulness and correctness but no claim about auditing those models, and this supplies both a measured band (gameplay-derived AUCs of 0.848-0.913) and the boundary that only two of 55 studies audited for demographic bias. theories-and-frameworks: the page argues frameworks are not evidence and are often borrowed or branding, and this complicates that skepticism by locating mechanism-to-theory alignment as the deciding variable for effectiveness. Skipped the other 32: the review is a thematic synthesis that declines to pool, so its effect patterns restate claims the saturated pages already carry from stronger primary sources - the performance-versus-learning gap, rule-based over complex adaptation, audit scarcity, and reviews that stop short of pooling."
 - article: agent-type-feedback-style-self-directed-learning-2026
   date: 2026-09-30
-  integrated: [ai-feedback-quality, pedagogical-agent, socratic-method]
-  no_change: [agency, agentic-ai, critical-thinking, feedback, feedback-literacy, generative-ai, human-ai-collaboration, learning-design, learning-gains, limitations-in-aied-research, llm, metacognition, mixed-methods-research, prompt-engineering, qualitative-research, quantitative-research, scaffolding, self-directed-learning, self-regulated-learning, self-report-measures, technology-acceptance-model, trust]
+  integrated:
+  - ai-feedback-quality
+  - pedagogical-agent
+  - socratic-method
+  no_change:
+  - agency
+  - agentic-ai
+  - critical-thinking
+  - feedback
+  - feedback-literacy
+  - generative-ai
+  - human-ai-collaboration
+  - learning-design
+  - learning-gains
+  - limitations-in-aied-research
+  - llm
+  - metacognition
+  - mixed-methods-research
+  - prompt-engineering
+  - qualitative-research
+  - quantitative-research
+  - scaffolding
+  - self-directed-learning
+  - self-regulated-learning
+  - self-report-measures
+  - technology-acceptance-model
+  - trust
   reason: "Integrated into three pages, all from one 2x2 mixed factorial with a thematic strand. ai-feedback-quality: the page treats quality dimensions as jointly produced but carries no claim that they trade off against processing cost, and this supplies a within-study style contrast where the dimensions diverge and directive feedback carried the higher cognitive load. pedagogical-agent: the page argues agent role and interaction pattern are first-class design parameters, and this complicates that emphasis - a customized agent with knowledge bases raised feedback accuracy but left self-regulation and outcomes unchanged. socratic-method: the page lacks a style contrast in which Socratic and directive feedback move different measured outcomes, and this supplies it plus the boundary that only directive conditions gained from the more capable agent. Skipped the other 26: the study holds the model constant and measures task-level improvement in 51 postgraduates, so feedback, self-regulated-learning, metacognition, learning-gains, scaffolding and the method pages gain another instance of claims they already carry."
 - article: sfailq-six-facet-ai-literacy-questionnaire-2026
   date: 2026-09-30
-  integrated: [ai-literacy]
-  no_change: [administrator, ai-technologies, anxiety-and-stress, assessment-validity, educational-measurement, ethics, lifelong-learning, quantitative-research, self-efficacy, self-report-measures, student-engagement, theories-and-frameworks]
+  integrated:
+  - ai-literacy
+  no_change:
+  - administrator
+  - ai-technologies
+  - anxiety-and-stress
+  - assessment-validity
+  - educational-measurement
+  - ethics
+  - lifelong-learning
+  - quantitative-research
+  - self-efficacy
+  - self-report-measures
+  - student-engagement
+  - theories-and-frameworks
   reason: "Integrated into ai-literacy: the page spans a four-dimension framework and notes that invariance evidence is rare across the instrument corpus, and this 32-item six-facet instrument supplies a content extension (responsible use and self-development) plus scalar invariance tested across three age groups spanning 12 to 60, with the authors own caution that the change in CFI approached the conventional cutoff. Skipped the other 9: the study is an instrument-development paper, so educational-measurement, self-report-measures, quantitative-research, assessment-validity, ethics, lifelong-learning, self-efficacy and theories-and-frameworks gain confirming instances rather than new claim classes, and its dropped negative-affect subscale is a within-instrument artifact rather than a claim about what self-report can establish."
 - article: unscaffolded-genai-preservice-teachers-quasi-experiment-2026
   date: 2026-09-30
-  integrated: [teacher-education]
-  no_change: [ai-education, ai-misuse-learning-harm, anxiety-and-stress, chemistry-education, cognitive-offloading, critical-thinking, ethics, generative-ai, learning-design, learning-gains, limitations-in-aied-research, llm, pedagogy, prior-knowledge, prompt-engineering, quantitative-research, scaffolding, self-regulated-learning, self-report-measures, student-ai-interaction, teacher-ai-competency, teacher-role]
+  integrated:
+  - teacher-education
+  no_change:
+  - ai-education
+  - ai-misuse-learning-harm
+  - anxiety-and-stress
+  - chemistry-education
+  - cognitive-offloading
+  - critical-thinking
+  - ethics
+  - generative-ai
+  - learning-design
+  - learning-gains
+  - limitations-in-aied-research
+  - llm
+  - pedagogy
+  - prior-knowledge
+  - prompt-engineering
+  - quantitative-research
+  - scaffolding
+  - self-regulated-learning
+  - self-report-measures
+  - student-ai-interaction
+  - teacher-ai-competency
+  - teacher-role
   reason: "Integrated into teacher-education as counter-evidence. The page states that a 55-study scoping review shows AI enhances pre-service teachers instructional design, and this intact-class quasi-experiment reverses that: unscaffolded GenAI produced lower rubric-rated lesson plans than the no-GenAI class (adjusted 86.54 versus 81.87, F = 8.348, p = 0.006), with no group difference in self-regulated learning or critical thinking. Skipped the other 27: the study reports nulls and a design-performance decline, and those map onto claim classes the scaffolding, cognitive-offloading, self-regulated-learning, critical-thinking, chemistry-education and learning-gains pages already carry, while the remainder are facet-only or instances of documented limitation classes."
 - article: teacher-ai-collaboration-work-engagement-2026
   date: 2026-09-30
-  integrated: [human-ai-collaboration, self-determination-theory]
-  no_change: [generative-ai, higher-ed, motivation, quantitative-research, self-report-measures, teacher-ai-competency, teacher-role, well-being]
+  integrated:
+  - human-ai-collaboration
+  - self-determination-theory
+  no_change:
+  - generative-ai
+  - higher-ed
+  - motivation
+  - quantitative-research
+  - self-report-measures
+  - teacher-ai-competency
+  - teacher-role
+  - well-being
   reason: "Integrated into two pages from a three-wave survey of 468 university teachers. human-ai-collaboration: the page asserts that human-AI collaboration is double-edged but illustrates it only through learners cognitive labour, and this supplies a measured teacher-side dual mediation with the moderator. self-determination-theory: the page covers need-supportive professional development and instructors designing for learners needs, but carries no account of how teachers own AI collaboration satisfies or frustrates their needs, which this adds via psychological availability against work alienation. Skipped the other 8: the study measures work engagement and its mediators rather than learning outcomes, so the remaining candidates are facet-only or restate the competency-shapes-outcomes claim and the self-report limits those pages already document."
 - article: genai-usage-behavior-vocational-learning-outcomes-2026
   date: 2026-09-30
   integrated: []
-  no_change: [academic-integrity, ai-literacy, ai-misuse-learning-harm, benchmark, cognitive-offloading, curriculum-design, educational-policy-ai, generative-ai, human-ai-collaboration, learning-gains, limitations-in-aied-research, llm, metacognition, problem-solving, quantitative-research, self-efficacy, self-regulated-learning, self-report-measures, student-engagement, teacher-role, technology-acceptance-model, transfer-of-learning, vocational-education]
+  no_change:
+  - academic-integrity
+  - ai-literacy
+  - ai-misuse-learning-harm
+  - benchmark
+  - cognitive-offloading
+  - curriculum-design
+  - educational-policy-ai
+  - generative-ai
+  - human-ai-collaboration
+  - learning-gains
+  - limitations-in-aied-research
+  - llm
+  - metacognition
+  - problem-solving
+  - quantitative-research
+  - self-efficacy
+  - self-regulated-learning
+  - self-report-measures
+  - student-engagement
+  - teacher-role
+  - technology-acceptance-model
+  - transfer-of-learning
+  - vocational-education
   reason: "No integration. The study is a cross-sectional perceived-outcome survey, and its central finding - that usage habits and contexts predict perceived outcomes better than frequency does - is the mode-of-use versus volume distinction the corpus already makes in several places, including the explicit claim that which reliance matters rather than how much. All 23 pairs are no_change: the negative frequency coefficient duplicates that distinction, the outcome measures are self-reported perceptions rather than measured learning, and the remaining candidates are facet-only mentions."
 - article: perceived-ai-intelligence-medical-students-mental-health-2026
   date: 2026-09-30
-  integrated: [anxiety-and-stress, well-being]
-  no_change: [ai-education, ai-literacy, curriculum-design, generative-ai, human-ai-collaboration, limitations-in-aied-research, llm, motivation, quantitative-research, self-determination-theory, self-regulated-learning, self-report-measures, teacher-role]
+  integrated:
+  - anxiety-and-stress
+  - well-being
+  no_change:
+  - ai-education
+  - ai-literacy
+  - curriculum-design
+  - generative-ai
+  - human-ai-collaboration
+  - limitations-in-aied-research
+  - llm
+  - motivation
+  - quantitative-research
+  - self-determination-theory
+  - self-regulated-learning
+  - self-report-measures
+  - teacher-role
   reason: "Integrated into two pages, from a survey of 721 medical students plus an experiment with 398. anxiety-and-stress: the page covers proctoring stress, productive anxiety and AI for detecting stress, but carries no account of AI capability relieving academic anxiety through learning progress, which this supplies as a distinct mechanism. well-being: the page lacks a positive mental-health path of this kind, and this adds a serial path from perceived assistant intelligence to mental health, stronger at high AI literacy, reproduced under a randomized capability manipulation. Skipped the other 11: the design is cross-sectional plus a brief post-task experiment, so the outcome is task-proximal and the remaining candidates are facet-only or instances of documented self-report and limitation classes."
 - article: ai-empathy-scale-psychometric-evaluation-2026
   date: 2026-09-30
-  integrated: [educational-measurement]
-  no_change: [ai-literacy, anxiety-and-stress, assessment-validity, critical-thinking, explainable-ai, generative-ai, human-ai-collaboration, limitations-in-aied-research, llm, metacognition, motivation, quantitative-research, self-regulated-learning, self-report-measures, student-ai-interaction]
+  integrated:
+  - educational-measurement
+  no_change:
+  - ai-literacy
+  - anxiety-and-stress
+  - assessment-validity
+  - critical-thinking
+  - explainable-ai
+  - generative-ai
+  - human-ai-collaboration
+  - limitations-in-aied-research
+  - llm
+  - metacognition
+  - motivation
+  - quantitative-research
+  - self-regulated-learning
+  - self-report-measures
+  - student-ai-interaction
   reason: "Integrated into educational-measurement, which supplies a new instrument class and a construct-validity failure the page does not carry: a 42-item AI empathy scale retained six factors but the items did not recover the six intended subfactors, with one intended subfactor forming no factor at all, so the structure is presented as provisional. This is distinct from the discriminant-validity problems the page already records. Skipped the other 15: validation is explicitly preliminary on four non-randomized cohorts with no control group, so the remaining candidates are facet-only mentions or instances of the single-sample and self-report limits those pages already document."
 - article: teachers-ai-belief-profiles-talis-2024-2026
   date: 2026-09-30
-  integrated: [latent-profile-analysis, teacher-ai-competency, technology-acceptance-model]
-  no_change: [ai-education, ai-technologies, generative-ai, limitations-in-aied-research, pedagogy, privacy, professional-training, quantitative-research, regulation, self-report-measures, student-engagement, teacher-role, trust]
+  integrated:
+  - latent-profile-analysis
+  - teacher-ai-competency
+  - technology-acceptance-model
+  no_change:
+  - ai-education
+  - ai-technologies
+  - generative-ai
+  - limitations-in-aied-research
+  - pedagogy
+  - privacy
+  - professional-training
+  - quantitative-research
+  - regulation
+  - self-report-measures
+  - student-engagement
+  - teacher-role
+  - trust
   reason: "Integrated into three pages, the most of any article in this batch, from a secondary analysis of 40,680 teachers across 49 education systems. latent-profile-analysis: the page lacks the corpus largest person-centred application and a cross-system stability check, and this supplies both, with a fixed alignment reference leaving classification agreement at 99.62%. teacher-ai-competency: belief configuration separates the same non-use status into opposite needs, since 83.3% of the Indifferent profile cited pedagogical reservations while 66.2% of Measured Endorsement cited insufficient knowledge and skills. technology-acceptance-model: risk is not universally linked to use across systems, since perceived utility was positively associated with use in all 49 systems while perceived risk was negative in 40 and positive in nine. Skipped the other 13: the study measures beliefs and reported use rather than learning or interaction, so engagement, pedagogy, privacy and regulation are facet-only and the self-report and cross-national limits are already documented."
 - article: ai-speaking-practice-communicative-readiness-2026
   date: 2026-09-30
-  integrated: [anxiety-and-stress, self-efficacy, transfer-of-learning]
-  no_change: [ai-education, benchmark, conversational-ai, curriculum-design, generative-ai, limitations-in-aied-research, multilingual-learning, oral-assessment, pedagogy, quantitative-research, scaffolding, self-report-measures, speech-and-voice-technologies, student-engagement, summative-assessment]
+  integrated:
+  - anxiety-and-stress
+  - self-efficacy
+  - transfer-of-learning
+  no_change:
+  - ai-education
+  - benchmark
+  - conversational-ai
+  - curriculum-design
+  - generative-ai
+  - limitations-in-aied-research
+  - multilingual-learning
+  - oral-assessment
+  - pedagogy
+  - quantitative-research
+  - scaffolding
+  - self-report-measures
+  - speech-and-voice-technologies
+  - student-engagement
+  - summative-assessment
   reason: "Integrated into three pages, all from a survey of 708 learners plus a scenario study of 726. anxiety-and-stress: the page reframes AI anxiety as a potentially useful signal, and this supplies a boundary - the speaking-anxiety to willingness link runs negative at low speaking self-efficacy and positive at high, with only 7.8% of participants above the upper Johnson-Neyman threshold. self-efficacy: the conditional indirect association reverses rather than merely fading with confidence, falling from 0.142 at low self-efficacy to negative at high. transfer-of-learning: the page harm-focused paradox lacks the boundary that readiness is not transfer, since neither study observed any human speaking. Skipped the other 15: both bodies of evidence are self-report and the scenario outcomes are anticipated rather than observed, so oral-assessment, speech-and-voice-technologies, conversational-ai, scaffolding and the method pages gain instances rather than distinguishing claims."
 - article: genai-cognitive-offloading-learner-agency-review-2026
   date: 2026-09-30
-  integrated: [meta-analysis-systematic-review]
-  no_change: [agency, ai-literacy, cognitive-offloading, critical-thinking, discipline-specific-aied, evaluative-judgment, feedback, feedback-literacy, generative-ai, higher-ed, human-ai-collaboration, language-learning, llm, metacognition, mixed-methods-research, parents-and-families, pedagogical-partnerships, pedagogy, problem-solving, qualitative-research, quantitative-research, research-methods-aied, scaffolding, self-efficacy, self-regulated-learning, self-report-measures, student-engagement, teacher-role, trust, trust-calibration]
+  integrated:
+  - meta-analysis-systematic-review
+  no_change:
+  - agency
+  - ai-literacy
+  - cognitive-offloading
+  - critical-thinking
+  - discipline-specific-aied
+  - evaluative-judgment
+  - feedback
+  - feedback-literacy
+  - generative-ai
+  - higher-ed
+  - human-ai-collaboration
+  - language-learning
+  - llm
+  - metacognition
+  - mixed-methods-research
+  - parents-and-families
+  - pedagogical-partnerships
+  - pedagogy
+  - problem-solving
+  - qualitative-research
+  - quantitative-research
+  - research-methods-aied
+  - scaffolding
+  - self-efficacy
+  - self-regulated-learning
+  - self-report-measures
+  - student-engagement
+  - teacher-role
+  - trust
+  - trust-calibration
   reason: "Integrated into meta-analysis-systematic-review: the review supplies a measured boundary the page lacks, namely that screening reliability is itself construct-dependent - title/abstract agreement (Fleiss kappa = 0.7103) fell to 0.4884 at full text. Skipped the other 30: this is a PRISMA-ScR scoping review that pools no effect and runs no formal critical appraisal, so its configurative findings restate claims the offloading, agency, self-regulated-learning, self-efficacy, metacognition and scaffolding pages already carry from stronger evidence."
 - article: faculty-ai-well-being-social-supports-2026
   date: 2026-09-30
-  integrated: [ai-literacy, educational-development, self-efficacy, well-being]
-  no_change: [ai-technologies, limitations-in-aied-research, pedagogy, professional-training, quantitative-research, self-determination-theory, self-report-measures, teacher-ai-competency, teacher-role, technology-acceptance-model, theories-and-frameworks]
+  integrated:
+  - ai-literacy
+  - educational-development
+  - self-efficacy
+  - well-being
+  no_change:
+  - ai-technologies
+  - limitations-in-aied-research
+  - pedagogy
+  - professional-training
+  - quantitative-research
+  - self-determination-theory
+  - self-report-measures
+  - teacher-ai-competency
+  - teacher-role
+  - technology-acceptance-model
+  - theories-and-frameworks
   reason: "Integrated into four pages, all from one cross-sectional SEM of 502 faculty. self-efficacy and educational-development: both pages treat confidence as a lever, and this bounds that - technological self-efficacy was a small predictor of AI well-being (beta = 0.082) while AI literacy dominated (beta = 0.713), so confidence and literacy are not interchangeable development targets. ai-literacy: the page lacks a measured outcome showing literacy as the dominant predictor of a staff well-being outcome. well-being: the page carries only a gestural bullet naming faculty workload and anxiety, and this adds a measured mechanism with numbers, in which competence rather than encouragement carried the effect. Skipped the other 11: the design is a single-institution cross-sectional survey, so the remaining candidates are facet-only or instances of documented self-report and causal-inference limits."
 - article: ai-emotion-regulation-sport-exercise-2026
   date: 2026-09-30
-  integrated: [affective-computing, well-being]
-  no_change: [agency, ai-education, ai-technologies, anxiety-and-stress, bias-mitigation, cs-education, embodied-learning, ethics, higher-ed, human-ai-collaboration, human-in-the-loop-ai, learning-analytics, limitations-in-aied-research, mixed-methods-research, motivation, multimodal, neurodiversity, scaffolding, self-determination-theory, self-regulated-learning, self-report-measures, situated-learning, teacher-role, visualization]
+  integrated:
+  - affective-computing
+  - well-being
+  no_change:
+  - agency
+  - ai-education
+  - ai-technologies
+  - anxiety-and-stress
+  - bias-mitigation
+  - cs-education
+  - embodied-learning
+  - ethics
+  - higher-ed
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - learning-analytics
+  - limitations-in-aied-research
+  - mixed-methods-research
+  - motivation
+  - multimodal
+  - neurodiversity
+  - scaffolding
+  - self-determination-theory
+  - self-regulated-learning
+  - self-report-measures
+  - situated-learning
+  - teacher-role
+  - visualization
   reason: "Integrated into two pages, on its argument rather than data - it is a conceptual reframing that collects no participant data and tests no intervention. affective-computing: the page shows affect sensing and cautions that one system facial detection was unvalidated, but does not carry the construct-level mechanism that a single expressive channel cannot identify an emotion without its context, which this names with its pedagogical consequence. well-being: the page covers emotional and social well-being effects and design considerations but carries no pathway grounding regulation support in physical activity or campus ecology, and no statement of the context problem. Skipped the other 24: with no data the paper adds no measured claim, and its risk argument about coercive affect monitoring restates existing concerns."
 - article: when-students-prefer-ai-scoring-feedback-2026
   date: 2026-09-30
-  integrated: [ai-feedback-quality, human-in-the-loop-ai]
-  no_change: [affective-computing, ai-education, ai-literacy, automated-essay-scoring, explainable-ai, feedback, feedback-literacy, formative-assessment, generative-ai, human-ai-collaboration, learners, llm, mixed-methods-research, qualitative-research, quantitative-research, self-report-measures, student-ai-interaction, student-experience, summative-assessment, teacher-role, technology-acceptance-model, trust]
+  integrated:
+  - ai-feedback-quality
+  - human-in-the-loop-ai
+  no_change:
+  - affective-computing
+  - ai-education
+  - ai-literacy
+  - automated-essay-scoring
+  - explainable-ai
+  - feedback
+  - feedback-literacy
+  - formative-assessment
+  - generative-ai
+  - human-ai-collaboration
+  - learners
+  - llm
+  - mixed-methods-research
+  - qualitative-research
+  - quantitative-research
+  - self-report-measures
+  - student-ai-interaction
+  - student-experience
+  - summative-assessment
+  - teacher-role
+  - technology-acceptance-model
+  - trust
   reason: "Integrated into two pages from a survey of 93 undergraduates. ai-feedback-quality: the page claims AI feedback is experienced as acceptable and comparable to teacher feedback, qualifying it only as a learning-effectiveness gap, and this supplies a student-perceived failure profile and stakes boundary - understandable to 77 yet repetitive to 68 and self-contradictory to 79, with only 31 agreeing it grades complex or creative writing. human-in-the-loop-ai: the page locates oversight by error consequence but carries no student-side preference for where the human belongs, and this supplies a measured, stakes-conditional demand, since 81.7% wanted human scoring for a final paper worth 40% of the grade. Skipped the other 22: this is a preference survey rather than an outcome study, so preference is not converted into learning effect, and the remaining candidates are facet-only."
 - article: observer-perceptions-genai-interpersonal-trust-2026
   date: 2026-09-30
-  integrated: [trust]
-  no_change: [ai-literacy, generative-ai, group-work, human-ai-collaboration, limitations-in-aied-research, peer-assessment, quantitative-research, self-report-measures, social-norms-ai-use, student-ai-interaction]
+  integrated:
+  - trust
+  no_change:
+  - ai-literacy
+  - generative-ai
+  - group-work
+  - human-ai-collaboration
+  - limitations-in-aied-research
+  - peer-assessment
+  - quantitative-research
+  - self-report-measures
+  - social-norms-ai-use
+  - student-ai-interaction
   reason: "Integrated into trust: the page interpersonal-trust section covers instructor-student and institutional trust plus disclosure but carries no finding on peer trust as a function of AI use, and this adds a measured mechanism (perceived warmth and competence carry the association) with a boundary condition on where it appears. Skipped the other 10: the design is a cross-sectional recall survey in which every measure is a perception of a remembered peer rather than an observed relationship, so the remaining candidates are facet-only or instances of the self-report and causal-inference limits those pages already document."
 - article: decision-making-agent-student-decision-acceptance-2026
   date: 2026-09-30
-  integrated: [explainable-ai]
-  no_change: [ai-education, ai-literacy, ai-technologies, automated-assessment, discipline-specific-aied, educational-technology-developers, evaluative-judgment, feedback, human-ai-collaboration, human-in-the-loop-ai, k-12, limitations-in-aied-research, quantitative-research, self-report-measures, social-emotional-learning, student-ai-interaction, student-experience, teacher-role, theories-and-frameworks, trust, well-being]
+  integrated:
+  - explainable-ai
+  no_change:
+  - ai-education
+  - ai-literacy
+  - ai-technologies
+  - automated-assessment
+  - discipline-specific-aied
+  - educational-technology-developers
+  - evaluative-judgment
+  - feedback
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - k-12
+  - limitations-in-aied-research
+  - quantitative-research
+  - self-report-measures
+  - social-emotional-learning
+  - student-ai-interaction
+  - student-experience
+  - teacher-role
+  - theories-and-frameworks
+  - trust
+  - well-being
   reason: "Integrated into explainable-ai: the page premise is that explanation quality matters and supports trust and acceptance, and this supplies a boundary condition it lacks, since a written rationale raised acceptance and perceived fairness in both conditions but widened rather than closed the human-AI fairness gap. Skipped the other 21: the study is a single-cohort vignette experiment with a standardized task and all findings bounded to one unfavourable outcome, so the remaining candidates are facet-only or restate the trust, fairness and self-report claims those pages already carry."
 - article: genai-learning-procrastination-planned-behavior-2026
   date: 2026-09-30
-  integrated: [self-regulated-learning, technology-acceptance-model]
-  no_change: [academic-integrity, ai-education, anxiety-and-stress, cognitive-offloading, critical-thinking, generative-ai, motivation, pedagogy, quantitative-research, self-efficacy, self-report-measures, social-norms-ai-use, theories-and-frameworks, vocational-education]
+  integrated:
+  - self-regulated-learning
+  - technology-acceptance-model
+  no_change:
+  - academic-integrity
+  - ai-education
+  - anxiety-and-stress
+  - cognitive-offloading
+  - critical-thinking
+  - generative-ai
+  - motivation
+  - pedagogy
+  - quantitative-research
+  - self-efficacy
+  - self-report-measures
+  - social-norms-ai-use
+  - theories-and-frameworks
+  - vocational-education
   reason: "Integrated into two pages from a survey of 1,243 undergraduates. self-regulated-learning: the page frames AI as either scaffolding regulation or removing its demands and carries a production deficit during use, but has no construct for the failure to initiate GenAI-supported work at all, and GenAI-assisted learning procrastination supplies that distinct failure mode with a measured model. technology-acceptance-model: the page names the field reliance on intention rather than behaviour as a standing critique but carries no construct measuring the intention-behaviour gap for GenAI, and this operationalizes delay despite genuine intention with perceived behavioural control as the strongest negative predictor. Skipped the other 14: the model is cross-sectional self-report, so the remaining candidates are facet-only or instances of documented limitation classes."
 - article: guided-ai-tutor-impasse-resolution-2026
   date: 2026-10-01
-  integrated: [scaffolding, help-seeking]
-  no_change: [ai-ed-evaluation, chemistry-education, desirable-difficulties, educational-policy-ai, feedback, guardrails, higher-ed, human-ai-collaboration, intelligent-tutoring, learning-analytics, llm, misconceptions, pedagogy, productive-failure, prompt-engineering, quantitative-research]
+  integrated:
+  - scaffolding
+  - help-seeking
+  no_change:
+  - ai-ed-evaluation
+  - chemistry-education
+  - desirable-difficulties
+  - educational-policy-ai
+  - feedback
+  - guardrails
+  - higher-ed
+  - human-ai-collaboration
+  - intelligent-tutoring
+  - learning-analytics
+  - llm
+  - misconceptions
+  - pedagogy
+  - productive-failure
+  - prompt-engineering
+  - quantitative-research
   reason: "Integrated into scaffolding and help-seeking from 20,462 student turns and 1,260 sessions with a guided LLM chemistry tutor. scaffolding: the page carries questioning and fading but no evidence that the value of a strategy changes with impasse depth, and this supplies the decay curve - a 20-point recovery advantage for questioning at onset falls to 3 points by the fourth stuck turn while error-directed feedback rises from +5 to +12 points. help-seeking: the page treats asking as the productive move but does not distinguish impasse onset from persistence, and this shows help requests are the most recoverable type at onset (47.0%) yet decline most sharply once assistance fails (12.5% at depth six or more). Skipped the other 16: the study simulates conditions over a sample of 150 impasses drawn from one chemistry tutor, so the remaining candidates are facet-only or instances of claims those pages already carry."
 - article: argus-academic-integrity-genai-2026
   date: 2026-10-01
-  integrated: [academic-integrity, ai-detection, ai-misuse-learning-harm]
-  no_change: [ai-use-disclosure, assessment, cs-education, educational-policy-ai, generative-ai, governance, higher-ed, human-in-the-loop-ai, learning-analytics, learning-gains, llm, pedagogy, quantitative-research, reducing-ai-misuse]
-  reason: "Integrated into three pages from six years of Spring-semester data in a large-enrollment CS2 course. academic-integrity: the page documents detection limits but carries no large-enrollment longitudinal estimate, and this supplies one - 45.7% of Spring 2026 students flagged for patterns consistent with LLM-assisted coding, with flagged students scoring far lower on proctored exams. ai-detection: the page's framing is detector unreliability; this adds a design that validated against a pre-LLM baseline, with H-scores near-zero before LLMs were public rising to a mean of 11.9 by 2026, and every flag still routed to human review. ai-misuse-learning-harm: the page argues harm is assessment-dependent but carries no measured association between flagged use and proctored performance, and this supplies r = -0.537 in 2026 with a widening gap. Skipped the other 14: the study is one institution's course with a heuristic flagged/unflagged split rather than adjudicated misuse, so the remaining candidates are facet-only."
+  integrated:
+  - academic-integrity
+  - ai-detection
+  no_change:
+  - ai-misuse-learning-harm
+  - ai-use-disclosure
+  - assessment
+  - cs-education
+  - educational-policy-ai
+  - generative-ai
+  - governance
+  - higher-ed
+  - human-in-the-loop-ai
+  - learning-analytics
+  - learning-gains
+  - llm
+  - pedagogy
+  - quantitative-research
+  - reducing-ai-misuse
+  reason: "Integrated into three pages from six years of Spring-semester data in a large-enrollment CS2 course. academic-integrity: the page documents detection limits but carries no large-enrollment longitudinal estimate, and this supplies one - 45.7% of Spring 2026 students flagged for patterns consistent with LLM-assisted coding, with flagged students scoring far lower on proctored exams. ai-detection: the page's framing is detector unreliability; this adds a design that validated against a pre-LLM baseline, with H-scores near-zero before LLMs were public rising to a mean of 11.9 by 2026, and every flag still routed to human review. ai-misuse-learning-harm: the page argues harm is assessment-dependent but carries no measured association between flagged use and proctored performance, and this supplies r = -0.537 in 2026 with a widening gap. Skipped the other 14: the study is one institution's course with a heuristic flagged/unflagged split rather than adjudicated misuse, so the remaining candidates are facet-only. [Record corrected 2026-10-02: the ai-misuse-learning-harm claim was not present in that page's narrative, so it is recorded as no_change.]"
 - article: drafttrace-ai-writing-analytics-2026
   date: 2026-10-01
-  integrated: [academic-integrity, process-oriented-assessment, help-seeking]
-  no_change: [ai-ed-evaluation, ai-use-disclosure, automated-essay-scoring, educational-nlp, feedback, generative-ai, higher-ed, human-ai-collaboration, learning-analytics, llm, privacy, prompt-engineering, quantitative-research, student-ai-interaction, visualization, writing-education]
-  reason: "Integrated into three pages from a graduate NLP course deployment with 81 students. process-oriented-assessment: the page describes process evidence in principle but carries no operationalization that aligns keystroke measures with the product and with AI-interaction traces, and this shows copy-typing is identifiable only when product and process are read together. help-seeking: the page covers hint and scaffold delivery but not staged assistant use within a task, and this supplies the sequence - clarification early, verification late, multi-turn collaboration only among students issuing three or more prompts. academic-integrity: the page's detection framing lacks the instructor-side gap between suspecting misuse and trusting an investigation, which multi-view traces address. Skipped the other 16: one course, 81 students and a nine-recording process subsample, so the remaining candidates are facet-only or instances of established analytics and disclosure claims."
+  integrated:
+  - process-oriented-assessment
+  no_change:
+  - academic-integrity
+  - ai-ed-evaluation
+  - ai-use-disclosure
+  - automated-essay-scoring
+  - educational-nlp
+  - feedback
+  - generative-ai
+  - help-seeking
+  - higher-ed
+  - human-ai-collaboration
+  - learning-analytics
+  - llm
+  - privacy
+  - prompt-engineering
+  - quantitative-research
+  - student-ai-interaction
+  - visualization
+  - writing-education
+  reason: "Integrated into three pages from a graduate NLP course deployment with 81 students. process-oriented-assessment: the page describes process evidence in principle but carries no operationalization that aligns keystroke measures with the product and with AI-interaction traces, and this shows copy-typing is identifiable only when product and process are read together. help-seeking: the page covers hint and scaffold delivery but not staged assistant use within a task, and this supplies the sequence - clarification early, verification late, multi-turn collaboration only among students issuing three or more prompts. academic-integrity: the page's detection framing lacks the instructor-side gap between suspecting misuse and trusting an investigation, which multi-view traces address. Skipped the other 16: one course, 81 students and a nine-recording process subsample, so the remaining candidates are facet-only or instances of established analytics and disclosure claims. [Record corrected 2026-10-02: the academic-integrity claim was not present in that page's narrative, so it is recorded as no_change.] [Record corrected 2026-10-02: the help-seeking claim was not present in that page's narrative, so it is recorded as no_change.]"
 - article: student-query-demand-hybrid-ai-support-2026
   date: 2026-10-01
-  integrated: [help-seeking, human-in-the-loop-ai]
-  no_change: [administrator, conversational-ai, educational-technology-developers, human-ai-collaboration, learning-analytics, mixed-methods-research, online-teaching-and-learning, quantitative-research, rag]
+  integrated:
+  - help-seeking
+  - human-in-the-loop-ai
+  no_change:
+  - administrator
+  - conversational-ai
+  - educational-technology-developers
+  - human-ai-collaboration
+  - learning-analytics
+  - mixed-methods-research
+  - online-teaching-and-learning
+  - quantitative-research
+  - rag
   reason: "Integrated into two pages from a nine-week deployment handling 4,093 queries from 1,434 participants. help-seeking: the page assumes a query requests knowledge the asker lacks, and this adds a demand class that breaks that assumption - at least 20.4% asked about the status of a pending submission, which a retrieval-bound assistant served only 1.3% of the time. human-in-the-loop-ai: the page locates human value in review and escalation, and this is a caution that a deployed oversight record can encode approval routing rather than quality judgment, since the acceptance field recorded only whether the resolver differed from the asker. Skipped the other 9: a single-program operational case study with no comparison condition and no measure of answer quality, so the remaining candidates are facet-only."
 - article: vibe-coding-design-diversity-2026
   date: 2026-10-01
-  integrated: [vibe-coding, agency]
-  no_change: [authentic-assessment, creativity, educational-development, educational-technology-developers, ethics, generative-ai, human-ai-collaboration, llm, mixed-methods-research, multimodal, process-oriented-assessment, prompt-engineering, qualitative-research, quantitative-research, self-report-measures, stakeholders, student-ai-interaction, usability-research]
-  reason: "Integrated into two pages from 73 graduate students building promotional sites on one vibe-coding platform. vibe-coding: the page covers who succeeds and the over-reliance risk but carries no measured homogenization, and this supplies it - 73 students serving distinct businesses produced roughly a dozen distinct designs, with one shared generate-and-check loop. agency: the page discusses authorship as an identity concern but does not separate felt authorship from measured distinctiveness, and this shows builders who produced visually generic sites felt no less authorial than the cohort's most original ones. Skipped the other 18: one course, a nine-recording process subsample whose codes the authors say are AI-assisted first passes pending human validation, and a survey whose correlations with measured atypicality were null, so the remaining candidates are facet-only."
+  integrated:
+  - vibe-coding
+  no_change:
+  - agency
+  - authentic-assessment
+  - creativity
+  - educational-development
+  - educational-technology-developers
+  - ethics
+  - generative-ai
+  - human-ai-collaboration
+  - llm
+  - mixed-methods-research
+  - multimodal
+  - process-oriented-assessment
+  - prompt-engineering
+  - qualitative-research
+  - quantitative-research
+  - self-report-measures
+  - stakeholders
+  - student-ai-interaction
+  - usability-research
+  reason: "Integrated into two pages from 73 graduate students building promotional sites on one vibe-coding platform. vibe-coding: the page covers who succeeds and the over-reliance risk but carries no measured homogenization, and this supplies it - 73 students serving distinct businesses produced roughly a dozen distinct designs, with one shared generate-and-check loop. agency: the page discusses authorship as an identity concern but does not separate felt authorship from measured distinctiveness, and this shows builders who produced visually generic sites felt no less authorial than the cohort's most original ones. Skipped the other 18: one course, a nine-recording process subsample whose codes the authors say are AI-assisted first passes pending human validation, and a survey whose correlations with measured atypicality were null, so the remaining candidates are facet-only. [Record corrected 2026-10-02: the agency claim was not present in that page's narrative, so it is recorded as no_change.]"
 - article: fairness-theatre-early-warning-systems-2026
   date: 2026-10-01
-  integrated: [bias-mitigation, differential-effects-across-learner-groups, student-support-and-success]
-  no_change: [ai-ed-evaluation, ai-education, anxiety-and-stress, edtech-platform, educational-policy-ai, equity-in-ai-education, explainable-ai, governance, higher-ed, human-in-the-loop-ai, learning-analytics, limitations-in-aied-research, machine-learning, quantitative-research]
+  integrated:
+  - bias-mitigation
+  - differential-effects-across-learner-groups
+  - student-support-and-success
+  no_change:
+  - ai-ed-evaluation
+  - ai-education
+  - anxiety-and-stress
+  - edtech-platform
+  - educational-policy-ai
+  - equity-in-ai-education
+  - explainable-ai
+  - governance
+  - higher-ed
+  - human-in-the-loop-ai
+  - learning-analytics
+  - limitations-in-aied-research
+  - machine-learning
+  - quantitative-research
   reason: "Integrated into three pages from a stress test of six post-hoc fairness interventions on a research early warning system under simulated procurement constraints. student-support-and-success: the page's equity section needs the evidence that post-hoc fairness interventions on a vendor early warning system built from 168,550 student records failed to deliver the fairness they promised. An earlier equity-in-ai-education integration recorded here was removed by the concept-integration audit, which judged the pairing a restatement rather than a contribution; the claim is dropped so the record matches the pages. bias-mitigation: the page surveys mitigation approaches without a failure mode in which a method directs corrections at already-advantaged groups because it uses group size to define disadvantage. differential-effects-across-learner-groups: the page's gender section lacks a subgroup whose treatment worsens under every single-axis method, which gender-diverse students collapsed into an Unknown Gender category provide. equity-in-ai-education was screened and rejected: the page already documents access and outcome disparities, so the fairness-theatre pairing restated a claim it carries rather than extending it, which is why the earlier integration was withdrawn. Skipped the other 13: student records from one Ontario college with a replica model and a binary outcome that conflates withdrawal, mismatch, transfer and failure, so the remaining candidates are facet-only."
 - article: aifred-desk-robotic-ai-guidance-2026
   date: 2026-10-01
-  integrated: [transfer-of-learning]
-  no_change: [agentic-ai, arts-design-and-media-education, cognitive-offloading, creativity, edtech-platform, educational-measurement, educational-robotics, educational-technology-developers, embodied-learning, generative-ai, help-seeking, higher-ed, human-ai-collaboration, learners, learning-gains, llm, math-education, mixed-methods-research, multimodal, quantitative-research, scaffolding, self-report-measures, student-ai-interaction, usability-research, virtual-and-augmented-reality]
+  integrated:
+  - transfer-of-learning
+  no_change:
+  - agentic-ai
+  - arts-design-and-media-education
+  - cognitive-offloading
+  - creativity
+  - edtech-platform
+  - educational-measurement
+  - educational-robotics
+  - educational-technology-developers
+  - embodied-learning
+  - generative-ai
+  - help-seeking
+  - higher-ed
+  - human-ai-collaboration
+  - learners
+  - learning-gains
+  - llm
+  - math-education
+  - mixed-methods-research
+  - multimodal
+  - quantitative-research
+  - scaffolding
+  - self-report-measures
+  - student-ai-interaction
+  - usability-research
+  - virtual-and-augmented-reality
   reason: "Integrated into transfer-of-learning from a 36-participant comparison of a desk-mounted robotic projector against laptop ChatGPT. transfer-of-learning: the page carries the transfer paradox and its mechanisms but no evidence that the delivery channel changes what survives withdrawal of assistance, and this supplies it - robot-assisted learners held 7.0/10 once help was withdrawn while ChatGPT-assisted learners fell to 4.4/10, a 60% higher short-term transfer score. Skipped the other 25: a single-session lab study with 36 volunteers recruited from one campus, self-reported experience measures, and no delayed retention test, so the remaining candidates are facet-only or restatements of established embodied-learning and scaffolding claims."
 - article: simulated-students-tutoring-dialogues-2026
   date: 2026-10-01
-  integrated: [simulating-students, llm-training-and-fine-tuning]
-  no_change: [ai-ed-evaluation, ai-education, benchmark, bias-mitigation, differential-effects-across-learner-groups, educational-nlp, educational-technology-developers, intelligent-tutoring, limitations-in-aied-research, llm, math-education, prompt-engineering, reinforcement-learning, student-modeling]
+  integrated:
+  - simulating-students
+  - llm-training-and-fine-tuning
+  no_change:
+  - ai-ed-evaluation
+  - ai-education
+  - benchmark
+  - bias-mitigation
+  - differential-effects-across-learner-groups
+  - educational-nlp
+  - educational-technology-developers
+  - intelligent-tutoring
+  - limitations-in-aied-research
+  - llm
+  - math-education
+  - prompt-engineering
+  - reinforcement-learning
+  - student-modeling
   reason: "Integrated into simulating-students from a nine-method benchmark on 382 held-out math tutoring dialogues. simulating-students: the page carries the prompting-versus-training ceiling from several studies but no head-to-head benchmark with a human-validated metric suite, and this supplies one - prompting trailed fine-tuning on dialogue acts (0.4998 against 0.6840), ROUGE-L (0.1648 against 0.3212) and cosine similarity (0.5460 against 0.7390), while the best method tested, preference optimization on an 8B model, beat supervised fine-tuning only marginally and was worse on errors. Skipped the other 10: one math dataset, reference-based metrics only, two metrics never human-checked, no affect measured and proprietary models in the measurement loop, so the remaining candidates are facet-only or instances of the page's existing fidelity claims. llm-training-and-fine-tuning: the page argues that fine-tuning beats prompting on stable outputs, and this supplies a head-to-head benchmark with a human-validated metric suite - prompting trailed fine-tuning on dialogue acts (0.4998 against 0.6840), ROUGE-L (0.1648 against 0.3212) and cosine similarity (0.5460 against 0.7390)."
 - article: simulating-novice-students-machine-unlearning-2026
   date: 2026-10-01
-  integrated: [simulating-students, learning-by-teaching]
-  no_change: [ai-ed-evaluation, ai-education, benchmark, cs-education, educational-nlp, intelligent-tutoring, limitations-in-aied-research, llm, misconceptions, pedagogical-agent, process-oriented-assessment, prompt-engineering, qualitative-research, quantitative-research]
+  integrated:
+  - simulating-students
+  - learning-by-teaching
+  no_change:
+  - ai-ed-evaluation
+  - ai-education
+  - benchmark
+  - cs-education
+  - educational-nlp
+  - intelligent-tutoring
+  - limitations-in-aied-research
+  - llm
+  - misconceptions
+  - pedagogical-agent
+  - process-oriented-assessment
+  - prompt-engineering
+  - qualitative-research
+  - quantitative-research
   reason: "Integrated into two pages from a machine-unlearning study on 2,074 Python multiple-choice questions. simulating-students: the page lists ways to constrain a simulator to a genuine epistemic state - cognitive prototypes, explicit state specifications, state-transition models - all of which condition or prompt, and this adds removing the knowledge from the weights instead, with accuracy falling from about 0.75 at a 10% forgetting ratio to below 0.5 at 40% while the base model held near 0.85. learning-by-teaching: the page's engineering-fallibility section is entirely prompt-based (constraint prompts, engineered knowledge gaps, apprentice constraints), and this is the weights-level route, with the suppressed knowledge recoverable through supervised relearning and coach-guided dialogue. Skipped the other 11: one base model, one domain and one task format, no human study, and no comparison against prompt-based baselines on the same task, so the remaining candidates are facet-only."
 - article: student-development-agent-risk-free-simulation-2025
   date: 2026-10-01
-  integrated: [simulating-students]
-  no_change: [agentic-ai, ai-ed-evaluation, ai-education, ethics, limitations-in-aied-research, llm, pedagogical-agent, quantitative-research, self-report-measures, simulation, student-modeling]
+  integrated:
+  - simulating-students
+  no_change:
+  - agentic-ai
+  - ai-ed-evaluation
+  - ai-education
+  - ethics
+  - limitations-in-aied-research
+  - llm
+  - pedagogical-agent
+  - quantitative-research
+  - self-report-measures
+  - simulation
+  - student-modeling
   reason: "Integrated into simulating-students from a case study predicting 42 real students' post-course outcomes on the MAIC multi-agent platform. simulating-students: the page discusses the agent-based educational science position paper from the same group and records that its Student Development Agents were specified conceptually only, and this is the empirical companion - a profile grounded in a literature pipeline over 343,238 papers, validated at Gwet's AC1 .96, whose agent beat the mean pre-course baseline on RMSE in all five dimensions. Skipped the other 8: a single module on one platform with 42 students, a regression reference that uses real students' post-test data, and one dimension where the baseline scored better on mean absolute error, so the remaining candidates are facet-only."
 - article: knowledge-building-tutor-learning-2026
   date: 2026-10-01
-  integrated: [learning-by-teaching, prior-knowledge]
-  no_change: [ai-education, desirable-difficulties, intelligent-tutoring, learning-gains, limitations-in-aied-research, llm, math-education, misconceptions, pedagogical-agent, quantitative-research, scaffolding, self-efficacy]
+  integrated:
+  - learning-by-teaching
+  - prior-knowledge
+  no_change:
+  - ai-education
+  - desirable-difficulties
+  - intelligent-tutoring
+  - learning-gains
+  - limitations-in-aied-research
+  - llm
+  - math-education
+  - misconceptions
+  - pedagogical-agent
+  - quantitative-research
+  - scaffolding
+  - self-efficacy
   reason: "Integrated into two pages from a five-day teachable-agent study with 23 middle-school tutors. learning-by-teaching: the page carries the protégé effect and teachable-agent design but never distinguishes knowledge-building from knowledge-telling, which is the behavior this study measured - the share of knowledge-building responses to the agent's adaptive follow-ups predicted conceptual post-test scores (beta = .138, p < 0.05). prior-knowledge: the page opens by calling prior knowledge the strongest predictor of learning, and this supplies a boundary case - prior test scores did not predict who produced knowledge-building responses, and low-prior tutors who produced them finished statistically level with high-prior peers. Skipped the other 12: 23 voluntary participants, a five-day intervention on one topic, a correlational path model the authors themselves say needs a randomized trial, and no inter-rater agreement reported for the knowledge-building coding, so the remaining candidates are facet-only."
 - article: ai-student-motivation-scoping-review-2026
   date: 2026-10-01
-  integrated: [motivation]
-  no_change: [ai-education, generative-ai, limitations-in-aied-research, llm, meta-analysis-systematic-review, quantitative-research, self-efficacy, theories-and-frameworks]
+  integrated:
+  - motivation
+  no_change:
+  - ai-education
+  - generative-ai
+  - limitations-in-aied-research
+  - llm
+  - meta-analysis-systematic-review
+  - quantitative-research
+  - self-efficacy
+  - theories-and-frameworks
   reason: "Integrated into motivation from a scoping review of 156 studies published between 2003 and 2025. motivation: the page carries a meta-analysis of the average effect and many construct-specific findings, but no field-level account of how motivation is measured, and this supplies it - 133 of 156 studies (85.3%) were guided by no specific motivational theory, the most common variable was a generalized academic motivation (n = 89) that does not specify which motivation is meant, and 88 studies (56.4%) came from one national context. Skipped the other 8: a review maps the field rather than testing it, reporting no effect sizes, so the remaining candidates are facet-only."
 - article: ai-cognitive-partner-reflective-thought-2026
   date: 2026-10-01
-  integrated: [metacognition]
-  no_change: [ai-literacy, cognitive-offloading, conversational-ai, critical-thinking, distributed-cognition, generative-ai, human-ai-collaboration, llm, qualitative-research]
+  integrated:
+  - metacognition
+  no_change:
+  - ai-literacy
+  - cognitive-offloading
+  - conversational-ai
+  - critical-thinking
+  - distributed-cognition
+  - generative-ai
+  - human-ai-collaboration
+  - llm
+  - qualitative-research
   reason: "Integrated into metacognition from a one-year design-based study across eight Danish upper secondary schools with 48 interviewed students. metacognition: the page's augmentation section documents designed scaffolds - journals, structured prompts, assigned AI-use levels - and carries no account of reflection emerging from ordinary subject-matter use, and this supplies a four-practice, eleven-process taxonomy (explanation, creation, inspiration, improvement) in which reflection appeared in both disciplinary and process registers. Skipped the other 9: a qualitative interview study in one national context whose practices are interpretive themes rather than a measured distribution, and cognitive-offloading was rejected because the page already carries the how-not-whether claim this finding instantiates, so the remaining candidates are facet-only."
 - article: beagle-grounded-learner-emulation-2026
   date: 2026-10-01
-  integrated: [simulating-students]
-  no_change: [agentic-ai, ai-ed-evaluation, ai-education, benchmark, cs-education, educational-nlp, intelligent-tutoring, knowledge-tracing, limitations-in-aied-research, llm, problem-solving, self-regulated-learning, student-modeling]
+  integrated:
+  - simulating-students
+  no_change:
+  - agentic-ai
+  - ai-ed-evaluation
+  - ai-education
+  - benchmark
+  - cs-education
+  - educational-nlp
+  - intelligent-tutoring
+  - knowledge-tracing
+  - limitations-in-aied-research
+  - llm
+  - problem-solving
+  - self-regulated-learning
+  - student-modeling
   reason: "Integrated into simulating-students from a neuro-symbolic learner simulator evaluated on four Python problem-solving tasks across six backbones. simulating-students: the page's build thread concludes that prompting sets a ceiling which training removes, and this shows architecture enforcing what neither achieves - a semi-Markov controller with flaw-injected knowledge tracing reached behavioural divergence of 0.31 against a 0.53 baseline, injecting its metacognitive vocabulary into baselines never beat 0.63, and removing the symbolic controller pushed divergence to 6.81. Skipped the other 13: one task family and a single-agent scope, with the authors reporting residual competency bias on the strongest backbones and a knowledge-fluency trade-off, so the remaining candidates are facet-only."
+- article: three-pathways-student-ai-interaction-2026
+  date: 2026-10-02
+  integrated: []
+  no_change:
+  - agency
+  - ai-literacy
+  - ai-misuse-learning-harm
+  - cognitive-offloading
+  - critical-pedagogy
+  - critical-thinking
+  - distributed-cognition
+  - educational-policy-ai
+  - evaluative-judgment
+  - generative-ai
+  - learning-design
+  - llm
+  - metacognition
+  - prompt-engineering
+  - qualitative-research
+  - research-methods-aied
+  - scaffolding
+  - student-ai-interaction
+  - student-engagement
+  - theories-and-frameworks
+  reason: Screened the Three Paths of Student-AI Interaction typology (Passive Review 46%, Direct Question 18%, Strategic Dialogue 36%; kappa = .48) from a 50-message qualitative analysis plus the Next Level Teaching Blueprint. The student-ai-interaction page already narrates the form-of-interaction-to-learning link, surface versus reflective interaction, and design levers (Naim bypass/offload/scaffold, teacher-authored prompts), so this typology is a variant of a cut the page already carries rather than a new framing; nothing distinguishing enough for narrative prose.
+- article: student-llm-code-detection-cs1-2026
+  date: 2026-10-02
+  integrated: []
+  no_change:
+  - academic-integrity
+  - ai-detection
+  - ai-use-disclosure
+  - anxiety-and-stress
+  - assessment-validity
+  - automated-assessment
+  - cs-education
+  - generative-ai
+  - higher-ed
+  - learning-gains
+  - llm
+  - quantitative-research
+  - student-ai-interaction
+  - writing-education
+  reason: Screened a 29,970-submission / 90,000-generated-attempt study showing generated-reference matches rise across cohorts and that matching tracks task structure (four tightly specified functions lose 18.4-51.1% of distinct AST forms). ai-detection and academic-integrity already carry the population-signal-versus-individual-attribution caveat and the need for human review; this supplies strong empirical calibration but no new framing.
+- article: educator-guided-llm-pedagogical-agent-2026
+  date: 2026-10-02
+  integrated: []
+  no_change:
+  - agency
+  - ai-feedback-quality
+  - cs-education
+  - educational-policy-ai
+  - feedback
+  - formative-assessment
+  - higher-ed
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - intelligent-tutoring
+  - llm
+  - llm-training-and-fine-tuning
+  - mixed-methods-research
+  - pedagogical-agent
+  - pedagogy
+  - privacy
+  - problem-solving
+  - prompt-engineering
+  - scaffolding
+  - self-report-measures
+  - teacher-role
+  reason: Screened an educator-guided LLM pedagogical agent (383 feedback episodes, 71.1% target incorporation) whose contribution is separating a hidden artifact-grounded diagnosis from the workflow controlling disclosure. ai-feedback-quality, pedagogical-agent and scaffolding already carry educator-defined policy, staged disclosure and automated-feedback limits; the incorporation measure is behavioural alignment with a hidden target rather than diagnosis correctness or learning, so no new prose.
+- article: student-llm-use-cs-subfields-2026
+  date: 2026-10-02
+  integrated: []
+  no_change:
+  - academic-integrity
+  - ai-literacy
+  - ai-use-disclosure
+  - anxiety-and-stress
+  - cs-education
+  - curriculum-design
+  - evaluative-judgment
+  - generative-ai
+  - hallucination-risk
+  - help-seeking
+  - higher-ed
+  - human-ai-collaboration
+  - learning-design
+  - llm
+  - machine-learning
+  - metacognition
+  - problem-solving
+  - prompt-engineering
+  - quantitative-research
+  - scaffolding
+  - self-regulated-learning
+  - self-report-measures
+  - student-ai-interaction
+  - trust-calibration
+  reason: Screened a 211-student cross-subfield survey (adoption 89.6% algorithms to 15.2% software engineering; assistant framing dominant; verification present in 93-100%). It gives student-ai-interaction, help-seeking, metacognition and trust-calibration corroborating data points that assignment characteristics, not subfield labels, drive behaviour, but this is incremental for a single-course self-report study.
+- article: genai-practice-platform-maths-feedback-2026
+  date: 2026-10-02
+  integrated: []
+  no_change:
+  - active-learning
+  - agentic-ai
+  - ai-feedback-quality
+  - assessment
+  - automated-assessment
+  - automated-question-generation
+  - curriculum-design
+  - edtech-platform
+  - engineering-education
+  - feedback
+  - formative-assessment
+  - generative-ai
+  - governance
+  - hallucination-risk
+  - higher-ed
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - learning-analytics
+  - learning-gains
+  - llm
+  - math-education
+  - misconceptions
+  - mixed-methods-research
+  - motivation
+  - prompt-engineering
+  - qualitative-research
+  - scaffolding
+  - self-directed-learning
+  - self-report-measures
+  - student-engagement
+  - trust
+  - trust-calibration
+  - usability-research
+  reason: Screened a GenAI practice-platform pilot (95 registered, 34 active users among 157 students) whose headline is a design pattern (verifying solutions upstream rather than grading in real time). feedback, formative-assessment, human-in-the-loop-ai and ai-feedback-quality already carry the immediacy-versus-oversight tension; the evidence is small and self-selected with no control group.
+- article: engage-to-unlock-productive-friction-genai-2026
+  date: 2026-10-02
+  integrated: []
+  no_change:
+  - adaptive-learning
+  - agency
+  - ai-misuse-learning-harm
+  - cognitive-offloading
+  - conversational-ai
+  - critical-thinking
+  - desirable-difficulties
+  - educational-technology-developers
+  - evaluative-judgment
+  - generative-ai
+  - guardrails
+  - human-ai-collaboration
+  - llm
+  - metacognition
+  - prompt-engineering
+  - quantitative-research
+  - rct
+  - scaffolding
+  - self-regulated-learning
+  - self-report-measures
+  - student-engagement
+  - trust-calibration
+  - writing-education
+  reason: Screened the Engage-to-Unlock productive-friction experiment (N = 398, four conditions; writers spent more time writing and less time evaluating with no added task time; a time-matched control separated engagement-responsive access from mere delay). desirable-difficulties already carries productive friction and cognitive-offloading already carries the how-not-whether offloading claim, so the mechanism is a strong instance rather than a distinguishing addition.
+- article: physicsmate-bengali-secondary-physics-benchmark-2026
+  date: 2026-10-02
+  integrated: []
+  no_change:
+  - assessment-validity
+  - automated-question-generation
+  - benchmark
+  - biology-education
+  - chemistry-education
+  - curriculum-design
+  - educational-nlp
+  - global-south
+  - hallucination-risk
+  - k-12
+  - knowledge-graph
+  - llm
+  - llm-training-and-fine-tuning
+  - misconceptions
+  - multilingual-learning
+  - physics-education
+  - qualitative-research
+  - science-education
+  - stem-education
+  - teacher-role
+  reason: Screened PhysicsMate (1,834 curriculum-grounded Bengali physics QA pairs, 1,760-node NCTB graph; LoRA gains +5.5/+15.0/+23.3 points at 0.6B/1.7B/4B). benchmark, physics-education, knowledge-graph, llm-training-and-fine-tuning and global-south/multilingual-learning already assert low-resource STEM evaluation and small-model adaptation; this is a concrete instance, not a new framing.
+- article: critsly-design-education-ai-critique-2026
+  date: 2026-10-02
+  integrated: []
+  no_change:
+  - ai-ed-evaluation
+  - ai-feedback-quality
+  - arts-design-and-media-education
+  - assessment
+  - assessment-validity
+  - creativity
+  - design-education
+  - educational-measurement
+  - ethics
+  - explainable-ai
+  - feedback
+  - generative-ai
+  - governance
+  - higher-ed
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - learning-analytics
+  - learning-design
+  - learning-gains
+  - llm
+  - metacognition
+  - privacy
+  - scaffolding
+  - simulation
+  - usability-research
+  - visualization
+  reason: Screened the Critsly/StudioCrit artefact-aware AI critique workspace for design education, whose evidence is deliberately software and synthetic-trace observation (109 and 56 classified evidence rows; 50 completed sessions), not learning gains. design-education, feedback, ai-feedback-quality and human-in-the-loop-ai already cover studio critique and educator review; no validated classifier or learning outcome, so nothing distinguishing for a concept narrative.
+- article: dbworkout-gamified-sql-formative-feedback-2026
+  date: 2026-10-02
+  integrated: []
+  no_change:
+  - accessibility
+  - active-learning
+  - ai-feedback-quality
+  - automated-assessment
+  - automated-question-generation
+  - cs-education
+  - edtech-platform
+  - educational-technology-developers
+  - feedback
+  - formative-assessment
+  - game-based-learning
+  - hallucination-risk
+  - higher-ed
+  - human-in-the-loop-ai
+  - learning-gains
+  - llm
+  - meta-analysis-systematic-review
+  - mixed-methods-research
+  - motivation
+  - qualitative-research
+  - self-report-measures
+  - student-engagement
+  - usability-research
+  reason: Screened the DBWorkout deployment (170 undergraduates; 90-92% perceived value, 87% enjoyment, 22% pressure, but only 42% found feedback sufficient, corroborated by 40% of open-ended responses). It instances existing narratives on feedback/automated-assessment/ai-feedback-quality (tools identify mistakes but rarely guide next steps) and game-based-learning; a single-course preliminary self-report study with no learning measure, so no new prose.
