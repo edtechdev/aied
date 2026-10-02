@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-01T09:59:54-04:00"
+updated: "2026-10-02T12:40:11-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -88,6 +88,8 @@ A key theme in the knowledge base is that detection should be a **limited, situa
 
 The constructive question shifts from "how do we prevent students from using AI?" to "how do we enable them to use it thoughtfully, responsibly, and effectively in contexts that mirror their future work?" Detection therefore connects to [[ai-literacy]] (helping students [[reducing-ai-misuse|use AI responsibly]]), [[cognitive-offloading|Over-Reliance]] (understanding when AI use undermines learning), and the broader goal of supporting genuine learning rather than policing submissions. It also links to student-side phenomena such as [[student-rationalization-ai-writing|student rationalization of AI writing]] and the identity-detection challenge in [[socially-fluent-ai-identity-detection]].
 
+- **Detectability is a property of assignment design, not only of the detector.** [[student-llm-code-detection-cs1-2026|Ye et al. (2026)]] found cross-model agreement of 87.79-88.14% on generated code, yet only 1-14 distinct abstract syntax trees per 1,000 files on tightly constrained functions versus 151-804 among 2021 student submissions.
+
 ## Implications for AI in education
 
 - **Detection is situational:** institutions should use detection tools sparingly and with awareness of their error rates, fairness limits, and task-dependence — not as an automatic, standalone gate.
@@ -140,3 +142,4 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[detecting-gpt-assisted-writing-stylometric-2026]] — Nine interpretable stylometric features: ROC-AUC 0.870 but four of 18 independently authored documents flagged (Kumar et al. 2026)
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — One human manuscript, five detectors, classifications from "0% human" to "Human Generated", plus the documented institutional retreat from detection (Angelier 2026)
 - [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
+- [[student-llm-code-detection-cs1-2026]] — LLM code converges on tightly constrained assignments (1-14 AST forms per 1,000 files) but not on free ones - detectability follows task design

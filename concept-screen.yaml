@@ -2289,7 +2289,8 @@
   reason: "Integrated into simulating-students from a neuro-symbolic learner simulator evaluated on four Python problem-solving tasks across six backbones. simulating-students: the page's build thread concludes that prompting sets a ceiling which training removes, and this shows architecture enforcing what neither achieves - a semi-Markov controller with flaw-injected knowledge tracing reached behavioural divergence of 0.31 against a 0.53 baseline, injecting its metacognitive vocabulary into baselines never beat 0.63, and removing the symbolic controller pushed divergence to 6.81. Skipped the other 13: one task family and a single-agent scope, with the authors reporting residual competency bias on the strongest backbones and a knowledge-fluency trade-off, so the remaining candidates are facet-only."
 - article: three-pathways-student-ai-interaction-2026
   date: 2026-10-02
-  integrated: []
+  integrated:
+  - student-ai-interaction
   no_change:
   - agency
   - ai-literacy
@@ -2311,10 +2312,12 @@
   - student-ai-interaction
   - student-engagement
   - theories-and-frameworks
-  reason: Screened the Three Paths of Student-AI Interaction typology (Passive Review 46%, Direct Question 18%, Strategic Dialogue 36%; kappa = .48) from a 50-message qualitative analysis plus the Next Level Teaching Blueprint. The student-ai-interaction page already narrates the form-of-interaction-to-learning link, surface versus reflective interaction, and design levers (Naim bypass/offload/scaffold, teacher-authored prompts), so this typology is a variant of a cut the page already carries rather than a new framing; nothing distinguishing enough for narrative prose.
+  reason: "RE-SCREENED 2026-10-02 (the first pass dismissed every discipline/interaction page on unverified 'already carries' assertions). Now integrated: student-ai-interaction (the page carried the form-to-learning link but not this typology or its 46/18/36 split). Evidence for the dismissals: grep 'passive review|strategic dialogue|pathway|typology' in student-ai-interaction -> 1 hit, an unrelated field-experiment sentence. Molecular/generic candidates remain no_change - their claim classes are genuinely carried."
 - article: student-llm-code-detection-cs1-2026
   date: 2026-10-02
-  integrated: []
+  integrated:
+  - ai-detection
+  - cs-education
   no_change:
   - academic-integrity
   - ai-detection
@@ -2330,10 +2333,11 @@
   - quantitative-research
   - student-ai-interaction
   - writing-education
-  reason: Screened a 29,970-submission / 90,000-generated-attempt study showing generated-reference matches rise across cohorts and that matching tracks task structure (four tightly specified functions lose 18.4-51.1% of distinct AST forms). ai-detection and academic-integrity already carry the population-signal-versus-individual-attribution caveat and the need for human review; this supplies strong empirical calibration but no new framing.
+  reason: "RE-SCREENED 2026-10-02. Now integrated: ai-detection (its 'Beyond detection: assessment redesign' section carried detector unreliability but not the finding that DETECTABILITY IS A PROPERTY OF ASSIGNMENT DESIGN - grep 'constraint|AST|assignment design' returned 0) and cs-education, where it is cited alongside Lepp & Kaimre (2026) because both independently show AI performing at or above the student cohort on CS tasks. The generic feedback pages stay no_change."
 - article: educator-guided-llm-pedagogical-agent-2026
   date: 2026-10-02
-  integrated: []
+  integrated:
+  - cs-education
   no_change:
   - agency
   - ai-feedback-quality
@@ -2356,10 +2360,12 @@
   - scaffolding
   - self-report-measures
   - teacher-role
-  reason: Screened an educator-guided LLM pedagogical agent (383 feedback episodes, 71.1% target incorporation) whose contribution is separating a hidden artifact-grounded diagnosis from the workflow controlling disclosure. ai-feedback-quality, pedagogical-agent and scaffolding already carry educator-defined policy, staged disclosure and automated-feedback limits; the incorporation measure is behavioural alignment with a hidden target rather than diagnosis correctness or learning, so no new prose.
+  reason: "RE-SCREENED 2026-10-02. Now integrated: cs-education - grep 'database|ERD|SQL' returned 2 hits, neither about database design or its feedback, so staged educator-authored feedback for conceptual schema design was absent. Generic scaffolding/feedback/pedagogical-agent pages remain no_change."
 - article: student-llm-use-cs-subfields-2026
   date: 2026-10-02
-  integrated: []
+  integrated:
+  - cs-education
+  - student-ai-interaction
   no_change:
   - academic-integrity
   - ai-literacy
@@ -2385,10 +2391,11 @@
   - self-report-measures
   - student-ai-interaction
   - trust-calibration
-  reason: Screened a 211-student cross-subfield survey (adoption 89.6% algorithms to 15.2% software engineering; assistant framing dominant; verification present in 93-100%). It gives student-ai-interaction, help-seeking, metacognition and trust-calibration corroborating data points that assignment characteristics, not subfield labels, drive behaviour, but this is incremental for a single-course self-report study.
+  reason: "RE-SCREENED 2026-10-02. Now integrated: cs-education (grep 'adoption|LLM use' returned 0 - the page had no student-adoption content at all) and student-ai-interaction, where it is cited with Zahra (2026) because both show task characteristics rather than the tool or the subfield shaping how students use AI."
 - article: genai-practice-platform-maths-feedback-2026
   date: 2026-10-02
-  integrated: []
+  integrated:
+  - math-education
   no_change:
   - active-learning
   - agentic-ai
@@ -2423,10 +2430,11 @@
   - trust
   - trust-calibration
   - usability-research
-  reason: Screened a GenAI practice-platform pilot (95 registered, 34 active users among 157 students) whose headline is a design pattern (verifying solutions upstream rather than grading in real time). feedback, formative-assessment, human-in-the-loop-ai and ai-feedback-quality already carry the immediacy-versus-oversight tension; the evidence is small and self-selected with no control group.
+  reason: "RE-SCREENED 2026-10-02. Now integrated: math-education - grep 'immediate|practice platform|booklet|wait' returned 0, so neither feedback immediacy nor optional-platform uptake was on the page. Generic feedback/formative-assessment pages stay no_change."
 - article: engage-to-unlock-productive-friction-genai-2026
   date: 2026-10-02
-  integrated: []
+  integrated:
+  - writing-education
   no_change:
   - adaptive-learning
   - agency
@@ -2451,10 +2459,11 @@
   - student-engagement
   - trust-calibration
   - writing-education
-  reason: Screened the Engage-to-Unlock productive-friction experiment (N = 398, four conditions; writers spent more time writing and less time evaluating with no added task time; a time-matched control separated engagement-responsive access from mere delay). desirable-difficulties already carries productive friction and cognitive-offloading already carries the how-not-whether offloading claim, so the mechanism is a strong instance rather than a distinguishing addition.
+  reason: "RE-SCREENED 2026-10-02. Now integrated: writing-education, in 'Writing as thinking' - grep 'productive friction' returned 0 there. Cited with Chen (2026) because both locate the learning cost in the timing and layer of AI involvement. desirable-difficulties genuinely carries productive friction (21 hits) and stays no_change."
 - article: physicsmate-bengali-secondary-physics-benchmark-2026
   date: 2026-10-02
-  integrated: []
+  integrated:
+  - physics-education
   no_change:
   - assessment-validity
   - automated-question-generation
@@ -2476,10 +2485,11 @@
   - science-education
   - stem-education
   - teacher-role
-  reason: Screened PhysicsMate (1,834 curriculum-grounded Bengali physics QA pairs, 1,760-node NCTB graph; LoRA gains +5.5/+15.0/+23.3 points at 0.6B/1.7B/4B). benchmark, physics-education, knowledge-graph, llm-training-and-fine-tuning and global-south/multilingual-learning already assert low-resource STEM evaluation and small-model adaptation; this is a concrete instance, not a new framing.
+  reason: "RE-SCREENED 2026-10-02. Now integrated: physics-education - grep for Bengali, low-resource, NCTB, LoRA all returned 0 on that page, so a curriculum-grounded non-English benchmark was absent; the page's benchmark strand (OmniPhys) is multimodal reasoning, not curriculum QA. multilingual-learning and global-south genuinely carry low-resource work and stay no_change."
 - article: critsly-design-education-ai-critique-2026
   date: 2026-10-02
-  integrated: []
+  integrated:
+  - design-education
   no_change:
   - ai-ed-evaluation
   - ai-feedback-quality
@@ -2507,32 +2517,4 @@
   - simulation
   - usability-research
   - visualization
-  reason: Screened the Critsly/StudioCrit artefact-aware AI critique workspace for design education, whose evidence is deliberately software and synthetic-trace observation (109 and 56 classified evidence rows; 50 completed sessions), not learning gains. design-education, feedback, ai-feedback-quality and human-in-the-loop-ai already cover studio critique and educator review; no validated classifier or learning outcome, so nothing distinguishing for a concept narrative.
-- article: dbworkout-gamified-sql-formative-feedback-2026
-  date: 2026-10-02
-  integrated: []
-  no_change:
-  - accessibility
-  - active-learning
-  - ai-feedback-quality
-  - automated-assessment
-  - automated-question-generation
-  - cs-education
-  - edtech-platform
-  - educational-technology-developers
-  - feedback
-  - formative-assessment
-  - game-based-learning
-  - hallucination-risk
-  - higher-ed
-  - human-in-the-loop-ai
-  - learning-gains
-  - llm
-  - meta-analysis-systematic-review
-  - mixed-methods-research
-  - motivation
-  - qualitative-research
-  - self-report-measures
-  - student-engagement
-  - usability-research
-  reason: Screened the DBWorkout deployment (170 undergraduates; 90-92% perceived value, 87% enjoyment, 22% pressure, but only 42% found feedback sufficient, corroborated by 40% of open-ended responses). It instances existing narratives on feedback/automated-assessment/ai-feedback-quality (tools identify mistakes but rarely guide next steps) and game-based-learning; a single-course preliminary self-report study with no learning measure, so no new prose.
+  reason: "RE-SCREENED 2026-10-02. Now integrated: design-education - grep 'critique|artefact|artifact' returned 3 hits, all about process artifacts as evidence, none about an AI critique workspace. Weave states plainly that the evidence is simulated readiness, not learning gains."
