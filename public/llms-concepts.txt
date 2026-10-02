@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Concepts and FAQs
-> Full text of 218 concept pages and 32 FAQ pages from the AI in Education Knowledge Base: the syntheses of what the research shows, and the questions those syntheses answer. Small enough to attach to a chat that will not take the complete file.
+> Full text of 219 concept pages and 32 FAQ pages from the AI in Education Knowledge Base: the syntheses of what the research shows, and the questions those syntheses answer. Small enough to attach to a chat that will not take the complete file.
 
 Each page below is linked at its address on the site, so an assistant that can browse may prefer to follow the link; the text is included so an assistant that cannot browse can still answer from it. The individual research papers behind these syntheses are linked from each page and are not reproduced here.
 
@@ -61,7 +61,7 @@ How AI supports teaching and learning is the heart of the field. Key concepts in
 
 - **Core pedagogies:** [[pedagogy|pedagogies and teaching strategies]] — the umbrella for the knowledge base's teaching-methods coverage — along with [[pedagogical-patterns|pedagogical patterns]] (the tested sequences those methods resolve into), [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[group-work|group work]], [[project-based-learning|project-based learning]], [[problem-based-learning|problem-based learning]], [[productive-failure|productive failure]], [[inquiry-based-learning|inquiry-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[learning-by-teaching|learning by teaching]], [[scaffolding]], [[socratic-method|the Socratic method]], [[critical-pedagogy|critical pedagogy]], [[pedagogical-partnerships|pedagogical partnerships]], [[storytelling-in-education|storytelling]], [[learning-design|learning design]], [[online-teaching-and-learning|online teaching and learning]], and [[video-education|video in education]].
 - **Learning theories and processes:** the [[learning-theories|learning theories]] umbrella ([[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], [[embodied-learning|embodied learning]], [[community-of-inquiry|community of inquiry]]) sits alongside learner-facing processes like [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[motivation]], [[self-efficacy]], [[self-directed-learning|self-directed learning]], [[metacognition]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[prior-knowledge|prior knowledge]], [[icap-framework|ICAP cognitive engagement]], [[refutation-text|refutation text]], [[retrieval-spacing-interleaving|retrieval, spacing and interleaving]], and [[activity-theory-aied|activity theory]].
-- **Learner engagement and experience:** [[student-engagement|student engagement]], [[help-seeking]], [[social-emotional-learning|social-emotional learning]], [[well-being]], [[creativity]], [[problem-solving|problem solving]], [[mastery-learning|mastery learning]], and [[student-ai-interaction|student–AI interaction]] shape how learners actually encounter and are affected by AI, while the [[social-norms-ai-use|social norms that settle around AI use]] decide how openly any of it can be discussed.
+- **Learner engagement and experience:** [[student-engagement|student engagement]], [[help-seeking]], [[social-emotional-learning|social-emotional learning]], [[well-being]], [[creativity]], [[problem-solving|problem solving]], [[mastery-learning|mastery learning]], and [[student-ai-interaction|student–AI interaction]] shape how learners actually encounter and are affected by AI, while the [[social-norms-ai-use|social norms that settle around AI use]] decide how openly any of it can be discussed. Beyond the course, [[student-support-and-success|student support and success]] covers the institutional-side work — advising, outreach, referral, and the allocation of scarce support — where AI reliably moves task completion but not persistence or graduation.
 
 ## Technologies and techniques
 
@@ -1123,7 +1123,7 @@ The arrival of generative AI has not created the need for academic integrity —
 
 ### The evolution from detection to redesign
 
-- **Detection skepticism:** [[ai-detection]] research and [[governance|institutional]] analyses increasingly find that AI detection tools are unreliable and procedurally unfair. [[detecting-llm-generated-text-latent-prompt|LLM text detection]] faces fundamental limitations. Fully AI-generated submissions can pass through live examination systems largely undetected, and experienced markers do not reliably spot GenAI-authored work. Detection, at best, is a limited, situational tool — not a strategy of first resort.
+- **Detection skepticism:** [[ai-detection]] research and [[governance|institutional]] analyses increasingly find that AI detection tools are unreliable and procedurally unfair. [[detecting-llm-generated-text-latent-prompt|LLM text detection]] faces fundamental limitations. Fully AI-generated submissions can pass through live examination systems largely undetected, and experienced markers do not reliably spot GenAI-authored work. Detection, at best, is a limited, situational tool — not a strategy of first resort. The volume it is nonetheless asked to handle is far from marginal: a six-year analysis of a large-enrollment CS2 course found 45.7% of Spring 2026 students flagged for patterns consistent with LLM-assisted coding ([[argus-academic-integrity-genai-2026|Racovan et al. (2026)]]).
 - **Detection's narrow margin, and cheating as planned behaviour:** [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall and Parapadakis (2025)]] assemble the case that AI amplifies a vulnerability the sector already had — AI-generated text has passed as human-authored in up to 80% of cases, while the evidence they cite puts machine detection at about 80% against 78.4% for human reviewers, too narrow a margin to carry a misconduct finding. Their motivational analysis is the more distinctive contribution: working from Ajzen's Theory of Planned Behavior and Bandura's self-efficacy theory, they report Krou et al.'s (2021) meta-analysis finding that [[self-efficacy]] correlates negatively with cheating while actual ability does not correlate inversely with it at all, so a capable, confident student who reads an assessment as unfair may cheat to regain control. The conclusion follows the same inversion this page documents elsewhere — an assessment a model can answer convincingly is an intellectually trivial assessment, and the failure belongs to the assessment rather than to the student.
 - **Assessment redesign:** [[authentic-assessment]], [[beyond-detection-authentic-assessment-ai-2025|beyond-detection approaches]], and [[ai-assessment-scale-reform|the AI Assessment Scale]] shift the focus from catching AI use to designing assessments where AI use is either irrelevant, transparent, or required to demonstrate a specific capability.
 - **Structural vulnerability of grading:** [[biology-degree-integrity-genai-cheating-2026|Chan et al.]] provide a concrete case study of how current grading is structurally exposed to AI-mediated dishonesty. In a [[biology-education|biology]] department, instructors perceived only in-person proctored exams as minimally vulnerable; outside-of-class assignments were seen as highly vulnerable, leaving about a third of a student's grade highly vulnerable and 80% at least somewhat vulnerable. This frames the integrity problem as partly a *grading-design* problem, motivating rebalancing toward proctored or in-class assessment and [[authentic-assessment|authentic assessment]] designs that are harder to outsource. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] supply the discipline-level counterpart with a whole three-year psychology program: 36 of 40 assessments across 16 types produced passable content at minimum effort, and the four that failed were those requiring presence, visual media, or the student's own dataset. Their reading of *why* it passes is the part that generalizes — marking that rewards fluent structure and good-faith use of the right analysis condones fabricated values and hallucinated references, so the pass boundary rather than detection decides whether AI output is graded as achievement, and the assessment vulnerability "cannot be blamed solely upon student usage."
@@ -1291,6 +1291,7 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
 
 - [[genai-governance-australian-higher-ed-2026]] — Mapping the Authorized Boundary: A Comparative Policy-Vignette Study of Generative AI Governance in Australian Higher Education
+- [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
 
 ---
 
@@ -2927,6 +2928,7 @@ A distinct authorship condition, not only a threat to authorship: when self-form
 ## Identity in the knowledge base's research
 
 - **Creative identity:** **[[t2i-competence-paradox-2026|the T2I competence paradox]]** captures how ease-of-use can undermine the craft-based identity of art and design students.
+- **Felt authorship can decouple from actual originality.** Design students building websites with AI rated their authorship highly (67/100, satisfaction 6.4/7, perceived quality 6.1/7), yet those ratings tracked nothing measurable: their designs were more homogeneous than without AI, and felt authorship correlated with measured originality at r ≤ +0.13 ([[vibe-coding-design-diversity-2026|Boussioux et al., 2026]]).
 - **Professional identity:** multiple studies treat AI's impact on **professional identity** — for example, **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]** argue that graduates need *adaptive capabilities* ([[ai-literacy]], [[distributed-cognition]], [[metacognition]]) precisely so they can sustain a viable professional identity in an AI-integrated future, rather than being defined by — or defined out by — their tools.
 - **Post-human and hybrid identity:** **[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]** theorize the **post-human learner**, whose cognition is genuinely hybrid and distributed across [[biology-education|biological]] and artificial systems — a reframing of identity formation itself in the age of cognitive AI.
 - **Student and academic identity:** **[[zhan-boud-du-authentic-assessment-scoping-review-2025|authentic assessment]]** [[research-methods-aied|research]] connects to identity because [[assessment]] tasks that call for authentic, personal performance help students see themselves as capable practitioners; **[[paternalistic-filter-llm-history-education|history-education research]]** shows how paternalistic AI use can shape how students construct their identity as disciplinary inquirers.
@@ -2985,6 +2987,7 @@ Learner identity connects to [[agency]] (identity is enacted through agentic aut
 - [[genai-professionalization-metaphors-2026]] — GenAI conceptualizations and student professional identity
 
 - [[synthetic-position-self-authorship-2026]] — Authorial suspension: delegated authorship as a self densely voiced yet un-authored (conceptual analysis)
+- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
 
 ---
 
@@ -4676,6 +4679,7 @@ A central design challenge for LLM-based teachable agents is that LLMs are train
 - **[[prompting-teachability-novice-personas-lbt-2026|Prompting for teachability]]** (Miller & Bosch) found that constraint-based prompts explicitly forcing error production (e.g., "answer incorrectly" or "get 2–3 wrong") elicit novice-like behavior far more reliably than persona-, misconception-, or uncertainty-based prompts.
 - **[[socrates-students-instructors-llms-lbt-2025|Engineered knowledge gaps]]** (Yang et al.) design problems the LLM cannot solve without knowledge only the student possesses, making teaching a necessity and countering the passive over-reliance of LLM-as-tutor use.
 - **Explique's apprentice constraints** (Wang et al.) instruct the tutee to (a) stay a novice, (b) keep requesting clarification until the student's explanation is accurate, and (c) never reveal the target explanation — and to *resist* students who try to reverse the roles and have the tutee explain back.
+- **Unlearning as a weights-level route to fallibility.** Machine unlearning suppresses 16 targeted knowledge components in Mistral-7B, dropping accuracy from about 0.75 at a 10% forgetting ratio to below 0.5 at 40% while the base model held near 0.85. The suppressed knowledge returned through supervised relearning and coach-guided dialogue, so the tutee's knowledge level is a dial rather than an assertion ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]]).
 
 ## Questioning, Self-Regulation, and Active Learning
 
@@ -4684,6 +4688,7 @@ Two further affordances recur across the knowledge base:
 - **Questions identify knowledge gaps.** LbT systems use learner-generated questions to expose gaps and reinforce comprehension, and [[teaching-ai-vocabulary-lbt-llms-2026|LLM-generated questions]] replace rigid template-based generators.
 - **Teach-back surfaces what clarification misses.** In a 22-participant post-lecture review system, a Peer agent's reflective teach-back consistently exposed gaps between what learners believed they understood and what they could articulate, which lecture-grounded clarification alone had not revealed ([[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]).
 - **LbT [[scaffolding|scaffolds]] self-[[regulation]].** Teaching a [[conversational-ai|conversational agent]] fosters [[self-efficacy]] and the implementation of self-regulated learning strategies, and connects LbT to [[desirable-difficulties]] — the effortful act of explaining and correcting is itself a productive struggle that AI's friction-removal would otherwise erase.
+- **What predicts tutor learning is knowledge-building, not prior knowledge.** Across 23 middle-school tutors, the share of responses that built knowledge rather than restated it predicted conceptual post-test scores (β = .138, p < 0.05) while prior test scores did not predict who produced them, and low-prior tutors who built knowledge finished level with high-prior peers ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 
 ## Why It Matters in AI Education
 
@@ -4746,7 +4751,9 @@ The [[research-methods-aied|research]] above converges on a few reusable pattern
 - [[socrates-students-instructors-llms-lbt-2025]] — Students as instructors of LLMs (Socrates)
 - [[teaching-ai-vocabulary-lbt-llms-2026]] — Vocabulary learning by teaching AI
 - [[knowloop-confusion-to-consolidation-2026]] — Teach-back consolidation in a conversational review system
+- [[simulating-novice-students-machine-unlearning-2026]] — machine unlearning to hold a tutee at a novice knowledge level, and relearning through teaching dialogue
 - [[simulating-students-java-programming-errors-llms]] — Simulating student errors with LLMs
+- [[knowledge-building-tutor-learning-2026]] — knowledge-building responses, not prior knowledge, predict tutor learning
 
 ---
 
@@ -4769,7 +4776,7 @@ The [[research-methods-aied|research]] above converges on a few reusable pattern
 
 - **Prompt-based scaffolding:** [[guided-llm-scaffolding-independent-learning|Guided LLM scaffolding]] teaches structured [[prompt-engineering|prompting]] as a learning intervention. [[scaffolding-critical-engagement-genai-minority-students|Critical engagement scaffolding]] uses [[culturally-relevant-pedagogy|culturally responsive]] approaches.
 - **Mixed-initiative scaffolding for gaps the learner cannot name:** [[veriforge-narrative-drafting-scaffolding-2026|Sun et al. (2026)]] keep the writer in charge of narrative synthesis while the system takes initiative only over domain discovery, proactively flagging knowledge gaps writers cannot formulate as queries.
-- **Socratic scaffolding:** [[socratic-method|Socratic AI dialogue]] withholds direct answers, using questions to guide discovery — a form of [[desirable-difficulties]] scaffolding.
+- **Socratic scaffolding:** [[socratic-method|Socratic AI dialogue]] withholds direct answers, using questions to guide discovery — a form of [[desirable-difficulties]] scaffolding. As a boundary condition, questioning helps at onset but decays with depth, so the fade rule shifts from eliciting to addressing the error: the benefit falls from a 20-point advantage at onset to 3 points by the fourth stuck turn, while addressing the error rises from +5 to +12 [[guided-ai-tutor-impasse-resolution-2026|Ahtisham et al. (2026)]].
 - **Adaptive fading:** [[intelligent-tutoring|Intelligent tutoring systems]] adjust scaffolding based on [[knowledge-tracing]] estimates, providing more support for unmastered concepts and less for known ones.
 - **Need-triggered adaptive scaffolding in [[medical-education|clinical]] interview training:** the MeduAI-SP [[rct|randomized trial]] ([[ai-standardized-patient-scaffolding-medical-2026|Yang et al., 2026]]; N = 100 third-year medical students) operationalized scaffolding as adaptive, need-triggered support: a turn-level evaluator agent flagged when a learner was stuck, omitted key history, risked premature closure, or impaired rapport, and only then did a [[pedagogical-agent|tutor agent]] issue a [[socratic-method|Socratic]] prompt. Expert annotation of 207 consultations showed that scaffolding need was strongly phase-dependent, rising from about 16.1% of student utterances early in the encounter to 34.8% late (24.1% flagged overall) — empirical evidence that novice consultation support is most needed during integration and diagnostic reasoning, not initial information gathering. The scaffolding condition outperformed a structured progressive-disclosure control on the final OSCE-aligned [[summative-assessment|examination]] (71.8% vs. 55.6%; β = 16.4 percentage points; P = 3.30e-4), with the largest gain in communication (Hedges' g = −0.79).
 - **Hint systems:** [[correct-answer-trap-ai-tutor|AI tutor hint research]] examines when hints help versus when they encourage [[cognitive-offloading|Over-Reliance]].
@@ -4868,6 +4875,7 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Scaffold form must match children's developmental capacity, not only the task (Niu et al. 2026)
 - [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Scaffolds must require representational translation and verification, since students cannot verify what they do not understand (Vega-Baudrit & Rivera Álvarez 2026)
 - [[genai-cognitive-scaffold-geometric-reasoning-2026]] — GenAI as a prompting scaffold that bridges visual intuition to deductive proof in geometry, where visualization alone is insufficient (Davor 2026)
+- [[guided-ai-tutor-impasse-resolution-2026]] — Examining Variation in How Guided AI Tutors Resolve Student Impasses
 
 ---
 
@@ -6555,6 +6563,8 @@ A utility-value intervention is not uniformly beneficial: a scaffolded version p
 
 **The effort paradox and the vicious cycle of assistance.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] argue that motivation is not simply helped or hindered by AI but redistributed: humans generally take the path of least resistance, yet they also seek effort out — the effort paradox — because effort signals that actions matter and because reward attached to process rather than product increases the tendency to strive and persevere. Two claims follow. First, the effort–meaning relationship is an inverted U, so the motivational target is moderate friction, and the risk of frictionless AI is overshooting into too little. Second, a vicious cycle: as AI replaces effort in a domain, the motivational benefits of effort there erode, which makes users more dependent on AI, which erodes motivation further. They also separate supplement from substitute by developmental stage — learners in earlier stages risk bypassing the experiences that build perseverance, while those with established skills can use AI to save time ([[desirable-difficulties]], [[self-efficacy]]).
 
+**The literature measures motivation without a theory of it.** A scoping review of 156 studies from 2003 to 2025 found 133 (85.3%) were guided by no specific motivational theory, the most common variable was a generalized academic motivation (n = 89), and 88 studies (56.4%) came from one national context ([[ai-student-motivation-scoping-review-2026|Li et al., 2026]]).
+
 ## Connections to related concepts
 
 Motivation is the parent construct of [[self-determination-theory]], which specifies the psychological needs (autonomy, competence, relatedness) that sustain intrinsic motivation. It connects to [[student-experience]] as the experiential layer of motivated engagement, to [[student-engagement]] as its measurable dimension, and to [[affective-computing]] for the emotional mechanisms that shape motivation. Motivation also connects to [[cognitive-offloading|Over-Reliance]] (AI reducing [[desirable-difficulties|productive struggle]]), [[self-regulated-learning]] (motivated learners self-regulate), and [[teacher-role]] (motivation applies to educators as well as students).
@@ -6602,6 +6612,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[genai-math-relevance-intervention-2026]] — GenAI relevance dialogue raised relevance as identification but left class interest flat
 
 - [[genai-learning-motivation-meta-analysis-2026]] — Random-effects meta-analysis of GenAI's effect on learning motivation (56 effect sizes, 6,059 students)
+- [[ai-student-motivation-scoping-review-2026]] — 156 studies on AI and student motivation: 85.3% used no motivational theory, and coverage is narrow in construct, level, and country
 
 ---
 
@@ -6812,6 +6823,7 @@ When AI is designed to support reflection rather than replace it, metacognition 
 - **Surfacing interaction patterns that learners cannot see.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li and Weng (2026)]] tracked eye movements, note-taking and speech while 22 interpreting trainees worked with a speech-recognition and machine-translation system, and found that the way students divided [[cognitive-psychology|attention]] between AI output and their own notes was invisible to them: 58.3% changed profile between task stages, and the heaviest readers of AI output scored lowest on delivery fluency and target language quality. The pedagogical consequence is that reflection has to be scaffolded by external evidence, because a learner's strategy is not introspectable — the authors argue for guiding students to describe and evaluate why they worked a given way at each stage.
 
 - **Process evidence is channel-conditional.** In 79 undergraduates working with [[generative-ai|generative AI]], higher-depth monitoring and planning appeared more often in think-aloud units while higher-depth regulation appeared more often in interaction logs, so one record alone understates some processes ([[metacognitive-processes-genai-interaction-logs-2026|Li and Liu (2026)]]).
+- **Reflective practices can emerge from ordinary subject-matter use.** Across eight Danish upper secondary schools, students working with [[generative-ai]] as a cognitive partner developed four practices — explanation, creation, inspiration, and improvement, unfolding into eleven processes — in which reflection appeared in both disciplinary and process registers, though each practice could equally serve substitution ([[ai-cognitive-partner-reflective-thought-2026|Dalsgaard & Prilop, 2026]]).
 - **A reflective scaffold can habituate and replace the self-monitoring it protects.** [[skill-sustaining-reliance-reflective-ai-engagement-2026|de Jong (2026)]] warns that repeated prompts to reflect may wear off through habituation — much as repeated warnings are dismissed automatically — so a professional who reflects only when the system asks may end with neither the tool nor the self-monitoring habit; the paper argues reflective prompts should be treated as a fading skill-building intervention and tested for whether users reflect without them.
 - **A selective gain: metacognitive knowledge without planning and monitoring.** [[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al. (2026)]] split 68 preservice teachers into a group that explained the flipped classroom to a generative AI novice learner (n=33) and a group that questioned a generative AI teacher (n=35). The novice-learner group scored higher on metacognitive knowledge and learning strategies (p < 0.001, Cohen's *d* = 0.41) but not on planning and monitoring (M = 4.01 vs. 3.78, p = 0.062), even though the same group's explanation and application scores rose (r = 0.474 and r = 0.642) while factual recall did not separate the groups (p = 0.416). The split follows the two components in the Introduction: explaining to someone who asks back built declarative awareness of what one knows, but nothing in the design made the learner set a route or check progress, which the authors attribute to task design and cognitive load rather than to the role itself. [[learning-by-teaching]] with AI is therefore a lever on metacognitive knowledge, not automatically on [[self-regulated-learning|regulation]], and the authors recommend adding explicit planning prompts and progress feedback.
 
@@ -6919,6 +6931,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[metacognitive-ownership-human-ai-regulation-2026]] — Metacognitive ownership: a construct for learner governance of standards, judgments and actions
 
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Logs and think-aloud capture different metacognitive processes in GenAI-assisted learning
+- [[ai-cognitive-partner-reflective-thought-2026]] — four practices and eleven processes of reflective thought when students treat AI as a cognitive partner
 
 ---
 
@@ -7103,6 +7116,8 @@ The limited evidence suggests transfer is possible when:
 
 - **Transfer as the criterion that separates learning from assistance.** [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]] build their theory of human-AI learning around transfer under reduced support: assisted performance counts as learning only if the capability persists once the support is withdrawn, which makes transfer the test rather than one outcome among several. Their proposition is directional, that requiring source checking or justification during AI-supported work should improve delayed performance, while repeated low-friction delegation without reconstruction should weaken learners' calibration of their own competence.
 
+- **Guidance is co-located with the work.** Against the negative-transfer pattern in the table above, a 36-participant comparison found learners assisted by a desk robot held their score at 7.0/10 once help was withdrawn while ChatGPT-assisted learners fell to 4.4/10, a 60% higher short-term transfer score ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). The result is short-term transfer measured about 35 minutes after the task, with no delayed retention test, in 36 participants at one campus.
+
 This aligns with [[intelligent-tutoring|AI Tutoring]] research showing that tutoring-specific tools with pedagogical guardrails outperform general-purpose [[conversational-ai|chatbots]], and with [[scaffolding]] principles about fading support as competence grows.
 
 ### Unanswered questions
@@ -7145,6 +7160,7 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[shi-genai-experiential-learning-management-education-2026]] — argues that protected classroom simulations can form decision habits that fail outside them
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — AI-assisted speaking practice raised willingness toward humans but no study observed human speaking
+- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk
 
 ---
 
@@ -7169,6 +7185,7 @@ Prior knowledge activation is one of the most robust findings in [[learning-scie
 
 - **It is the strongest predictor of learning.** Decades of [[research-methods-aied|research]] show that what a learner already knows correlates with [[learning-gains|learning outcomes]] more strongly than almost any other factor, because new information is encoded relative to existing mental models. AI systems that adapt to each learner's prior-knowledge state therefore hold particular promise for efficiency and [[transfer-of-learning|transfer]].
 - **Activation matters, not just possession.** Having prior knowledge is not enough — it must be actively retrieved and connected to the new material. This is why "activating prior knowledge" is a standard [[pedagogy|instructional]] move, and why retrieval practice (recalling what you know before adding to it) improves learning beyond simple re-exposure.
+- **It does not always predict who does the work that drives learning.** In a five-day learning-by-teaching study with 23 middle-school tutors, prior test scores did not predict the share of knowledge-building responses a tutor produced, and low-prior tutors who built knowledge finished statistically level with high-prior peers ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **It shapes interpretation.** Learners interpret new information through what they already believe. When those beliefs are wrong ([[misconceptions]]), prior knowledge can *interfere* with learning, which is why instruction must surface and address misconceptions rather than assume a neutral starting point.
 - **It drives student modeling.** To personalize, an AI system must estimate the learner's prior-knowledge state — the basis of [[knowledge-tracing]], student modeling, and adaptive [[scaffolding]]. The quality of these estimates determines whether adaptation is genuinely helpful or misleading.
 - **Knowledge content determines which process practice recruits.** Whether learning hinges on memory or on induction is set by the prior-knowledge structure of the target: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] follow the [[learning-theories|KLI]] framework in distinguishing knowledge components with constant conditions and responses (facts, acquired through memory and retrieval practice) from those with variable conditions and responses (skills, acquired through induction and generalization to novel inputs) — which is why the optimal mix of worked examples and practice differs for fact content versus skill content.
@@ -7218,6 +7235,7 @@ Generative AI has made prior knowledge a central design consideration rather tha
 - [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble on cognitive offloading
 - [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in LLM synthesis writing
 - [[bridging-instructional-design-framework-math]] — An instructional-design framework for math
+- [[knowledge-building-tutor-learning-2026]] — knowledge-building rather than prior knowledge predicts tutor learning, and low-prior tutors who build knowledge catch up
 - [[rachatasumrit-example-problem-ratio-2026]]
 
 ---
@@ -7841,7 +7859,7 @@ Proactive outreach can raise help-seeking without any change to the learning mat
 
 ## Introduction
 
-Help-seeking is a well-established construct in learning research, closely tied to [[self-regulated-learning]] and [[metacognition]]: it requires learners to monitor their own understanding, recognize a gap, decide help is needed, and formulate an effective request. With the rise of [[generative-ai|generative AI]] tutors, help-seeking has taken on new importance — and new failure modes. Learners often *intend* to use AI for learning but default to asking for direct answers, a gap that research in this knowledge base documents across domains and age groups.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+Help-seeking is a well-established construct in learning research, closely tied to [[self-regulated-learning]] and [[metacognition]]: it requires learners to monitor their own understanding, recognize a gap, decide help is needed, and formulate an effective request. With the rise of [[generative-ai|generative AI]] tutors, help-seeking has taken on new importance — and new failure modes. Learners often *intend* to use AI for learning but default to asking for direct answers, a gap that research in this knowledge base documents across domains and age groups. The classic model assumes a request is for knowledge the asker lacks. Operational support demand complicates that assumption: across 4,093 queries, at least 20.4% asked about the status of a pending submission rather than for knowledge, a class a retrieval-bound assistant served only 1.3% of the time [[student-query-demand-hybrid-ai-support-2026|Gupta et al. (2026)]].([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
 
 ## Productive vs. unproductive help-seeking
 
@@ -7855,6 +7873,7 @@ Research in this knowledge base identifies concrete, observable patterns of unpr
 - **Superficial hint reading** — advancing through hints too rapidly to read them (flagged at a ~4 words/second benchmark), often jumping straight to the bottom-out hint that reveals the answer.([[lak2026-hint-button-unproductive-use]])
 - **Answer-seeking over learning-seeking** — asking the AI to produce the answer rather than to explain or guide. In a study of 98 Grade-9 students using a GenAI tutor, interactions were dominated by instrumental requests with almost no monitoring or evaluation of their own learning — despite students having chosen scaffolded support beforehand. This **intention-behavior gap** was associated with *lower* post-test performance and higher extraneous cognitive load.([[regulating-ai-tutor-adolescent-srl]])
 - **Consulting AI before any independent attempt or human source.** [[uneven-impact-generative-ai-student-learning-2026|Manikonda et al. (2026)]] measure this ordering directly as **early reliance** — consulting GenAI before independent thinking, a traditional search, or reaching an instructor — and find it associated with greater negative impact (β = .402, p = .004) as well as academic benefit (β = .301, p < .001) among 118 students in AI-related courses. The association with harm was absent at low [[ai-literacy|evaluation literacy]] and strongest at high evaluation literacy (b = .688 at +1 SD, p < .001), so students most able to judge AI output reported the most cost from consulting it first: the choice of *whom to ask first* carries a downside that skilfulness at evaluating the answer does not offset. It also shows that using AI for organizing, evaluating, and decomposing problems — **cognitive** rather than early reliance — is the pattern associated with positive impact, so the help-seeking failure mode is one of sequencing rather than of asking at all.
+- **Sustained asking without recovery** — Asking is productive at first but not indefinitely: help requests are the most recoverable impasse type at onset (47.0%) but fall furthest once assistance fails (12.5% at depth six or more), so persistence, not the request itself, is the signal worth tracking [[guided-ai-tutor-impasse-resolution-2026|Ahtisham et al. (2026)]].
 - **Struggling students are least likely to seek help unprompted** — the engagement side of help-seeking. In [[one-click-away-khanmigo-two-year-school-experiment-2026|a two-year Khanmigo RCT (Oreopoulos & Low 2026)]], even with free access and mandatory practice time, the median struggling student messaged the AI tutor in only ~17% of mistake sessions, mostly with bare answers or clicks — consistent with the economics-of-education finding that initiative-dependent interventions reach fewest of the students who would benefit most. [[virtual-tutoring-computer-assisted-learning-takeup-2026|TWiK (Oreopoulos et al. 2026)]] shows take-up is highly responsive to reducing friction (first-session take-up rose 45%→83% after simplifying enrollment), but entry ≠ sustained participation (attendance stayed intermittent).
 
 ### Why unproductive help-seeking hurts learning
@@ -7886,7 +7905,6 @@ Rather than removing help, research recommends re-engineering how it is delivere
 
 - **Delayed hint availability** — requiring minimum engagement time or solution attempts before hints (especially bottom-out hints) are accessible.([[lak2026-hint-button-unproductive-use]])
 - **Moving from *whether* to *how*** — the key design question is how to structure hint delivery aligned with productive-struggle principles, not whether to provide hints at all.([[lak2026-hint-button-unproductive-use]])
-
 ### The uptake problem in LLM tutors
 
 Real-world students frequently **bypass a [[conversational-ai|chatbot]]'s [[scaffolding]]** — not necessarily harmfully, but often because there is a mismatch between the chatbot's pedagogical framing and the student's own learning goals. Evaluation pipelines must therefore measure not just whether a tutor scaffolds, but whether students *take up* that scaffolding, rather than assuming they will.([[rethinking-scaffolding-llm-tutors]])
@@ -7933,6 +7951,7 @@ In fully online [[english-education|composition]], availability of the tool is n
 - [[feedback]]
 - [[active-learning]]
 - [[agentic-ai]]
+- [[student-support-and-success]] — institutional outreach and support allocation, beyond in-course help-seeking
 
 ## Connected Articles
 
@@ -7952,6 +7971,8 @@ In fully online [[english-education|composition]], availability of the tool is n
 - [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
 - [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
+- [[guided-ai-tutor-impasse-resolution-2026]] — Examining Variation in How Guided AI Tutors Resolve Student Impasses
+- [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
 
 ---
 
@@ -8139,6 +8160,7 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[self-regulated-learning]]
 - [[teacher-ai-competency]]
 - [[higher-ed]]
+- [[student-support-and-success]] — campus support services spanning advising, outreach, and referral
 
 ## Connected Articles
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Friction, meaning, and loneliness as a biological signal
@@ -8704,6 +8726,8 @@ Verification can shift how students experience the question: a request to explai
 
 **Overall:** the same AI tool can support or undermine students depending on design and use. The guardrail throughout is to keep the learner doing the cognitively important work while using AI for support ([[scaffolding|scaffold, do not substitute]]), and to attend to the full range of impacts — not just performance. One configuration shifts where the experience begins: when AI generates the course readings themselves rather than helping with homework, students become auditors of their own [[curriculum-design|curriculum]]. In [[sidorkin-ai-generated-course-readings-2026|Sidorkin's (2026)]] graduate course, students valued the contextual specificity and adjustability of the generated texts and 75 percent agreed they learned more than in a comparable course without an AI companion, yet they had to infer source quality from context because Wikipedia links and peer-reviewed citations appeared in the same lists without labels, and four of 24 survey respondents used dependence language, including one describing themselves as "somewhat codependent on the AI for reassurance and structure."
 
+The longest-run outcomes a student experiences — whether they return next term, accumulate credits, and graduate — are institutional rather than instructional, and [[student-support-and-success]] tracks how AI support affects them: task completion moves readily, persistence and graduation far less so.
+
 ## Connections
 
 Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes cognitive work), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior). It is the learner-facing member of the [[stakeholders]] umbrella, and the home for summarizing all the ways AI impacts students.
@@ -8733,6 +8757,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[self-report-measures]]
 - [[student-engagement]] — how AI systems measure and respond to student behavior
 - [[social-norms-ai-use]] — how AI use becomes visible to peers
+- [[student-support-and-success]] — the institutional side of support: what the university does to students, not what happens in a course
 
 ## Connected Articles
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
@@ -8775,6 +8800,116 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[wright-transcription-not-generation-2026]] — Over-inclusive AI rules and the students they catch
 - [[sharma-judgment-visible-genai-assessment-2026]] — Integrity as evaluative judgment rather than compliance
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring's emotional and equity costs for students
+
+---
+
+## [Student Support and Success](https://edtechdev.github.io/aied/concepts/student-support-and-success/)
+
+> **Student Support and Success** — the institutional-side work of helping students stay, progress, and finish: **advising, administrative assistance, outreach, referral, and the allocation of scarce support**. This is the page for what institutions *do to* students rather than what happens *inside* a course. [[higher-ed|Higher Education]] is the broader umbrella for the sector and [[student-experience]] covers how AI lands on the student's own experience; [[learning-gains]] measures whether learning happened. The distinctive finding in this knowledge base is that AI support reliably moves **task completion** — a dated, binary action a student controls and the institution can observe — while leaving **persistence, credits, and graduation** largely untouched. Separating those outcomes is the point of this page.
+
+## Questions to Consider
+
+- Which outcome are you trying to move? A registration reminder and a retention program are different interventions with different evidence, and the research here suggests one does not buy the other.
+- If a model flags a student as at risk, what happens next? Who acts, with what capacity, and what would make the recommendation feasible rather than merely accurate?
+- Support capacity is finite. When AI ranks or allocates it, what does that do to the students a human advisor would have noticed anyway?
+- Who is accountable when an automated message, referral, or risk score is wrong? The student sees the consequence; the institution owns the system.
+- Does your support data travel? Cross-office sharing is what makes targeting possible and is also the most common reason targeting quietly stops.
+
+## Introduction
+
+Student support sits on the institutional side of the relationship. Its work is advising, outreach, referral, and the allocation of finite human and financial capacity; its evidence base is administrative records, registration events, credits earned, and whether a student returns. Generative AI entered this territory later than it entered instruction, and much of the literature here concerns **non-generative** systems — text-message chatbots, early warning models, federated risk prediction — with generative tools arriving as advisors, assistants, and knowledge-base responders.
+
+The distinction that organizes this page is between **what a nudge can do** and **what a trajectory requires**. Support technologies excel at a dated, binary decision: register by this date, complete this form, start Early Start. They have far more difficulty with cumulative outcomes — persistence, credits, graduation — which instruction, finances, employment, family circumstances, and prior preparation all shape. The knowledge base's strongest evidence on this comes from a four-year randomized evaluation that moved registration sharply and graduation not at all.
+
+## The support functions
+
+The research clusters into five functions, and the cluster boundaries matter because they carry different evidence.
+
+**Outreach and communication.** Institutions message students at scale, and the strongest evaluations test whether it changes anything. A four-year randomized study of CSUNny, a non-generative text-message chatbot at California State University, Northridge, followed two undergraduate cohorts (N = 8,708) through eight semesters ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page, 2026]]). A registration reminder sent July 31, 2018 made treated students 34 percentage points more likely to enroll by August 16 and only 2 points more likely by September 15; Early Start reminders produced 11 points more registration by June 7 and 20 points by June 22. Receptivity held: annual opt-out rates never exceeded 4%. A pre-registered multi-semester trial at Georgia State University nudged students in two large asynchronous courses (N = 1,568 and N = 915) with two to three customized messages a week, raising the odds of earning an A or B by four percentage points against 61% of controls and shifting DFW rates by about three points in each course ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
+
+**Advising and academic planning.** Course and grade prediction supplies the planning input — one model jointly predicts which courses a student will take and the grades they will receive ([[trace-course-grade-prediction-2026|Savala, 2026]]), and another predicts module-level progress in large online programming courses with an intrinsically interpretable decision tree ([[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska, 2026]]). Transfer credit is an advising problem in its own right: CourseGraph models course content as knowledge graphs to evaluate external course equivalences for mobile students ([[coursegraph-cs-course-comparison-2026|Nijdam et al., 2026]]). At the institutional level, a review of 155 studies of AI and service delivery in higher education found learning analytics the most common application at 46 studies (29.7%), ahead of chatbots and virtual assistants at 31 (20.0%) and predictive analytics at 29 (18.7%) ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga, 2026]]).
+
+**Referral and support allocation.** Prediction is not a plan, and the gap between them is where the field's sharpest critique sits. SC2R formalizes it as the **actionability gap**: a risk score becomes decision support only when its recommendations are semantically feasible and machine-checkable — constrained by timing, budget, immutability, and availability rather than merely model-valid ([[sc2r-counterfactual-recourse-educational-2026|Le, Abel & Laforge, 2026]]). Whether models can allocate support well is contested empirically: asked to recommend support plans for 4,500 synthetic student vignettes, three LLMs showed limited sensitivity to student need and sharp inconsistency across models ([[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al., 2026]]).
+
+**Academic support access.** Course-specific retrieval systems aim at the students least likely to ask a human. Beacon, built from a single programming module's approved materials, drew high relevance ratings (89%) and was judged by most students to support rather than replace their learning (66.7%), in a small evaluation of 15 students and 4 academics ([[course-specific-rag-help-seeking-higher-ed-2026|Zhou et al., 2026]]). Tutoring take-up is its own problem: a two-year randomized trial of a virtual tutoring layer for struggling students had to test take-up separately from learning, because reaching the students who need support is not the same as providing it ([[virtual-tutoring-computer-assisted-learning-takeup-2026|Fryer et al., 2026]]).
+
+**Administrative assistance.** Leadership and administration are studied as their own application domain, with a ten-domain taxonomy mapping where AI lands in educational leadership ([[sposato-ai-educational-leadership-taxonomy-2025|Sposato, 2025]]). Institution-run services reach past advising into health: an integrated campus well-being framework pairs prevention — improving how feedback is collected — with intervention through mental-health detection ([[ai-campus-wellbeing-tools|Tang, 2026]]). Credentialing sits adjacent: when an agent can complete a course on a student's behalf, a credential that says "earned" loses its meaning, which turns completion records into a design problem ([[credentials-carry-evidence-ai-agents-2026|Srivastava, 2026]]).
+
+## From prediction to support
+
+Risk prediction — early warning systems, dropout models, at-risk classifiers — is **[[learning-analytics]]** territory in this knowledge base, and this page treats *predictive analytics* as the same thing. The modeling work is substantial: supervised classifiers identify students before withdrawal from academic performance, demographic, and enrollment records ([[at-risk-students-ml-prediction|Gheisari & Salarian, 2026]]); a dual-layer framework combines Codeforces behavioral logs (n = 1,816) with psychographic survey data from ten universities to predict attrition in competitive programming ([[predicting-attrition-competitive-programming|Alam et al., 2026]]); and a federated architecture predicts performance and dropout across institutions without sharing raw student data, reaching AUC = 0.918 on OULAD against 0.925 centralized ([[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al., 2026]]). A precision-education vision extends the logic to student digital twins and "preventive student success" ([[precision-education-student-digital-twins-2026|Han et al., 2026]]).
+
+What belongs *here* is the step after the score: **support allocation**. Two findings set its limits. First, the ranking-versus-calibration split — federated risk models kept their AUC under distributional shift while their calibration degraded markedly, so a model that still ranks students correctly can be wrong about how likely each one is to need help. Second, the enabler study: an international Delphi and AHP/SNAP analysis of learning-analytics-to-intervention identified seven enablers and ranked **institutional strategic orientation** highest (priority 0.2072) and most influential on the others (PageRank 0.2430), locating the bottleneck in institutional planning rather than in the models ([[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić, 2026]]). Behavioral clustering of 14,003 student records into six profiles, mapped to recommended learning objects, is the recommendation layer this points toward ([[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem et al., 2026]]).
+
+## The outcome ladder: what each measure actually means
+
+The word "success" hides at least five different measurements, and AI support does not move them equally. Distinguishing them is the most useful thing this page can do.
+
+- **Task completion** is a single, dated, binary action the student controls and the institution observes within days — registering by a deadline, filing a form, enrolling in Early Start. It is where nudges work, and the effects can be large and immediate (34 percentage points, then 2, in the CSUN registration reminder).
+- **Credits (units enrolled and earned)** are cumulative and depend on course availability, sequencing, and how many terms a student can afford. In the CSUN evaluation no significant treatment effect appeared on units enrolled, earned, or cumulatively earned.
+- **Persistence** is continuation across terms — enrollment by semester sequence — and it did not move either, at N = 8,708 with power to detect effects of 0.05 standard deviations or larger.
+- **Retention** is the institutional rate that persistence produces, and it is usually reported at the program or cohort level. Course-level DFW rates are the closest thing to a leading indicator in this literature, and they moved modestly (−3 percentage points in each course of the Georgia State trial).
+- **Graduation** is the terminal, multi-year outcome. Control mean graduation by the fourth year was 0.190 in the CSUN study, and the treatment effect on it was not statistically significant.
+
+The authors' explanation for the pattern is the page's central claim: a reminder acts on a decision that is discrete and near-term, while persistence and GPA are cumulative and shaped by instruction, finances, employment, family circumstances, and prior preparation. They conclude that communication through a tool like this, **on its own**, may be insufficient to change them — and that the nulls are precise rather than underpowered. Early registration still carries institutional value for staffing and space planning even where learning outcomes do not move.
+
+## Equity and the risks of acting on a score
+
+Support systems act on students, which makes their failure modes different from a tutor's. A stress test of six post-hoc fairness interventions on a replicated vendor-controlled early warning system built from 168,550 student records found the interventions failing to deliver the fairness they promised ([[fairness-theatre-early-warning-systems-2026|McConvey et al., 2026]]). A student-advocacy review organizes the risk surface around admissions, recruitment and financial aid, and **student-success services** — the areas where institutional AI bears most directly on students ([[students-at-stake-ai-deployment-risks-2026|Student Defense, 2026]]). Privacy and equity are structural here rather than incidental: federated learning exists because sharing student records across institutions is unacceptable, and the human-in-the-loop component in the CSUN program — administrators answering what the chatbot could not, then folding the answer back into its knowledge base — is what the authors argue reaches students who ignore email and phone.
+
+## The institutional conditions
+
+Durability in this literature is an organizational property, not a technical one. The CSUN program survived four years because the channel was centrally owned, jointly overseen by the Office of Undergraduate Studies and the Office of the Registrar, and written by a single communication specialist for a consistent voice. Its targeting decayed for an equally organizational reason: because student data was not centralized, a financial-aid reminder required one office to identify non-filers and another to pass the subset along, and that friction was burdensome enough that targeted campaigns fell from 36% of all campaigns in AY2018-19 to 6% by AY2022-23. Where the work sits, who owns the data, and whether cross-unit coordination is sustainable decide what a support system can actually do — which is why this page carries [[change-management]], [[governance]], and [[educational-policy-ai]] as facets rather than treating deployment as an IT decision.
+
+## Connections to related concepts
+
+Student support connects to [[student-experience]] as the student-facing counterpart — the same technologies seen from the student's side rather than the institution's — and to [[help-seeking]] for the mechanism by which students who need support actually obtain it; outreach and course-specific assistants are both attempts to lower the cost of asking. [[learning-analytics]] owns the prediction that feeds allocation, [[student-modeling]] and [[knowledge-tracing]] the models underneath it, and [[recommender-systems-and-learning-paths]] the recommendation layer. It connects to [[well-being]] through campus mental-health and prevention systems, to [[career-development-and-readiness]] as the outcome that follows completion, to [[equity-in-ai-education]] and [[privacy]] through the risks of acting on scores, and to [[administrator]], [[stakeholders]], and [[change-management]] as the roles and processes that decide whether any of it is sustained. [[learning-gains]] is the adjacent measurement node: this page's outcomes are administrative rather than instructional, and the two do not move together.
+
+## Connected Concepts
+
+- [[higher-ed]] — the sector umbrella this page sits under
+- [[student-experience]] — how AI lands on the student's own experience
+- [[learning-gains]] — whether learning happened, the instructional outcome this page does not measure
+- [[learning-analytics]] — prediction, early warning, and predictive analytics
+- [[student-modeling]] — the modeling layer beneath risk prediction
+- [[knowledge-tracing]] — fine-grained skill and mastery estimation
+- [[recommender-systems-and-learning-paths]] — recommending courses, resources, and paths
+- [[help-seeking]] — how students come to ask for support
+- [[well-being]] — campus mental health, prevention, and intervention
+- [[career-development-and-readiness]] — the outcome after completion
+- [[administrator]] — the role that owns and runs support systems
+- [[stakeholders]] — who has a claim on institutional AI decisions
+- [[change-management]] — sustaining the program after the pilot
+- [[governance]] — policy and oversight for institutional AI
+- [[educational-policy-ai]] — the policy context for institutional deployment
+- [[equity-in-ai-education]] — who the system reaches and who it misses
+- [[privacy]] — student records, data sharing, and federated approaches
+- [[human-in-the-loop-ai]] — human judgment inside an automated support flow
+- [[rct]] — the design behind the strongest evidence here
+
+## Connected Articles
+
+- [[mata-sustaining-ai-enabled-student-support-2026]] — four-year randomized evaluation of a university support chatbot: task completion moved, graduation and GPA did not
+- [[chatbot-outreach-course-performance-2026]] — pre-registered multi-semester outreach trial: higher A/B rates, modest DFW shifts, one demographic exception
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4,500 synthetic vignettes: limited sensitivity to student need and cross-model inconsistency in support recommendations
+- [[sc2r-counterfactual-recourse-educational-2026]] — the actionability gap: recourse must be feasible and checkable, not merely model-valid
+- [[fairness-theatre-early-warning-systems-2026]] — six post-hoc fairness interventions on a vendor early warning system built from 168,550 records
+- [[at-risk-students-ml-prediction]] — supervised classifiers identifying students before withdrawal
+- [[predicting-attrition-competitive-programming]] — behavioral logs plus psychographic survey predicting attrition
+- [[villegas-ch-federated-explainable-learning-analytics-2026]] — federated risk modeling across institutions without sharing raw student data
+- [[precision-education-student-digital-twins-2026]] — digital twins and "preventive student success" as a vision
+- [[learning-analytics-to-educational-interventions-2026]] — seven enablers for closing the loop from analytics to intervention
+- [[course-specific-rag-help-seeking-higher-ed-2026]] — a course-specific assistant aimed at lowering the cost of asking for help
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — tutoring take-up tested separately from learning
+- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — six behavioral profiles mapped to recommended learning objects
+- [[trace-course-grade-prediction-2026]] — joint prediction of courses and grades for planning
+- [[zhang-ml-student-progress-programming-2026]] — interpretable module-level progress prediction
+- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 155 studies of AI, leadership, and service delivery in higher education
+- [[sposato-ai-educational-leadership-taxonomy-2025]] — ten-domain taxonomy of AI in educational leadership
+- [[students-at-stake-ai-deployment-risks-2026]] — student-side risk surface: admissions and aid, student-success services, and instruction
+- [[ai-campus-wellbeing-tools]] — campus well-being support spanning prevention and intervention
+- [[coursegraph-cs-course-comparison-2026]] — course equivalence for transfer credit and mobility
+- [[credentials-carry-evidence-ai-agents-2026]] — what a completion record means when an agent can do the work
 
 ---
 
@@ -8926,6 +9061,7 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[higher-ed]]
 - [[student-experience]]
 - [[well-being]]
+- [[student-support-and-success]] — the outcomes that follow completion: persistence, retention, and graduation
 
 ## Connected Articles
 - [[mccorkle-aligned-genai-course-policy-2025]] — Assessment-vs-workforce-competency trade-offs decided task by task (McCorkle 2025)
@@ -9637,6 +9773,10 @@ A preregistered cross-sectional study (N = 100 tertiary students) provides the f
 
 A major promise of vibe coding is that it lets non-programmers — including [[teacher-role|teachers]] and domain experts — build their own software, an LLM-era form of end-user development. A [[gaide-vibe-coding-k12-teachers|GAIDE framework study]] showed K-12 teachers (non-programmers) using vibe coding in an eight-week workshop to create AI-powered learning tools, raising their [[ai-literacy|AI literacy]] and demonstrating "learning-by-creating" as a professional-development model. In higher education, an instructor rapidly built a [[vibe-coding-programming-process-visualizer|programming-process visualizer from IDE activity logs]] via vibe coding in a matter of days, making students' programming processes visible for teaching and [[academic-integrity]] review. These cases position vibe coding not merely as a learner skill but as an authoring capability that [[educational-development|reshapes who can create educational technology]].
 
+### Design homogenization: access without diversity
+
+Vibe coding's end-user-development promise is about who can build, not what gets built. In a course deployment, 73 students building sites for distinct businesses on one vibe-coding platform produced roughly a dozen distinct designs, and felt authorship did not track measured originality ([[vibe-coding-design-diversity-2026|Boussioux et al. (2026)]]). Lowering the barrier to building may standardize the output — a cost the access promise does not advertise.
+
 ### Learning, agency, and the risk of over-reliance
 
 Vibe coding reopens core questions about what is learned when AI automates implementation. Because the user does not read code, they must trust the model's behavior — which makes vibe coding a high-stakes case of the tension between [[agency]] and [[cognitive-offloading|over-reliance]] that runs through AI-assisted programming. Curricula are responding by shifting from teaching implementation toward teaching how to direct, verify, and audit AI-generated artifacts (see [[reshaping-cs-education-genai|reshaping undergraduate CS]] and [[agentic-ai|agentic software engineering]]). Vibe coding also changes the learner's epistemic position: success depends less on writing code than on expressing intent precisely and evaluating behavior against goals, competencies closer to [[computational-thinking|computational thinking]] and structured writing than to traditional syntax mastery.
@@ -9671,6 +9811,7 @@ A faculty-level case study in this knowledge base supplies the organizational la
 - [[reshaping-cs-education-genai]] — Reshaping Undergraduate CS Education for Generative AI
 - [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
 - [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — AI intrapreneurship: faculty building their own tools, and the organizational enablers that decide whether the impulse survives (Zimmer 2026)
+- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
 
 ---
 
@@ -10234,7 +10375,7 @@ Two strands shape the social side of robotics in education.
 
 ### Embodiment and pedagogy
 
-A defining theme is that robots are effective when they support genuine learning goals — not as isolated technical exercises. The value of a robot depends on the pedagogical context: teaching computational thinking ([[computational-thinking]]), supporting [[stem-education|STEAM]], building [[cs-education|programming]] skills, motivating learners ([[motivation]], [[student-engagement|engagement]]), or supporting [[social-emotional-learning]] and [[equity-in-ai-education|inclusion]]. Robotics also connects to [[project-based-learning]], [[game-based-learning]], and [[experiential-learning]]. Key design considerations include preserving learner [[agency]], building [[trust]], supporting [[self-efficacy]], and grounding learning in [[embodied-learning|embodied interaction]]. In [[language-learning]], [[robot-assisted-language-learning-meta-analysis-2026|meta-analytic evidence]] points to the effectiveness of embodied robot-assisted language learning.
+A defining theme is that robots are effective when they support genuine learning goals — not as isolated technical exercises. A desk-mounted robotic projector tied with laptop ChatGPT while help was available (6.7 vs. 7.3/10, p = .41) but held its score after withdrawal (7.0 vs. 4.4/10, p = .003), a 60% higher short-term transfer score — a task-dependent gain the authors attribute to spatial co-location rather than general replacement ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). The value of a robot depends on the pedagogical context: teaching computational thinking ([[computational-thinking]]), supporting [[stem-education|STEAM]], building [[cs-education|programming]] skills, motivating learners ([[motivation]], [[student-engagement|engagement]]), or supporting [[social-emotional-learning]] and [[equity-in-ai-education|inclusion]]. Robotics also connects to [[project-based-learning]], [[game-based-learning]], and [[experiential-learning]]. Key design considerations include preserving learner [[agency]], building [[trust]], supporting [[self-efficacy]], and grounding learning in [[embodied-learning|embodied interaction]]. In [[language-learning]], [[robot-assisted-language-learning-meta-analysis-2026|meta-analytic evidence]] points to the effectiveness of embodied robot-assisted language learning.
 
 - **Pathways to learning AI-powered robotics.** [[educational-robotics-pathways-2026|A qualitative study]] of high school students in a robotics+AI curriculum found learning through real-world practice, designing, and playful creative expression (constructionist, epistemological-pluralist lens).
 
@@ -10289,6 +10430,7 @@ A defining theme is that robots are effective when they support genuine learning
 - [[teaching-with-robots-five-types-perspective-2026]] — Five functionally distinct types of classroom robot, from scripted demonstration to one-to-one empathic dialogue (Christ et al. 2026)
 - [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: a hubs-based framework that treats technical mentorship capacity and hub geography, not hardware, as the constraint on rural K–12 robotics programs (Jacobson et al. 2026)
 - [[teaching-rl-humanoid-robotics-high-school-2026]] — Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform
+- [[aifred-desk-robotic-ai-guidance-2026]] — A desk-mounted robotic projector: co-located guidance preserved transfer where laptop ChatGPT lost it
 
 ---
 
@@ -10841,6 +10983,8 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[vi
 - [[cognitive-diagnosis]]
 - [[feedback]]
 - [[recommender-systems-and-learning-paths]]
+- [[student-support-and-success]] — the models beneath risk prediction and support targeting
+
 ## Connected Articles
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
@@ -10937,6 +11081,8 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[llm]]
 - [[simulating-students]]
 - [[recommender-systems-and-learning-paths]]
+- [[student-support-and-success]] — fine-grained mastery estimation feeding support decisions
+
 ## Connected Articles
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[multimodal-item-parameter-estimation-2026]]
@@ -11075,6 +11221,8 @@ AI-mediated approximations sharpen the question the page cares about: whom the s
 
 The defining difficulty of student simulation is that LLMs are trained to be "helpful assistants" that produce correct, polished answers. Yet real students are imperfect — they make characteristic mistakes, hold misconceptions, and learn gradually. A simulated student that answers perfectly (or too randomly) is not a valid model of a learner. Research frames this as the **competence paradox**: broadly capable LLMs asked to emulate partially knowledgeable learners produce unrealistic error patterns and learning dynamics. [[llm-simulating-student-scientific-thinking-2026|Nguyen and Cao (2026)]] give that drift a direction. Against lesson-embedded student ideas drawn from 49 NGSS-aligned science lessons, six models kept most ideas inside the expected knowledge scope and roughly two-thirds at or below the target reading level, but overshot exactly where the learner was youngest: elementary and middle-school ideas more often exceeded the target grade's knowledge scope and reading level, while the corpus as a whole leaned toward broader reasoning, more technical vocabulary and fewer uncertainty markers ("maybe", "it seems") than the lesson ideas. Model choice is not one-dimensional either — a system that matches lesson ideas closely can still pitch them above grade, so the repair is usually instructional, since an explicit grade-level re-prompt lifted most models back into range. Addressing it requires constraining the simulation so it reflects a genuine epistemic state — what the learner knows, how errors are structured, and how state evolves — rather than the model's full competence. Techniques include cognitive prototypes grounded in [[knowledge-graph]] or [[knowledge-tracing]] models, explicit epistemic state specifications, and state-transition models of learning rather than simple persona-conditioned role-play.
 
+A different lever removes the knowledge instead of constraining the output. Suppressing 16 targeted knowledge components in Mistral-7B dropped accuracy from about 0.75 at a 10% forgetting ratio to below 0.5 at 40% while the base model held near 0.85, and the suppressed knowledge proved recoverable through supervised relearning and coach-guided dialogue ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]]).
+
 Persona stability is an interaction-design problem, not a model-choice one: crossing five LLMs with three prompt designs and four ADHD-intensity personas, scripted task-anchored interactions eliminated observer-rated behavioral drift — up to 97% less than unscripted dialogue — and without explicit persona instructions baseline student representation skewed toward high ADHD symptoms ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase & Leins (2026)]]).
 
 The opposite failure also occurs: in a blinded study, expert annotators misclassified 164 of 196 (83.7%) LLM-generated Java submissions as human-written, so a simulator's errors can be functionally indistinguishable from authentic ones — though alignment with real errors fell as problem difficulty rose ([[simulating-students-java-programming-errors-llms|Keramati et al. (2026)]]).
@@ -11091,6 +11239,8 @@ The failure is quantified: across seven models from 4B to 120B parameters, simul
 ### Connection to the knowledge base
 
 Simulating students sits at the intersection of [[simulation]], [[student-modeling]], and [[knowledge-tracing]]. It is a distinct use of [[generative-ai]] in education (modeling learners rather than tutoring them) and an application of [[agentic-ai]] multi-agent systems. It supports [[intelligent-tutoring]], [[adaptive-learning]], [[personalized-learning]], and [[teacher-role]] development, and it overlaps with patient simulation for [[professional-training|professional training]] (e.g., [[special-education]] and [[medical-education|medical education]] contexts). At the paradigm level, [[agent-based-educational-science-2026|Zhang, Jiang and Tang (2026)]] extend this beyond evaluation: their position paper argues that educational science suffers a structural mismatch between its theory and its data and method apparatus, and proposes agent-based educational science, in which agents model learners, teachers, [[parents-and-families|parents]] and peers while the simulation apparatus itself — not the individual agent — serves as the research instrument, generating time-extended developmental trajectories and counterfactual designs that are slow, costly or ethically infeasible to run in classrooms, with empirical data recast as calibration, validation and boundary conditions. The paper reports no empirical validation of any of this: Student Development Agents are specified conceptually only, and the authors' own review concedes that [[llm|LLMs]] still miss inter-individual variability and that validating generative social simulation remains the field's unresolved challenge, so the claim that simulation would change how evidence and replication work is a proposal rather than a demonstrated result.
+
+An empirical companion comes from the same group: a student development agent predicts 42 real students' post-course non-cognitive outcomes on the MAIC platform, beating the mean pre-course baseline on RMSE in all five dimensions ([[student-development-agent-risk-free-simulation-2025|Jiang & Zhang, 2025]]). Its target is development rather than behavior — the agent's state feeds into its next actions — and prototyping on agents is argued to keep students out of a study's most uncertain stage.
 
 ### Simulating students vs. student modeling
 
@@ -11113,6 +11263,10 @@ A recurring question is whether simulating a distribution of learners is the bes
 Two 2026 threads sharpen the practical value of simulation. First, **authentic-data student models** — [[teachlm-post-training-llms-education|TeachLM]] trains a student model on 100,000 hours of real one-on-one tutor–student interactions (with rigorous anonymization), producing synthetic learners that enable fast, scalable, reproducible multi-turn evaluation of tutor behavior; this addresses the low authenticity and diversity of purely prompt-engineered student simulators. Second, **interactive instructional simulacra** — [[educasim-cs1-instructional-practice|EducaSim]] uses generative agents (with personas, course-grounded memories, and an LLM-as-judge speech oracle) to simulate a small-group section for teachers-in-training, adding runnable-code and voice interaction plus structured post-session feedback and self-reflection, and demonstrates low-cost, positive-uptake experiential [[pedagogy|teaching practice]] at the scale of massive [[online-teaching-and-learning|online courses]]. Both point to simulation serving not only evaluation but hands-on teacher preparation.
 
 A third 2026 thread concerns *how* a simulator is built rather than what it is used for, and it converges on one conclusion: prompting sets a ceiling that training removes. [[swim-student-writing-simulation-2026|SWIM (Do, Kontak and Sachan, 2026)]] reformulates student writing simulation as proficiency-conditioned essay generation and compares rubric-grounded prompting, supervised fine-tuning on real score-essay pairs, and GRPO with an [[automated-essay-scoring]]-derived Proficiency Alignment Reward, scoring each generated essay against its target trait profile with Quadratic Weighted Kappa. Prompting gave limited control even to strong proprietary models (best average trait QWK 0.577 for Claude Sonnet, 0.422 for GPT-5.4, near zero for prompting an open 7B model), it aligned content-oriented traits far better than form (0.695 against 0.458), and it produced an idealised high-proficiency population, with a mean normalized Overall score of 0.74 against 0.58 for real students and a median length of 304 words against 167. Supervised fine-tuning moved a 7B model to 0.474 ± 0.023 and GRPO to 0.618 ± 0.005, the gains held on two independent scorers the policy never trained against, and the trained models recovered the human score and length distributions without any length supervision; authentic low-proficiency form stayed hardest, since trained models recovered syntax but wrote too few spelling and grammar errors while prompting simulated weakness mainly through superficial corruption. The same lesson arrives from the opposite direction in [[misconception-acquisition-dynamics-llms-2026|Liu et al. (2026)]], who instruction-tuned three small models to hold algebra misconceptions: data *[[writing-education|composition]]* decided the outcome, because a single misconception overgeneralised and degraded correct solving until correct examples were mixed in, several misconceptions trained jointly without cost, and no misconception was acquired from final-answer-only supervision at any data size, leaving step-level solution traces as the binding requirement.
+
+Benchmarking nine simulation methods against seven reference-based metrics on 382 held-out math dialogues, prompting trailed fine-tuning on dialogue acts (0.4998 against 0.6840), ROUGE-L (0.1648 against 0.3212) and cosine similarity (0.5460 against 0.7390) ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Yet the best method tested, preference optimization on an 8B model, beat supervised fine-tuning only marginally and was worse on errors, and a three-tutor human evaluation reproduced that ranking.
+
+Architecture can enforce what prompting cannot: a neuro-symbolic simulator imposing self-regulated learning structure through a semi-Markov controller and flaw-injected knowledge tracing reached behavioral divergence of 0.31 against a 0.53 baseline ([[beagle-grounded-learner-emulation-2026|Wang et al., 2026]]). Injecting its metacognitive vocabulary into baselines never beat 0.63, removing the symbolic controller pushed divergence to 6.81, and in a 71-rater Turing test its traces were indistinguishable from real students (52.8%, d′ = 0.15).
 
 ### Auditing AI with simulated students
 
@@ -11171,7 +11325,11 @@ The 2026 durable-skills work inverts the usual direction of simulation. Instead 
 - [[misconception-acquisition-dynamics-llms-2026]] — what has to be in the training data before a simulator holds a misconception at all
 - [[llm-distractor-generation-student-reasoning-2026]] — trace-level analysis of how models simulate incorrect student reasoning
 - [[llm-simulating-student-scientific-thinking-2026]] — six models against 8,820 lesson-embedded science ideas: where simulated reasoning overshoots young learners' scope, vocabulary and certainty
+- [[simulated-students-tutoring-dialogues-2026]] — a seven-metric benchmark of nine student-simulation methods, with a three-tutor human evaluation
+- [[simulating-novice-students-machine-unlearning-2026]] — machine unlearning as a way to put a simulator at a stable novice knowledge level, and relearning through teaching dialogue
+- [[student-development-agent-risk-free-simulation-2025]] — predicting students' post-course developmental outcomes on a multi-agent platform without exposing them to the intervention
 - [[preservice-teachers-noticing-ai-simulations-2026]] — three weeks of preservice teachers' attending, interpreting and shaping in an equal-sign chatbot simulation, and how the design steers what they notice
+- [[beagle-grounded-learner-emulation-2026]] — a neuro-symbolic simulator that enforces SRL structure architecturally rather than by prompting, and passes a human Turing test
 
 ---
 
@@ -11284,7 +11442,7 @@ This relational-intensity framing is the "not a monolith" counterpoint to the fi
 
 **Start from open tooling where possible.** Open-source agentic tutoring frameworks (e.g. [[deeptutor]]) lower the barrier to a citation-grounded, difficulty-calibrated tutor you can inspect and extend.([[deeptutor]])
 
-Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhang et al. (2026)]] evaluate whether LM tutors adapt to learners' evolving understanding at teacher-annotated decision points. They find frontier models default toward over-helpfulness and rarely push for rigor, and that evaluation-aware prompting improves but does not fully solve adaptivity. A systematic view of the RL-driven branch of this adaptation comes from [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]], whose review of 89 RL-in-education studies finds classical RL policies more consistently effective than Deep RL and RL adaptation delivering significant gains more often for guidance-related tasks (hints, [[feedback]]) than for content scheduling — evidence that how an ITS adapts scaffolding matters as much as which algorithm it uses.
+Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhang et al. (2026)]] evaluate whether LM tutors adapt to learners' evolving understanding at teacher-annotated decision points. They find frontier models default toward over-helpfulness and rarely push for rigor, and that evaluation-aware prompting improves but does not fully solve adaptivity. Each additional impasse turn lowered next-turn recovery odds by 12.7%, and questioning lost value with depth (scripted question × depth AOR = 0.78) while addressing the student's error grew more beneficial (AOR = 1.14) — a tutor's escalation, not just its answer-withholding, must change as an impasse persists ([[guided-ai-tutor-impasse-resolution-2026|Ahtisham et al. (2026)]]). A systematic view of the RL-driven branch of this adaptation comes from [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]], whose review of 89 RL-in-education studies finds classical RL policies more consistently effective than Deep RL and RL adaptation delivering significant gains more often for guidance-related tasks (hints, [[feedback]]) than for content scheduling — evidence that how an ITS adapts scaffolding matters as much as which algorithm it uses.
 - **Adapting the type of cognitive engagement, not just the intensity.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] held difficulty constant and varied the worked-example form — guided (active) or buggy (constructive) — via a BKT rule and a deep-RL policy, both beating random assignment (posttest 72.3 and 72.5 vs 65.7).
 
 - **[[deceptive-overgeneralization-adaptive-learning-2026|Deceptive overgeneralization (An et al. 2026)]]** shows ITS mastery stopping rules (BKT, 95% threshold) can end practice before learners learn *when to withhold* a skill: learners who overgeneralized misapplied actions on first "do-not-act" items at 61.5%–100%, and targeted refrain-practice with constraint-naming [[feedback]] reduced this to near-floor. Correctness-based mastery inference is necessary but not sufficient for ITS adaptivity.
@@ -11349,6 +11507,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — A multi-discipline RCT of a course-grounded, LMS-embedded AI tutor: final grades down 0.37 SDs in the exact-match sample, platform participation down 0.90 SDs, with no instructional integration (Liu et al. 2026)
+- [[guided-ai-tutor-impasse-resolution-2026]] — Variation in how guided AI tutors resolve student impasses, and why escalation must change with depth
 
 ---
 
@@ -11675,6 +11834,7 @@ The same literature has begun to propose remedies for narrowing, though not yet 
 - [[self-directed-learning]] — Learner-maintained pathways and lifelong navigation
 - [[lifelong-learning]] — Graph-structured learning beyond a degree sequence
 - [[trust-calibration]] — Matching reliance to recommendation reliability
+- [[student-support-and-success]] — recommending support, resources, and academic paths
 
 ## Connected Articles
 
@@ -12027,6 +12187,7 @@ Human-in-the-loop design has become central to the knowledge base's [[agentic-ai
 - **Criteria visible before review raise agreement.** [[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] found that surfacing trustworthiness metrics to reviewers as they compared LLM responses lifted inter-rater agreement from Krippendorff's alpha 0.3987 to 0.4931, while adding further measures added cognitive overhead without return.
 - **Bounded agency as an architecture, not a disclaimer.** [[ilieva-agentic-genai-higher-education-2026|Ilieva et al.'s (2026)]] AGAI-HE framework for [[agentic-ai|agentic]] learning support builds supervision into the model itself, as a third layer alongside the pedagogical-workflow and agentic-support layers: it defines acceptable AI use, pedagogical boundaries, [[privacy]] rules, [[ai-use-disclosure|disclosure requirements]], source verification, instructor checkpoints, [[academic-integrity|integrity]] mechanisms, and final human accountability, and requires every agentic function to trace to a learning requirement, assessment purpose, or governance control. It is a concrete instantiation of the principle that HITL is a system-design property rather than a policy statement — and the authors' 130-student perception study is a reminder that adding agentic orchestration under that oversight did not, by itself, register as better learning support than a chatbot.
 - **How often the human looks is itself a design decision.** [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]] separates the *frequency* of oversight from its placement: high-frequency HITL, reviewing every AI output before it reaches students, buys quality control, rapid error detection, accountability and ongoing calibration but can cancel out the efficiency that motivated automation and bottleneck peak marking periods; low-frequency HITL, spot-checking samples and reviewing only flagged cases, scales and shortens turnaround but risks errors propagating undetected across submissions, weakens accountability, and creates an [[equity-in-ai-education|equity]] problem if some students receive more thorough human review than others. Rather than prescribing a universal answer, the framework requires the trade-off to be made explicitly against disciplinary error tolerances, whether the assessment is [[formative-assessment|formative]] or [[summative-assessment|summative]], cohort size and institutional resources — and sets a default in the opposite direction from the usual efficiency argument: begin with high-frequency oversight and scale it back only when substantial evidence demonstrates acceptable reliability, security and fairness, so the burden of proof rests on showing that *less* oversight is safe. The paper also warns that the principles behind such oversight may shift staff effort rather than reduce it, leaving net efficiency gains an open empirical question.
+- Deployed human oversight can mean approval routing rather than quality judgment: in a hybrid query system the acceptance field encoded only whether the resolver differed from the asker, and no measure assessed answer quality [[student-query-demand-hybrid-ai-support-2026|Gupta et al. (2026)]].
 
 ## Where HITL appears in the knowledge base's research
 - **Automated assessment and grading:** HITL systems combine AI generation/scoring with human validation across short-answer grading ([[cong-confidence-asag-2026]]), self-explanation assessment ([[llm-automated-assessment-student-self-explanations]]), and [[automated-essay-scoring|essay scoring]] ([[psyscore-essay-scoring-zpd-feedback]]). [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] instantiate this in high-stakes, handwritten general-[[chemistry-education|chemistry]] grading: because a [[multimodal]] LLM's reliability varies by response format (textual and chemical-reaction answers are reliable while drawing and graphing score worse than random) and false positives go undetected by students, they convert raw AI scores into a selective accept/deferral policy using confidence filters — partial-credit thresholds, an [[item-response-theory|IRT]]-based risk threshold, and problem-type exclusion — deferring uncertain and graphical items to humans, an approach the authors tie to [[regulation|regulatory]] frameworks that designate AI in [[assessment|educational assessment]] as high-risk and mandate documented human oversight.
@@ -12072,6 +12233,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[agentic-ai]]
 - [[cognitive-offloading]]
 - [[cognitive-surrender]]
+- [[student-support-and-success]] — human judgment inside an automated support flow
 
 ## Connected Articles
 - [[lee-learner-question-types-ai-education-2026]] — Expert-labeled question classification: humans govern labeling, augmentation, and error analysis (Lee, Atif & Kang 2026)
@@ -12103,6 +12265,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 
 - [[llm-grading-assistants-public-health-2026]] — Identical LLM grading reruns on different days reproduce at only Krippendorff's alpha 0.625
 - [[when-students-prefer-ai-scoring-feedback-2026]] — Undergraduates prefer human scoring for high-stakes work and AI as an assistant, not a replacement
+- [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
 
 ---
 
@@ -12154,6 +12317,8 @@ A direct empirical test of the prescriptive layer comes from [[lopez-pernas-llm-
 
 A complementary, teacher-centered test of how analytics reach the classroom comes from [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]], who designed a learning analytics dashboard (DashED) to communicate ML-derived [[self-regulated-learning]] profiles to teachers in two blended contexts. Their 100-teacher study shows that the *presentation* of analytics is itself a barrier to action: teachers systematically preferred simpler, more traditional charts (bar plots, pie charts) even when more complex designs (e.g., heatmaps) yielded richer insights, and higher [[visualization|visualization literacy]] predicted deeper, more detailed interpretation (e.g., more teachers identifying trends in time-series data). For group comparison, teachers favored superposition over juxtaposition and full-information plots over explicit difference encoding. The actions teachers proposed were shaped by the content represented and their [[teacher-role]] level rather than the plot type — university teachers favored weekly tests and course-level adaptation, while vocational teachers proposed direct, individualized coaching — underscoring that the prescriptive step depends as much on how analytics are visualized and contextualized as on the underlying model. Their finding is cautionary: correlations between LA indicators and recommended support were mostly weak, cross-model recommendations diverged sharply for the same student, and support was frequently allocated regardless of who needed it most. The authors conclude that current LLMs are **not yet reliable as prescriptive models for student support at scale**, reinforcing that the prescriptive step still requires validation, fine-tuning, and human oversight rather than off-the-shelf automation.
 
+The step after the score — who gets support, and whether it was allocated where it was needed — belongs to [[student-support-and-success|student support and success]], which carries the outreach, referral, and allocation evidence this page's prescriptive layer feeds.
+
 ### Methods and network analysis
 
 Network methods are core to learning analytics: [[network-analysis|transition network analysis (TNA)]] models temporal sequences of learner actions (e.g., the revision and chat loops in [[conversational-ai|chatbot]]-scaffolded writing), and [[network-analysis|epistemic network analysis (ENA)]] maps how codes/constructs co-occur across activity — together revealing the *process* of learning and learner-[[student-ai-interaction|AI interaction]] rather than only its product.([[penny-transition-network-analysis-efl-writing-2026]])([[tracing-genai-literacy-interaction-patterns]])
@@ -12200,6 +12365,8 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[simulating-students]]
 - [[self-report-measures]]
 - [[recommender-systems-and-learning-paths]]
+- [[student-support-and-success]] — the support side that prediction feeds: referral, allocation, and the outcomes they do or do not move
+
 ## Connected Articles
 - [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
@@ -14947,6 +15114,8 @@ AI deployment outside the classroom has become a consumer-protection question, a
 
 Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [[genai-availability-grades-satisfaction|GenAI availability and satisfaction]] document how students actually use AI — revealing gaps between institutional policy and everyday practice. [[genai-student-experiences-uk-he-survey-2026|Survey research]] captures how students navigate the AI landscape, and studies of [[generative-ai-reduced-study-time-math|study time]], [[ithaka-sr-ai-skills-college-graduates-2026|AI skills for graduates]], and [[student-perceptions-ai-study-productivity-2026|student perceptions of AI tools]] show that the student experience of AI is mixed — efficient but often shallower. Much of this university learning now happens online, where [[online-teaching-and-learning|online teaching and learning]] shapes both AI's benefits (scalable personalization, always-on support) and its risks ([[academic-integrity|academic integrity]], [[cognitive-offloading|cognitive offloading]]) for college students. An exploratory ML approach using SHAP analysis examined how students' perceptions and demographics relate to intended academic ChatGPT use, prioritizing [[explainable-ai|interpretability]] ([[determinants-chatgpt-use-higher-education-2026]]). In art and [[design-education|design education]], where generative AI challenges the value of human [[creativity]], a [[project-based-learning|project-based learning]] model with [[storytelling-in-education|digital storytelling]] at its core cultivated the emotional, cultural, and narrative capacities AI lacks — evaluated through a 15-week embedded case study with 426 Chinese undergraduates who translated local cultural heritage into [[multimodal]] narratives ([[project-based-digital-storytelling-art-design-2026]]). Assistive and inclusive uses of GenAI are also reshaping the student experience for [[special-education|disabled learners]]: [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] — a [[qualitative-research|qualitative]] case study of 21 visually impaired undergraduates across three Palestinian universities — found GenAI tailors pace, content, and delivery to individual profiles, simplifies complex texts, and converts content across modalities, giving learners a sense of [[agency|autonomy]] and confidence in class participation while being viewed as complementing rather than replacing teachers.
 
+Beyond the classroom, AI reaches students through the institution itself — advising, outreach, referral, and the allocation of scarce support — which [[student-support-and-success|student support and success]] gathers as its own body of evidence. Its central caution about scale comes from a four-year randomized evaluation (N = 8,708) in which registration nudges moved a deadline by 34 percentage points while graduation, credits, and GPA did not move at all.
+
 ### Graduate and professional education
 
 The knowledge base is weighted heavily toward undergraduate study, and it houses graduate and professional preparation inside [[discipline-specific-aied|discipline-specific]] pages ([[medical-education|medical and health-professions education]], [[business-education|business education]], [[teacher-education|teacher education]]) rather than in a separate graduate-education page. Two strands nonetheless bear specifically on master's, doctoral, and professional students: research training, and professional-degree programs.
@@ -14992,6 +15161,8 @@ Professional-degree programs hold most of the graduate-level evidence, and it is
 - [[teacher-role]] — Evolving teacher role in AI classrooms
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 - [[arts-design-and-media-education]]
+- [[student-support-and-success]] — advising, outreach, referral, and support allocation — the institutional side of student success
+
 ## Connected Articles
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI Faculty Readiness Framework
 - [[ai-in-the-wild-college]] — AI in the Wild: College Student AI Use
@@ -16561,7 +16732,7 @@ The idea has moved from a proposition to a recurring recommendation across the k
 The most explicit design vocabulary comes from Thapa and Lewis, whose four commitments carry the argument into task design: reflective justification, staged task design, dialogic engagement, and evaluative transparency. In practice, students explain interpretive decisions rather than only presenting conclusions, submit work that develops across checkpoints, take part in [[oral-assessment|oral or dialogic]] exchanges about their reasoning, and work against criteria they can apply themselves — the terrain of [[feedback-literacy|feedback literacy]] and [[self-assessment]]. Boysen's (2026) proposal for open learning practices translates the same logic into an audit trail: a shared learning plan set before the project begins, a learning analysis plan naming required and forbidden sources, and documented drafts and version histories, preserved through Track Changes and saved file versions, that expose the work process and explain what informed each revision. He frames this as [[self-regulated-learning|self-regulation]] made visible.
 
 
-The channel chosen for process evidence changes what can be evidenced: in the same 79-student generative-AI study, higher-depth monitoring and planning were more common in think-aloud units while higher-depth regulation was more common in interaction logs, so no single record captures the whole process ([[metacognitive-processes-genai-interaction-logs-2026|Li and Liu (2026)]]).
+The channel chosen for process evidence changes what can be evidenced: in the same 79-student generative-AI study, higher-depth monitoring and planning were more common in think-aloud units while higher-depth regulation was more common in interaction logs, so no single record captures the whole process ([[metacognitive-processes-genai-interaction-logs-2026|Li and Liu (2026)]]). DraftTrace answers the same problem for AI-integrated writing by aligning keystroke-level process measures with the final product and with AI-interaction traces, showing that copy-typing is identifiable only when product and process are read together ([[drafttrace-ai-writing-analytics-2026|Chandarana et al. (2026)]]), a concrete instance of the behavioral-trace measurement the field still lacks.
 
 Practitioner and framework accounts fill in the artifacts. Uden and Hwang's (2026) LEARN framework, aimed at [[problem-based-learning|problem-based learning]] [[assessment]], asks for process-focused rubrics, oral justifications, staged submissions, and reasoning traces with [[ai-use-disclosure|AI-use disclosure]], and treats reflection through learning journals and think-aloud protocols as the [[metacognition|metacognitive]] engine of the sequence. Moganadas and colleagues (2026) make AI-transparent, process-oriented assessment one of five researchable propositions, requiring documentation, verification, and reflective justification rather than prohibition or detector use. Padhy (2026) recommends capturing revision history, interaction patterns, and time-on-task, paired with transparent disclosure. Goldstein, Marae-Haj and Zidan (2026) report the same artifacts emerging from practice after a [[trust]] crisis: prompting records, document version history, monitored group contributions, and reflective "journey journals" kept in physical notebooks — alongside the plain finding that take-home written work could no longer evidence learning.
 
@@ -16614,6 +16785,7 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[thapa-lewis-process-oriented-assessment-2026]] — epistemic authenticity and the four design commitments behind process-oriented assessment (Thapa & Lewis 2026)
 
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Channel-conditional process evidence: logs and think-aloud reveal different processes
+- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: A Multi-View Analytics Environment for AI-Integrated Writing
 
 ---
 
@@ -18131,6 +18303,7 @@ Research consistently cautions against standalone reliance on detection:
 - **Validity and fairness failures:** detection tools can be biased against non-native writers, producing false positives that unfairly penalize students, a concern connecting to [[bias-mitigation]] and [[equity-in-ai-education]].
 - **Notable error rates and trust erosion:** unreliable detection undermines student [[trust]] and the integrity of the assessment process.
 - **Task-dependence:** as the self-detection study shows, accuracy varies sharply by task type, so no single detector is dependable across all assessments.
+- **Even a validated detector rests on a historical baseline:** A six-year CS2 study validated its detector against a pre-LLM baseline: H-scores were near-zero before LLMs were public and rose to a mean of 11.9 by 2026 ([[argus-academic-integrity-genai-2026|Racovan et al. (2026)]]).
 - **The integrity catch-22, quantified.** [[karr-ai-detection-humanization-2026|A controlled study of 642 published abstracts (Karr et al. 2026)]] shows the [[educational-policy-ai|policy]] failure is not just conceptual but measured: guideline-compliant light AI editing is flagged at 38–80%, unmodified recent originals at 9–15% (non-STEM far above STEM), and humanizer-assisted AI text evades detection in >96% of cases. Because detectors key on surface style (long-token and academic-word density) rather than authorship intent, honest AI assistance draws sanction while deliberate humanizer evasion escapes — the authors argue detector scores should never be standalone misconduct evidence.
 
 The most recent empirical evaluations make those error rates concrete rather than generic. [[hadra-ai-detector-accuracy-efl-2026|Hadra, Cambridge and Mesbah (2026)]] ran Turnitin and Originality over a balanced 192-text corpus of genuine EFL coursework, professional writing, AI output, and 50/50 hybrids: macro accuracy reached only 0.69 and 0.61, both fell below a macro F1 of 0.55, and both were effectively useless on the hybrid texts (Originality's sensitivity 0.02), with accuracy dropping significantly as texts lengthened and again on scientific writing, plus a borderline-significant tendency to misclassify legitimate EFL student work. [[van-vlasselaer-ai-detector-reliability-2026|Van Vlasselaer, Van Droogenbroeck and Spruyt (2026)]] tested four commercial tools against a ground-truth-controlled corpus of 160 master's theses: three of them (Turnitin, GPTZero, Copyleaks) failed almost completely on fully AI-generated papers, while only Pangram performed convincingly — and when applied to 1,163 genuinely submitted theses it flagged 45.5% of them, a figure the authors insist is not a prevalence rate because live submissions have no ground truth. Both studies land on the same procedural conclusion: a detector score can prompt closer review, but it is not a finding. The calibration question also cuts the other way: because GPTZero's high-confidence label carried applicant-level false-positive rates of 0.7%, 0.5% and 1.4% across 2020–2022, [[ai-written-admissions-essays-penalized-2026|Isley, Gaebler and Goel (2026)]] read its flags as a conservative prevalence series across six admissions cycles in one US public policy master's program — the share of applicants submitting at least one flagged essay rose from 21.8% in 2023 to 45.1% in 2024 and 56.1% in 2025 against a signed prohibition, reaching 69.3% of international applicants against 38.6% of domestic ones. Human readers were a weaker instrument again: five admissions officers separating 50 human from 50 AI essays reached AUC 0.70 (95% CI [0.65, 0.75]), above chance but well below the commercial detectors.
@@ -18223,6 +18396,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
 - [[detecting-gpt-assisted-writing-stylometric-2026]] — Nine interpretable stylometric features: ROC-AUC 0.870 but four of 18 independently authored documents flagged (Kumar et al. 2026)
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — One human manuscript, five detectors, classifications from "0% human" to "Human Generated", plus the documented institutional retreat from detection (Angelier 2026)
+- [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
 
 ---
 
@@ -18416,6 +18590,8 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 - [[self-report-measures]]
 - [[research-methods-aied]] — Research Methods in AIED (DBR section)
 - [[social-emotional-learning]] — Social-Emotional Learning
+- [[student-support-and-success]] — administrative outcomes (task completion, credits, persistence, graduation) as distinct from learning gains
+
 ## Connected Articles
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
 - [[genai-performance-vs-learning]] — why assisted performance is not a learning outcome (Yan et al. 2025)
@@ -19119,6 +19295,7 @@ For the fuller treatment of experimental design in AI in education — including
 - [[generative-ai]]
 - [[higher-ed]]
 - [[ai-education]]
+- [[student-support-and-success]] — the design behind the strongest student-support evidence
 
 ## Connected Articles
 
@@ -19761,6 +19938,7 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 - [[educational-development]]
 - [[teacher-role]]
 - [[ai-literacy]]
+- [[student-support-and-success]] — the institutional processes administrators run: advising, outreach, referral, and allocation
 
 ## Connected Articles
 - [[sposato-ai-educational-leadership-taxonomy-2025]] — AI in educational leadership: comprehensive taxonomy
@@ -20211,6 +20389,8 @@ Identity is the human anchor of the stakeholder landscape: it is what AI must su
 - [[k-12]]
 - [[adult-learning]]
 - [[parents-and-families]]
+- [[student-support-and-success]] — who holds a claim on institutional AI support decisions
+
 ## Connected Articles
 
 - [[genai-student-experiences-uk-he-survey-2026]] — Student experiences of GenAI in UK higher education
@@ -20314,6 +20494,7 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
+- [[student-support-and-success]] — the policy context for institutional support deployment
 
 ## Connected Articles
 - [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education
@@ -20448,6 +20629,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[trust-calibration]]
 - [[generative-ai]]
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
+- [[student-support-and-success]] — oversight for institutional AI support systems
 
 ## Connected Articles
 - [[ai-literacy-sdg-governance-framework-2026]] — AI literacy as a governance capacity for sustainable development: the AIRE Taxonomy and AI–SDG Nexus (Islam, Morshed & Islam 2026)
@@ -20539,6 +20721,7 @@ Change management is the institutional complement to classroom-level integration
 - [[equity-in-ai-education]] — ensuring change benefits accrue evenly across institutions and learners
 - [[technology-acceptance-model]] — adoption drivers that explain how change spreads
 - [[academic-integrity]] — central regulatory anchor around which assessment reform is organized
+- [[student-support-and-success]] — sustaining a support program past the pilot
 
 ## Connected Articles
 - [[mata-sustaining-ai-enabled-student-support-2026]] — Sustaining AI-enabled student support: four-year implementation and impact study of an institutional chatbot (Mata, Russell & Page 2026)
@@ -20697,7 +20880,6 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - **The best-evidenced methods are the least scalable ones.** In a workshop with 73 computing educators, oral and interactive assessment was reported as the strongest available evidence of individual understanding and the least scalable remedy proposed — raised in one room alongside 400-plus students and a handful of teaching assistants — so the strategies with the clearest link to verified learning sit in the institutions teaching the fewest students, an equity gap between institutions rather than within a cohort ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 - **Tutoring quality shifts with learner demographics.** EduFair-Bench pairs a fixed [[simulating-students|LLM student]] with each tutor across nine demographic levels spanning gender, immigration background, first language and socioeconomic status, and scores five turn-level pedagogical metrics. In [[intelligent-tutoring|LLM tutoring]] the largest deviations appear in explicit demographic conditions — step scaffolding correlating up to |r| = 0.144 in mathematics and corrective tone exceeding 0.10 for every model in [[chemistry-education|chemistry]] (0.102-0.168) and [[physics-education|physics]] (0.129-0.294) — and in 11 of 15 model-by-domain cells the wrong-answer condition scored higher than the correct one, indicating that tone tracked the student's demographic label rather than the quality of the student's reasoning. Pedagogy-specific [[reinforcement-learning|reinforcement learning]] redistributed rather than removed these gaps. ([[edufair-bench-pedagogical-fairness-llm-tutors-2026]])
 - **Implicit demographic signals are a less controllable bias channel than stated attributes.** [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto and Hovy (2026)]] held each task input fixed while varying only the demographic context across six instruction-tuned [[llm|LLMs]] and three educational tasks, producing 192,480 inference calls, and separated *explicit* signals (stated student attributes) from *implicit* ones carried by a ten-prompt [[conversational-ai|conversation]] history. In [[automated-essay-scoring|automated essay scoring]] most models were comparatively stable under explicit conditioning, while implicit conditioning inflated scores — Llama-70B scored 1.57 points above its own default (p < 0.001). In metalinguistic question answering the implicit condition drifted the other way: responses for lower education levels received less positive sentiment, a 0.3 average gap between the lowest and the higher education levels on a 0-4 scale against a within-item standard deviation of 0.07. The equity difficulty is structural — the cue is not a stated attribute that a policy can forbid or a prompt field that an audit can inspect, but a property of the interaction itself.
-
 ## Linguistic, cultural, and disability inclusion
 
 - **Language:** Most AI tools prioritize English, marginalizing [[multilingual-learning|multilingual]] learners. [[genai-linguistic-diversity-academic-writing|Linguistic diversity in academic writing]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages]], and [[language-learning]] research address this.
@@ -20742,6 +20924,8 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[agency]] — Ensuring AI empowers rather than replaces student voice
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 - [[parents-and-families]]
+- [[student-support-and-success]] — who support systems reach, and the risks of acting on a risk score
+
 ## Connected Articles
 - [[ai-literacies-young-adults-2025]] — Equity as a delivery problem: reaching young people formal education misses
 
@@ -20844,6 +21028,7 @@ Gender research here divides into whether tools treat learners differently, and 
 - **But prompt content transfers bias into student work.** [[gender-bias-transfer-llm-writing|A controlled study with 123 participants]] had students write career-plan essays for paired profiles differing only in gender, under no-AI, neutral-AI, and gender-biased-AI conditions; the biased condition transferred gender-differentiated language into student writing and suppressed female [[agency]] asymmetrically. The researchers first confirmed the effect on 1,600 generated essays.
 - **Space and framing matter as much as the tool.** [[all-girls-genai-makerspace-gender-equity-2026|An all-girls generative AI makerspace case study]] found girls valued the single-gender setting as safer and more relaxed, and warns against "girlification" — surface-level adaptation that leaves power relations untouched.
 - **Model sensitivity is a model property, not a constant.** In [[edufair-bench-pedagogical-fairness-llm-tutors-2026|EduFair-Bench]], five tutors from 7B to 70B were audited across nine demographic levels: Qwen2.5-7B exceeded the |r| ≥ 0.10 bias threshold in 7 of 12 domain-by-dimension cells, while LLaMA-3.1-8B exceeded it once. Pedagogy-specific training reduced some biases and increased others.
+- **A single-axis fix can leave a group worse off:** gender-diverse students collapsed into an “Unknown Gender” category had the lowest true positive rates under every fairness method, and no single-axis method improved their treatment — the group-label variation noted above, inside a predictive early-warning model rather than a tutor ([[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]]).
 
 ## Race, ethnicity, and minoritized students
 
@@ -20923,6 +21108,7 @@ The honest finding of this survey is how thin some groups are. Each of these is 
 - [[student-ai-inquiry-types-cs2-2026]] — The corpus's one first-generation usage finding
 - [[international-students-conversational-ai-adaptation]] — The corpus's one international-student study
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — The corpus's first effect estimate for first-generation students: tutor access cost them 0.50 SDs of final grade against 0.22 for their peers (Liu et al. 2026)
+- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
 
 ---
 
@@ -21066,6 +21252,7 @@ The knowledge base's research illustrates several complementary strategies:
 - **Explainability:** [[xai-education-framework|XAI in education]] provides transparency into why a system produced a given score or recommendation, enabling detection and correction of biased behavior and supporting [[trust]].
 - **Pipeline-wide auditing:** [[antiskillbench-persona-skills-privacy-2026|persona-skills auditing]] and systematic audits like the paternalistic-filter study show the value of auditing models across identity conditions before deployment.
 - **Fairness measurement is largely absent where analysis scales.** A PRISMA-ScR scoping review of 421 studies applying NLP to student evaluation of teaching found a formal fairness metric in only 8 studies (1.9%) and institutional-use risk in 18, while study limitations appeared in 70.5% and privacy protections in 42.3%; the authors read the coexistence as [[llm|LLM]] adoption broadening the technical repertoire without proportional gains in validation or responsible-use reporting ([[nlp-student-evaluation-teaching-scoping-review-2026|Eicher & da Silva (2026)]]).
+- **Group size is not a proxy for disadvantage:** two of six post-hoc fairness methods directed corrections at already-advantaged groups because they used group size to define disadvantage; reassigning disadvantage by observed disparity redirected one method but left the other flipping zero predictions — a limit on what post-hoc mitigation can claim ([[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]]).
 
 ## Mitigation across the AI pipeline
 
@@ -21131,6 +21318,7 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 
 - [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
+- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
 
 ---
 
@@ -22372,6 +22560,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[pedagogical-safety]]
 - [[legal-issues-and-risks]]
 - [[student-experience]]
+- [[student-support-and-success]] — student records, cross-office data sharing, and federated risk modeling
 
 ## Connected Articles
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
