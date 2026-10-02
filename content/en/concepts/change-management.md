@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-10-01T20:35:10-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -65,6 +65,7 @@ Change management is the institutional complement to classroom-level integration
 - [[equity-in-ai-education]] — ensuring change benefits accrue evenly across institutions and learners
 - [[technology-acceptance-model]] — adoption drivers that explain how change spreads
 - [[academic-integrity]] — central regulatory anchor around which assessment reform is organized
+- [[student-support-and-success]] — sustaining a support program past the pilot
 
 ## Connected Articles
 - [[mata-sustaining-ai-enabled-student-support-2026]] — Sustaining AI-enabled student support: four-year implementation and impact study of an institutional chatbot (Mata, Russell & Page 2026)

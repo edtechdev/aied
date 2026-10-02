@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-01T09:59:54-04:00"
+updated: "2026-10-01T20:35:10-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -116,6 +116,8 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[agency]] — Ensuring AI empowers rather than replaces student voice
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 - [[parents-and-families]]
+- [[student-support-and-success]] — who support systems reach, and the risks of acting on a risk score
+
 ## Connected Articles
 - [[ai-literacies-young-adults-2025]] — Equity as a delivery problem: reaching young people formal education misses
 

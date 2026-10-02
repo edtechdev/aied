@@ -1,7 +1,7 @@
 ---
 title: Analysis and Prediction of At-Risk Students Using Machine Learning Algorithms
 created: "2026-06-23T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-10-01T20:36:14-04:00"
 type: article
 technology: [learning-analytics, llm, machine-learning, student-modeling]
 research_method: [secondary analysis]
@@ -24,7 +24,7 @@ methods: [rct, benchmark]
 
 ## What this means for practice
 
-- **Administrators.** Use the risk score as a triage signal for retention outreach, not as a verdict: Logistic Regression and SVM (Linear Kernel) both reached 99% accuracy, but the work positions prediction as a tool for strategic, proactive retention rather than an automatic decision about a student.
+- **Administrators.** Use the risk score as a triage signal for [[student-support-and-success|retention outreach]], not as a verdict: Logistic Regression and SVM (Linear Kernel) both reached 99% accuracy, but the work positions prediction as a tool for strategic, proactive retention rather than an automatic decision about a student.
 - **Administrators.** Budget for the data pipeline before the model. Joining the three SISTC sources produced 2,405 records, and cleaning for complete, relevant information left only 1,027, so retention analytics depends on keeping enrollment and performance records complete at the source.
 - **Instructors.** Watch total subjects failed during the term. It carried a coefficient of −5.013e+13 in the Logistic Regression model and is described as strongly correlated with dropout risk, making it an in-term marker for deciding whom to contact.
 - **Administrators.** Audit fairness before flags drive action. The authors warn that underrepresented nationalities, genders, or visa types may cause students to be inaccurately flagged as at-risk, and they name fairness audits as future work rather than a completed step — so pair any rollout with the [[privacy]], [[equity-in-ai-education]], and transparency safeguards the paper calls for.

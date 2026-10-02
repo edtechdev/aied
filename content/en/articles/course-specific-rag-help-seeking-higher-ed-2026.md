@@ -1,7 +1,7 @@
 ---
 title: "Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education"
 created: "2026-09-21T09:24:09-04:00"
-updated: "2026-09-21T09:24:09-04:00"
+updated: "2026-10-01T20:36:14-04:00"
 type: article
 sources: ['raw/papers/course-specific-rag-help-seeking-higher-ed-2026.md']
 confidence: medium
@@ -22,7 +22,7 @@ reviewed_by: [editor]
 ## Key Findings
 1. **Alignment with course materials was the strongest result.** 89% of participants rated the system's responses as highly aligned with course materials, and 56% found outputs consistently logical.
 2. **Clarity and [[usability-research|usability]] scored well.** 44% reported the system was very clear and a further 44% somewhat clear; 73.3% found it intuitive, 73.35% easy to use, and 66.7% were confident navigating it.
-3. **Self-reported learning support was moderate.** 53.35% agreed Beacon improved their understanding of programming concepts, 53.3% felt more confident solving problems, and 60% felt more confident tackling difficult topics.
+3. **Self-reported [[student-support-and-success|learning support]] was moderate.** 53.35% agreed Beacon improved their understanding of programming concepts, 53.3% felt more confident solving problems, and 60% felt more confident tackling difficult topics.
 4. **The tool was seen as additive, not a substitute.** 66.7% said Beacon supported rather than replaced their learning and 80% agreed it helped, while students still described verifying important information themselves.
 5. **The help-seeking baseline was the problem the design targets.** 62.5% of respondents said they sometimes avoided asking for help when they needed it and 75% reported [[anxiety-and-stress|anxiety]] when they did not understand a topic.
 6. **Academics valued the refusal to give answers.** Staff praised the pseudocode, simple starting structures and links to module materials, and worried that unrestricted AI tools let students "skip that development stage".

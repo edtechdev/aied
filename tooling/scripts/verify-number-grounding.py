@@ -163,6 +163,12 @@ def ungrounded(slug):
     if raw is None or article is None:
         return None
     raw_n = normalize(raw)
+    # normalize() squeezes the spaces BETWEEN numbers to repair PDF split-digit
+    # artefacts ("100, 000"), which also glues genuinely separate table columns
+    # together: a demographics row "841 311 716" becomes "841311716", so a value
+    # that IS present as its own token reads as absent. Keep a variant that only
+    # collapses whitespace, and accept a standalone token found there too.
+    raw_ws = re.sub(r'\s+', ' ', raw)
     raw_l = raw_n.lower()
     squeezed = re.sub(r'\s+', '', raw_n)
     body = re.sub(r'^---\n.*?\n---', '', article.split('## Citation')[0], flags=re.S)
@@ -178,6 +184,8 @@ def ungrounded(slug):
             continue
         if re.search(r'(?<![\d.])' + re.escape(value) + r'(?![\d])', raw_n):
             continue
+        if re.search(r'(?<![\d.])' + re.escape(value) + r'(?![\d])', raw_ws):
+            continue   # standalone token in a space-separated numeric table
         if re.search(r'(?<![\d.])\.' + re.escape(value) + r'(?![\d])', raw_n):
             continue   # leading-dot form, e.g. the body prints "001" where the source writes ".001"
         if re.search(r'(?<![\d.])(?:0)?\.' + re.escape(value) + r'(?!\d)', raw_n):

@@ -1,7 +1,7 @@
 ---
 title: "Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems"
 created: "2026-10-01T09:07:13-04:00"
-updated: "2026-10-01T09:07:13-04:00"
+updated: "2026-10-01T20:36:14-04:00"
 type: article
 sources: ['raw/papers/fairness-theatre-early-warning-systems-2026.md']
 confidence: high
@@ -41,7 +41,7 @@ When [[higher-ed|colleges]] buy proprietary early warning systems — [[edtech-p
 
 ## Error-type profiling: from metrics to caseloads
 
-Advisors never see statistical parity or equalized odds; they see caseloads. A false negative is a successful student taking a scarce advising slot; a false positive is a struggling student who never lands on any list. Error-type profiling translates metrics into this language. This [[quantitative-research|quantitative]] stress test sorts the six methods into three profiles: false-positive-generating methods (MBS, Bias Mitigation) close true-positive-rate gaps by flipping predictions, shrinking caseloads and hiding struggling students; sensitivity-reducing methods (GBCP) cut false positives but generate false negatives in bulk; and baseline-preserving methods (GetFair, Decoupled Classifiers) hold the calibrated error profile and redistribute almost nothing.
+Advisors never see statistical parity or equalized odds; they see caseloads. A false negative is a successful student taking a [[student-support-and-success|scarce advising slot]]; a false positive is a struggling student who never lands on any list. Error-type profiling translates metrics into this language. This [[quantitative-research|quantitative]] stress test sorts the six methods into three profiles: false-positive-generating methods (MBS, Bias Mitigation) close true-positive-rate gaps by flipping predictions, shrinking caseloads and hiding struggling students; sensitivity-reducing methods (GBCP) cut false positives but generate false negatives in bulk; and baseline-preserving methods (GetFair, Decoupled Classifiers) hold the calibrated error profile and redistribute almost nothing.
 
 ## Misdirected corrections and the limits of single-axis fairness
 

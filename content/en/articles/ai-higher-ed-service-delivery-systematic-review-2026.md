@@ -1,7 +1,7 @@
 ---
 title: "From digital transformation to intelligent classrooms: artificial intelligence, adaptive leadership, and service delivery in global higher education—a systematic literature review"
 created: "2026-09-27T07:20:58-04:00"
-updated: "2026-09-27T08:45:00-04:00"
+updated: "2026-10-01T20:36:14-04:00"
 type: article
 sources: ['raw/papers/ai-higher-ed-service-delivery-systematic-review-2026.md']
 confidence: high
@@ -25,7 +25,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Nyamboga asks how artificial intelligence is reshaping service delivery in global [[higher-ed|higher education]], and what decides whether that reshaping succeeds. The review synthesizes 155 peer-reviewed studies published between 2019 and 2024 and organizes them across five domains: AI integration, adaptive leadership, infrastructure readiness, service delivery transformation, and barriers to sustainability. The evidence points in one direction: [[ai-education|AI in higher education]] is associated with improvements in teaching, learning, and administrative efficiency, and two of the five thematic domains, AI integration and digital infrastructure readiness, earn high certainty ratings under a GRADE-adapted framework. But the synthesis is candid about its own shape. [[adaptive-learning|Adaptive]] and [[personalized-learning|personalized]] systems dominate the application list, adaptive leadership is the most studied leadership model, and the papers cluster in high-income regions. The organizing claim is that technological capability, leadership, and institutional readiness must move together, and that installing tools while neglecting [[governance]], infrastructure, and leadership capacity yields fragmented adoption rather than transformation.
+> **Synthesis:** Nyamboga asks how artificial intelligence is reshaping [[student-support-and-success|service delivery]] in global [[higher-ed|higher education]], and what decides whether that reshaping succeeds. The review synthesizes 155 peer-reviewed studies published between 2019 and 2024 and organizes them across five domains: AI integration, adaptive leadership, infrastructure readiness, service delivery transformation, and barriers to sustainability. The evidence points in one direction: [[ai-education|AI in higher education]] is associated with improvements in teaching, learning, and administrative efficiency, and two of the five thematic domains, AI integration and digital infrastructure readiness, earn high certainty ratings under a GRADE-adapted framework. But the synthesis is candid about its own shape. [[adaptive-learning|Adaptive]] and [[personalized-learning|personalized]] systems dominate the application list, adaptive leadership is the most studied leadership model, and the papers cluster in high-income regions. The organizing claim is that technological capability, leadership, and institutional readiness must move together, and that installing tools while neglecting [[governance]], infrastructure, and leadership capacity yields fragmented adoption rather than transformation.
 
 ## Key Findings
 1. Of 155 included studies, AI integration in higher education and digital infrastructure readiness were rated high certainty, adaptive leadership moderate, AI-enabled service delivery outcomes moderate to high, and ethical governance and sustainability low.

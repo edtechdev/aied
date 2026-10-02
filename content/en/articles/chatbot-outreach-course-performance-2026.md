@@ -1,7 +1,7 @@
 ---
 title: "Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance"
 created: "2026-09-28T05:55:00-04:00"
-updated: "2026-09-28T05:55:00-04:00"
+updated: "2026-10-01T20:36:14-04:00"
 type: article
 sources: ['raw/papers/chatbot-outreach-course-performance-2026.md']
 confidence: high
@@ -43,7 +43,7 @@ This is a pre-registered [[rct|randomized controlled trial]] with intent-to-trea
 GSU is a public research university in Atlanta enrolling more than 52,000 undergraduates; 63% of students identify as Black, Hispanic, or of two or more races, and 53% receive Pell grants. Treatment students received 2–3 scheduled texts weekly (about 40 over the semester), personalized and targeted from course performance data and a content knowledge base built with university administrators; low-confidence queries went to the course teaching assistant, whose replies updated the knowledge base. Government also had a #quizme function Microeconomics lacked. Outcomes come from deidentified gradebooks, learning management system and administrative records, Mainstay message logs, and a Government-only end-of-course survey.
 
 ## What this means for practice
-- Course-specific outreach can close information gaps in large or online courses: the intervention worked through reminders, performance feedback, and invitations to ask questions rather than by teaching content, and the authors treat message customization — targeted by whether a student had a missing assignment or was current on coursework — as the active ingredient, contrasting it with generic due-date notices.
+- [[student-support-and-success|Course-specific outreach]] can close information gaps in large or online courses: the intervention worked through reminders, performance feedback, and invitations to ask questions rather than by teaching content, and the authors treat message customization — targeted by whether a student had a missing assignment or was current on coursework — as the active ingredient, contrasting it with generic due-date notices.
 - Use a trusted sender: encouragement messages were signed by the course teaching assistant, who also handled flagged questions and kept the knowledge base current, creating a low-stakes route to [[help-seeking|help-seeking]].
 - Budget for human oversight and for piloting: the assistant reviewed responses daily, monitoring settled under two hours per week after the pilot, and a pilot semester was crucial to building the knowledge base — GSU's existing contracts and staff experience lowered the marginal cost, and the university now runs the tool as status quo.
 - Women in economics may be a priority population: the authors tie the Microeconomics results to women's underrepresentation in the field, framing proactive communication as a route toward [[equity-in-ai-education|greater equity]].

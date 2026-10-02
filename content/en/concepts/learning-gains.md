@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-01T20:35:10-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -123,6 +123,8 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 - [[self-report-measures]]
 - [[research-methods-aied]] — Research Methods in AIED (DBR section)
 - [[social-emotional-learning]] — Social-Emotional Learning
+- [[student-support-and-success]] — administrative outcomes (task completion, credits, persistence, graduation) as distinct from learning gains
+
 ## Connected Articles
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
 - [[genai-performance-vs-learning]] — why assisted performance is not a learning outcome (Yan et al. 2025)

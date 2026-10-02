@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-10-01T10:01:10-04:00"
+updated: "2026-10-01T20:35:10-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -121,6 +121,7 @@ In fully online [[english-education|composition]], availability of the tool is n
 - [[feedback]]
 - [[active-learning]]
 - [[agentic-ai]]
+- [[student-support-and-success]] — institutional outreach and support allocation, beyond in-course help-seeking
 
 ## Connected Articles
 

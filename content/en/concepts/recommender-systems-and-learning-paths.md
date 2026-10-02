@@ -1,7 +1,7 @@
 ---
 title: Recommender Systems and Learning Paths
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-09-30T06:56:00-04:00"
+updated: "2026-10-01T20:35:10-04:00"
 type: concept
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
@@ -94,6 +94,7 @@ The same literature has begun to propose remedies for narrowing, though not yet 
 - [[self-directed-learning]] — Learner-maintained pathways and lifelong navigation
 - [[lifelong-learning]] — Graph-structured learning beyond a degree sequence
 - [[trust-calibration]] — Matching reliance to recommendation reliability
+- [[student-support-and-success]] — recommending support, resources, and academic paths
 
 ## Connected Articles
 
