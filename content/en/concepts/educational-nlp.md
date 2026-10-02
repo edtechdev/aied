@@ -1,7 +1,7 @@
 ---
 title: Educational NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-02T07:37:41-04:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
@@ -32,7 +32,7 @@ Natural language processing in education applies computational methods to the la
 
 - **Discourse-level classification localizes what surface features miss.** A BERT model fine-tuned on only its last four transformer layers classifies adjacent sentence pairs as causal, contrastive, progressive or incoherent and emits the breakpoint as a diagnostic, reaching a mean F1 of at least 0.891 on 28,736 sentence pairs ([[bert-discourse-english-teaching-2026|Wang et al., 2026]]).
 - **Whole-lesson modeling beats utterance-level classification.** Scoring entire lesson transcripts rather than isolated utterances lifted reasoning-chain detection by 14.2 percentage points over state-of-the-art discriminative baselines, and adding a dialect-invariant contrastive objective cut African American Vernacular English false negatives by 18.4 points ([[nspa-neuro-symbolic-pedagogical-alignment-2026|Fang and Liu, 2026]]).
-- **Feedback and classification.** [[teaching-feedback-classification-benchmark]] provides a [[benchmark]] for classifying teaching feedback, advancing [[feedback|Feedback Loop]] research and [[pedagogical-llm-training]].
+- **Feedback and classification.** [[teaching-feedback-classification-benchmark]] provides a [[benchmark]] for classifying teaching feedback, advancing [[feedback|Feedback Loop]] research and [[llm-training-and-fine-tuning]].
 - **Scaling NLP on evaluation comments without reaching use.** A PRISMA-ScR scoping review and evidence map of 421 studies applying NLP to open-ended student evaluation of teaching (2015–2026) finds sentiment analysis still the modal task (300/421, 71.3%) and a 49.7-point actionability discontinuity: 258 studies (61.3%) demonstrated a usable output but only 49 (11.6%) reached evaluation by an intended user, with a formal fairness metric in just 8 studies (1.9%) and external validation in 33 (7.8%) ([[nlp-student-evaluation-teaching-scoping-review-2026|Eicher & da Silva (2026)]]).
 
 - **Explanations are not interchangeable with attributions.** [[shap-llm-rationales-teaching-quality-assessment|Bueno et al. (2026)]] found SHAP attributions identified the sentences that reliably drove rubric scores and transferred across model families, while LLM-generated rationales exerted limited, inconsistent influence — even though fine-tuned PLMs outscored prompted LLMs on accuracy.
@@ -48,6 +48,8 @@ Natural language processing in education applies computational methods to the la
 
 Educational NLP underpins both the analysis of learner language ([[student-modeling]], [[knowledge-tracing]]) and the generation of adaptive instructional content ([[intelligent-tutoring]], [[scaffolding]]). [[ai-generated-interactive-fiction-education-2026]] demonstrates NLP-driven content generation for learning, while [[zerkouk-comprehensive-review-its-2025]] situates NLP within the broader [[intelligent-tutoring]] landscape. As LLM-based analysis grows, [[rct]] and [[research-methods-aied]] frameworks matter for validating that NLP-derived insights genuinely improve learning. 
 
+Model compression belongs to the same toolkit: a two-stage pipeline distills a fitted black-box estimator and its post-hoc interpretation into a small open-weight model, so a 2B-parameter "mentee" returns both an estimate and a natural-language explanation offline on a commodity laptop ([[distilling-self-explaining-lm-learning-analytics-2026]]).
+
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
@@ -56,7 +58,7 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 - [[socratic-method]]
 - [[scaffolding]]
 - [[adaptive-learning]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[metacognition]]
 - [[rct]]
 - [[learning-analytics]]

@@ -45,7 +45,7 @@ The [[generative-ai-guardrails-harm-learning|Bastani]] GPT Tutor design shows th
 
 ### 3. Model-level controls and training
 
-- **Fine-tuning / post-training:** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] uses RL to prioritize guided learning over answer-giving; [[tact-pedagogically-adaptive-esl-tutoring|TACT]] aligns post-training to a tutor-strategy taxonomy via GRPO so models scaffold rather than merely respond. This is the [[pedagogical-llm-training|pedagogical LLM training]] approach to baking safety into behavior.
+- **Fine-tuning / post-training:** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] uses RL to prioritize guided learning over answer-giving; [[tact-pedagogically-adaptive-esl-tutoring|TACT]] aligns post-training to a tutor-strategy taxonomy via GRPO so models scaffold rather than merely respond. This is the [[llm-training-and-fine-tuning|pedagogical LLM training]] approach to baking safety into behavior.
 - **Unlearning:** [[llm-unlearning-math-privacy|math-unlearning]] applies gradient-based unlearning to strip personally identifying information and harmful content from math tutors (PII output down to 0.1%, toxic rates to 0.0%) while preserving downstream utility — a [[privacy]]-and-safety guardrail at the model level.
 - **Reward shaping in RL:** [[pedagogical-safety-rl|pedagogical safety in RL]] formalizes how poorly specified rewards invite "reward hacking" (test-score inflation, [[student-engagement|engagement]] gaming), proposing a four-layer model and detection via discrepancy auditing and policy inversion.
 
@@ -87,7 +87,7 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 - [[prompt-engineering]] — the hint-not-answer design technique
 - [[rag]] — knowledge grounding as a guardrail
 - [[human-in-the-loop-ai]] — teacher QA and oversight
-- [[pedagogical-llm-training]] — the training/alignment layer
+- [[llm-training-and-fine-tuning]] — the training/alignment layer
 - [[reinforcement-learning]] — reward shaping for safe behavior
 - [[bias-mitigation]] — auditing guardrails for fairness
 - [[ai-sycophancy]] — the manipulation risk guardrails must resist

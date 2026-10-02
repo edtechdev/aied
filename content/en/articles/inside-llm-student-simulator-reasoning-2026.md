@@ -1,7 +1,7 @@
 ---
 title: "INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators"
 created: "2026-08-13T09:28:20-04:00"
-updated: "2026-09-19T10:23:54-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 foundations: [ai-education]
 technology: [intelligent-tutoring, learning-analytics, llm, personalized-learning, student-modeling]
@@ -15,7 +15,7 @@ discipline: [cs education]
 page_kind: [framework, evaluation]
 ---
 
-> **Synthesis:** Niousha, Kang, & Norouzi (2026) introduce **INTERNAL STUDENT DIALOGUE (INSIDE)**, a student modeling framework that fine-tunes LLMs to both *act* like students and *think* like them. Two students may submit identical work for entirely different reasons, so INSIDE generates internal dialogue grounded in Bloom's Taxonomy across cognitive, [[affective-computing|affective]], and action dimensions, fine-tuning on paired think-traces and actions. Evaluated against prompting baselines, INSIDE improves action fidelity (matching real students' code generation) and reasoning alignment (up to 57.9% across models). The work advances [[student-modeling]] and [[simulating-students]] [[research-methods-aied|research]] toward cognitively faithful student simulation.
+> **Synthesis:** Niousha, Kang, & Norouzi (2026) introduce **INTERNAL STUDENT DIALOGUE (INSIDE)**, a student modeling framework that fine-tunes LLMs to both *act* like students and *think* like them. Two students may submit identical work for entirely different reasons, so INSIDE generates internal dialogue grounded in Bloom's Taxonomy across cognitive, [[affective-computing|affective]], and action dimensions, [[llm-training-and-fine-tuning|fine-tuning]] on paired think-traces and actions. Evaluated against prompting baselines, INSIDE improves action fidelity (matching real students' code generation) and reasoning alignment (up to 57.9% across models). The work advances [[student-modeling]] and [[simulating-students]] [[research-methods-aied|research]] toward cognitively faithful student simulation.
 
 ## Key Findings
 

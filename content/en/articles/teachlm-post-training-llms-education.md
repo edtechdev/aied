@@ -4,7 +4,7 @@ created: "2026-08-21T08:00:00-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article
 pedagogy: [project-based-learning]
-technology: [generative-ai, intelligent-tutoring, llm, pedagogical-llm-training, simulating-students, student-modeling]
+technology: [generative-ai, intelligent-tutoring, llm, llm-training-and-fine-tuning, simulating-students, student-modeling]
 ethics: [privacy]
 audience: [software developers]
 research_method: [system development]

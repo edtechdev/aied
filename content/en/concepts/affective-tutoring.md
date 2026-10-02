@@ -68,7 +68,7 @@ Affective tutoring intersects with [[hazra-safetutors-pedagogical-safety-2026|Sa
 
 ## Connected Concepts
 
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[intelligent-tutoring]]
 - [[personalized-learning]]
 - [[adaptive-learning]]

@@ -14,7 +14,7 @@ ai_assist:
 reviewed_by: [editor]
 foundations: [agentic-ai, theories-and-frameworks]
 pedagogy: [problem-solving]
-technology: [llm, generative-ai, pedagogical-llm-training, educational-nlp]
+technology: [llm, generative-ai, llm-training-and-fine-tuning, educational-nlp]
 ethics: [hallucination-risk]
 research_method: [experiment, system development]
 discipline: [math education]

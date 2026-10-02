@@ -5,7 +5,7 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [metacognition, self-regulated-learning, sociocultural-learning]
-technology: [human-in-the-loop-ai, pedagogical-llm-training]
+technology: [human-in-the-loop-ai, llm-training-and-fine-tuning]
 assessment: [assessment, formative-assessment]
 research_method: [theoretical analysis]
 level: [higher ed]
@@ -74,7 +74,7 @@ Student agency in AA (choice, self-reflection, co-design) is isomorphic to the [
 [[metacognition]] is required for students to evaluate their own work against co-designed rubrics. When AI provides the rubric, generates the feedback, *and* monitors progress, the student's metacognitive practice is displaced — the very suppression risk identified in [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] and [[llm-fallacy-misattribution|LLM Fallacy]] [[research-methods-aied|research]].
 
 ### Pedagogical Training
-Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwen]]) should explicitly align with the six-dimensional framework. A model trained to reward "guiding over answering" still falls short if it does not understand **sustainable feedback**, **co-designed rubrics**, or **social authenticity**.
+Theory-grounded training (see [[llm-training-and-fine-tuning|ISD-Agent-Bench, EduQwen]]) should explicitly align with the six-dimensional framework. A model trained to reward "guiding over answering" still falls short if it does not understand **sustainable feedback**, **co-designed rubrics**, or **social authenticity**.
 
 ### Adaptive Systems
 [[adaptive-learning|Adaptive systems]] that personalize only *content difficulty* miss the personalization of *assessment authenticity*. DeepTutor's multi-resolution memory and MAIC's archetype agents begin to address this, but neither incorporates student co-design of assessment parameters.

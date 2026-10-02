@@ -5,7 +5,7 @@ updated: "2026-09-17T02:30:30-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [active-learning, scaffolding, self-regulated-learning]
-technology: [generative-ai, multimodal, pedagogical-llm-training]
+technology: [generative-ai, multimodal, llm-training-and-fine-tuning]
 assessment: [assessment, feedback]
 research_method: [literature review]
 level: [higher ed]
@@ -108,7 +108,7 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 | Four costs framework (individual, environment, knowledge, jobs) | [[hazra-safetutors-pedagogical-safety-2026]] — Costs to knowledge overlap with [[cognitive-offloading|cognitive offloading]]; environmental costs are a new dimension |
 | AI literacy levels and scales | [[ai-literacy]] — [[icap-framework|ICAP]] framework; [[collaborative-learning|collaborative learning]]; this guide adds institutional scaling and multimodal specificity |
 | MMLD-AI model (UDL + ABC + six engagement types) | [[adaptive-learning]] — Multi-resolution [[personalized-learning|personalization]]; [[agentic-workflows-education]] — Planning and reflection paradigms |
-| Dual-Track Cyber-Social Model | [[pedagogical-llm-training]] — Reward "guiding" over "answering"; [[human-in-the-loop-ai]] — Human verification of AI outputs |
+| Dual-Track Cyber-Social Model | [[llm-training-and-fine-tuning]] — Reward "guiding" over "answering"; [[human-in-the-loop-ai]] — Human verification of AI outputs |
 | Multimodal assessment redesign | [[authentic-assessment]] — Six-dimensional framework; [[formative-assessment]] — AI-generated feedback with human validation |
 | Scaffolding and metacognition | [[self-regulated-learning]] — UDL's emphasis on [[agency|student agency]]; [[metacognition]] — Cyber-social metacognitive awareness |
 | Faculty development across four scales | [[educational-development]] — CTL pragmatic transition model; this guide adds module-level and program-level strategies |

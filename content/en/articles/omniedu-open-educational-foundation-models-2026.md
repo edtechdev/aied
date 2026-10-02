@@ -12,7 +12,7 @@ level: [k 12]
 audience: [instructors, researchers, software developers]
 foundations: [curriculum-design]
 pedagogy: [scaffolding, misconceptions, socratic-method]
-technology: [pedagogical-llm-training, open-source, intelligent-tutoring, llm, multimodal]
+technology: [llm-training-and-fine-tuning, open-source, intelligent-tutoring, llm, multimodal]
 assessment: [assessment, automated-question-generation]
 methods: [benchmark, ai-ed-evaluation]
 contributors: [editor]
@@ -24,7 +24,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** OmniEdu is an open family of K–12 foundation models at 4B, 9B, and 27B parameters, trained on a corpus whose supervision is organized by capability instead of by source or subject. The authors define four target capabilities — subject competence, [[curriculum-design|curriculum grounding]], diagnostic reasoning, and [[scaffolding|pedagogical action and scaffolding]] — then filter roughly 1.34M candidate examples down to a 69,999-example mixture through cleaning, [[llm]] auditing, quality scoring, and token-budgeted diversity selection (9,048 of those examples are general instructions). Every tuned model beat its own base model on curriculum grounding, K–12 [[problem-solving|problem solving]], and tutoring, with the largest gains in scaffolded instruction and in the use of a student's learning history rather than in answer accuracy alone. OmniEdu-27B leads the open-weight field on those dimensions, while knowledge-state diagnosis remains its weakest measured capability: capability-balanced [[pedagogical-llm-training]] is reproducible from published data and weights.
+> **Synthesis:** OmniEdu is an open family of K–12 foundation models at 4B, 9B, and 27B parameters, trained on a corpus whose supervision is organized by capability instead of by source or subject. The authors define four target capabilities — subject competence, [[curriculum-design|curriculum grounding]], diagnostic reasoning, and [[scaffolding|pedagogical action and scaffolding]] — then filter roughly 1.34M candidate examples down to a 69,999-example mixture through cleaning, [[llm]] auditing, quality scoring, and token-budgeted diversity selection (9,048 of those examples are general instructions). Every tuned model beat its own base model on curriculum grounding, K–12 [[problem-solving|problem solving]], and tutoring, with the largest gains in scaffolded instruction and in the use of a student's learning history rather than in answer accuracy alone. OmniEdu-27B leads the open-weight field on those dimensions, while knowledge-state diagnosis remains its weakest measured capability: capability-balanced [[llm-training-and-fine-tuning]] is reproducible from published data and weights.
 
 ## Key Findings
 1. **Capability-balanced supervision improved every scale.** Education-oriented tuning raised results across curriculum grounding, K–12 problem solving, and tutoring at 4B, 9B, and 27B; OmniEdu-27B reached 63.12% EM and 76.69% F1 on K12-Bench against 52.11% and 73.48% for its base.

@@ -5,7 +5,7 @@ updated: "2026-09-20T16:21:35-04:00"
 type: article
 sources: ['raw/papers/chung-personalized-ai-tutors-llm-reinforcement-learning-2026.md']
 confidence: high
-technology: [reinforcement-learning, llm, intelligent-tutoring, adaptive-learning, personalized-learning, pedagogical-llm-training]
+technology: [reinforcement-learning, llm, intelligent-tutoring, adaptive-learning, personalized-learning, llm-training-and-fine-tuning]
 pedagogy: [mastery-learning, scaffolding]
 methods: [rct]
 level: [secondary]

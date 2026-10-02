@@ -525,7 +525,7 @@ ai_assist:
 
 教学行为应当被明确地设计出来，以[[learning-theories|学习理论]]为依据，在不同学习者群体中测试，并在持续使用中受到监测。模型选择很重要，但教学设计这一层仍然不可或缺。一项[[reichert-human-centered-llm-chatbot-design-teachers-2026|与六位中学教师共同开展的参与式设计研究]]提示，安全性来自范围与监督，而不是规模：这些教师各自设计了“有边界的专家”，即把人机监督之下、严格限定在某一领域的专门能力作为系统边界，并由此划出两条边界线（权限边界，因为对学生学习与安全的责任无法委托出去；专长边界，因为人工智能缺乏对个别学生和课堂规范的语境知识）与三层保护（领域边界、带有标准化拒绝的内容过滤，以及教师覆盖）。他们要求的是完整的对话记录与实时告警，而不是更好的模型解释。
 
-参见[[learning-design|教学设计]]、[[pedagogical-llm-training|教学导向的大语言模型训练]]、[[pedagogical-safety|教学安全]]与[[reichert-human-centered-llm-chatbot-design-teachers-2026|有边界专家的聊天机器人设计]]。
+参见[[learning-design|教学设计]]、[[llm-training-and-fine-tuning|教学导向的大语言模型训练]]、[[pedagogical-safety|教学安全]]与[[reichert-human-centered-llm-chatbot-design-teachers-2026|有边界专家的聊天机器人设计]]。
 
 ---
 

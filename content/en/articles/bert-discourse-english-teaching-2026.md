@@ -1,7 +1,7 @@
 ---
 title: "Automatic discourse relation classification and feedback optimization in English teaching based on transformer BERT model"
 created: "2026-08-23T15:00:00-04:00"
-updated: "2026-09-19T08:49:57-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 technology: [educational-nlp, llm]
 assessment: [automated-assessment, feedback, formative-assessment]
@@ -26,7 +26,7 @@ Conventional automated evaluation relies on shallow features — repeated vocabu
 
 ## The BERT Architecture and Fine-Tuning Strategy
 
-The system encodes each adjacent sentence pair as `[CLS]+Sentence-A+[SEP]+Sentence-B+[SEP]` and fine-tunes a truncated BERT base model, **freezing all but the last four Transformer layers** plus a new two-layer classification head that outputs a four-class distribution (causal, contrastive, progressive, incoherent; the first three treated as coherent for a binary judgment). **Weighted cross-entropy** addresses class imbalance, raising the rare "incoherent" class F1 from ~0.31 to ~0.78. A comparison of fine-tuning strategies found 4-layer fine-tuning superior to top-1 (lower ceiling) and full-12-layer (overfitting/oscillation) alternatives.
+The system encodes each adjacent sentence pair as `[CLS]+Sentence-A+[SEP]+Sentence-B+[SEP]` and fine-tunes a truncated BERT base model, **freezing all but the last four Transformer layers** plus a new two-layer classification head that outputs a four-class distribution (causal, contrastive, progressive, incoherent; the first three treated as coherent for a binary judgment). **Weighted cross-entropy** addresses class imbalance, raising the rare "incoherent" class F1 from ~0.31 to ~0.78. A comparison of [[llm-training-and-fine-tuning|fine-tuning]] strategies found 4-layer fine-tuning superior to top-1 (lower ceiling) and full-12-layer (overfitting/oscillation) alternatives.
 
 ## Defect Localization: Attention and Similarity
 

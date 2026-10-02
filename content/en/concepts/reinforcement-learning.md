@@ -44,7 +44,7 @@ A PRISMA-standard [[riedmann-reinforcement-learning-education-review-2026|system
 
 ### Connection to the knowledge base
 
-RL underpins much modern [[agentic-ai]] and [[intelligent-tutoring]] design, where the agent must optimize long-term learning rather than a single correct response. It connects to [[pedagogical-llm-training]] (RL as a training method), [[scaffolding]] (reward design that preserves productive struggle), and [[self-regulated-learning]] (agents that help learners regulate their own strategy). Because reward design encodes educational values, RL research in AIED is tightly tied to [[pedagogical-safety]] and to the equity considerations of [[equity-in-ai-education|equitable]] tutor behavior.
+RL underpins much modern [[agentic-ai]] and [[intelligent-tutoring]] design, where the agent must optimize long-term learning rather than a single correct response. It connects to [[llm-training-and-fine-tuning]] (RL as a training method), [[scaffolding]] (reward design that preserves productive struggle), and [[self-regulated-learning]] (agents that help learners regulate their own strategy). Because reward design encodes educational values, RL research in AIED is tightly tied to [[pedagogical-safety]] and to the equity considerations of [[equity-in-ai-education|equitable]] tutor behavior.
 
 ## Connected Concepts
 
@@ -59,7 +59,7 @@ RL underpins much modern [[agentic-ai]] and [[intelligent-tutoring]] design, whe
 - [[learning-analytics]]
 - [[open-source]]
 - [[pedagogical-safety]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles

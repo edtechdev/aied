@@ -1,7 +1,7 @@
 ---
 title: "Know When to Trust: Making AI Scoring More Reliable for Educational Assessment"
 created: "2026-09-18T12:05:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 assessment: [automated-assessment, automated-essay-scoring, assessment-validity, psychometrically-aware-ai, educational-measurement]
 technology: [llm, generative-ai]
@@ -30,7 +30,7 @@ confidence: high
 
 ## The data and the scoring task
 
-The study reuses the corpus compiled by Organisciak et al. (2023): 27,217 Alternative Uses Test responses from 2,039 participants across eight earlier studies, de-duplicated to 20,202 responses and split 80% test, 15% training and 5% validation, with no further data preparation. Ground truth is the average of human rater judgments on originality, the criterion the earlier literature singles out as the most consequential for creative potential. The scoring task is deliberately reframed as classification: models are fine-tuned to emit a score on a 1.0–5.0 scale scaled tenfold, so that each prediction is a single token drawn from 41 possible classes. Fine-tuning used OpenAI's parameter-efficient API with base models GPT-3.5-turbo-0125, text-davinci-003 and text-babbage-002, all at temperature 0.0; four general models (GPT-4o, GPT-4o-mini, GPT-4.1 and GPT-4.1-mini) were also evaluated in few-shot prompted form, the accessible baseline a practitioner would actually meet. Because models predict one token, the paper's confidence apparatus rests on a constrained problem, which the authors flag repeatedly as a favorable condition rather than an incidental one.
+The study reuses the corpus compiled by Organisciak et al. (2023): 27,217 Alternative Uses Test responses from 2,039 participants across eight earlier studies, de-duplicated to 20,202 responses and split 80% test, 15% training and 5% validation, with no further data preparation. Ground truth is the average of human rater judgments on originality, the criterion the earlier literature singles out as the most consequential for creative potential. The scoring task is deliberately reframed as classification: models are fine-tuned to emit a score on a 1.0–5.0 scale scaled tenfold, so that each prediction is a single token drawn from 41 possible classes. [[llm-training-and-fine-tuning|Fine-tuning]] used OpenAI's parameter-efficient API with base models GPT-3.5-turbo-0125, text-davinci-003 and text-babbage-002, all at temperature 0.0; four general models (GPT-4o, GPT-4o-mini, GPT-4.1 and GPT-4.1-mini) were also evaluated in few-shot prompted form, the accessible baseline a practitioner would actually meet. Because models predict one token, the paper's confidence apparatus rests on a constrained problem, which the authors flag repeatedly as a favorable condition rather than an incidental one.
 
 ## Improvement one: reading the model's own confidence
 

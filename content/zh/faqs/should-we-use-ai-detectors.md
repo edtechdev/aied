@@ -81,7 +81,7 @@ ai_assist:
 
 - **检测工具的输出绝不是独立证据，绝不自动触发后果，也绝不构成认定的依据。** 要把这一点写进政策本身，而不是写进备忘录。([[karr-ai-detection-humanization-2026]])
 - **学生必须能够看到指控并作出回应**，同时保留沉默权，并对任何仅凭风格提出的指控提供口头验证途径。([[bassett-ai-detectors-education-2026]])
-- **采购条款应涵盖数据留存、用于[[pedagogical-llm-training|模型训练]]、存储地点、泄露通知和申诉权利**，因为风险在你所在机构身上，而不在供应商身上。([[bassett-ai-detectors-education-2026]])
+- **采购条款应涵盖数据留存、用于[[llm-training-and-fine-tuning|模型训练]]、存储地点、泄露通知和申诉权利**，因为风险在你所在机构身上，而不在供应商身上。([[bassett-ai-detectors-education-2026]])
 - **为替代方案拨款。** 有记录的教师抱怨是“有怀疑却无救济”，因此真正重要的预算科目是验证能力与指导，而不是一份检测工具许可。([[best-response-student-ai-dialog-2026]])
 - **以书面形式索取错误率，然后尝试在本地验证它们。** 如果宣传的错误率无法在你的提交作品上复现，正如范德堡大学所发现的那样，那就是你的答案。([[teichmann-detecting-undetectable-misconduct-2026]])
 

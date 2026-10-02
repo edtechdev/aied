@@ -4,7 +4,7 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [ai-education]
-technology: [llm, pedagogical-llm-training]
+technology: [llm, llm-training-and-fine-tuning]
 assessment: [automated-question-generation]
 audience: [software developers]
 research_method: [experiment]
@@ -40,7 +40,7 @@ The finding that LLMs lag behind top human students on these riddles reinforces 
 
 ## Open Questions
 
-- How well do [[pedagogical-llm-training]] approaches like EduQwen perform on NSMQ compared to general LLMs?
+- How well do [[llm-training-and-fine-tuning]] approaches like EduQwen perform on NSMQ compared to general LLMs?
 - Can the benchmark be extended to other African and Global South educational systems?
 - What does the clue-progression format reveal about LLM reasoning vs. retrieval?
 

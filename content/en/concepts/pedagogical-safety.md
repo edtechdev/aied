@@ -55,11 +55,11 @@ Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and cont
 
 ### Practical guidance
 
-Design pedagogical safety as a measurable, discipline-aware requirement rather than an afterthought. Evaluate with multi-turn, [[discipline-specific-aied|subject-specific]] [[benchmark|benchmarks]] and unfair-treatment audits, not single-turn toxicity screens; ground responses with [[rag]]; prefer [[pedagogical-llm-training|alignment methods]] that reward guidance and scaffolding over answer-giving; and require [[human-in-the-loop-ai|teacher-in-the-loop]] QA before deployment. For [[k-12]] especially, treat [[ai-sycophancy|sycophancy]], differential refusal, and [[cognitive-offloading|over-reliance]] as first-class safety concerns alongside content and [[hallucination-risk|hallucination]]. Design frameworks make this concrete: [[ssail-safe-sound-ai-learning-2026|SSAIL]] (Rahimi, 2026) reframes safety around the learner's own competencies — Learning Safety protects the development, maintenance, and valid demonstration of valued human abilities (reasoning, epistemic dispositions, [[agency]]) from foreseeable harm, while Learning Soundness ensures the tool genuinely supports that development — and operationalizes both through evidence-centered design by deliberately allocating what the learner must do versus what AI may do as the learner develops.
+Design pedagogical safety as a measurable, discipline-aware requirement rather than an afterthought. Evaluate with multi-turn, [[discipline-specific-aied|subject-specific]] [[benchmark|benchmarks]] and unfair-treatment audits, not single-turn toxicity screens; ground responses with [[rag]]; prefer [[llm-training-and-fine-tuning|alignment methods]] that reward guidance and scaffolding over answer-giving; and require [[human-in-the-loop-ai|teacher-in-the-loop]] QA before deployment. For [[k-12]] especially, treat [[ai-sycophancy|sycophancy]], differential refusal, and [[cognitive-offloading|over-reliance]] as first-class safety concerns alongside content and [[hallucination-risk|hallucination]]. Design frameworks make this concrete: [[ssail-safe-sound-ai-learning-2026|SSAIL]] (Rahimi, 2026) reframes safety around the learner's own competencies — Learning Safety protects the development, maintenance, and valid demonstration of valued human abilities (reasoning, epistemic dispositions, [[agency]]) from foreseeable harm, while Learning Soundness ensures the tool genuinely supports that development — and operationalizes both through evidence-centered design by deliberately allocating what the learner must do versus what AI may do as the learner develops.
 
 ### Connections to related concepts
 
-Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[governance]], [[regulation]], and [[llm]] with the interaction-level concerns of [[trust]], [[scaffolding]], [[metacognition]], and [[self-regulated-learning]]. It operates through [[pedagogical-llm-training|training]] and [[reinforcement-learning|RL]], depends on [[bias-mitigation]] and [[equity-in-ai-education]], and is motivated by the harms catalogued in [[ai-misuse-learning-harm]] and the [[hazra-safetutors-pedagogical-safety-2026|tutor harm taxonomies]].
+Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[governance]], [[regulation]], and [[llm]] with the interaction-level concerns of [[trust]], [[scaffolding]], [[metacognition]], and [[self-regulated-learning]]. It operates through [[llm-training-and-fine-tuning|training]] and [[reinforcement-learning|RL]], depends on [[bias-mitigation]] and [[equity-in-ai-education]], and is motivated by the harms catalogued in [[ai-misuse-learning-harm]] and the [[hazra-safetutors-pedagogical-safety-2026|tutor harm taxonomies]].
 
 ## Connected Concepts
 - [[guardrails]] — the design mechanisms that implement safety
@@ -71,7 +71,7 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 - [[governance]]
 - [[llm]]
 - [[cognitive-offloading]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[intelligent-tutoring]]
 - [[bias-mitigation]]
 - [[reinforcement-learning]]

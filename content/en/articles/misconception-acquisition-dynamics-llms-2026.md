@@ -3,7 +3,7 @@ title: "Misconception Acquisition Dynamics in Large Language Models"
 created: "2026-09-19T21:07:40-04:00"
 updated: "2026-09-19T22:08:08-04:00"
 type: article
-technology: [llm, generative-ai, student-modeling, simulating-students, pedagogical-llm-training]
+technology: [llm, generative-ai, student-modeling, simulating-students, llm-training-and-fine-tuning]
 pedagogy: [problem-solving, mastery-learning]
 methods: [quantitative-research]
 research_method: [experiment]
@@ -18,7 +18,7 @@ reviewed_by: [editor]
 
 > **Synthesis:** Liu, Chen, Baraniuk, Sachan and Sonkar ask whether an [[llm]] can be *taught* to hold a misconception — and what that training does to its ability to solve problems correctly. They formalize two targets: the **Novice Student Misconception Model** (a [[simulating-students|simulated student]] that acquires one misconception) and the **Expert Tutor Misconception Model** (a tutor that acquires many [[misconceptions]] at once, a computational analogue of teachers' knowledge of student misconceptions). To study both under controlled data, they build **MalAlgoLib**, a graph-based generator of linear-equation problems with correct and misconception-specific solution traces (16 problem types, 20 misconceptions drawn from the algebra mal-rule literature).
 > The central finding is that the two models behave in opposite ways. The [[student-modeling|student model]] cannot localize a misconception: it overapplies the flawed step across problem types and its correct-solving accuracy falls as misconception accuracy rises, a trade-off that only disappears when correct examples are explicitly mixed into the training data. The tutor model shows no such trade-off: trained on ten misconceptions jointly, its overall correct accuracy stays stable or *improves* (93% to 98%), which the authors attribute to the contrastive signal that many error patterns provide. Neither model acquires anything, however, without **step-level supervision**: trained on final answers alone, misconception accuracy never exceeds about 30% regardless of data size.
-> This is a direct training-side complement to [[llm-student-simulation-misconception-faithfulness|misconception faithfulness]] research — that work showed simulators abandon their assigned misconception when corrected; this one shows what has to be true in the training data before a [[simulation|simulator]] holds one at all. The practical reading for [[pedagogical-llm-training]] is that data *[[writing-education|composition]]* (correct examples, step traces, multiple misconceptions) matters more than data *volume*.
+> This is a direct training-side complement to [[llm-student-simulation-misconception-faithfulness|misconception faithfulness]] research — that work showed simulators abandon their assigned misconception when corrected; this one shows what has to be true in the training data before a [[simulation|simulator]] holds one at all. The practical reading for [[llm-training-and-fine-tuning]] is that data *[[writing-education|composition]]* (correct examples, step traces, multiple misconceptions) matters more than data *volume*.
 
 ## Key Findings
 

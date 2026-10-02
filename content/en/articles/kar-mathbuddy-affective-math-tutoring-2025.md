@@ -3,7 +3,7 @@ title: "MathBuddy: Affective Math Tutoring"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-20T04:00:38-04:00"
 type: article
-technology: [affective-computing, affective-tutoring, intelligent-tutoring, pedagogical-llm-training, rag, open-source]
+technology: [affective-computing, affective-tutoring, intelligent-tutoring, llm-training-and-fine-tuning, rag, open-source]
 audience: [software developers]
 research_method: [system development, user study]
 discipline: [math education]

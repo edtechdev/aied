@@ -4,7 +4,7 @@ created: "2026-07-15T04:33:04-04:00"
 updated: "2026-09-20T03:45:11-04:00"
 type: article
 pedagogy: [active-learning, scaffolding]
-technology: [generative-ai, llm, pedagogical-llm-training, personalized-learning]
+technology: [generative-ai, llm, llm-training-and-fine-tuning, personalized-learning]
 audience: [software developers]
 research_method: [system development, experiment]
 sources: ['raw/papers/2607.12235.md']

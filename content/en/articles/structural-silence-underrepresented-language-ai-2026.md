@@ -18,7 +18,7 @@ audience: [policymakers, researchers, institutions]
 ## Key Findings
 
 1. Underrepresented languages are excluded from AI infrastructure through **structural, design-level decisions** — not explicit policy — and this exclusion compounds across four layers: web presence, training tokens, tokenization, and deployment connectivity.
-2. Bengali represents roughly 4% of the global population but less than 0.5% of global web content, while English holds ~49.5% of web content — a web-presence gap that precedes any [[pedagogical-llm-training|model training]].
+2. Bengali represents roughly 4% of the global population but less than 0.5% of global web content, while English holds ~49.5% of web content — a web-presence gap that precedes any [[llm-training-and-fine-tuning|model training]].
 3. Major multilingual corpora allocate tokens at a **67:1 English-to-Bengali deficit**, and Bengali's alphasyllabary script compounds the data shortfall by forcing higher **token fertility** under standard Latin-script tokenizers, so equal data volumes still leave a performance gap.
 4. Rural learners face a connectivity exclusion (36.5% individual internet penetration vs 71.4% urban) that makes cloud-dependent AI tools functionally inaccessible, turning native-language, **offline-first design** into a prerequisite for educational access rather than a convenience.
 

@@ -1,7 +1,7 @@
 ---
 title: Technologies
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-02T07:32:07-04:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ## AI systems in education
 
-- **Large language models (LLMs).** The computational backbone of most modern [[ai-education|AIED]] — [[llm|LLMs]] generate human-like text for tutoring, assessment, and content generation, and are the most-referenced technology in the knowledge base. [[pedagogical-llm-training|Pedagogical training]] adapts general LLMs for educational use.
+- **Large language models (LLMs).** The computational backbone of most modern [[ai-education|AIED]] — [[llm|LLMs]] generate human-like text for tutoring, assessment, and content generation, and are the most-referenced technology in the knowledge base. [[llm-training-and-fine-tuning|Training and fine-tuning]] adapts general LLMs for educational use.
 - **Generative AI.** The broader category of systems that produce text, code, images, and other content — [[generative-ai|generative AI]] (driven chiefly by LLMs) is the technology behind the current wave of [[ai-education|AIED]] research. See also [[multimodal|multimodal models]] (text, image, audio) and [[simulation]].
 - **Robots and embodied systems.** [[educational-robotics|Robots in education]] add an embodied and often social presence — programmable kits for computational thinking and humanoid/social robots for tutoring, storytelling, and role-play. Robotics is a distinct technical strand that overlaps [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] design.
 - **Knowledge-based systems.** [[knowledge-graph|Knowledge graphs]] and [[educational-nlp|educational NLP]] represent and process domain knowledge, increasingly combined with LLMs for grounded, explainable tutoring.
@@ -37,7 +37,7 @@ reviewed_by: [editor]
 - **Reinforcement learning.** [[reinforcement-learning|Reinforcement learning]] trains agents to optimize behavior over time, used in [[adaptive-learning|adaptive systems]] and [[game-based-learning|game-based learning]].
 - **Agentic orchestration.** [[agentic-ai|Agentic AI]] systems plan and execute multi-step workflows — often orchestrating multiple specialized agents (see [[agentic-ai|multi-agent systems]]) — and are reshaping AI from a prompt-responding tool into a proactive collaborator.
 - **The educational agent stack lags the frontier.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] mapped 474 studies and found GPT-series models and LangChain dominant while governed tool orchestration, persistent memory, and long-horizon planning were largely absent — and only 138 of 474 (29%) drew on educational theory.
-- **Model training and adaptation.** [[pedagogical-llm-training|Training and fine-tuning LLMs for pedagogy]], [[educational-llm-alignment|educational alignment]], and [[cstutorbench-slm-tutors|small-language-model adaptation]] make general models education-specific.
+- **Model training and adaptation.** [[llm-training-and-fine-tuning|LLM training and fine-tuning]], [[educational-llm-alignment|educational alignment]], and [[cstutorbench-slm-tutors|small-language-model adaptation]] make general models education-specific — though the evidence in the knowledge base puts [[rag|retrieval]] and [[prompt-engineering|prompting]] ahead of training in the decision order, since a well-grounded prompt is cheaper than an adapted model.
 
 ## How the technical layer connects to the field
 
@@ -68,7 +68,7 @@ The technical strand is inseparable from the knowledge base's other themes:
 - [[prompt-engineering]]
 - [[vibe-coding]]
 - [[rag]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[ai-ed-evaluation]]
 - [[benchmark]]
 - [[pedagogy]]

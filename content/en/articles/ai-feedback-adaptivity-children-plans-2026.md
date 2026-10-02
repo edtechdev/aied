@@ -60,7 +60,7 @@ The authors' proposed mechanism is perceptual and cognitive rather than stylisti
 
 - [[transfer-of-learning|Transfer]] is unmeasured: the study captures short-term revision inside a highly structured experiment, leaving open whether adaptive feedback builds sustained planning skill, whether it works in less structured settings, and whether quality criteria must be predefined for it to bite.
 - The task was deliberately narrow, with one short cue to write and explicit rubric criteria, so more complex, ill-defined tasks may not show the same adaptivity advantage.
-- The sample is 155 children around age twelve in central Germany, over half on the Gymnasium track, so findings may not hold for other ages, tracks or cultures, and the authors flag the open question of learners underrepresented in [[pedagogical-llm-training|model training]] data.
+- The sample is 155 children around age twelve in central Germany, over half on the Gymnasium track, so findings may not hold for other ages, tracks or cultures, and the authors flag the open question of learners underrepresented in [[llm-training-and-fine-tuning|model training]] data.
 - Two design features are entangled with the manipulation: prompts instructed the model to adopt a teacher-like role with academic language and an evaluative stance, so authoritative social cues may contribute to the effects alongside contingency itself, and adaptivity is operationalized only as response-contingent content adaptation, ignoring stable learner characteristics; the reliance on a single model version (GPT-4, chosen as the accessible reference model at the time) is a further dependency, since the authors tested other models only informally and model-specific behavior is not part of the design.
 
 ## Citation

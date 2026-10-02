@@ -53,7 +53,7 @@ const en: HomeStrings = {
     {
       id: 'developers',
       heading: 'Desarrolladores',
-      html: `<a href="/aied/concepts/educational-technology-developers/">Construir para la educación</a>, <a href="/aied/concepts/ai-technologies/">las tecnologías subyacentes</a>, <a href="/aied/concepts/intelligent-tutoring/">la tutoría inteligente</a>, <a href="/aied/concepts/multimodal/">la IA multimodal</a>, <a href="/aied/concepts/student-modeling/">el modelado de estudiantes</a> y <a href="/aied/concepts/pedagogical-llm-training/">entrenar y adaptar un modelo para la enseñanza</a>.`,
+      html: `<a href="/aied/concepts/educational-technology-developers/">Construir para la educación</a>, <a href="/aied/concepts/ai-technologies/">las tecnologías subyacentes</a>, <a href="/aied/concepts/intelligent-tutoring/">la tutoría inteligente</a>, <a href="/aied/concepts/multimodal/">la IA multimodal</a>, <a href="/aied/concepts/student-modeling/">el modelado de estudiantes</a> y <a href="/aied/concepts/llm-training-and-fine-tuning/">entrenar y adaptar un modelo para la enseñanza</a>.`,
     },
     {
       id: 'administrators',

@@ -1,7 +1,7 @@
 ---
 title: "IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-19T12:17:22-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 pedagogy: [learning-theories]
 technology: [llm, personalized-learning, open-source]
@@ -14,7 +14,7 @@ confidence: medium
 level: [secondary, k 12]
 ---
 
-> **Synthesis:** Presents a 24,795-example [[multilingual-learning|multilingual]] instruction dataset for [[teacher-role|teaching]] LLMs to deliver educational content grounded in Indian Knowledge Systems. Spans seven languages and bridges a gap in non-Western [[pedagogy|pedagogical]] content for instruction tuning. Demonstrates that [[discipline-specific-aied|domain-specific]] educational datasets improve [[llm]] performance on culturally grounded knowledge tasks.
+> **Synthesis:** Presents a 24,795-example [[multilingual-learning|multilingual]] instruction dataset for [[teacher-role|teaching]] LLMs to deliver educational content grounded in Indian Knowledge Systems. Spans seven languages and bridges a gap in non-Western [[pedagogy|pedagogical]] content for [[llm-training-and-fine-tuning|instruction tuning]]. Demonstrates that [[discipline-specific-aied|domain-specific]] educational datasets improve [[llm]] performance on culturally grounded knowledge tasks.
 
 ## Key Findings
 

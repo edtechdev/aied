@@ -1,7 +1,7 @@
 ---
 title: "How Can We Address Common Misconceptions About AI in Education?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-10-02T07:32:12-04:00"
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
 technology: [prompt-engineering]
@@ -515,7 +515,7 @@ A larger model may solve more difficult problems while still failing to:
 
 Pedagogical behavior should be explicitly designed, grounded in [[learning-theories|learning theory]], tested across learner groups, and monitored during sustained use. Model selection matters, but the instructional design layer remains essential. A [[reichert-human-centered-llm-chatbot-design-teachers-2026|participatory design study with six secondary teachers]] suggests safety comes from scope and oversight rather than scale: the teachers independently designed "bounded experts"—specialized capability confined to a strictly defined domain under human supervision—drawing two boundary lines (authority boundaries, because responsibility for student learning and safety cannot be delegated, and expertise boundaries, because AI lacks contextual knowledge of individual students and classroom norms) and three protective layers (domain boundaries, content filtering with standardized refusals, and teacher override). They asked for full conversation logging and real-time alerts rather than better model explanations.
 
-See [[learning-design|Learning Design]], [[pedagogical-llm-training|Pedagogical LLM Training]], [[pedagogical-safety|Pedagogical Safety]], and [[reichert-human-centered-llm-chatbot-design-teachers-2026|bounded-expert chatbot design]].
+See [[learning-design|Learning Design]], [[llm-training-and-fine-tuning|LLM Training and Fine-Tuning]], [[pedagogical-safety|Pedagogical Safety]], and [[reichert-human-centered-llm-chatbot-design-teachers-2026|bounded-expert chatbot design]].
 
 ---
 

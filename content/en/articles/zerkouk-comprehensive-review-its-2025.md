@@ -4,7 +4,7 @@ created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-20T04:00:38-04:00"
 type: article
 pedagogy: [scaffolding]
-technology: [adaptive-learning, educational-nlp, intelligent-tutoring, pedagogical-agent, pedagogical-llm-training]
+technology: [adaptive-learning, educational-nlp, intelligent-tutoring, pedagogical-agent, llm-training-and-fine-tuning]
 research_method: [literature review]
 sources: ['raw/papers/zerkouk-comprehensive-review-its-2025.md']
 confidence: medium
@@ -20,7 +20,7 @@ This review provides the most comprehensive mapping of the [[intelligent-tutorin
 
 **Mixed effectiveness evidence.** The review's central finding is that ITS effectiveness is neither uniformly positive nor categorically negative. ITS can improve student performance by roughly **20%** on average, yet individual human tutoring still demonstrates up to **98%** improvement — the cost/scalability gap ITS aim to fill. Some systems demonstrate substantial learning-gains, particularly in well-structured domains like [[math-education|mathematics]] and programming where [[student-modeling]] and [[knowledge-tracing]] techniques are most mature. Other deployments show negligible or context-dependent effects. This mixed picture challenges both the optimistic narrative that AI tutoring is a proven solution and the pessimistic narrative that it is ineffective. Instead, it calls for more nuanced questions: *which* systems, for *which* learners, in *which* contexts, produce *which* outcomes? This aligns with the [[meta-analysis-systematic-review|systematic-review literature]]'s emphasis on contextual factors.
 
-**Pedagogical strategies.** The review catalogs the range of pedagogical approaches embedded in ITS, from [[socratic-method]] and [[scaffolding]] to [[adaptive-learning]] and [[adaptive-learning]] pathways. A key finding is that many ITS implementations lack explicit pedagogical grounding — the tutoring behavior is often driven by technical capabilities (what the system can do) rather than pedagogical principles (what the system should do). This echoes concerns in the [[pedagogical-llm-training]] literature about the gap between technical sophistication and pedagogical intentionality.
+**Pedagogical strategies.** The review catalogs the range of pedagogical approaches embedded in ITS, from [[socratic-method]] and [[scaffolding]] to [[adaptive-learning]] and [[adaptive-learning]] pathways. A key finding is that many ITS implementations lack explicit pedagogical grounding — the tutoring behavior is often driven by technical capabilities (what the system can do) rather than pedagogical principles (what the system should do). This echoes concerns in the [[llm-training-and-fine-tuning]] literature about the gap between technical sophistication and pedagogical intentionality.
 
 **NLP and adaptive mechanisms.** The integration of [[educational-nlp]] techniques — including [[automated-question-generation]], short-answer assessment, and dialogue management — has advanced substantially over the review period. However, the review notes that many NLP components are evaluated in isolation rather than as integrated parts of tutoring systems that actually interact with learners. Similarly, [[adaptive-learning]] show promise but often rely on narrow student models that fail to capture the full complexity of learner cognition and affect — a gap that the [[affective-tutoring]] and [[syal-multimodal-dialogue-stem-2026]] communities are beginning to address.
 
@@ -32,7 +32,7 @@ This review provides the most comprehensive mapping of the [[intelligent-tutorin
 
 | Claim in review | Supporting evidence in knowledge base | Contradictory evidence |
 |---|---|---|
-| ITS show mixed real-world effectiveness | [[stanford-evidence-base-ai-k12-2026]] (only 20/818 papers meet causal standards) | [[pedagogical-llm-training|EduQwen]] (96.52% benchmark, but benchmark ≠ classroom) |
+| ITS show mixed real-world effectiveness | [[stanford-evidence-base-ai-k12-2026]] (only 20/818 papers meet causal standards) | [[llm-training-and-fine-tuning|EduQwen]] (96.52% benchmark, but benchmark ≠ classroom) |
 | Need for stronger experimental rigor | [[educational-llm-alignment|Hardy & Kim]] (benchmark≠[[teacher-role|teaching]] quality) | — |
 | NLP advances for dialogue | [[huang-interpretable-knowledge-tracing-2026]] (interpretable dialogue modeling) | [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] (multi-turn degradation: 17.7% → 77.8%) |
 | [[affective-computing|Affective computing]] as advancement | [[affective-tutoring|MathBuddy]] (+23 points win rate) | [[hazra-safetutors-pedagogical-safety-2026]] (emotional risks, parasocial dependency) |

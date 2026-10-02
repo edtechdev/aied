@@ -1,7 +1,7 @@
 ---
 title: "NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts"
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-09-19T11:14:39-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 technology: [generative-ai, multimodal, visualization]
 methods: [benchmark]
@@ -13,7 +13,7 @@ confidence: high
 page_kind: [evaluation, framework]
 ---
 
-> **Synthesis:** Radaideh et al. (2026) test whether fine-tuning open-source text-to-image models on nuclear imagery makes [[generative-ai|generative AI]] usable for a safety-critical engineering domain, and find the answer depends on the architecture rather than the parameter count. Curating 1,000 captioned nuclear images and fine-tuning Stable Diffusion XL, SD-v3.5-Medium, and the flow-matching Flux.1 model, they report that fine-tuning substantially improves SDXL, gives limited gains for SD-v3.5-Medium, and produces no measurable improvement for Flux.1 at all — and that human judgment, not embedding-based metrics, was the only reliable way to rank checkpoints. The study's most transferable contribution for [[discipline-specific-aied|domain-specific AIED]] is its methodological warning: standard text-image metrics (CLIP, KID, CMMD) disagreed with each other and with expert assessment on unfamiliar, specialized imagery.
+> **Synthesis:** Radaideh et al. (2026) test whether [[llm-training-and-fine-tuning|fine-tuning]] open-source text-to-image models on nuclear imagery makes [[generative-ai|generative AI]] usable for a safety-critical engineering domain, and find the answer depends on the architecture rather than the parameter count. Curating 1,000 captioned nuclear images and fine-tuning Stable Diffusion XL, SD-v3.5-Medium, and the flow-matching Flux.1 model, they report that fine-tuning substantially improves SDXL, gives limited gains for SD-v3.5-Medium, and produces no measurable improvement for Flux.1 at all — and that human judgment, not embedding-based metrics, was the only reliable way to rank checkpoints. The study's most transferable contribution for [[discipline-specific-aied|domain-specific AIED]] is its methodological warning: standard text-image metrics (CLIP, KID, CMMD) disagreed with each other and with expert assessment on unfamiliar, specialized imagery.
 
 ## Overview
 

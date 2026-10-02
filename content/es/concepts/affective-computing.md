@@ -68,7 +68,7 @@ La computación afectiva se sitúa en la intersección de la [[affective-tutorin
 - [[student-modeling]]
 - [[math-education]]
 - [[open-source]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[ai-sycophancy]]
 - [[social-emotional-learning]] — Aprendizaje socioemocional
 ## Artículos conectados

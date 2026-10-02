@@ -3,7 +3,7 @@ title: "SWIM: Student Writing Simulation via Proficiency-Conditioned Generation"
 created: "2026-09-19T21:07:40-04:00"
 updated: "2026-09-19T22:08:08-04:00"
 type: article
-technology: [llm, generative-ai, simulating-students, student-modeling, pedagogical-llm-training, reinforcement-learning]
+technology: [llm, generative-ai, simulating-students, student-modeling, llm-training-and-fine-tuning, reinforcement-learning]
 assessment: [automated-essay-scoring, assessment]
 methods: [quantitative-research]
 research_method: [experiment]

@@ -1,7 +1,7 @@
 ---
 title: "Towards sustainable AI knowledge-base assistants in computer science education: on-premise deployment and optimization with open educational resources"
 created: "2026-08-15T09:23:09-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 
 technology: [generative-ai, llm, rag, edtech-platform, open-source]
@@ -47,7 +47,7 @@ A second motivation is [[sustainability]]: if every student query carries a clou
 - **Designers.** Quantize with fine-tuning rather than after it — quantization-aware training cut the FP16-to-4-bit gap to 1.7 pp (Qwen-7B) and 1.2 pp (DeepSeek-MoE) while reducing VRAM 38.7% and 37.9%, and pulled hallucination back to 8.1% for DeepSeek-MoE where plain quantization had raised it to 10.4%.
 - **Designers.** Spend effort on retrieval quality before caching tricks: removing metadata-enriched embeddings caused the largest accuracy swing (69.8% → 65.3%), while KV caching mainly reduced latency and dynamic batching and curriculum-specific attention masking mainly improved energy efficiency.
 - **Administrators.** Plan around one consumer GPU as the hardware floor (NVIDIA RTX 3060, 12 GB VRAM) and budget energy per query — the most efficient configuration used 1.8 mWh per query, about 0.54 Wh for 30 students submitting 10 queries each — when comparing on-premise deployment against cloud APIs.
-- **Administrators.** Insist on an openly licensed corpus, since open licensing is what allows documents to be indexed, adapted for instruction tuning, and served locally without negotiating rights.
+- **Administrators.** Insist on an openly licensed corpus, since open licensing is what allows documents to be indexed, adapted for [[llm-training-and-fine-tuning|instruction tuning]], and served locally without negotiating rights.
 
 ## Limitations
 

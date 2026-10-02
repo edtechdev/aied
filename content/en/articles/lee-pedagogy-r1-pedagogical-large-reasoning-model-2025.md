@@ -14,7 +14,7 @@ ai_assist:
 reviewed_by: [editor]
 foundations: [teacher-role]
 pedagogy: [scaffolding, metacognition]
-technology: [llm, generative-ai, machine-learning, pedagogical-llm-training, prompt-engineering]
+technology: [llm, generative-ai, machine-learning, llm-training-and-fine-tuning, prompt-engineering]
 ethics: [legal-issues-and-risks]
 research_method: [system development, design and evaluation study, thematic analysis]
 discipline: [learning sciences]

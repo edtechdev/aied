@@ -4,7 +4,7 @@ created: "2026-08-10T17:33:14-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [ai-literacy, educational-development, teacher-ai-competency]
-technology: [pedagogical-llm-training]
+technology: [llm-training-and-fine-tuning]
 methods: [design-based-research]
 audience: [faculty developers]
 level: [higher ed, k 12]

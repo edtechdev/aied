@@ -4,7 +4,7 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-20T08:50:39-04:00"
 type: article
 pedagogy: [mastery-learning]
-technology: [adaptive-learning, intelligent-tutoring, learning-analytics, machine-learning, pedagogical-llm-training, rag]
+technology: [adaptive-learning, intelligent-tutoring, learning-analytics, machine-learning, llm-training-and-fine-tuning, rag]
 methods: [benchmark]
 ethics: [pedagogical-safety]
 audience: [learners, software developers]
@@ -93,7 +93,7 @@ The paper positions this under **responsible AI** (Goellner et al., 2024: "human
 3. **Data efficiency:** Practical in real educational settings where large labeled datasets are rare.
 4. **Temporal [[trust|trustworthiness]]:** Predictions don't oscillate wildly — a key requirement for [[student-experience|student trust]] and instructor decision-making.
 
-This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tutoring alignment]] and demonstrates a path toward [[finkelstein-principled-ai-education-2025]] — augment, don't displace, pedagogical reasoning.
+This contrasts with opaque LLM-based approaches in [[llm-training-and-fine-tuning|tutoring alignment]] and demonstrates a path toward [[finkelstein-principled-ai-education-2025]] — augment, don't displace, pedagogical reasoning.
 
 ## Open Questions
 

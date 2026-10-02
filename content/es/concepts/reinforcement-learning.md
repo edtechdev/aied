@@ -49,7 +49,7 @@ Una [[riedmann-reinforcement-learning-education-review-2026|revisión sistemáti
 
 ### Conexión con la base de conocimiento
 
-El RL sustenta buena parte del diseño moderno de [[agentic-ai|IA agéntica]] y de [[intelligent-tutoring|tutoría inteligente]], donde el agente debe optimizar el aprendizaje a largo plazo y no una única respuesta correcta. Se conecta con el [[pedagogical-llm-training|entrenamiento pedagógico de LLM]] (el RL como método de entrenamiento), con el [[scaffolding|andamiaje]] (un diseño de la recompensa que preserve el esfuerzo productivo) y con el [[self-regulated-learning|aprendizaje autorregulado]] (agentes que ayudan a quien aprende a regular su propia estrategia). Como el diseño de la recompensa codifica valores educativos, la investigación sobre RL en la AIED está estrechamente ligada a la [[pedagogical-safety|seguridad pedagógica]] y a las consideraciones de equidad del comportamiento [[equity-in-ai-education|equitativo]] de los tutores.
+El RL sustenta buena parte del diseño moderno de [[agentic-ai|IA agéntica]] y de [[intelligent-tutoring|tutoría inteligente]], donde el agente debe optimizar el aprendizaje a largo plazo y no una única respuesta correcta. Se conecta con el [[llm-training-and-fine-tuning|entrenamiento pedagógico de LLM]] (el RL como método de entrenamiento), con el [[scaffolding|andamiaje]] (un diseño de la recompensa que preserve el esfuerzo productivo) y con el [[self-regulated-learning|aprendizaje autorregulado]] (agentes que ayudan a quien aprende a regular su propia estrategia). Como el diseño de la recompensa codifica valores educativos, la investigación sobre RL en la AIED está estrechamente ligada a la [[pedagogical-safety|seguridad pedagógica]] y a las consideraciones de equidad del comportamiento [[equity-in-ai-education|equitativo]] de los tutores.
 
 ## Conceptos conectados
 
@@ -64,7 +64,7 @@ El RL sustenta buena parte del diseño moderno de [[agentic-ai|IA agéntica]] y 
 - [[learning-analytics]]
 - [[open-source]]
 - [[pedagogical-safety]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[ai-technologies]] — Marco general: tecnologías y técnicas de IA (modelos, entrenamiento de LLM, robótica, RAG, IA agéntica)
 
 ## Artículos conectados

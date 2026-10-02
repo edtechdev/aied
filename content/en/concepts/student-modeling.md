@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-02T07:37:41-04:00"
 type: concept
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
@@ -87,6 +87,9 @@ Risk scores can be accurate yet unsupported: [[at-risk-students-ml-prediction|Gh
 
 
 A learner model that only predicts risk is not enough for decision support: coupling a calibrated at-risk model with integer-programming recourse over discrete actions — validated against timing, budget, immutability and availability constraints — produced compact intervention plans where optimization alone accepted unenactable ones ([[sc2r-counterfactual-recourse-educational-2026|Le, Abel & Laforge (2026)]]).
+
+A black-box estimator can also be distilled into a small self-explaining model: a two-stage pipeline turns a fitted estimator and its post-hoc interpretation into a 2B-parameter "mentee" that returns an estimate alongside a narration, audited for faithfulness rather than for fluency ([[distilling-self-explaining-lm-learning-analytics-2026]]).
+
 ## Connections to other concepts
 
 Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[visualization|dashboards]] and interventions), [[formative-assessment]] (analytics-driven assessment), and [[feedback]] (what the system tells the learner). It connects to [[ai-education]] as a core strand of AI for education.

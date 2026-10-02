@@ -1,7 +1,7 @@
 ---
 title: "Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams"
 created: "2026-09-25T09:40:00-04:00"
-updated: "2026-09-25T09:40:00-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 sources: ['raw/papers/llm-graders-computer-science-exams-2026.md']
 confidence: high
@@ -24,7 +24,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A Computer Vision exam, dual-graded by fixed human pairs, becomes the testbed for [[automated-assessment]] in [[cs-education]]: 570 students, 171 configurations spanning closed and open-weights models from 7B to 480B. The best reaches mean absolute error 1.64/35, under the 2.61/35 human graders achieve against each other. The catch is the prompt: a short "strict grader" preamble drives 14 of 17 open-weights models out of the graded band, three stopping grading entirely, while closed flagships of three vendors only shift calibration. The damage traces to two credit-withholding policy sentences, not tone or scale. A 162-configuration replication on an independent [[machine-learning|Machine Learning]] exam (1,038 students) reproduces the vulnerability but not its direction: the same sentence worsens ten models and improves seven whose neutral prompts over-mark. LoRA fine-tuning on the pooled ~3,900 graded examples brings five small [[open-source|open models]] to parity or better with a human grader and nearly erases persona sensitivity. One well-behaved prompt is not evidence of a usable grader — a caution for [[ai-ed-evaluation]] and [[assessment-validity]].
+> **Synthesis:** A Computer Vision exam, dual-graded by fixed human pairs, becomes the testbed for [[automated-assessment]] in [[cs-education]]: 570 students, 171 configurations spanning closed and open-weights models from 7B to 480B. The best reaches mean absolute error 1.64/35, under the 2.61/35 human graders achieve against each other. The catch is the prompt: a short "strict grader" preamble drives 14 of 17 open-weights models out of the graded band, three stopping grading entirely, while closed flagships of three vendors only shift calibration. The damage traces to two credit-withholding policy sentences, not tone or scale. A 162-configuration replication on an independent [[machine-learning|Machine Learning]] exam (1,038 students) reproduces the vulnerability but not its direction: the same sentence worsens ten models and improves seven whose neutral prompts over-mark. LoRA [[llm-training-and-fine-tuning|fine-tuning]] on the pooled ~3,900 graded examples brings five small [[open-source|open models]] to parity or better with a human grader and nearly erases persona sensitivity. One well-behaved prompt is not evidence of a usable grader — a caution for [[ai-ed-evaluation]] and [[assessment-validity]].
 
 ## Key Findings
 

@@ -39,7 +39,7 @@ Unlike direct-instruction AI tutors that give answers, Socratic AI tutors use qu
 - **Surface [[misconceptions]]** — through carefully chosen counterexamples
 - **Guide toward insight** — without giving the answer away
 
-The Socratic approach directly embodies the principle from [[pedagogical-llm-training|EduQwen]]: **reward "guiding" over "answering."** However, real-time Socratic calibration is harder than paper-bench pedagogy: EduQwen optimizes for correct guiding on a multiple-choice [[benchmark]], whereas a live Socratic tutor must decide *when* to guide, *when* to hint, and *when* to answer — based on real-time student signals. [[affective-tutoring|Affective state]] is a critical moderator: a frustrated student may need a brief direct answer before returning to Socratic mode.
+The Socratic approach directly embodies the principle from [[llm-training-and-fine-tuning|EduQwen]]: **reward "guiding" over "answering."** However, real-time Socratic calibration is harder than paper-bench pedagogy: EduQwen optimizes for correct guiding on a multiple-choice [[benchmark]], whereas a live Socratic tutor must decide *when* to guide, *when* to hint, and *when* to answer — based on real-time student signals. [[affective-tutoring|Affective state]] is a critical moderator: a frustrated student may need a brief direct answer before returning to Socratic mode.
 
 ## Evidence of effectiveness
 

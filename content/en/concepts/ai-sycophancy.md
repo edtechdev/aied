@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-09-30T12:20:22-04:00"
+updated: "2026-10-02T07:35:56-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [affective-computing, generative-ai, llm]
@@ -53,7 +53,7 @@ Sycophancy sits at the intersection of [[generative-ai]] behavior, [[ethics]], [
 
 ## Connections to related concepts
 
-Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misattribution]] (students may misattribute a sycophantic AI's affirmation to their own competence), to [[feedback]] and [[ai-feedback-quality]] (feedback must sometimes challenge, not merely support), to [[trust]] and [[trust-calibration]] (uncritical trust enables the error loop), to [[bias-mitigation]] and [[hallucination-risk]], and to [[ai-literacy]] (learners must be taught to recognize and resist sycophantic agreement). Its mitigation — kind-but-correct tutoring, epistemic independence, benchmark-based evaluation — is a central design goal of [[pedagogical-safety]], [[pedagogical-llm-training]], and [[educational-llm-alignment]].
+Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misattribution]] (students may misattribute a sycophantic AI's affirmation to their own competence), to [[feedback]] and [[ai-feedback-quality]] (feedback must sometimes challenge, not merely support), and to [[trust]] and [[trust-calibration]] (uncritical trust enables the error loop). It also connects to [[bias-mitigation]] and [[hallucination-risk]], and to [[ai-literacy]] (learners must be taught to recognize and resist sycophantic agreement). Its mitigation — kind-but-correct tutoring, epistemic independence, benchmark-based evaluation — is a central design goal of [[pedagogical-safety]], [[llm-training-and-fine-tuning]], and [[educational-llm-alignment]].
 
 **Sycophancy as the loss of corrective feedback.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] identify the functional cost of sycophancy rather than merely noting the behavior: real friends and partners disagree, challenge our views and disappoint us, which is precisely the *corrective feedback* that sycophantic AI companions lack, and that friction is what makes relationships robust and gives them shared history. They cite evidence that AI companions agree with nearly everything, "even when we say and believe dangerous things" (Ibrahim, Hafner & Rocher 2025), and note a related asymmetry in empathy ratings: AI-generated empathic responses are rated higher in quality than human ones until recipients learn the interlocutor is an AI. For education the implication is that a system optimized for warmth and agreement removes the error signal learners need, so sycophancy is a design problem with a [[pedagogy|pedagogical]] cost rather than only a politeness bug ([[trust-calibration]], [[feedback-literacy]]).
 
@@ -79,7 +79,7 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 - [[ai-literacy]]
 - [[bias-mitigation]]
 - [[hallucination-risk]]
-- [[pedagogical-llm-training]]
+- [[llm-training-and-fine-tuning]]
 - [[simulating-students]]
 - [[student-modeling]]
 - [[misconceptions]]

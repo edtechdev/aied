@@ -1,7 +1,7 @@
 ---
 title: "Automatic Reflection Level Classification in Hungarian Student Essays"
 created: "2026-09-27T07:21:21-04:00"
-updated: "2026-09-27T08:45:00-04:00"
+updated: "2026-10-02T07:31:21-04:00"
 type: article
 sources: ['raw/papers/reflection-level-classification-hungarian-essays-2026.md']
 confidence: high
@@ -25,7 +25,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Reflective writing is a core competency in [[teacher-education|teacher training]], but scoring it by hand does not scale. This paper reports the first comprehensive study of automatic reflection level classification for Hungarian student essays, using 1,954 expert-annotated essays written over four consecutive years by students in an Early Childhood Education program. The authors compare classical [[machine-learning|machine learning]] on TF-IDF features and Qwen3 semantic embeddings against two fine-tuned Hungarian transformers, hubert-base-cc and PULI-BERT-Large. The corpus is severely skewed, with 68% of essays at level 3 and 1.8% at level 0, so much of the paper is an ablation study of imbalance handling. Shallow models reached up to 71% overall score averaged over accuracy, F1 and ROC AUC, while transformers reached 68% but handled minority classes better. The authors frame the payoff practically for [[teacher-role|teachers]]: preliminary [[feedback]] and workload relief, with final [[assessment]] kept by educators. The lesson is that more imbalance machinery is not automatically better: model choice should follow the metric you care about.
+> **Synthesis:** Reflective writing is a core competency in [[teacher-education|teacher training]], but scoring it by hand does not scale. This paper reports the first comprehensive study of automatic reflection level classification for Hungarian student essays, using 1,954 expert-annotated essays written over four consecutive years by students in an Early Childhood Education program. The authors compare classical [[machine-learning|machine learning]] on TF-IDF features and Qwen3 semantic embeddings against two [[llm-training-and-fine-tuning|fine-tuned]] Hungarian transformers, hubert-base-cc and PULI-BERT-Large. The corpus is severely skewed, with 68% of essays at level 3 and 1.8% at level 0, so much of the paper is an ablation study of imbalance handling. Shallow models reached up to 71% overall score averaged over accuracy, F1 and ROC AUC, while transformers reached 68% but handled minority classes better. The authors frame the payoff practically for [[teacher-role|teachers]]: preliminary [[feedback]] and workload relief, with final [[assessment]] kept by educators. The lesson is that more imbalance machinery is not automatically better: model choice should follow the metric you care about.
 
 ## Key Findings
 
