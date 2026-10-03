@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai]
 title: Plataforma edtech
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-10-02T22:30:43-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/edtech-platform
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,7 @@ Las plataformas de la IA en la educación desempeñan varias funciones distintas
 Una plataforma puede ser eficaz en principio y fracasar en la práctica si quien aprende no la usa. Dos [[rct|ensayos controlados aleatorizados]] de una plataforma de tutoría en [[ai-literacy|alfabetización en IA]] (lectura) encontraron que **casi la mitad del estudiantado del grupo de control nunca usó la plataforma** y que quienes la usaban promediaban solo 2–5 minutos por semana, muy por debajo de la dosis necesaria para obtener mejoras en lectura. Un tutor de implicación presencial elevó sustancialmente el uso y la implicación, pero aun así no produjo mejoras en el rendimiento, y quienes la usaban se inclinaban hacia el estudiantado de mayor rendimiento, lo que suscita preocupaciones de equidad.([[access-not-enough-ai-tutoring-2026]])
 
 La secuenciación importa tanto como la capacidad: una revisión de más de 100 estudios sobre IA en la educación (2020-2025) sitúa las plataformas de extremo a extremo en la cima de una pila de adopción, y sostiene que las instituciones deberían resolver la evaluación formativa, la capacidad de liderazgo y las normas compartidas antes de comprar las plataformas que las escalan ([[raza-farooq-aied-review-2020-2025|Raza y Farooq (2025)]]).
+
 La brecha está en el nivel del mensaje, no en los inicios de sesión: en un ensayo controlado aleatorizado por conglomerados de dos años, el 96% del estudiantado probó Khanmigo, pero el estudiante mediano le envió mensajes en solo el 17% de las sesiones en las que cometió un error, y ~14,5% de los mensajes contenían una pregunta o un paso de razonamiento matemático genuino — a \$15 por estudiante al año ([[one-click-away-khanmigo-two-year-school-experiment-2026|Oreopoulos y Low, 2026]]).
 
 La restricción vinculante es dónde se sitúa la IA dentro de la plataforma: en un ensayo con 6.000 estudiantes de secundaria, el efecto medido provino de puntos de contacto estructurados dentro del entorno de práctica — 2,0 usos de «ayúdame a empezar», 2,3 recorridos posteriores al error y 3,2 explicaciones de pasos por estudiante que alcanzó el dominio — mientras que el acceso a la IA por sí solo aportó poco ([[making-ai-tutoring-productive-mastery-math-2026|Oreopoulos et al. (2026)]]).

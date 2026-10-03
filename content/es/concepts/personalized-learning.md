@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje personalizado
 created: "2026-09-25T04:31:17-04:00"
-updated: "2026-10-02T22:33:23-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,17 +10,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/personalized-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-09-25"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-25"
+    date: "2026-09-28"
     agent: hermes-agent
 ---
 
@@ -60,6 +60,7 @@ Yu et al. (2024) personalizan no solo el contenido, sino también el *contexto s
 ### AutoML para perfiles de quien aprende
 
 La personalización es un objetivo central para mejorar la calidad educativa, pero procesar datos heterogéneos de conducta de aprendizaje procedentes de múltiples fuentes sigue siendo un reto. Un marco de búsqueda personalizada de arquitecturas cognitivas neuronales, impulsado por [[reinforcement-learning|aprendizaje automático]] automatizado, construye perfiles de quien aprende y genera modelos de diagnóstico para perfiles heterogéneos, integrando datos multimodales para ir más allá de los resultados estáticos de examen.
+
 Una base de conocimiento estática no puede personalizar: las ontologías evolucionan despacio y manejan mal la incertidumbre, así que la arquitectura empareja la representación con el tipo de conocimiento —declarativo con ontologías, procedimental con reglas, incierto con ontologías difusas o probabilísticas, implícito con analítica y aprendizaje automático— y prefiere un sistema de ontologías pequeñas y mapeadas a un único modelo monolítico ([[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova, 2026]]).
 
 ## Relación con el aprendizaje adaptativo y la tutoría inteligente
@@ -86,6 +87,7 @@ La personalización y la [[assessment|evaluación]] están estrechamente acoplad
 La evidencia más sólida de que esta preocupación no es hipotética procede de un [[personalization-paradox-adaptive-learning-emotions-2026|estudio longitudinal de tres oleadas con 486 estudiantes universitarios chinos (Li, Lin y Qiu, 2026)]], que encontró que cuanto más personalizado percibía el estudiantado su entorno adaptativo con IA, *menor* era su [[self-regulated-learning|aprendizaje autorregulado]]: la «paradoja de la personalización». Los cambios en las emociones académicas concentraron la mayor parte del efecto: encontrarse con el entorno adaptativo predecía menos disfrute y más ansiedad y aburrimiento, y esos cambios emocionales explicaban en conjunto alrededor de la mitad de la asociación entre personalización y menor autorregulación. La [[ai-literacy|alfabetización en IA]] amortiguó el daño, ya que debilitó la asociación emocional negativa hasta hacerla no significativa en niveles altos de alfabetización. La personalización parece, por tanto, comprar un ajuste adaptativo a costa de la actividad [[regulation|regulatoria]] de quien aprende, y el estudio señala la experiencia emocional, y no solo la carga cognitiva, como el canal por el que se paga ese coste.
 
 Donde el diagnóstico que hay detrás de una ruta está validado, la personalización compensa reduciendo la carga más que cubriendo más: la remediación por el camino más corto promedió 3,82 pasos y recortó el tiempo de estudio un 22,0% (57,6 frente a 73,8 minutos), y la carga cognitiva concentró el 53,7% del efecto en el postest ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng y Huang, 2026]]).
+
 La evidencia sobre la propia herramienta también puede ser negativa a pequeña escala: en un ensayo de cinco días sobre fracciones en primaria (n final = 22), el grupo de práctica habitual mostró mejoras de comprensión significativamente mayores que el grupo de Mathbot adaptativo con IA, y los autores señalan confusión de nivel de curso, adivinación y coste de licencia como límites: la etiqueta «adaptativo» no conlleva ningún efecto ([[ai-powered-personalized-learning-elementary-fractions-2026|Holman (2024)]]).
 
 El aprendizaje por refuerzo es un mecanismo distinto de personalización, y [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper y Lugrin (2025)]] trazan su historial empírico: su revisión [[meta-analysis-systematic-review|PRISMA]] de 89 estudios sobre el aprendizaje por refuerzo en educación encuentra que la personalización con esta técnica se concentra en la [[higher-ed|educación superior]] y en la [[math-education|educación matemática]], y que la adaptación se implementa sobre todo como programación de contenidos (n = 53) o como personalización relacionada con la orientación, por ejemplo pistas y retroalimentación (n = 36). Informan de que las políticas de aprendizaje por refuerzo superan a las líneas base no adaptativas con más frecuencia en la adaptación relacionada con la orientación y en las variables [[affective-computing|afectivas]] (el 63% de los estudios analizados), y que la ganancia de aprendizaje, en especial la ganancia de aprendizaje normalizada, fue la fuente de recompensa más eficaz: una orientación práctica para diseñar señales de recompensa que personalicen hacia el aprendizaje genuino y no hacia la [[student-engagement|implicación]].
@@ -97,6 +99,7 @@ Bernstein y Sibia (2026) afinan una distinción entre la personalización por in
 Una tercera dimensión de la personalización es la *meta*, y es la entrada que peor manejan los planificadores de IA. [[personapath-personalized-learning-paths-2026|Liu et al. (2026)]] emparejaron 2.000 personas sintéticas de estudiantes con un grafo de prerrequisitos de 347 libros de texto y 4.092 conceptos, y pidieron a diez LLM que planificaran, paso a paso, qué conocimiento debería estudiar quien aprende para alcanzar una unidad objetivo declarada. Los modelos produjeron currículos estructuralmente sólidos (DeepSeek-V3.1 alcanzó un 90,9% en validez de prerrequisitos y de alucinación), pero no lograron adaptarlos a quien aprende: la adaptabilidad se quedó en un máximo del 44,7%, la tasa de aprobación final de DeepSeek-V3.1 fue del 29,5% en educación básica y del 14,6% en educación superior, y eliminar el campo de dominio de la persona costó hasta 26,1 puntos porcentuales de adaptabilidad, mientras que dejó la validez casi intacta. Generar todo el itinerario de una sola vez en lugar de hacerlo de forma interactiva elevó la validez hasta 30,8 puntos, pero recortó la adaptabilidad en 28,8. La afirmación «personalizado» es una afirmación sobre la respuesta al estado de quien aprende, y la variable de estado es justamente la parte de la que estos planificadores pueden prescindir con más facilidad: una réplica computacional de la preocupación de medición anterior.
 
 Una cuarta dimensión es el *público destinatario* y no la persona que aprende: [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] regenera una clase existente para un grupo profesional concreto (sanidad, finanzas o energía), y sus evaluadores expertos puntuaron las versiones enmarcadas por sector 0,32 puntos más alto en profundidad de personalización (3,97 frente a 3,65), mientras que la calibración al público se quedó atrás (3,52). Ajustar para un grupo y no para una persona es una forma más barata y más manejable de personalización, pero la rúbrica que la midió evaluaba el ajuste juzgado, no los resultados de aprendizaje.
+
 La personalización puede superar a un presentador humano: en un curso en línea grande (493 encuestados), el estudiantado clasificó los vídeos personalizados generados por IA por encima de los grabados por personas sin personalizar (rango medio 2,26 frente a 2,69) y el 88,4% situó algún vídeo personalizado en primer lugar, frente al 73,8% de los grabados por personas ([[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]]).
 
 ## Micropersonalización condicionada por prompts

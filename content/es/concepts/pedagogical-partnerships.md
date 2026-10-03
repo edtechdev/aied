@@ -1,7 +1,7 @@
 ---
 title: "Alianzas pedagógicas"
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-02T22:25:26-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -71,6 +71,7 @@ Estas líneas comparten una afirmación central: que las personas que vivirán c
 Las alianzas pedagógicas se relacionan con varios conceptos vecinos, pero se distinguen de ellos:
 
 - **[[agency|Agencia de quien aprende]] y [[self-directed-learning|aprendizaje autodirigido]]:** la alianza apoya la agencia de quien aprende al darle voz sobre qué aprende y cómo, y se solapa con el aprendizaje autodirigido. Sin embargo, la alianza es fundamentalmente *relacional*: la agencia y la dirección emergen de la relación entre docente y estudiantado y no de forma aislada. Algunos marcos lo conceptualizan como una «agencia compartida» que existe en la relación entre estudiante y docente, y no dentro de ninguna de las dos partes por separado.
+
 Anastasia (2026) nombra las ocho condiciones que exige esa alianza —presencia del docente, confianza, seguridad psicológica, diálogo, voz y opción, retroalimentación significativa, reflexión y responsabilidad compartida— y sostiene que la opción por sí sola no crea autonomía: puede darse al estudiantado un abanico de opciones sin que tenga la información, la confianza o la seguridad psicológica para ejercerlas ([[anastasia-shared-agency-partnership-framework-2026|Anastasia (2026)]]).
 - **[[collaborative-learning|Aprendizaje colaborativo]]:** ambos implican trabajar juntos, pero el aprendizaje colaborativo se refiere normalmente a que el estudiantado aprende *con sus pares* dentro de una actividad diseñada, mientras que las alianzas pedagógicas sitúan al estudiantado y al personal colaborando en el *diseño* de la educación misma.
 - **[[student-engagement|Implicación del estudiantado]]:** la alianza es una forma profunda de implicación, pero la implicación describe la participación del estudiantado en el aprendizaje, mientras que la alianza describe una relación de poder transformada en la que el estudiantado comparte la responsabilidad de dar forma a ese aprendizaje.

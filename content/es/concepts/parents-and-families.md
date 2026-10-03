@@ -1,7 +1,7 @@
 ---
 title: Madres, padres y familias
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-10-02T22:55:05-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-09-30T12:20:22-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,7 @@ El coste y la conectividad condicionan lo que las familias pueden usar antes de 
 Los resultados orientados a las familias más sólidos de esta base de conocimiento se refieren al comportamiento y no al aprendizaje. Reducir la fricción orientada al hogar elevó la asistencia a la primera sesión de alrededor del 45% al 83% en un ensayo, y aun así la participación siguió siendo la restricción vinculante. Ese mismo ensayo produjo ganancias de resultados pequeñas e imprecisas, mientras que el mayor estudio de [[learning-gains|rendimiento académico]] informa de efectos negativos grandes concentrados en el estudiantado que externalizaba los deberes, un patrón que los autores atribuyen en parte a una supervisión parental que no pudieron medir directamente. Ninguno de los dos hallazgos aísla lo que hacen las familias de lo que hacen las escuelas o las herramientas.
 
 Lo que falta es más llamativo. Los relatos de las propias familias son raros: el profesorado de [[k12-teachers-ai-companion-literacy-2026|Xiao et al. (2026)]] excluyó a las familias de su muestra por diseño, y las familias que sí aparecen son entrevistadas como una voz más entre chicas, profesionales o docentes. Aquí no hay evidencia directa sobre cómo se enteran las familias de la [[educational-policy-ai|política sobre IA]] de una escuela, qué se les dice sobre la vigilancia o la declaración de uso, ni cómo responden a ello, y la coordinación familia-escuela se ha teorizado en lugar de probarse. Diseños de tutoría doméstica como ParaTutor se han evaluado con 23 díadas en un único contexto nacional, y las comparaciones de compañeros se apoyan en 19 estudiantes de una sola escuela.
+
 Una revisión de alcance de 2026 traza hasta dónde ha llegado el campo. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]] analizaron 53 estudios de interacción persona-ordenador procedentes de 6.540 registros de 19 sedes de publicación mediante la teoría de la actividad, y encontraron una bibliografía centrada en la interacción niño-progenitor y en el lenguaje, la [[ai-literacy|alfabetización en IA]] y el aprendizaje relacional, con 44 de los 53 estudios (83%) situados en configuraciones niño-progenitor. Los sistemas conversacionales, corporeizados y espaciales generan apoyo a partir del contexto de una interacción en curso, y los LLM redistribuyen el trabajo educativo mientras las familias y las instituciones siguen siendo responsables de interpretar los resultados y decidir cómo entran en la práctica. La [[personalized-learning|personalización]] sostenida, el trabajo de reparación y cómo negocian las familias la autoridad y las normas son los huecos que nombra la revisión, que es la misma ausencia que documenta esta sección desde la dirección opuesta.
 
 **Relación con otras páginas.** [[stakeholders|Partes interesadas]] es la visión general breve del conjunto completo de partes interesadas, con las familias enumeradas como una audiencia todavía no cubierta en profundidad; esta página es esa profundidad. [[early-childhood-elementary-ai-education|IA en la primera infancia y la educación primaria]] cubre el dominio evolutivo y [[pedagogy|pedagógico]] de quienes aprenden a edades tempranas en la escuela y en el hogar; esta página sigue a la familia a través de las edades, desde las actividades de juego en preescolar hasta los deberes de secundaria. [[ai-use-disclosure|Declaraciones de uso y de divulgación de la IA]] cubre si quien aprende cuenta a otras personas que ha usado IA; esta página cubre la cuestión adyacente de si esa información llega a los adultos en el hogar, y qué se cuenta a las familias sobre el uso de la IA en la escuela.

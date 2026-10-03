@@ -1,7 +1,7 @@
 ---
 title: Medidas de autoinforme
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-10-02T22:58:04-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,7 @@ De esto se derivan dos implicaciones para quien lee o diseña esta investigació
 Un segundo modo de fallo es el colapso discriminante entre dos constructos de autoinforme: regresar la capacidad de IA autoinformada junto con el control conductual percibido medido como eficacia puede comparar un único factor de confianza general consigo mismo, razón por la cual los criterios se fijan de antemano —una ratio heterorrasgo-monorrasgo inferior a .85 y una prueba de modelo anidado que restringe a la unidad la correlación entre capacidad y control ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 Un instrumento validado puede hacer ese límite preciso en lugar de vago. El Cuestionario de Autoevaluación de la Alfabetización en IA (AIL-SAQ) de [[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan y Srikoon (2025)]] es una escala de 15 ítems confirmada con una estructura estable de tres factores en dos muestras (n = 335 exploratoria, n = 579 confirmatoria) y un alfa de Cronbach global de 0,934. Sus autores son explícitos en que registra la comprensión percibida, las actitudes y la conciencia y no la habilidad demostrada, y en que la precisión de la autoevaluación depende de una capacidad metacognitiva que en la infancia aún está madurando, de modo que la autoestimación de un niño es una señal más débil que la de un adulto.
+
 La elección opuesta también es defendible: PAUSE es una autocomprobación de descarga en cuatro dominios que no publica ninguna evidencia de fiabilidad o validez, no ofrece una puntuación compuesta y afirma que sus lecturas no deben justificar ninguna decisión con consecuencias, y sus ítems confunden el andamiaje deliberado con la sustitución: quien responde que trae la IA pronto para andamiar aparece como descarga ([[pause-ai-cognitive-offloading-self-reflection-2026|Alam, 2026]]).
 
 ## La brecha entre percepción y conducta

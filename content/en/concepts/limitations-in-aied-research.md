@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -56,6 +56,7 @@ The knowledge base's [[research-methods-aied|research methods]] page details the
 ## The speed problem: AI evolves faster than findings
 
 AI is changing continuously, and the conclusions drawn from any given model or system can become **out of date quickly**. A study of one [[llm]] generation may not describe the next; benchmark scores, tutoring quality, and even the practical usefulness of a finding shift as models improve. Compounding this, the **publication process is slow** — from study design to peer-reviewed publication can take a year or more — so a published result may already describe an obsolete system. Reviewers and readers should therefore treat AIED findings as provisional, date-sensitive claims rather than stable truths, and prefer recent, replication-oriented, and version-explicit work.
+
 [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni and Fryer (2026)]] make the consequence concrete for one literature: because RAG-based systems only became publicly available in November 2023, they argue that pre-2023 [[intelligent-tutoring|intelligent tutoring]] findings — resting on rule-based, keyword-matching or heuristic NLP systems that bear little functional resemblance to current large language models — should be treated as historical context rather than directly comparable evidence, and report that their review found no published RCT examining a RAG-based AI chatbot in undergraduate education over a full academic term. The implication is that foundational questions about how genAI affects learning may need to be re-asked against each new model generation rather than settled by pooling older results.
 
 ## Research-practice limitations

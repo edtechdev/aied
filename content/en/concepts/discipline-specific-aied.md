@@ -1,7 +1,7 @@
 ---
 title: "AIEd in the Disciplines"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
@@ -78,6 +78,7 @@ Each discipline brings distinctive [[pedagogy|pedagogical]] traditions that AI r
 ## Represented disciplines in the knowledge base
 
 The knowledge base's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]** (with a distinct **[[english-education]]** strand for EAP/EFL/ESL), and more recently **[[engineering-education]]**, **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles. This concentration tracks the wider literature: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.'s (2026)]] review found STEM the most common interdisciplinary form in AI-supported higher education (n = 26), well ahead of non-STEM fields (n = 10) and STEAM (n = 2) — a discipline-level caution that AI-in-education evidence accumulates fastest where computational tooling is easiest to embed, not necessarily where AI's pedagogical value is greatest. The most recent additions broaden the strand past academic subjects into professional and applied education — [[nursing-education|nursing]], [[information-technology|information technology]], and [[vocational-education|vocational education and training]] — where learners are assessed on demonstrated practice rather than on correctness, and where the employer and the licensing body, not only the academy, define what counts as competence.
+
 The vocational strand is the thinnest in that evidence: a systematic review of 26 studies in vocational education and training found none conducted in workplace settings despite VET's work-based character, only five randomized experiments, and only three designs granting learners an active role ([[ai-vocational-education-training-review|Deutscher et al. (2026)]]).
 
 ## Underrepresented disciplines

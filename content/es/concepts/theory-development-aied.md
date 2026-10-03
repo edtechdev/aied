@@ -1,7 +1,7 @@
 ---
 title: Desarrollo teórico en la IA en la educación
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-02T21:40:10-04:00"
+updated: "2026-09-30T12:20:22-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -46,6 +46,7 @@ Un grupo creciente de artículos crea explícitamente teoría nueva para la era 
 
 La posición sintética añade una apuesta rival que sí enuncia proposiciones: nombra la *promoción sintética* y la *suspensión autoral* —un yo densamente expresado pero sin autoría— y predice una interacción de cruce en la que la autoría valorada y la coherencia de una narrativa de decisión vital se mueven en direcciones opuestas ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
 - **Agentivismo.** [[yan-agentivism-learning-theory-ai-2026|Yan y Gašević (2026)]] proponen el agentivismo como una teoría del aprendizaje de alcance medio para la interacción entre personas e IA, que define el aprendizaje como un crecimiento duradero de la capacidad humana y no como la finalización exitosa de una tarea con IA, y que especifica cuatro mecanismos: la agencia delegada, el seguimiento y la verificación epistémicos, la internalización reconstructiva y la transferencia con apoyo reducido. Lo que lo separa de las otras apuestas de esta página es la falsabilidad: enuncia seis proposiciones, entre ellas que el aprendizaje es más sólido cuando la IA preserva la responsabilidad de quien aprende sobre el encuadre del problema, el establecimiento de criterios y la justificación que cuando suministra respuestas, y que exigir verificación debería mejorar el desempeño diferido, mientras que la delegación repetida y de bajo roce sin reconstrucción debería debilitar la calibración que el estudiantado tiene de su propia competencia.
+
 La teorización del lado docente asume ahora el mismo compromiso de comprobabilidad: el Modelo de Capacidad-Decisión sitúa la capacidad de [[tpack|AI-TPACK]] aguas arriba de la actitud y el control conductual percibido y nombra cuatro condiciones de refutación —fallo de mediación, colapso discriminante, nulidad de moderación y redundancia de contexto—, aunque el modelo sigue sin probarse ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 - **Co-agencia epistémica.** [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Aprender con máquinas]] construye «hacia una teoría de la co-agencia epistémica», un modelo informado por la teoría sobre cómo quienes aprenden y los sistemas de IA generativa producen conjuntamente conocimiento y comprensión.

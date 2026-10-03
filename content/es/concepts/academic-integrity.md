@@ -1,7 +1,7 @@
 ---
 title: Integridad académica
 created: "2026-09-25T03:53:54-04:00"
-updated: "2026-10-03T01:40:50-04:00"
+updated: "2026-10-03T02:52:14-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -17,11 +17,11 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-09-25"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-25"
+    date: "2026-09-28"
     agent: hermes-agent
 ---
 

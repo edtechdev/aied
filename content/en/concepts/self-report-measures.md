@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -53,6 +53,7 @@ Two implications follow for anyone reading or designing this research. First, wh
 A second failure mode is discriminant collapse between two self-report constructs: regressing self-reported AI capability alongside perceived behavioral control measured as efficacy may compare one general-confidence factor with itself, which is why criteria are fixed in advance — a heterotrait–monotrait ratio below .85 and a nested-model test constraining the capability–control correlation to unity ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 A validated instrument can make that limit precise rather than vague. The AI Literacy Self-Assessment Questionnaire (AIL-SAQ) of [[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan and Srikoon (2025)]] is a 15-item scale confirmed with a stable three-factor structure across two samples (n = 335 exploratory, n = 579 confirmatory) and an overall Cronbach's alpha of .934. Its authors are explicit that it records perceived understanding, attitudes, and awareness rather than demonstrated skill, and that self-assessment accuracy depends on metacognitive ability still maturing in children, so a child's self-estimate is a weaker signal than an adult's.
+
 The opposite choice is also defensible: PAUSE is a four-domain offloading self-check that publishes no reliability or validity evidence, offers no composite, and states that readings must not justify any consequential decision, and its items conflate deliberate scaffolding with substitution — a respondent who brings AI in early to scaffold reads as offloading ([[pause-ai-cognitive-offloading-self-reflection-2026|Alam, 2026]]).
 
 ## The perception–behavior gap

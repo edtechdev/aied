@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Detección de IA
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-10-02T22:23:30-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -14,7 +14,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-10-02T12:40:11-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,7 @@ La investigación sobre detección también conlleva un argumento de validez que
 7. **La detección socava la integridad en lugar de protegerla.** Confiar en detectores y en la vigilancia fomenta un clima de sospecha que erosiona la [[trust|confianza]] del estudiantado y la integridad de la propia evaluación.
 
 Bassett et al. concluyen que la detección de IA es una solución inviable a un problema que no puede resolverse mediante la vigilancia y el castigo: el foco debe pasar al [[assessment|diseño de la evaluación]] que reconoce el papel de la IA en el aprendizaje y la realidad de que las evaluaciones no supervisadas no pueden asegurarse. Esto consolida la postura de la base de conocimiento de [[beyond-detection-authentic-assessment-ai-2025|ir más allá de la detección]] con un argumento directo y basado en la evidencia para retirar las herramientas de detección.
+
 De 40 evaluaciones de psicología de 16 tipos, 36 (90%) produjeron salidas de ChatGPT juzgadas suficientes para aprobar, y los cuatro fallos fueron las tareas que requerían presencia, un artefacto visual o el propio conjunto de datos del estudiante; evidencia de que el umbral de aprobado, y no la detección, decidió si el trabajo con IA contaba como logro ([[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]]).
 
 ### Sesgo de los detectores y el mecanismo de la carrera armamentística

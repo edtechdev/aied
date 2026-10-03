@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -61,6 +61,7 @@ Treating miscalibration purely as a user deficit — something fixed by teaching
 The design implication is a two-dimensional user typology — the *ability* to verify [[conversational-ai|chatbot]] output crossed with the *motivation* to do so — which predicts which users will miscalibrate in which direction. The authors pair it with two families of intervention that must operate together: [[explainable-ai|interpretability]] affordances (rationales, citations, uncertainty signals) that make evaluation possible, and engagement mechanisms that make it actually happen, layered through Reason's Swiss cheese model into eight testable propositions. [[ai-literacy]] is positioned as the durable layer beneath both, moving users across typology cells. The reframing matters for education because it shifts responsibility: if transparent citations go unclicked in the general population, then simply exposing students to AI explanations will not calibrate them — the affordance has to be designed to compel the check.
 
 [[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] supply a design lever that did move calibration: showing reviewers co-designed trustworthiness criteria while they compared LLM responses raised inter-rater agreement from Krippendorff's alpha 0.3987 to 0.4931, though pooled agreement stayed below 0.67 and extra measures added overhead.
+
 With autonomous agents the object of calibration changes. [[agentic-literacy-debt|Nama (2026)]] argues the user becomes a principal who has delegated authority to a system whose actions are largely unobserved and irreversible, shifting the competency from judging outputs to understanding what was authorized, overseeing it, and attributing accountability when harm occurs.
 
 

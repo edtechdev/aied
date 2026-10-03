@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje autorregulado
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-02T21:25:27-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -11,18 +11,18 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [process-feedback]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-09-25"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-25"
+    date: "2026-09-28"
     agent: hermes-agent
 ---
 
@@ -75,6 +75,7 @@ Los diarios de aprendizaje son una intervención prometedora para el AAR: al ref
 ### Cuadros de mando que comunican perfiles de AAR al profesorado
 
 [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] extienden el apoyo digital al AAR al lado docente: su cuadro de mando de [[learning-analytics]] (DashED) comunica al profesorado perfiles de aprendizaje autorregulado derivados del aprendizaje automático en aulas semipresenciales, y el modo en que el profesorado actúa sobre esos perfiles depende del contexto. En uso, el profesorado de aula invertida (universidad) siguió una exploración secuencial y prefirió la adaptación a nivel de curso y mostrar los [[visualization|cuadros de mando]] en clase, mientras que el profesorado de formación profesional revisó páginas de resumen y usó la herramienta sobre todo para sesiones de tutoría individual. Las acciones que propusieron los docentes estuvieron moldeadas por el contenido representado y por su nivel de enseñanza más que por el tipo de gráfico: el profesorado universitario prefirió pruebas semanales y adaptación del curso, y el de formación profesional, tutoría directa e individualizada. Esto sitúa el cuadro de mando como un andamiaje para la regulación de la enseñanza por parte del profesorado, con necesidades de diseño que varían según el contexto y no una única interfaz óptima.
+
 La contraparte orientada al estudiantado es más escasa: un cuadro de mando que mostraba a 46 estudiantes de secundaria sus propios prompts de IA generativa y su solapamiento de texto con las respuestas del modelo fue abierto por solo alrededor de un tercio de la clase, lo que hace de la exposición voluntaria, y no de la visualización en sí, la restricción vinculante ([[learning-analytics-genai-secondary-writing-2026|Fong et al. (2026)]]).
 
 ### El experimento 2×2 de Scheu et al. (2026)

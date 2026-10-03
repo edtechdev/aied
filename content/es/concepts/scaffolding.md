@@ -1,7 +1,7 @@
 ---
 title: Andamiaje
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-02T21:20:37-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -10,18 +10,18 @@ technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
 translation_of: concepts/scaffolding
-source_updated: "2026-10-01T10:01:10-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [onmicro-ai]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-09-25"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-25"
+    date: "2026-09-28"
     agent: hermes-agent
 ---
 
@@ -81,12 +81,14 @@ El andamiaje debe ser adecuado a la situación y no máximo: [[zhang-tutormoment
 - **IA que andamia el esfuerzo productivo.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derivan principios de diseño de IA (apoyo no directivo, diseño reflexivo, [[human-in-the-loop-ai|IA con intervención humana]]) que mantienen el andamiaje en la zona del esfuerzo productivo en lugar de colapsar en el suministro de respuestas; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] muestran que los tutores [[llm|LLM]] pueden dirigirse para dar ayuda solo cuando es estrictamente necesario, un andamiaje que preserva el esfuerzo propio de quien aprende.
 
 **La retirada del andamiaje como mecanismo de aplicación de la verificación.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot y Nanthaamornphong (2026)]] sintetizan 72 estudios de educación en informática y sitúan la retirada del andamiaje, junto con las herramientas de barrera y los diseños de [[self-regulated-learning|aprendizaje autorregulado]], como una de las tres formas en que los cursos hacen cumplir el compromiso crítico con la producción de la IA: estructuralmente (limitando lo que devuelve la herramienta), procedimentalmente (diarios de reflexión, autoevaluación) y temporalmente (restaurando de forma progresiva las condiciones en las que se exige razonamiento independiente). Su evidencia es que las ganancias de eficiencia con ayuda de la IA no se [[transfer-of-learning|transferen]] al desempeño sin ayuda, y que el modo de fallo, el patrón de *pseudoaprendizaje*, en el que el estudiantado observa cómo la IA genera código sin realizar la tarea, es exactamente modelado sin práctica de la tarea completa. El acceso gradual funciona, por tanto, como un calendario de retirada para una nueva y potente forma de apoyo, y la revisión lo fundamenta en el 4C/ID: la ayuda solo sirve cuando quien aprende ya dispone de suficiente esquema para comprometerse críticamente con ella (la zona de desarrollo próximo, [[cognitive-offloading|descarga cognitiva]]).
+
 La secuenciación es la otra palanca del andamiaje: [[critical-thinking-genai-scaffolding|Vendrell y Johnston (2026)]] recomiendan exigir un intento independiente de quien aprende antes de cualquier consulta a la IA y usar después el modelo para generar contraargumentos en lugar de respuestas, con fases deliberadas sin IA, de modo que el apoyo amplifique el razonamiento en lugar de reemplazarlo.
 
 ## Andamiaje guiado por reglas frente a andamiaje ad hoc
 
 - **Andamiaje guiado por reglas frente a andamiaje ad hoc.** Looi, Liu y Sun (2026) formalizan una distinción central para el diseño del andamiaje: el **andamiaje guiado por reglas**, en el que la tutoría se rige por una arquitectura auditable de tres capas (diagnóstico, selección de intención y generación restringida de respuestas), frente al **andamiaje ad hoc**, en el que los movimientos útiles son difíciles de auditar y de replicar. Su estudio de matemáticas en primaria mostró que el andamiaje guiado por reglas mejora la consistencia interactiva, reduce el suministro prematuro de respuestas y el cierre temprano, y sostiene la [[student-engagement|implicación]] cognitiva, evidencia de que la explicitación y la auditabilidad de los movimientos de andamiaje importan tanto para la consistencia como para el aprendizaje en dominios procedimentales.
 - **El andamiaje como vía restringida entre el atajo y la descarga.** El Modelo de Neuroplasticidad e [[student-ai-interaction|Interacción con la IA]] nombra el andamiaje como la tercera de las tres vías de ayuda del LLM, junto con el atajo directo y la descarga cognitiva, y lo define por si el modelo preserva el procesamiento esforzado que la tarea debe entrenar ([[naim-bypass-offload-scaffold-llm-learning-2026]]). La evidencia de calibración del modelo es un experimento natural sobre la restricción del andamiaje: el acceso sin restricciones a GPT-4 en un estudio con casi 1.000 estudiantes de [[math-education|matemáticas]] de secundaria produjo una ganancia del 48% en la práctica pero un déficit del 17% en el examen sin ayuda, mientras que el GPT Tutor restringido a pistas produjo una ganancia del 127% en la práctica con el déficit del examen prácticamente eliminado. La lección de diseño coincide, a grano más grueso, con la distinción entre guiado por reglas y ad hoc anterior: lo que determina que el andamiaje se retire con éxito es la restricción sobre lo que se permite suministrar al tutor, y no la presencia del tutor.
+
 La distinción entre guiado por reglas y ad hoc va más allá del tutor y llega al propio enunciado de la tarea. Un [[ai-integration-instructional-design-collaboratory-2026|colectivo docente interinstitucional]] descubrió que la crítica de la producción de la IA no ocurría por sí sola, así que los requisitos de auditar, comparar, revisar y justificar el contenido generado tuvieron que escribirse en la tarea, y quienes protegieron el análisis disciplinar independiente antes de que entrara la IA encontraron que el estudiantado podía evaluar la producción de la IA de forma más crítica. La [[bondurant-shaughnessy-ai-pedagogies-practice-2026|evidencia sobre los ensayos de práctica]] coincide: el profesorado en formación que practicaba con compañeros de IA usaba más preguntas de sondeo y exploración cuando se ofrecía retroalimentación estructurada después del ensayo. En ambos casos el apoyo se especifica de antemano en lugar de improvisarse, lo que separa la orientación diseñada de la ayuda ad hoc, difícil de auditar y de replicar.
 
 - **Un andamiaje correctamente restringido sigue fracasando si la restricción no se administra.** [[ai-literacy-tool-design-programming-education-2026|Azimi (2026)]] construyó lo que prescribe la distinción anterior, un presupuesto de 25 pistas por sesión, un límite de 15 minutos de uso de la IA, una reflexión obligatoria al final de la sesión y nada de código generado, y aleatorizó a 33 estudiantes de máster entre esa condición y el uso sin restricciones de [[generative-ai|IA generativa]] durante siete semanas. El rendimiento en las tareas y las ganancias en el inventario de conceptos no difirieron entre condiciones. El presupuesto de pistas no actuó como mecanismo de racionamiento: algunos estudiantes gastaron la mayor parte en los primeros problemas y no les quedó ninguna para los exigentes, otros terminaron con casi todo sin usar, y dentro de la condición de Coach fueron los estudiantes que ya tenían una estrategia deliberada para gastar una pista quienes puntuaron más alto. La restricción elevó la [[self-efficacy|confianza]] declarada y siguió al estudiantado fuera del aula como hábito de autopregunta (si merecía la pena plantear una pregunta a la herramienta), pero recompensó la autorregulación ya existente en lugar de desarrollarla. La auditabilidad de un andamiaje y la capacidad de quien aprende para usarlo son condiciones separadas.

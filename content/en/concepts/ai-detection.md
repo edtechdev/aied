@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-02T12:40:11-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -70,6 +70,7 @@ Detection research also carries a validity argument that outlasts questions of a
 7. **Detection undermines integrity rather than safeguarding it.** Reliance on detectors and surveillance fosters a climate of suspicion, eroding student [[trust]] and the integrity of assessment itself.
 
 Bassett et al. conclude that AI detection is an unworkable solution to a problem that cannot be solved through surveillance and punishment: the focus must move to [[assessment|assessment design]] that recognizes AI's role in learning and the reality that unsupervised assessments cannot be secured. This consolidates the knowledge base's [[beyond-detection-authentic-assessment-ai-2025|beyond-detection]] stance with a direct, evidence-based argument for retiring detection tools.
+
 Of 40 psychology assessments spanning 16 types, 36 (90%) produced ChatGPT output judged adequate for a pass, and the four failures were the tasks needing presence, a visual artifact, or the student's own dataset — evidence that the pass boundary, not detection, decided whether AI work counted as achievement ([[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]]).
 
 ### Detector bias and the mechanism of the arms race

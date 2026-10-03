@@ -1,7 +1,7 @@
 ---
 title: Pedagogías y estrategias de enseñanza
 created: "2026-09-25T03:54:11-04:00"
-updated: "2026-10-02T23:56:13-04:00"
+updated: "2026-10-03T02:52:14-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -15,11 +15,11 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-09-25"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-25"
+    date: "2026-09-28"
     agent: hermes-agent
 ---
 

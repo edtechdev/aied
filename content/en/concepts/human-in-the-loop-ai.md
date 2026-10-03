@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-03T03:00:33-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -57,6 +57,7 @@ Yu et al. (2024) deployed a multi-agent classroom ([[teacher-role|Teacher]] Agen
 ## PedaCo: Dual Gatekeeping for AI Video Generation
 
 Kim, Baek, and Kwak (2026) extend HITL to [[video-education|AI-generated instructional video]] via **PedaCo** (Pedagogical Co-creation), a pipeline with two complementary gatekeeping layers that instantiate *principled resistance* grounded in Mayer's Cognitive Theory of Multimedia Learning (CTML). The **first layer** places the human at the script stage: an LLM drafts a script, an AI reviewer flags potential CTML violations (e.g., "Scene 3 introduces technical terms without prior explanation"), and the educator decides to accept, revise, or regenerate. The **second layer** runs automated metrics post-synthesis on coherence, redundancy, temporal contiguity, modality, and image quality, which the educator reviews. In a within-subject study (23 educators), the review-based approach improved every CTML principle (mean rating 3.07→3.86, p<.01), with educators rating production efficiency at 4.26/5 — friction perceived as productive, not burdensome. The design principle echoes the knowledge base's HITL synthesis: humans and algorithms catch *different* kinds of problems, so the most effective systems automate where computational verification is precise (temporal synchronization) and preserve human judgment where pedagogical nuance is irreplaceable (tone, audience fit).
+
 Placement can matter more than presence: practitioners rated a Social Story authoring tool highly usable (SUS 86.8) yet reported that review came too late, because cultural and clinical constraints set before generation — an abaya instead of Western streetwear — are harder to recover by editing output afterward ([[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]]).
 
 ## Why HITL matters in the AI era
@@ -78,7 +79,7 @@ Human-in-the-loop design has become central to the knowledge base's [[agentic-ai
 
 ## Where HITL appears in the knowledge base's research
 - **Automated assessment and grading:** HITL systems combine AI generation/scoring with human validation across short-answer grading ([[cong-confidence-asag-2026]]), self-explanation assessment ([[llm-automated-assessment-student-self-explanations]]), and [[automated-essay-scoring|essay scoring]] ([[psyscore-essay-scoring-zpd-feedback]]). [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] instantiate this in high-stakes, handwritten general-[[chemistry-education|chemistry]] grading: because a [[multimodal]] LLM's reliability varies by response format (textual and chemical-reaction answers are reliable while drawing and graphing score worse than random) and false positives go undetected by students, they convert raw AI scores into a selective accept/deferral policy using confidence filters — partial-credit thresholds, an [[item-response-theory|IRT]]-based risk threshold, and problem-type exclusion — deferring uncertain and graphical items to humans, an approach the authors tie to [[regulation|regulatory]] frameworks that designate AI in [[assessment|educational assessment]] as high-risk and mandate documented human oversight.
-- **Feedback systems:**mandate documented human oversight.
+- **Feedback systems:** mandate documented human oversight.
 - **Operational HITL scoring in a national assessment (2026):** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] instantiate HITL at institutional scale in Uruguay's Acredita EB exam. Because the LLM scorer's errors are systematically conservative (under-grading), the workflow uses a decision-point logic that routes human review to exactly the candidates whose pass/fail outcome depends on the Writing section — AI-marked passing responses are accepted with confidence, while AI-marked failures (15.3–16.5% of cases) are verified by expert raters, cutting full-scoring workload by ≥50% with a residual AI-error pass risk of only 0.2–0.6%. This is HITL as a resource-allocation strategy: humans adjudicate precisely where AI's conservative bias would otherwise alter high-stakes outcomes.
 
 - **Deriving the deferral threshold from the rubric's own resolution (2026).** [[ai-assisted-instructor-supervised-grading-feedback|Cruz et al. (2026)]] set the AI–instructor tolerance at 0.5 points — the largest discrepancy that cannot move a submission across an anchor band — and escalated outliers at 0.8 points, sending 11 of 362 submissions (3.0%) to human review before feedback was released.

@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -58,6 +58,7 @@ In-service professional development supports practicing teachers in integrating 
 - **Capacity built by doing, not by studying.** A TPACK-based structural model of 122 in-service teachers found that actual use of AI on science and green-energy tasks and involvement in developing ESD-aligned materials predicted AI-integration capability, while abstract AI knowledge and attitudes toward AI did not ([[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]]).
 - **Collaborative [[ai-ed-evaluation|evaluation of AI]]-generated content as PD.** [[teachers-collaborative-evaluation-ai-content-2026|Gat, Usher, and Barak (2026)]] report on a workshop in which 60 [[k-12|middle-school]] science teachers rated ChatGPT-generated assessment questions through their disciplinary, pedagogical, and curricular judgment. Collaborative evaluation itself functioned as professional development, helping teachers apply conceptual-precision criteria to AI output and surface the risk that AI content reinforces [[misconceptions]] — positioning teachers as critical evaluators of [[generative-ai|GenAI]] material rather than passive consumers.
 - **Structured PD for language educators is rare but effective.** A [[li-language-educators-genai-review-2026|systematic review of 23 studies]] (Li et al. 2026) found only three included studies reported structured professional development — an embedded grammar-course module, a government EMI program, and embedded chatbot inquiry — yet all converged on gains in knowledge, confidence, and identity reframing, shifting educators' views of GenAI from "replacement risk" to assistant/augmenter. The review argues PD should pair technical skill-building with practical wisdom, moving from [[ai-literacy|awareness-raising]] and ethics through hands-on tool mastery to co-design of AI-enhanced lessons, and recommends a two-phase "back-end then classroom" implementation strategy.
+
 The knowledge base's clearest instance of framework-driven GenAI PD for mathematics is a study of eight in-service teachers from rural and under-resourced districts who completed ten interactive modules built on Rhodes' 4P framework ([[bicer-genai-pd-math-creativity-2026]]). It supplies two design mechanisms in-service PD design otherwise lacks here: scaffolding that fades deliberately (explicit guidance early, then requests to justify, generalize and design tasks) and simulated student reasoning across Modules 6-10, alongside the finding that MC, CK and PCK moved together — while measuring engagement only, not teacher knowledge or student learning.
 - **Post-qualification programs.** In-service science educators' AI literacy and usage inform the design of AI-related post-qualification programs.([[science-educators-ai-literacy-postqualification-2026]])
 

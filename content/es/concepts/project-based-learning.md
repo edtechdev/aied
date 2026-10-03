@@ -1,14 +1,14 @@
 ---
 title: Aprendizaje basado en proyectos
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-10-02T22:33:23-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,10 +42,12 @@ El aprendizaje basado en proyectos está estrechamente relacionado con —pero e
 - **Proyectos de robótica:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] presenta un enfoque basado en proyectos, ágil y de un semestre completo, para enseñar robótica en un programa aplicado de [[cs-education|ciencias de la computación]], abordando la brecha teoría-práctica.
 - **El Enfoque de Proyectos en la primera infancia con agentes de IA:** [[creative-project-approach-ai-early-childhood-2025|Yang, Li y Lee (2025)]] extienden la forma fundacional del ABP —el Enfoque de Proyectos (Katz y Chard), una investigación colaborativa extendida sobre un tema del mundo real— a la [[early-childhood-elementary-ai-education|primera infancia]], proponiendo un **Enfoque de Proyectos Creativo** de cinco pasos que integra [[agentic-ai|agentes de IA]] y [[educational-robotics|robots]] (robots de programación y robots sociales generativos) en los proyectos para fomentar el [[creativity|aprendizaje creativo]] de los niños pequeños. Los cinco pasos —identificar las necesidades de aprendizaje, facilitar la interacción niño-robot guiada por el [[teacher-role|docente]], situar la IA en contextos, calibrar el equilibrio entre automatización y creatividad, y evaluar los resultados— mantienen al docente como facilitador que guía la indagación, situando el ABP como el vehículo natural para un uso de la IA apropiado al desarrollo con el estudiantado más pequeño.
 - **Acoplamiento con la gamificación:** [[game-based-gamified-robotics-education-review-2026|Una revisión sistemática]] encontró que la [[game-based-learning|gamificación]] en la educación en robótica favorecía claramente el aprendizaje basado en proyectos (p = 0,009).
+
 El único metaanálisis de tres niveles sobre este emparejamiento agrupa 22 estudios controlados (66 tamaños de efecto, de enero de 2023 a abril de 2026) y estima un efecto grande para el ABP/ABPr apoyado por IA generativa, g = 0,819, IC del 95% [0,655, 0,983], aunque el análisis de sensibilidad PET-PEESE de los autores reduce la estimación a g = 0,378, por lo que la cifra titular debe leerse como potencialmente inflada ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]). El tipo de herramienta moderó el efecto de forma significativa (QM = 14,301, p < 0,001): un chatbot general usado directamente agrupó valores más altos (g = 0,970) que los sistemas personalizados como plataformas de curso, pacientes virtuales o agentes (g = 0,455), lo que sugiere que cómo se integra una herramienta importa más que qué modelo se elige.
 - **Alfabetización en IA y codiseño:** el ABP subyace a muchas intervenciones de [[ai-literacy|alfabetización en IA]] y de [[teacher-education|formación docente]], en las que el estudiantado cocrea herramientas o recursos de IA.
 - **ABP de software apoyado por agentes de IA:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] integraron el Desarrollo Guiado por Especificaciones con [[agentic-ai|agentes de IA]] en un curso universitario de ABP de software en equipo, estructurando los proyectos en fases de investigación, planificación, implementación y revisión, emparejadas con comprobaciones de comprensión dirigidas por el docente.
 - **Estudios de RV inmersiva con un agente docente integrado:** [[ai-ive-pbl-vocational-design-creativity-2026|Jin et al. (2026)]] especifican el modelo **AI-IVE-PBL** para la educación vocacional en diseño, emparejando el ABP con un entorno virtual inmersivo habilitado por IA (cascos de [[virtual-and-augmented-reality|RV]] más un asistente docente respaldado por [[llm|LLM]]). Las limitaciones habituales del ABP para el estudiantado vocacional —equipamiento limitado, escenarios difíciles de replicar, [[scaffolding|andamiaje]] docente diferido— quedan absorbidas por la inmersión más un agente en sesión, y el modelo se formula como un bucle de cinco fases (descubrimiento, visualización, modelado, comunicación, refinamiento) con un actor y un artefacto nombrados por fase, impulsado por un discurso sostenido de desarrollo de ideas. En un cuasiexperimento de 12 semanas (n = 63), la condición elevó la capacidad de diseño y la capacidad creativa y aumentó la [[student-engagement|implicación]] cognitiva y conductual, dejando sin cambios la novedad ideacional (pensamiento innovador) y la implicación afectiva —un recordatorio de que las partes específicas del diseño y las ideacionales del valor de un proyecto no se mueven juntas.
+
 El ABP conecta con el [[active-learning|aprendizaje activo]], el [[experiential-learning|aprendizaje experiencial]], el [[collaborative-learning|aprendizaje colaborativo]], la [[educational-robotics|robótica educativa]], el [[game-based-learning|aprendizaje basado en juegos]], el [[computational-thinking|pensamiento computacional]] y la pedagogía de [[higher-ed|educación superior]]/[[k-12|K-12]].
 
 - **El ABP apoya el aprendizaje de robótica impulsado por IA.** [[educational-robotics-pathways-2026|La investigación de Pathways]] muestra que los currículos de robótica+IA basados en proyectos permiten al estudiantado de secundaria aprender mediante la participación en la práctica del mundo real, el diseño y la expresión creativa lúdica.

@@ -1,7 +1,7 @@
 ---
 title: Evaluación formativa
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-10-02T22:42:11-04:00"
+updated: "2026-10-03T02:52:14-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -16,11 +16,11 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-09-25"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-25"
+    date: "2026-09-28"
     agent: hermes-agent
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -46,6 +46,7 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 ### AutoML for Learner Portraits
 
 Personalization is a central objective for improving educational quality, yet processing multi-source heterogeneous learning-behavior data remains a challenge. A personalized neural cognitive architecture search framework, driven by automated [[reinforcement-learning|machine learning]], builds learner portraits and generates diagnostic models for heterogeneous learner profiles, integrating multi-modal data to move beyond static examination outcomes.
+
 A static knowledge base cannot personalize: ontologies evolve slowly and handle uncertainty poorly, so the architecture matches representation to knowledge type — declarative to ontologies, procedural to rules, uncertain to fuzzy or probabilistic ontologies, implicit to analytics and machine learning — and prefers a system of small mapped ontologies to one monolithic model ([[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova, 2026]]).
 
 ## Relationship to adaptive learning and intelligent tutoring
@@ -74,6 +75,7 @@ The strongest evidence that this concern is not hypothetical comes from a [[pers
 
 
 Where the diagnosis behind a path is validated, personalization pays off by lowering load rather than by covering more: shortest-path remediation averaged 3.82 steps and cut study time 22.0% (57.6 versus 73.8 minutes), with cognitive load carrying 53.7% of the post-test effect ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng & Huang, 2026]]).
+
 Evidence for the tool can itself be negative at small scale: in a five-day elementary fraction trial (final n = 22), the business-as-usual group showed significantly greater comprehension gains than the AI-adaptive Mathbot group, and the authors flag grade-level confounds, guessing and licensing cost as limits — an "adaptive" label carries no effect ([[ai-powered-personalized-learning-elementary-fractions-2026|Holman (2024)]]).
 
 Reinforcement learning is a distinct mechanism for personalization, and [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]] map its empirical track record: their [[meta-analysis-systematic-review|PRISMA]] review of 89 RL-in-education studies finds RL personalization concentrated in [[higher-ed]] and [[math-education]], with adaptation implemented mainly as content scheduling (n = 53) or guidance-related personalization such as hints and feedback (n = 36). They report that RL policies beat non-adaptive baselines most often on guidance-related adaptation and on [[affective-computing|affective]] variables (63% of tested studies), and that learning gain — especially normalized learning gain — was the most effective reward source — practical guidance for designing reward signals that personalize toward genuine learning rather than [[student-engagement|engagement]].
@@ -85,6 +87,7 @@ Bernstein and Sibia (2026) sharpen a distinction between interest personalizatio
 A third axis of personalization is the *goal*, and it is the input AI planners handle worst. [[personapath-personalized-learning-paths-2026|Liu et al. (2026)]] paired 2,000 synthetic learner personas with a 347-textbook, 4,092-concept prerequisite graph and asked ten LLMs to plan, step by step, which knowledge a learner should study to reach a stated target unit. The models produced structurally sound curricula — DeepSeek-V3.1 reached 90.9% on prerequisite-and-hallucination validity — while failing to adapt them to the learner: adaptivity topped out at 44.7%, DeepSeek-V3.1's final pass rate was 29.5% in Basic Education and 14.6% in Higher Education, and removing the mastery field from the persona cost up to 26.1 percentage points of adaptivity while leaving validity almost unchanged. Generating the whole path in one pass instead of interactively raised validity by as much as 30.8 points while cutting adaptivity by 28.8. The claim "personalized" is a claim about responding to a learner's state, and the state variable is the part these planners can most easily do without — a computational counterpart to the measurement concern above.
 
 A fourth axis is the *audience* rather than the individual learner: [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] regenerates an existing lecture for a named professional group (healthcare, finance, or energy), and its expert raters scored industry-framed versions 0.32 points higher on personalization depth (3.97 vs. 3.65) while audience calibration lagged (3.52). Tailoring to a cohort rather than to a learner is a cheaper and more tractable form of personalization, but the rubric that measured it assessed judged fit, not learner outcomes.
+
 Personalization can outweigh a human presenter: in a large online course (493 respondents), students ranked AI-generated personalized videos above non-personalized human-recorded ones (mean rank 2.26 versus 2.69) and 88.4% ranked some personalized video first, against 73.8% for human-recorded ([[personalized-ai-generated-videos-preference-2026|Tomlinson et al. (2026)]]).
 
 ## Prompt-conditioned micro-personalization

@@ -1,7 +1,7 @@
 ---
 title: Agencia de quien aprende
 created: "2026-09-25T03:54:08-04:00"
-updated: "2026-10-02T23:59:36-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,17 +10,17 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-10-01T09:59:54-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-09-25"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-25"
+    date: "2026-09-28"
     agent: hermes-agent
 ---
 
@@ -52,7 +52,9 @@ La agencia importa porque el aprendizaje es más eficaz cuando quien aprende par
 - **Robótica e [[educational-robotics|interacción entre personas y robots]]:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] se diseñó explícitamente para preservar la agencia de quien aprende en el [[computational-thinking|pensamiento computacional]]; [[human-autonomy-agency-hri-review-2025|una revisión sistemática]] examina cómo la interacción entre personas y robots afecta a la autonomía humana y al sentido de agencia, centrales en los debates sobre el [[well-being|bienestar]] y la [[governance|gobernanza]].
 - **[[collaborative-learning|Aprendizaje colaborativo]]:** la [[research-methods-aied|investigación]] sobre la [[human-ai-collaboration]] examina cómo se reparten las tareas cognitivas entre quien aprende y la IA, y la agencia determina si es la persona o la IA la que dirige la interacción.
 - **[[student-engagement|Implicación]] crítica:** la investigación sobre la [[cognitive-offloading|descarga cognitiva]] muestra cómo el estudiantado que delega la interpretación en la IA puede perder agencia sobre su propio razonamiento; los enfoques críticos y [[metacognition|metacognitivos]] tratan de protegerla.
+
 El coste depende de qué capa se delega: en un estudio de escritura de ocho semanas, delegar el razonamiento —los fundamentos, las contraargumentaciones, la interpretación de la evidencia— conllevó la asociación negativa más fuerte con el rendimiento independiente (ab = −0,34), y la escritura autorregulada la atenuó, pero nunca la invirtió ([[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]]).
+
 Un estudio de panel de tres oleadas con 342 estudiantes universitarios en 85 grupos fijos de escritura da a esa preocupación una dirección temporal: una vez separadas las diferencias estables entre personas en un modelo de panel cruzado con intercepto aleatorio, una dependencia de la [[generative-ai|IA generativa]] superior a la habitual predecía una menor agencia percibida después, mientras que las trayectorias de agencia a dependencia eran más débiles y no tenían respaldo estadístico, aunque los intervalos de confianza y los análisis de sensibilidad de Monte Carlo dejaban posibles efectos inversos pequeños. Sus datos de registro también advierten contra leer el volumen de uso como agencia perdida: la dependencia autodeclarada sí correspondía a la intensidad de uso de IA, pero los registros no podían distinguir la consulta estratégica de la [[cognitive-offloading|descarga]] o la deferencia, así que los paneles deberían leer la intensidad junto con pruebas de discurso, reflexión y revisión.([[genai-reliance-human-agency-collaborative-learning-2026|Wu y Lu, 2026]])
 Una explicación complementaria amplía la autorregulación en lugar de sustituirla: [[de-barba-srl-genai-2026|de Barba (2026)]] distingue entre regulación (gestionar el propio proceso), integración (organizarse uno mismo a lo largo del tiempo y de los contextos) y posicionamiento (interpretar críticamente lo que el entorno mide), y sostiene que el diseño orientado a la agencia debe llevar a quien aprende de la «agencia dentro de las condiciones» a la «agencia sobre las condiciones» en lugar de optimizar indicadores conductuales.
 - **Diseño para la agencia:** el diseño basado en conocimiento de [[educational-robotics|robots sociales generativos]] ([[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]]) aborda riesgos como la dependencia excesiva que socavan la agencia de quien aprende.
@@ -68,6 +70,7 @@ Una explicación complementaria amplía la autorregulación en lugar de sustitui
 La agencia se conecta con [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], la [[cognitive-offloading|dependencia excesiva]] y [[metacognition]]. Es una consideración central en la [[educational-robotics|robótica]], la [[intelligent-tutoring|tutoría]] y el diseño de [[pedagogical-agent|agentes de aprendizaje con IA]].
 
 - **El uso acotado como control epistémico, no como reticencia.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] informa de que el estudiantado con mejor rendimiento en una encuesta [[higher-ed|universitaria]] con 484 respuestas mostró una menor implicación activa con la IA y un menor impacto en el [[self-report-measures|aprendizaje percibido]], a la vez que *también* declaraba una menor desconexión relacionada con la IA, y describía su propio uso como intensivo en verificación: las salidas se comprobaban y después se subordinaban a su propio razonamiento. Leído como agencia y no como evitación, el patrón es una retención deliberada del juicio: el estudiantado conserva la autoría de la conclusión mientras usa la herramienta para aclarar y resumir.
+
 Lo que separa la agencia de la delegación es el trabajo sostenido de delimitación, no la destreza con la herramienta: el estudiantado que usaba la misma herramienta anclada en la recuperación produjo artefactos igualmente pulidos tanto si acotaba y reescribía su salida como si cedía la interpretación de entrada, de modo que la diferencia apareció solo en los prompts, la latencia, las correcciones y los rechazos ([[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne, 2026]]).
 - **Actuar, saber y responder no son lo mismo.** Un análisis del discurso asistido por corpus de 366 resúmenes de [[generative-ai|IA generativa]] en la educación superior nombra a la IA como actor 2.050 veces sin hacerla nunca responsable de responder, mientras que la responsabilidad de juzgar las salidas y verificar las afirmaciones recae en el estudiantado: la activación gramatical, la agencia funcional, la autoridad epistémica y la rendición de cuentas normativa se separan ([[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal, 2026]]).
 

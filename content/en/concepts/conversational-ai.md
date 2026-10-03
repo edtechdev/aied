@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -46,6 +46,7 @@ Conversational agents are used to grade, and their evaluative behavior diverges 
 
 Response consistency is an infrastructure problem, not a prompting one: within-model reply similarity ran 0.715–0.795 against 0.443–0.604 between models, and adding chat history changed reply content even for the same focal message ([[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]]).
 **Student perspectives.** Real-world usage shows adoption hinges on [[ai-literacy]] and [[usability-research|user experience]] more than on technical capability. A human-centered [[mixed-methods-research|mixed-methods]] study of the "Jordan Chatbot," a GPT-4o-based [[pedagogy|pedagogical]] agent in an Australian law course, found students hold positive attitudes and perceive gains in knowledge while strongly supporting [[academic-integrity]] requirements; over a third of interactions occurred after hours, confirming the value of 24/7 availability ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]). Notably, AI literacy — not general technology proficiency — predicted willingness and confidence to use the chatbot, and usability (an intrusive pop-up design) was the largest barrier among non-users, ahead of trust, preference for staff, and academic-integrity fears.([[colbran-student-perspectives-genai-chatbots-2026]]) The study recommends human-centered design, explicit AI policies and assessment labels, staff and student training, and continuous error monitoring — evidence that effective CAI deployment is as much a design and literacy problem as a technical one. At the other end of the age spectrum, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] studied children aged 6–14 interacting with AMA, a topic-bounded, age-tailored chatbot (astronomy, sneakers and shoes, dinosaurs), finding broad openness to and high trust in the AI as an information source — children even tested its credibility with known-answer questions — alongside gaps in critical engagement and digital-safety awareness that argue for age-sensitive, trust-aware conversational-ai design and explicit [[privacy]] instruction.
+
 Who uses the agent also varies: among 97 graduate statistics students, more than a quarter never used the StatBot chatbot, and female students used it significantly more often (W = 679.5, p = .015), which the authors read as conversational AI lowering the perceived social risk of asking questions ([[lee-wu-gender-motivation-genai-achievement-2026|Lee and Wu (2026)]]).
 
 Adoption is not homogeneous: clustering 192 student and educator responses yields four personas — Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters and Engaged Enthusiasts — that average-effect acceptance models obscure, with students prioritizing immediate [[feedback]] and educators content accuracy and [[academic-integrity]] ([[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed (2026)]]).

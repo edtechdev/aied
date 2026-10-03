@@ -1,7 +1,7 @@
 ---
 title: Metacognición
 created: "2026-09-25T03:54:17-04:00"
-updated: "2026-10-02T22:49:00-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -12,18 +12,18 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-10-01T19:39:20-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [student-guide-to-ai]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-09-25"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-25"
+    date: "2026-09-28"
     agent: hermes-agent
 ---
 
@@ -70,7 +70,9 @@ Hallazgos clave:
 La fluidez es la razón de que la pérdida pase inadvertida. Quien aprende juzga su aprendizaje en parte por la facilidad con que procesa el material, y Bjork et al. (2013) muestran que las señales de fluidez llevan a las personas a sobreestimar su comprensión cuando el contenido se siente fácil; el texto fluido generado por IA produce esa sensación tanto si hubo comprensión como si no, lo que crea las condiciones para una ilusión de competencia fabricada. El [[generativism-learning-theory|generativismo]] lo trata como la razón por la que no puede darse por supuesta una metacognición adaptativa: quien aprende tiene que preguntarse si la facilidad de lectura refleja comprensión, en lugar de leer esa facilidad como la respuesta.
 
 **La conciencia no garantiza que la finalización se detenga.** [[metacognitively-discordant-completion-genai-2026|Jia (2026)]] nombra la *finalización metacognitivamente discordante*: quien aprende invirtió esfuerzo real, sostiene un veredicto en primera persona ya formado de que la comprensión no ha llegado, y aun así entrega el trabajo —el caso que tanto el relato de la ilusión de fluidez como el del esfuerzo retirado dan por supuesto.
+
 Quien aprende también está mal calibrado respecto a los costes de la IA: los participantes predijeron con precisión sus tiempos en solitario pero subestimaron el tiempo asistido por IA, e informaron de un menor esfuerzo (0,61 puntos en el NASA-TLX) mientras que la IA solo aceleró tres de 24 tareas —un sesgo ausente cuando el ayudante imaginado era otra persona ([[cognitive-offloading-speedup-illusion|Yu et al. (2026)]]).
+
 El coste parece acotado y no global: la descarga degrada la habilidad específica que se practica, no las capacidades generales de dominio subyacentes, y aflora al retirarla: un estudio de endoscopia encontró que la detección de adenomas cayó del 28,4% al 22,4% cuando la IA no estaba disponible, lo que deja la monitorización de la fuente (distinguir el razonamiento de una IA del propio) como un riesgo metacognitivo abierto ([[ai-making-us-stupid|Cash et al. (2026)]]).
 
 ### La oportunidad de aumento (Scheu et al., 2026)

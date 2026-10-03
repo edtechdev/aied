@@ -1,7 +1,7 @@
 ---
 title: Educación en física
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-10-02T21:24:18-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/physics-education
-source_updated: "2026-10-02T12:40:11-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,7 @@ La [[research-methods-aied|investigación]] sobre educación en física se ha co
 **Las creencias epistemológicas se corresponden con la preferencia de comportamiento del chatbot.** En un curso grande basado en cálculo, el 52% del estudiantado prefirió un chatbot que comenzara con indagación guiada y respondiera solo cuando se le preguntara, y obtuvo puntuaciones más altas en el total de EBAPS (p = 0,029) —diferencias que no sobrevivieron a una corrección de Bonferroni, lo que hace que la asociación sea sugerente y no concluyente— ([[physics-chatbot-epistemological-beliefs-2026|Sirnoorkar y Mamidpalliwar (2026)]]).
 
 **Cambio de percepción sin cambio de conducta** es lo que [[physics-students-llm-perceptions-instruction-2026|O'Brien et al. (2026)]] añaden a este panorama. Una lección reflexiva sobre cómo funcionan los LLM, impartida en un curso obligatorio de primer año para estudiantes de física, elevó notablemente el escepticismo —el acuerdo con que los LLM pueden dejar al estudiantado con una falsa sensación de confianza subió del 58% al 88%, y la creencia de que un LLM supera al estudiante medio de física bajó del 54% al 32%—, mientras que la comodidad (71% de acuerdo) y la presión de los plazos (65%) siguieron siendo los motivos dominantes de uso. Los límites de la lección son tan informativos como su efecto: la enseñanza de [[ai-literacy|alfabetización en IA]] cambió lo que el estudiantado decía sobre estas herramientas y no las presiones que le llevan a recurrir a una, y por eso una intervención de este tipo acompaña al diseño de problemas y políticas en lugar de sustituirlo.
+
 El planteamiento de problemas convierte a quien aprende en autor del problema: el 76% de 49 estudiantes de física percibió un cambio positivo en sus interacciones con IA generativa tras un entrenamiento en ingeniería de prompts, beneficiándose más los novatos, y alrededor del 68% valoró positivamente la técnica como autoaprendizaje ([[genai-assisted-problem-posing-physics-2026|Dawson y Rebello (2026)]]).
 
 **La evaluación y el pensamiento computacional** examina cómo puede la IA evaluar el aprendizaje de la física. **[[llm-computational-thinking-physics-2026|Savage et al.]]** utilizaron LLM para evaluar el crecimiento del [[computational-thinking|pensamiento computacional]] en física introductoria y encontraron que los LLM pueden escalar la evaluación del PC pero tienen dificultades con constructos complejos como el pensamiento sistémico. **[[ai-scoring-language-bias-physics|Feser y Tschisgale]]** demostraron que la calificación con IA subestima de forma sistemática las explicaciones de física del estudiantado con menor competencia lingüística, un hallazgo que conecta con la [[assessment-validity|validez de la evaluación]], la [[bias-mitigation|mitigación de sesgos]] y la [[equity-in-ai-education|equidad en la educación con IA]].
@@ -61,6 +62,7 @@ El planteamiento de problemas convierte a quien aprende en autor del problema: e
 **Vídeo generativo como datos experimentales sintéticos.** [[genai-video-engineering-physics-workflow-2026|Alvarado-Cruz et al. (2026)]] generan escenarios de vídeo con PixVerse, Grok Imagine y Pippit para tres regímenes de fuerza resistiva —fricción constante, arrastre lineal y arrastre cuadrático—, extraen la cinemática con la herramienta de [[open-source|código abierto]] Tracker y ajustan los modelos analíticos por mínimos cuadrados no lineales. Los datos sintéticos coincidieron con las ecuaciones clásicas del movimiento y recuperaron parámetros físicamente significativos, y el hallazgo práctico recurrente es que la especificidad del prompt determina la coherencia física: descripciones más detalladas produjeron dinámicas más coherentes. El flujo de trabajo refleja la práctica experimental desde la construcción del modelo hasta la validación [[quantitative-research|cuantitativa]], y reencuadra la [[prompt-engineering|formulación de prompts]] como una etapa del diseño experimental y no como una comodidad. Lo que todavía no demuestra es aprendizaje: aquí la validación es la coincidencia entre el movimiento generado y los modelos de los autores, no el juicio de medición del estudiantado, así que el enfoque hereda la pregunta de [[assessment-validity|validez]] que debe responder cualquier dato generado que se use como evidencia.
 
 **Simulaciones a medida para los temas que PhET no cubre.** Los modelos HTML/JavaScript generados por LLM permiten al profesorado producir la simulación que el curso necesita en lugar de la publicada más cercana, sujetos a validación técnica y física; en un piloto, 53 estudiantes en 26 parejas construyeron y refinaron sus modelos de caída libre sin necesidad de conocimientos de programación ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion et al., 2025]]).
+
 Un prompt reutilizable de cuatro elementos —herramientas, visualización, controles manuales, optimización— permite a un docente sin código generar una simulación de RA basada en el navegador cuyos gestos de pellizco y expansión impulsan la física; en un piloto de 29 estudiantes el gesto ayudó a los 29 a «sentir» la longitud de onda (media 4,52) y el 86% declaró una mayor implicación ([[genai-ar-physics-simulation-prompt-2026|Levy et al. (2026)]]).
 **Instrumentación generada por IA a partir de un prompt.** Un laboratorio de rotación generado mediante prompting en lenguaje natural a un asistente de IA, sin programación manual, midió el movimiento circular uniforme y acelerado con una precisión del 1% respecto al análisis de vídeo independiente con Tracker, lo que permite al profesorado construir la interfaz en torno a sus variables pedagógicas en lugar de adaptarse a una aplicación de sensores precompilada ([[ai-generated-smartphone-circular-motion-lab-2026|Suñer et al. (2026)]]).
 

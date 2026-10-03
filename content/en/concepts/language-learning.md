@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -33,6 +33,7 @@ Language learning has emerged as a significant AI in education domain because la
 For physically embodied tutors, a meta-analysis of 11 RALL studies (N = 595) found a large pooled effect on L2 learning (g = 0.83) with high heterogeneity, and only interaction format moderated it — group-based formats beat one-on-one while robot morphology, modality, autonomy, and social role did not ([[robot-assisted-language-learning-meta-analysis-2026|Wang, Zhang & Zou (2026)]]).
 
 **AI in language assessment** is emerging as LLMs support [[automated-question-generation|item generation]] and evaluation. **[[gpt-item-generation-l2-listening-2026|Aryadoust and Wong (2026)]]** compared [[prompt-engineering|prompt engineering]] against fine-tuning for automatic item generation in L2 listening assessment: iterative prompt refinement improved item quality but plateaued, while **fine-tuning GPT-4.1 on the optimized prompt** (holding prompt design constant) yielded further gains — a template for when assessment developers should invest in model adaptation over prompt iteration.
+
 A comparison of 52 EFL assessment tasks rated by 20 experienced teachers found no significant quality difference overall between AI-generated and human-developed items, but a clear division of labor: AI was preferred for grammar and vocabulary (69%) and human development for reading, writing, listening and speaking (75–83%) ([[ai-vs-human-assessment-efl-tpck-2026|Nourashrafi, Alavinia and Darvishi (2026)]]).
 
 **Automated writing evaluation for L2 learners** evaluates AI's ability to assess non-native writing. **[[self-referential-l2-writing-llm-assessment|Bannò et al.]]** proposed a self-referential approach comparing student writing to their own prior work rather than native-speaker norms. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** found AI scoring systematically underestimates linguistically weak students — a finding that connects to [[assessment-validity]] and [[bias-mitigation]] concerns. **[[genai-linguistic-diversity-academic-writing]]** explores how AI affects linguistic diversity in academic contexts.

@@ -1,7 +1,7 @@
 ---
 title: Política educativa sobre IA
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-10-02T22:23:31-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,7 +12,7 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,10 +46,12 @@ ai_assist:
 ### La brecha de madurez de las políticas
 
 La base de conocimiento documenta que las políticas institucionales sobre IA [[genai-policies-higher-ed-computing|van por detrás del uso real de la IA]]. Los programas de [[educational-development]], los marcos de [[teacher-ai-competency]] y la [[regulation]] requieren todos bases de política coherentes. La evidencia de campo a gran escala [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei y Wu, 2026)]] muestra que las pérdidas de aprendizaje por externalizar los deberes pasan en gran medida desapercibidas porque los docentes de cada asignatura y los propios estudiantes rara vez relacionan el declive con el uso de IA: una brecha que una política informada por la evidencia (por ejemplo, ponderar la evaluación sin material de consulta, informar al estudiantado de los costes a largo plazo, supervisar los insumos y no los productos) puede abordar.
+
 Donde se ha formado consenso para llenar esa brecha, el Delphi de 35 expertos de [[crompton-governing-genai-higher-ed-delphi-2026|Crompton et al. (2026)]] en 22 países convergió en ocho áreas de gobernanza —con la integridad académica como ancla central— más un mecanismo de revisión de seis partes (comité permanente de IAG, revisiones programadas de políticas, desarrollo profesional, comunicación, evaluación de impacto, seguimiento) para mantener las políticas al día.
 **La preparación nacional en IA no predice la solidez de la política institucional.** [[adarkwah-genai-unesco-policy-2026|Adarkwah et al. (2026)]] puntuaron 26 universidades de diez países con AIPI alto frente al marco de ocho componentes de la UNESCO sobre IAG y encontraron que las instituciones nórdicas y neozelandesas lo cubrían de forma más completa que pares mejor clasificados, mientras que la inclusión, la equidad y la sostenibilidad eran los elementos más desatendidos.
 
 **Los documentos de orientación superan en número a las políticas vinculantes.** Un censo de todos los programas acreditados de un campo profesional muestra que la brecha de madurez es tanto de forma como de momento. [[institutional-ai-policy-health-informatics-2026|Eldredge et al. (2026)]] recogieron documentos de política y orientación sobre IA de los 48 programas de máster en informática de la salud y gestión de la información sanitaria acreditados por CAHIIM en Estados Unidos y encontraron que 40 (83%) tenían al menos un documento público relacionado con la IA mientras que 8 no tenían ninguno, pero que los documentos eran mayoritariamente orientaciones y no reglas exigibles: 21 directrices (53%) frente a 7 políticas formales (18%). Su contenido se centraba en la integridad académica y el uso aceptable, con los conceptos de privacidad, propiedad intelectual y regulación (HIPAA, FERPA, cumplimiento en investigación) apareciendo mucho menos, y el modelado de temas devolvió el mismo énfasis en la conducta del estudiantado. Ni el tipo de documento ni el público destinatario variaron según la modalidad de impartición (P exacta de Fisher = 0,85 y P = 0,71). Los autores lo leen como evidencia de que la política de los programas académicos es una actividad distinta del diseño curricular y del desarrollo de competencias de la fuerza laboral, y sostienen que los organismos acreditadores podrían reducir la variación resultante proporcionando marcos de política de IA que integren la integridad académica, la ética de datos y el acceso equitativo.
+
 Una revisión sistemática del Reino Unido añade una capa sectorial a la misma brecha: la inversión en infraestructura y la formación del personal en IA se concentran en las universidades intensivas en investigación (Russell Group), mientras que las instituciones centradas en la docencia (post-92) se enfrentan a limitaciones de capacidad, y solo una minoría de las instituciones británicas mantiene planes oficiales de gobernanza de la IA ([[ai-uk-higher-education-policy-2026|Ashiq (2026)]]).
 
 **Un sector que hace política sin base de evidencia.** La brecha de madurez también aparece como un problema de evidencia en los programas profesionales. [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski y Hurley (2025)]] puntuaron las políticas institucionales de las facultades de derecho estadounidenses aprobadas por la ABA en cinco dimensiones —prohibitividad, permisividad, integración educativa, transparencia y rendición de cuentas, y profundidad— y encontraron que la mayoría adoptaba posiciones generalmente prohibitivas a la vez que reservaba discrecionalidad al profesorado y se comprometía a revisar las reglas conforme avanza la tecnología. Atribuyen la cautela a la presión de tiempo más que a la evidencia: la encuesta de la ABA de 2024 recibió respuestas de solo alrededor del 15% de las facultades acreditadas, y los autores informan de que no hay consenso sobre si debe declararse el uso de IA ni sobre cómo debe citarse. Su conclusión es procesal: construir la política con el profesorado y no para él, formar de manera proactiva y tratar la generación de políticas como un acontecimiento recurrente en lugar de un acto único, lo que convierte la [[legal-education]] en uno de los casos más claros de la distinción entre política y gobernanza que traza esta página.

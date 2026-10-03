@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T14:23:52-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -64,6 +64,7 @@ Learning journals are a promising SRL intervention: by reflecting on their learn
 ### Dashboards communicating SRL profiles to teachers
 
 [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] extend digital SRL support to the teacher side: their [[learning-analytics]] dashboard (DashED) communicates ML-derived self-regulated learning profiles to teachers in blended classrooms, and how teachers act on those profiles is context-dependent. In use, flipped-classroom (university) teachers followed a sequential exploration and favored course-level adaptation and showing [[visualization|dashboards]] in class, whereas vocational teachers revisited summary pages and used the tool mainly for individual coaching sessions. The actions teachers proposed were shaped by the content represented and their teaching level rather than the plot type — university teachers favored weekly tests and course adaptation, vocational teachers direct, individualized coaching. This positions the dashboard as a scaffold for teachers' regulation of instruction, with design needs that vary by context rather than a single optimal interface.
+
 The student-facing counterpart is sparser: a dashboard that showed 46 secondary students their own GenAI prompts and their text overlap with the model's replies was opened by only about a third of the class, making voluntary exposure rather than the visualization itself the binding constraint ([[learning-analytics-genai-secondary-writing-2026|Fong et al. (2026)]]).
 
 ### Scheu et al.'s 2×2 Experiment (2026)

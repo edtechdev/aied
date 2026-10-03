@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-02T08:08:45-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -77,6 +77,7 @@ A controlled comparison isolates the feedback component from the adaptive system
 
 
 Style is a quality dimension with a cost: with the same model, directive feedback scored higher on prioritizing essential features and on specificity, while Socratic feedback raised comprehension monitoring — and directive feedback carried the higher cognitive load ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
+
 How the feedback is *produced* belongs on that list too. In a modular automated writing evaluation system for argumentative essays, supervised fine-tuning on 90 teacher-annotated essays produced unusable feedback — the fine-tuned GPT-4o exceeded its 8,000-token context window on every inference and fine-tuned LLaMA-3.3-70B emitted JSON that would not parse — whereas directly prompting Claude 3.7 generated 630 micro comments across 40 essays whose teachers judged 94.69% necessary and effective, leading the authors to conclude that for a non-deterministic generation task prompting can beat fine-tuning ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]]).
 
 ### Quality dimensions

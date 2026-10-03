@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-01T19:39:20-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -57,7 +57,9 @@ Key findings:
 Fluency is why the loss goes unnoticed. Learners judge their learning partly from how easily material is processed, and Bjork et al. (2013) show that fluency cues lead people to overestimate their understanding when content feels easy; fluent AI-generated text supplies that feeling whether or not comprehension followed, creating the conditions for a manufactured illusion of competence. [[generativism-learning-theory|Generativism]] treats this as the reason adaptive metacognition cannot be assumed: the learner has to ask whether ease of reading reflects understanding rather than reading the ease as the answer.
 
 **Awareness does not guarantee that completion stops.** [[metacognitively-discordant-completion-genai-2026|Jia (2026)]] names *metacognitively discordant completion*: a learner who invested real effort, holds a formed first-person verdict that understanding has not arrived, and releases the work anyway — the case the fluency-illusion and withdrawn-effort accounts both assume away.
+
 Learners are also miscalibrated about AI's costs: participants predicted independent times accurately but underestimated AI-assisted time, and reported lower effort (0.61 points on NASA-TLX) while AI sped up only three of 24 tasks — a bias absent when the imagined helper was another person ([[cognitive-offloading-speedup-illusion|Yu et al. (2026)]]).
+
 The cost appears bounded rather than global: offloading degrades the specific skill practiced, not the underlying domain-general abilities, and surfaces on withdrawal: an endoscopy study found adenoma detection fall from 28.4% to 22.4% when the AI was unavailable, leaving source-monitoring (telling an AI's reasoning from one's own) an open metacognitive risk ([[ai-making-us-stupid|Cash et al. (2026)]]).
 
 ### The Augmentation Opportunity (Scheu et al., 2026)

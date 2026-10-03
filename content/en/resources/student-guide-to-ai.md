@@ -1,7 +1,7 @@
 ---
 title: "Student Guide to AI"
 created: "2026-09-28T04:47:03-04:00"
-updated: "2026-09-28T04:47:03-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: resource
 summary: "A free three-edition student guide to artificial intelligence from Elon University, AAC&U and The Princeton Review, whose 2026 edition builds ten human capacities with teacher-ready learning modules and an anonymous self-assessment."
 url: https://studentguidetoai.org/
@@ -57,6 +57,7 @@ faculty development and shared vocabulary across separate AI initiatives.
 
 The guide is [[formative-assessment|formatively]] framed and says so: scores are a snapshot of
 habits, not a grade, a trait or a prediction, and students are told not to share them publicly.
+
 The framing around AI rests on cited survey and experimental evidence that outsourcing effort can
 leave students retaining less — which is the [[cognitive-offloading|offloading]] question the
 guide is written to counter, not to settle. The field guide PDF sits behind a short form asking

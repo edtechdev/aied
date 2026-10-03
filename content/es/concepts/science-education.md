@@ -6,9 +6,9 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-10-02T22:36:00-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 translation_of: concepts/science-education
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,7 @@ ai_assist:
 ## Introducción
 
 La educación científica es donde la promesa de la IA y sus límites chocan de forma más visible, porque las disciplinas exigen un razonamiento [[multimodal|multimodal]] riguroso —pensamiento visual-espacial en física, destrezas de laboratorio en química y sistemas a escala de organismo en biología— junto con contenido bien estructurado y verificable, que los LLM manejan bien. Los trece artículos aquí sintetizados abarcan las tres disciplinas y todos los niveles, desde las aulas de secundaria de [[k-12|K-12]] hasta cursos universitarios de [[higher-ed|educación superior]] y programas de [[teacher-education|formación inicial del profesorado]]. En conjunto, emerge un cuadro coherente: la IA funciona mejor no como generadora de respuestas, sino como socia integrada —coinvestigadora, generadora de contenido, asistente de laboratorio virtual— cuya contribución la deciden el [[learning-design|diseño instruccional]] y la estructura pedagógica que la rodea.
+
 Una evaluación aleatorizada de cuatro semanas de una plataforma de revisión con IA en ciencias de GCSE aporta al cuadro una estimación causal —g de Hedges = 0,33, sin evidencia de que el efecto difiriera por asignatura o desventaja— frente a un contrafactual ya rico en tecnología, así que la cifra es valor añadido y no IA frente a nada ([[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]]).
 
 ### Laboratorios virtuales y simulaciones

@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-01T09:59:54-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -38,7 +38,9 @@ Agency matters because learning is most effective when learners are active, inte
 - **Robotics and [[educational-robotics|human-robot interaction]]:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] was explicitly designed to preserve learner agency in [[computational-thinking|computational thinking]]; [[human-autonomy-agency-hri-review-2025|a systematic review]] examines how human-robot interaction affects human autonomy and sense of agency, central to [[well-being]] and [[governance]] debates.
 - **[[collaborative-learning|Collaborative learning]]:** [[human-ai-collaboration]] [[research-methods-aied|research]] examines how cognitive tasks are shared between learners and AI, with agency determining whether the human or the AI directs the interaction.
 - **Critical [[student-engagement|engagement]]:** [[cognitive-offloading|Cognitive offloading]] research shows how students who delegate interpretation to AI can lose agency over their own reasoning; critical and [[metacognition|metacognitive]] approaches aim to protect it.
+
 The cost depends on which layer is delegated: in an eight-week writing study, delegating reasoning — warrants, counterarguments, evidence interpretation — carried the strongest negative association with independent performance (ab = −0.34), and self-regulated writing weakened but never reversed it ([[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]]).
+
 A three-wave panel study of 342 undergraduates in 85 fixed writing groups gives that concern a temporal direction: once stable between-person differences were separated in a random intercept cross-lagged panel model, higher-than-usual [[generative-ai|GenAI]] reliance predicted lower subsequent perceived agency, while agency-to-reliance paths were weaker and not statistically supported, though the confidence intervals and Monte Carlo sensitivity analyses left small reverse effects possible. Its log data also warn against reading usage volume as lost agency — self-reported reliance did correspond to AI-use intensity, but the logs could not distinguish strategic consultation from [[cognitive-offloading|offloading]] or deference, so dashboards should read intensity alongside evidence of discourse, reflection and revision.([[genai-reliance-human-agency-collaborative-learning-2026|Wu & Lu, 2026]])
 A complementary account widens SRL rather than replacing it: [[de-barba-srl-genai-2026|de Barba (2026)]] distinguishes regulation (managing one's own process), integration (organizing the self across time and contexts) and positioning (critically interpreting what the environment measures), and argues agency-oriented design must move learners from "agency within conditions" to "agency over conditions" instead of optimizing behavioral proxies.
 - **Design for agency:** Knowledge-based design for [[educational-robotics|generative social robots]] ([[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]]) addresses risks like overreliance that undermine learner agency.
@@ -54,6 +56,7 @@ A complementary account widens SRL rather than replacing it: [[de-barba-srl-gena
 Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], [[cognitive-offloading|Over-Reliance]], and [[metacognition]]. It is a core consideration in [[educational-robotics|robotics]], [[intelligent-tutoring|tutoring]], and the design of [[pedagogical-agent|AI learning agents]].
 
 - **Bounded use as epistemic control, not reluctance.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] reports that higher-achieving students in a 484-response [[higher-ed|university]] survey showed lower active AI engagement and lower [[self-report-measures|perceived learning]] impact while *also* reporting lower AI-related disengagement, and described their own use as verification-intensive: outputs checked, then subordinated to their own reasoning. Read as agency rather than avoidance, the pattern is a deliberate retention of judgment — students keeping authorship of the conclusion while using the tool for clarification and summarization.
+
 Sustained boundary work, not tool skill, is what separates agency from delegation: students using the same retrieval-grounded tool produced comparably polished artifacts whether they constrained and re-authored its output or ceded interpretation early, so the difference appeared only in prompts, latency, corrections and refusals ([[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne, 2026]]).
 - **Acting, knowing, and answering are not the same thing.** A corpus-assisted discourse analysis of 366 [[generative-ai|GenAI]] higher-education abstracts names AI as an actor 2,050 times without ever making it answerable, while responsibility for judging outputs and verifying claims is placed on students: grammatical activation, functional agency, epistemic authority and normative accountability come apart ([[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal, 2026]]).
 

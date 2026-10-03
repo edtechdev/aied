@@ -1,7 +1,7 @@
 ---
 title: Diseño de aprendizaje
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-02T22:23:33-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy]
 translation_of: concepts/learning-design
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,7 @@ Para quienes diseñan la instrucción, desarrollan cursos y construyen experienc
 **Ofrecer orientación instruccional, no solo acceso a la IA.** Tanto si el estudiantado interactúa directamente con la IA como con materiales generados por IA, la orientación basada en la teoría del aprendizaje (por ejemplo, un [[scaffolding|andamiaje]] de prompting por pasos fundamentado en principios de aprendizaje generativo) impulsa resultados de orden superior; el acceso por sí solo no. Diseñe la actividad de aprendizaje en torno a cómo aprende la mente y trate la IA como una «herramienta mental» cognitiva que amplía el pensamiento en lugar de sustituirlo.([[instructional-guidance-genai-learning]])([[genai-mindtool-generative-learning]])
 
 **Modelar el olvido y programar el repaso donde el deterioro es peor.** G4L representa el deterioro del conocimiento con una curva del olvido de Ebbinghaus impulsada por el tiempo transcurrido y las repeticiones, y prioriza las unidades más vulnerables al deterioro en lugar de volver a servir lo que se puntuó más recientemente ([[graph-its-adaptive-algorithms-2026|Csépányi-Fürjes y Kovács, 2026]]).
+
 Fowlin et al. (2026) añaden un movimiento operativo para decidir dónde entra la IA: descomponer una actividad en los componentes que se hacen mejor de forma independiente y los que se acoplan mejor con la IA, manteniendo el juicio del educador en el centro de la división ([[fowlin-operationalizing-learning-principles-ai|Fowlin et al. (2026)]]).
 
 **Hacer el contenido trazable y revisable.** Permita que una persona diseñadora revise y corrija la salida de la IA antes de que llegue a quien aprende, y estructure la generación con IA de modo que la justificación pedagógica (por qué este contenido, en este orden) sea inspeccionable, lo que aborda tanto la calidad como las preocupaciones sobre la opacidad que socavan una instrucción generada con [[trust|confianza]].([[bridging-instructional-design-framework-math]])([[cotal-formative-assessment-scoring-2026]])

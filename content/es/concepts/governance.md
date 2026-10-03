@@ -1,7 +1,7 @@
 ---
 title: Gobernanza de la IA
 created: "2026-09-25T04:32:03-04:00"
-updated: "2026-10-02T21:36:16-04:00"
+updated: "2026-10-03T02:52:14-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -17,11 +17,11 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-09-25"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-25"
+    date: "2026-09-28"
     agent: hermes-agent
 ---
 
