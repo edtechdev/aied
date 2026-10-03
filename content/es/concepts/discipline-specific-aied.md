@@ -1,13 +1,13 @@
 ---
 title: "La IA en las disciplinas"
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-09-28T20:10:03-04:00"
+updated: "2026-10-02T22:23:33-04:00"
 type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
 translation_of: concepts/discipline-specific-aied
-source_updated: "2026-09-21T13:04:27-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,7 @@ Varios hilos atraviesan todas las disciplinas, aunque se despliegan de forma dis
 - **Evaluación.** La [[automated-assessment|evaluación automatizada]], la [[automated-assessment|corrección automatizada]], la [[automated-essay-scoring|corrección automática de ensayos]] y la [[formative-assessment|evaluación formativa]] se reimaginan con IA en todas las disciplinas, pero los constructos de puntuación difieren (precisión procedimental frente a profundidad interpretativa frente a competencia comunicativa).
 - **Descarga cognitiva y dependencia excesiva.** El riesgo de [[cognitive-offloading|descarga cognitiva]] y de [[cognitive-offloading|dependencia excesiva]] aparece en [[math-education|matemáticas]], [[cs-education|informática]] y [[writing-education|escritura]], aunque el «acto cognitivo» que se delega es específico de cada disciplina: cálculo, código o composición.
 - **Alfabetización en IA y uso crítico.** La [[ai-literacy|alfabetización en IA]], el [[critical-thinking|pensamiento crítico]] y la [[critical-pedagogy|pedagogía crítica]] sustentan el uso responsable en todas las materias.
+- **El anclaje disciplinar condiciona la metacognición apoyada por IA.** En un seminario de lingüística del texto, el estudiantado novel reflexionó metacognitivamente con LLM sobre todo donde el conocimiento de la materia ya estaba consolidado, y la mayoría atribuyó los resultados pobres al modelo en lugar de a su propio prompt: evidencia de que el diseño de prompts debe enseñarse explícitamente dentro de una disciplina ([[llms-text-linguistics-teaching-2026|Brocca y Garassino (2026)]]).
 - **Equidad y acceso.** La [[equity-in-ai-education|equidad en la educación con IA]], la [[digital-divide|brecha digital]] y la [[culturally-relevant-pedagogy|pedagogía culturalmente relevante]] conciernen a todas las disciplinas.
 
 ## Pedagogías, métodos y teorías características por disciplina
@@ -87,6 +88,7 @@ Cada disciplina aporta tradiciones [[pedagogy|pedagógicas]] distintivas con las
 ## Disciplinas representadas en la base de conocimiento
 
 La cobertura por disciplinas más sólida de la base de conocimiento está en **[[stem-education|STEM]]** en sentido amplio —en particular **[[math-education|matemáticas]]**, **[[physics-education|física]]**, **[[chemistry-education|química]]**, **[[biology-education|biología]]** y **[[cs-education|informática]]**—, seguida de **[[writing-education|escritura]]**, **[[language-learning|aprendizaje de idiomas]]** (con una línea propia de **[[english-education|enseñanza del inglés]]** para EAP/EFL/ESL) y, más recientemente, **[[engineering-education|ingeniería]]**, **[[teacher-education|formación del profesorado]]** (con un cuerpo sustancial de investigación sobre formación en IA inicial y en servicio), **[[medical-education|medicina y profesiones de la salud]]** y **[[humanities-education|humanidades y ciencias sociales]]**. Ingeniería y diseño también tienen un cuerpo creciente de artículos. Esta concentración sigue a la literatura más amplia: la revisión de [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al. (2026)]] encontró que STEM era la forma interdisciplinar más común en la educación superior apoyada en IA (n = 26), muy por delante de los campos no STEM (n = 10) y de STEAM (n = 2), una advertencia a nivel disciplinar de que la evidencia sobre IA en educación se acumula más rápido donde las herramientas computacionales son más fáciles de integrar, no necesariamente donde el valor pedagógico de la IA es mayor. Las incorporaciones más recientes amplían la línea más allá de las materias académicas hacia la educación profesional y aplicada —[[nursing-education|enfermería]], [[information-technology|tecnología de la información]] y [[vocational-education|formación profesional y vocacional]]—, donde al estudiantado se lo evalúa por la práctica demostrada y no por la corrección, y donde el empleador y el organismo de habilitación, y no solo la academia, definen qué cuenta como competencia.
+La línea de formación profesional y vocacional es la más escasa en esa evidencia: una revisión sistemática de 26 estudios sobre formación profesional y vocacional no encontró ninguno realizado en entornos de trabajo pese al carácter laboral de la FP, solo cinco experimentos aleatorizados y solo tres diseños que otorgaban al estudiantado un papel activo ([[ai-vocational-education-training-review|Deutscher et al. (2026)]]).
 
 ## Disciplinas poco representadas
 

@@ -1,7 +1,7 @@
 ---
 title: Enmarcar el uso de la IA para el estudiantado
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-09-28T20:16:26-04:00"
+updated: "2026-10-02T22:23:27-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-09-19T21:07:40-04:00"
+source_updated: "2026-09-30T08:39:04-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -117,5 +117,3 @@ El estudiantado también queda enmarcado por los medios y el discurso público e
 - [[ai-ethics-education-public-discourse]] — El discurso público sobre la ética de la IA en educación
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — El profesorado enmarca la IA como uso crítico y responsable; las empresas la enmarcan como productividad
 - [[ssaho-ai-academic-integrity-review-2025]] — Construir una cultura de integridad académica mediante expectativas claras
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Hábitos de participación centrados en lo humano en el aprendizaje mediado por IA
-- [[caeai-ai-companions-learning-over-performance-2026]] — Diseñar compañeros que protejan el aprendizaje esforzado

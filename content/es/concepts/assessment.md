@@ -1,18 +1,18 @@
 ---
 title: Evaluación
 created: "2026-09-25T03:53:48-04:00"
-updated: "2026-09-28T22:07:38-04:00"
+updated: "2026-10-02T22:23:27-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai, learning-analytics]
-assessment: [assessment, assessment-validity, automated-assessment, educational-measurement, formative-assessment]
+assessment: [assessment, assessment-validity, automated-assessment, educational-measurement, formative-assessment, process-oriented-assessment]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-09-26T07:13:32-04:00"
+source_updated: "2026-09-30T09:53:03-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [idstack, lesson-md, master-instructional-design]
 contributors: [editor]
@@ -68,6 +68,9 @@ La IA plantea preguntas fundamentales de [[assessment-validity|validez]]: ¿las 
 ## La integridad y el debate sobre la detección
 
 La IA en la evaluación ha intensificado la conversación sobre la [[academic-integrity|integridad]]. Una línea se centra en la [[ai-detection|detección de texto generado por IA]], mientras que un cuerpo creciente de [[research-methods-aied|investigación]] sostiene que la detección es una herramienta limitada y situacional, no una estrategia de primera elección. [[beyond-detection-authentic-assessment-ai-2025|Más allá de la detección]] y [[responsible-assessment-ai-era-stanford-2026|La evaluación responsable]] sostienen que la autenticidad no se puede imponer a base de vigilancia: hay que rediseñarla, situando la IA como colaboradora declarada y priorizando la [[authentic-assessment|evaluación auténtica]] y [[process-oriented-assessment|basada en procesos]] por encima de la vigilancia. **[[walton-bearman-assessment-judgment-2025|Walton et al. (2025)]]** anclan esto en evidencia sobre **cómo juzga realmente el estudiantado** su camino por la evaluación con IA generativa: entrevistas con retroceso de pantalla (scroll-back) con 26 estudiantes revelaron un espectro de seis eventos de juicio, desde evaluar críticamente el conocimiento de la IA y aprender a través de sus limitaciones hasta adoptar ideas sin crítica y juzgar mal las aportaciones de la IA como propias. **[[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]]** añaden una contraparte [[quantitative-research|cuantitativa]]: en 157 estudiantes, *cómo* se usa la IA generativa (integración evaluativa para apoyar la comprensión frente a una adopción como atajo con poca verificación) predijo el rendimiento, mientras que la simple **frecuencia** de uso **no predijo ni** el rendimiento ni la [[self-efficacy|autoeficacia]] académica. Juntos, estos estudios reformulan la pregunta de la evaluación desde *si* el estudiantado usa IA hacia *cómo juzga y pauta* ese uso.
+ [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] van más allá y sostienen que la detección no debería usarse en absoluto: su resultado probabilístico no puede verificarse de forma independiente, porque el origen real del texto es desconocido, y las puntuaciones de los detectores —por sí solas o junto con marcadores lingüísticos, comparaciones de estilo, la afirmación de un LLM o el silencio del estudiantado— no alcanzan el estándar de «balance de probabilidades» que exigen las investigaciones de integridad.
+
+Una revisión PRISMA de 25 estudios añade un factor de riesgo que el debate sobre la detección deja fuera: el estudiantado cuya lengua materna no es el inglés mostró una alta tendencia a vulnerar la integridad cuando le costaba escribir en inglés, por lo que las expectativas de integridad deberían acompañarse de un apoyo concreto a la escritura académica y no solo de medidas de aplicación ([[ssaho-ai-academic-integrity-review-2025|Balalle y Pannilage (2025)]]).
 
 ## El rediseño de la evaluación en la era de la IA
 
@@ -123,15 +126,12 @@ Una propuesta de esta literatura va más allá del rediseño dentro del marco ac
 - [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — La integridad de la coautoría y la validez de la evaluación
 - [[competency-based-education-genai-production-2026]] — La educación basada en competencias después de la IA generativa
 - [[genai-assessment-governance]] — Gobernanza de la IA generativa en la evaluación centrada en la evidencia
-- [[cong-confidence-asag-2026]] — Corrección automática de respuestas breves
 - [[ssaho-ai-academic-integrity-review-2025]] — Revisión sobre integridad y IA: la detección debe ir acompañada de un rediseño de la evaluación
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Repensar los exámenes orales como evaluación auténtica y resistente a la IA
 - [[bassett-ai-detectors-education-2026]] — Cara gana, cruz pierdes: los detectores de IA en la educación (Bassett et al. 2026)
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: evaluación de la ansiedad del estudiantado aumentada con LLM (2026)
 - [[graph-its-adaptive-algorithms-2026]] — Tutoría inteligente basada en grafos para dominios dinámicos (2026)
 - [[asynchronous-oral-assessment-2026]] — Evaluaciones orales asíncronas en la era de la IA (Pentland 2026)
 - [[assessing-student-drive-framework-2025]] — DRIVE: evaluar el aprendizaje a través de la interacción con IA generativa (DRI + Visible Expertise)
-- [[xiong-ai-educational-measurement-review-2026]] — La IA que reconfigura la práctica de la evaluación
 - [[walton-bearman-assessment-judgment-2025]] — El juicio del estudiantado al trabajar con IA generativa en tareas de evaluación (26 estudiantes, scroll-back)
 - [[stamatoulis-genai-use-patterns-2026]] — Patrones de uso de la IA generativa (integración evaluativa frente a adopción con poca verificación) y resultados
 - [[luo-dawson-value-judgments-grading-2026]] — Juicios de valor al calificar trabajos asistidos por IA generativa: honestidad, confianza, validez y transparencia bidireccional (Luo y Dawson 2026)

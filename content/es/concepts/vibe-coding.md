@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Vibe coding
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-09-28T20:16:26-04:00"
+updated: "2026-10-02T22:23:31-04:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
 translation_of: concepts/vibe-coding
-source_updated: "2026-09-20T16:38:31-04:00"
+source_updated: "2026-10-01T09:59:06-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,10 @@ Un estudio transversal preregistrado (N = 100 estudiantes de educación superior
 
 Una de las grandes promesas del vibe coding es que permite a quienes no programan —incluidos [[teacher-role|docentes]] y especialistas de dominio— construir su propio software, una forma de desarrollo por parte de usuarios finales propia de la era de los LLM. Un [[gaide-vibe-coding-k12-teachers|estudio del marco GAIDE]] mostró a docentes de K-12 (no programadores) usando vibe coding en un taller de ocho semanas para crear herramientas de aprendizaje impulsadas por IA, lo que elevó su [[ai-literacy|alfabetización en IA]] y demostró el «aprender creando» como modelo de desarrollo profesional. En educación superior, un docente construyó rápidamente un [[vibe-coding-programming-process-visualizer|visualizador del proceso de programación a partir de registros de actividad del IDE]] mediante vibe coding en cuestión de días, haciendo visibles los procesos de programación del estudiantado para la docencia y la revisión de [[academic-integrity|integridad académica]]. Estos casos sitúan el vibe coding no solo como una habilidad de quien aprende, sino como una capacidad de autoría que [[educational-development|reconfigura quién puede crear tecnología educativa]].
 
+### Homogeneización del diseño: acceso sin diversidad
+
+La promesa de desarrollo de usuarios finales del vibe coding tiene que ver con quién puede construir, no con qué se construye. En un despliegue de curso, 73 estudiantes que construían sitios para negocios distintos en una misma plataforma de vibe coding produjeron alrededor de una docena de diseños distintos, y la autoría percibida no se correspondía con la originalidad medida ([[vibe-coding-design-diversity-2026|Boussioux et al. (2026)]]). Bajar la barrera para construir puede estandarizar el resultado: un coste que la promesa de acceso no anuncia.
+
 ### Aprendizaje, agencia y el riesgo de dependencia excesiva
 
 El vibe coding reabre preguntas centrales sobre qué se aprende cuando la IA automatiza la implementación. Como la persona usuaria no lee el código, debe confiar en el comportamiento del modelo, lo que convierte el vibe coding en un caso de alto riesgo de la tensión entre la [[agency|agencia]] y la [[cognitive-offloading|dependencia excesiva]] que recorre la programación asistida por IA. Los currículos están respondiendo al pasar de enseñar a implementar a enseñar a dirigir, verificar y auditar artefactos generados por IA (véanse [[reshaping-cs-education-genai|la reconfiguración de la informática de grado]] y la [[agentic-ai|ingeniería de software agéntica]]). El vibe coding también cambia la posición epistémica de quien aprende: el éxito depende menos de escribir código que de expresar la intención con precisión y evaluar el comportamiento frente a los objetivos, competencias más cercanas al [[computational-thinking|pensamiento computacional]] y a la escritura estructurada que al dominio tradicional de la sintaxis.
@@ -85,3 +89,4 @@ Un estudio de caso a nivel de facultad en esta base de conocimiento aporta la ca
 - [[reshaping-cs-education-genai]] — Reconfigurar la enseñanza de grado en informática para la IA generativa
 - [[flowcode-ai-creative-coding]] — Flowcode: un entorno de programación impulsado por IA para andamiar la iteración en la educación en computación creativa
 - [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — Intraemprendimiento con IA: el profesorado que construye sus propias herramientas, y los facilitadores organizativos que deciden si el impulso sobrevive (Zimmer 2026)
+- [[vibe-coding-design-diversity-2026]] — Una herramienta, un gusto? Cómo el vibe coding cambia diversidad colectiva por creatividad individual

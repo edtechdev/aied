@@ -1,7 +1,7 @@
 ---
 title: Ingeniería de prompts
 created: "2026-09-25T03:54:13-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-02T22:33:23-04:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-10-02T08:08:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,16 +42,37 @@ La ingeniería de prompts es central para un uso eficaz de la [[generative-ai|IA
 ### Cómo aparece la ingeniería de prompts en la investigación
 
 - **Formular indicaciones como huella cognitiva:** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk et al.]] muestran que los patrones de indicaciones revelan la [[cognitive-offloading|descarga cognitiva]]: el trabajo de alta calidad usa indicaciones ricas en contexto, corteses e instructivas; el de baja calidad muestra un desacuerdo reactivo sin fundamento disciplinar
+
+- **La profundidad mejora el producto, no la retención.** En 22 estudiantes de posgrado, la proporción de indicaciones que buscaban explicación («por qué/cómo/explica») predijo la calidad de la tarea valorada de forma independiente (β = 6.27) más allá del conocimiento de partida y del volumen de indicaciones, pero no mostró asociación con el recuerdo inmediato ([[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]]).
+
+- **La cognición de las indicaciones sigue a la disciplina, no al estudiante.** [[student-ai-conversations-cognitive-engagement-2026|Chang y Li (2026)]] clasificaron 60,087 indicaciones de 116 cursos y encontraron que los perfiles de nivel de Bloom diferían según la disciplina —STEM con predominio de Aplicar (20.8%), ciencias sociales con predominio de Crear (33.8%)—, y que la varianza a nivel de curso superaba la varianza a nivel de estudiante.
+
 - **Formular indicaciones como alfabetización:** la investigación sobre la [[tracing-genai-literacy-interaction-patterns|alfabetización en IA generativa en los patrones de interacción]] y sobre la [[aaai2026-prompting-literacy-k12|alfabetización en indicaciones en K-12]] enmarca la formulación de indicaciones como un componente central de la [[ai-literacy|alfabetización en IA]]
+
+- **Los novatos recurren por defecto al ensayo y error, y culpan al modelo.** En un seminario de lingüística textual, diez novatos de IA generativa refinaron sus indicaciones por ensayo y error, rara vez acudieron a ejemplos en contexto y atribuyeron mayoritariamente los malos resultados al LLM en lugar de a su propia formulación de la indicación ([[llms-text-linguistics-teaching-2026|Brocca y Garassino (2026)]]).
+
+- **Cuando el profesorado modela la indicación, el estudiantado la reutiliza literalmente.** Entre 310 indicaciones registradas de doce grupos de artes STEAM de secundaria, la copia exacta de la instrucción del docente fue el punto de vista estudiantil más frecuente, con un 47.1%, por delante de la indagación espontánea, con un 28.7% ([[middle-school-genai-steam-interactions-2026|Zhao y Li (2026)]]).
+
+- **Un ciclo regulador supera a una fórmula de indicación.** En un piloto cuasiexperimental con 42 estudiantes de grado, quienes aprendieron el ciclo IDEA (Intención, Deconstrucción, Expresión, Adaptación) produjeron indicaciones y salidas de mayor calidad que sus pares formados en la formulación de Rol–Tarea–Contexto–Formato en las cinco categorías de tareas (mejoras ajustadas de indicación de +11.77 a +29.19 puntos) ([[idea-framework-metacognitive-genai-2026|Wang et al., 2026]]).
+
 - **Formular indicaciones como diseño del sistema:** [[cotal-formative-assessment-scoring-2026|CoTAL]] usa la ingeniería de prompts con [[human-in-the-loop-ai|intervención humana]] para la puntuación en la [[formative-assessment|evaluación formativa]]; [[choi-anchor-aes-prompting-2025|las indicaciones ancladas]] mejoran la [[automated-essay-scoring|corrección automática de ensayos]]
+
+- **Formular indicaciones es la habilidad de entrada, no la disciplina.** Gorsky (2026) enmarca la [[ai-literacy|alfabetización en IA]] para profesionales del software como la capacidad de gestionar [[agentic-ai|agentes]] en lugar de formularles indicaciones, y nombra el encuadre, la especificación, la ingeniería de contexto, la verificación, la orquestación multiagente y la auditabilidad como las habilidades que un currículo debe evaluar ([[ase-26-agentic-software-engineering-curriculum|Gorsky (2026)]]).
 - **Enrutamiento adaptativo de indicaciones:** [[learning-to-prompt-adaptive-tutoring|Learning to Prompt]] trata la selección de indicaciones como parte del propio sistema de tutoría: enrutamiento de indicaciones consciente de la asignatura sobre 14 características pedagógicas, en el que un enrutador estocástico selecciona la mejor indicación para cada conversación. Esto desplaza la formulación de indicaciones de una habilidad de quien aprende a una palanca adaptativa de diseño del sistema, y mejora la [[student-engagement|implicación]] y la eficiencia (28.1% frente a 19.6% de conversión de ejercicios en una prueba A/B del mundo real).
 - **Modalidades de indicaciones:** la [[voice-text-prompt-problems-computing-education|investigación sobre la entrada de voz frente a la de texto]] examina si la modalidad de la indicación afecta a las [[learning-gains|mejoras en el aprendizaje]]
+
+- **Formular indicaciones más allá del texto: la ilustración científica.** Las indicaciones pueden generar figuras moleculares y de química física con rapidez, pero una representación localmente persuasiva puede seguir siendo errónea o arrastrar sesgos representacionales, así que el estudiantado debe interrogar las visualizaciones generadas por IA contra los principios químicos en lugar de confiar en ellas ([[unesco-ai-guidelines-chemical-education-2026|Li et al. (2026)]]).
 - **Indicaciones andamiadas:** el [[guided-llm-scaffolding-independent-learning|andamiaje guiado con LLM]] y el [[scaffolding-critical-engagement-genai-minority-students|andamiaje para la implicación crítica]] enseñan la formulación estructurada de indicaciones como intervención de aprendizaje
+
+- **Entrenar la formulación de indicaciones con apoyo decreciente:** en ARPG+, un entrenador en tiempo real diagnosticó la calidad de las indicaciones en seis dimensiones y retiró el apoyo a medida que crecía la competencia, elevando la calidad final de las indicaciones a 7.82 frente a 5.95 con plantillas estáticas y 4.52 sin ninguna ayuda ([[ye-arpg-real-time-coaching-llm-prompting-2026|Ye et al. (2026)]]).
+- **La descomposición de tareas tiene un óptimo:** generar lecciones de formación de tutores en tres segmentos produjo las lecciones mejor valoradas (media 14.67), mientras que una sola pasada obtuvo la puntuación más baja (10.67) y cinco segmentos volvieron a caer por debajo de tres: la descomposición moderada supera ambos extremos ([[lin-llm-interactive-lesson-generation|Lin et al. (2025)]]).
 - **El privilegio de las indicaciones y la equidad:** [[prompt-privilege-equitable-ai-access-2026|Jin et al.]] muestran que la pericia al formular indicaciones se distribuye de forma desigual: las personas usuarias que formulan sus peticiones con destreza obtienen sistemáticamente mejores resultados que quienes expresan la misma intención con menos habilidad. Su Prompt Equity Transformer traslada la optimización de las indicaciones de la persona usuaria al sistema de IA, y sostiene que una salida [[equity-in-ai-education|equitativa]] debería estar integrada por diseño en el modelo en lugar de exigirse a los novatos.
+- **El refinamiento de indicaciones llega a un techo; a partir de ahí toma el relevo el ajuste fino.** El diseño iterativo de indicaciones produjo mejoras decrecientes en la calidad de los ítems de [[assessment|evaluación]] de comprensión auditiva en L2, pero el ajuste fino de GPT-4.1 sobre la indicación optimizada —manteniendo la indicación constante— produjo ítems más contextualizados y equilibrados, aislando la adaptación del modelo y no el arte de formular indicaciones como la siguiente palanca ([[gpt-item-generation-l2-listening-2026|Aryadoust y Wong, 2026]]).
 
 - **Formular indicaciones como juicio profesional [[situated-learning|situado]].** Más allá de la alfabetización y del diseño del sistema, la formulación de indicaciones puede enmarcarse como una *práctica disciplinar*. La [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026|taxonomía de Dierickx et al.]] para el periodismo trata la definición de tareas y la formulación de indicaciones como una forma de juicio profesional ejercido dentro de las normas epistémicas y éticas de un dominio: traducir el trabajo periodístico a tareas explícitas (recolección de noticias → construcción de sentido → edición → publicación/distribución) hace visibles los supuestos, las prioridades y las [[ethics|consideraciones éticas]], y convierte la formulación de indicaciones en una herramienta pedagógica para la alfabetización crítica en IA. Su lógica se traslada a otras profesiones intensivas en conocimiento (derecho, medicina, políticas públicas).
 - **El diseño de indicaciones como especificación instruccional.** Neto y sus colegas (2026) encuentran en su [[meta-analysis-systematic-review|revisión sistemática]] de la IA generativa en la educación sanitaria que el diseño de indicaciones funciona como una forma de especificación instruccional, que codifica los objetivos cognitivos y los criterios de calidad implícitos en la autoría experta; sin embargo, solo el 34.8% de los estudios alineaba el contenido generado con marcos instruccionales y solo el 34.8% describía la formulación de indicaciones con detalle suficiente para reproducirla. Looi, Liu y Sun (2026) muestran además cómo la arquitectura de las indicaciones puede incorporar reglas pedagógicas (puertas de corrección, límites contra adelantar respuestas, puertas de despedida) para restringir el comportamiento tutorial del [[llm|LLM]] en dominios procedimentales.
 - **Indicaciones guiadas por rúbrica y conscientes del rol.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] mostraron que las indicaciones guiadas por rúbrica, que tratan la rúbrica como una interfaz semántica entre la intención pedagógica humana y la inferencia de la máquina, elevaron la concordancia entre el LLM y las personas en el trabajo de diseño del estudiantado del 54.75% al 81.25% (alfa de Cronbach 0.393 → 0.798). Las rúbricas diseñadas para los LLM deben equilibrar precisión y flexibilidad: una demasiado vaga invita a la interpretación libre y una demasiado rígida reduce el modelo a la coincidencia de patrones. Las indicaciones conscientes del rol, es decir, evaluar el mismo artefacto con indicaciones de docente, de revisor entre pares y de evaluador de subvenciones, produjeron retroalimentación cualitativamente distinta y epistémicamente diferente, lo que muestra que el diseño de las indicaciones da forma no solo a la exactitud, sino a la postura evaluativa de la salida.
+- **El andamiaje de indicaciones puede alejar a un modelo del docente.** [[llm-feedback-focus-adaptivity-student-writing-2026|Almousa et al. (2026)]] hicieron que siete modelos produjeran retroalimentación de escritura a nivel de párrafo bajo tres estrategias de indicación y encontraron que añadir nombres de categorías o ejemplos resueltos aumentó la divergencia respecto a la distribución del docente en la mayoría de ellos, mejorando solo a Mistral-7B (0.2695 a 0.2398). La línea base sin ejemplos se mantuvo la más cercana, así que las instrucciones de tipo foco son algo que hay que probar en lugar de dar por supuesto.
 - **Indicaciones conscientes del contexto para la evaluación.** Las indicaciones conscientes del contexto en modelos de lenguaje preentrenados automatizan la codificación de habilidades de [[collaborative-learning|resolución colaborativa de problemas]] a partir de datos de proceso, modelan dependencias entre códigos de comportamiento y fusionan capacidades cognitivas y sociales. Esto permite un análisis estructurado de la RCP a escala y en tiempo real, y supera la intensidad de trabajo de los esquemas de codificación manual.
 - **Plantillas basadas en roles y rúbricas de calidad para la planificación docente.** [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo y Tahir (2025)]] desarrollan empíricamente un marco de indicaciones para la [[curriculum-design|planificación de lecciones]] de artes STEAM para la infancia que combina una plantilla de Rol (R), Instrucciones (I) y Meta final (E) (adaptada de RISEN) con una rúbrica de optimización de «cuatro puntos y una línea»: estandarizada, práctica, atractiva y completa, además de una dimensión de extensión. Aplicar la rúbrica para criticar y refinar las indicaciones mantuvo los planes generados aceptables para el profesorado de arte en ejercicio (valoraciones medias por encima de 4/5), a la vez que expuso carencias recurrentes ([[personalized-learning|personalización]], restricciones de [[pedagogical-safety|seguridad infantil]], sesgo cultural) que la formulación simple de una sola indicación dejaba sin resolver, lo que muestra que las plantillas de indicaciones junto con criterios explícitos de evaluación funcionan como un andamiaje de control de calidad para la generación en el aula.
 
@@ -63,9 +84,11 @@ La ingeniería de prompts se conecta con el [[scaffolding|andamiaje]]: las indic
 
 - **La habilidad de escritura impulsa la formulación de indicaciones, y ambas predicen el éxito en el [[vibe-coding|vibe coding]].** En un estudio preregistrado de CHI 2026 (N=100), [[vibe-coding-writing-cs-achievement-2026|Thorgeirsson, Weidmann y Su]] encontraron que la competencia en comunicación escrita predecía el rendimiento en vibe coding orientado a la interfaz gráfica (r = .29), con la calidad de las indicaciones, valorada por personas, *mediando* esa relación: evidencia de proceso de respuesta de que una prosa clara y estructurada se traduce en mejores indicaciones de programación en lenguaje natural. Tanto la habilidad de escritura como el [[cs-education|rendimiento en informática]] fueron predictores independientes, y el rendimiento en informática (r = .39) aportó aproximadamente el doble de varianza única, así que mejorar solo la formulación de indicaciones difícilmente sustituirá por completo los fundamentos de programación en el desarrollo nativo de LLM.
 - **La estrategia de indicaciones predice el rendimiento.** Un [[isaza-chatgpt-engineering-prompting-2026|estudio empírico con 128 estudiantes de ingeniería]] encontró que la eficiencia de las consultas a la IA (indicaciones claras y bien estructuradas) y la [[problem-solving|resolución de problemas]] impulsada por la IA (la integración estratégica de la salida de la IA en el razonamiento) eran los predictores más fuertes del éxito académico, incluso tras controlar el expediente académico, lo que indica que formular indicaciones es una habilidad enseñable que da forma a la eficacia con que el estudiantado aprende con IA.
+- **El estilo de formulación de indicaciones, y no solo su calidad, se asocia a los resultados.** Rasgos derivados de 1,540 sesiones de tutoría vincularon el cuestionamiento conceptual con el rendimiento en el examen, mientras que las conductas de delegación de tareas correlacionaron negativamente; sin embargo, los mismos rasgos no se replicaron el semestre siguiente, así que son patrones conductuales y no habilidades estables ([[principal-trait-analysis-human-ai-skills-2026|McNichols, Du y Lan (2026)]]).
 - **Una taxonomía utilizable y qué categorías de indicaciones compensan de verdad.** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] traducen estrategias técnicas al modelo 3K (*Kontext, Kernauftrag, Klarheit*: contexto, tarea central, claridad): once categorías orientadas a la práctica, cada una con una rúbrica de buena, media y subóptima, y cada una probada como variación experimental de la retroalimentación generada para las metas de aprendizaje del profesorado en formación. El lenguaje técnico específico del dominio fue la categoría decisiva: sustituir la terminología de la materia por paráfrasis cotidianas redujo significativamente la calidad de la retroalimentación en tres modelos (β = −0.412), mientras que añadir ejemplos concretos y eliminar la instrucción de cadena de pensamiento no produjo diferencias significativas respecto a la línea base en el primer estudio; los ejemplos sí ayudaron cuando el análisis se repitió con las combinaciones de modelo e indicación de mejor rendimiento (β = 0.52). La calidad de las indicaciones y la elección del modelo explicaron juntas el 42.8% de la varianza en la calidad de la retroalimentación valorada, que es el argumento del artículo de que la ingeniería de prompts es una competencia medible y enseñable y no una preferencia estilística, y de que sus categorías no son intercambiables en tamaño del efecto.
 
 ## Conceptos conectados
+- [[pedagogical-patterns]] — La capa de andamiaje dentro de las secuencias de uso estructurado
 - [[vibe-coding]]
 - [[guardrails]]
 - [[scaffolding]]
@@ -88,42 +111,25 @@ La ingeniería de prompts se conecta con el [[scaffolding|andamiaje]]: las indic
 - [[llm-interaction-depth-task-quality-recall-2026]] — Lo que pregunta el estudiantado importa: profundidad de la interacción con el LLM, calidad de la tarea y recuerdo inmediato (Tsiligkiris 2026)
 - [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: entrenamiento en tiempo real para formular indicaciones educativas con LLM
 - [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Una taxonomía de tareas con LLM basada en tareas para la alfabetización crítica en IA en el periodismo
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[enright-staff-perspectives-genai-2026]]
 - [[prompt-privilege-equitable-ai-access-2026]] — El privilegio de las indicaciones: medir y mitigar las disparidades de accesibilidad en el acceso a los LLM
-- [[principal-trait-analysis-human-ai-skills-2026]] — Análisis de rasgos principales: rasgos derivados de los datos en la colaboración entre personas y IA
+- [[principal-trait-analysis-human-ai-skills-2026]] — Análisis de rasgos principales: rasgos derivados de los datos en la colaboración entre personas e IA
 - [[llms-text-linguistics-teaching-2026]] — Los LLM en la enseñanza de la lingüística textual
 - [[idea-framework-metacognitive-genai-2026]] — El marco IDEA para el uso de la IA generativa regulado metacognitivamente
 - [[lin-llm-interactive-lesson-generation]] — Generación con LLM de lecciones interactivas para la formación de tutores (Lin et al. 2025)
 - [[aaai2026-prompting-literacy-k12]]
-- [[ai-adoption-training-public-sector]]
 - [[ase-26-agentic-software-engineering-curriculum]]
 - [[choi-anchor-aes-prompting-2025]]
 - [[guided-llm-scaffolding-independent-learning]]
 - [[learning-to-prompt-adaptive-tutoring]]
-- [[llm-intervention-design-cs-review]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[tracing-genai-literacy-interaction-patterns]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[probing-ai-generated-physics-solutions-2026]]
-- [[genai-assisted-problem-posing-physics-2026]]
 - [[unesco-ai-guidelines-chemical-education-2026]] — Las directrices de IA de la UNESCO traducidas a la educación química; deriva epistémica
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: cocreación con IA justo a tiempo en todas las disciplinas
-- [[student-ai-inquiry-types-cs2-2026]] — Análisis de los tipos de consultas en la interacción entre el estudiantado y la IA
-- [[learnlm-improving-gemini-learning]] — LearnLM: el seguimiento de instrucciones pedagógicas frente a la ingeniería de prompts
-- [[teachlm-post-training-llms-education]] — TeachLM: la ingeniería de prompts como solución provisional
-- [[li-dbagent-llm-educational-agent-cs-2026]] — Un agente educativo basado en LLM (DBagent) en la educación en informática
-- [[pedagogy-ai-mistakes]] — La pedagogía de los errores de la IA: fomentar el pensamiento de orden superior (Hosseini 2026)
-- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT resuelve los deberes de Qiskit; diseño autocalificable
 - [[isaza-chatgpt-engineering-prompting-2026]] — Las conductas al formular indicaciones predicen el rendimiento del estudiantado de ingeniería
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Andamiaje guiado por reglas frente a andamiaje improvisado en un sistema de tutoría con LLM para matemáticas de primaria (Looi et al. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — Revisión sistemática de la IA generativa en la educación sanitaria basada en escenarios (Neto et al. 2026)
 - [[student-ai-conversations-cognitive-engagement-2026]] — Implicación cognitiva asociada a la disciplina y a los niveles de Bloom en las conversaciones entre el estudiantado y la IA (Chang y Li 2026)
-- [[context-aware-prompting-cps-skill-identification-2026]] — Indicaciones conscientes del contexto para la codificación automática de habilidades de resolución colaborativa de problemas
 - [[yasar-llms-iterative-pedagogical-design-2026]] — Los LLM como agentes del diseño pedagógico iterativo
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Ingeniería de prompts frente a alfabetización en indicaciones: un marco de compromiso con la IA generativa centrado en las personas con un Ciclo de alfabetización en indicaciones de cinco fases (Miles, Haber-Curran y Arar 2026)
 - [[teacher-ai-literacy-prompt-feedback-quality-2026]] — La ingeniería de prompts y la selección de modelo como predictores de la calidad de la retroalimentación con IA (Jacobsen et al. 2026)
-- [[context-prompts-physics-assignments-2026]] — Tareas de física impulsadas por inteligencia artificial mediante indicaciones de contexto
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluar el foco de la retroalimentación y la adaptabilidad pedagógica en la retroalimentación generada por LLM sobre la escritura del estudiantado
+
+- [[middle-school-genai-steam-interactions-2026]] — Los grupos STEAM de secundaria copiaron literalmente la instrucción del docente en el 47.1% de las indicaciones

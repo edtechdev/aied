@@ -1,7 +1,7 @@
 ---
 title: Texto de refutación
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-09-28T21:09:18-04:00"
+updated: "2026-10-02T22:55:23-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [science education]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/refutation-text
-source_updated: "2026-09-17T02:30:30-04:00"
+source_updated: "2026-09-30T16:25:27-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,7 @@ Los textos de refutación son un miembro más del conjunto de herramientas del c
 Para el profesorado, los textos de refutación siguen siendo una forma fiable y de baja barrera de corregir ideas erróneas tenaces. Para quienes integran la IA, la evidencia sugiere: (1) usar la IA para *generar* contenido eficaz de refutación y de cambio conceptual a escala; (2) cuando sea viable, ofrecer la refutación mediante diálogo personalizado con IA para lograr una implicación y un cambio de creencia inmediatos más fuertes; (3) contar con que las ideas erróneas generadas por IA sean pedagógicamente útiles cuando se emplea una discusión estructurada para confrontarlas; y (4) diseñar pensando en quien aprende —los efectos de la refutación pueden concentrarse en el estudiantado de alto rendimiento y estar moderados por la epistemología y la metacognición, de modo que el andamiaje y el seguimiento importan—.
 
 ## Conceptos conectados
+- [[pedagogical-patterns]] — Secuencias de refutación, incluidos dos resultados directamente contradictorios
 - [[misconceptions]]
 - [[scaffolding]]
 - [[metacognition]]

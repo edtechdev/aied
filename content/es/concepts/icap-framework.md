@@ -1,7 +1,7 @@
 ---
 title: Marco ICAP
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-09-28T18:22:28-04:00"
+updated: "2026-10-02T22:46:20-04:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-09-14T06:35:00-04:00"
+source_updated: "2026-09-30T08:05:25-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -109,4 +109,3 @@ El énfasis de ICAP en una implicación generativa y a nivel de proceso lo han a
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Andamiaje adaptativo con ICAP en un STI (BKT frente a DRL)
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — Modelo de profundidad cognitiva basado en ICAP en un agente generativo de simulación de estudiantes
 - [[assessing-student-drive-framework-2025]] — Evaluación anclada en ICAP de la interacción reflexiva con IA generativa
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: marco construccionista para la construcción de artefactos

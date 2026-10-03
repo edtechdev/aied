@@ -1,14 +1,14 @@
 ---
 title: Aprendizaje basado en proyectos
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-09-28T18:15:22-04:00"
+updated: "2026-10-02T22:33:23-04:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-09-28T04:14:44-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -72,7 +72,6 @@ El ABP conecta con el [[active-learning|aprendizaje activo]], el [[experiential-
 - [[arts-design-and-media-education]]
 ## Artículos conectados
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — El aprendizaje basado en problemas y en proyectos como marcos prometedores para la educación apoyada por IA generativa: evidencia emergente de una revisión sistemática y un metaanálisis de tres niveles
-- [[mechanical-engineering-ai-curriculum-2026]] — Currículo de educación en IA basado en proyectos en ingeniería térmica
 - [[pbl-structural-conditions-ai-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
@@ -80,12 +79,8 @@ El ABP conecta con el [[active-learning|aprendizaje activo]], el [[experiential-
 - [[genai-literacy-training-teacher-education-dbr-2026]] — Formación en alfabetización en IA para docentes
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[white-wu-robotics-ai-education-2026]] — Robótica e IA en la educación
-- [[academic-league-of-ai-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: datos de tutoría basados en proyectos de Polygence
 - [[educational-robotics-pathways-2026]] — Caminos hacia el aprendizaje de la robótica educativa impulsada por IA (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — El ABP es una estrategia dominante de aprendizaje del pensamiento computacional
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Escala AI-PBLS; el empoderamiento y la conciencia ética median entre el ABP y la satisfacción en los cursos de alfabetización en IA (Zhu y Kong 2026)
-- [[project-based-digital-storytelling-art-design-2026]] — Marco de narrativa digital basado en proyectos para la educación artística y de diseño en la era de la IA
 - [[creative-project-approach-ai-early-childhood-2025]] — El Enfoque de Proyectos Creativo: agentes de IA y robótica dentro del Enfoque de Proyectos en la primera infancia (Yang, Li y Lee 2025)
 - [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD con agentes de IA en el ABP de software en equipo
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: un estudio de diseño de RV inmersiva con un agente docente integrado, evaluado frente al ABP tradicional (Jin et al. 2026)

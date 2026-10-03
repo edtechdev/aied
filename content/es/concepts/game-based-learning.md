@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje basado en juegos
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-09-28T18:19:10-04:00"
+updated: "2026-10-02T22:23:30-04:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/game-based-learning
-source_updated: "2026-09-17T02:26:00-04:00"
+source_updated: "2026-09-30T12:53:22-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,8 @@ El GBL se fundamenta en las teorías de la [[motivation]], la [[student-engageme
 - **Juegos mediados por robots:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] es un juego de rol mediado por un robot para la intervención contra el acoso escolar, y [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] usa la [[storytelling-in-education|narrativa digital]] interactiva para impulsar la motivación.
 - **[[conversational-ai|Agentes conversacionales]] de IA en juegos de simulación:** Wenzel, Geiger y Liening (2026) derivan el marco CAIS-GBL —cuatro principios de diseño y quince características de diseño para agentes conversacionales de IA en el aprendizaje digital basado en juegos— a partir de metarrequisitos guiados por la teoría que abarcan la implicación cognitiva, motivacional, [[affective-computing|afectiva]] y [[sociocultural-learning|sociocultural]], con una postura de [[equity-in-ai-education|equidad]] por diseño. Su agente instanciado (Lara) en un juego de simulación empresarial tuvo una acogida positiva por su apoyo cognitivo, su [[community-of-inquiry|presencia social]] y su apoyo al [[self-regulated-learning]], y aborda la brecha habitual de retroalimentación [[formative-assessment|formativa]] limitada y reflexión estructurada en los juegos de simulación.
 
+- **Eficacia del AI-GBL:** una revisión sistemática de 55 estudios sobre aprendizaje basado en juegos apoyado por IA encuentra efectos positivos sobre el conocimiento, la motivación intrínseca y la implicación afectiva, pero solo 4 estudios (7%) alcanzaron su umbral de alta calidad y solo 4 (7%) eran [[rct|ECA]] ([[ai-game-based-learning-systematic-review-2026|Kaşarcı y Yurt, 2026]]). La eficacia dependía de alinear el mecanismo de IA con una [[learning-theories|teoría del aprendizaje]] declarada.
+
 ### Gamificación
 
 **La gamificación** es la aplicación de elementos de diseño de juegos (puntos, insignias, niveles, tablas de clasificación, desafíos, barras de progreso) a contextos que no son juegos para motivar e implicar a las personas usuarias. A diferencia del aprendizaje basado en juegos —donde el aprendizaje ocurre *a través de* un juego—, la gamificación superpone mecánicas de juego a una actividad de aprendizaje existente sin convertirla en un juego completo. Se usa en educación para impulsar la motivación, la [[student-engagement]] y la persistencia, y se aplica ampliamente en entornos de aula formales.
@@ -63,6 +65,7 @@ El GBL y la gamificación se conectan en conjunto con la [[educational-robotics]
 - [[virtual-and-augmented-reality]] — la práctica inmersiva y la gamificada se solapan en diseño y evidencia
 
 ## Artículos conectados
+- [[ai-game-based-learning-systematic-review-2026]] — Revisión sistemática de 55 estudios de aprendizaje basado en juegos apoyado por IA: resultados positivos, una base de evidencia delgada
 
 - [[game-based-gamified-robotics-education-review-2026]] — Educación en robótica basada en juegos y gamificada
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
@@ -72,5 +75,3 @@ El GBL y la gamificación se conectan en conjunto con la [[educational-robotics]
 - [[genai-motivation-engagement-2026]] — IA generativa, motivación e implicación
 - [[nasa-tlx-workload-gamified-ai-2026]] — Carga de trabajo NASA-TLX en condiciones gamificadas y con IA
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — Motivación ARCS y gamificación apoyada por IA
-- [[conversational-agents-business-simulation-gaming-2026]] — El marco CAIS-GBL para agentes conversacionales de IA en juegos de simulación empresarial (Wenzel et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): currículo de alfabetización en IA centrado en el juego para preescolar y jardín de infancia (Lee 2026)

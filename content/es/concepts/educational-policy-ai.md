@@ -1,7 +1,7 @@
 ---
 title: Política educativa sobre IA
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-09-28T18:22:10-04:00"
+updated: "2026-10-02T22:23:31-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,7 +12,7 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-09-28T04:14:44-04:00"
+source_updated: "2026-10-01T20:35:10-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,8 +46,11 @@ ai_assist:
 ### La brecha de madurez de las políticas
 
 La base de conocimiento documenta que las políticas institucionales sobre IA [[genai-policies-higher-ed-computing|van por detrás del uso real de la IA]]. Los programas de [[educational-development]], los marcos de [[teacher-ai-competency]] y la [[regulation]] requieren todos bases de política coherentes. La evidencia de campo a gran escala [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei y Wu, 2026)]] muestra que las pérdidas de aprendizaje por externalizar los deberes pasan en gran medida desapercibidas porque los docentes de cada asignatura y los propios estudiantes rara vez relacionan el declive con el uso de IA: una brecha que una política informada por la evidencia (por ejemplo, ponderar la evaluación sin material de consulta, informar al estudiantado de los costes a largo plazo, supervisar los insumos y no los productos) puede abordar.
+Donde se ha formado consenso para llenar esa brecha, el Delphi de 35 expertos de [[crompton-governing-genai-higher-ed-delphi-2026|Crompton et al. (2026)]] en 22 países convergió en ocho áreas de gobernanza —con la integridad académica como ancla central— más un mecanismo de revisión de seis partes (comité permanente de IAG, revisiones programadas de políticas, desarrollo profesional, comunicación, evaluación de impacto, seguimiento) para mantener las políticas al día.
+**La preparación nacional en IA no predice la solidez de la política institucional.** [[adarkwah-genai-unesco-policy-2026|Adarkwah et al. (2026)]] puntuaron 26 universidades de diez países con AIPI alto frente al marco de ocho componentes de la UNESCO sobre IAG y encontraron que las instituciones nórdicas y neozelandesas lo cubrían de forma más completa que pares mejor clasificados, mientras que la inclusión, la equidad y la sostenibilidad eran los elementos más desatendidos.
 
 **Los documentos de orientación superan en número a las políticas vinculantes.** Un censo de todos los programas acreditados de un campo profesional muestra que la brecha de madurez es tanto de forma como de momento. [[institutional-ai-policy-health-informatics-2026|Eldredge et al. (2026)]] recogieron documentos de política y orientación sobre IA de los 48 programas de máster en informática de la salud y gestión de la información sanitaria acreditados por CAHIIM en Estados Unidos y encontraron que 40 (83%) tenían al menos un documento público relacionado con la IA mientras que 8 no tenían ninguno, pero que los documentos eran mayoritariamente orientaciones y no reglas exigibles: 21 directrices (53%) frente a 7 políticas formales (18%). Su contenido se centraba en la integridad académica y el uso aceptable, con los conceptos de privacidad, propiedad intelectual y regulación (HIPAA, FERPA, cumplimiento en investigación) apareciendo mucho menos, y el modelado de temas devolvió el mismo énfasis en la conducta del estudiantado. Ni el tipo de documento ni el público destinatario variaron según la modalidad de impartición (P exacta de Fisher = 0,85 y P = 0,71). Los autores lo leen como evidencia de que la política de los programas académicos es una actividad distinta del diseño curricular y del desarrollo de competencias de la fuerza laboral, y sostienen que los organismos acreditadores podrían reducir la variación resultante proporcionando marcos de política de IA que integren la integridad académica, la ética de datos y el acceso equitativo.
+Una revisión sistemática del Reino Unido añade una capa sectorial a la misma brecha: la inversión en infraestructura y la formación del personal en IA se concentran en las universidades intensivas en investigación (Russell Group), mientras que las instituciones centradas en la docencia (post-92) se enfrentan a limitaciones de capacidad, y solo una minoría de las instituciones británicas mantiene planes oficiales de gobernanza de la IA ([[ai-uk-higher-education-policy-2026|Ashiq (2026)]]).
 
 **Un sector que hace política sin base de evidencia.** La brecha de madurez también aparece como un problema de evidencia en los programas profesionales. [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski y Hurley (2025)]] puntuaron las políticas institucionales de las facultades de derecho estadounidenses aprobadas por la ABA en cinco dimensiones —prohibitividad, permisividad, integración educativa, transparencia y rendición de cuentas, y profundidad— y encontraron que la mayoría adoptaba posiciones generalmente prohibitivas a la vez que reservaba discrecionalidad al profesorado y se comprometía a revisar las reglas conforme avanza la tecnología. Atribuyen la cautela a la presión de tiempo más que a la evidencia: la encuesta de la ABA de 2024 recibió respuestas de solo alrededor del 15% de las facultades acreditadas, y los autores informan de que no hay consenso sobre si debe declararse el uso de IA ni sobre cómo debe citarse. Su conclusión es procesal: construir la política con el profesorado y no para él, formar de manera proactiva y tratar la generación de políticas como un acontecimiento recurrente en lugar de un acto único, lo que convierte la [[legal-education]] en uno de los casos más claros de la distinción entre política y gobernanza que traza esta página.
 
@@ -79,6 +82,8 @@ La política y la gobernanza están estrechamente relacionadas pero son distinta
 - **La gobernanza es la *maquinaria*: cómo se decide, se implementa y se hace cumplir.** La gobernanza abarca las estructuras institucionales, las normas y los mecanismos de rendición de cuentas que producen, llevan a cabo y supervisan la política: quién fija las reglas, cómo se comunican y se dotan de recursos, cómo se hace cumplir el cumplimiento y cómo se impugna, y cómo se revisan a medida que evoluciona la IA. Responde a *«¿quién decide y cómo surten efecto realmente las reglas?»*.
 - **Son interdependientes.** La política sin gobernanza no se aplica: una regla escrita de la que nadie se responsabiliza, nadie supervisa ni nadie actualiza. La gobernanza sin política carece de dirección: estructuras que no administran nada en particular. La investigación de la base de conocimiento muestra repetidamente que ambas deben construirse juntas: una política que solo *clasifica* el uso de IA sin gobernanza que especifique evidencia, salvaguardas y procesos de revisión sigue siendo débil en la práctica ([[credential-cognitive-stewardship-ai-assessment|la auditoría de custodia cognitiva]]), y una gobernanza que solo vigila sin una política clara corre el riesgo de vigilancia sin [[bias-mitigation|equidad]] (véase [[governance|gobernanza de la IA]]).
 
+- **El liderazgo sénior en IA es escaso en relación con la ambición estratégica.** Una revisión de alcance de 19 fuentes encontró que solo el 7% de las instituciones había creado roles de liderazgo sénior en IA aunque el 49% trataba la IA como una prioridad estratégica, y la mayoría de los estudios incluidos eran conceptuales o transversales, por lo que no pudo establecerse ningún efecto causal de la gobernanza anticipatoria ([[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]]).
+
 La prueba práctica que las separa: una política puede leerse sobre el papel, pero la gobernanza se observa en si la regla se implementa, se aplica y se adapta. Por eso la [[governance]] extiende la [[regulation]] y la política hacia el interior de las instituciones, y por eso la base de conocimiento trata las elecciones de formato de evaluación ([[summative-assessment]]) como decisiones de *política* que solo se vuelven efectivas mediante estructuras de *gobernanza* como los consejos de revisión, los marcos de declaración y las vías de apelación.
 
 **La política de aula como frontera interpretativa de la gobernanza.** La maquinaria de la gobernanza no se detiene en el documento institucional; el profesorado que lo lee y lo adapta es el último eslabón de la cadena, y [[nash-preservice-teachers-classroom-ai-policies-2026|Nash y Burriss (2026)]] muestran cómo es ese eslabón en la práctica. Su profesorado en [[teacher-education|formación inicial]] esperaba trabajar en distritos con políticas de IA y aun así tuvo que redactar reglas específicas de aula para su propio estudiantado —una habilidad de adaptación esencial—, y los autores sostienen que el profesorado puede negarse a adoptar la IA en tareas concretas de lectura y escritura sin ignorarla, con una negativa fundamentada distinguible de un rechazo acrítico. Mantener viable esa distinción es en sí mismo una tarea de gobernanza: los distritos y los programas de formación necesitan las orientaciones, el [[educational-development|desarrollo profesional]] y la infraestructura de política que permitan al profesorado negarse a usos concretos sin ser tildado de quedarse atrás.
@@ -105,6 +110,7 @@ Una [[meta-analysis-systematic-review|revisión sistemática]] de 65 artículos 
 - [[chemistry-education]] — Educación química e IA: laboratorios, evaluación formativa, límites de los LLM, filosofía de la experimentación
 - [[biology-education]] — Educación en biología e IA: asistentes de laboratorio docentes, alfabetización en IA en biología, pensamiento crítico, herramientas especializadas
 - [[stakeholders]] — Paraguas: personas y públicos de la educación con IA (estudiantes, docentes, diseñadores, administradores, responsables de políticas)
+- [[student-support-and-success]] — el contexto de política para el despliegue del apoyo institucional
 
 ## Artículos conectados
 - [[gai-advocacy-practice-art-education-2026]] — Cuando las universidades promueven la IAG pero la práctica se queda corta: valoraciones del estudiantado e implicación en el proceso creativo en la educación artística
@@ -113,7 +119,6 @@ Una [[meta-analysis-systematic-review|revisión sistemática]] de 65 artículos 
 - [[mccorkle-aligned-genai-course-policy-2025]] — Derivar los usos permitidos y no permitidos de la IAG tarea a tarea a partir de lo que se evalúa (McCorkle, 2025)
 - [[chirikov-regulate-ai-syllabi-2026]] — Cómo regula el profesorado la IA en 31.000 programas de asignatura (Chirikov, 2026)
 - [[chirikov-ai-grade-inflation-2026]] — El desplazamiento de tareas por la IA como mecanismo de inflación de calificaciones (Chirikov, 2026)
-- [[ai-adaptation-gap-higher-education-2026]] — La brecha de adaptación a la IA en la educación superior
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Delphi global sobre la gobernanza de la IA generativa en la educación superior
 - [[qian-governing-genai-higher-ed-policy-2026]] — Orientación antes que política: reglas de programa fijadas por el profesorado y un ecosistema de apoyo de cuatro unidades en 50 universidades innovadoras de EE. UU. (Qian, 2026)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Comparación de cinco factores de las políticas de IAG de facultades de derecho en un sector que hace política sin base de evidencia (Gutowski y Hurley, 2025)
@@ -127,8 +132,6 @@ Una [[meta-analysis-systematic-review|revisión sistemática]] de 65 artículos 
 - [[ai-assessment-scale-reform]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-uk-higher-education-policy-2026]]
-- [[ssaho-ai-academic-integrity-review-2025]] — Llamada a políticas explícitas y codesarrolladas sobre el uso de IA
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Ir más allá de adoptar o prohibir: orientación por etapas y adaptada al desarrollo
 - [[policy-deficit-ai-sel-2026]] — El déficit de política en la investigación sobre IA × aprendizaje socioemocional
 - [[agarwal-ethical-values-norms-aied-2026]] — Valores y normas éticas para la IA en educación
 - [[perrotta-zero-shot-governance-2026]] — Gobernanza de disparo único: la IA de propósito general en la política (Perrotta, 2026)
@@ -137,6 +140,3 @@ Una [[meta-analysis-systematic-review|revisión sistemática]] de 65 artículos 
 - [[li-genai-assessment-language-equity-2026]] — Una frontera entre apoyo y sustitución basada en la finalidad, con declaración calibrada y rúbricas de decisión (Li, 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Inyección de prompts en la calificación mediada por IA: notas cambiadas sin ser detectadas y la respuesta a nivel de política (Humble, 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — 130 indicadores de gobernanza para autenticar la evaluación, y la presión externa que necesita la reforma (Coates, Croucher y Calderon, 2025)
-- [[physics-faculty-learning-community-ai-2026]] — Una serie de talleres para el uso eficaz de la IA en tiempos inciertos: construir una comunidad de aprendizaje del profesorado de física
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — ¿Quién actúa, quién sabe, quién responde? Un análisis del discurso asistido por corpus sobre agencia, responsabilidad epistémica y rendición de cuentas en la investigación sobre IA generativa en la educación superior
-- [[edtech-privacy-deferral-2026]] — «Lo arreglaremos más tarde»: educación, IA y el aplazamiento de la privacidad del estudiantado en la tecnología educativa

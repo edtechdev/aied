@@ -1,7 +1,7 @@
 ---
 title: Administradores
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-09-28T19:10:33-04:00"
+updated: "2026-10-02T22:23:27-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-10-01T20:35:10-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,10 @@ La adopción de la IA en la educación no es una decisión puramente de aula; ta
 ### Cómo aparece la perspectiva del administrador en la investigación
 
 - **Política y toma de decisiones institucional:** [[ai-uk-higher-education-policy-2026|la investigación sobre política de IA en la educación superior del Reino Unido]] encuentra que la integración de la IA se está acelerando pero está fragmentada, con una brecha entre la ambición de la política de alto nivel y la implementación institucional: un tema recurrente para los administradores que navegan la estrategia sin una orientación operativa clara.
+
+- **Una taxonomía de diez dominios para organizar el conjunto.** [[sposato-ai-educational-leadership-taxonomy-2025|Sposato (2025)]] sintetizó 314 publicaciones en diez dominios —desde la eficiencia administrativa hasta la gobernanza y la DEI—, dando a los líderes un vocabulario compartido para emparejar un problema institucional declarado con los dominios que lo abordan.
+
+- **Las estructuras de liderazgo van por detrás de la intención estratégica.** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] encontró que solo el 7% de las instituciones había creado roles de liderazgo sénior en IA aunque el 49% trataba la IA como una prioridad estratégica, con estilos de liderazgo empoderador y distributivo asociados a un mayor compromiso del profesorado y la brecha teoría-implementación más amplia donde la política y la infraestructura son débiles.
 - **Bienestar y experiencia del estudiantado:** [[ai-campus-wellbeing-tools|las herramientas de IA para el bienestar en el campus]] examinan cómo las instituciones despliegan la IA para el apoyo al estudiantado, vinculando las decisiones de los administradores con los resultados de [[student-experience|experiencia del estudiantado]].
 - **Gobernanza y regulación:** las decisiones de los administradores interactúan con la [[educational-policy-ai|política educativa sobre IA]], la [[governance|gobernanza]] y la [[regulation|regulación]]: las instituciones traducen la capacidad de la IA en marcos de uso aceptable, reglas de evaluación y estándares de gobernanza de datos (véase [[genai-policies-higher-ed-computing|el análisis de políticas institucionales sobre IA generativa]]).
 
@@ -66,6 +70,7 @@ La perspectiva del administrador conecta con la [[educational-policy-ai|polític
 - [[educational-development]]
 - [[teacher-role]]
 - [[ai-literacy]]
+- [[student-support-and-success]] — los procesos institucionales que gestionan los administradores: orientación, divulgación, derivación y asignación
 
 ## Artículos conectados
 - [[sposato-ai-educational-leadership-taxonomy-2025]] — La IA en el liderazgo educativo: taxonomía integral

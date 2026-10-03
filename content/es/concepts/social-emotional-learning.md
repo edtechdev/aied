@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje socioemocional
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-09-28T21:02:41-04:00"
+updated: "2026-10-02T22:25:26-04:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-09-28T22:17:25-04:00"
+source_updated: "2026-09-30T08:39:04-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,8 @@ El aprendizaje socioemocional está estrechamente relacionado con la inteligenci
 - **Integrar las competencias socioemocionales en la alfabetización en IA:** [[sec-ai-literacy-narrative-review-2026|la revisión narrativa de Palmquist et al.]] propone un marco integrado que combina la alfabetización en IA con las competencias socioemocionales, y sostiene que la competencia técnica por sí sola es insuficiente: el personal educativo y el estudiantado necesitan tanto inteligencia tecnológica como emocional para desenvolverse en entornos de aprendizaje mediados por IA, fomentando el [[personalized-learning|aprendizaje personalizado]], la colaboración y una [[student-engagement|implicación]] ética.
 
 - **El profesorado y la práctica relacional:** la investigación sobre [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|marcos de alfabetización en IA]] y sobre la [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|confianza entre profesorado y estudiantado]] subraya que el SEL sostiene las dimensiones relacionales del aprendizaje (las relaciones entre profesorado y estudiantado y entre el propio estudiantado), que la IA debe complementar y no reemplazar.
+
+- **Qué puede y qué no puede aportar un agente pedagógico al SEL.** A lo largo de 108 observaciones evaluadas a ciegas, un agente pedagógico de IA generativa fue más constante que el personal educativo a la hora de mantener un tono respetuoso y un andamiaje procedimental rutinario, mientras que el personal educativo lo superó guiando la reflexión y promoviendo el conocimiento socioemocional — lo que respalda una división del trabajo, no una sustitución ([[human-ai-complementarity-social-emotional-learning-2026|Raave et al., 2026]]).
 
 - **Bienestar e impacto afectivo de la IA:** se examina cómo el uso creciente de la IA generativa afecta a las habilidades socioemocionales, el bienestar, la sociabilidad y el sentido de confianza y empatía del estudiantado, preocupaciones que motivaron el llamamiento de la OCDE a una alfabetización en IA basada en valores humanistas, sociales y emocionales.
 

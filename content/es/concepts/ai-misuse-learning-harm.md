@@ -1,7 +1,7 @@
 ---
 title: Mal uso de la IA y daño al aprendizaje
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-09-28T21:02:41-04:00"
+updated: "2026-10-02T22:51:46-04:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-09-17T09:40:00-04:00"
+source_updated: "2026-10-01T09:59:54-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -98,19 +98,13 @@ El matiz práctico más importante es que el daño es **selectivo según el tipo
 ## Artículos conectados
 
 - [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[best-response-student-ai-dialog-2026]]
-- [[ai-tools-academic-work-cheating-2026]]
 - [[generative-ai-guardrails-harm-learning]] — La IA generativa sin barreras de seguridad puede dañar el aprendizaje
-- [[generative-ai-reduced-study-time-math]] — La IA generativa redujo el tiempo de estudio en matemáticas
 - [[genai-performance-vs-learning]] — Distinguir las ganancias de desempeño del aprendizaje
-- [[chatgpt-impact-high-school-tests]] — Escaso impacto de ChatGPT en las puntuaciones de los exámenes de secundaria
 - [[ai-availability-student-motivation]] — La disponibilidad de IA y la motivación del estudiantado
 - [[genai-skill-bypass-literacy]] — La elusión de habilidades con IA generativa y la alfabetización
 - [[cognitive-shift-ai-education]] — El giro cognitivo en la educación con IA
 - [[misiejuk-cognitive-offloading-prompting-2026]] — La dependencia cognitiva en la colaboración entre estudiantado e IA
-- [[ssaho-ai-academic-integrity-review-2025]] — El mal uso de la IA en la escritura académica y las vulneraciones de la integridad
 - [[cognitive-commons-ai-expertise-regeneration]] — La tragedia de los bienes comunes cognitivos: la IA y la regeneración de la experiencia
-- [[shaw-nave-cognitive-surrender-2026]] — La teoría de los tres sistemas y la rendición cognitiva: cómo la IA reconfigura el razonamiento humano (Shaw y Nave 2026)
 - [[lodge-loble-cognitive-offloading-2026]] — La IA, la dependencia cognitiva y sus implicaciones para la educación (Lodge y Loble 2026)
 - [[ai-overreliance-complex-adaptive-system-2026]] — La dependencia excesiva de la IA modelada como sistema adaptativo complejo
 - [[academic-erasure-complexity-ai-writing-2026]] — Borrado académico: la desaparición de la complejidad bajo la escritura asistida por IA

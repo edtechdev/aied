@@ -4,9 +4,9 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-09-28T21:21:51-04:00"
+updated: "2026-10-02T22:23:33-04:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-09-28T21:21:51-04:00"
+source_updated: "2026-09-30T07:29:37-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -63,7 +63,7 @@ La práctica de validación es otra fuente de exceso de confianza. [[schuetze-kn
 
 ## Formación docente y alfabetización en aprendizaje automático
 
-El aprendizaje automático también aparece en la educación como *materia*. En la [[microbit-robotics-machine-learning-teacher-training-2026|formación inicial del profesorado]], las intervenciones prácticas de programación y robótica con el Micro:bit y los proyectos supervisados de clasificación de imágenes mejoraron significativamente el conocimiento del profesorado en formación sobre conceptos computacionales y aprendizaje automático introductorio, así como sus actitudes hacia su enseñanza. A medida que la [[ai-literacy|alfabetización en IA]] entra en los currículos, dotar al [[teacher-education|profesorado]] de un dominio operativo del aprendizaje automático se convierte en una condición previa para enseñarlo al estudiantado.
+El aprendizaje automático también aparece en la educación como *materia*. En la [[microbit-robotics-machine-learning-teacher-training-2026|formación inicial del profesorado]], las intervenciones prácticas de programación y robótica con el Micro:bit y los proyectos supervisados de clasificación de imágenes mejoraron significativamente el conocimiento del profesorado en formación sobre conceptos computacionales y aprendizaje automático introductorio, así como sus actitudes hacia su enseñanza. A medida que la [[ai-literacy|alfabetización en IA]] entra en los currículos, dotar al [[teacher-education|profesorado]] de un dominio operativo del aprendizaje automático se convierte en una condición previa para enseñarlo al estudiantado. Una ruta contrastante llega a los mismos conceptos sin ningún software: en el [[sung-ai-literacy-unplugged-ml-k12-pd-2026|desarrollo profesional en línea de Sung y Gunpinar (2026)]], diez educadores de K-12 construyeron a mano una «matriz de características explicable» —una tabla de sí/no de características de formas que *es* el clasificador, comprobable y revisable en lugar de opaca— con el juego de clasificación de Code.org y Google Slides como únicas herramientas. Su [[self-efficacy|autoeficacia en IA]] subió de por debajo del nivel moderado (M = 3.13) a por encima (M = 3.71) y los descriptores negativos en una tarea de asociación de palabras cayeron del 30% de los participantes a ninguno, aunque la evidencia es pequeña, no controlada y completamente [[self-report-measures|autoinformada]].
 
 ## Conceptos conectados
 
@@ -94,7 +94,4 @@ El aprendizaje automático también aparece en la educación como *materia*. En 
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[culturally-aware-student-stress-chatbot-2026]] — Un chatbot culturalmente consciente impulsado por IA para la detección del estrés y el apoyo al bienestar entre estudiantes universitarios pakistaníes mediante PNL y aprendizaje automático
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: esquemas basados en aserciones para una codificación auditable de diálogos educativos
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — De la clasificación de sentimientos a la retroalimentación accionable y responsable: revisión de alcance y mapa de evidencia de la PNL en la evaluación docente por parte del estudiantado, 2015–2026
 - [[synthetic-educational-data-structural-fidelity-2026]] — Lo que las métricas de fidelidad pasan por alto: una comprobación estructural de los datos educativos sintéticos
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluación de modelos preentrenados para la valoración pedagógica de preguntas educativas novedosas asistidas por IA

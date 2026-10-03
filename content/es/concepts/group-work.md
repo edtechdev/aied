@@ -1,7 +1,7 @@
 ---
 title: Trabajo en grupo
 created: "2026-09-28T21:09:40-04:00"
-updated: "2026-09-28T21:09:40-04:00"
+updated: "2026-10-02T22:23:27-04:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-09-22T07:47:22-04:00"
+source_updated: "2026-09-30T16:25:27-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -106,6 +106,7 @@ Una segunda línea de investigación trata la IA como participante y no como her
 
 ## Conceptos conectados
 
+- [[pedagogical-patterns]] — Guiones de roles para grupos que comparten una sola IA
 - [[ai-education]] — La IA en la educación (paraguas)
 - [[collaborative-learning]]
 - [[assessment]]
@@ -140,5 +141,3 @@ Una segunda línea de investigación trata la IA como participante y no como her
 - [[teacher-student-agency-orchestration]] — Co-orquestación de la agencia docente y estudiantil en tiempo real
 - [[dollinger-equitable-assessment-ai-2026]] — Evaluación equitativa en la era de la IA
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Agentes de formación ética: facilitar la educación ética en grupo con juego de roles y discusión para la reflexión y la exploración éticas
-- [[durable-skills-measurement-ai-teammates-2026]] — Hacia una medición escalable de las habilidades duraderas
-- [[peer-group-vs-ai-feedback-2026]] — Análisis comparativo de la retroalimentación de un grupo de pares y la generada por IA en la evaluación entre pares: calidad de la retroalimentación y percepciones del estudiantado en educación superior

@@ -1,7 +1,7 @@
 ---
 title: Narrativa en la educación
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-09-28T18:15:36-04:00"
+updated: "2026-10-02T22:23:27-04:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-09-22T09:52:55-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ La narrativa se fundamenta en la [[motivation|motivación]], la [[student-engage
 
 - **Narrativa mediada por robots:** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] usa un robot narrador digital interactivo de aspecto humano y encuentra ganancias significativas en implicación conductual y cognitiva frente a los métodos de papel y PowerPoint; [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] permite al profesorado crear actividades narrativas basadas en escenarios e impulsadas por LLM a partir del contenido del [[curriculum-design|currículo]].
 - **HRI narrativa cocreativa:** [[icub-humanoid-storytelling-llm-hri-2025|el estudio narrativo con iCub]] explora la cocreación de historias entre personas y robots, integrando modelos generativos para lograr una interacción contextualmente adecuada.
-- **Narrativa y creatividad:** la narración apoya la [[creativity|creatividad]] y el desarrollo del [[language-learning|idioma]], y se usa para mejorar la motivación y la implicación en contextos de [[k-12|K-12]].
+- **Narrativa y creatividad:** la narración apoya la [[creativity|creatividad]] y el desarrollo del [[language-learning|idioma]], y se usa para mejorar la motivación y la implicación en contextos de [[k-12]].
 - **La narrativa digital como contrapeso a la IA:** a medida que asciende la [[generative-ai|IA generativa]], la narrativa digital se reencuadra como un vehículo para las capacidades emocionales, culturales y narrativas de las que carece la IA. En un modelo de [[project-based-learning|aprendizaje basado en proyectos]] para la educación en arte y diseño, el estudiantado tradujo el patrimonio cultural local a narrativas [[multimodal|multimodales]] en 92 obras de narrativa digital, lo que demuestra cómo la narración sostiene la creatividad humana en la era de la IA.
 
 La narrativa se conecta con [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]] y [[educational-robotics]].
@@ -60,5 +60,3 @@ La narrativa se conecta con [[student-engagement]], [[motivation]], [[creativity
 - [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[project-based-digital-storytelling-art-design-2026]] — Marco de narrativa digital basado en proyectos para la educación en arte y diseño en la era de la IA
-- [[adapted-stories-social-story-intervention-2026]] — Intervención con historias sociales asistida por IA para la educación especial: el diseño de AdaptED Stories

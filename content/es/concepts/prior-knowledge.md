@@ -1,14 +1,14 @@
 ---
 title: Conocimiento previo
 created: "2026-09-28T21:12:05-04:00"
-updated: "2026-09-28T21:12:05-04:00"
+updated: "2026-10-02T22:23:27-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-10-01T18:49:55-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,7 @@ La activación del conocimiento previo es uno de los hallazgos más sólidos de 
 
 - **Es el predictor más potente del aprendizaje.** Décadas de [[research-methods-aied|investigación]] muestran que lo que quien aprende ya sabe se correlaciona con los [[learning-gains|resultados de aprendizaje]] con más fuerza que casi cualquier otro factor, porque la información nueva se codifica en relación con los modelos mentales existentes. Los sistemas de IA que se adaptan al estado de conocimiento previo de cada persona encierran por tanto una promesa particular de eficiencia y de [[transfer-of-learning|transferencia]].
 - **Importa la activación, no solo la posesión.** Tener conocimiento previo no es suficiente: hay que recuperarlo y conectarlo activamente con el material nuevo. Por eso «activar el conocimiento previo» es un movimiento [[pedagogy|didáctico]] estándar, y por eso la práctica de recuperación (recordar lo que se sabe antes de añadir algo) mejora el aprendizaje más allá de la simple reexposición.
+- **No siempre predice quién hace el trabajo que impulsa el aprendizaje.** En un estudio de cinco días sobre aprender enseñando con 23 tutores de secundaria, las puntuaciones previas de las pruebas no predijeron la proporción de respuestas de construcción de conocimiento que produjo cada tutor, y los tutores con conocimiento previo bajo que construyeron conocimiento terminaron estadísticamente a la par de sus pares con conocimiento previo alto ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **Configura la interpretación.** Quien aprende interpreta la información nueva a través de lo que ya cree. Cuando esas creencias son erróneas ([[misconceptions|ideas erróneas]]), el conocimiento previo puede *interferir* con el aprendizaje, y por eso la enseñanza debe sacar a la luz y abordar las ideas erróneas en lugar de dar por supuesto un punto de partida neutro.
 - **Impulsa el modelado del estudiante.** Para personalizar, un sistema de IA debe estimar el estado de conocimiento previo de quien aprende: la base del [[knowledge-tracing|rastreo del conocimiento]], del modelado del estudiante y del [[scaffolding|andamiaje]] adaptativo. La calidad de esas estimaciones determina si la adaptación es genuinamente útil o engañosa.
 - **El contenido del conocimiento determina qué proceso recluta la práctica.** Que el aprendizaje dependa de la memoria o de la inducción lo fija la estructura de conocimiento previo del objetivo: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger y Carvalho (2025)]] siguen el marco [[learning-theories|KLI]] al distinguir los componentes de conocimiento con condiciones y respuestas constantes (hechos, adquiridos mediante la memoria y la práctica de recuperación) de los que tienen condiciones y respuestas variables (habilidades, adquiridas mediante la inducción y la generalización a entradas nuevas), y por eso la mezcla óptima de ejemplos resueltos y práctica difiere entre el contenido de hechos y el de habilidades.
@@ -48,6 +49,8 @@ La activación del conocimiento previo es uno de los hallazgos más sólidos de 
 La IA generativa ha convertido el conocimiento previo en una consideración de diseño central y no en una variable de fondo:
 
 - **El riesgo de saltarse el proceso.** La [[agentic-ai-pedagogical-best-practice-2026|IA agéntica proactiva]] que precarga y muestra contenido puede saltarse la práctica de recuperación que activa el conocimiento previo: quien aprende nunca tiene que recordar ni integrar lo que sabe antes de recibir una respuesta. Es uno de los seis riesgos pedagógicos identificados en el marco de buenas prácticas para la educación [[agentic-ai|agéntica]], y se conecta directamente con la [[cognitive-offloading|dependencia excesiva]] y con el principio de [[desirable-difficulties|dificultades deseables]] según el cual el procesamiento esforzado sostiene un aprendizaje duradero.
+- **El conocimiento previo configura el patrón de descarga cognitiva, no solo los resultados.** En un estudio de escritura de síntesis, el grupo con conocimiento alto y descarga mínima redactó el 80% de su ensayo frente al 2% del grupo con mayor descarga (media de 25.1 prompts), de modo que el volumen de prompts reflejaba el conocimiento previo y no el esfuerzo ([[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]]).
+- **La brecha de beneficios se acumula.** Como el uso productivo de la IA depende de lo que quien aprende ya sabe, el estudiantado con conocimiento previo más sólido lo aprovecha mejor mientras que quienes son novatos son los más propensos a tratarla como sustituto: un riesgo distributivo que puede ampliar las brechas de rendimiento incluso cuando el acceso es igual ([[lodge-loble-cognitive-offloading-2026|Lodge y Loble (2026)]]).
 - **El cebado y la activación como diseño.** Los [[genai-mindtool-generative-learning|enfoques de la IA generativa como herramienta mental]] «ceban deliberadamente la tarea de aprendizaje» activando el conocimiento previo y la curiosidad mediante preguntas, elementos visuales generados por IA y analogías (por ejemplo, «¿qué sabes ya sobre los ecosistemas?») antes de introducir contenido nuevo, modelando así la ruta de recuperación e integración y no la de suministro de respuestas.
 - **Modelado del estudiante y memoria.** Los sistemas de IA modelan cada vez más el estado de conocimiento previo y la memoria longitudinal de quien aprende (por ejemplo, incorporando el estado de conocimiento previo y las curvas de olvido a la memoria del tutor), lo que permite la repetición espaciada y la revisión adaptativa que se apoyan en lo que cada persona ya sabe.([[nie-personavlm-long-term-personalization-2026]])
 - **Una palanca de adaptación personalizada.** Como el estudiantado difiere mucho en conocimiento previo, la adaptación debe ajustarse a cada persona: un argumento central a favor del [[personalized-learning|aprendizaje personalizado]] y del [[scaffolding|andamiaje]] adaptativo que reciben a quienes aprenden en su estado actual real y no en un supuesto promedio de clase.
@@ -83,11 +86,8 @@ La IA generativa ha convertido el conocimiento previo en una consideración de d
 - [[agentic-ai-pedagogical-best-practice-2026]] — La tensión entre automatización y aprendizaje (el riesgo para la activación del conocimiento previo)
 - [[genai-mindtool-generative-learning]] — La IA generativa como herramienta mental: cebar y activar el conocimiento previo
 - [[nie-personavlm-long-term-personalization-2026]] — Modelado del estudiante y memoria con LLM
-- [[critical-thinking-paradox-genai-learning-2026]] — La paradoja del pensamiento crítico en el aprendizaje con IA generativa
 - [[lodge-loble-cognitive-offloading-2026]] — Lodge y Loble sobre el desplazamiento cognitivo
 - [[cognitive-offloading-llm-synthesis-writing]] — El desplazamiento cognitivo en la escritura de síntesis con LLM
 - [[bridging-instructional-design-framework-math]] — Un marco de diseño instruccional para matemáticas
-- [[chudziak-ai-math-tutoring-platform]] — Plataforma de tutoría de matemáticas con IA
-- [[kim-ai-productive-failure-adult-2026]] — Diseñar sistemas de IA que apoyen el aprendizaje basado en el fracaso productivo
+- [[knowledge-building-tutor-learning-2026]] — La construcción de conocimiento, y no el conocimiento previo, predice el aprendizaje de los tutores, y los tutores con conocimiento previo bajo que construyen conocimiento se ponen al día
 - [[rachatasumrit-example-problem-ratio-2026]]
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — El uso de LLM por parte del estudiantado y los límites de la dificultad de pregunta generada por IA en cursos de ciencia de datos

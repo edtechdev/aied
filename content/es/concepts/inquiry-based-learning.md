@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje basado en la indagación
 created: "2026-09-28T21:10:00-04:00"
-updated: "2026-09-28T21:10:00-04:00"
+updated: "2026-10-02T22:24:42-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-09-17T02:26:00-04:00"
+source_updated: "2026-09-30T08:05:25-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,8 @@ El aprendizaje basado en la indagación se centra en las preguntas que plantea e
 **Patrones de nivel cognitivo en el ABI impulsado por LLM.** Un estudio exploratorio de 117 transcripciones de entrevistas y registros de interacción ([[luo-ibl-patterns-llm-bloom-2026|Luo et al.]]) identificó 14 patrones de interacción en los niveles cognitivos de Bloom, mostrando cómo el conocimiento previo del estudiantado da forma al uso del LLM y destacando la necesidad de un andamiaje dirigido a las etapas de pensamiento de orden superior que mitigue la dependencia excesiva.
 
 **La evidencia sobre resultados es mixta.** Un experimento de ABI apoyado por IA en [[math-education|matemáticas]] ([[mujib-ai-ibl-creative-math-2026|Mujib et al.]]) mejoró el rendimiento matemático creativo y las actitudes, pero no las habilidades de resolución crítica de problemas, lo que sugiere que el ABI con IA apoya sobre todo la [[creativity|creatividad]] y el desarrollo [[affective-computing|afectivo]]. Un metaanálisis de 29 experimentos ([[zhao-genai-higher-order-thinking-meta-2026|Zhao et al.]]) encontró que la IA generativa tiene un efecto positivo moderado sobre el pensamiento de orden superior, más fuerte en la resolución de problemas y con intervenciones de 8 a 16 semanas, y que quienes aprenden con mayor [[self-regulated-learning|autorregulación]] se benefician más. Un cuasiexperimento con 48 futuros docentes de ciencias en Türkiye ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) que usó un programa de indagación guiada con apoyo de IA de 8 semanas (integrando aprendizaje basado en problemas y en diseño) encontró ganancias significativas de grupo por tiempo en la comprensión conceptual de la fotosíntesis y la respiración celular, pero *ningún* efecto significativo sobre la alfabetización en IA ni sobre el [[computational-thinking|pensamiento computacional]] autopercibido, evidencia de que el ABI con IA puede profundizar la comprensión de dominio mientras que el desarrollo de competencias de IA y de pensamiento computacional exige un diseño más explícito y dirigido.
+
+[[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] aisló la contribución de la IA de la indagación en sí en un estudio climático de tres grupos: la indagación asistida por IA superó a los pares que solo hicieron indagación en la toma de decisiones (d = 0.69), con las mayores ganancias en monitorización y gestión adaptativa (d = 1.37), mientras que la recopilación básica de datos mejoró por igual en todas las condiciones.
 
 **[[equity-in-ai-education|Equidad]] y contexto.** Un marco conceptual conecta el codiseño con IA generativa y las prácticas educativas abiertas para apoyar la enseñanza STEM guiada por la indagación en contextos con pocos recursos, usando [[simulation|simulaciones]] generadas por IA, [[multilingual-learning|multilingües]] y contextualmente relevantes.
 
