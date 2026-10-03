@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 219 concepts, 1594 articles, and 36 FAQs.
+> Complete text of 219 concepts, 1595 articles, and 36 FAQs.
 
 # Concepts
 
@@ -1203,6 +1203,8 @@ Students outside Anglophone higher education describe the same tension in their 
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] takes the pedagogical inversion a step further by extending Eaton's postplagiarism frame from an ethical orientation into assessment design. Integrity, on this account, is enacted through [[evaluative-judgment|evaluative judgment]] — the learner's capacity to weigh options, justify academic choices, and assume responsibility under epistemic uncertainty — and made visible through four practices: annotated decision trails, verification and accountability practices, oral defense and dialogic accountability, and draft differences with version history. Detection is retained only as a supplementary layer for clear misrepresentation or deliberate outsourcing of intellectual labor, never as the primary infrastructure of integrity, because it asks whether GenAI was used rather than how the decisions behind the work were made; the argument also names the equity risk that detection-centered models fall hardest on learners who rely on generative tools for linguistic or cognitive [[scaffolding]].
 
+A third route sits between detection and redesign. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] predicts AI-assisted cheating risk from early-semester [[learning-analytics|LMS traces]] with an AUC of 0.763, and frames the output as low-stakes academic guidance — reminders, assignment follow-up, brief check-ins — rather than evidence of misconduct, insisting the score stay separate from grading and disciplinary records.
+
 ### Connections
 
 Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[ai-detection]], [[authentic-assessment]], [[assessment]], [[educational-policy-ai]], [[regulation]], [[ethics]], and [[equity-in-ai-education]]. It is the ethical dimension of [[ai-education|AI in education]], inseparable from [[cognitive-offloading|Over-Reliance]] and the broader question of how [[generative-ai]] reshapes [[higher-ed]] and [[k-12]] learning.
@@ -1293,6 +1295,7 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[genai-governance-australian-higher-ed-2026]] — Mapping the Authorized Boundary: A Comparative Policy-Vignette Study of Generative AI Governance in Australian Higher Education
 - [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Sector audit finding: mandate and framework universities show no difference in assessment exposure, the empirical counterpart to the coordination problem
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Early prediction of AI-assisted cheating risk from LMS traces, framed as academic guidance rather than evidence of misconduct
 
 ---
 
@@ -8845,6 +8848,8 @@ Risk prediction — early warning systems, dropout models, at-risk classifiers �
 
 What belongs *here* is the step after the score: **support allocation**. Two findings set its limits. First, the ranking-versus-calibration split — federated risk models kept their AUC under distributional shift while their calibration degraded markedly, so a model that still ranks students correctly can be wrong about how likely each one is to need help. Second, the enabler study: an international Delphi and AHP/SNAP analysis of learning-analytics-to-intervention identified seven enablers and ranked **institutional strategic orientation** highest (priority 0.2072) and most influential on the others (PageRank 0.2430), locating the bottleneck in institutional planning rather than in the models ([[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić, 2026]]). Behavioral clustering of 14,003 student records into six profiles, mapped to recommended learning objects, is the recommendation layer this points toward ([[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem et al., 2026]]).
 
+An integrity outcome joins the same pipeline. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] predicts AI-assisted cheating risk from early-semester LMS traces (AUC 0.763) and recommends acting on it only through low-stakes outreach, with the decision threshold chosen for reach rather than accusation: dropping it to 0.30 identified 21 of the 23 high-risk students, at a precision of 60%.
+
 ## The outcome ladder: what each measure actually means
 
 The word "success" hides at least five different measurements, and AI support does not move them equally. Distinguishing them is the most useful thing this page can do.
@@ -8914,6 +8919,7 @@ Student support connects to [[student-experience]] as the student-facing counter
 - [[ai-campus-wellbeing-tools]] — campus well-being support spanning prevention and intervention
 - [[coursegraph-cs-course-comparison-2026]] — course equivalence for transfer credit and mobility
 - [[credentials-carry-evidence-ai-agents-2026]] — what a completion record means when an agent can do the work
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk early, and the threshold trade-off for low-stakes outreach
 
 ---
 
@@ -12370,6 +12376,8 @@ A complementary, teacher-centered test of how analytics reach the classroom come
 
 The step after the score — who gets support, and whether it was allocated where it was needed — belongs to [[student-support-and-success|student support and success]], which carries the outreach, referral, and allocation evidence this page's prescriptive layer feeds.
 
+An integrity outcome enters the same predictive layer. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] predicts AI-assisted cheating risk from the first eight weeks of [[video-education|Moodle and video-player]] traces, reaching an AUC of 0.763 with logistic regression, and argues the signal is usable precisely because it arrives before the exam rather than during it.
+
 ### Methods and network analysis
 
 Network methods are core to learning analytics: [[network-analysis|transition network analysis (TNA)]] models temporal sequences of learner actions (e.g., the revision and chat loops in [[conversational-ai|chatbot]]-scaffolded writing), and [[network-analysis|epistemic network analysis (ENA)]] maps how codes/constructs co-occur across activity — together revealing the *process* of learning and learner-[[student-ai-interaction|AI interaction]] rather than only its product.([[penny-transition-network-analysis-efl-writing-2026]])([[tracing-genai-literacy-interaction-patterns]])
@@ -12450,6 +12458,7 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk from early-semester LMS traces (AUC 0.763)
 
 ---
 
@@ -18525,6 +18534,7 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 - A companion review documents the cheating methods AI must counter (identity spoofing via photos/video, browser/device use, copy-paste) and the practical barriers: test-taker anxiety, proficiency gaps causing false accusations, and infrastructure (webcam, microphone, internet) that is not universally affordable or available. It reports ~37.8% of college and ~41.8% of high-school students admit to cheating — the motivation for monitoring.([[academic-dishonesty-automated-proctoring-ai-2026]])
 - **Instructors see no benefit from proctoring exams taken outside class.** [[biology-degree-integrity-genai-cheating-2026|Chan et al. (2026)]] surveyed 56 instructors (47% response rate) in one [[biology-education|biology]] department after coding all 38 syllabi of its core required courses, and asked them to rate each graded category they use for vulnerability to academic dishonesty (0 = minimally to 4 = highly vulnerable). Proctored and unproctored outside-of-class exams were rated *identically* at a median of 3 (moderately vulnerable), while in-person proctored exams were the only category rated minimally vulnerable (median 0) and were significantly less vulnerable than every other category (p_adj < .01). Because lockdown browsers were available for outside-of-class exams, the result is a perception that the tools did not reduce exposure — consistent with the review evidence above that online proctoring is effective only unevenly, and with the documented anxiety, privacy, and false-accusation costs that make the trade-off contested. The stakes are visible in the same study's point accounting: outside-of-class exams carried a mean of 54.2% of the grade in the in-person courses that used them and 59.2% in online courses, where every offering relied on them.
 - A scoping review of remote proctoring in [[nursing-education|nursing]] [[assessment|student assessment]] maps a spectrum of modalities rather than a single practice — live human invigilation (ProctorU), AI browser-extension proctoring with webcam, microphone and behavior flagging (Honorlock), webcam-plus-lockdown-browser monitoring (Respondus Monitor), an institutionally deployed mobile invigilation app, and fixed test-center desktops under central surveillance — and argues the diversity reflects disparities in infrastructure and institutional capacity rather than a shared standard. Only six studies met its inclusion criteria (1,567 nursing students in the USA, the UK, Southern Africa and Egypt), and none was published before 2021. What the review establishes is that surveillance produces deterrence *perceptions* and a heavy faculty review burden: the 98–100% agreement that webcam monitoring and lockdown browsers deter cheating is [[self-report-measures|self-report]] from one graduate nurse practitioner program, high-risk AI alerts were rare at no more than 5%, yet frequent minor alerts produced false positives requiring time-intensive review, and South African lecturers reported continued dishonesty under active monitoring. The one comparative performance study points the other way — an in-person proctored cohort scored significantly higher on the HESI Exit Exam and NCLEX readiness than the ProctorU cohort — and the review treats the link between surveillance and more honest learning as an open question rather than a settled benefit.([[harerimana-remote-proctoring-nursing-scoping-2026]])
+- **A proctored, face-to-face exam still produced 44.2% high-risk students.** In an [[cs-education|Introduction to Programming]] course at a Turkish public university, 23 of 52 first-year students were labeled high-risk from exam logs recording copy, focus-loss and right-click events, although the exam was proctored and taken in a computer laboratory; the same study predicts that risk from early-semester LMS traces rather than from in-exam behavior.([[akcapinar-ai-cheating-risk-lms-prediction-2026]])
 
 ## Recommended directions
 
@@ -18558,6 +18568,7 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 - [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety
 - [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing student assessment
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 44.2% of students labeled high-risk in a proctored, face-to-face exam, with the risk predicted from early-semester LMS traces
 
 ---
 
@@ -38127,6 +38138,59 @@ Yusuf, H., Money, A., & Daylamani-Zad, D. (2026). [*Exploring student anxiety an
 ## Citation
 
 Akbaba, A., & Calik Kus, A. (2026). [Nursing Students' and Faculty Experiences with Artificial Intelligence in Education: A Qualitative Study Using the Technology Acceptance Model](https://doi.org/10.1186/s12912-026-04986-1). *BMC Nursing* (Article in Press).
+
+---
+
+## [Early Prediction of AI-Assisted Cheating Risk in Online Exams Through Learning Analytics](https://edtechdev.github.io/aied/articles/akcapinar-ai-cheating-risk-lms-prediction-2026/)
+
+> **Synthesis:** Integrity work on generative AI usually arrives during or after the assessment — [[remote-proctoring|proctoring]] watches an exam as it unfolds, and [[ai-detection|AI-text detectors]] examine what was submitted, with documented limits on their reliability. Akçapınar asks an earlier question: can a student's first eight weeks of [[learning-analytics|LMS traces]] indicate who may later need support, while there is still time to offer it? Using Moodle and video-player records from 52 first-year programming students, the study derives risk labels from prohibited in-exam events and predicts them with [[student-modeling|student-level]] classifiers, reaching an AUC of 0.763 with logistic regression. The author frames the output explicitly as a signal for academic guidance rather than evidence of misconduct, and reports an operating point that trades precision for reach.
+
+## Key Findings
+
+1. In a cohort of 52 first-year undergraduates taking an Introduction to Programming course at a public university in Türkiye, 23 students (44.2%) were labeled high-risk — in an exam that was proctored and administered face to face in a computer laboratory.
+2. Risk labels came from three events the exam instructions prohibited: copying a question or option, losing window focus, and right-clicking. A question counted as suspicious when at least one occurred while it was displayed, and each question counted at most once; text selection alone was excluded because it also happens during ordinary reading.
+3. The distribution of suspicious-question counts was strongly bimodal — 25 students showed none, four showed one or two, and no student fell between three and four. The 20% labeling threshold (five of 25 questions) sits inside that empty region, so any cut-off between 9% and 20% yields the same partition, and thresholds up to 48% move only the four observations nearest the boundary.
+4. Five predictors were selected per fold from 27 candidates using the Mann-Whitney U test. Logistic Regression performed best (accuracy 73.1%, balanced accuracy 0.718, AUC 0.763); Naive Bayes was close (AUC 0.760), while Random Forest (0.720) and Gradient Boosting (0.646) trailed.
+5. At the 0.50 decision threshold, logistic regression identified 14 of the 23 high-risk students (sensitivity 60.9%) and 24 of the 29 low-risk students (specificity 82.8%). Lowering the threshold to 0.30 raised sensitivity to 91.3% at 51.7% specificity, which the author presents as the operating point appropriate to low-stakes outreach.
+6. Course-module views, assignment submissions, and the number of days on which course videos were accessed were selected in all 52 folds. Low-risk students averaged higher values on every one of the seven features ever selected (Cliff's δ 0.50 to 0.60), so lower recorded engagement tracked higher behavioral risk.
+
+## From in-exam detection to a pre-exam signal
+
+The study positions itself against two established responses. Proctoring systems monitor behavior immediately before or during an assessment, and AI-text detectors analyze submitted work for signs of generation; evaluations of the latter have found accuracy and reliability limits, including degraded performance after text manipulation, that constrain their use in high-stakes integrity decisions. Assessment redesign can be applied in advance, but it does not identify which individual students might benefit from support. An earlier study by the same author clustered in-exam behaviors — text selection, right-clicking, focus loss — and found that roughly a third of students showed patterns associated with AI-assisted cheating, but because that approach works during or after the exam it leaves little room for preventive action.
+
+The present study keeps the behavioral outcome and moves the predictors earlier. Its target variable is a question-level risk label built from final-exam logs, while its predictors come only from the first eight weeks of the semester, before the midterm. That ordering is the contribution: the model is meant to run when outreach is still possible.
+
+## Labels, folds, and what the model actually sees
+
+The exam contained 25 multiple-choice questions presented in random order, with no return to earlier questions and automatic advancement when a question's time expired. Students had been told that only the exam application could remain open, that other activity would violate the exam rules, and that interactions would be recorded. Records were anonymized before analysis, and the study states plainly that it does not label students as cheaters — the target is a behavioral proxy for risk, not verified AI use.
+
+Predictors came from Moodle logs and a custom video player, 27 features in three groups: video interaction measures (nine), viewing-purpose selections students made when opening a video (five), and Moodle activity measures (13) including sessions, course-module views, assignment submissions, resource views, quiz attempts, and URL clicks. Exam, assignment, and quiz grades were excluded from the predictors, so grades are not doing the work indirectly.
+
+Evaluation used leave-one-out cross-validation with fold-specific preprocessing and feature selection: within each of the 52 folds, scaling and the Mann-Whitney U screening were fitted only on the 51 training students before the held-out student was predicted. The number of retained features was fixed at five to limit complexity under small-sample conditions, and the held-out student's data never influenced selection — a detail that matters more than the headline accuracy given the sample size.
+
+## What the features suggest, and what the scores do not show
+
+The author reads the three stable features as plausibly self-regulatory. Course-module views track behavioral engagement; the number of days on which videos were accessed reflects how study activity was distributed over time; assignment submissions reflect meeting course responsibilities. Earlier [[learning-analytics|learning analytics]] work has used regularity, submission, and distributed access as trace-based indicators of [[self-regulated-learning|self-regulated learning]], so lower values in the high-risk group may indicate weaker self-regulation as well as lower engagement. The study is careful that these are proxies: self-regulated learning was not measured directly, and future work should pair traces with validated instruments.
+
+A descriptive result runs alongside the model. Thirteen of the 23 high-risk students scored 80 or above on the final exam, while none of the 29 low-risk students reached 80 — the highest low-risk score was 76 — and among the 12 students with suspicious events in at least 20 of the 25 questions, 11 scored 80 or above. Because final-exam scores were excluded from both label construction and training, the author calls this convergent descriptive context rather than validation of the labels.
+
+## What this means for practice
+
+- **Instructors.** If a model like this flags a student, treat it as a prompt for outreach — a reminder about course materials, an assignment follow-up, a brief check-in — never as an accusation. The author insists the score stay separate from grading and misconduct records, and that students have a way to question how their data were interpreted.
+- **Instructors.** Choose the decision threshold for the use you intend. At 0.50 the model missed nine of the 23 high-risk students; dropping to 0.30 identified 21 of them at 60% precision. Reach is what low-stakes outreach wants, and accuracy fit for an accusation is not available at either setting.
+- **Learning analytics designers.** Note where the signal comes from: the three stable predictors — course-module views, assignment submissions, and the days on which videos were accessed — were all *lower* in the high-risk group, so the model reads disengagement rather than sophistication. Both the labeling rule and the threshold need local validation before any deployment.
+- **Institutions.** The features point at supports rather than sanctions, which aligns with the wider argument that AI-enabled misconduct is better answered through assessment design and ethical pedagogy than through surveillance: the students this model flags are, on the traces, the ones who interacted least.
+
+## Limitations
+
+- The sample is small (N = 52) and drawn from one programming course at one public university in Türkiye. Engagement patterns vary with course design, LMS configuration, exam format, institutional AI policy, and local patterns of technology access, and both the labeling rule and the classification threshold require local validation before use elsewhere.
+- The risk labels are a behavioral proxy, not confirmed misconduct: they rest on repeated prohibited events rather than verified AI use. Their association with final-exam scores is convergent and indirect, and validating them would need ethically collected evidence such as expert review, student interviews, or additional session records.
+- No student received the intervention the model is designed to trigger, so whether supportive outreach improves outcomes remains untested. The author describes the work as an early demonstration rather than a deployment-ready system.
+- The cohort and final-exam records are the same as those of the author's earlier clustering study, so the two papers are not independent evidence about this group of students.
+
+## Citation
+
+Akçapınar, G. (2026). [Early Prediction of AI-Assisted Cheating Risk in Online Exams Through Learning Analytics](https://arxiv.org/abs/2609.37280). *17th International Conference on Education Technology and Computers (ICETC 2026)*. arXiv:2609.37280. https://doi.org/10.48550/arXiv.2609.37280
 
 ---
 
