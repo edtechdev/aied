@@ -37,6 +37,7 @@ PAIRS = {
     'centre': 'center', 'centres': 'centers', 'centred': 'centered', 'centring': 'centering',
     'enrolment': 'enrollment', 'enrolments': 'enrollments',
     'defence': 'defense', 'labour': 'labor', 'judgement': 'judgment', 'judgements': 'judgments',
+    'programme': 'program', 'programmes': 'programs',
     'recognise': 'recognize', 'recognised': 'recognized', 'recognising': 'recognizing',
     'summarise': 'summarize', 'summarised': 'summarized', 'summarising': 'summarizing',
     'synthesise': 'synthesize', 'synthesised': 'synthesized', 'synthesising': 'synthesizing',

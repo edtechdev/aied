@@ -436,6 +436,9 @@ REJECT_PAIRS = {
     ('its composition', 'writing-education'),   # "its composition shifted" - makeup, not writing
     ('benchmark their', 'benchmark'),           # verb sense: "the authors benchmark their effect"
     ('stress that', 'anxiety-and-stress'),      # verb sense: "they stress that this loop is..."
+    ('degree apprenticeship', 'sociocultural-learning'),  # a UK study model, not learning theory
+    ('education policy institute', 'educational-policy-ai'),  # HEPI, a proper noun
+    ('equitable learning', 'inclusive-learning'),    # equity, not inclusion/UDL
     ('self-regulation', 'regulation'),                   # learner SRL, not AI regulation
     ('self-regulatory', 'regulation'),                   # "self-regulatory function"
     ('social regulation', 'regulation'),                 # co-regulation

@@ -2602,3 +2602,34 @@
   - rct
   - scaffolding
   reason: "Integrated into two pages. cognitive-offloading: grep 'persistence|skip|give up' -> persistence=0, give up=0, skip=1, so the harm section carried motivation erosion (perceived value) and unaided-exam harm (the placement rule) but nothing on reduced persistence as a measurable outcome; the 20% vs 11% skip-rate result adds that outcome class and is placed beside 'Motivation erosion' in the over-reliance risks list. motivation: the page asserts qualitatively that AI availability 'affects student motivation and persistence' (grep 'persist' -> 5) with no measured estimate of persistence itself, so the causal ~10-minute result quantifies the claim it already makes; placed in 'AI effects on student motivation'. DISMISSALS with evidence: metacognition (grep 'calibration' -> 9) already carries both halves of the paper's mechanism 2, the withdrawal signature ('offloading degrades the specific skill practiced ... surfaces on withdrawal', endoscopy 28.4% to 22.4%) and the calibration-loss argument (metacognitive laziness, the fluency illusion, calibration as trainable). productive-failure (grep 'struggle' -> 18, 'persistence' -> 0) is about designing struggle into tasks and already carries AI-as-PF-design and giving-up floors; the paper contributes no PF design finding. ai-misuse-learning-harm (grep 'unassisted' -> 7) already carries unassisted-performance harm and states the accumulation framing. learning-gains (grep 'persist' -> 1) carries durable-gain evidence plus the guardrail removal test. cognitive-surrender ('surrender' -> 33) has its own experimental signature, adopting the AI's answer without judging it, which this paper does not test: participants declined to attempt rather than accepted a wrong answer. critical-thinking (grep 'reading comprehension' -> 0) is touched only as task domain. problem-solving, scaffolding ('scaffold' -> 98), conversational-ai, llm ('gpt-5' -> 1), generative-ai, human-ai-collaboration ('scaffold' -> 6), educational-policy-ai, quantitative-research and rct carry their classes with no distinguishing claim. Source is an open-access arXiv preprint (v4, COLM 2026) with full text saved (87,545 chars) and the reading-comprehension replication verified in the raw."
+
+- article: alam-process-oriented-collaborative-essays-2026
+  date: 2026-10-03
+  integrated:
+  - process-oriented-assessment
+  no_change:
+  - academic-integrity
+  - ai-detection
+  - ai-use-disclosure
+  - assessment
+  - assessment-validity
+  - authentic-assessment
+  - cognitive-offloading
+  - collaborative-learning
+  - conversational-ai
+  - evaluative-judgment
+  - feedback
+  - framing-ai-use-for-students
+  - generative-ai
+  - group-work
+  - guardrails
+  - higher-ed
+  - learning-gains
+  - llm
+  - pedagogy
+  - peer-assessment
+  - qualitative-research
+  - reducing-ai-misuse
+  - scaffolding
+  - writing-education
+  reason: "Integrated into one page. process-oriented-assessment: grep 'performat' -> 0 hits on a 1,789-word page that otherwise discusses the concept exhaustively, so the risk that GRADED process evidence invites performative evidence was absent, and the page's own 'What remains unresolved' section states that no source reports an implementation (\"argued from principle, practitioner report, and case-file evidence rather than demonstrated at scale\"); the weave adds the design risk to 'The design and workload costs' and the Connected Articles entry carries the first-run account. DISMISSALS with evidence: assessment-validity (grep 'artifact' -> 3, 'performat' -> 0) already carries the inference argument (\"a polished submitted artifact is weak evidence in either direction\"), integrity evidenced rather than inferred, and the annotated-decision-trail / oral-defense / version-history remedy, so this paper's validity framing is an instance rather than a new claim. evaluative-judgment (grep 'performat' -> 2, 'rejected' -> 3) already carries both the accepted-or-rejected-suggestions-as-evidence move and the performativity caution ('both can become performative ... required rather than performed'), plus the \"replacement of one compliance regime with another\" failure mode the paper's own caution echoes. authentic-assessment (grep 'process' -> 21, 'performat' -> 2) already carries process design and performative evidence. academic-integrity (grep 'detection' -> 41, 'redesign' -> 17) already carries the beyond-detection argument with the redesign remedy, and the paper's brief is one more instance of stated boundaries. ai-use-disclosure (grep 'permitted' -> 1 but 6 'assessment' hits) and framing-ai-use-for-students already carry the communicate-expectations-to-students claim; the paper's contribution there is the brief's wording, not a new dimension. guardrails (grep 'brief' -> 0, 'assessment' -> 0, 'essay' -> 0) is populated by hint-not-answer tutoring guardrails and the paper makes no tutoring-guardrail claim. cognitive-offloading already carries augmentation-versus-substitution with measured evidence (grep 'augmentation' -> 2), so 'interrogation instead of offloading' is an instance of an established pattern. collaborative-learning (grep 'iterat' -> 0, 'draft' -> 0, though 'collaborat' -> 78) is about collaborative learning generally and carries group work and equity; the paper's collaboration finding is a design note from one run ('11 teams collaborated in visibly different ways') rather than a measured result, and its scaffold-before-assessing recommendation restates the page's existing scaffolding content. group-work (grep 'iterat' -> 0, 'assess' -> 15) already carries the assessment of group work. peer-assessment (grep 'draft' -> 6) already carries drafts and iteration. ai-detection, assessment, conversational-ai, feedback, generative-ai, higher-ed, learning-gains, llm, pedagogy, qualitative-research, reducing-ai-misuse, scaffolding and writing-education carry their classes with no distinguishing claim; the paper measures no learning outcomes (it is explicitly practice-based and exploratory) so learning-gains and feedback are untouched. Tool generation: the brief names MS Copilot or ChatGPT without a version, and the study is a 2026 delivery, so no superseded-generation screen applies. Source is a 14-page conference proceedings paper, full text saved (44,678 chars) with the supplied PDF preserved in pdf-sources/."
