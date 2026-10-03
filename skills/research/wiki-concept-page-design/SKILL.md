@@ -39,8 +39,17 @@ Avoid thin pages: a page with no distinct evidence base, or that only restates w
 
 1. Verify all Tier-1 article slugs and related concept slugs exist before writing.
 2. Write `content/en/concepts/<slug>.md` with frontmatter (created/updated ISO timestamps), a Synthesis blockquote, a **`## Questions to Consider` pre-reading section** (2-7 open questions, immediately after the blockquote — for instructors/learning designers/students/researchers/administrators/software developers; surface misconceptions, activate prior knowledge, connect to other concepts, raise equity/ethics), followed by a **`## Introduction` heading** that labels the start of the narrative body, then body sections, Connected Concepts, Connected Articles, and a **hyperlinked Citation** (title → URL, never bare — the maintainer flags missing links).
-3. **Register in BOTH** `src/data/conceptIndex.ts` (sidebar, placed in the right group) and `tooling/concept-index.md`.
+3. **Register in THREE places**, not two:
+   - `concepts.registry.yaml` (repo root) — add `<slug>:` under `concepts:` with `title:` and a lowercase `aliases:` list, AND add the slug to the right group under `sections:`. This is the surface that feeds `FACET_VOCAB` (`src/data/facetVocab`), so registering there is what makes the new concept a *valid facet value* elsewhere — no separate vocabulary edit is needed.
+   - `src/data/conceptIndex.ts` (sidebar, placed in the right group).
+   - `tooling/concept-index.md` (canonical list, alphabetical spot).
 4. Add **back-links** from connected concept pages + Tier-1 articles (they should link back to the new concept).
+4b. **Announce the concept up the hierarchy** (user rule, 2026-09-30, extended same day). Every new concept page must ALSO be:
+   - **mentioned on the `ai-education` meta umbrella page**, and
+   - **woven into the narrative of EVERY relevant umbrella page** — a sentence in the prose, not merely an entry in that page's Connected Concepts list.
+   For `pedagogical-patterns` the weave targets are `pedagogy` (its sub-umbrella) and `learning-design` (the closest adjacent umbrella), plus the `ai-education` mention.
+   A Connected-Concepts listing alone does not satisfy this; the rule exists because a new node that nothing links *narratively* is orphaned in the reader's path.
+   **Do not stop at one umbrella.** Identify each page whose existing narrative would be incomplete or misleading without the new concept, and weave into all of them — a new concept usually has more than one conceptual parent (this page's own "closely connected" list is the guide).
 5. Add tasteful **inline links** in the new page's narrative; run the inline-link scan; fix same-text pipes `[[x|x]]` immediately.
 6. **Verify** (self-links, heading links, same-text pipes, balanced brackets, broken slugs vs concepts∪articles∪redirects) — must PASS.
 7. Regenerate `llms*.txt` (explicit request only), update `log.md`, `npm run build`, commit+push, **verify deploy via `gh run list`** (green build ≠ deployed).
@@ -58,11 +67,18 @@ See `references/historical-concept-page.md` for the history-of-aied pattern (cre
 
 ### Concept-rename workflow (when you rename an umbrella)
 1. `git mv`/`os.rename` `content/en/concepts/<old>.md` → `content/en/concepts/<new>.md`; update frontmatter `title:`.
-2. Replace the old slug everywhere in `.md` (articles, concepts, log.md, raw) — use a scripted sweep, then grep to confirm **zero** remaining occurrences in articles and concepts.
-3. Update `src/data/conceptIndex.ts` (sidebar) and `tooling/concept-index.md` (canonical list, alphabetical spot).
-4. Fix piped display labels that still say the old title (e.g. `[[new-slug|Accessible Learning]]` → `[[new-slug|Inclusive Learning]]`).
-5. Add a **301 redirect** `'old-slug': 'new-slug'` in `src/data/conceptRedirects.ts` so old links resolve (verify live: old URL title says "Redirecting to: /aied/concepts/new/").
-6. Re-read the renamed page's body for awkward leftovers from the mass replace (stray "Accessible learning" mid-sentence) and tighten.
+2. **Move the translated copies to the same slug too.** A concept is identified by slug across every locale, so `content/<locale>/concepts/<old>.md` must be renamed as well or that locale's page is orphaned from the concept. Update its `translation_of:` to the new slug. If the English page was also rewritten, leave the translation's `source_updated` at the OLD timestamp on purpose: that is what makes the staleness gate report it as needing retranslation instead of falsely claiming it is current.
+3. Replace the old slug everywhere (articles, concepts, faqs, all locales, `src/`, `tooling/`) — use a scripted sweep, then grep to confirm **zero** remaining occurrences. Expect a wide blast radius: a well-linked concept page appears in ~120 files.
+4. **Register the 301 redirect in `concepts.registry.yaml`'s `redirects:` block, NOT in `src/data/conceptRedirects.ts`.** That file is generated (`// GENERATED FILE - do not edit by hand` / `Source: concepts.registry.yaml (the redirects: block)`), so a hand-added entry is silently overwritten by the next `gen-concept-artifacts.py` run. Add it to the registry, regenerate, then confirm the entry appears in the generated file.
+5. **Regenerate the derived views** rather than hand-editing them: `python3 tooling/scripts/gen-concept-artifacts.py` writes `src/data/conceptIndex.ts` (sidebar), `src/data/facetVocab.ts`, `tooling/concept-index.md` and `conceptRedirects.ts` from the registry. Check with `--check` (all five files must report `ok`).
+6. Move the registry entry to its **alphabetical** home, update `title:`, and extend `aliases:` to the new topic words — verifying each candidate phrase is free of collisions first, since a phrase can belong to only one concept.
+7. Fix piped display labels that still say the old title (e.g. `[[new-slug|Accessible Learning]]` → `[[new-slug|Inclusive Learning]]`). Also re-read labels for **ambiguity** the rename exposes: "Pedagogical training" reads as *teacher* training, and one article was found linking mathematics teacher training to the model-training page. Retarget those (`teacher-ai-competency`) rather than relabelling.
+8. Re-read the renamed page's body for awkward leftovers from the mass replace (stray "Accessible learning" mid-sentence) and tighten.
+9. Verify in the BUILT output, not the source: the new page renders with its title, the old URL still resolves to a page reading `Redirecting to: /aied/concepts/<new>/`, and the sidebar shows the new title.
+10. Expect the prose gate to complain when you are done. A rename sweep rewrites every line carrying the slug, and a line-based gate treats those as freshly added — see the `check-concept-prose.py` fixes (retargeted links are not new prose; deleted pages are skipped; untracked pages are checked) before you go shortening pre-existing sentences.
+
+### Splitting a concept page: check whether the seam exists
+Before agreeing to split a page in two, test whether the boundary the user is proposing is real. A worked case (2026-10-02, "should training/post-training and fine-tuning be separate pages?"): supervised fine-tuning **is** the first stage of post-training, so the proposed seam cuts through a single stage, and every strong anchor ran both halves in one pipeline (RL-SFT-RL, SFT-then-GRPO, mixed post-training). Splitting would have double-homed most of the evidence base. Also check length before treating size as the motive: median concept page in this corpus is ~2,000 words with the longest at ~9,200, so a 2,300-word page is not oversized. Recommend one page with the two halves as distinct sections, and say why.
 
 ## Pitfalls
 - **Enriching existing is the default.** Users prefer a well-enriched existing page over a redundant new one. Only create when the cluster is genuinely distinct.

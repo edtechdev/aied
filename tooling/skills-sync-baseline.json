@@ -1,1 +1,10 @@
-{}
+{
+  "tooling/cron/daily-scan-prompt.md": {
+    "installed": "bda86f08406e55b3",
+    "repo": "9acbfc98cece9e00"
+  },
+  "tooling/cron/weekly-rss-scan-prompt.md": {
+    "installed": "354c8edfc6d3af06",
+    "repo": "c032979e55034c18"
+  }
+}
