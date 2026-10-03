@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-03T12:32:09-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -52,6 +52,7 @@ Across the knowledge base's [[rct|RCTs]], [[meta-analysis-systematic-review|meta
 - **AI can match human help.** [[chatgpt-hints-human-tutor-learning-gains-2024|ChatGPT-generated help]] produces learning gains equivalent to human tutor-authored help on [[math-education|mathematics]] skills — evidence that generative AI can be as efficacious as human [[scaffolding]] when used appropriately.
 - **Gains depend on who is teaching with it.** Low-experience tutors given AI support raised student pass rates by 9 percentage points, with smaller gains for more experienced tutors — an augmentation pattern that boosts the least experienced most ([[oecd-digital-education-outlook-2026|OECD, 2026]]).
 - **Unguarded AI can harm learning.** The guardrail RCT ([[generative-ai-guardrails-harm-learning|PNAS 2025]]) found an unguarded ChatGPT-style tutor raised assisted practice +48% but *reduced* unassisted exam scores −17%, while a guardrailed (hint-not-answer) tutor eliminated the harm. This is the sharpest demonstration that **learning efficacy is design-contingent**: the same class of tool can be a strong learning gain or a net harm depending on how it is configured.
+- **But unguarded access can also help, durably.** An RCT with an off-the-shelf ChatGPT account found unaided test scoring 0.27 SD higher while students had access, and the gain held a week later — more than double the 0.10 SD median across 747 educational RCTs ([[contractor-learning-impact-generative-ai-2026|Contractor & Reyes, 2026]]).
 - **Perceived vs. actual efficacy diverge.** [[ai-literacy-assessment-misalignment|Self-reported performance misaligns with measured performance]], and [[absent-cognitive-baseline-2026|the absent cognitive baseline]] shows AI-native students overestimate their learning — so efficacy claims based on self-report are unreliable without objective outcome measures. [[self-report-measures]] collects the cases where reported and measured outcomes come apart.
 
 - **Gains can come from reallocating teacher time, not from AI grading.** In a randomized experiment across 178 Brazilian schools (~19,000 seniors), AI and human essay grading produced identical exam gains, but AI classrooms saw ~35% more one-on-one teacher conversations about writing, and the bottom quartile improved under neither condition ([[ai-changing-teaching-workflows|Ler, 2026]]).
@@ -126,6 +127,7 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 - [[student-support-and-success]] — administrative outcomes (task completion, credits, persistence, graduation) as distinct from learning gains
 
 ## Connected Articles
+[[contractor-learning-impact-generative-ai-2026]] — Off-the-shelf chatbot access raised unaided test scores that persisted a week (Contractor & Reyes 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
 - [[genai-performance-vs-learning]] — why assisted performance is not a learning outcome (Yan et al. 2025)
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning

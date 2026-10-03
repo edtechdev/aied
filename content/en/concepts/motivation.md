@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-03T12:32:09-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -31,7 +31,7 @@ Motivation is a foundational construct in education research, and the rise of AI
 
 ## Key research themes
 
-**AI effects on student motivation** is the most direct line of research. **[[ai-availability-student-motivation]]** examines how the availability of AI assistance affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] research on motivation erosion when AI does the work. **[[scheu-mobile-chatbot-journaling-motivation-2026]]** explores mobile [[conversational-ai|chatbot]] journaling as a motivational intervention. **[[ai-learning-tools-engineering-education-needs]]** examines what motivates students to adopt AI learning tools in [[engineering-education|engineering education]].
+**AI effects on student motivation** is the most direct line of research. **[[ai-availability-student-motivation]]** examines how the availability of AI assistance affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] research on motivation erosion when AI does the work. For persistence specifically, brief exposure is enough: ten minutes with an assistant that answered on request left participants skipping 0.20 of unaided problems against 0.11 for controls ([[liu-ai-assistance-reduces-persistence-2026|Liu et al., 2026]]). **[[scheu-mobile-chatbot-journaling-motivation-2026]]** explores mobile [[conversational-ai|chatbot]] journaling as a motivational intervention. **[[ai-learning-tools-engineering-education-needs]]** examines what motivates students to adopt AI learning tools in [[engineering-education|engineering education]].
 
 A 42-study meta-analysis (56 effect sizes, 6,059 students) found GenAI-supported learning raised motivation by Hedges' g = 0.764 (95% CI [0.566, 0.962]) — but with I² = 93.7% and a 95% prediction interval of [−0.689, 2.217], the average conceals settings where the effect is near zero or negative ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 - **Unreflective use erodes motivation — more so for men.** Thoughtless GenAI use (accepting answers unexamined) predicted lower motivation (β = −0.54) and lower [[self-efficacy]] (β = −0.37) among 487 undergraduates, and the motivation effect was significantly stronger for male students while the self-efficacy effect was stronger for female students ([[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu, 2026]]).
@@ -81,6 +81,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — Social-Emotional Learning
 ## Connected Articles
+[[liu-ai-assistance-reduces-persistence-2026]] — Brief AI use reduced persistence on later unassisted problems (Liu et al. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — The effort paradox and the vicious cycle of frictionless assistance
 - [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement
