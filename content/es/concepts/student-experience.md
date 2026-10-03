@@ -1,7 +1,7 @@
 ---
 title: Experiencia del estudiantado
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-09-28T21:21:51-04:00"
+updated: "2026-10-02T22:58:50-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-09-28T21:21:51-04:00"
+source_updated: "2026-10-01T20:35:10-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,7 @@ ai_assist:
 ### Cómo se estudia la experiencia del estudiantado
 
 - **Encuestas a gran escala:** [[ai-in-the-wild-college|AI in the Wild]] analiza interacciones auténticas de miles de estudiantes universitarios, mientras que los [[genai-availability-grades-satisfaction|estudios sobre disponibilidad y satisfacción]] correlacionan el acceso a la IA con los resultados del estudiantado. Son [[self-report-measures|medidas autoinformadas]]: captan bien las percepciones y las intenciones, y la conducta solo de forma aproximada.
+- **El no uso es una posición razonada, no un hueco que cerrar.** Una encuesta interinstitucional británica con 7,087 estudiantes encontró que el 32% no usaba IA generativa para estudiar en absoluto, y quienes no la usaban aducían querer hacer el trabajo ellos mismos (86%), la inexactitud (81%) y preocupaciones éticas o medioambientales ([[genai-student-experiences-uk-he-survey-2026|Gow et al., 2026]]).
 - **Patrones de interacción:** [[tracing-genai-literacy-interaction-patterns|Trazar la alfabetización en IA generativa]] cartografía cómo se implica el estudiantado con la IA en las distintas tareas. El [[misiejuk-cognitive-offloading-prompting-2026|análisis de prompts]] revela niveles de implicación cognitiva a través de la estructura de los prompts.
 - **Motivación y agencia:** [[ai-availability-student-motivation|La disponibilidad de IA y la motivación]] examina si saber que la IA está disponible cambia el esfuerzo del estudiantado. [[aied-unfinished-mission-bypass|La misión inacabada de la IA en educación]] enmarca la [[agency|agencia]] y la [[motivation|motivación]] como retos centrales.
 - **Percepciones y actitudes:** las [[genai-usage-design-students-survey|encuestas sobre uso de IA generativa]] y los [[student-mental-models-genai|estudios sobre modelos mentales]] investigan cómo entiende y confía el estudiantado en la IA.
@@ -74,6 +75,8 @@ La IA afecta al estudiantado en dimensiones cognitivas, motivacionales, [[affect
 
 Los relatos del estudiantado sobre la integridad están menos asentados de lo que sugiere el encuadre de la deshonestidad. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa y Mezgebu (2026)]] entrevistaron a 27 estudiantes de grado de una universidad etíope y encontraron un cuerpo estudiantil dividido contra sí mismo: casi todos usaban IA generativa o veían a sus pares usarla y la mayoría le atribuía una mejora de su rendimiento, una minoría calificaba su uso en el trabajo de curso como mala conducta sin más, y la queja más aguda y más ampliamente compartida era la justicia: quienes usaban IA obtenían mejores notas que quienes trabajaban con honestidad, lo que algunos describieron como la muerte de su sentido de la diligencia y dejó a un participante sin saber «si nos beneficiamos o sufrimos con el uso de la IA». El lado del procedimiento también importa: [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] codificaron 1.162 casos de mala conducta con IA generativa y encontraron que la evidencia citada con más frecuencia —la salida del detector, los informes de similitud, los patrones de contenido típicos de la IA— tenía el valor probatorio más débil, y que, al no haber un umbral probatorio mínimo en el procedimiento, el estudiantado con casos endebles se veía empujado a recurrir. Las definiciones demasiado amplias amplían esa exposición: [[wright-transcription-not-generation-2026|Wright (2026)]] muestra que las prohibiciones dirigidas a la «[[generative-ai|IA generativa]]» pueden alcanzar a herramientas que solo convierten el formato de un trabajo que el estudiante ya había redactado, una inclusión excesiva que recae con más fuerza sobre el estudiantado con discapacidad y el [[equity-in-ai-education|expuesto a la inequidad]]. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] señala la salida constructiva, al tratar la integridad como una práctica [[pedagogy|pedagógica]] que se pone en acto mediante el [[evaluative-judgment|juicio]] —rastros de decisiones anotados, verificación, defensa oral, historial de versiones— y no como un cumplimiento asegurado mediante la vigilancia.
 
+La verificación puede cambiar cómo el estudiantado vive la cuestión: una petición de explicar su trabajo se leyó primero como una acusación, pero una vez que el programa del curso la enmarcó de antemano como pedagogía y no como vigilancia, el estudiantado declaró el uso de IA con más apertura y trató las tareas como tareas de aprendizaje, en conversaciones de cinco a diez minutos ([[best-response-student-ai-dialog-2026|Mandernach, 2026]]).
+
 ### Impactos sociales y relacionales
 
 - **Positivos:** la IA puede mediar en la [[collaborative-learning|colaboración]] y en la [[student-ai-interaction|interacción entre humanos e IA]], apoyando el trabajo en equipo, la interacción entre pares y el acceso a perspectivas diversas.
@@ -85,6 +88,8 @@ Los relatos del estudiantado sobre la integridad están menos asentados de lo qu
 - **Negativos:** una experiencia de IA dependiente o poco reflexiva puede dejar al estudiantado menos capaz de rendir sin IA, menos ejercitado en el razonamiento independiente y con más dudas sobre sus propias capacidades (véase [[ai-misuse-learning-harm|mal uso de la IA y daño al aprendizaje]]).
 
 **En conjunto:** la misma herramienta de IA puede apoyar o socavar al estudiantado según el diseño y el uso. La barandilla que recorre todo esto es mantener a quien aprende haciendo el trabajo cognitivamente importante mientras usa la IA como apoyo ([[scaffolding|andamiar, no sustituir]]) y atender a toda la gama de impactos, no solo al rendimiento. Una configuración concreta desplaza el punto donde empieza la experiencia: cuando la IA genera las propias lecturas del curso en lugar de ayudar con los deberes, el estudiantado pasa a ser auditor de su propio [[curriculum-design|diseño curricular]]. En el curso de posgrado de [[sidorkin-ai-generated-course-readings-2026|Sidorkin (2026)]], el estudiantado valoró la especificidad contextual y la ajustabilidad de los textos generados y el 75 por ciento coincidió en que aprendió más que en un curso comparable sin compañero de IA, pero tuvo que inferir la calidad de las fuentes a partir del contexto porque los enlaces de Wikipedia y las citas revisadas por pares aparecían en las mismas listas sin etiquetas, y cuatro de los 24 encuestados usaron lenguaje de dependencia, incluido uno que se describió como «algo codependiente de la IA para tener seguridad y estructura».
+
+Los resultados de más largo plazo que vive el estudiantado —si vuelve el trimestre siguiente, acumula créditos y se gradúa— son institucionales y no instruccionales, y [[student-support-and-success]] sigue cómo les afecta el apoyo con IA: la finalización de tareas se mueve con facilidad, la persistencia y la graduación mucho menos.
 
 ## Conexiones
 
@@ -115,6 +120,7 @@ La experiencia del estudiantado conecta con la [[cognitive-offloading|dependenci
 - [[self-report-measures]]
 - [[student-engagement]] — cómo los sistemas de IA miden y responden a la conducta del estudiantado
 - [[social-norms-ai-use]] — cómo el uso de la IA se hace visible ante los pares
+- [[student-support-and-success]] — el lado institucional del apoyo: lo que la universidad hace por el estudiantado, y no lo que ocurre en un curso
 
 ## Artículos conectados
 - [[shame-guilt-ai-regulation-computing-education]] — La vergüenza y la culpa como reguladores sociales del uso de la IA
@@ -135,12 +141,10 @@ La experiencia del estudiantado conecta con la [[cognitive-offloading|dependenci
 - [[student-mental-models-genai]]
 - [[genai-usage-design-students-survey]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[student-llm-interaction-taxonomy-review-2026]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Expectativas de habilidades de IA para quienes se gradúan frente a la preparación institucional
 - [[student-ai-inquiry-types-cs2-2026]] — Análisis de los tipos de consultas en la interacción entre estudiantado e IA
 - [[lnenicka-secondary-students-genai-stem-2026]] — Qué hace el estudiantado de secundaria con las herramientas de IA generativa en STEM
 - [[dai-chatbots-problem-posing-primary-2026]] — Chatbots de IA generativa y planteamiento de problemas en ciencias de primaria
-- [[zuo-instructor-power-genai-writing-2026]] — Relaciones de poder percibidas por el profesorado universitario que lidia con la IA generativa en la escritura (Zuo, Xu y Dunning 2026)
 - [[bassett-ai-detectors-education-2026]] — Cara gano yo, cruz pierdes tú: los detectores de IA en la educación (Bassett et al. 2026)
 - [[wang-safety-gap-productive-struggle-2026]] — La brecha de seguridad: recuperar el esfuerzo productivo
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: evaluación de la ansiedad del estudiantado aumentada con LLM (2026)

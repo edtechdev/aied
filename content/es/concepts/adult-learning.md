@@ -1,7 +1,7 @@
 ---
 title: "Aprendizaje de adultos"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-09-28T21:41:14-04:00"
+updated: "2026-10-02T22:24:42-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -11,7 +11,7 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-09-28T21:41:14-04:00"
+source_updated: "2026-09-30T08:39:04-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,7 @@ El aprendizaje de adultos se sitúa en la intersección de varios conceptos estr
 - **Trate la fiabilidad técnica y estructural como una condición previa.** La implicación depende tanto de una infraestructura estable e inclusiva como de la calidad pedagógica: las plataformas inestables o excluyentes socavan un diseño que por lo demás sería sólido.
 
 - **Principios de diseño de IA para la andragogía.** [[kim-ai-andragogy-2026|Kim et al. (2026)]] encuentran que quienes aprenden siendo adultos valoran la IA como agente de aprendizaje colaborativo y derivan tres principios de diseño de IA para la andragogía: la intervención humana en el circuito (modelos mentales compartidos, cocreación persona-IA), el diseño emocional (calibrar la dependencia de la IA, comunicación empática) y la adaptabilidad (adaptación continua, interoperabilidad). Sus once prototipos de escenario también asignan cada principio andragógico a una posibilidad concreta de la IA: [[intelligent-tutoring|tutores de IA]] y [[learning-by-teaching|agentes enseñables]] para la implicación, herramientas de monitorización y [[learning-analytics|analítica]] para la autonomía y la autoevaluación, [[conversational-ai|chatbots]] empáticos y [[simulation|simulaciones]] para la experiencia, bibliotecas de casos y generadores de preguntas de orden superior para el trabajo centrado en problemas, y planificadores y orientadores profesionales de IA para la relevancia.
+- **Preserve el esfuerzo productivo.** El estudio de fracaso productivo del mismo grupo asigna el apoyo de la IA a las dos fases del FP y concluye que el diseño no debe resolver el esfuerzo: los agentes conversacionales actúan como compañeros de pensamiento no directivos durante la generación y la exploración, y luego apoyan la comparación, la reorganización y la transferencia durante la consolidación ([[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]]).
 
 ## Conceptos conectados
 - [[self-directed-learning]]

@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Educación especial
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-09-28T19:11:16-04:00"
+updated: "2026-10-02T22:24:42-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-09-22T09:52:55-04:00"
+source_updated: "2026-09-30T08:39:04-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,7 @@ La educación especial es un ámbito en el que la capacidad de personalización 
 **La IA para la dislexia en la detección, el apoyo y el aprendizaje personalizado.** Una [[meta-analysis-systematic-review|revisión sistemática]] interdisciplinar de 2026 (Dabaghi, D'Urso y Sciarrone, guiada por PRISMA, 2018–2024, n=72) mapea cómo la IA apoya al estudiantado con dislexia en la educación, y encuentra que la IA se usa para la detección, el apoyo asistencial y el aprendizaje personalizado, pero con estas líneas evolucionando en paralelo en lugar de de forma integrada, impulsadas más por la oportunidad tecnológica que por una teoría educativa consolidada. Las herramientas de ayuda educativa basadas en aprendizaje automático se reparten en cinco áreas (aplicaciones específicas, implicación, personalización, recomendación y apoyo genérico), pero enfatizan el rendimiento técnico y la precisión de clasificación y pasan por alto la validez ecológica y el despliegue práctico en el aula. La investigación sobre detección (EEG, seguimiento ocular, modelos de aprendizaje automático) prioriza la intervención temprana y muestra potencial diagnóstico, pero a menudo requiere equipos especializados y entornos controlados, lo que limita su escalabilidad y accesibilidad en contextos escolares típicos. Entre los retos abiertos están la validación experimental limitada, la escalabilidad, las preocupaciones de [[ethics|ética]] y privacidad con datos sensibles del estudiantado, el apoyo y la formación limitados del profesorado, y las barreras lingüísticas y culturales (la mayoría de la investigación se dirige a poblaciones anglófonas).
 
 **La delegación cognitiva en estudiantes con dificultades de aprendizaje (SWLD).** [[seung-basham-cognitive-offloading-swld-2026|Seung y Basham (2026)]], una revisión conceptual en una serie especial de *Learning Disability Quarterly* sobre IA para estudiantes con dificultades de aprendizaje, reformulan el uso de la [[generative-ai|IA generativa]] para las SWLD a través de la lente de la [[cognitive-offloading|delegación cognitiva]]. Sostienen que la IA generativa puede ser una **ayuda compensatoria o un atajo** según cómo interactúen las decisiones de delegación con los perfiles cognitivos y [[motivation|motivacionales]] de las SWLD (dificultades de función ejecutiva y memoria de trabajo, mayor carga cognitiva, metas de rendimiento que evitan el esfuerzo, menor autoeficacia académica y expectativas infladas hacia la IA generativa) y con el diseño instruccional. Para la lectura y la escritura, la IA generativa puede andamiar el acceso (nivelación de texto, resumen, salidas [[multimodal|multimodales]], planificación, redacción, retroalimentación de revisión) a la vez que preserva una [[student-engagement|implicación]] de orden superior, pero una delegación excesiva corre el riesgo de saltarse los procesos de comprensión, planificación y monitorización que ya son frágiles en este estudiantado, fomentando una «pereza [[metacognition|metacognitiva]]» y agravando las dificultades de alfabetización en todos los dominios. El artículo sitúa las **[[guardrails|barreras de protección]] instruccionales** como el factor moderador clave y recomienda [[teacher-role|enseñar]] a delegar de forma estratégica, construir una [[ai-literacy|alfabetización en IA]] para calibrar la confianza en las herramientas, secuenciar experiencias de dominio para construir la [[self-efficacy|autoeficacia]] y alinear las tareas y la evaluación con metas de IEP que priorizan el desarrollo de habilidades por encima de la sustitución. Esto extiende la cobertura de educación especial de la base de conocimiento a la dimensión de equidad de la delegación: la misma herramienta que rebaja las barreras de acceso puede, si no se protege, sustituir la práctica que las SWLD más necesitan.
+**El contenido de intervención generado por IA necesita controles previos a la generación, no solo revisión.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] encontraron que quienes ejercen la práctica valoraron la herramienta codiseñada de Historias Sociales como muy usable (SUS 86.8), pero señalaron que sus imágenes eran genéricamente occidentales y que su rastreador de conducta no encajaba con el juicio clínico vinculado a las metas, restricciones que habrían fijado antes de la generación.
 
 ## Implicaciones para el profesorado de educación especial
 
@@ -82,7 +83,5 @@ La educación especial es un ámbito en el que la capacidad de personalización 
 - [[adhd-video-segmentation-computing-education]]
 - [[genai-minoritized-knowledges-disability]]
 - [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transcripción de vídeos de física con matemáticas accesibles mediante Gemini+LuaLaTeX
-- [[dabaghi-ai-dyslexia-education-review-2026]] — IA para ayudar a las personas con dislexia en la educación
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidad virtual y más allá: revisión de alcance de las tecnologías digitales de apoyo para estudiantes neurodivergentes en la educación superior
 - [[adapted-stories-social-story-intervention-2026]] — Intervención con historias sociales asistida por IA para educación especial: el diseño de AdaptED Stories

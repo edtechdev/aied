@@ -1,7 +1,7 @@
 ---
 title: Computación afectiva
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-09-28T20:10:39-04:00"
+updated: "2026-10-02T22:23:31-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-09-28T04:14:44-04:00"
+source_updated: "2026-09-30T14:23:52-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,8 @@ ai_assist:
 
 La computación afectiva pretende que los sistemas de IA sean emocionalmente conscientes para que puedan responder a cómo se sienten quienes aprenden, y no solo a lo que hacen. En educación, esto significa detectar la frustración, la confusión, la confianza, el aburrimiento o la implicación y adaptar la instrucción en consecuencia. [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] demuestra el enfoque modelando el afecto a partir de dos modalidades —el texto conversacional y la expresión facial en tiempo real— y asignando el estado emocional agregado a estrategias [[pedagogy|pedagógicas]] antes de [[prompt-engineering|construir el prompt]] del tutor.
 
+Las señales mismas son ambiguas: un único canal expresivo no puede distinguir de forma fiable el malestar, el esfuerzo, la vergüenza, la fatiga o la autopresentación estratégica sin la persona, la tarea, la cultura y la situación que los produjeron —«contextualmente bajo interpretación»—, por lo que un clasificador que lea solo la señal visible corre el riesgo de ofrecer recomendaciones plausibles pero pedagógicamente erróneas ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]]).
+
 - **Apoyo emocional y reflexivo con LLM en matemáticas de secundaria:** [[mindful-llm-math-tutoring-2026|Rief et al. (2026)]] incorporaron la atención plena a un [[intelligent-tutoring|tutor]] de álgebra para estudiantes de 7.º grado mediante chats dinámicos, ejercicios de respiración y un lenguaje de retroalimentación de errores basado en la atención plena. En un pequeño [[rct|ensayo controlado aleatorizado]] de aula (42 personas que lo completaron de 252 participantes), la versión con atención plena alcanzó un aprendizaje del álgebra similar en menos tiempo y con menos pistas solicitadas que el apoyo cognitivo por sí solo —mayor eficiencia de aprendizaje y una [[help-seeking|búsqueda de ayuda]] más equilibrada—, aunque la reducción de la ansiedad matemática de estado no difirió significativamente entre condiciones.
 
 ### Los beneficios y los riesgos
@@ -46,6 +48,8 @@ La tutoría consciente de las emociones puede producir mejoras medibles, pero es
 
 - **Beneficios.** Tener en cuenta el estado emocional puede mejorar la [[student-engagement|implicación]] y los resultados; quienes aprenden y se sienten comprendidos persisten más tiempo, y reconocer la frustración a tiempo permite ajustes oportunos de [[scaffolding|andamiaje]] o de [[adaptive-learning|aprendizaje adaptativo]].
 - **Riesgos.** La automatización que parece empática puede fomentar la [[cognitive-offloading|dependencia excesiva]] y la dependencia parasocial, enmascarar una [[metacognition|desconexión metacognitiva]] genuina y plantear problemas de [[privacy|privacidad]] derivados de la monitorización afectiva continua. La [[ai-sycophancy|sicofancia de la IA]] es un riesgo afectivo central: una IA emocionalmente obsequiosa que afirma en lugar de desafiar puede erosionar el juicio crítico e incluso desplazar las relaciones humanas reales; [[sycophantic-ai-social-interaction-2026|Ibrahim et al.]] muestran que la IA sicofántica llevó a las personas usuarias a buscar consejo personal en la IA casi con la misma frecuencia que en amigos íntimos y familiares, con menor satisfacción en la interacción del mundo real. [[ai-fatigue-academic-contexts|La fatiga por IA]] y [[ai-campus-wellbeing-tools|las herramientas de IA para el bienestar en el campus]] vinculan además la IA afectiva con el [[well-being|bienestar]] de quienes aprenden.
+
+- **La implicación no es un indicador indirecto del aprendizaje.** Un estudio con detección cerebral encontró que una interfaz restringida y adaptativa elevó la implicación cognitiva (p = .018) mientras que el chatbot sin restricciones produjo mayores ganancias de aprendizaje (p < .03, d > 0.80), de modo que una señal de afecto o de implicación puede apuntar en dirección contraria al resultado al que sirve ([[socratic-nuclear-ai-learning|Clin Deffarges et al. (2026)]]).
 
 ### La computación afectiva y la AIED en sentido amplio
 
@@ -74,18 +78,13 @@ La computación afectiva se sitúa en la intersección de la [[affective-tutorin
 ## Artículos conectados
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responder a las alertas emocionales generadas por IA: la intervención del profesorado y la implicación del estudiantado en el aula de matemáticas
 - [[wang-teacher-student-centered-agents-physics-2026]] — Percepción de empatía a partir de roles de agente diseñados por prompt en el aprendizaje de la física (Wang et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Modelado transformador multimodal con conciencia de equidad para la estimación de la atención del estudiantado en tiempo real
 - [[mindful-llm-math-tutoring-2026]] — Más allá de la resolución de problemas: modelos de lenguaje de gran tamaño para el apoyo emocional y reflexivo en el aprendizaje de las matemáticas
 - [[emotion-aware-classroom-iot-monitoring-2026]] — Evaluación de la calidad del aula consciente de las emociones mediante monitorización en tiempo real basada en IoT (Nguyen et al. 2026)
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-online-education-engagement-satisfaction-2026]]
-- [[ai-assisted-learning-modes-eeg]]
 - [[ai-campus-wellbeing-tools]]
 - [[ai-fatigue-academic-contexts]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[sycophantic-ai-social-interaction-2026]]
-- [[eeg-familiarity-automated-assessment-2026]] — Automatizar la evaluación del estudiantado: predicción de la familiaridad basada en EEG
-- [[kim-ai-andragogy-2026]] — Aplicaciones de la IA en el apoyo a la andragogía (Kim et al. 2026)
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: evaluación de la ansiedad del estudiantado aumentada con LLM (2026)
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Complementariedad humano-IA en el aprendizaje socioemocional temprano (Raave et al. 2026)
 - [[socratic-nuclear-ai-learning]] — Sócrates se pasó a la energía nuclear: comparación de estrategias de interacción para la IA en el aprendizaje
+
+- [[ai-emotion-regulation-sport-exercise-2026]] — Reformular la regulación emocional asistida por IA: las señales necesitan contexto, no interpretación autónoma

@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje activo
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-09-28T21:03:34-04:00"
+updated: "2026-10-02T22:25:26-04:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-09-28T03:40:56-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,8 @@ El aprendizaje activo habilitado por la IA se manifiesta en múltiples formas en
 
 - **El modo de interacción determina la implicación cognitiva.** [[ai-assisted-learning-modes-eeg|Un estudio de EEG con estudiantado de secundaria]] comparó los modos Auto (la IA resuelve de forma independiente), Interactivo (colaboración estudiantado–IA con andamiaje) y Manual (sin IA): **el modo interactivo produjo la mayor implicación cognitiva y la mayor precisión en la tarea**, mientras que el modo automático redujo la implicación y entrañó riesgo de dependencia excesiva. Esto aporta una dimensión neurofisiológica al argumento de que la IA debe mantener al estudiantado *haciendo* en lugar de mirando.
 
+- **La indagación apoyada por IA no es automáticamente de orden superior.** Un cuasiexperimento con 120 estudiantes de 8.º grado encontró que el [[inquiry-based-learning|aprendizaje basado en la indagación]] apoyado por IA elevó el desempeño matemático creativo y las actitudes hacia las matemáticas, pero no produjo ninguna ganancia significativa en la [[problem-solving|resolución de problemas]] crítica — una advertencia contra leer las ganancias de creatividad y afecto como evidencia de un razonamiento más profundo ([[mujib-ai-ibl-creative-math-2026|Mujib et al., 2026]]).
+
 - **Aprendizaje activo exploratorio y basado en simulación.** [[supplynet-visual-exploratory-learning|SupplyNet]] utiliza una simulación contextual multiagente con LLM para apoyar el aprendizaje exploratorio visual en la educación sobre cadena de suministro, combinando una vista de red interactiva con una línea temporal ramificada de tipo «qué pasaría si», de modo que quien aprende rastrea dinámicas causales en lugar de consumir contenido abstracto. [[curiobot-llm-tutoring-exploratory-learning|Curiobot]] y [[genai-assisted-problem-posing-physics-2026|la formulación de problemas en física]] ponen igualmente en primer plano la exploración dirigida por quien aprende.
 
 - **Flujos de trabajo conversacionales estructurados para el repaso activo.** [[knowloop-confusion-to-consolidation-2026|KnowLoop]] estructura el repaso posterior a la clase en tres etapas —Reconocer (marcar la confusión in situ), Resolver (aclaración) y Consolidar (teach-back)— y muestra que el teach-back lleva a quien aprende a articular y revelar sus lagunas conceptuales, y que una IA anclada en el contexto supera a una IA de propósito general para el apoyo específico. El teach-back es una instancia del [[learning-by-teaching|aprender enseñando]].
@@ -51,6 +53,8 @@ El aprendizaje activo habilitado por la IA se manifiesta en múltiples formas en
 - **El aprendizaje activo como estructura comunitaria y basada en proyectos.** [[academic-league-of-ai-2026|La Academic League of AI]] organiza la educación extracurricular en IA en torno a equipos de competición, grupos de estudio y proyectos de IA para el impacto social, y encarna el aprendizaje activo y el [[project-based-learning|aprendizaje basado en proyectos]] mediante una gobernanza estudiantil democrática en lugar de un currículo impuesto desde arriba.
 
 - **Herramientas de pensamiento e implicación generativa.** [[genai-mindtool-generative-learning|La IA generativa como herramienta de pensamiento]] sitúa la IA como un dispositivo con el que el estudiantado piensa, y no como una fuente de respuestas, lo que alinea el aprendizaje activo con las teorías del aprendizaje generativo, en las que quien aprende integra ideas nuevas en el conocimiento existente.
+
+- **Diseñar en torno a los errores del modelo.** Una secuencia de cinco pasos (análisis independiente, un prompt estandarizado a ChatGPT, evaluación crítica de la salida, refinamiento y discusión en clase) funciona porque la IA se equivoca de forma predecible: ChatGPT etiqueta erróneamente la demanda inelástica de una letra de canción como «perfectamente elástica», y la discrepancia enseña al estudiantado a validar la salida ([[beck-genai-literacy-economics-hands-on|Beck y Brodersen, 2025]]).
 - **Un tutor de IA diseñado pedagógicamente puede superar al propio aula de aprendizaje activo.** Un [[rct|ensayo controlado aleatorizado]] cruzado en el curso introductorio de física de Harvard enfrentó un tutor de IA hecho a medida con las propias lecciones de aprendizaje activo del curso —la misma pedagogía basada en la investigación, no una clase magistral— y encontró un aprendizaje significativamente mayor en menos tiempo: mediana en la prueba posterior de 4,5 frente a 3,5, tamaño del efecto de 0,63 por regresión lineal, con una mediana de 49 minutos de tarea frente a 60 en clase ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]). Los autores atribuyen el resultado al diseño y no al medio, ya que el tutor se construyó para incorporar las mismas siete prácticas basadas en la investigación que la clase y solo añadió retroalimentación personalizada a demanda y la posibilidad de avanzar al ritmo propio.
 
 ### El marco ICAP como lente organizadora
@@ -101,9 +105,7 @@ El aprendizaje activo es una de las palancas más potentes sobre las [[learning-
 
 ## Artículos conectados
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — La tutoría con IA supera al aprendizaje activo en el aula: un ECA que introduce un diseño novedoso basado en la investigación en un entorno educativo auténtico (Kestin et al. 2025)
-- [[espino-ai-business-education-review-2026]]
 - [[ai-pbl-computational-thinking-2026]]
-- [[genai-counter-learner-groupthink-2025]]
 - [[beck-genai-literacy-economics-hands-on]] — Marco de IA generativa con aprendizaje activo para economía (Beck y Brodersen 2025)
 - [[lak2026-hint-button-unproductive-use]]
 - [[efficiency-gain-illusion-ai-overreliance]]
@@ -116,8 +118,5 @@ El aprendizaje activo es una de las palancas más potentes sobre las [[learning-
 - [[supplynet-visual-exploratory-learning]] — SupplyNet: aprendizaje exploratorio visual mediante simulación multiagente
 - [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: repaso conversacional por etapas después de la clase
 - [[academic-league-of-ai-2026]] — Academic League of AI: aprendizaje activo basado en proyectos
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT en cursos de biología y matemáticas basados en retos
-- [[critical-thinking-biological-sciences-ai-2025]] — Pensamiento crítico en ciencias biológicas e IA
 - [[mujib-ai-ibl-creative-math-2026]] — Aprendizaje basado en la indagación con apoyo de IA y desempeño matemático creativo
-- [[pedagogy-ai-mistakes]] — La pedagogía de los errores de la IA: fomentar el pensamiento de orden superior (Hosseini 2026)
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Características de quien aprende × interacciones en formato de diálogo con TTS

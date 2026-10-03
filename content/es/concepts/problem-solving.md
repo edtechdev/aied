@@ -1,14 +1,14 @@
 ---
 title: Resolución de problemas
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-09-28T19:10:59-04:00"
+updated: "2026-10-02T22:24:42-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-09-17T02:26:00-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -86,8 +86,5 @@ La resolución de problemas es el resultado aplicado del [[critical-thinking|pen
 - [[genai-feedback-design-multisite-experiment]] — La retroalimentación reflexiva o híbrida supera a la IA directa en la transferencia diferida
 - [[dai-chatbots-problem-posing-primary-2026]] — Los chatbots mejoran el planteamiento de problemas del estudiantado de primaria en el aprendizaje por indagación
 - [[llm-computational-thinking-physics-2026]] — Los LLM como evaluadores escalables de la resolución computacional de problemas en física
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Agentes LLM ajustados y específicos de cada participante que reproducen diálogos de resolución colaborativa de problemas (Fang 2026)
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Andamiaje guiado por reglas frente a andamiaje ad hoc en un sistema de tutoría con LLM para matemáticas de primaria (Looi et al. 2026)
-- [[context-aware-prompting-cps-skill-identification-2026]] — Prompting contextual para la codificación automatizada de habilidades de resolución colaborativa de problemas
 - [[rachatasumrit-example-problem-ratio-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Más allá de la generación y la exactitud: diagnosticar y mejorar la cadena de pensamiento visual para la resolución de problemas de geometría

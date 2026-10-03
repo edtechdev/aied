@@ -1,7 +1,7 @@
 ---
 title: "Alianzas pedagógicas"
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-09-28T18:18:41-04:00"
+updated: "2026-10-02T22:25:26-04:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-09-22T09:52:55-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,7 @@ La intersección entre las alianzas pedagógicas y la IA es una de las líneas d
 
 - **El estudiantado como codiseñador de políticas de IA.** En lugar de que las instituciones impongan reglas sobre la IA al estudiantado, la alianza lo sitúa como cocreador de políticas de IA a nivel de curso y de institución. Por ejemplo, una actividad de indagación guiada en la que el estudiantado codiseñó una política de curso sobre [[generative-ai|IA generativa]] sacó a la luz sus prioridades en torno a la formación, la divulgación estandarizada, el apoyo institucional y la participación en la toma de decisiones ([[guided-inquiry-genai-course-policy-2026]]).
 - **El estudiantado como cocreador de herramientas de IA.** En los marcos de estudiantado como socios, el estudiantado ha codiseñado y refinado [[conversational-ai|chatbots]] de IA a medida alineados con los objetivos pedagógicos, un enfoque que extiende el paradigma SaP para incluir las propias herramientas de IA y sitúa la voz del estudiantado en el centro de una innovación responsable con IA ([[lo-co-creating-custom-gpts-sap-2026]]).
+- **Codiseño con toda la clase, evaluado mediante autoevaluación.** Un programa de estudios de la información de primer año hizo que el estudiantado y el profesorado codiseñaran los objetivos y las políticas del curso en la primera semana y los revisaran a lo largo del trimestre, con el estudiantado calificándose a sí mismo y a sus grupos según objetivos personales, objetivos de equipo y una rúbrica compartida, y no según los productos finales ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand y Fundator (2025)]]).
 - **Cocreación en la evaluación y la IA.** Las alianzas entre estudiantado y personal han coevaluado salidas generadas por IA en evaluaciones de curso y han codiseñado criterios de evaluación, lo que mejora la comprensión de los beneficios y los límites de la IA y apoya el [[self-regulated-learning|aprendizaje autorregulado]] ([[williams-ingle-assessment-co-creation-ai-2025]]).
 - **Alianzas para preservar la confianza pedagógica.** Frente a la incertidumbre impulsada por la IA y la «vergüenza por la IA», las prácticas de alianza que cultivan la *confianza pedagógica* —una relación de aprendizaje segura, recíproca y abierta a la incertidumbre, conavegada mediante el diálogo— ofrecen una vía para sostener el núcleo relacional de la educación ([[matthews-five-guiding-principles-ai-sap-trust-2025]]).
 - **La juventud como codiseñadora de sistemas de IA.** Los enfoques de diseño participativo implican a estudiantado históricamente minorizado como socio en el diseño de los sistemas de IA que afectarán a sus aulas, y sacan a la luz sus valores y compromisos [[ethics|éticos]] ([[chang-co-designing-ai-youth-relational-privacy-2025]]).
@@ -70,6 +71,7 @@ Estas líneas comparten una afirmación central: que las personas que vivirán c
 Las alianzas pedagógicas se relacionan con varios conceptos vecinos, pero se distinguen de ellos:
 
 - **[[agency|Agencia de quien aprende]] y [[self-directed-learning|aprendizaje autodirigido]]:** la alianza apoya la agencia de quien aprende al darle voz sobre qué aprende y cómo, y se solapa con el aprendizaje autodirigido. Sin embargo, la alianza es fundamentalmente *relacional*: la agencia y la dirección emergen de la relación entre docente y estudiantado y no de forma aislada. Algunos marcos lo conceptualizan como una «agencia compartida» que existe en la relación entre estudiante y docente, y no dentro de ninguna de las dos partes por separado.
+Anastasia (2026) nombra las ocho condiciones que exige esa alianza —presencia del docente, confianza, seguridad psicológica, diálogo, voz y opción, retroalimentación significativa, reflexión y responsabilidad compartida— y sostiene que la opción por sí sola no crea autonomía: puede darse al estudiantado un abanico de opciones sin que tenga la información, la confianza o la seguridad psicológica para ejercerlas ([[anastasia-shared-agency-partnership-framework-2026|Anastasia (2026)]]).
 - **[[collaborative-learning|Aprendizaje colaborativo]]:** ambos implican trabajar juntos, pero el aprendizaje colaborativo se refiere normalmente a que el estudiantado aprende *con sus pares* dentro de una actividad diseñada, mientras que las alianzas pedagógicas sitúan al estudiantado y al personal colaborando en el *diseño* de la educación misma.
 - **[[student-engagement|Implicación del estudiantado]]:** la alianza es una forma profunda de implicación, pero la implicación describe la participación del estudiantado en el aprendizaje, mientras que la alianza describe una relación de poder transformada en la que el estudiantado comparte la responsabilidad de dar forma a ese aprendizaje.
 - **[[teacher-role|Rol docente]]:** la alianza redefine el rol del profesorado, que pasa de ser la única autoridad y guardián del conocimiento a ser codiseñador y guía intelectual, sin que por ello disminuya su pericia.
@@ -126,4 +128,3 @@ Para los educadores y las instituciones que buscan adoptar alianzas pedagógicas
 - [[anastasia-shared-agency-partnership-framework-2026]] — Agencia compartida: el marco de agencia y alianza para la colaboración entre docente y estudiantado
 - [[maybee-disruptive-partnerships-sap-2025]] — Alianzas disruptivas: colaborar con el estudiantado en estudios de la información
 - [[student-centered-genai-responsible-framework-2026]] — Un marco centrado en el estudiantado para el uso responsable de la IA generativa
-- [[physics-faculty-learning-community-ai-2026]] — Una serie de talleres para el uso eficaz de la IA en tiempos inciertos: construir una comunidad de aprendizaje del profesorado de física

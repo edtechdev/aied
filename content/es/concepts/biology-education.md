@@ -1,7 +1,7 @@
 ---
 title: Educación en biología
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-09-28T20:10:55-04:00"
+updated: "2026-10-02T22:23:30-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-08-31T06:34:37-04:00"
+source_updated: "2026-09-30T08:05:25-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,9 @@ La investigación sobre educación biológica y IA se agrupa en torno a una tens
 **El pensamiento crítico en la era de la IA.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou y Nicolaou]]** sostienen que, a medida que la IA moldea la investigación biológica, el **pensamiento crítico** —el escepticismo, la comprensión contextual y el razonamiento ético— debe cultivarse de forma deliberada, y que la [[human-in-the-loop-ai|supervisión humana]] sigue siendo indispensable para validar las salidas de la IA y prevenir el [[equity-in-ai-education|sesgo]]. Esto conecta con las preocupaciones transversales de la base de conocimiento sobre [[reducing-ai-misuse|reducir el mal uso de la IA]] y la [[cognitive-offloading|dependencia excesiva]].
 
 **Herramientas especializadas de IA y la revisión más amplia.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton y Cotton]]** revisan todo el panorama de herramientas de IA en la educación biológica, incluidas **iNaturalist y Google Lens** para la identificación de especies, herramientas de bioimagen y de aprendizaje automático, tecnologías de asistencia y el modelado predictivo del estudiantado en riesgo, junto con los retos de integridad, diseño de la evaluación, desinformación y pensamiento crítico que plantea la IA generativa.
+
+
+**Cuánto de la nota está realmente expuesto.** Ponderar cada categoría calificada de los 38 programas de los cursos troncales de un departamento por la vulnerabilidad valorada por el profesorado situó el 33% de los puntos del curso en exposición alta y el 81% al menos algo expuesto -41% y 100% en línea-, y solo los exámenes presenciales vigilados se valoraron como mínimamente vulnerables ([[biology-degree-integrity-genai-cheating-2026|Chan et al., 2026]]).
 
 ### Conexiones con conceptos relacionados
 

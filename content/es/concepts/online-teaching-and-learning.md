@@ -1,7 +1,7 @@
 ---
 title: Enseñanza y aprendizaje en línea
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-09-28T18:18:41-04:00"
+updated: "2026-10-02T22:49:49-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-09-26T07:13:32-04:00"
+source_updated: "2026-09-30T16:25:27-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -128,6 +128,7 @@ Cualquiera que sea la combinación que elija el profesorado, una restricción de
 - **Usar la analítica para apoyar la enseñanza, no para sustituirla.** Aprovechar la [[learning-analytics|analítica del aprendizaje]] para pronosticar la implicación y dirigir el apoyo, pero mantener la [[human-in-the-loop-ai|supervisión humana]] en el centro.
 
 ## Conceptos conectados
+- [[pedagogical-patterns]] — El contexto que hace que la secuenciación sea determinante, ya que el sistema no puede ver un intento
 - [[assessment-validity]] — validez de la inferencia del trabajo entregado al aprendizaje
 - [[agentic-ai]] — sistemas autónomos que operan herramientas y plataformas, incluido un LMS
 - [[community-of-inquiry]] — comunidad de indagación
@@ -165,11 +166,7 @@ Cualquiera que sea la combinación que elija el profesorado, una restricción de
 - [[genai-marketing-education-roles-2026]] — La IA como tutor, compañero de equipo y herramienta: roles y sus efectos sobre la presencia
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Más allá de la detección: diseño de la evaluación para entornos en línea
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizar la comunidad de indagación en la era de la IA generativa
-- [[ai-student-engagement-online-learning-review-2025]]
 - [[lock-integrating-ai-online-learning-higher-ed-2025]] — Integrar la IA en el aprendizaje en línea en la educación superior: una revisión crítica de la literatura en cuatro temas
-- [[ai-online-education-engagement-satisfaction-2026]]
-- [[ai-distance-education-systematic-review-2026]]
-- [[ai-decision-support-online-learning-assessment-2026]]
 - [[mooc-to-maic]] — Del MOOC al MAIC: reconfigurar la enseñanza y el aprendizaje en línea mediante agentes impulsados por LLM
 - [[learnmate2-llm-adaptive-learning]] — LearnMate²: sistema de apoyo personalizado y adaptativo para el aprendizaje en línea
 - [[llm-facilitation-timing-online-discussions]] — Tendencias de los facilitadores humanos y de LLM en las discusiones en línea
@@ -178,7 +175,6 @@ Cualquiera que sea la combinación que elija el profesorado, una restricción de
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementar AIDA en la Open University
 - [[ai-adult-learning-guidelines-dis2026]] — Directrices para diseñar tecnologías de IA que apoyen el aprendizaje adulto
 - [[deeptutor]] — DeepTutor: hacia una tutoría personalizada agéntica
-- [[educasim-cs1-instructional-practice]] — EducaSim: juego de roles escalable para cursos en línea masivos
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Hacer accesibles al profesorado los hallazgos de aprendizaje automático en aulas mixtas
 - [[zhang-ml-student-progress-programming-2026]]
 - [[personalized-ai-generated-videos-preference-2026]] — El estudiantado prefiere vídeos personalizados generados por IA a otros grabados por personas y no personalizados (Tomlinson et al. 2026)

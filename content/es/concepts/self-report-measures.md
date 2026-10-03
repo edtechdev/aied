@@ -1,7 +1,7 @@
 ---
 title: Medidas de autoinforme
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-09-28T19:11:16-04:00"
+updated: "2026-10-02T22:58:04-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-30T11:35:26-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -59,7 +59,10 @@ La consecuencia es un conjunto de afirmaciones que se parecen en un apartado de 
 
 De esto se derivan dos implicaciones para quien lee o diseña esta investigación. Primero, si un instrumento de autoinforme mide siquiera el constructo que nombra es una cuestión empírica, que se responde mediante la validación y no mediante la plausibilidad de los ítems. Segundo, la dirección de la tentación en la IA en la educación es constante: las herramientas se evalúan por cómo se sienten sus usuarios respecto a ellas, y el sentimiento es precisamente la parte que el autoinforme captura de forma más barata. [[self-assessment|La autoevaluación]] es un miembro de esa familia más amplia y no un sinónimo: mientras que las medidas de autoinforme llegan a las actitudes, la confianza y la satisfacción, la autoevaluación dirige la estimación de quien aprende específicamente hacia su propia habilidad, su confianza o su aprendizaje.
 
+Un segundo modo de fallo es el colapso discriminante entre dos constructos de autoinforme: regresar la capacidad de IA autoinformada junto con el control conductual percibido medido como eficacia puede comparar un único factor de confianza general consigo mismo, razón por la cual los criterios se fijan de antemano —una ratio heterorrasgo-monorrasgo inferior a .85 y una prueba de modelo anidado que restringe a la unidad la correlación entre capacidad y control ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
+
 Un instrumento validado puede hacer ese límite preciso en lugar de vago. El Cuestionario de Autoevaluación de la Alfabetización en IA (AIL-SAQ) de [[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan y Srikoon (2025)]] es una escala de 15 ítems confirmada con una estructura estable de tres factores en dos muestras (n = 335 exploratoria, n = 579 confirmatoria) y un alfa de Cronbach global de 0,934. Sus autores son explícitos en que registra la comprensión percibida, las actitudes y la conciencia y no la habilidad demostrada, y en que la precisión de la autoevaluación depende de una capacidad metacognitiva que en la infancia aún está madurando, de modo que la autoestimación de un niño es una señal más débil que la de un adulto.
+La elección opuesta también es defendible: PAUSE es una autocomprobación de descarga en cuatro dominios que no publica ninguna evidencia de fiabilidad o validez, no ofrece una puntuación compuesta y afirma que sus lecturas no deben justificar ninguna decisión con consecuencias, y sus ítems confunden el andamiaje deliberado con la sustitución: quien responde que trae la IA pronto para andamiar aparece como descarga ([[pause-ai-cognitive-offloading-self-reflection-2026|Alam, 2026]]).
 
 ## La brecha entre percepción y conducta
 
@@ -152,6 +155,8 @@ Las respuestas constructivas de la base de conocimiento son consistentes, y ning
 
 ## Artículos conectados
 
+- [[capability-decision-model-teacher-readiness-2026]] — Criterios de validez discriminante para separar la capacidad de IA autoinformada de las creencias de eficacia
+
 - [[pramod-agentic-ai-motivational-pathways-2026]] — La implicación predice un rendimiento percibido y no medido en un modelo de rutas de IA agéntica (Pramod y Patil 2026)
 
 - [[ai-literacy-assessment-misalignment]] — Medidas paralelas de autoinforme y objetivas de la alfabetización en IA del profesorado
@@ -171,7 +176,5 @@ Las respuestas constructivas de la base de conocimiento son consistentes, y ning
 - [[student-genai-use-views-writing|Student use of and views on GenAI for writing]] — Encuesta más entrevistas en un departamento de sociología
 - [[competent-generative-ai-use-measures-review-2026]] — Más allá de la alfabetización en IA: una revisión estructurada y un metaanálisis exploratorio de las medidas del uso competente de la IA generativa
 - [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: una herramienta de autorreflexión que preserva la privacidad frente a la delegación cognitiva asociada a la IA
-- [[air-scale-motivations-ai-reading-2026]] — La escala AIR: una medida de autoinforme validada de las motivaciones para usar IA en la lectura
 - [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Un instrumento de autoevaluación de 15 ítems para estudiantes de primaria superior, explícito sobre lo que puede establecer la competencia percibida
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Revisión que encuentra que 31 de 33 instrumentos de alfabetización en IA del profesorado son de autoinforme y ninguno se basa en el rendimiento
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — El uso de LLM por el estudiantado y los límites de la dificultad de las preguntas generadas por IA en cursos de ciencia de datos

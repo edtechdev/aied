@@ -1,7 +1,7 @@
 ---
 title: Salvaguardas
 created: "2026-09-28T21:08:00-04:00"
-updated: "2026-09-28T21:08:00-04:00"
+updated: "2026-10-02T22:24:42-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-09-26T08:44:09-04:00"
+source_updated: "2026-09-30T09:53:03-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,7 @@ Las salvaguardas no son neutrales: la auditoría de [[paternalistic-filter-llm-h
 - **Las salvaguardas** son los *mecanismos y las técnicas*: los controles de diseño concretos (prompting, RAG, entrenamiento, control de calidad, auditoría) que implementan ese objetivo.
 
 Los dos están estrechamente acoplados: casi todas las técnicas de salvaguarda son una forma de lograr la seguridad [[pedagogy|pedagógica]], y la seguridad pedagógica se entrega casi por completo a través de salvaguardas. Conviene por tanto entender las salvaguardas como la **capa de diseño e ingeniería** que subyace al principio de seguridad pedagógica, y también como el término más amplio que se usa en la seguridad general de la IA (moderación de contenido, resistencia a jailbreaks) antes de especializarse para la educación.
+**Las salvaguardas como distribución de autoridad.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]] trata las salvaguardas como asignaciones a lo largo de seis dimensiones separables —anclaje pedagógico, autoridad instruccional de la IA, responsabilidad humana, agencia de quien aprende, límites de contexto y visibilidad de la evaluación— y no como puntos en una línea de estricto a permisivo, de modo que herramientas que comparten un modelo pueden distribuir la autoridad de forma muy distinta. A escala de curso, el límite debe cubrir el espacio de las peticiones, el espacio de las respuestas y la visibilidad para quien educa, y no solo el contenido generado.
 **Las salvaguardas pueden redirigir a quienes aprenden en lugar de detenerlos.** [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] asignaron al azar a 132 estudiantes de un curso introductorio de programación a cuatro asistentes de enseñanza con IA que variaban en estilo pedagógico (socrático frente a instrucción directa) y en conciencia del contexto. El estudiantado valoró menos favorablemente al asistente socrático con contexto completo, y esa misma condición mostró descriptivamente el mayor estrés de interacción, la mayor tasa de uso externo de LLM de propósito general y la menor proporción de explicaciones posteriores a la tarea que demostraban comprensión plena, diferencias que el estudio reporta como descriptivas y no estadísticamente significativas. La fricción no elimina la demanda de ayuda; puede trasladar esa demanda a herramientas que el curso no puede ver, lo que convierte la calibración en una cuestión de seguridad pedagógica y no solo de diseño.
 
 ## Principios de diseño
@@ -115,12 +116,10 @@ Los dos están estrechamente acoplados: casi todas las técnicas de salvaguarda 
 
 - [[reflection-agent-fidelity-career-2026]] — Fiel donde puede comprobarse: auditar un agente de reflexión frente a su prompt de sistema en un ensayo aleatorizado
 - [[scaffolding-student-ai-dialogue-framework-2026]] — El marco SCAFFOLD para dirigir el diálogo entre estudiantado e IA, con su piloto de aula
-- [[turano-ai-tutoring-not-a-monolith-2026]] — La tutoría con IA no es un monolito: lo que sabemos realmente (informe de Stanford SCALE/NSSA)
 - [[generative-ai-guardrails-harm-learning]] — el ensayo de campo aleatorizado canónico sobre salvaguardas
 - [[eduzone-llm-safety-k12]] — marco de seguridad de LLM para K-12
 - [[eduguard-safe-rag-llm-tutor]] — seguridad basada en RAG para tutores
 - [[paternalistic-filter-llm-history-education]] — auditar las salvaguardas en busca de sesgos
-- [[hazra-safetutors-pedagogical-safety-2026]] — la taxonomía de daños pedagógicos
 - [[singh-eduqwen-pedagogical-rl-2026]] — aprendizaje guiado alineado con RL
 - [[tact-pedagogically-adaptive-esl-tutoring]] — postentrenamiento alineado con taxonomías
 - [[eduframetrap-llm-sycophancy-educational-safety]] — la sicofancia como riesgo de seguridad

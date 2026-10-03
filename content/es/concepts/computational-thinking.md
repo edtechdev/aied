@@ -1,7 +1,7 @@
 ---
 title: Pensamiento computacional
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-09-28T19:11:16-04:00"
+updated: "2026-10-02T22:50:51-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-08-31T06:34:37-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,9 +42,14 @@ Los artículos conectados de la base de conocimiento convergen en una afirmació
 
 - **La robótica educativa como vehículo del PC.** La robótica es el contexto más estudiado para desarrollar el PC en [[k-12|K-12]] y en la [[stem-education|educación STEM]]. [[computational-thinking-educational-robotics-secondary-2026|La investigación en secundaria]] sostiene que la robótica educativa mejora la resolución de problemas y el pensamiento crítico solo cuando los conceptos de PC se hacen explícitos y se vinculan al currículo [[stem-education|STEAM]] en lugar de tratarse como ejercicios técnicos aislados. Una [[game-based-gamified-robotics-education-review-2026|revisión sistemática de 95 estudios]] confirma que la robótica fomenta el PC, la creatividad y la resolución de problemas, y que el [[game-based-learning|aprendizaje basado en juegos]] encaja en entornos informales mientras que la gamificación domina las aulas formales y apoya el aprendizaje basado en proyectos. [[microbit-robotics-machine-learning-teacher-training-2026|La evidencia sobre formación docente]] muestra que una intervención integrada de Micro:bit + robot + aprendizaje automático produjo mejoras significativas en el conocimiento de PC (d = 0,638) en la formación inicial del profesorado, y sostiene que la robótica debería integrarse para que el futuro profesorado pueda enseñar PC. Los LLM pueden rebajar aún más la barrera: [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] combina un LLM con simulación robótica para que las personas principiantes controlen robots mediante lenguaje natural, lo que hace accesible la robótica con PC integrado sin programación de bajo nivel.
 
+- **La IA como «par más capaz» puede sostener el PC en cursos de robótica con pocos recursos.** Un cuasiexperimento de 14 semanas con 103 estudiantes de grado de primer año en Nigeria encontró que el aprendizaje basado en problemas apoyado por IA (ChatGPT y Teachable Machine dentro de la zona de desarrollo próximo) superó a la instrucción convencional en el postest de pensamiento computacional y de rendimiento en programación de robótica, sin moderación de género ([[ai-pbl-computational-thinking-2026|estudio de robótica AI-PBL (2026)]]).
+
 - **Los LLM como herramientas para evaluar y desarrollar el PC.** La [[generative-ai|IA generativa]] ofrece vías escalables para medir y andamiar el PC. [[llm-computational-thinking-physics-2026|La investigación sobre evaluación del PC en física]] mostró que los LLM pueden replicar a quienes puntúan de forma humana al calificar el crecimiento en las prácticas de datos y en las prácticas de resolución computacional de problemas en cursos de [[physics-education|educación en física]] con matrículas grandes, mientras que tanto las personas como el LLM tuvieron dificultades con el constructo más complejo del pensamiento sistémico, lo que marca un límite claro para la automatización. [[visual-query-tracer-declarative-logic-learning|El trazado visual de consultas]] muestra cómo la visualización puede andamiar la computación abstracta, construyendo una intuición que apoya el desarrollo del PC. [[student-misconceptions-conditionals-loops-taxonomy|Una taxonomía de las ideas erróneas sobre condicionales y bucles]] proporciona objetivos de grano fino para el [[scaffolding|andamiaje]] y para la detección automatizada de ideas erróneas, lo que conecta con [[misconceptions|las ideas erróneas]]. Estas herramientas funcionan mejor, sin embargo, cuando el diseño pedagógico lidera: [[llm-intervention-design-cs-review|la revisión sobre enseñanza de la informática]] encontró que los diseños de «tutor virtual» de un semestre con retroalimentación andamiada mejoraban de forma consistente el PC, mientras que el acceso no estructurado a la herramienta aumentaba la frustración.
+Al automatizarse la implementación, las competencias duraderas cambian: un informe de taller nombra la abstracción, el pensamiento computacional y un «espectro de verificación» como las habilidades que hay que enseñar, citando un ensayo con casi 1.000 estudiantes en el que el acceso sin restricciones a GPT-4 elevó el rendimiento en la práctica un 48% pero recortó las puntuaciones de examen un 17% una vez retirada la IA ([[reshaping-cs-education-genai|Lee et al. (2026)]]).
 
 - **El PC en K-12, la formación docente y el rediseño de la evaluación.** El PC abarca todo el espectro desde [[k-12|K-12]] hasta la [[higher-ed|educación superior]] y está reformulando la evaluación. En el extremo de la primera infancia, AI-Play extiende el PC y la alfabetización en IA al estudiantado de Pre-K–K2 y a las familias no técnicas; en el extremo universitario, [[genai-oop-programming-assessments-2026|el estudio sobre evaluación de programación orientada a objetos]] encontró que los sistemas de IA generativa de 2026 superan al estudiante medio en exámenes auténticos de programación, pero siguen fallando en interfaces, clases abstractas y herencia, lagunas conceptuales recurrentes que marcan exactamente dónde el PC sigue siendo difícil de automatizar. [[solving-vs-evaluating-genai-solutions|Un estudio aleatorizado cruzado A/B]] mostró que las tareas de evaluación y crítica producen resultados comparables a los de la generación, lo que sugiere que el PC puede ejercitarse juzgando soluciones de IA defectuosas, aunque las ganancias requieren un andamiaje deliberado. Por debajo de todo esto está el profesorado: el estudio sobre Micro:bit vincula la enseñanza del PC directamente con la [[teacher-education|formación docente]], y [[hashmi-socratic-physics-chatbot-2025|la investigación sobre chatbots socráticos]] vincula la formulación precisa de problemas que exige el PC con un rendimiento medible en el curso.
+
+- **Un instrumento validado localiza dónde el PC es más difícil.** Una prueba de pensamiento computacional de 34 ítems construida con Diseño Centrado en la Evidencia y validada mediante teoría de respuesta al ítem en 461 estudiantes de programación con IA concentró la dificultad en la representación de datos, la secuenciación de operadores lógicos y las estructuras de bucle en lugar de repartirla uniformemente por el temario ([[zhang-ct-ai-training-test-2026|Zhang y Zhang (2026)]]).
 
 ### El PC y el giro de consumidores de IA a productores, creadores y diseñadores
 
@@ -89,11 +94,9 @@ El pensamiento computacional es el fundamento cognitivo compartido que subyace a
 
 ## Artículos conectados
 
-- [[icet-ml-education-trust-2026]] — Abordar la confianza en los sistemas de IA mediante la educación: una perspectiva didáctica
 - [[ai-pbl-computational-thinking-2026]]
 - [[computational-thinking-ai-agent-creation]]
 - [[reshaping-cs-education-genai]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[prompt-problems-nl-programming-mistakes]]
 - [[llm-computational-thinking-physics-2026]]
 - [[hashmi-socratic-physics-chatbot-2025]]
@@ -109,9 +112,7 @@ El pensamiento computacional es el fundamento cognitivo compartido que subyace a
 - [[genai-oop-programming-assessments-2026]]
 - [[game-based-gamified-robotics-education-review-2026]]
 - [[solving-vs-evaluating-genai-solutions]]
-- [[conversational-agents-novice-programmers-scoping-2025]] — Revisión de alcance sobre agentes conversacionales para programadores principiantes
 - [[zhang-ct-ai-training-test-2026]] — Prueba de pensamiento computacional en formación con IA (CTAT)
-- [[niri-steam-ai-literacy-review-2026]] — Educación STEAM para la alfabetización en IA: revisión sistemática
 - [[computational-thinking-aica-2026]] — Niveles de pensamiento computacional y asistentes de IA para programar (2026)
 - [[ai-writes-code-student-writes-model-2026]] — Autoría de modelos: teoría y medición para el aprendizaje por construcción con IA generativa
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: marco construccionista para la construcción de artefactos

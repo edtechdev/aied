@@ -1,7 +1,7 @@
 ---
 title: Metacognición
 created: "2026-09-25T03:54:17-04:00"
-updated: "2026-09-28T22:12:00-04:00"
+updated: "2026-10-02T22:49:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-09-27T07:10:53-04:00"
+source_updated: "2026-10-01T19:39:20-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [student-guide-to-ai]
 contributors: [editor]
@@ -50,18 +50,28 @@ Dentro de los marcos del [[self-regulated-learning|aprendizaje autorregulado]], 
 
 Cómo despliega realmente quien aprende la metacognición en torno a la IA está moldeado por algo más que la herramienta misma: [[cui-motivation-roles-metacognitive-genai-2026|Cui et al.]] encuentran que la motivación del estudiantado y el papel de interacción que adopta moldean su [[student-engagement|implicación]] metacognitiva con la [[generative-ai|IA generativa]], lo que significa que el uso de la IA sea metacognitivamente rico depende de la postura de quien aprende tanto como de la tecnología. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran y Arar (2026)]] añaden la propia [[student-ai-interaction|interacción con la IA]] como objeto de esa reflexión: el paso final de su ciclo de [[prompt-engineering|alfabetización en prompts]] pide a quien aprende examinar qué reveló el proceso sobre cómo funcionan los prompts y qué supuestos dieron forma a la respuesta, y convierten la reflexión y la revisión en la fase en la que se desarrollan la autoría y el juicio crítico.
 
+Un papel más fundamental de la metacognición aparece cuando el lugar de la coordinación se desplaza del docente a quien aprende. [[dang-human-ai-collaboration-competency-2026|Dang, Hong, Doyle y Nguyen (2026)]] sostienen en su marco de [[human-ai-collaboration|Competencia de Colaboración Persona-IA (HACC)]] que el trabajo integrador que el TPACK asigna a la pedagogía pasa, una vez que el actor es quien aprende, a la propia metacognición de este —la competencia que permite al estudiantado dirigir la colaboración, [[trust-calibration|calibrar]] su confianza en la [[generative-ai|IA]] y seguir siendo los autores de su aprendizaje. Tratan la competencia metacognitiva como el mecanismo a través del cual se ejerce la [[agency|agencia de quien aprende]], excluyendo deliberadamente la agencia como componente separado y leyéndola en cambio como la cualidad emergente de coordinar la competencia de dominio, de IA y metacognitiva. Su [[network-analysis|Análisis de Redes Epistémicas]] de entrevistas con 24 educadores de educación superior encontró que el discurso metacognitivo aumentaba con el nivel del rol —los educadores sénior lo conectaban con el dominio, la IA y el aprendizaje con IA—, lo que los autores leen como que los educadores con una responsabilidad curricular más amplia ven las dificultades persistentes del estudiantado como regulatorias y no técnicas.
+
 ## Cómo afectan las herramientas de IA a la metacognición
 
 ### El riesgo de supresión (Stanford SCALE, 2026)
 
 Cuando la IA completa tareas de razonamiento por el estudiantado (resolver problemas de matemáticas, escribir ensayos, generar código), este pierde práctica en monitorizar su propia comprensión y en seleccionar estrategias.([[stanford-evidence-base-ai-k12-2026]])
 
+La dependencia no es un fracaso: [[du-yuan-epistemic-dependence-2026|Du y Yuan (2026)]] juzgan el aprendizaje mediado por IA según seis criterios diagnósticos —contestabilidad, recuperabilidad, transferencia, trazabilidad, responsabilidad distribuida y pluralidad epistémica— y distinguen la asistencia instrumental, que ayuda a producir una salida, de la asistencia que conlleva juicio, que aporta los estándares con los que se juzga la salida.
+**Nombrar la cuestión de la gobernanza.** [[metacognitive-ownership-human-ai-regulation-2026|Lin y Chang (2026)]] proponen la **propiedad metacognitiva** —la gobernanza que quien aprende ejerce sobre los estándares, los juicios evaluativos y las acciones en los que contribuye una IA—, separando la apropiación de estándares, la gobernanza de los juicios de monitorización y la autorización del control, y exigiendo una oportunidad realista de actuar de otro modo.
+
 Hallazgos clave:
 - **Kosmyna et al. (2025):** el estudiantado que usó asistencia de IA para redactar ensayos fue **un 83% incapaz de recordar citas** de sus propios ensayos, frente al 11% de quienes no usaron IA, lo que indica que no se implicó con el contenido durante la producción.
 - **Stadler et al. (2024):** la IA de propósito general redujo la carga cognitiva pero produjo un **razonamiento de menor calidad** que la búsqueda tradicional, lo que sugiere que la implicación metacognitiva quedó desplazada.
 - **Lehmann et al. (2025):** la IA de propósito general para la [[cs-education|programación]] perjudicó la comprensión del estudiantado con pocos [[prior-knowledge|conocimientos previos]]; el que más necesitaba andamiaje metacognitivo recibió respuestas en su lugar.
+- **Pereza metacognitiva.** El campo nombra un modo de fallo distinto en el que quien aprende abdica sus responsabilidades metacognitivas en la herramienta —adoptando el término *pereza metacognitiva* para la ilusión de competencia resultante y advirtiendo de que sus riesgos cognitivos recaen con más fuerza sobre las personas novatas y quienes se autorregulan peor ([[lodge-loble-cognitive-offloading-2026|Lodge y Loble (2026)]]).
 
 La fluidez es la razón de que la pérdida pase inadvertida. Quien aprende juzga su aprendizaje en parte por la facilidad con que procesa el material, y Bjork et al. (2013) muestran que las señales de fluidez llevan a las personas a sobreestimar su comprensión cuando el contenido se siente fácil; el texto fluido generado por IA produce esa sensación tanto si hubo comprensión como si no, lo que crea las condiciones para una ilusión de competencia fabricada. El [[generativism-learning-theory|generativismo]] lo trata como la razón por la que no puede darse por supuesta una metacognición adaptativa: quien aprende tiene que preguntarse si la facilidad de lectura refleja comprensión, en lugar de leer esa facilidad como la respuesta.
+
+**La conciencia no garantiza que la finalización se detenga.** [[metacognitively-discordant-completion-genai-2026|Jia (2026)]] nombra la *finalización metacognitivamente discordante*: quien aprende invirtió esfuerzo real, sostiene un veredicto en primera persona ya formado de que la comprensión no ha llegado, y aun así entrega el trabajo —el caso que tanto el relato de la ilusión de fluidez como el del esfuerzo retirado dan por supuesto.
+Quien aprende también está mal calibrado respecto a los costes de la IA: los participantes predijeron con precisión sus tiempos en solitario pero subestimaron el tiempo asistido por IA, e informaron de un menor esfuerzo (0.61 puntos en el NASA-TLX) mientras que la IA solo aceleró tres de 24 tareas —un sesgo ausente cuando el ayudante imaginado era otra persona ([[cognitive-offloading-speedup-illusion|Yu et al. (2026)]]).
+El coste parece acotado y no global: la descarga degrada la habilidad específica que se practica, no las capacidades generales de dominio subyacentes, y aflora al retirarla: un estudio de endoscopia encontró que la detección de adenomas cayó del 28.4% al 22.4% cuando la IA no estaba disponible, lo que deja la monitorización de la fuente (distinguir el razonamiento de una IA del propio) como un riesgo metacognitivo abierto ([[ai-making-us-stupid|Cash et al. (2026)]]).
 
 ### La oportunidad de aumento (Scheu et al., 2026)
 
@@ -69,9 +79,14 @@ Cuando la IA se diseña para apoyar la reflexión en lugar de sustituirla, la me
 
 - **Los diarios de aprendizaje** son una práctica metacognitiva clásica: al reflexionar sobre los procesos de aprendizaje, el estudiantado aumenta la conciencia sobre su cognición
 - **Las indicaciones estructuradas** que piden al estudiantado autoexplicarse, evaluar estrategias o identificar lagunas de conocimiento preservan la exigencia metacognitiva. CoMeT (Hou et al. 2026) da a esa expresión una definición y un aval empírico: trata la exigencia metacognitiva como una cantidad distinta de la [[cognitive-offloading|carga cognitiva]], es decir, lo que quien aprende debe decidir, afirmar o juzgar antes de que llegue la ayuda, y no simplemente lo que queda cuando se retiene la ayuda, y la mantuvo estadísticamente equivalente a la de un tutor que retenía las respuestas por diseño (p_TOST = .004) mientras su propio apoyo escalaba y se desvanecía peldaño a peldaño. El desvanecimiento se mantuvo cuando el turno de quien aprende apuntaba a la decisión bajo apoyo: los turnos dirigidos a otra cosa recibieron una concesión posterior el 40.3% de las veces frente al 28.8% de los turnos dirigidos, una diferencia de 11.5 puntos, de modo que lo que un tutor debe leer es dónde está la atención de quien aprende y no cuánto esfuerzo muestra el turno.
+- **Asignar un nivel de uso de IA por tarea.** HAIML empareja sus tres capas con Cuatro Niveles de Uso de IA —desde ningún uso de IA, pasando por la lluvia de ideas, hasta la colaboración con IA y la creación integrada con IA con evaluación de la salida—, de modo que quien enseña fija el nivel de una tarea y mantiene la reflexión metacognitiva central en todos los niveles ([[haiml-human-centered-ai-metacognitive-model-2026|Reardon, 2026]]).
 - El **curso basado en ejemplos** del [[conversational-ai|chatbot]] de Scheu et al. aumentó la **competencia percibida** (una [[self-assessment|autoevaluación]] metacognitiva) incluso cuando el asistente de [[llm|LLM]] por sí solo no lo hizo
+- **Un encuadre emergente pone el sistema, y no solo al individuo, en el bucle.** Una revisión bibliométrico-sistemática de 135 estudios de aulas STEM (24 estudios centrales) encuentra que emerge un encuadre poshumanista que sitúa la IA como correguladora del aprendizaje, desplazando la unidad de análisis de la reflexión individual a la [[regulation|regulación]] a nivel de sistema y a la [[distributed-cognition|cognición distribuida]] ([[ai-metacognition-stem-review|Tsakeni et al. (2025)]]).
 
 - **Sacar a la luz patrones de interacción que quien aprende no puede ver.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li y Weng (2026)]] siguieron los movimientos oculares, la toma de apuntes y el habla de 22 estudiantes de interpretación mientras trabajaban con un sistema de reconocimiento de voz y traducción automática, y encontraron que el modo en que el estudiantado repartía la [[cognitive-psychology|atención]] entre la salida de la IA y sus propias notas era invisible para ellos: el 58.3% cambió de perfil entre etapas de la tarea, y quienes más leían la salida de la IA obtuvieron las puntuaciones más bajas en fluidez de la entrega y en calidad de la lengua meta. La consecuencia pedagógica es que la reflexión tiene que estar andamiada por evidencia externa, porque la estrategia de quien aprende no es introspectable; los autores abogan por guiar al estudiantado a describir y evaluar por qué trabajó de una manera dada en cada etapa.
+- **La evidencia de proceso depende del canal.** En 79 estudiantes de grado que trabajaban con [[generative-ai|IA generativa]], la monitorización y la planificación de mayor profundidad aparecieron más a menudo en las unidades de pensamiento en voz alta, mientras que la regulación de mayor profundidad apareció más a menudo en los registros de interacción, así que un solo registro por sí solo subestima algunos procesos ([[metacognitive-processes-genai-interaction-logs-2026|Li y Liu (2026)]]).
+- **Las prácticas reflexivas pueden surgir del uso ordinario de la materia.** En ocho centros daneses de secundaria superior, el estudiantado que trabajaba con [[generative-ai|IA generativa]] como socio cognitivo desarrolló cuatro prácticas —explicación, creación, inspiración y mejora, que se despliegan en once procesos— en las que la reflexión apareció tanto en registros disciplinares como de proceso, aunque cada práctica podía servir igualmente para la sustitución ([[ai-cognitive-partner-reflective-thought-2026|Dalsgaard y Prilop, 2026]]).
+- **Un andamiaje reflexivo puede habituarse y sustituir la automonitorización que protege.** [[skill-sustaining-reliance-reflective-ai-engagement-2026|de Jong (2026)]] advierte de que las indicaciones repetidas de reflexionar pueden desgastarse por habituación —igual que las advertencias repetidas se descartan de forma automática—, así que un profesional que solo reflexiona cuando el sistema se lo pide puede acabar sin la herramienta ni el hábito de automonitorización; el artículo sostiene que las indicaciones reflexivas deberían tratarse como una intervención de creación de habilidades que se desvanece y ponerse a prueba para ver si quienes las usan reflexionan sin ellas.
 - **Una ganancia selectiva: conocimiento metacognitivo sin planificación ni monitorización.** [[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al. (2026)]] dividieron a 68 futuros docentes en un grupo que explicaba el aula invertida a un estudiante novato de IA generativa (n = 33) y un grupo que preguntaba a un docente de IA generativa (n = 35). El grupo del estudiante novato obtuvo puntuaciones más altas en conocimiento metacognitivo y estrategias de aprendizaje (p < 0,001, *d* de Cohen = 0,41), pero no en planificación y monitorización (M = 4,01 frente a 3,78, p = 0,062), aunque las puntuaciones de explicación y aplicación del mismo grupo subieron (r = 0,474 y r = 0,642) mientras que el recuerdo factual no separó a los grupos (p = 0,416). La división sigue los dos componentes de la Introducción: explicar a alguien que pregunta de vuelta construyó conciencia declarativa de lo que uno sabe, pero nada en el diseño hizo que quien aprende fijara una ruta o comprobara su progreso, lo que los autores atribuyen al diseño de la tarea y a la carga cognitiva, y no al papel en sí. El [[learning-by-teaching|aprender enseñando]] con IA es, por tanto, una palanca sobre el conocimiento metacognitivo y no automáticamente sobre la [[self-regulated-learning|regulación]], y los autores recomiendan añadir prompts explícitos de planificación y retroalimentación sobre el progreso.
 
 ## La distinción entre implicación y motivación
@@ -102,6 +117,8 @@ El apoyo externo también puede situarse por delante del propio juicio. [[iqbal-
 
 - **Una indicación de reflexión breve afina la monitorización durante las decisiones apoyadas por IA.** [[ren-metacognitive-awareness-genai-reliance-2026|Ren (2026)]] añadió tres indicaciones de reflexión antes de finalizar las respuestas en un experimento de tres condiciones con 342 estudiantes de grado: la aceptación de consejos incorrectos de ChatGPT cayó del 62.4% al 39.7% (*OR* = 0.40) y la calibración de la conciencia subió (0.59 frente a 0.41), mientras que la precisión de las recomendaciones y la alineación con los consejos correctos se mantuvieron altas. La reflexión hizo la confianza más discriminativa en lugar de uniformemente defensiva, lo que respalda tratar la confianza como un problema de monitorización y no como una cuestión de cuánta IA se usa.
 
+- **Anidar el prompting dentro de un ciclo metacognitivo.** El marco IDEA secuencia el uso de IA generativa como Intención, Deconstrucción, Expresión y Adaptación, lo que convierte el prompting en un paso de la planificación y la monitorización y no en una habilidad aislada; el estudiantado que lo aprendió produjo prompts de mayor calidad que sus pares formados en el prompting Rol–Tarea–Contexto–Formato en las cinco categorías de tarea ([[idea-framework-metacognitive-genai-2026|Wang et al., 2026]]).
+
 ## Implicaciones para el diseño de herramientas
 
 1. **Preservar la «fricción» del pensamiento:** si la IA escribe la reflexión, el estudiantado no construye habilidad metacognitiva. Los asistentes de diario deberían andamiar, no redactar.
@@ -127,6 +144,7 @@ La [[agentic-ai|IA agéntica]] proactiva puede desplazar el propio bucle metacog
 
 ## Conceptos conectados
 
+- [[pedagogical-patterns]] — Los pasos de reflexión que estas secuencias construyen
 - [[learners]] — El estudiantado: el paraguas de los conceptos del lado de quien aprende
 - [[self-regulated-learning]]
 - [[self-assessment]]
@@ -139,15 +157,11 @@ La [[agentic-ai|IA agéntica]] proactiva puede desplazar el propio bucle metacog
 - [[cognitive-surrender]]
 
 ## Artículos conectados
-- [[powerful-learning-with-emerging-technology-2025]] — La explicabilidad y el esfuerzo productivo como diseño metacognitivo
-- [[genai-performance-vs-learning]] — la distinción entre rendimiento y aprendizaje, y la pereza metacognitiva como evaluación externalizada (Yan et al. 2025)
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — un taller de alfabetización en IA de dos horas cambió la regulación de la interacción con el LLM de estudiantes de secundaria, a diferencia de su metacognición autoinformada (Clerc et al. 2026)
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
 - [[du-yuan-epistemic-dependence-2026]] — La dependencia epistémica en el aprendizaje mediado por IA (Du y Yuan 2026)
-- [[pearls-epistemic-verification-2026]] — El marco PEARLS para la agencia epistémica y la verificación de la salida de la IA (Wang 2026)
 - [[llm-interaction-depth-task-quality-recall-2026]] — Lo que pregunta el estudiantado importa: profundidad de la interacción con el LLM, calidad de la tarea y recuerdo inmediato (Tsiligkiris 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — La descarga cognitiva sensible a las capas en la escritura asistida por IA generativa (Chen 2026)
-- [[lim-bannert-student-regulation-genai-chatbot-2026]] — Cómo regula el estudiantado su aprendizaje con un chatbot de IA generativa
 - [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — La búsqueda de ayuda mediada por LLM en STEM: por capas, instrumental y verificada
 - [[cui-motivation-roles-metacognitive-genai-2026]] — La motivación y los papeles en la implicación metacognitiva con IA generativa
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — El entrenamiento metacognitivo facilita una descarga cognitiva óptima (Ngai y Gilbert 2026)
@@ -158,18 +172,14 @@ La [[agentic-ai|IA agéntica]] proactiva puede desplazar el propio bucle metacog
 - [[ai-metacognition-stem-review]] — Las herramientas de IA que andamian la metacognición en STEM
 - [[ai-making-us-stupid]] — ¿Nos está volviendo estúpidos la IA? Una crítica de la descarga cognitiva
 - [[stanford-evidence-base-ai-k12-2026]] — La IA de propósito general suprime la metacognición al completar el razonamiento
-- [[young-people-learning-generative-ai-rapid-review-2026]] — La brecha de mala calibración y la inequidad metacognitiva con la IA generativa
 - [[ai-advice-suppresses-ikt-suspension-2026]] — Los consejos de IA suprimen la disposición a decir «no lo sé», incluso con consejos incorrectos e incentivos de precisión
 - [[agentic-ai-pedagogical-best-practice-2026]] — La IA agéntica y las buenas prácticas pedagógicas: la tensión entre automatización y aprendizaje
 - [[cognitive-offloading-speedup-illusion]] — La descarga cognitiva y la ilusión de aceleración en la interacción entre personas y IA
 - [[lodge-loble-cognitive-offloading-2026]] — La IA, la descarga cognitiva y sus implicaciones para la educación (Lodge y Loble 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — La teoría de los tres sistemas y la rendición cognitiva: cómo la IA reconfigura el razonamiento humano (Shaw y Nave 2026)
 - [[pedagogy-ai-mistakes]] — La pedagogía de los errores de la IA: fomentar el pensamiento de orden superior (Hosseini 2026)
 - [[kim-ai-productive-failure-adult-2026]] — Diseñar sistemas de IA para apoyar el aprendizaje basado en el fallo productivo
 - [[lukesova-clue-before-correction-2026]] — Pista antes de la corrección: ChatGPT para el aprendizaje autónomo de idiomas
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — La reflexión sobre el proceso de prompting y el desarrollo de la autoría en el ciclo de alfabetización en prompts (Miles, Haber-Curran y Arar 2026)
-- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — El andamiaje adaptativo necesita contingencia: un tutor de IA que escala y se desvanece según lo que hace quien aprende
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — Una indicación de reflexión redujo la aceptación de consejos de IA incorrectos y mejoró la calibración de la conciencia (Ren 2026)
 - [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — La puntuación automatizada reforzó la monitorización pero no la planificación, y la reflexión autoinformada siguió siendo improductiva (Chen y Liu 2026)
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — La alfabetización en verificación que actúa solo a través de la autorregulación metacognitiva (Davor, Larbi y Boateng 2026)
@@ -178,5 +188,9 @@ La [[agentic-ai|IA agéntica]] proactiva puede desplazar el propio bucle metacog
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — El uso reflexivo aumentó con el acceso a la IA y predijo el pensamiento crítico, no la ganancia de conocimiento (Melanou, Beege y Kimmig 2026)
 - [[alatoai-ai-learning-environments-self-regulation-2026]] — La conciencia metacognitiva como el predictor más fuerte del aprendizaje STEM adaptativo (Alatoai y Alshahri 2026)
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Del diagnóstico al metadiagnóstico: el profesorado juzga las inferencias generadas por IA (Hoppe, Loibl y Leuders 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- [[dang-human-ai-collaboration-competency-2026]] — La metacognición, y no la pedagogía, como mecanismo de la agencia de quien aprende en la colaboración persona-IA (Dang, Hong, Doyle y Nguyen 2026)
+- [[metacognitive-ownership-human-ai-regulation-2026]] — La propiedad metacognitiva: un constructo para la gobernanza que ejerce quien aprende sobre estándares, juicios y acciones
+
+- [[metacognitive-processes-genai-interaction-logs-2026]] — Los registros y el pensamiento en voz alta capturan procesos metacognitivos distintos en el aprendizaje asistido por IA generativa
+- [[ai-cognitive-partner-reflective-thought-2026]] — cuatro prácticas y once procesos de pensamiento reflexivo cuando el estudiantado trata la IA como socio cognitivo

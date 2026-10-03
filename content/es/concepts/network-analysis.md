@@ -1,13 +1,13 @@
 ---
 title: Análisis de redes
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-09-28T18:19:10-04:00"
+updated: "2026-10-02T22:23:30-04:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-09-28T21:44:10-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -50,13 +50,17 @@ Los métodos de redes se usan en toda la base de evidencia de la base de conocim
 - **Trazar la alfabetización en IA y las firmas de interacción.** El ENA sobre registros de interacción identifica patrones distintos de uso de [[llm|LLM]] (refinamiento estratégico iterativo frente a comandos lineales), y distingue la [[ai-literacy|competencia]] y el desarrollo de quien aprende. ([[tracing-genai-literacy-interaction-patterns]])
 - **Analizar el discurso y el encuadre.** El ENA se aplica a datos [[qualitative-research|cualitativos]] y [[multimodal]] (por ejemplo, encuadres de YouTube sobre ChatGPT en educación) para revelar la estructura del discurso público o disciplinar. ([[youtube-frames-chatgpt-education]])
 - **Complementar el autoinforme y las métricas de producto.** Como los métodos de redes usan datos conductuales observados, pueden exponer discrepancias entre lo que el estudiantado afirma y lo que hace realmente: un hallazgo recurrente en la literatura de la base de conocimiento sobre aprovechamiento de la retroalimentación.
+- **La estructura de grafo como cantidad de validación, no como resumen descriptivo.** [[synthetic-educational-data-structural-fidelity-2026|Inoue y Yasutake (2026)]] siguen β0 —el número de componentes conexas de un grafo de proximidad semanal sobre el estudiantado con un umbral euclídeo fijo— para comprobar si las cohortes sintéticas reproducen las reales, y lo prefieren porque queda fijado por el grafo mismo, no necesita optimización ni semilla aleatoria a diferencia de la maximización de modularidad, y sigue definido cuando entre un séptimo y un tercio del estudiantado queda aislado en una componente.
 
 ## Consideraciones metodológicas
 
 - **La codificación es la base.** Todas las variantes de redes dependen de codificar de forma fiable los datos brutos (enunciados, eventos, relaciones) en nodos o códigos discretos; la codificación automatizada basada en LLM se usa cada vez más, pero requiere validación humana (por ejemplo, κ de Fleiss de 0,70–0,71 en los estudios de TNA). ([[penny-transition-network-analysis-efl-writing-2026]])
+- **Tratar el acuerdo entre codificadores como una comprobación continua, no como una estadística puntual.** [[preservice-teachers-noticing-ai-simulations-2026|Galiç et al. (2026)]] codificaron 304 enunciados de observación con un α de Krippendorff de .803 y monitorizaron el acuerdo a lo largo del estudio, recodificando los enunciados disputados siempre que la κ agrupada caía por debajo de su umbral de recalibración de .85 (en los casos 18 y 27) y sin necesitar más recalibración en los casos 36–51. La secuencia es lo importante: una fiabilidad medida solo al final habría dejado los primeros modelos de transición apoyados en una deriva de los codificadores, ya que esos patrones de transición semanales eran el hallazgo del estudio.
 - **Las métricas de nivel de red resumen la estructura.** La densidad, la reciprocidad, la centralización y la fuerza de entrada y de salida describen si la interacción es aleatoria u organizada en torno a nodos «gravitatorios», y cuán recíproco es el intercambio.
 - **Se necesita comparación estadística para las diferencias entre grupos.** Se usan pruebas de chi cuadrado o pruebas de permutación para establecer que las diferencias de red observadas (por ejemplo, por competencia) no se deben al azar.
+- **Validar el instrumento antes de leer su red.** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai y Alshahri (2026)]] construyeron el AI-STEM-MLCS de 45 ítems mediante la ruta completa de desarrollo de una escala —ratios de validez de contenido por expertos, análisis factorial exploratorio y luego confirmatorio (CFI = 0.983, RMSEA = 0.019), ω de McDonald de 0.888–0.905 e ICC de test-retest a dos semanas de 0.751–0.900— antes de modelar las cuatro dimensiones con un análisis de grafos exploratorio. Derivar la estructura de una red cuyos nodos son puntuaciones de escala no validadas es justo lo que ese orden previene, y los autores señalan la validación específica para Arabia Saudí como el límite para transferir la estructura.
 - **Interpretar con cuidado.** La granularidad de los nodos (por ejemplo, un nodo «chat» demasiado grueso) puede ocultar la intención; la clasificación automatizada conlleva cierta ambigüedad; y una estructura de red transversal no establece causalidad.
+- **Redes que exponen lo que un agregado oculta.** [[genai-social-annotation-epistemic-network-analysis-2026|Pan et al. (2026)]] encontraron que la clase que anotaba con IA generativa superó en puntuación e implicación a su control, y luego dividieron la clase experimental por la mediana de rendimiento y mostraron que la ganancia no era compartida: los grupos de alto rendimiento iniciaron el 60.7 por ciento de las solicitudes de retroalimentación en sus anotaciones frente al 34.0 por ciento de los grupos de bajo rendimiento, que se quedaron en un bucle autorreferencial (separación de grupos significativa en el eje X del ENA, U = 25.00, p = 0.01). La lección de diseño es que un único efecto a nivel de grupo puede resumir dos estructuras de interacción diferentes, y los dos grupos eran clases intactas, así que la comparación identifica el patrón sin atribuirlo causalmente.
 
 ## Implicaciones para la investigación sobre IA en educación
 
@@ -91,6 +95,4 @@ Los métodos de redes se usan en toda la base de evidencia de la base de conocim
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Descarga cognitiva y prompting (métodos de SNA y de redes)
 - [[youtube-frames-chatgpt-education]] — ENA de los encuadres de YouTube sobre ChatGPT en educación
 - [[agency-gap-ai-writing]] — La brecha de agencia en la escritura apoyada por IA (ENA)
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbots de IA generativa y planteamiento de problemas en ciencias de primaria
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Agentes LLM ajustados y específicos de cada participante que reproducen diálogos de resolución colaborativa de problemas (Fang 2026)
 - [[synthetic-educational-data-structural-fidelity-2026]] — Lo que las métricas de fidelidad pasan por alto: una comprobación estructural de los datos educativos sintéticos

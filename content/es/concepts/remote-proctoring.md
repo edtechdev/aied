@@ -1,7 +1,7 @@
 ---
 title: Supervisión remota de exámenes
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-09-28T19:10:33-04:00"
+updated: "2026-10-02T22:23:31-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-09-26T07:13:32-04:00"
+source_updated: "2026-09-30T08:05:25-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,7 @@ La supervisión remota existe en un espectro. La **supervisión en línea** impl
 - **Privacidad y consentimiento.** Los AIPS acceden continuamente a imágenes faciales, patrones de voz, mirada y dinámica de tecleo, a menudo mediante una vigilancia audiovisual persistente. El tratamiento de datos debe cumplir marcos como el RGPD y el proyecto de ley PDP de India, y exige un consentimiento claro y un manejo seguro de los datos biométricos. El estudiantado a menudo no tiene más opción que aceptar la vigilancia si quiere hacer un examen, lo que suscita dudas sobre si el consentimiento es genuinamente voluntario.([[privacy]])
 - **Falsos positivos, acusaciones falsas y ansiedad.** Los sistemas pueden señalar como sospechosa una conducta benigna (apartar la mirada, ajustar la postura), erosionando la confianza del estudiantado y produciendo acusaciones falsas de mala praxis, sobre todo cuando quienes supervisan o quienes hacen la prueba carecen de soltura.
 - **Estrés y ansiedad ante los exámenes.** Hacer un examen supervisado es en sí una fuente importante de estrés y ansiedad. La vigilancia continua, el miedo a ser señalado injustamente y la presión de sentirse observado pueden elevar la ansiedad ante los exámenes y mermar el rendimiento y, según la evidencia, el estudiantado estresado puede ser *más* proclive a recurrir a conductas deshonestas, lo que significa que la vigilancia puede ser contraproducente. Sentirse vigilado es estresante y puede inducir por sí mismo la conducta poco ética que pretende prevenir.
+- **El fundamento de la integridad no superó su prueba más grande.** A lo largo de cuatro oleadas y 1,760 estudiantes en 105 cursos, la supervisión elevó la ansiedad ante los exámenes (β = 0.60, p < 0.001) pero no tuvo efecto sobre la tentación de hacer trampas, la dificultad percibida ni las calificaciones, de modo que el coste de la vigilancia no quedó compensado por la disuasión ([[conijn-fear-big-brother-proctored-exams-2022|Conijn et al. (2022)]]).
 - **Equidad y brecha digital.** La dependencia de dispositivos, la conexión inestable, la iluminación y la variabilidad del hardware perjudican de forma desproporcionada al estudiantado rural y con poco ancho de banda; la exactitud del modelo puede variar según la demografía y el entorno, con el riesgo de señalamientos injustos.([[digital-divide]]), [[equity-in-ai-education|equidad en la educación con IA]] Una revisión de alcance de la supervisión en la evaluación de [[nursing-education|enfermería]] muestra que no es un caso límite: cuatro de sus seis estudios incluidos informaron de problemas de conectividad a internet, uno informó de cortes de suministro eléctrico junto con paquetes de datos limitados, y la incompatibilidad de dispositivos, los fallos de extensiones del navegador y los escaneos ambientales fallidos eran rutinarios, así que la inequidad infraestructural, y no solo el sesgo del modelo, determina quién puede ser evaluado siquiera.([[harerimana-remote-proctoring-nursing-scoping-2026]])
 - **Lagunas de detección y carrera armamentística.** La suplantación de identidad (fotos o vídeo que enmascaran), el uso del navegador y el copiar y pegar siguen siendo difíciles de detectar de forma fiable; la exactitud de la detección está limitada por las limitaciones de los conjuntos de datos, la evaluación con un solo modelo y las lagunas de reproducibilidad. La supervisión no resuelve del todo la integridad y puede crear una falsa sensación de seguridad.
 - **La cuestión de la gobernanza.** Si la vigilancia es la respuesta correcta frente al [[authentic-assessment|rediseño de la evaluación]] (oral, basada en el proceso, [[eportfolio|portafolio]]) es una decisión institucional abierta; la supervisión remota es una herramienta, no una solución completa.([[governance]]) La exposición que sigue cuando la aplicación de la norma sale mal —acusaciones que se apoyan en puntuaciones y registros de eventos, la conservación y el tratamiento posterior de los datos capturados, y reglas que recaen de forma desigual sobre el estudiantado con discapacidad o no hablante nativo— se traza en [[legal-issues-and-risks|cuestiones y riesgos legales]].

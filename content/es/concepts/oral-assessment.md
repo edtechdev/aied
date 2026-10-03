@@ -1,7 +1,7 @@
 ---
 title: Evaluación oral
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-09-28T21:03:34-04:00"
+updated: "2026-10-02T22:23:33-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -13,7 +13,7 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/oral-assessment
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-30T16:25:27-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,7 @@ La restricción vinculante es de personal y de hardware, y no de pedagogía, y e
 
 ## Conceptos conectados
 
+- [[pedagogical-patterns]] — Secuencias de verificación oral y de viva, y lo que demuestran y no demuestran
 - [[assessment]] — el campo más amplio en el que se sitúa este formato
 - [[authentic-assessment]] — la tradición de diseño que sostiene el argumento de integridad
 - [[assessment-validity]] — lo que un formato puede y no puede pretender medir

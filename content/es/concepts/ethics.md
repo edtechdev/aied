@@ -1,7 +1,7 @@
 ---
 title: Ética
 created: "2026-09-25T03:54:01-04:00"
-updated: "2026-09-25T03:54:01-04:00"
+updated: "2026-10-02T22:23:33-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,10 @@ El uso ético de la IA no es solo una cuestión de principios, sino de cómo las
 
 - **Profesorado frente a estudiantado.** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç y Sever (2026)]], un estudio de [[mixed-methods-research|métodos mixtos]] con 971 estudiantes y 135 docentes, encontró que ambos grupos apoyaban el uso ético de la IA, pero en registros distintos: el profesorado enfatizaba los principios éticos y señalaba la falta de directrices institucionales, mientras que el estudiantado valoraba los beneficios de aprendizaje de la IA pero expresaba dudas sobre quién comparte la responsabilidad ética. Ambos grupos se mostraron preocupados por que un uso excesivo de la IA pudiera debilitar las [[critical-thinking|habilidades cognitivas]], una preocupación que enmarca la integración ética como la preservación del desarrollo cognitivo de quien aprende y no solo como la regulación del uso de herramientas. El profesorado puntuó alto en responsabilidad individual, pero calificó como más baja la adecuación de las directrices institucionales (M = 2.99), lo que expone una brecha entre la ética personal y el apoyo estructural.
 - **Estudiantado frente a profesorado en preparación.** [[fekete-ethical-ai-literacy-gaps-2026|Fekete (2026)]] encontró que el estudiantado declara una mayor conciencia ética que el profesorado (4.03 frente a 2.44), aunque el profesorado muestra una mayor disposición a usar la IA: el estudiantado interpreta la ética a través del trabajo de curso inmediato, mientras que el profesorado la trata como claridad institucional e integridad. Ambos declaran un apoyo institucional débil, y la preparación se desarrolla por canales distintos: la conciencia moral del profesorado crece con el apoyo institucional y social, mientras que la confianza del estudiantado se correlaciona con la [[self-efficacy|autoeficacia]] y la colaboración más que con la instrucción formal.
+
+- **El uso crece más rápido que el consenso ético.** A lo largo de cuatro semestres en un programa estadounidense de formación del profesorado, el uso de IA generativa por parte del estudiantado subió del 57% al 83% para la preparación de evaluaciones y del 44% al 76% para el estudio, mientras que las respuestas éticas «no estoy seguro» aumentaron de forma constante y quienes usaban IA calificaban su uso académico como más ético que quienes no la usaban ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker et al. (2026)]]).
+
+- **Los marcos normativos no son intercambiables.** Entre 151 estudiantes de grado españoles, la equidad moral era una condición necesaria para la intención de usar LLM en la preparación de exámenes (d = 0.338) pero no un predictor suficiente, mientras que los juicios consecuencialistas (β = 0.350) y deontológicos (β = 0.329) sí lo eran: el estudiantado aplica varios marcos normativos ([[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella et al. (2026)]]).
 - **Una estructura multidimensional compartida.** Los seis temas de [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç y Sever]], que abarcan la ética de los datos, la ética de los algoritmos y la ética pedagógica, forman una cadena causal interconectada que va de los principios fundamentales (transparencia, rendición de cuentas, justicia, autonomía) a los resultados conductuales, lo que subraya que el uso responsable de la IA depende tanto de hojas de ruta institucionales claras como de la conciencia individual.
 
 ## De los principios a la gobernanza institucional
@@ -57,10 +61,15 @@ El uso ético de la IA no es solo una cuestión de principios, sino de cómo las
 La investigación de la base de conocimiento sitúa cada vez más la ética en las instituciones y las estructuras, y no solo en las personas:
 
 - **La brecha de responsabilidad institucional.** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç y Sever]] piden [[educational-development|desarrollo profesional]] para el profesorado, cursos de ética y directrices institucionales claras; [[fekete-ethical-ai-literacy-gaps-2026|Fekete]] también encuentra que el apoyo institucional impulsa la preparación del profesorado, mientras que el estudiantado se apoya en un aprendizaje informal y [[self-directed-learning|autodirigido]]: una brecha de responsabilidad para la [[educational-policy-ai|política]].
+- **La formación en ética mueve la conciencia, pero las lagunas de política complican el cumplimiento.** Un programa de desarrollo profesional en IA generativa de ocho semanas con 97 docentes elevó las puntuaciones de conciencia ética de 3.21 a 4.05 (d de Cohen = 0.93) y la familiaridad con las políticas del 27% al 79%, pero la barrera más difícil que señalaron los participantes fue conciliar las lagunas de la política institucional con sus valores éticos ([[alharbi-ethical-genai-eap-2026|Alharbi et al. (2026)]]).
 - **La solidez de las políticas varía.** [[adarkwah-genai-unesco-policy-2026|Adarkwah et al. (2026)]], que analizan las políticas de [[generative-ai|IA generativa]] de 30 universidades destacadas frente al marco de ocho componentes de la UNESCO, encontraron que los principios éticos centrales están ampliamente asumidos, pero que la [[inclusive-learning|inclusión]], la equidad y la [[sustainability|sostenibilidad]] suelen quedar desatendidas, y que la clasificación nacional de preparación para la IA no predecía una política institucional sólida. Las políticas tienden a ser declarativas y centradas en la mala conducta, más que aseguradas operativamente.
 - **La ética y la gobernanza de datos como facilitador.** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak y Kadoić (2026)]] identifican la ética y la gobernanza de datos como uno de los siete facilitadores de las intervenciones fiables basadas en la [[learning-analytics|analítica del aprendizaje]], y sitúan la [[trust|fiabilidad]] (cumplimiento ético, seguridad de los datos, algoritmos transparentes, validez pedagógica) como el requisito previo sin el cual el cambio educativo basado en datos no es significativo.
 - **Una [[meta-analysis-systematic-review|revisión sistemática]] de la [[engineering-education|educación en ingeniería]]** encuentra que las orientaciones éticas sobre IA se dirigen predominantemente al estudiantado y están orientadas al cumplimiento (centradas en la [[academic-integrity|integridad académica]] y la divulgación), mientras que la rendición de cuentas recíproca por el uso de la IA por parte del profesorado y la responsabilidad institucional siguen poco desarrolladas, un patrón acentuado por los intereses profesionales de la ingeniería en la seguridad pública y el [[well-being|bienestar]]. ([[ethical-use-ai-engineering-education-review-2026]])
+
+- **El profesorado como usuario de IA plantea su propia ética.** Ocho áreas de consideración ética — profesionalidad, rendición de cuentas, transparencia, eficacia, inclusividad, seguridad, adecuación al contexto y política y recursos — enmarcan el uso de la IA por parte del profesorado para la retroalimentación, y solo 14 de las 50 universidades mejor clasificadas tenían orientaciones específicas al respecto ([[luo-eaton-ai-student-feedback-ethics-2026|Luo y Eaton (2026)]]).
 - **Un marco de valores consolidado para la ética de la AIED.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], una [[meta-analysis-systematic-review|revisión sistemática]] de 25 artículos, consolidan la literatura ética fragmentada en seis valores éticos principales para la [[ai-education|IA en la educación]] (no discriminación, custodia de los datos, [[human-in-the-loop-ai|supervisión humana]], buena voluntad, explicabilidad e idoneidad educativa) y sitúan las normas éticas extraídas de la literatura en una matriz de actores por valores (desarrolladores, instituciones educativas, usuarios finales, reguladores). La revisión encuentra que las normas están distribuidas de forma desigual: los desarrolladores atraen la mayoría, mientras que los usuarios finales reciben las menos y las menos accionables, y ninguna norma sobre no discriminación, custodia de los datos o idoneidad educativa se dirige directamente a los usuarios finales; las voces del estudiantado están esencialmente ausentes, y las normas sobre el «usuario final» son en su mayoría acciones que otros actores emprenden para habilitar al profesorado. Los autores sostienen que los usuarios finales deberían tener agencia y roles activos en lugar de ser tratados como beneficiarios pasivos, y señalan que los valores están estrechamente acoplados y pueden entrar en conflicto (por ejemplo, explicabilidad frente a precisión o [[privacy|privacidad]], no discriminación frente a custodia de los datos), lo que produce dilemas éticos junto con asimetrías de poder entre los conjuntos de actores.
+
+- **Responsabilidad nombrada sin relación.** El análisis de corpus de 366 resúmenes sobre IA generativa en educación superior muestra que el vocabulario de responsabilidad del campo es en gran medida adjetival: «IA generativa responsable» aparece 83 veces en 59 documentos y «uso responsable» 66 veces en 44, mientras que «responsabilidad de la IA» y «responsabilidad del estudiantado» nunca aparecen como frases exactas, y la eliminación gramatical es habitual: 800 construcciones pasivas, 780 de ellas sin ninguna referencia a un agente, junto con 1,152 nominalizaciones relacionadas con la responsabilidad. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] no encuentra ninguna cláusula que atribuya una consecuencia a un sistema, de modo que la responsabilidad se reconoce como palabra sin la agencia relacional que la convertiría en acción.
 
 ## Hacia una ética de la IA situada y ecológica
 
@@ -100,8 +109,6 @@ La ética se conecta con la [[equity-in-ai-education|equidad]], la [[privacy|pri
 - [[biology-education]] — La biología y la IA: asistentes de laboratorio, alfabetización en IA en biología, pensamiento crítico, herramientas especializadas
 
 ## Artículos conectados
-- [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: ethics, privacy, AI literacy (Kohnke et al. 2026)
-- [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Cómo usa y oculta el estudiantado la IA en las evaluaciones en línea
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Divulgación del uso de IA por el estudiantado, estigma y aprendizaje autorregulado
@@ -116,18 +123,13 @@ La ética se conecta con la [[equity-in-ai-education|equidad]], la [[privacy|pri
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
 - [[hazra-safetutors-pedagogical-safety-2026]] — Seguridad de los tutores de IA y daños pedagógicos
 - [[raffaghelli-situated-ai-ethics-2026]] — Ética de la IA situada: un marco histórico-cultural para la educación
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
-- [[ssaho-ai-academic-integrity-review-2025]] — La cultura de la integridad académica como respuesta ética a la IA
 - [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgment: A Bibliometric Analysis (Mazlan et al. 2026)
 - [[adarkwah-genai-unesco-policy-2026]] — Análisis del marco de política de IA generativa de la UNESCO
 - [[luo-eaton-ai-student-feedback-ethics-2026]] — ¿Es ético que el profesorado use la IA para la retroalimentación al estudiantado?
 - [[fekete-ethical-ai-literacy-gaps-2026]] — Cerrar las brechas de alfabetización ética en IA entre el estudiantado, el profesorado y la política
 - [[alharbi-ethical-genai-eap-2026]] — Integración ética de la IA generativa en el inglés con fines académicos
-- [[ai-tools-academic-work-cheating-2026]] — ¿Es hacer trampa usar herramientas de IA para el trabajo académico? Percepciones y ética del estudiantado
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Enfoque crítico de valores sobre la educación sostenible y la IA (Alsuhami y Atallah 2026)
 - [[ethical-conditions-llm-exam-preparation-2026]] — Condiciones éticas para la adopción de LLM en la preparación de exámenes (Pérez-Portabella et al. 2026)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Efectos de una intervención de valor de utilidad en aprender a enseñar de forma responsable con IA generativa (Boos, Eder y Lachner 2026)
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Uso, ética y política de la IA generativa a lo largo del tiempo en la formación del profesorado (Parker et al. 2026)
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Escala AI-PBLS; el empoderamiento y la conciencia ética median entre el ABP y la satisfacción en cursos de alfabetización en IA (Zhu y Kong 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Valores y normas éticas para la IA en la educación
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research

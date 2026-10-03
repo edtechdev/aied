@@ -1,7 +1,7 @@
 ---
 title: Diseño universal para el aprendizaje
 created: "2026-09-28T21:16:52-04:00"
-updated: "2026-09-28T21:16:52-04:00"
+updated: "2026-10-02T22:23:33-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-09-21T09:28:29-04:00"
+source_updated: "2026-09-30T08:39:04-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,8 @@ El DUA convierte «arreglar al estudiante» en «arreglar el diseño». Para el 
 - Despliegue la IA para cerrar brechas de desempeño (por ejemplo, los vídeos segmentados con pausas de IA ayudaron al estudiantado con TDAH) y para abaratar los formatos accesibles.
 - Protéjase de la IA que da por supuesto un único estilo de comunicación o penaliza la expresión neurodivergente: conecte con la [[accessibility|accesibilidad]], la [[equity-in-ai-education|equidad en la educación con IA]] y la [[neurodiversity|neurodiversidad]].
 
+- **Apunten a las barreras funcionales, no a los diagnósticos.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] encontraron que el corpus de 40 estudios sobre tecnologías de asistencia para estudiantado neurodivergente se organiza en torno a ajustes y herramientas condicionadas al diagnóstico, y sostienen que diseñar atendiendo a las barreras transversales que el estudiantado realmente afronta es lo que hace que una herramienta sea plausiblemente universal.
+
 ## Conceptos conectados
 
 - [[inclusive-learning]]
@@ -105,7 +107,5 @@ El DUA convierte «arreglar al estudiante» en «arreglar el diseño». Para el 
 - [[tactile-statistical-graphs-accessibility]] — Gráficos estadísticos táctiles para la accesibilidad
 - [[neurodivergent-computing-students]] — Estudiantado neurodivergente de informática
 - [[ai-learning-tools-engineering-education-needs]] — Diseñar herramientas de aprendizaje con IA conscientes de las necesidades y la atención
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transcripción de vídeos de física con matemáticas accesibles mediante Gemini+LuaLaTeX
-- [[conversational-agents-business-simulation-gaming-2026]] — Marco CAIS-GBL para agentes conversacionales de IA en juegos de simulación empresarial (Wenzel et al. 2026)
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidad virtual y más allá: una revisión de alcance de las tecnologías digitales de asistencia para estudiantado neurodivergente en educación superior
 - [[faculty-accessible-course-design-ai-2026]] — «La IA está reduciendo las opciones que yo usaba»: explorar las percepciones del profesorado sobre el diseño accesible de cursos en un mundo con ChatGPT

@@ -6,9 +6,9 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-09-28T22:21:27-04:00"
+updated: "2026-10-02T22:36:00-04:00"
 translation_of: concepts/science-education
-source_updated: "2026-09-28T22:17:25-04:00"
+source_updated: "2026-09-30T08:05:25-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,7 @@ ai_assist:
 ## Introducción
 
 La educación científica es donde la promesa de la IA y sus límites chocan de forma más visible, porque las disciplinas exigen un razonamiento [[multimodal|multimodal]] riguroso —pensamiento visual-espacial en física, destrezas de laboratorio en química y sistemas a escala de organismo en biología— junto con contenido bien estructurado y verificable, que los LLM manejan bien. Los trece artículos aquí sintetizados abarcan las tres disciplinas y todos los niveles, desde las aulas de secundaria de [[k-12|K-12]] hasta cursos universitarios de [[higher-ed|educación superior]] y programas de [[teacher-education|formación inicial del profesorado]]. En conjunto, emerge un cuadro coherente: la IA funciona mejor no como generadora de respuestas, sino como socia integrada —coinvestigadora, generadora de contenido, asistente de laboratorio virtual— cuya contribución la deciden el [[learning-design|diseño instruccional]] y la estructura pedagógica que la rodea.
+Una evaluación aleatorizada de cuatro semanas de una plataforma de revisión con IA en ciencias de GCSE aporta al cuadro una estimación causal —g de Hedges = 0.33, sin evidencia de que el efecto difiriera por asignatura o desventaja— frente a un contrafactual ya rico en tecnología, así que la cifra es valor añadido y no IA frente a nada ([[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]]).
 
 ### Laboratorios virtuales y simulaciones
 
@@ -54,6 +55,8 @@ La calificación con IA avanza rápidamente en trabajos de alta exigencia. [[ai-
 ### Percepciones del profesorado y la mirada crítica
 
 La preparación del profesorado es decisiva. [[pre-service-science-teachers-ai-perceptions-2026|Amponsah et al.]] encontraron que los futuros docentes de ciencias ghaneses mantienen actitudes positivas e intenciones firmes hacia la IA, pero solo un uso real moderado en el aula, una brecha entre intención y uso que señala la [[teacher-ai-competency|competencia docente en IA]] y el apoyo [[governance|institucional]] como las palancas reales. [[becker-chatgpt-typology-physics-2026|Becker et al.]] y [[fouad-bentley-trust-utility-gap-physics-2026|Fouad y Bentley]] documentan que el estudiantado de física son escépticos calibrados por el dominio y no adoptadores acríticos: una brecha de 50 puntos entre confianza y utilidad (91% lo usa, 41% confía) y dos perfiles de usuario distintos (usuarios pragmáticos frente a no usuarios escépticos) que cuestionan las políticas uniformes. Como contrapeso al tecnoptimismo, [[avraamidou-ai-colonization-science-education|Avraamidou]] advierte de una «colonización por IA» de la educación científica —extracción sin consentimiento, monocultivo algorítmico y reforma deshumanizadora y centrada en el beneficio— y reclama una IA feminista y humanocéntrica que priorice la justicia sobre el beneficio, mientras que la revisión sistemática de 18 estudios de [[ai-science-chemistry-education-systematic-review-2025|Erümit y Özdemir Sarıalioğlu]] subraya los riesgos [[ethics|éticos]] (sesgo, alucinación, [[academic-integrity|plagio]], erosión del pensamiento independiente) y la necesidad de [[teacher-education|formación docente]] y de un uso consciente. La lección colectiva de los trece artículos es que la IA en la educación científica aporta ganancias cuando se integra en un diseño sólido de indagación, [[scaffolding|andamiaje]] y [[assessment|evaluación]], y socava el aprendizaje cuando desplaza el trabajo epistémico que el estudiantado debe hacer por sí mismo.
+
+[[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]] preguntan hasta qué punto los modelos generales dominan el contenido científico en sí: en conjuntos de ítems alineados con NGSS para secundaria (1,078 ítems) y bachillerato (1,150 ítems), nueve modelos de pesos abiertos superaron en su mayoría el 90%, con el tamaño del modelo sin relación con la precisión, y un docente de ciencias juzgó 236 de 240 ítems muestreados (98.3%) como alineados, a la vez que señalaba la ausencia de diagramas, interpretación de datos y representación matemática —los ítems solo de texto no pueden ejercitar todas las expectativas de desempeño de NGSS. La alta dificultad y la baja discriminación de los ítems dejan abierto si estos necesitan mejora o si las ciencias de secundaria se han vuelto tratables para esta clase de modelos, y los autores reclaman la retroalimentación de varios turnos basada en evidencia como el estándar que falta.
 
 ## Conceptos conectados
 
@@ -81,3 +84,4 @@ La preparación del profesorado es decisiva. [[pre-service-science-teachers-ai-p
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluar la tutoría con IA a la velocidad de la innovación: ensayos microaleatorizados dirigidos por docentes de una plataforma de tutoría con IA en ciencias GCSE
+- [[llm-benchmark-secondary-science-topics-2026]] — Un punto de referencia para la comprensión de los LLM de los temas de ciencias de secundaria y bachillerato

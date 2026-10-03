@@ -1,14 +1,14 @@
 ---
 title: Aprendizaje sociocultural
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-09-28T20:10:47-04:00"
+updated: "2026-10-02T22:33:23-04:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-09-18T11:48:51-04:00"
+source_updated: "2026-09-30T09:53:03-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,10 +49,13 @@ La ZDP (Vygotsky) es el concepto sociocultural más ampliamente aplicado en la [
 La teoría sociocultural da forma a la [[research-methods-aied|investigación]] en IAED de varias maneras distintas:
 
 - **La IA como agente mediacional.** La IA generativa complica la distinción sociocultural entre medios mediacionales e interacción social: a la vez media la actividad *y* genera contribuciones sensibles al contexto y contingentes que dan forma a la interacción, sin poseer intencionalidad, pertenencia social ni responsabilidad. Warschauer, Tate y Ritchie (2026) proponen el *agente mediacional* como categoría híbrida y derivan hábitos de participación que priorizan lo humano (primacía de la cognición humana, [[student-engagement|implicación]] con propósito, agencia supervisora, vigilancia epistémica, [[self-regulated-learning|autorregulación]] reflexiva) para preservar la [[agency|agencia de quien aprende]].([[generative-ai-mediational-agent-sociocultural-2026]])
+- **Una explicación sensible a la etapa del papel regulador de la IA.** [[ai-cognitive-partner-co-regulation-learning|Un marco evolutivo de la corregulación entre personas e IA]] otorga a la IA cuatro roles —andamiaje, apoyo metacognitivo, memoria externa y socio de decisión— y los sitúa por etapas: regulación externa estructurada en la primera infancia, un socio [[metacognition|metacognitivo]] en la infancia media y la adolescencia, y un colaborador en la cognición compleja en la edad adulta.
 - **Andamiaje calibrado a la ZDP.** Los [[intelligent-tutoring|tutores de IA]] deberían calibrar dinámicamente la ayuda para situarla dentro de la zona de cada persona. La [[stanford-evidence-base-ai-k12-2026|base de evidencia de Stanford]] muestra cómo los tutores ajustados al nivel de quien aprende superan a la asistencia genérica; el [[adaptive-learning|aprendizaje adaptativo]] y [[golrang-propact-pair-programming-2026|el proyecto PropAct]] operacionalizan la ZDP ajustando la dificultad y las pistas; y marcos fundamentados como [[finkelstein-principled-ai-education-2025|los de Finkelstein]] sostienen que el apoyo debe retirarse a medida que crece la competencia.
 - **Una cuarta zona: lo que el modelo sabe.** [[scan-framework-task-assignment-generative-ai-2025|Tsim y Gutoreva (2025)]] amplían el diagrama de Vygotsky en lugar del bucle de tutoría, añadiendo una zona *conocida por la [[generative-ai|IA generativa]]* a la ZDP y leyendo de ahí cuatro subzonas que clasifican a qué debe asignarse una tarea: Sustituir (sin conocimiento específico de la tarea, de modo que la competencia general del modelo la cubre), Ayudar (conocimiento parcial, aumentado), Complementar (conocimiento suficiente para supervisar la salida del modelo) y No negociable (suficiente para hacerlo sin ayuda, de modo que delegar aporta poco). El [[scaffolding|andamiaje]] se expresa como asignación de tareas en lugar de entrega de pistas, y un bucle [[metacognition|metacognitivo]] de evaluación en tiempo real, reflexión y aprendizaje es lo que desplaza una tarea entre subzonas con el tiempo.
 - **Aprendizaje y comunidad.** Las ideas socioculturales sustentan el aprendizaje cognitivo, el modelado, el acompañamiento y el desvanecimiento; las comunidades de práctica enmarcan el aprendizaje como un avance hacia una participación más plena en las prácticas de una comunidad.
 - **Contexto cultural e [[governance|institucional]].** La línea sociocultural, cercana al [[constructivist|constructivismo]], insiste en que la dimensión cultural determina qué cuenta como saber, quién es una autoridad y qué significa el esfuerzo — véase el encuadre aprendices–contextos–culturas de la [[young-people-learning-generative-ai-rapid-review-2026|revisión rápida PreK-12 de Sídney]].
+
+- **Validar las medidas del habla exige a la juventud cuyo habla se mide.** Recontextualizar las definiciones de los movimientos del habla con cuatro estudiantes focales elevó la F1 de clasificación del LLM en +0.104 para «Claim» y +0.23 para «Question», y las interpretaciones de los propios estudiantes divergieron de los encuadres adultos y del modelo: un límite estructural de la clasificación basada en texto, no un problema de tamaño de los datos ([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio et al. (2026)]]).
 
 ### Conexión con la carga cognitiva y la metacognición
 
@@ -79,13 +82,10 @@ La línea sociocultural está estrechamente acoplada a la teoría de la [[cognit
 - [[intelligent-tutoring]]
 
 ## Artículos conectados
-- [[ai-teammate-task-distribution-medical-training-2026]] — Marco SCAN: repensar la distribución de tareas con IA en la formación médica (Tsim et al. 2026)
 - [[youth-enter-chat-llm-student-talk-2026]] — Cuando la juventud entra en el chat: validación de medidas del habla estudiantil basadas en LLM
 - [[generative-ai-mediational-agent-sociocultural-2026]] — La IA generativa como agente mediacional
 - [[golrang-propact-pair-programming-2026]] — Tutoría colaborativa con IA
 - [[finkelstein-principled-ai-education-2025]] — Marcos fundamentados de educación con IA
 - [[stanford-evidence-base-ai-k12-2026]] — Base de evidencia de Stanford sobre IA en K-12
-- [[text-simplification-its]] — Simplificación de textos en los STI
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Revisión rápida de Sídney sobre IA generativa en PreK-12
 - [[ai-cognitive-partner-co-regulation-learning]] — La IA como socio cognitivo y corregulación
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: la cocreatividad como efecto de red a través de la teoría del actor-red

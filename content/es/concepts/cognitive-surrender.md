@@ -1,7 +1,7 @@
 ---
 title: Rendición cognitiva
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-09-28T21:09:18-04:00"
+updated: "2026-10-02T22:33:23-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-09-28T22:17:25-04:00"
+source_updated: "2026-09-30T07:29:37-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -130,4 +130,3 @@ La evidencia de la rendición como constructo con nombre propio se apoya en gran
 - [[brcic-effortless-trap-productive-struggle-2026]] — Colocar la IA para que la tarea siga exigiendo esfuerzo
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Entrenamiento en calibración
 - [[family-school-autonomy-support-genai-2026]] — Descarga dependiente frente a autónoma
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Preguntas abiertas hacia una dependencia que sostenga la habilidad en la implicación reflexiva con la IA
