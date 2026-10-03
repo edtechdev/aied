@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T10:54:00-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -26,6 +26,7 @@ reviewed_by: [editor]
 ## Introduction
 
 Critical thinking is central to [[ai-literacy]] — students who cannot critically evaluate AI outputs are vulnerable to [[cognitive-offloading|Over-Reliance]], [[hallucination-risk|hallucinated information]], and biased recommendations. Research on [[cognitive-offloading]] shows that easy access to AI answers can displace critical engagement, while [[socratic-method|Socratic approaches]] that withhold direct answers preserve the cognitive effort necessary for deeper thinking.
+
 Structured dialogue control, not a better prompt, is what separates a fallacy tutor from a debating chatbot: routing each turn through Toulmin-based intent detection, a fixed strategy order and a verifier agent let one Socratic system pass 84.5% of dialogue-quality metrics against 61.5% for a heuristics baseline ([[lftutor-logical-fallacy-education-2026|Shi et al. (2026)]]).
 
 ### Critical thinking in AI education research
@@ -38,6 +39,7 @@ GenAI use's link to self-reported critical thinking ran almost entirely through 
 **A meta-analytic anchor for the moderation claim.** Across 29 experiments GenAI raised higher-order thinking moderately (g = 0.609), with critical thinking at ES = 0.691 — below problem-solving (0.745) and above creativity (0.444) — strongest for 8–16-week interventions (0.759) and for high-SRL learners (0.863 against 0.284) ([[zhao-genai-higher-order-thinking-meta-2026|Zhao et al. (2025)]]).
 
 [[chatgpt-critical-creative-thinking-review|Reviews of ChatGPT's impact on thinking]] document mixed findings: AI can [[scaffolding|scaffold]] critical analysis when used deliberately (e.g., asking students to critique AI-generated arguments), but it can also short-circuit thinking when used as an answer engine. This tension connects to [[ai-literacy-assessment-misalignment]] research showing that self-reported AI competence far exceeds actual critical evaluation ability. A critical review of 80 HCI studies of critical thinking with AI found the field measuring what it rarely defines: only 23 of the 80 stated how they understood critical thinking at all, 49 (61%) assessed it through self-report rather than performance, and 42 (52%) used no control group ([[critical-review-critical-thinking-hci-research-ai-2026]]).
+
 [[critical-thinking-paradox-genai-learning-2026|Lin and Al-Hada (2026)]] read that mixed picture as a product–process dissociation: GenAI can raise the quality of an assignment while lowering the unaided, delayed transfer behind it, so learning should be judged on unaided delayed performance rather than on the AI-assisted product.
 
 - **Higher-order cognitive engagement in student-AI chat.** Chang and Li (2026) find that ~62% of student prompts to AI encode higher-order cognitive demand, with Bloom-level profiles varying by discipline ([[stem-education|STEM]] Apply-prevalent 20.8%, language Understand-prevalent 31.7%, social science Create-prevalent 33.8%). Their within-person design shows the same students produce significantly more higher-order prompts in social science than STEM courses (p < .001), indicating that disciplinary context shapes critical and higher-order engagement with AI.

@@ -1,7 +1,7 @@
 ---
 title: Distributed Cognition
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
@@ -47,6 +47,7 @@ The knowledge base treats distributed cognition alongside its neighboring theore
 ### Why it matters for AI design and evaluation
 
 Distributed cognition provides both a design lens and an evaluation lens. For design, it asks how to apportion cognitive work between learners and AI to preserve (not erode) the human learner's agency, [[metacognition]], and self-regulation. For evaluation, it reframes success metrics: instead of asking only "did performance improve?", DCog asks whether the distribution of cognition supports durable learning, epistemic agency, and educational justice — a perspective that connects to the knowledge base's [[ai-ed-evaluation]] and [[learning-theories]] concerns.
+
 Fowlin et al. (2026) operationalize that apportionment as a two-phase sequence: build core competencies without AI first, then introduce AI as a cognitive partner whose suggestions students critically evaluate, to prevent automation-related deskilling ([[fowlin-operationalizing-learning-principles-ai|Fowlin et al. (2026)]]).
 
 **Internalized vs. distributed mastery.** The Cognitive Commons framework ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) distinguishes Internalized Mastery (deep domain knowledge in individual minds) from Distributed Mastery (orchestrating human–AI systems) and argues the latter depends on the former via a "Validation Tether": effective oversight of distributed/AI systems presupposes the internalized expertise those systems may undermine. This sharpens the DCog design question — the distribution of cognition must not come at the cost of the expertise that validates it.

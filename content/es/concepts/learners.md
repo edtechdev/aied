@@ -1,7 +1,7 @@
 ---
 title: "Quienes aprenden"
 created: "2026-09-28T19:15:20-04:00"
-updated: "2026-09-28T19:15:20-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -12,7 +12,7 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-09-19T06:35:00-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,7 @@ La página de [[student-ai-interaction|interacción estudiantado-IA]] reúne qu�
 ## Esfuerzo, autorregulación y la brecha entre rendimiento y aprendizaje
 
 Aquí es donde la evidencia sobre el lado de quien aprende es más consecuente, porque separa lo que quienes aprenden *pueden hacer con IA* de lo que *pueden hacer sin ella*.
+
 La [[cognitive-offloading|dependencia excesiva]] reúne la evidencia sobre el exceso de confianza en la IA; [[genai-performance-vs-learning|el rendimiento con IA generativa frente al aprendizaje]] enuncia el punto metodológico central de que el rendimiento asistido y la capacidad sin asistencia deben medirse por separado; [[layer-sensitive-cognitive-offloading-writing-2026|los estudios sensibles a capas sobre la escritura]] separan la descarga superficial, estructural, de ideas y de razonamiento, y encuentran el rendimiento asistido más alto en la condición menos acotada junto al rendimiento independiente más bajo ocho semanas después; y [[shaw-nave-cognitive-surrender-2026|el relato de la rendición cognitiva de Shaw y Nave]] nombra la disposición que hace que delegar sea habitual y no estratégico. La [[metacognitively-discordant-completion-genai-2026|discordancia metacognitiva]] documenta el incómodo caso intermedio —quienes aprenden que se dan cuenta de que no entienden y entregan de todos modos— y la [[verification-quality-reliance-calibration-genai-2026|investigación sobre la verificación]] muestra que «comprobar» es en sí mismo una habilidad graduada y no un hábito binario. En el lado del diseño, la [[desirable-difficulties|dificultad productiva]] y [[reducing-ai-misuse|reducir el mal uso de la IA]] reúnen las intervenciones que restauran el esfuerzo que la tarea debía exigir.
 
 ## Quienes aprenden como modelos

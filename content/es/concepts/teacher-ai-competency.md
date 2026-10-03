@@ -1,7 +1,7 @@
 ---
 title: "Competencia en IA del profesorado"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-10-03T00:17:27-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,7 @@ En una encuesta de cinco países con 1.405 docentes de K-12, la preparación en 
 La preparación debería ordenarse y medirse en consecuencia: el modelo Capacidad–Decisión sitúa la capacidad demostrada de IA antes que la actitud y la confianza y propone indicadores de desempeño en lugar de autoinforme únicamente —tareas de diseño de clases, tareas de evaluación de prompts sembradas con errores, juicios de validez de contenido y rúbricas de artefactos de aula ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 **La preparación emocional y moral es una dimensión distinta.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] encuestó al personal académico de una [[higher-ed|universidad]] maltesa (109 respuestas) y construyó un Índice de Culpa por IA (α = 0,88) a partir de cuatro ítems de emoción moral, y encontró que la culpa *anticipatoria* pesaba más que el remordimiento experimentado después del uso: la afirmación más respaldada era la preocupación de que usar IA menoscabe la propia credibilidad (34,9% de acuerdo), seguida de sentirse como si se hiciera [[academic-integrity|trampa]] al usarla (25,7%), mientras que el remordimiento posterior al uso solo alcanzó el 9,2%. Los hallazgos que importan para los marcos de competencia son que quienes no la usaban declararon *más* culpa que quienes la usaban (M = 3,25 frente a M = 2,32) y que la culpa descendía a medida que aumentaba la seguridad profesional: el personal académico al inicio de su carrera declaró la más alta (M = 2,71) y el personal sénior la más baja (M = 2,03). La preparación emocional no queda, por tanto, recogida por las medidas de habilidad o de confianza, y el artículo sostiene que los marcos de competencia deberían tratar la culpa y la preocupación identitaria como respuestas transitorias normales y no como defectos que corregir.
+
 Una versión más fuerte de ese reencuadre sostiene que la IA generativa es un concepto umbral y no una brecha de habilidades: un relato autoetnográfico argumenta que la ansiedad y la resistencia del profesorado son constitutivas del cruce del umbral, de modo que la formación basada en habilidades fracasa y la no adopción con principios debería respetarse en lugar de corregirse ([[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]]).
 
 ## La brecha de competencia

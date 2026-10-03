@@ -1,7 +1,7 @@
 ---
 title: Problem-Based Learning
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -34,6 +34,7 @@ The knowledge base's [[research-methods-aied|research]] shows that PBL has becom
 - **PBL's structural conditions make AI integration productive.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]] argues that PBL's core features — problem-driven inquiry, collaborative construction, facilitation, metacognitive reflection — are exactly the conditions under which AI functions as a partner in [[educational-development|professional development]] rather than a shortcut around it. The alignment is structural, not retrospective: PBL was designed around these conditions before AI existed, rooted in the recognition that professional competence requires adaptive judgment rather than routine execution.
 - **AI raises the ceiling on problem complexity.** The same argument holds that AI expands what category of problem PBL can engage, making "wicked problems" and complex real-world cases accessible to students who previously could not reach them.
 - **The artifact-as-proxy problem.** AI severs the link between a submitted artifact and the [[student-engagement|engagement]] that produced it — a problem PBL is well positioned to address because it assesses the *process* and demonstrated understanding, not just the product. This connects PBL to [[authentic-assessment|authentic]] and [[process-oriented-assessment|process-based assessment]] and to the knowledge base's [[cognitive-offloading|over-reliance]] literature.
+
 The three-level meta-analysis that pools GenAI-supported PBL with project-based learning keeps product and solution performance in a separate model precisely because it measures human-AI collaborative output rather than internalized learning, and that estimate is the largest the reviewers report (g = 1.958) while resting on only six studies and carrying an approximate 95% prediction interval of [−0.740, 4.656] that crosses zero — the quantitative form of the artifact-as-proxy caution above ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
 - **ChatGPT as [[scaffolding|adaptive scaffolding]].** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|La Sunra et al. (2026)]] show ChatGPT integrated as adaptive scaffolding within an AI-enhanced PBL framework to improve [[critical-thinking|critical thinking]] and [[personalized-learning|personalized learning]] in K-12 (120 eighth graders). This treats AI as a within-PBL support rather than an answer machine.
 - **A controversy-injecting agent can counter groupthink.** A genAI agent voiced at three set points in an interprofessional PBL session introduced controversial perspectives, and students reported that refuting it gave them a socially permissible way to speak up, with the disagreement stimulating reflection even when they rejected the agent's responses ([[genai-counter-learner-groupthink-2025|Wiss et al. (2025)]]).

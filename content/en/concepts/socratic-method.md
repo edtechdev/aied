@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -88,6 +88,7 @@ The **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** provid
 
 
 [[lftutor-logical-fallacy-education-2026|LFTutor (Shi et al., 2026)]] applies Socratic questioning to a subject where withholding the answer is the whole task: teaching laypeople to see the logical fallacy in a persuasive text they believe is valid. Its dialogue agent decomposes the learner's own argument with the Toulmin model (claim, grounds, warrant), detects the learner's intent, and then selects exactly one of four strategies - Responding, Evidence, Assumption, Refutation - in a fixed priority order that mirrors the Toulmin structure, with a separate verifier agent checking after generation that the reply actually executed the chosen strategy and rephrasing it when it did not. The evaluation metrics are the Socratic failure modes rather than learning gains: divergence from the topic, stance change (caving to the learner's position), repetition, failure to refute, failure to ask for evidence, strategy fixation, unexplained fallacy terminology, and passive guidance. Across 1,000 simulated dialogues per framework with a GPT-4o backbone, LFTutor passed 84.5% of dialogues on average against 61.5% for a prompt that listed those same pitfalls and 31.2% for plain role-play prompting, and the ablation shows the gain is not from the Toulmin vocabulary but from verified strategy execution and intent-based selection. With 20 human participants debating the tutor, LFTutor scored significantly better on eight of nine Likert metrics, including helpfulness (4.15 against 1.65), with repetition the one dimension where the difference was not significant.
+
 Gating can make withholding enforceable rather than cosmetic: Prober.ai constrains an LLM to ask only inquiry-based questions and releases a concrete revision suggestion only after the student writes a defense that clears a reflection gate, returning a coaching nudge instead when the defense is thin ([[prober-ai-inquiry-writing|Bi, Wei and Zhou (2026)]]).
 
 ## Agency and critical use

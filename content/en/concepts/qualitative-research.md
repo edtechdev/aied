@@ -1,7 +1,7 @@
 ---
 title: Qualitative Research
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-09-30T07:37:28-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
@@ -28,6 +28,7 @@ Qualitative research is not a single method but a family organized by *what* the
 
 ### Thematic analysis
 Thematic analysis identifies, codes, and interprets patterns ("themes") across qualitative data — typically interview or focus-group transcripts, open-ended survey responses, or documents. It is the most widely used approach in the knowledge base's qualitative studies. Interviews and open-ended responses are themselves [[self-report-measures|self-report data]], so they share the limits on what can be claimed about behavior — see that page for where self-report evidence is strong and where it breaks down. [[fouad-bentley-trust-utility-gap-physics-2026|A study of the trust–utility gap in physics]] uses thematic analysis of student interview data to surface [[discipline-specific-aied|domain-specific]] skepticism and adoption preferences; [[genai-teacher-feedback-comparison|a comparison of GenAI vs. teacher feedback]] analyzes student perceptions of usefulness and trustworthiness; and [[ai-adult-learning-guidelines-dis2026|guidelines for adult AI learning]] derive design principles from thematic coding of expert and learner input. [[ai-changing-teaching-workflows|How AI changes teaching workflows]] relies on thematic analysis of educator accounts.
+
 Coding reliability can be made an ongoing procedure rather than a one-time check. [[preservice-teachers-noticing-ai-simulations-2026|Galiç et al. (2026)]] code 304 noticing statements at Krippendorff's α = .803, monitor agreement on five overlapping cases (pooled κ = 0.937), and re-code disputed statements whenever agreement fell below a 0.85 recalibration threshold before resuming; the coded statements then enter an epistemic network analysis that models which dimensions co-occur rather than a flat list of themes.
 
 ### Grounded theory
@@ -38,6 +39,7 @@ Phenomenological approaches study the *lived experience* of a phenomenon — wha
 
 ### Discourse analysis
 Discourse analysis examines how language-in-use constructs meaning, identities, and power — analyzing classroom talk, written text, or interactional sequences. [[nspa-neuro-symbolic-pedagogical-alignment-2026|NSPA]] conducts long-horizon classroom *discourse analysis* (here computationally assisted) to mitigate dialect bias in understanding classroom interaction; [[scaffolding-critical-engagement-genai-minority-students|a study of ethnic-minority preparatory students]] analyzes collaborative *discourse* in [[prompt-engineering]] tasks. Discourse analysis bridges qualitative interpretation with computational methods when combined with [[educational-nlp]].
+
 [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] shows how discourse coding becomes auditable when it is rendered as countable rules: across 366 abstracts and 91,405 tokens an association counts only when an actor precedes a predicate within six intervening words, and nominal proximity is excluded so that "AI governance" never counts as evidence that AI governs — a rule-based approximation, not a dependency parse, whose limits the design states.
 
 ### Observations and ethnography
@@ -45,6 +47,7 @@ Observation studies watch behavior in context; ethnography extends this to susta
 
 ### Case studies
 A case study is an in-depth investigation of a bounded case (a course, an institution, a single learner) using multiple data sources. [[drummond-genai-business-schools-framework-2026|A business-school case study]] generates a student-informed teaching and learning framework for GenAI; [[zha-ai-literacy-biology-case-study|a biology case study]] documents AI-literacy integration. Case studies trade breadth for depth and are strong for theory generation and transferable insight rather than generalization. [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] offer a qualitative case study of 21 visually impaired undergraduates across three Palestinian universities, using thematic analysis of semi-structured interviews to show how GenAI functions as an [[assistive-technology|assistive technology]] for [[inclusive-learning|inclusive learning]] — an example of case-study research surfacing mechanisms (personalized adaptation, teacher augmentation, educational parity) that quantitative measures miss.
+
 [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] triangulates video, the alert system's own logs, and stimulus-recall interviews for one teacher and eight students, showing that an affective signal acquired meaning only through the teacher's response; the two-stage episode coding by a single author, without independent coding or validated affect detection, marks the limit of what a one-coder case analysis can warrant.
 
 ### Interviews and focus groups

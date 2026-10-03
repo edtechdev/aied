@@ -1,7 +1,7 @@
 ---
 title: "Learners"
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-09-19T06:35:00-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -54,6 +54,7 @@ The [[student-ai-interaction]] page collects what learners ask of AI, how their 
 ## Effort, self-regulation, and the performance–learning gap
 
 This is where the learner-side evidence is most consequential, because it separates what learners *can do with AI* from what they *can do without it*. 
+
 [[cognitive-offloading]] collects the over-reliance evidence; [[genai-performance-vs-learning]] states the central methodological point that assisted performance and unassisted capability must be measured separately; [[layer-sensitive-cognitive-offloading-writing-2026|Layer-sensitive studies of writing]] separate surface, structural, idea and reasoning offloading, and find the highest supported performance in the least bounded condition alongside the lowest independent performance eight weeks later; and [[shaw-nave-cognitive-surrender-2026|Shaw and Nave's cognitive-surrender account]] names the disposition that makes delegation habitual rather than strategic. [[metacognitively-discordant-completion-genai-2026|Metacognitive discord]] documents the uncomfortable middle case — learners who notice they do not understand and submit anyway — and [[verification-quality-reliance-calibration-genai-2026|verification research]] shows that "checking" is itself a graded skill, not a binary habit. On the design side, [[desirable-difficulties|productive difficulty]] and [[reducing-ai-misuse]] collect the interventions that restore the effort the task was meant to require.
 
 ## Learners as models

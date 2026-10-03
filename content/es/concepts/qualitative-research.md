@@ -1,13 +1,13 @@
 ---
 title: Investigación cualitativa
 created: "2026-09-28T21:14:31-04:00"
-updated: "2026-10-02T22:23:30-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
 methods: [qualitative-research, research-methods-aied]
 translation_of: concepts/qualitative-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,7 @@ La investigación cualitativa no es un único método, sino una familia organiza
 
 ### Análisis temático
 El análisis temático identifica, codifica e interpreta patrones («temas») en datos cualitativos, típicamente transcripciones de entrevistas o grupos focales, respuestas abiertas de encuestas o documentos. Es el enfoque más utilizado en los estudios cualitativos de la base de conocimiento. Las entrevistas y las respuestas abiertas son en sí mismas [[self-report-measures|datos autoinformados]], así que comparten los límites sobre lo que puede afirmarse respecto a la conducta: véase esa página para saber dónde la evidencia autoinformada es sólida y dónde se rompe. [[fouad-bentley-trust-utility-gap-physics-2026|Un estudio de la brecha entre confianza y utilidad en física]] usa el análisis temático de datos de entrevistas con estudiantes para sacar a la luz escepticismo y preferencias de adopción [[discipline-specific-aied|específicos de la disciplina]]; [[genai-teacher-feedback-comparison|una comparación entre la retroalimentación de la IA generativa y la del profesorado]] analiza las percepciones del estudiantado sobre utilidad y fiabilidad; y [[ai-adult-learning-guidelines-dis2026|las directrices para el aprendizaje de adultos con IA]] derivan principios de diseño de una codificación temática de aportaciones de especialistas y de personas que aprenden. [[ai-changing-teaching-workflows|Cómo cambia la IA los flujos de trabajo docentes]] se apoya en el análisis temático de relatos de educadores.
+
 La fiabilidad de la codificación puede convertirse en un procedimiento continuo en lugar de una comprobación puntual. [[preservice-teachers-noticing-ai-simulations-2026|Galiç et al. (2026)]] codifican 304 enunciados de observación con un α de Krippendorff de .803, monitorizan el acuerdo en cinco casos solapados (κ agrupada = 0,937) y recodifican los enunciados disputados siempre que el acuerdo caía por debajo de un umbral de recalibración de 0,85 antes de reanudar; los enunciados codificados pasan entonces a un análisis de redes epistémicas que modela qué dimensiones coocurren en lugar de una lista plana de temas.
 
 ### Teoría fundamentada
@@ -48,6 +49,7 @@ Los enfoques fenomenológicos estudian la *experiencia vivida* de un fenómeno �
 
 ### Análisis del discurso
 El análisis del discurso examina cómo el lenguaje en uso construye significado, identidades y poder, analizando el habla en el aula, el texto escrito o secuencias interaccionales. [[nspa-neuro-symbolic-pedagogical-alignment-2026|NSPA]] realiza un *análisis del discurso* de aula de largo alcance (aquí con asistencia computacional) para mitigar el sesgo dialectal al comprender la interacción en el aula; [[scaffolding-critical-engagement-genai-minority-students|un estudio con estudiantes de preparatoria de minorías étnicas]] analiza el *discurso* colaborativo en tareas de [[prompt-engineering|ingeniería de prompts]]. El análisis del discurso tiende un puente entre la interpretación cualitativa y los métodos computacionales cuando se combina con el [[educational-nlp|procesamiento de lenguaje natural educativo]].
+
 [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] muestra cómo la codificación del discurso se vuelve auditable cuando se convierte en reglas contables: en 366 resúmenes y 91.405 tokens una asociación cuenta solo cuando un actor precede a un predicado dentro de seis palabras intermedias, y se excluye la proximidad nominal para que «gobernanza de la IA» no cuente nunca como evidencia de que la IA gobierna; una aproximación basada en reglas, no un análisis de dependencias, cuyos límites declara el diseño.
 
 ### Observaciones y etnografía
@@ -55,6 +57,7 @@ Los estudios de observación miran la conducta en contexto; la etnografía extie
 
 ### Estudios de caso
 Un estudio de caso es una investigación en profundidad de un caso delimitado (un curso, una institución, una persona que aprende) con múltiples fuentes de datos. [[drummond-genai-business-schools-framework-2026|Un estudio de caso de una escuela de negocios]] genera un marco de enseñanza y aprendizaje informado por el estudiantado para la IA generativa; [[zha-ai-literacy-biology-case-study|un estudio de caso de biología]] documenta la integración de la alfabetización en IA. Los estudios de caso cambian amplitud por profundidad y son sólidos para generar teoría y obtener ideas transferibles más que para generalizar. [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] ofrecen un estudio de caso cualitativo con 21 estudiantes universitarios con discapacidad visual de tres universidades palestinas, usando análisis temático de entrevistas semiestructuradas para mostrar cómo la IA generativa funciona como [[assistive-technology|tecnología de asistencia]] para el [[inclusive-learning|aprendizaje inclusivo]]: un ejemplo de investigación de estudio de caso que saca a la luz mecanismos (adaptación personalizada, aumento del profesorado, paridad educativa) que las medidas cuantitativas pasan por alto.
+
 [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] triangula vídeo, los propios registros del sistema de alertas y entrevistas de recuerdo estimulado de un docente y ocho estudiantes, y muestra que una señal afectiva adquirió significado solo a través de la respuesta del docente; la codificación de episodios en dos etapas por una sola autora, sin codificación independiente ni detección afectiva validada, marca el límite de lo que puede justificar un análisis de caso con un único codificador.
 
 ### Entrevistas y grupos focales

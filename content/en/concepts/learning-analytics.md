@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-03T01:40:50-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -48,6 +48,7 @@ reviewed_by: [editor]
 ### The learning analytics cycle
 
 Learning analytics is canonically framed as a cycle that begins with learner activity producing data, which is processed into measures and indicators that are then translated into **interventions** — and the intervention feeds back into learner activity to close the loop. The intervention step is what distinguishes analytics from mere monitoring or prediction: without it, analytics describe and flag but never change learning. This cycle is the organizing frame for understanding where AI tools (dashboards, feedback generators, prescriptive recommenders) sit in the pipeline and which step they automate.
+
 A learner-facing dashboard is only as good as its reach: in a Hong Kong Grade 9 writing study a prompt classifier reached a macro F1 of 0.757, about a third of the 46 students opened the three GenAI-use dashboards and the group differences in copying and learning-oriented prompting were not reliable ([[learning-analytics-genai-secondary-writing-2026|Fong et al. (2026)]]).
 
 A frequency encoding of qualitative data is an entry point, not a verdict: in a ten-participant study, some instructors read frequency encodings as a productive way in while others warned they obscure rare but critical responses, so the design keeps every aggregate view linked back to verbatim student text ([[wordstream-glass-learning-analytics|Nguyen et al. (2026)]]).

@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
 technology: [generative-ai]
@@ -66,6 +66,7 @@ science teachers ([[ai-literacy-ai-integrated-inquiry-science-teaching-2026|Zou,
 parallel competency but as the transmission mechanism through which general [[ai-literacy]] becomes teaching practice. AI literacy
 predicted AI-TPACK strongly, AI-TPACK in turn predicted [[science-education|science teaching]] [[self-efficacy]], and teaching
 self-efficacy was the strongest single predictor of the intention to teach through AI-integrated [[inquiry-based-learning|inquiry]].
+
 The full serial chain (AI literacy → AI-TPACK → self-efficacy → intention) was significant, as were the separate indirect routes
 through AI-TPACK and through self-efficacy; taken together, most of AI literacy's association with intention ran through these
 mediators rather than directly, and the result held after controlling for gender, year of study, major, and AI use frequency. The

@@ -1,7 +1,7 @@
 ---
 title: Calibración de la confianza
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-02T21:28:30-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -16,7 +16,7 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 translation_of: concepts/trust-calibration
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
 
@@ -66,6 +66,7 @@ Tratar la mala calibración como un simple déficit de la persona usuaria —alg
 La implicación de diseño es una tipología bidimensional de personas usuarias —la *capacidad* de verificar la salida de un [[conversational-ai|chatbot]] cruzada con la *motivación* para hacerlo— que predice qué usuarios se descalibrarán en qué dirección. Los autores la emparejan con dos familias de intervención que deben operar juntas: las facilidades de [[explainable-ai|interpretabilidad]] (razonamientos, citas, señales de incertidumbre) que hacen posible la evaluación, y los mecanismos de implicación que hacen que ocurra de verdad, dispuestos con el modelo del queso suizo de Reason en ocho proposiciones contrastables. La [[ai-literacy|alfabetización en IA]] se sitúa como la capa duradera que sostiene ambas, y mueve a las personas usuarias entre las celdas de la tipología. El reencuadre importa para la educación porque desplaza la responsabilidad: si las citas transparentes no se hacen clic en la población general, entonces exponer al estudiantado a las explicaciones de la IA no lo calibrará por sí solo; la facilidad tiene que diseñarse para forzar la comprobación.
 
 [[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] aportan una palanca de diseño que sí movió la calibración: mostrar a quienes revisaban criterios de confiabilidad codiseñados mientras comparaban respuestas de LLM elevó el acuerdo entre evaluadores del alfa de Krippendorff de 0,3987 a 0,4931, aunque el acuerdo agrupado se mantuvo por debajo de 0,67 y las medidas adicionales añadieron sobrecarga.
+
 Con los agentes autónomos cambia el objeto de la calibración. [[agentic-literacy-debt|Nama (2026)]] sostiene que quien usa el sistema pasa a ser un principal que ha delegado autoridad en un sistema cuyas acciones son en gran medida no observadas e irreversibles, lo que desplaza la competencia de juzgar las salidas a entender qué se autorizó, supervisarlo y atribuir responsabilidad cuando se produce un daño.
 
 ### Conexiones

@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -38,6 +38,7 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 - **Fragile and context-dependent:** [[polished-artifacts-fragile-engagement-2026|Polished artifacts, fragile engagement]] and [[genai-tutor-engagement-patterns|multi-institution engagement patterns]] find engagement varies by task, context, and learner — an AI tool that engages one student deeply may produce shallow, output-chasing behavior in another.
 
 - **Motivational antecedents:** [[ai-availability-student-motivation|AI availability and motivation]] shows that knowing AI is available can reduce the perceived value of effortful engagement, particularly for novice learners — engagement is shaped by expectancy, value, and perceived competence as much as by tool features. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** extend this with a goal-setting-theory account of **758 university [[multilingual-learning|English learners]]** in AI-assisted learning, showing that **teacher support** directly enhances engagement and operates through students' **mastery-approach and performance-approach goals** (rather than avoidance goals). Engagement in AI contexts is therefore not only an individual or design outcome — it is also **socially scaffolded** by the teacher and by the goal orientations learners are encouraged to adopt.
+
 That [[scaffolding]] has an institutional counterpart with a dual pathway. [[gai-advocacy-practice-art-education-2026|Chen's (2026)]] two-study design (160 art students in a scenario experiment, 425 surveyed) found that perceived inconsistency between a university's GAI advocacy and its actual teaching and assessment practices predicted creative process engagement through two opposing appraisals — negative via hindrance (β = −0.060, p = 0.004) and positive via challenge (β = 0.217, p < 0.001) — with pathways thinking strengthening only the positive route, so the same institutional condition engaged some students and disengaged others.
 
 - **Competency and emotion as engagement drivers:** [[chatbot-engagement-genai-competency-emotion-2026|Zhao et al. (2026)]] model **871 university students** interacting with an [[llm]] chatbot, finding that **GenAI competency** predicts chatbot engagement both directly and indirectly through **positive emotions** (the affect pathway), and that both competency and positive emotion predict engagement and positive learning emotions. Engagement is thus jointly a *skill* and an *affective* outcome — learners who lack [[teacher-ai-competency|AI competency]] and experience anxiety or frustration disengage, which has implications for [[ai-literacy]] training as an engagement intervention rather than merely a skill goal.

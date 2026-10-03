@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Aprendizaje inclusivo
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-10-02T21:16:54-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,7 @@ El aprendizaje inclusivo se sitúa en la intersección de la [[equity-in-ai-educ
 ### Temas de investigación clave
 
 **La accesibilidad de contenidos impulsada por IA** demuestra cómo los flujos automatizados pueden reducir barreras. **[[adhd-video-segmentation-computing-education|Pimenova et al.]]** mostraron que los [[video-education|vídeos didácticos]] segmentados por IA con pausas fijas eliminaban la brecha de rendimiento entre estudiantes con y sin TDAH, una evidencia sólida del diseño universal para el aprendizaje mediante la transformación automatizada de contenidos. El estudio conecta con la investigación sobre [[neurodivergent-computing-students|estudiantado de informática neurodivergente]] y con cómo las estructuras de [[collaborative-learning|aprendizaje colaborativo]] afectan a la comodidad de las personas neurodivergentes. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** diseñaron un sistema de generación de preguntas impulsado por [[llm|LLM]] para quienes aprenden sordos y con hipoacusia, introduciendo estrategias de preguntas visuales y emocionales que apuntan a los momentos de dificultad visual o emocional del vídeo, a la vez que revelaban el desajuste persistente entre los prompts de IA basados en texto y las lenguas de signos como primeras lenguas de quienes son sordos o tienen hipoacusia, lo que subraya la necesidad de un diseño de IA sensible a la lengua y la cultura. **[[text-simplification-its|MuTSE]]** aborda una barrera complementaria —el nivel de lectura— evaluando la simplificación de texto con LLM para la [[intelligent-tutoring|tutoría inteligente]] y ajustando la complejidad del contenido al nivel actual de cada persona mediante un marco de evaluación [[human-in-the-loop-ai|con humanos en el bucle]] en lugar de confiar en métricas lingüísticas que pasan por alto la calidad [[pedagogy|pedagógica]].
+
 Los vídeos con muchas ecuaciones pueden hacerse accesibles en lugar de transcribirse a mano: un flujo de trabajo de Gemini más LuaLaTeX convirtió 16 vídeos didácticos de física en PDF que superaron la validación PDF/UA-2 e ISO 32005, y solo un vídeo necesitó un segundo intento ([[gemini-lualatex-physics-video-transcription-2026|Looney y Duston (2026)]]).
 
 **Accesibilidad sensorial: estudiantes ciegos, con baja visión y sordos.** Varios artículos invierten el supuesto de que la tecnología educativa debe ser visual. **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** convierte la conversación hablada en la modalidad primaria y suficiente para niños con discapacidad visual —detección de dificultades en tiempo real, correspondencia de respuestas [[multilingual-learning|multilingüe]] y reconocimiento automático de voz en el dispositivo que funciona sin conexión— eliminando tanto la dependencia visual como el requisito de conectividad. **[[tactile-statistical-graphs-accessibility|Obiuwevwi et al.]]** construyeron un flujo reutilizable que genera gráficos estadísticos táctiles impresos en 3D para estudiantes ciegos o con baja visión en menos de 250ms, con extracción opcional de gráficos a partir de imágenes mediante LLM. **[[pepper-robot-sign-language-lis-2025|Bolla et al.]]** exploraron si el robot social Pepper puede producir lengua de signos italiana inteligible, codiseñando 52 signos con un estudiante sordo y una intérprete experta, y amplían así la [[educational-robotics|robótica educativa]] hacia la accesibilidad comunicativa para quienes son sordos, a la vez que destacan el reto de reproducir los componentes no manuales (expresión facial, postura) cruciales para el significado. **[[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]]** llevan esta línea de trabajo a la educación superior y encuentran, en un estudio de caso [[qualitative-research|cualitativo]] con 21 universitarios con discapacidad visual en Palestina, que la IA generativa ajusta el ritmo, el contenido y la presentación a perfiles individuales y convierte textos académicos complejos entre modalidades, con estudiantes que ven en la IA generativa un complemento y no un sustituto del profesorado, preservando la conexión humana y habilitando la participación.

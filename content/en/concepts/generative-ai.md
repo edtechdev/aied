@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T10:54:00-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
@@ -41,6 +41,7 @@ A census of educator tool use shows attention concentrated on production rather 
 ### The knowledge base's generative AI coverage
 
 With 80+ articles, generative AI is the knowledge base's largest technology thread. Research spans effectiveness studies ([[genai-meta-analysis-programming-learning|meta-analyses]]), safety concerns ([[hazra-safetutors-pedagogical-safety-2026|tutor harms]], [[eduguard-safe-rag-llm-tutor|guardrailing]]), and design principles ([[instructional-guidance-genai-learning|instructional guidance]]).
+
 Pooled across 53 studies, GenAI-assisted education outperformed non-GenAI approaches on achievement (g = 0.40), higher-order thinking (g = 0.72), motivation (g = 0.81) and writing (g = 0.76), though game-assisted GenAI added no significant benefit (g = 0.24) ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
 
 

@@ -1,7 +1,7 @@
 ---
 title: Investigación cuantitativa
 created: "2026-09-28T19:11:02-04:00"
-updated: "2026-10-02T21:24:18-04:00"
+updated: "2026-09-30T08:39:04-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -45,6 +45,7 @@ Las encuestas transversales miden actitudes, percepciones, motivación, [[self-e
 
 ### Investigación experimental y cuasiexperimental
 Los experimentos asignan aleatoriamente a quienes aprenden a distintas condiciones (por ejemplo, tutor de IA frente a tutor humano, o con andamiaje de IA frente a sin asistencia) para estimar efectos causales sobre los resultados. Los **ensayos controlados aleatorizados ([[rct|ECA]]s)** son el patrón de referencia para la validez interna. [[access-not-enough-ai-tutoring-2026|Un estudio de campo aleatorizado sobre el apoyo humano más la tutoría con IA]] y [[genai-can-harm-teaching-rct-2026|un ECA sobre la IA generativa en la enseñanza]] usan la asignación para aislar efectos causales. Los diseños **cuasiexperimentales** (pre/post, grupos emparejados sin aleatorización) son más viables en aulas intactas, pero más débiles para las afirmaciones causales.
+
 [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adoptan en cambio un diseño cruzado intra-sujeto: cada estudiante se enfrenta al mismo contenido de física dos veces, una en una lección de aprendizaje activo en clase y otra mediante el propio tutor de IA del curso, con prepruebas y pospruebas alrededor de cada una, de modo que cada persona sirve como su propio control y las diferencias entre individuos se cancelan.
 
 - **Fortalezas:** la inferencia causal más sólida; medición limpia de los resultados; permite estimar tamaños del efecto y sostener afirmaciones de eficacia.

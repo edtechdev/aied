@@ -2,7 +2,7 @@
 connected_resources: [deeptutor]
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-10-02T08:36:43-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -74,6 +74,7 @@ A step beyond orchestrating a few specialized agents is the **full agentic multi
 ## The central tension: automation vs. learning
 
 The [[agentic-ai-pedagogical-best-practice-2026|pedagogical best-practice]] work articulates the field's defining tension: as education AI shifts from passive [[conversational-ai|chatbots]] to **proactive agents** that initiate and pursue goals, personalization improves but **learner [[agency]] and cognitive effort** are at risk. The more an agent automates, the less [[cognitive-offloading|cognitive work]] the learner does. The design response — **intentional friction, dynamic [[scaffolding]], [[human-in-the-loop-ai]] oversight, and considered AI utilization** — acts as a principled guardrail. This connects to [[desirable-difficulties]], [[sociocultural-learning]], and the risk of [[cognitive-offloading|Over-Reliance]], and to the broader theme of preserving [[agency]] in AI-mediated learning.
+
 One empirical check comes from [[spec-driven-development-ai-agents-sdpbl-2026|a practical report on Spec-Driven Development in a software PBL course (Tanaka et al. 2026)]]: students using AI agents across development phases generated more code but showed code-comprehension dips that recovered only after instructor one-on-one interviews - concrete field evidence for the automation-vs-learning tension and for [[human-in-the-loop-ai]] monitoring as the mitigation.
 
 The survey literature turns these principles into **measurable design [[guardrails]]** rather than vague intentions. On scaffolding, [[kostopoulos-agentic-ai-education-2025|Kostopoulos et al. (2025)]] recommend **fading protocols** — gradually reduce hint frequency after each successful attempt — and targeting a **[[help-seeking]] ratio (AI-initiated hints ÷ total student actions) below 0.3**, so the agent is not the one driving most of the interaction. They pair this with **reflective checkpoints** (e.g., ask the learner to explain their reasoning before the agent offers the next cue) and adaptive fading curves whose intervention likelihood drops as proficiency rises. On [[explainable-ai|transparency]], agents should expose a "Why this suggestion?" rationale and keep **timestamped decision-traceability logs** (agent rationale, data sources, decisions) available for instructional auditing. On [[bias-mitigation|fairness]], they advise pre-deployment **disparate-impact testing across at least three demographic groups** (e.g., gender, language, geography) and involving diverse teachers in design. These metrics give an instructor or designer an audit lever: rather than asking "is the agent too helpful?", measure whether hints are fading, whether the learner is initiating, and whether the agent's reasoning is inspectable.

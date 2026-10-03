@@ -1,13 +1,13 @@
 ---
 title: Cognición distribuida
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-10-02T21:25:27-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,7 @@ La base de conocimiento sitúa la cognición distribuida junto a tradiciones te�
 ### Por qué importa para el diseño y la evaluación de la IA
 
 La cognición distribuida aporta a la vez una lente de diseño y una lente de evaluación. Para el diseño, pregunta cómo repartir el trabajo cognitivo entre quienes aprenden y la IA para preservar (y no erosionar) la agencia, la [[metacognition|metacognición]] y la autorregulación de la persona que aprende. Para la evaluación, reformula las métricas de éxito: en lugar de preguntar solo «¿mejoró el rendimiento?», la DCog pregunta si la distribución de la cognición sostiene un aprendizaje duradero, la agencia epistémica y la justicia educativa, una perspectiva que conecta con las preocupaciones de [[ai-ed-evaluation|evaluación de la IA en educación]] y de [[learning-theories|teorías del aprendizaje]] de la base de conocimiento.
+
 Fowlin et al. (2026) operacionalizan ese reparto como una secuencia de dos fases: construir primero las competencias centrales sin IA y después introducir la IA como un socio cognitivo cuyas sugerencias el estudiantado evalúa críticamente, para prevenir la pérdida de habilidades asociada a la automatización ([[fowlin-operationalizing-learning-principles-ai|Fowlin et al. (2026)]]).
 
 **Dominio interiorizado frente a dominio distribuido.** El marco de los bienes cognitivos comunes ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) distingue el dominio interiorizado (conocimiento profundo del dominio en mentes individuales) del dominio distribuido (orquestar sistemas humano–IA) y sostiene que este último depende del primero mediante una «atadura de validación»: la supervisión eficaz de sistemas distribuidos o de IA presupone la pericia interiorizada que esos sistemas pueden socavar. Esto agudiza la pregunta de diseño de la DCog: la distribución de la cognición no debe hacerse a costa de la pericia que la valida.

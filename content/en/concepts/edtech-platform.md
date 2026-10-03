@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai]
 title: Edtech Platform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -45,6 +45,7 @@ Platforms in AI in education perform several distinct functions:
 A platform can be effective in principle yet fail in practice if learners do not use it. Two [[rct|RCTs]] of an [[ai-literacy|AI literacy]] (reading) tutoring platform found that **nearly half of control students never used the platform** and users averaged only 2–5 minutes per week — far below the dosage needed for reading gains. An in-person engagement tutor raised usage and engagement substantially but still did not produce achievement gains, and platform users skewed toward higher-achieving students, raising equity concerns.([[access-not-enough-ai-tutoring-2026]])
 
 Sequencing matters as much as capability: a review of 100+ AI-in-education studies (2020–2025) places end-to-end platforms at the top of an adoption stack, arguing institutions should settle formative assessment, leadership capacity, and shared norms before buying the platforms that scale them ([[raza-farooq-aied-review-2020-2025|Raza & Farooq (2025)]]).
+
 The gap is message-level, not logins: in a two-year cluster RCT, 96% of students tried Khanmigo but the median student messaged it in only 17% of sessions where they made a mistake, and ~14.5% of messages carried a genuine mathematical question or reasoning step — at \$15 per student per year ([[one-click-away-khanmigo-two-year-school-experiment-2026|Oreopoulos and Low, 2026]]).
 
 The binding constraint is where the AI sits inside the platform: in a 6,000-student middle-school trial, the measured effect came from structured touchpoints inside the practice environment — 2.0 "help me get started" uses, 2.3 post-mistake walkthroughs and 3.2 step explanations per mastery student — while AI access alone added little ([[making-ai-tutoring-productive-mastery-math-2026|Oreopoulos et al. (2026)]]).

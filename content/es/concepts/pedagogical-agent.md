@@ -1,7 +1,7 @@
 ---
 title: Agente pedagógico
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-10-02T22:23:27-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,7 +64,9 @@ Un uso complementario de los agentes basados en roles se dirige a la práctica d
 ## Orientaciones prácticas
 
 Diseñe para la agencia de quien aprende, no para la comodidad del modelo. Prefiera las barandillas específicas de la tutoría —[[scaffolding|andamiaje]], pistas, [[socratic-method|preguntas socráticas]], focalización en [[misconceptions|ideas erróneas]]— frente a la generación directa de respuestas, ya que resolver y enseñar divergen. Distribuya el apoyo según el rol de la persona usuaria (progenitor frente a hijo, igual frente a igual) y no mediante una única interfaz genérica, y trate la colaboración como un objetivo legítimo de andamiaje. No dé por supuesto que el estudiantado adoptará el andamiaje; evalúe la adopción en contextos reales. Integre la [[human-in-the-loop-ai|supervisión humana]] en la autoría —como hace [[ai-tutor-authoring-promptdecipher|PromptDecipher]] al convertir la revisión docente de las respuestas del bot en una actividad de primer orden— y elija motores más baratos donde la calidad se mantenga. Informe por separado de las puntuaciones de enseñanza y de resolución, y valide el contenido generado con las personas usuarias en lugar de suponer que generar equivale a ser útil.
+
 La preferencia de quien aprende es un mal indicador de la calidad del andamiaje: el estudiantado que trabajó la modelización matemática asistida por IA rindió mejor con los roles de Igual y Ayudante, pero valoró los roles más directivos de Tutor y Estudiante Excelente como los más útiles y con mayor autoeficacia ([[preferred-scaffolding-ai-mathematical-modeling|Zhu, Yang y Yang (2026)]]).
+
 Una revisión de 46 estudios sobre agentes de IA en el aprendizaje colaborativo apoyado por ordenador distingue el andamiaje cognitivo, la facilitación social y la orquestación instruccional, y encuentra que las ganancias cognitivas son consistentes mientras que los resultados conductuales, sociales y emocionales dependen del contexto, de modo que la función del agente debe elegirse en función del resultado que se pretende producir ([[ba-ai-agents-cscl-review-2026|Ba et al. (2026)]]).
 
 ## Conexiones con conceptos relacionados

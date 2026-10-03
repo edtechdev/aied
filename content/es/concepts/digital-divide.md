@@ -1,7 +1,7 @@
 ---
 title: Brecha digital
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-03T00:12:44-04:00"
+updated: "2026-09-30T09:59:35-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
@@ -56,6 +56,7 @@ Una corriente larga de la literatura rastrea cómo el propio concepto pasó del 
 **La personalidad, y no solo el NSE, configura la brecha de la era de la IA.** [[ai-divide-ses-personality-primary-education-2026|Wang et al. (2026)]] analizaron datos de encuesta y de registros nacionales de **4.497 estudiantes de 6.º grado** en los Países Bajos, separando dos vías mediadoras —el uso de IA y la alfabetización digital— que vinculan el origen y la personalidad del estudiantado con el [[learning-gains|rendimiento académico]]. Su hallazgo clave reformula la brecha clásica: **la alfabetización digital, y no la intensidad del uso de IA, media** el vínculo entre personalidad y rendimiento, y emerge una nueva brecha de habilidades digitales impulsada más por **rasgos de personalidad que por el nivel socioeconómico**. Las ventajas del NSE en el rendimiento operaban con independencia de la [[student-engagement|implicación]] con la IA. Esto complica el encuadre de acceso y NSE de la brecha digital, y apunta a la formación de habilidades y al apoyo disposicional como palancas relevantes para la equidad junto con el acceso a dispositivos y herramientas.
 
 **La brecha tiene también una capa metacognitiva.** Como aprovechar la IA de forma productiva exige conocimientos previos y autorregulación, el estudiantado que ya los posee se beneficia más, mientras que quienes más necesitan practicar delegan el propio aprendizaje: una «brecha de equidad metacognitiva» que puede ampliar las diferencias de rendimiento incluso con un acceso igual ([[lodge-loble-cognitive-offloading-2026|Lodge y Loble (2026)]]).
+
 La instrucción escolar estructurada en IA es un catalizador psicológico pero no un igualador cognitivo: en 752 estudiantes hongkoneses de secundaria baja, un currículo de un año redujo las brechas de confianza y motivación, pero dejó intactas las diferencias objetivas de alfabetización en IA entre quienes aprenden con alta y baja agencia ([[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]]).
 
 **La brecha también opera a nivel institucional.** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] muestran que, en el sistema de educación superior de Nigeria, la capacidad de integración de la IA se concentra en instituciones más antiguas de la región suroeste y se acumula mediante vínculos de red mutuamente reforzantes (colaboraciones internacionales × alianzas con la industria, r = 0,74), lo que significa que los «desposeídos» institucionales (normalmente universidades estatales más nuevas) afrontan barreras estructurales para entrar en las mismas redes que les ayudarían a alcanzar a los demás. La desigualdad digital se reproduce así no solo entre quienes aprenden individualmente, sino entre las estructuras [[governance|institucionales]] que determinan quién puede participar en una economía del conocimiento transformada por la IA.

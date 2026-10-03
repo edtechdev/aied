@@ -1,7 +1,7 @@
 ---
 title: Alfabetización en IA
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-02T21:24:48-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,17 +11,17 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 translation_of: concepts/ai-literacy
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-09-25"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-25"
+    date: "2026-09-28"
     agent: hermes-agent
 ---
 
@@ -102,6 +102,7 @@ La evidencia de aula sobre diseños deliberadamente *breves* es más escasa, per
 **Alfabetización mediática crítica apoyada en la IA en la escuela primaria.** Demir y Akar (2026) ofrecen una demostración concreta en primaria de una instrucción en alfabetización apoyada en IA generativa: un programa de 18 horas con el modelo 5E para estudiantes turcos de cuarto curso, en el que ChatGPT y Grammarly se integraron fase por fase como agentes pedagógicos (ChatGPT para preguntas reflexivas y de preguntas y respuestas; Grammarly y Canva AI para el refinamiento del contenido; Padlet para la [[peer-assessment|retroalimentación entre pares]]), alineado con los currículos turcos de Lengua y Ciencias Sociales. El grupo con apoyo de IA mostró grandes ganancias en lectura de medios (+3,50), escritura (+1,67) y alfabetización mediática total (+5,17, todas p < .01) con tamaños del efecto entre grupos de *d* de Cohen = 1,12 a 1,31, mientras que el grupo de control avanzó solo moderadamente. El análisis [[qualitative-research|cualitativo]] reveló seis ámbitos de crecimiento en alfabetización mediática crítica (autoprotección digital y privacidad de datos, uso intencionado y responsable de los medios, comunicación segura y conciencia de límites, evaluación crítica y conciencia de la desinformación, conciencia de los riesgos en línea y ética de los medios y ciudadanía digital), evidencia de que un uso de la IA generativa adecuado al desarrollo e integrado en la disciplina puede construir las dimensiones de evaluación crítica y ética de la alfabetización en IA, y no solo la habilidad operativa.
 
 **Marcos para estructurar la alfabetización en IA.** Varias contribuciones recientes ofrecen progresiones estructuradas para construir la alfabetización en IA. **[[ukraine-ai-literacy-secondary-framework-2026|Marienko, Markova y Semerikov (2026)]]** proponen un marco de cinco niveles (Conciencia, Aplicación, Evaluación, Creación, Ética) integrado con tres paradigmas de la IA en la educación (dirigida por la IA, apoyada por la IA y empoderada por la IA), desarrollado mediante un estudio de [[mixed-methods-research|métodos mixtos]] con docentes de secundaria ucranianos (encuesta nacional n = 2018; evaluación del desarrollo profesional n = 1130). Encontraron que el 84% del profesorado usa la IA pero solo el 11% puede identificar servicios especializados más allá de ChatGPT, y que una intervención de desarrollo profesional produjo una mejora del 24% en competencia en IA, evidencia de que un desarrollo profesional bien dirigido hace avanzar la alfabetización más allá de la familiaridad superficial con las herramientas. La fundamentación del marco en el [[constructivist|constructivismo]], el conectivismo y el TPACK conecta con el [[tpack]] y con la [[teacher-ai-competency|competencia del profesorado en IA]]. Como complemento, **[[science-integrated-ai-literacy-curriculum-dbr-2026|Moore et al. (2026)]]** usaron un proceso de dos años de [[design-based-research|investigación basada en el diseño]] con un consejo asesor de jóvenes y expertos en IA para diseñar un currículo de aprendizaje automático integrado en ciencias para jóvenes de secundaria, y encontraron ganancias de conocimiento sobre el aprendizaje automático en ambas cohortes (cohorte 2 M2−M1 = 0,175 frente a cohorte 1 0,076) y mayores ganancias entre las participantes mujeres y las personas no blancas, evidencia de que un diseño participativo e integrado en la disciplina puede hacer avanzar tanto la alfabetización en IA como la [[equity-in-ai-education|equidad]].
+
 Una revisión PRISMA de 39 estudios STEAM (2016-2025) encontró que esas implementaciones desarrollan sobre todo alfabetizaciones técnicas (conceptos fundamentales de IA, pensamiento computacional, alfabetización de datos), mientras desarrollan menos la conciencia ética, la imaginación creativa y el crear, gestionar y diseñar con IA, de modo que las unidades integradas en la disciplina pueden seguir dejando de lado los elementos de orden superior ([[niri-steam-ai-literacy-review-2026|Niri et al., 2026]]).
 
 El constructo es objeto de disputa precisamente donde le preocupa al profesorado. Una revisión de 34 estudios sobre alfabetización en IA en la formación del profesorado encontró que el campo carece de consenso sobre qué significa la alfabetización en IA para los profesionales de la educación, a diferencia de la alfabetización digital general, y que el Marco de Competencias en IA para Docentes de la UNESCO especifica 15 competencias en cinco dimensiones, aunque funciona como referencia de política global y no como orientación para la implementación. El profesorado del [[ai-integration-instructional-design-collaboratory-2026|colaboratorio interinstitucional de preparación docente]] trataba la alfabetización en IA como una dimensión integrada de la [[professional-training|preparación profesional]] y no como una habilidad tecnológica aparte, de modo que se esperaba que los futuros docentes auditaran, compararan y justificaran los resultados de la IA dentro de los cursos de su disciplina, en lugar de demostrar familiaridad con las herramientas.

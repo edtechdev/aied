@@ -1,7 +1,7 @@
 ---
 title: Evaluación entre pares
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-10-03T00:23:13-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,7 @@ Las normas entre pares también configuran la honestidad, lo que importa allí d
 ## Implicaciones de diseño y preguntas abiertas
 
 De aquí se derivan varias decisiones de diseño. Dé a quienes evalúan formación, ejemplos y criterios antes de que evalúen, porque la evaluación entre pares sin formación es vulnerable al sesgo de amistad, a la selección de fuentes por conveniencia y a la ansiedad social. Secuencie el trabajo de modo que la autoevaluación preceda a los comentarios entre pares y a la crítica de la IA, ya que la condición híbrida produjo el aprendizaje conceptual más fuerte y la mejor transferencia diferida. Donde entre la IA generativa, andamie cómo la usa el estudiantado. Mantenga al profesorado en el bucle para todo lo que se convierta en nota, trate las notas entre pares como evidencia dependiente de la calidad y no como marcas uniformes, y haga que el propio uso de la IA sea algo que los grupos negocien y documenten.
+
 La revisión mediada por IA generativa también hereda las normas lingüísticas de la herramienta: quienes contribuyen a un diálogo de World Englishes sostienen que las personas que revisan con IA generativa quedan expuestas al mismo sesgo hacia las variedades dominantes del inglés que los modelos, y recomiendan editar o reescribir el texto generado para reflejar la propia identidad lingüística de quien escribe ([[genai-linguistic-diversity-academic-writing|Ugwuanyi et al. (2026)]]).
 
 Las preguntas abiertas son sobre la solidez de la evidencia, no solo sobre el diseño. Buena parte de la evidencia sobre pares e IA es pequeña y ligada al contexto: 45 docentes en formación en un curso, 34 estudiantes en un curso de escritura empresarial, 52 docentes en formación inicial en 15 grupos focales. La encuesta de PAIRR es el conjunto de datos más grande de este conjunto y mide las percepciones del estudiantado, no la calidad de las salidas de IA que el estudiantado juzgó. Solo los 1.176 estudiantes de grado del experimento multicéntrico se acercan a una escala causal-comparativa, y evalúa el diseño de los comentarios para la argumentación científica, no la evaluación entre pares como tal. Mientras tanto, [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] auditó 14 metaanálisis revisados por pares que afirman que la IA mejora la educación y encontró que ninguno ofrecía una base válida para sus afirmaciones: todos menos dos definían el tratamiento como una herramienta y no como una intervención pedagógica, la heterogeneidad era alta en todos los metaanálisis que informaban de I² (77,2% a 94,4%) y una auditoría de 59 estudios primarios encontró que el 61% tenía [[assessment-validity|problemas de validez]], a menudo un desajuste entre el resultado medido y la afirmación realizada. Las afirmaciones sobre lo que la IA hace en la evaluación entre pares deberían tratarse como afirmaciones sobre una actividad diseñada, puestas a prueba en los términos de esa actividad.

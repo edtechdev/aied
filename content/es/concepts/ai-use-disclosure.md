@@ -1,7 +1,7 @@
 ---
 title: Declaraciones de uso y divulgación de la IA
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-10-02T21:31:43-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,7 @@ La divulgación es el mecanismo que hace *visible* el trabajo asistido por IA y,
 ### La divulgación no es un mecanismo de detección
 
 Un error institucional recurrente es tratar las declaraciones como una forma de pillar el uso prohibido. No pueden cumplir esa función: dependen de la sinceridad, y hacerlas cumplir vuelve a chocar con la misma indetectabilidad, ya que una institución generalmente no puede probar que se produjo un uso no declarado. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] sitúa su valor real en otro lugar: en compromisos de integridad visibles, incrustados en una cultura de [[trust|confianza]], y en la transparencia, las expectativas compartidas y la reflexión del estudiantado, más que en la aplicación de normas. El mecanismo educativo es normativo, no forense.
+
 La magnitud está documentada: en 7.462 solicitudes a un programa estadounidense de máster en políticas públicas, una declaración firmada de no uso de IA no impidió que el 56,1% de quienes se presentaron en 2025 entregaran un ensayo que un detector comercial clasificó como escrito principalmente por IA, y cada ensayo señalado se asoció con entre 1,5 y 2,6 puntos porcentuales menos de probabilidad de admisión ([[ai-written-admissions-essays-penalized-2026|Isley, Gaebler y Goel (2026)]]).
 
 El trabajo de modelización de [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed y Temimi (2026)]] aporta la condición bajo la cual funciona la divulgación, expresada como un umbral de diseño y no como una esperanza: el uso divulgado supera al uso oculto solo cuando el [[academic-integrity|coste de la honestidad]] se mantiene por debajo del efecto disuasorio que compra. Como ese límite sube con la credibilidad de la detección, la detección y la seguridad de la divulgación se refuerzan mutuamente, pero solo si el riesgo de falsos positivos de ser señalado recae por igual sobre las respuestas honestas y las deshonestas, en cuyo caso la honestidad conserva su protección comparativa. Su implicación de diseño es directa: tratar un uso de IA declarado como contexto y no como confesión, lo que mantiene bajo el coste de la honestidad precisamente en los entornos donde la vigilancia es más fuerte, y leer la divulgación como una demostración de [[evaluative-judgment|juicio evaluativo]] y no como una admisión. El permiso y la divulgación son palancas separadas —el permiso cambia el límite formal del uso aceptable, la divulgación cambia la visibilidad— y el éxito en una no dice nada sobre la otra.

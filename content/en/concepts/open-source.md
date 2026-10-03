@@ -1,7 +1,7 @@
 ---
 title: Open Source
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-02T08:08:45-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [agentic-ai, ai-education, curriculum-design]
@@ -36,6 +36,7 @@ Loosely, "open" in AI education means that four kinds of artifact are available 
 Open weights matter most where student data cannot leave campus. [[lata-ferpa-compliant-local-llm-autograder|LaTA]] is a drop-in, FERPA-compliant local-[[llm]] autograder for upper-division [[stem-education|STEM]] coursework built on instructor-authored rubrics and reference solutions, with zero marginal cost per submission. [[programming-its|SCRIPT]], a Python [[intelligent-tutoring|tutoring system]] at Bielefeld University, deliberately **avoids commercial LLM APIs** and self-hosts an open-weight Llama-70B model to meet the GDPR and the EU AI Act (which classifies some AI-in-education uses as high risk), separating IP logs from the tutoring system, using pseudonymous usernames, and recording keystrokes only with explicit consent — a choice the authors also credit with lower environmental impact and better reproducibility.
 
 Quality is no longer the automatic price of openness. [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] applies [[reinforcement-learning|reinforcement learning]] (DAPO) and supervised fine-tuning to an open model family, mining 440 hard negatives, generating 40,000 synthetic responses down-selected to 1,050 difficulty-ordered examples, and reaching **96.52%** on the pedagogy benchmark — above Gemini-3 Pro's 90.55% — at 32B dense parameters. [[aiawe-automated-writing-evaluation|AiAWE]] reaches similar conclusions for [[automated-assessment|automated writing evaluation]]: a LoRA-adapted open-weight Gemma-3-27B-it outperforms LLaMA-3.3-70B and a fine-tuned GPT-3.5 baseline on 480 TOEFL essays and runs on a consumer-grade server, with the striking subsidiary finding that parameter count is *not* a reliable predictor of downstream performance under LoRA adaptation. The counter-evidence deserves equal billing: [[mllm-scientific-visualization-literacy|a benchmark of six MLLMs]] (three closed, three open) found every open-source model below the human baseline on scientific [[visualization]] literacy while Gemini exceeded the human mean on several subsets. Openness raises the ceiling on control, not on capability.
+
 OmniEdu releases the whole pipeline rather than just weights: capability-balanced supervision over a 69,999-example mixture lifted every scale of an open 4B/9B/27B K–12 family — the tuned 4B model gained 55 points of MathTutorBench scaffold win rate over its base — while knowledge-state diagnosis stayed its weakest capability at 54.04% ([[omniedu-open-educational-foundation-models-2026|Liang et al., 2026]]).
 
 ### Open tools, tutors, and research infrastructure

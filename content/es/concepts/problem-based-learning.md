@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje basado en problemas
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-10-02T21:28:30-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,7 @@ La [[research-methods-aied|investigación]] de esta base de conocimiento muestra
 - **Las condiciones estructurales del ABP hacen productiva la integración de la IA.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]] sostiene que los rasgos centrales del ABP — indagación impulsada por el problema, construcción colaborativa, facilitación, reflexión metacognitiva — son exactamente las condiciones bajo las cuales la IA funciona como socio en el [[educational-development|desarrollo profesional]] en lugar de como un atajo para eludirlo. La alineación es estructural, no retrospectiva: el ABP se diseñó en torno a estas condiciones antes de que existiera la IA, arraigado en el reconocimiento de que la competencia profesional exige juicio adaptativo y no ejecución rutinaria.
 - **La IA eleva el techo de complejidad de los problemas.** El mismo argumento sostiene que la IA amplía qué categoría de problema puede abordar el ABP, poniendo los «problemas perversos» y los casos complejos del mundo real al alcance de estudiantes que antes no podían llegar a ellos.
 - **El problema del artefacto como indicio indirecto.** La IA rompe el vínculo entre un artefacto entregado y la [[student-engagement|implicación]] que lo produjo — un problema que el ABP está bien situado para abordar porque evalúa el *proceso* y la comprensión demostrada, no solo el producto. Esto conecta el ABP con la [[authentic-assessment|evaluación auténtica]] y la [[process-oriented-assessment|evaluación orientada al proceso]], y con la literatura de la base de conocimiento sobre la [[cognitive-offloading|dependencia excesiva]].
+
 El metaanálisis de tres niveles que agrupa el ABP apoyado en IA generativa con el aprendizaje basado en proyectos mantiene el desempeño en producto y solución en un modelo separado precisamente porque mide la producción colaborativa humano-IA y no el aprendizaje interiorizado, y esa estimación es la mayor que reportan los revisores (g = 1,958) aunque se apoya en solo seis estudios y conlleva un intervalo de predicción aproximado del 95% de [−0,740; 4,656] que cruza el cero — la forma cuantitativa de la cautela sobre el artefacto como indicio indirecto expuesta arriba ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
 - **ChatGPT como [[scaffolding|andamiaje adaptativo]].** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|La Sunra et al. (2026)]] muestran ChatGPT integrado como andamiaje adaptativo dentro de un marco de ABP mejorado con IA para mejorar el [[critical-thinking|pensamiento crítico]] y el [[personalized-learning|aprendizaje personalizado]] en K-12 (120 estudiantes de octavo curso). Esto trata la IA como un apoyo dentro del ABP y no como una máquina de respuestas.
 - **Un agente que inyecta controversia puede contrarrestar el pensamiento de grupo.** Un agente de IA generativa que intervino en tres momentos fijos de una sesión de ABP interprofesional introdujo perspectivas controvertidas, y el estudiantado informó de que rebatirlo le daba una forma socialmente permisible de hablar, con el desacuerdo estimulando la reflexión incluso cuando rechazaban las respuestas del agente ([[genai-counter-learner-groupthink-2025|Wiss et al. (2025)]]).

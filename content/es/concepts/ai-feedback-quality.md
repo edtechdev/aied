@@ -1,7 +1,7 @@
 ---
 title: Calidad de la retroalimentación de la IA
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-02T22:24:42-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -83,7 +83,9 @@ Una comparación controlada aísla el componente de retroalimentación del siste
 - **Calidad lingüística y perceptiva de los comentarios instruccionales de la IA:** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du y Jin (2026)]] evalúan los comentarios de andamiaje generados por ChatGPT dentro de vídeos frente a los comentarios del profesorado en cuanto a composición por categoría gramatical, diversidad de 3-gramas, conformidad con la ley de Zipf, legibilidad, relevancia temática (TF-IDF y BERTScore) y valoraciones del estudiantado. Los comentarios generados eran *más* complejos y ricos en adjetivos, pero *menos* variados y menos legibles, y quedaban por detrás de los comentarios humanos en alineación temática (0,607 frente a 0,747 de BERTScore para el apoyo al conocimiento) y en puntualidad y utilidad percibidas, lo que es evidencia de que la calidad de la retroalimentación de la IA debe juzgarse por su [[accessibility|accesibilidad]] lingüística y su ajuste [[affective-computing|afectivo]], y no solo por su relevancia. Su batería analítica se ofrece como una canalización reutilizable de [[learning-analytics|analítica del aprendizaje]] para auditar el contenido instruccional generado por IA.
 
 - **El diseño de los prompts y la elección del modelo como predictores medidos de la calidad:** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] descomponen las fuentes de la calidad de la retroalimentación de la IA con una regresión jerárquica sobre la retroalimentación generada para los objetivos de planificación de clases de 153 futuros docentes. A lo largo de 240 retroalimentaciones de tres modelos bajo cuatro prompts variados sistemáticamente, el modelo por sí solo explicó el 26,9% de la varianza en las valoraciones de calidad de nueve categorías, y añadir el prompt elevó el modelo al 42,8% (ΔR² = 15,9%); en una réplica con las combinaciones de modelo y prompt más fuertes (345 retroalimentaciones) el modelo explicó el 18,4% y el prompt un 5,7% adicional. El mayor efecto único de un prompt fue negativo: sustituir la terminología técnica específica del dominio por paráfrasis cotidianas redujo significativamente la calidad de la retroalimentación (β = −0,412), mientras que añadir ejemplos concretos y eliminar la instrucción de cadena de pensamiento no fueron significativos en el primer estudio. La calidad no es por tanto una propiedad fija de «la IA»: la producen conjuntamente el modelo que se elige y cómo se formula la tarea, y ambas cosas son enseñables.
+
 El estilo es una dimensión de la calidad con un coste: con el mismo modelo, la retroalimentación directiva puntuó más alto en priorizar los rasgos esenciales y en especificidad, mientras que la retroalimentación socrática elevó la monitorización de la comprensión, y la retroalimentación directiva conllevaba la mayor carga cognitiva ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
+
 Cómo se *produce* la retroalimentación también pertenece a esa lista. En un sistema modular de evaluación automatizada de la escritura para ensayos argumentativos, el ajuste fino supervisado con 90 ensayos anotados por docentes produjo retroalimentación inutilizable —el GPT-4o ajustado superó su ventana de contexto de 8.000 tokens en cada inferencia y el LLaMA-3.3-70B ajustado emitió un JSON que no se podía analizar—, mientras que indicar directamente a Claude 3.7 generó 630 microcomentarios en 40 ensayos que el profesorado juzgó necesarios y eficaces en el 94,69% de los casos, lo que llevó a los autores a concluir que, para una tarea de generación no determinista, el prompting puede superar al ajuste fino ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]]).
 
 ### Dimensiones de la calidad

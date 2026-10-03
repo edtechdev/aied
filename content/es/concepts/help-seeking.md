@@ -1,7 +1,7 @@
 ---
 title: Búsqueda de ayuda
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-10-02T21:28:30-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,7 @@ Dos indicadores simples e interpretables —las peticiones prematuras de pistas 
 El entrenamiento explícito en una **búsqueda de ayuda centrada en el razonamiento** —pedir pistas paso a paso y verificación en lugar de respuestas finales— produce mejores resultados que la dependencia acrítica. En un estudio cuasiexperimental de estadística de grado, el acceso guiado al LLM (con entrenamiento en búsqueda de ayuda orientada al razonamiento) condujo a un rendimiento independiente más sólido y a una mejor calibración de la autoevaluación que el acceso irrestricto al LLM. La lección es que **el acceso al LLM por sí solo es una intervención incompleta**; el reto de diseño es andamiar *cómo* usa el estudiantado la IA para que funcione como un compañero de razonamiento y no como una herramienta para obtener respuestas.([[guided-llm-scaffolding-independent-learning]])
 
 El coste de la interacción forma parte de la misma cuestión. [[penquiry-pen-based-llm-qa-2026|Rhee et al. (2026)]] identifican una **barrera referencial** y una **barrera expresiva** que impiden por completo que quienes aprenden con lápiz óptico pregunten algo a un [[llm|LLM]]: señalar una región de un diagrama o un término de una ecuación no puede expresarse en prosa escrita, y el esfuerzo de formulación recae justo cuando una pregunta es más frágil. Su sistema Penquiry resuelve la referencia ajustando las marcas de tinta a los elementos del documento y amplía las escasas palabras clave escritas a mano a consultas completas mediante autocompletado; dos estudios iterativos de 16 participantes cada uno encontraron que la carga cognitiva y física de la consulta se redujo significativamente. Queda abierto si un menor coste de preguntar produce una búsqueda de ayuda *mejor* o simplemente más frecuente, y los autores proponen un autocompletado temporalmente adaptativo —verificación básica al principio de la sesión y sugerencias de nivel superior después— como vía desde la reducción de la fricción hacia un [[scaffolding|andamiaje que se retira]] y no hacia una muleta permanente.
+
 El andamiaje también puede ofrecerse dentro de la tarea y no antes de ella. [[helpcoach-ai-help-seeking-scaffolding-2026|Jin et al. (2026)]] construyeron HelpCoach, un complemento de las interfaces de chat que evalúa con qué especificidad pide ayuda un estudiante y propone una revisión cuando la pregunta es demasiado vaga, haciendo explícitos el componente de conocimiento y el tipo de andamiaje. En un estudio entre sujetos con 40 estudiantes universitarios que aprendían programación web, quienes usaron HelpCoach escribieron una proporción significativamente mayor de preguntas específicas en sus primeros borradores que una línea base con entrenamiento previo a la tarea (57,3% frente a 40,5%) y retuvieron significativamente más conocimiento una semana después (d = 1,100), mientras que la diferencia de especificidad en la tercera tarea dejó de ser significativa (43,7% frente a 32,1%). Los autores advierten de que la mejora en la retención todavía no puede atribuirse a respuestas más específicas del chatbot.
 
 Una tercera palanca sobre el coste de preguntar es *de dónde* procede la ayuda. [[course-specific-rag-help-seeking-higher-ed-2026|Gray y Hobbs (2026)]] construyeron Beacon, un asistente específico de asignatura basado en [[rag|generación aumentada por recuperación]] y anclado en los materiales aprobados de un módulo de programación, y lo evaluaron con 15 estudiantes de informática y cuatro académicos. El 89% de los participantes valoró sus respuestas como muy alineadas con los materiales del curso y el 66,7% dijo que apoyaba su aprendizaje en lugar de sustituirlo, aunque solo alrededor del 50% al 60% informó de mejoras en la comprensión o la confianza. La motivación es la barrera que documenta esta sección: el 62,5% de esos estudiantes dijo que a veces evitaba pedir ayuda cuando la necesitaba y el 75% informó de ansiedad cuando un tema no tenía sentido, así que se ofrece un canal privado y anclado en el módulo como primer peldaño antes de acudir al profesorado. Los académicos entrevistados mantuvieron vivo el contraargumento: valoraban que Beacon retuviera las soluciones completas y les preocupaba que las herramientas sin restricciones permitieran al estudiantado saltarse una etapa de desarrollo, que es la razón por la que el diseño se gana su lugar al negarse a completar el trabajo.

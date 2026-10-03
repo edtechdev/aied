@@ -1,14 +1,14 @@
 ---
 title: IA generativa
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-02T21:36:37-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-09-30T10:54:00-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,7 @@ Un censo del uso de herramientas por parte del profesorado muestra que la atenci
 ### La cobertura de la IA generativa en la base de conocimiento
 
 Con más de 80 artículos, la IA generativa es la línea tecnológica más amplia de la base de conocimiento. La investigación abarca estudios de eficacia ([[genai-meta-analysis-programming-learning|metaanálisis]]), preocupaciones de seguridad ([[hazra-safetutors-pedagogical-safety-2026|daños de los tutores]], [[eduguard-safe-rag-llm-tutor|barreras de seguridad]]) y principios de diseño ([[instructional-guidance-genai-learning|orientación didáctica]]).
+
 Agrupada en 53 estudios, la educación asistida por IA generativa superó a los enfoques sin IA generativa en rendimiento (g = 0,40), pensamiento de orden superior (g = 0,72), motivación (g = 0,81) y escritura (g = 0,76), aunque la IA generativa asistida por juegos no añadió un beneficio significativo (g = 0,24) ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
 
 

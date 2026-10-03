@@ -1,7 +1,7 @@
 ---
 title: Código abierto
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-10-02T22:24:42-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 connected_faqs: [making-ai-better-at-supporting-learning]
 type: concept
 foundations: [agentic-ai, ai-education, curriculum-design]
@@ -14,7 +14,7 @@ confidence: medium
 connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy]
 methods: [benchmark]
 translation_of: concepts/open-source
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,7 @@ En términos generales, «abierto» en la educación con IA significa que cuatro
 Los pesos abiertos importan sobre todo allí donde los datos del estudiantado no pueden salir del campus. [[lata-ferpa-compliant-local-llm-autograder|LaTA]] es un corrector automático local de [[llm|LLM]] que se integra sin fricción y cumple FERPA, para trabajos de [[stem-education|STEM]] de cursos superiores, construido sobre rúbricas y soluciones de referencia escritas por el profesorado, con coste marginal cero por entrega. [[programming-its|SCRIPT]], un sistema de [[intelligent-tutoring|tutoría]] en Python de la Universidad de Bielefeld, **evita deliberadamente las API comerciales de LLM** y autoaloja un modelo Llama-70B de pesos abiertos para cumplir con el RGPD y el Reglamento de IA de la UE (que clasifica algunos usos de la IA en educación como de alto riesgo), separando los registros de IP del sistema de tutoría, usando nombres de usuario seudónimos y registrando pulsaciones de teclas solo con consentimiento explícito, una elección a la que los autores también atribuyen un menor impacto ambiental y una mejor reproducibilidad.
 
 La calidad ya no es el precio automático de la apertura. [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] aplica [[reinforcement-learning|aprendizaje por refuerzo]] (DAPO) y ajuste fino supervisado a una familia de modelos abiertos, extrayendo 440 negativos difíciles, generando 40.000 respuestas sintéticas reducidas a 1.050 ejemplos ordenados por dificultad, y alcanza el **96,52%** en el punto de referencia de pedagogía, por encima del 90,55% de Gemini-3 Pro, con 32B de parámetros densos. [[aiawe-automated-writing-evaluation|AiAWE]] llega a conclusiones similares para la [[automated-assessment|evaluación automatizada de la escritura]]: un Gemma-3-27B-it de pesos abiertos adaptado con LoRA supera a LLaMA-3.3-70B y a una línea base de GPT-3.5 ajustada en 480 ensayos TOEFL y se ejecuta en un servidor de gama de consumo, con el llamativo hallazgo subsidiario de que el número de parámetros *no* es un predictor fiable del rendimiento posterior bajo adaptación LoRA. La contraevidencia merece el mismo espacio: [[mllm-scientific-visualization-literacy|un punto de referencia de seis MLLM]] (tres cerrados, tres abiertos) encontró que todos los modelos de código abierto quedaban por debajo de la línea base humana en alfabetización de [[visualization|visualización]] científica, mientras que Gemini superaba la media humana en varios subconjuntos. La apertura eleva el techo del control, no el de la capacidad.
+
 OmniEdu publica todo el flujo de trabajo, no solo los pesos: una supervisión equilibrada por capacidades sobre una mezcla de 69.999 ejemplos elevó todas las escalas de una familia abierta K–12 de 4B/9B/27B —el modelo ajustado de 4B ganó 55 puntos de tasa de victoria de andamiaje en MathTutorBench frente a su base— mientras que el diagnóstico del estado de conocimiento siguió siendo su capacidad más débil, con un 54,04% ([[omniedu-open-educational-foundation-models-2026|Liang et al., 2026]]).
 
 ### Herramientas, tutores e infraestructura de investigación abiertos

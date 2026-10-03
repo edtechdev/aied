@@ -2,7 +2,7 @@
 connected_resources: [deeptutor]
 title: IA agéntica
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-10-02T21:25:27-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-02T08:36:43-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -84,6 +84,7 @@ Un paso más allá de orquestar unos pocos agentes especializados es el **ecosis
 ## La tensión central: automatización frente a aprendizaje
 
 El trabajo sobre [[agentic-ai-pedagogical-best-practice-2026|buenas prácticas pedagógicas]] articula la tensión que define el campo: a medida que la IA educativa pasa de [[conversational-ai|chatbots]] pasivos a **agentes proactivos** que inician y persiguen objetivos, la personalización mejora pero la **[[agency]] de quien aprende y su esfuerzo cognitivo** corren riesgo. Cuanto más automatiza un agente, menos [[cognitive-offloading|trabajo cognitivo]] hace quien aprende. La respuesta de diseño —**fricción intencionada, [[scaffolding]] dinámico, supervisión [[human-in-the-loop-ai]] y una utilización de la IA meditada**— actúa como salvaguarda fundamentada. Esto conecta con las [[desirable-difficulties]], el [[sociocultural-learning]] y el riesgo de [[cognitive-offloading|dependencia excesiva]], y con el tema más amplio de preservar la [[agency]] en el aprendizaje mediado por IA.
+
 Una comprobación empírica proviene de [[spec-driven-development-ai-agents-sdpbl-2026|un informe práctico sobre el desarrollo guiado por especificaciones en un curso de ABP de software (Tanaka et al. 2026)]]: el estudiantado que usó agentes de IA en todas las fases del desarrollo generó más código, pero mostró caídas en la comprensión del código que solo se recuperaron tras entrevistas individuales con el profesorado; evidencia de campo concreta de la tensión entre automatización y aprendizaje y del seguimiento con [[human-in-the-loop-ai]] como mitigación.
 
 La literatura de encuesta convierte estos principios en **[[guardrails]] de diseño medibles** en lugar de intenciones vagas. En cuanto al andamiaje, [[kostopoulos-agentic-ai-education-2025|Kostopoulos et al. (2025)]] recomiendan **protocolos de retirada progresiva** —reducir gradualmente la frecuencia de las pistas tras cada intento exitoso— y apuntar a una **[[help-seeking]] (pistas iniciadas por la IA ÷ acciones totales del estudiantado) inferior a 0,3**, para que el agente no sea quien impulse la mayor parte de la interacción. Lo combinan con **puntos de control reflexivos** (por ejemplo, pedir a quien aprende que explique su razonamiento antes de que el agente ofrezca la siguiente indicación) y curvas de retirada adaptativas cuya probabilidad de intervención baja a medida que sube la competencia. En cuanto a la [[explainable-ai|transparencia]], los agentes deberían exponer una justificación del tipo «¿Por qué esta sugerencia?» y mantener **registros de trazabilidad de decisiones con marca temporal** (justificación del agente, fuentes de datos, decisiones) disponibles para la auditoría instruccional. En cuanto a la [[bias-mitigation|equidad]], aconsejan **pruebas de impacto dispar entre al menos tres grupos demográficos** (por ejemplo, género, idioma, geografía) antes del despliegue y la participación de profesorado diverso en el diseño. Estas métricas dan al profesorado o al diseñador una palanca de auditoría: en lugar de preguntar «¿es el agente demasiado servicial?», medir si las pistas se están retirando, si es quien aprende quien inicia y si el razonamiento del agente es inspeccionable.

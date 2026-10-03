@@ -1,7 +1,7 @@
 ---
 title: Desarrollo profesional
 created: "2026-09-28T19:17:40-04:00"
-updated: "2026-10-03T00:27:22-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -9,7 +9,7 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,7 @@ El desarrollo profesional en ejercicio apoya al profesorado en activo en la inte
 - **Capacidad construida haciendo, no estudiando.** Un modelo estructural basado en el TPACK con 122 docentes en activo encontró que el uso real de la IA en tareas de ciencia y energía verde y la participación en el desarrollo de materiales alineados con la EDS predecían la capacidad de integración de la IA, mientras que el conocimiento abstracto de la IA y las actitudes hacia ella no lo hacían ([[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]]).
 - **[[ai-ed-evaluation|Evaluación]] colaborativa de contenido generado por IA como desarrollo profesional.** [[teachers-collaborative-evaluation-ai-content-2026|Gat, Usher y Barak (2026)]] informan de un taller en el que 60 docentes de ciencias de [[k-12|secundaria]] valoraron preguntas de evaluación generadas por ChatGPT mediante su juicio disciplinar, pedagógico y curricular. La evaluación colaborativa funcionó en sí misma como desarrollo profesional, al ayudar al profesorado a aplicar criterios de precisión conceptual a la salida de la IA y a sacar a la luz el riesgo de que el contenido de IA refuerce las [[misconceptions|ideas erróneas]], lo que sitúa al profesorado como evaluador crítico del material de [[generative-ai|IA generativa]] y no como consumidor pasivo.
 - **El desarrollo profesional estructurado para docentes de lenguas es escaso pero eficaz.** Una [[li-language-educators-genai-review-2026|revisión sistemática de 23 estudios]] (Li et al. 2026) encontró que solo tres de los estudios incluidos informaban de desarrollo profesional estructurado —un módulo integrado en un curso de gramática, un programa gubernamental de inglés como medio de instrucción y una indagación integrada con un chatbot—, pero todos convergían en ganancias de conocimiento, confianza y reformulación de la identidad, desplazando la visión que el profesorado tiene de la IA generativa del «riesgo de reemplazo» al de asistente o ampliador. La revisión sostiene que el desarrollo profesional debería emparejar la construcción de habilidades técnicas con la sabiduría práctica, avanzando desde la [[ai-literacy|concienciación]] y la ética, pasando por el dominio práctico de la herramienta, hasta el codiseño de clases enriquecidas con IA, y recomienda una estrategia de implementación en dos fases: «primero el back-end, después el aula».
+
 La instancia más clara de la base de conocimiento de desarrollo profesional en IA generativa guiado por un marco para matemáticas es un estudio con ocho docentes en activo de distritos rurales y con pocos recursos que completaron diez módulos interactivos construidos sobre el marco 4P de Rhodes ([[bicer-genai-pd-math-creativity-2026|desarrollo profesional con IA generativa y creatividad matemática]]). Aporta dos mecanismos de diseño que el diseño de desarrollo profesional en ejercicio carece por lo demás aquí: un andamiaje que se retira deliberadamente (orientación explícita al principio y, después, peticiones de justificar, generalizar y diseñar tareas) y un razonamiento estudiantil simulado a lo largo de los módulos 6 a 10, junto al hallazgo de que MC, CK y PCK se movieron juntos, aunque midiendo solo la implicación y no el conocimiento del profesorado ni el aprendizaje del estudiantado.
 - **Programas posteriores a la titulación.** La alfabetización en IA y el uso que hace el profesorado de ciencias en activo informan el diseño de programas posteriores a la titulación relacionados con la IA.([[science-educators-ai-literacy-postqualification-2026|alfabetización en IA del profesorado de ciencias y programas posteriores a la titulación]])
 

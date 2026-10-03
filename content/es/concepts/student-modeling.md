@@ -1,13 +1,13 @@
 ---
 title: Modelado del estudiantado e instrucción adaptativa
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-10-02T21:16:54-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 connected_faqs: [making-simulated-students-behave-like-learners]
 type: concept
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-02T08:36:43-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,9 @@ El estudio de [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries y Kop
 Un modelo predictivo del estudiantado puede apoyarse en la estructura de matrícula y no en datos de trazas: TRACE codifica cada semestre como una cesta no ordenada de cursos y predice juntos el conjunto de cursos y las calificaciones, reduciendo el error de predicción de calificaciones a 0,1339 MAE —un 46,4% por debajo de un modelo solo de calificaciones— en 5.326 estudiantes y diez años ([[trace-course-grade-prediction-2026|Savala (2026)]]).
 
 Los modelos del estudiantado también pueden construirse únicamente a partir de rastros conductuales y aun así sostener la adaptación. [[an-goel-self-directed-modeling-2026|An, Hammock y Goel (2025)]] derivaron tres perfiles de implicación —Observación, Construcción y Exploración— a partir de los clics de 315 personas que aprendían en línea y construían 822 modelos ecológicos en VERA, sin ningún dato demográfico ni contextual, y mostraron que estos perfiles predicen la calidad del modelo (la Exploración produce los modelos más complejos y diversos, mientras que en la Observación predominan los modelos copiados en lugar de los originales). Estas caracterizaciones a nivel de implicación son los modelos del estudiantado de grano grueso que la capa de [[adaptive-learning|instrucción adaptativa]] puede consumir para orientar la retroalimentación.
+
 El modelado afectivo del estudiantado es una dimensión adicional: un tutor de matemáticas infirió la emoción a partir del texto conversacional y la expresión facial y asignó el estado agregado a estrategias de tutoría, pero la fusión multimodal alcanzó solo un 60% de exactitud frente a las propias anotaciones de los participantes, lo que convierte la lectura afectiva en el eslabón más débil del flujo ([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]]).
+
 [[cross-subject-validity-delayed-start|Gutterman et al. (2026)]] encontraron que una señal de inicio demorado registrada durante la práctica de matemáticas predijo resultados de inglés, con quienes se demoran de forma crónica (más de 13 minutos) mostrando menores ganancias (ELA β = -.11 SD) incluso tras controlar el [[prior-knowledge|conocimiento previo]] y el tiempo en la tarea, así que los modelos conductuales del estudiantado pueden transferirse entre asignaturas sin reentrenamiento por curso, aunque sus puntos de corte deben rederivarse.
 
 ## La capa de instrucción adaptativa
@@ -76,11 +78,13 @@ Los conceptos forman un flujo de trabajo y no competidores: el **modelado del es
 En toda la familia, el reto de validez que la define es el mismo: la representación de quien aprende debe **reflejar fielmente su estado real** y no los supuestos por defecto del sistema. Para el **modelado del estudiantado** y el [[knowledge-tracing|seguimiento del conocimiento]], esto significa que el modelo debe capturar de verdad lo que sabe quien aprende ([[ai-ed-evaluation|evaluación]] y [[assessment-validity|validez de la medición]]). Para la [[simulating-students|simulación]], significa que la persona sintética que aprende debe mostrar una imperfección realista y no la competencia plena del modelo ni su acuerdo [[ai-sycophancy|adulador]]. Los sistemas adaptativos que consumen modelos defectuosos heredan y propagan ese error.
 
 Los modelos que infieren el estado del estudiantado a partir del juego alcanzaron AUC de 0,848–0,913, pero solo dos de los 55 estudios revisados los auditaron en busca de sesgo demográfico y solo uno examinó resultados diferenciales según la capacidad del estudiantado ([[ai-game-based-learning-systematic-review-2026|Kaşarcı y Yurt (2026)]]).
+
 Puede que algunas señales pretendidas no puedan recuperarse en absoluto del diálogo: el piloto del marco Learning Context recuperó concepciones erróneas al 91,4% y ansiedad al 100%, pero responsabilidad solo al 68,6% y competencia lingüística al 60%, así que un modelo consciente del contexto debería capturar rasgos que tardan en aflorar en lugar de esperar a que el diálogo los exponga ([[learning-context-framework-context-aware-ai-education-2026|Liu et al. (2026)]]).
 
 [[edumirror-educational-social-dynamics|Lin et al. (2026)]] exponen una circularidad en cómo se validan esos estudiantes sintéticos: sus agentes EduMirror administran cuestionarios psicométricos a posteriori y leen la concordancia con la representación interna de valores del agente como validez psicológica, pero como el Surveyor mide dimensiones ya codificadas en ese sistema de valores, la comprobación es una comprobación de consistencia y no una validación independiente.
 
 **La corrección no siempre es una señal fiel.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren y Stamper (2026)]] muestran que un modelo del estudiantado que infiere el dominio a partir de acciones correctas puede representar mal el estado real de quien aprende: quien muestra *sobregeneralización engañosa* parece haber dominado, pero omite una restricción de aplicación crítica, de modo que los sistemas adaptativos pueden detener la práctica antes de tiempo. Los modelos del estudiantado deberían evaluar la comprensión condicional —incluido si quien aprende sabe cuándo abstenerse de actuar— y no solo la corrección de las acciones.
+
 Las concepciones erróneas ocultas muestran el mismo fallo desde el otro lado: [[correct-answer-trap-misconceptions|Imran y Bulathwela (2026)]] encontraron que un clasificador ajustado detectó el 57,4% de las respuestas correctas alcanzadas mediante un razonamiento defectuoso, y con una prevalencia del 1,6% incluso un modelo de razonamiento con un 83,6% de exactitud dejó 8 falsas alarmas por detección, así que las señales de dominio basadas en la corrección son a la vez incompletas y caras de reparar.
 
 **Cómo se valida un modelo es en sí mismo una cuestión de validez.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan y Carvalho (2025)]] muestran que los modelos del estudiantado populares (BKT, BKT con olvido, AFM) parecen capturar el aprendizaje humano solo cuando se ajustan retroactivamente a un conjunto de datos completo de varias sesiones; bajo una validación cruzada temporal (hacia delante), que predice una sesión futura a partir de las anteriores —es decir, como se despliegan realmente estos modelos—, sobreestiman el rendimiento, no captan el [[retrieval-spacing-interleaving|efecto de espaciamiento]] y ordenan mal las condiciones de práctica. Como los modelos con olvido y sin olvido rindieron de forma parecida entre sesiones, los autores concluyen que el olvido suele absorberse en los parámetros del estudiantado en lugar de representarse de verdad. La lección para la familia es que una representación fiel de quien aprende debe validarse tal como se usa, y que confundir el rendimiento del momento con la retención a largo plazo produce modelos que parecen exactos pero representan mal a quien aprende.

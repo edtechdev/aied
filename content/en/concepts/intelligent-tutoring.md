@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-02T08:36:43-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -38,6 +38,7 @@ Intelligent tutoring is the classic *application-side* member of the [[student-m
 ## ITS vs. LLM-based tutoring
 
 The emergence of [[llm|LLMs]] has created a productive tension in the tutoring field. Traditional Intelligent Tutoring Systems (ITS) offer precision and transparency — you know exactly why the system made a particular decision — but lack flexibility. LLM tutors offer natural dialogue and broad knowledge but can hallucinate, over-scaffold, or bypass learning entirely. Modern [[research-methods-aied|research]] increasingly explores **hybrid approaches** that combine structured ITS components with LLM flexibility. [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] demonstrate this concretely in the Apprentice Tutor College Algebra ITS: supplying GPT-4 the tutor's interface structure and Bayesian [[knowledge-tracing]] skill estimates within the prompt lifted logical-error diagnosis from 40% to 81% on factoring (and error identification overall to 87.8%) and produced ~66% error-targeted hints — direct evidence that embedding an LLM in an ITS's structured framework grounds generation, curbs hallucinated diagnoses, and yields context-aware corrective feedback, even though roughly a third of the hints remained too general, incorrect, or answer-revealing.
+
 Training pedagogy into the model is a distinct route from prompting it: LearnLM mixed pedagogical data into Gemini's post-training, was preferred by education experts over GPT-4o (+31%), Claude 3.5 Sonnet (+11%) and base Gemini 1.5 Pro (+13%), and — because co-trained rather than fine-tuned afterwards — the gains survive future base-model releases ([[learnlm-improving-gemini-learning|LearnLM Team (2025)]]).
 
 

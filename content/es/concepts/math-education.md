@@ -1,7 +1,7 @@
 ---
 title: Educación matemática
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-10-02T23:55:01-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -10,7 +10,7 @@ audience: [learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/math-education
-source_updated: "2026-10-02T12:40:11-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,7 @@ La educación matemática se ha convertido en un dominio principal de la investi
 **El [[student-engagement|compromiso del estudiantado]] y la alfabetización en IA** examinan cómo interactúa el estudiantado con las herramientas matemáticas de IA. **[[epistemic-proactivity-math|Abdelghani et al.]]** rastrearon trayectorias temporales de la interacción estudiante-IA en el aprendizaje matemático, identificando un camino de desarrollo desde el [[prompt-engineering|prompting]] superficial hasta la «proactividad epistémica» —una búsqueda activa y [[self-directed-learning|autodirigida]] de la comprensión conceptual. Esto conecta con la [[ai-literacy|alfabetización en IA]], la [[metacognition|metacognición]] y el [[self-regulated-learning|aprendizaje autorregulado]]. **[[ai-powered-personalized-learning-elementary-fractions-2026|Holman]]** encontró que las plataformas adaptativas con IA mejoraron significativamente la comprensión de las fracciones en estudiantes con dificultades de aprendizaje matemático, lo que conecta con el [[personalized-learning|aprendizaje personalizado]] y el [[adaptive-learning|aprendizaje adaptativo]].
 
 **El apoyo docente** explora herramientas de IA para educadores matemáticos. El **juego de rol con estudiantes simulados** también sirve a la práctica docente: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang y Zhang (2025)]] construyeron *Student GPT*, un [[conversational-ai|chatbot]] personalizado de ChatGPT que interpretaba a un estudiante de secundaria con [[misconceptions|concepciones erróneas]] comunes sobre el razonamiento proporcional, ofreciendo al profesorado de matemáticas de secundaria en formación una práctica de bajo riesgo para diagnosticar y guiar el pensamiento del estudiantado hacia soluciones correctas —lo que ilustra la [[simulation|simulación]] impulsada por [[generative-ai|IA generativa]] como complemento de plataformas costosas como TeachLivE para construir conocimiento didáctico del contenido sobre las concepciones erróneas del estudiantado.
+
 La única síntesis a nivel de campo de este dominio en la base de conocimiento es una revisión PRISMA de 2021-2025 de 42 estudios cribados a partir de 922 registros (kappa de Cohen = 0,88), y añade una categoría que los grupos de esta página por lo demás no tienen: la automatización dirigida al profesorado, donde MATH41 apoya la producción rápida de tareas matemáticas para estudiantes de distintos niveles y el modelo híbrido CognifyNet analiza los patrones de actividad del estudiantado para que los educadores detecten dificultades incipientes de forma temprana. La misma revisión localiza el punto ciego del campo —con Educación en el 60% y Ciencias de la Computación en el 28% de los dominios de estudio, solo un estudio cayó en Psicología, dejando el impacto emocional, la confianza y la ética comparativamente poco explorados— e insiste en que la capacidad técnica no debe equipararse a una eficacia demostrada en el aula. ([[ai-mathematics-education-prisma-review-2026]])
 
 **Matemáticas en educación superior** explora el impacto de la IA en la práctica matemática avanzada. **[[genai-runaway-object-math-higher-ed|Bui et al.]]** aplicaron la teoría [[sociocultural-learning|sociocultural]] a la [[generative-ai|IA generativa]] en las matemáticas universitarias, analizando la IA como un «objeto desbocado» que transforma la práctica académica de formas que superan las normas [[governance|institucionales]] y pedagógicas.

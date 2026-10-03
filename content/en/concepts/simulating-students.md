@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-02T08:36:43-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 foundations: [agentic-ai, teacher-role]
@@ -47,6 +47,7 @@ Persona stability is an interaction-design problem, not a model-choice one: cros
 The opposite failure also occurs: in a blinded study, expert annotators misclassified 164 of 196 (83.7%) LLM-generated Java submissions as human-written, so a simulator's errors can be functionally indistinguishable from authentic ones — though alignment with real errors fell as problem difficulty rose ([[simulating-students-java-programming-errors-llms|Keramati et al. (2026)]]).
 
 Conditioning generation on a predicted behavior model works without fine-tuning: a training-free framework builds each student's cognitive prototype from a [[knowledge-graph]] and scores beam-search candidates against it, reporting a 100% improvement in simulation accuracy ([[simulating-students-diverse-cognitive-levels-2025|Wu et al. (2025)]]). Its quality rises with the student's cognitive level, so weaker learners remain the harder case to simulate.
+
 CogEvolution models cognitive dynamics rather than a static persona — an ICAP depth perceptron sets each state update's size and an evolutionary update stays within a Zone-of-Proximal-Development radius — reaching R²LC = 0.92 where static agents reach 0.45 and collapsing to 0.58 without the ICAP module ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al. (2026)]]).
 
 ### Fidelity over surface realism
@@ -93,6 +94,7 @@ Beyond evaluating pedagogy, simulated students serve as a **test harness for aud
 
 
 Simulation can also pre-test the learner's choices: [[simulating-learner-task-selection|Noh et al. (2026)]] fit an Additive Factors Model and Bayesian [[knowledge-tracing]] to two real tutoring datasets and let 1,000 simulated learners choose skills under eight strategies, where a risk-averse rule produced roughly thirty times the overpractice of the others and a just-below-mastery constraint cut it to 1.8×.
+
 A second audit register is [[metacognition|metacognitive]] and affective. [[meds-math-education-digital-shadows-2026|MEDS (Esposito et al., 2026)]] is a 28,000-record dataset — 2,000 synthetic personas for each of 14 [[llm|models]], every one run both as a human persona and as a baseline assistant — that records accuracy on 18 high-school [[problem-solving|math problems]] alongside [[self-report-measures|self-reported]] confidence and the [[self-efficacy]] and [[anxiety-and-stress|math anxiety]] scores the learners it stands in for would report. Its audit signal is the calibration gap: the Qwen family and Ministral 3B asserted confidence above 0.90 while accuracy stagnated near 0.55, while Grok 4.1 Fast, DeepSeek Chat and several Mistral Small variants were underconfident and Ministral 14B and Anita 24B stayed reasonably aligned. The same runs expose a quieter failure of fidelity: human-mode personas yielded wide, plausible score distributions, but baseline assistants returned near-identical, confident, low-anxiety answers — a default self-portrait rather than a simulated learner's. This extends the recommender audit above by probing what a model claims about its own competence and affect, and it sharpens the page's validity warning from an unexpected direction: because MEDS personas are weighted by construction rather than sampled from a real population, its authors present the dataset as an observational resource for auditing prompt-conditioned [[generative-ai|GenAI]] behavior and explicitly not as a stand-in for real [[student-experience|student data]].
 
 ### Simulating collaborative and social dynamics

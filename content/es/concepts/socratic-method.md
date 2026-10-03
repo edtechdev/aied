@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Método socrático
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-10-02T21:16:54-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -97,6 +97,7 @@ La **[[retrieval-augmented-tutoring-algorithm-kite|tutoría aumentada por recupe
 
 
 [[lftutor-logical-fallacy-education-2026|LFTutor (Shi et al., 2026)]] aplica el cuestionamiento socrático a una materia en la que retener la respuesta es toda la tarea: enseñar a personas legas a ver la falacia lógica de un texto persuasivo que consideran válido. Su agente de diálogo descompone el propio argumento de quien aprende con el modelo de Toulmin (afirmación, fundamentos, garantía), detecta la intención del estudiante y luego selecciona exactamente una de cuatro estrategias —Responder, Evidencia, Supuesto, Refutación— en un orden de prioridad fijo que replica la estructura de Toulmin, con un agente verificador independiente que comprueba tras la generación que la respuesta ejecutó de verdad la estrategia elegida y la reformula cuando no lo hizo. Las métricas de evaluación son los modos de fallo socráticos y no las ganancias de aprendizaje: divergencia del tema, cambio de postura (ceder ante la posición de quien aprende), repetición, no refutar, no pedir evidencia, fijación de estrategia, terminología de falacias sin explicar y orientación pasiva. En 1.000 diálogos simulados por marco con un modelo base GPT-4o, LFTutor superó el 84,5% de los diálogos de media frente al 61,5% de un prompt que enumeraba esos mismos escollos y el 31,2% de un prompt de juego de roles simple, y el análisis de ablación muestra que la mejora no procede del vocabulario de Toulmin, sino de la ejecución verificada de la estrategia y de la selección basada en la intención. Con 20 participantes humanos debatiendo con el tutor, LFTutor obtuvo puntuaciones significativamente mejores en ocho de las nueve métricas Likert, incluida la utilidad (4,15 frente a 1,65), y la repetición fue la única dimensión en la que la diferencia no fue significativa.
+
 El bloqueo puede hacer que retener la respuesta sea exigible en lugar de cosmético: Prober.ai restringe un LLM a formular solo preguntas de indagación y libera una sugerencia de revisión concreta solo después de que el estudiante escriba una defensa que supere una puerta de reflexión, devolviendo en su lugar un empujón de orientación cuando la defensa es débil ([[prober-ai-inquiry-writing|Bi, Wei y Zhou (2026)]]).
 
 ## Agencia y uso crítico

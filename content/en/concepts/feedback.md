@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -117,6 +117,7 @@ The "assessment for learning" paradigm reframes feedback as an overarching philo
 ### The provision-uptake pairing
 
 The knowledge base's core feedback insight is that **feedback quality and feedback literacy are two sides of one system**: high-quality feedback is inert without a literate recipient, and a literate student gains little from poor feedback. [[ai-feedback-quality]] covers the provision side (is the feedback accurate, timely, actionable?), while [[feedback-literacy]] covers the uptake side (can the student judge and act on it?). The feedback loop is what connects them — the mechanism by which quality feedback, received by a literate learner, closes the gap. Designing effective AI feedback therefore means designing both the system and the student.
+
 Which student-side capacities matter is empirically separable: among 1,507 secondary students who each received one standardized automated feedback message on an argumentative text, only behavioral engagement with feedback and instrumental attitudes towards it predicted revision performance — students at the 75th percentile on either dimension improved by about 0.10 or 0.11 WLE points more than comparable students at the 25th, roughly the 46th to the 54th percentile — while global receptivity, cognitive engagement and experiential attitudes were unrelated to it and [[technology-acceptance-model|perceived usefulness]] mediated no dimension's path to performance. Usefulness worked on the other outcome instead: global receptivity's effect on situational interest ran entirely through perceived usefulness (indirect β = 0.09, 95% CI [0.06, 0.13]), so revision gains tracked durable habits of acting on feedback while interest tracked the appraisal of a particular message. ([[jansen-argumentative-writing-feedback-receptivity-2026]])
 
 

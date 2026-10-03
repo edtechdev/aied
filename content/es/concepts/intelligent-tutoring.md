@@ -1,7 +1,7 @@
 ---
 title: Tutoría inteligente
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-02T22:50:27-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -11,18 +11,18 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-10-02T08:36:43-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [deeptutor, openmaic]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-09-25"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-25"
+    date: "2026-09-28"
     agent: hermes-agent
 ---
 
@@ -52,6 +52,7 @@ La tutoría inteligente es el miembro clásico del *lado de la aplicación* de l
 ## Los ITS frente a la tutoría basada en LLM
 
 La aparición de los [[llm|LLM]] ha creado una tensión productiva en el campo de la tutoría. Los sistemas tradicionales de tutoría inteligente (ITS) ofrecen precisión y transparencia (se sabe exactamente por qué el sistema tomó una decisión concreta), pero carecen de flexibilidad. Los tutores basados en LLM ofrecen un diálogo natural y un conocimiento amplio, pero pueden alucinar, ofrecer un andamiaje excesivo o saltarse el aprendizaje por completo. La [[research-methods-aied|investigación]] actual explora cada vez más los **enfoques híbridos**, que combinan componentes estructurados de los ITS con la flexibilidad de los LLM. [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora y MacLellan (2025)]] lo demuestran de forma concreta en el ITS Apprentice Tutor College Algebra: proporcionar a GPT-4 la estructura de la interfaz del tutor y las estimaciones bayesianas de habilidad del [[knowledge-tracing|seguimiento del conocimiento]] dentro de la indicación elevó el diagnóstico de errores lógicos del 40% al 81% en factorización (y la identificación de errores en general al 87,8%) y produjo alrededor del 66% de pistas dirigidas a errores. Es evidencia directa de que integrar un LLM en el marco estructurado de un ITS ancla la generación, frena los diagnósticos alucinados y produce retroalimentación correctiva sensible al contexto, aunque aproximadamente un tercio de las pistas seguía siendo demasiado general, incorrecto o revelaba la respuesta.
+
 Entrenar la pedagogía en el modelo es una ruta distinta de indicársela: LearnLM mezcló datos pedagógicos en el posentrenamiento de Gemini, fue preferido por personas expertas en educación frente a GPT-4o (+31%), Claude 3.5 Sonnet (+11%) y Gemini 1.5 Pro base (+13%), y —como se cotrenó en lugar de ajustarse después— las ganancias sobreviven a futuras versiones del modelo base ([[learnlm-improving-gemini-learning|LearnLM Team (2025)]]).
 
 TeachLM sostiene que el ingrediente escaso es la interacción auténtica entre quien aprende y el tutor: ajustado con 100.000 horas de tutoría individual, casi duplicó el tiempo de habla del estudiantado y aumentó los turnos de diálogo un 50%, después de que un tutor anterior, diseñado solo con indicaciones, no lograra cerrar la brecha con los tutores humanos ([[teachlm-post-training-llms-education|Perczel, Chow y Demszky (2025)]]).

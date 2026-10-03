@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -77,6 +77,7 @@ For instructional designers, course developers, and engineers building AI-assist
 **Provide instructional guidance, not just AI access.** Whether learners interact with AI directly or with AI-generated materials, guidance built on learning theory (e.g. a stepwise prompting [[scaffolding|scaffold]] grounded in generative-learning principles) drives higher-order outcomes; access alone does not. Design the learning activity around how the mind learns, and treat AI as a cognitive "mindtool" that extends thinking rather than replacing it.([[instructional-guidance-genai-learning]])([[genai-mindtool-generative-learning]])
 
 **Model forgetting, and schedule review where decay is worst.** G4L represents knowledge decay with an Ebbinghaus forgetting curve driven by elapsed time and repetitions, and prioritizes the units most vulnerable to decay rather than re-serving whatever was scored most recently ([[graph-its-adaptive-algorithms-2026|Csépányi-Fürjes & Kovács, 2026]]).
+
 Fowlin et al. (2026) add an operational move for deciding where AI enters: unbundle an activity into the components best done independently and those best coupled with AI, keeping the educator's judgment central to the split ([[fowlin-operationalizing-learning-principles-ai|Fowlin et al. (2026)]]).
 
 **Make content traceable and reviewable.** Let a human designer review and correct AI output before it reaches learners, and structure AI generation so the pedagogical rationale (why this content, in this order) is inspectable — addressing both quality and the opacity concerns that undermine [[trust]]-generated instruction.([[bridging-instructional-design-framework-math]])([[cotal-formative-assessment-scoring-2026]])

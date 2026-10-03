@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T14:23:52-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -28,6 +28,7 @@ Trust in AI is shaped by perceived competence, transparency, consistency, and wh
 ## Trust in AI systems
 
 [[research-methods-aied|Research]] in this knowledge base examines when learners appropriately trust AI-generated guidance. [[ai-fallibility-warning-help-seeking|Warnings about AI fallibility]] can improve calibration: a simple transparency intervention telling students an AI tutor may make mistakes increased [[help-seeking]] in a math ITS, suggesting that honest limits foster rather than undermine appropriate reliance. [[calibrating-trustworthiness-llm-education-2026|Co-designing trustworthiness metrics]] with learning engineers shows that trust is best built on observable, agreed-upon criteria rather than assumed capability. [[fouad-bentley-trust-utility-gap-physics-2026|Physics]] and [[t2i-competence-paradox-2026|image-generation]] studies reveal a persistent *trust-utility gap* — users must weigh a tool's apparent competence against its actual reliability in a task. Among the youngest users, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] found that 52% of children (ages 6–14) generally trusted an age-tailored chatbot and 35% trusted it like a teacher or friend, with about a third willing to confide in it; children also actively tested its credibility with known-answer questions, and trust showed no statistically significant grade-level differences — illustrating how early trust can form ahead of critical evaluation.
+
 Transparency about *what a system is* — not only what it can do — also shapes calibration: the Amico accompaniment prototype made its identity and limits explicit, and its Italy–China pilot found learners recognized it as a bounded support tool rather than an autonomous tutor or relational substitute, avoiding anthropomorphic over-trust ([[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]).
 
 In higher-education institutions, the lever may be usefulness rather than rules: a survey of 2,121 students, faculty and staff at one university found perceived usefulness the strongest correlate of trust in AI (β = 0.402), with perceived policy clarity positive but weaker (β = 0.223) ([[ai-adaptation-gap-higher-education-2026|Braun & Khafizov, 2026]]).

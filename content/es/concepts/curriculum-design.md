@@ -1,7 +1,7 @@
 ---
 title: Diseño curricular
 created: "2026-09-25T04:31:16-04:00"
-updated: "2026-10-02T22:25:26-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -12,7 +12,7 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/curriculum-design
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -50,12 +50,16 @@ Al revisar el cambio como algo sistémico y no aditivo, [[rewriting-curriculum-g
 **La integración de la alfabetización en IA** integra competencias en IA en todas las disciplinas. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** ofrece un marco de alfabetización en IA andamiado y aplicable a todas las edades y etapas educativas, que aborda las [[digital-divide|brechas digitales]] de segundo y tercer nivel. **[[tracing-genai-literacy-interaction-patterns]]** examina cómo se desarrolla la alfabetización en IA a través de patrones de interacción. **[[hingle-collaborative-ai-literacy-2025]]** explora enfoques colaborativos para el desarrollo de currículos de alfabetización en IA, en conexión con el [[collaborative-learning|aprendizaje colaborativo]].
 
 LearnAI muestra cómo se ve una versión integrada: una capa de amplia exposición con presentaciones breves dentro de 18 cursos existentes de cinco disciplinas (293 estudiantes), combinada con sesiones optativas de cocreación individual dirigidas por tutores pares de grado formados, de modo que el estudiantado de niveles mixtos se enfrenta a las tareas de IA a su propio nivel ([[learnai-just-in-time-ai-cocreation-university-2026|Qu et al. (2026)]]).
+
 La integración en la práctica va por detrás de los marcos. [[critical-media-literacy-education-2026|Santos-Albardía et al. (2025)]] encontraron que solo el 13,8% del estudiantado encuestado de educación y periodismo decía que sus asignaturas abordaban el análisis crítico de medios, frente al 97,8% que lo valoraba como importante, y sus entrevistas a expertos situaron la brecha en una formación docente que prioriza las habilidades técnicas e instruccionales sobre la educación mediática.
+
 Una revisión PRISMA de 39 estudios STEAM (2016–2025) encontró un desequilibrio paralelo en los elementos de alfabetización en IA: las implementaciones desarrollaban alfabetizaciones técnicas —conceptos fundamentales de IA, pensamiento computacional, alfabetización de datos— mientras dejaban poco desarrolladas la conciencia ética, la imaginación creativa y el crear, gestionar y diseñar con IA, por lo que auditar cada unidad frente a ellas es la respuesta práctica ([[niri-steam-ai-literacy-review-2026|Niri et al., 2026]]).
 
 
 La voz del estudiantado es otra entrada de diseño: el 84% de 166 estudiantes de último curso de empresariales quería que se enseñara IA generativa en sus asignaturas y el 85% la veía esencial para la empleabilidad, mientras que solo el 7% había aprendido sobre ella en su universidad ([[rook-plumb-genai-curricula-student-insights-2026|Rook y Plumb (2026)]]).
+
 Una revisión de 42 estudios sobre educación en IA preuniversitaria encuentra currículos que pasan del contenido técnico a modelos basados en competencias construidos sobre marcos como AI4K12 y las Cinco Grandes Ideas de la IA, con la [[ai-literacy|alfabetización en IA]] tratada como competencia transversal mientras siguen ausentes instrumentos estandarizados para evaluarla ([[caruana-pre-university-ai-education-slr-2026|Caruana et al. (2026)]]).
+
 El profesorado y los empleadores coincidieron en la importancia de solo una de 26 habilidades en IA —fijar expectativas realistas para el trabajo aumentado por IA— y solo tres de las 26 eran enseñadas por la mitad o más del profesorado, la evidencia del informe de una brecha de habilidades en IA entre la educación superior y los empleadores ([[ithaka-sr-ai-skills-college-graduates-2026|Fried (2026)]]).
 
 El diseño de actividades de aprendizaje automático en K-12 se queda en la superficie: una revisión tras el marco ICE-T encontró que el uso invisible, la interacción de botones y el despliegue de modelos representan casi el 60% de las actividades de aprendizaje supervisado codificadas, la creación abierta apareció solo dos veces y las perspectivas técnica y societal coincidieron en solo alrededor del 3% de las actividades ([[icet-ml-education-trust-2026|Haritz et al., 2026]]).

@@ -1,7 +1,7 @@
 ---
 title: Pensamiento crítico
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-10-02T23:55:01-04:00"
+updated: "2026-10-03T02:57:43-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -10,18 +10,18 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-09-30T10:54:00-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [pressing-prompts, student-guide-to-ai]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-09-25"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-25"
+    date: "2026-09-28"
     agent: hermes-agent
 ---
 
@@ -40,6 +40,7 @@ ai_assist:
 ## Introducción
 
 El pensamiento crítico es central para la [[ai-literacy|alfabetización en IA]]: el estudiantado que no puede evaluar críticamente las salidas de la IA es vulnerable a la [[cognitive-offloading|dependencia excesiva]], a la [[hallucination-risk|información alucinada]] y a las recomendaciones sesgadas. La investigación sobre la [[cognitive-offloading|descarga cognitiva]] muestra que el acceso fácil a las respuestas de la IA puede desplazar la implicación crítica, mientras que los [[socratic-method|enfoques socráticos]] que retienen las respuestas directas preservan el esfuerzo cognitivo necesario para un pensamiento más profundo.
+
 El control estructurado del diálogo, y no un mejor prompt, es lo que separa a un tutor de falacias de un chatbot de debate: enrutar cada turno por una detección de intención basada en Toulmin, un orden fijo de estrategias y un agente verificador permitió que un sistema socrático superara el 84,5% de las métricas de calidad del diálogo frente al 61,5% de una línea base heurística ([[lftutor-logical-fallacy-education-2026|Shi et al. (2026)]]).
 
 ### El pensamiento crítico en la investigación sobre la IA en la educación
@@ -51,6 +52,7 @@ El vínculo entre el uso de IA generativa y el pensamiento crítico autoinformad
 **Un ancla metaanalítica para la afirmación sobre la moderación.** A lo largo de 29 experimentos, la IA generativa elevó moderadamente el pensamiento de orden superior (g = 0,609), con el pensamiento crítico en un ES = 0,691 —por debajo de la resolución de problemas (0,745) y por encima de la creatividad (0,444)—, más fuerte para intervenciones de 8 a 16 semanas (0,759) y para quienes aprenden con alta autorregulación (0,863 frente a 0,284) ([[zhao-genai-higher-order-thinking-meta-2026|Zhao et al. (2025)]]).
 
 [[chatgpt-critical-creative-thinking-review|Las revisiones del impacto de ChatGPT en el pensamiento]] documentan hallazgos mixtos: la IA puede [[scaffolding|andamiar]] el análisis crítico cuando se usa de forma deliberada (por ejemplo, pidiendo al estudiantado que critique argumentos generados por IA), pero también puede cortocircuitar el pensamiento cuando se usa como máquina de respuestas. Esta tensión conecta con la investigación sobre el [[ai-literacy-assessment-misalignment|desajuste en la evaluación de la alfabetización en IA]], que muestra que la competencia en IA autoinformada supera con creces la capacidad real de evaluación crítica. Una revisión crítica de 80 estudios de HCI sobre el pensamiento crítico con IA encontró que el campo mide lo que rara vez define: solo 23 de los 80 declararon cómo entendían el pensamiento crítico, 49 (61%) lo evaluaron mediante autoinforme y no mediante desempeño, y 42 (52%) no usaron grupo de control ([[critical-review-critical-thinking-hci-research-ai-2026]]).
+
 [[critical-thinking-paradox-genai-learning-2026|Lin y Al-Hada (2026)]] leen ese panorama mixto como una disociación producto-proceso: la IA generativa puede elevar la calidad de un trabajo mientras reduce la transferencia no asistida y diferida que hay detrás, así que el aprendizaje debería juzgarse por el desempeño no asistido y diferido y no por el producto asistido por IA.
 
 - **Implicación cognitiva de orden superior en el chat entre estudiantado e IA.** Chang y Li (2026) encuentran que ~62% de las indicaciones del estudiantado a la IA codifican una demanda cognitiva de orden superior, con perfiles por nivel de Bloom que varían según la disciplina ([[stem-education|STEM]], con predominio de Aplicar, 20,8%; idiomas, con predominio de Comprender, 31,7%; ciencias sociales, con predominio de Crear, 33,8%). Su diseño intrapersonal muestra que los mismos estudiantes producen significativamente más indicaciones de orden superior en ciencias sociales que en cursos de STEM (p < .001), lo que indica que el contexto disciplinar da forma a la implicación crítica y de orden superior con la IA.
