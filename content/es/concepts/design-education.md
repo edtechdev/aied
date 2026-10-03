@@ -1,7 +1,7 @@
 ---
 title: "Educación en diseño"
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-09-28T18:18:41-04:00"
+updated: "2026-10-03T00:17:27-04:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -12,7 +12,7 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-09-17T14:04:29-04:00"
+source_updated: "2026-10-02T12:40:11-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,8 @@ También es distinta del [[design-thinking|pensamiento de diseño]], un método 
 
 - **El estudiantado negocia con las herramientas en lugar de aceptarlas sin más.** [[t2i-competence-paradox-2026|Liu, Meng y Zhang (2026)]] encuestaron a 417 estudiantes de arte y diseño: la expectativa de rendimiento, la influencia social, el valor de la novedad y la competencia creativa predecían la intención de usar herramientas de texto a imagen, mientras que la expectativa de esfuerzo predecía negativamente, lo que se interpreta como un uso de atajo en los trabajos de curso. Su paradoja de la competencia es que la competencia creativa sostiene la intención pero predice un uso más selectivo a medida que el estudiantado sopesa la autoría y la preservación de habilidades, un problema de [[assessment-validity|validez de la evaluación]] en un taller donde el proceso es el objeto evaluado. [[rana-genai-design-thinking-2025|Rana et al. (2025)]] llegaron a una conclusión compatible a partir de 112 reflexiones en un curso de [[design-thinking|pensamiento de diseño]] de 12 semanas: los beneficios dominaron (86% de sentimiento positivo), las preocupaciones éticas impulsaron el 62% del sentimiento negativo, y la integración con andamiaje llevó al estudiantado del escepticismo a una orientación positiva del 72%.
 
+- **La crítica con IA puede vincularse al artefacto y no al prompt.** [[critsly-design-education-ai-critique-2026|Kadir (2026)]] canaliza la retroalimentación de taller a través de un tablero compartido de diseños, notas y chinchetas y cinco actividades acotadas; el estudio informa de una preparación simulada (78% de 109 etiquetas en «Analyzing» o por encima), no de mejoras de aprendizaje.
+
 ## Formación profesional y regulación
 
 Los problemas de evaluación aquí son inseparables de los profesionales. [[ai-interior-design-malaysia-2026|Syed Abdul Rahman (2026)]] describe a los diseñadores de interiores malasios pasando de ser generadores primarios de formas a mediadores críticos y curadores de la producción de las máquinas, con plataformas de [[visualization|visualización]] que comprimen los plazos mientras los esquemas generados siguen careciendo de especificidad cultural, sensibilidad climática y constructibilidad fiable. Su recomendación curricular es la secuenciación y no la sustitución: CAD/BIM, conocimiento de la construcción y factores humanos antes de la exploración generativa, y criterios que premien el [[critical-thinking|pensamiento crítico]] y la reflexión ética. El lado profesional sigue sin resolverse: la regulación del diseño de interiores está menos formalizada que la de la arquitectura, lo que deja abiertas cuestiones de divulgación, responsabilidad por el error algorítmico y pérdida de cualificación entre profesionales al inicio de su carrera. El análisis se basa en documentos y se limita a un solo país.
@@ -99,3 +101,4 @@ Los problemas de evaluación aquí son inseparables de los profesionales. [[ai-i
 - [[same-ai-different-pathways]]
 - [[yasar-llms-iterative-pedagogical-design-2026]]
 - [[rana-genai-design-thinking-2025]]
+- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: espacio de trabajo de crítica con IA consciente del artefacto para la retroalimentación de taller; estudio de preparación basado en simulación, no en mejoras de aprendizaje

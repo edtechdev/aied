@@ -1,13 +1,13 @@
 ---
 title: Grafo de conocimiento
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-09-28T19:11:29-04:00"
+updated: "2026-10-03T00:17:27-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 confidence: high
 translation_of: concepts/knowledge-graph
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-30T08:39:04-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,7 @@ Los grafos de conocimiento son un mecanismo estructural recurrente en la [[resea
 - Los modelos de **[[knowledge-tracing|seguimiento del conocimiento]]** usan grafos de conceptos para propagar las estimaciones de dominio del estudiantado entre habilidades relacionadas, mejorando la precisión de la predicción cuando los datos son escasos.
 - Los sistemas de **[[student-modeling|modelado del estudiantado]]** aprovechan los grafos de conocimiento para representar lo que quien aprende sabe de forma semánticamente significativa, habilitando un diagnóstico fino.
 - Las plataformas de **[[adaptive-learning|aprendizaje adaptativo]]** usan grafos de prerrequisitos para secuenciar el contenido y recomendar itinerarios de [[personalized-learning|aprendizaje personalizado]].
+- **La elección de algoritmo sobre el grafo cambia los resultados.** En G4L, propagar el dominio a través de un Evolving Knowledge Space Graph con propagación bayesiana del conocimiento produjo un +24% de conocimiento medido (0.717 → 0.887), frente a un +5% de la Knowledge Space Theory y un +1% de la Weighted Distance Dependent Induction ([[graph-its-adaptive-algorithms-2026|Csépányi-Fürjes y Kovács, 2026]]).
 - Los marcos de **[[cognitive-diagnosis|diagnóstico cognitivo]]** como [[xie-hillm-cd-2026|HiLLM-CD]] construyen árboles de conceptos a partir de texto educativo usando LLM, eliminando la anotación manual.
 - **Tutoría aumentada con grafos de conocimiento:** [[quantum-education-its|ITAS]] usa un grafo de conocimiento de conceptos de física cuántica (con relaciones de prerrequisito explícitas) para impulsar un sistema de tutoría multiagente, recorriendo el grafo para seleccionar los siguientes temas de material contraintuitivo.
 - **Modelado de currículos y cursos:** [[coursegraph-cs-course-comparison-2026|CourseGraph]] compara estructuras de cursos de informática entre instituciones usando representaciones de grafo; los [[learnity-graphs-lifelong-learning-framework-2026|grafos Learnity]] modelan itinerarios de [[lifelong-learning|aprendizaje a lo largo de la vida]].
@@ -87,12 +88,8 @@ Los grafos de conocimiento conectan con el [[learning-design|diseño del aprendi
 - [[proprl-prerequisite-relation-learning]] — ProPrL: aprendizaje de relaciones de prerrequisito
 - [[knowledge-gap-detection-ai-tas]] — Detección de lagunas de conocimiento en asistentes docentes de IA
 - [[visual-query-tracer-declarative-logic-learning]] — Trazador visual de consultas para el aprendizaje de la lógica declarativa
-- [[learnopt-exam-cognitive-structure]] — LearnOpt: estructura cognitiva de los exámenes
 - [[fair-explainable-edu-recommendations]] — Recomendaciones educativas justas y explicables
 - [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Recomendación cruzada híbrida FC–GC para recursos didácticos multimodales
-- [[concept-catalyst-engineering-scaffolds]] — Andamiajes de ingeniería de Concept Catalyst
 - [[xie-hillm-cd-2026]] — HiLLM-CD: diagnóstico cognitivo impulsado por LLM
 - [[graph-its-adaptive-algorithms-2026]] — Tutoría inteligente basada en grafos para dominios dinámicos (2026)
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: generación de entornos de aprendizaje
-- [[ai-information-extraction-undergraduate-thesis-2026]] — Extracción de información con IA como apoyo a los trabajos de fin de grado y al aprendizaje basado en la investigación (An et al. 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — El uso de LLM por parte del estudiantado y los límites de la dificultad de las preguntas generadas por IA en cursos de ciencia de datos

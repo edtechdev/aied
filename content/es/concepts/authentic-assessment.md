@@ -1,7 +1,7 @@
 ---
 title: Evaluación auténtica
 created: "2026-09-28T21:06:12-04:00"
-updated: "2026-09-28T21:06:12-04:00"
+updated: "2026-10-02T23:51:29-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -11,7 +11,7 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-09-26T07:13:32-04:00"
+source_updated: "2026-10-02T14:30:18-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ La evaluación auténtica está en el centro de cómo se repiensa la [[assessmen
 
 [[zhan-boud-du-authentic-assessment-scoping-review-2025|La revisión de alcance de Zhan, Boud y Du (2025)]] de 37 estudios empíricos (2000-2024) propone seis dimensiones de diseño: (1) autenticidad en la evaluación (autenticidad de la evaluación, profesional, digital, personal y social; solo 3 de 37 estudios abordaron la autenticidad social, una brecha crítica), (2) desafíos cognitivos, (3) criterios de evaluación (con un estudiantado que suele ser receptor pasivo y no coautor de las rúbricas), (4) retroalimentación (predominantemente formativa, pero con escasa retroalimentación sostenible), (5) [[agency|agencia del estudiantado]] (la elección de qué, cómo, cuándo y dónde entregar era poco frecuente) y (6) colaboración social. También propone un modelo cíclico de codiseño — negociar objetivos, crear contexto, codiseñar criterios, planificar la retroalimentación — que las herramientas de IA podrían operacionalizar.
 
+[[dollinger-equitable-assessment-ai-2026|Dollinger y Nieminen (2026)]] acotan este optimismo con la *paradoja de la evaluación inclusiva*: tanto el modelo de adaptaciones como las críticas estructurales que reencuadran la evaluación como discapacitante dejan intacta la lógica de suma cero de que «para que un estudiante tenga éxito, otro tiene que fracasar», así que las formas distribuidas y agénticas deben cambiar esa lógica y no solo ampliar el acceso.
+
 ## La evaluación auténtica en la era de la IA
 
 La literatura de rediseño de la evaluación de la base de conocimiento sostiene que la autenticidad debe **rediseñarse, no vigilarse**:
@@ -56,10 +58,17 @@ La literatura de rediseño de la evaluación de la base de conocimiento sostiene
 - [[beyond-detection-authentic-assessment-ai-2025|Más allá de la detección]] sostiene que la autenticidad no puede imponerse por vigilancia; hay que diseñarla, posicionando la IA como colaboradora declarada en lugar de como aplicación para hacer trampas, y priorizando la evaluación auténtica y [[process-oriented-assessment|basada en procesos]] por encima de la vigilancia.
 - [[responsible-assessment-ai-era-stanford-2026|La evaluación responsable]] reencuadra la evaluación en torno a evidencia de validez y tareas auténticas que reflejan el trabajo futuro del estudiantado.
 - [[authentic-products-authenticated-processes-2026|Productos auténticos, procesos autenticados]] examina cómo la [[higher-ed|educación superior]] rica en IA puede evaluar tanto los productos genuinos como los procesos que los produjeron.
+
+- **Una IA socia de redacción sigue dejando el juicio en manos humanas.** [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] pilotaron un diseñador de evaluación GPT-4.1 con ocho coordinadores: produjo panorámicas, tareas, criterios, cronogramas y rúbricas utilizables, pero falló repetidamente en el contexto disciplinar y la secuenciación de los temas, y los ocho rechazaron la automatización de principio a fin, situando el [[evaluative-judgment|juicio académico]] en las personas y no en el modelo.
 - [[tool-invariant-framework-agentic-ai|El marco invariante a la herramienta]] aboga por evaluar métodos y procesos computacionales en lugar de productos específicos de una herramienta, mediante defensa oral y verificación.
+- **Infraestructura institucional para la evidencia de proceso.** Un marco de aseguramiento de la calidad encargado convierte el argumento del proceso en política, tratando los rastros del proceso de aprendizaje — ediciones con marca temporal, uso de recursos, indicaciones metacognitivas — como la evidencia duradera que un expediente académico no puede mostrar, y citando características del proceso que explican más varianza en el desempeño que las características del producto por sí solas ([[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]).
+
+- **Evaluación oral escalable, con una advertencia sobre la puntuación.** [[asynchronous-oral-assessment-2026|Pentland, Lowenthal y Krier (2026)]] administraron respuestas grabadas, de tiempo limitado y no revisables, calificadas con rúbricas integradas, y encontraron que el estudiantado superó sus exámenes presenciales de opción múltiple; subrayan que se trata de un efecto de formato y no de una [[learning-gains|ganancia de aprendizaje]], con una recalificación por LLM que coincidió con la instructora en ICC = 0.73 y 0.60.
 - [[fenton-oral-exams-ai-authentic-assessment-2025|Reconsiderar los exámenes orales]] sitúa el examen o la evaluación oral como alternativa auténtica de baja tecnología e intrínsecamente resistente a la IA: su diálogo en tiempo real e interactivo pone a prueba la comprensión, el [[critical-thinking|pensamiento crítico]] y el razonamiento (no la memorización), refleja la práctica profesional e impide que el estudiantado use IA para generar y memorizar respuestas. Ofrece un conjunto concreto de recomendaciones prácticas (rúbricas claras, contenido estandarizado, formación de quienes evalúan, directrices de [[prompt-engineering|prompting]] y [[bias-mitigation|mitigación de sesgos]]) para reintroducir la [[oral-assessment|evaluación oral]] en la secundaria y en la educación superior.
 - [[eportfolio|La evaluación mediante portafolios electrónicos]] es otra forma auténtica y basada en procesos que resiste la fabricación con IA: [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud y Du (2025)]] identifican los portafolios de contribución social entre las formas auténticas más robustas frente a la IA generativa, y [[beyond-detection-authentic-assessment-ai-2025|Más allá de la detección]] recomienda portafolios anotados y recorridos grabados que sondean el razonamiento en tiempo real. [[ni-lam-multiliteracies-ai-portfolio-2026|Ni y Lam (2026)]] y [[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]] muestran que la IA generativa puede asistir el proceso del portafolio — retroalimentación, redacción, reflexión — mientras los rastros de razonamiento y los borradores del portafolio preservan la autenticidad.
 - **Los criterios de autenticidad pueden contener por sí mismos el uso de IA.** [[chen-zou-genai-group-assessment-agency-2026|Chen y Zou (2026)]] encontraron que una rúbrica que exigía al estudiantado fundamentar una presentación de grupo en su propia experiencia docente de primera mano, y reflexionar sobre observaciones de aula compartidas, llevó a siete de quince grupos de estudiantes a *reducir deliberadamente* su uso de IA generativa. El estudiantado argumentaba que la herramienta no podía satisfacer la exigencia epistémica — «la IA solo conoce el momento en que escribes» — porque carecía del conocimiento longitudinal y situado que tenían sus compañeros y el [[teacher-role|profesorado]]. Importaban ambas capas: la autenticidad de la tarea y la autenticidad relacional de aportar el propio pensamiento a un grupo, lo que reencuadró el uso intensivo de IA como aprovecharse del trabajo de los compañeros. La implicación de diseño es que los criterios auténticos y anclados en la experiencia hacen trabajo evaluativo incluso sin aplicación coercitiva: aportan una razón para la contención que las declaraciones de política no pueden dar.
+
+- **Emparejar una tarea vulnerable con otra menos vulnerable.** [[roe-assessment-twins-2026|Roe, Perkins y Giray (2026)]] emparejan una tarea vulnerable a la IA generativa con una segunda que evalúa los mismos resultados, las programan muy juntas para que cada una pueda contrastar a la otra, y hacen que la nota sea interdependiente mediante un umbral confirmatorio o una ponderación.
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] sostiene que el diseño orientado a la integridad y el diseño auténtico no son lo mismo, y que la diferencia es epistémica y no estilística. La autenticidad pregunta si una tarea refleja una práctica valiosa del mundo real; el diseño orientado a la integridad pregunta si quienes aprenden pueden justificar sus decisiones y asumir responsabilidad con respecto a los estándares disciplinares, lo que convierte la integridad en un criterio explícito y evaluable integrado en la arquitectura de la tarea y no en un subproducto incidental del realismo. Las prácticas que propone — rastros de decisiones anotados, verificación de las afirmaciones aportadas por IA generativa, defensa oral y responsabilidad dialógica, diferencias entre borradores con historial de versiones — son formas reconocibles de evaluación auténtica, pero se seleccionan por el [[evaluative-judgment|juicio]] que hacen visible y no por su realismo, lo que es una corrección útil para tareas que parecen auténticas y siguen siendo falsificables en el fondo. Su advertencia corresponde también a esta página: exigir razonamiento documentado privilegia a quienes aprenden con más fluidez en el discurso reflexivo, y el juicio como evidencia «sigue siendo relacional y situado en lugar de verificable mecánicamente», así que el diseño carga con su propia responsabilidad de fiabilidad interpretativa.
 
@@ -68,6 +77,8 @@ La literatura de rediseño de la evaluación de la base de conocimiento sostiene
 ## Cuando la práctica docente se repliega a los formatos vigilados
 
 La base de conocimiento sostiene que la autenticidad debe diseñarse y no vigilarse, y [[teacher-educators-ai-integration-preservice-2026|Goldstein, Marae-Haj y Zidan (2026)]] aportan la contraevidencia desde la práctica: tras una crisis de confianza en la que futuros docentes entregaron trabajo generado por IA sin editar como propio, formadores de docentes de siete colegios israelíes rediseñaron la evaluación en torno a evidencia de proceso (prompts, historial de versiones de documentos, contribuciones de grupo monitorizadas) y al desempeño en clase, pero varios describieron también haber recurrido, como último recurso, a exámenes supervisados y a defensas orales previstas sobre las tesis, y una persona participante calificó la vuelta a los exámenes de personalmente dolorosa aunque inevitable. Leído frente a la posición que prioriza el diseño, el hallazgo señala un modo de fallo y no una solución: cuando la autenticidad no se rediseña de antemano, la respuesta práctica ante un trabajo entregado no evaluable es reinstaurar el control — la vigilancia con otro nombre —, lo que reintroduce precisamente los formatos que la literatura sobre evaluación auténtica intenta superar. También muestra el coste sentido de la alternativa: las personas participantes informaron de que sus evaluaciones escritas para llevar a casa ya no podían evidenciar aprendizaje alguno, y que la documentación de procesos exigía trabajo real para establecerse.
+
+Un segundo modo de fallo anida dentro del propio rediseño: en cinco métodos de enseñanza de idiomas en línea, las tensiones relacionadas con la autenticidad dominaron los relatos del profesorado (11 de 20), incluida la corrosión del realismo de la tarea — actividades rediseñadas para ser resistentes a la IA en lugar de auténticas ([[ai-ethics-tensions-online-pedagogy-2026|Baoyi y Khan (2026)]]).
 
 El repliegue conlleva un coste probatorio que la evidencia de los expedientes hace visible. [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] codificaron 1.162 acusaciones de mala conducta con IA generativa y encontraron que los tipos de evidencia más sólidos los genera la investigación o la supervisión y no la acusación, y que la evidencia de proceso — como borradores, reuniones de supervisión y presentaciones — solo aparece donde esas prácticas ya existen; así que en una evaluación sin rediseñar la evidencia de proceso que recomienda esta literatura simplemente no está disponible, y los casos se apoyan en categorías más débiles. Lo que la sustituye es el material más débil de su corpus: la salida del [[ai-detection|detector]] obtuvo las valoraciones probatorias más bajas de todas las categorías, y [[hadra-ai-detector-accuracy-efl-2026|Hadra et al. (2026)]] muestran por qué, con una precisión macro de 0,69 (Originality) y 0,61 (Turnitin) en 192 textos, un fallo casi total en la escritura híbrida humano-IA y una tendencia limítrofe a malinterpretar el trabajo del estudiantado de inglés como lengua extranjera como IA. [[wright-transcription-not-generation-2026|Wright (2026)]] añade la dimensión del diseño de reglas: las prohibiciones redactadas según la identidad de la plataforma y no según su función son sobrerrestrictivas por accidente definicional, así que un formato vigilado puede sancionar a un estudiante que no hizo lo que la regla pretendía impedir, y la sanción recae con más fuerza sobre quienes dependían de herramientas de transcripción por [[accessibility|accesibilidad]]. Leído en conjunto, el repliegue sustituye la evidencia menos probatoria disponible por la evidencia de proceso que el diseño auténtico habría generado desde el principio.
 
@@ -78,10 +89,15 @@ El repliegue conlleva un coste probatorio que la evidencia de los expedientes ha
 ## Implicaciones para la IA en la educación
 
 - **Tipos de evaluación resistentes a la IA:** las demostraciones en vivo, los portafolios de contribución social, los artefactos cocreados con procedencia auditable y la interacción [[embodied-learning|corporeizada]] en tiempo real son más resilientes a la IA generativa que los ensayos para llevar a casa o las preguntas de opción múltiple.
+- **La exposición es mensurable.** Un título de psicología de tres años resultó aprobable en un 90%: ChatGPT produjo resultados adecuados en 36 de 40 evaluaciones de asignatura, y solo las cuatro tareas que exigían presencia, un artefacto visual o los propios datos del estudiante resistieron ([[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]]).
 - **Codiseño a escala:** las herramientas de IA podrían permitir el codiseño de rúbricas y la cocreación de parámetros de evaluación por parte del estudiantado a escala de aula o de [[online-teaching-and-learning|MOOC]], aunque la agencia mediada por máquinas debe diseñarse con cuidado.
 - **Abordar la brecha de autenticidad social:** solo 3 de 37 estudios abordaron cuestiones sociales; las herramientas de evaluación con IA deberían ayudar al estudiantado a contribuir a la transformación social, no solo a simularla.
 - **Retroalimentación sostenible:** la [[ai-feedback-quality|retroalimentación con IA]] debe diseñarse para transferirse a contextos futuros, no solo para ofrecer correcciones reactivas y momentáneas.
+
+- **La medición centrada en el proceso ya cuenta con evidencia de validez.** [[assessing-student-drive-framework-2025|Oliveira et al. (2025)]] puntuaron 70 ensayos calificados según cómo el estudiantado guiaba un diálogo con IA generativa y hacía visible el conocimiento del curso; esas puntuaciones de proceso se correlacionaron r = 0.54 con las puntuaciones tradicionales de los ensayos, a la vez que premiaban el trabajo conceptual por encima de la especificación estructurada de la tarea.
 - **La evaluación auténtica encaja en campos orientados a la práctica.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais y Galy (2026)]] encuentran que la evaluación auténtica encaja especialmente bien en la [[business-education|educación en gestión]]: las tareas que reflejan problemas profesionales reales (proyectos de consultoría en vivo, [[visualization|cuadros de mando]] con informes para la dirección) se alinean con el enfoque del campo, orientado a la práctica y a la [[career-development-and-readiness|empleabilidad]], y pueden sostener alternativas inclusivas y preservadoras de la integridad frente a una evaluación centrada en exámenes en la era de la IA generativa. Sin embargo, en su revisión de 58 artículos de cuatro revistas de educación en gestión, la evaluación auténtica aparecía sobre todo a través de [[simulation|simulaciones]] mediadas por tecnología y a menudo se confundía con el [[experiential-learning|aprendizaje experiencial]], una brecha terminológica que puede oscurecer su valor y su adopción más amplios.
+
+- **La autenticidad no es seguridad, y la brecha es visible a escala sectorial.** Donde la auditoría de un solo título anterior encontró que el 90% de las tareas de asignatura eran aprobables, [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] sitúa las presentaciones grabadas, los proyectos grupales remotos y los artefactos digitales no supervisados en la franja de alta exposición a lo largo de 53,915 ítems, porque el registro público no muestra nada sobre cómo se supervisó su producción.
 
 ## Conceptos conectados
 - [[learner-identity]] — identidades de quien aprende en evolución: disciplinar, profesional, creativa y académica
@@ -106,7 +122,6 @@ El repliegue conlleva un coste probatorio que la evidencia de los expedientes ha
 ## Artículos conectados
 
 - [[thapa-lewis-process-oriented-assessment-2026]] — evaluación orientada a procesos y autenticidad epistémica como aquello que una tarea debería autenticar
-- [[evaluation-age-ai-output-evidence-2026]] — La evaluación en la era de la IA
 - [[ivory-psychology-assessment-integrity-2026]] — Lo que la IA no pudo superar: presencia, artefactos visuales y los propios datos del estudiante (Ivory et al. 2026)
 - [[paternalistic-filter-llm-history-education]] — Uso paternalista de la IA e identidad del estudiantado en la enseñanza de la historia
 - [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
@@ -115,12 +130,9 @@ El repliegue conlleva un coste probatorio que la evidencia de los expedientes ha
 - [[pedlow-genai-selfassessment-2026]]
 - [[dollinger-equitable-assessment-ai-2026]]
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[nicola-richmond-programwide-assessment-genai-2025]]
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[espino-ai-business-education-review-2026]]
 - [[genai-simulate-patient-history-pbl-2026]]
 - [[pbl-structural-conditions-ai-2026]]
-- [[best-response-student-ai-dialog-2026]]
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Diseñar para la evaluación auténtica: una revisión de alcance
 - [[beyond-detection-authentic-assessment-ai-2025]] — Más allá de la detección: evaluación auténtica
 - [[responsible-assessment-ai-era-stanford-2026]] — La evaluación responsable en la era de la IA
@@ -133,7 +145,6 @@ El repliegue conlleva un coste probatorio que la evidencia de los expedientes ha
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsiderar los exámenes orales como evaluación auténtica y resistente a la IA
 - [[roe-assessment-twins-2026]] — Gemelos de evaluación para reforzar la validez de la evaluación en la era de la IA generativa (Roe, Perkins y Giray 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Capacidades adaptativas para asegurar un aprendizaje de calidad en un futuro integrado con IA generativa (Lodge et al. 2026)
-- [[bassett-ai-detectors-education-2026]] — Cara gano yo, cruz pierdes tú: los detectores de IA en la educación (Bassett et al. 2026)
 - [[asynchronous-oral-assessment-2026]] — Evaluaciones orales asíncronas en la era de la IA (Pentland 2026)
 - [[assessing-student-drive-framework-2025]] — DRIVE: evaluar el aprendizaje a través de la interacción con IA generativa (DRI + experiencia visible)
 - [[mesny-innovative-assessment-grading-management-2026]]
@@ -144,4 +155,6 @@ El repliegue conlleva un coste probatorio que la evidencia de los expedientes ha
 - [[hadra-ai-detector-accuracy-efl-2026]] — Precisión de los detectores y fallo en la escritura híbrida: por qué la detección es una evidencia de respaldo débil (Hadra et al. 2026)
 - [[wright-transcription-not-generation-2026]] — Prohibiciones de IA sobrerrestrictivas: la transcripción no es generación (Wright 2026)
 - [[authentic-assessments-generative-ai-pilot-2026]] — Diseñar evaluaciones auténticas con IA generativa: un estudio piloto de Assessment Authentifire en educación superior
-- [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus deberes. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en informática en la era de la IA generativa
+
+- [[ai-ethics-tensions-online-pedagogy-2026]] — Corrosión del realismo de la tarea: el rediseño resistente a la IA erosiona la autenticidad en la enseñanza de idiomas en línea
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Los formatos de apariencia auténtica (presentaciones grabadas, proyectos grupales remotos, artefactos digitales) puntúan alto a lo largo de 53,915 ítems: la autenticidad no verifica la autoría

@@ -1,12 +1,12 @@
 ---
 title: Análisis de perfiles latentes
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-09-28T22:26:08-04:00"
+updated: "2026-10-02T23:55:01-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-09-28T22:26:08-04:00"
+source_updated: "2026-09-30T12:53:22-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,7 @@ El agrupamiento ordinario ([[machine-learning|k-means]] y jerárquico) persigue 
 Se repiten tres usos.
 
 - **Establecer la heterogeneidad antes de diseñar para ella.** La encuesta de Kremen y sus colegas a 395 directivos ucranianos de la educación usó un LCA centrado en las personas para mostrar que «el directivo» es una ficción: seis tipologías van desde la limitada por competencias (25,6 por ciento, dispuesta pero sin habilidades) hasta los escépticos sin barreras (la preparación más alta, pero con un 74 por ciento de desconfianza hacia la IA), y los autores las leen como un mandato de formación diferenciada.
+- **La alineación entre sistemas como comprobación de estabilidad.** [[teachers-ai-belief-profiles-talis-2024-2026|Fang y Jin (2026)]] retuvieron cuatro perfiles de creencias a partir de 40,680 docentes de 49 sistemas educativos (de Indiferente 6.13% a Respaldó mesurado 56.29%), y cambiar la referencia de alineación dejó la concordancia de clasificación en 99.62% —mientras que la utilidad ordenó los perfiles de forma idéntica en los 49 sistemas y el riesgo no lo hizo.
 - **Recuperar subgrupos que un agregado oculta.** Acquah y sus colegas retuvieron cinco perfiles de conciencia ética, desde la muy alta integral (26,1 por ciento) hasta la conciencia ética baja (4,5 por ciento, beneficencia 2,06), un abanico que va de algo más de una cuarta parte de la muestra a menos de una vigésima parte. Chen y sus colegas encontraron que los escépticos reacios declaraban una facilidad de uso percibida alta, pero una intención conductual muy baja: la demostración más clara del corpus de que la paradoja entre facilidad de uso e intención es invisible para un modelo de nivel medio.
 - **Perfilar la calibración en lugar del nivel.** El estudio sobre la alfabetización en IA del profesorado aplicó el LPA a la concordancia entre las [[self-report-measures|autodeclaraciones]] y las medidas objetivas, y obtuvo seis perfiles: sobreestimación, subestimación, alineación y un grupo bajo/bajo concentrado entre el profesorado sin experiencia previa en [[ai-literacy|alfabetización en IA]]. Aquí los perfiles describen un patrón entre instrumentos, no una banda de puntuación.
 
@@ -60,6 +61,9 @@ Ninguna estadística por sí sola selecciona la solución; el corpus trata la re
 - **[[explainable-ai|Interpretabilidad]] y tamaño de los perfiles.** El estudio de perfilado de la confianza en la IA mantuvo tres conglomerados aunque el índice de Calinski–Harabasz prefería dos, porque tres eran interpretables, y señala que un coeficiente de silueta de 0,288 apunta a una separación débil o limítrofe. Chen y sus colegas advierten de que su perfil más pequeño (14,06 por ciento de 128 casos) puede ser inestable, y el perfil más pequeño del estudio ghanés contiene solo 23 estudiantes, que sus autores proponen fusionar.
 - **Estabilidad bajo remuestreo.** La estabilidad por bootstrap es la comprobación honesta de si los perfiles reaparecerían en una nueva muestra: el índice Rand ajustado medio fue de 0,385 para la solución ucraniana de seis clases, pero de 0,989 a lo largo de 100 inicializaciones aleatorias en el estudio sobre la confianza en la IA: el mismo diseño nominal, un peso probatorio muy distinto.
 - **Las pruebas de razón de verosimilitud por bootstrap (BLRT)** y la prueba de Lo–Mendell–Rubin son compañeras habituales del BIC y la entropía en la literatura más amplia sobre modelado de mezclas, pero los estudios de perfiles de esta base de conocimiento no las informan. Cuando una página informa solo de BIC y entropía, trate el número de clases como provisional.
+
+- **La comprobación de razón de verosimilitud que este corpus por lo demás omite.** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] retuvieron cuatro perfiles (entropía 0.824) de 379 estudiantes de empresa e informaron de la decisión de Lo–Mendell–Rubin: significativa en cuatro (p = 0.035) y no significativa en cinco (p = 0.376).
+- **Retención defendida con la solución rival y una prueba de razón de verosimilitud.** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et al. (2026)]] informan de que una solución de cuatro perfiles se ajustaba ligeramente mejor a los 102 estudiantes, pero no mejoraba de forma significativa y dejaba la clase más pequeña en 12.7 por ciento, así que retienen tres perfiles (entropía .89) en lugar del modelo que mejor ajustaba numéricamente. Informar de la solución perdedora y de lo que la descalificó es lo que convierte el número de clases retenido en un juicio que quien lee puede comprobar, y la medida de uso de IA de 12 ítems construida a propósito para el estudio —validada en una muestra separada de 85 que los autores califican de preliminar— marca el otro límite de su evidencia.
 
 Informe de las comparaciones, no solo del ganador: una página que dice «retuvimos cinco perfiles» sin la solución rival, los valores de entropía y el tamaño del perfil más pequeño no da a quien lee ninguna forma de juzgar la elección.
 
@@ -95,14 +99,11 @@ Cuatro cautelas, cada una formulada en las páginas de origen:
 - [[technology-acceptance-model]]
 
 ## Artículos conectados
+- [[ai-attitude-latent-profiles-career-development-2026]] — Evidencia de retención de Lo–Mendell–Rubin para cuatro perfiles de actitud hacia la IA en 379 estudiantes de empresa
 
-- [[ai-ethical-awareness-ghana-students-2026]] — Cinco perfiles de conciencia ética; entropía 0,816 (cinco clases) frente a 0,929 (cuatro clases); perfil más pequeño n = 23
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — Seis tipologías de directivos; BIC monotónico entre 2 y 6 clases; estabilidad por bootstrap con ARI medio 0,385
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Cuatro perfiles de aceptación de ChatGPT (entropía 0,985); la paradoja facilidad de uso ≠ intención
-- [[becker-chatgpt-typology-physics-2026]] — LCA sobre indicadores categóricos de 1189 respuestas codificadas; advertencia sobre la inflación de ceros
-- [[ai-literacy-assessment-misalignment]] — LPA sobre la concordancia entre autodeclaración y medida objetiva: seis perfiles de calibración
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Análisis de transición de perfiles latentes en tres oleadas sobre la adaptación psicológica
 - [[liang-ai-learning-motivation-sdt-2026]] — Análisis de transición latente de tres perfiles de motivación a lo largo de un año
 - [[trust-in-ai-psychological-profiles-ml-2026]] — Perfiles de k-means; desacuerdo entre silueta y Calinski–Harabasz; ARI 0,989
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Agrupamiento jerárquico y k-means en cuatro personas de adopción de IA generativa
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — LPA centrado en las personas combinado con comparaciones centradas en las variables
+
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Cuatro perfiles de creencias docentes sobre la IA a partir de 40,680 docentes de 49 sistemas, con estabilidad de alineación

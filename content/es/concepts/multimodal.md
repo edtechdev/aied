@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: IA multimodal
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-09-28T22:21:27-04:00"
+updated: "2026-10-03T00:17:27-04:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -11,7 +11,7 @@ discipline: [stem education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/multimodal
-source_updated: "2026-09-28T22:17:25-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -58,9 +58,12 @@ Cuando los tutores basados en LLM deben resolver problemas que incrustan signifi
 - Los **errores de procesamiento visual** —fallos al extraer información de gráficos o diagramas— dominan la taxonomía de errores y son el modo de fallo más corregible.
 - Una intervención sencilla de diálogo estructurado (pedir al modelo que describa lo que ve, corregir solo las malas lecturas *observables* sin desvelar la física y volver a preguntar) devuelve la precisión a **cerca del 95%** sin ningún reentrenamiento.([[syal-multimodal-dialogue-stem-2026]])
 - Esto es una **preocupación de equidad**: el estudiantado que trabaja con problemas ricos en imágenes —precisamente los problemas que construyen una comprensión conceptual profunda en STEM— recibe actualmente un apoyo de IA menos fiable que quien trabaja con ejercicios solo de texto.
+- **Construir una ayuda visual es más difícil que leerla.** En GeoVAD-Bench, proporcionar un diagrama auxiliar experto elevó la precisión (+3.3 a +7.0 puntos), pero dejar que los modelos construyeran su propia línea auxiliar amplió la brecha en 10.0 a 13.5 puntos: dos modelos puntuaron peor que sin ningún razonamiento visual ([[geovad-bench-visual-chain-of-thought-geometry-2026|Dong et al., 2026]]).
 - **La frontera es un perfil, no un nivel, y las imágenes artísticas quedan fuera de la región que los modelos manejan bien.** [[muse-vlm-artistic-image-benchmark-2026|MUSE (Zhu et al., 2026)]] evalúa 30 VLM abiertos y propietarios en 12 tareas sobre 1.174 obras de arte por encargo, y la dispersión de capacidades entre dimensiones es mayor de lo que sugiere cualquier puntuación agregada: la clasificación de escenas está casi madura (23 de 30 modelos por encima de 75,0, mediana 81,0), mientras que la detección de emociones se queda en 39,5 y las tareas abiertas que exigen que los modelos *articulen* su evidencia puntúan 50,90 (identificación de pistas visuales) y 49,18 (inferencia de la causa de la emoción) en similitud semántica. El razonamiento composicional y dependiente del punto de vista es el que falla más: donde la verdad de referencia no especifica ninguna relación lateral o vertical definida, el 90,0% y el 73,3% de los modelos afirman una de todos modos, solo el 43,3% sitúa correctamente a la chica en profundidad, y ningún modelo resuelve las tres dimensiones de un mismo ítem. Los fallos además se encadenan: un personaje mal anclado se justifica después con una razón fluida construida a partir de la semántica visual cercana (mariposas, pájaros), que es el resultado más peligroso en tutoría porque la explicación se lee como competente. Para el [[language-learning|aprendizaje de idiomas]] basado en imágenes, esto aboga por una validación a nivel de dimensión sobre las imágenes que un curso usa realmente, en lugar de importar una puntuación multimodal general, y por extender el punto de control de anclaje descrito más abajo —describir lo que se ve, y dónde, antes de razonar a partir de ello— al contenido artístico [[situated-learning|situado]] ([[muse-vlm-artistic-image-benchmark-2026]]).
 
 La implicación práctica de diseño es un **punto de control de anclaje visual** en la tutoría multimodal: un paso deliberado en el que el sistema describe lo que ve antes de intentar una solución, dando al estudiante o a una persona supervisora la oportunidad de corregir errores perceptivos.([[syal-multimodal-dialogue-stem-2026]])
+
+[[ai-assisted-physics-lab-report-assessment-2026|Abreu et al. (2026)]] añaden una restricción previa: una ecuación, un gráfico o una unidad pueden aparecer en un informe y, aun así, no recuperarse nunca del documento procesado, de modo que un desacuerdo con el docente puede ser un fallo de extracción y no de razonamiento, lo que convierte el formato de entrega en parte del diseño de la evaluación.
 
 ### 3. Evaluación y medición multimodales
 
@@ -70,6 +73,11 @@ La IA multimodal amplía tanto el *contenido* de la evaluación como la *señal*
 - **La estimación multimodal de la respuesta al ítem** usa LLM multimodales ajustados para reconstruir las curvas características del ítem (TRI / 3PL) directamente a partir de las probabilidades predichas por opción en ítems de imagen y texto, lo que conecta la IA multimodal con la [[educational-measurement|medición educativa]] y la [[item-response-theory|teoría de respuesta al ítem]].([[multimodal-item-parameter-estimation-2026]])
 - **La evaluación de modelos visión-lenguaje educativos** y la [[mllm-scientific-visualization-literacy|alfabetización de los LLM multimodales]] amplían el conjunto de herramientas de evaluación del campo al razonamiento multimodal y la [[visualization|visualización]].([[drawedumath-vlm-struggling-students-2026]])([[mllm-scientific-visualization-literacy]])
 - **La calificación multimodal de [[chemistry-education|química]] manuscrita deja al descubierto una frontera de capacidad dependiente del formato:** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros y Kortemeyer]] calificaron página a página un examen final manuscrito de química general de 296 estudiantes contra imágenes de rúbricas con un LLM multimodal de razonamiento, puntuando de forma fiable las respuestas textuales y las ecuaciones de reacción química (F1 normalizado más alto) pero los dibujos y gráficos *peor que el azar* —las cuadrículas de fondo distraen visualmente a la visión de la IA y los diagramas científicos y las estructuras químicas siguen siendo difíciles de interpretar—, lo que refuerza que la visión de la IA multimodal no es robusta ante el trabajo cargado de representaciones y que es mejor desplegarla con [[human-in-the-loop-ai|deferencia humana]] en los ítems gráficos ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
+- **Reconocer construcciones y juzgar de forma comparativa son habilidades separables.** [[cfes-p24-multimodal-slide-auditing-2026|Ma et al. (2026)]] expresan seis principios de aprendizaje multimedia como ediciones reversibles de diapositivas más controles simulados de equivalencia visual, y encuentran que ambos modelos recuperaron cada operación, principio y reparación (8/8) mientras que la calibración de la severidad falló por completo (0/8): una puntuación compuesta ocultaría qué capa falla.
+
+- **Las ganancias de equidad pueden validarse hasta existir.** Un estimador multimodal de atención superó a una línea base solo visual solo de forma modesta, y su regularizador de brecha de MAE dirigido al género redujo la brecha de validación de 0.02 a 0.005 pero aumentó la brecha y el error del peor grupo en sujetos retenidos, por lo que se exige una validación repetida a nivel de sujeto y consciente de los subgrupos antes del despliegue ([[student-attention-estimation-fairness-2026|Fragkiadakis et al. (2026)]]).
+- **La calificación multimodal puede reproducir un resultado de selección incluso cuando la puntuación a nivel de ítem se queda atrás.** Al calificar 10,364 páginas manuscritas de olimpiada y universidad, un LLM igualó los totales de las personas examinadoras con r = 0.93–0.96 y situó a los mismos cinco estudiantes en el equipo olímpico, aunque la concordancia por partes alcanzó el 70%: evidencia de segundo lector, no un calificador de referencia ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
+- **La generación de diagramas es una frontera de capacidad, no un problema resuelto.** En un banco de 15,246 preguntas de física que puntúa la salida multimodal, sintetizar o editar diagramas de física estructurados resultó más difícil que responder, y los modelos líderes se quedaron por debajo del 70% de dominio estricto, evidencia de que la *producción* visual va por detrás de la *comprensión* visual ([[omniphys-multimodal-physics-benchmark-2026|Chen et al., 2026]]).
 
 ## IA multimodal para el aprendizaje de idiomas y el aprendizaje accesible
 
@@ -82,6 +90,7 @@ Los sistemas multimodales también amplían el acceso y la [[personalized-learni
 3. **Preservar la construcción humana de significado.** La IA multimodal debe aumentar, y no sustituir, la propia construcción y evaluación del significado por parte de quien aprende en los distintos modos.([[multimodal-learning-genai]])
 4. **Extender la evaluación a la validez multimodal.** La [[assessment-validity|validez de la evaluación]], el sesgo y la fiabilidad deben examinarse cuando la IA puntúa o genera artefactos multimodales.([[multimodal-item-parameter-estimation-2026]])([[ai-ed-evaluation]])
 5. **Vigilar la equidad y la privacidad.** El apoyo poco fiable en problemas ricos en imágenes y las exigencias de datos de la detección multimodal conllevan implicaciones tanto de equidad como de privacidad.([[syal-multimodal-dialogue-stem-2026]])([[privacy-aware-classroom-incident-recognition-2026]])
+6. **Ajustar el proceso al contenido.** El LLM multimodal de un asistente de laboratorio de ciberseguridad manejó mejor las diapositivas visuales densas, mientras que un proceso de OCR más LLM ofreció un valor instruccional comparable en diapositivas centradas en el texto a un coste computacional significativamente menor.([[genai-cybersecurity-ocr-multimodal-instruction-2025|Patel et al. (2025)]])
 
 ## Conceptos conectados
 - [[generative-ai]]
@@ -112,7 +121,6 @@ Los sistemas multimodales también amplían el acceso y la [[personalized-learni
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Composición de anuncios de servicio público en vídeo sobre ética de la IA como pedagogía de alfabetización crítica en IA (Burriss et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Modelado con transformadores multimodales conscientes de la equidad para la estimación de la atención del estudiantado en tiempo real
 - [[omniphys-multimodal-physics-benchmark-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
 - [[drawedumath-vlm-struggling-students-2026]] — Rendimiento de los VLM con trabajo matemático manuscrito del estudiantado (DrawEduMath, Lucy et al. 2026)
 - [[multimodal-learning-genai]] — Guía para educadores sobre el aprendizaje multimodal con IA generativa (modelo MMLD-AI)
 - [[syal-multimodal-dialogue-stem-2026]] — El efecto de interferencia multimodal y la recuperación mediante diálogo estructurado en STEM
@@ -129,10 +137,7 @@ Los sistemas multimodales también amplían el acceso y la [[personalized-learni
 - [[privacy-aware-classroom-incident-recognition-2026]] — Detección multimodal de incidentes en el aula respetuosa con la privacidad
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Instrucción multimodal con OCR en la enseñanza de ciberseguridad
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: evaluación de LLM multimodales para la auditoría de diapositivas
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluación de diagramas matemáticos visuales a partir de código generado por LLM
 - [[ai-grading-handwritten-physics-2026]] — Calificación con IA de evaluaciones de física manuscritas (Olimpiada)
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transcripción de vídeo de física accesible matemáticamente con Gemini + LuaLaTeX
-- [[bird-multimodal-educational-literature-2026]] — Fusión multimodal para clasificar literatura educativa
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — Composición multimodal con IA y pensamiento crítico en la escritura de primaria (Lu et al. 2027)
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Más allá de la generación y la precisión: diagnosticar y mejorar la cadena de pensamiento visual para resolver problemas de geometría

@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje a lo largo de la vida
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-09-22T12:00:00-04:00"
+updated: "2026-10-03T00:17:27-04:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
-source_updated: "2026-08-31T06:34:37-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_of: concepts/lifelong-learning
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -41,6 +41,7 @@ El aprendizaje a lo largo de la vida se refiere a la educación continua durante
 - **De los planes de estudio fijos a las estructuras adaptativas:** [[learnity-graphs-lifelong-learning-framework-2026|los grafos Learnity]] proponen repensar los planes de estudio fijos de la educación superior como unidades de conocimiento interconectadas por las que el estudiante puede transitar con flexibilidad a lo largo de toda su vida.
 - **Autonomía y autodirección:** [[andragogy-cognitive-delegation-genai-2026|la andragogía y la delegación cognitiva]] revisan la teoría del aprendizaje de adultos bajo la delegación cognitiva mediada por IA y se preguntan qué queda autodirigido cuando la IA participa en identificar necesidades, fijar metas y producir contenido.
 - **Política y comunidad:** [[ai-lifelong-learning-policy|la IA en las políticas de aprendizaje a lo largo de la vida]] y [[community-centered-ai-education-adults|la educación en IA centrada en la comunidad]] abordan las dimensiones institucionales y de equidad del aprendizaje de adultos con IA.
+- **La regeneración de la experiencia está en riesgo.** En las ocupaciones estadounidenses más expuestas a la IA, las personas trabajadoras de 22 a 25 años sufrieron un descenso relativo del empleo del 16% (oct 2022–sep 2025), mientras que las de 35 a 49 años crecieron más del 8%, y la experiencia profunda necesaria para validar los resultados de la IA depende de los puestos de entrada que ese descenso elimina ([[cognitive-commons-ai-expertise-regeneration|Lovett (2026)]]).
 
 ### Conexiones
 
@@ -71,5 +72,3 @@ El aprendizaje a lo largo de la vida se relaciona con [[adult-learning|el aprend
 - [[ai-lifelong-learning-policy]] — La IA en el aprendizaje a lo largo de la vida: oportunidades y retos en las políticas de educación de adultos
 - [[community-centered-ai-education-adults]] — Codiseño de una educación en IA centrada en la comunidad para personas adultas
 - [[cognitive-commons-ai-expertise-regeneration]] — La tragedia de los bienes comunes cognitivos: la IA y la regeneración de la experiencia
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Capacidades adaptativas para garantizar un aprendizaje de calidad en un futuro integrado con IA generativa (Lodge et al. 2026)
-- [[kim-ai-productive-failure-adult-2026]] — Diseñar sistemas de IA que apoyen el aprendizaje basado en el fallo productivo

@@ -1,14 +1,14 @@
 ---
 title: Partes interesadas
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-09-28T21:41:14-04:00"
+updated: "2026-10-02T23:56:13-04:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/stakeholders
-source_updated: "2026-09-28T21:41:14-04:00"
+source_updated: "2026-10-01T20:35:10-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,8 @@ La [[ai-education|IA en la educación]] trata en el fondo de personas: quienes a
 - **Impactos diferenciados por rol.** La investigación examina cómo la IA afecta de forma distinta a cada audiencia: la [[student-experience|experiencia del estudiantado]] estudia los resultados del estudiantado, el [[teacher-role|rol docente]] estudia la integración pedagógica, [[administrator|responsables de gestión]] estudia la estrategia institucional y el [[educational-development|desarrollo profesional]] estudia el aprendizaje profesional.
 - **Gobernanza con múltiples partes interesadas.** La investigación sobre [[governance|gobernanza]] y [[educational-policy-ai|política educativa sobre IA]] insiste en alinear a las partes interesadas nacionales, institucionales y de aula: los responsables de política fijan las expectativas, la administración implementa, el profesorado adapta y el estudiantado vive el resultado.
 - **Equidad entre audiencias.** La [[equity-in-ai-education|equidad en la IA educativa]] examina cómo se distribuyen los beneficios y los daños de la IA entre quienes aprenden y las instituciones, y conecta a las partes interesadas con la [[bias-mitigation|justicia]] y el acceso.
+
+- **Las diferencias de rol pueden afirmarse más fácilmente que observarse.** Un análisis DAFO de 167 aportaciones de 152 miembros del personal de educación superior encontró que el profesorado, el personal investigador y la administración convergían en las mismas fortalezas y amenazas, mientras que la recogida totalmente anónima dejó los roles sin identificar, de modo que el estudio no pudo poner a prueba su plan de contrastarlos ([[beyond-hype-stakeholder-perceptions-genai-2026|Humble y Mozelius, 2026]]).
 
 ## La identidad a través de las audiencias
 
@@ -90,6 +92,7 @@ La identidad es el ancla humana del panorama de partes interesadas: es lo que la
 - [[k-12]]
 - [[adult-learning]]
 - [[parents-and-families]]
+- [[student-support-and-success]] — quién tiene derecho a reclamar en las decisiones institucionales de apoyo con IA
 
 ## Artículos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: "Transferencia del aprendizaje"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-09-28T20:20:21-04:00"
+updated: "2026-10-02T23:51:29-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -9,7 +9,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-10-01T09:59:06-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,8 @@ ai_assist:
 ## Introducción
 
 La transferencia del aprendizaje es una preocupación fundacional en la [[research-methods-aied|investigación]] educativa, y las herramientas de IA la han vuelto urgente. El patrón empírico definitorio documentado en los estudios sobre IA en la educación es una **paradoja de la transferencia**: el estudiantado que usa IA suele mostrar ganancias inmediatas y medibles en las tareas donde la IA está disponible, pero esas ganancias a menudo no persisten —o incluso se invierten— cuando se retira la IA y el estudiantado debe demostrar su comprensión de forma independiente. Este patrón implica a la [[cognitive-offloading|dependencia excesiva]], a la teoría de la carga cognitiva y a la [[metacognition|metacognición]] como mecanismos en juego, y conecta directamente con los debates sobre el diseño de la [[intelligent-tutoring|tutoría con IA]].
+
+La preparación no es transferencia: la práctica oral asistida por IA se asoció con menor ansiedad al hablar y mayor disposición a comunicarse con personas, pero ninguno de los dos estudios observó el habla humana, lo que deja la ruta de la práctica con IA a la capacidad comunicativa humana como una propuesta pedagógica no puesta a prueba ([[ai-speaking-practice-communicative-readiness-2026|Wang y Li (2026)]]).
 
 ### La paradoja de la transferencia
 
@@ -66,6 +68,7 @@ Los cinco estudios muestran un patrón de **transferencia negativa o nula** cuan
 
 **Desempeño dependiente de la herramienta.** El estudiantado puede optimizar para las posibilidades concretas de la herramienta de IA ([[prompt-engineering|ingeniería de prompts]], dependencia de la estructura del código generado) en lugar de construir generalización de dominio, una forma de [[cognitive-offloading-speedup-illusion|delegación cognitiva]] que se siente productiva pero desplaza el aprendizaje duradero.
 
+Un aula protegida también puede enseñar el hábito equivocado: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai y Zhang (2026)]] advierten de que las simulaciones con reglas fijadas de antemano filtran la incertidumbre y refuerzan el seguimiento de reglas, de modo que los hábitos de decisión formados dentro de ellas pueden convertirse en una carga cognitiva una vez que el estudiantado se enfrenta a intereses contrapuestos y a información incompleta en entornos reales.
 **Delegación sensible a la capa y transferencia.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] pone a prueba directamente la distinción de Salomon, Perkins y Globerson entre «efectos con» y «efectos de» la tecnología en la escritura asistida por [[generative-ai|IA generativa]]: un cuasiexperimento de ocho semanas encontró que la colaboración abierta con IA maximizaba el desempeño en la escritura con apoyo, pero produjo los resultados *más bajos* de transferencia cercana en condiciones independientes sin IA, mientras que un apoyo acotado con reflexión preservaba la competencia independiente. Las capas de delegación más profundas (razonamiento, estructura) predijeron peor transferencia que las capas superficiales (gramática). Es evidencia directa de aula de que las ganancias de rendimiento *con* apoyo no se transfieren al desempeño independiente *sin* apoyo, y de que la profundidad de la delegación, y no solo si se usa IA, da forma a la transferencia.
 
 Un caso complementario, aunque confundido, procede de la [[physics-education|física]]: el rediseño del curso introductorio de física nuclear y de partículas de la Universidad del Ruhr en Bochum ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) hizo que el estudiantado completara con éxito problemas de investigación colaborativos y ricos en recursos con asistencia de IA, pero ese mismo estudiantado promedió 20,6/80 en un examen escrito convencional sin ayuda, y varios intentos serios no lograron completar cálculos estándar. Los autores lo leen como evidencia de que el desempeño asistido no se transfiere automáticamente al desempeño sin indicaciones, y su remedio es un diseño deliberado: hacer del examen escrito el único factor determinante de la nota, publicar los problemas de clase con antelación para que el tiempo de clase se convierta en discusión preparada, y añadir preparación de prerrequisitos, ejemplos resueltos y consolidación en torno al trabajo exploratorio en el que se permite la IA.
@@ -82,6 +85,8 @@ La evidencia limitada sugiere que la transferencia es posible cuando:
 
 - **La transferencia como criterio que separa el aprendizaje de la asistencia.** [[yan-agentivism-learning-theory-ai-2026|Yan y Gašević (2026)]] construyen su teoría del aprendizaje humano-IA en torno a la transferencia con apoyo reducido: el desempeño asistido cuenta como aprendizaje solo si la capacidad persiste una vez retirado el apoyo, lo que convierte la transferencia en la prueba y no en uno más entre varios resultados. Su propuesta es direccional: exigir la comprobación de fuentes o la justificación durante el trabajo apoyado por IA debería mejorar el desempeño diferido, mientras que la delegación repetida y sin fricción, sin reconstrucción, debería debilitar la calibración que las personas que aprenden tienen de su propia competencia.
 
+- **La guía está ubicada junto al trabajo.** Frente al patrón de transferencia negativa de la tabla anterior, una comparación con 36 participantes encontró que quienes recibieron ayuda de un robot de escritorio mantuvieron su puntuación en 7.0/10 una vez retirada la ayuda, mientras que quienes recibieron ayuda de ChatGPT cayeron a 4.4/10, una puntuación de transferencia a corto plazo un 60% mayor ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). El resultado es transferencia a corto plazo medida unos 35 minutos después de la tarea, sin prueba de retención diferida, en 36 participantes de un solo campus.
+
 Esto se alinea con la investigación sobre [[intelligent-tutoring|tutoría con IA]] que muestra que las herramientas específicas para la tutoría con barreras pedagógicas de seguridad superan a los [[conversational-ai|chatbots]] de propósito general, y con los principios del [[scaffolding|andamiaje]] sobre la retirada progresiva del apoyo a medida que crece la competencia.
 
 ### Preguntas sin respuesta
@@ -93,10 +98,11 @@ Esto se alinea con la investigación sobre [[intelligent-tutoring|tutoría con I
 
 ### Conexiones con conceptos relacionados
 
-La transferencia del aprendizaje conecta con la [[metacognition|metacognición]] (automonitorización de la comprensión), la teoría de la carga cognitiva (carga pertinente frente a extrínseca), las [[desirable-difficulties|dificultades deseables]] (esfuerzo productivo), el [[scaffolding|andamiaje]] (retirada progresiva del apoyo), la [[cognitive-offloading|dependencia excesiva]] (dependencia de la herramienta) y el [[sociocultural-learning|aprendizaje sociocultural]] (la IA de propósito general opera fuera de la ZDP al completar el trabajo por el estudiantado). Es el puente entre el desempeño asistido y el aprendizaje genuino: la distinción que representa [[stanford-evidence-base-ai-k12-2026|la base de evidencia de Stanford sobre IA en K-12]] y la pregunta central para la eficacia de la [[intelligent-tutoring|tutoría con IA]].
+La transferencia del aprendizaje conecta con la [[metacognition|metacognición]] (automonitorización de la comprensión), la teoría de la carga cognitiva (carga pertinente frente a extrínseca), las [[desirable-difficulties|dificultades deseables]] (esfuerzo productivo), el [[scaffolding|andamiaje]] (retirada progresiva del apoyo), la [[cognitive-offloading|dependencia excesiva]] (dependencia de la herramienta) y el [[sociocultural-learning|aprendizaje sociocultural]] (la IA de propósito general opera fuera de la ZDP al completar el trabajo por el estudiantado). Es el puente entre el desempeño asistido y el aprendizaje genuino: la distinción que representa [[stanford-evidence-base-ai-k12-2026]] y la pregunta central para la eficacia de la [[intelligent-tutoring|tutoría con IA]].
 
 ## Conceptos conectados
 
+- [[pedagogical-patterns]] — El resultado por el que en última instancia se juzgan la mayoría de estas secuencias
 - [[metacognition]]
 - [[desirable-difficulties]]
 - [[cognitive-offloading]]
@@ -111,19 +117,16 @@ La transferencia del aprendizaje conecta con la [[metacognition|metacognición]]
 - [[yan-agentivism-learning-theory-ai-2026]] — Una teoría de rango medio del aprendizaje para la interacción humano-IA, con cuatro mecanismos y seis proposiciones contrastables (Yan y Gašević 2026)
 
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Delegación cognitiva sensible a la capa en la escritura asistida por IA generativa (Chen 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Sobregeneralización engañosa: el dominio adaptativo puede detener la práctica antes de que quien aprende sepa cuándo abstenerse de actuar (An, McLaren y Stamper 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — La paradoja del pensamiento crítico en el aprendizaje integrado con IA generativa
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[educational-llm-alignment]]
 - [[cognitive-offloading-speedup-illusion]]
 - [[vibe-compiler-metacognition-genai-agency-2026]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[genai-assisted-problem-posing-physics-2026]]
 - [[young-people-learning-generative-ai-rapid-review-2026]] — La distinción entre desempeño y aprendizaje y la transferencia duradera
-- [[kim-ai-productive-failure-adult-2026]] — Diseñar sistemas de IA que apoyen el aprendizaje basado en el fracaso productivo
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Dirección pedagógica de los LLM para el fracaso productivo
 - [[rachatasumrit-example-problem-ratio-2026]]
 - [[ai-particle-physics-education-redesign-2026]] — La IA en la educación en física de partículas: problemas de investigación y habilidades fundacionales
 - [[shi-genai-experiential-learning-management-education-2026]] — sostiene que las simulaciones de aula protegidas pueden formar hábitos de decisión que fallan fuera de ellas
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluación de modelos preentrenados para la valoración pedagógica de preguntas educativas novedosas asistidas por IA
+
+- [[ai-speaking-practice-communicative-readiness-2026]] — La práctica oral asistida por IA aumentó la disposición hacia las personas, pero ningún estudio observó el habla humana
+- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: aprendizaje aumentado mediante encarnación robótica funcional en el escritorio
