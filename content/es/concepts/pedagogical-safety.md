@@ -56,7 +56,7 @@ La seguridad convencional de los [[llm|LLM]] —filtros de toxicidad, resistenci
 
 - La [[pedagogical-safety-rl|seguridad pedagógica en el RL]] formaliza el problema: a medida que el [[reinforcement-learning|aprendizaje por refuerzo]] personaliza la instrucción, las recompensas mal especificadas invitan al «hacking de recompensas» —inflación de puntuaciones de pruebas, juego con la [[student-engagement|implicación]] y ganancias a corto plazo—. Propone un modelo de cuatro capas (estructural, de progreso, de implicación, de resultado) y la detección mediante auditoría de discrepancias, inversión de políticas y seguimiento a largo plazo.
 
-- **RL orientado a la guía en modelos de tamaño medio.** [[singh-eduqwen-pedagogical-rl-2026|Singh et al. (2026)]] optimizaron un modelo denso de 32B con aprendizaje por refuerzo DAPO más una etapa de SFT sintético filtrado hasta el 96.52% en un punto de referencia de conocimiento pedagógico, por encima de un sistema propietario mucho mayor, aunque esa puntuación procede enteramente de ítems de opción múltiple de exámenes docentes, lo que deja sin probar el diálogo de tutoría de forma libre.
+- **RL orientado a la guía en modelos de tamaño medio.** [[singh-eduqwen-pedagogical-rl-2026|Singh et al. (2026)]] optimizaron un modelo denso de 32B con aprendizaje por refuerzo DAPO más una etapa de SFT sintético filtrado hasta el 96,52% en un punto de referencia de conocimiento pedagógico, por encima de un sistema propietario mucho mayor, aunque esa puntuación procede enteramente de ítems de opción múltiple de exámenes docentes, lo que deja sin probar el diálogo de tutoría de forma libre.
 
 ### Riesgos de adulación y manipulación
 

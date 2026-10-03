@@ -23,7 +23,7 @@ ai_assist:
 
 > **Conocimiento Tecnológico, [[pedagogy|Pedagógico]] y de Contenido (TPACK)** — el marco (Mishra y Koehler, 2006) que describe el conocimiento integrado que el profesorado necesita para usar la tecnología de forma eficaz en la enseñanza: la interacción entre el conocimiento tecnológico (TK), el pedagógico (PK) y el de contenido (CK), y sus intersecciones. En la era de la IA, el TPACK se ha extendido a **AI-TPACK** / **GenAI-TPACK**, que modelan cómo el profesorado integra la IA generativa en la enseñanza de su área de contenido. Es la lente teórica dominante para entender cómo se estructura y se construye la [[teacher-ai-competency|competencia del profesorado en IA]] a través del [[educational-development|desarrollo profesional]].
 
-Esa dominancia es también en parte un artefacto de recuperación: en una revisión de alcance PRISMA de 195 estudios de formación docente apoyada en tecnología, la competencia digital, el TPACK y DigCompEdu eran descriptores de búsqueda explícitos, de modo que el 46.5% de cuota de los marcos de competencia describe el corpus recuperado y no el campo ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
+Esa dominancia es también en parte un artefacto de recuperación: en una revisión de alcance PRISMA de 195 estudios de formación docente apoyada en tecnología, la competencia digital, el TPACK y DigCompEdu eran descriptores de búsqueda explícitos, de modo que el 46,5% de cuota de los marcos de competencia describe el corpus recuperado y no el campo ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 
 ## Preguntas para reflexionar
 
