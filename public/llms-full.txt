@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 219 concepts, 1585 articles, and 36 FAQs.
+> Complete text of 219 concepts, 1594 articles, and 36 FAQs.
 
 # Concepts
 
@@ -1122,7 +1122,7 @@ The arrival of generative AI has not created the need for academic integrity —
 ### The evolution from detection to redesign
 
 - **Detection skepticism:** [[ai-detection]] research and [[governance|institutional]] analyses increasingly find that AI detection tools are unreliable and procedurally unfair. [[detecting-llm-generated-text-latent-prompt|LLM text detection]] faces fundamental limitations. Fully AI-generated submissions can pass through live examination systems largely undetected, and experienced markers do not reliably spot GenAI-authored work. Detection, at best, is a limited, situational tool — not a strategy of first resort. The volume it is nonetheless asked to handle is far from marginal: a six-year analysis of a large-enrollment CS2 course found 45.7% of Spring 2026 students flagged for patterns consistent with LLM-assisted coding ([[argus-academic-integrity-genai-2026|Racovan et al. (2026)]]).
-- **Detection's narrow margin, and cheating as planned behaviour:** [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall and Parapadakis (2025)]] assemble the case that AI amplifies a vulnerability the sector already had — AI-generated text has passed as human-authored in up to 80% of cases, while the evidence they cite puts machine detection at about 80% against 78.4% for human reviewers, too narrow a margin to carry a misconduct finding. Their motivational analysis is the more distinctive contribution: working from Ajzen's Theory of Planned Behavior and Bandura's self-efficacy theory, they report Krou et al.'s (2021) meta-analysis finding that [[self-efficacy]] correlates negatively with cheating while actual ability does not correlate inversely with it at all, so a capable, confident student who reads an assessment as unfair may cheat to regain control. The conclusion follows the same inversion this page documents elsewhere — an assessment a model can answer convincingly is an intellectually trivial assessment, and the failure belongs to the assessment rather than to the student.
+- **Detection's narrow margin, and cheating as planned behavior:** [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall and Parapadakis (2025)]] assemble the case that AI amplifies a vulnerability the sector already had. AI-generated text has passed as human-authored in up to 80% of cases, while the evidence they cite puts machine detection at about 80% against 78.4% for human reviewers, too narrow a margin to carry a misconduct finding. Their motivational analysis is the more distinctive contribution: working from Ajzen's Theory of Planned Behavior and Bandura's self-efficacy theory, they report Krou et al.'s (2021) meta-analysis finding that [[self-efficacy]] correlates negatively with cheating while actual ability does not correlate inversely with it at all. A capable, confident student who reads an assessment as unfair may therefore cheat to regain control. The conclusion follows the same inversion this page documents elsewhere — an assessment a model can answer convincingly is an intellectually trivial assessment, and the failure belongs to the assessment rather than to the student.
 - **Assessment redesign:** [[authentic-assessment]], [[beyond-detection-authentic-assessment-ai-2025|beyond-detection approaches]], and [[ai-assessment-scale-reform|the AI Assessment Scale]] shift the focus from catching AI use to designing assessments where AI use is either irrelevant, transparent, or required to demonstrate a specific capability.
 - **Structural vulnerability of grading:** [[biology-degree-integrity-genai-cheating-2026|Chan et al.]] provide a concrete case study of how current grading is structurally exposed to AI-mediated dishonesty. In a [[biology-education|biology]] department, instructors perceived only in-person proctored exams as minimally vulnerable; outside-of-class assignments were seen as highly vulnerable, leaving about a third of a student's grade highly vulnerable and 80% at least somewhat vulnerable. This frames the integrity problem as partly a *grading-design* problem, motivating rebalancing toward proctored or in-class assessment and [[authentic-assessment|authentic assessment]] designs that are harder to outsource. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] supply the discipline-level counterpart with a whole three-year psychology program: 36 of 40 assessments across 16 types produced passable content at minimum effort, and the four that failed were those requiring presence, visual media, or the student's own dataset. Their reading of *why* it passes is the part that generalizes — marking that rewards fluent structure and good-faith use of the right analysis condones fabricated values and hallucinated references, so the pass boundary rather than detection decides whether AI output is graded as achievement, and the assessment vulnerability "cannot be blamed solely upon student usage."
 - **The submission as an attack surface: prompt injection against [[automated-assessment|AI grading]].** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] red-teams an everyday grading workflow and shows that a student submission can carry hidden instructions that change the grade an AI tool produces: two of five indirect injection strategies embedded in the submission file raised a failing essay to a pass with no visible warning to the user, at reported attack success rates of 100% (9/9) and 94% (17/18), both combining instruction manipulation, role-playing and obfuscation across docx, pdf and htm formats. The most basic attack failed completely, and its refusal was silent — the tool disabled the chat without reporting the attempt — while a single detected injection produced a reassurance that the tool would grade "only according to the official assignment instructions" before six further runs of the same file raised the grade anyway. The integrity consequence runs in both directions: a grade raised by a hidden instruction carries no [[assessment-validity|validity]] claim, the same technique could be used to degrade a submission with no durable trace in the output, and the human marker is left as the only real check on manipulation designed not to be visible.
@@ -1163,6 +1163,8 @@ Policy inconsistency across the institution produced exactly the guessing the co
 Procedures matter as much as policies, and their evidentiary basis has collapsed for AI. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] argues that the misconduct procedure universities imported from plagiarism rests on a premise generative AI dismantled: that prohibited use can be detected and proved. Unlike text-matching software, which can point to a copied source, AI-text classifiers identify no source because none exists — they output a probabilistic judgment about style that degrades under paraphrase, misclassifies non-native speakers systematically, and cannot be explained or cross-examined, while skilled or lightly edited use leaves no trace at all. Persisting anyway reverses the burden of proof (the student is asked to prove a negative), strains every element of procedural justice, and lands the harm of false accusation hardest on the already disadvantaged. The proposed remedy is twofold: publish an evidentiary standard under which detector output alone never grounds a finding, with graduated education-first responses, and move institutional effort into validity-centered and authentic assessment design. [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] supply the mechanism-level counterpart from the student's side: because each assessment environment makes some response most attractive, prohibition leaves concealment attractive when verification is thin, monitoring makes hidden use costlier without making disclosure safe, and only redesign — lowering the payoff from outsourcing while raising the value of visible reasoning — moves students toward responsible use. Their sharpest result is that deterrence runs through a detector's discrimination between hidden use and legitimate work rather than its catch rate, so when false positives rise faster than true positives, stronger monitoring can make concealment relatively more attractive.
 
 - **Integrity duty can be rewritten as individual competence.** Across 366 GenAI higher-education abstracts, the word integrity appears 461 times but only 6 of 166 obligation expressions name students, so verification and disclosure surface as skills students are expected to have rather than obligations institutions enforce ([[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal, 2026]]).
+
+- **How prescriptive an integrity policy is does not reveal how exposed the assessment is.** Auditing 15,587 unit records, [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] found universities with institution-wide reform mandates and those with broad frameworks spread across the same range of assessment exposure - the empirical counterpart to the coordination-game account of why pronouncements rarely change behavior.
 
 ### The socio-emotional dimension
 
@@ -1290,6 +1292,7 @@ The clearest disciplinary case for redesign over detection comes from computing 
 
 - [[genai-governance-australian-higher-ed-2026]] — Mapping the Authorized Boundary: A Comparative Policy-Vignette Study of Generative AI Governance in Australian Higher Education
 - [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Sector audit finding: mandate and framework universities show no difference in assessment exposure, the empirical counterpart to the coordination problem
 
 ---
 
@@ -8305,6 +8308,8 @@ The taxonomies themselves do not yet agree: across 46 categorizations from 33 st
 Complementing these taxonomy studies, [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] characterize the *dialogue form* of student inquiries. Among 38 [[higher-ed|undergraduates]] completing unsupervised argumentative essays, 76.32% used a single-turn ask–get-answer–stop pattern — typically pasting the assessment title without specifying their needs and resubmitting identical prompts when dissatisfied — and 78.94% touched [[generative-ai|GenAI]] only at the start (ideas, background) or end (polishing, length) of a task, keeping it separate from reading and independent [[writing-education|writing]]; only 23.68% sustained iterative back-and-forth dialogue with follow-up questions and their own reasoning. The authors place these patterns on a spectrum from **cognitive outsourcing** to **cognitive reallocation** — the GenAI-era analogue of surface versus [[metacognition|deep approaches]] to learning — noting that most students conceived the tool as an upgraded search engine, which constrained them to the outsourcing end.
 Reframing these patterns as epistemic work, an analysis of 200 co-programming chat sessions found 78.8% of student–GenAI interactions ran on non-mastery aims and strategies such as outsourcing or verification-seeking, and only 11.1% coupled mastery-oriented aims with epistemic justification ([[constructing-epistemic-ai-literacy-student-ai-co-programming|Wu (2026)]]).
 
+Coding 50 sampled exchanges gives a three-way typology of the same behavior: [[three-pathways-student-ai-interaction-2026|Zahra (2026)]] classified 46% as Passive Review, where the model acts as an oracle and output is accepted with little scrutiny, 18% as Direct Question, and 36% as Strategic Dialogue, pairing the distribution with a constraint-first design argument (kappa = .48 between coders). A seven-assignment survey of 211 computing students reaches the same conclusion from the other direction: [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]] measured LLM adoption from 89.6% in algorithms to 15.2% in software engineering and attributed the spread to assignment complexity, verifiability and scaffolding rather than to the subfield.
+
 ### Interaction quality and learning
 
 A complementary strand links the *form* of interaction to learning. Shallow or habitually narrow prompts (asking AI to produce the answer rather than to explain, probe, or evaluate) are associated with reduced learning and increased over-reliance, whereas reflective, verification-oriented interaction supports [[metacognition]] and durable understanding. This connects student-AI interaction directly to [[intelligent-tutoring]] design: systems can be built to invite a wider, more productive range of inquiry and to scaffold question-asking rather than merely answering. Interaction need not run through answer-seeking prompts at all — when AI critiques students' own work, the exchange becomes a reflective, verification-oriented dialogue: in [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]], learners' responses to [[llm]] essay [[feedback]] showed reflection in 92.7%, acceptance in 93.6%, and active rebuttal of LLM claims in 87.8% of cases (inter-rater κs = 0.81–0.89), and their response-to-[[ai-feedback-quality|feedback quality]] improved across iterations as a learnable skill. The reflective side of interaction need not run through direct prompting — in [[breideband-community-builder-cobi-2026|CoBi]], students engaged with classroom-level AI visualizations of their own [[collaborative-learning|collaborative]] speech and deliberated over when the AI's classifications seemed off, turning apparent misclassifications into opportunities for calibrating their understanding of the AI's capabilities and limits ([[trust-calibration]]) rather than purely accepting its output. The link between interaction form and learning has a limit, though: [[page-cognitive-partnership-cycle-human-ai-2026|Page (2026)]] separates *conversational iteration* from *cognitive iteration* on the ground that a learner can refine an output across many turns while the mental model behind it stays unchanged, so the evidence of learning is a change in the learner's cognitive position rather than the length or fluency of the exchange — turn count is not a proxy for engagement depth.
@@ -8367,6 +8372,7 @@ Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-
 - [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
 - [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
 - [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
+- [[three-pathways-student-ai-interaction-2026]] — Three Pathways typology of student-AI interaction: 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue
 
 ---
 
@@ -12947,6 +12953,8 @@ Prompt design is itself a measurable lever: on the MathDial benchmark a pedagogi
 - **Visual chain of thought: the [[agency|autonomy]] gap in geometry.** GeoVAD-Bench diagnoses intermediate visual aids rather than final answers across 600 auxiliary-construction problems (200 easy, 200 medium, 200 hard), and finds a consistent pattern: supplying the reference auxiliary diagram improves accuracy modestly (+3.3, +3.0, +7.0 points across three models) while leaving the model to construct its own auxiliary line on the way to the correct answer widens the gap by 10.0 to 13.5 points, with two models performing worse than when they had no visual reasoning at all. Four process-error categories accounted for 93.1% and 89.7% of attributed failures. For [[problem-solving]] instruction the finding is that diagrammatic scaffolding has to be trained and evaluated separately from answer accuracy. ([[geovad-bench-visual-chain-of-thought-geometry-2026]])
 - **AI-susceptible problems lose study time and retention.** A ten-year panel of 3.2 million ALEKS interactions found learning time on text-based word problems — those most transcribable into AI prompts — fell 26.9% after ChatGPT's release, while proctored retention items showed a 25% decline in the odds of a correct response ([[generative-ai-reduced-study-time-math|Rismanchian et al., 2026]]).
 
+- **Students value immediate feedback, but optional practice platforms go unused.** Of 157 students, [[genai-practice-platform-maths-feedback-2026|Chen et al. (2026)]] saw 95 register and only 34 attempt a question; users rated engagement highest (79% agreement) while just 42% preferred the platform to the existing problem booklet.
+
 ### Connections to related concepts
 
 Math education sits within the broader [[stem-education]] domain with distinctive connections to [[intelligent-tutoring]] and [[intelligent-tutoring|AI Tutoring]] through the strong tradition of cognitive tutors and ITS research in mathematics, to [[scaffolding]] through the productive struggle and hint-use literature, to [[affective-computing]] through math anxiety and emotion-aware tutoring, to [[knowledge-tracing]] and [[assessment-validity]] through cognitive diagnosis and assessment research, and to [[teacher-role]] through teacher-AI collaboration in math instruction. The [[k-12]] connection is particularly strong — many of the math articles involve K-12 contexts — while [[higher-ed]] connections emerge in teacher preparation and advanced math practice.
@@ -13017,6 +13025,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[gpt4-handwritten-math-exam-grading-2026]] — GPT-4 grading of semi-open handwritten university mathematics answers
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantic knowledge-concept annotation and RL exercise sequencing on K-12 math corpora
 - [[misconception-acquisition-dynamics-llms-2026]] — algebra mal-rule training dynamics in language models
+- [[genai-practice-platform-maths-feedback-2026]] — Optional GenAI practice platform in a 157-student maths class: immediate feedback valued, uptake limited to 34 active users
 
 ---
 
@@ -13068,6 +13077,8 @@ A reusable four-element prompt — tools, display, hand controls, optimization �
 **Agent role design as an instructional variable.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] hold the model (DeepSeek R1), platform, and temperature constant and vary only the prompt-specified role: a teacher-centered agent answering authoritatively from a bounded textbook knowledge source, versus a student-centered agent configured as an empathic teacher with knowledge of students' understanding, scripted to diagnose the cause of [[misconceptions]], name the relevant concept, and transfer to an analogous phenomenon. Across 59 high-school graduates working two conceptual items, the student-centered agent produced higher post-test scores (9.67 vs. 7.93; r = 0.38), lower extraneous and higher germane cognitive load, stronger flow experience (d = 0.92), and higher empathy perception (r = 0.53) — evidence that role framing, not just answer accuracy, is what makes a physics agent instructionally effective ([[pedagogical-agent]], [[prompt-engineering]]).
 - **Benchmark scores understate what models can already do in physics.** Re-grading six widely used physics benchmarks with domain experts found that most of the reported shortfall was an artifact of defective items and restrictive automated graders: of 250 audited rejections, 143 (57.20%) were benchmark defects and 95 (38.00%) grader errors, with only 12 (4.80%) genuine model errors. Corrected, HLE-Physics mean@4 rose from 47.28% to 78.66% and CritPt from 32.29% to 87.50%. For physics instruction this cuts both ways: it means students can already obtain expert-level text solutions to many canonical problems, so assessment of physics reasoning needs to move toward items that resist benchmark contamination and toward process evidence rather than final answers. ([[frontier-models-physics-benchmark-audit-2026]])
 - **AI grading can reproduce a high-stakes physics outcome without matching every part.** Grading 10,364 handwritten Olympiad and university pages, a multimodal LLM recovered the same five-student Olympiad team as examiners and correlated with totals at r = 0.93–0.96, but exact question-part agreement reached 70% — examiner-controlled second reading, not replacement ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
+
+- **Physics benchmarks can be curriculum-grounded and non-English.** [[physicsmate-bengali-secondary-physics-benchmark-2026|Jahin et al. (2026)]] built 1,834 Bengali questions from the national Grade 9-10 physics textbook and a 1,760-node knowledge graph; one fixed fine-tuning recipe gained 5.5, 15.0 and 23.3 points at 0.6B, 1.7B and 4B parameters.
 
 ### Connections to related concepts
 
@@ -13133,6 +13144,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[physics-students-llm-perceptions-instruction-2026]] — Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction
 - [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
 - [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
+- [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1,834 Bengali secondary-physics QA pairs mapped to a 1,760-node curriculum graph, with small-model adaptation gains
 
 ---
 
@@ -13315,9 +13327,13 @@ Biology education sits within the broader [[stem-education]] domain and shares t
 - **GenAI analogy critique as an instructional asset:** [[student-reception-genai-analogies-computing-2026|Bernstein & Sibia (2026)]] ground GenAI analogy reception in CS2: ten students who had already completed CS2 audited GenAI-generated analogies for linked lists and recursion and rejected mappings that failed structural correspondence — an island-route analogy that mapped to a circular rather than a singly linked list, or a badminton rally offered for recursion despite having no guaranteed shrinking input, with one student proposing golf instead. The work argues that analogy critique is itself a check on concept understanding, making flawed AI analogies a usable instructional asset rather than a hazard to filter out, and recommends assigning them as objects to inspect and repair.
 - **[[misconceptions|Misconception]] modeling:** [[student-misconceptions-conditionals-loops-taxonomy|a taxonomy of conditionals/loops misconceptions]] gives automated systems a precise vocabulary for diagnosing novice errors.
 - **Model-generated strategic misconceptions:** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] built SocraticTrap-CS around 35 concepts from the ACM/IEEE CS2023 curriculum — algorithms, programming languages, databases, networks and operating systems — and asked seven open-weight models for a fluent, authoritative explanation resting on a subtle error. Six of the seven produced an expert-confirmed strategic misconception for 91% or more of prompted concepts (221 of 241 segments, 91.7%), with no significant differences between CS domains; conceptual errors dominated (66.5% conceptual vs. 33.5% factual, and none purely logical), and both persuasiveness and error type varied by domain. The authors therefore recommend domain-sensitive countermeasures — reasoning-focused checks in programming-heavy courses, cross-referencing against protocol specifications in networking — and evaluation of [[automated-question-generation]] and AI-authored explanations on pedagogical [[trust|trustworthiness]] rather than correctness alone.
-- **[[authentic-assessment]] performance:** [[genai-oop-programming-assessments-2026|Lepp & Kaimre (2026)]] show 2026 [[generative-ai|GenAI]] systems outscore the average student cohort on authentic introductory OOP [[assessment|assessments]] and frequently earn full marks on longer programming tasks, yet still struggle with interfaces, abstract classes, inheritance, and image-based questions — recurring error patterns instructors can exploit when designing assessments.
+- **[[authentic-assessment]] performance:** [[genai-oop-programming-assessments-2026|Lepp & Kaimre (2026)]] show 2026 [[generative-ai|GenAI]] systems outscore the average student cohort on authentic introductory OOP [[assessment|assessments]] and frequently earn full marks on longer programming tasks, yet still struggle with interfaces, abstract classes, inheritance, and image-based questions — recurring error patterns instructors can exploit when designing assessments. A CS1 longitudinal study reinforces the capability side of that finding: [[student-llm-code-detection-cs1-2026|Ye et al. (2026)]] measured frontier models at 98.93-99.99% on the labs against 76.37-88.03% for student submissions.
 - **Predictive modeling for at-risk support:** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] show that intrinsically interpretable decision trees trained on content-interaction log features accurately predict module-level progress in large-scale online programming courses (85–91% accuracy across four K-12 courses) and flag "No submission" dropout outcomes, giving educators a 7–8 day window to [[teacher-role|intervene]] with struggling and disengaged [[learners]] before module deadlines — complementing the automated-grading and attrition-prediction work above.
 - **Retrieval-augmented support for theoretical CS fits asynchronous study only.** AlgoRAG answered all 179 instructor-authored exam questions within a 240-second timeout at a mean 38.0 seconds each, and its BLEU-4 of 0.0000 across the set is a property of n-gram matching on mathematical proofs rather than a system failure ([[algorag-rag-theoretical-cs-education-2026|Adhikari (2026)]]).
+
+- **Adoption tracks the assignment, not the subfield.** Across seven assignments and 211 students, [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]] measured LLM use from 89.6% in algorithms to 15.2% in software engineering, attributing the spread to assignment complexity, verifiability and scaffolding rather than to the subject itself.
+
+- **Feedback can be staged so the diagnosis stays hidden.** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas (2026)]] separate an artifact-grounded diagnosis of a student's database schema from the workflow that releases it, with educators authoring the stages; across 383 episodes, 71.1% of feedback reached its target level.
 
 ### Programming pedagogy: from blocks to embodied, game-based learning
 
@@ -13466,6 +13482,8 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 
 - [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education
 - [[llm-graders-computer-science-exams-2026]] — Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams
+- [[student-llm-use-cs-subfields-2026]] — LLM adoption ranged 89.6% in algorithms to 15.2% in software engineering across 211 students, tracking the assignment rather than the subfield
+- [[educator-guided-llm-pedagogical-agent-2026]] — Educator-authored staged feedback for conceptual database design: hidden diagnosis, controlled disclosure, 71.1% target-level across 383 episodes
 
 ---
 
@@ -13778,6 +13796,8 @@ Because writing is a cognitive process, AI-in-writing research connects to [[cog
 
 [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] sharpens this with a **layer-sensitive** account of [[cognitive-offloading|cognitive offloading]] in GenAI-assisted academic writing: delegating *deeper* layers (reasoning, argumentative logic) carries a stronger negative association with independent no-AI writing quality and [[critical-thinking|higher-order thinking]] than delegating surface layers (grammar, vocabulary). Open AI collaboration yielded the best supported product but the worst independent outcomes, while bounded support with reflection preserved competence — evidence that GenAI writing support is not uniformly harmful but its effect depends on which cognitive layer students delegate.
 
+- **Gating AI output on prior engagement moves effort back to the writer.** With 398 participants, [[engage-to-unlock-productive-friction-genai-2026|Su et al. (2026)]] found writers composed for 28.02 minutes against 23.26 with an open chatbot, then evaluated passages faster (17.41 vs 22.21 minutes) at equal accuracy and no extra task time. Where Chen locates the cost in *which layer* is delegated, this design decides *when* the model may speak at all.
+
 [[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] extend this thinking to *multimodal* composing by younger writers. Having 60 [[k-12|Grade 5]] students externalize their narratives as AI-generated images and short videos produced sustained [[self-report-measures|self-reported]] gains in interpretation, analysis, evaluation, and explanation — the facets multimodal resemiotisation exercises — but **no gain in inference**. Making meaning visually explicit lowered the demand to infer implicit meaning from text, exactly the offloading mechanism Chen describes; only structured peer discussion restored occasions for inference. The study cautions that [[multimodal|multimodal AI]] composing helps young writers reflect on clarity and coherence while potentially skimming off the inferential work that text-only writing preserves — a design consideration for writing instructors pairing AI [[visualization|visuals]] with peer [[peer-assessment|feedback]].
 
 A dimension-specific pattern recurs across this literature, and it is a useful diagnostic. In the primary-level L2 writing program, emotional and behavioral [[student-engagement|engagement]] rose while cognitive and metacognitive engagement did not, and the authors name diminished self-monitoring during writing as an explicit risk of GenAI support ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]). Enjoyment and on-task activity are therefore not evidence that deeper processing is happening — the same distinction the offloading research draws when it asks which layer of cognitive work a student has delegated.
@@ -13882,6 +13902,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[customizing-ai-writing-pedagogy-systematic-review-2026]] — Systematic review of AI writing customization and the theory–design mismatch (Luo 2026)
 - [[human-ai-collaboration-academic-writing-2026]] — Structured human–AI collaboration in academic writing and digital critical thinking (Alshehri et al. 2026)
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Human and AI revisions of the same draft take different dialogic stances: peer feedback closes dialogic space, AI revision keeps it balanced (Zhao & Ji 2026)
+- [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock: gating AI output on prior engagement redistributed effort to writing without costing time or accuracy (N = 398)
 
 ---
 
@@ -14300,6 +14321,8 @@ SSH education is a distinct subject area in the knowledge base, complementary to
 - **Critical and philosophical dimensions.** [[voicu-ai-interpretive-cognition-ssh-2026|Critical AI literacy]] and the [[philosophy-of-ai-in-education|philosophy of AI in education]] are especially salient in SSH, where questions of meaning, values, and epistemic authority are central.
 - **[[governance|Institutional]] digital transformation.** Qin (2026) documents how Lingnan University repositioned itself as a "Research-Intensive Liberal Arts Institution in the Digital Era," mandating GenAI literacy for all undergraduates (including a required first-year Common Core course on generative AI covering latent spaces, GANs, diffusion models, [[prompt-engineering|prompting]], fine-tuning, bias, and misinformation). The position paper argues the AI-for-education shift is an *intellectual transformation* rather than technocentric augmentation, positioning [[ai-literacy|digital fluency]] as a core liberal arts competency while a [[human-in-the-loop-ai|human-in-the-loop]] model foregrounds [[ethics|ethical]] reasoning, critical judgment, and social responsibility — a concrete blueprint for [[higher-ed|higher education]] balancing [[generative-ai|GenAI]] innovation with humanistic foundations.
 
+- **The sector's assessment exposure is now measured, and it is concentrated rather than diffuse.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] audited 15,587 Arts and Humanities unit records across Australia's Group of Eight universities and found 58.6% of 2026 assessment items highly exposed to [[generative-ai|GenAI]], with take-home essays and research reports accounting for 71.4% of that exposure once weighted by marks.
+
 ### Why it matters
 
 SSH education foregrounds the very capabilities generative AI most challenges — original authorship, interpretive judgment, critical analysis, and context-sensitive meaning-making. The knowledge base treats this domain as a critical counterweight to instrumental, skills-based framings of AI: it asks whether AI-supported learning preserves [[critical-thinking]], epistemic responsibility, and interpretive autonomy, connecting to [[critical-pedagogy]] and [[ai-literacy]].
@@ -14330,6 +14353,7 @@ SSH education foregrounds the very capabilities generative AI most challenges �
 - [[paternalistic-filter-llm-history-education]] — LLM use and historical reasoning in history education
 - [[genai-impact-chinese-students-hss]] — GenAI's impact on humanities and social science students
 - [[acceptance-ai-english-tools-2026]] — AI acceptance among language and humanities learners
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Computational audit of 15,587 Go8 Arts and Humanities units: 58.6% of 2026 assessment items highly AI-exposed, concentrated in essays and reports
 
 ---
 
@@ -14464,6 +14488,8 @@ It is also distinct from [[design-thinking]], a human-centered problem-solving m
 
 - **Students negotiate the tools rather than simply accept them.** [[t2i-competence-paradox-2026|Liu, Meng & Zhang (2026)]] surveyed 417 art and design students: performance expectancy, social influence, novelty value and creative competence predicted intention to use text-to-image tools, while effort expectancy predicted negatively, read as shortcut-oriented coursework use. Their competence paradox is that creative competence supports intention yet predicts more selective use as students weigh authorship and skill preservation — an [[assessment-validity]] problem in a studio where process is the assessed object. [[rana-genai-design-thinking-2025|Rana et al. (2025)]] reached a compatible conclusion from 112 reflections in a 12-week [[design-thinking]] course: benefits dominated (86% positive sentiment), ethical concerns drove 62% negative sentiment, and scaffolded integration moved students from skepticism to 72% positive orientation.
 
+- **AI critique can be bound to the artifact rather than the prompt.** [[critsly-design-education-ai-critique-2026|Kadir (2026)]] routes studio feedback through a shared board of designs, notes and pins and five bounded activities; the study reports simulated readiness (78% of 109 labels at Analyzing or above), not learning gains.
+
 ## Professional formation and regulation
 
 Assessment problems here are inseparable from professional ones. [[ai-interior-design-malaysia-2026|Syed Abdul Rahman (2026)]] describes Malaysian interior designers shifting from primary form-generators toward critical mediators and curators of machine output, with [[visualization]] platforms compressing timelines while generated schemes still lack cultural specificity, climatic responsiveness and reliable constructability. Its curriculum recommendation is sequencing rather than substitution — CAD/BIM, construction knowledge and human factors before generative exploration, and criteria rewarding [[critical-thinking]] and ethical reflection. The professional side is unresolved: interior design regulation is less formalized than architecture's, leaving open questions of disclosure, accountability for algorithmic error, and deskilling among early-career practitioners. The analysis is document-based and single-country.
@@ -14504,6 +14530,7 @@ Assessment problems here are inseparable from professional ones. [[ai-interior-d
 - [[same-ai-different-pathways]]
 - [[yasar-llms-iterative-pedagogical-design-2026]]
 - [[rana-genai-design-thinking-2025]]
+- [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: artifact-aware AI critique workspace for studio feedback; simulation-based readiness study, not learning gains
 
 ---
 
@@ -16695,6 +16722,8 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - **Process-focused measurement now has validity evidence.** [[assessing-student-drive-framework-2025|Oliveira et al. (2025)]] scored 70 graded essays on how students steered a GenAI dialogue and made course knowledge visible; those process scores correlated r = 0.54 with traditional essay scores while rewarding conceptual work over structured task specification.
 - **Authentic assessment suits practice-oriented fields.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] find authentic assessment especially well-suited to [[business-education|management education]]: tasks mirroring real professional problems (live consulting projects, [[visualization|dashboards]] with executive briefings) align with the field's practice-oriented, [[career-development-and-readiness|employability]] focus and can support inclusive, integrity-preserving alternatives to exam-centered assessment in the generative AI era. In their review of 58 articles from four management-education journals, however, authentic assessment appeared mainly via technology-mediated [[simulation|simulations]] and was often conflated with [[experiential-learning|experiential learning]] — a terminology gap that can obscure its broader value and uptake.
 
+- **Authenticity is not security, and the gap is visible at sector scale.** Where the single-degree audit above found 90% of coursework passable, [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] scores recorded presentations, remote group projects and unsupervised digital artifacts in the high-exposure band across 53,915 items, because the public record shows nothing about how production was supervised.
+
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 - [[eportfolio]]
@@ -16751,6 +16780,7 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
 
 - [[ai-ethics-tensions-online-pedagogy-2026]] — Task realism corrosion: AI-resistant redesign eroding authenticity in online language teaching
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Authentic-surfaced formats (recorded presentations, remote group projects, digital artifacts) score high across 53,915 items: authenticity does not verify authorship
 
 ---
 
@@ -17789,6 +17819,8 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - **Agreement and benchmark error masquerade as learning.** Two 2026 studies show distinct routes by which a score can look valid while establishing something else. An open-ended marketing-writing study found LLM-human absolute agreement of only ICC(2,1) .435 and a hybrid that was significantly worse than the LLM alone, with anchor [[writing-education|composition]] moving agreement from .338 to .902 ([[automated-scoring-marketing-posts-agreement-2026]]). An expert audit of six physics benchmarks attributed 95.20% of audited rejections to defective items or graders rather than model error, moving CritPt mean@5 from 32.29% to 87.50% ([[frontier-models-physics-benchmark-audit-2026]]). In both cases the threat is construct-irrelevant variance outside the model being scored.
 - **Agreement among LLM coders is consistency, not validity.** On an expert-labeled educational dialogue corpus, a cross-model agreement filter retained only 33 of 74 corpus-derived behavioral assertions and 11 of 48 construct-derived ones, and shared model errors survived the filter, so inter-model agreement cannot stand in for construct validity ([[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al., 2026]]).
 
+- **Exposure is measurable, and the remedy is sufficient evidence rather than maximum security.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] scored 53,915 assessment items by published format, supervision and mark weight and found most assessed marks resting on work whose authorship cannot be verified after submission; he argues programs need enough evidence of learning at key stages, not every unit made secure.
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — Why process evidence is proposed when output no longer identifies the author
@@ -17850,6 +17882,7 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Student ratings of curricular alignment track item difficulty (rho = 0.762) rather than content (Vogt et al. 2026)
 
 - [[llm-grading-assistants-public-health-2026]] — Five-day repeat grading of identical submissions gave Krippendorff's alpha 0.625
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — AI Vulnerability Index: most assessed marks rest on unverifiable authorship, so validity rests on sufficient evidence at key stages rather than maximum security
 
 ---
 
@@ -18392,6 +18425,8 @@ A key theme in the knowledge base is that detection should be a **limited, situa
 
 The constructive question shifts from "how do we prevent students from using AI?" to "how do we enable them to use it thoughtfully, responsibly, and effectively in contexts that mirror their future work?" Detection therefore connects to [[ai-literacy]] (helping students [[reducing-ai-misuse|use AI responsibly]]), [[cognitive-offloading|Over-Reliance]] (understanding when AI use undermines learning), and the broader goal of supporting genuine learning rather than policing submissions. It also links to student-side phenomena such as [[student-rationalization-ai-writing|student rationalization of AI writing]] and the identity-detection challenge in [[socially-fluent-ai-identity-detection]].
 
+- **Detectability is a property of assignment design, not only of the detector.** [[student-llm-code-detection-cs1-2026|Ye et al. (2026)]] found cross-model agreement of 87.79-88.14% on generated code, yet only 1-14 distinct abstract syntax trees per 1,000 files on tightly constrained functions versus 151-804 among 2021 student submissions.
+
 ## Implications for AI in education
 
 - **Detection is situational:** institutions should use detection tools sparingly and with awareness of their error rates, fairness limits, and task-dependence — not as an automatic, standalone gate.
@@ -18444,6 +18479,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[detecting-gpt-assisted-writing-stylometric-2026]] — Nine interpretable stylometric features: ROC-AUC 0.870 but four of 18 independently authored documents flagged (Kumar et al. 2026)
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — One human manuscript, five detectors, classifications from "0% human" to "Human Generated", plus the documented institutional retreat from detection (Angelier 2026)
 - [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
+- [[student-llm-code-detection-cs1-2026]] — LLM code converges on tightly constrained assignments (1-14 AST forms per 1,000 files) but not on free ones - detectability follows task design
 
 ---
 
@@ -48195,6 +48231,52 @@ Rodrigo Agerri, Itziar Aldabe, Elena Cabrio, Mark Cieliebak, Jan Deriu, Mariana 
 
 ---
 
+## [Critsly and StudioCrit: An Artefact-Aware AI Critique Workspace and Simulation-Based Readiness Study](https://edtechdev.github.io/aied/articles/critsly-design-education-ai-critique-2026/)
+
+> **Synthesis:** This technical report presents Critsly, an [[ai-feedback-quality|AI critique]] workspace that keeps a design artifact, the learner's stated intentions and a critique history in one visual board, together with StudioCrit, its architecture-studio research mode. Critsly layers guided reflection, selectable critique perspectives and action planning over structured board context so that AI [[feedback]] stays attached to the work it discusses. StudioCrit adds class organization, role-based access and provisional cognitive and architectural labels on critique notes, drawing its cognitive vocabulary from Bloom's revised taxonomy and exposing [[learning-analytics|analytics]] and a 39-column export for educators and researchers. The evidence is a [[simulation|simulation-based]] readiness exercise, not a classroom trial: three simulated studios produced 109 classified rows, a 50-account rehearsal produced 56, and a later hardening pass recorded 50 completed sessions with 50 denied student attempts to reach analytics. The report's contribution is a working critique-to-evidence workflow; its author states plainly that classifier accuracy, [[human-in-the-loop-ai|human review]] and every learning benefit remain unvalidated.
+
+## Key Findings
+
+1. **The workflow keeps artifact context intact.** Three simulated studios exercised multiple linked boards, and the report records successful class organization, visible cognitive and architectural badges, and role-aware access.
+2. **Bloom labels skewed higher-order.** Of 109 rows in the three-studio simulation, 85 (78.0%) were assigned to Analyzing, Evaluating or Creating; the 50-account rehearsal assigned 46 of 56 rows (82.1%) to those categories.
+3. **Creating dominated both distributions.** It was the most frequent category in the simulated corpora, at 57 of 109 rows and 39 of 56, which the report notes may reflect how the prompts and notes were constructed.
+4. **Architectural focus was uneven and incomplete.** In the 50-account rehearsal the displayed categories were Technical (24), Design (17), Research (10) and Communication (5); the three-studio chart summed to 104 against a 109-row total, a gap left unexplained.
+5. **Review load was high by the system's own measure.** The rehearsal dashboard marked 46 of 56 rows "Needs review" and two "Low confidence", counts the report warns are not estimates of classification error.
+6. **Hardening held under the rehearsal.** A staging pass with 50 distinct learner accounts recorded 50 completed sessions, 50 successful board pulls and 50 student analytics-access denials, with API session times of 3.064 s median and 6.023 s maximum.
+7. **Export was rated pass/partial.** The 39-column schema carries studio, provenance, classification and human-review fields, but final research coding still depends on dual-coder reconciliation that the report never completed.
+
+## How the critique workspace is built
+
+Critsly keeps the object of discussion present. A visual board holds design intentions, notes, media, annotations and feedback pins; a board-state interface serializes that context and the critique history, and an AI layer built on [[llm|large language models]] routes requests through bounded activities — reflection, evidence seeking, perspective-taking, synthesis and action planning. The intended sequence for [[design-education|design education]] is to state an intention, inspect the work, consider critique and decide what to revise, with a [[metacognition|guided reflection]] flow and selectable perspective lenses supporting the move from discussion to revision. StudioCrit is the optional studio/class mode for [[arts-design-and-media-education|architecture studios]]: it organizes classes and linked boards, classifies notes and comments against Bloom's revised taxonomy and architectural evaluation dimensions, and exposes badges, analytics and export under role-based access for learners, educators and researchers. The report is explicit that artifact awareness means structured board context, not complete visual understanding of every drawing, and that the design makes each label [[explainable-ai|inspectable]] rather than proven.
+
+## What the simulation exercise recorded
+
+The evaluation was a simulation-and-readiness exercise rather than a classroom study. Three [[higher-ed|higher-education]] design-studio scenarios — a foundation sustainable pavilion, an urban mobility spine and a facade climate/tectonics lab — produced 109 classified evidence rows, of which 85 (78.0%) carried higher-order Bloom labels and 24 (22.0%) lower-order ones. A separate rehearsal with 50 disposable learner accounts produced 56 rows, 46 (82.1%) higher-order and 10 (17.9%) lower-order; the report recalculated the percentages from the original counts. Architectural categories in that rehearsal were Technical (24), Design (17), Research (10) and Communication (5); the three-studio architectural chart summed to 104, five short of the 109-row cognitive total, a coverage difference the report leaves unexplained. The rehearsal [[visualization|dashboard]] flagged 46 rows "Needs review" and two "Low confidence". The author stresses that these are machine-labeled simulated rows used as the unit of analysis, not distinct people, and that the proportions support no hypothesis test or causal claim.
+
+## Why the readiness claims stay provisional
+
+The report's most consequential move is its account of what remains unvalidated. No completed human-coder validation or inter-rater reliability analysis is reported, so classifier accuracy is unknown and confidence scores are not calibrated probabilities; ambiguous and low-confidence cases were identified as relevant but never given numerical rates. The proposed remedy is a coding manual, a defined unit of analysis and independent coders who report agreement — Cohen's kappa is offered as one nominal option — before disagreements are reconciled, with the machine compared against a reference annotation rather than only against other coders. These checks are not a [[usability-research|usability evaluation]] and the exercised paths are not a validated automated [[assessment]], only encouragement for [[ai-ed-evaluation|controlled evaluation]]. Because research exports carry user identifiers, note contents and provenance, [[privacy|data privacy]] and retention cannot be an afterthought; before any human-participant deployment the author calls for separate identity mapping, a retention and deletion procedure and established arrangements for [[ethics]], consent and data handling.
+
+## What this means for practice
+
+- **Instructors.** Treat the AI critique as a prompt for revision, not a verdict: the board deliberately keeps intentions, work and critique history together, but a generated action plan proves nothing about whether a student acted on it.
+- **Researchers.** Budget for human coding before trusting any label. The export already separates machine classification from coder-review fields, so a dual-coder reconciliation is the obvious next step, and agreement should be reported before disagreements are resolved.
+- **Developers.** Reuse the pattern that makes the workflow inspectable — bounding AI requests to named activities, storing manual overrides beside the original machine label, and gating analytics behind role-based access — because inspectability, not raw accuracy, is the supported contribution.
+- **Institutions.** Read the readiness evidence as permission for a carefully scoped pilot, not for unrestricted deployment; [[governance]] for exports, retention and consent is still unestablished.
+
+## Limitations
+
+- The evidence is software and synthetic-trace observation from a simulation exercise with 50 disposable learner accounts, not 50 recruited learners, and it measures no [[learning-gains|learning gains]] or human cognitive performance.
+- No classifier validation was completed: the report provides no gold-standard annotation set and no inter-rater reliability, and the unexplained architectural coverage difference (104 labels against 109 cognitive rows) prevents a complete joint-distribution analysis.
+- Counts and timings are transcribed from an unpublished July 2026 coursework report and are documentary evidence rather than independently rerun measurements; the raw dataset, exact classifier configuration and load-generation protocol were not recovered.
+- This is one author's engineering account of a single system, with no completed human-subject study and no claim that ethics approval was obtained; the figures show historical staging interfaces, and raw participant-level exports are not deposited.
+
+## Citation
+
+Kadir, N. (2026). [*Critsly and StudioCrit: An Artefact-Aware AI Critique Workspace and Simulation-Based Readiness Study for Design Education*](https://arxiv.org/abs/2610.00085). arXiv preprint.
+
+---
+
 ## [Designing faculty standards for technology integration in higher education institutions: a design-based research study](https://edtechdev.github.io/aied/articles/crompton-faculty-technology-integration-standards-2026/)
 
 > **Synthesis:** Crompton, Burke, and Nickel (2026) use [[design-based-research|design-based research]] across two iterative macro cycles and 114 participants to develop a framework of six faculty technology standards covering the full teaching/research/service scope of [[higher-ed|higher education]] work: Instructor, Coordinator, Leader, Researcher, Learner, and Contributor. Each standard is paired with practical indicators for effective, [[ethics|ethical]], and contextually relevant technology use. The study addresses a genuine gap — existing frameworks ([[tpack]], RAT, SAMR, SETI) and standards (ISTE, UNESCO, DigCompEdu) target [[k-12]] educators or only the teaching portion of faculty roles. The standards are meant to guide faculty development, inform institutional planning, and align with accreditation.
@@ -51311,6 +51393,59 @@ McLaughlin, G., Novak, E., Ahmadi, S., Li, J., Guo, Y., Liu, R., & Borgerding, L
 
 ---
 
+## [An Educator-Guided LLM Pedagogical Agent for Scaffolded Feedback in Conceptual Database Design](https://edtechdev.github.io/aied/articles/educator-guided-llm-pedagogical-agent-2026/)
+
+> **Synthesis:** Riazi and Rooshenas present an educator-guided [[llm|large language model]] [[pedagogical-agent]] for [[scaffolding|scaffolded]] [[feedback]] in conceptual database design. Built into an entity–relationship diagram (ERD) editor, it separates a hidden, artifact-grounded diagnosis from the workflow that decides what support a student sees, grounding feedback in the diagram, the assignment requirements, educator-authored rubrics, and instructional resources. A four-stage, learner-controlled sequence runs from concept checks and guided application to low-detail feedback and localized clarification, with each request opening a stateful episode linked to versioned ERD states. Across three ERD environments and 383 episodes, 71.1% of observed target-level changes fully or partly incorporated the hidden diagnostic target, including many reached after only the first two stages. Staged disclosure could withhold inaccurate details or leave room for later recovery, though some errors still shaped revisions, and a self-selected survey favored delayed disclosure and student [[agency|agency]] while flagging indirectness and repetition.
+
+## Key Findings
+
+1. **Four stages under learner control.** Stage 1 offers up to three educator-authored concept questions; Stage 2 fills template questions from the selected ERD component; Stage 3 withholds the localized correction; Stage 4 supports multi-turn clarification. Each accessed stage consumes one feedback credit.
+2. **The educator defines the stages and disclosure limits.** A controller selects the active stage and assembles context from the ERD diagnosis, educator resources, and episode history; the [[llm]] only selects, adapts, or generates content within those limits — external workflow policy rather than [[prompt-engineering|prompt design]] or model [[llm-training-and-fine-tuning|fine-tuning]].
+3. **The system extends, not re-evaluates, requirement-grounded ERD feedback.** The diagnostic pipeline is adopted from prior work; the contribution is the educator-guided delivery layer, which never modifies the ERD and preserves student authorship.
+4. **Students used the workflow as an early-stage scaffold.** Most responding episodes ended after Stage 1 or Stage 2, only 12 error-positive episodes reached Stage 4, and 35 ended after the concept check was displayed but before any response.
+5. **Incorporation was real but conditional.** A later ERD was stored for 186 of 383 episodes (48.6%). Among 250 error-positive episodes, 128 (51.2%) changed the targeted relationship, and 91 of those incorporated the hidden target — 36.4% of error-positive episodes and 71.1% of observed target-level changes.
+6. **Staged disclosure sometimes hid diagnostic errors, but not reliably.** An inaccurate diagnosis could merely select a related concept or let students adopt only a valid recommendation; elsewhere an incorrect claim entered the scaffold and the revision still scored fully incorporated.
+7. **Students favored delayed disclosure but wanted smoother help.** Among 31 respondents (one excluded; 30 users, 47.6% of enrollment), 21 of 28 (75.0%) disagreed that the system revealed too much too early, while 11 of 28 (39.3%) found it too indirect and 12 of 28 (42.9%) reported repetition.
+
+## Educator control over diagnosis, disclosure, and interaction
+
+The architecture separates three things that one-shot feedback collapses: the hidden diagnosis, the [[pedagogy|pedagogical]] workflow that controls disclosure, and the student-facing generation. Each assignment supplies requirements and educator-authored rubrics, and question pools, conceptual explanations, and workflow stages are defined at the learning-objective level, so educators reuse them across assignments. At runtime the controller selects the active stage and assembles the context available to the model from the ERD diagnosis, educator-provided resources, and retrieved episode history. The [[llm]] then selects, adapts, or generates content within those disclosure limits — a departure from [[intelligent-tutoring|intelligent tutoring systems]] that require extensive domain-model authoring.
+
+Returning to the editor ends the episode; a later request reprocesses the current ERD and creates a new episode, even for the same relationship, so the previous diagnosis is not assumed to remain valid after revision. The agent never modifies the ERD. Governance is expressed through requirements, rubrics, concept-aligned questions and resources, workflow definitions, and feedback-credit [[educational-policy-ai|policies]] — [[human-in-the-loop-ai|educator oversight]] that leaves the model unchanged.
+
+## What the classroom deployment showed
+
+The system ran in an online, mixed-level [[cs-education|Database Systems course]] in Summer 2026. The course enrolled 63 students, mostly [[higher-ed|undergraduates]]; 48 completed an individual homework containing three ERD environments assigned together for one week. Use of the editor was required, but [[ai-feedback-quality|AI feedback]] was optional and ungraded, and [[teacher-role|teaching assistants]] independently graded the submitted ERDs. Each student received 15 feedback credits per environment, and no student requested additional credits. GPT-4o handled the LLM-mediated diagnosis and stage-generation steps.
+
+Students leaned on the workflow as an early-stage scaffold. Most responding episodes ended after Stage 1 or Stage 2, and a later ERD was available for just 186 of 383 episodes (48.6%), indicating that many requests were followed by no saved revision or by work that could not be linked to a later artifact state. The third environment stored fewer later ERDs and showed lower early-stage incorporation; its requirements contained several closely related relationships requiring distinctions among direction, cardinality, and participation, though the environments were not designed as comparison conditions.
+
+## Diagnostic errors and the limits of staged disclosure
+
+Manual inspection of 20 randomly sampled trajectories exposed four ways the hidden diagnosis, the student-visible scaffold, and the eventual revision can diverge. Sometimes an inaccurate diagnosis merely selected a related conceptual topic: the educator-authored explanation stayed accurate while the erroneous claim stayed hidden, and the next saved ERD omitted the participation change the diagnosis had wrongly recommended.
+
+Sometimes two contradictory diagnoses passed in sequence, because revising the ERD removed the pattern that triggered the earlier inference; since neither was presented verbatim, the student never received two explicit contradictions. Sometimes a partly wrong target let a student adopt only the valid recommendation, yet the episode was labeled partially incorporated even though the unapplied portion was never clearly stated. And sometimes an inaccurate claim did enter the scaffold and the student revised accordingly, scoring fully incorporated because the revision matched the hidden target. The reverse also occurred: correct, increasingly explicit feedback across all four stages still failed to produce the intended artifact change. Incorporation therefore measures correspondence with the hidden diagnosis, not the correctness of the diagnosis or the quality of the revision.
+
+## What this means for practice
+
+- **Instructors.** Author the workflow, not just the content: define stages, allowed disclosure, rubrics, and question pools at the learning-objective level so the scaffold — not the model — controls when a correction appears.
+- **Instructors.** Let staged support run before the explicit answer: 73.4% of the 109 target-level changes after early exits still incorporated at least part of the hidden target, and most students never needed Stage 4.
+- **Course teams.** Watch the no-error route: when no error is diagnosed the controller routes straight to Stage 3 confirming feedback without earlier scaffolding, so a false negative reaches the student unbuffered.
+- **Developers.** Log the active stage, input context, student response, generated feedback, and disclosed information, so an inaccurate diagnostic detail that stays hidden but still shapes the scaffold can be reviewed later.
+- **Researchers.** Treat incorporation as behavioral alignment with a hidden target, not as evidence that the diagnosis was correct or that learning occurred.
+
+## Limitations
+
+- Single online, mixed-level Database Systems course in Summer 2026: 63 students enrolled, 48 completed the homework, and only 30 system users (47.6% of enrollment) remained after one respondent was excluded for not using the agent.
+- Incorporation rates are bounded by missing artifacts and a narrow denominator: a later ERD existed for just 186 of 383 episodes (48.6%), and the 71.1% rate is conditional on the student making a relevant target-level change, not an overall success rate.
+- The diagnostic pipeline is adopted from prior work and not re-evaluated here, and manual verification covered only 20 randomly sampled trajectories with no disagreements — a consistency check on the classification, not a validation of the underlying diagnosis.
+- The [[self-report-measures|survey]] was optional and ungraded, drew 31 responses with one excluded, and item-level sample sizes varied because respondents skipped questions, so the perception results may reflect self-selection rather than the full cohort.
+
+## Citation
+
+Riazi, S., & Rooshenas, P. (2026). [*An Educator-Guided LLM Pedagogical Agent for Scaffolded Feedback in Conceptual Database Design*](https://arxiv.org/abs/2610.00870). arXiv:2610.00870.
+
+---
+
 ## [A Systematic Review of Educators'' Engagement with AI in Problem-Based Learning](https://edtechdev.github.io/aied/articles/educators-engagement-ai-pbl-review-2026/)
 
 > **Synthesis:** This PRISMA 2020 [[meta-analysis-systematic-review|systematic review]] (50 peer-reviewed articles, 2015–2024) examines how educators engage with AI-driven [[problem-based-learning|Problem-Based Learning]] (PBL) tools through a [[human-ai-collaboration|Human–Computer Interaction]] (HCI) lens, aligned with SDG 4 (Quality Education). Three dominant themes emerge: AI-enhanced PBL environments strengthen educator–student collaboration via [[feedback|real-time feedback]], [[scaffolding|intelligent scaffolding]], and data-informed decisions; AI supports adaptive and [[personalized-learning|personalized learning]] that improves [[student-engagement|engagement]] and [[problem-solving]]; yet persistent [[ethics|ethical]] concerns ([[privacy|data privacy]], [[bias-mitigation|algorithmic bias]], educator autonomy) and underdeveloped AI-based [[assessment]] practices limit adoption. The authors propose an AI-Enhanced Academic Interaction Model (AEAIM) integrating the [[technology-acceptance-model|Technology Acceptance Model]], [[constructivist|Constructivist]] [[learning-theories|Learning Theory]], and Krashen's Input Hypothesis, and stress that AI must empower rather than replace educator [[agency]].
@@ -52457,6 +52592,52 @@ A central transformation claim is that assessment shifts from extracting scores 
 ## Citation
 
 Hathcoat, J. D., Slotnick, R., & Miller, W. (2026). *[The End of Assessment? Disruption and Transformation in the Age of AI](https://www.rpajournal.com/the-end-of-assessment-disruption-and-transformation-in-the-age-of-ai/)*. Research & Practice in Assessment, 21(3).
+
+---
+
+## [Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI](https://edtechdev.github.io/aied/articles/engage-to-unlock-productive-friction-genai-2026/)
+
+> **Synthesis:** Su et al. (2026) introduce Engage-to-Unlock, an interaction mechanism that withholds a [[llm|language model's]] direct text-generation capability until a writer has articulated a position and at least one supporting argument, then measures how this [[desirable-difficulties|productive friction]] shapes [[writing-education|argumentative writing]] and later evaluation. In a controlled experiment with 398 participants across four access conditions, Engage-to-Unlock redistributed effort rather than adding it: writers spent more time writing and reported greater required effort, yet total task duration did not differ, and they completed a subsequent [[evaluative-judgment|passage-evaluation]] task faster with comparable accuracy. Compared with a time-matched control that unlocked on the same schedule regardless of the writer's own contribution, engagement-based unlocking produced more [[prompt-engineering|prompting]] and more efficient error classification, separating the value of responsiveness from the value of delay alone. The authors frame the result as a shift from designing AI for effort reduction toward designing for effort allocation, gating specific capabilities on demonstrated human contribution.
+
+## Key Findings
+
+1. Engagement-based unlocking redistributed effort: Engage-to-Unlock writers spent more time writing (M = 28.02 min versus 23.26 min under Standard Chatbot) and reported greater required effort (M = 5.15 versus 4.47), without increasing total task duration.
+2. Evaluation became faster and equally accurate. Engage-to-Unlock participants completed the eight-item passage evaluation in 17.41 min, versus 22.21 min (Standard Chatbot) and 20.29 min (Time-Matched Unlock), while overall judgment accuracy stayed between 61.61% and 66.36%.
+3. Participants prompted more. Engage-to-Unlock participants submitted an average of 7.70 prompts, more than Time-Matched Unlock (5.40) and Standard Chatbot (3.35), with most interaction continuing in Teach-me mode even after Tell-me became available.
+4. Error classification improved once a flaw was detected (90.43% versus 78.12% under Standard Chatbot), but this advantage did not extend to statistically significant complete-diagnosis gains across all flawed passages.
+5. Less AI text was incorporated. Final-essay coverage by verbatim AI-response text averaged 27.32% under Engage-to-Unlock, below Standard Chatbot's 47.16% and statistically indistinguishable from Time-Matched Unlock (24.51%).
+6. Delay alone did not reproduce engagement. Of the 60 Time-Matched Unlock participants who received an early unlock, only 22 (36.7%) had met the position-and-argument criteria, and 16 still had empty drafts.
+7. No significant differences were detected in process control, outcome satisfaction, document ownership, or workflow disruption across the AI-assisted conditions.
+
+## Where friction should be placed
+
+The [[generative-ai|generative AI]] the study targets is capable of substantial cognitive work: ideation, synthesis, reasoning, and drafting. Making it immediately and frictionlessly available risks premature delegation, in which model output becomes the starting point for human work rather than a response to a position the writer already holds. The paper treats this as more than a loss of effort. When generative assistance enters before a writer has formed an independent representation, it can shape the positions expressed and the extent to which the resulting text reflects the writer's intentions. Prior interventions that address [[cognitive-offloading|overreliance]] mostly add friction at the point of AI-assisted judgment — cognitive forcing functions that require reasoning before recommendations appear. Engage-to-Unlock instead concentrates friction earlier, at the stage where independent human contribution is most valuable, and leaves the system otherwise usable. The design question the authors draw out is not whether to add friction, but where in the workflow it should sit.
+
+## A capability boundary, not a ban
+
+Rather than blocking AI altogether, Engage-to-Unlock conditions access to one capability — direct generation — while preserving a [[conversational-ai|conversational assistant]], called Teach-me, throughout. A second assistant, Tell-me, becomes available when an LLM-based discourse classifier detects both a position and a supporting claim in the draft, and the interface shows progress on a circular indicator. The authors call this a capability boundary and position it as [[scaffolding|scaffolding]] rather than prohibition: early in a task a system might support retrieval or reflection without producing the target text, later support critique or comparison, and finally generation for rewriting. They connect it to automation research showing that functions can be automated to different degrees, and they argue the design question shifts from "Should this user have access to AI?" to "What should this AI be able to do for this user, at this moment?"
+
+## Delay is not the same as engagement
+
+The experiment's strongest test compares Engage-to-Unlock with a yoked Time-Matched Unlock condition that received Tell-me at the same elapsed writing time as a matched participant, regardless of the yoked writer's own progress. The two conditions received generative capabilities at comparable moments, yet the Time-Matched group submitted fewer prompts (5.40 versus 7.70) and evaluated passages more slowly (20.29 versus 17.41 min). The authors also report that timing did not reproduce engagement: in nearly two-thirds of the cases where a Time-Matched participant received an early unlock, the draft had not met the discourse criteria that would have triggered it under Engage-to-Unlock — 38 of 60 unlocked participants, including 16 with empty drafts. This separates friction that responds to [[student-engagement|engagement]] from friction caused by waiting.
+
+## What this means for practice
+
+- **Instructors.** Treat withholding generation as a design choice, not a ban: the study's friction reduced verbatim AI-text coverage in final essays (27.32% versus 47.16%) while keeping the assistant available for conversation, so writers still got support for retrieval, questioning, and reflection.
+- **Instructors.** Ask for a position and a supporting argument before generative help arrives. Requiring these two elements is what the mechanism gated on, and it front-loaded the sensemaking that participants later drew on to evaluate AI-generated content faster.
+- **Instructors.** Do not expect delayed access alone to do the work. The time-matched condition unlocked on schedule yet often opened before writers had articulated anything; design the trigger around evidence of engagement.
+- **[[educational-technology-developers|Educational technology developers]].** Consider [[adaptive-learning|adaptivity]] across capabilities rather than at the system level: the paper's boundary exposed one capability while leaving conversational assistance intact, and its authors suggest varying which capabilities are gated by expertise, task stakes, or demonstrated engagement.
+
+## Limitations
+
+- A client-side timer stopped replaying scheduled events at 20 minutes, so 14 of 94 Time-Matched Unlock participants never received their scheduled unlock, weakening how precisely that comparison isolates contribution-based access.
+- Time-Matched Unlock participants were recruited in a separate second phase, so differences involving that condition may reflect cohort or recruitment differences; only the three Phase 1 conditions retained random assignment.
+- The study is a short-term, writing-focused experiment with no follow-up, so it cannot show whether the engagement changes persist, transfer to later unassisted performance, or generalize beyond argumentative writing.
+- The sample was a Prolific pool across five English-speaking countries; 97.5% held an undergraduate degree and the mean age was 35.7 years, limiting generalization to other learner populations.
+
+## Citation
+
+Su, X., Rimell, L., Li, J., Rannen-Triki, A., Paquet, U., Hendricks, L. A., Qadri, R., Ippolito, D., & Mirowski, P. (2026). [*Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI*](https://arxiv.org/abs/2610.01518). arXiv:2610.01518.
 
 ---
 
@@ -57281,6 +57462,52 @@ The study performs a **secondary/document analysis** comparing institutional pol
 ## Citation
 
 Ganguly, A., Johri, A., McDonald, N., Ali, A., et al. (2026). [A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education](https://arxiv.org/abs/2607.12296).
+
+---
+
+## [Feedback Without the Wait: Piloting a Generative AI Practice Platform in a Large Maths Class](https://edtechdev.github.io/aied/articles/genai-practice-platform-maths-feedback-2026/)
+
+> **Synthesis:** Chen and colleagues pilot a [[generative-ai|generative AI]] practice [[edtech-platform|platform]] in a large first-year [[engineering-education|electrical engineering]] subject on probability, confronting a familiar tension: [[feedback]] is most powerful when immediate and specific, but the [[human-in-the-loop-ai|human oversight]] that makes AI judgments trustworthy reintroduces the very delay that erodes its value. Their response decouples feedback immediacy from solution verification, moving demonstrators from real-time graders to upfront verifiers of answers, against which the model generates immediate, [[scaffolding|scaffolded]] feedback during [[self-directed-learning|self-directed practice]]. Deployed mid-semester as an optional resource at a [[higher-ed|university]], the platform drew 95 registrants from 157 enrolled students, of whom 34 made 230 submissions in an iterative attempt–feedback–revise loop. A 53-response survey, platform [[learning-analytics|analytics]], and progress-test scores for three highly engaged students suggest positive perceptions and plausible [[learning-gains|attainment gains]], but the evidence is observational and self-selected. The pilot's contribution is less a measured effect than a transferable design and governance pattern for scalable [[formative-assessment|formative assessment]].
+
+## Key Findings
+
+1. Of 157 enrolled students, 95 registered for the optional platform and 34 attempted at least one question, together generating 230 submissions; the median active user made three submissions and the most active made 40.
+2. Platform users rated all five experiential constructs above the neutral midpoint of three, highest for [[student-engagement|engagement]] and [[active-learning]] (3.97 out of 5; 79% agreement) and lowest for preferring the system over the existing problem booklet (42%).
+3. Users were markedly more convinced than non-users that immediate AI feedback, even with errors, is more useful than delayed demonstrator feedback (79% versus 59%), suggesting direct experience strengthened rather than eroded [[trust]].
+4. The strongest single survey item was that students actively thought about solutions rather than guessing (95% agreement); a well-established booklet with worked solutions remained the preferred resource (42%).
+5. Thematic analysis of open responses surfaced four themes: immediacy as the core value, calibrated trust, pinpointing the exact mistaken step, and a desire for better progress tracking and control.
+6. Three highly engaged students improved their progress-test percentile ranks (82nd to 99th, 13th to 32nd, 52nd to 82nd), presented as illustrative trajectories rather than evidence of a platform effect.
+
+## Designing around the immediacy–oversight tension
+
+The platform combines three elements: a curated bank of problem-booklet items with demonstrator-verified solutions, exam-style [[automated-question-generation|AI-generated questions]] that expand the practice pool, and an iterative attempt–feedback–revise loop. Two [[agentic-ai|AI agents]], implemented as separate LangGraph services, handle question generation and feedback generation. The generation agent creates variants by modifying numerical parameters while preserving the assessed concepts, and staff must review and approve new items before students see them. The feedback agent reasons against the human-endorsed solution, identifying [[misconceptions]] and missing reasoning steps rather than only marking correctness. This differs from conventional online quizzes with instant but generic correctness checks and from fully [[automated-assessment|automated graders]] that lack human oversight. Crucially, oversight sits upstream at verification, not at the point of grading: original questions rest on demonstrator-verified solutions, AI-generated items stay hidden until approved, and students can report problems for moderation. [[prompt-engineering|Feedback prompts]] were designed around feed-forward principles—locating where reasoning diverged and guiding the next step instead of revealing the answer. The paper's central claim is that verification can be moved in time, so oversight need not be contemporaneous with the feedback moment. The authors also flag [[motivation]] and trust as plausible mediators of any effect.
+
+## What students valued and questioned
+
+Thematic analysis of open responses, following Braun and Clarke, surfaced four themes. Immediacy was the core value: students liked receiving feedback at the moment of difficulty and not leaving a question unresolved. Their stance toward reliability was [[trust-calibration|calibrated]] rather than naive—students acknowledged that the [[llm|model]] sometimes errs and can return different solutions for identical inputs, yet still judged immediate help worth the trade. A third theme was pinpointing the mistake: feedback that engaged a student's own working and named the precise faulty step, rather than presenting the final answer. Students also wanted better progress tracking, topic and question-type selection, and, when already confident, a way to bypass feedback generation given its time and compute cost. The survey's strongest item was active thinking rather than guessing (95% agreement); the weakest was preferring the system to the booklet (42%). Users rated [[ai-feedback-quality|feedback effectiveness]] fourth of the five constructs (3.54), below engagement (3.97) and conceptual understanding (3.68); the platform read as a complement rather than a replacement.
+
+## Evidence of engagement and attainment
+
+To probe whether engagement related to attainment, the authors examined the three most engaged users with both progress-test scores available. Student A, with 40 submissions across five active days, moved from the 82nd to the 99th percentile (+1.21 SD); Student B, 25 submissions, rose from the 13th to the 32nd percentile (+0.45 SD); Student C, 19 submissions, jumped from the 52nd to the 82nd percentile (+1.00 SD). The authors are explicit that these are practice-based vignettes: engagement was voluntary, the number of highly engaged students was small, and other supports or cohort-level factors may also explain progress. The survey evidence rests on [[self-report-measures|self-report]] instruments and a [[mixed-methods-research|mixed-methods]] design—11 items across five constructs, 19 users and 34 non-users, with open responses analyzed thematically. Together the data show a usable, valued prototype; they cannot establish that the platform caused the gains.
+
+## What this means for practice
+
+- **Instructors.** Keep the human in the loop at solution verification, not real-time grading, so feedback stays immediate while retaining the oversight students trust, and build on an existing demonstrator-verified problem set.
+- **Instructors.** Design feedback prompts explicitly around feed-forward behavior—locate the error and guide the next step instead of revealing the answer—and expect this to be the hardest behavior to deliver consistently.
+- **Instructors.** Invest early in symbolic and notation-heavy answer entry, algebraic-equivalence handling, and a preview function, since answer input is a [[usability-research|usability]] issue in [[math-education|mathematical subjects]], not an edge case.
+- **Platform and [[curriculum-design|curriculum]] designers.** Embed the tool in the subject's workflow by linking it to topics or low-stakes checkpoints rather than releasing it as a standalone optional resource, to close the registration-to-use gap.
+- **Institutions.** Position GenAI for practice rather than [[assessment]] to ease trust and governance concerns, and be transparent that the AI can [[hallucination-risk|hallucinate]] while solutions are human-verified, which our experience suggests supports calibrated trust rather than over-reliance.
+
+## Limitations
+
+- The survey drew 53 responses, but experience-based items reflect only 19 users, while belief-based items compare 19 users and 34 non-users; the sample is self-selected and the findings are indicative, not conclusive.
+- Uptake was uneven: 95 of 157 enrolled students registered, but only 34 attempted a question, and the attainment evidence rests on three illustrative cases with no control group or baseline adjustment.
+- The platform ran at a single institution in one mid-semester core subject, with progress-test scores available only for a subset of users, so transfer to other subjects is argued rather than demonstrated.
+- All data are observational, drawn from platform analytics, an end-of-semester survey, and existing test scores; the authors plan a pre- and post-exposure survey and a quasi-experimental analysis to address this gap.
+
+## Citation
+
+Chen, L., Buskes, G., Ren, Y., & Leong, C. T. (2026). [*Feedback without the wait: Piloting a generative AI practice platform in a large maths class*](https://arxiv.org/abs/2610.01262). arXiv:2610.01262.
 
 ---
 
@@ -77623,6 +77850,48 @@ O'Brien, J., Ellis, M., Robinson, A., Simonetti, J., & Ramakrishnan, N. (2026). 
 
 ---
 
+## [PhysicsMate: A Curriculum-Grounded Bengali Benchmark for Secondary Physics QA with Small-Model Adaptation](https://edtechdev.github.io/aied/articles/physicsmate-bengali-secondary-physics-benchmark-2026/)
+
+> **Synthesis:** Bengali, spoken by over 300 million people, remains underrepresented in [[educational-nlp|educational NLP]], and its [[k-12|secondary education]] lacks [[curriculum-design|curriculum-grounded]] benchmarks for [[stem-education|STEM]] question-solving; general-purpose models also struggle with the terminology, unit conventions, and derivations that [[physics-education|physics]] problems demand. Jahin and colleagues introduce PhysicsMate, a [[benchmark]] of 1,834 Bengali question–answer pairs built from the National Curriculum and Textbook Board (NCTB) Grade 9–10 physics syllabus and grounded in a multi-relational [[knowledge-graph]] of 1,760 nodes and 2,600 edges across ten ontological types. Using a single LoRA recipe, they adapt [[llm|Qwen3 language models]] at 0.6B, 1.7B, and 4B parameters, gaining +5.5, +15.0, and +23.3 percentage points in closed-book accuracy. A node-type analysis shows the largest gains on structured curricular knowledge — physical quantities, laws, and definitions — and the smallest on loosely specified entity knowledge, offering [[multilingual-learning|low-resource-language]] education a diagnostic account of where [[llm-training-and-fine-tuning|parameter-efficient adaptation]] pays off.
+
+## Key Findings
+
+1. PhysicsMate releases 1,834 curriculum-grounded Bengali QA pairs built from the NCTB Grade 9–10 physics textbook and mapped to a knowledge graph of 1,760 nodes across 10 ontological types and 2,600 directed edges.
+2. The corpus is partitioned into training (n = 1,374; 74.9%), validation (n = 185; 10.1%), and held-out test (n = 275; 15.0%) sets stratified by chapter, with membership checked programmatically so no question ID appears in more than one partition.
+3. Under one fixed LoRA recipe, fine-tuning improved every metric at every scale: closed-book accuracy rose by 5.5, 15.0, and 23.3 percentage points for the 0.6B, 1.7B, and 4B Qwen3 models respectively.
+4. The adapted 4B model reached 50.9% accuracy — well below the zero-shot cloud baselines GPT-4o-mini (69.5%) and Gemini-2.5-Flash-Lite (82.9%), yet higher than them on Token F1 and BERTScore.
+5. Node-type diagnostics show relative Token F1 gains of 93.9% for physical quantities, 56.6% for laws, and 56.1% for definitions, against just 8.7% for loosely specified entity-level knowledge.
+6. The adapted 4B model was 4-bit quantized into a small offline binary for local inference in environments with limited connectivity and hardware.
+
+## A curriculum-grounded benchmark and knowledge graph
+
+The NCTB Grade 9–10 physics textbook spans 13 chapters and 359 pages across mechanics, electromagnetism, optics, and modern physics. The pipeline begins with page-level OCR, converts each page to normalized Markdown, then extracts self-contained curricular knowledge units using three-page context windows with two-page overlaps, yielding 811 semantic units. Each record carries an ontology type, a canonical Bengali title, a formula where applicable, SI units, source pages, a topic, typed relations, and provenance. The resulting multi-relational graph stores 1,760 nodes — concepts (397), questions (252), quantities (224), figures (218), examples (188), entities (176), definitions (136), formulas (83), laws (65), and higher-secondary topics (21) — connected by 2,600 directed edges. Principal relations include part_of, applies_to, illustrates, example_of, depends_on, and derived_from. The [[automated-question-generation|automated question generation]] step then links each of the 1,834 QA pairs to a specific knowledge node and originating semantic unit, so every item can be traced back to a textbook passage.
+
+## What adaptation changes, and where
+
+All three Qwen3 scales were fine-tuned under one LoRA configuration — rank 16, scaling factor 32, dropout 0.05, 3 epochs, 8-bit AdamW — so model capacity was the key variable. The unadapted 0.6B model answered no test question correctly; after adaptation it reached 5.5%. The 1.7B model doubled from 10.5% to 25.5%, and the 4B model improved by 23.3 points to 50.9%. The authors caution that three data points cannot establish a scaling law, though the trend is monotonic across accuracy, Token F1, and BERTScore. Node-type diagnostics trace the gains to canonical knowledge: quantities, laws, and definitions adapt most readily, while entity mentions, which admit multiple valid surface forms, adapt least. [[qualitative-research|Qualitative]] cases show adaptation correcting a fabricated optics rule and completing a derivation that had stopped at Ohm's law. The authors argue the extraction framework generalizes to other [[science-education|secondary science curricula]] and to syllabi across [[global-south|South Asia]].
+
+## What this means for practice
+
+- **Instructors.** Treat an adapted small model as a teaching aid, not an autonomous grader: the best offline model reaches only 50.9% closed-book accuracy, so keep a [[teacher-role|teacher]] in the loop before outputs reach students.
+- **Instructors.** Focus practice on canonical, structured content — physical quantities, laws, and definitions — where low-rank adaptation works best, and expect weaker support on loosely specified entity knowledge.
+- **Curriculum designers.** Note the ontology's proposed reach: secondary [[chemistry-education|chemistry]] maps to physical quantities, named laws, formulas, and definitions, while secondary [[biology-education|biology]] maps to hierarchical concepts, anatomical figures, taxonomic entities, and descriptive definitions.
+- **Researchers.** Reuse the released splits and provenance metadata to compare adaptation recipes without re-partitioning, and hold the recipe fixed when testing whether capacity or data drives the gains.
+- **Institutions.** Plan for the hardware the pipeline still needs; offline deployment narrows but does not close the resource gap, because a classroom still needs at least one capable device.
+
+## Limitations
+
+- Accuracy rests on an LLM judge (Gemini-2.5-Flash-Lite at temperature 0) that was not cross-validated against an independent judge or a human-annotated subset, a [[assessment-validity|validity]] gap the authors flag as an open limitation.
+- Evaluation is text-only: the 218 figures linked in the knowledge graph are never used as visual inputs.
+- The benchmark covers one national curriculum, NCTB Grade 9–10 physics; generalization to other syllabi or subjects has not been tested.
+- Automated extraction with proprietary LLMs risks silent [[hallucination-risk|hallucinations]] and ontological omissions that were not thoroughly human-checked, and unadapted models can reinforce [[misconceptions]] with fabricated rules or incomplete derivations.
+
+## Citation
+
+Jahin, R. A., Sajid, S., Reza, K. R. I., & Nimi, S. T. (2026). [*PhysicsMate: A Curriculum-Grounded Bengali Benchmark for Secondary Physics QA with Small-Model Adaptation*](https://arxiv.org/abs/2610.00664). arXiv:2610.00664.
+
+---
+
 ## [Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning](https://edtechdev.github.io/aied/articles/physiological-signals-exam-outcomes-ml/)
 
 > **Synthesis:** Investigates ML models to predict exam outcomes from physiological data (electrodermal activity, heart rate, skin temperature) collected during exams. Evaluates logistic regression, random forest, SVM, transformers, LSTM, and GRU. Random forest often outperformed deep learning models while offering interpretability. Highlights value of physiological data for understanding student stress and real-time intervention potential.
@@ -86390,6 +86659,53 @@ Kuznetsov, A., Sheely, A., & Baker, J. (2026). [Student Use of and Views on GenA
 
 ---
 
+## [Correctness, Convergence, and AI-Generated Code Detection: A Longitudinal Study of Student and Large Language Model Code](https://edtechdev.github.io/aied/articles/student-llm-code-detection-cs1-2026/)
+
+> **Synthesis:** This longitudinal study asks what a similarity match between student work and a bank of [[llm]]-generated reference solutions actually establishes in [[cs-education|introductory programming]]. The authors compared 29,970 final submissions from ten Python labs in the 2021, 2023, and 2025 offerings of one CS1 course with 90,000 reference attempts generated retrospectively by GPT-5.5, Gemini 3.1 Pro, and Claude Opus 4.8. The models usually produced correct code — mean hidden-test scores of 98.93% to 99.99% — and converged on similar implementations, especially on tightly specified functions. Student–LLM match incidence rose to 1.76–2.12 times its 2021 level in 2025 and persisted among full-pass submissions, while four constrained functions appeared in fewer exact forms. Most reported overlaps were short (a median of 8–9 lines), so the minimum match length largely determines which files a review workflow retrieves. The authors argue the technique supports population-level monitoring and pre-release [[assessment-validity|assignment review]], not individual [[ai-detection|AI attribution]], which would require process evidence such as prompts, revisions, and [[ai-use-disclosure|disclosures]].
+
+## Key Findings
+
+1. The frontier models usually solved the labs: across LLM–year combinations, mean hidden-test scores ranged from 98.93% to 99.99%, compared with 76.37% (2021), 80.76% (2023), and 88.03% (2025) for student submissions.
+2. [[llm|Models]] from different providers converged: 87.79%–88.14% of cross-LLM pairs matched after docstring removal, only 3.40–3.61 percentage points below within-LLM rates, and cross-LLM rates exceeded 95% across Labs 1–9.
+3. Student submissions matched the generated reference bank more often over time: incidence was 1.06–1.19 times the 2021 rate in 2023 and 1.76–2.12 times that rate in 2025, persisting among full-pass files.
+4. Tightly specified functions collapsed toward few exact abstract-syntax-tree forms: the rarefied LLM pool produced 1–14 expected forms per 1,000 files, and four constrained functions had 18.4%–51.1% fewer distinct student forms by 2025.
+5. Open-ended tasks stayed diverse: loopy_madness yielded 846 expected LLM forms per 1,000 files against 929 student forms, and its 3,000 attempts contained 2,288 distinct forms with none shared by all three models.
+6. Most matches were short: the median reported overlap spanned 8–9 lines, and 97.0%–99.4% of cross-matches contained fewer than 30 matched lines, so the minimum match length is a consequential choice.
+7. Coverage collapsed as the minimum rose: at 30 lines, 2.9%–3.5% of 2021 student files and 10.8%–16.7% of 2025 LLM attempts retained a match; at 50 lines student-file coverage fell near zero.
+
+## Task structure, not authorship, drives convergence
+
+Convergence tracked how much freedom an assignment left, not what generated the code. On my_and, which forbids `==` and permits only `not` and `or`, all three models produced the same exact abstract syntax tree form via De Morgan's law, and the rarefied LLM pool yielded only 1–14 expected forms per 1,000 files on the four constrained functions, versus 151–804 among 2021 student submissions. At the opposite end, loopy_madness interweaves two strings with free choices about indices, direction state, and string construction, and none of its forms was shared by all three models. Lab 10, a compact regular-expression task, showed the mechanism from another angle: cross-LLM match rates fell to 13.18%–22.11% because equivalent regexes use different syntax and leave little shared code for MOSS to match. A match, then, can reflect a canonical solution that an independent student could reasonably write, and the authors urge reading match rates per task rather than as one detection signal.
+
+## What the cohort shift does and does not show
+
+Student code moved toward the models across the observed period, but the timing resists a simple explanation. Match incidence in 2023 sat only slightly above 2021 — 1.06–1.19 times the baseline — even though chat assistants were widely available during that offering, and the 2023 and 2025 syllabi carried materially identical [[academic-integrity|AI-use policies]] along with an institution-hosted [[generative-ai|generative-AI]] tutor on two labs. The large jump came in 2025, when incidence reached 1.76–2.12 times the 2021 rate. Rising [[learning-gains|lab correctness]] also coincided with lower final-exam means (55.3 in 2021, 54.6 in 2023, 49.8 in 2025), though the exams used different questions. The authors [[anxiety-and-stress|stress]] that the design is observational: teaching-team [[writing-education|composition]], permitted support, cohort composition, and shared resources all varied, so the change documents population-level resemblance in [[student-ai-interaction|AI use]] without identifying either a cause or any individual student's tool use.
+
+## Building and validating a reference bank before release
+
+Because generated solutions are cheap, the authors recommend producing them before students see an assignment. An instructor would run many attempts from the exact handout and starter code, grade every output with the instructor's [[automated-assessment|hidden test suite]], and inspect convergence separately for each task. A pilot bank of 100 attempts would cost about US$5 at the study's average batch rate of roughly 5 US cents per attempt — far below the 491.8 million tokens and US$4,284 spent on the full 90,000-attempt run. Where outputs converge on one form, the task may be too constrained; where repeatedly generated failures cluster, the handout may be ambiguous. The profile gives the instructor a chance to revise before release and to decide what additional evidence — staged work, student-written tests, explanations, or oral follow-ups — the assessment should elicit. Lab 10 warns against reading low matching as rich reasoning, since one compact expression can hide many equivalent forms.
+
+## What this means for practice
+
+- **Instructors.** Build a validated reference bank before releasing an assignment: generate solutions from the exact handout and starter code, grade them with the hidden instructor tests, and inspect convergence per task, since a 100-attempt pilot costs roughly US$5.
+- **Instructors.** Read matches per task rather than against one threshold: cross-LLM matching exceeded 95% across Labs 1–9 but fell to 13.18%–22.11% on the compact regular-expression Lab 10, so constrained and open tasks carry different baselines.
+- **Instructors.** Choose the minimum match length deliberately, because the median overlap was only 8–9 lines and raising the cutoff to 30 or 50 lines drops most student files from the candidate set.
+- **Administrators.** Treat matches as a population-level signal, not individual evidence, since the study had no verified source labels and cannot identify which submission used AI or estimate how many students did.
+- **Researchers.** Collect prompts, revisions, intermediate code, and [[ai-use-disclosure|AI-use disclosures]] to connect final-code similarity with how work was actually produced and what students learned.
+
+## Limitations
+
+- The design is an observational cohort comparison with no verified submission-level source labels or contemporaneous AI-use disclosures, so it cannot validate individual detection or estimate AI-use prevalence.
+- Although the lead instructor, delivery mode, and core materials were stable at the single large research-intensive [[higher-ed|university]], other instructors, most teaching assistants, cohort composition, and some checker or specification details varied, preventing causal attribution; the 2022 and 2024 offerings were excluded as too different.
+- The reference bank uses three 2026 frontier models under one fixed protocol, so it measures retrospective resemblance rather than the tools students actually had in 2023 or 2025, and absolute rates may change with future models.
+- MOSS reports surface overlap only, the exact-form estimates are limited to five purposively selected functions, and four unreadable files (three from 2023, one from 2025) were dropped from the MOSS analyses.
+
+## Citation
+
+Ye, R., Fan, J., Zavaleta Bernuy, A., Karnalim, O., Denny, P., Leinonen, J., & Liut, M. (2026). [*Correctness, Convergence, and AI-Generated Code Detection: A Longitudinal Study of Student and Large Language Model Code in Introductory Programming*](https://arxiv.org/abs/2610.00863). arXiv:2610.00863.
+
+---
+
 ## [Toward Convergence in Student-LLM Interactions: A Rapid Scoping Review and Taxonomy for Learning-Oriented Use](https://edtechdev.github.io/aied/articles/student-llm-interaction-taxonomy-review-2026/)
 
 > **Synthesis:** Borchers, Jansen, and Weidlich (2026) conduct a rapid [[meta-analysis-systematic-review|scoping review]] of how student interactions with large language models are defined and categorized, finding that research remains conceptually fragmented. Across 46 categorizations drawn from 33 studies, they identify substantial variation in data sources, category-construction approaches, and units of analysis, which prevents comparison across studies and understanding of when LLM use supports learning. The review argues for a convergent taxonomy of learning-oriented [[llm]] interactions. It provides a methodological foundation for the [[student-experience]] literature and for interpreting [[learning-analytics]] and self-regulatory evidence across heterogeneous studies.
@@ -86486,6 +86802,52 @@ The recommended path is empirical calibration: estimate difficulty and discrimin
 ## Citation
 
 Yuan An & Lei Wang (2026). [*Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses*](https://arxiv.org/abs/2609.27063). arXiv preprint.
+
+---
+
+## [Understanding Student Use of Large Language Models Across Computer Science Subfields](https://edtechdev.github.io/aied/articles/student-llm-use-cs-subfields-2026/)
+
+> **Synthesis:** This full research paper reports a cross-subfield analysis of how 211 [[higher-ed|undergraduates]] used [[llm|large language models]] across seven assignments in a single [[problem-solving]] course at a large R1 university in Fall 2025. Building on a demystify, use, and reflect intervention, the authors compared prompt-count intensity, [[student-ai-interaction|role conceptualization]], and verification behavior across [[cs-education|computer science]] subfields including algorithms, software engineering, networking, web development, HCI, databases, and [[machine-learning|machine learning]]. Adoption varied sharply by assignment — highest in algorithms (89.6%) and web development (80.6%), lowest in software engineering (15.2%). Students framed the LLM predominantly as an assistant rather than an expert, and almost all reported some checking, most often [[metacognition|manual reasoning]] combined with testing. The form of verification tracked the task: testing dominated structured, executable work, while web search rose in open-ended design and conceptual tasks. The authors conclude that assignment design, not the subfield label, shapes how students engage with and evaluate LLMs.
+
+## Key Findings
+
+1. Across seven assignments and 211 students, LLM adoption varied substantially by task — highest in algorithms (89.6%) and web development (80.6%), and lowest in software engineering (15.2%).
+2. A Kruskal–Wallis test found prompt-count distributions differed significantly across assignments (H = 71.18, df = 6, p < 0.001), with moderate prompting (3–5 prompts) the most common pattern for 29–46% of users.
+3. Students predominantly conceptualized the LLM as an assistant (61.6% in algorithms, 63.0% in web development), while expert use stayed low (0.0%–9.0%) and role distribution differed significantly across assignments (χ2 = 358.73, df = 18, p < 0.001).
+4. Verification was nearly universal: 93%–100% of LLM users reported at least one method, and manual reasoning was the most consistent (70.7%–82.4%) with no significant difference across assignments (χ2 = 5.73, p = 0.455).
+5. Testing varied by task (χ2 = 133.03, df = 6, p < 0.001), highest in algorithms (87.8%) and lowest in HCI (27.5%); web search was highest in HCI (56.0%) and lowest in databases (32.5%).
+6. Most students combined strategies — 49.7% used exactly two methods and 15.6% used three — with manual reasoning plus tests the most common combination (27.5%).
+
+## Adoption Tracks Task Demands
+
+The authors interpret the adoption spread as a function of assignment complexity, verifiability, and instructional [[scaffolding|scaffolding]] rather than a fixed property of each subfield. The Knapsack Problem homework in algorithms — recursive and dynamic programming with unit tests and extra constraints such as conflicting items and bonus combinations — was difficult, testable, and iterative, which likely made the LLM attractive as a coding and debugging aid (89.6% adoption, 87.8% testing). Web development's HTML table task was not algorithmically hard but demanded painstaking CSS and layout debugging, and drew 80.6% adoption. By contrast, the software engineering Git exercise was procedural and strongly scaffolded with explicit instructions, and only 15.2% of students used the LLM. Networking and databases sat in the middle at 58.3%. HCI (43.1%) and machine learning (40.3%) were lower and more open-ended. Instruction throughout emphasized effective [[prompt-engineering|prompting strategies]] and iterative interaction, and the authors [[anxiety-and-stress|stress]] that task clarity and complexity were never measured directly — this remains association, not causation.
+
+## Students Frame the LLM as an Assistant
+
+Among students who used LLMs, the Assistant role dominated every assignment, peaking at 63.0% in web development and 61.6% in algorithms. Peer use was consistently second (18.0% in algorithms, 11.8% in databases), and Expert use was rare — just 9.0% in algorithms and web development, and 0.0% in software engineering. The authors read this as evidence that students were not simply delegating problem solving to the model, but using it selectively to support their own reasoning, especially on difficult or implementation-heavy tasks. A substantial share reported no LLM use at all in several assignments (86.3% in software engineering, 59.7% in machine learning, 57.3% in HCI). The course emphasized ethical use and required students to acknowledge AI-generated contributions, tying the framing to [[ai-use-disclosure|disclosure]] and [[academic-integrity|academic integrity]] norms, while prior work links role framing to beliefs about a tool's professional legitimacy — relevant to [[ai-literacy|AI literacy]] instruction aimed at informed, [[self-regulated-learning|self-regulated]] use.
+
+## Verification Takes the Shape of the Task
+
+Verification was the norm, not the exception: 93%–100% of LLM users reported at least one method, and non-verification ranged only from 0% to 8%. Manual reasoning was remarkably stable (70.7%–82.4%, no significant difference across assignments), suggesting students relied on their own judgment regardless of task. What changed was the supporting method. In structured, executable assignments testing was the natural check (algorithms 87.8%, software engineering 65.6%). In open-ended tasks that could not be tested, students reached for external references: web search peaked in HCI (56.0%), web development (49.4%), and machine learning (47.1%). This is the pattern the authors expected — checking a design choice or a conceptual claim demands a different form of [[evaluative-judgment|evaluative judgment]], and a different [[trust-calibration|trust calibration]], than checking that code runs. Students combined approaches rather than relying on one: 49.7% used two methods and 15.6% used three.
+
+## What this means for practice
+
+- **Instructors.** Expect LLM use to track assignment difficulty and testability, not subfield: adoption ran from 89.6% in algorithms to 15.2% in software engineering under one [[learning-design|instructional design]], so plan for very uneven uptake across a course.
+- **Instructors.** Engineer verification into the task itself. Testing was the check students actually used where it was available, so keep outputs executable and testable when you want testing; where work is open-ended, require external sources, as HCI students reached for web search at 56.0%.
+- **Instructors.** Treat low adoption as ambiguous. The Git exercise was procedural and explicitly scaffolded, so low use may reflect genuine low need rather than avoidance — ask students why instead of assuming disengagement.
+- **[[curriculum-design|Curriculum]] and course designers.** Build in post-assignment reflection. Every finding here rests on short reflection surveys completed after each task, which is what made a within-subject, cross-subfield comparison possible.
+- **Researchers.** Extend the single-course design across more assignments and institutions, and validate self-reported prompt counts against server-side usage logs.
+
+## Limitations
+
+- All measures come from [[self-report-measures|self-reported]] post-assignment reflections subject to recall bias, greatest for heavier users who had to distinguish adjacent prompt-count ranges such as 3–5 versus 6–10; the authors propose validating counts against server-side logs.
+- The role labels (Assistant, Peer, Expert, None) were presented without in-survey definitions and the instrument was not formally piloted, so a student's reported role may reflect label interpretation rather than a genuine difference in how the LLM was used.
+- Approximately 36% of consenting participants were excluded for not completing all seven reflection surveys, and non-completion may itself track assignment difficulty or attitudes toward LLM use; the final sample was 211 students in one course at one R1 university in Fall 2025.
+- The study documents associations between assignment characteristics and LLM usage but does not establish causality; assignment clarity, testability, and open-endedness were not measured directly.
+
+## Citation
+
+Nizamani, S. B., Lee, Y., Donekal Chandrashekar, N., Ellis, M., & Ramakrishnan, N. (2026). [*Understanding Student Use of Large Language Models Across Computer Science Subfields*](https://arxiv.org/abs/2610.01158). arXiv:2610.01158.
 
 ---
 
@@ -90283,6 +90645,58 @@ Thoeni, A., & Fryer, L. K. (2026). [AI chatbots in higher education: Comparing e
 
 ---
 
+## [Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking](https://edtechdev.github.io/aied/articles/three-pathways-student-ai-interaction-2026/)
+
+> **Synthesis:** Zahra (2026) introduces the Three Paths of Student-AI Interaction, a typology distinguishing Passive Review, Direct Question, and Strategic Dialogue as qualitatively distinct modes of [[student-ai-interaction]], alongside the Next Level Teaching Blueprint (NLTB), a three-stage design intended to make Strategic Dialogue the structural default. A [[qualitative-research|qualitative content analysis]] of 50 randomly sampled student-AI interaction messages from an undergraduate [[research-methods-aied|research methods]] course classified 46% as Path 1, 18% as Path 2, and 36% as Path 3, with 68% path-level agreement (κ = .48) between two human coders and 80% agreement on Path 3. A second, descriptively examined dataset of 57 messages from a reflection-structured assignment was predominantly Path 3, which the author reads as preliminary evidence that instructional framing shifts which path students take. The paper argues that [[generative-ai|AI use]] is too coarse a category to guide teaching, and that what students do with the tool — not whether they use it — determines the [[critical-thinking|higher-order thinking]] they practice.
+
+## Key Findings
+
+1. Under the lead coder's final classifications, Path 1 (Passive Review) accounted for 46% of coded exchanges, Path 2 (Direct Question) for 18%, and Path 3 (Strategic Dialogue) for 36%.
+2. A three-coder majority vote (lead coder, research assistant, and GPT-5) produced a nearly identical distribution of 48% Path 1, 16% Path 2, and 36% Path 3.
+3. Two human coders reached 68% path-level agreement (κ = .48), with Path 2 involved in 11 of the 16 discrepancies and 80% agreement on Path 3 identification.
+4. Paths 1 and 2 together accounted for 64% of the primary sample, consistent with the typology's prediction that Strategic Dialogue is not students' default mode of [[student-engagement|engagement]].
+5. A second dataset of 57 messages from 10 students on a reflection-structured assignment was dominated by probing, applicative Path 3 content, offering a preliminary indication that assignment framing influences path engagement.
+6. GPT-5, used as a third coder on the same 50 messages, introduced a calculation_check category covering 28% of messages and absent from the human scheme, surfacing a recurring structure human coders had split across two labels.
+7. GPT-5 classified 28% of exchanges as Path 3 versus 36% for the lead coder and 24% for the research assistant, though the added category limited direct cross-coder comparison; a campus-wide follow-on is funded at $22,100 across two phases with a three-year target of 12 to 15 faculty and roughly 350 students.
+
+## The Three Paths of Student-AI Interaction
+
+The typology grew out of cognitive science, educational technology, and AI literacy literatures, and it rests on a claim long familiar to [[distributed-cognition]] research: the same tool can [[scaffolding|scaffold]] thinking or displace it depending on use. Path 1, Passive Review, treats the model as an authoritative oracle; students submit a [[prompt-engineering|prompt]], accept the output with minimal scrutiny, and move on. Path 2, Direct Question, is transactional — students formulate a targeted question, evaluate the response at surface level, and fill a gap without examining their reasoning. Path 3, Strategic Dialogue, is dialogic and recursive: students arrive with their own analysis or half-formed argument, ask the AI to challenge it, probe assumptions, and compare the machine's thinking to their own.
+
+The framework maps onto a developmental trajectory of [[ai-literacy]] and [[agency]]: Path 1 students treat AI as authoritative, Path 2 students use it instrumentally with some [[evaluative-judgment|evaluative judgment]], and Path 3 students interrogate its reasoning while maintaining epistemic agency. The core claim is that learning outcomes depend less on whether students use AI than on which path they are on when they do.
+
+## The Next Level Teaching Blueprint
+
+If Path 3 offers the strongest opportunity for higher-order thinking but is not the default, the design question is what architecture would make it more likely. The NLTB answers with three sequenced stages. In Stage 1, Independent Work, students engage the problem fully without AI, documenting reasoning, hypotheses, and uncertainties — the cognitive anchor that structurally prevents Paths 1 and 2 by ensuring a position exists before AI contact. Stage 2, Dialogic AI Partnership, requires students to share that reasoning, ask the AI to challenge it, and probe its responses; asking for answers, summaries, or drafts is non-compliant by design, turning Strategic Dialogue into a rehearsed practice. Stage 3, Reflective Synthesis, returns students to their Stage 1 documentation and requires a [[metacognition|metacognitive]] act: compare original and AI-augmented thinking, articulate where and why their position changed, and construct an integrated, evaluated account.
+
+Across all three stages the student remains the epistemic agent while the AI serves as resource rather than authority, answering [[critical-pedagogy|Freire's critique of the banking model]] of education: no stage permits passive receipt of AI output.
+
+## Paths as a Design Variable, Not a Student Type
+
+The most directly actionable result is that Paths 1 and 2 made up 64% of coded interactions. Without deliberate scaffolding, the paper argues, students gravitate to the modes offering the least cognitive resistance; Path 3 requires effort they may not expend without structural incentive. Crucially, the typology describes interaction modes that can shift when design changes rather than fixed student types, and the contrasting reflection assignment suggests that requiring hypotheses and applicative reasoning can produce Path 3 behavior.
+
+The implications extend to [[educational-policy-ai|institutional policy]]: a prohibition that blocks Paths 1 and 2 harms also forecloses Path 3 benefits, while a permissive policy without scaffolding simply produces Path 1 and 2 users at scale. The NLTB's wager is that making Path 3 the structural default — by designing the conditions of engagement rather than restricting the tool — is an instructional question, not a regulatory one.
+
+## What this means for practice
+
+- **Instructors.** Require students to document their own reasoning before any AI contact, then have them propose a position the AI must challenge; telling students to "use AI critically" is not itself an [[learning-design|instructional design]].
+- **Instructional designers.** Build the comparison into the assignment — Stage 3 must ask students to adjudicate between their original and AI-augmented thinking, so a polished answer or quick verification stops being a sufficient response.
+- **Administrators and policymakers.** Treat policy as a design lever rather than a permission switch: neither prohibition nor unconstrained permission produces Path 3 engagement on its own.
+- **Researchers.** Expand coding work beyond a single course and refine the contested Path 1/Path 2 boundary, which produced most of the disagreements between human coders.
+
+## Limitations
+
+- The coded dataset is small — 50 messages from 14 students in a single undergraduate research methods course at one R1 institution — which limits generalizability.
+- Path-level inter-rater reliability was moderate (κ = .48), and the Path 1/Path 2 boundary remained the most contested site in the coding scheme.
+- The second dataset (57 messages, same course, different assignment) was treated as descriptive context and was not formally coded, so the framing contrast is not a controlled comparison.
+- The study does not measure learning outcomes; whether the interaction patterns translate into measurable differences in what students learn is reported in a separate empirical study and is not answered here.
+
+## Citation
+
+Zahra, F. T. (2026). [*Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking*](https://arxiv.org/abs/2610.00338). arXiv:2610.00338.
+
+---
+
 ## [Augmenting Knowledge Tracing Through Modeling Dynamic Higher-Order Concept Interactions: A Temporal Hypergraph Memory Network](https://edtechdev.github.io/aied/articles/thymen-temporal-hypergraph-knowledge-tracing-2026/)
 
 > **Synthesis:** Mehrnoush Mohammadi, Kamal Berahmand, Shazia Sadiq, & Hassan Khosravi (2026) propose **THyMeN (Temporal Hypergraph Memory Network)**, a hybrid model that augments memory-based [[knowledge-tracing]] with temporal hypergraph reasoning to capture dynamic higher-order concept interactions.
@@ -92519,6 +92933,51 @@ The paper proposes two foundational dimensions — rethinking [[pedagogy|pedagog
 ## Citation
 
 Videla, R., Penny, S., & Ross, W. (2026). [*"If You Can't Dance Your Program, You Can't Write It": Challenges and Implications for AI in Education*](https://doi.org/10.1145/3759257). ACM Transactions on Computing Education, 26(3), Article 43.
+
+---
+
+## [How AI-vulnerable is Australian higher education assessment? A computational audit of Group of Eight Arts and Humanities units, 2022–2026](https://edtechdev.github.io/aied/articles/villanueva-ai-vulnerability-assessment-audit-2026/)
+
+> **Synthesis:** Universities have spent four years writing [[generative-ai|GenAI]] policy while their published assessments have barely moved. Villanueva audits 15,587 annual unit records and 53,915 assessment items across Australia's Group of Eight Arts and Humanities units from 2022 to 2026, scoring each item's exposure with an author-developed AI Vulnerability Index. Average unit exposure rose sharply at all seven institutions with comparable data — 0.269–0.330 in 2022 to 0.559–0.673 in 2024 — and every one stayed above its 2022 level in 2026. Exposure is concentrated rather than diffuse: five unsupervised written formats carry nearly all of it, and take-home essays plus research reports alone account for 71.4% of exposure among items scoring at least 0.60 once weighted by marks. High exposure is neither misconduct nor automatically a defect, but where it is unintended it weakens the [[assessment-validity|evidential basis]] of the credentials a program awards.
+
+## Key Findings
+
+1. The audit covers 15,587 annual unit records and 53,915 assessment items at the eight Group of Eight universities from 2022 to 2026, collected from public handbooks, course profiles and subject outlines. Units are counted separately in every year they were recorded, so the total is not a count of distinct units.
+2. Across the five years the average item score is 0.505; 47.3% of items score at least 0.60 and 34.8% at least 0.80. In 2026, 58.6% of items were highly or very highly exposed and 56.5% very highly exposed, the highest yearly figures in the series.
+3. Average unit exposure rose at every institution with comparable 2022 and 2024 data, from 0.269–0.330 to 0.559–0.673, and all seven remained above their 2022 level in 2026, though later trends diverged: UNSW kept rising, several institutions changed little after 2024, and Queensland declined from its 2024 peak.
+4. In 2026, very-high-exposure items absorbed between 53.1% (Queensland) and 70.7% (UNSW) of allocated marks, and between 53.1% and 79.1% of units scored at least 0.60.
+5. Exposure concentrates in five formats: take-home essays (34.7% of items scoring at least 0.60), research reports and literature reviews (32.8%), unproctored online quizzes (13.1%), reflective journals and essays (7.4%), and unsupervised creative writing or digital artifacts (6.8%). Weighted by contribution to final grades, the first two alone account for 71.4%.
+6. Institutional policy category did not correspond to lower exposure: mandate and framework institutions both appear at the higher and middle of the distribution, so the prescriptiveness of central policy does not reveal the conditions under which students produce their work.
+
+## The AI Vulnerability Index: exposure, not misconduct
+
+The AIVI scores each assessment item from 0.00 to 1.00 using published task format, supervision, identity checks, evidence of how work developed, requirements tied to local material, and the author's evaluation of GenAI capability in that year. Scores are banded as low (below 0.30), moderate (0.30–0.59), high (0.60–0.79) and very high (0.80 or above), and each item's score is multiplied by its share of the final grade before unit and university averages are taken — an 80% essay with a 20% exam scores far higher than the reverse. Scores are year-relative, so an unchanged task can score higher later; the index measures how readily GenAI available in a given year could help complete the work, not whether students used it. A high score may describe a task deliberately designed to permit AI, and exposure is separate from security: the [[assessment|secure/non-secure]] arrangements in sector guidance govern who completed the work and under what conditions, while AIVI governs how easily it could be assisted. Validation is substantial but self-referential. Five open-weight models classified the items; agreement across all ten model pairs exceeded 0.80 for 2022–2023, with an overall weighted kappa of 0.907 across 233,624 comparisons and an average of 0.894 for 2024–2026. Human review of 326 checks judged 315 correct or mostly correct (96.6%). Both checks assess extraction and classification, not independent calibration of the numerical ratings.
+
+## What changed, and which formats carry it
+
+The low-exposure end of the scale is instructive. Invigilated examinations score 0.00, oral examinations and vivas 0.05, live performance and laboratory work 0.10, supervised in-class tests 0.15, and proctored online examinations about 0.40. At the other end, take-home essays, unproctored online quizzes, reflective journals, research reports and unsupervised digital artifacts score at or near 1.00 — and recorded presentations and remote group projects reach 0.85 despite their oral or interactive form, because the public record cannot verify how the work was produced. Exposure therefore depends on the conditions in which work is completed rather than on educational purpose alone, and tasks with the same learning aims can have very different scores. This is where the audit's findings bite hardest for [[authentic-assessment|authentic assessment]]. Formats with an authentic surface — recorded presentations, digital artifacts, reflective journals — sit in the high-exposure band under 2026 scoring, bearing out the warning that authentic design does not by itself prevent misconduct or verify authorship. The concentration matters for practice: a small number of established, unsupervised written formats accounts for most institutional exposure, so the priority list for redesign is shorter than much of the post-ChatGPT literature implies. That list is also harder to act on in the Arts and Humanities than elsewhere, because there the essay is not an instrument documenting learning achieved elsewhere but the medium through which critical reasoning, sustained reading and independent research are developed. Replacing a research essay with a viva or a supervised in-class task is not an equivalent swap.
+
+## Policy did not predict exposure
+
+Institutional documents were classified as mandate (specified steps to verify learning or redesign assessment), framework (structured principles leaving implementation to faculties) or guidance (advisory). Mandate and framework institutions appear across the distribution of unit exposure and of mark allocation, so more prescriptive central policy did not consistently accompany less exposed assessment. The audit's reading is that policy and redesign are different processes: a university may publish a sophisticated position on GenAI use, disclosure and detection while unit coordinators work within inherited templates, approval processes, workload constraints and uneven local support. Reform is an organizational problem before a pedagogical one — moving from unsupervised essays to vivas, staged checkpoints or supervised production requires rooms, invigilation, moderation, accessibility adjustments, staff time, and smaller marking loads, and large-scale [[remote-proctoring|online proctoring]] offers an apparent shortcut at documented ethical and equity cost. The author's constructive proposal is sufficient assurance at program level: map each task to its learning outcomes, intended GenAI role, contribution to the final grade and arrangements for verifying the work, and make sure the mix follows from the outcomes being certified rather than from inherited templates. Audits should be repeated, since a defensible mix in 2026 may not yield the same evidence in 2030.
+
+## What this means for practice
+
+- **Assessment designers.** Audit the mark-weighted mix rather than counting items: a low-weight oral check can verify learning demonstrated in a much larger open task, and exposure measured by marks is what determines how much of a grade rests on unverified work.
+- **Institutions and administrators.** Treat policy text as a statement of intent, not evidence of redesign. The binding constraints are organizational — rooms, invigilation, moderation, accessibility adjustments and staff time — so program-level coordination has to be funded rather than assumed to follow from guidance.
+- **Instructors.** Read a high exposure score as a prompt for a design decision, not an automatic instruction to move to supervised assessment. The paper's own position is that open assessment remains valuable and that heavy reliance on invigilated examinations narrows what students can demonstrate.
+- **Researchers.** Note how little headroom the index now has: most unsupervised written formats already score at or near the 2026 maximum, so further capability gains will barely move the numbers. Future audits need to ask what evidence unsupervised written work can provide when advanced systems can approximate the submitted product.
+
+## Limitations
+
+- The AIVI is a research-informed exposure rating, not a measure of AI use, misconduct or educational value; its ratings and category thresholds rest on evaluative judgment, and different choices would change the reported averages and proportions.
+- Only public assessment information was used. Instructions on learning management systems, unpublished rubrics, oral checks, draft requirements and local GenAI rules are invisible, and where a published description does not match local delivery — a quiz recorded as online but administered in tutorials — the classifier defaults to the public text.
+- Classification by format misses design nuance: a research essay with staged drafts, local data or an oral defense may be considerably less exposed than a generic take-home essay, and the scheme cannot see the difference.
+- Year-relative scoring means the index cannot separate rising capability ratings from assessment redesign, and because unsupervised written formats already sit near the maximum in 2026, it has little room to register further change in the formats that matter most.
+
+## Citation
+
+Villanueva, G. (2026). [*How AI-vulnerable is Australian higher education assessment? A computational audit of Group of Eight Arts and Humanities units, 2022–2026*](https://doi.org/10.1080/02602938.2026.2740764). *Assessment & Evaluation in Higher Education*.
 
 ---
 
