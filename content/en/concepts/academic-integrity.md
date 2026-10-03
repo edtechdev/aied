@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-02T14:30:18-04:00"
+updated: "2026-10-03T01:40:50-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -112,6 +112,8 @@ Students outside Anglophone higher education describe the same tension in their 
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] takes the pedagogical inversion a step further by extending Eaton's postplagiarism frame from an ethical orientation into assessment design. Integrity, on this account, is enacted through [[evaluative-judgment|evaluative judgment]] — the learner's capacity to weigh options, justify academic choices, and assume responsibility under epistemic uncertainty — and made visible through four practices: annotated decision trails, verification and accountability practices, oral defense and dialogic accountability, and draft differences with version history. Detection is retained only as a supplementary layer for clear misrepresentation or deliberate outsourcing of intellectual labor, never as the primary infrastructure of integrity, because it asks whether GenAI was used rather than how the decisions behind the work were made; the argument also names the equity risk that detection-centered models fall hardest on learners who rely on generative tools for linguistic or cognitive [[scaffolding]].
 
+A third route sits between detection and redesign. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] predicts AI-assisted cheating risk from early-semester [[learning-analytics|LMS traces]] with an AUC of 0.763, and frames the output as low-stakes academic guidance — reminders, assignment follow-up, brief check-ins — rather than evidence of misconduct, insisting the score stay separate from grading and disciplinary records.
+
 ### Connections
 
 Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[ai-detection]], [[authentic-assessment]], [[assessment]], [[educational-policy-ai]], [[regulation]], [[ethics]], and [[equity-in-ai-education]]. It is the ethical dimension of [[ai-education|AI in education]], inseparable from [[cognitive-offloading|Over-Reliance]] and the broader question of how [[generative-ai]] reshapes [[higher-ed]] and [[k-12]] learning.
@@ -202,3 +204,4 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[genai-governance-australian-higher-ed-2026]] — Mapping the Authorized Boundary: A Comparative Policy-Vignette Study of Generative AI Governance in Australian Higher Education
 - [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Sector audit finding: mandate and framework universities show no difference in assessment exposure, the empirical counterpart to the coordination problem
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Early prediction of AI-assisted cheating risk from LMS traces, framed as academic guidance rather than evidence of misconduct

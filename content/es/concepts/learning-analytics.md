@@ -1,7 +1,7 @@
 ---
 title: Analítica del aprendizaje
 created: "2026-09-25T04:30:56-04:00"
-updated: "2026-10-02T22:23:30-04:00"
+updated: "2026-10-03T01:40:50-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-03T01:40:50-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,8 @@ Una prueba empírica directa de la capa prescriptiva proviene de [[lopez-pernas-
 Una prueba complementaria y centrada en el profesorado sobre cómo llega la analítica al aula proviene de [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]], que diseñaron un cuadro de mando de analítica del aprendizaje (DashED) para comunicar al profesorado perfiles de [[self-regulated-learning|aprendizaje autorregulado]] derivados del aprendizaje automático en dos contextos semipresenciales. Su estudio con 100 docentes muestra que la *presentación* de la analítica es en sí misma una barrera para la acción: el profesorado prefirió sistemáticamente gráficos más simples y tradicionales (barras, sectores) incluso cuando diseños más complejos (por ejemplo, mapas de calor) ofrecían ideas más ricas, y una mayor [[visualization|alfabetización en visualización]] predecía una interpretación más profunda y detallada (por ejemplo, más docentes que identificaban tendencias en datos de series temporales). Para la comparación de grupos, el profesorado prefirió la superposición a la yuxtaposición y los gráficos con toda la información a la codificación explícita de diferencias. Las acciones que propusieron los docentes estuvieron moldeadas por el contenido representado y por su nivel de [[teacher-role|docencia]] más que por el tipo de gráfico: el profesorado universitario prefirió pruebas semanales y adaptación a nivel de curso, mientras que el de formación profesional propuso tutoría directa e individualizada, lo que subraya que el paso prescriptivo depende tanto de cómo se visualizan y se contextualizan los datos como del modelo subyacente. Su hallazgo es una advertencia: las correlaciones entre los indicadores de analítica del aprendizaje y el apoyo recomendado eran en su mayoría débiles, las recomendaciones divergían marcadamente entre modelos para el mismo estudiante, y el apoyo se asignaba con frecuencia independientemente de quién lo necesitaba más. Los autores concluyen que los LLM actuales **aún no son fiables como modelos prescriptivos para el apoyo al estudiantado a escala**, lo que refuerza que el paso prescriptivo sigue exigiendo validación, ajuste fino y supervisión humana, y no una automatización lista para usar.
 
 El paso que sigue a la puntuación —quién recibe apoyo y si se asignó donde se necesitaba— corresponde a [[student-support-and-success|apoyo y éxito del estudiantado]], que reúne la evidencia de divulgación, derivación y asignación que alimenta la capa prescriptiva de esta página.
+
+Un desenlace de integridad entra en la misma capa predictiva. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] predice el riesgo de trampa asistida por IA a partir de las ocho primeras semanas de rastros de [[video-education|Moodle y del reproductor de vídeo]], alcanzando un AUC de 0,763 con regresión logística, y sostiene que la señal es aprovechable precisamente porque llega antes del examen y no durante él.
 
 ### Métodos y análisis de redes
 
@@ -150,3 +152,4 @@ El instrumental a nivel de proceso es el siguiente escalón hacia abajo de la ca
 - [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk from early-semester LMS traces (AUC 0.763)

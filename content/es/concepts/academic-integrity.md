@@ -1,7 +1,7 @@
 ---
 title: Integridad académica
 created: "2026-09-25T03:53:54-04:00"
-updated: "2026-10-02T23:51:29-04:00"
+updated: "2026-10-03T01:40:50-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-02T14:30:18-04:00"
+source_updated: "2026-10-03T01:40:50-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -127,6 +127,8 @@ El estudiantado ajeno a la educación superior anglófona describe la misma tens
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] lleva la inversión pedagógica un paso más allá al extender el marco del posplagio de Eaton de una orientación ética a un diseño de evaluación. La integridad, en este planteamiento, se pone en acto mediante el [[evaluative-judgment|juicio evaluativo]], es decir, la capacidad de quien aprende para sopesar opciones, justificar decisiones académicas y asumir la responsabilidad en condiciones de incertidumbre epistémica, y se hace visible mediante cuatro prácticas: rastros de decisiones anotados, prácticas de verificación y responsabilidad, defensa oral y responsabilidad dialógica, y diferencias entre borradores con historial de versiones. La detección se conserva solo como capa suplementaria para la tergiversación clara o la externalización deliberada del trabajo intelectual, nunca como la infraestructura principal de la integridad, porque pregunta si se usó IA generativa en lugar de cómo se tomaron las decisiones que hay detrás del trabajo; el argumento también nombra el riesgo de equidad de que los modelos centrados en la detección recaigan con más fuerza sobre quienes aprenden y dependen de herramientas generativas para el [[scaffolding|andamiaje]] lingüístico o cognitivo.
 
+Una tercera vía se sitúa entre la detección y el rediseño. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] predice el riesgo de trampa asistida por IA a partir de los rastros del [[learning-analytics|LMS]] de las primeras semanas del semestre con un AUC de 0,763, y enmarca el resultado como orientación académica de bajo riesgo —recordatorios, seguimiento de tareas y breves consultas con el profesorado— y no como evidencia de mala conducta, insistiendo en que la puntuación se mantenga separada de las calificaciones y de los registros disciplinarios.
+
 ### Conexiones
 
 La integridad académica se conecta con la [[assessment-validity|validez de la evaluación]], la [[ai-literacy|alfabetización en IA]], la [[ai-detection|detección de IA]], la [[authentic-assessment|evaluación auténtica]], la [[assessment|evaluación]], la [[educational-policy-ai|política educativa sobre IA]], la [[regulation|regulación]], la [[ethics|ética]] y la [[equity-in-ai-education|equidad]]. Es la dimensión ética de la [[ai-education|IA en la educación]], inseparable de la [[cognitive-offloading|dependencia excesiva]] y de la pregunta más amplia de cómo la [[generative-ai|IA generativa]] remodela el aprendizaje en la [[higher-ed|educación superior]] y en la [[k-12]].
@@ -217,3 +219,4 @@ El caso disciplinar más claro a favor del rediseño frente a la detección proc
 - [[genai-governance-australian-higher-ed-2026]] — Trazar el límite autorizado: un estudio comparativo de viñetas de política sobre la gobernanza de la IA generativa en la educación superior australiana
 - [[argus-academic-integrity-genai-2026]] — Argus: la integridad académica en la era de la IA generativa
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Hallazgo de auditoría sectorial: las universidades con mandato y las de marco no muestran diferencias en la exposición de la evaluación, la contraparte empírica del problema de coordinación
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Early prediction of AI-assisted cheating risk from LMS traces, framed as academic guidance rather than evidence of misconduct

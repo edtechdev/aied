@@ -1,7 +1,7 @@
 ---
 title: Apoyo y éxito estudiantil
 created: "2026-10-02T01:17:18-04:00"
-updated: "2026-10-02T01:17:18-04:00"
+updated: "2026-10-03T01:40:50-04:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,7 +15,7 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-10-01T20:39:12-04:00"
+source_updated: "2026-10-03T01:40:50-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,8 @@ La investigación se agrupa en cinco funciones, y los límites entre esos grupos
 La predicción de riesgo —sistemas de alerta temprana, modelos de abandono, clasificadores de estudiantes en riesgo— es territorio de la **[[learning-analytics|analítica del aprendizaje]]** en esta base de conocimiento, y esta página trata la *analítica predictiva* como lo mismo. El trabajo de modelado es sustancial: clasificadores supervisados identifican a los estudiantes antes del abandono a partir de registros de rendimiento académico, demográficos y de matrícula ([[at-risk-students-ml-prediction|Gheisari y Salarian, 2026]]); un marco de doble capa combina registros de comportamiento de Codeforces (n = 1,816) con datos de encuestas psicográficas de diez universidades para predecir el abandono en la programación competitiva ([[predicting-attrition-competitive-programming|Alam et al., 2026]]); y una arquitectura federada predice el rendimiento y el abandono entre instituciones sin compartir datos brutos de estudiantes, alcanzando AUC = 0.918 en OULAD frente a 0.925 centralizado ([[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al., 2026]]). Una visión de educación de precisión extiende la lógica a los gemelos digitales de estudiantes y al «éxito estudiantil preventivo» ([[precision-education-student-digital-twins-2026|Han et al., 2026]]).
 
 Lo que corresponde *aquí* es el paso posterior a la puntuación: la **asignación de apoyos**. Dos hallazgos fijan sus límites. Primero, la división entre clasificación y calibración: los modelos federados de riesgo mantuvieron su AUC bajo un cambio en la distribución mientras su calibración se degradaba notablemente, de modo que un modelo que sigue clasificando bien a los estudiantes puede equivocarse sobre la probabilidad de que cada uno necesite ayuda. Segundo, el estudio sobre facilitadores: un análisis internacional con Delphi y AHP/SNAP sobre el paso de la analítica del aprendizaje a la intervención identificó siete facilitadores y clasificó la **orientación estratégica institucional** en primer lugar (prioridad 0.2072) y como la más influyente sobre las demás (PageRank 0.2430), situando el cuello de botella en la planificación institucional y no en los modelos ([[learning-analytics-to-educational-interventions-2026|Svetec, Divjak y Kadoić, 2026]]). La agrupación conductual de 14,003 registros de estudiantes en seis perfiles, mapeados a objetos de aprendizaje recomendados, es la capa de recomendación hacia la que apunta esto ([[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem et al., 2026]]).
+
+Un desenlace de integridad se une a la misma cadena. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] predice el riesgo de trampa asistida por IA a partir de los rastros del LMS de las primeras semanas del semestre (AUC 0,763) y recomienda actuar solo mediante intervenciones de bajo riesgo, con el umbral de decisión elegido por alcance y no por acusación: bajarlo a 0,30 identificó 21 de los 23 estudiantes de alto riesgo, con una precisión del 60%.
 
 ## La escalera de resultados: qué significa realmente cada medida
 
@@ -130,3 +132,4 @@ El apoyo estudiantil se conecta con [[student-experience]] como su contraparte o
 - [[ai-campus-wellbeing-tools]] — apoyo al bienestar en el campus entre la prevención y la intervención
 - [[coursegraph-cs-course-comparison-2026]] — equivalencia de cursos para el reconocimiento de créditos y la movilidad
 - [[credentials-carry-evidence-ai-agents-2026]] — qué significa un registro de finalización cuando un agente puede hacer el trabajo
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk early, and the threshold trade-off for low-stakes outreach
