@@ -31,7 +31,12 @@ WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 ARTICLES = os.path.join(WIKI, 'content', 'en', 'articles')
 
 YEAR = re.compile(r'\((19|20)\d{2}[a-z]?\)')
-AUTHOR_PATTERN = re.compile(r"[A-Z][A-Za-zÀ-ÿ'\-]+,\s*(?:[A-Z]\.|[A-Z][a-z]+)")
+# Unicode-aware: `À-ÿ` covers Latin-1 but NOT ı (U+0131), so a Turkish name like
+# "Akçapınar, G." fell through the old ASCII/Latin-1 class and raised a false warning.
+_UPPER = r'[^\W\d_a-z]'        # a Unicode letter that is not a lowercase ASCII letter
+_LETTER = r'[^\W\d_]'          # any Unicode letter
+AUTHOR_PATTERN = re.compile(
+    _UPPER + r"[^\W\d_'\-]*,\s*(?:" + _UPPER + r"\.|" + _UPPER + _LETTER + r"+)")
 
 
 def changed_slugs() -> list[str]:
