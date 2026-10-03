@@ -59,3 +59,7 @@ toPdfViaTempFile*
 # OpenAlex client pacing/state (if ever added)
 .openalex-state/
 AIED-REJECTED.md
+
+# Python bytecode (never shipped)
+__pycache__/
+*.pyc
