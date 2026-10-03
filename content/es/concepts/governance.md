@@ -1,7 +1,7 @@
 ---
 title: Gobernanza de la IA
 created: "2026-09-25T04:32:03-04:00"
-updated: "2026-09-28T22:05:50-04:00"
+updated: "2026-10-02T21:36:16-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework]
 translation_of: concepts/governance
-source_updated: "2026-09-25T09:57:33-04:00"
+source_updated: "2026-10-01T20:35:10-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -102,6 +102,8 @@ La gobernanza de la IA se conecta con la [[ethics|ética]] (los principios que o
 
 La gobernanza es distinta de la [[educational-policy-ai|política educativa sobre IA]], pero inseparable de ella. **La política es el contenido**: las normas y declaraciones formales (qué uso de la IA se permite, qué debe declararse, qué evaluación se autoriza). **La gobernanza es la maquinaria** que produce, implementa, aplica y revisa esas normas: quién las establece, cómo se dotan de recursos y se comunican, cómo se gestionan el cumplimiento y las apelaciones, y cómo se adaptan a medida que la IA evoluciona. Donde la página de [[educational-policy-ai|política]] cataloga las *normas mismas* y sus lagunas de madurez, esta página se centra en las *estructuras y prácticas* que hacen reales las normas: grupos rectores, revisión ética, gobernanza de la evaluación y rendición de cuentas entre niveles. Una norma sobre el papel es política; una norma de la que alguien responde, que se monitoriza y se aplica es gobernanza. Ambas son mutuamente dependientes: la política sin gobernanza no se aplica, y la gobernanza sin política carece de dirección.
 
+**El lenguaje de la rendición de cuentas puede dejar sin nombrar al actor responsable.** [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] extrajo 166 expresiones de obligación o responsabilidad de 366 resúmenes de investigación sobre IA generativa en la educación superior y encontró que ninguna asignaba la responsabilidad a un sistema mientras que 33 dejaban sin especificar a quién correspondía; «se necesita gobernanza» no nombra a nadie que la convoque, decida o aplique. Las instituciones y los actores de política cargaban con 37 obligaciones, las metonimias institución/profesorado con 30, el profesorado con 20, los investigadores con 18 y el estudiantado solo con seis.
+
 [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak y Kadoić (2026)]] identifican la **ética y la gobernanza de datos** como uno de los siete facilitadores de las intervenciones educativas basadas en analítica del aprendizaje dignas de confianza (políticas para el uso ético de la analítica y la IA, privacidad de los datos, seguridad y rendición de cuentas) y sitúan la [[trust|confianza]] (incluidos el liderazgo y la gobernanza que sostienen la implementación) como el requisito previo de unas intervenciones informadas por datos que sean significativas.
 
 
@@ -126,6 +128,7 @@ La gobernanza es distinta de la [[educational-policy-ai|política educativa sobr
 - [[trust-calibration]]
 - [[generative-ai]]
 - [[stakeholders]] — Paraguas: las personas y los públicos de la educación con IA (estudiantado, profesorado, diseñadores, administración, responsables de políticas)
+- [[student-support-and-success]] — supervisión de los sistemas institucionales de apoyo con IA
 
 ## Artículos conectados
 - [[ai-literacy-sdg-governance-framework-2026]] — La alfabetización en IA como capacidad de gobernanza para el desarrollo sostenible: la taxonomía AIRE y el nexo IA-ODS (Islam, Morshed e Islam 2026)
@@ -137,7 +140,6 @@ La gobernanza es distinta de la [[educational-policy-ai|política educativa sobr
 - [[vetter-hidden-cost-disclosure-genai-2026]] — El coste oculto de la declaración
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — La declaración de uso de IA del estudiantado, el estigma y el aprendizaje autorregulado
 - [[weidlich-inference-at-risk-assessment-validity-2026]] — Qué inferencia está en riesgo: el razonamiento sobre la validez de la evaluación y la IA generativa (Weidlich 2026)
-- [[ai-adaptation-gap-higher-education-2026]] — La brecha de adaptación a la IA en la educación superior
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Delphi global sobre gobernanza y política de la IA generativa
 - [[qian-governing-genai-higher-ed-policy-2026]] — Gobernanza mediante orientaciones: normas de programa fijadas por el profesorado y un ecosistema de apoyo de cuatro unidades en 50 universidades estadounidenses innovadoras (Qian 2026)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Gobernanza del profesorado, discrecionalidad docente y revisión periódica en la política de IA generativa de las facultades de derecho (Gutowski y Hurley 2025)
@@ -147,7 +149,6 @@ La gobernanza es distinta de la [[educational-policy-ai|política educativa sobr
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — La implementación de AIDA en la Open University
 - [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: liderar para un cambio transformador
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — La implicación del estudiantado con la IA generativa (TAD)
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment Redesign
 - [[genai-policies-higher-ed-computing]] — Políticas institucionales de IA generativa en informática
 - [[genai-declaration-frameworks-higher-education]] — Marcos de declaración de IA
@@ -159,7 +160,5 @@ La gobernanza es distinta de la [[educational-policy-ai|política educativa sobr
 - [[agarwal-ethical-values-norms-aied-2026]] — Valores y normas éticas para la IA en la educación
 - [[perrotta-zero-shot-governance-2026]] — La gobernanza zero-shot: la IA de propósito general en las políticas (Perrotta 2026)
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[edtech-privacy-deferral-2026]] — «We'll Fix It Later»: Education, AI, and the Deferral of Student Privacy in EdTech
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 - [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
 - [[genai-governance-australian-higher-ed-2026]] — Trazar la frontera autorizada: un estudio comparativo de política y viñetas sobre la gobernanza de la IA generativa en la educación superior australiana

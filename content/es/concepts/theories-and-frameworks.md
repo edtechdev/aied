@@ -1,7 +1,7 @@
 ---
 title: Teorías y marcos
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-09-28T18:22:10-04:00"
+updated: "2026-10-02T21:34:05-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-09-23T17:12:00-04:00"
+source_updated: "2026-09-30T12:53:22-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -113,6 +113,8 @@ Dos páginas vecinas tratan deliberadamente de otra cosa. La [[philosophy-of-ai-
 
 Los marcos no son evidencia. Suelen tomarse prestados de contextos anteriores a los LLM y los localiza quien los aplica, pueden funcionar como marca, y los modelos por etapas invitan a una adopción mecánica que informa de un avance por niveles en lugar de aprendizaje. Las afirmaciones que se apoyan en un marco deben leerse junto a [[limitations-in-aied-research|las limitaciones transversales del campo]], la [[assessment-validity|validez]] de lo que haya medido el resultado y los límites conocidos del [[self-report-measures|autoinforme]].
 
+La alineación entre mecanismo y teoría puede ser, aun así, decisiva: una síntesis temática de 55 estudios sobre aprendizaje basado en juegos apoyado por IA encontró que la eficacia dependía de si el mecanismo de IA ponía en acto la pedagogía a la que debía servir, y no de la sofisticación algorítmica ([[ai-game-based-learning-systematic-review-2026|Kaşarcı y Yurt (2026)]]).
+
 ## Conceptos conectados
 
 - [[theory-development-aied]] — construir y revisar teoría en el campo
@@ -127,6 +129,7 @@ Los marcos no son evidencia. Suelen tomarse prestados de contextos anteriores a 
 - [[research-methods-aied]] — cómo se pone a prueba la teoría
 
 ## Artículos conectados
+- [[ai-game-based-learning-systematic-review-2026]] — La alineación entre mecanismo y teoría, y no la sofisticación algorítmica, determinó la eficacia en 55 estudios sobre aprendizaje basado en juegos con IA
 
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — cuatro décadas de AIED a través del marco IA×Ed
 - [[educating-minds-generative-ai-2026]] — síntesis con mucha carga teórica sobre IA generativa y aprendizaje

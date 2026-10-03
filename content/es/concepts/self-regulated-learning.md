@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje autorregulado
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-09-28T22:12:01-04:00"
+updated: "2026-10-02T21:25:27-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-09-25T21:56:00-04:00"
+source_updated: "2026-09-30T14:23:52-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [process-feedback]
 contributors: [editor]
@@ -50,7 +50,17 @@ El AAR es el proceso mediante el cual quien aprende gestiona activamente su prop
 
 Quien aprende autorregulándose con pericia emplea estrategias cognitivas para mejorar su éxito y utiliza la [[metacognition]] para refinar continuamente sus procesos de aprendizaje.([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
+El trabajo empírico en un curso mediado por tecnología confirma los vínculos entre fases: en un estudio adaptativo de estocástica de ocho semanas (194 estudiantes), el valor de la tarea, la autoeficacia, la orientación a metas y las emociones positivas en la fase preaccional predijeron la conducta regulatoria accional, mientras que las emociones negativas la obstaculizaron, y la satisfacción postaccional se retroalimentó hacia la siguiente fase preaccional ([[mejeh-fromm-srl-adaptive-learning-feedback-2026|Mejeh y Fromm (2026)]]).
+
+Un mapeo sistemático de 84 estudios sobre IA y AAR encontró que la investigación se concentra en estudiantado de educación superior y en los aspectos metacognitivos y cognitivos de la autorregulación, con la dimensión motivacional poco explorada y más de un tercio de los estudios sin especificar ninguna teoría del AAR ([[banihashem-ai-srl-systematic-mapping-review-2025|Banihashem et al. (2025)]]).
+
 Un punto decisivo es que el AAR en torno a la IA está moldeado por la *percepción* tanto como por la conducta: [[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]] demuestran que percibir la retroalimentación como procedente de una IA o de una persona humana afecta significativamente al aprendizaje autorregulado y a la conducta de revisión, un recordatorio de que el marco social de la IA, y no solo su contenido, cambia cómo regula quien aprende en torno a ella.
+
+Un modo de fallo se sitúa antes de que empiece la regulación: la procrastinación del aprendizaje asistido por IA generativa —un retraso innecesario en empezar el trabajo apoyado por IA generativa pese a una intención genuina de usarla. Entre 1.243 estudiantes universitarios chinos, un uso más frecuente de IA generativa se asoció con menos de ella (β = −0.195), y la ansiedad por aprender con IA generativa reforzó el vínculo entre intención y retraso ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]]).
+
+Dónde entra la IA generativa en el ciclo decide su efecto: al mapear las fases de previsión, desempeño y reflexión de Zimmerman sobre entornos mediados por IA, un marco de co-agencia sostiene que el punto de entrada determina si la herramienta amplifica o erosiona el sentido de control de quien aprende, y que la externalización solo apoya el aprendizaje transformador cuando la decisión es intencional y no rutinaria ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
+
+Una encuesta transversal de 434 estudiantes universitarios de educación especial mide una de esas cadenas: la alfabetización en [[generative-ai|IA generativa]] se asoció positivamente con las conductas de aprendizaje autorregulado asistidas por IA generativa (B total = 0.701), operando principalmente a través de la [[agency|agencia]] de aprendizaje (B = 0.345) y no de las emociones de desafío (B = 0.061) ([[genai-literacy-srl-special-education-2026|Yang et al. (2026)]]).
 
 ## Apoyo digital al AAR
 
@@ -65,6 +75,7 @@ Los diarios de aprendizaje son una intervención prometedora para el AAR: al ref
 ### Cuadros de mando que comunican perfiles de AAR al profesorado
 
 [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] extienden el apoyo digital al AAR al lado docente: su cuadro de mando de [[learning-analytics]] (DashED) comunica al profesorado perfiles de aprendizaje autorregulado derivados del aprendizaje automático en aulas semipresenciales, y el modo en que el profesorado actúa sobre esos perfiles depende del contexto. En uso, el profesorado de aula invertida (universidad) siguió una exploración secuencial y prefirió la adaptación a nivel de curso y mostrar los [[visualization|cuadros de mando]] en clase, mientras que el profesorado de formación profesional revisó páginas de resumen y usó la herramienta sobre todo para sesiones de tutoría individual. Las acciones que propusieron los docentes estuvieron moldeadas por el contenido representado y por su nivel de enseñanza más que por el tipo de gráfico: el profesorado universitario prefirió pruebas semanales y adaptación del curso, y el de formación profesional, tutoría directa e individualizada. Esto sitúa el cuadro de mando como un andamiaje para la regulación de la enseñanza por parte del profesorado, con necesidades de diseño que varían según el contexto y no una única interfaz óptima.
+La contraparte orientada al estudiantado es más escasa: un cuadro de mando que mostraba a 46 estudiantes de secundaria sus propios prompts de IA generativa y su solapamiento de texto con las respuestas del modelo fue abierto por solo alrededor de un tercio de la clase, lo que hace de la exposición voluntaria, y no de la visualización en sí, la restricción vinculante ([[learning-analytics-genai-secondary-writing-2026|Fong et al. (2026)]]).
 
 ### El experimento 2×2 de Scheu et al. (2026)
 
@@ -92,6 +103,8 @@ Las herramientas de IA pueden entrar en este bucle en distintos puntos:
 ### La regulación estratégica de la IA generativa como AAR
 
 [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] reenmarca el uso eficaz de la [[generative-ai|IA generativa]] en la [[writing-education|escritura académica]] como **regulación estratégica**: una práctica de AAR puesta en acto que consiste en verificar, revisar, adoptar selectivamente o rechazar la salida de la IA. En un estudio de [[mixed-methods-research|métodos mixtos]] con 107 estudiantes, una mayor [[anxiety-and-stress|ansiedad ante la IA]] se asoció positivamente con la verificación y la revisión (β=.24), mientras que la capacidad evaluativa predijo la revisión activa y la integración selectiva (β=.46). El estudiantado se agrupó en cuatro tipos regulatorios, Dependencia acrítica (18.7%), Integración selectiva (34.6%), Transformación evaluativa (31.8%) y Rechazo estratégico (14.9%), lo que muestra que la [[ai-literacy|alfabetización en IA]] en la [[higher-ed|educación superior]] funciona menos como aceptación que como competencia regulatoria anclada en el [[evaluative-judgment|juicio evaluativo]] y en la responsabilidad [[ethics|ética]]. Esto sitúa el AAR como el mecanismo central que distingue el uso crítico del uso acrítico de la IA.
+
+Clasifique antes de delegar: [[scan-framework-task-assignment-generative-ai-2025|Tsim y Gutoreva (2025)]] convierten la autorregulación en un protocolo por tarea —etiquetar cada subtarea como Sustituir, Complementar, Ayudar o No negociable, justificarlo en una breve nota metacognitiva y mantener un rastro de auditoría de prompts, borradores y revisiones humanas—, con el ciclo repitiéndose de modo que la asignación de una tarea informa a la siguiente.
 
 **La interacción misma como objeto de regulación.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström y Palmqvist (2026)]] documentan la misma exigencia de regulación desde la dirección opuesta: en una demostración de ocho rondas con un chatbot para preparar la respuesta a un [[summative-assessment|examen]] para llevar a casa, la salida por defecto de la IA se mantuvo en el extremo *[[quantitative-research|cuantitativo]]* y multiestructural de la taxonomía SOLO, pulida, lista para entregar y pedagógicamente delgada, y solo alcanzó un bucle de aprendizaje utilizable de tres pasos tras repetidas intervenciones de nivel meta («esto es abrumador, ¿puedes condensarlo?»). Su conclusión es que el uso productivo exigía «las mismas habilidades autorreguladoras que la herramienta debía sostener»: quien aprende debe fijar metas incrementales, solicitar ajustes de dificultad y reflexionar sobre lo que todavía no comprende, además del contenido disciplinar mismo. Dan a esta capacidad el nombre de [[ai-literacy|alfabetización en la interacción con IA]] y tratan desvincularse de la herramienta como una decisión regulatoria legítima y no como un fallo de persistencia ([[metacognition]]).
 
@@ -132,6 +145,8 @@ Un conjunto de estudios de Learning Letters (2026) converge en una tensión cent
 
 La lección colectiva: **el AAR es el mecanismo central que distingue el uso crítico del uso acrítico de la IA.** Que la IA generativa funcione como andamiaje, atajo o socio depende de la capacidad regulatoria de quien aprende y de si las herramientas están diseñadas para preservar (y no eliminar) las exigencias regulatorias que construyen la pericia.
 
+Qué apoyo está en juego decide qué mediador carga la asociación: entre 3.003 docentes chinos en formación inicial, el apoyo percibido de las herramientas de IA llegó a la competencia innovadora principalmente a través de la [[self-efficacy|autoeficacia]] en IA (60.88% del efecto total de esa ruta), mientras que el apoyo percibido del entorno inteligente escolar llegó principalmente a través del aprendizaje autorregulado (29.64% frente a 18.60%) ([[preservice-teachers-ai-support-innovative-competence-2026|Liu et al. (2026)]]).
+
 ## Implicaciones
 
 - **Para las herramientas de diario y de chatbot:** combine la instrucción sobre AAR (basada en un curso) con apoyo opcional a la escritura para obtener ganancias tanto de motivación como de implicación
@@ -170,7 +185,6 @@ La lección colectiva: **el AAR es el mecanismo central que distingue el uso cr�
 - [[cognitive-surrender]]
 
 ## Artículos conectados
-- [[genai-performance-vs-learning]] — externalizar la planificación, la monitorización y la evaluación cortocircuita el bucle del AAR (Yan et al. 2025)
 - [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Alfabetización en la interacción con IA: dirigir un chatbot exigía el AAR que debía sostener (Brunnström y Palmqvist 2026)
 - [[5p-reflection-model-genai-2026]] — El modelo de reflexión 5P para la era de la IA generativa (Kadel et al. 2026)
@@ -186,21 +200,16 @@ La lección colectiva: **el AAR es el mecanismo central que distingue el uso cr�
 - [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — Retroalimentación con IA generativa y AAR: importa la fuente percibida
 - [[ai-anxiety-strategic-regulation-writing-2026]] — De la ansiedad ante la IA a la regulación estratégica
-- [[idea-framework-metacognitive-genai-2026]] — El marco IDEA para el uso de la IA generativa regulado metacognitivamente
-- [[bilingual-llm-lecture-companion-srl-2026]] — AAR con un acompañante de clase bilingüe basado en LLM
-- [[generative-ai-reduced-study-time-math]] — La rendición cognitiva como pérdida del aprendizaje autorregulado
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Evidencia mixta sobre metacognición y autorregulación con IA generativa
 - [[agentic-ai-pedagogical-best-practice-2026]] — La IA agéntica y la tensión de la autorregulación
-- [[ai-cognitive-partner-co-regulation-learning]] — La IA como socio cognitivo en el aprendizaje corregulado
-- [[making-ai-annoying-constrained-writing-2026]] — Hacer la IA molesta a propósito: la restricción en la escritura asistida por IA (Konradt, Boote y Taub 2026)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — La motivación del estudiantado y la satisfacción de necesidades en aulas con IA generativa (Schweder, Hagenauer y Raufelder 2026)
 - [[decreasing-digital-distraction-college-online-learning-2026]] — El AAR y una menor distracción digital en el aprendizaje en línea (Shi et al. 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — El marco CAIS-GBL para agentes conversacionales de IA en juegos de simulación de empresa (Wenzel et al. 2026)
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Hacer accesibles al profesorado los hallazgos del aprendizaje automático en aulas semipresenciales
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: un bucle orientado a quien aprende para identificar la tarea, justificarla y reflexionar después
 - [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
 - [[alatoai-ai-learning-environments-self-regulation-2026]] — Un instrumento validado para la autorregulación apoyada por IA en el aprendizaje adaptativo en STEM, con la conciencia metacognitiva como el predictor más fuerte
 - [[iqbal-human-genai-support-essay-revision-2026]] — La condición de apoyo, y no el juicio metacognitivo, decidió la elección de estrategia de revisión en un experimento de revisión de ensayos
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — Estudio longitudinal: el uso reflexivo de la IA predijo el pensamiento crítico, pero no la ganancia de conocimiento, sin efecto Mateo
+
+- [[genai-literacy-srl-special-education-2026]] — La alfabetización en IA generativa se relacionó con las conductas de aprendizaje autorregulado principalmente a través de la agencia de aprendizaje
+- [[preservice-teachers-ai-support-innovative-competence-2026]] — El tipo de apoyo invierte el mediador: autoeficacia en IA frente a aprendizaje autorregulado
+- [[genai-learning-procrastination-planned-behavior-2026]] — La procrastinación del aprendizaje asistido por IA generativa: una brecha intención-conducta que la ansiedad refuerza

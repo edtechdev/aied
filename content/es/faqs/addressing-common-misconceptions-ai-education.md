@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo podemos abordar las concepciones erróneas más comunes sobre la IA en educación?"
 created: "2026-09-22T18:29:08-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-02T21:16:54-04:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
@@ -10,7 +10,7 @@ assessment: [ai-detection, assessment-validity, feedback-literacy]
 ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
-source_updated: "2026-09-17T02:26:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -22,8 +22,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cómo podemos abordar las concepciones erróneas más comunes sobre la IA en educación?
 
 Esta FAQ está organizada por grupos de interés y emplea un **enfoque de refutación**: nombrar la concepción errónea, explicar por qué puede parecer plausible, rechazar directamente la creencia inexacta y sustituirla por un modelo mental más útil. Se basa en la base de conocimiento sobre IA en educación y, en particular, en sus síntesis de [[misconceptions|Concepciones erróneas sobre la IA]], [[ai-literacy|Alfabetización en IA]], [[cognitive-offloading|Delegación cognitiva]] y [[refutation-text|Texto de refutación]]. 
 
@@ -61,7 +59,7 @@ Véanse [[misconceptions|Concepciones erróneas sobre la IA]], [[ai-sycophancy|A
 
 **Respuesta:** No necesariamente. Un buen producto muestra lo que produjo el **sistema humano-IA**. No muestra automáticamente lo que usted puede explicar, recordar, adaptar o hacer de forma independiente.
 
-En un experimento de campo con casi 1.000 estudiantes de [[math-education|matemáticas]] de secundaria, el acceso sin restricciones a la IA generativa mejoró el rendimiento durante la práctica asistida, pero redujo el rendimiento posterior en el examen sin ayuda. Una versión con salvaguardas que ofrecía pistas en lugar de respuestas completas eliminó el [[ai-misuse-learning-harm|perjuicio para el aprendizaje]] observado. La lección no es que todo uso de la IA dañe el aprendizaje, sino que **el rendimiento asistido y el aprendizaje duradero son resultados distintos**.
+En un experimento de campo con casi 1,000 estudiantes de [[math-education|matemáticas]] de secundaria, el acceso sin restricciones a la IA generativa mejoró el rendimiento durante la práctica asistida, pero redujo el rendimiento posterior en el examen sin ayuda. Una versión con salvaguardas que ofrecía pistas en lugar de respuestas completas eliminó el [[ai-misuse-learning-harm|perjuicio para el aprendizaje]] observado. La lección no es que todo uso de la IA dañe el aprendizaje, sino que **el rendimiento asistido y el aprendizaje duradero son resultados distintos**.
 
 Después de usar la IA, compruebe si puede:
 
@@ -401,7 +399,7 @@ Véanse [[governance|Gobernanza de la IA]], [[educational-policy-ai|Política ed
 
 Las herramientas de detección pueden producir falsos positivos y falsos negativos, y su rendimiento cambia según los modelos, las lenguas, las tareas y las prácticas de edición. La vigilancia puede añadir problemas de privacidad, accesibilidad, ansiedad y equidad sin establecer qué ha aprendido el estudiante.
 
-La evidencia es ya lo bastante concreta para expresarla en cifras. Un [[teichmann-detecting-undetectable-misconduct-2026|análisis de justicia procedimental]] informa de que ninguna de las catorce herramientas de detección tempranas alcanzó el 80% de exactitud, que parafrasear o editar ligeramente reduce a la mitad una exactitud que ya era modesta y que los detectores clasifican mal de forma sistemática a quienes escriben en inglés como segunda lengua, porque los rasgos tratados como señales de IA también caracterizan una escritura competente en una segunda lengua. En un estudio de campo encubierto, el 94% de los trabajos íntegramente generados por IA inyectados en exámenes en línea reales de cinco módulos de psicología pasaron inadvertidos, y el trabajo de la IA superó de media al del estudiantado real. La Universidad de Vanderbilt desactivó su detector con licencia tras no poder validar una tasa de falsos positivos del 1% anunciada, que implicaría aproximadamente 750 estudiantes mal etiquetados entre 75.000 entregas anuales, y reorientó a su personal hacia expectativas transparentes y el [[assessment|rediseño de la evaluación]].
+La evidencia es ya lo bastante concreta para expresarla en cifras. Un [[teichmann-detecting-undetectable-misconduct-2026|análisis de justicia procedimental]] informa de que ninguna de las catorce herramientas de detección tempranas alcanzó el 80% de exactitud, que parafrasear o editar ligeramente reduce a la mitad una exactitud que ya era modesta y que los detectores clasifican mal de forma sistemática a quienes escriben en inglés como segunda lengua, porque los rasgos tratados como señales de IA también caracterizan una escritura competente en una segunda lengua. En un estudio de campo encubierto, el 94% de los trabajos íntegramente generados por IA inyectados en exámenes en línea reales de cinco módulos de psicología pasaron inadvertidos, y el trabajo de la IA superó de media al del estudiantado real. La Universidad de Vanderbilt desactivó su detector con licencia tras no poder validar una tasa de falsos positivos del 1% anunciada, que implicaría aproximadamente 750 estudiantes mal etiquetados entre 75,000 entregas anuales, y reorientó a su personal hacia expectativas transparentes y el [[assessment|rediseño de la evaluación]].
 
 Una estrategia institucional más duradera combina:
 
@@ -663,7 +661,7 @@ Un sistema puede medir de forma consistente el constructo equivocado, omitir dim
 * si los resultados de la IA cambian las decisiones humanas;
 * los procedimientos de apelación y revisión.
 
-Una coincidencia alta es una forma de evidencia, pero no es un argumento completo de validez. Un [[opraise-automated-marking-ai-assessment-2026|gran benchmark del Reino Unido]] muestra la disociación de forma directa: en 761 ensayos auténticos de Psicología de grado, las calificaciones de la IA y las humanas coincidieron en la banda de titulación solo entre el 35% y el 65% de las veces (63% en una institución, 53% en una segunda y 35% en una tercera), mientras que la fiabilidad era casi perfecta (correlaciones intraclase de hasta 1,00 al volver a puntuar). Los sistemas coincidían entre sí mucho más que con las personas (CCI de tres modelos = 0,91), solo concordaban en la banda del 56% de las entregas cuando los tres modelos tenían que coincidir, y las puntuaciones estaban comprimidas hacia el centro (índice de compresión 0,47-0,82), de modo que la IA era menos exacta justo en los límites que separan un notable alto de un notable bajo o un aprobado de un suspenso. La retroalimentación de la IA era también de tres a ocho veces más larga que la media humana de 100 a 200 palabras: el volumen no es calidad.
+Una coincidencia alta es una forma de evidencia, pero no es un argumento completo de validez. Un [[opraise-automated-marking-ai-assessment-2026|gran benchmark del Reino Unido]] muestra la disociación de forma directa: en 761 ensayos auténticos de Psicología de grado, las calificaciones de la IA y las humanas coincidieron en la banda de titulación solo entre el 35% y el 65% de las veces (63% en una institución, 53% en una segunda y 35% en una tercera), mientras que la fiabilidad era casi perfecta (correlaciones intraclase de hasta 1.00 al volver a puntuar). Los sistemas coincidían entre sí mucho más que con las personas (CCI de tres modelos = 0.91), solo concordaban en la banda del 56% de las entregas cuando los tres modelos tenían que coincidir, y las puntuaciones estaban comprimidas hacia el centro (índice de compresión 0.47-0.82), de modo que la IA era menos exacta justo en los límites que separan un notable alto de un notable bajo o un aprobado de un suspenso. La retroalimentación de la IA era también de tres a ocho veces más larga que la media humana de 100 a 200 palabras: el volumen no es calidad.
 
 Véanse [[assessment-validity|Validez de la evaluación]], [[educational-measurement|Medición educativa]], [[automated-assessment|Evaluación automatizada]] y [[opraise-automated-marking-ai-assessment-2026|corrección automatizada de ensayos universitarios]].
 

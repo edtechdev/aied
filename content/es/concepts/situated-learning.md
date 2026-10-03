@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje situado
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-09-28T21:41:14-04:00"
+updated: "2026-10-02T21:25:27-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-09-28T21:41:14-04:00"
+source_updated: "2026-09-30T09:53:03-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,4 @@ El aprendizaje situado conecta estrechamente con el [[embodied-learning|aprendiz
 - [[raffaghelli-situated-ai-ethics-2026]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[fowlin-operationalizing-learning-principles-ai]]
-- [[videla-embodied-ai-education-choreography]]
 - [[yasar-llms-iterative-pedagogical-design-2026]] — Los LLM como agentes del diseño pedagógico iterativo

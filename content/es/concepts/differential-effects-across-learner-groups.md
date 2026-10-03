@@ -1,7 +1,7 @@
 ---
 title: Efectos diferenciales entre grupos de estudiantes
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-09-28T20:12:29-04:00"
+updated: "2026-10-02T21:25:27-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-09-19T06:20:00-04:00"
+source_updated: "2026-10-01T10:47:53-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -81,6 +81,7 @@ La investigación sobre género se divide aquí entre si las herramientas tratan
 - **Pero el contenido de los prompts transfiere sesgo al trabajo del estudiantado.** [[gender-bias-transfer-llm-writing|Un estudio controlado con 123 participantes]] hizo que el estudiantado escribiera ensayos de plan de carrera para perfiles emparejados que solo diferían en género, en condiciones sin IA, con IA neutra y con IA sesgada por género; la condición sesgada transfirió lenguaje diferenciado por género a la escritura del estudiantado y suprimió de forma asimétrica la [[agency|agencia]] femenina. El personal investigador confirmó primero el efecto en 1.600 ensayos generados.
 - **El espacio y el encuadre importan tanto como la herramienta.** [[all-girls-genai-makerspace-gender-equity-2026|Un estudio de caso de un makerspace de IA generativa solo para chicas]] encontró que las chicas valoraban el entorno de un solo género como más seguro y relajado, y advierte contra la «girlificación»: una adaptación superficial que deja intactas las relaciones de poder.
 - **La sensibilidad del modelo es una propiedad del modelo, no una constante.** En [[edufair-bench-pedagogical-fairness-llm-tutors-2026|EduFair-Bench]], se auditaron cinco tutores de 7B a 70B en nueve niveles demográficos: Qwen2.5-7B superó el umbral de sesgo |r| ≥ 0,10 en 7 de 12 celdas de dominio por dimensión, mientras que LLaMA-3.1-8B lo superó una vez. El entrenamiento específico en pedagogía redujo algunos sesgos y aumentó otros.
+- **Un arreglo de un solo eje puede dejar a un grupo en peor situación:** el estudiantado de género diverso colapsado en una categoría «Género desconocido» tuvo las tasas de verdaderos positivos más bajas bajo todos los métodos de equidad, y ningún método de un solo eje mejoró su tratamiento — la variación de etiquetas de grupo señalada más arriba, dentro de un modelo predictivo de alerta temprana en lugar de un tutor ([[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]]).
 
 ## Raza, etnia y estudiantado minorizado
 
@@ -94,7 +95,7 @@ Esta vertiente es pequeña en número de artículos y fuerte en mecanismo, porqu
 ## Nivel socioeconómico, geografía y edad
 
 - **La alfabetización digital, y no el uso de la IA, es el mediador.** [[ai-divide-ses-personality-primary-education-2026|Wang y colegas (2026)]] modelaron datos de encuesta y de un registro nacional de 4.497 estudiantes de sexto grado (grado 6) en los Países Bajos y encontraron que el vínculo entre los rasgos de personalidad y el rendimiento académico pasaba por la alfabetización digital y no por la intensidad de uso de la IA, con diferencias en alfabetización digital impulsadas más por la personalidad que por el nivel socioeconómico, y con las ventajas de nivel socioeconómico operando con independencia de la implicación con la IA. El encuadre clásico basado solo en el nivel socioeconómico es incompleto.
-- **La geografía puede ser la restricción vinculante.** [[arc-hubs-k12-ai-robotics-rural-2026|El relato de ARC]] sobre la educación en robótica e IA en [[k-12|K-12]] informa de que la participación rural en la FIRST LEGO League cayó en la temporada remota de 2020 y nunca se recuperó, mientras que la urbana sí lo hizo gradualmente, e identifica la mentoría técnica local sostenida —y no los kits o el currículo— como la restricción que se distribuye geográficamente.
+- **La geografía puede ser la restricción vinculante.** [[arc-hubs-k12-ai-robotics-rural-2026|El relato de ARC]] sobre la educación en robótica e IA en [[k-12|K-12]] informa de que la participación rural en la FIRST LEGO League cayó en la temporada remota de 2020 y nunca se recuperó, mientras que la urbana sí lo hizo gradualmente, e identifica la mentoría técnica local sostenida —y no los kits o el [[curriculum-design|currículo]]— como la restricción que se distribuye geográficamente.
 - **Las personas adultas que aprenden son un caso de diseño aparte,** cubierto por el [[adult-learning|aprendizaje adulto]] y el trabajo de andragogía de la base de conocimiento, más que por estudios de K-12.
 - **El acceso sigue condicionando todo lo demás:** véanse la [[digital-divide|brecha digital]] y el hallazgo de que [[access-not-enough-ai-tutoring-2026|el acceso a la tutoría con IA no es suficiente]] sin integración [[pedagogy|pedagógica]].
 
@@ -103,6 +104,7 @@ Esta vertiente es pequeña en número de artículos y fuerte en mecanismo, porqu
 El hallazgo honesto de este repaso es lo delgados que son algunos grupos. Cada uno de estos es una brecha real en la base de evidencia, no una brecha de esta página.
 
 - **Estudiantado de primera generación:** un estudio informa de una diferencia de uso y no de un efecto. En [[student-ai-inquiry-types-cs2-2026|un estudio de indagación en CS2]], el estudiantado de generación continua trató la IA como un socio activo de [[problem-solving|resolución de problemas]], mientras que el estudiantado de primera generación adoptó un papel confirmatorio, orientado a la validación, y formuló menos preguntas en conjunto.
+- **Estudiantado de primera generación: la primera estimación de efecto, y va en la dirección equivocada.** El [[rct|ensayo aleatorizado]] de un [[intelligent-tutoring|tutor de IA]] integrado en un curso de [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] aporta lo que falta a la entrada anterior: una diferencia medida en lugar de un patrón de uso. En la muestra completa, el efecto del acceso al tutor sobre las calificaciones finales fue 2.87 puntos (0.28 SD) más negativo para el estudiantado de primera generación, lo que implica −5.10 puntos (−0.50 SD) para este frente a −2.23 puntos (−0.22 SD) para sus pares; la diferencia fue mayor en la muestra de coincidencia exacta (−3.89 puntos, −0.35 SD), y el estudiantado de primera generación también perdió más puntos de tareas y más vistas de páginas de la plataforma. El estudio no informa de un mecanismo y su precisión varía según el resultado, pero la dirección es la opuesta al relato de la brecha que se cierra: el estudiantado con menos acceso previo al apoyo académico cargó con el mayor costo medido.
 - **Estudiantado internacional:** un estudio de [[mixed-methods-research|métodos mixtos]] (encuesta n = 60; entrevistas n = 14) sobre [[international-students-conversational-ai-adaptation|apoyo a la adaptación transcultural]].
 - **Estudiantado con altas capacidades y de alto rendimiento:** efectivamente no estudiado como grupo en este corpus.
 - **Personas refugiadas, inmigrantes y desplazadas:** ningún estudio.
@@ -158,3 +160,5 @@ El hallazgo honesto de este repaso es lo delgados que son algunos grupos. Cada u
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Una interacción de subgrupo cuyo intervalo de confianza cruza el cero
 - [[student-ai-inquiry-types-cs2-2026]] — El único hallazgo del corpus sobre uso en primera generación
 - [[international-students-conversational-ai-adaptation]] — El único estudio del corpus sobre estudiantado internacional
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — La primera estimación de efecto del corpus para el estudiantado de primera generación: el acceso al tutor les costó 0.50 SD de calificación final frente a 0.22 para sus pares (Liu et al. 2026)
+- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: evaluación de las intervenciones de equidad post hoc en sistemas de alerta temprana controlados por proveedores

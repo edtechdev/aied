@@ -1,14 +1,14 @@
 ---
 title: Investigación cuantitativa
 created: "2026-09-28T19:11:02-04:00"
-updated: "2026-09-28T19:11:02-04:00"
+updated: "2026-10-02T21:24:18-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-30T08:39:04-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,7 @@ Las encuestas transversales miden actitudes, percepciones, motivación, [[self-e
 
 ### Investigación experimental y cuasiexperimental
 Los experimentos asignan aleatoriamente a quienes aprenden a distintas condiciones (por ejemplo, tutor de IA frente a tutor humano, o con andamiaje de IA frente a sin asistencia) para estimar efectos causales sobre los resultados. Los **ensayos controlados aleatorizados ([[rct|ECA]]s)** son el patrón de referencia para la validez interna. [[access-not-enough-ai-tutoring-2026|Un estudio de campo aleatorizado sobre el apoyo humano más la tutoría con IA]] y [[genai-can-harm-teaching-rct-2026|un ECA sobre la IA generativa en la enseñanza]] usan la asignación para aislar efectos causales. Los diseños **cuasiexperimentales** (pre/post, grupos emparejados sin aleatorización) son más viables en aulas intactas, pero más débiles para las afirmaciones causales.
+[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adoptan en cambio un diseño cruzado intra-sujeto: cada estudiante se enfrenta al mismo contenido de física dos veces, una en una lección de aprendizaje activo en clase y otra mediante el propio tutor de IA del curso, con prepruebas y pospruebas alrededor de cada una, de modo que cada persona sirve como su propio control y las diferencias entre individuos se cancelan.
 
 - **Fortalezas:** la inferencia causal más sólida; medición limpia de los resultados; permite estimar tamaños del efecto y sostener afirmaciones de eficacia.
 - **Limitaciones:** costosa y lenta; las condiciones artificiales reducen la validez ecológica; las herramientas de IA que cambian rápido dejan obsoletos los experimentos enseguida; las muestras pequeñas tienen poca potencia para detectar efectos; restricciones éticas a la hora de retener herramientas útiles.
@@ -52,14 +53,22 @@ Los experimentos asignan aleatoriamente a quienes aprenden a distintas condicion
 ### Investigación longitudinal
 Los diseños longitudinales siguen a las mismas personas que aprenden a lo largo del tiempo y capturan el cambio, el crecimiento y el aprendizaje duradero que se escapan a una medición en un único momento. [[ai-lms-middle-school-longitudinal|Un estudio longitudinal de un LMS]] sigue al estudiantado a lo largo de un curso escolar. Los diseños longitudinales son esenciales para distinguir el rendimiento inflado por la IA del [[genai-performance-vs-learning|aprendizaje duradero]].
 
+Las comparaciones entre conjuntos de datos necesitan un punto de trabajo fijo: una comprobación estructural de datos educativos sintéticos encontró que analizar cada conjunto en su propio umbral invertía un contraste que se mantenía en un punto compartido, y que su comparación sustituta solo necesitaba los datos sintéticos y permutaciones de sí mismos: una hipótesis nula basada en permutaciones en lugar de un umbral absoluto ([[synthetic-educational-data-structural-fidelity-2026|Inoue y Yasutake (2026)]]).
+
 ### Cuantificación computacional y psicométrica
 Los métodos cuantitativos también incluyen la medición directa de constructos mediante instrumentos, el dominio de la [[educational-measurement|medición educativa]] y la [[item-response-theory|teoría de la respuesta al ítem]]. El [[jin-glat-genai-literacy-assessment|GLAT]] de la base de conocimiento es un instrumento cuantitativo de 20 ítems validado con TRI; los [[educational-measurement|instrumentos de medición]] de la [[ai-literacy|alfabetización en IA]], la aceptación y la autoeficacia proporcionan las escalas validadas de las que dependen la investigación por encuesta y la experimental.
 
 ## Cómo aparece la investigación cuantitativa en la base de conocimiento
 
 - **Afirmaciones de eficacia y causales.** Los ECA y los cuasiexperimentos prueban si las herramientas de IA mejoran el aprendizaje ([[access-not-enough-ai-tutoring-2026|un estudio de campo aleatorizado sobre apoyo humano más tutoría con IA]], [[genai-can-harm-teaching-rct-2026|un ECA sobre la IA generativa en la enseñanza]], [[adaptive-pretesting-retention|preprueba adaptativa y retención]]).
+
+- **Preregistro y replicación.** [[chatbot-outreach-course-performance-2026|Meyer et al. (2026)]] declaran sus hipótesis y su plan de análisis antes del ensayo y agrupan la comparación aleatorizada a lo largo de dos semestres y dos cursos asíncronos grandes, de modo que la estimación se apoya en un plan fijo y una replicación en lugar de en una única muestra.
 - **Modelado de mecanismos.** El SEM/PLS-SEM prueba mediadores y moderadores de la adopción de la IA y del aprendizaje ([[tian-genai-learning-adoption-pathways-2026|las vías de adopción de la IA generativa]], [[acceptance-ai-english-tools-2026|la aceptación de herramientas de inglés asistidas por IA]], [[teacher-education-ai-literacy-sdt-2026|la alfabetización en IA del profesorado]]).
+
+- **Modelos de panel que separan los efectos intrapersonales de los interpersonales.** [[genai-reliance-human-agency-collaborative-learning-2026|Wu y Lu (2026)]] estiman un modelo de panel con intercepto aleatorio y retardo cruzado sobre tres oleadas de datos de escritura colaborativa, que separa las diferencias estables entre estudiantes del orden temporal intrapersonal: la distinción que autoriza a leer una mayor dependencia como algo que precede a una caída en la agencia percibida y no que simplemente la acompaña.
 - **Medición y desarrollo de escalas.** La base de conocimiento documenta el desarrollo y la validación de instrumentos cuantitativos ([[jin-glat-genai-literacy-assessment|GLAT]], [[educational-measurement|medición educativa]]).
+
+- **Rendimiento frente a aprendizaje duradero.** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] aleatoriza a 120 estudiantes a un estudio asistido por IA o tradicional y mide la retención con una prueba sorpresa de 20 preguntas 45 días después de la intervención, de modo que el resultado es lo que sobrevivió al retraso y no lo que apareció al final de la sesión.
 
 ## Fortalezas y limitaciones
 
@@ -91,7 +100,5 @@ Los métodos cuantitativos y los [[qualitative-research|cualitativos]] son compl
 - [[teacher-education-ai-literacy-sdt-2026]] — La alfabetización en IA del profesorado a través de la teoría de la autodeterminación
 - [[jin-glat-genai-literacy-assessment]] — GLAT: una prueba de alfabetización en IA generativa validada con TRI
 - [[ai-lms-middle-school-longitudinal]] — Un estudio longitudinal de un LMS integrado con IA
-- [[genai-over-reliance-learning-2026]] — De la mejora a la dependencia excesiva (métodos mixtos)
 - [[adaptive-pretesting-retention]] — Preprueba adaptativa y retención
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: esquemas basados en aserciones para la codificación auditable de diálogos educativos
 - [[synthetic-educational-data-structural-fidelity-2026]] — Lo que las métricas de fidelidad pasan por alto: una comprobación estructural de los datos educativos sintéticos

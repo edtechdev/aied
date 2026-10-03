@@ -1,7 +1,7 @@
 ---
 title: Autoevaluación
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-09-28T20:10:38-04:00"
+updated: "2026-10-02T21:40:10-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
 translation_of: concepts/self-assessment
-source_updated: "2026-09-21T12:50:58-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,8 @@ La etapa de desarrollo marca un límite a la exactitud, y es entre quienes apren
 
 La cara de medición también aparece en el diseño de evaluaciones, donde los instrumentos de autoevaluación se usan como medidas de resultado. Un estudio sobre la evaluación asistida por IA de informes complejos en educación superior evalúa explícitamente el aprendizaje con instrumentos validados de alfabetización en retroalimentación y autoevaluación, junto con el rendimiento posterior y la comparación con un grupo de control. Eso es defendible cuando el instrumento mide una creencia sobre la que trata de verdad el estudio, como la [[self-efficacy|autoeficacia]] o la competencia percibida, y engañoso cuando se trata como sustituto del logro. La crítica recurrente a los [[ai-ed-evaluation|estudios de intervención con IA]] se aplica aquí con toda su fuerza.
 
+Medir la agencia mediante cuestionarios posteriores a la tarea y la [[self-efficacy|autoeficacia]] específica de la tarea corre el riesgo de razonamiento circular: la estimación de quien aprende se lee de vuelta como evidencia de la capacidad que pretende indicar, y la alternativa son analíticas dinámicas que siguen cómo se usa la autoevaluación a lo largo de ciclos sucesivos ([[self-directed-growth-generative-ai-learning-analytics|Mao (2025)]]).
+
 ## Qué cambia la IA generativa
 
 Las dos caras convergen bajo la IA generativa, porque la herramienta ataca el vínculo del que dependen ambas: que el trabajo entregado por quien aprende sea evidencia sobre quien aprende.
@@ -117,19 +119,7 @@ También introduce un riesgo de denominación que conviene enunciar con claridad
 
 ## Artículos conectados
 
-- [[pedlow-genai-selfassessment-2026]] — Autoevaluaciones de antes y después del semestre sobre el uso ético de la IA generativa en cohortes de enfermería, ciencias de la salud, ingeniería y ciencias (Pedlow et al. 2026)
-- [[rethinking-ai-writing-feedback-literacy]] — Guiones de alfabetización en retroalimentación frente a formación en calibración en la escritura asistida por IA (2026)
-- [[scaffolding-srl-feedback-genai-human-peers]] — Tres ciclos de autoevaluación que comparan la retroalimentación andamiada de IA generativa con la retroalimentación entre pares, N = 118 (2026)
-- [[guided-llm-scaffolding-independent-learning]] — El andamiaje centrado en la verificación mejoró el rendimiento independiente y la calibración de la autoevaluación en estadística (2026)
-- [[absent-cognitive-baseline-2026]] — Autoevaluación académica sin el registro experiencial con el que calibrarse (2026)
-- [[ai-literacy-assessment-misalignment]] — Las medidas autoinformadas y objetivas de la alfabetización en IA docente solo correlacionan débilmente, r = 0,07 a 0,24 (Zhang et al. 2026)
-- [[genai-skill-bypass-literacy]] — Análisis de Rasch de 158 autoevaluaciones de alfabetización en IA generativa: un perfil de destrezas invertido (2026)
 - [[self-directed-growth-generative-ai-learning-analytics]] — La autoevaluación situada en el centro de un marco de crecimiento autodirigido (2026)
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Instrumentos de autoevaluación validados usados como resultados de aprendizaje en la evaluación asistida por IA (2026)
-- [[ai-feedback-enactment-workflow-2026]] — Poner en acto la retroalimentación de IA elevó la incorporación y la confianza en la autoevaluación (2026)
-- [[interactive-learning-dashboards-engagement]] — Una función de autoevaluación de Juicio del Aprendizaje dentro de un panel interactivo (2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Autoevaluaciones estructuradas como evidencia de proceso de capacidades adaptativas (Lodge et al. 2026)
-- [[critical-media-literacy-education-2026]] — La competencia mediática autoevaluada va por detrás de la importancia percibida (2026)
 - [[age-tiered-ai-literacy-guidebooks-2026]] — Materiales de alfabetización en IA graduados por etapa de desarrollo, con medición de aceptación y validez (2026)
 - [[chatgpt-critical-creative-thinking-review]] — Triangular la retroalimentación de IA con la evaluación entre pares, del profesorado y la autoevaluación (2026)
 - [[yasir-llm-tutoring-agents-2026]] — Por qué la retroalimentación no debería apoyarse en la validez del razonamiento autoevaluada por un modelo (Yasir et al. 2026)

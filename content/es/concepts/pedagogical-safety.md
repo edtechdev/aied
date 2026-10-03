@@ -1,7 +1,7 @@
 ---
 title: Seguridad pedagógica
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-02T21:36:16-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/pedagogical-safety
-source_updated: "2026-09-21T13:04:27-04:00"
+source_updated: "2026-10-02T08:08:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,8 @@ La seguridad convencional de los [[llm|LLM]] —filtros de toxicidad, resistenci
 ### Enfoques de RL y alineación para la seguridad
 
 - La [[pedagogical-safety-rl|seguridad pedagógica en el RL]] formaliza el problema: a medida que el [[reinforcement-learning|aprendizaje por refuerzo]] personaliza la instrucción, las recompensas mal especificadas invitan al «hacking de recompensas» —inflación de puntuaciones de pruebas, juego con la [[student-engagement|implicación]] y ganancias a corto plazo—. Propone un modelo de cuatro capas (estructural, de progreso, de implicación, de resultado) y la detección mediante auditoría de discrepancias, inversión de políticas y seguimiento a largo plazo.
+
+- **RL orientado a la guía en modelos de tamaño medio.** [[singh-eduqwen-pedagogical-rl-2026|Singh et al. (2026)]] optimizaron un modelo denso de 32B con aprendizaje por refuerzo DAPO más una etapa de SFT sintético filtrado hasta el 96.52% en un punto de referencia de conocimiento pedagógico, por encima de un sistema propietario mucho mayor, aunque esa puntuación procede enteramente de ítems de opción múltiple de exámenes docentes, lo que deja sin probar el diálogo de tutoría de forma libre.
 
 ### Riesgos de adulación y manipulación
 
@@ -100,7 +102,6 @@ La seguridad pedagógica es la capa protectora que conecta el [[hallucination-ri
 - [[scaffolding-student-ai-dialogue-framework-2026]] — El marco SCAFFOLD para orientar el diálogo entre el estudiantado y la IA, con su piloto en aulas
 - [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Capas de seguridad diseñadas por docentes: límites de dominio, filtrado y anulación
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: un marco de diseño para una IA segura y sólida para el aprendizaje
-- [[turano-ai-tutoring-not-a-monolith-2026]] — La tutoría con IA no es un monolito: lo que sabemos realmente (informe de Stanford SCALE/NSSA)
 - [[eduzone-llm-safety-k12]]
 - [[eduguard-safe-rag-llm-tutor]]
 - [[hazra-safetutors-pedagogical-safety-2026]]
@@ -112,7 +113,6 @@ La seguridad pedagógica es la capa protectora que conecta el [[hallucination-ri
 - [[pedagogical-safety-rl]]
 - [[singh-eduqwen-pedagogical-rl-2026]]
 - [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[residencyrl-clinical-rl-training-2026]]
 - [[eduframetrap-llm-sycophancy-educational-safety]]
 - [[favero-critical-ai-tutors-empower-enslave-2025]]
 - [[sec-ai-literacy-narrative-review-2026]]

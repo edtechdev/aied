@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje adaptativo
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-09-28T19:11:03-04:00"
+updated: "2026-10-02T21:25:27-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,15 @@ ai_assist:
 
 La base de conocimiento documenta evidencia mixta: los sistemas adaptativos mejoran los resultados cuando la adaptación se apoya en [[student-modeling|modelos del estudiante]] fiables, pero una adaptación mal calibrada puede perjudicar el aprendizaje. La [[personalized-learning|investigación sobre personalización]] distingue la adaptación eficaz de la personalización superficial. [[khalifeh-redefining-personalized-learning-ai-2026|Las revisiones sistemáticas]] encuentran que el aprendizaje «adaptativo», «personalizado», «individualizado» y «a medida» se usa de forma inconsistente, así que los tamaños del efecto dependen en gran medida de cómo se operacionalice la adaptación, y el campo reclama un marco unificado.
 
+Una revisión PRISMA 2020 que cribó 959 registros hasta quedarse con 22 intervenciones en educación superior sitúa las rutas adaptativas y los sistemas de recomendación entre las principales aplicaciones de la IA, pero la mayoría de los estudios mejoraron la práctica existente en lugar de transformarla ([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh et al. (2026)]]).
+
+**Lo que impulsa la adaptación es la fundamentación pedagógica, no la capacidad técnica.** Una revisión de 15 años sobre 127 estudios de tutoría inteligente encuentra que la mayoría de los sistemas se construyeron en torno a lo que la tecnología puede hacer y no a un principio pedagógico declarado, y sitúa la ganancia media de los ITS en torno al 20% frente a hasta un 98% en la tutoría humana ([[zerkouk-comprehensive-review-its-2025|Zerkouk et al. (2025)]]).
+
+La adopción, y no el mecanismo de adaptación, fue la restricción vinculante en un ECA de distrito de dos años: reducir la inscripción a un solo paso elevó la adopción en la primera sesión de alrededor del 45% al 83% solo con cambios de diseño, y las ganancias por intención de tratar crecieron a medida que subía la adopción ([[virtual-tutoring-computer-assisted-learning-takeup-2026|Oreopoulos et al. (2026)]]).
+
+
+Una revisión alineada con PRISMA de 44 estudios encuentra que la literatura sobre implicación está sesgada hacia la implicación conductual y es más delgada en la implicación agéntica, e informa de un efecto de novedad —la implicación decae con el tiempo en estudios longitudinales de ALEKS y W-Pal una vez que se desvanece la novedad de la herramienta ([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng y Fryer (2026)]]).
+
 ### La era de la IA: la adaptación basada en LLM y sus riesgos
 
 La [[generative-ai|IA generativa]] ha ampliado lo que pueden hacer los sistemas adaptativos: los tutores conversacionales [[agentic-ai|agénticos]], el contenido fundamentado en [[rag|RAG]] y la [[intelligent-tutoring|tutoría]] impulsada por [[llm|LLM]] adaptan no solo la dificultad de los problemas, sino también el lenguaje y el estilo de explicación (por ejemplo, [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor|DeepTutor]], [[chudziak-ai-math-tutoring-platform|tutoría adaptativa multiagente]]). Sin embargo, la adaptación basada en LLM introduce riesgos nuevos: sin [[student-modeling|modelos del estudiante]] fiables, la adaptación puede apoyarse en señales superficiales; la sobre-adaptación puede reducir el esfuerzo productivo que el estudiantado necesita (véanse [[desirable-difficulties|dificultades deseables]] y [[cognitive-offloading|dependencia excesiva]]); y el equilibrio entre personalizar y preservar la [[agency|agencia]] de quien aprende es una pregunta de diseño abierta (véase [[agentic-ai|IA agéntica]]). Una variante de adaptación solicitada por quien aprende funciona sin [[student-modeling|modelo del estudiante]] alguno: en el curso de posgrado de Sidorkin (2026) las lecturas se ajustaban solo cuando el estudiantado hacía preguntas de seguimiento para reformularlas, profundizarlas, simplificarlas o localizarlas, y las peticiones orientadas a la comprensión producían de forma fiable un andamiaje más denso (entre 3,4 y 8,7 veces más marcadores definicionales que el texto de referencia), razón por la cual exigir al menos tres preguntas de seguimiento por lectura convirtió el material en una interacción. También traslada la carga adaptativa a quien aprende: aquí la adaptación solo ocurre si el estudiante sabe qué pedir.
@@ -61,9 +70,19 @@ El aprendizaje adaptativo se confunde con frecuencia con el [[personalized-learn
 
 - **La adaptatividad basada en la corrección puede detener la práctica demasiado pronto.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren y Stamper (2026)]] encontraron que los sistemas adaptativos que infieren el dominio a partir de la corrección corren el riesgo de terminar la práctica antes de que quien aprende se enfrente a contextos en los que debería abstenerse de la acción aprendida, lo que deja sin detectar la sobre-generalización engañosa. Recomiendan incluir tareas detectoras de «no actuar» antes de que se activen las reglas de parada por dominio, de modo que la adaptación ponga a prueba la comprensión condicional (saber cuándo abstenerse de actuar) y no solo la corrección.
 
+- **Una racha de dominio no es aprendizaje duradero.** En un experimento de campo de 6.000 estudiantes de secundaria, una regla de dominio de tres aciertos consecutivos apoyada por IA elevó el rendimiento definido por la plataforma en alrededor de 28.7 puntos porcentuales sin mejorar una prueba diferida una semana después, así que las métricas de dominio necesitan validarse contra el aprendizaje diferido en lugar de sustituirlo ([[making-ai-tutoring-productive-mastery-math-2026|Oreopoulos et al. (2026)]]).
+- **Adapte el *tipo* de implicación cognitiva, no solo la dificultad.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] encontraron que las políticas de BKT y de aprendizaje por refuerzo profundo que asignaban ejemplos resueltos guiados (activos) o con errores (constructivos) superaron ambas a la asignación aleatoria en un tutor de lógica con 113 estudiantes (postest 72.3 y 72.5 frente a 65.7), sirviendo el BKT mejor al estudiantado con bajo conocimiento previo y el DRL al de conocimiento alto.
+
+- **Más retroalimentación no es mejor retroalimentación.** En un curso adaptativo de estocástica de ocho semanas (194 estudiantes), la retroalimentación directiva, informativa y transformadora se adoptaron de forma distinta, y la transformadora se asoció con sobrecarga cognitiva en lugar de con una mejor regulación: la adaptatividad tiene que encajar con la fase y la necesidad de quien aprende, no maximizar la densidad de la retroalimentación ([[mejeh-fromm-srl-adaptive-learning-feedback-2026|Mejeh y Fromm (2026)]]).
+
 - **Los perfiles de implicación como objetivos de adaptación.** [[an-goel-self-directed-modeling-2026|An, Hammock y Goel (2025)]] siguieron a 315 estudiantes en línea que construyeron 822 modelos en VERA y clasificaron su implicación en perfiles de Observación, Construcción y Exploración, y encontraron que el estudiantado tiende a pasar de una conducta centrada en la construcción hacia una Exploración más plena y guiada por hipótesis, mientras que la Observación persiste en todas las fases. Sostienen que el diseño adaptativo y personalizado debería reconocer estos perfiles y orientar la retroalimentación (por ejemplo, recomendando modelos similares o apoyando una comprensión conceptual más profunda) para llevar a quienes observan de forma superficial hacia un modelado más integrador y de ciclo completo.
+- **Una memoria que se lee pero no se escribe no es adaptación.** El control de memoria congelada de CoLearn servía elementos fijos mientras seguía leyendo el perfil de quien aprende, y la proporción de elementos dirigidos a una habilidad genuinamente débil cayó de 0.72 a 0.57, con el error de dominio final elevándose por encima de la condición adaptativa ([[colearn-agentic-tutor-co-learning-loop-2026|He et al. (2026)]]).
 
 - **La ganancia vino de la secuenciación y no de un tutor más listo.** [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al. (2026)]] entrenaron un tutor personalizado con aprendizaje por refuerzo guiado por LLM y lo desplegaron en un curso de Python de cinco meses en diez [[k-12|institutos]] de Taipéi, aleatorizando a 770 estudiantes entre secuencias de problemas adaptativas y secuencias fijas de fácil a difícil. La secuenciación adaptativa elevó la puntuación del [[summative-assessment|examen final]] presencial y sin ayuda en 0,156 SD (0,150 SD con controles), mientras que el análisis de mediación atribuyó el efecto casi por completo a la implicación (0,185 SD por el tiempo dedicado a la tarea, 0,149 SD por los intentos) y no a un material más fácil o más difícil, y las ganancias fueron mayores para principiantes y centros de nivel más bajo. La palanca adaptativa fue el orden de la práctica y no la calidad del chat.
+
+- **Mantenga las decisiones de dominio basadas en reglas y confine el aprendizaje automático a la monitorización.** Un programa adaptativo de STEM de ocho semanas para 30 estudiantes de sexto grado gobernó las rutas mediante dominio basado en reglas mientras el aprendizaje automático seguía el rendimiento, manteniendo la adaptación auditable, pero sin pretest y con una sola aula por condición, sus ganancias son una plantilla piloto para validar localmente ([[bin-bakheet-adaptive-ai-stem-deep-learning-2026|Bin Bakheet et al., 2026]]).
+- **Adapte el atributo cuello de botella, no el promedio débil.** Un modelado de transiciones de los estados de conocimiento clasificó el pensamiento analítico como el más difícil de adquirir y el más fácil de perder —probabilidad de transición hacia delante más baja 0.31 y hacia atrás más alta 0.22-0.23—, lo que convierte la nueva práctica del atributo señalado en un objetivo de adaptación más preciso que el dominio global ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng y Huang, 2026]]).
+- **Adaptación a partir de secuencias de proceso, no de puntuaciones agregadas.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela y Cukurova (2026)]] derivaron reglas de andamiaje minando el *orden* de los turnos de diálogo de 65 estudiantes en tríadas, desplazando el aprendizaje adaptativo de las medidas agregadas de conducta o rendimiento hacia las secuencias de proceso individuales; el máximo andamiaje elevó la conducta centrada en la tarea pero también el guionizado, y el diseño no está probado.
 
 ## Conceptos conectados
 
@@ -84,23 +103,14 @@ El aprendizaje adaptativo se confunde con frecuencia con el [[personalized-learn
 - [[recommender-systems-and-learning-paths]]
 ## Artículos conectados
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Sobre-generalización engañosa: el dominio adaptativo puede detener la práctica antes de que quien aprende sepa cuándo abstenerse de actuar (An, McLaren y Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — Modelado causal de intervenciones de apoyo para la evaluación de competencias del estudiantado
 - [[turano-ai-tutoring-not-a-monolith-2026]] — La tutoría con IA no es un monolito: lo que realmente sabemos (informe de Stanford SCALE/NSSA)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[learning-context-framework-context-aware-ai-education-2026]]
 - [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[simon-student-engagement-adaptive-learning-2026]] — Revisión sistemática de la implicación del estudiantado en plataformas de aprendizaje adaptativo
-- [[zhan-chapman-genai-cs-education-2026]]
 - [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-online-education-engagement-satisfaction-2026]]
-- [[interactive-online-learning-ai-2025]]
-- [[ai-decision-support-online-learning-assessment-2026]]
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Modelo de conocimiento híbrido en capas basado en ontologías para el e-learning personalizado
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Tutoría virtual con aprendizaje asistido por computador: un experimento sobre adopción y aprendizaje
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Hacer productiva la tutoría con IA: práctica de matemáticas basada en el dominio
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — A un clic de distancia: Khanmigo en un experimento escolar de dos años
 - [[chudziak-ai-math-tutoring-platform]] — Tutoría matemática multiagente adaptativa y personalizada (Chudziak y Kostka 2025)
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefinir el aprendizaje personalizado: revisión sistemática
 - [[deeptutor]]
@@ -108,25 +118,15 @@ El aprendizaje adaptativo se confunde con frecuencia con el [[personalized-learn
 - [[adaptive-pretesting-retention]]
 - [[adapt-adaptive-lesson-plan-transformer]]
 - [[zerkouk-comprehensive-review-its-2025]]
-- [[vargas-situated-learning-ai-review-2024]]
-- [[prezenski-human-centered-ai-aided-learning]]
-- [[fowlin-operationalizing-learning-principles-ai]]
 - [[stanford-evidence-base-ai-k12-2026]] — IA específica para tutoría calibrada a la preparación de quien aprende frente a chatbots generales
-- [[multilingual-adaptive-learning-nigeria-2026]] — Plataforma de aprendizaje adaptativo basada en IA para contextos multilingües de bajos recursos
 - [[context-based-ai-secondary-chemistry-2026]] — Instrucción contextual 7E + IA en química de secundaria
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Programa STEM adaptativo basado en IA para el aprendizaje profundo
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Capacidades adaptativas para asegurar un aprendizaje de calidad en un futuro integrado con IA generativa (Lodge et al. 2026)
 - [[graph-its-adaptive-algorithms-2026]] — Tutoría inteligente basada en grafos para dominios dinámicos (2026)
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Diagnóstico cognitivo bayesiano para rutas de aprendizaje personalizadas
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: agente generativo que simula la evolución cognitiva del estudiantado
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Andamiaje adaptativo ICAP en un ITS (BKT frente a DRL)
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Metaanálisis que agrupa herramientas adaptativas y habilitadas por IA en 14 ECA
-- [[conversational-agents-business-simulation-gaming-2026]] — Marco CAIS-GBL para agentes conversacionales de IA en juegos de simulación empresarial (Wenzel et al. 2026)
-- [[personalized-neural-cognitive-architecture-search-2026]] — Búsqueda AutoML personalizada de arquitecturas cognitivas neuronales para perfiles de estudiantes
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Revisión sistemática: las rutas adaptativas entre los principales casos de uso de la integración de la IA en educación superior
 - [[an-goel-self-directed-modeling-2026]]
 - [[riedmann-reinforcement-learning-education-review-2026]]
-- [[sidorkin-ai-generated-course-readings-2026]] — Adaptación de lecturas generadas por IA a petición de quien aprende, sin modelo del estudiante (Sidorkin 2026)
-- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — La secuenciación adaptativa de problemas supera a la secuenciación fija: +0,156 SD en un examen sin ayuda, mediado por la implicación y no por la dificultad (Chung et al. 2026)
+- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — La secuenciación adaptativa de problemas supera a la secuenciación fija: +0.156 SD en un examen sin ayuda, mediado por la implicación y no por la dificultad (Chung et al. 2026)
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: un tutor agéntico que aprende de quien aprende en un bucle de coaprendizaje humano-IA
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — El uso de LLM por parte del estudiantado y los límites de la dificultad de preguntas generadas por IA en cursos de ciencia de datos

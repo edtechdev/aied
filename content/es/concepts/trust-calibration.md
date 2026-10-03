@@ -1,7 +1,7 @@
 ---
 title: Calibración de la confianza
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-09-28T19:11:03-04:00"
+updated: "2026-10-02T21:28:30-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -16,7 +16,7 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 translation_of: concepts/trust-calibration
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
 
@@ -43,9 +43,12 @@ El desarrollo de instrumentos empieza a abordar esa brecha de medición de forma
 
 La confianza no calibrada adopta dos formas. La **confianza excesiva** (aceptar la salida de la IA sin verificación) produce la aceptación acrítica que documentan la investigación sobre la [[cognitive-offloading|dependencia excesiva]] y la [[cognitive-offloading|dependencia excesiva]], y agrava el [[hallucination-risk|riesgo de alucinación]] de los errores seguros. La **confianza insuficiente** (evitar la IA por completo) renuncia a beneficios legítimos. Ambas provienen de la misma raíz: una confianza basada en la apariencia y no en la evidencia. La investigación sobre las [[misconceptions|ideas erróneas]] muestra que el estudiantado suele caer por defecto en la confianza excesiva porque da por supuesto que una IA que «suena bien» tiene razón.
 
+Una mayor confianza no compra mejor juicio: entre 432 estudiantes de grado que resolvían problemas de Python con sugerencias de IA precisas y deliberadamente engañosas, una mayor confianza predecía una *menor* confianza depositada apropiada (r = -.42), el estudiantado aceptó el 86.03% de las recomendaciones engañosas, y la relación estaba moderada por la [[ai-literacy|alfabetización en IA]] y la necesidad de cognición ([[trust-reliance-ai-education-2026|Pitts, Rani y Mildort (2026)]]).
+
 ### Cómo funciona la calibración
 
 - **Hábitos de verificación:** contrastar las afirmaciones de la IA con fuentes primarias y con la regla de «la IA propone, tú verificas», en lugar de aceptar salidas que suenan verosímiles.
+- **Un protocolo de verificación basado en el riesgo:** [[pearls-epistemic-verification-2026|Wang (2026)]] especifica seis dimensiones interdependientes que examinar —Proceso, Evidencia, Acceso, Reproducibilidad, Legitimidad y Fuente— y dirige la verificación hacia las afirmaciones que son centrales, sorprendentes, numéricas o difíciles de revertir, de modo que el esfuerzo sigue el coste de equivocarse y no la fluidez de la respuesta.
 - **Conciencia del contexto:** reconocer que la [[trust|confiabilidad]] varía según la tarea: un tema muy transitado que el modelo ha visto ampliamente es más seguro que uno oscuro, de altas consecuencias o que cambia rápido.
 - **Ajuste según las consecuencias:** aplicar más escrutinio donde los errores son costosos (trabajos entregados, afirmaciones médicas o jurídicas) y menos donde son benignos.
 - **Monitorización metacognitiva:** hacer seguimiento de cuándo y por qué uno confía en exceso, lo que conecta la calibración con la [[metacognition|metacognición]] y el [[self-regulated-learning|aprendizaje autorregulado]].
@@ -54,11 +57,16 @@ La confianza no calibrada adopta dos formas. La **confianza excesiva** (aceptar 
 
 La investigación sobre calibración suele tratar la confianza como un único juicio. [[bounded-reliance-ai-writing-feedback-2026|Serpil y Mor (2026)]] muestran que la valoración se divide en dimensiones que no obligan por igual. Al entrevistar a 17 estudiantes de grado de inglés como lengua extranjera tras un semestre usando GROK para recibir retroalimentación sobre su escritura, encontraron que la *pericia* percibida era alta —el estudiantado atribuía a la herramienta mejoras en vocabulario, gramática, estructura y coherencia, y leía sus explicaciones de las revisiones sugeridas como evidencia de competencia—, mientras que la *confiabilidad*, referida sobre todo a qué ocurría con sus datos, y la *buena voluntad*, con una retroalimentación vivida como impersonal y a veces desmotivadora, se mantenían bajas. La confianza depositada siguió a las dimensiones débiles y no a la fuerte: el estudiantado autorizó la herramienta para retroalimentación lingüística amplia y reservó la orientación individualizada y relacional para el docente. La implicación para la calibración es que mejorar la precisión no eleva el techo de uso; la transparencia sobre los datos y el encuadre didáctico en torno a una herramienta son en sí mismos intervenciones de calibración.
 
+[[du-yuan-epistemic-dependence-2026|Du y Yuan (2026)]] separan la *confianza depositada productiva* de la *dependencia dañina* mediante seis criterios diagnósticos —contestabilidad, recuperabilidad, transferencia, trazabilidad, responsabilidad distribuida y pluralidad epistémica— y distinguen la asistencia instrumental (ayudar a producir una salida) de la asistencia que conlleva juicio (aportar los criterios con los que se juzga la salida), esta última donde la confianza depositada se vuelve educativamente consecuente.
+
 ### La calibración como problema de diseño
 
 Tratar la mala calibración como un simple déficit de la persona usuaria —algo que se arregla enseñando a la gente a comprobar la salida de la IA— puede ser un error de categoría. [[trust-calibration-chatbots-design-problem-2026|Jaidka y Cai (2026)]] sostienen que las facilidades de transparencia son *inertes*: esperan a que la persona usuaria actúe sobre ellas, y la mayoría no lo hace. En un estudio de seguimiento pasivo con 900 personas adultas de EE. UU., quienes veían un resumen generado por IA hicieron clic en una fuente citada dentro de él solo en el 1% de las visitas, y en cualquier enlace de resultado aproximadamente la mitad de a menudo que quienes no veían ningún resumen. La evidencia de encuesta muestra la misma brecha a escala: en un estudio con 81.000 personas de 159 países, la falta de fiabilidad fue la preocupación más citada sobre la IA, mientras que más de 48.000 personas encuestadas de 47 países usaban en gran medida la IA a diario incluso cuando decían no confiar en ella. Confianza y uso se han ido separando, y el artículo sitúa la causa en las señales superficiales: la fluidez, la seguridad y la rapidez sustituyen a la verificabilidad, de modo que la seguridad y la corrección se desacoplan. En particular, la autoría de una máquina puede inflar la credibilidad: quienes leían valoraban los resúmenes científicos como más creíbles y más dignos de confianza cuando los escribía GPT que cuando los escribía una persona, sobre todo porque el modelo escribía en un lenguaje más sencillo.
 
 La implicación de diseño es una tipología bidimensional de personas usuarias —la *capacidad* de verificar la salida de un [[conversational-ai|chatbot]] cruzada con la *motivación* para hacerlo— que predice qué usuarios se descalibrarán en qué dirección. Los autores la emparejan con dos familias de intervención que deben operar juntas: las facilidades de [[explainable-ai|interpretabilidad]] (razonamientos, citas, señales de incertidumbre) que hacen posible la evaluación, y los mecanismos de implicación que hacen que ocurra de verdad, dispuestos con el modelo del queso suizo de Reason en ocho proposiciones contrastables. La [[ai-literacy|alfabetización en IA]] se sitúa como la capa duradera que sostiene ambas, y mueve a las personas usuarias entre las celdas de la tipología. El reencuadre importa para la educación porque desplaza la responsabilidad: si las citas transparentes no se hacen clic en la población general, entonces exponer al estudiantado a las explicaciones de la IA no lo calibrará por sí solo; la facilidad tiene que diseñarse para forzar la comprobación.
+
+[[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] aportan una palanca de diseño que sí movió la calibración: mostrar a quienes revisaban criterios de confiabilidad codiseñados mientras comparaban respuestas de LLM elevó el acuerdo entre evaluadores del alfa de Krippendorff de 0.3987 a 0.4931, aunque el acuerdo agrupado se mantuvo por debajo de 0.67 y las medidas adicionales añadieron sobrecarga.
+Con los agentes autónomos cambia el objeto de la calibración. [[agentic-literacy-debt|Nama (2026)]] sostiene que quien usa el sistema pasa a ser un principal que ha delegado autoridad en un sistema cuyas acciones son en gran medida no observadas e irreversibles, lo que desplaza la competencia de juzgar las salidas a entender qué se autorizó, supervisarlo y atribuir responsabilidad cuando se produce un daño.
 
 ### Conexiones
 
@@ -81,11 +89,15 @@ La calibración de la confianza es central para la [[ai-literacy|alfabetización
 
 - **Un breve prompt de reflexión mueve la calibración de forma medible (2026):** [[ren-metacognitive-awareness-genai-reliance-2026|Ren (2026)]] asignó aleatoriamente a 342 estudiantes de grado a tomar decisiones de forma independiente, a recibir apoyo abierto de ChatGPT o a ese mismo apoyo más un breve prompt de reflexión. El apoyo abierto elevó la confianza final (76,1 frente a 68,4) y produjo una aceptación del 62,4% de consejos incorrectos de la IA, mientras que la reflexión redujo esa aceptación al 39,7% (OR = 0,40) y mejoró la calibración de la conciencia entre la confianza percibida y la conductual (0,59 frente a 0,41) sin reducir la precisión de las recomendaciones, de modo que la confianza que quedó era más discriminativa y no uniformemente defensiva. Tratar la calibración como un problema de monitorización respalda la idea de la página de que lo que cambia la conducta son los prompts metacognitivos, y no solo la exposición a los límites de un modelo.
 
+- **La disponibilidad de la IA puede derrumbar la disposición a admitir la ignorancia (2026):** En cinco experimentos (N = 3,132), disponer de consejo de IA redujo la suspensión del juicio de 0.36 a 0.06 en un estudio y casi duplicó la confianza mientras la corrección agrupada cayó del 27.5% al 9.2%: lo que cambia es el umbral para responder. ([[ai-advice-suppresses-ikt-suspension-2026|Marcoccia et al., 2026]])
+
 - **La calibración como mediadora en una cadena hacia la transferencia (2026):** [[trust-calibration-genai-collaborative-regulation-2026|Bu y Li (2026)]] ponen a prueba la calibración de la confianza como puente entre el apoyo contextual y los resultados de [[transfer-of-learning|transferencia]], y no como una actitud general. En un diseño [[mixed-methods-research|de métodos mixtos]] secuencial exploratorio (entrevistas y después un instrumento de 22 ítems, con una muestra analítica final de 642 estudiantes, CFI = 0,953), el apoyo contextual predijo la calibración de la confianza (β = 0,56) y la corregulación colaborativa (β = 0,18); la calibración de la confianza predijo la corregulación colaborativa (β = 0,49) y las ganancias percibidas de transferencia (β = 0,22); y la corregulación colaborativa fue el impulsor próximo más fuerte de las ganancias percibidas de transferencia (β = 0,54), mientras que la ruta directa del apoyo contextual a la transferencia no fue significativa (β = 0,07). Como el resultado es una transferencia percibida y no medida, y los datos son transversales, el valor es interpretativo: enmarca la calibración como un constructo de proceso que convierte el apoyo contextual en un uso regulado y eficaz de la IA generativa.
 
 - **La ansiedad como condición límite para que la alfabetización se convierta en confianza (2026):** en una encuesta a 450 estudiantes universitarios de China continental que ya usaban ChatGPT, [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] encontró que la ruta de la alfabetización en IA a la confianza era la asociación más grande del modelo (beta = 0,50) y que la [[anxiety-and-stress|ansiedad por la IA]] debilitaba ese vínculo (beta de interacción = -0,25), con pendientes simples que caían de 0,76 a una desviación típica por debajo de la media de ansiedad a 0,25 por encima de ella, mientras que una ruta serial de la alfabetización a la confianza, a la autoeficacia y al uso continuado era significativa. La calibración es, por tanto, en parte afectiva: el mismo conocimiento se traducía en menos confianza entre el estudiantado más ansioso, y el diseño transversal deja abierto si la ansiedad bloquea la valoración que convierte el conocimiento en confianza depositada o refleja una evaluación sobre la que el estudiantado decide no actuar.
 
 - **La rotación de roles como estructura para practicar la crítica (2026):** en un estudio basado en el diseño con 62 futuros psicólogos educativos que pasaron por cuatro roles profesionales rotatorios a lo largo de ocho semanas, [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva et al. (2026)]] hicieron que las personas participantes compararan las recomendaciones generadas por IA con la teoría psicológica y modificaran o rechazaran las que no encajaban con el caso, y aun así registraron dependencia excesiva de respuestas de IA aparentemente autorizadas, con algunos estudiantes buscando la confirmación de la IA antes de ofrecer su propia interpretación incluso en ciclos posteriores. La rotación crea ocasiones repetidas para el juicio de aceptar o rechazar sin garantizarlo, y el estudio reporta implicación durante la intervención y no ganancias de competencia medidas.
+
+- **Las señales superficiales de identidad mueven la confianza con independencia de la capacidad.** En dos experimentos (N = 396), el estudiantado valoró los avatares blancos —y los avatares masculinos asiáticos en STEM— como más creíbles y competentes, penalizó a los avatares de mujeres negras de mayor edad en todas las medidas y adoptó con más facilidad la orientación de su propio grupo racial ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis y Kyriakidou-Zacharoudiou (2026)]]).
 
 ## Conceptos conectados
 
@@ -112,7 +124,6 @@ La calibración de la confianza es central para la [[ai-literacy|alfabetización
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[agentic-literacy-debt]] — Deuda de alfabetización agéntica: la brecha estructural de alfabetización en IA que crean los agentes autónomos (Nama 2026)
 - [[trust-reliance-ai-education-2026]] — Confianza y uso de la IA en la educación
-- [[ai-fallibility-warning-help-seeking]] — Advertir de la falibilidad de la IA aumenta la búsqueda de ayuda
 - [[calibrating-trustworthiness-llm-education-2026]] — Calibrar la confiabilidad: codiseñar métricas para los LLM en educación
 - [[llm-fallacy-misattribution]] — La falacia de los LLM y la atribución errónea de competencia
 - [[ai-partner-science-epistemic-vigilance]] — La vigilancia epistémica como clave de una aumentación productiva
@@ -120,7 +131,6 @@ La calibración de la confianza es central para la [[ai-literacy|alfabetización
 - [[ai-overreliance-complex-adaptive-system-2026]] — La dependencia excesiva de la IA modelada como sistema adaptativo complejo
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[student-reception-genai-analogies-computing-2026]] — Defectuosas pero memorables: recepción crítica del estudiantado ante analogías de IA generativa personalizadas por interés en la enseñanza de la informática
-- [[sidorkin-ai-generated-course-readings-2026]] — Confianza acotada y supervisión docente en lecturas de curso generadas por IA (Sidorkin 2026)
 - [[trust-calibration-chatbots-design-problem-2026]] — La calibración de la confianza reencuadrada como problema de diseño: una tipología bidimensional de personas usuarias y ocho proposiciones de diseño (Jaidka y Cai 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Inyección de prompts en la calificación mediada por IA: una herramienta que suprimió y contradijo sus propias advertencias (Humble 2026)
 - [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Inferencia condicionada por la confianza y evaluación explicable por diseño, con la confianza sin medir (Li et al. 2025)
@@ -133,5 +143,4 @@ La calibración de la confianza es central para la [[ai-literacy|alfabetización
 - [[hu-psychological-predictors-continued-chatgpt-use-2026]] — La confianza como bisagra de la alfabetización en IA al uso continuado, debilitada por la ansiedad ante la IA (Hu 2026)
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — La rotación de roles como estructura para manejar críticamente las recomendaciones de IA (Kenzhebayeva et al. 2026)
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — El uso de LLM por parte del estudiantado y los límites de la dificultad de preguntas generadas por IA en cursos de ciencia de datos
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Preguntas abiertas hacia una confianza que sostenga las habilidades en la implicación reflexiva con la IA
 - [[nazaretsky-trust-instrument-ai-edtech-2025]] — Instrumento dirigido al estudiantado que valida la confianza en la IA educativa como cuatro factores, con la confianza antes de la utilidad percibida (Nazaretsky et al. 2025)

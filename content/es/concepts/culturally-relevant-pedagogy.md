@@ -1,7 +1,7 @@
 ---
 title: Pedagogía culturalmente relevante
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-09-28T21:21:51-04:00"
+updated: "2026-10-02T21:34:05-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-09-28T21:21:51-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,7 @@ Un conjunto de trabajos procedentes de la base de conocimiento aborda las brecha
 - **Datos de entrenamiento no occidentales:** IKS-Instruct ofrece un **conjunto de datos de instrucciones [[multilingual-learning|multilingüe]] de 24.795 ejemplos** para [[teacher-role|enseñar]] a los LLM los sistemas de conocimiento indios a través de siete [[language-learning|idiomas]] y 41 técnicas [[pedagogy|pedagógicas]]. Un modelo compacto de 7B ajustado al dominio alcanzó una puntuación mediana de juez de 6,39 (frente a 6,54 de un modelo de propósito general mucho mayor), mientras que el modelo base puntuó **cerca de cero** en las dimensiones específicas de los sistemas de conocimiento indios, lo que muestra cuánto mejora la relevancia con datos culturalmente fundamentados.
 - **[[benchmark|Referencias de evaluación]] del [[global-south|Sur global]]:** la referencia **NSMQ Riddles** extrae 1,8K acertijos científicos y matemáticos de 11 años del National Science and Maths Quiz de Ghana —una de las primeras referencias educativas del Sur global— y encontró que los LLM de última generación **rinden por debajo de los mejores estudiantes concursantes**, lo que expone el sesgo geográfico en cómo se evalúan los modelos.
 - **La cultura por encima de la política:** una encuesta transcultural con estudiantes canadienses y surcoreanos de [[cs-education|informática]] encontró que **la cultura, y no el texto de las políticas, determinaba las percepciones sobre la ética del uso de la IA**: comportamientos idénticos se juzgaban de forma distinta entre cohortes, lo que refuerza la necesidad de una comunicación culturalmente consciente en lugar de reglas abstractas.
+- **La navegación cultural es donde el apoyo de la IA es más débil.** El estudiantado internacional valoró la IA conversacional como más útil para la gramática, la estructura y el resumen (media 4.27) y menos para la navegación cultural (media 3.49) ([[international-students-conversational-ai-adaptation|Nourian et al. (2026)]]).
 - **La adaptación cultural como decisiones de diseño:** [[culturally-aware-student-stress-chatbot-2026|Bashir y Afzal (2026)]] operacionalizan la relevancia cultural en un sistema de apoyo con IA al [[well-being|bienestar]] ([[culturally-aware-student-stress-chatbot-2026|Sukoon]]) mediante tres movimientos: una evaluación bilingüe de 20 preguntas con etiquetas paralelas en inglés y urdu; un prompt de sistema que indica al modelo que responda de forma coherente con las normas sociales y culturales pakistaníes y que use expresiones en urdu y roman urdu cuando proceda; y una sensibilidad explícita a los factores de estrés localmente relevantes (expectativas familiares, presión económica, relaciones jerárquicas entre docente y estudiantado). Su justificación es tanto empírica como ética —la [[explainable-ai|importancia de las características]] situó la relación docente-estudiantado en segundo lugar entre los predictores de estrés—, pero admiten que la adaptación vive en el prompt y no en la canalización de PLN, y que la idoneidad cultural se evaluó solo mediante pruebas informales, no con el estudiantado al que se dirige el sistema.
 
 ### Orientaciones prácticas
@@ -90,12 +91,8 @@ A partir de los propios artículos de la base de conocimiento, el profesorado y 
 - [[civic-education-ai-lesson-plans]] — Planes de clase generados por IA en la educación cívica
 - [[ojeda-ramirez-community-based-ai-learning]] — Aprendizaje con IA basado en la comunidad
 - [[genai-minoritized-knowledges-disability]] — La IA generativa y la marginación de los conocimientos minorizados
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: conjunto de datos de los sistemas de conocimiento indios
 - [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: referencia de evaluación STEM de Ghana
 - [[cross-cultural-student-perceptions-genai-computing]] — Percepciones transculturales del uso de la IA generativa
 - [[international-students-conversational-ai-adaptation]] — El estudiantado internacional y la IA conversacional
 - [[connected-ai-lesson-planning-vietnam]] — ConnectED: planificación de clases en Vietnam
-- [[culturally-aware-aied-community-learning]] — IA culturalmente consciente para el aprendizaje comunitario
-- [[taklif-ai-interest-based-personalized-assignments]] — Taklif: tareas personalizadas basadas en intereses
-- [[multilingual-adaptive-learning-nigeria-2026]] — Plataforma de aprendizaje adaptativo con IA para contextos multilingües de bajos recursos
 - [[culturally-aware-student-stress-chatbot-2026]] — Un chatbot culturalmente consciente impulsado por IA para la detección del estrés y el apoyo al bienestar entre estudiantes universitarios pakistaníes mediante PLN y aprendizaje automático

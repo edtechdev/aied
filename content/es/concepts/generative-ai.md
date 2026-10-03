@@ -1,14 +1,14 @@
 ---
 title: IA generativa
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-09-25T03:07:36-04:00"
+updated: "2026-10-02T21:36:37-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-30T10:54:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,11 +41,20 @@ A diferencia de los sistemas anteriores basados en reglas o en recuperación, la
 - **Pacientes simulados y coherencia del caso.** Un corpus anotado por varios expertos con 4.815 mensajes entre estudiantado e IA de la plataforma MeduAI-SP ([[ai-standardized-patient-scaffolding-medical-2026|Yang et al., 2026]]) encontró que solo alrededor del 0,68% de las respuestas de pacientes estandarizados generadas por LLM contenían problemas claros de fidelidad, y que la divulgación progresiva se valoró como clínicamente apropiada en aproximadamente el 99,3% de los mensajes de los pacientes. Esto respalda la afirmación de que los pacientes simulados con IA generativa pueden mantener la coherencia del caso y una divulgación dependiente de la indagación y no prematura bajo un guion YAML estructurado (qwen-max), lo que los convierte en un entorno lo bastante estable para la investigación de resultados y no solo para demostraciones de verosimilitud, mientras el sistema retenía deliberadamente los diagnósticos y las puntuaciones [[summative-assessment|sumativas]] durante el aprendizaje.
 - **Evaluación:** la [[automated-essay-scoring|corrección automática de ensayos]], la [[automated-assessment|calificación automatizada]] y la [[formative-assessment|evaluación formativa]] dependen cada vez más de modelos generativos. Los [[benchmark|puntos de referencia]] corroboran este giro para el trabajo abierto: [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko y Drlik (2025)]] encontraron que los modelos de IA generativa sensibles al contexto (GPTo1 alcanzó una concordancia casi perfecta con quienes calificaban) superaron con claridad a los enfoques anteriores de incrustaciones de frases al calificar respuestas abiertas del estudiantado, que dependían de una coincidencia rígida con la referencia y clasificaban mal respuestas válidas pero formuladas de otro modo. [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] lo extienden a la educación [[medical-education|médica]] previa a las prácticas clínicas, donde la puntuación de preguntas abiertas por GPT-4 alcanzó una concordancia interevaluador de sustancial a casi perfecta con el profesorado (kappa ponderada de hasta 0,94), pero solo después de que las personas refinaran la rúbrica de forma iterativa a lo largo de tres rondas y permanecieran en el bucle para arbitrar las discrepancias, mientras que la pregunta más sintética, con rúbrica holística, se quedó en una concordancia moderada (κw = 0,54). Es evidencia de que la fiabilidad de la evaluación generativa está determinada tanto por la ingeniería humana de rúbricas y el análisis de patrones de error como por el modelo en bruto. Sin embargo, esa misma fluidez no se generaliza entre tipos de ítem: [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] encontraron que ChatGPT-5 igualaba al profesorado en ítems objetivos de exámenes de farmacia (CCC 0,935-1,000) pero no en ítems de respuesta corta (≈0) ni de ensayo (0,341-0,854), y una rúbrica estructurada no cerró la brecha de forma fiable.
 - **Riesgos:** la [[hallucination-risk|alucinación]], la [[cognitive-offloading|dependencia excesiva]], la [[cognitive-offloading]] y las preocupaciones sobre la [[academic-integrity]] surgen específicamente de la fluidez y la [[accessibility]] de la IA generativa.
+
+- **Un problema de seguridad del aprendizaje más allá de la calidad de la salida.** [[ssail-safe-sound-ai-learning-2026|Rahimi (2026)]] sostiene que la IA generativa puede elevar la calidad del trabajo de quien aprende a la vez que realiza trabajo cognitivo que esa persona necesita hacer, por lo que la seguridad debería juzgarse por la trayectoria de desarrollo humano —la Seguridad del Aprendizaje, que protege las competencias, y la Solidez del Aprendizaje, que apoya su desarrollo— y no por la exactitud, el sesgo o la privacidad.
+- **Las afirmaciones de eficacia miden el desempeño, no el aprendizaje.** La mayor estimación del campo —un [[meta-analysis-systematic-review|metaanálisis]] de 69 estudios que informa de *g* = 0.7 para ChatGPT y herramientas similares— agrupa el éxito inmediato en la tarea y no la retención diferida y sin asistencia, por lo que no es evidencia de que la IA generativa produzca [[learning-gains|aprendizaje]] ([[genai-performance-vs-learning|Yan et al., 2025]]).
 - **Generación de entornos de aprendizaje:** los modelos generativos especializados ahora convierten un resumen de curso directamente en artefactos de aprendizaje terminados. [[cogevol-learning-environment-generation-2026|CogEvol (Tu et al. 2026)]], una familia de modelos entrenados para generar en una sola pasada diapositivas estructuradas y páginas HTML interactivas autocontenidas, completa una diapositiva en una mediana de 17 segundos y una página interactiva en 59, en lugar de un [[agentic-ai|agente]] con [[scaffolding]] de varios turnos que tardaba minutos. La fiabilidad se garantiza mediante una canalización de producción que convierte los fallos reales en 53.687 muestras SFT verificadas, además de una recompensa híbrida de reglas más VLM para el aprendizaje por refuerzo con GRPO. Esto sitúa la IA generativa como un motor de autoría de contenido, con implicaciones para los flujos de producción del [[teacher-role|profesorado]] y del [[curriculum-design|diseño curricular]], y para evaluar si los entornos de aprendizaje generados por IA son funcional y pedagógicamente sólidos y no solo visualmente pulidos.
+
+Un censo del uso de herramientas por parte del profesorado muestra que la atención se concentra en la producción más que en la instrucción: las herramientas de imagen, audio, vídeo y presentación constituyeron aproximadamente la mitad de las 50 herramientas nominadas por 211 docentes de nueve países, mientras que las herramientas de tutoría y de chatbot formaron el grupo orientado a la enseñanza más pequeño ([[typology-generative-ai-tools-education-2026|Bower, Torrington y Lai (2026)]]).
 
 ### La cobertura de la IA generativa en la base de conocimiento
 
 Con más de 80 artículos, la IA generativa es la línea tecnológica más amplia de la base de conocimiento. La investigación abarca estudios de eficacia ([[genai-meta-analysis-programming-learning|metaanálisis]]), preocupaciones de seguridad ([[hazra-safetutors-pedagogical-safety-2026|daños de los tutores]], [[eduguard-safe-rag-llm-tutor|barreras de seguridad]]) y principios de diseño ([[instructional-guidance-genai-learning|orientación didáctica]]).
+Agrupada en 53 estudios, la educación asistida por IA generativa superó a los enfoques sin IA generativa en rendimiento (g = 0.40), pensamiento de orden superior (g = 0.72), motivación (g = 0.81) y escritura (g = 0.76), aunque la IA generativa asistida por juegos no añadió un beneficio significativo (g = 0.24) ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
+
+
+Un metaanálisis separado de 42 estudios solo sobre motivación sitúa el efecto agrupado más abajo (g = 0.764) e informa de un intervalo de predicción del 95% que abarca [−0.689, 2.217], de modo que la ventaja motivacional no es fiablemente positiva para un entorno nuevo ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 La interfaz de usuario generativa es la capacidad más reciente de esta línea: modelos que emiten un artefacto interactivo funcional (controles deslizantes, simulaciones manipulables) en lugar de prosa. [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]], un equipo de Google Research, informan de que la interfaz generativa disponible comercialmente todavía no es lo bastante precisa desde el punto de vista pedagógico para constructos complejos, pero que descomponer un objetivo de aprendizaje en metas progresivas por niveles y envolver la generación en bucles de crítica y automejora produce materiales interactivos que el profesorado experto considera aceptables. El suyo es un diseño de orquestación: el profesorado declara los objetivos, los aprueba y elige entre simulaciones candidatas, de modo que la restricción vinculante para el [[simulation|material de aprendizaje interactivo]] a medida se desplaza de la producción a la especificación, y las [[guardrails|barreras de seguridad pedagógicas]] quedan integradas en la canalización de generación en lugar de dejarse después a la vigilancia del profesorado.
 
@@ -78,38 +87,24 @@ Una revisión sistemática interdisciplinar de 2026 (Dabaghi, D'Urso y Sciarrone
 - [[k-12]] — un contexto de despliegue principal
 
 ## Artículos conectados
+- [[genai-learning-motivation-meta-analysis-2026]] — Metaanálisis del efecto de la IA generativa sobre la motivación para aprender, con un intervalo de predicción que abarca del daño al beneficio
 
 - [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
-- [[genai-higher-education-systematic-review-2026]] — Systematic review of GenAI in higher education
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 - [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of GenAI learning outcomes
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI in programming learning
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
 - [[genai-performance-vs-learning]] — Performance vs. learning with GenAI
-- [[generative-ai-reduced-study-time-math]] — Cognitive surrender: study-time decline with GenAI
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitive discordance in GenAI completion
 - [[hazra-safetutors-pedagogical-safety-2026]] — Harms of AI tutoring agents
 - [[eduguard-safe-rag-llm-tutor]] — Guardrailing a safe RAG LLM tutor
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From substitution to scaffolding: breaking the harm cycle
-- [[beyond-detection-authentic-assessment-ai-2025]] — Redesigning authentic assessment for an AI-mediated world
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
-- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
-- [[demir-akar-ai-media-literacy-children-2026]] — AI-based critical media literacy program for children
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[pecuchova-automated-grading-open-ended-genai-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions

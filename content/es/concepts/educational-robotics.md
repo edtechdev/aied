@@ -1,7 +1,7 @@
 ---
 title: Robots en la educación
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-09-28T19:11:29-04:00"
+updated: "2026-10-02T21:34:05-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-09-23T09:34:44-04:00"
+source_updated: "2026-10-01T09:59:02-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,8 @@ ai_assist:
 ## Introducción
 
 La robótica educativa es una aplicación distinta pero estrechamente relacionada con la [[ai-education|IA en la educación]]. A diferencia de la [[intelligent-tutoring|tutoría inteligente]] o los chatbots [[llm|LLM]] que son solo software, los robots añaden una presencia **corporeizada** y a menudo **social**: un agente físico que el estudiantado puede ver, manipular y (cada vez más) con el que puede conversar. Esa corporeización es central para su valor [[pedagogy|pedagógico]]: fundamenta la lógica abstracta de programa en un comportamiento observable y puede sostener la creación de vínculos y la implicación emocional que los sistemas incorpóreos no pueden ofrecer.
+
+La evidencia es más escasa de lo que sugiere el volumen de trabajo: una revisión de la IA y la robótica en la educación encuentra que la mayoría de los estudios empíricos se refieren a estudiantes menores de 13 años durante cuatro semanas o menos, concentrados en unos pocos países que invirtieron pronto, con el [[learning-gains|rendimiento de aprendizaje]] como resultado más estudiado y la ética, la equidad y la política por detrás del despliegue ([[white-wu-robotics-ai-education-2026|White y Wu (2026)]]).
 
 ### Robots sociales e interacción persona–robot
 
@@ -69,9 +71,11 @@ La **interacción persona–robot (HRI)** es el estudio interdisciplinar de cóm
 
 - **Dos paradigmas para los aprendices pequeños: robots de codificación y robots sociales generativos.** [[creative-project-approach-ai-early-childhood-2025|Yang, Li y Lee (2025)]] enmarcan la robótica en la primera infancia como el emparejamiento de dos paradigmas [[pedagogy|pedagógicos]], cada uno con una base teórica distinta. Los **robots de codificación** (Bee-Bot, KIBO, Matatalab) descienden del LOGO de Papert y encarnan el [[constructivist|construccionismo]]: el alumnado aprende haciendo y construye el [[computational-thinking|pensamiento computacional]] mediante la programación tangible. Los **robots sociales generativos**, impulsados por [[generative-ai|IA generativa]], se fundamentan en el [[sociocultural-learning|constructivismo social]] y actúan como pares o tutores conversacionales que [[scaffolding|andamian]] el aprendizaje dentro de la Zona de Desarrollo Próximo del alumnado y apoyan el desarrollo socioemocional. Su **Enfoque de Proyecto Creativo** de cinco pasos para integrar ambos tipos de robot en el Enfoque de Proyectos mantiene al profesorado como facilitador que guía la interacción alumnado–robot, equilibra la automatización con la [[creativity|creatividad]] y preserva la [[agency|agencia]] del alumnado.
 
+- **Qué hace realmente la robótica de pensamiento computacional en el jardín de infancia.** Una revisión sistemática de 53 estudios encontró que el aprendizaje basado en problemas, la narración de historias y el andamiaje eran las estrategias más usadas, y que la mayoría de los estudios no nombraban ningún marco de pensamiento computacional y usaban herramientas de evaluación ad hoc en lugar de un instrumento validado como TechCheck-K ([[tsingidou-ct-robotics-kindergarten-2026|Tsingidou y Sapounidis (2026)]]).
+
 ### Corporeización y pedagogía
 
-Un tema definitorio es que los robots son eficaces cuando apoyan objetivos de aprendizaje genuinos, no como ejercicios técnicos aislados. El valor de un robot depende del contexto pedagógico: enseñar pensamiento computacional ([[computational-thinking|pensamiento computacional]]), apoyar STEAM ([[stem-education|educación STEAM]]), construir habilidades de [[cs-education|programación]], motivar a quien aprende ([[motivation|motivación]], [[student-engagement|implicación]]) o apoyar el [[social-emotional-learning|aprendizaje socioemocional]] y la [[equity-in-ai-education|inclusión]]. La robótica también conecta con el [[project-based-learning|aprendizaje por proyectos]], el [[game-based-learning|aprendizaje basado en juegos]] y el [[experiential-learning|aprendizaje experiencial]]. Entre las consideraciones clave de diseño están preservar la [[agency|agencia]] de quien aprende, construir la [[trust|confianza]], apoyar la [[self-efficacy|autoeficacia]] y fundamentar el aprendizaje en la [[embodied-learning|interacción corporeizada]]. En el [[language-learning|aprendizaje de idiomas]], [[robot-assisted-language-learning-meta-analysis-2026|la evidencia metaanalítica]] apunta a la eficacia del aprendizaje de idiomas asistido por robots corporeizados.
+Un tema definitorio es que los robots son eficaces cuando apoyan objetivos de aprendizaje genuinos, no como ejercicios técnicos aislados. Un proyector robótico montado sobre el escritorio empató con ChatGPT en un portátil mientras había ayuda disponible (6.7 frente a 7.3/10, p = .41), pero mantuvo su puntuación tras retirarse la ayuda (7.0 frente a 4.4/10, p = .003), una puntuación de transferencia a corto plazo un 60% mayor, una ganancia dependiente de la tarea que los autores atribuyen a la colocalización espacial y no a un reemplazo general ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). El valor de un robot depende del contexto pedagógico: enseñar pensamiento computacional ([[computational-thinking|pensamiento computacional]]), apoyar STEAM ([[stem-education|educación STEAM]]), construir habilidades de [[cs-education|programación]], motivar a quien aprende ([[motivation|motivación]], [[student-engagement|implicación]]) o apoyar el [[social-emotional-learning|aprendizaje socioemocional]] y la [[equity-in-ai-education|inclusión]]. La robótica también conecta con el [[project-based-learning|aprendizaje por proyectos]], el [[game-based-learning|aprendizaje basado en juegos]] y el [[experiential-learning|aprendizaje experiencial]]. Entre las consideraciones clave de diseño están preservar la [[agency|agencia]] de quien aprende, construir la [[trust|confianza]], apoyar la [[self-efficacy|autoeficacia]] y fundamentar el aprendizaje en la [[embodied-learning|interacción corporeizada]]. En el [[language-learning|aprendizaje de idiomas]], [[robot-assisted-language-learning-meta-analysis-2026|la evidencia metaanalítica]] apunta a la eficacia del aprendizaje de idiomas asistido por robots corporeizados.
 
 - **Itinerarios hacia el aprendizaje de la robótica con IA.** [[educational-robotics-pathways-2026|Un estudio cualitativo]] con estudiantado de secundaria en un currículo de robótica + IA encontró aprendizaje a través de la práctica del mundo real, el diseño y la expresión creativa lúdica (con una lente construccionista y epistemológicamente pluralista).
 
@@ -122,8 +126,8 @@ Un tema definitorio es que los robots son eficaces cuando apoyan objetivos de ap
 - [[educational-robotics-pathways-2026]] — Itinerarios hacia el aprendizaje de la robótica educativa con IA (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Pensamiento computacional mediado por robots en el jardín de infancia
 - [[ai-toys-child-development-2026]] — Juguetes habilitados con IA y desarrollo infantil
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): currículo de alfabetización en IA centrado en el juego para preescolar y jardín de infancia (Lee 2026)
 - [[creative-project-approach-ai-early-childhood-2025]] — El Enfoque de Proyecto Creativo: integrar robots de codificación y robots sociales generativos en los proyectos de la primera infancia (Yang, Li y Lee 2025)
 - [[teaching-with-robots-five-types-perspective-2026]] — Cinco tipos funcionalmente distintos de robot de aula, de la demostración guionizada al diálogo empático uno a uno (Christ et al. 2026)
 - [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: un marco basado en nodos que trata la capacidad de mentoría técnica y la geografía de los nodos, y no el hardware, como la restricción de los programas rurales de robótica en K-12 (Jacobson et al. 2026)
 - [[teaching-rl-humanoid-robotics-high-school-2026]] — Enseñar aprendizaje por refuerzo y robótica humanoide a estudiantado de secundaria: un diseño curricular validado por expertos sobre una plataforma abierta de bajo coste
+- [[aifred-desk-robotic-ai-guidance-2026]] — Un proyector robótico montado sobre el escritorio: la guía colocalizada preservó la transferencia donde ChatGPT en un portátil la perdió

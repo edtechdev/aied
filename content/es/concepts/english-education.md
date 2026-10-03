@@ -1,7 +1,7 @@
 ---
 title: Enseñanza del inglés (EAP / EFL / ESL)
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-09-28T21:21:51-04:00"
+updated: "2026-10-02T21:20:37-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-09-28T21:21:51-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ Este concepto organiza la [[research-methods-aied|investigación]] sobre IA en l
 - **Inglés académico (EAP):** apoyo de la IA al inglés basado en géneros y específico de disciplina que se usa en la escritura, la lectura y la retroalimentación de la educación superior, distinto de la enseñanza general de la escritura.
 - **Enseñanza del inglés (EFL/ESL/L2):** [[intelligent-tutoring|tutores de IA]], interlocutores y herramientas de [[feedback|retroalimentación]] para quienes aprenden inglés.
 - **[[assessment|Evaluación]] específica del inglés:** evaluación y retroalimentación automatizadas de la escritura y la expresión oral en inglés, incluida la revisión de escritura en EAP y la evaluación de la escritura en L2.
-- **Legibilidad de lectura y literatura:** [[bird-multimodal-educational-literature-2026|Bird (2026)]] fusiona la clasificación de texto con transformadores y características de lingüística computacional para clasificar literatura inglesa por curso clave del Reino Unido, alcanzando un F1 de 0,996, un complemento escalable y basado en datos para el apoyo a la lectura en EAP basado en géneros y la alineación de niveles de lectura.
+- **Legibilidad de lectura y literatura:** [[bird-multimodal-educational-literature-2026|Bird (2026)]] fusiona la clasificación de texto con transformadores y características de lingüística computacional para clasificar literatura inglesa por curso clave del Reino Unido, alcanzando un F1 de 0.996, un complemento escalable y basado en datos para el apoyo a la lectura en EAP basado en géneros y la alineación de niveles de lectura.
 - **Equidad lingüística:** la tensión entre el dominio del inglés en la IA y las necesidades de quienes escriben en contextos multilingües y en inglés como lengua mundial.
 
 ## En qué se diferencia la enseñanza del inglés del aprendizaje de idiomas
@@ -55,7 +55,7 @@ El [[language-learning|aprendizaje de idiomas]] es el paraguas más amplio para 
 | Lengua meta | Cualquier L2 (francés, español, japonés…) | El inglés en concreto |
 | Enfoque | Adquisición de L2 en general: diálogo oral, pronunciación, alfabetización | El inglés como lengua meta + el registro del inglés académico |
 | Contextos característicos | Conversación, pronunciación, fluidez general | **EAP**: escritura académica, lectura, retroalimentación, género |
-| IA representativa | Interlocutores en L2, retroalimentación de pronunciación, L2 asistida por robots | Herramientas de escritura en EAP, retroalimentación entre pares en EFL, evaluación de la escritura académica en inglés |
+| IA representativa | Interlocutores en L2, [[speech-and-voice-technologies|retroalimentación de pronunciación]], L2 asistida por robots | Herramientas de escritura en EAP, retroalimentación entre pares en EFL, evaluación de la escritura académica en inglés |
 
 Ambas se solapan mucho (la mayor parte del aprendizaje del inglés es también adquisición de L2), pero la enseñanza del inglés pone en primer plano el inglés como lengua meta y el registro académico; por ejemplo, [[alharbi-ethical-genai-eap-2026|la integración ética de la IA generativa en el EAP]], [[feedback-literacy-scripts-eap-writing|la revisión de escritura en EAP con IA generativa]] y [[genai-differentiated-eap-reading-materials-2026|la adaptación de materiales de lectura para EAP]] son específicos del EAP de un modo en que la investigación genérica sobre aprendizaje de idiomas no lo es.
 
@@ -75,7 +75,7 @@ Muchos artículos sobre enseñanza de la escritura tienen el inglés en primer l
 ## Artículos de este grupo
 
 - **Específicos de EAP:** [[alharbi-ethical-genai-eap-2026|Integración ética de la IA generativa en el EAP]], [[feedback-literacy-scripts-eap-writing|revisión de escritura en EAP con IA generativa]], [[genai-differentiated-eap-reading-materials-2026|adaptación de materiales de lectura para EAP]].
-- **EFL/ESL/L2:** [[tact-pedagogically-adaptive-esl-tutoring|tutoría ESL TACT]], [[sutama-chatgpt-eportfolio-speaking-2026|expresión oral con portafolio electrónico y ChatGPT en EFL]], [[irwin-muller-efl-peer-feedback-literacy|alfabetización en retroalimentación entre pares en EFL]], [[ai-vs-human-assessment-efl-tpck-2026|evaluación en EFL con IA frente a humana]], [[acceptance-ai-english-tools-2026|aceptación de las herramientas de inglés con IA]], [[ai-tools-arab-english-classrooms|la IA en aulas de inglés árabes]].
+- **EFL/ESL/L2:** [[tact-pedagogically-adaptive-esl-tutoring|tutoría ESL TACT]], [[sutama-chatgpt-eportfolio-speaking-2026|expresión oral con portafolio electrónico y ChatGPT en EFL]], [[irwin-muller-efl-peer-feedback-literacy|alfabetización en retroalimentación entre pares en EFL]], [[ai-vs-human-assessment-efl-tpck-2026|evaluación en EFL con IA frente a humana]], [[acceptance-ai-english-tools-2026|aceptación de las herramientas de inglés con IA]], [[ai-tools-arab-english-classrooms|la IA en aulas de inglés árabes]], [[zhao-ji-appraisal-human-ai-revisions-2026|análisis de valoración de las revisiones entre pares y con IA de ensayos argumentativos en EFL]].
 - **Escritura y evaluación del inglés como L2:** [[self-referential-l2-writing-llm-assessment|evaluación autorreferencial de la escritura en L2]], [[ai-interlocutor-l2-spoken-dialogue|interlocutores para el diálogo oral en L2]].
 - **Equidad lingüística / World Englishes:** [[genai-linguistic-diversity-academic-writing|IA generativa y diversidad lingüística en la escritura académica]], [[governing-unseen-ai-literacy-language-teachers-2026|alfabetización en IA entre el profesorado de idiomas]], [[structural-silence-underrepresented-language-ai-2026|lenguas infrarrepresentadas en la infraestructura de IA]].
 
@@ -91,6 +91,8 @@ El dominio del inglés en la IA es un rasgo definitorio de esta línea. Como los
 - **Integre la IA de forma ética en el EAP.** [[alharbi-ethical-genai-eap-2026|La IA generativa ética en el EAP]] reclama un uso transparente y responsable en la enseñanza del inglés en la [[higher-ed|educación superior]] que preserve la integridad académica.
 - **Espere una adopción cauta y centrada primero en la preparación.** Una [[li-language-educators-genai-review-2026|revisión sistemática de 23 estudios]] (Li et al. 2026) encuentra que el profesorado de idiomas valora la [[generative-ai|IA generativa]] sobre todo para la preparación entre bastidores —planificación de clases, creación de materiales y apoyo a la escritura y retroalimentación— mientras duda del uso directo en el aula, con las principales preocupaciones centradas en la [[academic-integrity|integridad académica]] (el plagio y la [[assessment-validity|validez de la evaluación]]). La adopción está moldeada por factores de identidad profesional, [[pedagogy|pedagógicos]], técnicos, [[governance|institucionales]] y de integridad, y las carencias de competencia se mapean a la episteme (comprender las capacidades y límites de la IA), la techne ([[prompt-engineering|ingeniería de prompts]], diseño de tareas y evaluaciones mejoradas con IA, detección de texto generado por IA) y la phronesis (juicio [[ethics|ético]], manejo de sesgos y privacidad), así que el profesorado de EAP/EFL debería construir estas competencias de forma deliberada y planificar una implementación «primero entre bastidores, luego en el aula».
 - **Diferencie por nivel y necesidad.** [[ai-vs-human-assessment-efl-tpck-2026|La evaluación en EFL]] y la investigación sobre tutoría adaptativa apoyan ajustar el apoyo y la evaluación con IA al nivel de cada persona en lugar de aplicar una talla única.
+
+- **Inclinar la tecnología hacia la producción.** Un metaanálisis de 33 estudios sobre TEFL encontró un efecto global de pequeño a moderado (g = 0.38, reducido a 0.28 con trim-and-fill) que aumentaba con el nivel educativo y favorecía las destrezas productivas —expresión oral y escrita— frente a las receptivas ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim y Sulaiman (2026)]]).
 
 ## Conceptos conectados
 
@@ -129,3 +131,4 @@ El dominio del inglés en la IA es un rasgo definitorio de esta línea. Como los
 - [[wang-goal-setting-ai-engagement-2026]] — Teoría del establecimiento de metas: apoyo docente, metas de logro e implicación en el aprendizaje del inglés asistido por IA (758 estudiantes chinos)
 - [[bird-multimodal-educational-literature-2026]] — Fusión multimodal para clasificar literatura educativa
 - [[li-language-educators-genai-review-2026]] — Prácticas y desarrollo del profesorado de idiomas con la IA generativa
+- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Las revisiones entre pares y con IA de ensayos argumentativos en EFL difieren en su posicionamiento dialógico (Zhao y Ji 2026)
