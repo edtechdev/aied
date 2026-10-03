@@ -2557,3 +2557,48 @@
   - educational-measurement
   - video-education
   reason: "Integrated into four pages. learning-analytics: grep 'cheat|integrity|proctor' -> 0 hits each in a page that otherwise discusses prediction 29 times, so an integrity outcome in the predictive layer (AUC 0.763 from the first eight weeks of LMS and video-player traces) was genuinely absent; placed in 'From description to intervention'. academic-integrity: grep 'logistic' -> 0 and its prediction hits (3) are a different ChatGPT-perceptions study, so the paper carries a third route between detection and redesign, framed as guidance rather than misconduct evidence; placed in 'From policing to pedagogy'. remote-proctoring: grep 'predict|lms|trace|focus' -> 0 hits each, so the finding that a proctored, face-to-face exam still yielded 44.2% high-risk labels is new evidence for that page's own limits argument; appended to 'Evidence base'. student-support-and-success: it already carries early warning for performance and retention (grep 'early warning' -> 5, 'risk' -> 17) but grep 'integrity' -> 0, so the integrity outcome plus the threshold-for-reach trade-off extends 'From prediction to support'. DISMISSALS with evidence: ai-detection (grep 'cheat' -> 1, 'proctor' -> 0) already carries detector reliability limits, the false-accusation tradeoff (23 'integrity' hits) and a 'Beyond detection: assessment redesign' section that directs readers away from detection, which is the same move the paper makes. self-regulated-learning (grep 'integrity' -> 1 unrelated, 'cheat' -> 0) is not claimed by the paper, which states it did not measure self-regulated learning and offers only trace proxies. student-modeling (grep 'integrity' -> 0, 'cheat' -> 0) is not touched: the paper classifies a behavioral risk label from engagement traces and builds no model of a learner's knowledge or affect state. cs-education (grep 'cheat' -> 0, 'integrity' -> 1 in a different study) carries the course only as a sampling frame. privacy (grep 'misconduct' -> 0) already carries the surveillance and consent constraints on predictive uses (5 'surveillance' hits); the paper's use-policy point is placed on academic-integrity and student-support-and-success instead. educational-measurement (grep 'leave-one-out|loocv|cross-validation' -> 0) is dismissal by scope, not by coverage: the paper's methodological contribution is a validation protocol for a small-sample classifier, not a property of a measurement instrument. video-education (grep 'risk|integrity|cheat' -> 0) uses video logs as a predictor rather than reporting a finding about video learning design. Source is an open-access preprint with full text saved (37,270 chars, 6 pages)."
+
+- article: contractor-learning-impact-generative-ai-2026
+  date: 2026-10-03
+  integrated:
+  - learning-gains
+  no_change:
+  - academic-integrity
+  - ai-detection
+  - assessment
+  - cognitive-offloading
+  - conversational-ai
+  - generative-ai
+  - guardrails
+  - higher-ed
+  - human-ai-collaboration
+  - llm
+  - rct
+  - scaffolding
+  - self-report-measures
+  - student-ai-interaction
+  - teacher-role
+  - writing-education
+  reason: "Integrated into one page. learning-gains: grep 'off-the-shelf|off the shelf|persist' -> persist=1 (about pretesting, not access) and 'one week'=0, so a durable unaided gain from an UNGUARDED off-the-shelf tool was absent, and it is the direct counterpoint to that page's own 'Unguarded AI can harm learning' bullet (the guardrail RCT); placed immediately after it. DISMISSALS with evidence: cognitive-offloading (grep 'augmentation' -> 2, 'automation' -> 0) already carries the mode-of-use boundary ('dependence marks where use shifts from augmentation toward substitution') with measured evidence from Stamatoulis (low-verification vs evaluative integration predicting performance), so the augmentation/automation RCT is another instance of an established pattern rather than a new claim. generative-ai (grep 'off-the-shelf' -> 2, 'chatgpt' -> 9) already covers the off-the-shelf chatbot. ai-detection (grep 'pangram' -> 1, 'ai-generated' -> 11) already carries detection-trace behaviour, and this paper's rise-then-collapse (12.3 pp to 0.0 pp) is an observation about the instrument tracking access, not a claim about detector reliability. llm ('gpt-4o' -> 1), conversational-ai, human-ai-collaboration ('augmentation' -> 2) and scaffolding ('automation' -> 1) already carry the construct. academic-integrity ('plagiarism' -> 10) carries the plagiarism evidence base and the paper found no plagiarism effect. guardrails ('guardrail' -> 38), self-report-measures ('self-report' -> 48), writing-education ('essay' -> 7), assessment ('assessment design' -> 2), higher-ed ('persist' -> 1), rct and student-ai-interaction carry their classes; student-ai-interaction is about inquiry types and prompt taxonomy, and no distinguishing claim about inquiry types is made here. teacher-role appears only as an audience label in the practice section (grep 'teacher-designed' -> 0). Source is an open-access arXiv preprint with full text saved (196,179 chars, v1); fielded Spring 2025 with ChatGPT GPT-4o, whose vintage is stated in the page's Limitations."
+- article: liu-ai-assistance-reduces-persistence-2026
+  date: 2026-10-03
+  integrated:
+  - cognitive-offloading
+  - motivation
+  no_change:
+  - ai-misuse-learning-harm
+  - cognitive-surrender
+  - conversational-ai
+  - critical-thinking
+  - educational-policy-ai
+  - generative-ai
+  - human-ai-collaboration
+  - learning-gains
+  - llm
+  - metacognition
+  - problem-solving
+  - productive-failure
+  - quantitative-research
+  - rct
+  - scaffolding
+  reason: "Integrated into two pages. cognitive-offloading: grep 'persistence|skip|give up' -> persistence=0, give up=0, skip=1, so the harm section carried motivation erosion (perceived value) and unaided-exam harm (the placement rule) but nothing on reduced persistence as a measurable outcome; the 20% vs 11% skip-rate result adds that outcome class and is placed beside 'Motivation erosion' in the over-reliance risks list. motivation: the page asserts qualitatively that AI availability 'affects student motivation and persistence' (grep 'persist' -> 5) with no measured estimate of persistence itself, so the causal ~10-minute result quantifies the claim it already makes; placed in 'AI effects on student motivation'. DISMISSALS with evidence: metacognition (grep 'calibration' -> 9) already carries both halves of the paper's mechanism 2, the withdrawal signature ('offloading degrades the specific skill practiced ... surfaces on withdrawal', endoscopy 28.4% to 22.4%) and the calibration-loss argument (metacognitive laziness, the fluency illusion, calibration as trainable). productive-failure (grep 'struggle' -> 18, 'persistence' -> 0) is about designing struggle into tasks and already carries AI-as-PF-design and giving-up floors; the paper contributes no PF design finding. ai-misuse-learning-harm (grep 'unassisted' -> 7) already carries unassisted-performance harm and states the accumulation framing. learning-gains (grep 'persist' -> 1) carries durable-gain evidence plus the guardrail removal test. cognitive-surrender ('surrender' -> 33) has its own experimental signature, adopting the AI's answer without judging it, which this paper does not test: participants declined to attempt rather than accepted a wrong answer. critical-thinking (grep 'reading comprehension' -> 0) is touched only as task domain. problem-solving, scaffolding ('scaffold' -> 98), conversational-ai, llm ('gpt-5' -> 1), generative-ai, human-ai-collaboration ('scaffold' -> 6), educational-policy-ai, quantitative-research and rct carry their classes with no distinguishing claim. Source is an open-access arXiv preprint (v4, COLM 2026) with full text saved (87,545 chars) and the reading-comprehension replication verified in the raw."

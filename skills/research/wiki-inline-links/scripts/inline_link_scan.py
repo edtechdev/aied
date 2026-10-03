@@ -431,6 +431,11 @@ REJECT_PAIRS = {
     ('biological', 'biology-education'),                 # "biological primary communication"
     ('gender composition', 'writing-education'),         # sample demographics
     ('music composition', 'writing-education'),
+    # --- 2026-10-03, AI-persistence/learning-impact ingest: three false positives
+    # hand-reverted in the inline-link pass (one entry per revert) ---
+    ('its composition', 'writing-education'),   # "its composition shifted" - makeup, not writing
+    ('benchmark their', 'benchmark'),           # verb sense: "the authors benchmark their effect"
+    ('stress that', 'anxiety-and-stress'),      # verb sense: "they stress that this loop is..."
     ('self-regulation', 'regulation'),                   # learner SRL, not AI regulation
     ('self-regulatory', 'regulation'),                   # "self-regulatory function"
     ('social regulation', 'regulation'),                 # co-regulation

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-03T12:32:09-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -99,6 +99,7 @@ most consequential risks of AI in education:
 - **Learning displacement:** [[ai-making-us-stupid|Research on AI's cognitive effects]] documents how AI availability reduces effortful processing — the "Google effect extended to reasoning." [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] isolate this as a distinct *pattern* of use: **low-verification uptake** (uncritically accepting AI output) predicted worse [[learning-gains|academic performance]], whereas **evaluative integration** (using AI to support understanding) predicted better performance — and usage **frequency** alone predicted neither. Over-reliance is therefore a *mode of use* that can be separated from how much students use AI.
 - **The agency problem:** [[aied-unfinished-mission-bypass|AIED's unfinished mission]] frames over-reliance as an agency and motivation crisis — students bypass learning not because AI is compelling, but because learning tasks feel pointless when AI can complete them effortlessly.
 - **Motivation erosion:** [[ai-availability-student-motivation|Student motivation research]] finds that knowing AI is available reduces the perceived value of learning the skill yourself, a motivational calculus that particularly affects novice learners.
+- **Persistence erodes too, and fast.** After roughly ten minutes with an assistant that answered on request, participants skipped 0.20 of unaided problems against 0.11 for controls and solved 0.57 against 0.73, replicating in reading comprehension ([[liu-ai-assistance-reduces-persistence-2026|Liu et al., 2026]]).
 - **Literacy debt:** [[agentic-literacy-debt|Agentic literacy debt]] describes the cumulative skill deficit that develops when students habitually rely on AI rather than developing their own competencies, analogous to technical debt in software.
 - **Fatigue cycles:** [[ai-fatigue-academic-contexts|AI fatigue]] research identifies a paradox where over-reliance leads to cognitive fatigue from constant AI interaction management, which in turn drives MORE reliance — a vicious cycle.
 - **The placement rule:** [[brcic-effortless-trap-productive-struggle-2026|The Effortless Trap]] reframes allow-vs-ban as a placement question — an unguarded AI helper left high-school students ~17% worse on an unaided exam, while the same model rebuilt to withhold answers erased the harm. Its diagnostic — *"if letting AI in makes the task feel effortless, it is in the wrong place"* — secures the first hard attempt and the final unaided check as the moments where over-reliance most readily hides as an "illusion of learning."
@@ -157,6 +158,7 @@ Two controlled studies in the recent batch pin down the two halves of this claim
 - [[cognitive-surrender]]
 
 ## Connected Articles
+[[liu-ai-assistance-reduces-persistence-2026]] — AI assistance reduced persistence and unassisted performance across three RCTs (Liu et al. 2026)
 - [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT as a cognitive crutch: a randomized controlled trial on knowledge retention 45 days later (Barcaui 2025)
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — From cognitive outsourcing to reallocation: 3P analysis of student–GenAI engagement in unsupervised assessments (Yan et al. 2026)
 - [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
