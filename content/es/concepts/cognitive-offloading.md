@@ -1,7 +1,7 @@
 ---
 title: Descarga cognitiva
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-09-28T22:07:38-04:00"
+updated: "2026-10-02T21:16:54-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-09-28T03:40:56-04:00"
+source_updated: "2026-09-30T16:25:27-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Los artículos de la base de conocimiento documentan la descarga cognitiva en va
 - **La ilusión de aceleración:** [[cognitive-offloading-speedup-illusion|la investigación sobre la ilusión de aceleración]] demuestra que el trabajo asistido por IA *se siente* más rápido y más fácil, creando una impresión engañosa de productividad que enmascara un menor aprendizaje. El estudiantado confunde la velocidad de finalización de la tarea con el aprendizaje, un punto ciego metacognitivo.
 
 - **Pérdidas de aprendizaje por IA sin guía:** los [[generative-ai-guardrails-harm-learning|ensayos controlados aleatorizados de matemáticas en secundaria]] muestran que la IA generativa sin [[guardrails|barreras de seguridad]] produce peores resultados de aprendizaje que la instrucción tradicional. El [[generative-ai-reduced-study-time-math|tiempo de estudio reducido]] se correlaciona con un menor aprendizaje: el estudiantado completa las tareas más rápido pero retiene menos.
-- **Una prueba aleatorizada de la predicción de la descarga con un retraso de 45 días, y el déficit no se explica solo por el tiempo ahorrado:** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] asignó al azar a 120 estudiantes de grado a estudiar temas de IA y aprendizaje automático, bien con ChatGPT sin restricciones (interfaz web de GPT-4, sin orientación sobre los prompts) o bien con métodos tradicionales sin IA, y después aplicó una prueba conceptual sorpresa de 20 preguntas 45 días más tarde. El grupo asistido por IA obtuvo un 57,5% frente a un 68,5% (t(83) = −3,19, p = 0,002, d de Cohen = 0,68), y la desventaja se mantuvo en un ANCOVA que mantenía constante el tiempo de estudio autodeclarado (F(1, 82) = 7,89, p = 0,006; medias ajustadas 6,50 frente a 5,85), así que no era solo un artefacto de la cantidad de tiempo. El argumento sobre la descarga que ofrece el artículo es que ChatGPT aporta directamente la síntesis y la explicación, lo que lo convierte en una forma de delegación cualitativamente distinta de la de una calculadora: una que puede absorber la comprensión y no solo la recuperación.
+- **Una prueba aleatorizada de la predicción de la descarga con un retraso de 45 días, y el déficit no se explica solo por el tiempo ahorrado:** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] asignó al azar a 120 estudiantes de grado a estudiar temas de IA y aprendizaje automático, bien con ChatGPT sin restricciones (interfaz web de GPT-4, sin orientación sobre los prompts) o bien con métodos tradicionales sin IA, y después aplicó una prueba conceptual sorpresa de 20 preguntas 45 días más tarde. El grupo asistido por IA obtuvo un 57.5% frente a un 68.5% (t(83) = −3.19, p = .002, d de Cohen = 0.68), y la desventaja se mantuvo en un ANCOVA que mantenía constante el tiempo de estudio autodeclarado (F(1, 82) = 7.89, p = .006; medias ajustadas 6.50 frente a 5.85), así que no era solo un artefacto de la cantidad de tiempo. El argumento sobre la descarga que ofrece el artículo es que ChatGPT aporta directamente la síntesis y la explicación, lo que lo convierte en una forma de delegación cualitativamente distinta de la de una calculadora: una que puede absorber la comprensión y no solo la recuperación.
 
 - **La descarga no siempre es dañina: la condición límite del «entrenador»:** [[coach-not-crutch-ai-writing|Lira et al. (2025)]] muestran que la IA puede reducir el esfuerzo de práctica *y* mejorar el entorno de aprendizaje, logrando «trabajar menos, aprender más». Las personas adultas que practicaron la escritura con una herramienta de IA escribieron mejores cartas sin IA que quienes practicaron solas, incluso por encima de la retroalimentación personalizada de editores humanos, y sin inflación de la ilusión de dominio. La reconciliación con los daños anteriores está en la **forma de la descarga**: la IA de Lira et al. *andamiaba* (mostraba ejemplos y retroalimentación manteniendo a quien aprende dentro del bucle) en lugar de *reemplazar* el acto cognitivo. [[ai-making-us-stupid|La perspectiva de las habilidades frente a las capacidades básicas]] converge en la misma frontera: **la IA que actúa como entrenadora conserva o mejora la habilidad; la IA que sustituye corre el riesgo de la decadencia.** Así que el efecto de la descarga sobre el aprendizaje es condicional y no intrínseco.
 
@@ -151,6 +151,7 @@ Dos estudios controlados del lote reciente fijan las dos mitades de esta afirmac
 
 ## Conceptos conectados
 
+- [[pedagogical-patterns]] — El riesgo que toda secuencia de esfuerzo primero está diseñada para evitar
 - [[learners]] — Estudiantes: el paraguas de los conceptos del lado del estudiantado
 - [[ai-literacy]] — Saber cuándo descargar y reconocer los patrones de dependencia
 - [[agency]] — Disminuida cuando la IA sustituye la cognición de quien aprende
@@ -201,10 +202,7 @@ Dos estudios controlados del lote reciente fijan las dos mitades de esta afirmac
 - [[student-cognitive-offloading-ai-higher-ed-2026]] — Patterns of student cognitive offloading to AI in higher education: naturalistic ChatGPT message-level evidence (Piatnitckaia et al. 2026)
 - [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants
 - [[chatgpt-programming-performance-retention-ownership-2026]] — Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Offloading tendency and verification literacy predicting higher-order outcomes through metacognitive self-regulation (Davor et al. 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt reduces acceptance of incorrect AI advice and improves awareness calibration (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI dependence as a boundary condition on critical-thinking disposition and self-perceived employability (Shojaei et al. 2026)
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI and children's creative thinking: over-reliance and prompt dependence in a scoping review (Niu et al. 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement

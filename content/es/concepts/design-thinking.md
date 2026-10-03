@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: "Pensamiento de diseño"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-09-28T20:20:21-04:00"
+updated: "2026-10-02T21:33:38-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 translation_of: concepts/design-thinking
-source_updated: "2026-09-16T14:32:03-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -81,7 +81,6 @@ El pensamiento de diseño en la educación con IA está profundamente entrelazad
 
 ## Artículos conectados
 
-- [[rana-genai-design-thinking-2025]]
 - [[genai-architecture-education]] — Gen-AI-tecture: uso de la IA generativa para apoyar al estudiantado de arquitectura en tareas de diseño
 - [[genai-architectural-design-studios]] — Desarrollo y aplicaciones de la IA generativa en los talleres de diseño arquitectónico
 - [[social-robot-study-companions]] — Cocrear con estudiantes universitarios robots sociales de estudio construibles y abiertos

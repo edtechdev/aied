@@ -1,13 +1,13 @@
 ---
 title: Cognición distribuida
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-09-28T20:10:35-04:00"
+updated: "2026-10-02T21:25:27-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-09-17T02:26:00-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,7 @@ Los sistemas de IA generativa e interactiva redistribuyen el trabajo cognitivo d
 - **La mediación en la colaboración.** La IA puede actuar como *mediador [[pedagogy|pedagógico]]* que orquesta la interacción, la construcción de sentido epistémica y los procesos regulatorios en el [[collaborative-learning|aprendizaje colaborativo]], redistribuyendo la agencia, la autoridad y la responsabilidad entre actores humanos y no humanos.([[niari-ai-pedagogical-mediator-collaborative-learning]])
 - **La configuración del acceso distribuye la cognición dentro del grupo.** [[xu-genai-collaborative-space-2026|Xu et al. (2026)]] muestran que *cómo* comparte un equipo la IA generativa determina la distribución de la cognición: el trabajo sincrónico en una única interfaz compartida sostiene un modelo cognitivo común (prompts colectivos, memoria externa compartida), mientras que el uso privado asincrónico lo fragmenta, con salidas que se reetiquetan selectivamente antes de compartirse. La IA generativa funciona así a la vez como participante cognitivo distribuido y como espacio colaborativo interactivo cuya permeabilidad debe diseñarse (el contexto compartido entra, las intuiciones privadas no vuelven automáticamente).
 - **El profesorado también experimenta una distribución dominada por la IA frente a una complementaria.** La misma lógica de eficiencia y regulación se aplica al lado docente del diseño de clases: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] encontraron que el profesorado novel delega en el sistema de IA una gran parte de la carga cognitiva del diseño instruccional (una distribución dominada por la IA, que acepta en gran medida las respuestas), mientras que el profesorado con experiencia y competencia en IA alcanza una distribución complementaria en la que la pericia pedagógica y el apoyo computacional de la IA se refuerzan mutuamente; y como la [[generative-ai|IA generativa]] genera y coconstruye en lugar de limitarse a almacenar información, enmarcan esto como *cognición compartida participativa* y no como un simple uso de herramientas.
+- **Los tipos de interacción, y no los resultados, como unidad.** [[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane y Arikan (2026)]] construyeron el **Marco de Distribución Cognitiva** a partir de 53 registros de uso autodirigido de ChatGPT: cinco tipos de interacción (extensión, externalización, alineación, transformación y desacoplamiento) y cuatro roles de usuario, de modo que un mismo estudiante puede externalizar en un intercambio y pensar conjuntamente en el siguiente.
 
 ### La cognición distribuida y perspectivas afines
 
@@ -56,6 +57,7 @@ La base de conocimiento sitúa la cognición distribuida junto a tradiciones te�
 ### Por qué importa para el diseño y la evaluación de la IA
 
 La cognición distribuida aporta a la vez una lente de diseño y una lente de evaluación. Para el diseño, pregunta cómo repartir el trabajo cognitivo entre quienes aprenden y la IA para preservar (y no erosionar) la agencia, la [[metacognition|metacognición]] y la autorregulación de la persona que aprende. Para la evaluación, reformula las métricas de éxito: en lugar de preguntar solo «¿mejoró el rendimiento?», la DCog pregunta si la distribución de la cognición sostiene un aprendizaje duradero, la agencia epistémica y la justicia educativa, una perspectiva que conecta con las preocupaciones de [[ai-ed-evaluation|evaluación de la IA en educación]] y de [[learning-theories|teorías del aprendizaje]] de la base de conocimiento.
+Fowlin et al. (2026) operacionalizan ese reparto como una secuencia de dos fases: construir primero las competencias centrales sin IA y después introducir la IA como un socio cognitivo cuyas sugerencias el estudiantado evalúa críticamente, para prevenir la pérdida de habilidades asociada a la automatización ([[fowlin-operationalizing-learning-principles-ai|Fowlin et al. (2026)]]).
 
 **Dominio interiorizado frente a dominio distribuido.** El marco de los bienes cognitivos comunes ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) distingue el dominio interiorizado (conocimiento profundo del dominio en mentes individuales) del dominio distribuido (orquestar sistemas humano–IA) y sostiene que este último depende del primero mediante una «atadura de validación»: la supervisión eficaz de sistemas distribuidos o de IA presupone la pericia interiorizada que esos sistemas pueden socavar. Esto agudiza la pregunta de diseño de la DCog: la distribución de la cognición no debe hacerse a costa de la pericia que la valida.
 
@@ -81,9 +83,7 @@ La cognición distribuida aporta a la vez una lente de diseño y una lente de ev
 - [[ensemble-cognition-philosophy-ai-education]] — El marco de la cognición en conjunto, que reconceptualiza el pensamiento como interacción humano–IA
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — El estudiante posthumano, con la cognición distribuida entre sistemas biológicos y artificiales
 - [[fowlin-operationalizing-learning-principles-ai]] — Operacionalizar la cognición distribuida junto al aprendizaje experiencial y situado
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — La co-agencia epistémica como teoría del aprendizaje con máquinas inspirada en la cognición distribuida
 - [[cognitive-commons-ai-expertise-regeneration]] — La tragedia de los bienes cognitivos: la IA y la regeneración de la pericia
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Capacidades adaptativas para asegurar un aprendizaje de calidad en un futuro integrado con IA generativa (Lodge et al. 2026)
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — La interacción docente-IA en el diseño de clases: cognición distribuida dominada por la IA frente a complementaria según experiencia y competencia (Choi et al. 2026)
-- [[generative-ai-mediational-agent-sociocultural-2026]] — La IA generativa como agente mediacional
 - [[xu-genai-collaborative-space-2026]] — La IA generativa como agente y espacio colaborativo: cómo la configuración del acceso distribuye la cognición del grupo (Xu et al. 2026)
+- [[cognitive-distribution-student-genai-interaction-2026]] — Marco de Distribución Cognitiva: cinco tipos de interacción y cuatro roles a partir del uso autodirigido de ChatGPT

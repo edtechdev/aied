@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: Aprendizaje multilingüe
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-09-28T19:10:33-04:00"
+updated: "2026-10-02T21:36:16-04:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-09-19T06:35:00-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,8 @@ La IA multilingüe debe ir más allá de la traducción para reflejar una [[cult
 ## Sesgo en la evaluación
 
 Las preocupaciones multilingües también afectan a la [[automated-assessment|evaluación automatizada]]: [[ai-scoring-language-bias-physics|la calificación con IA puede mostrar sesgo lingüístico]] (por ejemplo, en [[physics-education|física]]), penalizando a quienes no son hablantes nativos. Garantizar que las herramientas de evaluación sean justas entre lenguas forma parte de la [[assessment-validity|validez de la evaluación]].
+
+El juicio comparativo basado en LLM es un caso en el que el sesgo siguió la línea base humana y no al modelo: las puntuaciones de escritura informativa de los cursos 3.º a 6.º convergieron con las rúbricas de los investigadores (r = .59–.73) y mostraron patrones de sesgo predictivo para quienes aprenden en varias lenguas similares a los de la calificación humana, sin evidencia de que una mayor capacidad o coste del modelo mejorara la validez ([[llm-comparative-judgment-writing-screening-2026|Mercer y Reed (2026)]]).
 
 ## Implicaciones para el profesorado en contextos multilingües
 

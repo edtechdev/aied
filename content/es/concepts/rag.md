@@ -1,7 +1,7 @@
 ---
 title: RAG (Generación Aumentada por Recuperación)
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-02T21:25:27-04:00"
 connected_faqs: [making-ai-better-at-supporting-learning]
 type: concept
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -9,7 +9,7 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: concepts/rag
-source_updated: "2026-09-23T09:34:44-04:00"
+source_updated: "2026-10-02T08:08:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,7 @@ ai_assist:
 
 - **Recuperación específica de dominio con conciencia de notación:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] indexa libros de texto, 847 diapositivas de clase, 312 problemas de práctica resueltos, 156 plantillas de demostración desarrolladas y 89 hojas de trabajo de complejidad para cursos teóricos de [[cs-education|ciencias de la computación]], añadiendo reconocimiento de entidades matemáticas y un reranking consciente de la notación; respondió las 179 preguntas de examen redactadas por el profesorado dentro de un tiempo límite de 240 segundos (media 38,0 segundos), pero produjo BLEU-4 = 0,0000 y una puntuación de rúbrica de 0,7620, lo que ilustra tanto el valor de la arquitectura como los límites de las métricas usadas para juzgarla.
 - **Reducción de alucinaciones:** [[eduguard-safe-rag-llm-tutor|EduGuard]] y [[eduzone-llm-safety-k12|EduZone]] usan RAG para mantener las respuestas del tutor de IA fundamentadas en contenido educativo verificado, reduciendo el [[hallucination-risk|riesgo de alucinación]].
+- **La fundamentación solo es tan buena como la inspección de la fuente:** solo 1 de 12 participantes advirtió una tarjeta de fuente deliberadamente mal emparejada, así que una etiqueta de procedencia puede actuar como un sello de autoridad en lugar de como una invitación a verificar el material recuperado ([[veriforge-narrative-drafting-scaffolding-2026|Sun et al. (2026)]]).
 - **Tutoría fundamentada en el currículo:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] recupera materiales curriculares relevantes para informar las respuestas de tutoría, asegurando la alineación con el contenido del curso.
 - **Indexación de libros de texto y materiales:** [[book-level-synthetic-textbook-organization|La organización sintética de libros de texto]] indexa contenido educativo para su recuperación. [[structrag-diagram-reasoning-ai-tutoring|StructRAG]] extiende la recuperación a diagramas estructurados.
 - **Integración en el pipeline de entrenamiento:** [[llm-training-and-fine-tuning|El entrenamiento pedagógico de LLM]] usa RAG para fundamentar el entrenamiento de tutores en las mejores prácticas educativas.
@@ -70,8 +71,6 @@ RAG cumple un papel complementario al ajuste fino de [[llm|LLM]]: la recuperaci�
 - [[book-level-synthetic-textbook-organization]]
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
-- [[conversational-agents-novice-programmers-scoping-2025]] — Revisión de alcance de los agentes conversacionales para programadores novatos
 - [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Generación Aumentada por Recuperación para la educación en ciencias de la computación teóricas -- Un marco integral de evaluación para el análisis de algoritmos y la teoría de la complejidad
-- [[personalized-educational-video-generation-2026]] — Soluciones de aprendizaje dinámico: un sistema para la generación personalizada de vídeo educativo
 - [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducir las barreras al apoyo académico: evaluación de un sistema RAG específico de curso para abordar las disparidades en la búsqueda de ayuda en la educación superior
 - [[wiki-llm-indexing-ml-classes-2026]] — Potencial para mejorar el aprendizaje en cursos de aprendizaje automático mediante la indexación con wiki y LLM

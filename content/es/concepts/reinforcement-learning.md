@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje por refuerzo
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-02T21:20:37-04:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 pedagogy: [active-learning, scaffolding]
@@ -10,7 +10,7 @@ ethics: [pedagogical-safety]
 level: [special education, k 12, higher ed]
 confidence: medium
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-09-03T15:00:00-04:00"
+source_updated: "2026-10-02T08:08:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,12 +41,16 @@ El aprendizaje por refuerzo (RL) entrena a un agente recompensando el comportami
 ### Aplicaciones documentadas en la base de conocimiento
 
 - **RL alineado pedagógicamente.** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] usa una canalización RL-SFT-RL para entrenar un modelo que *guía* en lugar de responder, alineando la recompensa con objetivos pedagógicos; [[special-r1-rl-special-education]] aplica RL al diseño de tutores para la [[special-education|educación especial]].
+- **El RL supera al ajuste fino supervisado para seguir instrucciones pedagógicas.** El entrenamiento de LearnLM encontró que el RL basado en preferencias era significativamente más eficaz que el SFT por sí solo, porque los juicios de preferencia capturan distinciones dependientes del contexto a lo largo de conversaciones largas que los datos supervisados etiquetados con instrucciones solo manejan en parte ([[learnlm-improving-gemini-learning|LearnLM Team (2025)]]).
 - **Seguridad y transferencia de habilidades.** [[pedagogical-safety-rl]] integra restricciones de seguridad en la tutoría basada en RL para que la optimización de la recompensa no vaya a costa del bienestar de quien aprende; [[ai-coaching-rl-skill-development]] muestra un entrenamiento impulsado por RL que apoya el desarrollo y la transferencia genuinos de habilidades.
+- **Lo que una recompensa deja fuera determina quién se beneficia.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] encontraron que un tutor de RL profundo recompensado por la puntuación en las pruebas y la eficiencia temporal igualó a una heurística BKT en el postest (A = .58 en ambos casos, frente a 65.7), pero asignó solo el 4% de los problemas de entrenamiento a la reparación constructiva de ejemplos erróneos y favoreció al estudiantado con más conocimientos previos.
 - **Simulación y práctica.** [[history-aware-student-simulation]] y [[q-learning-lab-rl-teaching]] usan RL y estudiantado simulado para entrenar y evaluar [[pedagogical-agent|agentes pedagógicos]], lo que conecta el RL con el [[student-modeling|modelado del estudiantado]] y la [[learning-analytics|analítica del aprendizaje]].
+
+- **RL de horizonte largo y ponderado por la seguridad.** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] optimiza encuentros clínicos completos de 60 turnos —muy por encima de los horizontes de ≤12 turnos de los sistemas de diálogo concurrentes— y el entrenamiento contra pacientes simulados adversarios con una recompensa alineada con la seguridad elevó la precisión diagnóstica un 7.0% y redujo las tasas de señales de alarma pasadas por alto en aproximadamente un tercio.
 
 ### Evidencia en el conjunto del campo
 
-Una [[riedmann-reinforcement-learning-education-review-2026|revisión sistemática del RL en la educación con estándar PRISMA (Riedmann, Schaper y Lugrin, 2025)]] sintetizó 89 estudios (2000–2024) y encontró un crecimiento acusado después de 2016 en aplicaciones de [[adaptive-learning|aprendizaje adaptativo]] y [[intelligent-tutoring|tutoría]], concentradas en STEM (sobre todo en [[math-education|matemática]]). Informa de que el RL sin modelo dominó (n = 72), con Q-learning como algoritmo más común, pero que el RL clásico fue más consistentemente eficaz que el aprendizaje profundo por refuerzo (61 % frente a 36 % de los artículos que mostraban superioridad significativa); de que la adaptación se dividía en mecanismos de programación de contenidos (n = 53) y relacionados con la guía (n = 36), con el RL superando a las líneas base con más frecuencia en la guía; y de que la ganancia de aprendizaje —especialmente la ganancia de aprendizaje normalizada— fue la fuente de recompensa más eficaz. La revisión también advierte de que más de la mitad de los estudios (n = 54) omitieron las pruebas estadísticas, de modo que el crecimiento del campo ha superado su rigor metodológico.
+Una [[riedmann-reinforcement-learning-education-review-2026|revisión sistemática del RL en la educación con estándar PRISMA (Riedmann, Schaper y Lugrin, 2025)]] sintetizó 89 estudios (2000–2024) y encontró un crecimiento acusado después de 2016 en aplicaciones de [[adaptive-learning|aprendizaje adaptativo]] y [[intelligent-tutoring|tutoría]], concentradas en STEM (sobre todo en [[math-education|matemática]]). Informa de que el RL sin modelo dominó (n = 72), con Q-learning como algoritmo más común, pero que el RL clásico fue más consistentemente eficaz que el aprendizaje profundo por refuerzo (61% frente a 36% de los artículos que mostraban superioridad significativa); de que la adaptación se dividía en mecanismos de programación de contenidos (n = 53) y relacionados con la guía (n = 36), con el RL superando a las líneas base con más frecuencia en la guía; y de que la ganancia de aprendizaje —especialmente la ganancia de aprendizaje normalizada— fue la fuente de recompensa más eficaz. La revisión también advierte de que más de la mitad de los estudios (n = 54) omitieron las pruebas estadísticas, de modo que el crecimiento del campo ha superado su rigor metodológico.
 
 ### Conexión con la base de conocimiento
 

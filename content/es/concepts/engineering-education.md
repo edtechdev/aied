@@ -1,7 +1,7 @@
 ---
 title: Educación en ingeniería
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-09-28T18:15:33-04:00"
+updated: "2026-10-02T21:20:37-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-09-17T14:13:57-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,14 @@ La investigación sobre educación en ingeniería es peculiar porque se sitúa e
 - **Evaluación corporeizada y [[multimodal|multimodal]]:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] desarrollan un marco multimodal que integra el seguimiento de gestos por visión artificial con el análisis del habla mediante [[llm]] para evaluar la comprensión conceptual de la estadística en estudiantado de ingeniería, y muestran que el gesto añade evidencia diagnóstica más allá del habla y que un acoplamiento estrecho entre gesto y habla indica una comprensión coherente.
 - **Transformación de la fuerza laboral:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] revisan la literatura gris estadounidense sobre la IA y la fuerza laboral de la ingeniería y la informática, enmarcan el «Dual Train Problem» (cambio rápido frente a política urgente) y recomiendan competencias duraderas en IA, [[ethics|ética]] y [[governance|gobernanza]], y credenciales basadas en destrezas para los roles emergentes.
 - **Adopción y dependencia del estudiantado:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] amplían el modelo de aceptación tecnológica con el *uso crítico* para modelar cómo el estudiantado de ingeniería e informática forma sus intenciones de usar la [[generative-ai|IA generativa]] y cómo esa intención predice su dependencia en tareas de comprensión, evaluación, programación y proyectos de ingeniería: encuentran una dependencia moderada y adecuada y un uso intensivo en las tareas relacionadas con la comprensión, pero un uso limitado para redactar evaluaciones completas. [[socio-cognitive-genai-adoption-engineering-2026|Asag y Al Mamun]] integran el TAM con el [[technology-acceptance-model|UTAUT]] para modelar la adopción del estudiantado de ingeniería de Bangladesh, explican 64% de la varianza en el uso y destacan la relevancia para el empleo, la demostrabilidad de los resultados y las normas subjetivas como motores clave.
+- **La estrategia de prompting predice el rendimiento, no el volumen de uso:** entre 128 estudiantes de cuarto año de ingeniería, la eficiencia de las consultas a la IA y la resolución de problemas asistida por IA fueron los predictores más fuertes del éxito académico y siguieron siendo significativos tras controlar por el promedio acumulado ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
+
+- **Las metáforas del propio estudiantado superan lo que ofrecen las herramientas:** [[ai-engineering-education-balancing-act|Kudina (2026)]] encontró que 100 estudiantes de ingeniería valoraban sobre todo los LLM para apoyo a la escritura, clarificación conceptual y programación, pero los enmarcaban como «oráculo» y «tutor» —una autoridad y una personalización que un generador de texto probabilístico no puede ofrecer—, un «optimismo cruel» que depende de habilidades de verificación que el estudiantado aún está construyendo.
+
+- **Integrar la IA en la disciplina, no al lado de ella:** un currículo de ingeniería térmica basado en proyectos incorporó el aprendizaje automático a los temas térmicos existentes en los niveles introductorio, de aplicación y avanzado, en lugar de añadir asignaturas de informática, y el estudiantado de grado que solo cumplía los requisitos de entrada mínimos produjo proyectos más débiles que sus pares de posgrado ([[mechanical-engineering-ai-curriculum-2026|Li et al. (2026)]]).
 - **[[intelligent-tutoring|Tutoría con IA]] y retroalimentación para cursos de ingeniería [[quantitative-research|cuantitativos]]:** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin et al. (2026)]] presentan a Arthur, un asistente docente de IA que ofrece retroalimentación personalizada y en tiempo real sobre preguntas de fórmula calculada en un curso universitario de economía de la ingeniería, un ámbito donde las soluciones manuscritas y no estructuradas habían bloqueado el apoyo previo con IA. Su cadena de procesamiento de ciclo completo (curar entregas manuscritas ya calificadas, [[machine-learning|aumento de datos]] con enmascaramiento aleatorio, motores de diagnóstico XGBoost por pregunta y una interfaz web de banco de preguntas basada en diálogo) ofrece una vía escalable para la [[ai-feedback-quality|retroalimentación con IA]] en cursos de ingeniería que carecen de datos digitales estructurados, y el marco está diseñado para generalizarse a preguntas de fórmula calculada de otras disciplinas de la ingeniería.
+- **IA para la sostenibilidad, integrada y no modular.** El marco AI-SEE de cuatro pilares (impulsado por la inteligencia, capacitado para lo verde, guiado por la responsabilidad e integrado en la práctica) distribuye la IA por los cursos de ingeniería; en un caso de ingeniería del transporte con 144 estudiantes, el estudiantado informó de implicación en los niveles personal, académico, profesional y social, con el razonamiento sobre sostenibilidad trasladado a las familias y a las redes de pares ([[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]]).
+- **Un taller con muchas herramientas puede deprimir la autoeficacia sin mejorar el producto.** En un taller de diseño arquitectónico con 27 estudiantes, los equipos que usaron un flujo de IA generativa más [[virtual-and-augmented-reality|XR]] mostraron mayores descensos antes y después en la [[self-efficacy|autoeficacia]] de diseño (β = −1.675) y en la expectativa de resultado (β = −2.088) que los controles, mientras que un visor por estudiante no produjo ninguna colaboración coordinada ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]).
 
 ## Preocupaciones características
 
@@ -66,6 +73,8 @@ La cobertura de la educación en ingeniería en la base de conocimiento sigue en
 - **Use una evaluación multimodal y corporeizada.** [[multimodal-embodied-cognition-oral-explanations-2026|La evaluación de gesto + habla]] añade evidencia diagnóstica más allá del lenguaje por sí solo: considere las señales corporeizadas al evaluar la comprensión conceptual.
 - **Prepare al estudiantado para la fuerza laboral, no solo para la asignatura.** El [[ai-engineering-computing-workforce-grey-literature-2026|Dual Train Problem]] urge a ofrecer competencias duraderas en IA, ética y gobernanza, y credenciales basadas en destrezas alineadas con los roles emergentes.
 - **Modele el uso crítico y una dependencia adecuada.** [[tam-critical-use-genai-engineering-2026|La investigación sobre el uso crítico con TAM]] muestra que el estudiantado se apoya intensamente en la IA para tareas de comprensión, pero menos para la evaluación: guíelo hacia una dependencia adecuada y verificable en todos los tipos de tarea.
+
+- **Enseñar el uso de la IA como una destreza dentro del horario de clase.** [[structured-ai-demonstrations-engineering-mechanics|Geng et al. (2026)]] realizaron nueve demostraciones dirigidas por el profesorado, de 10 a 15 minutos cada una al final de una clase y secuenciadas desde la alfabetización en herramientas hasta la delegación estratégica y la evaluación de modelos, pero el estudiantado que no veía conexión con la evaluación las consideró redundantes, así que conviene vincularlas a trabajo calificado.
 
 ## Conceptos conectados
 

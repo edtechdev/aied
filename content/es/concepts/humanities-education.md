@@ -1,14 +1,14 @@
 ---
 title: Educación en humanidades y ciencias sociales
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-09-28T18:15:33-04:00"
+updated: "2026-10-02T21:34:05-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-09-01T18:30:00-04:00"
+source_updated: "2026-10-02T14:30:18-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,8 @@ La educación SSH es un área temática propia dentro de la base de conocimiento
 - **Dimensiones críticas y filosóficas.** [[voicu-ai-interpretive-cognition-ssh-2026|La alfabetización crítica en IA]] y la [[philosophy-of-ai-in-education|filosofía de la IA en la educación]] son especialmente relevantes en SSH, donde las cuestiones de significado, valores y autoridad epistémica son centrales.
 - **Transformación digital [[governance|institucional]].** Qin (2026) documenta cómo la Universidad de Lingnan se reposicionó como «institución de artes liberales orientada a la investigación en la era digital», al exigir alfabetización en IA generativa a todo el estudiantado de grado (incluido un curso obligatorio de primer año del tronco común sobre IA generativa que abarca espacios latentes, GAN, modelos de difusión, [[prompt-engineering|prompts]], ajuste fino, sesgo y desinformación). El artículo de posición sostiene que el giro de la IA hacia la educación es una *transformación intelectual* y no una mejora tecnocéntrica, y sitúa la [[ai-literacy|fluidez digital]] como competencia central de las artes liberales, mientras que un modelo [[human-in-the-loop-ai|con intervención humana]] pone en primer plano el razonamiento [[ethics|ético]], el juicio crítico y la responsabilidad social: un plano concreto para que la [[higher-ed|educación superior]] equilibre la innovación con la [[generative-ai|IA generativa]] y los fundamentos humanísticos.
 
+- **La exposición evaluativa del sector ya está medida, y está concentrada más que difusa.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] auditó 15,587 registros de unidades de Artes y Humanidades en las universidades del Group of Eight de Australia y encontró que el 58.6% de los ítems de evaluación de 2026 tenían una alta exposición a la [[generative-ai|IA generativa]], y que los ensayos para llevar a casa y los informes de investigación representaban el 71.4% de esa exposición una vez ponderada por las notas.
+
 ### Por qué importa
 
 La educación SSH pone en primer plano justo las capacidades que la IA generativa más desafía: la autoría original, el juicio interpretativo, el análisis crítico y la construcción de significado sensible al contexto. La base de conocimiento trata este dominio como un contrapeso crítico a los marcos instrumentales y basados en destrezas de la IA: se pregunta si el aprendizaje asistido por IA preserva el [[critical-thinking|pensamiento crítico]], la responsabilidad epistémica y la autonomía interpretativa, en conexión con la [[critical-pedagogy|pedagogía crítica]] y la [[ai-literacy|alfabetización en IA]].
@@ -73,4 +75,4 @@ La educación SSH pone en primer plano justo las capacidades que la IA generativ
 - [[paternalistic-filter-llm-history-education]] — Uso de LLM y razonamiento histórico en la educación histórica
 - [[genai-impact-chinese-students-hss]] — El impacto de la IA generativa en el estudiantado de humanidades y ciencias sociales
 - [[acceptance-ai-english-tools-2026]] — Aceptación de la IA entre quienes aprenden idiomas y humanidades
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Transformación digital de una universidad de artes liberales hacia un modelo orientado a la investigación en la era de la IA generativa (Qin 2026)
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Auditoría computacional de 15,587 unidades de Artes y Humanidades del Go8: el 58.6% de los ítems de evaluación de 2026 con alta exposición a la IA, concentrada en ensayos e informes

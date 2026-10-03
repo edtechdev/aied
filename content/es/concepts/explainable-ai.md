@@ -1,7 +1,7 @@
 ---
 title: IA explicable
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-09-28T19:10:33-04:00"
+updated: "2026-10-02T21:24:48-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-30T14:23:52-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -75,9 +75,11 @@ Una lección recurrente en toda la evidencia: **tener una explicación no basta*
 
 La calidad de la explicación tiene también una dimensión de equidad: una explicación que está técnicamente presente pero es ilegible para una parte interesada concreta — o que oculta el [[bias-mitigation|sesgo]] de una predicción — fracasa en su propósito. Por eso la pregunta de diseño es la *calidad y la adecuación*, y por eso el diseño de explicaciones centrado en las personas y específico para cada parte interesada es inseparable de la generación técnica de explicaciones. Una XAI eficaz es un acto de comunicación diseñado para las necesidades cognitivas de quien lo recibe, y no un mero artefacto técnico.
 
+La explicación no siempre nivela. En un experimento de viñetas 2 × 2 con 250 estudiantes de séptimo curso, una justificación escrita de una puntuación de matemáticas elevó la aceptación y la equidad percibida en ambas condiciones, pero amplió en lugar de cerrar la brecha entre las decisiones tomadas por el [[teacher-role|docente]] y las tomadas por la IA ([[decision-making-agent-student-decision-acceptance-2026|Zhang et al. (2026)]]).
+
 Dos cautelas afinan esto aún más, y la contribución más reciente de este wiki sobre el tema las hace centrales. En primer lugar, la maquinaria de explicación no es neutral en sí misma: métodos a posteriori como LIME y SHAP pueden ser infieles al comportamiento real del modelo, de modo que una explicación técnicamente presente puede engañar en lugar de informar ([[lund-socially-accountable-data-science-xai-2026|Lund et al. 2026]], a partir de Chuan et al. 2024). En segundo lugar, **explicación no es rendición de cuentas**. Un relato de qué características impulsaron una predicción no revela si esas características eran apropiadas de usar, si los datos de entrenamiento eran representativos ni si el diseño del sistema reflejaba un juicio sólido; las explicaciones pueden crear la apariencia de transparencia mientras dejan intactas las condiciones estructurales que produjeron la decisión (Mittelstadt et al. 2019). Para la educación esto significa que la pregunta que hay que seguir haciendo no es si se produjo una explicación, sino si la persona que la recibe — un estudiante, un docente, un asesor — podía entenderla, actuar a partir de ella o impugnar la decisión que hay detrás. El mismo fallo de legibilidad aparece en el lado de seguridad de la [[automated-assessment|evaluación automatizada]]: [[humble-prompt-injection-ai-grading-red-team-2026|el equipo rojo de Humble (2026) sobre una herramienta de calificación con IA]] encontró que esta desactivaba silenciosamente el chat tras bloquear una inyección de prompts y que — después de anunciar que nunca seguiría instrucciones incrustadas — las siguió en seis ejecuciones más sobre el mismo archivo, sin dejar a la persona usuaria ninguna señal fiable en la que basar su confianza.
 
-**Explicable por diseño** es una respuesta al problema de la fidelidad a posteriori. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang y Fang (2025)]] parametrizan un decodificador de explicaciones con la misma representación fusionada y la misma puntuación predicha que deciden la [[assessment|evaluación]], de modo que una puntuación baja en el cuestionamiento [[formative-assessment|formativo]] produce una justificación que nombra preguntas de sondeo insuficientes, y lo acompañan de una atención de doble lente sobre los estándares curriculares y los movimientos de rúbrica específicos de la materia. La alineación atención-rúbrica alcanza el 78,0% frente al 41,7% de GPT-4 en cero disparos y el 32,1% de BERT, y la fidelidad se sondea mediante eliminación contrafactual de fragmentos críticos para la rúbrica junto con valoraciones humanas sobre una lista de comprobación anclada en la rúbrica, lo que da una puntuación de credibilidad de la explicación de 0,78: un aumento de 0,31 sobre BERT-base. La auditoría muestra además dónde se adelgaza la afirmación arquitectónica: ante señales emocionales el modelo asigna el 28,4% del peso de atención frente al 15,2% de un experto (alineación 0,53), con un caso de fallo que asigna el 28% al token «frustrated», que los autores leen como sobreajuste al afecto más que a la pedagogía y señalan como área de refinamiento. Incrustar las explicaciones en la ruta de decisión las hace más fieles que las justificaciones a posteriori; no las hace correctas.
+**Explicable por diseño** es una respuesta al problema de la fidelidad a posteriori. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang y Fang (2025)]] parametrizan un decodificador de explicaciones con la misma representación fusionada y la misma puntuación predicha que deciden la [[assessment|evaluación]], de modo que una puntuación baja en el cuestionamiento [[formative-assessment|formativo]] produce una justificación que nombra preguntas de sondeo insuficientes, y lo acompañan de una atención de doble lente sobre los estándares curriculares y los movimientos de rúbrica específicos de la materia. La alineación atención-rúbrica alcanza el 78.0% frente al 41.7% de GPT-4 en cero disparos y el 32.1% de BERT, y la fidelidad se sondea mediante eliminación contrafactual de fragmentos críticos para la rúbrica junto con valoraciones humanas sobre una lista de comprobación anclada en la rúbrica, lo que da una puntuación de credibilidad de la explicación de 0.78: un aumento de 0.31 sobre BERT-base. La auditoría muestra además dónde se adelgaza la afirmación arquitectónica: ante señales emocionales el modelo asigna el 28.4% del peso de atención frente al 15.2% de un experto (alineación 0.53), con un caso de fallo que asigna el 28% al token «frustrated», que los autores leen como sobreajuste al afecto más que a la pedagogía y señalan como área de refinamiento. Incrustar las explicaciones en la ruta de decisión las hace más fieles que las justificaciones a posteriori; no las hace correctas.
 
 ## Enseñar la explicabilidad como práctica de rendición de cuentas
 
@@ -108,7 +110,6 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
 ## Artículos conectados
-- [[powerful-learning-with-emerging-technology-2025]] — La explicabilidad como requisito de diseño metacognitivo
 - [[lund-socially-accountable-data-science-xai-2026]] — Un marco de cuatro pilares (capacidad de respuesta, responsabilidad, aplicación y reflexividad) para enseñar la XAI como práctica de rendición de cuentas (Lund et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Diseño sensible a los valores de un ITS centrado en el estudiantado (explicaciones colaborativas frente a explicaciones brutas)
 - [[xai-education-framework]] — XAI-ED: el marco fundacional de la IA explicable en educación (Khosravi et al. 2022)
@@ -126,3 +127,5 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Marco de LLM explicable por diseño: atención de doble lente y explicaciones parametrizadas por la puntuación para la evaluación docente automatizada (Li et al. 2025)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Inyección de prompts en la calificación mediada por IA, donde la detección nunca se comunicó a la persona usuaria (Humble 2026)
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluación de modelos preentrenados para la valoración pedagógica de preguntas educativas novedosas asistidas por IA
+
+- [[decision-making-agent-student-decision-acceptance-2026]] — Decisiones de calificación del docente frente a las tomadas por IA: una justificación escrita amplió la brecha de equidad

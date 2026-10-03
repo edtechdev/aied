@@ -1,7 +1,7 @@
 ---
 title: Tecnología de asistencia
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-09-28T20:10:38-04:00"
+updated: "2026-10-02T21:24:48-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-09-22T09:52:55-04:00"
+source_updated: "2026-09-30T08:05:25-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - La tecnología de asistencia es la capa de herramientas de la accesibilidad: los dispositivos y programas concretos que cada persona usa para salvar las brechas de acceso. Antes de leer, ¿pensaba que accesibilidad y tecnología de asistencia eran lo mismo? ¿Cómo podría cambiar su forma de diseñar entornos de aprendizaje si las trata como conceptos distintos?
-- La [[research-methods-aied|investigación]] encuentra que las intervenciones basadas en IA producen un efecto positivo medio en los [[learning-gains|resultados de aprendizaje]] del estudiantado con discapacidad (g = 0,588). Sin embargo, la página advierte de que las herramientas de acceso no garantizan por sí mismas una enseñanza inclusiva ni la agencia de quien aprende. ¿Cuál es la diferencia entre dar acceso a un estudiante e incluirlo de verdad?
+- La [[research-methods-aied|investigación]] encuentra que las intervenciones basadas en IA producen un efecto positivo medio en los [[learning-gains|resultados de aprendizaje]] del estudiantado con discapacidad (g = 0.588). Sin embargo, la página advierte de que las herramientas de acceso no garantizan por sí mismas una enseñanza inclusiva ni la agencia de quien aprende. ¿Cuál es la diferencia entre dar acceso a un estudiante e incluirlo de verdad?
 - La página señala que los documentos estadounidenses de política sobre IA en gran medida no abordan la tecnología de asistencia ni las adaptaciones para el estudiantado con dificultades específicas de aprendizaje. ¿Por qué cree que las adaptaciones se cuelan tan fácilmente por las grietas de la política sobre IA, y quién pierde cuando eso ocurre?
 - La [[generative-ai|IA generativa]] puede subtitular automáticamente, simplificar textos y generar alternativas táctiles, lo que abarata la adaptación. Pero la página le pide que evalúe la calidad de las alternativas generadas por IA en cuanto a su exactitud [[pedagogy|pedagógica]]. ¿Qué podría salir mal si una versión «simplificada» o «táctil» tergiversa el contenido que pretende hacer accesible?
 - La IA está ampliando las herramientas de asistencia, desde compañeros de aprendizaje centrados en la voz hasta gráficos táctiles y herramientas de lengua de signos. Como docente o diseñador, ¿qué barrera concreta de qué estudiante querría abordar primero con IA, y qué necesitaría saber sobre esa persona antes de elegir una herramienta?
@@ -37,7 +37,7 @@ La tecnología de asistencia es la *capa de herramientas* concreta de la [[acces
 
 ### Temas clave de investigación
 
-**La IA está ampliando la tecnología de asistencia.** La IA generativa y los LLM están transformando las herramientas de asistencia: la [[text-simplification-its|simplificación de textos basada en LLM]] adapta el nivel de lectura en la [[intelligent-tutoring|tutoría inteligente]], la [[kutti-ai-voice-first-learning-companion|IA centrada en la voz]] elimina la dependencia visual para quien aprende con ceguera o baja visión, y los [[tactile-statistical-graphs-accessibility|gráficos táctiles generados por IA]] convierten datos visuales en salida táctil. **[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]]** encuentran que las intervenciones basadas en IA (robots, software, realidad virtual inteligente) producen un efecto positivo medio en los resultados de aprendizaje del estudiantado con discapacidad (g = 0,588). **[[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]]** añaden un estudio de caso [[qualitative-research|cualitativo]] con 21 estudiantes universitarios con discapacidad visual en Palestina, que muestra que la IA generativa funciona como una capa de asistencia que ajusta el ritmo, el contenido y la presentación, simplifica textos complejos y convierte contenido entre modalidades, y quienes aprenden la consideran de forma consistente un complemento del profesorado y no un sustituto.
+**La IA está ampliando la tecnología de asistencia.** La IA generativa y los LLM están transformando las herramientas de asistencia: la [[text-simplification-its|simplificación de textos basada en LLM]] adapta el nivel de lectura en la [[intelligent-tutoring|tutoría inteligente]], la [[kutti-ai-voice-first-learning-companion|IA centrada en la voz]] elimina la dependencia visual para quien aprende con ceguera o baja visión, y los [[tactile-statistical-graphs-accessibility|gráficos táctiles generados por IA]] convierten datos visuales en salida táctil. **[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]]** encuentran que las intervenciones basadas en IA (robots, software, realidad virtual inteligente) producen un efecto positivo medio en los resultados de aprendizaje del estudiantado con discapacidad (g = 0.588). **[[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]]** añaden un estudio de caso [[qualitative-research|cualitativo]] con 21 estudiantes universitarios con discapacidad visual en Palestina, que muestra que la IA generativa funciona como una capa de asistencia que ajusta el ritmo, el contenido y la presentación, simplifica textos complejos y convierte contenido entre modalidades, y quienes aprenden la consideran de forma consistente un complemento del profesorado y no un sustituto.
 
 **Política y provisión.** **[[shin-ai-policies-sld-2026|Shin et al.]]** documentan que los documentos estadounidenses de política sobre IA en gran medida no abordan la tecnología de asistencia ni las adaptaciones para el estudiantado con dificultades específicas de aprendizaje, y piden orientación política fundamentada en la Ley de Tecnología de Asistencia y en IDEA.
 
@@ -75,6 +75,4 @@ Una revisión de alcance de 2026 sobre [[ai-technologies|tecnologías]] digitale
 - [[llm-question-generation-deaf-hard-of-hearing-2026]] — Generación de preguntas con LLM para estudiantes sordos y con dificultades auditivas
 - [[gemini-lualatex-physics-video-transcription-2026]] — Transcripción de vídeos de física con matemáticas accesibles mediante Gemini+LuaLaTeX
 - [[khlaif-assistive-genai-visually-impaired-2026]] — IA generativa de asistencia para estudiantes con discapacidad visual
-- [[dabaghi-ai-dyslexia-education-review-2026]] — La IA para ayudar a las personas con dislexia en la educación
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidad virtual y más allá: revisión de alcance de las tecnologías digitales de asistencia para estudiantes neurodivergentes en la educación superior
-- [[adapted-stories-social-story-intervention-2026]] — Intervención con historias sociales asistida por IA para la educación especial: el diseño de AdaptED Stories

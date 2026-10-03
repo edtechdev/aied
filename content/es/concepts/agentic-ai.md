@@ -2,7 +2,7 @@
 connected_resources: [deeptutor]
 title: IA agéntica
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-02T21:25:27-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-09-28T21:44:10-04:00"
+source_updated: "2026-10-02T08:36:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **La [[ai-education]]** — sistemas de IA que planifican, ejecutan y adaptan flujos de trabajo de varios pasos de forma autónoma para alcanzar objetivos de aprendizaje, y que van más allá de las preguntas y respuestas de un solo turno para actuar como colaboradores persistentes y orientados a objetivos: [[intelligent-tutoring|tutores de IA]] que ofrecen andamiaje a lo largo de interacciones prolongadas, sistemas multiagente que orquestan diseños instruccionales y agentes que corregulan el aprendizaje. Este cambio de paradigma, de una herramienta que responde a un prompt a un colaborador activo, conlleva tanto promesas como riesgos: la IA agéntica puede personalizar y profundizar el aprendizaje, pero también amenaza la [[agency]], el [[cognitive-offloading|esfuerzo cognitivo]] y el control. Los artículos de la base de conocimiento sobre la [[agentic-ai-education-scoping-review|revisión de alcance]], el [[tool-invariant-framework-agentic-ai|marco invariable respecto a la herramienta]] y las [[agentic-ai-pedagogical-best-practice-2026|buenas prácticas pedagógicas]] examinan esta tensión.
+> **La IA agéntica en la [[ai-education|educación]]** — sistemas de IA que planifican, ejecutan y adaptan flujos de trabajo de varios pasos de forma autónoma para alcanzar objetivos de aprendizaje, y que van más allá de las preguntas y respuestas de un solo turno para actuar como colaboradores persistentes y orientados a objetivos: [[intelligent-tutoring|tutores de IA]] que ofrecen andamiaje a lo largo de interacciones prolongadas, sistemas multiagente que orquestan diseños instruccionales y agentes que corregulan el aprendizaje. Este cambio de paradigma, de una herramienta que responde a un prompt a un colaborador activo, conlleva tanto promesas como riesgos: la IA agéntica puede personalizar y profundizar el aprendizaje, pero también amenaza la [[agency]], el [[cognitive-offloading|esfuerzo cognitivo]] y el control. Los artículos de la base de conocimiento sobre la [[agentic-ai-education-scoping-review|revisión de alcance]], el [[tool-invariant-framework-agentic-ai|marco invariable respecto a la herramienta]] y las [[agentic-ai-pedagogical-best-practice-2026|buenas prácticas pedagógicas]] examinan esta tensión.
 
 ## Preguntas para reflexionar
 
@@ -216,10 +216,7 @@ La IA agéntica no es ni una panacea ni un daño inevitable: su valor depende de
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]] — La IA agéntica en la simulación clínica
 - [[bozkurt-ghost-students-agentic-ai-2026]] — Los estudiantes fantasma y la brecha de verificación de la IA agéntica (Bozkurt et al. 2026)
 - [[ai-agents-complete-lms-assessment-validity-2026]] — Agentes de IA que completan tareas en un LMS; fallo de validez por el supuesto de producción humana (Hadjisolomou y El-Haddad 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Agentes LLM ajustados y específicos de cada participante que reproducen diálogos de resolución colaborativa de problemas (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Banco de pruebas sintético ASTRA para la tutoría multiagente y la colaboración con participación equilibrada
 - [[ai-web-agents-lesson-design-2025]] — Agentes web de IA: un agente descriptor como evaluador de la experiencia de aprendizaje (predice el abandono y da retroalimentación de diseño antes de que intervenga el estudiantado)
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — El desarrollo guiado por especificaciones con agentes de IA en el ABP de software; automatización frente a comprensión
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluar un sistema multiagente de modelos de lenguaje orientado al andamiaje para la formación en entrevista clínica
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Agentes de formación ética: facilitar la educación ética grupal con juego de roles y discusión para la reflexión y la exploración éticas
-- [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus deberes. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en informática en la era de la IA generativa

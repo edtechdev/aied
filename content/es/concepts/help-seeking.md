@@ -1,7 +1,7 @@
 ---
 title: Búsqueda de ayuda
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-09-28T20:10:39-04:00"
+updated: "2026-10-02T21:28:30-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-09-28T05:38:15-04:00"
+source_updated: "2026-10-01T20:35:10-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ El contacto proactivo puede aumentar la búsqueda de ayuda sin ningún cambio en
 
 ## Introducción
 
-La búsqueda de ayuda es un constructo bien establecido en la investigación sobre el aprendizaje, estrechamente ligado al [[self-regulated-learning|aprendizaje autorregulado]] y a la [[metacognition|metacognición]]: exige que quienes aprenden supervisen su propia comprensión, reconozcan una laguna, decidan que necesitan ayuda y formulen una petición eficaz. Con el auge de los tutores de [[generative-ai|IA generativa]], la búsqueda de ayuda ha cobrado nueva importancia, y también nuevos modos de fallo. Quienes aprenden a menudo *pretenden* usar la IA para aprender, pero acaban pidiendo respuestas directas, una brecha que la investigación recogida en esta base de conocimiento documenta en distintos dominios y grupos de edad.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+La búsqueda de ayuda es un constructo bien establecido en la investigación sobre el aprendizaje, estrechamente ligado al [[self-regulated-learning|aprendizaje autorregulado]] y a la [[metacognition|metacognición]]: exige que quienes aprenden supervisen su propia comprensión, reconozcan una laguna, decidan que necesitan ayuda y formulen una petición eficaz. Con el auge de los tutores de [[generative-ai|IA generativa]], la búsqueda de ayuda ha cobrado nueva importancia, y también nuevos modos de fallo. Quienes aprenden a menudo *pretenden* usar la IA para aprender, pero acaban pidiendo respuestas directas, una brecha que la investigación recogida en esta base de conocimiento documenta en distintos dominios y grupos de edad. El modelo clásico da por supuesto que una petición busca conocimiento que quien pregunta no tiene. La demanda de apoyo operativo complica ese supuesto: de 4,093 consultas, al menos el 20.4% preguntaba por el estado de una entrega pendiente y no por conocimiento, una clase que un asistente limitado a la recuperación sirvió solo el 1.3% de las veces [[student-query-demand-hybrid-ai-support-2026|Gupta et al. (2026)]].([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
 
 ## Búsqueda de ayuda productiva frente a improductiva
 
@@ -53,6 +53,7 @@ La investigación recogida en esta base de conocimiento identifica patrones conc
 - **Lectura superficial de las pistas** — avanzar por las pistas con demasiada rapidez para leerlas (se marca a partir de una referencia de ~4 palabras por segundo), a menudo saltando directamente a la pista final que revela la respuesta.([[lak2026-hint-button-unproductive-use]])
 - **Buscar respuestas en lugar de buscar aprendizaje** — pedir a la IA que produzca la respuesta en vez de que explique u oriente. En un estudio con 98 estudiantes de 9.º grado que usaban un tutor de IA generativa, las interacciones estuvieron dominadas por peticiones instrumentales, con casi ninguna supervisión ni evaluación de su propio aprendizaje, pese a que el estudiantado había elegido previamente un apoyo con andamiaje. Esta **brecha entre intención y conducta** se asoció con un rendimiento *menor* en el postest y con una mayor carga cognitiva extrínseca.([[regulating-ai-tutor-adolescent-srl]])
 - **Consultar la IA antes de cualquier intento independiente o fuente humana.** [[uneven-impact-generative-ai-student-learning-2026|Manikonda et al. (2026)]] miden directamente este orden como **dependencia temprana** —consultar la IA generativa antes de pensar por cuenta propia, de una búsqueda tradicional o de acudir a una persona docente— y encuentran que se asocia con un mayor impacto negativo (β = 0,402, p = 0,004), así como con un beneficio académico (β = 0,301, p < 0,001), entre 118 estudiantes de asignaturas relacionadas con la IA. La asociación con el daño estaba ausente en niveles bajos de [[ai-literacy|alfabetización evaluativa]] y era más fuerte en niveles altos (b = 0,688 con +1 DE, p < 0,001), de modo que el estudiantado más capaz de juzgar la salida de la IA fue el que declaró un mayor coste por consultarla primero: la elección de *a quién preguntar primero* conlleva un inconveniente que la destreza para evaluar la respuesta no compensa. También muestra que usar la IA para organizar, evaluar y descomponer problemas —lo **cognitivo**, y no la dependencia temprana— es el patrón asociado con un impacto positivo, así que el modo de fallo de la búsqueda de ayuda es de secuenciación y no de preguntar en absoluto.
+- **Preguntar de forma sostenida sin recuperación** — Preguntar es productivo al principio, pero no indefinidamente: las peticiones de ayuda son el tipo de bloqueo más recuperable al inicio (47.0%) pero caen más al fallar la asistencia (12.5% a partir de la sexta profundidad o más), así que lo que merece seguimiento es la persistencia y no la petición en sí [[guided-ai-tutor-impasse-resolution-2026|Ahtisham et al. (2026)]].
 - **El estudiantado con dificultades es el menos propenso a buscar ayuda sin que se la pidan** — el lado de la implicación en la búsqueda de ayuda. En [[one-click-away-khanmigo-two-year-school-experiment-2026|un ensayo controlado aleatorizado de dos años con Khanmigo (Oreopoulos y Low, 2026)]], incluso con acceso gratuito y tiempo de práctica obligatorio, el estudiante medio con dificultades escribió al tutor de IA en solo ~17% de las sesiones con errores, en su mayoría con respuestas escuetas o clics, lo que concuerda con el hallazgo de la economía de la educación de que las intervenciones que dependen de la iniciativa llegan a menos estudiantes de los que más se beneficiarían. [[virtual-tutoring-computer-assisted-learning-takeup-2026|TWiK (Oreopoulos et al., 2026)]] muestra que la adopción responde mucho a reducir la fricción (la adopción en la primera sesión pasó del 45% al 83% tras simplificar la inscripción), pero entrar no es lo mismo que participar de forma sostenida (la asistencia siguió siendo intermitente).
 
 ### Por qué la búsqueda de ayuda improductiva perjudica el aprendizaje
@@ -131,6 +132,7 @@ En la [[english-education|composición]] totalmente en línea, la disponibilidad
 - [[feedback]]
 - [[active-learning]]
 - [[agentic-ai]]
+- [[student-support-and-success]] — Divulgación y asignación de apoyos institucionales, más allá de la búsqueda de ayuda dentro del curso
 
 ## Artículos conectados
 
@@ -145,10 +147,10 @@ En la [[english-education|composición]] totalmente en línea, la disponibilidad
 - [[regulating-ai-tutor-adolescent-srl]] — La brecha entre intención y conducta en la búsqueda de ayuda con IA generativa y el aprendizaje autorregulado de adolescentes
 - [[guided-llm-scaffolding-independent-learning]] — El andamiaje guiado con LLM mejora la búsqueda de ayuda centrada en el razonamiento y el aprendizaje independiente
 - [[rethinking-scaffolding-llm-tutors]] — El desajuste entre el andamiaje y su adopción por el estudiantado en despliegues reales de tutores basados en LLM
-- [[surfacing-isolated-learners]] — Usar la IA para detectar a quienes aprenden aislados y necesitan ayuda, mediando la retroalimentación entre docente y estudiantado
-- [[halani-designing-for-reach-2026]] — Diseñar para llegar: el estudiante a solas con la IA y el acceso a la ayuda
 - [[uneven-impact-generative-ai-student-learning-2026]] — Dependencia temprana: consultar la IA generativa antes de pensar por cuenta propia, buscar o acudir a una persona docente predice tanto beneficio como daño (Manikonda et al. 2026)
 - [[reed-resource-literacy-genai-composition-2026]] — Alfabetización en recursos en la composición en línea: el cuello de botella es reconocer cuándo se necesita ayuda (Reed 2026)
 - [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducir las barreras al apoyo académico: evaluación de un sistema RAG específico de asignatura para abordar las disparidades en la búsqueda de ayuda en la educación superior
 - [[adaptive-scaffolding-contingency-comet-tutor-2026]] — El andamiaje adaptativo necesita contingencia: un tutor de IA que escala y se retira según lo que hace quien aprende
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: andamiar una búsqueda de ayuda específica con IA durante la resolución de problemas
+- [[guided-ai-tutor-impasse-resolution-2026]] — Examinar la variación en cómo los tutores de IA guiados resuelven los bloqueos del estudiantado
+- [[student-query-demand-hybrid-ai-support-2026]] — Qué pide de verdad el estudiantado: estructura de la demanda y potencial de automatización en un sistema de apoyo híbrido

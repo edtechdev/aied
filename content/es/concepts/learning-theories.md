@@ -1,7 +1,7 @@
 ---
 title: Teorías del aprendizaje
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-09-28T19:11:03-04:00"
+updated: "2026-10-02T21:24:48-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-09-23T16:28:35-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,8 @@ El trabajo teórico reciente amplía la línea clásica en varias direcciones, y
 - **Sobre-generalización engañosa.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren y Stamper (2026)]] amplían la tradición ACT-R / Knowledge-Learning-Instruction al teorizar cuándo la corrección observada enmascara una comprensión condicional incompleta: quien aprende compila una producción sobre-generalizada que omite una restricción de aplicación y aun así se desempeña correctamente, un modo de fallo que los sistemas adaptativos de dominio, e incluso la enseñanza tradicional, pueden pasar por alto salvo que pongan a prueba *cuándo abstenerse* de actuar.
 - **Teoría KLI ejecutable.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger y Carvalho (2025)]] fundamentan el marco Knowledge-Learning-Instruction en un modelo computacional ejecutable (el marco Apprentice Learner con un mecanismo de memoria al estilo ACT-R) que reproduce una interacción cruzada en datos humanos: la práctica pura ayuda a la memoria literal de hechos (al retrasar el olvido), mientras que la práctica integrada con ejemplos ayuda a la inducción de habilidades generalizables. Como la KLI vincula el conocimiento constante (de hechos) con los procesos de memoria y el conocimiento variable (de habilidades) con la inducción, el resultado es una interacción contenido-tratamiento predicha y no una contradicción entre las recomendaciones de evaluación y las de ejemplos resueltos, y el éxito del modelo solo cuando hay un mecanismo de memoria demuestra que la práctica y los ejemplos desempeñan papeles distintos y complementarios.
 
+- **La corporeidad como desafío ontológico al paradigma de la IA.** [[videla-embodied-ai-education-choreography|Videla, Penny y Ross (2026)]] sostienen que una división ontológica separa la cognición corporeizada y enactiva del lenguaje representacional que encarna la IA, de modo que la IA debería descentrarse como centro epistémico en lugar de tratarse como una herramienta neutra.
+
 ### Cómo organiza la base de conocimiento esta línea
 
 En lugar de tratar las teorías del aprendizaje como filosofía abstracta, la base de conocimiento fundamenta cada una en la investigación sobre IA en la educación que la utiliza. Las páginas sobre el [[constructivist|constructivismo]] y el [[behaviorism|conductismo]] documentan cómo los diseños de IA encarnan (o traicionan) cada teoría; la Teoría de la Carga Cognitiva, el [[self-regulated-learning|aprendizaje autorregulado]], la [[metacognition|metacognición]] y la [[transfer-of-learning|transferencia del aprendizaje]] conectan la teoría con mecanismos y resultados concretos de la IA. Esto refleja cómo trata la base de conocimiento otros dominios generales como la [[feedback|retroalimentación]] y la [[assessment|evaluación]]: un sistema coherente de conceptos que interactúan y no páginas aisladas.
@@ -82,6 +84,8 @@ Las teorías del aprendizaje también aparecen como contenido en los currículos
 ### Teorías propuestas para la era de la IA
 
 Junto a las familias clásicas, la base de conocimiento documenta teorías escritas específicamente para el aprendizaje con sistemas de IA, y estas aportan las implicaciones de diseño que las teorías más antiguas dejan abiertas. El [[yan-agentivism-learning-theory-ai-2026|agentivismo (Yan y Gašević 2026)]] es un ejemplo de alcance medio: define el aprendizaje como un crecimiento duradero de la capacidad humana y no como la mera finalización exitosa de una tarea, nombra cuatro mecanismos (agencia delegada, supervisión y verificación epistémicas, internalización reconstructiva y transferencia con apoyo reducido) y enuncia seis proposiciones contrastables, entre ellas que el apoyo de IA que preserva la responsabilidad de quien aprende sobre el planteamiento del problema, el establecimiento de criterios y la justificación produce un aprendizaje más sólido que el apoyo que entrega respuestas.
+
+[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] propone una **Simbiosis Pedagógica** con una afirmación ontológica más fuerte: quien aprende es una entidad *posthumana* cuya cognición es híbrida en lugar de asistida por herramientas, organizada según cuatro principios: delegación cognitiva y aumento, coconstrucción epistémica, simbiosis metacognitiva y formación dinámica de la identidad; se operacionaliza mediante una rúbrica de Portafolio Simbiótico y un rol docente de «Coreógrafo Cognitivo»; es explícitamente no probada.
 
 ## Conceptos conectados
 
@@ -112,10 +116,8 @@ Junto a las familias clásicas, la base de conocimiento documenta teorías escri
 ## Artículos conectados
 - [[yan-agentivism-learning-theory-ai-2026]] — Una teoría del aprendizaje de alcance medio para la interacción humano-IA, con cuatro mecanismos y seis proposiciones contrastables (Yan y Gašević 2026)
 
-- [[powerful-learning-with-emerging-technology-2025]] — Tres principios de diseño para la tecnología emergente: basada en la evidencia, centrada en quien aprende y generadora de habilidades
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Sobre-generalización engañosa: el dominio adaptativo puede detener la práctica antes de que quien aprende sepa cuándo abstenerse de actuar (An, McLaren y Stamper 2026)
 - [[airis-hybrid-human-ai-cognition-2026]] — Indagación y regulación aumentadas por IA en sistemas híbridos (AIRIS)
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fomentar el aprendizaje sostenible mediante la inteligencia corporeizada (E3-HOT)
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[ai-cognitive-partner-co-regulation-learning]] — Sitúa la IA como pareja cognitiva en la corregulación humano-IA; marco evolutivo a lo largo de la vida
 - [[ensemble-cognition-philosophy-ai-education]] — Cognición en conjunto: un marco filosófico que reconceptualiza el pensamiento como interacción humano-IA
@@ -123,13 +125,9 @@ Junto a las familias clásicas, la base de conocimiento documenta teorías escri
 - [[generativism-learning-theory]] — Propone una nueva teoría del aprendizaje para la era de la IA generativa, revisando las cuatro clásicas
 - [[ai-vocational-education-training-review]] — Documentó la brecha teoría-práctica entre constructivismo y conductismo en la IA para la formación profesional
 - [[genai-educational-outcomes-meta-analysis]]
-- [[vargas-situated-learning-ai-review-2024]]
-- [[raffaghelli-situated-ai-ethics-2026]]
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[videla-embodied-ai-education-choreography]]
 - [[generative-ai-mediational-agent-sociocultural-2026]] — La IA generativa como agente mediacional
-- [[strydom-human-gai-paradigms-2026]] — Enmarcar la dinámica humano-IA: siete paradigmas de implicación con la IA generativa (Strydom 2026)
 - [[kim-ai-productive-failure-adult-2026]] — Diseñar sistemas de IA para apoyar el aprendizaje basado en el fracaso productivo
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Dirección pedagógica de los LLM para el fracaso productivo
 - [[lukesova-clue-before-correction-2026]] — Pista antes de la corrección: ChatGPT para el aprendizaje autónomo de idiomas

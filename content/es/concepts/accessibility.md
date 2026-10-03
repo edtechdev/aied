@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack]
 title: Accesibilidad
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-09-28T19:10:33-04:00"
+updated: "2026-10-02T21:33:38-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,8 @@ Un vídeo con subtítulos precisos y una transcripción correctamente etiquetada
 
 **Los límites de la accesibilidad por sí sola.** El **[[genai-minoritized-knowledges-disability|trabajo crítico]]** advierte de que la IA entrenada con datos anglófonos y centrados en Occidente puede marginar formas de conocer centradas en la discapacidad. Los formatos accesibles no garantizan una instrucción inclusiva o justa, lo que refuerza que la accesibilidad es necesaria pero no suficiente y debe conectarse con la [[equity-in-ai-education|equidad en la educación con IA]].
 
+**Dominan las herramientas centradas en las adaptaciones y condicionadas por el diagnóstico.** Una revisión de alcance de 40 estudios sobre tecnologías digitales de asistencia para estudiantes neurodivergentes encontró que 28 exigían un diagnóstico formal como condición de participación y que solo tres trabajaban con pares neurotípicos en lugar de con el estudiante, a la vez que informaba de efectos de inversión —sobrecarga cognitiva, fatiga, distracción y dependencia excesiva de la IA generativa—.([[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]])
+
 ## Implicaciones para la práctica
 
 - **Priorice primero la barrera del formato.** Los subtítulos, las transcripciones, el texto alternativo, el contraste y la operabilidad con teclado son la capa que controla el acceso: sin ellos, nada más importa para quienes los necesitan.
@@ -86,8 +88,6 @@ Un vídeo con subtítulos precisos y una transcripción correctamente etiquetada
 - [[legal-issues-and-risks]] — la página paraguas sobre reglas demasiado amplias, evidencia defectuosa y ajuste razonable
 - [[arts-design-and-media-education]]
 ## Artículos conectados
-- [[powerful-learning-with-emerging-technology-2025]] — La accesibilidad como requisito centrado en quien aprende
-- [[seung-basham-cognitive-offloading-swld-2026]] — Descarga cognitiva con IA generativa para estudiantes con dificultades de aprendizaje
 - [[shin-ai-policies-sld-2026]] — Políticas de IA y adaptaciones para estudiantes con dificultades específicas de aprendizaje
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Metaanálisis de intervenciones con IA para estudiantes con discapacidad
 - [[adhd-video-segmentation-computing-education]] — Vídeos segmentados con IA y pausas fijas
@@ -99,6 +99,5 @@ Un vídeo con subtítulos precisos y una transcripción correctamente etiquetada
 - [[genai-minoritized-knowledges-disability]] — Perspectiva crítica sobre la IA y el conocimiento centrado en la discapacidad
 - [[gemini-lualatex-physics-video-transcription-2026]] — Transcripción de vídeos de física accesible en matemáticas con Gemini+LuaLaTeX
 - [[khlaif-assistive-genai-visually-impaired-2026]] — IA generativa de asistencia para estudiantes con discapacidad visual
-- [[dabaghi-ai-dyslexia-education-review-2026]] — La IA para ayudar a las personas con dislexia en la educación
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidad virtual y más allá: una revisión de alcance de las tecnologías digitales de asistencia para estudiantes neurodivergentes en la educación superior
 - [[wright-transcription-not-generation-2026]] — Transcribir no es generar: prohibiciones de IA demasiado amplias y las herramientas de asistencia que capturan

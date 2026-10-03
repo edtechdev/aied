@@ -1,7 +1,7 @@
 ---
 title: Ideas erróneas sobre la IA
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-09-28T19:11:07-04:00"
+updated: "2026-10-02T21:36:16-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-09-30T16:25:27-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,7 @@ Una idea errónea aquí no es mera ignorancia sobre cómo funciona un modelo, si
 ### Ideas erróneas comunes en contextos académicos
 
 - **La falacia de autoridad** — tratar la salida de un [[llm|LLM]] como un hecho verificado en lugar de una compleción probabilística. Impulsa la aceptación acrítica y el patrón de buscar respuestas en lugar de comprender que documenta la investigación sobre [[intelligent-tutoring|tutoría con IA]], donde quienes aprenden aceptan la respuesta de un modelo sin contrastarla con el [[hallucination-risk|riesgo de alucinación]].
+- **La ilusión de la comprobación independiente** — tratar la retroalimentación de la IA como una corrección externa cuando el modelo refleja tu propio razonamiento. La exactitud de partida de quienes usaban el sistema fue el predictor dominante del desempeño final, y una consigna específica contra la sicofancia recortó la imitación posicional (OR = 0.26) pero dejó intacta la propagación del error, así que el entrenamiento de quien aprende no es la salvaguarda ([[contextual-sycophancy-ai-literacy|Koyuturk et al. (2026)]]).
 - **Aprender equivale al producto** — creer que producir un trabajo *con* IA es lo mismo que haberlo aprendido. Es exactamente el error que hay detrás de la [[cognitive-offloading|dependencia excesiva]]: los procesos de redacción, recuperación y revisión que construyen un conocimiento duradero se externalizan.
 - **La ilusión de neutralidad** — dar por supuesto que la IA es objetiva y carece de sesgos. El estudiantado suele pasar por alto que los modelos codifican sesgos de los datos de entrenamiento y que, en contextos de [[writing-education|enseñanza de la escritura]], esto produce una homogeneización de las ideas en toda una cohorte.
 - **La zona gris de la integridad** — juzgar mal si el [[academic-integrity|uso de la IA es aceptable]]. Parte del estudiantado ve la salida de la IA como «no copiar a una persona» y por tanto admisible; otra parte se corrige en exceso y cree que *cualquier* uso es hacer trampas. La incoherencia [[governance|institucional]] alimenta ambos errores.
@@ -112,6 +113,7 @@ Estas refutaciones están escritas deliberadamente en la forma del [[refutation-
 
 ## Conceptos conectados
 
+- [[pedagogical-patterns]] — Las secuencias de cambio conceptual que confrontan una creencia sostenida concreta
 - [[learners]] — Quienes aprenden: el concepto paraguas de los conceptos del lado de quien aprende
 - [[ai-literacy]]
 - [[trust-calibration]]
@@ -129,18 +131,14 @@ Estas refutaciones están escritas deliberadamente en la forma del [[refutation-
 - [[trust]]
 
 ## Artículos conectados
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Sobregeneralización engañosa: el dominio adaptativo puede detener la práctica antes de que quienes aprenden sepan cuándo deben abstenerse de actuar (An, McLaren y Stamper 2026)
 - [[rudolph-ai-myths-critical-higher-ed]] — No se lo crea todo: ocho mitos sobre la IA y la necesidad de un enfoque crítico en la educación superior
-- [[drawedumath-vlm-struggling-students-2026]] — Los VLM diagnostican mal los errores matemáticos del estudiantado (DrawEduMath, Lucy et al. 2026)
 - [[student-rationalization-ai-writing]] — La racionalización del estudiantado sobre la escritura con IA
 - [[genai-skill-bypass-literacy]] — Elusión de habilidades con IA generativa y alfabetización
 - [[trust-reliance-ai-education-2026]] — Confianza y dependencia en la educación con IA
 - [[contextual-sycophancy-ai-literacy]] — Sicofancia contextual y alfabetización en IA
 - [[sycophantic-ai-social-interaction-2026]] — La IA sicofántica en la interacción social
 - [[llm-fallacy-misattribution]] — Atribución errónea de falacias de los LLM (Kim et al.)
-- [[generative-ai-guardrails-harm-learning]] — La IA generativa sin barreras de protección puede dañar el aprendizaje
 - [[student-reception-genai-analogies-computing-2026]] — Defectuosas pero memorables: recepción crítica del estudiantado de las analogías de IA generativa personalizadas por interés en la enseñanza de la informática
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: explicaciones fluidas y con autoridad que son erróneas en lo conceptual y no en lo factual (Miličević et al. 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Las instrucciones ocultas en un archivo entregado pueden subir una nota calificada por IA sin ninguna advertencia visible (Humble 2026)
 - [[children-ai-safety-misconceptions-2026]] — Ideas erróneas de la infancia sobre la seguridad de la IA: la amistad con un robot malinterpretada como garantía de privacidad (Leisten et al. 2026)
-- [[mental-health-literacy-students-llms-2026]] — Alfabetización en salud mental en estudiantes de psicología y en modelos de lenguaje grandes

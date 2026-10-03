@@ -1,7 +1,7 @@
 ---
 title: Fracaso productivo
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-09-28T20:10:47-04:00"
+updated: "2026-10-02T21:28:30-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-30T16:25:27-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -92,6 +92,7 @@ El fracaso productivo conecta con [[learning-theories|las teorías del aprendiza
 
 ## Conceptos conectados
 
+- [[pedagogical-patterns]] — El intento antes de la instrucción como secuencia completa, con su escasa base de evidencia
 - [[constructivist]]
 - [[learning-theories]]
 - [[desirable-difficulties]]
@@ -113,15 +114,10 @@ El fracaso productivo conecta con [[learning-theories|las teorías del aprendiza
 
 ## Artículos conectados
 
-- [[powerful-learning-with-emerging-technology-2025]] — Diseñar para el esfuerzo productivo en la tecnología educativa
 - [[kim-ai-productive-failure-adult-2026]] — Diseñar sistemas de IA para apoyar el aprendizaje basado en el fracaso productivo
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Orientación pedagógica de los LLM para el fracaso productivo
 - [[rhaimi-productivemath-2025]] — ProductiveMath: IA para apoyar el diseño de problemas de FP
 - [[wang-safety-gap-productive-struggle-2026]] — La brecha de seguridad: recuperar el esfuerzo productivo
 - [[lukesova-clue-before-correction-2026]] — Pista antes de la corrección: ChatGPT para el aprendizaje autónomo
 - [[pedagogy-ai-mistakes]] — La pedagogía de los errores de la IA
-- [[finkelstein-principled-ai-education-2025]] — IA fundamentada en la educación
-- [[crewscaler-ai-upskilling-framework]] — Marco de recualificación con IA (el fracaso productivo como protocolo de tutoría)
 
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — El andamiaje adaptativo necesita contingencia: un tutor de IA que escala y se desvanece según lo que hace quien aprende
-- [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus deberes. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en informática en la era de la IA generativa

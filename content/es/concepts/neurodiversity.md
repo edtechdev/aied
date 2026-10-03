@@ -1,7 +1,7 @@
 ---
 title: Neurodiversidad
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-09-28T20:10:38-04:00"
+updated: "2026-10-02T21:28:30-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-09-22T09:52:55-04:00"
+source_updated: "2026-09-30T08:05:25-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -106,4 +106,3 @@ La neurodiversidad conecta con la [[special-education|educación especial]], el 
 - [[genai-minoritized-knowledges-disability]] — La IA generativa y la marginación de los conocimientos minorizados
 - [[tactile-statistical-graphs-accessibility]] — Gráficos estadísticos táctiles para la accesibilidad
 - [[ai-learning-tools-engineering-education-needs]] — Diseñar herramientas de aprendizaje con IA conscientes de las necesidades y la atención
-- [[adapted-stories-social-story-intervention-2026]] — Intervención con historias sociales asistida por IA para la educación especial: el diseño de AdaptED Stories

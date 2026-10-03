@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Mitigación de sesgos
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-09-28T19:11:29-04:00"
+updated: "2026-10-02T21:25:27-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-09-25T09:57:33-04:00"
+source_updated: "2026-10-01T09:59:06-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -50,7 +50,10 @@ La investigación recogida en esta base de conocimiento documenta sesgos que ent
 - **Conocimientos marginados:** [[genai-minoritized-knowledges-disability|IA generativa y conocimientos minorizados]] documenta cómo los datos de entrenamiento y el comportamiento del modelo marginan los sistemas de conocimiento no dominantes y las perspectivas sobre la discapacidad.
 - **Comentarios automatizados alineados con estereotipos ([[pedagogy|pedagogías]] marcadas):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] muestran que cuatro LLM ampliamente usados desplazan sistemáticamente sus comentarios de escritura en direcciones alineadas con los estereotipos cuando los comentarios se personalizan con atributos del estudiantado —raza, etnia, designación de aprendiz de inglés (ELL), discapacidad de aprendizaje, rendimiento o motivación—, produciendo un sesgo de comentarios positivos y un sesgo de retención de comentarios (abuso del elogio, crítica menos sustantiva, supuestos de capacidad limitada) con el estudiantado marcado, incluso ante ensayos idénticos. La métrica de concentración «Marked Words» ofrece un método concreto para auditar ese sesgo en los comentarios automatizados.
 - **Sesgo visual en las herramientas de texto a imagen:** [[bias-representation-text-to-image-education-2026|Alon, Hadar Shoval y Levkovich (2026)]] [[meta-analysis-systematic-review|revisan sistemáticamente]] 31 estudios revisados por pares (2023–2025) sobre sesgo y representación en los usos educativos del texto a imagen generado por IA. Usando un marco analítico de seis partes (género; raza, etnia y nivel socioeconómico; cultura y religión; edad; cuerpo y (dis)capacidad; contenido), encuentran una representación sesgada omnipresente: las imágenes con frecuencia se centraban en figuras blancas, masculinas, occidentales, delgadas y sin discapacidad, mientras que la diversidad relacionada con la edad, el cuerpo y la capacidad se pasaba en gran medida por alto. La mayoría de los estudios se apoyaban en auditorías de imágenes y métodos [[qualitative-research|cualitativos]], con pocos diseños experimentales o basados en intervenciones, lo que revela puntos ciegos importantes en cómo la investigación educativa mide y responde al sesgo visual.
+- **Las señales de identidad de los avatares reproducen sesgos del mundo offline.** En dos experimentos (N = 396), los avatares blancos —y, en contextos STEM, los avatares masculinos asiáticos— se valoraron como más creíbles y competentes, mientras que los avatares de mujeres negras de más edad se penalizaron; las tareas STEM y procedimentales amplificaron el sesgo y las tareas reflexivas e interpersonales lo atenuaron ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis y Kyriakidou-Zacharoudiou (2026)]]).
 - **La no discriminación como valor ético central.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], una [[meta-analysis-systematic-review|revisión sistemática]] de 25 artículos, identifican la no discriminación (definiciones que usan sesgo/discriminación/diversidad) como uno de los seis valores éticos principales para la [[ai-education|IA en la educación]], junto con la custodia de datos, la supervisión humana, la buena voluntad, la explicabilidad y la idoneidad educativa. La revisión señala que los valores están estrechamente acoplados y pueden entrar en conflicto —por ejemplo, la no discriminación frente a la custodia de datos—, produciendo dilemas éticos, y que ninguna norma sobre la no discriminación se dirige directamente a las personas usuarias finales, lo que deja al estudiantado en un papel en gran medida pasivo en la literatura ética.
+
+- **Sesgo de asignación en la formación de equipos asistida por IA.** [[genai-social-bias-software-engineering-education-2026|Entezami et al. (2026)]] muestran el sesgo entrando en una clase de tareas fuera de la calificación y la retroalimentación: tres LLM que asignaban clases de ingeniería de software de 28 estudiantes a cuatro equipos dirigieron a los hombres al Diseño de Interfaces en lugar del Desarrollo Central al menos un 80% menos a menudo que a las mujeres (GPT-5.2 OR < 0.01), y la nacionalidad alteró las asignaciones con independencia del mérito. Suministrar las habilidades lo redujo pero no lo eliminó - el 99.2% de las asignaciones basadas en habilidades coincidió con uno de dos equipos de referencia, pero el género siguió decidiendo entre opciones igualmente válidas (OR 2.53 GPT-4.1, 2.81 GPT-5.2, 1.43 DeepSeek) - y la generación de imágenes en paralelo sesgó las imágenes de una sola persona hacia hombres y piel clara (género V = 0.64 y 0.65; tono de piel V = 0.57 y 0.61) mientras que las imágenes con varias personas se mantuvieron comparativamente equilibradas.
 
 ## Enfoques de mitigación
 
@@ -59,9 +62,12 @@ La investigación recogida en esta base de conocimiento ilustra varias estrategi
 - **Modelado consciente de la equidad:** [[fair-explainable-edu-recommendations|El marco híbrido HKG-GRU]] integra la **optimización de robustez distribucional por grupos (GroupDRO)** para la equidad junto con la explicabilidad y la estabilidad contrafactual, evaluado con registros de Moodle (152 estudiantes, ~150.000 interacciones). Demuestra que los sistemas de recomendación pueden entrenarse para ser justos y transparentes, no solo precisos.
 - **Estimadores desesgados:** [[temporal-smoothness-debiased-kt|El aprendizaje doblemente robusto con suavidad temporal (TSDR)]] combina un modelo de propensión con un modelo de imputación del error, conservando la insesgadez si cualquiera de los dos es correcto, para eliminar el sesgo de selección de las estimaciones de dominio del seguimiento del conocimiento.
 - **Mitigación a nivel de prompt:** [[gender-bias-transfer-llm-writing|el estudio sobre el sesgo de género]] muestra que un prompt neutro evita en gran medida inducir un lenguaje diferenciado por género, de modo que el diseño del prompt es una palanca de mitigación práctica.
+- **Entrenamiento invariante al dialecto:** [[nspa-neuro-symbolic-pedagogical-alignment-2026|Fang y Liu (2026)]] muestran que entrenar la invariancia al dialecto supera a parchearla: eliminar el término contrastivo de transferencia de estilo casi triplicó la tasa de volteo contrafactual (4.3% a 11.8%) y amplió diez puntos la brecha de falsos negativos en dialectos no estándar, a un costo de solo 0.8 de Macro-F1 y reduciendo en 18.4 puntos los falsos negativos de inglés afroamericano vernáculo.
 - **Calificación validada e independiente del idioma:** abordar el [[ai-scoring-language-bias-physics|sesgo de calificación]] exige una calificación que separe la comprensión conceptual de la calidad lingüística, y auditar las puntuaciones en busca de sesgo lingüístico.
 - **Explicabilidad:** la [[xai-education-framework|IA explicable en la educación]] aporta transparencia sobre por qué un sistema produjo una determinada puntuación o recomendación, lo que permite detectar y corregir comportamientos sesgados y sostiene la [[trust|confianza]].
 - **Auditoría de toda la canalización:** [[antiskillbench-persona-skills-privacy-2026|la auditoría de habilidades de persona]] y auditorías sistemáticas como el estudio del filtro paternalista muestran el valor de auditar los modelos en distintas condiciones identitarias antes del despliegue.
+- **La medición de la equidad está en gran medida ausente donde el análisis escala.** Una revisión de alcance PRISMA-ScR de 421 estudios que aplican PLN a la evaluación del estudiantado sobre la docencia encontró una métrica de equidad formal en solo 8 estudios (1.9%) y riesgo de uso institucional en 18, mientras que las limitaciones del estudio aparecían en el 70.5% y las protecciones de privacidad en el 42.3%; los autores leen la coexistencia como que la adopción de [[llm|LLM]] amplió el repertorio técnico sin ganancias proporcionales en validación ni en reporte de uso responsable ([[nlp-student-evaluation-teaching-scoping-review-2026|Eicher y da Silva (2026)]]).
+- **El tamaño del grupo no es un indicador de desventaja:** dos de seis métodos de equidad post hoc dirigieron correcciones a grupos ya aventajados porque usaban el tamaño del grupo para definir la desventaja; reasignar la desventaja por la disparidad observada redirigió un método pero dejó al otro volteando cero predicciones — un límite a lo que puede reclamar la mitigación post hoc ([[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]]).
 
 ## La mitigación a lo largo de la canalización de la IA
 
@@ -109,9 +115,6 @@ La mitigación de sesgos es el mecanismo técnico a través del cual se operacio
 - [[recommender-systems-and-learning-paths]]
 ## Artículos conectados
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[zhan-chapman-genai-cs-education-2026]]
-- [[ai-online-education-engagement-satisfaction-2026]]
-- [[prompt-privilege-equitable-ai-access-2026]] — Privilegio del prompt: medir y mitigar las disparidades de accesibilidad en el acceso a los LLM
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Alineamiento pedagógico neuro-simbólico (NSPA)
 - [[ai-scoring-language-bias-physics]] — Sesgo lingüístico en la calificación basada en IA
 - [[gender-bias-transfer-llm-writing]] — Transferencia de sesgo de género en la escritura asistida por LLM
@@ -123,12 +126,11 @@ La mitigación de sesgos es el mecanismo técnico a través del cual se operacio
 - [[xai-education-framework]] — IA explicable en la educación
 - [[antiskillbench-persona-skills-privacy-2026]] — Privacidad y auditoría de sesgos de habilidades de persona
 - [[genai-minoritized-knowledges-disability]] — La IA generativa y la marginación de los conocimientos minorizados
-- [[genai-higher-education-systematic-review-2026]] — IA generativa en la educación superior: revisión sistemática
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Pedagogías marcadas: sesgos alineados con estereotipos en los comentarios automatizados de escritura
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — ¿Puede la IA ofrecer un apoyo adecuado a perfiles diversos de estudiantado? Una evaluación a gran escala
 - [[bias-representation-text-to-image-education-2026]] — Sesgo y representación en el texto a imagen generado por IA: revisión sistemática (Alon et al. 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Valores y normas éticas para la IA en la educación
-- [[llm-grade-bands-calibration-bias-2026]] — ¿Pueden los grandes modelos de lenguaje reproducir las bandas de calificación de la educación superior? Estudio transmodelo de calibración y sesgo de calificación en escritura auténtica del estudiantado
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — De la clasificación de sentimiento a los comentarios accionables y responsables: revisión de alcance y mapa de evidencia sobre el PLN en la evaluación del estudiantado sobre la docencia, 2015–2026
 
 - [[genai-social-bias-software-engineering-education-2026]] — La IA generativa puede reforzar los sesgos sociales en la enseñanza de la ingeniería de software
+- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: evaluación de las intervenciones de equidad post hoc en sistemas de alerta temprana controlados por proveedores

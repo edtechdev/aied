@@ -1,13 +1,13 @@
 ---
 title: Tecnologías
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-09-28T20:12:29-04:00"
+updated: "2026-10-02T21:24:48-04:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-09-22T03:05:00-04:00"
+source_updated: "2026-10-02T07:32:07-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,8 @@ ai_assist:
 - **Generación aumentada por recuperación (RAG).** La [[rag|RAG]] fundamenta la salida del LLM en conocimiento recuperado, lo que reduce las alucinaciones y mejora la precisión: una técnica central para un despliegue educativo [[pedagogical-safety|seguro]].
 - **Aprendizaje por refuerzo.** El [[reinforcement-learning|aprendizaje por refuerzo]] entrena agentes para optimizar su comportamiento a lo largo del tiempo; se usa en [[adaptive-learning|sistemas adaptativos]] y en el [[game-based-learning|aprendizaje basado en juegos]].
 - **Orquestación agéntica.** Los sistemas de [[agentic-ai|IA agéntica]] planifican y ejecutan flujos de trabajo de varios pasos, a menudo orquestando varios agentes especializados (véanse los [[agentic-ai|sistemas multiagente]]), y están reconfigurando la IA de herramienta que responde a prompts en colaboradora proactiva.
-- **Entrenamiento y adaptación de modelos.** El [[llm-training-and-fine-tuning|entrenamiento y ajuste fino de LLM para la pedagogía]], la [[educational-llm-alignment|alineación educativa]] y la [[cstutorbench-slm-tutors|adaptación de modelos de lenguaje pequeños]] hacen que los modelos generales sean específicos para la educación.
+- **La pila de agentes educativos va por detrás de la frontera.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] mapearon 474 estudios y encontraron que los modelos de la serie GPT y LangChain dominaban, mientras que la orquestación de herramientas gobernada, la memoria persistente y la planificación a largo plazo estaban en gran medida ausentes, y solo 138 de 474 (29%) se apoyaban en teoría educativa.
+- **Entrenamiento y adaptación de modelos.** El [[llm-training-and-fine-tuning|entrenamiento y ajuste fino de LLM para la pedagogía]], la [[educational-llm-alignment|alineación educativa]] y la [[cstutorbench-slm-tutors|adaptación de modelos de lenguaje pequeños]] hacen que los modelos generales sean específicos para la educación, aunque la evidencia de la base de conocimiento sitúa la [[rag|recuperación]] y la [[prompt-engineering|ingeniería de prompts]] por delante del entrenamiento en el orden de decisión, ya que un prompt bien fundamentado es más barato que un modelo adaptado.
 
 ## Cómo se conecta la capa técnica con el campo
 
@@ -89,7 +90,6 @@ La vertiente técnica es inseparable de los demás temas de la base de conocimie
 
 ## Artículos conectados
 
-- [[typology-generative-ai-tools-education-2026]] — Tipología de herramientas de IA generativa para la educación
 - [[agentic-ai-education-scoping-review]] — Revisión de alcance de la IA agéntica en la educación
 - [[genai-meta-analysis-programming-learning]] — Metaanálisis del efecto de la IA generativa en la productividad y el aprendizaje de la programación
 - [[cstutorbench-slm-tutors]] — Puntos de referencia de tutoría con modelos de lenguaje pequeños
@@ -97,8 +97,5 @@ La vertiente técnica es inseparable de los demás temas de la base de conocimie
 - [[eduguard-safe-rag-llm-tutor]] — Poner barreras de seguridad a los tutores LLM basados en RAG
 - [[hazra-safetutors-pedagogical-safety-2026]] — Seguridad y daños de los tutores de IA
 - [[elbench-education-llm-benchmark-2026]] — Punto de referencia de LLM educativos
-- [[knowledge-based-design-generative-social-robots-2026]] — Diseño basado en conocimiento para robots sociales generativos
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — El robot social generativo Teachy Mini
-- [[white-wu-robotics-ai-education-2026]] — Robótica e IA en la educación
 - [[benzion-ai-physics-simulations-virtual-lab]] — Simulaciones de física generadas por LLM para el aula
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Factores en la adopción de herramientas de IA

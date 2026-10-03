@@ -2,14 +2,14 @@
 connected_resources: [vibes-diy]
 title: Constructivismo
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-09-28T21:03:34-04:00"
+updated: "2026-10-02T21:20:37-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-09-17T02:26:00-04:00"
+source_updated: "2026-09-30T10:54:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,7 @@ El constructivismo es una familia de teorías más que una doctrina única, pero
 - **Los conocimientos previos moldean el aprendizaje nuevo.** Las ideas nuevas se interpretan a través de los modelos mentales que ya tiene quien aprende, así que la instrucción debe sacar a la luz y aprovechar lo que ya sabe: un principio directamente relevante para las [[misconceptions|ideas erróneas]] y para los tutores de IA que se adaptan a quien aprende.
 - **La interacción social sostiene la construcción.** Una corriente importante —el constructivismo social— sostiene que el significado se coconstruye mediante el diálogo, la colaboración y la actividad culturalmente [[situated-learning|situada]]. Esto conecta el constructivismo con el [[collaborative-learning|aprendizaje colaborativo]] y con enfoques de [[socratic-method|método socrático]] en los que la IA pregunta en lugar de dictar.([[ai-agents-constructive-conflict-design-education-2026]])
 - **La construcción es visible en la actividad.** Quien aprende revela (y consolida) su comprensión generando, explicando y produciendo, y por eso el [[icap-framework|marco ICAP]] sitúa la [[student-engagement|implicación]] «constructiva» e «interactiva» por encima de los modos «activo» y «pasivo».([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
+Un límite de la teoría es que el constructivismo presupone una agencia epistémica centrada en lo humano, lo que le impide dar cuenta de una IA que simula el razonamiento y coconstruye significado; el complemento propuesto es la coagencia epistémica, en la que quien aprende trata la salida de la IA como discutible y conserva la soberanía epistémica sobre lo que cuenta como conocimiento ([[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Samuel (2026)]])).
 
 ## El construccionismo
 
@@ -64,7 +65,7 @@ El construccionismo es, por tanto, a la vez una teoría del aprendizaje y una cr
 
 Una IA bien diseñada puede hacer posible la construcción a escala. Los sistemas de [[intelligent-tutoring|tutoría inteligente]] y de [[intelligent-tutoring|tutoría con IA]] pueden plantear problemas y guiar la [[help-seeking|búsqueda de ayuda]] en lugar de regalar las respuestas; los entornos de [[simulation|simulación]] y de [[game-based-learning|aprendizaje basado en juegos]] permiten a quien aprende construir y poner a prueba modelos mentales; y las actividades de [[project-based-learning|aprendizaje basado en proyectos]] y de [[experiential-learning|aprendizaje experiencial]] apoyadas por IA dan a quien aprende tareas de construcción auténticas. El patrón de diseño central es el **[[scaffolding|andamiaje]]** —un apoyo calibrado que se desvanece a medida que crece la competencia— y no la resolución por parte de la IA.([[conversational-ai-tutors-framework]])([[embodied-inquiry-ai-facilitator-physics-2026]])
 
-Clasificar *las preguntas que hace quien aprende* es una forma de ver la construcción en acción y de actuar sobre ella. [[lee-learner-question-types-ai-education-2026|Lee, Atif y Kang (2026)]] clasifican 434 preguntas auténticas de 11 estudiantes de informática de 12 asignaturas en tres roles didácticos constructivistas —transmisor de conocimiento, facilitador y coprendiz— y entrenan cuatro transformers para reconocerlos. DeBERTa clasificó las preguntas factuales de transmisor de conocimiento con una precisión del 96,67%, pero las de facilitador solo con un 78,79%, y todos los modelos confundieron con más frecuencia los dos roles de orden superior: detectar la indagación dialógica y exploratoria es mucho más difícil que detectar la búsqueda de información. Como la tipología trata las preguntas como evidencia diagnóstica de implicación epistémica y no como meros insumos, respalda un movimiento de diseño marcadamente constructivista: cuando quien aprende solo hace preguntas factuales de forma repetida, el sistema puede incitar a un cuestionamiento reflexivo y exploratorio que desarrolle la [[metacognition|metacognición]] y la indagación crítica, en lugar de responder con la profundidad que implique la pregunta.
+Clasificar *las preguntas que hace quien aprende* es una forma de ver la construcción en acción y de actuar sobre ella. [[lee-learner-question-types-ai-education-2026|Lee, Atif y Kang (2026)]] clasifican 434 preguntas auténticas de 11 estudiantes de informática de 12 asignaturas en tres roles didácticos constructivistas —transmisor de conocimiento, facilitador y coprendiz— y entrenan cuatro transformers para reconocerlos. DeBERTa clasificó las preguntas factuales de transmisor de conocimiento con una precisión del 96.67%, pero las de facilitador solo con un 78.79%, y todos los modelos confundieron con más frecuencia los dos roles de orden superior: detectar la indagación dialógica y exploratoria es mucho más difícil que detectar la búsqueda de información. Como la tipología trata las preguntas como evidencia diagnóstica de implicación epistémica y no como meros insumos, respalda un movimiento de diseño marcadamente constructivista: cuando quien aprende solo hace preguntas factuales de forma repetida, el sistema puede incitar a un cuestionamiento reflexivo y exploratorio que desarrolle la [[metacognition|metacognición]] y la indagación crítica, en lugar de responder con la profundidad que implique la pregunta.
 
 ### El riesgo del «constructivismo de nombre, conductismo de hecho»
 
@@ -91,8 +92,12 @@ Esto refleja la jerarquía del [[icap-framework|ICAP]] —la implicación constr
 - **La negativa generativa** — herramientas de IA que retienen estratégicamente el texto generado y plantean preguntas en su lugar, devolviendo al usuario la [[desirable-difficulties|fricción cognitiva]] para que el propio trabajo de articulación construya comprensión.([[generative-refusal-ai-tools-for-thought]])
 - **Herramientas de pensamiento en lugar de máquinas de respuestas** — usar la IA generativa como una [[genai-mindtool-generative-learning|herramienta de pensamiento]] que dirige quien aprende, en lugar de una herramienta que lo sustituye.([[genai-mindtool-generative-learning]])
 - **Conflicto constructivo** — agentes de IA adversarios que cuestionan el diseño o el razonamiento de quien aprende e incitan a reconsiderarlos y a construir alternativas más profundas, en la tradición de la tutoría socrática.([[ai-agents-constructive-conflict-design-education-2026]])
+
+- **La oposición simulada no es oposición.** Una contrapostura que puede formularse a demanda pero nunca se resiste ensaya la coreografía del diálogo mientras retiene lo que lo hace potente: no tiene corporalidad, interés ni exposición a consecuencias, así que, a diferencia de un otro humano, no ofrece ninguna vía de reparación ([[synthetic-position-self-authorship-2026|Du et al. (2026)]])).
+
 - **Retroalimentación interna mediante la comparación** — hacer que quien aprende compare su propio trabajo con ejemplos generados por IA, de modo que el propio acto de comparar genere aprendizaje.([[ai-internal-feedback-evaluative-judgments]])
 - **Prompting consciente del tipo de pregunta** — clasificar las preguntas de quien aprende en roles constructivistas para que el sistema pueda escalar deliberadamente al estudiante desde la búsqueda de información hacia una indagación exploratoria y dialógica, en lugar de reflejar la profundidad cognitiva que implique la pregunta. Como la intención de facilitador y de coprendiz sigue siendo confundible para los clasificadores automáticos, este diseño mantiene a una persona validando la categorización antes de que esta impulse la [[feedback|retroalimentación]] o el [[scaffolding|andamiaje]].([[lee-learner-question-types-ai-education-2026]])
+- **La comunidad como estándar evaluativo** — quien aprende diseña algo real para su comunidad usando la IA como recurso de diseño, mientras que el conocimiento y los profesionales de la comunidad sirven de estándar que juzga el resultado, dejando espacio para la limitación, la negativa o el no uso estratégico cuando la implicación crítica lo exige.([[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles y Peppler (2026)]])
 
 ## El constructivismo y la «educación sobre la IA»
 
@@ -134,8 +139,6 @@ El constructivismo también moldea cómo se enseña la propia alfabetización en
 - [[mishra-control-vs-agency-history-2025]] — Sitúa el construccionismo (Papert) frente a los tutores cognitivos en la historia de la AIED
 - [[code-to-learn-genai-artifact-construction-2026]] — Code-to-Learn con IA generativa: marco construccionista para la construcción de artefactos
 - [[ai-writes-code-student-writes-model-2026]] — Autoría de modelos: teoría y programa de medición para aprender construyendo con IA generativa
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Reescribir el currículo: cambio pedagógico impulsado por la IA generativa
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fomentar el aprendizaje sostenible mediante la inteligencia corporeizada (E3-HOT)
 - [[ai-vocational-education-training-review]] — Constructivismo declarado pero IA conductista dominante en la EFP; la «trampa de Turing»
 - [[generative-refusal-ai-tools-for-thought]] — Herramientas de IA que retienen la generación para proteger el pensamiento constructivo
 - [[genai-mindtool-generative-learning]] — La IA generativa como herramienta de pensamiento que apoya la construcción de quien aprende
@@ -147,17 +150,10 @@ El constructivismo también moldea cómo se enseña la propia alfabetización en
 - [[embodied-inquiry-ai-facilitator-physics-2026]] — Indagación corporeizada con un facilitador de IA
 - [[beyond-detection-authentic-assessment-ai-2025]] — Evaluación auténtica y construcción de conocimiento
 - [[teacher-ai-teaming-five-levels]] — Niveles de colaboración entre profesorado e IA en el diseño
-- [[ccct-cooperative-learning-technique]] — Aprendizaje cooperativo enmarcado en teorías constructivistas
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Coagencia epistémica entre quien aprende y la máquina
-- [[ensemble-cognition-philosophy-ai-education]]
-- [[vargas-situated-learning-ai-review-2024]]
-- [[li-ai-science-situated-learning-teachers-2025]]
 - [[ojeda-ramirez-community-based-ai-learning]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — La IA generativa como agente mediacional
-- [[context-based-ai-secondary-chemistry-2026]] — Instrucción 7E contextualizada con IA en química de secundaria
 - [[educational-robotics-pathways-2026]] — Caminos hacia el aprendizaje de la robótica educativa impulsada por IA (2026)
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: agente generativo que simula la evolución cognitiva del estudiantado
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — Integración de la IA generativa en la educación superior de Bangladés desde el constructivismo (Alam et al. 2026)
+- [[synthetic-position-self-authorship-2026]] — Las contraposiciones simuladas de la IA ensayan la forma del diálogo pero retienen la resistencia que obliga a revisar

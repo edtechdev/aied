@@ -1,7 +1,7 @@
 ---
 title: Evaluación orientada al proceso
 created: "2026-09-28T18:15:49-04:00"
-updated: "2026-09-28T18:15:49-04:00"
+updated: "2026-10-02T21:20:37-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -18,7 +18,7 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-09-26T10:12:17-04:00"
+source_updated: "2026-10-01T10:01:10-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
 
@@ -34,7 +34,7 @@ translation_note: "Traducción automática de la página en inglés, todavía si
 
 ## Introducción
 
-La evaluación en la [[higher-ed|educación superior]] ha inferido durante mucho tiempo el pensamiento a partir del producto. Un ensayo, un informe o una respuesta de examen entregados hacían las veces del [[critical-thinking|razonamiento]] que había detrás, y la calificación trataba un artefacto bien argumentado como prueba de un proceso bien argumentado. Thapa y Lewis (2026) nombran el supuesto que rompe la IA generativa: una respuesta pulida «puede ya no representar el proceso de pensamiento de nadie», de modo que la inferencia del artefacto a la comprensión deja de ser segura. Su respuesta no es un mejor detector, sino una base de evidencia distinta. La evaluación orientada al proceso recoge evidencia de interpretación, justificación y construcción de conocimiento mientras se desarrollan, de modo que el razonamiento permanece visible cuando el resultado se puede producir a demanda.
+La evaluación en la [[higher-ed|educación superior]] ha inferido durante mucho tiempo el pensamiento a partir del producto. Un ensayo, un informe o una respuesta de examen entregados hacían las veces del [[critical-thinking|razonamiento]] que había detrás, y la calificación trataba un artefacto bien argumentado como prueba de un proceso bien argumentado. [[thapa-lewis-process-oriented-assessment-2026|Thapa y Lewis (2026)]] nombran el supuesto que rompe la IA generativa: una respuesta pulida «puede ya no representar el proceso de pensamiento de nadie», de modo que la inferencia del artefacto a la comprensión deja de ser segura. Su respuesta no es un mejor detector, sino una base de evidencia distinta. La evaluación orientada al proceso recoge evidencia de interpretación, justificación y construcción de conocimiento mientras se desarrollan, de modo que el razonamiento permanece visible cuando el resultado se puede producir a demanda.
 
 Conviene decir qué no es el concepto. No es [[authentic-assessment|evaluación auténtica]], que pregunta si una tarea refleja una práctica del mundo real que vale la pena; Thapa y Lewis mantienen los ejes separados e insisten en que una tarea auténtica con un único producto sin supervisión sigue expuesta. No es [[ai-detection|detección de IA]], que pregunta si se usó la herramienta y no cómo se tomó una decisión. Y no es [[automated-assessment|evaluación automatizada]], que se refiere a quién o qué califica: un [[eportfolio|portafolio]] por etapas calificado por una máquina puede ser orientado al proceso, y un ensayo final calificado por una persona puede no serlo. El concepto se refiere a qué evidencia se recoge, durante qué periodo y en qué condiciones se produce.
 
@@ -43,6 +43,8 @@ La idea ha pasado de ser una propuesta a ser una recomendación recurrente en to
 ## Cómo se ve la evidencia de proceso en la práctica
 
 El vocabulario de diseño más explícito proviene de Thapa y Lewis, cuyos cuatro compromisos llevan el argumento al diseño de tareas: justificación reflexiva, diseño de tareas por etapas, participación dialógica y transparencia evaluativa. En la práctica, el estudiantado explica decisiones interpretativas en lugar de presentar solo conclusiones, entrega trabajo que se desarrolla a lo largo de puntos de control, participa en intercambios [[oral-assessment|orales o dialógicos]] sobre su razonamiento y trabaja con criterios que puede aplicarse por sí mismo: el terreno de la [[feedback-literacy|alfabetización en retroalimentación]] y la [[self-assessment|autoevaluación]]. La propuesta de Boysen (2026) de prácticas de aprendizaje abierto traduce la misma lógica en un rastro de auditoría: un plan de aprendizaje compartido fijado antes de que empiece el proyecto, un plan de análisis del aprendizaje que nombra las fuentes obligatorias y las prohibidas, y borradores e historiales de versiones documentados, conservados mediante Control de cambios y versiones guardadas de los archivos, que exponen el proceso de trabajo y explican qué informó cada revisión. Lo enmarca como [[self-regulated-learning|autorregulación]] hecha visible.
+
+El canal elegido para la evidencia de proceso cambia qué puede evidenciarse: en el mismo estudio de IA generativa con 79 estudiantes, el monitoreo y la planificación de mayor profundidad fueron más comunes en las unidades de pensamiento en voz alta, mientras que la regulación de mayor profundidad lo fue en los registros de interacción, de modo que ningún registro único capta todo el proceso ([[metacognitive-processes-genai-interaction-logs-2026|Li y Liu (2026)]]). DraftTrace responde al mismo problema para la escritura integrada con IA alineando medidas de proceso a nivel de pulsación de tecla con el producto final y con los rastros de interacción con IA, y muestra que la copia y transcripción solo es identificable cuando producto y proceso se leen juntos ([[drafttrace-ai-writing-analytics-2026|Chandarana et al. (2026)]]), un ejemplo concreto de la medición de rastros conductuales que aún le falta al campo.
 
 Los relatos de profesionales y de marcos completan los artefactos. El marco LEARN de Uden y Hwang (2026), dirigido a la [[assessment|evaluación]] del [[problem-based-learning|aprendizaje basado en problemas]], pide rúbricas centradas en el proceso, justificaciones orales, entregas por etapas y rastros de razonamiento con [[ai-use-disclosure|divulgación del uso de IA]], y trata la reflexión mediante diarios de aprendizaje y protocolos de pensamiento en voz alta como el motor [[metacognition|metacognitivo]] de la secuencia. Moganadas y sus colegas (2026) convierten la evaluación transparente en el uso de IA y orientada al proceso en una de cinco proposiciones investigables, que exige documentación, verificación y justificación reflexiva en lugar de prohibición o uso de detectores. Padhy (2026) recomienda capturar el historial de revisiones, los patrones de interacción y el tiempo en la tarea, junto con una divulgación transparente. Goldstein, Marae-Haj y Zidan (2026) informan de los mismos artefactos surgidos de la práctica tras una crisis de [[trust|confianza]]: registros de prompts, historial de versiones de documentos, contribuciones grupales monitorizadas y «diarios de viaje» reflexivos llevados en cuadernos físicos, junto con el hallazgo llano de que el trabajo escrito para llevar a casa ya no podía evidenciar aprendizaje.
 
@@ -54,7 +56,7 @@ El constructo también se distingue de la cuestión de cómo se puntúa la evide
 
 ## Por qué la detección no puede cargar con esto
 
-La evaluación orientada al proceso se propone normalmente como alternativa a la detección, y la evidencia sobre la detección explica por qué. La literatura sobre la [[ai-detection|detección]] encuentra tasas de error, dependencia de la tarea y [[bias-mitigation|sesgo]] sistemático contra quienes escriben en una segunda lengua y contra las personas con discapacidad, y el trabajo más reciente llega a una conclusión procedimental: una puntuación de detector puede motivar una revisión más atenta, pero no es un hallazgo. Munoz y sus colegas (2026) muestran lo que eso cuesta en la práctica. Al codificar 1.162 acusaciones de mala conducta con IA generativa, encontraron que los tipos de evidencia más sólidos los genera la investigación o la supervisión, que la evidencia de proceso —borradores, reuniones de supervisión, presentaciones— solo aparece donde esas prácticas ya existen, de modo que en una evaluación no rediseñada simplemente está ausente, y que la salida del detector obtuvo las valoraciones probatorias más bajas de todas las categorías. La consecuencia de diseño es de orden: la evidencia de proceso tiene que existir antes de que un caso la necesite, y el razonamiento de Weidlich (2026) sobre qué inferencia está en riesgo plantea lo mismo desde el lado de la validez, ya que los intentos de restaurar la seguridad de la evaluación mediante la detección introducen varianza irrelevante para el constructo en lugar de evidencia sobre quien aprende.
+La evaluación orientada al proceso se propone normalmente como alternativa a la detección, y la evidencia sobre la detección explica por qué. La literatura sobre la [[ai-detection|detección]] encuentra tasas de error, dependencia de la tarea y [[bias-mitigation|sesgo]] sistemático contra quienes escriben en una segunda lengua y contra las personas con discapacidad, y el trabajo más reciente llega a una conclusión procedimental: una puntuación de detector puede motivar una revisión más atenta, pero no es un hallazgo. Munoz y sus colegas (2026) muestran lo que eso cuesta en la práctica. Al codificar 1,162 acusaciones de mala conducta con IA generativa, encontraron que los tipos de evidencia más sólidos los genera la investigación o la supervisión, que la evidencia de proceso —borradores, reuniones de supervisión, presentaciones— solo aparece donde esas prácticas ya existen, de modo que en una evaluación no rediseñada simplemente está ausente, y que la salida del detector obtuvo las valoraciones probatorias más bajas de todas las categorías. La consecuencia de diseño es de orden: la evidencia de proceso tiene que existir antes de que un caso la necesite, y el razonamiento de Weidlich (2026) sobre qué inferencia está en riesgo plantea lo mismo desde el lado de la validez, ya que los intentos de restaurar la seguridad de la evaluación mediante la detección introducen varianza irrelevante para el constructo en lugar de evidencia sobre quien aprende.
 
 ## Los costes de diseño y de carga de trabajo
 
@@ -67,6 +69,7 @@ Los costes operativos se detallan en otros lugares. Boysen enumera tecnología n
 El relato de Thapa y Lewis es conceptual: sin participantes, sin recogida de datos y sin ensayo de implementación, de modo que los cuatro principios se argumentan y no se prueban, y el propio artículo reclama trabajo empírico sobre la [[student-experience|experiencia del estudiantado]], la carga de trabajo del profesorado y la viabilidad a largo plazo. La factibilidad queda sin diferenciar entre contextos: no se aborda la transferencia a clases magistrales grandes, laboratorios, estudios o prácticas clínicas. El documento de posición de Lane (2026) señala el techo institucional: la evaluación basada en el proceso se ve amortiguada por estructuras de calificación y expedientes académicos que recompensan artefactos finales pulidos, de modo que el rediseño del aula por sí solo no cambia el incentivo. La [[educational-measurement|medición]] también es escasa: la revisión de Jin y sus colegas (2026) sobre instrumentos de [[ai-literacy|alfabetización en IA]] reclama evaluación basada en el desempeño y orientada al proceso y medición de rastros conductuales del [[prompt-engineering|diseño de prompts]] y la verificación, pero informa de que los instrumentos existentes se apoyan en el [[self-report-measures|autoinforme]]. Ninguna fuente aquí informa de un [[rct|ensayo controlado]] de un rediseño orientado al proceso frente a uno orientado al producto, lo que deja la afirmación central —que la evidencia de proceso es a la vez más difícil de falsificar y más justa de juzgar— argumentada desde principios, informes de profesionales y evidencia de expedientes de casos, y no demostrada a escala.
 
 ## Conceptos conectados
+- [[pedagogical-patterns]] — Puntos de control por etapas y evidencia de proceso como diseños secuenciados
 - [[assessment]]
 - [[authentic-assessment]]
 - [[ai-detection]]
@@ -83,23 +86,14 @@ El relato de Thapa y Lewis es conceptual: sin participantes, sin recogida de dat
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
 ## Artículos conectados
-- [[thapa-lewis-process-oriented-assessment-2026]] — autenticidad epistémica y los cuatro compromisos de diseño detrás de la evaluación orientada al proceso (Thapa y Lewis 2026)
 - [[genai-performance-vs-learning]] — el desempeño no es el aprendizaje: una agenda de investigación construida sobre medidas de proceso (Yan et al. 2026)
-- [[aied-unfinished-mission-bypass]] — amplificar la evaluación basada en el proceso como una de las cinco prioridades de AIED (Lane 2026)
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — la evaluación de caja negra y la trayectoria de aprendizaje en los exámenes para llevar a casa (Brunnström y Palmqvist 2026)
-- [[wang-safety-gap-productive-struggle-2026]] — la brecha de seguridad y la priorización de la evaluación basada en el proceso en la educación médica (Wang y Shan 2026)
 - [[human-centered-ai-teacher-educators-2026]] — formadores de docentes que piden tareas resistentes a la IA y basadas en el proceso, construidas sobre la justificación y la reflexión (Baran et al. 2026)
-- [[teacher-educators-ai-integration-preservice-2026]] — prompts, historial de versiones, contribuciones monitorizadas y diarios de viaje tras una crisis de confianza (Goldstein et al. 2026)
-- [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — prácticas de estudio, juicios éticos y el argumento para probar defensas orales y evidencia de proceso
-- [[learn-framework-responsible-genai-pbl-2026]] — el marco LEARN: rúbricas centradas en el proceso, justificaciones orales, entregas por etapas (Uden y Hwang 2026)
-- [[genai-didactic-pedagogical-mediator-2026]] — la evaluación orientada al proceso y transparente en el uso de IA como proposición investigable (Moganadas et al. 2026)
-- [[ai-tools-academic-work-cheating-2026]] — historial de revisiones, patrones de interacción y tiempo en la tarea con divulgación (Padhy 2026)
-- [[espino-ai-business-education-review-2026]] — una década de investigación en educación en negocios convergiendo hacia tareas de proceso visible
-- [[ai-literacy-instrument-development-systematic-review-2026]] — la agenda de medición: evaluación basada en el desempeño y orientada al proceso (Jin et al. 2026)
-- [[open-learning-practices-genai-response-2026]] — borradores e historiales de versiones documentados como registro de proceso auditable (Boysen 2026)
 - [[sharma-judgment-visible-genai-assessment-2026]] — rastros de decisión anotados, defensa oral y diferencias entre borradores elegidos por el juicio visible
 - [[munoz-misconduct-allegation-evidence-2026]] — qué contienen los expedientes de casos de mala conducta y qué evidencia de proceso les falta
 - [[weidlich-inference-at-risk-assessment-validity-2026]] — qué inferencia está en riesgo cuando se sustituye la evidencia de evaluación
 - [[beyond-detection-authentic-assessment-ai-2025]] — la autenticidad debe rediseñarse, no vigilarse
 - [[authentic-products-authenticated-processes-2026]] — productos auténticos y los procesos que los produjeron
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — el examen oral como formato resistente a la IA que hace vivo el razonamiento
+- [[thapa-lewis-process-oriented-assessment-2026]] — autenticidad epistémica y los cuatro compromisos de diseño detrás de la evaluación orientada al proceso (Thapa y Lewis 2026)
+- [[metacognitive-processes-genai-interaction-logs-2026]] — Evidencia de proceso condicionada por el canal: los registros y el pensamiento en voz alta revelan procesos distintos
+- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: un entorno de analítica multivista para la escritura integrada con IA

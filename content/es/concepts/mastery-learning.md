@@ -6,9 +6,9 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-09-28T21:04:13-04:00"
+updated: "2026-10-02T21:24:18-04:00"
 translation_of: concepts/mastery-learning
-source_updated: "2026-09-23T09:34:59-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ Con un modelo de dominio en funcionamiento, la tarea del sistema pasa a ser deci
 
 **Una advertencia crítica para la inferencia de dominio: acertar no es dominar.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren y Stamper (2026)]] muestran que quienes sobre-generalizan una habilidad —produciendo acciones correctas pero omitiendo una restricción crítica de aplicación— pueden parecer haberla dominado, lo que lleva a las reglas de parada basadas en el [[knowledge-tracing|seguimiento del conocimiento]] a terminar la práctica antes de que se encuentren un caso en el que la acción debería *omitirse*. El remedio es evaluar *cuándo omitir* la acción, y no solo cómo ejecutarla: incluir tareas detectoras de «no actuar» antes de que se dispare el umbral de dominio, junto con [[feedback|retroalimentación]] que nombre la restricción ausente. Es mejor entender el dominio como la discriminación de las restricciones de aplicación más la ejecución de la acción, y no como acertar sin más.
 
-**Una segunda advertencia se refiere a la regla de evidencia que sostiene el umbral.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] aplicó cuatro reglas de actualización sobre secuencias de eventos idénticas de los registros de matemáticas de ASSISTments 2012–13 —una mitad confirmatoria de 12.716 estudiantes y 985.813 eventos puntuados— y encontró que el recuento de dominio declarado se movía con la regla y no con quienes aprenden: acreditar cualquier finalización situó al 93,9% de 113.428 pares estudiante–habilidad por encima de la posterior de 0,95, frente al 72,8% cuando las filas con ayuda o reintento se leían como intentos fallidos. Los pares que la regla permisiva declaró por delante de la estricta alcanzaron después un 70,9% de acierto sin ayuda frente al 85,7% donde las reglas coincidían, por debajo de la tasa base de 0,744. Una puerta de progresión que cuenta finalizaciones asistidas certifica, por tanto, a personas cuyo trabajo independiente posterior está por debajo de la media, lo que convierte el tratamiento de la [[help-seeking|ayuda]] dentro de la regla de actualización —y no el umbral numérico en sí— en la decisión que fija qué certifica una insignia de dominio.
+**Una segunda advertencia se refiere a la regla de evidencia que sostiene el umbral.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] aplicó cuatro reglas de actualización sobre secuencias de eventos idénticas de los registros de matemáticas de ASSISTments 2012–13 —una mitad confirmatoria de 12,716 estudiantes y 985,813 eventos puntuados— y encontró que el recuento de dominio declarado se movía con la regla y no con quienes aprenden: acreditar cualquier finalización situó al 93.9% de 113,428 pares estudiante–habilidad por encima de la posterior de 0.95, frente al 72.8% cuando las filas con ayuda o reintento se leían como intentos fallidos. Los pares que la regla permisiva declaró por delante de la estricta alcanzaron después un 70.9% de acierto sin ayuda frente al 85.7% donde las reglas coincidían, por debajo de la tasa base de 0.744. Una puerta de progresión que cuenta finalizaciones asistidas certifica, por tanto, a personas cuyo trabajo independiente posterior está por debajo de la media, lo que convierte el tratamiento de la [[help-seeking|ayuda]] dentro de la regla de actualización —y no el umbral numérico en sí— en la decisión que fija qué certifica una insignia de dominio.
 
 ## Práctica, retención y los límites del apoyo de la IA
 
@@ -71,9 +71,5 @@ La calificación basada en estándares es la contraparte evaluativa del aprendiz
 ## Artículos conectados
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Sobre-generalización engañosa: el dominio adaptativo puede detener la práctica antes de que quien aprende sepa cuándo omitir una acción (An, McLaren y Stamper 2026)
 - [[neural-symbolic-knowledge-tracing]] — Inyectar reglas de dominio y no dominio en el aprendizaje profundo para un modelado responsable e interpretable de quien aprende
-- [[simulating-learner-task-selection]] — Simular cómo las estrategias de selección de tareas de quien aprende y las restricciones del sistema moldean la eficiencia del aprendizaje para el dominio
-- [[memdora-ai-spaced-repetition]] — Repetición espaciada con IA y base cognitiva para sostener la retención después del dominio
-- [[ai-generated-traces-novice-programmers]] — Efectos dependientes del contexto y moderados por quien aprende de los medios de aprendizaje generados por IA sobre el rendimiento
-- [[ai-literacy-continuum-higher-education]] — Un continuo de desarrollo en cinco etapas para llevar al estudiantado del uso acrítico de herramientas a la competencia crítica en IA
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[crediting-assisted-work-inflates-mastery-2026]] — Acreditar el trabajo asistido infla el dominio: qué regla de evidencia decide quién es declarado con dominio (Srivastava 2026)

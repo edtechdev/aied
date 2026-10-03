@@ -1,7 +1,7 @@
 ---
 title: Teoría de la actividad
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-09-28T19:11:29-04:00"
+updated: "2026-10-02T21:28:30-04:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -10,7 +10,7 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/activity-theory-aied
-source_updated: "2026-08-31T06:34:37-04:00"
+source_updated: "2026-09-30T09:53:03-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,7 @@ La IA introduce nuevas **herramientas/artefactos mediadores** en sistemas de act
 - **Cambio de normas y disrupción sistémica.** Como la IA introduce una nueva herramienta en el sistema de actividad, genera contradicciones con las reglas y normas existentes. Los estudios sobre el uso que hace el estudiantado de la IA generativa [[ai-disruption-engineering-education-chat-2026|muestran cómo emergen nuevas reglas implícitas]] a medida que el estudiantado se adapta, transformando las normas en torno a la autodirección, los objetivos de aprendizaje, el papel del profesorado y la [[ethics|ética]].
 - **Anclar la [[learning-analytics|analítica del aprendizaje]] y la medición.** La teoría de la actividad puede fundamentar el *diseño* de la analítica al mapear las facetas de medición sobre los elementos del sistema de actividad. Una canalización analítica anclada en la CHAT [[chat-anchored-learning-analytics-ai-literacy-2026|mapea la participación temporal, la calidad del discurso y la sofisticación conceptual sobre los elementos de la CHAT]] para detectar de forma temprana una participación en riesgo en clases pequeñas basadas en la discusión.
 - **Disciplinariedad y variación entre contextos.** Como los sistemas de actividad están situados histórica y culturalmente, la teoría de la actividad explica por qué la misma herramienta de IA produce resultados distintos según la disciplina y el contexto —cada disciplina funciona como un sistema de actividad con sus propias reglas, comunidad y división del trabajo [[jiang-genai-activity-theory-disciplines-2026|(por ejemplo, diferencias en el uso y la declaración de IA generativa del estudiantado de grado según el ámbito académico)]]—.
+- **Una herramienta, dos sistemas de actividad, penetración desigual.** Entre diez académicos de matemáticas analizados mediante la CHAT, la IA generativa se mantuvo como una herramienta periférica en el sistema de actividad de la investigación mientras reconfiguraba el papel del docente hacia el de mediador del razonamiento crítico en la enseñanza, con una adopción que se extendía a través del uso del estudiantado y de las redes de pares y no de la política [[governance|institucional]] ([[genai-runaway-object-math-higher-ed|Bakogianni et al., 2026]]).
 
 ### La teoría de la actividad y los marcos relacionados
 
@@ -90,10 +91,8 @@ Para diseñadores y educadores, la teoría de la actividad aconseja mirar más a
 - [[jiang-genai-activity-theory-disciplines-2026]] — Diferencias disciplinares en el uso y la declaración de IA generativa a través de la lente de la teoría de la actividad
 - [[genai-runaway-object-math-higher-ed]] — Análisis CHAT de cómo la IA generativa reconfigura los sistemas de actividad de la enseñanza y la investigación
 - [[raffaghelli-situated-ai-ethics-2026]] — Ética situada de la IA que fusiona la teoría de los sistemas ecológicos con la CHAT
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Encuadre CHAT de las intervenciones con IA para estudiantado con discapacidad
 - [[activity-theory-teachers-adoption-ai-sem-2026]] — La teoría de la actividad como lente sobre la adopción de la IA por el profesorado (SEM)
 - [[lee-anson-k12-teachers-ai-activity-theory]] — Perspectivas del profesorado de K-12 sobre el uso de la IA a través de la teoría de la actividad
 - [[ai-disruption-engineering-education-chat-2026]] — El cambio de normas del estudiantado en la enseñanza de la ingeniería mediante la CHAT
 - [[activity-theory-teacher-pd-ai-agent-design-2026]] — Rediseño CHAT-TAD del desarrollo profesional docente
 - [[chat-anchored-learning-analytics-ai-literacy-2026]] — Canalización de analítica del aprendizaje anclada en la CHAT para la alfabetización en IA
-- [[chatgpt-critical-creative-thinking-review]] — La CHAT como una lente teórica sobre la pedagogía con ChatGPT

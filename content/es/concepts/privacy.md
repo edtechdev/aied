@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacidad
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-09-28T19:11:03-04:00"
+updated: "2026-10-02T21:24:48-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-10-01T20:35:10-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,11 +42,14 @@ La privacidad es la condición previa para una IA digna de confianza en la educa
 
 - **Recopilación de datos a escala.** La [[learning-analytics|analítica del aprendizaje]] y las [[edtech-platform|plataformas educativas]] recopilan datos de clics, escritura, pulsaciones e interacción. La pregunta central que examina la [[research-methods-aied|investigación]] sobre privacidad es si esa recopilación es proporcionada al beneficio educativo, y la [[learning-analytics-to-educational-interventions-2026|investigación sobre analítica del aprendizaje digna de confianza]] trata la privacidad y la gobernanza de datos como un requisito previo y no como un añadido: el cumplimiento ético, la seguridad de los datos y los algoritmos transparentes son lo que hace que el cambio educativo basado en datos tenga sentido en absoluto.
 - **Consentimiento y transparencia.** El estudiantado y las [[parents-and-families|familias]] rara vez entienden qué datos recopila una herramienta de IA, cómo se usan o dónde se almacenan. Este desequilibrio de poder entre las instituciones y quienes [[learners|aprenden]] es un tema recurrente: el estudiantado puede no tener una opción significativa más que usar una plataforma obligatoria, lo que hace que el «consentimiento» sea nominal y no informado. La base de conocimiento conecta esto con la [[trust-calibration|calibración de la confianza]] y la [[ai-use-disclosure|declaración de uso de IA]]: tanto el uso que hace el estudiantado de la IA como el uso que hacen las instituciones de sus datos dependen de la transparencia sobre qué se recopila y por qué.
+- **La delegación como mecanismo de privacidad, no solo como declaración.** [[agentic-literacy-debt|Nama (2026)]] sostiene que los agentes autónomos heredan permisos entre sesiones y rara vez los revocan, de modo que cada delegación opaca habitúa a las personas usuarias a conceder acceso sin escrutinio, lo que convierte el consentimiento informado sobre *cuándo actúa un agente en lugar de una persona* en parte del diseño de la privacidad.
 - **Seguridad, anonimización y procedencia de los datos.** Incluso los datos legítimos pueden causar daño si se filtran o se gestionan mal. En la base de conocimiento aparecen técnicas de preservación de la privacidad: [[teachlm-post-training-llms-education|TeachLM]] demuestra una canalización rigurosa de consentimiento por sesión, eliminación de datos personales en servidores internos y confidencialidad de nivel empresarial para modelos de tutoría entrenados con datos auténticos, lo que muestra que los datos del estudiantado obtenidos éticamente son posibles y además un requisito previo para una tutoría de alta calidad. Las [[ai-lms-middle-school-longitudinal|arquitecturas federadas y de IA en el borde]] mantienen los datos en local y reducen la recopilación central. Las herramientas de [[ai-detection|detección]] añaden un caso paralelo de tratamiento de datos: [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] señalan que los proveedores de detectores almacenan los trabajos del estudiantado en servidores de terceros, a veces en el extranjero y bajo estándares de privacidad más débiles, además del riesgo de filtraciones y de explotación comercial de la escritura del estudiantado.
 - **La vigilancia y la tensión entre vigilancia y privacidad.** La monitorización constante con IA, incluso cuando está bien intencionada, puede resultar invasiva. La investigación sobre la [[ai-fatigue-academic-contexts|fatiga por IA]], la [[remote-proctoring|supervisión remota de exámenes]] y la [[cognitive-offloading|dependencia excesiva]] conecta la privacidad con el [[well-being|bienestar]] del estudiantado: cuando la IA observa y rastrea de forma continua, moldea la conducta y la ansiedad, y no solo los flujos de datos. [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana et al. (2026)]] catalogaron lo que los sistemas de [[remote-proctoring|supervisión remota]] capturan realmente —imágenes faciales, documentos de identidad, escaneos de la habitación incluidos barridos de 360 grados, audio del micrófono, reconocimiento facial, grabaciones de pantalla, eventos de bloqueo y seguimiento de pulsaciones y del ratón, con la vigilancia móvil añadiendo GPS y comprobaciones con selfis— y encontraron que la privacidad y la rendición de cuentas algorítmica estaban en gran medida ausentes de los seis estudios que cumplieron sus criterios de inclusión, y que se suplían desde trabajos adyacentes: el 83% de las personas encuestadas en una encuesta citada expresó temores de vigilancia, el 58% incomodidad y el 72% preocupaciones de privacidad de datos, mientras que los contratos transfronterizos con proveedores dejaban a instrumentos como el RGPD y la POPIA sudafricana con un control limitado. La exposición legal que se deriva de conservar y tratar esos datos —quién es el responsable, cuánto tiempo se conservan, quién puede acceder a ellos y si el consentimiento fue realmente voluntario— se traza en [[legal-issues-and-risks|cuestiones y riesgos legales]].
 - **La disyuntiva entre personalización y privacidad.** El [[personalized-learning|aprendizaje personalizado]] necesita datos detallados de quien aprende para funcionar, lo que crea una tensión estructural con la privacidad. La base de conocimiento explora enfoques que equilibran la personalización con la minimización de datos: suficientes datos para adaptar, no tantos como para dejar a quien aprende totalmente expuesto. Esta es la forma práctica de la pregunta «¿cuánto es proporcionado?».
 - **La custodia de los datos como valor ético central.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], una [[meta-analysis-systematic-review|revisión sistemática]] de 25 artículos, identifican la custodia de los datos (definiciones que usan datos o información) como uno de los seis valores éticos principales para la [[ai-education|IA en la educación]], junto con la no discriminación, la supervisión humana, la buena voluntad, la explicabilidad y la idoneidad educativa. La revisión encuentra que los valores están estrechamente acoplados y pueden entrar en conflicto —por ejemplo, la explicabilidad frente a la precisión o la privacidad, y la no discriminación frente a la custodia de datos—, lo que genera dilemas éticos, y que ninguna norma sobre custodia de datos se dirige directamente a las personas usuarias finales, lo que deja a quien aprende en un papel en gran medida pasivo en la literatura ética.
 - **La privacidad se aplaza en lugar de decidirse.** Doce entrevistas con profesionales de la tecnología educativa y una auditoría de 48 políticas de privacidad de plataformas muestran que la privacidad se reconoce como importante y luego se pospone a lo largo del ciclo de vida del producto, con la responsabilidad delegada en proveedores de nube, documentos de política y centros educativos situados más abajo: un patrón que una retroalimentación débil sobre privacidad mantiene invisible, porque el silencio parece una prueba de seguridad ([[edtech-privacy-deferral-2026|Nair y Greenstadt, 2026]]).
+
+- **La base de evidencia sobre la supervisión de exámenes es escasa en ética.** Una revisión de 80 estudios encontró que el 35% no divulgaba su conjunto de datos, el 40% evaluaba un único modelo, el 30% no podía reproducirse y solo el 25% abordaba cuestiones éticas; los falsos positivos —señalar conductas normales— siguen siendo un riesgo de fiabilidad central ([[automated-online-exam-proctoring-decade-review-2026|Malhotra y Chhabra (2026)]]).
 
 ## Seguridad infantil y protecciones en K-12
 
@@ -77,31 +80,21 @@ La privacidad se conecta con la [[learning-analytics|analítica del aprendizaje]
 - [[pedagogical-safety]]
 - [[legal-issues-and-risks]]
 - [[student-experience]]
+- [[student-support-and-success]] — Expedientes del estudiantado, intercambio de datos entre oficinas y modelado federado de riesgos
 
 ## Artículos conectados
-- [[powerful-learning-with-emerging-technology-2025]] — La privacidad como obligación de seguridad ligada a la agencia
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Analítica del aprendizaje federada y explicable para un modelado del riesgo académico que preserva la privacidad (Villegas-Ch et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] — Preocupaciones de privacidad del profesorado en formación sobre el uso responsable de la IA generativa (Kohnke et al. 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — De la analítica del aprendizaje a las intervenciones educativas: facilitadores de intervenciones basadas en analítica del aprendizaje digna de confianza (Svetec, Divjak y Kadoić 2026)
-- [[evaluation-age-ai-output-evidence-2026]] — La evaluación en la era de la IA
-- [[turano-ai-tutoring-not-a-monolith-2026]] — La tutoría con IA no es un monolito: lo que realmente sabemos (informe de Stanford SCALE/NSSA)
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]
-- [[ai-online-education-engagement-satisfaction-2026]]
 - [[agentic-literacy-debt]] — Deuda de alfabetización agéntica: la brecha estructural de alfabetización en IA que crean los agentes autónomos (Nama 2026)
 - [[ai-fatigue-academic-contexts]]
 - [[ai-lms-middle-school-longitudinal]]
 - [[child-safety-genai]]
 - [[eduzone-llm-safety-k12]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — Los LLM no califican ensayos como las personas (Mathew et al. 2026)
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[teachlm-post-training-llms-education]] — TeachLM: anonimización y consentimiento para datos de aprendizaje auténticos
 - [[bassett-ai-detectors-education-2026]] — Cara gano yo, cruz pierdes tú: los detectores de IA en la educación (Bassett et al. 2026)
-- [[policy-deficit-ai-sel-2026]] — El déficit de política en la investigación sobre IA × SEL
 - [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Diagnóstico cognitivo federado con LLM que preserva la privacidad
 - [[agarwal-ethical-values-norms-aied-2026]] — Valores y normas éticas para la IA en la educación
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — Lo que capturan los sistemas de supervisión remota y la ausencia de la literatura sobre privacidad en la base de evidencia
-- [[bounded-reliance-ai-writing-feedback-2026]] — Confianza acotada: una perspectiva de credibilidad de las fuentes sobre la implicación de estudiantes de inglés como lengua extranjera con la retroalimentación de escritura generada por IA
 - [[edtech-privacy-deferral-2026]] — «Ya lo arreglaremos más adelante»: educación, IA y el aplazamiento de la privacidad del estudiantado en la tecnología educativa
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — De la clasificación de sentimientos a una retroalimentación accionable y responsable: revisión de alcance y mapa de evidencia del PLN en la evaluación docente por el estudiantado, 2015-2026
-- [[synthetic-educational-data-structural-fidelity-2026]] — Lo que se les escapa a las métricas de fidelidad: una comprobación estructural de los datos educativos sintéticos
