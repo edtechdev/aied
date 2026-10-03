@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-03T01:40:50-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -61,6 +61,8 @@ A direct empirical test of the prescriptive layer comes from [[lopez-pernas-llm-
 A complementary, teacher-centered test of how analytics reach the classroom comes from [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]], who designed a learning analytics dashboard (DashED) to communicate ML-derived [[self-regulated-learning]] profiles to teachers in two blended contexts. Their 100-teacher study shows that the *presentation* of analytics is itself a barrier to action: teachers systematically preferred simpler, more traditional charts (bar plots, pie charts) even when more complex designs (e.g., heatmaps) yielded richer insights, and higher [[visualization|visualization literacy]] predicted deeper, more detailed interpretation (e.g., more teachers identifying trends in time-series data). For group comparison, teachers favored superposition over juxtaposition and full-information plots over explicit difference encoding. The actions teachers proposed were shaped by the content represented and their [[teacher-role]] level rather than the plot type — university teachers favored weekly tests and course-level adaptation, while vocational teachers proposed direct, individualized coaching — underscoring that the prescriptive step depends as much on how analytics are visualized and contextualized as on the underlying model. Their finding is cautionary: correlations between LA indicators and recommended support were mostly weak, cross-model recommendations diverged sharply for the same student, and support was frequently allocated regardless of who needed it most. The authors conclude that current LLMs are **not yet reliable as prescriptive models for student support at scale**, reinforcing that the prescriptive step still requires validation, fine-tuning, and human oversight rather than off-the-shelf automation.
 
 The step after the score — who gets support, and whether it was allocated where it was needed — belongs to [[student-support-and-success|student support and success]], which carries the outreach, referral, and allocation evidence this page's prescriptive layer feeds.
+
+An integrity outcome enters the same predictive layer. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] predicts AI-assisted cheating risk from the first eight weeks of [[video-education|Moodle and video-player]] traces, reaching an AUC of 0.763 with logistic regression, and argues the signal is usable precisely because it arrives before the exam rather than during it.
 
 ### Methods and network analysis
 
@@ -142,3 +144,4 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk from early-semester LMS traces (AUC 0.763)

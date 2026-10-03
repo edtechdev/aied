@@ -1,7 +1,7 @@
 ---
 title: Student Support and Success
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-10-01T20:39:12-04:00"
+updated: "2026-10-03T01:40:50-04:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -57,6 +57,8 @@ The research clusters into five functions, and the cluster boundaries matter bec
 Risk prediction — early warning systems, dropout models, at-risk classifiers — is **[[learning-analytics]]** territory in this knowledge base, and this page treats *predictive analytics* as the same thing. The modeling work is substantial: supervised classifiers identify students before withdrawal from academic performance, demographic, and enrollment records ([[at-risk-students-ml-prediction|Gheisari & Salarian, 2026]]); a dual-layer framework combines Codeforces behavioral logs (n = 1,816) with psychographic survey data from ten universities to predict attrition in competitive programming ([[predicting-attrition-competitive-programming|Alam et al., 2026]]); and a federated architecture predicts performance and dropout across institutions without sharing raw student data, reaching AUC = 0.918 on OULAD against 0.925 centralized ([[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al., 2026]]). A precision-education vision extends the logic to student digital twins and "preventive student success" ([[precision-education-student-digital-twins-2026|Han et al., 2026]]).
 
 What belongs *here* is the step after the score: **support allocation**. Two findings set its limits. First, the ranking-versus-calibration split — federated risk models kept their AUC under distributional shift while their calibration degraded markedly, so a model that still ranks students correctly can be wrong about how likely each one is to need help. Second, the enabler study: an international Delphi and AHP/SNAP analysis of learning-analytics-to-intervention identified seven enablers and ranked **institutional strategic orientation** highest (priority 0.2072) and most influential on the others (PageRank 0.2430), locating the bottleneck in institutional planning rather than in the models ([[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić, 2026]]). Behavioral clustering of 14,003 student records into six profiles, mapped to recommended learning objects, is the recommendation layer this points toward ([[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem et al., 2026]]).
+
+An integrity outcome joins the same pipeline. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] predicts AI-assisted cheating risk from early-semester LMS traces (AUC 0.763) and recommends acting on it only through low-stakes outreach, with the decision threshold chosen for reach rather than accusation: dropping it to 0.30 identified 21 of the 23 high-risk students, at a precision of 60%.
 
 ## The outcome ladder: what each measure actually means
 
@@ -127,3 +129,4 @@ Student support connects to [[student-experience]] as the student-facing counter
 - [[ai-campus-wellbeing-tools]] — campus well-being support spanning prevention and intervention
 - [[coursegraph-cs-course-comparison-2026]] — course equivalence for transfer credit and mobility
 - [[credentials-carry-evidence-ai-agents-2026]] — what a completion record means when an agent can do the work
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk early, and the threshold trade-off for low-stakes outreach

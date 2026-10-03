@@ -118,7 +118,9 @@ def main() -> int:
     required = recorded = reviewed = 0
 
     for path in pages:
-        if only_changed is not None and path not in only_changed:
+        # changed_paths() returns strings; pages are Path objects, so comparing
+        # them directly never matched and --changed silently inspected 0 pages.
+        if only_changed is not None and str(path) not in only_changed:
             continue
         meta = frontmatter(path)
         rel = os.path.relpath(path, WIKI)
