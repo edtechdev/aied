@@ -5,9 +5,9 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-09-28T21:41:14-04:00"
+updated: "2026-10-02T23:55:01-04:00"
 translation_of: concepts/visualization
-source_updated: "2026-09-28T21:41:14-04:00"
+source_updated: "2026-09-30T09:53:03-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -70,11 +70,8 @@ A lo largo de los trabajos aquí analizados, la visualización emerge como un me
 ## Artículos conectados
 
 - [[interactive-learning-dashboards-engagement]] — Repensar las visualizaciones del aprendizaje como herramientas de compromiso mediante agentes pedagógicos
-- [[clara-collaboration-literacy-dashboard]] — Panel de analítica aumentado con IA con mapas conceptuales y evaluaciones 7C
-- [[wordstream-glass-learning-analytics]] — Codificación cuantitativa de la analítica cualitativa del aprendizaje
 - [[mllm-scientific-visualization-literacy]] — Evaluación comparativa de LLM multimodales para la alfabetización en visualización científica
 - [[nuclear-diffusion-text-to-image-learning-2026]] — Modelos de texto a imagen adaptados al dominio para la visualización de conceptos nucleares
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Eficacia, beneficios y ética de los cómics de datos asistidos por IA
 - [[cfes-p24-multimodal-slide-auditing-2026]] — Benchmark contrafactual para la auditoría multimodal de diapositivas
-- [[aissa-slides-analysis]] — Herramienta de análisis de diapositivas del estudiantado basada en IA para presentaciones académicas
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Hacer accesibles los hallazgos de aprendizaje automático al profesorado en aulas semipresenciales

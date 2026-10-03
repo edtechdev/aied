@@ -1,7 +1,7 @@
 ---
 title: Tutoría afectiva
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-09-28T18:18:41-04:00"
+updated: "2026-10-02T23:56:13-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-08-31T06:34:37-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,9 @@ Los autores sostienen que los riesgos emocionales forman parte de un patrón má
 2. **Transparencia sobre la detección del afecto** — El estudiantado debe saber cuándo y cómo se infieren sus emociones
 3. **El afecto como una señal entre muchas** — Combinarlo con el estado cognitivo (p. ej., [[huang-interpretable-knowledge-tracing-2026]]) y con la implicación conductual
 4. **Privacidad por defecto para los sensores [[multimodal|multimodales]]** — Los datos faciales y de vídeo exigen protecciones más sólidas que la inferencia basada solo en texto
+5. **Activar por trayectorias, no por estimaciones puntuales** — El afecto ordenado muestra persistencia de corto alcance y transiciones direccionales, y los informes captados por sondeo (bucles autorreferenciales en torno a la curiosidad y la confusión) son una medición distinta de los captados por uno mismo (frustración, sorpresa, conflicto), por lo que las intervenciones deberían fijarse en la secuencia y no en las frecuencias resumidas ([[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]]).
+
+Un límite a la inferencia del afecto a partir del diálogo: [[ecnuclaw-k12-personalized-companion|Zhou, Li y Zhang (2026)]] actualizan un perfil de quien aprende de cinco dimensiones en cada turno —incluida una dimensión emocional—, pero extraen las señales con diccionarios de palabras clave, de modo que un estudiante que expresa frustración sin las palabras clave predefinidas no queda perfilado, y la precisión del perfil no se ha validado frente al juicio de personas expertas.
 
 ## Relación con la seguridad en sentido amplio
 
@@ -88,10 +91,6 @@ La tutoría afectiva se cruza con [[hazra-safetutors-pedagogical-safety-2026|Saf
 - [[socratic-method]]
 ## Artículos conectados
 
-- [[zerkouk-comprehensive-review-its-2025]]
 - [[ecnuclaw-k12-personalized-companion]]
-- [[empathy-coaching-chatbot]]
-- [[engagement-assessment-video]]
 - [[epistemic-emotions-collaborative-problem-solving]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[nie-personavlm-long-term-personalization-2026]]

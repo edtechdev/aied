@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Aprendizaje autodirigido
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-09-28T20:10:03-04:00"
+updated: "2026-10-02T23:51:29-04:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-09-03T15:00:00-04:00"
+source_updated: "2026-09-30T08:39:04-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,7 @@ El aprendizaje autodirigido está estrechamente relacionado con el [[self-regula
 La [[research-methods-aied|investigación]] de la base de conocimiento documenta ambos lados de la relación entre IA generativa y SDL.
 
 - **La IA puede apoyar el SDL.** La [[ai-lifelong-learning-policy|IA y las políticas de aprendizaje a lo largo de la vida]] y el [[self-directed-growth-generative-ai-learning-analytics|crecimiento autodirigido con IA generativa y analítica del aprendizaje]] muestran que las herramientas de IA pueden [[scaffolding|andamiar]] la indagación independiente, ofrecer recursos a demanda y personalizar itinerarios de aprendizaje de formas que refuerzan la autonomía de quien aprende. La [[genai-educational-outcomes-meta-analysis|evidencia metaanalítica]] sobre los resultados educativos de la IA generativa y la [[conversational-ai-informal-learning|IA conversacional en el aprendizaje informal]] sugieren un potencial positivo cuando la IA se usa como un recurso que quien aprende dirige.
+- **Quienes aprenden quieren un compañero de pensamiento, no un oráculo.** El estudiantado adulto entrevistado quería que la IA estimulara la reflexión y verificara en lugar de dar respuestas, y que lo dejara a cargo del itinerario de aprendizaje en lugar de prescribirlo ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
 
 - **El uso irreflexivo socava el SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao y Gu (2026)]] muestran que el **uso irreflexivo de la IA generativa** —adoptar salidas de IA sin evaluación crítica— perjudica significativamente el SDL del estudiantado universitario, tanto directamente como a través de la erosión de la [[self-efficacy|autoeficacia]] y la [[motivation|motivación]] (el modelo explicó el 75,3% de la varianza del SDL; TUGA β = −0,42). El efecto negativo sobre la motivación fue mayor en los estudiantes varones y sobre la autoeficacia en las estudiantes mujeres. Esto conecta con el riesgo más amplio de [[cognitive-offloading|dependencia excesiva]] documentado en la base de conocimiento.
 
@@ -77,5 +78,4 @@ Como el SDL pone el énfasis en la dirección iniciada por quien aprende, las in
 - [[genai-educational-outcomes-meta-analysis]] — Metaanálisis de los resultados educativos de la IA generativa
 - [[andragogy-cognitive-delegation-genai-2026]] — Andragogía y delegación cognitiva con IA generativa
 - [[kim-ai-andragogy-2026]] — Aplicaciones de la IA en el apoyo a la andragogía (Kim et al. 2026)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — Extracción de información con IA que apoya la tesis de grado y el aprendizaje basado en la investigación (An et al. 2026)
 - [[an-goel-self-directed-modeling-2026]]

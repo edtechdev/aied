@@ -1,7 +1,7 @@
 ---
 title: Identidad de quien aprende
 created: "2026-09-28T19:13:48-04:00"
-updated: "2026-09-28T19:13:48-04:00"
+updated: "2026-10-02T23:56:13-04:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,7 +10,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-09-17T02:27:38-04:00"
+source_updated: "2026-10-01T14:02:49-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,15 +41,20 @@ La identidad de quien aprende tiene que ver con quién entiende una persona que 
 La identidad es un constructo motivacional y de desarrollo distinto de (pero conectado con) las capacidades y creencias relacionadas. Donde la [[self-efficacy|autoeficacia]] se ocupa de *¿puedo hacer esto?*, la identidad se ocupa de *¿quién soy y en quién me estoy convirtiendo?* Se construye mediante la participación, el reconocimiento y la autoría: viéndose uno reflejado en un dominio y logrando que esa visión de sí mismo sea validada. La IA transforma las condiciones en las que se forma la identidad porque cambia *quién hace el trabajo*, *qué cuenta como contribución propia* y *si quien aprende se siente reconocido como autor de su aprendizaje*. Esto convierte la identidad en una preocupación de diseño de primer orden y no en un factor «blando» periférico.
 
 - **Autoría y competencia bajo amenaza.** Cuando la IA produce texto, imágenes o código, quienes aprenden pueden cuestionar si el resultado es verdaderamente «suyo», un desafío a la dimensión de autoría de la identidad. **[[t2i-competence-paradox-2026|Liu et al. (2026)]]** documentan una *paradoja de la competencia* en estudiantado de arte y diseño que usa IA generativa de texto a imagen: las herramientas se sienten fáciles y útiles, pero su uso amenaza a la vez la **identidad creativa** que el estudiantado deriva del oficio manual y de la autoría, lo que produce una tensión genuina entre facilidad y valía personal.
+
+
+Una condición de autoría distinta, y no solo una amenaza para la autoría: cuando el diálogo autoformativo se delega habitualmente a un modelo conversacional, los autores sostienen que el trabajo integrador de la autoría queda *delegado* en lugar de no desarrollado o ausente —un yo densamente expresado pero sin autoría—, para el cual dicen que los constructos existentes no tienen hueco ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
 - **Vergüenza y uso oculto.** **[[shame-guilt-ai-regulation-computing-education|Lin et al.]]** muestran que el estudiantado de informática experimenta vergüenza y culpa en torno al uso de la IA, que funcionan como reguladores sociales que impulsan el *ocultamiento* y la declaración selectiva, conductas que pueden fragmentar la identidad académica y socavar una implicación honesta con el aprendizaje.
 - **La identidad como algo que la IA puede andamiar.** La IA no tiene por qué limitarse a amenazar la identidad. **[[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]** sostiene que un acompañamiento [[pedagogy|pedagógico]] responsable y orientado a las relaciones puede apoyar el desarrollo de la **identidad STEM** de quienes aprenden al ofrecer un apoyo transparente y acotado que deja espacio para que la persona sea dueña de su trayectoria.
 
 ## La identidad en la investigación de la base de conocimiento
 
 - **Identidad creativa:** **[[t2i-competence-paradox-2026|la paradoja de la competencia en IA de texto a imagen]]** capta cómo la facilidad de uso puede socavar la identidad basada en el oficio del estudiantado de arte y diseño.
+- **La autoría sentida puede desacoplarse de la originalidad real.** El estudiantado de diseño que construía sitios web con IA valoró su autoría como alta (67/100, satisfacción 6.4/7, calidad percibida 6.1/7), pero esas valoraciones no siguieron nada medible: sus diseños eran más homogéneos que sin IA, y la autoría sentida se correlacionó con la originalidad medida en r ≤ +0.13 ([[vibe-coding-design-diversity-2026|Boussioux et al., 2026]]).
 - **Identidad profesional:** varios estudios abordan el impacto de la IA en la **identidad profesional**; por ejemplo, **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]** sostienen que quienes se gradúan necesitan *capacidades adaptativas* ([[ai-literacy|alfabetización en IA]], [[distributed-cognition|cognición distribuida]], [[metacognition|metacognición]]) precisamente para poder sostener una identidad profesional viable en un futuro integrado con la IA, en lugar de quedar definidos por sus herramientas, o definidos fuera de ellas.
 - **Identidad poshumana e híbrida:** **[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]** teoriza al **aprendiz poshumano**, cuya cognición es genuinamente híbrida y está distribuida entre sistemas [[biology-education|biológicos]] y artificiales, una reformulación de la propia formación de la identidad en la era de la IA cognitiva.
 - **Identidad estudiantil y académica:** la [[research-methods-aied|investigación]] sobre [[zhan-boud-du-authentic-assessment-scoping-review-2025|evaluación auténtica]] se conecta con la identidad porque las tareas de [[assessment|evaluación]] que exigen un desempeño auténtico y personal ayudan al estudiantado a verse como profesionales competentes; la [[paternalistic-filter-llm-history-education|investigación en didáctica de la historia]] muestra cómo un uso paternalista de la IA puede moldear la forma en que el estudiantado construye su identidad como indagadores disciplinares.
+- **Cómo enmarca el estudiantado la herramienta da forma a su devenir profesional.** Quienes presentaban la IA generativa únicamente como compañera socioemocional produjeron reflexiones menos diferenciadas sobre su aprendizaje profesional que quienes también la enmarcaban como una técnica, un material de aprendizaje o una estructura ([[genai-professionalization-metaphors-2026|Bohmer et al., 2026]]).
 
 - **Adopción cautelosa: el uso selectivo de la IA como protección de la identidad.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] encuestó a 484 estudiantes de una universidad australiana y encontró que el estudiantado con mejores resultados declaraba una implicación activa *menor* con la [[generative-ai|IA generativa]], menos afecto positivo hacia la IA, un menor impacto en el [[self-report-measures|aprendizaje percibido]] y una menor desconexión relacionada con la IA, con las asociaciones más fuertes en rho = -0,395 para el impacto en el aprendizaje percibido y rho = -0,359 para el afecto positivo. Sus respuestas abiertas describían un uso selectivo (aclaraciones, resúmenes, apoyo al flujo de trabajo), verificado y subordinado a su propio juicio, y los resultados por ítem mostraban un mayor acuerdo con que la dependencia de la IA dificulta el [[critical-thinking|pensamiento crítico]] y la [[problem-solving|resolución de problemas]] independiente. Los autores lo interpretan como trabajo de identidad: para el estudiantado cuyo sentido de sí mismo como persona que aprende con éxito se apoya en su propio esfuerzo y juicio, acotar el uso de la IA defiende la [[agency|agencia epistémica]] de la que depende esa identidad, lo que también significa que el patrón no es ni tecnofobia ni baja implicación.
 
@@ -101,5 +106,7 @@ La identidad de quien aprende se conecta con la [[agency|agencia]] (la identidad
 - [[paternalistic-filter-llm-history-education]] — Uso paternalista de la IA e identidad del estudiantado en la didáctica de la historia
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — La IA generativa como crisis de identidad del profesorado (identidad docente)
 - [[teaching-the-teachers-genai-tpk-review-2026]] — Formación docente basada en el TPK e identidad profesional
-- [[li-ai-science-situated-learning-teachers-2025]] — Roles del profesorado de ciencias e identidad de quien aprende en el aprendizaje situado
 - [[genai-professionalization-metaphors-2026]] — Conceptualizaciones de la IA generativa y la identidad profesional del estudiantado
+
+- [[synthetic-position-self-authorship-2026]] — Suspensión autoral: la autoría delegada como un yo densamente expresado pero sin autoría (análisis conceptual)
+- [[vibe-coding-design-diversity-2026]] — ¿Una herramienta, un gusto? Cómo el vibe coding cambia la diversidad colectiva por la creatividad individual

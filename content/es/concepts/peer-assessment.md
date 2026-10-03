@@ -1,7 +1,7 @@
 ---
 title: Evaluación entre pares
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-09-28T19:11:29-04:00"
+updated: "2026-10-03T00:23:13-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-09-30T16:25:27-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,8 @@ El patrón se generaliza a la escritura profesional. [[gift-ai-pairr-business-wr
 
 La prueba más rigurosa de cuánto importa el diseño es un experimento aleatorizado por conglomerados en varios centros. [[genai-feedback-design-multisite-experiment|Ateş (2026)]] aleatorizó 48 secciones de 4 universidades —1.176 estudiantes de grado de primer año de [[biology-education|biología]], [[chemistry-education|química]] y [[physics-education|física]]— a cuatro condiciones para la argumentación científica: solo comentarios entre pares, comentarios directos de IA generativa, comentarios reflexivos de IA generativa (autoevaluación y luego crítica de la IA) y un híbrido de autoevaluación → comentarios entre pares → crítica de IA. La IA generativa directa superó a los comentarios entre pares en la calidad inmediata de la argumentación, pero mostró una [[transfer-of-learning|transferencia]] más débil; los diseños reflexivo e híbrido produjeron un mayor aprovechamiento de los comentarios y un mejor aprendizaje autorregulado; el híbrido mostró la ventaja más clara en aprendizaje conceptual; y ambos superaron a la IA generativa directa en la transferencia diferida sin IA. El valor de la IA generativa, concluyen los autores, depende menos del acceso que de si el entorno preserva la agencia y la propiedad del estudiantado durante la revisión.
 
+Secuenciar los comentarios de la IA antes de la discusión entre pares, en lugar de después, también mejoró los resultados: frente a los comentarios entre pares por sí solos, 122 estudiantes chinos de inglés como lengua extranjera que recibieron comentarios integrados de IA más pares informaron de una mayor implicación afectiva, conductual y cognitiva (η² parcial = 0.29, 0.28, 0.32) y superaron al grupo de comparación en las cuatro dimensiones de escritura del IELTS, con la mayor diferencia en el logro de la tarea (d = 1.41) ([[ai-peer-feedback-l2-writing-engagement-2026|Liu (2026)]]).
+
 Ese patrón —una ventaja temprana que no se sostiene— reaparece cuando la comparación es entre los comentarios del profesorado y los comentarios entre pares asistidos por IA, y no la IA generativa sola. [[teacher-vs-ai-peer-feedback-l2-writing-2026|Tang, Li y Luo (2026)]] realizaron un cuasiexperimento de ocho semanas con 61 escritores chinos de L2 (244 textos calificados) trabajando a partir de una única lista de comprobación de cinco dimensiones, con una clase que recibía comentarios escritos del profesorado y la otra comentarios entre pares asistidos por IA. Los comentarios del profesorado produjeron muchos más ítems —316 frente a 185 en la primera tarea, concentrados en el vocabulario y los detalles técnicos— y la ganancia inmediata algo mayor, pero su mejora cayó bruscamente en la segunda tarea, mientras que la clase de comentarios entre pares asistidos por IA se mantuvo estable y terminó con la puntuación de revisión más alta. Los comentarios entre pares asistidos por IA eran menos numerosos, pero se mantenían anclados en el contenido y la estructura, y su ventaja inicial en diversidad léxica no persistió; ningún modo movió la complejidad sintáctica. Los autores leen los dos modos como [[scaffolding|andamiajes]] complementarios y proponen un híbrido IA–Pares–Profesorado, en el que la IA señala los errores superficiales durante la redacción, los pares negocian el contenido en la revisión y el profesorado se centra en lo que ninguno de los dos alcanzó.
 
 Añadir IA generativa también puede elevar la calidad de los propios comentarios entre pares, pero al parecer solo con apoyo de prompts. [[chang-genai-peer-feedback-collaborative-argumentation-2026|Chang et al. (2026)]] compararon tres condiciones entre 45 docentes en formación de 12 grupos a lo largo de cuatro rondas de argumentación colaborativa: comentarios entre pares sin más, comentarios entre pares con IA generativa y comentarios entre pares con IA generativa bajo andamiaje de prompts. Los grupos apoyados con IA generativa superaron a los comentarios entre pares sin más en el rendimiento argumentativo, y el grupo con andamiaje de prompts rindió mejor en elementos avanzados como «datos y garantía de la refutación» y «abordar la visión contraria». Los grupos apoyados con IA generativa produjeron más explicaciones, sugerencias y comentarios neutros o negativos, y el grupo con andamiaje combinó emociones negativas con contenido de retroalimentación de orden superior: [[critical-thinking|evaluación crítica]] en lugar de aceptación pasiva. Es un experimento único y pequeño, pero aísla el andamiaje de prompts como el ingrediente activo.
@@ -83,11 +85,13 @@ Las normas entre pares también configuran la honestidad, lo que importa allí d
 ## Implicaciones de diseño y preguntas abiertas
 
 De aquí se derivan varias decisiones de diseño. Dé a quienes evalúan formación, ejemplos y criterios antes de que evalúen, porque la evaluación entre pares sin formación es vulnerable al sesgo de amistad, a la selección de fuentes por conveniencia y a la ansiedad social. Secuencie el trabajo de modo que la autoevaluación preceda a los comentarios entre pares y a la crítica de la IA, ya que la condición híbrida produjo el aprendizaje conceptual más fuerte y la mejor transferencia diferida. Donde entre la IA generativa, andamie cómo la usa el estudiantado. Mantenga al profesorado en el bucle para todo lo que se convierta en nota, trate las notas entre pares como evidencia dependiente de la calidad y no como marcas uniformes, y haga que el propio uso de la IA sea algo que los grupos negocien y documenten.
+La revisión mediada por IA generativa también hereda las normas lingüísticas de la herramienta: quienes contribuyen a un diálogo de World Englishes sostienen que las personas que revisan con IA generativa quedan expuestas al mismo sesgo hacia las variedades dominantes del inglés que los modelos, y recomiendan editar o reescribir el texto generado para reflejar la propia identidad lingüística de quien escribe ([[genai-linguistic-diversity-academic-writing|Ugwuanyi et al. (2026)]]).
 
 Las preguntas abiertas son sobre la solidez de la evidencia, no solo sobre el diseño. Buena parte de la evidencia sobre pares e IA es pequeña y ligada al contexto: 45 docentes en formación en un curso, 34 estudiantes en un curso de escritura empresarial, 52 docentes en formación inicial en 15 grupos focales. La encuesta de PAIRR es el conjunto de datos más grande de este conjunto y mide las percepciones del estudiantado, no la calidad de las salidas de IA que el estudiantado juzgó. Solo los 1.176 estudiantes de grado del experimento multicéntrico se acercan a una escala causal-comparativa, y evalúa el diseño de los comentarios para la argumentación científica, no la evaluación entre pares como tal. Mientras tanto, [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] auditó 14 metaanálisis revisados por pares que afirman que la IA mejora la educación y encontró que ninguno ofrecía una base válida para sus afirmaciones: todos menos dos definían el tratamiento como una herramienta y no como una intervención pedagógica, la heterogeneidad era alta en todos los metaanálisis que informaban de I² (77,2% a 94,4%) y una auditoría de 59 estudios primarios encontró que el 61% tenía [[assessment-validity|problemas de validez]], a menudo un desajuste entre el resultado medido y la afirmación realizada. Las afirmaciones sobre lo que la IA hace en la evaluación entre pares deberían tratarse como afirmaciones sobre una actividad diseñada, puestas a prueba en los términos de esa actividad.
 
 ## Conceptos conectados
 
+- [[pedagogical-patterns]] — PAIRR y los comentarios combinados de pares más IA: las secuencias y su evidencia comparativa
 - [[writing-education]]
 - [[formative-assessment]]
 - [[self-assessment]]
@@ -106,10 +110,10 @@ Las preguntas abiertas son sobre la solidez de la evidencia, no solo sobre el di
 
 ## Artículos conectados
 
+- [[ai-peer-feedback-l2-writing-engagement-2026]] — Los comentarios integrados de IA más pares elevaron las tres dimensiones de la implicación y las cuatro dimensiones de escritura del IELTS
 - [[usher-faraon-who-grades-best-2026]] — Comparación de la calificación de ChatGPT, los pares y el profesorado según los niveles de calidad de los proyectos (Usher y Faraon 2026)
 - [[pairr-ai-peer-review-2025]] — Revisión de Pares y de IA + Reflexión (PAIRR)
 - [[becerra-aicofe-feedback-2026]] — Sistemas de comentarios entre pares con IA
-- [[beyond-detection-authentic-assessment-ai-2025]] — Más allá de la detección: rediseñar la evaluación auténtica
 - [[ai-internal-feedback-evaluative-judgments]] — Desentrañar el desarrollo del juicio evaluativo en estudiantes de grado
 - [[learner-centered-feedback-ai]] — Mejorar con IA los comentarios centrados en quien aprende
 - [[genai-linguistic-diversity-academic-writing]] — La IA generativa y la diversidad lingüística en la escritura académica
@@ -127,4 +131,3 @@ Las preguntas abiertas son sobre la solidez de la evidencia, no solo sobre el di
 - [[ai-agents-peer-learning-discourse]] — Discurso similar al aprendizaje entre pares entre 2,4 millones de agentes de IA (Chen et al. 2026)
 - [[oneill-presumed-effective-meta-analysis-2026]] — Auditoría de 14 metaanálisis sobre AIED y 59 estudios primarios (O'Neill 2026)
 - [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Comentarios del profesorado frente a comentarios entre pares asistidos por IA en la escritura en L2: cantidad, foco y trayectorias de mejora a lo largo de dos tareas (Tang, Li y Luo 2026)
-- [[peer-group-vs-ai-feedback-2026]] — Análisis comparativo de los comentarios de grupos de pares y los generados por IA en la evaluación entre pares: perspectivas sobre la calidad de los comentarios y las percepciones del estudiantado en la educación superior

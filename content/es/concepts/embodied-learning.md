@@ -1,14 +1,14 @@
 ---
 title: Aprendizaje encarnado
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-09-28T18:15:36-04:00"
+updated: "2026-10-02T23:55:01-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-09-17T02:26:00-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,7 @@ El aprendizaje encarnado está estrechamente relacionado con el [[active-learnin
 
 - **Programación anclada:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] ancla la [[cs-education|programación por bloques]] en la ejecución robótica encarnada y crea un bucle estrecho de creación, ejecución, observación y revisión, de modo que quien aprende ve su código convertirse en comportamiento.
 - **Interacción social robótica:** los [[educational-robotics|robots sociales]] usados para la [[storytelling-in-education|narrativa]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), el juego de rol ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]) y la lengua de signos ([[pepper-robot-sign-language-lis-2025|Pepper]]) ofrecen una interacción social encarnada que apoya el aprendizaje relacional y [[social-emotional-learning|socioemocional]].
+- **Las características de encarnación no son lo que impulsa los resultados.** Un metaanálisis de 11 estudios de RALL (N = 595, g = 0.83, I² = 84.4%) encontró que la morfología del robot, la modalidad, la autonomía y el rol social no moderaban el aprendizaje de L2; los formatos grupales superaron a los individuales, así que fue la posición del robot, y no su encarnación, lo que cargó con el efecto ([[robot-assisted-language-learning-meta-analysis-2026|Wang et al. (2026)]]).
 - **Encarnación y escritura creativa:** [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|la investigación sobre la integración de robots y LLM en la escritura creativa]] examina cómo la encarnación afecta a la interacción y a los resultados de quien aprende.
 - **Interacción persona-robot:** la investigación sobre [[educational-robotics|HRI]] ([[task-context-trust-educational-hri-2026|confianza]], [[human-autonomy-agency-hri-review-2025|agencia]]) examina cómo la encarnación física modela la confianza, la [[student-engagement|implicación]] y la [[agency|autonomía]].
 - **El gesto como evidencia de comprensión:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] integran el seguimiento de gestos por visión artificial con el análisis de [[llm]] del habla para mostrar que la comprensión conceptual de la estadística en estudiantes de ingeniería se expresa tanto en el habla como en el gesto. Los gestos explicativos de alta confianza se agrupan en torno a conceptos concretos (especialmente la media), y un acoplamiento estrecho entre gesto y habla señala un discurso conceptual coherente, mientras que la divergencia marca ideas en desarrollo: esto sitúa la acción encarnada como evidencia en la [[assessment-validity|evaluación]] a través de la [[multimodal|analítica del aprendizaje multimodal]], y no solo como mecanismo de aprendizaje.
@@ -73,12 +74,7 @@ El aprendizaje encarnado se conecta con [[educational-robotics]], [[educational-
 - [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[ensemble-cognition-philosophy-ai-education]]
 - [[vargas-situated-learning-ai-review-2024]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[fowlin-operationalizing-learning-principles-ai]]
 - [[videla-embodied-ai-education-choreography]]
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)

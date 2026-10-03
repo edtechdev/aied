@@ -1,7 +1,7 @@
 ---
 title: "Educación jurídica"
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-09-28T20:10:03-04:00"
+updated: "2026-10-02T23:55:01-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-09-18T07:00:00-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,7 @@ La base de evidencia es hoy escasa y muy centrada en políticas. Un artículo su
 - **Investigación jurídica.** Plataformas comerciales como Lexis+ AI y Westlaw Precision con CoCounsel integran funciones generativas en las herramientas con las que el estudiantado ya se forma, lo que hace difícil separar el «uso de IA» de la búsqueda ordinaria en bases de datos. Gutowski y Hurley señalan cuánto comprime esto del flujo de trabajo habitual: identificar autoridades y fuentes secundarias en minutos en lugar de horas.
 - **Apoyo a la redacción y la escritura.** Primeros resúmenes de casos, esquemas, memorandos, síntesis de primera pasada y retroalimentación a nivel de frase sobre claridad y gramática. Los autores sitúan el trabajo generado por IA en la misma relación de supervisión que el trabajo de un paralegal o un abogado junior: quien ejerce sigue siendo responsable de su exactitud y de su suficiencia jurídica.
 - **Estudio y preparación del examen de habilitación.** Generación de preguntas de práctica, supuestos de hecho y «casos hipotéticos» para practicar con tiempo, y tutoría sobre debilidades recurrentes. Gutowski y Hurley añaden la observación de que la IA generativa ya aprueba tanto el examen de habilitación (Bar Exam) como el examen multijurisdiccional de responsabilidad profesional, lo que a su juicio dice más del umbral de competencia mínima del examen que del modelo.
+- **Perfiles específicos de tarea, no una tabla de clasificación.** Bajo un protocolo ciego, los mismos modelos listos para usar que alcanzaron niveles humanos en el examen de habilitación (puntuaciones acumuladas de 26 a 79 sobre 100) fallaron todos el examen de notaría, que exige una planificación jurídica orientada a objetivos bajo estrictas restricciones formales, y fueron engañados por trampas deliberadas insertadas en él ([[llm-turing-test-italian-legal-exams-2026|Bertoli et al. (2026)]]).
 - **Revistas jurídicas, juicios simulados y asesoría académica.** Cribado de envíos, preparación de la argumentación y programas de apoyo académico que usan modelos personalizados entrenados con exámenes anteriores, respuestas modelo y materiales del curso.
 - **Evaluación e integridad.** Los casos problemáticos recurrentes: redacción no declarada, citas de autoridades inexistentes y exámenes que ya no miden el análisis sin ayuda.
 
