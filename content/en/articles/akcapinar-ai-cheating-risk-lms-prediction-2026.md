@@ -58,9 +58,10 @@ A descriptive result runs alongside the model. Thirteen of the 23 high-risk stud
 
 ## What this means for practice
 
-The practical message is about where the score may be used, not how accurate it is. The author recommends low-stakes interventions — reminders about course materials, assignment follow-up, brief instructor check-ins, and clear guidance on acceptable AI use — and argues the threshold should be chosen for the intended use: a lower threshold buys reach for outreach and is unsuitable for disciplinary decisions. Each flag should be reviewed by an instructor in context, the score should stay separate from grading and misconduct records, and students should have a way to question how their data were interpreted.
-
-That framing connects to a wider argument in the integrity literature that AI-enabled misconduct is better answered through assessment design and ethical pedagogy than through surveillance. The selected features point toward specific supports rather than sanctions: the students the model flags are, on the traces, the ones who interacted least.
+- **Instructors.** If a model like this flags a student, treat it as a prompt for outreach — a reminder about course materials, an assignment follow-up, a brief check-in — never as an accusation. The author insists the score stay separate from grading and misconduct records, and that students have a way to question how their data were interpreted.
+- **Instructors.** Choose the decision threshold for the use you intend. At 0.50 the model missed nine of the 23 high-risk students; dropping to 0.30 identified 21 of them at 60% precision. Reach is what low-stakes outreach wants, and accuracy fit for an accusation is not available at either setting.
+- **Learning analytics designers.** Note where the signal comes from: the three stable predictors — course-module views, assignment submissions, and the days on which videos were accessed — were all *lower* in the high-risk group, so the model reads disengagement rather than sophistication. Both the labeling rule and the threshold need local validation before any deployment.
+- **Institutions.** The features point at supports rather than sanctions, which aligns with the wider argument that AI-enabled misconduct is better answered through assessment design and ethical pedagogy than through surveillance: the students this model flags are, on the traces, the ones who interacted least.
 
 ## Limitations
 
