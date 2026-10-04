@@ -7,7 +7,7 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-10-04
-**Total backlog:** 8 articles awaiting full text · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 0 articles awaiting full text · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 
 ## OpenAlex harvest (2026-09-25)
@@ -18,26 +18,8 @@ _All articles from this harvest are ingested; none pending as of 2026-10-04._
 
 _No articles pending as of 2026-10-04._
 
-## Computers and Education: Artificial Intelligence (CAEAI)
-
-- [Generative AI-assisted workflows in architectural conceptual design: Performance, creative self-efficacy, and cognitive load](https://www.sciencedirect.com/science/article/pii/S2666920X2600144X) — [DOI: 10.1016/j.caeai.2026.100682](https://doi.org/10.1016/j.caeai.2026.100682)
-- [ChatGPT for interdisciplinary learning: Does it equally benefit STEM and non-STEM students?](https://www.sciencedirect.com/science/article/pii/S2666920X26001438) — [DOI: 10.1016/j.caeai.2026.100681](https://doi.org/10.1016/j.caeai.2026.100681)
-- [A socio-technical framework for educational excellence: Empirical validation of artificial intelligence and Jidoka integration in accounting pedagogy within emerging financial markets](https://www.sciencedirect.com/science/article/pii/S2666920X26001098) — [DOI: 10.1016/j.caeai.2026.100647](https://doi.org/10.1016/j.caeai.2026.100647)
-- [Enhancing domain adaptation of LLM via model composition in solving medical exam questions](https://www.sciencedirect.com/science/article/pii/S2666920X26001001) — [DOI: 10.1016/j.caeai.2026.100638](https://doi.org/10.1016/j.caeai.2026.100638)
-
-## Computers and Education Open (CEAO)
-
-- [Evaluating AI-based visual privacy through Cartoonification: Impact on expressive participation and consent for data retention](https://www.sciencedirect.com/science/article/pii/S2666557326000649) — [DOI: 10.1016/j.caeo.2026.100393](https://doi.org/10.1016/j.caeo.2026.100393)
-- [A pilot educational framework for AI-enhanced digital manufacturing and reflective skill development](https://www.sciencedirect.com/science/article/pii/S2666557326000133) — [DOI: 10.1016/j.caeo.2026.100342](https://doi.org/10.1016/j.caeo.2026.100342)
-
-## International Journal of Educational Technology in Higher Education (IJETHE)
-
-- [Large language models for teaching and learning in higher education: opportunities, challenges, and future directions](https://link.springer.com/article/10.1186/s41239-026-00624-7) — [DOI: 10.1186/s41239-026-00624-7](https://doi.org/10.1186/s41239-026-00624-7)
 
 
-## Journal of Instructional Design and Technology (JOIDAT)
-
-- [Designing in Uncertainty: GenAI and Creative Agency in a Graduate Seminar](https://joidat.scholasticahq.com/article/164950-designing-in-uncertainty-genai-and-creative-agency-in-a-graduate-seminar) — [DOI: 10.65201/RKHM9093](https://doi.org/10.65201/RKHM9093)
 
 
 ## Ingested pages whose source text is truncated (PDF needed)
