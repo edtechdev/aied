@@ -442,6 +442,8 @@ REJECT_PAIRS = {
     ('teacher descriptions', 'teacher-role'),    # a data label in a statistic, not the role
     ('interpretability', 'explainable-ai'),        # score interpretability, not XAI
     ('transfer to other proficiency scales', 'transfer-of-learning'),  # measurement transfer
+    ('measurement model', 'educational-measurement'),  # the PLS-SEM model, not measurement theory
+    ('curriculum designers', 'curriculum-design'),      # an audience label in the practice section
     ('self-regulation', 'regulation'),                   # learner SRL, not AI regulation
     ('self-regulatory', 'regulation'),                   # "self-regulatory function"
     ('social regulation', 'regulation'),                 # co-regulation

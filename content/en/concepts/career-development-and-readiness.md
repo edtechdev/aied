@@ -1,7 +1,7 @@
 ---
 title: Career Development and Readiness
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-04T05:34:36-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
@@ -16,7 +16,7 @@ reviewed_by: [editor]
 
 - Career readiness here is framed as adaptability — the capacity to navigate, adjust, and thrive across changing roles — rather than just credentialing. How does that reframing change what you think a career-focused education should actually build?
 - [[research-methods-aied|Research]] consistently shows career adapt-abilities significantly reduce AI anxiety about job displacement. Why might being more adaptable to career change make a student feel less anxious about a technology that threatens their current job prospects?
-- One key claim is that AI literacy is necessary but not sufficient for career readiness — students also need adaptability and positive self-evaluations. Can you think of someone who is highly AI-literate yet still anxious or unprepared for the workforce? What were they missing?
+- One key claim is that AI literacy on its own does not make a graduate career-ready, because readiness also runs through what students believe they can adapt to. Can you think of someone who is highly AI-literate yet still anxious or unprepared for the workforce? What were they missing?
 - An ITHAKA S+R report documents a skills-prioritization gap: instructors emphasize critical, responsible use of AI, while employers favor workflow automation and human-AI teaming skills — and they agree on only one of 26 AI skills. Why do you think classroom and workplace priorities diverge so sharply, and who should adapt?
 - The report finds most institutions lack both a consensus on what AI skills look like and an assessment framework for them. If you had to define and assess 'workforce-ready AI skills' for a graduating student, what would you measure and how?
 - Fear of replacement by AI is identified as a primary driver of AI anxiety, and career readiness is positioned as a protective factor for student well-being. How should an education program address the anxiety itself, rather than only adding skills?
@@ -30,7 +30,7 @@ As AI transforms occupations, education's role in career development has broaden
 
 
 - **Readiness tracked engagement, not threat level.** In [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]], the most AI-anxious profile still reported the highest career crafting (4.222) and self-perceived employability (3.964), alongside the favorable profile that did not differ significantly — so anxiety level did not index career readiness.
-- **AI literacy is necessary but not sufficient.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] argue AI literacy alone is not enough for career readiness — students also need adaptability and positive self-evaluations, directly linking [[ai-literacy]] to career outcomes.
+- **AI literacy is necessary but not sufficient.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] argue AI literacy alone is not enough for career readiness — students also need adaptability and positive self-evaluations, directly linking [[ai-literacy]] to career outcomes. [[ai-literacy-graduate-employability-2026|Hendrawan and Lestari (2026)]] test it quantitatively with 455 final-year students in Jakarta: career adaptability carries a significant indirect effect (β = 0.173), and growth mindset does not moderate the path at all, so adaptability rather than mindset does the work.
 - **Employer and graduate perspectives.** [[ithaka-sr-ai-skills-college-graduates-2026|The ITHAKA S+R report]] (500 US four-year-college instructors, compared against 200 US employers) documents a **systematic skills-prioritization gap** between instructors and employers that signals the workforce demands shaping [[higher-ed|higher education]] curricula. Instructors and employers agree on the importance of only one of 26 AI skills (setting realistic expectations for AI-augmented work): instructors prioritize a *critical, responsible-use* orientation (attribution, human accountability, limits of AI), while employers favor *workflow, automation, and human–AI teaming* skills. The report finds only three of 26 skills are taught by half or more instructors — the under-taught categories (workflow redesign, automation, technical integration) are precisely where employer demands diverge most — and that most institutions lack both a consensus on what AI skills look like and an assessment framework for them. For career development, this means graduates' readiness depends on closing a real, measurable gap between what employers value and what curricula teach, not just on adding AI literacy.
 - **Course policy as a workforce-competency decision.** [[mccorkle-aligned-genai-course-policy-2025|McCorkle's (2025)]] design case makes the trade-off explicit at task level: for each step of a semester project the instructor pairs an emerging [[generative-ai|GenAI]] workforce competency (prompting for objectives, generating images, writing scripts, text-to-speech narration) against the need to assess a foundational skill, and permits AI only where the competency wins — a concrete way to build the workflow skills employers value ([[prompt-engineering]], evaluation of [[llm|LLM]] output) into existing assignments rather than adding a separate AI course.
 - **AI already mediates career preparation itself.** [[loidl-chatgpt-career-development-2026|Loidl, Cao and Huang (2026)]] surveyed 102 undergraduates at one Midwestern R1 university and found about 81% had used ChatGPT for employability-related activities in the previous 12 months, led by resumes (52.94%), workplace communication (38.24%), and cover letters (35.29%), which the interviews read as tailoring and rehearsal work rather than outsourcing; career readiness therefore has to be built on preparation that the tool already mediates, not only on the capacities this page otherwise describes.
@@ -58,6 +58,7 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[student-support-and-success]] — the outcomes that follow completion: persistence, retention, and graduation
 
 ## Connected Articles
+[[ai-literacy-graduate-employability-2026]] — PLS-SEM evidence that AI literacy reaches perceived employability through career adaptability, with growth mindset adding nothing (Hendrawan & Lestari 2026)
 - [[mccorkle-aligned-genai-course-policy-2025]] — Assessment-vs-workforce-competency trade-offs decided task by task (McCorkle 2025)
 - [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
