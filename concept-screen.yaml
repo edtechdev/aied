@@ -3071,3 +3071,21 @@
   - simulation
   - teacher-role
   reason: "One pair qualified. vibe-coding carried teachers and instructors building tools (the GAIDE workshop, the IDE-log visualizer) but nothing about where the assistance stops, and it now states this paper's limit: a duplicate-packet error survived repeated prompts, including one that stated the required behavior, and was fixed only when the instructor reasoned from protocol behavior to an unexposed timeout parameter. The other eleven are already carried or incidental: teacher-role holds expert validation of AI output (grep 'validat' -> 5 hits) so the educator-stays-central point restates it; prompt-engineering already covers natural-language prompting (grep 'natural language' and 'plain' -> 5 hits) so 'without advanced prompt engineering' adds nothing; simulation already received today's digital-twins weave and this paper's simulation claims are about authoring, which vibe-coding now carries; active-learning, learning-design, human-ai-collaboration, generative-ai, llm, personalized-learning, engineering-education and qualitative-research are facet vocabulary or methods the paper uses without contributing a measured claim. Confidence low, as the page states: two cases, no outcome measure."
+
+- article: obhdp-ai-disclosure-erodes-trust-2025
+  date: 2026-10-04
+  integrated:
+  - ai-use-disclosure
+  no_change:
+  - agentic-ai
+  - assessment-validity
+  - automated-assessment
+  - generative-ai
+  - human-in-the-loop-ai
+  - meta-analysis-systematic-review
+  - quantitative-research
+  - social-norms-ai-use
+  - theories-and-frameworks
+  - trust
+  - trust-calibration
+  reason: "One pair qualified. ai-use-disclosure already carried the same phenomenon from survey data - students who always disclosed faced over three times the odds of an accusation, 'transparency invited suspicion' - and now carries the experimental causal evidence for it, with the pooled estimate and the framing/knowledge/regime robustness checks. trust did not get the weave: the paper's trust effect is a consequence of disclosure and is carried at the disclosure page, and the trust page frames trust as the learner's relation to AI and instructors rather than a third party's judgement of a discloser (grep for a disclosure-lowers-trust claim there -> 0 hits, so this is a judgement call rather than a gap). trust-calibration, human-in-the-loop-ai, agentic-ai, automated-assessment and assessment-validity are contrasted or mentioned without contributing a claim; social-norms-ai-use, theories-and-frameworks, quantitative-research, meta-analysis-systematic-review and generative-ai are facet vocabulary and methods. Confidence medium: 13 preregistered experiments, but the samples are mostly working adults and only Study 1 is student-facing."
