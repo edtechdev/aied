@@ -3020,3 +3020,36 @@
   - qualitative-research
   - teacher-ai-competency
   reason: "The more-human paradox is a teacher-role claim, which now carries it. teacher-education carries the pre-service preparation class and the paper's three priority areas restate what that page already holds (grep 'pre-service' -> 24 hits); agency, well-being, equity-in-ai-education, curriculum-design and human-ai-collaboration carry their classes, and an expert visioning activity contributes no measured claim to them. Confidence medium: scenario co-construction by 20 researchers, not observed practice."
+
+- article: caee-digital-twins-stem-education-systematic-review-2026
+  date: 2026-10-04
+  integrated:
+  - simulation
+  - digital-divide
+  no_change:
+  - change-management
+  - cognitive-offloading
+  - educational-robotics
+  - engineering-education
+  - experiential-learning
+  - higher-ed
+  - learning-gains
+  - motivation
+  - usability-research
+  - virtual-and-augmented-reality
+  - collaborative-learning
+  - computational-thinking
+  - constructivist
+  - edtech-platform
+  - formative-assessment
+  - game-based-learning
+  - inquiry-based-learning
+  - learning-analytics
+  - learning-theories
+  - meta-analysis-systematic-review
+  - open-source
+  - pedagogy
+  - self-report-measures
+  - summative-assessment
+  - visualization
+  reason: "Two pairs qualified. simulation carried nothing about digital twins (grep 'digital twin' -> 0 hits) and now states the review's central split: all 11 implementations ran a working prototype, only 3 reported significance at p < 0.05, and hardware bounded access - a claim about simulation as a technology, not about engineering education. digital-divide already treats affordability and infrastructure as first-level divide dimensions and carries software-cost evidence; this review adds the equipment side from a different technology family ($2000-$15,000 per workstation node in 4 studies, 1-3 concurrent students in 5, against rigs from $30,000 to over $150,000). The rest are incidental: constructivism (5 studies), inquiry-based learning (3) and gamification (2) appear as labels for what studies said they grounded their work in, with no measured claim, so constructivist, inquiry-based-learning and game-based-learning stay unchanged; meta-analysis-systematic-review, self-report-measures, summative-assessment, formative-assessment, learning-analytics and visualization are methods or instruments the review mentions rather than findings about them; pedagogy, collaborative-learning and learning-theories carry their classes without new evidence; change-management and open-source are single mentions; computational-thinking and edtech-platform appear only as facet vocabulary. Confidence medium: 11 studies, descriptive synthesis, only 3 with statistical significance."
