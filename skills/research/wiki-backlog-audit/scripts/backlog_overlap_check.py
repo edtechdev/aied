@@ -17,6 +17,8 @@ Sections are classified before parsing:
 Usage:
     python3 backlog_overlap_check.py [--wiki <path>] [--json]
 
+    --wiki defaults to the repository containing this script.
+
 Exit status is 0 whether or not duplicates are found; read the report.
 """
 import argparse
@@ -164,7 +166,16 @@ def parse_backlog(path):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--wiki", default=".")
+    # Default to the repository this script lives in, so the shipped copy carries no
+    # absolute path belonging to any one machine. The installed copy sits outside the
+    # wiki repo, so walk up looking for the backlog rather than counting parents, and
+    # fall back to the working directory. Pass --wiki to point somewhere else.
+    root = None
+    for parent in [Path(__file__).resolve().parent, *Path(__file__).resolve().parents]:
+        if (parent / "AIED-BACKLOG.md").exists():
+            root = parent
+            break
+    ap.add_argument("--wiki", default=str(root or Path.cwd()))
     ap.add_argument("--json", action="store_true")
     args = ap.parse_args()
 
