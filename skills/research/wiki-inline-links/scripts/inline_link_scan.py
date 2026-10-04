@@ -367,6 +367,8 @@ REJECT_PAIRS = {
     ('feelings of achievement', 'learning-gains'),
     ('bilingual', 'multilingual-learning'),          # prompt language, not learner population
     ('transparency', 'explainable-ai'),              # institutional transparency, not XAI
+    ('engagement', 'student-engagement'),
+    ('prior knowledge that', 'prior-knowledge'),      # evaluator awareness of AI use, not academic prior knowledge
     ('engagement', 'student-engagement'),            # "active engagement with GenAI" (academics)
     ('active engagement', 'student-engagement'),
     ('situated', 'situated-learning'),               # adjectival: "identity is situated"
