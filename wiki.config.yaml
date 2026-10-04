@@ -105,7 +105,7 @@ build:
     # House style is US English: British forms in body prose are a defect.
     - python3 tooling/scripts/check-us-english.py
     # Article page shape: the practice and Limitations sections, their bullet counts
-    # (practice 3-5, Limitations 2-4) and the section order, on the pages touched here.
+    # (practice 3-5, Limitations 2-6) and the section order, on the pages touched here.
     - python3 tooling/scripts/audit-article-sections.py --changed
     # A citation that begins with the year or the title names no author, so the study cannot
     # be attributed in a concept weave and the line cannot be checked against the source.
