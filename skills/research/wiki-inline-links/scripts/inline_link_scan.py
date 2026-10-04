@@ -352,6 +352,8 @@ AUTO_APPLY_DENYLIST = {
 REJECTED_HITS = []  # populated during a scan; reported so suppressed matches stay visible
 
 REJECT_PAIRS = {
+    ('stress', 'anxiety-and-stress'),
+    ('assessment design', 'assessment-validity'),
     ('API processing', 'automated-assessment'),    # "batch API processing vs conversational review"
     ('grade', 'feedback'),                           # "rather than a grade" — a mark, not feedback
     ('errors on individual topics', 'hallucination-risk'),  # recurring item-level model errors, not hallucination

@@ -29,6 +29,13 @@ STRAY_SOURCE_LINK = re.compile(
 )
 STRAY_SOURCE_BARE = re.compile(r"^\s*📄\s*(?:DOI|arXiv)\b", re.M)
 
+# A line inside a ## Connected Concepts / ## Connected Articles section that opens with a
+# wikilink but carries no list marker renders as a paragraph instead of a list item, so the
+# entry silently loses its bullet. The weave procedure dropped the marker on 13 concept pages
+# before this check existed (found 2026-10-04) and no gate caught any of them.
+CONNECTED_HEADING = re.compile(r"^## Connected (?:Concepts|Articles)\s*$", re.M)
+BARE_CONNECTED = re.compile(r"^\[\[[^\n]*$", re.M)
+
 
 def scan_file(path):
     try:
@@ -57,6 +64,16 @@ def scan_file(path):
             f"stray source/PDF link in body (line {line_no}): {m.group(0).strip()[:60]} "
             f"— the source must be hyperlinked ONLY in the bottom ## Citation"
         )
+    for h in CONNECTED_HEADING.finditer(body):
+        start = h.end()
+        nxt = re.search(r"(?m)^## ", body[start:])
+        section = body[start:start + (nxt.start() if nxt else len(body) - start)]
+        for m in BARE_CONNECTED.finditer(section):
+            line_no = body[:start + m.start()].count("\n") + 1
+            issues.append(
+                f"Connected-list entry missing its '- ' marker (line {line_no}): "
+                f"{m.group(0).strip()[:60]} — it renders as a paragraph, not a list item"
+            )
     return issues
 
 

@@ -81,7 +81,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — Social-Emotional Learning
 ## Connected Articles
-[[liu-ai-assistance-reduces-persistence-2026]] — Brief AI use reduced persistence on later unassisted problems (Liu et al. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — Brief AI use reduced persistence on later unassisted problems (Liu et al. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — The effort paradox and the vicious cycle of frictionless assistance
 - [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement

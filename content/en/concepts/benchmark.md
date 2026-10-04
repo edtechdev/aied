@@ -80,7 +80,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[automated-essay-scoring]]
 
 ## Connected Articles
-[[standardized-assessment-llm-english-proficiency-2026]] — A 624-item English proficiency benchmark that reports model ability as a calibrated level (Min et al. 2026)
+- [[standardized-assessment-llm-english-proficiency-2026]] — A 624-item English proficiency benchmark that reports model ability as a calibrated level (Min et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[cdpk-pedagogy-benchmark-llms]] — The Pedagogy Benchmark: LLM pedagogical knowledge (CDPK + SEND)

@@ -127,7 +127,7 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 - [[student-support-and-success]] — administrative outcomes (task completion, credits, persistence, graduation) as distinct from learning gains
 
 ## Connected Articles
-[[contractor-learning-impact-generative-ai-2026]] — Off-the-shelf chatbot access raised unaided test scores that persisted a week (Contractor & Reyes 2026)
+- [[contractor-learning-impact-generative-ai-2026]] — Off-the-shelf chatbot access raised unaided test scores that persisted a week (Contractor & Reyes 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
 - [[genai-performance-vs-learning]] — why assisted performance is not a learning outcome (Yan et al. 2025)
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning

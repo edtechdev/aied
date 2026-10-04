@@ -58,7 +58,7 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[student-support-and-success]] — the outcomes that follow completion: persistence, retention, and graduation
 
 ## Connected Articles
-[[ai-literacy-graduate-employability-2026]] — PLS-SEM evidence that AI literacy reaches perceived employability through career adaptability, with growth mindset adding nothing (Hendrawan & Lestari 2026)
+- [[ai-literacy-graduate-employability-2026]] — PLS-SEM evidence that AI literacy reaches perceived employability through career adaptability, with growth mindset adding nothing (Hendrawan & Lestari 2026)
 - [[mccorkle-aligned-genai-course-policy-2025]] — Assessment-vs-workforce-competency trade-offs decided task by task (McCorkle 2025)
 - [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education

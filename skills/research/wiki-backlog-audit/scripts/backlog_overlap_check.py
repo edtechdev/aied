@@ -40,6 +40,7 @@ PENDING = [
     "Computers and Education: Artificial Intelligence",
     "Computers and Education Open",
     "British Journal of Educational Technology",
+    "International Journal of Educational Technology",
     "Journal of Instructional Design and Technology",
     "Intersection: A Journal",
 ]
