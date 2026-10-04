@@ -102,6 +102,11 @@ build:
     - python3 tooling/scripts/gen-concept-artifacts.py --check   # generated views in sync
     - python3 skills/research/wiki-inline-links/scripts/inline_link_scan.py . --all
     - python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py . --all
+    # Currency is written with an escaped sign. The renderer treats $-delimited text as
+    # math, so two amounts in one paragraph pair up and the sentence typesets as an equation
+    # with the numbers gone - quietly, on the page, with no gate watching. Both amounts in
+    # "$2000 and $15,000" were eaten this way before this gate existed.
+    - python3 tooling/scripts/check-currency-escapes.py .
     # House style is US English: British forms in body prose are a defect.
     - python3 tooling/scripts/check-us-english.py
     # Article page shape: the practice and Limitations sections, their bullet counts

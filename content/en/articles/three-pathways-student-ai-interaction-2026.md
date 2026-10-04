@@ -34,7 +34,7 @@ source_depth: full text
 4. Paths 1 and 2 together accounted for 64% of the primary sample, consistent with the typology's prediction that Strategic Dialogue is not students' default mode of [[student-engagement|engagement]].
 5. A second dataset of 57 messages from 10 students on a reflection-structured assignment was dominated by probing, applicative Path 3 content, offering a preliminary indication that assignment framing influences path engagement.
 6. GPT-5, used as a third coder on the same 50 messages, introduced a calculation_check category covering 28% of messages and absent from the human scheme, surfacing a recurring structure human coders had split across two labels.
-7. GPT-5 classified 28% of exchanges as Path 3 versus 36% for the lead coder and 24% for the research assistant, though the added category limited direct cross-coder comparison; a campus-wide follow-on is funded at $22,100 across two phases with a three-year target of 12 to 15 faculty and roughly 350 students.
+7. GPT-5 classified 28% of exchanges as Path 3 versus 36% for the lead coder and 24% for the research assistant, though the added category limited direct cross-coder comparison; a campus-wide follow-on is funded at \$22,100 across two phases with a three-year target of 12 to 15 faculty and roughly 350 students.
 
 ## The Three Paths of Student-AI Interaction
 
