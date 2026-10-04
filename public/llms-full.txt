@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 219 concepts, 1605 articles, and 36 FAQs.
+> Complete text of 219 concepts, 1616 articles, and 36 FAQs.
 
 # Concepts
 
@@ -307,7 +307,7 @@ The knowledge base's frameworks and empirical studies converge on a set of pract
 
 ### Measuring AI literacy
 
-A distinct research thread treats AI literacy not only as a target for instruction but as a construct to be measured. The knowledge base's assessment strand distinguishes **self-reported** from **performance-based** literacy: self-reports diverge sharply from demonstrated competence (teachers overestimate by ~40%), and performance-based measures predict classroom AI integration far better than confidence surveys (r≈0.72 vs 0.31). Intervention work reproduces that divergence at the level of behavior: in [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]], neither GenAI attitudes nor a general metacognitive-awareness scale predicted students' regulation of LLM interaction or their final task scores (r = .01 and r = .04, both non-significant), while the behaviors the workshop changed — rejecting underspecified prompts, judging answer correctness, asking a follow-up — did track answer quality. Validated instruments are emerging to close this gap — the [[jin-glat-genai-literacy-assessment|GLAT]] provides a psychometrically validated generative-AI literacy assessment, and diagnostic profiles (overestimators vs. true novices) let designers target support where it is needed. For design and research, this ties AI literacy to [[educational-measurement]] and to [[assessment]] broadly: a literacy framework is only as useful as the instruments used to track growth, and stage-based continua require reliable measurement to place learners along them.
+A distinct research thread treats AI literacy not only as a target for instruction but as a construct to be measured. The knowledge base's assessment strand distinguishes **self-reported** from **performance-based** literacy: self-reports diverge sharply from demonstrated competence (teachers overestimate by ~40%), and performance-based measures predict classroom AI integration far better than confidence surveys (r≈0.72 vs 0.31). Intervention work reproduces that divergence at the level of behavior: in [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]], neither GenAI attitudes nor a general metacognitive-awareness scale predicted students' regulation of LLM interaction or their final task scores (r = .01 and r = .04, both non-significant), while the behaviors the workshop changed — rejecting underspecified prompts, judging answer correctness, asking a follow-up — did track answer quality. Validated instruments are emerging to close this gap — the [[jin-glat-genai-literacy-assessment|GLAT]] provides a psychometrically validated generative-AI literacy assessment, and diagnostic profiles (overestimators vs. true novices) let designers target support where it is needed. [[caeai-digital-literacy-frameworks-review-2026|Guo et al. (2026)]] map that instrument landscape directly, reviewing 80 validated frameworks — 69 digital literacy and 11 AI literacy — published between January 2014 and February 2025. AI has pulled digital literacy toward ethics and recast communication to include human–AI interaction, while metacognitive regulation and educator-specific human–AI collaboration remain the least specified. For design and research, this ties AI literacy to [[educational-measurement]] and to [[assessment]] broadly: a literacy framework is only as useful as the instruments used to track growth, and stage-based continua require reliable measurement to place learners along them.
 
 
 A 32-item six-facet instrument extends the four-dimension model with two further facets — responsible use and self-development — and holds scalar invariance across adolescents (12–17), young adults (18–40) and midlife adults (41–60), though the authors caution the ΔCFI approached the conventional cutoff ([[sfailq-six-facet-ai-literacy-questionnaire-2026|Liu et al. (2026)]]).
@@ -366,6 +366,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[career-development-and-readiness]] — the employability payoff AI literacy is argued to build
 - [[ai-education]] — the broader field
 ## Connected Articles
+- [[caeai-digital-literacy-frameworks-review-2026]] — 80 validated frameworks show AI expanding digital literacy toward ethics while educator human–AI collaboration stays under-specified (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Six competency areas, five values and three progression levels for public service media
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
 - [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Continuum for AI Literacy
@@ -644,7 +645,7 @@ The knowledge base's articles document cognitive offloading across multiple dime
 - **Learning losses from unguided AI:** [[generative-ai-guardrails-harm-learning|High school math RCTs]] show that GenAI without [[guardrails]] produces worse learning outcomes than traditional instruction. [[generative-ai-reduced-study-time-math|Reduced study time]] correlates with reduced learning — students complete tasks faster but retain less.
 - **A randomized test of the offloading prediction at a 45-day delay — and the deficit is not just saved time:** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] randomized 120 undergraduates to study AI/ML topics either with unrestricted ChatGPT (GPT-4 web interface, no prompt guidance) or with traditional non-AI methods, then gave a surprise 20-question conceptual test 45 days later. The AI-assisted group scored 57.5% against 68.5% (t(83) = −3.19, p = .002, Cohen's d = 0.68), and the disadvantage survived an ANCOVA holding self-reported study time constant (F(1, 82) = 7.89, p = .006; adjusted means 6.50 vs. 5.85), so it was not merely a quantity-of-time artifact. The paper's offloading argument is that ChatGPT supplies synthesis and explanation outright, making it a qualitatively different form of delegation than a calculator — one that can absorb comprehension, not just retrieval.
 
-- **Offloading is not always harmful — the "coach" boundary condition:** [[coach-not-crutch-ai-writing|Lira et al. (2025)]] show that AI can reduce practice effort *and* improve the learning environment, yielding "work less, learn more." Adults who practiced writing with an AI tool wrote better no-AI letters than those who practiced alone — even beating personalized feedback from human editors — with no illusion-of-mastery inflation. The reconciliation with the harms above is the **form of offloading**: Lira et al.'s AI *scaffolded* (surfacing examples and feedback while keeping the learner in the loop) rather than *replacing* the cognitive act. [[ai-making-us-stupid|The skills-vs-basic-abilities perspective]] converges on the same boundary: **AI that coaches preserves or boosts skill; AI that substitutes risks decay.** So offloading's effect on learning is conditional, not intrinsic.
+- **Offloading is not always harmful — the "coach" boundary condition:** [[coach-not-crutch-ai-writing|Lira et al. (2025)]] show that AI can reduce practice effort *and* improve the learning environment, yielding "work less, learn more." Adults who practiced writing with an AI tool wrote better no-AI letters than those who practiced alone — even beating personalized feedback from human editors — with no illusion-of-mastery inflation. The reconciliation with the harms above is the **form of offloading**: Lira et al.'s AI *scaffolded* (surfacing examples and feedback while keeping the learner in the loop) rather than *replacing* the cognitive act. [[ai-making-us-stupid|The skills-vs-basic-abilities perspective]] converges on the same boundary: **AI that coaches preserves or boosts skill; AI that substitutes risks decay.** [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026|Kilinc et al. (2026)]] put numbers on that boundary in a middle-school agriculture-STEM classroom. Across 42 eighth graders in 12 groups, model uptake accounted for 74.1% of coded collaborative engagement turns in the Most Improved profile, while cognitive offloading and collaborative impasse together reached 80.8% in the Struggling profile. So offloading's effect on learning is conditional, not intrinsic.
 
 - **Critical [[student-engagement|engagement]] vs. offloading:** [[favero-critical-ai-tutors-empower-enslave-2025|Favero et al.]] frame [[intelligent-tutoring|AI tutors]] as either empowering (supporting active cognition) or enslaving (enabling passive offloading), connecting to [[critical-thinking]] [[research-methods-aied|research]].
 
@@ -760,7 +761,8 @@ Two controlled studies in the recent batch pin down the two halves of this claim
 - [[cognitive-surrender]]
 
 ## Connected Articles
-[[liu-ai-assistance-reduces-persistence-2026]] — AI assistance reduced persistence and unassisted performance across three RCTs (Liu et al. 2026)
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Groups starting alike diverged: 74.1% model uptake in one profile against 80.8% offloading and impasse in another (Kilinc et al. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — AI assistance reduced persistence and unassisted performance across three RCTs (Liu et al. 2026)
 - [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT as a cognitive crutch: a randomized controlled trial on knowledge retention 45 days later (Barcaui 2025)
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — From cognitive outsourcing to reallocation: 3P analysis of student–GenAI engagement in unsupervised assessments (Yan et al. 2026)
 - [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
@@ -1307,6 +1309,8 @@ The clearest disciplinary case for redesign over detection comes from computing 
 
 > **Teaching** — how AI reshapes the work, identity, and agency of educators. With 50+ articles examining this dimension, the knowledge base documents a fundamental transformation: from sole knowledge authority to orchestrator of human-AI learning environments. This page goes beyond describing that shift — it details what teachers actually *do* differently, how they can adapt their practice, and how they connect to [[learning-design]], [[ai-literacy]], and [[academic-integrity]].
 
+> [[caeo-navigating-ai-educational-future-scenarios-2026|Malyn-Smith et al. (2026)]] call this the more-human paradox: in six 2030 scenarios co-constructed by 20 researchers from 13 countries, AI saturation intensifies rather than displaces human pedagogical work. The scenarios describe AI as "the air-handling system of the learning ecosystem" — you notice it only when it malfunctions.
+
 ## Questions to Consider
 
 - The page describes the teacher's shift 'from sole knowledge authority to orchestrator of human-AI learning environments.' What do you gain and what do you lose as an educator when you stop being the main source of content?
@@ -1457,7 +1461,8 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
-[[teachers-instrumental-orchestration-ai-math-2026]] — Six observed high school mathematics lessons extend instrumental orchestration with three new types (Noh & Kim 2026)
+- [[caeo-navigating-ai-educational-future-scenarios-2026]] — The more-human paradox: expert 2030 scenarios find AI saturation intensifies rather than displaces human pedagogical work (Malyn-Smith et al. 2026)
+- [[teachers-instrumental-orchestration-ai-math-2026]] — Six observed high school mathematics lessons extend instrumental orchestration with three new types (Noh & Kim 2026)
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responding to AI-generated emotional alerts: teachers' intervention and students' engagement in the mathematics classroom
 
 - [[edustories-classroom-case-studies-2026]] — Edustories: A Collection of Real-world Case Studies from Classroom Practices
@@ -1544,7 +1549,7 @@ A stronger version of that reframing holds that GenAI is a threshold concept rat
 
 ## The competency gap
 
-A key finding is the **gap between [[self-report-measures|self-reported]] and performance-based competency**. [[ai-literacy-assessment-misalignment|Research on AI-literacy assessment]] documents a substantial discrepancy (up to ~40%) between what teachers *believe* they can do and what they can actually *demonstrate* — teachers confident in AI skills often lack foundational prompting and evaluation abilities. This motivates **[[assessment|performance-based assessment]]** of teacher competency rather than reliance on self-report, and connects to [[self-assessment|calibrated self-assessment]].
+A key finding is the **gap between [[self-report-measures|self-reported]] and performance-based competency**. [[ai-literacy-assessment-misalignment|Research on AI-literacy assessment]] documents a substantial discrepancy (up to ~40%) between what teachers *believe* they can do and what they can actually *demonstrate* — teachers confident in AI skills often lack foundational prompting and evaluation abilities. This motivates **[[assessment|performance-based assessment]]** of teacher competency rather than reliance on self-report, and connects to [[self-assessment|calibrated self-assessment]]. A national survey of 2,586 Nigerian secondary teachers measured the two sides with separate instruments — moderate AI awareness (M = 3.13 of 8) against lower AI pedagogical skill (M = 2.47 of 5) — with early- and mid-career teachers reporting higher skill than experienced colleagues ([[nigerian-teachers-ai-awareness-pedagogical-skills-2026|Olurinola et al., 2026]]).
 
 The gap is not only between perceived and actual skill but in the *breadth* of what teachers know: a national survey of 2,018 Ukrainian secondary educators found 84% reported using AI in professional practice while only 11% could name a specialized AI service beyond ChatGPT ([[ukraine-ai-literacy-secondary-framework-2026|Marienko, Markova & Semerikov (2026)]]). A second narrowness shows in what teachers volunteer rather than what they can name: 53 in-service teachers tagging their own classroom cases against the OECD AI Literacy Framework described 43 AI-literate practices against only 10 failures ([[ailithub-ai-literacy-case-infrastructure-2026|Wang et al., 2026]]). Their competency selections clustered on practical judgement (evaluating AI outputs, N = 38) and rarely reached societal bias (N = 5), ethical alignment (N = 6) or AI's energy use (N = 9).
 
@@ -1620,7 +1625,7 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
-[[ailithub-ai-literacy-case-infrastructure-2026]] — Teachers tagged their own classroom AI cases and reached practical competencies readily but societal and ethical ones rarely (Wang et al. 2026)
+- [[ailithub-ai-literacy-case-infrastructure-2026]] — Teachers tagged their own classroom AI cases and reached practical competencies readily but societal and ethical ones rarely (Wang et al. 2026)
 - [[typology-generative-ai-tools-education-2026]] — Tool selection as an exercise of educator agency
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Teacher professional knowledge in K-12 AI education: TAIK vs TPAIK and student learning (Shen et al. 2026)
@@ -2656,6 +2661,7 @@ The knowledge base's evidence shows that human-AI collaboration is a double-edge
 - **Collaboration can enhance learning when it preserves cognitive engagement.** Studies of [[genai-mindtool-generative-learning|GenAI as a mindtool]] and guided collaboration show that when the division of labor keeps the learner generating, deciding, and evaluating, AI augments rather than replaces thinking — producing durable [[self-regulated-learning|self-regulated learning]] and [[creativity]] gains. That the learner keeps the deciding role scales to writing: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] show LLM critiques of students' argumentative essays improved writing across a semester, with learners deciding whether to incorporate or rebut the model's feedback (87.8% rebutted claims) — an arrangement that preserved the learner's evaluative work — and gains appeared even on essays written without LLM support, suggesting durable skill rather than [[cognitive-offloading|tool dependency]].
 - **Collaboration can substitute for learning when it offloads too much.** The failure mode is [[cognitive-offloading|over-reliance]]: when AI produces the answer, the learner's role collapses into passive acceptance, and immediate task performance masks a lack of durable learning. [[genai-performance-vs-learning|Performance-versus-learning]] research and the substitution-to-scaffolding harm cycle ([[substitution-to-scaffolding-ai-harm-cycle-2026]]) document this systematically.
 - **A better score is not by itself evidence that the collaboration taught anything.** The page's other evidence reads assisted performance cautiously, and a randomized test of support type shows why. In [[iqbal-human-genai-support-essay-revision-2026|Iqbal et al.'s (2026)]] laboratory study, 87 EFL students wrote an essay unaided, then revised it with ChatGPT 4.0 (n = 29), with a human writing instructor (n = 28), or with no support (n = 30). Which of four trace-derived revision strategies a student used was strongly associated with the support they had (Cramér's V = 0.668) and only moderately with their earlier writing strategy (Cramér's V = 0.333); [[motivation]], writing skill and metacognitive judgment accuracy showed no overall association, the metacognitive link surfacing only in the no-support condition (p = 0.0460). Critically, no revision strategy predicted score change (p = 0.273) even though support type did: the GenAI group improved significantly more than the human-expert and control groups (H(2) = 16.591, p = 0.00025, η² = 0.174), and inside the same *gradually decreasing [[help-seeking]]* strategy GenAI students gained about 4 points on average while human-expert students lost 0.5. The authors read the pattern as external support bypassing the learner's own [[metacognition|metacognitive judgment]] and warn that the gains may be task-specific optimization rather than durable capability. This does not overturn the *who generates and decides* principle (the study varied who supplied support, not who generated the thinking), but it sharpens the test an instructor should apply: a gain obtained under assistance has to survive an unassisted task before it counts as learning, and adding a human expert to the room is not automatically the safer arrangement.
+- **Adding peers is not automatically the safer arrangement either.** [[bjet-many-hands-make-light-work-2026|Chu, Dai and Zhai (2026)]] set 87 undergraduates to work alone or in pairs with a GenAI multi-agent system for eight weeks. Pairs scored highest on the complex design project (M = 89.64 against 85.85 for peer-only work, p = 0.039), yet critical-thinking awareness rose most for those working alone (M = 0.41) and declined slightly for the pairs (M = −0.04, p = 0.039).
 - **Design principle — preserve the learner's productive work.** Across the research, the sharpest predictor of whether collaboration helps or harms is *who generates and decides*. Arrangements that keep the human cognitively productive (guided [[prompt-engineering|prompting]], "think first, then consult AI," verification and evaluation steps) support learning; arrangements that hand the whole task to the model do not. The complementary move is to change what the model is assigned to *be*. In [[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al.'s (2026)]] quasi-experiment, 68 [[teacher-education|preservice teachers]] either explained the flipped-classroom concept to a GAI *novice learner* built on ERNIE 3.5 (a system framed as inquisitive and appreciative that asked for explanations, examples, verification reasoning and an opposing perspective, sequenced up Bloom's taxonomy) or asked questions of a GAI teacher built on the same model. The students who taught the AI explained better (defining the flipped classroom M = 4.18 vs 3.29; its teaching activities M = 4.91 vs 3.06, both p < 0.001) and generated more and higher-quality questions (M = 3.67 vs 2.14; M = 5.67 vs 3.07, both p < 0.001), while objective recall was statistically indistinguishable (M = 23.18 vs 21.57, p = 0.416), so the advantage sat in explanation and transfer rather than fact retrieval. Students in the AI-teacher condition were candid about the trade: some granted that it gave "more accurate and detailed information" yet reported that "after using it, I didn't want to think independently." Assigning the model the role of [[learning-by-teaching|learner to be taught]] turns the student into the sole source of the ideas and removes the long-standing difficulty of finding a suitable peer to teach. Two design limits come with it: planning and monitoring did not improve (M = 4.01 vs 3.78, p = 0.062), so role reversal is not by itself a [[metacognition|metacognitive]] intervention, and the authors trace that null to a task design that kept students focused on content accuracy. In a writing classroom that principle takes a concrete, teachable form. In [[human-ai-collaboration-academic-writing-2026|Alshehri et al.'s (2026)]] Saudi EFL quasi-experiment, students ran a five-part routine — frame the problem and design prompts, draft iteratively, revise, verify every claim and citation against scholarly databases, and regulate their own attribution and reliance — with each assignment requiring an [[academic-integrity|AI-use log]] of what they accepted, rejected, and why. Writing and digital [[critical-thinking|critical thinking]] rose together and moved almost in lockstep, and the students' reflections tied the verification and [[hallucination-risk|hallucination]]-repair routines specifically to the critical-thinking gains: the same habits of interrogating outputs shaped their composing decisions. The authors' own caveat is the necessary complement to the principle — the workflow is contingent rather than self-sufficient, and can turn counterproductive under thin [[scaffolding]], low critical-thinking or metacognitive readiness (where students lack the capacity to catch bad output), gradual delegation of composing decisions, or unclear institutional [[educational-policy-ai|AI-use policy]].
 - **Bounded authority is itself a design pattern for high-stakes collaboration.** Teachers in [[reichert-human-centered-llm-chatbot-design-teachers-2026|Reichert et al. (2026)]] did not prototype open-ended assistants but systems whose freedom was fixed in advance: every design scoped the chatbot to specific lesson content, and safety was layered as domain boundaries (lesson-specific scope, plus an "information quota" requiring a minimum number of facts or problems before the conversation progressed), content filtering with standardized refusals ("Sorry, this is not part of my knowledge base") that also alerted the teacher, and a teacher override for ambiguous cases — the example given was a question about human reproduction that was legitimate within its unit and should route to a person rather than be auto-rejected. [[personalized-learning|Personalization]] of format, genre, pace, and complexity was welcomed *inside* those boundaries, and oversight (complete conversation logs, real-time alerts, override) was framed as professional responsibility rather than distrust of the model. The implication is that in high-stakes settings the division of labor should be specified as bounded, monitored, and revocable rather than negotiated turn by turn.
 - **Trust must be calibrated, not assumed.** Productive collaboration depends on learners accurately calibrating when to rely on and when to verify AI output — connecting to [[trust-calibration]] and [[human-in-the-loop-ai|human oversight]] rather than blind acceptance or blanket rejection.
@@ -2722,6 +2728,7 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[agentic-ai]] — autonomy
 - [[productive-failure]]
 ## Connected Articles
+- [[bjet-many-hands-make-light-work-2026]] — Paired work with a GenAI multi-agent system won the design project while critical-thinking awareness rose only for those working alone (Chu et al. 2026)
 - [[dang-human-ai-collaboration-competency-2026]] — HACC: collaboration competency as a dynamic configuration of domain, AI and metacognitive competency, with learner agency emergent (Dang et al. 2026)
 - [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Secondary teachers design classroom chatbots as bounded experts under human supervision
 - [[ai-integration-instructional-design-collaboratory-2026]] — Twelve teacher-education course implementations treat AI integration as an instructional design problem
@@ -2878,7 +2885,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[cognitive-surrender]]
 
 ## Connected Articles
-[[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
+- [[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
 - [[genai-reliance-human-agency-collaborative-learning-2026]] — A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning
 - [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
 - [[dang-human-ai-collaboration-competency-2026]] — Learner agency as the emergent quality of coordinating domain, AI and metacognitive competencies, not a standalone node (Dang et al. 2026)
@@ -6628,7 +6635,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — Social-Emotional Learning
 ## Connected Articles
-[[liu-ai-assistance-reduces-persistence-2026]] — Brief AI use reduced persistence on later unassisted problems (Liu et al. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — Brief AI use reduced persistence on later unassisted problems (Liu et al. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — The effort paradox and the vicious cycle of frictionless assistance
 - [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement
@@ -9124,7 +9131,7 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[student-support-and-success]] — the outcomes that follow completion: persistence, retention, and graduation
 
 ## Connected Articles
-[[ai-literacy-graduate-employability-2026]] — PLS-SEM evidence that AI literacy reaches perceived employability through career adaptability, with growth mindset adding nothing (Hendrawan & Lestari 2026)
+- [[ai-literacy-graduate-employability-2026]] — PLS-SEM evidence that AI literacy reaches perceived employability through career adaptability, with growth mindset adding nothing (Hendrawan & Lestari 2026)
 - [[mccorkle-aligned-genai-course-policy-2025]] — Assessment-vs-workforce-competency trade-offs decided task by task (McCorkle 2025)
 - [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
@@ -14031,6 +14038,7 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 ## Implications for language instructors
 
 - **Emerging [[ai-technologies|technologies]] yield small-to-moderate, level-dependent gains.** A [[liu-emerging-tech-tefl-review-2026|meta-analysis of 33 TEFL studies]] (N = 3,181) finds an overall effect of Hedges' g = 0.38 that rises with educational level (primary 0.29, secondary 0.35, tertiary 0.44), with VR/AR yielding the largest effects and productive skills (speaking, writing) gaining more than receptive skills — supporting the use of emerging tech, especially at tertiary level, while keeping expectations realistic.
+- **A systematic review maps where elementary AI language education is thin.** Across 31 studies (2013-2025), work in elementary language classrooms clustered on speaking, literacy and vocabulary while grammar, listening comprehension and sign language were barely studied, and most designs lacked grade-level specificity ([[ai-elementary-language-education-review-2026|Hamasha et al., 2026]]).
 - **Use AI to extend communicative practice, not replace it.** [[ai-interlocutor-l2-spoken-dialogue|AI interlocutors]] and [[tact-pedagogically-adaptive-esl-tutoring|adaptive ESL tutors]] expand interactional practice at scale — pair them with human interaction so fluency and uptake transfer to real conversation.
 
 
@@ -16446,7 +16454,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[trust-calibration]]
 
 ## Connected Articles
-[[ai-feedback-violin-intonation-2026]] — AI feedback on intonation checked against 2,208 machine-measured pitch deviations (Aksoy 2026)
+- [[ai-feedback-violin-intonation-2026]] — AI feedback on intonation checked against 2,208 machine-measured pitch deviations (Aksoy 2026)
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Assessing ChatGPT in-video comments: linguistic, semantic, and perceptual quality (Wang, Du & Jin 2026)
 - [[luo-eaton-ai-student-feedback-ethics-2026]]
@@ -16605,7 +16613,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
-[[llm-multi-agent-conversation-assessment-2025]] — A four-agent architecture for conversation-based assessment whose assessor hedges toward the middle category (Hou et al. 2025)
+- [[llm-multi-agent-conversation-assessment-2025]] — A four-agent architecture for conversation-based assessment whose assessor hedges toward the middle category (Hou et al. 2025)
 - [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
 - [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide approaches to redesigning assessment in the GenAI era
 - [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: from provision to enactment
@@ -16942,7 +16950,7 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
 ## Connected Articles
-[[alam-process-oriented-collaborative-essays-2026]] — A graded, collaboratively written process essay in a first-year degree apprenticeship: iteration and collaboration in the rubric, GenAI permitted within stated boundaries (Alam & Jackson 2026)
+- [[alam-process-oriented-collaborative-essays-2026]] — A graded, collaboratively written process essay in a first-year degree apprenticeship: iteration and collaboration in the rubric, GenAI permitted within stated boundaries (Alam & Jackson 2026)
 - [[genai-performance-vs-learning]] — performance is not learning: a research agenda built on process measures (Yan et al. 2026)
 - [[human-centered-ai-teacher-educators-2026]] — teacher educators asking for AI-resistant, process-based tasks built on justification and reflection (Baran et al. 2026)
 - [[sharma-judgment-visible-genai-assessment-2026]] — annotated decision trails, oral defense, and draft differences selected for visible judgment
@@ -18554,7 +18562,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[legal-issues-and-risks]]
 
 ## Connected Articles
-[[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
+- [[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[best-response-student-ai-dialog-2026]]
 - [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Latent Prompt Restoration Detector
@@ -18779,7 +18787,7 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 - [[student-support-and-success]] — administrative outcomes (task completion, credits, persistence, graduation) as distinct from learning gains
 
 ## Connected Articles
-[[contractor-learning-impact-generative-ai-2026]] — Off-the-shelf chatbot access raised unaided test scores that persisted a week (Contractor & Reyes 2026)
+- [[contractor-learning-impact-generative-ai-2026]] — Off-the-shelf chatbot access raised unaided test scores that persisted a week (Contractor & Reyes 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
 - [[genai-performance-vs-learning]] — why assisted performance is not a learning outcome (Yan et al. 2025)
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
@@ -19800,7 +19808,7 @@ Network methods are used across the knowledge base's evidence base to answer que
 - **Coding is the foundation.** All network variants depend on reliably coding raw data (utterances, events, relationships) into discrete nodes/codes; automated LLM-based coding is increasingly used but requires human validation (e.g., Fleiss' κ of 0.70–0.71 in TNA studies). ([[penny-transition-network-analysis-efl-writing-2026]])
 - **Treating coder agreement as a running check, not a one-off statistic.** [[preservice-teachers-noticing-ai-simulations-2026|Galiç et al. (2026)]] coded 304 noticing statements at Krippendorff's α = .803 and monitored agreement across the study, re-coding disputed statements whenever pooled κ fell below their .85 recalibration threshold (at Cases 18 and 27) and needing no further recalibration by Cases 36–51. The sequence is the point: reliability measured only at the end would have left the early transition models resting on coder drift, since those weekly transition patterns were the study's finding.
 - **Network-level metrics summarize structure.** Density, reciprocity, centralization, and in-/out-strength describe whether interaction is random or organized around "gravitational" hubs, and how reciprocal the exchange is.
-- **Statistical comparison is needed for group differences.** Chi-squared tests or permutation testing are used to establish that observed network differences (e.g., by proficiency) are not due to chance.
+- **Statistical comparison is needed for group differences.** Chi-squared tests or permutation testing are used to establish that observed network differences (e.g., by proficiency) are not due to chance. [[caeai-response-length-ai-ethics-education-2026|Shao et al. (2026)]] show the null has to be built to match the text. In a case discussion with twenty mixed-discipline [[higher-ed|graduate students]], the size-3 shared-term share rose from 5.2% to 8.0% while content tokens fell to roughly 0.65× their post-reading level. A whole-bag permutation test would have called that rise significant; their length-conditioned token-permutation test did not (Q6 p = .62, Q7 p = .15).
 - **Validate the instrument before reading its network.** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai & Alshahri (2026)]] built the 45-item AI-STEM-MLCS by the full scale-development route — expert content-validity ratios, exploratory then confirmatory factor analysis (CFI = 0.983, RMSEA = 0.019), McDonald's ω of 0.888–0.905, and two-week test-retest ICCs of 0.751–0.900 — before modeling the four dimensions with exploratory graph analysis. Deriving structure from a network whose nodes are unvalidated scale scores is what that ordering guards against, and the authors name the Saudi-specific validation as the boundary on transferring the structure.
 - **Interpret with care.** Node granularity (e.g., a coarse "chat" node) can obscure intent; automated classification carries some ambiguity; and cross-sectional network structure does not establish causality.
 - **Networks that expose what an aggregate hides.** [[genai-social-annotation-epistemic-network-analysis-2026|Pan et al. (2026)]] found the GenAI-annotating class outscored and out-engaged its control, then split the experimental class by median performance and showed the gain was not shared: high-achieving groups initiated 60.7 percent of feedback requests across their annotations against 34.0 percent for low-achieving groups, which stayed in a self-referential loop (group separation significant on the ENA X-axis, U = 25.00, p = 0.01). The design lesson is that one group-level effect can summarize two different interaction structures — and the two groups were intact classes, so the comparison identifies the pattern without attributing it causally.
@@ -19831,6 +19839,7 @@ Network methods are used across the knowledge base's evidence base to answer que
 - [[feedback]]
 
 ## Connected Articles
+- [[caeai-response-length-ai-ethics-education-2026]] — Response length, not lexical alignment, drives shared-term statistics in participant–morpheme networks (Shao et al. 2026)
 
 - [[penny-transition-network-analysis-efl-writing-2026]] — TNA of learner-chatbot interactions in scaffolded EFL writing
 - [[tracing-genai-literacy-interaction-patterns]] — ENA of GenAI literacy interaction patterns
@@ -20060,7 +20069,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[automated-essay-scoring]]
 
 ## Connected Articles
-[[standardized-assessment-llm-english-proficiency-2026]] — A 624-item English proficiency benchmark that reports model ability as a calibrated level (Min et al. 2026)
+- [[standardized-assessment-llm-english-proficiency-2026]] — A 624-item English proficiency benchmark that reports model ability as a calibrated level (Min et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[cdpk-pedagogy-benchmark-llms]] — The Pedagogy Benchmark: LLM pedagogical knowledge (CDPK + SEND)
@@ -20696,7 +20705,7 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[student-support-and-success]] — the policy context for institutional support deployment
 
 ## Connected Articles
-[[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
+- [[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
 - [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice English teachers' classroom AI policies: what they permitted, limited, and banned (Nash & Burriss 2026)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
@@ -31668,6 +31677,57 @@ Wang, J., & Li, P. (2026). [AI-Driven Educational Reform: Enhancing Talent Culti
 
 ---
 
+## [Artificial Intelligence (AI) in elementary language education: A systematic review](https://edtechdev.github.io/aied/articles/ai-elementary-language-education-review-2026/)
+
+> **Synthesis:** This PRISMA-guided [[meta-analysis-systematic-review|systematic review]] asks what AI actually does in elementary [[language-learning]], and the answer is narrower than the field's rhetoric suggests. Across 31 studies published between 2013 and 2025, the work clusters on speaking, literacy and vocabulary, while grammar, listening comprehension and sign language are barely touched. [[conversational-ai]] and natural-language processing are common; adaptive systems and biometric feedback are not. Most studies are [[qualitative-research|qualitative]] or mixed-methods with medium samples and no grade-level specificity, so the review's main contribution is a map of where the evidence is thin — and a call for developmentally appropriate, ethically grounded design rather than more undifferentiated AI-in-education claims.
+
+## Key Findings
+
+1. Thirty-one peer-reviewed studies met inclusion criteria across six databases for 2013-2025, screened with dual independent reviewers and an inter-rater reliability of κ = 0.75.
+2. The literature concentrates on speaking, literacy and vocabulary; grammar, listening comprehension and sign language are markedly underrepresented.
+3. [[pedagogy|Pedagogical]] uses of AI centered on motivation, assessment and personalized interaction rather than on foundational skill development.
+4. Conversational AI and natural-language processing were the most common technologies, while [[adaptive-learning|adaptive learning]] systems and biometric feedback were underused.
+5. Most included studies used qualitative or [[mixed-methods-research|mixed methods]] with medium sample sizes and lacked grade-level specificity, limiting what can be concluded about early-childhood learning.
+6. The review is organized by the [[technology-acceptance-model|Diffusion of Innovation]] Theory and follows PRISMA and PICOS, with quality appraisal and risk-of-bias assessment included.
+
+## How the review was built
+
+The review follows PRISMA and the PICOS framework, searching six major databases for peer-reviewed studies published between 2013 and 2025 and guided by the Diffusion of Innovation Theory. Thirty-one studies met the inclusion criteria and were analyzed through [[quantitative-research|quantitative]] content analysis and thematic synthesis. Bias controls include dual independent screening, an inter-rater reliability of κ = 0.75, and a quality appraisal using the Mixed Methods Appraisal Tool.
+
+Two research questions organize the analysis: which language-education aspects AI research addresses in elementary settings, and which [[ai-technologies|AI technologies]] and applications predominate and how they support learning outcomes. The framing matters because the review is explicit that the elementary level is under-theorized — much of the evidence base generalizes from [[higher-ed|higher education]] or from undifferentiated "education" settings rather than studying young learners directly.
+
+## What AI supports, and what it leaves alone
+
+The concentration of the literature is the finding. Speaking, literacy and vocabulary dominate, which aligns with where [[speech-and-voice-technologies|speech recognition]] and text generation are easiest to deploy. Grammar, listening comprehension and sign language are thin, and the authors treat that as a gap in both research and product design rather than a settled judgment about where AI belongs.
+
+On the technology side, conversational agents and natural-language processing are the workhorses, supporting motivation, assessment and personalized interaction. Adaptive learning systems and biometric feedback appear far less often, despite being frequently promised in the broader AI-in-education literature. The mismatch between what is promised and what elementary classrooms actually study is one of the review's practical contributions.
+
+## The methodological gap
+
+The review's second contribution is a critique of the evidence itself. Most included studies are qualitative or mixed-methods with medium samples, and many lack grade-level specificity — so a study labeled "elementary" may span ages where the developmental demands differ sharply. Without that specificity, claims about foundational language acquisition are hard to support.
+
+The authors argue for developmentally appropriate, pedagogically coherent and ethically sound approaches, and they direct the methodological ask at researchers: stronger designs, clearer grade bands and attention to the overlooked skill areas. For policymakers the message is about infrastructure, [[ethics]] and equity, since access to AI-supported language learning is unevenly distributed.
+
+## What this means for practice
+
+- **Instructors.** Check what an AI language tool actually trains before adopting it. This literature concentrates on speaking, literacy and vocabulary, so a tool marketed for "language learning" may do nothing for grammar or listening comprehension.
+- **Curriculum designers.** Specify the grade band when [[ai-ed-evaluation|evaluating AI]] tools for early learners. The review finds most studies skip grade-level specificity, so evidence gathered on older children should not be assumed to transfer to early-childhood classrooms.
+- **Policymakers.** Treat equity and infrastructure as part of adoption. The review frames ethical, inclusive and [[equity-in-ai-education|equitable]] use as a precondition rather than an afterthought, which matters where AI-supported provision is unevenly available.
+- **Researchers.** Fill the named gaps directly — grammar, listening comprehension, sign language — with stronger designs and explicit grade bands, rather than adding another undifferentiated study of speaking practice.
+
+## Limitations
+
+- The review includes 31 studies from a 2013-2025 window and six databases, so its map is bounded by the search strategy and by what was indexed.
+- Most included studies are qualitative or mixed-methods with medium samples and no grade-level specificity, so the review can describe the field's shape but not pool effect sizes.
+- The review is organized by a single theoretical lens, the Diffusion of Innovation Theory, which foregrounds adoption over learning mechanisms.
+- Language coverage is not fully reported, so conclusions about multilingual and low-resource settings rest on a literature the review does not claim is representative.
+
+## Citation
+
+Hamasha, M., Boulhrir, T., & Tiernan, P. (2026). [Artificial Intelligence (AI) in elementary language education: A systematic review](https://doi.org/10.1016/j.caeo.2026.100424). *Computers and Education Open, 11*, 100424.
+
+---
+
 ## [Contextualizing AI-Supported Emotion Regulation Through Sport and Exercise in Higher Education: A Conceptual Reframing](https://edtechdev.github.io/aied/articles/ai-emotion-regulation-sport-exercise-2026/)
 
 > **Synthesis:** Zhang, Hadier, Liu and Guo advance a conceptual reframing rather than an empirical study: the paper collects no participant data and tests no intervention. Using the five Stanford AI Index Reports (2021–2025, 1813 pages) as a bound AI discourse corpus, the authors ran BERTopic over paragraph-level segments and read the resulting topic structure alongside sport and exercise psychology. They describe a three-layer discourse — a technology core, an application-expansion layer, and an [[ethics]]-and-governance layer — in which health and education are visible but sport, exercise, and campus ecology appear only diffusely. From that reading they propose a human–technology–environment framework for AI-supported [[self-regulated-learning|emotion regulation]] in [[higher-ed|higher education]]. The framework is a set of design principles awaiting empirical testing; the corpus cannot show that any AI-supported exercise intervention improves student outcomes.
@@ -42088,6 +42148,53 @@ Bird, J. J. (2026). [What differentiates educational literature? A multimodal fu
 
 ---
 
+## [Many hands make light work? Individual and collaborative interaction with a GenAI-powered multi-agent system: Effects on learning performance and critical thinking](https://edtechdev.github.io/aied/articles/bjet-many-hands-make-light-work-2026/)
+
+> **Synthesis:** An eight-week quasi-experiment with 87 undergraduates tests what changes when learners work alone versus in pairs with a [[generative-ai|GenAI]]-powered [[agentic-ai|multi-agent]] system in an [[learning-design|instructional design]] course. The headline is a split rather than a clean win for collaboration: pairing with the system produced the strongest final design projects, while working alone with it produced the largest gains in critical thinking awareness — and collaboration actually nudged awareness slightly down. Process analyses trace the divergence: solo learners moved from recognizing a problem straight into analytical and evaluative processing, whereas pairs reasoned in a wider, more distributed way centered on shared understanding, with more off-task talk. Neither configuration beat the no-AI peer group on a basic knowledge test. In this study, then, the [[human-ai-collaboration]] configuration seems to steer which kind of [[critical-thinking|thinking]] gets activated rather than to raise thinking overall.
+
+## Key Findings
+
+1. The knowledge test showed no group difference in gain scores, χ²(2) = 0.825, p = 0.662, so basic knowledge acquisition was comparable across peer collaboration, individual multi-agent work and collaborative multi-agent work.
+2. Final project scores did differ significantly, χ²(2) = 9.09, p = 0.011. The collaborative multi-agent group scored highest (M = 89.64, SD = 3.67), ahead of the individual group (M = 86.45, SD = 2.71) and peer collaboration (M = 85.85, SD = 3.65).
+3. Post hoc tests placed the collaborative multi-agent group above both peer collaboration (p = 0.039) and individual multi-agent work (p = 0.014), while those two did not differ — the project advantage was specific to the paired, AI-supported design task.
+4. Critical thinking awareness gains differed by condition, χ²(2) = 6.298, p = 0.043: the individual multi-agent group rose most (M = 0.41, SD = 0.57), peer collaboration was near flat (M = 0.06, SD = 1.02), and the collaborative multi-agent group declined (M = −0.04, SD = 0.61).
+5. The only significant awareness contrast was individual over collaborative multi-agent work (p = 0.039); peer collaboration did not differ from the individual (p = 0.473) or the collaborative (p = 0.972) groups.
+6. Of 852 valid dialogue turns, 398 learner-initiated turns were coded (235 individual, 163 collaborative). In collaborative pairs the less active partner produced only 27.9% of the pair's turns on average.
+7. [[network-analysis|Epistemic network analysis]] separated the two AI-supported groups (U = 861.00, p = 0.01, r = −0.33): the individual network clustered around analysis and evaluation, the collaborative network around understanding with more distributed links.
+
+## How the comparison was built
+
+Ninety-two undergraduates began the study in a micro-course instructional design course at a public university in eastern China; five were excluded for incomplete [[self-report-measures|questionnaires]] or missing final projects, leaving 87 (32 male, 36.8%; 55 female, 63.2%), aged 18 to 21. Working with intact classes, the authors assigned students to three conditions: peer collaboration without AI support (PC, n = 26, 13 dyads), individual interaction with the GenAI multi-agent system (MAS-IL, n = 33), and paired interaction with it (MAS-CL, n = 28, 14 dyads). All conditions ran for eight weeks under the same instructor with identical objectives, content and resources. Learning performance was measured by a 10-item knowledge test (KR-20 = 0.617 pre-test, 0.788 post-test) and a 100-point design project scored on a five-criterion rubric (ICC = 0.871). Critical thinking awareness used a four-item scale (alpha = 0.774 pre-test, 0.924 post-test), and interaction was coded against Murphy's five phases with Cohen's kappa of 0.848.
+
+## A task-dependent split in outcomes
+
+The outcomes refuse to collapse into one winner. On the knowledge test, gains were statistically indistinguishable across conditions (χ²(2) = 0.825, p = 0.662), with close descriptive means (4.23 for PC, 4.24 for MAS-IL, 7.14 for MAS-CL). The design project told a different story: dyad- and individual-level scores differed significantly (χ²(2) = 9.09, p = 0.011), and Dunn's post hoc tests placed MAS-CL above both PC (p = 0.039) and MAS-IL (p = 0.014), while PC and MAS-IL did not differ. Critical thinking awareness reversed the pattern. Its gain scores differed by group (χ²(2) = 6.298, p = 0.043), but the largest gain belonged to MAS-IL (M = 0.41, SD = 0.57), with PC nearly flat (M = 0.06, SD = 1.02) and MAS-CL slightly negative (M = −0.04, SD = 0.61); only MAS-IL versus MAS-CL reached significance (p = 0.039).
+
+## Two cognitive trajectories
+
+Lag sequential analysis and epistemic network analysis read the divergence as two cognitive trajectories rather than two ability levels. Both groups' sequential patterns departed from chance (MAS-IL: χ²(25) = 127.88, p < 0.01; MAS-CL: χ²(25) = 38.90, p = 0.04), but the significant transitions differed. Individuals showed few dominant moves — notably Recognize → Analyze and an Evaluate → Evaluate self-transition — and their epistemic network clustered around analysis and evaluation, which the authors read as sustained internal monitoring beneath the overt sequence. Pairs produced a wider, more distributed set: reciprocal recognize ↔ analyze, analyze → evaluate, and transitions involving understanding and creation, with a network centered on understanding. Off-task exchanges were also more frequent in pairs, interpreted as rapport-building and grounding rather than distraction. ENA separated the groups along its horizontal axis (U = 861.00, p = 0.01, r = −0.33).
+
+## What this means for practice
+
+- **Instructors.** Align the human–AI configuration with the goal: use collaborative multi-agent interaction for complex sense-making and design tasks, and individual multi-agent interaction when critical thinking awareness or [[self-regulated-learning|self-regulation]] is the target, since only the individual group gained there.
+- **Instructional designers.** When learners collaborate with peers and agents at once, build in explicit reflection or critical-thinking [[scaffolding|scaffolds]] to offset the reduced individual [[metacognition|metacognitive]] monitoring the authors observed, and structure participation so both partners contribute.
+- **Program leaders and administrators.** Read the split honestly: the paired AI condition won on the design product but not on the knowledge test, so treat a project-score gain as evidence about one outcome, not about learning overall.
+- **Researchers.** The explanatory mechanisms — cognitive load and diffusion of responsibility — are the authors' post hoc interpretations and were not tested; the paper itself calls for fully crossed or randomized designs to separate AI support from collaboration structure.
+
+## Limitations
+
+- The system ran on the Coze AI multi-agent framework with the DeepSeek [[llm|large language model]] at temperature 0.8, using four role-specialized agents with 3D avatars and [[speech-and-voice-technologies|text-to-speech]]. The eight-week intervention was administered under IRB approval recorded as Zhejiang University [2025-17] and the paper was received in February 2026; the paper does not state the calendar dates of data collection. Both the model and the multi-agent tooling are tied to that window and have since moved on.
+- The quasi-experimental design assigned by intact class, producing baseline imbalances in gender (χ²(2) = 13.51, p = 0.001) and major (χ²(12) = 150.87, p < 0.001). AI presence and collaboration structure varied together, and prior collaborative experience and prior course performance were not measured as covariates.
+- The study sits in a single context — 87 undergraduates in one micro-course design course at one public university in eastern China — which the authors say limits generalizability across disciplines, educational levels and collaborative arrangements.
+- Measurement was narrow: the knowledge test was short, only overall project scores were available rather than rubric dimensions, critical thinking awareness was four self-reported items, and the process analysis relied solely on dialogue data.
+- Dyadic responses were not fully statistically independent, and turns from paired learners were tracked individually but aggregated at the condition level; the authors flag this as a reason for cautious interpretation of the process findings.
+
+## Citation
+
+Chu, X., Dai, H., & Zhai, X. (2026). [Many hands make light work? Individual and collaborative interaction with a GenAI-powered multi-agent system: Effects on learning performance and critical thinking](https://doi.org/10.1111/bjet.70089). *British Journal of Educational Technology, 00*, 1–25.
+
+---
+
 ## [From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs](https://edtechdev.github.io/aied/articles/bloom-aligned-educational-control-llms/)
 
 > **Synthesis:** Introduces a Bloom-aligned framework for measuring 'educational control' in LLMs: the ability to preserve a task's instructional intent while shifting its cognitive demand toward higher-order Bloom levels, offering a metric for evaluating whether AI assistance scaffolds or shortcuts learning. The work connects to broader debates about how [[generative-ai]] systems reshape [[student-experience]] and the conditions under which AI support [[scaffolding|scaffolds]] rather than undermines learning. It has direct implications for [[pedagogy-ai-mistakes]] and the risk of [[cognitive-offloading|Over-Reliance]] when assistants absorb too much of the cognitive load. Findings also bear on [[ai-literacy]] and [[self-regulated-learning]], and on how institutions should govern [[student-experience]] and [[academic-integrity]]. Practitioners in [[higher-ed]] and [[teacher-role|teachers]] can use the evidence to calibrate when to deploy [[llm]]-based help and how to pair it with [[feedback]] that preserves [[learning-gains|learning gains]].
@@ -42706,6 +42813,223 @@ Responsible design appears everywhere but in different sociotechnical forms: con
 ## Citation
 
 Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J. M., Tangen, J. M., Denny, P., DiCerbo, K., Buckingham Shum, S., & Baker, R. S. (2026). [Building AI Companions that Prioritize Learning over Performance](https://doi.org/10.1016/j.caeai.2026.100680). *Computers and Education: Artificial Intelligence*.
+
+---
+
+## [A mixed-methods analysis of AI scaffolding patterns and student inquiry profiles in a middle-school agriculture-STEM classroom](https://edtechdev.github.io/aied/articles/caeai-ai-scaffolding-inquiry-profiles-middle-school-2026/)
+
+> **Synthesis:** In a rural agriculture-STEM classroom, 42 eighth-grade students in 12 groups used Aspen — a custom prompt-engineered [[conversational-ai|chatbot]] — to revise their own research questions and hypotheses. Crossing initial artifact quality against criterion-aligned revision produced four descriptive profiles the authors name Struggling, Most Improved, Perfectionists, and High Achievers. Because the two low-initial-quality profiles started alike yet diverged, the study compares them closely: [[network-analysis|Epistemic Network Analysis]] shows the Most Improved profile's Aspen responses connecting modeling and reflection with coaching and articulation, while the Struggling profile ties foundational [[scaffolding]] to irrelevant exchanges; peer talk then shows model uptake dominating the Most Improved groups against [[cognitive-offloading|cognitive offloading]] and collaborative impasse among the Struggling ones. The authors read the contrast as a design argument: a model alone is not enough, and support has to carry a full [[pedagogy|pedagogical]] cycle that links guidance, modeling, and [[metacognition|metacognitive reflection]].
+
+## Key Findings
+
+1. The study analyzed 42 eighth-grade students working in 12 intact groups of three to four within a 16-lesson sustainable agriculture unit at a public [[k-12|middle school]] in the rural Southeastern United States.
+2. Crossing initial artifact quality with criterion-aligned revision produced four profiles: High Achievers (n = 2), Perfectionists (n = 2), Most Improved (n = 5), and Struggling (n = 3), using the rubric midpoint of 9 on a 0-18 scale as the cut point.
+3. Coaching accounted for the largest share of prompt-level code presences in the Most Improved (24.6%) and High Achiever (24.1%) profiles, while Irrelevant code was most prominent in the Perfectionist (40.5%) and Struggling (24.3%) profiles.
+4. In the low-initial-quality ENA contrast, prompt-level ENA coordinates differed on SVD2, U = 6139, p = .02, |r| = .17, with the Most Improved subtraction network stronger around modeling and reflection and the Struggling network strongest on the scaffolding-irrelevant edge.
+5. Peer-discussion coding showed the Most Improved profile dominated by model uptake at 74.1% of coded engagement turns, whereas cognitive offloading and collaborative impasse together made up 80.8% of the Struggling profile's coded turns.
+6. High Achiever interactions averaged approximately 2.42 coded support functions per prompt-level episode, compared with 1.66 for Perfectionists, even though High Achievers had fewer Aspen interactions overall (24 episodes).
+7. Aspen was built as a prompt-engineered [[pedagogical-agent|pedagogical agent]] on a general-purpose GPT model through OpenAI's GPT Assistants API, not a task-specific fine-tuned model trained on student writing.
+
+## How the study was built
+
+The setting was a 16-lesson sustainable agriculture [[curriculum-design|curriculum]] in which groups investigated soil, air, water, and plant-growth factors around a local sustainability problem. From 90 enrolled eighth-grade students, the researchers used purposeful maximum variation sampling to select 42 students in 12 intact groups, chosen to vary by initial RQ/hypothesis quality and by observed engagement. The focal activity was the RQ and hypothesis revision phase, spread across two lessons over two weeks. Students prompted Aspen individually but were asked to share responses aloud, compare them with the inquiry criteria, and negotiate revisions in a shared project journal rather than adopting suggestions automatically.
+
+Data came from four sources: [[group-work|group project]]-journal artifacts, time-stamped [[student-ai-interaction|AI interaction]] logs, audio-recorded peer discussions, and classroom observation notes. Artifacts were scored on a nine-criterion rubric — four RQ criteria and five hypothesis criteria, each from 0 to 2, totaling 18 — for both initial quality and criterion-aligned revision. Two coders scored 40% of artifacts, with discrepancies resolved by discussion. Aspen's responses were segmented and coded for six cognitive-[[sociocultural-learning|apprenticeship]] support moves plus an Irrelevant category, with Cohen's kappa from .80 to .90; transcript coding ran .75 to .90.
+
+## The four artifact-revision profiles
+
+The paper's central organizing construct is a 2 × 2 crossing of two rubric scores: initial artifact quality and criterion-aligned revision. Groups scoring at or below the rubric midpoint (0-9) were classified low on a dimension, and those above it (10-18) high. The resulting four profiles are descriptive, within-sample categories rather than validated learner types, and the authors are explicit that they do not represent strategies Aspen selected.
+
+The names matter for reading the paper. High Achievers (G02, G07) began strong (initial scores 16, 14) and revised little (3, 2) — targeted refinement rather than restructuring. Perfectionists (G06, G10) also began strong (12, 13) but revised extensively (16, 18). Most Improved groups (G03, G04, G09, G11, G12) began weak (8, 4, 3, 6, 5) yet revised extensively (18, 10, 18, 18, 18). Struggling groups (G01, G05, G08) began weak (7, 2, 4) and stayed weak (3, 6, 6). The likeness of the two low-initial-quality profiles at the outset is what makes their divergence the study's comparison of interest.
+
+## What the ENA networks show
+
+Epistemic Network Analysis modeled how Aspen's coded response functions co-occurred within prompt-level episodes, treating the seven response codes as nodes and co-occurrence strength as edges. In the four-profile model, the profile means sat close together on SVD1 but separated on SVD2, with Struggling lowest and High Achievers highest — a pattern the authors caution against reading as a direct measure of achievement.
+
+Two subtraction networks carry the interpretive weight. In the low-initial-quality contrast, the Most Improved profile showed stronger connections among modeling, reflection, coaching, and articulation, and AI-log excerpts show Aspen pairing a coached evaluation with a modeled revision and a closing reflection prompt such as "How does this sound to you? Feel free to adjust based on your thoughts!" The Struggling network instead showed its most visible edge linking scaffolding to Irrelevant, with additional edges to exploration and articulation. Because students prompted Aspen in their own words, the authors stress these are interaction-contingent patterns, not evidence of formal [[personalized-learning|personalization]].
+
+## How groups took up the support
+
+The [[qualitative-research|qualitative]] strand, bounded to the eight low-initial-quality groups across 16 peer-discussion transcripts, explains how structural patterns entered group talk. Model uptake dominated the Most Improved groups at 74.1% of coded engagement turns: students brought Aspen's suggestions into decisions about variables and testing conditions, as when G03 said "for independent variable, type in what she gave us, the turbidity." In the Struggling groups, cognitive offloading (34.6%) and collaborative impasse (46.2%) together reached 80.8%, with requests for better wording ("How can I make my research question more better?") alongside stalled coordination ("I don't know what to do next … What are we even testing?").
+
+Read together, the ENA and transcript evidence support the authors' framing that the pedagogical value of AI support turns on how groups interpret and use it, not merely on what the system offers. The High Achiever and Perfectionist contrast adds a cautionary note: Perfectionists had far more irrelevant-coded responses (40.5%) yet still revised extensively, so response-code frequencies alone did not characterize the organization of support. The study cannot say how those responses contributed to the Perfectionists' revisions, since collaborative engagement was not qualitatively analyzed for the high-initial-quality profiles.
+
+## What this means for practice
+
+- **Instructors.** Pair any modeled formulation with a reflection prompt and a peer-evaluation step. The study's clearest contrast is that Most Improved groups met a complete pedagogical cycle — coaching, modeling, then reflection — while Struggling groups met foundational support beside off-task exchange.
+- **Curriculum designers.** Build artifact revision around shared criteria and a group journal that requires students to justify changes rather than accept suggestions. The design that separated the low-initial-quality profiles ran through how groups negotiated AI input together, not through the tool alone.
+- **[[learning-analytics|Learning analytics]] and tool developers.** Treat interaction traces as formative signals for teachers, not automated diagnoses. Repeated off-task or generic answer-seeking prompts can flag where a group may be confused or stalled while leaving interpretation to the [[teacher-role|teacher]].
+- **Researchers.** The four profiles are descriptive and within-sample; replication needs larger, more diverse samples and methods that model nesting and sequence, since prompt-level ENA units were nested within a small number of groups.
+
+## Limitations
+
+- The 12 groups were purposefully selected from one rural middle-school agriculture-STEM unit, so the four profiles are descriptive, within-sample categories rather than validated or population-level profiles, and the coordinate comparisons were exploratory.
+- AI-feedback exposure was neither uniform nor experimentally controlled, since students wrote their own prompts; the study cannot isolate the direction of influence or attribute profile differences solely to Aspen.
+- The response coding classified pedagogical function and connections, not factual accuracy, scientific adequacy, readability, or developmental appropriateness of Aspen's messages.
+- Aspen ran on a general-purpose GPT model through OpenAI's GPT Assistants API rather than a named or versioned fixed system, so its responses remained subject to variability, occasional [[hallucination-risk|hallucination]], and imperfect alignment with instructional goals; the paper names no model version and reports no data-collection window beyond the two-week activity and its 27 November 2025 receipt.
+- The study did not isolate how students interpreted Aspen's combined peer-like persona and [[socratic-method|Socratic]] role, leaving open when peer-like framing supports engagement and when it blurs task expectations.
+- Collaborative engagement was qualitatively analyzed only for the two low-initial-quality profiles, so it cannot explain how AI responses shaped the high-initial-quality groups' revisions.
+
+## Citation
+
+Kilinc, S., Aldemir, T., Misiejuk, K., Kaliisa, R., Sabanwar, V., Bicer, A., Song, D., & Yalvac, B. (2026). [A mixed-methods analysis of AI scaffolding patterns and student inquiry profiles in a middle-school agriculture-STEM classroom](https://doi.org/10.1016/j.caeai.2026.100683). *Computers and Education: Artificial Intelligence, 11*, 100683.
+
+---
+
+## [Reconceptualizing digital literacy in the AI era: A systematic review of validated frameworks from an ecological perspective](https://edtechdev.github.io/aied/articles/caeai-digital-literacy-frameworks-review-2026/)
+
+> **Synthesis:** This [[meta-analysis-systematic-review|systematic review]] asks whether digital literacy frameworks still fit an AI-saturated world. Screening four databases for validated instruments published between January 2014 and February 2025, the authors assemble 69 digital literacy frameworks and 11 [[ai-literacy|AI literacy]] frameworks — 80 in all — and read them through an ecological lens at three levels: the school microsystem, the socio-economic macrosystem, and the historical chrono-system. What they find is a field split by role and by region. Student frameworks cluster on information, communication, safety and creation; educator frameworks spread across pedagogy, learner empowerment and assessment. Developed regions weight communication and collaboration, developing regions weight [[problem-solving|problem solving]] and operational use, and copyright and licenses appear in no developing-region framework. The chrono-level answer is that AI has expanded digital literacy from safety toward [[ethics|AI ethics]], elevated higher-order thinking, and recast communication to include [[human-ai-collaboration|human–AI interaction]] — while metacognitive regulation remains thinly specified.
+
+## Key Findings
+
+1. The review analyzes 80 validated frameworks — 69 digital literacy (67 database-derived plus two reports) and 11 AI literacy — from a PRISMA screen of 35,036 without-AI and 441 with-AI records, covering publications from January 2014 to February 2025.
+2. Of the 69 digital literacy frameworks, 28 target students or citizens and 42 target educators (one counted in both roles); student frameworks most often carry information and data literacy (n = 40), communication and collaboration (n = 20), and safety and ethics (n = 19).
+3. Educator frameworks distribute differently, with teaching, learning and pedagogy (n = 38), empowering learners (n = 25) and [[curriculum-design|curriculum]] and assessment (n = 25) leading, and information and data literacy (n = 31) and technology literacy (n = 28) the prominent competencies.
+4. Mapped onto DigComp 2.2, framework coverage concentrates on information and data literacy (frameworks n = 24), communication and collaboration (n = 19) and safety (n = 19), and less on digital content creation (n = 16) and problem solving (n = 15).
+5. Across economies, communication and collaboration was covered by 83.3% (n = 10) of developed-region frameworks against 60.0% (n = 9) of developing-region frameworks, while problem solving was slightly more frequent in developing (60.0%, n = 9) than developed (50.0%, n = 6) regions.
+6. DigComp 2.2 amends 73 novel AI examples: communication and collaboration 31.51% (n = 23), problem solving 27.40% (n = 20), information and data literacy 19.18% (n = 14), safety 12.33% (n = 9) and digital content creation 9.59% (n = 7).
+7. Among the 11 AI literacy frameworks, only Zhong and Liu's (2025) KAT framework does not treat ethics as an explicit dimension; technical knowledge spans all five DigComp content areas, while metacognitive regulation and higher-order thinking remain under development.
+
+## How the review selected and appraised its frameworks
+
+The search ran across ERIC, Web of Science, ProQuest and Scopus, with two parallel branches — one carrying a [[generative-ai|generative-AI]] term block, one without — using Boolean strings in title, abstract and keywords. The without-AI branch returned 35,036 records and the with-AI branch 441. After duplicate removal and screening against eligibility criteria that required questionnaire or survey designs and samples of N ≥ 100, 162 records reached quality appraisal. Appraisal followed the COSMIN checklist on a three-point scale (0 = no evidence of reliability or validity; 1 = reliability or validity but not both; 2 = both), retaining only non-zero records with multi-item coverage. Thirty-nine were excluded; from 123 retained records, 67 unique frameworks plus two reports (ACARA, 2020; Fraillon et al., 2023) yielded 69. The with-AI branch retained 11 unique frameworks. Dual coding reached Cohen's κ = .89 to .92 across the three research questions, and DigComp 2.2 served as a shared reference taxonomy for cross-framework mapping rather than a normative standard.
+
+## What the validated frameworks contain
+
+Inductive content analysis of the 69 digital literacy frameworks produced eleven element categories, stratified by role: 28 frameworks for students or citizens and 42 for educators, with one framework counted in both. For students, the five most emphasized categories align closely with DigComp: information and data literacy (n = 40), communication and collaboration (n = 20), safety and ethics (n = 19), digital content creation (n = 13) and problem solving and [[creativity]] (n = 13), followed by technology literacy (n = 15). Educator frameworks distribute their elements more evenly and systemically: teaching, learning and pedagogy (n = 38), empowering learners (n = 25), curriculum and assessment (n = 25) and [[educational-development|professional development]] (n = 8), with information and data literacy (n = 31) and technology literacy (n = 28) as the leading competencies. The authors note that educator-facing frameworks treat [[assessment|assessment design]] as part of the role, while cultural inclusiveness appears in only one educator framework and attitudes toward ICT in 7 of the 42. Student-centered frameworks emphasize discrete individual skills, whereas educator-centered frameworks feature systemic capacities such as planning, design and management of digital resources.
+
+## The digital divide, reframed for AI
+
+The macro-level question is the [[digital-divide|digital divide]]. Mapping the 28 student and citizen frameworks onto DigComp 2.2's five competence areas, information and data literacy leads (frameworks n = 24), followed by communication and collaboration (n = 19) and safety (n = 19), then digital content creation (n = 16) and problem solving (n = 15). Comparing frameworks by World Bank FY2026 income classification, information and data literacy was covered in 86.7% (n = 13) of developing-region frameworks and 91.7% (n = 11) of developed ones; communication and collaboration in 60.0% (n = 9) against 83.3% (n = 10); and problem solving slightly more in developing (60.0%, n = 9) than developed (50.0%, n = 6) regions. Copyright and licenses were represented by no developing-region framework. The authors read the pattern through [[sociocultural-learning|sociocultural]] theory as developed regions emphasizing integrative capacities while developing regions privilege operational skills that AI can increasingly automate — descriptive differences within the reviewed sample, not evidence of regional deficiency. Sensitivity checks removing higher-education-only instruments left the communication and problem-solving patterns intact, though information and data literacy and safety were less stable.
+
+## How AI reshapes digital literacy
+
+At the chrono-level the authors map DigComp 2.2 onto the 11 AI literacy frameworks. DigComp 2.2 adds 73 novel AI examples, concentrated in communication and collaboration (31.51%, n = 23), problem solving (27.40%, n = 20) and information and data literacy (19.18%, n = 14), with less attention to safety (12.33%, n = 9) and digital content creation (9.59%, n = 7). The conceptual expansion is threefold: digital safety widens into AI ethics, [[metacognition|higher-order thinking and metacognitive components]] gain prominence, and communication and collaboration are reinterpreted to include human–[[student-ai-interaction|AI interaction]]. Technical knowledge is the most prominent AI literacy element, spanning all five DigComp content areas; AI ethics is second, and critical evaluation third, concerned with appraising outputs for accuracy, reliability, completeness and bias. Less consistently represented are metacognitive regulation, [[critical-thinking|higher-order thinking]] and educator-specific human–AI collaboration, which the authors describe as still under development. Two of the eleven frameworks target educators, and the AI-[[tpack]] extension models how content, [[pedagogy|pedagogical]] and AI-technological knowledge combine.
+
+## What this means for practice
+
+- **Curriculum designers.** Treat DigComp 2.2 as an adaptable reference, not a global [[benchmark]]. The review finds frameworks differ systematically by region and role, so competence lists should be localized to infrastructure, language and governance conditions rather than imported wholesale.
+- **Faculty developers.** Build educator-facing frameworks around AI as a collaborative partner rather than a passive tool. Only two of the eleven AI literacy frameworks target educators, and the AI-TPACK extension points to composite knowledge — particularly AI-technological pedagogical knowledge — as the professional development target.
+- **Assessment designers.** Shore up validity where generative AI decouples observable performance from durable learning: design AI-resilient tasks with transparent staged processes and real-time verification so completed work still evidences mastery.
+- **Policymakers.** Watch the copyright and licensing gap. No developing-region framework represented it, and AI-generated content sharpens disputes over authorship and ownership, so digital literacy policy and copyright law need to move together.
+
+## Limitations
+
+- The review covers publications from January 2014 to February 2025; the ≤2023 and >2023 split used for the period comparison is a lag-based descriptive proxy following the late-2022 release of ChatGPT, since framework design, validation and publication typically lag tool release.
+- The macro-level comparison rests on a modest corpus of validated student and citizen frameworks stratified by participants' country or region and World Bank FY2026 income classification; most are instruments validated in specific educational settings rather than national-level frameworks, and socio-economic conditions vary within countries.
+- Restricting inclusion to validated frameworks may overlook emerging competences absent from current instruments, such as [[prompt-engineering|prompt engineering]]; the authors note that Levy-Nadav et al. (2024) was excluded because it offers [[qualitative-research|qualitative]] insight without empirical validation in target populations.
+- The branching search did not partition the literature as intended: the with-AI branch yielded only 1 of the 11 frameworks uniquely, while 42 AI-related records entered the pool from the without-AI branch, so the branch distinction should not be read as an analytic contrast between generative-era and earlier framework work.
+- Because AI literacy is treated as the umbrella construct, the review may under-represent frameworks published under narrower adjacent labels such as [[machine-learning]] literacy or algorithmic literacy.
+
+## Citation
+
+Guo, Z., Li, W., Chen, L. L., Liang, Q., & Wu, Y. (2026). [Reconceptualizing digital literacy in the AI era: A systematic review of validated frameworks from an ecological perspective](https://doi.org/10.1016/j.caeai.2026.100679). *Computers and Education: Artificial Intelligence, 11*, 100679.
+
+---
+
+## [Response-length confounding in participant-morpheme networks: A length-controlled test in AI ethics education](https://edtechdev.github.io/aied/articles/caeai-response-length-ai-ethics-education-2026/)
+
+> **Synthesis:** A single-group proof-of-concept on an [[ethics|AI ethics]] case discussion asks whether shared vocabulary among learners grows after deliberation, and shows that the obvious answer can be an artifact of how much people write. Descriptively, the shared-term share of bipartite participant-morpheme networks rose, but post-discussion responses were only about 0.65 times as long, and a naive permutation test would have called the rise significant. Under MELE's length-controlled within-participant token-permutation test, neither increase was significant (Q6 p = .62; Q7 p = .15). The only corrected-significant item effect, perceived fairness, is floor-sensitive and reported as preliminary. The paper's contribution is methodological: for the [[network-analysis|participant-morpheme statistic]] it targets, degree-preserving nulls are degenerate and convergence tests are confounded by response length, so discourse-analytic claims need length-conditioned inference. MELE reports item, lexical co-use, and BERT polarity analyses side by side as separate, hypothesis-generating layers rather than one construct of ethical learning.
+
+## Key Findings
+
+1. Twenty mixed-discipline [[higher-ed|graduate students]] at a Japanese university deliberated an authentic AI job-screening dilemma grounded in the local shūkatsu (job-hunting) context, completing Q1–Q7 after individual reading (T1) and again after a facilitated discussion (T2) in one 125-minute session.
+2. The shared-term share 𝑠3𝐵 rose descriptively — from 5.2% to 8.0% for Q6 and 4.6% to 7.9% for Q7 — while post-discussion responses were substantially shorter (content tokens about 0.65× their post-reading level; Q6 2,140 to 1,394; Q7 1,916 to 1,247).
+3. Under the exact conditional within-participant token-permutation test, neither increase was significant relative to its length-conditioned null (Q6 observed Δ𝑠3𝐵 = +0.029 against a null mean of +0.027, 𝑝2 = .62; Q7 +0.033 against +0.028, 𝑝2 = .15), whereas a naive whole-bag swap gave nominally significant values (Q6 𝑝 = .037, Q7 𝑝 = .042).
+4. Perceived fairness (Q2) rose significantly (𝑊 = 15.5, 𝑝 = .006, Holm/Bonferroni 𝑝 = .031; 𝑟𝑟𝑏 = −.77, large) but attenuated to non-significance (𝑝 = .11, 𝑟𝑟𝑏 = −.53) when the five participants who began at the scale floor were excluded.
+5. A calibration study estimated the corrected test's false-positive rate at .044 to .062 across ten null cells, but one cell (𝑁 = 40, ratio 0.65) reached .062 with an exact 95% interval of [.052, .074] above the nominal .05, so calibration at that level is not demonstrated.
+6. The BERT sentiment layer is exploratory: participant-level polarity rose non-significantly for Q6 (0.144 to 0.258, 𝑊 = 63.0, 𝑝 = .12, 𝑟𝑟𝑏 = .40) and Q7 (0.450 to 0.544, 𝑊 = 83.0, 𝑝 = .43, 𝑟𝑟𝑏 = .21), and no conclusion rests on it.
+
+## How the MELE workflow is assembled
+
+MELE combines three analyses that the paper keeps deliberately separate: Holm/Bonferroni-corrected Wilcoxon tests on five seven-point items (privacy, fairness, comfort, benefit, acceptance), length-controlled inference on bipartite participant-morpheme incidence networks built from two free-text prompts (Q6 problem identification and Q7 future support), and a BERT sentiment classifier run over the same free text. Respondents receive the case about a week in advance and prepare individually; in one 125-minute session they answer Q1–Q7 after silent review, join the facilitated discussion, then repeat the items. Both administrations allow consultation of the case text, and the post-discussion block is fixed at 30 minutes. The authors are explicit about what the instruments do not measure: the items are not treated as a unidimensional attitude scale or as ethical awareness, morpheme co-use is not agreement or reasoning quality, and model-estimated polarity is not emotional experience.
+
+## Why length control is the paper's real target
+
+The methodological core is a diagnosis. For bipartite participant-morpheme graphs, the conventional degree-preserving null is degenerate for the star configurations underlying the shared-term share — their counts are fixed by the degree sequence, so the ensemble variance of 𝑠3𝐵 is zero and the over-representation Z-score is undefined. A naive whole-bag phase-label swap, which centers its null at zero, then over-detects: it held its level under length balance (false-positive rate .056) but rejected in 82.6% of parametric null samples at the observed token ratio of 0.65 and in 47–50% of empirical-anchor nulls, so its rejections there are overwhelmingly false positives. The replacement is an exact conditional within-participant token-permutation test that pools each participant's tokens and repartitions them at the observed per-phase counts, conditioning the null on the real response lengths. Token-level rarefaction restores the nominal level too (.043–.051) but discards about a third of the longer phase's tokens and depends on the subsampling draw; in one injected-effect cell the token-permutation test reached power .92 against .83 for the rarefied test.
+
+## The fairness item, reported as preliminary
+
+All five items rose descriptively, but only perceived fairness survived correction, and the authors treat it as the weakest kind of result they are willing to report. Excluding the five floor responders leaves the same upward direction (means 3.53 to 4.13; eight increased, three decreased, four unchanged) with a medium-to-large effect (𝑟𝑟𝑏 = −.53) but no significance (𝑝 = .11). Cronbach's α does not rescue a scale reading: it was 0.863 at post-reading, 0.666 at post-discussion, and 0.813 pooled in the administered direction, but reverse-scoring Q1 in line with its normative valence lowers α to about 0.29, confirming that the five items are not unidimensional. The paper therefore calls Q2 a floor-sensitive, case-bound, single preliminary observation, not an established intervention effect.
+
+## What this means for practice
+
+- **Research and [[learning-analytics]] design.** A rising shared-term share should not be read as learning, consensus, or co-construction unless response length, prompt wording, and facilitator priming are controlled; for this participant-morpheme statistic, comparing discourse phases of unequal length requires either fixed-length prompts by design or a length-conditioned reference distribution.
+- **Instructors.** Deliberation is a plausible setting for ethics learning, but the paper presents its item-level pattern as a hypothesis, not guidance: fairness-focused dilemmas might produce larger shifts, and only controlled, multi-case studies can test that. The workflow is a post hoc researcher tool, not a mid-seminar classroom metric.
+- **Administrators and assessment designers.** The polarity and co-use outputs must not be used to grade, rank, or otherwise make consequential judgments about individual students; the study provides no evidence supporting individual consequential use, and such use would itself raise the ethics concerns the course examines.
+- **Researchers.** Build the inferential control into the design and treat the fairness shift as provisional until it survives floor-responder exclusion and controlled, longitudinal, cross-cultural replication. The hand-built ethics/value morpheme partition and the small sentiment validation sample are open threads to close in a larger study.
+
+## Limitations
+
+- The design is single-group and single-institution (𝑁 = 20, one 30-minute discussion), so it limits precision and causal inference: testing effects, demand characteristics, maturation, and history cannot be excluded, and even Q2 admits no strong causal reading.
+- The instrument is purpose-built (five seven-point items and two open-ended prompts); its [[assessment-validity|construct validity]] and reliability on larger samples are not established, the five items are not unidimensional, and prior ethics education was not collected as a baseline covariate.
+- One null cell gave an estimated false-positive rate of .062 (𝑁 = 40, ratio 0.65) with an interval above nominal .05, so the [[simulation]] shows acceptable performance only within the evaluated conditions and does not establish calibration at .05.
+- The participant-morpheme graphs omit syntax, pragmatics, and conversational moves, and co-use of a term need not imply a shared stance; no discussion transcript was analyzed, so the deliberation process itself is unobserved.
+- The sentiment layer uses the general-domain Japanese model jarvisx17/japanese-sentiment-analysis, checked on 120 sampled sentences (accuracy .830 and macro-F1 .829 on the 94 binary-consensus sentences; .810/.808 against each rater's own labels), which may overstate full-corpus performance; the study was approved on 28 April 2022, and the classifier's behavior today may differ.
+- The case is situated in the culturally specific Japanese shūkatsu context, and central-tendency response bias may attenuate Likert estimates in East Asian samples, so cross-cultural replication is essential before broader claims.
+
+## Citation
+
+Shao, T., Wang, X., Li, S., Matsuno, K., & Goto, M. (2026). [Response-Length Confounding in Participant–Morpheme Networks: A Length-Controlled Test in AI Ethics Education](https://doi.org/10.1016/j.caeai.2026.100685). *Computers and Education: Artificial Intelligence, 11*, 100685.
+
+---
+
+## [Navigating AI's educational future: expert scenarios and implications for teaching and teacher preparation](https://edtechdev.github.io/aied/articles/caeo-navigating-ai-educational-future-scenarios-2026/)
+
+> **Synthesis:** Twenty educational researchers from 13 countries, convened as Thematic Working Group 5 for UNESCO's EDUsummIT 2025, co-constructed six scenarios imagining AI-enriched schooling in 2030 — primary, secondary, technical and community college, and three higher-education visions. Reflexive thematic analysis of these expert artifacts, carried out with [[generative-ai|GenAI]] models under human interpretive authority, coded 329 references into 12 themes and condensed them into three meta-patterns: the more-human paradox, in which AI saturation intensifies rather than displaces human [[pedagogy|pedagogical]] work; the agency-[[scaffolding]] tension, in which student [[agency]] with AI must be deliberately developed rather than assumed; and contextual variation, in which the meaning of critical AI partnership takes developmentally distinct forms across primary, secondary, technical college, and [[higher-ed|higher education]] contexts. The authors read this as pointing beyond tool training in pre-service [[teacher-education|teacher preparation]] toward three priority areas: developing critical, [[agentic-ai|agentic AI]] partnerships; orchestrating AI-enhanced learning ecosystems; and building trustworthy, [[equity-in-ai-education|equitable]] AI infrastructure.
+
+## Key Findings
+
+1. The expert panel comprised 20 researchers from 13 countries and 18 institutions, working as TWG5 on [[ai-literacy|AI literacy]] for teaching and learning under UNESCO's EDUsummIT 2025.
+2. The analysis coded 329 references across the scenarios and identified 12 themes; nine AI-proposed candidate themes became twelve final themes through human disaggregation of one theme into three.
+3. Three meta-patterns organize the twelve themes: the more-human paradox, the agency-scaffolding tension, and contextual variation across educational phases.
+4. The more-human paradox holds that AI saturation intensifies, rather than displaces, human pedagogical work: in one scenario the [[teacher-role|teacher]]'s role "has evolved but not diminished," and AI handles routine work so teachers can facilitate interaction and coach social skills.
+5. The agency-scaffolding tension holds that students' critical, agentic partnership with AI must be actively scaffolded rather than assumed, spanning primary through higher education.
+6. The authors derive three priority areas for pre-service preparation: developing critical, agentic AI partnership; orchestrating AI-enhanced learning ecosystems; and building trustworthy, equitable AI infrastructure.
+7. Access, inclusion or [[well-being|wellbeing]] appeared in all six scenarios (frequency 22), while tensions, limits and unintended consequences surfaced in only three scenarios, all in higher education.
+
+## How the 2030 scenarios were built
+
+This is a futures-thinking study, not a classroom experiment. The 20 researchers, representing 13 countries and 18 institutions, worked in sector-organized small groups under a single scenario cue: "It's 2030," their institution had been an AI literacy pioneer five years earlier, teachers were well versed in pedagogy with AI, and AI literacy was embedded throughout the [[curriculum-design|curriculum]]. Groups visualized a typical day for teachers and leaders in a mature AI-enriched environment, then discussed how approaches to teaching might evolve and how student AI literacy would be assessed and supported.
+
+The demographic table records 7 male and 13 female participants, with Europe (10), Australia and New Zealand (5), the USA (3), and the Middle East and North Africa (2) represented, and affiliations split between 17 educational institutions and one non-profit research and development firm. Each group drafted and iteratively refined its scenario around three focal areas: teachers' priority AI literacy needs, the critical capabilities educators would need, and systemic barriers requiring intervention. The data corpus was the six final scenario artifacts — across primary, secondary, technical and community college, and higher education, roughly 15 pages in total — treated as co-constructed expert artifacts rather than transcripts or observational data.
+
+## Twelve themes, three meta-patterns
+
+Reflexive thematic analysis coded the scenarios into 12 themes, several of which recur across sectors. Students as critical, agentic partners with AI was the most frequent theme, carrying 44 references across five scenarios, alongside self-, co-, and socially shared regulation of learning; collaborative, communicative and socio-emotional competencies; teachers as designers, orchestrators and data-informed professionals; AI as embedded pedagogical infrastructure; and AI-enabled assessment, feedback and [[learning-analytics|analytics]]. Two further themes — student critical AI literacy and teacher critical AI literacy — extend across five scenarios from primary school to higher education.
+
+Three meta-patterns organize this material. The more-human paradox describes AI receding into infrastructure while human relationships move to the foreground, captured in one scenario's metaphor of AI as "the air-handling system of the learning ecosystem." The agency-scaffolding tension describes a shared expectation that students interrogate and verify AI output rather than accept it. Contextual variation describes how those shared priorities take developmentally distinct forms: primary contexts foreground socio-emotional and collaborative competencies, secondary contexts [[self-regulated-learning|self-regulation]] and real-time data interpretation, technical college contexts industry partnership, and higher education a divergence between educator visions focused on pedagogy and leader visions focused on governance.
+
+## Three priority areas for teacher preparation
+
+The paper's practical argument is that preparing teachers for 2030 requires moving beyond technical AI literacy toward what it calls AI-enhanced pedagogical knowledge. The authors map the meta-patterns onto three priority areas. Developing critical, agentic AI partnership calls for supervised practicum experiences where candidates learn to scaffold students' iterative interrogation of AI responses, examine AI output for bias and [[hallucination-risk|hallucination]] before classroom use, and decide when students should engage AI versus build unassisted capability.
+
+Orchestrating AI-enhanced learning ecosystems asks candidates to practice running [[group-work|group work]] where AI is a collaborative partner rather than an answer source, designing protocols that keep participation equitable, and interpreting AI-generated analytics through deep knowledge of individual learners. Building trustworthy, equitable AI infrastructure asks candidates to evaluate tools for representation bias and accessibility before classroom use, understand surveillance risks, and participate in institutional governance mechanisms, from bias evaluation to algorithmic impact assessments. The authors frame institutional responsibility for procurement as sitting with institutions and policymakers, while equipping teachers to contribute to it.
+
+## AI in the analysis itself
+
+The study's method is itself a case of [[human-ai-collaboration]]. The team followed Braun and Clarke's six-phase reflexive thematic analysis, adapted to include systematic human-AI collaboration. ChatGPT-5.1 generated initial codes and proposed nine candidate themes; Claude 4.5 Sonnet was used for theme interrogation and argumentation analysis through an "auto-interview" technique. Four human researchers validated codes and made the analytical calls, including disaggregating one overly complex theme into three.
+
+The authors are explicit that this collaboration deepened and intensified rather than accelerated the work, and they list the lack of transparency in large language model reasoning as a limitation. The scenarios and prompt logs are published on OSF and in appendices, and the paper argues that human-AI collaboration improves analytical rigor only when researchers retain interpretive authority and hold AI contributions to the same validation standards as human analysis.
+
+## What this means for practice
+
+- **Teacher educators and faculty developers.** Treat AI preparation as pedagogical rehearsal rather than tool training. The scenarios call for supervised practicum experiences in which candidates scaffold students' interrogation of AI output, examine it for bias and hallucination before classroom use, and decide when students should work with AI and when to build unassisted capability.
+- **Curriculum designers.** Build the paper's three priority areas into programs explicitly: developing critical, agentic AI partnership; orchestrating AI-enhanced learning ecosystems; and [[ai-ed-evaluation|evaluating AI]] infrastructure for representation bias and accessibility.
+- **Program leaders and administrators.** The authors locate responsibility for procuring trustworthy, equitable AI with institutions, regulators and policymakers, but argue teacher candidates should still learn to take part in governance — bias evaluation, algorithmic impact assessment, and recognizing surveillance risks.
+- **Researchers.** The scenario method is a workable template for surfacing expert assumptions about an emerging technology, but the optimistic scenario cue and the participant-researcher design are cautions to carry into any replication.
+
+## Limitations
+
+- The participant-researcher design — the same experts who co-constructed the scenarios later contributed to their analysis — introduces a positionality risk; multi-model coding, member checking, and separating scenario authorship from the analytical sub-group mitigated but could not eliminate insider bias.
+- Even when prompted to consider risks, participants produced largely optimistic scenarios with limited attention to tensions, limits, or unintended consequences; the positive "pioneer" framing of the scenario cue likely shaped this, and a neutral or critical cue may have yielded different findings.
+- [[llm|Large language models]]' internal reasoning is not transparent, so the basis on which patterns were identified or weighted cannot be fully audited; human interpretive authority was maintained throughout.
+- The study is a futures visioning exercise: its scenarios are co-constructed expert artifacts and the authors do not claim predictive power, so the priority areas are analytic proposals rather than tested interventions.
+- The AI-assisted analysis ran on ChatGPT-5.1 and Claude 4.5 Sonnet during in-person meetings in Ireland in 2025 and follow-up collaboration in the latter half of 2025; both the models and the AI capabilities the scenarios imagine are subject to rapid change.
+
+## Citation
+
+Malyn-Smith, J., Torrington, J., Webb, M., Butler, D., Lee, J., Tiernan, P., Chtouki, Y., Bower, M., Yazbak Abu Ahmad, M., Carvalho, A. A., Cohen, J. D., Gorissen, P., Linden, T., MacCallum, K., Raffagheli, J. E., Røkenes, F. M., Ronci, M., Shelton, C., Smith, D., & Vartiainen, H. (2026). [Navigating AI's educational future: expert scenarios and implications for teaching and teacher preparation](https://doi.org/10.1016/j.caeo.2026.100422). *Computers and Education Open, 11*, 100422.
 
 ---
 
@@ -54563,6 +54887,57 @@ Vallis, C., Wilson, S., & Casey, A. (2025). [*Fear and awe: Making sense of gene
 
 ---
 
+## [Federated learning for privacy-preserving at-risk student prediction in health professional education: A multi-scenario evaluation of FedAvg and FedProx](https://edtechdev.github.io/aied/articles/federated-learning-at-risk-student-prediction-2026/)
+
+> **Synthesis:** At-risk prediction usually needs shared student data, which privacy rules forbid across institutions. This study simulates that constraint by partitioning the Open University Learning Analytics Dataset into five program-discipline clients as health-professional-education analogues and testing federated at-risk models under four scenarios. Federated logistic regression retained 99.3-99.9% of centralized performance, a negligible privacy-utility trade-off. FedProx added nothing for logistic regression but stabilized a [[machine-learning|neural network]] under data-quality heterogeneity, cutting training variance fortyfold. The one result that pushes back on theory is that forum interaction ranked last in every discipline, against what Tinto's integration model would predict.
+
+## Key Findings
+
+1. Federated logistic regression retained 99.3-99.9% of centralized performance across all four scenarios, with a maximum gap of 0.64 percentage points in AUC-PR — a negligible privacy-utility trade-off.
+2. FedProx showed no statistically significant advantage over FedAvg for logistic regression in any scenario (AUC-PR differences of -0.03 to +0.19 percentage points, overlapping confidence intervals, Wilcoxon p > 0.05).
+3. FedProx did help a neural-network model under data-quality heterogeneity, gaining up to 6.40 percentage points in AUC-PR and reducing training variance fortyfold, which the authors read as a stability mechanism for non-linear architectures rather than a universal gain.
+4. Cross-semester evaluation found no statistically significant temporal drift (Wilcoxon p = 0.32).
+5. SHAP attribution identified Active Days, Assessments Submitted and Mean Assessment Score as the dominant predictors across programs, with discipline-level differences in feature salience.
+6. Forum Interactions ranked last in every discipline, diverging from Tinto's social-integration prediction and attributed to clinical placements and in-person [[collaborative-learning|peer learning]] rather than asynchronous forums.
+
+## How the study was built
+
+The study is a [[simulation]], not a deployment. It uses the Open University Learning Analytics Dataset, partitioned to simulate five program-discipline clients as analogues of health professional education programs, and grounds the feature design in Tinto's Student Integration Model by operationalizing learning-management-system behavior as integration proxies. A systematic search of Google Scholar, Scopus and the ACM Digital Library in May 2026 found no prior study combining federated learning, at-risk prediction and health professional education, which the authors present as the study's novelty claim.
+
+Two aggregation strategies are compared — FedAvg and FedProx — under two model families, logistic regression and a multilayer perceptron, across four scenarios: an IID baseline, [[pedagogy|pedagogical]] heterogeneity, data-quality variation, and temporal drift. Performance is reported primarily as AUC-PR with AUC-ROC secondary, and [[explainable-ai|feature importance]] comes from SHAP attribution.
+
+## The privacy-utility trade-off is small, but only for the simple model
+
+The paper's most reassuring result is that federated logistic regression barely gives anything up. Across all four scenarios it retained 99.3-99.9% of centralized performance, with a maximum gap of 0.64 percentage points of AUC-PR. For an institution weighing whether cross-institutional risk modeling is worth the privacy machinery, that is close to a free trade.
+
+The nuance is that the trade-off depends on the model family. FedProx, a proximal-regularization method, delivered no significant benefit over plain FedAvg for logistic regression in any scenario. Its value appeared only for the neural network under data-quality heterogeneity, where it gained up to 6.40 percentage points of AUC-PR and cut training variance fortyfold. The authors frame proximal regularization as a stability mechanism for non-linear architectures, not a general improvement — a distinction that matters for anyone choosing an aggregation strategy.
+
+## What predicts risk, and the forum surprise
+
+Attribution analysis points to [[student-engagement|behavioral engagement]]: Active Days, Assessments Submitted and Mean Assessment Score dominate globally, with the ranking varying by discipline. That is consistent with a large early-warning-systems literature and gives a concrete basis for intervention design.
+
+The discordant result is forum interaction. It ranked last in every discipline, which runs against Tinto's claim that social integration matters, and the authors attribute the divergence to the clinical and placement-based structure of health professional education, where peer learning happens in person rather than in asynchronous discussion. That is a useful caution: an early-warning model imported from a distance-education dataset may weight the wrong signals in a program whose students do not learn that way.
+
+## What this means for practice
+
+- **Learning analytics designers.** Federated logistic regression is a defensible default when privacy rules block data sharing: the measured utility cost was 0.64 percentage points of AUC-PR at most, so the barrier to cross-institutional modeling is organizational rather than statistical.
+- **Administrators and program leads.** Do not import a predictor set from a distance-education dataset without checking the discipline. Forum activity, a standard early-warning feature, was the weakest signal in every simulated health program here.
+- **[[educational-technology-developers|Educational technology developers]].** Choose the aggregation method to fit the model. FedProx bought nothing for logistic regression but stabilized a neural network under noisy data, so proximal regularization is worth its complexity only for non-linear models.
+- **Researchers.** Treat the forum result as a hypothesis about placement-based programs rather than a settled finding, since it rests on a simulation using an analogue dataset rather than real health-professional-education records.
+
+## Limitations
+
+- The study is a simulation on the Open University Learning Analytics Dataset partitioned into five client analogues; it does not use real health professional education data, so the results are a proof of concept rather than an operational validation.
+- The privacy guarantee is architectural, not formal: the paper evaluates federated averaging, not differential privacy, so it does not quantify protection against inference attacks on the shared updates.
+- Forum interaction is measured only as asynchronous discussion, which the authors themselves argue is a poor proxy in placement-based programs; the divergence from Tinto may reflect the dataset as much as the setting.
+- The novelty claim rests on a single systematic search in May 2026 with four terms, so the absence of prior work is asserted rather than demonstrated.
+
+## Citation
+
+Kovor, D. K., Osei, E. O., & Agyemang, E. N. (2026). [Federated learning for privacy-preserving at-risk student prediction in health professional education: A multi-scenario evaluation of FedAvg and FedProx](https://doi.org/10.1016/j.caeai.2026.100660). *Computers and Education: Artificial Intelligence, 11*, 100660.
+
+---
+
 ## [Feedback futures: beyond the limits of human and GenAI capacities](https://edtechdev.github.io/aied/articles/feedback-futures-genai/)
 
 > **Synthesis:** This editorial synthesizes the seven papers of the AEHE 51(5) special issue on feedback in the age of [[generative-ai|generative AI]]. Its central claim: the question is **not whether GenAI feedback is useful, but how human and GenAI feedback can be combined to sustainably support learning rather than merely improve immediate performance**. Teacher and student [[feedback-literacy|feedback literacy]] are necessary but not sufficient — what is also required is deliberate pedagogic design, [[governance|institutional]] conditions that prioritize learning over efficiency, and the purposeful development of human judgment that cannot be delegated to the tool.
@@ -56269,6 +56644,58 @@ Wiss, A., Showstark, M., Dobbeck, K., Pattershall-Geide, J., Zschaebitz, E., Joo
 
 ---
 
+## [Generative AI in creative education: baseline-linked evidence on learning processes, artistic performance, and authorship](https://edtechdev.github.io/aied/articles/genai-creative-education-authorship-2026/)
+
+> **Synthesis:** A study of 133 [[higher-ed|undergraduates]] in an art course links prior grades, a final creative-performance assessment and post-project [[self-report-measures|questionnaires]] to separate two kinds of [[generative-ai]] use — assistive use for ideation, refinement and technique learning, and content-generative use in which AI contributes to the output. The headline is a process-outcome decoupling: AI use is associated with stronger perceived support and skill transfer, while final artistic performance and baseline-to-final change show no matching gain. Content-generative use goes further and is associated with lower evaluated authorship, which the authors read as AI-shaped artifacts obscuring students' own creative decisions. The recommendation follows from that: judge integration by how students document, justify and reflect on AI within the process, not by the artifact alone.
+
+## Key Findings
+
+1. AI use tracked the learning process but not the product: binary AI use was positively associated with aesthetic judgment (β = 0.28, p = 0.010), skill transfer (β = 0.26, p = 0.01) and, more weakly, perceived support (β = 0.16, p = 0.055), while final artistic performance and performance change showed no corresponding association.
+2. Baseline-adjusted models put AI use alongside quality confidence (β = 0.36, p < 0.001) and display identity (β = 0.29, p < 0.001), with display readiness only marginal (β = 0.15, p < 0.10).
+3. Prior course performance was the most stable predictor of outcomes: baseline score predicted final total (β = 0.46), [[creativity]] (β = 0.39), authorship (β = 0.37) and completion (β = 0.43), all p < 0.01, and negatively predicted performance change (β = -0.61, p < 0.001) because lower-scoring students had more room to move.
+4. Content-generative AI use was associated with lower evaluated authorship (authorship ANOVA F = 10.34, p < 0.001, η² = 0.137), the strongest signal that AI-shaped artifacts reduce the visibility of students' creative decision-making.
+5. Once prior performance and AI experience were controlled, binary AI use sat close to zero across development-oriented outcomes (standardized coefficients 0.04 to 0.07, none significant); the process variable that did track them was internalization — continuation intention (β = 0.51, p < 0.001), social value orientation (β = 0.28, p < 0.05) and development orientation (β = 0.40, p < 0.001).
+6. The design is observational: 133 students in one undergraduate art course, with linked administrative and survey data analyzed through baseline-adjusted models, propensity-score adjustment and robustness checks across alternative AI-use definitions.
+
+## How the study was built
+
+The sample is 133 students in an undergraduate art course, and the design is unusual in linking three data sources rather than relying on a single self-report: prior course performance, the final creative-performance assessment scored by evaluators, and post-project questionnaire responses. AI use was deliberately split into two dimensions. Assistive use covers ideation, refinement, process management and technique learning; content-generative use covers AI contributions to the creative output itself. That split is what allows the paper to separate a process effect from a product effect.
+
+Because the course is not a [[rct|randomized trial]], the analysis leans on adjustment. Baseline-adjusted outcome models control for prior performance and prior AI experience, performance-change models capture movement from baseline to final, propensity-score adjustment tries to balance students who used AI more against those who used it less, and robustness checks re-run the models under alternative definitions of AI use. Evaluator agreement on the 20-point creative rating scales was checked with Cohen's kappa after score reconciliation.
+
+## The process-outcome decoupling
+
+The central result is that the two dimensions of AI use do not move the same outcomes. Students who used AI reported stronger perceived support, greater skill transfer and higher aesthetic judgment, and after baseline adjustment also higher quality confidence and display identity. On the artifact side the picture is flat: final artistic performance and the baseline-to-final change show no corresponding improvement once prior performance and AI experience are held constant.
+
+The paper's caution is that a process gain is not a learning gain. Positive self-reports can coexist with unchanged evaluated work, which is exactly why the authors resist reading perceived support as evidence of skill. The strongest predictor throughout is prior performance, which is also the least surprising result and the one that most disciplines the AI findings: students who arrived stronger finished stronger.
+
+## Authorship and the visibility of creative decisions
+
+The second contribution concerns [[academic-integrity|authorship]]. Content-generative AI use was associated with lower evaluated authorship, with the analysis-of-variance contrast on authorship the largest effect in the paper (η² = 0.137). The interpretation is not that students cheated but that an AI-shaped artifact makes the student's creative decision-making harder for an evaluator to see — the process is real, the evidence of it is thinner.
+
+That reframes the practical problem. If the worry is legibility rather than honesty, the remedy is documentation: prompts, drafts, discarded options and justifications that let an evaluator follow the decisions. The authors argue for exactly this, and their internalization results support it — internalization of AI use, rather than the raw percentage of AI involvement, is what associates with continuation intention and development orientation.
+
+## What this means for practice
+
+- **Instructors.** Assess the creative process alongside the artifact. The study's authorship result says an evaluator cannot infer a student's decisions from an AI-shaped final piece, so require the process trail — prompts, iterations, rejected options and a short justification — as part of the submission.
+- **Curriculum designers.** Treat AI use as a skill to be internalized rather than a tool to be permitted or banned. Internalization was the process variable that tracked development outcomes, so design reflection and justification steps into the assignment rather than leaving AI use unexamined.
+- **Program leads and administrators.** Be skeptical of perceived-support gains as evidence of learning. Students in this course felt more supported and reported more skill transfer without a matching rise in evaluated performance, so any AI initiative should report an artifact-level outcome next to the satisfaction measure.
+- **Researchers.** Replicate the assistive-versus-content-generative split before generalizing. One art course with 133 students cannot tell whether the authorship effect is a property of creative disciplines, of this [[assessment|assessment design]], or of the particular cohort.
+
+## Limitations
+
+- The study is observational, not experimental: AI use was self-selected, so propensity-score adjustment reduces but cannot eliminate confounding by students' prior motivation and ability.
+- The sample is 133 students in a single undergraduate art course at one institution, and the authors present it as an investigation of that course rather than a generalizable estimate.
+- AI use is measured through self-reported dimensions and questionnaire responses, so the process measures carry common-method and social-desirability risk.
+- The outcome models rest on evaluator ratings of creative performance; the authors report kappa-based agreement, but a single evaluative rubric still narrows what "performance" can capture.
+- The follow-up is post-project only, so the study cannot say whether the process gains persist or whether they later translate into artifact quality.
+
+## Citation
+
+Shen, N., Lee, L. S., & He, A. (2026). [Generative AI in creative education: baseline-linked evidence on learning processes, artistic performance, and authorship](https://doi.org/10.3389/fpsyg.2026.1956939). *Frontiers in Psychology, 17*.
+
+---
+
 ## [Generative Artificial Intelligence and Creativity in K–12 Education: A Systematic Scoping Review](https://edtechdev.github.io/aied/articles/genai-creativity-k12-scoping-review-2026/)
 
 > **Synthesis:** Rahimi, Babaee, Esmaeiligoujar and Dede ask how [[generative-ai]] has been used to support or assess [[creativity]] in [[k-12]] education, and answer with a PRISMA-guided [[meta-analysis-systematic-review|scoping review]] of 45 studies published between 2017 and 2025. The corpus began as 2,321 records drawn from Web of Science, ERIC, Scopus, ScienceDirect, ProQuest and Google Scholar plus eight creativity and AI-in-education journals; after 399 duplicates were removed and 129 full texts were screened against the inclusion criteria by two researchers, a hand-search of 11 key researchers' recent work and the reference lists of included papers added 13 studies. Four categories organize the field: creativity assessment (4 studies), [[human-ai-collaboration]] or co-creativity (3), stakeholders' perceptions (14) and creativity enhancement (34), with several studies counted in more than one category. Language-based [[storytelling-in-education|storytelling]] and writing dominate (17 studies); only one study addresses music and only two explicitly address [[equity-in-ai-education|equity]] or [[accessibility]]. Large language models can score creativity in close agreement with human raters and well-designed scaffolds raise creative output, but the authors find thin theoretical grounding, weak [[assessment]] and genuine risks of homogenization and [[cognitive-offloading|over-reliance]]. The takeaway for K–12 practice: design GenAI to augment student authorship, not to automate it.
@@ -57630,6 +58057,57 @@ A [[quantitative-research|quantitative research]] design was used with data from
 ## Citation
 
 Ahmed, A., & Sultan, A. (2026). [*Examining the impact of generative AI on student motivation and engagement: The mediating role of autonomy-support and autonomous motivation in education*](https://doi.org/10.3389/fpsyg.2026.1852265).
+
+---
+
+## [Self-reported learning-oriented GenAI use under perceived teacher-referenced normative tension in Chinese higher education](https://edtechdev.github.io/aied/articles/genai-normative-tension-learning-oriented-use-2026/)
+
+> **Synthesis:** A survey of 1,004 students at three Chinese public universities asks whether the awkwardness of not knowing where one's [[generative-ai]] use sits relative to [[teacher-role|teacher]] expectations — perceived teacher-referenced normative tension — goes together with [[self-report-measures|self-reported]] learning-oriented use. It does, and positively: tension and learning-oriented use coexist rather than sit at opposite ends of one scale. The finding resists the common reading that unsettled norms simply suppress productive use. But the design is cross-sectional and same-source, so the authors are explicit that the association does not establish that tension improves behavior; a reverse direction and shared unmeasured traits fit the data equally well.
+
+## Key Findings
+
+1. Perceived teacher-referenced normative tension (PNT) was positively associated with self-reported learning-oriented GenAI use (LOU) at β = 0.568, p < 0.001, with the model explaining 32.2% of the variance in LOU.
+2. The association held after adjustment for GenAI guidance clarity (β = 0.478, p < 0.001), for demographic and institutional covariates (β = 0.570, p < 0.001), and under an ordinal estimator.
+3. A five-factor measurement representation showed close fit and was reproduced in a held-out subsample, supporting the separation of LOU from related academic experiences and learning tendencies.
+4. An observationally equivalent reverse specification produced the same global fit, so the data cannot identify temporal direction — the paper states this plainly rather than implying a causal path.
+5. Exploratory extensions showed the six-path specification did not exhaust the covariance structure, particularly for one academic-experience factor, so the model is a constrained summary rather than a complete account.
+6. Data came from 1,004 students at three public universities, collected by cross-sectional survey and analyzed with covariance-based structural equation modeling plus a battery of sensitivity analyses.
+
+## How the study was built
+
+The sample is 1,004 students at three public universities, surveyed cross-sectionally. The construct at the center is deliberately narrow: perceived teacher-referenced normative tension, the felt difficulty of locating one's own GenAI practices against what teachers seem to expect when acceptable-use rules are unsettled. The outcome is self-reported learning-oriented GenAI use, kept separate from adjacent academic experiences and learning tendencies so it can be tested as its own factor.
+
+The analysis is a covariance-based structural equation model with a theory-constrained six-path structure, preceded by a five-factor measurement model. The authors then run an unusually thorough robustness battery: internal split-sample measurement checks, alternative measurement models, covariate-adjusted models, an ordinal-estimator sensitivity analysis, institution-level sensitivity analyses, a reverse focal specification, and exploratory structural extensions.
+
+## Why the tension finding is not the obvious one
+
+The intuitive expectation is that ambiguity about what teachers permit suppresses learning-oriented use — students avoid the tool when they cannot tell whether it is allowed. The paper finds the opposite association. Students who report more normative tension also report more learning-oriented use, and the relationship survives adjustment for how clear the GenAI guidance is.
+
+The authors' reading is that tension and productive use can coexist, because locating one's practice relative to an unsettled norm is itself an active, interpretive act rather than a barrier. That is a useful reframing for instructors: a student wrestling with "is this allowed, and for what?" may be more engaged than one who has settled the question either way.
+
+## What the cross-sectional design cannot settle
+
+The paper is careful here, and the caution deserves to travel with the finding. Because the design is cross-sectional and same-source, a reverse direction — learning-oriented use producing more felt tension, as students engage more and notice the ambiguity more — fits the data just as well; the reverse specification produced the same global fit. Shared unmeasured characteristics, common-method inflation, social desirability and legitimacy-oriented self-presentation are all listed as live alternatives.
+
+The practical consequence is that the association should not be reported as "ambiguity drives learning." It is a measurement contribution with a directional question left open: a validated way to separate learning-oriented use from neighboring constructs, and a documented association that later longitudinal or experimental work can test for direction.
+
+## What this means for practice
+
+- **Instructors.** Do not assume that unclear AI rules simply reduce use. This sample associates unsettled norms with more learning-oriented use, so the constructive move is to make the reasoning behind a policy visible rather than to issue a bare prohibition and expect compliance.
+- **Course and program designers.** Separate the question "did students use GenAI?" from "did they orient it toward learning?". The study's five-factor structure treats learning-oriented use as its own thing, and a course evaluation that collapses the two will miss the distinction the paper is built on.
+- **Administrators.** Treat ambiguity as something to manage openly rather than to eliminate by decree. If tension and learning-oriented use can rise together, a clarity campaign that removes all discretion may not produce better use.
+- **Researchers.** The directional question is open and cheap to attack: a longitudinal design or a two-wave panel would test whether tension precedes use, use precedes tension, or both are driven by a shared trait.
+
+## Limitations
+
+- The design is cross-sectional and single-source, so temporal direction is unidentified; the authors report that a reverse specification fits equally well and name common-method inflation and social desirability as live threats.
+- Both focal constructs are self-reported, and the outcome is self-reported learning-oriented use, not observed learning behavior or a learning gain.
+- The sample is 1,004 students at three public universities in one national system, so institutional and cultural generalization is untested.
+- Exploratory extensions found the constrained six-path model did not fully reproduce the covariance structure, so the reported model is a deliberate simplification rather than a complete account.
+
+## Citation
+
+Yang, Z., Yang, Y., & Liu, W. (2026). [Self-reported learning-oriented GenAI use under perceived teacher-referenced normative tension in Chinese higher education](https://doi.org/10.3389/fpsyg.2026.1969743). *Frontiers in Psychology, 17*.
 
 ---
 
@@ -62142,6 +62620,57 @@ Baran, E., Dilek, M., Ziba, M., & Xiao, X. (2026). [*Human-centered AI for teach
 
 ---
 
+## [Designing Human-Centered Assessment in an AI World: A Framework for Making Student Thinking Visible](https://edtechdev.github.io/aied/articles/human-centered-assessment-ai-world-2026/)
+
+> **Synthesis:** This conceptual paper argues that the generative-AI assessment debate has been framed around the wrong question. Detection and [[academic-integrity]] enforcement, it contends, do not answer what evidence is needed to make valid judgments about student learning. Building on [[authentic-assessment|authentic assessment]] and evidence-centered assessment, it proposes Human-Centered Assessment — an approach organized around authentic voice, reflection, judgment, context, process transparency and [[ethics|ethical AI]] integration — and supplies three complementary frameworks that move faculty from principle to assignment redesign. The shift it recommends is from detecting AI to designing assessments that produce richer evidence of thinking, in a world where the artifact alone no longer certifies the learning.
+
+## Key Findings
+
+1. The paper argues that [[generative-ai|generative AI]] has not changed the purpose of [[assessment]] but has exposed how much current practice relies on the artifact as a proxy for the thinking behind it.
+2. It introduces Human-Centered Assessment as a conceptual approach organized around six emphases: authentic voice, reflection, judgment, context, process transparency and ethical AI integration.
+3. It presents three complementary frameworks, sequenced from understanding the principles, to evaluating existing assignments, to redesigning assessments for AI-mediated learning environments.
+4. Detection-based responses are treated as insufficient because they address authorship rather than validity, leaving the underlying question of what counts as evidence unanswered.
+5. The paper builds explicitly on authentic assessment and evidence-centered assessment rather than proposing a new [[educational-measurement|assessment theory]].
+6. It concludes with implications for assessment practice, [[educational-development|faculty development]] and future research, and is published in the AALHE conference proceedings rather than as an empirical study.
+
+## The argument
+
+The paper starts from a question that detection debates tend to skip: what evidence do educators need to make valid judgments about student learning? Its premise is that the purposes of [[higher-ed|higher education]] have not changed — students are still expected to think critically, solve problems, communicate and exercise professional judgment — but that generative AI has made the old evidentiary shortcut, where a submitted artifact stood in for the reasoning behind it, unreliable.
+
+On this account the integrity conversation and the validity conversation are different, and the field has spent its energy on the first. That does not make detection pointless, but it makes it incomplete: catching AI-generated work says nothing about whether the assessment ever captured the learning it claimed to measure.
+
+## The framework
+
+Human-Centered Assessment is offered as a conceptual approach rather than a measurement model, and its six emphases are the operational core. Authentic voice and reflection push toward artifacts a student can genuinely call their own and can explain; judgment and context tie assessment to the professional situations graduates will face; process transparency makes the route to a product visible; and ethical AI integration accepts AI as part of the environment rather than an intruder to be excluded.
+
+The three frameworks are sequenced for faculty use: one to understand the principles, one to audit an existing assignment against them, and one to redesign for AI-mediated learning. The sequencing is the practical contribution — a department can start from an assignment it already runs rather than from a blank page.
+
+## From detection to design
+
+The paper's through-line is a redirection of effort. If the artifact can no longer be trusted as evidence, the response is to design assessments that generate richer evidence of thinking — drafts, reflections, oral defenses, justifications, process documentation — rather than to police the artifact more aggressively.
+
+That is a defensible position, and it is also the harder one to implement, because process evidence costs faculty time and does not scale like a machine-graded exam. The paper acknowledges the workload and faculty-development implications and closes by naming them as the next research questions, which is where the framework's practical limits sit.
+
+## What this means for practice
+
+- **Instructors.** Audit one assignment for what it actually evidences. If the submitted artifact is the only evidence of thinking, the redesign target is process transparency — drafts, rationale and reflection that make the reasoning visible.
+- **Assessment designers and professionals.** Separate the validity question from the integrity question. Detection answers whether AI wrote something; only redesign answers whether the assessment measures the learning it claims to.
+- **Faculty developers.** Use the three-framework sequence as a workshop structure. Starting from an existing assignment and auditing it against the six emphases is more tractable than introducing a new assessment theory.
+- **Administrators.** Budget for the workload the approach implies. Process-rich assessment needs faculty time and support, and a framework that increases marking load without resourcing it will not survive a semester.
+
+## Limitations
+
+- The paper is conceptual and published in conference proceedings; it presents a framework and three design tools but no empirical evaluation of whether the approach improves [[assessment-validity|assessment validity]].
+- It draws on authentic and evidence-centered assessment rather than proposing a new theory, so its contribution is synthesis and operational sequencing rather than a novel construct.
+- The six emphases and three frameworks are not accompanied by reliability or validity evidence, and no instrument for applying them is offered.
+- The paper is written for a higher-education assessment audience and does not address the resource constraints of large-enrollment or under-resourced settings.
+
+## Citation
+
+De La Cruz, L. (2026). [Designing Human-Centered Assessment in an AI World: A Framework for Making Student Thinking Visible](https://doi.org/10.61669/001c.169458). *Intersection: A Journal at the Intersection of Assessment and Learning, 7*(4), 42-53.
+
+---
+
 ## [A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment](https://edtechdev.github.io/aied/articles/human-in-the-loop-ai-scoring-national-assessment-2026/)
 
 > **Synthesis:** This study designs and validates a [[human-in-the-loop-ai|human-in-the-loop]] (HITL) framework for [[automated-essay-scoring|AI-assisted scoring]] of ~150–200-word Spanish argumentative texts in *Acredita EB*, Uruguay's national lower-secondary accreditation exam, using two years of operational data (~5,000–6,000 candidates per edition). A prompt-engineered GPT-5 model scored the 15-item analytic rubric at 60–80% agreement with expert raters — about 5% below human inter-rater agreement for most items — with 90%+ run-to-run consistency, while the spelling item was delegated to a deterministic grammar checker. The model's errors were systematically conservative: it under-graded, producing human-pass/AI-fail discrepancies in 15.3% (2024) and 16.5% (2025) of cases but almost never the reverse, which makes an asymmetric decision flow viable — AI-passing results are accepted, AI-failing results are routed to expert review. The authors estimate this reduces the responses needing full human scoring by at least 50% while preserving decision quality, though the claim rests on treating variable human ratings as [[assessment-validity|valid]] ground truth and on an untested [[simulation]] rather than a live deployment.
@@ -63859,9 +64388,9 @@ Iqbal, Sehrish; Jovanovic, Jelena; Fan, Yizhou; Raković, Mladen; Li, Xinyu; Che
 
 ---
 
-## [Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments](https://edtechdev.github.io/aied/articles/irt-human-genai-mcq-responses/)
+## [Applying psychometric methods to distinguish between human and generative AI responses to multiple-choice assessments](https://edtechdev.github.io/aied/articles/irt-human-genai-mcq-responses/)
 
-> **Synthesis:** Strugatski and Alexandron (2026) established a theoretical and empirical foundation for using [[item-response-theory|Item Response Theory]] to separate [[generative-ai|generative AI]] and human responses to multiple-choice [[assessment]]s. They investigated whether person-fit statistics (PFS), which evaluate how well an examinee's response pattern fits IRT model expectations, can distinguish between GenAI and human responses. Using data from two [[authentic-assessment|authentic assessment]] contexts — a high-school [[chemistry-education|chemistry]] test and a national university entrance exam, each with roughly 1,000 human respondents — they demonstrated that PFS reveal significant differences between human responses and those generated by advanced [[conversational-ai|chatbot]]s, which appear as 'aberrant' responders. The study positions IRT as a robust, reproducible framework for characterizing and separating human and GenAI response patterns, supporting [[academic-integrity]] in high-stakes testing.
+> **Synthesis:** Strugatski and Alexandron (2026) established a theoretical and empirical foundation for using [[item-response-theory|Item Response Theory]] to separate [[generative-ai|generative AI]] and human responses to multiple-choice [[assessment]]s. They investigated whether person-fit statistics (PFS), which evaluate how well an examinee's response pattern fits IRT model expectations, can distinguish between GenAI and human responses. Using data from two [[authentic-assessment|authentic assessment]] contexts — a high-school [[chemistry-education|chemistry]] test and a national university entrance exam, each with roughly 1,000 human respondents — they demonstrated that PFS reveal significant differences between human responses and those generated by advanced [[conversational-ai|chatbot]]s, which appear as 'aberrant' respondents. The study positions IRT as a robust, reproducible framework for characterizing and separating human and GenAI response patterns, supporting [[academic-integrity]] in high-stakes testing.
 
 ## Core Finding
 
@@ -63880,7 +64409,7 @@ A single MCQ response is just a digit — near-useless for attributing source �
 
 ## Key Findings
 
-- **Human–GenAI separation (RQ1):** At 5% contamination, GenAI responses were significantly more aberrant than human responses across all four PFS and both instruments (p < .001). At 10%, differences largely remained significant. At 25%, differences for the quantitative instrument became negligible (e.g., U3 p=.3222), while chemistry retained significance — ZU3 was the most contamination-sensitive measure, G the least.
+- **Human–GenAI separation (RQ1):** At 5% contamination, GenAI responses were significantly more aberrant than human responses across all four PFS and both instruments (p < .001). At 10%, differences largely remained significant. At 25%, differences for the quantitative instrument became negligible (e.g., U3 p=.3222, the minimal p-value; G was the least contamination-sensitive measure and ZU3 the most), while chemistry retained significance (max p=.0046 on G).
 - **Between-chatbot heterogeneity (RQ2):** Significant PFS divergence among the six chatbots on both instruments. PFS were more sensitive to generation-level shifts than to vendor "family"; older models were statistically indistinguishable from one another, with divergence appearing mainly between older and newer generations. On quantitative reasoning, GPT-5.2 and Gemini 3 formed a distinct cluster vs. older baselines, while Claude 4.5 had a unique profile.
 - **Generational convergence (RQ3):** Gen2 models outperformed Gen1 (e.g., chemistry Gen2 M=80.8% vs. Gen1 71.5% vs. human 71.5%) and simultaneously converged toward human-like patterns — effect sizes for human-divergence shrank sharply (chemistry G: r=0.389→0.060). On the quantitative instrument, Gen2 PFS distributions became statistically non-significant relative to humans; on chemistry they remained significant. Scalograms showed Gen2 shifting toward the Guttman (internally consistent) pattern, meaning their perceived item difficulty more closely mirrors human learners'. The cross-instrument difference may reflect vendors' heavy investment in quantitative reasoning or the Psychometric instrument's open availability to crawlers.
 
@@ -63889,7 +64418,7 @@ A single MCQ response is just a digit — near-useless for attributing source �
 - **Assessment designers.** Use [[item-response-theory|person-fit statistics]] as a probabilistic, wide-brush marker of heavy GenAI use rather than a classifier: at 5% contamination GenAI responses were significantly more aberrant than human responses on all four measures and both instruments (p < .001), but at 25% contamination the quantitative-reasoning differences became negligible (U3 p = .3222).
 - **Designers.** Plan to refit detection as models update, because separation decays as generators improve: the authors' third research question shows newer chatbots becoming more human-like in their response patterns, so a person-fit threshold calibrated on one generation will not hold for the next.
 - **Researchers.** Report which person-fit statistic you rely on — ZU3 was the most contamination-sensitive and the Guttman error count the least — and extend the approach to choice-level rather than dichotomous features, textual responses via NLP, other domains, and adaptive tests.
-- **Administrators.** Apply the flag for prevalence estimation, such as comparing proctored with unproctored settings, and for routing aberrant respondents to in-person verification, remembering that elevated person-fit can also arise from learning disabilities or test anxiety rather than GenAI use.
+- **Administrators.** Apply the flag for prevalence estimation, such as comparing proctored with unproctored settings, and for routing aberrant respondents to in-person verification, remembering that elevated person-fit can also arise from learning disabilities or [[anxiety-and-stress|test anxiety]] rather than GenAI use.
 
 ## Limitations
 
@@ -63897,10 +64426,11 @@ A single MCQ response is just a digit — near-useless for attributing source �
 - It relies on labeled, clean response data, which is exactly what a real assessment in which some answers are AI-generated cannot guarantee.
 - The between-chatbot comparison on the chemistry instrument had low statistical power, which the authors name rather than reading as a null result.
 - Elevated person-fit scores can arise from legitimate sources such as learning disabilities or anxiety, and external validity is limited to six tools and two instruments.
+- The GenAI comparison is tied to the model versions tested, in the authors' terms: the Gen1 cohort (GPT-4o, Gemini 1.5 Pro, Claude 3.5 Sonnet) and the Gen2 cohort (GPT-5.2, Gemini 3 Pro, Claude 4.5), each run 20 times per instrument. The convergence results describe those versions, so the separation the method measures should be expected to shift as newer model generations are released.
 
 ## Citation
 
-Strugatski, A., & Alexandron, G. (2026). [Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments](https://doi.org/10.1016/j.caeai.2026.100668). *Computers and Education: Artificial Intelligence*, 100668.
+Strugatski, A., & Alexandron, G. (2026). [Applying psychometric methods to distinguish between human and generative AI responses to multiple-choice assessments](https://doi.org/10.1016/j.caeai.2026.100668). *Computers and Education: Artificial Intelligence*, 100668.
 
 ---
 
@@ -75773,6 +76303,55 @@ The comparison with adjacent work sharpens the gap. [[huang-interpretable-knowle
 ## Citation
 
 Nie, C., Fu, C., Zhang, Y., Yang, H., & Shan, C. (2026). [*PersonaVLM: Long-Term Personalized Multimodal LLMs*](https://arxiv.org/abs/2604.13074).
+
+---
+
+## [Levels of AI awareness and pedagogical skills among Nigerian teachers: The differentials of gender and teachers’ experience](https://edtechdev.github.io/aied/articles/nigerian-teachers-ai-awareness-pedagogical-skills-2026/)
+
+> **Synthesis:** A stratified random survey of 2,586 [[k-12|secondary school]] teachers across Nigeria's six geopolitical zones measures [[teacher-ai-competency|AI awareness]] and AI [[pedagogy|pedagogical]] skills separately, and finds the two do not travel together. Awareness sits at a moderate level, pedagogical skill markedly lower — conceptual familiarity without the capacity to enact it in teaching. Male teachers reported small advantages on both, and teaching experience did not predict awareness but did predict skill, with early- and mid-career teachers ahead of experienced colleagues. It is one of the largest empirical samples on [[teacher-role|teacher]] [[ai-literacy]] readiness from Sub-Saharan Africa, and it points to structured, pedagogically grounded [[educational-development|professional development]] rather than tool exposure.
+
+## Key Findings
+
+1. Teachers reported moderate [[teacher-ai-competency|AI awareness]] (M = 3.13, SD = 1.79 on an 8-item binary scale) but substantially lower AI pedagogical skills (M = 2.47, SD = 0.86 on a 1-5 scale), a gap the authors read as familiarity without application.
+2. Gender differences were statistically significant but small: male teachers reported higher awareness (d = 0.17) and higher pedagogical skills (d = 0.31).
+3. Teaching experience did not significantly predict AI awareness, but early-career and mid-career teachers reported significantly higher AI pedagogical skills than experienced teachers (η² = 0.008).
+4. AI awareness and AI pedagogical skills correlated moderately and positively (r = .378, p < .001), so the two are related but far from interchangeable.
+5. The patterns held after controlling for school type, and the authors place Nigerian secondary teachers at an early-to-intermediate phase of AI integration.
+6. Data came from 2,586 teachers drawn by stratified random sampling across Nigeria's six geopolitical zones, analyzed with t-tests, one-way ANOVA, correlation and ANCOVA.
+
+## How the study was built
+
+The sample is 2,586 secondary school teachers selected by stratified random sampling across Nigeria's six geopolitical zones, which makes this one of the larger teacher-readiness datasets in the [[global-south|Global South]] literature. The two constructs are measured with different instruments. AI awareness uses an eight-item binary scale, so its maximum score is eight and a mean of 3.13 places the typical teacher around the middle. AI pedagogical skills use the 20-item Educators' AI Literacy scale, reported with a Cronbach's alpha of .977, on a 1-5 scale.
+
+Analysis is conventional and appropriate for the design: descriptive statistics, independent-samples t-tests for gender, one-way ANOVA for experience bands, correlation between the two constructs, and ANCOVA to hold school type constant. Keeping awareness and skill as separate outcomes is the study's key methodological choice, since a single composite would have hidden the gap it reports.
+
+## Awareness runs ahead of pedagogical skill
+
+The headline is the divergence. Teachers are moderately aware of AI but report much lower capacity to use it pedagogically, and the two measures correlate only moderately (r = .378). Awareness on its own is therefore a poor proxy for readiness: a teacher can know what [[generative-ai|generative AI]] is without being able to design a lesson, prompt or assessment around it.
+
+The practical reading is that professional development focused on explaining AI will not close this gap, because the gap is not informational. What the authors recommend is structured, [[equity-in-ai-education|equity]]-sensitive and pedagogically grounded training — the kind that builds enactment, not just vocabulary.
+
+## Gender and experience differentials
+
+The subgroup results are small but consistent. Male teachers reported slightly higher awareness (d = 0.17) and higher pedagogical skills (d = 0.31), and the authors treat these as modest differences rather than a decisive divide. More interesting is the experience pattern: experience did not predict awareness at all, but it did predict skill, and the direction runs the other way — early- and mid-career teachers reported higher pedagogical skills than experienced teachers (η² = 0.008). The effect size is small, so it is a signal to investigate rather than a settled conclusion, but it fits the broader pattern in which newer cohorts arrive with more hands-on exposure to AI tools.
+
+## What this means for practice
+
+- **Instructors.** Do not assume that colleagues who can describe generative AI can also teach with it. The study separates awareness from pedagogical skill, so self-assessed familiarity is a poor guide to who needs support with lesson design.
+- **Faculty developers.** Build training around enactment rather than explanation. Since awareness ran well ahead of skill and experience did not close the gap, a program of tool demonstrations will leave the reported deficit in place; design for planning, prompting and assessment tasks instead.
+- **Policymakers and administrators.** Target professional development at the awareness-skill gap and watch for the subgroup pattern. Small gender differences and a skill advantage among early-career teachers suggest provision should be differentiated rather than uniform.
+- **Researchers.** Treat the awareness-skill distinction as the default measurement choice. A single readiness score would have concealed the central finding here, and replication across other Sub-Saharan systems would test whether the gap is regional or general.
+
+## Limitations
+
+- The design is cross-sectional and [[self-report-measures|self-reported]], so awareness and pedagogical skill are what teachers report about themselves rather than observed classroom practice.
+- The instruments differ in scale and format — an 8-item binary awareness scale against a 20-item 1-5 skills scale — so the size of the gap between them is partly a measurement artifact the authors do not fully resolve.
+- Gender and experience effects are statistically significant but small (d = 0.17 and 0.31; η² = 0.008), and the authors present them as patterns to examine rather than firm differences.
+- The sample is secondary school teachers in one national system, so generalization to other levels, systems or teacher populations is untested.
+
+## Citation
+
+Olurinola, O. D., Akintola, O. A., & Olugbade, D. (2026). [Levels of AI awareness and pedagogical skills among Nigerian teachers: The differentials of gender and teachers’ experience](https://doi.org/10.1016/j.caeo.2026.100401). *Computers and Education Open, 11*, 100401.
 
 ---
 
