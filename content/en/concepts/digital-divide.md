@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-04T16:06:05-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
@@ -61,6 +61,8 @@ Structured school AI instruction is a psychological catalyst but not a cognitive
 
 - **Model compression is another route to constrained hardware.** A Nigerian Pidgin adaptive tutor fine-tuned on a 416,343-entry corpus kept semantic structure and coherence at 8-bit, while 4- and 5-bit versions cut inference latency with only minimal degradation in instructional quality, and native speakers checked cultural acceptability rather than metrics alone ([[multilingual-adaptive-learning-nigeria-2026|Nwogo et al., 2026]]).
 
+- **A simulated lab can reproduce the equipment bill it was meant to avoid.** A [[meta-analysis-systematic-review|systematic review]] of 11 digital-twin studies in STEM higher education found hardware costs of $2000-$15,000 per functional workstation node in four studies, with physical entities capping access at 1-3 concurrent students in five, and no included study produced a return-on-investment analysis ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-Gonzalez et al. (2026)]]). The review benchmarks that entry cost against physical characterization rigs costing from $30,000 to over $150,000.
+
 ### Connections to related concepts
 
 The digital divide is a core concern of [[equity-in-ai-education]] research, closely tied to [[ai-literacy]] (which is positioned as a central mechanism for addressing structural barriers), and to [[ethics]] and [[bias-mitigation]] (since algorithmic bias disproportionately affects marginalized groups). It connects to [[ai-education]] and [[higher-ed]] as the settings where access and capability gaps manifest, and relates to [[student-experience]] as it shapes who can participate meaningfully in AI-shaped learning.
@@ -98,3 +100,4 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital inequality as distributive problem vs. algorithmic coloniality as epistemic one, in South African HDIs
 
 - [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
+- [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital twin labs carry an equipment bill that bounds concurrent access
