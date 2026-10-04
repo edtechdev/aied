@@ -439,6 +439,7 @@ REJECT_PAIRS = {
     ('degree apprenticeship', 'sociocultural-learning'),  # a UK study model, not learning theory
     ('education policy institute', 'educational-policy-ai'),  # HEPI, a proper noun
     ('equitable learning', 'inclusive-learning'),    # equity, not inclusion/UDL
+    ('teacher descriptions', 'teacher-role'),    # a data label in a statistic, not the role
     ('self-regulation', 'regulation'),                   # learner SRL, not AI regulation
     ('self-regulatory', 'regulation'),                   # "self-regulatory function"
     ('social regulation', 'regulation'),                 # co-regulation

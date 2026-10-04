@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-04T02:59:54-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -81,6 +81,8 @@ The practical test that separates them: a policy can be read on paper, but gover
 **Classroom policy as the interpretive frontier of governance.** The machinery of governance does not stop at the institutional document; the teachers who read and adapt it are the last link in the chain, and [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] show what that link looks like in practice. Their [[teacher-education|preservice teachers]] expected to work in districts with AI policies yet still had to author classroom-specific rules for their own students — an essential adaptation skill — and the authors argue that teachers can decline to adopt AI for specific reading and writing tasks without ignoring it, with principled refusal distinguishable from uncritical rejection. Keeping that distinction viable is itself a governance task: districts and preparation programs need the guidance, [[educational-development|professional development]], and policy infrastructure that let teachers refuse particular uses without being framed as behind the times.
 
 **Governance indicators for the authentication problem.** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher and Calderon (2025)]] supply the measurement layer this policy-versus-governance distinction implies, treating [[academic-integrity]] in the GenAI era as a governance problem before a detection problem and judging contemporary academic governance resilient but "not well positioned or poised" to protect the authentication of student [[assessment]]. Their framework holds 130 governance questions under eight dimensions — Designing, Developing, Training, Implementing, Analyzing, Reporting, Evaluating and Improving — and the items are questions about institutional machinery rather than psychometric scales: whether the institution's top-most board or council receives updates on assessment processes and outcomes, whether key performance indicators cover assessment quality, what percentage of students are known individually by the teachers who assess them, whether extreme low or high marks are cross-checked, and whether there is a simple route for referring contract cheating cases. The accompanying reform program targets governance architectures, the people who hold governance roles, and the technologies and resources supporting assessment, and the authors argue that little institutional development pays out without external affordance from regulation, [[benchmark|benchmarking]] and cross-institutional competition — the same regulatory pressure the [[regulation]] page treats as the binding constraint on governance reform.
+- **The gap is measured in K-12 too, not only in universities.** A nationally representative survey of 1,018 US public school teachers and principals found only 18% of teachers and 24% of principals reporting a school generative-AI policy — the same below-institution pattern this page documents in higher education ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]]).
+
 
 ### The policy deficit in AI × SEL research
 
@@ -105,6 +107,7 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[student-support-and-success]] — the policy context for institutional support deployment
 
 ## Connected Articles
+[[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
 - [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice English teachers' classroom AI policies: what they permitted, limited, and banned (Nash & Burriss 2026)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment

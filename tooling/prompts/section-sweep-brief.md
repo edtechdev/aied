@@ -30,7 +30,7 @@ bullets and delete the heading.
    Add further labels (`**Faculty developers.**`, `**Administrators.**`, `**Researchers.**`, `**Designers.**`)
    only where the paper supports a genuinely distinct implication for that audience, and match the labels to the
    page's `audience:` frontmatter. No hedging; one or two sentences per bullet.
-2. `## Limitations` — 2-4 bullets, each tied to a CONCRETE fact about this study: sample size and recruitment,
+2. `## Limitations` — 2-6 bullets, each tied to a CONCRETE fact about this study: sample size and recruitment,
    single site or single course, self-report measures, a very short intervention, no control group, benchmark
    contamination, author-stated threats to validity, the measurement itself. A bullet with no number and no
    specific fact is a defect. If the paper gives no basis, omit the section and say why. For a conceptual or
