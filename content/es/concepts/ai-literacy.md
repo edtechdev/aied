@@ -1,7 +1,7 @@
 ---
 title: Alfabetización en IA
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-04T17:14:09-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-04T10:51:52-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -160,7 +164,7 @@ Los marcos y los estudios empíricos de la base de conocimiento convergen en un 
 
 ### Medir la alfabetización en IA
 
-Una línea de investigación distinta trata la alfabetización en IA no solo como un objetivo de la instrucción, sino como un constructo que debe medirse. La línea de evaluación de la base de conocimiento distingue la alfabetización **autoinformada** de la **basada en el desempeño**: los autoinformes divergen marcadamente de la competencia demostrada (el profesorado la sobreestima en torno a un 40%), y las medidas basadas en el desempeño predicen la integración de la IA en el aula mucho mejor que las encuestas de confianza (r≈0,72 frente a 0,31). El trabajo de intervención reproduce esa divergencia al nivel del comportamiento: en [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]], ni las actitudes hacia la IA generativa ni una escala general de conciencia metacognitiva predijeron la regulación de la interacción con los LLM por parte del estudiantado ni sus puntuaciones finales en la tarea (r = .01 y r = .04, ambas no significativas), mientras que las conductas que el taller sí cambió (rechazar prompts poco especificados, juzgar la corrección de la respuesta y formular una pregunta de seguimiento) sí rastrearon la calidad de la respuesta. Están surgiendo instrumentos validados para cerrar esta brecha: el [[jin-glat-genai-literacy-assessment|GLAT]] ofrece una evaluación de la alfabetización en IA generativa validada psicométricamente, y los perfiles diagnósticos (quienes sobreestiman frente a quienes son novatos reales) permiten a quienes diseñan dirigir el apoyo allí donde se necesita. Para el diseño y la investigación, esto vincula la alfabetización en IA con la [[educational-measurement|medición educativa]] y con la [[assessment|evaluación]] en general: un marco de alfabetización es tan útil como los instrumentos con los que se rastrea el crecimiento, y los continuos por etapas requieren una medición fiable para situar en ellos a quien aprende.
+Una línea de investigación distinta trata la alfabetización en IA no solo como un objetivo de la instrucción, sino como un constructo que debe medirse. La línea de evaluación de la base de conocimiento distingue la alfabetización **autoinformada** de la **basada en el desempeño**: los autoinformes divergen marcadamente de la competencia demostrada (el profesorado la sobreestima en torno a un 40%), y las medidas basadas en el desempeño predicen la integración de la IA en el aula mucho mejor que las encuestas de confianza (r≈0,72 frente a 0,31). El trabajo de intervención reproduce esa divergencia al nivel del comportamiento: en [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]], ni las actitudes hacia la IA generativa ni una escala general de conciencia metacognitiva predijeron la regulación de la interacción con los LLM por parte del estudiantado ni sus puntuaciones finales en la tarea (r = .01 y r = .04, ambas no significativas), mientras que las conductas que el taller sí cambió (rechazar prompts poco especificados, juzgar la corrección de la respuesta y formular una pregunta de seguimiento) sí rastrearon la calidad de la respuesta. Están surgiendo instrumentos validados para cerrar esta brecha: el [[jin-glat-genai-literacy-assessment|GLAT]] ofrece una evaluación de la alfabetización en IA generativa validada psicométricamente, y los perfiles diagnósticos (quienes sobreestiman frente a quienes son novatos reales) permiten a quienes diseñan dirigir el apoyo allí donde se necesita. [[caeai-digital-literacy-frameworks-review-2026|Guo et al. (2026)]] cartografían directamente ese panorama de instrumentos: revisan 80 marcos validados —69 de alfabetización digital y 11 de alfabetización en IA— publicados entre enero de 2014 y febrero de 2025. La IA ha atraído la alfabetización digital hacia la ética y ha reformulado la comunicación para incluir la interacción entre personas y la IA, mientras que la regulación metacognitiva y la colaboración entre el profesorado y la IA siguen siendo los aspectos menos especificados. Para el diseño y la investigación, esto vincula la alfabetización en IA con la [[educational-measurement|medición educativa]] y con la [[assessment|evaluación]] en general: un marco de alfabetización es tan útil como los instrumentos con los que se rastrea el crecimiento, y los continuos por etapas requieren una medición fiable para situar en ellos a quien aprende.
 
 Un instrumento de 32 ítems y seis facetas amplía el modelo de cuatro dimensiones con dos facetas más (el uso responsable y el autodesarrollo) y mantiene la invariancia escalar entre adolescentes (12-17), adultos jóvenes (18-40) y adultos de mediana edad (41-60), aunque los autores advierten que el ΔCFI se acercó al umbral convencional ([[sfailq-six-facet-ai-literacy-questionnaire-2026|Liu et al. (2026)]]).
 
@@ -218,6 +222,7 @@ La alfabetización en IA es **de doble filo** en relación con la dependencia ex
 - [[career-development-and-readiness]] — el rédito de empleabilidad que se sostiene que construye la alfabetización en IA
 - [[ai-education]] — el campo más amplio
 ## Artículos conectados
+- [[caeai-digital-literacy-frameworks-review-2026]] — 80 marcos validados muestran que la IA amplía la alfabetización digital hacia la ética mientras la colaboración entre el profesorado y la IA sigue poco especificada (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Seis áreas de competencia, cinco valores y tres niveles de progresión para los medios de servicio público
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
 - [[ai-literacy-continuum-higher-education]] — Un continuo práctico de cinco etapas para la alfabetización en IA

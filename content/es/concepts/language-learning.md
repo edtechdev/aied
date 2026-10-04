@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Aprendizaje de lenguas
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-10-02T21:33:07-04:00"
+updated: "2026-10-04T17:14:09-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,13 +11,17 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-04T09:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -63,6 +67,7 @@ La calidad del diseño, y no la frecuencia de uso, fue lo que sostuvo el efecto 
 ## Implicaciones para el profesorado de lenguas
 
 - **Las [[ai-technologies|tecnologías]] emergentes producen ganancias pequeñas o moderadas que dependen del nivel.** Un [[liu-emerging-tech-tefl-review-2026|metaanálisis de 33 estudios de TEFL]] (N = 3.181) encuentra un efecto global de g de Hedges = 0,38 que aumenta con el nivel educativo (primaria 0,29; secundaria 0,35; terciaria 0,44), con la realidad virtual y aumentada produciendo los efectos mayores y las habilidades productivas (hablar, escribir) ganando más que las receptivas, lo que respalda el uso de tecnologías emergentes, sobre todo en el nivel terciario, manteniendo expectativas realistas.
+- **Una revisión sistemática cartografía dónde es escasa la educación lingüística con IA en primaria.** En 31 estudios (2013-2025), el trabajo en aulas de lenguas de primaria se concentró en la expresión oral, la alfabetización y el vocabulario, mientras que la gramática, la comprensión auditiva y la lengua de signos apenas se estudiaron, y la mayoría de los diseños carecía de especificidad por curso ([[ai-elementary-language-education-review-2026|Hamasha et al., 2026]]).
 - **Use la IA para ampliar la práctica comunicativa, no para sustituirla.** Los [[ai-interlocutor-l2-spoken-dialogue|interlocutores de IA]] y los [[tact-pedagogically-adaptive-esl-tutoring|tutores adaptativos de inglés como segunda lengua]] amplían la práctica interactiva a escala: combínelos con interacción humana para que la fluidez y la incorporación se transfieran a la conversación real.
 - **Vigile la salida de la IA en busca de errores pragmáticos, no solo gramaticales.** Docentes de cinco métodos de enseñanza de lenguas en línea nombraron la ceguera pragmática, en la que la salida de la IA es gramaticalmente correcta pero errónea en tono, formalidad o cultura ([[ai-ethics-tensions-online-pedagogy-2026|Baoyi y Khan (2026)]]).
 - **Priorice la calidad del feedback sobre la cantidad en la expresión oral con apoyo de ASR.** [[asr-english-speaking-feedback-metacognition-2026|Chen et al. (2026)]] encuentran que la corrección precisa de errores y las tareas de reflexión estructurada mejoran la interiorización del [[feedback]] y el comportamiento reflexivo en la expresión oral en inglés universitario, mientras que el uso frecuente de ASR y la precisión del reconocimiento aumentan la motivación o la reflexión solo en parte: la precisión técnica por sí sola no impulsa una implicación cognitiva más profunda, y el nivel de competencia lingüística modera las ganancias (quienes aprenden con más nivel interiorizan el feedback de forma más eficaz). Esto aboga por un feedback pedagógicamente sólido (por ejemplo, explicaciones articulatorias en lugar de simples marcas de error), por una reflexión con andamiaje y por un apoyo diferenciado según el nivel.
@@ -76,7 +81,7 @@ La calidad del diseño, y no la frecuencia de uso, fue lo que sostuvo el efecto 
 - **Prepare la [[ai-literacy|alfabetización en IA]] del profesorado de lenguas.** [[governing-unseen-ai-literacy-language-teachers-2026|Las revisiones sistemáticas]] encuentran que la alfabetización en IA del profesorado de lenguas es una carencia clave: invierta en [[educational-development|desarrollo profesional]] docente junto con la adopción de herramientas. A medida que la IA reconfigura la educación lingüística, la alfabetización en IA también es crucial para que el profesorado se implique críticamente con la tecnología: la Escala de Alfabetización en IA del Profesorado (TAILS) se desarrolló para la [[teacher-education|formación del profesorado]] de lenguas, operacionalizando el marco ED-AI de seis dimensiones (conocimiento, evaluación, colaboración, contextualización, [[agency|autonomía]], [[ethics|ética]]) y se validó con futuros docentes de inglés.
 
 - **Cuatro perfiles de interacción en una tarea bilingüe de alta presión.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li y Weng (2026)]] usaron seguimiento ocular, registro con lápiz y grabación de voz con 22 estudiantes de interpretación para mostrar que el estudiantado reparte la atención entre la salida de la IA y sus propias notas de cuatro formas distintas —implicados intensivos, escáneres rápidos, tradicionalistas y cambiadores frecuentes— y que el 58,3% de las observaciones a nivel de etapa cambiaron de perfil entre las etapas de comprensión y de producción de una misma tarea. Solo los patrones de la etapa de comprensión predijeron la calidad del producto, y el grupo más dependiente de la IA obtuvo la peor puntuación en fluidez de la entrega y calidad de la lengua meta, lo que aboga por enseñar al estudiantado a describir y reflexionar sobre su propia estrategia en lugar de prescribir una única forma de trabajar con la herramienta.
-- **Ordene el bucle completo de las cuatro destrezas en torno al coste y la conectividad.** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] publican LLMersion-1, un prototipo local primero que trabaja la comprensión auditiva, la lectura, la expresión oral y la escritura sobre el propio documento de quien aprende en hardware de consumo: un tutor de 1B se cuantiza a 808 MB y toda la pila residente se mantiene por debajo de 4 GB, y calcula cinco años de práctica diaria en unos 18 $ de electricidad, frente a 1.200 $ de una suscripción en la nube. No se informan resultados de aprendizaje y la retroalimentación de pronunciación es solo segmental.
+- **Ordene el bucle completo de las cuatro destrezas en torno al coste y la conectividad.** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] publican LLMersion-1, un prototipo local primero que trabaja la comprensión auditiva, la lectura, la expresión oral y la escritura sobre el propio documento de quien aprende en hardware de consumo: un tutor de 1B se cuantiza a 808 MB y toda la pila residente se mantiene por debajo de 4 GB, y calcula cinco años de práctica diaria en unos \$18 de electricidad, frente a \$1.200 de una suscripción en la nube. No se informan resultados de aprendizaje y la retroalimentación de pronunciación es solo segmental.
 
 ## Conceptos conectados
 

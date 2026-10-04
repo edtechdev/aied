@@ -1,7 +1,7 @@
 ---
 title: Declaraciones de uso y divulgación de la IA
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-04T17:13:09-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,13 +12,17 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-04T16:22:53-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -68,6 +72,8 @@ El trabajo de modelización de [[mohamed-temimi-assessment-imperfect-information
 
 Al examinar las orientaciones sobre IA generativa de las 50 universidades estadounidenses mejor clasificadas por innovación, [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] sitúa la divulgación en la frontera entre la asistencia y la tergiversación: donde se permite la IA, las instituciones indican al estudiantado que reconozca, cite o documente de algún modo la asistencia de la IA, en lugar de presentar los resultados como enteramente propios, y son las bibliotecas —y no las oficinas de integridad— las que ostentan la autoridad sobre las normas de citación y procedencia. El planteamiento de las bibliotecas del MIT, según el cual la IA no es autora y son los autores quienes responden de documentar cómo contribuyeron las herramientas, ejemplifica el patrón, y Qian lee la divulgación simultáneamente como norma de integridad, como principio de diseño que reduce la ambigüedad antes de la entrega y como uno de los cuatro pilares de la integridad, junto con la rendición de cuentas, la [[equity-in-ai-education|equidad]] y la [[privacy|privacidad]]. Es el mismo uso no forense que describe la sección, y es la razón por la que Qian recomienda institucionalizar las bibliotecas como autoridad de citación en lugar de ampliar la detección.
 
+- **La divulgación conlleva una penalización de confianza, y la legitimidad es el mecanismo que se argumenta.** En trece experimentos, en su mayoría con paneles en línea estadounidenses y agrupados en 4.093 observaciones (θ = 0,81, z = 10,52, IC del 95% [0,66, 0,96]), se confió menos en quien divulgaba el uso de IA que en quien permanecía en silencio ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke y Reimann (2025)]]). El efecto se mantuvo con seis formulaciones de la divulgación, con un evaluador que ya sabía que se había usado IA y con regímenes tanto obligatorios como voluntarios. Es la contraparte experimental del hallazgo de encuesta anterior de que el estudiantado que siempre divulgaba se enfrentaba a más del triple de probabilidades de ser acusado: la transparencia misma puede costarle a quien divulga. El único resultado del artículo orientado al estudiantado es que este confiaba menos en una profesora cuando ella divulgaba que la IA calificaba.
+
 ## Diseñar una divulgación eficaz
 
 - **La claridad y la coherencia superan a la disuasión.** Desarrolle políticas de IA claras, coherentes y construidas de forma colaborativa, con ejemplos concretos de uso aceptable y de cómo declararlo; evite los marcos punitivos o vagos que motivan la ocultación.
@@ -111,3 +117,4 @@ El uso y la divulgación de la IA se sitúan en la intersección de la [[academi
 - [[qian-governing-genai-higher-ed-policy-2026]] — La divulgación como frontera entre la asistencia y la tergiversación en 50 universidades estadounidenses innovadoras (Qian 2026)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Sin consenso sobre la divulgación y la citación de la IA en la política de las facultades de derecho (Gutowski & Hurley 2025)
 - [[ai-written-admissions-essays-penalized-2026]] — Los ensayos de admisión escritos con IA están muy extendidos pero se penalizan
+- [[obhdp-ai-disclosure-erodes-trust-2025]] — Trece experimentos: divulgar el uso de la IA reduce la credibilidad de quien divulga, a través de la legitimidad

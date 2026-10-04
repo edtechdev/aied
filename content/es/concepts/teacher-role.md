@@ -1,7 +1,7 @@
 ---
 title: La docencia
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-03T02:52:14-04:00"
+updated: "2026-10-04T17:09:45-04:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-10-02T08:36:43-04:00"
+source_updated: "2026-10-04T10:52:53-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -23,11 +23,17 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-10-04"
+    agent: hermes-agent
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **La docencia**: cómo la IA remodela el trabajo, la identidad y la agencia de quienes educan. Con más de 50 artículos que examinan esta dimensión, la base de conocimiento documenta una transformación fundamental: de autoridad única del conocimiento a orquestadora de entornos de aprendizaje en los que colaboran personas e IA. Esta página va más allá de describir ese cambio: detalla lo que el profesorado realmente *hace* de otro modo, cómo puede adaptar su práctica y cómo se conecta con [[learning-design|diseño del aprendizaje]], [[ai-literacy|alfabetización en IA]] y [[academic-integrity|integridad académica]].
+
+> [[caeo-navigating-ai-educational-future-scenarios-2026|Malyn-Smith et al. (2026)]] llaman a esto la paradoja de lo más humano: en seis escenarios para 2030 cocreados por 20 investigadores de 13 países, la saturación de la IA intensifica el trabajo pedagógico humano en lugar de desplazarlo. Los escenarios describen la IA como «el sistema de tratamiento del aire del ecosistema de aprendizaje»: solo se nota cuando falla.
 
 ## Preguntas para reflexionar
 
@@ -72,7 +78,7 @@ La abstracción «orquestador» se entiende mejor con cambios concretos del día
 
 ### La metáfora de la orquestación
 
-La metáfora dominante en la base de conocimiento es la *orquestación*: el profesorado coordina estudiantes, [[intelligent-tutoring|tutores de IA]] y recursos curriculares. Esto contrasta con los relatos de sustitución: la IA aumenta la docencia humana en lugar de reemplazarla. La evidencia empírica respalda esta postura: una [[meta-analysis-systematic-review|revisión sistemática]] guiada por PRISMA de 42 estudios (2023-2025) encontró que los LLM igualan a las personas evaluadoras en tareas breves y bien estructuradas, pero que su rendimiento decae en trabajos más largos, multilingües y matizados, y concluyó que los LLM no pueden reemplazar por completo al profesorado y que los sistemas híbridos de evaluación con intervención humana logran la mayor eficacia calificadora ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). La mirada de la orquestación replantea la habilidad central del docente como *juicio*: decidir cuándo una persona, una IA o una actividad de aprendizaje diseñada es el instrumento adecuado para un estudiante y un momento concretos. Una revisión PRISMA de 2026 sobre 29 estudios de [[teacher-intervention-k12-ai-based-instruction-2026|intervención docente en la instrucción basada en IA en K-12]] afina la metáfora hasta un ciclo de cuatro fases (monitorización, juicio, intervención y orquestación) y muestra por qué ninguna fase puede darse por supuesta. El profesorado prefería un control compartido, aceptando, modificando, rechazando o anulando las sugerencias de la IA; parte del personal retrasaba deliberadamente la intervención para que el estudiantado pudiera esforzarse primero de forma productiva; y los cuadros de mando que ampliaban la conciencia también podían sobrecargar la atención o exceder lo que una sola persona podía atender físicamente. Sus tres estrategias (traducción pedagógica de la salida de la IA, diseño del apoyo al aprendizaje y reconstrucción de las estructuras de interacción) describen el trabajo como recontextualización más que como aprobación, lo que sitúa al profesorado más cerca del papel de mediador que del de revisor humano en el bucle.
+La metáfora dominante en la base de conocimiento es la *orquestación*: el profesorado coordina estudiantes, [[intelligent-tutoring|tutores de IA]] y recursos curriculares. Esto contrasta con los relatos de sustitución: la IA aumenta la docencia humana en lugar de reemplazarla. La evidencia empírica respalda esta postura: una [[meta-analysis-systematic-review|revisión sistemática]] guiada por PRISMA de 42 estudios (2023-2025) encontró que los LLM igualan a las personas evaluadoras en tareas breves y bien estructuradas, pero que su rendimiento decae en trabajos más largos, multilingües y matizados, y concluyó que los LLM no pueden reemplazar por completo al profesorado y que los sistemas híbridos de evaluación con intervención humana logran la mayor eficacia calificadora ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). La mirada de la orquestación replantea la habilidad central del docente como *juicio*: decidir cuándo una persona, una IA o una actividad de aprendizaje diseñada es el instrumento adecuado para un estudiante y un momento concretos. Una revisión PRISMA de 2026 sobre 29 estudios de [[teacher-intervention-k12-ai-based-instruction-2026|intervención docente en la instrucción basada en IA en K-12]] afina la metáfora hasta un ciclo de cuatro fases (monitorización, juicio, intervención y orquestación) y muestra por qué ninguna fase puede darse por supuesta. El profesorado prefería un control compartido, aceptando, modificando, rechazando o anulando las sugerencias de la IA; parte del personal retrasaba deliberadamente la intervención para que el estudiantado pudiera esforzarse primero de forma productiva; y los cuadros de mando que ampliaban la conciencia también podían sobrecargar la atención o exceder lo que una sola persona podía atender físicamente. Sus tres estrategias (traducción pedagógica de la salida de la IA, diseño del apoyo al aprendizaje y reconstrucción de las estructuras de interacción) describen el trabajo como recontextualización más que como aprobación, lo que sitúa al profesorado más cerca del papel de mediador que del de revisor humano en el bucle. La observación en el aula nombra esos mismos comportamientos como tipos. Seis clases con un docente experimentado añadieron tres tipos de orquestación a los cuatro de Drijvers —monitorización de cuadros de mando, corrección de la IA y mediación de la IA—, con los roles de contenido y ético del docente más visibles cuando corregía la retroalimentación generada por IA ([[teachers-instrumental-orchestration-ai-math-2026|Noh y Kim, 2026]]).
 
 ### Roles docentes en evolución y críticos
 
@@ -180,6 +186,8 @@ El rol docente y la [[learner-identity|identidad del estudiantado]] son caras re
 
 ## Artículos conectados
 
+- [[caeo-navigating-ai-educational-future-scenarios-2026]] — La paradoja de lo más humano: los escenarios expertos para 2030 encuentran que la saturación de la IA intensifica el trabajo pedagógico humano en lugar de desplazarlo (Malyn-Smith et al. 2026)
+- [[teachers-instrumental-orchestration-ai-math-2026]] — Seis clases de matemáticas de secundaria observadas amplían la orquestación instrumental con tres tipos nuevos (Noh y Kim 2026)
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responder a las alertas emocionales generadas por IA: la intervención del profesorado y la implicación del estudiantado en el aula de matemáticas
 
 - [[edustories-classroom-case-studies-2026]] — Edustories: A Collection of Real-world Case Studies from Classroom Practices

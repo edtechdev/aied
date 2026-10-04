@@ -1,7 +1,7 @@
 ---
 title: "Competencia en IA del profesorado"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-04T17:13:09-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,13 +13,17 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-04T09:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -63,9 +67,9 @@ Una versión más fuerte de ese reencuadre sostiene que la IA generativa es un c
 
 ## La brecha de competencia
 
-Un hallazgo clave es la **brecha entre la competencia [[self-report-measures|autoinformada]] y la basada en el desempeño**. [[ai-literacy-assessment-misalignment|La investigación sobre la evaluación de la alfabetización en IA]] documenta una discrepancia sustancial (de hasta ~40%) entre lo que el profesorado *cree* que puede hacer y lo que puede *demostrar* realmente: el profesorado que se siente seguro con las habilidades de IA a menudo carece de capacidades fundacionales de prompting y evaluación. Esto motiva una **[[assessment|evaluación basada en el desempeño]]** de la competencia docente en lugar de confiar en el autoinforme, y conecta con la [[self-assessment|autoevaluación calibrada]].
+Un hallazgo clave es la **brecha entre la competencia [[self-report-measures|autoinformada]] y la basada en el desempeño**. [[ai-literacy-assessment-misalignment|La investigación sobre la evaluación de la alfabetización en IA]] documenta una discrepancia sustancial (de hasta ~40%) entre lo que el profesorado *cree* que puede hacer y lo que puede *demostrar* realmente: el profesorado que se siente seguro con las habilidades de IA a menudo carece de capacidades fundacionales de prompting y evaluación. Esto motiva una **[[assessment|evaluación basada en el desempeño]]** de la competencia docente en lugar de confiar en el autoinforme, y conecta con la [[self-assessment|autoevaluación calibrada]]. Una encuesta nacional a 2.586 docentes de secundaria nigerianos midió las dos caras con instrumentos separados —una conciencia de la IA moderada (M = 3,13 de 8) frente a una habilidad pedagógica en IA menor (M = 2,47 de 5)—, y el profesorado al inicio y a mitad de su carrera declaraba una habilidad mayor que sus colegas con más experiencia ([[nigerian-teachers-ai-awareness-pedagogical-skills-2026|Olurinola et al., 2026]]).
 
-La brecha no está solo entre la habilidad percibida y la real, sino en la *amplitud* de lo que el profesorado sabe: una encuesta nacional a 2.018 docentes de secundaria ucranianos encontró que el 84% declaraba usar IA en su práctica profesional mientras que solo el 11% podía nombrar un servicio de IA especializado más allá de ChatGPT ([[ukraine-ai-literacy-secondary-framework-2026|Marienko, Markova y Semerikov (2026)]]).
+La brecha no está solo entre la habilidad percibida y la real, sino en la *amplitud* de lo que el profesorado sabe: una encuesta nacional a 2.018 docentes de secundaria ucranianos encontró que el 84% declaraba usar IA en su práctica profesional mientras que solo el 11% podía nombrar un servicio de IA especializado más allá de ChatGPT ([[ukraine-ai-literacy-secondary-framework-2026|Marienko, Markova y Semerikov (2026)]]). Una segunda estrechez se aprecia en lo que el profesorado aporta de forma voluntaria y no en lo que puede nombrar: 53 docentes en activo que etiquetaron sus propios casos de aula frente al Marco de Alfabetización en IA de la OCDE describieron 43 prácticas alfabetizadas en IA frente a solo 10 fallos ([[ailithub-ai-literacy-case-infrastructure-2026|Wang et al., 2026]]). Sus selecciones de competencias se agruparon en el juicio práctico (evaluar los resultados de la IA, N = 38) y rara vez alcanzaron el sesgo social (N = 5), la alineación ética (N = 6) o el consumo energético de la IA (N = 9).
 
 La brecha se ve tanto en el artefacto como en el autoinforme. Un [[ai-integration-instructional-design-collaboratory-2026|colaboratorio interinstitucional de profesorado en la formación docente]], en el que formadores de docentes integraron la IA en sus propios cursos de didáctica, informó de que los futuros docentes podían producir planificaciones de clase asistidas por IA muy pulidas sin ser capaces de explicar por qué una planificación encajaba con el estudiantado y con los estándares, ya que la planificación en sí no dice nada sobre el razonamiento que hay detrás. Calificar la justificación en lugar del producto es una respuesta posible. El [[bondurant-shaughnessy-ai-pedagogies-practice-2026|marco de pedagogías de la práctica]] sugiere otra, al tratar el ensayo como una aproximación de la práctica: el ensayo mediado por IA con retroalimentación estructurada posterior al ensayo aumentó el uso de preguntas de sondeo y exploración por parte de los futuros docentes, aunque sus propios juicios sobre su desempeño seguían divergiendo de lo que registraban las personas observadoras.
 
@@ -137,6 +141,7 @@ El panorama de instrumentos se ha revisado desde entonces. [[assessing-teachers-
 - [[pedagogy]] — Marco: pedagogías y estrategias de enseñanza en la educación con IA
 
 ## Artículos conectados
+- [[ailithub-ai-literacy-case-infrastructure-2026]] — El profesorado etiquetó sus propios casos de aula con IA y alcanzó con facilidad las competencias prácticas, pero rara vez las sociales y éticas (Wang et al. 2026)
 - [[typology-generative-ai-tools-education-2026]] — La selección de herramientas como ejercicio de agencia del personal docente
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Revisión sistemática de la IA generativa en la enseñanza y el aprendizaje en K-12 (Marzano 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Conocimiento profesional docente en la educación en IA en K-12: TAIK frente a TPAIK y el aprendizaje del estudiantado (Shen et al. 2026)

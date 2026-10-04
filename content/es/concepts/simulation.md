@@ -2,19 +2,23 @@
 connected_resources: [openmaic]
 title: Simulación
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-10-02T22:23:33-04:00"
+updated: "2026-10-04T17:14:09-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 translation_of: concepts/simulation
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-04T15:54:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -59,6 +63,8 @@ La simulación ocupa el núcleo de las [[pedagogy|pedagogías]] [[experiential-l
 
 - **El control de quien aprende en la simulación se ejerce, no se concede.** Un experimento 2 × 2 en una simulación de bandadas ([[learner-agency-ai-simulation-2026|Su, Nair y Nagashima 2026]]) dio a algunos estudiantes controles deslizantes de parámetros, a otros un agente conversacional opcional y a otros ambos; todas las condiciones mejoraron, pero ninguna de las dos prestaciones produjo una diferencia fiable una vez controlado el conocimiento previo (p = 0,849 y p = 0,108). Lo que predijo las [[learning-gains|ganancias]] fue dónde y durante cuánto tiempo manipulaba el estudiantado los parámetros: el uso sostenido de los controles en la lección conceptualmente más compleja se asoció positivamente con las ganancias, y el mismo comportamiento en la lección más fácil, negativamente. Para quienes construyen simulaciones, la implicación es que ofrecer controles no es la intervención: lo es ayudar a quien aprende a decidir qué cambiar y a registrar qué cambió.
 
+- **Un gemelo digital es una simulación con una factura de hardware, y la factura determina quién puede participar.** Una [[meta-analysis-systematic-review|revisión sistemática]] de 11 estudios de gemelos digitales en [[engineering-education|ingeniería]] y la educación superior STEM encontró que todas las implementaciones entregaban un prototipo funcional con sincronización en tiempo real, pero solo tres informaron [[learning-gains|ganancias de aprendizaje]] estadísticamente significativas. Los equipos físicos limitaron el acceso a 1-3 estudiantes simultáneos en cinco estudios, y la reducción de la interacción social fue el desafío pedagógico más citado, en seis ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al. (2026)]]).
+
 ### Conexiones
 
 La simulación se conecta con el [[active-learning|aprendizaje activo]], el [[adaptive-learning|aprendizaje adaptativo]] y el [[pedagogical-agent|agente pedagógico]]. Es un mecanismo para el aprendizaje experiencial y [[constructivist|constructivista]] y se amplifica por la capacidad de la IA de generar entornos de práctica adaptativos y realistas.
@@ -97,3 +103,4 @@ La simulación se conecta con el [[active-learning|aprendizaje activo]], el [[ad
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[jiang-ai-powered-simulation-nursing-education-2026]] — Simulación impulsada por IA en enfermería: revisión sistemática de métodos mixtos (brecha de autenticidad, continuo escalonado)
 - [[sophie-clinical-communication-ai-assessment-2026]] — Formación escalable en comunicación clínica con IA y evaluación automatizada
+- [[caee-digital-twins-stem-education-systematic-review-2026]] — Gemelos digitales en la educación STEM: todos los prototipos funcionaron, las ganancias de aprendizaje en su mayoría no

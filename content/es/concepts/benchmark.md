@@ -1,7 +1,7 @@
 ---
 title: Punto de referencia
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-02T21:16:54-04:00"
+updated: "2026-10-04T17:09:45-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-04T05:15:29-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -76,6 +80,7 @@ Los puntos de referencia se conectan con la [[ai-ed-evaluation|evaluación de la
 - **La configuración de quien califica es en sí misma una variable.** [[llm-graders-computer-science-exams-2026|Habibullah et al. (2026)]] recorren 171 configuraciones de calificación sobre un examen de 570 estudiantes con doble calificación y encuentran que un breve preámbulo de «calificador estricto» empuja a 14 de 17 modelos de pesos abiertos fuera de la banda de calificación, y luego replican con 162 configuraciones en un examen independiente de 1.038 estudiantes cuyos resultados reproducen la vulnerabilidad pero no su dirección. La mejor configuración (MAE 1,64/35, por debajo del 2,61/35 que los calificadores humanos alcanzan entre sí) no es, por tanto, prueba de que la calificación con LLM funcione, aunque un adaptador LoRA entrenado con las etiquetas humanas agrupadas lleva a cinco modelos pequeños a la paridad humana y casi elimina la sensibilidad a la persona.
 - **Restringir el corpus para hacer atribuible la afirmación de capacidad.** [[li-littlelearner-pedagogically-controlled-knowledge-exposure-2026|Li et al. (2026)]] filtran FineWeb-Edu a 88B tokens de material estadounidense de K–5 y entrenan desde cero un modelo de 5B con él, y después comprueban la costura mediante sondas conductuales y no puntuaciones —retención casi nula en pasajes de Más allá de K–5, colapso en ítems Jeopardy de Más allá de K–5, y menos de la mitad de problemas de MathCAMPS de 8.º grado resueltos incluso con pass@1024. Como la exposición previa es conocida, una capacidad que aparece tras el escalado, el postentrenamiento o los ejemplos en contexto puede atribuirse a la intervención; los autores también informan de que la frontera no tiene forma humana, ya que el modelo a veces supera una habilidad descendente mientras falla su prerrequisito.
 - **La regla de puntuación forma parte del instrumento.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ejecuta cuatro reglas de actualización del seguimiento del conocimiento sobre las mismas secuencias de eventos de ASSISTments 2012–13, que difieren solo en cómo puntúan las filas con ayuda, y preregistra las comparaciones tras una barrera que retiene la mitad confirmatoria del estudiantado hasta que el archivo de registro está presente. Acreditar cualquier finalización apenas supera una constante de dificultad de habilidad (AUC agrupada 0,604 frente a 0,595 en 985.813 eventos puntuados) y declara dominados el 93,9 por ciento de los pares estudiante–habilidad frente al 72,8 por ciento con una regla que lee las filas asistidas como primeros intentos fallidos (0,658) —la lección general es que una etiqueta de dominio la define la regla de evidencia, no el registro.
+- **Informar de la capacidad del modelo como un nivel calibrado, y no solo como exactitud.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] asignan 624 ítems anotados por personas expertas a niveles de competencia con nombre propio usando 2.050 respuestas de estudiantes, y encuentran que los modelos de frontera superan el techo calibrado: un límite que un porcentaje oculta.
 
 ## Conceptos conectados
 
@@ -88,6 +93,7 @@ Los puntos de referencia se conectan con la [[ai-ed-evaluation|evaluación de la
 - [[automated-essay-scoring]]
 
 ## Artículos conectados
+- [[standardized-assessment-llm-english-proficiency-2026]] — Un punto de referencia de competencia en inglés de 624 ítems que informa de la capacidad del modelo como un nivel calibrado (Min et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[assessment-latent-structure-human-llm-2026]] — ¿Miden los instrumentos de evaluación lo mismo para los humanos y para los LLM? (Strugatski et al. 2026)
 - [[cdpk-pedagogy-benchmark-llms]] — El Punto de Referencia Pedagógico: conocimiento pedagógico de los LLM (CDPK + SEND)

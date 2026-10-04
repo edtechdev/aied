@@ -1,7 +1,7 @@
 ---
 title: Evaluación orientada al proceso
 created: "2026-09-28T18:15:49-04:00"
-updated: "2026-10-02T21:20:37-04:00"
+updated: "2026-10-04T17:15:18-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -15,10 +15,10 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-10-04"
     agent: hermes-agent
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-01T10:01:10-04:00"
+source_updated: "2026-10-03T13:05:58-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
 
@@ -62,7 +62,7 @@ La evaluación orientada al proceso se propone normalmente como alternativa a la
 
 Las fuentes son inusualmente francas en que esto es caro. Thapa y Lewis formulan la advertencia de equidad directamente: las tareas reflexivas y dialógicas pueden privilegiar al estudiantado con más confianza en la autoexpresión académica, a menos que se diseñen de forma inclusiva y con [[scaffolding|andamiaje]], y el trabajo relacional e [[feedback|intensivo en retroalimentación]] intensifica el esfuerzo emocional y profesional del [[teacher-role|profesorado]] en contextos grandes o con recursos limitados, una contradicción con las expectativas institucionales de escalabilidad, estandarización y desempeño medible. Sharma añade la versión interpretativa: exigir razonamiento documentado privilegia a [[learners]] con más fluidez en el discurso reflexivo, y el juicio como evidencia «sigue siendo relacional y situado en lugar de verificable mecánicamente».
 
-Los costes operativos se detallan en otros lugares. Boysen enumera tecnología nueva, tareas y programas revisados, enseñar al estudiantado habilidades que no conoce y material adicional que recoger y calificar, advierte de que los créditos de bajo riesgo por el proceso pueden inflar las calificaciones y concede que el modelo se adapta mucho mejor a grandes proyectos de desarrollo de habilidades que al trabajo cotidiano de adquisición de conocimiento; también señala que el seguimiento del proceso es lo que algunos críticos llaman vigilancia con IA. Los participantes de Goldstein, Marae-Haj y Zidan informaron de que establecer la documentación del proceso costaba trabajo real, de que nueve de trece financiaron herramientas avanzadas de su propio bolsillo de un modo que podía profundizar la [[digital-divide|brecha digital]], y de que varios recurrieron a [[summative-assessment|exámenes supervisados]] y anticiparon defensas orales de tesis. La preocupación por la [[equity-in-ai-education|equidad]] tiene un matiz específico de la IA en el hallazgo de Brunnström y Palmqvist de que el uso de la herramienta sin guía exige una habilidad de gestión de la interacción que se distribuye de forma desigual, de modo que la IA «puede beneficiar sobre todo al estudiantado ya aventajado»: el mismo riesgo distributivo que conlleva pedir al estudiantado que gestione un proceso documentado. Lopez-López, Bru-Cordero y Correa-Álvarez (2026) encontraron que el estudiantado que invirtió más tiempo de estudio independiente juzgaba el uso de IA con más severidad, y recomiendan probar si las plantillas de divulgación, las defensas orales y la evaluación basada en el proceso reducen la incertidumbre [[ethics|ética]]: un estudio que el campo todavía necesita.
+Los costes operativos se detallan en otros lugares. Boysen enumera tecnología nueva, tareas y programas revisados, enseñar al estudiantado habilidades que no conoce y material adicional que recoger y calificar, advierte de que los créditos de bajo riesgo por el proceso pueden inflar las calificaciones y concede que el modelo se adapta mucho mejor a grandes proyectos de desarrollo de habilidades que al trabajo cotidiano de adquisición de conocimiento; también señala que el seguimiento del proceso es lo que algunos críticos llaman vigilancia con IA. Los participantes de Goldstein, Marae-Haj y Zidan informaron de que establecer la documentación del proceso costaba trabajo real, de que nueve de trece financiaron herramientas avanzadas de su propio bolsillo de un modo que podía profundizar la [[digital-divide|brecha digital]], y de que varios recurrieron a [[summative-assessment|exámenes supervisados]] y anticiparon defensas orales de tesis. La preocupación por la [[equity-in-ai-education|equidad]] tiene un matiz específico de la IA en el hallazgo de Brunnström y Palmqvist de que el uso de la herramienta sin guía exige una habilidad de gestión de la interacción que se distribuye de forma desigual, de modo que la IA «puede beneficiar sobre todo al estudiantado ya aventajado»: el mismo riesgo distributivo que conlleva pedir al estudiantado que gestione un proceso documentado. Lopez-López, Bru-Cordero y Correa-Álvarez (2026) encontraron que el estudiantado que invirtió más tiempo de estudio independiente juzgaba el uso de IA con más severidad, y recomiendan probar si las plantillas de divulgación, las defensas orales y la evaluación basada en el proceso reducen la incertidumbre [[ethics|ética]]: un estudio que el campo todavía necesita. El riesgo se adhiere al mecanismo que hace funcionar la evidencia de proceso: donde se califican la colaboración, la revisión y la reflexión, el estudiantado tiene razones para producir evidencia que se ajuste a lo que espera que quien califica quiere, de modo que los registros de proceso pueden volverse performativos en lugar de probatorios ([[alam-process-oriented-collaborative-essays-2026|Alam y Jackson, 2026]]).
 
 ## Lo que sigue sin resolverse
 
@@ -86,6 +86,7 @@ El relato de Thapa y Lewis es conceptual: sin participantes, sin recogida de dat
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
 ## Artículos conectados
+- [[alam-process-oriented-collaborative-essays-2026]] — Un ensayo de proceso calificado y escrito de forma colaborativa en un grado de aprendizaje basado en el trabajo: iteración y colaboración en la rúbrica, con la IA generativa permitida dentro de límites declarados (Alam y Jackson 2026)
 - [[genai-performance-vs-learning]] — el desempeño no es el aprendizaje: una agenda de investigación construida sobre medidas de proceso (Yan et al. 2026)
 - [[human-centered-ai-teacher-educators-2026]] — formadores de docentes que piden tareas resistentes a la IA y basadas en el proceso, construidas sobre la justificación y la reflexión (Baran et al. 2026)
 - [[sharma-judgment-visible-genai-assessment-2026]] — rastros de decisión anotados, defensa oral y diferencias entre borradores elegidos por el juicio visible

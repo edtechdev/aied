@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Detección de IA
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-04T17:12:06-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -14,13 +14,13 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-04T02:59:54-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -92,6 +92,7 @@ Dos puntos más agudizan la apuesta práctica. Primero, la señal estadística s
 - **Cinco herramientas, un manuscrito, respuestas incompatibles, y las instituciones que han dejado de usarlas.** [[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]] envió un único manuscrito de autoría humana a cinco detectores comerciales el mismo día y recibió clasificaciones que iban de «0% humano» (Winston AI) a «Human Generated» (la etiqueta categórica de GPTZero, impresa junto a su cifra del 42% de IA), con Copyleaks en 80,4% de IA, Originality.ai en «81% Likely AI» y una quinta herramienta en 34% IA / 66% humano: tres salidas inclinadas hacia la IA y dos hacia lo humano sobre un texto idéntico, sin ninguna base validada para tratar una mayoría de votos entre sistemas propietarios como evidencia de procedencia. El mismo trabajo documenta la retirada institucional: Vanderbilt desactivó el detector de IA de Turnitin en agosto de 2023, haciendo la aritmética de una tasa de falsos positivos del 1% sobre unas 75.000 publicaciones; la Curtin University anunció una desactivación similar en 2025; la University of Waterloo suspendió la función de detección de IA de Turnitin en septiembre de 2025 tras una auditoría interna en la que trabajo escrito por humanos había sido clasificado como 100% generado por IA; la University of Cape Town desactivó la puntuación de IA a partir de octubre de 2025; la University of the Free State hizo lo propio en julio de 2026; la University of the Witwatersrand informó de que nunca había adoptado tales herramientas; y un tribunal de Nueva York anuló una conclusión de mala conducta que se apoyaba en la puntuación de un detector. Dos hallazgos procedimentales completan el caso: una extracción de PDF gravemente dañada aun así devolvió una clasificación a cinco puntos porcentuales del resultado con texto limpio, y una salida de detector archivada establece lo que informó una interfaz pero no puede recrear el estado del modelo propietario que la produjo.
 
 - **La salida del detector es la evidencia más débil del expediente, y la calidad de la evidencia no decide los casos.** Al codificar 1.162 acusaciones de mala conducta por IA generativa, la salida del detector obtuvo las valoraciones probatorias más bajas y cayó al 0,5% de los elementos para 2025. La calidad de la evidencia no mostró relación con los desenlaces porque el proceso no fijó ningún umbral probatorio ([[munoz-misconduct-allegation-evidence-2026|Munoz et al., 2026]]).
+- **El estudiantado cambia su trabajo para sobrevivir a la detección, no solo sus respuestas.** El informe documenta que el estudiantado embota sus propias respuestas para evitar una acusación falsa, y que el profesorado recurre al juicio informal —lo que llama AI-DAR— una vez que los detectores comercializados se revelan poco fiables ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]]).
 
 ## Más allá de la detección: el rediseño de la evaluación
 
@@ -130,6 +131,7 @@ La pregunta constructiva pasa de «¿cómo impedimos que el estudiantado use IA?
 - [[legal-issues-and-risks]]
 
 ## Artículos conectados
+- [[tench-ai-policy-isnt-a-playbook-2026]] — Una encuesta representativa a nivel nacional de docentes y directores estadounidenses sobre la cobertura de políticas de IA, la agencia y cinco jugadas de aula (Tench, Weinstein y James 2026)
 - [[evaluation-age-ai-output-evidence-2026]] — La evaluación en la era de la IA
 - [[best-response-student-ai-dialog-2026]]
 - [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: detector por restauración del prompt latente

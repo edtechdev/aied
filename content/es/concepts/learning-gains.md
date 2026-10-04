@@ -1,7 +1,7 @@
 ---
 title: Mejoras en el aprendizaje
 created: "2026-09-25T04:31:08-04:00"
-updated: "2026-10-03T02:52:14-04:00"
+updated: "2026-10-04T17:13:09-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -11,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-03T12:32:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -66,6 +70,7 @@ A lo largo de los [[rct|ECA]], los [[meta-analysis-systematic-review|metaanális
 - **La IA puede igualar la ayuda humana.** [[chatgpt-hints-human-tutor-learning-gains-2024|La ayuda generada por ChatGPT]] produce mejoras en el aprendizaje equivalentes a las de la ayuda redactada por un tutor humano en habilidades de [[math-education|matemáticas]], evidencia de que la IA generativa puede ser tan eficaz como el [[scaffolding|andamiaje]] humano cuando se usa de forma adecuada.
 - **Las mejoras dependen de quién enseña con ella.** Los tutores con poca experiencia a los que se dio apoyo de IA elevaron las tasas de aprobados del estudiantado en 9 puntos porcentuales, con mejoras menores para los tutores más experimentados: un patrón de aumento que beneficia más a los menos experimentados ([[oecd-digital-education-outlook-2026|OCDE, 2026]]).
 - **La IA sin salvaguardas puede dañar el aprendizaje.** El ECA sobre barreras de seguridad ([[generative-ai-guardrails-harm-learning|PNAS 2025]]) encontró que un tutor al estilo de ChatGPT sin salvaguardas elevó la práctica asistida un +48% pero *redujo* las puntuaciones de los exámenes sin asistencia un −17%, mientras que un tutor con salvaguardas (pista y no respuesta) eliminó el daño. Esta es la demostración más nítida de que **la eficacia del aprendizaje depende del diseño**: la misma clase de herramienta puede ser una mejora fuerte o un daño neto según cómo se configure.
+- **Pero el acceso sin salvaguardas también puede ayudar, de forma duradera.** Un ECA con una cuenta de ChatGPT estándar encontró que las puntuaciones en pruebas sin asistencia eran 0,27 DE más altas mientras el estudiantado tenía acceso, y la mejora se mantuvo una semana después: más del doble de la mediana de 0,10 DE de 747 ECA educativos ([[contractor-learning-impact-generative-ai-2026|Contractor y Reyes, 2026]]).
 - **La eficacia percibida y la eficacia real divergen.** [[ai-literacy-assessment-misalignment|El rendimiento autoinformado se desalinea con el rendimiento medido]], y [[absent-cognitive-baseline-2026|la línea base cognitiva ausente]] muestra que el estudiantado nativo digital sobreestima su aprendizaje, de modo que las afirmaciones de eficacia basadas en el autoinforme no son fiables sin medidas objetivas de resultado. [[self-report-measures|Las medidas de autoinforme]] recogen los casos en que los resultados informados y los medidos se separan.
 
 - **Las mejoras pueden venir de reasignar el tiempo del profesorado, no de la calificación con IA.** En un experimento aleatorizado en 178 escuelas brasileñas (~19.000 estudiantes de último curso), la calificación de ensayos con IA y con personas produjo mejoras idénticas en los exámenes, pero las aulas con IA registraron ~35% más de conversaciones individuales entre docente y estudiante sobre escritura, y el cuartil inferior no mejoró en ninguna de las dos condiciones ([[ai-changing-teaching-workflows|Ler, 2026]]).
@@ -139,6 +144,7 @@ Las mejoras en el aprendizaje conectan con la [[assessment-validity|validez de l
 - [[social-emotional-learning]] — El aprendizaje socioemocional
 - [[student-support-and-success]] — resultados administrativos (finalización de tareas, créditos, persistencia, graduación) como algo distinto de las mejoras en el aprendizaje
 ## Artículos conectados
+- [[contractor-learning-impact-generative-ai-2026]] — El acceso a un chatbot estándar elevó las puntuaciones en pruebas sin asistencia, que persistieron una semana (Contractor y Reyes, 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — La tutoría con IA supera el aprendizaje activo en clase: un ECA que introduce un diseño novedoso basado en la investigación en un entorno educativo auténtico (Kestin et al. 2025)
 - [[genai-performance-vs-learning]] — por qué el rendimiento asistido no es un resultado de aprendizaje (Yan et al. 2025)
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — La tutoría virtual con CAL: un experimento sobre la adopción y el aprendizaje

@@ -1,7 +1,7 @@
 ---
 title: Agencia de quien aprende
 created: "2026-09-25T03:54:08-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-04T17:09:45-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-04T02:59:54-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -73,6 +77,7 @@ La agencia se conecta con [[self-regulated-learning]], [[motivation]], [[self-ef
 
 Lo que separa la agencia de la delegación es el trabajo sostenido de delimitación, no la destreza con la herramienta: el estudiantado que usaba la misma herramienta anclada en la recuperación produjo artefactos igualmente pulidos tanto si acotaba y reescribía su salida como si cedía la interpretación de entrada, de modo que la diferencia apareció solo en los prompts, la latencia, las correcciones y los rechazos ([[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne, 2026]]).
 - **Actuar, saber y responder no son lo mismo.** Un análisis del discurso asistido por corpus de 366 resúmenes de [[generative-ai|IA generativa]] en la educación superior nombra a la IA como actor 2.050 veces sin hacerla nunca responsable de responder, mientras que la responsabilidad de juzgar las salidas y verificar las afirmaciones recae en el estudiantado: la activación gramatical, la agencia funcional, la autoridad epistémica y la rendición de cuentas normativa se separan ([[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal, 2026]]).
+- **La agencia tiene tres modos, y el tercero lo aporta la política.** Con solo un 18% del profesorado y un 24% de los directores que declaran contar con una política escolar sobre IA, la mayoría de quienes educan ejercen una agencia individual sin ninguna agencia delegada que actúe por ellos —el tercer modo de Bandura, aportado por las reglas institucionales— ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein y James, 2026]]).
 
 ## La agencia como fenómeno emergente e interaccional
 
@@ -140,6 +145,7 @@ Un encuadre estrechamente relacionado es el de la **agencia epistémica relacion
 - [[cognitive-surrender]]
 
 ## Artículos conectados
+- [[tench-ai-policy-isnt-a-playbook-2026]] — Una encuesta representativa a nivel nacional de docentes y directores estadounidenses sobre la cobertura de políticas de IA, la agencia y cinco jugadas de aula (Tench, Weinstein y James 2026)
 - [[genai-reliance-human-agency-collaborative-learning-2026]] — ¿Una mano que ayuda o una pareja dominante? Las percepciones individuales de la dependencia de la IA generativa y la agencia humana en el aprendizaje colaborativo
 - [[yan-agentivism-learning-theory-ai-2026]] — Una teoría del aprendizaje de rango medio para la interacción entre personas y IA, con cuatro mecanismos y seis proposiciones comprobables (Yan y Gašević 2026)
 - [[dang-human-ai-collaboration-competency-2026]] — La agencia de quien aprende como cualidad emergente de coordinar las competencias de dominio, de IA y metacognitiva, y no como un nodo independiente (Dang et al. 2026)
