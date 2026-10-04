@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-04T09:35:00-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -52,6 +52,7 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 ## Implications for language instructors
 
 - **Emerging [[ai-technologies|technologies]] yield small-to-moderate, level-dependent gains.** A [[liu-emerging-tech-tefl-review-2026|meta-analysis of 33 TEFL studies]] (N = 3,181) finds an overall effect of Hedges' g = 0.38 that rises with educational level (primary 0.29, secondary 0.35, tertiary 0.44), with VR/AR yielding the largest effects and productive skills (speaking, writing) gaining more than receptive skills — supporting the use of emerging tech, especially at tertiary level, while keeping expectations realistic.
+- **A systematic review maps where elementary AI language education is thin.** Across 31 studies (2013-2025), work in elementary language classrooms clustered on speaking, literacy and vocabulary while grammar, listening comprehension and sign language were barely studied, and most designs lacked grade-level specificity ([[ai-elementary-language-education-review-2026|Hamasha et al., 2026]]).
 - **Use AI to extend communicative practice, not replace it.** [[ai-interlocutor-l2-spoken-dialogue|AI interlocutors]] and [[tact-pedagogically-adaptive-esl-tutoring|adaptive ESL tutors]] expand interactional practice at scale — pair them with human interaction so fluency and uptake transfer to real conversation.
 
 
