@@ -19,6 +19,12 @@ the enforcement point rather than a projection:
      `research_method` or `page_kind` has no typed metadata at all, which is
      reported as a warning (some pages genuinely are cross-cutting).
 
+Those five fields are also enumerated, in `src/content.config.ts` rather than in
+the concept registry, and until 2026-10-04 this script only counted them. A page
+carrying `audience: [teacher educators]` therefore passed here and failed the
+build's own schema check instead. They are now validated against the `enumList`
+in content.config.ts, so the enum lives in one place and both consumers agree.
+
 The vocabularies come from src/data/facetVocab.ts, which is generated from
 concepts.registry.yaml, so adding a concept to a section makes it legal here with
 no second list to maintain.
@@ -37,6 +43,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 import content_paths
 
 FACET_VOCAB_TS = os.path.join(ROOT, 'src', 'data', 'facetVocab.ts')
+CONTENT_CONFIG_TS = os.path.join(ROOT, 'src', 'content.config.ts')
 COLLECTIONS = ('articles', 'concepts', 'faqs', 'resources')
 # Translated content lives in locale folders mirroring the content root
 # layout). Its facet values are copied from the English page and
@@ -56,6 +63,25 @@ def load_facet_vocab():
     if not vocab:
         sys.exit(f'could not read any facet vocabulary from {FACET_VOCAB_TS}')
     return vocab
+
+
+def load_enum_fields():
+    """The five hand-curated fields, read from their enumList in content.config.ts.
+
+    They are enumerated there rather than in the concept registry, so the build
+    already rejects a bad value; this keeps the gate from passing a page the
+    build will refuse.
+    """
+    src = open(CONTENT_CONFIG_TS, encoding='utf-8').read()
+    enums = {}
+    for field in OTHER_FIELDS:
+        m = re.search(rf'^\s*{field}: enumList\((.*?)\),\s*$', src, re.S | re.M)
+        if m:
+            enums[field] = set(re.findall(r"'([^']+)'", m.group(1)))
+    missing = [f for f in OTHER_FIELDS if f not in enums]
+    if missing:
+        sys.exit(f'could not read enumList for {missing} from {CONTENT_CONFIG_TS}')
+    return enums
 
 
 def frontmatter(path):
@@ -78,6 +104,7 @@ def inline_list(fm, field):
 def main():
     quiet = '--quiet' in sys.argv
     vocab = load_facet_vocab()
+    enums = load_enum_fields()
     errors = []
     warnings = []
     checked = 0
@@ -104,8 +131,14 @@ def main():
                     else:
                         seen[value] = field
             for field in OTHER_FIELDS:
-                if inline_list(fm, field):
-                    typed += 1
+                values = inline_list(fm, field)
+                if not values:
+                    continue
+                typed += 1
+                for value in values:
+                    if value not in enums[field]:
+                        errors.append(f'{rel}: {field} value {value!r} is not in the '
+                                      f'{field} enum in src/content.config.ts')
             if typed == 0:
                 warnings.append(f'{rel}: no typed metadata at all')
 

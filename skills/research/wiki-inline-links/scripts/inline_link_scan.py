@@ -445,6 +445,8 @@ REJECT_PAIRS = {
     ('measurement model', 'educational-measurement'),  # the PLS-SEM model, not measurement theory
     ('curriculum designers', 'curriculum-design'),      # an audience label in the practice section
     ('prompting the student', 'prompt-engineering'),    # an agent nudging a learner, not prompt design
+    ('teacher-and-student', 'teacher-role'),           # a stakeholder pairing count, not a role claim
+    ('curriculum developer', 'curriculum-design'),      # a stakeholder role in a list, not the design process
     ('self-regulation', 'regulation'),                   # learner SRL, not AI regulation
     ('self-regulatory', 'regulation'),                   # "self-regulatory function"
     ('social regulation', 'regulation'),                 # co-regulation
