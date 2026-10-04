@@ -43,7 +43,7 @@ The setting is APLUS (Artificial Peer Learning Using SimStudent), a learning-by-
 
 ## The study
 
-Twenty-three middle-school students (grades 6 to 8) from across the United States took part voluntarily, with parental consent and compensation at $15 an hour, in a pretest–intervention–posttest design run in person or over Zoom for one hour a day across up to five days. The final day ended with a 30-minute isomorphic post-test. Outcomes came from an equation-solving instrument adapted from earlier work, split into a Procedural Skill Test and a Conceptual Knowledge Test; a procedural-flexibility module had too few items to analyze on its own and was folded into the procedural measure. Knowledge-building was operationalized as %KBR: the proportion of a tutor's responses to the agent's follow-up questions that were classified as knowledge-building.
+Twenty-three middle-school students (grades 6 to 8) from across the United States took part voluntarily, with parental consent and compensation at \$15 an hour, in a pretest–intervention–posttest design run in person or over Zoom for one hour a day across up to five days. The final day ended with a 30-minute isomorphic post-test. Outcomes came from an equation-solving instrument adapted from earlier work, split into a Procedural Skill Test and a Conceptual Knowledge Test; a procedural-flexibility module had too few items to analyze on its own and was folded into the procedural measure. Knowledge-building was operationalized as %KBR: the proportion of a tutor's responses to the agent's follow-up questions that were classified as knowledge-building.
 
 ## What the results mean for who benefits
 

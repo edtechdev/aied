@@ -35,7 +35,7 @@ source_depth: full text
 2. **Gains over no tutoring.** AI tutoring exceeded the control by 6.86 percentage points in Quantitative (95% CI [4.02, 9.69]) and 5.47 in Verbal ([2.46, 8.47]), about 1.5–2 extra correct answers out of 27.
 3. **Scale.** Analysis covers 2,469 sessions from 2,383 adults aged 18–67 (median 21): 13 AI tutors built on 12 models per GRE section, live human tutors, and a video control.
 4. **Domain roots.** In five of the seven GRE domains the best AI tutor surpassed the human tutor on average; pooled equivalence held for Quantitative but not Verbal, where human tutors stayed ahead.
-5. **Cost of an equivalent gain.** Gemma 4 31B matched expert human tutoring (p=.044) at 918× lower cost per percentage point ($0.0052 versus $4.81), with mean inference cost of $0.067 per session.
+5. **Cost of an equivalent gain.** Gemma 4 31B matched expert human tutoring (p=.044) at 918× lower cost per percentage point (\$0.0052 versus \$4.81), with mean inference cost of \$0.067 per session.
 6. **Teaching quality.** Fifty-one expert tutors made 2,028 pairwise rubric comparisons of AI lesson plans and practice problems; Anthropic's Opus models were preferred, and conversational behaviors clustered by family.
 7. **Latency chain.** In 1,137 Quantitative AI sessions, faster replies tracked with more student messages, more messages with more correct practice, and correct practice with larger gains (all p<.002); no such pattern in Verbal.
 
@@ -53,14 +53,14 @@ Conversational pedagogy was scored separately with six fixed transcript rules dr
 
 ## Cost, latency, and the path from replies to learning
 
-Cost and latency are first-class outcomes here. Mean inference cost per session — lesson planning, tutoring, and problem generation — ranged from $0.067 for Gemma 4 31B to $21.24 for GPT-5.5 Pro, against a $75-per-hour human reference. Six of the twelve AI tutors passed individual equivalence tests, and Gemma 4 31B matched human gains (p=.044) at 918× lower cost per percentage point.
+Cost and latency are first-class outcomes here. Mean inference cost per session — lesson planning, tutoring, and problem generation — ranged from \$0.067 for Gemma 4 31B to \$21.24 for GPT-5.5 Pro, against a \$75-per-hour human reference. Six of the twelve AI tutors passed individual equivalence tests, and Gemma 4 31B matched human gains (p=.044) at 918× lower cost per percentage point.
 
 Median reply time spanned 1.9 seconds (GPT-5.4 mini) to 31.0 seconds (GPT-5.5 Pro), and lower latency was strongly associated with higher [[student-engagement]] (Spearman ρ=−0.81, p=.0056). That supplied the missing link in an exploratory chain traced through 1,137 Quantitative sessions: faster replies, more student messages, more correct practice, larger learning gains. The authors suggest this helps explain why models that score unremarkably on the teaching-quality leaderboards still reach human-level GRE gains.
 
 ## What this means for practice
 
 - **Instructors.** Treat one hour of AI tutoring as a credible substitute for expert human tutoring on test-prep material, but only for the immediate gain that was measured.
-- **Administrators.** Compare options in cost per percentage point of learning gain, not cost per hour; the spread across AI tutors was two orders of magnitude ($0.005 to $1.40 per point).
+- **Administrators.** Compare options in cost per percentage point of learning gain, not cost per hour; the spread across AI tutors was two orders of magnitude (\$0.005 to \$1.40 per point).
 - **Researchers.** Instrument latency and engagement alongside achievement when evaluating [[ai-ed-evaluation|AI tutors]], since latency influenced the primary outcome indirectly.
 
 ## Limitations

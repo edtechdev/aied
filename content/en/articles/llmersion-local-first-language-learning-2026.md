@@ -23,7 +23,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** LLMersion is a position paper, not a study. Its claim is that the binding constraint on [[equity-in-ai-education|equitable]] [[language-learning]] is no longer hardware but software, and proposes a scheme for running the complete four-skill loop locally, at the cost of electricity. The authors assemble evidence of scarcity — 44 million additional teachers by 2030, 2.6 billion people offline, and a randomized evaluation of One Laptop per Child across 318 Peruvian schools that moved no mathematics or language score — then distill it into eight difficulties and four constraints. They argue the fourth, that capable software has never run on cheap hardware, has dissolved: the complete synthesis–recognition–translation stack fits under 4 GB and community measurements put a 3B model at 4–9 tokens per second on an $80 single-board computer. LLMersion-1, a released [[open-source]] prototype, implements four principles. No learning outcome is claimed; a 20-item [[self-report-measures|self-report]] instrument is designed but not administered.
+> **Synthesis:** LLMersion is a position paper, not a study. Its claim is that the binding constraint on [[equity-in-ai-education|equitable]] [[language-learning]] is no longer hardware but software, and proposes a scheme for running the complete four-skill loop locally, at the cost of electricity. The authors assemble evidence of scarcity — 44 million additional teachers by 2030, 2.6 billion people offline, and a randomized evaluation of One Laptop per Child across 318 Peruvian schools that moved no mathematics or language score — then distill it into eight difficulties and four constraints. They argue the fourth, that capable software has never run on cheap hardware, has dissolved: the complete synthesis–recognition–translation stack fits under 4 GB and community measurements put a 3B model at 4–9 tokens per second on an \$80 single-board computer. LLMersion-1, a released [[open-source]] prototype, implements four principles. No learning outcome is claimed; a 20-item [[self-report-measures|self-report]] instrument is designed but not administered.
 
 ## Key Findings
 
@@ -31,8 +31,8 @@ source_depth: full text
 2. The documented need includes 44 million additional teachers by 2030, 2.6 billion people offline, and a randomized One Laptop per Child trial across 318 Peruvian schools that raised computers per student tenfold without moving mathematics or language test scores.
 3. Four constraints: the oral provision is expensive, substitutes presuppose connectivity and recurring payment, content is fixed, and capable software has never run on cheap hardware.
 4. The last constraint, they argue, has dissolved: a 1B tutor quantizes to 808 MB, a 3B tutor to 2.02 GB, and the stack totals under 4 GB.
-5. Throughput rests on attributed community measurement, not peer review: 4–9 tokens per second on an $80 single-board computer, against silent reading at 238 words per minute.
-6. Marginal cost is electricity: 1,825 hours at 60 W and 16.5 cents per kWh is about $18, or roughly $245 with a dated $227 device snapshot.
+5. Throughput rests on attributed community measurement, not peer review: 4–9 tokens per second on an \$80 single-board computer, against silent reading at 238 words per minute.
+6. Marginal cost is electricity: 1,825 hours at 60 W and 16.5 cents per kWh is about \$18, or roughly \$245 with a dated \$227 device snapshot.
 
 ## The case the paper builds
 
@@ -50,14 +50,14 @@ LLMersion-1 is a released reference implementation. A loader registry repairs do
 
 - **Instructors.** Assign the learner's own documents and run the teacher's order — read aloud, discuss, listen to the learner speak, correct the writing — rather than a fixed [[curriculum-design|curriculum]].
 - **Developers.** Choose models for minimum hardware demand rather than [[benchmark]] scores, and put [[pedagogy|pedagogical]] behavior in editable prompt files so users reshape the system without professional engineering.
-- **Families.** Weigh one-time hardware against recurring fees: five years of daily practice costs about $18 of electricity, against $1,200 for a cloud subscription and $2,600 for weekly tutoring.
+- **Families.** Weigh one-time hardware against recurring fees: five years of daily practice costs about \$18 of electricity, against \$1,200 for a cloud subscription and \$2,600 for weekly tutoring.
 - **Researchers.** Administer the released 20-item instrument with its pre-stated hypotheses and logged traces, because fitting the machines establishes feasibility, not efficacy.
 
 ## Limitations
 
 - This is a design proposal, not an evaluation: the authors claim no learning outcomes, and the instrument is designed but not yet administered.
 - Throughput is attributed community measurement, not peer review, and end-to-end conversational latency, power draw, and thermal behavior on floor hardware are unmeasured.
-- The cost assumptions are narrow: $18 of electricity assumes 1,825 hours at 60 W and 16.5 cents per kWh, and the $227 device price is a dated retail snapshot.
+- The cost assumptions are narrow: \$18 of electricity assumes 1,825 hours at 60 W and 16.5 cents per kWh, and the \$227 device price is a dated retail snapshot.
 - The instance's stated edges are real: pronunciation feedback is segmental only and, in free conversation, references the recognizer's transcript of the learner's own speech, so a wholly misrecognized word escapes scoring; grammar correction works on transcripts rather than audio.
 
 ## Citation
