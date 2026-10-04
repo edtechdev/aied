@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-04T02:59:54-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -82,6 +82,8 @@ Two further points sharpen the practical stakes. First, the underlying statistic
 - **Five tools, one manuscript, incompatible answers — and the institutions that have stopped using them.** [[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]] submitted a single human-authored manuscript to five commercial detectors on the same day and received classifications spanning "0% human" (Winston AI) to "Human Generated" (GPTZero's categorical label, printed beside its 42% AI figure), with Copyleaks at 80.4% AI, Originality.ai at "81% Likely AI" and a fifth tool at 34% AI / 66% human — three outputs leaning AI and two leaning human on identical text, with no validated basis for treating a majority vote across proprietary systems as evidence of provenance. The same paper documents the institutional retreat: Vanderbilt disabled Turnitin's AI detector in August 2023, working the arithmetic of a 1% false-positive rate across roughly 75,000 papers; Curtin University announced a similar disabling in 2025; the University of Waterloo discontinued Turnitin's AI-detection function in September 2025 after an internal audit in which human-written work had been classified as 100% AI-generated; the University of Cape Town disabled the AI score from October 2025; the University of the Free State followed in July 2026; the University of the Witwatersrand reported never having adopted such tools; and a New York court annulled a misconduct finding that rested on a detector score. Two procedural findings complete the case: a severely corrupted PDF extraction still returned a classification five percentage points from the clean-text result, and an archived detector output establishes what an interface reported but cannot recreate the proprietary model state that produced it.
 
 - **Detector output is the weakest evidence in the file, and evidence quality does not decide cases.** Coding 1,162 generative-AI misconduct allegations, detector output drew the lowest probative ratings and fell to 0.5% of items by 2025. Evidence quality showed no relationship to outcomes because the pipeline set no evidentiary threshold ([[munoz-misconduct-allegation-evidence-2026|Munoz et al., 2026]]).
+- **Students change their work to survive detection, not just their answers.** The report documents students dulling their own answers to avoid a false accusation, and teachers falling back on informal judgment — what it calls AI-DAR — once marketed detectors prove unreliable ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]]).
+
 
 ## Beyond detection: assessment redesign
 
@@ -119,6 +121,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[legal-issues-and-risks]]
 
 ## Connected Articles
+[[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[best-response-student-ai-dialog-2026]]
 - [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Latent Prompt Restoration Detector

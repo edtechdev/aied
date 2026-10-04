@@ -7,7 +7,7 @@ Deterministic, no model calls. Checks, for every selected page:
     - `## What this means for practice` missing, or present more than once
     - `## Limitations` missing, or present more than once
     - practice not immediately before limitations, or Citation not last
-    - practice outside 3-5 bullets, limitations outside 2-4 bullets
+    - practice outside 3-5 bullets, limitations outside the configured range (2-6)
     - a figure in those sections that does not appear in the page's own full text
     - a [[wikilink]] whose target slug does not exist
 
@@ -56,7 +56,16 @@ import wiki_config
 # the number, change it in the config, not here.
 _wiki_cfg = wiki_config.load_config()
 WORD_BUDGET_MIN = int(wiki_config.get(_wiki_cfg, 'article.min_words', 750) or 750)
-WORD_BUDGET_MAX = int(wiki_config.get(_wiki_cfg, 'article.max_words', 1500) or 1500)
+WORD_BUDGET_MAX = int(wiki_config.get(_wiki_cfg, 'article.max_words', 1750) or 1750)
+
+# Bullet-count range for `## Limitations`, read from the same config block so the
+# auditor, the briefs and the scan prompts stay in step. The ceiling was raised
+# 4 -> 6 on 2026-10-04: a source with several distinct, evidence-bound caveats
+# (a funder-supported report with its own survey, say) was being forced to fold
+# real limitations together purely to fit the count, which costs evidence rather
+# than words.
+LIMITS_BUDGET_MIN = int(wiki_config.get(_wiki_cfg, 'article.limitations_min', 2) or 2)
+LIMITS_BUDGET_MAX = int(wiki_config.get(_wiki_cfg, 'article.limitations_max', 6) or 6)
 
 ARTICLES = content_paths.collection("articles")
 RAW = ROOT / "raw" / "papers"
@@ -286,8 +295,8 @@ def audit(slug: str, known: set[str]) -> dict:
     # a section with too many bullets is a real range violation.
     if p_count > 5 or 0 < p_count < 3:
         result["hard"].append(f"practice has {p_count} bullets (want 3-5)")
-    if l_count > 4 or 0 < l_count < 2:
-        result["hard"].append(f"limitations has {l_count} bullets (want 2-4)")
+    if l_count > LIMITS_BUDGET_MAX or 0 < l_count < LIMITS_BUDGET_MIN:
+        result["hard"].append(f"limitations has {l_count} bullets (want {LIMITS_BUDGET_MIN}-{LIMITS_BUDGET_MAX})")
     if p_count == 0:
         result["report"].append("practice section is prose, not bullets")
     if l_count == 0:

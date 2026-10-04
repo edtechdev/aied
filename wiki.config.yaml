@@ -66,7 +66,12 @@ paths:
 # ---------------------------------------------------------------------------
 article:
   min_words: 750          # below this the page usually lacks a section, not detail
-  max_words: 1500         # raised 1000 -> 1100 (2026-09-27) -> 1500 (2026-09-30)
+  max_words: 1750         # raised 1000 -> 1100 (2026-09-27) -> 1500 (2026-09-30) -> 1750 (2026-10-04)
+  # Bullet-count range for `## Limitations`. Raised 4 -> 6 on 2026-10-04: a source
+  # with several distinct, evidence-bound caveats was being forced to fold real
+  # limitations together to fit the count, which costs evidence rather than words.
+  limitations_min: 2
+  limitations_max: 6
 
 build:
   # HARD GATES - run in this order before every build/commit. A green build is

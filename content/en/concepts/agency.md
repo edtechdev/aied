@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-04T02:59:54-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -59,6 +59,8 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 
 Sustained boundary work, not tool skill, is what separates agency from delegation: students using the same retrieval-grounded tool produced comparably polished artifacts whether they constrained and re-authored its output or ceded interpretation early, so the difference appeared only in prompts, latency, corrections and refusals ([[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne, 2026]]).
 - **Acting, knowing, and answering are not the same thing.** A corpus-assisted discourse analysis of 366 [[generative-ai|GenAI]] higher-education abstracts names AI as an actor 2,050 times without ever making it answerable, while responsibility for judging outputs and verifying claims is placed on students: grammatical activation, functional agency, epistemic authority and normative accountability come apart ([[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal, 2026]]).
+- **Agency has three modes, and the third is what policy supplies.** With only 18% of teachers and 24% of principals reporting a school AI policy, most educators exercise individual agency with no proxy agency acting for them — Bandura's third mode, supplied by institutional rules ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]]).
+
 
 ## Agency as an emergent, interactional phenomenon
 
@@ -126,6 +128,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[cognitive-surrender]]
 
 ## Connected Articles
+[[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
 - [[genai-reliance-human-agency-collaborative-learning-2026]] — A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning
 - [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
 - [[dang-human-ai-collaboration-competency-2026]] — Learner agency as the emergent quality of coordinating domain, AI and metacognitive competencies, not a standalone node (Dang et al. 2026)
