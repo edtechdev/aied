@@ -2887,3 +2887,136 @@
   - generative-ai
   - higher-ed
   reason: "No distinguishing claim. The detection-versus-validity argument is the class assessment-validity already carries (grep 'validity' -> 76 across 5,456 words), and authentic-assessment and assessment already carry authentic and evidence-centered redesign; the paper is conceptual with no empirical result, so it restates those positions rather than adding a measured claim. DISMISSALS: ai-detection carries the detection practice the paper argues against; academic-integrity, curriculum-design, educational-development, educational-measurement, ethics, generative-ai and higher-ed carry their classes. Confidence medium: a conference-proceedings position paper with no evaluation of the framework."
+- article: caeai-response-length-ai-ethics-education-2026
+  date: 2026-10-04
+  integrated:
+  - network-analysis
+  no_change:
+  - assessment-validity
+  - ethics
+  - higher-ed
+  - learning-analytics
+  - simulation
+  - ai-ed-evaluation
+  - ai-literacy
+  - collaborative-learning
+  - educational-nlp
+  - limitations-in-aied-research
+  - quantitative-research
+  reason: "The length-control finding is a method claim, which network-analysis now carries. learning-analytics carries the analytics class and assessment-validity the measurement-quality class (grep 'validity' -> 40+ hits across the page), so neither gains a distinguishing claim from a single-group proof of concept with twenty participants; ethics, higher-ed and simulation carry their classes. Confidence medium: one facilitated case discussion, and the authors' own calibration puts the corrected test's false-positive rate at .044-.062, so calibration at .05 is not demonstrated."
+
+- article: caeai-digital-literacy-frameworks-review-2026
+  date: 2026-10-04
+  integrated:
+  - ai-literacy
+  no_change:
+  - assessment
+  - benchmark
+  - creativity
+  - critical-thinking
+  - curriculum-design
+  - digital-divide
+  - educational-development
+  - ethics
+  - generative-ai
+  - human-ai-collaboration
+  - machine-learning
+  - meta-analysis-systematic-review
+  - metacognition
+  - pedagogy
+  - problem-solving
+  - prompt-engineering
+  - qualitative-research
+  - sociocultural-learning
+  - student-ai-interaction
+  - tpack
+  - ai-technologies
+  - assessment-validity
+  - culturally-relevant-pedagogy
+  - educational-measurement
+  - equity-in-ai-education
+  - theories-and-frameworks
+  reason: "The 80-framework count and the under-specified-area finding are AI-literacy claims, which now carry them. The remaining concepts carry their classes: digital-divide the access and competence-emphasis split, tpack the integrative-knowledge model the review cites rather than tests, metacognition and critical-thinking the higher-order-thinking class. A systematic review adds no measured claim to those pages. Confidence high: PRISMA-screened 35,036 without-AI and 441 with-AI records yielding 80 validated frameworks, with the 2014-2025 window stated in both the page and its limitations."
+
+- article: caeai-ai-scaffolding-inquiry-profiles-middle-school-2026
+  date: 2026-10-04
+  integrated:
+  - cognitive-offloading
+  no_change:
+  - conversational-ai
+  - curriculum-design
+  - group-work
+  - hallucination-risk
+  - k-12
+  - learning-analytics
+  - metacognition
+  - network-analysis
+  - pedagogical-agent
+  - pedagogy
+  - personalized-learning
+  - qualitative-research
+  - scaffolding
+  - sociocultural-learning
+  - socratic-method
+  - student-ai-interaction
+  - teacher-role
+  - collaborative-learning
+  - generative-ai
+  - human-ai-collaboration
+  - inquiry-based-learning
+  - mixed-methods-research
+  reason: "The engagement split (74.1% model uptake in one profile against 80.8% offloading and impasse in another) answers the question cognitive-offloading already poses about telling scaffolding from replacement, so it carries the claim. scaffolding carries the support-design class and network-analysis the ENA method, but the study is one classroom of 12 groups, so neither gains a class-level claim; conversational-ai, pedagogical-agent, group-work, k-12 and teacher-role carry their classes. Confidence medium: 42 eighth graders in a single rural agriculture-STEM unit."
+
+- article: bjet-many-hands-make-light-work-2026
+  date: 2026-10-04
+  integrated:
+  - human-ai-collaboration
+  no_change:
+  - agentic-ai
+  - critical-thinking
+  - generative-ai
+  - learning-design
+  - llm
+  - metacognition
+  - network-analysis
+  - scaffolding
+  - self-regulated-learning
+  - self-report-measures
+  - speech-and-voice-technologies
+  - collaborative-learning
+  - pedagogical-agent
+  - quantitative-research
+  - student-ai-interaction
+  reason: "The configuration finding - pairs winning the complex design project while critical-thinking awareness rose only for individuals - is a human-AI collaboration claim, which now carries it. critical-thinking carries the skill class and self-regulated-learning the regulation class, but the reversal is about the arrangement rather than either construct's definition; agentic-ai, llm, learning-design and scaffolding carry their classes. Confidence medium: 87 undergraduates in one micro-course over eight weeks, and the paper reports no calendar data-collection window."
+
+- article: caeo-navigating-ai-educational-future-scenarios-2026
+  date: 2026-10-04
+  integrated:
+  - teacher-role
+  no_change:
+  - agency
+  - agentic-ai
+  - ai-ed-evaluation
+  - ai-literacy
+  - curriculum-design
+  - equity-in-ai-education
+  - generative-ai
+  - group-work
+  - hallucination-risk
+  - higher-ed
+  - human-ai-collaboration
+  - learning-analytics
+  - llm
+  - pedagogy
+  - scaffolding
+  - self-regulated-learning
+  - teacher-education
+  - well-being
+  - bias-mitigation
+  - collaborative-learning
+  - governance
+  - human-in-the-loop-ai
+  - metacognition
+  - qualitative-research
+  - teacher-ai-competency
+  reason: "The more-human paradox is a teacher-role claim, which now carries it. teacher-education carries the pre-service preparation class and the paper's three priority areas restate what that page already holds (grep 'pre-service' -> 24 hits); agency, well-being, equity-in-ai-education, curriculum-design and human-ai-collaboration carry their classes, and an expert visioning activity contributes no measured claim to them. Confidence medium: scenario co-construction by 20 researchers, not observed practice."

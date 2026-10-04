@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T12:32:09-04:00"
+updated: "2026-10-04T10:52:15-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -42,7 +42,7 @@ The knowledge base's articles document cognitive offloading across multiple dime
 - **Learning losses from unguided AI:** [[generative-ai-guardrails-harm-learning|High school math RCTs]] show that GenAI without [[guardrails]] produces worse learning outcomes than traditional instruction. [[generative-ai-reduced-study-time-math|Reduced study time]] correlates with reduced learning — students complete tasks faster but retain less.
 - **A randomized test of the offloading prediction at a 45-day delay — and the deficit is not just saved time:** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] randomized 120 undergraduates to study AI/ML topics either with unrestricted ChatGPT (GPT-4 web interface, no prompt guidance) or with traditional non-AI methods, then gave a surprise 20-question conceptual test 45 days later. The AI-assisted group scored 57.5% against 68.5% (t(83) = −3.19, p = .002, Cohen's d = 0.68), and the disadvantage survived an ANCOVA holding self-reported study time constant (F(1, 82) = 7.89, p = .006; adjusted means 6.50 vs. 5.85), so it was not merely a quantity-of-time artifact. The paper's offloading argument is that ChatGPT supplies synthesis and explanation outright, making it a qualitatively different form of delegation than a calculator — one that can absorb comprehension, not just retrieval.
 
-- **Offloading is not always harmful — the "coach" boundary condition:** [[coach-not-crutch-ai-writing|Lira et al. (2025)]] show that AI can reduce practice effort *and* improve the learning environment, yielding "work less, learn more." Adults who practiced writing with an AI tool wrote better no-AI letters than those who practiced alone — even beating personalized feedback from human editors — with no illusion-of-mastery inflation. The reconciliation with the harms above is the **form of offloading**: Lira et al.'s AI *scaffolded* (surfacing examples and feedback while keeping the learner in the loop) rather than *replacing* the cognitive act. [[ai-making-us-stupid|The skills-vs-basic-abilities perspective]] converges on the same boundary: **AI that coaches preserves or boosts skill; AI that substitutes risks decay.** So offloading's effect on learning is conditional, not intrinsic.
+- **Offloading is not always harmful — the "coach" boundary condition:** [[coach-not-crutch-ai-writing|Lira et al. (2025)]] show that AI can reduce practice effort *and* improve the learning environment, yielding "work less, learn more." Adults who practiced writing with an AI tool wrote better no-AI letters than those who practiced alone — even beating personalized feedback from human editors — with no illusion-of-mastery inflation. The reconciliation with the harms above is the **form of offloading**: Lira et al.'s AI *scaffolded* (surfacing examples and feedback while keeping the learner in the loop) rather than *replacing* the cognitive act. [[ai-making-us-stupid|The skills-vs-basic-abilities perspective]] converges on the same boundary: **AI that coaches preserves or boosts skill; AI that substitutes risks decay.** [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026|Kilinc et al. (2026)]] put numbers on that boundary in a middle-school agriculture-STEM classroom. Across 42 eighth graders in 12 groups, model uptake accounted for 74.1% of coded collaborative engagement turns in the Most Improved profile, while cognitive offloading and collaborative impasse together reached 80.8% in the Struggling profile. So offloading's effect on learning is conditional, not intrinsic.
 
 - **Critical [[student-engagement|engagement]] vs. offloading:** [[favero-critical-ai-tutors-empower-enslave-2025|Favero et al.]] frame [[intelligent-tutoring|AI tutors]] as either empowering (supporting active cognition) or enslaving (enabling passive offloading), connecting to [[critical-thinking]] [[research-methods-aied|research]].
 
@@ -158,7 +158,8 @@ Two controlled studies in the recent batch pin down the two halves of this claim
 - [[cognitive-surrender]]
 
 ## Connected Articles
-[[liu-ai-assistance-reduces-persistence-2026]] — AI assistance reduced persistence and unassisted performance across three RCTs (Liu et al. 2026)
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Groups starting alike diverged: 74.1% model uptake in one profile against 80.8% offloading and impasse in another (Kilinc et al. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — AI assistance reduced persistence and unassisted performance across three RCTs (Liu et al. 2026)
 - [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT as a cognitive crutch: a randomized controlled trial on knowledge retention 45 days later (Barcaui 2025)
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — From cognitive outsourcing to reallocation: 3P analysis of student–GenAI engagement in unsupervised assessments (Yan et al. 2026)
 - [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI

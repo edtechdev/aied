@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-04T10:51:52-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -148,7 +148,7 @@ The knowledge base's frameworks and empirical studies converge on a set of pract
 
 ### Measuring AI literacy
 
-A distinct research thread treats AI literacy not only as a target for instruction but as a construct to be measured. The knowledge base's assessment strand distinguishes **self-reported** from **performance-based** literacy: self-reports diverge sharply from demonstrated competence (teachers overestimate by ~40%), and performance-based measures predict classroom AI integration far better than confidence surveys (r≈0.72 vs 0.31). Intervention work reproduces that divergence at the level of behavior: in [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]], neither GenAI attitudes nor a general metacognitive-awareness scale predicted students' regulation of LLM interaction or their final task scores (r = .01 and r = .04, both non-significant), while the behaviors the workshop changed — rejecting underspecified prompts, judging answer correctness, asking a follow-up — did track answer quality. Validated instruments are emerging to close this gap — the [[jin-glat-genai-literacy-assessment|GLAT]] provides a psychometrically validated generative-AI literacy assessment, and diagnostic profiles (overestimators vs. true novices) let designers target support where it is needed. For design and research, this ties AI literacy to [[educational-measurement]] and to [[assessment]] broadly: a literacy framework is only as useful as the instruments used to track growth, and stage-based continua require reliable measurement to place learners along them.
+A distinct research thread treats AI literacy not only as a target for instruction but as a construct to be measured. The knowledge base's assessment strand distinguishes **self-reported** from **performance-based** literacy: self-reports diverge sharply from demonstrated competence (teachers overestimate by ~40%), and performance-based measures predict classroom AI integration far better than confidence surveys (r≈0.72 vs 0.31). Intervention work reproduces that divergence at the level of behavior: in [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]], neither GenAI attitudes nor a general metacognitive-awareness scale predicted students' regulation of LLM interaction or their final task scores (r = .01 and r = .04, both non-significant), while the behaviors the workshop changed — rejecting underspecified prompts, judging answer correctness, asking a follow-up — did track answer quality. Validated instruments are emerging to close this gap — the [[jin-glat-genai-literacy-assessment|GLAT]] provides a psychometrically validated generative-AI literacy assessment, and diagnostic profiles (overestimators vs. true novices) let designers target support where it is needed. [[caeai-digital-literacy-frameworks-review-2026|Guo et al. (2026)]] map that instrument landscape directly, reviewing 80 validated frameworks — 69 digital literacy and 11 AI literacy — published between January 2014 and February 2025. AI has pulled digital literacy toward ethics and recast communication to include human–AI interaction, while metacognitive regulation and educator-specific human–AI collaboration remain the least specified. For design and research, this ties AI literacy to [[educational-measurement]] and to [[assessment]] broadly: a literacy framework is only as useful as the instruments used to track growth, and stage-based continua require reliable measurement to place learners along them.
 
 
 A 32-item six-facet instrument extends the four-dimension model with two further facets — responsible use and self-development — and holds scalar invariance across adolescents (12–17), young adults (18–40) and midlife adults (41–60), though the authors caution the ΔCFI approached the conventional cutoff ([[sfailq-six-facet-ai-literacy-questionnaire-2026|Liu et al. (2026)]]).
@@ -207,6 +207,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[career-development-and-readiness]] — the employability payoff AI literacy is argued to build
 - [[ai-education]] — the broader field
 ## Connected Articles
+- [[caeai-digital-literacy-frameworks-review-2026]] — 80 validated frameworks show AI expanding digital literacy toward ethics while educator human–AI collaboration stays under-specified (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Six competency areas, five values and three progression levels for public service media
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
 - [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Continuum for AI Literacy

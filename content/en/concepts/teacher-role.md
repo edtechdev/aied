@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-04T05:15:29-04:00"
+updated: "2026-10-04T10:52:53-04:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -15,6 +15,8 @@ reviewed_by: [editor]
 ---
 
 > **Teaching** — how AI reshapes the work, identity, and agency of educators. With 50+ articles examining this dimension, the knowledge base documents a fundamental transformation: from sole knowledge authority to orchestrator of human-AI learning environments. This page goes beyond describing that shift — it details what teachers actually *do* differently, how they can adapt their practice, and how they connect to [[learning-design]], [[ai-literacy]], and [[academic-integrity]].
+
+> [[caeo-navigating-ai-educational-future-scenarios-2026|Malyn-Smith et al. (2026)]] call this the more-human paradox: in six 2030 scenarios co-constructed by 20 researchers from 13 countries, AI saturation intensifies rather than displaces human pedagogical work. The scenarios describe AI as "the air-handling system of the learning ecosystem" — you notice it only when it malfunctions.
 
 ## Questions to Consider
 
@@ -166,7 +168,8 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
-[[teachers-instrumental-orchestration-ai-math-2026]] — Six observed high school mathematics lessons extend instrumental orchestration with three new types (Noh & Kim 2026)
+- [[caeo-navigating-ai-educational-future-scenarios-2026]] — The more-human paradox: expert 2030 scenarios find AI saturation intensifies rather than displaces human pedagogical work (Malyn-Smith et al. 2026)
+- [[teachers-instrumental-orchestration-ai-math-2026]] — Six observed high school mathematics lessons extend instrumental orchestration with three new types (Noh & Kim 2026)
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responding to AI-generated emotional alerts: teachers' intervention and students' engagement in the mathematics classroom
 
 - [[edustories-classroom-case-studies-2026]] — Edustories: A Collection of Real-world Case Studies from Classroom Practices

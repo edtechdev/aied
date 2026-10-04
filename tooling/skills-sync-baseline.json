@@ -1,1 +1,14 @@
-{}
+{
+  "tooling/cron/daily-scan-prompt.md": {
+    "installed": "ab2c351c59aede3e",
+    "repo": "930bfbd97e1f0d3c"
+  },
+  "tooling/cron/weekly-rss-scan-prompt.md": {
+    "installed": "edeeae445ebbd6e7",
+    "repo": "8113ef7537d3c9f0"
+  },
+  "tooling/scripts/validate-facets.py": {
+    "installed": "48c4cec7a8864554",
+    "repo": "4466a31a466ea3e0"
+  }
+}

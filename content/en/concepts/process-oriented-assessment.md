@@ -82,7 +82,7 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
 ## Connected Articles
-[[alam-process-oriented-collaborative-essays-2026]] — A graded, collaboratively written process essay in a first-year degree apprenticeship: iteration and collaboration in the rubric, GenAI permitted within stated boundaries (Alam & Jackson 2026)
+- [[alam-process-oriented-collaborative-essays-2026]] — A graded, collaboratively written process essay in a first-year degree apprenticeship: iteration and collaboration in the rubric, GenAI permitted within stated boundaries (Alam & Jackson 2026)
 - [[genai-performance-vs-learning]] — performance is not learning: a research agenda built on process measures (Yan et al. 2026)
 - [[human-centered-ai-teacher-educators-2026]] — teacher educators asking for AI-resistant, process-based tasks built on justification and reflection (Baran et al. 2026)
 - [[sharma-judgment-visible-genai-assessment-2026]] — annotated decision trails, oral defense, and draft differences selected for visible judgment

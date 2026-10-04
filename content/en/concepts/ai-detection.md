@@ -121,7 +121,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[legal-issues-and-risks]]
 
 ## Connected Articles
-[[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
+- [[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[best-response-student-ai-dialog-2026]]
 - [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Latent Prompt Restoration Detector

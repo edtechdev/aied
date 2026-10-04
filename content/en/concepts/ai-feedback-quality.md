@@ -120,7 +120,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[trust-calibration]]
 
 ## Connected Articles
-[[ai-feedback-violin-intonation-2026]] — AI feedback on intonation checked against 2,208 machine-measured pitch deviations (Aksoy 2026)
+- [[ai-feedback-violin-intonation-2026]] — AI feedback on intonation checked against 2,208 machine-measured pitch deviations (Aksoy 2026)
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Assessing ChatGPT in-video comments: linguistic, semantic, and perceptual quality (Wang, Du & Jin 2026)
 - [[luo-eaton-ai-student-feedback-ethics-2026]]

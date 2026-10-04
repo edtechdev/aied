@@ -7,7 +7,7 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-10-04
-**Total backlog:** 13 articles awaiting full text · 53 truncated source texts awaiting PDFs · 15 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 8 articles awaiting full text · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 
 ## OpenAlex harvest (2026-09-25)
@@ -22,16 +22,11 @@ _No articles pending as of 2026-10-04._
 
 - [Generative AI-assisted workflows in architectural conceptual design: Performance, creative self-efficacy, and cognitive load](https://www.sciencedirect.com/science/article/pii/S2666920X2600144X) — [DOI: 10.1016/j.caeai.2026.100682](https://doi.org/10.1016/j.caeai.2026.100682)
 - [ChatGPT for interdisciplinary learning: Does it equally benefit STEM and non-STEM students?](https://www.sciencedirect.com/science/article/pii/S2666920X26001438) — [DOI: 10.1016/j.caeai.2026.100681](https://doi.org/10.1016/j.caeai.2026.100681)
-- [A mixed-methods analysis of AI scaffolding patterns and student inquiry profiles in a middle school](https://www.sciencedirect.com/science/article/pii/S2666920X26001451) — [DOI: 10.1016/j.caeai.2026.100683](https://doi.org/10.1016/j.caeai.2026.100683)
-- [Applying psychometric methods to distinguish between human and generative AI responses to multiple-choice items](https://www.sciencedirect.com/science/article/pii/S2666920X2600130X) — [DOI: 10.1016/j.caeai.2026.100668](https://doi.org/10.1016/j.caeai.2026.100668)
 - [A socio-technical framework for educational excellence: Empirical validation of artificial intelligence and Jidoka integration in accounting pedagogy within emerging financial markets](https://www.sciencedirect.com/science/article/pii/S2666920X26001098) — [DOI: 10.1016/j.caeai.2026.100647](https://doi.org/10.1016/j.caeai.2026.100647)
 - [Enhancing domain adaptation of LLM via model composition in solving medical exam questions](https://www.sciencedirect.com/science/article/pii/S2666920X26001001) — [DOI: 10.1016/j.caeai.2026.100638](https://doi.org/10.1016/j.caeai.2026.100638)
-- [Reconceptualizing digital literacy in the AI era: A systematic review of validated frameworks](https://www.sciencedirect.com/science/article/pii/S2666920X26001414) — [DOI: 10.1016/j.caeai.2026.100679](https://doi.org/10.1016/j.caeai.2026.100679)
-- [Response-length confounding in participant–morpheme networks: A length-controlled test in AI ethics education](https://www.sciencedirect.com/science/article/pii/S2666920X26001475) — [DOI: 10.1016/j.caeai.2026.100685](https://doi.org/10.1016/j.caeai.2026.100685)
 
 ## Computers and Education Open (CEAO)
 
-- [Navigating AI's educational future: expert scenarios and implications for teaching and teacher preparation](https://www.sciencedirect.com/science/article/pii/S2666557326000947) — [DOI: 10.1016/j.caeo.2026.100422](https://doi.org/10.1016/j.caeo.2026.100422)
 - [Evaluating AI-based visual privacy through Cartoonification: Impact on expressive participation and consent for data retention](https://www.sciencedirect.com/science/article/pii/S2666557326000649) — [DOI: 10.1016/j.caeo.2026.100393](https://doi.org/10.1016/j.caeo.2026.100393)
 - [A pilot educational framework for AI-enhanced digital manufacturing and reflective skill development](https://www.sciencedirect.com/science/article/pii/S2666557326000133) — [DOI: 10.1016/j.caeo.2026.100342](https://doi.org/10.1016/j.caeo.2026.100342)
 
@@ -39,17 +34,15 @@ _No articles pending as of 2026-10-04._
 
 - [Large language models for teaching and learning in higher education: opportunities, challenges, and future directions](https://link.springer.com/article/10.1186/s41239-026-00624-7) — [DOI: 10.1186/s41239-026-00624-7](https://doi.org/10.1186/s41239-026-00624-7)
 
-## British Journal of Educational Technology (BJET)
 
 ## Journal of Instructional Design and Technology (JOIDAT)
 
 - [Designing in Uncertainty: GenAI and Creative Agency in a Graduate Seminar](https://joidat.scholasticahq.com/article/164950-designing-in-uncertainty-genai-and-creative-agency-in-a-graduate-seminar) — [DOI: 10.65201/RKHM9093](https://doi.org/10.65201/RKHM9093)
 
-## Intersection: A Journal at the Intersection of Assessment and Learning (AALHE)
 
 ## Ingested pages whose source text is truncated (PDF needed)
 
-These 54 pages are already in the knowledge base, but their saved full text
+These 52 pages are already in the knowledge base, but their saved full text
 stops at the old 50,000-character extraction cap, so the results, discussion and
 limitations sections are missing locally. Publisher bot-protection blocks automated
 downloads (MDPI answers 403, Springer serves a robot page), so these need the PDF
@@ -127,8 +120,6 @@ cap and enrich the page from the recovered text.
   - https://doi.org/10.1016/j.edurev.2025.100741
 - **edurev-100833-rall-meta** — `edurev-100833-rall-meta` (html_failed)
   - https://doi.org/10.1016/j.edurev.2026.100833
-- **Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments** — `irt-human-genai-mcq-responses` (not attempted)
-  - https://doi.org/10.1016/j.caeai.2026.100668
 - **'Problem-Based Learning and the Structural Conditions for Productive AI Integration'** — `pbl-structural-conditions-ai-2026` (html_failed)
   - https://doi.org/10.35542/osf.io/haet3_v1
 - **Raising Ethical Awareness of GenAI Use Through Student Self-Assessment in the Transition to Higher Education** — `pedlow-genai-selfassessment-2026` (too_short)
@@ -243,7 +234,6 @@ the recorded DOI and Unpaywall. Add the PDF here (or re-run the fetch once acces
 
 ### Figures that cannot be checked against the saved source
 
-- `irt-human-genai-mcq-responses` - *Applying Item Response Theory to Distinguish Between Human and Generative AI
   Responses to Multiple-Choice Assessments*, doi 10.1016/j.caeai.2026.100668. The saved text stops at the old
   extraction cap, before the results, and the only open-access copy Unpaywall lists is the authors' arXiv preprint
   (2412.02713), which is an earlier draft that does not report the generational comparison. Two figures stated on

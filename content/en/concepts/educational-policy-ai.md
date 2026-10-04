@@ -107,7 +107,7 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[student-support-and-success]] — the policy context for institutional support deployment
 
 ## Connected Articles
-[[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
+- [[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
 - [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice English teachers' classroom AI policies: what they permitted, limited, and banned (Nash & Burriss 2026)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
