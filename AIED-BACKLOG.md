@@ -9,69 +9,10 @@
 **Last updated:** 2026-10-04
 **Total backlog:** 0 articles awaiting full text · 53 truncated source texts awaiting PDFs · 15 pages awaiting a full text before their practice and limitations sections can be written
 
-_Entries marked **INGESTED** are resolved: they are kept only because they record the harvest slug → final
-slug mapping. They are not pending work, and the totals above count them as done._
 
 ## OpenAlex harvest (2026-09-25)
 
-Relevant, evidence-bearing AI-in-education research found through OpenAlex and not yet ingested, listed here only while it is being pursued. Full text not yet fetched; available for the maintainer to pick from.
-
-**Ingestion attempt 2026-09-25:** full text was fetched and ingested for ten of the strongest entries (quasi-experiments, meta-analyses, a systematic review and validation studies). Two could not be retrieved and need the PDF:
-
-- [Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception](https://doi.org/10.1016/j.lindif.2026.102969) — full text blocked: ScienceDirect returns 403 to a scripted client; needs the PDF supplied (harvest slug `automated-feedback-argumentative-writing-2026`) — **INGESTED 2026-09-27** as `jansen-argumentative-writing-feedback-receptivity-2026`
-- [Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis](https://doi.org/10.1016/j.actpsy.2026.107734) — full text blocked: ScienceDirect returns 403 to a scripted client; needs the PDF supplied (harvest slug `genai-pbl-pjbl-three-level-meta-analysis-2026`) — **INGESTED 2026-09-27** as `chen-pbl-pjbl-genai-meta-analysis-2026`
-
-
-### ZDM
-- [Automated coding of content and pedagogical content knowledge of mathematics using a multi-agent large language model](https://doi.org/10.1007/s11858-026-01796-2) - validation study | objective | 2026-05-07 - Empirical validation of multi-agent LLM coding against human coders on real teacher-response data. `accept` — **INGESTED 2026-09-25** as `llm-automated-coding-teacher-pck-2026`
-- [Responding to AI-generated emotional alerts: teachers’ intervention and students’ engagement in the mathematics classroom](https://doi.org/10.1007/s11858-026-01810-7) - qualitative case study | objective | 2026-06-23 - Case study using real classroom data on how AI emotional alerts shape teacher decisions and student engagement in mathematics. `accept` — **INGESTED 2026-09-27** as `ai-emotional-alerts-teachers-mathematics-classroom-2026`
-- [How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge](https://doi.org/10.1007/s11858-026-01816-1) - embedded case study | mixed | 2026-08-04 - Eight teachers' AI dialogue logs and mathematical artifacts analysed; empirical evidence of AI-supported professional learning. `accept` — **INGESTED 2026-09-27** as `bicer-genai-pd-math-creativity-2026`
-- [Preservice mathematics teachers’ noticing in AI-based simulations: transitions among attending, interpreting, and shaping](https://doi.org/10.1007/s11858-026-01805-4) - intervention + epistemic network analysis | objective | 2026-06-03 - Three-week intervention with 17 preservice teachers; coded interaction data and network analysis of noticing. `accept` — **INGESTED 2026-09-25** as `preservice-teachers-noticing-ai-simulations-2026`
-
-### Frontiers in Education
-- [Generative AI-supported instruction as a cognitive scaffold: effects on senior high school students’ geometric reasoning and proof construction](https://doi.org/10.3389/feduc.2026.1869961) - quasi-experiment | objective | 2026-07-03 - Quasi-experimental pre/post with 86 students measuring GenAI scaffold effects on geometry proof performance. `accept` — **INGESTED 2026-09-25** as `genai-cognitive-scaffold-geometric-reasoning-2026`
-- [From digital transformation to intelligent classrooms: artificial intelligence, adaptive leadership, and service delivery in global higher education—a systematic literature review](https://doi.org/10.3389/feduc.2026.1899369) - systematic review | synthesis | 2026-08-06 - PRISMA systematic review synthesising global evidence on AI integration in higher education teaching, learning and services. `accept` — **INGESTED 2026-09-27** as `ai-higher-ed-service-delivery-systematic-review-2026`
-- [Automated software scoring of senior school certificate examination mathematical items in economics using a contextual similarity model](https://doi.org/10.3389/feduc.2026.1669504) - correlational validation study | objective | 2026-07-29 - AI scoring system validated against human experts on a multi-stage sample of 1,008 secondary students. `accept` — **INGESTED 2026-09-27** as `automated-scoring-economics-math-items-nigeria-2026`
-
-### arXiv (Cornell University)
-- [WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays](https://doi.org/10.48550/arxiv.2607.14524) - system benchmark evaluation | objective | 2026-07-16 - Empirical evaluation of LLM-based automated writing evaluation scored against 480 TOEFL benchmark essays. `accept` — **INGESTED 2026-09-27** as `wraft-automated-writing-evaluation-argumentative-2026`
-- [Automatic Reflection Level Classification in Hungarian Student Essays](https://arxiv.org/pdf/2605.02402) - machine learning / learning analytics | objective | 2026-05-04 - Classification models trained and validated on 1,954 expert-annotated student essays over multiple years. `accept` — **INGESTED 2026-09-27** as `reflection-level-classification-hungarian-essays-2026`
-
-### Frontiers in Psychology
-- [From tool to scaffold: structured human–AI collaboration and its effects on academic writing and digital critical thinking among Saudi EFL learners](https://doi.org/10.3389/fpsyg.2026.1830103) - quasi-experiment | mixed | 2026-05-26 - Quasi-experimental mixed-methods study with 53 EFL students measuring writing performance and critical thinking. `accept` — **INGESTED 2026-09-25** as `human-ai-collaboration-academic-writing-2026`
-- [From automated scoring to learning diagnosis: a mechanism study of AI-supported formative assessment in English writing](https://doi.org/10.3389/fpsyg.2026.1905455) - quasi-experiment | mixed | 2026-09-23 - Quasi-experiment with 96 students measuring diagnostic accuracy, feedback actionability and revision outcomes. `accept` — **INGESTED 2026-09-27** as `automated-scoring-learning-diagnosis-english-writing-2026`
-
-
-### Aminu Kano Academic Scholars Association Multidisciplinary Journal
-- [Impact of real-time AI feedback on the technical skill acquisition of STEM students in Colleges of Education in Kwara State](https://doi.org/10.64726/ve5g5r44) - quasi-experiment | objective | 2026-07-26 - Quasi-experimental pretest/posttest control-group study of AI feedback with 240 students. `accept` — **INGESTED 2026-09-25** as `real-time-ai-feedback-technical-skills-2026`
-
-### Asian-Pacific Journal of Second and Foreign Language Education
-- [Effectiveness of GenAI in enhancing writing performance: a meta-analysis](https://doi.org/10.1186/s40862-026-00444-2) - meta-analysis | synthesis | 2026-07-01 - Meta-analysis of GenAI writing instruction with pooled Hedges g and publication-bias checks. `accept` — **INGESTED 2026-09-25** as `genai-writing-performance-meta-analysis-2026`
-
-### BMC Medical Education
-- [From traditional classroom to AI-enhanced flipped classroom: a three-year pedagogical evolution for international students in pharmacology](https://doi.org/10.1186/s12909-026-09608-7) - quasi-experiment | objective | 2026-06-01 - Three-year quasi-experiment compares three instruction models with measured academic performance and interaction data. `accept` — **INGESTED 2026-09-25** as `ai-enhanced-flipped-classroom-three-year-2026`
-
-### Educational Technology Research and Development
-- [Customizing AI for writing pedagogy: a systematic review of pedagogical goals, theoretical principles, and technical design](https://doi.org/10.1007/s11423-026-10697-w) - systematic review | synthesis | 2026-09-18 - Systematic review of 23 empirical AI writing studies in a strong ed-tech venue. `accept` — **INGESTED 2026-09-25** as `customizing-ai-writing-pedagogy-systematic-review-2026`
-
-### European Journal of STEM Education
-- [Artificial intelligence in mathematics education: A PRISMA-based systematic literature review (2021-2025)](https://doi.org/10.20897/ejsteme/19221) - systematic review | synthesis | 2026-09-05 - PRISMA systematic review synthesizing 42 peer-reviewed studies with quality appraisal of AI in math education. `accept` — **INGESTED 2026-09-27** as `ai-mathematics-education-prisma-review-2026`
-
-### International Journal of Advanced Multidisciplinary Research and Studies
-- [Educational Organizations in the AI Era: Digital Management and Leadership, Digital Skills, and Innovation](https://doi.org/10.62225/2583049x.2026.6.3.6209) - systematic review | synthesis | 2026-05-05 - Systematic literature review synthesising evidence on AI adoption, leadership and teachers' digital skills in education. `accept` — **INGESTED 2026-09-27** as `educational-organizations-ai-era-leadership-review-2026`
-
-### International journal of intelligent engineering and systems
-- [Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays](https://doi.org/10.22266/ijies2026.0831.09) - model development and evaluation | objective | 2026-07-28 - Develops and evaluates hybrid AES model scoring real high school physics essays for critical-thinking dimensions. `accept` — **INGESTED 2026-09-27** as `automated-essay-scoring-critical-thinking-physics-2026`
-
-### Journal of Science Education and Technology
-- [Exploring the Capacity of Large Language Models to Simulate Students’ Scientific Thinking: Insights for Responsive Teaching](https://doi.org/10.1007/s10956-026-10333-5) - comparative evaluation | objective | 2026-05-21 - Empirically compares multiple LLMs against 8820 real students' ideas across science domains. `accept` — **INGESTED 2026-09-25** as `llm-simulating-student-scientific-thinking-2026`
-
-
-### PLoS ONE
-- [Teacher feedback VS AI-assisted peer feedback in L2 writing: A quasi-experimental study in a Chinese University](https://doi.org/10.1371/journal.pone.0345976) - quasi-experiment | objective | 2026-06-29 - Eight-week quasi-experiment comparing teacher and AI-assisted peer feedback on 244 measured L2 writing texts. `accept` — **INGESTED 2026-09-25** as `teacher-vs-ai-peer-feedback-l2-writing-2026`
-
-### Social Sciences & Humanities Open
-- [Rethinking assessment in the age of generative AI: A systematic literature review of African higher education](https://doi.org/10.1016/j.ssaho.2026.103332) - systematic review | synthesis | 2026-07-30 - PRISMA systematic review synthesizing empirical studies on GenAI assessment adaptation in African higher education. `accept` — **INGESTED 2026-09-27** as `genai-assessment-african-higher-education-review-2026`
+_All articles from this harvest are ingested; none pending as of 2026-10-04._
 
 ## OpenAlex harvest (2026-09-29)
 

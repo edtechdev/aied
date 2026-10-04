@@ -48,6 +48,15 @@ counts drift the same way. Audit programmatically — never eyeball a corpus of 
 `dist/` is a stale build: absence there proves nothing and presence there does not prove a page is
 live. `content/en/articles/*.md` is the source of truth; use `dist/` only as a weak second signal.
 
+**Resolved entries leave the file; do not keep them as a record.** The maintainer asked twice
+(2026-10-04) to strip already-ingested entries, first the ones contradicting the header counts and
+then the `INGESTED` harvest records that had been retained for their harvest-slug → final-slug
+mapping. The file's own scope line settles it — it "lists work in progress only … no outcome is
+recorded" — and git history preserves the mapping for anyone who needs it. Removing them wholesale is
+the expected end state, so do not argue for keeping the mapping: delete the entries, the journal
+sub-headings they leave empty, any now-false intro paragraph, and the note that explained why they
+were kept.
+
 ## Two parser traps that silently under- or over-count
 
 - **A `###` subsection inherits the class of the `##` above it.** Classifying every heading afresh
