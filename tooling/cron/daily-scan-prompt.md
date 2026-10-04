@@ -162,16 +162,15 @@ filed under the matching section of `concepts.registry.yaml`, and a value of the
 
 7. **Nothing to regenerate for a page index or journal** — `index.md` and `journal.md` were retired; the site's journal page is rendered from the content collections at build time.
 
-8. **Regenerate agent-ready files** (llms.txt, llms-full.txt):
-   ```bash
-   python3 [YOUR_WIKI_PATH]/tooling/scripts/generate-llms-files.py
-   ```
+8. **Do NOT regenerate the agent-ready files or the offline editions.** `public/llms.txt`,
+   `llms-concepts.txt`, `llms-full.txt` and `public/aied.epub` / `aied.pdf` are opt-in only
+   (maintainer rule, 2026-09-16): regenerate them only when the maintainer asks, since their churn
+   should not ride along with a routine scan.
 
 9. **Build the site** (and commit):
    ```bash
    cd [YOUR_WIKI_PATH]
    python3 tooling/scripts/check_concepts.py                        # concept registry gate
-   python3 tooling/scripts/generate-llms-files.py                   # llms.txt + llms-full.txt
    npm run build        # builds dist/ with pagefind search + sitemap
    git add -A
    git commit -m "scan: [TODAY] — N new papers on [TOPIC SUMMARY]"
