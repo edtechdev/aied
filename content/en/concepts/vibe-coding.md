@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Vibe Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-10-01T09:59:06-04:00"
+updated: "2026-10-04T16:17:27-04:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -49,6 +49,8 @@ Vibe coding's end-user-development promise is about who can build, not what gets
 
 Vibe coding reopens core questions about what is learned when AI automates implementation. Because the user does not read code, they must trust the model's behavior — which makes vibe coding a high-stakes case of the tension between [[agency]] and [[cognitive-offloading|over-reliance]] that runs through AI-assisted programming. Curricula are responding by shifting from teaching implementation toward teaching how to direct, verify, and audit AI-generated artifacts (see [[reshaping-cs-education-genai|reshaping undergraduate CS]] and [[agentic-ai|agentic software engineering]]). Vibe coding also changes the learner's epistemic position: success depends less on writing code than on expressing intent precisely and evaluating behavior against goals, competencies closer to [[computational-thinking|computational thinking]] and structured writing than to traditional syntax mastery.
 
+A second limit shows up in the building itself: removing the coding barrier can leave the diagnosis burden untouched. Two engineering case studies had an instructor build working web simulations of a battery thermal management system and three ARQ protocols by prompting Gemini in plain language within a few hours ([[caee-vibe-coding-simulation-development-engineering-education-2026|Tarasak et al. (2026)]]). A duplicate-packet error then survived repeated prompts, including one that stated the required behavior. It was fixed only when the instructor reasoned from protocol behavior to an insufficient timeout interval, a parameter the interface never exposed. Neither simulation's effect on learning was measured, so the account establishes feasibility rather than effectiveness.
+
 ### Connections to related concepts
 
 Vibe coding connects naturally to [[prompt-engineering]] (prompt quality is the mechanism of prose-driven development), [[cs-education]] (as the domain where the technique is most used and most contested), [[computational-thinking]] (the mental modeling that predicts success even without code access), [[writing-education]] (writing becoming a programming skill), and [[agentic-ai]] (directing a model toward an artifact rather than hand-building it). It also intersects with [[ai-literacy]] and [[teacher-role]], since the ability to build one's own tools changes what teachers and learners can do. Finally, it raises [[academic-integrity]] and assessment questions identical to those AI code generation raises across computing education.
@@ -74,6 +76,7 @@ A faculty-level case study in this knowledge base supplies the organizational la
 - [[vibe-coding-writing-cs-achievement-2026]] — Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency (CHI 2026 empirical study)
 - [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
 - [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
+- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — Vibe coding built two engineering simulations in hours; diagnosing a protocol error still needed the instructor
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
 - [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn with Generative AI: A Theoretically Grounded Framework for Artifact Construction in Upper-Secondary Education
 - [[reshaping-cs-education-genai]] — Reshaping Undergraduate CS Education for Generative AI
