@@ -38,6 +38,8 @@ PAIRS = {
     'enrolment': 'enrollment', 'enrolments': 'enrollments',
     'defence': 'defense', 'labour': 'labor', 'judgement': 'judgment', 'judgements': 'judgments',
     'programme': 'program', 'programmes': 'programs',
+    'practised': 'practiced', 'practising': 'practicing', 'practise': 'practice',
+    'labelled': 'labeled', 'labelling': 'labeling',
     'recognise': 'recognize', 'recognised': 'recognized', 'recognising': 'recognizing',
     'summarise': 'summarize', 'summarised': 'summarized', 'summarising': 'summarizing',
     'synthesise': 'synthesize', 'synthesised': 'synthesized', 'synthesising': 'synthesizing',

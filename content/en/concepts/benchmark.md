@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-02T08:08:45-04:00"
+updated: "2026-10-04T05:15:29-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -66,6 +66,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - **A grader's configuration is itself a variable.** [[llm-graders-computer-science-exams-2026|Habibullah et al. (2026)]] sweep 171 grading configurations over a dual-graded 570-student exam and find that a short "strict grader" preamble pushes 14 of 17 open-weights models out of the graded band, then replicate with 162 configurations on an independent 1,038-student exam whose results reproduce the vulnerability but not its direction. The best configuration (MAE 1.64/35, under the 2.61/35 human graders achieve against each other) is therefore not evidence that LLM grading works — though one LoRA adapter trained on the pooled human labels brings five small models to human parity while nearly erasing the persona sensitivity.
 - **Constraining the corpus to make the capability claim attributable.** [[li-littlelearner-pedagogically-controlled-knowledge-exposure-2026|Li et al. (2026)]] filter FineWeb-Edu to 88B tokens of U.S. K–5 material and train a 5B model from scratch on it, then check the seam through behavioral probes rather than scores — retention near zero on Beyond-K–5 passages, collapse on Beyond-K–5 Jeopardy items, and fewer than half as many Grade 8 MathCAMPS problems solved even at pass@1024. Because the prior exposure is known, a capability that appears after scaling, post-training, or in-context examples can be credited to the intervention; the authors also report that the boundary is not human-shaped, since the model sometimes beats a downstream skill while failing its prerequisite.
 - **The scoring rule is part of the instrument.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] runs four knowledge-tracing update rules over the same ASSISTments 2012–13 event sequences, differing only in how they score hint-assisted rows, and preregisters the comparisons behind a fence that withholds the confirmatory half of the students until the registration file is present. Crediting any completion barely beats a skill-difficulty constant (pooled AUC 0.604 vs. 0.595 across 985,813 scored events) and declares 93.9 percent of student–skill pairs mastered against 72.8 percent under a rule that reads assisted rows as failed first attempts (0.658) — the general lesson being that a mastery label is defined by the evidence rule, not by the log.
+- **Report model ability as a calibrated level, not only as accuracy.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] map 624 expert-annotated items onto named proficiency levels using 2,050 learner responses, and find frontier models exceed the calibrated ceiling — a limit a percentage hides.
 
 
 ## Connected Concepts
@@ -79,6 +80,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[automated-essay-scoring]]
 
 ## Connected Articles
+[[standardized-assessment-llm-english-proficiency-2026]] — A 624-item English proficiency benchmark that reports model ability as a calibrated level (Min et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[cdpk-pedagogy-benchmark-llms]] — The Pedagogy Benchmark: LLM pedagogical knowledge (CDPK + SEND)

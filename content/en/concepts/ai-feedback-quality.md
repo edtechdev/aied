@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-04T05:15:29-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -87,6 +87,7 @@ AI feedback quality spans multiple dimensions captured in the knowledge base:
 - **Retrievability of evidence:** Can the system actually reach the evidence it is judging? [[ai-assisted-physics-lab-report-assessment-2026|Abreu, Stari and Martí (2026)]] separate evidence present in a submission from evidence available after processing — an equation, graph or unit may be included in a report yet never retrieved, so feedback about that criterion rests on nothing — making retrieval a dimension of quality distinct from accuracy or calibration. Their response is to require each score to cite concrete evidence from the report, so an observation that cannot be traced back to the text is visible as unsupported.
 - **Helpfulness:** Does the feedback guide improvement? ([[feedback|Feedback Loop]], [[becerra-aicofe-feedback-2026]])
 - **Timeliness:** Is feedback delivered when the learner can act on it? ([[formative-assessment]])
+- **Verifiability against an objective measure:** Where the target is machine-measurable, feedback can be checked against a physical measurement rather than a rubric. [[ai-feedback-violin-intonation-2026|Aksoy (2026)]] extracted 2,208 note-level pitch deviations in cents and gave those tables to the model, so its claims had a measurable referent.
 - **Bias:** Is feedback equitable across student populations? ([[bias-mitigation]], [[equity-in-ai-education]])
 
 - **Ethics and transparency:** Only 14 of 50 top-ranked universities had specific guidance on teachers' AI use for feedback, and students described undisclosed AI feedback as "disingenuous" — transparency and consent shape whether feedback is accepted, not just whether it is accurate ([[luo-eaton-ai-student-feedback-ethics-2026|Luo & Eaton (2026)]]).
@@ -119,6 +120,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[trust-calibration]]
 
 ## Connected Articles
+[[ai-feedback-violin-intonation-2026]] — AI feedback on intonation checked against 2,208 machine-measured pitch deviations (Aksoy 2026)
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Assessing ChatGPT in-video comments: linguistic, semantic, and perceptual quality (Wang, Du & Jin 2026)
 - [[luo-eaton-ai-student-feedback-ethics-2026]]

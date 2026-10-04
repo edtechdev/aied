@@ -7,7 +7,7 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-10-04
-**Total backlog:** 10 articles awaiting full text (2 from the 2026-09-25 harvest, 1 from the 2026-09-29 harvest, 5 CAEAI, 2 CEAO — 3 retrieved, 7 blocked) · 53 truncated source texts awaiting PDFs · 15 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 0 articles awaiting full text · 53 truncated source texts awaiting PDFs · 15 pages awaiting a full text before their practice and limitations sections can be written
 
 _Entries marked **INGESTED** are resolved: they are kept only because they record the harvest slug → final
 slug mapping. They are not pending work, and the totals above count them as done._
@@ -67,34 +67,23 @@ Relevant, evidence-bearing AI-in-education research found through OpenAlex and n
 - [Exploring the Capacity of Large Language Models to Simulate Students’ Scientific Thinking: Insights for Responsive Teaching](https://doi.org/10.1007/s10956-026-10333-5) - comparative evaluation | objective | 2026-05-21 - Empirically compares multiple LLMs against 8820 real students' ideas across science domains. `accept` — **INGESTED 2026-09-25** as `llm-simulating-student-scientific-thinking-2026`
 
 
-### Online Journal of Music Sciences
-- [Yapay zekâ, yapay zekâ söyle bana: Keman eğitiminde yapay zekâ destekli geri bildirimin entonasyona etkisine yönelik bir model çalışması](https://doi.org/10.31811/ojomus.1897062) - mixed-methods experiment | mixed | 2026-05-04 - Four-week mixed-methods experiment with 12 violin students measuring objective intonation performance under AI feedback. `accept` — **PDF retrieved 2026-10-04** to `pdf-sources/ai-feedback-violin-intonation-2026.pdf`; awaiting ingest
-
 ### PLoS ONE
 - [Teacher feedback VS AI-assisted peer feedback in L2 writing: A quasi-experimental study in a Chinese University](https://doi.org/10.1371/journal.pone.0345976) - quasi-experiment | objective | 2026-06-29 - Eight-week quasi-experiment comparing teacher and AI-assisted peer feedback on 244 measured L2 writing texts. `accept` — **INGESTED 2026-09-25** as `teacher-vs-ai-peer-feedback-l2-writing-2026`
 
 ### Social Sciences & Humanities Open
 - [Rethinking assessment in the age of generative AI: A systematic literature review of African higher education](https://doi.org/10.1016/j.ssaho.2026.103332) - systematic review | synthesis | 2026-07-30 - PRISMA systematic review synthesizing empirical studies on GenAI assessment adaptation in African higher education. `accept` — **INGESTED 2026-09-27** as `genai-assessment-african-higher-education-review-2026`
 
-### The Mathematical Education
-- [Exploring teachers’ instrumental orchestration and roles in high school mathematics classes using AI-based digital tools](https://doi.org/10.63311/mathedu.26.6525) - observational content analysis | objective | 2026-05-31 - Lesson recordings and teacher screen captures empirically document classroom orchestration with AI tools. `accept` — **PDF retrieved 2026-10-04** to `pdf-sources/teachers-instrumental-orchestration-ai-math-2026.pdf`; awaiting ingest
-
 ## OpenAlex harvest (2026-09-29)
 
-- [AI literacy and graduate employability in the age of artificial intelligence: The mediating role of career adaptability and the moderating role of growth mindset](https://doi.org/10.1016/j.ssaho.2026.103551) — [DOI: 10.1016/j.ssaho.2026.103551](https://doi.org/10.1016/j.ssaho.2026.103551) — *Social Sciences & Humanities Open*, 2026-09-26 (gold OA). Full text not retrievable: ScienceDirect returned an HTML landing page (832 KB) instead of a PDF to a scripted client; needs the PDF supplied. Survey of 455 final-year university students, PLS-SEM.
+_No articles pending as of 2026-10-04._
 
 ## Computers and Education: Artificial Intelligence (CAEAI)
 
-- [Bridging the domain gap for VLMs: A scientific fine-tuning framework for precision and pedagogy in scientific education](https://www.sciencedirect.com/science/article/pii/S2666920X26001359) — [DOI: 10.1016/j.caeai.2026.100673](https://doi.org/10.1016/j.caeai.2026.100673)
-- [Federated learning for privacy-preserving at-risk student prediction in health professions education](https://www.sciencedirect.com/science/article/pii/S2666920X26001220) — [DOI: 10.1016/j.caeai.2026.100660](https://doi.org/10.1016/j.caeai.2026.100660)
-- [Standardized assessment of LLM English proficiency](https://www.sciencedirect.com/science/article/pii/S2666920X26001189) — (DOI pending Crossref indexing of the journal version) — **PDF retrieved 2026-10-04** from the authors' Research Square preprint to `pdf-sources/standardized-assessment-llm-english-proficiency-2026.pdf`; awaiting ingest (verify against the journal version)
-- [A socio-technical framework for educational excellence: Empirical validation of artificial intelligence integration](https://www.sciencedirect.com/science/article/pii/S2666920X26001098) — [DOI: 10.1016/j.caeai.2026.100647](https://doi.org/10.1016/j.caeai.2026.100647)
-- [Enhancing domain adaptation of LLM via model composition in solving medical exam questions](https://www.sciencedirect.com/science/article/pii/S2666920X26001001) — [DOI: 10.1016/j.caeai.2026.100638](https://doi.org/10.1016/j.caeai.2026.100638)
+_No articles pending as of 2026-10-04._
 
 ## Computers and Education Open (CEAO)
 
-- [Levels of AI awareness and pedagogical skills among Nigerian teachers: The differentials and correlates](https://www.sciencedirect.com/science/article/pii/S2666557326000728) — [DOI: 10.1016/j.caeo.2026.100401](https://doi.org/10.1016/j.caeo.2026.100401)
-- [A pilot educational framework for AI-enhanced digital manufacturing and reflective skill development](https://www.sciencedirect.com/science/article/pii/S2666557326000133) — [DOI: 10.1016/j.caeo.2026.100342](https://doi.org/10.1016/j.caeo.2026.100342)
+_No articles pending as of 2026-10-04._
 
 ## British Journal of Educational Technology (BJET)
 
