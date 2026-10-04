@@ -2662,3 +2662,66 @@
   - teacher-role
   - trust
   reason: "Integrated into three pages. agency: grep 'proxy' -> 0 and 'individual agency' -> 0 across 3,659 words, so the report's diagnostic - Bandura's three modes, with proxy agency (what institutional rules supply) missing where policy is absent - was a construct the page did not carry; placed in 'How agency appears in the knowledge base's research'. ai-detection: grep 'dull' -> 0 and 'avoid' -> 0, so the page carried detector reliability, false positives, bias and the arms race but nothing on the student-side behavioural response the report documents (students dulling their own answers to avoid a false accusation, teachers falling back on informal judgment it names AI-DAR); placed in 'Detector bias and the mechanism of the arms race'. educational-policy-ai: its survey evidence is entirely higher education (US universities, ABA law schools, 1,057 faculty) and grep 'school district' -> 0 with only a single K-12 bullet, so a nationally representative K-12 measurement of school-level policy coverage is a second sector rather than a restatement (the maintainer's accumulation rule); placed in 'Policy maturity gap'. DISMISSALS with evidence: ai-literacy (grep 'literacy' -> 231, 'agency' -> 7) already carries literacy frameworks at length; the report's three-literacy split (technical/market/self) is one more framework in a crowded area and its distinguishing half (the agency grid) is integrated on the agency page instead. governance (grep 'governance' -> 96, 'policy' -> 49) already carries the policy-versus-governance distinction and institutional change models, which is the report's own framing rather than a new claim. academic-integrity (grep 'cheat' -> 11, 'detection' -> 41, 'policy' -> 48) already carries the cheating and integrity-policy evidence base, and the report's 74%/69% coding is a description of educator concerns rather than a new integrity mechanism. trust (grep 'trust' -> 107) carries the trust construct exhaustively, including the surveillance-and-suspicion argument the relational-loss framing restates. teacher-role ('teacher' -> 5 in a 5,870-word page, 13 'agency' hits) is screened as the audience of the report rather than a claim about the role. administrator (543 words) is touched only as the actor proxy agency depends on, which is recorded on agency. ai-misuse-learning-harm (grep 'policy' -> 0, 'cheat' -> 0) is about misuse harming learning, which this report does not measure. framing-ai-use-for-students and reducing-ai-misuse carry the communicate-expectations and reduce-misuse claims; the report's brief-style guidance is an instance, and its five plays are classroom routines rather than a misuse-reduction finding. social-norms-ai-use (grep 'cheat' -> 4, 'values' -> 3) already carries norms and the pressures framing. student-ai-interaction carries inquiry and interaction taxonomies, not the educator-side policy and agency findings. curriculum-design ('curriculum' -> 18) is touched only as what a school already teaches. teacher-ai-competency is not claimed: the report's argument is that the needed skills are relational, not technical, and it offers no competency framework. ethics, mixed-methods-research, qualitative-research, conversational-ai, generative-ai and llm carry their classes; the report measures no learning outcome. Tool generation: no model is named or evaluated - the report studies policy and practice, not a tool - so no superseded-generation screen applies. Source is a non-peer-reviewed funder-supported report (Center for Digital Thriving, September 2026) with its own nationally representative survey (N = 1,018, fielded April-May 2025) and 43 interviews; full text saved (86,782 chars) with the supplied PDF preserved in pdf-sources/. Its survey fielding window and non-matched samples are recorded in the page's Limitations."
+
+- article: ai-feedback-violin-intonation-2026
+  date: 2026-10-04
+  integrated:
+  - ai-feedback-quality
+  no_change:
+  - arts-design-and-media-education
+  - conversational-ai
+  - feedback
+  - formative-assessment
+  - generative-ai
+  - llm
+  - mixed-methods-research
+  - motivation
+  - qualitative-research
+  - quantitative-research
+  - self-assessment
+  - self-regulated-learning
+  - teacher-role
+  reason: "Integrated into one page. ai-feedback-quality: the page's 'Quality dimensions' list carries accuracy, retrievability of evidence, helpfulness, timeliness, bias and ethics, and grep 'objective' -> 0 and 'sensor' -> 0 across 2,776 words, so a dimension the study actually demonstrates was absent - a domain where the target is machine-measurable, so the feedback's claims can be checked against a physical measurement (2,208 note-level pitch deviations in cents) rather than a rubric. Added as a dimension bullet. DISMISSALS with evidence: motivation (1,761 words, grep 'motivational' present) carries the construct the study's own contribution only instances - a satisfaction theme reported by 12 students through descriptive analysis, with no motivation measure taken. self-regulated-learning (grep 'regulation' -> 0 for this sense; the page is 3,461 words on measured self-regulation) is touched only by the authors' reading that individualized feedback strengthened students' sense of being tracked, which is inference from the same qualitative accounts. self-assessment (grep 'self-assessment' -> 3) is mentioned only in the paper's forward-looking recommendation about mobile tools for out-of-lesson practice, not as a finding. teacher-role (5,870 words, grep 'intonation' -> 0, 'orchestration' -> 15) is about how teachers orchestrate AI in class; this study deliberately removed the teacher from the feedback loop, so it makes no claim about the role. feedback and formative-assessment are the broad pages for those classes and the study adds no new feedback mechanism - only a new measurement channel, which is why the substance was filed on ai-feedback-quality instead. arts-design-and-media-education is the discipline umbrella and the study makes no discipline-level claim. generative-ai, llm and conversational-ai are tool classes; mixed-methods-research, qualitative-research and quantitative-research are method classes; the study measures no learning outcome beyond intonation. Tool generation: the models are named and current for the study date (ChatGPT-4o and DeepSeek-V3, 2024-2025 academic year), so no superseded-generation screen applies. Source is a Turkish-language open-access article with a full English abstract; full text saved (75,179 chars) and the PDF preserved in pdf-sources/. Its twelve-student single-group design is recorded in the page's Limitations."
+
+- article: teachers-instrumental-orchestration-ai-math-2026
+  date: 2026-10-04
+  integrated:
+  - teacher-role
+  no_change:
+  - adaptive-learning
+  - ai-literacy
+  - feedback
+  - formative-assessment
+  - generative-ai
+  - human-ai-collaboration
+  - learning-analytics
+  - misconceptions
+  - pedagogy
+  - qualitative-research
+  - scaffolding
+  - student-engagement
+  - teacher-ai-competency
+  reason: "Integrated into one page. teacher-role: the page's 'The orchestration metaphor' section already carries the behaviours via a 29-study PRISMA review (monitoring, judgment, intervention, orchestration; teachers accepting, modifying, rejecting or overriding AI suggestions; dashboards that overload attention), and grep 'AI-correcting' -> 0 and 'AI-mediating' -> 0, so the named typology the observation study produces was absent. Per the accumulation rule the claim is not restated: the weave adds the citation alongside the existing one and names the three new orchestration types plus the finding that content and ethical roles peak when the teacher corrects AI feedback. DISMISSALS with evidence: learning-analytics (2,676 words, grep 'dashboard' -> 9) carries dashboard use, including the overload finding, so the dashboard-monitoring type is an instance. human-ai-collaboration (grep 'orchestration' -> 4) already frames teacher-AI division of labour. teacher-ai-competency (2,894 words, grep 'validity' -> 3) carries the competency construct; the study documents behaviour rather than competency measures. ai-literacy (8,245 words) already carries the claim that correcting AI errors teaches critical use - the study's reading is an instance of it. misconceptions (grep 'misconceptions' present) carries student misconceptions; the paper notes the risk that AI errors seed them but measures none. pedagogy (1,676 words) and scaffolding (grep 'scaffold' present) cover the instructional classes; the study is observation, not scaffolding design. student-engagement is measured nowhere here (no engagement instrument). adaptive-learning, generative-ai and feedback are tool and topic classes. formative-assessment and qualitative-research carry their classes. Tool generation: no model version is named or evaluated - the study observes orchestration around national AI Digital Education Materials, Snorkl and OneNote - so no superseded-model screen applies; the tools and the December 2025 collection window are recorded on the page and in its Limitations. Source is a Korean-language article with an English abstract; full text saved (67,080 chars) and the PDF preserved in pdf-sources/."
+
+- article: standardized-assessment-llm-english-proficiency-2026
+  date: 2026-10-04
+  integrated:
+  - benchmark
+  no_change:
+  - assessment
+  - assessment-validity
+  - automated-assessment
+  - cognitive-diagnosis
+  - generative-ai
+  - item-response-theory
+  - k-12
+  - knowledge-graph
+  - language-learning
+  - llm
+  - multilingual-learning
+  - open-source
+  - prompt-engineering
+  - psychometrically-aware-ai
+  - quantitative-research
+  - teacher-role
+  reason: "Integrated into one page. benchmark: the page is 2,107 words on why benchmarks matter, and grep 'interpretab' -> 0, 'proficient' -> 0, so the reporting problem this paper addresses was absent - model ability expressed as a calibrated proficiency level rather than an accuracy percentage, with the ceiling effect that follows when frontier models exceed the top of the calibrated range. Added as a lesson bullet in 'Why benchmarks matter in AIED'. DISMISSALS with evidence: assessment-validity (4,794 words, grep 'consequential' -> 1) already names consequential validity as a category and applies it to AI scoring of human work, so this paper's note that its own benchmark lacks operational validation is an instance rather than a new claim; the page was linked inline for that reason. psychometrically-aware-ai (988 words, grep 'validity' -> 9) carries the construct; the paper's contribution to it is procedural (calibration plus standard setting), which is filed on benchmark. item-response-theory (grep 'item response' -> 3) and cognitive-diagnosis (grep 'diagnostic' -> 1) carry their methods; the paper applies them rather than extending them. automated-assessment (4,390 words, grep 'proficiency' -> 1, 'benchmark' -> 7) covers scoring of learner work, whereas this benchmark scores models. language-learning (grep 'second language' -> 1) and multilingual-learning cover the learner-side classes; the 2,050 learners are calibration data, not the studied population. llm, generative-ai and open-source are tool classes; k-12 and teacher-role are incidental (middle-school learners appear as calibration data, teachers only in a practice bullet for interpreting levels). knowledge-graph and prompt-engineering are technique mentions. assessment carries its class; quantitative-research the method class. Tool generation: the evaluated suite is current for the preprint's February 2026 posting (GPT-4o, Claude 4, Gemini 2.5 Pro, DeepSeek-R1), so no superseded-generation screen applies, but the preprint is not peer reviewed and the page records that plus its ceiling-effect and prompting-sensitivity limits. Full text saved (61,540 chars); the preprint PDF is preserved in pdf-sources/, and the entry noted that the journal version should be checked against it if supplied."
