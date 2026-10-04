@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-04T05:46:16-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -46,6 +46,7 @@ A large body of knowledge base research examines AI-generated formative feedback
 - **Sequenced feedback can backfire:** [[sequenced-ai-feedback-learning|Sequenced AI feedback]] (encouragement → hints → correct answer, designed to promote autonomy) actually **harmed learning** in a randomized experiment (N=199) despite boosting [[student-engagement|engagement]] and positive perceptions — a cautionary finding about feedback design.
 - **Learner-centered tools:** [[learner-centered-feedback-ai|PolyFeed]] combines ML suggestion models with [[teacher-role|teacher]] practice, showing how teachers adopt and adapt AI feedback suggestions; [[ai-internal-feedback-evaluative-judgments|AI-supported internal feedback]] helps undergraduates develop [[evaluative-judgment|evaluative judgment]].
 - **Rubric-guided prompting and role-aware feedback:** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] showed that iterative rubric co-refinement — clarifying performance descriptors and explicitly accepting implicit indicators of learning — drove LLM–human agreement on student design work from 54.75% to 81.25% (Cronbach's Alpha rising from 0.393 to 0.798), with the largest gains in the cognitively demanding Iteration & Reflection category. Prompting the same model under instructor, peer-reviewer, and grant-reviewer roles produced distinct evaluative feedback, and post-revision LLMs were more consistent than some human raters in applying performance thresholds — positioning rubric-guided LLMs as calibration and co-design partners in formative feedback environments, with human-in-the-loop oversight remaining essential.
+- **Agreement figures hide a direction: a model can hedge toward the middle category.** An LLM assessor tagging dialogue turns inside a conversation-based assessment matched human coding on 52.2% of 155 events, but used the hedged PARTIAL_CORRECT label more often than raters (53.5% against 41.3%) and flagged 5.4% of turns IRRELEVANT where raters flagged none ([[llm-multi-agent-conversation-assessment-2025|Hou et al., 2025]]).
 - **AI feedback sustains participation and drives gains at scale:** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]]'s semester-long field experiment across undergraduate tutorials found that individual GPT-4 formative feedback (spanning all three Hattie & Timperley dimensions — Feed-Back, Feed-Up, Feed-Forward) sustained the highest participation across eight open-ended tasks, lengthened student answers, and produced the strongest content learning gains — an effect driven by reliable, consistent AI provision, since when high-quality textual peer feedback was actually received, peer outcomes matched AI's.
 - **Feedback futures:** [[feedback-futures-genai|Feedback Futures]] synthesizes a special issue and argues the question is not *whether* [[generative-ai|GenAI]] can produce feedback but how to design feedback that supports learning, distilling recurring tensions across the field.
 
@@ -130,6 +131,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+[[llm-multi-agent-conversation-assessment-2025]] — A four-agent architecture for conversation-based assessment whose assessor hedges toward the middle category (Hou et al. 2025)
 - [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
 - [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide approaches to redesigning assessment in the GenAI era
 - [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: from provision to enactment
