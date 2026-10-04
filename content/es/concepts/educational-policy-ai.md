@@ -1,7 +1,7 @@
 ---
 title: Política educativa sobre IA
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-04T17:13:09-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,13 +12,17 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-04T02:59:54-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -92,6 +96,8 @@ La prueba práctica que las separa: una política puede leerse sobre el papel, p
 
 **Indicadores de gobernanza para el problema de la autenticación.** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher y Calderon (2025)]] aportan la capa de medición que implica esta distinción entre política y gobernanza, tratando la [[academic-integrity]] en la era de la IAG como un problema de gobernanza antes que de detección y juzgando la gobernanza académica contemporánea resiliente pero «no bien posicionada ni preparada» para proteger la autenticación de la [[assessment]] del estudiantado. Su marco contiene 130 preguntas de gobernanza bajo ocho dimensiones —Diseñar, Desarrollar, Formar, Implementar, Analizar, Informar, Evaluar y Mejorar—, y los ítems son preguntas sobre la maquinaria institucional y no escalas psicométricas: si el máximo consejo o junta de la institución recibe actualizaciones sobre los procesos y resultados de evaluación, si los indicadores clave de rendimiento cubren la calidad de la evaluación, qué porcentaje del estudiantado es conocido individualmente por el profesorado que lo evalúa, si las calificaciones extremadamente bajas o altas se verifican de forma cruzada y si existe una vía simple para derivar casos de fraude por encargo. El programa de reforma que lo acompaña se dirige a las arquitecturas de gobernanza, a las personas que ocupan roles de gobernanza y a las tecnologías y recursos que sostienen la evaluación, y los autores sostienen que poco desarrollo institucional rinde frutos sin el apoyo externo de la regulación, el [[benchmark|benchmarking]] y la competencia entre instituciones: la misma presión regulatoria que la página de [[regulation]] trata como la restricción vinculante de la reforma de la gobernanza.
 
+- **La brecha también se mide en K-12, no solo en las universidades.** Una encuesta representativa a nivel nacional de 1.018 docentes y directores de escuelas públicas de EE. UU. encontró que solo el 18% del profesorado y el 24% de los directores informaban de una política escolar sobre IA generativa: el mismo patrón de vacío por debajo de la institución que documenta esta página en la educación superior ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein y James, 2026]]).
+
 ### El déficit de política en la investigación sobre IA × aprendizaje socioemocional
 
 Una [[meta-analysis-systematic-review|revisión sistemática]] de 65 artículos en la intersección entre la [[ai-education|IA]] y el [[social-emotional-learning|aprendizaje socioemocional]] ([[policy-deficit-ai-sel-2026|Tran, Liu y Nguyen, 2026]]) documenta un «déficit de política»: casi tres cuartas partes de los estudios no enuncian implicaciones de política, y los que lo hacen a menudo carecen de especificidad orientada a actores. La revisión encuentra que la [[student-engagement|implicación]] en política se correlaciona con el medio de publicación, lo que refleja incentivos académicos que premian la novedad técnica por encima de la [[governance]] y la [[regulation]]. Propone un marco de «preguntas WH» (quién, qué, por qué, cuándo/dónde, cómo) y un cambio de «la implicación como añadido» a «la implicación como metodología»: tratar la articulación de políticas como una restricción de diseño de la investigación y no como un añadido a posteriori.
@@ -115,6 +121,7 @@ Una [[meta-analysis-systematic-review|revisión sistemática]] de 65 artículos 
 - [[student-support-and-success]] — el contexto de política para el despliegue del apoyo institucional
 
 ## Artículos conectados
+- [[tench-ai-policy-isnt-a-playbook-2026]] — Una encuesta representativa a nivel nacional de docentes y directores de EE. UU. sobre la cobertura de las políticas de IA, la agencia y cinco estrategias de aula (Tench, Weinstein y James, 2026)
 - [[gai-advocacy-practice-art-education-2026]] — Cuando las universidades promueven la IAG pero la práctica se queda corta: valoraciones del estudiantado e implicación en el proceso creativo en la educación artística
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Políticas de aula sobre IA de futuros docentes de inglés: qué permitieron, limitaron y prohibieron (Nash y Burriss, 2026)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Un marco con humano en el bucle para la puntuación asistida por IA en la evaluación de escritura a gran escala

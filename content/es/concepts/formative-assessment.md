@@ -1,7 +1,7 @@
 ---
 title: Evaluación formativa
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-10-03T02:52:14-04:00"
+updated: "2026-10-04T17:12:06-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, fo
 connected_faqs: [ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-04T05:46:16-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,7 @@ ai_assist:
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -59,6 +59,7 @@ Un amplio conjunto de investigaciones de la base de conocimiento examina la retr
 - **La retroalimentación secuenciada puede volverse en contra:** [[sequenced-ai-feedback-learning|la retroalimentación secuenciada con IA]] (ánimo, después pistas, después respuesta correcta, diseñada para promover la autonomía) **perjudicó el aprendizaje** en un experimento aleatorizado (N=199) pese a aumentar la [[student-engagement|implicación]] y las percepciones positivas, un hallazgo de cautela sobre el diseño de la retroalimentación.
 - **Herramientas centradas en quien aprende:** [[learner-centered-feedback-ai|PolyFeed]] combina modelos de sugerencias de aprendizaje automático con la práctica del [[teacher-role|profesorado]] y muestra cómo adopta y adapta el profesorado las sugerencias de retroalimentación de la IA; la [[ai-internal-feedback-evaluative-judgments|retroalimentación interna apoyada por IA]] ayuda al estudiantado de grado a desarrollar el [[evaluative-judgment|juicio evaluativo]].
 - **Prompts guiados por rúbrica y retroalimentación sensible al papel:** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] mostraron que el refinamiento iterativo y conjunto de la rúbrica (aclarar los descriptores de desempeño y aceptar explícitamente los indicadores implícitos de aprendizaje) elevó el acuerdo entre los LLM y las personas sobre el trabajo de diseño del estudiantado del 54,75% al 81,25% (el alfa de Cronbach subió de 0,393 a 0,798), con las mayores ganancias en la categoría cognitivamente exigente de Iteración y Reflexión. Dar el mismo modelo bajo los papeles de instructor, revisor entre pares y evaluador de subvenciones produjo retroalimentación evaluativa distinta, y los LLM posteriores a la revisión fueron más consistentes que algunas personas evaluadoras al aplicar los umbrales de desempeño, lo que sitúa a los LLM guiados por rúbrica como socios de calibración y codiseño en entornos de retroalimentación formativa, con la supervisión humana en el bucle todavía como esencial.
+- **Las cifras de acuerdo ocultan una dirección: un modelo puede inclinarse hacia la categoría intermedia.** Un evaluador LLM que etiquetaba turnos de diálogo dentro de una evaluación basada en conversación coincidió con la codificación humana en el 52,2% de 155 eventos, pero usó la etiqueta matizada PARTIAL_CORRECT más a menudo que las personas evaluadoras (53,5% frente a 41,3%) y marcó el 5,4% de los turnos como IRRELEVANT donde las personas evaluadoras no marcaron ninguno ([[llm-multi-agent-conversation-assessment-2025|Hou et al., 2025]]).
 - **La retroalimentación con IA sostiene la participación y produce ganancias a escala:** el experimento de campo de un semestre de [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]] en tutorías de grado encontró que la retroalimentación formativa individual de GPT-4 (que abarca las tres dimensiones de Hattie y Timperley: Feed-Back, Feed-Up, Feed-Forward) mantuvo la participación más alta a lo largo de ocho tareas abiertas, alargó las respuestas del estudiantado y produjo las mayores ganancias de aprendizaje de contenido, un efecto impulsado por un suministro de IA fiable y consistente, ya que cuando se recibió de verdad una retroalimentación textual entre pares de alta calidad, los resultados de los pares igualaron a los de la IA.
 - **El futuro de la retroalimentación:** [[feedback-futures-genai|Feedback Futures]] sintetiza un número especial y sostiene que la cuestión no es *si* la [[generative-ai|IA generativa]] puede producir retroalimentación, sino cómo diseñar una retroalimentación que apoye el aprendizaje, y destila las tensiones recurrentes del campo.
 - **La mayor parte de la retroalimentación formativa es momentánea, no sostenible.** En una revisión de alcance de 37 estudios de evaluación auténtica, 23 usaron la retroalimentación formativa para una mejora inmediata, pero solo cuatro usaron retroalimentación sostenible que el estudiantado transfiere a contextos futuros: el patrón reactivo que reproducen las herramientas actuales de retroalimentación con IA ([[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud y Du (2025)]]).
@@ -138,6 +139,7 @@ Los sistemas de evaluación formativa pueden pasar de ser herramientas de apoyo 
 - [[summative-assessment]] — Evaluación sumativa: formatos resistentes a la IA (exámenes orales, supervisados y con libros cerrados)
 
 ## Artículos conectados
+- [[llm-multi-agent-conversation-assessment-2025]] — Una arquitectura de cuatro agentes para la evaluación basada en conversación cuyo evaluador se inclina hacia la categoría intermedia (Hou et al. 2025)
 - [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
 - [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide approaches to redesigning assessment in the GenAI era
 - [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: from provision to enactment

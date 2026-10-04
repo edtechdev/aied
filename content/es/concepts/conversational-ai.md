@@ -82,6 +82,10 @@ La IA conversacional se entiende mejor como una **modalidad de interacción** qu
 
 Elija agentes conversacionales para apoyar la enseñanza, la [[motivation|motivación]] y la [[metacognition|metacognición]] y no solo para responder preguntas, y diseñe interacciones fundamentadas en la HCI, participativas y centradas en las personas. Protéjase contra la [[cognitive-offloading|dependencia excesiva]] combinando la CAI con instrucción en [[ai-literacy|alfabetización en IA]] y con [[feedback|retroalimentación]] que mantenga a quien aprende cognitivamente productivo. Atienda explícitamente la alfabetización en IA y la usabilidad, ya que son estas —y no la destreza digital general— las que impulsan la adopción y el no uso ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha y Schiavone 2026]]), y acompañe el despliegue con políticas claras de uso de IA, etiquetas de evaluación y formación. Evalúe la CAI por sus resultados pedagógicos —y no solo por la finalización de tareas— y planifique la equidad y la [[accessibility|accesibilidad]] desde el principio y no como un añadido tardío.
 
+## Cita
+
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
+
 ## Conceptos conectados
 
 - [[intelligent-tutoring]]
@@ -126,7 +130,3 @@ Elija agentes conversacionales para apoyar la enseñanza, la [[motivation|motiva
 - [[culturally-aware-student-stress-chatbot-2026]] — Un chatbot de IA culturalmente consciente para la detección del estrés y el apoyo al bienestar entre estudiantes universitarios paquistaníes mediante NLP y aprendizaje automático
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: la tutoría con IA y la humana producen ganancias de aprendizaje equivalentes para el GRE
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: andamiar la búsqueda de ayuda específica con IA durante la resolución de problemas
-## Cita
-
-Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
-

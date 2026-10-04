@@ -1,7 +1,7 @@
 ---
 title: Calidad de la retroalimentación de la IA
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-04T17:15:18-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,13 +9,13 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-04T05:15:29-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -95,6 +95,7 @@ La calidad de la retroalimentación de la IA abarca varias dimensiones recogidas
 - **Recuperabilidad de la evidencia:** ¿puede el sistema llegar realmente a la evidencia que juzga? [[ai-assisted-physics-lab-report-assessment-2026|Abreu, Stari y Martí (2026)]] separan la evidencia presente en una entrega de la evidencia disponible tras el procesamiento: una ecuación, un gráfico o una unidad pueden incluirse en un informe y no recuperarse nunca, de modo que la retroalimentación sobre ese criterio no se apoya en nada, lo que convierte la recuperación en una dimensión de la calidad distinta de la precisión o la calibración. Su respuesta es exigir que cada puntuación cite evidencia concreta del informe, para que una observación que no puede rastrearse hasta el texto se vea como no respaldada.
 - **Utilidad:** ¿guía la retroalimentación la mejora? ([[feedback|Bucle de retroalimentación]], [[becerra-aicofe-feedback-2026]])
 - **Puntualidad:** ¿se entrega la retroalimentación cuando quien aprende puede actuar sobre ella? ([[formative-assessment]])
+- **Verificabilidad frente a una medida objetiva:** cuando el objetivo es medible por máquina, la retroalimentación puede comprobarse contra una medición física en lugar de una rúbrica. [[ai-feedback-violin-intonation-2026|Aksoy (2026)]] extrajo 2.208 desviaciones de entonación a nivel de nota en cents y entregó esas tablas al modelo, de modo que sus afirmaciones tenían un referente medible.
 - **Sesgo:** ¿es la retroalimentación equitativa entre poblaciones de estudiantes? ([[bias-mitigation]], [[equity-in-ai-education]])
 - **Ética y transparencia:** solo 14 de 50 universidades mejor clasificadas tenían orientaciones específicas sobre el uso docente de la IA para la retroalimentación, y el estudiantado describió la retroalimentación de IA no revelada como «poco sincera»: la transparencia y el consentimiento determinan si se acepta la retroalimentación, no solo si es precisa ([[luo-eaton-ai-student-feedback-ethics-2026|Luo y Eaton (2026)]]).
 - **Calibración:** ¿sabe el sistema cuándo es incierto? ([[automated-assessment|evaluación con IA consciente de la confianza]])
@@ -125,6 +126,7 @@ La calidad de la retroalimentación de la IA se conecta de forma fundamental con
 - [[trust-calibration]]
 
 ## Artículos conectados
+- [[ai-feedback-violin-intonation-2026]] — Retroalimentación de IA sobre la entonación comprobada contra 2.208 desviaciones de tono medidas por máquina (Aksoy 2026)
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: un sistema modularizado de evaluación automatizada de la escritura para ensayos argumentativos
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Evaluación de los comentarios de ChatGPT dentro de vídeos: calidad lingüística, semántica y perceptiva (Wang, Du y Jin 2026)
 - [[luo-eaton-ai-student-feedback-ethics-2026]]

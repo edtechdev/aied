@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Vibe coding
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-10-02T22:23:31-04:00"
+updated: "2026-10-04T17:12:06-04:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,13 +11,13 @@ level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
 translation_of: concepts/vibe-coding
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-10-04T16:17:27-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -59,6 +59,8 @@ La promesa de desarrollo de usuarios finales del vibe coding tiene que ver con q
 
 El vibe coding reabre preguntas centrales sobre qué se aprende cuando la IA automatiza la implementación. Como la persona usuaria no lee el código, debe confiar en el comportamiento del modelo, lo que convierte el vibe coding en un caso de alto riesgo de la tensión entre la [[agency|agencia]] y la [[cognitive-offloading|dependencia excesiva]] que recorre la programación asistida por IA. Los currículos están respondiendo al pasar de enseñar a implementar a enseñar a dirigir, verificar y auditar artefactos generados por IA (véanse [[reshaping-cs-education-genai|la reconfiguración de la informática de grado]] y la [[agentic-ai|ingeniería de software agéntica]]). El vibe coding también cambia la posición epistémica de quien aprende: el éxito depende menos de escribir código que de expresar la intención con precisión y evaluar el comportamiento frente a los objetivos, competencias más cercanas al [[computational-thinking|pensamiento computacional]] y a la escritura estructurada que al dominio tradicional de la sintaxis.
 
+Un segundo límite aparece en la propia construcción: eliminar la barrera de la programación puede dejar intacta la carga de diagnóstico. Dos estudios de caso de ingeniería hicieron que un docente construyera simulaciones web funcionales de un sistema de gestión térmica de baterías y de tres protocolos ARQ pidiendo a Gemini en lenguaje llano en unas pocas horas ([[caee-vibe-coding-simulation-development-engineering-education-2026|Tarasak et al. (2026)]]). Un error de paquete duplicado sobrevivió entonces a prompts repetidos, incluido uno que enunciaba el comportamiento requerido. Solo se corrigió cuando el docente razonó desde el comportamiento del protocolo hasta un intervalo de tiempo de espera insuficiente, un parámetro que la interfaz nunca exponía. No se midió el efecto de ninguna de las dos simulaciones sobre el aprendizaje, así que el relato establece viabilidad y no eficacia.
+
 ### Conexiones con conceptos relacionados
 
 El vibe coding conecta de forma natural con la [[prompt-engineering|ingeniería de prompts]] (la calidad del prompt es el mecanismo del desarrollo guiado por prosa), con la [[cs-education|enseñanza de la informática]] (como el dominio donde más se usa y más se discute la técnica), con el [[computational-thinking|pensamiento computacional]] (el modelado mental que predice el éxito incluso sin acceso al código), con la [[writing-education|enseñanza de la escritura]] (la escritura convertida en habilidad de programación) y con la [[agentic-ai|IA agéntica]] (dirigir un modelo hacia un artefacto en lugar de construirlo a mano). También se cruza con la [[ai-literacy|alfabetización en IA]] y el [[teacher-role|rol docente]], ya que la capacidad de construir las propias herramientas cambia lo que pueden hacer docentes y estudiantes. Por último, plantea preguntas de [[academic-integrity|integridad académica]] y de evaluación idénticas a las que plantea la generación de código por IA en toda la educación en informática.
@@ -84,6 +86,7 @@ Un estudio de caso a nivel de facultad en esta base de conocimiento aporta la ca
 - [[vibe-coding-writing-cs-achievement-2026]] — El rendimiento en informática y las habilidades de escritura predicen la competencia en vibe coding (estudio empírico de CHI 2026)
 - [[gaide-vibe-coding-k12-teachers]] — Un marco orientativo para docentes de K-12 en la creación de tecnologías de aprendizaje impulsadas por IA mediante vibe coding
 - [[vibe-coding-programming-process-visualizer]] — De la idea al aula en días: usar el «vibe coding» para crear un visualizador del proceso de programación a partir de registros de actividad del IDE
+- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — El vibe coding construyó dos simulaciones de ingeniería en horas; diagnosticar un error de protocolo seguía necesitando al docente
 - [[prompt-problems-nl-programming-mistakes]] — Entender las percepciones, los errores y los enfoques de depuración del estudiantado al resolver tareas de programación en lenguaje natural
 - [[code-to-learn-genai-artifact-construction-2026]] — Aprender programando con IA generativa: un marco teóricamente fundamentado para la construcción de artefactos en la educación secundaria superior
 - [[reshaping-cs-education-genai]] — Reconfigurar la enseñanza de grado en informática para la IA generativa

@@ -1,20 +1,24 @@
 ---
 title: Brecha digital
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-04T17:14:09-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-04T16:06:05-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -70,6 +74,8 @@ La instrucción escolar estructurada en IA es un catalizador psicológico pero n
 
 - **La compresión de modelos es otra vía hacia hardware limitado.** Un tutor adaptativo de pidgin nigeriano ajustado sobre un corpus de 416.343 entradas mantuvo la estructura semántica y la coherencia a 8 bits, mientras que las versiones de 4 y 5 bits redujeron la latencia de inferencia con solo una degradación mínima de la calidad instruccional, y hablantes nativos comprobaron la aceptabilidad cultural en lugar de solo las métricas ([[multilingual-adaptive-learning-nigeria-2026|Nwogo et al., 2026]]).
 
+- **Un laboratorio simulado puede reproducir la factura de equipamiento que debía evitar.** Una [[meta-analysis-systematic-review|revisión sistemática]] de 11 estudios de gemelos digitales en la educación superior STEM encontró costes de hardware de \$2.000-\$15.000 por nodo de puesto de trabajo funcional en cuatro estudios, con entidades físicas que limitaban el acceso a 1-3 estudiantes simultáneos en cinco, y ningún estudio incluido produjo un análisis de retorno de la inversión ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al. (2026)]]). La revisión compara ese coste de entrada con equipos de caracterización física que cuestan desde \$30.000 hasta más de \$150.000.
+
 ### Conexiones con conceptos relacionados
 
 La brecha digital es una preocupación central de la investigación sobre [[equity-in-ai-education|equidad en la educación con IA]], estrechamente ligada a la [[ai-literacy|alfabetización en IA]] (que se posiciona como un mecanismo central para abordar barreras estructurales) y a la [[ethics|ética]] y la [[bias-mitigation|mitigación de sesgos]] (ya que el sesgo algorítmico afecta de forma desproporcionada a grupos marginados). Se conecta con la [[ai-education|educación con IA]] y la [[higher-ed|educación superior]] como los entornos donde se manifiestan las brechas de acceso y capacidad, y se relaciona con la [[student-experience|experiencia del estudiantado]] en la medida en que determina quién puede participar de forma significativa en un aprendizaje configurado por la IA.
@@ -107,3 +113,4 @@ La brecha digital es una preocupación central de la investigación sobre [[equi
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — La desigualdad digital como problema distributivo frente a la colonialidad algorítmica como problema epistémico, en instituciones sudafricanas históricamente desfavorecidas
 
 - [[llmersion-local-first-language-learning-2026]] — LLMersion: un marco de agente de IA local primero para el aprendizaje de idiomas en casa a bajo coste orientado a la equidad educativa
+- [[caee-digital-twins-stem-education-systematic-review-2026]] — Los laboratorios de gemelos digitales conllevan una factura de equipamiento que limita el acceso simultáneo

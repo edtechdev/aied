@@ -1,7 +1,7 @@
 ---
 title: Descarga cognitiva
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-03T02:52:14-04:00"
+updated: "2026-10-04T17:15:18-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-04T10:52:15-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-09-28"
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -56,7 +56,7 @@ Los artículos de la base de conocimiento documentan la descarga cognitiva en va
 - **Pérdidas de aprendizaje por IA sin guía:** los [[generative-ai-guardrails-harm-learning|ensayos controlados aleatorizados de matemáticas en secundaria]] muestran que la IA generativa sin [[guardrails|barreras de seguridad]] produce peores resultados de aprendizaje que la instrucción tradicional. El [[generative-ai-reduced-study-time-math|tiempo de estudio reducido]] se correlaciona con un menor aprendizaje: el estudiantado completa las tareas más rápido pero retiene menos.
 - **Una prueba aleatorizada de la predicción de la descarga con un retraso de 45 días, y el déficit no se explica solo por el tiempo ahorrado:** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] asignó al azar a 120 estudiantes de grado a estudiar temas de IA y aprendizaje automático, bien con ChatGPT sin restricciones (interfaz web de GPT-4, sin orientación sobre los prompts) o bien con métodos tradicionales sin IA, y después aplicó una prueba conceptual sorpresa de 20 preguntas 45 días más tarde. El grupo asistido por IA obtuvo un 57,5% frente a un 68,5% (t(83) = −3,19, p = .002, d de Cohen = 0,68), y la desventaja se mantuvo en un ANCOVA que mantenía constante el tiempo de estudio autodeclarado (F(1, 82) = 7,89, p = .006; medias ajustadas 6,50 frente a 5,85), así que no era solo un artefacto de la cantidad de tiempo. El argumento sobre la descarga que ofrece el artículo es que ChatGPT aporta directamente la síntesis y la explicación, lo que lo convierte en una forma de delegación cualitativamente distinta de la de una calculadora: una que puede absorber la comprensión y no solo la recuperación.
 
-- **La descarga no siempre es dañina: la condición límite del «entrenador»:** [[coach-not-crutch-ai-writing|Lira et al. (2025)]] muestran que la IA puede reducir el esfuerzo de práctica *y* mejorar el entorno de aprendizaje, logrando «trabajar menos, aprender más». Las personas adultas que practicaron la escritura con una herramienta de IA escribieron mejores cartas sin IA que quienes practicaron solas, incluso por encima de la retroalimentación personalizada de editores humanos, y sin inflación de la ilusión de dominio. La reconciliación con los daños anteriores está en la **forma de la descarga**: la IA de Lira et al. *andamiaba* (mostraba ejemplos y retroalimentación manteniendo a quien aprende dentro del bucle) en lugar de *reemplazar* el acto cognitivo. [[ai-making-us-stupid|La perspectiva de las habilidades frente a las capacidades básicas]] converge en la misma frontera: **la IA que actúa como entrenadora conserva o mejora la habilidad; la IA que sustituye corre el riesgo de la decadencia.** Así que el efecto de la descarga sobre el aprendizaje es condicional y no intrínseco.
+- **La descarga no siempre es dañina: la condición límite del «entrenador»:** [[coach-not-crutch-ai-writing|Lira et al. (2025)]] muestran que la IA puede reducir el esfuerzo de práctica *y* mejorar el entorno de aprendizaje, logrando «trabajar menos, aprender más». Las personas adultas que practicaron la escritura con una herramienta de IA escribieron mejores cartas sin IA que quienes practicaron solas, incluso por encima de la retroalimentación personalizada de editores humanos, y sin inflación de la ilusión de dominio. La reconciliación con los daños anteriores está en la **forma de la descarga**: la IA de Lira et al. *andamiaba* (mostraba ejemplos y retroalimentación manteniendo a quien aprende dentro del bucle) en lugar de *reemplazar* el acto cognitivo. [[ai-making-us-stupid|La perspectiva de las habilidades frente a las capacidades básicas]] converge en la misma frontera: **la IA que actúa como entrenadora conserva o mejora la habilidad; la IA que sustituye corre el riesgo de la decadencia.** [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026|Kilinc et al. (2026)]] ponen cifras a esa frontera en un aula de agricultura y STEM de secundaria. Entre 42 estudiantes de octavo curso repartidos en 12 grupos, la adopción del modelo representó el 74,1% de los turnos codificados de implicación colaborativa en el perfil de mayor mejora, mientras que la descarga cognitiva y el bloqueo colaborativo juntos alcanzaron el 80,8% en el perfil con dificultades. Así que el efecto de la descarga sobre el aprendizaje es condicional y no intrínseco.
 
 - **[[student-engagement|Implicación]] crítica frente a descarga:** [[favero-critical-ai-tutors-empower-enslave-2025|Favero et al.]] enmarcan los [[intelligent-tutoring|tutores de IA]] como empoderadores (apoyan una cognición activa) o esclavizantes (habilitan una descarga pasiva), lo que conecta con la [[research-methods-aied|investigación]] sobre el [[critical-thinking|pensamiento crítico]].
 
@@ -113,6 +113,7 @@ los riesgos más importantes de la IA en la educación:
 - **Desplazamiento del aprendizaje:** [[ai-making-us-stupid|la investigación sobre los efectos cognitivos de la IA]] documenta cómo la disponibilidad de la IA reduce el procesamiento esforzado: el «efecto Google extendido al razonamiento». [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] aíslan esto como un *patrón* de uso distinto: la **aceptación con poca verificación** (aceptar sin crítica el resultado de la IA) predijo un peor [[learning-gains|rendimiento académico]], mientras que la **integración evaluativa** (usar la IA para apoyar la comprensión) predijo un mejor rendimiento, y la **frecuencia** de uso por sí sola no predijo ni lo uno ni lo otro. La dependencia excesiva es, por tanto, un *modo de uso* que puede separarse de cuánto usa el estudiantado la IA.
 - **El problema de la agencia:** [[aied-unfinished-mission-bypass|la misión inacabada de la AIED]] enmarca la dependencia excesiva como una crisis de agencia y de motivación: el estudiantado se salta el aprendizaje no porque la IA sea irresistible, sino porque las tareas de aprendizaje parecen no tener sentido cuando la IA puede completarlas sin esfuerzo.
 - **Erosión de la motivación:** la [[ai-availability-student-motivation|investigación sobre la motivación del estudiantado]] encuentra que saber que la IA está disponible reduce el valor percibido de aprender la habilidad por uno mismo, un cálculo motivacional que afecta especialmente a quien aprende y es novato.
+- **La persistencia también se erosiona, y rápido.** Tras unos diez minutos con un asistente que respondía a petición, quienes participaban se saltaron 0,20 de los problemas sin ayuda frente a 0,11 del grupo de control y resolvieron 0,57 frente a 0,73, replicándose en la comprensión lectora ([[liu-ai-assistance-reduces-persistence-2026|Liu et al., 2026]]).
 - **Deuda de alfabetización:** la [[agentic-literacy-debt|deuda de alfabetización agéntica]] describe el déficit acumulativo de habilidades que se desarrolla cuando el estudiantado depende habitualmente de la IA en lugar de desarrollar sus propias competencias, de forma análoga a la deuda técnica en el software.
 - **Ciclos de fatiga:** la [[ai-fatigue-academic-contexts|investigación sobre la fatiga ante la IA]] identifica una paradoja en la que la dependencia excesiva conduce a una fatiga cognitiva por la gestión constante de la interacción con la IA, que a su vez impulsa MÁS dependencia, un círculo vicioso.
 - **La regla de la ubicación:** [[brcic-effortless-trap-productive-struggle-2026|la trampa sin esfuerzo]] reencuadra el debate entre permitir y prohibir como una cuestión de ubicación: una ayuda de IA sin salvaguardas dejó al estudiantado de secundaria un 17% peor en un examen sin ayuda, mientras que el mismo modelo reconstruido para retener las respuestas eliminó el daño. Su diagnóstico, *«si dejar entrar a la IA hace que la tarea se sienta sin esfuerzo, está en el lugar equivocado»*, asegura el primer intento difícil y la comprobación final sin ayuda como los momentos en los que la dependencia excesiva se oculta más fácilmente como una «ilusión de aprendizaje».
@@ -171,6 +172,8 @@ Dos estudios controlados del lote reciente fijan las dos mitades de esta afirmac
 - [[cognitive-surrender]]
 
 ## Artículos conectados
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Grupos que empezaron iguales divergieron: 74,1% de adopción del modelo en un perfil frente a 80,8% de descarga y bloqueo en otro (Kilinc et al. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — La asistencia de IA redujo la persistencia y el desempeño sin ayuda en tres ECA (Liu et al. 2026)
 - [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT como muleta cognitiva: un ensayo controlado aleatorizado sobre la retención de conocimientos 45 días después (Barcaui 2025)
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — From cognitive outsourcing to reallocation: 3P analysis of student–GenAI engagement in unsupervised assessments (Yan et al. 2026)
 - [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI

@@ -1,7 +1,7 @@
 ---
 title: Equidad
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-03T02:52:14-04:00"
+updated: "2026-10-04T17:09:45-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 

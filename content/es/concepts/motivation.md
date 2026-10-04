@@ -1,7 +1,7 @@
 ---
 title: Motivación
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-04T17:09:45-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,13 +10,17 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-03T12:32:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-10-04"
     agent: hermes-agent
 ---
 
@@ -41,7 +45,7 @@ La motivación es un constructo fundacional en la investigación educativa, y el
 
 ## Temas clave de investigación
 
-**Los efectos de la IA en la motivación del estudiantado** constituyen la línea de investigación más directa. **[[ai-availability-student-motivation]]** examina cómo la disponibilidad de la asistencia de IA afecta la motivación y la persistencia del estudiantado, en conexión con la investigación sobre la [[cognitive-offloading|dependencia excesiva]] y la erosión de la motivación cuando la IA hace el trabajo. **[[scheu-mobile-chatbot-journaling-motivation-2026]]** explora el diario con [[conversational-ai|chatbot]] móvil como intervención motivacional. **[[ai-learning-tools-engineering-education-needs]]** examina qué motiva al estudiantado a adoptar herramientas de aprendizaje con IA en la [[engineering-education|educación en ingeniería]].
+**Los efectos de la IA en la motivación del estudiantado** constituyen la línea de investigación más directa. **[[ai-availability-student-motivation]]** examina cómo la disponibilidad de la asistencia de IA afecta la motivación y la persistencia del estudiantado, en conexión con la investigación sobre la [[cognitive-offloading|dependencia excesiva]] y la erosión de la motivación cuando la IA hace el trabajo. En cuanto a la persistencia en concreto, basta con una exposición breve: diez minutos con un asistente que respondía cuando se le pedía hicieron que los participantes omitieran 0,20 de los problemas sin ayuda, frente a 0,11 en los controles ([[liu-ai-assistance-reduces-persistence-2026|Liu et al., 2026]]). **[[scheu-mobile-chatbot-journaling-motivation-2026]]** explora el diario con [[conversational-ai|chatbot]] móvil como intervención motivacional. **[[ai-learning-tools-engineering-education-needs]]** examina qué motiva al estudiantado a adoptar herramientas de aprendizaje con IA en la [[engineering-education|educación en ingeniería]].
 
 Un metaanálisis de 42 estudios (56 tamaños de efecto, 6.059 estudiantes) encontró que el aprendizaje apoyado en IA generativa elevó la motivación en g = 0,764 de Hedges (IC del 95% [0,566, 0,962]), pero con I² = 93,7% y un intervalo de predicción del 95% de [−0,689, 2,217], el promedio oculta contextos en los que el efecto es casi nulo o negativo ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 - **El uso irreflexivo erosiona la motivación, y más en los hombres.** El uso irreflexivo de la IAG (aceptar respuestas sin examinarlas) predijo una menor motivación (β = −0,54) y una menor [[self-efficacy|autoeficacia]] (β = −0,37) entre 487 estudiantes universitarios, y el efecto sobre la motivación fue significativamente más fuerte en los estudiantes hombres mientras que el efecto sobre la autoeficacia lo fue en las mujeres ([[genai-thoughtless-use-self-directed-learning-2026|Zhao y Gu, 2026]]).
@@ -93,6 +97,7 @@ La motivación es el constructo padre de la [[self-determination-theory|teoría 
 
 ## Artículos conectados
 
+- [[liu-ai-assistance-reduces-persistence-2026]] — El uso breve de la IA redujo la persistencia en problemas posteriores sin ayuda (Liu et al. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Retroalimentación automatizada en la escritura argumentativa: el papel de la receptividad y la percepción de la retroalimentación en estudiantes de secundaria
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — La paradoja del esfuerzo y el círculo vicioso de la asistencia sin fricción
 - [[cui-motivation-roles-metacognitive-genai-2026]] — Motivación y roles en la implicación metacognitiva con IA generativa
