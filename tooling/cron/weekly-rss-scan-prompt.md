@@ -120,12 +120,11 @@ Run `python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py 
 ```
 cd [YOUR_WIKI_PATH]
 python3 tooling/scripts/run-gates.py     # concept registry + inline-link + list-formatting gates
-python3 tooling/scripts/generate-llms-files.py
 npm run build
 git add -A
 git commit -m "Weekly journal RSS ingestion: X new articles"
 ```
-**Do NOT rebuild `public/aied.epub` / `public/aied.pdf` here** — they are local committed artifacts, rebuilt only on explicit request (they are slow and CI does not build them). **Do NOT push**: a push needs explicit per-occurrence approval from the maintainer; commit locally and say the commit is ready to push.
+**Do NOT rebuild `public/aied.epub` / `public/aied.pdf` here** — they are local committed artifacts, rebuilt only on explicit request (they are slow and CI does not build them). **`public/llms.txt`, `llms-concepts.txt` and `llms-full.txt` are opt-in on the same terms** (maintainer rule, 2026-09-16): leave them alone during a weekly ingest and regenerate them only when the maintainer asks, since they are large committed artifacts whose churn should not ride along with an ingestion batch. **Do NOT push**: a push needs explicit per-occurrence approval from the maintainer; commit locally and say the commit is ready to push.
 
 ### 6. Refresh the live preview
 ```
