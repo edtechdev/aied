@@ -6,8 +6,11 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-09-29
-**Total backlog:** 25 OpenAlex harvest candidates still being pursued, listed with no outcome · 8 new articles · 54 truncated source texts awaiting PDFs · 15 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-10-04
+**Total backlog:** 10 articles awaiting full text (2 from the 2026-09-25 harvest, 1 from the 2026-09-29 harvest, 5 CAEAI, 2 CEAO — 3 retrieved, 7 blocked) · 53 truncated source texts awaiting PDFs · 15 pages awaiting a full text before their practice and limitations sections can be written
+
+_Entries marked **INGESTED** are resolved: they are kept only because they record the harvest slug → final
+slug mapping. They are not pending work, and the totals above count them as done._
 
 ## OpenAlex harvest (2026-09-25)
 
@@ -38,8 +41,6 @@ Relevant, evidence-bearing AI-in-education research found through OpenAlex and n
 - [From tool to scaffold: structured human–AI collaboration and its effects on academic writing and digital critical thinking among Saudi EFL learners](https://doi.org/10.3389/fpsyg.2026.1830103) - quasi-experiment | mixed | 2026-05-26 - Quasi-experimental mixed-methods study with 53 EFL students measuring writing performance and critical thinking. `accept` — **INGESTED 2026-09-25** as `human-ai-collaboration-academic-writing-2026`
 - [From automated scoring to learning diagnosis: a mechanism study of AI-supported formative assessment in English writing](https://doi.org/10.3389/fpsyg.2026.1905455) - quasi-experiment | mixed | 2026-09-23 - Quasi-experiment with 96 students measuring diagnostic accuracy, feedback actionability and revision outcomes. `accept` — **INGESTED 2026-09-27** as `automated-scoring-learning-diagnosis-english-writing-2026`
 
-### Acta Psychologica
-- [Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis](https://doi.org/10.1016/j.actpsy.2026.107734) - meta-analysis | synthesis | 2026-09-08 - Three-level meta-analysis of 22 studies synthesizing quantitative evidence on generative AI in PBL/PjBL. `accept`
 
 ### Aminu Kano Academic Scholars Association Multidisciplinary Journal
 - [Impact of real-time AI feedback on the technical skill acquisition of STEM students in Colleges of Education in Kwara State](https://doi.org/10.64726/ve5g5r44) - quasi-experiment | objective | 2026-07-26 - Quasi-experimental pretest/posttest control-group study of AI feedback with 240 students. `accept` — **INGESTED 2026-09-25** as `real-time-ai-feedback-technical-skills-2026`
@@ -65,11 +66,9 @@ Relevant, evidence-bearing AI-in-education research found through OpenAlex and n
 ### Journal of Science Education and Technology
 - [Exploring the Capacity of Large Language Models to Simulate Students’ Scientific Thinking: Insights for Responsive Teaching](https://doi.org/10.1007/s10956-026-10333-5) - comparative evaluation | objective | 2026-05-21 - Empirically compares multiple LLMs against 8820 real students' ideas across science domains. `accept` — **INGESTED 2026-09-25** as `llm-simulating-student-scientific-thinking-2026`
 
-### Learning and Individual Differences
-- [Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception](https://doi.org/10.1016/j.lindif.2026.102969) - empirical study (n=1507) | mixed | 2026-07-21 - Large study of 1507 secondary students linking automated feedback receptivity to measured revision performance and interest change. `accept`
 
 ### Online Journal of Music Sciences
-- [Yapay zekâ, yapay zekâ söyle bana: Keman eğitiminde yapay zekâ destekli geri bildirimin entonasyona etkisine yönelik bir model çalışması](https://doi.org/10.31811/ojomus.1897062) - mixed-methods experiment | mixed | 2026-05-04 - Four-week mixed-methods experiment with 12 violin students measuring objective intonation performance under AI feedback. `accept`
+- [Yapay zekâ, yapay zekâ söyle bana: Keman eğitiminde yapay zekâ destekli geri bildirimin entonasyona etkisine yönelik bir model çalışması](https://doi.org/10.31811/ojomus.1897062) - mixed-methods experiment | mixed | 2026-05-04 - Four-week mixed-methods experiment with 12 violin students measuring objective intonation performance under AI feedback. `accept` — **PDF retrieved 2026-10-04** to `pdf-sources/ai-feedback-violin-intonation-2026.pdf`; awaiting ingest
 
 ### PLoS ONE
 - [Teacher feedback VS AI-assisted peer feedback in L2 writing: A quasi-experimental study in a Chinese University](https://doi.org/10.1371/journal.pone.0345976) - quasi-experiment | objective | 2026-06-29 - Eight-week quasi-experiment comparing teacher and AI-assisted peer feedback on 244 measured L2 writing texts. `accept` — **INGESTED 2026-09-25** as `teacher-vs-ai-peer-feedback-l2-writing-2026`
@@ -78,7 +77,7 @@ Relevant, evidence-bearing AI-in-education research found through OpenAlex and n
 - [Rethinking assessment in the age of generative AI: A systematic literature review of African higher education](https://doi.org/10.1016/j.ssaho.2026.103332) - systematic review | synthesis | 2026-07-30 - PRISMA systematic review synthesizing empirical studies on GenAI assessment adaptation in African higher education. `accept` — **INGESTED 2026-09-27** as `genai-assessment-african-higher-education-review-2026`
 
 ### The Mathematical Education
-- [Exploring teachers’ instrumental orchestration and roles in high school mathematics classes using AI-based digital tools](https://doi.org/10.63311/mathedu.26.6525) - observational content analysis | objective | 2026-05-31 - Lesson recordings and teacher screen captures empirically document classroom orchestration with AI tools. `accept`
+- [Exploring teachers’ instrumental orchestration and roles in high school mathematics classes using AI-based digital tools](https://doi.org/10.63311/mathedu.26.6525) - observational content analysis | objective | 2026-05-31 - Lesson recordings and teacher screen captures empirically document classroom orchestration with AI tools. `accept` — **PDF retrieved 2026-10-04** to `pdf-sources/teachers-instrumental-orchestration-ai-math-2026.pdf`; awaiting ingest
 
 ## OpenAlex harvest (2026-09-29)
 
@@ -88,7 +87,7 @@ Relevant, evidence-bearing AI-in-education research found through OpenAlex and n
 
 - [Bridging the domain gap for VLMs: A scientific fine-tuning framework for precision and pedagogy in scientific education](https://www.sciencedirect.com/science/article/pii/S2666920X26001359) — [DOI: 10.1016/j.caeai.2026.100673](https://doi.org/10.1016/j.caeai.2026.100673)
 - [Federated learning for privacy-preserving at-risk student prediction in health professions education](https://www.sciencedirect.com/science/article/pii/S2666920X26001220) — [DOI: 10.1016/j.caeai.2026.100660](https://doi.org/10.1016/j.caeai.2026.100660)
-- [Standardized assessment of LLM English proficiency](https://www.sciencedirect.com/science/article/pii/S2666920X26001189) — (DOI pending Crossref indexing of the journal version)
+- [Standardized assessment of LLM English proficiency](https://www.sciencedirect.com/science/article/pii/S2666920X26001189) — (DOI pending Crossref indexing of the journal version) — **PDF retrieved 2026-10-04** from the authors' Research Square preprint to `pdf-sources/standardized-assessment-llm-english-proficiency-2026.pdf`; awaiting ingest (verify against the journal version)
 - [A socio-technical framework for educational excellence: Empirical validation of artificial intelligence integration](https://www.sciencedirect.com/science/article/pii/S2666920X26001098) — [DOI: 10.1016/j.caeai.2026.100647](https://doi.org/10.1016/j.caeai.2026.100647)
 - [Enhancing domain adaptation of LLM via model composition in solving medical exam questions](https://www.sciencedirect.com/science/article/pii/S2666920X26001001) — [DOI: 10.1016/j.caeai.2026.100638](https://doi.org/10.1016/j.caeai.2026.100638)
 

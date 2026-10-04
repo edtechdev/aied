@@ -48,6 +48,20 @@ counts drift the same way. Audit programmatically — never eyeball a corpus of 
 `dist/` is a stale build: absence there proves nothing and presence there does not prove a page is
 live. `content/en/articles/*.md` is the source of truth; use `dist/` only as a weak second signal.
 
+## Two parser traps that silently under- or over-count
+
+- **A `###` subsection inherits the class of the `##` above it.** Classifying every heading afresh
+  clears the class at each `###`, which drops every entry beneath it — the first run of
+  `backlog_overlap_check.py` saw 10 pending entries in a 35-entry harvest because of exactly this.
+  Set the class on level ≤2 headings only.
+- **Only top-level bullets are entries.** The truncated-source and "no confident match" sections
+  put each URL, and the line "no source URL recorded on the page", on an indented sub-bullet under
+  the entry. Matching `^\s*[-*]` makes each of those a phantom entry and inflates the section by
+  roughly a third. Match `^[-*]` and treat an indented bullet as the entry's URL.
+- **Count the class that means what you are counting.** The header's "N truncated source texts"
+  covers the truncated section alone; folding the "awaiting a full text" and record-keeping
+  subsections into it produces a number that matches nothing.
+
 ## Report shape
 
 List each removal as **slug + DOI + title**, grouped by journal section, then say what the section
