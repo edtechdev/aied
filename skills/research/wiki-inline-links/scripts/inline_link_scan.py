@@ -377,6 +377,9 @@ REJECT_PAIRS = {
     ('domain-specific', 'discipline-specific-aied'), # adjective, not the discipline page
     ('cognitive load', 'cognitive-offloading'),      # CLT construct, not offloading
     ('assessment literacy', 'assessment-validity'),  # literacy, not validity evidence
+    ('federated', 'learning-analytics'),            # federated learning, not learning analytics
+    ('early-warning model', 'equity-in-ai-education'),  # a predictor, not an equity page
+
     # --- 2026-09-22, Digital Promise framework ingest: false positives hand-reverted ---
     ('edtech', 'edtech-platform'),                   # "edtech frameworks" = the field, not the platform layer
     ('instructional designers', 'stakeholders'),      # readership noun, not the stakeholder page

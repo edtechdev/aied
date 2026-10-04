@@ -2556,6 +2556,7 @@
   - privacy
   - educational-measurement
   - video-education
+  - quantitative-research
   reason: "Integrated into four pages. learning-analytics: grep 'cheat|integrity|proctor' -> 0 hits each in a page that otherwise discusses prediction 29 times, so an integrity outcome in the predictive layer (AUC 0.763 from the first eight weeks of LMS and video-player traces) was genuinely absent; placed in 'From description to intervention'. academic-integrity: grep 'logistic' -> 0 and its prediction hits (3) are a different ChatGPT-perceptions study, so the paper carries a third route between detection and redesign, framed as guidance rather than misconduct evidence; placed in 'From policing to pedagogy'. remote-proctoring: grep 'predict|lms|trace|focus' -> 0 hits each, so the finding that a proctored, face-to-face exam still yielded 44.2% high-risk labels is new evidence for that page's own limits argument; appended to 'Evidence base'. student-support-and-success: it already carries early warning for performance and retention (grep 'early warning' -> 5, 'risk' -> 17) but grep 'integrity' -> 0, so the integrity outcome plus the threshold-for-reach trade-off extends 'From prediction to support'. DISMISSALS with evidence: ai-detection (grep 'cheat' -> 1, 'proctor' -> 0) already carries detector reliability limits, the false-accusation tradeoff (23 'integrity' hits) and a 'Beyond detection: assessment redesign' section that directs readers away from detection, which is the same move the paper makes. self-regulated-learning (grep 'integrity' -> 1 unrelated, 'cheat' -> 0) is not claimed by the paper, which states it did not measure self-regulated learning and offers only trace proxies. student-modeling (grep 'integrity' -> 0, 'cheat' -> 0) is not touched: the paper classifies a behavioral risk label from engagement traces and builds no model of a learner's knowledge or affect state. cs-education (grep 'cheat' -> 0, 'integrity' -> 1 in a different study) carries the course only as a sampling frame. privacy (grep 'misconduct' -> 0) already carries the surveillance and consent constraints on predictive uses (5 'surveillance' hits); the paper's use-policy point is placed on academic-integrity and student-support-and-success instead. educational-measurement (grep 'leave-one-out|loocv|cross-validation' -> 0) is dismissal by scope, not by coverage: the paper's methodological contribution is a validation protocol for a small-sample classifier, not a property of a measurement instrument. video-education (grep 'risk|integrity|cheat' -> 0) uses video logs as a predictor rather than reporting a finding about video learning design. Source is an open-access preprint with full text saved (37,270 chars, 6 pages)."
 
 - article: contractor-learning-impact-generative-ai-2026
@@ -2781,3 +2782,108 @@
   - self-report-measures
   - situated-learning
   reason: "Integrated into one page. teacher-ai-competency: the paper's substantive finding is what teachers volunteer versus what they can name, which is exactly the class of evidence that page's 'competency gap' section accumulates (self-report against performance, breadth of knowledge, non-participation), and grep showed the finding absent - 'negative case' -> 0, 'positive case' -> 0, 'societal bias' -> 0 across 2,894 words. Filed there rather than duplicated. DISMISSALS with evidence: ai-literacy (8,245 words, grep 'oecd' -> 0, 'case collection' -> 0, 'societal' -> 0, 'critical' -> 6, 'situated' -> 8) carries frameworks at length (46 hits) but has nothing on collecting cases from practice, and the recognition finding is one measurement that belongs where the competency evidence accumulates; putting it on both pages would restate one claim twice. ethics (grep 'societal' -> 0) is the other plausible home for the critical-competency gap, declined for the same reason. scaffolding (3,201 words, 98 hits) already carries scaffold effects, and the template-echo result - half the non-AI-literate cases mirroring the tool's own example - is an instance of that, stated on the article page. situated-learning (821 words, 26 hits) carries the theory the tool's case-collection purpose rests on, not a new claim. professional-training (1,707 words) and educational-development (3,211 words) carry the PD and faculty-development classes; the deployment was a PD context, not a study of PD design. self-report-measures carries the self-annotation limitation and the article links there inline. administrator, parents-and-families and educational-technology-developers are reported as stakeholder counts rather than claims about those roles. edtech-platform, generative-ai, k-12, mixed-methods-research and multimodal carry their classes. Tool generation: the system itself is a web application, not a model-dependent intervention, so no superseded-generation screen applies to the findings. The authors declare their own AI use - GPT-5 and Grammarly for language, Cursor with Claude Sonnet 4.6 for code development, reviewed and edited by the authors - which is a current-generation disclosure rather than a vintage concern. Resource question: AILitHub has no public URL in the paper, and a companion demonstration in the AIED 2026 programme gives none either, so a reader cannot reach it; recorded in resource-candidates.yaml as declined with that reason, and no URL was constructed. Confidence is low: N = 53 from a single PD context, self-annotated labels with no inter-rater agreement, and the authors frame it as a dataset snapshot and feasibility demonstration. Source is a workshop PDF with no DOI or landing page printed; PDF preserved in pdf-sources/ and full text saved (26,632 chars)."
+
+- article: genai-creative-education-authorship-2026
+  date: 2026-10-04
+  integrated: []
+  no_change:
+  - academic-integrity
+  - ai-literacy
+  - assessment
+  - authentic-assessment
+  - creativity
+  - generative-ai
+  - higher-ed
+  - quantitative-research
+  - rct
+  - self-efficacy
+  - self-report-measures
+  reason: "No distinguishing claim. The process-outcome decoupling is the class the creativity page already carries: grep 'decoupl' -> 0 there, but its 'performance-learning gap' and the mathematics 'creativity without transfer' bullet already state that AI can raise process or creative production without transferable gain, and its T2I 'competence paradox' bullet already covers authorship negotiation in art and design - so this 133-student art course is another instance rather than a new claim. DISMISSALS: academic-integrity (grep 'authorship' -> the page's integrity content is misconduct and disclosure, not evaluator visibility of creative decisions); assessment and authentic-assessment (the authorship-rating scheme is a measure, not a claim about assessment design); self-efficacy (quality confidence is a process measure already in that page's class); ai-literacy, generative-ai, higher-ed, self-report-measures and quantitative-research carry their classes; rct names a contrast the paper does not run. Confidence medium: observational, one course."
+- article: genai-normative-tension-learning-oriented-use-2026
+  date: 2026-10-04
+  integrated: []
+  no_change:
+  - ai-literacy
+  - framing-ai-use-for-students
+  - generative-ai
+  - quantitative-research
+  - self-regulated-learning
+  - self-report-measures
+  - social-norms-ai-use
+  - teacher-role
+  reason: "No distinguishing claim. social-norms-ai-use already carries the finding that felt tension coexists with continued use - grep 'moral tension' -> 1, in the computing-students shame/guilt study ('these emotions coexisted with continued AI use, generating cycles of reduced agency and moral tension rather than prompting anyone to stop') - so this cross-sectional association is an instance of that class, and its own caution (a reverse specification fits equally well) means it adds no identified directional claim. DISMISSALS: framing-ai-use-for-students and teacher-role carry how expectations are communicated; self-regulated-learning carries the learning-oriented-use construct; self-report-measures carries the single-source limitation; ai-literacy, generative-ai and quantitative-research carry their classes. Confidence medium: cross-sectional, same-source, no direction identified."
+- article: nigerian-teachers-ai-awareness-pedagogical-skills-2026
+  date: 2026-10-04
+  integrated:
+  - teacher-ai-competency
+  no_change:
+  - ai-literacy
+  - ai-technologies
+  - educational-development
+  - equity-in-ai-education
+  - generative-ai
+  - global-south
+  - k-12
+  - pedagogy
+  - quantitative-research
+  - self-report-measures
+  - teacher-role
+  reason: "Integrated into one page. teacher-ai-competency: the study measures the awareness-versus-skill gap with two SEPARATE instruments at national scale (N = 2,586; M = 3.13 of 8 awareness against M = 2.47 of 5 skill), and its experience differential - teaching experience did not predict awareness, yet early- and mid-career teachers reported higher pedagogical skill than experienced colleagues - is absent from the page's 'competency gap' section (grep 'early-career' -> 0), so the weave cites it alongside the existing self-report/performance evidence rather than restating it. DISMISSALS: ai-literacy carries the awareness construct as a measured object, not a new claim; teacher-role and educational-development carry the role and PD classes; equity-in-ai-education and global-south carry the regional-equity framing the article states rather than tests; ai-technologies, generative-ai, k-12, pedagogy, self-report-measures and quantitative-research carry their classes. Confidence medium: cross-sectional self-report, small gender and experience effects."
+- article: federated-learning-at-risk-student-prediction-2026
+  date: 2026-10-04
+  integrated: []
+  no_change:
+  - collaborative-learning
+  - educational-technology-developers
+  - equity-in-ai-education
+  - explainable-ai
+  - learning-analytics
+  - machine-learning
+  - pedagogy
+  - privacy
+  - quantitative-research
+  - simulation
+  - student-engagement
+  - student-modeling
+  reason: "No distinguishing claim. learning-analytics already carries federated at-risk prediction - grep 'federated' -> 3, including the Villegas-Ch et al. (2026) bullet on cross-institutional federated risk modeling that preserves ranking accuracy (OULAD AUC 0.918) while calibration drifts - so this simulation on the same OULAD dataset and its privacy-utility conclusion is an instance of that class, not a new one; the FedProx-for-neural-networks and forum-salience results are domain-specific details rather than a claim the page lacks. DISMISSALS: privacy and student-modeling carry their classes; machine-learning, simulation, explainable-ai, collaborative-learning, student-engagement, pedagogy, equity-in-ai-education, educational-technology-developers and quantitative-research carry theirs. Confidence medium: a simulation on an analogue dataset, not a deployment."
+- article: ai-elementary-language-education-review-2026
+  date: 2026-10-04
+  integrated:
+  - language-learning
+  no_change:
+  - adaptive-learning
+  - ai-ed-evaluation
+  - ai-technologies
+  - conversational-ai
+  - digital-divide
+  - educational-nlp
+  - equity-in-ai-education
+  - ethics
+  - higher-ed
+  - meta-analysis-systematic-review
+  - mixed-methods-research
+  - multilingual-learning
+  - pedagogy
+  - personalized-learning
+  - qualitative-research
+  - quantitative-research
+  - speech-and-voice-technologies
+  - student-engagement
+  - technology-acceptance-model
+  reason: "Integrated into one page. language-learning: the review supplies a field-level map the page's single-study bullets do not - grep 'sign language' -> 0 and no review-level statement of where elementary AI language research concentrates versus neglects - so the weave adds the concentration on speaking, literacy and vocabulary against thin coverage of grammar, listening comprehension and sign language. DISMISSALS: meta-analysis-systematic-review and the research-method pages carry the method; conversational-ai, educational-nlp, adaptive-learning, personalized-learning, speech-and-voice-technologies and ai-technologies carry the technologies; multilingual-learning and digital-divide carry access-and-equity classes the review names in implications rather than tests; equity-in-ai-education, ethics, pedagogy, student-engagement, ai-ed-evaluation, higher-ed, qualitative-research, mixed-methods-research, quantitative-research and technology-acceptance-model carry their classes. Confidence medium: a 31-study review that cannot pool effects."
+- article: human-centered-assessment-ai-world-2026
+  date: 2026-10-04
+  integrated: []
+  no_change:
+  - academic-integrity
+  - ai-detection
+  - assessment
+  - assessment-validity
+  - authentic-assessment
+  - curriculum-design
+  - educational-development
+  - educational-measurement
+  - ethics
+  - generative-ai
+  - higher-ed
+  reason: "No distinguishing claim. The detection-versus-validity argument is the class assessment-validity already carries (grep 'validity' -> 76 across 5,456 words), and authentic-assessment and assessment already carry authentic and evidence-centered redesign; the paper is conceptual with no empirical result, so it restates those positions rather than adding a measured claim. DISMISSALS: ai-detection carries the detection practice the paper argues against; academic-integrity, curriculum-design, educational-development, educational-measurement, ethics, generative-ai and higher-ed carry their classes. Confidence medium: a conference-proceedings position paper with no evaluation of the framework."
