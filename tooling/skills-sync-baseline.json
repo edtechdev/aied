@@ -1,4 +1,8 @@
 {
+  "skills/research/wiki-concept-narrative/SKILL.md": {
+    "installed": "c0ef76cacbfbbb08",
+    "repo": "984723b3cefc36a2"
+  },
   "tooling/cron/daily-scan-prompt.md": {
     "installed": "ab2c351c59aede3e",
     "repo": "930bfbd97e1f0d3c"
