@@ -1,7 +1,7 @@
 ---
 title: AI-Assisted Educational Research
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-10-05T11:23:36-04:00"
+updated: "2026-10-05T14:14:11-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -22,7 +22,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** AI-assisted educational research is the use of AI as an instrument of the field's own scholarly work — searching and retrieving literature, screening records for reviews, coding qualitative data, analyzing data, drafting and editing manuscripts, and the reflection that asks what those tools do to the knowledge produced. It is distinct from research *on* AI in education: the designs used to study whether AI helps learners belong to [[research-methods-aied]], the appraisal of AI systems belongs to [[ai-ed-evaluation]], and the reading of a single AIED study belongs to [[interpreting-and-applying-aied-research]]. This page covers the researcher's own workflow and the practitioner-researcher's inquiry — the scholarship of teaching and learning and classroom research — and the epistemic stakes when automation enters either one. Its evidence is thin and recent: a framework proposal, one review team's reflective account, a small focus-group study, a bibliometric audit, a workshop report, and single-investigator case studies. It describes a direction of travel rather than established practice, and the practitioner-research strand is the thinnest of all.
+> **Synthesis:** AI-assisted educational research is the use of AI as an instrument of the field's own scholarly work — searching and retrieving literature, screening records for reviews, coding qualitative data, analyzing data, drafting and editing manuscripts, and the reflection that asks what those tools do to the knowledge produced. It is distinct from research *on* AI in education: the designs used to study whether AI helps learners belong to [[research-methods-aied]], the appraisal of AI systems belongs to [[ai-ed-evaluation]], and the reading of a single AIED study belongs to [[interpreting-and-applying-aied-research]]. This page covers the researcher's own workflow and the practitioner-researcher's inquiry — the scholarship of teaching and learning and classroom research — and the epistemic stakes when automation enters either one. Its evidence is thin and recent: a framework proposal, one review team's reflective account, a small focus-group study, two bibliometric studies, a workshop report, and single-investigator case studies. It describes a direction of travel rather than established practice, and the practitioner-research strand is the thinnest of all.
 
 ## Questions to Consider
 

@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puede la IA ayudar en la investigación educativa?"
 created: "2026-10-05T12:43:10-04:00"
-updated: "2026-10-05T12:43:10-04:00"
+updated: "2026-10-05T14:14:11-04:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -14,7 +14,7 @@ research_method: [literature review]
 audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
-source_updated: "2026-10-05T11:23:36-04:00"
+source_updated: "2026-10-05T14:14:11-04:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -97,7 +97,7 @@ La redacción asistida por IA abarata la producción de una cita inventada y pla
 
 La adopción ha ido por delante de la notificación. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta y Lin (2026)]] analizaron 888 artículos sobre automatización de revisiones: desde 2023, el 38,0% de los artículos sobre software y productos no informaba de ninguna evaluación, frente al 9,3% de los artículos sobre LLM, y el acceso a los modelos era abrumadoramente propietario (84,1%). Incluso una valoración global favorable no implicaba aptitud para delegar: el 52% de 118 artículos sobre LLM solo con resultados positivos seguía informando de una preocupación de que el flujo de trabajo quedaba por debajo del umbral exigido por su función. Su marco, PRISMA-LLM, separa la declaración de la implementación de la evaluación sensible a las consecuencias, y trata sus cinco niveles como niveles de declaración y no como niveles de riesgo. La conclusión práctica es que la profundidad de evaluación de un flujo de trabajo debería *enunciarse*, no darse por supuesta: nombre el sistema, la versión, las indicaciones, qué comprobaron las personas y dónde falló.
 
-### La concordancia entre dos codificadores de IA no es evidencia de calidad
+### La concordancia no es evidencia de calidad
 
 Una concordancia alta con personas codificadoras —o entre dos modelos— se informa sistemáticamente como si estableciera la corrección. No lo hace. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] hicieron que un experto independiente juzgara 855 conjuntos de códigos por pares a ciegas respecto de la fuente: la concordancia persona–LLM (Jaccard media 0,30) quedó muy por debajo de la concordancia persona–persona (0,52), y aun así el verificador ciego prefirió la codificación humana y la de la máquina a tasas indistinguibles (51,5% frente a 48,5%, p = 0,537). En ocasiones, el consenso humano codificaba un sesgo compartido que el verificador rechazó en favor del modelo. Adopte la verificación ciega, informe del estándar de referencia y de quién adjudicó, y encamine por código en lugar de tratar el proceso como un único entorno uniforme de revisión humana.
 
