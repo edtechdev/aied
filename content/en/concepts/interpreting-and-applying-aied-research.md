@@ -1,7 +1,7 @@
 ---
 title: Interpreting and Applying AIEd Research
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-09-26T08:45:25-04:00"
+updated: "2026-10-05T11:23:36-04:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -11,7 +11,7 @@ ethics: [ai-use-disclosure]
 audience: [instructors, administrators, instructional designers, software developers, researchers]
 page_kind: [evaluation, framework]
 confidence: high
-connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied]
+connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 reviewed_by: [editor]
 ---
 
