@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Assist with Educational Research?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-10-05T11:23:36-04:00"
+updated: "2026-10-05T14:14:11-04:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -94,7 +94,7 @@ AI-assisted drafting makes a plausible invented citation cheap to produce, and t
 
 Adoption has run ahead of reporting. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta and Lin (2026)]] analyzed 888 review-automation papers: since 2023, 38.0% of software and product papers reported no evaluation at all, against 9.3% of LLM papers, and model access was overwhelmingly proprietary (84.1%). Even a favorable overall assessment did not imply fitness for delegation — 52% of 118 positive-only LLM papers still reported a concern that the workflow fell below the bar required for its role. Their framework, PRISMA-LLM, separates implementation disclosure from consequence-sensitive evaluation, and treats its five levels as disclosure tiers rather than risk tiers. The practical takeaway is that a workflow's evaluation depth should be *stated*, not assumed: name the system, version, prompts, what humans checked, and where it failed.
 
-### Agreement between two AI coders is not evidence of quality
+### Agreement is not evidence of quality
 
 High agreement with human coders — or between two models — is routinely reported as if it established correctness. It does not. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] had an independent expert judge 855 pairwise code sets blind to source: human–LLM agreement (mean Jaccard 0.30) fell well below human–human agreement (0.52), yet the blind verifier preferred human and machine coding at indistinguishable rates (51.5% vs 48.5%, p = 0.537). Sometimes human consensus encoded shared bias the verifier rejected in favor of the model. Adopt blind verification, report the gold standard and who adjudicated, and route by code rather than treating the pipeline as one uniform human-review setting.
 

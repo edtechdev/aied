@@ -1,7 +1,7 @@
 ---
 title: Investigación educativa asistida por IA
 created: "2026-10-05T12:43:08-04:00"
-updated: "2026-10-05T12:43:08-04:00"
+updated: "2026-10-05T14:14:11-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -14,7 +14,7 @@ page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-10-05T11:23:36-04:00"
+source_updated: "2026-10-05T14:14:11-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Síntesis:** La investigación educativa asistida por IA es el uso de la IA como instrumento del propio trabajo académico de la disciplina: buscar y recuperar bibliografía, cribar registros para revisiones, codificar datos cualitativos, analizar datos, redactar y editar manuscritos, y la reflexión que pregunta qué hacen esas herramientas con el conocimiento producido. Es distinta de la investigación *sobre* la IA en la educación: los diseños empleados para estudiar si la IA ayuda a quien aprende pertenecen a [[research-methods-aied]], la valoración de los sistemas de IA pertenece a [[ai-ed-evaluation]], y la lectura de un único estudio de AIED pertenece a [[interpreting-and-applying-aied-research]]. Esta página abarca el propio flujo de trabajo de quien investiga y la indagación de quien investiga y a la vez ejerce la docencia —la erudición de la enseñanza y el aprendizaje y la investigación en el aula— y las implicaciones epistémicas cuando la automatización entra en cualquiera de las dos. Su evidencia es escasa y reciente: una propuesta de marco, el relato reflexivo de un equipo de revisión, un pequeño estudio de grupo focal, una auditoría bibliométrica, un informe de taller y estudios de caso de un único investigador. Describe una dirección de viaje más que una práctica establecida, y la rama de la investigación del profesorado es la más débil de todas.
+> **Síntesis:** La investigación educativa asistida por IA es el uso de la IA como instrumento del propio trabajo académico de la disciplina: buscar y recuperar bibliografía, cribar registros para revisiones, codificar datos cualitativos, analizar datos, redactar y editar manuscritos, y la reflexión que pregunta qué hacen esas herramientas con el conocimiento producido. Es distinta de la investigación *sobre* la IA en la educación: los diseños empleados para estudiar si la IA ayuda a quien aprende pertenecen a [[research-methods-aied]], la valoración de los sistemas de IA pertenece a [[ai-ed-evaluation]], y la lectura de un único estudio de AIED pertenece a [[interpreting-and-applying-aied-research]]. Esta página abarca el propio flujo de trabajo de quien investiga y la indagación de quien investiga y a la vez ejerce la docencia —la erudición de la enseñanza y el aprendizaje y la investigación en el aula— y las implicaciones epistémicas cuando la automatización entra en cualquiera de las dos. Su evidencia es escasa y reciente: una propuesta de marco, el relato reflexivo de un equipo de revisión, un pequeño estudio de grupo focal, dos estudios bibliométricos, un informe de taller y estudios de caso de un único investigador. Describe una dirección de viaje más que una práctica establecida, y la rama de la investigación del profesorado es la más débil de todas.
 
 ## Preguntas para reflexionar
 
