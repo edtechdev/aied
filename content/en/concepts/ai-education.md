@@ -101,6 +101,9 @@ AI transforms both how we assess learners and how we evaluate AI systems themsel
 How we know whether AI works is its own strand, and the knowledge base treats it as one:
 
 - **Research methods:** [[research-methods-aied|research methods in AIED]] as the umbrella, with [[qualitative-research|qualitative]], [[quantitative-research|quantitative]], [[mixed-methods-research|mixed-methods]], [[design-based-research|design-based]], and [[usability-research|usability]] approaches, plus [[rct|randomized controlled trials]], [[meta-analysis-systematic-review|meta-analysis and systematic review]], and [[network-analysis|network analysis]].
+
+The field's own research work is now a subject in its own right. [[ai-assisted-educational-research|AI-Assisted Educational Research]] covers AI used as an instrument for literature search, screening, qualitative coding, analysis, and writing, including practitioner research such as the scholarship of teaching and learning. It stays distinct from the designs used to study what AI does to learners.
+
 - **Evaluation of AI systems:** [[ai-ed-evaluation|AI ed evaluation]] and [[benchmark|benchmarks]] for judging a system's capability, with [[learning-gains|learning gains]] as the outcome that matters, and the [[limitations-in-aied-research|cross-cutting limitations]] of this evidence and [[interpreting-and-applying-aied-research|how to read a single study]] as the cautionary counterweight.
 
 ## People
@@ -155,6 +158,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[learners]] — umbrella: the learner-side concepts (experience, identity, agency, interaction, learner models)
 - [[ai-ed-evaluation]] — umbrella: how we know whether AI works
 - [[research-methods-aied]] — umbrella: efficacy research methods
+- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
 - [[governance]] — umbrella: the institutional and regulatory layer
 - [[educational-policy-ai]] — umbrella: policy, guidance, and implementation
 - [[equity-in-ai-education]] — umbrella: fairness, access, and inclusion

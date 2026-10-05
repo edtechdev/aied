@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-05T10:26:12-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -52,6 +52,8 @@ That [[scaffolding]] has an institutional counterpart with a dual pathway. [[gai
 - **Access to an AI tool can *lower* measured engagement, and completion rates will not show it.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] randomized tutor access across 13 blocks at a large U.S. public university and found recorded platform participation fell by 0.90 SDs, page views by 0.37–0.38 SDs and active days by 0.51–0.61 SDs — while homework submission and on-time submission were unaffected. The dissociation is the measurement lesson: a course monitoring only assignment completion would have seen nothing, because the reduction sat in the discussion, quiz and instructor-interaction activity the platform logged. Students in treated sections also reported asking the instructor fewer content questions (about 57% versus 44%), so the decline coincided with substitution away from human contact rather than with disengagement from the course.
 
 - **Reply latency is an engagement lever.** In 1,137 Quantitative AI tutoring sessions, faster replies tracked with more student messages and more correct practice (median reply time 1.9 s to 31.0 s across models; lower latency correlating with engagement at Spearman ρ=-0.81, p=.0056), a chain the authors read as explaining how models that score unremarkably on teaching quality still reach human-level gains ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
+
+- **AI use can travel with greater class absenteeism while confidence does not predict it.** A PLS-SEM survey of 291 Portuguese university students found general AI use positively associated with absenteeism (β = 0.148, f² = 0.029) and with self-efficacy for independent learning, yet self-efficacy itself did not predict absenteeism (β = −0.068, p = 0.276) — the paper's "confident but absent" pattern. The attendance association was modest and secondary to peer influence (β = 0.510, f² = 0.326) and time management (β = −0.163), and because the AI-use construct was unidimensional and mixed support-oriented with substitution-oriented items, the study cannot separate complementary from substitutive use or establish direction ([[confident-but-absent-ai-use-absenteeism-2026|Franco et al. (2026)]]).
 
 ### Measuring engagement: the metric-choice problem
 
@@ -117,6 +119,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[self-report-measures]]
 - [[productive-failure]]
 ## Connected Articles
+- [[confident-but-absent-ai-use-absenteeism-2026]] — AI use tracked with greater class absenteeism while self-efficacy did not predict it, with peer influence the dominant correlate (Franco et al. 2026)
 - [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education
 
 - [[e3sense-multimodal-learner-engagement-sensing-2026]] — Head-confined EEG, eye tracking, and EDA predict five-level engagement ratings, while learners' own definitions shift the mapping (Anupkrishnan et al. 2026)

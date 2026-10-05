@@ -7,6 +7,7 @@ foundations: [human-ai-collaboration, learning-design]
 pedagogy: [collaborative-learning, scaffolding]
 technology: [human-in-the-loop-ai]
 research_method: [theoretical analysis]
+methods: [ai-assisted-educational-research]
 sources: ['raw/papers/scaffolding-systematic-reviews-2026.md']
 confidence: high
 audience: [researchers]

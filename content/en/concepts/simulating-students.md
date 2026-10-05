@@ -108,6 +108,7 @@ The 2026 durable-skills work inverts the usual direction of simulation. Instead 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[simulation]]
 - [[student-modeling]]
+- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
 - [[knowledge-tracing]]
 - [[cognitive-diagnosis]]
 - [[agentic-ai]]

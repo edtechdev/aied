@@ -81,6 +81,7 @@ Qualitative and quantitative methods are complements, not rivals — see [[resea
 - [[mixed-methods-research]]
 - [[quantitative-research]]
 - [[theory-development-aied]]
+- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
 - [[educational-measurement]]
 - [[educational-nlp]]
 - [[ai-ed-evaluation]]
