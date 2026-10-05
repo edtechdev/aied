@@ -135,6 +135,7 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 - [[research-methods-aied]]
 - [[rct]]
 - [[ai-ed-evaluation]]
+- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
 - [[benchmark]]
 - [[educational-measurement]]
 - [[assessment-validity]]

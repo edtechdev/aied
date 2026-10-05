@@ -127,6 +127,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[educational-nlp]]
 - [[learning-analytics]]
 - [[ai-ed-evaluation]]
+- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
 - [[automated-assessment]]
 - [[limitations-in-aied-research]]
 - [[ai-literacy]]

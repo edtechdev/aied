@@ -3526,3 +3526,40 @@
   - theory-development-aied
   - transfer-of-learning
   reason: Nothing qualified. assessment-validity and process-oriented-assessment already carry the product-vs-process and cognitive-ownership argument (grep 'cognitive ownership|process|product' in assessment-validity -> 12 hits); this is a non-empirical conceptual framework proposing unvalidated constructs, so it restates the class rather than adding evidence.
+- article: confident-but-absent-ai-use-absenteeism-2026
+  date: '2026-10-05'
+  integrated:
+  - self-efficacy
+  - student-engagement
+  no_change:
+  - cognitive-offloading
+  - generative-ai
+  - motivation
+  - quantitative-research
+  - self-regulated-learning
+  - self-report-measures
+  - social-norms-ai-use
+  - theories-and-frameworks
+  reason: 'Two pairs qualified. self-efficacy: the page carried no attendance/absenteeism content (grep ''confident|absentee|attendance'' in self-efficacy.md -> 1 hit, an unrelated question-prompt) and no gender moderation of an AI-use-to-self-efficacy path; this adds the confident-but-absent dissociation (AI use beta = 0.266 with self-efficacy while self-efficacy did not predict absenteeism, beta = -0.068, p = 0.276) and the male-stronger AI-use path (delta beta = -0.289, p = 0.013). student-engagement: the page had no attendance or absenteeism content (grep ''absentee|attendance'' in student-engagement.md -> 0 hits) and no peer-influence-dominant attendance result; this adds AI use associated with absenteeism (beta = 0.148, f2 = 0.029) secondary to peer influence (beta = 0.510), with the unidimensional-AI-use caveat. Skipped the rest: motivation is not measured in the article and carries no motivation claim to add; cognitive-offloading is not measured and the only related point (complement vs substitute) is explicitly unmeasured while the page already carries that boundary extensively; self-regulated-learning constructs (self-efficacy for independent learning, locus of control, time management) do not map to SRL and the page already carries time management and self-efficacy as SRL drivers; generative-ai, quantitative-research, self-report-measures and theories-and-frameworks are broad facet or umbrella vocabulary that already carries these designs; social-norms-ai-use''s peer-influence items measure attendance-skipping conformity, not norms about AI use, which the page covers as visibility and disclosure.'
+- article: ai-methodologies-science-education-research-2026
+  date: '2026-10-05'
+  integrated:
+  - science-education
+  - research-methods-aied
+  - ai-assisted-educational-research
+  no_change:
+  - assessment-validity
+  - differential-effects-across-learner-groups
+  - educational-measurement
+  - educational-nlp
+  - explainable-ai
+  - generative-ai
+  - item-response-theory
+  - machine-learning
+  - multilingual-learning
+  - philosophy-of-ai-in-education
+  - qualitative-research
+  - quantitative-research
+  - theories-and-frameworks
+  - trust
+  reason: 'Two pairs qualified, both on the article methodological claims rather than data. science-education: the page synthesized AI in science teaching and learning but carried no claim about the field own knowledge production (grep "nomic|epistemic iteration" in science-education.md -> 0 hits); this adds the epistemic-iteration thesis (Chang 2004) and the seven-phase reflective framework. research-methods-aied: the page catalogued design families but carried no measurement-theoretic account of AI-derived measurement functions (same grep -> 0 hits); this adds the nomic-measurement problem and the researcher-role shift to validating computational outputs. Skipped the rest: educational-measurement already carries the opaque automated-measurement caveat and cross-population construct divergence (grep "opaque|black-box" -> lines 24, 107; "transfer across populations" -> line 101), so the article point restates precision-without-validity; qualitative-research already carries LLM-assisted coding, the agreement-is-not-quality finding and the researcher-as-validator claim; quantitative-research and item-response-theory already carry the classical-test-theory and IRT/Rasch material as method and the article uses them as a conceptual historical parallel rather than a new quantitative claim; philosophy-of-ai-in-education houses mind, learner, agency and values, and the philosophy-of-measurement framing is carried in the research-methods weave; theories-and-frameworks already distinguishes theory from framework, and this framework is a reflective research instrument rather than a learning theory; machine-learning and educational-nlp already carry embedding-based construct measurement (grep "embedding" -> hits on both); generative-ai and multilingual-learning already carry multilingual and non-standard-expression limits, which the article cites rather than measures; assessment-validity already carries the opaque interpretive chain (grep "opaque" -> hit); trust carries calibration and reliance material; explainable-ai carries semantic-versus-keyword explanation claims; differential-effects-across-learner-groups already carries personalization bias and social-identity differentials (grep "achievement|social identity|marginali" -> hits). It also anchors the new ai-assisted-educational-research concept page, which lists it as a Tier-1 anchor for AI as an instrument of the field''s own research work.'

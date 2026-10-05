@@ -202,6 +202,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[ethics]] — ethical awareness dimension
 - [[teacher-ai-competency]] — educator preparedness
 - [[educational-development]] — building educator literacy
+- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
 - [[k-12]] — school-level literacy
 - [[higher-ed]] — university-level literacy
 - [[career-development-and-readiness]] — the employability payoff AI literacy is argued to build

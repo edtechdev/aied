@@ -12,7 +12,7 @@ confidence: high
 audience: [institutions, researchers]
 level: [higher ed]
 page_kind: [framework]
-methods: [qualitative-research]
+methods: [qualitative-research, ai-assisted-educational-research]
 institutions: [governance]
 ---
 

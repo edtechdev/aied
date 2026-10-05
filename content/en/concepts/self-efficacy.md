@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T14:23:52-04:00"
+updated: "2026-10-05T10:26:12-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -55,6 +55,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - **No treatment effect in a semester-long RCT — confidence rose with course time:** in [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni and Fryer's (2026)]] randomized field experiment with 454 undergraduates in a Principles of Marketing course, self-efficacy rose over the semester for all students (time effect β = 0.099, p = 0.0009, Cohen's ƒ2 = 0.025) while neither the group effect (p = 0.1162) nor the group × time interaction (p = 0.5306, d = 0.023) was significant, so the RAG chatbot added nothing. Confidence gains in AI-supported courses can track course progression rather than the tool — an attribution risk for a construct the field measures almost entirely by [[self-report-measures|self-report]].
 - **Confidence can move opposite to behavior.** In competitive programming, students who stopped competing reported *higher* theoretical confidence than their active peers yet showed significantly weaker upsolving and peer-circle habits (p < .001), so a self-efficacy signal alone will mislead an early-warning system ([[predicting-attrition-competitive-programming|Ruhan et al. (2026)]]).
 - **Confidence can rise while the capability behind it declines.** Among university students, frequent generative-AI use raised perceived confidence and efficiency *and* increased technological dependence in the same learners, so a self-efficacy score taken during AI-assisted work can read high at the moment the underlying skill is eroding ([[genai-performance-vs-learning|Yan et al., 2025]]).
+- **AI use rode with confidence, but confidence did not predict attendance.** In a PLS-SEM survey of 291 Portuguese students, general AI use was positively associated with self-efficacy for independent learning (β = 0.266, f² = 0.106). The construct was modeled as a second-order formative composite of Bandura's four sources — mastery experience, vicarious experience, verbal persuasion, and emotional state. Self-efficacy in turn did not predict absenteeism (β = −0.068, p = 0.276), even though AI use was separately associated with higher absenteeism (β = 0.148, f² = 0.029). The AI-use → self-efficacy path was significantly stronger among males than females (β = 0.449 vs. 0.159; Δβ = −0.289, p = 0.013), under partial measurement invariance ([[confident-but-absent-ai-use-absenteeism-2026|Franco et al. (2026)]]).
 
 ## Connected Concepts
 
@@ -69,6 +70,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[self-report-measures]]
 - [[social-emotional-learning]] — Social-Emotional Learning
 ## Connected Articles
+- [[confident-but-absent-ai-use-absenteeism-2026]] — General AI use tracked with higher self-efficacy and higher absenteeism, yet self-efficacy did not predict attendance (Franco et al. 2026)
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — AI chatbots in higher education: comparing expectations to evidence (Thoeni & Fryer 2026)
 - [[genai-performance-vs-learning]] — confidence rising while technological dependence grows: self-efficacy as a misleading AI-era outcome (Yan et al. 2025)
 - [[ai-supported-ementoring-efl-preservice-2026]] — AI-supported e-mentoring raises EFL pre-service teachers' self-efficacy and emotional intelligence (quasi-experimental)

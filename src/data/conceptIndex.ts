@@ -70,7 +70,7 @@ export const conceptIndex: ConceptSection[] = [
   {
     heading: 'Research methods and evaluation',
     groups: [
-      { label: 'Research methods', items: ['research-methods-aied', 'qualitative-research', 'quantitative-research', 'mixed-methods-research', 'design-based-research', 'usability-research', 'rct', 'meta-analysis-systematic-review', 'latent-profile-analysis', 'network-analysis'] },
+      { label: 'Research methods', items: ['research-methods-aied', 'ai-assisted-educational-research', 'qualitative-research', 'quantitative-research', 'mixed-methods-research', 'design-based-research', 'usability-research', 'rct', 'meta-analysis-systematic-review', 'latent-profile-analysis', 'network-analysis'] },
       { label: 'Evaluation of AI systems', items: ['ai-ed-evaluation', 'benchmark'] },
     ],
   },

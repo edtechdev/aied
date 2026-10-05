@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-09-30T07:37:28-04:00"
+updated: "2026-10-05T10:25:44-04:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -30,6 +30,10 @@ reviewed_by: [editor]
 The central tension in AIED research is that the strongest designs for causal inference — randomized experiments — are often the hardest to run with authentic AI tools in real classrooms, while the most authentic settings (field deployments, case studies, log-data analyses) offer weaker causal control. No single method resolves this; the field advances by triangulating across methods, and by being explicit about what kind of claim each design can support. Every method also carries cross-cutting limitations — generalizability, measurement validity, the fast pace of AI change, reproducibility, and weak theory use — that readers must weigh; see [[limitations-in-aied-research]].
 
 The page's subject is method rather than findings. [[learning-sciences]] is the substantive field these methods serve: where this page covers how a study should be designed, measured and reported, that page covers what the field has established about how people learn and how learning environments should be designed, and it treats design-based and mixed methods as the learning sciences' signature approaches rather than two options among many.
+
+Adjacent to this page is [[ai-assisted-educational-research|AI-Assisted Educational Research]], which covers AI as an instrument of the field's own work: literature search, screening, review automation, qualitative coding, analysis, and writing. Its scope includes practitioner research such as the scholarship of teaching and learning, and it stays distinct from the designs this page describes.
+
+[[ai-methodologies-science-education-research-2026|Martin, Rost, Koenen and Graulich (2026)]] press the same scrutiny on the field's knowledge production itself, using Chang's (2004) nomic-measurement problem: measuring a quantity requires a law relating it to something observable, yet that law cannot be tested empirically without already knowing the quantity. They argue that AI-derived measurement functions, which emerge from training data and optimization rather than from the researcher, may intensify rather than resolve it. Such functions can look precise yet remain epistemically opaque, so the researcher's role shifts to interpreting and validating computational outputs. Their seven-phase reflective framework (problem framing; instrumentation and measurement; experimentation and evidence-based inference; comparisons and replication; building norms and consensus; implementation and its consequences; and continuous refinement) is offered as an analytical aid, not a validated method, and they argue comparability must extend across student populations rather than the subsets a model serves well.
 
 ### Reporting rigor and the TEP-AIED model
 
@@ -177,6 +181,7 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 - [[rct]]
 - [[benchmark]]
 - [[meta-analysis-systematic-review]]
+- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
 - [[educational-measurement]]
 - [[assessment-validity]]
 - [[simulation]]
@@ -195,6 +200,7 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 
 ## Connected Articles
 
+- [[ai-methodologies-science-education-research-2026]] — A seven-phase epistemic-iteration framework for reflecting on how AI methodologies may transform science education research (Martin et al., 2026)
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
 - [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance: A Mixed-Method Study

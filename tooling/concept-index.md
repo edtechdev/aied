@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 219
+**Total concepts:** 220
 
 ## Foundations of AI in education
 
@@ -244,6 +244,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 ### Research methods
 
+- **`ai-assisted-educational-research`** — AI-Assisted Educational Research — phrases: ai-assisted research; AI in educational research; classroom research; practitioner inquiry; scholarship of teaching and learning; SoTL
 - **`design-based-research`** — Design-Based Research — phrases: dbr; design based research; design-based; design-based research
 - **`latent-profile-analysis`** — Latent Profile Analysis — phrases: latent class; latent class analysis; latent profile; latent profile analysis; lpa; mixture modeling; mixture modelling; person-centered analysis; person-centred analysis
 - **`meta-analysis-systematic-review`** — Meta-Analysis and Systematic Review — phrases: literature review; meta-analysis; meta-analytic; PRISMA; scoping review; systematic review; systematically review

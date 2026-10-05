@@ -169,8 +169,9 @@ export const FACET_VOCAB = {
     'self-report-measures',
     'summative-assessment',
   ],
-  // Research methods and evaluation (12 concepts) — registry section: Research methods and evaluation
+  // Research methods and evaluation (13 concepts) — registry section: Research methods and evaluation
   methods: [
+    'ai-assisted-educational-research',
     'ai-ed-evaluation',
     'benchmark',
     'design-based-research',

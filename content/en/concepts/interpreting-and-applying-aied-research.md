@@ -147,6 +147,7 @@ The checks above are not folk wisdom; they come from documented failures in this
 - [[learning-gains]]
 - [[differential-effects-across-learner-groups]]
 - [[research-methods-aied]]
+- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
 - [[meta-analysis-systematic-review]]
 - [[quantitative-research]]
 - [[benchmark]]

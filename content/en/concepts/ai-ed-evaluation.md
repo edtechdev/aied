@@ -101,6 +101,7 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 ## Connected Concepts
 
 - [[interpreting-and-applying-aied-research]]
+- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
 - [[assessment-validity]] — Validity of interpretation in AI-ed evaluation
 - [[educational-measurement]] — Measurement theory for assessing learning
 - [[psychometrically-aware-ai]] — Applying psychometrics to AI-based assessment

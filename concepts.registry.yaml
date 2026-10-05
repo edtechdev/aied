@@ -115,6 +115,15 @@ concepts:
     - ai agents
     - autonomous agents
     - multi-agent
+  ai-assisted-educational-research:
+    title: AI-Assisted Educational Research
+    aliases:
+    - ai-assisted research
+    - AI in educational research
+    - classroom research
+    - practitioner inquiry
+    - scholarship of teaching and learning
+    - SoTL
   ai-detection:
     title: AI Detection
     aliases:
@@ -2326,6 +2335,7 @@ sections:
   - label: Research methods
     items:
     - research-methods-aied
+    - ai-assisted-educational-research
     - qualitative-research
     - quantitative-research
     - mixed-methods-research
