@@ -3089,3 +3089,18 @@
   - trust
   - trust-calibration
   reason: "One pair qualified. ai-use-disclosure already carried the same phenomenon from survey data - students who always disclosed faced over three times the odds of an accusation, 'transparency invited suspicion' - and now carries the experimental causal evidence for it, with the pooled estimate and the framing/knowledge/regime robustness checks. trust did not get the weave: the paper's trust effect is a consequence of disclosure and is carried at the disclosure page, and the trust page frames trust as the learner's relation to AI and instructors rather than a third party's judgement of a discloser (grep for a disclosure-lowers-trust claim there -> 0 hits, so this is a judgement call rather than a gap). trust-calibration, human-in-the-loop-ai, agentic-ai, automated-assessment and assessment-validity are contrasted or mentioned without contributing a claim; social-norms-ai-use, theories-and-frameworks, quantitative-research, meta-analysis-systematic-review and generative-ai are facet vocabulary and methods. Confidence medium: 13 preregistered experiments, but the samples are mostly working adults and only Study 1 is student-facing."
+- article: explaining-question-difficulty-natural-language-2026
+  date: 2026-10-05
+  integrated:
+  - item-response-theory
+  no_change:
+  - automated-question-generation
+  - benchmark
+  - educational-measurement
+  - educational-nlp
+  - generative-ai
+  - llm
+  - psychometrically-aware-ai
+  - quantitative-research
+  - theories-and-frameworks
+  reason: "One pair qualified. item-response-theory already carried the difficulty-prediction entries (llm-item-difficulty-prediction, razavi-powers, llm-difficulty-calibration-programming-exams-2026) but not the explanatory/causal angle: this paper fits a 1PL Rasch model to RouterEval LLM response records and then explains WHY items differ in difficulty with natural-language hypotheses selected by L1-regularized regression and tested by editing questions. The nine others are facet vocabulary the paper uses without contributing a claim: automated-question-generation, benchmark, educational-measurement (the parent concept the IRT page already links), educational-nlp, generative-ai, llm, psychometrically-aware-ai, quantitative-research and theories-and-frameworks (grep of the article body shows benchmarks GSM8K/BBH/WinoGrande and models used as instruments, not a claim about benchmarking or generation practice). Confidence medium: full text read, but the causal probe uses accuracy as a difficulty proxy and validates only the paper's own hypotheses."
