@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-05T11:00:00-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -52,6 +52,7 @@ Prompt design is itself a measurable lever: on the MathDial benchmark a pedagogi
 - **AI-susceptible problems lose study time and retention.** A ten-year panel of 3.2 million ALEKS interactions found learning time on text-based word problems — those most transcribable into AI prompts — fell 26.9% after ChatGPT's release, while proctored retention items showed a 25% decline in the odds of a correct response ([[generative-ai-reduced-study-time-math|Rismanchian et al., 2026]]).
 
 - **Students value immediate feedback, but optional practice platforms go unused.** Of 157 students, [[genai-practice-platform-maths-feedback-2026|Chen et al. (2026)]] saw 95 register and only 34 attempt a question; users rated engagement highest (79% agreement) while just 42% preferred the platform to the existing problem booklet.
+- **AI can raise achievement while widening a gender gap.** In a six-week quasi-experiment with 115 Nigerian senior-secondary students, ChatGPT feedback raised quadratic-equation achievement over conventional teaching (29.18 vs 24.06), yet male students outperformed female students (30.95 vs 25.16) despite no gender difference in self-efficacy — an equity caution for AI mathematics support ([[ai-generated-responses-achievement-self-efficacy-2026|Oladayo & Diri, 2026]]).
 
 ### Connections to related concepts
 
@@ -124,3 +125,4 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantic knowledge-concept annotation and RL exercise sequencing on K-12 math corpora
 - [[misconception-acquisition-dynamics-llms-2026]] — algebra mal-rule training dynamics in language models
 - [[genai-practice-platform-maths-feedback-2026]] — Optional GenAI practice platform in a 157-student maths class: immediate feedback valued, uptake limited to 34 active users
+- [[ai-generated-responses-achievement-self-efficacy-2026]] — Assessing the Influence of AI-Generated Responses on Academic Achievement: An Ethical Perspective and Self-Efficacy

@@ -6,7 +6,7 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-05T11:00:00-04:00"
 reviewed_by: [editor]
 ---
 
@@ -34,6 +34,8 @@ AI is dramatically lowering the barrier to creating customized, embodied science
 ### AI tutors and inquiry-based learning
 
 Inquiry-based learning is a central theme. [[jiang-chatgpt-inquiry-steam-review-2026|Jiang et al.]]'s [[meta-analysis-systematic-review|systematic review]] of 24 studies positions ChatGPT as an "AI-powered co-inquirer" used mainly in the conceptualization, investigation, and discussion phases of [[inquiry-based-learning|STEAM inquiry]], improving performance, [[critical-thinking|critical thinking]], and engagement — yet risks over-reliance, hallucination, and superficial conclusions when outputs are treated as authoritative. [[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]] found that eight weeks of AI-supported guided inquiry produced large gains in pre-service teachers' conceptual understanding of photosynthesis and respiration, while [[ai-literacy|AI literacy]] and [[computational-thinking|computational thinking]] showed no significant change — suggesting disciplinary learning can improve even when broader competencies need longer or more explicit instruction. [[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani]] show AI can scaffold the epistemic core of ISLE inquiry while remaining confined to the verbal channel, but found facilitation fragile: under student pressure, the AI "invented" mass values that no one had measured, underscoring [[hallucination-risk]] and the need to verify rather than assume AI fidelity. [[airis-cognitively-activated-ai-physics-2026|Kuhn et al.]] propose the AIRIS framework (Activate–Inquire–Reflect) to keep prediction, interpretation, and evaluation non-delegable human tasks, and call for "withdrawal condition" experiments testing whether learning survives AI's removal — a direct response to the "boiling frog problem" of eroding epistemic practice. Expert judgment of AI-generated lesson plans extends this design lesson to [[curriculum-design|curriculum]]-aligned science: [[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu, Surmeli and Yildirim (2026)]] had eleven Turkish science-education specialists score ChatGPT-4 and an education-focused tool (Teacher's Buddy) on sixth-grade plans for a "Sustainable Living and Biodiversity" unit aligned to the Engineering [[design-based-research|Design-Based]] Learning (EDBL) model. Both platforms scored highest on "Presenting the solution" yet lowest on Engineering Skills (general-purpose x̄ = 37.45; education-focused x̄ = 41.45) — a shared weakness in simulating the iterative, process-oriented stages (prototyping, failure analysis, revision, reflective retesting) that define design-based learning — and only 3 of 11 experts judged either plan directly "Applicable," with 7 rating them "Can be applied by correction."
+
+A conceptual review grounds the material channel theoretically: science is an open system that revises claims against physical evidence, while a language model is operationally closed to evidence at inference ([[nature-of-science-generative-ai-2026|Muminova & Mamatkulov, 2026]]).
 
 ### Misconceptions and conceptual change
 
@@ -76,3 +78,4 @@ Teacher readiness is decisive. [[pre-service-science-teachers-ai-perceptions-202
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
 - [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
+- [[nature-of-science-generative-ai-2026]] — The nature of science in the age of generative artificial intelligence: Epistemic authority, materiality, and a synergetic response
