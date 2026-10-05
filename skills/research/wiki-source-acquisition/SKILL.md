@@ -82,6 +82,15 @@ different fixes. Identify which one you have before touching the page:
   rendered page via a real browser) and re-check. In one case the coefficients were absent from both
   the stored text and a 200k-char HTML rendering but present in the published PDF — the page was
   right and the source was wrong.
+- **For an arXiv paper, extract BOTH routes and compare before filing.** The HTML rendering and the
+  PDF are not interchangeable. One 2026 paper's results tables were absent from the PDF text
+  entirely (`pdftotext` produced zero occurrences of the evaluated models, which the HTML carried in
+  full), so filing the PDF route would have stored a source that cannot verify the page's own
+  numbers. The HTML route in turn ends with LaTeXML's conversion-error report and arXiv's site
+  footer, both of which must be trimmed, and it renders tables as ASCII grids — drop the pure
+  border lines (rows of `+`, `-`, `|`) as formatting, which loses no cell text, or the file hits the
+  250k cap and truncates the appendix. Record in the raw's `version:` field which route you used and
+  why.
 
 A publisher PDF that answered an earlier scripted fetch with an HTML error page often succeeds on a
 retry that sends a browser user-agent plus `Accept: application/pdf`. Retry once before declaring a
