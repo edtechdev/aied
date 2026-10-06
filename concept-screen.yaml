@@ -3587,3 +3587,30 @@
   - scaffolding
   - self-report-measures
   reason: 'Three of nineteen candidates qualified. self-regulated-learning is the primary home and already referred to GenAI-SRL; the paper contributes a validated six-dimension instrument in which environmental regulation is a dimension in its own right, measured by checking generated output, filtering suggested resources and setting boundaries on reliance. writing-education gained the same finding as a facet earlier L2 writing scales did not carry (the WSSRLQ covers cognitive, metacognitive, motivational and social-behavioral only). educational-measurement gained the instrument-development result: ant colony optimization over the merged two-wave sample produced a 12-item short form correlating r = 0.910 to 0.944 with the full scale per dimension, at the cost of narrower content coverage at two items per dimension. The sixteen others are vocabulary the paper uses without contributing a distinguishing claim: information-technology (its GenAI-SRL content is a different study of IT postgraduates, and this paper has no IT-education data), discipline-specific-aied (no cross-discipline comparison; its writing and English-education bullets already carry composition, AES and L2 writing evaluation), metacognition (already carries SRL and metacognition studies plus a validated instrument; the metacognitive dimension is one of six, not distinguishing), motivation (the motivational dimension is a scale facet with no motivation outcome measured), assessment-validity (the self-report criterion caveat is already stated on that page), and the remaining facet and umbrella pages (academic-integrity, conversational-ai, critical-thinking, generative-ai, help-seeking, human-ai-collaboration, limitations-in-aied-research, llm, quantitative-research, scaffolding, self-report-measures) which the paper references as instruments or contexts rather than as objects of a claim. Confidence high: full publisher PDF read, all figures verified against it.'
+
+- article: ethically-mediated-ai-tpack-china-2026
+  date: 2026-10-06
+  integrated:
+  - tpack
+  - ethics
+  no_change:
+  - adult-learning
+  - ai-ed-evaluation
+  - ai-literacy
+  - ai-technologies
+  - anxiety-and-stress
+  - bias-mitigation
+  - curriculum-design
+  - educational-development
+  - generative-ai
+  - higher-ed
+  - k-12
+  - learning-analytics
+  - learning-design
+  - pedagogy
+  - privacy
+  - quantitative-research
+  - self-report-measures
+  - teacher-ai-competency
+  - teacher-role
+  reason: 'Two of twenty-one candidates qualified. tpack: the AI-TPACK section carried "technical knowledge alone is insufficient" (pedagogy-first, Choi) but no negative direct path and no ethical mediator, so it gained the suppression result (direct beta = -0.303 against a positive total effect of 0.639) and AI-ethical knowledge as an integrative mediator (grep "suppress" in tpack.md -> 0 hits before the edit; "ethic" -> 0 hits in that section). ethics: the page argues the checklist-to-situated shift and carries student-side mediation evidence (Zhu and Kong), but no teacher-competence mediation, so it gained the teacher-side finding (beta = 0.186, 95% CI [0.124, 0.255]) attached to the cultural-historical-responsibility bullet that already links teacher-ai-competency (grep "TPACK" in ethics.md -> 0 hits before the edit). The other nineteen are vocabulary the paper uses rather than concepts it changes. teacher-ai-competency: grep "suppress" -> 0 hits, but its narrative already carries the AI-TPACK multi-agent modeling claim and the proficiency-vs-application pattern, and the suppression finding is placed on the framework page it belongs to rather than restated on both. educational-development: grep "tool-centric|isolated technical|negative direct" -> 0 hits, but the "replace tool training with design work" implication it draws is already stated repeatedly there (McInnes on resisting a technicist brief, Sithole on developers as mediators), so the paper adds an instance of a claim the page carries, not a new one. ai-literacy, ai-technologies, quantitative-research, pedagogy, learning-design, generative-ai, self-report-measures, teacher-role, learning-analytics, ai-ed-evaluation, higher-ed, k-12, anxiety-and-stress, privacy, bias-mitigation, curriculum-design, adult-learning: these are the constructs, methods and contexts the paper names (its facet fields and inline links) rather than objects of a distinguishing claim, and their pages were grepped for the study own subject matter (TPACK / teacher competence / AI-ethical mediation) with 0 hits on each - a teacher self-report competence survey says nothing new to the AI technologies, privacy, bias-mitigation or adult-learning narratives. Confidence medium: full publisher PDF read and every figure on the page checked against it, but the study is cross-sectional and reports no data-collection window or tool generation.'
