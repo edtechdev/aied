@@ -3563,3 +3563,27 @@
   - theories-and-frameworks
   - trust
   reason: 'Two pairs qualified, both on the article methodological claims rather than data. science-education: the page synthesized AI in science teaching and learning but carried no claim about the field own knowledge production (grep "nomic|epistemic iteration" in science-education.md -> 0 hits); this adds the epistemic-iteration thesis (Chang 2004) and the seven-phase reflective framework. research-methods-aied: the page catalogued design families but carried no measurement-theoretic account of AI-derived measurement functions (same grep -> 0 hits); this adds the nomic-measurement problem and the researcher-role shift to validating computational outputs. Skipped the rest: educational-measurement already carries the opaque automated-measurement caveat and cross-population construct divergence (grep "opaque|black-box" -> lines 24, 107; "transfer across populations" -> line 101), so the article point restates precision-without-validity; qualitative-research already carries LLM-assisted coding, the agreement-is-not-quality finding and the researcher-as-validator claim; quantitative-research and item-response-theory already carry the classical-test-theory and IRT/Rasch material as method and the article uses them as a conceptual historical parallel rather than a new quantitative claim; philosophy-of-ai-in-education houses mind, learner, agency and values, and the philosophy-of-measurement framing is carried in the research-methods weave; theories-and-frameworks already distinguishes theory from framework, and this framework is a reflective research instrument rather than a learning theory; machine-learning and educational-nlp already carry embedding-based construct measurement (grep "embedding" -> hits on both); generative-ai and multilingual-learning already carry multilingual and non-standard-expression limits, which the article cites rather than measures; assessment-validity already carries the opaque interpretive chain (grep "opaque" -> hit); trust carries calibration and reliance material; explainable-ai carries semantic-versus-keyword explanation claims; differential-effects-across-learner-groups already carries personalization bias and social-identity differentials (grep "achievement|social identity|marginali" -> hits). It also anchors the new ai-assisted-educational-research concept page, which lists it as a Tier-1 anchor for AI as an instrument of the field''s own research work.'
+- article: genai-srl-l2-writing-scale-2026
+  date: 2026-10-06
+  integrated:
+  - self-regulated-learning
+  - writing-education
+  - educational-measurement
+  no_change:
+  - academic-integrity
+  - assessment-validity
+  - conversational-ai
+  - critical-thinking
+  - discipline-specific-aied
+  - generative-ai
+  - help-seeking
+  - human-ai-collaboration
+  - information-technology
+  - limitations-in-aied-research
+  - llm
+  - metacognition
+  - motivation
+  - quantitative-research
+  - scaffolding
+  - self-report-measures
+  reason: 'Three of nineteen candidates qualified. self-regulated-learning is the primary home and already referred to GenAI-SRL; the paper contributes a validated six-dimension instrument in which environmental regulation is a dimension in its own right, measured by checking generated output, filtering suggested resources and setting boundaries on reliance. writing-education gained the same finding as a facet earlier L2 writing scales did not carry (the WSSRLQ covers cognitive, metacognitive, motivational and social-behavioral only). educational-measurement gained the instrument-development result: ant colony optimization over the merged two-wave sample produced a 12-item short form correlating r = 0.910 to 0.944 with the full scale per dimension, at the cost of narrower content coverage at two items per dimension. The sixteen others are vocabulary the paper uses without contributing a distinguishing claim: information-technology (its GenAI-SRL content is a different study of IT postgraduates, and this paper has no IT-education data), discipline-specific-aied (no cross-discipline comparison; its writing and English-education bullets already carry composition, AES and L2 writing evaluation), metacognition (already carries SRL and metacognition studies plus a validated instrument; the metacognitive dimension is one of six, not distinguishing), motivation (the motivational dimension is a scale facet with no motivation outcome measured), assessment-validity (the self-report criterion caveat is already stated on that page), and the remaining facet and umbrella pages (academic-integrity, conversational-ai, critical-thinking, generative-ai, help-seeking, human-ai-collaboration, limitations-in-aied-research, llm, quantitative-research, scaffolding, self-report-measures) which the paper references as instruments or contexts rather than as objects of a claim. Confidence high: full publisher PDF read, all figures verified against it.'
