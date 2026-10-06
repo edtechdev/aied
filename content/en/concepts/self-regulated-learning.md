@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-06T02:05:50-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -93,6 +93,8 @@ AI tools can enter this loop at different points:
 ### Strategic Regulation of GenAI as SRL
 
 [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] reframes effective [[generative-ai|GenAI]] use in [[writing-education|academic writing]] as **strategic regulation** — an enacted SRL practice of verifying, revising, selectively adopting, or rejecting AI output. In a [[mixed-methods-research|mixed-methods]] study of 107 students, higher [[anxiety-and-stress|AI anxiety]] was positively associated with verification and revision (β=.24), while evaluative capacity predicted active revision and selective integration (β=.46). Students clustered into four regulatory types — Uncritical Reliance (18.7%), Selective Integration (34.6%), Evaluative Transformation (31.8%), and Strategic Rejection (14.9%) — showing that [[ai-literacy]] in [[higher-ed]] functions less as acceptance than as regulatory competence grounded in [[evaluative-judgment]] and [[ethics|ethical]] responsibility. This positions SRL as the core mechanism distinguishing critical from uncritical AI use.
+
+Governance of the tool is itself a measurable facet: a two-wave validation with Chinese EFL learners (EFA N = 305; CFA N = 342) separates six regulatory dimensions and names *environmental regulation* — checking generated output for accuracy, filtering suggested resources, and setting boundaries on reliance — as one in its own right ([[genai-srl-l2-writing-scale-2026|Wang, Zhang and Zhang (2026)]]).
 
 
 Classify before delegating: [[scan-framework-task-assignment-generative-ai-2025|Tsim and Gutoreva (2025)]] turn self-regulation into a per-task protocol — label each subtask Substitute, Complement, Aid or Non-negotiable, justify it in a short metacognitive note, and keep an audit trail of prompts, drafts and human revisions — with the cycle repeating so one task's assignment informs the next.
@@ -204,3 +206,4 @@ Which support is in play decides which mediator carries the association: among 3
 - [[genai-literacy-srl-special-education-2026]] — GenAI literacy related to self-regulated learning behaviors mainly through learning agency
 - [[preservice-teachers-ai-support-innovative-competence-2026]] — Support type flips the mediator: AI self-efficacy vs self-regulated learning
 - [[genai-learning-procrastination-planned-behavior-2026]] — GenAI-assisted learning procrastination: an intention-behavior gap that anxiety strengthens
+- [[genai-srl-l2-writing-scale-2026]] — A validated six-dimension GenAI-SRL scale for L2 writing, with environmental regulation as its own dimension and a 12-item ant-colony-optimized short form

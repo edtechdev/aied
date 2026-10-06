@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-02T12:40:11-04:00"
+updated: "2026-10-06T02:05:50-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -58,6 +58,8 @@ Agreement is a property of the corpus, not the scorer: [[automated-scoring-marke
 ### Writing as thinking
 
 Because writing is a cognitive process, AI-in-writing research connects to [[cognitive-offloading]] (does AI writing support bypass thinking?), [[metacognition]] (does AI feedback improve [[self-assessment]]?), [[self-regulated-learning]] (do students regulate their use of AI feedback?), and [[ai-literacy]] (can students evaluate AI-generated writing critically?). The [[critical-thinking-genai-scaffolding|critical-thinking scaffolding]] and [[ai-feedback-critical-thinking-writing-2026|AI feedback for critical thinking]] research show that the [[pedagogy|pedagogical]] value of AI in writing depends on whether it prompts reflection and judgment rather than answer-replacement.
+
+A two-wave validation with Chinese EFL learners (EFA N = 305; CFA N = 342) separates six regulatory dimensions and adds *environmental regulation* — checking generated content, filtering suggested resources, and limiting reliance — a facet existing L2 writing scales had not carried ([[genai-srl-l2-writing-scale-2026|Wang, Zhang and Zhang (2026)]]).
 
 [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] sharpens this with a **layer-sensitive** account of [[cognitive-offloading|cognitive offloading]] in GenAI-assisted academic writing: delegating *deeper* layers (reasoning, argumentative logic) carries a stronger negative association with independent no-AI writing quality and [[critical-thinking|higher-order thinking]] than delegating surface layers (grammar, vocabulary). Open AI collaboration yielded the best supported product but the worst independent outcomes, while bounded support with reflection preserved competence — evidence that GenAI writing support is not uniformly harmful but its effect depends on which cognitive layer students delegate.
 
@@ -168,3 +170,4 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[human-ai-collaboration-academic-writing-2026]] — Structured human–AI collaboration in academic writing and digital critical thinking (Alshehri et al. 2026)
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Human and AI revisions of the same draft take different dialogic stances: peer feedback closes dialogic space, AI revision keeps it balanced (Zhao & Ji 2026)
 - [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock: gating AI output on prior engagement redistributed effort to writing without costing time or accuracy (N = 398)
+- [[genai-srl-l2-writing-scale-2026]] — A six-dimension GenAI-SRL scale for L2 writing, with environmental regulation (tool governance) as a distinct dimension
