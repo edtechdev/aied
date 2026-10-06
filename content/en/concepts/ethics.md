@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-06T17:30:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -67,7 +67,7 @@ A major theoretical shift in the knowledge base is the critique of universalist,
 
 - **Situated AI ethics.** [[raffaghelli-situated-ai-ethics-2026|Raffaghelli et al. (2026)]] fuse Bronfenbrenner's ecological systems theory with Cultural-Historical [[activity-theory-aied|Activity Theory]] to frame AI as a non-neutral socio-technical assemblage whose ethical implications are historically produced and locally negotiated. Across seven national cases, teachers are positioned as moral gatekeepers of AI use while lacking structural, institutional, and epistemic support — and the framework extends [[ai-education|AI literacy]] beyond technical skills toward critical, political, and ecological agency, including resistance to surveillance capitalism and environmental harm.
 - **The shift toward situated practice.** [[ai-ethics-bibliometric-2026|A bibliometric analysis of 282 articles]] shows that AI ethics discourse post-2021 increasingly frames ethics around professional judgment, trust, [[human-ai-collaboration|human-AI collaboration]], and interpretive practice rather than only technical compliance — with education a conceptually important context.
-- **A cultural-historical account of responsibility.** This reframing connects ethics to [[learning-theories]] and [[teacher-ai-competency]]: responsible AI use is treated as context-sensitive, collective, and transformative agency rather than individual compliance with checklists.
+- **A cultural-historical account of responsibility.** This reframing connects ethics to [[learning-theories]] and [[teacher-ai-competency]]: responsible AI use is treated as context-sensitive, collective, and transformative agency rather than individual compliance with checklists. A survey of 454 university teachers supports that framing: AI-ethical knowledge mediated the path from technical AI knowledge to integrated teaching competence (β = 0.186) and channeled it onward through pedagogical and content knowledge ([[ethically-mediated-ai-tpack-china-2026|Chen et al. (2026)]]).
 - **An ontological reframing of ethical obligation.** Xie (2026) pushes the situated-ethics critique further by relocating it in ontology: where much scholarship treats equity, power asymmetries and environmental costs as externalities to be managed, a Daoist relational self makes them internal to who we are, so that "being left behind" becomes ontologically untenable rather than merely unfair. The ethical task is then not detached optimization but Wuwei (无为) — non-forced action aligned with naturalness — set against the Youwei (有为) of algorithmic monoculture, cognitive offloading and extractive infrastructure, applied across three domains: knowledge (epistemic monoculture and synthetic misinformation), knowing (offloading that degrades [[critical-thinking|critical thought]]) and impact (environmental costs and Global North–South asymmetries).([[daoism-ai-education-philosophy-2026]])
 
 ## Ethics in practice
@@ -113,6 +113,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
 - [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
 - [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics: a cultural-historical framework for education
+- [[ethically-mediated-ai-tpack-china-2026]] — AI-ethical knowledge as an integrative mediator in university teachers' AI-TPACK (Chen et al. 2026)
 - [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgment: A Bibliometric Analysis (Mazlan et al. 2026)
 - [[adarkwah-genai-unesco-policy-2026]] — UNESCO generative AI policy framework analysis
 - [[luo-eaton-ai-student-feedback-ethics-2026]] — Is it ethical for teachers to use AI for student feedback?
