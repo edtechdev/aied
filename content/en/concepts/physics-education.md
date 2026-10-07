@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-05T11:00:00-04:00"
+updated: "2026-10-06T18:35:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -74,7 +74,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 
 - **Design for student trust, not just adoption.** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]] document a 50-point trust-utility gap (91% use, 41% trust), with students identifying AI failures in visual-spatial reasoning and circuits — create opportunities to expose and discuss these limits rather than assume acceptance.
 - **Use Socratic AI to deepen question quality, but watch for strategic ceding.** [[hashmi-socratic-physics-chatbot-2025|Socratic chatbots]] improve question specificity, yet [[socratic-ai-physics-tutor-taxonomy-2026|taxonomy research]] finds meta-procedural turns dominate — students hand strategic control to the tutor. Intervene to keep students the decision-makers.
-- **Structure AI use cognitively, not just permissively.** [[airis-cognitively-activated-ai-physics-2026|AIRIS]] (Activate–Inquire–Reflect) shows the value of having students predict/outline before AI, delegate computational steps while comparing output critically, and reflect afterward — treat AI integration as an instructional-design problem, and test whether learning survives AI removal.
+- **Structure AI use cognitively, not just permissively.** [[airis-cognitively-activated-ai-physics-2026|AIRIS]] (Activate–Inquire–Reflect) shows the value of having students predict/outline before AI, delegate computational steps while comparing output critically, and reflect afterward — treat AI integration as an instructional-design problem, and test whether learning survives AI removal. In a randomized trial with 95 undergraduates, 45 minutes of SRL-aligned training on mechanics problems lifted accuracy when students later revised electromagnetism items with a model: 69.3% of their incorrect answers became correct against 41.3% for untrained controls (d = 0.81) ([[structured-genai-training-physics-problem-solving-rct-2026|Huang et al. (2026)]]).
 - **Guard against scoring bias.** [[ai-scoring-language-bias-physics|AI scoring]] systematically underestimates linguistically weaker students' explanations; use language-aware or human-moderated scoring for conceptual assessment.
 - **Use simulated classrooms for teacher preparation.** [[multiagent-classroom-dual-process-physics-teachers-2026|Simulated multi-agent classrooms]] give prospective teachers rare practice responding to authentic student reasoning — a low-cost complement to live microteaching.
 - **Reserve unaided practice and assessment.** The Bochum redesign ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al. 2026]]) shows AI-permitted, research-shaped homework completed with high engagement can leave students far behind on an unaided exam (mean 20.6/80) — treat assisted performance and independently retrievable knowledge as distinct, and build deliberate unaided practice and a written exam into the course.
@@ -132,3 +132,4 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
 - [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1,834 Bengali secondary-physics QA pairs mapped to a 1,760-node curriculum graph, with small-model adaptation gains
 - [[ai-university-physics-education-review-2026]] — Artificial intelligence in university physics education: a systematic review of empirical studies
+- [[structured-genai-training-physics-problem-solving-rct-2026]] — Structured GenAI training for physics problem revision: a randomized controlled trial (Huang et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-07T07:20:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -42,6 +42,7 @@ The knowledge base's [[research-methods-aied|research methods]] page details the
 
 - **Retrieval design sets a synthesis's headline numbers.** In a scoping review of 195 teacher-education studies, digital competence and [[tpack|TPACK]] were explicit search descriptors while instructional design and assessment had no equivalent, so the reported 46.5% and 1.9% describe the retrieved corpus rather than the field ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 - **Small sample sizes.** Many AIED studies are underpowered — too few participants to reliably detect meaningful effects or to support the strong claims sometimes drawn from them.
+- **Endpoint scores can hide the thing being studied.** In a PRISMA review of 103 [[higher-ed|higher-education]] studies, 56% reported gains that were conditional on scaffolding or verification, and null grade differences often accompanied real changes in process — more debugging, more checking cycles — so grades alone cannot tell whether [[generative-ai|GenAI]] strengthened or hollowed out practice ([[hawi-genai-higher-ed-uses-outcomes-risks-2026|Hawi and Samaha (2026)]]).
 
 - **Validation design can manufacture the headline number.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara and Halloluwa (2026)]] benchmark fifteen models on EEG-based familiarity and show that standard stratified cross-validation allows temporal leakage and reports up to 0.9853 F1, while trial-independent Group K-Fold validation drops the peak to 0.6038 F1 — still above chance, but far from the quoted result.
 - **Benchmarks can supply the failures they report.** Expert re-grading of 250 rejected physics items attributed 238 (95.20%) to benchmark or grader errors and only 12 (4.80%) to genuine model errors, so a model's measured error rate cannot fall below the instrument's defect rate.([[frontier-models-physics-benchmark-audit-2026|Ansari et al. (2026)]])
@@ -140,3 +141,4 @@ The purpose of this knowledge base is to help close that gap — to make it easi
 
 - [[digital-competence-ai-responsive-pedagogy-2026]] — Scoping review of 195 teacher-education studies where search-string design shapes the reported frequencies
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national K-12 teacher survey: machine-translated items, single-item concern measures, no invariance testing
+- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Systematic review of 103 GenAI higher-education studies: 56% conditional gains, grades masking process change (Hawi & Samaha 2026)

@@ -3614,3 +3614,118 @@
   - teacher-ai-competency
   - teacher-role
   reason: 'Two of twenty-one candidates qualified. tpack: the AI-TPACK section carried "technical knowledge alone is insufficient" (pedagogy-first, Choi) but no negative direct path and no ethical mediator, so it gained the suppression result (direct beta = -0.303 against a positive total effect of 0.639) and AI-ethical knowledge as an integrative mediator (grep "suppress" in tpack.md -> 0 hits before the edit; "ethic" -> 0 hits in that section). ethics: the page argues the checklist-to-situated shift and carries student-side mediation evidence (Zhu and Kong), but no teacher-competence mediation, so it gained the teacher-side finding (beta = 0.186, 95% CI [0.124, 0.255]) attached to the cultural-historical-responsibility bullet that already links teacher-ai-competency (grep "TPACK" in ethics.md -> 0 hits before the edit). The other nineteen are vocabulary the paper uses rather than concepts it changes. teacher-ai-competency: grep "suppress" -> 0 hits, but its narrative already carries the AI-TPACK multi-agent modeling claim and the proficiency-vs-application pattern, and the suppression finding is placed on the framework page it belongs to rather than restated on both. educational-development: grep "tool-centric|isolated technical|negative direct" -> 0 hits, but the "replace tool training with design work" implication it draws is already stated repeatedly there (McInnes on resisting a technicist brief, Sithole on developers as mediators), so the paper adds an instance of a claim the page carries, not a new one. ai-literacy, ai-technologies, quantitative-research, pedagogy, learning-design, generative-ai, self-report-measures, teacher-role, learning-analytics, ai-ed-evaluation, higher-ed, k-12, anxiety-and-stress, privacy, bias-mitigation, curriculum-design, adult-learning: these are the constructs, methods and contexts the paper names (its facet fields and inline links) rather than objects of a distinguishing claim, and their pages were grepped for the study own subject matter (TPACK / teacher competence / AI-ethical mediation) with 0 hits on each - a teacher self-report competence survey says nothing new to the AI technologies, privacy, bias-mitigation or adult-learning narratives. Confidence medium: full publisher PDF read and every figure on the page checked against it, but the study is cross-sectional and reports no data-collection window or tool generation.'
+
+- article: genai-use-changing-institutional-policy-physics-2026
+  date: 2026-10-06
+  integrated:
+  - samr-model
+  - educational-policy-ai
+  no_change:
+  - academic-integrity
+  - ai-use-disclosure
+  - assessment
+  - authentic-assessment
+  - curriculum-design
+  - evaluative-judgment
+  - feedback-literacy
+  - generative-ai
+  - higher-ed
+  - mixed-methods-research
+  - physics-education
+  - qualitative-research
+  - self-report-measures
+  reason: 'Two of fifteen candidates qualified. samr-model: grep "feedback" in samr-model.md -> 0 hits, and every evidence bullet there grades teacher- or institution-level integration, so the page had no student-side mapping; it gained the use-function mapping (feedback spanning all four levels, formatting at substitution, task-doing at modification-redefinition). educational-policy-ai: the page carries task-type differentiation by instructors (Chirikov syllabi study) and the boundary-evidence gap, but no measured student counterpart; it gained the finding that two assessments under an identical open-use tier produced different use profiles (feedback 0% to 66.7%), which is the student-side evidence that a permission tier is a weak lever compared with task design. ai-use-disclosure was considered and rejected: grep "Make disclosure formative" -> hit, with the page already recommending structured declarations that build AI literacy, so the paper recommendation to pair a declaration with a revision record restates the design advice already there. The remaining twelve are constructs the case study uses as context rather than claims it changes: physics-education already carries 118 physics references including an AI-resistant redesign with assisted-versus-unaided evidence, authentic-assessment and evaluative-judgment already carry the design-rewards-judgement argument, academic-integrity carries integrity policy as suspicion, feedback-literacy carries the interpret-and-act requirement, and higher-ed, generative-ai, assessment, curriculum-design, mixed-methods-research, qualitative-research and self-report-measures are the setting, method and instrument vocabulary. Confidence medium: open-access publisher PDF read, every number checked against it, but the study is a 31-36 student single-unit case with self-reported use and unknown tool versions beyond the named products.'
+
+- article: structured-genai-training-physics-problem-solving-rct-2026
+  date: 2026-10-06
+  integrated:
+  - physics-education
+  - scaffolding
+  no_change:
+  - ai-literacy
+  - cognitive-offloading
+  - conversational-ai
+  - equity-in-ai-education
+  - generative-ai
+  - hallucination-risk
+  - higher-ed
+  - human-ai-collaboration
+  - learning-gains
+  - llm
+  - metacognition
+  - prior-knowledge
+  - problem-solving
+  - productive-failure
+  - prompt-engineering
+  - qualitative-research
+  - rct
+  - self-assessment
+  - self-regulated-learning
+  - self-report-measures
+  - trust-calibration
+  reason: 'Two of twenty-three candidates qualified. physics-education: the page carries a Socratic-tutoring theme, an AI-resistant redesign and the "structure AI use cognitively" implication, but no randomized test of training students to interrogate a model, so it gained the RCT result (69.3% versus 41.3% incorrect-to-correct, d = 0.81, mechanics training transferring to electromagnetism revision). scaffolding: grep "teach students" -> 0 hits and its scaffolds are all AI-provided or design-side, so the page had no instance of training the learner as the scaffold; it gained that bullet with the load caveat. trust-calibration was considered and rejected on prior coverage, not on quality: the page already carries the same claim class with a stronger quantified intervention (grep "brief reflection prompt" -> Ren 2026, randomized, acceptance of incorrect advice cut from 62.4% to 39.7% via a prompt), so this study would be a second instance of a claim the page states, and its calibration finding is inferred from revision behaviour rather than measured. self-regulated-learning is likewise covered: its section "LLM-Mediated SRL: Scaffold, Shortcut, or Partner?" carries exactly this study framing. desirable-difficulties was screened and rejected because the intrinsic-load split the paper proposes is explicitly preliminary (p = 0.079, offered as a refinement for future work) and the page already carries productive struggle and cognitive friction. The remaining candidates are the constructs, tools and methods the paper uses: cognitive-offloading and metacognition carry metacognitive laziness and offloading already, prompt-engineering carries prompting strategy as a performance predictor, ai-literacy carries structured AI-literacy interventions, and higher-ed, generative-ai, llm, conversational-ai, rct, learning-gains, prior-knowledge, problem-solving, productive-failure, self-assessment, self-report-measures, qualitative-research, human-ai-collaboration, hallucination-risk and equity-in-ai-education are vocabulary rather than claims. Confidence high in design terms (randomized, baseline-equivalent, pre-registered sequence of steps) and medium in reach: no model version and no data-collection window are stated.'
+
+- article: hawi-genai-higher-ed-uses-outcomes-risks-2026
+  date: 2026-10-07
+  integrated:
+  - limitations-in-aied-research
+  no_change:
+  - academic-integrity
+  - ai-detection
+  - ai-misuse-learning-harm
+  - assessment
+  - automated-assessment
+  - cognitive-offloading
+  - conversational-ai
+  - critical-thinking
+  - cs-education
+  - equity-in-ai-education
+  - evaluative-judgment
+  - feedback
+  - generative-ai
+  - governance
+  - higher-ed
+  - human-ai-collaboration
+  - intelligent-tutoring
+  - language-learning
+  - learning-analytics
+  - llm
+  - medical-education
+  - meta-analysis-systematic-review
+  - motivation
+  - oral-assessment
+  - pedagogy
+  - personalized-learning
+  - problem-solving
+  - prompt-engineering
+  - scaffolding
+  - self-regulated-learning
+  - self-report-measures
+  - simulation
+  reason: 'One of thirty-two candidates qualified. limitations-in-aied-research: grep "endpoint|illusion|process-sensitive" -> 0 hits, and its Methodological limitations list covers synthesis rigor, retrieval design, small samples and benchmark error but nothing about outcome measurement ceilings; it gained the endpoint-scores bullet (56% conditional across 103 studies, null grade differences alongside changed process). equity-in-ai-education was screened and rejected on prior coverage found by grep: its Outcome equity section already states the same mechanism twice - "The skill gap operates within a single classroom: students with stronger prior knowledge convert AI assistance into durable skill while struggling students use it as a crutch" - and Brunnstrom and Palmqvist on unguided GenAI being "most beneficial to already advantaged students", so the review finding would be a third instance of a claim the page carries. academic-integrity and ai-detection are likewise already saturated: grep "detection" -> 47 hits on academic-integrity, including Turnitin, false positives and staff under-reporting, so this review source adds no distinguishing claim there. The remaining candidates are the seven use categories, four outcome levels and tool vocabulary the review synthesises rather than extends: scaffolding already carries scaffolding-versus-substitution as a design principle, assessment and automated-assessment carry the redesign and grading-oversight findings from primary studies, cs-education carries code-generation-versus-explanation patterns, medical-education carries virtual-patient and OSCE scaffolding work, and higher-ed, llm, generative-ai, conversational-ai, feedback, motivation, personalized-learning, prompt-engineering, problem-solving, critical-thinking, evaluative-judgment, self-regulated-learning, self-report-measures, simulation, language-learning, learning-analytics, meta-analysis-systematic-review, oral-assessment, pedagogy, governance, human-ai-collaboration, cognitive-offloading and ai-misuse-learning-harm are the review setting, method and construct vocabulary. Confidence high for the corpus description and medium for the typology, which is interpretive by construction.'
+
+- article: reddit-genai-education-discourse-analysis-2026
+  date: 2026-10-07
+  integrated:
+  - academic-integrity
+  - social-norms-ai-use
+  no_change:
+  - ai-detection
+  - ai-literacy
+  - ai-use-disclosure
+  - anxiety-and-stress
+  - assessment
+  - conversational-ai
+  - critical-thinking
+  - educational-policy-ai
+  - equity-in-ai-education
+  - generative-ai
+  - governance
+  - higher-ed
+  - k-12
+  - llm
+  - network-analysis
+  - qualitative-research
+  - reducing-ai-misuse
+  - teacher-role
+  reason: 'Two of twenty candidates qualified. academic-integrity: grep "reddit" -> 0 hits and the page carries the detection-vs-circumvention arms race as a claim (Roe on humanizers) but no account of how the enforcement regime dominates the wider conversation, so it gained the corpus-scale bullet (37.1% of records in the integrity cluster, enforcement the largest single theme at 12.1%, 32.3% of faculty-student threads in detection and enforcement disputes). social-norms-ai-use: the page argues surveillance does not settle norms but never says where norms are then negotiated, and grep "reddit" -> 0 hits; it gained the finding that adversarial integrity conflict is the highest-volume cross-role setting and that student-initiated threads dominate. ai-detection was screened and rejected on prior coverage: grep "false positive" -> 9 hits and "arms race" -> 2 hits, so the phase trajectory (detection 14.1% of records in the detection-crisis phase, falling 4.4pp by the practical turn) restates an established claim rather than changing the page. educational-policy-ai and governance were screened and rejected similarly: both already argue the policy-practice gap and detection-centred compliance from the primary literature, and this study measures discourse about that gap rather than a new policy finding. anxiety-and-stress already carries career anxiety (grep "career" -> 37 hits). The rest are vocabulary and method: higher-ed, k-12, generative-ai, llm, conversational-ai, critical-thinking, ai-literacy, ai-use-disclosure, equity-in-ai-education, reducing-ai-misuse, teacher-role, assessment, network-analysis and qualitative-research name the settings, tools, constructs and techniques the study uses. Confidence medium: the corpus is large and the phase analysis is change-point validated, but theme-level annotation agreement is only fair (kappa = 0.38), the role classifier covers 75% of authors, and the platform skews Anglophone and North American.'
