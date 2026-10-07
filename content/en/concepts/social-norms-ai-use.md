@@ -1,7 +1,7 @@
 ---
 title: Social Norms of AI Use
 created: "2026-09-23T09:54:12-04:00"
-updated: "2026-09-23T09:54:12-04:00"
+updated: "2026-10-07T08:00:00-04:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -77,6 +77,7 @@ Two further studies explain why surveillance is a poor tool for norm-setting. [[
 
 [[teichmann-detecting-undetectable-misconduct-2026|The procedural-justice argument]] draws the conclusion: because skilled or lightly edited AI use is undetectable in the general case, a misconduct procedure built on detection produces unfairness without effectiveness, and the answer is better [[assessment]], not better surveillance.
 
+The cost of that substitution shows up in where faculty and students actually talk. Across 253,222 AI-related records from 26 education subreddits, a third of all faculty–student threads were detection or enforcement disputes, students opened 68.4% of them, and negativity predicted engagement (ρ = −0.72) — adversarial conflict, not deliberation, is the highest-volume form of cross-role contact about [[generative-ai|GenAI]] ([[reddit-genai-education-discourse-analysis-2026|Yüce et al. (2026)]]).
 ## What this means for practice
 
 - **Make use visible instead of inferring it.** Students cannot judge each other accurately, and repeated collaboration does not fix it. Lightweight shared records of AI-supported work, annotations, or prompt histories give a group something factual to reason about.
@@ -117,3 +118,4 @@ Two further studies explain why surveillance is a poor tool for norm-setting. [[
 - [[teichmann-detecting-undetectable-misconduct-2026]] — Detecting the undetectable: misconduct procedures after generative AI
 - [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Cheating or competing? AI in marketing education
 - [[chen-zou-genai-group-assessment-agency-2026]] — Agency in GenAI-supported group assessment
+- [[reddit-genai-education-discourse-analysis-2026]] — Reddit discourse analysis: faculty–student contact concentrates in detection and enforcement disputes (Yüce et al. 2026)

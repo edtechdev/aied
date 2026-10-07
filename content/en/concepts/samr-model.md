@@ -1,7 +1,7 @@
 ---
 title: SAMR Model
 created: "2026-09-10T09:50:00-04:00"
-updated: "2026-09-10T09:50:00-04:00"
+updated: "2026-10-06T18:35:00-04:00"
 type: concept
 foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -40,8 +40,7 @@ SAMR is frequently paired with the [[icap-framework|ICAP framework]] because the
 - **SAMR and TPACK anchor teacher-technology integration standards.** [[crompton-faculty-technology-integration-standards-2026|Crompton et al. (2026)]] situate their six faculty technology standards against existing frameworks — [[tpack]], RAT, SAMR, SETI — and standards (ISTE, UNESCO, DigCompEdu), most of which target [[k-12]] educators or only the [[teacher-role|teaching]] portion of faculty roles, leaving a gap in higher-education faculty development.
 - **SAMR is a target of the posthumanist critique.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] critiques TPACK, SAMR, and [[ai-literacy]] models for sharing a humanist ontology that presumes a bounded learner whose cognition is fundamentally unchanged by technological mediation, arguing these instrumentalist frameworks cannot address AI's constitutive role in cognition.
 - **A framework for integration, not a framework for power.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] evaluates SAMR alongside TPACK and other integration frameworks and finds none address equitable power, data ownership, or accountability, motivating an alternative ecological co-agency framework.
-
-## SAMR, TPACK, and technology adoption: how they differ
+- **Student use maps to SAMR as well, and feedback spans every level.** Coding the GenAI declarations of 31–36 students in a [[physics-education|physics]] unit placed learning at substitution–augmentation, formatting at substitution, and task-doing at modification–redefinition, while feedback — checking, clarifying, verifying — appeared at all four levels ([[genai-use-changing-institutional-policy-physics-2026|Quince and Faulconer (2026)]]).## SAMR, TPACK, and technology adoption: how they differ
 
 Three frameworks are frequently conflated but answer distinct questions:
 
@@ -80,3 +79,4 @@ SAMR is best understood as an integration-depth lens used in planning and evalua
 - [[crompton-faculty-technology-integration-standards-2026]] — SAMR among the frameworks informing faculty technology standards
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — The posthumanist critique of SAMR's humanist ontology
 - [[reclaiming-epistemic-agency-co-agency-2026]] — SAMR's silence on power, data ownership, and accountability
+- [[genai-use-changing-institutional-policy-physics-2026]] — Student GenAI use under changing institutional policies: use functions mapped to SAMR levels (Quince & Faulconer 2026)
