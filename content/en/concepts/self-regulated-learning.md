@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-06T02:05:50-04:00"
+updated: "2026-10-07T14:30:00-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -135,6 +135,8 @@ A cluster of Learning Letters studies (2026) converges on a central tension: [[g
 - **[[de-barba-srl-genai-2026|de Barba]]** extends SRL theoretically, arguing the field has narrowed to task-focused regulation and to optimizable behavioral proxies in educational technology. The paper proposes a cross-scale account of **learner agency** — regulation (within tasks), integration (across time and contexts), and positioning (critically in relation to the conditions framing learning) — as a design orientation for algorithmically mediated environments.
 - **Self-regulation buffers but does not cancel offloading harm.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] shows that self-regulated writing attenuates — but does not eliminate — the negative association between deep [[cognitive-offloading]] and independent no-AI outcomes in GenAI-assisted writing: the offloading-by-SRL interaction was positive (B = 0.22), flattening the harm from a slope of −0.54 (low SRL) to −0.33 (high SRL) but not canceling it. A bounded-support condition pairing delegation limits with compulsory reflection produced the strongest independent performance, evidence that metacognitive regulation partially protects learners yet cannot fully compensate for delegating the cognitive work itself.
 
+**Where rental sits inside Winne's models.** [[rented-self-decoupling-performance-becoming-2026|de Barba (2026)]] maps the mechanism onto SRL as operations the system performs in the learner's place: noticing, monitoring and evaluative judgment are exercised by the tool, an impasse is resolved by search rather than by the learner's own If-Then, Else choice, and the standards by which the learner judges are borrowed rather than built. A capability that a learner believes they hold while the tool holds it — *hidden rental* — suppresses the error signal that would otherwise prompt regulation, and ten propositions specify what to test, including larger costs in domain acclimation and standards drifting toward the model's own reference points.
+
 The collective lesson: **SRL is the core mechanism distinguishing critical from uncritical AI use.** Whether GenAI functions as a scaffold, shortcut, or partner depends on learners' regulatory capacity and on whether tools are designed to preserve (rather than remove) the regulatory demands that build expertise.
 
 
@@ -184,6 +186,7 @@ Which support is in play decides which mediator carries the association: among 3
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
+- [[rented-self-decoupling-performance-becoming-2026]] — The rented self: rental mapped onto Winne's SRL models, with ten propositions and within-learner indices
 - [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
 - [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
 - [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or shortcut? GenAI dual role in SRL

@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-07T09:45:00-04:00"
+updated: "2026-10-07T14:30:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -42,6 +42,8 @@ Differentiated support is not evidence of equitable benefit: a review of AI tuto
 - **Bridging divides for disabled learners:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] found that GenAI levels the playing field for visually impaired undergraduates across digital, geographic, and socioeconomic divides, framing inclusion as both an infrastructural and a cultural matter — extending digital equity discourse beyond access to belonging, voice, and representation.
 
 Preparation matters more than preference, and the right to refuse is unevenly distributed. Students with strong academic confidence can refuse AI without penalty, while students who need language support, accessibility support or rapid feedback experience refusal as a loss of opportunity, and casual staff may feel pressure to adopt tools that cut preparation time without cutting responsibility. Where a duty to understand is imposed without training, secure infrastructure and clear policy, it becomes hidden workload, and refusal turns into a predictable response to institutional under-preparation rather than resistance to the technology ([[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami 2026]]).
+
+**Rent is paid in three currencies, and owned competence goes with the graduate.** [[rented-self-decoupling-performance-becoming-2026|de Barba (2026)]] argues that capability residing in a commercial tool is available only on the provider's terms, so institutional licenses relocate the landlord rather than remove it: access typically ends with enrollment, and rented capability then persists only for graduates who can keep paying. She adds two further distributions that access debates usually miss — self costs concentrate in acclimation, where learners with less prior domain knowledge spend longest, and rented standards carry the model's reference points, predicted to displace more of the standards of learners whose cultural and linguistic reference points differ from the model's. The same tool widens access and displaces standards at once, which is why she treats naming the capabilities a course must build itself as an equity measure as well as a pedagogical one.
 
 ## Representational equity
 
@@ -121,6 +123,7 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[student-support-and-success]] — who support systems reach, and the risks of acting on a risk score
 
 ## Connected Articles
+- [[rented-self-decoupling-performance-becoming-2026]] — The rented self: rent paid in money, self and standards, and licenses that end at graduation
 - [[verified-study-materials-learning-gains-2026]] — Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course
 
 - [[ai-literacies-young-adults-2025]] — Equity as a delivery problem: reaching young people formal education misses

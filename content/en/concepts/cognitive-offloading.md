@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-04T10:52:15-04:00"
+updated: "2026-10-07T15:40:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -119,6 +119,10 @@ most consequential risks of AI in education:
 - **Reliance without domain knowledge degrades into guessing.** [[ai-particle-physics-education-redesign-2026|Mikhasenko et al. (2026)]], redesigning the introductory nuclear and particle [[physics-education|physics]] course at Ruhr University Bochum, describe a failure mode of reliance in the absence of domain knowledge: when a student could not judge whether a generated answer was physically sound, the intended "conversation with AI" degraded into guessing against plausible but unreliable output. The same course's mid-semester survey (n=30) found frequent LLM use (24 of 29 used them often or always) alongside low [[self-report-measures|self-reported]] preparedness for the computing fluency the assignments required, and open responses raised AI dependence and unequal access to paid models among the friction points.
 - **The Daoist counter-argument: offloading is not just impractical but self-defeating.** [[daoism-ai-education-philosophy-2026|Xie (2026)]] supplies a normative, anti-delegation counter-argument from Daoist self-cultivation: in Neidan (內丹) practice "there are no cognitive shortcuts," and the practitioner cannot outsource the labor to external devices, so AI should be "not a cognitive surrogate but an instrumental adjunct," akin to an alchemical furnace — a framing that aligns with the "coach vs. crutch" boundary above rather than with substitutive offloading.
 
+**Offloading can cost the self, not only the skill.** [[rented-self-decoupling-performance-becoming-2026|de Barba (2026)]] names the part of a learner's domain self whose capabilities reside in an AI-enabled tool and are available only on the provider's terms the *rented self*, and separates two costs. A *calibration* cost is a misjudged locus — underclaiming a capability one holds, or overclaiming one the tool holds — while a *self* cost follows whenever a core capability is rented, even knowingly, because the operations that build the self are never performed. Her four configurations cross locus with attribution: owned competence, unclaimed competence, visible rental and hidden rental, the last being the one that removes the signal prompting a learner to build what they believe they already own.
+
+**A 30-expert consensus puts the damage at both ends of the learning sequence.** A preregistered Delphi exercise over 65 learning processes found acquisition vulnerable (Encoding 3.30, Retrieval 3.30, Information Acquisition 3.00 on the 1-5 disruption scale), consolidation enhanced (Learning From Feedback 4.00, Learning From Examples 3.90, Self-Testing 3.80), and higher-order thinking vulnerable again ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Ten of eighteen higher-order processes reached consensus on vulnerability only, with enhancement ratings below threshold.
+
 ### The CLT framework
 
 Cognitive Load Theory (Sweller) provides a contested theoretical lens on [[cognitive-psychology|working memory]] and instruction: intrinsic load (task complexity), extraneous load (presentation friction), and germane load (schema-building effort). Well-designed AI should reduce extraneous load while preserving germane processing; poorly integrated AI reduces all three, leaving students with completed tasks and empty learning. Note that the theory's claims are contested in the wider literature, but its framing remains influential in how offloading effects are discussed.
@@ -158,6 +162,8 @@ Two controlled studies in the recent batch pin down the two halves of this claim
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - A 30-expert consensus over 65 learning processes: offloading at both ends of the learning sequence
+- [[rented-self-decoupling-performance-becoming-2026]] — The rented self: offloading that costs the learner's domain self, not only the skill
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Groups starting alike diverged: 74.1% model uptake in one profile against 80.8% offloading and impasse in another (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — AI assistance reduced persistence and unassisted performance across three RCTs (Liu et al. 2026)
 - [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT as a cognitive crutch: a randomized controlled trial on knowledge retention 45 days later (Barcaui 2025)

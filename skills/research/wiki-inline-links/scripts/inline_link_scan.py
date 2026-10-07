@@ -352,6 +352,12 @@ AUTO_APPLY_DENYLIST = {
 REJECTED_HITS = []  # populated during a scan; reported so suppressed matches stay visible
 
 REJECT_PAIRS = {
+    # --- 2026-10-07, expert-consensus report: construct names linked to the wrong concept ---
+    ('Epistemic Agency', 'agency'),            # a distinct epistemic construct, not agency in general
+    ('Epistemic Metacognition', 'metacognition'),  # the epistemic variant, not metacognition in general
+    # --- 2026-10-07, teacher-PD intervention page: false positives hand-reverted ---
+    ('AI competency', 'ai-literacy'),                 # a teacher competency, not student AI literacy
+    ('technological-pedagogical knowledge', 'pedagogy'),  # a TPACK dimension, not the pedagogy concept
     ('stress', 'anxiety-and-stress'),
     ('assessment design', 'assessment-validity'),
     ('API processing', 'automated-assessment'),    # "batch API processing vs conversational review"

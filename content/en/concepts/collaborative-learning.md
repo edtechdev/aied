@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-07T15:40:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -82,6 +82,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - **Prefer non-evaluative, classroom-level feedback.** When supporting the relational dimension of collaboration, class-level aggregated feedback protects [[privacy]] and [[agency|student agency]] where individual scoring would feel surveilled; [[breideband-community-builder-cobi-2026|CoBi]] students preferred [[qualitative-research|qualitative]] visualizations (an organic tree) over [[quantitative-research|quantitative]] ones (a radar chart), and teachers valued using the system's noticings to spark reflection more than live display.
 - **Design for the viewing/attention that precedes contribution.** Collaborative learning in [[online-teaching-and-learning|online discussion]] forums depends not only on posting but on the reading that precedes it. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova (2026)]] show LLM-generated discussion summaries and example posts can act as navigational [[scaffolding|scaffolds]] that broaden students' exposure to peers' contributions and the network conditions for bridging (weak-tie) social capital — support that should complement, not replace, socio-pedagogical strategies for sustaining engagement under academic workload.
 
+- **The social side shows disruption without a countervailing gain.** Across five collaboration processes a 30-expert consensus reached vulnerability only, with enhancement ratings below threshold: Social Connection (3.80 against enhancement 1.90), Socio-Emotional Development (3.60 against 2.00), Social Learning, Collaborative Learning and Sense of Belonging (all 3.30) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). The report treats the asymmetry as a design target, since collaborative problem solving is anchored to a shared product while collaborative learning has no visible referent and can erode undetected.
 ## Connected Concepts
 - [[pedagogical-patterns]] — Scripted shared-AI collaboration and its tested role designs
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -110,6 +111,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - A 30-expert consensus finds one-sided social risk: collaboration processes vulnerable with no enhancement pathway
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

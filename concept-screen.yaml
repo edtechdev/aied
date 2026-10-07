@@ -3935,3 +3935,95 @@
   - student-experience
   - technology-acceptance-model
   reason: 'None of 17 candidates qualified; the candidate set was screened with grep evidence rather than dismissed in the abstract. ai-literacy: grep "academic performance" -> 0 hits and "lms" -> 5 hits that are all substrings of "LLMs", so the page does not carry an empirical AI-literacy-to-outcome path; it was still rejected because the page is a conceptual account of what AI literacy is, and this cross-sectional PLS-SEM survey of a single Ghanaian institution adds an association the page does not argue about. global-south: grep "ghana" -> 4 hits, so the page already carries Ghanaian higher-education evidence and this study would be an incremental instance. technology-acceptance-model and online-teaching-and-learning already carry the system-quality-precedes-use logic the paper invokes. The remaining candidates are method and setting vocabulary: assessment-validity, educational-measurement, quantitative-research, research-methods-aied and self-report-measures name the design; edtech-platform, learning-design, student-experience and higher-ed are the setting; learning-gains, equity-in-ai-education and educational-policy-ai are the framing. Confidence medium: 432 self-report responses, one institution, association only.'
+
+- article: intelligent-tpack-pd-intervention-hongkong-2025
+  date: '2026-10-07'
+  integrated:
+  - teacher-ai-competency
+  - tpack
+  - educational-development
+  no_change:
+  - ai-literacy
+  - assessment
+  - ai-technologies
+  - generative-ai
+  - ethics
+  - metacognition
+  - self-efficacy
+  - self-assessment
+  - quantitative-research
+  - qualitative-research
+  - mixed-methods-research
+  - rct
+  - self-report-measures
+  - higher-ed
+  - educational-measurement
+  - learning-gains
+  - teacher-education
+  reason: 'Three of 17 candidates qualified, each verified by grep before weaving. teacher-ai-competency: grep "attendance|Dunning|recalibrat|AITK" -> 0 hits for all four, so neither the attendance-over-perceived-engagement predictor nor the negative-gain mechanism was on the page; it gained a paragraph in the competency-gap section (a falling post-test self-assessment as recalibration, Dunning-Kruger, Cohen''s d = -.521) and a PD bullet (attendance beta = .407, p = .001 against self-perceived participation beta = .049, p = .692). tpack: grep "AITK|Dunning" -> 0 hits; its dimension evidence (Chen & Osman) reports gains landing in the INTEGRATED domains, and this intervention reports the mirror image (AITK d = .48 > AITPK d = .33 > AITPACK d = .26, ethical awareness stagnant), so the page gained that contrast. educational-development: grep "attendance" -> 0 hits, so the behavioural-investment-versus-perceived-engagement design guidance is new; it gained the program shape (online lectures plus three workshops, design revision then next-semester implementation) with the appraisal recommendation. Rejected after grep: ai-literacy (page is the student-literacy construct; this is teacher competency), metacognition and self-efficacy and self-assessment (the recalibration is a teacher self-report phenomenon already carried as calibrated self-assessment on the competency gap section, and the metacognition concept page is learner-facing), ethics (the paper reports ethical awareness as stagnant rather than contributing an ethics finding), educational-measurement, self-report-measures, quantitative-research, qualitative-research, mixed-methods-research and rct (instrument, design and comparison vocabulary - the paper is explicitly not a randomized trial), higher-ed, teacher-education and assessment (setting and framing), ai-technologies and generative-ai (the tools are unnamed). Confidence medium: 125 participants at one institution, quasi-experimental with self-selected participation, self-report instrument, and the negative-gain mechanism rests on individual interview cases.'
+
+- article: rented-self-decoupling-performance-becoming-2026
+  date: '2026-10-07'
+  integrated:
+  - cognitive-offloading
+  - self-regulated-learning
+  - equity-in-ai-education
+  no_change:
+  - learner-identity
+  - assessment-validity
+  - evaluative-judgment
+  - self-efficacy
+  - metacognition
+  - agency
+  - transfer-of-learning
+  - authentic-assessment
+  - process-oriented-assessment
+  - ai-literacy
+  - framing-ai-use-for-students
+  - theory-development-aied
+  - theories-and-frameworks
+  - academic-integrity
+  - differential-effects-across-learner-groups
+  - research-methods-aied
+  - generative-ai
+  - ai-feedback-quality
+  - conversational-ai
+  - motivation
+  - pedagogy
+  - self-assessment
+  - sociocultural-learning
+  - teacher-role
+  reason: 'Three of 24 candidates qualified, each checked by grep first. cognitive-offloading: grep "becoming|rented|identity" -> 0 hits, so the page carried skill-decay and over-reliance findings but nothing about what the learner stops becoming; it gained the rented-self paragraph and the two costs (calibration from a misjudged locus, self cost from renting a core capability even knowingly) in its over-reliance section. self-regulated-learning: grep "Winne|impasse|evaluative judgment" -> 0 hits, so the mapping of rental onto Winne''s models - the system performing noticing, monitoring and evaluative judgment in the learner''s place, and impasses resolved by search instead of the learner''s own If-Then, Else choice - was new; it gained that paragraph plus the ten-proposition pointer. equity-in-ai-education: grep "landlord|license|licence|standards displace" -> 0 hits and the only "subscription" hit is about paid API access, so the rental-economics argument is new; it gained the three currencies of rent (money ending at graduation, self costs concentrating in acclimation, standards displacing toward the model''s reference points) while the page keeps its own framing. Rejected after grep: learner-identity (grep "becoming" -> 5 hits and the page already frames identity as who one is becoming, so the domain-self claim would restate its frame rather than add a mechanism it lacks; the operations-and-attribution mechanism is recorded on cognitive-offloading and self-regulated-learning instead), evaluative-judgment (grep "Tai" -> 8 hits, so borrowed standards and the non-development of evaluative judgment are already carried), assessment-validity and process-oriented-assessment and authentic-assessment (grep "process-based|process-oriented" -> 0 hits but the page''s validity account already runs on whether evidence supports the inference, and the proposal is normative rather than evidence), self-efficacy (grep "impostor|external cause" -> 0 hits, but attribution effects on efficacy are already the page''s core claim), metacognition and agency and transfer-of-learning and ai-literacy and framing-ai-use-for-students (the construct''s neighboring vocabulary, already carried), theory-development-aied and theories-and-frameworks and research-methods-aied (the page''s kind and method), academic-integrity (the paper''s point is that neither student cheated, so it does not contribute an integrity finding), differential-effects-across-learner-groups and generative-ai (framing and technology), ai-feedback-quality and conversational-ai (the tool and its feedback are the setting, not the finding), motivation and pedagogy and sociocultural-learning and teacher-role (the construct is described in their vocabulary - interest, teaching, apprenticeship, the teacher''s role - but the page adds a mechanism to none of them), and self-assessment (the paper''s calibration claim is about locus, not about self-assessment as a practice). Confidence medium: it is a preprint conceptual account, none of the ten propositions has been tested, and the paper itself flags the jingle-jangle risk against cognitive offloading and the extended mind.'
+
+- article: genai-support-threaten-learning-k20-expert-consensus-2026
+  date: '2026-10-07'
+  integrated:
+  - cognitive-offloading
+  - critical-thinking
+  - framing-ai-use-for-students
+  - collaborative-learning
+  reason: 'Four candidates qualified, each checked by grep before weaving. cognitive-offloading: grep "expert consensus|one-sided|learn first" -> 0 hits, so the page carried the mechanisms of over-reliance but not the expert map that puts vulnerability at both ends of the sequence; it gained the paradox paragraph (acquisition and higher-order thinking vulnerable, consolidation enhanced) with the process-level means. critical-thinking: grep "expert consensus|96%" -> 0 hits and the page is a dense evidence list with no consensus anchor; it gained the finding that Critical Thinking carries the report''s highest disruption rating (mean 4.00, 96% of raters at or above 3) against enhancement below threshold (2.40, 43%), which is the strongest available statement of the risk the page already documents. framing-ai-use-for-students: grep "consolidat|sequence|learn first" -> 0 hits, so the three-step ordering guidance is new; it gained the sequence in its practical-guidance list. collaborative-learning: grep "one-sided|no countervailing|social connection|belonging" -> 0 hits, so the social-cluster result is new; it gained the five vulnerability-only processes with their means and the report''s explanation that collaborative learning has no visible referent and can erode undetected. Everything the report rates is a prediction by the same panel, which is why confidence is medium and the weaves state the numbers rather than the conclusion alone.'
+  no_change:
+  - ai-misuse-learning-harm
+  - authentic-assessment
+  - creativity
+  - desirable-difficulties
+  - educational-policy-ai
+  - equity-in-ai-education
+  - generative-ai
+  - help-seeking
+  - higher-ed
+  - inquiry-based-learning
+  - interpreting-and-applying-aied-research
+  - learning-design
+  - limitations-in-aied-research
+  - llm
+  - metacognition
+  - motivation
+  - pedagogy
+  - quantitative-research
+  - research-methods-aied
+  - scaffolding
+  - self-regulated-learning
+  - transfer-of-learning
+  reason: 'Four candidates qualified (cognitive-offloading, critical-thinking, framing-ai-use-for-students, collaborative-learning); the other 22 are recorded here with the reason each was rejected. limitations-in-aied-research was the closest call: the report calls its "big feelings, little evidence" result its most important meta-finding (importance above 3.0 of 4 against evidence below 2.5 across the 42 consensus processes), but grep "evidence base" -> 4 hits and the page already carries the argument that the field''s headline claims rest on a weaker evidence base than they appear, with three meta-research critiques, so the panel audit would restate its existing claim; the finding is stated on the article page instead. self-regulated-learning and metacognition already received the rental mapping from the earlier de Barba ingest today, and this report adds a rating rather than a mechanism - help-seeking reaching enhancement (3.70, 86%) while Self-Regulated Learning (3.50, 93%) and Metacognition (3.50, 86%) reach vulnerability only - so the numbers live on the article page rather than being woven twice into the same section. desirable-difficulties, transfer-of-learning, inquiry-based-learning, creativity, scaffolding, help-seeking, motivation and metacognition are the process vocabulary the report rates; the report measures no mechanism for them, and the two concept pages that needed the mechanism (critical thinking and collaborative learning) got it. ai-misuse-learning-harm, equity-in-ai-education, authentic-assessment and educational-policy-ai back the recommendation themes the report proposes rather than findings it establishes. generative-ai and llm are the technology it studies, learning-design and interpreting-and-applying-aied-research and higher-ed and pedagogy are framing and setting, and research-methods-aied and quantitative-research are its design vocabulary. Confidence medium throughout: a preregistered expert consensus is judgment about risk, and the panel rated most of its own evidence below 2.5 of 4.'
