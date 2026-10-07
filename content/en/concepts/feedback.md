@@ -1,5 +1,5 @@
 ---
-connected_resources: [clarity, pedagogical-promptbook]
+connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-10-03T02:57:43-04:00"

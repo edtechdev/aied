@@ -301,5 +301,14 @@
    "writing-education"
   ],
   "reason": "Listed on the concept page(s) shown."
+ },
+ {
+  "resource": "snorkl",
+  "reviewed": "2026-10-07",
+  "hosts": [
+   "feedback",
+   "formative-assessment"
+  ],
+  "reason": "Listed on the concept page(s) shown: a tool whose whole product is AI feedback on student-produced explanations, and which states it is designed for formative assessment rather than grading."
  }
 ]

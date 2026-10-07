@@ -8,6 +8,7 @@ pedagogy: [scaffolding]
 technology: [adaptive-learning, generative-ai, human-in-the-loop-ai, learning-analytics, llm, personalized-learning]
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, formative-assessment]
 connected_faqs: [ai-feedback-at-scale]
+connected_resources: [snorkl]
 confidence: high
 reviewed_by: [editor]
 ---
