@@ -1,7 +1,7 @@
 ---
 title: Business Education
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-07T09:45:00-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -39,6 +39,7 @@ AI in business education is a growing [[discipline-specific-aied|discipline-spec
 - **Assessment and grading innovation is under-researched.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] surveyed 58 assessment-related articles over 20 years across four leading management-education journals (AMLE, JME, Management Learning, IJME) — roughly three per year, many in 2010 and 2014 special issues — finding assessment and grading under-researched relative to their central role in shaping learning. Self- and peer-assessment dominate the discourse (nearly half the corpus, chiefly for [[summative-assessment|summative]] evaluation of [[group-work|group work]]); [[authentic-assessment|authentic assessment]] appears mainly via technology-mediated [[simulation|simulations]] and is often conflated with [[experiential-learning|experiential learning]]; while reassessment, standards-based grading, and ungrading are virtually absent. The authors urge management educators to engage more actively and reciprocally with these innovations, recommending incremental experimentation (ungraded assignments, reassessment for a single task, standards-based rubrics) backed by program-level coordination and documented Scholarship of Teaching and Learning evidence.
 
 - **Automated scoring of business coursework needs corpus-specific validation.** On 60 student marketing posts from a BrandSim simulation, [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]] found an [[llm|LLM]] reached only ICC(2,1) = .435 with the human mean — deterministic rules .091, an equal-weight hybrid .266 — while adding researcher-authored anchors raised the LLM to .846 without changing any student score.
+- **Teaching AI as a first-class process-design element.** [[ai-decision-checkpoints-bpm-education-2026|Jalali (2026)]] places an AI-decision checkpoint in each BPM lifecycle phase across six modules of a 152-student course, so students build a working LLM intake agent and then discover at a checkpoint that the actual bottleneck is a two-person fraud-investigation queue.
 
 ## Economics and management education
 
@@ -71,6 +72,8 @@ Business is one of the fields where generative AI adoption is fastest, so busine
 - [[stem-education]]
 
 ## Connected Articles
+- [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
+
 - [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: agentic GAI support in an e-commerce course, perceived benefits and risks (Ilieva et al. 2026)
 - [[drummond-genai-business-schools-framework-2026]] — Student-informed framework for GenAI in business schools (Drummond & Dale 2026)
 - [[espino-ai-business-education-review-2026]] — A decade of AI in business education (Espino & Espino 2026)

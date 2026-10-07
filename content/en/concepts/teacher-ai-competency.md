@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-04T09:35:00-04:00"
+updated: "2026-10-07T09:45:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -87,6 +87,7 @@ Belief configuration is a second profiling axis: among 40,680 teachers in TALIS 
 
 
 A design-based counterexample treats competency as situational rather than a rung on a ladder. [[adaptive-ai-model-teacher-educators-2025|Eyal's 2025 design-based study with 22 higher-education teacher educators]] had participants examine five published assessment frameworks and co-design an alternative organized around three inter-related axes: context fit (infrastructure, socio-cultural factors, local needs, developmental stage), professional needs (discipline, pedagogy, leadership, support), and dynamic development. The model rejects fixed competency levels and allows non-linear progression, and it ships with a 20-item reflective self-assessment questionnaire rated 1 to 5. Its validation is qualitative only, with no quantitative reliability testing, so it stands as a design contribution rather than a validated instrument.
+- **Meta-analytic estimate.** [[teacher-ai-literacy-professional-development-meta-2026|Guo et al. (2026)]] pooled 212 effect sizes from 34 studies and estimate teacher AI-literacy PD at g = 0.76 (95% CI [0.50, 1.02]), strongest for skills (g = 0.91) and weakest for attitudes and values (g = 0.61); correcting for apparent publication selection lowers the estimate to about g = 0.49.
 
 ## Teacher AI competency and the transforming teacher role
 
@@ -129,6 +130,8 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[teacher-ai-literacy-professional-development-meta-2026]] — The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis
+
 - [[ailithub-ai-literacy-case-infrastructure-2026]] — Teachers tagged their own classroom AI cases and reached practical competencies readily but societal and ethical ones rarely (Wang et al. 2026)
 - [[typology-generative-ai-tools-education-2026]] — Tool selection as an exercise of educator agency
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
@@ -171,7 +174,6 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
 - [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
 - [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
-
 - [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first teacher readiness model with performance-based capability indicators
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national survey of 1,405 K-12 teachers: readiness predicts positive beliefs but not concern
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Four TALIS 2024 teacher belief profiles link professional learning and profile-specific barriers to AI use

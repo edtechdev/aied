@@ -3729,3 +3729,209 @@
   - reducing-ai-misuse
   - teacher-role
   reason: 'Two of twenty candidates qualified. academic-integrity: grep "reddit" -> 0 hits and the page carries the detection-vs-circumvention arms race as a claim (Roe on humanizers) but no account of how the enforcement regime dominates the wider conversation, so it gained the corpus-scale bullet (37.1% of records in the integrity cluster, enforcement the largest single theme at 12.1%, 32.3% of faculty-student threads in detection and enforcement disputes). social-norms-ai-use: the page argues surveillance does not settle norms but never says where norms are then negotiated, and grep "reddit" -> 0 hits; it gained the finding that adversarial integrity conflict is the highest-volume cross-role setting and that student-initiated threads dominate. ai-detection was screened and rejected on prior coverage: grep "false positive" -> 9 hits and "arms race" -> 2 hits, so the phase trajectory (detection 14.1% of records in the detection-crisis phase, falling 4.4pp by the practical turn) restates an established claim rather than changing the page. educational-policy-ai and governance were screened and rejected similarly: both already argue the policy-practice gap and detection-centred compliance from the primary literature, and this study measures discourse about that gap rather than a new policy finding. anxiety-and-stress already carries career anxiety (grep "career" -> 37 hits). The rest are vocabulary and method: higher-ed, k-12, generative-ai, llm, conversational-ai, critical-thinking, ai-literacy, ai-use-disclosure, equity-in-ai-education, reducing-ai-misuse, teacher-role, assessment, network-analysis and qualitative-research name the settings, tools, constructs and techniques the study uses. Confidence medium: the corpus is large and the phase analysis is change-point validated, but theme-level annotation agreement is only fair (kappa = 0.38), the role classifier covers 75% of authors, and the platform skews Anglophone and North American.'
+- article: verified-study-materials-learning-gains-2026
+  date: '2026-10-07'
+  integrated:
+  - equity-in-ai-education
+  no_change:
+  - ai-ed-evaluation
+  - ai-use-disclosure
+  - business-education
+  - cognitive-offloading
+  - cognitive-psychology
+  - differential-effects-across-learner-groups
+  - educational-policy-ai
+  - feedback
+  - generative-ai
+  - higher-ed
+  - learning-gains
+  - llm
+  - mixed-methods-research
+  - multilingual-learning
+  - multimodal
+  - online-teaching-and-learning
+  - prior-knowledge
+  - qualitative-research
+  - quantitative-research
+  - rag
+  - retrieval-spacing-interleaving
+  - summative-assessment
+  - teacher-role
+  - trust
+  - universal-design-for-learning
+  reason: 'One of 26 candidates qualified. equity-in-ai-education: grep "quintile|verif" -> 4 hits on verif but nothing on where an AI gain lands within a cohort, and its Outcome equity section argues gaps widen without an equity lens; it gained the judgment-burden bullet (2.34-mark gain, three-quarters in the bottom quintile, marks below the 60% boundary down 24.7 points, checking moved from students to an accountable tutor). cognitive-offloading was screened and rejected on prior coverage: grep "verif" -> 8 hits, so the page already carries verification of AI output as its subject, and the screening-cost framing is an equity mechanism, not a new offloading claim. learning-gains, higher-ed, summative-assessment, feedback, prior-knowledge, retrieval-spacing-interleaving and universal-design-for-learning are the outcome, setting and design vocabulary; llm, rag, multimodal, generative-ai and online-teaching-and-learning name the delivery; qualitative-research, quantitative-research, mixed-methods-research, ai-ed-evaluation and differential-effects-across-learner-groups name the method and analysis; business-education is the discipline; teacher-role, trust, ai-use-disclosure, educational-policy-ai and multilingual-learning are the context. Confidence high for the design (difference-in-differences across two cohorts) and medium for the causal reading, which rests on parallel trends.'
+- article: factria-responsible-institutional-analytics-2026
+  date: '2026-10-07'
+  integrated:
+  - learning-analytics
+  no_change:
+  - bias-mitigation
+  - conversational-ai
+  - educational-policy-ai
+  - explainable-ai
+  - generative-ai
+  - governance
+  - higher-ed
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - learning-design
+  - llm
+  - metacognition
+  - network-analysis
+  - privacy
+  - qualitative-research
+  - rag
+  - scaffolding
+  - stakeholders
+  - student-experience
+  - teacher-role
+  - theories-and-frameworks
+  - trust
+  - usability-research
+  - visualization
+  reason: 'One of 25 candidates qualified. learning-analytics: grep "dashboard|interpret|bias" -> dashboard 9, interpret 5, bias 1, and the page carries the actionability and presentation barriers to acting on analytics but no framework for the biasing factors behind an indicator; it gained the FACTRIA paragraph (four factor areas; a reflection-prompting chatbot raised sub-factors weighed per case from 1.41 to 3.45, d = 2.15). network-analysis and explainable-ai were screened: the study''s transition network analysis is a method, and explainable-ai is about model explanation, not the institutional-analytics interpretation the study addresses. The rest are setting, method and construct vocabulary: higher-ed, stakeholders, teacher-role, student-experience, learning-design, governance, educational-policy-ai, privacy, human-in-the-loop-ai, human-ai-collaboration, conversational-ai, scaffolding, metacognition, usability-research, visualization, trust, bias-mitigation, theories-and-frameworks, generative-ai, llm, rag, qualitative-research. Confidence medium: 11 stakeholders, one Spanish university, a proof of concept.'
+- article: clara-developmental-appropriateness-children-stories-2026
+  date: '2026-10-07'
+  integrated:
+  - early-childhood-elementary-ai-education
+  no_change:
+  - ai-ed-evaluation
+  - ai-education
+  - assessment
+  - assessment-validity
+  - benchmark
+  - cognitive-psychology
+  - critical-thinking
+  - educational-nlp
+  - educational-technology-developers
+  - equity-in-ai-education
+  - ethics
+  - explainable-ai
+  - generative-ai
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - llm
+  - multilingual-learning
+  - prompt-engineering
+  - quantitative-research
+  - social-emotional-learning
+  - storytelling-in-education
+  - teacher-role
+  reason: 'One of 22 candidates qualified. early-childhood-elementary-ai-education: grep "story|developmental" -> 0 story hits and the page''s clusters cover unplugged play, AI toys and chatbots for children but nothing on assessing a narrative''s developmental fit; it gained the CLARA bullet (0.904 overlap against publisher ages, ahead of readability formulas at 0.603 and direct prompting at 0.730). assessment-validity and educational-nlp were screened and rejected on prior coverage found by grep: assessment-validity has "developmental" 2 and "benchmark" 7 hits and carries benchmark-validity debates generally; educational-nlp has "readability" 1 hit and is about NLP methods, so neither gains a distinguishing claim from one annotation benchmark. social-emotional-learning, storytelling-in-education, multilingual-learning, cognitive-psychology and critical-thinking are the constructs the taxonomy annotates; benchmark, assessment, ai-ed-evaluation, assessment-validity and quantitative-research name the evaluation; llm, generative-ai, prompt-engineering and explainable-ai name the tooling; human-in-the-loop-ai, human-ai-collaboration, teacher-role, ethics and equity-in-ai-education carry the design and equity framing; ai-education and educational-technology-developers are the audience. Confidence high on the benchmark numbers and medium on the interpretation, which is the authors'' own proof of concept.'
+- article: ai-decision-checkpoints-bpm-education-2026
+  date: '2026-10-07'
+  integrated:
+  - business-education
+  no_change:
+  - agentic-ai
+  - change-management
+  - cs-education
+  - curriculum-design
+  - design-based-research
+  - educational-technology-developers
+  - ethics
+  - experiential-learning
+  - governance
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - learning-design
+  - learning-gains
+  - legal-issues-and-risks
+  - llm
+  - mixed-methods-research
+  - prior-knowledge
+  - privacy
+  - project-based-learning
+  - qualitative-research
+  - rag
+  - regulation
+  - scaffolding
+  - simulation
+  reason: 'One of 24 candidates qualified. business-education: grep "bpm|business process|process management|checkpoint" -> 0 hits, and the page''s AI-in-business-education cluster covers GenAI frameworks, constructive alignment and organisational adoption but no account of teaching AI as a process-design element; it gained the checkpoint bullet (one AI-decision checkpoint per BPM lifecycle phase across six modules of a 152-student course). cs-education was screened and rejected on prior coverage: the page covers code-generation and debugging pedagogy, whereas this study''s object is process management, which belongs on the discipline page. agentic-ai, human-in-the-loop-ai, human-ai-collaboration, governance, regulation, legal-issues-and-risks, privacy and ethics name the oversight and governance framing; rag, llm and simulation name the technology; design-based-research, mixed-methods-research and qualitative-research name the method; experiential-learning, project-based-learning and scaffolding name the pedagogy; curriculum-design, learning-design, change-management and learning-gains are the design vocabulary; prior-knowledge, educational-technology-developers and assessment are the context. Confidence medium: a single course, a voluntary survey, and the individual exam had not been administered.'
+- article: preservice-early-childhood-genai-magnetism-2026
+  date: '2026-10-07'
+  integrated:
+  - early-childhood-elementary-ai-education
+  no_change:
+  - activity-theory-aied
+  - ai-literacy
+  - critical-thinking
+  - curriculum-design
+  - ethics
+  - generative-ai
+  - human-ai-collaboration
+  - inquiry-based-learning
+  - learners
+  - llm
+  - mixed-methods-research
+  - pedagogy
+  - prompt-engineering
+  - qualitative-research
+  - quantitative-research
+  - scaffolding
+  - science-education
+  - self-report-measures
+  - sociocultural-learning
+  - teacher-ai-competency
+  - teacher-education
+  - teacher-role
+  - technology-acceptance-model
+  - trust
+  - trust-calibration
+  reason: 'One of 26 candidates qualified. early-childhood-elementary-ai-education: grep "magnetism|preservice|epistemic trust" -> 0 hits, and the page''s clusters cover children''s use of AI, not the preservice teachers who design for them; it gained the magnetism bullet (131 preservice educators; structure and efficiency rated highest at M = 3.95, epistemic trust lowest at M = 3.08). teacher-education was screened and rejected on prior coverage: grep "preservice" -> 13 hits and it covers preservice teacher preparation broadly, so a single-programme mixed-methods perception study adds no distinguishing claim there. teacher-ai-competency, ai-literacy and teacher-role carry the competency framing; trust, trust-calibration, technology-acceptance-model and self-report-measures name the measures; activity-theory-aied, sociocultural-learning, pedagogy, scaffolding and inquiry-based-learning name the theory; science-education, curriculum-design, generative-ai, llm, prompt-engineering, ethics, human-ai-collaboration and learners are the setting and constructs; quantitative-research, qualitative-research and mixed-methods-research name the method; critical-thinking is a passing mention. Confidence medium: 131 students, one Greek university, a post-interaction reflection instrument.'
+- article: teacher-ai-literacy-professional-development-meta-2026
+  date: '2026-10-07'
+  integrated:
+  - teacher-ai-competency
+  no_change:
+  - ai-literacy
+  - ai-technologies
+  - assessment
+  - collaborative-learning
+  - digital-divide
+  - educational-development
+  - educational-measurement
+  - educational-policy-ai
+  - equity-in-ai-education
+  - ethics
+  - feedback
+  - generative-ai
+  - k-12
+  - meta-analysis-systematic-review
+  - motivation
+  - pedagogy
+  - peer-assessment
+  - privacy
+  - problem-based-learning
+  - project-based-learning
+  - qualitative-research
+  - quantitative-research
+  - research-methods-aied
+  - self-efficacy
+  - self-report-measures
+  - teacher-education
+  - teacher-role
+  - technology-acceptance-model
+  reason: 'One of 29 candidates qualified. teacher-ai-competency: grep "meta-analys|effect size" -> meta-analys 2 but no pooled estimate, and its Professional development that works section lists individual programmes only; it gained the meta-analytic bullet (g = 0.76, 95% CI [0.50, 1.02] across 212 effect sizes from 34 studies, about g = 0.49 after correcting for publication selection). teacher-education was screened and rejected on prior coverage found by grep: "meta-analys" -> 1 hit (a different study) and the page covers preservice curricula rather than PD outcomes, which teacher-ai-competency already owns. ai-literacy, teacher-role, educational-development, pedagogy, k-12 and educational-policy-ai are the construct, role, setting and policy vocabulary; assessment, feedback, peer-assessment, self-report-measures, educational-measurement, research-methods-aied, quantitative-research and qualitative-research name the method; meta-analysis-systematic-review is the design; motivation, self-efficacy, collaborative-learning, project-based-learning and problem-based-learning name the theory; ai-technologies, generative-ai, technology-acceptance-model, digital-divide, equity-in-ai-education, ethics and privacy are the framing. Confidence high for the design (three-level meta-analysis) and medium for the effect size, which the authors'' own publication-selection analysis reduces sharply.'
+- article: ai-literacy-academic-performance-knust-2026
+  date: '2026-10-07'
+  integrated: []
+  no_change:
+  - ai-education
+  - ai-literacy
+  - assessment-validity
+  - edtech-platform
+  - educational-measurement
+  - educational-policy-ai
+  - equity-in-ai-education
+  - global-south
+  - higher-ed
+  - learning-design
+  - learning-gains
+  - online-teaching-and-learning
+  - quantitative-research
+  - research-methods-aied
+  - self-report-measures
+  - student-experience
+  - technology-acceptance-model
+  reason: 'None of 17 candidates qualified; the candidate set was screened with grep evidence rather than dismissed in the abstract. ai-literacy: grep "academic performance" -> 0 hits and "lms" -> 5 hits that are all substrings of "LLMs", so the page does not carry an empirical AI-literacy-to-outcome path; it was still rejected because the page is a conceptual account of what AI literacy is, and this cross-sectional PLS-SEM survey of a single Ghanaian institution adds an association the page does not argue about. global-south: grep "ghana" -> 4 hits, so the page already carries Ghanaian higher-education evidence and this study would be an incremental instance. technology-acceptance-model and online-teaching-and-learning already carry the system-quality-precedes-use logic the paper invokes. The remaining candidates are method and setting vocabulary: assessment-validity, educational-measurement, quantitative-research, research-methods-aied and self-report-measures name the design; edtech-platform, learning-design, student-experience and higher-ed are the setting; learning-gains, equity-in-ai-education and educational-policy-ai are the framing. Confidence medium: 432 self-report responses, one institution, association only.'
