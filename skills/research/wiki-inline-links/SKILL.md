@@ -55,6 +55,21 @@ metadata:
 > cheap: loop `content/en/articles/`, `content/en/concepts/`, `content/en/faqs/` and assert no `[[` appears in the
 > frontmatter of any page.
 
+> **Pitfall — review the `--apply` DIFF for generic-alias links before building (2026-10-07).**
+> `--apply` is only as good as the alias table, and the registry maps some single generic words
+> to a concept whose sense they often do not carry: `composition` -> `writing-education`,
+> `platforms` -> `edtech-platform`, `procedural fairness` -> `legal-issues-and-risks`,
+> `engagement` -> `student-engagement`, `cognitive load` -> `cognitive-offloading`. On one
+> four-article batch, six auto-applied links were semantically wrong and had to be hand-reverted:
+> "per-assessment *composition*" (the makeup of a table, not writing), "non-English *platforms*"
+> (social platforms, not edtech), "procedural *fairness*" (policy uncertainty, not legal risk),
+> "community *engagement*" (comments per post, not student engagement), "lower *cognitive load*"
+> (the CLT construct, not offloading), and a bare "*cognitive* dependency". None of these belongs
+> in `REJECT_PAIRS`: each word is right in its own concept's sense, so rejecting it globally would
+> break real links elsewhere. **Rule: after `--apply`, grep the page's links and read every inserted
+> link inside its sentence, reverting any whose surrounding phrase does not use the concept's sense.**
+> Report mode will not surface them afterwards, because they are already links.
+
 > **Pitfall — `--apply` alone is an INCOMPLETE pass (2026-09-16, maintainer-caught).**
 > `AUTO_APPLY_DENYLIST` (in the script) deliberately keeps ambiguous generic words —
 > `trust`, `motivation`, `feedback`, `assessment`, `policy`, `agency`, `privacy`,
