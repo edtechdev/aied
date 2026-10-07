@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-07T09:45:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -72,6 +72,8 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - **The best-evidenced methods are the least scalable ones.** In a workshop with 73 computing educators, oral and interactive assessment was reported as the strongest available evidence of individual understanding and the least scalable remedy proposed — raised in one room alongside 400-plus students and a handful of teaching assistants — so the strategies with the clearest link to verified learning sit in the institutions teaching the fewest students, an equity gap between institutions rather than within a cohort ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 - **Tutoring quality shifts with learner demographics.** EduFair-Bench pairs a fixed [[simulating-students|LLM student]] with each tutor across nine demographic levels spanning gender, immigration background, first language and socioeconomic status, and scores five turn-level pedagogical metrics. In [[intelligent-tutoring|LLM tutoring]] the largest deviations appear in explicit demographic conditions — step scaffolding correlating up to |r| = 0.144 in mathematics and corrective tone exceeding 0.10 for every model in [[chemistry-education|chemistry]] (0.102-0.168) and [[physics-education|physics]] (0.129-0.294) — and in 11 of 15 model-by-domain cells the wrong-answer condition scored higher than the correct one, indicating that tone tracked the student's demographic label rather than the quality of the student's reasoning. Pedagogy-specific [[reinforcement-learning|reinforcement learning]] redistributed rather than removed these gaps. ([[edufair-bench-pedagogical-fairness-llm-tutors-2026]])
 - **Implicit demographic signals are a less controllable bias channel than stated attributes.** [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto and Hovy (2026)]] held each task input fixed while varying only the demographic context across six instruction-tuned [[llm|LLMs]] and three educational tasks, producing 192,480 inference calls, and separated *explicit* signals (stated student attributes) from *implicit* ones carried by a ten-prompt [[conversational-ai|conversation]] history. In [[automated-essay-scoring|automated essay scoring]] most models were comparatively stable under explicit conditioning, while implicit conditioning inflated scores — Llama-70B scored 1.57 points above its own default (p < 0.001). In metalinguistic question answering the implicit condition drifted the other way: responses for lower education levels received less positive sentiment, a 0.3 average gap between the lowest and the higher education levels on a 0-4 scale against a within-item standard deviation of 0.07. The equity difficulty is structural — the cue is not a stated attribute that a policy can forbid or a prompt field that an audit can inspect, but a property of the interaction itself.
+- **Verification can redirect a gain to weaker students.** [[verified-study-materials-learning-gains-2026|Dang & Nguyen (2026)]] found expert-verified AI study materials in a first-year economics course were associated with a 2.34-mark gain, but roughly three-quarters arose in the bottom quintile, and the share of marks below the 60% boundary fell by 24.7 points - moving the checking burden from students to an accountable tutor.
+
 ## Linguistic, cultural, and disability inclusion
 
 - **Language:** Most AI tools prioritize English, marginalizing [[multilingual-learning|multilingual]] learners. [[genai-linguistic-diversity-academic-writing|Linguistic diversity in academic writing]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages]], and [[language-learning]] research address this.
@@ -119,8 +121,9 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[student-support-and-success]] — who support systems reach, and the risks of acting on a risk score
 
 ## Connected Articles
-- [[ai-literacies-young-adults-2025]] — Equity as a delivery problem: reaching young people formal education misses
+- [[verified-study-materials-learning-gains-2026]] — Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course
 
+- [[ai-literacies-young-adults-2025]] — Equity as a delivery problem: reaching young people formal education misses
 - [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[kumar-genai-computing-education-systematic-review-2026]] — Skill-gap vs resource-gap: two equity mechanisms requiring different remedies
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Unguided GenAI may widen gaps: the interaction-management competence (Brunnström & Palmqvist 2026)
@@ -153,9 +156,7 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — Scenario-based ethical judgment and AI literacy among 531 undergraduates
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
-
 - [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Free-tier vs premium-model accuracy gap in mathematics: 32.7% vs 12% (Canonigo 2026)
 - [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Pooled GenAI learning gains (g=0.53) and the inequitable access to high-cost tools they cannot capture
-
 - [[intelligent-tutoring-mathematics-education-review-2026]] — Mathematics AI-tutoring review finding inclusiveness and achievement-gap claims unsupported

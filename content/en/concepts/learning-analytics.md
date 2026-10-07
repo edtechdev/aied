@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-07T09:45:00-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -64,6 +64,7 @@ A complementary, teacher-centered test of how analytics reach the classroom come
 The step after the score — who gets support, and whether it was allocated where it was needed — belongs to [[student-support-and-success|student support and success]], which carries the outreach, referral, and allocation evidence this page's prescriptive layer feeds.
 
 An integrity outcome enters the same predictive layer. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] predicts AI-assisted cheating risk from the first eight weeks of [[video-education|Moodle and video-player]] traces, reaching an AUC of 0.763 with logistic regression, and argues the signal is usable precisely because it arrives before the exam rather than during it.
+A complementary line targets the *interpretation* of analytics itself. [[factria-responsible-institutional-analytics-2026|Marques et al. (2026)]]'s FACTRIA framework organizes the biasing factors behind an indicator - pipeline, institutional, course, and demographic - and a reflection-prompting chatbot raised the sub-factors 11 stakeholders weighed per case from 1.41 to 3.45 (d = 2.15), shifting them from direct readings to conditional ones.
 
 ### Methods and network analysis
 
@@ -114,6 +115,8 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[student-support-and-success]] — the support side that prediction feeds: referral, allocation, and the outcomes they do or do not move
 
 ## Connected Articles
+- [[factria-responsible-institutional-analytics-2026]] — Responsible Institutional Analytics: Interpreting Bias with AI Support
+
 - [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
 - [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)

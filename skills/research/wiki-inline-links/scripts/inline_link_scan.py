@@ -468,6 +468,13 @@ REJECT_PAIRS = {
     ('cognitive pretesting', 'retrieval-spacing-interleaving'),  # item testing
     ('formative, multidomain', 'formative-assessment'),   # psychometric sense
     ('programme as formative', 'formative-assessment'),   # developmental sense
+    # --- 2026-10-07, seven-paper daily scan: false positives hand-reverted ---
+    ('causal reasoning', 'critical-thinking'),      # a reasoning dimension, not critical thinking
+    ('human judgment', 'teacher-role'),             # human judgment in general, not the role
+    ('fact-checking', 'hallucination-risk'),        # a screen-the-output activity, not hallucination
+    ('process mining', 'learning-analytics'),       # BPM process mining, not learning analytics
+    ('information-systems', 'theories-and-frameworks'),  # a field reference, not the framework page
+    ('design elements', 'curriculum-design'),       # AI agents as design elements, not curriculum design
     ('technology adoption', 'technology-acceptance-model'),  # practice, not the model
     ('adaptive system', 'adaptive-learning'),             # complex adaptive system
     ('digital literacy', 'ai-literacy'),                  # distinct construct

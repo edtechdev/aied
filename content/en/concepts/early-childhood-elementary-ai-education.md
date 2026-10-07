@@ -1,7 +1,7 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-10-07T09:45:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
@@ -47,6 +47,8 @@ Young children interact with AI increasingly early — through AI-enabled toys, 
 - **AI-supported critical media literacy in the elementary years.** Demir and Akar (2026) evaluate an 18-hour, 5E-model critical media literacy program for fourth-grade students in a Turkish public primary school, embedding [[generative-ai|generative AI]] (ChatGPT, Grammarly, Canva AI, Padlet) phase-by-phase as a pedagogical agent rather than an isolated add-on, with activities aligned to the Turkish Language and Social Studies curricula. The AI-supported group showed large gains in media reading (+3.50), writing (+1.67), and total media literacy (+5.17, all p < .01) with between-group effect sizes of Cohen's *d* = 1.12–1.31, while the control group advanced only modestly. [[qualitative-research|Qualitative]] analysis of interviews, student artifacts (posters, drawings, slogans), and classroom observation surfaced six domains of critical media literacy growth — digital self-protection and [[privacy|data privacy]], purposeful and responsible media use, safe communication and boundary awareness, critical evaluation and misinformation awareness, online risk awareness, and media [[ethics]]/digital citizenship — offering a rare quasi-experimental, curriculum-aligned model of how AI can support critical [[ai-literacy|AI literacy]] and [[critical-thinking|critical thinking]] in the elementary grades.
 
 - **AI-rated observation of teacher–child interaction quality.** [[ai-rated-classroom-observation-scores-2026|Fong et al. (2026)]] benchmark an [[llm]] against trained human raters on the full CLASS Pre-K framework in Hong Kong kindergartens — 87 video-recorded observations from 38 classrooms across 30 kindergartens, rated from transcripts by GPT-5.0 and compared with eight trained raters. Agreement was moderate overall (weighted κ = 0.681) but conditional on the construct: convergence held for the Emotional Support domain and for Quality of Feedback — the dimension carried by explicit, exchange-based verbal support — while Classroom Organization diverged entirely and raters rated the emotional dimensions higher than the model did, at a very large gap on the reverse-scored Negative Climate dimension (d = 2.732; raters gave the maximum of 7 in 63 of 71 observations, AI clustered at 6). The early-childhood lesson is developmentally specific: quality that lives in nonverbal, spatial and routine behavior — management, movement, warmth, tone — is invisible to a transcript-only pipeline, the model's error direction is construct-dependent rather than uniformly conservative, and the authors therefore position [[automated-assessment|AI scoring]] as a screening and reflection tool for [[teacher-role|teachers]] rather than a substitute for trained observers.
+- **Preservice educators designing science activities.** [[preservice-early-childhood-genai-magnetism-2026|Efthimiou & Plakitsi (2026)]] had 131 preservice early-childhood educators design magnetism activities with LLMs: they rated the models' structure and efficiency highest (M = 3.95) but the epistemic trustworthiness of their content lowest (M = 3.08), treating them as brainstorming artifacts while keeping didactic transformation a human responsibility.
+- **AI approximating developmental judgments of children's stories.** [[clara-developmental-appropriateness-children-stories-2026|Yin et al. (2026)]]'s CLARA annotates a story's cognitive, language, and social-emotional demands and matches publisher age references 0.904 of the time, ahead of readability formulas (0.603) and direct prompting (0.730) - offered as a supportive signal, not a replacement for a human judge.
 
 ### Developmental and equity considerations
 
@@ -73,6 +75,8 @@ Because young learners are more vulnerable and less able to self-regulate their 
 - [[parents-and-families]]
 ## Connected Articles
 
+- [[preservice-early-childhood-genai-magnetism-2026]] — Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism
+- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?
 - [[preschool-teachers-ai-behavioral-intention-2026]] — Preschool teachers' behavioral intention to use AI in early childhood settings (Duan et al. 2026)
 - [[ai-play-framework-early-childhood-2026]] — AI-Play: unplugged AI concepts in early childhood
 - [[ai-toys-child-development-2026]] — AI-enabled toys and child development
