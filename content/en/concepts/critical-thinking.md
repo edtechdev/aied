@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-07T15:40:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -84,6 +84,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - **Verification-centered integration in a discipline.** A critical review of [[generative-ai|generative AI]] in university [[chemistry-education|chemistry education]] (Vega-Baudrit and Rivera Álvarez, 2026) argues that because chemical reasoning must be coordinated across macroscopic, submicroscopic, and symbolic representations, students cannot verify what they do not understand, so [[prior-knowledge]] and [[scaffolding]] come first and verification should be designed into [[assessment]] as an assessed activity: identify a false assumption, correct a unit or mechanism error, or justify rejecting a generated answer, keeping prompt logs and revision histories as reasoning traces. ([[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit and Rivera Álvarez 2026]])
 - **Verification as a learning activity, not only a safeguard.** [[pearls-epistemic-verification-2026|Wang (2026)]] organizes AI-artifact evaluation around six interdependent dimensions — Process, Evidence, Access, Reproducibility, Legitimacy and Source — and treats assembling that warrant, rather than the output's fluency, as what builds disciplinary expertise.
 
+**The largest expert-rated vulnerability in the knowledge base is critical thinking.** Across 65 learning processes rated by 30 experts, Critical Thinking and Critical-Analytic Thinking drew the report's highest disruption rating (mean 4.00 of 5; 96% of raters at or above 3) with enhancement below threshold (2.40, 43%) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Ten of eighteen higher-order processes reached consensus on vulnerability only, which the report reads as one-sided risk rather than a trade-off.
 ## Connected Concepts
 
 - [[metacognition]]
@@ -101,6 +102,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - A 30-expert consensus: critical thinking carries the report's highest disruption rating (mean 4.00)
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning

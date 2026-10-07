@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-07T09:45:00-04:00"
+updated: "2026-10-07T13:40:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -59,6 +59,8 @@ The gap is not only between perceived and actual skill but in the *breadth* of w
 
 The gap is visible in the artifact as well as in the self-report. A [[ai-integration-instructional-design-collaboratory-2026|cross-institutional faculty collaboratory in teacher preparation]], in which teacher educators designed AI into their own methods courses, reported that candidates could produce polished AI-assisted lesson plans while being unable to explain why a plan fit the learners and the standards, since the plan itself says nothing about the reasoning behind it. Grading the justification rather than the product is one response. The [[bondurant-shaughnessy-ai-pedagogies-practice-2026|pedagogies-of-practice frame]] suggests another, treating rehearsal as an approximation of practice: AI-mediated rehearsal with structured post-rehearsal feedback raised candidates' use of probing and exploring questions, yet candidates' own judgments of their performance still diverged from what observers recorded.
 
+**A falling self-assessment after training can signal learning rather than loss.** In a six-month [[tpack|Intelligent-TPACK]] [[educational-development|professional development]] program with 64 Hong Kong university teachers against 61 controls, overall AI competency rose by about half a standard deviation (Cohen's d = −.521), yet some teachers in both groups scored lower at post-test than at pre-test ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). Interviews attributed the declines to a shift from unconscious to conscious incompetence — the recalibration the Dunning–Kruger effect predicts — rather than to lost skill. The authors conclude that pre-post self-report understates an intervention, because part of the gain arrives as a downward correction in the instrument itself.
+
 **The gap also shows up as non-participation.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] surveyed 1,057 US college faculty in late 2025 and found 26% do not use [[generative-ai|generative AI]] tools at all, with a third choosing not to use them for teaching and non-use concentrated in the arts and [[humanities-education|humanities]] (40%). The institutional side of the gap was larger than the individual one: 68% said their schools had not prepared faculty to use generative AI for teaching and mentoring, and faculty named colleagues' resistance (82%) and unfamiliarity (83%) as the leading obstacles to departmental adoption — a picture in which capability-building, peer norms and policy all have to move together.
 
 **Pre-service training largely sidesteps the ethical dimension of the competency.** A [[meta-analysis-systematic-review|systematic review]] of AI in initial teacher training for pre-service primary mathematics teachers ([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto et al. 2026]], 11 studies selected from 341 records) found the interventions concentrated on short-term technical and pedagogical gains, with nine of the eleven running brief interventions spanning one to six sessions, and reported that ethics was addressed in only three of the eleven studies. The competency frameworks name ethical judgment as a dimension; the pre-service literature meant to build it rarely teaches or measures it.
@@ -88,6 +90,8 @@ Belief configuration is a second profiling axis: among 40,680 teachers in TALIS 
 
 A design-based counterexample treats competency as situational rather than a rung on a ladder. [[adaptive-ai-model-teacher-educators-2025|Eyal's 2025 design-based study with 22 higher-education teacher educators]] had participants examine five published assessment frameworks and co-design an alternative organized around three inter-related axes: context fit (infrastructure, socio-cultural factors, local needs, developmental stage), professional needs (discipline, pedagogy, leadership, support), and dynamic development. The model rejects fixed competency levels and allows non-linear progression, and it ships with a 20-item reflective self-assessment questionnaire rated 1 to 5. Its validation is qualitative only, with no quantitative reliability testing, so it stands as a design contribution rather than a validated instrument.
 - **Meta-analytic estimate.** [[teacher-ai-literacy-professional-development-meta-2026|Guo et al. (2026)]] pooled 212 effect sizes from 34 studies and estimate teacher AI-literacy PD at g = 0.76 (95% CI [0.50, 1.02]), strongest for skills (g = 0.91) and weakest for attitudes and values (g = 0.61); correcting for apparent publication selection lowers the estimate to about g = 0.49.
+
+- **Attendance predicts gains where the feeling of participating does not.** In the same six-month program, attendance rate predicted the competency gain (β = .407, p = .001) while self-perceived participation did not (β = .049, p = .692), and discipline, teaching experience and professional title explained little; the authors read attendance as behavioral investment and perceived participation as surface-level engagement ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]).
 
 ## Teacher AI competency and the transforming teacher role
 
@@ -130,7 +134,8 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
-- [[teacher-ai-literacy-professional-development-meta-2026]] — The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis
+- [[teacher-ai-literacy-professional-development-meta-2026]]
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: half a standard deviation of gain, and negative gains that read as recalibration — The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis
 
 - [[ailithub-ai-literacy-case-infrastructure-2026]] — Teachers tagged their own classroom AI cases and reached practical competencies readily but societal and ethical ones rarely (Wang et al. 2026)
 - [[typology-generative-ai-tools-education-2026]] — Tool selection as an exercise of educator agency

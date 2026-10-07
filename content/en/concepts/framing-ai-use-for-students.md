@@ -1,7 +1,7 @@
 ---
 title: Framing AI Use for Students
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-10-07T15:40:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -73,6 +73,7 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 - **Message expectations repeatedly and from every "site"** — syllabus, assignment prompts, [[feedback]], and peer norms should tell a consistent story so students don't invent their own rationalizations.
 - **Channel anxiety into evaluation.** Frame uncertainty about accuracy as a reason to verify and revise, not as a reason to avoid or cheat.
 - **Use honest, targeted messages** (e.g., inoculation and fallibility warnings) that build calibrated caution rather than blanket trust or distrust.
+- **Sequence the tool to the phase of learning.** The 30-expert consensus report's central practical claim is an order: acquire ideas first without GenAI, then use it to strengthen and consolidate what has been learned, then prioritize one's own thinking when applying those ideas in new contexts ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Its advice for students is blunter: short-term performance gains short-cut the learning needed for long-term success.
 - **Sell the purpose.** Connect AI use to durable learning and learner [[agency]], and pair messages with the support that converts intent into take-up.
 
 ## Connected Concepts
@@ -91,6 +92,7 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 - [[misconceptions]]
 
 ## Connected Articles
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - A 30-expert consensus on the sequence: acquire without GenAI, consolidate with it, then think for yourself
 
 - [[mccorkle-aligned-genai-course-policy-2025]] — Transparent rationale for each allowed and unallowed GenAI use, task by task (McCorkle 2025)
 - [[moral-panic-genai-classroom]] — Encouraging appropriate use of GenAI rather than condemning it as disruption

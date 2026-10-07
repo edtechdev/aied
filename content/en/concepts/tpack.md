@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-10-06T17:30:00-04:00"
+updated: "2026-10-07T13:40:00-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
 technology: [generative-ai]
@@ -61,6 +61,7 @@ The AI era has pushed the framework toward a technology-with-intelligence readin
 A complementary measurement warning comes from the same author's Capability–Decision Model: when TPACK is self-reported and perceived behavioral control is measured as [[self-efficacy]], the two may not be empirically distinguishable, so a study cannot tell whether capability or general confidence predicts intention ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 - **Integrated TPACK moves most when AI is scaffolded inside authentic problem-based tasks.** [[chen-osman-preservice-physics-tpack-ctd-pbl-2026|Chen and Osman (2026)]] compared an eight-week AI-supported CTD-PBL module with conventional instruction for **130 third-year pre-service [[physics-education|physics]] teachers** in an intact-class quasi-experimental design (65 per condition), with groups using DeepSeek through task-specific prompt templates and every AI output required to pass human verification before entering an instructional artifact. The module group reported higher post-test TPACK (M = 4.04 vs. 3.40, p < 0.001, d = 1.02) and higher perceived [[problem-solving|collaborative problem solving]] (M = 3.62 vs. 3.05, d = 0.88), with significant group × time interactions on both outcomes. Where the gains landed is the TPACK-relevant detail: the largest dimensional effects were in the integrated domains — TPCK (d = 1.21), PCK (d = 1.06) and TPK (d = 0.95) — and the [[collaborative-learning|collaboration]] gains were clearest in shared knowledge building and social regulation, i.e. the intersections rather than the base domains. The authors present these as differential change associated with an integrated instructional condition, not as an AI effect: AI was never isolated from the PBL task chain, structured collaboration, instructor scaffolding, [[peer-assessment|peer feedback]] or reflective revision, and both outcomes were [[self-report-measures|questionnaire-based]] perceptions of competence rather than demonstrated classroom performance.
 
+- **An intervention can move the base domain first.** A six-month professional development program built directly on the Intelligent-TPACK framework raised technical AI knowledge most (AITK: 3.92 to 4.43, t(63) = 3.856, p < .001, d = .48), technological-pedagogical knowledge next (AITPK: d = .33) and integrated AITPACK least (d = .26), with ethical awareness left comparatively stagnant ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). The ordering is the mirror image of Chen and Osman's integrated-domain gains, and both are [[self-report-measures|self-report]].
 
 **AI-TPACK as the mediator between literacy and classroom integration.** A structural equation model of Chinese pre-service
 science teachers ([[ai-literacy-ai-integrated-inquiry-science-teaching-2026|Zou, Li, Wang & Du, 2026]]) positions AI-TPACK not as a
@@ -125,7 +126,8 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 - [[ethically-mediated-ai-tpack-china-2026]] — Towards a New AI-TPACK Framework: ethics as an integrative mediator of technical AI knowledge (Chen et al. 2026)
 - [[ai-training-science-teacher-tpack-distance-2026]] — Comparative survey of 186 South African science student teachers: campus advantage in self-reported TPACK, and AI training associated with weaker reported TPACK at the distance institution
 - [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK and science teaching self-efficacy serially mediate AI literacy's effect on inquiry-integration intention (Zou et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — AI-supported CTD-PBL module and pre-service physics teachers' TPACK and collaborative problem solving (Chen & Osman 2026)
+- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK professional development for university teachers: dimension-resolved gains, attendance over self-perceived engagement — AI-supported CTD-PBL module and pre-service physics teachers' TPACK and collaborative problem solving (Chen & Osman 2026)
 - [[human-ai-collaboration-design-education-rubric-2026]] — Assessing Human-AI Collaboration in Design Education: a process-oriented rubric grounded in an extended AI-TPACK framework
 - [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first model of teacher AI readiness and its construct-overlap warning
 - [[digital-competence-ai-responsive-pedagogy-2026]] — Scoping review warning that competence-framework dominance partly reflects search descriptors, not field prevalence

@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T14:23:52-04:00"
+updated: "2026-10-07T13:40:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -94,6 +94,8 @@ Confidence and literacy are not interchangeable targets: in a 502-respondent SEM
 
 **Discipline-specific smart-classroom models.** [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao, and Wang (2026)]] show how a [[math-education|mathematics]] M.Ed. course can be enhanced with intelligent educational [[ai-technologies|technologies]] ([[automated-assessment|automated scoring]], personalized recommendations, multi-[[ai-feedback-quality|AI feedback]]) integrated across pre-, in-, and post-class stages within a three-dimensional smart-classroom framework. Their quasi-experiment found statistically significant gains in instructional-objective design proficiency, offering a transferable **D-T-E Model** (Disciplinary Demand–Technological Empowerment–Evaluation Loop) for [[teacher-education|teacher educators]] and educational developers looking to move smart-education frameworks from macro concepts into discipline-specific practice.
 
+**Measure attendance, not the feeling of engagement.** In a six-month Intelligent-TPACK program for 64 university teachers, attendance rate predicted the gain in AI competency (β = .407, p = .001) while self-perceived participation did not (β = .049, p = .692), which the authors read as concrete behavioral investment against surface-level engagement ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). The program paired online lectures with three face-to-face workshops, then required teachers to revise their instructional designs and implement them the following semester, and the authors recommend tying attendance into appraisal alongside meaningful incentives.
+
 **Benchmark against what faculty themselves report.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]]'s survey of 1,057 US faculty finds the institutional layer thin in ways program designers can measure directly: 59% judged their school unprepared to use generative AI effectively for preparing students for the future and 68% said it had not prepared faculty to use it for teaching and mentoring, while the structural response ran to a task force in 55% of institutions but an AI literacy general education outcome in only 13%. Faculty had not waited for policy — 87% wrote their own assignment-level rules against 48% who could point to an institutional one — and they named colleagues' resistance (82%) and unfamiliarity (83%), not mandate, as the obstacles to departmental adoption. For development programs this argues for treating peer norms, shared assignment-level policy language and explicit measures of institutional readiness as part of the intervention rather than leaving them to the policy document.
 
 **Instructor response reflects power centers, not attitude.** In an instrumental case study of 33 writing instructors, four polycentric power centers — the global GenAI trend, the university/department, colleagues, and students — shaped practice, and adjuncts constrained by limited discourse power shifted from detection toward teaching acceptable use ([[zuo-instructor-power-genai-writing-2026|Zuo et al. (2026)]]).
@@ -135,7 +137,8 @@ Confidence and literacy are not interchangeable targets: in a 502-respondent SEM
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty self-perceived TPACK-21 knowledge for GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[sutedjo-faculty-genai-tpack-21-2026]]
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: attendance predicts gains, self-perceived participation does not — Faculty self-perceived TPACK-21 knowledge for GenAI (Sutedjo, Chowdhury & Liu 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
