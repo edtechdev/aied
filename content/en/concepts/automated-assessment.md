@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-03T02:50:03-04:00"
+updated: "2026-10-08T09:45:00-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -127,6 +127,8 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - **Quality-dependent alignment with instructor grading (2026):** Comparing ChatGPT, peers, and an instructor grading the *same* undergraduate [[group-work|group projects]], [[usher-faraon-who-grades-best-2026|Usher & Faraon found]] ChatGPT's alignment with the instructor *improved as project quality increased* — its largest overestimation was for low-quality work (≈ +14 points), shrinking to ≈ +2.5 points for high-quality projects. ChatGPT also graded higher on average than both peers and the instructor, a grade-inflation tendency that undermines its reliability as a standalone summative grader, especially for weaker submissions.
 - **Small-corpus agreement statistics can mislead deployment decisions.** Scoring 60 marketing posts (15 students plus 15 researcher-authored low-quality anchors) against two independent human raters gave absolute agreement ICC(2,1) of .435 for the LLM, .266 for an equal-weight rule-plus-LLM hybrid and .091 for deterministic rules, with MAE of 6.28, 10.53 and 17.22 points respectively on a 0-100 scale; the hybrid was significantly worse than the LLM alone (paired ICC difference -.169, 95% CI [-.260, -.106]). Adding anchors raised inter-rater ICC from .338 to .902 and LLM agreement from .435 to .846, and a near-empty post was awarded 75 against a human mean of 30.5, showing that a single degenerate response can dominate a small evaluation. ([[automated-scoring-marketing-posts-agreement-2026]])
 
+- **Structured LLM grading can look analytic without being diagnostic (2026):** Scoring 3,041 responses to 50 computer-science questions, three commercial LLMs produced rubric sub-dimensions that were near-redundant (r = 0.82–0.99, VIF up to 45) and named misconceptions in only 4.8–7.4% of comments, against 15.0% for instructors ([[llm-structured-assessment-diagnostic-quality-2026|Zhao et al., 2026]]).
+
 ## Connected Concepts
 
 - [[explainable-ai]]
@@ -153,6 +155,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[llm-structured-assessment-diagnostic-quality-2026]] — LLM rubric sub-dimensions are near-redundant and feedback rarely names misconceptions (Zhao et al. 2026)
 - [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening

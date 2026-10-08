@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-10-05T10:26:12-04:00"
+updated: "2026-10-08T09:45:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -96,6 +96,8 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 
 - **AI literacy works on engagement through psychological resources (2026):** A moderated mediation study of 1,198 undergraduates in Zhengzhou, China ([[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]) modeled engagement as an outcome of [[ai-literacy]] rather than a by-product of tool use. AI literacy predicted learning engagement directly and also indirectly by building psychological capital, with the indirect route carrying roughly half of the total effect — partial mediation, so a technological competency converts into engagement only partly through the psychological resources it generates. Professional commitment, an identity-based variable, moderated the psychological-capital-to-engagement link without any direct effect of its own, and the translation of psychological capital into engagement was markedly stronger for students who saw themselves as headed into the profession. The pattern is the clearest available instance of the point above that learner characteristics condition how AI affects engagement.
 
+- **AI pre-class practice can raise live participation (2026):** A preregistered field experiment with 759 MBA students found that preparing with a voice-based AI discussion partner raised voluntary contributions by about 31% in later sessions, but only after a second use; a first use preceded lower participation ([[assigned-ai-preclass-student-engagement-2026|Wang et al., 2026]]).
+
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -119,6 +121,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[self-report-measures]]
 - [[productive-failure]]
 ## Connected Articles
+- [[assigned-ai-preclass-student-engagement-2026]] — Voice-based AI pre-class practice raised voluntary class contributions by ~31%, but only after a second use (Wang et al. 2026)
 - [[confident-but-absent-ai-use-absenteeism-2026]] — AI use tracked with greater class absenteeism while self-efficacy did not predict it, with peer influence the dominant correlate (Franco et al. 2026)
 - [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education
 

@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-05T11:23:36-04:00"
+updated: "2026-10-08T09:45:00-04:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -103,6 +103,8 @@ Simulation also extends beyond individual learners to reproducing the social dyn
 
 The 2026 durable-skills work inverts the usual direction of simulation. Instead of simulating the student to audit a system, the system simulates the *teammates* to assess the student: an Executive LLM generates every AI partner's turns in a 30-minute group task, holds the scoring rubric, and steers the conversation to manufacture occasions for the target skill to appear ([[durable-skills-measurement-ai-teammates-2026|Globerson et al., 2026]]). Across 373 conversations from 188 participants, skill-matched steering raised ratable evidence to 92.4% for project management and 85% for conflict resolution, significantly above unconstrained independent agents, while the AI evaluator was calibrated against two human raters whose own inter-rater Kappa was only 0.45–0.64 — a useful reminder that a simulator's ceiling is set by the agreement humans can reach on the construct.
 
+Training against a simulator can also travel: TutorLoop's reinforcement-learning agent, trained offline against a simulated student, transferred unchanged to a new real learning task with no retraining (N = 187), where its sparser but better-timed feedback outperformed denser feedback ([[tutorloop-sensor-cognitive-feedback-2026|Xu & Zhang, 2026]]).
+
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
@@ -122,6 +124,7 @@ The 2026 durable-skills work inverts the usual direction of simulation. Instead 
 - [[teacher-role]]
 
 ## Connected Articles
+- [[tutorloop-sensor-cognitive-feedback-2026]] — A simulator-trained reinforcement-learning tutor transferred offline to a new real task (Xu & Zhang 2026)
 
 - [[llm-student-simulation-teacher-insights]] — Can LLMs Simulate Human Learners? Teachers' Insights
 - [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?

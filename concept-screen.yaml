@@ -4027,3 +4027,39 @@
   - self-regulated-learning
   - transfer-of-learning
   reason: 'Four candidates qualified (cognitive-offloading, critical-thinking, framing-ai-use-for-students, collaborative-learning); the other 22 are recorded here with the reason each was rejected. limitations-in-aied-research was the closest call: the report calls its "big feelings, little evidence" result its most important meta-finding (importance above 3.0 of 4 against evidence below 2.5 across the 42 consensus processes), but grep "evidence base" -> 4 hits and the page already carries the argument that the field''s headline claims rest on a weaker evidence base than they appear, with three meta-research critiques, so the panel audit would restate its existing claim; the finding is stated on the article page instead. self-regulated-learning and metacognition already received the rental mapping from the earlier de Barba ingest today, and this report adds a rating rather than a mechanism - help-seeking reaching enhancement (3.70, 86%) while Self-Regulated Learning (3.50, 93%) and Metacognition (3.50, 86%) reach vulnerability only - so the numbers live on the article page rather than being woven twice into the same section. desirable-difficulties, transfer-of-learning, inquiry-based-learning, creativity, scaffolding, help-seeking, motivation and metacognition are the process vocabulary the report rates; the report measures no mechanism for them, and the two concept pages that needed the mechanism (critical thinking and collaborative learning) got it. ai-misuse-learning-harm, equity-in-ai-education, authentic-assessment and educational-policy-ai back the recommendation themes the report proposes rather than findings it establishes. generative-ai and llm are the technology it studies, learning-design and interpreting-and-applying-aied-research and higher-ed and pedagogy are framing and setting, and research-methods-aied and quantitative-research are its design vocabulary. Confidence medium throughout: a preregistered expert consensus is judgment about risk, and the panel rated most of its own evidence below 2.5 of 4.'
+
+- article: assigned-ai-preclass-student-engagement-2026
+  date: 2026-10-08
+  integrated: [student-engagement]
+  no_change: [active-learning, ai-education, anxiety-and-stress, assessment, business-education, career-development-and-readiness, cognitive-offloading, conversational-ai, critical-thinking, desirable-difficulties, framing-ai-use-for-students, generative-ai, guardrails, higher-ed, icap-framework, learning-design, learning-gains, motivation, oral-assessment, pedagogical-agent, professional-training, rct, self-efficacy, self-report-measures, simulation, speech-and-voice-technologies, student-ai-interaction]
+  reason: "Woven into student-engagement (grep 'voluntary contribution' -> 0 hits on the page's engagement research bullets, which carried no behavioral participation effect). All other candidates declined as instances of claim classes the pages already carry."
+
+- article: llm-structured-assessment-diagnostic-quality-2026
+  date: 2026-10-08
+  integrated: [automated-assessment]
+  no_change: [ai-feedback-quality, assessment-validity, cognitive-diagnosis, cs-education, educational-measurement, evaluative-judgment, feedback, formative-assessment, generative-ai, higher-ed, human-in-the-loop-ai, llm, misconceptions, mixed-methods-research, prompt-engineering, self-assessment, teacher-role, transfer-of-learning, trust-calibration]
+  reason: "Woven into automated-assessment (grep 'redundant' -> 0 and 'misconception' -> 0 on a page holding grading-agreement evidence). The validity and feedback-quality claims are already carried by assessment-validity and ai-feedback-quality."
+
+- article: tutorloop-sensor-cognitive-feedback-2026
+  date: 2026-10-08
+  integrated: [simulating-students]
+  no_change: [active-learning, adaptive-learning, affective-computing, anxiety-and-stress, cognitive-psychology, edtech-platform, educational-measurement, educational-technology-developers, feedback, generative-ai, human-ai-collaboration, human-in-the-loop-ai, intelligent-tutoring, learning-gains, llm, multimodal, online-teaching-and-learning, open-source, personalized-learning, privacy, quantitative-research, reinforcement-learning, self-regulated-learning, simulation, student-engagement, student-modeling, transfer-of-learning]
+  reason: "Woven into simulating-students (grep 'transfer' -> 0; the page covers auditing and training uses of simulators but not offline-trained policies transferring to a real task). Others declined, incl. intelligent-tutoring (grep 'reinforcement' -> 2 hits already carries tutor mechanisms)."
+
+- article: dual-single-suggestion-ai-radiology-residents-2026
+  date: 2026-10-08
+  integrated: [trust-calibration]
+  no_change: [ai-literacy, ai-misuse-learning-harm, benchmark, cognitive-offloading, cognitive-surrender, differential-effects-across-learner-groups, educational-measurement, generative-ai, hallucination-risk, human-ai-collaboration, learning-gains, llm, multimodal, prior-knowledge, professional-training, quantitative-research, rct, reducing-ai-misuse, student-ai-interaction, writing-education]
+  reason: "Woven into trust-calibration (grep 'second opinion' -> 0; 'reliance' -> 19 hits cover the mechanism but not the design lever of presenting two independent suggestions). Others declined as instances of claim classes already carried."
+
+- article: alice-german-rubric-short-answer-scoring-2026
+  date: 2026-10-08
+  integrated: []
+  no_change: [assessment-validity, automated-assessment, automated-essay-scoring, benchmark, bias-mitigation, biology-education, chemistry-education, educational-measurement, educational-nlp, feedback, formative-assessment, llm, machine-learning, privacy, prompt-engineering, science-education, teacher-role]
+  reason: "No change: a benchmark and dataset contribution. grep 'automatic short answer scoring' in automated-assessment and educational-nlp returned the automated-essay-scoring and benchmark claims already present; the rubric-level entailment figures (91%/95%) are a dataset property with no concept page of its own."
+
+- article: ai-peer-feedback-stem-teacher-education-2026
+  date: 2026-10-08
+  integrated: [feedback-literacy]
+  no_change: [ai-feedback-quality, assessment, evaluative-judgment, feedback, formative-assessment, generative-ai, hallucination-risk, human-ai-collaboration, learning-design, llm, math-education, mixed-methods-research, peer-assessment, professional-training, qualitative-research, scaffolding, self-report-measures, stem-education, sustainability, teacher-ai-competency, teacher-education, teacher-role, trust, trust-calibration, writing-education]
+  reason: "Woven into feedback-literacy (grep 'translation gap' -> 0; 'uptake' -> 3 hits, but not the divergence between uptake and artifact improvement). Others declined, incl. peer-assessment and evaluative-judgment which already carry selective-uptake claims."
