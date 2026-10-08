@@ -13,7 +13,7 @@ import SourceButtons from '../SourceButtons.astro';
 import { contentRepoPath } from '../../config/content';
 import { renderMarkdown } from '../../lib/markdown';
 import { strings } from '../../i18n';
-import { localizeHref } from '../../i18n/config';
+import { localizeHref, localizeHtml } from '../../i18n/config';
 import { localizedTitles, localizedTitle } from '../../i18n/localizedTitles';
 
 const { entry, locale, pageType } = Astro.props;
@@ -101,7 +101,12 @@ const updatedDisplay = (data.updated || data.created || '').split('T')[0];
     </div>
 
     <div style="line-height:1.8" data-pagefind-body>
-      <Fragment set:html={rendered.html} />
+      <!-- Body links carry the locale too: the connected list at the foot of a resource
+           page is markdown, not a ConnectedList, and a translated title over an English href
+           sends the reader back to the English page. localizeHref leaves external links,
+           anchors and untranslated routes alone; the helper returns the HTML unchanged for
+           the default locale, so the English pages render exactly as before. -->
+      <Fragment set:html={localizeHtml(rendered.html, locale)} />
     </div>
 
     <ConnectedList
