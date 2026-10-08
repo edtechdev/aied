@@ -4,7 +4,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import TranslationNotice from '../TranslationNotice.astro';
 import { strings } from '../../i18n';
-import { localizeHtml } from '../../i18n/config';
+import { localizeHref, localizeHtml } from '../../i18n/config';
 import { localizeArtifactLinks } from '../../lib/offlineArtifacts';
 
 const { locale } = Astro.props;
@@ -14,6 +14,9 @@ const ui = strings(locale).ui;
 // their artifact links at this locale's own files when those exist.
 const L = (html: string) => localizeArtifactLinks(localizeHtml(html, locale), locale);
 const copyLabels = { ok: s.copyOk, fail: s.copyFail };
+// The answered-questions list names its targets by their English routes, so a locale
+// that has those FAQ pages translated must link its own. localizeHref does that and
+// returns the href unchanged for the default locale, leaving the English page as it was.
 ---
 
 <BaseLayout title={s.title} description={s.description} locale={locale} toc={s.toc}>
@@ -57,7 +60,7 @@ const copyLabels = { ok: s.copyOk, fail: s.copyFail };
   <p style="line-height:1.7">{s.answeredIntro}</p>
   <ul style="line-height:1.9">
     {s.answeredLinks.map((l) => (
-      <li><a href={l.href}>{l.label}</a></li>
+      <li><a href={localizeHref(l.href, locale)}>{l.label}</a></li>
     ))}
   </ul>
   <p style="line-height:1.7" set:html={L(s.answeredOutroHtml)} />

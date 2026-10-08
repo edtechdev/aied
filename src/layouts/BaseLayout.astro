@@ -199,17 +199,30 @@ const SECTIONS: Record<'article' | 'concept' | 'faq' | 'resource', string> = {
   faq: 'faqs',
   resource: 'resources',
 };
-const recentPageItems = recentPages.map(p => ({
-  kind: p.kind,
-  title: p.entry.data.title,
-  url: `/aied/${SECTIONS[p.kind]}/${p.entry.id.replace('.md', '')}/`,
-  date: fmtDateTime(p.entry.data.created),
-}));
-const recentConceptItems = recentConcepts.map(c => ({
-  title: c.data.title,
-  url: `/aied/concepts/${c.id.replace('.md', '')}/`,
-  date: fmtDateTime(c.data.updated || c.data.created),
-}));
+// The sidebar's two lists enumerate the ENGLISH collections, so both the title and
+// the href must go through the locale helpers: one list that renders "Critical
+// Thinking" pointing at the English page on a Spanish page is the same defect as an
+// untranslated label, and all 220 concepts have Spanish pages. `localizedTitle`
+// returns the English title for the default locale (it reads an empty map there) and
+// `localizeHref` returns the href unchanged for it, so the English sidebar is
+// byte-identical.
+const recentPageItems = recentPages.map(p => {
+  const slug = p.entry.id.replace('.md', '');
+  return {
+    kind: p.kind,
+    title: localizedTitle(localized, SECTIONS[p.kind], slug, p.entry.data.title),
+    url: localizeHref(`/aied/${SECTIONS[p.kind]}/${slug}/`, locale),
+    date: fmtDateTime(p.entry.data.created),
+  };
+});
+const recentConceptItems = recentConcepts.map(c => {
+  const slug = c.id.replace('.md', '');
+  return {
+    title: localizedTitle(localized, 'concepts', slug, c.data.title),
+    url: localizeHref(`/aied/concepts/${slug}/`, locale),
+    date: fmtDateTime(c.data.updated || c.data.created),
+  };
+});
 ---
 
 <!DOCTYPE html>

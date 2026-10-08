@@ -8,10 +8,24 @@ import PageTypeIcon from '../PageTypeIcon.astro';
 import TranslationNotice from '../TranslationNotice.astro';
 import { strings } from '../../i18n';
 import { localizeHref } from '../../i18n/config';
+import { localizedTitles, localizedTitle } from '../../i18n/localizedTitles';
 
 const { locale } = Astro.props;
 const s = strings(locale).journal;
 const ui = strings(locale).ui;
+// Entry titles and hrefs follow the locale: concepts, FAQs and resources are
+// translated, so a Spanish journal listing them in English with English targets is
+// the same defect as an untranslated heading. Articles have no translations, so they
+// keep their English titles and hrefs. Both helpers are no-ops for the default
+// locale (the title map is empty there and localizeHref returns its argument), so
+// the English journal is unchanged.
+const localized = await localizedTitles(locale);
+const COLLECTIONS: Record<string, string> = {
+  article: 'articles',
+  concept: 'concepts',
+  faq: 'faqs',
+  resource: 'resources',
+};
 
 const articles = await getCollection('articles');
 const concepts = await getCollection('concepts');
@@ -76,10 +90,12 @@ const intro = s.introTemplate
         {date} — {byDate[date].length} {byDate[date].length === 1 ? s.pageSingular : s.pagePlural}
       </summary>
       {byDate[date].map(item => {
-        const href = `${BASES[item.kind]}/${item.id.replace('.md', '')}/`;
+        const slug = item.id.replace('.md', '');
+        const href = localizeHref(`${BASES[item.kind]}/${slug}/`, locale);
+        const title = localizedTitle(localized, COLLECTIONS[item.kind], slug, item.data.title);
         return (
           <div class="journal-entry">
-            <a href={href} set:html={`<span>${ICONS[item.kind]}</span> ${item.data.title}`}></a>
+            <a href={href} set:html={`<span>${ICONS[item.kind]}</span> ${title}`}></a>
           </div>
         );
       })}
