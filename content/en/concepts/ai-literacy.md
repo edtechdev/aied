@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-04T10:51:52-04:00"
+updated: "2026-10-08T10:20:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -78,6 +78,8 @@ AI literacy also needs developmentally appropriate forms for the youngest learne
 Measurement is keeping pace with that developmental turn at the younger end. [[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan and Srikoon's 2025 validation of an AI literacy self-assessment questionnaire for upper primary students]] developed a 15-item instrument for Grades 4 to 6, organized around Learning About AI, Learning About How AI Works, and Learning for Life with AI, and confirmed a three-factor structure in two samples (n = 335 and n = 579) with an overall Cronbach's alpha of .934. The authors frame it as a formative diagnostic of perceived rather than demonstrated literacy, and note that children's self-assessment accuracy is constrained by metacognitive ability that is still developing.
 
 **Project-based learning as a delivery mechanism.** [[ai-literacy-course-satisfaction-pbl-scale-2026|Zhu & Kong (2026)]] developed and validated an AI project-based learning (AI-PBLS) scale and, in a Hong Kong sample of 1,027 secondary and university students (446 with complete data), used structural equation modeling to show that [[self-efficacy|empowerment]] in using AI for problem solving and AI [[ethics|ethical awareness]] jointly **mediate** the relationship between perceived [[project-based-learning]] and satisfaction with an AI literacy course. This positions PBL not merely as a delivery format but as a mechanism that builds learner confidence and ethical reasoning alongside competence, reinforcing the link between [[project-based-learning|PBL]] and meaningful AI literacy development. It also supplies a validated measurement instrument for future [[educational-measurement|measurement]] of AI literacy course experiences.
+
+**Raising the ethical dimension of literacy has a sign problem.** Among 584 undergraduates who taught themselves AI, competence raised ethical awareness (β = 0.644, p < .001), and ethical awareness then raised AI anxiety (β = 0.439, p < .001) rather than lowering it, the reverse of the predicted direction ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]]). The lesson the authors draw is that teaching how ethical concerns are governed has to accompany the ethical dimension itself, or literacy work can leave learners more anxious than it found them.
 
 **AI literacy as a core gap in [[conversational-ai]] frameworks.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) identifies **limited AI literacy support** as a major gap in CAI frameworks, and its ethical-use roadmap makes foundational assessment (including strengthening AI literacy) the first pillar alongside participatory design, ethical-use guidelines, and continuous evaluation of cognitive impact. It further finds that AI-literacy, training, and awareness rank among the most-emphasized ethical directions in the CAI literature.([[conversational-ai-agents-umbrella-review-2026]])
 
@@ -208,6 +210,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[career-development-and-readiness]] — the employability payoff AI literacy is argued to build
 - [[ai-education]] — the broader field
 ## Connected Articles
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Raising the ethical dimension of literacy without a coping framework can leave students more anxious
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 validated frameworks show AI expanding digital literacy toward ethics while educator human–AI collaboration stays under-specified (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Six competency areas, five values and three progression levels for public service media
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon

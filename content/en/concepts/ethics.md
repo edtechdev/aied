@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-06T17:30:00-04:00"
+updated: "2026-10-08T10:20:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -76,6 +76,8 @@ The knowledge base's ethics articles range from theoretical frameworks ([[ethica
 
 That practical case is reinforced by empirical work on how ethics functions inside AI literacy itself: Zhu and Kong (2026) show that AI ethical awareness — alongside empowerment in AI [[problem-solving]] — mediates the relationship between perceived [[project-based-learning|project-based learning]] and satisfaction with an AI literacy course. Their validated AI-PBLS scale and SEM results (1,027 students) indicate that PBL creates conditions in which students build a personal framework for ethical reasoning about AI, strengthening the case that ethics is not an add-on but a core mechanism of meaningful AI literacy development.
 
+**The sign of that mechanism depends on what follows it.** Among 584 undergraduates whose AI competence came from self-study, competence raised AI ethical awareness (β = 0.644, p < .001). Ethical awareness then raised AI anxiety (β = 0.439, p < .001) rather than lowering it — indirect-only mediation, read by the authors as awareness awakened without a coping framework ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]]). Their conclusion for ethics teaching is that it cannot stop at the cognitive level. A transparency or privacy concern has to arrive with the governance route that answers it, which is why their proposed module sits inside legal education.
+
 ## Connections
 
 Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], and [[governance]]. It is the normative foundation for all other AI education concepts — the frame within which questions of fairness, transparency, autonomy, and safety are raised and resolved.
@@ -99,6 +101,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Ethical awareness amplified AI anxiety where no coping framework was taught: indirect-only mediation among 584 students
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning

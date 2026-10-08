@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-10-08T10:20:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -74,6 +74,7 @@ AI can also relieve academic anxiety by advancing learning goals rather than by 
 
 Competence is not a full buffer, though: among 551 Chinese first-year students, self-reported AI usage pressure weakened the link between AI proficiency and psychological adjustment, with the AI-proficiency-to-adjustment slope falling from 0.42 under low pressure to 0.20 under high pressure ([[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin (2026)]]).
 
+**The route from competence to anxiety runs through ethics, and it can amplify.** Among 584 undergraduates at a law-dominant Chinese university with no AI literacy curriculum, AI competence did not reduce AI anxiety directly (β = 0.056, p = .362). It raised AI ethical awareness (β = 0.644, p < .001), which in turn raised anxiety (β = 0.439, p < .001) — indirect-only mediation through a path the authors had hypothesized as protective ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]]). Only 22.8% of anxiety variance was explained. An ANN on the same constructs ranked transparency first among predictors for both learning and job-replacement anxiety.
 **Faculty forecasts as a distributed form of AI anxiety.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]]'s survey of 1,057 US college and university faculty registers educator anxiety as expectations rather than symptoms: 95% expected generative AI to increase students' over-reliance on the tools, 94% more academic integrity concerns, 90% diminished [[critical-thinking|critical thinking]], 83% shorter attention spans and 81% wider [[equity-in-ai-education|digital inequities]], while 39% believed the tools would diminish the role of faculty and 47% feared the long-term employment impact in their disciplines would be negative. The same respondents were not uniformly pessimistic — 61% still expected improved and customized learning — but 73% had personally dealt with an academic integrity case involving students' generative AI use, which is where a forecast turns into workload. The report is explicitly a non-scientific sample that is not generalizable, so it documents the sector's expressed fears rather than measured effects.
 
 This direction connects AI anxiety to [[motivation]], [[ai-literacy]], [[student-experience]], and [[self-regulated-learning]].
@@ -133,6 +134,7 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[social-norms-ai-use]] — the affective cost of visibility
 
 ## Connected Articles
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Competence raises ethical awareness, ethical awareness raises AI anxiety: indirect-only mediation among 584 students
 - [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive strategic-regulation signal
 - [[aivaluate-anxiety-assessment-2026]] — Student anxiety in AI-mediated performance-based assessment
 - [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
