@@ -352,6 +352,11 @@ AUTO_APPLY_DENYLIST = {
 REJECTED_HITS = []  # populated during a scan; reported so suppressed matches stay visible
 
 REJECT_PAIRS = {
+    # --- 2026-10-08, daily-scan batch: false positives hand-reverted (one entry per revert) ---
+    ('written reflection', 'feedback'),                       # a learner's reflection, not feedback
+    ('chatbots', 'llm'),                                      # chatbot == conversational-ai, not the model
+    ('learning agent', 'pedagogical-agent'),                  # an RL agent, not a pedagogical agent
+    ('learning session', 'online-teaching-and-learning'),     # a session of use, not the modality
     # --- 2026-10-07, expert-consensus report: construct names linked to the wrong concept ---
     ('Epistemic Agency', 'agency'),            # a distinct epistemic construct, not agency in general
     ('Epistemic Metacognition', 'metacognition'),  # the epistemic variant, not metacognition in general

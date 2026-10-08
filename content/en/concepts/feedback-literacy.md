@@ -1,7 +1,7 @@
 ---
 title: Feedback Literacy
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-08T09:45:00-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -70,6 +70,8 @@ AI changes feedback in two directions that both raise the stakes of feedback lit
 
 Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Loop]] (the provision side it complements), [[formative-assessment]] (the assessment cycle it feeds), and [[self-regulated-learning]] (the [[self-assessment]] and adaptation it supports). It is a subset of [[ai-literacy]] when applied to AI-generated feedback, intersects with [[peer-assessment]] in collaborative contexts, and is particularly consequential for [[writing-education]]. It also connects to [[metacognition]] and [[trust-calibration]] — the ability to judge whether feedback is trustworthy.
 
+Acting on feedback is not the same as improving the artifact. Among 22 pre-service mathematics teachers, selective acceptance of AI and peer feedback was the norm (32 of 44 episodes), yet only five improved their designed-task quality — a translation gap the authors attribute to evaluative judgment rather than uptake ([[ai-peer-feedback-stem-teacher-education-2026|Oh, 2026]]).
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — The critical-appraisal steps these sequences build into the workflow
@@ -88,6 +90,7 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 - [[higher-ed]]
 
 ## Connected Articles
+- [[ai-peer-feedback-stem-teacher-education-2026]] — Selective uptake without artifact improvement: the feedback translation gap (Oh 2026)
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI feedback without teacher framing raises the feedback-literacy bar (Brunnström & Palmqvist 2026)
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
 - [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates AI feedback → self-regulated learning (Mendoza et al. 2026)

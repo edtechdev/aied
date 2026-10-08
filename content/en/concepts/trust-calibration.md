@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-08T09:45:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -97,6 +97,8 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 - **Surface identity cues move trust independently of capability.** Across two experiments (N = 396), learners rated White avatars — and Asian male avatars in STEM — more credible and competent, penalized older Black female avatars on every measure, and adopted racial-ingroup guidance more readily ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
 
+- **A second AI opinion can dilute overreliance on a wrong one (2026):** In a randomized reader study with 123 radiology residents, two independent AI suggestions instead of one raised accuracy when the shared suggestion was wrong — 40.1% and 40.4% versus 20.0% — a design lever against anchoring ([[dual-single-suggestion-ai-radiology-residents-2026|Wu et al., 2026]]).
+
 ## Connected Concepts
 
 - [[explainable-ai]]
@@ -114,6 +116,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[dual-single-suggestion-ai-radiology-residents-2026]] — Two independent AI suggestions cut overreliance when the shared one is wrong (Wu et al. 2026)
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
 - [[du-yuan-epistemic-dependence-2026]] — Six diagnostic criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
