@@ -1,7 +1,7 @@
 ---
 title: Evaluación auténtica
 created: "2026-09-28T21:06:12-04:00"
-updated: "2026-10-02T23:51:29-04:00"
+updated: "2026-10-09T17:55:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -11,7 +11,7 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-10-02T14:30:18-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

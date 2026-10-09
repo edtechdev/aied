@@ -1,7 +1,7 @@
 ---
 title: Interpretar y aplicar la investigación en AIED
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-09-28T18:15:36-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,13 +13,17 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-09-26T08:45:25-04:00"
+source_updated: "2026-10-05T11:23:36-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -165,6 +169,7 @@ Las comprobaciones anteriores no son sabiduría popular; proceden de fallos docu
 - [[cognitive-offloading]]
 - [[ai-use-disclosure]]
 - [[theory-development-aied]]
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
 
 ## Artículos conectados
 

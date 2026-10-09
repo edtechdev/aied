@@ -1,13 +1,13 @@
 ---
 title: IA conversacional
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-10-02T23:51:29-04:00"
+updated: "2026-10-09T17:55:00-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
 translation_of: concepts/conversational-ai
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

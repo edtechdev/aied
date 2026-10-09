@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje colaborativo
 created: "2026-09-28T21:06:00-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-09T17:05:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,13 +11,17 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-07T15:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -91,6 +95,7 @@ El aprendizaje colaborativo ocupa la cima del [[icap-framework|marco ICAP]] (int
 - **Dar cabida al estudiantado neurodivergente.** Las tareas estructuradas, los equipos pequeños y estables y las definiciones explícitas de roles son requisitos que las herramientas de colaboración con IA deben sostener.
 - **Preferir retroalimentación no evaluativa y de nivel de aula.** Al apoyar la dimensión relacional de la colaboración, la retroalimentación agregada de nivel de clase protege la [[privacy|privacidad]] y la [[agency|agencia del estudiantado]] allí donde la puntuación individual se sentiría como vigilancia; el estudiantado de [[breideband-community-builder-cobi-2026|CoBi]] prefirió [[qualitative-research|visualizaciones cualitativas]] (un árbol orgánico) a las [[quantitative-research|cuantitativas]] (un gráfico de radar), y el profesorado valoró más usar las observaciones del sistema para suscitar reflexión que la visualización en directo.
 - **Diseñar para la lectura y la atención que preceden a la contribución.** El aprendizaje colaborativo en los foros de [[online-teaching-and-learning|enseñanza y aprendizaje en línea]] depende no solo de publicar, sino de la lectura que lo precede. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao y Cukurova (2026)]] muestran que los resúmenes de discusión y las publicaciones de ejemplo generados por LLM pueden actuar como [[scaffolding|andamiajes]] de navegación que amplían la exposición del estudiantado a las contribuciones de sus pares y las condiciones de red para el capital social de puente (vínculos débiles), un apoyo que debería complementar, y no sustituir, las estrategias sociopedagógicas para sostener el compromiso bajo la carga de trabajo académica.
+- **La cara social muestra disrupción sin una ganancia que la compense.** En cinco procesos de colaboración, un consenso de 30 personas expertas alcanzó únicamente la vulnerabilidad, con valoraciones de potenciación por debajo del umbral: Conexión Social (3,80 frente a una potenciación de 1,90), Desarrollo Socioemocional (3,60 frente a 2,00), Aprendizaje Social, Aprendizaje Colaborativo y Sentido de Pertenencia (todos 3,30) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). El informe trata la asimetría como un objetivo de diseño, ya que la resolución colaborativa de problemas está anclada a un producto compartido mientras que el aprendizaje colaborativo no tiene referente visible y puede erosionarse sin detectarse.
 
 ## Conceptos conectados
 - [[pedagogical-patterns]] — Colaboración con IA compartida y guionizada y sus diseños de roles probados
@@ -145,3 +150,4 @@ El aprendizaje colaborativo ocupa la cima del [[icap-framework|marco ICAP]] (int
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Diseño del aprendizaje impulsado por resúmenes generados por IA en foros de discusión en línea
 - [[chen-zou-genai-group-assessment-agency-2026]] — La IA generativa como infraestructura de coordinación en grupos estudiantiles: uso intensificado, contenido y no puesto en práctica
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Agentes de formación ética: facilitar la educación ética grupal con juego de roles y discusión para la reflexión y la exploración éticas
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 personas expertas encuentra un riesgo social unilateral: procesos de colaboración vulnerables sin vía de potenciación

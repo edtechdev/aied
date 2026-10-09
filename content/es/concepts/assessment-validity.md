@@ -1,7 +1,7 @@
 ---
 title: Validez de la evaluación
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-10-03T02:52:14-04:00"
+updated: "2026-10-09T17:05:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -10,13 +10,17 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 translation_of: concepts/assessment-validity
-source_updated: "2026-10-02T14:30:18-04:00"
+source_updated: "2026-10-09T09:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -115,6 +119,7 @@ La estabilidad entre ejecuciones no está, sin embargo, garantizada: repetir la 
 - **La concordancia entre codificadores LLM es consistencia, no validez.** En un corpus de diálogo educativo etiquetado por expertos, un filtro de concordancia entre modelos retuvo solo 33 de 74 afirmaciones conductuales derivadas del corpus y 11 de 48 derivadas de constructos, y los errores compartidos por los modelos sobrevivieron al filtro, así que la concordancia entre modelos no puede sustituir a la validez de constructo ([[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al., 2026]]).
 
 - **La exposición es medible, y el remedio es evidencia suficiente en lugar de la máxima seguridad.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] puntuó 53.915 ítems de evaluación por formato publicado, supervisión y peso en la nota y encontró que la mayoría de las notas evaluadas descansan en trabajo cuya autoría no puede verificarse tras la entrega; sostiene que los programas necesitan suficiente evidencia de aprendizaje en etapas clave, y no cada unidad asegurada.
+- **Una medida válida puede seguir siendo insegura de optimizar.** Ajustar un tutor con LLM contra una métrica de adaptabilidad de estilo rúbrica elevó la métrica (de +0,05 a +0,42) mientras las valoraciones de personas expertas a ciegas caían (de 4,46 a 3,03), porque una métrica que puntúa las decisiones de forma independiente se maximiza repitiendo la mejor decisión única ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo y Fernández De la Cruz, 2026]]).
 
 ## Conceptos conectados
 
@@ -178,3 +183,4 @@ La estabilidad entre ejecuciones no está, sin embargo, garantizada: repetir la 
 
 - [[llm-grading-assistants-public-health-2026]] — La recalificación de entregas idénticas con cinco días de diferencia dio un alfa de Krippendorff de 0,625
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Índice de Vulnerabilidad ante la IA: la mayoría de las notas evaluadas descansan en una autoría no verificable, así que la validez depende de evidencia suficiente en etapas clave y no de la máxima seguridad
+- [[llm-tutor-pedagogical-metric-degradation-2026]] — Ocho principios de diseño para benchmarks de tutores de IA, derivados de una métrica que fue optimizada hasta la repetición (Domínguez Figaredo y Fernández De la Cruz 2026)

@@ -1,7 +1,7 @@
 ---
 title: Métodos de investigación en AIED
 created: "2026-09-25T03:54:15-04:00"
-updated: "2026-10-02T21:24:18-04:00"
+updated: "2026-10-09T17:05:00-04:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,13 +12,17 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-05T10:25:44-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -40,6 +44,10 @@ ai_assist:
 La tensión central de la investigación en AIED es que los diseños más sólidos para la inferencia causal (los experimentos aleatorizados) suelen ser los más difíciles de llevar a cabo con herramientas de IA auténticas en aulas reales, mientras que los entornos más auténticos (despliegues sobre el terreno, estudios de caso, análisis de datos de registro) ofrecen un control causal más débil. Ningún método resuelve esto por sí solo; el campo avanza triangulando entre métodos y siendo explícito sobre qué tipo de afirmación puede sostener cada diseño. Todo método arrastra además limitaciones transversales (la generalizabilidad, la validez de la medición, el ritmo rápido del cambio en la IA, la reproducibilidad y un uso débil de la teoría) que quien lee debe sopesar; véase [[limitations-in-aied-research]].
 
 El tema de esta página es el método y no los hallazgos. Las [[learning-sciences|ciencias del aprendizaje]] son el campo sustantivo al que sirven estos métodos: donde esta página cubre cómo debería diseñarse, medirse y comunicarse un estudio, aquella cubre lo que el campo ha establecido sobre cómo aprende la gente y cómo deberían diseñarse los entornos de aprendizaje, y trata los métodos basados en el diseño y los mixtos como los enfoques característicos de las ciencias del aprendizaje y no como dos opciones entre muchas.
+
+Junto a esta página está la [[ai-assisted-educational-research|Investigación Educativa Asistida por IA]], que cubre la IA como instrumento del trabajo del propio campo: búsqueda bibliográfica, cribado, automatización de revisiones, codificación cualitativa, análisis y escritura. Su alcance incluye la investigación de profesionales, como la beca de la enseñanza y el aprendizaje, y se mantiene distinta de los diseños que describe esta página.
+
+[[ai-methodologies-science-education-research-2026|Martin, Rost, Koenen y Graulich (2026)]] someten ese mismo escrutinio a la producción de conocimiento del propio campo, usando el problema de la medición nómica de Chang (2004): medir una cantidad requiere una ley que la relacione con algo observable, pero esa ley no puede ponerse a prueba empíricamente sin conocer ya la cantidad. Sostienen que las funciones de medición derivadas de la IA, que emergen de los datos de entrenamiento y de la optimización más que de la persona investigadora, pueden intensificar el problema en lugar de resolverlo. Tales funciones pueden parecer precisas y seguir siendo epistémicamente opacas, de modo que el papel de quien investiga se desplaza hacia interpretar y validar resultados computacionales. Su marco reflexivo de siete fases (planteamiento del problema; instrumentación y medición; experimentación e inferencia basada en la evidencia; comparaciones y replicación; construcción de normas y consenso; implementación e iteración; y reflexión epistémica continua) convierte esa vigilancia en una práctica de campo.
 
 ### Rigor en la comunicación de resultados y el modelo TEP-AIED
 
@@ -202,6 +210,7 @@ En la práctica, la investigación sobre IA en la educación rara vez encaja lim
 - [[usability-research]] — Investigación sobre usabilidad
 - [[self-report-measures]]
 - [[learning-sciences]]
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
 
 ## Artículos conectados
 
@@ -226,3 +235,4 @@ En la práctica, la investigación sobre IA en la educación rara vez encaja lim
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Metametaanálisis del efecto de la IA en el aprendizaje
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presuntamente eficaz: auditoría de un metaanálisis de AIED defectuoso
 - [[synthetic-educational-data-structural-fidelity-2026]] — Lo que las métricas de fidelidad pasan por alto: una comprobación estructural de datos educativos sintéticos
+- [[ai-methodologies-science-education-research-2026]] — Un marco de iteración epistémica en siete fases para reflexionar sobre cómo las metodologías de IA pueden transformar la investigación en educación científica (Martin et al., 2026)

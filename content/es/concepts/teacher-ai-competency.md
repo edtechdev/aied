@@ -1,7 +1,7 @@
 ---
 title: "Competencia en IA del profesorado"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-10-04T17:13:09-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,13 +13,17 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-04T09:35:00-04:00"
+source_updated: "2026-10-09T08:42:12-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -99,6 +103,9 @@ La configuración de creencias es un segundo eje de perfilado: entre 40.680 doce
 
 
 Un contraejemplo basado en el diseño trata la competencia como situacional y no como un peldaño de una escalera. [[adaptive-ai-model-teacher-educators-2025|El estudio basado en el diseño de Eyal (2025) con 22 formadores de docentes de educación superior]] hizo que las personas participantes examinaran cinco marcos de evaluación publicados y codiseñaran una alternativa organizada en torno a tres ejes interrelacionados: la adecuación al contexto (infraestructura, factores socioculturales, necesidades locales, etapa de desarrollo), las necesidades profesionales (disciplina, pedagogía, liderazgo, apoyo) y el desarrollo dinámico. El modelo rechaza los niveles de competencia fijos y permite una progresión no lineal, y se acompaña de un cuestionario de autoevaluación reflexiva de 20 ítems valorado de 1 a 5. Su validación es solo cualitativa, sin pruebas cuantitativas de fiabilidad, por lo que se sostiene como contribución de diseño y no como instrumento validado.
+- **Estimación metaanalítica.** [[teacher-ai-literacy-professional-development-meta-2026|Guo et al. (2026)]] agruparon 212 tamaños del efecto de 34 estudios y estiman la formación continua en alfabetización en IA del profesorado en g = 0,76 (IC del 95% [0,50, 1,02]), más fuerte para las habilidades (g = 0,91) y más débil para actitudes y valores (g = 0,61); corregir la aparente selección de publicaciones rebaja la estimación a alrededor de g = 0,49.
+- **La asistencia predice las ganancias allí donde la sensación de participar no lo hace.** En ese mismo programa de seis meses, la tasa de asistencia predijo la ganancia de competencia (β = 0,407, p = ,001) mientras que la participación autopercibida no lo hizo (β = 0,049, p = ,692), y la disciplina, la experiencia docente y la categoría profesional explicaron poco; los autores leen la asistencia como inversión conductual y la participación percibida como implicación superficial ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng y Ling, 2025]]).
+- **Los valores van por detrás de las habilidades también en un programa específico de dominio.** En un programa de un año en Hong Kong con 30 docentes de inglés, el conocimiento de estrategias de evaluación multimodal subió de 3,13 a 4,15 sobre 5 (η² parcial = 0,571) y la competencia de apoyo al estudiantado de 3,05 a 3,98 (0,482), ambos significativos, mientras todos los subdominios de valor se mantuvieron estadísticamente planos bajo un alfa corregido por Bonferroni de 0,006. El profesorado atribuyó las ganancias a la coplanificación en el centro y a las reuniones de clúster entre escuelas, y no solo a los talleres ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
 
 ## La competencia en IA del profesorado y la transformación del rol docente
 
@@ -112,6 +119,7 @@ A medida que la IA asume tareas rutinarias de instrucción y evaluación, la con
 - **Apoye la capa institucional:** una competencia docente sostenible requiere política, gobernanza y capacidad alineadas, y no formación aislada.
 
 - **Competencia digital docente para el [[curriculum-design|diseño curricular]] con IA generativa.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] valida un instrumento diagnóstico basado en el modelo TAM con 434 docentes en activo; la intención conductual fue el principal predictor de la competencia digital para usar IA generativa en la planificación curricular, con la autoeficacia como motor de raíz.
+
 ### Un instrumento psicométrico para la competencia en IA del profesorado
 
 - Un estudio psicométrico desarrolló la Escala de Alfabetización en IA del Profesorado (TAILS) para medir la alfabetización en IA específicamente en la [[teacher-education|formación de profesorado de idiomas]], operacionalizando las seis dimensiones del marco ED-AI. El desarrollo del instrumento cubre una carencia de evaluaciones dirigidas a estudiantes o usuarios generales, y apoya la medición de la competencia en IA del profesorado.
@@ -187,3 +195,8 @@ El panorama de instrumentos se ha revisado desde entonces. [[assessing-teachers-
 - [[capability-decision-model-teacher-readiness-2026]] — Modelo ordenado de preparación docente centrado primero en la capacidad, con indicadores de capacidad basados en el desempeño
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Encuesta transnacional a 1.405 docentes de K-12: la preparación predice creencias positivas pero no la preocupación
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Cuatro perfiles de creencias docentes de TALIS 2024 vinculan el aprendizaje profesional y barreras específicas de cada perfil al uso de la IA
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Alfabetización en evaluación multimodal: un programa de un año en el que el conocimiento y la competencia se movieron y los valores no
+- [[teacher-ai-literacy-professional-development-meta-2026]] — El impacto de los programas de formación continua en la alfabetización en IA del profesorado de K-12: revisión sistemática y metaanálisis
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Formación continua Intelligent-TPACK para profesorado universitario: ganancias resueltas por dimensión, la asistencia por encima de la implicación autopercibida
+- [[educational-development]] — Desarrollo educativo: formación continua, cambio organizativo y mejora de la enseñanza
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Formación continua Intelligent-TPACK para profesorado universitario: ganancias resueltas por dimensión, la asistencia por encima de la implicación autopercibida

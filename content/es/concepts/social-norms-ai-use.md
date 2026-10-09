@@ -1,7 +1,7 @@
 ---
 title: Normas sociales del uso de la IA
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-09-28T21:03:34-04:00"
+updated: "2026-10-09T17:55:00-04:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -13,13 +13,17 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-09-23T09:54:12-04:00"
+source_updated: "2026-10-07T08:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -81,6 +85,8 @@ Dos estudios más explican por qué la vigilancia es una mala herramienta para f
 
 [[teichmann-detecting-undetectable-misconduct-2026|El argumento de la justicia procesal]] extrae la conclusión: como el uso de IA experto o ligeramente editado es indetectable en el caso general, un procedimiento de mala conducta construido sobre la detección produce injusticia sin eficacia, y la respuesta es una mejor [[assessment|evaluación]], no una mejor vigilancia.
 
+El coste de esa sustitución aparece en el lugar donde profesorado y estudiantado hablan de verdad. Entre 253.222 registros relacionados con la IA en 26 subreddits educativas, un tercio de todos los hilos entre profesorado y estudiantado eran disputas de detección o de aplicación, el estudiantado abrió el 68,4% de ellos, y la negatividad predijo la implicación (ρ = −0,72): el conflicto adversarial, y no la deliberación, es la forma de contacto entre roles de mayor volumen sobre la [[generative-ai|IA generativa]] ([[reddit-genai-education-discourse-analysis-2026|Yüce et al., 2026]]).
+
 ## Qué significa esto para la práctica
 
 - **Hacer visible el uso en lugar de inferirlo.** El estudiantado no puede juzgarse con precisión unos a otros, y la colaboración repetida no lo arregla. Registros compartidos y ligeros del trabajo asistido por IA, anotaciones o historiales de prompts dan al grupo algo factual sobre lo que razonar.
@@ -121,3 +127,4 @@ Dos estudios más explican por qué la vigilancia es una mala herramienta para f
 - [[teichmann-detecting-undetectable-misconduct-2026]] — Detectar lo indetectable: los procedimientos de mala conducta después de la IA generativa
 - [[sobo-cheating-competing-ai-marketing-literacy-2025]] — ¿Hacer trampas o competir? La IA en la educación en marketing
 - [[chen-zou-genai-group-assessment-agency-2026]] — La agencia en la evaluación en grupo asistida por IA generativa
+- [[reddit-genai-education-discourse-analysis-2026]] — Tres años y medio de Reddit educativo: la aplicación domina, y las disputas de integridad son el principal ámbito de encuentro entre profesorado y estudiantado (Yüce et al. 2026)

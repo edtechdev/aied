@@ -1,14 +1,14 @@
 ---
 title: Confianza
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-10-02T22:23:27-04:00"
+updated: "2026-10-09T17:55:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
 translation_of: concepts/trust
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

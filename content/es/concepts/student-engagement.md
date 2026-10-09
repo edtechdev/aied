@@ -1,7 +1,7 @@
 ---
 title: Implicación del estudiantado
 created: "2026-09-25T04:03:10-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-09T17:05:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -11,13 +11,17 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/student-engagement
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-08T09:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -66,6 +70,7 @@ Ese [[scaffolding|andamiaje]] tiene una contraparte institucional con una doble 
 - **El acceso a una herramienta de IA puede *reducir* la implicación medida, y las tasas de finalización no lo mostrarán.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] aleatorizaron el acceso a un tutor en 13 bloques de una gran universidad pública estadounidense y encontraron que la participación registrada en la plataforma cayó 0,90 SD, las vistas de página entre 0,37 y 0,38 SD y los días activos entre 0,51 y 0,61 SD, mientras que la entrega de deberes y la entrega puntual no se vieron afectadas. La disociación es la lección de medición: un curso que solo monitorizara la finalización de tareas no habría visto nada, porque la reducción se situó en la actividad de debate, cuestionarios e interacción con el profesorado que la plataforma registraba. El estudiantado de las secciones tratadas también declaró hacer al profesorado menos preguntas de contenido (alrededor del 57% frente al 44%), de modo que el descenso coincidió con una sustitución del contacto humano y no con una desconexión del curso.
 
 - **La latencia de respuesta es una palanca de implicación.** En 1.137 sesiones de tutoría cuantitativa con IA, las respuestas más rápidas se asociaron con más mensajes del estudiantado y más práctica correcta (tiempo de respuesta mediano de 1,9 s a 31,0 s entre modelos; una latencia menor correlacionada con la implicación con Spearman ρ=-0,81, p=.0056), una cadena que los autores interpretan como la explicación de cómo modelos que no destacan en calidad docente siguen alcanzando ganancias de nivel humano ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
+- **El uso de la IA puede ir acompañado de mayor absentismo en clase, y la confianza no lo predice.** Una encuesta PLS-SEM con 291 estudiantes universitarios portugueses encontró que el uso general de la IA se asociaba positivamente con el absentismo (β = 0,148, f² = 0,029) y con la autoeficacia para el aprendizaje independiente, pero la autoeficacia en sí misma no predijo el absentismo (β = −0,068, p = 0,276): el patrón de «confiado pero ausente» del artículo. La asociación con la asistencia fue modesta y secundaria frente a la influencia de los pares (β = 0,510, f² = 0,326) y la gestión del tiempo (β = −0,163), y, como el constructo de uso de la IA era unidimensional y mezclaba ítems orientados al apoyo con ítems orientados a la sustitución, el estudio no puede separar el uso complementario del sustitutivo ni establecer la dirección ([[confident-but-absent-ai-use-absenteeism-2026|Franco et al. (2026)]]).
 
 ### Medir la implicación: el problema de la elección de la métrica
 
@@ -106,6 +111,7 @@ La implicación del estudiantado se conecta con la [[motivation|motivación]] y 
 - **La disociación puede ir en la dirección contraria (2026):** en un curso vocacional de diseño de interiores de 12 semanas, un estudio inmersivo de RV con un asistente docente LLM integrado elevó la implicación cognitiva (d = 0,90) y conductual (d = 0,75) frente a la instrucción tradicional [[project-based-learning|basada en proyectos]], mientras que la implicación afectiva no difirió de forma significativa (d = 0,38), justo lo inverso del caso de escritura en L2 anterior ([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). Las ganancias cognitivas y conductuales vinieron aquí acompañadas de una carga cognitiva declarada *menor*, que los autores atribuyen a que el asistente absorbió el esfuerzo de búsqueda e integración interdisciplinar. Leídos junto al caso de escritura, los dos estudios sugieren que qué dimensión de la implicación mueve una intervención apoyada en IA es una propiedad del diseño ([[collaborative-learning|colaboración]] inmersiva con mucho discurso frente a apoyo individual a la escritura) y no de la asistencia con IA en general, y que no puede darse por supuesta una ventaja afectiva a partir de una retroalimentación de alta fidelidad o inteligente.
 
 - **La alfabetización en IA actúa sobre la implicación a través de recursos psicológicos (2026):** un estudio de mediación moderada con 1.198 estudiantes de grado en Zhengzhou (China) ([[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]) modeló la implicación como resultado de la [[ai-literacy|alfabetización en IA]] y no como un subproducto del uso de la herramienta. La alfabetización en IA predijo la implicación en el aprendizaje directamente y también indirectamente al construir capital psicológico, con la vía indirecta aportando aproximadamente la mitad del efecto total: mediación parcial, de modo que una competencia tecnológica se convierte en implicación solo en parte a través de los recursos psicológicos que genera. El compromiso profesional, una variable basada en la identidad, moderó el vínculo entre capital psicológico e implicación sin tener ningún efecto directo propio, y la traducción del capital psicológico en implicación fue marcadamente más fuerte en el estudiantado que se veía encaminado a la profesión. El patrón es el caso disponible más claro del punto anterior de que las características de quien aprende condicionan cómo la IA afecta a la implicación.
+- **La práctica previa a clase con IA puede elevar la participación en directo (2026):** un experimento de campo preregistrado con 759 estudiantes de MBA encontró que prepararse con un compañero de discusión basado en la voz con IA elevó las contribuciones voluntarias alrededor de un 31% en sesiones posteriores, pero solo tras un segundo uso; un primer uso precedió a una participación menor ([[assigned-ai-preclass-student-engagement-2026|Wang et al., 2026]]).
 
 ## Conceptos conectados
 
@@ -163,3 +169,5 @@ La implicación del estudiantado se conecta con la [[motivation|motivación]] y 
 - [[ai-literacy-learning-engagement-psych-capital-2026]] — La alfabetización en IA impulsa la implicación directamente y a través del capital psicológico, amplificado por el compromiso profesional (Wang 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — El acceso a un tutor de IA redujo la participación registrada en la plataforma en 0,90 SD mientras la entrega de deberes se mantenía (Liu et al. 2026)
+- [[assigned-ai-preclass-student-engagement-2026]] — La práctica previa a clase con un compañero de IA basado en la voz elevó las contribuciones voluntarias en clase ~31%, pero solo tras un segundo uso (Wang et al. 2026)
+- [[confident-but-absent-ai-use-absenteeism-2026]] — El uso de la IA fue de la mano del absentismo en clase mientras la autoeficacia no lo predijo, con la influencia de los pares como principal correlato (Franco et al. 2026)

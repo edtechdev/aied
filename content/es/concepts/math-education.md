@@ -1,7 +1,7 @@
 ---
 title: Educación matemática
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -10,13 +10,17 @@ audience: [learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/math-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-05T11:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -62,6 +66,7 @@ El diseño del prompt es en sí mismo una palanca medible: sobre el punto de ref
 - **Los problemas susceptibles a la IA pierden tiempo de estudio y retención.** Un panel de diez años con 3,2 millones de interacciones de ALEKS encontró que el tiempo de aprendizaje en problemas verbales basados en texto —los más transcribibles a prompts de IA— cayó un 26,9% tras el lanzamiento de ChatGPT, mientras que los ítems de retención supervisados mostraron una caída del 25% en las probabilidades de una respuesta correcta ([[generative-ai-reduced-study-time-math|Rismanchian et al., 2026]]).
 
 - **El estudiantado valora la retroalimentación inmediata, pero las plataformas de práctica opcionales se quedan sin usar.** De 157 estudiantes, [[genai-practice-platform-maths-feedback-2026|Chen et al. (2026)]] vieron a 95 registrarse y solo a 34 intentar una pregunta; quienes las usaron valoraron la implicación como lo más alto (79% de acuerdo), mientras que solo el 42% prefirió la plataforma al cuadernillo de problemas existente.
+- **La IA puede elevar el rendimiento a la vez que amplía una brecha de género.** En un cuasiexperimento de seis semanas con 115 estudiantes nigerianos de secundaria superior, la retroalimentación de ChatGPT elevó el rendimiento en ecuaciones cuadráticas frente a la enseñanza convencional (29,18 frente a 24,06), pero los estudiantes varones superaron a las mujeres (30,95 frente a 25,16) pese a no haber diferencias de género en autoeficacia: una advertencia de equidad para el apoyo de la IA en matemáticas ([[ai-generated-responses-achievement-self-efficacy-2026|Oladayo y Diri, 2026]]).
 
 ### Conexiones con conceptos relacionados
 
@@ -134,3 +139,4 @@ La educación matemática se sitúa dentro del dominio más amplio de la [[stem-
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — Anotación semántica de conceptos de conocimiento y secuenciación de ejercicios con aprendizaje por refuerzo en corpus matemáticos de K-12
 - [[misconception-acquisition-dynamics-llms-2026]] — Dinámica de adquisición de reglas algebraicas erróneas en modelos de lenguaje
 - [[genai-practice-platform-maths-feedback-2026]] — Plataforma opcional de práctica con IA generativa en una clase de matemáticas de 157 estudiantes: retroalimentación inmediata valorada, adopción limitada a 34 usuarios activos
+- [[ai-generated-responses-achievement-self-efficacy-2026]] — Evaluación de la influencia de las respuestas generadas por IA en el rendimiento académico: una perspectiva ética y la autoeficacia
