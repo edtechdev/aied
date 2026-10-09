@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-09T08:42:20-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -65,6 +65,7 @@ The constructive question in the knowledge base's assessment literature is not "
 - **Authentic and process-based tasks** that make AI use visible and assessed. [[authentic-assessment]] — examining student performance on worthy, realistic tasks — is the leading response to AI's challenge: any task an [[llm]] can credibly simulate loses its validity, so authenticity must be redesigned around real-time [[collaborative-learning|collaboration]], digital and social contribution, and individual meaning-making. This connects to [[zhan-boud-du-authentic-assessment-scoping-review-2025|design frameworks for authentic assessment]], [[authentic-products-authenticated-processes-2026|authentic products and authenticated processes]], and [[tool-invariant-framework-agentic-ai|tool-invariant assessment of process]].
 - **Responsible assessment design** grounded in validity evidence ([[responsible-assessment-ai-era-stanford-2026]])
 - **Task-level AI permissions derived from assessment targets:** [[mccorkle-aligned-genai-course-policy-2025|McCorkle (2025)]] shows the assessment-design work that precedes an [[educational-policy-ai|AI policy]] — inventorying every task in a project, specifying what is being assessed and against which objective, and permitting or prohibiting AI per task on that basis (brainstorming and image curation allowed; composing learning objectives and slide design not). The same alignment exercise doubles as a check on the inference the assessment supports, because it forces the instructor to name the performance that a grade is meant to warrant ([[assessment-validity]]).
+- **Assessment that goes beyond the linguistic mode:** Jiang et al. (2026) define multimodal assessment literacy for second language teachers as knowledge, value and competence for tasks that elicit responses across linguistic, visual, aural, gestural and spatial modes. A year-long program with 30 Hong Kong English teachers raised knowledge of assessment strategies from 3.13 to 4.15 out of 5 (partial η² = 0.571) and competence in supporting students from 3.05 to 3.98 (0.482), while all three value subdomains stayed flat. The teachers' own experience added two dimensions to the framework: sustaining the practice against competing curricular priorities, and mobilizing GenAI critically ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al. (2026)]]).
 - **Coauthorship and declaration** as part of the assessment contract
 - **Production as a competency** — evaluating learners' ability to direct tools and produce professional-standard work ([[competency-based-education-genai-production-2026]])
 - **Assessing the interaction process, not just the artifact** — the [[assessing-student-drive-framework-2025|DRIVE framework]] (Directive Reasoning Interaction + Visible Expertise) treats the quality of a student's *engagement with GenAI* as the assessed construct. It distinguishes surface consumption from deep, reflective interaction by looking at whether students steer prompts strategically (DRI) and integrate and develop their own disciplinary ideas through the exchange (VE), grounding process-focused criteria in theories of [[self-directed-learning]] and cognitive engagement along the lines of the [[icap-framework|ICAP]] hierarchy. This makes DRIVE an example of *AI-mediated authentic assessment* — a rubric for evaluating how learners partner with GenAI rather than a detection tool.
@@ -104,6 +105,7 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 - [[speech-and-voice-technologies]]
 - [[peer-assessment]]
 ## Connected Articles
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — A year-long program that defines multimodal assessment literacy and measures what moved, and what did not
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[mccorkle-aligned-genai-course-policy-2025]] — Task-level AI permissions derived from what is assessed (McCorkle 2025)
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)

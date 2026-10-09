@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-07T14:30:00-04:00"
+updated: "2026-10-09T08:42:12-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -50,6 +50,8 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - **Bias in training data and outputs:** AI training data largely reflects dominant cultural perspectives. [[gender-bias-transfer-llm-writing|Gender bias transfer research]] shows LLM-assisted writing can contaminate student work with gender bias; [[paternalistic-filter-llm-history-education|history-education filters]] and [[ai-scoring-language-bias-physics|AI scoring]] can encode Western-centric and linguistically biased assumptions.
 - **Marginalized knowledges:** [[genai-minoritized-knowledges-disability|Research on minoritized knowledges]] examines how generative AI marginalizes non-dominant knowledge systems and disability perspectives in [[higher-ed|higher education]].
 - **[[curriculum-design|Curriculum]] diversification:** Teachers increasingly use LLMs to diversify curriculum materials (Wang et al., 2025, found 78% did so), yet AI-curated reading lists still underrepresent BIPOC authors, and [[stem-education|STEM]] [[intelligent-tutoring|AI tutors]] default to Western-centric problem contexts.
+
+- **Generated imagery repeats dominant visual norms, which makes critical use a competency rather than an add-on.** Jiang et al. (2026) observe that GenAI image generation reproduces dominant multimodal norms such as visual bias, and warn that multimodal assessment which ignores this risks automating and reproducing inequalities; their framework for second language teachers therefore requires the competence to help students detect, evaluate and counter-narrate biased model outputs ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
 
 ## Outcome equity
 
@@ -123,6 +125,7 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[student-support-and-success]] — who support systems reach, and the risks of acting on a risk score
 
 ## Connected Articles
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — How GenAI visual bias enters multimodal assessment, and why counter-narrating it is a teacher competency
 - [[rented-self-decoupling-performance-becoming-2026]] — The rented self: rent paid in money, self and standards, and licenses that end at graduation
 - [[verified-study-materials-learning-gains-2026]] — Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course
 
