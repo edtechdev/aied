@@ -4146,3 +4146,30 @@
   - generative-ai
   - assessment
   reason: 'Two candidates qualified: ai-detection (grep ''idea provenance'', ''IdeaLens'', ''who wrote the words'' -> 0 hits, so the page listed technical families without the ideas-versus-prose distinction, and the new bullet adds the flag-rate gradient and the ethics caveat) and academic-integrity (grep ''idea provenance'' -> 0 hits while the page frames integrity around authorship of text, so it gained the policy shift and the 68% figure with its error direction). Rejected: process-oriented-assessment already frames the process record as the evidence and the detector adds a measurement rather than a design implication; ai-use-disclosure and ai-misuse-learning-harm concern what a learner discloses or does, while this paper is about attributing ideas; trust-calibration and assessment-validity duplicate what the detection and integrity pages now carry; metacognition, student-ai-interaction, machine-learning, benchmark, the disciplines and the levels describe the method or the setting. Confidence medium: the training labels are inherited prose labels and the mixed quadrant rests on 50 stories, both stated by the authors.'
+- article: multimodal-assessment-literacy-l2-teachers-genai-2026
+  date: '2026-10-09'
+  integrated:
+  - assessment
+  - teacher-ai-competency
+  - equity-in-ai-education
+  no_change:
+  - ai-literacy
+  - scaffolding
+  - professional-training
+  - formative-assessment
+  - authentic-assessment
+  - collaborative-learning
+  - multimodal
+  - self-report-measures
+  - generative-ai
+  - educational-measurement
+  - teacher-role
+  - sociocultural-learning
+  - prompt-engineering
+  - educational-development
+  - language-learning
+  - mixed-methods-research
+  - qualitative-research
+  - quantitative-research
+  - self-directed-learning
+  reason: 'Three candidates qualified. assessment (grep "multimodal" and "modes" -> 0 hits, so the page listed redesign moves that all stayed inside the print-text frame; it gained the construct definition, the two effects and the two dimensions practice added). teacher-ai-competency (grep "multimodal assessment" -> 0 hits while the page recorded a meta-analytic estimate where attitudes and values were weakest; the new bullet is a domain-specific confirmation with a measured effect on the same split). equity-in-ai-education (grep "visual bias" -> 0 hits, and the added bullet carries the authors'' own warning that ignoring generated-image norms automates inequality). Rejected: ai-literacy already carries six multimodal mentions and the critical-use point is now made where the bias lives; authentic-assessment and formative-assessment are mechanisms the program used rather than findings it produced; multimodal describes the modality concept itself and its page already links assessment 18 times; scaffolding, professional-training, collaborative-learning, sociocultural-learning, generative-ai, prompt-engineering, educational-measurement, self-report-measures and teacher-role are facets or the study''s setting and instrument. Confidence high on the construct and the effects: peer-reviewed, open access, 28 complete responses, and the value finding rests on non-significant results under a corrected alpha of .006, which the authors report as stability rather than as equivalence.'
