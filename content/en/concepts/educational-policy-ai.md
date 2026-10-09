@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-06T18:35:00-04:00"
+updated: "2026-10-09T09:50:00-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -66,6 +66,8 @@ A UK systematic review adds a sectoral layer to the same gap: infrastructure inv
 **A value/norm matrix as a policy foundation.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], a [[meta-analysis-systematic-review|systematic review]] of 25 articles, consolidate AIED ethics into six main [[ethics|ethical]] values (non-discrimination, data stewardship, [[human-in-the-loop-ai|human oversight]], goodwill, explicability, educational aptness) and map the ethical norms extracted from the literature onto a stakeholder-by-value matrix. The review positions the matrix as a foundation for building detailed ethical frameworks and regulation for AIED, giving educational institutions, developers, and regulators concrete norms to implement specific values. It finds goodwill norms aimed at regulators are far more numerous (nine) than for any other stakeholder set, signaling regulators' role in ensuring AIED benefits learners through policy and legislation — a concrete, value-anchored starting point for the policy-vs-governance machinery this page describes.
 
 **Claims that travel further than their qualifications.** A pilot announcement is a policy instrument too, and its reporting standards are part of the policy. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et al. (2026)]] analyze the September 2026 El Salvador episode in which an AI-tutoring pilot in 171 public schools was reported as reaching results comparable to Germany and Sweden: against the German PISA 2022 [[math-education|mathematics]] average, the top 5.5% of the national achievement distribution would have matched the benchmark with no learning gain at all, and the pilot's assessment covered 7.0 students per school against 25.4 in the national survey the same year, so the published evidence cannot exclude selection as the explanation. Their proposal is a six-item reporting standard — the participating schools' baseline, the sampling protocol (eligible students, assessed students, identification rule, participation rate), disaggregated scores with standard errors, the operational date of each reform component, overlap with the representative national sample, and the qualification stated in the same document, post or paragraph as the claim — motivated by the disclosure arithmetic of the announcement itself: the World Bank post carrying the claim recorded about 441,000 views against about 11,000 for the post carrying the qualification four places later in the same thread. The policy lesson is that where a system uses school-level results as evidence about itself, the format of disclosure decides which statement becomes the public fact.
+
+A country-level analysis of PISA 2022-2025 found that countries with higher generative-AI use showed larger declines in reading and mathematics, an association that disappeared once prior performance was controlled ([[genai-pisa-decline-countries-2026|Guerra & Aslanov, 2026]]). The authors read it as a caution that wider chatbot access should not be treated as a benefit in itself, and call for rollouts paired with longitudinal evaluation.
 
 ### Policy vs. governance
 
@@ -137,3 +139,4 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading: grades changed undetected, and the policy-level response (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — 130 governance indicators for authenticating assessment, and the external pressure reform needs (Coates, Croucher & Calderon 2025)
 - [[genai-use-changing-institutional-policy-physics-2026]] — Policy tier versus task design: what students used GenAI for across three physics assessments (Quince & Faulconer 2026)
+- [[genai-pisa-decline-countries-2026]] — Higher country-level generative-AI use tracked larger PISA 2022-2025 declines, a correlation that vanished after controlling for prior performance (Guerra & Aslanov 2026)
