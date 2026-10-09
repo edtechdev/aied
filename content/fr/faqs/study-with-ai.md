@@ -1,7 +1,7 @@
 ---
 title: "Comment utiliser l'IA pour étudier et apprendre efficacement ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-09-22T19:10:56-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 60
 type: faq
 foundations: [cognitive-offloading]
@@ -11,7 +11,7 @@ research_method: [experiment, literature review, survey]
 audience: [learners, instructors]
 level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
-source_updated: "2026-09-22T03:05:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/study-with-ai
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

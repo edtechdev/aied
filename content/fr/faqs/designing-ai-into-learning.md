@@ -1,11 +1,11 @@
 ---
 title: "Comment l'IA doit-elle être conçue dans l'expérience d'apprentissage ?"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-09-22T12:00:00-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-source_updated: "2026-09-17T02:26:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/designing-ai-into-learning
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -13,6 +13,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*

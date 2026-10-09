@@ -1,7 +1,7 @@
 ---
 title: "应当如何为人工智能设计真正改变教学实践的教师发展项目？"
 created: "2026-09-22T19:49:53-04:00"
-updated: "2026-09-22T19:49:53-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 65
 type: faq
 foundations: [educational-development, teacher-role, tpack, teacher-ai-competency]
@@ -10,7 +10,7 @@ research_method: [survey, case study]
 audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
-source_updated: "2026-09-18T09:10:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/faculty-development-ai
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

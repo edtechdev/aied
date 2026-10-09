@@ -1,7 +1,7 @@
 ---
 title: "我如何撰写课程人工智能政策并向学生说明？"
 created: "2026-09-22T19:42:07-04:00"
-updated: "2026-09-22T19:42:07-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 70
 type: faq
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
@@ -12,7 +12,7 @@ audience: [instructors, curriculum designers]
 level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
-source_updated: "2026-09-17T02:50:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/course-ai-policy
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

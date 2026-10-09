@@ -1,11 +1,11 @@
 ---
 title: "Comment puis-je réduire la triche par IA dans mon cours ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-09-22T19:10:56-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-source_updated: "2026-09-18T06:20:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/reduce-ai-cheating
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -13,6 +13,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
