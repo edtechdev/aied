@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-08T09:45:00-04:00"
+updated: "2026-10-09T01:55:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -64,7 +64,6 @@ The design implication is a two-dimensional user typology — the *ability* to v
 
 With autonomous agents the object of calibration changes. [[agentic-literacy-debt|Nama (2026)]] argues the user becomes a principal who has delegated authority to a system whose actions are largely unobserved and irreversible, shifting the competency from judging outputs to understanding what was authorized, overseeing it, and attributing accountability when harm occurs.
 
-
 ### Connections
 
 Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai-misuse]] as a skill-based intervention: students [[ai-misuse-learning-harm|misuse]] AI less when they can judge when its output deserves trust. It is also a design goal — [[pedagogical-safety]] and transparency tools aim to make AI's reliability legible so [[learners]] can calibrate more accurately. Calibration can also be pushed elsewhere when the artifact itself offers nothing to check: in Sidorkin's (2026) graduate course, where AI generated the weekly readings, in-text citations appeared on only about 0.80 percent of pages, only about 2.7 percent of 837 recorded student turns contained a risk-aware move such as correcting an AI assumption or demanding a checkable case, and the bounded trust reported in survey comments came with four of 24 respondents using dependence language and one naming the need for "[[teacher-role|teacher]] oversight." An unauditable artifact therefore transfers the verification duty to whoever can audit it, and the study's design response is to institutionalize that oversight rather than assume a critical stance will arise on its own.
@@ -94,10 +93,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 - **Role rotation as a structure for practicing critique (2026):** In a design-based study of 62 pre-service educational psychologists moving through four rotating professional roles over eight weeks, [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva et al. (2026)]] had participants compare AI-generated recommendations with psychological theory and modify or reject those that did not fit the case, yet still recorded overreliance on apparently authoritative AI responses, with some students seeking AI confirmation before offering their own interpretation even in later cycles. Rotation creates repeated occasions for the accept or reject judgment without guaranteeing it, and the study reports engagement during the intervention rather than measured competence gains.
 
-
 - **Surface identity cues move trust independently of capability.** Across two experiments (N = 396), learners rated White avatars — and Asian male avatars in STEM — more credible and competent, penalized older Black female avatars on every measure, and adopted racial-ingroup guidance more readily ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
-
-- **A second AI opinion can dilute overreliance on a wrong one (2026):** In a randomized reader study with 123 radiology residents, two independent AI suggestions instead of one raised accuracy when the shared suggestion was wrong — 40.1% and 40.4% versus 20.0% — a design lever against anchoring ([[dual-single-suggestion-ai-radiology-residents-2026|Wu et al., 2026]]).
 
 ## Connected Concepts
 
@@ -116,7 +112,6 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[cognitive-surrender]]
 
 ## Connected Articles
-- [[dual-single-suggestion-ai-radiology-residents-2026]] — Two independent AI suggestions cut overreliance when the shared one is wrong (Wu et al. 2026)
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
 - [[du-yuan-epistemic-dependence-2026]] — Six diagnostic criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective

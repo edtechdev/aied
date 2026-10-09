@@ -69,8 +69,9 @@ def main(argv: list[str]) -> int:
     for slug in slugs:
         path = os.path.join(ARTICLES, slug + '.md')
         if not os.path.exists(path):
-            print(f'{slug}: no such article page')
-            failures += 1
+            # --changed lists deletions too (git diff --name-only), and a page that was
+            # deleted on purpose has no citation to attribute: skipping it is correct,
+            # failing the gate on it would make every deletion look like a defect.
             continue
         text = open(path, encoding='utf-8').read()
         cite = citation_of(text)
