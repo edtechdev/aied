@@ -1,7 +1,7 @@
 ---
 title: "Open Benchmark of AI Impact on Humans (ImpactBench): An Expert-Guided, Open Platform for the Holistic Evaluation of AI Impact on Humans"
-created: "2026-10-08T14:05:00-04:00"
-updated: "2026-10-08T15:10:00-04:00"
+created: "2026-10-09T00:49:28-04:00"
+updated: "2026-10-09T00:49:28-04:00"
 type: article
 foundations: [ai-education, cognitive-offloading, agency, limitations-in-aied-research]
 pedagogy: [scaffolding, self-regulated-learning, well-being]
