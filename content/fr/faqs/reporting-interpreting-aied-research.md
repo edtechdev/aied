@@ -1,7 +1,7 @@
 ---
 title: "Quelles sont les bonnes pratiques pour rapporter et interpréter la recherche sur l'IA en éducation ?"
 created: "2026-09-22T19:14:36-04:00"
-updated: "2026-09-22T19:14:36-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 65
 type: faq
 foundations: [limitations-in-aied-research, interpreting-and-applying-aied-research]
@@ -11,7 +11,7 @@ research_method: [literature review]
 audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
-source_updated: "2026-09-19T06:28:59-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/reporting-interpreting-aied-research
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

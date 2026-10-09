@@ -1,12 +1,12 @@
 ---
 title: "教育领域的人工智能研究应当如何纳入公平、无障碍、隐私、伦理与教学安全？"
 created: "2026-09-22T19:41:09-04:00"
-updated: "2026-09-22T19:41:09-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 60
 
 ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy, pedagogical-safety]
 methods: [research-methods-aied]
-source_updated: "2026-09-19T06:28:59-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/equity-ethics-pedagogical-safety-research
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -14,6 +14,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

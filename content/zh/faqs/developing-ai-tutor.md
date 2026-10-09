@@ -1,7 +1,7 @@
 ---
 title: "开发有效的人工智能导师有哪些最佳实践？"
 created: "2026-09-22T19:52:49-04:00"
-updated: "2026-09-22T19:52:49-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 74
 type: faq
 foundations: [learner-identity]
@@ -11,7 +11,7 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-source_updated: "2026-09-19T06:28:59-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/developing-ai-tutor
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

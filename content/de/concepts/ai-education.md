@@ -1,7 +1,7 @@
 ---
 title: KI in der Bildung
 created: "2026-09-22T14:35:11-04:00"
-updated: "2026-10-03T02:52:43-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,13 +13,17 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-09-23T09:53:41-04:00"
+source_updated: "2026-10-02T07:35:56-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -180,6 +184,8 @@ KI in der Bildung ist mit jedem Konzept der Wissensbasis verbunden: Sie ist das 
 - [[philosophy-of-ai-in-education]] – die philosophischen Grundlagen
 - [[theories-and-frameworks]] – die Karte der Theorie- und Rahmenwerk-Knoten
 - [[theory-development-aied]] – Theorie aufbauen und überarbeiten
+- [[pedagogical-patterns]] — Pädagogische Muster: die erprobten Sequenzen, die die Methoden des Felds umsetzen
+- [[ai-assisted-educational-research]] — KI-gestützte Bildungsforschung
 
 ## Verbundene Artikel
 

@@ -1,12 +1,12 @@
 ---
 title: "Comment intégrer la littératie en IA dans mon cours ?"
 created: "2026-09-22T19:14:32-04:00"
-updated: "2026-09-22T19:14:32-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
-source_updated: "2026-09-18T09:10:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/incorporating-ai-literacy
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -14,6 +14,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

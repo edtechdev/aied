@@ -1,7 +1,7 @@
 ---
 title: "शिक्षा में AI"
 created: "2026-09-22T17:49:08-04:00"
-updated: "2026-10-03T02:52:43-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,13 +13,17 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-09-23T09:53:41-04:00"
+source_updated: "2026-10-02T07:35:56-04:00"
 translation_note: "यह अंग्रेज़ी पृष्ठ का मशीन अनुवाद है, जिसकी अभी किसी मूल वक्ता द्वारा समीक्षा नहीं हुई है।"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -180,6 +184,8 @@ AI यह दोनों बदलता है कि हम शिक्ष�
 - [[philosophy-of-ai-in-education]] – दार्शनिक आधार
 - [[theories-and-frameworks]] – सिद्धांत और ढाँचा नोड्स का नक्शा
 - [[theory-development-aied]] – सिद्धांत का निर्माण और संशोधन
+- [[pedagogical-patterns]] — शैक्षणिक पैटर्न: क्षेत्र की शिक्षण विधियों को व्यवहारिक बनाने वाले परीक्षित अनुक्रम
+- [[ai-assisted-educational-research]] — एआई-सहायित शैक्षिक अनुसंधान
 
 ## संबंधित लेख
 

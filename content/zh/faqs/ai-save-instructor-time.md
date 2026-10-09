@@ -1,12 +1,12 @@
 ---
 title: "作为教师，人工智能如何帮我节省时间？"
 created: "2026-09-22T19:42:07-04:00"
-updated: "2026-09-22T19:42:07-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-source_updated: "2026-09-17T02:26:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/ai-save-instructor-time
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -14,6 +14,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

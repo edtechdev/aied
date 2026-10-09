@@ -1,7 +1,7 @@
 ---
 title: "Comment rédiger et mettre en œuvre une politique institutionnelle sur l'IA ?"
 created: "2026-09-22T19:12:18-04:00"
-updated: "2026-09-22T19:12:18-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 65
 type: faq
 ethics: [equity-in-ai-education, ethics, privacy]
@@ -9,7 +9,7 @@ research_method: [policy analysis, literature review, delphi]
 audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
-source_updated: "2026-09-18T09:10:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/institutional-ai-policy
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -17,6 +17,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

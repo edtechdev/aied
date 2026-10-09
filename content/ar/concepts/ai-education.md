@@ -1,7 +1,7 @@
 ---
 title: الذكاء الاصطناعي في التعليم
 created: "2026-09-22T14:35:26-04:00"
-updated: "2026-10-03T02:52:43-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,13 +13,17 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-09-23T09:53:41-04:00"
+source_updated: "2026-10-02T07:35:56-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -181,6 +185,8 @@ ai_assist:
 - [[philosophy-of-ai-in-education|فلسفة الذكاء الاصطناعي في التعليم]]: الأسس الفلسفية
 - [[theories-and-frameworks|النظريات والأطر]]: خريطة عُقد النظرية والإطار
 - [[theory-development-aied|تطوير النظرية في الذكاء الاصطناعي في التعليم]]: بناء النظرية ومراجعتها
+- [[pedagogical-patterns]] — أنماط تربوية: التسلسلات المُختبرة التي تُجرّد منهجيات الميدان
+- [[ai-assisted-educational-research]] — البحث التربوي بمساعدة الذكاء الاصطناعي
 
 ## المقالات المتصلة
 

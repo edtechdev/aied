@@ -1,7 +1,7 @@
 ---
 title: IA na educação
 created: "2026-09-22T14:40:54-04:00"
-updated: "2026-10-03T02:52:43-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,13 +13,17 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-09-23T09:53:41-04:00"
+source_updated: "2026-10-02T07:35:56-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -180,6 +184,8 @@ A IA na educação se conecta a todos os conceitos da base de conhecimento: é o
 - [[philosophy-of-ai-in-education]]: os fundamentos filosóficos
 - [[theories-and-frameworks]]: o mapa dos nós de teoria e framework
 - [[theory-development-aied]]: construir e revisar teoria
+- [[pedagogical-patterns]] — Padrões pedagógicos: as sequências testadas que operacionalizam as pedagogias do campo
+- [[ai-assisted-educational-research]] — Investigação educacional assistida por IA
 
 ## Artigos conectados
 

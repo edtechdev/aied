@@ -1,7 +1,7 @@
 ---
 title: "人工智能如何影响学生的焦虑与幸福感，我们又能做什么？"
 created: "2026-09-22T20:06:03-04:00"
-updated: "2026-09-22T20:06:03-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 60
 type: faq
 pedagogy: [anxiety-and-stress, motivation, self-efficacy, social-emotional-learning, well-being]
@@ -9,7 +9,7 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-09-17T03:00:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/ai-anxiety-wellbeing
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -17,6 +17,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

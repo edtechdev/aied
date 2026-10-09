@@ -1,7 +1,7 @@
 ---
 title: "我怎样才能让学生不过度依赖人工智能？"
 created: "2026-09-22T19:50:28-04:00"
-updated: "2026-09-22T19:50:28-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 80
 type: faq
 foundations: [cognitive-offloading, reducing-ai-misuse]
@@ -11,7 +11,7 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-09-17T02:50:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/reducing-over-reliance
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

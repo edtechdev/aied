@@ -1,7 +1,7 @@
 ---
 title: "我们应当如何纠正人们对教育中人工智能的常见误解？"
 created: "2026-09-22T19:51:00-04:00"
-updated: "2026-09-22T19:51:00-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
 technology: [prompt-engineering]
@@ -9,7 +9,7 @@ assessment: [ai-detection, assessment-validity, feedback-literacy]
 ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
-source_updated: "2026-09-17T02:26:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -17,6 +17,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

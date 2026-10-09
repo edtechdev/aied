@@ -1,7 +1,7 @@
 ---
 title: 교육에서의 인공지능
 created: "2026-09-22T14:35:21-04:00"
-updated: "2026-10-03T02:52:43-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,13 +13,17 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-09-23T09:53:41-04:00"
+source_updated: "2026-10-02T07:35:56-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -181,6 +185,8 @@ AI가 효과가 있는지 우리가 어떻게 아는가는 그 자체로 하나�
 - [[philosophy-of-ai-in-education]]: 철학적 토대
 - [[theories-and-frameworks]]: 이론과 프레임워크 노드의 지도
 - [[theory-development-aied]]: 이론을 세우고 수정하기
+- [[pedagogical-patterns]] — 교육학적 패턴: 해당 분야 교수법을 구현하는 검증된 순차
+- [[ai-assisted-educational-research]] — AI 지원 교육 연구
 
 ## 연결된 문서
 

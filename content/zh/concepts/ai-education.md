@@ -1,7 +1,7 @@
 ---
 title: 教育中的人工智能
 created: "2026-09-22T14:35:06-04:00"
-updated: "2026-10-03T02:52:43-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,13 +13,17 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-09-23T09:53:41-04:00"
+source_updated: "2026-10-02T07:35:56-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -63,6 +67,7 @@ ai_assist:
 - **[[governance|人工智能治理]]**、**[[educational-policy-ai|教育人工智能政策]]**与**[[equity-in-ai-education|公平]]**：制度、监管与公正层面的总括页面（另见[[regulation|监管]]与[[privacy|隐私]]）。
 
 这些总括页面在下面的各节中都有链接；下面每一条脉络都会同时指出它的总括页面与构成它的概念。
+
 ## 教育中的人工智能的两个维度
 
 教育中的人工智能研究横跨两个相互关联的方向：
@@ -83,6 +88,7 @@ ai_assist:
 - **核心教学法：**[[pedagogy|教学法与教学策略]]（本知识库教学方法覆盖的总括页面），以及[[active-learning|主动学习]]、[[collaborative-learning|协作学习]]、[[group-work|小组合作]]、[[project-based-learning|项目式学习]]、[[problem-based-learning|问题式学习]]、[[productive-failure|有益失败]]、[[inquiry-based-learning|探究式学习]]、[[experiential-learning|体验式学习]]、[[game-based-learning|游戏化学习]]、[[learning-by-teaching|以教促学]]、[[scaffolding|脚手架]]、[[socratic-method|苏格拉底式教学法]]、[[critical-pedagogy|批判性教学法]]、[[pedagogical-partnerships|教学伙伴关系]]、[[storytelling-in-education|叙事教学]]、[[learning-design|学习设计]]、[[online-teaching-and-learning|在线教学与学习]]与[[video-education|视频在教育中的应用]]。
 - **学习理论与过程：**[[learning-theories|学习理论]]总括页面（[[behaviorism|行为主义]]、[[cognitive-psychology|认知主义]]、[[constructivist|建构主义]]、[[sociocultural-learning|社会文化取向]]、[[distributed-cognition|分布式认知]]、[[situated-learning|情境学习]]、[[embodied-learning|具身学习]]、[[community-of-inquiry|探究共同体]]）与面向学习者的过程并存，例如[[self-regulated-learning|自我调节学习]]、[[self-determination-theory|自我决定理论]]、[[motivation|动机]]、[[self-efficacy|自我效能]]、[[self-directed-learning|自我导向学习]]、[[metacognition|元认知]]、[[desirable-difficulties|合意困难]]、[[transfer-of-learning|学习迁移]]、[[prior-knowledge|先前知识]]、[[icap-framework|ICAP 认知参与]]、[[refutation-text|反驳性文本]]、[[retrieval-spacing-interleaving|提取、间隔与交错练习]]以及[[activity-theory-aied|活动理论]]。
 - **学习者参与和体验：**[[student-engagement|学生参与]]、[[help-seeking|求助行为]]、[[social-emotional-learning|社会情感学习]]、[[well-being|福祉]]、[[creativity|创造力]]、[[problem-solving|问题解决]]、[[mastery-learning|掌握学习]]与[[student-ai-interaction|学生与人工智能的互动]]，共同塑造了学习者实际接触人工智能并受其影响的方式，而[[social-norms-ai-use|围绕人工智能使用逐渐形成的社会规范]]则决定人们能在多大程度上公开讨论这些。
+
 ## 技术与方法
 
 [[ai-technologies|技术]]页面是技术层的总括页面：
@@ -113,6 +119,7 @@ ai_assist:
 
 - **研究方法：**以[[research-methods-aied|AIED 研究方法]]为总括页面，包括[[qualitative-research|质性]]、[[quantitative-research|量化]]、[[mixed-methods-research|混合方法]]、[[design-based-research|基于设计的研究]]与[[usability-research|可用性]]取向，以及[[rct|随机对照试验]]、[[meta-analysis-systematic-review|元分析与系统综述]]与[[network-analysis|网络分析]]。
 - **人工智能系统的评价：**[[ai-ed-evaluation|人工智能教育评价]]与用于判断系统能力的[[benchmark|基准测试]]，以[[learning-gains|学习增益]]为真正重要的结果，同时以[[limitations-in-aied-research|这一证据普遍存在的局限]]和[[interpreting-and-applying-aied-research|如何解读单项研究]]作为审慎的平衡力量。
+
 ## 相关人群
 
 教育中的人工智能改变了每一类相关人群的角色。本知识库的[[stakeholders|人工智能教育中的相关人群]]页面是覆盖所有这些人群的总括页面：
@@ -178,6 +185,9 @@ ai_assist:
 - [[philosophy-of-ai-in-education]]：哲学基础
 - [[theories-and-frameworks]]：理论与框架节点的图谱
 - [[theory-development-aied]]：构建与修订理论
+- [[pedagogical-patterns]] — 教育学模式：将该领域的教学法具体化的经验证序列
+- [[ai-assisted-educational-research]] — 人工智能辅助教育研究
+
 ## 关联文章
 
 关于教育中的人工智能的领域级综述，即那些综述整个领域或整个教育层次、而非单一主题的研究：
