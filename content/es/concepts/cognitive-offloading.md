@@ -1,7 +1,7 @@
 ---
 title: Descarga cognitiva
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-04T17:15:18-04:00"
+updated: "2026-10-09T16:20:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,13 +12,17 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-04T10:52:15-04:00"
+source_updated: "2026-10-07T15:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -102,6 +106,7 @@ Los artículos de la base de conocimiento documentan la descarga cognitiva en va
 ## La dependencia excesiva: cuándo la descarga se vuelve dañina
 
 La escalera que sigue esta página tiene tres peldaños, y solo los dos primeros pertenecen a este apartado. La **descarga** es delegar trabajo mental, lo que a menudo es productivo; la **dependencia excesiva** es hacerlo de forma crónica y sin calibración, el fallo conductual que documenta esta sección; la **[[cognitive-surrender|rendición cognitiva]]** es un fallo distinto: el paso evaluativo nunca ocurre, así que quien aprende adopta la respuesta de la IA sin ningún juicio sobre su calidad. La frontera se ve en lo que se le pide a la IA: la asistencia *instrumental* de [[du-yuan-epistemic-dependence-2026|Du y Yuan]] produce un resultado, mientras que la asistencia que conlleva juicio aporta el criterio con el que se juzga ese resultado, y es la segunda la que desplaza el trabajo del que depende la experiencia. [[young-people-learning-generative-ai-rapid-review-2026|La revisión rápida de Sídney]] traza la misma división triple a lo largo de 271 artículos. La rendición tiene, por tanto, su propia firma experimental y su propia página; la dependencia excesiva sigue siendo el problema de frecuencia y calibración, y los dos son resultados separables en una misma tarea: en los ensayos de [[shaw-nave-cognitive-surrender-2026|Shaw y Nave]], el 73,2% de los ensayos con IA incorrecta terminaron en rendición mientras que el 19,7% terminaron en descarga estratégica.
+**Un banco de pruebas externo a cualquier estudio concreto mide ese mismo fallo y lo encuentra común.** ImpactBench puntuó diez modelos en 48.540 conversaciones simuladas: su métrica de Asimetría de Descarga Cognitiva promedió el 51,9% y la Intrusión Cognitiva Relacionada con la Planificación el 47,1%. Su caso educativo tiene a Claude Sonnet 5 entregar una tesis, un esquema y un ensayo completo «listo para pegar» en cuanto un estudiante simulado presiona para obtener un borrador terminado, sin dejar por ello de negarse a fabricar citas ([[impactbench-ai-impact-on-humans-2026|ImpactBench (2026)]]). Aprendizaje y Desarrollo de Habilidades fue la más débil de las 14 subáreas en ambas polaridades, con un 45,9% y un 16,3%.
 
 La **dependencia excesiva** es la dependencia excesiva o descalibrada de las herramientas de IA, en la que el estudiantado delega trabajo cognitivo que debería realizar por sí mismo, lo que da lugar a un menor aprendizaje, a una [[agency|agencia]] disminuida y al desplazamiento del desarrollo de habilidades. Es la manifestación conductual de una descarga cognitiva excesiva: cuando descargar se convierte en la opción predeterminada en lugar de una elección estratégica. La dependencia excesiva no consiste simplemente en usar demasiado la IA, sino en usarla de maneras que sustituyen los procesos de aprendizaje en lugar de complementarlos. El trabajo conceptual insiste en mantener esta dependencia excesiva educativa separada del apego relacional y de la dependencia [[medical-education|clínica]]: [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] muestra que la confianza, la dependencia, la dependencia excesiva, el apego y el uso problemático se confunden habitualmente en la literatura sobre IA conversacional, y que la delegación frecuente no debería etiquetarse como dependencia sin un control deteriorado o un daño.
 
@@ -132,6 +137,8 @@ los riesgos más importantes de la IA en la educación:
 - **La secuela no medida: el lavado cognitivo.** [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] nombra la mayor pregunta abierta del campo como la *posterior a la retirada*: casi toda la investigación sobre la descarga mide la cognición durante el uso de la IA, pero casi nada mide qué ocurre después de retirar un asistente durante días o semanas (un examen, una caída del servicio, una revisión de licencia). Formaliza el **lavado cognitivo** con un modelo de curva de lavado (parámetros estimables para la constante de tiempo de recuperación, la completitud de la recuperación, el crecimiento residual y un índice de histéresis que compara el reaprendizaje con el esfuerzo original) y cuatro resultados posibles (rebote elástico, meseta parcial, andamiaje latente, sobrerrecuperación). Como la reversibilidad determina si un déficit inducido es una molestia o una lesión a escala de cohorte, el artículo sostiene que la retirada merece el mismo estatus metodológico que la adopción y especifica un protocolo de tres brazos, tres dominios y veintidós semanas para dirimir entre los resultados. Esto convierte las distinciones anteriores entre «entrenador y muleta» y entre descarga sustitutiva y duplicativa en una agenda de investigación *longitudinal y contrastable* sobre si las habilidades descargadas vuelven y con qué rapidez.
 - **La dependencia sin conocimiento del dominio degenera en conjeturas.** [[ai-particle-physics-education-redesign-2026|Mikhasenko et al. (2026)]], al rediseñar el curso introductorio de [[physics-education|física]] nuclear y de partículas de la Universidad del Ruhr en Bochum, describen un modo de fallo de la dependencia en ausencia de conocimiento del dominio: cuando un estudiante no podía juzgar si una respuesta generada era físicamente sólida, la pretendida «conversación con la IA» degeneraba en conjeturas frente a un resultado verosímil pero poco fiable. La encuesta de mitad de semestre del mismo curso (n=30) encontró un uso frecuente de los LLM (24 de 29 los usaban a menudo o siempre) junto a una baja preparación [[self-report-measures|autodeclarada]] para la fluidez informática que exigían las tareas, y las respuestas abiertas señalaron la dependencia de la IA y el acceso desigual a los modelos de pago entre los puntos de fricción.
 - **La contraargumentación daoísta: descargar no solo es poco práctico, sino que se derrota a sí mismo.** [[daoism-ai-education-philosophy-2026|Xie (2026)]] aporta una contraargumentación normativa contraria a la delegación desde la autopurificación daoísta: en la práctica del Neidan (內丹) «no hay atajos cognitivos», y el practicante no puede externalizar el trabajo en dispositivos externos, así que la IA debería ser «no un sustituto cognitivo, sino un adjunto instrumental», semejante a un horno alquímico, un planteamiento que se alinea con la frontera anterior entre «entrenador y muleta» y no con una descarga sustitutiva.
+
+**Un consenso de 30 personas expertas sitúa el daño en ambos extremos de la secuencia de aprendizaje.** Un ejercicio Delphi —preregistrado— sobre 65 procesos de aprendizaje encontró la adquisición vulnerable (Codificación 3,30, Recuperación 3,30, Adquisición de información 3,00 en la escala de disrupción de 1 a 5), la consolidación potenciada (Aprender de la retroalimentación 4,00, Aprender de ejemplos 3,90, Autoevaluación 3,80) y el pensamiento de orden superior vulnerable de nuevo ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Diez de los dieciocho procesos de orden superior alcanzaron consenso únicamente sobre la vulnerabilidad, con valoraciones de potenciación por debajo del umbral.
 
 ### El marco de la teoría de la carga cognitiva
 
@@ -209,3 +216,6 @@ Dos estudios controlados del lote reciente fijan las dos mitades de esta afirmac
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt reduces acceptance of incorrect AI advice and improves awareness calibration (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI dependence as a boundary condition on critical-thinking disposition and self-perceived employability (Shojaei et al. 2026)
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI and children's creative thinking: over-reliance and prompt dependence in a scoping review (Niu et al. 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 personas expertas sobre 65 procesos de aprendizaje: descarga en ambos extremos de la secuencia de aprendizaje
+- [[rented-self-decoupling-performance-becoming-2026]] — El yo alquilado: la descarga que cuesta el yo disciplinar de quien aprende, no solo la habilidad
+- [[rented-self-decoupling-performance-becoming-2026]] — El yo alquilado: la descarga que cuesta el yo disciplinar de quien aprende, no solo la habilidad

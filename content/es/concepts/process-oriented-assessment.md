@@ -1,7 +1,7 @@
 ---
 title: Evaluación orientada al proceso
 created: "2026-09-28T18:15:49-04:00"
-updated: "2026-10-04T17:15:18-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -17,8 +17,12 @@ ai_assist:
     role: translation
     date: "2026-10-04"
     agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
+    agent: hermes-agent
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-03T13:05:58-04:00"
+source_updated: "2026-10-05T11:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
 
@@ -85,6 +89,7 @@ El relato de Thapa y Lewis es conceptual: sin participantes, sin recogida de dat
 - [[self-regulated-learning]]
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
+
 ## Artículos conectados
 - [[alam-process-oriented-collaborative-essays-2026]] — Un ensayo de proceso calificado y escrito de forma colaborativa en un grado de aprendizaje basado en el trabajo: iteración y colaboración en la rúbrica, con la IA generativa permitida dentro de límites declarados (Alam y Jackson 2026)
 - [[genai-performance-vs-learning]] — el desempeño no es el aprendizaje: una agenda de investigación construida sobre medidas de proceso (Yan et al. 2026)
@@ -98,3 +103,5 @@ El relato de Thapa y Lewis es conceptual: sin participantes, sin recogida de dat
 - [[thapa-lewis-process-oriented-assessment-2026]] — autenticidad epistémica y los cuatro compromisos de diseño detrás de la evaluación orientada al proceso (Thapa y Lewis 2026)
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Evidencia de proceso condicionada por el canal: los registros y el pensamiento en voz alta revelan procesos distintos
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: un entorno de analítica multivista para la escritura integrada con IA
+- [[epistemic-ownership-ai-mediated-education-2026]] — Mismo rendimiento, proceso distinto: propiedad epistémica en la educación mediada por IA
+- [[epistemic-ownership-ai-mediated-education-2026]] — Mismo rendimiento, proceso distinto: propiedad epistémica en la educación mediada por IA

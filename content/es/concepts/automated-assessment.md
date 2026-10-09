@@ -1,7 +1,7 @@
 ---
 title: Evaluación automatizada
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-10-03T00:17:27-04:00"
+updated: "2026-10-09T17:05:00-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -16,8 +16,12 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
+    agent: hermes-agent
 translation_of: concepts/automated-assessment
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-08T09:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
 
@@ -128,6 +132,7 @@ La evaluación automatizada se conecta con la [[assessment-validity|validez de l
 
 - **Alineación con la calificación del docente en función de la calidad (2026):** al comparar a ChatGPT, a los compañeros y a un docente calificando los *mismos* [[group-work|proyectos grupales]] de grado, [[usher-faraon-who-grades-best-2026|Usher y Faraon encontraron]] que la alineación de ChatGPT con el docente *mejoraba a medida que aumentaba la calidad del proyecto*: su mayor sobreestimación se daba en trabajos de baja calidad (≈ +14 puntos), y se reducía a ≈ +2,5 puntos en los proyectos de alta calidad. ChatGPT también calificó en promedio más alto que los compañeros y que el docente, una tendencia a inflar las notas que socava su fiabilidad como calificador sumativo autónomo, especialmente en las entregas más débiles.
 - **Las estadísticas de concordancia con corpus pequeños pueden inducir a error en las decisiones de despliegue.** Puntuar 60 publicaciones de marketing (15 estudiantes más 15 anclas de baja calidad escritas por investigadores) frente a dos evaluadores humanos independientes dio una concordancia absoluta ICC(2,1) de 0,435 para el LLM, 0,266 para un híbrido de reglas y LLM con el mismo peso y 0,091 para reglas deterministas, con un MAE de 6,28, 10,53 y 17,22 puntos respectivamente en una escala de 0-100; el híbrido fue significativamente peor que el LLM solo (diferencia de ICC emparejada −0,169, IC del 95% [−0,260, −0,106]). Añadir anclas elevó la ICC interevaluador de 0,338 a 0,902 y la concordancia del LLM de 0,435 a 0,846, y una publicación casi vacía recibió 75 frente a una media humana de 30,5, lo que muestra que una única respuesta degenerada puede dominar una evaluación pequeña. ([[automated-scoring-marketing-posts-agreement-2026]])
+- **Una calificación estructurada con LLM puede parecer analítica sin ser diagnóstica (2026):** al puntuar 3.041 respuestas a 50 preguntas de informática, tres LLM comerciales produjeron subdimensiones de rúbrica casi redundantes (r = 0,82–0,99, VIF de hasta 45) y nombraron ideas erróneas solo en el 4,8–7,4% de los comentarios, frente al 15,0% del profesorado ([[llm-structured-assessment-diagnostic-quality-2026|Zhao et al., 2026]]).
 
 ## Conceptos conectados
 
@@ -195,3 +200,4 @@ La evaluación automatizada se conecta con la [[assessment-validity|validez de l
 - [[ai-marking-accuracy-gcse-physics-2026]] — Calificación con IA comparada con las notas del organismo examinador y el juicio del profesorado en física de GCSE
 
 - [[llm-grading-assistants-public-health-2026]] — El modo de razonamiento elevó la concordancia entre la calificación humana y la del LLM de una kappa ponderada de 0,269 a 0,718
+- [[llm-structured-assessment-diagnostic-quality-2026]] — Las subdimensiones de rúbrica del LLM son casi redundantes y la retroalimentación rara vez nombra ideas erróneas (Zhao et al. 2026)

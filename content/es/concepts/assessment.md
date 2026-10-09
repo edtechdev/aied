@@ -1,7 +1,7 @@
 ---
 title: Evaluación
 created: "2026-09-25T03:53:48-04:00"
-updated: "2026-10-03T02:52:14-04:00"
+updated: "2026-10-09T17:05:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -12,7 +12,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-09T08:42:20-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [idstack, lesson-md, master-instructional-design]
 contributors: [editor]
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -84,6 +88,7 @@ La pregunta constructiva en la literatura sobre evaluación de esta base de cono
 - **Evaluar el proceso de interacción, y no solo el artefacto:** el [[assessing-student-drive-framework-2025|marco DRIVE]] (Directive Reasoning Interaction + Visible Expertise) trata la calidad de la *implicación del estudiantado con la IA generativa* como el constructo evaluado. Distingue el consumo superficial de la interacción profunda y reflexiva fijándose en si el estudiantado dirige las indicaciones de forma estratégica (DRI) e integra y desarrolla sus propias ideas disciplinares a través del intercambio (VE), y ancla los criterios centrados en el proceso en teorías del [[self-directed-learning|aprendizaje autodirigido]] y de la implicación cognitiva en la línea de la jerarquía [[icap-framework|ICAP]]. Esto convierte DRIVE en un ejemplo de *evaluación auténtica mediada por IA*: una rúbrica para valorar cómo se asocia quien aprende con la IA generativa, y no una herramienta de detección.
 
 Una propuesta de esta literatura va más allá del rediseño dentro del marco actual. [[ai-agents-joyful-assessment-third-space-2026|El Khoury y Ma (2026)]] sostienen que una reforma organizada en torno a prevenir la conducta indebida o detectar el uso de IA reduce la imaginación educativa al control y el cumplimiento, y proponen en su lugar la **evaluación gozosa**: una evaluación segura, emocionalmente receptiva, empoderadora y favorable a la [[agency|agencia del estudiantado]], con la seguridad como condición que lo sostiene todo, porque sin ella la sintonía emocional se vuelve actuación, el empoderamiento se vuelve presión y la agencia se vuelve riesgo. Su marco invierte la agenda de la detección (la integridad pasa a ser una consecuencia de diseñar evaluaciones en las que el estudiantado quiera participar, y no su punto de partida) y sitúa los [[agentic-ai|agentes de IA]] construidos por el profesorado (GPT personalizados, Gems, agentes de Copilot Studio) como un espacio de ensayo de bajo riesgo donde el estudiantado practica antes del juicio, con la afirmación de que la IA organiza la evidencia mientras quien enseña la interpreta.
+- **Una evaluación que va más allá del modo lingüístico:** Jiang et al. (2026) definen la alfabetización en evaluación multimodal para el profesorado de segundas lenguas como conocimiento, valor y competencia para tareas que suscitan respuestas en modos lingüístico, visual, auditivo, gestual y espacial. Un programa de un año con 30 docentes de inglés de Hong Kong elevó el conocimiento de estrategias de evaluación de 3,13 a 4,15 sobre 5 (η² parcial = 0,571) y la competencia de apoyo al estudiantado de 3,05 a 3,98 (0,482), mientras los tres subdominios de valor se mantuvieron planos. La propia experiencia del profesorado añadió dos dimensiones al marco: sostener la práctica frente a prioridades curriculares competitivas, y movilizar la IA generativa de forma crítica ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al. (2026)]]).
 
 ## Implicaciones para la IA en la educación
 
@@ -94,6 +99,7 @@ Una propuesta de esta literatura va más allá del rediseño dentro del marco ac
 - **Las prácticas innovadoras pueden abordar varios problemas a la vez.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais y Galy (2026)]] sostienen que un conjunto de cinco prácticas que se refuerzan entre sí (la [[authentic-assessment|evaluación auténtica]], la autoevaluación y la [[peer-assessment|evaluación entre pares]], la reevaluación, la [[mastery-learning|calificación basada en estándares]] y el ungrading, es decir, la evaluación sin calificaciones) alineadas con el paradigma de la «evaluación para el aprendizaje» pueden contrarrestar los daños de la calificación tradicional, con mucho peso sumativo y referida a normas (aprendizaje superficial, [[motivation|motivación intrínseca]] erosionada, estrés y ansiedad, inequidad e [[academic-integrity|integridad]] comprometida) en la era de la IA generativa. Encuentran que la adopción es desigual entre campos (dominan la autoevaluación y la evaluación entre pares, mientras que las innovaciones centradas en la calificación siguen siendo marginales) e instan al profesorado a implicarse de forma más activa y recíproca con la innovación en evaluación y calificación, respaldado por la experimentación incremental y el apoyo [[governance|institucional]].
 
 - **La evaluación mediada por IA se está diversificando.** [[aivaluate-anxiety-assessment-2026|AIvaluate]] muestra que un [[conversational-ai|agente conversacional]] aumentado con LLM redujo la ansiedad del estudiantado durante evaluaciones basadas en el desempeño; [[asynchronous-oral-assessment-2026|Pentland (2026)]] encuentra que las evaluaciones orales asíncronas ofrecieron una mayor implicación y se percibieron como profesionalmente pertinentes; [[graph-its-adaptive-algorithms-2026|los ITS basados en grafos]] usan un seguimiento adaptativo del estado de conocimiento para informar la evaluación.
+
 ## Conceptos conectados
 - [[learners]] — El estudiantado: el paraguas de los conceptos del lado de quien aprende
 - [[pedagogical-partnerships]] — Alianzas pedagógicas
@@ -117,6 +123,7 @@ Una propuesta de esta literatura va más allá del rediseño dentro del marco ac
 - [[eportfolio]] — Evaluación por portafolio electrónico basada en procesos
 - [[speech-and-voice-technologies]]
 - [[peer-assessment]]
+
 ## Artículos conectados
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agentes de IA, evaluación gozosa y tercer espacio
 - [[mccorkle-aligned-genai-course-policy-2025]] — Permisos de IA a nivel de tarea derivados de lo que se evalúa (McCorkle 2025)
@@ -141,3 +148,4 @@ Una propuesta de esta literatura va más allá del rediseño dentro del marco ac
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus deberes. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en informática en la era de la IA generativa
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Un programa de un año que define la alfabetización en evaluación multimodal y mide qué se movió y qué no

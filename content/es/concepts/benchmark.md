@@ -1,7 +1,7 @@
 ---
 title: Punto de referencia
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-04T17:09:45-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-04T05:15:29-04:00"
+source_updated: "2026-10-09T09:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -81,6 +85,7 @@ Los puntos de referencia se conectan con la [[ai-ed-evaluation|evaluación de la
 - **Restringir el corpus para hacer atribuible la afirmación de capacidad.** [[li-littlelearner-pedagogically-controlled-knowledge-exposure-2026|Li et al. (2026)]] filtran FineWeb-Edu a 88B tokens de material estadounidense de K–5 y entrenan desde cero un modelo de 5B con él, y después comprueban la costura mediante sondas conductuales y no puntuaciones —retención casi nula en pasajes de Más allá de K–5, colapso en ítems Jeopardy de Más allá de K–5, y menos de la mitad de problemas de MathCAMPS de 8.º grado resueltos incluso con pass@1024. Como la exposición previa es conocida, una capacidad que aparece tras el escalado, el postentrenamiento o los ejemplos en contexto puede atribuirse a la intervención; los autores también informan de que la frontera no tiene forma humana, ya que el modelo a veces supera una habilidad descendente mientras falla su prerrequisito.
 - **La regla de puntuación forma parte del instrumento.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ejecuta cuatro reglas de actualización del seguimiento del conocimiento sobre las mismas secuencias de eventos de ASSISTments 2012–13, que difieren solo en cómo puntúan las filas con ayuda, y preregistra las comparaciones tras una barrera que retiene la mitad confirmatoria del estudiantado hasta que el archivo de registro está presente. Acreditar cualquier finalización apenas supera una constante de dificultad de habilidad (AUC agrupada 0,604 frente a 0,595 en 985.813 eventos puntuados) y declara dominados el 93,9 por ciento de los pares estudiante–habilidad frente al 72,8 por ciento con una regla que lee las filas asistidas como primeros intentos fallidos (0,658) —la lección general es que una etiqueta de dominio la define la regla de evidencia, no el registro.
 - **Informar de la capacidad del modelo como un nivel calibrado, y no solo como exactitud.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] asignan 624 ítems anotados por personas expertas a niveles de competencia con nombre propio usando 2.050 respuestas de estudiantes, y encuentran que los modelos de frontera superan el techo calibrado: un límite que un porcentaje oculta.
+- **Una regla de puntuación puede ser burlada por el modelo al que entrena.** Una métrica de adaptabilidad que se maximiza repitiendo una única mejor decisión muestra que el diseño de benchmarks debería publicar el argmax, puntuar la adaptación como una diferencia e informar de líneas base por encima del azar ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo y Fernández De la Cruz, 2026]]).
 
 ## Conceptos conectados
 
@@ -114,3 +119,4 @@ Los puntos de referencia se conectan con la [[ai-ed-evaluation|evaluación de la
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: la tutoría con IA y la humana producen ganancias de aprendizaje equivalentes para el GRE
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluación de modelos preentrenados para la valoración pedagógica de nuevas preguntas educativas asistidas por IA
 - [[llm-benchmark-secondary-science-topics-2026]] — Un punto de referencia para la comprensión de temas de ciencias de secundaria por parte de los LLM
+- [[llm-tutor-pedagogical-metric-degradation-2026]] — Ocho principios de diseño para benchmarks de tutores de IA, derivados de una métrica que fue optimizada hasta la repetición (Domínguez Figaredo y Fernández De la Cruz 2026)

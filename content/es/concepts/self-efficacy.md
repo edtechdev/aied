@@ -1,7 +1,7 @@
 ---
 title: Autoeficacia
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-10-02T21:38:46-04:00"
+updated: "2026-10-09T17:05:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -10,13 +10,17 @@ connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-efficacy
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-05T10:26:12-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -63,6 +67,7 @@ La autoeficacia conecta con la [[motivation|motivación]], el [[self-regulated-l
 - **Sin efecto de tratamiento en un ECA de un semestre: la confianza subió con el tiempo de curso:** en el experimento de campo aleatorizado de [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni y Fryer (2026)]] con 454 estudiantes de grado en un curso de Principios de Marketing, la autoeficacia subió a lo largo del semestre para todo el estudiantado (efecto del tiempo β = 0,099, p = 0,0009, ƒ2 de Cohen = 0,025), mientras que ni el efecto de grupo (p = 0,1162) ni la interacción grupo × tiempo (p = 0,5306, d = 0,023) fueron significativos, así que el chatbot con RAG no aportó nada. Las ganancias de confianza en cursos apoyados por IA pueden seguir la progresión del curso y no la herramienta, un riesgo de atribución para un constructo que el campo mide casi por completo mediante [[self-report-measures|autoinformes]].
 - **La confianza puede moverse al contrario que la conducta.** En programación competitiva, el estudiantado que dejó de competir declaró una confianza teórica *mayor* que sus pares activos pero mostró hábitos de resolución posterior y de círculos de pares significativamente más débiles (p < .001), así que una señal de autoeficacia por sí sola llevará a engaño a un sistema de alerta temprana ([[predicting-attrition-competitive-programming|Ruhan et al. (2026)]]).
 - **La confianza puede subir mientras la capacidad que hay detrás decae.** Entre estudiantes universitarios, el uso frecuente de IA generativa elevó la confianza y la eficiencia percibidas *y* aumentó la dependencia tecnológica en los mismos estudiantes, así que una puntuación de autoeficacia tomada durante el trabajo asistido por IA puede leerse alta justo cuando la habilidad subyacente se está erosionando ([[genai-performance-vs-learning|Yan et al., 2025]]).
+- **El uso de la IA fue de la mano de la confianza, pero la confianza no predijo la asistencia.** En una encuesta PLS-SEM con 291 estudiantes portugueses, el uso general de la IA se asoció positivamente con la autoeficacia para el aprendizaje independiente (β = 0,266, f² = 0,106). El constructo se modeló como compuesto formativo de segundo orden de las cuatro fuentes de Bandura —experiencia de dominio, experiencia vicaria, persuasión verbal y estado emocional—. La autoeficacia a su vez no predijo el absentismo (β = −0,068, p = 0,276), aunque el uso de la IA se asociara por separado con mayor absentismo (β = 0,148, f² = 0,029). La vía uso de la IA → autoeficacia fue significativamente más fuerte entre los hombres que entre las mujeres (β = 0,449 frente a 0,159; Δβ = −0,289, p = 0,013), bajo invarianza de medición parcial ([[confident-but-absent-ai-use-absenteeism-2026|Franco et al. (2026)]]).
 
 ## Conceptos conectados
 
@@ -100,3 +105,4 @@ La autoeficacia conecta con la [[motivation|motivación]], el [[self-regulated-l
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — La autoeficacia al hablar invierte la vía de la ansiedad entre la práctica asistida por IA y la disposición
 - [[faculty-ai-well-being-social-supports-2026]] — SEM en profesorado universitario: la autoeficacia tecnológica es un predictor débil del bienestar con IA
+- [[confident-but-absent-ai-use-absenteeism-2026]] — El uso general de la IA fue de la mano de mayor autoeficacia y mayor absentismo, pero la autoeficacia no predijo la asistencia (Franco et al. 2026)

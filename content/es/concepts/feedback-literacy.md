@@ -1,7 +1,7 @@
 ---
 title: Alfabetización en retroalimentación
 created: "2026-09-28T19:12:31-04:00"
-updated: "2026-10-03T00:17:27-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,13 +10,17 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-08T09:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -79,6 +83,8 @@ La IA cambia la retroalimentación en dos direcciones que elevan a la vez lo que
 
 La alfabetización en retroalimentación se conecta con la [[ai-feedback-quality|calidad de la retroalimentación con IA]] y el [[feedback|bucle de retroalimentación]] (el lado de la provisión que complementa), con la [[formative-assessment|evaluación formativa]] (el ciclo de evaluación al que alimenta) y con el [[self-regulated-learning|aprendizaje autorregulado]] (la [[self-assessment|autoevaluación]] y la adaptación que sostiene). Es un subconjunto de la [[ai-literacy|alfabetización en IA]] cuando se aplica a la retroalimentación generada por IA, se cruza con la [[peer-assessment|evaluación entre pares]] en contextos colaborativos y resulta especialmente consecuente para la [[writing-education|enseñanza de la escritura]]. También se conecta con la [[metacognition|metacognición]] y la [[trust-calibration|calibración de la confianza]], la capacidad de juzgar si una retroalimentación es digna de confianza.
 
+Actuar sobre la retroalimentación no es lo mismo que mejorar el artefacto. Entre 22 docentes de matemáticas en formación, la aceptación selectiva de la retroalimentación de la IA y de los pares fue la norma (32 de 44 episodios), pero solo cinco mejoraron la calidad de sus tareas diseñadas: una brecha de traducción que los autores atribuyen al juicio evaluativo más que a la adopción ([[ai-peer-feedback-stem-teacher-education-2026|Oh, 2026]]).
+
 ## Conceptos conectados
 
 - [[pedagogical-patterns]] — Los pasos de valoración crítica que estas secuencias incorporan al flujo de trabajo
@@ -119,3 +125,4 @@ La alfabetización en retroalimentación se conecta con la [[ai-feedback-quality
 - [[student-perspectives-ai-writing-grading-2026]] — ¿Quién debería calificar mi trabajo? Perspectivas del estudiantado sobre la evaluación transparente de la escritura asistida por IA en la educación superior
 
 - [[genai-use-critical-thinking-moderation-2026]] — El uso de IA generativa condujo al pensamiento crítico a través de la alfabetización en retroalimentación con IA generativa, fortaleciéndose con el pensamiento reflexivo
+- [[ai-peer-feedback-stem-teacher-education-2026]] — Adopción selectiva sin mejora del artefacto: la brecha de traducción de la retroalimentación (Oh 2026)

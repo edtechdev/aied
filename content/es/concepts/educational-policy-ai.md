@@ -1,7 +1,7 @@
 ---
 title: Política educativa sobre IA
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-10-04T17:13:09-04:00"
+updated: "2026-10-09T17:05:00-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,13 +12,17 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-10-04T02:59:54-04:00"
+source_updated: "2026-10-09T09:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -79,6 +83,9 @@ Una revisión sistemática del Reino Unido añade una capa sectorial a la misma 
 **Una matriz de valores y normas como base de política.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], una [[meta-analysis-systematic-review|revisión sistemática]] de 25 artículos, consolidan la ética de la AIED en seis [[ethics|valores éticos]] principales (no discriminación, custodia de datos, [[human-in-the-loop-ai|supervisión humana]], buena voluntad, explicabilidad e idoneidad educativa) y mapean las normas éticas extraídas de la literatura sobre una matriz de actores por valores. La revisión sitúa la matriz como base para construir marcos éticos detallados y regulación para la AIED, dando a las instituciones educativas, a los desarrolladores y a los reguladores normas concretas para implementar valores específicos. Encuentra que las normas de buena voluntad dirigidas a los reguladores son mucho más numerosas (nueve) que para cualquier otro conjunto de actores, lo que señala el papel de los reguladores a la hora de garantizar que la AIED beneficie a quienes aprenden mediante políticas y legislación: un punto de partida concreto y anclado en valores para la maquinaria de política y gobernanza que describe esta página.
 
 **Afirmaciones que viajan más lejos que sus matices.** Un anuncio piloto es también un instrumento de política, y sus estándares de comunicación forman parte de la política. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et al. (2026)]] analizan el episodio de El Salvador de septiembre de 2026, en el que un piloto de tutoría con IA en 171 escuelas públicas se presentó como con resultados comparables a los de Alemania y Suecia: frente al promedio alemán de [[math-education|matemáticas]] en PISA 2022, el 5,5% superior de la distribución nacional de rendimiento habría igualado la referencia sin ninguna ganancia de aprendizaje, y la evaluación del piloto cubrió 7,0 estudiantes por escuela frente a 25,4 en la encuesta nacional del mismo año, por lo que la evidencia publicada no puede excluir la selección como explicación. Su propuesta es un estándar de comunicación de seis puntos —la línea base de las escuelas participantes; el protocolo de muestreo (estudiantes elegibles, estudiantes evaluados, regla de identificación, tasa de participación); las puntuaciones desagregadas con errores estándar; la fecha operativa de cada componente de la reforma; la superposición con la muestra nacional representativa; y el matiz enunciado en el mismo documento, publicación o párrafo que la afirmación—, motivada por la aritmética de divulgación del propio anuncio: la publicación del Banco Mundial que llevaba la afirmación registró unas 441.000 visualizaciones frente a unas 11.000 de la publicación que llevaba el matiz cuatro posiciones más adelante en el mismo hilo. La lección de política es que, cuando un sistema usa resultados a nivel de escuela como evidencia sobre sí mismo, el formato de la divulgación decide qué afirmación se convierte en el hecho público.
+- **El lado del estudiantado en la regulación por tareas.** Con dos de las tres evaluaciones bajo un nivel idéntico de uso abierto, el formato de la evaluación siguió decidiendo para qué usaba el estudiantado la IA generativa: los usos de retroalimentación pasaron del 0% en una presentación andamiada al 66,7% en un examen para llevar a casa ([[genai-use-changing-institutional-policy-physics-2026|Quince y Faulconer (2026)]]).
+
+Un análisis a nivel de país de PISA 2022-2025 encontró que los países con mayor uso de IA generativa mostraban mayores declives en lectura y matemáticas, una asociación que desaparecía una vez controlado el rendimiento previo ([[genai-pisa-decline-countries-2026|Guerra y Aslanov, 2026)]). Los autores lo interpretan como una advertencia de que un acceso más amplio a los chatbots no debe tratarse como un beneficio en sí mismo, y piden despliegues acompañados de evaluación longitudinal.
 
 ### Política frente a gobernanza
 
@@ -149,3 +156,5 @@ Una [[meta-analysis-systematic-review|revisión sistemática]] de 65 artículos 
 - [[li-genai-assessment-language-equity-2026]] — Una frontera entre apoyo y sustitución basada en la finalidad, con declaración calibrada y rúbricas de decisión (Li, 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Inyección de prompts en la calificación mediada por IA: notas cambiadas sin ser detectadas y la respuesta a nivel de política (Humble, 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — 130 indicadores de gobernanza para autenticar la evaluación, y la presión externa que necesita la reforma (Coates, Croucher y Calderon, 2025)
+- [[genai-use-changing-institutional-policy-physics-2026]] — Nivel de política frente a diseño de tarea: para qué usó el estudiantado la IA generativa en tres evaluaciones de física (Quince y Faulconer 2026)
+- [[genai-pisa-decline-countries-2026]] — Un mayor uso a nivel de país de IA generativa acompañó a declives mayores en PISA 2022-2025, una correlación que se desvaneció al controlar el rendimiento previo (Guerra y Aslanov 2026)

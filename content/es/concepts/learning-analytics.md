@@ -1,7 +1,7 @@
 ---
 title: Analítica del aprendizaje
 created: "2026-09-25T04:30:56-04:00"
-updated: "2026-10-03T01:40:50-04:00"
+updated: "2026-10-09T17:05:00-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -12,13 +12,17 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-07T09:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -60,6 +64,8 @@ La analítica del aprendizaje se enmarca canónicamente como un ciclo que comien
 A un cuadro de mando dirigido al estudiantado solo le sirve su alcance: en un estudio de escritura de grado 9 en Hong Kong un clasificador de prompts alcanzó un F1 macro de 0,757, alrededor de un tercio de los 46 estudiantes abrió los tres cuadros de mando de uso de IA generativa y las diferencias de grupo en copia y en prompts orientados al aprendizaje no fueron fiables ([[learning-analytics-genai-secondary-writing-2026|Fong et al. (2026)]]).
 
 Una codificación de frecuencias de datos cualitativos es un punto de entrada, no un veredicto: en un estudio con diez participantes, algunos docentes leyeron las codificaciones de frecuencia como una vía productiva de acceso mientras que otros advirtieron que ocultan respuestas raras pero críticas, así que el diseño mantiene cada vista agregada enlazada con el texto literal del estudiantado ([[wordstream-glass-learning-analytics|Nguyen et al. (2026)]]).
+
+La analítica del aprendizaje se enmarca canónicamente como un ciclo que comienza con la actividad de quien aprende produciendo datos, que se procesan en medidas e indicadores que luego se traducen en **intervenciones**, y la intervención retroalimenta la actividad de quien aprende para cerrar el bucle. El paso de la intervención es lo que distingue la analítica del mero seguimiento o predicción: sin él, la analítica describe y señala pero nunca cambia el aprendizaje. Este ciclo es el marco organizador para entender dónde se sitúan las herramientas de IA (cuadros de mando, generadores de retroalimentación, recomendadores prescriptivos) en el flujo de trabajo y qué paso automatizan.
 
 ### De la descripción a la intervención
 
@@ -153,3 +159,5 @@ El instrumental a nivel de proceso es el siguiente escalón hacia abajo de la ca
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk from early-semester LMS traces (AUC 0.763)
+- [[factria-responsible-institutional-analytics-2026]] — Analítica institucional responsable: interpretar el sesgo con apoyo de la IA
+- [[factria-responsible-institutional-analytics-2026]] — Analítica institucional responsable: interpretar el sesgo con apoyo de la IA

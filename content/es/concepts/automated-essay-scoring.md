@@ -1,7 +1,7 @@
 ---
 title: Evaluación automatizada de ensayos
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-10-02T22:23:27-04:00"
+updated: "2026-10-09T17:55:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,7 +10,7 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-10-02T07:37:41-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

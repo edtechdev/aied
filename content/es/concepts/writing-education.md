@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Escritura
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-02T21:24:18-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -12,13 +12,17 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
-source_updated: "2026-10-02T12:40:11-04:00"
+source_updated: "2026-10-06T02:05:50-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -79,6 +83,8 @@ Como la escritura es un proceso cognitivo, la investigación sobre IA y escritur
 Un patrón específico de cada dimensión se repite en esta literatura, y es un diagnóstico útil. En el programa de escritura en L2 de primaria, la [[student-engagement|implicación]] emocional y conductual aumentó mientras que la cognitiva y la metacognitiva no lo hicieron, y los autores señalan la disminución del automonitoreo durante la escritura como un riesgo explícito del apoyo con IA generativa ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]). El disfrute y la actividad centrada en la tarea no son, por tanto, evidencia de que esté ocurriendo un procesamiento más profundo: la misma distinción que traza la investigación sobre la descarga cuando pregunta qué capa del trabajo cognitivo ha delegado un estudiante.
 
 Un [[meta-analysis-systematic-review|metaanálisis]] de 2026 ([[genai-writing-performance-meta-analysis-2026|Teng, 2026]]) de 11 efectos a nivel de estudio extraídos de 31 estudios refuerza el diagnóstico desde la dirección opuesta. Informa de una ventaja media grande para la enseñanza de la escritura apoyada por IA generativa (g = 0,80), pero con una heterogeneidad lo bastante alta como para que una nueva implementación pudiera plausiblemente no mostrar ningún beneficio, y el único moderador robusto fue la clasificación del riesgo de sesgo y no ningún rasgo pedagógico: la calidad del estudio, y no el diseño didáctico, explicaba la mayor parte de la varianza. La misma síntesis encuentra que la IA generativa es consistentemente más fuerte en los rasgos de orden inferior (gramática, diversidad léxica, fluidez de la frase), mientras que los efectos de orden superior sobre la argumentación y la coherencia siguen siendo inconsistentes, que es precisamente la brecha de capas que esta página trata como el problema central de diseño.
+
+Una validación de dos olas con estudiantes chinos de inglés como lengua extranjera (EFA N = 305; CFA N = 342) separa seis dimensiones regulatorias y añade la *regulación ambiental* —comprobar el contenido generado, filtrar los recursos sugeridos y limitar la dependencia—, una faceta que las escalas existentes de escritura en L2 no incluían ([[genai-srl-l2-writing-scale-2026|Wang, Zhang y Zhang (2026)]]).
 
 ### Diseñar el apoyo de la IA a la escritura: acompañar, no redactar
 
@@ -172,3 +178,4 @@ La educación de la escritura se conecta con la [[automated-essay-scoring|evalua
 - [[human-ai-collaboration-academic-writing-2026]] — Colaboración estructurada humano-IA en la escritura académica y el pensamiento crítico digital (Alshehri et al. 2026)
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Las revisiones humanas y con IA del mismo borrador adoptan posturas dialógicas distintas: la retroalimentación entre pares cierra el espacio dialógico, la revisión con IA lo mantiene equilibrado (Zhao y Ji 2026)
 - [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock: condicionar la salida de la IA a una implicación previa redistribuyó el esfuerzo hacia la escritura sin coste de tiempo ni de exactitud (N = 398)
+- [[genai-srl-l2-writing-scale-2026]] — Una escala de AAR con IA generativa en seis dimensiones para la escritura en L2, con la regulación ambiental (gobernanza de la herramienta) como dimensión distintiva

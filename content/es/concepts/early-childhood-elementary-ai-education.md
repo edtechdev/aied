@@ -1,7 +1,7 @@
 ---
 title: Educación infantil y primaria
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-09-28T20:10:03-04:00"
+updated: "2026-10-09T17:55:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
@@ -9,13 +9,17 @@ connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-09-17T09:40:00-04:00"
+source_updated: "2026-10-07T09:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -57,6 +61,8 @@ Los niños y las niñas pequeños interactúan con la IA cada vez más temprano 
 - **Alfabetización mediática crítica apoyada por IA en los años de primaria.** Demir y Akar (2026) evalúan un programa de alfabetización mediática crítica de 18 horas y modelo 5E para estudiantes de cuarto curso de una escuela pública de primaria turca, que integra la [[generative-ai|IA generativa]] (ChatGPT, Grammarly, Canva AI, Padlet) fase por fase como agente pedagógico en lugar de como complemento aislado, con actividades alineadas con los currículos turcos de Lengua y Ciencias Sociales. El grupo apoyado por IA mostró grandes mejoras en lectura de medios (+3,50), escritura (+1,67) y alfabetización mediática total (+5,17; en todos los casos p < .01), con tamaños del efecto entre grupos de *d* de Cohen = 1,12–1,31, mientras que el grupo de control avanzó solo de forma modesta. El análisis [[qualitative-research|cualitativo]] de entrevistas, producciones del estudiantado (carteles, dibujos, eslóganes) y observación de aula reveló seis ámbitos de crecimiento en alfabetización mediática crítica —autoprotección digital y [[privacy|privacidad de los datos]], uso intencionado y responsable de los medios, comunicación segura y conciencia de límites, evaluación crítica y conciencia de la desinformación, conciencia de los riesgos en línea y [[ethics|ética]] mediática y ciudadanía digital—, y ofrece un modelo cuasiexperimental poco frecuente y alineado con el currículo de cómo la IA puede apoyar la [[ai-literacy|alfabetización en IA]] crítica y el [[critical-thinking|pensamiento crítico]] en los cursos de primaria.
 
 - **Observación de la calidad de la interacción docente-niño puntuada por IA.** [[ai-rated-classroom-observation-scores-2026|Fong et al. (2026)]] comparan un [[llm|LLM]] con evaluadores humanos entrenados en el marco completo CLASS Pre-K en jardines de infancia de Hong Kong: 87 observaciones grabadas en vídeo de 38 aulas de 30 jardines de infancia, puntuadas a partir de transcripciones por GPT-5.0 y comparadas con ocho evaluadores entrenados. La concordancia fue moderada en general (κ ponderada = 0,681) pero dependía del constructo: la convergencia se mantuvo en el dominio de Apoyo emocional y en la Calidad de la retroalimentación —la dimensión que sostiene el apoyo verbal explícito y basado en el intercambio—, mientras que la Organización del aula divergió por completo y los evaluadores puntuaron las dimensiones emocionales más alto que el modelo, con una diferencia muy grande en la dimensión de Clima negativo, de puntuación inversa (d = 2,732; los evaluadores dieron el máximo de 7 en 63 de 71 observaciones y la IA se agrupó en 6). La lección para la primera infancia es específica del desarrollo: la calidad que vive en la conducta no verbal, espacial y rutinaria —gestión, movimiento, calidez, tono— es invisible para un proceso que solo usa transcripciones, la dirección del error del modelo depende del constructo en lugar de ser uniformemente conservadora, y por eso los autores sitúan la [[automated-assessment|evaluación con IA]] como herramienta de cribado y reflexión para el [[teacher-role|profesorado]] y no como sustituto de observadores entrenados.
+- **Futuro profesorado diseñando actividades de ciencias.** [[preservice-early-childhood-genai-magnetism-2026|Efthimiou y Plakitsi (2026)]] pidieron a 131 futuros docentes de educación infantil que diseñaran actividades de magnetismo con LLM: valoraron la estructura y la eficiencia de los modelos como lo más alto (M = 3,95) pero la fiabilidad epistémica de su contenido como lo más bajo (M = 3,08), tratándolos como artefactos de lluvia de ideas y manteniendo la transformación didáctica como responsabilidad humana.
+- **La IA aproximándose a los juicios de desarrollo sobre los cuentos infantiles.** CLARA, de [[clara-developmental-appropriateness-children-stories-2026|Yin et al. (2026)]], anota las demandas cognitivas, lingüísticas y socioemocionales de un cuento y coincide con las referencias de edad de las editoriales el 0,904 de las veces, por delante de las fórmulas de legibilidad (0,603) y de la indicación directa (0,730); se ofrece como señal de apoyo y no como sustituto de una persona que juzgue.
 
 ### Consideraciones de desarrollo y equidad
 
@@ -99,3 +105,5 @@ Como quienes aprenden a edades tempranas son más vulnerables y menos capaces de
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[creative-project-approach-ai-early-childhood-2025]] — El enfoque de proyecto creativo: un marco para adaptar agentes de IA y robótica al aprendizaje temprano (Yang, Li y Lee 2025)
 - [[ai-rated-classroom-observation-scores-2026]] — ¿Escribo yo o escribe la IA?: puntuaciones CLASS Pre-K evaluadas por IA frente a evaluadores humanos entrenados en jardines de infancia de Hong Kong (Fong et al. 2026)
+- [[clara-developmental-appropriateness-children-stories-2026]] — Un sistema de IA que aproxima los juicios de desarrollo sobre cuentos infantiles (Yin et al. 2026)
+- [[preservice-early-childhood-genai-magnetism-2026]] — Futuro profesorado de educación infantil diseñando actividades de ciencias con LLM (Efthimiou y Plakitsi 2026)

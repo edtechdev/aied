@@ -1,7 +1,7 @@
 ---
 title: Medición educativa
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -9,13 +9,17 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-06T02:05:50-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -92,6 +96,8 @@ La evidencia de la base de conocimiento muestra repetidamente que **cómo** se m
 
 Una valoración de 2026 de 33 instrumentos de alfabetización en IA del profesorado muestra dónde está maduro el desarrollo de instrumentos y dónde no. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore y Maat (2026)]] calificaron los instrumentos contra una matriz de decisión adaptada de COSMIN y de Terwee et al. (2007) y encontraron que la consistencia interna era el dominio más fuerte (28 de 33 con grado A, 84,8 %) y la equidad el más débil, con solo cinco instrumentos (15,2 %) que informaban de evidencia de invarianza de medición o de funcionamiento diferencial del ítem. La validez estructural era sólida, con 24 instrumentos (72,7 %) en grado A mediante CFA, PLS-SEM o modelado TRI, pero la validez de contenido se apoyaba sobre todo en la revisión cualitativa, con 21 instrumentos (63,6 %) en grado B por carecer de estadísticos cuantitativos de acuerdo entre expertos.
 
+La selección automatizada de ítems puede acortar un instrumento sin remodelarlo: la optimización por colonias de hormigas sobre una muestra fusionada de dos olas (N = 305 y 342) arrojó una forma corta de 12 ítems que correlaciona r = 0,910–0,944 con la escala completa en cada dimensión, aunque dos ítems por dimensión cubren un rango de contenido más estrecho ([[genai-srl-l2-writing-scale-2026|Wang, Zhang y Zhang (2026)]]).
+
 ## Problemas y limitaciones: qué puede dejar pasar o hacer mal la medición
 
 La medición educativa es potente pero falible. Entender sus modos de fallo es esencial para leer críticamente la evidencia sobre IA en la educación, y para reconocer dónde una aparente ganancia de aprendizaje o una afirmación sobre un constructo puede ser un artefacto de la medición y no un efecto real.
@@ -140,6 +146,7 @@ La medición educativa es el fundamento de la [[item-response-theory|teoría de 
 - [[self-report-measures]]
 - [[motivation]]
 - [[student-engagement]]
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
 
 ## Artículos conectados
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Un marco con intervención humana para la puntuación asistida por IA en la evaluación de escritura a gran escala
@@ -179,3 +186,4 @@ La medición educativa es el fundamento de la [[item-response-theory|teoría de 
 - [[synthetic-educational-data-structural-fidelity-2026]] — Lo que las métricas de fidelidad dejan pasar: una comprobación estructural de los datos educativos sintéticos
 
 - [[ai-empathy-scale-psychometric-evaluation-2026]] — Una escala de empatía de IA de 42 ítems cuyos seis factores no recuperaron los seis subfactores previstos
+- [[genai-srl-l2-writing-scale-2026]] — Una escala de AAR con IA generativa en seis dimensiones para la escritura en L2; la forma corta de 12 ítems optimizada por colonias de hormigas sigue a la escala completa (r = 0,910–0,944) pero estrecha la cobertura de contenido
