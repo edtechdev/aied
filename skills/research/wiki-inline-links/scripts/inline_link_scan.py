@@ -352,6 +352,9 @@ AUTO_APPLY_DENYLIST = {
 REJECTED_HITS = []  # populated during a scan; reported so suppressed matches stay visible
 
 REJECT_PAIRS = {
+    # --- 2026-10-08, benchmark and detector papers ---
+    ('evaluating AI', 'ai-ed-evaluation'),      # instructors evaluating a tool, not the research practice
+    ('ethics statement', 'ethics'),             # a paper's compliance section, not the ethics concept
     # --- 2026-10-08, self-study competence paper: competence is measured separately ---
     ('AI competence', 'ai-literacy'),   # the study's own construct (AIFK + TDIU), not the literacy umbrella
     ('AI competencies', 'ai-literacy'),

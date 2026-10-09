@@ -4099,3 +4099,50 @@
   - self-report-measures
   - trust-calibration
   reason: ''Three candidates qualified (anxiety-and-stress, ethics, ai-literacy); the other 11 are recorded with the reason each was rejected. equity-in-ai-education was the closest call and is named above: the study''s setting is resource-constrained and it argues the remedy fits the setting, but the page''s subject is access and distribution, and the finding is about a mechanism inside learners rather than about who gets what. trust-calibration already carries transparency as a dimension of trusting AI appropriately, and the ANN''s ranking adds a measurement rather than a mechanism. self-efficacy, motivation and self-report-measures are measured variables or instruments rather than concepts the study develops: the paper measured self-reported competence with a scale adapted from Zhang et al. (2025) and anxiety with Schiavo et al. (2024), and its own constructs (AIFK, TDIU, TRANS, NON, PRI, RES) have no concept pages. cs-education, legal-education, k-12 and generative-ai are the setting, the disciplines and the technology; machine-learning and quantitative-research are the methods (PLS-SEM plus ANN) rather than the finding. Confidence medium: a single-institution cross-sectional survey whose headline path ran opposite to the authors'' own hypothesis.'
+- article: impactbench-ai-impact-on-humans-2026
+  date: '2026-10-08'
+  integrated:
+  - cognitive-offloading
+  - agency
+  no_change:
+  - ai-education
+  - limitations-in-aied-research
+  - scaffolding
+  - self-regulated-learning
+  - well-being
+  - generative-ai
+  - llm
+  - trust-calibration
+  - guardrails
+  - ai-misuse-learning-harm
+  - benchmark
+  - quantitative-research
+  - learning sciences
+  - higher ed
+  - k 12
+  - academic-integrity
+  - assessment-validity
+  - simulation
+  reason: 'Two candidates qualified: cognitive-offloading (grep ''offloading asymmetry'', ''benchmark'' and ''ImpactBench'' -> 0 hits each, so the page documented over-reliance from studies but carried no external benchmark of the behavior, and it gained the two metric means plus the essay case) and agency (grep ''Agency & Purpose'', ''56.0'', ''43.9'', ''autonomy-preserving'' -> 0 hits, so the page''s evidence was study-level rather than comparative across models, and it gained the subarea result and the harm-versus-help spread). Rejected: limitations-in-aied-research already carries the benchmark and construct-validity arguments (grep ''benchmark'' 12 hits, ''construct validity'' 1), so the proxy-versus-outcome point would restate it; trust-calibration already treats calibration as a trust dimension and the benchmark''s contribution there is a ranking rather than a mechanism; ai-misuse-learning-harm is about misuse by learners while the low relational scores here are model behaviors toward users; guardrails, well-being, scaffolding and self-regulated-learning are facets or covered themes rather than findings this paper advances; the remaining values are the study''s setting, technology, method or audience. Confidence medium: the suite is a behavioral proxy with 95% intervals that exclude simulator variance, and inter-reviewer agreement was weakest for scaffolded learning.'
+
+- article: idealens-detecting-ai-ideas-2026
+  date: '2026-10-08'
+  integrated:
+  - ai-detection
+  - academic-integrity
+  no_change:
+  - student-ai-interaction
+  - metacognition
+  - llm
+  - machine-learning
+  - process-oriented-assessment
+  - ai-use-disclosure
+  - ai-misuse-learning-harm
+  - trust-calibration
+  - benchmark
+  - writing education
+  - cs education
+  - higher ed
+  - generative-ai
+  - assessment
+  reason: 'Two candidates qualified: ai-detection (grep ''idea provenance'', ''IdeaLens'', ''who wrote the words'' -> 0 hits, so the page listed technical families without the ideas-versus-prose distinction, and the new bullet adds the flag-rate gradient and the ethics caveat) and academic-integrity (grep ''idea provenance'' -> 0 hits while the page frames integrity around authorship of text, so it gained the policy shift and the 68% figure with its error direction). Rejected: process-oriented-assessment already frames the process record as the evidence and the detector adds a measurement rather than a design implication; ai-use-disclosure and ai-misuse-learning-harm concern what a learner discloses or does, while this paper is about attributing ideas; trust-calibration and assessment-validity duplicate what the detection and integrity pages now carry; metacognition, student-ai-interaction, machine-learning, benchmark, the disciplines and the levels describe the method or the setting. Confidence medium: the training labels are inherited prose labels and the mixed quadrant rests on 50 stories, both stated by the authors.'

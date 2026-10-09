@@ -1,7 +1,7 @@
 ---
-title: "Six-Month Intelligent-TPACK Program: Half a Standard Deviation of Gain, and Self-Assessments That Fell"
+title: "Enhancing Teachers' AI Competency: A Professional Development Intervention Study Based on Intelligent-TPACK Framework"
 created: "2026-10-07T13:20:00-04:00"
-updated: "2026-10-07T13:20:00-04:00"
+updated: "2026-10-08T15:10:00-04:00"
 type: article
 foundations: [tpack, teacher-ai-competency, educational-development]
 pedagogy: [metacognition, self-efficacy]

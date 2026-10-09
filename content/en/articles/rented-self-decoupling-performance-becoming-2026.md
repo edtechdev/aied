@@ -1,7 +1,7 @@
 ---
-title: "The Rented Self: When AI Decouples Performance From Becoming"
+title: "The Rented Self: How AI-Enabled Tools Decouple Performance From Becoming"
 created: "2026-10-07T14:05:00-04:00"
-updated: "2026-10-07T14:05:00-04:00"
+updated: "2026-10-08T15:10:00-04:00"
 type: article
 foundations: [cognitive-offloading, learner-identity, theory-development-aied, theories-and-frameworks, academic-integrity]
 pedagogy: [self-regulated-learning, self-efficacy, motivation, transfer-of-learning]

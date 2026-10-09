@@ -1,7 +1,7 @@
 ---
-title: "AI competence raises AI anxiety indirectly, by awakening ethical awareness without a way to act on it"
+title: "Modeling the Relationships Between University Students' AI Competence, AI Ethical Awareness, and AI Anxiety: A Dual-Stage PLS-SEM and ANN Analysis"
 created: "2026-10-08T10:20:00-04:00"
-updated: "2026-10-08T10:20:00-04:00"
+updated: "2026-10-08T15:10:00-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, self-efficacy, motivation]
