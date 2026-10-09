@@ -1,7 +1,7 @@
 ---
 title: Equidad
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-04T17:09:45-04:00"
+updated: "2026-10-09T16:20:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,13 +12,17 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-09T08:42:12-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -66,6 +70,7 @@ La preparación importa más que la preferencia, y el derecho a rechazar se dist
 - **Sesgo en los datos de entrenamiento y en las salidas:** los datos de entrenamiento de la IA reflejan en gran medida perspectivas culturales dominantes. [[gender-bias-transfer-llm-writing|La investigación sobre la transferencia del sesgo de género]] muestra que la escritura asistida por LLM puede contaminar el trabajo del estudiantado con sesgo de género; [[paternalistic-filter-llm-history-education|los filtros en la enseñanza de la historia]] y [[ai-scoring-language-bias-physics|la corrección con IA]] pueden codificar supuestos occidentalocéntricos y lingüísticamente sesgados.
 - **Conocimientos marginados:** [[genai-minoritized-knowledges-disability|la investigación sobre conocimientos minorizados]] examina cómo la IA generativa margina los sistemas de conocimiento no dominantes y las perspectivas de la discapacidad en la [[higher-ed|educación superior]].
 - **Diversificación del [[curriculum-design|currículo]]:** el profesorado usa cada vez más los LLM para diversificar los materiales curriculares (Wang et al., 2025, encontraron que el 78% lo hacía), pero las listas de lectura seleccionadas con IA siguen infrarrepresentando a autores BIPOC, y los [[intelligent-tutoring|tutores de IA]] de [[stem-education|STEM]] recurren por defecto a contextos de problemas occidentalocéntricos.
+- **Las imágenes generadas repiten las normas visuales dominantes, lo que convierte el uso crítico en una competencia y no en un añadido.** Jiang et al. (2026) observan que la generación de imágenes con IA generativa reproduce normas multimodales dominantes como el sesgo visual, y advierten de que una evaluación multimodal que lo ignore corre el riesgo de automatizar y reproducir desigualdades; su marco para el profesorado de segundas lenguas exige por ello la competencia de ayudar al estudiantado a detectar, evaluar y contraargumentar las salidas sesgadas del modelo ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
 
 ## Equidad de resultados
 
@@ -90,6 +95,7 @@ La preparación importa más que la preferencia, y el derecho a rechazar se dist
 - **Los métodos con mejor evidencia son los menos escalables.** En un taller con 73 docentes de informática, la evaluación oral e interactiva se señaló como la evidencia más sólida disponible de comprensión individual y como el remedio menos escalable propuesto —planteado en una sala con más de 400 estudiantes y un puñado de ayudantes—, de modo que las estrategias con un vínculo más claro con el aprendizaje verificado se sitúan en las instituciones que enseñan a menos estudiantes, una brecha de equidad entre instituciones y no dentro de una cohorte ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 - **La calidad de la tutoría cambia con la demografía del estudiantado.** EduFair-Bench empareja un [[simulating-students|estudiante LLM]] fijo con cada tutor a lo largo de nueve niveles demográficos que abarcan género, antecedentes migratorios, primera lengua y estatus socioeconómico, y puntúa cinco métricas pedagógicas por turno. En la [[intelligent-tutoring|tutoría con LLM]] las mayores desviaciones aparecen en condiciones demográficas explícitas: el andamiaje por pasos correlaciona hasta |r| = 0,144 en matemáticas, y el tono correctivo supera 0,10 en todos los modelos en [[chemistry-education|química]] (0,102-0,168) y [[physics-education|física]] (0,129-0,294); además, en 11 de las 15 celdas de modelo por dominio la condición de respuesta incorrecta puntuó más alto que la correcta, lo que indica que el tono seguía la etiqueta demográfica del estudiante y no la calidad de su razonamiento. El [[reinforcement-learning|aprendizaje por refuerzo]] específico de la pedagogía redistribuyó estas brechas en lugar de eliminarlas. ([[edufair-bench-pedagogical-fairness-llm-tutors-2026]])
 - **Las señales demográficas implícitas son un canal de sesgo menos controlable que los atributos declarados.** [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto y Hovy (2026)]] mantuvieron fija la entrada de cada tarea y variaron solo el contexto demográfico en seis [[llm|LLM]] ajustados por instrucciones y tres tareas educativas, lo que produjo 192.480 llamadas de inferencia, y separaron las señales *explícitas* (atributos declarados del estudiante) de las *implícitas*, transportadas por un historial de [[conversational-ai|conversación]] de diez prompts. En la [[automated-essay-scoring|corrección automática de ensayos]] la mayoría de los modelos resultó comparativamente estable bajo el condicionamiento explícito, mientras que el implícito infló las puntuaciones: Llama-70B puntuó 1,57 puntos por encima de su propio valor por defecto (p < 0,001). En la respuesta a preguntas metalingüísticas, la condición implícita derivó en la dirección opuesta: las respuestas correspondientes a niveles educativos más bajos recibieron un sentimiento menos positivo, con una brecha media de 0,3 entre el nivel educativo más bajo y los más altos en una escala de 0 a 4 frente a una desviación estándar intraelemento de 0,07. La dificultad para la equidad es estructural: la señal no es un atributo declarado que una política pueda prohibir ni un campo de prompt que una auditoría pueda inspeccionar, sino una propiedad de la propia interacción.
+- **La verificación puede redirigir una ganancia hacia el estudiantado más débil.** [[verified-study-materials-learning-gains-2026|Dang y Nguyen (2026)]] encontraron que unos materiales de estudio con IA verificados por personas expertas, en un curso de economía de primer año, se asociaban a una ganancia de 2,34 puntos, pero aproximadamente tres cuartas partes se concentraron en el quintil inferior, y la proporción de notas por debajo del límite del 60% cayó 24,7 puntos: se traslada la carga de la comprobación del estudiantado a una tutoría responsable.
 
 ## Inclusión lingüística, cultural y de la discapacidad
 
@@ -178,3 +184,7 @@ La preparación importa más que la preferencia, y el derecho a rechazar se dist
 - [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Ganancias de aprendizaje agrupadas con IA generativa (g=0,53) y el acceso desigual a herramientas costosas que no pueden captar
 
 - [[intelligent-tutoring-mathematics-education-review-2026]] — Revisión de la tutoría con IA en matemáticas que concluye que las afirmaciones de inclusividad y de reducción de brechas no están respaldadas
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Cómo entra el sesgo visual de la IA generativa en la evaluación multimodal, y por qué contraargumentarlo es una competencia del profesorado
+- [[rented-self-decoupling-performance-becoming-2026]] — El yo alquilado: la renta que se paga en dinero, yo y normas, y las licencias que terminan al graduarse
+- [[verified-study-materials-learning-gains-2026]] — Verificado, no generado: materiales de estudio con IA verificados por personas expertas y la distribución de las ganancias de aprendizaje en un curso universitario
+- [[rented-self-decoupling-performance-becoming-2026]] — El yo alquilado: la renta que se paga en dinero, yo y normas, y las licencias que terminan al graduarse

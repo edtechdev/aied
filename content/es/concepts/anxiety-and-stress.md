@@ -1,7 +1,7 @@
 ---
 title: Ansiedad y estrés
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-10-02T22:24:42-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -12,13 +12,17 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-08T10:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -158,3 +162,5 @@ El [[well-being|bienestar]] es el estado positivo amplio (salud emocional, psico
 - [[ai-attitude-latent-profiles-career-development-2026]] — Un perfil alto a la vez en ansiedad ante la IA y en calidad percibida de la IA, no en una u otra
 - [[ai-speaking-practice-communicative-readiness-2026]] — El vínculo de la ansiedad al hablar con la disposición a comunicarse se invierte con una alta autoeficacia oral
 - [[perceived-ai-intelligence-medical-students-mental-health-2026]] — La inteligencia percibida del asistente de IA reduce la ansiedad académica a través del progreso hacia las metas de estudio (estudiantes de medicina)
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — La competencia eleva la conciencia ética, la conciencia ética eleva la ansiedad ante la IA: mediación solo indirecta entre 584 estudiantes
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — La competencia eleva la conciencia ética, la conciencia ética eleva la ansiedad ante la IA: mediación solo indirecta entre 584 estudiantes

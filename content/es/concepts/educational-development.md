@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Desarrollo educativo
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-10-02T22:25:26-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-07T13:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -106,6 +110,8 @@ Confianza y alfabetización no son objetivos intercambiables: en un SEM de 502 e
 
 **La respuesta del profesorado refleja centros de poder, no actitudes.** En un estudio de caso instrumental con 33 docentes de escritura, cuatro centros de poder policéntricos —la tendencia global a la IA generativa, la universidad/departamento, los colegas y el estudiantado— moldearon la práctica, y el personal adjunto, limitado por un poder discursivo reducido, pasó de la detección a enseñar un uso aceptable ([[zuo-instructor-power-genai-writing-2026|Zuo et al. (2026)]]).
 
+**Mide la asistencia, no la sensación de implicación.** En un programa Intelligent-TPACK de seis meses para 64 docentes universitarios, la tasa de asistencia predijo la ganancia en competencia en IA (β = 0,407, p = ,001) mientras que la participación autopercibida no lo hizo (β = 0,049, p = ,692), lo que los autores interpretan como inversión conductual concreta frente a implicación superficial ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng y Ling, 2025]]). El programa combinó clases en línea con tres talleres presenciales, y luego exigió al profesorado revisar sus diseños instruccionales e implementarlos al semestre siguiente; los autores recomiendan incorporar la asistencia a la evaluación del desempeño junto con incentivos significativos.
+
 ## Conceptos conectados
 
 - [[teacher-ai-competency]]
@@ -154,3 +160,4 @@ Confianza y alfabetización no son objetivos intercambiables: en un SEM de 502 e
 - [[physics-faculty-learning-community-ai-2026]] — Una serie de talleres para el uso eficaz de la IA en tiempos inciertos: construir una comunidad de aprendizaje de profesorado de física
 
 - [[faculty-ai-well-being-social-supports-2026]] — El bienestar del profesorado con IA depende de la alfabetización en IA y no de la autoeficacia tecnológica
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Formación continua Intelligent-TPACK: la asistencia predice las ganancias, la participación autopercibida no

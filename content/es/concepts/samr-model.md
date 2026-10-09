@@ -1,7 +1,7 @@
 ---
 title: Modelo SAMR
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-09-28T19:10:33-04:00"
+updated: "2026-10-09T17:55:00-04:00"
 type: concept
 foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -10,13 +10,17 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-09-10T09:50:00-04:00"
+source_updated: "2026-10-06T18:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -50,6 +54,7 @@ SAMR se empareja con frecuencia con el [[icap-framework|marco ICAP]] porque ambo
 - **SAMR y TPACK anclan los estándares de integración tecnológica del profesorado.** [[crompton-faculty-technology-integration-standards-2026|Crompton et al. (2026)]] sitúan sus seis estándares de tecnología para el profesorado frente a marcos existentes —[[tpack|TPACK]], RAT, SAMR, SETI— y estándares (ISTE, UNESCO, DigCompEdu), la mayoría de los cuales se dirigen al profesorado de [[k-12|K-12]] o solo a la parte de [[teacher-role|docencia]] del papel del profesorado, dejando una laguna en el desarrollo del profesorado de educación superior.
 - **SAMR es objeto de la crítica poshumanista.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] critica TPACK, SAMR y los modelos de [[ai-literacy|alfabetización en IA]] por compartir una ontología humanista que presupone a quien aprende como un sujeto acotado cuya cognición no cambia fundamentalmente por la mediación tecnológica, y sostiene que estos marcos instrumentalistas no pueden abordar el papel constitutivo de la IA en la cognición.
 - **Un marco para la integración, no un marco para el poder.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] evalúa SAMR junto con TPACK y otros marcos de integración y encuentra que ninguno aborda el poder equitativo, la propiedad de los datos o la rendición de cuentas, lo que motiva un marco alternativo de coagenciación ecológica.
+- **El uso del estudiantado también se proyecta sobre SAMR, y la retroalimentación abarca todos los niveles.** Al codificar las declaraciones de uso de IA generativa de 31–36 estudiantes en una unidad de [[physics-education|física]], el aprendizaje se situó en sustitución–aumento, el formato en sustitución y la realización de tareas en modificación–redefinición, mientras que la retroalimentación —comprobar, aclarar, verificar— aparecía en los cuatro niveles ([[genai-use-changing-institutional-policy-physics-2026|Quince y Faulconer, 2026]]).
 
 ## SAMR, TPACK y la adopción tecnológica: en qué se diferencian
 
@@ -90,3 +95,4 @@ SAMR se entiende mejor como una lente de profundidad de integración usada en la
 - [[crompton-faculty-technology-integration-standards-2026]] — SAMR entre los marcos que informan los estándares de tecnología del profesorado
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — La crítica poshumanista a la ontología humanista de SAMR
 - [[reclaiming-epistemic-agency-co-agency-2026]] — El silencio de SAMR sobre el poder, la propiedad de los datos y la rendición de cuentas
+- [[genai-use-changing-institutional-policy-physics-2026]] — Nivel de política frente a diseño de tarea: para qué usó el estudiantado la IA generativa en tres evaluaciones de física (Quince y Faulconer 2026)

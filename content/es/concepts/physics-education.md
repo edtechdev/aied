@@ -1,7 +1,7 @@
 ---
 title: Educación en física
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -11,13 +11,17 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/physics-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-06T18:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -73,6 +77,8 @@ Un prompt reutilizable de cuatro elementos —herramientas, visualización, cont
 - **La calificación con IA puede reproducir un resultado de física de alto riesgo sin coincidir en cada parte.** Al calificar 10.364 páginas manuscritas de olimpiada y de universidad, un LLM multimodal recuperó el mismo equipo olímpico de cinco estudiantes que los examinadores y se correlacionó con los totales en r = 0,93–0,96, pero la coincidencia exacta por parte de pregunta alcanzó el 70%: una segunda lectura controlada por examinadores, no una sustitución ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 
 - **Los puntos de referencia de física pueden estar anclados al currículo y no ser en inglés.** [[physicsmate-bengali-secondary-physics-benchmark-2026|Jahin et al. (2026)]] construyeron 1.834 preguntas en bengalí a partir del manual nacional de física de los grados 9-10 y un grafo de conocimiento de 1.760 nodos; una única receta fija de ajuste fino ganó 5,5, 15,0 y 23,3 puntos con 0.6B, 1.7B y 4B parámetros.
+
+Una revisión PRISMA de 2026 de 11 estudios empíricos en seis países llega a la misma conclusión a nivel de campo: las ganancias a corto plazo de la retroalimentación y la simulación con IA no persistieron en exámenes posteriores ni se transfirieron al rendimiento independiente ([[ai-university-physics-education-review-2026|revisión de la IA en la educación universitaria de física]]).
 
 ### Conexiones con conceptos relacionados
 
@@ -139,3 +145,6 @@ La educación en física se sitúa dentro del dominio más amplio de la [[stem-e
 - [[context-prompts-physics-assignments-2026]] — Tareas de física impulsadas por inteligencia artificial mediante prompts de contexto
 - [[ai-assisted-physics-lab-report-assessment-2026]] — Evaluación asistida por IA de informes de laboratorio de física experimental: potencial, limitaciones y apoyo a la práctica docente
 - [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1.834 pares de preguntas y respuestas de física secundaria en bengalí mapeados a un grafo curricular de 1.760 nodos, con ganancias de adaptación en modelos pequeños
+- [[ai-university-physics-education-review-2026]] — La inteligencia artificial en la educación universitaria de física: una revisión sistemática de estudios empíricos
+- [[structured-genai-training-physics-problem-solving-rct-2026]] — Formación estructurada con IA generativa para la revisión de problemas de física: un ensayo controlado aleatorizado (Huang et al. 2026)
+- [[structured-genai-training-physics-problem-solving-rct-2026]] — Formación estructurada con IA generativa para la revisión de problemas de física: un ensayo controlado aleatorizado (Huang et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Gestión del cambio
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-10-02T22:23:30-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -10,13 +10,17 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-09T09:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -92,3 +96,5 @@ La gestión del cambio es el complemento institucional de la integración a nive
 - [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus deberes. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en informática en la era de la IA generativa
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — trabajo de campo entre sistemas sobre cómo la implementación y las acciones del profesorado deciden si un producto de IA ayuda
 - [[dot-framework-survey-2026]] — evidencia de encuesta de que el desarrollo profesional debe cubrir un ciclo de diseño completo y no solo el uso de herramientas
+- [[flipped-classroom-ai-assessment-math-2026]] — Un arco de difusión de una década desde la iniciativa individual hasta la financiación central en matemáticas de grado (Law 2026)
+- [[flipped-classroom-ai-assessment-math-2026]] — Un arco de difusión de una década desde la iniciativa individual hasta la financiación central en matemáticas de grado (Law 2026)

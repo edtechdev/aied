@@ -1,7 +1,7 @@
 ---
 title: Educación empresarial
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-10-02T22:23:30-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,13 +9,17 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-07T09:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -48,6 +52,7 @@ La IA en la educación empresarial es una línea creciente de la [[ai-education|
 - **La innovación en evaluación y calificación está poco investigada.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais y Galy (2026)]] revisaron 58 artículos sobre evaluación a lo largo de 20 años en cuatro revistas líderes de educación en gestión (AMLE, JME, Management Learning, IJME) —unas tres al año, muchas en los números especiales de 2010 y 2014— y encontraron que la evaluación y la calificación están poco investigadas en relación con su papel central en la configuración del aprendizaje. La autoevaluación y la evaluación entre iguales dominan el discurso (casi la mitad del corpus, sobre todo para la evaluación [[summative-assessment|sumativa]] del [[group-work|trabajo en grupo]]); la [[authentic-assessment|evaluación auténtica]] aparece principalmente a través de [[simulation|simulaciones]] mediadas por tecnología y a menudo se confunde con el [[experiential-learning|aprendizaje experiencial]]; mientras que la reevaluación, la calificación basada en estándares y la eliminación de las calificaciones están prácticamente ausentes. Los autores instan al profesorado de gestión a implicarse de forma más activa y recíproca con estas innovaciones y recomiendan una experimentación incremental (tareas sin calificación, reevaluación de una única tarea, rúbricas basadas en estándares) respaldada por una coordinación a nivel de programa y por evidencia documentada de la Scholarship of Teaching and Learning.
 
 - **La calificación automatizada de trabajos de negocios necesita una validación específica del corpus.** Sobre 60 publicaciones de marketing de estudiantado de una simulación BrandSim, [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]] encontró que un [[llm|LLM]] alcanzó solo un ICC(2,1) = .435 con la media humana —reglas deterministas .091, un híbrido de igual ponderación .266— mientras que añadir anclas redactadas por el investigador elevó el LLM a .846 sin cambiar ninguna puntuación del estudiantado.
+- **Enseñar la IA como elemento de diseño de procesos de primera clase.** [[ai-decision-checkpoints-bpm-education-2026|Jalali (2026)]] coloca un punto de control de decisión sobre IA en cada fase del ciclo de vida de BPM a lo largo de seis módulos de un curso de 152 estudiantes, de modo que el estudiantado construye un agente de admisión funcional con LLM y luego descubre, en un punto de control, que el cuello de botella real es una cola de dos personas de investigación de fraude.
 
 ## La enseñanza de la economía y la gestión
 
@@ -90,3 +95,4 @@ Los negocios son uno de los campos donde la adopción de la IA generativa es má
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[automated-scoring-marketing-posts-agreement-2026]] — Concordancia y error en la calificación automatizada de publicaciones de marketing del estudiantado
 - [[shi-genai-experiential-learning-management-education-2026]] — tres mecanismos de IA generativa para reconfigurar la pedagogía de la educación en gestión
+- [[ai-decision-checkpoints-bpm-education-2026]] — Puntos de control de decisión sobre IA para la gestión de procesos de negocio aumentada con IA: marco y ejemplificación educativa

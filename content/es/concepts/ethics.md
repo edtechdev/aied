@@ -1,7 +1,7 @@
 ---
 title: Ética
 created: "2026-09-25T03:54:01-04:00"
-updated: "2026-10-02T22:23:33-04:00"
+updated: "2026-10-09T17:05:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,13 +9,17 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-08T10:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -86,6 +90,8 @@ Los artículos sobre ética de la base de conocimiento van desde marcos teórico
 
 Ese argumento práctico se refuerza con trabajo empírico sobre cómo funciona la ética dentro de la propia alfabetización en IA: Zhu y Kong (2026) muestran que la conciencia ética sobre la IA, junto con el empoderamiento en la [[problem-solving|resolución de problemas]] con IA, media la relación entre el [[project-based-learning|aprendizaje basado en proyectos]] percibido y la satisfacción con un curso de alfabetización en IA. Su escala AI-PBLS validada y sus resultados de SEM (1.027 estudiantes) indican que el ABP crea condiciones en las que el estudiantado construye un marco personal de razonamiento ético sobre la IA, lo que refuerza el argumento de que la ética no es un añadido, sino un mecanismo central de un desarrollo significativo de la alfabetización en IA.
 
+**El signo de ese mecanismo depende de lo que viene después.** Entre 584 estudiantes de grado cuya competencia en IA provenía del autoestudio, la competencia elevó la conciencia ética sobre la IA (β = 0,644, p < ,001). La conciencia ética elevó a su vez la ansiedad ante la IA (β = 0,439, p < ,001) en lugar de reducirla: una mediación solo indirecta, que los autores leen como conciencia despertada sin marco de afrontamiento ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]]). Su conclusión para la enseñanza de la ética es que no puede detenerse en el nivel cognitivo. Una preocupación por la transparencia o la privacidad tiene que llegar acompañada de la vía de gobernanza que la responde, y por eso su módulo propuesto se sitúa dentro de la educación jurídica.
+
 ## Conexiones
 
 La ética se conecta con la [[equity-in-ai-education|equidad]], la [[privacy|privacidad]], la [[bias-mitigation|mitigación de sesgos]], la [[regulation|regulación]], la [[pedagogical-safety|seguridad pedagógica]], la [[academic-integrity|integridad académica]] y la [[governance|gobernanza]]. Es el fundamento normativo de todos los demás conceptos de la IA en la educación: el marco en el que se plantean y se resuelven las cuestiones de justicia, transparencia, autonomía y seguridad.
@@ -133,3 +139,6 @@ La ética se conecta con la [[equity-in-ai-education|equidad]], la [[privacy|pri
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Uso, ética y política de la IA generativa a lo largo del tiempo en la formación del profesorado (Parker et al. 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Valores y normas éticas para la IA en la educación
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — La conciencia ética amplificó la ansiedad ante la IA allí donde no se enseñó un marco de afrontamiento: mediación solo indirecta entre 584 estudiantes
+- [[ethically-mediated-ai-tpack-china-2026]] — El conocimiento ético sobre la IA como mediador integrador en el AI-TPACK del profesorado universitario (Chen et al. 2026)
+- [[ethically-mediated-ai-tpack-china-2026]] — Hacia un nuevo marco AI-TPACK: la ética como mediadora integradora del conocimiento técnico sobre IA (Chen et al. 2026)

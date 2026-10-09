@@ -1,7 +1,7 @@
 ---
 title: Integridad académica
 created: "2026-09-25T03:53:54-04:00"
-updated: "2026-10-03T02:52:14-04:00"
+updated: "2026-10-09T17:05:00-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,13 +11,17 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-07T08:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -157,6 +161,9 @@ El caso disciplinar más claro a favor del rediseño frente a la detección proc
 - **Las referencias fabricadas han llegado al registro publicado de la enseñanza de la informática.** [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] rastrearon 113.588 referencias de 5225 artículos de enseñanza de la informática de la ACM Digital Library contra el corpus completo de 723.930 publicaciones y 15.872.533 referencias, verificaron manualmente 828 registros sospechosos y confirmaron 30 referencias con información bibliográfica verificablemente fabricada en 14 artículos, todos publicados en 2025 o 2026. En el SIGCSE Technical Symposium el recuento verificado pasó de 3 en 2025 a 17 en 2026, presente en el 2,3% de los artículos de las actas de 2026, y las referencias alucinadas aparecieron en cinco sedes patrocinadas o en cooperación con SIGCSE en 2025. La cifra solo es válida con su contrapeso: la mayoría de las referencias señaladas eran benignas (229 eran discrepancias de metadatos de la ACM en las que el PDF era correcto y 188 eran variantes bibliográficas válidas), así que la cifra de sedes es un límite inferior deliberado. Repercute en los autores y no solo en la [[peer-assessment|evaluación entre pares]], porque quienes revisan y comprueban las listas de referencias no pueden verificar todas las entradas, y la redacción asistida por [[llm|LLM]] abarata la producción de una cita inventada pero verosímil.
 
 - **La claridad sin rediseño desplaza el mal uso en lugar de eliminarlo.** [[petricini-zipf-ai-use-ethics-matrix-2026|Petricini y Zipf (2026)]] sitúan el uso de la IA en dos ejes (la intención y el esfuerzo del estudiantado frente a la claridad y el apoyo que ofrece el entorno) e informan de que el cuadrante más poblado de sus datos de entrevistas era el de *cumplimiento ansioso*, en el que el estudiantado oculta una ayuda legítima (apoyo gramatical, explicaciones de conceptos, organizar sus propias ideas) para evitar una [[legal-issues-and-risks|acusación falsa]]. Su advertencia es direccional: cuando las reglas se vuelven claras pero la [[assessment|evaluación]] sigue premiando la velocidad y el producto, el estudiantado consciente de la política se desplaza hacia una *elusión eficiente* y no hacia un *uso virtuoso de la herramienta*. [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]] llega al mismo punto desde el lado de la tarea: cuando los agentes satisfacen todos los criterios de la rúbrica sin razonamiento visible, calificar el rastro de decisiones (calibración de la confianza, sugerencias de IA rechazadas, restricciones específicas del curso) sustituye a la detección, que según ella falla en ambas direcciones.
+- **La aplicación, y no la detección, es donde vive la conversación.** Entre 270.929 registros relacionados con la IA en 26 subreddits educativas a lo largo de tres años y medio, el grupo de integridad académica concentró el 37,1% de la discusión y la Aplicación de Conductas Indebidas fue el mayor tema individual con un 12,1%, mientras el 32,3% de los hilos entre profesorado y estudiantado se situaban dentro de disputas de detección y aplicación ([[reddit-genai-education-discourse-analysis-2026|Yüce et al. (2026)]]).
+
+**Las políticas de integridad están pasando de quién escribió las palabras a quién tuvo las ideas, y los detectores se están reconstruendo para acomodarse.** IdeaLens predice la procedencia de las ideas a partir de un esquema en lugar de la prosa: en 50 relatos que personas escribieron desde cero siguiendo planes generados por IA, marcó el 68% como IA, frente al 8% de Pangram 4 y el 0% de su control entrenado con prosa, y calificó como humana el 94,7% de los textos humanos pulidos por IA ([[idealens-detecting-ai-ideas-2026|Rajendhran et al. (2026)]]). Su propia declaración ética califica el resultado de estimación estadística que no debe usarse por sí sola como prueba concluyente del uso de IA.
 
 ## Conceptos conectados
 - [[pedagogical-patterns]] — Secuencias de verificación adoptadas en respuesta a la IA generativa
@@ -220,3 +227,4 @@ El caso disciplinar más claro a favor del rediseño frente a la detección proc
 - [[argus-academic-integrity-genai-2026]] — Argus: la integridad académica en la era de la IA generativa
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Hallazgo de auditoría sectorial: las universidades con mandato y las de marco no muestran diferencias en la exposición de la evaluación, la contraparte empírica del problema de coordinación
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Early prediction of AI-assisted cheating risk from LMS traces, framed as academic guidance rather than evidence of misconduct
+- [[reddit-genai-education-discourse-analysis-2026]] — Tres años y medio de Reddit educativo: la aplicación domina, y las disputas de integridad son el principal ámbito de encuentro entre profesorado y estudiantado (Yüce et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Enmarcar el uso de la IA para el estudiantado
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-10-02T22:23:27-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-07T15:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -84,6 +88,7 @@ El estudiantado también queda enmarcado por los medios y el discurso público e
 - **Canalizar la ansiedad hacia la evaluación.** Enmarque la incertidumbre sobre la exactitud como una razón para verificar y revisar, no como una razón para evitarla o hacer trampas.
 - **Usar mensajes honestos y específicos** (por ejemplo, inoculación y advertencias de falibilidad) que construyan una cautela calibrada en lugar de confianza o desconfianza generalizadas.
 - **Vender el propósito.** Conecte el uso de la IA con el aprendizaje duradero y con la [[agency|agencia]] de quien aprende, y acompañe los mensajes con el apoyo que convierte la intención en adopción.
+- **Secuencia la herramienta según la fase de aprendizaje.** La afirmación práctica central del informe de consenso de 30 personas expertas es un orden: adquirir las ideas primero sin IA generativa, luego usarla para reforzar y consolidar lo aprendido, y después priorizar el pensamiento propio al aplicar esas ideas en contextos nuevos ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Su consejo al estudiantado es más directo: las ganancias de rendimiento a corto plazo toman atajos que sacrifican el aprendizaje necesario para el éxito a largo plazo.
 
 ## Conceptos conectados
 
@@ -117,3 +122,4 @@ El estudiantado también queda enmarcado por los medios y el discurso público e
 - [[ai-ethics-education-public-discourse]] — El discurso público sobre la ética de la IA en educación
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — El profesorado enmarca la IA como uso crítico y responsable; las empresas la enmarcan como productividad
 - [[ssaho-ai-academic-integrity-review-2025]] — Construir una cultura de integridad académica mediante expectativas claras
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 personas expertas sobre la secuencia: adquirir sin IA generativa, consolidar con ella, y después pensar por sí mismo

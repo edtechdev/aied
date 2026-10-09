@@ -1,19 +1,23 @@
 ---
 title: Teoría de respuesta al ítem
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-02T22:40:15-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-05T08:24:47-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -61,6 +65,7 @@ La TRT trata la habilidad (θ) y los parámetros de los ítems (dificultad, disc
 - **Con qué poca frecuencia la TRT ancla la validación de instrumentos:** una evaluación de instrumentos de alfabetización en IA del profesorado cuantifica la ausencia de TRT más que su uso. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore y Maat (2026)]] calificaron 33 instrumentos con una matriz de decisión adaptada de COSMIN y Terwee et al. (2007); la validez estructural fue sólida, con 24 (72,7%) en grado A mediante AFC, PLS-SEM o modelado de TRT, y sin embargo ninguno usó la TRT o Rasch como evidencia principal, y solo cinco instrumentos (15,2%) informaron de invariancia de medición o de evidencia de funcionamiento diferencial del ítem. Los autores abogan por la TRT y las tareas de desempeño junto con la autoevaluación para separar la capacidad validada de la confianza declarada.
 
 - **Una alternativa causal a la TRT asociativa.** [[causal-modeling-competency-assessment-2026|Mangili et al. (2026)]] sostienen que la TRT y los modelos de estudiante basados en redes bayesianas no pueden expresar intervenciones ni contrafactuales, y en su lugar elicitan ecuaciones estructurales de especialistas; en una batería de test adaptativo con 109 estudiantes el modelo elicitado fue ligeramente menos predictivo (−287 frente a −277 de log-verosimilitud del test) pero admitió consultas contrafactuales sobre la ayuda.
+- **Explicar la dificultad en lugar de predecirla.** [[explaining-question-difficulty-natural-language-2026|Cui et al. (2026)]] ajustaron un modelo Rasch 1PL a los registros de respuestas de LLM para GSM8K (1.319 preguntas), BBH-structured (1.396) y WinoGrande (1.267), con 5.000 modelos para GSM8K y WinoGrande y 3.811 para BBH-structured. Luego pidieron a un LLM que propusiera hipótesis en lenguaje natural sobre por qué un ítem es más difícil que otro, y las seleccionaron con una regresión regularizada L1 sobre preguntas dejadas fuera. Usadas por sí solas en preguntas no vistas, las hipótesis seleccionadas alcanzan R² = 0,373 en GSM8K, 0,580 en BBH-structured y 0,090 en WinoGrande, las mejores de los métodos comparados en GSM8K y WinoGrande y las segundas mejores en BBH-structured, donde un RoBERTa-base ajustado alcanza 0,646. Como características adicionales suman +0,11 a RoBERTa-base en GSM8K (de 0,362 a 0,468) y +0,19 y +0,18 a dos modelos de embeddings congelados. Una sonda causal edita 50 preguntas de prueba por conjunto hacia o fuera de una hipótesis.
 
 ### Conexiones
 
@@ -95,3 +100,4 @@ La TRT es un fundamento de la [[educational-measurement|medición educativa]] y 
 - [[bayesian-consensus-irt-item-banks-2026]] — Calibración por consenso bayesiana de un banco de ítems de TRT en evolución continua (Jewsbury et al. 2026)
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Auditoría de campo que muestra que la TRT/Rasch rara vez se usa como evidencia principal de validación en los instrumentos de alfabetización en IA del profesorado
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: la tutoría con IA y la humana producen ganancias de aprendizaje equivalentes en el GRE
+- [[explaining-question-difficulty-natural-language-2026]] — Explicar la dificultad de las preguntas de LLM en lenguaje natural mediante TRI y ediciones causales (Cui et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: RAG (Generación Aumentada por Recuperación)
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-10-02T21:25:27-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 connected_faqs: [making-ai-better-at-supporting-learning]
 type: concept
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -9,13 +9,17 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: concepts/rag
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-05T11:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -43,6 +47,7 @@ ai_assist:
 - **Integración en el pipeline de entrenamiento:** [[llm-training-and-fine-tuning|El entrenamiento pedagógico de LLM]] usa RAG para fundamentar el entrenamiento de tutores en las mejores prácticas educativas.
 - **Apoyo académico específico de cada curso:** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] recupera de los materiales didácticos aprobados de un único módulo de programación para atender a estudiantes que dudan en acudir a un docente, y el 89% de los 15 estudiantes evaluadores calificó sus respuestas como muy alineadas con los materiales del curso; el punto de diseño es que la fundamentación es una respuesta institucional al desajuste entre los [[llm|LLM]] de propósito general y las expectativas a nivel de módulo.
 - **Estructura en el momento de la ingesta frente a recuperación en el momento de la consulta:** [[wiki-llm-indexing-ml-classes-2026|Wright (2026)]] compiló el mismo corpus del curso de aprendizaje automático DS3001 en siete páginas wiki de conceptos interconectadas con citas de fuentes, y lo contrastó con una línea base de RAG vectorial ajustada, basada en recuperación por fragmentos con embeddings. Sobre 59 preguntas escritas por personas, el wiki compilado respondió mejor que el índice ajustado (9,95 frente a 9,05 de 10, con un intervalo de confianza bootstrap de la diferencia que excluye el cero) y estuvo más a menudo fundamentado en el material que quien respondía realmente veía (98% frente a 81%), con ambas brechas casi triplicándose en las preguntas que necesitaban material de más de una página (puntuaciones entre páginas de 9,93 frente a 8,14, donde la tasa de fundamentación de RAG cayó del 87% al 64%). La brecha de fundamentación no fue un fallo de recuperación: solo 2 de las 11 respuestas no fundamentadas del RAG vectorial fueron fallos de recuperación, mientras que las otras 9 tenían los extractos relevantes en contexto y aun así añadieron detalle no respaldado —evidencia de que la estructura en la ingesta restringe la elaboración, no solo el acceso.
+- **Despliegue local para el control institucional:** CourseChat ejecuta un tutor RAG multidcurso para la educación empresarial de grado ([[business-education|negocios]]) en servidores edge locales, con una base de datos vectorial local y un modelo de 8B servido por Ollama, manteniendo los materiales del curso y el diálogo del estudiantado en la infraestructura del campus; la elección del modelo se convirtió en una decisión conjunta de hardware y servicio cuando los candidatos mayores no superaron un umbral de latencia ([[on-premises-rag-tutoring-business-education-2026|CourseChat]]).
 
 ### RAG frente al ajuste fino
 
@@ -74,3 +79,4 @@ RAG cumple un papel complementario al ajuste fino de [[llm|LLM]]: la recuperaci�
 - [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Generación Aumentada por Recuperación para la educación en ciencias de la computación teóricas -- Un marco integral de evaluación para el análisis de algoritmos y la teoría de la complejidad
 - [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducir las barreras al apoyo académico: evaluación de un sistema RAG específico de curso para abordar las disparidades en la búsqueda de ayuda en la educación superior
 - [[wiki-llm-indexing-ml-classes-2026]] — Potencial para mejorar el aprendizaje en cursos de aprendizaje automático mediante la indexación con wiki y LLM
+- [[on-premises-rag-tutoring-business-education-2026]] — Tutoría RAG multidcurso en local para la educación empresarial

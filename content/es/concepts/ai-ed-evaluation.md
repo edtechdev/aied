@@ -1,7 +1,7 @@
 ---
 title: Evaluación de la IA en educación
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-02T21:27:27-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,13 +12,17 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [benchmark]
 translation_of: concepts/ai-ed-evaluation
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -126,6 +130,8 @@ Se necesitan puntos de referencia condicionados por el contexto: [[zhang-tutormo
 - [[hallucination-risk]] — Riesgo de contenido fabricado en las salidas de IA
 - [[intelligent-tutoring]] — Evaluar los sistemas de tutoría con IA
 - [[agentic-ai]] — Evaluar la conducta de agentes de IA autónomos
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
+
 ## Artículos conectados
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Lo que se pierden las puntuaciones de plataforma: evaluación multidimensional de agentes de enseñanza con IA
 - [[assessment-latent-structure-human-llm-2026]] — ¿Miden lo mismo los instrumentos de evaluación para las personas y para los LLM? (Strugatski et al. 2026)

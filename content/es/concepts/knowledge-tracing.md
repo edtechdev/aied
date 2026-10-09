@@ -1,20 +1,24 @@
 ---
 title: Seguimiento del conocimiento
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-10-02T21:20:37-04:00"
+updated: "2026-10-09T17:05:00-04:00"
 connected_faqs: [making-simulated-students-behave-like-learners]
 type: concept
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-10-02T08:36:43-04:00"
+source_updated: "2026-10-09T09:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -60,6 +64,7 @@ El seguimiento del conocimiento está estrechamente relacionado con el [[student
 **Otra advertencia más se refiere a la regla de evidencia que alimenta la actualización.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] aplicó cuatro reglas de actualización sobre secuencias de eventos idénticas de ASSISTments 2012–13, que solo diferían en cómo puntuaban las filas completadas con ayuda, sobre una mitad confirmatoria de 12.716 estudiantes y 985.813 eventos puntuados. Leer una fila con pista o reintento como un primer intento fallido predijo mejor el desempeño posterior sin ayuda (AUC agrupado 0,658); acreditar cualquier finalización lo predijo peor (0,604), apenas por encima de una constante que solo conoce la dificultad de la habilidad (0,595). La misma elección gobierna el recuento de dominio: acreditar las finalizaciones declaró dominados el 93,9% de 113.428 pares estudiante–habilidad, frente al 72,8% con la regla estricta, y los pares que la regla indulgente declaró por delante de la estricta alcanzaron después un 70,9% de precisión sin ayuda, frente al 85,7% donde ambas coincidían, por debajo de la tasa base de 0,744. Un estado trazado es, por tanto, en parte función de la convención de puntuación y no solo de quien aprende, de modo que una estimación de dominio consumida por una compuerta [[adaptive-learning|adaptativa]] debería llevar consigo la regla que la produjo.
 
 **Una advertencia de capacidad: los modelos de lenguaje generales siguen el conocimiento apenas por encima de una línea de base trivial.** [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et al. (2026)]] publicaron FoundationalASSIST, que restaura el texto completo de las preguntas, las respuestas que el estudiantado dio realmente y sus opciones de distractor que los conjuntos de datos de seguimiento anteriores descartaban, y probaron cuatro [[llm|LLM]] de frontera como trazadores de cero disparos. El mejor, GPT-OSS-120B, alcanzó 56,2 por ciento frente al 51,3 por ciento que ya consigue una regla de predecir siempre correcto (AUC-ROC 0,559), sin mejora con historiales más largos, y Llama-3.3-70B acertó el 85,4 por ciento de las veces que un estudiante respondió correctamente, pero solo el 12,6 por ciento cuando se equivocó, evidencia de que un modelo listo para usar sigue el optimismo y no la comprensión, así que la habilidad aparente de un trazador debe leerse frente a la línea de base trivial que su tarea permite.
+- **Un LLM de una sola pasada puede rastrear el conocimiento antes de registrar a nadie.** Consultado como una única pregunta escrita, sin datos de la plataforma objetivo, Jev alcanzó un AUC medio de 0,706, por encima del mejor de 28 modelos profundos de rastreo entrenados con 8 estudiantes (0,689), y se mantuvo por delante hasta que el rastreo supervisado lo alcance con 64-128 estudiantes ([[system-one-llm-knowledge-tracing-2026|Lee y Park, 2026]]).
 
 ## Conceptos conectados
 
@@ -80,6 +85,7 @@ El seguimiento del conocimiento está estrechamente relacionado con el [[student
 - [[simulating-students]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — estimación de dominio de grano fino que alimenta las decisiones de apoyo
+
 ## Artículos conectados
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Sobregeneralización engañosa: el dominio adaptativo puede detener la práctica antes de que quien aprende sepa cuándo abstenerse de una acción (An, McLaren y Stamper 2026)
 - [[huang-interpretable-knowledge-tracing-2026]]
@@ -93,3 +99,4 @@ El seguimiento del conocimiento está estrechamente relacionado con el [[student
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — Seguimiento fundamentado semánticamente con estados calibrados por KC, usado como entorno de RL para la recomendación
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: un tutor agéntico que aprende de quien aprende en un bucle de coaprendizaje humano-IA
 - [[crediting-assisted-work-inflates-mastery-2026]] — Qué regla de evidencia decide una afirmación de dominio (Srivastava 2026)
+- [[system-one-llm-knowledge-tracing-2026]] — Un LLM de una sola pasada rastrea el conocimiento por encima de los modelos profundos entrenados con 8 estudiantes, a una fracción del coste (Lee y Park 2026)

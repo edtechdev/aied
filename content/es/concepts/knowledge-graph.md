@@ -1,13 +1,13 @@
 ---
 title: Grafo de conocimiento
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-10-03T00:17:27-04:00"
+updated: "2026-10-09T17:55:00-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 confidence: high
 translation_of: concepts/knowledge-graph
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-09T09:25:11-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

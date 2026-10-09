@@ -1,7 +1,7 @@
 ---
 title: Andamiaje
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-09T16:20:00-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -10,7 +10,7 @@ technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
 translation_of: concepts/scaffolding
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-06T18:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [onmicro-ai]
 contributors: [editor]
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -67,7 +71,7 @@ ai_assist:
 
 La forma del andamiaje tiene que ajustarse a lo que quien aprende ya puede sostener, y no solo a lo que exige la tarea. En una [[meta-analysis-systematic-review|revisión sistemática de alcance]] de 24 fuentes de evidencia sobre el [[creativity|pensamiento creativo]] en niños de 6 a 15 años, [[niu-genai-children-creative-thinking-cognitive-development-review-2026|Niu et al. (2026)]] informan de que los niños más pequeños carecían del control lingüístico y metacognitivo preciso que exigen las indicaciones basadas en texto y necesitaban interfaces multimodales facilitadas por personas adultas, mientras que los [[llm|LLM]] basados en texto mostraban resultados declarados más sólidos con niños mayores y adolescentes jóvenes. La dependencia de las indicaciones era más fuerte en los cursos inferiores, y ningún estudio incluido examinó umbrales de preparación evolutiva, así que los autores tratan las decisiones de modalidad y de andamiaje como una cuestión de diseño abierta que debe resolver la capacidad de quien aprende y no la comodidad.
 
-### Conexiones
+- **Entrenar a quien aprende es en sí mismo un andamiaje.** Una sesión de 45 minutos que enseñaba al estudiantado a formular indicaciones a un modelo según la fase de [[self-regulated-learning|AAR]], y a remediar sus errores visuales y de razonamiento, elevó la precisión de revisión en [[physics-education|física]] (d = 0,81) sin aumentar la carga cognitiva total declarada ([[structured-genai-training-physics-problem-solving-rct-2026|Huang et al. (2026)]]).### Conexiones
 
 El andamiaje se conecta con la [[cognitive-offloading|dependencia excesiva]] (el andamiaje que no se retira crea dependencia), con la Teoría de la Carga Cognitiva (el andamiaje gestiona la carga cognitiva), con el [[feedback|bucle de retroalimentación]] (el andamiaje proporciona retroalimentación [[formative-assessment|formativa]]) y con la [[ai-literacy]] (quien aprende debe reconocer cuándo el andamiaje es beneficioso y cuándo desplaza el aprendizaje).
 
@@ -113,6 +117,7 @@ La distinción entre guiado por reglas y ad hoc va más allá del tutor y llega 
 - [[pedagogy]] — Marco general: pedagogías y estrategias de enseñanza en la educación con IA
 - [[agentic-ai]]
 - [[productive-failure]] — Fallo productivo
+
 ## Artículos conectados
 - [[kumar-genai-computing-education-systematic-review-2026]] — La retirada del andamiaje como mecanismo que hace cumplir la verificación (marco VIE)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
@@ -145,3 +150,4 @@ La distinción entre guiado por reglas y ad hoc va más allá del tutor y llega 
 - [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Los andamiajes deben exigir traducción representacional y verificación, ya que el estudiantado no puede verificar lo que no entiende (Vega-Baudrit y Rivera Álvarez 2026)
 - [[genai-cognitive-scaffold-geometric-reasoning-2026]] — La IA generativa como andamiaje de indicación que tiende un puente de la intuición visual a la demostración deductiva en geometría, donde la visualización por sí sola no basta (Davor 2026)
 - [[guided-ai-tutor-impasse-resolution-2026]] — Analizar la variación en cómo los tutores de IA guiados resuelven los bloqueos del estudiantado
+- [[structured-genai-training-physics-problem-solving-rct-2026]] — Entrenar a quien aprende como andamiaje para el uso de IA generativa en la resolución de problemas de STEM (Huang et al. 2026)

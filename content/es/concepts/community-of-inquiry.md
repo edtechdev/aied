@@ -1,7 +1,7 @@
 ---
 title: Comunidad de indagación
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-02T22:23:27-04:00"
+updated: "2026-10-09T17:55:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

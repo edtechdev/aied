@@ -1,7 +1,7 @@
 ---
 title: Alfabetización en IA
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-04T17:14:09-04:00"
+updated: "2026-10-09T16:20:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,13 +11,17 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-04T10:51:52-04:00"
+source_updated: "2026-10-08T10:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -118,6 +122,8 @@ Los relatos del profesorado sobre *por qué* se enseña educación en IA añaden
 La propia preparación es un objetivo en disputa. [[charles-teacher-readiness-by-design-ai-rich-2026|Charles (2026)]] sostiene que la preparación del profesorado para un aprendizaje rico en IA debe leerse en la calidad de los diseños que produce el profesorado, y no en la adopción, la confianza o la competencia digital, y construye un marco en torno a la *mediación del diseño*: decisiones observables como la selección de herramientas, el diseño de tareas y prompts, el andamiaje, la verificación, la transparencia, el rediseño de la evaluación, la planificación de la accesibilidad y la supervisión humana. Dos de sus afirmaciones tienen consecuencias directas para el desarrollo profesional. Primera, la [[self-efficacy|autoeficacia]] es un recurso de movilización y no un indicador de calidad, porque la confianza sin conocimiento pedagógico específico de la IA ni orientación ética puede acelerar un mal diseño en lugar de evitarlo, lo que matiza la lectura habitual de la confianza docente como señal de preparación. Segunda, la claridad de las políticas y el apoyo institucional son moderadores distintos, de modo que el apoyo material puede ser alto mientras las expectativas siguen siendo ambiguas y la preparación se traduce igualmente mal. El marco también se niega a equiparar la no utilización con la falta de preparación, ya que una decisión razonada de prescindir de la IA puede demostrar por sí misma juicio de diseño. Es conceptual y no validado, así que aporta proposiciones y fuentes de evidencia y no efectos establecidos.
 
 **Alfabetización en la interacción con la IA: la dimensión interactiva.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström y Palmqvist (2026)]] proponen una competencia más acotada, la interactiva: la capacidad de *dirigir, evaluar y aprender de* la interacción iterativa con la IA generativa, como una plasmación específica de las dimensiones aplicativa, evaluativa y de integración de marcos más amplios como [[ai-literacy-heptagon-2026|el Heptágono de la Alfabetización en IA]]. Su demostración reflexiva muestra en qué consiste en la práctica: reconocer que una respuesta fluida está por encima del esquema propio, pedir que se simplifique, acotar el alcance y reorientar el sistema hacia una práctica más focalizada. De ahí se siguen dos consecuencias de diseño: la habilidad se distribuye de forma desigual, por lo que el uso no guiado puede favorecer al estudiantado que ya tiene confianza y ampliar las brechas ([[equity-in-ai-education]]), y debe enseñarse de forma explícita y no darse por supuesta, cubriendo el profesorado cómo formular prompts productivos y cuándo dejar de usar la herramienta ([[self-regulated-learning]]).
+
+**Elevar la dimensión ética de la alfabetización tiene un problema de signo.** Entre 584 estudiantes de grado que se enseñaron IA a sí mismos, la competencia elevó la conciencia ética (β = 0,644, p < ,001), y la conciencia ética elevó a su vez la ansiedad ante la IA (β = 0,439, p < ,001) en lugar de reducirla, lo contrario de la dirección predicha ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]]). La lección que extraen los autores es que enseñar cómo se gobiernan las preocupaciones éticas tiene que acompañar a la propia dimensión ética, o el trabajo de alfabetización puede dejar a quienes aprenden más ansiosos de lo que los encontró.
 
 ### Alfabetización crítica en IA: más allá de las habilidades, hacia el poder y la resistencia
 
@@ -221,6 +227,8 @@ La alfabetización en IA es **de doble filo** en relación con la dependencia ex
 - [[higher-ed]] — alfabetización en el ámbito universitario
 - [[career-development-and-readiness]] — el rédito de empleabilidad que se sostiene que construye la alfabetización en IA
 - [[ai-education]] — el campo más amplio
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
+
 ## Artículos conectados
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 marcos validados muestran que la IA amplía la alfabetización digital hacia la ética mientras la colaboración entre el profesorado y la IA sigue poco especificada (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Seis áreas de competencia, cinco valores y tres niveles de progresión para los medios de servicio público
@@ -267,3 +275,4 @@ La alfabetización en IA es **de doble filo** en relación con la dependencia ex
 - [[ai-literacy-determinants-university-students-2026]] — Recursos externos, competencia digital y perfil psicológico como determinantes conjuntos, con una inversión de signo de la ansiedad tecnológica
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Instrumento de seis facetas que añade el uso responsable y el autodesarrollo, invariante a escala entre adolescentes, adultos jóvenes y adultos de mediana edad
 - [[faculty-ai-well-being-social-supports-2026]] — Modelo de ecuaciones estructurales del bienestar docente con la IA, los apoyos sociales y la alfabetización en IA
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Elevar la dimensión ética de la alfabetización sin un marco de afrontamiento puede dejar al estudiantado más ansioso

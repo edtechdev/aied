@@ -1,7 +1,7 @@
 ---
 title: Conocimiento Tecnológico, Pedagógico y de Contenido (TPACK)
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
 technology: [generative-ai]
@@ -9,13 +9,17 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-07T13:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -69,6 +73,7 @@ Una advertencia de medición complementaria procede del Modelo de Capacidad–De
 
 **El AI-TPACK como mediador entre la alfabetización y la integración en el aula.** Un modelo de ecuaciones estructurales con futuros docentes chinos de ciencias ([[ai-literacy-ai-integrated-inquiry-science-teaching-2026|Zou, Li, Wang y Du, 2026]]) sitúa el AI-TPACK no como una competencia paralela, sino como el mecanismo de transmisión por el que la [[ai-literacy|alfabetización en IA]] general se convierte en práctica docente. La alfabetización en IA predijo con fuerza el AI-TPACK, el AI-TPACK predijo a su vez la [[self-efficacy|autoeficacia]] en la [[science-education|enseñanza de las ciencias]], y la autoeficacia docente fue el predictor único más fuerte de la intención de enseñar mediante [[inquiry-based-learning|indagación]] integrada con IA. La cadena serial completa (alfabetización en IA → AI-TPACK → autoeficacia → intención) fue significativa, como también lo fueron las rutas indirectas separadas a través del AI-TPACK y de la autoeficacia; en conjunto, la mayor parte de la asociación de la alfabetización en IA con la intención pasaba por estos mediadores y no de forma directa, y el resultado se mantuvo tras controlar el género, el año de estudio, la especialidad y la frecuencia de uso de IA. La afirmación práctica del modelo es una secuencia con un punto de entrada: la alfabetización en IA es necesaria pero insuficiente, y el trabajo de integración ocurre allí donde se combinan el conocimiento tecnológico, pedagógico y de contenido, que es también donde se construye la confianza del profesorado para enseñar la materia.
 - **La validación como cuarta competencia.** [[human-ai-collaboration-design-education-rubric-2026|Orhon, Cekerol y Ugur (2026)]] amplían el modelo con el **Conocimiento de Validación de IA** —someter la salida probabilística de la IA a una verificación específica de la disciplina antes de tratarla como evidencia de una decisión legítima— y lo acompañan de una rúbrica orientada a procesos para la educación en diseño.
+- **La ética como mediadora integradora, no como frontera.** En una encuesta a 454 docentes universitarios, el conocimiento tecnológico sobre IA aislado tenía una asociación directa *negativa* con el AI-TPACK integrado (β = −0,303) mientras su efecto total seguía siendo positivo (β = 0,639), canalizado a través del conocimiento pedagógico, de contenido y ético ([[ethically-mediated-ai-tpack-china-2026|Chen et al. (2026)]]). El conocimiento ético canalizó además el efecto hacia delante, prediciendo tanto el conocimiento pedagógico (β = 0,353) como el de contenido (β = 0,269).
 
 ## Por qué importa en la educación con IA
 
@@ -123,3 +128,7 @@ El TPACK es el marco organizador del lado docente de la base de evidencia de est
 - [[human-ai-collaboration-design-education-rubric-2026]] — Evaluar la colaboración entre personas e IA en la educación en diseño: una rúbrica orientada a procesos basada en un marco AI-TPACK ampliado
 - [[capability-decision-model-teacher-readiness-2026]] — Modelo ordenado de preparación docente centrado en la capacidad y su advertencia sobre el solapamiento de constructos
 - [[digital-competence-ai-responsive-pedagogy-2026]] — Advertencia de una revisión de alcance: la dominancia de los marcos de competencia refleja en parte los descriptores de búsqueda, no la prevalencia en el campo
+- [[ethically-mediated-ai-tpack-china-2026]] — Hacia un nuevo marco AI-TPACK: la ética como mediadora integradora del conocimiento técnico sobre IA (Chen et al. 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Formación continua Intelligent-TPACK para profesorado universitario: ganancias resueltas por dimensión, la asistencia por encima de la implicación autopercibida
+- [[self-report-measures]] — Medidas autoinformadas: la confianza declarada y la conducta observada pueden divergir
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Formación continua Intelligent-TPACK para profesorado universitario: ganancias resueltas por dimensión, la asistencia por encima de la implicación autopercibida

@@ -1,7 +1,7 @@
 ---
 title: Calibración de la confianza
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-09T17:55:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -16,7 +16,7 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 translation_of: concepts/trust-calibration
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-09T01:55:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
 

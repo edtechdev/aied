@@ -1,7 +1,7 @@
 ---
 title: Simular estudiantes
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-10-02T22:23:27-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agentic-ai, teacher-role]
@@ -9,13 +9,17 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-10-02T08:36:43-04:00"
+source_updated: "2026-10-08T09:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -112,6 +116,8 @@ La simulación también va más allá de los aprendientes individuales para repr
 
 El trabajo de 2026 sobre habilidades duraderas invierte la dirección habitual de la simulación. En lugar de simular al estudiante para auditar un sistema, el sistema simula a los *compañeros de equipo* para evaluar al estudiante: un LLM ejecutivo genera todos los turnos de cada compañero de IA en una tarea grupal de 30 minutos, mantiene la rúbrica de puntuación y orienta la conversación para fabricar ocasiones en las que aparezca la habilidad objetivo ([[durable-skills-measurement-ai-teammates-2026|Globerson et al., 2026]]). En 373 conversaciones de 188 participantes, la orientación ajustada a la habilidad elevó la evidencia puntuable al 92,4% para la gestión de proyectos y al 85% para la resolución de conflictos, significativamente por encima de los agentes independientes sin restricciones, mientras que el evaluador de IA se calibró contra dos evaluadores humanos cuyo propio kappa interevaluador era de solo 0,45–0,64, un recordatorio útil de que el techo de un simulador lo fija el acuerdo al que pueden llegar las personas sobre el constructo.
 
+El entrenamiento contra un simulador también puede transferirse: el agente de aprendizaje por refuerzo de TutorLoop, entrenado sin conexión contra un estudiante simulado, se transfirió sin cambios a una nueva tarea real de aprendizaje sin reentrenamiento (N = 187), donde su retroalimentación más escasa pero mejor temporizada superó a la retroalimentación más densa ([[tutorloop-sensor-cognitive-feedback-2026|Xu y Zhang, 2026]]).
+
 ## Conceptos conectados
 
 - [[learners]] — Aprendientes: el paraguas de los conceptos del lado de quien aprende
@@ -128,6 +134,7 @@ El trabajo de 2026 sobre habilidades duraderas invierte la dirección habitual d
 - [[llm]]
 - [[learning-analytics]]
 - [[teacher-role]]
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
 
 ## Artículos conectados
 
@@ -160,3 +167,4 @@ El trabajo de 2026 sobre habilidades duraderas invierte la dirección habitual d
 - [[student-development-agent-risk-free-simulation-2025]] — predecir los resultados de desarrollo posteriores al curso de estudiantes en una plataforma multiagente sin exponerlos a la intervención
 - [[preservice-teachers-noticing-ai-simulations-2026]] — tres semanas de atención, interpretación y modelado de docentes en formación en una simulación de chatbot sobre el signo igual, y cómo el diseño orienta lo que notan
 - [[beagle-grounded-learner-emulation-2026]] — un simulador neurosimbólico que impone la estructura de aprendizaje autorregulado por vía arquitectónica y no por prompting, y que supera una prueba de Turing humana
+- [[tutorloop-sensor-cognitive-feedback-2026]] — Un tutor de aprendizaje por refuerzo entrenado con simulador se transfirió sin conexión a una nueva tarea real (Xu y Zhang 2026)

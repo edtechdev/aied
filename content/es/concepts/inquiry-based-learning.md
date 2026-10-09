@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje basado en la indagación
 created: "2026-09-28T21:10:00-04:00"
-updated: "2026-10-02T22:24:42-04:00"
+updated: "2026-10-09T17:40:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,13 +9,17 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-09T09:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 
@@ -60,6 +64,8 @@ La estructura del ABI, impulsada por preguntas y centrada en el proceso, es el h
 
 El [[productive-failure|fracaso productivo (FP)]] es el pariente más estructurado del aprendizaje basado en la indagación: quienes aprenden exploran problemas y generan soluciones *antes* de la instrucción directa, y después consolidan. Ambos comparten la premisa de que los intentos generados por quien aprende (incluso los fallidos) [[prior-knowledge|activan el conocimiento previo]] y lo preparan para aprender de la instrucción. La [[research-methods-aied|investigación]] sobre FP en la era de la IA afina cómo debería la IA andamiar la indagación sin cortocircuitarla: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derivan principios de diseño de IA para preservar el esfuerzo a través de la exploración del problema y la generación de soluciones; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] muestran que los tutores basados en LLM pueden dirigirse para retener respuestas y provocar múltiples intentos; las tareas de [[lukesova-clue-before-correction-2026|pista antes de la corrección]] ejemplifican un andamiaje basado en pistas (frente al directo) que mantiene al estudiantado haciendo el razonamiento. Esto conecta la indagación y el FP con el imperativo más amplio de que la IA no debe eliminar el [[desirable-difficulties|esfuerzo productivo]] mediante el cual se forma un aprendizaje duradero.
 
+En entornos de campo al aire libre el mismo imperativo se vuelve espacial: la IA generativa puede preestructurar lo que quienes aprenden advierten antes de que se encuentren con la evidencia, así que una secuencia que pone el campo primero y retiene la explicación generada hasta que se registran las observaciones e interpretaciones iniciales protege la indagación ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
 ## Conceptos conectados
 
 - [[problem-based-learning]]
@@ -77,6 +83,7 @@ El [[productive-failure|fracaso productivo (FP)]] es el pariente más estructura
 - [[higher-ed]]
 - [[k-12]]
 - [[productive-failure]] — Fracaso productivo
+
 ## Artículos conectados
 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT para el aprendizaje basado en la indagación en STEAM (revisión sistemática)
@@ -91,3 +98,4 @@ El [[productive-failure|fracaso productivo (FP)]] es el pariente más estructura
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Indagación guiada con apoyo de IA en fotosíntesis y respiración (formación del profesorado de ciencias)
 - [[ai-information-extraction-undergraduate-thesis-2026]] — Extracción de información impulsada por IA para apoyar la tesis de grado y el aprendizaje basado en la investigación (An et al. 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — Indagación asistida por IA en cuestiones sociocientíficas sobre el cambio climático
+- [[geoscience-field-learning-genai-2026]] — Un modelo instruccional que pone el campo primero e impide que la IA generativa preestructure lo que quienes aprenden advierten (Choi 2026)

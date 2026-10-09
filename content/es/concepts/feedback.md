@@ -1,13 +1,13 @@
 ---
 title: Retroalimentación
 created: "2026-09-25T03:54:18-04:00"
-updated: "2026-10-03T02:52:14-04:00"
+updated: "2026-10-09T17:55:00-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [clarity, pedagogical-promptbook]
 contributors: [editor]
