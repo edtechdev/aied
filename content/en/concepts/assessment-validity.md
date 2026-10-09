@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-02T14:30:18-04:00"
+updated: "2026-10-09T09:50:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -102,6 +102,7 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - **Agreement among LLM coders is consistency, not validity.** On an expert-labeled educational dialogue corpus, a cross-model agreement filter retained only 33 of 74 corpus-derived behavioral assertions and 11 of 48 construct-derived ones, and shared model errors survived the filter, so inter-model agreement cannot stand in for construct validity ([[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al., 2026]]).
 
 - **Exposure is measurable, and the remedy is sufficient evidence rather than maximum security.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] scored 53,915 assessment items by published format, supervision and mark weight and found most assessed marks resting on work whose authorship cannot be verified after submission; he argues programs need enough evidence of learning at key stages, not every unit made secure.
+- **A valid measure can still be unsafe to optimize.** Fine-tuning an LLM tutor against a rubric-style adaptivity metric raised the metric (+0.05 to +0.42) while blind expert ratings fell (4.46 to 3.03), because a metric that scores decisions independently is maximized by repeating the single best decision ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
 
 ## Connected Concepts
 
@@ -164,4 +165,4 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Student ratings of curricular alignment track item difficulty (rho = 0.762) rather than content (Vogt et al. 2026)
 
 - [[llm-grading-assistants-public-health-2026]] — Five-day repeat grading of identical submissions gave Krippendorff's alpha 0.625
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — AI Vulnerability Index: most assessed marks rest on unverifiable authorship, so validity rests on sufficient evidence at key stages rather than maximum security
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — AI Vulnerability Index: most assessed marks rest on unverifiable authorship, so validity rests on sufficient evidence at key stages rather than maximum security- [[llm-tutor-pedagogical-metric-degradation-2026]] — A pedagogical-adaptivity metric rose while blind expert ratings fell: measurement validity does not imply optimization validity (Domínguez Figaredo & Fernández De la Cruz 2026)

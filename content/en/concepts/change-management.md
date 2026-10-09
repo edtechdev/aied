@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-09T09:50:00-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -51,6 +51,8 @@ Change management in AI education carries both positive and negative implication
 
 **For [[administrator|administrators]] and [[educational-policy-ai|policymakers]]**, the evidence argues for participatory governance, infrastructure investment, and capacity-building over aspirational strategy documents, translating national policy into concrete instructor support rather than issuing top-down mandates. **For instructors**, change management means moving from adopter to inquiry-driven experimenter, engaging [[pedagogical-partnerships|students as partners]], and anchoring reform in durable pedagogical principles rather than tools that may be obsolete within months — with the caveat that professional development must target a full design cycle (needs assessment, feedback) rather than tool use alone, as the [[dot-framework-survey-2026|DOT framework survey]] demonstrates.
 
+An institutional case study traces a decade-long diffusion arc in undergraduate mathematics, moving from individual initiative and peer workshops to joint faculty licensing and central funding ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
+
 ## Connections to other concepts
 
 Change management is the institutional complement to classroom-level integration. It operationalizes the systemic conditions — governance, faculty development, stakeholder [[student-engagement|engagement]], and equity safeguards — that allow pedagogical innovation to take hold, connecting [[educational-policy-ai]] policy design to [[governance]], [[educational-development]], and [[equity-in-ai-education]] outcomes.
@@ -83,3 +85,4 @@ Change management is the institutional complement to classroom-level integration
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — cross-system fieldwork on how implementation and teacher actions decide whether an AI product helps
 - [[dot-framework-survey-2026]] — survey evidence that professional development must cover a full design cycle rather than tool use alone
+- [[flipped-classroom-ai-assessment-math-2026]] — A decade-long diffusion arc from individual initiative to central funding in undergraduate mathematics (Law 2026)

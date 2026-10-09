@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-04T05:15:29-04:00"
+updated: "2026-10-09T09:50:00-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -68,6 +68,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - **The scoring rule is part of the instrument.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] runs four knowledge-tracing update rules over the same ASSISTments 2012–13 event sequences, differing only in how they score hint-assisted rows, and preregisters the comparisons behind a fence that withholds the confirmatory half of the students until the registration file is present. Crediting any completion barely beats a skill-difficulty constant (pooled AUC 0.604 vs. 0.595 across 985,813 scored events) and declares 93.9 percent of student–skill pairs mastered against 72.8 percent under a rule that reads assisted rows as failed first attempts (0.658) — the general lesson being that a mastery label is defined by the evidence rule, not by the log.
 - **Report model ability as a calibrated level, not only as accuracy.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] map 624 expert-annotated items onto named proficiency levels using 2,050 learner responses, and find frontier models exceed the calibrated ceiling — a limit a percentage hides.
 
+- **A scoring rule can be gamed by the model it trains.** An adaptivity metric maximized by repeating one best decision shows that benchmark design should publish the argmax, score adaptation as a difference, and report above-random baselines ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
 
 ## Connected Concepts
 
@@ -101,3 +102,4 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 - [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
+- [[llm-tutor-pedagogical-metric-degradation-2026]] — Eight design principles for AI-tutor benchmarks, derived from a metric that was optimized into repetition (Domínguez Figaredo & Fernández De la Cruz 2026)

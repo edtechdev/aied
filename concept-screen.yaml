@@ -4173,3 +4173,154 @@
   - quantitative-research
   - self-directed-learning
   reason: 'Three candidates qualified. assessment (grep "multimodal" and "modes" -> 0 hits, so the page listed redesign moves that all stayed inside the print-text frame; it gained the construct definition, the two effects and the two dimensions practice added). teacher-ai-competency (grep "multimodal assessment" -> 0 hits while the page recorded a meta-analytic estimate where attitudes and values were weakest; the new bullet is a domain-specific confirmation with a measured effect on the same split). equity-in-ai-education (grep "visual bias" -> 0 hits, and the added bullet carries the authors'' own warning that ignoring generated-image norms automates inequality). Rejected: ai-literacy already carries six multimodal mentions and the critical-use point is now made where the bias lives; authentic-assessment and formative-assessment are mechanisms the program used rather than findings it produced; multimodal describes the modality concept itself and its page already links assessment 18 times; scaffolding, professional-training, collaborative-learning, sociocultural-learning, generative-ai, prompt-engineering, educational-measurement, self-report-measures and teacher-role are facets or the study''s setting and instrument. Confidence high on the construct and the effects: peer-reviewed, open access, 28 complete responses, and the value finding rests on non-significant results under a corrected alpha of .006, which the authors report as stability rather than as equivalence.'
+
+
+- article: llm-tutor-pedagogical-metric-degradation-2026
+  date: '2026-10-09'
+  integrated:
+  - assessment-validity
+  - benchmark
+  no_change:
+  - adaptive-learning
+  - ai-ed-evaluation
+  - educational-measurement
+  - icap-framework
+  - intelligent-tutoring
+  - learning-sciences
+  - learning-theories
+  - llm
+  - llm-training-and-fine-tuning
+  - pedagogical-agent
+  - qualitative-research
+  - scaffolding
+  - teacher-role
+  reason: 'Two candidates qualified. assessment-validity (grep ''optimiz''/''Goodhart'' -> 0 hits across 4,794 words; the page carried measurement/construct validity but nothing on optimization validity) gained the metric-rose-ratings-fell finding. benchmark (grep ''design principles''/''argmax'' -> 0 hits) gained the scoring-rule-can-be-gamed point. Rejected with grep evidence: adaptive-learning and intelligent-tutoring already carry adaptivity and tutor-audit content (grep ''adaptiv'' in intelligent-tutoring -> 21 hits); llm-training-and-fine-tuning already carries LoRA and weight-edit findings (grep ''LoRA'' -> 10 hits); ai-ed-evaluation is the general evaluation page and the metric-vs-expert divergence is filed on assessment-validity; educational-measurement, icap-framework, learning-sciences, learning-theories, pedagogical-agent, qualitative-research, scaffolding and teacher-role are facets or the study''s setting/instruments.'
+
+- article: system-one-llm-knowledge-tracing-2026
+  date: '2026-10-09'
+  integrated:
+  - knowledge-tracing
+  no_change:
+  - ai-ed-evaluation
+  - ai-education
+  - assessment-validity
+  - benchmark
+  - educational-measurement
+  - educational-nlp
+  - educational-technology-developers
+  - ethics
+  - generative-ai
+  - learning-analytics
+  - llm
+  - open-source
+  - student-modeling
+  reason: 'One candidate qualified. knowledge-tracing (grep ''cold''/''few learners''/''logged'' -> 0 hits) carried a capability caveat about off-the-shelf LLMs barely beating a trivial baseline, but nothing on cold-start tracing; the weave adds the single-pass LLM result (.706 AUC with no target-platform data). Rejected with grep evidence: learning-analytics (grep ''cold start'' -> 0 hits) and student-modeling (grep ''frozen'' -> 0 hits, 17 ''LLM'' hits) already cover LLM learner modelling; educational-measurement already carries calibration and ECE evidence; llm, generative-ai, ai-education, benchmark, ai-ed-evaluation, educational-nlp, ethics, open-source and educational-technology-developers are facets or the evaluation protocol.'
+
+- article: ilm-storytelling-educational-tool-2026
+  date: '2026-10-09'
+  integrated:
+  - educational-nlp
+  - knowledge-graph
+  no_change:
+  - ai-ed-evaluation
+  - ai-education
+  - assessment-validity
+  - automated-assessment
+  - automated-question-generation
+  - culturally-relevant-pedagogy
+  - feedback
+  - generative-ai
+  - human-in-the-loop-ai
+  - llm
+  - multilingual-learning
+  - rag
+  - storytelling-in-education
+  reason: 'Two candidates qualified. educational-nlp (grep ''Arabic''/''question generation''/''retrieval'' -> 0 hits) gained the Arabic NLP + retrieval-grounded question-generation finding. knowledge-graph (grep ''Arabic''/''story'' -> 0 hits) gained the story-scoped graph built with a four-model NER ensemble. Rejected with grep evidence: automated-question-generation (grep ''Arabic'' -> 0 hits, 4 ''MCQ'') already carries the generation machinery generically; rag already carries retrieval-augmented generation; storytelling-in-education is a thin page the tool illustrates rather than extends; multilingual-learning, human-in-the-loop-ai, feedback, automated-assessment, assessment-validity and the remaining facets are the system''s components or setting.'
+
+- article: genai-pisa-decline-countries-2026
+  date: '2026-10-09'
+  integrated:
+  - educational-policy-ai
+  no_change:
+  - assessment-validity
+  - cognitive-offloading
+  - conversational-ai
+  - educational-measurement
+  - equity-in-ai-education
+  - generative-ai
+  - llm
+  - quantitative-research
+  - self-report-measures
+  - teacher-role
+  reason: 'One candidate qualified. educational-policy-ai (grep ''chatbot''/''rollout'' -> 0 hits; ''PISA'' -> 1 hit) gained the policy read that wider chatbot access is not a benefit in itself, plus the ecological caution. Rejected with grep evidence: cognitive-offloading already carries effort-based offloading across 21 ''effort'' hits and a country-level correlation is a weaker class of evidence than its individual-level mechanisms; assessment-validity already carries the level-vs-change problem; equity-in-ai-education (grep ''converg'' -> 0 hits) could take the convergence finding but it is the same single measurement as the policy entry; self-report-measures, educational-measurement, quantitative-research, conversational-ai, generative-ai, llm and teacher-role are facets or instruments.'
+
+- article: geoscience-field-learning-genai-2026
+  date: '2026-10-09'
+  integrated:
+  - inquiry-based-learning
+  no_change:
+  - accessibility
+  - agency
+  - assessment
+  - cognitive-offloading
+  - conversational-ai
+  - design-based-research
+  - equity-in-ai-education
+  - evaluative-judgment
+  - experiential-learning
+  - generative-ai
+  - human-ai-collaboration
+  - k-12
+  - llm
+  - misconceptions
+  - multimodal
+  - process-oriented-assessment
+  - research-methods-aied
+  - scaffolding
+  - situated-learning
+  - teacher-education
+  - teacher-role
+  - theory-development-aied
+  - trust-calibration
+  reason: 'One candidate qualified. inquiry-based-learning (grep ''field''/''geoscience'' -> 0 hits) gained the field-first sequence that keeps GenAI from pre-structuring what learners notice. Rejected with grep evidence: human-ai-collaboration already states the design response ''make the distribution of epistemic work explicit'' (grep ''authority'' -> 7 hits, ''epistemic'' -> 8); cognitive-offloading already carries effort-based offloading; the paper is a Hypothesis-and-Theory article with no data, so its remaining concept links (agency, experiential-learning, situated-learning, process-oriented-assessment, design-based-research and the facets) are the model''s vocabulary rather than an empirical finding the pages lack.'
+
+- article: flipped-classroom-ai-assessment-math-2026
+  date: '2026-10-09'
+  integrated:
+  - change-management
+  no_change:
+  - academic-integrity
+  - active-learning
+  - ai-ed-evaluation
+  - ai-feedback-quality
+  - anxiety-and-stress
+  - assessment
+  - assessment-validity
+  - authentic-assessment
+  - automated-assessment
+  - automated-question-generation
+  - bias-mitigation
+  - critical-thinking
+  - equity-in-ai-education
+  - feedback
+  - generative-ai
+  - human-ai-collaboration
+  - inclusive-learning
+  - learning-gains
+  - limitations-in-aied-research
+  - llm
+  - math-education
+  - misconceptions
+  - online-teaching-and-learning
+  - oral-assessment
+  - pedagogy
+  - problem-solving
+  - qualitative-research
+  - quantitative-research
+  - research-methods-aied
+  - self-directed-learning
+  - self-report-measures
+  - student-engagement
+  - teacher-role
+  - video-education
+  reason: 'One candidate qualified. change-management (grep ''diffusion''/''funding'' -> 0 hits, 30 ''institution'' hits) gained the decade-long diffusion arc from individual initiative to central funding. Rejected with grep evidence: automated-assessment (grep ''grading platform'' -> 0 hits) already carries AI grading at institutional scale, so this is another instance; oral-assessment already states the scale ceiling as the design constraint (grep ''scalab'' -> 1 hit) so the ~50-student ceiling is a duplicate; ai-feedback-quality already carries feedback timeliness; the evaluation rests on self-report/institutional indicators, so assessment-validity and self-report-measures are the study''s measurement rather than a new claim, and the remaining links are facets, pedagogy or the study''s setting.'

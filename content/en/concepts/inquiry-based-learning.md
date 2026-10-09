@@ -1,7 +1,7 @@
 ---
 title: Inquiry-Based Learning
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-10-09T09:50:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -50,6 +50,8 @@ IBL's question-driven, process-focused structure is the natural home for product
 
 [[productive-failure|Productive failure (PF)]] is the most structured cousin of inquiry-based learning: learners explore problems and generate solutions *before* direct instruction, then consolidate. Both share the premise that learner-generated attempts (even failed ones) [[prior-knowledge|activate prior knowledge]] and prepare learners to learn from instruction. The AI-era PF [[research-methods-aied|research]] sharpens how AI should scaffold inquiry without short-circuiting it: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive AI design principles for preserving struggle through problem exploration and solution generation; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show LLM tutors can be steered to withhold answers and elicit multiple attempts; [[lukesova-clue-before-correction-2026|clue-before-correction]] tasks exemplify clue-based (vs. direct) scaffolding that keeps learners doing the reasoning. These connect inquiry and PF to the broader imperative that AI must not remove the [[desirable-difficulties|productive struggle]] through which durable learning forms.
 
+In outdoor field settings the same imperative becomes spatial: GenAI can pre-structure what learners notice before they encounter the evidence, so a field-first sequence that withholds generated explanation until observations and initial interpretations are recorded protects the inquiry ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
 ## Connected Concepts
 
 - [[problem-based-learning]]
@@ -81,3 +83,4 @@ IBL's question-driven, process-focused structure is the natural home for product
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in photosynthesis & respiration (science teacher education)
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
+- [[geoscience-field-learning-genai-2026]] — A field-first instructional model that keeps GenAI from pre-structuring what learners notice (Choi 2026)
