@@ -26,7 +26,7 @@ ai_assist:
 1. With no target-platform data, Jev0-shot reaches .706 mean AUC across seven datasets, above the best of 28 deep KT models trained on 8 learners (.689) and above Thinking-KT (.650) on all seven.
 2. Adding 64 KC-matched examples and a similar-learner statistic (JevKT) lifts the mean to .722 and beats deep KT by +.033 AUC at N=8 on 7/7 datasets.
 3. JevKT stays significantly ahead up to 16 training learners and ahead on average up to 64; supervised deep KT catches up between 64 and 128 learners.
-4. One Jev pass costs $886 per million predictions at 325 ms, about 1/5 of Thinking-KT's $4,360; Jev0-shot costs $44 and beats Thinking-KT at roughly 1/100 its cost.
+4. One Jev pass costs \$886 per million predictions at 325 ms, about 1/5 of Thinking-KT's \$4,360; Jev0-shot costs \$44 and beats Thinking-KT at roughly 1/100 its cost.
 5. The single-pass probability is far better calibrated: Jev0-shot ECE .084 against Thinking-KT's .253 and LOKT's .209, whose ten-sample vote frequencies can take only eleven values.
 6. For new learners the lead holds from their first interactions (.714 vs .691 at positions 2-5), but on unseen items with all learners logged deep KT is ahead (.729 vs JevKT's .713).
 7. Three other LLMs behind the same typed interface — GPT-4o-mini (.680), Gemini-2.5-Flash-Lite (.670) and DeepSeek-V4-Flash (.626) — fall below Jev on all seven datasets.
@@ -50,9 +50,9 @@ JevKT combines the model's prior, which Jev0-shot measures alone, with evidence 
 ## What this means for practice
 
 - **Instructors.** Treat a single-pass System-One probability as usable when a course has few or no logged learners: Jev0-shot reaches .706 with no target-platform data, and the paper's own [[ethics]] note still asks that predictions support, not replace, instructor decisions.
-- **[[educational-technology-developers|Educational technology developers]].** Do not wait for a training corpus before shipping a prediction: a new course can be served immediately at $44 per million predictions, whereas deep KT must be retrained for every course and platform.
+- **[[educational-technology-developers|Educational technology developers]].** Do not wait for a training corpus before shipping a prediction: a new course can be served immediately at \$44 per million predictions, whereas deep KT must be retrained for every course and platform.
 - **Assessment designers.** Budget for the crossover, not the headline: the System-One lead is significant up to 16 learners and gone by 128, so plan to switch to a supervised model once a course accumulates enough learners.
-- **Researchers.** Report [[educational-measurement|calibration]] alongside AUC: Thinking-KT's ten-sample vote frequencies produce an ECE of .253 against .084 for a single Jev pass, and a System-Two pipeline can cost $4,360 per million predictions while losing on all seven datasets.
+- **Researchers.** Report [[educational-measurement|calibration]] alongside AUC: Thinking-KT's ten-sample vote frequencies produce an ECE of .253 against .084 for a single Jev pass, and a System-Two pipeline can cost \$4,360 per million predictions while losing on all seven datasets.
 
 ## Limitations
 
@@ -60,7 +60,7 @@ JevKT combines the model's prior, which Jev0-shot measures alone, with evidence 
 - Jev's training data are unknown; the contamination checks find no evidence of memorization but cannot rule it out, and only one Jev version (jev-1.13-20260917) is available, so drift across versions cannot be measured.
 - The prompted System-Two baselines run on Qwen3.5-9B, so the conclusion that reasoning does not help applies to this backbone; a larger reasoning model may behave differently.
 - Deep KT baselines use default hyper-parameters in the main comparison (a validation-tuned run does not change the conclusion), and F1 is threshold-sensitive on the low-base-rate ASSIST17 dataset.
-- Cost comparisons favor the deep KT baselines: DLKT runs at under $1 per million predictions on a rented RTX 3090, but its limit is data, since it must be retrained for every course and needs logged learners to train on.
+- Cost comparisons favor the deep KT baselines: DLKT runs at under \$1 per million predictions on a rented RTX 3090, but its limit is data, since it must be retrained for every course and needs logged learners to train on.
 
 ## Citation
 
