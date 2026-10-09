@@ -1612,6 +1612,8 @@ A design-based counterexample treats competency as situational rather than a run
 
 - **Attendance predicts gains where the feeling of participating does not.** In the same six-month program, attendance rate predicted the competency gain (β = .407, p = .001) while self-perceived participation did not (β = .049, p = .692), and discipline, teaching experience and professional title explained little; the authors read attendance as behavioral investment and perceived participation as surface-level engagement ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]).
 
+- **Values lag skills in a domain-specific program too.** In a year-long Hong Kong program with 30 English teachers, knowledge of multimodal assessment strategies rose from 3.13 to 4.15 out of 5 (partial η² = 0.571) and competence in supporting students from 3.05 to 3.98 (0.482), both significant, while every value subdomain stayed statistically flat under a Bonferroni-corrected alpha of .006. The teachers attributed the gains to in-school co-planning and cross-school cluster meetings rather than the workshops alone ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
+
 ## Teacher AI competency and the transforming teacher role
 
 As AI takes over routine instructional and assessment tasks, the teacher's distinctive contribution shifts toward orchestration, judgment, and relationship: deciding when and how AI is used, scaffolding [[agency|student agency]] and critical use, ensuring equity, and providing the social and emotional support AI cannot. This reframes teacher competency around [[human-in-the-loop-ai|human-in-the-loop]] oversight, [[ethics|ethical judgment]], and [[self-regulated-learning|supporting self-regulated learning]] — connecting to [[teacher-role]] and [[cognitive-offloading|guarding against over-reliance]].
@@ -1653,6 +1655,7 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodal assessment literacy: a year-long program where knowledge and competence moved and values did not
 - [[teacher-ai-literacy-professional-development-meta-2026]]
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: half a standard deviation of gain, and negative gains that read as recalibration — The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis
 
@@ -4559,6 +4562,8 @@ IBL's question-driven, process-focused structure is the natural home for product
 
 [[productive-failure|Productive failure (PF)]] is the most structured cousin of inquiry-based learning: learners explore problems and generate solutions *before* direct instruction, then consolidate. Both share the premise that learner-generated attempts (even failed ones) [[prior-knowledge|activate prior knowledge]] and prepare learners to learn from instruction. The AI-era PF [[research-methods-aied|research]] sharpens how AI should scaffold inquiry without short-circuiting it: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive AI design principles for preserving struggle through problem exploration and solution generation; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show LLM tutors can be steered to withhold answers and elicit multiple attempts; [[lukesova-clue-before-correction-2026|clue-before-correction]] tasks exemplify clue-based (vs. direct) scaffolding that keeps learners doing the reasoning. These connect inquiry and PF to the broader imperative that AI must not remove the [[desirable-difficulties|productive struggle]] through which durable learning forms.
 
+In outdoor field settings the same imperative becomes spatial: GenAI can pre-structure what learners notice before they encounter the evidence, so a field-first sequence that withholds generated explanation until observations and initial interpretations are recorded protects the inquiry ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
 ## Connected Concepts
 
 - [[problem-based-learning]]
@@ -4590,6 +4595,7 @@ IBL's question-driven, process-focused structure is the natural home for product
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in photosynthesis & respiration (science teacher education)
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
+- [[geoscience-field-learning-genai-2026]] — A field-first instructional model that keeps GenAI from pre-structuring what learners notice (Choi 2026)
 
 ---
 
@@ -11257,6 +11263,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 **A further caveat concerns the evidence rule that feeds the update.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ran four update rules over identical ASSISTments 2012–13 event sequences, differing only in how they score rows completed with help, on a confirmatory half of 12,716 students and 985,813 scored events. Reading a hinted or retried row as a failed first attempt predicted later unaided performance best (pooled AUC 0.658); crediting any completion predicted it worst (0.604), barely above a constant that knows only skill difficulty (0.595). The same choice governs the mastery count: crediting completions declared 93.9% of 113,428 student–skill pairs mastered against 72.8% under the strict rule, and the pairs the lenient rule declared ahead of strict went on to 70.9% unaided accuracy against 85.7% where the two agreed, below the 0.744 base rate. A traced state is therefore partly a function of the scoring convention rather than of the learner alone, so a mastery estimate consumed by an [[adaptive-learning|adaptive]] gate should carry the rule that produced it.
 
 **A capability caveat: general language models trace knowledge barely above a trivial baseline.** [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et al. (2026)]] released FoundationalASSIST, which restores the full question text, the responses students actually gave and their distractor choices that earlier tracing datasets discarded, and tested four frontier [[llm|LLMs]] as zero-shot tracers. The best, GPT-OSS-120B, reached 56.2 percent against the 51.3 percent an always-predict-correct rule already scores (AUC-ROC 0.559), with no improvement from longer histories, and Llama-3.3-70B proved right 85.4 percent of the time a student answered correctly but only 12.6 percent when they erred — evidence that an off-the-shelf model traces optimism rather than understanding, so a tracer's apparent skill must be read against the trivial baseline its task permits.
+- **A single-pass LLM can trace knowledge before any learners are logged.** Queried as one typed question with no target-platform data, Jev reached a mean AUC of .706, above the best of 28 deep tracing models trained on 8 learners (.689) and ahead until supervised tracing catches up at 64-128 learners ([[system-one-llm-knowledge-tracing-2026|Lee & Park, 2026]]).
 
 ## Connected Concepts
 
@@ -11291,6 +11298,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantically grounded tracing with KC-calibrated states, used as an RL environment for recommendation
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
 - [[crediting-assisted-work-inflates-mastery-2026]] — Which evidence rule decides a mastery claim (Srivastava 2026)
+- [[system-one-llm-knowledge-tracing-2026]] — A single-pass LLM traces knowledge above deep models trained on 8 learners, at a fraction of the cost (Lee & Park 2026)
 
 ---
 
@@ -15960,6 +15968,7 @@ The constructive question in the knowledge base's assessment literature is not "
 - **Authentic and process-based tasks** that make AI use visible and assessed. [[authentic-assessment]] — examining student performance on worthy, realistic tasks — is the leading response to AI's challenge: any task an [[llm]] can credibly simulate loses its validity, so authenticity must be redesigned around real-time [[collaborative-learning|collaboration]], digital and social contribution, and individual meaning-making. This connects to [[zhan-boud-du-authentic-assessment-scoping-review-2025|design frameworks for authentic assessment]], [[authentic-products-authenticated-processes-2026|authentic products and authenticated processes]], and [[tool-invariant-framework-agentic-ai|tool-invariant assessment of process]].
 - **Responsible assessment design** grounded in validity evidence ([[responsible-assessment-ai-era-stanford-2026]])
 - **Task-level AI permissions derived from assessment targets:** [[mccorkle-aligned-genai-course-policy-2025|McCorkle (2025)]] shows the assessment-design work that precedes an [[educational-policy-ai|AI policy]] — inventorying every task in a project, specifying what is being assessed and against which objective, and permitting or prohibiting AI per task on that basis (brainstorming and image curation allowed; composing learning objectives and slide design not). The same alignment exercise doubles as a check on the inference the assessment supports, because it forces the instructor to name the performance that a grade is meant to warrant ([[assessment-validity]]).
+- **Assessment that goes beyond the linguistic mode:** Jiang et al. (2026) define multimodal assessment literacy for second language teachers as knowledge, value and competence for tasks that elicit responses across linguistic, visual, aural, gestural and spatial modes. A year-long program with 30 Hong Kong English teachers raised knowledge of assessment strategies from 3.13 to 4.15 out of 5 (partial η² = 0.571) and competence in supporting students from 3.05 to 3.98 (0.482), while all three value subdomains stayed flat. The teachers' own experience added two dimensions to the framework: sustaining the practice against competing curricular priorities, and mobilizing GenAI critically ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al. (2026)]]).
 - **Coauthorship and declaration** as part of the assessment contract
 - **Production as a competency** — evaluating learners' ability to direct tools and produce professional-standard work ([[competency-based-education-genai-production-2026]])
 - **Assessing the interaction process, not just the artifact** — the [[assessing-student-drive-framework-2025|DRIVE framework]] (Directive Reasoning Interaction + Visible Expertise) treats the quality of a student's *engagement with GenAI* as the assessed construct. It distinguishes surface consumption from deep, reflective interaction by looking at whether students steer prompts strategically (DRI) and integrate and develop their own disciplinary ideas through the exchange (VE), grounding process-focused criteria in theories of [[self-directed-learning]] and cognitive engagement along the lines of the [[icap-framework|ICAP]] hierarchy. This makes DRIVE an example of *AI-mediated authentic assessment* — a rubric for evaluating how learners partner with GenAI rather than a detection tool.
@@ -15999,6 +16008,7 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 - [[speech-and-voice-technologies]]
 - [[peer-assessment]]
 ## Connected Articles
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — A year-long program that defines multimodal assessment literacy and measures what moved, and what did not
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[mccorkle-aligned-genai-course-policy-2025]] — Task-level AI permissions derived from what is assessed (McCorkle 2025)
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
@@ -18031,6 +18041,7 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - **Agreement among LLM coders is consistency, not validity.** On an expert-labeled educational dialogue corpus, a cross-model agreement filter retained only 33 of 74 corpus-derived behavioral assertions and 11 of 48 construct-derived ones, and shared model errors survived the filter, so inter-model agreement cannot stand in for construct validity ([[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al., 2026]]).
 
 - **Exposure is measurable, and the remedy is sufficient evidence rather than maximum security.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] scored 53,915 assessment items by published format, supervision and mark weight and found most assessed marks resting on work whose authorship cannot be verified after submission; he argues programs need enough evidence of learning at key stages, not every unit made secure.
+- **A valid measure can still be unsafe to optimize.** Fine-tuning an LLM tutor against a rubric-style adaptivity metric raised the metric (+0.05 to +0.42) while blind expert ratings fell (4.46 to 3.03), because a metric that scores decisions independently is maximized by repeating the single best decision ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
 
 ## Connected Concepts
 
@@ -18093,7 +18104,7 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Student ratings of curricular alignment track item difficulty (rho = 0.762) rather than content (Vogt et al. 2026)
 
 - [[llm-grading-assistants-public-health-2026]] — Five-day repeat grading of identical submissions gave Krippendorff's alpha 0.625
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — AI Vulnerability Index: most assessed marks rest on unverifiable authorship, so validity rests on sufficient evidence at key stages rather than maximum security
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — AI Vulnerability Index: most assessed marks rest on unverifiable authorship, so validity rests on sufficient evidence at key stages rather than maximum security- [[llm-tutor-pedagogical-metric-degradation-2026]] — A pedagogical-adaptivity metric rose while blind expert ratings fell: measurement validity does not imply optimization validity (Domínguez Figaredo & Fernández De la Cruz 2026)
 
 ---
 
@@ -20383,6 +20394,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - **The scoring rule is part of the instrument.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] runs four knowledge-tracing update rules over the same ASSISTments 2012–13 event sequences, differing only in how they score hint-assisted rows, and preregisters the comparisons behind a fence that withholds the confirmatory half of the students until the registration file is present. Crediting any completion barely beats a skill-difficulty constant (pooled AUC 0.604 vs. 0.595 across 985,813 scored events) and declares 93.9 percent of student–skill pairs mastered against 72.8 percent under a rule that reads assisted rows as failed first attempts (0.658) — the general lesson being that a mastery label is defined by the evidence rule, not by the log.
 - **Report model ability as a calibrated level, not only as accuracy.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] map 624 expert-annotated items onto named proficiency levels using 2,050 learner responses, and find frontier models exceed the calibrated ceiling — a limit a percentage hides.
 
+- **A scoring rule can be gamed by the model it trains.** An adaptivity metric maximized by repeating one best decision shows that benchmark design should publish the argmax, score adaptation as a difference, and report above-random baselines ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
 
 ## Connected Concepts
 
@@ -20416,6 +20428,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 - [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
+- [[llm-tutor-pedagogical-metric-degradation-2026]] — Eight design principles for AI-tutor benchmarks, derived from a metric that was optimized into repetition (Domínguez Figaredo & Fernández De la Cruz 2026)
 
 ---
 
@@ -20991,6 +21004,8 @@ A UK systematic review adds a sectoral layer to the same gap: infrastructure inv
 
 **Claims that travel further than their qualifications.** A pilot announcement is a policy instrument too, and its reporting standards are part of the policy. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et al. (2026)]] analyze the September 2026 El Salvador episode in which an AI-tutoring pilot in 171 public schools was reported as reaching results comparable to Germany and Sweden: against the German PISA 2022 [[math-education|mathematics]] average, the top 5.5% of the national achievement distribution would have matched the benchmark with no learning gain at all, and the pilot's assessment covered 7.0 students per school against 25.4 in the national survey the same year, so the published evidence cannot exclude selection as the explanation. Their proposal is a six-item reporting standard — the participating schools' baseline, the sampling protocol (eligible students, assessed students, identification rule, participation rate), disaggregated scores with standard errors, the operational date of each reform component, overlap with the representative national sample, and the qualification stated in the same document, post or paragraph as the claim — motivated by the disclosure arithmetic of the announcement itself: the World Bank post carrying the claim recorded about 441,000 views against about 11,000 for the post carrying the qualification four places later in the same thread. The policy lesson is that where a system uses school-level results as evidence about itself, the format of disclosure decides which statement becomes the public fact.
 
+A country-level analysis of PISA 2022-2025 found that countries with higher generative-AI use showed larger declines in reading and mathematics, an association that disappeared once prior performance was controlled ([[genai-pisa-decline-countries-2026|Guerra & Aslanov, 2026]]). The authors read it as a caution that wider chatbot access should not be treated as a benefit in itself, and call for rollouts paired with longitudinal evaluation.
+
 ### Policy vs. governance
 
 Policy and governance are closely related but distinct, and keeping them apart matters for understanding the knowledge base's research.
@@ -21061,6 +21076,7 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading: grades changed undetected, and the policy-level response (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — 130 governance indicators for authenticating assessment, and the external pressure reform needs (Coates, Croucher & Calderon 2025)
 - [[genai-use-changing-institutional-policy-physics-2026]] — Policy tier versus task design: what students used GenAI for across three physics assessments (Quince & Faulconer 2026)
+- [[genai-pisa-decline-countries-2026]] — Higher country-level generative-AI use tracked larger PISA 2022-2025 declines, a correlation that vanished after controlling for prior performance (Guerra & Aslanov 2026)
 
 ---
 
@@ -21244,6 +21260,8 @@ Change management in AI education carries both positive and negative implication
 
 **For [[administrator|administrators]] and [[educational-policy-ai|policymakers]]**, the evidence argues for participatory governance, infrastructure investment, and capacity-building over aspirational strategy documents, translating national policy into concrete instructor support rather than issuing top-down mandates. **For instructors**, change management means moving from adopter to inquiry-driven experimenter, engaging [[pedagogical-partnerships|students as partners]], and anchoring reform in durable pedagogical principles rather than tools that may be obsolete within months — with the caveat that professional development must target a full design cycle (needs assessment, feedback) rather than tool use alone, as the [[dot-framework-survey-2026|DOT framework survey]] demonstrates.
 
+An institutional case study traces a decade-long diffusion arc in undergraduate mathematics, moving from individual initiative and peer workshops to joint faculty licensing and central funding ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
+
 ## Connections to other concepts
 
 Change management is the institutional complement to classroom-level integration. It operationalizes the systemic conditions — governance, faculty development, stakeholder [[student-engagement|engagement]], and equity safeguards — that allow pedagogical innovation to take hold, connecting [[educational-policy-ai]] policy design to [[governance]], [[educational-development]], and [[equity-in-ai-education]] outcomes.
@@ -21276,6 +21294,7 @@ Change management is the institutional complement to classroom-level integration
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — cross-system fieldwork on how implementation and teacher actions decide whether an AI product helps
 - [[dot-framework-survey-2026]] — survey evidence that professional development must cover a full design cycle rather than tool use alone
+- [[flipped-classroom-ai-assessment-math-2026]] — A decade-long diffusion arc from individual initiative to central funding in undergraduate mathematics (Law 2026)
 
 ---
 
@@ -21396,6 +21415,8 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - **Marginalized knowledges:** [[genai-minoritized-knowledges-disability|Research on minoritized knowledges]] examines how generative AI marginalizes non-dominant knowledge systems and disability perspectives in [[higher-ed|higher education]].
 - **[[curriculum-design|Curriculum]] diversification:** Teachers increasingly use LLMs to diversify curriculum materials (Wang et al., 2025, found 78% did so), yet AI-curated reading lists still underrepresent BIPOC authors, and [[stem-education|STEM]] [[intelligent-tutoring|AI tutors]] default to Western-centric problem contexts.
 
+- **Generated imagery repeats dominant visual norms, which makes critical use a competency rather than an add-on.** Jiang et al. (2026) observe that GenAI image generation reproduces dominant multimodal norms such as visual bias, and warn that multimodal assessment which ignores this risks automating and reproducing inequalities; their framework for second language teachers therefore requires the competence to help students detect, evaluate and counter-narrate biased model outputs ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
+
 ## Outcome equity
 
 - **Differentiated impact:** AI tools may widen gaps if designed without an equity lens — [[genai-higher-education-systematic-review-2026|systematic reviews]] and [[ai-scoring-language-bias-physics|scoring-bias studies]] show uneven benefits and harms across learner groups. The pooled evidence of benefit carries the same boundary: [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026|Jing et al. (2026)]] estimate a moderate-to-large overall gain for undergraduates across 35 studies (g=0.53, 95% CI [0.48, 0.64]) while stating that inequitable access to high-cost tools is one of the risks those effect sizes cannot capture, and significant Egger's tests for academic performance and professional skills leave funnel-plot asymmetry and small-study effects unresolved.
@@ -21468,6 +21489,7 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[student-support-and-success]] — who support systems reach, and the risks of acting on a risk score
 
 ## Connected Articles
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — How GenAI visual bias enters multimodal assessment, and why counter-narrating it is a teacher competency
 - [[rented-self-decoupling-performance-becoming-2026]] — The rented self: rent paid in money, self and standards, and licenses that end at graduation
 - [[verified-study-materials-learning-gains-2026]] — Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course
 

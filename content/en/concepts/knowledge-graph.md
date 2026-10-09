@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-10-09T09:50:00-04:00"
+updated: "2026-10-09T09:25:11-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
@@ -47,8 +47,6 @@ Knowledge graphs are a recurring structural mechanism across the knowledge base'
 
 Recent research explores using [[llm|LLMs]] to automatically construct knowledge graphs from educational content. The [[xie-hillm-cd-2026|HiLLM-CD]] framework uses multi-agent LLM pipelines to generate exercise-concept links and hierarchical concept trees, reducing reliance on expert annotation. This connects to broader [[generative-ai]] applications in curriculum design and automated content organization, and to [[rag]] (retrieval-augmented generation), where graph-structured knowledge can improve retrieval quality over flat similarity search.
 
-- **Story-scoped graphs from Arabic narrative text.** ILM builds a knowledge graph from Stories of the Prophets with a four-model NER ensemble (agreement of two or more exact spans) and two-stage relation extraction, then keeps the graph synchronized when a narrative is edited ([[ilm-storytelling-educational-tool-2026|Mohammed, Serour & Lahnala, 2026]]).
-
 ## Relationship to other concepts
 
 Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curriculum-design]] (how to sequence it), and [[learning-analytics]] (extracting insights from student interaction data). They are foundational to [[intelligent-tutoring]] systems that need structured representations of educational domains. As AI agents become more common in education, knowledge graphs provide the domain structure that [[agentic-ai|agentic systems]] reason over — a pattern seen in [[quantum-education-its|ITAS]] and knowledge-gap-detection teaching assistants.
@@ -85,4 +83,3 @@ Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curr
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-driven cognitive diagnosis
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
-- [[ilm-storytelling-educational-tool-2026]] — A story-scoped knowledge graph built from Arabic narratives with a four-model NER ensemble (Mohammed, Serour & Lahnala 2026)
