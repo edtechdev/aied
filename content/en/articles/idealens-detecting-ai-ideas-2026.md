@@ -1,7 +1,7 @@
 ---
 title: "IdeaLens: Detecting AI Ideas in Long-form Writing"
-created: "2026-10-08T14:35:00-04:00"
-updated: "2026-10-08T15:10:00-04:00"
+created: "2026-10-09T00:23:28-04:00"
+updated: "2026-10-09T01:16:31-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [student-ai-interaction, metacognition]
