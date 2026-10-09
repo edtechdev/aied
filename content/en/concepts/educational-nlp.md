@@ -1,7 +1,7 @@
 ---
 title: Educational NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-02T07:37:41-04:00"
+updated: "2026-10-09T09:50:00-04:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
@@ -44,6 +44,8 @@ Natural language processing in education applies computational methods to the la
 - **Auditable coding by separating assertions from interpretation.** [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] replace single-label prompting with a schema of 221 human-readable assertions - 74 corpus-derived, 48 construct-derived, and 100 automatic word-presence checks - that a transparent classifier maps to the construct label, reaching macro-F1 0.673 and Cohen's κ 0.688 on the TalkMoves teacher-talk corpus against a published direct-prompting maximum of 0.61 macro-F1 and 0.58 κ, while trailing a fine-tuned RoBERTa-base classifier at 0.76. Requiring Krippendorff's α ≥ 0.5 kept only 33 of 74 corpus-derived assertions, and a words-only baseline scored 0.339 macro-F1, so the gain comes from learned behavioral assertions rather than keyword frequency.
 - **Concept tagging at scale.** [[srjudge-knowledge-concept-tagging-2026|Yang et al. (2026)]] split knowledge-concept tagging into a Select–Reason–Judge pipeline — a small model shortlists candidate concepts, the LLM reasons over the shortlist, then judges — lifting tagging accuracy on three benchmarks by shrinking the model's decision space.
 
+- **Arabic educational NLP with retrieval-grounded question generation.** ILM builds a story-scoped knowledge graph from Arabic narratives, then generates multiple-choice and open-ended comprehension questions whose answers an LLM judge scores only against retrieved passages ([[ilm-storytelling-educational-tool-2026|Mohammed, Serour & Lahnala, 2026]]).
+
 ### Connection to tutoring and measurement
 
 Educational NLP underpins both the analysis of learner language ([[student-modeling]], [[knowledge-tracing]]) and the generation of adaptive instructional content ([[intelligent-tutoring]], [[scaffolding]]). [[ai-generated-interactive-fiction-education-2026]] demonstrates NLP-driven content generation for learning, while [[zerkouk-comprehensive-review-its-2025]] situates NLP within the broader [[intelligent-tutoring]] landscape. As LLM-based analysis grows, [[rct]] and [[research-methods-aied]] frameworks matter for validating that NLP-derived insights genuinely improve learning. 
@@ -81,3 +83,4 @@ Model compression belongs to the same toolkit: a two-stage pipeline distills a f
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 - [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: selective-reasoning pipeline for fine-grained knowledge concept tagging
+- [[ilm-storytelling-educational-tool-2026]] — Arabic NLP, a story knowledge graph, and retrieval-grounded question generation for Islamic narratives (Mohammed, Serour & Lahnala 2026)

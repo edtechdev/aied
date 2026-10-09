@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-10-02T08:36:43-04:00"
+updated: "2026-10-09T09:50:00-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -51,6 +51,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 **A further caveat concerns the evidence rule that feeds the update.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ran four update rules over identical ASSISTments 2012–13 event sequences, differing only in how they score rows completed with help, on a confirmatory half of 12,716 students and 985,813 scored events. Reading a hinted or retried row as a failed first attempt predicted later unaided performance best (pooled AUC 0.658); crediting any completion predicted it worst (0.604), barely above a constant that knows only skill difficulty (0.595). The same choice governs the mastery count: crediting completions declared 93.9% of 113,428 student–skill pairs mastered against 72.8% under the strict rule, and the pairs the lenient rule declared ahead of strict went on to 70.9% unaided accuracy against 85.7% where the two agreed, below the 0.744 base rate. A traced state is therefore partly a function of the scoring convention rather than of the learner alone, so a mastery estimate consumed by an [[adaptive-learning|adaptive]] gate should carry the rule that produced it.
 
 **A capability caveat: general language models trace knowledge barely above a trivial baseline.** [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et al. (2026)]] released FoundationalASSIST, which restores the full question text, the responses students actually gave and their distractor choices that earlier tracing datasets discarded, and tested four frontier [[llm|LLMs]] as zero-shot tracers. The best, GPT-OSS-120B, reached 56.2 percent against the 51.3 percent an always-predict-correct rule already scores (AUC-ROC 0.559), with no improvement from longer histories, and Llama-3.3-70B proved right 85.4 percent of the time a student answered correctly but only 12.6 percent when they erred — evidence that an off-the-shelf model traces optimism rather than understanding, so a tracer's apparent skill must be read against the trivial baseline its task permits.
+- **A single-pass LLM can trace knowledge before any learners are logged.** Queried as one typed question with no target-platform data, Jev reached a mean AUC of .706, above the best of 28 deep tracing models trained on 8 learners (.689) and ahead until supervised tracing catches up at 64-128 learners ([[system-one-llm-knowledge-tracing-2026|Lee & Park, 2026]]).
 
 ## Connected Concepts
 
@@ -85,3 +86,4 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantically grounded tracing with KC-calibrated states, used as an RL environment for recommendation
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
 - [[crediting-assisted-work-inflates-mastery-2026]] — Which evidence rule decides a mastery claim (Srivastava 2026)
+- [[system-one-llm-knowledge-tracing-2026]] — A single-pass LLM traces knowledge above deep models trained on 8 learners, at a fraction of the cost (Lee & Park 2026)

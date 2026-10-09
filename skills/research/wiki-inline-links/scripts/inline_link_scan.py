@@ -352,6 +352,11 @@ AUTO_APPLY_DENYLIST = {
 REJECTED_HITS = []  # populated during a scan; reported so suppressed matches stay visible
 
 REJECT_PAIRS = {
+    # --- 2026-10-09, daily-scan batch: auto-applied links hand-reverted (one entry per revert) ---
+    ('diagnostics', 'learning-analytics'),            # model-output diagnostics, not learning analytics of students
+    ('self-check', 'self-assessment'),                # the model's own self-check, not student self-assessment
+    ('Scholarship of Teaching and Learning', 'ai-assisted-educational-research'),  # SoTL is a research practice, not AI-assisted research
+    ('families', 'parents-and-families'),             # statistical families (Benjamini-Hochberg), not households
     # --- 2026-10-08, benchmark and detector papers ---
     ('evaluating AI', 'ai-ed-evaluation'),      # instructors evaluating a tool, not the research practice
     ('ethics statement', 'ethics'),             # a paper's compliance section, not the ethics concept
