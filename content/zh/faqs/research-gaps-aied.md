@@ -1,7 +1,7 @@
 ---
 title: "关于教育中人工智能的研究文献有哪些值得注意的空白？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-09-22T19:50:48-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 45
 type: faq
 foundations: [limitations-in-aied-research]
@@ -12,7 +12,7 @@ research_method: [literature review]
 level: [higher ed]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-source_updated: "2026-09-19T06:28:59-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/research-gaps-aied
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

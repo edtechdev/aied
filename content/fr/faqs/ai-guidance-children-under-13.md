@@ -1,7 +1,7 @@
 ---
 title: "Comment les parents et les enseignants devraient-ils aborder l'IA avec les enfants de moins de 13 ans ?"
 created: "2026-09-22T19:16:30-04:00"
-updated: "2026-09-22T19:16:30-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 75
 type: faq
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-source_updated: "2026-09-17T03:00:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/ai-guidance-children-under-13
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

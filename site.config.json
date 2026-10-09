@@ -195,6 +195,11 @@
         "id": "deepseek/deepseek-v4.0-flash-0731",
         "since": "2026-08-12",
         "note": "previous default model, in use until 2026-09-11"
+      },
+      {
+        "id": "stepfun/step-5-preview:free",
+        "since": "2026-10-09",
+        "note": "model in use for the Spanish translation sync; drafting by the human editor"
       }
     ]
   },

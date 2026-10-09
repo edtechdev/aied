@@ -1,12 +1,12 @@
 ---
 title: "设计有效的教育人工智能软件有哪些最佳实践与技巧？"
 created: "2026-09-22T19:51:12-04:00"
-updated: "2026-09-22T19:51:12-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 weight: 64
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-source_updated: "2026-09-18T09:10:00-04:00"
+source_updated: "2026-10-02T08:21:34-04:00"
 translation_of: faqs/designing-educational-ai-software
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -14,6 +14,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

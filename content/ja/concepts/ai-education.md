@@ -1,7 +1,7 @@
 ---
 title: 教育におけるAI
 created: "2026-09-22T14:35:13-04:00"
-updated: "2026-10-03T02:52:43-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,13 +13,17 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-09-23T09:53:41-04:00"
+source_updated: "2026-10-02T07:35:56-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -72,6 +76,7 @@ ai_assist:
 - **AIについての教育** — 学習者と教育者がAIを理解し、使い、批判的に評価できるように教えることです。中核は[[ai-literacy|AIリテラシー]]で、[[prompt-engineering|プロンプトエンジニアリング]]、[[critical-thinking|批判的思考]]、[[ethics|AI倫理]]、[[governance|ガバナンス教育]]、デジタルリテラシー、[[reducing-ai-misuse|責任ある利用]]に支えられています。
 
 この2つの方向性は別々のものではありません。[[ai-literacy|AIをうまく使う]]にはAIを理解する必要があり、AIについて教えることはAIを使うことで豊かになります。この[[human-ai-collaboration|人間とAIの協働]]が中心的なテーマです。
+
 ## 教育におけるAIの基盤
 
 この分野の横断的・基礎的な概念はナレッジベースの網羅を支え、サイドバーの最初に現れます。まず**必須**のグループから始まります。これはどの読者も最初に読むべき概念です。最上位概念そのもの、[[misconceptions|AIに関する誤解]]、[[ai-literacy|AIリテラシー]]、[[agentic-ai|エージェント型AI]]、[[cognitive-offloading|認知のオフローディング]]、[[framing-ai-use-for-students|学生に対するAI利用の位置づけ]]、[[reducing-ai-misuse|AIの不正利用の削減]]、[[academic-integrity|学問的誠実性]]、[[teacher-role|教えること]]、[[learning-design|学習設計]]、[[educational-development|教育開発]]です。続いて**分野**の系統が、[[history-of-aied|この分野の歴史]]、[[limitations-in-aied-research|根拠基盤に共通する限界]]、[[philosophy-of-ai-in-education|その哲学]]、[[theories-and-frameworks|理論と枠組み]]の地図、[[theory-development-aied|理論の構築]]を扱います。横断的なテーマ、すなわち[[human-ai-collaboration|人間とAIの協働]]、[[agency|学習者の主体性]]、[[learner-identity|学習者のアイデンティティ]]、[[design-thinking|デザイン思考]]、[[curriculum-design|カリキュラム設計]]、[[critical-thinking|批判的思考]]、[[computational-thinking|コンピュテーショナルシンキング]]はあらゆる系統を横断します。というのも、人々がAIについて抱く不正確なメンタルモデルは、[[ai-misuse-learning-harm|不正利用]]や十分に較正されていない[[trust-calibration|信頼]]の上流にあるからです。
@@ -96,6 +101,7 @@ AIが指導と学習をどのように支えるかは、この分野の中心で
 AIは専門分野と教育段階をまたいで応用されます。ナレッジベースの[[discipline-specific-aied|専門分野におけるAIEDの概観]]は教科領域の網羅を地図にします。あわせて[[learning-sciences|学習科学]]も挙げられます。これは教えられる教科ではなく、学習そのものを研究し、教科内容を数ある変数の一つとして扱う横断的な研究分野です。
 
 - **教科領域:** [[math-education|数学]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]、[[cs-education|情報科学]]、[[engineering-education|工学]]、[[stem-education|STEM]]、[[writing-education|作文]]、[[language-learning|言語学習]]、[[english-education|英語教育(EAP/EFL/ESL)]]、[[science-education|科学教育]]、[[business-education|経営・経済・マネジメント]]、[[humanities-education|人文・社会科学]]、[[arts-design-and-media-education|芸術・デザイン・メディア教育]]、[[medical-education|医療・保健専門職]]、[[legal-education|法学教育]]、そして専門職・応用の系統である[[nursing-education|看護]]、[[information-technology|情報技術]]、[[vocational-education|職業教育訓練]]、[[design-education|デザイン教育]]です。
+
 ## 教育段階と文脈
 
 同じAIツールでも、出会う場面は大きく異なります。そこでナレッジベースは教育段階と教授法を切り分け、知見がそれらの間で無自覚に転用されないようにしています。[[k-12|K-12の学校]]、[[early-childhood-elementary-ai-education|幼児・初等教育]]、[[higher-ed|高等教育]]、[[adult-learning|成人学習]]、[[vocational-education|職業教育訓練]]、[[special-education|特別支援教育]]、[[teacher-education|教員養成]]です。段階を横断する領域隣接の概念には、[[universal-design-for-learning|学習のユニバーサルデザイン]]、[[neurodiversity|ニューロダイバーシティ]]、[[multilingual-learning|多言語学習]]、[[social-emotional-learning|社会情動的学習]]があります。
@@ -126,6 +132,7 @@ AIが機能するかどうかをどうやって知るかは、それ自体が一
 ## 機関と政策
 
 制度の層は、AIに関する意思決定が実際に行われ、擁護される場所です。[[administrator|管理者]]と機関のリーダー、[[educational-policy-ai|教育AI政策]]、[[governance|AIガバナンス]]、導入を定着させる仕事としての[[change-management|チェンジマネジメント]]、[[regulation|AI規制]]、そして[[technology-acceptance-model|技術の導入]]、[[open-source|オープンソース]]、[[edtech-platform|EdTechプラットフォーム]]から生じる調達とプラットフォームの問い、さらに[[lifelong-learning|職業・生涯学習]]と[[professional-training|職業訓練]]が並びます。
+
 ## 公平性・倫理・責任ある利用
 
 公正さ、アクセス、責任は、教育におけるAIの中心です。
@@ -177,6 +184,9 @@ AIが機能するかどうかをどうやって知るかは、それ自体が一
 - [[philosophy-of-ai-in-education]] — 哲学的基盤
 - [[theories-and-frameworks]] — 理論と枠組みのノードの地図
 - [[theory-development-aied]] — 理論を構築し改訂すること
+- [[pedagogical-patterns]] — 教育学的パターン：当該分野の教授法を具体化する実証済みの連鎖
+- [[ai-assisted-educational-research]] — AI支援教育研究
+
 ## 関連する記事
 
 教育におけるAIに関する分野全体のレビュー。1つのトピックではなく、分野全体あるいはある教育段階全体を概観する研究です。

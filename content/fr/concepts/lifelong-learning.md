@@ -1,13 +1,13 @@
 ---
 title: L'apprentissage tout au long de la vie
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-09-22T12:00:00-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
-source_updated: "2026-08-31T06:34:37-04:00"
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_of: concepts/lifelong-learning
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -15,6 +15,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
 ---
 

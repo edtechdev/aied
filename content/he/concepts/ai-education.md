@@ -1,7 +1,7 @@
 ---
 title: בינה מלאכותית בחינוך
 created: "2026-09-22T14:34:58-04:00"
-updated: "2026-10-03T02:52:43-04:00"
+updated: "2026-10-09T18:10:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,13 +13,17 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-09-23T09:53:41-04:00"
+source_updated: "2026-10-02T07:35:56-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-09"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -181,6 +185,8 @@ ai_assist:
 - [[philosophy-of-ai-in-education|הפילוסופיה של בינה מלאכותית בחינוך]] — היסודות הפילוסופיים
 - [[theories-and-frameworks|תיאוריות ומסגרות]] — מפת צמתי התיאוריה והמסגרת
 - [[theory-development-aied|פיתוח תיאוריה]] — בנייה ותיקון של תיאוריה
+- [[pedagogical-patterns]] — דפוסים פדגוגיים: הרצפים הנבדקים המממשים את המתודולוגיות של התחום
+- [[ai-assisted-educational-research]] — מחקר חינוכי בסיוע בינה מלאכותית
 
 ## מאמרים מחוברים
 
