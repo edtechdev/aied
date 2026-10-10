@@ -79,7 +79,7 @@ L'enjeu unificateur est la **calibration** : faire correspondre la confiance à 
 
 La calibration est aussi mise à l'épreuve par les incitations du système auquel on se fie. Lorsque des personnels sceptiques à l'égard de l'adoption de l'IA consultent une [[conversational-ai|IA conversationnelle]] — construite par des organisations ayant un intérêt commercial à cette adoption — il y a un risque que le système soit prédisposé à l'encourager. Un audit de dix modèles de pointe a montré que la plupart reconnaissaient les préoccupations d'un membre du personnel d'une école du [[k-12]] en zone rurale (la menace sur l'emploi, le sentiment de ne pas être « fait pour des gens comme moi ») avant de le réorienter vers l'engagement. Cela met en cause la confiance naïve et souligne l'importance de la [[human-in-the-loop-ai|supervision humaine]] et d'une [[ai-ed-evaluation|évaluation indépendante de l'IA]].
 
-## Connected Concepts
+## Concepts liés
 
 - [[explainable-ai]]
 - [[trust-calibration]]
@@ -94,7 +94,7 @@ La calibration est aussi mise à l'épreuve par les incitations du système auqu
 - [[remote-proctoring]]
 - [[social-norms-ai-use]] — le risque social sur lequel reposent les normes et la divulgation
 
-## Connected Articles
+## Articles liés
 - [[ilieva-agentic-genai-higher-education-2026]] — Le risque perçu corrèle positivement avec l'intention d'usage continu : une adoption informée (Ilieva et al. 2026)
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — L'écart de confiance entre enseignants et étudiants sur le contrôle et l'autonomie dans l'IA de classe au K-12
 - [[qu-wang-disclose-or-not-genai-2026]] — La divulgation de l'usage de l'IA est guidée par des facteurs relationnels et par le confort avec les enseignants, non par la politique

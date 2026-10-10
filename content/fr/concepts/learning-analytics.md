@@ -106,7 +106,7 @@ L'analytique de l'apprentissage se rattache au [[knowledge-tracing]] (l'analytiq
 
 L'instrumentation au niveau du processus est le pas suivant de la couche descriptive. [[pulla-parsons-problem-tool-2026|Prol et al. (2026)]] ont étendu une plateforme [[open-source]] de problèmes de Parsons pour enregistrer chaque placement, retrait et soumission de blocs sous forme de trace chronologique, associer chaque soumission à un code couleur de l'exactitude par bloc et à un historique de tentatives, et faire passer facultativement les traces par un pipeline [[llm]] qui étiquette les schémas de difficulté récurrents pour examen par l'enseignant. Sur 68 étudiants d'un cours supérieur de conception logicielle en Java et 36 d'un cours d'introduction à Python, l'analyse a fait apparaître les trois mêmes difficultés — choisir le mauvais type d'exception, substituer `return` à `throw`, et ordonner incorrectement le flux de contrôle — que les décomptes d'exactitude et de tentatives ne peuvent exposer, parce qu'ils répondent à la question de savoir *si* l'agencement était juste plutôt qu'à celle de savoir *quel était le processus*. L'IA agit comme un interprète pour l'[[teacher-role|enseignant]] plutôt que comme un correcteur de l'élève, et sa sortie est pensée comme une hypothèse soumise à examen sur les difficultés d'une classe, plutôt que comme une note.
 
-## Concepts associés
+## Concepts liés
 
 - [[explainable-ai]]
 - [[knowledge-tracing]]
@@ -125,7 +125,7 @@ L'instrumentation au niveau du processus est le pas suivant de la couche descrip
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — le versant du soutien que la prédiction alimente : orientation, allocation, et les résultats qu'elles font ou ne font pas bouger
 
-## Articles associés
+## Articles liés
 
 - [[factria-responsible-institutional-analytics-2026]] — Responsible Institutional Analytics: Interpreting Bias with AI Support
 - [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education

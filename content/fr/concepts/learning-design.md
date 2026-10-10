@@ -96,7 +96,7 @@ Fowlin et al. (2026) ajoutent un geste opérationnel pour décider où l'IA inte
 
 - **L'IA refaçonne la pratique de la conception pédagogique.** [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]] [[meta-analysis-systematic-review|passent en revue systématiquement]] 28 études (2020-2025) et montrent que l'IA assiste les concepteurs pour la génération de contenus, les modèles et la personnalisation, et qu'elle est conceptualisée comme un collègue/collaborateur/partenaire plutôt que comme un simple outil — bien que l'alignement pédagogique et la préparation des praticiens demeurent des défis.
 
-## Connected Concepts
+## Concepts liés
 
 - [[interpreting-and-applying-aied-research]]
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -124,7 +124,7 @@ Fowlin et al. (2026) ajoutent un geste opérationnel pour décider où l'IA inte
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
-## Connected Articles
+## Articles liés
 
 - [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making

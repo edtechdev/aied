@@ -55,7 +55,7 @@ Un thème récurrent est que le développement de carrière à l'ère de l'IA de
 
 Le développement de carrière et la préparation professionnelle rejoignent la [[professional-training|formation professionnelle]] (la dimension des compétences professionnelles), la [[ai-literacy|littératie en IA]] (la dimension de compétence en IA), le [[self-efficacy|sentiment d'efficacité personnelle]] et la [[motivation|motivation]] (les ressources psychologiques qui soutiennent l'adaptation), l'[[anxiety-and-stress|anxiété et le stress]] (l'anxiété de carrière comme composante clé), l'[[higher-ed|enseignement supérieur]] et le [[k-12|primaire et secondaire]] (les contextes où la préparation se construit), et l'[[student-experience|expérience étudiante]] (les préoccupations de carrière comme partie de l'expérience de l'apprenant).
 
-## Connected Concepts
+## Concepts liés
 
 - [[professional-training]]
 - [[ai-literacy]]
@@ -67,7 +67,7 @@ Le développement de carrière et la préparation professionnelle rejoignent la 
 - [[well-being]]
 - [[student-support-and-success]] — les résultats qui suivent l'achèvement : la persévérance, la rétention et l'obtention du diplôme
 
-## Connected Articles
+## Articles liés
 
 - [[ai-literacy-graduate-employability-2026]] — Preuves PLS-SEM que la littératie en IA atteint l'employabilité perçue par l'adaptabilité de carrière, l'état d'esprit de croissance n'ajoutant rien (Hendrawan et Lestari 2026)
 - [[mccorkle-aligned-genai-course-policy-2025]] — Assessment-vs-workforce-competency trade-offs decided task by task (McCorkle 2025)

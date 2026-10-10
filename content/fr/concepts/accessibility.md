@@ -68,7 +68,7 @@ Une vidéo dotée de sous-titres exacts et d'une transcription correctement bali
 
 - **Transcription mathématiquement accessible de vidéos de [[physics-education|physique]] (2026) :** un flux de travail fondé sur l'IA, utilisant Gemini (audio et échantillonnage vidéo à 1 image par seconde) et LuaLaTeX, compile des vidéos pédagogiques de physique en PDF mathématiquement accessibles aux formats PDF/UA-2 et ISO 32005, qui passent régulièrement les contrôles d'accessibilité — une voie concrète et gratuite pour rendre lisibles par lecteur d'écran des contenus vidéo très riches en équations à destination des étudiants aveugles et malvoyants ([[gemini-lualatex-physics-video-transcription-2026]]).
 
-## Concepts associés
+## Concepts liés
 - [[differential-effects-across-learner-groups]]
 - [[inclusive-learning]] — parapluie plus large pour concevoir l'éducation face à la variabilité des apprenants
 - [[special-education]] — domaine pédagogique destiné aux apprenants présentant un handicap diagnostiqué
@@ -87,7 +87,7 @@ Une vidéo dotée de sous-titres exacts et d'une transcription correctement bali
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — la page parapluie sur les règles trop larges, les preuves défectueuses et les aménagements raisonnables
 - [[arts-design-and-media-education]]
-## Articles associés
+## Articles liés
 - [[shin-ai-policies-sld-2026]] — Politiques en matière d'IA et aménagements pour les élèves présentant des troubles spécifiques de l'apprentissage
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Méta-analyse des interventions fondées sur l'IA auprès d'élèves handicapés
 - [[adhd-video-segmentation-computing-education]] — Vidéos segmentées par l'IA avec pauses fixes

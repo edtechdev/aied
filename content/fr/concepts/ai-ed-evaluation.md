@@ -110,7 +110,7 @@ Des référentiels conditionnés au contexte sont nécessaires : [[zhang-tutormo
 - **Ancrer les suites d'évaluation sur l'apprentissage mesuré, et non sur des substituts.** Les référentiels de capacité d'enseignement, les barèmes de pédagogie conversationnelle et la latence des tuteurs devraient être validés par rapport aux gains d'apprentissage réels plutôt que traités comme des substituts, et la latence est elle-même un axe d'évaluation car elle détermine si les étudiants s'engagent ou non ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
 - **Les évaluations fondées sur le jugement d'experts ont besoin de leur propre comptabilité de fiabilité.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] ont fait noter par 25 experts appariés au domaine 92 [[video-education|vidéos de cours]] générées, selon un barème ancré sur « la qualité d'un cours MOOC standard », jugeant 87% au niveau ou au-dessus du seuil (moyenne 3.42 sur 5). Chaque vidéo n'a été notée qu'une seule fois par un seul évaluateur (k = 1) ; la conception répartit donc le panel sur l'ensemble du corpus au prix d'une statistique d'accord inter-évaluateurs ; un modèle à intercepts aléatoires a attribué environ 35% de la variance résiduelle à l'évaluateur (ICC = 0.35) et l'article rapporte des intervalles groupés par évaluateur plutôt qu'un chiffre de précision unique. Une évaluation fondée sur le jugement d'experts n'est aussi solide que l'analyse de fiabilité qu'elle publie.
 
-## Concepts associés
+## Concepts liés
 
 - [[interpreting-and-applying-aied-research]] — Interpréter et appliquer la recherche en AIED
 - [[ai-assisted-educational-research]] — Recherche éducative assistée par l'IA
@@ -130,7 +130,7 @@ Des référentiels conditionnés au contexte sont nécessaires : [[zhang-tutormo
 - [[hallucination-risk]] — Risque de contenu fabriqué dans les sorties de l'IA
 - [[intelligent-tutoring]] — Évaluer les systèmes de tutorat par l'IA
 - [[agentic-ai]] — Évaluer le comportement des agents d'IA autonomes
-## Connected Articles
+## Articles liés
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — What platform scores miss: multidimensional evaluation of AI teaching agents
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study

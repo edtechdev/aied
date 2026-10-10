@@ -62,7 +62,7 @@ Le diagnostic cognitif se situe au cœur de l'architecture du [[intelligent-tuto
 
 Le diagnostic cognitif rejoint le [[knowledge-tracing|traçage des connaissances]], la [[student-modeling|modélisation de l'apprenant]], la [[educational-measurement|mesure en éducation]] et l'[[assessment|évaluation]]. Ses éclairages alimentent le [[intelligent-tutoring|tutorat intelligent]] et l'[[adaptive-learning|apprentissage adaptatif]], et les travaux de l'ère des LLM le relient à l'identification des idées fausses dans le [[intelligent-tutoring|tutorat par IA]].
 
-## Connected Concepts
+## Concepts liés
 
 - [[knowledge-tracing]]
 - [[knowledge-graph]]
@@ -76,7 +76,7 @@ Le diagnostic cognitif rejoint le [[knowledge-tracing|traçage des connaissances
 - [[automated-assessment]]
 - [[learning-analytics]]
 
-## Connected Articles
+## Articles liés
 
 - [[llm-cognitive-diagnosis-handwritten-math]] — Référentiel pour les LLM en diagnostic des compétences cognitives à partir d'écrits mathématiques manuscrits
 - [[correct-answer-trap-misconceptions]] — Le piège de la bonne réponse

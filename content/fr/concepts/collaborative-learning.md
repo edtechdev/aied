@@ -92,7 +92,7 @@ L'apprentissage collaboratif occupe le sommet du [[icap-framework|cadre ICAP]] (
 - **Concevoir pour la lecture et l'attention qui précèdent la contribution.** L'apprentissage collaboratif dans les forums de discussion [[online-teaching-and-learning|en ligne]] dépend non seulement des publications mais de la lecture qui les précède. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao et Cukurova (2026)]] montrent que des résumés de discussion et des publications modèles générés par LLM peuvent agir comme des [[scaffolding|étayages]] de navigation qui élargissent l'exposition des étudiants aux contributions de leurs pairs et les conditions de réseau d'un capital social de liaison (lien faible) — un soutien qui devrait compléter, et non remplacer, les stratégies socio-pédagogiques de maintien de l'engagement sous charge de travail académique.
 - **Le versant social montre une disruption sans gain compensatoire.** Sur cinq processus de collaboration, un consensus de 30 experts n'a atteint la vulnérabilité que d'un seul côté, les évaluations d'amélioration restant sous le seuil : Social Connection (3.80 contre une amélioration de 1.90), Socio-Emotional Development (3.60 contre 2.00), Social Learning, Collaborative Learning et Sense of Belonging (tous 3.30) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene, Nixon et al., 2026]]). Le rapport traite l'asymétrie comme une cible de conception, puisque la résolution collaborative de problèmes est ancrée à un produit partagé alors que l'apprentissage collaboratif n'a pas de référent visible et peut s'éroder sans être détecté.
 
-## Connected Concepts
+## Concepts liés
 
 - [[pedagogical-patterns]] — La collaboration partagée avec IA scriptée et ses conceptions de rôles éprouvées
 - [[pedagogical-partnerships]] — Partenariats pédagogiques
@@ -120,7 +120,7 @@ L'apprentissage collaboratif occupe le sommet du [[icap-framework|cadre ICAP]] (
 - [[student-engagement]]
 - [[pedagogy]] — Parapluie : pédagogies et stratégies d'enseignement en IA éducation
 
-## Connected Articles
+## Articles liés
 
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Un consensus de 30 experts constate un risque social unilatéral : les processus de collaboration vulnérables sans voie d'amélioration
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis

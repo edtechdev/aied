@@ -59,7 +59,7 @@ L'enseignement de la biologie se situe dans le domaine plus large des [[stem-edu
 - **Enseigner l'usage responsable aux côtés de l'apprentissage par défi.** Les [[chatgpt-math-biology-challenge-based-learning-2025|études sur l'apprentissage par défi]] constatent que les étudiants valorisent l'immédiateté mais s'inquiètent de la véracité et de l'érosion des compétences — actualisez les codes d'intégrité académique et l'éthique d'usage de l'IA en parallèle de l'adoption.
 - **Explorer le paysage des outils spécialisés.** [[beyond-chatgpt-ai-tools-biological-education-2026|Cotton et Cotton]] recensent des outils (iNaturalist, Google Lens, bio-imagerie, prédiction du risque) que les enseignants peuvent déployer pour le travail de terrain, l'identification d'espèces et le soutien aux étudiants — choisissez des outils conçus à dessein plutôt que des chatbots généralistes lorsque cela convient.
 
-## Connected Concepts
+## Concepts liés
 
 - [[stem-education]]
 - [[chemistry-education]]
@@ -81,7 +81,7 @@ L'enseignement de la biologie se situe dans le domaine plus large des [[stem-edu
 - [[k-12]]
 - [[educational-policy-ai]]
 
-## Connected Articles
+## Articles liés
 
 - [[biology-degree-integrity-genai-cheating-2026]] — Les étudiants peuvent-ils tricher pour obtenir un diplôme de biologie ? Une étude de cas de la vulnérabilité des notes des cours de biologie à la malhonnêteté académique à l'ère de l'IA générative
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT comme assistant virtuel d'enseignement en laboratoire

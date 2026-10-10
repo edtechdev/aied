@@ -154,7 +154,7 @@ La base de connaissances reflète un domaine en évolution rapide : des premiers
 
 L'IA en éducation est liée à chaque concept de la base de connaissances : c'est le domaine que toutes les autres pages de concepts définissent collectivement. Utilisez cette page comme point de départ pour parcourir l'ensemble de la base de connaissances.
 
-## Concepts associés
+## Concepts liés
 - [[pedagogical-patterns]] — Les séquences éprouvées qui opérationnalisent les pédagogies du domaine
 - [[ai-literacy]] — parapluie : comprendre, utiliser et évaluer l'IA
 - [[human-ai-collaboration]] — parapluie : la manière dont les personnes et l'IA travaillent ensemble
@@ -183,7 +183,7 @@ L'IA en éducation est liée à chaque concept de la base de connaissances : c'e
 - [[theories-and-frameworks]] — la carte des nœuds de théories et de cadres
 - [[theory-development-aied]] — construire et réviser la théorie
 
-## Articles associés
+## Articles liés
 
 Revues à l'échelle du domaine sur l'IA en éducation, soit les études qui couvrent l'ensemble du domaine ou tout un niveau d'enseignement plutôt qu'un seul sujet :
 

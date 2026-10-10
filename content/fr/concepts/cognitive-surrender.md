@@ -99,7 +99,7 @@ La capitulation s'habitue-t-elle, ou décroît-elle avec le désusage ? La [[cog
 
 Les données probantes en faveur de la capitulation comme construit nommé reposent largement sur un seul programme de travaux de laboratoire : trois expériences préenregistrées sur un Test de Réflexion Cognitive adapté avec des échantillons de commodité, qui établissent le mécanisme et les modérateurs dispositionnels mais ne se [[transfer-of-learning|transfèrent]] pas au jugement professionnel à enjeux élevés. Le dispositif ne capture aussi que des expositions uniques, si bien que rien ne montre si la capitulation s'habitue ou se cumule. Les données probantes de terrain sont observationnelles : le panel ALEKS montre une achèvement plus rapide avec une rétention surveillée moins bonne, mais une attribution causale à la capitulation plutôt qu'à un changement de stratégie d'étude exige des postulats que le dispositif ne peut pas éprouver. Les définitions restent instables dans la littérature — délestage, dépendance excessive, dépendance, attachement et usage problématique sont régulièrement confondus, et [[yan-conversational-ai-engagement-dependence-synthesis-2026|au moins une synthèse]] soutient qu'une délégation fréquente ne devrait pas être qualifiée de dépendance sans altération du contrôle ni préjudice. Enfin, les [[self-report-measures|auto-déclarations]] de confiance, de besoin de cognition et de comportement de vérification portent les limites habituelles, et une grande partie des données probantes de classe concerne l'[[higher-ed|enseignement supérieur]] et le [[k-12|secondaire]] plutôt que les premiers niveaux de scolarité.
 
-## Connected Concepts
+## Concepts liés
 
 - [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]
@@ -115,7 +115,7 @@ Les données probantes en faveur de la capitulation comme construit nommé repos
 - [[theory-development-aied]]
 - [[generative-ai]]
 
-## Connected Articles
+## Articles liés
 
 - [[shaw-nave-cognitive-surrender-2026]] — Théorie des trois systèmes et signature expérimentale de la capitulation
 - [[generative-ai-reduced-study-time-math]] — déplacement au niveau de la population dans ALEKS
