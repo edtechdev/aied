@@ -1,5 +1,5 @@
 ---
-title: E-Portfolio
+title: Elektronisches Portfolio (E-Portfolio)
 created: "2026-08-20T09:00:00-04:00"
 updated: "2026-10-10T09:04:27-04:00"
 type: concept

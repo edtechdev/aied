@@ -1,5 +1,5 @@
 ---
-title: Motivation
+title: Lernmotivation
 created: "2026-08-10T17:38:45-04:00"
 updated: "2026-10-10T09:04:27-04:00"
 type: concept

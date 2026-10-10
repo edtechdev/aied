@@ -1,5 +1,5 @@
 ---
-title: Affective Computing
+title: Affektives Computing
 created: "2026-07-28T10:44:35-04:00"
 updated: "2026-10-10T09:04:27-04:00"
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Prompt Engineering
+title: Prompt-Engineering
 created: "2026-07-28T10:44:35-04:00"
 updated: "2026-10-10T09:04:24-04:00"
 type: concept

@@ -1,6 +1,6 @@
 ---
 connected_resources: [vibes-diy]
-title: Vibe Coding
+title: Vibe-Coding
 created: "2026-09-08T01:30:00-04:00"
 updated: "2026-10-10T09:04:24-04:00"
 type: concept

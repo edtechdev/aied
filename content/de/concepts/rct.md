@@ -1,5 +1,5 @@
 ---
-title: RCT
+title: Randomisierte kontrollierte Studie (RCT)
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-10-10T09:04:24-04:00"
 type: concept
