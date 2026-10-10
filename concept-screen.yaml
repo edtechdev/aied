@@ -4324,3 +4324,83 @@
   - teacher-role
   - video-education
   reason: 'One candidate qualified. change-management (grep ''diffusion''/''funding'' -> 0 hits, 30 ''institution'' hits) gained the decade-long diffusion arc from individual initiative to central funding. Rejected with grep evidence: automated-assessment (grep ''grading platform'' -> 0 hits) already carries AI grading at institutional scale, so this is another instance; oral-assessment already states the scale ceiling as the design constraint (grep ''scalab'' -> 1 hit) so the ~50-student ceiling is a duplicate; ai-feedback-quality already carries feedback timeliness; the evaluation rests on self-report/institutional indicators, so assessment-validity and self-report-measures are the study''s measurement rather than a new claim, and the remaining links are facets, pedagogy or the study''s setting.'
+- article: cross-ability-preferences-item-difficulty-2026
+  date: '2026-10-10'
+  integrated:
+  - simulating-students
+  no_change:
+  - adaptive-learning
+  - assessment
+  - benchmark
+  - cs-education
+  - desirable-difficulties
+  - educational-measurement
+  - formative-assessment
+  - item-response-theory
+  - llm
+  - reinforcement-learning
+  - research-methods-aied
+  - simulation
+  - student-modeling
+  reason: 'simulating-students carried zero mention of preference alignment, ability-gap pairing, or the SFT-conditions-weakly problem (grep "DPO|preference|ability gap|SMART" -> only unrelated "align" hits), so the finding that direct preference optimization over IRT ability-gap pairs aligns a simulator where SFT does not is new to the page and was woven in. Rejected: educational-measurement already names LLM difficulty calibration and IRT validation (grep "difficulty prediction" -> existing coverage of the same application); the difficulty metrics are the study''s benchmark, not a new claim about assessment or formative assessment; remaining entries are facets, audience labels, or the study''s setting.'
+- article: assistance-dilemma-rl-tutoring-2026
+  date: '2026-10-10'
+  integrated:
+  - cognitive-offloading
+  no_change:
+  - ai-feedback-quality
+  - benchmark
+  - desirable-difficulties
+  - intelligent-tutoring
+  - learning-gains
+  - learning-sciences
+  - llm
+  - math-education
+  - pedagogical-agent
+  - reinforcement-learning
+  - scaffolding
+  - simulating-students
+  - simulation
+  - teacher-role
+  - transfer-of-learning
+  reason: 'cognitive-offloading carried effort-reward evidence and compounding offload rates but no mention of the assistance dilemma, solution handover, telling, or near-transfer (grep "assistance dilemma|handover|telling" -> 0 hits), so the reward-shaping finding — binary gates plus a masked near-transfer post-test that make telling costly — is a new mechanism and was woven in. Rejected: scaffolding already states fading-as-competence-grows and the static-scaffold risk (grep "fad" -> 19 hits), so the support-fading-trained-out point restates the page''s claim; intelligent-tutoring carries one generic "reward" hit and no tutor-training reward design; remaining entries are facets, audience labels, or the study''s benchmark/setting.'
+- article: assessment-redesign-critical-practice-2026
+  date: '2026-10-10'
+  integrated:
+  - governance
+  no_change:
+  - academic-integrity
+  - ai-detection
+  - ai-education
+  - ai-literacy
+  - assessment
+  - assessment-validity
+  - authentic-assessment
+  - critical-thinking
+  - equity-in-ai-education
+  - generative-ai
+  - higher-ed
+  - pedagogy
+  - process-oriented-assessment
+  - qualitative-research
+  - teacher-role
+  reason: 'governance carried detection-versus-design governance and assessment redesign (grep "redesign" -> 8 hits) but not the practice-architectures decomposition — cultural-discursive, material-economic and social-political dimensions with the resource-power intersection as the reform''s leverage point and risk — so the four-phase matrix framing is new and was woven in. Rejected: equity-in-ai-education mentions governance only in passing (grep "practice architect|participatory|critical pedagogy" -> 0 hits, one "governance" hit); assessment-validity already carries redesign and equity as its existing vocabulary, making this another instance rather than a distinguishing claim; remaining entries are facets, audience labels, or the study''s setting.'
+- article: intentions-academic-misconduct-gait-2026
+  date: '2026-10-10'
+  integrated:
+  - academic-integrity
+  no_change:
+  - ai-detection
+  - ai-literacy
+  - ai-use-disclosure
+  - benchmark
+  - educational-policy-ai
+  - ethics
+  - generative-ai
+  - higher-ed
+  - motivation
+  - reducing-ai-misuse
+  - self-report-measures
+  - teacher-role
+  - technology-acceptance-model
+  reason: 'academic-integrity carried student intention only via the Petricini and Zipf intention-effort axes and no Theory of Planned Behavior predictors (grep "subjective norm|perceived detection|planned behavior" -> 0 predictor hits), so the first TPB study of GAIT-misconduct intention — attitudes, norms, positive AI attitudes, and detection-as-deterrent — is new and was woven in. Rejected: reducing-ai-misuse already establishes detection''s weak probative value and the prevention levers that do the work detection cannot (grep "detection" -> 6 hits), so the deterrent finding adds a lever the page already frames as unreliable; motivation carried no TPB subject matter (grep "intention|planned behavior" -> 0 hits) and the study''s TPB framing is not a motivational construct claim; remaining entries are facets, audience labels, or the study''s setting.'

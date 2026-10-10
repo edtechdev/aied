@@ -1,13 +1,14 @@
 ---
 // Resources index, rendered for any locale from src/i18n/pages/resources.<locale>.ts.
-// The entries come from the `resources` collection and stay in English until those
-// pages are translated, so their links are left as authored.
+// Entries come from the English `resources` collection; titles and summaries are
+// localized via localizedFields so a translated listing shows translated text.
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageTypeIcon from '../PageTypeIcon.astro';
 import TranslationNotice from '../TranslationNotice.astro';
 import { strings } from '../../i18n';
 import { localizeHref, localizeHtml } from '../../i18n/config';
+import { localizedFields, localizedField } from '../../i18n/localizedTitles';
 
 const { locale } = Astro.props;
 const s = strings(locale).resources;
@@ -15,6 +16,11 @@ const ui = strings(locale).ui;
 const L = (html: string) => localizeHtml(html, locale);
 
 const resources = await getCollection('resources');
+// Localized titles+summaries so a translated reader sees the translated entry's own
+// title and summary wherever it is translated, falling back to English otherwise.
+const loc = await localizedFields(locale);
+const fieldFor = (slug: string, fb: { title: string; summary?: string }) =>
+  localizedField(loc, 'resources', slug, fb);
 
 // Grouped by the FIRST declared resource_type, so one tool that is both software and
 // a collection lands in a single place instead of being listed twice.
@@ -64,11 +70,13 @@ const toc = groups.map((g) => ({
       <h2 id={anchor(group.type)} class="group-heading">{s.groupLabels[group.type] || group.type}</h2>
       <ul class="connected-list">
         {group.items.map((r) => {
-          const href = localizeHref(`/aied/resources/${r.id.replace('.md', '')}/`, locale);
+          const slug = r.id.replace('.md', '');
+          const href = localizeHref(`/aied/resources/${slug}/`, locale);
+          const f = fieldFor(slug, { title: r.data.title, summary: r.data.summary });
           return (
             <li>
-              <a href={href}><PageTypeIcon kind="resource" />{r.data.title}</a>
-              {r.data.summary && <div class="connected-summary">{r.data.summary}</div>}
+              <a href={href}><PageTypeIcon kind="resource" />{f.title}</a>
+              {f.summary && <div class="connected-summary">{f.summary}</div>}
             </li>
           );
         })}

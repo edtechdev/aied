@@ -42,3 +42,42 @@ export function localizedTitle(
 ): string {
   return titles.get(`${collection}/${slug}`) ?? fallback;
 }
+
+
+/**
+ * Localized title AND summary for content-collection pages, for lists that show
+ * both (the resources index). Same key shape as `LocalizedTitles`. Reading the
+ * English collection alone renders a translated listing in English, which is what
+ * a reader on a translated page notices first.
+ */
+export type LocalizedFields = Map<string, { title: string; summary?: string }>;
+
+export async function localizedFields(
+  locale: string | undefined,
+): Promise<LocalizedFields> {
+  const fields: LocalizedFields = new Map();
+  if (!locale || locale === DEFAULT_LOCALE) return fields;
+
+  const translations = await getCollection('translations');
+  for (const entry of translations) {
+    const [entryLocale, collection, file] = entry.id.split('/');
+    if (entryLocale !== locale || !collection || !file) continue;
+    fields.set(`${collection}/${file.replace(/\.md$/, '')}`, {
+      title: entry.data.title,
+      summary: entry.data.summary,
+    });
+  }
+  return fields;
+}
+
+/** The localized title/summary for `<collection>/<slug>`, falling back to English. */
+export function localizedField(
+  fields: LocalizedFields,
+  collection: string,
+  slug: string,
+  fallback: { title: string; summary?: string },
+): { title: string; summary?: string } {
+  const hit = fields.get(`${collection}/${slug}`);
+  if (!hit) return fallback;
+  return { title: hit.title ?? fallback.title, summary: hit.summary ?? fallback.summary };
+}

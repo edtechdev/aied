@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-07T15:40:00-04:00"
+updated: "2026-10-10T14:20:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -140,6 +140,8 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - **Three interaction pathways, not one behavior.** The Neuroplasticity-AI Interaction Model (NAIM) separates direct bypass, where the model supplies the solution and generative effort disappears; cognitive offloading, where specific sub-processes are delegated and the effect depends on whether those sub-processes are the learning target; and scaffolding, where the model constrains help to preserve effortful processing ([[naim-bypass-offload-scaffold-llm-learning-2026]])
 
 Two controlled studies in the recent batch pin down the two halves of this claim — whether the behavior shifts, and what it was protecting. [[metacognitive-feedback-anti-deskilling-offloading-2026|Maier et al. (2026)]] made the learning consequence of offloading visible before each choice in a preregistered experiment with 704 participants practicing fraction arithmetic: odds of offloading an answer fell to OR = 0.47 and odds of answering a later unaided test item correctly rose to OR = 1.51, while an effort-based reward moved neither outcome. Offloading compounded within the session — after offloading one item, participants offloaded the next in 69.7% of cases without the feedback and 55.9% with it — and a ten-percentage-point rise in offloading was associated with 32% lower odds of unaided success (OR = 0.68). [[chatgpt-programming-performance-retention-ownership-2026|Bergh et al. (2026)]] supply the outcome-side complement: 55 computer science undergraduates who coded with ChatGPT scored 89% against 69% without it, recalled less of the same material immediately (41% vs. 53%) and at 48 hours (39% vs. 52%), and attributed only 45% of the submitted code to themselves against 81%. Read together, the feedback study shows the behavior can be shifted without restricting access to the tool, and the programming study shows what the shifted behavior was protecting.. The model is calibrated against the strongest available field evidence: unrestricted GPT-4 access in a study of nearly 1,000 high-school [[math-education|mathematics]] students raised practice performance by 48% yet left a 17% deficit on the unassisted exam, whereas hint-constrained GPT Tutor produced a 127% practice gain with the exam deficit largely eliminated. Offloading is therefore harmful only in the bypass configuration, and the operative design variable is whether the model substitutes for the graded target skill. ([[naim-bypass-offload-scaffold-llm-learning-2026]])
+The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-tutoring-2026|Macina et al. (2026)]] train LLM tutors with a masked near-transfer post-test and two binary gates, so the reward can rise only through what the student wrote in its own turns, and their ablation shows the gates, not the raw learning-gain reward, are what reduce solution handover.
+
 
 ## Connected Concepts
 
