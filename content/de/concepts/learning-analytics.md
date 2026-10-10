@@ -1,5 +1,5 @@
 ---
-title: Learning Analytics
+title: Lernanalyse
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-10-10T09:04:24-04:00"
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Benchmark
+title: Benchmark (Vergleichsmaßstab)
 created: "2026-08-09T16:52:03-04:00"
 updated: "2026-10-10T09:04:24-04:00"
 type: concept

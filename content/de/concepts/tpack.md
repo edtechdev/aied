@@ -1,5 +1,5 @@
 ---
-title: Technological Pedagogical Content Knowledge (TPACK)
+title: Technologisches pädagogisches Inhaltswissen (TPACK)
 created: "2026-08-14T10:37:25-04:00"
 updated: "2026-10-10T09:04:24-04:00"
 type: concept

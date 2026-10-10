@@ -1,6 +1,6 @@
 ---
 connected_resources: [idstack, lesson-md, master-instructional-design]
-title: Assessment
+title: Leistungsbeurteilung
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-10-10T09:04:22-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]

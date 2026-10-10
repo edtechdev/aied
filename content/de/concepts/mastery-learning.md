@@ -1,5 +1,5 @@
 ---
-title: Mastery Learning
+title: Meisterschaftslernen
 type: concept
 pedagogy: [mastery-learning]
 technology: [adaptive-learning, personalized-learning]

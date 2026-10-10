@@ -1,5 +1,5 @@
 ---
-title: Knowledge Tracing
+title: Wissensstandsverfolgung
 created: "2026-06-23T10:44:35-04:00"
 updated: "2026-10-10T09:04:25-04:00"
 type: concept
