@@ -81,7 +81,7 @@ La qualité de la conception, et non la fréquence d'usage, a porté l'effet mot
 - **Quatre profils d'interaction dans une tâche bilingue à forte pression.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li et Weng (2026)]] ont utilisé l'oculométrie, l'enregistrement au stylo et l'enregistrement vocal auprès de 22 stagiaires en interprétation pour montrer que les élèves répartissent leur attention entre les sorties de l'IA et leur propre prise de notes de quatre manières distinctes — Engagers intensifs, Scanners rapides, Traditionalistes et Basculeurs fréquents — et que 58.3% des observations au niveau de l'étape changeaient de profil entre les étapes de compréhension et de production de la même tâche. Seuls les profils de l'étape de compréhension prédisaient la qualité du produit, et le groupe le plus dépendant de l'IA obtenait les scores les plus faibles en fluidité de la prestation et en qualité de la langue cible, ce qui plaide pour apprendre aux apprenants à décrire leur propre stratégie et à réfléchir à son sujet, plutôt que pour prescrire une seule manière de travailler avec l'outil.
 - **Faire passer l'ensemble de la boucle des quatre compétences par le coût et la connectivité.** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] publient LLMersion-1, un prototype fonctionnant d'abord en local, qui travaille la compréhension orale, la lecture, l'expression orale et l'écriture sur le document propre de l'apprenant, sur du matériel grand public — un tuteur de 1B se quantise en 808 Mo et l'ensemble de la pile résidente reste sous 4 Go — et chiffre cinq ans de pratique quotidienne à environ 18 $ d'électricité, contre 1,200 $ pour un abonnement infonuagique. Aucun résultat d'apprentissage n'est rapporté et la rétroaction sur la prononciation est seulement segmentale.
 
-## Concepts associés
+## Concepts liés
 
 - [[eportfolio]]
 - [[writing-education]]
@@ -100,7 +100,7 @@ La qualité de la conception, et non la fréquence d'usage, a porté l'effet mot
 - [[english-education]]
 - [[speech-and-voice-technologies]]
 
-## Articles associés
+## Articles liés
 
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profils et transitions de l'adaptation psychologique dans l'apprentissage du japonais assisté par l'IA

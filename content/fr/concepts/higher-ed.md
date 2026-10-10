@@ -78,7 +78,7 @@ La [[academic-integrity]] et la recherche sur la [[ai-assessment-scale-reform|r�
 - **Vous engager délibérément dans l'innovation de la notation et de l'évaluation.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] soutiennent que l'[[assessment]] et la notation comptent parmi les facteurs les plus influents sur l'apprentissage dans l'enseignement supérieur, alors qu'ils restent peu étudiés dans des champs comme l'[[business-education|enseignement de la gestion]] (58 articles seulement sur 20 ans dans quatre revues de premier plan). Les approches traditionnelles, [[summative-assessment|sommatives]] à outrance et fondées sur la norme minent l'apprentissage profond, le [[well-being]], l'équité et l'[[academic-integrity|intégrité]] à l'ère de l'IA générative ; les auteurs invitent les enseignants à s'engager de manière plus active et réciproque dans cinq pratiques innovantes (évaluation authentique, auto- et évaluation par les pairs, réévaluation, notation fondée sur les standards, absence de notation), en notant que leur mise en œuvre exige un soutien institutionnel et culturel ainsi qu'une expérimentation progressive.
 - **Traiter la formation à la recherche et l'encadrement comme un lieu de littératie en IA à part entière.** Les [[dai-chan-responsible-genai-research-ai-literacy-2026|chercheurs de troisième cycle]] mettent en œuvre la [[ai-literacy]] comme une pratique [[situated-learning|située]] plutôt que comme un ensemble de compétences figé, et les consignes institutionnelles s'arrêtent largement à l'enseignement et à l'évaluation. Les consignes relatives aux travaux de thèse, de mémoire et de publication devraient [[scaffolding|étayer]] concrètement la vérification, l'attribution et la divulgation pour chaque dimension de la littératie en IA — et de [[engagement-intensity-learner-modeling|simples signaux observés avant le cours]] peuvent cibler ce soutien dans les cours d'éthique de la recherche — au lieu d'édicter des règles binaires.
 
-## Concepts associés
+## Concepts liés
 
 - [[pedagogical-patterns]] — Le niveau où la majeure partie des preuves de séquences testées a été produite
 - [[online-teaching-and-learning]] — Enseignement et apprentissage en ligne
@@ -99,7 +99,7 @@ La [[academic-integrity]] et la recherche sur la [[ai-assessment-scale-reform|r�
 - [[arts-design-and-media-education]]
 - [[student-support-and-success]] — conseil, démarche proactive, orientation et allocation du soutien — le volet institutionnel de la réussite étudiante
 
-## Articles associés
+## Articles liés
 
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — Cadre EPIQ-AI de préparation des enseignants
 - [[ai-in-the-wild-college]] — AI in the Wild : usage de l'IA par les étudiants de premier cycle

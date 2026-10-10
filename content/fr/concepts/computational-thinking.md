@@ -64,7 +64,7 @@ La pensée informatique est le fondement cognitif partagé qui sous-tend l'[[ai-
 
 - **La pensée informatique prédit l'apprentissage avec assistant d'IA.** Les [[computational-thinking-aica-2026|élèves de cinquième]] dotés d'une pensée informatique élevée ont significativement surpassé leurs pairs à faible pensée informatique dans un cours d'assistant de codage par IA, utilisant l'assistant pour comprendre plutôt que pour retrouver des réponses.
 
-## Connected Concepts
+## Concepts liés
 
 - [[cs-education]]
 - [[stem-education]]
@@ -87,7 +87,7 @@ La pensée informatique est le fondement cognitif partagé qui sous-tend l'[[ai-
 - [[misconceptions]]
 - [[agentic-ai]]
 
-## Connected Articles
+## Articles liés
 
 - [[ai-pbl-computational-thinking-2026]]
 - [[computational-thinking-ai-agent-creation]]

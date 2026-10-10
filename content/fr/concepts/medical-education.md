@@ -72,7 +72,7 @@ La formation aux professions de santé est un domaine à fort enjeu et fondé su
 - **Mettre en balance les bénéfices à fort enjeu et la dépendance excessive.** La formation aux professions de santé est fondée sur les compétences et à fort enjeu ; prémunissez-vous contre la substitution par l'IA des compétences cliniques pratiques et du jugement, et appliquez les considérations de [[feedback|rétroaction]], d'[[assessment|évaluation]] et d'[[ethics|éthique]] avec un soin particulier.
 - **Adapter avec discernement l'IA ludifiée et interdisciplinaire.** [[medgame-llm-medical-education-gamification|L'apprentissage ludifié par LLM]] et [[alrazeeni-transforming-nursing-education-ai-2026|la transformation de la formation en soins infirmiers]] sont prometteurs mais nécessitent une évaluation des résultats en matière de sécurité et de compétences ; pour les soins infirmiers spécifiquement, ces données probantes de sécurité et de compétence — y compris l'essai contrôlé randomisé où la simulation assistée par l'IA a sous-performé face aux patients standardisés — sont rassemblées sur la page [[nursing-education|formation en soins infirmiers]].
 
-## Connected Concepts
+## Concepts liés
 
 - [[problem-based-learning]]
 - [[higher-ed]]
@@ -91,7 +91,7 @@ La formation aux professions de santé est un domaine à fort enjeu et fondé su
 - [[nursing-education]] — the nursing strand of health-professions education
 - [[virtual-and-augmented-reality]] — immersive and AR clinical training
 
-## Connected Articles
+## Articles liés
 
 - [[genai-medical-education-transformation-review-2026]] — Scoping review of 153 medical-education GenAI reports: simulation leads, durability and patient outcomes unmeasured
 

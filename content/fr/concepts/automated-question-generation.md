@@ -77,7 +77,7 @@ L'AQG est un levier clé de l'[[adaptive-learning|apprentissage adaptatif]] et d
 - **Calibrer la difficulté :** utilisez les estimations de difficulté de l'IA pour sélectionner des items d'un défi approprié, avec une validation solide avant tout usage à enjeux élevés.
 - **Personnaliser via les modèles d'apprenant :** combinez l'AQG au traçage des connaissances et aux modèles d'intérêts pour générer des items adaptatifs et individualisés.
 
-## Connected Concepts
+## Concepts liés
 
 - [[llm]]
 - [[generative-ai]]
@@ -101,7 +101,7 @@ L'AQG est un levier clé de l'[[adaptive-learning|apprentissage adaptatif]] et d
 - [[intelligent-tutoring]]
 - [[ai-education]]
 
-## Connected Articles
+## Articles liés
 
 - [[genai-medical-education-transformation-review-2026]] — Revue de cadrage de 153 rapports sur l'enseignement médical portant sur la génération d'items par IA comparée à la qualité des items du corps professoral
 - [[assessing-quality-ai-generated-exams-field-2025]] — Validation de terrain à grande échelle de la qualité des examens générés par IA via l'IRT

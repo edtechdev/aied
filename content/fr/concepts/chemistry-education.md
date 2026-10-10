@@ -61,7 +61,7 @@ L'enseignement de la chimie se situe dans le domaine plus large des [[stem-educa
 - **Rester vigilant face à la dérive épistémique et à la dépendance excessive.** La recherche sur la [[philosophy-experimentation-ai-chemistry-2026|philosophie de l'expérimentation]] et les orientations de l'UNESCO avertissent qu'une IA opaque peut détacher l'enquête de la compréhension causale — préservez une évaluation priorisant le raisonnement humain et l'autonomie des étudiants.
 - **Noter sélectivement les travaux manuscrits ouverts.** Dans un examen final de chimie générale manuscrit réunissant 296 étudiants, un LLM multimodal notait de façon fiable les réponses textuelles et les équations de réactions chimiques, mais moins bien que le hasard les schémas et les graphiques (les grilles de fond distraient visuellement la vision de l'IA) ; associer un filtre de risque fondé sur l'[[item-response-theory|IRT]] et [[human-in-the-loop-ai|déférer]] les items graphiques à des humains a rendu l'automatisation défendable pour un usage [[summative-assessment|sommative]] ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 
-## Connected Concepts
+## Concepts liés
 
 - [[stem-education]]
 - [[physics-education]]
@@ -88,7 +88,7 @@ L'enseignement de la chimie se situe dans le domaine plus large des [[stem-educa
 - [[agency]]
 - [[biology-education]] — L'enseignement de la biologie et l'IA : assistants d'enseignement en laboratoire, littératie en IA en biologie, pensée critique, outils spécialisés
 
-## Connected Articles
+## Articles liés
 
 - [[ai-science-chemistry-education-systematic-review-2025]] — Revue systématique de l'IA dans l'enseignement des sciences et de la chimie
 - [[unesco-ai-guidelines-chemical-education-2026]] — Traduire les lignes directrices de l'UNESCO sur l'IA pour l'enseignement de la chimie

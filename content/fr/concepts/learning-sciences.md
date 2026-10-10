@@ -71,7 +71,7 @@ La [[pedagogy]] et la [[learning-design]] couvrent la pratique — quelle strat�
 
 Les résultats n'importent qu'une fois parvenus à l'enseignement, et ce parcours passe par trois pages. L'[[educational-development]] est la pratique institutionnelle qui les porte — développement du corps professoral, standards, politique et travail sur l'identité décident si une conception validée atteint jamais une classe, ce qui explique pourquoi les données probantes du champ devancent régulièrement ce que les institutions ont mis en œuvre. La [[teacher-education]] est l'endroit où la connaissance doit atterrir avant qu'un enseignant n'entre dans la classe, et le [[teacher-role]] est l'endroit où elle atterrit ensuite, dans le jugement instant après instant sur le moment d'intervenir, l'instrument à utiliser, et le moment de laisser un apprenant tranquille. Aucune des trois ne produit des résultats de sciences de l'apprentissage ; toutes trois décident si ces résultats changent la pratique.
 
-## Concepts associés
+## Concepts liés
 
 - [[learning-theories]]
 - [[cognitive-psychology]]
@@ -94,7 +94,7 @@ Les résultats n'importent qu'une fois parvenus à l'enseignement, et ce parcour
 - [[equity-in-ai-education]]
 - [[educational-policy-ai]]
 
-## Articles associés
+## Articles liés
 
 - [[competent-generative-ai-use-measures-review-2026]] — Revue et méta-analyse exploratoire des instruments de mesure de l'usage compétent de l'IA générative (Verí 2026)
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — L'exactitude masquant une règle incomplète : les règles d'arrêt par maîtrise dans l'apprentissage adaptatif (An, McLaren & Stamper 2026)

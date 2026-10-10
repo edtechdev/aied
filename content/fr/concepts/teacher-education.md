@@ -93,7 +93,7 @@ Au-delà des contenus et des croyances, la préparation des enseignants recourt 
 - **Séparer le travail délégable du travail non délégable.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] a constaté que 23 étudiants de premier cycle, pour la plupart des enseignants en formation initiale, produisaient des artefacts comparables, qu'ils soutiennent un travail de délimitation ou qu'ils le délèguent tôt, et que la « tension sur la tricherie » autour de la qualité d'auteur était la plus forte chez ceux qui faisaient le plus de travail de délimitation — l'objectif pédagogique est donc de juger quel travail interprétatif il ne faut pas confier.
 - **Faire de la rédaction de politiques d'IA en classe une activité centrale de la formation des enseignants, et traiter l'ambiguïté comme un défaut de politique.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] ont constaté que demander à des enseignants en formation d'écrire leurs propres politiques d'IA en classe fonctionne comme une construction rhétorique du monde quant à la finalité de l'écriture — une fenêtre sur des croyances émergentes que la discussion abstraite n'ouvre pas. Parce que l'IA sépare l'écriture-comme-produit de l'écriture-comme-processus, les programmes devraient aider les enseignants à situer où vivent réellement la pensée, l'apprentissage et la valeur à travers le remue-méninges, la rédaction, la révision et l'édition, plutôt que de situer la pensée uniquement dans le texte final, et devraient les accompagner pour traduire leurs croyances en règles opérationnelles et non ambiguës associées à un enseignement de la [[ai-literacy|littératie en IA]] : des contradictions comme interdire le texte généré par l'IA tout en tenant les étudiants responsables des contenus générés par l'IA qu'ils soumettent rendent les étudiants incapables de s'y conformer.
 
-## Connected Concepts
+## Concepts liés
 
 - [[teacher-role]]
 - [[tpack]]
@@ -106,7 +106,7 @@ Au-delà des contenus et des croyances, la préparation des enseignants recourt 
 - [[learning-sciences]]
 - [[chemistry-education]] — L'éducation en chimie et l'IA : laboratoires, évaluation formative, limites des LLM, philosophie de l'expérimentation
 
-## Connected Articles
+## Articles liés
 - [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Des enseignants d'anglais en formation rédigeant des politiques d'IA en classe : usages autorisés, limités et interdits (Nash & Burriss 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 étudiants enseignants : une adoption superficielle de l'IA générative, une anxiété d'intégrité et une littératie évaluative qui ne se transfère pas

@@ -89,7 +89,7 @@ La durabilité, dans cette littérature, est une propriété organisationnelle, 
 
 Le soutien aux étudiants se rattache à la [[student-experience|expérience étudiante]] comme contrepartie tournée vers l'étudiant — les mêmes technologies vues du côté de l'étudiant plutôt que de celui de l'institution — et à la [[help-seeking|recherche d'aide]] pour le mécanisme par lequel les étudiants qui ont besoin de soutien l'obtiennent effectivement ; le démarchage et les assistants spécifiques à un cours sont deux tentatives pour abaisser le coût de la demande. L'[[learning-analytics|analytique de l'apprentissage]] détient la prédiction qui alimente l'allocation, la [[student-modeling|modélisation de l'apprenant]] et le [[knowledge-tracing|suivi des connaissances]] les modèles sous-jacents, et [[recommender-systems-and-learning-paths|les systèmes de recommandation et les parcours d'apprentissage]] la couche de recommandation. Elle se relie au [[well-being|bien-être]] à travers les systèmes de santé mentale et de prévention sur le campus, au [[career-development-and-readiness|développement de carrière et à la préparation]] comme le résultat qui suit l'achèvement, à l'[[equity-in-ai-education|équité]] et à la [[privacy|confidentialité]] à travers les risques d'agir sur des scores, et à l'[[administrator|administration]], aux [[stakeholders|parties prenantes]] et au [[change-management|management du changement]] comme les rôles et les processus qui décident si l'ensemble se pérennise. Les [[learning-gains|gains d'apprentissage]] sont le nœud de mesure adjacent : les résultats de cette page sont administratifs plutôt que pédagogiques, et les deux n'évoluent pas ensemble.
 
-## Connected Concepts
+## Concepts liés
 
 - [[higher-ed]] — le parapluie sectoriel sous lequel se situe cette page
 - [[student-experience]] — la manière dont l'IA se traduit dans l'expérience propre de l'étudiant
@@ -111,7 +111,7 @@ Le soutien aux étudiants se rattache à la [[student-experience|expérience ét
 - [[human-in-the-loop-ai]] — le jugement humain à l'intérieur d'un flux de soutien automatisé
 - [[rct]] — le plan derrière les données probantes les plus solides présentées ici
 
-## Connected Articles
+## Articles liés
 
 - [[mata-sustaining-ai-enabled-student-support-2026]] — évaluation randomisée sur quatre ans d'un agent conversationnel de soutien universitaire : l'accomplissement des tâches a évolué, ni l'obtention du diplôme ni la moyenne générale
 - [[chatbot-outreach-course-performance-2026]] — essai de démarchage multi-semestres pré-enregistré : taux de A/B plus élevés, déplacements modestes des DFW, une exception démographique

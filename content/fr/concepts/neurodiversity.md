@@ -80,7 +80,7 @@ Le versant du risque a sa propre littérature. [[seung-basham-cognitive-offloadi
 
 La neurodiversité est liée à l'[[special-education|éducation spécialisée]], à l'[[inclusive-learning|apprentissage inclusif]], à la [[universal-design-for-learning|conception universelle de l'apprentissage]] et à l'[[equity-in-ai-education|équité dans l'IA en éducation]]. Elle informe à la fois la manière dont l'IA est déployée pour l'[[student-experience|expérience étudiante]] et la manière dont les évaluations et les programmes de littératie sont conçus pour être équitables face à la variabilité cognitive. Pour savoir comment ces résultats se situent aux côtés d'autres groupes d'apprenants — langue, genre, statut socioéconomique, géographie — voir [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]].
 
-## Connected Concepts
+## Concepts liés
 
 - [[special-education]]
 - [[inclusive-learning]]
@@ -94,7 +94,7 @@ La neurodiversité est liée à l'[[special-education|éducation spécialisée]]
 - [[cognitive-offloading]]
 - [[student-modeling]]
 
-## Connected Articles
+## Articles liés
 
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: a scoping review of digital assistive technologies for neurodivergent students in higher education
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 studies of AI for students with disabilities, and an effect that differs by category

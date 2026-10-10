@@ -58,7 +58,7 @@ L'éducation spécialisée est un domaine où la capacité de l'IA à personnali
 - **Placer au centre la conception incarnée portée par le handicap.** La recherche sur les [[embodied-string-learning-blindness-low-vision-musicians|musiciens aveugles et malvoyants]] montre que les stratégies non visuelles, portées par le handicap, surpassent les interfaces visuelles par défaut — construisez et adaptez l'IA avec l'expertise des apprenants handicapés.
 - **Se prémunir contre la marginalisation épistémique.** Les [[genai-minoritized-knowledges-disability|perspectives critiques]] avertissent que des données d'entraînement à dominance occidentale peuvent marginaliser les savoirs centrés sur le handicap — auditez les contenus et outils d'IA au regard de la justice épistémique, en lien avec l'[[equity-in-ai-education|équité]].
 
-## Connected Concepts
+## Concepts liés
 
 - [[differential-effects-across-learner-groups]]
 - [[inclusive-learning]]
@@ -74,7 +74,7 @@ L'éducation spécialisée est un domaine où la capacité de l'IA à personnali
 - [[generative-ai]]
 - [[discipline-specific-aied]]
 
-## Connected Articles
+## Articles liés
 - [[seung-basham-cognitive-offloading-swld-2026]] — Délestage cognitif de l'IA générative chez les élèves ayant des troubles de l'apprentissage
 - [[special-r1-rl-special-education]]
 - [[dyslexlens-dyslexic-learners-ai]]

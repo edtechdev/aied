@@ -86,7 +86,7 @@ Cela fait de la collaboration humain-IA une construction *pédagogique* autant q
 
 La collaboration humain-IA se rattache à [[human-in-the-loop-ai]] (supervision), à l'[[agentic-ai]] (autonomie), au [[teacher-role]] (l'évolution du travail des enseignants), à l'[[scaffolding]] et à la [[metacognition]] (comment la collaboration soutient l'apprentissage), et à la [[cognitive-offloading|dépendance excessive]] (le mode d'échec lorsque la collaboration devient substitution). C'est un thème central qui traverse la [[ai-literacy]], l'[[self-regulated-learning|apprentissage autorégulé]] et l'[[student-experience]].
 
-## Concepts associés
+## Concepts liés
 
 - [[pedagogical-partnerships]] — Partenariats pédagogiques
 - [[community-of-inquiry]] — Communauté d'enquête (présences comme accomplissements sociotechniques humain–IA générative)
@@ -110,7 +110,7 @@ La collaboration humain-IA se rattache à [[human-in-the-loop-ai]] (supervision)
 - [[agentic-ai]] — autonomie
 - [[productive-failure]]
 
-## Articles associés
+## Articles liés
 
 - [[bjet-many-hands-make-light-work-2026]] — Le travail en binôme avec un système multi-agents d'IA générative a remporté le projet de conception, tandis que la conscience de la pensée critique n'a augmenté que chez ceux qui travaillaient seuls (Chu et al. 2026)
 - [[dang-human-ai-collaboration-competency-2026]] — Compétence de collaboration : compétence de collaboration comme configuration dynamique des compétences de domaine, en IA et métacognitives, avec autonomie émergente de l'apprenant (Dang et al. 2026)

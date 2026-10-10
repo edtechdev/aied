@@ -81,7 +81,7 @@ L'UDL transforme « réparer l'apprenant » en « réparer la conception ». Pou
 
 - **Cibler les obstacles fonctionnels, et non les diagnostics.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] ont constaté que le corpus de 40 études sur les technologies d'assistance destinées aux élèves neurodivergents s'organisait autour de l'aménagement et d'outils conditionnés par le diagnostic, et soutiennent que concevoir en fonction des obstacles transversaux que les élèves rencontrent réellement est ce qui rend un outil plausiblement universel.
 
-## Connected Concepts
+## Concepts liés
 
 - [[inclusive-learning]]
 - [[accessibility]]
@@ -100,7 +100,7 @@ L'UDL transforme « réparer l'apprenant » en « réparer la conception ». Pou
 - [[reducing-ai-misuse]]
 - [[k-12]]
 
-## Connected Articles
+## Articles liés
 - [[seung-basham-cognitive-offloading-swld-2026]] — Délestage cognitif de l'IA générative chez les élèves ayant des troubles de l'apprentissage
 - [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
 - [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility

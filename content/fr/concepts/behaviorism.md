@@ -79,7 +79,7 @@ Le behaviorisme apparaît aussi dans la manière dont les apprenants rencontrent
 3. **Associer le behaviorisme à des étayages plus riches.** Les dispositifs de rétroaction immédiate sont les plus efficaces lorsqu'ils sont intégrés dans un contexte plus large de [[scaffolding|étayage]] et d'[[self-regulated-learning|apprentissage autorégulé]], plutôt que de rester seuls sous forme d'exercices purs.
 4. **Évaluer les résultats observables *et* transférables.** Les critères de réussite behavioristes (vitesse, exactitude) devraient être complétés par des mesures du transfert et de la généralisation de l'apprentissage, conformément au [[transfer-of-learning|transfert des apprentissages]] et à la [[research-methods-aied|recherche]].
 
-## Connected Concepts
+## Concepts liés
 
 - [[constructivist]]
 - [[cognitive-psychology]] — Le cognitivisme, le troisième pôle classique de la théorie de l'apprentissage
@@ -93,7 +93,7 @@ Le behaviorisme apparaît aussi dans la manière dont les apprenants rencontrent
 - [[cognitive-offloading]]
 - [[learning-theories]]
 
-## Connected Articles
+## Articles liés
 
 - [[ai-vocational-education-training-review]] — Les dispositifs d'IA behavioristes dominent la pratique de l'EFP malgré le constructivisme préconisé ; le « piège de Turing »
 - [[generativism-learning-theory]] — Le behaviorisme parmi les quatre théories dominantes que l'IA générative invite à repenser

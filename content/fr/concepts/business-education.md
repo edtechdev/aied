@@ -64,7 +64,7 @@ La gestion est l'un des domaines où l'adoption de l'IA générative est la plus
 - **Traiter les lacunes persistantes.** [[espino-ai-business-education-review-2026|Une décennie de recherche]] signale des lacunes en cohérence des programmes, préparation des enseignants et validité de l'évaluation — faites-en des priorités dans la conception des programmes.
 - **Préparer les étudiants à un monde du travail intégrant l'IA.** Mettez l'accent sur la littératie en IA, l'usage éthique et l'application propre au domaine (finance, marketing, management, économie) comme compétences centrales, et non comme options.
 
-## Connected Concepts
+## Concepts liés
 
 - [[ai-education]]
 - [[discipline-specific-aied]]
@@ -79,7 +79,7 @@ La gestion est l'un des domaines où l'adoption de l'IA générative est la plus
 - [[higher-ed]]
 - [[stem-education]]
 
-## Connected Articles
+## Articles liés
 
 - [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
 - [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: agentic GAI support in an e-commerce course, perceived benefits and risks (Ilieva et al. 2026)

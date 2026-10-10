@@ -120,7 +120,7 @@ Un cadrage étroitement lié est celui de l'**agence épistémique relationnelle
 
 - **L'agence déléguée comme mécanisme, et pas seulement comme risque.** [[yan-agentivism-learning-theory-ai-2026|Yan et Gašević (2026)]] traitent la délégation du travail cognitif à l'IA comme une partie de la manière dont l'apprentissage advient, et non comme une simple menace pesant sur lui : dans leur compte, la performance assistée ne devient une capacité durable que lorsque l'apprenant conserve la responsabilité de problématiser, de fixer les critères et de justifier les réponses — une division du travail qu'ils nomment agence déléguée. C'est l'allocation elle-même qui devient ainsi la variable de conception, puisque le même outil peut préserver ou dissoudre l'agence de l'apprenant selon les responsabilités qu'il absorbe.
 
-## Concepts associés
+## Concepts liés
 - [[learners]] — Les apprenants : le concept parapluie des concepts côté apprenant
 - [[pedagogical-partnerships]] — Partenariats pédagogiques
 - [[learner-identity]] — identités d'apprenant disciplinaires, professionnelles, créatives et académiques en évolution
@@ -141,7 +141,7 @@ Un cadrage étroitement lié est celui de l'**agence épistémique relationnelle
 - [[social-emotional-learning]] — Apprentissage socio-émotionnel
 - [[cognitive-surrender]]
 
-## Articles associés
+## Articles liés
 - [[tench-ai-policy-isnt-a-playbook-2026]] — Enquête nationale représentative des enseignants et chefs d'établissement américains sur la couverture de la politique IA, l'agence et cinq stratégies de classe (Tench, Weinstein & James 2026)
 - [[genai-reliance-human-agency-collaborative-learning-2026]] — A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning
 - [[yan-agentivism-learning-theory-ai-2026]] — Une théorie de l'apprentissage de portée moyenne pour l'interaction humain–IA, avec quatre mécanismes et six propositions testables (Yan and Gašević 2026)

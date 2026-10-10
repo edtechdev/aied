@@ -76,7 +76,7 @@ L'apprentissage actif est profondément lié à l'[[collaborative-learning|appre
 
 L'apprentissage actif est l'un des leviers les plus puissants sur les [[learning-gains|gains d'apprentissage]] à l'ère de l'IA. Parce que les stratégies actives construisent la compréhension par un faire exigeant, elles sont les plus robustes face au contournement par l'IA — et les données de la base de connaissances montrent que préserver cet effort protège l'apprentissage durable, tandis que laisser l'IA l'absorber l'érode ([[generative-ai-reduced-study-time-math|réduction du temps d'étude]], [[stromberg-generative-ai-learning-penalty-secondary-2026|la pénalité d'apprentissage]], [[lak2026-hint-button-unproductive-use|l'abus d'indices]]). Les enseignants qui associent des dispositifs d'apprentissage actif à des [[learning-gains|gains mesurés]] sur des résultats sans assistance obtiennent l'image la plus claire de ce que l'activité assistée par l'IA a réellement amélioré dans l'apprentissage.
 
-## Concepts associés
+## Concepts liés
 
 - [[learning-gains]]
 - [[problem-based-learning]]
@@ -104,7 +104,7 @@ L'apprentissage actif est l'un des leviers les plus puissants sur les [[learning
 - [[help-seeking]]
 - [[pedagogy]] — Parapluie : pédagogies et stratégies d'enseignement dans l'éducation par l'IA
 
-## Articles associés
+## Articles liés
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Le tutorat par IA surpasse l'apprentissage actif en classe : un essai contrôlé randomisé introduisant une conception nouvelle fondée sur la recherche dans un cadre éducatif authentique (Kestin et al. 2025)
 - [[ai-pbl-computational-thinking-2026]]
 - [[beck-genai-literacy-economics-hands-on]] — Cadre GenAI d'apprentissage actif pour l'économie (Beck et Brodersen 2025)

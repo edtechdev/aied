@@ -86,7 +86,7 @@ L'accent mis par ICAP sur l'engagement génératif et processuel a été repris 
 3. **Mesurer l'engagement honnêtement.** ICAP donne aux chercheurs et aux concepteurs un vocabulaire commun pour distinguer le réel engagement cognitif de la simple activité — un correctif à la notion superficielle d'[[student-engagement]].([[icap-cognitive-engagement-llm-agents]])
 4. **Surveiller l'écart d'annotation entre humains et LLM.** Si des systèmes automatisés sont utilisés pour coder l'engagement, leur déficit systématique par rapport à des humains entraînés doit être pris en compte.([[icap-cognitive-engagement-llm-agents]])
 
-## Concepts associés
+## Concepts liés
 
 - [[active-learning]]
 - [[collaborative-learning]]
@@ -99,7 +99,7 @@ L'accent mis par ICAP sur l'engagement génératif et processuel a été repris 
 - [[human-in-the-loop-ai]]
 - [[limitations-in-aied-research]]
 
-## Articles associés
+## Articles liés
 
 - [[icap-cognitive-engagement-llm-agents]] — Cadre ICAP étendu pour la mesure de l'engagement par annotation humaine et par LLM
 - [[hingle-collaborative-ai-literacy-2025]] — Littératie en IA collaborative à travers les quatre modes d'ICAP

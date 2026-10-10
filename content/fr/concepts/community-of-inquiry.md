@@ -68,7 +68,7 @@ Les auteurs mêmes du cadre fournissent une taxonomie des rôles pour cette cond
 - L'[[assessment|évaluation]] de l'enquête devrait passer des productions finales polies à des **preuves sensibles au processus** — les traces d'[[prompt-engineering|formulation des invites]] et de révision, les pratiques de divulgation et d'attribution, les gestes de vérification, et les journaux d'interaction. Cela s'aligne sur le mouvement plus large de la base de connaissances vers une évaluation [[authentic-assessment|authentique]] et [[process-oriented-assessment|révélant le processus]], et à l'écart des réponses fondées sur la détection.
 - Pédagogiquement, les apprenants ont souvent besoin d'une formation explicite (par ex. une pratique [[simulation|fondée sur la simulation]] avec des rôles scriptés et des points de décision liés à l'IA générative) pour soutenir une enquête authentique dans des conditions d'IA générative — et les enseignants devraient montrer comment interroger les productions générées, ce qui suppose de bâtir l'[[ai-literacy|IA literacy]], l'[[critical-thinking|évaluation critique]] et une [[trust-calibration|confiance]] calibrée.
 
-## Connected Concepts
+## Concepts liés
 
 - [[online-teaching-and-learning]]
 - [[generative-ai]]
@@ -83,7 +83,7 @@ Les auteurs mêmes du cadre fournissent une taxonomie des rôles pour cette cond
 - [[authentic-assessment]]
 - [[trust-calibration]]
 
-## Connected Articles
+## Articles liés
 
 - [[genai-social-annotation-epistemic-network-analysis-2026]] — Déballer les interactions des étudiants dans l'annotation sociale assistée par IA générative : une analyse de réseaux épistémiques de la présence cognitive et sociale
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing CoI in the age of generative AI

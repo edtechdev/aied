@@ -127,7 +127,7 @@ Le délestage cognitif (et sa forme nocive, la dépendance excessive) rejoint fo
 
 Deux études contrôlées du lot récent cernent les deux moitiés de cette affirmation — si le comportement se déplace, et ce qu'il protégeait. [[metacognitive-feedback-anti-deskilling-offloading-2026|Maier et al. (2026)]] ont rendu visible la conséquence d'apprentissage du délestage avant chaque choix, dans une expérience préenregistrée réunissant 704 participants pratiquant l'arithmétique des fractions : les probabilités de déléguer une réponse sont tombées à OR = 0.47 et les probabilités de répondre correctement à un item ultérieur d'un test sans aide ont monté à OR = 1.51, alors qu'une récompense fondée sur l'effort ne déplaçait ni l'un ni l'autre résultat. Le délestage se cumulait à l'intérieur de la session — après avoir délégué un item, les participants déléguaient le suivant dans 69.7% des cas sans la rétroaction et 55.9% des cas avec elle — et une hausse de dix points de pourcentage du délestage était associée à 32% de chances en moins de réussite sans aide (OR = 0.68). [[chatgpt-programming-performance-retention-ownership-2026|Bergh et al. (2026)]] fournissent le complément du côté des résultats : 55 étudiants de premier cycle en informatique qui ont codé avec ChatGPT ont obtenu 89% contre 69% sans lui, se sont rappelé moins du même matériau immédiatement (41% contre 53%) et à 48 heures (39% contre 52%), et n'ont attribué que 45% du code soumis à eux-mêmes contre 81%. Lus ensemble, l'étude sur la rétroaction montre que le comportement peut être déplacé sans restreindre l'accès à l'outil, et l'étude sur la programmation montre ce que le comportement déplacé protégeait. Le modèle est calibré sur les données probantes de terrain les plus solides disponibles : un accès illimité à GPT-4 dans une étude portant sur près de 1.000 étudiants de [[math-education|mathématiques]] au lycée a fait monter la performance en exercice de 48% tout en laissant un déficit de 17% à l'examen sans aide, alors qu'un GPT Tutor contraint par des indices produisait un gain de pratique de 127% avec le déficit à l'examen largement éliminé. Le délestage n'est donc nocif que dans la configuration de contournement, et la variable de conception opérante est de savoir si le modèle se substitue à la compétence cible notée. ([[naim-bypass-offload-scaffold-llm-learning-2026]])
 
-## Connected Concepts
+## Concepts liés
 
 - [[pedagogical-patterns]] — Le risque que toute séquence « effort d'abord » vise à éviter
 - [[learners]] — Les apprenants : le parapluie des concepts du côté de l'apprenant
@@ -148,7 +148,7 @@ Deux études contrôlées du lot récent cernent les deux moitiés de cette affi
 - [[retrieval-spacing-interleaving]] — la contre-pratique consistant à laisser un modèle récupérer à la place de l'apprenant
 - [[cognitive-surrender]]
 
-## Connected Articles
+## Articles liés
 
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Un consensus de 30 experts sur 65 processus d'apprentissage : le délestage aux deux extrémités de la séquence d'apprentissage
 - [[rented-self-decoupling-performance-becoming-2026]] — Le soi loué : un délestage qui coûte le soi disciplinaire de l'apprenant, et pas seulement la compétence

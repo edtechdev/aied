@@ -69,7 +69,7 @@ Une étude de cas institutionnelle retrace un arc de diffusion de dix ans en mat
 
 La conduite du changement est le complément institutionnel de l'intégration au niveau de la classe. Elle opérationnalise les conditions systémiques — gouvernance, développement du corps enseignant, [[student-engagement|engagement]] des parties prenantes et garde-fous en matière d'équité — qui permettent à l'innovation pédagogique de prendre racine, reliant la conception des politiques de l'[[educational-policy-ai|IA dans l'éducation]] à la [[governance|gouvernance]], à l'[[educational-development|développement pédagogique]] et aux résultats en matière d'[[equity-in-ai-education|équité]].
 
-## Connected Concepts
+## Concepts liés
 
 - [[governance]] — les structures de politique et de supervision que la conduite du changement opérationnalise
 - [[educational-policy-ai]] — l'intention de politique d'IA nationale et institutionnelle que la conduite du changement doit traduire en pratique
@@ -81,7 +81,7 @@ La conduite du changement est le complément institutionnel de l'intégration au
 - [[academic-integrity]] — l'ancrage réglementaire central autour duquel s'organise la réforme de l'évaluation
 - [[student-support-and-success]] — faire durer un programme de soutien au-delà du pilote
 
-## Connected Articles
+## Articles liés
 
 - [[mata-sustaining-ai-enabled-student-support-2026]] — Faire durer un soutien aux étudiants permis par l'IA : étude de mise en œuvre et d'impact sur quatre ans d'un chatbot institutionnel (Mata, Russell et Page 2026)
 - [[institutional-change-framework-ai]] — cadre à six dimensions pour adapter les modèles de changement institutionnel à l'IA comme technologie d'arrivée
