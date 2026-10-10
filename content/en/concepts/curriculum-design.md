@@ -11,6 +11,7 @@ discipline: [stem education]
 audience: [instructors, faculty developers]
 level: [higher ed]
 confidence: high
+connected_resources: [intelligent-textbooks]
 reviewed_by: [editor]
 ---
 
