@@ -1,0 +1,21 @@
+/* Print stylesheet for the CJK editions (zh, ja, ko) of the AI Ed wiki PDF.
+
+Loaded only for a translated locale whose script is not Latin, on top of
+pdf-style.css. It exists as a separate file because weasyprint embeds every
+font a stylesheet names, whether or not a glyph is used: naming the CJK faces in
+the shared stylesheet added three unused CJK subsets to the English PDF (+208 KB).
+
+Latin text keeps Georgia; Han glyphs fall through to Noto Serif CJK, which has
+no counterpart in the Latin stack — without it a translated PDF renders Chinese
+as tofu boxes, because WeasyPrint has no font fallback of its own.
+*/
+body {
+  font-family: Georgia, "Times New Roman", "Noto Serif CJK SC", "Noto Serif CJK JP",
+               "Noto Serif CJK KR", "Noto Sans CJK SC", "Noto Sans CJK JP",
+               "Noto Sans CJK KR", serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, "Noto Serif CJK SC", "Noto Serif CJK JP",
+               "Noto Serif CJK KR", "Noto Sans CJK SC", "Noto Sans CJK JP",
+               "Noto Sans CJK KR", serif;
+}
