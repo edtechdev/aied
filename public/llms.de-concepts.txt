@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Concepts and FAQs
-> Full text of 220 concept pages and 37 FAQ pages from the AI in Education Knowledge Base: the syntheses of what the research shows, and the questions those syntheses answer. Small enough to attach to a chat that will not take the complete file.
+> Dies ist eine automatische Übersetzung der englischen Wissensbasis, die noch nicht von einer muttersprachlichen Person geprüft wurde. Sie enthält die Konzept- und FAQ-Seiten; die Artikelseiten bleiben auf Englisch.
 
 Each page below is linked at its address on the site, so an assistant that can browse may prefer to follow the link; the text is included so an assistant that cannot browse can still answer from it. The individual research papers behind these syntheses are linked from each page and are not reproduced here.
 
