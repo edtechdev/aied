@@ -26,7 +26,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **La détection de l'IA** — les [[ai-technologies|technologies]] et les méthodes utilisées pour identifier les contenus générés par l'IA dans les travaux académiques, et la question plus large de la manière dont les établissements devraient répondre au risque que les étudiants utilisent de grands modèles de langue (LLM) pour produire un travail qui n'est pas le leur. Elle couvre les approches fondées sur des classificateurs, les techniques d'invite latente et de vraisemblance, le filigrane et l'analyse stylistique — et, de plus en plus, les débats sur les limites de la détection et sur l'intérêt de refondre l'évaluation plutôt que de la surveiller.
+> **La détection de l'IA** — les [[ai-technologies|Technologies de l'IA]] et les méthodes utilisées pour identifier les contenus générés par l'IA dans les travaux académiques, et la question plus large de la manière dont les établissements devraient répondre au risque que les étudiants utilisent de grands modèles de langue (LLM) pour produire un travail qui n'est pas le leur. Elle couvre les approches fondées sur des classificateurs, les techniques d'invite latente et de vraisemblance, le filigrane et l'analyse stylistique — et, de plus en plus, les débats sur les limites de la détection et sur l'intérêt de refondre l'évaluation plutôt que de la surveiller.
 
 ## Questions à examiner
 

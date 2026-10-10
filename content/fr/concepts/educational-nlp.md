@@ -19,7 +19,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> Le **TAL éducatif** applique les [[ai-technologies|technologies]] du langage à l'apprentissage : [[llm-item-difficulty-prediction]], [[teaching-feedback-classification-benchmark]], [[llm-sentiment-analysis-education-research]] et [[vocabulary-difficulty-prediction]] montrent que les LLM font progresser l'analyse du langage des étudiants à grande échelle ([[educational-measurement]], TAL éducatif).
+> Le **TAL éducatif** applique les [[ai-technologies|Technologies de l'IA]] du langage à l'apprentissage : [[llm-item-difficulty-prediction]], [[teaching-feedback-classification-benchmark]], [[llm-sentiment-analysis-education-research]] et [[vocabulary-difficulty-prediction]] montrent que les LLM font progresser l'analyse du langage des étudiants à grande échelle ([[educational-measurement]], TAL éducatif).
 
 ## Questions à examiner
 

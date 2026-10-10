@@ -26,7 +26,7 @@ ai_assist:
 ## Questions à examiner
 
 - Quelle est la différence entre une stratégie d'enseignement (pédagogie) et une théorie de la manière dont l'apprentissage se produit ? Pouvez-vous nommer une stratégie que vous utilisez et la théorie de l'apprentissage sur laquelle elle repose peut-être ?
-- Cette page soutient que tout outil d'IA « embarque des présupposés pédagogiques », que le concepteur les énonce ou non. Prenez un [[conversational-ai|chatbot]] qui se contente de répondre aux questions : quelle pédagogie met-il silencieusement en œuvre, et est-ce intentionnel ?
+- Cette page soutient que tout outil d'IA « embarque des présupposés pédagogiques », que le concepteur les énonce ou non. Prenez un [[conversational-ai|agent conversationnel]] qui se contente de répondre aux questions : quelle pédagogie met-il silencieusement en œuvre, et est-ce intentionnel ?
 - Une même [[generative-ai|IA générative]] peut être un soutien sous une pédagogie, un partenaire socratique sous une autre, ou un générateur de réponses sous une troisième. Pouvez-vous décrire un seul outil utilisé de ces trois manières différentes ?
 - Les données suggèrent que la *manière* dont l'IA est utilisée importe autant que le fait *qu*'elle soit utilisée. Avez-vous observé une même IA aider une classe et nuire à une autre ? Qu'est-ce qui différait ?
 - Si vous deviez conseiller un établissement sur l'achat d'un outil d'IA, quelles questions poseriez-vous pour révéler la pédagogie qui y est embarquée — plutôt que sa simple liste de fonctionnalités ?

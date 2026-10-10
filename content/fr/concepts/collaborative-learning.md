@@ -27,7 +27,7 @@ ai_assist:
 
 ## Questions à examiner
 
-- Pensez à un moment où vous avez profondément appris quelque chose en groupe. Qu'est-ce qui a fait que cela a fonctionné ? Imaginez maintenant qu'un [[conversational-ai|chatbot]] d'IA rejoigne ce groupe — comment pourrait-il renforcer ou saper silencieusement ce que vous avez vécu ?
+- Pensez à un moment où vous avez profondément appris quelque chose en groupe. Qu'est-ce qui a fait que cela a fonctionné ? Imaginez maintenant qu'un [[conversational-ai|agent conversationnel]] d'IA rejoigne ce groupe — comment pourrait-il renforcer ou saper silencieusement ce que vous avez vécu ?
 - La recherche constate un arbitrage : déléguer le raisonnement à l'IA produit la meilleure performance sur la tâche mais le plus faible engagement autorégulateur, alors que le mode qui construit l'[[self-regulated-learning|autorégulation]] sous-performe sur la tâche. S'il fallait choisir, que protégériez-vous — le résultat ou la lutte ?
 - Le cadre ICAP classe la collaboration « interactive » comme la forme la plus profonde d'engagement. Une IA qui répond à la place du groupe pourrait-elle réellement faire descendre la collaboration du stade interactif au stade simplement passif — même si les étudiants s'en disent plus satisfaits ?
 - Une étude a constaté que les médiateurs d'IA ne sont crus que tant qu'ils restent neutres ; lorsque l'IA passe au conseil ou à la contestation, cette confiance s'érode. Jusqu'où un médiateur d'IA d'un groupe devrait-il être neutre ?

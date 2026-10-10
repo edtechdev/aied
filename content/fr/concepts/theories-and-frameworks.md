@@ -66,7 +66,7 @@ Celles-ci expliquent des mécanismes : elles nomment les pièces qui font le tra
 - **Le [[icap-framework|cadre ICAP]]** — classe l'engagement en passif, actif, constructif et interactif ; utile pour demander quel mode une interaction avec l'IA rend réellement possible.
 - **Le [[samr-model|SAMR]]** — de la substitution à la redéfinition. Populaire comme récit de maturité, faible comme instrument de mesure.
 - **La [[universal-design-for-learning|conception universelle de l'apprentissage]], l'[[inclusive-learning|apprentissage inclusif]] et l'[[accessibility|accessibilité]]** — des cadres de conception portant sur qui est servi, et ceux que l'on invoque le plus souvent dans les travaux sur le handicap et l'équité.
-- **La [[learning-design|conception pédagogique]], la [[curriculum-design|conception de programmes]] et le [[design-thinking|design thinking]]** — comment les tâches, les séquences et les programmes sont structurés avant même qu'un outil ne soit choisi.
+- **La [[learning-design|conception pédagogique]], la [[curriculum-design|conception de programmes]] et le [[design-thinking|conception par le design]]** — comment les tâches, les séquences et les programmes sont structurés avant même qu'un outil ne soit choisi.
 - **La [[change-management|gestion du changement]]** — si un système est adopté ou non, ce qui est généralement une question institutionnelle plutôt que pédagogique.
 
 ## Modèles de mesure et computationnels

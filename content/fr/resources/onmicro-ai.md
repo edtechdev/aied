@@ -35,7 +35,7 @@ ai_assist:
 
 ## Ce que vous pouvez en faire
 
-Les applications peuvent être intégrées dans Canvas, Moodle, Blackboard ou toute [[edtech-platform|plateforme compatible LTI]], où notes et accès peuvent se synchroniser ; les exemples publiés comprennent une [[simulation|simulation]] de communication avec les patients, une application de retour sur une étude de cas qui note la compréhension avant qu'un élève ne passe à la suite, et un bref défi de pratique langagière. L'analytique d'usage est la raison que le projet donne pour préférer les applications aux [[conversational-ai|chatbots]] personnalisés : un flux conçu peut être observé et révisé, ce qu'un dialogue ouvert ne permet pas. Des modèles des principaux fournisseurs peuvent être sélectionnés, et la plateforme suit le coût d'exécution de chaque application.
+Les applications peuvent être intégrées dans Canvas, Moodle, Blackboard ou toute [[edtech-platform|plateforme compatible LTI]], où notes et accès peuvent se synchroniser ; les exemples publiés comprennent une [[simulation|simulation]] de communication avec les patients, une application de retour sur une étude de cas qui note la compréhension avant qu'un élève ne passe à la suite, et un bref défi de pratique langagière. L'analytique d'usage est la raison que le projet donne pour préférer les applications aux [[conversational-ai|agents conversationnels]] personnalisés : un flux conçu peut être observé et révisé, ce qu'un dialogue ouvert ne permet pas. Des modèles des principaux fournisseurs peuvent être sélectionnés, et la plateforme suit le coût d'exécution de chaque application.
 
 ## À qui cela s'adresse
 

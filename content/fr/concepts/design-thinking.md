@@ -1,6 +1,6 @@
 ---
 connected_resources: [vibes-diy]
-title: "Design Thinking"
+title: "Conception par le design"
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-10-10T03:24:44-04:00"
 type: concept

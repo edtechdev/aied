@@ -38,7 +38,7 @@ Un schéma par défaut solide est le suivant : **l'apprenant essaie → l'IA sou
 - Réduire progressivement le soutien à mesure que la compétence se développe.
 - Conserver quelques occasions sans IA pour que les apprenants puissent évaluer ce qu'ils savent faire seuls.
 
-La synthèse [[reducing-ai-misuse|Reducing AI Misuse]] recommande précisément des séquences « réfléchir d'abord, IA ensuite, revenir sur son travail » et des points de contrôle délibérés de l'évaluation.
+La synthèse [[reducing-ai-misuse|Réduire les mésusages de l'IA]] recommande précisément des séquences « réfléchir d'abord, IA ensuite, revenir sur son travail » et des points de contrôle délibérés de l'évaluation.
 
 ## Adapter le rôle de l'IA au niveau d'engagement cognitif
 

@@ -28,7 +28,7 @@ ai_assist:
 # Comment aborder les idées fausses courantes sur l'IA en éducation ?
 
 
-Cette FAQ est organisée par groupe de parties prenantes et utilise une **approche par réfutation** : nommer l'idée fausse, expliquer pourquoi elle peut sembler plausible, rejeter directement la croyance inexacte et la remplacer par un modèle mental plus utile. Elle s'appuie sur la base de connaissances « AI in Education », en particulier sur ses synthèses de [[misconceptions|Misconceptions about AI]], [[ai-literacy|AI Literacy]], [[cognitive-offloading|Cognitive Offloading]] et [[refutation-text|Refutation Text]]. 
+Cette FAQ est organisée par groupe de parties prenantes et utilise une **approche par réfutation** : nommer l'idée fausse, expliquer pourquoi elle peut sembler plausible, rejeter directement la croyance inexacte et la remplacer par un modèle mental plus utile. Elle s'appuie sur la base de connaissances « AI in Education », en particulier sur ses synthèses de [[misconceptions|Idées fausses sur l'IA]], [[ai-literacy|Littératie en IA]], [[cognitive-offloading|Délestage cognitif]] et [[refutation-text|Texte réfutatif]]. 
 
 Le message central n'est pas que l'IA est par nature bénéfique ou nuisible. Ses effets éducatifs dépendent de **qui l'utilise, pour quelle tâche, quelle réflexion l'IA effectue, quelle responsabilité reste à l'humain et comment l'apprentissage est évalué**.
 
@@ -44,7 +44,7 @@ Traitez une réponse d'IA comme un **brouillon ou une hypothèse provisoire**, e
 
 Un test utile est le suivant : *accepterais-je cette affirmation si une personne inconnue l'énonçait sans montrer de preuves ?* Si non, n'abaissez pas le niveau d'exigence simplement parce que la prose semble soignée.
 
-Voir [[misconceptions|Misconceptions about AI]], [[hallucination-risk|Hallucination Risk]] et [[trust-calibration|Trust Calibration]].
+Voir [[misconceptions|Idées fausses sur l'IA]], [[hallucination-risk|Risque d'hallucination]] et [[trust-calibration|Le calibrage de la confiance]].
 
 ---
 
@@ -56,7 +56,7 @@ Cette distinction importe parce que l'IA peut être d'accord avec vous simplemen
 
 Demandez à l'IA d'identifier les faiblesses de votre raisonnement, de proposer des contre-preuves et d'expliquer ce qui rendrait sa réponse fausse. Vérifiez ensuite la réponse de façon indépendante. L'accord de l'IA n'est pas la preuve que votre position est correcte.
 
-Voir [[misconceptions|Misconceptions about AI]], [[ai-sycophancy|AI Sycophancy]] et [[ai-literacy|AI Literacy]].
+Voir [[misconceptions|Idées fausses sur l'IA]], [[ai-sycophancy|Sycophancie de l'IA]] et [[ai-literacy|Littératie en IA]].
 
 ---
 
@@ -73,7 +73,7 @@ Après avoir utilisé l'IA, vérifiez si vous pouvez :
 * identifier les faiblesses de la réponse générée ;
 * transférer l'idée dans un nouveau contexte.
 
-Voir [[generative-ai-guardrails-harm-learning|Generative AI Without Guardrails Can Harm Learning]] et [[cognitive-offloading|Cognitive Offloading]].
+Voir [[generative-ai-guardrails-harm-learning|Generative AI Without Guardrails Can Harm Learning]] et [[cognitive-offloading|Délestage cognitif]].
 
 ---
 
@@ -95,7 +95,7 @@ Une séquence utile est la suivante :
 
 L'objectif n'est pas de maximiser la difficulté. Il est de préserver le travail cognitif qui produit l'apprentissage visé.
 
-Voir [[cognitive-offloading|Cognitive Offloading]] et [[reducing-ai-misuse|Reducing AI Misuse]].
+Voir [[cognitive-offloading|Délestage cognitif]] et [[reducing-ai-misuse|Réduire les mésusages de l'IA]].
 
 ---
 
@@ -115,7 +115,7 @@ Avant d'utiliser l'IA, demandez-vous :
 
 Lorsque les attentes ne sont pas claires, la déclaration et la clarification propres à la tâche sont plus sûres que le fait de supposer soit que tout usage est interdit, soit que tout usage est acceptable.
 
-Voir [[academic-integrity|Academic Integrity]] et [[ai-use-disclosure|AI Use and Disclosure Statements]].
+Voir [[academic-integrity|Intégrité académique]] et [[ai-use-disclosure|Déclarations d'utilisation et de divulgation de l'IA]].
 
 ---
 
@@ -129,7 +129,7 @@ La question plus utile est la suivante :
 
 Déléguer la correction grammaticale n'est pas la même chose que déléguer les affirmations, les preuves, le raisonnement et les contre-arguments d'une dissertation. Plus la couche cognitive déléguée est profonde, plus le risque est grand que le produit final surestime votre propre compétence.
 
-Voir [[cognitive-offloading|Cognitive Offloading]] et [[ai-literacy|AI Literacy]].
+Voir [[cognitive-offloading|Délestage cognitif]] et [[ai-literacy|Littératie en IA]].
 
 ---
 
@@ -147,7 +147,7 @@ L'itération peut améliorer une réponse, mais une génération répétée n'es
 
 Formuler des invites est une compétence utile, mais elle ne supprime pas le besoin de connaissances disciplinaires et de jugement critique. Une [[brunnstrom-ai-interaction-literacy-srl-2026|démonstration d'un étudiant naïf utilisant un agent conversationnel sur une question d'examen à faire à la maison]] montre combien d'interaction un bon usage exige réellement : la sortie par défaut est restée « soignée mais pédagogiquement mince » au niveau multistructurel de la taxonomie SOLO, et atteindre une boucle d'apprentissage utilisable a nécessité huit tours d'intervention de niveau méta, à savoir signaler la surcharge, demander une simplification, resserrer le périmètre. Les auteurs nomment la capacité requise **littératie d'interaction avec l'IA**, soit la capacité de piloter, d'évaluer et d'apprendre à partir d'une interaction itérative avec l'IA générative, et ils notent le biais d'équité : parce que l'usage non guidé impose une compétence de gestion de l'interaction inégalement répartie, l'IA générative « peut être surtout bénéfique aux étudiants déjà avantagés ».
 
-Voir [[misconceptions|Misconceptions about AI]], [[prompt-engineering|Prompt Engineering]] et [[brunnstrom-ai-interaction-literacy-srl-2026|la littératie d'interaction avec l'IA]]. Pour les exigences d'auto-[[regulation|régulation]] sous-jacentes, voir [[developing-ai-tutor|How Do We Develop an Effective AI Tutor?]].
+Voir [[misconceptions|Idées fausses sur l'IA]], [[prompt-engineering|L'ingénierie des invites]] et [[brunnstrom-ai-interaction-literacy-srl-2026|la littératie d'interaction avec l'IA]]. Pour les exigences d'auto-[[regulation|régulation]] sous-jacentes, voir [[developing-ai-tutor|How Do We Develop an Effective AI Tutor?]].
 
 ---
 
@@ -159,7 +159,7 @@ Une externalisation non détectée peut tout de même vous laisser incapable d'e
 
 Cet écart peut rester caché jusqu'à ce qu'un cours ultérieur, un [[summative-assessment|examen]], un stage, une procédure d'octroi de licence ou une tâche professionnelle exige une performance autonome. L'intégrité académique ne consiste donc pas seulement à éviter une sanction. Elle consiste aussi à faire en sorte que vos diplômes continuent de représenter ce que vous savez réellement faire.
 
-Voir [[academic-integrity|Academic Integrity]], [[assessment-validity|Assessment Validity]] et [[authentic-assessment|Authentic Assessment]].
+Voir [[academic-integrity|Intégrité académique]], [[assessment-validity|Validité de l'évaluation]] et [[authentic-assessment|Évaluation authentique]].
 
 ---
 
@@ -179,7 +179,7 @@ L'IA peut rédiger des exemples, produire des documents préliminaires, répondr
 
 Le rôle de l'enseignant peut passer de source unique d'information à celui d'**orchestrateur, de concepteur pédagogique, de guide disciplinaire et de décideur humain responsable**. Il s'agit d'une transformation du travail professionnel, non de sa disparition.
 
-Voir [[teacher-role|Teaching]], [[learning-design|Learning Design]] et [[teacher-ai-competency|Teacher AI Competency]].
+Voir [[teacher-role|L'enseignement]], [[learning-design|Conception de l'apprentissage]] et [[teacher-ai-competency|La compétence des enseignants en IA]].
 
 ---
 
@@ -191,7 +191,7 @@ Les outils de détection d'IA présentent des limites comparables et peuvent pro
 
 Une réponse plus défendable est la **vérification de l'apprentissage** : demander aux étudiants d'expliquer leur raisonnement, de discuter de leurs sources, de réviser un passage, d'appliquer l'idée à un nouveau cas ou de montrer des traces du processus. Cela évalue directement ce qui compte, à savoir la compréhension de l'étudiant.
 
-Voir [[academic-integrity|Academic Integrity]] et [[ai-detection|AI Detection]].
+Voir [[academic-integrity|Intégrité académique]] et [[ai-detection|Détection de l'IA]].
 
 ---
 
@@ -208,7 +208,7 @@ Un modèle plus clair consiste à définir des conditions propres à chaque tâc
 
 Les étudiants sont plus enclins à respecter les limites lorsque l'enseignant explique **pourquoi** chaque condition existe et l'applique de façon cohérente dans le plan de cours, les consignes du travail, la rétroaction et l'évaluation.
 
-Voir [[framing-ai-use-for-students|Framing AI Use for Students]], [[academic-integrity|Academic Integrity]] et [[educational-policy-ai|Educational AI Policy]].
+Voir [[framing-ai-use-for-students|Cadrer l'usage de l'IA par les étudiants]], [[academic-integrity|Intégrité académique]] et [[educational-policy-ai|Politique éducative en matière d'IA]].
 
 ---
 
@@ -230,7 +230,7 @@ Le même système peut saper l'apprentissage lorsqu'il fournit immédiatement de
 
 La valeur éducative réside non seulement dans le modèle, mais dans l'**[[pedagogy|enveloppe pédagogique]]** qui l'entoure.
 
-Voir [[learning-design|Learning Design]], [[scaffolding]] et [[reducing-ai-misuse|Reducing AI Misuse]].
+Voir [[learning-design|Conception de l'apprentissage]], [[scaffolding]] et [[reducing-ai-misuse|Réduire les mésusages de l'IA]].
 
 ---
 
@@ -252,7 +252,7 @@ Les étudiants peuvent préférer une rétroaction immédiate, encourageante, d�
 
 Les étudiants ont aussi besoin d'une **littératie de la rétroaction** : la capacité d'interpréter, d'évaluer et d'appliquer sélectivement la rétroaction plutôt que de l'accepter automatiquement.
 
-Voir [[ai-feedback-quality|AI Feedback Quality]] et [[feedback-literacy|Feedback Literacy]].
+Voir [[ai-feedback-quality|Qualité de la rétroaction par IA]] et [[feedback-literacy|Littératie en rétroaction]].
 
 ---
 
@@ -272,7 +272,7 @@ Les éducateurs doivent aussi comprendre :
 
 Les recherches synthétisées dans le wiki ont montré que les enseignants surestimaient largement leur compétence en IA lorsque les auto-évaluations étaient comparées à des mesures fondées sur la performance. La compétence démontrée était bien plus fortement liée à l'intégration en classe que la seule confiance.
 
-Voir [[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]], [[teacher-ai-competency|Teacher AI Competency]] et [[educational-development|Educational Development]].
+Voir [[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]], [[teacher-ai-competency|La compétence des enseignants en IA]] et [[educational-development|Développement de la formation]].
 
 ---
 
@@ -291,7 +291,7 @@ Une tâche est plus susceptible d'affaiblir l'[[student-engagement|engagement]] 
 
 La distinction pertinente n'est pas simplement **IA contre absence d'IA**. Elle est de savoir si l'IA fonctionne comme un **entraîneur, un défi ou une source pour l'évaluation** plutôt que comme un substitut au raisonnement de l'apprenant.
 
-Voir [[critical-thinking|Critical Thinking]], [[cognitive-offloading|Cognitive Offloading]] et [[learning-design|Learning Design]].
+Voir [[critical-thinking|La pensée critique]], [[cognitive-offloading|Délestage cognitif]] et [[learning-design|Conception de l'apprentissage]].
 
 ---
 
@@ -318,7 +318,7 @@ Avant l'achat, les dirigeants devraient préciser :
 * la supervision humaine requise ;
 * les conditions dans lesquelles l'établissement modifiera ou cessera l'usage.
 
-Voir [[administrator|AI from the Administrator Perspective]], [[governance|AI Governance]] et [[ai-ed-evaluation|AI Ed Evaluation]].
+Voir [[administrator|Du point de vue de l'administration]], [[governance|Gouvernance de l'IA]] et [[ai-ed-evaluation|Évaluation de l'IA en éducation]].
 
 ---
 
@@ -338,7 +338,7 @@ Un modèle peut résoudre des problèmes difficiles, produire des explications f
 
 L'efficacité en classe exige une mise à l'essai sur le terrain avec de vrais apprenants, des conditions de comparaison pertinentes, des mesures de résultats appropriées et une attention à la mise en œuvre.
 
-Voir [[ai-ed-evaluation|AI Ed Evaluation]], [[benchmark]] et [[learning-gains|Learning Gains]].
+Voir [[ai-ed-evaluation|Évaluation de l'IA en éducation]], [[benchmark]] et [[learning-gains|Gains d'apprentissage]].
 
 ---
 
@@ -358,7 +358,7 @@ Pour les décisions éducatives lourdes de conséquences, les établissements de
 * un suivi après le déploiement ;
 * une enquête sur les préjudices différenciés.
 
-Voir [[misconceptions|Misconceptions about AI]], [[bias-mitigation|Bias Mitigation]] et [[governance|AI Governance]].
+Voir [[misconceptions|Idées fausses sur l'IA]], [[bias-mitigation|Réduction des biais]] et [[governance|Gouvernance de l'IA]].
 
 ---
 
@@ -374,7 +374,7 @@ La planification de l'équité doit donc aborder au moins trois niveaux :
 2. **Compétences :** qui sait l'utiliser et l'évaluer ?
 3. **Résultats :** qui en bénéficie réellement, et qui subit un préjudice nouveau ?
 
-Voir [[equity-in-ai-education|Equity in AI Education]], [[digital-divide|Digital Divide]] et [[ai-literacy|AI Literacy]].
+Voir [[equity-in-ai-education|Équité dans l'IA en éducation]], [[digital-divide|Fracture numérique]] et [[ai-literacy|Littératie en IA]].
 
 ---
 
@@ -395,7 +395,7 @@ Une architecture de politique efficace relie donc :
 
 La politique devrait aussi expliquer la justification pédagogique des restrictions ou des autorisations. Les règles qui se contentent d'indiquer « autorisé » ou « interdit » produisent moins facilement un jugement éclairé.
 
-Voir [[governance|AI Governance]], [[educational-policy-ai|Educational AI Policy]] et [[framing-ai-use-for-students|Framing AI Use for Students]].
+Voir [[governance|Gouvernance de l'IA]], [[educational-policy-ai|Politique éducative en matière d'IA]] et [[framing-ai-use-for-students|Cadrer l'usage de l'IA par les étudiants]].
 
 ---
 
@@ -419,7 +419,7 @@ Une stratégie institutionnelle plus durable combine :
 
 L'objectif n'est pas seulement de détecter une aide. Il est de préserver la validité des jugements éducatifs.
 
-Voir [[academic-integrity|Academic Integrity]], [[ai-detection|AI Detection]], [[remote-proctoring|Remote Proctoring]] et [[teichmann-detecting-undetectable-misconduct-2026|undetectable misconduct]]. Pour la réponse en matière de conception, voir [[redesign-assessment-ai-era|How Should Assessment Be Redesigned for the AI Era?]] et [[reduce-ai-cheating|How Can We Reduce AI Cheating?]].
+Voir [[academic-integrity|Intégrité académique]], [[ai-detection|Détection de l'IA]], [[remote-proctoring|Surveillance à distance des examens]] et [[teichmann-detecting-undetectable-misconduct-2026|undetectable misconduct]]. Pour la réponse en matière de conception, voir [[redesign-assessment-ai-era|How Should Assessment Be Redesigned for the AI Era?]] et [[reduce-ai-cheating|How Can We Reduce AI Cheating?]].
 
 ---
 
@@ -441,7 +441,7 @@ Le développement professionnel du corps enseignant devrait donc aborder :
 
 Une démonstration unique des fonctionnalités d'une IA résoudra difficilement un problème de changement sociotechnique et professionnel.
 
-Voir [[educational-development|Educational Development]], [[teacher-ai-competency|Teacher AI Competency]] et [[teacher-role|Teaching]].
+Voir [[educational-development|Développement de la formation]], [[teacher-ai-competency|La compétence des enseignants en IA]] et [[teacher-role|L'enseignement]].
 
 ---
 
@@ -471,7 +471,7 @@ Un tuteur pédagogiquement plus solide peut :
 
 L'exactitude reste nécessaire, mais la qualité pédagogique concerne aussi le moment de l'intervention, l'étayage, l'engagement cognitif et le [[transfer-of-learning|transfert des apprentissages]].
 
-Voir [[learning-design|Learning Design]], [[intelligent-tutoring|Intelligent Tutoring Systems]] et [[pedagogical-safety|Pedagogical Safety]].
+Voir [[learning-design|Conception de l'apprentissage]], [[intelligent-tutoring|Systèmes de tutorat intelligent]] et [[pedagogical-safety|Sécurité pédagogique]].
 
 ---
 
@@ -492,7 +492,7 @@ Les fonctionnalités de conception utiles comprennent :
 * une pratique périodique sans aide ;
 * des occasions claires de passer outre le système.
 
-Voir [[agentic-ai|Agentic AI]], [[agency]] et [[cognitive-offloading|Cognitive Offloading]].
+Voir [[agentic-ai|IA agentique]], [[agency]] et [[cognitive-offloading|Délestage cognitif]].
 
 ---
 
@@ -511,7 +511,7 @@ Les preuves issues des bancs d'essai ne sont pas équivalentes à une estimation
 * des invites adverses ;
 * l'évolution de la dépendance de l'apprenant dans le temps.
 
-Voir [[pedagogical-safety|Pedagogical Safety]] et [[hazra-safetutors-pedagogical-safety-2026|AI Tutor Safety and Pedagogical Harms]].
+Voir [[pedagogical-safety|Sécurité pédagogique]] et [[hazra-safetutors-pedagogical-safety-2026|AI Tutor Safety and Pedagogical Harms]].
 
 ---
 
@@ -531,7 +531,7 @@ Un modèle plus grand peut résoudre des problèmes plus difficiles tout en éch
 
 Le comportement pédagogique doit être conçu explicitement, ancré dans la [[learning-theories|théorie de l'apprentissage]], testé auprès de différents groupes d'apprenants et suivi pendant un usage prolongé. Le choix du modèle compte, mais la couche de conception pédagogique reste essentielle. Une [[reichert-human-centered-llm-chatbot-design-teachers-2026|étude de conception participative menée avec six enseignants du secondaire]] suggère que la sécurité vient du périmètre et de la supervision plutôt que de l'échelle : les enseignants ont conçu indépendamment des « experts délimités », c'est-à-dire une capacité spécialisée confinée à un domaine strictement défini sous supervision humaine, en traçant deux lignes de démarcation (les limites d'autorité, car la responsabilité de l'apprentissage et de la sécurité des étudiants ne peut pas être déléguée, et les limites d'expertise, car l'IA manque de connaissances contextuelles sur les étudiants individuels et les normes de la classe) et trois couches de protection (les limites de domaine, le filtrage des contenus avec des refus standardisés et la possibilité pour l'enseignant de passer outre). Ils ont demandé une journalisation complète des conversations et des alertes en temps réel plutôt que de meilleures explications du modèle.
 
-Voir [[learning-design|Learning Design]], [[llm-training-and-fine-tuning|Pedagogical LLM Training]], [[pedagogical-safety|Pedagogical Safety]] et [[reichert-human-centered-llm-chatbot-design-teachers-2026|bounded-expert chatbot design]].
+Voir [[learning-design|Conception de l'apprentissage]], [[llm-training-and-fine-tuning|Pedagogical LLM Training]], [[pedagogical-safety|Sécurité pédagogique]] et [[reichert-human-centered-llm-chatbot-design-teachers-2026|bounded-expert chatbot design]].
 
 ---
 
@@ -549,7 +549,7 @@ Une rétroaction efficace devrait aider l'apprenant à identifier la prochaine �
 * si les idées fausses diminuent ;
 * si la performance autonome ultérieure s'améliore.
 
-Voir [[ai-feedback-quality|AI Feedback Quality]], [[feedback]] et [[feedback-literacy|Feedback Literacy]].
+Voir [[ai-feedback-quality|Qualité de la rétroaction par IA]], [[feedback]] et [[feedback-literacy|Littératie en rétroaction]].
 
 ---
 
@@ -571,7 +571,7 @@ Une conception sérieuse avec humain dans la boucle devrait préciser :
 
 Un réviseur humain nominal qui manque de temps, d'autorité ou d'informations pertinentes ne constitue pas une supervision réelle.
 
-Voir [[human-in-the-loop-ai|Human-in-the-Loop AI]] et [[governance|AI Governance]].
+Voir [[human-in-the-loop-ai|IA avec humain dans la boucle]] et [[governance|Gouvernance de l'IA]].
 
 ---
 
@@ -583,7 +583,7 @@ Le mode de saisie, le niveau de lecture, les hypothèses linguistiques, les exig
 
 Les équipes de conception devraient associer tôt les apprenants et les éducateurs concernés, tester avec des utilisateurs divers, minimiser la collecte de données, fournir des solutions de rechange accessibles et examiner les résultats différenciés. Un système ne peut pas être considéré comme pédagogiquement efficace si ses bénéfices sont inaccessibles ou si ses préjudices sont inégalement répartis.
 
-Voir [[accessibility]], [[universal-design-for-learning|Universal Design for Learning]], [[privacy]] et [[equity-in-ai-education|Equity in AI Education]].
+Voir [[accessibility]], [[universal-design-for-learning|Conception universelle de l'apprentissage]], [[privacy]] et [[equity-in-ai-education|Équité dans l'IA en éducation]].
 
 ---
 
@@ -610,7 +610,7 @@ Les études devraient distinguer :
 
 Sans mesure sans aide, les chercheurs peuvent attribuer à tort à l'apprenant la contribution du système d'IA. Cela est particulièrement important lorsque l'outil peut générer la solution, le raisonnement ou le texte que la mesure de résultat récompense.
 
-Voir [[learning-gains|Learning Gains]], [[assessment-validity|Assessment Validity]] et [[cognitive-offloading|Cognitive Offloading]].
+Voir [[learning-gains|Gains d'apprentissage]], [[assessment-validity|Validité de l'évaluation]] et [[cognitive-offloading|Délestage cognitif]].
 
 ---
 
@@ -630,7 +630,7 @@ Les personnes peuvent être confiantes et se tromper, ou compétentes et manquer
 
 La synthèse du wiki sur la recherche relative à la littératie de l'IA des enseignants fait état d'un écart important entre l'auto-évaluation et la performance mesurée, ce qui renforce la nécessité d'évaluer les deux.
 
-Voir [[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]] et [[ai-literacy|AI Literacy]].
+Voir [[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]] et [[ai-literacy|Littératie en IA]].
 
 ---
 
@@ -649,7 +649,7 @@ Un parcours probatoire responsable peut aller de :
 
 Les chercheurs devraient indiquer clairement à quel maillon de cette chaîne une étude s'intéresse, plutôt que de généraliser un résultat de banc d'essai en une affirmation sur l'apprentissage.
 
-Voir [[benchmark]], [[ai-ed-evaluation|AI Ed Evaluation]] et [[limitations-in-aied-research|Limitations of the AIED Evidence Base]].
+Voir [[benchmark]], [[ai-ed-evaluation|Évaluation de l'IA en éducation]] et [[limitations-in-aied-research|Limites de la base de données probantes en AIED]].
 
 ---
 
@@ -670,7 +670,7 @@ Un système peut mesurer constamment le mauvais construit, omettre des dimension
 
 Un accord élevé est une forme de preuve. Ce n'est pas un argument complet de validité. Un [[opraise-automated-marking-ai-assessment-2026|vaste banc d'essai britannique]] montre directement cette dissociation : sur 761 copies authentiques de psychologie de premier cycle, les notes de l'IA et celles des humains concordaient sur la classe de mention seulement 35–65% du temps (63% dans un établissement, 53% dans un deuxième, 35% dans un troisième), alors que la fiabilité était quasi parfaite (corrélations intra-classes de re-notation allant jusqu'à 1.00). Les systèmes concordaient entre eux bien plus étroitement qu'avec les humains (ICC à trois modèles = 0.91), ne s'accordant sur la classe que pour 56% des copies lorsque les trois modèles devaient être d'accord, et les notes étaient comprimées vers le milieu (score de compression 0.47–0.82), si bien que l'IA était la moins exacte précisément aux frontières séparant un First d'un Upper Second ou une réussite d'un échec. La rétroaction de l'IA était aussi trois à huit fois plus longue que la moyenne humaine de 100–200 mots : le volume n'est pas la qualité.
 
-Voir [[assessment-validity|Assessment Validity]], [[educational-measurement|Educational Measurement]], [[automated-assessment|Automated Assessment]] et [[opraise-automated-marking-ai-assessment-2026|automated marking of university essays]].
+Voir [[assessment-validity|Validité de l'évaluation]], [[educational-measurement|Educational Measurement]], [[automated-assessment|Évaluation automatisée]] et [[opraise-automated-marking-ai-assessment-2026|automated marking of university essays]].
 
 ---
 
@@ -682,7 +682,7 @@ Un modèle peut imiter le langage de la confusion ou d'une idée fausse sans man
 
 Les affirmations fondées sur des apprenants simulés devraient donc être validées par rapport au comportement humain avant de servir à appuyer des conclusions pédagogiques ou politiques.
 
-Voir [[simulating-students|Simulating Students]] et [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]].
+Voir [[simulating-students|Simulation d'étudiants]] et [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]].
 
 ---
 
@@ -702,7 +702,7 @@ Les chercheurs devraient examiner :
 
 Un petit gain moyen peut cacher un effet précieux pour un groupe et un préjudice pour un autre. Un grand gain moyen peut dépendre de conditions que d'autres établissements ne peuvent pas reproduire.
 
-Voir [[limitations-in-aied-research|Limitations of the AIED Evidence Base]], [[research-methods-aied|Research Methods in AIED]] et [[equity-in-ai-education|Equity in AI Education]].
+Voir [[limitations-in-aied-research|Limites de la base de données probantes en AIED]], [[research-methods-aied|Les méthodes de recherche en AIED]] et [[equity-in-ai-education|Équité dans l'IA en éducation]].
 
 ---
 
@@ -726,7 +726,7 @@ Une question publique plus utile est la suivante :
 
 Cette question encourage l'évaluation plutôt que l'engouement ou la panique.
 
-Voir [[ai-education|AI in Education]] et [[misconceptions|Misconceptions about AI]].
+Voir [[ai-education|L'IA en éducation]] et [[misconceptions|Idées fausses sur l'IA]].
 
 ---
 
@@ -747,7 +747,7 @@ Le wiki synthétise des recherches dans lesquelles la confiance avec la technolo
 
 La littératie de l'IA doit être enseignée et démontrée ; elle ne devrait pas être déduite de l'âge ou de la fréquence d'usage de la technologie.
 
-Voir [[ai-literacy|AI Literacy]] et [[digital-literacy-illusion|The Illusion of Competence]].
+Voir [[ai-literacy|Littératie en IA]] et [[digital-literacy-illusion|The Illusion of Competence]].
 
 ---
 
@@ -768,7 +768,7 @@ Une réponse efficace combine :
 
 Traiter tout usage de l'IA comme une preuve de mauvaise moralité peut pousser l'usage vers le secret et rendre le dialogue honnête moins probable.
 
-Voir [[academic-integrity|Academic Integrity]] et [[framing-ai-use-for-students|Framing AI Use for Students]].
+Voir [[academic-integrity|Intégrité académique]] et [[framing-ai-use-for-students|Cadrer l'usage de l'IA par les étudiants]].
 
 ---
 
@@ -780,7 +780,7 @@ Une calculatrice effectue généralement une opération mathématique définie. 
 
 Cela signifie que les éducateurs doivent prendre des décisions plus nuancées sur ce que les étudiants peuvent déléguer. Décharger un calcul de routine peut permettre aux apprenants de se concentrer sur l'interprétation. Décharger l'interprétation elle-même peut supprimer l'apprentissage visé.
 
-Voir [[cognitive-offloading|Cognitive Offloading]] et [[generative-ai|Generative AI]].
+Voir [[cognitive-offloading|Délestage cognitif]] et [[generative-ai|IA générative]].
 
 ---
 
@@ -801,7 +801,7 @@ Un système peut rester poli tout en :
 
 L'IA destinée aux enfants devrait être évaluée quant à la sécurité des contenus, la sécurité pédagogique, la vie privée, l'accessibilité, l'influence relationnelle et les effets de l'interaction répétée, et pas seulement quant aux mots ou aux sujets interdits.
 
-Voir [[k-12|K–12 AI Education]], [[pedagogical-safety|Pedagogical Safety]] et [[privacy]].
+Voir [[k-12|Éducation en IA de la maternelle au lycée]], [[pedagogical-safety|Sécurité pédagogique]] et [[privacy]].
 
 ---
 
@@ -813,7 +813,7 @@ L'IA ne peut pas assumer de façon autonome les responsabilités d'un enseignant
 
 Les étudiants devraient savoir quand ils interagissent avec une IA, quelles données peuvent être conservées et quand le système devrait les orienter vers un humain qualifié.
 
-Voir [[misconceptions|Misconceptions about AI]], [[conversational-ai|Conversational AI]] et [[governance|AI Governance]].
+Voir [[misconceptions|Idées fausses sur l'IA]], [[conversational-ai|IA conversationnelle]] et [[governance|Gouvernance de l'IA]].
 
 ---
 
@@ -842,7 +842,7 @@ Un employé compétent doit pouvoir :
 
 Les techniques d'invite changeront à mesure que les produits évoluent. Le jugement, la vérification, la compréhension du domaine, le raisonnement éthique et la responsabilité sont des capacités plus transférables.
 
-Voir [[ai-literacy|AI Literacy]] et [[human-ai-collaboration|Human–AI Collaboration]].
+Voir [[ai-literacy|Littératie en IA]] et [[human-ai-collaboration|Collaboration humain-IA]].
 
 ---
 
@@ -862,7 +862,7 @@ Pour évaluer la compétence professionnelle, les employeurs et les éducateurs 
 
 Dans de nombreuses professions, l'usage responsable de l'IA est lui-même une compétence légitime. Mais l'évaluation doit distinguer **l'usage efficace d'un outil** de l'apparence d'expertise créée par cet outil.
 
-Voir [[authentic-assessment|Authentic Assessment]], [[assessment-validity|Assessment Validity]] et [[career-development-and-readiness|Career Development and Readiness]].
+Voir [[authentic-assessment|Évaluation authentique]], [[assessment-validity|Validité de l'évaluation]] et [[career-development-and-readiness|Développement de carrière et préparation professionnelle]].
 
 ---
 
@@ -882,7 +882,7 @@ Sans connaissances suffisantes du domaine, un utilisateur peut ne pas reconnaît
 
 Les programmes d'études devront peut-être reconsidérer quelles connaissances mémoriser et quels outils rendre disponibles. Mais ils ne devraient pas éliminer la compréhension fondamentale simplement parce que l'IA peut produire une réponse. Une supervision experte exige une base interne de jugement.
 
-Voir [[cognitive-offloading|Cognitive Offloading]], [[prior-knowledge|Prior Knowledge]] et [[trust-calibration|Trust Calibration]].
+Voir [[cognitive-offloading|Délestage cognitif]], [[prior-knowledge|Connaissances antérieures]] et [[trust-calibration|Le calibrage de la confiance]].
 
 ---
 
@@ -894,7 +894,7 @@ Une automatisation non vérifiée peut créer des reprises de travail, des incid
 
 Le meilleur diplômé ou employé n'est pas nécessairement celui qui utilise l'IA pour le plus grand nombre de tâches. C'est celui qui sait répartir intelligemment le travail entre humains et IA tout en maintenant la qualité, la confidentialité, la responsabilité et le jugement professionnel.
 
-Voir [[ai-literacy|AI Literacy]], [[governance|AI Governance]] et [[human-ai-collaboration|Human–AI Collaboration]].
+Voir [[ai-literacy|Littératie en IA]], [[governance|Gouvernance de l'IA]] et [[human-ai-collaboration|Collaboration humain-IA]].
 
 ---
 
@@ -919,7 +919,7 @@ Une correction efficace devrait donc faire plus qu'énoncer un fait. Elle devrai
 5. fournir un modèle de remplacement ;
 6. donner à la personne un moyen d'appliquer ce remplacement.
 
-Voir [[misconceptions|Misconceptions about AI]] et [[refutation-text|Refutation Text]].
+Voir [[misconceptions|Idées fausses sur l'IA]] et [[refutation-text|Texte réfutatif]].
 
 ---
 
@@ -936,7 +936,7 @@ Par exemple :
 
 Le modèle de remplacement est essentiel. Si les communicateurs ne font que retirer l'idée fausse, les personnes peuvent y revenir faute d'une meilleure explication.
 
-Voir [[refutation-text|Refutation Text]].
+Voir [[refutation-text|Texte réfutatif]].
 
 ---
 
@@ -957,7 +957,7 @@ Une approche plus productive consiste à :
 
 Les idées fausses sont plus faciles à reconsidérer lorsque les personnes peuvent réviser leur réflexion sans être traitées d'idiotes ou de malhonnêtes.
 
-Voir [[framing-ai-use-for-students|Framing AI Use for Students]], [[ai-literacy|AI Literacy]] et [[refutation-text|Refutation Text]].
+Voir [[framing-ai-use-for-students|Cadrer l'usage de l'IA par les étudiants]], [[ai-literacy|Littératie en IA]] et [[refutation-text|Texte réfutatif]].
 
 ---
 
@@ -977,7 +977,7 @@ Les exemples incluent :
 
 Ces activités transforment des avertissements abstraits en preuves observables. Elles permettent aussi aux participants de s'exercer à la vérification, à la calibration de la confiance et aux décisions de décharge cognitive.
 
-Voir [[ai-literacy|AI Literacy]], [[trust-calibration|Trust Calibration]] et [[cognitive-offloading|Cognitive Offloading]].
+Voir [[ai-literacy|Littératie en IA]], [[trust-calibration|Le calibrage de la confiance]] et [[cognitive-offloading|Délestage cognitif]].
 
 ---
 

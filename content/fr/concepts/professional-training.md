@@ -28,9 +28,9 @@ ai_assist:
 ## Questions à examiner
 
 - Pensez à une compétence que vous avez apprise sur le tas plutôt qu'en salle de classe. Qu'est-ce qui a rendu cet apprentissage en milieu professionnel efficace, et comment un coach IA pourrait-il le reproduire ou l'améliorer ?
-- Le cadre de niveaux [[career-development-and-readiness|Workforce Readiness]] suggère que les stades de compétence les plus élevés sont « conditionnés par une expérience intégrée au secteur plutôt que par des cours ». Qu'est-ce que cela implique quant à la manière dont nous devrions former les gens — et quant aux limites de la [[simulation]] par l'IA ?
+- Le cadre de niveaux [[career-development-and-readiness|Préparation au monde du travail]] suggère que les stades de compétence les plus élevés sont « conditionnés par une expérience intégrée au secteur plutôt que par des cours ». Qu'est-ce que cela implique quant à la manière dont nous devrions former les gens — et quant aux limites de la [[simulation]] par l'IA ?
 - Les patients virtuels et les simulateurs de formation permettent aux professionnels de s'entraîner en sécurité. Quels types de jugement et de compétences interpersonnelles un simulateur pourrait-il peiner à capter, aussi réaliste soit-il ?
-- Le « Dual Train Problem » est la tension entre l'évolution rapide des compétences en IA et le rythme plus lent des politiques et du [[curriculum-design|curriculum]]. Si vous pouviez choisir des compétences durables à prioriser pour les apprenants d'aujourd'hui, quelles seraient-elles ?
+- Le « Dual Train Problem » est la tension entre l'évolution rapide des compétences en IA et le rythme plus lent des politiques et du [[curriculum-design|programme]]. Si vous pouviez choisir des compétences durables à prioriser pour les apprenants d'aujourd'hui, quelles seraient-elles ?
 - Les apprenants adultes concilient travail et études, souvent à travers des écrans. Comment une formation professionnelle assistée par l'IA peut-elle à la fois faciliter et compliquer cet équilibre — en particulier autour des données, de la confiance et du temps ?
 
 ## Introduction
