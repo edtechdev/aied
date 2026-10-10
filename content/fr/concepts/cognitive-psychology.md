@@ -71,7 +71,7 @@ L'[[generative-ai|IA générative]] étend et met au défi le cognitivisme à la
 3. **Respecter les limites de la mémoire de travail.** Appliquez la théorie de la charge cognitive à l'expérience utilisateur de l'IA : réduisez la charge extrinsèque (friction, interfaces surchargées) tout en préservant le traitement pertinent ([[desirable-difficulties|lutte productive]], pratique de récupération) plutôt que de minimiser toute demande cognitive.
 4. **Calibrer la métacognition.** Parce que la [[metacognition|métacognition]] gouverne le moment où les apprenants choisissent de déléguer, enseigner le calibrage (savoir ce qu'on peut réellement faire sans aide) constitue une réponse cognitiviste à la dépendance excessive (voir [[cognitive-offloading|délestage cognitif]]).
 
-## Connected Concepts
+## Concepts liés
 
 - [[behaviorism]]
 - [[constructivist]]
@@ -93,7 +93,7 @@ L'[[generative-ai|IA générative]] étend et met au défi le cognitivisme à la
 - [[learning-sciences]]
 - [[retrieval-spacing-interleaving]] — les constats de rétention sur lesquels repose cette famille de pratiques
 
-## Connected Articles
+## Articles liés
 
 - [[cognitive-shift-ai-education]] — Le virage cognitif dans l'IA en éducation
 - [[cogtax-cognitive-taxonomy]] — Une taxonomie cognitive pour l'usage de l'IA

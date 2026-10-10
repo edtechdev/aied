@@ -47,7 +47,7 @@ L'apprentissage tout au long de la vie désigne l'éducation continue tout au lo
 
 L'apprentissage tout au long de la vie se rattache à l'[[adult-learning]] et à la [[professional-training]] (ses contextes primordiaux), à l'[[personalized-learning]] et à l'[[adaptive-learning]] (les mécanismes d'IA qui le soutiennent), à l'[[self-regulated-learning|apprentissage autorégulé]] et à la [[metacognition]] (les processus de l'apprenant concernés), et à l'[[equity-in-ai-education]] (l'accès sur l'ensemble de la vie). Il croise également l'[[educational-development]] lorsque les éducateurs sont eux-mêmes des apprenants tout au long de la vie.
 
-## Concepts associés
+## Concepts liés
 
 - [[self-directed-learning]]
 - [[adult-learning]]
@@ -63,7 +63,7 @@ L'apprentissage tout au long de la vie se rattache à l'[[adult-learning]] et à
 - [[intelligent-tutoring]]
 - [[cognitive-offloading]]
 
-## Articles associés
+## Articles liés
 
 - [[ai-adult-learning-guidelines-dis2026]] — Lignes directrices pour concevoir des technologies d'IA au service de l'apprentissage des adultes
 - [[ai-guided-learning-audiovideo-2026]] — Apprentissage guidé par l'IA pour l'acquisition de compétences

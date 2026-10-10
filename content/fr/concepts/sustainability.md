@@ -67,7 +67,7 @@ Un axe connexe conçoit la durabilité non seulement comme une préoccupation en
 
 La durabilité et l'IA en éducation se situe à l'intersection de l'[[ethics|éthique]], de la [[governance|gouvernance]], de l'[[ai-education|IA en éducation]] et des sciences de l'environnement et de l'énergie. Elle puise dans la [[teacher-education|formation des enseignants]] et le [[teacher-role|rôle enseignant]] pour le renforcement des capacités, dans le [[learning-design|design pédagogique]] pour la pédagogie, et se rattache au traitement que la base de connaissances réserve au [[cognitive-offloading|délestage cognitif]] et à la [[critical-thinking|pensée critique]] à travers la grille de l'« apprentissage durable ». Parce que les deux voies sont transversales, la durabilité est un thème fondateur qui apparaît dans l'[[higher-ed|enseignement supérieur]], le K-12 et les contextes professionnels.
 
-## Connected Concepts
+## Concepts liés
 - [[ethics]]
 - [[governance]]
 - [[ai-education]]
@@ -82,7 +82,7 @@ La durabilité et l'IA en éducation se situe à l'intersection de l'[[ethics|é
 - [[agency]]
 - [[open-source]]
 
-## Connected Articles
+## Articles liés
 - [[daniel-ai-sustainability-scoping-review-2026]] — Revue de cadrage sur l'IA pour la durabilité et l'IA durable dans l'enseignement supérieur
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Approche critique en valeur pour l'éducation durable et l'IA
 - [[liu-ai-sustainable-engineering-education-2026]] — Cadre AI-SEE pour l'enseignement de l'ingénierie durable

@@ -53,7 +53,7 @@ Une revue de cadrage de 2026 portant sur les [[ai-technologies|technologies]] d'
 - **Exploiter l'IA pour réduire le coût des adaptations d'assistance.** L'IA peut sous-titrer automatiquement, simplifier des textes et produire des alternatives, mais évaluez la qualité des productions du point de vue de l'exactitude pédagogique.
 - **Ancrer l'offre dans les politiques.** Référez-vous à l'Assistive Technology Act, à l'IDEA et aux WCAG lorsque vous achetez ou construisez des outils d'IA.
 
-## Connected Concepts
+## Concepts liés
 
 - [[accessibility]] — la propriété de conception que les technologies d'assistance opérationnalisent
 - [[inclusive-learning]]
@@ -64,7 +64,7 @@ Une revue de cadrage de 2026 portant sur les [[ai-technologies|technologies]] d'
 - [[neurodiversity]]
 - [[learning-design]]
 - [[speech-and-voice-technologies]]
-## Connected Articles
+## Articles liés
 
 - [[shin-ai-policies-sld-2026]] — Politiques d'IA et aménagements pour les élèves présentant des troubles spécifiques de l'apprentissage
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Méta-analyse des interventions d'IA pour les élèves en situation de handicap

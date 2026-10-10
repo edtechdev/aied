@@ -82,7 +82,7 @@ En passant en revue les recommandations sur l'IA générative des 50 université
 
 L'usage et la divulgation de l'IA se situent à l'intersection de l'[[academic-integrity|intégrité académique]] (sa préoccupation mère), de l'[[ethics|éthique]], de la [[trust|confiance]] et de la [[trust-calibration|calibration de la confiance]] (la divulgation comme acte de vulnérabilité), de la [[governance|gouvernance]] et de la [[educational-policy-ai|politique éducative relative à l'IA]] (les cadres de politique institutionnelle), et de l'[[assessment|évaluation]] (là où la divulgation est opérationnalisée). Elle se rattache à l'[[ai-literacy|littératie en IA]] (les étudiants doivent comprendre quoi divulguer et comment), à l'[[self-regulated-learning|apprentissage auto-régulé]] et à la [[help-seeking|recherche d'aide]] (la divulgation comme recherche d'aide visible), et à l'[[equity-in-ai-education|équité]] (la divulgation différenciée). Elle se distingue de l'[[ai-misuse-learning-harm|usage abusif de l'IA et ses préjudices]] (le préjudice que la divulgation vise à rendre visible), tout en y étant apparentée, ainsi que de l'[[ai-detection|détection de l'IA]] (les alternatives fondées sur la détection, que les dispositifs de divulgation remplacent de plus en plus).
 
-## Concepts associés
+## Concepts liés
 
 - [[academic-integrity]]
 - [[ethics]]
@@ -103,7 +103,7 @@ L'usage et la divulgation de l'IA se situent à l'intersection de l'[[academic-i
 - [[parents-and-families]]
 - [[social-norms-ai-use]] — pourquoi les apprenants choisissent de cacher plutôt que de divulguer
 
-## Articles associés
+## Articles liés
 
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Divulgation de l'IA par les étudiants, stigmatisation et apprentissage auto-régulé

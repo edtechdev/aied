@@ -91,7 +91,7 @@ La réduction des biais est le mécanisme technique par lequel l'[[equity-in-ai-
 - **Rendre les systèmes explicables :** la transparence sur les décisions de l'IA est essentielle pour détecter et corriger les biais.
 - **Combiner réduction technique et humaine :** associer les algorithmes de débiaisement à une supervision avec intervention humaine, en particulier pour les cas à enjeux élevés ou peu confiants.
 
-## Connected Concepts
+## Concepts liés
 
 - [[differential-effects-across-learner-groups]]
 - [[explainable-ai]]
@@ -113,7 +113,7 @@ La réduction des biais est le mécanisme technique par lequel l'[[equity-in-ai-
 - [[student-experience]]
 - [[ai-education]]
 - [[recommender-systems-and-learning-paths]]
-## Connected Articles
+## Articles liés
 
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Alignement pédagogique neuro-symbolique (NSPA)

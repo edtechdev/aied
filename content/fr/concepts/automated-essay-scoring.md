@@ -78,7 +78,7 @@ L'AES se situe à l'intersection de l'[[automated-assessment|évaluation automat
 
 Les systèmes ouverts font aussi partie de ce tableau : AiAWE note des dissertations argumentatives avec un Gemma-3-27B-it adapté par LoRA, atteignant un QWK de 0.828 et un accord à ±0.5 près de la note humaine sur 90.56% de 360 dissertations d'évaluation — et rapporte que l'échelle du modèle ne prédisait pas de façon fiable la performance en aval sous adaptation LoRA ([[aiawe-automated-writing-evaluation]]).
 
-## Connected Concepts
+## Concepts liés
 
 - [[bias-mitigation]]
 - [[equity-in-ai-education]]
@@ -90,7 +90,7 @@ Les systèmes ouverts font aussi partie de ce tableau : AiAWE note des dissertat
 - [[writing-education]]
 - [[ai-literacy]]
 - [[assessment-validity]]
-## Connected Articles
+## Articles liés
 
 - [[reflection-level-classification-hungarian-essays-2026]] — Automatic Reflection Level Classification in Hungarian Student Essays
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays

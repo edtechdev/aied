@@ -70,7 +70,7 @@ Les référentiels rejoignent l'[[ai-ed-evaluation|évaluation d'une interventio
 - **Rapporter la capacité d'un modèle comme un niveau calibré, et pas seulement comme une exactitude.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] projettent 624 items annotés par des experts sur des niveaux de compétence nommés en utilisant 2.050 réponses d'apprenants, et constatent que les modèles de pointe dépassent le plafond calibré — une limite qu'un pourcentage masque.
 - **Une règle de notation peut être contournée par le modèle qu'elle entraîne.** Une métrique d'adaptativité maximisée en répétant une seule meilleure décision montre que la conception d'un référentiel devrait publier l'argmax, noter l'adaptation comme une différence et rapporter des lignes de base au-dessus du hasard ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo et Fernández De la Cruz, 2026]]).
 
-## Connected Concepts
+## Concepts liés
 
 - [[ai-ed-evaluation]]
 - [[bias-mitigation]]
@@ -80,7 +80,7 @@ Les référentiels rejoignent l'[[ai-ed-evaluation|évaluation d'une interventio
 - [[generative-ai]]
 - [[automated-essay-scoring]]
 
-## Connected Articles
+## Articles liés
 
 - [[standardized-assessment-llm-english-proficiency-2026]] — Un référentiel de compétence en anglais de 624 items qui rapporte la capacité du modèle comme un niveau calibré (Min et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]

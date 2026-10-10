@@ -61,7 +61,7 @@ Des travaux récents explorent l'utilisation des [[llm|LLM]] pour construire aut
 
 Les graphes de connaissances sont liés au [[learning-design|design pédagogique]] (définir quoi enseigner), à la [[curriculum-design|conception de programmes]] (comment le séquencer) et aux [[learning-analytics|analytiques de l'apprentissage]] (extraire des informations des données d'interaction des étudiants). Ils sont fondamentaux pour les systèmes de [[intelligent-tutoring|tutorat intelligent]], qui ont besoin de représentations structurées des domaines éducatifs. À mesure que les agents d'IA se généralisent dans l'éducation, les graphes de connaissances fournissent la structure de domaine sur laquelle raisonnent les [[agentic-ai|systèmes agentiques]] — un schéma observé dans [[quantum-education-its|ITAS]] et dans les assistants pédagogiques de détection des lacunes de connaissances.
 
-## Connected Concepts
+## Concepts liés
 
 - [[adaptive-learning]]
 - [[knowledge-tracing]]
@@ -77,7 +77,7 @@ Les graphes de connaissances sont liés au [[learning-design|design pédagogique
 - [[agentic-ai]]
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 - [[recommender-systems-and-learning-paths]]
-## Connected Articles
+## Articles liés
 
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — A curator-built graph of 1,455 literary axioms with a structural audit and no provenance record (Liu & Zhao 2026)
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning

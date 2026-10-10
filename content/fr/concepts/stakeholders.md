@@ -68,7 +68,7 @@ L'identité est l'ancre humaine du paysage des parties prenantes : c'est ce que 
 - **Aligner les niveaux :** la recherche sur la gouvernance menée par la base de connaissances montre que l'IA réussit lorsque le leadership institutionnel, la pratique enseignante et l'expérience étudiante sont alignés plutôt que fragmentés.
 - **Prendre en compte les parents et la communauté au sens large :** les familles sont des parties prenantes de l'adoption de l'IA, dont le rôle et les préoccupations méritent une attention explicite.
 
-## Connected Concepts
+## Concepts liés
 
 - [[learners]] — Apprenants : le parapluie des concepts du côté apprenant
 - [[teacher-role]]
@@ -94,7 +94,7 @@ L'identité est l'ancre humaine du paysage des parties prenantes : c'est ce que 
 - [[parents-and-families]]
 - [[student-support-and-success]] — qui a une voix au chapitre sur les décisions institutionnelles de soutien par l'IA
 
-## Connected Articles
+## Articles liés
 
 - [[genai-student-experiences-uk-he-survey-2026]] — Expériences étudiantes de l'IA générative dans l'enseignement supérieur britannique
 - [[ai-uk-higher-education-policy-2026]] — L'IA dans la politique d'enseignement supérieur britannique (étudiants et établissements)

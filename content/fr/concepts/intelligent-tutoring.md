@@ -140,7 +140,7 @@ Un tutorat efficace exige une adaptation continuelle : [[zhang-tutormoments-2026
 - **Tutorat [[agentic-ai|multi-agents]] et [[automated-assessment|évaluation automatisée]].** Les systèmes de tutorat multi-agents sont mis à l'épreuve par une évaluation synthétique et fondée sur les traces. ASTRA prend en charge les configurations tuteur seul, tuteur en binôme et multi-agents en binôme avec des agents socialement différenciés, permettant une analyse reproductible de l'interaction et de l'équilibre de la participation en [[cs-education|programmation d'introduction]]. En parallèle, une ingénierie d'invites sensible au contexte automatise le codage des compétences de [[collaborative-learning|résolution collaborative de problèmes]] à partir des données de processus, soutenant l'évaluation du tutorat à grande échelle.
 - **Concevoir avec les valeurs de l'apprenant, pas seulement pour sa performance.** Les travaux de [[ko-hughes-vsd-student-centered-its-2026|conception sensible aux valeurs (Value Sensitive Design)]] menés avec des étudiants et enseignants de community college en mathématiques de mise à niveau montrent que les dimensions [[ethics|éthiques]] des ITS ne sont pas des ajouts séparables : l'engagement direct des étudiants et des enseignants a produit 16 fonctionnalités alignées sur des valeurs, couvrant l'[[explainable-ai|explicabilité]] (interprétation des vérifications de compréhension, lien avec le parcours d'apprentissage, communication de la confiance du modèle), le [[human-in-the-loop-ai|contrôle par l'apprenant]] (contrôle sur la réévaluation, la révision, le rythme et le niveau d'assistance par l'IA), et la [[privacy|vie privée]] (contrôle sur la réutilisation des données, demandes de permission pour le partage des [[learning-analytics|analytiques de l'apprentissage]] et des états [[affective-computing|affectifs]]). L'étude formule une tension de conception persistante — l'[[agency|autonomie de l'étudiant]] face à l'étayage guidé par le système — et note que la plupart des établissements désactivent entièrement le tutorat adaptatif, si bien qu'une conception informée par les valeurs dépend aussi de la manière (et de la question de savoir si) les capacités d'IA des ITS sont réellement déployées.
 
-## Connected Concepts
+## Concepts liés
 
 - [[scaffolding]]
 - [[adaptive-learning]]
@@ -162,7 +162,7 @@ Un tutorat efficace exige une adaptation continuelle : [[zhang-tutormoments-2026
 - [[guardrails]]
 - [[k-12]]
 - [[speech-and-voice-technologies]]
-## Connected Articles
+## Articles liés
 
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
