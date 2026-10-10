@@ -35,7 +35,7 @@ ai_assist:
 
 ## Ce que vous pouvez en faire
 
-Les quiz prennent les formes qu'un enseignant attend, notamment choix multiple, questions à matrice, saisie de texte, listes déroulantes et textes à trous, rédigés directement en Markdown. Les blocs de code peuvent être rendus modifiables et exécutables pour des tutoriels de [[cs-education|programmation]], et un système de macros enveloppe des bibliothèques JavaScript dans des blocs réutilisables, si bien que les schémas interactifs n'exigent aucun code de chaque auteur. Un cours est hébergé là où l'auteur conserve déjà son texte, sans service auquel être enferré, et tout s'exécute côté client, si bien qu'un cours chargé fonctionne hors ligne. Le LiaScript Exporter en empaquette un en SCORM pour Moodle, ILIAS et d'autres [[edtech-platform|learning management systems]].
+Les quiz prennent les formes qu'un enseignant attend, notamment choix multiple, questions à matrice, saisie de texte, listes déroulantes et textes à trous, rédigés directement en Markdown. Les blocs de code peuvent être rendus modifiables et exécutables pour des tutoriels de [[cs-education|programmation]], et un système de macros enveloppe des bibliothèques JavaScript dans des blocs réutilisables, si bien que les schémas interactifs n'exigent aucun code de chaque auteur. Un cours est hébergé là où l'auteur conserve déjà son texte, sans service auquel être enferré, et tout s'exécute côté client, si bien qu'un cours chargé fonctionne hors ligne. Le LiaScript Exporter en empaquette un en SCORM pour Moodle, ILIAS et d'autres [[edtech-platform|systèmes de gestion de l'apprentissage]].
 
 ## L'agent d'enseignement pour construire des cours
 

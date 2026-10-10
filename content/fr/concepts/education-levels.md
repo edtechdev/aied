@@ -26,7 +26,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Niveaux d'éducation** — les bandes qui organisent le champ de métadonnées `level` de cette base de connaissances : **preschool**, **primary education**, **middle school**, **secondary**, **K-12**, **higher ed**, **undergraduate**, **graduate**, **adult learning**, **special education** et **[[teacher-role|teacher]] education**. Cette page est le parapluie de ce champ plutôt qu'un doublon d'une quelconque page de bande unique : elle explique ce qui change quand on passe d'une bande à l'autre, pourquoi la césure école/université importe plus que la matière enseignée, et où les données probantes sur l'IA sont denses et où elles sont minces.
+> **Niveaux d'éducation** — les bandes qui organisent le champ de métadonnées `level` de cette base de connaissances : **preschool**, **primary education**, **middle school**, **secondary**, **K-12**, **higher ed**, **undergraduate**, **graduate**, **adult learning**, **special education** et **[[teacher-role|enseignant]] education**. Cette page est le parapluie de ce champ plutôt qu'un doublon d'une quelconque page de bande unique : elle explique ce qui change quand on passe d'une bande à l'autre, pourquoi la césure école/université importe plus que la matière enseignée, et où les données probantes sur l'IA sont denses et où elles sont minces.
 
 ## Questions à examiner
 

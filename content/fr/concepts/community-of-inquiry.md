@@ -28,7 +28,7 @@ ai_assist:
 
 - Dans un cours en ligne, qu'est-ce qui vous dit qu'un apprentissage signifiant se produit réellement — et comment sauriez-vous si ce n'était pas le cas ?
 - Le cadre de la communauté d'enquête nomme trois présences : cognitive, sociale et enseignante. Dans vos propres expériences en ligne, laquelle manque le plus souvent — et qu'advient-il alors de l'apprentissage ?
-- Si un [[conversational-ai|chatbot]] d'IA écrit des réponses fluides et d'apparence empathique dans un forum de discussion, une « présence sociale » a-t-elle lieu ? Ou la présence est-elle quelque chose que seuls les humains peuvent véritablement créer ?
+- Si un [[conversational-ai|agent conversationnel]] d'IA écrit des réponses fluides et d'apparence empathique dans un forum de discussion, une « présence sociale » a-t-elle lieu ? Ou la présence est-elle quelque chose que seuls les humains peuvent véritablement créer ?
 - L'IA générative peut produire des explications si cohérentes qu'elles semblent manifestement justes — mais la cohérence n'est pas la correction. Où avez-vous vu une « fluidité prise pour une justification », et comment vous en prémuniriez-vous dans un cours fondé sur l'enquête ?
 - Ce cadre suggère que les présences sont des « accomplissements sociotechniques » de l'humain et de l'IA travaillant ensemble plutôt qu'une activité purement humaine. Cela reformule-t-il la question de savoir qui vous tenez pour responsable lorsqu'une discussion en ligne devient superficielle ou se déroule bien ?
 

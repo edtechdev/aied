@@ -80,7 +80,7 @@ Les données limitées suggèrent que le transfert est possible lorsque :
 
 - **Des garde-fous pédagogiques sont présents** — indices étape par étape, ciblage des [[misconceptions|idées fausses]], [[socratic-method|questionnement socratique]] (variante tutorat de Bastani et al., 2025)
 - **Les stratégies traditionnelles sont préservées** — la prise de notes associée à l'usage de l'IA a amélioré la rétention (Kreijkes et al., 2026)
-- **L'IA est utilisée pour la pratique [[formative-assessment|formative]], et non [[summative-assessment|sommative]]** — de l'étayage pendant l'apprentissage, pas pendant l'évaluation
+- **L'IA est utilisée pour la pratique [[formative-assessment|formatif]], et non [[summative-assessment|sommative]]** — de l'étayage pendant l'apprentissage, pas pendant l'évaluation
 - **Le format de pratique correspond à la connaissance transférée.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] constatent que les gains de la pratique par récupération échouent fréquemment à se transférer à des problèmes non familiers — ils renforcent la mémoire d'une procédure sans permettre son emploi dans de nouveaux contextes — et qu'une généralisation durable à des applications nouvelles exige d'associer la pratique à des exemples résolus qui soutiennent l'induction de la compétence ; le ratio optimal exemples–problèmes dépend donc de savoir si le contenu est un fait littéral ou une compétence généralisable.
 - **L'expertise de l'apprenant est calibrée** — l'outil adapte le soutien à la préparation, au lieu de fournir par défaut une assistance complète
 
@@ -88,7 +88,7 @@ Les données limitées suggèrent que le transfert est possible lorsque :
 
 - **Le guidage est colocalisé avec le travail.** En contraste avec le schéma de transfert négatif du tableau ci-dessus, une comparaison portant sur 36 participants a montré que les apprenants assistés par un robot de bureau maintenaient leur score à 7,0/10 une fois l'aide retirée, tandis que les apprenants assistés par ChatGPT chutaient à 4,4/10, soit un score de transfert à court terme supérieur de 60% ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). Le résultat porte sur un transfert à court terme mesuré environ 35 minutes après la tâche, sans test de rétention différée, auprès de 36 participants sur un seul campus.
 
-Cela rejoint la recherche sur l'[[intelligent-tutoring|tutorat par IA]] montrant que les outils spécifiques au tutorat, dotés de garde-fous pédagogiques, surpassent les [[conversational-ai|chatbots]] généralistes, ainsi que les principes de [[scaffolding|étayage]] concernant l'estompage du soutien à mesure que la compétence grandit.
+Cela rejoint la recherche sur l'[[intelligent-tutoring|tutorat par IA]] montrant que les outils spécifiques au tutorat, dotés de garde-fous pédagogiques, surpassent les [[conversational-ai|agents conversationnels]] généralistes, ainsi que les principes de [[scaffolding|étayage]] concernant l'estompage du soutien à mesure que la compétence grandit.
 
 ### Questions sans réponse
 

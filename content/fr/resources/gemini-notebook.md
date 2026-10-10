@@ -33,7 +33,7 @@ ai_assist:
 
 ## Ce que vous pouvez en faire
 
-Posez des questions à travers l'ensemble des sources, résumez de longs documents et suivez les renvois pour vérifier une réponse contre le passage dont elle provient. Au-delà du dialogue, Notebook produit des artefacts d'étude et de présentation : des Audio Overviews, une conversation de style podcast entre deux hôtes synthétiques que l'on peut interrompre par des questions ; des [[video-education|Video Overviews]], dont de courtes versions verticales ajoutées en 2026 ; des [[visualization|Mind Maps]], des Reports, des [[retrieval-spacing-interleaving|Flashcards]], des Quizzes, des Data Tables, des Infographics et des Slide Decks. Une mise à jour de juillet 2026 a doté chaque carnet d'un ordinateur nuage sécurisé pour exécuter du code, ce qui a étendu l'outil du résumé des sources vers leur analyse.
+Posez des questions à travers l'ensemble des sources, résumez de longs documents et suivez les renvois pour vérifier une réponse contre le passage dont elle provient. Au-delà du dialogue, Notebook produit des artefacts d'étude et de présentation : des Audio Overviews, une conversation de style podcast entre deux hôtes synthétiques que l'on peut interrompre par des questions ; des [[video-education|Aperçus vidéo]], dont de courtes versions verticales ajoutées en 2026 ; des [[visualization|cartes mentales]], des Reports, des [[retrieval-spacing-interleaving|cartes mémoire]], des Quizzes, des Data Tables, des Infographics et des Slide Decks. Une mise à jour de juillet 2026 a doté chaque carnet d'un ordinateur nuage sécurisé pour exécuter du code, ce qui a étendu l'outil du résumé des sources vers leur analyse.
 
 ## À qui cela s'adresse
 

@@ -32,7 +32,7 @@ ai_assist:
 - L'approche socratique refuse de donner directement les réponses afin de provoquer une « lutte productive ». Pensez-vous que la difficulté soit nécessaire à un apprentissage profond, ou n'est-elle parfois qu'une friction inutile — et comment feriez-vous la différence ?
 - Un tuteur socratique à base d'IA doit décider quand guider, quand donner un indice et quand fournir une réponse directe, en fonction des signaux en temps réel d'un étudiant. Comment pensez-vous qu'un système (ou un être humain) sait quel geste adopter à un moment donné ?
 - La page note qu'un étudiant frustré peut avoir besoin d'une brève réponse directe avant de revenir au questionnement socratique. Que pensez-vous que cela implique quant aux limites d'une approche uniforme fondée uniquement sur les questions ?
-- Si un [[conversational-ai|chatbot]] qui ne pose que des questions peut produire des gains de raisonnement mesurables, qu'est-ce qui pourrait être perdu par rapport au dialogue socratique originel avec un mentor humain — et qu'est-ce qui pourrait être gagné ?
+- Si un [[conversational-ai|agent conversationnel]] qui ne pose que des questions peut produire des gains de raisonnement mesurables, qu'est-ce qui pourrait être perdu par rapport au dialogue socratique originel avec un mentor humain — et qu'est-ce qui pourrait être gagné ?
 
 ## Introduction
 
@@ -88,7 +88,7 @@ La fidélité n'est pas garantie par la seule configuration : un facilitateur IS
 
 Le **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** fournit des données probantes empiriques montrant que la méthode socratique peut être opérationnalisée par l'IA générative à grande échelle, servant à la fois d'outil [[teacher-role|d'enseignement]] et d'instrument de collecte de données pour les [[learning-analytics|analytiques de l'apprentissage]]. Contrairement aux systèmes socratiques à base de règles du passé, les approches fondées sur les [[llm]] peuvent adapter dynamiquement les séquences de questions en fonction des réponses des étudiants.
 
-Les **[[ai-agents-constructive-conflict-design-education-2026|agents IA adversariaux]]** mettent en œuvre un conflit constructif — une variante socratique — [[prompt-engineering|incitant]] des concepteurs novices à reconsidérer leurs hypothèses, ce qui aboutit à davantage d'itérations de conception et à des travaux finaux mieux évalués. Cela relie le questionnement socratique au [[design-thinking|design thinking]] et à la [[critical-thinking|pensée critique]].
+Les **[[ai-agents-constructive-conflict-design-education-2026|agents IA adversariaux]]** mettent en œuvre un conflit constructif — une variante socratique — [[prompt-engineering|incitant]] des concepteurs novices à reconsidérer leurs hypothèses, ce qui aboutit à davantage d'itérations de conception et à des travaux finaux mieux évalués. Cela relie le questionnement socratique au [[design-thinking|conception par le design]] et à la [[critical-thinking|pensée critique]].
 
 Les **[[syal-multimodal-dialogue-stem-2026|systèmes de dialogue multimodaux]]** étendent le tutorat socratique aux domaines visuels, en recourant à un protocole d'intervention sans réentraînement qui demande aux modèles de décrire, de raisonner et de s'autocorriger — un étayage socratique [[multimodal|multimodal]].
 

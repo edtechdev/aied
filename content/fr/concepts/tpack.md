@@ -21,7 +21,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Le savoir technologique, [[pedagogy|pédagogique]] et disciplinaire (Technological [[pedagogy|Pedagogical]] Content Knowledge, TPACK)** — le cadre (Mishra & Koehler, 2006) décrivant le savoir intégré dont les enseignants ont besoin pour utiliser efficacement la technologie dans l'enseignement : l'interaction du savoir technologique (TK), du savoir pédagogique (PK) et du savoir disciplinaire (CK), ainsi que leurs intersections. À l'ère de l'IA, le TPACK a été étendu en **AI-TPACK** et **GenAI-TPACK**, modélisant la manière dont les enseignants intègrent l'IA générative à l'enseignement des contenus disciplinaires. C'est la lunette théorique dominante pour comprendre comment la [[teacher-ai-competency|compétence des enseignants en IA]] est structurée et construite par le [[educational-development|développement professionnel]].
+> **Le savoir technologique, [[pedagogy|pédagogique]] et disciplinaire (Technological [[pedagogy|pédagogique]] Content Knowledge, TPACK)** — le cadre (Mishra & Koehler, 2006) décrivant le savoir intégré dont les enseignants ont besoin pour utiliser efficacement la technologie dans l'enseignement : l'interaction du savoir technologique (TK), du savoir pédagogique (PK) et du savoir disciplinaire (CK), ainsi que leurs intersections. À l'ère de l'IA, le TPACK a été étendu en **AI-TPACK** et **GenAI-TPACK**, modélisant la manière dont les enseignants intègrent l'IA générative à l'enseignement des contenus disciplinaires. C'est la lunette théorique dominante pour comprendre comment la [[teacher-ai-competency|compétence des enseignants en IA]] est structurée et construite par le [[educational-development|développement professionnel]].
 
 Cette dominance tient aussi en partie à un artefact de recherche documentaire : dans une revue de portée PRISMA portant sur 195 études de formation des enseignants soutenue par la technologie, la compétence numérique, le TPACK et DigCompEdu étaient des descripteurs de recherche explicites, si bien que la part de 46.5% des cadres de compétences décrit le corpus retrouvé plutôt que le champ ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 
@@ -44,7 +44,7 @@ Le TPACK soutient que l'intégration efficace de la technologie n'est pas la som
 
 - **Le savoir disciplinaire (CK)** — la connaissance de la matière à enseigner.
 - **Le savoir pédagogique (PK)** — la connaissance des méthodes d'enseignement, des stratégies et de la manière dont les étudiants apprennent.
-- **Le savoir technologique (TK)** — la connaissance de l'usage des outils et des [[ai-technologies|technologies]], incluant l'[[generative-ai|IA générative]].
+- **Le savoir technologique (TK)** — la connaissance de l'usage des outils et des [[ai-technologies|Technologies de l'IA]], incluant l'[[generative-ai|IA générative]].
 - **Le savoir pédagogique et disciplinaire (PCK)** — comment enseigner efficacement des contenus spécifiques.
 - **Le savoir technologique et disciplinaire (TCK)** — comment la technologie façonne et représente les contenus.
 - **Le savoir technologique et pédagogique (TPK)** — comment la technologie soutient ou contraint les stratégies d'enseignement.

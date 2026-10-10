@@ -48,7 +48,7 @@ ai_assist:
 
 ### Connexions
 
-L'IA psychométriquement informée se situe à l'intersection de l'[[educational-measurement|évaluation éducative]], de l'[[assessment-validity|évaluation de la validité]], de la [[item-response-theory|théorie de la réponse aux items]] et de l'[[automated-assessment|Confidence Aware AI Assessment]]. Elle est centrale pour l'[[ai-ed-evaluation|évaluation de l'IA dans l'éducation]] (la question de la fiabilité de l'évaluation par l'IA) et se relie à l'[[automated-assessment|évaluation automatisée]] fondée sur les [[llm|LLM]] et à l'[[automated-assessment|Automated Grading]]. Son accent mis sur la validité parle également des [[limitations-in-aied-research|limites de mesure]] des travaux d'[[ai-education|AIED]].
+L'IA psychométriquement informée se situe à l'intersection de l'[[educational-measurement|évaluation éducative]], de l'[[assessment-validity|évaluation de la validité]], de la [[item-response-theory|théorie de la réponse aux items]] et de l'[[automated-assessment|Confidence Aware AI Assessment]]. Elle est centrale pour l'[[ai-ed-evaluation|évaluation de l'IA dans l'éducation]] (la question de la fiabilité de l'évaluation par l'IA) et se relie à l'[[automated-assessment|évaluation automatisée]] fondée sur les [[llm|LLM]] et à l'[[automated-assessment|notation automatisée]]. Son accent mis sur la validité parle également des [[limitations-in-aied-research|limites de mesure]] des travaux d'[[ai-education|AIED]].
 
 ## Concepts liés
 

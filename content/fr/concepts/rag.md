@@ -21,7 +21,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **La RAG (Retrieval-Augmented Generation)** — une architecture d'IA qui combine la recherche d'information à la génération de texte, permettant aux [[llm|LLM]] d'ancrer leurs réponses dans des sources de connaissances externes plutôt que de s'appuyer uniquement sur les données d'entraînement. Dans l'éducation, la RAG traite le problème de l'hallucination, rend possible un tutorat ancré dans le [[curriculum-design|curriculum]] et alimente des [[intelligent-tutoring|tuteurs IA]] spécifiques à un domaine.
+> **La RAG (Retrieval-Augmented Generation)** — une architecture d'IA qui combine la recherche d'information à la génération de texte, permettant aux [[llm|LLM]] d'ancrer leurs réponses dans des sources de connaissances externes plutôt que de s'appuyer uniquement sur les données d'entraînement. Dans l'éducation, la RAG traite le problème de l'hallucination, rend possible un tutorat ancré dans le [[curriculum-design|programme]] et alimente des [[intelligent-tutoring|tuteurs IA]] spécifiques à un domaine.
 
 ## Questions à examiner
 

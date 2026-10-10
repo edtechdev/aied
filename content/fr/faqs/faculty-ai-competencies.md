@@ -43,7 +43,7 @@ Pour les enseignants, ces dimensions exigent une couche pédagogique supplément
 - Reconnaître l'[[hallucination-risk|hallucination]], la dépendance excessive et la [[ai-sycophancy|flagornerie]].
 - Savoir quand le [[human-in-the-loop-ai|jugement humain]] doit primer sur l'automatisation.
 
-Les enseignants ont aussi besoin d'une compréhension systémique suffisante pour évaluer comment les flux de travail soutenus par l'[[generative-ai|IA générative]] s'articulent entre eux, plutôt que de considérer l'IA comme un outil isolé. Voir [[teacher-ai-competency|Teacher AI Competency]] et [[educational-development|Faculty Development]].
+Les enseignants ont aussi besoin d'une compréhension systémique suffisante pour évaluer comment les flux de travail soutenus par l'[[generative-ai|IA générative]] s'articulent entre eux, plutôt que de considérer l'IA comme un outil isolé. Voir [[teacher-ai-competency|La compétence des enseignants en IA]] et [[educational-development|Développement de la formation]].
 
 ## La confiance n'est pas la compétence
 

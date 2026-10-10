@@ -62,7 +62,7 @@ L'enseignement de l'ingénierie se situe au sein des [[stem-education|STIM]] et 
 
 ## Sous-domaines peu couverts
 
-La couverture de l'enseignement de l'ingénierie par la base de connaissances est encore en développement. Les sous-domaines qui gagneraient à recevoir des articles supplémentaires incluent les **[[discipline-specific-aied|pédagogies propres à des]] branches [[pedagogy|disciplinaires]] de l'ingénierie** (génie mécanique, civil, chimique, électrique, logiciel et bio-ingénierie), le **[[design-education|design]] et l'éducation par la fabrication**, le **projet de synthèse et l'[[project-based-learning|apprentissage par projets]]**, et l'**éducation à l'éthique de l'ingénierie** — là où le rôle de l'IA est susceptible d'être particulièrement décisif.
+La couverture de l'enseignement de l'ingénierie par la base de connaissances est encore en développement. Les sous-domaines qui gagneraient à recevoir des articles supplémentaires incluent les **[[discipline-specific-aied|pédagogies propres à des]] branches [[pedagogy|disciplinaires]] de l'ingénierie** (génie mécanique, civil, chimique, électrique, logiciel et bio-ingénierie), le **[[design-education|conception]] et l'éducation par la fabrication**, le **projet de synthèse et l'[[project-based-learning|apprentissage par projets]]**, et l'**éducation à l'éthique de l'ingénierie** — là où le rôle de l'IA est susceptible d'être particulièrement décisif.
 
 ## Implications pour les enseignants d'ingénierie
 

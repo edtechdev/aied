@@ -1,5 +1,5 @@
 ---
-title: "Technologies"
+title: "Technologies de l'IA"
 created: "2026-08-19T18:10:00-04:00"
 updated: "2026-10-10T02:17:25-04:00"
 type: concept
@@ -44,7 +44,7 @@ L'[[ai-education|IA en éducation]] fonctionne sur une pile technique spécifiqu
 ## Les techniques et les méthodes
 
 - **L'ingénierie des invites.** L'[[prompt-engineering|ingénierie des invites]] est la manière dont les éducateurs et les développeurs façonnent les productions des LLM — le mécanisme principal par lequel le délestage et le contrôle sont accomplis dans les interactions avec les LLM.
-- **La génération augmentée par la recherche documentaire (RAG).** La [[rag|RAG]] ancre les productions des LLM dans des connaissances retrouvées, réduisant l'hallucination et améliorant l'exactitude — une technique centrale pour un déploiement éducatif [[pedagogical-safety|sûr]].
+- **La génération augmentée par la recherche documentaire (RAG).** La [[rag|RAG (génération augmentée par récupération)]] ancre les productions des LLM dans des connaissances retrouvées, réduisant l'hallucination et améliorant l'exactitude — une technique centrale pour un déploiement éducatif [[pedagogical-safety|sûr]].
 - **L'apprentissage par renforcement.** L'[[reinforcement-learning|apprentissage par renforcement]] entraîne des agents à optimiser leur comportement au fil du temps ; il est employé dans les [[adaptive-learning|systèmes adaptatifs]] et l'[[game-based-learning|apprentissage par le jeu]].
 - **L'orchestration agentique.** Les systèmes d'[[agentic-ai|IA agentique]] planifient et exécutent des flux de travail en plusieurs étapes — orchestrant souvent plusieurs agents spécialisés (voir les [[agentic-ai|systèmes multi-agents]]) — et refaçonnent l'IA, d'un outil qui répond aux invites vers un collaborateur proactif.
 - **La pile d'agents éducatifs accuse un retard sur la pointe.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] ont cartographié 474 études et ont constaté que les modèles de la série GPT et LangChain étaient dominants, tandis que l'orchestration d'outils gouvernée, la mémoire persistante et la planification à long horizon étaient largement absentes — et que seulement 138 des 474 (29%) puisaient dans la théorie éducative.
@@ -56,7 +56,7 @@ Le fil technique est inséparable des autres thèmes de la base de connaissances
 
 - **Pédagogie :** les choix techniques incarnent des hypothèses pédagogiques — un [[intelligent-tutoring|tuteur]] construit sur une sollicitation [[socratic-method|socratique]] raisonne avec les apprenants, tandis qu'un modèle générateur de réponses peut se rabattre par défaut sur la fourniture directe (voir les [[pedagogy|pédagogies et stratégies d'enseignement]]).
 - **Évaluation :** l'[[ai-ed-evaluation|évaluation d'une intervention d'IA en éducation]] et les [[benchmark|repères de référence]] déterminent si les systèmes d'IA fonctionnent réellement ; l'[[assessment|évaluation]] et l'[[automated-assessment|évaluation automatisée]] recourent à la pile technique pour noter et générer.
-- **Usage responsable :** les techniques techniques sont centrales pour la [[reducing-ai-misuse|réduction des usages abusifs de l'IA]] — l'ancrage par la [[rag|RAG]], les garde-fous, l'[[scaffolding|étayage]] par [[prompt-engineering|rédaction d'invites]], et la [[human-in-the-loop-ai|supervision humaine]] façonnent le point de savoir si l'IA soutient ou sape l'apprentissage ([[cognitive-offloading]], [[hallucination-risk]]).
+- **Usage responsable :** les techniques techniques sont centrales pour la [[reducing-ai-misuse|réduction des usages abusifs de l'IA]] — l'ancrage par la [[rag|RAG (génération augmentée par récupération)]], les garde-fous, l'[[scaffolding|étayage]] par [[prompt-engineering|rédaction d'invites]], et la [[human-in-the-loop-ai|supervision humaine]] façonnent le point de savoir si l'IA soutient ou sape l'apprentissage ([[cognitive-offloading]], [[hallucination-risk]]).
 
 ## Implications pour l'IA en éducation
 

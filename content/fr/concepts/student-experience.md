@@ -51,7 +51,7 @@ L'IA affecte les étudiants selon les dimensions cognitive, motivationnelle, [[a
 ### Impacts cognitifs
 
 - **Positif :** l'IA peut [[scaffolding|étayer]] l'apprentissage par la [[feedback|rétroaction]], des indices et des explications, en soutenant la compréhension, la pratique et la [[help-seeking|demande d'aide]]. Les étudiants peuvent utiliser l'IA pour [[ai-literacy|apprendre à bien l'utiliser]], et des outils bien conçus laissent l'apprenant effectuer le travail cognitif (voir [[does-ai-help-students-learn|Does AI help students learn?]]).
-- **Négatif :** l'IA peut entraîner une [[cognitive-offloading|dépendance excessive et une délégation cognitive]], les étudiants déléguant le raisonnement qu'ils ont besoin d'exercer. C'est l'**écart performance–apprentissage** : les étudiants réussissent mieux *avec* l'IA mais moins bien sur des tâches ultérieures non assistées (voir [[ai-misuse-learning-harm|AI Misuse and Learning Harm]]). La surutilisation peut aussi éroder la [[metacognition|métacognition]] et l'[[self-regulated-learning|apprentissage autorégulé]].
+- **Négatif :** l'IA peut entraîner une [[cognitive-offloading|dépendance excessive et une délégation cognitive]], les étudiants déléguant le raisonnement qu'ils ont besoin d'exercer. C'est l'**écart performance–apprentissage** : les étudiants réussissent mieux *avec* l'IA mais moins bien sur des tâches ultérieures non assistées (voir [[ai-misuse-learning-harm|Mésusages de l'IA et préjudice pour l'apprentissage]]). La surutilisation peut aussi éroder la [[metacognition|métacognition]] et l'[[self-regulated-learning|apprentissage autorégulé]].
 
 ### Impacts motivationnels
 

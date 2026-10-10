@@ -51,7 +51,7 @@ La conception du GPT Tutor de [[generative-ai-guardrails-harm-learning|Bastani]]
 
 ### 2. L'ancrage des connaissances (RAG)
 
-La [[rag|génération augmentée par récupération]] ancre les réponses du tuteur dans des contenus vérifiés afin de réduire la fabrication et le [[hallucination-risk|risque d'hallucination]]. [[eduguard-safe-rag-llm-tutor|EduGuard]] et [[eduzone-llm-safety-k12|EduZone]] illustrent l'ancrage comme mécanisme de sécurité, rattachant les réponses à un [[curriculum-design|curriculum]] choisi et réduisant la diffusion d'informations incorrectes ou dangereuses.
+La [[rag|génération augmentée par récupération]] ancre les réponses du tuteur dans des contenus vérifiés afin de réduire la fabrication et le [[hallucination-risk|risque d'hallucination]]. [[eduguard-safe-rag-llm-tutor|EduGuard]] et [[eduzone-llm-safety-k12|EduZone]] illustrent l'ancrage comme mécanisme de sécurité, rattachant les réponses à un [[curriculum-design|programme]] choisi et réduisant la diffusion d'informations incorrectes ou dangereuses.
 
 ### 3. Les contrôles au niveau du modèle et l'entraînement
 
