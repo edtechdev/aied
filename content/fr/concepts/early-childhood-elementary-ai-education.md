@@ -25,7 +25,7 @@ ai_assist:
 
 ## Questions à examiner
 
-- Les jeunes enfants rencontrent aujourd'hui l'IA à travers des jouets, des [[conversational-ai|chatbots]] et des robots de classe. Qu'est-ce qui rend la relation d'un enfant de 5 ans avec l'IA fondamentalement différente de celle d'un adulte — et qu'est-ce qui devrait changer dans notre façon de penser les risques ?
+- Les jeunes enfants rencontrent aujourd'hui l'IA à travers des jouets, des [[conversational-ai|agents conversationnels]] et des robots de classe. Qu'est-ce qui rend la relation d'un enfant de 5 ans avec l'IA fondamentalement différente de celle d'un adulte — et qu'est-ce qui devrait changer dans notre façon de penser les risques ?
 - Une partie de la littératie en IA à la petite enfance s'enseigne par le jeu « débranché » — sans aucun ordinateur. Comment des concepts abstraits d'IA peuvent-ils s'apprendre par des activités [[embodied-learning|incarnées]] et tangibles plutôt que par des écrans ?
 - Une préoccupation appelée « isomorphisme technologique » décrit des élèves qui imitent les productions de l'IA sans les comprendre. Comment distingueriez-vous un enfant qui a réellement appris d'un enfant qui se contente de répéter une réponse polie ?
 - Parce que les jeunes apprenants sont plus vulnérables et moins capables de s'autoréguler, l'[[scaffolding|étayage]] par les adultes devient central. Qu'est-ce que cela signifie pour un parent ou un enseignant qui décide quand et comment un enfant devrait utiliser l'IA ?

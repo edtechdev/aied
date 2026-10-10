@@ -21,7 +21,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> L'apprentissage multilingue dans l'IA éducative concerne la manière dont les [[ai-technologies|technologies]] éducatives et les systèmes fondés sur les grands modèles de langue soutiennent les apprenants à travers les langues, les dialectes et les contextes linguistiques à faibles ressources — ainsi que les risques d'exclusion linguistique lorsque les systèmes d'IA sont construits d'abord pour les langues dominantes.
+> L'apprentissage multilingue dans l'IA éducative concerne la manière dont les [[ai-technologies|Technologies de l'IA]] éducatives et les systèmes fondés sur les grands modèles de langue soutiennent les apprenants à travers les langues, les dialectes et les contextes linguistiques à faibles ressources — ainsi que les risques d'exclusion linguistique lorsque les systèmes d'IA sont construits d'abord pour les langues dominantes.
 
 ## Questions à examiner
 
@@ -37,7 +37,7 @@ L'apprentissage multilingue concerne l'éducation des apprenants qui étudient o
 
 ## Vue d'ensemble
 
-L'apprentissage multilingue est une dimension d'équité centrale de l'[[ai-education|IA en éducation]]. L'IA générative et les [[llm|grands modèles de langue]] sont massivement entraînés et réglés sur des langues à fortes ressources, ce qui peut désavantager systématiquement les apprenants qui étudient ou pensent dans d'autres langues. Le thème s'étend des défis techniques (adapter des modèles à des langues à faibles ressources, à des corpus dialectaux, à la [[rag|RAG]] dans des langues non dominantes), aux préoccupations [[pedagogy|pédagogiques]] (enseignement culturellement pertinent et ancré localement), en passant par l'équité structurelle (qui accède à une IA éducative utile).
+L'apprentissage multilingue est une dimension d'équité centrale de l'[[ai-education|IA en éducation]]. L'IA générative et les [[llm|grands modèles de langue]] sont massivement entraînés et réglés sur des langues à fortes ressources, ce qui peut désavantager systématiquement les apprenants qui étudient ou pensent dans d'autres langues. Le thème s'étend des défis techniques (adapter des modèles à des langues à faibles ressources, à des corpus dialectaux, à la [[rag|RAG (génération augmentée par récupération)]] dans des langues non dominantes), aux préoccupations [[pedagogy|pédagogiques]] (enseignement culturellement pertinent et ancré localement), en passant par l'équité structurelle (qui accède à une IA éducative utile).
 
 ## Approches techniques
 
@@ -57,7 +57,7 @@ Le jugement comparatif fondé sur les grands modèles de langue est un cas où l
 
 ## Implications pour les enseignants en contextes multilingues
 
-- **Étendez l'IA aux langues des apprenants, et pas seulement à l'anglais.** Ajustez finement ou configurez des modèles pour des langues à faibles ressources et non dominantes ([[multilingual-adaptive-learning-nigeria-2026|plateforme de pidgin nigérian]]) plutôt que d'imposer des outils uniquement anglophones ; associez l'IA à la [[rag|RAG]] et à des corpus locaux lorsque c'est possible.
+- **Étendez l'IA aux langues des apprenants, et pas seulement à l'anglais.** Ajustez finement ou configurez des modèles pour des langues à faibles ressources et non dominantes ([[multilingual-adaptive-learning-nigeria-2026|plateforme de pidgin nigérian]]) plutôt que d'imposer des outils uniquement anglophones ; associez l'IA à la [[rag|RAG (génération augmentée par récupération)]] et à des corpus locaux lorsque c'est possible.
 - **Protégez l'évaluation du biais linguistique.** [[ai-scoring-language-bias-physics|La notation par IA]] peut pénaliser les locuteurs non natifs — utilisez une évaluation sensible à la langue ou modérée par un humain pour protéger l'[[assessment-validity|évaluation de la validité]] et l'[[equity-in-ai-education|équité]].
 - **Reflétez la culture et le contexte, pas seulement la traduction.** L'IA multilingue doit aller au-delà de la traduction vers la [[culturally-relevant-pedagogy|pédagogie culturellement pertinente]] — générez un contenu linguistiquement et contextuellement approprié ([[llm-cultural-relevance-k12|pertinence culturelle dans le primaire et le secondaire]]).
 - **Associez l'IA à des structures de soutien multilingues.** Utilisez des modes vocaux d'abord et oraux ([[kutti-ai-voice-first-learning-companion|compagnons vocaux d'abord]]) là où l'IA fondée sur le texte échoue, et soutenez l'[[self-regulated-learning|autorégulation]] dans les contextes bilingues ([[bilingual-llm-lecture-companion-srl-2026|compagnon de cours bilingue]]).

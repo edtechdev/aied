@@ -36,7 +36,7 @@ ai_assist:
 
 ## Introduction
 
-La [[research-methods-aied|recherche]] en enseignement de la physique est devenue un terrain d'essai pour l'IA en éducation parce que les problèmes de physique sont bien structurés tout en étant cognitivement exigeants, ce qui les rend idéaux pour étudier la manière dont les outils d'IA affectent l'apprentissage, le raisonnement et l'évaluation. Les 26 articles de cette base de connaissances dressent collectivement le portrait d'un champ aux prises avec la promesse comme avec les limites de l'IA — des [[conversational-ai|chatbots]] socratiques qui améliorent la qualité des questions des étudiants aux biais de notation systématiques qui pénalisent les apprenants linguistiquement divers.
+La [[research-methods-aied|recherche]] en enseignement de la physique est devenue un terrain d'essai pour l'IA en éducation parce que les problèmes de physique sont bien structurés tout en étant cognitivement exigeants, ce qui les rend idéaux pour étudier la manière dont les outils d'IA affectent l'apprentissage, le raisonnement et l'évaluation. Les 26 articles de cette base de connaissances dressent collectivement le portrait d'un champ aux prises avec la promesse comme avec les limites de l'IA — des [[conversational-ai|agents conversationnels]] socratiques qui améliorent la qualité des questions des étudiants aux biais de notation systématiques qui pénalisent les apprenants linguistiquement divers.
 
 ### Thèmes de recherche clés
 

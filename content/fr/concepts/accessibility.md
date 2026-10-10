@@ -22,7 +22,7 @@ ai_assist:
 
 *Traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Accessibilité** — la conception des technologies éducatives, des contenus et des interfaces afin qu'ils puissent être perçus, utilisés et compris par les personnes en situation de handicap et présentant des besoins variés. Dans le champ de l'[[ai-education|IA dans l'éducation]], l'accessibilité recouvre des obstacles concrets et opérationnels au *support* de l'apprentissage : sous-titres de vidéos, textes alternatifs, transcriptions, compatibilité avec les lecteurs d'écran et la navigation au clavier, contraste des couleurs, simplification des textes, sortie tactile, prise en charge des langues des signes et compatibilité avec les [[ai-technologies|technologies]] d'assistance.
+> **Accessibilité** — la conception des technologies éducatives, des contenus et des interfaces afin qu'ils puissent être perçus, utilisés et compris par les personnes en situation de handicap et présentant des besoins variés. Dans le champ de l'[[ai-education|IA dans l'éducation]], l'accessibilité recouvre des obstacles concrets et opérationnels au *support* de l'apprentissage : sous-titres de vidéos, textes alternatifs, transcriptions, compatibilité avec les lecteurs d'écran et la navigation au clavier, contraste des couleurs, simplification des textes, sortie tactile, prise en charge des langues des signes et compatibilité avec les [[ai-technologies|Technologies de l'IA]] d'assistance.
 
 ## Questions à examiner
 

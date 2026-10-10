@@ -86,7 +86,7 @@ Le repli porte un coût probatoire que les preuves issues des dossiers d'affaire
 
 - **Apprentissage autorégulé :** l'autonomie de l'étudiant dans l'évaluation authentique (choix, autoréflexion, co-conception) reflète le cycle de l'[[self-regulated-learning|apprentissage autorégulé]] (prévision → performance → autoréflexion), bien que la réflexion notée risque de devenir performative.
 - **Métacognition :** la [[metacognition]] est requise pour que les étudiants évaluent leur travail par rapport à des grilles co-conçues ; lorsque l'IA fournit la grille, la rétroaction et la surveillance, la pratique métacognitive de l'étudiant peut être déplacée.
-- **Rétroaction formative et durable :** l'évaluation authentique insiste sur une rétroaction [[formative-assessment|formative]] et orientée vers l'avenir, qui se transfère à des contextes ultérieurs.
+- **Rétroaction formative et durable :** l'évaluation authentique insiste sur une rétroaction [[formative-assessment|formatif]] et orientée vers l'avenir, qui se transfère à des contextes ultérieurs.
 
 ## Implications pour l'IA en éducation
 
