@@ -24,7 +24,7 @@
 - [Collaboration humain-IA](https://edtechdev.github.io/aied/concepts/human-ai-collaboration/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [L'agence de l'apprenant](https://edtechdev.github.io/aied/concepts/agency/): *Traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Identité de l'apprenant](https://edtechdev.github.io/aied/concepts/learner-identity/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
-- [Design Thinking](https://edtechdev.github.io/aied/concepts/design-thinking/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
+- [Conception par le design](https://edtechdev.github.io/aied/concepts/design-thinking/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [La conception de programme d'études](https://edtechdev.github.io/aied/concepts/curriculum-design/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [La pensée critique](https://edtechdev.github.io/aied/concepts/critical-thinking/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Pensée informatique](https://edtechdev.github.io/aied/concepts/computational-thinking/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -86,7 +86,7 @@
 - [Développement de carrière et préparation professionnelle](https://edtechdev.github.io/aied/concepts/career-development-and-readiness/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [L'apprentissage tout au long de la vie](https://edtechdev.github.io/aied/concepts/lifelong-learning/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Apprentissage en milieu professionnel](https://edtechdev.github.io/aied/concepts/professional-training/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
-- [Technologies](https://edtechdev.github.io/aied/concepts/ai-technologies/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
+- [Technologies de l'IA](https://edtechdev.github.io/aied/concepts/ai-technologies/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Apprentissage automatique](https://edtechdev.github.io/aied/concepts/machine-learning/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [L'IA générative](https://edtechdev.github.io/aied/concepts/generative-ai/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Grands modèles de langue (LLM)](https://edtechdev.github.io/aied/concepts/llm/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
