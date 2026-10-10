@@ -1,314 +1,225 @@
-# Resource-wiring record.
-#
-# Every resource page is reviewed for whether a concept page should list it in
-# `connected_resources`. Not every resource belongs on one - some are useful only inside
-# another tool's ecosystem - so an empty `hosts:` with a reason is a valid outcome. What is
-# never valid is the question going unasked, which is what this file records; claims of a host
-# are verified against the concept pages by tooling/scripts/check-resource-wiring.py.
-
-[
- {
-  "resource": "campus-ai-framework",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "change-management",
-   "educational-policy-ai",
-   "governance"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "clarity",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "feedback",
-   "writing-education"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "claw-ed",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "learning-design",
-   "online-teaching-and-learning",
-   "open-source",
-   "teacher-ai-competency"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "deeptutor",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "agentic-ai",
-   "intelligent-tutoring"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "drawsplat",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "accessibility",
-   "multimodal",
-   "privacy",
-   "visualization"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "education-agent-skills",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "active-learning",
-   "ai-literacy",
-   "educational-development",
-   "learning-design",
-   "open-source"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "edugems",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "ai-literacy",
-   "learning-design",
-   "prompt-engineering",
-   "teacher-ai-competency"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "fpds-apps-and-resources",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "academic-integrity",
-   "accessibility",
-   "educational-development"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "gemini-notebook",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "rag"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "id-toolbox",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "accessibility",
-   "learning-design",
-   "online-teaching-and-learning"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "idstack",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "accessibility",
-   "assessment",
-   "learning-design"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "institutional-ai-readiness-pack",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "academic-integrity",
-   "change-management",
-   "educational-policy-ai",
-   "governance"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "lesson-md",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "assessment",
-   "edtech-platform",
-   "learning-design",
-   "open-source"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "liascript",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "cs-education",
-   "edtech-platform",
-   "learning-design",
-   "online-teaching-and-learning",
-   "open-source"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "master-instructional-design",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "assessment",
-   "learning-design",
-   "professional-training"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "matt-pocock-skills",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "prompt-engineering",
-   "self-directed-learning",
-   "socratic-method"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "mglearn",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "ai-literacy",
-   "inclusive-learning",
-   "language-learning",
-   "multilingual-learning"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "onmicro-ai",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "ai-literacy",
-   "edtech-platform",
-   "learning-design",
-   "open-source",
-   "scaffolding"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "openmaic",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "intelligent-tutoring",
-   "simulation"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "pause-ai-use-self-examination",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "cognitive-offloading",
-   "cognitive-surrender"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "pedagogical-promptbook",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "feedback",
-   "learning-design",
-   "prompt-engineering"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "playlab",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "ai-literacy",
-   "educational-technology-developers",
-   "learning-design",
-   "teacher-ai-competency"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "pressing-prompts",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "ai-literacy",
-   "critical-pedagogy",
-   "critical-thinking",
-   "higher-ed"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "process-feedback",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "academic-integrity",
-   "ai-detection",
-   "process-oriented-assessment",
-   "self-regulated-learning"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "student-guide-to-ai",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "ai-literacy",
-   "critical-thinking",
-   "cognitive-offloading",
-   "academic-integrity",
-   "metacognition"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "teacherserver",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "automated-question-generation",
-   "higher-ed",
-   "special-education",
-   "teacher-ai-competency"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "vibes-diy",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "ai-literacy",
-   "constructivist",
-   "design-thinking",
-   "learning-design",
-   "open-source",
-   "vibe-coding"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "writing-rhetoric-studies-in-the-loop",
-  "reviewed": "2026-09-28",
-  "hosts": [
-   "bias-mitigation",
-   "prompt-engineering",
-   "writing-education"
-  ],
-  "reason": "Listed on the concept page(s) shown."
- },
- {
-  "resource": "snorkl",
-  "reviewed": "2026-10-07",
-  "hosts": [
-   "feedback",
-   "formative-assessment"
-  ],
-  "reason": "Listed on the concept page(s) shown: a tool whose whole product is AI feedback on student-produced explanations, and which states it is designed for formative assessment rather than grading."
- }
-]
+- resource: campus-ai-framework
+  reviewed: '2026-09-28'
+  hosts:
+  - change-management
+  - educational-policy-ai
+  - governance
+  reason: Listed on the concept page(s) shown.
+- resource: clarity
+  reviewed: '2026-09-28'
+  hosts:
+  - feedback
+  - writing-education
+  reason: Listed on the concept page(s) shown.
+- resource: claw-ed
+  reviewed: '2026-09-28'
+  hosts:
+  - learning-design
+  - online-teaching-and-learning
+  - open-source
+  - teacher-ai-competency
+  reason: Listed on the concept page(s) shown.
+- resource: deeptutor
+  reviewed: '2026-09-28'
+  hosts:
+  - agentic-ai
+  - intelligent-tutoring
+  reason: Listed on the concept page(s) shown.
+- resource: drawsplat
+  reviewed: '2026-09-28'
+  hosts:
+  - accessibility
+  - multimodal
+  - privacy
+  - visualization
+  reason: Listed on the concept page(s) shown.
+- resource: education-agent-skills
+  reviewed: '2026-09-28'
+  hosts:
+  - active-learning
+  - ai-literacy
+  - educational-development
+  - learning-design
+  - open-source
+  reason: Listed on the concept page(s) shown.
+- resource: edugems
+  reviewed: '2026-09-28'
+  hosts:
+  - ai-literacy
+  - learning-design
+  - prompt-engineering
+  - teacher-ai-competency
+  reason: Listed on the concept page(s) shown.
+- resource: fpds-apps-and-resources
+  reviewed: '2026-09-28'
+  hosts:
+  - academic-integrity
+  - accessibility
+  - educational-development
+  reason: Listed on the concept page(s) shown.
+- resource: gemini-notebook
+  reviewed: '2026-09-28'
+  hosts:
+  - rag
+  reason: Listed on the concept page(s) shown.
+- resource: id-toolbox
+  reviewed: '2026-09-28'
+  hosts:
+  - accessibility
+  - learning-design
+  - online-teaching-and-learning
+  reason: Listed on the concept page(s) shown.
+- resource: idstack
+  reviewed: '2026-09-28'
+  hosts:
+  - accessibility
+  - assessment
+  - learning-design
+  reason: Listed on the concept page(s) shown.
+- resource: institutional-ai-readiness-pack
+  reviewed: '2026-09-28'
+  hosts:
+  - academic-integrity
+  - change-management
+  - educational-policy-ai
+  - governance
+  reason: Listed on the concept page(s) shown.
+- resource: lesson-md
+  reviewed: '2026-09-28'
+  hosts:
+  - assessment
+  - edtech-platform
+  - learning-design
+  - open-source
+  reason: Listed on the concept page(s) shown.
+- resource: liascript
+  reviewed: '2026-09-28'
+  hosts:
+  - cs-education
+  - edtech-platform
+  - learning-design
+  - online-teaching-and-learning
+  - open-source
+  reason: Listed on the concept page(s) shown.
+- resource: master-instructional-design
+  reviewed: '2026-09-28'
+  hosts:
+  - assessment
+  - learning-design
+  - professional-training
+  reason: Listed on the concept page(s) shown.
+- resource: matt-pocock-skills
+  reviewed: '2026-09-28'
+  hosts:
+  - prompt-engineering
+  - self-directed-learning
+  - socratic-method
+  reason: Listed on the concept page(s) shown.
+- resource: mglearn
+  reviewed: '2026-09-28'
+  hosts:
+  - ai-literacy
+  - inclusive-learning
+  - language-learning
+  - multilingual-learning
+  reason: Listed on the concept page(s) shown.
+- resource: onmicro-ai
+  reviewed: '2026-09-28'
+  hosts:
+  - ai-literacy
+  - edtech-platform
+  - learning-design
+  - open-source
+  - scaffolding
+  reason: Listed on the concept page(s) shown.
+- resource: openmaic
+  reviewed: '2026-09-28'
+  hosts:
+  - intelligent-tutoring
+  - simulation
+  reason: Listed on the concept page(s) shown.
+- resource: pause-ai-use-self-examination
+  reviewed: '2026-09-28'
+  hosts:
+  - cognitive-offloading
+  - cognitive-surrender
+  reason: Listed on the concept page(s) shown.
+- resource: pedagogical-promptbook
+  reviewed: '2026-09-28'
+  hosts:
+  - feedback
+  - learning-design
+  - prompt-engineering
+  reason: Listed on the concept page(s) shown.
+- resource: playlab
+  reviewed: '2026-09-28'
+  hosts:
+  - ai-literacy
+  - educational-technology-developers
+  - learning-design
+  - teacher-ai-competency
+  reason: Listed on the concept page(s) shown.
+- resource: pressing-prompts
+  reviewed: '2026-09-28'
+  hosts:
+  - ai-literacy
+  - critical-pedagogy
+  - critical-thinking
+  - higher-ed
+  reason: Listed on the concept page(s) shown.
+- resource: process-feedback
+  reviewed: '2026-09-28'
+  hosts:
+  - academic-integrity
+  - ai-detection
+  - process-oriented-assessment
+  - self-regulated-learning
+  reason: Listed on the concept page(s) shown.
+- resource: student-guide-to-ai
+  reviewed: '2026-09-28'
+  hosts:
+  - ai-literacy
+  - critical-thinking
+  - cognitive-offloading
+  - academic-integrity
+  - metacognition
+  reason: Listed on the concept page(s) shown.
+- resource: teacherserver
+  reviewed: '2026-09-28'
+  hosts:
+  - automated-question-generation
+  - higher-ed
+  - special-education
+  - teacher-ai-competency
+  reason: Listed on the concept page(s) shown.
+- resource: vibes-diy
+  reviewed: '2026-09-28'
+  hosts:
+  - ai-literacy
+  - constructivist
+  - design-thinking
+  - learning-design
+  - open-source
+  - vibe-coding
+  reason: Listed on the concept page(s) shown.
+- resource: writing-rhetoric-studies-in-the-loop
+  reviewed: '2026-09-28'
+  hosts:
+  - bias-mitigation
+  - prompt-engineering
+  - writing-education
+  reason: Listed on the concept page(s) shown.
+- resource: snorkl
+  reviewed: '2026-10-07'
+  hosts:
+  - feedback
+  - formative-assessment
+  reason: 'Listed on the concept page(s) shown: a tool whose whole product is AI feedback
+    on student-produced explanations, and which states it is designed for formative
+    assessment rather than grading.'
+- resource: ai-infused-assignment-playbook
+  reviewed: '2026-10-10'
+  hosts:
+  - formative-assessment
+  - academic-integrity
+  reason: Listed on the concept page(s) shown.

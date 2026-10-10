@@ -1,0 +1,128 @@
+---
+title: "Was sind Best Practices für Schreibunterweisung im Kontext von KI?"
+created: "2026-09-12T08:13:03-04:00"
+updated: "2026-10-10T09:50:26-04:00"
+connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
+foundations: [academic-integrity, cognitive-offloading]
+assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
+ethics: [ai-use-disclosure, multilingual-learning]
+weight: 80
+discipline: [engineering education, humanities education, writing education]
+translation_of: faqs/writing-instruction-ai-best-practices
+source_updated: "2026-10-02T08:21:34-04:00"
+translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-10"
+    agent: hermes-agent
+---
+
+*Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
+
+Diese FAQ ist für Lehrkräfte geschrieben, die Kurs für Kurs und Aufgabe für Aufgabe entscheiden müssen, was KI im Schreiben von Studierenden tun darf. Sie stützt sich auf die Wissensbasis [[ai-education|KI in der Bildung]], insbesondere auf deren Synthesen zu [[writing-education|KI in der Schreibbildung]], [[cognitive-offloading|kognitiver Auslagerung]], [[ai-feedback-quality|KI-Feedbackqualität]], [[feedback-literacy|Feedbackkompetenz]] und [[academic-integrity|akademischer Integrität]].
+
+Die Forschung zeigt auf ein konsistentes Prinzip:
+
+> **Nutzen Sie KI, um Feedback, Reflexion, Kritik und Überarbeitung zu vermehren –, nicht um die intellektuelle Arbeit zu entfernen, die Schreiben zu entwickeln bestimmt ist.**
+
+Jenes Prinzip ist bedeutsam, weil [[writing-education|Schreiben]] nicht die Erzeugung polierten Texts ist, sondern ein kognitiver, rhetorischer und sozialer Prozess. KI kann das Produkt verbessern, während sie die Prozesse von Argumentation, Autorschaft, Quellenbewertung und Überarbeitung schwächt, die Ihre Aufgabe zu lehren existiert. Alles unten ist eine Weise, jene Unterscheidung anzuwenden.
+
+## Acht forschungsinformierte Praktiken für Lehrkräfte
+
+**1. Entscheiden Sie zuerst, welche intellektuelle Arbeit Studierende behalten müssen, und setzen Sie dann die KI-Grenze.** Bevor Sie entscheiden, ob KI „erlaubt" ist, benennen Sie das Konstrukt, das die Aufgabe entwickelt oder bewertet. Wenn das Ziel Argumentation ist, müssen Studierende Behauptungen formulieren und verteidigen. Wenn es disziplinäre Deutung ist, müssen sie Deutungsurteile fällen. Wenn es wissenschaftliche Argumentation ist, müssen sie Belege mit Schlussfolgerungen verbinden. KI-Nutzung, die jene Arbeit ersetzt, untergräbt die [[assessment-validity|Validität]] der Aufgabe, selbst wenn die resultierende Prosa ausgezeichnet ist –, das Produkt rechtfertigt die Inferenz nicht mehr, die Sie daraus ziehen wollen. Das ist die zentrale Logik von [[writing-education|Schreibbildung]] und [[academic-integrity|akademischer Integrität]], und es ist, warum Regeln auf Aufgabenebene Verbote auf Kursebene schlagen.
+
+[[nash-preservice-teachers-classroom-ai-policies-2026|Nash und Burriss]] zeigen, wie schwer jene Grenze gut zu ziehen ist. Über 27 Klassenraum-[[educational-policy-ai|KI-Richtlinien]] von [[teacher-education|angehenden]] Englischlehrkräften erlaubten 22 KI für Ideenfindung und Brainstorming, 22 untersagten oder ließen die Nutzung von KI zum Komponieren von Sätzen, Absätzen oder Aufsätzen unklar, und 22 sagten über *Lesen* überhaupt nichts. Der Widerspruch, den die Autoren hervortreiben, ist instruktiv: dieselben Lehrkräfte nannten Ideenfindung und Überarbeitung „Denken", während sie echtes Denken nur im abschließenden geschriebenen Text verorteten. Wenn Denken über Planung, Entwerfen, Überarbeiten und Bewerten verteilt ist –, wie die Kompositionsforschung argumentiert, auf die das Papier sich stützt –, dann schützt eine Richtlinie, die nur das Endprodukt behütet, den falschen Schritt, und Lesen verdient dieselbe explizite Behandlung wie Schreiben.
+
+**2. Bevorzugen Sie „Person denkt, KI antwortet" gegenüber „KI schreibt, Person editiert."** Das ist das umsetzbarste Prinzip in der Belegbasis. [[layer-sensitive-cognitive-offloading-writing-2026|Chens schichtsensitive Studie]] mit 168 Studierenden der ersten Semester über sechs intakte Klassen unterschied Oberflächen-, Struktur-, Ideen- und Argumentations-Auslagerung: offene KI-Kollaboration erzeugte das stärkste KI-unterstützte Schreiben, aber die schwächste spätere eigenständige Leistung, und *Argumentation* auszulagern war am negativsten mit eigenständigem [[critical-thinking|höherstufigem Denken]] assoziiert. Eine begrenzte Bedingung, die Delegation einschränkte und verlangte, dass Studierende erklären, wie sie KI-Vorschläge annahmen, veränderten oder verwarfen, schnitt bei eigenständigem Schreiben, Argumentationstiefe und Überarbeitung besser ab. Die Studie ist quasi-experimentell mit nur sechs intakten Klassen, behandeln Sie die Kausalbehauptung also vorsichtig –, aber das Muster stimmt mit der breiteren [[cognitive-offloading|Auslagerungs]]literatur überein.
+
+Eine praktische Regel folgt: verlangen Sie, dass Studierende ihre eigene Deutung, Hypothese, Argumentation oder Analysis etablieren, *bevor* sie KI bitten, sie zu kritisieren oder zu entwickeln. KI kann gefragt werden: „Hier sind drei Einwände gegen meine Argumentation." Sie sollte selten gefragt werden: „Schreibe meine Argumentation für mich."
+
+**3. Seien Sie besonders vorsichtig bei KI-generierten ersten Entwürfen.** In einer Studie mit 253 Schreibenden reduzierte jede KI-Unterstützung wahrgenommenes Eigentum, aber *Entwurfs*-Unterstützung reduzierte es am meisten, während *Planungs*-Unterstützung es am wenigsten reduzierte; mehr KI-beigetragener Text und Ideen gingen mit besserer Aufsatzqualität, aber niedrigerem Eigentum einher ([[ai-writing-support-stage-ownership-2026|die Planung-zu-Überarbeitung-Eigentumsstudie]]). Die Abwägung ist echt: Sie können einen besseren Aufsatz und ein schwächeres Gefühl von Autorschaft in derselben Einreichung bekommen. Wenn Autorschaft zu erhalten in Ihrem Kurs zählt, trennen Sie KI, die Planung anregt, von KI, die Absätze erzeugt –, das erste ist fast überall vertretbar, das zweite selten, wenn Komponieren die Zielfertigkeit ist.
+
+**4. Nutzen Sie KI als einen Feedbackpartner, und behalten Sie [[feedback|menschliches Feedback]] im System.** Die stärksten Klassenraumbelege hier sind [[pairr-ai-peer-review-2025|PAIRR]], mit 654 Studierenden über zehn Schreibkurse und drei schreibintensive [[stem-education|STEM]]-Kurse: Studierende entwarfen, vervollständigten [[peer-assessment|Peer-Bewertung]], erhielten rubrikbasiertes KI-Feedback, verglichen und bewerteten beide Quellen, machten Überarbeitungspläne, überarbeiteten und reflektierten. Achtundfünfzig Prozent bevorzugten kombiniertes Peer- + KI-Feedback gegenüber nur 6 Prozent, die KI-Feedback allein bevorzugten. Studierende fanden KI brauchbar für breite rubrikorientierte Überarbeitungsratschläge, während Peers kontextuelles Wissen und authentische Publikumsantwort lieferten. Seien Sie präzise darüber, was das zeigt: PAIRR maß die Erfahrung und Evaluation von Feedback der Studierenden statt langfristige [[learning-gains|Lernzuwächse]], es ist also starker Beleg für ein *Feedbackdesign* und schwächerer Beleg für dauerhafte Verbesserung im Schreiben.
+
+**5. Lehren Sie Studierende, Feedback zu bewerten, nicht nur danach zu prompten.** Zugang zu gutem Feedback genügt nicht. Studierende brauchen [[feedback-literacy|Feedbackkompetenz]]: die Fähigkeit, Feedback zu suchen, seine Qualität zu beurteilen, ihre Reaktion darauf zu managen, und es in Überarbeitung zu verwandeln. Studierende mit höherer Feedbackkompetenz profitieren weit mehr von KI-Feedback, während jene, die es als autoritativ behandeln, weniger gewinnen ([[ai-feedback-quality|KI-Feedbackqualität]]). Eine brauchbare Aufgabenkomponente ist eine kurze Feedback-Entscheidungstabelle – *KI-Vorschlag → annehmen / ablehnen / verändern → warum → das Rubrikkriterium oder der Beleg, der die Entscheidung stützt*. Das verwandelt KI-Ausgabe in Material für [[evaluative-judgment|Urteil]] statt in zu befolgende Anweisungen, und es gibt Ihnen etwas Bewertbares, das nicht die Prosa selbst ist.
+
+**6. Behalten Sie etwas Schreiben und Argumentation unabhängig beobachtbar.** KI-unterstützte Leistung ist nicht eigenständige Fähigkeit. Behalten Sie gelegentliche Entzugsbedingungen: kurzes Schreiben ohne KI, Deutung im Klassenraum, mündliche Erklärung, eine Konferenz, spontane Überarbeitung, oder eine Anschlussaufgabe, die erfordert, dieselbe Argumentation auf einen neuen Fall zu übertragen. Das ist am wichtigsten, wenn das abschließende Papier erhebliches Notengewicht trägt. Es bedeutet **nicht**, jede Aufgabe in eine proktorierte Prüfung zu verwandeln –, ein paar strategisch platzierte unabhängige Stichproben geben sowohl Ihnen als auch dem Studenten eine Baseline, gegen die die unterstützte Arbeit zu deuten ist ([[cognitive-offloading|kognitive Auslagerung]]; [[layer-sensitive-cognitive-offloading-writing-2026|Chens Studie]]). Das ist der schreibspezifische Fall des allgemeinen Assessment-Redesign-Arguments in [[redesign-assessment-ai-era]].
+
+**7. Nutzen Sie Offenlegung als Reflexion, nicht als Falle.** Offenlegung ist nicht neutral: Studierende verbergen KI-Nutzung, wenn Richtlinien mehrdeutig, strafend oder stigmatisierend sind, und Ehrlichkeit kann sogar Verdacht anziehen. Offenlegung wirkt pädagogisch, wenn sie Entscheidungsfindung sichtbar macht –, wofür KI genutzt wurde, was ihr geliefert wurde, welche Vorschläge zählten, und was die Person letztlich annahm oder verwarf ([[ai-use-disclosure|Erklärungen zu KI-Nutzung und Offenlegung]]; [[student-rationalization-ai-writing|Forschung zu studentischer Rationalisierung]]). Aufgabenspezifische Anleitung ist besser als eine pauschale „KI erlaubt"- oder „KI verboten"-Regel, denn die richtige Grenze unterscheidet sich zwischen Brainstorming, Argumentationsentwicklung, Satzeditieren, Quellenarbeit und abschließender Komposition. Benennen Sie, wie Offenlegung die Bewertung beeinflussen wird, oder Studierende werden das Schlimmste annehmen.
+
+Die Assessmentdesign-Modellierung von [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed und Temimi]] liefert den Mechanismus: Offenlegung wird nur dann zur attraktiven Option, wenn die Kosten der Ehrlichkeit niedrig bleiben, und weil die falsch Positiven eines Detektors auch auf ehrliche Studierende fallen, kann stärkeres Monitoring Verbergung relativ *attraktiver* machen. Ihr Ratschlag ist, für die Person zu designen, die am meisten zur Verbergung versucht ist, und eine erklärte Nutzung als Kontext statt als Geständnis zu lesen.
+
+**8. Behandeln Sie generisches [[llm]]-Urteil nicht als Ersatz für Ihr Urteil, besonders in [[summative-assessment|summativem Assessment]].** Zwei scheinbar widersprüchliche Ergebnisse sind kompatibel: sorgfältig kalibrierte Systeme mit detaillierten Rubriken und Beispielen können bestimmte Aufgaben gut bewerten, während Standard-LLM-Bewertung erheblich von menschlichem Urteil divergiert. [[llms-do-not-grade-essays-like-humans-2026|Mathew et al.]] fanden schwache Mensch-LLM-Übereinstimmung, die systematisch mit Aufsatzqualität variiert –, LLMs überbelohnen kurze, oberflächlich lesbare Aufsätze und unterbelohnen längere, stärkere Aufsätze mit geringen Oberflächenfehlern, und häufen sich zur Mitte der Skala. KI ist deshalb weit einfacher für risikoarmes [[formative-assessment|formatives]] Feedback, Kommentarentwurf oder Triage zu rechtfertigen denn als autonomer Endbewertender ([[automated-essay-scoring|Automatisiertes Aufsatz-Scoring]]).
+
+Studierende ziehen eine Version dieser Linie selbst. In einem technischen Kommunikationskurs für das Grundstudium, in dem [[generative-ai|ChatGPT]] handschriftliches Schreiben bewertete und Studierende das gesagt bekamen, fanden alle 13 Teilnehmenden das Feedback klar und brauchbar für Überarbeitung auf Oberflächenebene, doch die meisten trennten *Feedbacknutzen* von *Bewertungsautorität* –, die Kritik akzeptierend, während sie darauf bestanden, dass die Lehrkraft die Note entscheide ([[student-perspectives-ai-writing-grading-2026]]). Jenes Zwei-Urteil-Muster argumentiert dafür, [[human-in-the-loop-ai|menschliche Aufsicht]] so zu designen, dass sie der Punkt ist, an dem KI-Ausgabe zur Note wird, statt sie als optionale Höflichkeit zu behandeln.
+
+## Ein Standard-Workflow, den Sie annehmen oder anpassen können
+
+Eine robuste KI-Zeitalter-Schreibsequenz behält die Argumentation bei der Person und setzt KI in eine beratende Rolle:
+
+| Phase | Verantwortung der Person | Angemessene KI-Rolle | Was Sie sammeln können |
+|---|---|---|---|
+| **1. Auf Belege treffen** | Lesen, beobachten, annotieren, rechnen, das Experiment ausführen | Meist keine, oder nur Klärung | Notizen, Annotationen, Beobachtungen |
+| **2. Eine erste Position bilden** | Deutung, Frage, Hypothese, Behauptung generieren | Darf Fragen stellen oder Annahmen herausfordern | Behauptungs- oder Hypothesen-Memo |
+| **3. Planen** | Belege, Sequenz, Publikum, Genre entscheiden | Darf eine Gliederung kritisieren oder Alternativen vorschlagen; die Person entscheidet | Gliederung + Begründung |
+| **4. Entwerfen** | Substanzielle Prosa und Argumentation erzeugen | Eingeschränkt nach dem Lernziel | Entwurf und Versionshistorie |
+| **5. Menschliche Antwort** | Peer- oder Lehrkraft-Feedback geben und erhalten | Keine nötig | Peer-Kommentare |
+| **6. KI-Feedback** | Kriterienreferenzierte Kritik erbitten | Kritiker, Leserin oder Leser, Gegenargument-Generator, Klarheitsprüfer | KI-Feedback-Transkript |
+| **7. Feedback bewerten** | Peer-, Lehrkraft- und KI-Vorschläge vergleichen; mit Gründen annehmen oder ablehnen | KI-Ausgabe wird Gegenstand der Evaluation | Feedback-Entscheidungs-Memo |
+| **8. Überarbeiten** | Substanzielle Veränderungen machen und begründen | Klarheit testen, Alternativen anbieten | Überarbeitung |
+| **9. Verifizieren** | Jede faktische oder quellenabhängige Behauptung prüfen | KI kann ihre eigene Ausgabe nicht verifizieren | Quellen und Belege |
+| **10. Reflektieren und offenlegen** | KIs Rolle erklären und was sich in ihrem Denken veränderte | Keine | Kurze Prozessreflexion |
+| **11. Eigenständige Prüfung bei Bedarf** | Die Argumentation ohne KI erklären oder anwenden | Keine | Mündliche Verteidigung, kurzes Schreiben, neuer Fall |
+
+Das ist im Wesentlichen [[pairr-ai-peer-review-2025|PAIRR]] erweitert: Entwurf → menschliches Feedback → KI-Feedback → kritischer Vergleich → Überarbeitung → Reflexion, mit einer eigenständigen Baseline und klareren Grenzen um Argumentation herum.
+
+## Disziplinspezifische Anleitung
+
+### Kompositions- und Schreibkurse
+
+Kompositionslehrkräfte haben den stärksten Grund, den Schreibprozess selbst zu schützen, denn Entwerfen, rhetorische Entscheidungsfindung, Überarbeitung, Publikumsbewusstsein und die Entwicklung von Stimme sind nicht bloß Weisen, Lernen anzuzeigen –, sie *sind* die Lernziele. Lehren Sie KI-Nutzung progressiv statt als Binarität. Frühes Semester sammeln Sie mehrere unabhängige Stichproben, damit sowohl Sie als auch der Student wissen, was die schreibende Person gegenwärtig kann. Führen Sie KI dann hauptsächlich als Publikum, Kritiker und Überarbeitungspartner ein: bitten Sie sie zu identifizieren, wo eine Leserin oder ein Leser den Faden verliert, Einwände gegen eine These zu generieren, einen Entwurf gegen die Rubrik zu vergleichen, nicht gestützte Behauptungen zu markieren, oder zu erklären, warum ein Absatz inkohärent fühlt. Studierende beurteilen die Vorschläge selbst.
+
+Behalten Sie Peer-Review, selbst wenn KI-Feedback verfügbar ist: Peers liefern kontextuelles und Publikumswissen, das KI nicht tut, und den Unterschied zwischen beiden zu bewerten ist selbst schreiberisches Training. Seien Sie konservativ bei KI, die lange Strecken eines ersten Entwurfs erzeugt, wenn Komponieren zu lernen das Ziel ist, wie die Eigentums- und Auslagerungsbelege oben beide anzeigen. Vermeiden Sie zugleich pauschale Verbote von Grammatik, Formulierung oder Sprachunterstützung –, sie erzeugen unnötige Barrieren für [[multilingual-learning|mehrsprachige Schreibende]]. Der bessere Schritt ist, *Sprachunterstützung* von *intellektueller Autorschaft* zu trennen: Studierende dürfen Hilfe bei Ausdruck bekommen, während sie für Ideen, Belege, rhetorische Entscheidungen und Bedeutung verantwortlich bleiben. Seien Sie sich bewusst, dass KI-Feedback nicht sprachneutral ist: [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al.]] fanden, dass identisches Schreiben mehr Lob und weniger substanzielle Kritik erhielt, wenn demografische oder bildungsbezogene Merkmale der Person in den Prompt eingeschlossen waren, also gehört [[bias-mitigation|Bias]]-Prüfung in Ihr Feedbackdesign.
+
+### Geistes- und sozialwissenschaftliche Kurse
+
+Deutung ist hier häufig die Ziel-Fähigkeit, also lassen Sie **Quellenbegegnung der KI-Begegnung vorhergehen**. Studierende sollten den Primärtext, die historische Quelle, das Kunstwerk, das Archivstück, das Interview oder die theoretische Passage annotieren und eine erste Deutung formulieren, *bevor* sie KI konsultieren. Danach wird KI bildungswirksam brauchbar als Kontrast: „Bieten Sie eine alternative Lesart an"; „Welche Belege würden meine Deutung herausfordern?"; „Welche Annahmen macht meine Argumentation?"; „Generieren Sie eine Deutung aus einer kontrastierenden theoretischen Perspektive." Die Person entscheidet, welche Lesart der tatsächliche Text rechtfertigt.
+
+Aufgaben können außerdem KI-Kritik selbst zu einem Teil disziplinären Lernens machen: geben Sie Studierenden eine KI-Deutung eines Gedichts, Ereignisses, Arguments oder sozialen Phänomens und fragen Sie, was sie bemerkt, was sie übersieht, welche Belege ihre Behauptungen stützen, wessen Perspektive abwesend ist, und wo sie Mehrdeutigkeit in eine glatte Antwort zusammenfallen lässt. Das erhält das Deutungsurteil, das die [[humanities-education|Geisteswissenschaften]] lehren, statt ein LLM als Orakel zu behandeln. Bewerten Sie Deutungsentscheidungen und Belegbegründung statt Politur –, eine kurze Konferenzfrage wie „Warum haben Sie diese Passage so und nicht auf die von Ihnen verworfene alternative Weise gelesen?" ist weit stärkerer Beleg für Verständnis als zu raten, ob ein Satz „KI-generiert aussieht" ([[ai-detection|KI-Detektion]]).
+
+### STEM-Kurse und Laborberichte
+
+**Eine Einschränkung zuerst:** die Wissensbasis hält erheblich stärkere Belege über KI-unterstütztes akademisches Schreiben generell bereit als über KI im Schreiben von Laborberichten spezifisch; praktische und Labor-[[pedagogy]] bleiben unterabgedeckt, auch innerhalb der [[engineering-education|Ingenieurbildungs]]literatur. Die Anleitung unten ist eine begründete Anwendung von Schreib-, Auslagerungs-, Validitäts- und Ingenieurbelegen statt eine Schlussfolgerung aus einer großen Literatur zu Laborberichten.
+
+Ziehen Sie die KI-Grenze um **wissenschaftliche Argumentation statt um Prosa als Ganze**. Studierende bleiben für Beobachtungen, Rohdaten, Berechnungen, Unsicherheit, Abbildungen, Analysewahlen, Ergebnisse und Behauptung-Belel-Argumentation verantwortlich. Sobald jene existieren, kann KI vernünftig bei Organisation, Lesbarkeit, Übergängen und disziplinären Konventionen helfen –, dieselbe Oberfläche-versus-Argumentation-Unterscheidung wie oben ([[layer-sensitive-cognitive-offloading-writing-2026|Chens Studie]]).
+
+Ein starkes KI-Zeitalter-Laborbericht-Paket umfasst deshalb den Bericht **plus** ausgewählte Rohdaten, Berechnungen oder Notebook-Ausgabe, eine Abbildung mit einer von der Person geschriebenen Deutung, und eine kurze Darstellung, wie die zentrale Schlussfolgerung aus den Belegen folgt. Für hochrangige Berichte fragen Sie ein oder zwei individualisierte Anschlussfragen über einen Graphen, ein anomales Ergebnis, eine [[research-methods-aied|methodologische]] Wahl, oder eine Grenze. Lassen Sie Schreibflüssigkeit nicht für konzeptuelles Verständnis einspringen: die Wissensbasis berichtet, dass automatisierte [[physics-education|Physik]]-Bewertung konzeptuelles Verständnis unterschätzen kann, wenn sprachlicher Ausdruck schwächer ist, was am härtesten auf [[multilingual-learning|mehrsprachige Studierende]] fällt ([[automated-essay-scoring|Automatisiertes Aufsatz-Scoring]]). Wenn wissenschaftliche Argumentation und wissenschaftliches Schreiben beide Ziele sind, bewerten Sie sie separat.
+
+Ingenieurkurse fügen professionelle Rechenschaftspflicht hinzu. Ein Review von [[ethical-use-ai-engineering-education-review-2026|99 empirischen Ingenieurbildungsstudien]] identifizierte Transparenz, [[human-in-the-loop-ai|menschliche Aufsicht]], Unabhängigkeit von Studierenden, Datenschutz, Autorschaft, Fairness und Wohltätigkeit als wiederkehrende [[ethics|ethische]] Bedenken, und argumentierte, KI-Ethik gehöre in professionelle Formation statt bloß in Regel-Compliance. In einem Labor- oder Designbericht bitten Sie Studierende, nicht nur KI-Unterstützung offenzulegen, sondern zu bestätigen, dass sie Berechnungen, Quellen, Annahmen und sicherheitsrelevante Behauptungen verifiziert haben.
+
+## Was zu beenden ist
+
+- **Polierte Prosa zu verlangen, während der Prozess ignoriert wird.** Es macht das Produkt progressiv schwerer als Beleg für Lernen zu deuten.
+- **Sich auf KI-Detektoren zu stützen.** [[ai-detection|Detektion]] adressiert Detektion, nicht Lernen oder [[assessment-validity|Assessmentvalidität]], und ihre Belegakte ist arm: in einer verdeckten Feldstudie blieben 94% KI-generierter Prüfungseinreichungen unentdeckt und erzielten bessere Ergebnisse als echte Studierende, während eine kontrollierte Studie fand, dass Detektoren konformes leichtes KI-Editieren bei 38–80% markierten, doch mehr als 96% humanisierter Umschreibungen übersahen ([[teichmann-detecting-undetectable-misconduct-2026]]; [[karr-ai-detection-humanization-2026]]).
+- **Uneingeschränkten KI-Zugang zu geben, ohne Feedbackbewertung zu lehren.** Das setzt die [[feedback-literacy|Feedbackkompetenz]] voraus, die viele Studierende noch nicht entwickelt haben.
+- **KI-Feedback für Peer- und Lehrkraft-Interaktion zu substituieren.** Das entfernt die kontextuellen und relationalen Informationen, die Studierende konsistent als wertvoll berichten.
+- **„KI erlaubt" zu schreiben und es dabei zu belassen.** Studierende lesen das vernünftigerweise als alles von Rechtschreibprüfung bis Generierung des zentralen Arguments abdeckend. Erwartungen auf Aufgabenebene sind klarer und machen Offenlegung weniger zu einem Ratespiel ([[ai-use-disclosure|Erklärungen zu KI-Nutzung und Offenlegung]]).
+
+## Eine schnelle Regel, um zu entscheiden, was KI tun darf
+
+Fragen Sie für jede Aufgabe drei Fragen:
+
+| Frage | Wenn die Antwort ja ist |
+|---|---|
+| Ist diese kognitive Aktivität selbst ein Lernziel? | Behalten Sie erhebliche Verantwortung bei der Person. |
+| Werden Studierende diese Fähigkeit später eigenständig ausführen müssen? | Fügen Sie eigenständige Übung und etwas Assessment ohne KI hinzu. |
+| Kann KI Studierenden helfen, die Fähigkeit zu bewerten, zu üben oder zu überarbeiten, ohne sie für sie auszuführen? | Meist der stärkste Fall für KI-Integration. |
+
+Angewandt: wenn das Ziel Argumentation ist, darf KI ein Argument herausfordern, aber sollte nicht routiniert eines liefern. Wenn das Ziel historische Deutung ist, darf KI eine konkurrierende Lesart anbieten, die die Person kritisiert. Wenn das Ziel Kommunikation des Laborberichts ist, darf KI Prosa verbessern, nachdem die Person die Analysis und Argumentation gemacht hat. Das ist die [[coach-not-crutch-ai-writing|Coach-statt-Krücke]]-Grenze in der Praxis.
+
+## Wie stark sind die Belege?
+
+Vielversprechend, aber noch nicht stark genug, um eine einzelne universelle KI-Schreibrichtlinie zu rechtfertigen. Manche der besten Belege kommen aus erheblichen authentischen Klassenraumstudien wie [[pairr-ai-peer-review-2025|PAIRR]] mit seinen 654 Studierenden. Andere Befunde ruhen auf Quasi-Experimenten, kleinen experimentellen Stichproben, konzeptuellen Analysen und aufkommender Arbeit von 2025–2026: [[layer-sensitive-cognitive-offloading-writing-2026|Chens begrenzte-Schreiben-Studie]] umfasste 168 Studierende, aber nur sechs intakte Klassen; die [[ai-writing-support-stage-ownership-2026|Eigentumsstudie]] nutzte eine kurze experimentelle Schreibaufgabe; und eine Studie, die unmittelbare Qualitätsgewinne nach ChatGPT-Übung berichtete, umfasste nur 21 internationale Studierende des ersten Semesters und etablierte keinen langfristigen [[transfer-of-learning|Transfer]] ([[chatgpt-academic-writing-quality-ownership-2026]]).
+
+Behandeln Sie den Konsens als **Designprinzipien statt geklärte Vorschriften**. Der verlässlichste studienübergreifende Befund ist, [[agency|Handlungsfähigkeit der Person]], [[evaluative-judgment|Bewertungsurteil]], eigenständige Kompetenz, disziplinäre Argumentation und menschliches Feedback zu erhalten, während KI genutzt wird, um die Verfügbarkeit von Kritik, Übung, Überarbeitungsunterstützung und Sprachunterstützung zu erweitern.
+
+**Die kurze Version für einen Syllabus oder Fakultäts-Workshop:** Studierende tun zuerst die intellektuelle Arbeit; KI fragt hauptsächlich, kritisiert, erklärt und unterstützt Überarbeitung; Studierende bewerten ihre Ausgabe, statt sie bloß umzusetzen; und Assessment umfasst genug Prozess- oder Eigenständigkeitsbelege, um zu zeigen, was die Person tatsächlich tun kann.
