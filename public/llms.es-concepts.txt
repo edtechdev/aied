@@ -266,6 +266,8 @@ La propia preparación es un objetivo en disputa. [[charles-teacher-readiness-by
 
 **Alfabetización en la interacción con la IA: la dimensión interactiva.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström y Palmqvist (2026)]] proponen una competencia más acotada, la interactiva: la capacidad de *dirigir, evaluar y aprender de* la interacción iterativa con la IA generativa, como una plasmación específica de las dimensiones aplicativa, evaluativa y de integración de marcos más amplios como [[ai-literacy-heptagon-2026|el Heptágono de la Alfabetización en IA]]. Su demostración reflexiva muestra en qué consiste en la práctica: reconocer que una respuesta fluida está por encima del esquema propio, pedir que se simplifique, acotar el alcance y reorientar el sistema hacia una práctica más focalizada. De ahí se siguen dos consecuencias de diseño: la habilidad se distribuye de forma desigual, por lo que el uso no guiado puede favorecer al estudiantado que ya tiene confianza y ampliar las brechas ([[equity-in-ai-education]]), y debe enseñarse de forma explícita y no darse por supuesta, cubriendo el profesorado cómo formular prompts productivos y cuándo dejar de usar la herramienta ([[self-regulated-learning]]).
 
+**Elevar la dimensión ética de la alfabetización tiene un problema de signo.** Entre 584 estudiantes de grado que se enseñaron IA a sí mismos, la competencia elevó la conciencia ética (β = 0,644, p < ,001), y la conciencia ética elevó a su vez la ansiedad ante la IA (β = 0,439, p < ,001) en lugar de reducirla, lo contrario de la dirección predicha ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]]). La lección que extraen los autores es que enseñar cómo se gobiernan las preocupaciones éticas tiene que acompañar a la propia dimensión ética, o el trabajo de alfabetización puede dejar a quienes aprenden más ansiosos de lo que los encontró.
+
 ### Alfabetización crítica en IA: más allá de las habilidades, hacia el poder y la resistencia
 
 Una línea distinta de la base de conocimiento trata la alfabetización en IA no solo como habilidades o evaluación crítica, sino como una *práctica crítica y política* que interroga el poder, la autoridad y el conocimiento de quién cuenta. Esto conecta la alfabetización en IA con la [[critical-pedagogy|pedagogía crítica]] y la [[equity-in-ai-education|equidad]]:
@@ -368,6 +370,8 @@ La alfabetización en IA es **de doble filo** en relación con la dependencia ex
 - [[higher-ed]] — alfabetización en el ámbito universitario
 - [[career-development-and-readiness]] — el rédito de empleabilidad que se sostiene que construye la alfabetización en IA
 - [[ai-education]] — el campo más amplio
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
+
 ## Artículos conectados
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 marcos validados muestran que la IA amplía la alfabetización digital hacia la ética mientras la colaboración entre el profesorado y la IA sigue poco especificada (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Seis áreas de competencia, cinco valores y tres niveles de progresión para los medios de servicio público
@@ -414,6 +418,7 @@ La alfabetización en IA es **de doble filo** en relación con la dependencia ex
 - [[ai-literacy-determinants-university-students-2026]] — Recursos externos, competencia digital y perfil psicológico como determinantes conjuntos, con una inversión de signo de la ansiedad tecnológica
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Instrumento de seis facetas que añade el uso responsable y el autodesarrollo, invariante a escala entre adolescentes, adultos jóvenes y adultos de mediana edad
 - [[faculty-ai-well-being-social-supports-2026]] — Modelo de ecuaciones estructurales del bienestar docente con la IA, los apoyos sociales y la alfabetización en IA
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Elevar la dimensión ética de la alfabetización sin un marco de afrontamiento puede dejar al estudiantado más ansioso
 
 ---
 
@@ -698,6 +703,7 @@ Los artículos de la base de conocimiento documentan la descarga cognitiva en va
 ## La dependencia excesiva: cuándo la descarga se vuelve dañina
 
 La escalera que sigue esta página tiene tres peldaños, y solo los dos primeros pertenecen a este apartado. La **descarga** es delegar trabajo mental, lo que a menudo es productivo; la **dependencia excesiva** es hacerlo de forma crónica y sin calibración, el fallo conductual que documenta esta sección; la **[[cognitive-surrender|rendición cognitiva]]** es un fallo distinto: el paso evaluativo nunca ocurre, así que quien aprende adopta la respuesta de la IA sin ningún juicio sobre su calidad. La frontera se ve en lo que se le pide a la IA: la asistencia *instrumental* de [[du-yuan-epistemic-dependence-2026|Du y Yuan]] produce un resultado, mientras que la asistencia que conlleva juicio aporta el criterio con el que se juzga ese resultado, y es la segunda la que desplaza el trabajo del que depende la experiencia. [[young-people-learning-generative-ai-rapid-review-2026|La revisión rápida de Sídney]] traza la misma división triple a lo largo de 271 artículos. La rendición tiene, por tanto, su propia firma experimental y su propia página; la dependencia excesiva sigue siendo el problema de frecuencia y calibración, y los dos son resultados separables en una misma tarea: en los ensayos de [[shaw-nave-cognitive-surrender-2026|Shaw y Nave]], el 73,2% de los ensayos con IA incorrecta terminaron en rendición mientras que el 19,7% terminaron en descarga estratégica.
+**Un banco de pruebas externo a cualquier estudio concreto mide ese mismo fallo y lo encuentra común.** ImpactBench puntuó diez modelos en 48.540 conversaciones simuladas: su métrica de Asimetría de Descarga Cognitiva promedió el 51,9% y la Intrusión Cognitiva Relacionada con la Planificación el 47,1%. Su caso educativo tiene a Claude Sonnet 5 entregar una tesis, un esquema y un ensayo completo «listo para pegar» en cuanto un estudiante simulado presiona para obtener un borrador terminado, sin dejar por ello de negarse a fabricar citas ([[impactbench-ai-impact-on-humans-2026|ImpactBench (2026)]]). Aprendizaje y Desarrollo de Habilidades fue la más débil de las 14 subáreas en ambas polaridades, con un 45,9% y un 16,3%.
 
 La **dependencia excesiva** es la dependencia excesiva o descalibrada de las herramientas de IA, en la que el estudiantado delega trabajo cognitivo que debería realizar por sí mismo, lo que da lugar a un menor aprendizaje, a una [[agency|agencia]] disminuida y al desplazamiento del desarrollo de habilidades. Es la manifestación conductual de una descarga cognitiva excesiva: cuando descargar se convierte en la opción predeterminada en lugar de una elección estratégica. La dependencia excesiva no consiste simplemente en usar demasiado la IA, sino en usarla de maneras que sustituyen los procesos de aprendizaje en lugar de complementarlos. El trabajo conceptual insiste en mantener esta dependencia excesiva educativa separada del apego relacional y de la dependencia [[medical-education|clínica]]: [[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]] muestra que la confianza, la dependencia, la dependencia excesiva, el apego y el uso problemático se confunden habitualmente en la literatura sobre IA conversacional, y que la delegación frecuente no debería etiquetarse como dependencia sin un control deteriorado o un daño.
 
@@ -728,6 +734,8 @@ los riesgos más importantes de la IA en la educación:
 - **La secuela no medida: el lavado cognitivo.** [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] nombra la mayor pregunta abierta del campo como la *posterior a la retirada*: casi toda la investigación sobre la descarga mide la cognición durante el uso de la IA, pero casi nada mide qué ocurre después de retirar un asistente durante días o semanas (un examen, una caída del servicio, una revisión de licencia). Formaliza el **lavado cognitivo** con un modelo de curva de lavado (parámetros estimables para la constante de tiempo de recuperación, la completitud de la recuperación, el crecimiento residual y un índice de histéresis que compara el reaprendizaje con el esfuerzo original) y cuatro resultados posibles (rebote elástico, meseta parcial, andamiaje latente, sobrerrecuperación). Como la reversibilidad determina si un déficit inducido es una molestia o una lesión a escala de cohorte, el artículo sostiene que la retirada merece el mismo estatus metodológico que la adopción y especifica un protocolo de tres brazos, tres dominios y veintidós semanas para dirimir entre los resultados. Esto convierte las distinciones anteriores entre «entrenador y muleta» y entre descarga sustitutiva y duplicativa en una agenda de investigación *longitudinal y contrastable* sobre si las habilidades descargadas vuelven y con qué rapidez.
 - **La dependencia sin conocimiento del dominio degenera en conjeturas.** [[ai-particle-physics-education-redesign-2026|Mikhasenko et al. (2026)]], al rediseñar el curso introductorio de [[physics-education|física]] nuclear y de partículas de la Universidad del Ruhr en Bochum, describen un modo de fallo de la dependencia en ausencia de conocimiento del dominio: cuando un estudiante no podía juzgar si una respuesta generada era físicamente sólida, la pretendida «conversación con la IA» degeneraba en conjeturas frente a un resultado verosímil pero poco fiable. La encuesta de mitad de semestre del mismo curso (n=30) encontró un uso frecuente de los LLM (24 de 29 los usaban a menudo o siempre) junto a una baja preparación [[self-report-measures|autodeclarada]] para la fluidez informática que exigían las tareas, y las respuestas abiertas señalaron la dependencia de la IA y el acceso desigual a los modelos de pago entre los puntos de fricción.
 - **La contraargumentación daoísta: descargar no solo es poco práctico, sino que se derrota a sí mismo.** [[daoism-ai-education-philosophy-2026|Xie (2026)]] aporta una contraargumentación normativa contraria a la delegación desde la autopurificación daoísta: en la práctica del Neidan (內丹) «no hay atajos cognitivos», y el practicante no puede externalizar el trabajo en dispositivos externos, así que la IA debería ser «no un sustituto cognitivo, sino un adjunto instrumental», semejante a un horno alquímico, un planteamiento que se alinea con la frontera anterior entre «entrenador y muleta» y no con una descarga sustitutiva.
+
+**Un consenso de 30 personas expertas sitúa el daño en ambos extremos de la secuencia de aprendizaje.** Un ejercicio Delphi —preregistrado— sobre 65 procesos de aprendizaje encontró la adquisición vulnerable (Codificación 3,30, Recuperación 3,30, Adquisición de información 3,00 en la escala de disrupción de 1 a 5), la consolidación potenciada (Aprender de la retroalimentación 4,00, Aprender de ejemplos 3,90, Autoevaluación 3,80) y el pensamiento de orden superior vulnerable de nuevo ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Diez de los dieciocho procesos de orden superior alcanzaron consenso únicamente sobre la vulnerabilidad, con valoraciones de potenciación por debajo del umbral.
 
 ### El marco de la teoría de la carga cognitiva
 
@@ -805,6 +813,9 @@ Dos estudios controlados del lote reciente fijan las dos mitades de esta afirmac
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt reduces acceptance of incorrect AI advice and improves awareness calibration (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI dependence as a boundary condition on critical-thinking disposition and self-perceived employability (Shojaei et al. 2026)
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI and children's creative thinking: over-reliance and prompt dependence in a scoping review (Niu et al. 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 personas expertas sobre 65 procesos de aprendizaje: descarga en ambos extremos de la secuencia de aprendizaje
+- [[rented-self-decoupling-performance-becoming-2026]] — El yo alquilado: la descarga que cuesta el yo disciplinar de quien aprende, no solo la habilidad
+- [[rented-self-decoupling-performance-becoming-2026]] — El yo alquilado: la descarga que cuesta el yo disciplinar de quien aprende, no solo la habilidad
 
 ---
 
@@ -985,6 +996,7 @@ El estudiantado también queda enmarcado por los medios y el discurso público e
 - **Canalizar la ansiedad hacia la evaluación.** Enmarque la incertidumbre sobre la exactitud como una razón para verificar y revisar, no como una razón para evitarla o hacer trampas.
 - **Usar mensajes honestos y específicos** (por ejemplo, inoculación y advertencias de falibilidad) que construyan una cautela calibrada en lugar de confianza o desconfianza generalizadas.
 - **Vender el propósito.** Conecte el uso de la IA con el aprendizaje duradero y con la [[agency|agencia]] de quien aprende, y acompañe los mensajes con el apoyo que convierte la intención en adopción.
+- **Secuencia la herramienta según la fase de aprendizaje.** La afirmación práctica central del informe de consenso de 30 personas expertas es un orden: adquirir las ideas primero sin IA generativa, luego usarla para reforzar y consolidar lo aprendido, y después priorizar el pensamiento propio al aplicar esas ideas en contextos nuevos ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Su consejo al estudiantado es más directo: las ganancias de rendimiento a corto plazo toman atajos que sacrifican el aprendizaje necesario para el éxito a largo plazo.
 
 ## Conceptos conectados
 
@@ -1018,6 +1030,7 @@ El estudiantado también queda enmarcado por los medios y el discurso público e
 - [[ai-ethics-education-public-discourse]] — El discurso público sobre la ética de la IA en educación
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — El profesorado enmarca la IA como uso crítico y responsable; las empresas la enmarcan como productividad
 - [[ssaho-ai-academic-integrity-review-2025]] — Construir una cultura de integridad académica mediante expectativas claras
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 personas expertas sobre la secuencia: adquirir sin IA generativa, consolidar con ella, y después pensar por sí mismo
 
 ---
 
@@ -1255,6 +1268,9 @@ El caso disciplinar más claro a favor del rediseño frente a la detección proc
 - **Las referencias fabricadas han llegado al registro publicado de la enseñanza de la informática.** [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] rastrearon 113.588 referencias de 5225 artículos de enseñanza de la informática de la ACM Digital Library contra el corpus completo de 723.930 publicaciones y 15.872.533 referencias, verificaron manualmente 828 registros sospechosos y confirmaron 30 referencias con información bibliográfica verificablemente fabricada en 14 artículos, todos publicados en 2025 o 2026. En el SIGCSE Technical Symposium el recuento verificado pasó de 3 en 2025 a 17 en 2026, presente en el 2,3% de los artículos de las actas de 2026, y las referencias alucinadas aparecieron en cinco sedes patrocinadas o en cooperación con SIGCSE en 2025. La cifra solo es válida con su contrapeso: la mayoría de las referencias señaladas eran benignas (229 eran discrepancias de metadatos de la ACM en las que el PDF era correcto y 188 eran variantes bibliográficas válidas), así que la cifra de sedes es un límite inferior deliberado. Repercute en los autores y no solo en la [[peer-assessment|evaluación entre pares]], porque quienes revisan y comprueban las listas de referencias no pueden verificar todas las entradas, y la redacción asistida por [[llm|LLM]] abarata la producción de una cita inventada pero verosímil.
 
 - **La claridad sin rediseño desplaza el mal uso en lugar de eliminarlo.** [[petricini-zipf-ai-use-ethics-matrix-2026|Petricini y Zipf (2026)]] sitúan el uso de la IA en dos ejes (la intención y el esfuerzo del estudiantado frente a la claridad y el apoyo que ofrece el entorno) e informan de que el cuadrante más poblado de sus datos de entrevistas era el de *cumplimiento ansioso*, en el que el estudiantado oculta una ayuda legítima (apoyo gramatical, explicaciones de conceptos, organizar sus propias ideas) para evitar una [[legal-issues-and-risks|acusación falsa]]. Su advertencia es direccional: cuando las reglas se vuelven claras pero la [[assessment|evaluación]] sigue premiando la velocidad y el producto, el estudiantado consciente de la política se desplaza hacia una *elusión eficiente* y no hacia un *uso virtuoso de la herramienta*. [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]] llega al mismo punto desde el lado de la tarea: cuando los agentes satisfacen todos los criterios de la rúbrica sin razonamiento visible, calificar el rastro de decisiones (calibración de la confianza, sugerencias de IA rechazadas, restricciones específicas del curso) sustituye a la detección, que según ella falla en ambas direcciones.
+- **La aplicación, y no la detección, es donde vive la conversación.** Entre 270.929 registros relacionados con la IA en 26 subreddits educativas a lo largo de tres años y medio, el grupo de integridad académica concentró el 37,1% de la discusión y la Aplicación de Conductas Indebidas fue el mayor tema individual con un 12,1%, mientras el 32,3% de los hilos entre profesorado y estudiantado se situaban dentro de disputas de detección y aplicación ([[reddit-genai-education-discourse-analysis-2026|Yüce et al. (2026)]]).
+
+**Las políticas de integridad están pasando de quién escribió las palabras a quién tuvo las ideas, y los detectores se están reconstruendo para acomodarse.** IdeaLens predice la procedencia de las ideas a partir de un esquema en lugar de la prosa: en 50 relatos que personas escribieron desde cero siguiendo planes generados por IA, marcó el 68% como IA, frente al 8% de Pangram 4 y el 0% de su control entrenado con prosa, y calificó como humana el 94,7% de los textos humanos pulidos por IA ([[idealens-detecting-ai-ideas-2026|Rajendhran et al. (2026)]]). Su propia declaración ética califica el resultado de estimación estadística que no debe usarse por sí sola como prueba concluyente del uso de IA.
 
 ## Conceptos conectados
 - [[pedagogical-patterns]] — Secuencias de verificación adoptadas en respuesta a la IA generativa
@@ -1318,6 +1334,7 @@ El caso disciplinar más claro a favor del rediseño frente a la detección proc
 - [[argus-academic-integrity-genai-2026]] — Argus: la integridad académica en la era de la IA generativa
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Hallazgo de auditoría sectorial: las universidades con mandato y las de marco no muestran diferencias en la exposición de la evaluación, la contraparte empírica del problema de coordinación
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Early prediction of AI-assisted cheating risk from LMS traces, framed as academic guidance rather than evidence of misconduct
+- [[reddit-genai-education-discourse-analysis-2026]] — Tres años y medio de Reddit educativo: la aplicación domina, y las disputas de integridad son el principal ámbito de encuentro entre profesorado y estudiantado (Yüce et al. 2026)
 
 ---
 
@@ -1602,6 +1619,9 @@ La configuración de creencias es un segundo eje de perfilado: entre 40.680 doce
 
 
 Un contraejemplo basado en el diseño trata la competencia como situacional y no como un peldaño de una escalera. [[adaptive-ai-model-teacher-educators-2025|El estudio basado en el diseño de Eyal (2025) con 22 formadores de docentes de educación superior]] hizo que las personas participantes examinaran cinco marcos de evaluación publicados y codiseñaran una alternativa organizada en torno a tres ejes interrelacionados: la adecuación al contexto (infraestructura, factores socioculturales, necesidades locales, etapa de desarrollo), las necesidades profesionales (disciplina, pedagogía, liderazgo, apoyo) y el desarrollo dinámico. El modelo rechaza los niveles de competencia fijos y permite una progresión no lineal, y se acompaña de un cuestionario de autoevaluación reflexiva de 20 ítems valorado de 1 a 5. Su validación es solo cualitativa, sin pruebas cuantitativas de fiabilidad, por lo que se sostiene como contribución de diseño y no como instrumento validado.
+- **Estimación metaanalítica.** [[teacher-ai-literacy-professional-development-meta-2026|Guo et al. (2026)]] agruparon 212 tamaños del efecto de 34 estudios y estiman la formación continua en alfabetización en IA del profesorado en g = 0,76 (IC del 95% [0,50, 1,02]), más fuerte para las habilidades (g = 0,91) y más débil para actitudes y valores (g = 0,61); corregir la aparente selección de publicaciones rebaja la estimación a alrededor de g = 0,49.
+- **La asistencia predice las ganancias allí donde la sensación de participar no lo hace.** En ese mismo programa de seis meses, la tasa de asistencia predijo la ganancia de competencia (β = 0,407, p = ,001) mientras que la participación autopercibida no lo hizo (β = 0,049, p = ,692), y la disciplina, la experiencia docente y la categoría profesional explicaron poco; los autores leen la asistencia como inversión conductual y la participación percibida como implicación superficial ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng y Ling, 2025]]).
+- **Los valores van por detrás de las habilidades también en un programa específico de dominio.** En un programa de un año en Hong Kong con 30 docentes de inglés, el conocimiento de estrategias de evaluación multimodal subió de 3,13 a 4,15 sobre 5 (η² parcial = 0,571) y la competencia de apoyo al estudiantado de 3,05 a 3,98 (0,482), ambos significativos, mientras todos los subdominios de valor se mantuvieron estadísticamente planos bajo un alfa corregido por Bonferroni de 0,006. El profesorado atribuyó las ganancias a la coplanificación en el centro y a las reuniones de clúster entre escuelas, y no solo a los talleres ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
 
 ## La competencia en IA del profesorado y la transformación del rol docente
 
@@ -1615,6 +1635,7 @@ A medida que la IA asume tareas rutinarias de instrucción y evaluación, la con
 - **Apoye la capa institucional:** una competencia docente sostenible requiere política, gobernanza y capacidad alineadas, y no formación aislada.
 
 - **Competencia digital docente para el [[curriculum-design|diseño curricular]] con IA generativa.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] valida un instrumento diagnóstico basado en el modelo TAM con 434 docentes en activo; la intención conductual fue el principal predictor de la competencia digital para usar IA generativa en la planificación curricular, con la autoeficacia como motor de raíz.
+
 ### Un instrumento psicométrico para la competencia en IA del profesorado
 
 - Un estudio psicométrico desarrolló la Escala de Alfabetización en IA del Profesorado (TAILS) para medir la alfabetización en IA específicamente en la [[teacher-education|formación de profesorado de idiomas]], operacionalizando las seis dimensiones del marco ED-AI. El desarrollo del instrumento cubre una carencia de evaluaciones dirigidas a estudiantes o usuarios generales, y apoya la medición de la competencia en IA del profesorado.
@@ -1690,6 +1711,11 @@ El panorama de instrumentos se ha revisado desde entonces. [[assessing-teachers-
 - [[capability-decision-model-teacher-readiness-2026]] — Modelo ordenado de preparación docente centrado primero en la capacidad, con indicadores de capacidad basados en el desempeño
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Encuesta transnacional a 1.405 docentes de K-12: la preparación predice creencias positivas pero no la preocupación
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Cuatro perfiles de creencias docentes de TALIS 2024 vinculan el aprendizaje profesional y barreras específicas de cada perfil al uso de la IA
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Alfabetización en evaluación multimodal: un programa de un año en el que el conocimiento y la competencia se movieron y los valores no
+- [[teacher-ai-literacy-professional-development-meta-2026]] — El impacto de los programas de formación continua en la alfabetización en IA del profesorado de K-12: revisión sistemática y metaanálisis
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Formación continua Intelligent-TPACK para profesorado universitario: ganancias resueltas por dimensión, la asistencia por encima de la implicación autopercibida
+- [[educational-development]] — Desarrollo educativo: formación continua, cambio organizativo y mejora de la enseñanza
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Formación continua Intelligent-TPACK para profesorado universitario: ganancias resueltas por dimensión, la asistencia por encima de la implicación autopercibida
 
 ---
 
@@ -1921,6 +1947,8 @@ Confianza y alfabetización no son objetivos intercambiables: en un SEM de 502 e
 
 **La respuesta del profesorado refleja centros de poder, no actitudes.** En un estudio de caso instrumental con 33 docentes de escritura, cuatro centros de poder policéntricos —la tendencia global a la IA generativa, la universidad/departamento, los colegas y el estudiantado— moldearon la práctica, y el personal adjunto, limitado por un poder discursivo reducido, pasó de la detección a enseñar un uso aceptable ([[zuo-instructor-power-genai-writing-2026|Zuo et al. (2026)]]).
 
+**Mide la asistencia, no la sensación de implicación.** En un programa Intelligent-TPACK de seis meses para 64 docentes universitarios, la tasa de asistencia predijo la ganancia en competencia en IA (β = 0,407, p = ,001) mientras que la participación autopercibida no lo hizo (β = 0,049, p = ,692), lo que los autores interpretan como inversión conductual concreta frente a implicación superficial ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng y Ling, 2025]]). El programa combinó clases en línea con tres talleres presenciales, y luego exigió al profesorado revisar sus diseños instruccionales e implementarlos al semestre siguiente; los autores recomiendan incorporar la asistencia a la evaluación del desempeño junto con incentivos significativos.
+
 ## Conceptos conectados
 
 - [[teacher-ai-competency]]
@@ -1969,6 +1997,7 @@ Confianza y alfabetización no son objetivos intercambiables: en un SEM de 502 e
 - [[physics-faculty-learning-community-ai-2026]] — Una serie de talleres para el uso eficaz de la IA en tiempos inciertos: construir una comunidad de aprendizaje de profesorado de física
 
 - [[faculty-ai-well-being-social-supports-2026]] — El bienestar del profesorado con IA depende de la alfabetización en IA y no de la autoeficacia tecnológica
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Formación continua Intelligent-TPACK: la asistencia predice las ganancias, la participación autopercibida no
 
 ---
 
@@ -2195,6 +2224,7 @@ Las comprobaciones anteriores no son sabiduría popular; proceden de fallos docu
 - [[cognitive-offloading]]
 - [[ai-use-disclosure]]
 - [[theory-development-aied]]
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
 
 ## Artículos conectados
 
@@ -2318,6 +2348,7 @@ El propósito de esta base de conocimiento es ayudar a cerrar esa brecha —faci
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[theory-development-aied]] — El desarrollo de la teoría en la IA en la educación
+
 ## Artículos conectados
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatbots de IA en la educación superior: comparar las expectativas con la evidencia (Thoeni y Fryer 2026)
 
@@ -2342,6 +2373,8 @@ El propósito de esta base de conocimiento es ayudar a cerrar esa brecha —faci
 
 - [[digital-competence-ai-responsive-pedagogy-2026]] — Revisión de alcance de 195 estudios de formación docente donde el diseño de la cadena de búsqueda da forma a las frecuencias informadas
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Encuesta transnacional a docentes de K-12: ítems traducidos automáticamente, medidas de preocupación de un solo ítem, sin pruebas de invariancia
+- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Revisión sistemática de 103 estudios de IA generativa en educación superior: 56% de ganancias condicionales, con las notas enmascarando el cambio de proceso (Hawi y Samaha 2026)
+- [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Revisión sistemática de 103 estudios de IA generativa en educación superior: 56% de ganancias condicionales, con las notas enmascarando el cambio de proceso (Hawi y Samaha 2026)
 
 ---
 
@@ -3319,6 +3352,8 @@ El pensamiento crítico se cruza con el [[scaffolding|andamiaje]] (diseñar apoy
 - **Integración centrada en la verificación en una disciplina.** Una revisión crítica de la [[generative-ai|IA generativa]] en la [[chemistry-education|enseñanza universitaria de la química]] (Vega-Baudrit y Rivera Álvarez, 2026) sostiene que, como el razonamiento químico debe coordinarse entre representaciones macroscópicas, submicroscópicas y simbólicas, el estudiantado no puede verificar lo que no comprende, de modo que los [[prior-knowledge|conocimientos previos]] y el [[scaffolding|andamiaje]] van primero y la verificación debería diseñarse dentro de la [[assessment|evaluación]] como una actividad evaluada: identificar un supuesto falso, corregir un error de unidades o de mecanismo o justificar el rechazo de una respuesta generada, conservando registros de prompts e historiales de revisión como rastros de razonamiento. ([[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit y Rivera Álvarez 2026]])
 - **La verificación como actividad de aprendizaje, no solo como salvaguarda.** [[pearls-epistemic-verification-2026|Wang (2026)]] organiza la evaluación de artefactos de IA en torno a seis dimensiones interdependientes —Proceso, Evidencia, Acceso, Reproducibilidad, Legitimidad y Fuente— y trata el ensamblaje de esa garantía, y no la fluidez de la salida, como lo que construye la pericia disciplinar.
 
+**La mayor vulnerabilidad calificada por personas expertas en la base de conocimiento es el pensamiento crítico.** A lo largo de 65 procesos de aprendizaje valorados por 30 expertos, el Pensamiento Crítico y el Pensamiento Crítico-Analítico obtuvieron la mayor calificación de disrupción del informe (media 4,00 de 5; el 96% de quienes valoraron en 3 o más) con la potenciación por debajo del umbral (2,40, 43%) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Diez de los dieciocho procesos de orden superior alcanzaron consenso únicamente sobre la vulnerabilidad, lo que el informe interpreta como un riesgo unilateral y no como una contrapartida.
+
 ## Conceptos conectados
 
 - [[metacognition]]
@@ -3364,6 +3399,7 @@ El pensamiento crítico se cruza con el [[scaffolding|andamiaje]] (diseñar apoy
 
 - [[genai-dependence-research-creativity-2026]] — La dependencia de la IA generativa se asocia positivamente con el pensamiento crítico en 1.157 estudiantes de posgrado
 - [[genai-use-critical-thinking-moderation-2026]] — El uso de IA generativa y el pensamiento crítico a través de la alfabetización en retroalimentación, con una vía directa solo para el estudiantado menos reflexivo
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 personas expertas: el pensamiento crítico carga con la mayor calificación de disrupción del informe (media 4,00)
 
 ---
 
@@ -3504,6 +3540,7 @@ SAMR se empareja con frecuencia con el [[icap-framework|marco ICAP]] porque ambo
 - **SAMR y TPACK anclan los estándares de integración tecnológica del profesorado.** [[crompton-faculty-technology-integration-standards-2026|Crompton et al. (2026)]] sitúan sus seis estándares de tecnología para el profesorado frente a marcos existentes —[[tpack|TPACK]], RAT, SAMR, SETI— y estándares (ISTE, UNESCO, DigCompEdu), la mayoría de los cuales se dirigen al profesorado de [[k-12|K-12]] o solo a la parte de [[teacher-role|docencia]] del papel del profesorado, dejando una laguna en el desarrollo del profesorado de educación superior.
 - **SAMR es objeto de la crítica poshumanista.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] critica TPACK, SAMR y los modelos de [[ai-literacy|alfabetización en IA]] por compartir una ontología humanista que presupone a quien aprende como un sujeto acotado cuya cognición no cambia fundamentalmente por la mediación tecnológica, y sostiene que estos marcos instrumentalistas no pueden abordar el papel constitutivo de la IA en la cognición.
 - **Un marco para la integración, no un marco para el poder.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] evalúa SAMR junto con TPACK y otros marcos de integración y encuentra que ninguno aborda el poder equitativo, la propiedad de los datos o la rendición de cuentas, lo que motiva un marco alternativo de coagenciación ecológica.
+- **El uso del estudiantado también se proyecta sobre SAMR, y la retroalimentación abarca todos los niveles.** Al codificar las declaraciones de uso de IA generativa de 31–36 estudiantes en una unidad de [[physics-education|física]], el aprendizaje se situó en sustitución–aumento, el formato en sustitución y la realización de tareas en modificación–redefinición, mientras que la retroalimentación —comprobar, aclarar, verificar— aparecía en los cuatro niveles ([[genai-use-changing-institutional-policy-physics-2026|Quince y Faulconer, 2026]]).
 
 ## SAMR, TPACK y la adopción tecnológica: en qué se diferencian
 
@@ -3544,6 +3581,7 @@ SAMR se entiende mejor como una lente de profundidad de integración usada en la
 - [[crompton-faculty-technology-integration-standards-2026]] — SAMR entre los marcos que informan los estándares de tecnología del profesorado
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — La crítica poshumanista a la ontología humanista de SAMR
 - [[reclaiming-epistemic-agency-co-agency-2026]] — El silencio de SAMR sobre el poder, la propiedad de los datos y la rendición de cuentas
+- [[genai-use-changing-institutional-policy-physics-2026]] — Nivel de política frente a diseño de tarea: para qué usó el estudiantado la IA generativa en tres evaluaciones de física (Quince y Faulconer 2026)
 
 ---
 
@@ -3599,6 +3637,7 @@ Una advertencia de medición complementaria procede del Modelo de Capacidad–De
 
 **El AI-TPACK como mediador entre la alfabetización y la integración en el aula.** Un modelo de ecuaciones estructurales con futuros docentes chinos de ciencias ([[ai-literacy-ai-integrated-inquiry-science-teaching-2026|Zou, Li, Wang y Du, 2026]]) sitúa el AI-TPACK no como una competencia paralela, sino como el mecanismo de transmisión por el que la [[ai-literacy|alfabetización en IA]] general se convierte en práctica docente. La alfabetización en IA predijo con fuerza el AI-TPACK, el AI-TPACK predijo a su vez la [[self-efficacy|autoeficacia]] en la [[science-education|enseñanza de las ciencias]], y la autoeficacia docente fue el predictor único más fuerte de la intención de enseñar mediante [[inquiry-based-learning|indagación]] integrada con IA. La cadena serial completa (alfabetización en IA → AI-TPACK → autoeficacia → intención) fue significativa, como también lo fueron las rutas indirectas separadas a través del AI-TPACK y de la autoeficacia; en conjunto, la mayor parte de la asociación de la alfabetización en IA con la intención pasaba por estos mediadores y no de forma directa, y el resultado se mantuvo tras controlar el género, el año de estudio, la especialidad y la frecuencia de uso de IA. La afirmación práctica del modelo es una secuencia con un punto de entrada: la alfabetización en IA es necesaria pero insuficiente, y el trabajo de integración ocurre allí donde se combinan el conocimiento tecnológico, pedagógico y de contenido, que es también donde se construye la confianza del profesorado para enseñar la materia.
 - **La validación como cuarta competencia.** [[human-ai-collaboration-design-education-rubric-2026|Orhon, Cekerol y Ugur (2026)]] amplían el modelo con el **Conocimiento de Validación de IA** —someter la salida probabilística de la IA a una verificación específica de la disciplina antes de tratarla como evidencia de una decisión legítima— y lo acompañan de una rúbrica orientada a procesos para la educación en diseño.
+- **La ética como mediadora integradora, no como frontera.** En una encuesta a 454 docentes universitarios, el conocimiento tecnológico sobre IA aislado tenía una asociación directa *negativa* con el AI-TPACK integrado (β = −0,303) mientras su efecto total seguía siendo positivo (β = 0,639), canalizado a través del conocimiento pedagógico, de contenido y ético ([[ethically-mediated-ai-tpack-china-2026|Chen et al. (2026)]]). El conocimiento ético canalizó además el efecto hacia delante, prediciendo tanto el conocimiento pedagógico (β = 0,353) como el de contenido (β = 0,269).
 
 ## Por qué importa en la educación con IA
 
@@ -3653,6 +3692,10 @@ El TPACK es el marco organizador del lado docente de la base de evidencia de est
 - [[human-ai-collaboration-design-education-rubric-2026]] — Evaluar la colaboración entre personas e IA en la educación en diseño: una rúbrica orientada a procesos basada en un marco AI-TPACK ampliado
 - [[capability-decision-model-teacher-readiness-2026]] — Modelo ordenado de preparación docente centrado en la capacidad y su advertencia sobre el solapamiento de constructos
 - [[digital-competence-ai-responsive-pedagogy-2026]] — Advertencia de una revisión de alcance: la dominancia de los marcos de competencia refleja en parte los descriptores de búsqueda, no la prevalencia en el campo
+- [[ethically-mediated-ai-tpack-china-2026]] — Hacia un nuevo marco AI-TPACK: la ética como mediadora integradora del conocimiento técnico sobre IA (Chen et al. 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Formación continua Intelligent-TPACK para profesorado universitario: ganancias resueltas por dimensión, la asistencia por encima de la implicación autopercibida
+- [[self-report-measures]] — Medidas autoinformadas: la confianza declarada y la conducta observada pueden divergir
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Formación continua Intelligent-TPACK para profesorado universitario: ganancias resueltas por dimensión, la asistencia por encima de la implicación autopercibida
 
 ---
 
@@ -4193,6 +4236,7 @@ El aprendizaje colaborativo ocupa la cima del [[icap-framework|marco ICAP]] (int
 - **Dar cabida al estudiantado neurodivergente.** Las tareas estructuradas, los equipos pequeños y estables y las definiciones explícitas de roles son requisitos que las herramientas de colaboración con IA deben sostener.
 - **Preferir retroalimentación no evaluativa y de nivel de aula.** Al apoyar la dimensión relacional de la colaboración, la retroalimentación agregada de nivel de clase protege la [[privacy|privacidad]] y la [[agency|agencia del estudiantado]] allí donde la puntuación individual se sentiría como vigilancia; el estudiantado de [[breideband-community-builder-cobi-2026|CoBi]] prefirió [[qualitative-research|visualizaciones cualitativas]] (un árbol orgánico) a las [[quantitative-research|cuantitativas]] (un gráfico de radar), y el profesorado valoró más usar las observaciones del sistema para suscitar reflexión que la visualización en directo.
 - **Diseñar para la lectura y la atención que preceden a la contribución.** El aprendizaje colaborativo en los foros de [[online-teaching-and-learning|enseñanza y aprendizaje en línea]] depende no solo de publicar, sino de la lectura que lo precede. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao y Cukurova (2026)]] muestran que los resúmenes de discusión y las publicaciones de ejemplo generados por LLM pueden actuar como [[scaffolding|andamiajes]] de navegación que amplían la exposición del estudiantado a las contribuciones de sus pares y las condiciones de red para el capital social de puente (vínculos débiles), un apoyo que debería complementar, y no sustituir, las estrategias sociopedagógicas para sostener el compromiso bajo la carga de trabajo académica.
+- **La cara social muestra disrupción sin una ganancia que la compense.** En cinco procesos de colaboración, un consenso de 30 personas expertas alcanzó únicamente la vulnerabilidad, con valoraciones de potenciación por debajo del umbral: Conexión Social (3,80 frente a una potenciación de 1,90), Desarrollo Socioemocional (3,60 frente a 2,00), Aprendizaje Social, Aprendizaje Colaborativo y Sentido de Pertenencia (todos 3,30) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). El informe trata la asimetría como un objetivo de diseño, ya que la resolución colaborativa de problemas está anclada a un producto compartido mientras que el aprendizaje colaborativo no tiene referente visible y puede erosionarse sin detectarse.
 
 ## Conceptos conectados
 - [[pedagogical-patterns]] — Colaboración con IA compartida y guionizada y sus diseños de roles probados
@@ -4247,6 +4291,7 @@ El aprendizaje colaborativo ocupa la cima del [[icap-framework|marco ICAP]] (int
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Diseño del aprendizaje impulsado por resúmenes generados por IA en foros de discusión en línea
 - [[chen-zou-genai-group-assessment-agency-2026]] — La IA generativa como infraestructura de coordinación en grupos estudiantiles: uso intensificado, contenido y no puesto en práctica
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Agentes de formación ética: facilitar la educación ética grupal con juego de roles y discusión para la reflexión y la exploración éticas
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 personas expertas encuentra un riesgo social unilateral: procesos de colaboración vulnerables sin vía de potenciación
 
 ---
 
@@ -4557,6 +4602,8 @@ La estructura del ABI, impulsada por preguntas y centrada en el proceso, es el h
 
 El [[productive-failure|fracaso productivo (FP)]] es el pariente más estructurado del aprendizaje basado en la indagación: quienes aprenden exploran problemas y generan soluciones *antes* de la instrucción directa, y después consolidan. Ambos comparten la premisa de que los intentos generados por quien aprende (incluso los fallidos) [[prior-knowledge|activan el conocimiento previo]] y lo preparan para aprender de la instrucción. La [[research-methods-aied|investigación]] sobre FP en la era de la IA afina cómo debería la IA andamiar la indagación sin cortocircuitarla: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derivan principios de diseño de IA para preservar el esfuerzo a través de la exploración del problema y la generación de soluciones; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] muestran que los tutores basados en LLM pueden dirigirse para retener respuestas y provocar múltiples intentos; las tareas de [[lukesova-clue-before-correction-2026|pista antes de la corrección]] ejemplifican un andamiaje basado en pistas (frente al directo) que mantiene al estudiantado haciendo el razonamiento. Esto conecta la indagación y el FP con el imperativo más amplio de que la IA no debe eliminar el [[desirable-difficulties|esfuerzo productivo]] mediante el cual se forma un aprendizaje duradero.
 
+En entornos de campo al aire libre el mismo imperativo se vuelve espacial: la IA generativa puede preestructurar lo que quienes aprenden advierten antes de que se encuentren con la evidencia, así que una secuencia que pone el campo primero y retiene la explicación generada hasta que se registran las observaciones e interpretaciones iniciales protege la indagación ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
 ## Conceptos conectados
 
 - [[problem-based-learning]]
@@ -4574,6 +4621,7 @@ El [[productive-failure|fracaso productivo (FP)]] es el pariente más estructura
 - [[higher-ed]]
 - [[k-12]]
 - [[productive-failure]] — Fracaso productivo
+
 ## Artículos conectados
 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT para el aprendizaje basado en la indagación en STEAM (revisión sistemática)
@@ -4588,6 +4636,7 @@ El [[productive-failure|fracaso productivo (FP)]] es el pariente más estructura
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Indagación guiada con apoyo de IA en fotosíntesis y respiración (formación del profesorado de ciencias)
 - [[ai-information-extraction-undergraduate-thesis-2026]] — Extracción de información impulsada por IA para apoyar la tesis de grado y el aprendizaje basado en la investigación (An et al. 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — Indagación asistida por IA en cuestiones sociocientíficas sobre el cambio climático
+- [[geoscience-field-learning-genai-2026]] — Un modelo instruccional que pone el campo primero e impide que la IA generativa preestructure lo que quienes aprenden advierten (Choi 2026)
 
 ---
 
@@ -4879,7 +4928,7 @@ La [[research-methods-aied|investigación]] anterior converge en unos pocos patr
 
 La forma del andamiaje tiene que ajustarse a lo que quien aprende ya puede sostener, y no solo a lo que exige la tarea. En una [[meta-analysis-systematic-review|revisión sistemática de alcance]] de 24 fuentes de evidencia sobre el [[creativity|pensamiento creativo]] en niños de 6 a 15 años, [[niu-genai-children-creative-thinking-cognitive-development-review-2026|Niu et al. (2026)]] informan de que los niños más pequeños carecían del control lingüístico y metacognitivo preciso que exigen las indicaciones basadas en texto y necesitaban interfaces multimodales facilitadas por personas adultas, mientras que los [[llm|LLM]] basados en texto mostraban resultados declarados más sólidos con niños mayores y adolescentes jóvenes. La dependencia de las indicaciones era más fuerte en los cursos inferiores, y ningún estudio incluido examinó umbrales de preparación evolutiva, así que los autores tratan las decisiones de modalidad y de andamiaje como una cuestión de diseño abierta que debe resolver la capacidad de quien aprende y no la comodidad.
 
-### Conexiones
+- **Entrenar a quien aprende es en sí mismo un andamiaje.** Una sesión de 45 minutos que enseñaba al estudiantado a formular indicaciones a un modelo según la fase de [[self-regulated-learning|AAR]], y a remediar sus errores visuales y de razonamiento, elevó la precisión de revisión en [[physics-education|física]] (d = 0,81) sin aumentar la carga cognitiva total declarada ([[structured-genai-training-physics-problem-solving-rct-2026|Huang et al. (2026)]]).### Conexiones
 
 El andamiaje se conecta con la [[cognitive-offloading|dependencia excesiva]] (el andamiaje que no se retira crea dependencia), con la Teoría de la Carga Cognitiva (el andamiaje gestiona la carga cognitiva), con el [[feedback|bucle de retroalimentación]] (el andamiaje proporciona retroalimentación [[formative-assessment|formativa]]) y con la [[ai-literacy]] (quien aprende debe reconocer cuándo el andamiaje es beneficioso y cuándo desplaza el aprendizaje).
 
@@ -4925,6 +4974,7 @@ La distinción entre guiado por reglas y ad hoc va más allá del tutor y llega 
 - [[pedagogy]] — Marco general: pedagogías y estrategias de enseñanza en la educación con IA
 - [[agentic-ai]]
 - [[productive-failure]] — Fallo productivo
+
 ## Artículos conectados
 - [[kumar-genai-computing-education-systematic-review-2026]] — La retirada del andamiaje como mecanismo que hace cumplir la verificación (marco VIE)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
@@ -4957,6 +5007,7 @@ La distinción entre guiado por reglas y ad hoc va más allá del tutor y llega 
 - [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Los andamiajes deben exigir traducción representacional y verificación, ya que el estudiantado no puede verificar lo que no entiende (Vega-Baudrit y Rivera Álvarez 2026)
 - [[genai-cognitive-scaffold-geometric-reasoning-2026]] — La IA generativa como andamiaje de indicación que tiende un puente de la intuición visual a la demostración deductiva en geometría, donde la visualización por sí sola no basta (Davor 2026)
 - [[guided-ai-tutor-impasse-resolution-2026]] — Analizar la variación en cómo los tutores de IA guiados resuelven los bloqueos del estudiantado
+- [[structured-genai-training-physics-problem-solving-rct-2026]] — Entrenar a quien aprende como andamiaje para el uso de IA generativa en la resolución de problemas de STEM (Huang et al. 2026)
 
 ---
 
@@ -6438,6 +6489,8 @@ Clasifique antes de delegar: [[scan-framework-task-assignment-generative-ai-2025
 
 - **La satisfacción no es autorregulación.** [[aigc-affordance-student-self-regulation-2026|Liang et al. (2026)]] encuestaron a 689 estudiantes de grado en programas de integración industria-educación y probaron un modelo de mediación serial en el que las posibilidades percibidas del contenido generado por IA elevan la [[self-efficacy|autoeficacia]] frente al AIGC (beta = 0,583) y, a través de ella, la [[motivation|motivación]] para aprender (beta = 0,565) y el aprendizaje autorregulado (beta = 0,250), con la motivación como el predictor individual más fuerte del AAR (beta = 0,527). Los resultados negativos que sostienen el argumento conviven con esas rutas: la calidad de la retroalimentación de la evaluación con IA predijo fuertemente la satisfacción (beta = 0,712), pero no la autoeficacia (beta = 0,131), y la satisfacción no tuvo un efecto significativo en el aprendizaje autorregulado (beta = 0,032). Un asistente apreciado y que funciona bien no es, por tanto, evidencia de que la regulación haya mejorado: el mecanismo pasa por la confianza y la motivación, no por la experiencia que quien aprende tiene de la herramienta.
 
+La gobernanza de la herramienta es en sí misma una faceta medible: una validación de dos olas con estudiantes chinos de inglés como lengua extranjera (EFA N = 305; CFA N = 342) separa seis dimensiones regulatorias y nombra la *regulación ambiental* —comprobar la exactitud de la salida generada, filtrar los recursos sugeridos y fijar límites a la dependencia— como una dimensión en sí misma ([[genai-srl-l2-writing-scale-2026|Wang, Zhang y Zhang (2026)]]).
+
 ### La reflexión consciente de la IA generativa como AAR
 
 [[5p-reflection-model-genai-2026|El modelo de reflexión 5P (Kadel et al. 2026)]] vuelve a poner la reflexión estructurada en el centro en la era de la IA generativa como una práctica de AAR puesta en acto. Como quien aprende coconstruye cada vez más significado con la IA, los modelos de reflexión tradicionales tienen dificultades para autenticar la reflexión del estudiantado, así que el modelo 5P (Purpose, Process, Product, Pitfalls, Plan) fusiona la fijación de metas impulsada por la previsión, la reflexión en la acción (documentar las indicaciones y las iteraciones), la reflexión sobre la acción (validar la salida probabilística contra fuentes externas), una etapa explícita de riesgos para la [[hallucination-risk|alucinación]], el [[academic-integrity|plagio]] y la [[cognitive-offloading|dependencia excesiva]], y un plan prospectivo, e integra la monitorización emocional en todo el proceso. Su filosofía de «el proceso por encima del producto» trata la documentación estructurada de la [[human-ai-collaboration|interacción entre personas y IA]] como la exigencia regulatoria que preserva la autenticidad, la [[agency|agencia]] y la profundidad [[metacognition|metacognitiva]], y sitúa la reflexión consciente de la IA generativa como un andamiaje de la autorregulación y no como un sustituto de ella.
@@ -6541,6 +6594,9 @@ Qué apoyo está en juego decide qué mediador carga la asociación: entre 3.003
 - [[genai-literacy-srl-special-education-2026]] — La alfabetización en IA generativa se relacionó con las conductas de aprendizaje autorregulado principalmente a través de la agencia de aprendizaje
 - [[preservice-teachers-ai-support-innovative-competence-2026]] — El tipo de apoyo invierte el mediador: autoeficacia en IA frente a aprendizaje autorregulado
 - [[genai-learning-procrastination-planned-behavior-2026]] — La procrastinación del aprendizaje asistido por IA generativa: una brecha intención-conducta que la ansiedad refuerza
+- [[rented-self-decoupling-performance-becoming-2026]] — El yo alquilado: el alquiler proyectado sobre los modelos de autorregulación de Winne, con diez proposiciones e índices intrasujeto
+- [[genai-srl-l2-writing-scale-2026]] — Una escala validada de autorregulación de la IA generativa en seis dimensiones para la escritura en L2, con la regulación ambiental como dimensión propia y una forma corta de 12 ítems optimizada por colonias de hormigas
+- [[rented-self-decoupling-performance-becoming-2026]] — El yo alquilado: el alquiler proyectado sobre los modelos de autorregulación de Winne, con diez proposiciones e índices intrasujeto
 
 ---
 
@@ -6774,6 +6830,7 @@ La autoeficacia conecta con la [[motivation|motivación]], el [[self-regulated-l
 - **Sin efecto de tratamiento en un ECA de un semestre: la confianza subió con el tiempo de curso:** en el experimento de campo aleatorizado de [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni y Fryer (2026)]] con 454 estudiantes de grado en un curso de Principios de Marketing, la autoeficacia subió a lo largo del semestre para todo el estudiantado (efecto del tiempo β = 0,099, p = 0,0009, ƒ2 de Cohen = 0,025), mientras que ni el efecto de grupo (p = 0,1162) ni la interacción grupo × tiempo (p = 0,5306, d = 0,023) fueron significativos, así que el chatbot con RAG no aportó nada. Las ganancias de confianza en cursos apoyados por IA pueden seguir la progresión del curso y no la herramienta, un riesgo de atribución para un constructo que el campo mide casi por completo mediante [[self-report-measures|autoinformes]].
 - **La confianza puede moverse al contrario que la conducta.** En programación competitiva, el estudiantado que dejó de competir declaró una confianza teórica *mayor* que sus pares activos pero mostró hábitos de resolución posterior y de círculos de pares significativamente más débiles (p < .001), así que una señal de autoeficacia por sí sola llevará a engaño a un sistema de alerta temprana ([[predicting-attrition-competitive-programming|Ruhan et al. (2026)]]).
 - **La confianza puede subir mientras la capacidad que hay detrás decae.** Entre estudiantes universitarios, el uso frecuente de IA generativa elevó la confianza y la eficiencia percibidas *y* aumentó la dependencia tecnológica en los mismos estudiantes, así que una puntuación de autoeficacia tomada durante el trabajo asistido por IA puede leerse alta justo cuando la habilidad subyacente se está erosionando ([[genai-performance-vs-learning|Yan et al., 2025]]).
+- **El uso de la IA fue de la mano de la confianza, pero la confianza no predijo la asistencia.** En una encuesta PLS-SEM con 291 estudiantes portugueses, el uso general de la IA se asoció positivamente con la autoeficacia para el aprendizaje independiente (β = 0,266, f² = 0,106). El constructo se modeló como compuesto formativo de segundo orden de las cuatro fuentes de Bandura —experiencia de dominio, experiencia vicaria, persuasión verbal y estado emocional—. La autoeficacia a su vez no predijo el absentismo (β = −0,068, p = 0,276), aunque el uso de la IA se asociara por separado con mayor absentismo (β = 0,148, f² = 0,029). La vía uso de la IA → autoeficacia fue significativamente más fuerte entre los hombres que entre las mujeres (β = 0,449 frente a 0,159; Δβ = −0,289, p = 0,013), bajo invarianza de medición parcial ([[confident-but-absent-ai-use-absenteeism-2026|Franco et al. (2026)]]).
 
 ## Conceptos conectados
 
@@ -6811,6 +6868,7 @@ La autoeficacia conecta con la [[motivation|motivación]], el [[self-regulated-l
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — La autoeficacia al hablar invierte la vía de la ansiedad entre la práctica asistida por IA y la disposición
 - [[faculty-ai-well-being-social-supports-2026]] — SEM en profesorado universitario: la autoeficacia tecnológica es un predictor débil del bienestar con IA
+- [[confident-but-absent-ai-use-absenteeism-2026]] — El uso general de la IA fue de la mano de mayor autoeficacia y mayor absentismo, pero la autoeficacia no predijo la asistencia (Franco et al. 2026)
 
 ---
 
@@ -7877,6 +7935,7 @@ Ese [[scaffolding|andamiaje]] tiene una contraparte institucional con una doble 
 - **El acceso a una herramienta de IA puede *reducir* la implicación medida, y las tasas de finalización no lo mostrarán.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] aleatorizaron el acceso a un tutor en 13 bloques de una gran universidad pública estadounidense y encontraron que la participación registrada en la plataforma cayó 0,90 SD, las vistas de página entre 0,37 y 0,38 SD y los días activos entre 0,51 y 0,61 SD, mientras que la entrega de deberes y la entrega puntual no se vieron afectadas. La disociación es la lección de medición: un curso que solo monitorizara la finalización de tareas no habría visto nada, porque la reducción se situó en la actividad de debate, cuestionarios e interacción con el profesorado que la plataforma registraba. El estudiantado de las secciones tratadas también declaró hacer al profesorado menos preguntas de contenido (alrededor del 57% frente al 44%), de modo que el descenso coincidió con una sustitución del contacto humano y no con una desconexión del curso.
 
 - **La latencia de respuesta es una palanca de implicación.** En 1.137 sesiones de tutoría cuantitativa con IA, las respuestas más rápidas se asociaron con más mensajes del estudiantado y más práctica correcta (tiempo de respuesta mediano de 1,9 s a 31,0 s entre modelos; una latencia menor correlacionada con la implicación con Spearman ρ=-0,81, p=.0056), una cadena que los autores interpretan como la explicación de cómo modelos que no destacan en calidad docente siguen alcanzando ganancias de nivel humano ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
+- **El uso de la IA puede ir acompañado de mayor absentismo en clase, y la confianza no lo predice.** Una encuesta PLS-SEM con 291 estudiantes universitarios portugueses encontró que el uso general de la IA se asociaba positivamente con el absentismo (β = 0,148, f² = 0,029) y con la autoeficacia para el aprendizaje independiente, pero la autoeficacia en sí misma no predijo el absentismo (β = −0,068, p = 0,276): el patrón de «confiado pero ausente» del artículo. La asociación con la asistencia fue modesta y secundaria frente a la influencia de los pares (β = 0,510, f² = 0,326) y la gestión del tiempo (β = −0,163), y, como el constructo de uso de la IA era unidimensional y mezclaba ítems orientados al apoyo con ítems orientados a la sustitución, el estudio no puede separar el uso complementario del sustitutivo ni establecer la dirección ([[confident-but-absent-ai-use-absenteeism-2026|Franco et al. (2026)]]).
 
 ### Medir la implicación: el problema de la elección de la métrica
 
@@ -7917,6 +7976,7 @@ La implicación del estudiantado se conecta con la [[motivation|motivación]] y 
 - **La disociación puede ir en la dirección contraria (2026):** en un curso vocacional de diseño de interiores de 12 semanas, un estudio inmersivo de RV con un asistente docente LLM integrado elevó la implicación cognitiva (d = 0,90) y conductual (d = 0,75) frente a la instrucción tradicional [[project-based-learning|basada en proyectos]], mientras que la implicación afectiva no difirió de forma significativa (d = 0,38), justo lo inverso del caso de escritura en L2 anterior ([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). Las ganancias cognitivas y conductuales vinieron aquí acompañadas de una carga cognitiva declarada *menor*, que los autores atribuyen a que el asistente absorbió el esfuerzo de búsqueda e integración interdisciplinar. Leídos junto al caso de escritura, los dos estudios sugieren que qué dimensión de la implicación mueve una intervención apoyada en IA es una propiedad del diseño ([[collaborative-learning|colaboración]] inmersiva con mucho discurso frente a apoyo individual a la escritura) y no de la asistencia con IA en general, y que no puede darse por supuesta una ventaja afectiva a partir de una retroalimentación de alta fidelidad o inteligente.
 
 - **La alfabetización en IA actúa sobre la implicación a través de recursos psicológicos (2026):** un estudio de mediación moderada con 1.198 estudiantes de grado en Zhengzhou (China) ([[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]) modeló la implicación como resultado de la [[ai-literacy|alfabetización en IA]] y no como un subproducto del uso de la herramienta. La alfabetización en IA predijo la implicación en el aprendizaje directamente y también indirectamente al construir capital psicológico, con la vía indirecta aportando aproximadamente la mitad del efecto total: mediación parcial, de modo que una competencia tecnológica se convierte en implicación solo en parte a través de los recursos psicológicos que genera. El compromiso profesional, una variable basada en la identidad, moderó el vínculo entre capital psicológico e implicación sin tener ningún efecto directo propio, y la traducción del capital psicológico en implicación fue marcadamente más fuerte en el estudiantado que se veía encaminado a la profesión. El patrón es el caso disponible más claro del punto anterior de que las características de quien aprende condicionan cómo la IA afecta a la implicación.
+- **La práctica previa a clase con IA puede elevar la participación en directo (2026):** un experimento de campo preregistrado con 759 estudiantes de MBA encontró que prepararse con un compañero de discusión basado en la voz con IA elevó las contribuciones voluntarias alrededor de un 31% en sesiones posteriores, pero solo tras un segundo uso; un primer uso precedió a una participación menor ([[assigned-ai-preclass-student-engagement-2026|Wang et al., 2026]]).
 
 ## Conceptos conectados
 
@@ -7974,6 +8034,8 @@ La implicación del estudiantado se conecta con la [[motivation|motivación]] y 
 - [[ai-literacy-learning-engagement-psych-capital-2026]] — La alfabetización en IA impulsa la implicación directamente y a través del capital psicológico, amplificado por el compromiso profesional (Wang 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — El acceso a un tutor de IA redujo la participación registrada en la plataforma en 0,90 SD mientras la entrega de deberes se mantenía (Liu et al. 2026)
+- [[assigned-ai-preclass-student-engagement-2026]] — La práctica previa a clase con un compañero de IA basado en la voz elevó las contribuciones voluntarias en clase ~31%, pero solo tras un segundo uso (Wang et al. 2026)
+- [[confident-but-absent-ai-use-absenteeism-2026]] — El uso de la IA fue de la mano del absentismo en clase mientras la autoeficacia no lo predijo, con la influencia de los pares como principal correlato (Franco et al. 2026)
 
 ---
 
@@ -8793,6 +8855,8 @@ El [[well-being|bienestar]] es el estado positivo amplio (salud emocional, psico
 - [[ai-attitude-latent-profiles-career-development-2026]] — Un perfil alto a la vez en ansiedad ante la IA y en calidad percibida de la IA, no en una u otra
 - [[ai-speaking-practice-communicative-readiness-2026]] — El vínculo de la ansiedad al hablar con la disposición a comunicarse se invierte con una alta autoeficacia oral
 - [[perceived-ai-intelligence-medical-students-mental-health-2026]] — La inteligencia percibida del asistente de IA reduce la ansiedad académica a través del progreso hacia las metas de estudio (estudiantes de medicina)
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — La competencia eleva la conciencia ética, la conciencia ética eleva la ansiedad ante la IA: mediación solo indirecta entre 584 estudiantes
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — La competencia eleva la conciencia ética, la conciencia ética eleva la ansiedad ante la IA: mediación solo indirecta entre 584 estudiantes
 
 ---
 
@@ -9116,6 +9180,8 @@ Dos estudios más explican por qué la vigilancia es una mala herramienta para f
 
 [[teichmann-detecting-undetectable-misconduct-2026|El argumento de la justicia procesal]] extrae la conclusión: como el uso de IA experto o ligeramente editado es indetectable en el caso general, un procedimiento de mala conducta construido sobre la detección produce injusticia sin eficacia, y la respuesta es una mejor [[assessment|evaluación]], no una mejor vigilancia.
 
+El coste de esa sustitución aparece en el lugar donde profesorado y estudiantado hablan de verdad. Entre 253.222 registros relacionados con la IA en 26 subreddits educativas, un tercio de todos los hilos entre profesorado y estudiantado eran disputas de detección o de aplicación, el estudiantado abrió el 68,4% de ellos, y la negatividad predijo la implicación (ρ = −0,72): el conflicto adversarial, y no la deliberación, es la forma de contacto entre roles de mayor volumen sobre la [[generative-ai|IA generativa]] ([[reddit-genai-education-discourse-analysis-2026|Yüce et al., 2026]]).
+
 ## Qué significa esto para la práctica
 
 - **Hacer visible el uso en lugar de inferirlo.** El estudiantado no puede juzgarse con precisión unos a otros, y la colaboración repetida no lo arregla. Registros compartidos y ligeros del trabajo asistido por IA, anotaciones o historiales de prompts dan al grupo algo factual sobre lo que razonar.
@@ -9156,6 +9222,7 @@ Dos estudios más explican por qué la vigilancia es una mala herramienta para f
 - [[teichmann-detecting-undetectable-misconduct-2026]] — Detectar lo indetectable: los procedimientos de mala conducta después de la IA generativa
 - [[sobo-cheating-competing-ai-marketing-literacy-2025]] — ¿Hacer trampas o competir? La IA en la educación en marketing
 - [[chen-zou-genai-group-assessment-agency-2026]] — La agencia en la evaluación en grupo asistida por IA generativa
+- [[reddit-genai-education-discourse-analysis-2026]] — Tres años y medio de Reddit educativo: la aplicación domina, y las disputas de integridad son el principal ámbito de encuentro entre profesorado y estudiantado (Yüce et al. 2026)
 
 ---
 
@@ -9748,6 +9815,7 @@ Los LLM también afirman de forma preferente: en 11 modelos, las respuestas de l
 - **Integración en el pipeline de entrenamiento:** [[llm-training-and-fine-tuning|El entrenamiento pedagógico de LLM]] usa RAG para fundamentar el entrenamiento de tutores en las mejores prácticas educativas.
 - **Apoyo académico específico de cada curso:** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] recupera de los materiales didácticos aprobados de un único módulo de programación para atender a estudiantes que dudan en acudir a un docente, y el 89% de los 15 estudiantes evaluadores calificó sus respuestas como muy alineadas con los materiales del curso; el punto de diseño es que la fundamentación es una respuesta institucional al desajuste entre los [[llm|LLM]] de propósito general y las expectativas a nivel de módulo.
 - **Estructura en el momento de la ingesta frente a recuperación en el momento de la consulta:** [[wiki-llm-indexing-ml-classes-2026|Wright (2026)]] compiló el mismo corpus del curso de aprendizaje automático DS3001 en siete páginas wiki de conceptos interconectadas con citas de fuentes, y lo contrastó con una línea base de RAG vectorial ajustada, basada en recuperación por fragmentos con embeddings. Sobre 59 preguntas escritas por personas, el wiki compilado respondió mejor que el índice ajustado (9,95 frente a 9,05 de 10, con un intervalo de confianza bootstrap de la diferencia que excluye el cero) y estuvo más a menudo fundamentado en el material que quien respondía realmente veía (98% frente a 81%), con ambas brechas casi triplicándose en las preguntas que necesitaban material de más de una página (puntuaciones entre páginas de 9,93 frente a 8,14, donde la tasa de fundamentación de RAG cayó del 87% al 64%). La brecha de fundamentación no fue un fallo de recuperación: solo 2 de las 11 respuestas no fundamentadas del RAG vectorial fueron fallos de recuperación, mientras que las otras 9 tenían los extractos relevantes en contexto y aun así añadieron detalle no respaldado —evidencia de que la estructura en la ingesta restringe la elaboración, no solo el acceso.
+- **Despliegue local para el control institucional:** CourseChat ejecuta un tutor RAG multidcurso para la educación empresarial de grado ([[business-education|negocios]]) en servidores edge locales, con una base de datos vectorial local y un modelo de 8B servido por Ollama, manteniendo los materiales del curso y el diálogo del estudiantado en la infraestructura del campus; la elección del modelo se convirtió en una decisión conjunta de hardware y servicio cuando los candidatos mayores no superaron un umbral de latencia ([[on-premises-rag-tutoring-business-education-2026|CourseChat]]).
 
 ### RAG frente al ajuste fino
 
@@ -9779,6 +9847,7 @@ RAG cumple un papel complementario al ajuste fino de [[llm|LLM]]: la recuperaci�
 - [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Generación Aumentada por Recuperación para la educación en ciencias de la computación teóricas -- Un marco integral de evaluación para el análisis de algoritmos y la teoría de la complejidad
 - [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducir las barreras al apoyo académico: evaluación de un sistema RAG específico de curso para abordar las disparidades en la búsqueda de ayuda en la educación superior
 - [[wiki-llm-indexing-ml-classes-2026]] — Potencial para mejorar el aprendizaje en cursos de aprendizaje automático mediante la indexación con wiki y LLM
+- [[on-premises-rag-tutoring-business-education-2026]] — Tutoría RAG multidcurso en local para la educación empresarial
 
 ---
 
@@ -11296,6 +11365,7 @@ El seguimiento del conocimiento está estrechamente relacionado con el [[student
 **Otra advertencia más se refiere a la regla de evidencia que alimenta la actualización.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] aplicó cuatro reglas de actualización sobre secuencias de eventos idénticas de ASSISTments 2012–13, que solo diferían en cómo puntuaban las filas completadas con ayuda, sobre una mitad confirmatoria de 12.716 estudiantes y 985.813 eventos puntuados. Leer una fila con pista o reintento como un primer intento fallido predijo mejor el desempeño posterior sin ayuda (AUC agrupado 0,658); acreditar cualquier finalización lo predijo peor (0,604), apenas por encima de una constante que solo conoce la dificultad de la habilidad (0,595). La misma elección gobierna el recuento de dominio: acreditar las finalizaciones declaró dominados el 93,9% de 113.428 pares estudiante–habilidad, frente al 72,8% con la regla estricta, y los pares que la regla indulgente declaró por delante de la estricta alcanzaron después un 70,9% de precisión sin ayuda, frente al 85,7% donde ambas coincidían, por debajo de la tasa base de 0,744. Un estado trazado es, por tanto, en parte función de la convención de puntuación y no solo de quien aprende, de modo que una estimación de dominio consumida por una compuerta [[adaptive-learning|adaptativa]] debería llevar consigo la regla que la produjo.
 
 **Una advertencia de capacidad: los modelos de lenguaje generales siguen el conocimiento apenas por encima de una línea de base trivial.** [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et al. (2026)]] publicaron FoundationalASSIST, que restaura el texto completo de las preguntas, las respuestas que el estudiantado dio realmente y sus opciones de distractor que los conjuntos de datos de seguimiento anteriores descartaban, y probaron cuatro [[llm|LLM]] de frontera como trazadores de cero disparos. El mejor, GPT-OSS-120B, alcanzó 56,2 por ciento frente al 51,3 por ciento que ya consigue una regla de predecir siempre correcto (AUC-ROC 0,559), sin mejora con historiales más largos, y Llama-3.3-70B acertó el 85,4 por ciento de las veces que un estudiante respondió correctamente, pero solo el 12,6 por ciento cuando se equivocó, evidencia de que un modelo listo para usar sigue el optimismo y no la comprensión, así que la habilidad aparente de un trazador debe leerse frente a la línea de base trivial que su tarea permite.
+- **Un LLM de una sola pasada puede rastrear el conocimiento antes de registrar a nadie.** Consultado como una única pregunta escrita, sin datos de la plataforma objetivo, Jev alcanzó un AUC medio de 0,706, por encima del mejor de 28 modelos profundos de rastreo entrenados con 8 estudiantes (0,689), y se mantuvo por delante hasta que el rastreo supervisado lo alcance con 64-128 estudiantes ([[system-one-llm-knowledge-tracing-2026|Lee y Park, 2026]]).
 
 ## Conceptos conectados
 
@@ -11316,6 +11386,7 @@ El seguimiento del conocimiento está estrechamente relacionado con el [[student
 - [[simulating-students]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — estimación de dominio de grano fino que alimenta las decisiones de apoyo
+
 ## Artículos conectados
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Sobregeneralización engañosa: el dominio adaptativo puede detener la práctica antes de que quien aprende sepa cuándo abstenerse de una acción (An, McLaren y Stamper 2026)
 - [[huang-interpretable-knowledge-tracing-2026]]
@@ -11329,6 +11400,7 @@ El seguimiento del conocimiento está estrechamente relacionado con el [[student
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — Seguimiento fundamentado semánticamente con estados calibrados por KC, usado como entorno de RL para la recomendación
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: un tutor agéntico que aprende de quien aprende en un bucle de coaprendizaje humano-IA
 - [[crediting-assisted-work-inflates-mastery-2026]] — Qué regla de evidencia decide una afirmación de dominio (Srivastava 2026)
+- [[system-one-llm-knowledge-tracing-2026]] — Un LLM de una sola pasada rastrea el conocimiento por encima de los modelos profundos entrenados con 8 estudiantes, a una fracción del coste (Lee y Park 2026)
 
 ---
 
@@ -11518,6 +11590,8 @@ La simulación también va más allá de los aprendientes individuales para repr
 
 El trabajo de 2026 sobre habilidades duraderas invierte la dirección habitual de la simulación. En lugar de simular al estudiante para auditar un sistema, el sistema simula a los *compañeros de equipo* para evaluar al estudiante: un LLM ejecutivo genera todos los turnos de cada compañero de IA en una tarea grupal de 30 minutos, mantiene la rúbrica de puntuación y orienta la conversación para fabricar ocasiones en las que aparezca la habilidad objetivo ([[durable-skills-measurement-ai-teammates-2026|Globerson et al., 2026]]). En 373 conversaciones de 188 participantes, la orientación ajustada a la habilidad elevó la evidencia puntuable al 92,4% para la gestión de proyectos y al 85% para la resolución de conflictos, significativamente por encima de los agentes independientes sin restricciones, mientras que el evaluador de IA se calibró contra dos evaluadores humanos cuyo propio kappa interevaluador era de solo 0,45–0,64, un recordatorio útil de que el techo de un simulador lo fija el acuerdo al que pueden llegar las personas sobre el constructo.
 
+El entrenamiento contra un simulador también puede transferirse: el agente de aprendizaje por refuerzo de TutorLoop, entrenado sin conexión contra un estudiante simulado, se transfirió sin cambios a una nueva tarea real de aprendizaje sin reentrenamiento (N = 187), donde su retroalimentación más escasa pero mejor temporizada superó a la retroalimentación más densa ([[tutorloop-sensor-cognitive-feedback-2026|Xu y Zhang, 2026]]).
+
 ## Conceptos conectados
 
 - [[learners]] — Aprendientes: el paraguas de los conceptos del lado de quien aprende
@@ -11534,6 +11608,7 @@ El trabajo de 2026 sobre habilidades duraderas invierte la dirección habitual d
 - [[llm]]
 - [[learning-analytics]]
 - [[teacher-role]]
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
 
 ## Artículos conectados
 
@@ -11566,6 +11641,7 @@ El trabajo de 2026 sobre habilidades duraderas invierte la dirección habitual d
 - [[student-development-agent-risk-free-simulation-2025]] — predecir los resultados de desarrollo posteriores al curso de estudiantes en una plataforma multiagente sin exponerlos a la intervención
 - [[preservice-teachers-noticing-ai-simulations-2026]] — tres semanas de atención, interpretación y modelado de docentes en formación en una simulación de chatbot sobre el signo igual, y cómo el diseño orienta lo que notan
 - [[beagle-grounded-learner-emulation-2026]] — un simulador neurosimbólico que impone la estructura de aprendizaje autorregulado por vía arquitectónica y no por prompting, y que supera una prueba de Turing humana
+- [[tutorloop-sensor-cognitive-feedback-2026]] — Un tutor de aprendizaje por refuerzo entrenado con simulador se transfirió sin conexión a una nueva tarea real (Xu y Zhang 2026)
 
 ---
 
@@ -12562,6 +12638,8 @@ A un cuadro de mando dirigido al estudiantado solo le sirve su alcance: en un es
 
 Una codificación de frecuencias de datos cualitativos es un punto de entrada, no un veredicto: en un estudio con diez participantes, algunos docentes leyeron las codificaciones de frecuencia como una vía productiva de acceso mientras que otros advirtieron que ocultan respuestas raras pero críticas, así que el diseño mantiene cada vista agregada enlazada con el texto literal del estudiantado ([[wordstream-glass-learning-analytics|Nguyen et al. (2026)]]).
 
+La analítica del aprendizaje se enmarca canónicamente como un ciclo que comienza con la actividad de quien aprende produciendo datos, que se procesan en medidas e indicadores que luego se traducen en **intervenciones**, y la intervención retroalimenta la actividad de quien aprende para cerrar el bucle. El paso de la intervención es lo que distingue la analítica del mero seguimiento o predicción: sin él, la analítica describe y señala pero nunca cambia el aprendizaje. Este ciclo es el marco organizador para entender dónde se sitúan las herramientas de IA (cuadros de mando, generadores de retroalimentación, recomendadores prescriptivos) en el flujo de trabajo y qué paso automatizan.
+
 ### De la descripción a la intervención
 
 La analítica del aprendizaje ha evolucionado a través de tres generaciones en la base de conocimiento: descriptiva (¿qué ocurrió?), predictiva (¿qué ocurrirá?) y prescriptiva (¿qué deberíamos hacer?). La IA habilita la capa prescriptiva, es decir, una analítica que desencadena directamente [[feedback|intervenciones didácticas]]. Una frontera clave es la **brecha de accionabilidad**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel y Laforge 2026)]] muestra que la predicción por sí sola es insuficiente para apoyar decisiones, y que el recurso contrafactual solo adquiere sentido operativo cuando las recomendaciones son semánticamente factibles y verificables por máquina, limitadas por el momento, el presupuesto, la inmutabilidad y la disponibilidad mediante validación SHACL, y no meramente válidas para el modelo. Esto lleva el campo más allá de las puntuaciones de riesgo hacia recomendaciones que las instituciones pueden aplicar de verdad, preservando la [[human-in-the-loop-ai|supervisión humana]].
@@ -12654,6 +12732,8 @@ El instrumental a nivel de proceso es el siguiente escalón hacia abajo de la ca
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk from early-semester LMS traces (AUC 0.763)
+- [[factria-responsible-institutional-analytics-2026]] — Analítica institucional responsable: interpretar el sesgo con apoyo de la IA
+- [[factria-responsible-institutional-analytics-2026]] — Analítica institucional responsable: interpretar el sesgo con apoyo de la IA
 
 ---
 
@@ -13170,6 +13250,7 @@ El diseño del prompt es en sí mismo una palanca medible: sobre el punto de ref
 - **Los problemas susceptibles a la IA pierden tiempo de estudio y retención.** Un panel de diez años con 3,2 millones de interacciones de ALEKS encontró que el tiempo de aprendizaje en problemas verbales basados en texto —los más transcribibles a prompts de IA— cayó un 26,9% tras el lanzamiento de ChatGPT, mientras que los ítems de retención supervisados mostraron una caída del 25% en las probabilidades de una respuesta correcta ([[generative-ai-reduced-study-time-math|Rismanchian et al., 2026]]).
 
 - **El estudiantado valora la retroalimentación inmediata, pero las plataformas de práctica opcionales se quedan sin usar.** De 157 estudiantes, [[genai-practice-platform-maths-feedback-2026|Chen et al. (2026)]] vieron a 95 registrarse y solo a 34 intentar una pregunta; quienes las usaron valoraron la implicación como lo más alto (79% de acuerdo), mientras que solo el 42% prefirió la plataforma al cuadernillo de problemas existente.
+- **La IA puede elevar el rendimiento a la vez que amplía una brecha de género.** En un cuasiexperimento de seis semanas con 115 estudiantes nigerianos de secundaria superior, la retroalimentación de ChatGPT elevó el rendimiento en ecuaciones cuadráticas frente a la enseñanza convencional (29,18 frente a 24,06), pero los estudiantes varones superaron a las mujeres (30,95 frente a 25,16) pese a no haber diferencias de género en autoeficacia: una advertencia de equidad para el apoyo de la IA en matemáticas ([[ai-generated-responses-achievement-self-efficacy-2026|Oladayo y Diri, 2026]]).
 
 ### Conexiones con conceptos relacionados
 
@@ -13242,6 +13323,7 @@ La educación matemática se sitúa dentro del dominio más amplio de la [[stem-
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — Anotación semántica de conceptos de conocimiento y secuenciación de ejercicios con aprendizaje por refuerzo en corpus matemáticos de K-12
 - [[misconception-acquisition-dynamics-llms-2026]] — Dinámica de adquisición de reglas algebraicas erróneas en modelos de lenguaje
 - [[genai-practice-platform-maths-feedback-2026]] — Plataforma opcional de práctica con IA generativa en una clase de matemáticas de 157 estudiantes: retroalimentación inmediata valorada, adopción limitada a 34 usuarios activos
+- [[ai-generated-responses-achievement-self-efficacy-2026]] — Evaluación de la influencia de las respuestas generadas por IA en el rendimiento académico: una perspectiva ética y la autoeficacia
 
 ---
 
@@ -13299,6 +13381,8 @@ Un prompt reutilizable de cuatro elementos —herramientas, visualización, cont
 - **La calificación con IA puede reproducir un resultado de física de alto riesgo sin coincidir en cada parte.** Al calificar 10.364 páginas manuscritas de olimpiada y de universidad, un LLM multimodal recuperó el mismo equipo olímpico de cinco estudiantes que los examinadores y se correlacionó con los totales en r = 0,93–0,96, pero la coincidencia exacta por parte de pregunta alcanzó el 70%: una segunda lectura controlada por examinadores, no una sustitución ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 
 - **Los puntos de referencia de física pueden estar anclados al currículo y no ser en inglés.** [[physicsmate-bengali-secondary-physics-benchmark-2026|Jahin et al. (2026)]] construyeron 1.834 preguntas en bengalí a partir del manual nacional de física de los grados 9-10 y un grafo de conocimiento de 1.760 nodos; una única receta fija de ajuste fino ganó 5,5, 15,0 y 23,3 puntos con 0.6B, 1.7B y 4B parámetros.
+
+Una revisión PRISMA de 2026 de 11 estudios empíricos en seis países llega a la misma conclusión a nivel de campo: las ganancias a corto plazo de la retroalimentación y la simulación con IA no persistieron en exámenes posteriores ni se transfirieron al rendimiento independiente ([[ai-university-physics-education-review-2026|revisión de la IA en la educación universitaria de física]]).
 
 ### Conexiones con conceptos relacionados
 
@@ -13365,6 +13449,9 @@ La educación en física se sitúa dentro del dominio más amplio de la [[stem-e
 - [[context-prompts-physics-assignments-2026]] — Tareas de física impulsadas por inteligencia artificial mediante prompts de contexto
 - [[ai-assisted-physics-lab-report-assessment-2026]] — Evaluación asistida por IA de informes de laboratorio de física experimental: potencial, limitaciones y apoyo a la práctica docente
 - [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1.834 pares de preguntas y respuestas de física secundaria en bengalí mapeados a un grafo curricular de 1.760 nodos, con ganancias de adaptación en modelos pequeños
+- [[ai-university-physics-education-review-2026]] — La inteligencia artificial en la educación universitaria de física: una revisión sistemática de estudios empíricos
+- [[structured-genai-training-physics-problem-solving-rct-2026]] — Formación estructurada con IA generativa para la revisión de problemas de física: un ensayo controlado aleatorizado (Huang et al. 2026)
+- [[structured-genai-training-physics-problem-solving-rct-2026]] — Formación estructurada con IA generativa para la revisión de problemas de física: un ensayo controlado aleatorizado (Huang et al. 2026)
 
 ---
 
@@ -13929,6 +14016,8 @@ La educación científica es donde la promesa de la IA y sus límites chocan de 
 
 Una evaluación aleatorizada de cuatro semanas de una plataforma de revisión con IA en ciencias de GCSE aporta al cuadro una estimación causal —g de Hedges = 0,33, sin evidencia de que el efecto difiriera por asignatura o desventaja— frente a un contrafactual ya rico en tecnología, así que la cifra es valor añadido y no IA frente a nada ([[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]]).
 
+Estos hallazgos a nivel de aula se sitúan dentro de una pregunta metodológica más amplia. [[ai-methodologies-science-education-research-2026|Martin, Rost, Koenen y Graulich (2026)]] sostienen que la investigación en educación científica podría estar atravesando actualmente una iteración epistémica, a partir de la explicación de Hasok Chang (2004) sobre etapas sucesivas de conocimiento que se construyen iterativamente hacia fines epistémicos específicos. En su lectura, las metodologías de IA pueden transformar no solo cómo analiza el campo el aprendizaje del estudiantado, sino qué fines epistémicos, criterios y prácticas prioriza. Proponen un marco reflexivo de siete fases (planteamiento del problema; instrumentación y medición; experimentación e inferencia basada en la evidencia; comparaciones y replicación; construcción de normas y consenso; implementación e iteración; y reflexión epistémica continua), ilustrado por el desarrollo de aproximadamente 150 años de la termometría, y lo presentan como un instrumento reflexivo más que como un método validado o un hallazgo empírico.
+
 ### Laboratorios virtuales y simulaciones
 
 La IA está rebajando drásticamente la barrera para crear instrumentación científica personalizada y encarnada. [[genai-ar-physics-simulation-prompt-2026|Levy et al.]] muestran que un prompt en lenguaje natural de cuatro elementos puede generar una simulación de física en realidad aumentada controlada con las manos (un gesto de pellizcar y separar ajusta la longitud de onda de una lámpara virtual), con un 86% del estudiantado piloto informando de una mayor [[student-engagement|implicación]]. De forma similar, [[ai-generated-smartphone-circular-motion-lab-2026|Suñer et al.]] generaron por completo mediante prompts un laboratorio de movimiento circular basado en navegador, validado frente al análisis de vídeo con un error inferior al 1%. Estos trabajos replantean la [[generative-ai|IA generativa]] como una herramienta de [[prompt-engineering|programación]] que permite al profesorado diseñar software en torno a la [[pedagogy|intención pedagógica]] en lugar de adaptar actividades a aplicaciones fijas, avanzando en el aprendizaje [[embodied-learning|encarnado]] y basado en la [[simulation|simulación]]. En [[chemistry-education|educación química]], [[context-based-ai-secondary-chemistry-2026|Abdikayumova y Madybekova]] integraron simulaciones de PhET y tutoría con ChatGPT dentro de un ciclo de indagación 7E basado en contextos para estudiantes de décimo grado, logrando un rendimiento y una implicación significativamente mayores que cualquiera de los dos componentes por separado, evidencia de que la contextualización, la indagación estructurada y la IA adaptativa actúan de forma sinérgica. El análisis conductual de cómo trabaja el estudiantado dentro de esos entornos de modelado refuerza esta lección de diseño: al rastrear a 315 personas que aprendían en línea construyendo modelos ecológicos en VERA, [[an-goel-self-directed-modeling-2026|An, Hammock y Goel (2025)]] encontraron que quienes se implican en una exploración de ciclo completo guiada por hipótesis construyen los modelos más complejos y diversos, mientras que quienes aprenden con un sesgo hacia la observación en gran medida copian modelos existentes, lo que sugiere que las herramientas de modelado científico deberían promover activamente una conducta exploratoria de ciclo completo en lugar de dejar a quien aprende en un modo pasivo dominado por la observación.
@@ -13936,6 +14025,8 @@ La IA está rebajando drásticamente la barrera para crear instrumentación cien
 ### Tutores de IA y aprendizaje basado en la indagación
 
 El aprendizaje basado en la indagación es un tema central. La [[meta-analysis-systematic-review|revisión sistemática]] de 24 estudios de [[jiang-chatgpt-inquiry-steam-review-2026|Jiang et al.]] sitúa a ChatGPT como «coinvestigador impulsado por IA» usado principalmente en las fases de conceptualización, investigación y discusión de la [[inquiry-based-learning|indagación STEAM]], mejorando el rendimiento, el [[critical-thinking|pensamiento crítico]] y la implicación, y a la vez con riesgos de dependencia excesiva, alucinación y conclusiones superficiales cuando se trata la salida como algo con autoridad. [[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]] encontró que ocho semanas de indagación guiada asistida por IA produjeron grandes avances en la comprensión conceptual de la fotosíntesis y la respiración en futuros docentes, mientras que la [[ai-literacy|alfabetización en IA]] y el [[computational-thinking|pensamiento computacional]] no mostraron cambios significativos, lo que sugiere que el aprendizaje disciplinar puede mejorar incluso cuando las competencias más amplias necesitan una instrucción más larga o más explícita. [[embodied-inquiry-ai-facilitator-physics-2026|Tufino y Damiani]] muestran que la IA puede andamiar el núcleo epistémico de la indagación ISLE sin salir del canal verbal, pero encontraron una facilitación frágil: bajo la presión del estudiantado, la IA «inventó» valores de masa que nadie había medido, lo que subraya el [[hallucination-risk|riesgo de alucinación]] y la necesidad de verificar en lugar de dar por supuesta la fidelidad de la IA. [[airis-cognitively-activated-ai-physics-2026|Kuhn et al.]] proponen el marco AIRIS (Activar–Indagar–Reflexionar) para mantener la predicción, la interpretación y la evaluación como tareas humanas no delegables, y reclaman experimentos de «condición de retirada» que comprueben si el aprendizaje sobrevive a la eliminación de la IA, una respuesta directa al «problema de la rana hervida» de la erosión de la práctica epistémica. El juicio experto sobre planificaciones de clase generadas por IA extiende esta lección de diseño a la ciencia alineada con el [[curriculum-design|currículo]]: [[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu, Surmeli y Yildirim (2026)]] hicieron que once especialistas turcos en educación científica puntuaran ChatGPT-4 y una herramienta centrada en la educación (Teacher's Buddy) sobre planificaciones de sexto grado para una unidad de «Vida sostenible y biodiversidad» alineada con el modelo de aprendizaje [[design-based-research|basado en el diseño]] ingenieril (EDBL). Ambas plataformas puntuaron más alto en «Presentar la solución» y más bajo, en cambio, en Habilidades de Ingeniería (x̄ = 37,45 para la de uso general; x̄ = 41,45 para la centrada en la educación), una debilidad compartida a la hora de simular las etapas iterativas y orientadas al proceso (prototipado, análisis de fallos, revisión, retestado reflexivo) que definen el aprendizaje basado en el diseño, y solo 3 de los 11 especialistas juzgaron cualquiera de las planificaciones directamente como «Aplicable», con 7 calificándolas como «Aplicable con correcciones».
+
+Una revisión conceptual fundamenta teóricamente el canal material: la ciencia es un sistema abierto que revisa las afirmaciones frente a la evidencia física, mientras que un modelo de lenguaje está cerrado operativamente a la evidencia en el momento de la inferencia ([[nature-of-science-generative-ai-2026|Muminova y Mamatkulov, 2026]]).
 
 ### Ideas erróneas y cambio conceptual
 
@@ -13978,6 +14069,8 @@ La preparación del profesorado es decisiva. [[pre-service-science-teachers-ai-p
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluar la tutoría con IA a la velocidad de la innovación: ensayos microaleatorizados dirigidos por docentes de una plataforma de tutoría con IA en ciencias GCSE
 - [[llm-benchmark-secondary-science-topics-2026]] — Un punto de referencia para la comprensión de los LLM de los temas de ciencias de secundaria y bachillerato
+- [[ai-methodologies-science-education-research-2026]] — Marco de iteración epistémica en siete fases para reflexionar sobre cómo las metodologías de IA pueden transformar la investigación en educación científica (Martin et al., 2026)
+- [[nature-of-science-generative-ai-2026]] — La naturaleza de la ciencia en la era de la inteligencia artificial generativa: autoridad epistémica, materialidad y una respuesta sinérgica
 
 ---
 
@@ -14040,6 +14133,8 @@ Como la escritura es un proceso cognitivo, la investigación sobre IA y escritur
 Un patrón específico de cada dimensión se repite en esta literatura, y es un diagnóstico útil. En el programa de escritura en L2 de primaria, la [[student-engagement|implicación]] emocional y conductual aumentó mientras que la cognitiva y la metacognitiva no lo hicieron, y los autores señalan la disminución del automonitoreo durante la escritura como un riesgo explícito del apoyo con IA generativa ([[genai-writing-program-primary-l2-motivation-engagement|Lu et al., 2026]]). El disfrute y la actividad centrada en la tarea no son, por tanto, evidencia de que esté ocurriendo un procesamiento más profundo: la misma distinción que traza la investigación sobre la descarga cuando pregunta qué capa del trabajo cognitivo ha delegado un estudiante.
 
 Un [[meta-analysis-systematic-review|metaanálisis]] de 2026 ([[genai-writing-performance-meta-analysis-2026|Teng, 2026]]) de 11 efectos a nivel de estudio extraídos de 31 estudios refuerza el diagnóstico desde la dirección opuesta. Informa de una ventaja media grande para la enseñanza de la escritura apoyada por IA generativa (g = 0,80), pero con una heterogeneidad lo bastante alta como para que una nueva implementación pudiera plausiblemente no mostrar ningún beneficio, y el único moderador robusto fue la clasificación del riesgo de sesgo y no ningún rasgo pedagógico: la calidad del estudio, y no el diseño didáctico, explicaba la mayor parte de la varianza. La misma síntesis encuentra que la IA generativa es consistentemente más fuerte en los rasgos de orden inferior (gramática, diversidad léxica, fluidez de la frase), mientras que los efectos de orden superior sobre la argumentación y la coherencia siguen siendo inconsistentes, que es precisamente la brecha de capas que esta página trata como el problema central de diseño.
+
+Una validación de dos olas con estudiantes chinos de inglés como lengua extranjera (EFA N = 305; CFA N = 342) separa seis dimensiones regulatorias y añade la *regulación ambiental* —comprobar el contenido generado, filtrar los recursos sugeridos y limitar la dependencia—, una faceta que las escalas existentes de escritura en L2 no incluían ([[genai-srl-l2-writing-scale-2026|Wang, Zhang y Zhang (2026)]]).
 
 ### Diseñar el apoyo de la IA a la escritura: acompañar, no redactar
 
@@ -14133,6 +14228,7 @@ La educación de la escritura se conecta con la [[automated-essay-scoring|evalua
 - [[human-ai-collaboration-academic-writing-2026]] — Colaboración estructurada humano-IA en la escritura académica y el pensamiento crítico digital (Alshehri et al. 2026)
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Las revisiones humanas y con IA del mismo borrador adoptan posturas dialógicas distintas: la retroalimentación entre pares cierra el espacio dialógico, la revisión con IA lo mantiene equilibrado (Zhao y Ji 2026)
 - [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock: condicionar la salida de la IA a una implicación previa redistribuyó el esfuerzo hacia la escritura sin coste de tiempo ni de exactitud (N = 398)
+- [[genai-srl-l2-writing-scale-2026]] — Una escala de AAR con IA generativa en seis dimensiones para la escritura en L2, con la regulación ambiental (gobernanza de la herramienta) como dimensión distintiva
 
 ---
 
@@ -14487,6 +14583,7 @@ La IA en la educación empresarial es una línea creciente de la [[ai-education|
 - **La innovación en evaluación y calificación está poco investigada.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais y Galy (2026)]] revisaron 58 artículos sobre evaluación a lo largo de 20 años en cuatro revistas líderes de educación en gestión (AMLE, JME, Management Learning, IJME) —unas tres al año, muchas en los números especiales de 2010 y 2014— y encontraron que la evaluación y la calificación están poco investigadas en relación con su papel central en la configuración del aprendizaje. La autoevaluación y la evaluación entre iguales dominan el discurso (casi la mitad del corpus, sobre todo para la evaluación [[summative-assessment|sumativa]] del [[group-work|trabajo en grupo]]); la [[authentic-assessment|evaluación auténtica]] aparece principalmente a través de [[simulation|simulaciones]] mediadas por tecnología y a menudo se confunde con el [[experiential-learning|aprendizaje experiencial]]; mientras que la reevaluación, la calificación basada en estándares y la eliminación de las calificaciones están prácticamente ausentes. Los autores instan al profesorado de gestión a implicarse de forma más activa y recíproca con estas innovaciones y recomiendan una experimentación incremental (tareas sin calificación, reevaluación de una única tarea, rúbricas basadas en estándares) respaldada por una coordinación a nivel de programa y por evidencia documentada de la Scholarship of Teaching and Learning.
 
 - **La calificación automatizada de trabajos de negocios necesita una validación específica del corpus.** Sobre 60 publicaciones de marketing de estudiantado de una simulación BrandSim, [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]] encontró que un [[llm|LLM]] alcanzó solo un ICC(2,1) = .435 con la media humana —reglas deterministas .091, un híbrido de igual ponderación .266— mientras que añadir anclas redactadas por el investigador elevó el LLM a .846 sin cambiar ninguna puntuación del estudiantado.
+- **Enseñar la IA como elemento de diseño de procesos de primera clase.** [[ai-decision-checkpoints-bpm-education-2026|Jalali (2026)]] coloca un punto de control de decisión sobre IA en cada fase del ciclo de vida de BPM a lo largo de seis módulos de un curso de 152 estudiantes, de modo que el estudiantado construye un agente de admisión funcional con LLM y luego descubre, en un punto de control, que el cuello de botella real es una cola de dos personas de investigación de fraude.
 
 ## La enseñanza de la economía y la gestión
 
@@ -14529,6 +14626,7 @@ Los negocios son uno de los campos donde la adopción de la IA generativa es má
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[automated-scoring-marketing-posts-agreement-2026]] — Concordancia y error en la calificación automatizada de publicaciones de marketing del estudiantado
 - [[shi-genai-experiential-learning-management-education-2026]] — tres mecanismos de IA generativa para reconfigurar la pedagogía de la educación en gestión
+- [[ai-decision-checkpoints-bpm-education-2026]] — Puntos de control de decisión sobre IA para la gestión de procesos de negocio aumentada con IA: marco y ejemplificación educativa
 
 ---
 
@@ -15368,6 +15466,8 @@ Los niños y las niñas pequeños interactúan con la IA cada vez más temprano 
 - **Alfabetización mediática crítica apoyada por IA en los años de primaria.** Demir y Akar (2026) evalúan un programa de alfabetización mediática crítica de 18 horas y modelo 5E para estudiantes de cuarto curso de una escuela pública de primaria turca, que integra la [[generative-ai|IA generativa]] (ChatGPT, Grammarly, Canva AI, Padlet) fase por fase como agente pedagógico en lugar de como complemento aislado, con actividades alineadas con los currículos turcos de Lengua y Ciencias Sociales. El grupo apoyado por IA mostró grandes mejoras en lectura de medios (+3,50), escritura (+1,67) y alfabetización mediática total (+5,17; en todos los casos p < .01), con tamaños del efecto entre grupos de *d* de Cohen = 1,12–1,31, mientras que el grupo de control avanzó solo de forma modesta. El análisis [[qualitative-research|cualitativo]] de entrevistas, producciones del estudiantado (carteles, dibujos, eslóganes) y observación de aula reveló seis ámbitos de crecimiento en alfabetización mediática crítica —autoprotección digital y [[privacy|privacidad de los datos]], uso intencionado y responsable de los medios, comunicación segura y conciencia de límites, evaluación crítica y conciencia de la desinformación, conciencia de los riesgos en línea y [[ethics|ética]] mediática y ciudadanía digital—, y ofrece un modelo cuasiexperimental poco frecuente y alineado con el currículo de cómo la IA puede apoyar la [[ai-literacy|alfabetización en IA]] crítica y el [[critical-thinking|pensamiento crítico]] en los cursos de primaria.
 
 - **Observación de la calidad de la interacción docente-niño puntuada por IA.** [[ai-rated-classroom-observation-scores-2026|Fong et al. (2026)]] comparan un [[llm|LLM]] con evaluadores humanos entrenados en el marco completo CLASS Pre-K en jardines de infancia de Hong Kong: 87 observaciones grabadas en vídeo de 38 aulas de 30 jardines de infancia, puntuadas a partir de transcripciones por GPT-5.0 y comparadas con ocho evaluadores entrenados. La concordancia fue moderada en general (κ ponderada = 0,681) pero dependía del constructo: la convergencia se mantuvo en el dominio de Apoyo emocional y en la Calidad de la retroalimentación —la dimensión que sostiene el apoyo verbal explícito y basado en el intercambio—, mientras que la Organización del aula divergió por completo y los evaluadores puntuaron las dimensiones emocionales más alto que el modelo, con una diferencia muy grande en la dimensión de Clima negativo, de puntuación inversa (d = 2,732; los evaluadores dieron el máximo de 7 en 63 de 71 observaciones y la IA se agrupó en 6). La lección para la primera infancia es específica del desarrollo: la calidad que vive en la conducta no verbal, espacial y rutinaria —gestión, movimiento, calidez, tono— es invisible para un proceso que solo usa transcripciones, la dirección del error del modelo depende del constructo en lugar de ser uniformemente conservadora, y por eso los autores sitúan la [[automated-assessment|evaluación con IA]] como herramienta de cribado y reflexión para el [[teacher-role|profesorado]] y no como sustituto de observadores entrenados.
+- **Futuro profesorado diseñando actividades de ciencias.** [[preservice-early-childhood-genai-magnetism-2026|Efthimiou y Plakitsi (2026)]] pidieron a 131 futuros docentes de educación infantil que diseñaran actividades de magnetismo con LLM: valoraron la estructura y la eficiencia de los modelos como lo más alto (M = 3,95) pero la fiabilidad epistémica de su contenido como lo más bajo (M = 3,08), tratándolos como artefactos de lluvia de ideas y manteniendo la transformación didáctica como responsabilidad humana.
+- **La IA aproximándose a los juicios de desarrollo sobre los cuentos infantiles.** CLARA, de [[clara-developmental-appropriateness-children-stories-2026|Yin et al. (2026)]], anota las demandas cognitivas, lingüísticas y socioemocionales de un cuento y coincide con las referencias de edad de las editoriales el 0,904 de las veces, por delante de las fórmulas de legibilidad (0,603) y de la indicación directa (0,730); se ofrece como señal de apoyo y no como sustituto de una persona que juzgue.
 
 ### Consideraciones de desarrollo y equidad
 
@@ -15410,6 +15510,8 @@ Como quienes aprenden a edades tempranas son más vulnerables y menos capaces de
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[creative-project-approach-ai-early-childhood-2025]] — El enfoque de proyecto creativo: un marco para adaptar agentes de IA y robótica al aprendizaje temprano (Yang, Li y Lee 2025)
 - [[ai-rated-classroom-observation-scores-2026]] — ¿Escribo yo o escribe la IA?: puntuaciones CLASS Pre-K evaluadas por IA frente a evaluadores humanos entrenados en jardines de infancia de Hong Kong (Fong et al. 2026)
+- [[clara-developmental-appropriateness-children-stories-2026]] — Un sistema de IA que aproxima los juicios de desarrollo sobre cuentos infantiles (Yin et al. 2026)
+- [[preservice-early-childhood-genai-magnetism-2026]] — Futuro profesorado de educación infantil diseñando actividades de ciencias con LLM (Efthimiou y Plakitsi 2026)
 
 ---
 
@@ -16031,6 +16133,7 @@ La pregunta constructiva en la literatura sobre evaluación de esta base de cono
 - **Evaluar el proceso de interacción, y no solo el artefacto:** el [[assessing-student-drive-framework-2025|marco DRIVE]] (Directive Reasoning Interaction + Visible Expertise) trata la calidad de la *implicación del estudiantado con la IA generativa* como el constructo evaluado. Distingue el consumo superficial de la interacción profunda y reflexiva fijándose en si el estudiantado dirige las indicaciones de forma estratégica (DRI) e integra y desarrolla sus propias ideas disciplinares a través del intercambio (VE), y ancla los criterios centrados en el proceso en teorías del [[self-directed-learning|aprendizaje autodirigido]] y de la implicación cognitiva en la línea de la jerarquía [[icap-framework|ICAP]]. Esto convierte DRIVE en un ejemplo de *evaluación auténtica mediada por IA*: una rúbrica para valorar cómo se asocia quien aprende con la IA generativa, y no una herramienta de detección.
 
 Una propuesta de esta literatura va más allá del rediseño dentro del marco actual. [[ai-agents-joyful-assessment-third-space-2026|El Khoury y Ma (2026)]] sostienen que una reforma organizada en torno a prevenir la conducta indebida o detectar el uso de IA reduce la imaginación educativa al control y el cumplimiento, y proponen en su lugar la **evaluación gozosa**: una evaluación segura, emocionalmente receptiva, empoderadora y favorable a la [[agency|agencia del estudiantado]], con la seguridad como condición que lo sostiene todo, porque sin ella la sintonía emocional se vuelve actuación, el empoderamiento se vuelve presión y la agencia se vuelve riesgo. Su marco invierte la agenda de la detección (la integridad pasa a ser una consecuencia de diseñar evaluaciones en las que el estudiantado quiera participar, y no su punto de partida) y sitúa los [[agentic-ai|agentes de IA]] construidos por el profesorado (GPT personalizados, Gems, agentes de Copilot Studio) como un espacio de ensayo de bajo riesgo donde el estudiantado practica antes del juicio, con la afirmación de que la IA organiza la evidencia mientras quien enseña la interpreta.
+- **Una evaluación que va más allá del modo lingüístico:** Jiang et al. (2026) definen la alfabetización en evaluación multimodal para el profesorado de segundas lenguas como conocimiento, valor y competencia para tareas que suscitan respuestas en modos lingüístico, visual, auditivo, gestual y espacial. Un programa de un año con 30 docentes de inglés de Hong Kong elevó el conocimiento de estrategias de evaluación de 3,13 a 4,15 sobre 5 (η² parcial = 0,571) y la competencia de apoyo al estudiantado de 3,05 a 3,98 (0,482), mientras los tres subdominios de valor se mantuvieron planos. La propia experiencia del profesorado añadió dos dimensiones al marco: sostener la práctica frente a prioridades curriculares competitivas, y movilizar la IA generativa de forma crítica ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al. (2026)]]).
 
 ## Implicaciones para la IA en la educación
 
@@ -16041,6 +16144,7 @@ Una propuesta de esta literatura va más allá del rediseño dentro del marco ac
 - **Las prácticas innovadoras pueden abordar varios problemas a la vez.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais y Galy (2026)]] sostienen que un conjunto de cinco prácticas que se refuerzan entre sí (la [[authentic-assessment|evaluación auténtica]], la autoevaluación y la [[peer-assessment|evaluación entre pares]], la reevaluación, la [[mastery-learning|calificación basada en estándares]] y el ungrading, es decir, la evaluación sin calificaciones) alineadas con el paradigma de la «evaluación para el aprendizaje» pueden contrarrestar los daños de la calificación tradicional, con mucho peso sumativo y referida a normas (aprendizaje superficial, [[motivation|motivación intrínseca]] erosionada, estrés y ansiedad, inequidad e [[academic-integrity|integridad]] comprometida) en la era de la IA generativa. Encuentran que la adopción es desigual entre campos (dominan la autoevaluación y la evaluación entre pares, mientras que las innovaciones centradas en la calificación siguen siendo marginales) e instan al profesorado a implicarse de forma más activa y recíproca con la innovación en evaluación y calificación, respaldado por la experimentación incremental y el apoyo [[governance|institucional]].
 
 - **La evaluación mediada por IA se está diversificando.** [[aivaluate-anxiety-assessment-2026|AIvaluate]] muestra que un [[conversational-ai|agente conversacional]] aumentado con LLM redujo la ansiedad del estudiantado durante evaluaciones basadas en el desempeño; [[asynchronous-oral-assessment-2026|Pentland (2026)]] encuentra que las evaluaciones orales asíncronas ofrecieron una mayor implicación y se percibieron como profesionalmente pertinentes; [[graph-its-adaptive-algorithms-2026|los ITS basados en grafos]] usan un seguimiento adaptativo del estado de conocimiento para informar la evaluación.
+
 ## Conceptos conectados
 - [[learners]] — El estudiantado: el paraguas de los conceptos del lado de quien aprende
 - [[pedagogical-partnerships]] — Alianzas pedagógicas
@@ -16064,6 +16168,7 @@ Una propuesta de esta literatura va más allá del rediseño dentro del marco ac
 - [[eportfolio]] — Evaluación por portafolio electrónico basada en procesos
 - [[speech-and-voice-technologies]]
 - [[peer-assessment]]
+
 ## Artículos conectados
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agentes de IA, evaluación gozosa y tercer espacio
 - [[mccorkle-aligned-genai-course-policy-2025]] — Permisos de IA a nivel de tarea derivados de lo que se evalúa (McCorkle 2025)
@@ -16088,6 +16193,7 @@ Una propuesta de esta literatura va más allá del rediseño dentro del marco ac
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus deberes. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en informática en la era de la IA generativa
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Un programa de un año que define la alfabetización en evaluación multimodal y mide qué se movió y qué no
 
 ---
 
@@ -16462,6 +16568,8 @@ La IA cambia la retroalimentación en dos direcciones que elevan a la vez lo que
 
 La alfabetización en retroalimentación se conecta con la [[ai-feedback-quality|calidad de la retroalimentación con IA]] y el [[feedback|bucle de retroalimentación]] (el lado de la provisión que complementa), con la [[formative-assessment|evaluación formativa]] (el ciclo de evaluación al que alimenta) y con el [[self-regulated-learning|aprendizaje autorregulado]] (la [[self-assessment|autoevaluación]] y la adaptación que sostiene). Es un subconjunto de la [[ai-literacy|alfabetización en IA]] cuando se aplica a la retroalimentación generada por IA, se cruza con la [[peer-assessment|evaluación entre pares]] en contextos colaborativos y resulta especialmente consecuente para la [[writing-education|enseñanza de la escritura]]. También se conecta con la [[metacognition|metacognición]] y la [[trust-calibration|calibración de la confianza]], la capacidad de juzgar si una retroalimentación es digna de confianza.
 
+Actuar sobre la retroalimentación no es lo mismo que mejorar el artefacto. Entre 22 docentes de matemáticas en formación, la aceptación selectiva de la retroalimentación de la IA y de los pares fue la norma (32 de 44 episodios), pero solo cinco mejoraron la calidad de sus tareas diseñadas: una brecha de traducción que los autores atribuyen al juicio evaluativo más que a la adopción ([[ai-peer-feedback-stem-teacher-education-2026|Oh, 2026]]).
+
 ## Conceptos conectados
 
 - [[pedagogical-patterns]] — Los pasos de valoración crítica que estas secuencias incorporan al flujo de trabajo
@@ -16502,6 +16610,7 @@ La alfabetización en retroalimentación se conecta con la [[ai-feedback-quality
 - [[student-perspectives-ai-writing-grading-2026]] — ¿Quién debería calificar mi trabajo? Perspectivas del estudiantado sobre la evaluación transparente de la escritura asistida por IA en la educación superior
 
 - [[genai-use-critical-thinking-moderation-2026]] — El uso de IA generativa condujo al pensamiento crítico a través de la alfabetización en retroalimentación con IA generativa, fortaleciéndose con el pensamiento reflexivo
+- [[ai-peer-feedback-stem-teacher-education-2026]] — Adopción selectiva sin mejora del artefacto: la brecha de traducción de la retroalimentación (Oh 2026)
 
 ---
 
@@ -17111,6 +17220,7 @@ El relato de Thapa y Lewis es conceptual: sin participantes, sin recogida de dat
 - [[self-regulated-learning]]
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
+
 ## Artículos conectados
 - [[alam-process-oriented-collaborative-essays-2026]] — Un ensayo de proceso calificado y escrito de forma colaborativa en un grado de aprendizaje basado en el trabajo: iteración y colaboración en la rúbrica, con la IA generativa permitida dentro de límites declarados (Alam y Jackson 2026)
 - [[genai-performance-vs-learning]] — el desempeño no es el aprendizaje: una agenda de investigación construida sobre medidas de proceso (Yan et al. 2026)
@@ -17124,6 +17234,8 @@ El relato de Thapa y Lewis es conceptual: sin participantes, sin recogida de dat
 - [[thapa-lewis-process-oriented-assessment-2026]] — autenticidad epistémica y los cuatro compromisos de diseño detrás de la evaluación orientada al proceso (Thapa y Lewis 2026)
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Evidencia de proceso condicionada por el canal: los registros y el pensamiento en voz alta revelan procesos distintos
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: un entorno de analítica multivista para la escritura integrada con IA
+- [[epistemic-ownership-ai-mediated-education-2026]] — Mismo rendimiento, proceso distinto: propiedad epistémica en la educación mediada por IA
+- [[epistemic-ownership-ai-mediated-education-2026]] — Mismo rendimiento, proceso distinto: propiedad epistémica en la educación mediada por IA
 
 ---
 
@@ -17728,6 +17840,7 @@ La evaluación automatizada se conecta con la [[assessment-validity|validez de l
 
 - **Alineación con la calificación del docente en función de la calidad (2026):** al comparar a ChatGPT, a los compañeros y a un docente calificando los *mismos* [[group-work|proyectos grupales]] de grado, [[usher-faraon-who-grades-best-2026|Usher y Faraon encontraron]] que la alineación de ChatGPT con el docente *mejoraba a medida que aumentaba la calidad del proyecto*: su mayor sobreestimación se daba en trabajos de baja calidad (≈ +14 puntos), y se reducía a ≈ +2,5 puntos en los proyectos de alta calidad. ChatGPT también calificó en promedio más alto que los compañeros y que el docente, una tendencia a inflar las notas que socava su fiabilidad como calificador sumativo autónomo, especialmente en las entregas más débiles.
 - **Las estadísticas de concordancia con corpus pequeños pueden inducir a error en las decisiones de despliegue.** Puntuar 60 publicaciones de marketing (15 estudiantes más 15 anclas de baja calidad escritas por investigadores) frente a dos evaluadores humanos independientes dio una concordancia absoluta ICC(2,1) de 0,435 para el LLM, 0,266 para un híbrido de reglas y LLM con el mismo peso y 0,091 para reglas deterministas, con un MAE de 6,28, 10,53 y 17,22 puntos respectivamente en una escala de 0-100; el híbrido fue significativamente peor que el LLM solo (diferencia de ICC emparejada −0,169, IC del 95% [−0,260, −0,106]). Añadir anclas elevó la ICC interevaluador de 0,338 a 0,902 y la concordancia del LLM de 0,435 a 0,846, y una publicación casi vacía recibió 75 frente a una media humana de 30,5, lo que muestra que una única respuesta degenerada puede dominar una evaluación pequeña. ([[automated-scoring-marketing-posts-agreement-2026]])
+- **Una calificación estructurada con LLM puede parecer analítica sin ser diagnóstica (2026):** al puntuar 3.041 respuestas a 50 preguntas de informática, tres LLM comerciales produjeron subdimensiones de rúbrica casi redundantes (r = 0,82–0,99, VIF de hasta 45) y nombraron ideas erróneas solo en el 4,8–7,4% de los comentarios, frente al 15,0% del profesorado ([[llm-structured-assessment-diagnostic-quality-2026|Zhao et al., 2026]]).
 
 ## Conceptos conectados
 
@@ -17795,6 +17908,7 @@ La evaluación automatizada se conecta con la [[assessment-validity|validez de l
 - [[ai-marking-accuracy-gcse-physics-2026]] — Calificación con IA comparada con las notas del organismo examinador y el juicio del profesorado en física de GCSE
 
 - [[llm-grading-assistants-public-health-2026]] — El modo de razonamiento elevó la concordancia entre la calificación humana y la del LLM de una kappa ponderada de 0,269 a 0,718
+- [[llm-structured-assessment-diagnostic-quality-2026]] — Las subdimensiones de rúbrica del LLM son casi redundantes y la retroalimentación rara vez nombra ideas erróneas (Zhao et al. 2026)
 
 ---
 
@@ -18098,6 +18212,7 @@ La estabilidad entre ejecuciones no está, sin embargo, garantizada: repetir la 
 - **La concordancia entre codificadores LLM es consistencia, no validez.** En un corpus de diálogo educativo etiquetado por expertos, un filtro de concordancia entre modelos retuvo solo 33 de 74 afirmaciones conductuales derivadas del corpus y 11 de 48 derivadas de constructos, y los errores compartidos por los modelos sobrevivieron al filtro, así que la concordancia entre modelos no puede sustituir a la validez de constructo ([[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al., 2026]]).
 
 - **La exposición es medible, y el remedio es evidencia suficiente en lugar de la máxima seguridad.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] puntuó 53.915 ítems de evaluación por formato publicado, supervisión y peso en la nota y encontró que la mayoría de las notas evaluadas descansan en trabajo cuya autoría no puede verificarse tras la entrega; sostiene que los programas necesitan suficiente evidencia de aprendizaje en etapas clave, y no cada unidad asegurada.
+- **Una medida válida puede seguir siendo insegura de optimizar.** Ajustar un tutor con LLM contra una métrica de adaptabilidad de estilo rúbrica elevó la métrica (de +0,05 a +0,42) mientras las valoraciones de personas expertas a ciegas caían (de 4,46 a 3,03), porque una métrica que puntúa las decisiones de forma independiente se maximiza repitiendo la mejor decisión única ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo y Fernández De la Cruz, 2026]]).
 
 ## Conceptos conectados
 
@@ -18161,6 +18276,7 @@ La estabilidad entre ejecuciones no está, sin embargo, garantizada: repetir la 
 
 - [[llm-grading-assistants-public-health-2026]] — La recalificación de entregas idénticas con cinco días de diferencia dio un alfa de Krippendorff de 0,625
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Índice de Vulnerabilidad ante la IA: la mayoría de las notas evaluadas descansan en una autoría no verificable, así que la validez depende de evidencia suficiente en etapas clave y no de la máxima seguridad
+- [[llm-tutor-pedagogical-metric-degradation-2026]] — Ocho principios de diseño para benchmarks de tutores de IA, derivados de una métrica que fue optimizada hasta la repetición (Domínguez Figaredo y Fernández De la Cruz 2026)
 
 ---
 
@@ -18300,6 +18416,8 @@ La evidencia de la base de conocimiento muestra repetidamente que **cómo** se m
 
 Una valoración de 2026 de 33 instrumentos de alfabetización en IA del profesorado muestra dónde está maduro el desarrollo de instrumentos y dónde no. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore y Maat (2026)]] calificaron los instrumentos contra una matriz de decisión adaptada de COSMIN y de Terwee et al. (2007) y encontraron que la consistencia interna era el dominio más fuerte (28 de 33 con grado A, 84,8 %) y la equidad el más débil, con solo cinco instrumentos (15,2 %) que informaban de evidencia de invarianza de medición o de funcionamiento diferencial del ítem. La validez estructural era sólida, con 24 instrumentos (72,7 %) en grado A mediante CFA, PLS-SEM o modelado TRI, pero la validez de contenido se apoyaba sobre todo en la revisión cualitativa, con 21 instrumentos (63,6 %) en grado B por carecer de estadísticos cuantitativos de acuerdo entre expertos.
 
+La selección automatizada de ítems puede acortar un instrumento sin remodelarlo: la optimización por colonias de hormigas sobre una muestra fusionada de dos olas (N = 305 y 342) arrojó una forma corta de 12 ítems que correlaciona r = 0,910–0,944 con la escala completa en cada dimensión, aunque dos ítems por dimensión cubren un rango de contenido más estrecho ([[genai-srl-l2-writing-scale-2026|Wang, Zhang y Zhang (2026)]]).
+
 ## Problemas y limitaciones: qué puede dejar pasar o hacer mal la medición
 
 La medición educativa es potente pero falible. Entender sus modos de fallo es esencial para leer críticamente la evidencia sobre IA en la educación, y para reconocer dónde una aparente ganancia de aprendizaje o una afirmación sobre un constructo puede ser un artefacto de la medición y no un efecto real.
@@ -18348,6 +18466,7 @@ La medición educativa es el fundamento de la [[item-response-theory|teoría de 
 - [[self-report-measures]]
 - [[motivation]]
 - [[student-engagement]]
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
 
 ## Artículos conectados
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Un marco con intervención humana para la puntuación asistida por IA en la evaluación de escritura a gran escala
@@ -18387,6 +18506,7 @@ La medición educativa es el fundamento de la [[item-response-theory|teoría de 
 - [[synthetic-educational-data-structural-fidelity-2026]] — Lo que las métricas de fidelidad dejan pasar: una comprobación estructural de los datos educativos sintéticos
 
 - [[ai-empathy-scale-psychometric-evaluation-2026]] — Una escala de empatía de IA de 42 ítems cuyos seis factores no recuperaron los seis subfactores previstos
+- [[genai-srl-l2-writing-scale-2026]] — Una escala de AAR con IA generativa en seis dimensiones para la escritura en L2; la forma corta de 12 ítems optimizada por colonias de hormigas sigue a la escala completa (r = 0,910–0,944) pero estrecha la cobertura de contenido
 
 ---
 
@@ -18436,6 +18556,7 @@ La TRT trata la habilidad (θ) y los parámetros de los ítems (dificultad, disc
 - **Con qué poca frecuencia la TRT ancla la validación de instrumentos:** una evaluación de instrumentos de alfabetización en IA del profesorado cuantifica la ausencia de TRT más que su uso. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore y Maat (2026)]] calificaron 33 instrumentos con una matriz de decisión adaptada de COSMIN y Terwee et al. (2007); la validez estructural fue sólida, con 24 (72,7%) en grado A mediante AFC, PLS-SEM o modelado de TRT, y sin embargo ninguno usó la TRT o Rasch como evidencia principal, y solo cinco instrumentos (15,2%) informaron de invariancia de medición o de evidencia de funcionamiento diferencial del ítem. Los autores abogan por la TRT y las tareas de desempeño junto con la autoevaluación para separar la capacidad validada de la confianza declarada.
 
 - **Una alternativa causal a la TRT asociativa.** [[causal-modeling-competency-assessment-2026|Mangili et al. (2026)]] sostienen que la TRT y los modelos de estudiante basados en redes bayesianas no pueden expresar intervenciones ni contrafactuales, y en su lugar elicitan ecuaciones estructurales de especialistas; en una batería de test adaptativo con 109 estudiantes el modelo elicitado fue ligeramente menos predictivo (−287 frente a −277 de log-verosimilitud del test) pero admitió consultas contrafactuales sobre la ayuda.
+- **Explicar la dificultad en lugar de predecirla.** [[explaining-question-difficulty-natural-language-2026|Cui et al. (2026)]] ajustaron un modelo Rasch 1PL a los registros de respuestas de LLM para GSM8K (1.319 preguntas), BBH-structured (1.396) y WinoGrande (1.267), con 5.000 modelos para GSM8K y WinoGrande y 3.811 para BBH-structured. Luego pidieron a un LLM que propusiera hipótesis en lenguaje natural sobre por qué un ítem es más difícil que otro, y las seleccionaron con una regresión regularizada L1 sobre preguntas dejadas fuera. Usadas por sí solas en preguntas no vistas, las hipótesis seleccionadas alcanzan R² = 0,373 en GSM8K, 0,580 en BBH-structured y 0,090 en WinoGrande, las mejores de los métodos comparados en GSM8K y WinoGrande y las segundas mejores en BBH-structured, donde un RoBERTa-base ajustado alcanza 0,646. Como características adicionales suman +0,11 a RoBERTa-base en GSM8K (de 0,362 a 0,468) y +0,19 y +0,18 a dos modelos de embeddings congelados. Una sonda causal edita 50 preguntas de prueba por conjunto hacia o fuera de una hipótesis.
 
 ### Conexiones
 
@@ -18470,6 +18591,7 @@ La TRT es un fundamento de la [[educational-measurement|medición educativa]] y 
 - [[bayesian-consensus-irt-item-banks-2026]] — Calibración por consenso bayesiana de un banco de ítems de TRT en evolución continua (Jewsbury et al. 2026)
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Auditoría de campo que muestra que la TRT/Rasch rara vez se usa como evidencia principal de validación en los instrumentos de alfabetización en IA del profesorado
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: la tutoría con IA y la humana producen ganancias de aprendizaje equivalentes en el GRE
+- [[explaining-question-difficulty-natural-language-2026]] — Explicar la dificultad de las preguntas de LLM en lenguaje natural mediante TRI y ediciones causales (Cui et al. 2026)
 
 ---
 
@@ -19036,6 +19158,10 @@ La tensión central de la investigación en AIED es que los diseños más sólid
 
 El tema de esta página es el método y no los hallazgos. Las [[learning-sciences|ciencias del aprendizaje]] son el campo sustantivo al que sirven estos métodos: donde esta página cubre cómo debería diseñarse, medirse y comunicarse un estudio, aquella cubre lo que el campo ha establecido sobre cómo aprende la gente y cómo deberían diseñarse los entornos de aprendizaje, y trata los métodos basados en el diseño y los mixtos como los enfoques característicos de las ciencias del aprendizaje y no como dos opciones entre muchas.
 
+Junto a esta página está la [[ai-assisted-educational-research|Investigación Educativa Asistida por IA]], que cubre la IA como instrumento del trabajo del propio campo: búsqueda bibliográfica, cribado, automatización de revisiones, codificación cualitativa, análisis y escritura. Su alcance incluye la investigación de profesionales, como la beca de la enseñanza y el aprendizaje, y se mantiene distinta de los diseños que describe esta página.
+
+[[ai-methodologies-science-education-research-2026|Martin, Rost, Koenen y Graulich (2026)]] someten ese mismo escrutinio a la producción de conocimiento del propio campo, usando el problema de la medición nómica de Chang (2004): medir una cantidad requiere una ley que la relacione con algo observable, pero esa ley no puede ponerse a prueba empíricamente sin conocer ya la cantidad. Sostienen que las funciones de medición derivadas de la IA, que emergen de los datos de entrenamiento y de la optimización más que de la persona investigadora, pueden intensificar el problema en lugar de resolverlo. Tales funciones pueden parecer precisas y seguir siendo epistémicamente opacas, de modo que el papel de quien investiga se desplaza hacia interpretar y validar resultados computacionales. Su marco reflexivo de siete fases (planteamiento del problema; instrumentación y medición; experimentación e inferencia basada en la evidencia; comparaciones y replicación; construcción de normas y consenso; implementación e iteración; y reflexión epistémica continua) convierte esa vigilancia en una práctica de campo.
+
 ### Rigor en la comunicación de resultados y el modelo TEP-AIED
 
 La calidad de la comunicación de resultados de los estudios sobre IA en la educación es en sí misma una preocupación de investigación. [[tep-aied-model-reporting-2026|El modelo TEP-AIED (Hwang, Xie, Wah y Gasevic, 2026)]] ofrece un marco estructurado para presentar con rigor la investigación sobre IA en la educación, organizando los componentes esenciales de un informe de estudio (el encuadre del problema teórico, tecnológico y educativo, el diseño, los datos, el análisis y los resultados) para que quien lee y quien revisa puedan evaluar si las afirmaciones están respaldadas y si el trabajo es reproducible. Responde a las debilidades crónicas del campo en la comunicación de resultados (descripciones vagas de las herramientas, versiones de modelo sin declarar, detalles de evaluación omitidos) que documenta la página de [[limitations-in-aied-research|límites]]. Los marcos de comunicación como TEP-AIED se sitúan junto a las listas de verificación consolidadas (por ejemplo, las orientaciones al estilo [[rct|CONSORT]] para los ensayos y las orientaciones al estilo PRISMA para las revisiones) como parte del giro más amplio del campo hacia la [[educational-measurement|transparencia metodológica]] y la reproducibilidad.
@@ -19197,6 +19323,7 @@ En la práctica, la investigación sobre IA en la educación rara vez encaja lim
 - [[usability-research]] — Investigación sobre usabilidad
 - [[self-report-measures]]
 - [[learning-sciences]]
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
 
 ## Artículos conectados
 
@@ -19221,6 +19348,7 @@ En la práctica, la investigación sobre IA en la educación rara vez encaja lim
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Metametaanálisis del efecto de la IA en el aprendizaje
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presuntamente eficaz: auditoría de un metaanálisis de AIED defectuoso
 - [[synthetic-educational-data-structural-fidelity-2026]] — Lo que las métricas de fidelidad pasan por alto: una comprobación estructural de datos educativos sintéticos
+- [[ai-methodologies-science-education-research-2026]] — Un marco de iteración epistémica en siete fases para reflexionar sobre cómo las metodologías de IA pueden transformar la investigación en educación científica (Martin et al., 2026)
 
 ---
 
@@ -19228,7 +19356,7 @@ En la práctica, la investigación sobre IA en la educación rara vez encaja lim
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Síntesis:** La investigación educativa asistida por IA es el uso de la IA como instrumento del propio trabajo académico de la disciplina: buscar y recuperar bibliografía, cribar registros para revisiones, codificar datos cualitativos, analizar datos, redactar y editar manuscritos, y la reflexión que pregunta qué hacen esas herramientas con el conocimiento producido. Es distinta de la investigación *sobre* la IA en la educación: los diseños empleados para estudiar si la IA ayuda a quien aprende pertenecen a [[research-methods-aied]], la valoración de los sistemas de IA pertenece a [[ai-ed-evaluation]], y la lectura de un único estudio de AIED pertenece a [[interpreting-and-applying-aied-research]]. Esta página abarca el propio flujo de trabajo de quien investiga y la indagación de quien investiga y a la vez ejerce la docencia —la erudición de la enseñanza y el aprendizaje y la investigación en el aula— y las implicaciones epistémicas cuando la automatización entra en cualquiera de las dos. Su evidencia es escasa y reciente: una propuesta de marco, el relato reflexivo de un equipo de revisión, un pequeño estudio de grupo focal, una auditoría bibliométrica, un informe de taller y estudios de caso de un único investigador. Describe una dirección de viaje más que una práctica establecida, y la rama de la investigación del profesorado es la más débil de todas.
+> **Síntesis:** La investigación educativa asistida por IA es el uso de la IA como instrumento del propio trabajo académico de la disciplina: buscar y recuperar bibliografía, cribar registros para revisiones, codificar datos cualitativos, analizar datos, redactar y editar manuscritos, y la reflexión que pregunta qué hacen esas herramientas con el conocimiento producido. Es distinta de la investigación *sobre* la IA en la educación: los diseños empleados para estudiar si la IA ayuda a quien aprende pertenecen a [[research-methods-aied]], la valoración de los sistemas de IA pertenece a [[ai-ed-evaluation]], y la lectura de un único estudio de AIED pertenece a [[interpreting-and-applying-aied-research]]. Esta página abarca el propio flujo de trabajo de quien investiga y la indagación de quien investiga y a la vez ejerce la docencia —la erudición de la enseñanza y el aprendizaje y la investigación en el aula— y las implicaciones epistémicas cuando la automatización entra en cualquiera de las dos. Su evidencia es escasa y reciente: una propuesta de marco, el relato reflexivo de un equipo de revisión, un pequeño estudio de grupo focal, dos estudios bibliométricos, un informe de taller y estudios de caso de un único investigador. Describe una dirección de viaje más que una práctica establecida, y la rama de la investigación del profesorado es la más débil de todas.
 
 ## Preguntas para reflexionar
 
@@ -19355,6 +19483,32 @@ Lo que puede trasladarse es una disposición y no un resultado: nombrar el papel
 - **La investigación del profesorado está infrarrepresentada.** Solo un puñado de páginas aquí mencionan el SoTL o la investigación en el aula, así que el corpus no puede fundamentar afirmaciones sobre docentes que estudian su propia práctica.
 - **Un blanco móvil.** Las herramientas mejoran más rápido que la publicación, así que un hallazgo sobre un flujo de trabajo de 2025 describe una generación de sistemas que puede que ya no exista en esa forma.
 
+## Cita
+
+Martin, P. P., Rost, M., Koenen, J., & Graulich, N. (2026). [Amid an Epistemic Iteration: How AI Methodologies May Transform the Nature of Science Education Research](https://doi.org/10.1007/s11191-026-00789-7). *Science & Education*.
+
+Wang, X., Dadashipour, F., Basori, Maeda, Y., & Richardson, J. C. (2026). [Scaffolding systematic reviews in learning design and technology through mentoring and AI integration](https://doi.org/10.1007/s11423-026-10629-8). *Educational Technology Research and Development*.
+
+Dai, W., & Chan, C. K. Y. (2026). [Shaping responsible GenAI use in research through AI literacy-oriented guidelines: Insights from postgraduate students](https://doi.org/10.1186/s41239-026-00609-6). *International Journal of Educational Technology in Higher Education, 23*, 33.
+
+Denny, P., Barbre, G., Blake, M., Hua, Y. C., Leinonen, J., Luxton-Reilly, A., Prather, J., & Reeves, B. N. (2026). [Testing Our Foundations: Citation Trends, Errors, and Emerging Hallucinations in the Computing Education Literature](https://arxiv.org/abs/2609.16574). Preimpresión de arXiv.
+
+Zabaleta, M., & Lin, B. (2026). [PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews](https://arxiv.org/abs/2609.11559). Preimpresión de arXiv.
+
+Liu, Y., Arguello, J., Hoeber, O., et al. (2026). [Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)](https://arxiv.org/abs/2606.08936). *ACM SIGIR Forum*.
+
+Alzahrani, A. H. (2026). [Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study](https://arxiv.org/abs/2605.26870). Preimpresión de arXiv.
+
+Wang, H., Zhang, M., Bu, Y., Zhao, S. X., & Liu, M. (2026). [Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams](https://arxiv.org/abs/2605.27404). Preimpresión de arXiv.
+
+Lee, U., Lee, S., Jeong, Y., Lee, E., Shin, M., & Kwon, H. (2026). [EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners](https://arxiv.org/abs/2608.03206). Preimpresión de arXiv.
+
+Wang, H. D., Cohn, C., Xu, Z., Guo, S., Biswas, G., & Ma, M. (2026). [BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation](https://arxiv.org/abs/2602.13280). Preimpresión de arXiv.
+
+Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748). Preimpresión de arXiv.
+
+Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models](https://arxiv.org/abs/2607.28128). Preimpresión de arXiv.
+
 ## Conceptos conectados
 
 - [[research-methods-aied]] — el paraguas de los diseños empleados para estudiar la IA en la educación
@@ -19398,32 +19552,6 @@ Lo que puede trasladarse es una disposición y no un resultado: nombrar el papel
 - [[beagle-grounded-learner-emulation-2026]] — un simulador neurosimbólico que reproduce la dificultad genuina de las personas novatas (Wang et al., 2026)
 - [[llm-student-simulation-misconception-faithfulness]] — por qué los simuladores abandonan una concepción errónea ante cualquier retroalimentación, y cómo el entrenamiento lo corrige (Do, Sonkar y Sachan, 2026)
 - [[llm-judged-helpfulness-pedagogy-signal]] — una auditoría preregistrada que usa un estudiante simulado fijo para comprobar si las medidas de utilidad miden la pedagogía (Fan et al., 2026)
-
-## Cita
-
-Martin, P. P., Rost, M., Koenen, J., & Graulich, N. (2026). [Amid an Epistemic Iteration: How AI Methodologies May Transform the Nature of Science Education Research](https://doi.org/10.1007/s11191-026-00789-7). *Science & Education*.
-
-Wang, X., Dadashipour, F., Basori, Maeda, Y., & Richardson, J. C. (2026). [Scaffolding systematic reviews in learning design and technology through mentoring and AI integration](https://doi.org/10.1007/s11423-026-10629-8). *Educational Technology Research and Development*.
-
-Dai, W., & Chan, C. K. Y. (2026). [Shaping responsible GenAI use in research through AI literacy-oriented guidelines: Insights from postgraduate students](https://doi.org/10.1186/s41239-026-00609-6). *International Journal of Educational Technology in Higher Education, 23*, 33.
-
-Denny, P., Barbre, G., Blake, M., Hua, Y. C., Leinonen, J., Luxton-Reilly, A., Prather, J., & Reeves, B. N. (2026). [Testing Our Foundations: Citation Trends, Errors, and Emerging Hallucinations in the Computing Education Literature](https://arxiv.org/abs/2609.16574). Preimpresión de arXiv.
-
-Zabaleta, M., & Lin, B. (2026). [PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews](https://arxiv.org/abs/2609.11559). Preimpresión de arXiv.
-
-Liu, Y., Arguello, J., Hoeber, O., et al. (2026). [Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)](https://arxiv.org/abs/2606.08936). *ACM SIGIR Forum*.
-
-Alzahrani, A. H. (2026). [Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study](https://arxiv.org/abs/2605.26870). Preimpresión de arXiv.
-
-Wang, H., Zhang, M., Bu, Y., Zhao, S. X., & Liu, M. (2026). [Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams](https://arxiv.org/abs/2605.27404). Preimpresión de arXiv.
-
-Lee, U., Lee, S., Jeong, Y., Lee, E., Shin, M., & Kwon, H. (2026). [EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners](https://arxiv.org/abs/2608.03206). Preimpresión de arXiv.
-
-Wang, H. D., Cohn, C., Xu, Z., Guo, S., Biswas, G., & Ma, M. (2026). [BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation](https://arxiv.org/abs/2602.13280). Preimpresión de arXiv.
-
-Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748). Preimpresión de arXiv.
-
-Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models](https://arxiv.org/abs/2607.28128). Preimpresión de arXiv.
 
 ---
 
@@ -20358,6 +20486,8 @@ Se necesitan puntos de referencia condicionados por el contexto: [[zhang-tutormo
 - [[hallucination-risk]] — Riesgo de contenido fabricado en las salidas de IA
 - [[intelligent-tutoring]] — Evaluar los sistemas de tutoría con IA
 - [[agentic-ai]] — Evaluar la conducta de agentes de IA autónomos
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
+
 ## Artículos conectados
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Lo que se pierden las puntuaciones de plataforma: evaluación multidimensional de agentes de enseñanza con IA
 - [[assessment-latent-structure-human-llm-2026]] — ¿Miden lo mismo los instrumentos de evaluación para las personas y para los LLM? (Strugatski et al. 2026)
@@ -20460,6 +20590,7 @@ Los puntos de referencia se conectan con la [[ai-ed-evaluation|evaluación de la
 - **Restringir el corpus para hacer atribuible la afirmación de capacidad.** [[li-littlelearner-pedagogically-controlled-knowledge-exposure-2026|Li et al. (2026)]] filtran FineWeb-Edu a 88B tokens de material estadounidense de K–5 y entrenan desde cero un modelo de 5B con él, y después comprueban la costura mediante sondas conductuales y no puntuaciones —retención casi nula en pasajes de Más allá de K–5, colapso en ítems Jeopardy de Más allá de K–5, y menos de la mitad de problemas de MathCAMPS de 8.º grado resueltos incluso con pass@1024. Como la exposición previa es conocida, una capacidad que aparece tras el escalado, el postentrenamiento o los ejemplos en contexto puede atribuirse a la intervención; los autores también informan de que la frontera no tiene forma humana, ya que el modelo a veces supera una habilidad descendente mientras falla su prerrequisito.
 - **La regla de puntuación forma parte del instrumento.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ejecuta cuatro reglas de actualización del seguimiento del conocimiento sobre las mismas secuencias de eventos de ASSISTments 2012–13, que difieren solo en cómo puntúan las filas con ayuda, y preregistra las comparaciones tras una barrera que retiene la mitad confirmatoria del estudiantado hasta que el archivo de registro está presente. Acreditar cualquier finalización apenas supera una constante de dificultad de habilidad (AUC agrupada 0,604 frente a 0,595 en 985.813 eventos puntuados) y declara dominados el 93,9 por ciento de los pares estudiante–habilidad frente al 72,8 por ciento con una regla que lee las filas asistidas como primeros intentos fallidos (0,658) —la lección general es que una etiqueta de dominio la define la regla de evidencia, no el registro.
 - **Informar de la capacidad del modelo como un nivel calibrado, y no solo como exactitud.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] asignan 624 ítems anotados por personas expertas a niveles de competencia con nombre propio usando 2.050 respuestas de estudiantes, y encuentran que los modelos de frontera superan el techo calibrado: un límite que un porcentaje oculta.
+- **Una regla de puntuación puede ser burlada por el modelo al que entrena.** Una métrica de adaptabilidad que se maximiza repitiendo una única mejor decisión muestra que el diseño de benchmarks debería publicar el argmax, puntuar la adaptación como una diferencia e informar de líneas base por encima del azar ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo y Fernández De la Cruz, 2026]]).
 
 ## Conceptos conectados
 
@@ -20493,6 +20624,7 @@ Los puntos de referencia se conectan con la [[ai-ed-evaluation|evaluación de la
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: la tutoría con IA y la humana producen ganancias de aprendizaje equivalentes para el GRE
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluación de modelos preentrenados para la valoración pedagógica de nuevas preguntas educativas asistidas por IA
 - [[llm-benchmark-secondary-science-topics-2026]] — Un punto de referencia para la comprensión de temas de ciencias de secundaria por parte de los LLM
+- [[llm-tutor-pedagogical-metric-degradation-2026]] — Ocho principios de diseño para benchmarks de tutores de IA, derivados de una métrica que fue optimizada hasta la repetición (Domínguez Figaredo y Fernández De la Cruz 2026)
 
 ---
 
@@ -21080,6 +21212,9 @@ Una revisión sistemática del Reino Unido añade una capa sectorial a la misma 
 **Una matriz de valores y normas como base de política.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], una [[meta-analysis-systematic-review|revisión sistemática]] de 25 artículos, consolidan la ética de la AIED en seis [[ethics|valores éticos]] principales (no discriminación, custodia de datos, [[human-in-the-loop-ai|supervisión humana]], buena voluntad, explicabilidad e idoneidad educativa) y mapean las normas éticas extraídas de la literatura sobre una matriz de actores por valores. La revisión sitúa la matriz como base para construir marcos éticos detallados y regulación para la AIED, dando a las instituciones educativas, a los desarrolladores y a los reguladores normas concretas para implementar valores específicos. Encuentra que las normas de buena voluntad dirigidas a los reguladores son mucho más numerosas (nueve) que para cualquier otro conjunto de actores, lo que señala el papel de los reguladores a la hora de garantizar que la AIED beneficie a quienes aprenden mediante políticas y legislación: un punto de partida concreto y anclado en valores para la maquinaria de política y gobernanza que describe esta página.
 
 **Afirmaciones que viajan más lejos que sus matices.** Un anuncio piloto es también un instrumento de política, y sus estándares de comunicación forman parte de la política. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et al. (2026)]] analizan el episodio de El Salvador de septiembre de 2026, en el que un piloto de tutoría con IA en 171 escuelas públicas se presentó como con resultados comparables a los de Alemania y Suecia: frente al promedio alemán de [[math-education|matemáticas]] en PISA 2022, el 5,5% superior de la distribución nacional de rendimiento habría igualado la referencia sin ninguna ganancia de aprendizaje, y la evaluación del piloto cubrió 7,0 estudiantes por escuela frente a 25,4 en la encuesta nacional del mismo año, por lo que la evidencia publicada no puede excluir la selección como explicación. Su propuesta es un estándar de comunicación de seis puntos —la línea base de las escuelas participantes; el protocolo de muestreo (estudiantes elegibles, estudiantes evaluados, regla de identificación, tasa de participación); las puntuaciones desagregadas con errores estándar; la fecha operativa de cada componente de la reforma; la superposición con la muestra nacional representativa; y el matiz enunciado en el mismo documento, publicación o párrafo que la afirmación—, motivada por la aritmética de divulgación del propio anuncio: la publicación del Banco Mundial que llevaba la afirmación registró unas 441.000 visualizaciones frente a unas 11.000 de la publicación que llevaba el matiz cuatro posiciones más adelante en el mismo hilo. La lección de política es que, cuando un sistema usa resultados a nivel de escuela como evidencia sobre sí mismo, el formato de la divulgación decide qué afirmación se convierte en el hecho público.
+- **El lado del estudiantado en la regulación por tareas.** Con dos de las tres evaluaciones bajo un nivel idéntico de uso abierto, el formato de la evaluación siguió decidiendo para qué usaba el estudiantado la IA generativa: los usos de retroalimentación pasaron del 0% en una presentación andamiada al 66,7% en un examen para llevar a casa ([[genai-use-changing-institutional-policy-physics-2026|Quince y Faulconer (2026)]]).
+
+Un análisis a nivel de país de PISA 2022-2025 encontró que los países con mayor uso de IA generativa mostraban mayores declives en lectura y matemáticas, una asociación que desaparecía una vez controlado el rendimiento previo ([[genai-pisa-decline-countries-2026|Guerra y Aslanov, 2026)]). Los autores lo interpretan como una advertencia de que un acceso más amplio a los chatbots no debe tratarse como un beneficio en sí mismo, y piden despliegues acompañados de evaluación longitudinal.
 
 ### Política frente a gobernanza
 
@@ -21150,6 +21285,8 @@ Una [[meta-analysis-systematic-review|revisión sistemática]] de 65 artículos 
 - [[li-genai-assessment-language-equity-2026]] — Una frontera entre apoyo y sustitución basada en la finalidad, con declaración calibrada y rúbricas de decisión (Li, 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Inyección de prompts en la calificación mediada por IA: notas cambiadas sin ser detectadas y la respuesta a nivel de política (Humble, 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — 130 indicadores de gobernanza para autenticar la evaluación, y la presión externa que necesita la reforma (Coates, Croucher y Calderon, 2025)
+- [[genai-use-changing-institutional-policy-physics-2026]] — Nivel de política frente a diseño de tarea: para qué usó el estudiantado la IA generativa en tres evaluaciones de física (Quince y Faulconer 2026)
+- [[genai-pisa-decline-countries-2026]] — Un mayor uso a nivel de país de IA generativa acompañó a declives mayores en PISA 2022-2025, una correlación que se desvaneció al controlar el rendimiento previo (Guerra y Aslanov 2026)
 
 ---
 
@@ -21369,6 +21506,8 @@ La gestión del cambio es el complemento institucional de la integración a nive
 - [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus deberes. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en informática en la era de la IA generativa
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — trabajo de campo entre sistemas sobre cómo la implementación y las acciones del profesorado deciden si un producto de IA ayuda
 - [[dot-framework-survey-2026]] — evidencia de encuesta de que el desarrollo profesional debe cubrir un ciclo de diseño completo y no solo el uso de herramientas
+- [[flipped-classroom-ai-assessment-math-2026]] — Un arco de difusión de una década desde la iniciativa individual hasta la financiación central en matemáticas de grado (Law 2026)
+- [[flipped-classroom-ai-assessment-math-2026]] — Un arco de difusión de una década desde la iniciativa individual hasta la financiación central en matemáticas de grado (Law 2026)
 
 ---
 
@@ -21490,6 +21629,7 @@ La preparación importa más que la preferencia, y el derecho a rechazar se dist
 - **Sesgo en los datos de entrenamiento y en las salidas:** los datos de entrenamiento de la IA reflejan en gran medida perspectivas culturales dominantes. [[gender-bias-transfer-llm-writing|La investigación sobre la transferencia del sesgo de género]] muestra que la escritura asistida por LLM puede contaminar el trabajo del estudiantado con sesgo de género; [[paternalistic-filter-llm-history-education|los filtros en la enseñanza de la historia]] y [[ai-scoring-language-bias-physics|la corrección con IA]] pueden codificar supuestos occidentalocéntricos y lingüísticamente sesgados.
 - **Conocimientos marginados:** [[genai-minoritized-knowledges-disability|la investigación sobre conocimientos minorizados]] examina cómo la IA generativa margina los sistemas de conocimiento no dominantes y las perspectivas de la discapacidad en la [[higher-ed|educación superior]].
 - **Diversificación del [[curriculum-design|currículo]]:** el profesorado usa cada vez más los LLM para diversificar los materiales curriculares (Wang et al., 2025, encontraron que el 78% lo hacía), pero las listas de lectura seleccionadas con IA siguen infrarrepresentando a autores BIPOC, y los [[intelligent-tutoring|tutores de IA]] de [[stem-education|STEM]] recurren por defecto a contextos de problemas occidentalocéntricos.
+- **Las imágenes generadas repiten las normas visuales dominantes, lo que convierte el uso crítico en una competencia y no en un añadido.** Jiang et al. (2026) observan que la generación de imágenes con IA generativa reproduce normas multimodales dominantes como el sesgo visual, y advierten de que una evaluación multimodal que lo ignore corre el riesgo de automatizar y reproducir desigualdades; su marco para el profesorado de segundas lenguas exige por ello la competencia de ayudar al estudiantado a detectar, evaluar y contraargumentar las salidas sesgadas del modelo ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
 
 ## Equidad de resultados
 
@@ -21514,6 +21654,7 @@ La preparación importa más que la preferencia, y el derecho a rechazar se dist
 - **Los métodos con mejor evidencia son los menos escalables.** En un taller con 73 docentes de informática, la evaluación oral e interactiva se señaló como la evidencia más sólida disponible de comprensión individual y como el remedio menos escalable propuesto —planteado en una sala con más de 400 estudiantes y un puñado de ayudantes—, de modo que las estrategias con un vínculo más claro con el aprendizaje verificado se sitúan en las instituciones que enseñan a menos estudiantes, una brecha de equidad entre instituciones y no dentro de una cohorte ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 - **La calidad de la tutoría cambia con la demografía del estudiantado.** EduFair-Bench empareja un [[simulating-students|estudiante LLM]] fijo con cada tutor a lo largo de nueve niveles demográficos que abarcan género, antecedentes migratorios, primera lengua y estatus socioeconómico, y puntúa cinco métricas pedagógicas por turno. En la [[intelligent-tutoring|tutoría con LLM]] las mayores desviaciones aparecen en condiciones demográficas explícitas: el andamiaje por pasos correlaciona hasta |r| = 0,144 en matemáticas, y el tono correctivo supera 0,10 en todos los modelos en [[chemistry-education|química]] (0,102-0,168) y [[physics-education|física]] (0,129-0,294); además, en 11 de las 15 celdas de modelo por dominio la condición de respuesta incorrecta puntuó más alto que la correcta, lo que indica que el tono seguía la etiqueta demográfica del estudiante y no la calidad de su razonamiento. El [[reinforcement-learning|aprendizaje por refuerzo]] específico de la pedagogía redistribuyó estas brechas en lugar de eliminarlas. ([[edufair-bench-pedagogical-fairness-llm-tutors-2026]])
 - **Las señales demográficas implícitas son un canal de sesgo menos controlable que los atributos declarados.** [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto y Hovy (2026)]] mantuvieron fija la entrada de cada tarea y variaron solo el contexto demográfico en seis [[llm|LLM]] ajustados por instrucciones y tres tareas educativas, lo que produjo 192.480 llamadas de inferencia, y separaron las señales *explícitas* (atributos declarados del estudiante) de las *implícitas*, transportadas por un historial de [[conversational-ai|conversación]] de diez prompts. En la [[automated-essay-scoring|corrección automática de ensayos]] la mayoría de los modelos resultó comparativamente estable bajo el condicionamiento explícito, mientras que el implícito infló las puntuaciones: Llama-70B puntuó 1,57 puntos por encima de su propio valor por defecto (p < 0,001). En la respuesta a preguntas metalingüísticas, la condición implícita derivó en la dirección opuesta: las respuestas correspondientes a niveles educativos más bajos recibieron un sentimiento menos positivo, con una brecha media de 0,3 entre el nivel educativo más bajo y los más altos en una escala de 0 a 4 frente a una desviación estándar intraelemento de 0,07. La dificultad para la equidad es estructural: la señal no es un atributo declarado que una política pueda prohibir ni un campo de prompt que una auditoría pueda inspeccionar, sino una propiedad de la propia interacción.
+- **La verificación puede redirigir una ganancia hacia el estudiantado más débil.** [[verified-study-materials-learning-gains-2026|Dang y Nguyen (2026)]] encontraron que unos materiales de estudio con IA verificados por personas expertas, en un curso de economía de primer año, se asociaban a una ganancia de 2,34 puntos, pero aproximadamente tres cuartas partes se concentraron en el quintil inferior, y la proporción de notas por debajo del límite del 60% cayó 24,7 puntos: se traslada la carga de la comprobación del estudiantado a una tutoría responsable.
 
 ## Inclusión lingüística, cultural y de la discapacidad
 
@@ -21602,6 +21743,10 @@ La preparación importa más que la preferencia, y el derecho a rechazar se dist
 - [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Ganancias de aprendizaje agrupadas con IA generativa (g=0,53) y el acceso desigual a herramientas costosas que no pueden captar
 
 - [[intelligent-tutoring-mathematics-education-review-2026]] — Revisión de la tutoría con IA en matemáticas que concluye que las afirmaciones de inclusividad y de reducción de brechas no están respaldadas
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Cómo entra el sesgo visual de la IA generativa en la evaluación multimodal, y por qué contraargumentarlo es una competencia del profesorado
+- [[rented-self-decoupling-performance-becoming-2026]] — El yo alquilado: la renta que se paga en dinero, yo y normas, y las licencias que terminan al graduarse
+- [[verified-study-materials-learning-gains-2026]] — Verificado, no generado: materiales de estudio con IA verificados por personas expertas y la distribución de las ganancias de aprendizaje en un curso universitario
+- [[rented-self-decoupling-performance-becoming-2026]] — El yo alquilado: la renta que se paga en dinero, yo y normas, y las licencias que terminan al graduarse
 
 ---
 
@@ -22716,6 +22861,8 @@ Los artículos sobre ética de la base de conocimiento van desde marcos teórico
 
 Ese argumento práctico se refuerza con trabajo empírico sobre cómo funciona la ética dentro de la propia alfabetización en IA: Zhu y Kong (2026) muestran que la conciencia ética sobre la IA, junto con el empoderamiento en la [[problem-solving|resolución de problemas]] con IA, media la relación entre el [[project-based-learning|aprendizaje basado en proyectos]] percibido y la satisfacción con un curso de alfabetización en IA. Su escala AI-PBLS validada y sus resultados de SEM (1.027 estudiantes) indican que el ABP crea condiciones en las que el estudiantado construye un marco personal de razonamiento ético sobre la IA, lo que refuerza el argumento de que la ética no es un añadido, sino un mecanismo central de un desarrollo significativo de la alfabetización en IA.
 
+**El signo de ese mecanismo depende de lo que viene después.** Entre 584 estudiantes de grado cuya competencia en IA provenía del autoestudio, la competencia elevó la conciencia ética sobre la IA (β = 0,644, p < ,001). La conciencia ética elevó a su vez la ansiedad ante la IA (β = 0,439, p < ,001) en lugar de reducirla: una mediación solo indirecta, que los autores leen como conciencia despertada sin marco de afrontamiento ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]]). Su conclusión para la enseñanza de la ética es que no puede detenerse en el nivel cognitivo. Una preocupación por la transparencia o la privacidad tiene que llegar acompañada de la vía de gobernanza que la responde, y por eso su módulo propuesto se sitúa dentro de la educación jurídica.
+
 ## Conexiones
 
 La ética se conecta con la [[equity-in-ai-education|equidad]], la [[privacy|privacidad]], la [[bias-mitigation|mitigación de sesgos]], la [[regulation|regulación]], la [[pedagogical-safety|seguridad pedagógica]], la [[academic-integrity|integridad académica]] y la [[governance|gobernanza]]. Es el fundamento normativo de todos los demás conceptos de la IA en la educación: el marco en el que se plantean y se resuelven las cuestiones de justicia, transparencia, autonomía y seguridad.
@@ -22763,6 +22910,9 @@ La ética se conecta con la [[equity-in-ai-education|equidad]], la [[privacy|pri
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Uso, ética y política de la IA generativa a lo largo del tiempo en la formación del profesorado (Parker et al. 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Valores y normas éticas para la IA en la educación
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — La conciencia ética amplificó la ansiedad ante la IA allí donde no se enseñó un marco de afrontamiento: mediación solo indirecta entre 584 estudiantes
+- [[ethically-mediated-ai-tpack-china-2026]] — El conocimiento ético sobre la IA como mediador integrador en el AI-TPACK del profesorado universitario (Chen et al. 2026)
+- [[ethically-mediated-ai-tpack-china-2026]] — Hacia un nuevo marco AI-TPACK: la ética como mediadora integradora del conocimiento técnico sobre IA (Chen et al. 2026)
 
 ---
 
@@ -26598,7 +26748,7 @@ La redacción asistida por IA abarata la producción de una cita inventada y pla
 
 La adopción ha ido por delante de la notificación. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta y Lin (2026)]] analizaron 888 artículos sobre automatización de revisiones: desde 2023, el 38,0% de los artículos sobre software y productos no informaba de ninguna evaluación, frente al 9,3% de los artículos sobre LLM, y el acceso a los modelos era abrumadoramente propietario (84,1%). Incluso una valoración global favorable no implicaba aptitud para delegar: el 52% de 118 artículos sobre LLM solo con resultados positivos seguía informando de una preocupación de que el flujo de trabajo quedaba por debajo del umbral exigido por su función. Su marco, PRISMA-LLM, separa la declaración de la implementación de la evaluación sensible a las consecuencias, y trata sus cinco niveles como niveles de declaración y no como niveles de riesgo. La conclusión práctica es que la profundidad de evaluación de un flujo de trabajo debería *enunciarse*, no darse por supuesta: nombre el sistema, la versión, las indicaciones, qué comprobaron las personas y dónde falló.
 
-### La concordancia entre dos codificadores de IA no es evidencia de calidad
+### La concordancia no es evidencia de calidad
 
 Una concordancia alta con personas codificadoras —o entre dos modelos— se informa sistemáticamente como si estableciera la corrección. No lo hace. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] hicieron que un experto independiente juzgara 855 conjuntos de códigos por pares a ciegas respecto de la fuente: la concordancia persona–LLM (Jaccard media 0,30) quedó muy por debajo de la concordancia persona–persona (0,52), y aun así el verificador ciego prefirió la codificación humana y la de la máquina a tasas indistinguibles (51,5% frente a 48,5%, p = 0,537). En ocasiones, el consenso humano codificaba un sesgo compartido que el verificador rechazó en favor del modelo. Adopte la verificación ciega, informe del estándar de referencia y de quién adjudicó, y encamine por código en lugar de tratar el proceso como un único entorno uniforme de revisión humana.
 

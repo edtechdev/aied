@@ -106,6 +106,12 @@ OFFLINE_TITLE = LOCALE_ENTRY.get('offlineTitle') or ''
 BOOK_TITLE = (OFFLINE_TITLE if (not IS_DEFAULT and OFFLINE_TITLE)
               else (NAME if IS_DEFAULT else f'{NAME} ({LOCALE_LABEL})'))
 BOOK_LANG = LOCALE
+# The Notice page's own <style>. A translated edition names a CJK fallback so its
+# Chinese does not fall back per-platform; the default edition keeps Georgia alone,
+# so its bytes never move.
+NOTICE_FONT = ("Georgia, 'Noto Serif CJK SC', 'Noto Sans CJK SC', serif"
+               if not IS_DEFAULT else "Georgia, serif")
+
 # The site's name as the locale writes it (the book's own title when the locale
 # has one), so the notice prose reads in the locale throughout rather than
 # dropping the English site name into a translated sentence.
@@ -465,10 +471,16 @@ GENERATED_DATE = datetime.date.today().strftime('%B %d, %Y')
 _LOCALIZED_MONTHS = {
     'es': ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio',
            'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'],
+    'zh': ['1月', '2月', '3月', '4月', '5月', '6月', '7月',
+           '8月', '9月', '10月', '11月', '12月'],
 }
 if LOCALE in _LOCALIZED_MONTHS:
     _d = datetime.date.today()
-    GENERATED_DATE = f'{_d.day} de {_LOCALIZED_MONTHS[LOCALE][_d.month - 1]} de {_d.year}'
+    if LOCALE == 'zh':
+        # Chinese writes the year first: 2026年10月9日, not 10月9日, 2026.
+        GENERATED_DATE = f'{_d.year}年{_d.month}月{_d.day}日'
+    else:
+        GENERATED_DATE = f'{_d.day} de {_LOCALIZED_MONTHS[LOCALE][_d.month - 1]} de {_d.year}'
 # --- assemble markdown ---
 parts = []
 
@@ -1068,8 +1080,22 @@ def _locale_cover_path():
     except Exception as e:  # pragma: no cover - Pillow is a build dependency
         print(f'Warning: Pillow unavailable ({e}); using the English cover')
         return default
-    title_font_path = '/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf'
-    node_font_path = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
+    # A translated cover must draw its own script. DejaVu carries no CJK glyphs, so a
+    # DejaVu-rendered Chinese cover comes out as tofu boxes; the Noto CJK faces cover
+    # every script a translated edition can carry, so they are used whenever present and
+    # DejaVu remains the fallback for the Latin-only default edition.
+    cjk_serif = '/usr/share/fonts/opentype/noto/NotoSerifCJK-Bold.ttc'
+    cjk_sans = '/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc'
+    dejavu_serif = '/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf'
+    dejavu_sans = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
+    # A .ttc bundles JP/KR/SC/TC/HK as faces 0-4. Simplified Chinese, Japanese and
+    # Korean share a Han set but disagree on glyph shapes, so each locale picks its own
+    # face rather than accepting the JP default, which renders SC in Japanese forms.
+    CJK_FACE_INDEX = {'zh': 2, 'ja': 0, 'ko': 1}.get(LOCALE, 0)
+    if os.path.exists(cjk_serif) and os.path.exists(cjk_sans):
+        title_font_path, node_font_path = cjk_serif, cjk_sans
+    else:
+        title_font_path, node_font_path = dejavu_serif, dejavu_sans
     if not (os.path.exists(title_font_path) and os.path.exists(node_font_path)):
         print('Warning: cover fonts not found; using the English cover')
         return default
@@ -1087,10 +1113,10 @@ def _locale_cover_path():
         if not line:
             continue
         size = 64
-        font = ImageFont.truetype(title_font_path, size)
+        font = ImageFont.truetype(title_font_path, size, index=CJK_FACE_INDEX)
         while font.getlength(line) > W - 100 and size > 24:
             size -= 2
-            font = ImageFont.truetype(title_font_path, size)
+            font = ImageFont.truetype(title_font_path, size, index=CJK_FACE_INDEX)
         d.text((W // 2, y), line, font=font, fill='#0b1220', anchor='mm')
 
     # Concept map: same radial geometry as ConceptMap.astro / the cover script,
@@ -1123,14 +1149,14 @@ def _locale_cover_path():
                              OX + x + RECT_W / 2, OY + y + RECT_H / 2],
                             radius=14, fill='#dbeafe', outline='#3b82f6', width=2)
         d.text((OX + x, OY + y + 6), text,
-               font=ImageFont.truetype(node_font_path, label_size(text)),
+               font=ImageFont.truetype(node_font_path, label_size(text), index=CJK_FACE_INDEX),
                fill='#0b1220', anchor='mm')
 
     csize = 15 if len(center) >= 16 else 20
     d.rounded_rectangle([OX + CX - 95, OY + CY - 31, OX + CX + 95, OY + CY + 31],
                         radius=16, fill='#3b82f6')
     d.text((OX + CX, OY + CY + 7), center,
-           font=ImageFont.truetype(node_font_path, csize),
+           font=ImageFont.truetype(node_font_path, csize, index=CJK_FACE_INDEX),
            fill='#ffffff', anchor='mm')
 
     # Public-domain mark: the CC0 circled zero, square, on the same baseline as
@@ -1143,10 +1169,10 @@ def _locale_cover_path():
         img.paste(mark, ((W - M) // 2, 1252), mark)
         pd_label = _nt('publicDomain', 'Public Domain')
         lsize = 34
-        lfont = ImageFont.truetype(title_font_path, lsize)
+        lfont = ImageFont.truetype(title_font_path, lsize, index=CJK_FACE_INDEX)
         while lfont.getlength(pd_label) > W - 120 and lsize > 18:
             lsize -= 2
-            lfont = ImageFont.truetype(title_font_path, lsize)
+            lfont = ImageFont.truetype(title_font_path, lsize, index=CJK_FACE_INDEX)
         d.text((W // 2, 1372), pd_label, font=lfont, fill='#0b1220', anchor='mm')
 
     img.save(out)
@@ -1177,7 +1203,21 @@ def build_epub():
     # page (with the CC0 mark), rename the TOC title, and remove Back-to-Contents.
     import zipfile, shutil, re as _re, base64
 
-    css_rule = """
+    # A translated edition's text is mostly CJK, and pandoc's default stylesheet names
+    # only Georgia — which has no Han glyphs, so readers fall back per-platform and the
+    # Chinese renders as boxes on any device without its own CJK fallback. Appending an
+    # explicit CJK stack fixes every translated edition at once.
+    script_rule = '' if IS_DEFAULT else """
+/* ===== Script font stack (translated editions) ===== */
+
+/* Latin keeps Georgia; Han glyphs resolve to Noto CJK, which every mainstream reader
+   bundles or can resolve from the system. */
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, li, td, th {
+  font-family: Georgia, 'Noto Serif CJK SC', 'Noto Serif CJK JP', 'Noto Serif CJK KR',
+               'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Noto Sans CJK KR', serif;
+}
+"""
+    css_rule = script_rule + """
 /* ===== EPUB table of contents styling ===== */
 
 /* Left-align the TOC (some readers center it by default). */
@@ -1238,6 +1278,10 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
         for item in zin.infolist():
             data = zin.read(item.filename)
             if item.filename.endswith('.css'):
+                # css_rule is the TOC styling every edition needs, plus the script
+                # stack that only a translated edition needs. It is always appended;
+                # gating the whole rule here stripped the default edition's TOC
+                # styling, which is not locale-dependent.
                 data += css_rule.encode('utf-8')
             elif item.filename == 'EPUB/nav.xhtml':
                 text = data.decode('utf-8', errors='ignore')
@@ -1279,7 +1323,7 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
   <meta charset="utf-8" />
   <title>Notice</title>
   <style>
-    body {{ font-family: Georgia, serif; margin: 3em 2em; }}
+    body {{ font-family: {NOTICE_FONT}; margin: 3em 2em; }}
     h1 {{ font-size: 1.6em; }}
     .pd-mark {{ margin-top: 1.5em; }}
     .pd-mark img {{ width: 1.15em; height: 1.15em; vertical-align: middle; }}
@@ -1325,7 +1369,7 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
   <meta charset="utf-8" />
   <title>{_nt('noticeLabel', 'Notice')}</title>
   <style>
-    body {{ font-family: Georgia, serif; margin: 3em 2em; }}
+    body {{ font-family: {NOTICE_FONT}; margin: 3em 2em; }}
     h1 {{ font-size: 1.6em; }}
     .pd-mark {{ margin-top: 1.5em; }}
     .pd-mark img {{ width: 1.15em; height: 1.15em; vertical-align: middle; }}
@@ -1377,6 +1421,16 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
 
 PDF_OUT = os.path.join(WIKI, 'public', f'aied{SUFFIX}.pdf')
 PDF_CSS = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'pdf-style.css')
+# A CJK locale also loads the script stack on top (see pdf-style.cjk.css). It is
+# a separate file because weasyprint embeds every font a stylesheet names even
+# when no glyph is used: naming the CJK faces in the shared sheet added three
+# unused CJK subsets to the English PDF (+208 KB).
+PDF_CSS_ARGS = ['--css=' + PDF_CSS]
+if LOCALE in ('zh', 'ja', 'ko'):
+    cjk_css = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                           'pdf-style.cjk.css')
+    if os.path.exists(cjk_css):
+        PDF_CSS_ARGS.append('--css=' + cjk_css)
 
 
 def build_pdf():
@@ -1473,8 +1527,7 @@ def build_pdf():
         '--toc', '--toc-depth=3',
         '--include-before-body=' + pre_html,
         '--include-in-header=' + pdf_header,
-        '--css=' + PDF_CSS,
-    ]
+    ] + PDF_CSS_ARGS
     r = subprocess.run(cmd, capture_output=True, text=True)
     if r.returncode != 0:
         print('pandoc/pdf error:', r.stderr[-2000:])
