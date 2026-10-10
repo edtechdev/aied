@@ -1,0 +1,45 @@
+# AI in Education Knowledge Base
+> A comprehensive knowledge base of 2 concepts, 0 research articles, and 32 FAQs covering AI in education — frameworks, methodologies, and papers.
+
+## Concepts
+
+- [L'IA en éducation](https://edtechdev.github.io/aied/concepts/ai-education/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [L'apprentissage tout au long de la vie](https://edtechdev.github.io/aied/concepts/lifelong-learning/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+
+## FAQs
+
+- [Comment aborder les idées fausses courantes sur l'IA en éducation ?](https://edtechdev.github.io/aied/faqs/addressing-common-misconceptions-ai-education/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment les agents d'IA peuvent-ils aider les étudiants et les enseignants ?](https://edtechdev.github.io/aied/faqs/ai-agents-support-students-instructors/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment l'IA affecte-t-elle l'anxiété et le bien-être des étudiants, et que pouvons-nous faire ?](https://edtechdev.github.io/aied/faqs/ai-anxiety-wellbeing/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment l'IA peut-elle soutenir les apprenants en situation de handicap et neurodivergents dans mon cours ?](https://edtechdev.github.io/aied/faqs/ai-disabled-neurodivergent-learners/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment l'IA peut-elle m'aider à donner de meilleures rétroactions à grande échelle ?](https://edtechdev.github.io/aied/faqs/ai-feedback-at-scale/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment les parents et les enseignants devraient-ils aborder l'IA avec les enfants de moins de 13 ans ?](https://edtechdev.github.io/aied/faqs/ai-guidance-children-under-13/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Que disent les données probantes sur les interventions de littératie en IA dans l'enseignement supérieur ?](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment l'IA peut-elle me faire gagner du temps en tant qu'enseignant ?](https://edtechdev.github.io/aied/faqs/ai-save-instructor-time/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment concevoir et animer des cours en ligne asynchrones quand l'IA peut faire le travail ?](https://edtechdev.github.io/aied/faqs/asynchronous-online-courses-ai/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment rédiger une politique d'usage de l'IA pour un cours et la communiquer aux étudiants ?](https://edtechdev.github.io/aied/faqs/course-ai-policy/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment l'IA doit-elle être conçue dans l'expérience d'apprentissage ?](https://edtechdev.github.io/aied/faqs/designing-ai-into-learning/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Quelles sont les bonnes pratiques et les conseils pour concevoir un logiciel éducatif d'IA efficace ?](https://edtechdev.github.io/aied/faqs/designing-educational-ai-software/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Quelles sont les bonnes pratiques pour développer un tuteur d'IA efficace ?](https://edtechdev.github.io/aied/faqs/developing-ai-tutor/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Utiliser l'IA aide-t-il réellement mes étudiants à apprendre ?](https://edtechdev.github.io/aied/faqs/does-ai-help-students-learn/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment la recherche sur l'IA en éducation doit-elle intégrer l'équité, l'accessibilité, la confidentialité, l'éthique et la sécurité pédagogique ?](https://edtechdev.github.io/aied/faqs/equity-ethics-pedagogical-safety-research/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Quelles mesures et méthodes de recherche un enseignant peut-il utiliser pour évaluer les interventions liées à l'IA ?](https://edtechdev.github.io/aied/faqs/evaluating-ai-interventions-methods/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Quelles compétences les enseignants doivent-ils posséder à l'égard de l'IA ?](https://edtechdev.github.io/aied/faqs/faculty-ai-competencies/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment concevoir un développement professionnel sur l'IA qui change réellement les pratiques enseignantes ?](https://edtechdev.github.io/aied/faqs/faculty-development-ai/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment gérer l'IA dans les travaux de groupe et collaboratifs ?](https://edtechdev.github.io/aied/faqs/group-work-ai/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Quel est l'impact de l'IA sur les étudiants ?](https://edtechdev.github.io/aied/faqs/how-ai-impacts-students/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment intégrer la littératie en IA dans mon cours ?](https://edtechdev.github.io/aied/faqs/incorporating-ai-literacy/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment rédiger et mettre en œuvre une politique institutionnelle sur l'IA ?](https://edtechdev.github.io/aied/faqs/institutional-ai-policy/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment repenser l'évaluation pour qu'une note me dise encore quelque chose de défendable sur ce que l'étudiant sait ou sait faire ?](https://edtechdev.github.io/aied/faqs/redesign-assessment-ai-era/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment puis-je réduire la triche par IA dans mon cours ?](https://edtechdev.github.io/aied/faqs/reduce-ai-cheating/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment éviter que les étudiants ne dépendent excessivement de l'IA ?](https://edtechdev.github.io/aied/faqs/reducing-over-reliance/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Quelles sont les bonnes pratiques pour rapporter et interpréter la recherche sur l'IA en éducation ?](https://edtechdev.github.io/aied/faqs/reporting-interpreting-aied-research/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Quelles lacunes notables existe-t-il dans la littérature de recherche sur l'IA en éducation ?](https://edtechdev.github.io/aied/faqs/research-gaps-aied/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Devrait-on utiliser des détecteurs d'IA ?](https://edtechdev.github.io/aied/faqs/should-we-use-ai-detectors/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment utiliser l'IA pour étudier et apprendre efficacement ?](https://edtechdev.github.io/aied/faqs/study-with-ai/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Quels sont les 10 principaux résultats de la recherche sur l'IA en éducation que les enseignants devraient connaître ?](https://edtechdev.github.io/aied/faqs/top-10-findings-ai-education-instructors/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Comment apprendre aux étudiants à vérifier les productions de l'IA ?](https://edtechdev.github.io/aied/faqs/verify-ai-output/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [Quelles sont les bonnes pratiques pour enseigner l'écriture dans le contexte de l'IA ?](https://edtechdev.github.io/aied/faqs/writing-instruction-ai-best-practices/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+
+## Articles
+
