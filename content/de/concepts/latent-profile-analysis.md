@@ -1,5 +1,5 @@
 ---
-title: "Latent Profile Analysis"
+title: Latent-Profile-Analyse
 created: "2026-09-20T12:39:59-04:00"
 updated: "2026-10-10T09:04:22-04:00"
 type: concept

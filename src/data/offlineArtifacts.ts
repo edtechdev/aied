@@ -80,6 +80,24 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
       "url": "/aied/llms.zh-concepts.txt",
       "bytes": 4455603
     }
+  },
+  "de": {
+    "epub": {
+      "url": "/aied/aied.de.epub",
+      "bytes": 2811765
+    },
+    "pdf": {
+      "url": "/aied/aied.de.pdf",
+      "bytes": 7456716
+    },
+    "llms": {
+      "url": "/aied/llms.de.txt",
+      "bytes": 59502
+    },
+    "llmsConcepts": {
+      "url": "/aied/llms.de-concepts.txt",
+      "bytes": 5513791
+    }
   }
 };
 

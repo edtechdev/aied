@@ -1,5 +1,5 @@
 ---
-title: "Community of Inquiry"
+title: Untersuchungsgemeinschaft
 created: "2026-08-23T15:30:00-04:00"
 updated: "2026-10-10T09:04:23-04:00"
 type: concept
