@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-08T09:45:00-04:00"
+updated: "2026-10-10T14:20:00-04:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -26,6 +26,8 @@ reviewed_by: [editor]
 Simulated students are a [[research-methods-aied|methodological]] tool: agents that stand in for real learners so that tutoring systems, curricula, and instructional strategies can be evaluated and iterated without recruiting cohorts of human students. [[llm|Large language models]] have made this paradigm far more scalable and linguistically realistic than the rule-based simulated learners that preceded them, while also introducing new validity challenges.
 
 AI-mediated approximations sharpen the question the page cares about: whom the simulation represents, and what the teacher is meant to notice. In mathematics teacher education, [[bondurant-shaughnessy-ai-pedagogies-practice-2026|text-based simulated student work and chatbot partners]] used in rehearsal extend the approximations of practice that already organize professional training. One [[conversational-ai|chatbot]] study produced four distinct questioning profiles, yet pre-service teachers' [[self-assessment|self-assessments]] did not align with the interaction quality observers recorded, which makes automated post-rehearsal feedback that increased probing and exploring questions a useful but insufficient guide. The simulator, the candidate and the feedback all have to be read together. What a simulation lets a teacher notice is also set by its design: in [[preservice-teachers-noticing-ai-simulations-2026|Galiç et al.'s (2026) three-week equal-sign intervention]] with 17 preservice mathematics teachers, candidates moved among attending, interpreting and shaping rather than through a fixed sequence, but the one-to-one, text-based setup meant shaping collapsed into questioning and [[prompt-engineering|prompting]], and a misconception-first design pulled attention toward error detection rather than student strengths. The simulator chooses the slice of teaching a candidate gets to rehearse.
+
+Supervised finetuning alone conditions a simulator only weakly on the prompted ability, because its objective rewards reproducing response text rather than tying response quality to ability; [[cross-ability-preferences-item-difficulty-2026|Fernandez et al. (2026)]] align a simulator instead through direct preference optimization over pairs formed from students' IRT ability gaps, and on CodeWorkout that pairing beats all direct difficulty-prediction baselines and, at the 1B scale, the SMART simulator on every difficulty metric while producing more distributionally realistic responses.
 
 ### Why simulate students
 
