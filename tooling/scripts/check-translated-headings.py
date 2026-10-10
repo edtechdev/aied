@@ -20,6 +20,11 @@ import content_paths  # noqa: E402  — the ONE resolver for the content root
 # site.config.json, so adding a locale cannot leave this gate behind.
 LOCALES = list(content_paths.TRANSLATED)
 
+# A trailing '## Citation' is legal after the connected lists on a page whose English
+# source carries one (article-style concept pages). These are the localized labels the
+# renderer accepts for it, so a translated '## 引用' is drift, not an invented heading.
+CITATION_LABELS = {'citation', '引用'}
+
 # Kept in step with src/i18n/sectionHeadings.ts by CONNECTED_HEADINGS below; the script
 # parses that module so the two can never disagree.
 def canonical() -> dict:
@@ -60,7 +65,19 @@ def main() -> int:
             if present:
                 checked += 1
                 expected = [h for h in (cc, ca) if h in present]
-                if present != expected or headings[-len(present):] != present:
+                # A few concept pages carry a trailing '## Citation' after the connected
+                # lists (article-style pages that a translation must preserve). That is
+                # the source page's own shape, not invented drift, so allow exactly that
+                # one trailing section rather than forcing the translator to delete it.
+                # Drop a single trailing Citation section (localized labels included) so a
+                # page whose English source ends '... Connected Articles / Citation' still
+                # matches: the connected lists are the closing sections of the PAGE BODY.
+                body_tail = list(headings)
+                if body_tail and (body_tail[-1].lower() == 'citation'
+                                  or body_tail[-1] in CITATION_LABELS):
+                    body_tail = body_tail[:-1]
+                tail = body_tail[-len(present):]
+                if present != expected or tail != present:
                     problems.append(
                         f'{path.relative_to(ROOT)}: connected sections are {present}, expected {expected} '
                         f'as the closing sections (page ends with {headings[-2:]})')
