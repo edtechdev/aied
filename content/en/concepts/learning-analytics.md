@@ -95,6 +95,8 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 
 Process-level instrumentation is the descriptive layer's next step down. [[pulla-parsons-problem-tool-2026|Prol et al. (2026)]] extended an [[open-source]] Parsons-problem platform to record every block placement, removal and submission as a chronological trace, pair each submission with per-block correctness coloring and an attempt history, and optionally pass the traces through an [[llm]] pipeline that labels recurring difficulty patterns for instructor review. Across 68 students in an upper-division Java software-design course and 36 in an introductory Python course the analysis surfaced the same three difficulties — choosing the wrong exception type, substituting `return` for `throw`, and incorrect control-flow ordering — which correctness-and-attempt counts cannot expose, because they answer *whether* the arrangement was right rather than *what the process was*. The AI acts as an interpreter for the [[teacher-role|instructor]] rather than a scorer of the student, and its output is framed as a reviewable hypothesis about a class's difficulties rather than a grade.
 
+- **The learning system wall: log data doesn't generalize across platforms.** MATHia, i-Ready, and IXL each define even basic constructs — an "attempt," a "hint" — differently, so models can't transfer between them. A work-in-progress response attacks the problem from the video side: a Gemini pipeline distills tutoring screen recordings into a single screenplay transcript aligned to native MATHia logs as ground truth. What video recovers that no single stream does: whiteboard scaffolding, silent calculator work in external tools, and off-screen context that native logs reduce to "idleness." Open challenges remain in temporal anchoring, clock drift, and separating platform events from other learning processes. ([[thomas-breaking-learning-system-wall-2026]])
+
 ## Connected Concepts
 
 - [[explainable-ai]]
@@ -149,3 +151,4 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk from early-semester LMS traces (AUC 0.763)
+- [[thomas-breaking-learning-system-wall-2026]] — Towards breaking the learning system wall using multimodal tutoring transcriptions (Thomas et al. 2026)

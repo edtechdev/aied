@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 220 concepts, 1664 articles, and 37 FAQs.
+> Complete text of 220 concepts, 1678 articles, and 37 FAQs.
 
 # Concepts
 
@@ -751,6 +751,8 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - **Three interaction pathways, not one behavior.** The Neuroplasticity-AI Interaction Model (NAIM) separates direct bypass, where the model supplies the solution and generative effort disappears; cognitive offloading, where specific sub-processes are delegated and the effect depends on whether those sub-processes are the learning target; and scaffolding, where the model constrains help to preserve effortful processing ([[naim-bypass-offload-scaffold-llm-learning-2026]])
 
 Two controlled studies in the recent batch pin down the two halves of this claim — whether the behavior shifts, and what it was protecting. [[metacognitive-feedback-anti-deskilling-offloading-2026|Maier et al. (2026)]] made the learning consequence of offloading visible before each choice in a preregistered experiment with 704 participants practicing fraction arithmetic: odds of offloading an answer fell to OR = 0.47 and odds of answering a later unaided test item correctly rose to OR = 1.51, while an effort-based reward moved neither outcome. Offloading compounded within the session — after offloading one item, participants offloaded the next in 69.7% of cases without the feedback and 55.9% with it — and a ten-percentage-point rise in offloading was associated with 32% lower odds of unaided success (OR = 0.68). [[chatgpt-programming-performance-retention-ownership-2026|Bergh et al. (2026)]] supply the outcome-side complement: 55 computer science undergraduates who coded with ChatGPT scored 89% against 69% without it, recalled less of the same material immediately (41% vs. 53%) and at 48 hours (39% vs. 52%), and attributed only 45% of the submitted code to themselves against 81%. Read together, the feedback study shows the behavior can be shifted without restricting access to the tool, and the programming study shows what the shifted behavior was protecting.. The model is calibrated against the strongest available field evidence: unrestricted GPT-4 access in a study of nearly 1,000 high-school [[math-education|mathematics]] students raised practice performance by 48% yet left a 17% deficit on the unassisted exam, whereas hint-constrained GPT Tutor produced a 127% practice gain with the exam deficit largely eliminated. Offloading is therefore harmful only in the bypass configuration, and the operative design variable is whether the model substitutes for the graded target skill. ([[naim-bypass-offload-scaffold-llm-learning-2026]])
+The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-tutoring-2026|Macina et al. (2026)]] train LLM tutors with a masked near-transfer post-test and two binary gates, so the reward can rise only through what the student wrote in its own turns, and their ablation shows the gates, not the raw learning-gain reward, are what reduce solution handover.
+
 
 ## Connected Concepts
 
@@ -1257,6 +1259,8 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - **Fabricated references have reached the published computing-education record.** [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] traced 113,588 references from 5,225 computing education papers in the ACM Digital Library against the full corpus of 723,930 publications and 15,872,533 references, manually verified 828 suspicious records, and confirmed 30 references containing verifiably fabricated bibliographic information across 14 papers, all published in 2025 or 2026. At the SIGCSE Technical Symposium the verified count rose from 3 in 2025 to 17 in 2026, sitting in 2.3% of 2026 proceedings papers, and hallucinated references appeared across five SIGCSE-sponsored or in-cooperation venues in 2025. The number is intact only with its counterweight: most flagged references were benign — 229 were ACM metadata mismatches where the PDF was correct and 188 were valid bibliographic variants — so the venue figure is a deliberate lower bound. It lands on authors, not only on [[peer-assessment]], because reviewers checking reference lists cannot verify every entry, and [[llm]]-assisted drafting makes an invented but plausible citation cheap to produce.
 
 - **Clarity without redesign moves misuse sideways rather than removing it.** [[petricini-zipf-ai-use-ethics-matrix-2026|Petricini & Zipf (2026)]] plot AI use on two axes — students' intention and effort against the clarity and support the environment provides — and report that the most populated quadrant in their interview data was *anxious compliance*, where students hide legitimate help (grammar support, concept explanations, organizing their own ideas) to avoid [[legal-issues-and-risks|false accusation]]. Their warning is directional: where rules become clear but [[assessment]] still rewards speed and product, policy-aware students shift into *efficient circumvention* rather than into *virtuous tool use*. [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]] reaches the same place from the assignment side — when agents satisfy every rubric criterion without visible reasoning, grading the decision trail (confidence calibration, rejected AI suggestions, course-specific constraints) replaces detection, which she notes misfires in both directions.
+The first Theory of Planned Behavior study of GAIT-based misconduct intention extends this picture: among 186 undergraduates, [[intentions-academic-misconduct-gait-2026|Baig and Paparo (2026)]] found attitudes toward misconduct, subjective norms about it, and positive attitudes toward AI each predicted intention, while negative attitudes toward AI did not, and higher perceived likelihood of detection predicted lower intention — a deterrent undermined by the documented unreliability of AI detection tools.
+
 
 **Integrity policies are shifting from who wrote the words to who had the ideas, and the detectors are being rebuilt to match.** IdeaLens predicts idea provenance from an outline rather than from prose: on 50 stories that people wrote from scratch following AI-generated plans it flagged 68% as AI, against 8% for Pangram 4 and 0% for its prose-trained control, and it labeled 94.7% of AI-polished human text human ([[idealens-detecting-ai-ideas-2026|Rajendhran et al. (2026)]]). Its own ethics statement calls the output a statistical estimate that must not be used by itself as conclusive evidence of AI use.
 
@@ -1458,6 +1462,12 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 
 - The teacher's role extends to co-designing AI learning resources: teacher-AI co-designed [[simulation|simulations]] for drone STEM instruction kept GenAI output pedagogically valid and contextually relevant, and teachers are the intended beneficiaries of the Teachers' AI Literacy Scale. Effective GenAI integration increasingly depends on teacher involvement in design.
 
+
+### AI Reflection Systems Should Adapt to Teacher Experience
+
+- **Teacher-facing AI reflection analytics should be expertise-adapted, not one-size-fits-all.** A survey of 100 US K–12 teachers (median split at nine years; binomial tests; 15% choice differences detectable at ~83% power) found systematic preference splits. Less experienced teachers cite lack of reflection time as a top obstacle at 3x the experienced rate (37% vs. 12%, p < .001) and want analytics on student disengagement (48% vs. 33%, p = .028) and emotions (31% vs. 18%, p = .036).
+- **The design rule derived from the split is experience-adapted recommendation modes.** Experienced teachers want analytics on improved learning after helping a student (40% vs. 26%, p = .019) and on their teaching methods (42% vs. 26%, p = .012); their top obstacle is tracking performance (28% vs. 15%, p = .009). Design rule: novice mode = structured prompts and engagement analytics; expert mode = flexible longitudinal analysis — a direct argument against uniform dashboards. ([[falhs-teacher-expertise-reflection-2025]])
+
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
@@ -1527,6 +1537,7 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 - [[kuhail-great-debaters-ai-facilitators-2026]] — Human versus AI debate moderators: equivalent ratings, different routes to reuse
 - [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI in programming education: a systematic review in which instructor roles are least studied
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — From information providers to learning designers: heutagogical teaching practices in AI-enhanced education
+- [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs et al. 2025)
 
 ---
 
@@ -2846,6 +2857,7 @@ A complementary account widens SRL rather than replacing it: [[de-barba-srl-gena
 - **Prior agency predicts who benefits:** [[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]], drawing on Bandura's Social Cognitive Theory, showed that students' **prior self-initiated AI learning** (a behavioral manifestation of agency) predicted how much they gained from a year of [[k-12|school]] AI instruction — high-agency learners entered with the strongest readiness, while school curricula narrowed psychological gaps but left cognitive ones intact. Structured instruction and prior agency-related learning worked *synergistically*, not as substitutes.
 - **Principled selectivity as teacher agency under technological change:** [[ai-integrated-teaching-identity-tensions|Adiozaman and Segar (2026)]] interviewed two experienced academics three times across a semester and found they navigated AI-mediated teaching neither by adopting nor by resisting wholesale, but through deliberate, context-sensitive decisions guided by pedagogical values, ethical commitment and professional judgment — a pattern the authors call *principled selectivity*, in which refusal of a particular use counts as judgment rather than as failed adoption. It is the teacher-side counterpart to the learner findings above: uneven AI use can be an exercise of agency, not evidence of its absence.
 - **Teacher agency as the mediating condition for learner agency:** The newest teacher-side findings make explicit a division the learner findings above leave implicit: teacher agency is design-time and mediating, learner agency is enacted in the moment, and the first sets the conditions for the second. [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] followed ten secondary mathematics teachers across an eight-week ChatGPT-4 intervention and found that where teachers curated and interrogated AI output (posing open problems, pre-prompting the tool to release hints while withholding solutions, requiring students to place AI output beside their own work and argue which method was better), it became a provisional artifact for critique and students moved toward conjecture and metacognitive questioning; where mediation was absent, authority migrated toward the algorithm and teachers became validators rather than first sources of knowledge, a shift one teacher described as moving from "oracle" to "editor." Unequal tool quality raises what that mediation has to carry: across 50 prompts submitted three times to each model, the free tier was inaccurate in 49 of 150 responses (32.7%) against 18 of 150 (12%) for the premium tier (χ2(1) = 17.5, p < .001). [[charles-teacher-readiness-by-design-ai-rich-2026|Charles (2026)]] draws the readiness implication: teacher agency is a professional resource mobilized through design decisions and artifacts, so readiness should be judged from the designs teachers produce rather than from how often they use AI, and a reasoned decision to withhold AI can itself demonstrate readiness. Read together, these findings caution against reading high AI usage as evidence of an agentic classroom, since the disposition that preserves learner agency is exercised in what a teacher designs and critiques, not in whether the tool is on.
+- **Teacher-student control is not zero-sum — but the right distribution is stage-dependent.** A participatory speed-dating study of 17 teachers and 13 students ranking 34 hybrid-control designs found both groups preferred strong teacher control during preparation and initiation, then progressively more student input as collaboration unfolded — and neither group ever preferred full student control. The preferences mirrored each other: teachers wanted more control over pairing timing while students wanted readiness self-signaling; students trusted teacher partner choice while teachers wanted student voice on partners. The design implication: allocate agency per decision-point and stage, with bounded, structured student proposals validated by teacher-facing analytics rather than free-form override. ([[yang-balancing-teacher-student-agency-2026]])
 - **Access to choice is not the same as agency in action:** [[learner-agency-ai-simulation-2026|Su, Nair and Nagashima (2026)]] randomized 69 [[higher-ed|university]] students into a 2 × 2 design crossing parameter control of a flocking [[simulation]] with access to an optional [[pedagogical-agent|conversational agent]], and found no reliable effect of either affordance on [[learning-gains|learning gains]] once prior knowledge was controlled (parameter control F(1, 50) = 0.04, p = .849; agent F(1, 50) = 2.68, p = .108). Gains tracked *how* the control was used: slider time in the most conceptually complex lesson predicted higher gains (β = .11, p = .007) while the same behavior in the easier lesson predicted lower ones (β = −.04, p = .047), and engagement with the optional agent ranged from 0 to 32 questions per learner without relating to outcomes. The authors read this as agency being *enacted rather than granted*: the design question is what helps a learner decide what is worth changing and notice the consequences.
 - **Epistemic delegation in early-career research:** [[ai-mediated-research-agency-formation-2026|Han and Liu (2026)]] frame AI dependence among doctoral and postdoctoral researchers as *epistemic delegation* — the transfer of problem framing, method choice, and interpretive authority to the intelligent system — and found it negatively associated with both [[self-efficacy|research self-efficacy]] and research autonomy, with supervisory support buffering the loss. It extends agency debates from learner autonomy to the formation of the researcher themselves.
 
@@ -2960,6 +2972,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[fagerlund-competency-agency-purposes-ai-education-2026]] — Competency vs. agency as the purposes of AI education, and the informed AI agency heuristic (Fagerlund et al. 2026)
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Teacher mediation as the condition keeping GenAI an artifact for critique rather than an authority (Canonigo 2026)
 - [[charles-teacher-readiness-by-design-ai-rich-2026]] — Teacher agency as a resource mobilized through design, with readiness judged from artifacts rather than usage (Charles 2026)
+- [[yang-balancing-teacher-student-agency-2026]] — Balancing teacher and student agency in co-orchestration tools for real-time dynamic pairing (Yang et al. 2026)
 
 ---
 
@@ -6487,6 +6500,12 @@ Which support is in play decides which mediator carries the association: among 3
 
 - **Conversational agents supporting self-regulated learning in games.** Wenzel, Geiger, and Liening (2026) show that an AI conversational agent (Lara) in a business [[simulation]] game can support self-regulated learning through metric-based [[formative-assessment|formative]] feedback, on-demand guidance, and structured reflection — addressing the common limitation that simulation games provide limited formative feedback and reflection prompts. Evaluations with student teachers and BSG participants reported positive perceptions of the agent's cognitive and [[community-of-inquiry|social presence]] and its support for self-regulation.
 
+
+## Automated SRL Detection: What Transfers and What Doesn't
+
+- **Embedding-based SRL classifiers cross languages within a domain, but not across domains.** A study of 26 students (chemistry and formal logic; think-aloud protocols coded with the Winne-and-Hadwin model) found embedding-based models (text-embedding-3-small) trained on English classify German SRL at ~0.8 AUC with ~0.1 degradation — except enacting (~0.7). Cross-domain transfer fails: chemistry-to-logic drops to ~0.6, enacting to chance (~0.5) — the domain wall, not language, binds.
+- **Three failure modes explain where transfer breaks.** (1) Concept resolution at everyday rather than domain meaning — "cancel" vs. chemistry "kürzen" — breaks enact classification. (2) Anthropomorphization — German students unfamiliar with a heavily scaffolded tutor addressed it as a person, producing out-of-distribution utterances; transfer was better on less-scaffolded platforms. (3) Hint-reading vs. plan-formulation ambiguity — models can't tell reading a metacognitive hint from planning without log data. Realizing errors is robust across every condition — noticing you're wrong is context-independent. Fixes: expert dictionaries or fine-tuning for domain terms; log data for hints. ([[borchers-srl-language-generalization-2025]])
+
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
@@ -6542,6 +6561,7 @@ Which support is in play decides which mediator carries the association: among 3
 - [[preservice-teachers-ai-support-innovative-competence-2026]] — Support type flips the mediator: AI self-efficacy vs self-regulated learning
 - [[genai-learning-procrastination-planned-behavior-2026]] — GenAI-assisted learning procrastination: an intention-behavior gap that anxiety strengthens
 - [[genai-srl-l2-writing-scale-2026]] — A validated six-dimension GenAI-SRL scale for L2 writing, with environmental regulation as its own dimension and a 12-item ant-colony-optimized short form
+- [[borchers-srl-language-generalization-2025]] — Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains (Borchers et al. 2025)
 
 ---
 
@@ -6772,6 +6792,8 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - **Confidence can move opposite to behavior.** In competitive programming, students who stopped competing reported *higher* theoretical confidence than their active peers yet showed significantly weaker upsolving and peer-circle habits (p < .001), so a self-efficacy signal alone will mislead an early-warning system ([[predicting-attrition-competitive-programming|Ruhan et al. (2026)]]).
 - **Confidence can rise while the capability behind it declines.** Among university students, frequent generative-AI use raised perceived confidence and efficiency *and* increased technological dependence in the same learners, so a self-efficacy score taken during AI-assisted work can read high at the moment the underlying skill is eroding ([[genai-performance-vs-learning|Yan et al., 2025]]).
 - **AI use rode with confidence, but confidence did not predict attendance.** In a PLS-SEM survey of 291 Portuguese students, general AI use was positively associated with self-efficacy for independent learning (β = 0.266, f² = 0.106). The construct was modeled as a second-order formative composite of Bandura's four sources — mastery experience, vicarious experience, verbal persuasion, and emotional state. Self-efficacy in turn did not predict absenteeism (β = −0.068, p = 0.276), even though AI use was separately associated with higher absenteeism (β = 0.148, f² = 0.029). The AI-use → self-efficacy path was significantly stronger among males than females (β = 0.449 vs. 0.159; Δβ = −0.289, p = 0.013), under partial measurement invariance ([[confident-but-absent-ai-use-absenteeism-2026|Franco et al. (2026)]]).
+- **Self-efficacy interacts with format preference, not just with outcomes.** A counterbalanced within-subject study (97 ninth-graders; content-matched tutor-based vs. paper-based practice of graph interpretation and construction) found tutor-based practice beat paper overall (t(62.30) = 2.38, p = .020), and — counterintuitively — lower baseline self-efficacy predicted *greater* gains in both formats (t(98.40) = −2.14, p = .035). The interesting structure is a significant three-way self-efficacy × favorability × format interaction (t(99.84) = −2.58, p = .011): among low-self-efficacy students, favorability toward the tutor predicts larger gains *specifically in tutor practice*. A sobering null for the assumption that tutor practice is motivationally self-reinforcing: ITS practice did not significantly improve post-training self-efficacy over paper — attributed to the short intervention (two ~40-minute sessions). The practical signal: baseline self-efficacy and technology favorability are cheap, actionable inputs for format assignment; tutor practice capitalizes on existing favorability rather than creating it. ([[cen-self-efficacy-favorability-2026]])
+
 
 ## Connected Concepts
 
@@ -6808,6 +6830,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — Speaking self-efficacy reverses the anxiety pathway from AI-assisted practice to willingness
 - [[faculty-ai-well-being-social-supports-2026]] — Faculty SEM: technological self-efficacy a weak predictor of AI well-being
+- [[cen-self-efficacy-favorability-2026]] — Self-efficacy and favorability shape learning from tutoring systems and paper practice (Cen et al. 2026)
 
 ---
 
@@ -8612,6 +8635,8 @@ Mastery also depends on durable retention, not merely a single correct performan
 
 Finally, the evidence warns against assuming AI-generated support is uniformly beneficial. In a multi-[[governance|institutional]] study of AI-generated animated traces for novice programmers, benefits were context-dependent and short-term, and mid-[[student-engagement|engagement]] learners experienced a performance decrement attributed to coordination costs — an expertise-reversal-style effect that underscores the need to personalize support to the learner's current state rather than blanket-apply a tool. Likewise, a developmental continuum of [[ai-literacy|AI literacy]] in [[higher-ed|higher education]] positions mastery as not merely adopting AI tools fluently but progressing through stages of informed and critical use, each with its own [[formative-assessment]] strategies. Together these findings frame AI-enabled mastery learning as a system that must be calibrated to individual learners, sustainably spaced, and assessed for genuine competence rather than fluent output.
 
+- **Shared-control mastery learning is only as efficient as the learner's task-selection strategy.** A simulation study (1,000 simulated learners per run, AFM and BKT parameters fit to real MathTutor and DataShop logs) compared nine task-selection strategies. Efficiency varies by an order of magnitude: the risk-averse "Minimize Worst Case Loss" strategy — picking the skill whose worst-case mastery loss is smallest — produces 30.28x overpractice in equation-solving (28.93x in graph-interpretation), against 1.73 +/- 0.38 on average for the other strategies. Targeted system constraints rescue it surgically: task-selection constraints cut overpractice to 12.88/14.46x, and a problem-selection "Prefer Harder" bias cuts it to 1.98x (Cohen's d = 1.86) — while already-efficient strategies are unaffected. The design implication: constraints should be strategy-aware, protecting pathological self-regulators without taxing good ones, and simulation-first redesign avoids exposing students to 30x overpractice to discover the fix. ([[noh-simulating-task-selection-2026]])
+
 Standards-based grading is the assessment counterpart to mastery learning, and [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] identify it among five innovative practices aligned with "assessment for learning" that higher-education educators could adopt — but they find it virtually absent from management-education discourse. They attribute this to normative barriers: norm-referenced "grading on a curve," external signaling (rankings, internships, accreditation), and students' instrumental mindset all resist mastery-oriented, gradeless approaches. Their recommendation is incremental experimentation — for example, introducing standards-based rubrics for a single task before scaling — supported by program-level coordination and documented Scholarship of [[teacher-role|Teaching]] and Learning evidence.
 
 ## Connected Concepts
@@ -8631,6 +8656,7 @@ Standards-based grading is the assessment counterpart to mastery learning, and [
 - [[neural-symbolic-knowledge-tracing]] — Injecting mastery/non-mastery rules into deep learning for responsible, interpretable learner modeling
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[crediting-assisted-work-inflates-mastery-2026]] — Crediting assisted work inflates mastery: which evidence rule decides who is declared mastered (Srivastava 2026)
+- [[noh-simulating-task-selection-2026]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh et al. 2026)
 
 ---
 
@@ -11410,6 +11436,8 @@ Simulated students are a [[research-methods-aied|methodological]] tool: agents t
 
 AI-mediated approximations sharpen the question the page cares about: whom the simulation represents, and what the teacher is meant to notice. In mathematics teacher education, [[bondurant-shaughnessy-ai-pedagogies-practice-2026|text-based simulated student work and chatbot partners]] used in rehearsal extend the approximations of practice that already organize professional training. One [[conversational-ai|chatbot]] study produced four distinct questioning profiles, yet pre-service teachers' [[self-assessment|self-assessments]] did not align with the interaction quality observers recorded, which makes automated post-rehearsal feedback that increased probing and exploring questions a useful but insufficient guide. The simulator, the candidate and the feedback all have to be read together. What a simulation lets a teacher notice is also set by its design: in [[preservice-teachers-noticing-ai-simulations-2026|Galiç et al.'s (2026) three-week equal-sign intervention]] with 17 preservice mathematics teachers, candidates moved among attending, interpreting and shaping rather than through a fixed sequence, but the one-to-one, text-based setup meant shaping collapsed into questioning and [[prompt-engineering|prompting]], and a misconception-first design pulled attention toward error detection rather than student strengths. The simulator chooses the slice of teaching a candidate gets to rehearse.
 
+Supervised finetuning alone conditions a simulator only weakly on the prompted ability, because its objective rewards reproducing response text rather than tying response quality to ability; [[cross-ability-preferences-item-difficulty-2026|Fernandez et al. (2026)]] align a simulator instead through direct preference optimization over pairs formed from students' IRT ability gaps, and on CodeWorkout that pairing beats all direct difficulty-prediction baselines and, at the 1B scale, the SMART simulator on every difficulty metric while producing more distributionally realistic responses.
+
 ### Why simulate students
 
 - **Evaluating pedagogy:** testing instructional approaches across many learner profiles in a controlled, repeatable way.
@@ -11651,6 +11679,9 @@ This relational-intensity framing is the "not a monolith" counterpoint to the fi
 
 **Start from open tooling where possible.** Open-source agentic tutoring frameworks (e.g. [[deeptutor]]) lower the barrier to a citation-grounded, difficulty-calibrated tutor you can inspect and extend.([[deeptutor]])
 
+**Audit the knowledge-component model against learning curves, then redesign from what the data shows.** A classroom crossover study applied Huang et al.'s data-driven redesign process to four units of a middle-school mathematics ITS chosen by topic, not redesign suitability. Learning-curve analysis in DataShop revealed an unmodeled interpolation skill and conflated sign-handling cases; splitting these KCs and adding focused practice with mastered-step skipping produced more productive time-on-task (38.9 vs. 31.6 active minutes, p < .001) and five additional skills mastered in the same class time — but no learning-gain difference. The null is explained by thin practice dose (below 70% AFM mastery in both conditions) and a post-test that lacked items on the newly split skill. Two lessons for developers: post-tests must cover newly discovered skills, and adaptive benefits are bounded by the practice students actually receive. ([[lyu-data-driven-redesign-tutoring-2026]])
+
+
 Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhang et al. (2026)]] evaluate whether LM tutors adapt to learners' evolving understanding at teacher-annotated decision points. They find frontier models default toward over-helpfulness and rarely push for rigor, and that evaluation-aware prompting improves but does not fully solve adaptivity. Each additional impasse turn lowered next-turn recovery odds by 12.7%, and questioning lost value with depth (scripted question × depth AOR = 0.78) while addressing the student's error grew more beneficial (AOR = 1.14) — a tutor's escalation, not just its answer-withholding, must change as an impasse persists ([[guided-ai-tutor-impasse-resolution-2026|Ahtisham et al. (2026)]]). A systematic view of the RL-driven branch of this adaptation comes from [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]], whose review of 89 RL-in-education studies finds classical RL policies more consistently effective than Deep RL and RL adaptation delivering significant gains more often for guidance-related tasks (hints, [[feedback]]) than for content scheduling — evidence that how an ITS adapts scaffolding matters as much as which algorithm it uses.
 - **Adapting the type of cognitive engagement, not just the intensity.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] held difficulty constant and varied the worked-example form — guided (active) or buggy (constructive) — via a BKT rule and a deep-RL policy, both beating random assignment (posttest 72.3 and 72.5 vs 65.7).
 
@@ -11717,6 +11748,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — A multi-discipline RCT of a course-grounded, LMS-embedded AI tutor: final grades down 0.37 SDs in the exact-match sample, platform participation down 0.90 SDs, with no instructional integration (Liu et al. 2026)
 - [[guided-ai-tutor-impasse-resolution-2026]] — Variation in how guided AI tutors resolve student impasses, and why escalation must change with depth
+- [[lyu-data-driven-redesign-tutoring-2026]] — Evaluating a data-driven redesign process for intelligent tutoring systems: more productive time-on-task and skills practiced, but no learning-gain difference when practice dose is thin (Lyu et al. 2026)
 
 ---
 
@@ -12566,6 +12598,8 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 
 Process-level instrumentation is the descriptive layer's next step down. [[pulla-parsons-problem-tool-2026|Prol et al. (2026)]] extended an [[open-source]] Parsons-problem platform to record every block placement, removal and submission as a chronological trace, pair each submission with per-block correctness coloring and an attempt history, and optionally pass the traces through an [[llm]] pipeline that labels recurring difficulty patterns for instructor review. Across 68 students in an upper-division Java software-design course and 36 in an introductory Python course the analysis surfaced the same three difficulties — choosing the wrong exception type, substituting `return` for `throw`, and incorrect control-flow ordering — which correctness-and-attempt counts cannot expose, because they answer *whether* the arrangement was right rather than *what the process was*. The AI acts as an interpreter for the [[teacher-role|instructor]] rather than a scorer of the student, and its output is framed as a reviewable hypothesis about a class's difficulties rather than a grade.
 
+- **The learning system wall: log data doesn't generalize across platforms.** MATHia, i-Ready, and IXL each define even basic constructs — an "attempt," a "hint" — differently, so models can't transfer between them. A work-in-progress response attacks the problem from the video side: a Gemini pipeline distills tutoring screen recordings into a single screenplay transcript aligned to native MATHia logs as ground truth. What video recovers that no single stream does: whiteboard scaffolding, silent calculator work in external tools, and off-screen context that native logs reduce to "idleness." Open challenges remain in temporal anchoring, clock drift, and separating platform events from other learning processes. ([[thomas-breaking-learning-system-wall-2026]])
+
 ## Connected Concepts
 
 - [[explainable-ai]]
@@ -12620,6 +12654,7 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk from early-semester LMS traces (AUC 0.763)
+- [[thomas-breaking-learning-system-wall-2026]] — Towards breaking the learning system wall using multimodal tutoring transcriptions (Thomas et al. 2026)
 
 ---
 
@@ -16279,6 +16314,8 @@ A two-layer model shows how the pairing can be organized around a machine withou
 
 Feedback is one of the most consequential and best-evidenced mechanisms in education, and AI both amplifies and complicates it. Well-architected AI feedback can match or exceed human feedback and scale across cohorts, but it demands new learner capabilities ([[feedback-literacy]], [[ai-literacy]]) and carries risks (uncritical acceptance, [[cognitive-offloading|Over-Reliance]]). As AI-generated feedback becomes ubiquitous, the knowledge base frames feedback as a whole system — quality, loop, literacy, and assessment context working together — rather than as any single component.
 
+- **Feedback can target the feedback-giver.** Tutor training is an under-explored feedback context: automated systems that sequence-label tutors' open-ended responses to flag praise types (effort-based praise — the desirable process-focused kind — vs. outcome-based vs. person-based, the least desirable trait-attributing kind) can deliver explanatory feedback that changes tutoring behavior. The binding constraint is expert-labeled data. An augmentation approach — GPT-4o generates synthetic labeled responses expanding a 13-instance low-resource set to 520, then fine-tunes GPT-3.5 — recovers most of the gap: F2 +20.5% on effort-based praise, +17.3% on outcome-based, and +16.5% on the *unseen* person-based category. The generalization test to an unseen praise type is the validity check that separates this from overfitting, and the mechanism is closer to teacher-model distillation than classical augmentation. ([[xu-automated-feedback-tutor-training-2025]])
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — Tested feedback sequences, including why higher-quality AI feedback produced no more revision
@@ -16348,6 +16385,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[nazaretsky-feedback-source-bias-2025]] — Who gives feedback matters: source labels shift ratings when the text is held comparable (Nazaretsky et al. 2025)
 - [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — What a revision does to the writer's stance: peer feedback turns argumentative essays more contractive, AI revision keeps the Contract/Expand balance (Zhao & Ji 2026)
+- [[xu-automated-feedback-tutor-training-2025]] — Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation (Xu et al. 2025)
 
 ---
 
@@ -16704,6 +16742,8 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - **Evaluate quality and validity:** assess AI-generated items and feedback for quality, validity, and [[equity-in-ai-education|equity]], not just generation speed.
 - **Treat formative assessment as a philosophy, not a toolkit.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] synthesize the wider higher-education literature into an "assessment for learning" paradigm that frames formative, ongoing, and individualized [[feedback]] as an overarching philosophy rather than a mere toolkit — balancing formative with [[summative-assessment|summative]] purposes and foregrounding [[agency|student agency]], self-regulation, and [[metacognition|metacognitive]] skill. They identify five mutually reinforcing practices ([[authentic-assessment|authentic assessment]], self- and [[peer-assessment]], reassessment, [[mastery-learning|standards-based grading]], ungrading) through which this philosophy can be enacted, while noting their uptake remains highly uneven across higher-education fields.
 
+- **Continuous assessment reframes the formative record itself.** The AIM-CAI reference architecture (a position paper, not an implementation) proposes replacing episodic assessment as the primary evidence base with a six-layer infrastructure: evidence generation across platforms, serialization preserving source context, AI-mediated semantic translation, psychometric interpretation, longitudinal competency profiles, and federated governance. Its shift table spells out the change: per-assignment feedback becomes longitudinal feedback supporting advising and reflection; grades become evolving competency profiles; credentials become transparent development records. The governance layer is the paper's insistence — seven named tensions (interoperability vs. local autonomy, privacy vs. utility, learner agency vs. predictive automation, surveillance vs. support, etc.) each mapped to risks and responses, with the warning that ungoverned continuous inference privileges dominant cultural norms. The novelty claim is integrative: the components exist; the contribution is the architecture and the governance map. ([[mcnamara-aim-cai-continuous-assessment-2026]])
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — The sequenced forms formative assessment takes when AI supplies part of the feedback
@@ -16765,6 +16805,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — Perceived usefulness and intention to use LLM-generated feedback in programming across three educational levels
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Adaptive teaching assistance combining generative AI and big data analytics in music education
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[mcnamara-aim-cai-continuous-assessment-2026]] — AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time (McNamara & Hasnine 2026)
 
 ---
 
@@ -21116,6 +21157,8 @@ AI governance in education is increasingly urgent because [[generative-ai|genera
 - **AI literacy as a governance capacity ("the 18th SDG"):** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]] reconceptualize AI literacy as a systemic governance mechanism rather than a classroom skill, proposing a six-level AIRE Taxonomy (Recognize → Comprehend → Apply → Analyze → Integrate → Govern) that extends Bloom's hierarchy with ethical synthesis and strategic foresight, and an AI–SDG Nexus mapping literacy competencies onto all seventeen [[sustainability|Sustainable Development Goals]]. Framing AI literacy as an "18th SDG" heuristic — a cross-cutting capacity that channels learning into governance and sustainable development — the study's survey of 300 professionals found governance literacy the strongest predictor of AI–SDG nexus awareness (β = 0.64, r = 0.67 with nexus awareness) and identified ethical reasoning and reflective thinking as the strongest predictors of trustworthy AI use. This ties institutional governance to the cultivation of public [[ai-literacy]], echoing the knowledge base's finding that responsible AI alignment requires [[stakeholders|policymakers]] and citizens who can critically interpret algorithmic systems, not merely compliance-oriented technical control.
 
 - **Academic integrity and assessment:** Governance is central to how institutions handle AI-related [[academic-integrity]] concerns and redesign [[assessment]] — moving from prohibition/policing toward guidance, AI literacy, and process-oriented designs, as seen in research on [[student-rationalization-ai-writing|student rationalization]] and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]].
+- **Redesign runs on three dimensions at once.** [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] frames AI-era assessment redesign through cultural-discursive (language and assumptions), material-economic (resources), and social-political (governance and power) dimensions, and names the resource-power intersection as both the greatest leverage point and the greatest risk: resources flowing through existing power structures amplify inequities.
+
 
 - **The instrument mix of written-down governance:** [[institutional-ai-policy-health-informatics-2026|Eldredge et al. (2026)]] audited AI-related documents from all 48 CAHIIM-accredited health informatics and health information management master's programs in the United States. Forty of the 48 (83%) had at least one publicly available document, and across the 40 documents analyzed governance was realized mostly as guidance rather than binding rule: 21 guidelines (53%), 9 informational documents (23%), and only 7 formal policies (18%). Most documents addressed faculty and students together (20, 51%) rather than students alone (6, 15%), and neither policy type nor audience varied with delivery mode (Fisher's exact P = .85 and P = .71), suggesting the instrument mix tracks institutional habit rather than the demands of online, campus, or hybrid programs. Content clustered on academic integrity, responsible AI use, and student conduct, with little guidance covering AI use in applied learning, research, and simulated environments, precisely where curricular and data governance concerns intersect. The authors also report that regional accreditors supplied most of the corpus (Higher Learning Commission n = 14 and SACSCOC n = 13, together about 60%, with none from the WASC region) and argue accreditation is the external lever best placed to reduce variation across programs.
 
@@ -21399,6 +21442,8 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 
 
 Differentiated support is not evidence of equitable benefit: a review of AI tutoring in [[math-education|mathematics]] finds inclusiveness claims unsupported because studies rarely test whether gains are distributed consistently across ability, gender, socioeconomic, linguistic, disability and geographical groups, leaving it unestablished that these systems reduce achievement gaps ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).
+- **Differentiated human-AI tutoring is evidence that hybrid models can narrow gaps — when allocation follows need.** A difference-in-discontinuities study (635 students, grades 5–8; below-median performers received *proactive* human tutoring, above-median received *reactive* on-demand support, against a fall AI-only baseline) found hybrid tutoring raised time on task 25%, skill proficiency 36%, and academic growth 61% overall — and the two arms achieved *comparable* engagement and proficiency gains through different mechanisms. The equity-relevant detail: proactive tutoring showed marginally higher average growth (75%, p = .065) concentrated among students farther below the cutoff — the pattern of gap compression rather than uniform lifting — while one tutor per session served both groups. The authors are appropriately cautious: the DiDC design is quasi-experimental, the dichotomous median cutoff misses within-group need variation, and the 75% effect is marginal. ([[gurung-hybrid-human-ai-tutoring-2026]])
+
 - **Faculty expect the divide to widen.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson and Rainie (2026)]] surveyed **1,057 US college and university faculty** and found **81%** expected generative AI to widen digital inequities (**58%** saying a lot) — the strongest equity expectation in the report and one that sits beside **68%** who said their institutions had not prepared faculty to use the tools for teaching and mentoring. The same survey shows how unevenly the tools are taken up: **26%** of respondents do not use generative AI at all, rising to **40%** of arts and [[humanities-education|humanities]] faculty and **28%** of social scientists, so non-use and unpreparedness concentrate in particular [[discipline-specific-aied|disciplines]]. The report is a non-probability sample its authors state is not generalizable, so these are the sector's expressed concerns rather than measured effects.
 - **Infrastructure disadvantage:** [[structural-silence-underrepresented-language-ai-2026|Structural Silence]] shows that AI *infrastructure* — training corpora, tokenization, [[benchmark|benchmarks]], deployment architectures — systematically disadvantages speakers of underrepresented languages *before a model is trained*, reframing dataset scarcity as a structural rather than incidental problem.
 - **Model-specific demographic priors in synthetic data:** [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] found that when LLMs generated student vignettes, each model imposed distinct demographic tendencies — GPT produced more Global North profiles and used they/them pronouns, Qwen produced more [[global-south|Global South]] profiles, and Mistral skewed toward she/her. Even the *construction* of learner data by an [[llm]] thus carries regional and gendered priors that can propagate into downstream recommendations, an under-examined equity risk.
@@ -21530,6 +21575,7 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Free-tier vs premium-model accuracy gap in mathematics: 32.7% vs 12% (Canonigo 2026)
 - [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — Pooled GenAI learning gains (g=0.53) and the inequitable access to high-cost tools they cannot capture
 - [[intelligent-tutoring-mathematics-education-review-2026]] — Mathematics AI-tutoring review finding inclusiveness and achievement-gap claims unsupported
+- [[gurung-hybrid-human-ai-tutoring-2026]] — Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs (Gurung et al. 2026)
 
 ---
 
@@ -40609,6 +40655,34 @@ Strugatski, A., Zeinfeld, L., & Alexandron, G. (2026). [*Do Assessment Instrumen
 
 ---
 
+## [Supporting assessment redesign in the age of AI - a critical practice-based framework for equitable change](https://edtechdev.github.io/aied/articles/assessment-redesign-critical-practice-2026/)
+
+> **Synthesis:** This paper argues that [[generative-ai|generative AI]] necessitates reimagining [[higher-ed|higher education]] [[assessment]] beyond [[academic-integrity|integrity]] concerns toward critical, equity-focused redesign. Prue Laidlaw (Charles Sturt University) develops a theoretical framework integrating the Theory of Practice Architectures with [[pedagogy|critical pedagogy]] to guide AI-integrated assessment reform, informed by participatory action research in an Australian university. Assessment redesign is conceptualized as a multidimensional practice requiring simultaneous attention to three dimensions: cultural-discursive elements (the language and assumptions that shape practice), material-economic arrangements (resources, tools, infrastructure), and social-political factors ([[governance|governance]] and power). A four-phase implementation matrix — [[critical-thinking|critical analysis]], intervention design, equity-focused implementation, and evaluation — operationalizes the framework, positioning [[teacher-role|educators]] as critical agents shaping AI integration rather than passive recipients of technological change.
+
+The central argument is that technical solutions alone are insufficient: sustainable redesign requires cultural-discursive, material-economic, and social-political change to occur simultaneously, and when these dimensions remain misaligned — particularly when resources flow through existing power structures without explicit equity attention — even well-intentioned initiatives risk amplifying existing inequities. The framework identifies the resource-power intersection as both the greatest leverage point and the greatest risk for reform. In practice, successful redesign required participatory governance, critical [[ai-literacy|AI literacy]] development, and explicit attention to resource-power intersections to maintain authenticity and pedagogical integrity. The author explicitly values incremental change, critical literacy development, and productive tension as legitimate outcomes, challenging narratives that privilege rapid, frictionless transformation.
+
+The work connects to [[equity-in-ai-education|equity in AI education]] by making power and resource distribution — rather than [[ai-detection|detection]] or tooling — the center of assessment reform, and to [[assessment-validity|assessment validity]] by reframing what a valid AI-era assessment is in terms of educational purpose rather than format. It resonates with [[authentic-assessment|authentic assessment]] and [[process-oriented-assessment|process-oriented assessment]] as design responses, while its practice-architectures lens adds a governance dimension those literatures treat less centrally. The framework also speaks to [[ai-education|AIED]] institutional strategy, where the gap between prohibition and enthusiastic integration is exactly the incoherence it sets out to address.
+
+## What this means for practice
+
+- **Higher-education institutions and program leaders.** Do not treat AI-era assessment redesign as a tooling or detection problem. Run all three dimensions at once: examine the language and assumptions in use, map where tools and resources actually flow, and inspect who holds decision-making power before changing any format.
+- Use the four-phase matrix as a program checklist: (1) critically analyze current practice across all three dimensions, (2) co-design interventions with shared language, equitably accessible tools, and inclusive governance, (3) implement with differentiated support and active monitoring of power dynamics, and (4) evaluate discourse shifts, tool effectiveness across populations, and whether governance changes disrupted or reinforced hierarchies.
+- Build critical AI literacy and participatory governance before deployment. The practice insights show that redesign stalls or backfires when institutions move resources through existing power structures without centering traditionally marginalized voices.
+- Value incremental change and productive tension as legitimate outcomes. The framework explicitly rejects "frictionless implementation" narratives, which matters when leadership pressure demands rapid, uniform rollouts.
+
+## Limitations
+
+- The framework emerged from a single Australian institutional context; the participatory action research means the empirical grounding is illustrative rather than validating, and the author calls for rigorous testing across diverse settings.
+- Student voices are not yet centrally represented, and the author flags the need for future work to engage non-Western epistemologies for global applicability.
+- The detailed implementation matrix is presented in the paper's Appendix A, so the strategies in this article's summary are the overview level rather than the full specification.
+- As a theoretical and practice-informed framework rather than an outcomes study, the paper does not report measured effects on student learning, equity metrics, or assessment quality.
+
+## Citation
+
+Laidlaw, Prue (2026). [Supporting assessment redesign in the age of AI: a critical practice-based framework for equitable change](https://doi.org/10.1080/13562517.2026.2670362). *Teaching in Higher Education*, 31:7, 1412–1435.
+
+---
+
 ## [Assessment in Team Problem-Solving Exercises in Computing Education](https://edtechdev.github.io/aied/articles/assessment-team-problem-solving-computing-education/)
 
 > **Synthesis:** Tabletop exercises (TTXs) let learner teams rehearse high-stakes workplace tasks such as cybersecurity incident response, but their open-ended, collaborative nature makes [[formative-assessment]] difficult: teams often receive delayed or incomplete feedback. This full [[research-methods-aied|research]]-to-practice paper compares assessment methods that exploit the action and communication logs captured by TTX platforms to evaluate how well teams meet learning objectives.
@@ -40684,6 +40758,34 @@ The study occupies a contested space. Much recent evidence, including work on ge
 ## Citation
 
 Wang, D. J., Modi Jain, N., Burbano, V., Guzman, J., Keum, D., Kim, S., Kogut, B., & Wright, N. (2026). [How assigned AI use before class shapes active student engagement in class](https://arxiv.org/abs/2610.10463). *arXiv preprint arXiv:2610.10463*.
+
+---
+
+## [The Assistance Dilemma - Learning to Teach via Multi-Turn Reinforcement Learning](https://edtechdev.github.io/aied/articles/assistance-dilemma-rl-tutoring-2026/)
+
+> **Synthesis:** This paper addresses what it calls the "assistance dilemma": [[llm|large language models]] trained to answer questions are natively poor at teaching, and [[reinforcement-learning|reinforcement learning]] against a simulated student is a promising fix — but existing RL-trained tutors reward the student's success on the tutored problem with the tutor's words still in context, so the reward is easiest to raise by simply telling the answer, requiring a tuned penalty to discourage telling. Drawing on [[learning-sciences|learning sciences]], the authors introduce a masked near-transfer post-test: the student is tested on an unseen variant of the tutored problem with the tutor's utterances masked, so the reward can rise only through what the student wrote in its own turns. This discourages [[cognitive-offloading|cognitive offloading]] by the student and lets the continuous penalty be replaced by two binary reward gates — factual correctness of the tutor response, and no solution handover. A leave-one-out ablation shows the learning-gain reward on its own does not separate teaching from telling: the gates reduce solution handover while the near-transfer post-test improves out-of-domain [[transfer-of-learning|transfer]].
+
+Using these reward designs the authors develop EDUARDO, a multi-turn RL recipe for training LLM tutors, and train 4B, 9B, 14B and 27B models from two distinct architectures. The post-trained EDUARDO-27B matches Gemini 3.1 Pro on MathTutorBench and Claude Opus 4.8 on TutorMoments at 2.4–6.2× fewer thinking tokens than frontier models, which matters for interactive [[intelligent-tutoring|tutoring]]. Notably, without being named in the reward, the model more than doubles its use of the push-for-justification [[teacher-role|teacher]] move, while support fading (for example, assigning independent work) — whose payoff lies beyond a single-problem dialog episode — is trained out. The result is both a performance claim and a cautionary tale about reward shaping: what the reward horizon cannot see, the model stops doing.
+
+The design is a concrete contribution to how we train and evaluate [[pedagogical-agent|pedagogical agents]]. The central methodological move — measuring the student's post-dialog performance on a masked variant, so the reward reflects the student's own constructed understanding rather than the tutor's leftover hints — offers a template for any [[simulating-students|simulated-student]] training or [[ai-feedback-quality|feedback]] evaluation where "did the student actually learn?" is the question. It connects to [[scaffolding|scaffolding]] and the long-studied trade-off between assistance and productive struggle, giving an operational form to a construct that [[desirable-difficulties|desirable difficulties]] research has described but rarely trained against.
+
+## What this means for practice
+
+- **AI tutor developers and researchers.** When training a tutoring model against a simulated student, do not reward the student's success on the tutored problem with the tutor's words still in context — that reward is trivially satisfiable by revealing the answer. Test the student afterward on a masked variant and gate the reward on the student's own turns.
+- Separate "teaching" from "telling" with two explicit gates rather than one tuned penalty: a factual-correctness gate on the tutor's response and a no-solution-handover gate. The ablation shows the gates, not the raw learning-gain reward, are what actually reduce handover.
+- Expect a single-problem reward horizon to eliminate behaviors whose payoff is delayed, such as fading support and assigning independent work. If fading matters, the reward must extend beyond the current episode; otherwise the model will quietly stop fading even when nothing penalizes it.
+- Weigh thinking tokens as a cost in interactive tutoring. EDUARDO-27B reached frontier-comparable performance at 2.4–6.2× fewer thinking tokens, which is the difference between a tutor that feels responsive in conversation and one that does not.
+
+## Limitations
+
+- The entire evaluation runs against simulated students, so the study does not show that a tutor trained and measured this way produces [[learning-gains|learning gains]] in real students; the near-transfer gains are properties of the [[simulation]], not observed human outcomes.
+- MathTutorBench and TutorMoments are [[math-education|mathematics]] tutoring [[benchmark|benchmarks]], so the recipe's performance and the disappearance of support fading have not been demonstrated outside mathematical tutoring dialogues.
+- Support fading being "trained out" is presented as a limitation of the reward horizon, but the paper does not fix it within the reported recipe — it flags the behavior and leaves multi-episode reward shaping to future work.
+- The results compare against specific frontier models (Gemini 3.1 Pro, Claude Opus 4.8) as of the writing, so the "matches frontier" claim is time-bound to those baselines and may not hold as models improve.
+
+## Citation
+
+Macina, Jakub, Manu Kapur, and Mrinmaya Sachan (2026). [The Assistance Dilemma - Learning to Teach via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2610.06446). arXiv preprint.
 
 ---
 
@@ -43256,6 +43358,42 @@ Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu (2026). [Beyond Rep
 
 ---
 
+## [Large language models generalize SRL prediction to new languages within but not between domains](https://edtechdev.github.io/aied/articles/borchers-srl-language-generalization-2025/)
+
+> **Synthesis:** This paper asks whether an automated [[self-regulated-learning|self-regulated learning]] (SRL) detector — embedding-based classifiers over think-aloud transcripts (26 students, German and American universities, three tutoring systems: StoichTutor and ORCCA for chemistry, LogicTutor for formal logic) — transfers across languages. The answer is a careful yes-within, no-between: English-trained models classify German SRL utterances at ~0.8 AUC across the four Winne-and-Hadwin categories (processing information, planning, enacting, realizing errors) with only ~0.1 degradation from same-language cross-validation — except *enacting*, the category most tied to domain-specific vocabulary. But the within-domain generalization doesn't extend across instructional domains: chemistry-to-logic transfer drops to ~0.6 (matching prior US-only domain-transfer results) and enacting falls to chance (AUC ~0.5). The failure analysis is the paper's most valuable contribution: **the model resolves concepts at their everyday-web meaning, not their domain meaning** — "cancel" as cancellation vs. chemistry "kürzen"/"streichen" — so utterances whose SRL category hinges on subject-specific semantics misclassify systematically. A second failure mode is **anthropomorphization**: German students unfamiliar with StoichTutor's factor-label method addressed the tutor as a person ("Der will, dass ich Kiloliter eintrage"), utterances outside the English-trained model's distribution. A third is **hint-processing ambiguity**: models can't tell a student reading a metacognitive hint (coded as processing) from a student formulating an independent plan (coded as planning) without access to instructional context like log data. Notably, *realizing errors* is the one robust category across every transfer condition — because noticing you're wrong is not instruction-context-dependent.
+
+The methodological stance matters: these are embedding classifiers (OpenAI text-embedding-3-small), not fine-tuned LLMs — cross-lingual transfer comes "for free" from the multilingual embedding space, which is both the mechanism and the limitation (German and English are both high-resource, well-represented languages; low-resource languages are untested and the authors flag this explicitly). The transfer-grading by scaffolding level (RQ2) yields a practical design rule: language transfer is *better* on low-scaffold platforms and when the scaffolded strategy is culturally familiar — heavy scaffolding transfers worst when it embodies an unfamiliar instructional convention. The proposed remedies map directly to the failure modes: expert dictionaries or fine-tuning for domain-term resolution; incorporating log/instructional-context data into prediction for hint disambiguation. The honest caveats: n = 26 students, think-aloud demand effects, bilingual-coded ground truth, and German/English's privileged position in LLM training corpora all bound how far these results extend.
+
+## Key findings
+
+- **Cross-language transfer works within domain:** AUCs ~0.8 across all four SRL categories both directions, ~0.1 below same-language cross-validation (Table 4), except enact (~0.66–0.71).
+- **Cross-domain transfer fails the way prior work predicted:** ~0.6 for three categories (Table 6), enact at chance (~0.5) — language transfer adds no *further* degradation beyond domain transfer; the domain wall is the real barrier.
+- **Concept resolution is the core failure:** everyday-word-to-domain-meaning mismatches ("cancel" ↔ "kürzen" as everyday "shortening") systematically break enact classification.
+- **Anthropomorphization degrades transfer on heavily-scaffolded platforms:** German students addressing StoichTutor as "he" produced out-of-distribution utterances; transfer was better on the less-scaffolded ORCCA and when the strategy was familiar.
+- **Hint-processing vs. plan-formulation is unresolvable without context:** models can't distinguish reading a metacognitive hint from independently planning without log data; hints differ across domains, so no domain-general fix without context.
+- **Realizing errors is the invariant category:** >0.8 AUC under every language/domain/scaffolding condition — context-independent self-monitoring.
+
+## What this means for practice
+
+- **For SRL-detection deployments:** training language doesn't have to match deployment language within the same domain and platform family — but deploying a chemistry-trained model on a different subject is a new model, not a language variant.
+- **For low-scaffold-first design:** if you want SRL sensing to generalize culturally, lower-scaffold platforms and familiar instructional strategies transfer better.
+- **For multilingual systems:** expert-domain dictionaries or fine-tuning on domain terminology are the known fixes for the concept-resolution failure; machine translation alone won't handle subject-specific semantics.
+- **For instrumentation:** log data (what hints fired, what was on screen) is the missing modality — transcript-only prediction hits a context ceiling no amount of language data fixes.
+
+## Limitations
+
+- Small sample: 26 students across two universities and three systems; think-aloud demand effects on SRL expression.
+- German and English are both dominant, web-rich languages — the multilingual-embedding result may not replicate for low-resource languages, which the authors explicitly flag.
+- Embedding classifiers, not instruction-tuned LLMs; whether LLM-based detectors show the same transfer profile is untested.
+- Ground truth from bilingual human coders of a shared scheme — coding reliability across cultures is itself an assumption.
+- Domain transfer tested only chemistry ↔ formal logic; other domain pairs may behave differently.
+
+## Citation
+
+Borchers, C., Zhang, J., Fleischer, H., Schanze, S., Aleven, V., & Baker, R. S. (2025). Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains. *Journal of Educational Data Mining, 17*(2), 24–54.
+
+---
+
 ## [Bots and Blocks: Presenting a Project-Based Approach for Robotics Education](https://edtechdev.github.io/aied/articles/bots-blocks-project-based-robotics-education-2026/)
 
 > **Synthesis:** Geger, Briechle, and Rausch (2026) propose a project-based learning approach for [[teacher-role|teaching]] robotics in higher education, arguing that classic study programs often fail to prepare students for industry work because of a lack of practical experience caused by solely theoretical lecturing. They present a framework for an agile, semester-spanning project where students learn to work with robots, part of the applied computer science degree program "Digital [[ai-technologies|Technologies]]." The paper presents the framework and an exemplary project featuring the development of a disassembly software ecosystem for hardware robots.
@@ -44415,6 +44553,40 @@ Tutal, Ö. (2026). [*Artificial intelligence assisted design of a novel cooperat
 ## Citation
 
 Lelièvre, M., Waldock, A., Liu, M., Valdés Aspillaga, N., Mackintosh, A., Ogando Portelo, M. J., Lee, J., Atherton, P., Ince, R. A. A., & Garrod, O. G. B. (2025). [*Benchmarking the pedagogical knowledge of large language models*](https://arxiv.org/abs/2506.18710v1). Leaderboard: The Pedagogy Benchmark.
+
+---
+
+## [Self-efficacy and favorability shape learning from tutoring systems and paper practice](https://edtechdev.github.io/aied/articles/cen-self-efficacy-favorability-2026/)
+
+> **Synthesis:** This paper asks a deceptively simple question with a nuanced answer: do motivational profiles determine whether students learn more from [[intelligent-tutoring|ITS]]-based or paper-based practice? Using a counterbalanced within-subject design (97 ninth-graders, seven classes, three teachers; graph interpretation and graph construction units, each ~40 minutes, content-matched across formats), the authors find three things. First, tutor-based practice beats paper overall (t(62.30) = 2.38, p = .020). Second — and counterintuitively — students with **lower baseline self-efficacy gained more** regardless of format (t(98.40) = −2.14, p = .035), the usual regression-to-the-mean-flavored pattern where lower starters have more room to grow. Third, the interesting interaction: a significant three-way self-efficacy × favorability × format effect (t(99.84) = −2.58, p = .011) means that among low-self-efficacy students, **favorability toward the tutor predicts larger gains in tutor practice specifically** — the students who like the tutor benefit most from it — while the pattern differs in paper practice. Finally, a sobering null: ITS practice did **not** significantly improve post-training self-efficacy relative to paper, despite the theory that step-level success feedback should build mastery experiences. The authors attribute this to the short intervention (two 40-minute sessions), but it stands against the common assumption that tutor practice is motivationally self-reinforcing.
+
+The design strength is content-matching: both formats practiced the same skills with matched problem sets, so the format effect isn't confounded by difficulty differences, and counterbalancing controls order. The practical upshot is format-tailoring: a student's baseline self-efficacy and attitude toward the technology are actionable signals for format assignment — low-self-efficacy students who are favorable toward the tutor are the highest-leverage group for tutor-based practice, and the null self-efficacy result warns against expecting tutor practice to *build* motivation in the short run; it capitalizes on existing favorability rather than creating it. The honest limits: n = 97 in one suburban school, two math units, two short sessions — the self-efficacy-change null could easily be a dose problem rather than a real absence, and the three-way interaction is the kind of higher-order effect that small samples render fragile.
+
+## Key findings
+
+- **Tutor-based practice beats paper overall:** learning-gain difference significant (t(62.30) = 2.38, p = .020), with matched content and counterbalanced order.
+- **Lower baseline self-efficacy → greater gains, both formats:** t(98.40) = −2.14, p = .035 — consistent with more headroom for lower starters.
+- **The three-way interaction is the contribution:** self-efficacy × favorability × practice format, t(99.84) = −2.58, p = .011 — among low-self-efficacy students, tutor favorability predicts larger tutor-practice gains specifically.
+- **No self-efficacy improvement from ITS practice:** post-training self-efficacy did not significantly differ by format; short duration (two ~40-min sessions) is the authors' leading explanation.
+- **Favorability alone doesn't predict gains** (p = .494 main effect) — it matters *conditionally*, interacting with self-efficacy and format.
+
+## What this means for practice
+
+- **For format assignment:** baseline self-efficacy and technology favorability are cheap, measurable signals — students low in self-efficacy but favorable toward the tutor are the strongest candidates for tutor-based practice.
+- **For expectations:** don't count on short tutor interventions to build self-efficacy; expect them to leverage existing favorability. Motivation-building needs a longer arc.
+- **For research design:** the content-matched counterbalanced format comparison is the right template for format-effect questions; the three-way interaction shows why main-effect-only analyses of motivational moderators will miss the structure.
+
+## Limitations
+
+- Small single-site sample (97 students, one suburban school, three teachers); two math units only.
+- Short intervention (two ~40-minute sessions per student) — the self-efficacy null may be a dose artifact rather than a real absence.
+- Higher-order three-way interaction on n = 97 — directionally interesting but fragile; the paper itself frames it as groundwork.
+- Counterbalancing controls order but can't rule out carryover between the two topics.
+- Self-efficacy measured as a trait-like baseline plus post-training change; no process measures of engagement or help use to explain the interaction.
+
+## Citation
+
+Cen, X., Aleven, V., Koedinger, K. R., Borchers, C., & Carvalho, P. F. (2026). Self-efficacy and favorability shape learning from tutoring systems and paper practice. *arXiv:2606.17470v1* [cs.CY, cs.HC]. https://arxiv.org/abs/2606.17470
 
 ---
 
@@ -50256,6 +50428,34 @@ Crompton, H., Burke, D., Nickel, C., Bozkurt, A., Miao, F., Sharples, M., et al.
 
 ---
 
+## [CAP - Cross-Ability Preferences to Align Student Simulators for Item Difficulty Prediction](https://edtechdev.github.io/aied/articles/cross-ability-preferences-item-difficulty-2026/)
+
+> **Synthesis:** This paper presents CAP (Cross-Ability Preferences), a method that aligns an [[llm]] student simulator for predicting the difficulty of open-ended [[assessment]] items using direct preference optimization. The core insight is that a simulator finetuned only to imitate real student responses (supervised finetuning) conditions only weakly on the prompted ability, because its objective rewards reproducing response text rather than tying response quality to ability. CAP instead forms [[reinforcement-learning|preference]] pairs directly from students' [[desirable-difficulties|ability]] gaps: conditioned on a student's ability, that student's real response is preferred over a response by a student of a sufficiently different ability on the same item. On the CodeWorkout [[cs-education|programming]] dataset, CAP surpasses all direct text-based difficulty-prediction baselines, and at the 1B scale it outperforms the state-of-the-art simulator SMART on every difficulty metric while generating more distributionally realistic responses; at 3B it performs comparably.
+
+The method matters most in the low-resource setting, where an item must be calibrated before any student has answered it — the [[formative-assessment|cold-start]] problem that makes traditional field testing inapplicable. By coupling the item's content with simulated response behavior, [[simulation]]-based methods recover difficulty even when only a handful of labeled items exist, which direct text-based methods cannot do because their only training signal is the observed item difficulties. The work advances [[simulating-students|student simulation]] as a [[research-methods-aied|methodological]] tool and connects to [[student-modeling|student modeling]], where tying a simulated response's quality to the prompted ability is the central validity requirement. It also bears on [[adaptive-learning|adaptive testing]] and item recommendation, where more faithful difficulty estimates underpin downstream decisions.
+
+The authors are careful that distributional realism and ability alignment are distinct axes: the unaligned SFT simulator is the most realistic of all yet conditions poorly on ability, while among the aligned simulators CAP trades a small amount of ability alignment for realism at 1B and attains the highest ability alignment at 3B. The finding that cross-ability pairing helps most at the smaller model scale points to a regularization effect — the few, gentle contrasts at one rejected response per chosen response suit the smaller model, whereas the 3B model benefits from more pairs.
+
+## What this means for practice
+
+- **[[educational-measurement|Educational measurement]] researchers.** When predicting [[item-response-theory|item difficulty]] from few labeled examples, prefer a simulator aligned by preference pairs over one finetuned only to imitate real responses: SFT conditions weakly on ability because its objective rewards reproducing response text, not tying quality to ability.
+- Do not read the large-model result as a free win. CAP's advantage is specific to the few-pair regime at the smaller scale; at 3B, with more rejected responses per chosen response, it is comparable to SMART rather than clearly better.
+- Treat realism and ability alignment as separate goals when validating a simulator: check aggregate distributional metrics (MAUVE, FID, KL divergence) alongside the ability-alignment metric, because a simulator can be realistic in aggregate yet poorly tied to the prompted ability.
+- Build preference pairs from the ability gap directly rather than from scoring likelihood. CAP selects each pair because one response comes from a student of a sufficiently different ability, which needs no extra machinery beyond the ability labels and the IRT scoring already in the pipeline.
+
+## Limitations
+
+- The experiments run only on the CodeWorkout programming dataset at 1B and 3B parameters, so the results do not establish that the method generalizes to other domains, item formats, or larger student simulators — the authors leave exactly those extensions to future work.
+- With only about ten test items per fold, the per-fold standard deviation is large and the authors state that none of the reported differences is statistically significant; the comparisons are means over five cross-validation folds, not significant effects.
+- The simulator is trained and evaluated on Llama-3.2-Instruct as both the simulator and the scorer, so the method has not been shown to transfer across model families or to a separately trained scorer.
+- The approach still depends on IRT scoring of simulated responses to recover difficulty, inheriting whatever assumptions the IRT model makes about the response-score relationship, and the study does not test against alternative difficulty-recovery frameworks.
+
+## Citation
+
+Fernandez, Nigel, Alexander Scarlatos, Christopher Ormerod, and Andrew Lan (2026). [CAP: Cross-Ability Preferences to Align Student Simulators for Item Difficulty Prediction](pdf-sources/2026.aimecon-main.37.pdf). AIED/AIMECON 2026.
+
+---
+
 ## [Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education](https://edtechdev.github.io/aied/articles/cross-cultural-student-perceptions-genai-computing/)
 
 > **Synthesis:** A scenario-based survey (Fall 2024) comparing how computing students at Canadian and South Korean universities judged the ethicality and policy compliance of AI-assisted coding practices. Despite functionally identical [[governance|institutional]] policies, Canadian students were consistently and significantly more likely to rate [[generative-ai|GenAI]] use as unethical and against the rules (Mann-Whitney U tests across nearly all scenarios). Culture, not policy text, drove the perceived wrongness of identical behaviors.
@@ -56037,6 +56237,41 @@ McConvey, K., Zhai, A., Li, R., & Guha, S. (2026). [*Fairness Theatre: Evaluatin
 ## Citation
 
 Falahat, S., Das, J., Bhaumik, D., & Thambi, M. (2026). [Bridging technology and education: The use of ChatGPT in grading pharmacy student exams](https://doi.org/10.1016/j.cptl.2026.102707). *Currents in Pharmacy Teaching and Learning*, 18, 102707.
+
+---
+
+## [How expertise levels shape preferences and reflection needs — towards AI reflection systems for teacher empowerment](https://edtechdev.github.io/aied/articles/falhs-teacher-expertise-reflection-2025/)
+
+> **Synthesis:** This EC-TEL 2025 short paper surveys 100 US K–12 teachers (Prolific/Qualtrics, July–August 2023, ages 20–62, M = 38.15; 57 with 8+ years of experience) to ask how teacher reflection practices and analytics preferences vary by experience — the design question being whether AI reflection systems built on teacher + student data should be one-size-fits-all or expertise-adapted. The answer: strongly expertise-dependent. On obstacles (RQ1), **less experienced teachers cite lack of time as a top reflection obstacle far more (37% vs. 12% of experienced, p < .001)**, while experienced teachers more often report difficulty tracking student performance (28% vs. 15%, p = .009); informal feedback is a significantly more common motivator for experienced teachers (45% vs. 31%, p = .025). On analytics preferences (RQ2), **experienced teachers prioritize analytics on improved learning after helping a student (40% vs. 26%, p = .019) and on their own teaching methods (42% vs. 26%, p = .012)**, while less experienced teachers focus on student disengagement (48% vs. 33%, p = .028) and student emotions (31% vs. 18%, p = .036) — wanting immediate, concrete analytics for specific classroom issues. The design implication: less experienced teachers need structured, prompt-like guidance (data-driven reflection questions, suggested next steps) and engagement/affect analytics; experienced teachers need flexible, longitudinal, in-depth analysis aligned with their broader improvement goals — so complexity and concreteness of AI recommendations should be *tuned to experience level*, addressing the common one-size-fits-all failure of teacher dashboards.
+
+The mechanism the authors propose for the time obstacle: novice teachers may lack the routines for translating didactic knowledge into practice, making reflection feel time-consuming, so automated monitoring + actionable insights offer both systematic reflection opportunities and time savings. The survey design is disciplined: median split at nine years (Berliner), top-three ranking items, binomial tests (chosen for power over rank comparison), and an ad-hoc power analysis confirming n = 100 detects a 15% choice-behavior difference at ~83% power. The findings align with expert–novice vision research (experts select relevant information and interpret deeply; novices fixate on classroom-interaction details). The honest framing: self-report measures, a formative step toward a broader user-centered design process, and the noted need for AI literacy so teachers can use the analytics effectively.
+
+## Key findings
+
+- **Time is the novice's obstacle:** less experienced teachers cite lack of time for reflection as a top concern at 3× the rate of experienced teachers (37% vs. 12%, p < .001); experienced teachers' top obstacle is tracking student performance (28% vs. 15%, p = .009).
+- **Preferences split by what the analytics is about:** experienced teachers want analytics on teaching methods and improved learning (42% and 40%, significant); less experienced teachers want disengagement and emotion analytics (48% and 31%, significant) — concrete, immediate classroom-issue data.
+- **Motivators differ too:** informal feedback drives experienced teachers more (45% vs. 31%, p = .025); improvement-oriented goals motivate both.
+- **Trends worth noting:** student learning/progress data preferred by experienced teachers (63% vs. 52%, p = .094); feedback on their teaching preferred by less experienced teachers (48% vs. 37%, p = .094) — directionally consistent with the adaptation thesis.
+- **Design rule derived:** tune recommendation complexity and concreteness to experience — structured prompts for novices, flexible in-depth analysis for experts.
+
+## What this means for practice
+
+- **For AI reflection-system designers:** experience level should be a first-class personalization dimension — novice mode (structured prompts, engagement/affect analytics, concrete next steps) vs. expert mode (longitudinal learning/teaching analytics, flexible exploration).
+- **For the time-obstacle problem:** automatic event monitoring + actionable insights directly target the novice time barrier — the system's value includes freeing the time reflection requires.
+- **For dashboard design:** this is evidence against one-size-fits-all teacher dashboards; the needs-centered adaptation call aligns with prior work (Saar et al. on experience-level needs, Fütterer on tailored PD).
+- **For deployment prerequisites:** AI literacy is a named requirement — the analytics only pay off if teachers can interpret them.
+
+## Limitations
+
+- Self-report survey (no usage data from an actual deployed system); a formative first step, as the authors state.
+- US sample recruited via Prolific (online, compensated) — generalizability to other contexts limited.
+- Binary experience split at nine years misses finer-grained experience effects and non-linear development.
+- Experience-level differences in *preferences*, not in actual system-use behavior or learning outcomes.
+- Recruitment/coding details for "formal vs. informal feedback" distinction are compressed at short-paper length.
+
+## Citation
+
+Falhs, A.-C., Borchers, C., Echeverria, V., Yang, K., Rummel, N., & Aleven, V. (2025). How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment. In *Two Decades of TEL: EC-TEL 2025*, LNCS, pp. 120–125. Springer. https://doi.org/10.1007/978-3-032-03873-9_11
 
 ---
 
@@ -62904,6 +63139,41 @@ Guillén-Gámez, F. D., Tomczyk, Ł., Habibi, A., & Díaz Vargas, B. L. (2026). 
 
 ---
 
+## [Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs](https://edtechdev.github.io/aied/articles/gurung-hybrid-human-ai-tutoring-2026/)
+
+> **Synthesis:** This study tests a differentiated human-AI tutoring policy: lower-performing students (below the within-grade median on prior state tests) get **proactive** tutoring — the human tutor initiates support — while higher-performing students get **reactive**, on-demand support. Using a difference-in-discontinuities design (fall AI-only period vs. spring hybrid period, 635 students in grades 5–8, IXL as the AI tutor), the authors find that hybrid human-AI tutoring produces large overall gains over the AI-only baseline: **25% more time on task, 36% higher skill proficiency, and 61% greater academic growth** (standardized MAP). Crucially, proactive and reactive tutoring produce *comparable* time-on-task and skill-proficiency gains — the two groups achieve similar outcomes through different support mechanisms — and no significant MAP-growth difference at the cutoff itself, though proactive tutoring shows marginally higher average growth (75%, p = .065) concentrated among students farther below the cutoff, i.e., it narrows achievement gaps rather than just raising averages. The policy implication is a cost-scaling lever: one tutor per session can serve more students if the high performers opt into reactive support, without sacrificing their outcomes.
+
+The mechanism story is coherent with the prior evidence the paper builds on: automated tutors (ITS) are less effective for lower-performing students (Steenbergen-Hu & Cooper meta-analysis) because some needs — accountability, motivation — exceed what software provides, while higher performers are better equipped to use adaptive systems independently. Proactive support supplies exactly the motivational/accountability dimension for the students who need it; reactive support preserves pace and autonomy for those who don't. The result also replicates Borchers et al.'s engagement findings (25% time-on-task, 38% skill proficiency) but adds the differentiated-policy contrast. The honest limits are the design: DiDC is quasi-experimental (the authors name an RCT of policy vs. business-as-usual as the stronger test, complicated ethically once you know proactive support helps), the allocation is dichotomous (a single median cutoff misses within-group nuance), and the 75% proactive advantage is marginal (p = .065). A secondary finding worth noting: students showed greater benefits with female tutors, pointing at relational dynamics that neither the policy nor the platform currently models.
+
+## Key findings
+
+- **Hybrid tutoring beats AI-only substantially:** +25% time on task, +36% skill proficiency, +61% MAP growth vs. the fall AI-only baseline, within the Imbens-Kalyanaraman bandwidth.
+- **The differentiated policy doesn't trade one group off for the other:** proactive (below-median) and reactive (at/above-median) students achieved comparable time-on-task and skill-proficiency gains through different support mechanisms — proactive sustained engagement for strugglers; reactive preserved independent pacing for strong students.
+- **No cutoff discontinuity in MAP growth** between the two arms, but proactive tutoring averaged marginally higher growth (75%, p = .065), concentrated below the cutoff — the gap-narrowing pattern the authors highlight.
+- **Consistent with Borchers et al.** (25% time-on-task, 38% skill proficiency from human-AI access) — this study's contribution is the *differentiation*, not the hybrid effect itself.
+- **Tutor demographics matter:** students showed greater benefits paired with female tutors, an unexploited relational variable in current allocation policies.
+
+## What this means for practice
+
+- **For tutoring program designers:** differentiated allocation is the cost lever. Proactive support for below-median students, reactive for above — one tutor session can serve more students without measurable loss for the reactive group.
+- **For equity arguments:** the proactive arm's gap-narrowing pattern (larger effects farther below the cutoff) is the evidence that hybrid tutoring can compress achievement gaps, not just lift averages.
+- **For measurement design:** the DiDC design (compare the spring discontinuity to the fall null discontinuity) is a reusable quasi-experimental template when randomizing support allocation is ethically blocked.
+- **For future platform work:** the dichotomous cutoff is the acknowledged weak point — within-group need variation, tutor-student relational fit, and demographic differential effects are all open for personalization.
+
+## Limitations
+
+- Quasi-experimental DiDC with national growth norms as reference rather than a matched control; the authors themselves call for an RCT of the policy against business-as-usual.
+- Dichotomous allocation (single median cutoff) misses within-group heterogeneity in need.
+- The proactive advantage is marginal (p = .065) and average-level; the "narrowing gaps" claim rests on the below-cutoff concentration, not a significant cutoff interaction.
+- One tutoring provider, one platform (IXL), grades 5–8 math — domain and platform generality untested.
+- Tutor demographic effects are reported as an observation, not analyzed with the design's inferential machinery.
+
+## Citation
+
+Gurung, A., Gao, G., Gutterman, J., Thomas, D. R., Gupta, S., Branstetter, L., Brunskill, E., Aleven, V., & Koedinger, K. R. (2026). Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs. *arXiv:2605.11155v1* [cs.CY]. https://arxiv.org/abs/2605.11155
+
+---
+
 ## [Forging ahead or proceeding with caution: Developing policy for generative artificial intelligence in legal education](https://edtechdev.github.io/aied/articles/gutowski-hurley-genai-policy-legal-education-2025/)
 
 > **Synthesis:** Gutowski and Hurley survey how ABA-approved US law schools govern [[generative-ai|generative AI]] and find a sector making policy under time pressure without an evidence base to make it with. Their framework scores institutional policies on five dimensions — prohibitiveness, permissiveness, educational integration, transparency and accountability, and depth — each on a 0–5 rubric, and the canvass shows most schools taking generally prohibitive positions while reserving discretion to individual [[teacher-role|instructors]] and committing to revisit the rules as the technology moves. The article is a law review policy analysis rather than an empirical study, but it reports the sector's own data honestly, including that the ABA's 2024 survey drew responses from only about 15% of accredited schools. Its substantive contribution to the knowledge base is the argument that [[legal-education|legal education]] must govern AI as preparation for a regulated profession: the professional conduct rules that bind practicing lawyers already apply to the tools, which makes clarity, training and flexible [[governance]] matters of [[assessment-validity|assessment validity]] rather than compliance alone.
@@ -66235,6 +66505,34 @@ Contextual conditions — infrastructure, accessibility, teacher preparedness, [
 ## Citation
 
 Ogunsakin, I. B., Ayanwale, M. A., Falebita, O. S., & Felemu, O. J. (2026). [Reimagining mathematics education through intelligent tutoring: evidence, opportunities, and implementation challenges](https://doi.org/10.3389/feduc.2026.1943906). *Frontiers in Education*, 11, 1943906.
+
+---
+
+## [A preliminary investigation of intentions to engage in academic misconduct using generative artificial intelligence tools](https://edtechdev.github.io/aied/articles/intentions-academic-misconduct-gait-2026/)
+
+> **Synthesis:** This study is the first to examine student intentions to engage in [[academic-integrity|academic misconduct]] using [[generative-ai|generative AI]] tools (GAITs) through the lens of the [[technology-acceptance-model|Theory of Planned Behavior]]. Maha Baig and Josephine Paparo (Macquarie University) surveyed 186 undergraduate students, measuring attitudes toward academic misconduct and toward AI, subjective norms, perceived behavioral control, and beliefs about the likelihood of [[ai-detection|detection]]. A bootstrapped hierarchical regression found that positive attitudes toward academic misconduct and subjective norms about it predicted greater intention to use GAITs for misconduct, and that higher perceived likelihood of detection was associated with lower intention. Notably, positive attitudes toward AI also predicted intention, while negative attitudes toward AI did not — students apparently acknowledge AI's drawbacks yet do not prioritize them over perceived benefits.
+
+The findings have a practical edge that pushes against common institutional reflexes. Because awareness of AI's drawbacks was unrelated to misconduct intention, the authors argue that [[educational-policy-ai|policies]] and interventions emphasizing AI's negative consequences for students' [[higher-ed|graduate]] capability attainment may be misguided. Instead, they suggest fostering a mindset in which GAITs are viewed as supplemental rather than replacements for students' own knowledge and skills. The detection finding is double-edged: perceived likelihood of detection is a genuine deterrent, but the authors note that research casts significant doubt on the accuracy and reliability of even state-of-the-art [[ai-detection|AI detection]] tools, and that awareness of those limitations can itself erode students' perceived risk — potentially creating a contagion effect in which non-engaging students who feel disadvantaged begin to cheat too.
+
+The work connects to [[reducing-ai-misuse|reducing AI misuse]] by specifying the attitudinal levers that actually move intention, and to [[academic-integrity]] governance by showing that [[ai-use-disclosure|disclosure]]-focused and [[ai-literacy|literacy]]-focused strategies target different constructs. Its TPB framing adds a behavioral-science layer to a literature otherwise dominated by detection and format redesign, and its undergraduate psychology sample situates it within [[motivation|student motivation]] and [[ethics|ethical]] decision-making research.
+
+## What this means for practice
+
+- **Higher-education institutions and [[teacher-role|instructors]].** Interventions that emphasize the harms of AI (detriment to graduate capabilities, ethical breaches) may not move the needle, because this study found no relationship between negative attitudes toward AI and misconduct intention. Target the constructs that did predict intention: attitudes toward misconduct itself and the surrounding norms.
+- Address perceived norms, not just attitudes. Subjective norms about misconduct predicted intention alongside attitudes, which points to classroom-level norms work — making acceptable AI use explicit and collectively owned — rather than individual sanction messaging.
+- Do not rely on detection as the deterrent. Perceived likelihood of detection does lower intention, but the authors flag that detection tools' accuracy and reliability are widely doubted and that savvy students know it; leaning on detection risks both false confidence and a contagion effect among students who feel disadvantaged.
+- Frame GAITs as supplemental to student capability rather than as replacements for it. The authors' recommended mindset — students using AI to support rather than substitute their own knowledge — is the lever their data supports.
+
+## Limitations
+
+- The study is explicitly preliminary: a single online survey of 186 undergraduate psychology students at one Australian university, with no follow-up measurement of actual misconduct behavior — the outcome is self-reported intention, not observed behavior.
+- Self-report intentions are vulnerable to [[academic-integrity|social desirability bias]], which the analysis controls for statistically (social desirability was itself a significant negative predictor) but which cannot be eliminated from [[self-report-measures|self-report data]].
+- The correlational regression design cannot establish causation among attitudes, norms, perceived control, and intention, and the authors note violations of linearity and homoscedasticity assumptions, addressed with bootstrapping rather than a different modeling approach.
+- The findings are specific to GAIT-based academic misconduct intentions among undergraduate psychology students; generalization to other disciplines, levels, or national contexts is untested.
+
+## Citation
+
+Baig, Maha, and Josephine Paparo (2026). [A preliminary investigation of intentions to engage in academic misconduct using generative artificial intelligence tools](https://doi.org/10.1080/13562517.2026.2663440). *Teaching in Higher Education*, 31:7, 1327–1345.
 
 ---
 
@@ -74348,6 +74646,43 @@ Luo, Z., & Tahir, R. (2025). [ChatGPT-assisted lesson planning for children's ST
 
 ---
 
+## [Evaluating a data-driven redesign process for intelligent tutoring systems](https://edtechdev.github.io/aied/articles/lyu-data-driven-redesign-tutoring-2026/)
+
+> **Synthesis:** This paper tests whether Huang et al.'s (2021) [[learning-analytics|data-driven redesign]] process generalizes to instructional units chosen by topic rather than by expected redesign suitability. Applying the process to four units of a middle-school mathematics [[intelligent-tutoring|intelligent tutoring system]] (MathTutor) — selected precisely because they had already been refined through classroom feedback — the authors [[learning-analytics|refined the knowledge-component model]] (splitting an unmodeled interpolation skill in Unit 7.05, separating sign-handling skills in the equation-solving units), redesigned tasks and scaffolding, and added [[adaptive-learning|adaptive problem selection]] with mastered-step skipping. In a preregistered crossover study with 123 students, learning gains did not differ between conditions, but the Redesigned Tutor produced more productive time-on-task, more practice opportunities, and greater total knowledge mastered (five additional skills in the same class time). The study is evidence that the redesign method works on content not pre-selected for improvement — and that its benefits are bounded by the amount of practice students actually get.
+
+The core mechanism is making implicit or missing [[knowledge-tracing|knowledge components]] explicit: learning-curve analysis in DataShop revealed that Unit 7.05's coordinate-reading problems required an interpolation skill the tutor treated as simple lookup, and equation-solving items conflated negative-term operations (e.g., interpreting "-x" as "-1x") with positive ones. Splitting these KCs and giving them focused, scaffolded practice is what the authors attribute the process-level gains to. The null learning-gain result is interpreted honestly: the post-test included no interpolation items for the newly split skill, and six 20-minute sessions across four units left both conditions below 70% AFM mastery — insufficient practice to reveal downstream gains, a finding that mirrors the [[mastery-learning|mastery learning]] literature on practice thresholds. The article also reports two notable null results of its own: the redesign did not significantly reduce overpractice beyond 80% mastery, and productivity gains appeared only in Unit 7.06, where interface simplification (relaxed step-order constraints, pre-filled tables) likely reduced idle time.
+
+## Key findings
+
+- **Learning gains did not differ by condition** (Redesigned mean gain 0.20 vs. Original 0.21, t(279) = −0.30, p = .760), despite both being substantial pre-to-post gains (d ≈ 0.57–0.64); the null held across units and interactions (ps > .20).
+- **Students using the Redesigned Tutor spent significantly more time productively engaged**: more logged-in time (47.7 vs. 39.3 min, t(235) = 2.44, p = .015) and more active non-idle time (38.9 vs. 31.6 min, t(234) = 4.62, p < .001), with idle time statistically identical.
+- **Practice was reallocated toward harder, newly identified skills** — practice was significantly more difficult (β = −0.10, p = .020), students received more opportunities overall (β = 0.30, p < .001), and new KCs received relatively more practice (β = 0.23, p = .041), though still less than established KCs (β = −0.74, p < .001).
+- **Total knowledge mastered increased**: iAFM estimates 7.61 vs. 6.03 skills (t(115) = 4.33, p < .001, dp = 0.40) and BKT estimates 8.96 vs. 7.30 (t(115) = 3.67, p < .001) — reflecting five additional skills covered, since average per-KC mastery did not differ (AFM 0.683 vs. 0.658, p = .270).
+- **The redesign did not significantly reduce overpractice beyond 80% mastery** (β = 0.16, p = .080; interaction β = 0.28, p = .083) — the adaptive selection's overpractice-reduction claim was not confirmed in this classroom context.
+- **Productivity gains were unit-specific**: completed steps differed significantly only in Unit 7.06 (β = 37.76, p = .001), the unit whose redesign simplified the interface rather than only the KC model; logged-in time rose 28% there vs. 16% in 7.05, 18% in one equation unit, and −4% in the other.
+- **Practice quantity likely constrained gains**: six 20-minute sessions across four units left AFM mastery below 70% in both conditions, and the post-test lacked items on the newly split interpolation skill — the authors attribute the null primarily to insufficient practice and outcome coverage, not redesign failure.
+
+## What this means for practice
+
+- **For educational software developers:** the method transfers to content nobody pre-selected for improvement. The three-step loop — KC-model refinement from learning curves, task/scaffolding redesign, adaptive problem selection with mastered-step skipping — is implementable with existing DataShop tooling and is the article's practical contribution.
+- **For evaluation design:** pair process measures with post-test items that cover newly split skills, or a genuine improvement will read as a null. The missing interpolation item is the paper's own cautionary example.
+- **For practitioners interpreting null results:** "no learning-gain difference" is not "redesign failed" — check practice dose first. Six 20-minute sessions could not carry either condition to mastery; most deployed tutors may offer less.
+- **For researchers:** the per-KC mastery null alongside the total-mastery gain is a coverage effect, not a depth effect — report both. The overpractice-reduction null (p = .080) is a hypothesis worth re-testing at higher power rather than treating as settled.
+
+## Limitations
+
+- A short paper reporting a single classroom study (N = 95 with complete pre/post data, 8 classes, 5 middle schools); process analyses are explicitly exploratory, not preregistered.
+- All redesigned content is middle-school mathematics, close to the prior work it generalizes from — domain extension remains untested, as the authors note.
+- The crossover design with condition switching after the mid-test introduces possible carryover between tutor versions within students, unaddressed in the paper.
+- The redesign's effect on overpractice is inconclusive (marginal p-values, explicitly noted by the authors), so its central adaptive-selection claim rests on reallocation evidence rather than reduction evidence.
+- Learning-gain estimates depend on AFM/BKT mastery models applied to both conditions for comparability, which cannot reveal gains on skills the model itself may mis-specify.
+
+## Citation
+
+Lyu, Q., Borchers, C., Xia, M., Xiao, K., Carvalho, P. F., Koedinger, K. R., & Aleven, V. (2026). Evaluating a data-driven redesign process for intelligent tutoring systems. In *Proceedings of the 27th International Conference on Artificial Intelligence in Education (AIED 2026)*. arXiv:2603.29094. https://doi.org/10.48550/arXiv.2603.29094
+
+---
+
 ## [Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation](https://edtechdev.github.io/aied/articles/machines-misread-pedagogical-quality/)
 
 > **Synthesis:** Tseng et al. (2026) investigate human-machine alignment in LLM-based pretest question evaluation — a critical bottleneck for scalable AI-assisted assessment. Their AI-assisted workflow combines automated generation, rubric-based evaluation, and iterative selection. Through a 2×2 experimental design varying rubric operationalization and evaluation mode, they find that human-machine disagreements are systematic rather than random, rubric revision has a larger effect on alignment than rationale-first evaluation, and the two interventions are complementary. The core insight is that scalable AI-assisted pretesting depends not only on generation capability but crucially on how [[pedagogy|pedagogical]] quality is operationalized for machine interpretation. This work contributes to [[ai-ed-evaluation]] by providing empirical evidence for aligning [[llm]] judgment with human pedagogical standards in [[formative-assessment]] contexts, and has direct implications for [[automated-assessment|Automated Grading]] and [[assessment]] system design.
@@ -74801,6 +75136,41 @@ McCorkle, S. (2025). [Designing an Aligned Generative AI Course Policy: An Equit
 ## Citation
 
 McInnes, R., Airey, L., Moss, P., & Rathnappulige, S. (2026). [*Efficiency at what cost? Salvaging constructive alignment from the GenAI hype*](https://doi.org/10.14742/ajet.11466). *Australasian Journal of Educational Technology*, 42(4), 80–95.
+
+---
+
+## [AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time](https://edtechdev.github.io/aied/articles/mcnamara-aim-cai-continuous-assessment-2026/)
+
+> **Synthesis:** This paper proposes AIM-CAI, a conceptual reference architecture for continuous assessment — the longitudinal accumulation and dynamic interpretation of learning evidence generated across contexts, replacing the field's historical reliance on episodic assessment (examinations, assignments, grades, credentials) as the primary record of competence. The organizing insight is that learning now unfolds across platforms, workplaces, AI tutors, simulations, portfolios, and collaborative networks, generating evidence that remains fragmented across systems, and that converging advances in AI, learning analytics, multimodal analytics, learner modeling, and semantic interoperability make connecting this evidence feasible — but *feasibility is not validity*. AIM-CAI's contribution is explicitly architectural: six interconnected functional layers (evidence generation, evidence representation/serialization, AI-mediated semantic translation, psychometric/inferential interpretation, dynamic learner representation via longitudinal competency profiles, and federated governance) that show how established components — evidence-centered design, programmatic assessment, stealth assessment, semantic interoperability, privacy-preserving computation — can operate together as an infrastructure rather than as isolated techniques. The framework's distinctive posture is its governance seriousness: a table of seven structural tensions (interoperability vs. local autonomy; privacy vs. utility analytics; learner agency vs. predictive automation; innovation vs. governance stability; transparency vs. model complexity; distributed governance vs. accountability; continuous support vs. surveillance), each with concrete risks and governance responses (differential privacy, secure enclaves, contestability mechanisms, explainable AI, bounded monitoring, participatory governance). The paper is candid that the novelty is integrative, not component-level, and that unresolved challenges — validity, fairness, surveillance, semantic instability, ownership of learning evidence — define the research agenda.
+
+The conceptual-shift table is the article's core deliverable for practitioners: learning documented through examinations becomes learning generating evidence across laboratories, writing, collaboration, simulations, workplace experiences, AI-supported learning, and portfolios; grades summarizing discrete achievement become competency profiles evolving as evidence accumulates; feedback attached to individual assignments becomes longitudinal feedback supporting advising, reflection, and future learning; credentials certifying completed learning become credentials supported by transparent longitudinal evidence; governance over institutional records becomes governance spanning the generation, interpretation, sharing, and use of evidence. Each shift carries a failure mode the authors name explicitly — without careful governance design, continuous inferential systems risk privileging dominant cultural norms and marginalizing non-traditional or culturally situated forms of learning. This is a position paper (reference architecture and research agenda), not an empirical evaluation; its value is the shared vocabulary and the governance tension map.
+
+## Key findings / framework components
+
+- **Six functional layers:** (1) learning evidence generation across distributed environments; (2) evidence representation/serialization preserving source and context; (3) AI-mediated semantic translation across systems and competency representations; (4) evidence interpretation through psychometric and inferential models; (5) longitudinal learner representation via dynamic competency profiles; (6) governance and trust over how evidence and inferences are accessed, interpreted, contested, and used.
+- **Seven governance tensions (Table 1), each with risks and responses:** interoperability vs. local autonomy (semantic fragmentation; AI-mediated translation layers, federated standards); privacy vs. utility analytics (loss of signal for small populations; differential privacy, secure enclaves, federated learning); learner agency vs. predictive automation (path dependency, predictive determinism; human oversight, learner control, contestability); innovation vs. governance stability (governance lag; adaptive governance architectures); transparency vs. model complexity (black-box inference; explainable AI, audit trails, uncertainty visualization); distributed governance vs. accountability (unclear liability; federated accountability structures); continuous support vs. surveillance (behavioral conformity, algorithmic governmentality; permissioned access, bounded monitoring, participatory governance).
+- **Seven conceptual shifts (Table 2), episodic → continuous:** evidence sources (exams → authentic activities across contexts); observations (isolated → accumulating); interpretation context (single course → cross-institutional); learner representation (grades → evolving competency profiles); feedback (per-assignment → longitudinal); credentials (completion → transparent development evidence); governance (institutional records → evidence lifecycle governance).
+- **Explicitly NOT proposed:** a centralized learner database, a fully developed technical system, or comprehensive learner monitoring — the architecture is federated, with locally governed systems contributing selected evidence.
+- **Epistemic risk named:** without governance design, continuous inferential systems risk privileging dominant cultural norms, rhetorical traditions, and behavioral expectations while marginalizing non-traditional or culturally situated learning — the fairness argument for the governance layer, not just the privacy argument.
+
+## What this means for practice
+
+- **For institutions:** the architecture gives a vocabulary for auditing existing evidence flows — which of the six functions your current LMS/AI-tutor/assessment stack actually implements, and where the gaps (typically serialization and translation) sit.
+- **For governance design:** the tension table is a ready-made review checklist — each tension has a concrete failure mode and a menu of governance responses, usable as a procurement or policy review framework.
+- **For assessment reform:** the shift table reframes "continuous assessment" from a technology project (more data capture) into an interpretation-and-governance project (evidence integration with preserved context and contestability).
+- **For credentialing:** the transparent-longitudinal-evidence shift is the concrete alternative to both transcript inflation and skills-badge fragmentation.
+
+## Limitations
+
+- Conceptual position paper: no empirical validation, no prototype evaluation, no measurement of whether the architecture improves validity or equity in practice.
+- Framed around US-centric regulatory categories (FERPA, COPPA) and interoperability standards (xAPI, LTI, LRS, RDF) — international generalization is not addressed.
+- The governance tension analysis is qualitative; the tension *taxonomy* is asserted rather than derived from empirical study of governance failures.
+- Longitudinal competency profiles inherit all the psychometric challenges of existing learner models without solving them (the paper says so — "continued empirical research will refine the architecture").
+- The Acknowledgment discloses generative-AI tool use (ChatGPT, Claude, Gemini) in drafting — standard for the venue, but the paper is explicitly an architecture argument rather than an evidence-generating study.
+
+## Citation
+
+McNamara, D. S., & Hasnine, M. N. (2026). AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time. *Information, 17*(8), 806. https://doi.org/10.3390/info17080806
 
 ---
 
@@ -78783,6 +79153,41 @@ RQ5 coded 20 constructs of responsible or trustworthy use. Explicit evidence ran
 
 ## Citation
 Eicher, J., & da Silva, R. (2026). [*From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026*](https://arxiv.org/abs/2609.27939). arXiv preprint.
+
+---
+
+## [Simulating learners' task-selection strategies and system constraints in mastery learning](https://edtechdev.github.io/aied/articles/noh-simulating-task-selection-2026/)
+
+> **Synthesis:** This paper uses simulation — 1,000 simulated learners per run, AFM + BKT parameters estimated from real MathTutor and PSLC DataShop logs — to compare nine task-selection strategies under [[mastery-learning|mastery learning]] shared control, and to test how system constraints interact with them. The headline result is the extreme outlier: the risk-averse "Minimize Worst Case Loss" strategy (choose the skill whose worst-case mastery loss is smallest) produces **30.28× overpractice** in equation-solving and 28.93× in graph-interpretation — an order of magnitude above the other seven strategies (1.73 ± 0.38 and 3.22 ± 0.05). Informed risk-aversion, in other words, is catastrophically inefficient: avoiding any chance of mastery loss means perpetually re-practicing the safest skills. System constraints fix it surgically: task-selection constraints cut Minimize Worst Case Loss overpractice to 12.88/14.46, and a problem-selection "Prefer Harder" bias cuts it to 1.98× (Cohen's d = 1.86) — while already-efficient strategies (Blocking, Interleaving, Strength/Weakness Targeting) are essentially unaffected. The design lesson is that constraint design should be *strategy-aware*: the same constraint that rescues a pathological strategy is inert for healthy ones, which makes targeted constraint design a safe, no-regret improvement to shared-control ITS.
+
+The framework's novelty is bringing outcome-informed strategies (Maximize Usual Case, Minimize Worst Case Loss, Maximize Best Case) into the comparison — these require the simulation to project mastery under best/usual/worst-case scenarios before choosing, modeling learners who reason about outcomes rather than just current mastery. The validation chain is what makes the result trustworthy: AFM/BKT fit on real data, solution paths derived from most-frequent skill sequences, 95% BKT mastery threshold matching ITS practice, TutorShop default parameters (pinit = 0.25, plearn = 0.22, pguess = 0.2, pslip = 0.1), and the design explicitly separates between-problem skill selection from within-problem problem selection to mirror real shared-control architectures. The equity framing in the discussion is important: because learners vary enormously in strategy, a constraint that protects pathological strategies without touching efficient ones is a way to support weaker self-regulators (the risk-averse, the loss-averse) without taking anything away from strong ones — simulation-first redesign avoids exposing students to suboptimal conditions to discover this. The authors flag the next steps: motivation and self-regulated-learning models inside the simulation, and cross-domain validation.
+
+## Key findings
+
+- **Strategy efficiency varies by an order of magnitude.** Minimize Worst Case Loss: 30.28× overpractice (equation-solving), 28.93× (graph-interpretation). All seven other strategies: 1.73 ± 0.38 and 3.22 ± 0.05 respectively.
+- **Risk-aversion is the pathology.** The worst strategy is not laziness but *informed* risk-avoidance — minimizing worst-case mastery loss means re-practicing safest skills indefinitely.
+- **Constraints are strategy-specific levers.** Task-selection constraints cut the pathological strategy to 12.88/14.46×; the Prefer Harder problem-selection constraint cuts it to 1.98× (d = 1.86), while efficient strategies are unchanged across all conditions.
+- **Simulation-first redesign.** The whole study demonstrates the method's value: classroom experimentation would expose students to 30× overpractice to discover the constraint that prevents it.
+- **Grounded parameters.** AFM/BKT fit on real MathTutor/DataShop logs; 95% mastery threshold; TutorShop defaults; 1,000 learners per run; open-source code.
+
+## What this means for practice
+
+- **For ITS developers:** audit which strategies your shared-control interface enables before shipping — the interface's default framing (e.g., showing worst-case projections) may steer risk-averse learners into 30× overpractice.
+- **Design constraints to be inert for good strategies:** the Prefer Harder pattern (bias problem difficulty when a skill is selected) is the template — it rescues pathological strategies and doesn't touch efficient ones.
+- **For researchers:** outcome-informed strategies (best/usual/worst-case projections) are a realistic and previously unmodeled learner behavior class; the simulation harness (AFM+BKT, real-data parameters) is reusable for other shared-control questions.
+- **For equity-aware design:** constraint targeting protects weak self-regulators without taxing strong ones — a no-regret improvement path for mastery learning systems.
+
+## Limitations
+
+- Simulation only — no classroom validation of the constraint effects on real learners; the real-data grounding is in parameters, not in demonstrated behavioral fidelity of the simulated strategies.
+- Two math domains (equation-solving, graph-interpretation); the strategy ranking may be domain-dependent (Strength Targeting was second-worst in equation-solving but the ranking shifts elsewhere).
+- Models only between-problem skill selection with system-side problem selection — learner-controlled problem selection and within-problem choices are out of scope.
+- No motivational or metacognitive modeling (named as future work), so the strategies are cognitive heuristics without the engagement dynamics that mediate them in vivo.
+- Overpractice is the efficiency metric; learning outcomes, time-to-mastery distributions, and long-term retention are not compared across strategies.
+
+## Citation
+
+Noh, H., Chowdhary, A., Ooge, J., Aleven, V., & Borchers, C. (2026). Simulating learners' task-selection strategies and system constraints in mastery learning. *arXiv:2605.21613* [cs.HC]. https://arxiv.org/abs/2605.21613
 
 ---
 
@@ -94705,6 +95110,41 @@ Thoeni, A., & Fryer, L. K. (2026). [AI chatbots in higher education: Comparing e
 
 ---
 
+## [Towards breaking the learning system wall using multimodal tutoring transcriptions](https://edtechdev.github.io/aied/articles/thomas-breaking-learning-system-wall-2026/)
+
+> **Synthesis:** This work-in-progress paper attacks the "learning system wall" — the fact that [[learning-analytics|learning analytics]] models can't generalize across tutoring platforms because each system defines constructs like "attempt" and "hint" differently (MATHia, i-Ready, IXL). Rather than merging audio transcripts, chat logs, and clickstreams — a process that fails on clock drift, missing metadata, and Zoom-alias mismatches — the authors propose generating a single unified "screenplay" transcript directly from screen-recording video using multimodal large language models. The pipeline partitions 30–60 minute tutoring videos into ≤10-minute overlapping segments, processes each through Gemini (locally hosted, for privacy) with strict JSON output constraints (verbatim dialogue + moment-by-moment screen actions), then deduplicates and re-maps segment offsets onto a global timeline. The planned validation aligns these AI transcripts with native MATHia logs as ground truth, anchoring the first physical student action to the first logged attempt and recalibrating against intermediate log milestones to correct cumulative clock drift, then classifies transcript phrases into four MATHia event types (attempt, hint_request, hint_level_change, done) with keyword heuristics to be evaluated on a held-out set by precision/recall/F1/Cohen's κ.
+
+The key empirical claim is that video-derived transcripts capture learning *invisible* to any single log stream. The paper's Table 1 shows a case where a tutor scaffolds equation-solving on a shared whiteboard: MATHia logs the final correct attempt and nothing else — the whiteboard drawing, the student's "84" → "42" reasoning, and the tutor's verbal scaffolding are erased. A second example: a student silently types "I do, but I don't really know how to use it" into Zoom chat while an external Desmos calculator session shows where the computation actually happened; the MATHia log records only an erroneous attempt. Traditional merged pipelines are structurally blind to any event without a software log or audible verbalization — silent whiteboard work, calculator use, app-switching, off-screen context, even a student leaving the computer (logged as "idleness"). The proposed method eliminates multi-stream merging entirely: one video source, one chronological record, with MATHia alignment providing the objective ground truth for validating on-screen problem solving while preserving student privacy without manual video coding. The stated challenges are honest about limits: temporal alignment is hard when students join Zoom rooms at arbitrary times; clock drift accumulates; the current plan validates only on-screen math-logged events (audio transcription accuracy unmeasured); and there is no method yet to discriminate MATHia-aligned events from other learning processes (calculator use, whiteboard work) in the transcript.
+
+## Key contributions
+
+- **Unified screenplay transcript from a single source.** A Gemini-based pipeline (video → ≤10-min overlapping segments → strict JSON event schema → dedupe + global timeline remap) produces one chronological record of dialogue and screen actions, eliminating the audio/chat/clickstream merge entirely.
+- **Planned MATHia-aligned validation.** First physical student action anchored to first logged MATHia attempt for baseline offset; periodic manual recalibration against intermediate backend events to correct clock drift; keyword heuristics classifying transcript text into four event types, to be validated on a ~50-transcript development set plus held-out set with F1 and Cohen's κ.
+- **Documented capture of invisible learning.** Table 1 concretely shows what merged pipelines miss: whiteboard scaffolding, silent student writing, external tool use (Desmos), silent chat cries for help, and off-screen ecological context that native logs reduce to "idleness."
+- **Privacy-preserving design.** Locally hosted MLLMs, full de-identification of transcripts and logs, IRB compliance — no raw video leaves the secure environment.
+- **Explicit challenge inventory.** Temporal matching (arbitrary Zoom entry), incomplete video uploads, unmeasured audio accuracy, inability to distinguish MATHia events from other learning processes, cumulative clock drift without fully automated correction.
+
+## What this means for practice
+
+- **For measurement researchers:** the learning system wall is a *definition* problem (attempt/hint constructs differ per platform), not just a data-format problem; video-derived transcripts are a platform-agnostic measurement substrate that could eventually standardize event extraction across MATHia/i-Ready/IXL.
+- **For infrastructure projects (NTO, SeerNet, SafeInsights):** the pipeline's alignment procedure (anchor + periodic recalibration) is a reusable pattern for any multi-stream tutoring analytics problem, even before cross-system generalization is proven.
+- **For tutoring platforms:** native logs systematically under-report the pedagogy that tutors actually do (whiteboard scaffolding, calculator guidance, silent support) — video transcription recovers it, which matters for studying what makes tutoring effective.
+- **For anyone building on MLLM video understanding:** the paper is a cautionary template — sub-second resolution, autoregressive missequencing of concurrent events, context-window partitioning losses, and privacy constraints are all documented failure modes, with the strict-JSON + overlap + dedupe design as a partial mitigation.
+
+## Limitations
+
+- This is explicitly a work-in-progress / planned method: no results are reported yet — the temporal alignment procedure, the classification metrics, and cross-system generalization are all described but not executed.
+- Validation is single-platform (MATHia) and single-domain (middle-school math); the claimed cross-system generality is a hypothesis, not a demonstration.
+- Audio transcription accuracy is unmeasured; the current plan validates only on-screen, math-logged events.
+- No discrimination yet between MATHia-aligned events and other learning processes in the transcript (calculator, whiteboard), so "capture" may include events the MATHia log has no counterpart for.
+- Clock-drift correction requires manual recalibration against backend logs — not automatable at scale as described.
+
+## Citation
+
+Thomas, D. R., Kamikazi, M. C. A., Gurung, A., Miglani, I., Gupta, S., Levonian, Z., Borchers, C., & Koedinger, K. R. (2026). Towards breaking the learning system wall using multimodal tutoring transcriptions. In *Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con)*, Vol. 1: Full Papers (pp. 622–630). National Council on Measurement in Education.
+
+---
+
 ## [Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking](https://edtechdev.github.io/aied/articles/three-pathways-student-ai-interaction-2026/)
 
 > **Synthesis:** Zahra (2026) introduces the Three Paths of Student-AI Interaction, a typology distinguishing Passive Review, Direct Question, and Strategic Dialogue as qualitatively distinct modes of [[student-ai-interaction]], alongside the Next Level Teaching Blueprint (NLTB), a three-stage design intended to make Strategic Dialogue the structural default. A [[qualitative-research|qualitative content analysis]] of 50 randomly sampled student-AI interaction messages from an undergraduate [[research-methods-aied|research methods]] course classified 46% as Path 1, 18% as Path 2, and 36% as Path 3, with 68% path-level agreement (κ = .48) between two human coders and 80% agreement on Path 3. A second, descriptively examined dataset of 57 messages from a reflection-structured assignment was predominantly Path 3, which the author reads as preliminary evidence that instructional framing shifts which path students take. The paper argues that [[generative-ai|AI use]] is too coarse a category to guide teaching, and that what students do with the tool — not whether they use it — determines the [[critical-thinking|higher-order thinking]] they practice.
@@ -99156,6 +99596,41 @@ Xiong, J., & Li, F. (2026). [*A decade of reflection and thematic review on arti
 
 ---
 
+## [Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation](https://edtechdev.github.io/aied/articles/xu-automated-feedback-tutor-training-2025/)
+
+> **Synthesis:** This paper attacks a specific bottleneck in tutor training: automated feedback on tutors' praise practices requires labeled data, and labeling is expert-labor-intensive. Using sequence labeling (an Inside-Outside scheme) to identify effort-, outcome-, and person-based praise components in tutors' open-ended responses, the authors test whether GPT-4o-generated synthetic data can rescue a GPT-3.5 fine-tune in a simulated low-resource regime — 13 labeled responses (10% of the 129-response corpus) expanded to 520 via augmentation multipliers. The augmentation nearly closes the data gap: fine-tuned on 520 GPT-4o-augmented examples, the small model gains F2 +20.5% on effort-based praise and +17.3% on outcome-based praise over the same model fine-tuned without augmentation, and with only 13 real annotated instances the augmented model "can perform similarly to one trained on 65 annotated instances" — the full real training set. Critically, the gain transfers to an unseen praise category: applied to person-based praise (a two-class NER reformulation, 5 training examples), F2 rises +16.5%, M-IoU +19.9%, IoU +21.6% — evidence that LLM-generated augmentation generalizes rather than overfitting the seeded categories. The mechanism is closer to knowledge distillation than classical augmentation: a strong "teacher" model produces fluent, semantically coherent synthetic labeled examples that transfer task-specific competence to a cheaper "student" model.
+
+The pedagogical target is well-motivated: effort-based praise ("I love the effort you put into this") is the most desirable form, outcome-based ("Good job") is acceptable but weaker, and person-based ("You are smart") is the least desirable because it attributes success to fixed traits — yet tutors often can't see which type they're using, which is why explanatory feedback ("Saying 'great job' praises the student for the outcome. Consider focusing on the student's effort...") has training value. The system uses a custom M-IoU metric with α = 0.2 that penalizes missing words more heavily than extra words (five extra words ≈ one missing word), reflecting the annotation guideline to mark minimal praise spans. The contribution is a scalable recipe: where expert labeling budgets are the binding constraint on [[automated-assessment|automated feedback]] systems for [[teacher-role|educator]] development, synthetic data from a stronger [[llm]] LLM can substitute for most of that budget, with the generalization test across praise types serving as the validity check. The authors also flag GraphRAG as a downstream beneficiary of low-resource LLM augmentation in educational data mining, and note the open problem of filtering synthetic data for semantic coherence before training.
+
+## Key findings
+
+- **Augmentation recovers most of the data gap.** Fine-tuned GPT-3.5 on 520 GPT-4o-augmented examples from only 13 real labeled responses performed comparably to a model trained on the full 65-response real set — a ~5× reduction in expert annotation labor.
+- **Largest gains on effort-based praise:** F2 +20.5% (effort-based) and +17.3% (outcome-based) vs. the non-augmented fine-tune, with consistent improvements in M-IoU and IoU.
+- **Generalization to a new category held:** person-based praise (unseen in the 13-response seed set, only 5 training examples) gained F2 +16.5%, M-IoU +19.9%, IoU +21.6% with augmentation — the key evidence that the approach isn't category-specific.
+- **The method is distillation, not perturbation:** LLM paraphrase/recombination ("hard work paid off" → "tireless labor made sense") preserves grammaticality and semantics in a way rule-based augmentation (random swap/synonym replacement) does not.
+- **Metric design encodes annotation philosophy:** M-IoU with α = 0.2 treats five superfluous words as equivalent to one missing word, matching the instruction to annotate minimal spans.
+
+## What this means for practice
+
+- **For developers of tutor-training platforms:** where the feedback system needs labeled examples of desirable tutor moves, generating synthetic labeled data from a stronger model is a viable substitute for most expert annotation — the recipe (seed set → GPT-4o paraphrase multipliers → fine-tune GPT-3.5) is directly portable.
+- **For evaluation design:** test generalization to at least one held-out behavior category before trusting augmentation gains — the person-based praise result is the model for this validation step.
+- **For metric choice:** the asymmetric M-IoU (extra words cheap, missing words expensive) is the right shape when annotators mark minimal spans; standard IoU would misprice the error types that matter.
+- **For researchers:** the paper connects augmentation to knowledge distillation, suggesting future work should treat teacher-model choice, augmentation multipliers, and filtering policy as tuning knobs rather than fixed steps.
+
+## Limitations
+
+- Single-domain evaluation (tutor praise in one CMU tutor-training lesson, 65 tutors, mostly older White volunteers); generalization to other feedback taxonomies is hypothesized, not tested.
+- Quasi-simulation of low-resource conditions (10% of one dataset); real low-resource deployments may have far weaker seed sets where augmentation has less to work with.
+- The F2/M-IoU gains are relative to a weak baseline (13-instance fine-tune); absolute performance is not benchmarked against human annotators or the prior BERT approach.
+- No filtering policy for low-quality synthetic data is implemented — the authors name it as necessary future work.
+- The person-based-praise reformulation simplifies to a two-class problem, so the generalization evidence, while positive, doesn't demonstrate the method scales to many-way category splits.
+
+## Citation
+
+Xu, C., Lin, J., Wu, T., Aleven, V., & Koedinger, K. R. (2025). Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation. *arXiv:2501.09824v2* [cs.HC]. https://arxiv.org/abs/2501.09824
+
+---
+
 ## [AI as an Agent and Collaborative Space: Exploring the role of generative AI in small group synchronous and asynchronous collaborative dynamics](https://edtechdev.github.io/aied/articles/xu-genai-collaborative-space-2026/)
 
 > **Synthesis:** **AI as an Agent and Collaborative Space.** A qualitative study by Haowei Xu, Ahmed Kharrufa, Ellis Solaiman & Vasilis Vlachokyriakos (2026) examining how [[generative-ai|generative AI]] shapes small-group collaboration through observations and interviews with **27 higher-education students**. Through a [[distributed-cognition|distributed cognition]] lens, the study finds a stark contrast: in **synchronous** settings with a single shared GenAI interface, teams maintain shared awareness, co-construct prompts, treat the chat as shared external memory, and openly negotiate AI's role — whereas in **asynchronous** teamwork GenAI is used individually, with outputs selectively rewritten or "de-labeled" before being shared, making AI's influence on decisions opaque and harder to trace. The paper proposes a **GenAI-Supported Cooperative Work (GSCW)** perspective, framing GenAI as both a configurable agent (from individual assistant to team member) and an interactive collaborative space.
@@ -99366,6 +99841,44 @@ Yan, W., Cui, Y., Chiu, T. K. F., Nakajima, T., & Kozima, H. (2026). [*From cogn
 ## Citation
 
 Yan, D. (2026). [A critical narrative synthesis of psychological correlates, measurement, and reported findings on conversational AI engagement and dependence-related constructs](https://doi.org/10.3389/fpsyg.2026.1827795). *Frontiers in Psychology, 17*, 1827795.
+
+---
+
+## [Balancing teacher and student agency in co-orchestration tools for real-time dynamic pairing](https://edtechdev.github.io/aied/articles/yang-balancing-teacher-student-agency-2026/)
+
+> **Synthesis:** This paper maps how 17 teachers and 13 students want control distributed across a teacher-facing [[intelligent-tutoring|intelligent tutoring]] co-orchestration tool that dynamically pairs students for collaborative problem-solving. Using participatory speed dating (74 co-generated design ideas narrowed to 34 storyboarded hybrids, ranked by all 30 participants with verbalized reasoning), the authors build an agency design space along a teacher-dominated-to-student-dominated axis for seven [[teacher-role|orchestration]] challenges spanning before/during/after pairing. The headline finding is a *temporal gradient*: both stakeholder groups prefer strong teacher control in preparation and initiation, then progressively value hybrid and student control as the activity unfolds — full student control is never preferred by either group. Teachers and students align on hybrid control for content selection, monitoring, transitions, and evaluation, but *diverge* on pairing timing (teachers want more control; students want readiness signaling) and partner selection (the exact inverse — students trust teacher choice, teachers want student voice). The practical recommendation is stage-sensitive agency: structured teacher guidance early, progressively increasing [[agency|student autonomy]] later, with bounded student proposals validated by teacher-facing [[learning-analytics|analytics]] rather than free-form mid-activity override requests.
+
+The theoretical contribution is treating teacher and student control as independent dimensions rather than a zero-sum trade-off (after Eshel & Kohavi 2003): hybrid control means *both* groups can exercise high control simultaneously. The empirical contribution is the design space itself — 32 of the 34 ideas mapped onto a challenge × agency grid, with Kendall's W agreement coefficients per group — which turns "balance agency" into a concrete set of ranked design options per decision point. Notably, several "obviously desirable" autonomy mechanisms (students rejecting partners, switching assignments) rank *last* for teachers and near-last for students, because both groups anticipate gaming and social rather than learning-driven choices. Conversely, "save progress and resume" is the strongest cross-group consensus — abrupt, teacher-timed stops were universally disliked. The design implications generalize beyond this tool: make upcoming actions visible to students (previews, countdowns, advance notice) to build agency grounded in anticipation rather than control; accept *structured, bounded* student input (partner constraints, readiness signals) rather than real-time override; and let system-generated collaboration data — not subjective ratings — anchor future pairing decisions, since both groups distrust rating-based systems (friends rate high; rivals rate low) while both trust objective statistics.
+
+## Key findings
+
+- **A temporal gradient in control preference.** Both groups preferred stronger teacher control in pre-pairing preparation (C1: "quiz for pairing" 1.7 students / "pairing rules" 2.5 teachers) and increasingly favored hybrid or student control in during- and post-collaboration stages (C4 content, C5 monitoring, C6 transitions, C7 evaluation all showed green hybrid bubbles).
+- **Full student control was never preferred** by either group — the rightmost column of the design space is uniformly yellow. Student-initiated requests to change partners or assignments ranked last or near-last for both stakeholders, viewed as disruptive and gameable.
+- **Cross-group alignment:** hybrid control for content selection (teachers: "Teacher proposes, students decide" 1.6; students: "Students propose, teacher decides" 1.83 — both hybrid), automated collaboration support (NPC help 2.0/1.7; keyword detection 1.5 teachers), and progress-preserving transitions ("Save progress and resume" 1.6/1.3).
+- **The two divergences are mirror images.** Timing: teachers preferred "Teacher decides" (2.1) over student-decided timing, fearing chaos and schedule disruption; students preferred readiness self-signaling ("When students are ready" 1.2) to avoid rushing. Partners: students ranked "Teacher decides" first (1.9), citing teachers' knowledge of skills and friendship-distraction risks; teachers preferred "Teacher assigns, student chooses role" (2.2) — each group wanting the *other* to hold more control here.
+- **Objective data over subjective ratings for evaluation.** Students' top choice was teacher pairing based on collaboration statistics (1.4); teachers preferred mutual rating (1.5); both ranked "students rate" last. Distrust of ratings was explicit: "students might rate their friends really high to be paired again, even if they won't be productive" (S7).
+- **Teachers were the more unanimous group** in most challenges (Kendall's W teachers 0.424–0.748; students 0.108–0.702, with lowest agreement on C5 productivity monitoring), suggesting teachers share a coherent classroom-management prior that student preferences lack.
+- **NPC/automated support filled a real gap.** Both groups valued NPC help as a backup when teachers are unavailable (shy students, teacher bandwidth), though both flagged overuse and effectiveness concerns.
+
+## What this means for practice
+
+- **For developers of teacher-facing orchestration tools:** don't offer a single control dial — offer *stage-dependent* defaults. Structure (teacher-led) for preparation and initiation; hybrid proposals for content, monitoring, transitions, and evaluation. The paper's design space is directly reusable as a feature-priority map.
+- **Design for "agency by anticipation":** previews, countdowns, and advance notice of upcoming actions give students preparedness without handing them control — the consensus "save progress and resume" pattern (both groups' top choice) is the concrete instance.
+- **Accept bounded proposals, not free override.** Student partner-constraints or readiness signals submitted *before* pairing, filtered through teacher-facing analytics, satisfy the student-voice demand teachers acknowledged while protecting classroom manageability.
+- **Ground future pairing in system data, not ratings.** Both groups trusted objective collaboration statistics; both distrusted peer ratings as gameable. If ratings are collected, pair them with system data and teacher adjudication, never stand alone.
+- **For researchers:** the PSD method (co-generate 74 ideas → curate 34 storyboards → rank + reason) is a transferable protocol for multi-stakeholder control questions in educational AI, and the agency spectrum × challenge-stage grid is a reusable visualization.
+
+## Limitations
+
+- Small, self-selected sample (17 teachers, 13 students; Phase 2 n=25) recruited via snowballing — not representative of districts, and participant motivation may skew toward tooling enthusiasts.
+- All contexts are U.S.-based; the study's math-algebra tutoring ecosystem (MATHia + peer tutoring + BKT) is one specific configuration, and conclusions may not transfer to non-STEM or non-ITS domains.
+- Storyboard-based evaluation (PSD) measures *stated preference* for designs, not enacted behavior in real classrooms; the paper explicitly notes regions of the design space (e.g., C1 with full student control) remain unmapped.
+- Qualitative clustering is single-study with three coders; quantitative rankings are ordinal means without formal significance testing across groups — the alignment/divergence claims are descriptive.
+- Audio-transcript accuracy of the Zoom caption pipeline was manually corrected, so coding depends on cleaned transcripts.
+
+## Citation
+
+Yang, K. B., Liu, M., Xu, L., Rummel, N., & Aleven, V. (2026). Balancing teacher and student agency: Co-orchestration tool design supporting real-time dynamic pairing. *Proceedings of the ACM on Human-Computer Interaction*, 10(6), Article CSCW054. https://doi.org/10.1145/3816902
 
 ---
 

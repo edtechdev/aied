@@ -144,6 +144,12 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 
 - The teacher's role extends to co-designing AI learning resources: teacher-AI co-designed [[simulation|simulations]] for drone STEM instruction kept GenAI output pedagogically valid and contextually relevant, and teachers are the intended beneficiaries of the Teachers' AI Literacy Scale. Effective GenAI integration increasingly depends on teacher involvement in design.
 
+
+### AI Reflection Systems Should Adapt to Teacher Experience
+
+- **Teacher-facing AI reflection analytics should be expertise-adapted, not one-size-fits-all.** A survey of 100 US K–12 teachers (median split at nine years; binomial tests; 15% choice differences detectable at ~83% power) found systematic preference splits. Less experienced teachers cite lack of reflection time as a top obstacle at 3x the experienced rate (37% vs. 12%, p < .001) and want analytics on student disengagement (48% vs. 33%, p = .028) and emotions (31% vs. 18%, p = .036).
+- **The design rule derived from the split is experience-adapted recommendation modes.** Experienced teachers want analytics on improved learning after helping a student (40% vs. 26%, p = .019) and on their teaching methods (42% vs. 26%, p = .012); their top obstacle is tracking performance (28% vs. 15%, p = .009). Design rule: novice mode = structured prompts and engagement analytics; expert mode = flexible longitudinal analysis — a direct argument against uniform dashboards. ([[falhs-teacher-expertise-reflection-2025]])
+
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
@@ -213,3 +219,4 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 - [[kuhail-great-debaters-ai-facilitators-2026]] — Human versus AI debate moderators: equivalent ratings, different routes to reuse
 - [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI in programming education: a systematic review in which instructor roles are least studied
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — From information providers to learning designers: heutagogical teaching practices in AI-enhanced education
+- [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs et al. 2025)

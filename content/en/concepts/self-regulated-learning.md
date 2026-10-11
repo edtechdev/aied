@@ -155,6 +155,12 @@ Which support is in play decides which mediator carries the association: among 3
 
 - **Conversational agents supporting self-regulated learning in games.** Wenzel, Geiger, and Liening (2026) show that an AI conversational agent (Lara) in a business [[simulation]] game can support self-regulated learning through metric-based [[formative-assessment|formative]] feedback, on-demand guidance, and structured reflection — addressing the common limitation that simulation games provide limited formative feedback and reflection prompts. Evaluations with student teachers and BSG participants reported positive perceptions of the agent's cognitive and [[community-of-inquiry|social presence]] and its support for self-regulation.
 
+
+## Automated SRL Detection: What Transfers and What Doesn't
+
+- **Embedding-based SRL classifiers cross languages within a domain, but not across domains.** A study of 26 students (chemistry and formal logic; think-aloud protocols coded with the Winne-and-Hadwin model) found embedding-based models (text-embedding-3-small) trained on English classify German SRL at ~0.8 AUC with ~0.1 degradation — except enacting (~0.7). Cross-domain transfer fails: chemistry-to-logic drops to ~0.6, enacting to chance (~0.5) — the domain wall, not language, binds.
+- **Three failure modes explain where transfer breaks.** (1) Concept resolution at everyday rather than domain meaning — "cancel" vs. chemistry "kürzen" — breaks enact classification. (2) Anthropomorphization — German students unfamiliar with a heavily scaffolded tutor addressed it as a person, producing out-of-distribution utterances; transfer was better on less-scaffolded platforms. (3) Hint-reading vs. plan-formulation ambiguity — models can't tell reading a metacognitive hint from planning without log data. Realizing errors is robust across every condition — noticing you're wrong is context-independent. Fixes: expert dictionaries or fine-tuning for domain terms; log data for hints. ([[borchers-srl-language-generalization-2025]])
+
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
@@ -210,3 +216,4 @@ Which support is in play decides which mediator carries the association: among 3
 - [[preservice-teachers-ai-support-innovative-competence-2026]] — Support type flips the mediator: AI self-efficacy vs self-regulated learning
 - [[genai-learning-procrastination-planned-behavior-2026]] — GenAI-assisted learning procrastination: an intention-behavior gap that anxiety strengthens
 - [[genai-srl-l2-writing-scale-2026]] — A validated six-dimension GenAI-SRL scale for L2 writing, with environmental regulation as its own dimension and a 12-item ant-colony-optimized short form
+- [[borchers-srl-language-generalization-2025]] — Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains (Borchers et al. 2025)

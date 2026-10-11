@@ -87,7 +87,7 @@ Como a IA apoia o ensino e a aprendizagem é o coração do campo. Os conceitos-
 
 - **Pedagogias centrais:** [[pedagogy|pedagogias e estratégias de ensino]], o guarda-chuva da cobertura da base de conhecimento sobre métodos de ensino, junto com [[active-learning|aprendizagem ativa]], [[collaborative-learning|aprendizagem colaborativa]], [[group-work|trabalho em grupo]], [[project-based-learning|aprendizagem baseada em projetos]], [[problem-based-learning|aprendizagem baseada em problemas]], [[productive-failure|falha produtiva]], [[inquiry-based-learning|aprendizagem baseada em investigação]], [[experiential-learning|aprendizagem experiencial]], [[game-based-learning|aprendizagem baseada em jogos]], [[learning-by-teaching|aprender ensinando]], [[scaffolding|andaimento]], [[socratic-method|o método socrático]], [[critical-pedagogy|pedagogia crítica]], [[pedagogical-partnerships|parcerias pedagógicas]], [[storytelling-in-education|narrativa]], [[learning-design|desenho de aprendizagem]], [[online-teaching-and-learning|ensino e aprendizagem on-line]] e [[video-education|vídeo na educação]].
 - **Teorias e processos de aprendizagem:** o guarda-chuva das [[learning-theories|teorias de aprendizagem]] ([[behaviorism|behaviorismo]], [[cognitive-psychology|cognitivismo]], [[constructivist|construtivismo]], [[sociocultural-learning|sociocultural]], [[distributed-cognition|cognição distribuída]], [[situated-learning|aprendizagem situada]], [[embodied-learning|aprendizagem corporificada]], [[community-of-inquiry|comunidade de investigação]]) fica ao lado de processos voltados ao estudante, como [[self-regulated-learning|aprendizagem autorregulada]], [[self-determination-theory|teoria da autodeterminação]], [[motivation|motivação]], [[self-efficacy|autoeficácia]], [[self-directed-learning|aprendizagem autodirigida]], [[metacognition|metacognição]], [[desirable-difficulties|dificuldades desejáveis]], [[transfer-of-learning|transferência de aprendizagem]], [[prior-knowledge|conhecimento prévio]], [[icap-framework|engajamento cognitivo ICAP]], [[refutation-text|texto de refutação]], [[retrieval-spacing-interleaving|recuperação, espaçamento e intercalação]] e [[activity-theory-aied|teoria da atividade]].
-- **Engajamento e experiência do estudante:** [[student-engagement|engajamento do estudante]], [[help-seeking|busca de ajuda]], [[social-emotional-learning|aprendizagem socioemocional]], [[well-being|bem-estar]], [[creativity|criatividade]], [[problem-solving|resolução de problemas]], [[mastery-learning|aprendizagem para o domínio]] e [[student-ai-interaction|interação estudante-IA]] moldam como os estudantes de fato encontram a IA e são afetados por ela, enquanto as [[social-norms-ai-use|normas sociais que se firmam em torno do uso de IA]] decidem quão abertamente se pode discutir isso.
+- **Engajamento e experiência do estudante:** [[student-engagement|engajamento do estudante]], [[help-seeking|busca de ajuda]], [[social-emotional-learning|aprendizagem socioemocional]], [[well-being|bem-estar]], [[creativity|criatividade]], [[problem-solving|resolução de problemas]], [[mastery-learning|aprendizagem para o domínio]] e [[student-ai-interaction|interação estudante-IA]] moldam como os estudantes de fato encontram a IA e são afetados por ela, enquanto as [[social-norms-ai-use|normas sociais que se firmam em torno do uso de IA]] decidem quão abertamente se pode discutir isso. Além do curso, o [[student-support-and-success|apoio e sucesso ao estudante]] cobre o trabalho do lado institucional — aconselhamento, divulgação, encaminhamento e alocação de apoio escasso —, onde a IA move de forma confiável a conclusão de tarefas, mas não a persistência nem a formatura.
 
 ## Tecnologias e técnicas
 
@@ -191,14 +191,14 @@ A IA na educação se conecta a todos os conceitos da base de conhecimento: é o
 
 Revisões de campo sobre a IA na educação, os estudos que examinam todo o campo ou todo um nível de ensino em vez de um único tópico:
 
-- [[typology-generative-ai-tools-education-2026]]: Typology of Generative AI Tools for Education
-- [[raza-farooq-aied-review-2020-2025]]: Review of Artificial Intelligence in Education from 2020 to 2025
+- : Typology of Generative AI Tools for Education
+- : Review of Artificial Intelligence in Education from 2020 to 2025
 - [[rismanchian-ai-education-four-decades-aixed-2026]]: The evolution of AI-and-education research across four decades (AIxEd framework)
 - [[mishra-control-vs-agency-history-2025]]: Control vs. agency: a history of AI in education
-- [[liang-genai-systematic-review-human-ai-2026]]: Generative AI in education: systematic review of 56 empirical studies
+- : Generative AI in education: systematic review of 56 empirical studies
 - [[genai-higher-education-systematic-review-2026]]: Generative AI in higher education: systematic review of 125 studies
 - [[stanford-evidence-base-ai-k12-2026]]: The evidence base on AI in K-12: a review of 818 papers
-- [[caruana-pre-university-ai-education-slr-2026]]: Pre-university AI education: systematic literature review of 42 studies
+- : Pre-university AI education: systematic literature review of 42 studies
 - [[genai-educational-outcomes-meta-analysis]]: Generative AI and educational outcomes: comprehensive meta-analysis
-- [[caeai-ai-companions-learning-over-performance-2026]]: a research agenda for AI companions built around learning rather than performance
+- : a research agenda for AI companions built around learning rather than performance
 
