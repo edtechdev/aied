@@ -1,6 +1,6 @@
 ---
 connected_resources: [openmaic]
-title: Simulation
+title: "Simulation"
 created: "2026-08-12T21:20:35-04:00"
 updated: "2026-10-10T03:41:06-04:00"
 type: concept
