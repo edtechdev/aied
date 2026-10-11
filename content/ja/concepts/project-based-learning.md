@@ -1,0 +1,87 @@
+---
+title: プロジェクト基盤型学習
+created: "2026-10-10T22:45:45-04:00"
+updated: "2026-10-10T22:45:45-04:00"
+type: concept
+pedagogy: [active-learning, collaborative-learning, project-based-learning]
+technology: [educational-robotics]
+level: [higher ed, k 12]
+confidence: high
+source_updated: "2026-10-03T02:57:43-04:00"
+translation_of: concepts/project-based-learning
+translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-10"
+    agent: hermes-agent
+---
+
+*英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+
+> **プロジェクト基盤型学習(PBL)**——生徒が、探究、問題解決、そして目に見える成果を生むための知識の応用を要求する、長期的で現実世界のプロジェクトに従事することで学ぶ、主体的で学習者中心の[[pedagogy|教授法]]。PBLは、生徒の[[agency|自律性]]、協働、そして[[authentic-assessment|真正な課題]]を重視し、[[educational-robotics|教育ロボティクス]]やAIを含む技術と広く共に用いられ、学習者に実践的で意味のあるプロジェクトを与えます。純粋に理論的な、あるいは講義中心の教授とは対照的です。
+
+## 考えるための問い
+
+- 最後にあなたが本当に「することによって学んだ」とき——何かを組み立て、設計し、創造したとき——を思い浮かべてください。同じ週に座って受けた講義と比べて、何がその経験を心に残るものにしたのでしょうか。その違いは、生徒がAIやロボティクスをどう学ぶかにどう移るでしょうか。
+- PBLと問題基盤型学習はしばしば混同されますが、両者は異なります。一つは目に見えるプロジェクトを生み出すことを中心に据え、もう一つは非構造的な問題を解決することを中心に据えます。読む前に、あなたならどうこの二つを区別するでしょうか——そして、その答えは、コースをどう設計すべきかについて重要でしょうか。
+- あるロボティクスの研究は、「理論・実践の乖離」に、機敏な、学期にわたるプロジェクトで取り組みました。あなた自身の分野について考えると、生徒に教えられることと、彼らが実際にできることとの間の乖離は、どこに開きがちでしょうか。そして、それを閉じるためにプロジェクト基盤のやり方は何を必要とするでしょうか。
+- PBLは、生徒の自律性、協働、真正な課題を重視します。しかし、学習者は、自分自身を方向づける準備において異なります。自己方向づけの支援なしに長期的なプロジェクトを教室に落とし込んだら、何がうまくいかない可能性があり、誰が最も害を受けるでしょうか。
+- PBLは研究において、ゲーミフィケーションや教育ロボティクスと広く結びつけられています。あなたの経験から、楽しさ/[[student-engagement|関与]]は、深い学習の常に信頼できる代理指標でしょうか。それとも、よくスコアを取る「ゲーム」が、表層的な理解を覆い隠しうるでしょうか。
+- 読み進める前に、自問してください。プロジェクト基盤型学習が、特定の学習成果について講義中心の教授を実際に上回ることを、あなたが確信するような具体的な証拠は何でしょうか。そして、現実のコースでその証拠を集めるのは、どれほど難しいでしょうか。
+
+## はじめに
+
+PBLは、[[active-learning]]、[[experiential-learning]]、[[collaborative-learning]]、そして[[constructivist]]の教授法と密接に関連しています。それは、AIとロボティクスの教育にとって特に価値があります。なぜなら、これらの分野は本質的に応用的であり、学習者はロボット、アルゴリズム、そしてシステムを、プロジェクトの文脈で組み立て検証することによって最もよく理解するからです。PBLはまた、[[computational-thinking]]、問題解決、そして[[self-regulated-learning|自己方向づけ]]を涵養します。
+
+プロジェクト基盤型学習は、[[problem-based-learning|問題基盤型学習]]と密接に関連しつつ、それとは区別されます。両者は学習者中心で文脈駆動ですが、問題基盤型学習は、その解決が探究と知識構築を要求する非構造的な*問題*を中心に据えます。一方、プロジェクト基盤型学習は、目に見える*プロジェクト*あるいは成果物を生み出すことを中心に据えます。両者はしばしば混同され、多くのAI教育の枠組みが両方に依拠しています(AI時代の扱いについては[[problem-based-learning|問題基盤型学習]]のページを参照)。
+
+### ナレッジベースの研究におけるPBLの現れ方
+
+- **ロボティクスのプロジェクト:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]]は、応用的な[[cs-education|コンピュータサイエンス]]のプログラムでロボティクスを教えるための、機敏な学期にわたるプロジェクト基盤のやり方を提示し、理論・実践の乖離に取り組んでいます。
+- **AIエージェントによる幼児期におけるプロジェクト・アプローチ:** [[creative-project-approach-ai-early-childhood-2025|Yang, LiとLee (2025)]]は、PBLの基礎的な形——現実世界の話題の長期的な協働的な探究であるプロジェクト・アプローチ(Katz & Chard)——を[[early-childhood-elementary-ai-education|幼児期]]へと拡張し、[[agentic-ai|AIエージェント]]と[[educational-robotics|ロボット]](コーディング・ロボットと生成的な社会性ロボット)をプロジェクトに統合し、幼い子どもたちの[[creativity|創造的な学習]]を涵養する、5段階の**創造的プロジェクト・アプローチ**を提案しています。その5つの段階——学習ニーズの特定、[[teacher-role|教師]]が導く子どもとロボットの相互作用の促進、AIを文脈に位置づけること、自動化/創造性のバランスの調整、成果の評価——は、教師を探究を導く促進者として保ち、PBLを、最も若い学習者にとって発達的に適切なAI利用の自然な乗り物として位置づけています。
+- **ゲーミフィケーションとの結びつき:** [[game-based-gamified-robotics-education-review-2026|系統的レビュー]]は、ロボティクス教育における[[game-based-learning|ゲーミフィケーション]]が、プロジェクト基盤型学習を強く支持したことを見出しました(p = .009)。
+
+この結びつきに関する唯一の3レベルのメタ分析は、22の統制研究(66の効果サイズ、2023年1月から2026年4月)をまとめ、GenAI支援のPBL/PjBLに対して大きな効果を推定しています。g = 0.819, 95% CI [0.655, 0.983]。ただし、著者らのPET-PEESE感度分析は推定をg = 0.378にまで下げるため、見出しの数字は、潜在的に水増しされているものとして読むべきです([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026)]])。道具の種類は効果を有意に調整しました(QM = 14.301, p < .001)。直接使われた一般的なチャットボットは、コースのプラットフォーム、バーチャル患者、あるいはエージェントに組み込まれたシステム(g = 0.455)よりも高い値に集約されました(g = 0.970)。これは、どのモデルが選ばれるかよりも、道具がどう埋め込まれるかが重要であることを示唆しています。
+- **AIリテラシーと共同設計:** PBLは、学習者がAIの道具や資源を共に作り出す、多くの[[ai-literacy|AIリテラシー]]と[[teacher-education]]の介入の基盤になっています。
+- **AIエージェントが支援するソフトウェアのPBL:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]]は、仕様駆動開発(SDD)を[[agentic-ai|AIエージェント]]とともに、チーム基盤の学部レベルのソフトウェアPBLコースに埋め込み、プロジェクトを、調査、計画、実装、評価の段階に構造化し、教授者が運営する理解度チェックと組み合わせました。
+- **教育エージェントを埋め込んだ没入型のVRスタジオ:** [[ai-ive-pbl-vocational-design-creativity-2026|Jin et al. (2026)]]は、職業デザイン教育のために**AI-IVE-PBL**モデルを特定し、PBLをAIを活用した没入的なバーチャル環境([[virtual-and-augmented-reality|VR]]ヘッドセットと[[llm]]に裏打ちされた教育アシスタント)と組み合わせています。職業学習者のためのPBLの慣習的な制約——限られた機材、再現しにくいシナリオ、遅れがちな教師の[[scaffolding|足場]]——は、没入とセッション内のエージェントによって吸収され、モデルは(発見、構想、モデル化、コミュニケーション、精緻化)の5段階のループとして述べられ、各段階に名指しの行為者と成果物を持ち、持続的なアイデア発展的な言説によって駆動されます。12週間の準実験(n = 63)では、その条件はデザイン能力と創造的能力を高め、認知的・行動的な[[student-engagement|関与]]を高めましたが、観念的な新規性(革新的な思考)と感情的関与は変えないままでした——これは、プロジェクトの価値のデザイン特有の部分と観念的な部分が、共に動かないことを示す教訓です。
+
+PBLは、[[active-learning]]、[[experiential-learning]]、[[collaborative-learning]]、[[educational-robotics]]、[[game-based-learning]]、[[computational-thinking]]、そして[[higher-ed]]/[[k-12]]の教授法につながっています。
+
+- **PBLはAIを活用したロボティクス学習を支える。** [[educational-robotics-pathways-2026|パスウェイの研究]]は、プロジェクト基盤のロボティクス+AIのカリキュラムが、高校生が、現実世界の実践、設計、そして遊び心のある創造的な表現への従事を通じて学ぶことを可能にすることを示しています。
+
+## AIリテラシーのコースにおけるPBL
+
+- **AIリテラシーのコースにおけるPBLの測定。** ZhuとKong (2026)は、香港の中学生と大学生の経験に基づいた、AIプロジェクト基盤型学習尺度(AI-PBLS)を開発し検証し、それを使って、知覚されるPBLが、AIにおける[[problem-solving|問題解決]]の能力の増強とAIの[[ethics|倫理]]的意識——という媒介の機構を通じて、AIリテラシーのコースの満足度を涵養することを示しました。この尺度は[[research-methods-aied|研究者]]に検証済みの道具を提供し、媒介の知見は、PBLが、[[ai-education|AI教育]]において、内容だけではなく、自信と倫理的推論を築く乗り物であるという主張を強めます。
+
+### AI時代のデジタルストーリーテリングを伴うPBL
+
+- [[storytelling-in-education|デジタルストーリーテリング]]と組み合わせたプロジェクト基盤型学習は、美術とデザインの教育における[[generative-ai|生成AI]]への教育学的な応答を提供します。426人の学部生を対象とした15週間の埋め込み型事例研究は、デジタルストーリーテリングが、生徒が地域の文化的遺産を感情的に共鳴する[[multimodal|マルチモーダル]]な物語に翻訳するための主要な方法論として機能する、PBL-DS枠組みを実施し、AIが欠いている創造的な能力を涵養しました。
+
+## 関連概念
+- [[problem-based-learning]]
+- [[active-learning]]
+- [[experiential-learning]]
+- [[collaborative-learning]]
+- [[educational-robotics]]
+- [[game-based-learning]]
+- [[computational-thinking]]
+- [[higher-ed]]
+- [[pedagogy]] — 包括:AI教育における教授法と教育戦略
+- [[arts-design-and-media-education]]
+## 関連記事
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 生成AIに支援された教育のための有望な枠組みとしての問題基盤型・プロジェクト基盤型学習:系統的レビューと3レベルメタ分析からの新たな証拠
+- [[pbl-structural-conditions-ai-2026]]
+- [[genai-counter-learner-groupthink-2025]]
+- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
+- [[game-based-gamified-robotics-education-review-2026]] — ゲーム基盤・ゲーミフィケーション化されたロボティクス教育
+- [[genai-literacy-training-teacher-education-dbr-2026]] — 教師のためのAIリテラシー訓練
+- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
+- [[white-wu-robotics-ai-education-2026]] — 教育におけるロボティクスとAI
+- [[educational-robotics-pathways-2026]] — AIを活用した教育ロボティクスへの学びのパスウェイ(2026)
+- [[tsingidou-ct-robotics-kindergarten-2026]] — PBLは支配的なCT学習の戦略である
+- [[creative-project-approach-ai-early-childhood-2025]] — 創造的プロジェクト・アプローチ:幼児期のプロジェクト・アプローチにおけるAIエージェントとロボティクス(Yang, Li & Lee 2025)
+- [[spec-driven-development-ai-agents-sdpbl-2026]] - チームでのソフトウェアPBLにおけるAIエージェントを用いたSDD
+- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL:教育エージェントを埋め込んだ没入型のVRデザインスタジオ、伝統的なPBLに対して評価された(Jin et al. 2026)
