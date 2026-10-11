@@ -102,11 +102,11 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "ja": {
     "epub": {
       "url": "/aied/aied.ja.epub",
-      "bytes": 3008574
+      "bytes": 3012564
     },
     "pdf": {
       "url": "/aied/aied.ja.pdf",
-      "bytes": 8732910
+      "bytes": 8736479
     },
     "llms": {
       "url": "/aied/llms.ja.txt",
