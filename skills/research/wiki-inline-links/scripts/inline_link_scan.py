@@ -352,6 +352,11 @@ AUTO_APPLY_DENYLIST = {
 REJECTED_HITS = []  # populated during a scan; reported so suppressed matches stay visible
 
 REJECT_PAIRS = {
+    # --- 2026-10-11, weekly journal RSS batch: auto-applied links hand-reverted (one entry per revert) ---
+    ('physical engagement', 'differential-effects-across-learner-groups'),  # an engagement strand, not a group-difference claim
+    ('active engagement', 'active-learning'),            # an engagement dimension, not the pedagogy
+    ('agentic engagement', 'agentic-ai'),                # Reeve's engagement construct, not agentic AI
+    ('platforms', 'edtech-platform'),                    # generic platforms, not ed-tech products
     # --- 2026-10-09, daily-scan batch: auto-applied links hand-reverted (one entry per revert) ---
     ('diagnostics', 'learning-analytics'),            # model-output diagnostics, not learning analytics of students
     ('self-check', 'self-assessment'),                # the model's own self-check, not student self-assessment

@@ -1,7 +1,7 @@
 ---
 title: Hallucination Risk
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-11T09:05:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -44,6 +44,8 @@ Defenses against such manipulation carry their own trade-off: a multi-layer guar
 
 **Mitigation approaches** include [[human-in-the-loop-ai]] designs where AI supports rather than replaces [[teacher-role|teacher]] judgment, evidence-aware architectures that calibrate confidence based on evidential quality (as advocated by MathCog), and [[rag]]-based grounding that constrains LLM outputs to verified sources. The [[cognitive-offloading|Over-Reliance]] concept is closely related — hallucination is most dangerous when users trust AI outputs uncritically. [[sidorkin-ai-generated-course-readings-2026|Sidorkin (2026)]] adds a failure mode the mitigation stack does not fully cover: over-specific institutional claims, with roughly 1.03% of logged pages pairing a named campus such as "Sacramento State" with assertive policy verbs about revised retention, tenure and promotion rules or CSU Executive Orders, none of them verifiable from the text. Specificity is what makes this costly, since a fabricated local detail looks exact enough to survive a reader's plausibility check, and the remedy the study proposes is procedural rather than technical: treat generation as draft production under instructor review, then curate sources into a retrieval-augmented design.
 
+**Labeled unreliability lowered reported dependence rather than raising it.** When 546 participants read the same GAI dialogue labeled either as containing fabricated information or as verified accurate, the fabricated label produced lower [[trust]] and perceived controllability and higher cognitive dissonance and frustration alongside *lower* dependence scores (M = 2.935 vs. 3.254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). The result qualifies this page's over-reliance logic: seeing that an output may be fabricated is not the same as continuing to lean on it.
+
 ## Connected Concepts
 
 - [[cognitive-offloading]]
@@ -59,6 +61,7 @@ Defenses against such manipulation carry their own trade-off: a multi-layer guar
 - [[llm]]
 - [[productive-failure]]
 ## Connected Articles
+- [[frontiers-gai-hallucination-dependence-2026]] — Labeling a GAI dialogue as fabricated lowered trust and dependence together
 - [[ivory-psychology-assessment-integrity-2026]] — Fabricated citations and self-contradicting outputs inside passable student work (Ivory et al. 2026)
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]

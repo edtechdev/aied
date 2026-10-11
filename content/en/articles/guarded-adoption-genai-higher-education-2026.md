@@ -1,5 +1,5 @@
 ---
-title: "Guarded adoption of generative AI in higher education: high-achieving students, successful-student identity"
+title: "Guarded adoption of generative AI in higher education: high-achieving students, successful-student identity, and epistemic agency in a single-university mixed-methods survey"
 type: article
 foundations: [agency, cognitive-offloading, critical-thinking, learner-identity]
 technology: [generative-ai]
