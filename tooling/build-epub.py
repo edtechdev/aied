@@ -1081,11 +1081,25 @@ def _locale_cover_path():
     cjk_sans = '/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc'
     dejavu_serif = '/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf'
     dejavu_sans = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
+    # Devanagari (Hindi) needs its own face: DejaVu carries no Indic glyphs and the
+    # CJK faces carry none either, so without this branch the Hindi cover renders
+    # every glyph as a tofu box. Noto Serif/Sans Devanagari carry the best Devanagari
+    # shaping but NO Latin, so the Latin "AI" acronym (in the title and node labels)
+    # would tofu — FreeSans carries both Latin and Devanagari (with GSUB shaping), so
+    # it is the single-font choice for the Hindi cover.
+    free_bold = '/usr/share/fonts/truetype/freefont/FreeSansBold.ttf'
+    dev_serif = '/usr/share/fonts/truetype/noto/NotoSerifDevanagari-Bold.ttf'
+    dev_sans = '/usr/share/fonts/truetype/noto/NotoSansDevanagari-Bold.ttf'
     # A .ttc bundles JP/KR/SC/TC/HK as faces 0-4. Simplified Chinese, Japanese and
     # Korean share a Han set but disagree on glyph shapes, so each locale picks its own
     # face rather than accepting the JP default, which renders SC in Japanese forms.
+    # A single-face .ttf (Devanagari) passes index=0, so CJK_FACE_INDEX stays 0 there.
     CJK_FACE_INDEX = {'zh': 2, 'ja': 0, 'ko': 1}.get(LOCALE, 0)
-    if os.path.exists(cjk_serif) and os.path.exists(cjk_sans):
+    if LOCALE == 'hi' and os.path.exists(free_bold):
+        title_font_path, node_font_path = free_bold, free_bold
+    elif LOCALE == 'hi' and os.path.exists(dev_serif) and os.path.exists(dev_sans):
+        title_font_path, node_font_path = dev_serif, dev_sans
+    elif os.path.exists(cjk_serif) and os.path.exists(cjk_sans):
         title_font_path, node_font_path = cjk_serif, cjk_sans
     else:
         title_font_path, node_font_path = dejavu_serif, dejavu_sans
