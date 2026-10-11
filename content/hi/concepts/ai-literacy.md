@@ -12,7 +12,7 @@ confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 translation_of: concepts/ai-literacy
 source_updated: "2026-10-08T10:20:00-04:00"
-translation_note: "यह अंग्रेज़ी पृष्ठ का मशीन अनुवाद है, जिसकी अभी किसी मूल वक्ता द्वारा समीक्षा नहीं हुई है।"
+translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -21,7 +21,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-*यह अंग्रेज़ी पृष्ठ का मशीन अनुवाद है और इसकी अभी किसी मूल वक्ता द्वारा समीक्षा नहीं हुई है।*
+*यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 
 > **AI साक्षरता** — वह ज्ञान, कौशल और महत्वपूर्ण प्रवृत्तियाँ जो शैक्षिक संदर्भों में [[ai-technologies|AI प्रौद्योगिकियों]] को समझने, मूल्यांकित करने और प्रभावी ढंग से उपयोग करने के लिए आवश्यक हैं। AI साक्षरता में यह समझ शामिल है कि AI कैसे काम करता है, AI उपकरणों का उपयोग करने की व्यावहारिक क्षमता, AI आउटपुट का महत्वपूर्ण [[ai-ed-evaluation|मूल्यांकन]], और AI के सामाजिक निहितार्थों की नैतिक जागरूकता।
 
