@@ -19,7 +19,7 @@ contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
-    date: 2026-10-10
+    date: "2026-10-10"
     agent: hermes-agent
 ---
 
