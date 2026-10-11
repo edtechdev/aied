@@ -1,0 +1,268 @@
+# AI in Education Knowledge Base
+> A comprehensive knowledge base of 220 concepts, 0 research articles, and 37 FAQs covering AI in education — frameworks, methodologies, and papers.
+
+## Concepts
+
+- [教育におけるAI](https://edtechdev.github.io/aied/concepts/ai-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIリテラシー](https://edtechdev.github.io/aied/concepts/ai-literacy/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [エージェンティックAI](https://edtechdev.github.io/aied/concepts/agentic-ai/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [認知的オフローディング](https://edtechdev.github.io/aied/concepts/cognitive-offloading/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [認知的降伏](https://edtechdev.github.io/aied/concepts/cognitive-surrender/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学生のためのAI利用の枠づけ](https://edtechdev.github.io/aied/concepts/framing-ai-use-for-students/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AI の誤用を減らす](https://edtechdev.github.io/aied/concepts/reducing-ai-misuse/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学術的インテグリティ](https://edtechdev.github.io/aied/concepts/academic-integrity/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教授と教師の役割](https://edtechdev.github.io/aied/concepts/teacher-role/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教師の AI リテラシー](https://edtechdev.github.io/aied/concepts/teacher-ai-competency/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学習デザイン](https://edtechdev.github.io/aied/concepts/learning-design/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育開発](https://edtechdev.github.io/aied/concepts/educational-development/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育におけるAIの歴史](https://edtechdev.github.io/aied/concepts/history-of-aied/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIEd研究の解釈と応用](https://edtechdev.github.io/aied/concepts/interpreting-and-applying-aied-research/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIEd研究の限界](https://edtechdev.github.io/aied/concepts/limitations-in-aied-research/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育における AI の哲学](https://edtechdev.github.io/aied/concepts/philosophy-of-ai-in-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [理論と枠組み](https://edtechdev.github.io/aied/concepts/theories-and-frameworks/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育分野におけるAIの理論発展](https://edtechdev.github.io/aied/concepts/theory-development-aied/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [人間とAIの協働](https://edtechdev.github.io/aied/concepts/human-ai-collaboration/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学習者の主体性](https://edtechdev.github.io/aied/concepts/agency/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学習者アイデンティティ](https://edtechdev.github.io/aied/concepts/learner-identity/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [デザイン思考](https://edtechdev.github.io/aied/concepts/design-thinking/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [カリキュラムデザイン](https://edtechdev.github.io/aied/concepts/curriculum-design/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [批判的思考](https://edtechdev.github.io/aied/concepts/critical-thinking/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [計算論的思考](https://edtechdev.github.io/aied/concepts/computational-thinking/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [SAMR モデル](https://edtechdev.github.io/aied/concepts/samr-model/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [技術的・教授法的・内容に関する知識（TPACK）](https://edtechdev.github.io/aied/concepts/tpack/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教授法と教授戦略](https://edtechdev.github.io/aied/concepts/pedagogy/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教授法的パターン](https://edtechdev.github.io/aied/concepts/pedagogical-patterns/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [アクティブラーニング](https://edtechdev.github.io/aied/concepts/active-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [協働学習](https://edtechdev.github.io/aied/concepts/collaborative-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [プロジェクト基盤型学習](https://edtechdev.github.io/aied/concepts/project-based-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [問題基盤型学習（PBL）](https://edtechdev.github.io/aied/concepts/problem-based-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [生産的失敗](https://edtechdev.github.io/aied/concepts/productive-failure/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [探究学習](https://edtechdev.github.io/aied/concepts/inquiry-based-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [体験学習](https://edtechdev.github.io/aied/concepts/experiential-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [ゲームに基づく学習](https://edtechdev.github.io/aied/concepts/game-based-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教えることで学ぶ](https://edtechdev.github.io/aied/concepts/learning-by-teaching/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [足場かけ](https://edtechdev.github.io/aied/concepts/scaffolding/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [ソクラテス式問答法](https://edtechdev.github.io/aied/concepts/socratic-method/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [批判的教育学](https://edtechdev.github.io/aied/concepts/critical-pedagogy/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教授学的パートナーシップ](https://edtechdev.github.io/aied/concepts/pedagogical-partnerships/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育におけるストーリーテリング](https://edtechdev.github.io/aied/concepts/storytelling-in-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [オンライン教育と学習](https://edtechdev.github.io/aied/concepts/online-teaching-and-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育における動画（Video in Education）](https://edtechdev.github.io/aied/concepts/video-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学習理論](https://edtechdev.github.io/aied/concepts/learning-theories/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [行動主義](https://edtechdev.github.io/aied/concepts/behaviorism/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [構成主義](https://edtechdev.github.io/aied/concepts/constructivist/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [認知心理学](https://edtechdev.github.io/aied/concepts/cognitive-psychology/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [社会文化的学習](https://edtechdev.github.io/aied/concepts/sociocultural-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [分散認知](https://edtechdev.github.io/aied/concepts/distributed-cognition/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [状況学習](https://edtechdev.github.io/aied/concepts/situated-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [身体性に基づく学習](https://edtechdev.github.io/aied/concepts/embodied-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [コミュニティ・オブ・インクワイアリ](https://edtechdev.github.io/aied/concepts/community-of-inquiry/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [自己調整学習](https://edtechdev.github.io/aied/concepts/self-regulated-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [自己決定理論](https://edtechdev.github.io/aied/concepts/self-determination-theory/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [動機づけ](https://edtechdev.github.io/aied/concepts/motivation/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [自己効力感](https://edtechdev.github.io/aied/concepts/self-efficacy/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [自己主導学習](https://edtechdev.github.io/aied/concepts/self-directed-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [メタ認知](https://edtechdev.github.io/aied/concepts/metacognition/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [望ましい困難](https://edtechdev.github.io/aied/concepts/desirable-difficulties/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学習の転移](https://edtechdev.github.io/aied/concepts/transfer-of-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [既有知識（前提知識）](https://edtechdev.github.io/aied/concepts/prior-knowledge/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [ICAPフレームワーク](https://edtechdev.github.io/aied/concepts/icap-framework/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIに関する誤概念](https://edtechdev.github.io/aied/concepts/misconceptions/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [反論テキスト](https://edtechdev.github.io/aied/concepts/refutation-text/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [アクティビティ理論](https://edtechdev.github.io/aied/concepts/activity-theory-aied/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [検索練習、間隔空け、交互学習](https://edtechdev.github.io/aied/concepts/retrieval-spacing-interleaving/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学生の関与](https://edtechdev.github.io/aied/concepts/student-engagement/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [援助要請](https://edtechdev.github.io/aied/concepts/help-seeking/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [社会情緒的学習](https://edtechdev.github.io/aied/concepts/social-emotional-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [ウェルビーイング（Well-Being）](https://edtechdev.github.io/aied/concepts/well-being/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [創造性](https://edtechdev.github.io/aied/concepts/creativity/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学生と AI の相互作用](https://edtechdev.github.io/aied/concepts/student-ai-interaction/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [問題解決](https://edtechdev.github.io/aied/concepts/problem-solving/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [習熟学習](https://edtechdev.github.io/aied/concepts/mastery-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [不安とストレス](https://edtechdev.github.io/aied/concepts/anxiety-and-stress/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学生の経験](https://edtechdev.github.io/aied/concepts/student-experience/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学生の支援と成功](https://edtechdev.github.io/aied/concepts/student-support-and-success/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AI 利用の社会的規範](https://edtechdev.github.io/aied/concepts/social-norms-ai-use/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [キャリア形成とその準備](https://edtechdev.github.io/aied/concepts/career-development-and-readiness/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [生涯学習](https://edtechdev.github.io/aied/concepts/lifelong-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [職場学習](https://edtechdev.github.io/aied/concepts/professional-training/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [技術（Technologies）](https://edtechdev.github.io/aied/concepts/ai-technologies/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [機械学習](https://edtechdev.github.io/aied/concepts/machine-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [生成AI](https://edtechdev.github.io/aied/concepts/generative-ai/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [大規模言語モデル（LLM）](https://edtechdev.github.io/aied/concepts/llm/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [RAG（検索拡張生成）](https://edtechdev.github.io/aied/concepts/rag/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [プロンプトエンジニアリング](https://edtechdev.github.io/aied/concepts/prompt-engineering/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [LLMの訓練とファインチューニング](https://edtechdev.github.io/aied/concepts/llm-training-and-fine-tuning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [Vibe Coding（バイブコーディング）](https://edtechdev.github.io/aied/concepts/vibe-coding/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [マルチモーダルAI](https://edtechdev.github.io/aied/concepts/multimodal/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [音声・音声合成技術](https://edtechdev.github.io/aied/concepts/speech-and-voice-technologies/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [可視化（Visualization）](https://edtechdev.github.io/aied/concepts/visualization/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育 NLP](https://edtechdev.github.io/aied/concepts/educational-nlp/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [強化学習](https://edtechdev.github.io/aied/concepts/reinforcement-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [知識グラフ](https://edtechdev.github.io/aied/concepts/knowledge-graph/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育におけるロボット](https://edtechdev.github.io/aied/concepts/educational-robotics/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [対話型AI](https://edtechdev.github.io/aied/concepts/conversational-ai/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [シミュレーション](https://edtechdev.github.io/aied/concepts/simulation/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [バーチャルリアリティと拡張現実（VR/AR）](https://edtechdev.github.io/aied/concepts/virtual-and-augmented-reality/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学習者モデル化と適応的教授](https://edtechdev.github.io/aied/concepts/student-modeling/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [知識追跡](https://edtechdev.github.io/aied/concepts/knowledge-tracing/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [認知的診断](https://edtechdev.github.io/aied/concepts/cognitive-diagnosis/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学生のシミュレーション](https://edtechdev.github.io/aied/concepts/simulating-students/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [知的個別指導](https://edtechdev.github.io/aied/concepts/intelligent-tutoring/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [適応学習](https://edtechdev.github.io/aied/concepts/adaptive-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [パーソナライズド・ラーニング（個別最適化学習）](https://edtechdev.github.io/aied/concepts/personalized-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [推薦システムと学習経路](https://edtechdev.github.io/aied/concepts/recommender-systems-and-learning-paths/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教授法的エージェント](https://edtechdev.github.io/aied/concepts/pedagogical-agent/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [感情的チューリング](https://edtechdev.github.io/aied/concepts/affective-tutoring/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [感情計算](https://edtechdev.github.io/aied/concepts/affective-computing/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [ヒューマン・イン・ザ・ループ](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [ラーニングアナリティクス](https://edtechdev.github.io/aied/concepts/learning-analytics/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [技術受容モデル](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [オープンソース](https://edtechdev.github.io/aied/concepts/open-source/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [エドテック・プラットフォーム](https://edtechdev.github.io/aied/concepts/edtech-platform/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [各学問分野における AIEd](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [数学教育](https://edtechdev.github.io/aied/concepts/math-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [物理教育](https://edtechdev.github.io/aied/concepts/physics-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [化学教育](https://edtechdev.github.io/aied/concepts/chemistry-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [生物学教育](https://edtechdev.github.io/aied/concepts/biology-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [CS教育](https://edtechdev.github.io/aied/concepts/cs-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [工学教育](https://edtechdev.github.io/aied/concepts/engineering-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [STEM 教育](https://edtechdev.github.io/aied/concepts/stem-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [理科教育](https://edtechdev.github.io/aied/concepts/science-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [執筆教育（Writing）](https://edtechdev.github.io/aied/concepts/writing-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [言語学習](https://edtechdev.github.io/aied/concepts/language-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [英語教育（EAP / EFL / ESL）](https://edtechdev.github.io/aied/concepts/english-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [環境教育](https://edtechdev.github.io/aied/concepts/environmental-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [ビジネス教育](https://edtechdev.github.io/aied/concepts/business-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [人文科学と社会科学の教育](https://edtechdev.github.io/aied/concepts/humanities-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [アート・デザイン・メディア教育](https://edtechdev.github.io/aied/concepts/arts-design-and-media-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [デザイン教育](https://edtechdev.github.io/aied/concepts/design-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [医学・医療専門職教育](https://edtechdev.github.io/aied/concepts/medical-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [看護教育](https://edtechdev.github.io/aied/concepts/nursing-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [法学教育](https://edtechdev.github.io/aied/concepts/legal-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [情報技術教育](https://edtechdev.github.io/aied/concepts/information-technology/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学習科学](https://edtechdev.github.io/aied/concepts/learning-sciences/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [K-12](https://edtechdev.github.io/aied/concepts/k-12/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [幼児教育](https://edtechdev.github.io/aied/concepts/early-childhood-elementary-ai-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [高等教育](https://edtechdev.github.io/aied/concepts/higher-ed/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [成人学習者](https://edtechdev.github.io/aied/concepts/adult-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [職業教育訓練（Vocational Education and Training）](https://edtechdev.github.io/aied/concepts/vocational-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [特別支援教育](https://edtechdev.github.io/aied/concepts/special-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教師教育](https://edtechdev.github.io/aied/concepts/teacher-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育の水準](https://edtechdev.github.io/aied/concepts/education-levels/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [評価](https://edtechdev.github.io/aied/concepts/assessment/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [評価的判断力](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [フィードバック](https://edtechdev.github.io/aied/concepts/feedback/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [フィードバック・リテラシー](https://edtechdev.github.io/aied/concepts/feedback-literacy/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIフィードバックの質](https://edtechdev.github.io/aied/concepts/ai-feedback-quality/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [形成的評価](https://edtechdev.github.io/aied/concepts/formative-assessment/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [総括的評価](https://edtechdev.github.io/aied/concepts/summative-assessment/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [真正な評価](https://edtechdev.github.io/aied/concepts/authentic-assessment/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [プロセス志向の評価](https://edtechdev.github.io/aied/concepts/process-oriented-assessment/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [グループ学習](https://edtechdev.github.io/aied/concepts/group-work/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [Eポートフォリオ](https://edtechdev.github.io/aied/concepts/eportfolio/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [相互評価](https://edtechdev.github.io/aied/concepts/peer-assessment/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [自己評価](https://edtechdev.github.io/aied/concepts/self-assessment/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [口頭評価](https://edtechdev.github.io/aied/concepts/oral-assessment/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [自動評価](https://edtechdev.github.io/aied/concepts/automated-assessment/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [自動小論文採点](https://edtechdev.github.io/aied/concepts/automated-essay-scoring/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [自動問題生成](https://edtechdev.github.io/aied/concepts/automated-question-generation/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [評価の妥当性](https://edtechdev.github.io/aied/concepts/assessment-validity/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [心理測定論を意識したAI](https://edtechdev.github.io/aied/concepts/psychometrically-aware-ai/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育測定](https://edtechdev.github.io/aied/concepts/educational-measurement/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [項目反応理論](https://edtechdev.github.io/aied/concepts/item-response-theory/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [自己報告尺度](https://edtechdev.github.io/aied/concepts/self-report-measures/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIの検知](https://edtechdev.github.io/aied/concepts/ai-detection/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [リモート監督付き試験](https://edtechdev.github.io/aied/concepts/remote-proctoring/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学習成果](https://edtechdev.github.io/aied/concepts/learning-gains/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIED における研究方法](https://edtechdev.github.io/aied/concepts/research-methods-aied/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育研究におけるAIの支援](https://edtechdev.github.io/aied/concepts/ai-assisted-educational-research/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [質的研究](https://edtechdev.github.io/aied/concepts/qualitative-research/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [量的研究](https://edtechdev.github.io/aied/concepts/quantitative-research/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [混合研究法](https://edtechdev.github.io/aied/concepts/mixed-methods-research/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [デザインベース研究](https://edtechdev.github.io/aied/concepts/design-based-research/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [ユーザビリティ調査（Usability Research）](https://edtechdev.github.io/aied/concepts/usability-research/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [ランダム化比較試験（RCT）](https://edtechdev.github.io/aied/concepts/rct/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [メタアナリシスと系統的レビュー](https://edtechdev.github.io/aied/concepts/meta-analysis-systematic-review/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [潜在プロファイル分析](https://edtechdev.github.io/aied/concepts/latent-profile-analysis/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [ネットワーク分析](https://edtechdev.github.io/aied/concepts/network-analysis/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AI教育の評価（AI Ed Evaluation）](https://edtechdev.github.io/aied/concepts/ai-ed-evaluation/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [ベンチマーク](https://edtechdev.github.io/aied/concepts/benchmark/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育委員会・管理者](https://edtechdev.github.io/aied/concepts/administrator/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育技術の開発者](https://edtechdev.github.io/aied/concepts/educational-technology-developers/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学習者](https://edtechdev.github.io/aied/concepts/learners/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [司書](https://edtechdev.github.io/aied/concepts/librarians/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [親と家庭](https://edtechdev.github.io/aied/concepts/parents-and-families/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [ステークホルダー](https://edtechdev.github.io/aied/concepts/stakeholders/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育におけるAI政策](https://edtechdev.github.io/aied/concepts/educational-policy-ai/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIガバナンス](https://edtechdev.github.io/aied/concepts/governance/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [変革のマネジメント](https://edtechdev.github.io/aied/concepts/change-management/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育における AI 規制](https://edtechdev.github.io/aied/concepts/regulation/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [公平性](https://edtechdev.github.io/aied/concepts/equity-in-ai-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学習者集団間で異なる効果](https://edtechdev.github.io/aied/concepts/differential-effects-across-learner-groups/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [デジタルデバイド](https://edtechdev.github.io/aied/concepts/digital-divide/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [バイアスの緩和](https://edtechdev.github.io/aied/concepts/bias-mitigation/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [文化的に関連する教育学](https://edtechdev.github.io/aied/concepts/culturally-relevant-pedagogy/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [多言語学習](https://edtechdev.github.io/aied/concepts/multilingual-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [インクルーシブ学習](https://edtechdev.github.io/aied/concepts/inclusive-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [アクセシビリティ](https://edtechdev.github.io/aied/concepts/accessibility/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [支援技術](https://edtechdev.github.io/aied/concepts/assistive-technology/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [ニューロダイバーシティ](https://edtechdev.github.io/aied/concepts/neurodiversity/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学びのユニバーサルデザイン（Universal Design for Learning）](https://edtechdev.github.io/aied/concepts/universal-design-for-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [グローバル・サウス](https://edtechdev.github.io/aied/concepts/global-south/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育における倫理](https://edtechdev.github.io/aied/concepts/ethics/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIの誤用と学習への害](https://edtechdev.github.io/aied/concepts/ai-misuse-learning-harm/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [法的問題とリスク](https://edtechdev.github.io/aied/concepts/legal-issues-and-risks/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AI の利用と開示の表明](https://edtechdev.github.io/aied/concepts/ai-use-disclosure/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [ガードレール](https://edtechdev.github.io/aied/concepts/guardrails/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [プライバシー](https://edtechdev.github.io/aied/concepts/privacy/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [ハルシネーション・リスク](https://edtechdev.github.io/aied/concepts/hallucination-risk/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIのごすり性（AI Sycophancy）](https://edtechdev.github.io/aied/concepts/ai-sycophancy/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [信頼（Trust）](https://edtechdev.github.io/aied/concepts/trust/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [信頼の較正（Trust Calibration）](https://edtechdev.github.io/aied/concepts/trust-calibration/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [説明可能AI](https://edtechdev.github.io/aied/concepts/explainable-ai/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [サステナビリティ](https://edtechdev.github.io/aied/concepts/sustainability/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教授法的安全性](https://edtechdev.github.io/aied/concepts/pedagogical-safety/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+
+## FAQs
+
+- [教育におけるAIに関するよくある誤解にどう対処すればよいでしょうか？](https://edtechdev.github.io/aied/faqs/addressing-common-misconceptions-ai-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIエージェントはどのように学生と教員を支援できますか？](https://edtechdev.github.io/aied/faqs/ai-agents-support-students-instructors/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIは学生の不安と幸福にどう影響し、私たちは何ができるでしょうか？](https://edtechdev.github.io/aied/faqs/ai-anxiety-wellbeing/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIは私の講義において障害のある学習者と神経多様性のある学習者をどう支援できますか？](https://edtechdev.github.io/aied/faqs/ai-disabled-neurodivergent-learners/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIはどうすれば大規模により良いフィードバックを与える助けになりますか？](https://edtechdev.github.io/aied/faqs/ai-feedback-at-scale/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [13歳未満の子供とのAIに保護者と教師はどう向き合うべきでしょうか？](https://edtechdev.github.io/aied/faqs/ai-guidance-children-under-13/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [高等教育におけるAIリテラシー介入の証拠は何を示していますか？](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIはどうすれば教員としての私の時間を節約できますか？](https://edtechdev.github.io/aied/faqs/ai-save-instructor-time/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AI が仕事をこなせる時代に、非同期オンラインコースはどう設計し、どう進行させるべきか？](https://edtechdev.github.io/aied/faqs/asynchronous-online-courses-ai/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育 AI が正しく機能していると、どうすれば分かるか——高得点を取っているだけではないと？](https://edtechdev.github.io/aied/faqs/checking-whether-educational-ai-works/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [コース AI 方針をどう書き、どう学生に伝えるか？](https://edtechdev.github.io/aied/faqs/course-ai-policy/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AI は学習体験にどう設計されるべきか？](https://edtechdev.github.io/aied/faqs/designing-ai-into-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [効果的な教育 AI ソフトウェアを設計するためのベストプラクティスとコツは何か？](https://edtechdev.github.io/aied/faqs/designing-educational-ai-software/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [効果的な AI チューターを開発するためのベストプラクティスは何か？](https://edtechdev.github.io/aied/faqs/developing-ai-tutor/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AI を使うことは実際に学生の学習を助けるのか？](https://edtechdev.github.io/aied/faqs/does-ai-help-students-learn/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育におけるAI研究に、公平性・アクセシビリティ・プライバシー・倫理・教育的安全をどのように組み込むべきか](https://edtechdev.github.io/aied/faqs/equity-ethics-pedagogical-safety-research/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育者はAI関連の介入を評価するために、どのような測定方法や研究方法を用いることができるでしょうか。](https://edtechdev.github.io/aied/faqs/evaluating-ai-interventions-methods/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教員にはAIに関してどのような能力が必要ですか?](https://edtechdev.github.io/aied/faqs/faculty-ai-competencies/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [本当に教育実践を変えるAIファカルティ・ディベロップメントを設計するには、どうすればよいですか？](https://edtechdev.github.io/aied/faqs/faculty-development-ai/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [グループ課題・協働課題における AI への対処の仕方はどうあるべきか？](https://edtechdev.github.io/aied/faqs/group-work-ai/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIは学生にどのような影響を与えているでしょうか？](https://edtechdev.github.io/aied/faqs/how-ai-impacts-students/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIは教育研究にどのように貢献できますか？](https://edtechdev.github.io/aied/faqs/how-can-ai-assist-with-educational-research/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [コースにAIリテラシーをどう組み込むべきでしょうか？](https://edtechdev.github.io/aied/faqs/incorporating-ai-literacy/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [機関の AI 方針をどう書き、どう実施するか？](https://edtechdev.github.io/aied/faqs/institutional-ai-policy/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [私たちの専門分野において、AI が学習支援をより上手く行えるようにするにはどうすればよいでしょうか？](https://edtechdev.github.io/aied/faqs/making-ai-better-at-supporting-learning/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [シミュレートされた学生を実際の学習者のように振る舞わせるにはどうすればよいでしょうか？](https://edtechdev.github.io/aied/faqs/making-simulated-students-behave-like-learners/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [成績が、学生の知識や遂行能力について私が擁護できることをまだ教えてくれるように、評価を再設計するにはどうすればよいですか？](https://edtechdev.github.io/aied/faqs/redesign-assessment-ai-era/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [コースでのAIカンニングを減らすにはどうすればよいですか?](https://edtechdev.github.io/aied/faqs/reduce-ai-cheating/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学生がAIに過度に依存するのを防ぐにはどうすればよいですか？](https://edtechdev.github.io/aied/faqs/reducing-over-reliance/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育分野のAIの研究を報告し解釈する上でのベストプラクティスは何でしょうか。](https://edtechdev.github.io/aied/faqs/reporting-interpreting-aied-research/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教育分野のAIに関する研究文献には、どのような注目すべきギャップがあるでしょうか。](https://edtechdev.github.io/aied/faqs/research-gaps-aied/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AI検出ツールを使うべきですか?](https://edtechdev.github.io/aied/faqs/should-we-use-ai-detectors/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIをどう使えば効果的に学べるのか？](https://edtechdev.github.io/aied/faqs/study-with-ai/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [教員が知っておくべき、教育分野のAI研究における重要な10の知見とは何ですか?](https://edtechdev.github.io/aied/faqs/top-10-findings-ai-education-instructors/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIチューターに学生に答えるのではなく導くように訓練するにはどうすればよいでしょうか？](https://edtechdev.github.io/aied/faqs/training-ai-tutors-to-guide-rather-than-answer/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [学生にAIの出力を検証する方法をどう教えればよいでしょうか？](https://edtechdev.github.io/aied/faqs/verify-ai-output/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [AIの文脈におけるライティング指導のベストプラクティスは何ですか?](https://edtechdev.github.io/aied/faqs/writing-instruction-ai-best-practices/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+
+## Articles
+
