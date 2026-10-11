@@ -12,7 +12,7 @@ institutions: [educational-policy-ai, regulation]
 connected_resources: [fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
 source_updated: "2026-10-10T14:22:00-04:00"
-translation_note: "यह अंग्रेज़ी पृष्ठ का मशीन अनुवाद है, जिसकी अभी किसी मूल वक्ता द्वारा समीक्षा नहीं हुई है।"
+translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -21,7 +21,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-*यह अंग्रेज़ी पृष्ठ का मशीन अनुवाद है और इसकी अभी किसी मूल वक्ता द्वारा समीक्षा नहीं हुई है।*
+*यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 
 > **शैक्षणिक इमानदारी** — AI के युग में ईमानदार शैक्षणिक काम को शासित करने वाला नैतिक ढाँचा। ज्ञानकोश दस्तावेज़ित करता है कि अवधारणा को [[generative-ai|जनरेटिव-AI]] ने कैसे पुनःफ्रेम किया है: [[ai-detection|बेईमान आउटपुट पकड़ने]] की समस्या से ईमानदार काम को दृश्यमान, सत्यापनीय और बनाने योग्य बनाने के डिज़ाइन समस्या में। इस क्षेत्र में शैक्षणिक इमानदारी [[research-methods-aied|शोध]] पहचान-केंद्रित दृष्टिकोणों से मौलिक मूल्यांकन-पुनर्डिज़ाइन, शिक्षाशास्त्र-नेतृत्वशील शासन, और [[ai-literacy|छात्रों को AI का अच्छी तरह उपयोग सिखाने]] की ओर विकसित हुई है न कि केवल यह पुलिसिंग कि वे करते हैं या नहीं।
 

@@ -13,7 +13,7 @@ confidence: high
 connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks]
 translation_of: concepts/learning-design
 source_updated: "2026-10-03T02:57:43-04:00"
-translation_note: "यह अंग्रेज़ी पृष्ठ का मशीन अनुवाद है, जिसकी अभी किसी मूल वक्ता द्वारा समीक्षा नहीं हुई है।"
+translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -26,7 +26,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-*यह अंग्रेज़ी पृष्ठ का मशीन अनुवाद है और इसकी अभी किसी मूल वक्ता द्वारा समीक्षा नहीं हुई है।*
+*यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 
 > **सीखने का डिज़ाइन** (जिसे *निर्देशात्मक डिज़ाइन* भी कहा जाता है) — सीखने की आवश्यकताओं के विश्लेषण और निर्देशात्मक सामग्री और गतिविधियों के डिज़ाइन, विकास, कार्यान्वयन और मूल्यांकन के माध्यम से प्रभावी सीखने के अनुभव बनाने की व्यवस्थित प्रक्रिया। AI सीखने के डिज़ाइन को सामग्री निर्माण को स्वचालित करके, [[adaptive-learning|अनुकूली सीखने]] के पथ सक्षम करके, डेटा-चालित पुनरावृत्ति का समर्थन करके और निर्देशात्मक डिज़ाइनर की भूमिका को बढ़ाकर — बदलने के बजाय — बदल रहा है।
 
