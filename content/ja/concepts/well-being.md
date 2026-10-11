@@ -1,0 +1,125 @@
+---
+title: ウェルビーイング（Well-Being）
+created: '2026-10-11T05:08:53-04:00'
+type: concept
+foundations:
+- ai-literacy
+pedagogy:
+- motivation
+- social-emotional-learning
+ethics:
+- ethics
+audience:
+- learners
+level:
+- higher ed
+confidence: high
+connected_faqs:
+- how-ai-impacts-students
+- ai-anxiety-wellbeing
+updated: '2026-10-11T05:08:53-04:00'
+source_updated: '2026-10-01T20:35:10-04:00'
+translation_of: concepts/well-being
+translation_note: 英語ページの自動翻訳です。母語話者による確認はまだ行われていません。
+contributors:
+- editor
+ai_assist:
+- model: stepfun/step-5-preview:free
+  role: translation
+  date: '2026-10-11'
+  agent: hermes-agent
+---
+
+*英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+
+> **ウェルビーイング（Well-Being）** — 精神的、身体的、社会的に健康である肯定的な状態であり、感情的、心理的、社会的な次元を含みます。AI in educationにおいて、ウェルビーイングは中心的な関心事となっています。[[generative-ai|生成的AI]]が学習環境に急速に統合されることで、学生と教育者の精神的健康、動機づけ、所属感、不安、主体性の感覚に影響を与えうるからです——AIが学習者のウェルビーイングを支えるのか損なうのかという問いを提起します。
+
+## 考えるべき問い
+
+- 教育におけるウェルビーイングは、学習成果の隣で「柔らかい」あるいは二次的な関心事として扱われがちです。しかしこのページはそれをAI統合の中心的で設計可能な次元として枠づけます。学習者と教師のウェルビーイングは、設計するべきものだと考えますか、それとも後から確認できる副産物でしょうか。それを後回しにすることで、この分野は何を失いかねないでしょうか。
+- AIの利用が自分や学生の自信、不安、所属感、主体性——良い面でも悪い面でも——にどう影響したか考えてください。利便性を超えて、AIが学習や教授の感情的な経験を変えた具体的な一つの方法は何でしょうか。
+- このページは、AIの利用が不安と絡み合っていることを指摘しています——学術的誠実性について、AIに頼ることが弱さを示すかどうかについて、過度な依存について。AIが不安を和らげるのではなく引き起こしたのをどこで見たことがあるでしょうか、そしてその状況で最も影響を受けたのは誰でしょうか。
+- よくある直観は、AIが難しい課題を引き受けることでストレスを減らすというものです。反対が真であるのはどこでしょうか——短期的な労力を下げながら、力量、誠実性、「本当にどうやるかを知らない」ことについての不安を高めるAI。出力ではなくウェルビーイングの変化をどう測定するでしょう。
+- ウェルビーイングは感情的、心理的（目的、[[agency|自律性]]、力量）、社会的（所属感、関係）な次元にまたがります。そのうち一つを選んでください。AIツールは学習の場でそれをどう静かに改善したり損なったりしうるでしょうか——そして証拠として何を探すでしょうか。
+- 教師のウェルビーイング——仕事量、破壊的な技術についての不安、感情的サポートを提供する能力——は学生のものと同じくらい賭けられています。教育者やリーダーなら、AI統合が圧力を加えるのではなく教育者のウェルビーイングを支えるには何が必要でしょうか、そして誰がそれに説明責任を負うべきでしょうか。
+
+## はじめに
+
+教育におけるウェルビーイングは多面的です。感情的ウェルビーイング（肯定的な感情、低い苦痛）、心理的ウェルビーイング（目的、自律性、力量）、社会的ウェルビーイング（所属感、肯定的な関係）を含みます。AI時代には、AIがこれらの次元に影響する仕方で学習を再形成しうるため、ウェルビーイングが重要です——学生の自信を下げ[[academic-integrity|学術的誠実性]]についての不安を高めることから、[[student-engagement|関与]]と所属感を育むか損なうかまで。AIが学生の社会情緒的スキル、ウェルビーイング、社交性、信頼と共感の感覚に与える影響についての懸念（OECDらによって提起された）は、ウェルビーイングを責任あるAI統合における重要な考慮事項として位置づけました。
+
+### 研究におけるウェルビーイングの現れ
+
+- **[[ai-literacy|AIリテラシー]]と社会情緒的学習：** [[sec-ai-literacy-narrative-review-2026|SECをAIリテラシーに統合する研究]]は、教育者と学生の感情的知性とウェルビーイングを育むことが、AI[[sociocultural-learning|媒介]]学習環境を航走するために不可欠だと論じ、[[social-emotional-learning|社会情緒的学習]]とAIの感情的次元に接続します。
+
+- **AI不安と学生体験：** AIへの関与に関する研究（例：[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDTベースの研究]]）は、AIの利用が不安、信頼、自信と絡み合っており、学生のウェルビーイングが学術的誠実性、[[creativity|創造性]]、[[cognitive-offloading|過度な依存]]についての懸念に影響されることを見出します。
+- **不安の減少が一様に有益というわけではない。** 35人の大学進学前の学生を対象とした均衡化された被験者内研究では、LLM支援の会話エージェントは口頭評価中の自己申告の不安を下げました（穏やかさ6.50対5.86、p = .028）が、著者らは中程度の不安は促進的でありうると戒め、達成度スコアは記録しませんでした（[[aivaluate-anxiety-assessment-2026|Yusuf、Money、Daylamani-Zad（2026）]]）。
+
+- **高い承認は緊張と共存し、AI課題圧力は便益を弱める。** 551人の1年生の学生のうち、82.76%はデジタルで知的なコンテンツの統合を承認した一方、69.51%は[[anxiety-and-stress|不安]]や緊張を報告し、AI熟達度から適応への傾きはAI課題圧力の上昇とともに0.42から0.20に下がりました（[[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin（2026）]]）。
+
+- **知覚されたAI能力は目標の進展を通じて精神的健康を高めうる。** [[perceived-ai-intelligence-medical-students-mental-health-2026|Chenら（2026）]]は、知覚されたアシスタントの知性から精神的健康への連続的な経路が有意であること（B = 0.098）を、そして[[ai-literacy|AIリテラシー]]が高いとき（0.124）に低いとき（0.072）よりも強いことを見出しましたが、すべての成果は短い課題の直後に測定されました。
+
+- **感情的サポートのチュータリングが自動的にウェルビーイングにとってより良いわけではない。** 代数のチューターに加えられたLLMマインドフルネス層は、両群で状態に基づく数学の不安を下げましたが、認知のみのヒントとフィードバックよりも下げたわけではなく、学生は心を配るエージェントをより支援的に評価したものの——知覚された配慮をウェルビーイングの成果として読むことへの戒めです（[[mindful-llm-math-tutoring-2026|Riefら、2026）]]）。
+
+- **AI不安、適応、依存をウェルビーイングの信号として：** [[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhangら（2026）]]は、AI不安が減少した[[metacognition|感情調節]]を通じて部分的に学業的な動機づけと負に関連していることを、中国の大規模標本で見出します（性別によって調整）。[[wu-psychological-adaptation-ai-japanese-learning-2026|Wu（2026）]]は、[[language-learning|日本語]]の学習者が、技術ストレスと回復力に駆動された不適応的、中程度、肯定的な心理的適応のプロファイルに分類され、学期を通じてより良い適応へと移行することを示します。そして[[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan（2026）]]は、[[conversational-ai|会話型AI]]への関与の横断的な相関（孤独、不安、低いウェルビーイング）を帰結として読むべきではなく、支援的で有害な経験が共存すると戒めます。
+
+- **AIとの絆が守るか害するかはオフラインの関係次第である。** [[ai-connectedness-adolescent-mental-health-2026|FuとZhao（2026）]]は、精神的健康への効果が、その強度だけではなく従来のオフラインのつながりに対するAIのつながりを追跡すると提唱します——実世界の絆がアイデンティティ確認のニーズを満たすところでは補足的で、[[parents-and-families|養育者]]が満たさないところでは補償的で——そして両者の間に逆U字の関係を予測します。
+- **文化的に[[situated-learning|状況化]]されたウェルビーイング支援とその限界：** [[culturally-aware-student-stress-chatbot-2026|BashirとAfzal（2026）]]は、パキスタンの大学生のためのハイブリッドなウェルビーイングシステムSukoonを記述します。3段階の深刻度にわたって89.09%の精度を持つランダムフォレストのストレス分類器（20の調査特徴量）を、Stepped Care Modelに沿って3層にわたって口調と支援の強度をエスカレートさせる[[llm|LLM]]対話層と組み合わせています。西洋で設計された精神的健康ツールは英語で、ウルドゥー語やローマ字ウルドゥー語で苦痛を表現し、学業・経済・家族・関係のストレッサーに同時に直面する学生にとって文化的に不適合であるため、構築されました。著者らは、それが[[medical-education|臨床的]]な診断や治療ツールではないこと、高い苦痛の反応は専門的なカウンセリングへ向かうべきであること、チャットボット層は文化的な適切さや感情的な安全性について学生とまだ評価されていないことを明示しています。
+
+- **教師のウェルビーイングと役割：** AIが[[teacher-role|教師]]に与える影響——仕事量、破壊的な技術で教えることへの不安、感情的サポートを提供する能力を含む——は繰り返し現れる懸念であり、[[teacher-ai-competency|教師のAI力量]]と[[educational-development|専門職開発]]に接続します。
+
+502人の大学教員の構造方程式モデルでは、AIリテラシーは技術的な自己効力感（β = 0.082）よりもはるかに強くAIウェルビーイングを予測し（β = 0.713）、社会的・組織的な支援は間接的にしかウェルビーイングに達しませんでした——力量が、励ましではなく効果を担ったのです（[[faculty-ai-well-being-social-supports-2026|Liuら（2026）]]）。
+- **AI支援の教師開発を評価する基準としての関係の稠密化：** [[ai-emotional-intelligence-teacher-development-2026|Aponteら（2026）]]は、AIが人間の伴走の象徴的な代替ではなく関係的な基盤として機能するときにのみ、教師の社会情緒的な発達を支えると論じます。彼らはAI支援の専門職開発の取り組みを判断する基準として**関係の稠密化**——それが信頼、指導、仲間支援、協働、心理的安全性、孤立の軽減を強めるかどうか——を提唱し、これらの関係が教室の風土、[[pedagogy|教育学的]]な応答性、社会情緒的な支援を通じて学生に下流の効果を持つことを指摘します。この総合はまた、感情的なデータの[[governance|ガバナンス]]と教育AIの政治経済が独自の倫理的リスクを帯びていると戒め、[[ai-literacy|批判的なAIリテラシー]]を社会情緒的な力量として枠づけます。
+
+- **倫理と責任あるAI：** ウェルビーイングは[[ai-education|AI教育]]における中核的な倫理的考慮事項であり、[[ethics|倫理]]と、学習者の精神的健康と所属感を損なうのではなく支えるAIを設計する要請に接続します。
+
+- **ウェルビーイングのリスクとしての検出器不安。** [[sovereign-hive-titl-further-education-2026|Herron（2026）]]は「flagxiety」——信頼できない[[ai-detection|AI検出器]]の告発への恐怖によって引き起こされる不安——を名指し、認知的な独自性が不正行為として読みうる周縁化された継続教育の学習者は、認知的シャットダウンを引き起こしうる規制されていないインターフェースではなく関係的な規制を必要だと論じます。
+
+### 設計上の考慮事項としてのウェルビーイング
+
+繰り返し現れるテーマは、ウェルビーイングがAI教育における意図的な設計上の考慮事項であるべきであり、後回しにしてはならないということです。それは次を意味します。人間の関係を支えるAIを設計し、置き換えるAIではないこと。学生が[[anxiety-and-stress|AIによって引き起こされる不安]]や過度な依存を経験するのではなく、主体性と自信を維持できるようにすること。AIを統合する中で教育者の能力とウェルビーイングを支えること。そしてAIシステムを[[learning-gains|学習成果]]だけでなく、学生と教師のウェルビーイングへの影響についても[[ai-ed-evaluation|評価]]することです。[[research-methods-aied|研究]]はウェルビーイングを[[motivation|動機づけ]]、[[self-regulated-learning|自己調整学習]]、[[student-experience|学生体験]]（所属感と関与）に接続します。[[daoism-ai-education-philosophy-2026|Xie（2026）]]は、対応する教育学的な目的を主張します。道家の「真人」という対抗的な理想は、摩擦のない最適化を「涵養された全体性」で置き換え、自己・社会・宇宙の調和的な統合としての学習を再想像し、「学生は管理される単なるデータセットではなく、平静を達成できる全体の存在である」と主張します。
+
+概念的な再枠組みは、[[self-regulated-learning|感情調節]]の支援を感情の検出だけではなく身体的活動とキャンパスの生態に接地します。単一の表現的な経路は文脈なしでは苦痛を特定できないため、AIは運動を通じて調節を支援すべきで、教師とカウンセラーが解釈を保ち、影響の監視は出席や評点に結びついた瞬間に強制的になります（[[ai-emotion-regulation-sport-exercise-2026|Zhangら（2026）]]）。
+
+### 関連概念との接続
+
+ウェルビーイングは、[[student-experience|学生体験]]（学習者の全体的な経験の次元として）、[[social-emotional-learning|社会情緒的学習]]と[[affective-computing|感情的コンピューティング]]（AIが交差する感情的な力量）、[[ethics|倫理]]（中核的な倫理的考慮事項として）、[[motivation|動機づけ]]と[[self-regulated-learning|自己調整学習]]（ウェルビーイングはこれらを支え、支えられる）、[[teacher-ai-competency|教師のAI力量]]（教育者の能力とウェルビーイング）、そしてAIがウェルビーイングを形作る場としての[[higher-ed|高等教育]]と[[k-12|K-12]]に接続します。
+
+**信号としての摩擦、意味、孤独。** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar、Bloom、Inzlicht（2026）]]はウェルビーイングの主張にメカニズムを与えます。努力は私たちの行動が重要であることを信号するため、課題に向かって働く人はより有能だと感じ、成果をより高く評価し、より目的があると見なします——そして客観的に無意味な課題でさえ、摩擦を加えることは評価された意味を高めます。関係については、彼らは孤独を患い（心血管疾患、認知症、脳卒中、早期死亡と関連して）としてだけでなく、飢えや痛みに似た**[[biology-education|生物学的]]な信号**として扱います。手を伸ばし、招待を受け入れ、既存の関係に投資し、難しい会話に耐えることを動機づける不快感です。AIの伴走者はその不快感を和らげることができ、著者らはそれをいくつかの場合に真の進歩と見なす一方で、つながりを駆動する信号をも静かにしてしまいます——そして彼らはこの論証を段階によって和らげ、偶然ではなく選択によって孤立した人々にとって、そのような技術へのアクセスを拒否することは「残酷だろう」と持ちます（[[motivation|動機づけ]]、[[social-emotional-learning|社会情緒的学習]]）。
+
+## 関連概念
+
+- [[learners]] — 学習者：学習者側の概念の傘
+- [[anxiety-and-stress]]
+- [[student-experience]]
+- [[social-emotional-learning]]
+- [[affective-computing]]
+- [[ethics]]
+- [[motivation]]
+- [[self-regulated-learning]]
+- [[teacher-ai-competency]]
+- [[higher-ed]]
+- [[student-support-and-success]] — 指導、働きかけ、紹介にわたるキャンパス支援サービス
+
+## 関連記事
+
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 生物学的な信号としての摩擦、意味、孤独
+- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI不安と学業的な動機づけの関係
+- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — AI支援の日本語学習における心理的適応のプロファイルと移行
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — 会話型AIへの関与と依存の批判的な物語的総合
+- [[mindful-llm-math-tutoring-2026]] — 問題解決を超えて：数学学習における感情的・省察的支援のための大規模言語モデル
+- [[sec-ai-literacy-narrative-review-2026]] — AIリテラシーへの社会情緒的な力量の統合
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — 学生の生成的AIへの関与（SDT）
+- [[teacher-education-ai-literacy-sdt-2026]] — AIリテラシーのための教師教育（SDT）
+- [[genai-motivation-engagement-2026]] — 生成的AI、動機づけ、関与
+- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AIチャットボット、集合的有効感、協働
+- [[sovereign-hive-titl-further-education-2026]]
+- [[aivaluate-anxiety-assessment-2026]] — AIvaluate：学生の不安のLLM支援評価（2026）
+- [[policy-deficit-ai-sel-2026]] — AI × SEL研究における政策の欠如
+- [[culturally-aware-student-stress-chatbot-2026]] — NLPと機械学習を用いたパキスタンの大学生のためのAI支援の文化対応ストレス検出とウェルネス支援チャットボット
+- [[daoism-ai-education-philosophy-2026]] — 代替的なAI哲学：AI教育の方法としての道家
+- [[ai-emotional-intelligence-teacher-development-2026]] — AI支援の教師開発の基準としての関係の稠密化
+- [[ai-enabled-course-development-first-year-adjustment-2026]] — 自己申告の緊張と共存する高いAIコース承認、そして適応を弱める課題圧力
+- [[ai-connectedness-adolescent-mental-health-2026]] — AIのつながりと青年の精神的健康：補足的対補償的な絆、逆U字の予測とともに
+- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — 知覚されたAIアシスタントの知性、目標の進展、精神的健康、調整変数としてのAIリテラシー
+- [[ai-emotion-regulation-sport-exercise-2026]] — スポーツ、運動、キャンパスの生態を通じたAI支援の感情調節の概念的再枠組み
+- [[faculty-ai-well-being-social-supports-2026]] — 教員のAIウェルビーイングの構造方程式モデル：自己効力感を上回るAIリテラシー

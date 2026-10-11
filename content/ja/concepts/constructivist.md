@@ -3,7 +3,7 @@ title: 構成主義
 created: "2026-10-10T21:53:11-04:00"
 updated: "2026-10-10T21:53:11-04:00"
 type: concept
-foundations: [learning design]
+foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high

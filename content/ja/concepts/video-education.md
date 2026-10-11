@@ -1,0 +1,98 @@
+---
+title: 教育における動画（Video in Education）
+created: '2026-10-11T05:06:44-04:00'
+type: concept
+pedagogy:
+- online-teaching-and-learning
+- student-engagement
+- video-education
+technology:
+- adaptive-learning
+- generative-ai
+- learning-analytics
+- llm
+- multimodal
+- personalized-learning
+audience:
+- instructors
+- instructional designers
+level:
+- higher ed
+- k 12
+confidence: high
+updated: '2026-10-11T05:06:44-04:00'
+source_updated: '2026-09-30T09:59:35-04:00'
+translation_of: concepts/video-education
+translation_note: 英語ページの自動翻訳です。母語話者による確認はまだ行われていません。
+contributors:
+- editor
+ai_assist:
+- model: stepfun/step-5-preview:free
+  role: translation
+  date: '2026-10-11'
+  agent: hermes-agent
+---
+
+*英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+
+> **教育における動画** — 動画を[[teacher-role|教授]]と学習の媒体として用いること、そして[[generative-ai|生成的AI]]がそれをどう再形成しているか。AI生成・AI[[personalized-learning|パーソナライズ]]された教授動画、AIアバターとプレゼンター、適応的な動画生成、動画ベースの[[learning-analytics|学習分析]]と注意・[[student-engagement|関与]]の感知、講義動画の消費へのAI支援などが含まれます。ナレッジベースは動画を、確立したオンライン学習の媒体であると同時にAI革新の急速に進化する場として扱い、[[online-teaching-and-learning|オンライン]]、ハイブリッド、対面の教授にわたって扱います。
+
+## 考えるべき問い
+
+- 教育動画は長らく「万人向け一規格」の資源でした——すべての学習者に同一の内容。生成的AIは今や学習者ごとの動画を実現可能にし、[[research-methods-aied|研究]]は学生がそのパーソナライズを高く評価することを示唆しています。パーソナライズは関連性を超えて何を加えるでしょうか——そしてそれは何を犠牲にしかねないでしょうか。
+- 学生はしばしば動画における人間の教員の存在と真正性を今も重視すると言います。しかし正面向きの選好比較では、パーソナライズされたAI動画が汎用の人間収録講義に勝つことがあります。学習者は実際に何をトレードオフしているのでしょうか、それはどれほど持続的でしょうか。
+- 教員からクローンされたAIアバターは動画を規模をもって生成できます——しかし「不気味の谷」の不快感や[[ethics|倫理的]]な異論（環境影響、労働、学術的誠実性）を引き起こすこともあります。AIプレゼンターがいつ許容でき、いつ技術的な修正では対処できない線を越えるでしょうか。
+- 動画研究の多くは学生の選好と[[self-report-measures|自己申告]]に依拠しています。表明された選好は実際の[[learning-gains|学習成果]]をどれほど予測するでしょうか——そして「心地よく感じる」動画が、そうでない動画より教え方が劣ることはいつありうるでしょうか。
+- 動画分析は注意、関与、離脱点を検出できます。これほど密接に動画学習を計測することには、どんな[[pedagogy|教育学的]]な含意と[[privacy|プライバシー]]の含意があるでしょうか。
+
+## はじめに
+
+動画は現代教育の礎石です——特に[[online-teaching-and-learning|オンラインとハイブリッド学習]]——その柔軟性、拡張性、一貫性が珍重されています。しかし従来の教授動画は「万人向け一規格」の成果物として作られ、学習者の関心、背景、[[prior-knowledge|既有知識]]にかかわらずすべての学習者に同一の内容を提示します。生成的AIは動画を静的な放送媒体から、動的で個別に調整されたものへと移しつつ、存在、[[trust|信頼]]、[[privacy|プライバシー]]、測定についても新たな問いを生み出しています。
+
+### ナレッジベースの研究の分類
+
+- **AI生成・パーソナライズされた教授動画。** 中心的な糸は、学生がAI制作動画を受け入れるかどうか、人間収録コンテンツとどう比較されるかを問います。[[ai-generated-instructional-videos-computing-ed|計算機教育における学生調査]]は、AI生成教授動画に対する認識と選好を調べます。大規模な現場展開では、[[personalized-ai-generated-videos-preference-2026|Tomlinsonら（2026）]]は、学生がパーソナライズされていない人間収録講義よりもAI生成の*パーソナライズされた*動画を好むことを見出しました——人間のプレゼンターに置かれる価値よりもパーソナライズ効果が勝る選好でした。[[ai-video-dual-gatekeeping-2026|二段階の門番研究]]は、AI動画制作の2段階にわたる教員の監視（「門番」）がどうより教育学的に裏付けられた出力をもたらすかを示し、[[human-in-the-loop-ai|human-in-the-loop]]デザインに接続します。
+- **適応的・構造化された動画生成。** [[courseblueprint-adaptive-video-generation|CourseBlueprint]]は、コースのコーパスに裏付けられた適応的な教育学的動画を生成する構造化されたパイプラインを提供し、明示的な教育学的構造——[[ai-literacy|AIの流暢さ]]だけでなく——が効果的なAI動画を駆動することを示します。[[bespoke-industry-personalized-lecture-videos-2026|Bespoke]]は同じ論理を講義全体の規模で応用します。31の大学院講義から、医療・金融・エネルギー・汎用の聴衆向けに209本の動画を生成し、そのうち92本を25名の領域適合の専門家が評価して、87%が「標準的なMOOC講義の質」と書かれた中点以上に位置づけられました（5点中平均3.42）、API費用は1分あたり約\\$0.22——音声、スライドのタイミング、レイアウトが繰り返し現れる欠除でした。
+- **学習ループがより良い描画に勝る。** [[pivot-generative-video-tutors-stem-2026|Maら（2026）]]は、各動画を目標、前提知識の活性化、作例、診断プローブの絵コンテとして計画し、動画の例を避けたクイズと各誤答に対する修復教材を対にしました。32人の教員の96.9%が、そのループが単独の動画よりも効果的だと判断しました。
+- **動画学習分析と注意。** 動画に計測を施すことで、学習者がどう関与するかが明らかになります。[[engagement-assessment-video|動画学習における関与の評価]]と[[savvy-student-attention-video-learning|SAVVY]]は、動画ベースの学習中の学生の注意を可視化し、[[learning-analytics|学習分析]]、[[self-regulated-learning|自己調整学習]]、関与低下の早期警戒を支援します。分割の研究（例：[[adhd-video-segmentation-computing-education|時間的な動画分割]]）は、動画を個人差に合わせて調整します。
+- **アバターと存在。** AIアバター——仮想プレゼンターと教育学的エージェント——は、アイデンティティ、[[community-of-inquiry|社会的存在]]、信頼の問いを提起します。[[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|アバターのアイデンティティと認識論的な信頼]]は、プレゼンターの見かけのアイデンティティが学習者の信頼をどう形作るかを調べ、[[ai-psychotherapy-training-avatars|訓練におけるAIアバター]]はそのパターンを専門職の実践にまで広げます。
+- **動画内のスキャフォールディングコメント——そしてAIが今も間違えること。** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang、Du、Jin（2026）]]は、動画フレーム内に描画され内容と同期した[[scaffolding|スキャフォールディング]]メッセージ*i-Comments*を、フレームレベルのエントロピーを計算し情報の少ない間隔にのみ支援を挿入することで生成します。経験豊富な教員からの120件のコメントとベンチマーク比較されたChatGPTの1,000件のコメントは、より濃密で、構造的な多様性がはるかに低く（POS 3-gramの多様性が5.5〜6.2%対25.1〜38.5%）、すべての読みやすさ指標で読みにくく、話題的な整合性が低く（感情的サポートのBERTScoreが0.317対0.574）なりました。40人の学習者は、人間のコメントをタイミングと有益さで有意に高く評価しましたが、新しいモデルはその差を縮めました。この論証は自動化の論証であると同時にデザインの論証です。媒体に埋め込まれた支援は、別の[[conversational-ai|チャットボット]]に問い合わせるために一時停止する注意と認知のコストを避けるのです（[[ai-feedback-quality|フィードバックの質]]、[[social-emotional-learning|感情的サポート]]）。
+- **講義動画の消費へのAI支援。** 生成を超えて、AIは学習者と教師が既存の動画を扱うのを助けます。[[bilingual-llm-lecture-companion-srl-2026|バイリンガルLLM講義コンパニオン]]は録画講義で自己調整学習を支援し、[[gemini-lualatex-physics-video-transcription-2026|文字起こしパイプライン]]は講義動画をアクセシブルなテキストに変換します。
+
+### パーソナライズと人間の存在
+
+繰り返し現れる緊張は、[[personalized-learning|パーソナライズ]]の価値が、目に見える人間の教員の価値に勝ちうるかどうかです。[[personalized-ai-generated-videos-preference-2026|Tomlinsonら（2026）]]は、パーソナライズと社会的存在を、*教授的な配慮の部分的に代替可能な信号*として枠づけます。人間による伝達は[[affective-computing|感情的]]な経験と真正性を高め、パーソナライズは関連性を高めます——そして学生は片方を片方と交換することを厭いません。彼らの大規模コースの順位づけデータ（88.4%が何らかのパーソナライズ動画を好み、人間収録を好んだのは73.8%のみ）は、パーソナライズが今やしばしばより影響力のある因子であることを示唆し、人間の教員が専門性と社会的なつながりを提供しAIが個別に調整された媒体でその射程を伸ばす、補完的なモデルへと向かいます。
+
+### デザイン、倫理、測定
+
+効果的なAI動画を制作するには教育学的構造と人間の監視が必要であり、独自の懸念も提起します。AIプレゼンターは不快感や不信を呼び起こしうます（「不気味の谷」）。生成的動画は学習者が見つけられないかもしれない事実の不正確さを冒しがちです。パーソナライズを拡大するには学習者の属性を収集・推論する必要があり、それに伴う[[privacy|プライバシー]]、偏見、[[governance|ガバナンス]]の懸念があります。そして一部の学習者は、原則的な理由（環境影響、労働、自動化、[[academic-integrity|学術的誠実性]]）からAI生成の教授を拒否します。測定もまた流動的です——多くの証拠は客観的な学習成果よりも表明された選好と知覚された価値に依っており、選好データは（しばしば今後得られる）成果データと並べて読まれなければなりません。
+
+## 関連概念
+
+- [[online-teaching-and-learning]] — オンラインとハイブリッド教授の中核的な媒体としての動画
+- [[generative-ai]] — AI生成・パーソナライズ動画のエンジン
+- [[personalized-learning]] — AI動画の訴求力の原動力としてのパーソナライズ
+- [[adaptive-learning]] — 適応的な動画生成とペース配分
+- [[multimodal]] — 視覚・音声・テキストの様態を組み合わせる動画
+- [[learning-analytics]] — 動画への関与と注意の分析
+- [[student-engagement]] — 動画のパーソナライズが高めを目指す関与
+- [[pedagogical-agent]] — 仮想の教育学的エージェントとしてのAIアバター・プレゼンター
+- [[llm]] — 脚本と動画生成を支える大規模言語モデル
+- [[trust]] — AIプレゼンターとコンテンツに対する学習者の信頼
+
+## 関連記事
+
+- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke：MOOC品質の産業パーソナライズ講義動画を規模をもって生成すること（Puechら 2026）
+- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT生成の動画内コメント：エントロピーによるタイミング、人間のコメントとの質の差（Wang、Du、Jin 2026）
+- [[personalized-ai-generated-videos-preference-2026]] — 学生はパーソナライズされていない人間収録よりもパーソナライズされたAI生成動画を好む（Tomlinsonら 2026）
+- [[ai-generated-instructional-videos-computing-ed]] — 計算機教育におけるAI生成教授動画に対する学生の認識・選好
+- [[ai-video-dual-gatekeeping-2026]] — 教育学的に裏付けられたAI動画創作のための二段階の門番
+- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint：適応的な教育学的動画生成
+- [[engagement-assessment-video]] — 動画学習における関与の評価
+- [[savvy-student-attention-video-learning]] — 動画ベースの学習のための学生の注意の可視化
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — アバターのアイデンティティがAI媒介学習における認識論的な信頼をどう形作るか
+- [[bilingual-llm-lecture-companion-srl-2026]] — 自己調整学習のためのバイリンガルLLM講義コンパニオン
+- [[adhd-video-segmentation-computing-education]] — 個人差のための時間的な動画分割
+- [[ai-psychotherapy-training-avatars]] — 心理療法の訓練におけるAIアバター
+- [[gemini-lualatex-physics-video-transcription-2026]] — 物理学の講義動画をアクセシブルなテキストに文字起こしすること
+- [[pivot-generative-video-tutors-stem-2026]] — コンテンツ生成から学習支援へ：STEM学習のための教育学的に誘導された生成的動画チューター
