@@ -3056,7 +3056,7 @@ A identidade de quem aprende se conecta à [[agency|autonomia]] (a identidade é
 
 ---
 
-## [Design thinking](https://edtechdev.github.io/aied/concepts/design-thinking/)
+## [Pensamento de design (Design thinking)](https://edtechdev.github.io/aied/concepts/design-thinking/)
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 

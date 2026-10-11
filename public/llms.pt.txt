@@ -24,7 +24,7 @@
 - [Colaboração humano-IA](https://edtechdev.github.io/aied/concepts/human-ai-collaboration/): *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 - [Autonomia de quem aprende](https://edtechdev.github.io/aied/concepts/agency/): *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 - [Identidade de quem aprende](https://edtechdev.github.io/aied/concepts/learner-identity/): *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
-- [Design thinking](https://edtechdev.github.io/aied/concepts/design-thinking/): *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+- [Pensamento de design (Design thinking)](https://edtechdev.github.io/aied/concepts/design-thinking/): *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 - [Desenho curricular](https://edtechdev.github.io/aied/concepts/curriculum-design/): *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 - [Pensamento crítico](https://edtechdev.github.io/aied/concepts/critical-thinking/): *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 - [Pensamento computacional](https://edtechdev.github.io/aied/concepts/computational-thinking/): *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
