@@ -1,7 +1,7 @@
 ---
 title: "AI Assistance Reduces Persistence and Hurts Independent Performance"
 created: "2026-10-03T12:10:37-04:00"
-updated: "2026-10-03T12:10:37-04:00"
+updated: "2026-10-12T09:15:00-04:00"
 type: article
 sources: ['raw/papers/2604.04721.md']
 confidence: high
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-10-03"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: revision
+    date: "2026-10-12"
     agent: hermes-agent
 source_depth: full text
 ---
