@@ -1,0 +1,199 @@
+---
+connected_resources: [liascript]
+title: Ensino de ciência da computação
+created: "2026-08-09T07:47:05-04:00"
+updated: "2026-10-02T12:40:11-04:00"
+type: concept
+foundations: [ai-literacy, computational-thinking]
+technology: [generative-ai, llm, prompt-engineering]
+assessment: [automated-assessment]
+discipline: [stem education, cs education]
+level: [higher ed, k 12]
+confidence: high
+translation_of: concepts/cs-education
+source_updated: "2026-10-02T12:40:11-04:00"
+translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-10"
+    agent: hermes-agent
+---
+
+*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+
+> **Ensino de ciência da computação** — o ensino de ciência da [[science-education|computação]] é o subcampo de STEM mais pesquisado na base de conhecimento, beneficiando-se do alinhamento natural entre as ferramentas de IA e as tarefas de programação. A geração de código, a assistência à depuração e a revisão automatizada de código são suas principais aplicações de IA. Como os estudantes aprendem a construir as próprias ferramentas que usam, o ensino de ciência da computação está no centro dos debates sobre letramento em IA, redesenho curricular, engenharia de software agêntica e a fronteira entre a aprendizagem genuína e o [[cognitive-offloading|excesso de dependência]].
+
+## Perguntas para refletir
+
+- Se a IA já consegue escrever código que passa em provas reais de programação, o que os estudantes ainda deveriam aprender a fazer à mão — e o que o currículo deveria parar de ensinar?
+- A [[research-methods-aied|pesquisa]] constatou que uma confiança maior em um assistente de código de IA previa uma PIOR capacidade de distinguir sugestões corretas de sugestões enganosas. Como a confiança difere da dependência apropriada, e como você ensinaria esta última?
+- Na programação em par entre estudante e IA, quase 80% das interações se apoiavam em estratégias que não geram aprendizagem, como terceirizar respostas, e apenas cerca de 1 em 9 mostrava um [[student-engagement|engajamento]] epistêmico profundo. Por que a aprendizagem genuína raramente acontece por padrão quando a IA está disponível?
+- Um agente de [[learning-by-teaching|aprender ensinando]] que era competente demais minou a prática de depuração dos estudantes. Você deliberadamente tornaria um tutor de IA falível — e, em caso positivo, como?
+- À medida que a IA automatiza a implementação, os currículos estão se deslocando de escrever código para verificar e dirigir artefatos gerados por IA. Que novas competências isso exige, e o que pode se perder nessa mudança?
+- Os estudantes estão construindo as próprias ferramentas que usam. Como ser ao mesmo tempo construtor e usuário de IA muda o que eles deveriam aprender sobre seus limites — e sobre sua ética?
+
+## Introdução
+
+### A IA no ensino de ciência da computação
+
+- **Geração e complementação de código:** a [[code-review-genai-cs1|revisão de código em CS1]], o [[dura-llm-cs2|DURA para CS2]] e os [[prompt-problems-nl-programming-mistakes|erros de programação em linguagem natural]] examinam como os estudantes usam a IA para gerar código e o que aprendem com isso.
+- **Agentes conversacionais para novatos ([[meta-analysis-systematic-review|revisão de escopo]]):** [[conversational-agents-novice-programmers-scoping-2025|Barzanji & Loitsch (2025)]] mapeiam 23 estudos (2019–junho de 2024) sobre [[conversational-ai|agentes conversacionais]] para programadores novatos, documentando uma mudança de chatbots baseados em regras para agentes baseados em [[llm]] e [[rag]] (com a [[rag|geração aumentada por recuperação]] reduzindo o [[hallucination-risk|risco de alucinação]]) e apoio de tutoria personalizada (por exemplo, InfoBot, ProbSol-Bot, Lint Bot, Profe Alex). Notavelmente, apenas 4 dos 23 estudos fundamentam o desenho na [[learning-theories|teoria da aprendizagem]], e 17 dos 23 protótipos são exclusivamente em inglês, apesar de a maior parte da pesquisa se originar fora de países anglófonos — sinalizando um fraco fundamento [[pedagogy|pedagógico]] e uma lacuna de inclusão para o desenho futuro de agentes conversacionais na programação introdutória.
+- **Apoio à depuração:** as [[debugtracker-classroom-debugging|ferramentas de depuração]], a [[chat-debugging-human-ai-collaboration-circuits|colaboração humano-IA na depuração]] e a [[golrang-propact-pair-programming-2026|modelagem de programação em par diádica]] aproveitam a IA para a identificação e o reparo de erros.
+- **Avaliação automatizada:** a [[automated-grading-linux-bash-examinations-large-language-models|correção de Linux Bash]], a [[llm-automated-grading-programming-comparison-2026|comparação de correção em larga escala com 18 modelos]] e a [[llm-intervention-design-cs-review|revisão de intervenções com LLM]] avaliam a avaliação automatizada de código. A segurança desse fluxo de trabalho é uma questão à parte: [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] submeteu uma tarefa rotineira de correção por IA a um red-team e constatou que instruções escondidas dentro de um arquivo enviado elevavam a nota de uma redação reprovada sem nenhum aviso visível, em 9 de 9 iterações para uma estratégia e 17 de 18 para outra — evidência de que a robustez do corretor pertence à lista de verificação de [[assessment-validity|validade da avaliação]] junto com a acurácia.
+- **Um prompt de uma frase para o corretor pode derrubar um LLM, e o ajuste fino o repara.** [[llm-graders-computer-science-exams-2026|Habibullah et al. (2026)]] corrigiram uma prova prática de visão computacional (570 estudantes com correção dupla) sob 171 configurações e uma prova de aprendizado de máquina (1.038 estudantes) sob outras 162: um pequeno preâmbulo de "corretor rigoroso" tirou 14 de 17 modelos de pesos abertos da faixa de correção (MAE ≥ 8), com três interrompendo a correção por completo, e o dano remontava a duas frases de política de retenção de crédito cuja direção não se transferia para a segunda prova (sete modelos melhoraram). Um único adaptador LoRA sobre cerca de 3.900 exemplos corrigidos reunidos trouxe cinco pequenos modelos abertos à paridade com um corretor humano.
+- **Mídias de aprendizagem geradas por IA:** os [[ai-generated-traces-novice-programmers|traços animados gerados]] mostram que visualizações geradas por IA podem ajudar a aprendizagem imediata, mas precisam ser personalizadas — estudantes em meio ao percurso apresentaram uma queda de desempenho consistente com o efeito de reversão da expertise.
+- **A crítica de analogias de GenAI como ativo instrucional:** [[student-reception-genai-analogies-computing-2026|Bernstein & Sibia (2026)]] fundamentam a recepção de analogias de GenAI em CS2: dez estudantes que já haviam concluído CS2 auditaram analogias geradas por GenAI para listas encadeadas e recursão e rejeitaram mapeamentos que falhavam na correspondência estrutural — uma analogia de rota entre ilhas que mapeava para uma lista circular em vez de uma lista simplesmente encadeada, ou uma troca de bolas de badminton oferecida para recursão apesar de não ter uma entrada garantidamente decrescente, com um estudante propondo golfe em seu lugar. O trabalho argumenta que a crítica de analogias é, por si só, uma verificação da compreensão de conceitos, tornando analogias defeituosas de IA um ativo instrucional utilizável em vez de um perigo a ser filtrado, e recomenda atribuí-las como objetos a serem inspecionados e reparados.
+- **Modelagem de [[misconceptions|ideias equivocadas]]:** a [[student-misconceptions-conditionals-loops-taxonomy|taxonomia de ideias equivocadas sobre condicionais e laços]] dá aos sistemas automatizados um vocabulário preciso para diagnosticar erros de novatos.
+- **Ideias equivocadas estratégicas geradas por modelos:** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] construíram o SocraticTrap-CS em torno de 35 conceitos do currículo CS2023 da ACM/IEEE — algoritmos, linguagens de programação, bancos de dados, redes e sistemas operacionais — e pediram a sete modelos de pesos abertos uma explicação fluente e autoritada que se apoiasse em um erro sutil. Seis dos sete produziram uma ideia equivocada estratégica confirmada por especialistas para 91% ou mais dos conceitos solicitados (221 de 241 segmentos, 91,7%), sem diferenças significativas entre os domínios de CS; os erros conceituais dominaram (66,5% conceituais contra 33,5% factuais, e nenhum puramente lógico), e tanto a persuasividade quanto o tipo de erro variaram por domínio. Os autores recomendam portanto contramedidas sensíveis ao domínio — verificações focadas em raciocínio em cursos com muita programação, referência cruzada contra especificações de protocolo em redes — e a avaliação da [[automated-question-generation|geração automatizada de questões]] e de explicações escritas por IA quanto à [[trust|confiabilidade]] pedagógica, e não apenas quanto à correção.
+- **Desempenho em [[authentic-assessment|avaliação autêntica]]:** [[genai-oop-programming-assessments-2026|Lepp & Kaimre (2026)]] mostram que os sistemas de [[generative-ai|GenAI]] de 2026 superam a coorte média de estudantes em [[assessment|avaliações]] autênticas introdutórias de programação orientada a objetos e frequentemente tiram nota máxima em tarefas de programação mais longas, mas ainda têm dificuldade com interfaces, classes abstratas, herança e questões baseadas em imagens — padrões de erro recorrentes que os instrutores podem explorar ao desenhar avaliações. Um estudo longitudinal de CS1 reforça o lado da capacidade desse achado: [[student-llm-code-detection-cs1-2026|Ye et al. (2026)]] mediram modelos de fronteira em 98,93–99,99% nos laboratórios, contra 76,37–88,03% para as submissões dos estudantes.
+- **Modelagem preditiva para apoio a estudantes em risco:** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] mostram que árvores de decisão intrinsecamente interpretáveis, treinadas em atributos de logs de interação com o conteúdo, preveem com acurácia o progresso em nível de módulo em cursos de programação on-line de larga escala (85–91% de acurácia em quatro cursos de K-12) e sinalizam desfechos de evasão do tipo "sem submissão", dando aos educadores uma janela de 7–8 dias para [[teacher-role|intervir]] junto a [[learners]] com dificuldades e desengajados antes dos prazos dos módulos — complementando os trabalhos de correção automatizada e de previsão de evasão acima.
+- **O apoio com recuperação para a teoria da computação serve apenas ao estudo assíncrono.** O AlgoRAG respondeu a todas as 179 questões de prova escritas pelos instrutores dentro de um tempo limite de 240 segundos, com uma média de 38,0 segundos cada, e seu BLEU-4 de 0,0000 no conjunto é uma propriedade da correspondência de n-gramas em demonstrações matemáticas, e não uma falha do sistema ([[algorag-rag-theoretical-cs-education-2026|Adhikari (2026)]]).
+- **A adoção acompanha a tarefa, não o subcampo.** Ao longo de sete tarefas e 211 estudantes, [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]] mediram o uso de LLM de 89,6% em algoritmos a 15,2% em engenharia de software, atribuindo a dispersão à complexidade da tarefa, à verificabilidade e ao andaimento, e não à disciplina em si.
+- **O feedback pode ser escalonado para que o diagnóstico permaneça oculto.** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas (2026)]] separam um diagnóstico fundamentado no artefato do esquema de banco de dados de um estudante do fluxo de trabalho que o divulga, com os educadores autoria dos estágios; ao longo de 383 episódios, 71,1% do feedback alcançou seu nível-alvo.
+
+### Pedagogia da programação: dos blocos à aprendizagem corporificada e baseada em jogos
+
+A educação em programação vai da programação introdutória baseada em blocos ao desenvolvimento avançado de software e, cada vez mais, ancora o código abstrato em resultados concretos e observáveis.
+
+- **Programação visual baseada em blocos:** ambientes como Scratch e Blockly permitem que iniciantes encaixem blocos gráficos em vez de digitar texto, eliminando os erros de sintaxe e tornando visível a estrutura do programa — algo especialmente valioso para estudantes mais jovens e para controlar [[educational-robotics|robôs educacionais]]. Na era da IA, eles são cada vez mais combinados com agentes conversacionais de IA (por exemplo, [[microbit-robotics-machine-learning-teacher-training-2026|Micro:bit + MakeCode na formação de professores]], [[cstutorbench-slm-tutors|tutores baseados em modelos de linguagem pequenos]]).
+- **Programação em blocos [[embodied-learning|corporificada]]:** o [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] combina a programação baseada em blocos com um agente de ensino conversacional de IA e a execução em um robô corporificado, criando um ciclo iterativo de autoria–execução–observação–revisão que preserva a [[agency|autonomia]] do estudante.
+- **Controle de robôs por linguagem natural:** o [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] permite que iniciantes controlem robôs simulados por meio de instruções em linguagem natural, reduzindo a barreira para a programação de robôs sem exigir experiência em código de baixo nível.
+- **Robótica e pensamento computacional:** [[computational-thinking-educational-robotics-secondary-2026|Valls i Pou]] liga o pensamento computacional à robótica educacional em currículos STEAM do ensino médio, e a [[microbit-robotics-machine-learning-teacher-training-2026|pesquisa sobre formação de professores]] argumenta que as atividades de robótica e de ML deveriam ser incorporadas à [[teacher-education|formação de professores]].
+- **Aprendizagem baseada em jogos e gamificada:** uma [[game-based-gamified-robotics-education-review-2026|revisão sistemática]] compara a aprendizagem baseada em jogos (adequada a contextos informais) e a gamificação (adequada a salas de aula formais) na educação em robótica, que enfatiza a programação introdutória e os kits modulares.
+- **Robótica baseada em projetos:** o [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks (Robôs e Blocos)]] ensina programação de robôs por meio de um [[project-based-learning|projeto]] ágil que se estende por um semestre, abordando a lacuna entre teoria e prática no ensino superior.
+- **Impacto dos LLMs nos [[learning-gains|resultados de aprendizagem]]:** [[jost-llm-programming-education-learning-outcomes|Jošt et al. (2024)]] e uma [[genai-meta-analysis-programming-learning|meta-análise sobre GenAI e aprendizagem de programação]] examinam se as ferramentas assistidas por IA ajudam ou minam o desempenho em programação.
+
+### Transformação curricular na era da IA
+
+A pergunta "o que os estudantes ainda deveriam aprender à mão?" já está remodelando os cursos de computação.
+
+- **Da implementação para a verificação:** o [[reshaping-cs-education-genai|Reshaping Undergraduate CS Education]] argumenta que, à medida que a GenAI automatiza a programação, a depuração e os testes no nível de implementação, os currículos devem se deslocar para a *compreensão e a verificação de artefatos gerados por IA*, preservando o desenho de sistemas, a abstração e a [[critical-thinking|avaliação crítica]], ao mesmo tempo em que deixam de enfatizar detalhes de implementação de baixo nível. Isso se alinha aos frameworks de [[ai-literacy]] que valorizam a avaliação acima da geração.
+- **A engenharia de software agêntica como disciplina:** o [[ase-26-agentic-software-engineering-curriculum|ASE-26]] formaliza o ato de dirigir agentes em vez de escrever código — ensinando auditabilidade, engenharia de contexto, verificação, fluxos de trabalho multiagente e AgentOps — e posiciona a competência em [[agentic-ai|IA agêntica]] como um currículo estruturado e com andaimento, e não como o domínio da sintaxe.
+- **Da produção para o julgamento: dívida de compreensão e AASEE.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]] argumenta que o campo deveria passar de um modelo centrado na produção para um centrado no julgamento, e estende a dívida de compreensão — a aprendizagem postergada e o custo de manutenção quando a produção assistida por IA supera a capacidade do estudante de explicar, testar, modificar e justificar o software — para uma lente de [[assessment]], fundamentada em 621 diários reflexivos de 207 estudantes. A revisão refina o framework AASEE em cinco níveis de integração não lineares cruzados por quatro obrigações de evidência — explicar, verificar, modificar e prestar contas — e relata uma base de evidências condicional: uma [[meta-analysis-systematic-review|meta-análise]] de STEM com heterogeneidade extrema (I² = 96,32%) perde seu benefício combinado depois que o viés de publicação é corrigido, e sínteses de 76, 72 e 64 estudos mostram ganhos de eficiência de curto prazo que não [[transfer-of-learning|se transferem]] para o desempenho sem apoio.
+- **Novas pedagogias e modelos de avaliação:** o [[test-driven-ai-assisted-learning|aprendizagem assistida por IA orientada por testes]] substitui as aulas por estudo [[self-directed-learning|autodirigido]] assistido por IA, condicionado a provas semanais sem consulta, preservando a responsabilidade individual enquanto agentes de IA escalam a produção de material e a correção sob [[human-in-the-loop-ai|supervisão humana]].
+- **Ensine a mecânica do modelo off-line.** Um conjunto de recursos para praticantes ensina todo o pipeline de treinamento→geração de LLMs desconectado — grades de n-gramas contadas à mão e amostragem com dados, sem pressupor programação ou matemática — e relata alcance de cerca de 400 participantes, com o engajamento começando apenas no estágio de geração ([[llms-unplugged-teaching-resources-2026|Swift (2026)]]).
+- **O que prevê o sucesso no [[vibe-coding]] — e o que continuar ensinando:** um [[vibe-coding-writing-cs-achievement-2026|estudo pré-registrado do CHI 2026 (N=100)]] sobre vibe-coding puramente "sem código" constatou que tanto o desempenho em ciência da computação (r = ,39) quanto a proficiência em comunicação escrita (r = ,29) previam independentemente o desempenho, com o desempenho em ciência da computação permanecendo significativo mesmo após o controle da capacidade cognitiva de domínio geral e contribuindo com aproximadamente o dobro da variância única da habilidade de escrita. Como o ambiente ocultava o código gerado, o conhecimento de ciência da computação só poderia ajudar indiretamente (decomposição de problemas, pensamento algorítmico) — o que torna a estimativa de ciência da computação um *limite inferior* para fluxos de trabalho assistidos por IA que também permitem edição. Os autores argumentam que os currículos deveriam pesar a comunicação escrita junto com os fundamentos de ciência da computação, em vez de tratar o vibe coding como o domínio da sintaxe tornado obsoleto.
+
+### Letramento em IA, autonomia e o risco do excesso de dependência
+
+Como a programação é o domínio em que a assistência de IA é mais poderosa, é também onde os modos de falha ficam mais visíveis.
+
+- **Confiança ≠ dependência apropriada:** [[trust-reliance-ai-education-2026|Confiança e dependência de IA (Pitts et al.)]] constatam que uma confiança maior em um assistente de IA previa uma *pior* discriminação entre sugestões corretas e enganosas durante a [[problem-solving|resolução de problemas]] em Python — moderada pelo [[ai-literacy|letramento em IA]] e pela necessidade de cognição. Calibração, não confiança, é o objetivo.
+- **Letramento epistêmico em IA:** [[constructing-epistemic-ai-literacy-student-ai-co-programming|Wu (2026)]] mostra que, na programação em par entre estudante e IA, 78,8% das interações se apoiavam em objetivos não orientados ao domínio e em estratégias não confiáveis (terceirização, busca de verificação), com apenas 11,1% mostrando alto engajamento epistêmico — a aprendizagem genuína raramente emerge sem um apoio deliberado de desenho.
+- **As perguntas à IA são estreitas e modeladas pela geração.** Ao classificar 830 prompts de CS2 segundo a taxonomia de Graesser, [[student-ai-inquiry-types-cs2-2026|Amoozadeh e Alipour (2026)]] constataram que prompts de afirmação, verificação e instrumentalidade dominaram ambas as sessões, e que estudantes da primeira geração fizeram menos perguntas e se apoiaram na verificação, enquanto colegas que continuavam a geração usavam a IA como um parceiro ativo de resolução de problemas.
+- **Intervenções estruturais contra o excesso de dependência do copiar-e-colar:** os [[soft-barriers-copying-ai-programming-2026|soft barriers para copiar na programação assistida por IA]] avaliam intervenções leves de desenho (por exemplo, mecanismos que desencorajam o copiar-e-colar cego da saída da IA) e constatam que elas podem reduzir o excesso de dependência sem bloquear a assistência da IA — evidência de que o risco de [[cognitive-offloading|excesso de dependência]] no ensino de ciência da computação é passível de correções de desenho instrucional, e não apenas de educação do estudante ou de proibições.
+- **Agentes ensináveis e prática produtiva:** o [[chatgpt-teachable-agent-programming-lbt-2024|aprender ensinando com ChatGPT]] melhorou os ganhos de conhecimento e a qualidade do código, mas minou a prática de correção de erros porque o agente é competente demais — uma lição de desenho: torne os agentes *deliberadamente falíveis* para que a depuração seja preservada.
+- **Governança da assistência:** uma [[llm-programming-support-governance-cs-education|revisão de escopo de 90 sistemas]] introduz o **framework PEA** (Policy, Enforcement, Authority — Política, Aplicação, Autoridade) para delimitar e controlar a assistência de LLM — um vocabulário comparativo para desenhar [[scaffolding|andaimento]] que limite o excesso de dependência.
+- **Adequação da governança, não rigor.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]] propõe um perfil de governança de seis dimensões — fundamento pedagógico, autoridade instrucional da IA, responsabilização humana, autonomia do estudante, limites de contexto e visibilidade da avaliação — e mostra, ao longo de sete ferramentas internas e quatro sistemas de programação publicados, que o mesmo modelo pode distribuir autoridade e responsabilização de formas muito diferentes; o que prevê a escala responsável é a *adequação* da governança à função instrucional, não o rigor da ferramenta.
+- **Contexto comportamental para a tutoria adaptativa com IA:** [[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]] apresentam o **TutorTrace**, um conjunto de dados e um pipeline que tornam computável em tempo real o contexto comportamental dos estudantes a partir da telemetria da IDE em cursos de Python assistidos por IA (N=480). Ele deriva uma taxonomia das atividades antes, entre e ao longo das consultas à IA, e consegue classificar se uma consulta iminente reflete uma [[help-seeking|busca de ajuda]] guiada ou dependente (AUROC=,717) e prever consultas iminentes (AUROC=,726); prompts cientes do comportamento reduziram os intervalos de consulta sem trabalho independente de 50,0% para 20,7% em uma avaliação preliminar. Isso mostra como a telemetria comportamental pode tornar os [[intelligent-tutoring|tutores de programação com IA]] adaptativos ao esforço real dos estudantes, e não apenas às suas solicitações explícitas.
+- **A dualidade de construir o que se usa:** a posição singular dos estudantes de ciência da computação cria tanto uma consciência [[metacognition|metacognitiva]] das limitações da IA quanto um risco real de [[cognitive-offloading|excesso de dependência]] do código gerado por IA. As [[code-review-genai-cs1|entrevistas de revisão de código]] e os [[critical-engagement-code-completion|estudos de engajamento crítico]] abordam essa tensão diretamente.
+- **Codificação agêntica e compreensão em PBL em equipe:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] introduziram o Spec-Driven Development com [[agentic-ai|agentes de IA]] em um curso de projeto de engenharia de software da graduação e constataram que a produtividade de implementação (LOC adicionadas) subiu entre 2022 e 2025, enquanto o uso intenso de IA coincidiu com quedas na compreensão do código que só se recuperavam após verificações individuais dos instrutores — evidência direta de que os ganhos de produtividade não garantem a compreensão, e de que o [[cognitive-offloading|excesso de dependência]] na codificação assistida por IA é passível de monitoramento instrucional.
+
+### Equidade, cultura e quem entra na computação
+
+- **Ampliação da participação:** o [[suacode-african-students-motivations|SuaCode]] documenta as motivações para a programação baseada em smartphone entre estudantes africanos (menos de 1% dos concluintes do ensino médio têm habilidades fundamentais de programação), informando MOOCs acessíveis com apoio de IA para [[equity-in-ai-education|contextos de poucos recursos]].
+- **Neurodivergência e colaboração:** os [[neurodivergent-computing-students|estudantes de computação neurodivergentes]] relatam desconforto com estruturas de colaboração ambíguas; tarefas estruturadas, equipes menores e consistentes e papéis explícitos melhoram a [[accessibility|acessibilidade]] — lições de desenho para as ferramentas de IA que entram nas salas de aula de computação.
+- **A cultura molda a ética percebida:** [[cross-cultural-student-perceptions-genai-computing|estudantes de computação canadenses versus sul-coreanos]] julgaram práticas idênticas de codificação assistida por IA de formas diferentes, apesar de políticas funcionalmente idênticas — a harmonização de políticas não produz a harmonização das percepções, uma preocupação de [[academic-integrity|integridade acadêmica]] e de [[equity-in-ai-education|equidade]].
+- **[[explainable-ai|Transparência]] na colaboração:** [[student-perception-ai-use-collaboration|Graf et al.]] constatam que crenças desalinhadas dos parceiros sobre o uso de IA uns dos outros preveem notas mais baixas de projeto, especialmente para estudantes de menor desempenho — mecanismos de transparência (divulgações, registros compartilhados) podem ser necessários na programação colaborativa.
+
+### Educação em ética e o mercado de trabalho
+
+- **Lacuna entre ética e comportamento:** o [[cost-of-ethics-crisis-cs-ethics-education|"Cost-of-Ethics Crisis"]] mostra que os estudantes de ciência da computação, apesar da educação em ética contemporânea, priorizam remuneração, localização e cultura em relação às preocupações [[ethics|éticas]] na busca por empregos — uma lacuna crítica em como a instrução em ética se transfere para o comportamento.
+- **Remodelação do mercado de trabalho:** uma [[ai-engineering-computing-workforce-grey-literature-2026|revisão sistemática da literatura cinzenta dos EUA]] enquadra o "Dual Train Problem" — a rápida mudança da IA correndo mais rápido que a adaptação [[governance|institucional]] — e pede competências duráveis em IA, ética/governança e credenciais baseadas em habilidades alinhadas às funções emergentes (por exemplo, [[prompt-engineering|engenharia de prompts]], auditoria de IA, [[educational-policy-ai|política de IA]]).
+
+### Conexões
+
+O ensino de ciência da computação se conecta ao [[computational-thinking|pensamento computacional]], ao [[stem-education|ensino de STEM]], à [[automated-assessment|correção automatizada]], à [[prompt-engineering|engenharia de prompts]], ao [[ai-literacy|letramento em IA]], à [[agentic-ai|IA agêntica]], ao [[curriculum-design|desenho curricular]], à [[human-ai-collaboration|colaboração humano-IA]], ao [[higher-ed|ensino superior]], ao [[k-12|K-12]] e à [[professional-training|formação profissional]]. Seu vizinho aplicado mais próximo é a [[information-technology|tecnologia da informação]]: o ensino de ciência da computação toma o programa e o algoritmo como seu objeto, enquanto o ensino de TI toma o sistema organizacional implantado e o julgamento do praticante sobre ele — e é por isso que os dois campos debatem danos diferentes da IA, se a geração de código corrói a habilidade de programação contra se a resolução de problemas com IA corrói a habilidade de diagnóstico, e fazem perguntas diferentes a seus egressos, se eles conseguem construir um sistema contra se eles conseguem governar os sistemas que administram. É o domínio em que as ferramentas de [[ai-education|AIED]] são ao mesmo tempo usadas e construídas, tornando-o um campo de prova para a [[intelligent-tutoring|tutoria inteligente]], a [[educational-robotics|robótica educacional]], a [[collaborative-learning|aprendizagem colaborativa]], a [[game-based-learning|aprendizagem baseada em jogos]] e os riscos do [[cognitive-offloading|excesso de dependência]].
+
+**Uma síntese de 72 estudos e o framework VIE.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot e Nanthaamornphong (2026)]] revisaram a literatura empírica sobre IA generativa na educação em computação e programação (janeiro de 2022 – abril de 2026, 72 estudos, 33 veículos) e colocam em primeiro plano exatamente a característica estrutural que torna a disciplina distintiva: a IA gera o próprio artefato avaliável, de modo que usar a ferramenta, aprender a habilidade e ser avaliado colapsam em um único pressionamento de tecla. Sua síntese de 14 temas constata que o efeito mais replicado do campo — ganhos de eficiência e de conclusão de curto prazo (36 estudos) — é também o mais enganoso: esses ganhos não [[transfer-of-learning|se transferem]] para o desempenho sem apoio (21 estudos), e o [[prior-knowledge|conhecimento prévio]] modera se a assistência se torna habilidade durável ou muleta. A pesquisa em [[ai-detection|detecção]] é escassa (3 estudos), enquanto o redesenho de cursos é comparativamente bem evidenciado (25 estudos), e a revisão consolida o corpus em três requisitos de desenho interdependentes — Verificação, Implementação e Equidade — em que o engajamento crítico com a saída da IA deve ser um componente observável e avaliado do trabalho do estudante, e não uma aspiração deixada ao critério do estudante ([[scaffolding|andaimento]], [[assessment-validity|validade da avaliação]]).
+
+## Implicações para instrutores de computação
+
+- **Desenhe avaliações pelas quais a IA não consiga passar sem esforço.** Explore os padrões de falha recorrentes da GenAI (interfaces, classes abstratas, herança, tarefas baseadas em imagens) em vez de proibir as ferramentas de imediato — os [[genai-oop-programming-assessments-2026|sistemas de GenAI ainda têm dificuldade ali]].
+- **Tarefas de casa autocorrigíveis não ofereceram nenhuma resistência à conclusão.** [[chatgpt-qiskit-homework-autogradable-2026|Kaltchenko & Tiwana (2026)]] rodaram 50 sessões do ChatGPT por tarefa de Qiskit, e todos os 150 artefatos executaram e passaram no corretor, porque a personalização variava parâmetros em vez da estrutura da tarefa; a solução é a avaliação direta da compreensão — modificação supervisionada ou defesa oral.
+- **Calibre a confiança, não apenas a construa.** A [[trust-reliance-ai-education-2026|pesquisa sobre confiança e dependência]] mostra que uma confiança maior previu uma *pior* discriminação de sugestões enganosas de IA; ensine verificação e avaliação crítica, moderadas pelo letramento em IA e pela necessidade de cognição.
+- **Mantenha a depuração e a [[desirable-difficulties|luta produtiva]] vivas.** Escolha ferramentas ou agentes deliberadamente falíveis ([[chatgpt-teachable-agent-programming-lbt-2024|aprender ensinando]]) que preservem a prática de correção de erros, e personalize as mídias geradas por IA para evitar efeitos de reversão da expertise ([[ai-generated-traces-novice-programmers|reversão da expertise]]).
+- **Governace a assistência de IA de forma explícita.** Defina política, aplicação e autoridade para o apoio de LLM ([[llm-programming-support-governance-cs-education|PEA]]) em vez de deixar os limites implícitos.
+- **Desloque os currículos para a verificação e a direção de agentes.** À medida que a GenAI automatiza a implementação, ensine a compreensão e a verificação de artefatos de IA ([[reshaping-cs-education-genai|remodelar os currículos]]) e habilidades estruturadas de engenharia de software agêntica ([[ase-26-agentic-software-engineering-curriculum|ASE-26]]).
+- **Estruture a colaboração para todos os estudantes.** Equipes menores e consistentes, papéis explícitos e transparência no uso de IA apoiam estudantes [[neurodiversity|neurodivergentes]] e a colaboração justa, especialmente onde crenças desalinhadas sobre o uso de IA reduzem as notas de projeto.
+- **Explicações adaptativas de erros de programação com LLM (2026):** um estudo por crowdsourcing (N=103) constatou que mensagens de erro reescritas por LLM melhoram a legibilidade, mas o desempenho objetivo na depuração depende de casar o estilo de explicação (pragmático ou contingente) com a habilidade do programador — um insight de andaimento para a educação em programação assistida por IA ([[llm-adaptive-programming-error-explanations-2026]]).
+
+## Conceitos conectados
+
+- [[computational-thinking]]
+- [[vibe-coding]]
+- [[stem-education]]
+- [[information-technology]]
+- [[automated-assessment]]
+- [[prompt-engineering]]
+- [[ai-literacy]]
+- [[agentic-ai]]
+- [[curriculum-design]]
+- [[human-ai-collaboration]]
+- [[higher-ed]]
+- [[k-12]]
+- [[educational-robotics]]
+- [[game-based-learning]]
+- [[generative-ai]]
+- [[intelligent-tutoring]]
+- [[cognitive-offloading]]
+- [[teacher-education]]
+- [[professional-training]]
+- [[ai-education]]
+- [[collaborative-learning]]
+- [[prior-knowledge]]
+- [[scaffolding]]
+- [[assessment-validity]]
+
+## Artigos conectados
+
+- [[kumar-genai-computing-education-systematic-review-2026]] — Revisão sistemática de 72 estudos: ganhos de eficiência que não se transferem, e o framework VIE
+- [[vibe-coding-writing-cs-achievement-2026]] — O desempenho em ciência da computação e as habilidades de escrita preveem a proficiência em vibe-coding (CHI 2026)
+- [[tutortrace-learner-behavioral-states-2026]]
+- [[mechanical-engineering-ai-curriculum-2026]] — Currículo de educação em IA baseado em projetos em engenharia térmica
+- [[code-review-genai-cs1]] — Revisão de código CS1 de código gerado por IA
+- [[dura-llm-cs2]] — DURA: assistentes LLM para CS2
+- [[reshaping-cs-education-genai]] — remodelando currículos de graduação em computação para a GenAI
+- [[ase-26-agentic-software-engineering-curriculum]] — Currículo ASE-26 de engenharia de software agêntica
+- [[test-driven-ai-assisted-learning]] — Aprendizagem assistida por IA orientada por testes
+- [[genai-oop-programming-assessments-2026]] — Desempenho da GenAI em avaliações autênticas introdutórias de programação orientada a objetos (Lepp & Kaimre 2026)
+- [[trust-reliance-ai-education-2026]] — confiança versus dependência apropriada durante a resolução de problemas em Python
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — letramento epistêmico em IA na programação em par entre estudante e IA
+- [[chatgpt-teachable-agent-programming-lbt-2024]] — aprender ensinando com ChatGPT
+- [[llm-programming-support-governance-cs-education]] — framework PEA para delimitar a assistência de LLM
+- [[conversational-agents-novice-programmers-scoping-2025]] — Revisão de escopo dos agentes conversacionais para programadores novatos
+- [[debugtracker-classroom-debugging]] — Depuração em sala de aula com o DebugTracker
+- [[llm-automated-grading-programming-comparison-2026]] — Comparação de correção automatizada com 18 modelos
+- [[ai-generated-traces-novice-programmers]] — Traços animados gerados por IA
+- [[student-misconceptions-conditionals-loops-taxonomy]] — taxonomia de ideias equivocadas sobre condicionais e laços
+- [[jost-llm-programming-education-learning-outcomes]] — Impacto dos LLMs nos resultados de aprendizagem em programação (Jošt et al.)
+- [[genai-meta-analysis-programming-learning]] — meta-análise sobre GenAI e aprendizagem de programação
+- [[golrang-propact-pair-programming-2026]] — modelagem de programação em par diádica
+- [[critical-engagement-code-completion]] — engajamento crítico com a complementação de código
+- [[suacode-african-students-motivations]] — programação baseada em smartphone do SuaCode na África
+- [[cross-cultural-student-perceptions-genai-computing]] — percepções interculturais da codificação assistida por IA
+- [[neurodivergent-computing-students]] — estudantes de computação neurodivergentes
+- [[microbit-robotics-machine-learning-teacher-training-2026]] — Micro:bit + ML na formação de professores
+- [[computational-thinking-educational-robotics-secondary-2026]] — pensamento computacional e robótica educacional
+- [[roboblockly-conversational-block-robotics-ct-2026]] — programação em blocos corporificada do RoboBlockly
+- [[edusim-llm-robotic-simulation-education-2026]] — controle de robôs por linguagem natural do EduSim-LLM
+- [[llm-computational-thinking-physics-2026]] — apoio de LLM ao pensamento computacional em física
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — O conjunto de dados StudyChat de diálogos entre estudantes e LLM em um curso de IA
+- [[student-ai-inquiry-types-cs2-2026]] — Análise dos tipos de perguntas na interação estudante-IA
+- [[chatgpt-qiskit-homework-autogradable-2026]] — O ChatGPT resolve tarefas de Qiskit; desenho autocorrigível
+- [[llm-adaptive-programming-error-explanations-2026]] — Explicações adaptativas de erros de programação com LLM
+- [[soft-barriers-copying-ai-programming-2026]] — Resistência ao copiar-e-colar na programação assistida por IA
+- [[zhang-ml-student-progress-programming-2026]]
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD com agentes de IA em um curso de PBL de software; produtividade versus compreensão
+- [[student-reception-genai-analogies-computing-2026]] — Defeituosas, mas memoráveis: a recepção crítica dos estudantes às analogias de GenAI personalizadas por interesse na educação em computação
+- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: benchmarking das ideias equivocadas estratégicas dos modelos ao longo do currículo de CS
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Red-team de injeção de prompt na correção mediada por IA: instruções ocultas que movem a nota sem detecção
+- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: geração aumentada por recuperação para o ensino de ciência da computação teórica — um framework abrangente de avaliação para análise de algoritmos e teoria da complexidade
+- [[llms-unplugged-teaching-resources-2026]] — LLMs Unplugged: Teaching Resources for a ChatGPT World
+- [[instructional-governance-design-computing-education-2026]] — Governança instrucional por desenho: um framework de IA na educação em computação
+- [[judgment-centred-software-engineering-education-2026]] — Uma revisão e um framework pós-burbulha para a educação em engenharia de software aumentada por IA
+- [[llm-graders-computer-science-exams-2026]] — Onde os corretores com LLM acertam e onde falham: evidências de duas provas de ciência da computação
+- [[student-llm-use-cs-subfields-2026]] — O uso de LLM variou de 89,6% em algoritmos a 15,2% em engenharia de software ao longo de 211 estudantes, acompanhando a tarefa e não o subcampo
+- [[educator-guided-llm-pedagogical-agent-2026]] — Feedback escalonado autoriado por educadores para o desenho conceitual de bancos de dados: diagnóstico oculto, divulgação controlada, 71,1% no nível-alvo ao longo de 383 episódios

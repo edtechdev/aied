@@ -1,0 +1,158 @@
+---
+connected_resources: [process-feedback]
+title: Detecção de IA
+created: "2026-05-29T10:44:35-04:00"
+updated: "2026-10-04T02:59:54-04:00"
+type: concept
+foundations: [academic-integrity, ai-literacy, cognitive-offloading]
+technology: [generative-ai, llm]
+assessment: [ai-detection, assessment, assessment-validity, process-oriented-assessment]
+ethics: [equity-in-ai-education]
+audience: [learners]
+level: [higher ed]
+confidence: high
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
+institutions: [educational-policy-ai]
+translation_of: concepts/ai-detection
+source_updated: "2026-10-04T02:59:54-04:00"
+translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-10"
+    agent: hermes-agent
+---
+
+*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+
+> **Detecção de IA** — as [[ai-technologies|tecnologias]] e os métodos usados para identificar conteúdo gerado por IA em entregas acadêmicas, e a questão mais ampla de como as instituições deveriam responder ao risco de que os estudantes usem grandes modelos de linguagem (LLMs) para produzir trabalho que não é seu. Ela abrange abordagens baseadas em classificadores, técnicas de prompt latente e de verossimilhança, marcação de água e análise estilística — e, crescentemente, debates sobre os limites da detecção e sobre o valor de redesenhar a avaliação em vez de policiá-la.
+
+## Perguntas para refletir
+
+- Se um detector de IA sinaliza a redação de um estudante como gerada por IA, quão confiante você estaria de que a sinalização está correta — e que evidência você gostaria de ver antes de agir com base nela?
+- Um argumento é que a detecção de IA não é apenas não confiável, mas conceitualmente insustentável: um "humano versus IA" binário ignora que o trabalho do estudante costuma ser criado *com*, e não *por*, a IA. Se o trabalho é híbrido, o que "detectar IA" sequer significa?
+- As ferramentas de detecção podem ser viesadas contra escritores não nativos, produzindo falsos positivos que penalizam injustamente os estudantes. Como você pesaria o risco de uma [[legal-issues-and-risks|acusação falsa]] contra o valor de captar o uso indevido genuíno?
+- A detecção pode minar a integridade em vez de salvaguardá-la, fomentando um clima de suspeita que corrói a confiança. Como o fato de ser observado muda o comportamento seu, ou de um estudante, em uma avaliação?
+- A pesquisa sugere que a detecção deveria ser uma ferramenta limitada e situacional, e não uma estratégia de primeira instância, e que o desenho da avaliação deveria reconhecer o papel da IA. Que alternativas à detecção poderiam verificar melhor o que um estudante realmente aprendeu?
+- Os detectores de IA não podem ser verificados independentemente em entregas reais — não existe verdade de solo sobre se um texto sinalizado foi realmente gerado por IA. Quão confortável você está em agir com base em uma probabilidade inverificável em uma investigação de integridade?
+
+## Introdução
+
+A detecção de IA vive na interseção da [[academic-integrity|integridade acadêmica]], da [[generative-ai|IA generativa]], dos [[llm|grandes modelos de linguagem]] e da [[assessment|avaliação]]. Ela surgiu quando as instituições confrontaram estudantes usando LLMs para redigir redações, código e respostas curtas. O campo tem duas vertentes entrelaçadas: a **detecção técnica** (quão confiavelmente o conteúdo gerado por IA pode ser identificado?) e a **resposta institucional** (a que a detecção deveria levar, dados seus limites e preocupações de justiça?).
+
+## Abordagens de detecção
+
+A pesquisa da base de conhecimento ilustra as principais famílias técnicas:
+
+- **Métodos de verossimilhança zero-shot / prompt latente:** o [[detecting-llm-generated-text-latent-prompt|EchoPrompt]] é um detector zero-shot sem treinamento que explora a dependência de prompt latente inerente ao texto gerado por máquina. Ao restaurar um prefixo genérico de resposta de assistente e medir diferenças de ganho de verossimilhança entre modelos ajustados por instrução e modelos base, ele alcança detecção de estado da arte sem treinamento, permanecendo robusto à mudança de domínio e a ataques de paráfrase. Isso contrasta com os detectores estatísticos puramente probabilísticos, que ignoram o mecanismo de geração.
+- **Autodeteção por LLM:** [[llm-detecting-llm-generated-content-education|Leinonen e Denny (2026)]] testam se os LLMs conseguem detectar de forma confiável o conteúdo que eles mesmos geram em tarefas de programação, escrita reflexiva e resposta curta. A detecção prova ser **altamente dependente da tarefa**: confiável para programação e respostas reflexivas mais longas, mas ruim para respostas curtas, onde os LLMs muitas vezes julgam o próprio resultado como *mais* humanoide do que o trabalho autêntico de estudantes. Pequenas variações de prompt reduzem drasticamente a precisão.
+- **Abordagens baseadas em classificadores e em marcação de água:** classificadores estatísticos e marcas de água são amplamente implantados em ferramentas comerciais, embora sua confiabilidade seja contestada à medida que os resultados dos LLMs ficam mais sofisticados.
+- **Procedência das ideias em vez da prosa:** o [[idealens-detecting-ai-ideas-2026|IdeaLens]] alimenta um classificador com um esquema de papéis discursivos e conteúdo parafraseado, em vez da prosa, de modo que ele preveja de quem são as ideias que um documento carrega. Sua taxa de sinalização de IA caiu de 94,9% para 6,8% à medida que o plano humano por trás do texto escrito pela IA ficava mais detalhado, enquanto o Pangram 4 permaneceu perto de 92%, e ele rotulou 94,7% dos documentos humanos aprimorados por IA como humanos. Os autores afirmam que suas previsões são estimativas estatísticas e não devem ser usadas isoladamente como evidência conclusiva de uso de IA.
+
+## Os limites e os riscos da detecção
+
+A pesquisa alerta consistentemente contra a dependência isolada da detecção:
+
+- **Falhas de validade e de justiça:** as ferramentas de detecção podem ser viesadas contra escritores não nativos, produzindo falsos positivos que penalizam injustamente os estudantes, uma preocupação que se conecta à [[bias-mitigation|mitigação de viés]] e à [[equity-in-ai-education|equidade]].
+- **Taxas de erro notáveis e erosão da confiança:** a detecção não confiável mina a [[trust|confiança]] do estudante e a integridade do processo de avaliação.
+- **Dependência da tarefa:** como mostra o estudo de autodeteção, a precisão varia drasticamente por tipo de tarefa, de modo que nenhum detector isolado é confiável em todas as avaliações.
+- **Mesmo um detector validado repousa sobre uma linha de base histórica:** um estudo de seis anos em CS2 validou seu detector contra uma linha de base pré-LLM: os H-escores eram próximos de zero antes de os LLMs serem públicos e subiram para uma média de 11,9 em 2026 ([[argus-academic-integrity-genai-2026|Racovan et al. (2026)]]).
+- **O dilema da integridade, quantificado.** [[karr-ai-detection-humanization-2026|Um estudo controlado de 642 resumos publicados (Karr et al. 2026)]] mostra que a falha de [[educational-policy-ai|política]] não é apenas conceitual, mas medida: a edição leve de IA conforme as diretrizes é sinalizada em 38–80%, os originais recentes não modificados em 9–15% (não STEM muito acima de STEM), e o texto de IA assistido por humanizador escapa à detecção em >96% dos casos. Como os detectores se fixam no estilo de superfície (densidade de tokens longos e de palavras acadêmicas) em vez da intenção de autoria, a assistência honesta de IA atrai sanção enquanto a evasão deliberada por humanizador escapa — os autores argumentam que as pontuações dos detectores nunca deveriam ser evidência isolada de má conduta.
+
+As avaliações empíricas mais recentes tornam essas taxas de erro concretas, e não genéricas. [[hadra-ai-detector-accuracy-efl-2026|Hadra, Cambridge e Mesbah (2026)]] rodaram o Turnitin e o Originality sobre um corpus balanceado de 192 textos de trabalhos reais de EFL, escrita profissional, resultado de IA e híbridos 50/50: a precisão macro alcançou apenas 0,69 e 0,61, ambos ficaram abaixo de um macro F1 de 0,55, e ambos foram efetivamente inúteis nos textos híbridos (sensibilidade do Originality 0,02), com a precisão caindo significativamente à medida que os textos se alongavam e novamente na escrita científica, além de uma tendência limítrofe-significativa de classificar mal trabalho legítimo de estudantes de EFL. [[van-vlasselaer-ai-detector-reliability-2026|Van Vlasselaer, Van Droogenbroeck e Spruyt (2026)]] testaram quatro ferramentas comerciais contra um corpus com verdade de solo controlada de 160 teses de mestrado: três delas (Turnitin, GPTZero, Copyleaks) falharam quase completamente em artigos inteiramente gerados por IA, enquanto apenas o Pangram teve desempenho convincente — e, quando aplicado a 1.163 teses genuinamente entregues, ele sinalizou 45,5% delas, um número que os autores insistem não ser uma taxa de prevalência, porque entregas ao vivo não têm verdade de solo. Ambos os estudos chegam à mesma conclusão procedural: a pontuação de um detector pode motivar uma revisão mais atenta, mas não é um achado. A questão da calibração também corta no outro sentido: como o rótulo de alta confiança do GPTZero carregava taxas de falso positivo no nível do requerente de 0,7%, 0,5% e 1,4% ao longo de 2020–2022, [[ai-written-admissions-essays-penalized-2026|Isley, Gaebler e Goel (2026)]] leram suas sinalizações como uma série conservadora de prevalência ao longo de seis ciclos de admissão em um programa de mestrado de política pública pública dos EUA — a parcela de requerentes que entregou ao menos uma redação sinalizada subiu de 21,8% em 2023 para 45,1% em 2024 e 56,1% em 2025 contra uma proibição assinada, chegando a 69,3% dos requerentes internacionais contra 38,6% dos domésticos. Leitores humanos foram novamente um instrumento mais fraco: cinco oficiais de admissão separando 50 redações humanas de 50 de IA alcançaram AUC 0,70 (IC 95% [0,65, 0,75]), acima do acaso, mas bem abaixo dos detectores comerciais.
+
+Mesmo um detector interpretável de bom desempenho mantém seus erros no nível dos documentos. [[detecting-gpt-assisted-writing-stylometric-2026|Kumar, Siddiqui e Fuchsberger (2026)]] treinaram classificadores de nível de janela em nove atributos estilométricos interpretáveis — razão tipo-token, razão hápax, entropia de palavras, razão de não stopwords, razões de classes gramaticais e variabilidade do comprimento de frase —, com 90 participantes escrevendo os mesmos prompts de forma independente e depois parafraseando o resultado do GPT, mantendo toda janela de um participante em uma dobra e testando em 18 escritores não vistos. O Random Forest alcançou ROC-AUC de 0,870 e F1 de 0,842 em 36 documentos retidos, mas sinalizou 4 de 18 documentos de autoria independente como assistidos por GPT, uma taxa de falso positivo de 22,2% (IC 95% 9,0–45,2%); a atribuição [[explainable-ai|SHAP]] colocou o maior peso na razão hápax. Os autores enquadram o modelo como apoio à decisão, que deveria motivar uma revisão contextual, e não como uma triagem automática de má conduta, e a precisão que ele alcança não reduz o peso de seus erros — cada falso positivo é um documento de autoria independente acusado de assistência do GPT, um problema de validade, e não de ajuste.
+
+Os problemas definicionais e procedurais convivem com os estatísticos. [[wright-transcription-not-generation-2026|Wright (2026)]] argumenta que as proibições abrangentes ao "uso de IA" são redigidas em torno da identidade da plataforma, e não da função, de modo que capturam a conversão de formato não generativa — transcrição de fala para texto, OCR, texto simples para LATEX — junto com a redação generativa que pretendem barrar; como os detectores leem a escrita de baixa perplexidade como autoria de máquina, os falsos positivos resultantes recaem com mais força sobre estudantes com deficiência e [[equity-in-ai-education|expostos a questões de equidade]]. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] chega à versão de desenho da mesma conclusão, posicionando a detecção como uma camada suplementar da infraestrutura de integridade, no máximo, já que ela pergunta se a IA generativa foi usada, e não como as decisões foram tomadas.
+
+A pesquisa de detecção também carrega um argumento de validade que sobrevive às questões de precisão. [[weidlich-inference-at-risk-assessment-validity-2026|Weidlich (2026)]] trata o resultado do detector como um sinal condicional e probabilístico, que pode motivar mais investigação, mas não consegue por si só estabelecer má conduta ou competência, o que torna a governança centrada na detecção uma base insuficiente para sustentar a [[assessment-validity|validade da avaliação]]. O desempenho da classificação varia sistematicamente entre ferramentas, tipos de tarefa, disciplinas, versões de modelo e práticas de edição humano–IA, com a escrita formulaica de STEM especialmente suscetível a viés algorítmico. As tentativas de restaurar a segurança da avaliação por meio da detecão arriscam então introduzir variância irrelevante ao construto, ameaçando a justiça e a interpretação das pontuações.
+
+## Por que não usar (ou tentar usar) detectores de IA
+
+[[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] argumentam que a detecção de IA generativa **não deveria ser usada na educação de modo algum**, por fundamentos que vão além do "tenha cuidado" rumo ao "isto é conceitualmente insustentável". Seu caso consolida as razões contra depender de detectores de IA:
+
+1. **Estimativas probabilísticas inverificáveis.** Os detectores de IA produzem uma probabilidade de que o texto foi gerado por IA, com base em marcadores linguísticos (perplexidade, burstiness). Diferentemente de outras ferramentas probabilísticas (filtros de spam, diagnósticos médicos), seus resultados **não podem ser verificados independentemente**: em condições reais, não existe verdade de solo sobre se um texto sinalizado foi realmente gerado por IA, de modo que a validação se reduz a raciocínio circular. Métricas de detecção de sinal (taxas de falso positivo/negativo) só se aplicam em testes controlados, e não em entregas reais.
+2. **Dados de treinamento e teste questionáveis.** Os detectores são treinados e validados sobre escrita humana pré-IA generativa (por exemplo, o Turnitin testou 700.000 artigos pré-2019). A premissa de que tal texto reflete a escrita estudantil contemporânea — que os estudantes agora produzem tendo sido moldados pela IA — não é verificada, e o desempenho se altera com o modelo, o prompt e a plataforma.
+3. **A premissa de marcadores linguísticos mutuamente excludentes é falha.** Não há razão principiada para que uma pessoa não possa escrever com os atributos linguísticos atribuídos à IA (ou uma IA com os atributos humanos), de modo que o próprio fundamento dos marcadores é frágil.
+4. **A falsa dicotomia.** Classificar o texto como gerado por humano versus por IA ignora a realidade de que o trabalho dos estudantes é frequentemente criado *com*, e não *por*, a IA — um contínuo híbrido. O binário não é meramente inadequado, mas sem sentido, tornando a detecção conceitualmente falha desde o início.
+5. **Injustiça procedural e insuficiência probatória.** As investigações de integridade acadêmica precisam atender ao padrão de equilíbrio de probabilidades; as pontuações dos detectores de IA — isoladas ou combinadas com marcadores linguísticos, comparações de estilo, afirmações de LLMs ou o silêncio do estudante — não o atingem. Estudantes sob investigação também retêm um direito ao silêncio, que os processos movidos pela detecção corroem.
+6. **Riscos de segurança e privacidade.** Os detectores armazenam o trabalho dos estudantes em servidores (às vezes no exterior, com proteções de [[privacy|privacidade]] mais fracas), criando riscos de violação, uso indevido e exploração comercial.
+7. **A detecção mina a integridade em vez de salvaguardá-la.** A dependência de detectores e de vigilância fomenta um clima de suspeita, corroendo a [[trust|confiança]] do estudante e a integridade da própria avaliação.
+
+Bassett et al. concluem que a detecção de IA é uma solução inexequível para um problema que não pode ser resolvido por vigilância e punição: o foco precisa se deslocar para o [[assessment|desenho da avaliação]] que reconhece o papel da IA na aprendizagem e a realidade de que avaliações não supervisionadas não podem ser protegidas. Isso consolida a posição [[beyond-detection-authentic-assessment-ai-2025|além da detecção]] da base de conhecimento com um argumento direto e baseado em evidência para aposentar as ferramentas de detecção.
+
+De 40 avaliações de psicologia abrangendo 16 tipos, 36 (90%) produziram resultado do ChatGPT julgado adequado para passar, e as quatro falhas foram as tarefas que exigiam presença, um artefato visual ou os dados do próprio estudante — evidência de que a fronteira de aprovação, e não a detecção, decidiu se o trabalho de IA contava como conquista ([[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]]).
+
+### O viés dos detectores e o mecanismo da corrida armamentista
+
+A detecção não é apenas imprecisa; seus erros têm padrão. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] reúne o caso acumulado contra tratar a pontuação de um detector como evidência: nenhuma ferramenta no [[benchmark|benchmark]] inicial mais abrangente alcançou 80% de precisão; a paráfrase simples ou a "humanização" reduz isso a cerca da metade; os falsos positivos em taxas de base realistas excedem os verdadeiros; e falantes não nativos de inglês são classificados mal sistematicamente porque os atributos que os detectores tratam como sinais de IA também caracterizam a escrita competente em segunda língua. O julgamento por humanos não preenche a lacuna — avaliadores especialistas e novatos falham igualmente em distinguir IA de prosa de estudante, e estão confiantes quando erram —, e a assimetria do erro faz com que os descuidados, mas honestos, sejam pegos enquanto os deliberadamente desonestos escapam, já que os detectores também são opacos (sem limiares, sem dados de treinamento, sem replicação independente) e, portanto, não podem ser respondidos ou contra-interrogados em uma audiência.
+
+Dois pontos adicionais afiam as apostas práticas. Primeiro, o sinal estatístico subjacente encolhe à medida que os modelos são otimizados rumo à prosa humana, de modo que a corrida armamentista é uma que uma instituição não pode vencer. Segundo, o caso-limite empírico é contundente: em um estudo de campo encoberto, 94% das entregas inteiramente geradas por IA passaram sem ser notadas por um sistema vivo de [[summative-assessment|prova]] on-line ao longo de cinco módulos de psicologia, e o trabalho de IA em média superou os estudantes reais. [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed e Temimi (2026)]] acrescentam o corolário contraintuitivo que determina quando o monitoramento compensa: como a sensibilidade eleva os falsos positivos junto com os verdadeiros, o dissuasor racional é a discriminação — a lacuna entre sinalizar o uso oculto e sinalizar o trabalho legítimo. Onde a sensibilidade extra cria mais falsos positivos novos do que verdadeiros positivos novos, mais monitoramento torna o ocultamento relativamente mais atraente, penalizando estudantes honestos mais rápido do que identifica usuários ocultos. A consequência de desenho é que detectores, regras e procedimentos de divulgação não deveriam ser construídos separadamente.
+
+- **Cinco ferramentas, um manuscrito, respostas incompatíveis — e as instituições que pararam de usá-las.** [[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]] submeteu um único manuscrito de autoria humana a cinco detectores comerciais no mesmo dia e recebeu classificações que iam de "0% humano" (Winston AI) a "Human Generated" (rótulo categórico do GPTZero, impresso ao lado de sua cifra de 42% de IA), com o Copyleaks em 80,4% de IA, o Originality.ai em "81% Likely AI" e uma quinta ferramenta em 34% de IA / 66% humano — três resultados pendendo para IA e dois pendendo para humano em texto idêntico, sem base validada para tratar um voto majoritário entre sistemas proprietários como evidência de procedência. O mesmo artigo documenta a retirada institucional: a Vanderbilt desativou o detector de IA do Turnitin em agosto de 2023, fazendo a aritmética de uma taxa de falso positivo de 1% em cerca de 75.000 artigos; a Curtin University anunciou uma desativação semelhante em 2025; a University of Waterloo descontinuou a função de detecção de IA do Turnitin em setembro de 2025, depois de uma auditoria interna em que trabalho escrito por humanos havia sido classificado como 100% gerado por IA; a University of Cape Town desativou a pontuação de IA a partir de outubro de 2025; a University of the Free State seguiu em julho de 2026; a University of the Witwatersrand relatou nunca ter adotado tais ferramentas; e um tribunal de Nova York anulou uma conclusão de má conduta que repousava sobre a pontuação de um detector. Dois achados procedurais completam o caso: uma extração de PDF severamente corrompida ainda retornou uma classificação a cinco pontos percentuais do resultado do texto limpo, e um resultado de detector arquivado estabelece o que uma interface reportou, mas não consegue recriar o estado do modelo proprietário que o produziu.
+- **O resultado do detector é a evidência mais fraca no processo, e a qualidade da evidência não decide os casos.** Codificando 1.162 alegações de má conduta com IA generativa, o resultado dos detectores recebeu as avaliações probatórias mais baixas e caiu para 0,5% dos itens em 2025. A qualidade da evidência não mostrou relação com os desfechos porque o pipeline não fixou nenhum limiar probatório ([[munoz-misconduct-allegation-evidence-2026|Munoz et al., 2026]]).
+- **Os estudantes mudam seu trabalho para sobreviver à detecção, e não apenas suas respostas.** O relato documenta estudantes embotando suas próprias respostas para evitar uma acusação falsa, e professores recorrendo ao julgamento informal — o que ele chama de AI-DAR — depois que os detectores comercializados se mostram não confiáveis ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]]).
+
+## Além da detecção: o redesenho da avaliação
+
+Um tema central na base de conhecimento é que a detecção deveria ser uma **ferramenta limitada e situacional — não uma estratégia de primeira instância**. [[beyond-detection-authentic-assessment-ai-2025|Kickbusch et al. (2025)]] argumentam que a vigilância e a detecção **diagnosticam mal o problema**: em um mundo mediado pela IA, a autenticidade não pode ser policiada até existir; ela precisa ser redesenhada. Eles reconceituam a autenticidade como construída onde a IA é esperada, declarada e escrutinada, e oferecem padrões de desenho para a aprendizagem, agnósticos a disciplina, que posicionam a IA como colaboradora, e não como aplicação de colar. Isso conecta a detecção à [[authentic-assessment|avaliação autêntica]], à [[assessment-validity|validade da avaliação]], à [[responsible-assessment-ai-era-stanford-2026|avaliação responsável]] e à [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene|integridade de coautoria]].
+
+A pergunta construtiva se desloca de "como impedimos os estudantes de usar a IA?" para "como os capacitamos a usá-la com reflexão, responsabilidade e eficácia em contextos que espelham seu trabalho futuro?". A detecção conecta-se portanto ao [[ai-literacy|letramento em IA]] (ajudar os estudantes a [[reducing-ai-misuse|usar a IA de forma responsável]]), à [[cognitive-offloading|dependência excessiva]] (compreender quando o uso da IA mina a aprendizagem) e ao objetivo mais amplo de apoiar a aprendizagem genuína em vez de policiar entregas. Ela também se liga a fenômenos do lado do estudante, como a [[student-rationalization-ai-writing|racionalização estudantil da escrita com IA]] e o desafio da detecção de identidade em [[socially-fluent-ai-identity-detection|deteção de identidade de IA socialmente fluente]].
+
+- **A detectabilidade é uma propriedade do desenho da tarefa, e não apenas do detector.** [[student-llm-code-detection-cs1-2026|Ye et al. (2026)]] encontraram concordância entre modelos de 87,79–88,14% no código gerado, mas apenas 1–14 árvores de sintaxe abstrata distintas por 1.000 arquivos em funções fortemente restringidas, contra 151–804 entre as entregas de estudantes de 2021.
+
+## Implicações para a IA na educação
+
+- **A detecção é situacional:** as instituições deveriam usar ferramentas de detecção com parcimônia e com consciência de suas taxas de erro, limites de justiça e dependência da tarefa — não como um portão automático e isolado.
+- **O desenho da avaliação importa mais do que a fiscalização:** investir em avaliação [[authentic-assessment|autêntica]] e [[process-oriented-assessment|baseada em processo]], onde o uso da IA é esperado e declarado, enfrenta a integridade de forma mais eficaz do que a detecção isolada.
+- **Justiça e equidade:** ferramentas de detecção que penalizam escritores não nativos ou produzem falsos positivos arriscam ampliar as iniquidades existentes.
+- **O letramento em IA é complementar:** ajudar os estudantes a compreender o uso apropriado versus o [[ai-misuse-learning-harm|uso prejudicial da IA]] é mais produtivo do que depender de vigilância.
+- **Cautela quanto à confiabilidade da detecção.** Uma [[meta-analysis-systematic-review|revisão sistemática]] de IA e integridade acadêmica conclui que as ferramentas de detecção de plágio/IA não podem sustentar o trabalho gerado por IA e deveriam ser pareadas com múltiplos métodos de avaliação e revisão manual — reforçando que a detecção é uma ferramenta limitada e situacional.([[ssaho-ai-academic-integrity-review-2025]])
+- **Além da detecção: diálogo em vez de vigilância.** Um relato de praticante sobre o framework de verificação da aprendizagem da Grand Canyon University ([[best-response-student-ai-dialog-2026|Mandernach 2026]]) argumenta que a melhor resposta à [[student-ai-interaction|uso de IA pelos estudantes]] é o diálogo, e não a detecção. Como os detectores são não confiáveis (e viesados contra escritores não nativos), a GCU parou de perguntar "o estudante usou IA?" e em vez disso pede aos estudantes que demonstrem compreensão em uma conversa breve — uma extensão do [[authentic-assessment|redesenho da avaliação]] que trata a detecção como um beco sem saída e a verificação como bom ensino.
+- **A dependência supera a confiança, com custo para o ensino.** Em um survey com 20 profissionais do ensino superior, 15 relataram forte dependência institucional de software de detecção de IA, enquanto apenas 4 expressaram confiança nele, e os respondentes descreveram "esgotamento pedagógico" por fiscalizar, que deslocava o desenho instrucional e a mentoria de estudantes ([[evaluation-age-ai-output-evidence-2026|Chowdhury & Khan (2026)]]).
+
+## Conceitos conectados
+
+- [[academic-integrity]]
+- [[llm]]
+- [[generative-ai]]
+- [[assessment]]
+- [[assessment-validity]]
+- [[authentic-assessment]]
+- [[ai-literacy]]
+- [[cognitive-offloading]]
+- [[equity-in-ai-education]]
+- [[bias-mitigation]]
+- [[higher-ed]]
+- [[ai-education]]
+- [[legal-issues-and-risks]]
+
+## Artigos conectados
+
+- [[tench-ai-policy-isnt-a-playbook-2026]] — Um survey nacionalmente representativo de professores e diretores dos EUA sobre cobertura de política de IA, agência e cinco jogadas de sala de aula (Tench, Weinstein & James 2026)
+- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
+- [[best-response-student-ai-dialog-2026]]
+- [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Detector por Restauração de Prompt Latente
+- [[ivory-psychology-assessment-integrity-2026]] — A detecção é a alavanca errada: a fronteira de aprovação decidiu se o trabalho de IA foi pontuado como conquista (Ivory et al. 2026)
+- [[llm-detecting-llm-generated-content-education]] — Evaluating LLMs for Detecting LLM-Generated Content
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
+- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity and Assessment Validity
+- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
+- [[socially-fluent-ai-identity-detection]] — Socially Fluent AI Identity Detection
+- [[ssaho-ai-academic-integrity-review-2025]] — Revisão da confiabilidade da detecção de plágio/conteúdo de IA baseada em IA
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Por que o resultado do detector não consegue fundamentar uma conclusão de má conduta
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Discriminação em vez de taxa de captura, e quando o monitoramento volta-se contra
+- [[hadra-ai-detector-accuracy-efl-2026]] — Turnitin e Originality em 192 textos: ambos abaixo de um macro F1 de 0,55 e quase inúteis na escrita híbrida
+- [[van-vlasselaer-ai-detector-reliability-2026]] — Quatro detectores contra 160 artigos com verdade de solo; apenas o Pangram teve desempenho, mas sinalizou 45,5% das teses ao vivo
+- [[munoz-misconduct-allegation-evidence-2026]] — O resultado do detector é o tipo de evidência com pior avaliação em 1.162 arquivos reais de casos de má conduta
+- [[wright-transcription-not-generation-2026]] — Regras abrangentes de "uso de IA" confundem transcrição com geração
+- [[sharma-judgment-visible-genai-assessment-2026]] — A detecção rebaixada a uma camada suplementar atrás do julgamento visível
+- [[weidlich-inference-at-risk-assessment-validity-2026]] — A detecção como sinal condicional, e por que as respostas de segurança acrescentam variância irrelevante ao construto (Weidlich 2026)
+- [[ai-written-admissions-essays-penalized-2026]] — Redações de admissão escritas por IA são generalizadas, mas penalizadas
+- [[detecting-gpt-assisted-writing-stylometric-2026]] — Nove atributos estilométricos interpretáveis: ROC-AUC 0,870, mas quatro de 18 documentos de autoria independente sinalizados (Kumar et al. 2026)
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Um manuscrito humano, cinco detectores, classificações de "0% humano" a "Human Generated", mais a retirada institucional documentada da detecção (Angelier 2026)
+- [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
+- [[student-llm-code-detection-cs1-2026]] — O código de LLM converge em tarefas fortemente restringidas (1–14 formas de AST por 1.000 arquivos), mas não nas livres — a detectabilidade segue o desenho da tarefa

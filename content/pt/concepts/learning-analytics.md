@@ -1,0 +1,163 @@
+---
+title: Analítica de aprendizagem
+created: "2026-08-09T10:44:35-04:00"
+updated: "2026-10-07T09:45:00-04:00"
+type: concept
+pedagogy: [student-engagement]
+technology: [knowledge-tracing, student-modeling, edtech-platform]
+assessment: [feedback, formative-assessment]
+ethics: [privacy]
+page_kind: [evaluation]
+confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
+methods: [ai-ed-evaluation]
+translation_of: concepts/learning-analytics
+source_updated: "2026-10-07T09:45:00-04:00"
+translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-10"
+    agent: hermes-agent
+---
+
+*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+
+> **Analítica de aprendizagem** — a mensuração, coleta, análise e reporte de dados sobre estudantes e seus contextos com o propósito de compreender e otimizar a aprendizagem. A IA transformou a analítica de aprendizagem, de painéis descritivos para sistemas preditivos e prescritivos.
+
+## Perguntas para refletir
+
+- A maioria das pessoas pressupõe que coletar mais dados de aprendizagem melhora automaticamente a educação. A página argumenta que a analítica só se torna significativa quando alimenta de volta uma intervenção — caso contrário, ela meramente descreve ou sinaliza, sem mudar a aprendizagem. Onde você já viu dados coletados que nunca levaram a nenhuma ação?
+- Imagine que um painel lhe diz que um estudante está "em risco" — uma previsão. O que separa isso de uma orientação genuinamente acionável que um professor ou uma instituição consiga de fato executar? A página sugere que a previsão por si só não basta.
+- A página observa que a IA moveu a analítica de aprendizagem de descrever o que aconteceu para prever o que acontecerá e prescrever o que fazer a seguir. Qual dessas três gerações você já vivenciou, e o que faltava nas outras?
+- Em um estudo, três modelos de IA diferentes produziram planos de apoio acentuadamente diferentes para os mesmos dados de estudante, e as ligações entre indicadores da analítica e a ajuda recomendada eram em sua maioria fracas. O que isso sugere sobre confiar no conselho de uma IA sem crítica?
+- A analítica de aprendizagem vive uma tensão de privacidade: quanto mais granulares os dados, mais reveladores — e mais poderosa a intervenção. Onde você traçaria a linha sobre o que é coletado a seu respeito ou sobre seus estudantes, e quem deveria decidir?
+
+## Introdução
+
+### Analítica aprimorada por IA
+
+- **Analítica preditiva:** o [[reinforcement-learning|aprendizado de máquina]] sobre dados de interação do estudante prevê resultados — da [[at-risk-students-ml-prediction|identificação de estudantes em risco]] à [[knowledge-tracing|estimação do estado de conhecimento]].
+- **A validação importa tanto quanto a previsão.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan e Carvalho (2025)]] mostram que os modelos preditivos de estado de conhecimento (BKT, BKT-com-Esquecimento, AFM) parecem precisos quando ajustados retroativamente a um histórico completo de sessões, mas sob **validação cruzada baseada no tempo** — prever a próxima sessão a partir das anteriores, como a analítica é de fato implantada — eles superestimam o desempenho do estudante, perdem as dinâmicas de espaçamento e esquecimento e podem desordenar as condições de prática. O cuidado para a analítica: o ajuste retrospectivo pode mascarar a fraca validade preditiva prospectiva em dados longitudinais, então os modelos de indicadores e de painéis deveriam ser validados walk-forward.
+- **Valide o mapeamento item-atributo por trás da estimativa.** A matriz Q que liga itens a atributos é um pressuposto, não dados: entradas rejeitadas em 14 de 918 itens de pensamento analítico, uma vez corrigidas, cortaram um padrão espúrio de estado de conhecimento de 14,2% para 3,8% — então a analítica de domínio deveria auditar sua matriz Q, e não apenas seu ajuste preditivo ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng & Huang, 2026)]]).
+- **Analítica preditiva ancorada no [[curriculum-design|currículo]]:** [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] estimam estados de conhecimento dentro da Educação Baseada em Resultados rastreando resultados de curso diretamente a partir de dados de interação e desempenho do LMS, usando mapeamentos de afinidade de OBE (relações entre resultados de curso e de programa) para estruturar as ligações de conceito e uma rede aumentada por memória para modelar o impacto cruzado entre resultados — alcançando 89,81% de AUC e superando DKT, DKVMN, EKT e SimpleKT em dados vivos de engenharia universitária, ao mesmo tempo que permanecem apenas competitivos (não superiores) em dados de propósito geral do ASSISTments.
+- **Previsão interpretável do progresso com uma janela de ação:** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] preveem o progresso de estudantes em nível de módulo em cursos on-line de [[cs-education|programação]] em larga escala a partir de características de log de interação com conteúdo, usando árvores de decisão de caixa de vidro que igualam a precisão de caixa preta (85–91%), sinalizando resultados de desistência do tipo "Sem submissão" até 7–8 dias antes dos prazos de módulo — uma janela explícita e em tempo real para [[teacher-role|intervenção]], em vez de um simples sinalizador de risco, e uma tipologia exploratória de perfis desengajado-em-risco, desengajado-mas-bem-sucedido e alto-desempenho-engajado.
+- **Modelagem de risco federada e explicável entre instituições (2026).** [[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al. (2026)]] estendem a modelagem de risco além da previsão de instituição única ao treinar um modelo multitarefa (desempenho + evasão) entre instituições simuladas via aprendizagem federada, de modo que os dados brutos de estudantes nunca deixam cada instituição. Sob heterogeneidade controlada (inclinação de rótulos, desequilíbrio de classes, deriva temporal, ausência estrutural) o modelo preserva a precisão de ordenação (AUC do OULAD 0,918) e ordenações de importância de características estruturalmente estáveis, mas a calibração probabilística deriva — desacoplando o desempenho de ordenação da confiabilidade probabilística. Para sistemas de alerta precoce, isso é um cuidado de que intervenções baseadas em limiar podem precisar de calibração por instituição, e um argumento por avaliar a analítica ao longo de discriminação, calibração, robustez e explicabilidade de uma só vez.
+- **A validação com dados sintéticos é um pré-requisito para a analítica que preserva a privacidade.** Uma verificação estrutural sobre versões sintéticas de quatro turmas anuais de hábitos de estudo (117–120 estudantes ao longo de dezoito semanas) constatou que os descritores de partição concordavam de perto em duas das quatro turmas, enquanto a variação de semana a semana corria 2,6 a 4,9 vezes menor, sem exceção (coeficiente de variação 0,086–0,152 contra 0,399–0,539 para as turmas reais), e apenas 36% dos achados obtidos em dados piloto sintéticos foram confirmados nos dados reais ao longo de vinte e cinco pedidos de validação ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
+- **Analítica de engajamento:** a [[student-engagement|mensuração do engajamento]] e a [[engagement-intensity-learner-modeling|modelagem de intensidade]] quantificam como os estudantes interagem com os sistemas de IA.
+- **Analítica de feedback:** a [[teaching-feedback-classification-benchmark|classificação de feedback]] e a [[ai-feedback-quality|avaliação de qualidade]] analisam o feedback que os estudantes recebem.
+- **Análise de redes:** a [[misiejuk-cognitive-offloading-prompting-2026|Análise de Redes de Coocorrência]] e a [[epistemic-emotions-collaborative-problem-solving|análise de redes epistêmicas]] revelam padrões de interação.
+- **Tensões de privacidade:** as preocupações de [[privacy|privacidade]] crescem à medida que a analítica se torna mais granular e movida por IA.
+- **Um framework de governança para dados de estudantes.** O LEAGUE propõe seis pilares — Legalidade, Equidade, Agência, Governança, Utilidade e Ética por Desenho —, tratando a conformidade com FERPA e GDPR como o piso e recomendando reavaliação programada à medida que os modelos derivam ([[league-ethical-governance-student-data-2026|Varadaraju & Vijayakumar (2026)]]).
+
+**Modele a concorrência de cursos, e não apenas a sequência.** O TRACE dá a cada curso de um semestre a mesma codificação posicional, e prever conjuntamente cursos e notas cortou o erro de previsão de notas para 0,1339 MAE — uma redução de 46,4% sobre um transformer só de notas — em dez anos de dados institucionais ([[trace-course-grade-prediction-2026|Savala (2026)]]).
+
+### O ciclo da analítica de aprendizagem
+
+A analítica de aprendizagem é canonicamente enquadrada como um ciclo que começa com a atividade do estudante produzindo dados, que são processados em medidas e indicadores, que são então traduzidos em **intervenções** — e a intervenção alimenta de volta a atividade do estudante para fechar o laço. A etapa de intervenção é o que distingue a analítica do mero monitoramento ou previsão: sem ela, a analítica descreve e sinaliza, mas nunca muda a aprendizagem. Esse ciclo é o quadro organizador para compreender onde as ferramentas de IA (painéis, geradores de feedback, recomendadores prescritivos) ficam no pipeline e qual etapa elas automatizam.
+
+Um painel voltado ao estudante é tão bom quanto seu alcance: em um estudo de escrita do 9º ano em Hong Kong, um classificador de prompts alcançou macro F1 de 0,757, cerca de um terço dos 46 estudantes abriu os três painéis de uso de GenAI, e as diferenças de grupo na cópia e no prompting orientado à aprendizagem não foram confiáveis ([[learning-analytics-genai-secondary-writing-2026|Fong et al. (2026)]]).
+
+Uma codificação de frequência de dados qualitativos é um ponto de entrada, não um veredito: em um estudo com dez participantes, alguns instrutores leram as codificações de frequência como uma entrada produtiva, enquanto outros alertaram que elas obscurecem respostas raras mas críticas, então o desenho mantém toda visão agregada ligada de volta ao texto literal dos estudantes ([[wordstream-glass-learning-analytics|Nguyen et al. (2026)]]).
+
+### Da descrição à intervenção
+
+A analítica de aprendizagem evoluiu por três gerações na base de conhecimento: descritiva (o que aconteceu?), preditiva (o que acontecerá?) e prescritiva (o que deveríamos fazer?). A IA possibilita a camada prescritiva — analítica que dispara diretamente [[feedback|intervenções instrucionais]]. Uma fronteira-chave é a **lacuna de acionabilidade**: o [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]] mostra que a previsão por si só é insuficiente para o apoio à decisão, e que o recurso contrafactual só se torna operacionalmente significativo quando as recomendações são semanticamente viáveis e verificáveis por máquina — restringidas por momento, orçamento, imutabilidade e disponibilidade via validação SHACL, e não meramente válidas para o modelo. Isso move o campo além das pontuações de risco, para recomendações que as instituições conseguem de fato executar, com a [[human-in-the-loop-ai|supervisão humana]] preservada.
+
+Um teste empírico direto da camada prescritiva vem de [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]], que pediram a três LLMs que recomendassem planos de apoio para 4.500 vinhetas de [[simulating-students|estudantes sintéticos]].
+
+Um teste complementar, centrado no professor, de como a analítica chega à sala de aula vem de [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]], que desenharam um painel de analítica de aprendizagem (DashED) para comunicar aos professores perfis de [[self-regulated-learning|aprendizagem autorregulada]] derivados de ML em dois contextos híbridos. Seu estudo com 100 professores mostra que a *apresentação* da analítica é, ela própria, uma barreira à ação: os professores preferiram sistematicamente gráficos mais simples e tradicionais (gráficos de barras, de pizza), mesmo quando desenhos mais complexos (por exemplo, mapas de calor) produziam percepções mais ricas, e o maior [[visualization|letramento em visualização]] previu interpretação mais profunda e detalhada (por exemplo, mais professores identificando tendências em dados de série temporal). Para a comparação de grupos, os professores favoreceram a superposição em vez da justaposição e os gráficos de informação plena em vez da codificação explícita de diferença. As ações que os professores propuseram foram moldadas pelo conteúdo representado e por seu nível de [[teacher-role|papel docente]], e não pelo tipo de gráfico — professores universitários favoreceram testes semanais e adaptação em nível de curso, enquanto professores de educação profissional propuseram coaching direto e individualizado —, ressaltando que a etapa prescritiva depende tanto de como a analítica é visualizada e contextualizada quanto do modelo subjacente. O achado deles é cauteloso: as correlações entre indicadores de LA e o apoio recomendado eram em sua maioria fracas, as recomendações entre modelos divergiam acentuadamente para o mesmo estudante, e o apoio era frequentemente alocado independentemente de quem mais precisava. Os autores concluem que os LLMs atuais **ainda não são confiáveis como modelos prescritivos para apoio ao estudante em escala**, reforçando que a etapa prescritiva ainda exige validação, ajuste fino e supervisão humana, em vez de automação de prateleira.
+
+A etapa depois da pontuação — quem recebe apoio, e se ele foi alocado onde era necessário — pertence ao [[student-support-and-success|apoio e sucesso do estudante]], que carrega as evidências de prospecção, encaminhamento e alocação que alimentam a camada prescritiva desta página.
+
+Um resultado de integridade entra na mesma camada preditiva. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] prevê o risco de fraude assistida por IA a partir das primeiras oito semanas de traços de [[video-education|Moodle e do player de vídeo]], alcançando AUC de 0,763 com regressão logística, e argumenta que o sinal é utilizável precisamente porque chega antes da prova, e não durante ela.
+
+Uma linha complementar mira a *interpretação* da própria analítica. O framework FACTRIA de [[factria-responsible-institutional-analytics-2026|Marques et al. (2026)]] organiza os fatores de viés por trás de um indicador — de pipeline, institucional, de curso e demográfico —, e um chatbot de prompting reflexivo elevou os subfatores que as 11 partes interessadas pesavam por caso de 1,41 para 3,45 (d = 2,15), deslocando-as de leituras diretas para condicionais.
+
+### Métodos e análise de redes
+
+Métodos de rede são centrais para a analítica de aprendizagem: a [[network-analysis|análise de redes de transição (TNA)]] modela sequências temporais de ações do estudante (por exemplo, os laços de revisão e de chat na escrita andaimentada por [[conversational-ai|chatbot]]), e a [[network-analysis|análise de redes epistêmicas (ENA)]] mapeia como códigos/construtos coocorrem ao longo da atividade — juntas revelando o *processo* da aprendizagem e da interação [[student-ai-interaction|estudante-IA]], e não apenas seu produto.([[penny-transition-network-analysis-efl-writing-2026]])([[tracing-genai-literacy-interaction-patterns]])
+
+- **Análise de sequência mais cadeia de Markov do comportamento autodirigido.** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] combinaram análise de sequência de atividades, agrupamento hierárquico e modelos de cadeia de Markov sobre os clickstreams de 315 estudantes on-line que construíram 822 modelos ecológicos no VERA, destilando nove aglomerados comportamentais refinados baseados em transição em três padrões mais amplos (Observação, Construção, Exploração). Seu trabalho demonstra que combinar análise de sequência com modelagem por cadeia de Markov consegue desvelar comportamento significativo em tarefas não estruturadas e [[self-directed-learning|autodirigidas]], mesmo na ausência completa de dados demográficos ou contextuais.
+
+- **A LA e a GenAI moldam o desenho de aprendizagem de formas diferentes (2026).** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] usaram ENA em 11 grupos focais de instrutores para comparar como a analítica de aprendizagem versus a [[generative-ai|IA generativa]] informam a tomada de decisão de [[learning-design|desenho de aprendizagem]]. As discussões de LA se centraram em informação contextual, desenho em nível de curso e [[problem-solving|resolução criativa de problemas]] (LA para diagnosticar engajamento e direcionar apoio), enquanto as discussões de GenAI se centraram no [[assessment|desenho de avaliação]] e no desenho para a [[self-determination-theory|autodeterminação]] do estudante (GenAI para ideação e desenvolvimento de avaliação). Contexto e [[creativity|criatividade]] foram centrais em ambos — um lembrete de que a analítica informa o desenho apenas dentro do contexto [[pedagogy|pedagógico]] e da autonomia do instrutor.
+
+- **Analítica de desenho: minerar sequências de atividade planejadas, e não traços (2026).** [[learning-paths-patterns-learning-design-2026|Divjak, Svetec e Horvat (2026)]] aplicaram cadeias de Markov e mineração de padrões sequenciais à sequência *desenhada* de 29.064 atividades de ensino e aprendizagem em 554 cursos planejados em uma ferramenta aberta de desenho de aprendizagem. A matriz de transição teve pico em Avaliação para Discussão (0,332), as autotransições dominaram Prática (0,317) e Aquisição (0,292), e a regra consecutiva mais forte foi Aquisição para Avaliação para Prática para Prática (confiança 0,743, lift 1,449), enquanto o caminho de quatro passos mais frequente foi Aquisição, Prática, Prática, Avaliação (120 ocorrências). Discussão e Avaliação foram os tipos mais alcançáveis e Produção o mais distante e esporádico. O estudo é um lembrete de que a analítica de aprendizagem não precisa começar com traços de LMS: dados de tempo de desenho podem expor a gramática pedagógica de um curso antes de qualquer estudante chegar, embora os autores ressaltem que a semelhança com desenhos invertidos, baseados em investigação ou [[project-based-learning|baseados em projetos]] não é evidência de intenção.
+
+- **LLMs destilados autoexplicativos (2026):** um pipeline de dois estágios destila um estimador de analítica de aprendizagem de caixa preta e sua interpretação post hoc em um [[llm|LLM]] pequeno e de peso aberto que devolve tanto uma estimativa em nível individual quanto uma explicação em linguagem natural. Uma auditoria fidelidade-primeiro avalia se as narrações correspondem às atribuições que descrevem; a [[simulation|simulação]] mostra recuperação quase sem perdas (r > .90) com um mentor oráculo, oferecendo um caminho mais transparente e implantável para a analítica ([[distilling-self-explaining-lm-learning-analytics-2026]]).
+
+- **Habilitadores das intervenções educacionais baseadas em LA (2026).** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identificam e priorizam sete habilitadores de intervenções educacionais confiáveis baseadas em LA via Delphi + AHP + SNAP: orientação estratégica [[governance|institucional]], fundamentos [[research-methods-aied|de pesquisa]] pedagógicos e outros, recursos disponíveis, apoio pedagógico, ética e governança de dados, engajamento das partes interessadas e garantia de qualidade. A orientação estratégica institucional ficou em primeiro lugar (e foi a mais influente sobre os outros habilitadores), com recursos disponíveis em segundo. A [[trust|confiabilidade]] (conformidade ética, algoritmos transparentes e não enviesados, validade pedagógica) é enquadrada como o pré-requisito sem o qual as intervenções baseadas em LA não são significativas.
+
+- **A profundidade da interação com LLM prevê a qualidade da tarefa, mas não a recordação (2026).** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] liga a telemetria conversacional de LLM em nível de turno (Profundidade/Volume/Ritmo) aos [[learning-gains|resultados de aprendizagem]]: a "profundidade" de busca de explicação previu a qualidade da tarefa marcada de forma independente (β = 6,27), mas não a recordação imediata — uma dissociação entre compreensão impulsionada pela elaboração e consolidação impulsionada pela recuperação, com implicações para como a interação com [[llm|LLM]] é mensurada e avaliada na LA.
+
+- **Falta uma unidade de interação compartilhada.** Ao longo de 46 categorizações de 33 estudos não há uma única metacaracterística compartilhada — rótulos similares nomeiam fenômenos diferentes —, então a revisão propõe o *episódio de interação*, uma troca delimitada e orientada a objetivos, como a unidade para correlacionar diálogo com aquisição de habilidades ([[student-llm-interaction-taxonomy-review-2026|Borchers, Jansen & Weidlich (2026)]]).
+
+- **Simulando o discurso colaborativo para a analítica de aprendizagem.** [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] usa agentes de LLM ajustados por participante para reproduzir diálogos de resolução colaborativa de problemas, validados com Análise de Redes Epistêmicas (distância ENA 0,17, p de permutação = 0,65). A abordagem oferece aos pesquisadores de analítica de aprendizagem uma forma escalável de gerar discurso colaborativo autêntico para estudar dinâmicas de interação, tomada de turno e trajetórias temáticas de códigos, sem coletar novos dados humanos.
+
+- **Dados abertos e reproduzíveis e analítica pronta para traços.** O [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] lança um [[benchmark|benchmark]] sintético com esquema pronto para traços (N=540; 360 sessões; 1.440 episódios) para analisar a interação e o equilíbrio de participação na programação colaborativa. Os dados de log e de traço são o contrapeso natural aos [[self-report-measures|autorrelatos]] nesta literatura: o mesmo construto é frequentemente mensurado duas vezes, uma perguntando e outra observando, e as duas nem sempre concordam. Separadamente, um framework exploratório de ML com análise SHAP identificou os construtos relacionados à aprendizagem mais associados ao uso acadêmico pretendido do ChatGPT entre estudantes universitários, priorizando a [[explainable-ai|interpretabilidade]] ([[determinants-chatgpt-use-higher-education-2026]]).
+
+- **Infraestrutura reutilizável de analítica, validada apenas internamente (2026).** [[a4l-analytics-pipeline|Bai et al. (2026)]] reproduziram achados publicados de três assistentes de IA da Georgia Tech alterando valores de configuração, e não código, embora a alegação repouse sobre a reanálise de conjuntos de dados existentes de instituição única, e a única extensão de capacidade tenha sido feita por pessoas de dentro.
+
+### Conexões
+
+A analítica de aprendizagem se conecta ao [[knowledge-tracing|rastreamento de conhecimento]] (a analítica central), à [[formative-assessment|avaliação formativa]] (avaliação movida pela analítica), à [[student-modeling|modelagem do estudante]] (a representação do estudante que a analítica preenche), à [[privacy|privacidade]] (a restrição [[ethics|ética]]) e à [[edtech-platform|plataforma de tecnologia educacional]] (onde a analítica é implantada). Como a analítica prescritiva é cada vez mais avaliada em [[simulating-students|estudantes simulados]] — onde turmas sintéticas de estudantes substituem turmas reais em testes controlados —, a analítica de aprendizagem também se conecta à simulação de estudantes.
+
+- **O que os painéis tornam visível decide sobre o que os professores agem.** [[ai-supported-lecturer-decision-making-2026|Köroğlu et al. (2026)]] revisaram 27 estudos empíricos (2016–2025) e construíram uma taxonomia sociotécnica da tomada de decisão de docentes apoiada por IA ao longo de oito tipos de decisão: instrucional, curricular, de avaliação, de feedback, de ambiente de aprendizagem, emocional, administrativa e ética. Os Painéis de Analítica de Aprendizagem foram o sistema mais frequentemente reportado, e a codificação mostra o apoio concentrado nas decisões instrucional, de feedback e de avaliação que dados textuais comportamentais e de log conseguem informar, enquanto decisões emocionais, éticas, curriculares e de ambiente de aprendizagem raramente eram apoiadas. Os autores leem isso como um efeito de atenção, e não como um limite de capacidade: como os sistemas tornavam visíveis e acionáveis os dados comportamentais dos estudantes, preocupações de motivação, [[metacognition|metacognição]], emoção e ambiente ficaram fora do que os dados convidavam os docentes a considerar.
+
+A instrumentação em nível de processo é o próximo passo para baixo da camada descritiva. [[pulla-parsons-problem-tool-2026|Prol et al. (2026)]] estenderam uma plataforma de problemas de Parsons [[open-source|de código aberto]] para registrar cada posicionamento, remoção e submissão de bloco como um traço cronológico, parear cada submissão com coloração de correção por bloco e um histórico de tentativas, e opcionalmente passar os traços por um pipeline de [[llm|LLM]] que rotula padrões recorrentes de dificuldade para revisão do instrutor. Ao longo de 68 estudantes em um curso superior de desenho de software em Java e 36 em um curso introdutório de Python, a análise expôs as mesmas três dificuldades — escolher o tipo de exceção errado, substituir `return` por `throw` e ordenação incorreta do fluxo de controle —, que contagens de correção e de tentativas não conseguem expor, porque elas respondem *se* o arranjo estava certo, e não *qual foi o processo*. A IA age como intérprete do [[teacher-role|instrutor]], e não como corretor do estudante, e seu produto é enquadrado como uma hipótese revisável sobre as dificuldades de uma turma, e não como uma nota.
+
+## Conceitos conectados
+
+- [[explainable-ai]]
+- [[knowledge-tracing]]
+- [[student-modeling]]
+- [[formative-assessment]]
+- [[privacy]]
+- [[edtech-platform]]
+- [[student-engagement]]
+- [[ai-ed-evaluation]]
+- [[feedback]]
+- [[higher-ed]]
+- [[k-12]]
+- [[llm]]
+- [[simulating-students]]
+- [[self-report-measures]]
+- [[recommender-systems-and-learning-paths]]
+- [[student-support-and-success]] — o lado do apoio que a previsão alimenta: encaminhamento, alocação e os resultados que eles movem ou não
+
+## Artigos conectados
+- [[factria-responsible-institutional-analytics-2026]] — Analítica institucional responsável: interpretando o viés com apoio de IA
+
+- [[ai-supported-lecturer-decision-making-2026]] — Tomada de decisão de docentes apoiada por IA no ensino superior
+- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Analítica de aprendizagem federada e explicável para modelagem de risco acadêmico que preserva a privacidade (Villegas-Ch et al. 2026)
+- [[llm-interaction-depth-task-quality-recall-2026]] — O que os estudantes perguntam importa: profundidade da interação com LLM, qualidade da tarefa e recordação imediata (Tsiligkiris 2026)
+- [[learning-analytics-to-educational-interventions-2026]] — Da analítica de aprendizagem às intervenções educacionais: habilitadores de intervenções confiáveis baseadas em LA (Svetec, Divjak & Kadoić 2026)
+- [[claassen-learning-analytics-genai-learning-design-2026]] — LA e GenAI na tomada de decisão de desenho de aprendizagem
+- [[at-risk-students-ml-prediction]]
+- [[engagement-intensity-learner-modeling]]
+- [[misiejuk-cognitive-offloading-prompting-2026]]
+- [[teaching-feedback-classification-benchmark]]
+- [[wordstream-glass-learning-analytics]]
+- [[trace-course-grade-prediction-2026]]
+- [[student-llm-interaction-taxonomy-review-2026]]
+- [[sc2r-counterfactual-recourse-educational-2026]] — Da previsão de risco do estudante ao SC2R: recurso contrafactual
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Diagnóstico cognitivo bayesiano para trajetórias de aprendizagem personalizadas
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Destilando um LM autoexplicativo para a analítica de aprendizagem
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — A IA consegue oferecer apoio apropriado a perfis diversos de estudantes? Uma avaliação em larga escala
+- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Agentes de LLM ajustados por participante reproduzindo diálogos de resolução colaborativa de problemas (Fang 2026)
+- [[astra-multi-agent-tutoring-benchmark-2026]] — Benchmark sintético ASTRA para tutoria multiagente e colaboração com participação equilibrada
+- [[determinants-chatgpt-use-higher-education-2026]] — Determinantes de ML/SHAP do uso futuro do ChatGPT no ensino superior
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Tornando os achados de ML acessíveis aos professores em salas híbridas
+- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Rastreamento de conhecimento baseado em resultados com mapeamento de afinidade
+- [[an-goel-self-directed-modeling-2026]]
+- [[schuetze-knowledge-tracing-forgetting-2026]]
+- [[zhang-ml-student-progress-programming-2026]]
+- [[learning-paths-patterns-learning-design-2026]] — Cadeia de Markov e mineração de padrões de 29.064 atividades planejadas em 554 cursos, revelando uma gramática de desenho liderada por Aquisição e Prática consolidante
+- [[pulla-parsons-problem-tool-2026]] — Pulla: rastreamento comportamental em nível de processo e análise de dificuldades voltada ao instrutor em problemas de Parsons (Prol et al. 2026)
+- [[a4l-analytics-pipeline]]
+- [[league-ethical-governance-student-data-2026]]
+- [[learning-analytics-genai-secondary-writing-2026]] — Usando a analítica de aprendizagem para apoiar a escrita de estudantes do ensino médio com IA generativa
+- [[edtech-privacy-deferral-2026]] — "Vamos consertar depois": educação, IA e o adiamento da privacidade do estudante no EdTech
+- [[synthetic-educational-data-structural-fidelity-2026]] — O que as métricas de fidelidade perdem: uma verificação estrutural sobre dados educacionais sintéticos
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Previsão do risco de fraude assistida por IA a partir de traços de LMS do início do semestre (AUC 0,763)

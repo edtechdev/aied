@@ -4404,3 +4404,110 @@
   - teacher-role
   - technology-acceptance-model
   reason: 'academic-integrity carried student intention only via the Petricini and Zipf intention-effort axes and no Theory of Planned Behavior predictors (grep "subjective norm|perceived detection|planned behavior" -> 0 predictor hits), so the first TPB study of GAIT-misconduct intention — attitudes, norms, positive AI attitudes, and detection-as-deterrent — is new and was woven in. Rejected: reducing-ai-misuse already establishes detection''s weak probative value and the prevention levers that do the work detection cannot (grep "detection" -> 6 hits), so the deterrent finding adds a lever the page already frames as unreliable; motivation carried no TPB subject matter (grep "intention|planned behavior" -> 0 hits) and the study''s TPB framing is not a motivational construct claim; remaining entries are facets, audience labels, or the study''s setting.'
+- article: lyu-data-driven-redesign-tutoring-2026
+  date: '2026-10-10'
+  integrated:
+  - intelligent-tutoring
+  no_change:
+  - llm
+  - adaptive-learning
+  - knowledge-tracing
+  - mastery-learning
+  - learning-analytics
+  reason: 'intelligent-tutoring carried no data-driven KC-model refinement loop — the learning-curve audit that found an unmodeled interpolation skill and conflated sign-handling KCs, followed by focused practice plus mastered-step skipping — so the process-level results (38.9 vs 31.6 active minutes, five extra skills in the same class time, no learning-gain difference under thin practice dose, null overpractice reduction at p = .080) are new and were woven in with the two developer lessons (post-test coverage of newly split skills; practice dose as bound on adaptive benefit). Rejected: knowledge-tracing already carries AFM/BKT model evaluation and the validation-versus-deployment caveat (grep "AFM|learning curve|DataShop" -> existing coverage), so this adds an application instance, not a modeling claim; adaptive-learning carries bottleneck-attribute adaptation and deceptive-overgeneralization stopping rules but not KC-model redesign from classroom log data; mastery-learning carries the practice-threshold framing that this study''s null is explained by, but the study does not test mastery-learning itself; remaining entries — llm, the facet values, audience labels, and the study setting — are facets or the study''s technical substrate, not candidate concepts.'
+- article: thomas-breaking-learning-system-wall-2026
+  date: '2026-10-10'
+  integrated:
+  - learning-analytics
+  no_change:
+  - llm
+  - knowledge-tracing
+  - multimodal
+  - intelligent-tutoring
+  reason: 'learning-analytics carried no cross-platform generalization barrier — the learning system wall, where MATHia, i-Ready and IXL define attempt and hint differently — nor the video-transcription response (Gemini pipeline: overlapping segments, strict JSON event schema, global timeline remap, MATHia-log anchoring with clock-drift recalibration) or the invisible-learning capture examples (whiteboard scaffolding, Desmos calculator use, silent Zoom-chat help, idleness-as-distraction), so all were woven in. Rejected: knowledge-tracing carries the BKT/AFM modeling side this system aligns to, but the paper uses native logs only as validation ground truth, contributing no new modeling method; multimodal carries the MLLM taxonomy and use, but the paper''s contribution is the pipeline and alignment procedure, not multimodal capability; intelligent-tutoring already carries the human-AI hybrid tutoring evidence this work measures, and the paper does not report learning outcomes; remaining entries — llm plus the facet values, audience labels, and the study setting — are facets or the study''s technical substrate, not candidate concepts.'
+- article: yang-balancing-teacher-student-agency-2026
+  date: '2026-10-10'
+  integrated:
+  - agency
+  no_change:
+  - intelligent-tutoring
+  - knowledge-tracing
+  - learning-analytics
+  - collaborative-learning
+  - self-regulated-learning
+  - student-engagement
+  - teacher-role
+  reason: 'agency carried no multi-stakeholder teacher-student control distribution for orchestration decisions — the stage-dependent gradient (strong teacher control early, hybrid and student control later, full student control never preferred), the mirrored divergences on pairing timing versus partner choice, and the bounded-proposal design recommendation — so these were woven in, extending the learner-agency evidence with the teacher-side allocation question. Rejected: teacher-role carries teacher decision-making and agency-under-change findings but not dynamic pairing control distribution specifically; collaborative-learning carries the dynamic individual-collaborative combination evidence the tool operationalizes, but the paper contributes the control-allocation preference data, not the collaborative learning outcomes; student-engagement and self-regulated-learning carry the engagement and regulation constructs but this is a design-preference study, not an outcome study of those constructs; remaining entries — llm, intelligent-tutoring, knowledge-tracing, learning-analytics, the facet values, audience labels, and the study setting — are facets or the study''s technical substrate: intelligent-tutoring carries the tutoring-system evidence but not control-allocation preference data; knowledge-tracing and learning-analytics carry the BKT and analytics infrastructure the tool consumes but contribute no new method or model claim.'
+- article: xu-automated-feedback-tutor-training-2025
+  date: '2026-10-10'
+  integrated:
+  - feedback
+  no_change:
+  - teacher-role
+  - llm
+  - automated-assessment
+  reason: 'feedback carried the learner-facing feedback system (quality, loop, literacy, contexts) but no feedback-on-the-feedback-giver context — tutor training via sequence-labeled praise-type identification (effort/outcome/person-based) with explanatory output — so the tutor-training feedback application, the low-resource data bottleneck, and the GPT-4o-augmentation-of-GPT-3.5 recipe (13-instance seed to 520 synthetic, F2 +20.5%/+17.3%/+16.5% with unseen-category generalization) were woven in. Rejected: teacher-role carries tutor preparation findings but not automated praise-type feedback systems specifically; automated-assessment carries the assessment-automation evidence but this system assesses tutor responses, not student work; llm is the technical substrate and the paper contributes no new modeling method; remaining entries are facets or the study setting.'
+- article: gurung-hybrid-human-ai-tutoring-2026
+  date: '2026-10-10'
+  integrated:
+  - equity-in-ai-education
+  no_change:
+  - ai-education
+  - intelligent-tutoring
+  - feedback
+  reason: 'equity-in-ai-education carried the gap-closing skepticism (Ogunsakin review: inclusiveness claims untested across groups) but no positive gap-narrowing evidence from differentiated hybrid tutoring, so the DiDC study (635 students, proactive vs reactive allocation by median cutoff, +25% time on task / +36% skill proficiency / +61% MAP growth, marginal 75% proactive advantage concentrated below the cutoff) was woven in as the counterweight with its design caveats. Rejected: intelligent-tutoring carries hybrid human-AI tutoring outcome evidence but not the differentiated-allocation policy contrast, which is the study''s contribution; ai-education is the umbrella page and the study adds a specific policy instance rather than a field-level claim; remaining entries are facets or the study setting.'
+- article: noh-simulating-task-selection-2026
+  date: '2026-10-10'
+  integrated:
+  - mastery-learning
+  no_change:
+  - learning-design
+  - intelligent-tutoring
+  - knowledge-tracing
+  - adaptive-learning
+  - self-regulated-learning
+  reason: 'mastery-learning carried the practice-threshold and retention framing (95% threshold, spaced reinforcement) but nothing on how learner task-selection strategy under shared control determines efficiency, so the simulation results (Minimize Worst Case Loss at 30.28x overpractice vs ~1.7x for other strategies; Prefer Harder constraint cutting it to 1.98x, d = 1.86, with efficient strategies unaffected) and the strategy-aware-constraint design lesson were woven in. Rejected: adaptive-learning carries shared-control and constraint evidence but not strategy-variability-at-an-order-of-magnitude or the outcome-informed strategy classes; knowledge-tracing carries the BKT/AFM machinery the simulation uses as parameters, not the strategy comparison; self-regulated-learning carries the regulation constructs but this is a simulation of cognitive heuristics without motivational modeling (the authors'' own future-work point); remaining entries are facets or the study setting.'
+- article: cen-self-efficacy-favorability-2026
+  date: '2026-10-10'
+  integrated:
+  - self-efficacy
+  no_change:
+  - learning-theories
+  - intelligent-tutoring
+  - formative-assessment
+  - self-regulated-learning
+  reason: 'self-efficacy carried Bandura-source and prediction findings (AI use, absenteeism, gender moderation) but nothing on how self-efficacy interacts with instructional format and format favorability, so the counterbalanced format-comparison results (tutor > paper overall, lower baseline self-efficacy predicts greater gains in both formats, significant three-way self-efficacy x favorability x format interaction, and the null that ITS practice did not improve post-training self-efficacy) were woven in with the format-assignment implication. Rejected: intelligent-tutoring carries ITS outcome evidence but not motivational-profile-by-format interactions, which is the study''s specific contribution; formative-assessment is not engaged — the study uses pre/post tests as outcome measures, not as its subject; learning-theories is the facet context; remaining entries are facets or the study setting.'
+- article: mcnamara-aim-cai-continuous-assessment-2026
+  date: '2026-10-10'
+  integrated:
+  - formative-assessment
+  no_change:
+  - learning-analytics
+  - llm
+  - adaptive-learning
+  - mastery-learning
+  - summative-assessment
+  - privacy
+  - qualitative-research
+  reason: 'formative-assessment carried the assessment-for-learning philosophy framing (feedback as ongoing process) but nothing on the infrastructure question — how evidence scattered across platforms, workplaces, and AI tutors could be connected, translated, and governed — so AIM-CAI''s six-layer architecture, the seven governance tensions, and the conceptual-shift table were woven in as the systems-level extension with its position-paper caveat. Rejected: summative-assessment is named in the shifts table but the paper adds no summative-specific evidence; mastery-learning is a pedagogy context, not the assessment-architecture subject; learning-analytics carries the analytics evidence side but the semantic-translation and governance layers are the distinct contribution; llm is the enabling technology without new modeling claims; privacy is one of seven governance tensions, not a dedicated privacy-analysis page; remaining entries are facets or the study context.'
+- article: borchers-srl-language-generalization-2025
+  date: '2026-10-10'
+  integrated:
+  - self-regulated-learning
+  no_change:
+  - metacognition
+  - llm
+  - intelligent-tutoring
+  - knowledge-tracing
+  - process-oriented-assessment
+  reason: 'self-regulated-learning carried SRL-support findings (conversational agents in simulation games, reflective-use interventions) but nothing on the detection-measurement side — whether automated SRL classifiers transfer across languages, domains, and scaffolding levels — so the embedding-transfer results (within-domain cross-language ~0.8 AUC; cross-domain ~0.6; enact at chance) and the three named failure modes (concept resolution, anthropomorphization, hint-processing ambiguity) were woven in with the instrumentation fixes. Rejected: process-oriented-assessment carries automated process-measurement evidence but the transfer-generality question (language x domain x scaffolding) and the failure-mode taxonomy are the distinct contribution; metacognition is the construct family, not the measurement-transfer subject; llm is the classifier substrate (embedding model, no new method); intelligent-tutoring and knowledge-tracing are the data sources, not the subject; remaining entries are facets or the study context.'
+- article: falhs-teacher-expertise-reflection-2025
+  date: '2026-10-10'
+  integrated:
+  - teacher-role
+  no_change:
+  - learning-analytics
+  - professional-training
+  - self-regulated-learning
+  - feedback
+  reason: 'teacher-role carried the teacher-as-co-designer and AI-literacy findings but nothing on how teacher-facing AI reflection systems should be personalized to experience level, so the survey results (time obstacle 3x for novices; experienced teachers want teaching-method and improved-learning analytics; novice/expert design rule; AI-literacy prerequisite) were woven in as the needs-adaptation evidence. Rejected: learning-analytics carries dashboard evidence generally but the experience-level moderation of preferences is the distinct finding; professional-training is the facet context (the survey informs PD analytics but contributes no PD-intervention evidence); self-regulated-learning is a learner-side construct — this paper is teacher-side reflection; feedback carries the construct but this is preference data about analytics design, not feedback-effectiveness evidence; remaining entries are facets or the study context.'

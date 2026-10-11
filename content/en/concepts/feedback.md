@@ -129,6 +129,8 @@ A two-layer model shows how the pairing can be organized around a machine withou
 
 Feedback is one of the most consequential and best-evidenced mechanisms in education, and AI both amplifies and complicates it. Well-architected AI feedback can match or exceed human feedback and scale across cohorts, but it demands new learner capabilities ([[feedback-literacy]], [[ai-literacy]]) and carries risks (uncritical acceptance, [[cognitive-offloading|Over-Reliance]]). As AI-generated feedback becomes ubiquitous, the knowledge base frames feedback as a whole system — quality, loop, literacy, and assessment context working together — rather than as any single component.
 
+- **Feedback can target the feedback-giver.** Tutor training is an under-explored feedback context: automated systems that sequence-label tutors' open-ended responses to flag praise types (effort-based praise — the desirable process-focused kind — vs. outcome-based vs. person-based, the least desirable trait-attributing kind) can deliver explanatory feedback that changes tutoring behavior. The binding constraint is expert-labeled data. An augmentation approach — GPT-4o generates synthetic labeled responses expanding a 13-instance low-resource set to 520, then fine-tunes GPT-3.5 — recovers most of the gap: F2 +20.5% on effort-based praise, +17.3% on outcome-based, and +16.5% on the *unseen* person-based category. The generalization test to an unseen praise type is the validity check that separates this from overfitting, and the mechanism is closer to teacher-model distillation than classical augmentation. ([[xu-automated-feedback-tutor-training-2025]])
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — Tested feedback sequences, including why higher-quality AI feedback produced no more revision
@@ -198,3 +200,4 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[nazaretsky-feedback-source-bias-2025]] — Who gives feedback matters: source labels shift ratings when the text is held comparable (Nazaretsky et al. 2025)
 - [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — What a revision does to the writer's stance: peer feedback turns argumentative essays more contractive, AI revision keeps the Contract/Expand balance (Zhao & Ji 2026)
+- [[xu-automated-feedback-tutor-training-2025]] — Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation (Xu et al. 2025)
