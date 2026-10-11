@@ -4527,3 +4527,103 @@
   - pedagogical-safety
   - self-regulated-learning
   reason: 'Four weaves at ingest. student-engagement: the trajectory result inverts the engagement reading — a disengaged turn is an interactional move, not a state, and the highest-performing cluster paired moderate disengagement with recovery-to-engagement transitions (Withholding → Engagement p = 0.83) while the lowest showed persistent self-loops (Engagement p = 0.96). conversational-ai: the six-category disengagement scheme (False Answering 12.8%, Withholding 8.9%, Random/Noisy 2.1%, Mirroring 0.6%, Mocking 0.3%, Ghosting 0.2% of 5,522 utterances; Mirroring emerging inductively) plus the human-in-the-loop LLaMA 3 classification method. ai-misuse-learning-harm: the dialogue-era form of gaming, with the persistence-versus-repair inversion that makes Withholding the design signal rather than noisy disengagement. intelligent-tutoring: the teachable-agent setup (GPT-4-Turbo, RAG knowledge graph, mentor agent scoring explanations in Math Nation) and the classifier-dependence caution (3,840 of 5,522 utterances model-labeled; headline association evaporates on the human-annotated subset). Rejected seven: ai-education is the umbrella with no specific claim to add; educational-measurement, llm, multimodal, metacognition, pedagogical-safety and self-regulated-learning are facets or the study''s technical substrate, not candidate concepts — the process-modeling (CIF competing risks, transition clustering) is the method, not a construct any of those pages lacks.'
+
+- article: caeai-chatgpt-interdisciplinary-stem-nonstem-2026
+  date: '2026-10-11'
+  integrated:
+  - differential-effects-across-learner-groups
+  no_change:
+  - assessment
+  - collaborative-learning
+  - conversational-ai
+  - critical-thinking
+  - cs-education
+  - educational-technology-developers
+  - equity-in-ai-education
+  - feedback
+  - generative-ai
+  - learning-analytics
+  - learning-gains
+  - llm
+  - mixed-methods-research
+  - problem-solving
+  - prompt-engineering
+  - quantitative-research
+  - scaffolding
+  - self-efficacy
+  - self-report-measures
+  - student-engagement
+  reason: 'One weave. differential-effects-across-learner-groups is the cross-group evidence map and it carried no disciplinary-background axis at all (grep ''STEM'' -> 0, ''disciplin'' -> 0 before the edit), so the finding that ChatGPT raised physical engagement for STEM students and lowered it for non-STEM students while unassisted notes scored higher on disciplinary diversity and integration is a distinguishing addition; a new Disciplinary background strand now carries it. Rejected: equity-in-ai-education already carries uneven-benefit and differentiated-impact evidence (differentiated impact, prompt privilege, attainment-dependent marking) and adds nothing from a 130-student engagement interaction; collaborative-learning is the activity setting, not the claim; cs-education and stem-education are the sampled disciplines; student-engagement, learning-gains, assessment, feedback, self-efficacy, critical-thinking and scaffolding are the measured constructs, not pages missing anything this study supplies; the rest are facets or methodological descriptors.'
+- article: caeai-genai-architectural-design-creative-self-efficacy-2026
+  date: '2026-10-11'
+  integrated:
+  - creativity
+  no_change:
+  - agency
+  - assessment
+  - critical-thinking
+  - design-thinking
+  - generative-ai
+  - human-ai-collaboration
+  - llm
+  - metacognition
+  - multimodal
+  - pedagogy
+  - prompt-engineering
+  - scaffolding
+  - self-efficacy
+  - self-report-measures
+  - student-ai-interaction
+  reason: 'One weave. creativity carried the T2I competence paradox and the amplification/homogenization strands but nothing on creative self-belief moving separately from assisted performance (grep ''self-efficacy'' -> 1 hit on the page), so the null performance result paired with a significant fall in general creative self-efficacy (DiD = -0.543, 95% CI [-1.068, -0.017]) was added as a bullet in the visual art and design strand. Rejected: self-efficacy carries the creative/GenAI self-efficacy material already and the study''s measure is the creativity page''s own construct (''architect'' -> 3 hits there, no new mechanism); student-ai-interaction is the interaction setting with no interaction-mechanism finding; design-thinking and multimodal are the tool and medium; assessment, pedagogy, metacognition, critical-thinking, scaffolding, prompt-engineering, agency, human-ai-collaboration and llm are facets or measured constructs.'
+- article: frontiers-gai-hallucination-dependence-2026
+  date: '2026-10-11'
+  integrated:
+  - hallucination-risk
+  no_change:
+  - ai-literacy
+  - ai-sycophancy
+  - cognitive-offloading
+  - conversational-ai
+  - critical-thinking
+  - educational-technology-developers
+  - generative-ai
+  - llm
+  - motivation
+  - quantitative-research
+  - self-efficacy
+  - self-report-measures
+  - student-engagement
+  - trust
+  - trust-calibration
+  reason: 'One weave. hallucination-risk asserted that hallucination is most dangerous when outputs are trusted uncritically but carried no measured evidence on what happens to reported reliance once unreliability is made explicit (grep ''depend'' -> 0, ''label'' -> 0), so the between-subjects result (546 participants; fabricated label produced lower trust and controllability, higher dissonance and frustration, and lower dependence M = 2.935 vs 3.254) was added as a qualifying paragraph. Rejected: trust-calibration already carries hallucination-and-dependence material (grep ''hallucin'' -> 3, ''depend'' -> 11) and this is a label-manipulation experiment rather than a calibration-interface study; cognitive-offloading carries dependence generally and this paper is not about effort allocation; ai-literacy is a moderator that did not survive the multiplicity-adjusted criteria; ai-sycophancy was not tested; the rest are facets or study instruments.'
+- article: bjet-genai-engagement-minority-ethnic-students-2026
+  date: '2026-10-11'
+  integrated:
+  - differential-effects-across-learner-groups
+  no_change:
+  - ai-literacy
+  - assessment
+  - business-education
+  - culturally-relevant-pedagogy
+  - curriculum-design
+  - digital-divide
+  - discipline-specific-aied
+  - equity-in-ai-education
+  - generative-ai
+  - higher-ed
+  - icap-framework
+  - inclusive-learning
+  - learner-identity
+  - llm
+  - motivation
+  - multimodal
+  - prompt-engineering
+  - quantitative-research
+  - self-report-measures
+  - social-emotional-learning
+  - special-education
+  - student-engagement
+  - student-experience
+  - technology-acceptance-model
+  - usability-research
+  reason: 'One weave. differential-effects-across-learner-groups names international students as one of its close-to-empty strands (a single n = 60 mixed-methods study) and carried nothing on minority ethnic international students or on engagement as the outcome, so the 270-student seven-business-school survey (GenAI use associated with all four engagement strands, agentic strongest at beta = 0.429; facilitating conditions beta = 0.369) was added to that strand with its status stated plainly as a usage-and-engagement association, not an effect estimate. Rejected: equity-in-ai-education carries access, representation and outcome-equity frames and this paper supplies no outcome-equity estimate (grep ''international student'' -> 0, ''minority'' -> 0 on the page); student-engagement already carries agentic-engagement evidence (''agentic engagement'' -> 1 hit) and an association with a self-report scale adds no distinguishing claim; technology-acceptance-model already carries UTAUT extensively (26 hits) and the extension is the paper''s instrument rather than a new mechanism; business-education, higher-ed, curriculum-design, digital-divide, inclusive-learning, culturally-relevant-pedagogy, special-education, learner-identity, motivation, social-emotional-learning, student-experience, icap-framework, prompt-engineering, multimodal, ai-literacy and discipline-specific-aied are facets, context or constructs the study measures rather than concepts whose narratives the finding changes.'

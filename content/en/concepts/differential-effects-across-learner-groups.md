@@ -1,7 +1,7 @@
 ---
 title: Differential Effects Across Learner Groups
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-10-01T10:47:53-04:00"
+updated: "2026-10-11T09:05:00-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -89,6 +89,12 @@ This strand is small in article count and strong in mechanism, because the evide
 - **Adult learners are a separate design case,** covered by [[adult-learning|Adult Learning]] and the knowledge base's andragogy work rather than by K-12 studies.
 - **Access still gates everything else:** see [[digital-divide|Digital Divide]] and the finding that [[access-not-enough-ai-tutoring-2026|access to AI tutoring is not enough]] without [[pedagogy|pedagogical]] integration.
 
+## Disciplinary background
+
+Disciplinary background is a differential axis this page's group-by-group map did not yet carry: the same tool can distribute its benefit unevenly across fields rather than across student demographics.
+
+- **A tool can engage one discipline and disengage another.** In a two-week quasi-experiment with 130 undergraduates on mixed-discipline teams, [[generative-ai|ChatGPT]] raised physical [[student-engagement|engagement]] for STEM students and lowered it for non-STEM students (Q = 9.87, p < .05), and notes written without ChatGPT scored higher on diversity and integration of disciplinary ideas ([[caeai-chatgpt-interdisciplinary-stem-nonstem-2026|Zhu et al. (2026)]]).
+
 ## Where the evidence is missing
 
 The honest finding of this survey is how thin some groups are. Each of these is a real gap in the evidence base, not a gap in this page.
@@ -96,6 +102,7 @@ The honest finding of this survey is how thin some groups are. Each of these is 
 - **First-generation students:** one study reports a usage difference rather than an effect. In [[student-ai-inquiry-types-cs2-2026|a CS2 inquiry study]], continuing-generation students treated the AI as an active [[problem-solving]] partner, while first-generation students took a confirmatory, validation-oriented role and asked fewer questions overall.
 - **First-generation students: the first effect estimate, and it runs the wrong way.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]'s [[rct|randomized trial]] of a course-integrated [[intelligent-tutoring|AI tutor]] supplies what the entry above lacks — a measured differential rather than a usage pattern. In the full sample the effect of tutor access on final grades was 2.87 points (0.28 SDs) more negative for first-generation students, implying −5.10 points (−0.50 SDs) for them against −2.23 points (−0.22 SDs) for their peers; the differential was larger in the exact-match sample (−3.89 points, −0.35 SDs), and first-generation students also lost more homework points and platform page views. The study reports no mechanism and its precision varies by outcome, but the direction is the opposite of the narrowing-gap story: the students with the least prior access to academic support carried the largest measured cost.
 - **International students:** one [[mixed-methods-research|mixed-methods]] study (survey n = 60, interviews n = 14) on [[international-students-conversational-ai-adaptation|cross-cultural adaptation support]].
+- **International students: a measured engagement pattern, not an effect estimate.** Across 270 minority ethnic international students in seven UK [[business-education|business schools]], reported [[generative-ai]] use was positively associated with all four [[student-engagement|engagement]] strands — most strongly agentic engagement (β = 0.429) — with facilitating conditions (β = 0.369) the strongest predictor of intention to use ([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]).
 - **Gifted and high-achieving students:** effectively unstudied as a group in this corpus.
 - **Refugee, immigrant, and displaced learners:** no studies.
 - **Gender is still analysed as binary** in most of the work above, and disability categories vary across studies, so cross-study comparison of "the same" group has limits.
@@ -131,6 +138,8 @@ The honest finding of this survey is how thin some groups are. Each of these is 
 ## Connected Articles
 
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 studies of AI for students with disabilities: g = 0.588, and g = 0.269 after bias adjustment
+- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT benefited STEM and non-STEM students unequally in interdisciplinary learning
+- [[bjet-genai-engagement-minority-ethnic-students-2026]] — GenAI use and four-strand engagement among minority ethnic international students
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766 records to 40 studies, 15 of them generative AI
 - [[adhd-video-segmentation-computing-education]] — A general design change that brought ADHD participants to parity
 - [[neurodivergent-computing-students]] — 24 neurodivergent students on structure, ambiguity, and collaboration

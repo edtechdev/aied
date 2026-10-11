@@ -1,5 +1,5 @@
 ---
-title: "Creating an AI-powered platform for generating modelling problems: A case study on direct variation in secondary school"
+title: "Creating an AI-powered platform for generating modelling problems: A case study on direct variation in secondary school mathematics"
 created: "2026-09-01T14:00:00-04:00"
 updated: "2026-09-20T06:30:22-04:00"
 type: article

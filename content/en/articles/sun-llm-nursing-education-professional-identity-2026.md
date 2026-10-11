@@ -1,5 +1,5 @@
 ---
-title: "When the algorithm enters the classroom: A critical integrative review of large language models, nursing education"
+title: "When the algorithm enters the classroom: A critical integrative review of large language models, nursing education structural gaps, and the reconstitution of professional identity"
 created: "2026-09-07T08:25:00-04:00"
 updated: "2026-09-19T11:14:39-04:00"
 type: article

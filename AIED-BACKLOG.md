@@ -6,10 +6,25 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-10-04
-**Total backlog:** 0 articles awaiting full text · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-10-11
+**Total backlog:** 11 articles awaiting ingest (full text retrievable from the open-access publisher pages) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 
+## Weekly journal RSS scan (2026-10-11)
+
+Relevant AI-in-education articles found by the weekly `journal_scan.feeds` run that were **not ingested this run** — the run was bounded to keep review tractable. Their full text is retrievable from the open-access publisher pages, so they can be ingested on request rather than needing a maintainer-supplied PDF.
+
+- [Evaluating Large Language Models for career guidance: A comparative analysis of computing competency recommendations](https://www.sciencedirect.com/science/article/pii/S2666557326000972) — [DOI: 10.1016/j.caeo.2026.100425](https://doi.org/10.1016/j.caeo.2026.100425) — Computers and Education Open
+- [Evaluating AI-based visual privacy through Cartoonification: Impact on expressive participation and consent for data retention](https://www.sciencedirect.com/science/article/pii/S2666557326000649) — [DOI: 10.1016/j.caeo.2026.100393](https://doi.org/10.1016/j.caeo.2026.100393) — Computers and Education Open
+- [A pilot educational framework for AI-enhanced digital manufacturing and reflective skill development](https://www.sciencedirect.com/science/article/pii/S2666557326000133) — [DOI: 10.1016/j.caeo.2026.100342](https://doi.org/10.1016/j.caeo.2026.100342) — Computers and Education Open
+- [Bridging the domain gap for VLMs: A scientific fine-tuning framework for precision and pedagogy in astronomical image understanding](https://www.sciencedirect.com/science/article/pii/S2666920X26001359) — [DOI: 10.1016/j.caeai.2026.100673](https://doi.org/10.1016/j.caeai.2026.100673) — Computers and Education: Artificial Intelligence
+- [Enhancing domain adaptation of LLM via model composition in solving medical exam questions](https://www.sciencedirect.com/science/article/pii/S2666920X26001001) — [DOI: 10.1016/j.caeai.2026.100638](https://doi.org/10.1016/j.caeai.2026.100638) — Computers and Education: Artificial Intelligence
+- [ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring and participation-balanced collaboration](https://www.sciencedirect.com/science/article/pii/S2666920X26000950) — [DOI: 10.1016/j.caeai.2026.100633](https://doi.org/10.1016/j.caeai.2026.100633) — Computers and Education: Artificial Intelligence
+- [Personalized neural cognitive architecture search: AutoML-driven diagnostic model generation for heterogeneous learner profiles](https://www.sciencedirect.com/science/article/pii/S2666920X26000822) — [DOI: 10.1016/j.caeai.2026.100620](https://doi.org/10.1016/j.caeai.2026.100620) — Computers and Education: Artificial Intelligence
+- [A socio-technical framework for educational excellence: Empirical validation of artificial intelligence and Jidoka integration](https://www.sciencedirect.com/science/article/pii/S2666920X26001098) — [DOI: 10.1016/j.caeai.2026.100647](https://doi.org/10.1016/j.caeai.2026.100647) — Computers and Education: Artificial Intelligence
+- [The impact of human-AI co-creation on perceived creativity in generative AI art: a serial mediation mechanism of psychological ownership](https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1986050) — [DOI: 10.3389/fpsyg.2026.1986050](https://doi.org/10.3389/fpsyg.2026.1986050) — Frontiers in Psychology
+- [Large language models for teaching and learning in higher education: opportunities, challenges, and future directions](https://link.springer.com/article/10.1186/s41239-026-00624-7) — [DOI: 10.1186/s41239-026-00624-7](https://doi.org/10.1186/s41239-026-00624-7) — International Journal of Educational Technology in Higher Education
+- [Designing in Uncertainty: GenAI and Creative Agency in a Graduate Seminar](https://joidat.scholasticahq.com/article/164950-designing-in-uncertainty-genai-and-creative-agency-in-a-graduate-seminar) — [DOI: 10.65201/RKHM9093](https://doi.org/10.65201/RKHM9093) — Journal of Instructional Design and Technology
 ## OpenAlex harvest (2026-09-25)
 
 _All articles from this harvest are ingested; none pending as of 2026-10-04._

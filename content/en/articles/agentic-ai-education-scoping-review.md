@@ -1,5 +1,5 @@
 ---
-title: "A scoping review of generative AI-powered agentic AI in education: Research landscape, agentic capabilities"
+title: "A scoping review of generative AI-powered agentic AI in education: Research landscape, agentic capabilities, and insights from the frontier agent paradigm, exemplified by OpenClaw"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-19T07:42:07-04:00"
 type: article
