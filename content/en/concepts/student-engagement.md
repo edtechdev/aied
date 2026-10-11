@@ -98,6 +98,8 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 
 - **AI pre-class practice can raise live participation (2026):** A preregistered field experiment with 759 MBA students found that preparing with a voice-based AI discussion partner raised voluntary contributions by about 31% in later sessions, but only after a second use; a first use preceded lower participation ([[assigned-ai-preclass-student-engagement-2026|Wang et al., 2026]]).
 
+
+- **Disengagement as a turn-level move, not a stable state:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] coded 5,522 student utterances to an AI teachable agent in Math Nation into six conversational-disengagement categories (False Answering, Mocking, Ghosting, Mirroring, Withholding, Random/Noisy) and found the engagement rate dominated at 75.7% of utterances. The prevalence-based associations of False Answering and Mocking with post-test scores did not survive a human-annotated sensitivity check. The sequential analysis is the engagement-relevant result: the highest-performing cluster combined moderate disengagement with strong recovery-to-engagement transitions (Withholding → Engagement p = 0.83), while the lowest showed persistent self-loops without recovery (Engagement self-loop p = 0.96). Withholding was the one disengagement type that tended to persist rather than resolve — persistence versus repair, not presence versus absence, is the distinction that separates engagement trajectories.
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -121,6 +123,9 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[self-report-measures]]
 - [[productive-failure]]
 ## Connected Articles
+
+- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
+
 - [[assigned-ai-preclass-student-engagement-2026]] — Voice-based AI pre-class practice raised voluntary class contributions by ~31%, but only after a second use (Wang et al. 2026)
 - [[confident-but-absent-ai-use-absenteeism-2026]] — AI use tracked with greater class absenteeism while self-efficacy did not predict it, with peer influence the dominant correlate (Franco et al. 2026)
 - [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education

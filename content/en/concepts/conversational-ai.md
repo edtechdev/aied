@@ -72,6 +72,8 @@ Conversational AI is best understood as an **interaction modality** that overlap
 
 Choose conversational agents to support teaching, [[motivation]], and [[metacognition]] rather than merely to answer questions, and design for HCI-grounded, participatory, user-centered interaction. Guard against [[cognitive-offloading|over-reliance]] by pairing CAI with [[ai-literacy]] instruction and [[feedback]] that keeps the learner cognitively productive. Attend to AI literacy and usability explicitly — since these — not general digital skill — drive adoption and non-use ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]) — and pair deployment with clear AI-use policies, assessment labels, and training. Evaluate CAI on pedagogical outcomes — not just task completion — and plan for equity and [[accessibility]] from the start rather than as an afterthought.
 
+
+- **How students actually talk to conversational agents — a six-category disengagement scheme:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] embedded a GPT-4-Turbo teachable agent (positioned as a struggling middle-school student, grounded with RAG over a knowledge graph, paired with a mentor agent that critiqued students' explanations) into Math Nation's Algebra and Geometry lessons, and coded 5,522 utterances from 246 students. Beyond engagement (75.7% of utterances), they identified False Answering (12.8%), Withholding (8.9%), Random/Noisy (2.1%), Mirroring (0.6%), Mocking (0.3%), and Ghosting (0.2%) — with Mirroring (copying the agent's text) emerging inductively from the data. The classification was human-in-the-loop: 1,682 utterances annotated by two raters (κ = 0.704–0.905 per category) trained a fine-tuned LLaMA 3 classifier (weighted F1 = 0.910 on held-out threads) that labeled the remaining 3,840 utterances. A process-level competing-risks analysis then showed most disengagement resolves within a few turns except Withholding, which persists — a signal worth designing agent responses around.
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
@@ -93,6 +95,9 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[speech-and-voice-technologies]]
 - [[parents-and-families]]
 ## Connected Articles
+
+- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors in student-AI dialogues (Rho et al. 2026)
+
 - [[mata-sustaining-ai-enabled-student-support-2026]] — Sustaining AI-enabled student support: four-year implementation and impact study of an institutional chatbot (Mata, Russell & Page 2026)
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
 - [[llm-agents-5e-esl-grammar-2026]] — LLM agents with 5E framework for ESL grammar acquisition (Yang et al. 2026)

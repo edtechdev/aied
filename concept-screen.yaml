@@ -4511,3 +4511,19 @@
   - self-regulated-learning
   - feedback
   reason: 'teacher-role carried the teacher-as-co-designer and AI-literacy findings but nothing on how teacher-facing AI reflection systems should be personalized to experience level, so the survey results (time obstacle 3x for novices; experienced teachers want teaching-method and improved-learning analytics; novice/expert design rule; AI-literacy prerequisite) were woven in as the needs-adaptation evidence. Rejected: learning-analytics carries dashboard evidence generally but the experience-level moderation of preferences is the distinct finding; professional-training is the facet context (the survey informs PD analytics but contributes no PD-intervention evidence); self-regulated-learning is a learner-side construct — this paper is teacher-side reflection; feedback carries the construct but this is preference data about analytics design, not feedback-effectiveness evidence; remaining entries are facets or the study context.'
+- article: rho-disengaged-conversational-behaviors-2026
+  date: '2026-10-11'
+  integrated:
+  - student-engagement
+  - conversational-ai
+  - ai-misuse-learning-harm
+  - intelligent-tutoring
+  no_change:
+  - ai-education
+  - educational-measurement
+  - llm
+  - metacognition
+  - multimodal
+  - pedagogical-safety
+  - self-regulated-learning
+  reason: 'Four weaves at ingest. student-engagement: the trajectory result inverts the engagement reading — a disengaged turn is an interactional move, not a state, and the highest-performing cluster paired moderate disengagement with recovery-to-engagement transitions (Withholding → Engagement p = 0.83) while the lowest showed persistent self-loops (Engagement p = 0.96). conversational-ai: the six-category disengagement scheme (False Answering 12.8%, Withholding 8.9%, Random/Noisy 2.1%, Mirroring 0.6%, Mocking 0.3%, Ghosting 0.2% of 5,522 utterances; Mirroring emerging inductively) plus the human-in-the-loop LLaMA 3 classification method. ai-misuse-learning-harm: the dialogue-era form of gaming, with the persistence-versus-repair inversion that makes Withholding the design signal rather than noisy disengagement. intelligent-tutoring: the teachable-agent setup (GPT-4-Turbo, RAG knowledge graph, mentor agent scoring explanations in Math Nation) and the classifier-dependence caution (3,840 of 5,522 utterances model-labeled; headline association evaporates on the human-annotated subset). Rejected seven: ai-education is the umbrella with no specific claim to add; educational-measurement, llm, multimodal, metacognition, pedagogical-safety and self-regulated-learning are facets or the study''s technical substrate, not candidate concepts — the process-modeling (CIF competing risks, transition clustering) is the method, not a construct any of those pages lacks.'
