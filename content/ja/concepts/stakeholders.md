@@ -1,0 +1,108 @@
+---
+title: ステークホルダー
+created: "2026-10-10T22:54:28-04:00"
+updated: "2026-10-10T22:54:28-04:00"
+type: concept
+foundations: [ai-literacy, learning-design, teacher-role]
+audience: [instructors, learners, administrators]
+level: [higher ed, k 12]
+confidence: high
+translation_of: concepts/stakeholders
+source_updated: "2026-10-01T20:35:10-04:00"
+translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-10"
+    agent: hermes-agent
+---
+
+*英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+
+> **ステークホルダー**——[[ai-education|教育におけるAI]]に関与し、影響を受け、責任を負う、人間の利害関係者の範囲、そして、行為者が誰であるかという知識ベースの扱いを包括する概念です。[[ai-education|教育におけるAI]]は多数の利害関係者にわたる領域です。AI を使う学習者、それを統合する[[teacher-role|教員]]と[[educational-development|学部の教員]]、それを統治する[[administrator|管理者]]、それを巡って学習経験を組み立てるインストラクショナルデザイナー、そしてそれを規制する政策立案者です。各主体はそれぞれに異なるニーズ、能力、役割、視点を持ち、知識ベースは彼らを、AI ツールが設計・導入・評価される人間的な文脈として扱います。
+
+## 検討すべき問い
+
+- このページは、同じ AI システムがどの視点からも異なって見えると論じます——学生が支援として経験する道具は、教員には統率上のリスクとして、管理者には統治の決定として見えるかもしれません。あなた自身が最も重ねる役割は何でしょうか。そして他の役割から見落としがちだと思うことは何でしょうか。
+- 読み進める前に、あなたの機関で AI に関する決定の影響を受けるすべての人を挙げてみてください——学生と教員だけでなく。誰を忘れていたでしょうか。そしてそれぞれの人が最も関心を持つことは何でしょうか。
+- 学習者、教員、管理者、インストラクショナルデザイナー、政策立案者がそれぞれに異なるニーズと能力を持つとすれば、AI ツールの導入の仕方について最終的な決定権を持つべきなのは誰でしょうか。それはなぜでしょうか。
+- 学生にとっての「個人化された支援」は、同時に教員にとっての「統率上のリスク」になりえます。各ステークホルダーの懸念に最大の声ではなく真の重みを与える対話や過程を、どのように設計できるでしょうか。
+
+## はじめに
+
+[[ai-education|教育におけるAI]]は根本的に人間についてのものです——その営みを変容させる学習者と教育者、そしてその使い方を決める指導者と設計者です。それぞれのステークホルダーを理解することは不可欠です。なぜなら、同じ AI システムは異なる視点から見ると大きく異なって見えるからです。学生が個人化された支援として経験する道具は、教員には統率上のリスクとして、管理者には調達と統治の決定として、設計者には教育学的な選択として現れるかもしれません。知識ベースは、これらの主体についての扱いを、いくつかの概念ページにわたって整理しています。
+
+## ステークホルダーの全体像
+
+- **学習者（学生）。** 主要な対象——[[k-12]]、[[higher-ed]]、[[adult-learning]]の学生です。知識ベースは学習者を、[[student-experience]]、[[student-engagement]]、[[misconceptions]]、[[student-modeling]]、[[well-being]]、[[agency]]を通じて扱います。学習者の AI に関する[[ai-literacy]]、自己調整（[[self-regulated-learning]]）、そして[[cognitive-offloading|過度の依存]]のリスクが中心的な関心事です。
+- **教員と学部のスタッフ。** AI を教育に統合する教育者です。[[teacher-role]]、[[teacher-ai-competency]]、[[teacher-education]]、[[educational-development]]、[[tpack]]が扱います。教員は、自分の教育の中で AI を使うことと、学生に責任を持って使うことを教えることという二重の課題に直面しています（[[pedagogy|教育法と教授方略]]を参照）。
+- **インストラクショナルデザイナーとラーニングテクノロジスト。** AI を巡ってコース、カリキュラム、学習経験を設計する専門家です。[[learning-design]]（学問分野として）と[[curriculum-design]]に関連しますが、インストラクショナルデザイナーという*人・役割*はまだ専用のページがなく、ここにまとめられています。
+- **管理者と組織の指導者。** 政策を定め、資源を配分し、導入を統治する、学長、学部長、CIO、指導者たちです。[[administrator]]が扱い、[[educational-policy-ai]]、[[governance]]、[[regulation]]につながります。
+- **政策立案者と規制当局。** 法的・規制的な枠組みを定める政府と組織の機関です。[[educational-policy-ai]]、[[regulation]]、[[governance]]に関連します。
+- **[[parents-and-families|保護者と家族]]。** [[research-methods-aied|研究]]の中に（たとえば[[student-ai-interaction|学生の AI 利用]]の監視、AI に対する態度）、そして今では専用のページによって扱われており、ステークホルダーとしてここにまとめられています。
+
+## 研究に現れるステークホルダー
+
+- **役割別の能力の枠組み。** [[teacher-ai-competency]]と[[tpack]]は、教員が AI を効果的に使うために必要なものを定義し、[[ai-literacy]]はすべての主体（とくに学生）に必要なものを定義します。
+- **役割による影響の違い。** 研究は、AI が異なる主体にどう異なる影響を与えるかを検討します——[[student-experience]]は学生の成果を、[[teacher-role]]は教育への統合を、[[administrator]]は組織の戦略を、[[educational-development]]は専門職としての学びを扱います。
+- **多数のステークホルダーによる統治。** [[governance]]と[[educational-policy-ai]]の研究は、国・組織・教室のステークホルダーを整合させることを重視します——政策立案者が期待を定め、管理者が実施し、教員が適応させ、学生が結果を経験します。
+- **主体間の公正。** [[equity-in-ai-education]]は、AI の利益と害が学習者と組織の間でどう分配されるかを検討し、ステークホルダーを[[bias-mitigation|公正]]とアクセスにつなげます。
+
+- **役割の違いは、観察するよりも主張しやすい。** 高等教育の関係者 152 名からの 167 件の寄稿に関する SWOT 分析は、教員、研究者、管理者が同じ強みと脅威に収斂することを見出しました。一方、完全な匿名収集のため役割を特定できず、研究はそれらを対比する計画を検証できませんでした（[[beyond-hype-stakeholder-perceptions-genai-2026|Humble & Mozelius, 2026]]）。
+
+## 主体にわたるアイデンティティ
+
+これらのステークホルダーに共通する一本の糸は**アイデンティティ**です——AI との関係において、そして専門領域との関係において、自分が何者であり何者になりつつあるかという感覚です。知識ベースはアイデンティティを、特定の一群に属するものではなく、主体にわたって分布するものとして扱います。
+
+- **学習者のアイデンティティ**——学生の、学問的・職業的・創造的・学業的に発展しつつあるアイデンティティ（[[learner-identity]]）。それは[[agency]]とは異なりますが、因果的に結びついています。agency は行為する[[situated-learning|状況づけられた]]能力であり、アイデンティティは行為の営みから蓄積される持続的な自己感であり、AI の下では著作性の喪失と能力への疑いによって脅かされます。
+- **教員のアイデンティティ**——教育者の職業的な自己理解（[[teacher-role]]）。AI によって、技能だけではなく目的と役割の問題として組み替えられています（[[laidlaw-genai-identity-crisis-faculty-2026|生成 AI をアイデンティティの危機として]]を参照）。
+- **設計者と指導者**——職業的なアイデンティティは、インストラクショナルデザイナー、[[administrator|管理者]]、政策立案者が AI にどう向き合うかをも形づくります。ただし知識ベースの明示的なアイデンティティの扱いは、学習者と教員に集中しています。
+
+アイデンティティは、ステークホルダーの全体像における人間的な錨（いかり）です。それは AI が各主体のために支えなければならないもの（侵食してはならないもの）であり、そうでなければ別々の役割のページを結びつける構成概念です——とりわけ[[learner-identity]]、[[agency]]、[[teacher-role]]です。agency が*統制*に関わりアイデンティティが*自己*に関わる場所では、AI の設計はその両方を保たなければなりません。自分の学びに対する統制と、領域における自分が何者であるかについての robust で著述者らしい感覚です。
+
+## 教育における AI への示唆
+
+- **ステークホルダー全体のために設計する。** 効果的な[[ai-education|教育におけるAI]]は、学習者に奉仕し、教員を支え、管理者に情報を与え、政策と整合しなければなりません——ただ一つの主体を最適化するのではありません。
+- **役割別の能力を築く。** 教員、学生、設計者、指導者はそれぞれ、自分に合わせた AI リテラシーと支援を必要とします（[[ai-literacy]]、[[teacher-ai-competency]]、[[educational-development]]を参照）。
+- **水準間で整合させる。** 知識ベースの統治研究は、AI が成功するのは組織の指導、教員の実践、学生の経験が分断されるのではなく整合しているときであることを示しています。
+- **保護者とより広い地域社会を考慮する。** 家族は AI の導入におけるステークホルダーであり、その役割と関心事は明示的な注意に値します。
+
+## 関連する概念
+
+- [[learners]] — 学習者：学習者側の概念を包括するもの
+- [[teacher-role]]
+- [[learner-identity]]
+- [[agency]]
+- [[teacher-ai-competency]]
+- [[teacher-education]]
+- [[educational-development]]
+- [[tpack]]
+- [[student-experience]]
+- [[student-engagement]]
+- [[misconceptions]]
+- [[administrator]]
+- [[learning-design]]
+- [[curriculum-design]]
+- [[educational-policy-ai]]
+- [[governance]]
+- [[ai-literacy]]
+- [[equity-in-ai-education]]
+- [[higher-ed]]
+- [[k-12]]
+- [[adult-learning]]
+- [[parents-and-families]]
+- [[student-support-and-success]] — 組織の AI 支援に関する決定に誰が請求権を持つか
+
+## 関連する記事
+
+- [[genai-student-experiences-uk-he-survey-2026]] — 英国の高等教育における生成 AI の学生経験
+- [[ai-uk-higher-education-policy-2026]] — 英国の高等教育政策における AI（学生と組織）
+- [[ai-campus-wellbeing-tools]] — ウェルビーイングのための AI 駆動ツール
+- [[ai-tpack-mathematics-teacher-education-2026]] — 数学教員養成における AI-TPACK の準備状況
+- [[genai-policies-higher-ed-computing]] — 情報科学における組織の生成 AI 政策
+- [[ethical-ai-higher-ed-game-theory]] — 高等教育における倫理的な AI 利用のための協調ゲームの枠組み
+- [[student-rationalization-ai-writing]] — 学術的な文章における AI 利用についての学生の合理化
+- [[ai-changing-teaching-workflows]] — AI が教授のワークフローをどう変えているか
+- [[beyond-hype-stakeholder-perceptions-genai-2026]] — 高等教育における生成 AI のステークホルダー知覚（Humble & Mozelius 2026）
+- [[edtech-privacy-deferral-2026]] — 「あとで直します」：教育、AI、そして教育技術における学生のプライバシーの先送り

@@ -1,0 +1,95 @@
+---
+title: 知識グラフ
+created: "2026-10-10T22:38:04-04:00"
+updated: "2026-10-10T22:38:04-04:00"
+type: concept
+foundations: [ai-education, curriculum-design]
+technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
+confidence: high
+translation_of: concepts/knowledge-graph
+source_updated: "2026-10-09T09:25:11-04:00"
+translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-10"
+    agent: hermes-agent
+---
+
+*英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+
+> **知識グラフ**——[[ai-education|教育における AI]]のシステムにおいて、領域の知識、学生の理解、そして学習上の依存関係をモデル化するために用いられる、概念とその関係の構造化された表現です。知識グラフは、AI のシステムが、学生が何を知っているか、次に何を学ぶ必要があるか、そして概念が互いにどう関係しているかを推論することを可能にします。
+
+## 検討すべき問い
+
+- 知識グラフが捉えるのは概念だけでなく、その関係——前提条件、類似性、階層——です。概念がどう関係しているかを知ることが、なぜ技能の平坦な一覧よりも適応的なシステムにとって有用でありうるでしょうか。
+- あなたの領域における前提条件の関係はどのようなものでしょうか。学生が、グラフが明らかにする基礎的な概念を欠いているために習慣的に苦労する話題を思いつくことはできますか。
+- このページは、知識の欠落——学習者が基礎的な概念を欠いている箇所——を検出するための知識グラフの利用について述べています。その欠落を浮かび上がらせることが、AI の個別指導者が次に教えると決めることをどう変えうるでしょうか。
+- 知識グラフは、手作業で、あるいは LLM によって教育テキストから自動的に構築できます。個別指導者がその上で推論することになる概念構造を、AI に構築させることにはどのようなリスクがあるでしょうか。
+- 知識グラフが AI エージェントが推論する領域構造を提供するなら、グラフ自体に誤りや偏った関係が含まれているとき、信頼と正確さには何が起こるでしょうか。
+- 知識グラフは、精細な診断とパーソナライズされた経路を可能にする構造的な背骨として記述されています。あなた自身の[[teacher-role|教授]]や設計において、あなたの教科の知識グラフに何を捉えてほしいでしょう——そしてそれは何を見落とすでしょうか。
+
+## はじめに
+
+知識グラフは、多くの知的な教育システムにとって構造的な背骨を提供します。技能や概念の平坦な一覧とは異なり、知識グラフは前提条件の関係、類似性、そして階層的な組織——[[adaptive-learning|適応学習]]、[[knowledge-tracing|知識追跡]]、そして[[student-modeling|学習者モデル化]]に不可欠なもの——を捉えます。
+
+## 知識グラフが AIED においてどう用いられているか
+
+知識グラフは、このナレッジベースの AIED の[[research-methods-aied|研究]]にわたって繰り返し現れる構造的な機構であり、いくつかの異なる役割を担っています。
+
+- **[[knowledge-tracing]]のモデル**は、概念グラフを用いて、学生の習熟度の推定を関連する技能にわたって伝播させ、データが疎であるときに予測の正確さを改善します。
+- **[[student-modeling]]のシステム**は、知識グラフを活用して、学習者が何を知っているかを意味的に有意な仕方で表現し、精細な診断を可能にします。
+- **[[adaptive-learning]]のプラットフォーム**は、前提条件のグラフを用いて内容を順序づけ、[[personalized-learning|パーソナライズされた学習]]の経路を推薦します。
+- **グラフ上のアルゴリズムの選択が結果を変える。** G4L では、進化する知識空間グラフを通じてベイジアン知識伝播によって習熟度を伝播させると、測定された知識が +24%（0.717 → 0.887）となり、知識空間理論では +5%、重み付き距離依存帰納法では +1% となりました（[[graph-its-adaptive-algorithms-2026|Csépányi-Fürjes & Kovács, 2026]]）。
+- **[[cognitive-diagnosis]]の枠組み**は、[[xie-hillm-cd-2026|HiLLM-CD]]のように、LLM を用いて教育テキストから概念の木を構成し、手作業の注釈付けを不要にします。
+- **知識グラフで強化された個別指導：** [[quantum-education-its|ITAS]]は、量子の概念の知識グラフ（明示的な前提条件の関係を含む）を用いてマルチエージェントの個別指導システムを動かし、直観に反する内容のために次に扱う話題を選ぶためにグラフを辿ります。
+- **カリキュラムとコースのモデル化：** [[coursegraph-cs-course-comparison-2026|CourseGraph]]は、グラフ表現を用いて複数の機関にわたる計算機科学（CS）のコース構造を比較します。[[learnity-graphs-lifelong-learning-framework-2026|Learnity グラフ]]は、[[lifelong-learning|生涯学習]]の経路をモデル化します。
+- **前提条件の関係の学習：** [[proprl-prerequisite-relation-learning|ProPrL]]は、概念間の前提条件の関係を学び、知識グラフが符号化する辺を定式化します。
+- **知識の欠落の検出：** [[knowledge-gap-detection-ai-tas|知識の欠落の検出]]は、AI の教育助手においてグラフに基づく推論を用いて、学習者が基礎的な概念を欠いている箇所を特定します。
+- **[[multimodal|マルチモーダル]]で説明可能な推論：** [[multimodal-knowledge-graph-educational-reasoning|マルチモーダルな知識グラフ]]は、グラフ構造を複数の内容様態にわたって拡張します。[[fair-explainable-edu-recommendations|公正で説明可能な推薦]]は、知識グラフの埋め込みを逐次的なモデル化と結合します（ハイブリッドな HKG-GRU の枠組み）。
+- **資源推薦のための教授学的に構造化されたグラフ：** [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun & Song (2026)]]は、各教授資源の実体を四つの教授学的な次元（教授の文脈、認知的レベル、技術的な特徴、文化的な適応性）に分解し、それらの次元にわたって利用者に依存する意味的な類似性を計算し、能力と進捗を意識した係数によって協働フィルタリングと融合します——資源を消費される品として扱うのではなく、教授学的な構造を推薦の信号に直接符号化するのです。
+- **オントロジーに基づく知識基盤：** [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova (2026)]]は、記述論理に根ざした階層的でハイブリッドな知識基盤のアーキテクチャを提案し、古典的な ITS の単一オントロジーのモデルを**対応づけられたオントロジーの体系**に置き換えます——手続き的（規則に基づく）なもの、確率的／ファジィなもの、そして機械学習で抽出された暗黙の知識を加え——さらに、教育オントロジーを記述し、発見し、再利用するためのメタデータの枠組みを加えます。
+- **[[scaffolding|足場かけ]]と作文：** [[veriforge-narrative-drafting-scaffolding-2026|Veriforge]]と[[visual-query-tracer-declarative-logic-learning|視覚的なクエリの追跡]]は、グラフに基づく構造を物語の起草と宣言論理の学習に応用します。
+- **人間が編集した文学のグラフ、そして監査が明かすもの：** [[incipit-axiom-grounded-scaffolding-literary-creation-2026|Incipit]]は、文学の前提をグラフ化します——1,455 件の公理の記録、149 作品への 1,464 の対応づけ、そして 472 の型づけされた関係——であり、[[llm|言語モデル]]が候補となる定式化を提案し、人間の編集者がそれを選択し根拠づけました。その再計算された監査は、その構造と同じくらい示唆に富みます。すべての端点は解決し、重複も自己リンクも残っていませんが、1,455 件の公理のうち 1,448 件が正確に一つの作品に対応づけられています（したがって作品を超えた再利用は疎です）。文脈の分類体系は二つの文脈の型を分離できず、出自の記録は一つも残っておらず、その時点の記録は自らのパイプラインを再構成できません。構造的な妥当性は解釈的な質ではなく、出自のない編集されたグラフは、監査も更新もできません。
+
+## LLM 駆動の知識グラフの構成
+
+近年の研究は、教育コンテンツから知識グラフを自動的に構成するために[[llm|LLM]]を用いることを探究しています。[[xie-hillm-cd-2026|HiLLM-CD]]の枠組みは、マルチエージェントの LLM のパイプラインを用いて、練習と概念のリンクや階層的な概念の木を生成し、専門家による注釈付けへの依存を減らします。これは、カリキュラム設計や内容の自動的な組織化におけるより広い[[generative-ai|生成 AI]]の応用に、そして、グラフ構造化された知識が平坦な類似性検索を上回る検索の質を改善しうる[[rag|RAG]]（検索拡張生成）に結びついています。
+
+## 他の概念との関係
+
+知識グラフは、[[learning-design|学習設計]]（何を教えるかを定義すること）、[[curriculum-design|カリキュラム設計]]（どう順序づけるか）、そして[[learning-analytics|学習分析]]（学生のやり取りのデータから洞察を抽出すること）に結びついています。教育領域の構造化された表現を必要とする[[intelligent-tutoring|知的個別指導]]システムにとって、知識グラフは基礎的なものです。AI エージェントが教育においてより一般的になるにつれて、知識グラフは[[agentic-ai|エージェント的なシステム]]が推論する領域構造を提供します——これは、[[quantum-education-its|ITAS]]や知識の欠落の検出を行う教育助手に見られるパターンです。
+
+## 関連概念
+
+- [[adaptive-learning]]
+- [[knowledge-tracing]]
+- [[intelligent-tutoring]]
+- [[cognitive-diagnosis]]
+- [[student-modeling]]
+- [[learning-analytics]]
+- [[curriculum-design]]
+- [[learning-design]]
+- [[generative-ai]]
+- [[llm]]
+- [[rag]]
+- [[agentic-ai]]
+- [[ai-technologies]] — 包括概念：AI の技術と手法（モデル、LLM の学習、ロボティクス、RAG、エージェント的 AI）
+- [[recommender-systems-and-learning-paths]]
+## 関連記事
+- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — 構造的な監査と出自の記録を欠く、編集者によって作られた 1,455 件の文学の公理のグラフ（Liu & Zhao 2026）
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — パーソナライズされた e ラーニングのためのオントロジーに基づく階層的ハイブリッド知識モデル
+- [[learnity-graphs-lifelong-learning-framework-2026]] — 生涯学習のための Learnity グラフ
+- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge：物語の起草の足場かけ
+- [[quantum-education-its]] — 量子教育の知的個別指導（ITAS）
+- [[multimodal-knowledge-graph-educational-reasoning]] — 教育的な推論のためのマルチモーダルな知識グラフ
+- [[coursegraph-cs-course-comparison-2026]] — CourseGraph：CS のコースの比較
+- [[proprl-prerequisite-relation-learning]] — ProPrL：前提条件の関係の学習
+- [[knowledge-gap-detection-ai-tas]] — AI の教育助手における知識の欠落の検出
+- [[visual-query-tracer-declarative-logic-learning]] — 宣言論理の学習のための視覚的なクエリの追跡器
+- [[fair-explainable-edu-recommendations]] — 公正で説明可能な教育的な推薦
+- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — マルチモーダルな教授資源のためのハイブリッドな CF–KG の領域横断的な推薦
+- [[xie-hillm-cd-2026]] — HiLLM-CD：LLM 駆動の認知的診断
+- [[graph-its-adaptive-algorithms-2026]] — 動的な領域のためのグラフベースの知的個別指導（2026年）
+- [[cogevol-learning-environment-generation-2026]] — CogEvol：学習環境の生成
