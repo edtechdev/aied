@@ -134,6 +134,8 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - **[[agentic-ai|Multi-agent]] tutoring and [[automated-assessment|automated assessment]].** Multi-agent tutoring systems are being benchmarked with synthetic, trace-based evaluation. ASTRA supports alone-tutor, pair-tutor, and pair-multiagent configurations with socially differentiated agents, enabling reproducible analysis of interaction and participation balance in [[cs-education|introductory programming]]. In parallel, context-aware prompting automates coding of [[collaborative-learning|collaborative problem-solving]] skills from process data, supporting large-scale tutoring assessment.
 - **Design with the learner's values, not just for learner performance.** [[ko-hughes-vsd-student-centered-its-2026|Value Sensitive Design work]] with community college students and instructors in developmental math shows that the [[ethics|ethical]] dimensions of ITS are not separable add-ons: engaging students and instructors directly produced 16 value-aligned features spanning [[explainable-ai|explainability]] (comprehension-check interpretation, learning-path connection, communicating the model's confidence), [[human-in-the-loop-ai|learner control]] (control over re-assessment, review, pace, and AI-assistance level), and [[privacy]] (data-repurposing control, permission prompts for sharing [[learning-analytics|learning analytics]] and [[affective-computing|affective]] states). The study frames a persistent design tension — [[agency|student agency]] vs. system-guided scaffolding — and notes that most institutions disable adaptive tutoring entirely, so value-informed design also depends on how (and whether) ITS AI capabilities are actually deployed.
 
+
+- **Teachable agents and the classification of disengaged dialogue:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] ran a GPT-4-Turbo teachable agent inside Math Nation (Algebra and Geometry), where students identified which of two worked solutions contained a misconception, justified the correction, and taught the agent — a learning-by-teaching structure with a separate mentor agent scoring explanation quality. Over 6,933 problems opened and 22,143 interactions logged, they built a six-category conversational-disengagement classifier (human-in-the-loop: 1,682 annotated utterances, fine-tuned LLaMA 3, weighted F1 = 0.910, model-vs-human κ = 0.624) and used it to study 246 middle-school students. The methodological contribution is as important as the finding: when a classifier labels most of the corpus, prevalence results must be stress-tested against the human-annotated subset — and here the headline association (False Answering and Mocking predicting higher post-test) evaporated under exactly that test.
 ## Connected Concepts
 - [[scaffolding]]
 - [[adaptive-learning]]
@@ -156,6 +158,9 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[k-12]]
 - [[speech-and-voice-technologies]]
 ## Connected Articles
+
+- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
+
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS in community college developmental math
