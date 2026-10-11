@@ -66,6 +66,7 @@ export interface UiStrings {
     history: string;
     embed: string;
     embedThisPage: string;
+    embedDesc: string;
     embedCode: string;
     copyCode: string;
     close: string;
@@ -163,6 +164,7 @@ const ko: UiStrings = {
     history: '기록',
     embed: '삽입',
     embedThisPage: '이 페이지 삽입',
+    embedDesc: '아래 코드를 복사하여 학습 관리 시스템이나 다른 웹사이트에 이 페이지를 삽입하세요. 삽입된 버전은 페이지 콘텐츠만 표시하며, 사이트의 헤더, 내비게이션, 푸터는 숨겨집니다.',
     embedCode: '삽입 코드',
     copyCode: '코드 복사',
     close: '닫기',

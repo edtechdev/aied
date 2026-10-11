@@ -66,6 +66,7 @@ export interface UiStrings {
     history: string;
     embed: string;
     embedThisPage: string;
+    embedDesc: string;
     embedCode: string;
     copyCode: string;
     close: string;
@@ -162,6 +163,7 @@ const zh: UiStrings = {
     history: '历史',
     embed: '嵌入',
     embedThisPage: '嵌入此页',
+    embedDesc: '复制下面的代码，将本页嵌入学习管理系统或其他网站。嵌入版本只显示页面内容 — 网站的页眉、导航和页脚会被隐藏。',
     embedCode: '嵌入代码',
     copyCode: '复制代码',
     close: '关闭',

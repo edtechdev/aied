@@ -66,6 +66,7 @@ export interface UiStrings {
     history: string;
     embed: string;
     embedThisPage: string;
+    embedDesc: string;
     embedCode: string;
     copyCode: string;
     close: string;
@@ -164,6 +165,7 @@ const de: UiStrings = {
     history: 'Verlauf',
     embed: 'Einbetten',
     embedThisPage: 'Diese Seite einbetten',
+    embedDesc: 'Kopieren Sie den Code unten, um diese Seite in ein Lernmanagementsystem oder eine andere Website einzubetten. Die eingebettete Version zeigt nur den Seiteninhalt — Kopfzeile, Navigation und Fußzeile der Website werden ausgeblendet.',
     embedCode: 'Einbettungscode',
     copyCode: 'Code kopieren',
     close: 'Schließen',
