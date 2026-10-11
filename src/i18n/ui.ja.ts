@@ -66,6 +66,7 @@ export interface UiStrings {
     history: string;
     embed: string;
     embedThisPage: string;
+    embedDesc: string;
     embedCode: string;
     copyCode: string;
     close: string;
@@ -163,6 +164,7 @@ const ja: UiStrings = {
     history: '履歴',
     embed: '埋め込み',
     embedThisPage: 'このページを埋め込む',
+    embedDesc: '下のコードをコピーして、学習管理システムや他のウェブサイトにこのページを埋め込みましょう。埋め込み版ではページの内容のみが表示され、サイトのヘッダー・ナビゲーション・フッターは非表示になります。',
     embedCode: '埋め込みコード',
     copyCode: 'コードをコピー',
     close: '閉じる',

@@ -46,7 +46,7 @@ const edit = `${base}/edit/${branch}/${filePath}`;
 <dialog class="embed-dialog" data-embed-dialog aria-labelledby="embed-dialog-title">
   <div class="embed-dialog-inner">
     <h3 id="embed-dialog-title">{chrome.embedThisPage}</h3>
-    <p class="embed-desc">Copy the code below to embed a chromeless version of this page in a learning management system or other website. The embedded view hides the site header, navigation, and footer.</p>
+    <p class="embed-desc">{chrome.embedDesc}</p>
     <textarea readonly class="embed-code" data-embed-code rows="4" spellcheck="false" aria-label={chrome.embedCode}></textarea>
     <div class="embed-actions">
       <button type="button" class="source-pill embed-copy" data-embed-copy>{chrome.copyCode}</button>

@@ -72,6 +72,7 @@ export interface UiStrings {
     history: string;
     embed: string;
     embedThisPage: string;
+    embedDesc: string;
     embedCode: string;
     copyCode: string;
     close: string;
@@ -169,6 +170,7 @@ const hi: UiStrings = {
     history: 'इतिहास',
     embed: 'एम्बेड',
     embedThisPage: 'इस पृष्ठ को एम्बेड करें',
+    embedDesc: 'इस पृष्ठ को किसी सीखने के प्रबंधन प्रणाली या अन्य वेबसाइट में एम्बेड करने के लिए नीचे दिया गया कोड कॉपी करें। एम्बेड किया गया संस्करण केवल पृष्ठ की सामग्री दिखाता है — यह साइट का हेडर, नेविगेशन और फ़ुटर छिपाता है।',
     embedCode: 'एम्बेड कोड',
     copyCode: 'कोड कॉपी करें',
     close: 'बंद करें',

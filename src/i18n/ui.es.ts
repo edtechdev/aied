@@ -66,6 +66,7 @@ export interface UiStrings {
     history: string;
     embed: string;
     embedThisPage: string;
+    embedDesc: string;
     embedCode: string;
     copyCode: string;
     close: string;
@@ -164,6 +165,7 @@ const es: UiStrings = {
     history: 'Historial',
     embed: 'Incrustar',
     embedThisPage: 'Incrustar esta página',
+    embedDesc: 'Copia el código de abajo para incrustar esta página en un sistema de gestión del aprendizaje u otro sitio web. La versión incrustada muestra solo el contenido de la página: oculta el encabezado, la navegación y el pie de página del sitio.',
     embedCode: 'Código de incrustación',
     copyCode: 'Copiar el código',
     close: 'Cerrar',

@@ -66,6 +66,7 @@ export interface UiStrings {
     history: string;
     embed: string;
     embedThisPage: string;
+    embedDesc: string;
     embedCode: string;
     copyCode: string;
     close: string;
@@ -164,6 +165,7 @@ const ar: UiStrings = {
     history: 'السجل',
     embed: 'تضمين',
     embedThisPage: 'ضمّن هذه الصفحة',
+    embedDesc: 'انسخ الشيفرة أدناه لتضمين هذه الصفحة في نظام إدارة التعلم أو أي موقع آخر. الإصدار المُضمَّن يعرض محتوى الصفحة فقط — فهو يُخفي ترويسة الموقع وقائمة التنقل وتذييله.',
     embedCode: 'شيفرة التضمين',
     copyCode: 'نسخ الشيفرة',
     close: 'إغلاق',

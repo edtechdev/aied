@@ -72,6 +72,7 @@ export interface UiStrings {
     history: string;
     embed: string;
     embedThisPage: string;
+    embedDesc: string;
     embedCode: string;
     copyCode: string;
     close: string;
@@ -169,6 +170,7 @@ const en: UiStrings = {
     history: 'History',
     embed: 'Embed',
     embedThisPage: 'Embed this page',
+    embedDesc: 'Copy the code below to embed this page in a learning management system or other website. The embedded version shows only the page content — it hides the site header, navigation, and footer.',
     embedCode: 'Embed code',
     copyCode: 'Copy code',
     close: 'Close',
