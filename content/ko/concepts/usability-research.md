@@ -1,0 +1,84 @@
+---
+title: 사용성 연구
+created: "2026-08-24T02:15:00-04:00"
+updated: "2026-09-30T07:37:28-04:00"
+type: concept
+connected_faqs: [designing-educational-ai-software]
+research_method: [system development, user study, interviews]
+page_kind: [evaluation]
+confidence: high
+methods: [usability-research]
+translation_of: concepts/usability-research
+source_updated: "2026-09-30T07:37:28-04:00"
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-11"
+    agent: hermes-agent
+---
+
+*영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+> **사용성 연구** — 사용자가 소프트웨어 시스템과 어떻게 상호작용하는지, 그리고 그것의 사용성, 유용성, 사용자 경험(UX)에 관한 경험적 연구입니다. 인간-컴퓨터 상호작용(HCI)에서 끌어온 사용성 연구는 AI 교육 도구가 사용 가능하고, 배우기 쉽고, 효율적이며, 만족스러운지를 평가합니다. 즉, 학습자가 그것을 실제로 받아들이고 혜택을 받는지를 좌우하는 성질들을 평가합니다. 그것은 학습 현상에 관한 [[qualitative-research|질적 탐구]]와 [[quantitative-research|정량적 효과]]와 구별되면서도 상호 보완적입니다. 사용성 연구는 학습 결과 자체가 아니라 *사람과 시스템 사이의 상호작용*에 초점을 맞춥니다.
+
+## 생각해 볼 질문들
+
+- 교수법적으로 건전하거나 진정으로 강력했음에도, 혼란스럽거나 답답해서 사용을 그만둔 소프트웨어 도구를 떠올릴 수 있습니까? 그런 실패가 학습에 비용을 치르기 전에 설명하려 하는 것이 바로 사용성 연구입니다.
+- 흔한 가정은 도구의 교육적 효과가 학습 성취가 향상되는지로 판단될 수 있다는 것입니다. 그러나 이 페이지는 도구가 사용 불가능하면서도 시험에서 '작동하는' 것으로 보일 수 있고, 사용 가능하면서도 가르치는 데 실패할 수 있다고 논증합니다. 학습 성취를 보여 주는 연구가 왜 여전히 그 도구를 실제로 쓰기에 답답하다는 점을 놓칠 수 있습니까?
+- 방법들을 읽기 전에, AI 교사가 학습자에게 혼란스럽거나, 답답하거나, 오류를 일으키는지 어떻게 알아내겠습니까? 실제로 무엇을 하거나 관찰하겠습니까 — 그리고 사용자가 직접 보고하는 만족도는 어떤 것을 놓치며, 신중한 관찰은 그것을 포착합니까?
+- 생각 말하기는 핵심 방법입니다. 사용자가 작업을 수행하면서 자신의 생각을 말하여, 혼란과 심적 모형을 실시간으로 드러냅니다. 만약 당신이 AI 도구를 쓰는 학습자라면, 당신의 혼란에 대해 '마음에 들었습니까?'라는 단순한 설문이 결코 포착하지 못할 어떤 것을 이야기할 수 있겠습니까?
+- 이 페이지는 자기 보고된 만족도가 객관적 성과와 어긋날 수 있다고 지적합니다. 사람들은 자신을 은밀히 둔화시키는 도구를 사랑한다고 말할 수 있고, 실제로 도움이 되는 도구를 과소평가할 수 있습니다. 사람들이 말하는 것과 그 행동이 보여 주는 것 사이의 그 격차를 어디서 보았습니까?
+- 사용성 연구는 도구가 사용 가능한지를 알려 줄 뿐, 그것이 가르치는지는 알려 주지 않습니다. AI 학습 도구를 평가한다면 사용성 근거를 학습에 관한 근거와 어떻게 결합하겠습니까 — 그리고 둘 모두를 통과한 도구가 여전히 달성하지 못할 수 있는 것은 무엇입니까?
+
+## 들어가며
+
+사용성 및 UX 연구는 이런 질문들에 답합니다. 학생들이 이 AI 교사를 어떻게 사용하는지 파악할 수 있을까요? AI 도구가 혼란스럽거나, 답답하거나, 오류를 일으키는 것일까요? 그것이 교수자나 학습자의 작업 흐름에 맞습니까? 이런 질문들은 효과성 연구에서 측정되는 [[learning-gains|학습 성취]](또는 그것의 부재)의 전제 조건이며 때로는 그것의 숨은 원인입니다. 교수법적으로 건전하지만 사용 불가능한 AI 도구는 실제로 실패합니다. 사용성 근거가 그 이유를 설명합니다.
+
+## 핵심 방법
+
+- **생각 말하기 프로토콜.** 사용자가 과업을 수행하면서 자신의 생각을 언어화하여, 이해, 혼란, 심적 모형을 실시간으로 드러냅니다. [[code-anchor-multi-view-visualization|다중 뷰 코드 시각화에 관한 한 연구]]와 [[learn-framework-responsible-genai-pbl-2026|LEARN 틀]]은 학습자가 AI 지원 도구를 어떻게 이해하는지를 알기 위해 생각 말하기를 사용합니다. [[feedback-futures-genai|피드백 퓨처스]]는 학습자가 AI가 생성한 피드백을 어떻게 처리하는지를 검토합니다.
+- **사용자 연구.** 구조화된 과업 기반 평가는 효율성, 오류율, 만족도, 완료율을 측정합니다. [[rhaimi-productivemath-2025|ProductiveMath]]는 생산적 실패 교수를 지원하는 생성형 AI 앱의 사용성을 평가합니다. [[supplynet-visual-exploratory-learning|SupplyNet]]은 시각적 탐구 학습 도구의 사용자 연구를 수행합니다. [[llm-chatbots-cs-multiple-choice|컴퓨터과학 객관식 문항을 위한 LLM 챗봇]]은 상호작용의 질을 평가합니다.
+- **면접과 관찰.** 사용자 경험, 선호, 불편 지점을 포착하는 질적 사용성 면접과 관찰. [[icub-humanoid-storytelling-llm-hri-2025|이야기하는 휴머노이드 로봇에 관한 사용성 연구]]는 부모가 그 로봇이 아이와 상호작용하도록 할 것인지를 묻는 구조화된 평가를 사용합니다. [[genai-architectural-design-studios|설계 스튜디오에서의 AI]]는 실제적 설계 작업에서 AI를 쓰는 학생들을 관찰하고 면접합니다.
+- **체계적 사용성 평가.** 휴리스틱 평가, 인지적 워크스루, 질문지 기반 UX 측정(예: SUS)이 확립된 기준에 대해 사용성을 체계적으로 평가합니다.
+
+## 지식베이스에서 사용성 연구가 나타나는 방식
+
+- **AI 학습 도구 평가.** [[rhaimi-productivemath-2025|ProductiveMath]], [[supplynet-visual-exploratory-learning|SupplyNet]], [[anvil-ai-educational-animations|교육 애니메이션]]이 사용성과 UX를 위해 평가됩니다.
+- **인간–로봇 및 [[conversational-ai|대화형 AI]] 상호작용.** [[icub-humanoid-storytelling-llm-hri-2025|휴머노이드 이야기 연구]]는 [[llm]] 기반 상호작용에 대한 명시적인 사용성 연구입니다. [[conversational-ai-agents-umbrella-review-2026|대화형 AI 에이전트에 관한 엄브렐라 검토]]는 사용성과 상호작용의 질을 반복적으로 나타나는 주제로 지목합니다.
+- **설계와 개선.** 사용성 결과는 반복적 설계에 투입되어([[design-thinking]]과 [[learning-design]] 참고) 효과성 시험 이전에 또는 그것과 나란히 도구를 개선합니다.
+- **맥락을 아우르는 하나의 기기, 그리고 그것을 제한하는 상한.** [[mendonca-llm-feedback-perceived-usefulness-programming-2026|Mendonça et al. (2026)]]는 영역, 과업, 기기를 고정한 채 교육 수준만을 달리하여, 144명의 학생이 893개의 피드백 답변과 237개의 보고서에 남긴 평정이 학문을 넘어 맥락을 비교할 수 있게 했으며, 수준 간에 차이를 보인 것은 지각된 정확성뿐이었습니다. 이 연구는 또한 이런 종류의 사용자 평가의 한계를 지목합니다. 학생들의 72.2%에서 86.4%가 5점 중 최소 4점을 평균으로 남겼고, 저자들은 자신들의 비유의미한 차이가 사전에 여유폭이 설정되지 않았기 때문에 동등성을 확립하지 못한다고 밝힙니다.
+- **결과의 일부로서 보고된 평가자 설계.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]]는 25명의 영역 일치 전문가가 "표준 MOOC 강의의 질"에 닻을 둔 루브릭에 대해 92개의 재생성 강의를 판단하게 하며, 각 영상을 단 한 명의 검토자(k = 1)에게 배정하여 반복 평정을 모으는 대신 패널을 말뭉치의 더 많은 부분에 퍼뜨렸습니다. 그 절충점은 숨겨지지 않고 모델링됩니다. 무작위 절편 모형은 잔차 분산의 약 35%를 검토자에게 귀속시키며(ICC = 0.35), 구간은 검토자 기준으로 묶입니다. 그것이 전문가 패널이 "87%가 기준 이상"을 정직한 범위와 함께 보고할 수 있는 방식입니다.
+
+## 다른 연구 계열과의 관계
+
+사용성 연구는 [[qualitative-research|질적 연구]](면접, 관찰, 생각 말하기)와 자료 수집 방법을 공유하지만 *목적*에서 다릅니다. 질적 연구는 의미와 경험을 해석하여 이해와 이론을 구축하는 반면, 사용성 연구는 인공물을 사용성/UX 기준에 대해 평가합니다. 그것은 또한 [[ai-ed-evaluation]](시스템이 작동하는지를 평가하는 것)와 [[educational-measurement|측정]](사용성 구인을 정량화하는 것)과 중첩됩니다. 지식베이스는 사용성을 뚜렷하면서도 연결된 방법론적 흐름으로 다룹니다 — [[human-ai-collaboration]], [[student-experience]], 그리고 효과적인 AI 학습 도구의 설계와 관련됩니다. 더 넓은 방법론 지형에서 그것이 어떻게 자리하는지는 [[research-methods-aied]]를 참고하십시오.
+
+## 강점과 한계
+
+- **강점:** 도입과 학습을 막는 사용성 장벽을 직접 지목합니다. 실행 가능한 설계 지침을 산출합니다. 도구가 사용 속에서 왜 작동하거나 실패하는지를 설명함으로써 효과성 및 질적 연구를 보완합니다. 대규모 실험에 비해 비교적 빠르고 저렴합니다.
+- **한계:** 사용성 결과는 학습 효과를 확립하지 않습니다(사용 가능한 도구가 여전히 가르치는 데 실패할 수 있습니다). 작은 표본과 과업 특유적인 설정이 일반화 가능성을 제한합니다. 자기 보고된 만족도가 객관적 성과와 어긋날 수 있습니다. 연구자와 과업 설계에 대한 의존.
+
+## 연결된 개념
+
+- [[research-methods-aied]]
+- [[qualitative-research]]
+- [[human-ai-collaboration]]
+- [[student-experience]]
+- [[ai-ed-evaluation]]
+- [[learning-design]]
+- [[design-thinking]]
+- [[intelligent-tutoring]]
+
+## 연결된 문서
+
+- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM 기반 이야기하는 휴머노이드에 관한 사용성 연구
+- [[rhaimi-productivemath-2025]] — ProductiveMath: 생성형 AI 앱의 사용성
+- [[supplynet-visual-exploratory-learning]] — SupplyNet 사용자 연구
+- [[anvil-ai-educational-animations]] — AI가 생성한 교육 애니메이션의 사용성
+- [[code-anchor-multi-view-visualization]] — 다중 뷰 코드 시각화에 관한 생각 말하기 연구
+- [[learn-framework-responsible-genai-pbl-2026]] — LEARN 틀과 생각 말하기 평가
+- [[feedback-futures-genai]] — 학습자가 AI가 생성한 피드백을 처리하는 방식
+- [[llm-chatbots-cs-multiple-choice]] — 컴퓨터과학 객관식 문항을 위한 LLM 챗봇
+- [[conversational-ai-agents-umbrella-review-2026]] — 대화형 AI 에이전트에 관한 엄브렐라 검토

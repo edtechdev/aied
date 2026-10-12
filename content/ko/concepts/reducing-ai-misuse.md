@@ -1,0 +1,119 @@
+---
+title: AI 오용의 감소
+created: "2026-08-12T19:13:02-04:00"
+updated: "2026-09-30T09:53:03-04:00"
+connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
+type: concept
+foundations: [academic-integrity, ai-literacy]
+pedagogy: [metacognition, motivation, scaffolding, self-regulated-learning]
+technology: [generative-ai, prompt-engineering]
+assessment: [assessment]
+confidence: high
+translation_of: concepts/reducing-ai-misuse
+source_updated: "2026-09-30T09:53:03-04:00"
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-11"
+    agent: hermes-agent
+---
+
+*영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+> **AI 오용의 감소** — 학생이 자신의 [[cognitive-offloading|인지 작업]]을 [[generative-ai|생성형 AI]]로 대체하는 것을 막고, 대신 [[ethics|윤리]]적이고 생산적인 사용으로 이끄는 설계, [[pedagogy|교수법]], [[educational-policy-ai|정책]]의 수단들입니다. 효과적인 접근은 인기보다 영향력에 따라 분류되며, 가장 강한 근거는 지속적인 역량과 [[framing-ai-use-for-students|학생의 동의]]에 의존하는 **교육적 수단**보다, 학생의 동기와 무관하게 오용을 더 어렵게 만듦으로써 환경을 바꾸는 **구조적 수단** — 도구의 [[guardrails]]과 평가 재설계 — 을 지지합니다.
+
+## 생각해 볼 질문들
+
+- 과제를 AI에 외주하는 학생들은 과제 점수는 *오르는* 것을 보면서 [[summative-assessment|폐서 시험]] 점수는 *떨어지는* 것을 볼 수 있습니다. 읽기 전에, 왜 성과와 학습이 그토록 심하게 어긋날 수 있겠습니까 — 그리고 그 격차는 AI로 하는 '성공'이 실제로 무엇을 뜻하는지에 대해 무엇을 시사합니까?
+- 이 페이지는 개입을 인과적 근거와 도달 범위에 따라 순위 매기며, *구조적* 수단(도구 가드레일, 평가 재설계)을 *교육적* 수단([[teacher-role|좋은 실천을 가르치는 것]])보다 위에 놓습니다 — 구조적 수단이 학생의 동기와 무관하게 작동하기 때문입니다. 환경을 바꾸는 것이 마음을 바꾸는 것보다 낫다는 데 동의합니까? 각각에 의존하는 것의 위험은 무엇입니까?
+- 가드레일이 있는 '답이 아니라 힌트' 교사는 가드레일이 없는 교사가 일으킨 학습에 대한 해를 제거했습니다. 둘 다 도움이 되는 것처럼 보였음에도 말입니다. 답을 너무 쉽게 내어주는 학습 도구를 떠올려 보십시오. 비계가 되는 힌트와 대체하는 답 사이의 선은 어디에 있으며 — 그것을 읽기 전에 말로 표현할 수 있습니까?
+- 가장 강한 해결책에는 평가 재설계가 포함됩니다. 보조 없이 치르는 시험 내 시험, 구두 변론, 과정 인공물, 표면적 유창함보다 추론을 보상하는 것. 이런 방식으로 채점되는 강의를 듣는다면 어떤 기분이 들겠습니까, 그리고 그 기분은 이 수단이 왜 효과적이면서도 인기 없는지를 설명하는 무언가를 말해 줍니까?
+- 학생들이 자신의 사용을 인지 단계(계획하기 대 내용 생성하기)에 대응시키게 강제하는 AI 선언 틀은 강조점을 단속에서 전문적 실천으로 옮깁니다. 그런 성찰이 진정으로 더 나은 판단을 기른다고 생각합니까, 아니면 단지 학생들에게 오용을 더 교묘하게 기술하는 법을 가르칠 뿐입니까?
+- 읽기 전에 목표를 세우십시오. AI 오용을 더 어렵게 만들 당신 자신의 강의나 작업 흐름의 구체적인 변화 하나, 그리고 생산적인 사용을 더 쉽게 만들 변화 하나를 규명하십시오. 각각은 이 페이지의 어떤 층위에 속하겠습니까?
+
+## 들어가며
+
+이 개념은 AI의 오용이 지속 가능한 학습을 적극적으로 해친다는 근거 위에 놓여 있습니다 — [[ai-misuse-learning-harm]]에 기록된 성과-학습 격차 — 당장의 성과를 부풀리는 한편 말입니다. 따라서 개입은 그 해의 메커니즘을 겨냥합니다. 답 복사, [[cognitive-offloading]], 동기의 잠식, 학습의 대체입니다. 그것들은 상호 배타적이지 않습니다. 견고한 접근은 구조적 바닥과 교육적 역량 구축을 결합합니다.
+
+### 왜 구조적 수단이 가장 중요한가
+
+개입은 **인과적 근거 × 구조적 도달 범위 × 확장성 × [[sustainability]]**에 따라 분류될 수 있습니다. 이에 기반하여 두 가지 *구조적* 수단이 가장 높게 순위 매겨집니다. 학생들이 올바른 행동을 선택하든 그렇지 않든 작동하기 때문입니다. 즉, 내적 동기에 의존하기보다 환경을 제약합니다. *교육적* 수단은 필수적이지만 학생이 동의할 때만 효과적이므로, 개념적 잠재력에도 불구하고 두 번째 층위로 다루어집니다. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher and Calderon (2025)]]는 구조적 논증을 한 단계 끌어올려, 학생의 행동이 아니라 거버넌스를 구속하는 제약으로 다루고, 130개 항목의 진실성 지표 틀을 제안하여 학문적 거버넌스 담당자가 평가가 진정한 것인지, 학생들을 평가하는 교수자들에게 학생들이 개별적으로 알려져 있는지, 그리고 진실성이 오리엔테이션과 예비 교육에 포함되는지를 볼 수 있게 합니다. 그들의 개혁은 거버넌스 구조, 사람, [[ai-technologies|기술과 자원]]을 겨냥하며, 학생들이 찾아내기 전에 평가의 취약점을 드러내기 위해 사이버 보안에서 [[guardrails|레드팀 기법]]을 차용할 것을 제안합니다 — 이는 구조적 바닥이 그 바닥을 유지할 정보와 의지 모두를 필요로 하는 기관들에 의해 유지된다는 사실을 일깨워 줍니다.
+
+### 1층위 — 학습에 대한 해를 줄이는 것이 직접 입증된 것
+
+**가드레일이 있는 AI 도구 설계("답이 아니라 힌트" [[scaffolding]]).** 지식베이스에서 가장 강한 인과적 발견으로, 현장 [[rct]]은 가드레일이 없는 ChatGPT식 교사가 지원받는 연습 성과를 **+48%** 높였지만 지원받지 않는 시험 점수는 **−17%** 낮췄다는 것을 보였습니다. 한편 가드레일이 있는 교사(답 대신 힌트, 그리고 교수자가 직접 작성한 문제 정보)는 그 해를 완전히 제거했습니다. 이것은 해 뒤에 있는 답 복사라는 "지팡이" 행동을 기계적으로 막습니다. 활동으로는 답이 아니라 힌트인 교수, 프롬프트에 정답과 흔한 [[misconceptions]]을 심어 두는 것, AI 산출물이 드러나기 전에 학생의 시도를 요구하는 것 등이 있습니다.
+
+**평가 재설계(AI에 저항하는 + 보조 없는 측정).** 오용으로 인한 해가 평가에 의존적이기 때문에 — 감독되고, 책을 덮은 상태에서의, 지원받지 않는 측정에서는 드러나면서 정상적인 채점 과제는 부풀리므로 — 성취가 무엇으로 세어지는가를 바꾸는 것이 오용을 억제하면서 드러냅니다. 활동으로는 보조 없는 시험 내 시험과 구두 변론, 과정 인공물(초안, 성찰, 주석이 달린 추론)을 요구하는 것, 표면적 유창함보다 추론을 보상하는 것, AI가 금지된 구역을 지정하는 것 등이 있습니다. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]]는 과정 인공물 요구에 구체적인 기기를 제공합니다. 의무화된 버전 이력과 재현 가능한 분석 문서를 둠으로써, 의심되는 제출물이 그 작업이 어떻게 발전해 갔는지의 시간선으로서 검사될 수 있게 하고, 학생이 생성해야 할 날조된 자료의 양이 외주로 아끼는 것보다 훨씬 더 많이 늘어나게 합니다. 대규모 현장 근거가 이것을 뒷받침합니다. [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei, & Wu (2026)]]는 과제 외주가 과제 점수를 18% 높이는 한편 *폐서 시험 점수는 20% 낮췄다*는 것을 발견했습니다 — 이는 지원받지 않고 감독되는 측정이 드러내도록 설계된 바로 그 신호이며, 이 연구는 폐서 대면 평가에 더 큰 가중치를 두는 것을 권고합니다. [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall and Parapadakis (2025)]]는 같은 논리에 상황 범죄 예방의 가장 명시적인 진술을 부여하며, 실패가 학생이 아니라 모형이 설득력 있게 답할 수 있는 평가에 속한다고 논증하고, 호주 경영학 캡스톤에 적용된 25가지 예방 기법 — 추적된 학생 상호작용, 지나치게 전문적인 작업의 적기 감지, 무작위 팀 재편성, 매주 시행되는 시험 내 감독 시험, 학생들이 공개한 강의 자료에 대한 삭제 통지 — 이 1년 안에 부정행위 건수를 183건에서 27건으로 줄였다고 보고한 사례를 듭니다. 그들의 처방은 수사적이기보다 동기 부여적입니다. 평가의 지각된 목적을 높이고, [[self-efficacy]]을 기르며, 부정행위의 지각된 사회적 비용을 높이는 것. 저자들은 셋 가운데 하나나 둘만을 다루는 것은 실패할 것이라고 경고하며, 이는 제한된 시간 안에 푸는 문제 해결 시험을 학생 자신의 과정에 대한 서면 성찰과 함께하는 개방형 [[problem-solving|문제 해결]]로 바꾸고, 총괄 에세이를 [[collaborative-learning|협업적]] 기록 보관소 연구 프로젝트로 바꾸며, [[eportfolio|포트폴리오]]를 반복적인 동료 검토 설계 과정으로 바꾸는 다섯 가지 학문 특유의 재설계로 뒷받침됩니다.
+
+구조적 수단에는 집행의 팔이 있으며, 그 근거 기반은 도달 범위가 시사하는 것보다 약합니다. [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]]는 1,162건의 생성형 AI 부정행위 사례를 코딩하여, 고발의 시점에서 가장 흔히 인용되는 증거 — [[ai-detection|탐지기]] 산출물, 유사도 보고서, AI 특유의 내용 양상 — 이 가장 약한 입증 가치를 지녔다는 것을 발견했습니다. 한편 자백, 관찰된 시험 행동, 독립적으로 검증된 날조된 참고 문헌이 가장 강했습니다. 기관의 절차가 최소 입증 기준을 설정하지 않기 때문에, 증거의 질은 사건 결과와 신뢰할 만한 관계를 맺지 못했고, 빈약한 증거에 기댄 학생들의 구제 수단은 주로 항소에 머물렀습니다. [[wright-transcription-not-generation-2026|Wright (2026)]]는 같은 불정밀성의 두 번째 비용을 보여 줍니다. "생성형 AI"가 아니라 기능을 중심으로 쓰이지 않은 금지 규정은 학생이 이미 직접 저술한 작업의 형식만을 변환하는 도구까지 포착하여, 전사만 하는 사용이 부정행위로 제재받을 수 있습니다 — 이것은 장애를 가진 학습자와 [[equity-in-ai-education|형평성]]에 노출된 [[learners]]에게 가장 무겁게 떨어지는 과도한 포섭이며, [[assessment-validity|타당성]]에 아무것도 보탬이 되지 않습니다. [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana, Mtshali and Mchunu (2026)]]는 가장 널리 도입된 진실성 통제 수단인 [[remote-proctoring|원격 감독]]이 그 억제 논거를 감소된 부정행위가 아니라 학생들이 자신의 기분을 어떻게 말하는지에 두고 있으며, 불안, 집중력 상실, 인프라와 관련된 배제를 부과하는데, 그것이 더 낮은 오용에 답하는 것으로 드러나지 않았다고 덧붙입니다. [[li-genai-assessment-language-equity-2026|Li (2026)]]는 규칙 설계의 차원을 더합니다. 같은 인터페이스가 허용되는 언어 편집과 금지되는 본질적 초안 작성을 모두 수행하기 때문에, 구별 없는 GenAI 규정은 영어를 추가 언어로 쓰는 학생들에게 집단에 기울어진 준수 부담을 부과합니다. 따라서 더 정당화할 만한 예방은 평가 구인에 닻을 둔 목적 기반의 지원-대체 경계이며, 단계, 입증, 제재 결정에 걸쳐 비례성을 단계적으로 배치하고, 탐지가 할 수 없는 일을 — 단계적 제출물, 짧은 구인 정렬 구두 검증, 비평 기반 질문 같은 — 설계 수단이 담당하는 것입니다. 예방은 또한 채점자 자체를 덮어야 합니다. [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026)]]의 레드팀 평가는 제출 파일에 삽입된 다섯 가지 간접 프롬프트 인젝션 전략 가운데 두 가지가 낙제 에세이를 알아차리지 못한 채 합격으로 끌어올렸다는 것을 발견했으며, 보고된 성공률은 100%와 94%였습니다. 따라서 AI 도구가 학생의 작업을 채점하는 곳에서는, [[human-in-the-loop-ai|인간의 검토]], 제출된 내용으로부터 지시의 더 명확한 분리, 그리고 복원력 시험이 구조적 바닥에 속하며 선택적인 층위에 속하지 않습니다.
+
+### 2층위 — 강한 틀의 지지, 높은 잠재력
+
+**비계가 제공되는 사용 순서: 먼저 생각하고, AI는 두 번째로, 성찰은 세 번째로.** [[critical-thinking]]를 밀어내지 않으면서 LLM을 통합하는 여덟 가지 설계 원칙. 인지적 마찰을 보존하고, AI를 권위가 아니라 임시적인 생각의 동료로 자리매김하고, 평가 체크포인트를 내장하고, [[metacognition|메타인지]]적 저널링과 프롬프트 기록을 요구하고, AI가 매개하는 단계와 AI가 없는 단계의 균형을 잡는 것. 상관적 근거(AI보다 앞서 독립적 작업이 더 강한 산출물을 낳는다)는 강합니다. 이것은 1층위의 교수법적으로 완전한 버전입니다.
+
+**의도적 연습과 즉각적인 [[feedback]]을 동반한 [[ai-literacy|AI 리터러시]]와 [[prompt-engineering|프롬프팅]] 리터러시.** [[llm]] 자동 채점기를 활용한 시나리오 기반 프롬프트 연습을 쓰는 [[k-12]] 모듈이 실제 프롬프팅 기술을 개선하고 학습을 위한 AI 사용에 대한 자신감을 **+10.4%** 높였으며, 87%가 AI를 책임 있게 사용하는 법을 배웠다고 보고했습니다. 입증된 기술 향상입니다. 열린 질문은 이것들이 하류의 [[learning-gains|학습 결과]]로 전환되는지입니다. 또한 이것은 이전의 AI 접근성에서의 [[equity-in-ai-education|형평성]] 격차를 다룹니다.
+
+**구조화된 AI 사용 선언 틀.** "AI를 사용했습니다"라는 일반적인 체크상자를 [[discipline-specific-aied|학문 특유의]] 선언 — 사용을 인지 단계(구조적 계획 대 내용 생성)에 대응시키는 — 으로 대체하는 것은 학습 과정에 대한 성찰을 강제하고, 허용되는 지원과 부정행위 사이의 경계를 분명히 하여, 강조점을 단속에서 전문적 실천으로 옮깁니다.
+
+교육적 수단은 진실성이 강제되는 규칙이 아니라 가르쳐야 할 실천으로 다루어질 때 다시 다르게 보입니다. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]]는 탐지와 검증에 기반한 진실성 체제가 GenAI가 강화된 작업과 어긋나 있다고 논증하며, 진실성을 [[evaluative-judgment|평가적 판단]] — 선택의 무게를 달고, 학문적 선택을 정당화하며, 불확실성 아래에서 책임을 지는 학습자의 역량 — 을 통해 실현되는 교수법적 실천으로 재규정합니다. 주석이 달린 결정의 흔적, 기록된 검증, 구두 변론, 초안 간 버전 이력 같은 인공물을 통해 그것을 가시적으로 만들며, 탐지는 주된 인프라가 아니라 하나의 보조적 층위로 강등됩니다. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]]는 학생들의 쪽에서 같은 틈을 발견합니다. 에티오피아 [[higher-ed|대학]]에서의 27건의 면접에 걸쳐, 사용은 거의 보편적이었고, 대부분의 참여자는 GenAI가 자신의 성취를 높였다고 평가했으며, 가장 날카로운 불만은 반대 방향으로 흘렀습니다. AI 사용자가 성실한 독립적 학습자보다 높은 점수를 받는다는 것이었으며, 참여자들은 그것을 의욕을 꺾는다고 서술했습니다. 저자들은 학생들의 신념이 기관의 규칙보다 윤리적 사용을 더 강하게 예측한다고 결론짓기에, 인식, 명확한 정책, 평가 재설계가 함께 도래해야 합니다 — 이것은 이 페이지의 교육적 층위가 조건으로 진술된 것입니다. 역량 구축은 [[framing-ai-use-for-students|학생의 동의]]가 구조적 바닥을 동반할 때에만 행동을 변화시킵니다. [[ji-student-voices-academic-integrity-scoping-2026|Ji's (2026)]] 학생의 목소리에 관한 38건의 연구에 대한 [[meta-analysis-systematic-review|범위 검토]]는 같은 결론의 현장 수준 버전을 제공합니다. 검토된 연구들은 사후적 탐지에서 사전적 윤리적 추론으로의 전환에, 일회성 [[ai-literacy|리터러시]] 세션이 아니라 [[curriculum-design|교육과정]] 안에서 AI 윤리와 AI 표절(AI-giarism)을 가르치는 것에, 그리고 불명확한 지침은 경고가 아니라 암묵적 허락으로 읽힌다는 이유로 지도자, 교수진, 학생이 공동으로 만들어 낸 세부 지침에 수렴합니다. Ji 자신의 독해는, 소유권과 도덕적 추론이 처벌에 대한 두려움보다 학생들을 더 강하게 동기 부여하며, 학생들은 GenAI의 수동적 수용자도 도덕적 제약 없는 범죄자도 아니라 회색 지대에서 일하는 도덕적 행위자라는 것입니다 — 이것은 발견으로 진술된 이 층위의 전제입니다.
+
+### 3층위 — 유망하지만 직접적 인과 근거는 더 낮음
+
+**메타인지 및 자기평가 개입.** 성찰 저널, 프롬프트 기록, 보정 훈련은 AI가 생성한 유창함이 그것을 가리기 때문에 자신의 인지적 경계를 찾아낼 수 없는 AI 토착 학생들의 "부재하는 인지적 기준선"을 재건합니다. 개념적으로 중심적이지만 아직 인과적으로 시험되지 않았습니다.
+
+**동기 재설계.** AI의 이용 가능성이 [[motivation|자율적 동기]]( "왜 노력을 들입니까?")를 잠식하기 때문에, AI가 충족할 수 없는 목표와 [[agency|학습자의 행위성]] 주변으로 과업을 재구성하는 것이 직접적 해에 덧붙는 끈기의 잠식을 직접 겨냥합니다.
+
+**비판적 AI 리터러시.** 학습자가 [[governance|AI 거버넌스]]를 소비하기보다 심문하고, 도전하며, 참여하도록 가르치는 권력-지식의 틀. 장기적이고 형평성 지향적이며 그 야망에서 구조적이나, 그 학습 효과는 대체로 시험되지 않았습니다.
+
+**비판적 수용을 막기 위한 [[ai-sycophancy|아첨]] 인식.** [[ai-sycophancy|아첨적인]] AI가 사용자를 도전하기보다 검증하기 때문에, 그것은 직접적인 오용 경로입니다. 틀린 생각에 대해 긍정하는 동의를 받는 학생들은 자신의 [[cognitive-offloading|인지 작업]]을 AI로 대체하도록 부추겨집니다. [[contextual-sycophancy-ai-literacy|상황적 아첨]]은 AI 리터러시와 프롬프팅 훈련이 오류의 고리를 줄이지만 제거하지는 못한다는 것을 보여 주어, 오용 예방은 교육적 인식 훈련을 시스템 수준의 교정적 마찰 설계와 짝을 이루게 해야 합니다(1층위의 가드레일 참고).
+
+- **[[desirable-difficulties|생산적 마찰]]과 교수법적 기능.** 시드니 신속 검토는 GenAI가 학생들이 학습에 필요한 인지적/메타인지적 마찰을 우회하도록 할 때 학습을 약화시킨다고 논증하며, 의도적으로 설계된 도구가 *생산적 마찰*(답을 보류하고, 설명을 촉구하는 것)을 도입한다고 말합니다. 그것은 네 가지 교수법적 기능을 구별합니다. GenAI를 *통해*, *함께*, *에 대해* 배우는 것, 혹은 GenAI를 *형성함으로써* 배우는 것 — 각각은 행위성과 평가에 대해 서로 다른 요구를 합니다.([[young-people-learning-generative-ai-rapid-review-2026]])
+
+## 연결된 개념
+
+- [[ai-misuse-learning-harm]]
+- [[cognitive-offloading]]
+- [[academic-integrity]]
+- [[assessment]]
+- [[ai-literacy]]
+- [[scaffolding]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[motivation]]
+- [[prompt-engineering]]
+- [[ai-sycophancy]]
+- [[trust-calibration]]
+- [[framing-ai-use-for-students]]
+- [[cognitive-surrender]]
+
+## 연결된 문서
+
+- [[ivory-psychology-assessment-integrity-2026]] — 오용 억제책으로서의 버전 관리 증거 흔적과 재현 가능한 분석 문서(Ivory et al. 2026)
+- [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
+- [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
+- [[ai-assessment-scale-reform]] — The AI Assessment Scale and Assessment Reform
+- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning (K-12 AI Literacy Module)
+- [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: GenAI Declaration Frameworks
+- [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
+- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time
+- [[ssaho-ai-academic-integrity-review-2025]] — Culture-building and assessment redesign over detection policing
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Cognitive surrender, productive friction, and metacognitive inequity
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 생성형 AI로 인한 학습의 손실: 과제 외주가 학습을 해친다
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Guardrails removed harm without improving exam scores
+- [[munoz-misconduct-allegation-evidence-2026]] — 부정행위 고발 파일에 실제로 담긴 증거
+- [[wright-transcription-not-generation-2026]] — 과도하게 포섭하는 AI 규정과 그것이 잡아들이는 학생들
+- [[sharma-judgment-visible-genai-assessment-2026]] — 준수가 아니라 평가적 판단으로서의 진실성
+- [[mulisa-students-genai-integrity-perspectives-2026]] — GenAI가 속임수 도구인지 학습 동료인지에 대한 학생들의 시각
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 원격 감독이 학생과 형평성에 미치는 영향
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — AI가 촉진하는 부정행위에 대한 상황 범죄 예방: 183건에서 27건으로, 그리고 다섯 가지 학문 특유의 재설계(Leaton Gray, Edsall & Parapadakis 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — 학생의 목소리에 관한 38건의 연구가 권하는 것: 탐지보다 공동으로 만들어 낸 명확성과 교육적 추론(Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — EAL 작문가에게 언어 지원이 끝나는 곳과 대체가 시작되는 곳(Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — AI 채점에 대한 오용 경로로서의 프롬프트 인젝션(Humble 2026)
+- [[coates-governing-academic-integrity-indicators-2025]] — 진실성의 구속하는 제약으로서의 거버넌스: 130개 항목의 지표 틀(Coates, Croucher & Calderon 2025)
