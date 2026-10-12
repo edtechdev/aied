@@ -118,9 +118,9 @@ AI에 대한 신뢰는 단일한 태도가 아니라 평가에서 의지로 향�
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 혼합형 교실에서 ML 결과를 교사에게 접근 가능하게 만들기
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
+- [[student-perspectives-ai-writing-grading-2026]] — 누가 내 작업을 채점해야 하는가? 고등 교육에서 투명한 AI 지원 글쓰기 평가에 대한 학생의 시각
 - [[trust-in-ai-psychological-profiles-ml-2026]] — AI 신뢰가 인구통계가 아니라 회복탄력성과 스트레스를 따르는 세 가지 학생 프로필(Kumar et al. 2026)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
+- [[bounded-reliance-ai-writing-feedback-2026]] — 제한된 의존: EFL 학생들의 AI 생성 글쓰기 피드백 활용에 관한 출처 신뢰성 관점
 
 - [[ai-empowerment-threat-genai-dependence-2026]] — 역량 강화와 위협 평가가 신뢰를 반대 방향으로 움직여 GenAI 의존을 매개했다
 - [[observer-perceptions-genai-interpersonal-trust-2026]] — 동료의 GenAI 사용이 인지된 온기와 능력을 통해 대인 간 신뢰를 낮추며, AI 리터러시가 완충 역할을 한다

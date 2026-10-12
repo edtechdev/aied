@@ -132,13 +132,13 @@ Fowlin 등(2026)은 AI가 어디에 들어갈지를 결정하는 실행적 방�
 
 ## 연결된 문서
 
-- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
-- [[tang-chatbots-learning-design-2026]] — Chatbot use in learning design: designers dwell on outcomes and pedagogy rather than content generation (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
+- [[powerful-learning-with-emerging-technology-2025]] — 신기술을 활용한 강력한 학습
+- [[claassen-learning-analytics-genai-learning-design-2026]] — 학습 설계 의사결정에서의 학습 분석과 생성형 AI
+- [[tang-chatbots-learning-design-2026]] — 학습 설계에서의 챗봇 활용: 설계자들은 콘텐츠 생성보다 결과와 교수법에 집중함 (Tang et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — 경험과 AI 숙련도에 따른 수업 설계에서의 교사-AI 상호작용 양상 (Choi et al. 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — 고등교육에서의 AI: 참여와 교수법의 매개 역할
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taxonomy (boundary object) for classifying GenAI learning activities
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — 생성형 AI 학습 활동을 분류하기 위한 분류 체계(경계 대상)
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -149,19 +149,19 @@ Fowlin 등(2026)은 AI가 어디에 들어갈지를 결정하는 실행적 방�
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: autonomous web agent evaluates lesson designs and predicts student dropout before students engage (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: A Framework for Cognitively Activated AI Augmentation in Physics
+- [[ai-web-agents-lesson-design-2025]] — AI 웹 에이전트: 자율 웹 에이전트가 수업 설계를 평가하고 학생이 참여하기 전에 중도 이탈을 예측함 (Wang, Mitchell & Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — 물리학에서 인지적으로 활성화된 AI 증강을 위한 프레임워크 AIRIS
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
+- [[halani-designing-for-reach-2026]] — 도달 범위 설계: 일곱 가지 지렛대와 AI와 홀로 남은 학생
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
+- [[ai-video-dual-gatekeeping-2026]] — '아니오'라고 말하는 것이 더 나은 영상을 만드는 때: 교육적으로 근거 있는 AI 콘텐츠 제작을 위한 이중 관문
+- [[rhaimi-productivemath-2025]] — 생산적 실패 문제 설계를 지원하는 AI ProductiveMath
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI와 수업 설계 실천에 관한 체계적 문헌 고찰 (Kibar & Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — 동적 영역을 위한 그래프 기반 지능형 튜터링 (2026)
+- [[making-ai-annoying-constrained-writing-2026]] — 의도적으로 AI를 성가시게 만들기: AI 지원 글쓰기에서의 제약 (Konradt, Boote & Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — 수학에서 교육학 석사(M.Ed.)의 수업 설계 역량을 향상시키는 스마트 교실 모형과 D-T-E 루프 (Zhu et al. 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — 수학적 모형화 문제를 생성하는 AI 기반 플랫폼(ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — 학습 과제의 교사-AI 공동 설계: 경향과 관점 (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — AI가 설계한 차등화 집단 활동에서의 역할 구조 (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — 반복적 교수법 설계의 주체로서의 LLM

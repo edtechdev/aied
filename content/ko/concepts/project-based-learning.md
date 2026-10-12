@@ -78,10 +78,10 @@ PBL은 [[active-learning]], [[experiential-learning]], [[collaborative-learning]
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 생성형 AI가 지원하는 교육의 유망한 프레임워크로서의 문제 기반 및 프로젝트 기반 학습: 체계적 검토와 3수준 메타분석의 새로운 증거
 - [[pbl-structural-conditions-ai-2026]]
 - [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
+- [[bots-blocks-project-based-robotics-education-2026]] — 프로젝트 기반 로봇공학 교육을 위한 봇과 블록
 - [[game-based-gamified-robotics-education-review-2026]] — 게임 기반 및 게임화된 로봇공학 교육
 - [[genai-literacy-training-teacher-education-dbr-2026]] — 교사를 위한 AI 리터러시 훈련
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
+- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly 신체화된 블록 프로그래밍
 - [[white-wu-robotics-ai-education-2026]] — 교육의 로봇공학과 AI
 - [[educational-robotics-pathways-2026]] — AI 기반 교육용 로봇공학 학습으로 가는 경로(2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — PBL은 지배적인 CT 학습 전략이다

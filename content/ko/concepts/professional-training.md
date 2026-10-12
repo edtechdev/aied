@@ -82,7 +82,7 @@ ai_assist:
 
 ## 연결된 문서
 
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
+- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI와 공학·컴퓨팅 인력의 미래
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — AI 시대의 스마트 제조를 위한 인력 준비도 수준 틀
 - [[crewscaler-ai-upskilling-framework]]
 - [[ai-coaching-rl-skill-development]]

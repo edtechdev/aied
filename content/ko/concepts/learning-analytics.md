@@ -119,13 +119,13 @@ ai_assist:
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — 예측이 공급하는 지원 측면: 의뢰, 배분, 그리고 그것이 움직이거나 움직이지 않는 결과
 ## 연결된 문서
-- [[factria-responsible-institutional-analytics-2026]] — Responsible Institutional Analytics: Interpreting Bias with AI Support
+- [[factria-responsible-institutional-analytics-2026]] — 책임 있는 기관 분석: AI의 지원으로 편향 해석하기
 
-- [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
+- [[ai-supported-lecturer-decision-making-2026]] — 고등교육에서 AI가 지원하는 강의자 의사결정
+- [[villegas-ch-federated-explainable-learning-analytics-2026]] — 프라이버시를 보존하는 학업 위험 모형화를 위한 연합형 설명 가능 학습 분석 (Villegas-Ch et al. 2026)
+- [[llm-interaction-depth-task-quality-recall-2026]] — 학생이 무엇을 묻는지가 중요함: LLM 상호작용 깊이, 과업의 질, 즉각적 회상 (Tsiligkiris 2026)
+- [[learning-analytics-to-educational-interventions-2026]] — 학습 분석에서 교육 개입으로: 신뢰할 수 있는 LA 기반 개입의 가능 조건 (Svetec, Divjak & Kadoić 2026)
+- [[claassen-learning-analytics-genai-learning-design-2026]] — 학습 설계 의사결정에서의 학습 분석과 생성형 AI
 - [[at-risk-students-ml-prediction]]
 - [[engagement-intensity-learner-modeling]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]
@@ -133,24 +133,24 @@ ai_assist:
 - [[wordstream-glass-learning-analytics]]
 - [[trace-course-grade-prediction-2026]]
 - [[student-llm-interaction-taxonomy-review-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
-- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
+- [[sc2r-counterfactual-recourse-educational-2026]] — 학생 위험 예측에서 SC2R로: 반사실적 구제 수단
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 맞춤형 학습 경로를 위한 베이지안 인지 진단
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — 학습 분석을 위한 자기 설명 언어 모형 증류
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — AI가 다양한 학생 유형에 적절한 지원을 제공할 수 있는가? 대규모 평가
+- [[llm-agents-collaborative-problem-solving-simulation-2026]] — 협력적 문제 해결 대화를 재현하는 참여자별 미세 조정 LLM 에이전트 (Fang 2026)
+- [[astra-multi-agent-tutoring-benchmark-2026]] — 다중 에이전트 튜터링과 참여 균형 협업을 위한 ASTRA 합성 벤치마크
+- [[determinants-chatgpt-use-higher-education-2026]] — 고등교육에서 미래 ChatGPT 사용의 기계학습/SHAP 결정 요인
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 혼합 수업에서 교사가 이해할 수 있게 만든 기계학습 결과
+- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 친화도 매핑을 활용한 결과 기반 지식 추적
 - [[an-goel-self-directed-modeling-2026]]
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[zhang-ml-student-progress-programming-2026]]
 - [[learning-paths-patterns-learning-design-2026]] — 554개 강좌의 계획된 활동 29,064건에 대한 마르코프 사슬과 패턴 채굴 — 습득이 이끌고 연습을 공고화하는 설계 문법 드러냄
-- [[pulla-parsons-problem-tool-2026]] — Pulla: process-level behavioral tracing and instructor-facing difficulty analysis in Parsons problems (Prol et al. 2026)
+- [[pulla-parsons-problem-tool-2026]] — Pulla: 파슨스 문제에서의 과정 수준 행동 추적과 교수자용 난이도 분석 (Prol et al. 2026)
 - [[a4l-analytics-pipeline]]
 - [[league-ethical-governance-student-data-2026]]
-- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk from early-semester LMS traces (AUC 0.763)
-- [[thomas-breaking-learning-system-wall-2026]] — Towards breaking the learning system wall using multimodal tutoring transcriptions (Thomas et al. 2026)
+- [[learning-analytics-genai-secondary-writing-2026]] — 생성형 AI와 함께하는 중학생 쓰기를 지원하는 학습 분석 활용
+- [[edtech-privacy-deferral-2026]] — "나중에 고치겠습니다": 에듀테크에서의 교육, AI, 그리고 학생 프라이버시 연기의 문제
+- [[synthetic-educational-data-structural-fidelity-2026]] — 충실도 지표가 놓치는 것: 합성 교육 데이터에 관한 구조적 점검
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 학기 초 LMS 기록으로부터 AI 보조 부정행위 위험 예측 (AUC 0.763)
+- [[thomas-breaking-learning-system-wall-2026]] — 다중 양상 튜터링 전사를 활용한 학습 시스템 간 장벽 허물기 (Thomas et al. 2026)

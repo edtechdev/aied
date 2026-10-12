@@ -105,4 +105,4 @@ ai_assist:
 - [[tool-invariant-framework-agentic-ai]] — AI 지원 작업의 구두 변론
 - [[ai-standardized-patient-scaffolding-medical-2026]] — 시뮬레이션 환자 시스템 아래서의 구두 임상 면담
 - [[pgr-students-genai-uses-qualitative-2026]] — 생성형 AI 아래서의 박사 비바 보체
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[computing-assessment-genai-workshop-report-2026]] — AI가 네 숙제를 할 수 있다. 이제 무엇을 할 것인가? 생성형 AI 시대의 컴퓨팅 평가에 관한 온라인 워크숍 보고서

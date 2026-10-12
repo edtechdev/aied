@@ -129,7 +129,7 @@ ai_assist:
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — AI가 다양한 학생 유형에 적절한 지원을 제공할 수 있는가? 대규모 평가
 - [[bias-representation-text-to-image-education-2026]] — AI 생성 텍스트-이미지에서의 편향과 대표성: 체계적 문헌고찰(Alon et al. 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — AI 교육을 위한 윤리적 가치와 규범
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015-2026
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — 감정 분류에서 실행 가능하고 책임 있는 피드백으로: 교수 평가에서의 NLP에 관한 범위 검토와 증거 지도, 2015-2026
 
-- [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
+- [[genai-social-bias-software-engineering-education-2026]] — 생성형 AI가 소프트웨어 공학 교육의 사회적 편향을 강화할 수 있다
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: 공급업체가 통제하는 조기 경보 시스템에서의 사후적 공정성 개입 평가

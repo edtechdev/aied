@@ -173,7 +173,7 @@ ai_assist:
 - [[adaptive-pretesting-retention]] — 로그에서 도출된 행동적 노력 지표
 - [[ai-vocational-education-training-review]] — 자기보고/객관적 측정 불균형을 보고하는 고찰
 - [[student-genai-use-views-writing|Student use of and views on GenAI for writing]] — 한 사회학과에서의 설문과 면담
-- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
+- [[competent-generative-ai-use-measures-review-2026]] — AI 리터러시를 넘어서: 유능한 생성형 AI 사용의 측정에 대한 구조적 검토와 탐색적 메타분석
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: AI 관련 인지 부하 전가를 위한 프라이버시 보존 자기성찰 도구
 - [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 지각된 역량이 무엇을 확립할 수 있는지 명시적인, 상급 초등 학생을 위한 15문항 자기 평가 도구
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 교사의 AI 리터러시 도구 33개 가운데 31개가 자기보고이고 어느 것도 수행 기반이 아님을 발견한 고찰

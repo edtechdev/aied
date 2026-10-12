@@ -123,16 +123,16 @@ ai_assist:
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — 가시적 추론과 판단을 루브릭이 보상하는 대상으로 만들기
 - [[learner-centered-feedback-ai]] — AI 피드백 도구와 함께하는 교수자의 평가적 판단
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: 단속이 아니라 재설계된 진정성
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
-- [[du-yuan-epistemic-dependence-2026]] — Contestability, recoverability, and the criteria separating reliance from dependence
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — 생성형 AI 시대를 위한 평가 타당성의 재개념화
+- [[du-yuan-epistemic-dependence-2026]] — 이의 제기 가능성, 회복 가능성, 그리고 의존과 신뢰를 가르는 기준
 - [[rethinking-ai-writing-feedback-literacy]] — AI 지원 글쓰기를 위한 피드백 리터러시
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
+- [[student-perspectives-ai-writing-grading-2026]] — 누가 내 작업을 채점해야 할까요? 고등교육에서 투명한 AI 지원 글쓰기 평가에 대한 학생의 관점
 - [[sharma-judgment-visible-genai-assessment-2026]] — 정직성의 평가적 핵심으로서의 판단: 주석이 달린 결정의 흔적, 구두 변론, 버전 기록 (Sharma 2026)
 - [[munoz-misconduct-allegation-evidence-2026]] — 공동화된 기준 없이 증거를 저울질하는 패널들: 기관 자신의 판단 문제 (Munoz et al. 2026)
 - [[hadra-ai-detector-accuracy-efl-2026]] — 탐지기의 부정확성과 혼합 글쓰기 실패: 판결 대신 권고된 대안으로서의 인간 판단 (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Function, not platform: judging what a tool did rather than what it is (Wright 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms and the Discernment Rate: grading the reasoning trail behind AI-assisted work (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — the Agency Check (credible, relevant, acceptable, nuanced) that structures each AI interaction
-- [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education
+- [[wright-transcription-not-generation-2026]] — 플랫폼이 아닌 기능: 도구가 무엇인지가 아니라 무엇을 했는지를 판단하기(Wright 2026)
+- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms와 변별률: AI 지원 작업 뒤에 놓인 추론의 흔적을 채점하기(Austin 2026)
+- [[ai-written-admissions-essays-penalized-2026]] — AI가 쓴 입학 에세이는 널리 퍼져 있으나 불이익을 받는다
+- [[authentic-assessments-generative-ai-pilot-2026]] — 생성형 AI로 실제적 평가 설계하기: 고등교육에서의 평가 진정성 파일럿 연구
+- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — 각각의 AI 상호작용을 구조짓는 주체성 점검(신뢰할 만하고, 적절하며, 받아들일 수 있고, 섬세한)
+- [[judgment-centred-software-engineering-education-2026]] — AI가 보강하는 소프트웨어 공학 교육을 위한 과장을 걷어낸 검토와 틀

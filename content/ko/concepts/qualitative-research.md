@@ -102,21 +102,21 @@ ai_assist:
 - [[self-report-measures]]
 
 ## 연결된 문서
-- [[chain-behind-claim-warrantability-2026]] — warrantability standard for AI-assisted qualitative analysis
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch: a grounded theory of AI-assisted programming
-- [[trio-ethnography-llm-programming-education]] — A trio-ethnography of interpretation evolution in LLM-supported programming
-- [[absent-cognitive-baseline-2026]] — Theorizing a structural gap in AI-native students' self-assessment
-- [[t2i-competence-paradox-2026]] — The competence paradox in text-to-image GenAI use
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust–utility gap in physics education
-- [[genai-teacher-feedback-comparison]] — Comparing GenAI and teacher feedback: student perceptions
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
-- [[zha-ai-literacy-biology-case-study]] — Case study of AI-literacy integration in a biology class
-- [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
-- [[scaffolding-critical-engagement-genai-minority-students]] — Collaborative discourse in prompt engineering among ethnic-minority students
-- [[human-vs-llm-ordered-coding]] — Comparing human and LLM ordered coding of qualitative data
-- [[agreement-not-quality-llm-coding-verification]] — Agreement is not quality in LLM qualitative coding
-- [[same-ai-different-pathways]] — Unpacking mechanisms of AI-mediated learning across contexts
-- [[drummond-genai-business-schools-framework-2026]] — Student-informed GenAI framework via case study
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI tutors: empower or enslave
-- [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher-education mathematics
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
+- [[chain-behind-claim-warrantability-2026]] — AI 지원 질적 분석을 위한 정당화 가능성 기준
+- [[liu-tool-tutor-crutch-programming-2026]] — 도구인가, 튜터인가, 목발인가: AI 지원 프로그래밍에 관한 근거 이론
+- [[trio-ethnography-llm-programming-education]] — LLM이 지원하는 프로그래밍에서 해석의 변화에 관한 3인 민족지
+- [[absent-cognitive-baseline-2026]] — AI 네이티브 학생의 자기 평가에 나타난 구조적 격차에 관한 이론화
+- [[t2i-competence-paradox-2026]] — 텍스트-이미지 생성형 AI 사용에서의 역량 역설
+- [[fouad-bentley-trust-utility-gap-physics-2026]] — 물리 교육에서의 신뢰-유용성 격차
+- [[genai-teacher-feedback-comparison]] — 생성형 AI와 교사 피드백의 비교: 학생의 인식
+- [[hazra-safetutors-pedagogical-safety-2026]] — AI 튜터의 안전과 교수학적 해악
+- [[zha-ai-literacy-biology-case-study]] — 생물학 수업에 AI 리터러시를 통합한 사례 연구
+- [[becker-chatgpt-typology-physics-2026]] — 물리학에서 ChatGPT 도입에 관한 질적 유형론
+- [[scaffolding-critical-engagement-genai-minority-students]] — 소수 민족 학생들의 프롬프트 엔지니어링에서 나타난 협력적 담론
+- [[human-vs-llm-ordered-coding]] — 질적 데이터에 대한 인간과 LLM의 순서 코딩 비교
+- [[agreement-not-quality-llm-coding-verification]] — 일치는 질이 아니다: LLM 질적 코딩 검증에서
+- [[same-ai-different-pathways]] — 맥락에 따른 AI 매개 학습 메커니즘 풀어내기
+- [[drummond-genai-business-schools-framework-2026]] — 사례 연구를 통해 학생의 시각에서 구성한 생성형 AI 틀
+- [[favero-critical-ai-tutors-empower-enslave-2025]] — 비판적 AI 튜터: 해방하는가, 예속하는가
+- [[genai-runaway-object-math-higher-ed]] — 고등교육 수학에서 통제를 벗어난 대상으로서의 생성형 AI
+- [[khlaif-assistive-genai-visually-impaired-2026]] — 시각장애 학습자를 위한 보조 생성형 AI

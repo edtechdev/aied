@@ -113,11 +113,11 @@ ai_assist:
 
 - [[ai-peer-feedback-l2-writing-engagement-2026]] — 통합된 AI+동료 피드백이 세 가지 관여 차원과 네 가지 IELTS 쓰기 차원을 모두 높였다
 - [[usher-faraon-who-grades-best-2026]] — 프로젝트 품질 수준에 따른 ChatGPT, 동료, 교수자 채점 비교 (Usher & Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-- [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
-- [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing
+- [[pairr-ai-peer-review-2025]] — 성찰을 곁들인 동료-AI 검토(PAIRR)
+- [[becerra-aicofe-feedback-2026]] — AI 동료 피드백 체계
+- [[ai-internal-feedback-evaluative-judgments]] — 학부생의 평가적 판단 발달 풀어내기
+- [[learner-centered-feedback-ai]] — AI와 함께하는 학습자 중심 피드백 높이기
+- [[genai-linguistic-diversity-academic-writing]] — 학문적 글쓰기에서의 생성형 AI와 언어적 다양성
 - [[gift-ai-pairr-business-writing-2025]] — 경영 글쓰기 강좌에서의 PAIRR: 동료 검토, 챗봇 피드백, 성찰 (MacArthur et al. 2025)
 - [[scaffolding-srl-feedback-genai-human-peers]] — 자기조절적 피드백과 피드백 리터러시의 스캐폴딩을 위한 생성형 AI 대 인간 동료 (Gu et al. 2026)
 - [[irwin-muller-efl-peer-feedback-literacy]] — 말하기에 대한 EFL 동료 피드백에서의 Trainer와 Synthesizer로서의 생성형 AI (Irwin & Muller 2026)
@@ -128,7 +128,7 @@ ai_assist:
 - [[multimodal-affective-its-presentation]] — 동료 피드백의 확장 가능한 대안으로서의 자동화된 멀티모달 발표 코칭 (Suen & Hung 2026)
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — 온라인 포럼에서 동료 노출을 넓히는 AI 생성 토론 요약 (Hao & Cukurova 2026)
 - [[qu-wang-disclose-or-not-genai-2026]] — 학생의 생성형 AI 공개에서의 동료 영향과 관계적 신뢰 (Qu & Wang 2026)
-- [[llm-critical-thinking-teamwork-review]] — Systematic review of LLMs for critical thinking, teamwork, and problem solving (Martínez-Peláez et al. 2025)
+- [[llm-critical-thinking-teamwork-review]] — 비판적 사고, 팀워크, 문제 해결을 위한 LLM에 관한 체계적 고찰(Martínez-Peláez et al. 2025)
 - [[ai-agents-peer-learning-discourse]] — 240만 AI 에이전트 사이의 동료 학습 유사 담론 (Chen et al. 2026)
 - [[oneill-presumed-effective-meta-analysis-2026]] — AIED 메타분석 14개와 1차 연구 59개의 감사 (O'Neill 2026)
 - [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — L2 쓰기에서의 교수자 피드백 대 AI 지원 동료 피드백: 두 과제에 걸친 양, 초점, 향상 궤적 (Tang, Li & Luo 2026)

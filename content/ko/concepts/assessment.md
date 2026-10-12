@@ -124,17 +124,17 @@ AI는 근본적인 [[assessment-validity|타당성]] 질문을 던집니다. AI�
 - [[competency-based-education-genai-production-2026]] — 생성형 AI 이후의 역량 기반 교육
 - [[genai-assessment-governance]] — 평가에서의 생성형 AI에 대한 증거 중심 거버넌스
 - [[ssaho-ai-academic-integrity-review-2025]] — AI 정직성 고찰: 탐지는 평가 재설계와 짝을 이루어야 한다
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
-- [[walton-bearman-assessment-judgment-2025]] — Judgment in students' work with GenAI on assessment tasks (26 students, scroll-back)
-- [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use (evaluative integration vs low-verification uptake) and outcomes
-- [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[pecuchova-automated-grading-open-ended-genai-2026]]
-- [[mesny-innovative-assessment-grading-management-2026]]
-- [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[bassett-ai-detectors-education-2026]] — 앞면이 걸리면 우리가 이기고 뒷면이 걸리면 당신이 진다: 교육에서의 AI 탐지기(Bassett et al. 2026)
+- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: 학생 불안에 대한 LLM 보강 평가(2026)
+- [[graph-its-adaptive-algorithms-2026]] — 동적 영역을 위한 그래프 기반 지능형 교수법(2026)
+- [[asynchronous-oral-assessment-2026]] — AI 시대의 비동기 구두 평가(Pentland 2026)
+- [[assessing-student-drive-framework-2025]] — DRIVE: 생성형 AI 상호작용을 통해 학습을 평가하기(DRI + 가시적 전문성)
+- [[walton-bearman-assessment-judgment-2025]] — 평가 과제에서 생성형 AI와 함께한 학생 작업의 판단(학생 26명, 스크롤 회고)
+- [[stamatoulis-genai-use-patterns-2026]] — 생성형 AI 사용의 양상(평가적 통합 대 낮은 검증의 수용)과 결과
+- [[luo-dawson-value-judgments-grading-2026]] — 생성형 AI 지원 작업의 채점에서의 가치 판단: 정직, 신뢰, 타당성, 그리고 양방향 투명성(Luo & Dawson 2026)
+- [[razavi-powers-item-difficulty-llm-2026]] — LLM과 트리 기반 기계학습을 이용한 문항 난도 추정
+- [[pecuchova-automated-grading-open-ended-genai-2026]] — 생성형 AI 모형을 이용한 고등교육의 개방형 문항 자동 채점
+- [[mesny-innovative-assessment-grading-management-2026]] — 경영 교육자를 위한 혁신적 평가와 채점 실천에 관한 비판적 탐구
+- [[olvet-genai-scoring-open-ended-medical-2026]] — 생성형 AI가 학부 의학 교육의 개방형 문항 평가를 신뢰롭게 채점할 수 있는가
+- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]] — ChatGPT가 평가에서 교사를 대체할 수 있는가: LLM의 채점과 피드백 제공 활용 연구 고찰
+- [[computing-assessment-genai-workshop-report-2026]] — AI가 여러분의 숙제를 해 줄 수 있습니다. 이제 무엇을 할까요? 생성형 AI 시대의 컴퓨팅 평가에 관한 온라인 워크숍 보고서

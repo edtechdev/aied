@@ -105,30 +105,30 @@ TPACK은 이 지식베이스 근거 기반의 교수자 측을 조직하는 프�
 
 ## 연결된 문서
 
-- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Evaluation Indicator System for AI Certificate Programs
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Cross-level study: 'pedagogy first, technology second' — TPAIK outweighs technical TAIK for student outcomes (Shen et al. 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — In-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge (Mohebi & ElSayary 2026)
+- [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — AI 자격증 프로그램을 위한 평가 지표 체계
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 계층 간 연구: '교수법이 먼저, 기술이 다음' — 학생 성과에서 기술적 TAIK보다 TPAIK이 더 큰 영향 (Shen et al. 2026)
+- [[tpack-genai-inservice-teachers-mediation-2026]] — 현직 교사의 TPACK-생성형 AI와 교수학적 지식의 매개 역할 (Mohebi & ElSayary 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (TPACK-related DBR)
-- [[edurev-100741-tpack-genai-review]] — Integrating generative AI into student learning: A systematic review from a TPACK perspective
-- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
-- [[ai-tpack-preservice-math-teachers]] — AI-TPACK readiness among pre-service mathematics teachers
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction in lesson design: Intelligent-TPACK, experience, and proficiency interplay (Choi et al. 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — Intensive GenAI professional development and AI-PCK gains
-- [[teacher-ai-teaming-five-levels]] — Five-level teacher-AI teaming framework
-- [[teacher-ai-adoption-confidence]] — Teacher confidence and AI adoption
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for AI literacy via self-determination theory
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Design-based research GenAI literacy training
-- [[rail-ed-genai-literacy-teacher-education]] — Rethinking GenAI literacy in teacher education
-- [[sec-ai-literacy-narrative-review-2026]] — Social-emotional competencies and AI literacy
-- [[genai-runaway-object-math-higher-ed]] — GenAI and mathematics in higher education
-- [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty self-perceived TPACK-21 knowledge for GenAI in higher education (Sutedjo, Chowdhury & Liu 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — Towards a New AI-TPACK Framework: ethics as an integrative mediator of technical AI knowledge (Chen et al. 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Comparative survey of 186 South African science student teachers: campus advantage in self-reported TPACK, and AI training associated with weaker reported TPACK at the distance institution
-- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK and science teaching self-efficacy serially mediate AI literacy's effect on inquiry-integration intention (Zou et al. 2026)
+- [[crompton-faculty-technology-integration-standards-2026]] — 기술 통합에 관한 교수진 표준 (TPACK 관련 설계 기반 연구)
+- [[edurev-100741-tpack-genai-review]] — 학생 학습에 생성형 AI를 통합하기: TPACK 관점에서의 체계적 문헌 고찰
+- [[ai-tpack-teacher-multi-agent-workflow]] — 교사 다중 에이전트 워크플로를 통해 모형화한 AI-TPACK
+- [[ai-tpack-preservice-math-teachers]] — 예비 수학 교사의 AI-TPACK 준비도
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — 수업 설계에서의 교사-AI 상호작용: Intelligent-TPACK, 경험, 숙련도의 상호작용 (Choi et al. 2026)
+- [[genai-pd-ai-pck-learning-gain-2026]] — 집중 생성형 AI 전문성 개발과 AI-PCK 향상
+- [[teacher-ai-teaming-five-levels]] — 5단계 교사-AI 협업 틀
+- [[teacher-ai-adoption-confidence]] — 교사의 자신감과 AI 도입
+- [[teacher-education-ai-literacy-sdt-2026]] — 자기결정이론을 통한 AI 리터러시 교사 교육
+- [[genai-literacy-training-teacher-education-dbr-2026]] — 설계 기반 연구: 생성형 AI 리터러시 훈련
+- [[rail-ed-genai-literacy-teacher-education]] — 교사 교육에서 생성형 AI 리터러시 재고하기
+- [[sec-ai-literacy-narrative-review-2026]] — 사회정서 역량과 AI 리터러시
+- [[genai-runaway-object-math-higher-ed]] — 고등교육 수학에서의 생성형 AI와 통제를 벗어난 대상
+- [[ai-changing-teaching-workflows]] — AI가 교수 워크플로를 변화시키는 방식
+- [[sutedjo-faculty-genai-tpack-21-2026]] — 고등교육에서 생성형 AI에 대한 교수진이 자각하는 TPACK-21 지식 (Sutedjo, Chowdhury & Liu 2026)
+- [[ethically-mediated-ai-tpack-china-2026]] — 새로운 AI-TPACK 틀을 향하여: 기술적 AI 지식을 통합하는 매개자로서의 윤리 (Chen et al. 2026)
+- [[ai-training-science-teacher-tpack-distance-2026]] — 남아프리카 공화국 과학 예비 교사 186명에 대한 비교 설문: 자각하는 TPACK에서 캠퍼스의 우위, 그리고 원격 교육기관에서 AI 훈련이 더 낮게 보고된 TPACK과 연관됨
+- [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK과 과학교수 자기효능감이 AI 리터러시가 탐구 통합 의향에 미치는 영향을 순차적으로 매개함 (Zou et al. 2026)
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK professional development for university teachers: dimension-resolved gains, attendance over self-perceived engagement — AI-supported CTD-PBL module and pre-service physics teachers' TPACK and collaborative problem solving (Chen & Osman 2026)
-- [[human-ai-collaboration-design-education-rubric-2026]] — Assessing Human-AI Collaboration in Design Education: a process-oriented rubric grounded in an extended AI-TPACK framework
-- [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first model of teacher AI readiness and its construct-overlap warning
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Scoping review warning that competence-framework dominance partly reflects search descriptors, not field prevalence
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — 대학 교원을 위한 Intelligent-TPACK 전문성 개발: 차원별 향상, 자각 참여도보다 출석이 더 중요 — AI가 지원하는 CTD-PBL 모듈과 예비 물리 교사의 TPACK 및 협력적 문제 해결 (Chen & Osman 2026)
+- [[human-ai-collaboration-design-education-rubric-2026]] — 확장된 AI-TPACK 틀에 기반한 과정 중심 채점 기준표로 평가하는 디자인 교육에서의 인간-AI 협업
+- [[capability-decision-model-teacher-readiness-2026]] — 교사의 AI 준비도에 관한 역량 우선의 순서적 모형과 그 구성개념 중복에 관한 경고
+- [[digital-competence-ai-responsive-pedagogy-2026]] — 역량 틀의 지배가 분야의 실제 보급보다 검색 서술어를 부분적으로 반영한다는 경고를 담은 범위 검토

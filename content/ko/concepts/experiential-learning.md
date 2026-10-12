@@ -65,8 +65,8 @@ AI 지원 설계 교육에서의 직접 손대는 학습에 관한 동료 검토
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — AI 시대의 스마트 제조를 위한 Workforce Readiness Level 틀
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 체화 지능을 통한 지속 가능한 학습 기르기(E3-HOT)
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — 사이버보안 교육에서의 GenAI
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
+- [[bots-blocks-project-based-robotics-education-2026]] — 프로젝트 기반 로봇공학 교육을 위한 봇과 블록
+- [[edusim-llm-robotic-simulation-education-2026]] — 교육용 LLM 로봇 시뮬레이션 플랫폼(EduSim-LLM)
 - [[white-wu-robotics-ai-education-2026]] — 교육에서의 로봇공학과 AI
 - [[ai-lms-middle-school-longitudinal]] — AI 통합 LMS 종단 연구
 - [[li-ai-science-situated-learning-teachers-2025]]

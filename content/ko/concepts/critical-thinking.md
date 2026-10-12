@@ -96,25 +96,25 @@ ai_assist:
 - [[biology-education]] — 생물 교육과 AI: 실험실 조교, 생물에서의 AI 리터러시, 비판적 사고, 전문 도구
 - [[cognitive-surrender]]
 ## 연결된 문서
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30명 전문가 합의: 비판적 사고가 이 보고서에서 가장 높은 교란 평정을 받는다(평균 4.00)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30명 전문가 합의: 비판적 사고가 이 보고서에서 가장 높은 교란 평정을 받는다(평균 4.00)
 - [[pearls-epistemic-verification-2026]] — 인식론적 주체성과 AI 산출물 검증을 위한 PEARLS 프레임워크(Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — 생성형 AI 지원 글쓰기에서의 층위 민감적 인지적 오프로딩(Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — 생성형 AI 통합 학습에서의 비판적 사고 역설
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+- [[pedagogy-ai-mistakes]] — AI 오류의 교수법: 고차원적 사고 기르기(Hosseini 2026)
+- [[shaw-nave-cognitive-surrender-2026]] — 삼중 계층 이론과 인식적 항복: AI가 인간의 추론을 다시 빚는 방식(Shaw & Nave 2026)
 - [[cognitive-commons-ai-expertise-regeneration]] — 인지적 공동 자원의 비극: AI와 전문성 재생
 - [[zhao-genai-higher-order-thinking-meta-2026]] — 생성형 AI와 고차원적 사고 메타분석
 - [[avraamidou-ai-colonization-science-education]] — 과학교육의 AI 식민화 뒤흔들기
 - [[li-mroziak-reorienting-critical-ai-literacy]] — 비판적 AI 리터러시 재지향
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
+- [[luo-ibl-patterns-llm-bloom-2026]] — LLM 기반 환경에서의 탐구 기반 학습 양상(블룸의 관점)
 - [[probing-ai-generated-physics-solutions-2026]] — AI 생성 물리 풀이를 비판하도록 학생 준비시키기
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
+- [[student-reception-genai-analogies-computing-2026]] — 흠 있지만 기억에 남는다: 컴퓨팅 교육에서 흥미에 맞춘 생성형 AI 유비에 대한 학생의 비판적 수용
+- [[daoism-ai-education-philosophy-2026]] — 대안적 AI 철학: 교육에서의 AI를 위한 방법으로서의 도가주의
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 체화적 지능을 통한 지속 가능한 학습 기르기(E3-HOT)
 - [[ai-overreliance-complex-adaptive-system-2026]] — 복잡 적응 계로서 모형화된 AI 과잉 의존
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — AI 지원 다중양식 쓰기에서의 차원별 비판적 사고 향상(Lu 외 2027)
 - [[lftutor-logical-fallacy-education-2026]] — 구조화된 다중 차례 대화를 통한 오류 인식 가르치기
-- [[caeai-ai-companions-learning-over-performance-2026]] — learning over performance: what companions should be optimized and measured for
+- [[caeai-ai-companions-learning-over-performance-2026]] — 수행이 아닌 학습 우선: 동반자가 무엇에 최적화되고 무엇으로 측정되어야 하는가
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — 메타인지적 자기조절을 통한 AI 스캐폴딩, 오프로딩, 검증 리터러시(Davor 외 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — 생성형 AI 의존이 경영학 학생의 사용-비판적 사고 연결을 묶는다(Shojaei 외 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — 성찰 프롬프트가 틀린 AI 조언의 수용과 귀인 편향을 줄인다(Ren 2026)

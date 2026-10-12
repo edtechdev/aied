@@ -127,13 +127,13 @@ ai_assist:
 
 ## 연결된 문서
 
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI alignment advice: developers recast as technology trainers
-- [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethical dimensions of AI: faculty and student views
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 생성형 AI 정렬 조언에 관한 비판적 담론 분석: 개발자가 기술 트레이너로 재규정됨
+- [[crompton-faculty-technology-integration-standards-2026]] — 기술 통합을 위한 교수 표준(DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — AI의 윤리적 차원: 교수와 학생의 견해
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
-- [[fear-awe-genai-metaphor-workshops-2025]] — Fear and Awe: Making Sense of Generative AI Through Metaphor (faculty/staff/student metaphor workshop)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — 공학계 교수의 은유가 AI 이해를 어떻게 구성하고 제약하는가
+- [[fear-awe-genai-metaphor-workshops-2025]] — Fear and Awe: 은유를 통해 생성형 AI 이해하기(교수·직원·학생 은유 워크숍)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — 보이지 않는 것의 통치: 언어 교사들의 AI 리터러시
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -144,18 +144,18 @@ ai_assist:
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
-- [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — 기술 격차가 아닌 정체성 위기로서의 생성형 AI
+- [[zuo-instructor-power-genai-writing-2026]] — 생성형 AI로 글쓰기를 다루는 대학 교수들이 인식한 권력 관계 (Zuo, Xu & Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — 인지적 매개자로서의 AI: 성찰 삼각형 모형
 - [[sutedjo-faculty-genai-tpack-21-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: attendance predicts gains, self-perceived participation does not — Faculty self-perceived TPACK-21 knowledge for GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — From fear to innovation: a six-week faculty institute, symbiotic pedagogy, and the institutional conditions it could not supply
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt, concealment and career-stage differences among academic staff (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: institutional unpreparedness, thin governance and the 87%/48% policy gap (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators in Global South higher education: development as sociotechnical praxis
-- [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK 교수개발: 출석은 향상을 예측하지만 자기 인식 참여는 예측하지 못함 — 생성형 AI를 위한 교수 자기인식 TPACK-21 지식 (Sutedjo, Chowdhury & Liu 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — 수학에서 교육학 석사(M.Ed.)의 수업 설계 역량을 향상시키는 스마트 교실 모형과 D-T-E 루프 (Zhu et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — AI가 설계한 차등화 집단 활동에서의 역할 구조 (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — GAI에 관한 대학 교수들의 경험과 인식: 취약성, 평가에 대한 재고, 위험에 처한 학생 학습 (Farazouli et al. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — 두려움에서 혁신으로: 6주 교수 연수, 공생 교수법, 그리고 제공하지 못한 제도적 조건
+- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: 학술 직원의 예상 죄의식, 은폐, 경력 단계별 차이 (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 미국 교수 1,057명에 대한 AAC&U/Elon 설문: 제도적 미준비, 취약한 거버넌스, 87%/48% 정책 격차 (Watson & Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 글로벌 사우스 고등교육에서 디지털 매개자로서의 학술 개발자: 사회기술적 실천으로서의 개발
+- [[physics-faculty-learning-community-ai-2026]] — 불확실한 시대에 AI를 효과적으로 활용하기 위한 워크숍 시리즈: 물리학 교수 학습 공동체 구축
 
-- [[faculty-ai-well-being-social-supports-2026]] — Faculty AI well-being tracks AI literacy rather than technological self-efficacy
+- [[faculty-ai-well-being-social-supports-2026]] — 교수의 AI 웰빙은 기술적 자기효능감이 아닌 AI 리터러시를 따름

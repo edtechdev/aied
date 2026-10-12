@@ -131,4 +131,4 @@ ai_assist:
 - [[special-r1-rl-special-education]]
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX로 만드는 수학 접근 가능 물리 영상 필사
 - [[khlaif-assistive-genai-visually-impaired-2026]] — 시각 장애 학습자를 위한 보조적 생성형 AI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 생성형 AI, 가상 현실, 그리고 그 너머: 고등 교육의 신경다양 학생을 위한 디지털 보조 기술에 관한 범위 검토

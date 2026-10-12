@@ -72,7 +72,7 @@ RAG는 [[llm]] 파인튜닝과 보완적 역할을 합니다. 검색은 재훈�
 - [[book-level-synthetic-textbook-organization]]
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
-- [[wiki-llm-indexing-ml-classes-2026]] — Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing
-- [[on-premises-rag-tutoring-business-education-2026]] — On-Premises Multi-Course RAG Tutoring for Business Education
+- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: 이론적 컴퓨터 과학 교육을 위한 검색 증강 생성 — 알고리즘 분석과 복잡도 이론을 위한 종합적 평가 틀
+- [[course-specific-rag-help-seeking-higher-ed-2026]] — 학업 지원의 장벽 낮추기: 고등 교육의 도움 요청 격차를 다루는 강좌 특화 RAG 시스템 평가
+- [[wiki-llm-indexing-ml-classes-2026]] — 위키 LLM 인덱싱을 활용한 기계 학습 강좌의 학습 향상 가능성
+- [[on-premises-rag-tutoring-business-education-2026]] — 비즈니스 교육을 위한 온프레미스 다강좌 RAG 튜터링

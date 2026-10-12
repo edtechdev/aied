@@ -112,5 +112,5 @@ AI는 피드백을 두 방향으로 바꾸어 피드백 리터러시의 중요�
 - [[ai-feedback-ecosystem-higher-education-2026]] — AI가 학생, 교수자, 동료, 자료의 관계를 피드백 생태계 안에서 재편한다 (Bearman et al. 2026)
 - [[ai-feedback-critical-thinking-writing-2026]] — 글쓰기에서의 AI 피드백과 비판적 사고
 - [[repeated-ai-writing-feedback-semester]] — 한 학기에 걸친 반복적 AI 쓰기 피드백
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
+- [[student-perspectives-ai-writing-grading-2026]] — 누가 내 작업을 채점해야 하는가? 고등교육에서 투명한 AI 지원 글쓰기 평가에 대한 학생의 관점
 - [[genai-use-critical-thinking-moderation-2026]] — 생성형 AI 사용에서 비판적 사고로 가는 경로가 생성형 AI 피드백 리터러시를 거치며 성찰적 사고와 함께 강화된다

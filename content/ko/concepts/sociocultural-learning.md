@@ -83,9 +83,9 @@ ZPD(비고츠키)는 [[intelligent-tutoring|AI 튜터링]]에서 가장 널리 �
 
 ## 연결된 문서
 - [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: LLM 기반 학생 발화 측정의 검증
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[golrang-propact-pair-programming-2026]] — Collaborative AI tutoring
-- [[finkelstein-principled-ai-education-2025]] — Principled AI education frameworks
-- [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
+- [[generative-ai-mediational-agent-sociocultural-2026]] — 매개 주체로서의 생성형 AI
+- [[golrang-propact-pair-programming-2026]] — 협력적 AI 튜터링
+- [[finkelstein-principled-ai-education-2025]] — 원칙에 기반한 AI 교육 틀
+- [[stanford-evidence-base-ai-k12-2026]] — K-12에서의 AI를 위한 스탠퍼드 증거 기반
+- [[young-people-learning-generative-ai-rapid-review-2026]] — PreK-12에서의 생성형 AI에 관한 시드니 신속 고찰
+- [[ai-cognitive-partner-co-regulation-learning]] — 인지적 동반자이자 공동 조절자로서의 AI

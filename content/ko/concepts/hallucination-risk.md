@@ -86,4 +86,4 @@ ai_assist:
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: 개념 수준에서 틀린, 유창하고 그럴듯한 설명들(Miličević et al. 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — 숨겨진 프롬프트 주입이 AI 채점 점수를 감지되지 않게 올리고, 탐지된 공격은 보고되지 않는다(Humble 2026)
 
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+- [[authentic-assessments-generative-ai-pilot-2026]] — 생성형 AI와 함께 진정한 평가를 설계하기: 고등 교육에서 Assessment Authentifire의 파일럿 연구

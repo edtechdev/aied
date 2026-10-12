@@ -96,13 +96,13 @@ ai_assist:
 
 ## 연결된 문서
 
-- [[genai-student-experiences-uk-he-survey-2026]] — Student experiences of GenAI in UK higher education
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy (students and institutions)
-- [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK readiness in mathematics teacher education
-- [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
-- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education
-- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing
-- [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[genai-student-experiences-uk-he-survey-2026]] — 영국 고등교육에서의 생성형 AI 경험에 관한 학생 조사
+- [[ai-uk-higher-education-policy-2026]] — 영국 고등교육 정책 속의 AI(학생과 기관)
+- [[ai-campus-wellbeing-tools]] — 캠퍼스 웰빙을 위한 AI 기반 도구
+- [[ai-tpack-mathematics-teacher-education-2026]] — 수학 교사 교육에서의 AI-TPACK 수준
+- [[genai-policies-higher-ed-computing]] — 컴퓨팅 분야의 기관 차원 생성형 AI 정책
+- [[ethical-ai-higher-ed-game-theory]] — 고등교육에서의 윤리적 AI 사용을 위한 협력 게임 틀
+- [[student-rationalization-ai-writing]] — 학문적 글쓰기에서 AI 사용에 대한 학생의 합리화
+- [[ai-changing-teaching-workflows]] — AI가 교수 작업 흐름을 바꾸는 방식
+- [[beyond-hype-stakeholder-perceptions-genai-2026]] — 고등교육에서 생성형 AI에 대한 이해관계자의 인식(Humble & Mozelius 2026)
+- [[edtech-privacy-deferral-2026]] — "나중에 고치면 돼요": 에듀테크에서 교육, AI, 그리고 학생 프라이버시 문제의 미루기

@@ -68,9 +68,9 @@ GBL과 게임화는 함께 [[educational-robotics]], [[student-engagement]], [[m
 - [[ai-game-based-learning-systematic-review-2026]] — AI 지원 게임 기반 학습 연구 55건의 체계적 검토: 긍정적 결과, 얇은 증거 기반
 
 - [[game-based-gamified-robotics-education-review-2026]] — 게임 기반·게임화 로봇공학 교육
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
+- [[remind-robot-mediated-roleplay-antibullying-2026]] — 목격자 개입을 위한 로봇 매개 역할극 게임 (응용 드라마)
+- [[motibo-digital-storytelling-robots-motivation-2026]] — 동기를 위한 로봇 매개 디지털 스토리텔링(MotiBo)
+- [[bots-blocks-project-based-robotics-education-2026]] — 프로젝트 기반 로봇공학 교육을 위한 봇과 블록
 - [[white-wu-robotics-ai-education-2026]] — 교육에서의 로봇공학과 AI
 - [[genai-motivation-engagement-2026]] — 생성형 AI, 동기, 참여
 - [[nasa-tlx-workload-gamified-ai-2026]] — 게임화/AI 조건에 걸친 NASA-TLX 업무량
