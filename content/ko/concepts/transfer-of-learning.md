@@ -1,0 +1,131 @@
+---
+title: 학습의 전이
+created: "2026-05-07T18:02:28-04:00"
+updated: "2026-10-01T09:59:06-04:00"
+type: concept
+foundations: [cognitive-offloading]
+pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
+technology: [intelligent-tutoring]
+level: [k 12]
+confidence: high
+translation_of: concepts/transfer-of-learning
+source_updated: "2026-10-01T09:59:06-04:00"
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-11"
+    agent: hermes-agent
+---
+
+*영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+> **학습의 전이** — 한 맥락(예: AI 도구와의 연습)에서 습득한 지식이나 기술이 다른 맥락(예: 도구 없이 독립적으로 수행하는 것)에서 지속되고 적용되는 정도입니다. [[ai-education|AI in education]]에서 전이는 핵심 미해결 질문입니다: 학생들이 AI 도구와 *함께* 보여주는 수행 능력 향상이 그들 *없이* 입증할 수 있는 지속 가능한 학습으로 번역되는지 여부입니다.
+
+## 생각해 볼 질문들
+
+- 이 페이지가 문서화한 놀라운 패턴이 있습니다: 학생들은 AI 지원 작업에서 종종 즉각적인 향상을 보이지만, AI가 제거되면 그 향상은 사라지거나 — 심지어 역전될 수도 — 있습니다. 설명을 읽기 전에, 순간에 분명히 도움이 되는 도구가 왜 결국 학생을 그것 없이는 더 나쁘게 남길 수 있다고 생각하시나요?
+- 튜터, 계산기, 또는 보조 도구와 함께 배운 것을 기억한 뒤 혼자 해야 했던 적을 떠올려 보십시오. 그 기술이 이어졌나요, 아니면 보조 도구에 의존하고 있다고 느꼈나요? 잘 전이된 경험과 그렇지 않은 경험의 차이는 무엇이었나요?
+- 흔한 직관은 '연습은 연습이다' — 도움을 받아 작업을 수행하는 것이 혼자 수행하는 것과 같은 기술을 구축한다는 것입니다. 특히 그 도움이 당신을 이끌어주기보다 추론을 완성해주는 AI일 때, 그 직관이 어디에서 오도할 수 있을까요?
+- 이 페이지는 기술을 '함께' 사용하는 것의 효과와 그것의 '결과로서 생기는' 효과를 구분합니다 — 도구를 사용하는 동안 더 잘 수행하는 것 대 도구 없이 더 유능해지는 것. 만약 당신이 교수자, 설계자, 또는 학생이라면, 이 둘 중 어느 쪽이 당신의 진짜 목표이며, 그것을 달성했다는 것을 어떻게 알 수 있을까요?
+- 증거는 당신이 위임하는 인지 작업의 양이 중요하다고 제안합니다: 문법 같은 표면 작업을 오프로드하는 것이 깊은 추론과 구조를 오프로드하는 것보다 전이를 덜 해칩니다. AI를 과제에 마지막으로 사용했을 때를 생각해 보십시오. 당신은 어떤 '층'을 위임했으며, 당신의 선택은 당신이 무엇을 유지할지에 대해 무엇을 예측합니까?
+- 이 페이지는 긍정적 전이를 지원할 수 있는 조건들을 제안합니다 — [[pedagogy|교수법적]] [[guardrails]], 지원의 페이딩, 학습자 준비 상태로의 보정. 만약 당신이 AI 학습 도구를 설계한다면(또는 그 사용자라면), 사용 중의 향상이 그것 없이의 지속 가능한 능력이 되도록 무엇을 고집하겠습니까?
+
+## 들어가며
+
+학습의 전이는 교육 [[research-methods-aied|연구]]의 기초적 관심사이며, AI 도구가 그것을 긴박하게 만들었습니다. AI in education 연구 전반에 문서화된 결정적 경험적 패턴은 **전이 역설**입니다: AI를 사용하는 학생들은 AI가 사용 가능한 작업에서 전형적으로 즉각적이고 측정 가능한 향상을 보이지만, AI가 제거되고 학생들이 독립적으로 이해를 입증해야 할 때 그 향상은 종종 지속되지 못하거나 — 심지어 역전됩니다. 이 패턴은 [[cognitive-offloading|과잉 의존(Over-Reliance)]], 인지 부하 이론, 그리고 [[metacognition]]을 작용하는 메커니즘으로 연루시키며, [[intelligent-tutoring|AI 튜터링]] 설계에 대한 논쟁에 직접 연결됩니다.
+
+준비 상태는 전이가 아닙니다: AI 지원 말하기 연습은 말하기 불안 감소와 인간과의 의사소통 의지 증가와 연관되었으나, 두 연구 모두 인간의 말하기를 관찰하지 않아, AI 리허설에서 인간 의사소통 능력으로 가는 경로는 검증되지 않은 교수법적 제안으로 남아 있습니다([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
+
+### 전이 역설
+
+AI를 사용하는 학생들은 AI가 사용 가능한 작업에서 **즉각적이고 측정 가능한 향상**을 보입니다. 그러나 AI가 제거되면:
+
+- 효과가 **혼재되거나 부정적**이 됩니다
+- 향상은 종종 평가되지 않는 환경으로 **전이되지 못합니다**
+- 학생들은 독립적 추론을 희생하면서 **도구에 의존**하게 될 수 있습니다
+
+[[stanford-evidence-base-ai-k12-2026|Stanford Evidence Base on AI in K-12]] 검토에 종합된 근거 자료는 영역 전반에 걸쳐 일관됩니다:
+
+| 연구 | 맥락 | 즉각적 효과 | 전이 효과 | 메커니즘 |
+|---|---|---|---|---|
+| Bastani et al. (2025) | 고등학교 수학 | 더 높은 연습 성적 | 폐서 시험에서 **약 17% 더 나쁨** | 범용 챗봇이 작업을 수행함 |
+| Chen et al. (2025) | 프로그래밍 과제 | 더 높은 과제 점수 | 비지원 시험에서 **향상 없음** | [[llm]]-Tutor가 학생을 위해 문제를 풀었음 |
+| Lehmann et al. (2025) | 프로그래밍 | 더 많은 주제를 다룸 | **이해를 해침**; 격차 확대 | 낮은 사전 지식 학습자를 위한 범용 AI |
+| Stadler et al. (2024) | 학술 연구 | 더 빠른 작업 완료 | 검색 대비 **낮은 품질의 추론** | 감소된 인지적 [[student-engagement|참여]] |
+| Kosmyna et al. (2025) | 에세이 쓰기 | 더 높은 에세이 품질 | **83%가 자신의 인용을 회상하지 못함** | 저자 권위의 외주화 |
+
+다섯 연구 모두 범용 AI가 개입일 때 **부정적이거나 무의미한 전이** 패턴을 보여줍니다.
+
+### 전이를 저해하는 메커니즘
+
+**메타인지적 대체(metacognitive displacement).** AI가 추론을 완성하면 학생들이 자신의 이해를 모니터링하고 전략을 선택할 기회가 줄어듭니다. AI를 사용한 학생들은 질문을 받았을 때 답을 설명하는 능력이 더 낮았습니다. 이것은 자기 모니터링에 관한 [[metacognition]] 연구와 [[vibe-compiler-metacognition-genai-agency-2026|구조화된 과정이 메타인지적 능력을 높이는 반면 원시 LLM 보조 도구는 그렇지 않다는 증거]]에 연결됩니다.
+
+**본유 부하 억제(germane load suppression).** 범용 AI는 외재적(주의를 분산시키는) 인지 부하뿐 아니라 *본유(germane)* 부하 — 지속 가능한 지식을 부호화하는 생산적 정신 노력 — 도 감소시킵니다. 더 쉬운 연습은 더 좋게 느껴지지만 더 약한 흔적을 남깁니다. 인지 부하 이론과 [[stanford-evidence-base-ai-k12-2026|튜터링 특화 AI 대 범용 AI]]의 구분을 참조하십시오.
+
+**과잉 의존 / 전문성 역전.** 답을 받은 초보자는 스키마를 구축하지 않습니다. 범용 AI는 답을 제공합니다; 효과적인 튜터링은 구조화된 안내를 제공합니다. 초보자가 전문가 수준의 지름길을 받으면 학습이 방해됩니다 — [[desirable-difficulties]] 원칙의 역전입니다.
+
+**도구 의존적 수행.** 학생들은 영역 일반화를 구축하기보다 AI 도구의 특정 가능성([[prompt-engineering|프롬프트 엔지니어링]], 생성된 코드 구조에 대한 의존)에 최적화할 수 있습니다 — 생산적으로 느껴지지만 지속 가능한 학습을 대체하는 [[cognitive-offloading-speedup-illusion|인지적 오프로딩]]의 한 형태입니다.
+
+보호된 교실 역시 잘못된 습관을 가르칠 수 있습니다: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]]은 규칙이 사전에 고정된 시뮬레이션이 불확실성을 걸러내고 규칙 따르기를 강화하므로, 그 안에서 형성된 의사결정 습관은 학생들이 실제 환경에서 경쟁하는 이해관계와 불완전한 정보를 만날 때 인지적 부담이 될 수 있다고 경고합니다.
+
+**층 민감적 오프로딩과 전이.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]]는 Salomon, Perkins & Globerson의 "기술과 함께하는 효과 대 기술의 결과로서 생기는 효과" 구분을 [[generative-ai|GenAI]] 지원 글쓰기에서 직접 검증합니다: 8주 준실험에서 개방적 AI 협업은 지원된 글쓰기 수행을 극대화했지만 AI 없는 독립적 근전이(near-transfer) 결과는 *가장 낮았고*, 성찰을 동반한 제한적 지원은 독립적 능력을 보존했습니다. 더 깊은 오프로딩 층(추론, 구조)은 표면 층(문법)보다 더 나쁜 전이를 예측했습니다. 이것은 AI의 *함께하는* 지원 하의 수행 향상이 *결과로서*의 독립적 수행으로 전이되지 않는다는 직접적인 교실 증거이며 — 위임의 깊이가 AI 사용 여부뿐 아니라 전이를 형성한다는 증거입니다.
+
+[[physics-education|물리학]]에서 온 보완적이나 다소 교란된 사례: Ruhr University Bochum의 입문 핵물리학과 입자물리학 과정 재설계([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]])에서 학생들은 AI 도움으로 협업적이고 자료가 풍부한 연구 문제를 성공적으로 완료했지만, 동일한 학생들은 전통적인 무보조 서술 시험에서 80점 만점에 평균 20.6점을 기록했고, 여러 진지한 시도가 표준 계산을 완료하지 못했습니다. 저자들은 이것을 지원된 수행이 촉발되지 않은 수행으로 자동 전이되지 않는다는 증거로 읽으며, 그들의 해결책은 의도적인 설계입니다: 서술 시험을 유일한 성적 결정 요인으로 만들고, 수업 시간이 준비된 토론이 되도록 튜토리얼 문제를 미리 공개하고, 탐색적 AI 허용 작업 주변에 선수 준비, 풀이 제시된 예시, 통합을 추가하는 것입니다.
+
+## 긍정적 전이를 지원하는 조건들
+
+제한된 증거는 다음의 경우 전이가 가능하다고 제안합니다:
+
+- **교수법적 가드레일이 존재할 때** — 단계별 힌트, [[misconceptions|오개념]] 타겟팅, [[socratic-method|소크라테스식 질문]](Bastani et al., 2025 튜터링 변형)
+- **전통적 전략이 보존될 때** — 노트 필기가 AI 사용과 짝지어지면 유지가 향상되었습니다(Kreijkes et al., 2026)
+- **AI가 [[formative-assessment|형성적]]이지 [[summative-assessment|총괄적]]이지 않은 연습에 사용될 때** — 학습 중 스캐폴딩, 평가 중이 아니라
+- **연습 형식이 전이되는 지식과 일치할 때.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]]는 인출 연습 향상이 익숙하지 않은 문제로 전이되는 데 종종 실패하며 — 절차에 대한 기억을 강화할 뿐 새로운 맥락에서의 사용을 가능하게 하지 않는다고 — 발견하고, 새로운 적용으로의 지속 가능한 일반화에는 기술 귀납을 지원하는 풀이 제시된 예시와 연습의 짝짓기가 필요하다고 합니다. 따라서 최적의 예시-문제 비율은 내용이 문자 그대로의 사실인지 일반화 가능한 기술인지에 달려 있습니다.
+- **학습자의 전문성이 보정될 때** — 도구가 완전한 지원으로 기본 설정하기보다 준비 상태에 맞춰 지원을 조정합니다
+- **학습과 지원을 구분하는 기준으로서의 전이.** [[yan-agentivism-learning-theory-ai-2026|Yan과 Gašević (2026)]]은 축소된 지원 하의 전이를 중심으로 인간-AI 학습 이론을 구축합니다: 지원된 수행은 지원이 철회된 뒤에도 능력이 지속될 때만 학습으로 간주되며, 이는 전이를 여러 결과 중 하나가 아니라 검증으로 만듭니다. 그들의 명제는 방향적입니다: AI 지원 작업 중 출처 확인이나 정당화를 요구하면 지연된 수행이 향상되어야 하며, 재구성 없는 반복적 저마찰 위임은 학습자의 자기 능력에 대한 보정을 약화시켜야 한다는 것입니다.
+- **안내가 작업과 같은 장소에 있을 때.** 위 표의 부정적 전이 패턴과 대조적으로, 36명 비교 실험에서 책상 로봇의 도움을 받은 학습자는 도움이 철회된 뒤에도 10점 만점에 7.0점을 유지한 반면, ChatGPT 지원 학습자들은 4.4/10으로 떨어져 단기 전이 점수가 60% 더 높았습니다([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). 이 결과는 작업 후 약 35분에 측정된 단기 전이로, 지연된 유지 검사가 없으며, 한 캠퍼스의 36명 참가자입니다.
+
+이것은 교수법적 가드레일을 갖춘 튜터링 특화 도구가 범용 [[conversational-ai|챗봇]]보다 능가한다는 [[intelligent-tutoring|AI 튜터링]] 연구, 그리고 능력이 성장함에 따라 지원을 페이딩하는 것에 관한 [[scaffolding]] 원칙과 일치합니다.
+
+### 미해결 질문들
+
+1. **시간 규모:** 전이가 몇 주/몇 달의 사용에 따라 향상됩니까, 아니면 의존이 깊어집니까?
+2. **영역 차이:** 잘 구조화된 영역(수학) 대 잘 구조화되지 않은 영역(글쓰기)에서 전이가 더 좋습니까?
+3. **개인차:** 높은 [[prior-knowledge]] 학생들이 초보자보다 전이 손실을 덜 겪습니까?
+4. **기술 교정:** 명시적인 "AI 제외" 연습 세션이 도구 의존을 역전시킬 수 있습니까?
+
+### 관련 개념들과의 연결
+
+학습의 전이는 [[metacognition]](이해의 자기 모니터링), 인지 부하 이론(본유 대 외재적 부하), [[desirable-difficulties]](생산적 투쟁), [[scaffolding]](지원의 페이딩), [[cognitive-offloading|과잉 의존(Over-Reliance)]](도구 의존), 그리고 [[sociocultural-learning]](범용 AI가 학생을 위해 작업을 완성함으로써 ZPD 바깥에서 작동함)에 연결됩니다. 이것은 지원된 수행과 진정한 학습 사이의 다리입니다 — [[stanford-evidence-base-ai-k12-2026]]과 [[intelligent-tutoring|AI 튜터링]] 효과성의 핵심 질문 사이의 구분입니다.
+
+## 연결된 개념
+
+- [[pedagogical-patterns]] — 이 순서들의 대부분이 궁극적으로 판단되는 결과
+- [[metacognition]]
+- [[desirable-difficulties]]
+- [[cognitive-offloading]]
+- [[scaffolding]]
+- [[sociocultural-learning]]
+- [[intelligent-tutoring]]
+- [[k-12]]
+- [[self-regulated-learning]]
+- [[learning-theories]]
+- [[productive-failure]] — 생산적 실패(Productive Failure)
+## 연결된 문서
+- [[yan-agentivism-learning-theory-ai-2026]] — 네 메커니즘과 여섯 개의 검증 가능한 명제를 가진 인간-AI 상호작용을 위한 중범위 학습 이론 (Yan과 Gašević 2026)
+
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI 지원 글쓰기의 층 민감적 인지적 오프로딩 (Chen 2026)
+- [[stanford-evidence-base-ai-k12-2026]]
+- [[educational-llm-alignment]]
+- [[cognitive-offloading-speedup-illusion]]
+- [[vibe-compiler-metacognition-genai-agency-2026]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[young-people-learning-generative-ai-rapid-review-2026]] — 수행-학습 구분과 지속 가능한 전이
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 생산적 실패를 위한 LLM의 교수법적 조종
+- [[rachatasumrit-example-problem-ratio-2026]]
+- [[ai-particle-physics-education-redesign-2026]] — 입자물리학 교육의 AI: 연구 문제와 기초 기술
+- [[shi-genai-experiential-learning-management-education-2026]] — 보호된 교실 시뮬레이션이 그것들의 바깥에서 실패하는 의사결정 습관을 형성할 수 있다고 주장함
+
+- [[ai-speaking-practice-communicative-readiness-2026]] — AI 지원 말하기 연습이 인간에 대한 의지를 높였지만 어떤 연구도 인간의 말하기를 관찰하지 않음
+- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: 책상에서의 기능적 로봇 구현을 통한 증강 학습
