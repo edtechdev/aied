@@ -8,23 +8,23 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "en": {
     "epub": {
       "url": "/aied/aied.epub",
-      "bytes": 2482974
+      "bytes": 2496676
     },
     "pdf": {
       "url": "/aied/aied.pdf",
-      "bytes": 6760587
+      "bytes": 6797608
     },
     "llms": {
       "url": "/aied/llms.txt",
-      "bytes": 1112514
+      "bytes": 1124166
     },
     "llmsConcepts": {
       "url": "/aied/llms-concepts.txt",
-      "bytes": 4840381
+      "bytes": 4860586
     },
     "llmsFull": {
       "url": "/aied/llms-full.txt",
-      "bytes": 17415044
+      "bytes": 17589407
     }
   },
   "es": {
@@ -42,7 +42,7 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.es-concepts.txt",
-      "bytes": 5804824
+      "bytes": 5804903
     }
   },
   "fr": {
@@ -60,7 +60,7 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.fr-concepts.txt",
-      "bytes": 6072489
+      "bytes": 6072549
     }
   },
   "zh": {
@@ -78,7 +78,7 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.zh-concepts.txt",
-      "bytes": 4455603
+      "bytes": 4455578
     }
   },
   "de": {
@@ -96,7 +96,7 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.de-concepts.txt",
-      "bytes": 5513765
+      "bytes": 5513804
     }
   },
   "ja": {
@@ -110,29 +110,29 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llms": {
       "url": "/aied/llms.ja.txt",
-      "bytes": 53888
+      "bytes": 53986
     },
     "llmsConcepts": {
       "url": "/aied/llms.ja-concepts.txt",
-      "bytes": 6121133
+      "bytes": 6121273
     }
   },
   "ko": {
     "epub": {
       "url": "/aied/aied.ko.epub",
-      "bytes": 2881817
+      "bytes": 2881339
     },
     "pdf": {
       "url": "/aied/aied.ko.pdf",
-      "bytes": 8201787
+      "bytes": 8201104
     },
     "llms": {
       "url": "/aied/llms.ko.txt",
-      "bytes": 50272
+      "bytes": 50382
     },
     "llmsConcepts": {
       "url": "/aied/llms.ko-concepts.txt",
-      "bytes": 5572052
+      "bytes": 5572173
     }
   },
   "pt": {
@@ -150,7 +150,25 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.pt-concepts.txt",
-      "bytes": 5572263
+      "bytes": 5572310
+    }
+  },
+  "ar": {
+    "epub": {
+      "url": "/aied/aied.ar.epub",
+      "bytes": 2971117
+    },
+    "pdf": {
+      "url": "/aied/aied.ar.pdf",
+      "bytes": 8413947
+    },
+    "llms": {
+      "url": "/aied/llms.ar.txt",
+      "bytes": 58213
+    },
+    "llmsConcepts": {
+      "url": "/aied/llms.ar-concepts.txt",
+      "bytes": 7269301
     }
   },
   "hi": {
@@ -168,7 +186,7 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.hi-concepts.txt",
-      "bytes": 11097063
+      "bytes": 11097507
     }
   }
 };
