@@ -1,0 +1,111 @@
+---
+title: 보편적 학습 설계
+created: "2026-08-12T21:20:35-04:00"
+updated: "2026-09-30T08:39:04-04:00"
+type: concept
+foundations: [learning-design]
+ethics: [equity-in-ai-education, inclusive-learning]
+connected_faqs: [ai-disabled-neurodivergent-learners]
+audience: [learners]
+level: [special education]
+confidence: high
+translation_of: concepts/universal-design-for-learning
+source_updated: "2026-09-30T08:39:04-04:00"
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-11"
+    agent: hermes-agent
+---
+
+*영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+> **보편적 학습 설계(UDL)** — 개인별로 수정 조치를 소급적으로 덧붙이는 대신, [[student-engagement|참여]], 표상, 행동/표현의 유연한 수단을 선제적으로 내장하여 가장 넓은 범위의 학습자가 접근하고 효과를 누릴 수 있도록 수업을 설계하는 교육 프레임워크입니다.
+
+## 생각해 볼 질문들
+
+- UDL의 핵심 주장은 학습자 다양성이 예외가 아니라 규범이라는 것 — 따라서 애초부터 여러 경로를 설계하고, 고군분투하는 이들을 위해 단일한 경로를 나중에 고치는 것이 아니라 그렇게 해야 한다는 것입니다. 여러분은 '평균적' 학습자를 염두에 두고 설계한 뒤 수정 조치를 나중에 덧붙이는 경향이 있습니까? 그런 기본 접근에서는 무엇이 잃힐 수 있습니까?
+- 빽빽한 텍스트, 강의, 과제를 보여 주는 단 하나의 방식 같은 특정한 형식이 여러분이나 여러분이 가르친 누군가를 배제했던 때를 생각해 보십시오. 그때 문제가 된 것은 UDL의 세 원칙 — 참여, 표상, 행동/표현 — 가운데 어느 것이었으며, 유연한 대안은 어떤 모습이었겠습니까?
+- 생성 AI는 개인화된 예시, 자막, 요약, 그리고 다양한 평가 형식을 만들어 낼 수 있어, 겉보기에는 UDL에 안성맞춤입니다. 하지만 이 페이지는 AI가 편향을 인코딩하고 [[agency|학습자 행위성]]을 줄일 수 있다고 경고합니다. 더 읽기에 앞서, 개인화하도록 만들어진 도구가 어떤 방식으로 어떤 학생들에게는 학습 경로를 넓히는 것이 아니라 *좁히는* 결과로 끝날 수 있겠습니까?
+- 흔한 [[misconceptions|오개념]]은 UDL이 기준을 낮추거나 모두에게 다른 결과를 주는 것을 뜻한다는 것입니다. 같은 학습 결과를 위해 학생이 에세이, 영상, 다이어그램, 코드 가운데 하나로 제출할 수 있는 과제를 생각해 보십시오. 그것은 기준을 낮추는 것입니까, 아니면 같은 능력을 공정하게 평가하는 더 나은 방식입니까? 여러분의 견해를 옹호해 보십시오.
+- UDL은 '학습자를 고치는 것'을 '설계를 고치는 것'으로 바꿉니다. 여러분이 겪었거나 설계했던 좌절스러운 학습 경험 하나를 골라 보십시오. 그 장벽이 학생의 문제가 아니라 설계의 문제였다면, 모두를 위해 그것을 제거하려면 설계의 무엇을 바꾸겠습니까?
+- 이 페이지는 하나의 의사소통 방식을 전제하거나 신경다양성적 표현을 불이익하게 다루는 AI에 반대하여 경고합니다. 여러분이 AI 지원 도구를 사용하거나 설계한다면, '기본값' 스타일이 어디에서 조용히 학습자를 배제할 수 있으며, 그것을 감사하려면 무엇이 필요하겠습니까?
+
+## 들어가며
+
+UDL은 학습자 다양성이 예외가 아니라 규범이라는 통찰 위에 놓여 있습니다. 단일한 경로를 설계하고 고군분투하는 이들을 위한 지원을 덧붙이는 대신, UDL은 애초부터 여러 경로를 설계하여 장벽이 모두에게서 제거되도록 합니다. 이것은 [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]]의 핵심 렌즈입니다.
+
+### 세 가지 원칙
+
+- **참여의 다양한 수단** — 학습의 "왜": 흥미를 자극하고 유지하는 다양한 방식, 관련성과의 연결, 그리고 [[self-regulated-learning|자기 조절]] 지원.
+- **표상의 다양한 수단** — 학습의 "무엇": 모든 학습자가 지각하고 이해할 수 있도록 정보를 다양한 형식(텍스트, 오디오, 시각, 상호작용)으로 제시하는 것.
+- **행동과 표현의 다양한 수단** — 학습의 "어떻게": 학습자가 자신이 아는 것을 보여 줄 다양한 방식(쓰기, 말하기, 만들기, 공연하기)을 제공하는 것.
+
+### AI 시대의 UDL
+
+[[generative-ai|생성 AI]]는 UDL에 새로운 기회와 새로운 위험을 함께 만듭니다. AI는 표상을 개인화하고 대안적 경로를 제공하여 [[personalized-learning]]과 접근성을 뒷받침할 수 있습니다. 하지만 AI는 편향을 인코딩하고, 지배적인 의사소통 방식을 전제하며, 학습자 행위성을 줄일 경우 참여 원칙을 약화시킬 수 있습니다. [[research-methods-aied|연구]]와 [[ai-misuse-learning-harm]] 및 형평성에 관한 연구는 AI 도구가 포용적 원칙으로 설계되지 않으면 [[equity-in-ai-education]] 격차를 재생산한다는 것을 보여 줍니다. 따라서 UDL은 AI가 어떻게 배치되는지와, AI 리터러시와 평가가 학습자 다양성에 걸쳐 공정하도록 어떻게 설계되는지를 함께 알려 줍니다.
+
+설계에 의한 형평성(equity-by-design)은 이 입장을 구현하는 구체적인 방법 가운데 하나입니다. Wenzel, Geiger, Liening(2026)은 사업 [[simulation]] 게임에서 AI [[conversational-ai|대화형 에이전트]]를 위한 CAIS-GBL 프레임워크를 보편적 학습 설계와 조화되는 명시적인 **equity-by-design** 접근법에 근거 지으며, 인지적, [[motivation|동기적]], [[affective-computing|정서적]], [[sociocultural-learning|사회문화적]] 참여에 걸친 메타 요구사항을 도출합니다. 그 설계 원칙과 특징들은 강점, 도전, 흥미에서의 개별 학습자 차이를 다루는 것을 목표로 합니다. 이것은 적응적이고 AI 지원되는 [[game-based-learning|게임 기반 학습]]의 설계에 UDL 원칙을 적용한 구체적인 사례입니다.
+
+AI는 또한 이 문헌에서 UDL의 도구가 아니라 UDL에 대한 장애물로도 나타납니다. 온타리오주 한 대학의 교수 69명을 대상으로 한 [[faculty-accessible-course-design-ai-2026|Sidhu, Atif, Newland(2026)]]의 혼합 방법 연구에서, 네 가지 핵심 주제 가운데 하나는 [[generative-ai|생성 AI]]가 접근 가능한 강의 설계의 진전을 되돌리고 있다는 것입니다. "AI is reducing options I had used"라는 제목 인용구는 그들의 인터뷰에서 나온 것으로, 포용의 일을 해 왔던 과제가 바로 이제 AI가 단번에 완수할 수 있는 것들이기 때문입니다. 그들의 교사 수준 발견은 그 후퇴가 이미 얇은 기반 위에 착륙하는 이유를 보여 줍니다. 응답자의 90%는 자신이 접근 가능한 학습 환경을 만든다고 믿었고, 87%는 자신이 접근성을 적극적으로 고려한다고 답했지만, 절반이 안 되는(46%) 이들만이 대학이 그것을 위한 충분한 자원을 제공한다고 생각했고, 약 5분의 1은 OCR로 읽을 수 있는 PDF나 색상에 독립적인 링크처럼 기초적인 기법을 들어 본 적도 없었습니다. 수요가 제공을 앞서가고 있습니다 — 온타리오 대학 등록생은 2013년부터 2022년까지 17% 늘었지만 접근성 서비스 등록은 126% 증가했습니다 — 따라서 이 연구가 내리는 결론은 AI가 제거한 평가 선택지를 보상하기 위해 UDL 지원에 자원이 배정되어야 한다는 것입니다.
+### Connections
+
+UDL은 [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]], [[learning-design]], 그리고 [[culturally-relevant-pedagogy]]와 연결됩니다. 평가에서 이것은 [[authentic-assessment]]의 표상적 [[bias-mitigation|공정성]] 강조와, 특정한 의사소통 방식을 불이익하게 다루는 도구에 대한 안전장치로서의 [[reducing-ai-misuse]]와 교차합니다. UDL은 고등 교육 장애 맥락에서 가장 흔히 불리는 프레임워크이므로(그곳에서 "special education"은 [[k-12]] 용어입니다), 대학의 장애가 있는 학습자 연구에 연결할 때 종종 올바른 페이지가 됩니다.
+
+## 교수자와 교수 설계자를 위한 시사점과 사례
+
+UDL은 "학습자를 고치는 것"을 "설계를 고치는 것"으로 바꿉니다. AI와 함께 일하는 교수자와 설계자에게 세 원칙은 구체적인 실천으로 옮겨집니다.
+
+**참여 — 동기를 자극하고 유지하는 여러 방법을 제공하라.**
+- 학습자가 어떻게 참여할지 선택하게 하라: 문제 기반, 게임 기반, 토론, 혹은 자기 속도 옵션.
+- AI를 사용하여 관련성을 표면화하라. 단일한 범용 과업이 아니라 개인화된 예시, 실제 세상과의 연결, 혹은 주제 선택권을 제공하라.
+- *사례:* 한 강의는 AI를 사용하여 서로 다른 학습자 흥미(비즈니스, 건강, 예술)와 연결된 다양한 풀이된 예시를 생성하고, 학생들이 자신을 동기부여하는 맥락을 고르게 합니다.
+
+**표상 — 정보를 여러 형식으로 제시하라.**
+- 같은 내용을 텍스트, 오디오, 영상, 상호작용으로 제공하라. AI는 자막, 전사록, 요약, 그리고 다른 읽기 수준의 대안적 설명을 자동 생성할 수 있습니다.
+- *사례:* 한 교수자는 AI 비서를 사용하여 빽빽한 읽기 자료의 평이한 언어 요약본과 오디오 버전을 만들어, 학습자가 자신의 진입점을 고를 수 있게 합니다. 모든 형식이 사용 가능하도록 [[accessibility]](자막, 대체 텍스트)와 짝지으라.
+
+**행동과 표현 — 학습자가 자신이 아는 것을 다양한 방식으로 보이게 하라.**
+- 같은 학습 결과에 맞춰 평가 산출물의 선택권(에세이, 발표, 영상, 다이어그램, 코드)을 제공하라.
+- *사례:* 한 프로젝트는 서면 보고서, AI 지원 영상 설명, 혹은 라이브 시연으로 제출할 수 있게 하며, 각 양식을 AI [[scaffolding|비계]]가 뒷받침합니다. [[assessment]] 설계에서 이것은 [[authentic-assessment]]의 표상적 공정성과 나란히 놓입니다.
+
+**AI 리터러시와 행위성을 위해 설계하라.**
+- 학생들에게 AI를 어떻게, 언제 사용할지 가르치고, 학습자(도구가 아니라)가 책임지게 하는 검사 지점을 만들어라. [[ai-literacy]]와 [[reducing-ai-misuse]]를 참조하라.
+- *사례:* UDL에 맞춘 과제 하나는 학생들이 AI로 초안을 작성할 수 있게 하지만 자신의 기여에 대한 [[metacognition|초인지적]] 성찰을 요구하여, 참여와 행위성 원칙을 보존합니다.
+
+**AI를 사용하여 장벽을 제거하라, 더하지 마라.**
+- AI를 배치하여 수행 격차를 좁히라(예: 멈춤 지점이 있는 AI 분절 영상이 ADHD 학습자를 도왔다). 그리고 접근 가능한 형식의 비용을 낮추라.
+- 하나의 의사소통 방식을 전제하거나 신경다양성적 표현을 불이익하게 다루는 AI에 대비하라. [[accessibility]], [[equity-in-ai-education]], [[neurodiversity]]와 연결하라.
+
+- **기능적 장벽을 목표로 하라, 진단이 아니라.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]]는 신경다양성 학생을 위한 보조 기술의 40개 연구 말뭉치가 수정 조치와 진단에 의해 접근이 제한되는 도구들을 중심으로 조직되어 있다는 것을 발견하고, 학생들이 실제로 마주하는 가로지르는 장벽들을 목표로 설계하는 것이 도구를 그럴듯하게 보편적으로 만드는 것이라고 주장합니다.
+
+## 연결된 개념
+
+- [[inclusive-learning]]
+- [[accessibility]]
+- [[assistive-technology]]
+- [[equity-in-ai-education]]
+- [[special-education]]
+- [[neurodiversity]]
+- [[learning-design]]
+- [[personalized-learning]]
+- [[culturally-relevant-pedagogy]]
+- [[authentic-assessment]]
+- [[student-experience]]
+- [[generative-ai]]
+- [[pedagogy]] — AI 교육에서의 교수법과 교수 전략을 아우르는 우산
+- [[bias-mitigation]]
+- [[reducing-ai-misuse]]
+- [[k-12]]
+
+## 연결된 문서
+
+- [[seung-basham-cognitive-offloading-swld-2026]] — 학습 장애가 있는 학생을 위한 GenAI 인지 외주화
+- [[authentic-products-authenticated-processes-2026]] — 진정한 산출물에서 인증된 과정으로
+- [[tactile-statistical-graphs-accessibility]] — 접근성을 위한 촉각 통계 그래프
+- [[neurodivergent-computing-students]] — 신경다양성 컴퓨팅 전공 학생들
+- [[ai-learning-tools-engineering-education-needs]] — 욕구 및 주의 인식 AI 학습 도구 설계
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 생성 AI, 가상 현실, 그리고 그 너머: 고등 교육의 신경다양성 학생을 위한 디지털 보조 기술의 범위 검토
+- [[faculty-accessible-course-design-ai-2026]] — "AI is reducing options I had used": ChatGPT 세상에서 접근 가능한 강의 설계에 대한 교수 인식 탐구

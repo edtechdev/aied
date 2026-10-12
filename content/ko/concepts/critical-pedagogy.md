@@ -1,0 +1,90 @@
+---
+title: 비판적 교수법
+created: "2026-08-16T09:22:41-04:00"
+updated: "2026-09-30T09:59:35-04:00"
+type: concept
+foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
+pedagogy: [critical-pedagogy]
+ethics: [equity-in-ai-education, ethics]
+confidence: high
+connected_resources: [pressing-prompts]
+translation_of: concepts/critical-pedagogy
+source_updated: "2026-09-30T09:59:35-04:00"
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-11"
+    agent: hermes-agent
+---
+
+*영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+> **비판적 교수법** — 파울루 프레이리의 작업과 헨리 지루와 같은 후대 비판 이론가들에게 뿌리를 둔 교육적 접근으로, 교수와 학습을 본질적으로 정치적인 행위로 다룹니다. 단순히 기술이나 지식을 전달하는 데 그치지 않고, 비판적 교수법은 교육이 누구에게 이익이 되는지, 누구의 지식이 특권을 누리는지, 그리고 학교가 권력과 억압의 체계를 어떻게 재생산하거나 저항하는지를 묻습니다. AI-in-education에서 비판적 교수법은 AI 도입을 형성하는 기업적·자본주의적 논리를 심문하고, 소외된 공동체의 목소리와 인식론을 중심에 두며, [[ai-literacy|AI 리터러시]]를 단순한 기술적 역량이 아니라 저항과 사회 변혁의 실천으로 다룹니다.
+
+## 생각해 볼 질문들
+
+- 여러분의 교육 — 또는 그 안의 AI 도구들 — 은 실제로 누구를 위해 복무합니까? 비판적 교수법은 이 질문이 피할 수 없는 것이지 선택적이지 않다고 주장합니다. 여러분의 솔직한 답은 무엇입니까?
+- 비판적 사고는 '이 추론은 타당한가?'라고 묻습니다. 비판적 교수법은 '이 교육은 누구에게 이익이 되며, 누구의 지식이 인정되는가?'라고 묻습니다. 그 두 질문은 어떻게 다르며, 언제 하나가 다른 하나를 필요로 할까요?
+- 일부 학자들은 생성 AI의 교육으로의 확산을 소외된 공동체로부터 데이터와 노동, 자원을 추출하는 '식민화'의 한 형태로 묘사합니다. 그 틀짓기가 지나친 느낌이 듭니까, 아니면 실재하는 무언가를 이름 붓는 것입니까?
+- 비판적 AI 리터러시는 'AI에 저항하기' — 기술이 해결책이라는 필연성을 거부하기 — 를 포함할 수 있습니다. 어떤 상황에서 전략적 거부나 비사용이 도입보다 더 책임 있는 선택일 수 있을까요?
+- 무엇이 권위 있는 지식으로 인정되는지를 누가 결정합니까? [[ai-technologies|AI 체계]]들이 권위 있는 것으로 자리매김된다면, 학습자 자신의 체험적·공동체적 인식론에는 무슨 일이 벌어집니까?
+- 비판적 교수법 아래에서 교수자는 AI 기술의 중립적 전달자가 아니라 [[learners]]가 AI의 정치를 심문하도록 돕는 촉진자입니다. 그 역할에 대해 여러분은 얼마나 편안하며, 그것은 여러분에게 무엇을 요구할까요?
+
+## 들어가며
+
+비판적 교수법은 [[critical-thinking]]과 구별됩니다. 비판적 사고는 인지 기술입니다. 논증을 평가하고, 가정에 의문을 제기하며, 신중하게 추론하는 것으로, 거의 어떤 틀 안에서도 실천될 수 있습니다. 비판적 교수법은 이와 대조적으로 그 기술들을 권력, 정의, [[equity-in-ai-education|형평성]], 사회 변혁의 질문들과 연결하는 *정치적·[[ethics|윤리]]적 입장*입니다. 지식베이스는 둘을 관련되면서도 구별되는 개념으로 다룹니다. 비판적 사고는 "이 추론은 타당한가?"라고 묻고, 비판적 교수법은 "이 교육은 누구를 위해 복무하며, 누구의 지식이 인정되는가?"라고 묻습니다.
+
+### 비판적 교수법과 AI in education
+
+[[ai-education|AI in education]]은 비판적 교수법에 날카로운 질문들을 제기하며, 지식베이스는 여러 줄기를 기록합니다.
+
+- **교육의 "AI 식민화"에 대한 비판.** 비판적·여성주의 학자들은 [[generative-ai|생성 AI]]가 식민적 착취와 추출의 패턴 — 데이터, 노동, 천연자원의 — 을 반복하는 방식으로 교육을 재형성하고 있으며, 소외된 공동체를 희생하여 권력자를 부유하게 한다고 논합니다.([[avraamidou-ai-colonization-science-education]]) 이 틀짓기는 AI를 중립적인 만능 해결책으로 제시하는 "기술 유토피아" 서사를 거부합니다.
+- **순응에서 인간의 번영으로.** 사회주의-인본주의적 검토는 AI 리터러시를 순응이 아니라 변혁으로 재틀지으며, "AIgemony" — AI가 기업 권력의 비대칭을 강화하는 것 — 과 보이지 않는 인간 라벨링 노동의 "고스트 워크"를 이름 짓고, 소유의 "가짐" 양식에 맞서는 능동적 참여의 "있음" 양식을 촉구합니다([[mechanical-compliance-human-flourishing-ai-literacy-2026|Rose(2026)]]).
+- **여성주의적이며 정의 중심인 AI.** AI에 대한 여성주의적 접근은 이익보다 정의를 우선시하고, 지식의 본질과 소유, AI가 누구에게 이익이 되는지, 체계가 실패할 때 누가 책임지는지에 관한 비판적 질문을 던집니다. 그것은 여성주의 [[pedagogy|교수법]]들 안에 틀지어진 비판적 AI 리터러시를 요구합니다.([[avraamidou-ai-colonization-science-education]])
+- **비판적 리터러시 실천으로서의 AI 저항.** 비판적 AI 리터러시(CAIL)는 "AI에 저항하기" — 지배적 담론의 필연성과 기술만능주의를 거부하고, 대안적 미래를 상상하는 대화적이며 [[collaborative-learning|협력적인]] 교수법들을 통해 집단적 [[agency]]를 기르는 입장 — 를 포괄할 수 있습니다.([[li-mroziak-reorienting-critical-ai-literacy]])
+- **비판적 AI 리터러시 교수법으로서의 [[multimodal]] [[writing-education|작문]].** [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al.(2026)]]은 학생들이 자신이 선택한 AI [[ethics]] 쟁점에 관해 영상 공익 광고를 제작한 교실 단위를 기록합니다. 22명의 11학년 학생들이 감시, [[privacy|데이터 동의]], 알고리즘적 고발을 소리와 이미지, 텍스트, 자신의 몸으로 만든 90초에서 3분짜리 영화로 옮긴 것입니다. 비판적 포스트휴머니스트 리터러시에 의해 틀지어진 이 작업은 그 정치적 입장을 실천 속에서 보여줍니다. 일곱 편의 영화 모두에서 해악은 흉악한 도구가 아니라 뒤얽힌 인간–기계 책임에서 떠올랐고, 학생들은 한 참여자가 청년들이 "어떤 종류의 신빙성도 전혀 지니지 못한다"고 이의를 제기한 가운데서도 [[agency]] — "해결책은 우리 손이 닿는 데에 있습니다" — 로 마무리했습니다. 저자들은 창조적이고 [[collaborative-learning|협력적인]] 작문이 그 자체로 비판적 AI 리터러시의 한 형태이며, 개별적으로 측정 가능한 수행을 가정하는 기존의 AI 리터러시 척도와 역량 틀들이 그것을 체계적으로 배제한다고 논합니다.
+- **인식론적 권위의 재분배.** 공동체 기반 AI 학습은 AI [[student-engagement|활용]]을 학습자의 체험적·공동체적 인식론에 토대를 두게 하여, AI 체계를 권위 있는 지식 원천으로 자리매김하는 것에 도전합니다.([[ojeda-ramirez-community-based-ai-learning]]) 이것은 인식론적 미세 조정, 권위의 재분배, [[situated-learning|상황적]] 분별을 포함합니다.
+- **비판적 참여는 예외이지 규범이 아닙니다.** 루마니아 하급 중등 연구의 42개 교실 에피소드 가운데 15개(35.71%)는 AI 의존적이고 16개(38.10%)는 AI 강화형이어서, AI 비판적인 것은 11개(26.19%)뿐이었습니다. 이것이 해석적 자율성을 위한 [[voicu-ai-interpretive-cognition-ssh-2026|Voicu(2026)]]의 여섯 검사 지점 발달-비판 모델의 동기가 됩니다.
+- **자원 제약 아래에서의 비판적 실천으로서의 디지털 매개.** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole(2026)]]은 남부(Global South)의 탈식민지 인식론과 함께 비판적 디지털 교수법을 남아프리카 역사적으로 불리한 기관들의 [[educational-development|학술 개발]]에 적용합니다. 개발자들이 "가난한 학교에서 온 우리 학생들에게" 그것이 무엇을 의미하는가라는 질문을 통해 기관의 AI 수사를 걸러내는 곳에서 말입니다. 그들의 매개는 촉진이 아니라 개입입니다. 도구를 채택하기보다 심문하고, 무엇을 얻으며 누구의 노동이 사라지는지를 묻고, 맥락을 설계 선호가 아니라 인식론 원칙으로 다룹니다. 저자의 분석적 공헌은 [[digital-divide|디지털 불평등]]을 **알고리즘적 식민성**과 분리하고, AI의 탈식민화를 위한 요구들이 은유적이 아니라 물질적으로 남아야 한다고 — Adams를 따라 — 주장하는 데 있습니다.
+- **상황적이며 문화사적 윤리.** 비판적 접근들은 또한 AI 윤리가 추상적 원리가 아니라 문화사적·생태적 맥락에 토대를 둔 *상황적인* 것이어야 한다고 논합니다.([[raffaghelli-situated-ai-ethics-2026]])
+- **가치 기반 프로젝트로서의 지속가능성.** AI가 교육 지속가능성에 미치는 영향은 고유한 것이 아니라 조건적이고 거버넌스에 매개됩니다. 가치 비판적 분석은 AI가 도입이 명시적 교육 가치에 종속될 때만 지속 가능한 교육을 뒷받침하고, 기술화와 상품화가 그것을 침식할 때는 그것을 훼손한다고 봅니다([[alsuhaymi-sustainable-education-ai-digitalization-2026|Alsuhami & Atallah(2026)]]).
+- **맥락의 지움으로서의 효율 우선 정렬 담론.** [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al.(2026)]]는 Fairclough의 삼차원 모델을 [[generative-ai|생성 AI]]를 건설적 정합성을 위해 사용하도록 고등교육 실무자들에게 조언하는 회색 문헌 14편(2022년 11월–2025년 4월)에 적용하여, 도구가 "교육 전문가이자 조수"로 의인화되고 학술진이 "학문 주제 전문성"을 공급하는 자리에 놓이는 동안 체계가 교수법적 작업을 수행하는 기술만능주의적 담론을 발견합니다. 그 분석은 상황적·학문적·비판적 맥락의 지움을 세 가지 실패 양식 가운데 하나로 이름 짓습니다. 수행성(정렬된 것처럼만 보이는 정렬)과 건설적 차원을 정렬된 차원과 혼동하는 얕은 정렬과 나란히서입니다. 이는 [[learning-design|수업 설계]]에 관한 조언 — 표면상 중립적인 기술 문제인 것 — 이조차도 비판적 교육자들이 다른 곳에서 비판하는 탈정치화 논리를 담고 있음을 보여주는 증거입니다.
+- **설계적 해법만으로는 스스로 충분하지 않습니다.** 가치 민감 설계와 같은 인간 중심 설계 접근들은 불충분합니다. 그것들은 체계적 동인들 — 인력 생산성 틀짓기와 경제적 인센티브 — 을 손대지 않은 채 남겨두며, [[agency]]는 영합적일 수 있어 도구에 넘어간 역량은 학습자가 보유하지 못하는 역량입니다([[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis(2026)]]).
+- **AI 거버넌스를 형성(formation)으로 삼는 시험대로서의 인권 교육.** [[kasa-malksoo-ai-human-rights-education-2026|Kasa-Mälksoo(2026)]]는 법학 프로그램에서 UN의 *about, through, for* 틀을 짚어 나가며, 어려움이 기술이 아니라 교수법에 있음을 짚습니다. 학생들은 다듬어진 서면 작업과 다듬어진 세션 설계를 제출했지만, 그것이 증거로 삼아야 할 참여는 없었고, 가장 비판적인 사고는 수업 담론이 아니라 수업 말의 글에 나타났습니다. 그녀의 결론은 교육자의 역할을 줄이기보다 옮깁니다. [[governance|AI 거버넌스]]는 학생들이 이의 제기하도록 훈련받는 전문적 책임이 되며, [[llm|도구]]는 금지되지 않고 방향이 부여됩니다.
+
+### 교육자의 역할
+
+비판적 교수법 아래에서 교육자들은 AI 기술의 중립적 전달자가 아니라 학습자가 AI의 정치를 심문하도록 돕는 비판적 대화자이자 촉진자입니다. 이것은 지식베이스의 [[teacher-role]]과 [[ai-literacy]] 개념, 그리고 [[equity-in-ai-education]]과 [[reducing-ai-misuse]]에 관한 더 넓은 관심과 연결됩니다. 교육자의 과제는 공동체가 AI를 집단적으로 질문하고, 전유하거나, 거부할 수 있는 공간을 기르는 것입니다. 교육을 상상과 사회 변혁의 장으로 남게 하는 것입니다. [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al.(2026)]]은 그 역할에 실천적 조건을 더합니다. 열린 비판적 AI 리터러시 작업은 교육자가 AI 전문가로서 도착할 것을 요구하지 않으며, 학생과 함께 탐구할 의지만 있으면 됩니다. 하나의 특정 체계에 대한 학생–교수자의 공동 조사와 전자 "외출증"(모두가 AI인 것은 아닙니다)이 [[misconceptions]]을 표면화하고 짚어 나가며 기술 지식을 깊게 했습니다. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar(2026)]]는 그 역할에 구성주의적이며 배려의 윤리를 지닌 형태를 부여합니다. 그들은 [[prompt-engineering|프롬프트 리터러시]]를 기술적 최적화 기술이 아니라 수사적이고 윤리적이며 성찰적인 과정으로 다루며, 그 틀의 마무리 단계는 학생들이 교수자와 함께 개인 AI 사용 정책(Personal AI Use Policy)을 공동 설계하게 합니다. 교실의 AI 사용을 규율하는 규범들이 그것이 규율하는 사람들에게 내려지는 것이 아니라 그들이 직접 저술되게 하는 것입니다.
+
+## 연결된 개념들
+
+- [[critical-thinking]]
+- [[ai-literacy]]
+- [[equity-in-ai-education]]
+- [[culturally-relevant-pedagogy]]
+- [[reducing-ai-misuse]]
+- [[agency]]
+- [[ethics]]
+- [[teacher-role]]
+- [[social-emotional-learning]]
+- [[ai-education]]
+- [[pedagogy]] — 포괄 개념: AI 교육에서의 교수법과 교수 전략
+
+## 연결된 글들
+
+- [[kasa-malksoo-ai-human-rights-education-2026]] — 인권 교육, 성찰적 실천, 전문 형성으로서의 AI 거버넌스 가르치기(Kasa-Mälksoo 2026)
+- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — 비판적 AI 리터러시 교수법으로서의 멀티모달 작문
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 기술만능주의적 GenAI 건설적 정합성 조언에 대한 비판적 담론 분석
+- [[benali-genai-academic-writing-2026]]
+- [[avraamidou-ai-colonization-science-education]] — 과학 교육의 "AI 식민화"에 대한 비판적·여성주의적 비판
+- [[li-mroziak-reorienting-critical-ai-literacy]] — 비판적 AI 리터러시의 공동체에 뿌리둔 실천으로서의 "AI에 저항하기"
+- [[ojeda-ramirez-community-based-ai-learning]] — 공동체 기반 학습을 통한 AI의 인식론적 권위 재분배
+- [[raffaghelli-situated-ai-ethics-2026]] — AI 윤리를 위한 상황적·문화사적·생태적 틀
+- [[voicu-ai-interpretive-cognition-ssh-2026]] — 인문학에서 해석적 인지를 위한 발달-비판 모델
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — 사회주의 인본주의 AI 리터러시 + 공정 이용
+- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 지속 가능한 교육과 AI에 대한 가치 비판적 접근(Alsuhami & Atallah 2026)
+- [[emancipatory-ai-learner-flourishing-2026]] — 학습자의 번영을 향한 생성 AI 설계의 해방적 비전
+- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — 프레이리, 구성주의, 배려의 윤리에 세워진 인간 중심 GenAI 활용 틀
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 남반구의 학술 개발에 적용된 비판적 디지털 교수법과 탈식민지 인식론
