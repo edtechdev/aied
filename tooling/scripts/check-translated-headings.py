@@ -23,7 +23,7 @@ LOCALES = list(content_paths.TRANSLATED)
 # A trailing '## Citation' is legal after the connected lists on a page whose English
 # source carries one (article-style concept pages). These are the localized labels the
 # renderer accepts for it, so a translated '## 引用' is drift, not an invented heading.
-CITATION_LABELS = {'citation', '引用'}
+CITATION_LABELS = {'citation', '引用', '인용', 'cita', 'citação', 'zitation'}
 
 # Kept in step with src/i18n/sectionHeadings.ts by CONNECTED_HEADINGS below; the script
 # parses that module so the two can never disagree.
