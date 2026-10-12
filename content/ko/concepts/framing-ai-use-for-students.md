@@ -102,7 +102,7 @@ ai_assist:
 - [[misconceptions]]
 
 ## 연결된 문서
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - A 30-expert consensus on the sequence: acquire without GenAI, consolidate with it, then think for yourself
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30인 전문가 합의: 순서가 중요합니다 — 먼저 GenAI 없이 습득하고, 다음으로 GenAI와 함께 공고화하고, 그다음에는 자신의 사고를 우선시하십시오
 
 - [[mccorkle-aligned-genai-course-policy-2025]] — 허용되는 것과 허용되지 않는 생성형 AI 사용 각각에 대한 투명한 근거, 과제별로 (McCorkle 2025)
 - [[moral-panic-genai-classroom]] — 방해 요인으로 규탄하기보다는 생성형 AI의 적절한 사용을 장려하는 것

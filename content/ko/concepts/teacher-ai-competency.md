@@ -146,52 +146,52 @@ AI가 일상적인 교수와 평가 과제를 떠맡을수록, 교수자의 고�
 
 ## 연결된 문서
 
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodal assessment literacy: a year-long program where knowledge and competence moved and values did not
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — 다중 양태 평가 리터러시: 1년 프로그램에서 지식과 수행 역량은 향상되었으나 가치는 그렇지 않았다
 - [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: half a standard deviation of gain, and negative gains that read as recalibration — The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK 전문적 개발: 반 표준편차의 향상, 그리고 재보정으로 읽히는 음의 향상 — K-12 교사의 AI 리터러시에 대한 전문적 개발 프로그램의 영향: 체계적 고찰 및 메타분석
 
-- [[ailithub-ai-literacy-case-infrastructure-2026]] — Teachers tagged their own classroom AI cases and reached practical competencies readily but societal and ethical ones rarely (Wang et al. 2026)
-- [[typology-generative-ai-tools-education-2026]] — Tool selection as an exercise of educator agency
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Teacher professional knowledge in K-12 AI education: TAIK vs TPAIK and student learning (Shen et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
-- [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation for teacher professional development (Melo et al. 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Generative AI across representations, decompositions and approximations: rehearsal, structured feedback and the accuracy cautions
-- [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an intensive GenAI professional development program
-- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
-- [[teacher-ai-teaming-five-levels]] — Toward synergistic teacher-AI interactions
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for AI literacy through self-determination theory
-- [[genai-literacy-training-teacher-education-dbr-2026]] — Design-based research GenAI literacy training
-- [[rail-ed-genai-literacy-teacher-education]] — Rethinking GenAI literacy in teacher education
-- [[sec-ai-literacy-narrative-review-2026]] — Integrating social-emotional competencies with AI literacy
-- [[teacher-ai-adoption-confidence]] — AI adoption among teachers: confidence and support
-- [[ai-pedagogical-orientation]] — Faculty orientations shape AI adoption
-- [[ai-literacy-assessment-misalignment]] — Misalignment between self-reported and performance-based AI competency
-- [[quest-ai-inquiry-preservice-teachers]] — AI-supported inquiry for pre-service teachers
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI faculty readiness framework
-- [[llm-cultural-relevance-k12]] — LLMs for culturally relevant K-12 pedagogy
-- [[institutional-change-framework-ai]] — Institutional change framework for AI
-- [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach chatbot for instructor guidance
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
+- [[ailithub-ai-literacy-case-infrastructure-2026]] — 교사들이 자신의 교실 AI 사례에 꼬리표를 달아 실천적 역량은 쉽게 도달했으나 사회적·윤리적 역량은 거의 도달하지 못했다 (Wang et al. 2026)
+- [[typology-generative-ai-tools-education-2026]] — 교수자의 주체성을 행사하는 것으로서의 도구 선택
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — K-12 교수와 학습에서의 생성형 AI에 관한 체계적 고찰 (Marzano 2026)
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — K-12 AI 교육에서의 교수자 전문 지식: TAIK 대 TPAIK와 학생의 학습 (Shen et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — 경험과 AI 활용 능력에 따른 수업 설계에서의 교수자-AI 상호작용 양상 (Choi et al. 2026)
+- [[preservice-teachers-responsible-genai-2026]] — 예비 교사의 책임 있는 GenAI 사용: 교육과정에 대한 함의 (Kohnke et al. 2026)
+- [[melo-llm-classroom-observation-teach-2026]] — 교수자의 전문적 개발을 위한 LLM 교실 관찰 (Melo et al. 2026)
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — 표상, 분해, 근사에 걸친 생성형 AI: 예행연습, 구조화된 피드백, 그리고 정확성에 관한 유의 사항
+- [[genai-pd-ai-pck-learning-gain-2026]] — 집중적인 GenAI 전문적 개발 프로그램의 효과
+- [[ai-tpack-teacher-multi-agent-workflow]] — 교수자의 다중 에이전트 작업 흐름을 통한 AI-TPACK 모형화
+- [[teacher-ai-teaming-five-levels]] — 시너지적 교수자-AI 상호작용을 향하여
+- [[teacher-education-ai-literacy-sdt-2026]] — 자기결정이론을 통한 AI 리터러시를 위한 교사 교육
+- [[genai-literacy-training-teacher-education-dbr-2026]] — 설계 기반 연구에 기반한 GenAI 리터러시 교육
+- [[rail-ed-genai-literacy-teacher-education]] — 교사 교육에서의 GenAI 리터러시 재고
+- [[sec-ai-literacy-narrative-review-2026]] — 사회정서 역량과 AI 리터러시의 통합
+- [[teacher-ai-adoption-confidence]] — 교사 사이의 AI 도입: 자신감과 지원
+- [[ai-pedagogical-orientation]] — 교수진의 지향이 AI 도입을 규정한다
+- [[ai-literacy-assessment-misalignment]] — 자기보고된 역량과 수행 기반 AI 역량 사이의 불일치
+- [[quest-ai-inquiry-preservice-teachers]] — 예비 교사를 위한 AI 지원 탐구
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI 교수진 준비도 프레임워크
+- [[llm-cultural-relevance-k12]] — 문화적으로 적합한 K-12 교수법을 위한 LLM
+- [[institutional-change-framework-ai]] — AI를 위한 기관 변화 프레임워크
+- [[teachingcoach-chatbot-instructor-guidance]] — 교수자의 지도를 위한 TeachingCoach 챗봇
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — 기술의 격차가 아닌 정체성 위기로서의 GenAI
 - [[raffaghelli-situated-ai-ethics-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
-- [[ukraine-ai-literacy-secondary-framework-2026]] — Five-level AI literacy framework + PD for Ukrainian secondary educators (Marienko et al. 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
+- [[guillen-curriculum-genai-teacher-competence-2026]] — GenAI 교육과정 설계를 위한 교수자 디지털 역량 평가 (Guillén-Gámez 2026)
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — 대학 교수자의 AI 개념화에 관한 현상기록학적 연구
+- [[ukraine-ai-literacy-secondary-framework-2026]] — 우크라이나 중등 교육자를 위한 5수준 AI 리터러시 프레임워크 + 전문적 개발 (Marienko et al. 2026)
+- [[wang-teacher-ai-co-design-review-2026]] — 학습 과제의 교수자-AI 공동 설계: 추세와 전망 (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — AI가 설계한 차별화된 모둠 활동에서의 역할 구조 (Talebzadeh 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt and four moral response profiles among academic staff (Vassallo 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — A three-hour teacher PD session raised perceived usefulness and ease of use but not stated intention to adopt (Mesenhöller & Böhme 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Systematic review of AI in pre-service primary mathematics teacher training: ethics addressed in only three of eleven studies (Pinto et al. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: preparedness, non-use and the individual-vs-institutional policy gap (Watson & Rainie 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] — Cross-institutional faculty collaboratory: AI integration as instructional design in teacher preparation
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systematic review of 33 instruments for measuring teacher AI literacy: 31 self-report, two objective knowledge tests, no performance tasks (Zainal, Mohd Matore & Maat 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] — A design-based adaptive AI literacy model and 20-item reflective questionnaire co-designed with 22 teacher educators (Eyal 2025)
-- [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-- [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
-- [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first teacher readiness model with performance-based capability indicators
-- [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national survey of 1,405 K-12 teachers: readiness predicts positive beliefs but not concern
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Four TALIS 2024 teacher belief profiles link professional learning and profile-specific barriers to AI use
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — AI 피드백 품질의 예측 요인으로서의 프롬프트 엔지니어링과 모형 선택 (Jacobsen et al. 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — AI 죄의식 콤플렉스: 학술진 사이의 예기적 죄의식과 네 가지 도덕-정서 반응 프로파일 (Vassallo 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — 3시간 교수자 전문적 개발 세션은 지각된 유용성과 사용 용이성을 높였으나 도입 의향은 높이지 못했다 (Mesenhöller & Böhme 2026)
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — 예비 초등 수학 교사 훈련에서의 AI에 관한 체계적 고찰: 11개 연구 중 3개만이 윤리를 다루었다 (Pinto et al. 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon의 미국 교수진 1,057명 설문: 준비도, 비사용, 그리고 개인 대 기관의 정책 격차 (Watson & Rainie 2026)
+- [[ai-integration-instructional-design-collaboratory-2026]] — 기관 간 교수진 협력체: 교사 준비에서의 교수 설계로서의 AI 통합
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 교수자 AI 리터러시 측정을 위한 33개 도구의 체계적 고찰: 자기보고 31개, 객관적 지식 검사 2개, 수행 기반 과제 0개 (Zainal, Mohd Matore & Maat 2026)
+- [[adaptive-ai-model-teacher-educators-2025]] — 22명의 교사 교육자와 공동 설계한 설계 기반 적응형 AI 리터러시 모형과 20문항 반성 설문지 (Eyal 2025)
+- [[physics-faculty-learning-community-ai-2026]] — 불확실한 시대에 AI를 효과적으로 사용하기 위한 워크숍 시리즈: 물리학과 교수진 학습 공동체 구축
+- [[authentic-assessments-generative-ai-pilot-2026]] — 생성형 AI로 진본 평가 설계하기: 고등교육에서의 평가 진본성 파일럿 연구
+- [[teachers-configure-educational-chatbots-2026]] — 의도대로 가르칠 것인가? 교사들이 교육용 AI 챗봇을 설정하는 방식
+- [[capability-decision-model-teacher-readiness-2026]] — 수행 기반 역량 지표를 갖춘 역량 우선 교수자 준비도 모형
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — K-12 교사 1,405명의 다국 설문: 준비도는 긍정적 믿음을 예측하나 우려는 예측하지 못한다
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — TALIS 2024의 네 가지 교사 믿음 프로파일이 전문적 학습과 프로파일 고유의 장벽을 AI 사용에 연결한다
