@@ -1,0 +1,138 @@
+---
+title: 평가적 판단
+created: "2026-09-10T05:58:00-04:00"
+updated: "2026-09-30T16:25:27-04:00"
+type: concept
+foundations: [academic-integrity, critical-thinking]
+pedagogy: [metacognition, self-regulated-learning]
+assessment: [assessment-validity, feedback, formative-assessment]
+audience: [instructors, learners, assessment designers]
+level: [higher ed]
+confidence: high
+translation_of: concepts/evaluative-judgment
+source_updated: "2026-09-30T16:25:27-04:00"
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-11"
+    agent: hermes-agent
+---
+
+*영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+> **평가적 판단** — 자신의 작업과 타인의 작업의 품질에 대해 암기하는 것이 아니라 추론할 수 있는 기준에 비추어 건전한 판단을 내리는 역량을 말합니다. [[generative-ai|생성형 AI]] 시대에 이것은 바람직한 대학원 속성에서 하중을 떠받치는 역량으로 옮겨갔습니다. 도구가 그럴듯한 완성된 작업을 만들어 낼 수 있을 때, 유능한 학습자를 구분하는 역량은 그 산출물을 감정하는 능력입니다. 무엇이 좋은지, 무엇이 틀렸는지, 무엇을 받아들일지, 무엇을 거부할지, 그리고 왜 그런지를 판단하는 능력입니다. 이로써 평가적 판단은 그 자체로 [[assessment]]의 정당한 대상이 되며, 기관을 [[ai-detection|탐지]]에서 [[assessment-validity|타당성 중심]]이고 [[authentic-assessment|실제적]]인 평가 설계로 옮기는 실천적 전환점이 됩니다.
+
+## 생각해 볼 질문들
+
+- 여러분이 잘 판단할 수 있는 무언가를 떠올려 보십시오. 그 판단을 어떻게 배웠습니까? 명시적으로 가르침을 받았습니까, 만들고 비교하는 과정에서 흡수했습니까? 그리고 그것은 어떻게 평가되어야 하는지를 무엇으로 함축할까요?
+- 루브릭은 기계적으로 적용될 수도 있고 이해될 수도 있습니다. 학생이 기준을 올바로 따르면서도 왜 한 작업이 다른 것보다 나은지 말할 수 없다면, 그 평가가 실제로 측정한 역량은 어느 쪽일까요?
+- [[llm|언어 모델]]이 그럴듯한 해법을 초안으로 작성할 때, 학습자에게 남는 작업은 대체로 판단입니다. 무엇을 유지하고, 무엇을 고치고, 무엇을 버릴지. 그것은 축소된 과제일까요, 아니면 초안을 만드는 것보다 더 요구되는 과제일까요?
+- 학생이 AI 제안을 읽기 좋아서 받아들일 수도 있고, 자신의 검토를 통과해서 받아들일 수도 있습니다. 겉보기에는 제출물이 동일할 수 있습니다. 평가자가 그 차이를 볼 수 있게 하는 것은 무엇일까요?
+- 다기관 실험에서 직접 [[ai-feedback-quality|AI 피드백]]이 가장 큰 수정 이득을 냈으나 판단의 수동적 외주화를 초래할 위험이 있었습니다. 그 절충은 판단을 우회하기보다 기르도록 피드백을 어떻게 설계할지에 대해 무엇을 시사할까요?
+- 동료와 AI 검토는 보정을 훈련할 수 있지만, 둘 다 수행적이 될 수 있습니다. 판단을 행사하는 것이 수행되지 않고 요구되도록 평가를 어떻게 설계하겠습니까?
+
+## 들어가며
+
+학생에게 작업의 산출을 요구하는 평가는 그들이 타인의 작업에서 그리고 결국 자신의 작업에서 좋은 작업을 나쁜 작업과 구별할 수 있다고 전제합니다. 그 전제는 더 이상 믿을 만하지 않습니다. [[generative-ai|생성형 AI]]가 요청에 따라 유능한 산문, 코드, 분석을 만들어 낼 수 있을 때, 산출물을 *만드는* 능력은 학습의 약한 신호인 반면 산출물을 *판단하는* 능력은 강한 신호입니다. 평가적 판단은 그 능력을 이름 짓는 것이며, 이 지식베이스의 평가 연구는 무엇이 평가 가능하고 평가할 만한지 물을 때 줄곧 그에 도달합니다. 이 능력은 [[feedback]], [[formative-assessment]], [[self-regulated-learning]]이 만나는 지점에 있습니다. 판단은 작업을 기준과 비교하고 차이에 행동함으로써 발달하며, AI 산출물과의 진정으로 [[critical-thinking|비판적]]인 [[student-engagement|관여]]를 열망이 아니라 가능하게 만드는 것이기 때문입니다.
+
+## 이 구인이란 무엇인가
+
+평가적 판단은 품질을 감정하는 역량입니다. 자신의 작업, 동료의 작업, 그리고 점점 더 AI 시스템의 작업을, 암기하는 것이 아니라 추론할 수 있는 기준을 사용하여 판단합니다. 세 특징이 이를 인접 개념들과 구분합니다.
+
+- **이는 정확성이 아니라 품질에 관한 것이다.** 올바로 답하려면 지식이 필요하고, 답이 좋은지를 판단하려면 생성기가 학습자를 대신해 제공할 수 없는 기준이 필요합니다.
+- **이는 전달되는 것이 아니라 발달한다.** 판단은 반복되는 비교 행위를 통해 자랍니다. 모범작, 명시적 기준, 동료의 다른 접근법에 대한 비교를 통해 자라며, 이것이 모범작, 보정 연습, [[peer-assessment|동료 평가]]가 그 자연스러운 교수법인 이유입니다.
+- **이는 영역 [[situated-learning|속에 놓인다]].** 이는 한 학문의 증거와 논증 기준 안에서 행사되므로, [[transfer-of-learning|전이]]를 가정할 수 없는 것과 마찬가지로 일반적으로 평가될 수 없습니다.
+
+이는 평가의 진정성과 밀접하지만 더 좁습니다. [[authentic-assessment|실제적 평가]]가 과제가 가치 있는 실제 작업을 닮았는지를 묻는다면, 평가적 판단은 학습자가 좋은 작업을 나쁜 작업과 구별할 수 있는지를 묻습니다. [[self-assessment]]는 학습자 자신의 작업, 역량, 또는 진전을 기준에 비추어 감정하는 반면, 평가적 판단은 그 감정을 동료의 작업과 AI 시스템의 산출물에도 확장합니다.
+
+## 생성형 AI가 그것을 중추로 만든 이유
+
+네 논증이 수렴합니다.
+
+- **산출물이 증거가 되는 것을 멈춘다.** 과제의 완료는 더 이상 그 과제가 인증하도록 설계된 역량을 입증하지 않습니다. 도구가 그것의 상당 부분을 완료할 수 있기 때문입니다. 남는 것은 산출물을 생산하고, 검사하고, 설명하는 추론입니다. 즉 판단입니다.
+- **이는 AI 사용을 지배하는 역량이다.** AI 제안을 받아들이고, 변형하고, 거부할 가치가 있는지를 결정하는 것 *자체가* 기계 산출물에 적용된 평가적 판단입니다. 그것을 가시적으로 만들 수 없는 강좌는 책임 있는 사용과 대체를 구별할 수 없으며, 이것이 [[academic-integrity|정직성]] 연구자들이 비판적 AI 사용을 단속할 규칙이 아니라 평가 가능한 결과로 점점 더 다루는 이유입니다.
+- **이는 단속에서 설계로의 전환점이다.** 금지된 사용이 탐지될 수 없는 곳에서, [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]]는 기관을 [[ai-detection|탐지 주도 단속]]에서 타당성 중심 평가로 옮기는 세 설계 줄기 가운데 하나로 평가적 판단을 기르는 것을 지목합니다. 기관이 탐지할 수 없는 곳에서 검사를 통과하는 역량은 학생이 작업과 그 품질을 설명할 수 있는지이기 때문입니다.
+- **이는 공개를 고백에서 증거로 전환한다.** 과제가 학생에게 무엇에 AI를 사용했는지, 어떤 제안을 받아들이거나 거부했는지, 최종 제출물이 자신의 판단을 어떻게 반영하는지 설명하도록 요구할 때, [[ai-use-disclosure|선언]]은 처벌적으로 해석될 고백이 아니라 판단의 입증이 되어, 이것이 공개를 지하로 몰아넣는 [[academic-integrity|정직의 대가]]를 낮춥니다.
+
+판단의 *출처*가 내용만이 아니라 별개의 층위를 이룹니다. [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]]는 그 층위에 더 예리한 어휘를 부여합니다. 그의 13명의 사우디 컴퓨팅 학생들은 하나의 평가 사건 안에서 두 개의 독립적 판단을 내렸습니다. 피드백이 유용했는지, 그리고 그 출처가 채점할 권위를 지녔는지. 그들은 모두 ChatGPT의 루브릭 기반 피드백을 명확하고 구체적이라고 받아들이면서도 채점은 압도적으로 교수자에게 유보했습니다("동의합니다, 단 하나의 조건으로, 박사님께서 그 피드백을 확인하신다면"). 이는 AI가 매개하는 평가에서 평가적 판단이 이제 받은 피드백의 품질에 관한 것만이 아니라 평가 권위 자체에 관한 추론을 포함해야 함을 시사합니다.
+
+[[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]]는 이 구인에 정직성 문헌에서 가장 강한 위치를 부여합니다. Eaton의 (2023) 포스트표절 틀을 [[ethics|윤리]]적 지향에서 평가 설계로 확장하며, 그는 [[academic-integrity|정직성]]의 탐지 및 검증 기반 모델이 인간 판단과 기계 생성이 뒤엉킨 작업과 어긋나 있다고 주장하고, 정직성을 평가적 판단을 통해 실천되는 교수법적 실행으로 재규정합니다. 학습자가 선택을 저울질하고, 학문적 선택을 정당화하며, 인식론적 불확실성 아래 책임을 지는 역량입니다. 그의 네 실행(주석이 달린 결정의 흔적, 검증과 책임 귀속, 구두 변론과 대화적 책임 귀속, 버전 기록이 있는 초안 차이)은 그 판단을 결과물에서 추론하는 것이 아니라 증거로 가시화하며, 그는 판단을 그것이 흔히 혼동되는 구인들과 분리합니다. 성찰적 실행은 자신의 사고를 사후에 고려하는 것이고, [[metacognition]]은 인지 과정의 인식과 조절인 반면, 판단은 선택을 기준에 대해 평가하고 불확실성 아래 결과를 받아들입니다. 그는 또한 이 페이지가 추적하는 실패 양상에도 이름을 붙입니다. 문서화된 추론을 요구하는 것은 "하나의 순응 체제를 다른 것으로 대체하는" 위험을 지니며, 증거로서의 판단은 "기계적으로 검증 가능한 것이 아니라 관계적이고 상황에 놓인 채로 남는다"는 것입니다.
+
+## 증거: 판단이 어떻게 발달하고, AI가 그것에 무엇을 하는가
+
+이 지식베이스의 [[collaborative-learning|협력]] 및 평가 문헌은 평가적 판단이 *배울 수 있고*, *대체될 수 있으며*, *설계할 수 있다*는 수렴하는 증거를 제공하며 — 그리고 AI가 양쪽 모두로 작용함을 보입니다.
+
+- **비교 기반 훈련은 그것을 측정 가능하게 기른다.** 예비 [[teacher-role|교사]] 28명을 대상으로 한 14주 연구에서, [[ai-internal-feedback-evaluative-judgments|AI가 생성한 강한, 보통, 약한 모범작]]이 학생의 초안을 기준점에 비추어 반복 비교하는 것을 닻으로 삼았습니다. 평가 초점은 표면적 언어 특징에서 내용, 구성, 정합으로 확장되었으나 — 추론은 얇게 남아, 예시 기반 정당화는 두 배로 늘었지만 가장 정교한 비교적 추론은 드물게 남았습니다. 판단은 스캐폴딩으로 존재하도록 만들 수 있습니다. 요구하면 나타나지 않으며, 기준점의 품질이 중요합니다.
+- **피드백 설계가 주체성이 살아남는지를 결정한다.** 48개 분반에 걸친 1학년 학부생 1,176명을 대상으로 한 다기관 군집 무작위 현장 실험에서, 과학 논증을 위해 네 가지 피드백 조건을 [[genai-feedback-design-multisite-experiment|비교했습니다]]. 동료 단독, 직접 생성형 AI, 성찰적 생성형 AI(자기 평가 후 비평), 혼합(자기 평가 + 동료 + 생성형 AI). **혼합 조건이 가장 큰 논증 품질 이득을 냈고**; 직접 생성형 AI 피드백은 수동적 수용의 위험이 있었습니다 — 학생이 평가적 판단을 시스템에 외주화하는 것 — 반면 성찰적 설계와 혼합 설계는 학생이 먼저 자신의 작업을 평가하도록 강제하여 [[agency|인식론적 주체성]]을 보존했습니다. 저자들의 핵심 발견은 생성형 AI의 교육적 가치가 AI 접근성보다 수정 과정에서 주체성, 판단, 소유권을 보존하는지에 더 많이 의존한다는 것입니다.
+
+- **피드백 출처가 어떤 판단 차원이 발달하는지를 형성한다.** 박사 통계 사례 연구에서, ChatGPT-4o는 절차적 안내를 주었으나 잘못된 데이터 파일이나 잘못 적용된 검사를 표시할 수 없었고, 동료와의 대화는 잘못된 데이터를 실시간으로 잡아내어 방법 선택의 정당화를 요구했습니다([[chatgpt-peer-feedback-evaluative-judgement-2025|Xie et al. (2025)]]).
+- **구조화된 동료-AI 검토가 보정을 확장한다.** PAIRR 모델 [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]]는 동료 검토와 AI 검토, 구조화된 성찰을 결합하며, 지금까지 AI 피드백을 사용하는 학생에 대한 가장 큰 연구에서 시험되었습니다(학생 654명, 글쓰기 강좌 10개). 이는 자신의 판단, 동료의 판단, AI의 판단 사이의 *비교*를 훈련장으로 삼아, 평가적 판단을 암묵적 부산물이 아니라 명시적 학습 결과로 위치시킵니다.
+- **AI 피드백은 리터러시가 이미 있을 때만 돕는다.** 피드백 리터러시 연구자들의 개념 틀 [[zhan-boud-dawson-genai-feedback-engagement|(Boud, Dawson & Yan)]]은 피드백을 이끌어냄, 처리, 실행으로 분석하며, ChatGPT와 함께한 IELTS의 대비되는 두 사례를 사용합니다. [[feedback-literacy|피드백 리터러시]]가 낮은 학생은 모호한 프롬프트를 써서 일반적인 산출물을 받고 그것을 신뢰하거나 지나치게 베꼈고, 리터러시를 갖춘 학생은 AI를 비판적으로 사용하여 배웠습니다. 생성형 AI는 피드백을 구하는 인지적·정서적 장벽을 낮추지만, 그 자신도 환각되거나 편향되거나 일반적일 수 있습니다. 이것이 [[teacher-role|교수자]]가 [[prompt-engineering|프롬프트]]뿐 아니라 평가적 계획을 모범을 보이고 판단을 훈련해야 한다고 주장되는 이유입니다.
+- **지속 가능한 판단이지 순간적인 피드백이 격차다.** 실제적 평가에 대한 [[meta-analysis-systematic-review|범위 검토]] [[zhan-boud-du-authentic-assessment-scoping-review-2025|(Zhan, Boud & Du)]]는 AI 형성 피드백은 풍부하지만 **지속 가능한 피드백** — 미래 맥락으로 전이 가능한 것 — 은 23개의 형성 연구 가운데 4개에만 나타남을 발견했습니다. 현재 과제를 닫으면서 학습자가 미래의 작업을 판단할 수 없게 남겨두는 피드백은, 평가적 판단의 실패를 가장 명료한 형태로 보여줍니다.
+- **생성된 초안을 비평하는 것이 교육자들의 판단을 길렀다.** [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]]는 여덟 명의 강좌 코디네이터가 GPT-4.1 도구가 생성한 루브릭과 일정을 학문적 기준에 비추어 비평하면서 평가 리터러시가 자랐음을 발견하고, 여덟 명 모두가 처음부터 끝까지의 자동화를 거부했습니다 — 도구가 학문적 판단을 대체하는 것이 아니라 강화했습니다.
+- **평가는 산출물이 아니라 판단에 보상하도록 설계될 수 있다.** [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|응답 영역 모델]]은 왜 그런지를 정형화합니다. 재설계는 숨겨진 외주화에서 오는 보수를 낮추고 가시적 추론, 설명, 비평의 가치를 높입니다. 어떤 AI 제안을 받아들이고 거부했는지 학생에게 설명하게 하면, 그 결정 자체가 평가 가능한 증거가 됩니다.
+- **기관 자신의 판단은 학생에게 요구하는 기준을 결여하고 있다.** [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]]는 1,162건의 생성형 AI 부정행위 혐의에 걸친 증거 항목 1,855개의 입증 가치를 평가하고, 증거 품질과 사건 결과 사이에 신뢰할 만한 관계가 없음을 발견했습니다. 절차의 어느 단계도 최소 입증 기준을 설정하거나 조사관이 혐의를 진행하기 전에 입증 가치를 저울질하도록 요구하지 않았고, 패널은 비구조화된 전문적 판단을 통해 증거를 저울질했습니다. 탐지기 산출물은 그 자료 집합에서 가장 약한 범주였고(독립적인 탐지기 산출물은 전적으로 신뢰성이 낮았고), [[hadra-ai-detector-accuracy-efl-2026|Hadra et al. (2026)]]는 그 도구가 자신의 발견이 단정하는 사실을 확립할 수 없음을 보입니다 — 192개 텍스트에 걸친 거시 정확도 0.69와 0.61, 인간-AI 혼합 글쓰기에 대한 거의 전면적 실패, EFL 작가에 대한 경계선상의 편향 우려 — 이것이 저자들 자신의 권고가 감시가 아니라 인간 판단, 더 명확한 [[educational-policy-ai|정책]], 더 잘 특정된 과제인 이유입니다. 잘 특정되는 것은 두 가지로 중요합니다. [[wright-transcription-not-generation-2026|Wright (2026)]]는 플랫폼 정체성이 아니라 기능으로 쓰인 규칙은 정의적 우연에 의해 과도하게 포괄적이라고 주장하며, 그 규칙이 막으려 설계한 일을 하지 않은 학생을 제재하므로, 평가자의 판단은 어느 플랫폼이 사용되었는지가 아니라 도구가 무엇을 했는지에 적용되어야 합니다. 공유된 기준 없이 행사된 판단은 가르치거나, 보정하거나, 감사할 수 없습니다. 이 페이지가 학생에 대해 보고하는 일관성 문제가 기관의 층위에 도달하는 것입니다. 평가자의 판단은 또한 그 자체로 측정 가능한 방향을 지닙니다. 입학 사정관 다섯 명이 인간 에세이 50편과 AI 에세이 50편을 구별하여 AUC 0.70(95% CI [0.65, 0.75])에 도달했고, 지각된 AI 가능성이 높아질수록 그들의 품질 평정은 낮아졌으며, 이 연관성은 기계 평정 품질, 실제 입증된 출처, 지원자의 특성을 보정한 뒤에도 살아남았고(−0.109, p < .05), 아무도 제출물을 선별하지 않았으므로 보조 없는 그 판단이 전부의 단속 메커니즘이었으며,표시된 에세이 각각은 입학 확률을 1.5퍼센트포인트 낮추고, 에세이 품질을 고정하면 2.6만큼 낮추었습니다([[ai-written-admissions-essays-penalized-2026|Isley, Gaebler and Goel 2026]]).
+- **강의실 층위의 판단 대리 지표가 제안되고 있다.** [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]]는 재설계된 과제 순서에 두 행동 신호를 더합니다. 학습자가 질문하고, 도전하고, 수정하는 AI 산출물의 비율인 UnBlooms™ *Discernment Rate*와 *First-Pass Acceptance Rate*. 둘 다 타당화되지 않았습니다 — 둘 다 값싼 과제별 진단 도구로 제시됩니다 — 그러나 이들은 그 구인을 일상적 채점 안에서 관찰 가능하게 만들어, 여러 과제에 걸친 거의 0에 가까운 판별률이 개인의 결핍이 아니라 과제 설계 신호로 읽히게 합니다.
+
+## 오용이 판단을 대체하는 방식
+
+가장 명료한 위험은 대체이며, 이는 피드백 문헌에서 입증되었고 단순히 이론화된 것이 아닙니다. 도구가 루브릭과 피드백과 모니터링을 모두 제공할 때, 학습자의 [[metacognition|메타인지]]적이고 평가적인 실행은 지원되는 것이 아니라 대체됩니다. 평가는 학생이 결코 행사하지 않은 판단의 수행이 되며, 이는 [[cognitive-offloading|인지적 외주화]]가 평가의 용어로 표현된 같은 실패 양상입니다. 다기관 실험의 직접 생성형 AI 피드백은 바로 이 수동적 외주화 쪽으로 밀었습니다. 채점 압박이 그것을 더합니다. 자기 평가나 AI 사용에 대한 성찰 자체가 채점되는 곳에서는 학생이 루브릭이 원하는 성찰을 만들어 낼 수 있어, 진정한 판단은 그 행위를 결과가 있게 만드는 것을 요구합니다. 이후의 작업에서 드러나는 결정, 구두 설명, 또는 그 자체로 검토되는 문서화된 근거가 그것입니다.
+
+## 실천을 위한 함의
+
+- **그것을 결과로 명시하십시오.** AI 산출물을 포함한 작업 품질을 감정하는 것이 중요하다면, 그것을 과제의 부산물로 남겨두지 말고 [[learning-gains|학습 결과]]에 쓰고 평가하십시오.
+- **산출물만이 아니라 결정을 평가하십시오.** 무엇을 유지하고, 바꾸고, 거부했는지 학생에게 정당화하게 하십시오. 이것은 사고를 증거로 전환하고 감시 없이 대체를 가시화합니다.
+- **판단의 일과에 이름을 붙이십시오.** O'Byrne의 Agency Check — Credible, Relevant, Acceptable, Nuanced — 는 산출물이 정확하고, 적합하며, 사용 가능하며, 태도와 목소리를 지녔는지를 묻습니다. 한 학기에 걸친 연구에서 가장 판단력 있고 가장 판단력 없는 학생들의 최종 산출물은 속이도록 비슷해 보였습니다([[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne, 2026]]).
+- **모범작과 보정을 의도적으로 사용하십시오.** 강하고, 보통이고, 약한 모범작에 대한 비교적 판단은 증거가 뒷받침하는 메커니즘이며, AI는 그러한 모범작을 만드는 것을 값싸게 합니다. 이것이 AI의 가장 명료한 [[pedagogy|pedagogical]] 용도 가운데 하나입니다.
+- **직접 산출물보다 혼합과 성찰적 피드백을 우선하십시오.** AI 비평에 앞선 자기 평가, 또는 자기 + 동료 + AI는 직접 AI 피드백이 잠식하는 [[agency]]를 보존합니다. 도구를 더하는 것이 아니라 피드백 환경을 설계하십시오.
+- **순간적인 수정이 아니라 지속 가능한 판단을 향해 기르십시오.** 다음 과제로 전이될 수 없는 피드백은 지속 가능한 것을 아무것도 훈련하지 않습니다.
+- **그것을 과정과 구두와 짝지으십시오.** 과정 산출물과 짧은 구두 설명은 최종 산출물이 할 수 없는 곳에서 판단을 행동 속에서 보여주며, 이것이 AI 시대의 평가 재설계가 그것에 의존하는 핵심 이유입니다.
+
+- **이해 부채 탐구로 유지된 판단을 가시화하십시오.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]]는 AI 통합의 모든 층위에서 유지된 역량을 가시화하는 네 가지 가로지르는 의무 — 설명하고, 검증하고, 수정하고, 설명을 제공하는 것 — 를 정의하며, 산출물과 나중에 입증될 수 있는 것을 비교하는 탐구로서 지연된 변경 요청, 코드 설명, 독립적으로 설계된 검사, 결함 위치 파악, 실시간 디버깅을 제안합니다. [[agentic-ai|agentic]] 역량 아래에서 평가 대상은 감독으로 옮아갑니다. 과제 계약, 권한 경계, 샌드박스, 평가 하네스, diff 검토, 롤백, 인간의 책임 귀속입니다. 이는 평가를 가시적 저작에서 가시적 판단으로 옮깁니다.
+
+## 연결된 개념
+
+- [[pedagogical-patterns]] — 학생이 이 순서들 안에서 AI 산출물에 대해 수행하는 감정 단계
+- [[ai-education]] — 교육에서의 인공지능(상위 개념)
+- [[assessment-validity]]
+- [[feedback]]
+- [[feedback-literacy]]
+- [[formative-assessment]]
+- [[self-assessment]]
+- [[authentic-assessment]]
+- [[academic-integrity]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[critical-thinking]]
+- [[assessment]]
+- [[ai-detection]]
+- [[agency]]
+- [[higher-ed]]
+
+## 연결된 문서
+
+- [[chatgpt-peer-feedback-evaluative-judgement-2025]] — 평가적 판단의 다른 차원을 기르는 훈련장으로서의 ChatGPT 대 동료 피드백
+- [[ai-internal-feedback-evaluative-judgments]] — AI 지원 내부 피드백이 평가적 판단을 어떻게 발달시키며, 추론이 어디서 얇게 남는가
+- [[genai-feedback-design-multisite-experiment]] — 혼합 자기/동료/AI 피드백이 직접 AI 피드백보다 주체성과 판단을 더 잘 보존한다
+- [[pairr-ai-peer-review-2025]] — 규모에서의 보정으로서의 구조화된 성찰을 곁들인 동료-AI 검토
+- [[zhan-boud-dawson-genai-feedback-engagement]] — 피드백 리터러시가 AI 피드백이 가르치는지 대체하는지를 지배하는 방식
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — AI 피드백의 지속 가능성 격차
+- [[teichmann-detecting-undetectable-misconduct-2026]] — 탐지 주도 단속을 대체하는 설계 줄기 가운데 하나로서의 평가적 판단
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — 가시적 추론과 판단을 루브릭이 보상하는 대상으로 만들기
+- [[learner-centered-feedback-ai]] — AI 피드백 도구와 함께하는 교수자의 평가적 판단
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: 단속이 아니라 재설계된 진정성
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
+- [[du-yuan-epistemic-dependence-2026]] — Contestability, recoverability, and the criteria separating reliance from dependence
+- [[rethinking-ai-writing-feedback-literacy]] — AI 지원 글쓰기를 위한 피드백 리터러시
+- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
+- [[sharma-judgment-visible-genai-assessment-2026]] — 정직성의 평가적 핵심으로서의 판단: 주석이 달린 결정의 흔적, 구두 변론, 버전 기록 (Sharma 2026)
+- [[munoz-misconduct-allegation-evidence-2026]] — 공동화된 기준 없이 증거를 저울질하는 패널들: 기관 자신의 판단 문제 (Munoz et al. 2026)
+- [[hadra-ai-detector-accuracy-efl-2026]] — 탐지기의 부정확성과 혼합 글쓰기 실패: 판결 대신 권고된 대안으로서의 인간 판단 (Hadra et al. 2026)
+- [[wright-transcription-not-generation-2026]] — Function, not platform: judging what a tool did rather than what it is (Wright 2026)
+- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms and the Discernment Rate: grading the reasoning trail behind AI-assisted work (Austin 2026)
+- [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
+- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — the Agency Check (credible, relevant, acceptable, nuanced) that structures each AI interaction
+- [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education

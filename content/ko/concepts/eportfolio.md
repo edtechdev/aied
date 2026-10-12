@@ -1,0 +1,76 @@
+---
+title: e-포트폴리오
+created: "2026-08-20T09:00:00-04:00"
+updated: "2026-09-26T07:13:32-04:00"
+type: concept
+pedagogy: [student-engagement]
+technology: [generative-ai]
+assessment: [assessment, authentic-assessment, automated-assessment, feedback, formative-assessment, process-oriented-assessment]
+discipline: [language learning]
+level: [higher ed]
+confidence: high
+translation_of: concepts/eportfolio
+source_updated: "2026-09-26T07:13:32-04:00"
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-11"
+    agent: hermes-agent
+---
+
+*영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+> **e-포트폴리오(e-portfolio)** — 학습자의 작업, 성찰, 성취의 증거를 모은 디지털 컬렉션으로, [[assessment]], 학습, 평가에 사용됩니다. AI 시대에 e-포트폴리오는 상대적으로 **AI에 강인하고 AI의 지원을 받는** 평가 형태로 부상했습니다. 최종 결과물이 아니라 학습의 *과정*(추론, 초안 작성, 성찰)을 포착하여 결과물을 대리물로 삼는 관행이 붕괴하는 상황에서 가치를 지니며, [[generative-ai|생성형 AI]]가 그 작성, [[feedback]], 평가를 지원할 수 있습니다.
+
+## 생각해 볼 질문들
+
+- e-포트폴리오는 학습의 과정 — 초안, 수정, 성찰 — 을 최종 결과물만이 아니라 포착합니다. 왜 과정이야말로 AI가 쉽게 위조할 수 없는 것이며, 이것은 AI가 만연한 교실에서 포트폴리오를 무엇에 좋게 만들까요?
+- AI가 요청에 따라 다듬어진 최종 산출물을 만들어 낼 수 있는 상황에서, 학습의 대리물로서 '결과물'은 붕괴했습니다. 평가자가 단 한 편의 제출된 에세이나 시험에서 더는 신뢰할 수 없는 것을 포트폴리오에서 배울 수 있다면, 그것은 무엇일까요?
+- 일부 연구는 추론을 실시간으로 탐구하기 위해 주석이 달린 포트폴리오, 구두 변론, 녹화된 설명을 권하며, 전문가의 실행을 반영합니다. 그것이 여러분이 치러 온 에세이와 시험과 얼마나 다른 평가가 될까요? 그리고 더 공정할까요, 확장하기 더 어려울까요?
+- AI가 포트폴리오 과정 자체를 지원할 수 있습니다. 피드백을 주고, 초안 작성을 돕고, 성찰을 촉진합니다. AI가 학생의 학습을 진정으로 돕는 것과, 포트폴리오가 드러내고자 한 사고를 AI가 조용히 대신하는 것 사이의 경계는 어디일까요?
+
+## 들어가며
+
+e-포트폴리오는 [[authentic-assessment|실제적 평가]]이자 [[formative-assessment|형성 평가]]의 한 형태입니다. 종종 성찰적 논평을 곁들여 학생의 작업을 시간에 걸쳐 모아 전체적으로 평가할 수 있는 증거의 집합을 이룹니다. 그 강점은 학습의 *과정* — 초안, 수정, 피드백, 자기 성찰 — 을 드러낸다는 데 있으며, 이것은 AI가 쉽게 위조할 수 없고 평가자가 진정한 학습을 평가하는 데 필요한 것입니다. 이로써 포트폴리오는 생성형 AI 시대의 평가 재설계를 이끄는 주요 후보가 됩니다.
+
+## AI 시대의 e-포트폴리오
+
+지식베이스의 연구는 e-포트폴리오가 생산적인 AI 통합과 평가 재설계의 중심으로 점점 더 자리 잡고 있음을 보여줍니다.
+
+- **포트폴리오 평가는 생성형 AI에 상대적으로 강인하다.** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud & Du (2025)]]는 **사회적 기여 포트폴리오**와 감사 가능한 출처 연쇄를 지닌 공동 창작 결과물을 생성형 AI에 가장 강인한 실제적 평가 형태로 지목합니다. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection (2025)]] 역시 전문가의 실행을 반영하여 추론을 실시간으로 탐구하기 위한 **주석이 달린 포트폴리오 / 구두 변론 / 녹화된 설명**을 권합니다.
+- **AI 지원 포트폴리오 평가.** [[ni-lam-multiliteracies-ai-portfolio-2026|Ni & Lam (2026)]]는 다중 리터러시 발달을 위한 **AI 지원 포트폴리오 평가**에 대한 학생의 인식을 연구하며, AI가 포트폴리오 *과정*(피드백, 초안 작성, 성찰)을 지원하고 학생이 AI 피드백을 비판적으로 평가하는 가운데 관여를 높일 수 있음을 보입니다.
+- **언어 학습을 위한 ChatGPT + e-포트폴리오.** [[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]]는 EFL 말하기를 위해 ChatGPT를 e-포트폴리오 평가(CEA 모델)와 결합합니다. MANOVA에서 말하기 수행의 유의미한 향상(F(1)=48.554, p<.001)과 [[feedback-literacy|피드백 리터러시]]의 향상(F(1)=16.135, p<.001)이 나타났으며, e-포트폴리오가 말하기 능력과 피드백을 효과적으로 사용하는 메타인지 능력을 함께 뒷받침했습니다.
+- **AI 시대의 평가 전략으로서의 포트폴리오.** [[responsible-assessment-ai-era-stanford-2026|Responsible assessment (2026)]]는 일회성 시험에서 **포트폴리오를 활용한 지속적 내재 평가**와 역량 기반 접근으로의 전환을 주장합니다. [[pbl-structural-conditions-ai-2026|Rowe (2026)]]는 결과물을 대리물로 삼는 관행이 무너진 상황에서 대규모 평가라는 미해결 문제에 대한 부분적 답으로 포트폴리오(구두와 관찰된 실행과 함께)를 지목합니다.
+- **평가 가능한 학습 흔적으로서의 포트폴리오.** [[learn-framework-responsible-genai-pbl-2026|Uden & Hwang (2026)]]는 **개인 학습 포트폴리오**를 LEARN 틀의 메커니즘으로 사용합니다. 평가 가능한 학습 흔적(포트폴리오, AI 사용 공개)으로서 AI 의존을 투명하고 감사 가능하게 만듭니다.
+- **하이브리드 학습자를 위한 공생 포트폴리오.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]는 포스트휴먼/하이브리드 학습자를 위한 **공생 포트폴리오(Symbiotic Portfolio)**를 제안하며, 다섯 기준의 루브릭(생성적 대화, 인식론적 감사, 비판적 성찰 등)으로 평가합니다. 인간+AI 협업 작업을 평가하는 명시적 모델입니다.
+
+## e-포트폴리오가 AI 통합에 중요한 이유
+
+e-포트폴리오는 단일 최종 결과물보다 **과정, 성찰, 입증된 이해**를 전면에 내세우기 때문에, AI의 핵심 문제를 직접 다룹니다. AI가 다듬어진 산출물을 만들 수 있을 때, 그 산출물은 더 이상 그 뒤에 있는 관여를 증명하지 않습니다. e-포트폴리오는 평가를 살아남는 증거 — 초안, 수정, 추론의 흔적, 성찰적 자기 평가 — 쪽으로 옮기며, AI 자신은 피드백 생성, 성찰의 스캐폴딩, (적절한 루브릭 설계와 함께) 평가 지원을 보조할 수 있습니다. 이로써 e-포트폴리오는 [[authentic-assessment|실제적]], [[formative-assessment|형성적]], [[process-oriented-assessment|과정 기반]] 평가의 초석([[generative-ai|생성형 AI]] 시대의)이 되며, [[feedback-literacy|피드백 리터러시]]와 [[self-regulated-learning|자기조절 학습]]의 자연스러운 터전이 됩니다.
+
+## 연결된 개념
+
+- [[assessment]]
+- [[authentic-assessment]]
+- [[formative-assessment]]
+- [[feedback]]
+- [[feedback-literacy]]
+- [[generative-ai]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[student-engagement]]
+- [[language-learning]]
+- [[higher-ed]]
+
+## 연결된 문서
+
+- [[ni-lam-multiliteracies-ai-portfolio-2026]] — AI 지원 포트폴리오 평가를 활용한 다중 리터러시 발달에 대한 학생의 인식 (Ni & Lam 2026)
+- [[sutama-chatgpt-eportfolio-speaking-2026]] — EFL 말하기와 피드백 리터러시를 위한 e-포트폴리오 평가와 정렬된 ChatGPT (Laksana et al. 2026)
+- [[responsible-assessment-ai-era-stanford-2026]] — AI 시대의 포트폴리오 및 역량 기반 평가
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — 사회적 기여 포트폴리오를 포함하여 생성형 AI에 강인한 실제적 평가
+- [[beyond-detection-authentic-assessment-ai-2025]] — AI에 저항하는 평가로서의 주석 포트폴리오 / 구두 변론
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — 하이브리드 학습자를 위한 공생 포트폴리오
+- [[pbl-structural-conditions-ai-2026]] — 대규모 평가 문제에 대한 부분적 답으로서의 포트폴리오
+- [[learn-framework-responsible-genai-pbl-2026]] — 평가 가능한 학습 흔적으로서의 개인 학습 포트폴리오

@@ -1,0 +1,161 @@
+---
+connected_resources: [education-agent-skills, fpds-apps-and-resources]
+title: 교육 개발
+created: "2026-08-09T07:47:05-04:00"
+updated: "2026-10-07T13:40:00-04:00"
+connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
+type: concept
+foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
+audience: [faculty developers, instructors]
+level: [higher ed, k 12]
+confidence: high
+institutions: [educational-policy-ai]
+translation_of: concepts/educational-development
+source_updated: "2026-10-07T13:40:00-04:00"
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-11"
+    agent: hermes-agent
+---
+
+*영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+> **교육 개발**(*교수진 개발*이라고도 합니다) — 교육자가 AI를 가지고 효과적으로 가르치는 데 필요한 기술, 자신감, [[learner-identity|전문적 정체성]]을 기르도록 돕는 과정, 프로그램, 기관의 지원입니다. 교육 개발은 개별 교육, [[curriculum-design|교육과정]] 재설계, [[educational-policy-ai|기관 정책]] 변화, 그리고 GenAI가 학문적 직업에 무엇을 의미하는지를 이해하는 문화적 작업을 아우릅니다.
+
+## 생각해 볼 질문들
+
+- 같은 학과의 교수진이 AI를 한편으로는 인간을 닮은 '조력자'라고 말하면서 다른 한편으로는 단순한 '도구'이자 '검색 엔진'이라고 말한다면, 그 이면에 깔린 심적 모형이 드러나기도 전에 교육 프로그램이 진정으로 성공할 수 있을까요? 그 단계를 건너뛴다면 무슨 일이 벌어질 수 있을까요?
+- 교육 개발은 흔히 기술 격차를 좁히는 일로 다루어집니다. 교수자에게 도구를 가르치면 도입이 이루어진다는 것입니다. 그러나 일부 [[research-methods-aied|연구]]는 GenAI 통합을 정체성 차원의 변화('GenAI 세상에서 가르친다는 것은 어떤 의미인가?')로 규정합니다. 어느 틀이 더 정확하다고 보시며, 각각은 어떤 다른 행동을 요구할까요?
+- EPIQ-AI 같은 준비도 프레임워크는 교수진의 준비도를 인식론적, [[pedagogy|교수법적]], 기관적, 품질과 규정 준수의 영역으로 나눕니다. 준비도가 개별 기술의 격차가 아니라 사회기술적 정렬의 문제라면, 홀로 진행하는 'AI 워크숍'이 어디에서 부족하기 쉬울지 무엇을 말해 줄까요?
+- 새로운 기술에 대한 자신의 가정이 지시가 아니라 토론, 은유, 공유된 언어를 통해 드러나고 바뀐 경험을 한 적이 있으신가요? 공유된 언어와 은유 분석이 교육자가 AI를 이해하도록 돕는 데 어떤 역할을 한다고 보시나요?
+- 교수진, 직원, 학생이 AI가 스위스 아미 나이프인지, 조력자인지, 블랙박스인지, 경쟁자인지를 이야기하는 저기술의 '은유 워크숍'을 생각해 보십시오. AI가 교수의 역할을 대체할지 모른다는 공포까지 포함한 두려움을 표면화하는 것이 더 많은 기술 교육보다 도입에 더 도움이 될 수 있을까요?
+
+## 들어가며
+
+교육 개발은 교수자가 잘 설계하고, 가르치고, 평가하는 역량을 쌓게 하는 전문적이고 기관적인 작업이며, AI 시대에는 어떤 교수법적 변화도 효과를 내기 위한 전제가 되었습니다. 이 개념은 개인([[ai-literacy|AI 리터러시]], 자신감, [[teacher-ai-competency|역량]], 태도)과 기관(기준, 정책, 품질 보증, 그리고 명시된 AI 기대와 실제 평가 설계 사이의 정렬)을 모두 아우릅니다. 이 지식베이스에서 되풀이되는 발견은, 효과적인 실천에 대한 근거가 대부분의 기관이 실행한 것을 상당히 앞서고 있다는 것이며, 이로 인해 더 많은 일차 연구가 아니라 개발 작업이 제약 요인이 됩니다. [[learning-sciences|학습과학]]은 이 작업이 나르는 발견을 만들어 냅니다. 그 분야가 사람이 어떻게 배우며 어떤 설계가 결과를 바꾸는지를 경험적으로 확립하는 곳이라면, 교육 개발은 그러한 근거를 교수자가 실제로 가르치고 평가하는 방식으로 옮기는 기관적 실천입니다. 그러나 이 작업은 한 가지 기관적 경계에 의해 제한됩니다. 개발은 기관 안에 있는 인력의 역량을 쌓지만, 그 인력이 이후에 도입하도록 요구받는 도구는 대개 기관 바깥에서 [[educational-technology-developers]]가 만듭니다. 그들의 설계와 조달 결정, 즉 기본값, 설정 가능성, 자금이 끊긴 뒤에도 남는 것은 이 프로그램의 산출물이 아니라 그에 대한 제약으로 도착합니다.
+
+## AI 시대의 교육 개발
+
+- **준비도 프레임워크:** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI 프레임워크]]는 인식론적, 교수법적, 기관적, 품질과 규정 준수라는 네 가지 준비도 영역을 식별합니다. 교수진의 준비도는 개별 기술의 격차가 아니라 사회기술적 정렬의 문제입니다.
+- **기술 통합을 위한 기준:** [[crompton-faculty-technology-integration-standards-2026|Crompton 등]]은 [[design-based-research|설계 기반 연구]]를 사용하여 [[higher-ed|고등교육]] 기관에서 기술(AI 포함) 통합을 위한 교수진 기준을 개발합니다.
+- **도입과 자신감:** [[teacher-ai-adoption-confidence|교수자의 AI 도입 연구]]는 우려, 지원, 자신감, 태도가 핵심 예측 요인임을 밝힙니다. 교수진 개발 프로그램은 이 네 가지를 모두 다루어야 합니다.
+- **교육과정 통합:** [[institutional-change-framework-ai|기관 변화 프레임워크]]와 [[ai-assessment-scale-reform|평가 개혁]]은 교수자가 AI 도구를 덧붙이는 것을 넘어 강좌를 재설계할 것을 요구합니다.
+- **교육 프로그램:** [[crewscaler-ai-upskilling-framework|AI 역량 강화 프레임워크]]와 [[ai-tpack-preservice-math-teachers|TPACK 기반 예비 교사 교육]]은 구조화된 교수진 [[ai-education|AI 교육]]의 모형을 제공합니다.
+
+- **AI를 매개로 한 전문적 성찰.** 반성적 삼각형 모형은 전문적 학습 공동체에서 자기 성찰, 협력적 성찰, 공동체 성찰에 걸쳐 AI를 인지적 매개자로 위치 짓습니다. 교사 여섯 명을 대상으로 한 4주 타당성 사례 연구에서 검증되었으며, 이 모형이 긋는 경계는 개별적 통찰이 자동으로 공유된 전문적 지식이 되지는 않는다는 것입니다([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
+- **[[governance]]와 정책:** [[genai-policies-higher-ed-computing|기관 AI 정책 분석]]은 기관의 야망과 교수진 지원 역량 사이의 격차를 기록합니다.
+- **AI 리터러시는 기관적으로 보이지 않는다.** 언어 교사의 AI 리터러시에 대한 32개 연구의 체계적 고찰은, 그것이 업무량 모형, 승진 정책, 자원 배분에 빠져 있으며 개발이 파편화되고 책임이 기관과 기구에 분산되어 있음을 발견했습니다. 따라서 리터러시 개발은 구조적 지원이 아니라 개별적 노력으로 기본값이 설정됩니다([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik & Duran, 2026)]]).
+
+### 교육 개발에서의 은유와 공유된 언어
+
+교수진은 AI에 대해 이질적이고 종종 깊이 양가적인 심적 모형을 지니며, 효과적인 개발은 그것을 표면화하고 그와 함께 작업해야 합니다. [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt 등]]은 [[engineering-education|공학]] 강사가 이해를 구성하기도 하고 제약하기도 하는 은유를 통해 AI를 틀 짓는다는 것을 보여 줍니다(인간을 닮은 '조력자' 대 '도구' 또는 '검색 엔진'). 같은 학과 안의 강사들조차 근본적으로 다른 개념화를 지니는 경우가 많기 때문에, [[generative-ai|GAI]]에 관한 공유되고 정확한 언어는 효과적인 교수진 개발과 생산적인 학과 차원의 도입 논의를 위한 전제 조건입니다.
+
+이러한 심적 모형을 표면화하는 실천적 방법이 **은유 분석 워크숍**입니다. [[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson & Casey (2025)]]는 교수진, 직원, 학생이 생성형 AI에 대한 자신의 은유를 이야기할 수 있도록 저기술의 협력적 워크숍을 설계하고 검증했습니다. 참가자의 은유는 네 범주로 모였습니다. *기능*(도구적: '스위스 아미 나이프'), *역할*(인간적: '조력자', '프레너미'), *성질*(알 수 없음: '블랙박스', '미끄러운 비탈'), *주체성*(위협적: '경쟁자', '불길한 로봇'). 이는 인간 대 기계 [[agency]]의 긴장과 알려진 것 대 알 수 없는 것의 긴장을 표면화했습니다. 워크숍은 참가자가 가정을 표면화하고, 역할을 가로질러 연결되며, '혼자가 아니다'라고 느끼고, GenAI의 [[ethics]]를 생각하도록 돕는 데 기여했으며, 기술적 전문성을 요구하지 않았습니다. 개발 도구로서 이 워크숍은 프로그램 설계자에게 [[assessment]]를 재설계하거나 정책을 도입하기 *전에* 팀의 가정을 표면화할 낮은 문턱의 방법을 제공하며, AI가 [[teacher-role|교수의 역할]]을 대체할지 모른다는 공포까지 포함한 두려움에 정면으로 맞서게 합니다.([[fear-awe-genai-metaphor-workshops-2025]])
+
+### 기술 습득이 아닌 정체성 작업으로서의 GenAI
+
+임계 개념에 기반한 관점은 GenAI 통합을 기술의 격차가 아니라 교수진에게 닥친 **존재론적 전환**으로 다시 틀 짓습니다. 임계 개념 이론(Meyer & Land)을 적용한 Laidlaw는 GenAI가 다섯 가지 임계 특성을 모두 보인다고 주장합니다. *전환적*(평가, 교수법, 전문적 역할에 대한 가정을 재구성한다), *불편한*(독창성, 인간 주체성, 노력과 성취에 대한 믿음을 위배한다), *되돌릴 수 없는*, *통합적*(기술, 교수법, 인식론, 정체성을 연결한다), *경계가 있는*(GenAI 활용 능력이 전문적 통용력의 새로운 표지가 된다) 특성입니다.([[laidlaw-genai-identity-crisis-faculty-2026]])
+
+이러한 설명에 따르면, 'GenAI 세상에서 가르친다는 것은 어떤 의미인가?'라고 묻는 교수진은 역량이 부족한 것이 아니라 불안, 저항, 혼란이 전환의 필수적인 부분인 **경계에 선 임계 횡단의 단계**에 있습니다. 교수진이 하지 않는 질문에 대한 역능의 답을 주는 기술 기반 교육은 실제 전환에 비추어 주변으로 물러날 수 있으며, 선의로 마련된 거버넌스는 변화를 지원하기보다 규칙을 전달하는 '집행의 환상'으로 흐를 수 있습니다.([[laidlaw-genai-identity-crisis-faculty-2026]])
+
+**설계 함의:** 역량 구축을 대체하지 말고 **정체성을 지탱하는 실천**으로 보완하십시오. 기술 시연이 아니라 정체성에 관한 질문으로 세션을 열고, 교수진이 GenAI가 자신 분야의 목적에 무엇을 의미하는지를 탐구하는 [[discipline-specific-aied|전공 분야별]] 지속적 공동체를 운영하고, 서로 다른 전환의 속도를 존중하는 동료 멘토링 구조를 만들고, 두려움에 기인한 주저(지원이 도움이 된다)와 정당한 학문적 가치에 뿌리내린 원칙에 따른 비도입(존중받을 자격이 있다)을 구분하십시오.([[laidlaw-genai-identity-crisis-faculty-2026]]) 위의 은유 워크숍 모형은 이것의 한 구체적 구현입니다. 기술 [[lifelong-learning|역량 강화]]에서 출발하기보다, GenAI가 참가자에게 무엇을 의미하는지라는 해석적이고 정체성을 담은 질문으로 열립니다.
+
+**정체성 작업 틀에 대한 경험적 뒷받침.** [[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli 등(2026)]]은 이 설명에 대한 직접적인 [[qualitative-research|질적]] 근거를 제공합니다. 스웨덴 대학 교사 24명은 GAI의 등장을 놀랍고 벅차다고 표현하며, '취약의 상태'(낮은 자신감, 불안, '학생보다 앞서 있지 못할 것'에 대한 두려움)를 보고하고 유토피아적 담론과 디스토피아적 담론 사이에 '갇혀 있다'고 느꼈습니다. 제한된 지식과 경험, 그리고 취약감은 교사가 GAI를 살피고, 평가하고, 도입할 준비가 되어 있지 않음을 드러내며, 저자들은 기관이 교사가 GAI를 실험하고 아이디어를 교환하며 기관, 학과, 강좌 수준에서 실천과 지침을 협력적으로 개발할 **지정된 공간과 시간**을 마련해야 한다고 주장합니다. 이는 정체성 작업과 지원 중심 접근을 이론에서만이 아니라 교사 자신이 보고한 경험에 닻을 댑니다.
+
+**정체성의 질문을 직접적으로 다룬 프로그램.** [[chick-faculty-development-ethical-ai-2026|Chick, Morello & Staffey (2026)]]은 교육학, 보건 과학, 경영 등 여러 프로그램의 교수진 10명을 낮은 AI 활용 수준(6점 척도에서 자기 평균 1.89)에서 [[student-ai-interaction|학생의 AI 사용]]을 안내하는 데 높은 자신감을 보고한 60%, 긍정적 인식 90%로 이끈 6주 하계 집중 프로그램을 보고합니다. 이들은 이 변화를 도구 교육보다, 기술 시연이 아니라 전문적 가치의 실존적 질문으로 열린 구조화되고 안전한 실험에 돌립니다. 그들이 기대는 표지는 어휘의 변화입니다. AI를 '부정행위 기계'이자 '인간성을 잃게 하는 힘'으로 부르던 초기의 틀은 '호기심 많은 조력자'로 옮겨갔으며, 두려움에서 호기심으로의 이동, 정책의 공백이 채워 주지 않은 윤리적 명확성에 대한 바람, [[inclusive-learning|포용적 설계]]가 [[equity-in-ai-education|형평성]]을 증폭하는 장치가 되는 것, 그리고 교수진이 문지기에서 안내자로 옮겨가는 것이라는 네 가지 주제는 교수 정체성의 부분적이고 의도적인 재정향을 기술합니다. 열 개의 캡스톤 재설계가 더 어려운 근거이며, 그중 여덟 개가 AI를 사고를 대체하기보다 지탱하는 스캐폴드로 위치 짓습니다. 그리고 저자들의 **공생 교수법**은 참가자들이 만든 것을 공식화합니다. 상호 보완적 설계, 투명한 과정, 비판적 통합, 내장된 윤리적 추론, 반복적 다듬기입니다. 다만 문제는 구조적이지 개별적이지 않습니다. 같은 참가자들이 모순되는 정책 신호, 개인용 도구 구독, 재설계를 위한 시간 확보의 부재를 지목했기에, 저자들은 저항이 문제가 아니었으며 정책과 인프라를 건드리지 않는 파편적 대응은 열성적인 집단마저 실패하게 할 것이라고 결론짓습니다.
+
+**매개자로서의 개발, 그리고 개발자가 가장 먼저 던지는 질문.** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole (2026)]]은 남아프리카공화국의 Historically Disadvantaged Institutions 두 곳에서 학술 개발, 즉 이 분야의 옛 이름이자 이 논문을 게재한 *International Journal for Academic Development*가 쓰는 용어를 연구하며, 개발자를 기술적 실행자가 아니라 세 개의 층위에서 일하는 **디지털 매개자**로 다시 규정합니다. 교수법적 층위(AI 담론을 실행 가능한 교수, 학습, [[assessment]] 실천으로 번역한다), 윤리적 층위([[academic-integrity]]에 비추어 자동화를, 배려에 비추어 혁신을 저울질한다), 기관적 층위(경영진의 요구와 학문적 우려 사이의 경계 공간에서 일한다)입니다. 프로그램 설계에 중요한 발견이 두 가지 있습니다. 첫째, 거르는 질문은 기술적이기 전에 맥락적입니다. '여기서, 가난한 학교에서 온 우리 학생들에게 이는 무슨 의미인가?'라는 질문이며, 도입의 속도를 늦추는 것도 그것에 대한 저항이 아니라 작업의 일부로 셈됩니다. 둘째, 정서적 비용은 개인이 아니라 구조적입니다. 개발자들은 자신도 여전히 그 함의를 짚어가는 도구에 전문성을 보여 줄 것이 기대되었습니다('나는 사기꾼 같은 기분이에요. AI를 진행하며 배우고 있는데, 기관은 전문성을 기대합니다'). 이에 대한 그들의 대응은 기술이 아니라 판단을 겨냥한 동료 [[professional-training|전문적 학습]]이었으며, 여기에는 도구를 의도적으로 고장 내 보는 일도 포함되었습니다. 이 논문의 분석적 기여는 [[digital-divide|디지털 불평등]](분배의 문제)과 **알고리즘적 식민성**(완전한 접근을 거쳐도 살아남는 인식론의 문제)을 구분하고, 둘 다를 [[global-south|글로벌 사우스]]의 [[higher-ed|고등교육]] 안에 놓는다는 것입니다. 그곳에서 개발 작업은 중립적 지원 서비스가 아니라 전환적인 것으로 기대됩니다.
+
+**발달적 신호로서의 죄의식과 도덕적 불편함.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]]은 몰타의 한 대학 교직원을 대상으로 한 설문(응답 109건, 3.5% 응답률은 그 논문이 윤리 논쟁의 상태에 관해 스스로 알린다고 읽는 수치)에서 정체성 설명에 대한 정서적 짝을 제공합니다. 죄의식은 공개가 아니라 은폐를 따라갔습니다. 불편함으로 AI 사용을 제한하는 것은 AI 죄의식 지수와 r = .62로 상관되었고, 동료에게 공개하지 않으려는 것은 r = .50로 상관되었으며, 학문 산출물에서의 공식적 [[ai-use-disclosure|공개]]는 관계가 없었습니다(r = .08). 31.2%만이 명확한 기관 지침을 인식했으며, 그 명확성과 낮은 죄의식 사이의 상관은 약했습니다(r = −.25, p = .010). 이 논문은 이를 상명하달식 명령으로는 부분적으로 정서적이고 정체성에 기반한 문제를 풀 수 없다는 근거로 읽습니다. 그 권고는 직접적으로 발달적입니다. 죄의식과 정체성에 대한 우려를 바로잡아야 할 결함이 아니라 정상적인 전환기 반응으로 다루고, 구조화된 저위험 실험을 통해 예기적 불안을 지나가게 하며, 죄의식이 초기 경력 교직원에서 가장 높고(M = 2.71) 선임 교직원에서 가장 낮았으므로(M = 2.03) 선배 학자들의 멘토십에 기대십시오.
+
+### 프로그램 설계자를 위한 실천적 지침
+
+교수진 개발자, 학술 리더, AI [[professional-training|전문적 개발]]을 계획하는 [[stakeholders|수업 설계자]]에게 이 지식베이스의 근거가 시사하는 바는 다음과 같습니다.
+
+**지식만이 아니라 네 가지 도입 동인을 다룹니다.** 자신감, 태도, 지원, 우려가 교수진이 실제로 AI를 도입하는지를 예측합니다. 이를 무시하는 지식 전용 워크숍이 실천을 바꾸기는 어렵습니다. 직접 사용을 통해 자신감을 쌓고, 일회성 교육이 아니라 지속적인 지원을 제공하며, 교수진의 우려를 적극적으로 표면화하고 대응하도록 개발을 설계하십시오.([[teacher-ai-adoption-confidence]])
+
+자신감과 리터러시는 서로 바꿔 쓸 수 있는 목표가 아닙니다. 대학 교수진 502명을 대상으로 한 구조방정식 모형에서 AI 리터러시는 AI 웰빙의 지배적 예측 요인이었고(β = 0.713), [[self-efficacy|기술적 자기효능감]]은 거의 기여하지 않았으며(β = 0.082), 지원은 간접적으로만 웰빙에 이르렀습니다([[faculty-ai-well-being-social-supports-2026|Liu 등(2026)]]).
+
+**지침에 대한 요구와 지침의 충분성을 서로 다른 문제로 다룹니다.** 한 대학의 교수진은 비윤리적 AI 사용에 대한 기관적 조치를 강하게 지지하면서(M = 4.59) 기존 지침은 가장 낮게 평가했으며(M = 2.99), 데이터 프라이버시와 문화적 포용성을 자신의 가장 취약한 지식으로 꼽았습니다. 이는 전문적 개발을 위한 구체적인 목표입니다([[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgic & Sever, 2026]]).
+
+**준비도를 사회기술적 정렬의 문제로 다룹니다.** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI 프레임워크]]는 교수진의 준비도가 인식론적, 교수법적, 기관적, 품질과 규정 준수의 영역에 걸친다는 것을 보여 줍니다. 개인만 훈련하는 프로그램은 변화를 가능하게도 막기도 하는 기관의 지렛대(정책, 업무량, 인센티브, 품질 기준)를 놓칩니다. 교육과 함께 그것들을 정렬하십시오.([[sangwa-epiq-ai-faculty-readiness-2026]])
+
+**인프라 투자를 전환과 동일시하지 마십시오.** 125개 연구에 걸쳐, GenAI 인프라와 교육 개발에 대한 기관 투자는 실제 교수법적 변화와 약하게만 상관되었고(r = 0.12), 60~70%의 강사는 GenAI를 통합할 준비가 되어 있지 않다고 느꼈습니다. 이로 인해 조달이 아니라 개발이 제약 요인이 됩니다.([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
+
+**도구 도입이 아니라 교육과정 재설계를 향해 쌓습니다.** 목표는 AI 도구를 덧붙이는 것이 아니라 교수진이 강좌와 평가를 재설계하는 것입니다. 전문적 개발을 강좌 차원의 재설계 작업과 평가 개혁에 닻을 댑니다([[institutional-change-framework-ai|기관 변화 프레임워크]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform|평가 척도]])([[ai-assessment-scale-reform]])
+
+**개인이 아니라 공동체를 불러모읍니다.** 학술인 12명과 학생 17명을 인터뷰한 결과에 따르면, GenAI 시대의 평가 재설계는 단일 학술인의 역량을 넘어섰습니다. 경직된 과정, 긴 준비 기간, 업무량 부담이 지목되었기에, 저자들은 평가 설계, GenAI, 교과 내용, 프로그램, 산업 전문성을 하나로 묶는 프로그램 차원의 팀을 제안합니다([[nicola-richmond-programwide-assessment-genai-2025|Nicola-Richmond 등, 2025]]).
+
+**외부의 모범 사례가 아니라 그 방의 데이터로 시리즈를 운영합니다.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum과 Finkelstein (2026)]]은 규모가 큰 공립 R1 물리학과의 실행 모형을 기록합니다. 60~75분의 격주 세션 여섯 번에 시리즈 전체로 교수진 19명이, 각 모임에는 약 10명이 참여했으며, 모든 세션이 지역 데이터나 학과에서 가져온 자료로 열리고 실제 익명화된 학생 과제에 대한 AI의 소집단 테스트로 옮겨가고, 집단적 토론으로 마무리되었습니다. 교수진이 테스트를 통해 발견한 것은 진행자가 가져올 수 있었던 어떤 패키지보다 유용했습니다. AI는 그들이 시도한 모든 문제를 풀었지만, 실제 학생 과제에 대한 피드백은 명확한 목표와 루브릭이 주어지지 않으면 고르지 못하고 프롬프트에 의존적이며 피상적이었고, 학생들은 생산적 사용이 시연되지 않으면 피상적으로 프롬프트를 주고 산출물을 겉으로만 고쳤습니다. 최초의 구체적 산출물은 다섯 항목으로 된 살아 있는 저장소였습니다. 강의계획서 정책 문장, 교실 토론 자료, 학생 설문, AI가 통합된 과제, 평가 구조가 그것이며, 저자들이 세션 구조 자체를 이 논쟁으로 다루는 까닭입니다.
+
+**역량 프레임워크에 닻을 댑니다.** 개발은 **교수법적 [[prompt-engineering|프롬프트 리터러시]]**, 즉 교수법적 의도를 프롬프트에 부호화하는 역량도 함께 쌓아야 합니다. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]]은 교수자의 AI 지원 설계 작업의 품질을 결정하는 것이 AI 활용 능력이 아니라 교수법적 전문성임을 발견하기 때문입니다.([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])([[talebzadeh-ai-group-activity-roles-2026]])
+
+**자동화에 앞서 이해를 순서에 둡니다.** 구성적 정렬을 위해 생성형 AI를 다루는 실천자 조언을 담은 2022년 11월부터 2025년 4월 사이에 발표된 회색 문헌 14편에 대한 [[qualitative-research|비판적 담론 분석]]은 역량이 도구에의 접근에 앞서야 함을 보여 줍니다. [[constructivist]] 틀에서 참여의 질질이 이해의 질질에 앞서므로, 위험은 익숙함에 반비례하며, 초보자는 그럴듯해 보이나 교수법적으로 빈약한 산출물의 그럴듯함에 기인한 수용에 가장 많이 노출됩니다. [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes 등(2026)]]은 더 나아가 개발 부서가 [[learning-design|강좌 설계]]의 '무거운 짐을 지는' 도구에 '유창함을 습득'하도록 돕는 기술주의적 과제를 거부해야 한다고 주장합니다. 그런 틀은 개발자를 폐쇄된 교육자-GenAI 고리 밖으로 밀어내고, 가치에 기반한 관계적 개발을 소프트웨어 도입을 위한 매개 메커니즘으로 다시 규정하기 때문입니다. 방어 가능한 대안은 교육 개발자가 기관의 경계 안에 있는 [[rag|검색 증강]] 정렬 조력자의 큐레이터이자 규칙 설정자로 남는 것입니다. 이 조력자는 질문을 던지고, 과소·과대 평가를 표시하고, 대안을 만들어 내지만 완성된 산출물은 만들지 않으며, 인증과 프로그램 간 문제에 대한 [[human-in-the-loop-ai|인간의 판단]]으로의 에스컬레이션은 예외가 아니라 기능으로 다루어집니다.
+
+**두려움과 심적 모형을 표면화하고 다룹니다.** 교수를 재설계하기 전에 은유 분석 워크숍([[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson & Casey 2025]])을 사용하여 팀의 GenAI에 대한 가정과 불안, 교수의 역할을 대신할 것이라는 공포까지 표면화하고, 이를 무시하기보다 대응하는 개발을 설계하십시오.([[fear-awe-genai-metaphor-workshops-2025]])
+
+**AI 리터러시를 몸소 보여 주고 실제 향상을 측정합니다.** 교수진 개발은 가르치는 실천 자체를 구현해야 합니다. AI를 교수법적으로 사용하고 산출물을 비판적으로 평가하는 것이 그것이며, 자기보고된 자신감이 아니라 실증된 역량을 평가해야 합니다. 자기 인식은 AI 기술을 믿을 만하게 과대평가하기 때문입니다([[self-report-measures|자기보고된]] 자신감).([[ai-literacy-assessment-misalignment]])([[genai-pd-ai-pck-learning-gain-2026]])
+
+**교과 내용 전문성이 GenAI로 이어진다고 가정하지 마십시오.** [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo, Chowdhury & Liu (2026)]]은 미국 연구중심대학의 교수진 127명을 [[tpack|TPACK-21]] 도구로 조사하여, 내용 지식(CK)이 기술 지식이나 기술이 통합된 어떤 영역과도 유의미한 상관이 없음을(r = .11–.15, ns) 발견했습니다. 학문적 전문성은 GenAI 통합 지식을 예측하지 않았습니다. 기술이 통합된 영역(TPK, TCK, TPACK)은 서로 매우 강하게 상관되어(r = .81–.91) 단일한 GenAI 통합 요인으로 기능할 수 있습니다. 실천적으로는 GenAI의 가능성을 각 교수진의 교과 내용에 연결하는 **전공 분야별** 활동을 통해 GenAI 통합을 쌓고, 기술이 통합된 영역을 별도의 기술로 훈련하기보다 하나의 공유된 GenAI 리터러시 기반으로 다루십시오.([[sutedjo-faculty-genai-tpack-21-2026]])
+
+**전공 분야별 스마트 교실 모형.** [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao, Wang(2026)]]은 [[math-education|수학]] 교육학 석사 강좌를 지능형 교육 [[ai-technologies|기술]]([[automated-assessment|자동 채점]], 개인화된 권고, 다중 [[ai-feedback-quality|AI 피드백]])로 어떻게 향상할 수 있는지를 보여 줍니다. 이 기술들은 3차원 스마트 교실 프레임워크 안에서 수업 전·중·후 단계에 걸쳐 통합되었습니다. 그들의 준실험은 수업 목표 설계 역량에서 통계적으로 유의미한 향상을 발견했으며, 스마트 교육 프레임워크를 거시적 개념에서 전공 분야별 실천으로 옮기려는 [[teacher-education|교사 교육자]]와 교육 개발자를 위한 이식 가능한 **D-T-E 모형**(Disciplinary Demand–Technological Empowerment–Evaluation Loop)을 제공합니다.
+
+**참여한 느낌이 아니라 출석을 측정합니다.** 대학 교사 64명을 대상으로 한 6개월 Intelligent-TPACK 프로그램에서 출석률이 AI 역량의 향상을 예측했고(β = .407, p = .001), 스스로 인식한 참여는 그렇지 않았습니다(β = .049, p = .692). 저자들은 이를 피상적 참여에 대비되는 구체적인 행동적 투자로 읽으며, 의미 있는 인센티브와 함께 출석을 인사고과에 연계할 것을 권고합니다([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]).
+
+**교수진 스스로의 보고에 맞추어 기준을 삼습니다.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]]의 미국 교수진 1,057명 설문은 프로그램 설계자가 직접 측정할 수 있는 방식으로 기관 층위가 얇다는 것을 보여 줍니다. 59%가 자신의 학교가 미래를 준비하는 학생을 위해 생성형 AI를 효과적으로 사용할 준비가 되어 있지 않다고 판단했고, 68%가 교수와 멘토링을 위해 사용하도록 교수진을 준비시키지 않았다고 말했습니다. 구조적 대응은 기관의 55%가 태스크포스를 두는 데 그친 반면, AI 리터러시를 교양 교육 성과로 둔 곳은 13%에 불과했습니다. 교수진은 정책을 기다리지 않았습니다. 기관의 것을 지목할 수 있었던 48%에 대해 87%가 직접 과제 차원의 규칙을 작성했으며, 학과 차원의 도입을 가로막는 장애로 명령이 아니라 동료의 저항(82%)과 낯섦(83%)을 꼽았습니다. 개발 프로그램에 이것은 동료 규범, 과제 차원의 공유된 정책 언어, 기관 준비도의 명시적 측정을 정책 문서에 맡겨 두지 말고 개입의 일부로 다루어야 함을 뜻합니다.
+
+**강사의 반응은 태도가 아니라 권력의 중심을 반영합니다.** 글쓰기 강사 33명을 대상으로 한 도구적 사례 연구에서, 글로벌 GenAI 추세, 대학과 학과, 동료, 학생이라는 네 개의 다심 권력 중심이 실천을 규정했으며, 담화 권력이 제한된 시간강사는 탐지에서 용인되는 사용을 가르치는 쪽으로 이동했습니다([[zuo-instructor-power-genai-writing-2026|Zuo 등(2026)]]).
+
+## 연결된 개념
+
+- [[teacher-ai-competency]]
+- [[teacher-role]]
+- [[ai-literacy]]
+- [[educational-policy-ai]]
+- [[higher-ed]]
+- [[k-12]]
+- [[learning-design]]
+- [[curriculum-design]]
+- [[professional-training]]
+- [[teacher-education]]
+- [[learning-sciences]]
+- [[educational-technology-developers]]
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
+
+## 연결된 문서
+
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI alignment advice: developers recast as technology trainers
+- [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethical dimensions of AI: faculty and student views
+- [[nicola-richmond-programwide-assessment-genai-2025]]
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
+- [[fear-awe-genai-metaphor-workshops-2025]] — Fear and Awe: Making Sense of Generative AI Through Metaphor (faculty/staff/student metaphor workshop)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
+- [[sangwa-epiq-ai-faculty-readiness-2026]]
+- [[teacher-ai-adoption-confidence]]
+- [[institutional-change-framework-ai]]
+- [[genai-policies-higher-ed-computing]]
+- [[ai-tpack-preservice-math-teachers]]
+- [[crewscaler-ai-upskilling-framework]]
+- [[ai-assessment-scale-reform]]
+- [[pchl-he-framework-genai-content-creation-2026]]
+- [[genai-pd-ai-pck-learning-gain-2026]]
+- [[genai-higher-education-systematic-review-2026]]
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
+- [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+- [[sutedjo-faculty-genai-tpack-21-2026]]
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: attendance predicts gains, self-perceived participation does not — Faculty self-perceived TPACK-21 knowledge for GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — From fear to innovation: a six-week faculty institute, symbiotic pedagogy, and the institutional conditions it could not supply
+- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt, concealment and career-stage differences among academic staff (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: institutional unpreparedness, thin governance and the 87%/48% policy gap (Watson & Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators in Global South higher education: development as sociotechnical praxis
+- [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
+
+- [[faculty-ai-well-being-social-supports-2026]] — Faculty AI well-being tracks AI literacy rather than technological self-efficacy
