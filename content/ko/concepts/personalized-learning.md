@@ -1,0 +1,148 @@
+---
+title: 개인화 학습
+created: "2026-05-07T10:44:35-04:00"
+updated: "2026-10-03T02:57:43-04:00"
+type: concept
+foundations: [ai-education]
+pedagogy: [scaffolding]
+technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
+audience: [learners]
+level: [higher ed, k 12]
+confidence: medium
+translation_of: concepts/personalized-learning
+source_updated: "2026-10-03T02:57:43-04:00"
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-11"
+    agent: hermes-agent
+---
+
+*영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+> **개인화 학습** — 선행 지식, 학습 속도, 선호, [[affective-computing|정의적]] 상태를 포함한 개별 [[student-modeling|학습자 프로파일]]에 교육 경험을 맞추는 것. AI는 규모의 개인화를 가능하게 하지만, *시스템 개인화*와 *학습자가 인식하는 개인화* 사이의 간극은 여전히 열린 측정 도전으로 남아 있습니다. [[adaptive-learning|적응 학습]]과 [[intelligent-tutoring|지능형 교습]]과 나란히, 이것은 [[student-modeling|학습자 모델링과 적응형 수업]] 계열의 적용 측 구성원입니다 — 수업을 적응시키기 위해 학습자 모델을 소비합니다.
+
+## 생각해 볼 질문들
+
+- '개인화 학습'이라고 할 때 학습자의 속도에 맞춘 내용을 떠올리십니까, 선택한 목표에 맞춘 것을 떠올리십니까? 이 페이지는 이것들이 깊이 다르다고 말합니다(다양한 경로를 통한 균일한 성과 대 다양한 성과). 어느 쪽을 더 중히 여기십니까, 그리고 왜입니까?
+- 이 페이지는 개인화 학습(목표)과 적응 학습(한 메커니즘)을 구분합니다. 실시간 적응을 수반하지 않는 개인화를 떠올려 보실 수 있습니까 — 그리고 그것도 개인화로 셈합니까?
+- 시스템은 학습자가 인식을 전혀 못한 채 적응할 수 있습니다. '개인화되었으나' 진정으로 알려지지 않는다고 느낀 경험이 언제였습니까? 차이는 무엇입니까?
+- 이 페이지는 과잉 개인화가 학습자를 낮은 기대의 트랙에 고립시킬 수 있다고 지적합니다. 선의의 AI 맞춤이 어떻게 학습자의 상한을 실수로 낮출 수 있습니까?
+- 개인화는 세밀한 학습자 데이터를 필요로 하고, 프라이버시는 데이터 최소화를 필요로 합니다. '적응할 만큼 충분한 데이터'와 '학습자가 노출될 만큼 많은 데이터' 사이의 선을 어디에 긋겠습니까?
+- AI가 당신의 학습을 진정으로 개인화하려면 세션을 걸쳐 당신에 관해 무엇을 기억해야 하며, 그것들을 기억하는 것의 위험은 무엇입니까?
+
+## 들어가며
+
+[[prior-knowledge|선행 지식]], 학습 속도, 선호, 정의적 상태를 포함한 개별 학습자 프로파일에 교육 경험을 맞추는 것. AI는 규모의 개인화를 가능하게 하지만, *시스템 개인화*와 *학습자가 인식하는 개인화* 사이의 간극은 여전히 열린 측정 도전으로 남아 있습니다.
+
+- **[[mishra-control-vs-agency-history-2025|Mishra 외]]**는 깊은 역사적 뿌리를 지닌 개인화의 두 형태를 구분합니다 — 다양한 경로를 통해 도달하는 균일한 성과(Skinner의 [[teacher-role|수업]] 기계에서 Khan Academy식 숙달 교습까지) 대 다양한 학습자 선택 성과 — 이는 이 분야의 통제 대 주체성 긴장에 대응합니다.
+
+## AI 기반 개인화를 위한 구조
+
+### 종단적 메모리(PersonaVLM → 교육)
+
+Nie 외(2026)는 상호작용에 걸쳐 페르소나 일관성을 유지하는 [[multimodal]] 장기 메모리 구조(PersonaVLM)를 개발했습니다. 교육에 대응되면, 이것은 학습자의 [[misconceptions]], 선호하는 설명, 진도 이력을 세션을 걸쳐 기억하는 교습 시스템을 가능하게 하여, 상태를 갖지 않는 [[conversational-ai|챗봇]] 튜터의 중대한 결핍을 다룹니다.
+
+### 에이전트 네이티브 개인화 기반(DeepTutor)
+
+Ma 외(2026)는 모든 [[deeptutor]] 기능이 공통의 개인화 기반을 공유하도록 설계하여, 개인화를 반응형 도구에 덧붙이지 않습니다. 이 구조는 양태 간 일관성을 보장합니다: 동일한 학습자 프로파일이 [[problem-solving|문제 해결]], [[automated-question-generation|질문 생성]], 협동 글쓰기를 구동합니다.
+
+### 다중 에이전트 사회적 개인화(MAIC)
+
+Yu 외(2024)는 내용뿐 아니라 *사회적 맥락*도 개인화합니다. 동급생 원형(반장대장, 심층 사고가, 필기 담당, 탐구심 많은 마음)이 개별 학습자 필요에 맞춘 다양한 또래 학습 역동성을 만들어 냅니다.
+
+### 학습자 초상을 위한 AutoML
+
+개인화는 교육의 질을 높이기 위한 핵심 목표이나, 다원적 이질적 학습 행동 데이터의 처리에는 여전히 어려움이 있습니다. 자동화된 [[reinforcement-learning|기계 학습]]에 의해 구동되는 개인화된 신경 인지 구조 탐색 프레임워크는 학습자 초상을 구축하고 이질적 학습자 프로파일을 위한 진단 모형을 생성하며, 다중 양상 데이터를 통합하여 정적 시험 결과를 넘어섭니다.
+
+정적 지식 기반은 개인화할 수 없습니다: 온톨로지는 천천히 진화하고 불확실성을 잘 다루지 못하므로, 이 구조는 지식 유형에 표현을 맞춥니다 — 서술적 지식은 온톨로지, 절차적 지식은 규칙, 불확실한 것은 퍼지 혹은 확률론적 온톨로지, 암묵적인 것은 분석과 기계 학습 — 그리고 하나의 거대한 모델보다 작게 매핑된 온톨로지들의 체계를 선호합니다([[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova, 2026)]]).
+
+## 적응 학습 및 지능형 교습과의 관계
+
+개인화 학습은 흔히 [[adaptive-learning|적응 학습]]과 혼동되지만, 둘은 같지 않습니다. **적응 학습**은 *메커니즘* — 학습자 모델에 기초해 내용, 속도, 난이도를 실시간으로 조정하는 시스템 — 을 뜻합니다. **개인화 학습**은 *더 넓은 목표* — 전체 학습 경험(내용, 경로, 속도, 선호, 목표)을 개인에게 맞추는 것 — 이며, 실시간 적응은 그 한 구현입니다. 적응 시스템은 개인화를 향한 *수단*이지만, 개인화는 정적 학습자 프로파일, 선택 기반 경로, 혹은 실시간으로 적응하지 않는 인간 교사 맞춤을 통해서도 달성될 수 있습니다.
+
+22개 고등교육 개입에 대한 PRISMA 2020 검토는 개인화 학습 지원과 적응 경로를 지배적 AI 활용 사례로 놓지만, 대부분의 구현은 기존 실행을 변화시킨 것이 아니라 개선했습니다([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh 외(2026)]]).
+
+[[intelligent-tutoring|지능형 교습]]은 그 중간에 놓입니다: ITS는 구조화된 학생 모델링을 통해 개인화된 수업을 제공하는 전형적인 *적응* 플랫폼이며, [[llm]] 기반 튜터는 대화적으로 개인화합니다. 이 셋은 모두 [[student-modeling|학습자 모델링과 적응형 수업]] 계열의 적용 측 구성원입니다 — 다음에 무엇을 가르칠지 결정하기 위해 [[student-modeling|학생 모델링]], [[knowledge-tracing]], [[cognitive-diagnosis]]가 만들어 내는 학습자 표현을 소비합니다. 이 구분은 평가에 중요합니다: 한 시스템을 "적응", "개인화", "개별화"라고 교환 가능하게 붙이는 연구들(아래 참조)은 주장된 이익이 실시간 적응, 학습자 선택, 혹은 내용 맞춤에서 오는지를 모호하게 할 수 있습니다.
+
+## 측정 도전
+
+- **시스템 대 인식된 개인화** — 시스템은 학습자가 인식을 못한 채 적응할 수 있다
+- **종단적 타당성** — 프로파일이 낡거나 과적합되면 개인화의 이익은 감소할 수 있다
+- **[[equity-in-ai-education|형평성]] 위험** — 과잉 개인화는 학습자를 낮은 기대의 트랙에 고립시킬 수 있다
+
+- **편향 위험** — 학생 속성에 조건화하는 것은 고정관념을 부호화할 수 있다: 수필을 고정한 채, 인종, 언어, 혹은 장애로 표시된 학생에 대한 되먹임은 더 칭찬하고 덜 비판적으로 변했습니다([[marked-pedagogies-linguistic-bias-writing-feedback|Tan, Phalen와 Demszky(2026)]]).
+
+## 개인화와 평가
+
+개인화와 [[assessment]]는 AI 기반 학습에서 밀접하게 결합되어 있습니다. 적응적 개인화는 다음에 무엇을 적응시킬지 결정하기 위해 학습자가 아는 것의 지속적 [[formative-assessment|형성]] 측정([[knowledge-tracing]], [[student-modeling]], [[cognitive-diagnosis]]을 통해)에 의존하므로, [[assessment]] 신호의 신뢰성이 개인화의 질을 직접 제약합니다. 반대로 [[summative-assessment|총괄 평가]]가 학습자별로 개인화될 때, [[bias-mitigation|공정성]]과 비교 가능성은 세우기 더 어려워집니다. 이 지식 기반의 [[research-methods-aied|연구]]는 피상적이거나 잡음 섞인 신호에 과잉 적응하는 것을 경고합니다: 학습자를 잘못 측정하는 [[adaptive-learning|적응]] 시스템은 학습을 뒷받침하기보다 줄이는 방식으로 개인화할 수 있으며, 자기 평가가 신뢰할 수 없는 AI 네이티브 학생("부재한 인지 기준선")은 더 정확히 모델링하기 어렵습니다.
+
+## AI 시대의 개인화
+
+이 우려가 가설이 아니라는 가장 강한 증거는 [[personalization-paradox-adaptive-learning-emotions-2026|486명 중국 학부생의 3차례 종단 연구(Li, Lin과 Qiu, 2026)]]에서 옵니다. 이 연구는 학생이 자신의 AI 적응 환경을 더 개인화되었다고 인식할수록 [[self-regulated-learning|자기조절 학습]]이 *더 낮아짐*을 발견했습니다 — "개인화 역설". 학업 감정의 변화가 이 효과의 대부분을 옮겼습니다: 적응 환경을 마주하는 것은 즐거움은 줄고 불안과 지루함은 늘리는 것으로 예측되었고, 이 감정 변화들이 함께 개인화와 자기조절 감소 사이 연합의 약 절반을 설명했습니다. [[ai-literacy|AI 리터러시]]는 이 피해를 완화하여, 리터러시가 높을 때 부정적 감정 연합을 비유의적 수준으로 약화시켰습니다. 따라서 개인화는 학습자 자신의 [[regulation|조절]] 활동을 희생하여 적응적 적합성을 얻는 것처럼 보이며, 이 연구는 인지 부하만이 아니라 감정적 경험이 그 대가가 치러지는 통로임을 지목합니다.
+
+진단이 검증된 경로 뒤에서 개인화는 더 많은 것을 다루는 것이 아니라 부하를 낮춤으로써 성과를 냅니다: 최단 경로 보완 학습은 평균 3.82단계에 공부 시간을 22.0% 줄였고(57.6 대 73.8분), 인지 부하가 사후 검사 효과의 53.7%를 옮겼습니다([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng와 Huang, 2026)]]).
+
+도구에 대한 증거는 소규모에서 그 자체로 부정적일 수 있습니다: 5일간의 초등 분수 시험(최종 n = 22)에서 기존 수업 집단이 AI 적응 Mathbot 집단보다 유의하게 더 큰 이해 향상을 보였고, 저자들은 학년 수준 혼란변수, 추측, 라이선스 비용을 한계로 지적합니다 — "적응"이라는 낙인은 효과를 담보하지 않습니다([[ai-powered-personalized-learning-elementary-fractions-2026|Holman(2024)]]).
+
+강화학습은 개인화를 위한 독립적 메커니즘이며, [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper와 Lugrin(2025)]]은 그 실증적 이력을 조망합니다: 89개 RL-in-education 연구에 대한 그들의 [[meta-analysis-systematic-review|PRISMA]] 검토는 RL 개인화가 [[higher-ed]]과 [[math-education]]에 집중되어 있으며, 적응이 주로 내용 일정화(n = 53)나 힌트와 되먹임 같은 안내 관련 개인화(n = 36)로 구현됨을 발견합니다. 그들은 RL 정책이 안내 관련 적응과 [[affective-computing|정의적]] 변수(검토된 연구의 63%)에서 비적응 기준선을 가장 자주 능가함을 보고하고, 학습 향상 — 특히 정규화된 학습 향상 — 이 가장 효과적인 보상 원천이었음을 보고합니다. 이는 [[student-engagement|참여]]가 아니라 진정한 학습을 향해 개인화하는 보상 신호 설계를 위한 실무 지침입니다.
+
+[[ai-coaching-rl-skill-development|Wang 외(2026)]]는 보상 목표가 그 자체로 개인화의 선택임을 보여 줍니다: 학습자의 독립적 역량에 대해 훈련된 RL 코치는 규칙 기반 소거가 신뢰할 만한 변화를 만들지 못한 곳에서 랩 타임을 27.9% 줄였고(p = 0.005), 저자들은 과제 수행에 최적화된 코딩 에이전트가 인간이 무엇을 유지하는지에 대한 동기를 지니지 않는다고 주장합니다.
+
+Bernstein와 Sibia(2026)는 흥미 개인화와 전문성 개인화를 구분합니다: 흥미 일치 GenAI 유추는 더 매력적이고 기억에 남는다고 보고되었으나 고르게 더 신뢰받지는 않았고, 어떤 학생들은 유추가 자신의 표명된 흥미와 일치할 때에도 자족과 완전성을 위해 일반적 기술 설명을 선호했습니다([[student-reception-genai-analogies-computing-2026]]). 그들의 설계 권고는 원천 영역 구조를 통해 개인화하고 학생들이 무엇에 흥미를 느끼는지뿐 아니라 이미 무엇을 아는지 물으며, 학습자가 유추를 검사할 수 있게 하는 것이 원천 영역에 대한 친숙함이라는 점입니다 — 그리고 유추 메뉴, 자발적 참여, 혹은 일반 버전과 개인화 버전을 함께 제공하는 것을 통해 학습자에게 개인화에 대한 통제권을 주라는 것입니다. Sidorkin(2026)은 개별 설명이 아니라 강의 자료 수준에서 추가적 짝을 기록합니다: 대학원 교육 리더십 강의를 위해 요청 시 생성된 주간 읽을거리는 흥미(분야, 직업 역할, 지역 사례)와 이해 수준(속도, 정의, 깊이)에 동시에 맞춰졌고, 결과 로그들은 공통 골격을 공유했습니다(기준 텍스트에 대한 TF-IDF 코사인 유사도 0.50에서 0.61), 이는 그가 학습자별 전면 재작성이 아니라 조절 가능한 다이얼이 달린 템플릿으로 읽는 것입니다. 동일한 코퍼스는 맞춤이 구조적이면서도 강도가 고르지 않았음을 보여 줍니다: 작품 수준 맞춤 표지는 10,000단어당 평균 52.24개였고 로그에 걸쳐 38.74에서 74.29까지 범위였으며, 이해 지향적 프롬프트는 기준 설명 텍스트보다 3.4배에서 8.7배 더 많은 정의적 [[scaffolding]]를 만들어 냈습니다.
+
+개인화의 세 번째 축은 *목표*이며, 이것은 AI 기획자가 가장 못 다루는 입력입니다. [[personapath-personalized-learning-paths-2026|Liu 외(2026)]]은 2,000개의 합성 학습자 페르소나를 347개 교재, 4,092개 개념의 선수지식 그래프와 짝지어, 10개의 LLM에게 명시된 목표 단위에 도달하기 위해 학습자가 어떤 지식을 단계별로 공부해야 할지 기획하게 했습니다. 모델들은 구조적으로 건전한 커리큘럼을 만들어 냈습니다 — DeepSeek-V3.1은 선수지식 및 환각 타당성에서 90.9%에 도달 — 하지만 학습자에게 적응하는 데는 실패했습니다: 적응성은 44.7%를 넘지 못했고, DeepSeek-V3.1의 최종 통과율은 기초 교육에서 29.5%, 고등교육에서 14.6%였으며, 페르소나에서 숙달 항목을 제거하면 타당성은 거의 그대로인 채 적응성이 최대 26.1퍼센트 포인트 손실되었습니다. 전체 경로를 한 번에 생성하는 것은 상호작용적으로 하는 것보다 타당성을 최대 30.8포인트 높이는 대신 적응성을 28.8 낮췄습니다. "개인화"라는 주장은 학습자의 상태에 반응한다는 주장이며, 상태 변수는 이 기획자들이 가장 쉽게 없이 할 수 있는 부분입니다 — 이는 위의 측정 우려에 대응하는 계산적 대응물입니다.
+
+네 번째 축은 개별 학습자가 아니라 *청중*입니다: [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]]는 명명된 전문 집단(의료, 금융, 혹은 에너지)을 위해 기존 강의를 재생성하며, 전문가 평가자는 산업 틀 버전을 개인화 깊이에서 0.32포인트 더 높게 매겼고(3.97 대 3.65), 청중 보정은 뒤처졌습니다(3.52). 학습자가 아니라 집단에 맞추는 것은 더 싸고 다루기 쉬운 형태의 개인화이지만, 그것을 측정한 루브릭은 판단된 적합성을 평가한 것이지 학습자 성과를 평가한 것이 아닙니다.
+
+개인화가 인간 발표자를 능가할 수 있습니다: 큰 온라인 강의(493명 응답)에서 학생들은 AI 생성 개인화 영상을 비개인화 인간 녹음 영상보다 높게 순위 매겼고(평균 순위 2.26 대 2.69), 88.4%가 어떤 개인화 영상을 1위로, 인간 녹음은 73.8%가 그랬습니다([[personalized-ai-generated-videos-preference-2026|Tomlinson 외(2026)]]).
+
+## 프롬프트 조건화된 미시 개인화
+
+[[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar와 Goel(2026)]]는 시스템과 인식된 개인화 사이의 간극이 응답 수준에서 다루어질 수 있음을 보여 줍니다. Jill Watson [[llm]]/[[rag]] 튜터를 위한 그들의 프레임워크는 학습자가 선택한 선호(추상화, 상세함, 인식, 처리, 이해)와 시스템이 추론한 인지적 요구([[cognitive-diagnosis|Bloom의 분류]])를 결합하여, 각 상호작용에서 적응되는 96개의 미시 프로파일을 만들어 냅니다 — [[prompt-engineering|구조적 프롬프트 조건화]]를 통해 재훈련도, [[discipline-specific-aied|영역 특정]] 저작도 없이. 이것은 [[adaptive-learning|적응 가능성]](학습자 주도 선호 선택)과 적응성(시스템 주도 인지 평가)의 혼합으로, 내용이 *어떻게* 제시되는지의 개인화가 규모도 가능하고 학습자에게 인식도 가능할 수 있음을 보여 줍니다.
+
+## 용어의 모호성
+
+되풀이되는 문제는 "개인화 학습"이 넓고 느슨하게 정의된 포괄 용어라는 것입니다. 체계적 검토([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh 외, 2026]])는 [[adaptive-learning|적응 학습]], 개별화 수업, 맞춤 학습, 개인화 학습이 교환 가능하게 사용되며 보편적으로 받아들여지는 정의가 없음을 발견합니다 — 이는 연구 종합과 증거 기반 실행을 복잡하게 만드는 개념적 모호성의 원천입니다. 이 분야는 점점 "개인화"가 모호한 낙인이 아니라 정밀하고 증거에 기반한 주장을 가리키도록 통일된 프레임워크와 정의를 요구합니다(이 지식 기반의 [[limitations-in-aied-research|약한 구인 사용 비판]]이 강화하는 지점).
+
+## 연결된 개념
+
+- [[adaptive-learning]] — 학습자에게 내용, 속도, 난이도를 실시간으로 맞추는 적응 시스템
+- [[intelligent-tutoring]] — 학습자를 모델링하고 개별화된 수업을 제공하는 교습 시스템
+- [[student-modeling]] — 적응을 구동하는 학습자 지식, 기능, 상태의 표현
+- [[knowledge-tracing]] — 시간에 따른 수행으로부터 지식 요소 숙달의 추론
+- [[cognitive-diagnosis]] — 응답으로부터 잠재적 학습자 지식과 속성의 진단
+- [[scaffolding]] — 개별 학습자 필요에 보정된 지원과 소거
+- [[student-experience]] — 학습자가 개인화를 살아 겪는 경험
+- [[learning-analytics]] — 적응에 정보를 주는 학습의 데이터 기반 측정
+- [[formative-assessment]] — 다음에 무엇을 적응시킬지 신호하는 지속적 평가
+- [[summative-assessment]] — 개인화가 비교 가능성을 복잡하게 만드는 종점 평가
+- [[generative-ai]] — LLM 기반 대화형 개인화
+- [[edtech-platform]] — 규모의 개인화 학습을 제공하는 플랫폼
+- [[higher-ed]] — 개인화의 고등교육 맥락
+- [[online-teaching-and-learning]] — 온라인 교수와 학습
+- [[recommender-systems-and-learning-paths]]
+
+## 연결된 문서
+
+- [[bespoke-industry-personalized-lecture-videos-2026]] — 종자 전사록으로부터의 산업 개인화 강의 영상 재생성: 영역 전문가가 평가한 청중 수준 맞춤(Puech 외 2026)
+- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — AI 조교의 프롬프트 공학 미시 개인화(Basu, Kakar와 Goel 2026)
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI 교습은 하나가 아니다: 우리가 실제로 아는 것(Stanford SCALE/NSSA 브리프)
+- [[mishra-control-vs-agency-history-2025]] — 개인화의 두 형태를 구분하다(균일 대 다양한 성과)
+- [[khalifeh-redefining-personalized-learning-ai-2026]] — 개인화 학습의 재정의: 체계적 검토
+- [[deeptutor]] — 교습을 위한 에이전트 네이티브 개인화 기반
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — 개인화된 e-학습을 위한 온톨로지 기반 계층형 혼합 지식 모형
+- [[ai-powered-personalized-learning-elementary-fractions-2026]] — 초등 분수를 위한 개인화 적응 학습
+- [[ai-coaching-rl-skill-development]] — 기능 개발을 위한 강화학습 코칭
+- [[personalized-ai-generated-videos-preference-2026]] — 학생들은 비개인화 인간 녹음 영상보다 개인화 AI 생성 영상을 선호한다(Tomlinson 외 2026)
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 개인화된 학습 경로를 위한 베이지안 인지 진단
+- [[graph-its-adaptive-algorithms-2026]] — 동적 영역을 위한 그래프 기반 지능형 교습(2026)
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT 강화 형성 평가에서의 교수자와 AI의 역할
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: 개인화된 자동 되먹임의 편향
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — 체계적 검토: 적응 경로와 추천 시스템이 고등교육 AI 통합의 선도적 활용 사례
+- [[riedmann-reinforcement-learning-education-review-2026]]
+- [[student-reception-genai-analogies-computing-2026]] — 흠 있으나 기억에 남다: 컴퓨팅 교육에서 흥미 개인화 GenAI 유추에 대한 학생의 비판적 수용
+- [[personalization-paradox-adaptive-learning-emotions-2026]] — 개인화 역설: 인식된 적응 개인화가 학업 감정을 통해 낮은 자기조절 학습과 연합되며, AI 리터러시에 의해 완화(Li, Lin과 Qiu 2026)
+- [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM 기획자는 90.9% 타당성에 도달하지만 명시된 학습자 목표에 경로를 개인화할 때 어떤 모델도 44.7% 적응성을 넘지 못한다(Liu 외 2026)
