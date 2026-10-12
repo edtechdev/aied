@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base
-> A comprehensive knowledge base of 220 concepts, 0 research articles, and 37 FAQs covering AI in education — frameworks, methodologies, and papers.
+> 이 문서는 영어 지식베이스의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다. 개념 페이지와 자주 묻는 질문 페이지가 포함되어 있으며, 문서(논문 요약) 페이지는 영어로 되어 있습니다.
 
 ## Concepts
 

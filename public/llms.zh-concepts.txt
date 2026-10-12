@@ -1,7 +1,7 @@
 # AI in Education Knowledge Base — Concepts and FAQs
 > 这是英文知识库的机器翻译，尚未经母语者审校。包含概念页与常见问题页；文章页仍为英文。
 
-Each page below is linked at its address on the site, so an assistant that can browse may prefer to follow the link; the text is included so an assistant that cannot browse can still answer from it. The individual research papers behind these syntheses are linked from each page and are not reproduced here.
+以下每一页都链接到其在网站上的地址，能够浏览的助手可以优先选择访问链接；此处一并收录正文，以便无法浏览的助手同样能够依据内容作答。这些综述所依据的各篇研究论文已从对应页面链接，未在此转载。
 
 # Concepts
 

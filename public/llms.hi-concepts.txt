@@ -1,7 +1,7 @@
 # AI in Education Knowledge Base — Concepts and FAQs
 > यह अंग्रेज़ी ज्ञानकोश का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है। इसमें अवधारणा और सामान्य प्रश्न पृष्ठ शामिल हैं। लेख पृष्ठ अंग्रेज़ी में ही हैं।
 
-Each page below is linked at its address on the site, so an assistant that can browse may prefer to follow the link; the text is included so an assistant that cannot browse can still answer from it. The individual research papers behind these syntheses are linked from each page and are not reproduced here.
+नीचे प्रत्येक पृष्ठ साइट पर अपने पते से जुड़ा है, जिससे ब्राउज़ कर सकने वाला सहायक लिंक का पालन करना पसंद कर सकता है; यहाँ पाठ भी दिया गया है ताकि जो सहायक ब्राउज़ न कर सके, वह भी इसी उत्तर दे सके। इन सिंथेसिस के पीछे के अलग-अलग शोधपत्र प्रत्येक पृष्ठ से लिंक हैं और यहाँ पुनः उतारित नहीं हैं।
 
 # Concepts
 

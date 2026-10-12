@@ -1,7 +1,7 @@
 # AI in Education Knowledge Base — Concepts and FAQs
-> Full text of 220 concept pages and 37 FAQ pages from the AI in Education Knowledge Base: the syntheses of what the research shows, and the questions those syntheses answer. Small enough to attach to a chat that will not take the complete file.
+> 이 문서는 영어 지식베이스의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다. 개념 페이지와 자주 묻는 질문 페이지가 포함되어 있으며, 문서(논문 요약) 페이지는 영어로 되어 있습니다.
 
-Each page below is linked at its address on the site, so an assistant that can browse may prefer to follow the link; the text is included so an assistant that cannot browse can still answer from it. The individual research papers behind these syntheses are linked from each page and are not reproduced here.
+아래의 각 페이지는 사이트 내 해당 주소로 연결되어 있으므로, 탐색이 가능한 도우미는 링크를 따라가는 편이 낫습니다. 탐색이 불가능한 도우미도 이 텍스트만으로 답할 수 있도록 본문을 함께 수록했습니다. 이 종합의 근거가 되는 개별 연구 논문은 각 페이지에 링크되어 있으며 여기에는 재수록하지 않았습니다.
 
 # Concepts
 
@@ -4782,7 +4782,7 @@ GBL과 게임화는 함께 [[educational-robotics]], [[student-engagement]], [[m
 
 가르치며 배우기는, 보통 protégé effect에 기원을 두는 발견으로서, 가르칠 준비를 하고 실제로 다른 사람이나 teachable agent에게 설명하는 것이 혼자 공부하는 것보다 더 깊은 처리를 낳는다는 것입니다. 가르치기의 요구 — 아이디어를 명료하게 말하고, [[misconceptions|오해]]를 예상하고, 질문에 답하는 것 — 는 학습자로 하여금 지식을 조직하고, 자신의 이해의 빈틈을 식별하며 [[metacognition]]을 강화하는 설명을 생성하게 합니다. AI는 이 생각의 양쪽 방향에서 들어옵니다. [[intelligent-tutoring|tutoring systems]]과 teachable agents는 학생 역할을 할 수 있고, 한편 기계가 학습자가 아니라 설명을 공급할 때 학습에 무슨 일이 일어나는지를 묻는 문헌이 자라나고 있습니다([[generative-ai]], [[cs-education]]).
 
-## The Protégé Effect
+## 프로테제 효과
 
 가르치며 배우기는 가르칠 준비를 하고 실제로 다른 사람에게 설명하는 것이 혼자 공부하는 것보다 더 깊은 처리를 낳는다는 발견에 놓여 있습니다. 가르치기의 요구 — 아이디어를 명료하게 말하고, 오해를 예상하고, 질문에 답하는 것 — 는 학습자로 하여금 지식을 조직하고, 자신의 이해의 빈틈을 식별하고, 보유와 전이를 뒷받침하는 설명을 생성하게 합니다. 이점은 [[collaborative-learning]] 맥락과 teachable agents를 뒷받침하는 잘 구조화된 분야(예: Betty's Brain)에서 가장 뚜렷합니다. protégé effect는 그 메커니즘에 이름을 붙입니다. 학생들은 무언가를 가르치는 데 책임을 느낄 때 더 많은 노력을 기울이고 더 깊이 성찰하므로, 설명과 [[metacognition]]을 통해 [[misconceptions]]을 명료화하고 빈틈을 메웁니다.
 
@@ -22523,7 +22523,7 @@ UDL은 학습자 다양성이 예외가 아니라 규범이라는 통찰 위에 
 설계에 의한 형평성(equity-by-design)은 이 입장을 구현하는 구체적인 방법 가운데 하나입니다. Wenzel, Geiger, Liening(2026)은 사업 [[simulation]] 게임에서 AI [[conversational-ai|대화형 에이전트]]를 위한 CAIS-GBL 프레임워크를 보편적 학습 설계와 조화되는 명시적인 **equity-by-design** 접근법에 근거 지으며, 인지적, [[motivation|동기적]], [[affective-computing|정서적]], [[sociocultural-learning|사회문화적]] 참여에 걸친 메타 요구사항을 도출합니다. 그 설계 원칙과 특징들은 강점, 도전, 흥미에서의 개별 학습자 차이를 다루는 것을 목표로 합니다. 이것은 적응적이고 AI 지원되는 [[game-based-learning|게임 기반 학습]]의 설계에 UDL 원칙을 적용한 구체적인 사례입니다.
 
 AI는 또한 이 문헌에서 UDL의 도구가 아니라 UDL에 대한 장애물로도 나타납니다. 온타리오주 한 대학의 교수 69명을 대상으로 한 [[faculty-accessible-course-design-ai-2026|Sidhu, Atif, Newland(2026)]]의 혼합 방법 연구에서, 네 가지 핵심 주제 가운데 하나는 [[generative-ai|생성 AI]]가 접근 가능한 강의 설계의 진전을 되돌리고 있다는 것입니다. "AI is reducing options I had used"라는 제목 인용구는 그들의 인터뷰에서 나온 것으로, 포용의 일을 해 왔던 과제가 바로 이제 AI가 단번에 완수할 수 있는 것들이기 때문입니다. 그들의 교사 수준 발견은 그 후퇴가 이미 얇은 기반 위에 착륙하는 이유를 보여 줍니다. 응답자의 90%는 자신이 접근 가능한 학습 환경을 만든다고 믿었고, 87%는 자신이 접근성을 적극적으로 고려한다고 답했지만, 절반이 안 되는(46%) 이들만이 대학이 그것을 위한 충분한 자원을 제공한다고 생각했고, 약 5분의 1은 OCR로 읽을 수 있는 PDF나 색상에 독립적인 링크처럼 기초적인 기법을 들어 본 적도 없었습니다. 수요가 제공을 앞서가고 있습니다 — 온타리오 대학 등록생은 2013년부터 2022년까지 17% 늘었지만 접근성 서비스 등록은 126% 증가했습니다 — 따라서 이 연구가 내리는 결론은 AI가 제거한 평가 선택지를 보상하기 위해 UDL 지원에 자원이 배정되어야 한다는 것입니다.
-### Connections
+### 연결
 
 UDL은 [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]], [[learning-design]], 그리고 [[culturally-relevant-pedagogy]]와 연결됩니다. 평가에서 이것은 [[authentic-assessment]]의 표상적 [[bias-mitigation|공정성]] 강조와, 특정한 의사소통 방식을 불이익하게 다루는 도구에 대한 안전장치로서의 [[reducing-ai-misuse]]와 교차합니다. UDL은 고등 교육 장애 맥락에서 가장 흔히 불리는 프레임워크이므로(그곳에서 "special education"은 [[k-12]] 용어입니다), 대학의 장애가 있는 학습자 연구에 연결할 때 종종 올바른 페이지가 됩니다.
 
