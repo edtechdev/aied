@@ -29,6 +29,7 @@ export const CONNECTED_HEADINGS: Record<string, ConnectedHeadings> = {
   ar: { connectedConcepts: 'المفاهيم المتصلة', connectedArticles: 'المقالات المتصلة' },
   he: { connectedConcepts: 'מושגים מחוברים', connectedArticles: 'מאמרים מחוברים' },
   hi: { connectedConcepts: 'संबंधित अवधारणाएँ', connectedArticles: 'संबंधित लेख' },
+  ru: { connectedConcepts: 'Связанные понятия', connectedArticles: 'Связанные статьи' },
 };
 
 /** The connected headings for one locale, falling back to English. */
