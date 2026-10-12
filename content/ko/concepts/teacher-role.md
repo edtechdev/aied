@@ -211,10 +211,10 @@ AI와 함께하는 학문적 진실성은 단속의 문제가 아니라 *설계*
 - [[ai-integrated-teaching-identity-tensions]] — AI 통합 교수에서의 정체성 긴장과 원칙에 입각한 선택성 (Adiozaman & Segar 2026)
 - [[teacher-intervention-k12-ai-based-instruction-2026]] — K-12 AI 기반 교수에서의 교사 개입: 체계적 검토
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 디지털 중재자로서의 교수 개발자: 남아공 HDI에서의 역할 재구성, 정서적 노동, 판단
-- [[where-ai-enters-teacher-work-2026]] — Where Artificial Intelligence Enters Teacher Work
+- [[where-ai-enters-teacher-work-2026]] — 인공지능이 교사 업무에 들어서는 지점
 - [[rodrigues-aied-unplugged-numeracy-2026]] — AIED 언플러그드: 학습자와 AI 사이의 프록시로서의 교사, 훈련과 간접적 노력 감소가 학습 향상을 이끄는 19학급 준실험 (Rodrigues et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-- [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
+- [[instructional-governance-design-computing-education-2026]] — 설계에 의한 교수 거버넌스: 컴퓨팅 교육에서 AI를 위한 틀
+- [[teachers-configure-educational-chatbots-2026]] — 의도대로 가르칠 것인가? 교사들이 교육용 AI 챗봇을 구성하는 방식
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — 수학에서의 교사 중재: 다섯 가지 비판적 중재 실천, 권위의 이동, 무료 대 프리미엄의 알고리즘 격차
 - [[charles-teacher-readiness-by-design-ai-rich-2026]] — 설계에 의한 교사 준비도: 도입이나 자신감이 아닌 설계 역량으로서의 준비도 (Charles 2026)
 - [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — ChatGPT 지원 교사 피드백: 교사들은 AI 초안을 전달이 아니라 큐레이션한다
@@ -222,4 +222,4 @@ AI와 함께하는 학문적 진실성은 단속의 문제가 아니라 *설계*
 - [[kuhail-great-debaters-ai-facilitators-2026]] — 인간 대 AI 토론 중재자: 동등한 평점, 다른 재사용 경로
 - [[yalcin-genai-programming-education-systematic-review-2026]] — 프로그래밍 교육에서의 GenAI: 강사 역할이 가장 덜 연구된 체계적 검토
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — 정보 제공자에서 학습 설계자로: AI가 강화된 교육에서의 휴다고지 교수 실천
-- [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs et al. 2025)
+- [[falhs-teacher-expertise-reflection-2025]] — 숙련 수준이 선호와 성찰 요구를 어떻게 바꾸는가: 교사 역량 강화를 위한 AI 성찰 시스템을 향하여 (Falhs et al. 2025)

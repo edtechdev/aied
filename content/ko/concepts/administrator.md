@@ -72,11 +72,11 @@ ai_assist:
 
 ## 연결된 문서
 
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — AI in educational leadership: comprehensive taxonomy
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy and institutional decision-making
-- [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
-- [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
-- [[institutional-change-framework-ai]] — Institutional change framework for AI
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[sposato-ai-educational-leadership-taxonomy-2025]] — 교육 리더십에서의 AI: 포괄적 분류 체계
+- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — AI를 위한 예측적 거버넌스와 리더십
+- [[alrahmi-org-drivers-ai-adoption-he-2026]] — 고등교육에서 AI 도입의 조직적 동인과 혁신 속성 탐구
+- [[ai-uk-higher-education-policy-2026]] — 영국 고등교육 정책과 기관 의사결정 속의 AI
+- [[ai-campus-wellbeing-tools]] — 캠퍼스 웰빙을 위한 AI 기반 도구
+- [[genai-policies-higher-ed-computing]] — 컴퓨팅 분야의 기관 차원 생성형 AI 정책
+- [[institutional-change-framework-ai]] — AI를 위한 기관 변화 틀
+- [[edtech-privacy-deferral-2026]] — "나중에 고치면 돼요": 에듀테크에서 교육, AI, 그리고 학생 프라이버시 문제의 미루기

@@ -133,11 +133,11 @@ Kim, Baek, Kwak(2026)는 HITL을 Mayer의 멀티미디어 학습 인지 이론(C
 - [[student-support-and-success]] — human judgment inside an automated support flow
 
 ## 연결된 문서
-- [[lee-learner-question-types-ai-education-2026]] — Expert-labeled question classification: humans govern labeling, augmentation, and error analysis (Lee, Atif & Kang 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — Human supervision and governance as the third layer of agentic GAI course design (Ilieva et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (learners in the tutoring loop)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
+- [[lee-learner-question-types-ai-education-2026]] — 전문가가 표지한 질문 분류: 인간이 표지, 보강, 오류 분석을 담당함 (Lee, Atif & Kang 2026)
+- [[ilieva-agentic-genai-higher-education-2026]] — 에이전트형 GAI 강좌 설계의 세 번째 층으로서의 인간 감독과 거버넌스 (Ilieva et al. 2026)
+- [[ko-hughes-vsd-student-centered-its-2026]] — 학생 중심 지능형 튜터링 시스템의 가치 민감형 설계 (튜터링 순환 속 학습자)
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 대규모 전국 쓰기 평가에서의 인간 참여형(HITL) AI 지원 채점 (Curi et al. 2026)
+- [[ai-teammate-task-distribution-medical-training-2026]] — 의료 훈련에서 AI 과업 배분을 다시 생각하는 SCAN 틀 (Tsim et al. 2026)
 - [[agentic-ai-education-scoping-review]]
 - [[becerra-aicofe-feedback-2026]]
 - [[calibrating-trustworthiness-llm-education-2026]]
@@ -145,21 +145,21 @@ Kim, Baek, Kwak(2026)는 HITL을 Mayer의 멀티미디어 학습 인지 이론(C
 - [[cong-confidence-asag-2026]]
 - [[chen-teacharena-language-agents-realistic-teaching-2026]]
 - [[llm-difficulty-calibration-programming-exams-2026]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
-- [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLM은 인간처럼 에세이를 채점하지 않는다 (Mathew et al. 2026)
+- [[kim-ai-andragogy-2026]] — 안드라고지를 지원하는 AI의 적용 (Kim et al. 2026)
+- [[scaffolding-systematic-reviews-2026]] — 멘토링과 AI로 체계적 문헌 고찰에 비계 제공하기 (Wang 2026)
+- [[ai-assisted-instructor-supervised-grading-feedback]] — 교수자가 감독하는 AI 지원 채점 및 피드백
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — AI가 다양한 학생 유형에 적절한 지원을 제공할 수 있는가? 대규모 평가
 - [[breideband-community-builder-cobi-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Tripartite framework: sorting feedback by epistemic status and the five boundary principles for AI involvement (Venetsanos 2026)
-- [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
+- [[ai-standardized-patient-scaffolding-medical-2026]] — 임상 면접 훈련을 위한 비계 지향 다중 에이전트 대형 언어 모형 시스템의 평가
+- [[tripartite-feedback-framework-ai-assessment-2026]] — 삼분 틀: 피드백을 인식론적 지위에 따라 분류하고 AI 개입을 위한 다섯 가지 경계 원칙 제시 (Venetsanos 2026)
+- [[adapted-stories-social-story-intervention-2026]] — 특수 교육에서의 AI 지원 사회 이야기 개입: AdaptED Stories의 설계
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: 교육 대화의 검증 가능한 코딩을 위한 단정 기반 스키마
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — 감정 분류에서 실행 가능하고 책임 있는 피드백으로: 교수 평가에서 NLP의 범위 검토 및 증거 지도, 2015–2026
 
-- [[llm-grading-assistants-public-health-2026]] — Identical LLM grading reruns on different days reproduce at only Krippendorff's alpha 0.625
-- [[when-students-prefer-ai-scoring-feedback-2026]] — Undergraduates prefer human scoring for high-stakes work and AI as an assistant, not a replacement
-- [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
+- [[llm-grading-assistants-public-health-2026]] — 동일한 LLM 채점 보조 도구를 다른 날 재실행하면 Krippendorff의 알파 0.625 수준으로만 재현됨
+- [[when-students-prefer-ai-scoring-feedback-2026]] — 학부생은 중요한 과업에서는 인간 채점을 선호하고, AI는 대체재가 아니라 보조 수단으로 여김
+- [[student-query-demand-hybrid-ai-support-2026]] — 학생이 실제로 묻는 것: 하이브리드 지원 체계에서의 질의 수요 구조와 자동화 가능성

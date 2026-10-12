@@ -91,22 +91,22 @@ ai_assist:
 ## 연결된 문서
 
 - [[ivory-psychology-assessment-integrity-2026]] — 오용 억제책으로서의 버전 관리 증거 흔적과 재현 가능한 분석 문서(Ivory et al. 2026)
-- [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
-- [[ai-assessment-scale-reform]] — The AI Assessment Scale and Assessment Reform
-- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning (K-12 AI Literacy Module)
-- [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: GenAI Declaration Frameworks
-- [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline
-- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time
-- [[ssaho-ai-academic-integrity-review-2025]] — Culture-building and assessment redesign over detection policing
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Cognitive surrender, productive friction, and metacognitive inequity
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+- [[generative-ai-guardrails-harm-learning]] — 안전장치 없는 생성형 AI는 학습을 해칠 수 있음
+- [[genai-performance-vs-learning]] — 성과 향상과 학습을 구분하기
+- [[ai-assessment-scale-reform]] — AI 평가 척도와 평가 개혁
+- [[critical-thinking-genai-scaffolding]] — 생성형 AI로 비판적 사고 비계 설정하기
+- [[aaai2026-prompting-literacy-k12]] — 학습을 위해 AI 사용하기 배우기(K-12 AI 리터러시 모듈)
+- [[genai-declaration-frameworks-higher-education]] — 투명성 구조화하기: 생성형 AI 신고 체계
+- [[absent-cognitive-baseline-2026]] — 부재하는 인지적 기저선
+- [[ai-literacy-power-knowledge]] — AI 리터러시: 권력-지식의 작용
+- [[contextual-sycophancy-ai-literacy]] — 맥락적 아첨의 숨은 대가: AI 리터러시 개입
+- [[sycophantic-ai-social-interaction-2026]] — 아첨하는 AI가 시간이 지남에 따라 인간의 상호작용을 더 많은 노력이 들고 덜 만족스럽게 만듦
+- [[ssaho-ai-academic-integrity-review-2025]] — 탐지 단속보다 문화 조성과 평가 재설계
+- [[young-people-learning-generative-ai-rapid-review-2026]] — 인식적 항복, 생산적 마찰, 인지적 불평등
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — AI에 강한 진정한 평가로서의 구술 시험 재고하기
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 생성형 AI로 인한 학습의 손실: 과제 외주가 학습을 해친다
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Guardrails removed harm without improving exam scores
+- [[ai-overreliance-complex-adaptive-system-2026]] — 복잡 적응 체계로 모형화된 AI 과의존
+- [[burneo-can-edtech-close-learning-gaps-2026]] — 제거된 안전장치가 시험 성적 향상 없이 해악만 낳음
 - [[munoz-misconduct-allegation-evidence-2026]] — 부정행위 고발 파일에 실제로 담긴 증거
 - [[wright-transcription-not-generation-2026]] — 과도하게 포섭하는 AI 규정과 그것이 잡아들이는 학생들
 - [[sharma-judgment-visible-genai-assessment-2026]] — 준수가 아니라 평가적 판단으로서의 진실성

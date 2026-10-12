@@ -153,7 +153,7 @@ AI 리터러시는 이 지식 기반에서 가장 풍부한 검사 도구 보유
 - [[jin-glat-genai-literacy-assessment]] — GLAT: IRT로 타당화된 생성형 AI 리터러시 검사 (Jin 등 2025)
 - [[icap-cognitive-engagement-llm-agents]] — 확장된 ICAP 프레임워크로 인지 참여 측정하기
 - [[roe-assessment-twins-2026]] — 생성형 AI 아래에서 평가 타당도를 강화하는 평가 쌍둥이
-- [[ai-literacy-heptagon-2026]] — AI Literacy Heptagon
+- [[ai-literacy-heptagon-2026]] — AI 리터러시 헵타곤
 - [[ai-literacy-assessment-misalignment]] — 자기보고 대 수행의 AI 리터러시 불일치
 - [[teacher-education-ai-literacy-sdt-2026]] — 자기결정 이론을 통한 교사 AI 리터러시
 - [[acceptance-ai-english-tools-2026]] — 영어 학습 도구를 위한 AI 수용 측정

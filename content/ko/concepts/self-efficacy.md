@@ -77,26 +77,26 @@ ai_assist:
 - [[self-report-measures]]
 - [[social-emotional-learning]] — Social-Emotional Learning
 ## 연결된 문서
-- [[confident-but-absent-ai-use-absenteeism-2026]] — General AI use tracked with higher self-efficacy and higher absenteeism, yet self-efficacy did not predict attendance (Franco et al. 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — AI chatbots in higher education: comparing expectations to evidence (Thoeni & Fryer 2026)
-- [[genai-performance-vs-learning]] — confidence rising while technological dependence grows: self-efficacy as a misleading AI-era outcome (Yan et al. 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — AI-supported e-mentoring raises EFL pre-service teachers' self-efficacy and emotional intelligence (quasi-experimental)
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
+- [[confident-but-absent-ai-use-absenteeism-2026]] — 일반적 AI 사용이 높은 자기효능감과 높은 결석과 함께 움직였으나, 자기효능감은 출석을 예측하지 못함 (Franco et al. 2026)
+- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 고등교육에서의 AI 챗봇: 기대와 증거의 비교 (Thoeni & Fryer 2026)
+- [[genai-performance-vs-learning]] — 기술 의존이 커지는 가운데 상승하는 자신감: 오도하는 AI 시대 결과로서의 자기효능감 (Yan et al. 2025)
+- [[ai-supported-ementoring-efl-preservice-2026]] — AI가 지원하는 e-멘토링이 EFL 예비 교사의 자기효능감과 정서 지능을 높임 (준실험적)
+- [[aigc-affordance-student-self-regulation-2026]] — AIGC 가능성과 학생 자기조절
 - [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — AI Literacy, AI Readiness, and Career Adaptability
+- [[ai-literacy-career-adaptability-business-2026]] — AI 리터러시, AI 준비도, 그리고 경력 적응성
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[social-robot-study-companions]] — Social Robots as Study Companions
-- [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP Framework
+- [[teacher-education-ai-literacy-sdt-2026]] — 자기결정이론을 통한 AI 리터러시 교사 교육 (SDT)
+- [[social-robot-study-companions]] — 학습 동반자로서의 사회적 로봇
+- [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP 틀
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use and academic self-efficacy
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
-- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — AI literacy, trust and academic self-efficacy in a serial chain to continued ChatGPT use
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Academic self-efficacy profiles and reported AI use among university students with motor disabilities
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Reported creative self-efficacy gains from generative AI in children (scoping review)
+- [[stamatoulis-genai-use-patterns-2026]] — 생성형 AI 사용 양상과 학업 자기효능감
+- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS 척도: AI 리터러시 강좌에서 역량 강화와 윤리 인식이 PBL과 만족도를 매개함 (Zhu & Kong 2026)
+- [[predicting-attrition-competitive-programming]] — 경쟁 프로그래밍에서의 학생 중도 이탈 예측
+- [[genai-xr-architectural-design-education-2026]] — 협력적 건축 디자인 교육에서의 생성형 AI와 확장 현실: 탐색적 스튜디오 연구
+- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — 지속적인 ChatGPT 사용에 이르는 연쇄 경로에서의 AI 리터러시, 신뢰, 학업 자기효능감
+- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — 운동장애 대학생이 보고한 AI 사용과 학업 자기효능감 유형
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — 아동의 생성형 AI로부터 보고된 창조적 자기효능감 이득 (범위 검토)
 
-- [[ai-speaking-practice-communicative-readiness-2026]] — Speaking self-efficacy reverses the anxiety pathway from AI-assisted practice to willingness
-- [[faculty-ai-well-being-social-supports-2026]] — Faculty SEM: technological self-efficacy a weak predictor of AI well-being
-- [[cen-self-efficacy-favorability-2026]] — Self-efficacy and favorability shape learning from tutoring systems and paper practice (Cen et al. 2026)
+- [[ai-speaking-practice-communicative-readiness-2026]] — 말하기 자기효능감이 AI 보조 연습에서 의향으로 가는 불안 경로를 역전시킴
+- [[faculty-ai-well-being-social-supports-2026]] — 교수진 SEM: AI 웰빙의 약한 예측 변수로서의 기술적 자기효능감
+- [[cen-self-efficacy-favorability-2026]] — 자기효능감과 호감도가 튜터링 시스템과 종이 연습으로부터의 학습을 형성함 (Cen et al. 2026)

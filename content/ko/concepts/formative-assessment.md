@@ -139,41 +139,41 @@ AI 교육에서의 형성평가는 학습 과정 자체와 연결됩니다.
 - [[summative-assessment]] — 총괄평가: AI 저항형 양식(구두, 감독 하 시험, 폐쇄 서적 시험)
 ## 연결된 문서
 - [[llm-multi-agent-conversation-assessment-2025]] — 중간 범주로 기우는 평가자를 둔 대화 기반 평가를 위한 4에이전트 구조(Hou et al. 2025)
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide approaches to redesigning assessment in the GenAI era
-- [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: from provision to enactment
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of GenAI
-- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
-- [[sequenced-ai-feedback-learning]] — Impact and pathways of sequenced AI feedback
-- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — From automated scoring to learning diagnosis: a mechanism study of AI-supported formative assessment in English writing
-- [[ai-internal-feedback-evaluative-judgments]] — Developing evaluative judgments through AI-supported internal feedback
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: formative assessment scoring with human-in-the-loop prompting
-- [[automated-formative-assessments-a-level-sciences]] — High-frequency automated formative assessment
-- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
-- [[ai-learning-tools-engineering-education-needs]] — LearnLens: curriculum-grounded AI feedback
-- [[genai-teacher-feedback-comparison]] — GenAI vs. teacher feedback comparison
-- [[chatgpt-feedback-engagement-genai]] — ChatGPT feedback and engagement
-- [[code-gen]] — CODE-GEN: validated MCQ generation
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for authentic assessment
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated grading of Linux/bash exams
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
+- [[causal-modeling-competency-assessment-2026]] — 학생 역량 평가를 위한 지원 개입의 인과 모형화
+- [[nicola-richmond-programwide-assessment-genai-2025]] — 생성형 AI 시대에 평가를 재설계하는 프로그램 차원의 접근
+- [[ai-feedback-enactment-workflow-2026]] — AI가 생성한 피드백이 실제로 작동하게 하기: 제공에서 실행으로
+- [[care-full-feedback-genai]] — 생성형 AI 시대의 피드백에 관한 정성껏 다루는 기술
+- [[feedback-futures-genai]] — 피드백의 미래: 인간과 생성형 AI 역량의 한계를 넘어서
+- [[sequenced-ai-feedback-learning]] — 순차적 AI 피드백의 영향과 경로
+- [[learner-centered-feedback-ai]] — AI를 활용한 학습자 중심 피드백의 강화
+- [[automated-scoring-learning-diagnosis-mechanism-2026]] — 자동 채점에서 학습 진단으로: 영어 쓰기에서 AI가 지원하는 형성 평가의 메커니즘 연구
+- [[ai-internal-feedback-evaluative-judgments]] — AI가 지원하는 내부 피드백을 통한 평가적 판단의 발달
+- [[cotal-formative-assessment-scoring-2026]] — CoTAL: 인간 참여형 프롬프팅을 활용한 형성 평가 채점
+- [[automated-formative-assessments-a-level-sciences]] — 고빈도 자동 형성 평가
+- [[ai-generated-feedback-higher-ed]] — 고등교육에서 AI가 생성한 피드백
+- [[ai-learning-tools-engineering-education-needs]] — LearnLens: 교육과정에 근거한 AI 피드백
+- [[genai-teacher-feedback-comparison]] — 생성형 AI 피드백과 교사 피드백의 비교
+- [[chatgpt-feedback-engagement-genai]] — ChatGPT 피드백과 참여
+- [[code-gen]] — CODE-GEN: 검증된 선다형 문항 생성
+- [[responsible-assessment-ai-era-stanford-2026]] — AI 시대의 책임 있는 평가
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — 진정한 평가를 위한 설계
+- [[automated-grading-linux-bash-examinations-large-language-models]] — Linux/bash 시험의 자동 채점
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT가 강화된 형성 평가에서의 교수자와 AI의 역할
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 진정하고 AI에 강한 평가로서의 구술 시험 재고
+- [[roe-assessment-twins-2026]] — 생성형 AI 시대에 평가 타당성을 강화하는 평가 쌍 (Roe, Perkins & Giray 2026)
+- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI 평가 채점 기준표 생성
+- [[ai-assisted-instructor-supervised-grading-feedback]] — 교수자가 감독하는 AI 지원 채점 및 피드백
+- [[adaptive-scaffolding-cognitive-engagement-its]] — 지능형 튜터링 시스템에서의 적응형 ICAP 비계 (BKT 대 DRL)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — 반복적 교수 설계의 주체로서의 LLM
 - [[auto-marking-short-answer-science-2026]]
 - [[gpt4-feedback-student-activation-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-feedback-adaptivity-children-plans-2026]] — Adaptivity makes feedback effective: evidence from AI-generated feedback on children's plans
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Automated scoring, interpreting performance, and self-regulated learning (Chen & Liu 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Teachers' diagnostic skills in AI-supported formative assessment: from diagnosis to meta-diagnosis
-- [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — Perceived usefulness and intention to use LLM-generated feedback in programming across three educational levels
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Adaptive teaching assistance combining generative AI and big data analytics in music education
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[mcnamara-aim-cai-continuous-assessment-2026]] — AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time (McNamara & Hasnine 2026)
+- [[ai-feedback-adaptivity-children-plans-2026]] — 적응성이 피드백을 효과적으로 만듦: 아동의 계획에 대한 AI 생성 피드백에서의 증거
+- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — 자동 채점, 수행의 해석, 그리고 자기조절 학습 (Chen & Liu 2026)
+- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — AI가 지원하는 형성 평가에서 교사의 진단 역량: 진단에서 메타 진단으로
+- [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — 세 교육 단계에 걸친 프로그래밍 학습에서 LLM 생성 피드백의 인식된 유용성과 사용 의향
+- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — 음악 교육에서 생성형 AI와 빅데이터 분석을 결합한 적응형 교수 지원
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — 데이터 과학 강좌에서 학생의 LLM 사용과 AI 생성 문항 난이도의 한계
+- [[mcnamara-aim-cai-continuous-assessment-2026]] — AI 매개 지속적 평가 인프라(AIM-CAI): 맥락과 시간을 넘어 학습 증거를 연결하기 (McNamara & Hasnine 2026)

@@ -70,9 +70,9 @@ ai_assist:
 
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — 구두 설명에서 구현된 인지를 위한 멀티모달 틀
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 구현된 지능을 통한 지속 가능한 학습 육성(E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
+- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly 신체화된 블록 프로그래밍
+- [[motibo-digital-storytelling-robots-motivation-2026]] — 동기를 위한 로봇 매개 디지털 스토리텔링(MotiBo)
+- [[remind-robot-mediated-roleplay-antibullying-2026]] — 목격자 개입을 위한 로봇 매개 역할극 게임 (응용 드라마)
 - [[pepper-robot-sign-language-lis-2025]] — Pepper와 수화
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — 창의적 글쓰기에서의 로봇-LLM 통합
 - [[robot-assisted-language-learning-meta-analysis-2026]] — AI가 강화된 구현된 로봇 지원 언어 학습에 대한 메타분석

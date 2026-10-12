@@ -115,30 +115,30 @@ K-12 머신러닝 활동 설계는 표면에 머물러 있습니다. ICE-T 프�
 - [[recommender-systems-and-learning-paths]]
 ## 연결된 문서
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — GenAI 기반 구성적 정렬 지침의 비판적 담론 분석(McInnes et al. 2026)
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
+- [[icet-ml-education-trust-2026]] — 교육을 통한 AI 시스템의 신뢰 다루기: 교수법적 관점
 - [[refrain-amplify-genai-curriculum-2026]] — 생성 AI를 배열하는 물림-후-증폭 교육과정 프레임워크(Torres-Sahli et al. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
-- [[ying-genai-journalism-assessment-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
+- [[mechanical-engineering-ai-curriculum-2026]] — 열공학에서의 프로젝트 기반 AI 교육 교육과정
+- [[ying-genai-journalism-assessment-2026]] — 교실 설계에서 뉴스룸 실천으로: 생성형 AI를 다루는 평가 개입 설계
+- [[rook-plumb-genai-curricula-student-insights-2026]] — 대학 교육과정에 생성형 AI 통합하기: 학생의 시선
+- [[zhou-constructive-alignment-genai-business-2026]] — 실험에서 통합으로: 구성적 정렬의 렌즈를 통한 경영 고등교육에서의 생성형 AI 내재화
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — AI 시대 스마트 제조를 위한 Workforce Readiness Level 프레임워크
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
-- [[critical-media-literacy-education-2026]]
-- [[reshaping-cs-education-genai]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[curriculum-as-code-instructional-design-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[hingle-collaborative-ai-literacy-2025]]
+- [[rewriting-curriculum-genai-pedagogy-2026]] — 교육과정 다시 쓰기: 생성형 AI가 이끄는 교수법적 변화
+- [[critical-media-literacy-education-2026]] — 기술, 교육, 비판적 미디어 리터러시: 가능성, 도전, 기회
+- [[reshaping-cs-education-genai]] — 생성형 AI 시대의 학부 컴퓨터 과학 교육 재구성
+- [[ase-26-agentic-software-engineering-curriculum]] — 하나의 학문으로서의 에이전트형 소프트웨어 공학을 위한 ASE-26 교육과정
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — 강의계획서 분석을 통한 AI 지원 소프트웨어 공학의 새 교육과정 지형 그리기
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — 교육에서 형평성 있는 AI 리터러시 틀 설계를 위한 델파이 연구 결과로서의 비계적 AI 리터러시(SAIL) 틀
+- [[curriculum-as-code-instructional-design-2026]] — 코드로서의 교육과정: STEM 교육을 위한 AI 지원 수업 설계 구조
+- [[tracing-genai-literacy-interaction-patterns]] — 생성형 AI 리터러시 추적하기: 학문적 글쓰기에서의 학생-AI 상호작용 양상
+- [[finkelstein-principled-ai-education-2025]] — 교육에서의 AI에 대해 생각하는 원칙 있는 방식: 목표와 모형에 근거한 교육자와 정책 입안자를 위한 지침
+- [[hingle-collaborative-ai-literacy-2025]] — AI 리터러시 촉진을 위한 협력 학습 활동에 관한 체계적 고찰
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — 교육과정 매핑을 위한 26가지 평가 가능 AI 기술 프레임워크
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: 학제를 넘는 적시의 AI 공동 창작
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
+- [[ai-video-dual-gatekeeping-2026]] — "아니오"라고 말하는 것이 더 나은 영상을 만든다: 교수법에 뿌리내린 AI 영상 제작을 위한 이중 관문
 - [[niri-steam-ai-literacy-review-2026]] — AI 리터러시를 위한 STEAM 교육: 체계적 문헌고찰
-- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
+- [[caruana-pre-university-ai-education-slr-2026]] — AI로 이끄는 미래를 위한 학습자와 교사 준비하기: 대학 전 AI 교육에 관한 체계적 문헌고찰(Caruana et al. 2026)
 - [[ai-modeling-problem-generation-platform-2026]] — 수학적 모델링 문제를 생성하는 AI 기반 플랫폼(ADDIE, RAG)
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[luo-tahir-chatgpt-steam-lesson-planning-2026]] — 아동 STEAM 미술 교육을 위한 ChatGPT 지원 수업 계획: 이점, 도전, 방법, 그리고 프롬프트 틀에 관한 실험 연구
+- [[karaismailoglu-ai-lesson-plans-science-experts-2026]] — 과학 교육 전문가의 관점에서 본 AI 지원 수업 계획의 적합성
+- [[ai-particle-physics-education-redesign-2026]] — 입자 물리 교육에서의 AI: 연구 문제와 기초 역량
+- [[computing-assessment-genai-workshop-report-2026]] — AI가 여러분의 숙제를 해 줄 수 있습니다. 이제 무엇을 할까요? 생성형 AI 시대의 컴퓨팅 평가에 관한 온라인 워크숍 보고서

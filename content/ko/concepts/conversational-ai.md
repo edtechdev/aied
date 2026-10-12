@@ -102,30 +102,30 @@ ai_assist:
 - [[parents-and-families]]
 ## 연결된 문서
 
-- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors in student-AI dialogues (Rho et al. 2026)
+- [[rho-disengaged-conversational-behaviors-2026]] — 학생-AI 대화에서 나타나는 비참여적 대화 행동 (Rho et al. 2026)
 
-- [[mata-sustaining-ai-enabled-student-support-2026]] — Sustaining AI-enabled student support: four-year implementation and impact study of an institutional chatbot (Mata, Russell & Page 2026)
-- [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
-- [[llm-agents-5e-esl-grammar-2026]] — LLM agents with 5E framework for ESL grammar acquisition (Yang et al. 2026)
+- [[mata-sustaining-ai-enabled-student-support-2026]] — AI 기반 학생 지원의 지속: 기관 챗봇의 4년 도입 및 영향 연구 (Mata, Russell & Page 2026)
+- [[usher-faraon-who-grades-best-2026]] — 프로젝트 질 수준에 따른 ChatGPT, 동료, 교수의 채점 비교 (Usher & Faraon 2026)
+- [[llm-agents-5e-esl-grammar-2026]] — ESL 문법 습득을 위한 5E 틀 기반 LLM 에이전트 (Yang et al. 2026)
 - [[semantic-variability-llm-conversation-assessment-2026]]
-- [[colbran-student-perspectives-genai-chatbots-2026]] — Student perspectives on GenAI chatbots (mixed methods)
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Adoption personas for AI chatbots
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-- [[conversational-ai-tutors-framework]] — Conversational AI tutors framework
-- [[measuring-llm-tutors-teach-vs-solve]] — Measuring whether LLM tutors teach or solve
-- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs general AI
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking scaffolding in LLM tutors
-- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
-- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender and motivation in GenAI achievement
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Role-adaptive AI companion for elementary book talk; affective ceiling of fixed-role agents (Liao 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space in small-group dynamics (Xu et al. 2026)
+- [[colbran-student-perspectives-genai-chatbots-2026]] — 생성형 AI 챗봇에 대한 학생의 관점 (혼합 방법)
+- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — AI 챗봇 도입 페르소나
+- [[conversational-ai-agents-umbrella-review-2026]] — 교육에서 대화형 AI 에이전트에 관한 엄브렐라 고찰
+- [[conversational-ai-tutors-framework]] — 대화형 AI 튜터 틀
+- [[measuring-llm-tutors-teach-vs-solve]] — LLM 튜터가 가르치는지 풀이하는지 측정하기
+- [[stanford-evidence-base-ai-k12-2026]] — 튜터링 특유의 AI 대 일반적 AI
+- [[rethinking-scaffolding-llm-tutors]] — LLM 튜터에서 비계 다시 생각하기
+- [[conversational-agents-novice-programmers-scoping-2025]] — 프로그래밍 초보자를 위한 대화형 에이전트에 관한 범위 검토
+- [[ba-ai-agents-cscl-review-2026]] — 컴퓨터 지원 협력 학습에서의 AI 에이전트에 관한 고찰
+- [[lee-wu-gender-motivation-genai-achievement-2026]] — 생성형 AI 성취도에서의 성별과 동기
+- [[liao-role-adaptive-ai-companion-book-talk-2026]] — 초등 독서 토론을 위한 역할 적응형 AI 동반자: 고정 역할 에이전트의 정서적 한계 (Liao 2026)
+- [[xu-genai-collaborative-space-2026]] — 소집단 역학에서 에이전트이자 협력적 공간인 생성형 AI (Xu et al. 2026)
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- [[culturally-aware-student-stress-chatbot-2026]] — NLP와 기계학습을 활용한 파키스탄 대학생의 스트레스 감지와 웰빙 지원을 위한 문화를 인식하는 AI 챗봇
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI 튜터링과 인간 튜터링이 동등한 GRE 학습 이득을 산출함
 
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
+- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: 문제 해결 중 표적화된 AI 도움 요청을 위한 비계
 
 ## 인용
 

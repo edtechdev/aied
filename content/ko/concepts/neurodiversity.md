@@ -102,7 +102,7 @@ AI 시대에 이 규정은 슬로건이 아니라 하나의 설계 시험이 됩
 - [[neurodivergent-computing-students]] — 구조, 모호함, 협력에 대한 신경다양 컴퓨팅 학생 24명의 증언
 - [[genai-reliance-executive-functioning-2026]] — 실행기능의 어려움, 지각된 유용성, AI 의존으로 가는 길
 - [[seung-basham-cognitive-offloading-swld-2026]] — 학습장애를 지닌 학생들을 위한 생성형 AI의 인지적 오프로딩
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
+- [[dabaghi-ai-dyslexia-education-review-2026]] — 교육에서 난독증이 있는 사람을 돕는 AI
 - [[genai-minoritized-knowledges-disability]] — 생성형 AI와 소수화된 지식의 소외
 - [[tactile-statistical-graphs-accessibility]] — 접근성을 위한 촉각 통계 그래프
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
+- [[ai-learning-tools-engineering-education-needs]] — 욕구 및 주의 인식 AI 학습 도구의 설계

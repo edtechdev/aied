@@ -92,22 +92,22 @@ AES는 [[automated-assessment]], [[writing-education]], [[generative-ai]]의 교
 
 ## 연결된 문서
 
-- [[reflection-level-classification-hungarian-essays-2026]] — Automatic Reflection Level Classification in Hungarian Student Essays
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with LLMs
+- [[reflection-level-classification-hungarian-essays-2026]] — 헝가리 학생 에세이의 성찰 수준 자동 분류
+- [[wraft-automated-writing-evaluation-argumentative-2026]] — 논증 에세이를 위한 모듈화된 자동 글쓰기 평가 체계 WrAFT
+- [[automated-essay-scoring-critical-thinking-physics-2026]] — 고등학교 물리학 에세이의 비판적 사고 평가를 위한 다차원적 틀을 통한 자동 에세이 채점을 통한 교육 혁신
+- [[opraise-automated-marking-ai-assessment-2026]] — 영국 3개 대학의 대학 에세이 761편에 대한 AI 채점 OpRaise 보고서
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 대규모 글쓰기 평가에서 AI 보조 채점을 위한 인간 개입 프레임워크
+- [[zhang-races-consistent-essay-scoring-llms-2026]] — LLM을 활용한 보상 정렬된 일관된 에세이 채점 RACES
 - [[ai-scoring-language-bias-physics]]
 - [[choi-anchor-aes-prompting-2025]]
 - [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLM은 인간처럼 에세이를 채점하지 않는다 (Mathew et al. 2026)
 - [[psyscore-essay-scoring-zpd-feedback]]
 - [[self-referential-l2-writing-llm-assessment]]
 - [[aiawe-automated-writing-evaluation]]
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — From automated scoring to learning diagnosis: a mechanism study of AI-supported formative assessment in English writing
-- [[llm-essay-scoring-feature-weighting-2026]] — Feature weighting patterns in LLM-based essay scoring (Wang et al. 2026)
-- [[llm-essay-assessment-framework-reliability-2026]] — Framework for evaluating LLMs in essay assessment (Liu, Ye & Yan 2026)
+- [[automated-scoring-learning-diagnosis-mechanism-2026]] — 자동 채점에서 학습 진단으로: 영어 글쓰기에서 AI 지원 형성 평가의 메커니즘 연구
+- [[llm-essay-scoring-feature-weighting-2026]] — LLM 기반 에세이 채점의 특성 가중치 양상 (Wang et al. 2026)
+- [[llm-essay-assessment-framework-reliability-2026]] — 에세이 평가에서 LLM을 평가하기 위한 틀 (Liu, Ye & Yan 2026)
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: self-confidence, weighted probabilistic scoring and ensembling improve LLM scoring agreement
-- [[swim-student-writing-simulation-2026]] — a frozen AES verifier used as a dense training reward for a writing generator
+- [[know-when-to-trust-ai-scoring-reliability-2026]] — 언제 신뢰할지 알기: 자기 확신, 가중 확률적 채점, 앙상블이 LLM 채점 일치도를 향상시킴
+- [[swim-student-writing-simulation-2026]] — 글쓰기 생성기의 고밀도 학습 보상으로 사용된 고정된 AES 검증기

@@ -95,16 +95,16 @@ ai_assist:
 
 - [[ai-personal-coach-review-benefits-risks-2026]] — 정량화된 아첨: LLM 응답이 인간보다 49% 더 많이 확인하며 사용자로부터 책임을 옮긴다
 
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
+- [[reflection-agent-fidelity-career-2026]] — 확인할 수 있는 곳에서 충실하게: 무작위 시험에서 성찰 에이전트를 시스템 프롬프트에 비추어 감사하기
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 일과 관계에서의 교정적 피드백의 상실로서의 아첨
 - [[sycophantic-ai-social-interaction-2026]] — 아첨적 AI가 인간 상호작용을 시간이 지나며 더 노력 들고 덜 만족스럽게 만든다
 - [[eduframetrap-llm-sycophancy-educational-safety]] — 아첨은 교육적 안전 위험이다: LLM 튜터가 아첨 벤치마크를 필요로 하는 이유
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
+- [[contextual-sycophancy-ai-literacy]] — 맥락적 아첨의 숨은 대가: AI 리터러시 개입
+- [[llm-student-simulation-misconception-faithfulness]] — 학생을 시뮬레이션하는가, 아첨적인 문제 풀이인가
 - [[socially-fluent-ai-identity-detection]] — 사회적으로 유창한 AI가 대화 신호를 출처 정체성과 분리한다
-- [[eduzone-llm-safety-k12]] — EduZone: Evaluating LLM safety for K-12 students and teachers
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
-- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[eduzone-llm-safety-k12]] — EduZone: K-12 학생과 교사를 위한 LLM 안전성 평가
+- [[llm-fallacy-misattribution]] — LLM 오류와 역량의 잘못된 귀속
+- [[hazra-safetutors-pedagogical-safety-2026]] — AI 튜터 안전성과 교수법적 위해
+- [[educational-llm-alignment]] — 교육용 LLM 정렬
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: 위임(대체) 과업에서 아첨 위험이 가장 높고, 과업 지식이 충분한 곳에서는 낮다
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+- [[authentic-assessments-generative-ai-pilot-2026]] — 생성형 AI로 실제적 평가 설계하기: 고등교육에서의 평가 진정성 파일럿 연구

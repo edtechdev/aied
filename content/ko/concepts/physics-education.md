@@ -115,7 +115,7 @@ ai_assist:
 
 ## 연결된 문서
 
-- [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
+- [[genai-video-engineering-physics-workflow-2026]] — 프롬프트에서 물리 법칙으로: 공학 물리 교육을 위한 생성형 AI 워크플로
 - [[wang-teacher-student-centered-agents-physics-2026]] — 교사 중심 대 학생 중심 프롬프트 설계 물리 에이전트 (Wang et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[benzion-ai-physics-simulations-virtual-lab]] — AI를 사용한 물리 시뮬레이션 / 가상 실험실의 신속 생성 (Ben-Zion et al. 2025)

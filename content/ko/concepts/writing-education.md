@@ -133,7 +133,7 @@ ai_assist:
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 - [[coach-not-crutch-ai-writing]] — AI 쓰기 도구는 노력을 줄이면서도 쓰기 기술을 개선할 수 있다(Lira et al. 2025)
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLM은 인간처럼 에세이를 채점하지 않는다(Mathew et al. 2026)
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
+- [[pairr-ai-peer-review-2025]] — 구조화된 성찰을 곁들인 동료-AI 검토(PAIRR)
 - [[posthumanist-ai-literacy-2025]] — AI 리터러시에 관한 포스트휴먼주의 접근
 - [[choi-anchor-aes-prompting-2025]] — 앵커 기반 자동 에세이 채점
 - [[aiawe-automated-writing-evaluation]] — AIAWE: 자동화된 쓰기 평가

@@ -140,40 +140,40 @@ ai_assist:
 - [[cognitive-surrender]]
 
 ## 연결된 문서
-- [[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning
-- [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — Learner agency as the emergent quality of coordinating domain, AI and metacognitive competencies, not a standalone node (Dang et al. 2026)
+- [[tench-ai-policy-isnt-a-playbook-2026]] — 미국 교사와 교장을 대상으로 한 전국 대표 표본 조사: AI 정책의 범위, 주체성, 그리고 다섯 가지 수업 실행 방안 (Tench, Weinstein & James 2026)
+- [[genai-reliance-human-agency-collaborative-learning-2026]] — 돕는 손인가 지배하는 파트너인가? 협력 학습에서 생성형 AI 의존과 인간 주체성에 대한 개인의 인식
+- [[yan-agentivism-learning-theory-ai-2026]] — 인간-AI 상호작용을 위한 중범위 학습 이론: 네 가지 메커니즘과 여섯 개의 검증 가능한 명제 (Yan and Gašević 2026)
+- [[dang-human-ai-collaboration-competency-2026]] — 학습자 주체성은 독립적 요소가 아니라 영역·AI·메타인지 역량을 조율하는 과정에서 드러나는 특성 (Dang et al. 2026)
 
-- [[learner-agency-ai-simulation-2026]] — Access to choice vs. agency enacted: sliders, an optional AI agent and learning in a flocking simulation
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[ai-mediated-research-agency-formation-2026]] — AI-mediated research agency formation in early-career scientific training
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
+- [[learner-agency-ai-simulation-2026]] — 선택에 대한 접근과 실제로 실현된 주체성의 구분: 군집 시뮬레이션에서의 슬라이더, 선택적 AI 에이전트, 학습
+- [[guarded-adoption-genai-higher-education-2026]] — 고등교육에서 생성형 AI의 보호된 도입
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI 에이전트, 즐거운 평가, 그리고 제3의 공간
+- [[ai-mediated-research-agency-formation-2026]] — 초기 경력 과학자 양성에서 AI가 매개하는 연구 주체성 형성
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — 생성형 AI 지원 글쓰기에서의 계층 민감적 인지 오프로딩 (Chen 2026)
+- [[school-ai-education-readiness-gaps-agency-2026]] — 학교 AI 교육은 심리적 준비 격차는 좁히지만 인지적 준비 격차는 좁히지 않음
 - [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[du-yuan-epistemic-dependence-2026]] — Relational epistemic agency and six criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
-- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
-- [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
+- [[du-yuan-epistemic-dependence-2026]] — 관계적 인식론적 주체성과 생산적 의존을 유해한 의존과 구분하는 여섯 가지 기준 (Du & Yuan 2026)
+- [[ai-pedagogical-accompaniment-amico]] — STEM 정체성을 뒷받침하는 AI 기반 교육적 동행
+- [[t2i-competence-paradox-2026]] — 역량의 역설: 텍스트-이미지 생성형 AI 사용에서의 창조적 정체성
+- [[jin-emergent-learner-agency-implicit-hai-2026]] — 암묵적 인간-AI 협업에서 드러나는 학습자 주체성: 지지적 페르소나 대 반대적 페르소나
+- [[de-barba-srl-genai-2026]] — 규모에 따른 학습자 주체성: 규제, 통합, 위치 설정
+- [[mishra-control-vs-agency-history-2025]] — 통제 대 주체성 — AIED 역사의 핵심 긴장
+- [[daoism-ai-education-philosophy-2026]] — 대안적 AI 철학: 교육에서의 AI에 대한 방법으로서의 도가
+- [[human-autonomy-agency-hri-review-2025]] — 인간-로봇 상호작용에서의 인간 자율성과 주체성
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Foster student agency in learning-relevant work
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision: agency as zero-sum with tool agency
-- [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of agency in GenAI-mediated group assessment: intensified, restrained, and not enacted
-- [[ai-integrated-teaching-identity-tensions]] — Principled selectivity as teacher agency in AI-integrated teaching (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal as diagnostic evidence: non-use as a situated relation and the uneven right to decline AI (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — epistemic authority asserted through interruption, correction and refusal rather than maximal tool use
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Competency vs. agency as the purposes of AI education, and the informed AI agency heuristic (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Teacher mediation as the condition keeping GenAI an artifact for critique rather than an authority (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Teacher agency as a resource mobilized through design, with readiness judged from artifacts rather than usage (Charles 2026)
-- [[yang-balancing-teacher-student-agency-2026]] — Balancing teacher and student agency in co-orchestration tools for real-time dynamic pairing (Yang et al. 2026)
+- [[knowledge-based-design-generative-social-robots-2026]] — 생성형 사회적 로봇의 지식 기반 설계
+- [[young-people-learning-generative-ai-rapid-review-2026]] — 학습과 관련된 과업에서 학생 주체성 기르기
+- [[shaw-nave-cognitive-surrender-2026]] — 삼체계 이론과 인지 항복: AI가 인간 추론을 재구성하는 방식 (Shaw & Nave 2026)
+- [[preservice-teacher-agency-genai-design-learning-2026]] — 학습 설계에서의 생성형 AI 상호작용 중 예비 교사의 주체성 (Krushinskaia, Elen & Raes 2026)
+- [[emancipatory-ai-learner-flourishing-2026]] — 해방적 비전: 도구의 주체성과 제로섬 관계로서의 주체성
+- [[chen-zou-genai-group-assessment-agency-2026]] — 생성형 AI가 매개하는 집단 평가에서 주체성의 세 가지 양상: 강화됨, 억제됨, 실현되지 않음
+- [[ai-integrated-teaching-identity-tensions]] — AI 통합 수업에서 교사 주체성으로서의 원칙에 따른 선택 (Adiozaman & Segar 2026)
+- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — 진단적 증거로서의 거부: AI를 거부하는 것을 상황적 관계이자 불균등한 권리로 보기 (Zagami 2026)
+- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — 도구를 극대화해 쓰기보다 중단, 수정, 거부를 통해 드러나는 인식론적 권위
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — 누가 행동하고, 누가 알며, 누가 답하는가? 고등교육 생성형 AI 연구에서 주체성, 인식론적 책임, 책무성에 관한 코퍼스 기반 담론 분석
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 성찰적 AI 참여에서 역량을 유지하는 의존을 향한 열린 질문들
+- [[fagerlund-competency-agency-purposes-ai-education-2026]] — AI 교육의 목표로서의 역량 대 주체성, 그리고 정보에 기반한 AI 주체성 휴리스틱 (Fagerlund et al. 2026)
+- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — 생성형 AI를 권위가 아니라 비판의 대상으로 유지하게 하는 조건으로서의 교사 매개 (Canonigo 2026)
+- [[charles-teacher-readiness-by-design-ai-rich-2026]] — 설계를 통해 동원되는 자원으로서의 교사 주체성 — 사용량이 아니라 산출물로 판단되는 준비도 (Charles 2026)
+- [[yang-balancing-teacher-student-agency-2026]] — 실시간 동적 짝짓기 도구의 공동 조율에서 교사와 학생 주체성의 균형 맞추기 (Yang et al. 2026)

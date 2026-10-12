@@ -108,13 +108,13 @@ ai_assist:
 - [[robot-assisted-language-learning-meta-analysis-2026]] — AI가 강화된 구현형 로봇 보조 언어 학습의 메타분석
 - [[white-wu-robotics-ai-education-2026]] — 교육에서의 로보틱스와 AI
 - [[computational-thinking-educational-robotics-secondary-2026]] — 계산적 사고와 교육 로보틱스
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
+- [[roboblockly-conversational-block-robotics-ct-2026]] — 대화형 블록 기반 로보틱스 환경 RoboBlockly Studio
+- [[edusim-llm-robotic-simulation-education-2026]] — LLM 기반 로봇 시뮬레이션 환경 EduSim-LLM
 - [[knowledge-based-design-generative-social-robots-2026]] — 생성형 사회적 로봇을 위한 지식 기반 설계
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
+- [[teachy-mini-generative-social-robot-higher-ed-2026]] — 고등교육용 생성형 사회적 로봇 Teachy Mini
+- [[motibo-digital-storytelling-robots-motivation-2026]] — 디지털 스토리텔링 로봇 MotiBo
+- [[robobuddy-llm-social-robots-classroom-2025]] — 교실용 LLM 사회적 로봇 RoboBuddy
+- [[remind-robot-mediated-roleplay-antibullying-2026]] — 로봇 매개 역할극을 통한 따돌림 예방 REMind
 - [[task-context-trust-educational-hri-2026]] — 교육 HRI에서의 과제 맥락과 신뢰
 - [[human-autonomy-agency-hri-review-2025]] — HRI에서의 인간 자율성과 주도성
 - [[icub-humanoid-storytelling-llm-hri-2025]] — iCub 서사 HRI
@@ -122,7 +122,7 @@ ai_assist:
 - [[social-robot-study-companions]] — 학습 동반자로서의 사회적 로봇
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — 창의적 글쓰기에서의 로봇-LLM 통합
 - [[game-based-gamified-robotics-education-review-2026]] — 게임 기반 및 게이미피케이션된 로보틱스 교육
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
+- [[bots-blocks-project-based-robotics-education-2026]] — 프로젝트 기반 로보틱스 교육 Bots and Blocks
 - [[educational-robotics-pathways-2026]] — AI 기반 교육 로보틱스 학습으로의 경로 (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — 유치원에서의 로봇 매개 CT
 - [[ai-toys-child-development-2026]] — AI 기반 장난감과 아동 발달

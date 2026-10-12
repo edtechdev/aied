@@ -144,7 +144,7 @@ ai_assist:
 - [[cotal-formative-assessment-scoring-2026]] — CoTAL: 형성평가를 위한 인간 참여형 프롬프트 엔지니어링
 - [[llm-cognitive-diagnosis-handwritten-math]] — 학생의 인지 기술 진단을 위한 LLM 벤치마킹
 - [[tutoring-effectiveness-index]] — 튜터링 효과 지수: LLM 수학 튜터의 질 예측
-- [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
+- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: LLM 기반 교수 설계 에이전트의 벤치마킹
 - [[tool-invariant-framework-agentic-ai]] — 계산적 방법의 교수와 평가를 위한 도구 불변 틀
 - [[valid-student-simulation-llm-2026]] — 대규모 언어 모형과 함께하는 타당한 학생 시뮬레이션을 위하여
 - [[llm-difficulty-calibration-programming-exams-2026]] — 평가되는 모형에서 평가 보조물로

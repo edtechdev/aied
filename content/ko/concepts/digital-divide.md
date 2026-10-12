@@ -88,7 +88,7 @@ AI는 기술이 지니는 형평성 함의에 새로운 층위를 더합니다. 
 - [[school-ai-education-readiness-gaps-agency-2026]] — 학교 AI 교육은 심리적 격차는 좁히지만 인지적 준비 격차는 좁히지 못한다
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: LLM 접근의 격차를 측정하고 완화하기
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — 비계화된 AI 리터러시(SAIL) 프레임워크
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
+- [[oecd-digital-education-outlook-2026]] — OECD 디지털 교육 전망 2026
 - [[aaai2026-prompting-literacy-k12]] — K-12 학생에게 AI 챗봇의 책임 있는 사용 가르치기
 - [[structural-silence-underrepresented-language-ai-2026]] — 구조적 침묵과 소수 대표 언어
 - [[sec-ai-literacy-narrative-review-2026]] — AI 리터러시에서의 사회정서 역량

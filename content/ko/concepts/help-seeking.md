@@ -149,8 +149,8 @@ ai_assist:
 - [[rethinking-scaffolding-llm-tutors]] — 실제 LLM 튜터 배치에서의 비계/학생 수용 불일치
 - [[uneven-impact-generative-ai-student-learning-2026]] — 초기 의존: 독립적 사고, 검색, 또는 교수자보다 먼저 GenAI를 참고하는 것이 이득과 해악을 모두 예측한다(Manikonda et al. 2026)
 - [[reed-resource-literacy-genai-composition-2026]] — 온라인 작문에서의 자원 리터러시: 병목은 도움이 필요한 시점을 인식하는 것이다(Reed 2026)
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
+- [[course-specific-rag-help-seeking-higher-ed-2026]] — 학업 지원의 장벽 낮추기: 고등 교육의 도움 요청 격차를 다루는 강좌 특화 RAG 시스템 평가
 - [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: 학습자가 하는 것에 따라 에스컬레이션하고 걷히는 AI 튜터
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: 문제 해결 중 표적화된 AI 도움 요청의 비계
 - [[guided-ai-tutor-impasse-resolution-2026]] — 안내된 AI 튜터가 학생의 막힘을 해결하는 방식의 변화 검토
-- [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
+- [[student-query-demand-hybrid-ai-support-2026]] — 학생들이 실제로 묻는 것: 하이브리드 지원 시스템의 수요 구조와 자동화 가능성

@@ -143,14 +143,14 @@ ai_assist:
 - [[making-ai-tutoring-productive-mastery-math-2026]] — AI 튜터링을 생산적으로 만들기: 숙달 기반 수학 연습
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: 2년 학교 실험 속의 Khanmigo
 - [[ai-literacy-assessment-misalignment]] — AI 리터러시 평가: 자기보고와 수행의 불일치
-- [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
+- [[generative-ai-reduced-study-time-math]] — 더 빠른 완수, 적은 학습: 생성형 AI가 수학 문제의 학습 시간과 그것이 구축하는 지식을 줄였음
 - [[genai-meta-analysis-programming-learning]] — 프로그래밍에서의 생성형 AI가 생산성과 학습에 미치는 영향에 관한 메타분석
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI 리터러시 개입 효과에 관한 메타분석
 - [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT 도움은 인간 튜터 도움과 동등한 학습 성과를 낸다
-- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning (PNAS 2025 RCT)
-- [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[generative-ai-guardrails-harm-learning]] — 안전장치 없는 생성형 AI는 학습을 해칠 수 있음 (PNAS 2025 RCT)
+- [[absent-cognitive-baseline-2026]] — 부재하는 인지적 기저선: AI 토착 대학생의 학업 자기평가에서 구조적 격차 이론화
+- [[oecd-digital-education-outlook-2026]] — OECD 디지털 교육 전망 2026
+- [[ai-changing-teaching-workflows]] — AI가 교수 워크플로를 어떻게 바꾸고 있는가
 - [[robot-assisted-language-learning-meta-analysis-2026]] — AI가 보강한 체화 로봇의 언어 학습 지원에 관한 메타분석
 - [[genai-educational-outcomes-meta-analysis]]
 - [[young-people-learning-generative-ai-rapid-review-2026]] — 즉각적 수행 대 지속적 학습의 구분
@@ -166,15 +166,15 @@ ai_assist:
 - [[scaffolding-srl-feedback-genai-human-peers]] — 스캐폴딩된 자기조절 피드백의 향상
 - [[learner-ai-interaction-patterns-oop]] — 객체지향 프로그래밍에서의 상호작용 패턴과 학습 성과
 - [[ai-feedback-critical-thinking-writing-2026]] — 쓰기에서의 AI 피드백과 비판적 사고
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
-- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
+- [[pedagogy-ai-mistakes]] — AI 실수의 교수법: 고차원적 사고 육성 (Hosseini 2026)
+- [[computational-thinking-aica-2026]] — 계산적 사고 수준과 AI 코딩 어시스턴트 (2026)
 - [[burneo-can-edtech-close-learning-gaps-2026]] — 메타분석: 적응형/AI 에드테크가 학습을 약 0.125 sd 높인다
 - [[gpt4-feedback-student-activation-2026]]
 - [[rachatasumrit-example-problem-ratio-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (media-comparison critique of gains measures)
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause — 교육에서의 ChatGPT: 원인을 찾는 효과 (성취도 측정에 대한 미디어 비교 비판)
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — 메타-메타분석: 편향 보정된 AI 학습 성과 효과가 보고된 크기의 약 1/3
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: audit of flawed AIED meta-analyses
+- [[oneill-presumed-effective-meta-analysis-2026]] — 효과가 있다고 추정되는 것: 결함 있는 AIED 메타분석에 대한 감사
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — 종속 효과 크기를 통제하고 출판 편향을 검정했으나 질 평가는 적용하지 않은 STEM 종합(Doğan 외 2026)
 - [[ai-education-effects-second-order-meta-analysis-2026]] — 45개 교육에서의 AI 메타분석에 관한 2차 메타분석. 중복 보정 효과와 종합 층위의 질 평가 포함(Emslander 외 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI와 인간 튜터링이 동등한 GRE 학습 성과를 낸다

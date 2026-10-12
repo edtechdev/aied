@@ -114,29 +114,29 @@ ai_assist:
 
 - [[student-perspectives-ai-writing-grading-2026]] — 투명한 AI 지원 글쓰기 평가에 대한 학생의 관점(AlGhamdi 2026)
 - [[du-yuan-epistemic-dependence-2026]] — 생산적 의지와 해로운 의존을 구분하는 여섯 가지 진단 기준(Du & Yuan 2026)
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
+- [[icet-ml-education-trust-2026]] — 교육을 통한 AI 시스템의 신뢰 다루기: 교수법적 관점
 - [[pearls-epistemic-verification-2026]] — 인식론적 행위와 AI 산출물 검증을 위한 PEARLS 프레임워크(Wang 2026)
 - [[fouad-bentley-trust-utility-gap-physics-2026]]
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[agentic-literacy-debt]] — 에이전트형 리터러시 부채: 자율 에이전트에서 비롯된 구조적 AI 리터러시 격차(Nama 2026)
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education
-- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics for LLMs in Education
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[ai-partner-science-epistemic-vigilance]] — Epistemic Vigilance as the Key to Productive Augmentation
+- [[trust-reliance-ai-education-2026]] — 교육에서의 AI에 대한 신뢰와 의존
+- [[calibrating-trustworthiness-llm-education-2026]] — 신뢰성의 보정: 교육에서 LLM을 위한 지표의 공동 설계
+- [[llm-fallacy-misattribution]] — LLM 오류와 능력의 오귀속
+- [[ai-partner-science-epistemic-vigilance]] — 생산적 증강의 열쇠로서의 인식론적 경계
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 - [[ai-overreliance-complex-adaptive-system-2026]] — 복잡적응 시스템으로 모델링된 AI 과의존
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
+- [[student-reception-genai-analogies-computing-2026]] — 흠 있지만 기억에 남는: 컴퓨터 교육에서 관심 맞춤형 생성형 AI 비유에 대한 학생의 비판적 수용
 - [[trust-calibration-chatbots-design-problem-2026]] — 설계 문제로 재규정된 신뢰 보정: 이차원적 사용자 유형론과 여덟 개의 설계 명제(Jaidka & Cai 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — AI 매개 채점에서의 프롬프트 주입: 자신의 경고를 억제하고 뒤집은 도구(Humble 2026)
 - [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — 신뢰 게이트 추론과 설계 단계부터 설명 가능한 평가, 다만 신뢰는 측정되지 않음(Li et al. 2025)
 - [[gpt4-handwritten-math-exam-grading-2026]] — AI 점수의 확신 필터링과 그 위양성률
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — Trust in AI-enabled systems: definitions, measurement and design factors across 33 empirical studies (Abramson et al. 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — From diagnosis to meta-diagnosis: teachers evaluating AI-generated diagnostic inferences (Hoppe et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt cuts acceptance of incorrect AI advice (Ren 2026)
-- [[trust-calibration-genai-collaborative-regulation-2026]] — Trust calibration as a mediator in a chain from contextual support to perceived transfer gains (Bu & Li 2026)
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Trust as the pivot from AI literacy to continued use, weakened by AI anxiety (Hu 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as a structure for critically handling AI recommendations (Kenzhebayeva et al. 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[nazaretsky-trust-instrument-ai-edtech-2025]] — Student-facing instrument validating trust in AI-EdTech as four factors, with trust upstream of perceived usefulness (Nazaretsky et al. 2025)
+- [[bounded-reliance-ai-writing-feedback-2026]] — 제한된 의존: 생성형 AI 글쓰기 피드백에 대한 EFL 학생 참여의 원천 신빈성 관점
+- [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — AI 기반 시스템에서의 신뢰: 33개 실증 연구에 걸친 정의, 측정, 설계 요인 (Abramson et al. 2026)
+- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 진단에서 메타진단으로: AI가 생성한 진단 추론을 평가하는 교사들 (Hoppe et al. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — 성찰 프롬프트가 틀린 AI 조언의 수용을 줄임 (Ren 2026)
+- [[trust-calibration-genai-collaborative-regulation-2026]] — 맥락적 지원에서 인식된 전이 성과로 이어지는 고리에서 매개자로서의 신뢰 보정 (Bu & Li 2026)
+- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — AI 리터러시에서 지속적 사용으로의 전환점으로서의 신뢰, AI 불안에 의해 약화됨 (Hu 2026)
+- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — AI 권고를 비판적으로 다루기 위한 구조로서의 역할 교대 (Kenzhebayeva et al. 2026)
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — 데이터 과학 강의에서 학생의 LLM 사용과 AI 생성 문항 난도의 한계
+- [[nazaretsky-trust-instrument-ai-edtech-2025]] — 학생용 도구가 AI-EdTech에 대한 신뢰를 네 요인으로 검증하며, 인식된 유용성보다 상위에 신뢰가 놓임 (Nazaretsky et al. 2025)

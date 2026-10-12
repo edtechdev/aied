@@ -97,7 +97,7 @@ ai_assist:
 - [[llm-cognitive-diagnosis-handwritten-math]] — 손으로 쓴 수학 작업에서 학생의 인지 기술 진단을 위한 대규모 언어 모형 벤치마킹
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: 시뮬레이션된 학습자를 둔 교수법적 LLM 에이전트를 위한 장기 수평선 벤치마크
 - [[responsible-assessment-ai-era-stanford-2026]] — AI 시대의 책임 있는 평가: 미래 중심 학회의 핵심 통찰
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
+- [[anvil-ai-educational-animations]] — ANVIL: 강의자를 위한 비유와 영상
 - [[icle-plus-plus-essay-scoring]] — ICLE++: 총체적 에세이 채점을 위한 세밀한 특성의 모형화
 - [[teaching-monster-pck-benchmark-2026]]
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: 슬라이드 감사를 위한 멀티모달 LLM 벤치마킹

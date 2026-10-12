@@ -110,36 +110,36 @@ AI 피드백 품질은 근본적으로 [[formative-assessment]]와 [[feedback|�
 ## 연결된 문서
 
 - [[ai-feedback-violin-intonation-2026]] — 2,208개의 기계 측정 피치 편차에 대해 검사된 억양에 대한 AI 피드백 (Aksoy 2026)
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
+- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: 논증적 에세이를 위한 모듈화된 자동 쓰기 평가 시스템
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT 영상 내 논평 평가: 언어적, 의미적, 지각적 품질 (Wang, Du & Jin 2026)
 - [[luo-eaton-ai-student-feedback-ethics-2026]]
 - [[coach-not-crutch-ai-writing]] — 연습 편지에서 인간 편집자를 넘어선 AI 쓰기 피드백 (Lira et al. 2025)
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: 교육자가 순환에 참여하는 LLM 피드백 생성 (Zhao et al. 2025)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM 강의 관찰 피드백의 신뢰성과 한계 (Melo et al. 2026)
 - [[learner-centered-feedback-ai]] — 학습자 중심의 AI 피드백에 대한 교수자의 실행과 인식 (PolyFeed)
-- [[ai-generated-feedback-higher-ed]] — AI-Generated Feedback in Higher Education
-- [[teaching-feedback-classification-benchmark]] — Teaching Feedback Classification Benchmark
-- [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Collaborative Feedback
-- [[cong-confidence-asag-2026]] — Confidence-Aware Short Answer Grading
-- [[choi-anchor-aes-prompting-2025]] — Anchor-Based AES Prompting
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Feedback
-- [[sequenced-ai-feedback-learning]] — Sequenced AI Feedback and Learning
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
+- [[ai-generated-feedback-higher-ed]] — 고등교육에서 AI가 생성한 피드백
+- [[teaching-feedback-classification-benchmark]] — 교수 피드백 분류 벤치마크
+- [[becerra-aicofe-feedback-2026]] — AICoFE: AI 기반 협력 피드백
+- [[cong-confidence-asag-2026]] — 확신도를 반영한 단답형 채점
+- [[choi-anchor-aes-prompting-2025]] — 기준점 기반 자동 에세이 채점 프롬프팅
+- [[ai-assistance-discretionary-feedback]] — 재량적 피드백을 위한 AI 지원
+- [[sequenced-ai-feedback-learning]] — 순차적 AI 피드백과 학습
+- [[eduframetrap-llm-sycophancy-educational-safety]] — 아첨은 교육 안전의 위험이다: LLM 튜터에 아첨 벤치마크가 필요한 이유
+- [[contextual-sycophancy-ai-literacy]] — 상황적 아첨의 숨은 대가: AI 리터러시 개입
 - [[genai-educational-outcomes-meta-analysis]]
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — 표식화된 교수법: 자동 쓰기 피드백에 나타난 편향
 - [[gpt4-feedback-student-activation-2026]]
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[teacher-ai-literacy-prompt-feedback-quality-2026]] — AI 피드백 품질의 예측 변수로서의 프롬프트 엔지니어링과 모델 선택 (Jacobsen et al. 2026)
 - [[perceptions-teacher-vs-ai-feedback-bias-2026]] — 동일한 GPT-4 피드백에 대한 무작위 출처 표시: 교사는 AI 귀속 피드백을 할인한다 (Mertens et al. 2026)
-- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[risk-adaptive-genai-feedback-programming-2026]] — A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education
-- [[real-time-ai-feedback-technical-skills-2026]] — Own-language \"Clarify\" explanation and scaffolded nudges in a real-time tutor: what makes synchronous feedback usable (Muritala, Ahmed & Olumorin 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher vs AI-assisted peer feedback: authoritative error correction decays, steady focus holds, and what students do with each (Tang, Li & Luo 2026)
-- [[nazaretsky-feedback-source-bias-2025]] — Blind-then-disclosed source labels on identical feedback: students rate AI-labeled feedback lower and read low-rated human feedback as AI
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Narrative review of AI tutoring in mathematics: real-time feedback gains and implementation conditions
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Socratic versus directive feedback styles: comprehension monitoring against prioritization, and the cognitive-load cost
-- [[when-students-prefer-ai-scoring-feedback-2026]] — Student-perceived AI feedback quality: understandable yet repetitive, trusted for mechanics not interpretation
+- [[peer-group-vs-ai-feedback-2026]] — 동료 평가에서 동료 집단과 AI 생성 피드백의 비교 분석: 고등교육에서의 피드백 질과 학생 인식에 관한 통찰
+- [[ai-assisted-physics-lab-report-assessment-2026]] — 실험 물리학 실험 보고서의 AI 지원 평가: 가능성, 한계, 그리고 교수 실행에 대한 지원
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 학생 글쓰기에 대한 LLM 생성 피드백에서의 피드백 초점과 교수적 적응성 평가
+- [[risk-adaptive-genai-feedback-programming-2026]] — 프로그래밍 교육에서 생성형 AI 피드백을 위한 위험 적응형·증거 제약형 틀
+- [[real-time-ai-feedback-technical-skills-2026]] — 실시간 튜터에서 모국어로 된 "명확히 하기" 설명과 비계화된 넛지: 동기적 피드백을 사용 가능하게 만드는 요소 (Muritala, Ahmed & Olumorin 2026)
+- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — 교사 피드백 대 AI 지원 동료 피드백: 권위 있는 오류 수정은 줄고 안정적 초점은 유지되며, 학생이 각각을 어떻게 사용하는지 (Tang, Li & Luo 2026)
+- [[nazaretsky-feedback-source-bias-2025]] — 동일한 피드백에 대한 맹검 후 공개 출처 표시: 학생은 AI로 표시된 피드백을 더 낮게 평가하고 낮게 평가된 인간 피드백을 AI로 읽음
+- [[intelligent-tutoring-mathematics-education-review-2026]] — 수학 교육에서의 AI 튜터링에 관한 서술적 고찰: 실시간 피드백의 이득과 도입 조건
+- [[agent-type-feedback-style-self-directed-learning-2026]] — 소크라테스식 대 지시형 피드백 양식: 우선순위화 대 이해 점검, 그리고 인지 부하의 대가
+- [[when-students-prefer-ai-scoring-feedback-2026]] — 학생이 인식한 AI 피드백 질: 이해는 되나 반복적이며, 해석보다는 형식 측면에서 신뢰함

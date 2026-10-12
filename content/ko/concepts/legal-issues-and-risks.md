@@ -1,0 +1,122 @@
+---
+title: 법적 쟁점과 위험
+created: "2026-09-18T05:40:00-04:00"
+updated: "2026-09-30T07:29:37-04:00"
+type: concept
+foundations: [academic-integrity, reducing-ai-misuse]
+assessment: [ai-detection, assessment-validity, remote-proctoring]
+institutions: [educational-policy-ai, governance, regulation]
+ethics: [accessibility, ai-use-disclosure, equity-in-ai-education, hallucination-risk, privacy]
+pedagogy: [professional-training]
+discipline: [legal education]
+level: [higher ed]
+audience: [administrators, policymakers, institutions, researchers]
+page_kind: [synthesis]
+confidence: medium
+translation_of: concepts/legal-issues-and-risks
+source_updated: "2026-09-30T07:29:37-04:00"
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-11"
+    agent: hermes-agent
+---
+
+*영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+> **법적 쟁점과 위험** — 교육에서 [[generative-ai|생성형 AI]]가 잘못 관리될 때 기관, 교직원, 학생이 떠안게 되는 노출(exposure). 탐지기 점수만으로 부정행위로 잘못 고발된 학생, 평가에 필요한 것보다 더 많이 보고 녹화하는 감독(proctoring) 시스템, 보조 도구를 처벌하는 지나치게 포괄적인 규칙, 또는 일관되게 시행될 수 없을 만큼 모호한 정책. 위험은 하나의 법적 질문이 아니라 여러 질문이 함께 도래하는 것입니다. 증거법적(고발이 과연 증명될 수 있는가), 계약·절차적(기관이 자체 규칙을 따르고 학생에게 공정한 심사를 주었는가), 평등 기반(규칙이 장애 학생이나 비원어민 화자 학생에게 부담을 지우는가), 그리고 데이터 보호 기반(수집된 감시 자료가 무엇이고 어디에 저장되었는가)의 쟁점들입니다. 이는 시행되는 행위 틀인 [[academic-integrity]]와 구별됩니다. 이 페이지는 그 시행이 이의 제기될 때 무슨 일이 벌어지는지를 다룹니다.
+
+## 생각해 볼 질문들
+
+- 탐지 도구는 저작권자를 신뢰성 있게 식별할 수 없습니다. 그 도구가 쟁점이 되는 사실을 확립할 수 없다면, 부정행위 사건은 실제로 무엇에 기대고 있는 것일까요?
+- 감독과 AI 탐지 데이터는 대규모로 생성되어 무기한 보관됩니다. 그 데이터에 대한 법적 노출은 누가 집니다, 기관입니까, 공급업체입니까?
+- 정책이 [[wright-transcription-not-generation-2026|생성을 전사와 구분하지 않고]] "AI 사용"을 금지할 때, 그 규칙은 진실성을 보호하는 것입니까, 아니면 장애 지원 수단을 처벌하는 것입니까?
+
+## 들어가며
+
+이 주제에 관한 지식 기반의 증거는 법리적(juridical)이라기보다 절차적입니다. 이는 기관이 무엇을 증거로 취급하는지, 고발 절차가 어떻게 작동하는지, 도구가 얼마나 신뢰할 수 없는지, 감시가 무엇을 수집하는지를 문서화합니다. 소송 결과는 아직 문서화하지 않습니다. 그 격차는 자신감 있는 주장으로 채우기보다 분명히 진술되어야 합니다. 이 질문들을 해결할 사건들은 대부분 보고되지 않았거나, 합의되었거나, 여전히 기관 내부 절차 진행 중입니다.
+
+문헌이 뒷받침하는 것은 법적 노출을 만들어 내는 실패 양식에 대한 설명입니다. 반복되는 양상은 기관을 위험에 빠뜨리는 것이 악의적인 고발자가 아니라 기관 자신의 도구와 절차라는 것입니다. 확률적 점수를 판단으로 취급하는 것, 의도에서는 명확하지만 범위에서는 그렇지 못한 규칙, 아무도 묻지 않은 데이터를 수집한 시스템, 그리고 기술적 증거는 검토가 필요 없다고 가정한 심사입니다.
+
+## 위험이 집중되는 곳
+
+### 오고발(잘못된 고발)과 결함 있는 증거
+
+[[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]]는 실제 생성형 AI 부정행위 고발 파일들을 분석하고 기관이 사용한 증거를 범주로 분류했습니다. 감독되거나 관리되는 평가에서만 얻을 수 있는 시스템 기록 행동 흔적, 그러한 실천이 존재하는 곳에서의 초고·감독 회의·발표와 같은 과정 증거, 그리고 조사 자체가 생성한 증거. 법적 노출에 관해 두 가지가 따릅니다. 첫째, 비감독 제출에서는 시스템 기록 범주가 비어 있어 사건을 더 약한 범주로 밀어냅니다. 둘째, 그들은 자연적 정의(natural justice) 원칙이 어떤 판정 전에도 학생이 고발을 통보받고 대응할 기회를 가져야 한다고 기록합니다. 이 의무는 호주 규제 기준(Department of Education, 2021; TEQSA, 2025)과 잘 알려진 학술 진실성 정책에 성문화되어 있습니다. 대응 기회는 전형적으로 조사 회의나 패널 면접이며, 학생이 무엇을 말하든 증거 기록의 일부가 됩니다 — 즉, 증거법적 실패뿐 아니라 절차적 실패가 사건을 취약하게 만드는 지점이라는 뜻입니다.
+
+그 아래에 증거법적 문제가 놓여 있습니다. 탐지기 출력은 가장 흔히 손이 가는 증거이면서 그 무게를 견디기에 가장 못한 것입니다. [[hadra-ai-detector-accuracy-efl-2026|Hadra et al. (2026)]]는 192개 텍스트의 균형 잡힌 말뭉치에서 Turnitin과 Originality를 시험하여 전체 정확도가 각각 0.69와 0.61임을 발견했으며, 둘 다 인간-AI 혼합 쓰기 — 실제 고발에 가장 나타나기 쉬운 형태 — 에서 형편없는 수행을 보였고, 텍스트 길이, 과학 글쓰기, 그리고 작가가 EFL 학생일 때 인간이 쓴 글을 AI로 오분류하는 경향이 있는 경우에 정확도가 더 떨어졌습니다. [[van-vlasselaer-ai-detector-reliability-2026|Van Vlasselaer et al. (2026)]]는 다른 말뭉치와 도구 집합에서 같은 결론에 이르렀으며, [[bassett-ai-detectors-education-2026|Bassett et al.]]는 어떤 임계값도 문제를 해결하지 않는다는 구조적 논점을 만듭니다. AI 사용을 잡도록 조정된 탐지기는 인간의 작업에 표시(flag)를 달 것이고, 인간의 작업을 살리도록 조정된 탐지기는 AI 사용을 놓칠 것이므로, 어떤 단일 점수든 어떤 오류를 범할지에 대한 선택입니다. [[karr-ai-detection-humanization-2026|Karr의 검토]]는 감지가 왜 실패하는지를 글쓰기 인간화(humanization) 쪽에서 같은 곳에 이르렀으며, [[teichmann-detecting-undetectable-misconduct-2026|Teichmann et al. (2026)]]은 절차 틀 자체가 이제 재평가되어야 한다고 주장합니다. 감지 불가능한 부정행위의 시대가 부정행위가 제출된 산출물로 증명될 수 있다는 가정을 깨뜨리기 때문입니다.
+
+### 프라이버시와 감시
+
+[[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana et al. (2026)]]는 간호 평가 전반의 [[remote-proctoring|원격 감독]]을 조망하고, 프라이버시와 감시를 학생에 대한 감정적 영향 및 [[equity-in-ai-education|공평성]] 효과와 함께 주요 우려로 드러냅니다. [[automated-online-exam-proctoring-decade-review-2026]]와 [[academic-dishonesty-automated-proctoring-ai-2026]]는 더 긴 시간 창에 걸쳐 같은 [[ai-technologies|기술]]들을 문서화하며, 이들이 제기하는 데이터 보호 질문들은 법적 결과를 지니는 평범한 질문들입니다. 무엇이 포착되는가(영상, 오디오, 키 입력, 시선, 방면 스캔), 얼마나 오래 보관되는가, 어디에 저장되는가, 누가 접근할 수 있는가, 공급업체가 이후에 처리하는가, 학생들이 평가 조건으로 이에 동의했는가. 규제된 데이터 환경에서 운영되는 기관은 어떤 소송이 나타나기 훨씬 전부터 법정 의무를 집니다. 그리고 로컬 및 공급업체 호스팅 AI 시스템에 관한 지식 기반의 FERPA 및 GDPR 인식 연구는 같은 질문들이 감독뿐 아니라 교수 도구에 어떻게 적용되는지를 보여 줍니다.
+
+### 접근성과 장애
+
+[[wright-transcription-not-generation-2026|Wright (2026)]]는 포괄적 "AI 사용" 금지가 지나치게 포괄적(over-inclusive)이라고 주장합니다. 음성-텍스트 전사와 OCR을 생성적 초안 작성과 구분하지 않기 때문입니다. 또한 세밀 운동 조절, 필적 가독성, 타자 정확성에 영향을 주는 상태를 가진 학생들은 역사적으로 바로 그런 도구들 — Dragon NaturallySpeaking 같은 독립 음성-텍스트 변환 제품 포함, 그중 여러 개가 단종되거나 성능이 저하됨 — 에 의존해 왔으며, AI 기반 전사가 기능적 격차를 메우고 있습니다. Wright는 장애, 보조 기술, AI 부정행위 정책의 교차점이 충분히 탐구되지 않았으며, 이 치환(displacement)의 규모가 실증적으로 측정되지 않았다고 지적합니다. 노출은 형태가 명료합니다. 학생이 판독 가능한 작업물을 생산하는 주된 수단을 제거하는 규칙은 살아남기 위해 지원 조정(accommodation) 절차가 필요할 수 있는 규칙입니다. [[shin-ai-policies-sld-2026]]는 특정 학습 장애 학생들에 대해 같은 공백을 정책 쪽에서 문서화하며, 지식 기반의 [[assistive-technology]]와 [[neurodiversity]] 관련 연구가 이를 둘러싼 용어를 제공합니다.
+
+### 언어 공평성과 지원–치환 경계
+
+[[li-genai-assessment-language-equity-2026|Li (2026)]]는 영어를 추가 언어로 사용하는 학생들을 위해 평등 기반 판본의 논거를 제공합니다. 이제 단일 인터페이스가 허용되는 편집과 금지되는 초안 작성을 모두 수행하므로, [[generative-ai|생성형 AI]]를 허가받지 않은 도움의 한 범주로 취급하는 규칙은 합법적 언어 지원이 가장 필요한 학생들에게 더 높은 준수 부담을 지우고, 표면 유창함이 달라진 필자들에게 의심을 집중시키며, 약한 증거 위에서 선택적 시행을 가능하게 합니다 — 고발이 명예, 학업, 때로는 비자나 재정적 결과를 수반하면서. 해결책은 도구 이름이 아니라 기능과 평가 구성 요소(construct)로 정의된 경계입니다. 아이디어, 출처, 분석 구조를 더하지 않는 표면적 개입을, 지적 작업을 만들거나 실질적으로 재형성하는 치환과 분리하는 것입니다. 일상적 번역과 편집이 단일 언어 또래들이 부담하는 것보다 큰 준수 비용을 끌어들이지 않도록 보정된 [[ai-use-disclosure|공개]]와 함께 말이죠. 법적 구조는 간접 차별 추론입니다. 표면적으로 중립적인 규칙이 만들어 내는 집단 편향적 부담을 식별한 뒤, 정당한 목적이 비례적이고 실천 가능한 수단으로 추구되는지를 묻는 것입니다. 이것은 결정자가 적용된 규칙, 의존한 증거, 그리고 결과가 비례적이었던 이유를 진술할 수 있다는 행정법적 기대에 의해 강화되며, 이것이 판정을 재검토 가능하고 절차를 정당하게 만듭니다. [[ai-detection|탐지]]는 분류 선별(triage) 신호로 격하되며, 초고 이력, 단계별 제출, 짧은 구성 요소 정합 대화가 증거로 선호되므로, 노출은 양방향으로 달립니다. 차별이나 재검토 이의 제기로도, 다듬어진 언어나 비원어민적 표현과 같은 대리 지표에 기대는 판단의 취약성으로도.
+
+### 불명확한 규칙, 일관성 없는 시행
+
+[[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]]는 명확성을 방어 가능한 시행의 전제조건이지 예의가 아닌 것으로 다루며, 로스쿨 정책이 포괄적 [[governance]]에서 명시된 정책 없음까지 다양하며, 대부분이 개별 교수에게 규칙 해석과 적용을 맡긴다고 보고합니다. [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]]는 미국 대학 전반에서 같은 다양성과 그만큼 다른 지원 생태계를 발견하며, [[crompton-governing-genai-higher-ed-delphi-2026]]은 거버넌스가 파편화되어 있다는 전문가 합의를 보고합니다. 누구도 정확히 진술할 수 없는 규칙 아래 징계받는 학생은, AI에 관한 분쟁이 되기 전에 절차와 공정성에 관한 분쟁이며, [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]]는 해결책이 판단과 책임을 추론하는 감시가 아니라 그것을 보이게 하는 [[assessment|평가 설계]]라고 주장합니다. [[watson-rainie-ai-challenge-faculty-survey-2026|Watson and Rainie (2026)]]의 1,057명 미국 교수 설문은 다른 방향에서 같은 불일치를 보여 줍니다. 응답자의 87%가 자신의 과제 차원 규칙을 직접 작성한 반면, 기관에 서면 지침이 있다고 답한 이는 48%, 학과가 있다고 답한 이는 35%뿐이어서, 단일 기관 안에서도 학생들은 개인적으로 저술된 정책들의 파편을 만납니다. 그 문서들 아래의 구조적 대응은 빈약합니다 — 55%의 경우에 태스크포스나 감독 집단, 그리고 일반 교육 성과로서 채택된 [[ai-literacy|AI 리터러시]]는 13%뿐 — 이것은 법적으로 중요합니다. 기관이 채택한 적 없는 규칙을 시행하는 것은 방어하기 어렵기 때문입니다.
+
+[[coates-governing-academic-integrity-indicators-2025|Coates, Croucher and Calderon (2025)]]는 학생 처벌이나 도구 품질이 아니라 거버넌스에서 더 상류로 약점을 위치시킵니다. 그들의 학술 진실성 지표 틀 — 설계와 개발부터 분석, 보고, 평가, 개선에 이르는 여덟 차원 아래 130개 항목 — 은 이사회와 위원회를 위한 거버넌스 질문으로 쓰여 있습니다. 기관의 최고 위원회가 평가 과정과 결과에 대해 보고를 받는지, 핵심 성과 지표가 평가 질을 다루는지, 인수와 오리엔테이션이 학술 진실성을 포함하는지, 계약 대리작성(contract cheating) 사건을 회부할 간단한 경로가 있는지. 그들의 개혁 프로그램은 거버넌스 구조, 거버넌스 역할을 맡은 사람들, 그리고 평가를 뒷받침하는 기술과 자원을 대상으로 하며, 이러한 발전이 [[regulation]], [[benchmark|벤치마킹]], 기관 간 경쟁으로부터의 외적 조력(affordance) 없이는 성과를 내기 어렵다고 주장합니다. 법적 노출에 대한 시사점은 방어 가능한 입장이 자신의 실천을 알고 문서화하는 데 기반한다는 것입니다 — 판정이 이의 제기될 때 기관이 필요로 하는 바로 그 정보입니다.
+
+### 자동 채점기를 공격하기
+
+다른 노출이 도구들 자체 내부에 놓여 있습니다. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]]는 한 기관의 [[automated-assessment|AI 채점 도구]](Microsoft Copilot, GPT-5.2)가 기준 실행 6회 중 6회 fail로 채점한 한 종합 에세이(synthetic essay)의 파일 안에 다섯 개의 간접 프롬프트 주입을 숨겼습니다. 두 전략은 사용자에게 보이는 경고 없이 점수를 올렸으며, 보고된 공격 성공률은 명령 조작, 역할 연기, 난독화를 결합하여 100%(9회 중 9회)와 94%(17회 중 18회)였습니다. 이 도구는 가장 단순한 공격을 차단한 후 채팅을 조용히 비활성화했으며, 한 번의 반복에서는 삽입된 명령을 절대 따르지 않겠다고 알린 뒤 그다음 6회 실행에서 각각 점수를 올렸습니다. 숨은 명령을 통해 얻은 점수는 어떤 [[assessment-validity|타당성]] 주장도 담지 않으며, 같은 기법은 출력에 지속적인 흔적을 남기지 않고 제출물의 질을 떨어뜨리는 데 사용될 수 있습니다 — 이는 이의 제기된 자동 결정에 대한 항소 기록이 비어 있을 수 있음을 의미하며, 부정행위(또는 우수함)의 판단은 산출물로부터 전혀 증명될 수 없습니다. Humble의 부문 차원 요구는 명확한 [[educational-policy-ai|AI 정책]], [[educational-development|전문성 개발]], 그리고 표준화된 도메인 중립적 복원력(resilience) 시험입니다. 공격 표면이 가정이 아니라 측정되게 하며, 고위험 작업에는 제한된 AI 사용과 [[human-in-the-loop-ai|인간 검토]]를 남겨 두는 것입니다.
+
+### 캠퍼스 문 밖으로
+
+전문 프로그램의 경우 노출은 졸업에서 끝나지 않습니다. Gutowski and Hurley는 실무 변호사를 구속하는 전문가 행위 규칙 — 기술적 능력의 의무, 도구를 사용하는 타인에 대한 감독, 법정에 대한 정직(candour) — 이 이미 AI 사용에 적용된다고 기록하며, 조작된 사건을 제출한 실무자들에게 [[hallucination-risk|환각이 만들어낸]] 법적 근거가 제재를 낳았습니다. 같은 전이 논리는 면허, 등록, 법정 의무가 졸업생을 따르는 모든 곳에 적용되며, 이것이 [[legal-education|법학 교육]]과 [[medical-education|보건 전문 분야]]의 학문 페이지가 이 페이지 곁에 자리해야 하는 이유입니다.
+
+## 열린 질문들
+
+- 이 위험들 중 어떤 것이 실제로 소송이나 규제 판정을 낳았나요? 지식 기반에는 절차, 정책, 기술 평가가 있지만 사건 결과는 없으며, 그것이 있는 것처럼 읽혀서는 안 됩니다.
+- 기관이 심사에서 자신의 오류율을 인정한 뒤에도 탐지기 출력은 무언가의 증거로 살아남나요, 아니면 그 인정이 사건을 절차적 공정성 분쟁으로 전환하나요?
+- 감독과 탐지가 제3자 플랫폼을 통해 운영될 때 데이터 관리자는 공급업체입니까, 기관입니까? 그리고 그것이 기관에 대한 조언을 바꾸나요?
+- 기관이 AI 부정행위에 적용하는 증거 기준을, 다른 곳에서 증거적 임계값이 공개되는 방식으로, 잘못된 고발과 법적 노출을 모두 줄이는 방법으로 공개해야 할까요?
+
+## 연결된 개념
+
+- [[academic-integrity]] — 위험을 수반하는 시행의 행위 틀
+- [[ai-detection]] — 오고발 사건의 중심에 선 도구
+- [[remote-proctoring]] — 평가에서의 감시와 그 데이터 보호 질문들
+- [[assessment-validity]] — 증거가 그것으로부터 만들어지는 주장을 확립할 수 있는지
+- [[privacy]] — 학생 데이터의 수집, 보관, 이후 처리
+- [[regulation]] — 기관이 충족해야 할 법정·규제 의무
+- [[governance]] — 내부 정책 설계와 시행의 일관성
+- [[educational-policy-ai]] — 의도하지 않은 노출의 원천인 기관의 AI 정책
+- [[ai-use-disclosure]] — 공개 기대와 그것의 시행 불가능한 경계
+- [[accessibility]] — 규칙이 보조 도구를 제거할 때의 합리적 조정
+- [[assistive-technology]] — 지나친 포괄성 문제의 중심에 선 도구들
+- [[neurodiversity]] — 지나치게 포괄적인 금지에 가장 노출된 학생들
+- [[equity-in-ai-education]] — 탐지와 감시의 차등적 부담
+- [[student-experience]] — 법적 비용에 앞서는 인간적 비용
+- [[hallucination-risk]] — 전문적·기관적 책임으로서의 조작된 법적 근거
+- [[reducing-ai-misuse]] — 고발에 대한 대안인 예방
+
+## 연결된 문서
+
+- [[munoz-misconduct-allegation-evidence-2026]] — 부정행위 고발 파일이 실제로 담고 있는 증거, 그리고 자연적 정의의 요건
+- [[hadra-ai-detector-accuracy-efl-2026]] — 탐지기 정확도, 혼합 텍스트 실패, 그리고 EFL 오분류 위험
+- [[van-vlasselaer-ai-detector-reliability-2026]] — 두 번째 말뭉치 전반의 탐지 도구 신뢰성
+- [[bassett-ai-detectors-education-2026]] — 왜 어떤 탐지 임계값도 옳을 수 없는가: 오류 트레이드오프 논증
+- [[teichmann-detecting-undetectable-misconduct-2026]] — 증거가 감지 불가능해졌을 때 재평가된 부정행위 절차
+- [[wright-transcription-not-generation-2026]] — 지나치게 포괄적인 AI 규칙, 장애 지원 조정과 합리적 조정
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 프라이버시와 감시 우려와 함께 조망된 원격 감독
+- [[automated-online-exam-proctoring-decade-review-2026]] — 자동 감독 연구의 10년
+- [[academic-dishonesty-automated-proctoring-ai-2026]] — AI 시대의 학술 부정행위와 감독
+- [[gutowski-hurley-genai-policy-legal-education-2025]] — 방어 가능한 시행의 전제조건으로서의 정책 명확성
+- [[qian-governing-genai-higher-ed-policy-2026]] — 혁신적인 미국 대학들의 정책과 지원 생태계
+- [[crompton-governing-genai-higher-ed-delphi-2026]] — 파편화된 거버넌스에 관한 전문가 합의
+- [[sharma-judgment-visible-genai-assessment-2026]] — 감시가 아닌 보이는 판단을 통한 진실성
+- [[shin-ai-policies-sld-2026]] — 특정 학습 장애 학생들을 위한 정책의 공백
+- [[li-genai-assessment-language-equity-2026]] — 규칙 설계 문제로서의 언어 공평성: 지원–치환 경계, 간접 차별, 재검토 가능성 (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — 간접 프롬프트 주입으로 AI 채점기를 공격하는 학생들, 발각되지 않고 점수가 변경됨 (Humble 2026)
+- [[coates-governing-academic-integrity-indicators-2025]] — 평가를 진위 확인하기 위한 거버넌스 지표와 개혁 프로그램 (Coates, Croucher & Calderon 2025)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057명의 미국 교수: 기관 정책을 훨씬 앞지르는 개별 정책, 빈약한 구조적 대응 (Watson & Rainie 2026)
