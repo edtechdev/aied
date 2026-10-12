@@ -1,0 +1,268 @@
+# AI in Education Knowledge Base
+> هذه ترجمة آلية لقاعدة المعارف الإنجليزية لم يراجعها بعد ناطق أصلي. وتتضمن صفحات المفاهيم وصفحات الأسئلة الشائعة؛ أما صفحات المقالات فتبقى باللغة الإنجليزية.
+
+## Concepts
+
+- [الذكاء الاصطناعي في التعليم](https://edtechdev.github.io/aied/concepts/ai-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [ثقافة الذكاء الاصطناعي](https://edtechdev.github.io/aied/concepts/ai-literacy/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الذكاء الاصطناعي الوكيلي](https://edtechdev.github.io/aied/concepts/agentic-ai/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التفريغ المعرفي](https://edtechdev.github.io/aied/concepts/cognitive-offloading/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الاستسلام المعرفي](https://edtechdev.github.io/aied/concepts/cognitive-surrender/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تأطير استخدام الذكاء الاصطناعي للطلاب](https://edtechdev.github.io/aied/concepts/framing-ai-use-for-students/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الحد من إساءة استخدام الذكاء الاصطناعي](https://edtechdev.github.io/aied/concepts/reducing-ai-misuse/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [النزاهة الأكاديمية](https://edtechdev.github.io/aied/concepts/academic-integrity/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التدريس](https://edtechdev.github.io/aied/concepts/teacher-role/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كفاءة المعلم في الذكاء الاصطناعي](https://edtechdev.github.io/aied/concepts/teacher-ai-competency/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تصميم التعلّم](https://edtechdev.github.io/aied/concepts/learning-design/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التطوير التربوي](https://edtechdev.github.io/aied/concepts/educational-development/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تاريخ الذكاء الاصطناعي في التعليم](https://edtechdev.github.io/aied/concepts/history-of-aied/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تفسير أبحاث التعليم بالذكاء الاصطناعي وتطبيقها](https://edtechdev.github.io/aied/concepts/interpreting-and-applying-aied-research/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الحدود في أبحاث التعليم بالذكاء الاصطناعي](https://edtechdev.github.io/aied/concepts/limitations-in-aied-research/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [فلسفة الذكاء الاصطناعي في التعليم](https://edtechdev.github.io/aied/concepts/philosophy-of-ai-in-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [النظريات والأطر](https://edtechdev.github.io/aied/concepts/theories-and-frameworks/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تطوير النظرية في الذكاء الاصطناعي في التعليم](https://edtechdev.github.io/aied/concepts/theory-development-aied/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعاون بين الإنسان والذكاء الاصطناعي](https://edtechdev.github.io/aied/concepts/human-ai-collaboration/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [فاعلية المتعلّم](https://edtechdev.github.io/aied/concepts/agency/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [هوية المتعلّم](https://edtechdev.github.io/aied/concepts/learner-identity/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التفكير التصميمي](https://edtechdev.github.io/aied/concepts/design-thinking/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تصميم المنهج الدراسي](https://edtechdev.github.io/aied/concepts/curriculum-design/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التفكير النقدي](https://edtechdev.github.io/aied/concepts/critical-thinking/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التفكير الحاسوبي](https://edtechdev.github.io/aied/concepts/computational-thinking/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [نموذج SAMR](https://edtechdev.github.io/aied/concepts/samr-model/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [المعرفة التربوية التكنولوجية بالمحتوى (TPACK)](https://edtechdev.github.io/aied/concepts/tpack/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [أصول التدريس واستراتيجيات التعليم](https://edtechdev.github.io/aied/concepts/pedagogy/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الأنماط التربوية](https://edtechdev.github.io/aied/concepts/pedagogical-patterns/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلُّم النشط](https://edtechdev.github.io/aied/concepts/active-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم التعاوني](https://edtechdev.github.io/aied/concepts/collaborative-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم القائم على المشاريع](https://edtechdev.github.io/aied/concepts/project-based-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم القائم على المشكلات](https://edtechdev.github.io/aied/concepts/problem-based-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الفشل المنتج](https://edtechdev.github.io/aied/concepts/productive-failure/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم القائم على الاستقصاء](https://edtechdev.github.io/aied/concepts/inquiry-based-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم التجريبي](https://edtechdev.github.io/aied/concepts/experiential-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم القائم على الألعاب](https://edtechdev.github.io/aied/concepts/game-based-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم بالتعليم](https://edtechdev.github.io/aied/concepts/learning-by-teaching/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [السقالة](https://edtechdev.github.io/aied/concepts/scaffolding/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الطريقة السقراطية](https://edtechdev.github.io/aied/concepts/socratic-method/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [البيداغوجيا النقدية](https://edtechdev.github.io/aied/concepts/critical-pedagogy/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الشراكات التربوية](https://edtechdev.github.io/aied/concepts/pedagogical-partnerships/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [السرد القصصي في التعليم](https://edtechdev.github.io/aied/concepts/storytelling-in-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلم والتعليم عبر الإنترنت](https://edtechdev.github.io/aied/concepts/online-teaching-and-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الفيديو في التعليم](https://edtechdev.github.io/aied/concepts/video-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [نظريات التعلُّم](https://edtechdev.github.io/aied/concepts/learning-theories/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [السلوكية](https://edtechdev.github.io/aied/concepts/behaviorism/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [البنائية](https://edtechdev.github.io/aied/concepts/constructivist/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [علم النفس المعرفي](https://edtechdev.github.io/aied/concepts/cognitive-psychology/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلُّم الاجتماعي-الثقافي](https://edtechdev.github.io/aied/concepts/sociocultural-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الإدراك الموزّع](https://edtechdev.github.io/aied/concepts/distributed-cognition/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم الموقَّع](https://edtechdev.github.io/aied/concepts/situated-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم التجسيدي](https://edtechdev.github.io/aied/concepts/embodied-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [مجتمع الاستقصاء](https://edtechdev.github.io/aied/concepts/community-of-inquiry/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم موجّه الذات](https://edtechdev.github.io/aied/concepts/self-regulated-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [نظرية تحديد الذات](https://edtechdev.github.io/aied/concepts/self-determination-theory/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التحفيز](https://edtechdev.github.io/aied/concepts/motivation/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الكفاءة الذاتية](https://edtechdev.github.io/aied/concepts/self-efficacy/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم الموجّه ذاتيًا](https://edtechdev.github.io/aied/concepts/self-directed-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [ما وراء المعرفة](https://edtechdev.github.io/aied/concepts/metacognition/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الصعوبات المرغوبة](https://edtechdev.github.io/aied/concepts/desirable-difficulties/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [نقل التعلّم](https://edtechdev.github.io/aied/concepts/transfer-of-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [المعرفة المسبقة](https://edtechdev.github.io/aied/concepts/prior-knowledge/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [إطار ICAP](https://edtechdev.github.io/aied/concepts/icap-framework/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [المفاهيم الخاطئة حول الذكاء الاصطناعي](https://edtechdev.github.io/aied/concepts/misconceptions/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [النص الداحض](https://edtechdev.github.io/aied/concepts/refutation-text/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [نظرية النشاط](https://edtechdev.github.io/aied/concepts/activity-theory-aied/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الاسترجاع والتباعد والتداخل](https://edtechdev.github.io/aied/concepts/retrieval-spacing-interleaving/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [اندماج الطلاب](https://edtechdev.github.io/aied/concepts/student-engagement/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [طلب المساعدة](https://edtechdev.github.io/aied/concepts/help-seeking/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم الاجتماعي-العاطفي](https://edtechdev.github.io/aied/concepts/social-emotional-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الرفاه](https://edtechdev.github.io/aied/concepts/well-being/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الإبداع](https://edtechdev.github.io/aied/concepts/creativity/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تفاعل الطالب مع الذكاء الاصطناعي](https://edtechdev.github.io/aied/concepts/student-ai-interaction/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [حل المشكلات](https://edtechdev.github.io/aied/concepts/problem-solving/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم القائم على الإتقان](https://edtechdev.github.io/aied/concepts/mastery-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [القلق والتوتر](https://edtechdev.github.io/aied/concepts/anxiety-and-stress/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تجربة الطالب](https://edtechdev.github.io/aied/concepts/student-experience/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [دعم الطلاب ونجاحهم](https://edtechdev.github.io/aied/concepts/student-support-and-success/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الأعراف الاجتماعية لاستخدام الذكاء الاصطناعي](https://edtechdev.github.io/aied/concepts/social-norms-ai-use/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التطوير المهني والجاهزية](https://edtechdev.github.io/aied/concepts/career-development-and-readiness/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم مدى الحياة](https://edtechdev.github.io/aied/concepts/lifelong-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعلّم مكان العمل](https://edtechdev.github.io/aied/concepts/professional-training/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التقنيات](https://edtechdev.github.io/aied/concepts/ai-technologies/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعلّم الآلة](https://edtechdev.github.io/aied/concepts/machine-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الذكاء الاصطناعي التوليدي](https://edtechdev.github.io/aied/concepts/generative-ai/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [النماذج اللغوية الكبيرة (LLMs)](https://edtechdev.github.io/aied/concepts/llm/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [RAG (التوليد المعزَّز بالاسترجاع)](https://edtechdev.github.io/aied/concepts/rag/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [هندسة المطالبات](https://edtechdev.github.io/aied/concepts/prompt-engineering/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تدريب النماذج اللغوية الكبيرة والضبط الدقيق](https://edtechdev.github.io/aied/concepts/llm-training-and-fine-tuning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الترميز الحدسي](https://edtechdev.github.io/aied/concepts/vibe-coding/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الذكاء الاصطناعي متعدد الوسائط](https://edtechdev.github.io/aied/concepts/multimodal/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تقنيات الكلام والصوت](https://edtechdev.github.io/aied/concepts/speech-and-voice-technologies/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التصوير البصري](https://edtechdev.github.io/aied/concepts/visualization/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [معالجة اللغة الطبيعية التعليمية](https://edtechdev.github.io/aied/concepts/educational-nlp/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعلّم التعزيز](https://edtechdev.github.io/aied/concepts/reinforcement-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [المخطّط المعرفي](https://edtechdev.github.io/aied/concepts/knowledge-graph/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الروبوتات في التعليم](https://edtechdev.github.io/aied/concepts/educational-robotics/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الذكاء الاصطناعي الحواري](https://edtechdev.github.io/aied/concepts/conversational-ai/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [المحاكاة](https://edtechdev.github.io/aied/concepts/simulation/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الواقع الافتراضي والمعزَّز](https://edtechdev.github.io/aied/concepts/virtual-and-augmented-reality/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [نمذجة المتعلّم والتعليم التكيّفي](https://edtechdev.github.io/aied/concepts/student-modeling/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تتبّع المعرفة](https://edtechdev.github.io/aied/concepts/knowledge-tracing/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التشخيص المعرفي](https://edtechdev.github.io/aied/concepts/cognitive-diagnosis/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [محاكاة الطلاب](https://edtechdev.github.io/aied/concepts/simulating-students/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التدريس الذكي](https://edtechdev.github.io/aied/concepts/intelligent-tutoring/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم التكيفي](https://edtechdev.github.io/aied/concepts/adaptive-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم المخصّص](https://edtechdev.github.io/aied/concepts/personalized-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [أنظمة التوصية ومسارات التعلّم](https://edtechdev.github.io/aied/concepts/recommender-systems-and-learning-paths/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الوكيل البيداغوجي](https://edtechdev.github.io/aied/concepts/pedagogical-agent/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الدرس الخاص الوجداني](https://edtechdev.github.io/aied/concepts/affective-tutoring/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الحوسبة العاطفية](https://edtechdev.github.io/aied/concepts/affective-computing/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الذكاء الاصطناعي بمشاركة الإنسان](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تحليلات التعلّم](https://edtechdev.github.io/aied/concepts/learning-analytics/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [نماذج تبني التقنية](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [المصدر المفتوح](https://edtechdev.github.io/aied/concepts/open-source/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [منصة التكنولوجيا التعليمية](https://edtechdev.github.io/aied/concepts/edtech-platform/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الذكاء الاصطناعي في التعليم في المجالات الدراسية](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم الرياضيات](https://edtechdev.github.io/aied/concepts/math-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم الفيزياء](https://edtechdev.github.io/aied/concepts/physics-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم الكيمياء](https://edtechdev.github.io/aied/concepts/chemistry-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم الأحياء](https://edtechdev.github.io/aied/concepts/biology-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم الحاسوب](https://edtechdev.github.io/aied/concepts/cs-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم الهندسة](https://edtechdev.github.io/aied/concepts/engineering-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم STEM](https://edtechdev.github.io/aied/concepts/stem-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم العلوم](https://edtechdev.github.io/aied/concepts/science-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الكتابة](https://edtechdev.github.io/aied/concepts/writing-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعلّم اللغات](https://edtechdev.github.io/aied/concepts/language-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم الإنجليزية (EAP / EFL / ESL)](https://edtechdev.github.io/aied/concepts/english-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعليم البيئي](https://edtechdev.github.io/aied/concepts/environmental-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم الأعمال](https://edtechdev.github.io/aied/concepts/business-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم العلوم الإنسانية والاجتماعية](https://edtechdev.github.io/aied/concepts/humanities-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم الفنون والتصميم والإعلام](https://edtechdev.github.io/aied/concepts/arts-design-and-media-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم التصميم](https://edtechdev.github.io/aied/concepts/design-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم المهن الطبية والصحية](https://edtechdev.github.io/aied/concepts/medical-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم التمريض](https://edtechdev.github.io/aied/concepts/nursing-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعليم القانوني](https://edtechdev.github.io/aied/concepts/legal-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم تقنية المعلومات](https://edtechdev.github.io/aied/concepts/information-technology/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [علوم التعلّم](https://edtechdev.github.io/aied/concepts/learning-sciences/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [K-12](https://edtechdev.github.io/aied/concepts/k-12/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم الطفولة المبكرة والمرحلة الابتدائية](https://edtechdev.github.io/aied/concepts/early-childhood-elementary-ai-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعليم العالي](https://edtechdev.github.io/aied/concepts/higher-ed/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [متعلّمو الكبار](https://edtechdev.github.io/aied/concepts/adult-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعليم والتدريب المهني](https://edtechdev.github.io/aied/concepts/vocational-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التربية الخاصة](https://edtechdev.github.io/aied/concepts/special-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التطوير المهني](https://edtechdev.github.io/aied/concepts/teacher-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [مراحل التعليم](https://edtechdev.github.io/aied/concepts/education-levels/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التقويم](https://edtechdev.github.io/aied/concepts/assessment/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الحكم التقييمي](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التغذية الراجعة](https://edtechdev.github.io/aied/concepts/feedback/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [ثقافة التغذية الراجعة](https://edtechdev.github.io/aied/concepts/feedback-literacy/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [جودة تغذية الذكاء الاصطناعي الراجعة](https://edtechdev.github.io/aied/concepts/ai-feedback-quality/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التقويم البنّاء](https://edtechdev.github.io/aied/concepts/formative-assessment/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التقويم الختامي](https://edtechdev.github.io/aied/concepts/summative-assessment/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التقويم الأصيل](https://edtechdev.github.io/aied/concepts/authentic-assessment/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التقويم الموجّه للعملية](https://edtechdev.github.io/aied/concepts/process-oriented-assessment/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [العمل الجماعي](https://edtechdev.github.io/aied/concepts/group-work/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الملف الإلكتروني](https://edtechdev.github.io/aied/concepts/eportfolio/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التقويم بالأقران](https://edtechdev.github.io/aied/concepts/peer-assessment/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التقييم الذاتي](https://edtechdev.github.io/aied/concepts/self-assessment/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التقييم الشفهي](https://edtechdev.github.io/aied/concepts/oral-assessment/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التقويم الآلي](https://edtechdev.github.io/aied/concepts/automated-assessment/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تقويم المقالات الآلي](https://edtechdev.github.io/aied/concepts/automated-essay-scoring/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [توليد الأسئلة الآلي](https://edtechdev.github.io/aied/concepts/automated-question-generation/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [صدق التقييم](https://edtechdev.github.io/aied/concepts/assessment-validity/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الذكاء الاصطناعي المدرك للقياس النفسي](https://edtechdev.github.io/aied/concepts/psychometrically-aware-ai/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [القياس التربوي](https://edtechdev.github.io/aied/concepts/educational-measurement/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [نظرية الاستجابة للمفردة](https://edtechdev.github.io/aied/concepts/item-response-theory/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [مقاييس التقرير الذاتي](https://edtechdev.github.io/aied/concepts/self-report-measures/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كشف محتوى الذكاء الاصطناعي](https://edtechdev.github.io/aied/concepts/ai-detection/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [المراقبة عن بعد](https://edtechdev.github.io/aied/concepts/remote-proctoring/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [مكاسب التعلّم](https://edtechdev.github.io/aied/concepts/learning-gains/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [مناهج البحث في AIED](https://edtechdev.github.io/aied/concepts/research-methods-aied/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [البحث التربوي بمساعدة الذكاء الاصطناعي](https://edtechdev.github.io/aied/concepts/ai-assisted-educational-research/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [البحث النوعي](https://edtechdev.github.io/aied/concepts/qualitative-research/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [البحث الكمي](https://edtechdev.github.io/aied/concepts/quantitative-research/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [البحث بالمناهج المختلطة](https://edtechdev.github.io/aied/concepts/mixed-methods-research/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [البحث القائم على التصميم](https://edtechdev.github.io/aied/concepts/design-based-research/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [بحث قابلية الاستخدام](https://edtechdev.github.io/aied/concepts/usability-research/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التجارب العشوائية المضبوطة](https://edtechdev.github.io/aied/concepts/rct/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التحليل البعدي والمراجعة المنهجية](https://edtechdev.github.io/aied/concepts/meta-analysis-systematic-review/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تحليل الملامح الكامنة](https://edtechdev.github.io/aied/concepts/latent-profile-analysis/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تحليل الشبكات](https://edtechdev.github.io/aied/concepts/network-analysis/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تقييم الذكاء الاصطناعي في التعليم (AI Ed Evaluation)](https://edtechdev.github.io/aied/concepts/ai-ed-evaluation/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [المعيار المرجعي (Benchmark)](https://edtechdev.github.io/aied/concepts/benchmark/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الإداريون](https://edtechdev.github.io/aied/concepts/administrator/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [مطوّرو التقنية التعليمية](https://edtechdev.github.io/aied/concepts/educational-technology-developers/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [المتعلّمون](https://edtechdev.github.io/aied/concepts/learners/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [أمناء المكتبات](https://edtechdev.github.io/aied/concepts/librarians/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الآباء والأسر](https://edtechdev.github.io/aied/concepts/parents-and-families/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [أصحاب المصلحة](https://edtechdev.github.io/aied/concepts/stakeholders/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [سياسة الذكاء الاصطناعي في التعليم](https://edtechdev.github.io/aied/concepts/educational-policy-ai/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [حوكمة الذكاء الاصطناعي](https://edtechdev.github.io/aied/concepts/governance/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [إدارة التغيير](https://edtechdev.github.io/aied/concepts/change-management/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تنظيم الذكاء الاصطناعي في التعليم](https://edtechdev.github.io/aied/concepts/regulation/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الإنصاف](https://edtechdev.github.io/aied/concepts/equity-in-ai-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الآثار التفاضلية بين مجموعات المتعلّمين](https://edtechdev.github.io/aied/concepts/differential-effects-across-learner-groups/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الفجوة الرقمية](https://edtechdev.github.io/aied/concepts/digital-divide/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تخفيف الانحياز](https://edtechdev.github.io/aied/concepts/bias-mitigation/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [البيداغوجيا المرتبطة ثقافياً](https://edtechdev.github.io/aied/concepts/culturally-relevant-pedagogy/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم متعدّد اللغات](https://edtechdev.github.io/aied/concepts/multilingual-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعلّم الشامل](https://edtechdev.github.io/aied/concepts/inclusive-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [إمكانية الوصول](https://edtechdev.github.io/aied/concepts/accessibility/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التقنية المساعدة](https://edtechdev.github.io/aied/concepts/assistive-technology/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التنوّع العصبي](https://edtechdev.github.io/aied/concepts/neurodiversity/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التصميم الشامل للتعلّم](https://edtechdev.github.io/aied/concepts/universal-design-for-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الجنوب العالمي](https://edtechdev.github.io/aied/concepts/global-south/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الأخلاقيات](https://edtechdev.github.io/aied/concepts/ethics/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [سوء استخدام الذكاء الاصطناعي والضرر التعليمي](https://edtechdev.github.io/aied/concepts/ai-misuse-learning-harm/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [المسائل القانونية والمخاطر](https://edtechdev.github.io/aied/concepts/legal-issues-and-risks/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [بيانات استخدام الذكاء الاصطناعي والإفصاح عنه](https://edtechdev.github.io/aied/concepts/ai-use-disclosure/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الضوابط](https://edtechdev.github.io/aied/concepts/guardrails/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الخصوصية](https://edtechdev.github.io/aied/concepts/privacy/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [خطر الهلوسة](https://edtechdev.github.io/aied/concepts/hallucination-risk/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تملّق الذكاء الاصطناعي](https://edtechdev.github.io/aied/concepts/ai-sycophancy/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الثقة](https://edtechdev.github.io/aied/concepts/trust/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [معايرة الثقة](https://edtechdev.github.io/aied/concepts/trust-calibration/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الذكاء الاصطناعي القابل للتفسير](https://edtechdev.github.io/aied/concepts/explainable-ai/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الاستدامة](https://edtechdev.github.io/aied/concepts/sustainability/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [الأمان البيداغوجي](https://edtechdev.github.io/aied/concepts/pedagogical-safety/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+
+## FAQs
+
+- [كيف يمكننا معالجة المفاهيم الخاطئة الشائعة حول الذكاء الاصطناعي في التعليم؟](https://edtechdev.github.io/aied/faqs/addressing-common-misconceptions-ai-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف يمكن لوكلاء الذكاء الاصطناعي أن يدعموا الطلاب والمدرّسين؟](https://edtechdev.github.io/aied/faqs/ai-agents-support-students-instructors/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف يؤثر الذكاء الاصطناعي في قلق الطلاب ورفاهيتهم، وما الذي يمكننا فعله؟](https://edtechdev.github.io/aied/faqs/ai-anxiety-wellbeing/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف يمكن للذكاء الاصطناعي دعم المتعلمين ذوي الإعاقة والمختلفين عصبيًا في مقرري؟](https://edtechdev.github.io/aied/faqs/ai-disabled-neurodivergent-learners/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف يمكن للذكاء الاصطناعي أن يساعدني في تقديم تغذية راجعة أفضل على نطاق واسع؟](https://edtechdev.github.io/aied/faqs/ai-feedback-at-scale/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف ينبغي للآباء والمعلّمين التعامل مع الذكاء الاصطناعي مع الأطفال دون سنّ الثالثة عشرة؟](https://edtechdev.github.io/aied/faqs/ai-guidance-children-under-13/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [ما الدليل على تدخّلات ثقافة الذكاء الاصطناعي في التعليم العالي؟](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف يوفّر لي الذكاء الاصطناعي وقتًا كمدرّس؟](https://edtechdev.github.io/aied/faqs/ai-save-instructor-time/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف نصمم المقررات الإلكترونية غير المتزامنة ونُيسّرها عندما يستطيع الذكاء الاصطناعي إنجاز العمل؟](https://edtechdev.github.io/aied/faqs/asynchronous-online-courses-ai/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف نعرف أن ذكاءً اصطناعيًا تعليميًا يعمل بشكل صحيح، لا أنه يحصل على درجات جيدة فحسب؟](https://edtechdev.github.io/aied/faqs/checking-whether-educational-ai-works/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف أكتب سياسة ذكاء اصطناعي للمقرّر وأبلّغها للطلاب؟](https://edtechdev.github.io/aied/faqs/course-ai-policy/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف ينبغي أن يُصمَّم الذكاء الاصطناعي في التجربة التعليمية؟](https://edtechdev.github.io/aied/faqs/designing-ai-into-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [ما الممارسات الأفضل والنصائح لتصميم برمجيات ذكاء اصطناعي تعليمية فعّالة؟](https://edtechdev.github.io/aied/faqs/designing-educational-ai-software/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [ما أفضل الممارسات لتطوير مدرّس آلي فعال؟](https://edtechdev.github.io/aied/faqs/developing-ai-tutor/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [هل يساعد استخدام الذكاء الاصطناعي طلابي على التعلّم فعلًا؟](https://edtechdev.github.io/aied/faqs/does-ai-help-students-learn/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف ينبغي لبحث الذكاء الاصطناعي في التعليم أن يُدمج الإنصاف وإمكانية الوصول والخصوصية والأخلاقيات والسلامة البيداغوجية؟](https://edtechdev.github.io/aied/faqs/equity-ethics-pedagogical-safety-research/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [ما المقاييس ومناهج البحث التي يمكن للمدرّس استخدامها لتقييم التدخلات المرتبطة بالذكاء الاصطناعي؟](https://edtechdev.github.io/aied/faqs/evaluating-ai-interventions-methods/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [ما الكفاءات التي يحتاجها أعضاء هيئة التدريس فيما يتعلق بالذكاء الاصطناعي؟](https://edtechdev.github.io/aied/faqs/faculty-ai-competencies/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف أصمّم تطوير أعضاء هيئة التدريس في الذكاء الاصطناعي بحيث يغيّر الممارسة فعلًا؟](https://edtechdev.github.io/aied/faqs/faculty-development-ai/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف أتصرّف مع الذكاء الاصطناعي في المهام الجماعية والتعاونية؟](https://edtechdev.github.io/aied/faqs/group-work-ai/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف يؤثر الذكاء الاصطناعي في الطلاب؟](https://edtechdev.github.io/aied/faqs/how-ai-impacts-students/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف يمكن للذكاء الاصطناعي أن يساعد في البحث التربوي؟](https://edtechdev.github.io/aied/faqs/how-can-ai-assist-with-educational-research/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف أُدمج ثقافة الذكاء الاصطناعي في مقرري؟](https://edtechdev.github.io/aied/faqs/incorporating-ai-literacy/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف نكتب سياسة مؤسسية للذكاء الاصطناعي وننفّذها؟](https://edtechdev.github.io/aied/faqs/institutional-ai-policy/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف نجعل الذكاء الاصطناعي أفضل في دعم التعلّم في مجالنا الدراسي؟](https://edtechdev.github.io/aied/faqs/making-ai-better-at-supporting-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف نجعل طالبًا محاكىً يتصرف كمتعلّم حقيقي؟](https://edtechdev.github.io/aied/faqs/making-simulated-students-behave-like-learners/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف أعيد تصميم التقويم حتى تخبرني الدرجة بشيء يمكن الدفاع عنه عمّا يعرفه الطالب أو يستطيع فعله؟](https://edtechdev.github.io/aied/faqs/redesign-assessment-ai-era/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف أُقلّل الغشّ بالذكاء الاصطناعي في مقرري الدراسي؟](https://edtechdev.github.io/aied/faqs/reduce-ai-cheating/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف أمنع الطلاب من الاعتماد المفرط على الذكاء الاصطناعي؟](https://edtechdev.github.io/aied/faqs/reducing-over-reliance/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [ما أفضل الممارسات في الإبلاغ عن أبحاث الذكاء الاصطناعي في التعليم وتفسيرها؟](https://edtechdev.github.io/aied/faqs/reporting-interpreting-aied-research/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [ما الفجوات البارزة في الأدبيات البحثية عن الذكاء الاصطناعي في التعليم؟](https://edtechdev.github.io/aied/faqs/research-gaps-aied/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [هل يجب أن نستخدم كواشف الذكاء الاصطناعي؟](https://edtechdev.github.io/aied/faqs/should-we-use-ai-detectors/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف أستخدم الذكاء الاصطناعي لأدرس وأتعلّم بفعالية؟](https://edtechdev.github.io/aied/faqs/study-with-ai/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [ما أهم 10 نتائج من أبحاث الذكاء الاصطناعي في التعليم ينبغي أن يعرفها المدرّسون؟](https://edtechdev.github.io/aied/faqs/top-10-findings-ai-education-instructors/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف ندرّب مدرّس ذكاء اصطناعي على إرشاد الطلاب بدلًا من الإجابة عنهم؟](https://edtechdev.github.io/aied/faqs/training-ai-tutors-to-guide-rather-than-answer/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف أُعلّم الطلاب التحقق من مخرجات الذكاء الاصطناعي؟](https://edtechdev.github.io/aied/faqs/verify-ai-output/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [ما هي أفضل الممارسات لتعليم الكتابة في سياق الذكاء الاصطناعي؟](https://edtechdev.github.io/aied/faqs/writing-instruction-ai-best-practices/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+
+## Articles
+
