@@ -4783,3 +4783,46 @@
     - conversational-ai
     - ai-ed-evaluation
   reason: "One weave. agency carries the who-decides thread (de Jong's adaptive-scaffolding authority trade-off; design-bot agency collapse when participants agreed instead of critiquing); this conceptual article supplies the missing diagnostic vocabulary — the Interpretive Authority Matrix's four configurations and the EAIM's five ecological layers — woven as the framework that formalizes who-holds-authority as a design variable, with the AI-directive suppression of productive struggle tying to the page's existing evidence. Rejected: human-ai-collaboration already carries the D1-D4-style competence reframing (this paper's framework is a different cut — diagnostic rather than competence-based), feedback/metacognition/ai-misuse-learning-harm/ai-use-disclosure are the mechanism and risk frames, and k-12/higher-ed are levels — none is a narrative the framework changes. Full Matrix/EAIM layer descriptions stay in the article."
+- article: gyekye-selves-apprenticeship-2026
+  date: 2026-10-12
+  integrated:
+    - agency
+    - equity-in-ai-education
+  no_change:
+    - ai-literacy
+    - culturally-relevant-pedagogy
+    - ai-use-disclosure
+    - privacy
+    - generative-ai
+    - conversational-ai
+    - qualitative-research
+    - ai-ed-evaluation
+    - secondary
+  reason: "Two weaves. agency carries the refusal-as-agency thread (Zagami's non-use diagnostic; O'Byrne's refusals in interaction traces); this study extends refusal into identity construction for students of colour — non-use as institutional alignment or epistemic values, plus negotiation (institutional-legibility repair, privacy as distant abstraction) — woven after the refusal bullet, with its five-student single-program scope stated. equity-in-ai-education carries the who-benefits and inclusion sections; the cultural-flatness finding (students equating fairness with absence of visible bias while their identities go unrepresented) and the Recognition Bandwidth / Institutional AI Literacy concepts are woven into the inclusion section as the recognition-not-just-access contribution, with the qualitative scope stated. Rejected: ai-literacy, culturally-relevant-pedagogy, ai-use-disclosure, privacy, generative-ai, conversational-ai, qualitative-research and secondary are the construct, design, technology, method and level frames — none is a narrative the finding changes."
+- article: lin-rag-lesson-generation-tutor-training-2026
+  date: 2026-10-12
+  integrated:
+    - ai-feedback-quality
+  no_change:
+    - intelligent-tutoring
+    - rag
+    - llm
+    - ai-literacy
+    - rct
+    - ai-ed-evaluation
+    - teacher-education
+    - middle-school
+  reason: "One weave. ai-feedback-quality carries the human-vs-AI comparability thread (acceptability vs learning effectiveness; meta-analytic task-contingency); this experiment adds the moderation finding — RAG-generated tutor-training lessons matched human-created ones when feedback was present, with the human advantage (0.144) concentrated in the no-feedback condition — woven as the scaffolding-gap interpretation, with the interaction-not-main-effect and assessment-order caveats stated. Rejected: intelligent-tutoring carries tutoring-effects and engagement evidence (this study's outcome is lesson-material quality, not tutoring gains), rag/llm/ai-literacy are the technology and construct frames, and rct/ai-ed-evaluation/teacher-education/middle-school are method and level frames — none is a narrative the finding changes. The eight-condition design details and the transfer/order-effects caveat stay in the article."
+- article: karaki-think-aloud-ethical-genai-2026
+  date: 2026-10-12
+  integrated:
+    - metacognition
+  no_change:
+    - ai-literacy
+    - ai-misuse-learning-harm
+    - generative-ai
+    - mixed-methods-research
+    - design-based-research
+    - ai-ed-evaluation
+    - higher-ed
+  reason: "One weave. metacognition carries the process-evidence thread (Li & Liu: think-aloud and logs capture different processes); this action-research study extends it from what records capture to what vocalization alone changes — Think Aloud made prompt construction, verification and ethical reasoning visible, but critical evaluation stayed surface-level, especially for students needing support, and the authors' not-a-stand-alone-solution conclusion is woven with the no-control-group and common-method caveats. Rejected: ai-literacy and ai-misuse-learning-harm carry the literacy-construct and over-reliance frames, generative-ai is the technology frame, and mixed-methods-research/design-based-research/ai-ed-evaluation/higher-ed are method and level frames — none is a narrative the finding changes."
