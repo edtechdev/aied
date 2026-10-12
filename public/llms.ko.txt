@@ -1,0 +1,268 @@
+# AI in Education Knowledge Base
+> A comprehensive knowledge base of 220 concepts, 0 research articles, and 37 FAQs covering AI in education — frameworks, methodologies, and papers.
+
+## Concepts
+
+- [교육에서의 인공지능](https://edtechdev.github.io/aied/concepts/ai-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI 리터러시](https://edtechdev.github.io/aied/concepts/ai-literacy/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [에이전틱 AI](https://edtechdev.github.io/aied/concepts/agentic-ai/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [인지 부하 외주화](https://edtechdev.github.io/aied/concepts/cognitive-offloading/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [인지적 항복](https://edtechdev.github.io/aied/concepts/cognitive-surrender/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학생을 위한 AI 활용에 대한 프레이밍](https://edtechdev.github.io/aied/concepts/framing-ai-use-for-students/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI 오용의 감소](https://edtechdev.github.io/aied/concepts/reducing-ai-misuse/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학문적 진실성](https://edtechdev.github.io/aied/concepts/academic-integrity/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교수(Teaching)](https://edtechdev.github.io/aied/concepts/teacher-role/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교수자의 AI 역량](https://edtechdev.github.io/aied/concepts/teacher-ai-competency/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학습 설계](https://edtechdev.github.io/aied/concepts/learning-design/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육 개발](https://edtechdev.github.io/aied/concepts/educational-development/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육에서의 AI의 역사](https://edtechdev.github.io/aied/concepts/history-of-aied/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AIEd 연구의 해석과 적용](https://edtechdev.github.io/aied/concepts/interpreting-and-applying-aied-research/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AIEd 연구의 한계](https://edtechdev.github.io/aied/concepts/limitations-in-aied-research/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육에서의 AI의 철학](https://edtechdev.github.io/aied/concepts/philosophy-of-ai-in-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [이론과 틀](https://edtechdev.github.io/aied/concepts/theories-and-frameworks/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육에서의 인공지능의 이론 개발](https://edtechdev.github.io/aied/concepts/theory-development-aied/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [인간-AI 협업](https://edtechdev.github.io/aied/concepts/human-ai-collaboration/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학습자 주체성](https://edtechdev.github.io/aied/concepts/agency/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학습자 정체성](https://edtechdev.github.io/aied/concepts/learner-identity/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [디자인 씽킹](https://edtechdev.github.io/aied/concepts/design-thinking/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육과정 설계](https://edtechdev.github.io/aied/concepts/curriculum-design/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [비판적 사고](https://edtechdev.github.io/aied/concepts/critical-thinking/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [컴퓨팅 사고](https://edtechdev.github.io/aied/concepts/computational-thinking/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [SAMR 모형](https://edtechdev.github.io/aied/concepts/samr-model/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [기술적 교수 내용 지식(TPACK)](https://edtechdev.github.io/aied/concepts/tpack/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교수법과 교수 전략](https://edtechdev.github.io/aied/concepts/pedagogy/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육 패턴](https://edtechdev.github.io/aied/concepts/pedagogical-patterns/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [능동적 학습](https://edtechdev.github.io/aied/concepts/active-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [협력 학습](https://edtechdev.github.io/aied/concepts/collaborative-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [프로젝트 기반 학습](https://edtechdev.github.io/aied/concepts/project-based-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [문제 기반 학습](https://edtechdev.github.io/aied/concepts/problem-based-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [생산적 실패](https://edtechdev.github.io/aied/concepts/productive-failure/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [탐구 기반 학습](https://edtechdev.github.io/aied/concepts/inquiry-based-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [경험 학습](https://edtechdev.github.io/aied/concepts/experiential-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [게임 기반 학습](https://edtechdev.github.io/aied/concepts/game-based-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [가르치며 배우기](https://edtechdev.github.io/aied/concepts/learning-by-teaching/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [스캐폴딩](https://edtechdev.github.io/aied/concepts/scaffolding/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [소크라테스식 방법](https://edtechdev.github.io/aied/concepts/socratic-method/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [비판적 교수법](https://edtechdev.github.io/aied/concepts/critical-pedagogy/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육학적 동반자 관계](https://edtechdev.github.io/aied/concepts/pedagogical-partnerships/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육에서의 스토리텔링](https://edtechdev.github.io/aied/concepts/storytelling-in-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [온라인 교수와 학습](https://edtechdev.github.io/aied/concepts/online-teaching-and-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육에서의 비디오](https://edtechdev.github.io/aied/concepts/video-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학습 이론](https://edtechdev.github.io/aied/concepts/learning-theories/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [행동주의](https://edtechdev.github.io/aied/concepts/behaviorism/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [구성주의](https://edtechdev.github.io/aied/concepts/constructivist/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [인지 심리학](https://edtechdev.github.io/aied/concepts/cognitive-psychology/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [사회문화적 학습](https://edtechdev.github.io/aied/concepts/sociocultural-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [분산 인지](https://edtechdev.github.io/aied/concepts/distributed-cognition/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [상황 학습](https://edtechdev.github.io/aied/concepts/situated-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [구현된 학습](https://edtechdev.github.io/aied/concepts/embodied-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [탐구 공동체](https://edtechdev.github.io/aied/concepts/community-of-inquiry/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [자기조절 학습](https://edtechdev.github.io/aied/concepts/self-regulated-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [자기결정이론](https://edtechdev.github.io/aied/concepts/self-determination-theory/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [동기](https://edtechdev.github.io/aied/concepts/motivation/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [자기효능감](https://edtechdev.github.io/aied/concepts/self-efficacy/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [자기주도 학습](https://edtechdev.github.io/aied/concepts/self-directed-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [메타인지](https://edtechdev.github.io/aied/concepts/metacognition/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [바람직한 어려움](https://edtechdev.github.io/aied/concepts/desirable-difficulties/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학습의 전이](https://edtechdev.github.io/aied/concepts/transfer-of-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [사전 지식](https://edtechdev.github.io/aied/concepts/prior-knowledge/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [ICAP 틀](https://edtechdev.github.io/aied/concepts/icap-framework/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI에 대한 오개념](https://edtechdev.github.io/aied/concepts/misconceptions/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [반박 텍스트](https://edtechdev.github.io/aied/concepts/refutation-text/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [활동 이론](https://edtechdev.github.io/aied/concepts/activity-theory-aied/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [인출, 간격, 혼합 연습](https://edtechdev.github.io/aied/concepts/retrieval-spacing-interleaving/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학생 참여](https://edtechdev.github.io/aied/concepts/student-engagement/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [도움 요청](https://edtechdev.github.io/aied/concepts/help-seeking/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [사회정서학습](https://edtechdev.github.io/aied/concepts/social-emotional-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [웰빙](https://edtechdev.github.io/aied/concepts/well-being/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [창의성](https://edtechdev.github.io/aied/concepts/creativity/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학생-AI 상호작용](https://edtechdev.github.io/aied/concepts/student-ai-interaction/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [문제 해결](https://edtechdev.github.io/aied/concepts/problem-solving/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [숙달 학습](https://edtechdev.github.io/aied/concepts/mastery-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [불안과 스트레스](https://edtechdev.github.io/aied/concepts/anxiety-and-stress/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학생 경험](https://edtechdev.github.io/aied/concepts/student-experience/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학생 지원과 성공](https://edtechdev.github.io/aied/concepts/student-support-and-success/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI 활용의 사회적 규범](https://edtechdev.github.io/aied/concepts/social-norms-ai-use/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [진로 개발과 준비도](https://edtechdev.github.io/aied/concepts/career-development-and-readiness/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [평생학습](https://edtechdev.github.io/aied/concepts/lifelong-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [직장 학습](https://edtechdev.github.io/aied/concepts/professional-training/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [기술](https://edtechdev.github.io/aied/concepts/ai-technologies/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [머신러닝](https://edtechdev.github.io/aied/concepts/machine-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [생성형 AI](https://edtechdev.github.io/aied/concepts/generative-ai/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [대규모 언어 모델(LLM)](https://edtechdev.github.io/aied/concepts/llm/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [RAG (검색 증강 생성)](https://edtechdev.github.io/aied/concepts/rag/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [프롬프트 엔지니어링](https://edtechdev.github.io/aied/concepts/prompt-engineering/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [LLM 훈련과 미세 조정](https://edtechdev.github.io/aied/concepts/llm-training-and-fine-tuning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [바이브 코딩](https://edtechdev.github.io/aied/concepts/vibe-coding/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [멀티모달 AI](https://edtechdev.github.io/aied/concepts/multimodal/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [음성 및 음향 기술](https://edtechdev.github.io/aied/concepts/speech-and-voice-technologies/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [시각화](https://edtechdev.github.io/aied/concepts/visualization/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육을 위한 자연어 처리](https://edtechdev.github.io/aied/concepts/educational-nlp/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [강화 학습](https://edtechdev.github.io/aied/concepts/reinforcement-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [지식 그래프](https://edtechdev.github.io/aied/concepts/knowledge-graph/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육에서의 로봇](https://edtechdev.github.io/aied/concepts/educational-robotics/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [대화형 AI](https://edtechdev.github.io/aied/concepts/conversational-ai/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [모의](https://edtechdev.github.io/aied/concepts/simulation/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [가상현실과 증강현실](https://edtechdev.github.io/aied/concepts/virtual-and-augmented-reality/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학습자 모델링과 적응형 수업](https://edtechdev.github.io/aied/concepts/student-modeling/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [지식 추적](https://edtechdev.github.io/aied/concepts/knowledge-tracing/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [인지 진단](https://edtechdev.github.io/aied/concepts/cognitive-diagnosis/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학생 시뮬레이션](https://edtechdev.github.io/aied/concepts/simulating-students/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [지능형 튜터링](https://edtechdev.github.io/aied/concepts/intelligent-tutoring/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [적응 학습](https://edtechdev.github.io/aied/concepts/adaptive-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [개인화 학습](https://edtechdev.github.io/aied/concepts/personalized-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [추천 체계와 학습 경로](https://edtechdev.github.io/aied/concepts/recommender-systems-and-learning-paths/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교수 에이전트](https://edtechdev.github.io/aied/concepts/pedagogical-agent/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [감성 튜터링](https://edtechdev.github.io/aied/concepts/affective-tutoring/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [정서 컴퓨팅](https://edtechdev.github.io/aied/concepts/affective-computing/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [인간 개입](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학습 분석](https://edtechdev.github.io/aied/concepts/learning-analytics/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [기술 수용 모형](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [오픈 소스](https://edtechdev.github.io/aied/concepts/open-source/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육공학 플랫폼](https://edtechdev.github.io/aied/concepts/edtech-platform/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학문 분야별 AI 교육](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [수학 교육](https://edtechdev.github.io/aied/concepts/math-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [물리 교육](https://edtechdev.github.io/aied/concepts/physics-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [화학 교육](https://edtechdev.github.io/aied/concepts/chemistry-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [생물 교육](https://edtechdev.github.io/aied/concepts/biology-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [컴퓨터 과학 교육](https://edtechdev.github.io/aied/concepts/cs-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [공학 교육](https://edtechdev.github.io/aied/concepts/engineering-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [STEM 교육](https://edtechdev.github.io/aied/concepts/stem-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [과학 교육](https://edtechdev.github.io/aied/concepts/science-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [쓰기](https://edtechdev.github.io/aied/concepts/writing-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [언어 학습](https://edtechdev.github.io/aied/concepts/language-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [영어 교육 (EAP / EFL / ESL)](https://edtechdev.github.io/aied/concepts/english-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [환경 교육](https://edtechdev.github.io/aied/concepts/environmental-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [경영학 교육](https://edtechdev.github.io/aied/concepts/business-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [인문·사회과학 교육](https://edtechdev.github.io/aied/concepts/humanities-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [예술, 디자인 및 미디어 교육](https://edtechdev.github.io/aied/concepts/arts-design-and-media-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [디자인 교육](https://edtechdev.github.io/aied/concepts/design-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [의학 및 보건 전문직 교육](https://edtechdev.github.io/aied/concepts/medical-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [간호 교육](https://edtechdev.github.io/aied/concepts/nursing-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [법학 교육](https://edtechdev.github.io/aied/concepts/legal-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [정보 기술 교육](https://edtechdev.github.io/aied/concepts/information-technology/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학습 과학](https://edtechdev.github.io/aied/concepts/learning-sciences/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [K-12](https://edtechdev.github.io/aied/concepts/k-12/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [유아 교육](https://edtechdev.github.io/aied/concepts/early-childhood-elementary-ai-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [고등 교육](https://edtechdev.github.io/aied/concepts/higher-ed/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [성인 학습](https://edtechdev.github.io/aied/concepts/adult-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [직업 교육 및 훈련](https://edtechdev.github.io/aied/concepts/vocational-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [특수 교육](https://edtechdev.github.io/aied/concepts/special-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [전문성 개발](https://edtechdev.github.io/aied/concepts/teacher-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육의 수준](https://edtechdev.github.io/aied/concepts/education-levels/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [평가](https://edtechdev.github.io/aied/concepts/assessment/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [평가적 판단](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [피드백](https://edtechdev.github.io/aied/concepts/feedback/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [피드백 리터러시](https://edtechdev.github.io/aied/concepts/feedback-literacy/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI 피드백 품질](https://edtechdev.github.io/aied/concepts/ai-feedback-quality/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [형성평가](https://edtechdev.github.io/aied/concepts/formative-assessment/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [총괄평가](https://edtechdev.github.io/aied/concepts/summative-assessment/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [실제적 평가](https://edtechdev.github.io/aied/concepts/authentic-assessment/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [과정 중심 평가](https://edtechdev.github.io/aied/concepts/process-oriented-assessment/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [모둠 활동](https://edtechdev.github.io/aied/concepts/group-work/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [e-포트폴리오](https://edtechdev.github.io/aied/concepts/eportfolio/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [동료 평가](https://edtechdev.github.io/aied/concepts/peer-assessment/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [자기평가](https://edtechdev.github.io/aied/concepts/self-assessment/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [구두 평가](https://edtechdev.github.io/aied/concepts/oral-assessment/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [자동화 평가](https://edtechdev.github.io/aied/concepts/automated-assessment/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [자동화 에세이 채점](https://edtechdev.github.io/aied/concepts/automated-essay-scoring/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [자동 문항 생성](https://edtechdev.github.io/aied/concepts/automated-question-generation/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [평가 타당도](https://edtechdev.github.io/aied/concepts/assessment-validity/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [측정심리를 고려한 AI](https://edtechdev.github.io/aied/concepts/psychometrically-aware-ai/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육 측정](https://edtechdev.github.io/aied/concepts/educational-measurement/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [문항반응이론](https://edtechdev.github.io/aied/concepts/item-response-theory/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [자기보고식 측정](https://edtechdev.github.io/aied/concepts/self-report-measures/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI 탐지](https://edtechdev.github.io/aied/concepts/ai-detection/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [원격 감독 시험](https://edtechdev.github.io/aied/concepts/remote-proctoring/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학습 성과](https://edtechdev.github.io/aied/concepts/learning-gains/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AIED 연구 방법](https://edtechdev.github.io/aied/concepts/research-methods-aied/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI 지원 교육 연구](https://edtechdev.github.io/aied/concepts/ai-assisted-educational-research/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [질적 연구](https://edtechdev.github.io/aied/concepts/qualitative-research/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [양적 연구](https://edtechdev.github.io/aied/concepts/quantitative-research/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [혼합 방법 연구](https://edtechdev.github.io/aied/concepts/mixed-methods-research/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [설계 기반 연구](https://edtechdev.github.io/aied/concepts/design-based-research/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [사용성 연구](https://edtechdev.github.io/aied/concepts/usability-research/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [무작위 대조 시험](https://edtechdev.github.io/aied/concepts/rct/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [메타분석과 체계적 문헌고찰](https://edtechdev.github.io/aied/concepts/meta-analysis-systematic-review/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [잠재 프로파일 분석](https://edtechdev.github.io/aied/concepts/latent-profile-analysis/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [네트워크 분석](https://edtechdev.github.io/aied/concepts/network-analysis/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육 분야 AI 개입 평가](https://edtechdev.github.io/aied/concepts/ai-ed-evaluation/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [벤치마크](https://edtechdev.github.io/aied/concepts/benchmark/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [관리자](https://edtechdev.github.io/aied/concepts/administrator/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육 기술 개발자](https://edtechdev.github.io/aied/concepts/educational-technology-developers/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학습자](https://edtechdev.github.io/aied/concepts/learners/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [사서](https://edtechdev.github.io/aied/concepts/librarians/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [부모와 가족](https://edtechdev.github.io/aied/concepts/parents-and-families/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI 교육의 이해관계자](https://edtechdev.github.io/aied/concepts/stakeholders/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육 AI 정책](https://edtechdev.github.io/aied/concepts/educational-policy-ai/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI 거버넌스](https://edtechdev.github.io/aied/concepts/governance/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [변화 관리](https://edtechdev.github.io/aied/concepts/change-management/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육에서의 AI 규제](https://edtechdev.github.io/aied/concepts/regulation/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [형평성](https://edtechdev.github.io/aied/concepts/equity-in-ai-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학습자 집단에 따른 차등적 효과](https://edtechdev.github.io/aied/concepts/differential-effects-across-learner-groups/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [디지털 격차](https://edtechdev.github.io/aied/concepts/digital-divide/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [편향 완화](https://edtechdev.github.io/aied/concepts/bias-mitigation/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [문화적으로 적합한 교수법](https://edtechdev.github.io/aied/concepts/culturally-relevant-pedagogy/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [다중언어 학습](https://edtechdev.github.io/aied/concepts/multilingual-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [포용적 학습](https://edtechdev.github.io/aied/concepts/inclusive-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [접근성](https://edtechdev.github.io/aied/concepts/accessibility/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [보조 기술](https://edtechdev.github.io/aied/concepts/assistive-technology/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [신경다양성](https://edtechdev.github.io/aied/concepts/neurodiversity/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [보편적 학습 설계](https://edtechdev.github.io/aied/concepts/universal-design-for-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [글로벌 사우스](https://edtechdev.github.io/aied/concepts/global-south/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [윤리](https://edtechdev.github.io/aied/concepts/ethics/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI의 오용과 학습에 대한 해](https://edtechdev.github.io/aied/concepts/ai-misuse-learning-harm/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [법적 쟁점과 위험](https://edtechdev.github.io/aied/concepts/legal-issues-and-risks/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI 사용 및 공개 진술](https://edtechdev.github.io/aied/concepts/ai-use-disclosure/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [가드레일](https://edtechdev.github.io/aied/concepts/guardrails/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [프라이버시](https://edtechdev.github.io/aied/concepts/privacy/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [환각 위험](https://edtechdev.github.io/aied/concepts/hallucination-risk/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI의 아첨](https://edtechdev.github.io/aied/concepts/ai-sycophancy/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [신뢰](https://edtechdev.github.io/aied/concepts/trust/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [신뢰 보정](https://edtechdev.github.io/aied/concepts/trust-calibration/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [설명 가능한 AI](https://edtechdev.github.io/aied/concepts/explainable-ai/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [지속가능성](https://edtechdev.github.io/aied/concepts/sustainability/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교수법적 안전](https://edtechdev.github.io/aied/concepts/pedagogical-safety/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+## FAQs
+
+- [교육에서 AI에 관한 흔한 오개념을 어떻게 바로잡을 수 있습니까?](https://edtechdev.github.io/aied/faqs/addressing-common-misconceptions-ai-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI 에이전트는 학생과 교수자를 어떻게 지원할 수 있는가?](https://edtechdev.github.io/aied/faqs/ai-agents-support-students-instructors/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI가 학생의 불안과 웰빙에 어떤 영향을 미치며 우리는 무엇을 할 수 있습니까?](https://edtechdev.github.io/aied/faqs/ai-anxiety-wellbeing/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI가 내 강좌의 장애와 신경다양성 학습자를 어떻게 지원할 수 있습니까?](https://edtechdev.github.io/aied/faqs/ai-disabled-neurodivergent-learners/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI가 규모 있게 더 나은 피드백을 제공하는 데 어떻게 도움이 될까요?](https://edtechdev.github.io/aied/faqs/ai-feedback-at-scale/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [부모와 교사는 13세 미만 아동에게 AI를 어떻게 다가가게 해야 합니까?](https://edtechdev.github.io/aied/faqs/ai-guidance-children-under-13/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [고등교육에서 AI 리터러시 중재의 증거는 무엇인가?](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교수자로서 AI로 시간을 절약하려면 어떻게 해야 할까요?](https://edtechdev.github.io/aied/faqs/ai-save-instructor-time/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI가 작업을 대신할 수 있는 세상에서 비동기 온라인 강좌를 어떻게 설계하고 진행해야 합니까?](https://edtechdev.github.io/aied/faqs/asynchronous-online-courses-ai/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육 AI가 올바르게 작동하고 있는지를, 점수만 잘 받는 것이 아니라, 어떻게 알 수 있을까요?](https://edtechdev.github.io/aied/faqs/checking-whether-educational-ai-works/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [강좌 AI 정책을 어떻게 작성하고 학생들에게 어떻게 전달합니까?](https://edtechdev.github.io/aied/faqs/course-ai-policy/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI를 학습 경험에 어떻게 설계해야 합니까?](https://edtechdev.github.io/aied/faqs/designing-ai-into-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [효과적인 교육용 AI 소프트웨어를 설계하기 위한 모범 사례와 팁은 무엇인가?](https://edtechdev.github.io/aied/faqs/designing-educational-ai-software/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [효과적인 AI 튜터를 개발하는 모범 사례는 무엇입니까?](https://edtechdev.github.io/aied/faqs/developing-ai-tutor/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI를 사용하는 것이 실제로 제 학생들의 학습에 도움이 될까요?](https://edtechdev.github.io/aied/faqs/does-ai-help-students-learn/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육에서의 AI 연구는 형평성, 접근성, 프라이버시, 윤리, 교수법적 안전을 어떻게 통합해야 하는가?](https://edtechdev.github.io/aied/faqs/equity-ethics-pedagogical-safety-research/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교수자가 AI 관련 개입을 평가하는 데 사용할 수 있는 측정과 연구 방법은 무엇입니까?](https://edtechdev.github.io/aied/faqs/evaluating-ai-interventions-methods/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교수진은 AI와 관련하여 어떤 역량을 갖춰야 합니까?](https://edtechdev.github.io/aied/faqs/faculty-ai-competencies/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [실제로 실천을 바꾸는 AI 교수자 개발을 어떻게 설계합니까?](https://edtechdev.github.io/aied/faqs/faculty-development-ai/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [집단 및 협력 과제에서 AI를 어떻게 다루어야 할까요?](https://edtechdev.github.io/aied/faqs/group-work-ai/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI가 학생들에게 어떤 영향을 미치고 있습니까?](https://edtechdev.github.io/aied/faqs/how-ai-impacts-students/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI가 교육 연구를 어떻게 도울 수 있을까요?](https://edtechdev.github.io/aied/faqs/how-can-ai-assist-with-educational-research/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [제 강의에 AI 리터러시를 어떻게 통합해야 할까요?](https://edtechdev.github.io/aied/faqs/incorporating-ai-literacy/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [기관 AI 정책을 어떻게 작성하고 이행합니까?](https://edtechdev.github.io/aied/faqs/institutional-ai-policy/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [우리 자신의 과목에서 AI가 학습을 더 잘 지원하도록 어떻게 만들 수 있을까요?](https://edtechdev.github.io/aied/faqs/making-ai-better-at-supporting-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [모의 학생이 실제 학습자처럼 행동하게 하려면 어떻게 해야 할까요?](https://edtechdev.github.io/aied/faqs/making-simulated-students-behave-like-learners/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [평가를 어떻게 재설계하면 성적이 학생이 알고 있거나 할 수 있는 것에 대해 여전히 방어 가능한 무언가를 말해 줄 수 있습니까?](https://edtechdev.github.io/aied/faqs/redesign-assessment-ai-era/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [제 강좌에서 AI 부정행위를 줄이려면 어떻게 해야 합니까?](https://edtechdev.github.io/aied/faqs/reduce-ai-cheating/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학생들이 AI에 과잉 의존하지 않게 하려면 어떻게 해야 합니까?](https://edtechdev.github.io/aied/faqs/reducing-over-reliance/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육에서 AI 연구를 보고하고 해석하는 모범 사례는 무엇입니까?](https://edtechdev.github.io/aied/faqs/reporting-interpreting-aied-research/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교육에서 AI에 관한 연구 문헌에서 주목할 만한 격차는 무엇입니까?](https://edtechdev.github.io/aied/faqs/research-gaps-aied/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI 탐지기를 사용해야 할까요?](https://edtechdev.github.io/aied/faqs/should-we-use-ai-detectors/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [효과적으로 공부하고 배우기 위해 AI를 어떻게 사용해야 할까요?](https://edtechdev.github.io/aied/faqs/study-with-ai/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교수자가 알아야 할 AI 교육 연구의 핵심 발견 10가지는 무엇인가요?](https://edtechdev.github.io/aied/faqs/top-10-findings-ai-education-instructors/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학생에게 답을 주는 대신 안내하도록 AI 튜터를 어떻게 훈련할까요?](https://edtechdev.github.io/aied/faqs/training-ai-tutors-to-guide-rather-than-answer/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [학생에게 AI 출력을 검증하도록 어떻게 가르칠까요?](https://edtechdev.github.io/aied/faqs/verify-ai-output/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [AI의 맥락에서 글쓰기 지도를 위한 모범 사례는 무엇인가?](https://edtechdev.github.io/aied/faqs/writing-instruction-ai-best-practices/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+## Articles
+
