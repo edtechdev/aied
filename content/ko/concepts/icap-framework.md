@@ -1,0 +1,111 @@
+---
+title: ICAP 틀
+created: "2026-08-14T04:33:38-04:00"
+updated: "2026-09-30T08:05:25-04:00"
+type: concept
+connected_faqs: [designing-ai-into-learning]
+foundations: [learning-design]
+pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learning-theories]
+technology: [educational-nlp, learning-analytics]
+confidence: high
+translation_of: concepts/icap-framework
+source_updated: "2026-09-30T08:05:25-04:00"
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-11"
+    agent: hermes-agent
+---
+
+*영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+> **ICAP 틀**(Interactive–Constructive–Active–Passive) — Michelene Chi가 개발한 인지적 참여의 분류로, 가장 덜 인지적으로 참여한 것부터 가장 많이 참여한 것으로 정렬되어 학습자 행동을 지식 변화의 네 양식으로 분류합니다: *수동*, *능동*, *구성적*, *상호작용적*. 교육에서의 AI에서 ICAP은 설계 목표(수동적 소비가 아니라 구성적·상호작용적 참여를 이끌어내는 도구를 만들어라)이자 평가 렌즈(학습자와 AI 시스템이 실제로 더 높은 양식에서 참여하는지를 측정하라)를 모두 제공합니다.([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
+
+## 생각해 볼 질문들
+
+- 영상을 보거나 글을 읽어 무언가를 '배웠던' 마지막 때를 떠올려 보십시오. ICAP 틀은 그것을 수동적이라고 부를 것입니다. 수동적 노출에서 다른 사람에게 설명하는 것에서와 비교해 실제로 무엇을 유지합니까?
+- ICAP은 참여를 수동→능동→구성적→상호작용적으로 정렬합니다. 여러분이 사용해 본 AI 도구들은 학습자를 어디에 붙잡아 두는 경향이 있으며, 적응 연습을 클릭해 넘어가는 것이 진정한 참여로 셈됩니까, 아니면 그저 활동일 뿐입니까?
+- 이 페이지는 가장 중대한 전환이 능동에서 구성적(지식을 적용하기만 하는 것이 아니라 설명이나 새로운 산출물을 생성하는 것)으로의 이동이라고 주장합니다. 새로운 무언가를 만들어 내는 것이 실제로 이해를 바꾸는 그 한 걸음인 이유는 무엇일 수 있습니까?
+- 한 연구는 인간 전문가가 참여 수준을 표지 붙이는 일에서 AI 모형을 크게 능가한다는 것을 발견했습니다. 자동화된 시스템이 체계적으로 참여를 과소평가한다면, AI가 생성한 '참여' 지표를 어떻게 다루어야 합니까?
+- ICAP은 여러분을 위해 답하는 도구는 여러분을 수동적으로 붙잡아 두는 반면, 질문하고 촉구하는 도구는 여러분을 구성적·상호작용적 참여 쪽으로 밀어낸다는 것을 보여 줍니다. 여러분의 학습자를 위해 어떤 설계 선택을 하시겠습니까?
+- 이 틀은 설계 목표이자 평가 렌즈로 쓰입니다. 학습자가 진정으로 참여하는지 그저 능동적일 뿐인지를 알기 위해 ICAP를 여러분의 교수나 설계에서 어떻게 쓰시겠습니까?
+
+## 들어가며
+
+ICAP은 *학습자가 하는 것*이 얼마나 그리고 무엇을 배우는지를 결정한다는 가정에 뿌리를 둡니다. Chi의 틀은 참여가 수동에서 능동으로, 구성적으로, 상호작용적으로 옮아감에 따라 지식 변화의 성격이 저장에서, 주의로, 새 지식과 선행 지식의 통합으로, 대화를 통한 지식의 공동 창조로 깊어진다고 주장합니다. 이것은 ICAP를 교육에서의 AI를 위한 강력한 분석 도구로 만드는데, 그곳의 중심 설계 질문은 AI 지원이 학습자의 인지적 참여를 뒷받침하는지 대체하는지입니다.
+
+## 네 가지 양식
+
+| 양식 | 학습자 행동 | 지식 변화의 성격 |
+|------|------------------|---------------------------|
+| **상호작용적** | 다른 학습자나 에이전트와의 대화, 의미의 공동 구성; 예: 입장 옹호, [[collaborative-learning|협력적 문제 해결]] | 공동의 상호적 활동을 통한 새 지식의 공동 창조 |
+| **구성적** | 주어진 것을 넘어서는 새 산출물의 생성; 예: 자기 설명, 비교, 성찰, 그리기 | 새로운 이해를 만들어 내기 위한 새 정보와 선행 지식의 통합 |
+| **능동** | 자료를 조작하거나 그것에 행동하기; 예: 노트 필기, 밑줄 긋기, 생각하려 잠시 멈추기 | 정보에 주의를 기울이고 저장하기, 때로 깊은 통합 없이 |
+| **수동** | 드러난 행동 없이 정보를 받기; 예: 강의 듣기, 읽기 | 추가 처리는 제한된 채 정보를 저장하기 |
+
+## 교육에서의 AI 속의 ICAP
+
+### AI 도구를 위한 설계 목표
+
+ICAP은 교육에서의 AI를 위한 중심 설계 질문을 재틀짓습니다: 학습자를 위해 *답하는* AI 도구는 그를 수동/능동 양식에 붙잡아 두는 반면, *촉구하고, 질문하고, [[scaffolding|비계를 세우는]]* 도구는 학습자를 구성적·상호작용적 참여 쪽으로 밀어낼 수 있습니다. 이것은 ICAP을 [[constructivist]] 교수법과 [[active-learning]] 연구에 정렬합니다.([[multimodal-learning-genai]])([[hingle-collaborative-ai-literacy-2025]])
+
+### AI 에이전트를 위한 평가 렌즈
+
+ICAP은 측정 틀로서도 기능합니다. 한 연구에서 연구자들은 ICAP을 확장하여 협력적 대화에서의 인지적 참여를 특성화하는 7점 척도로 만들고, 훈련된 인간 주석자와 LLM 기반 표지 붙이기(맥락 내 학습, 제로샷 프롬프트, 성찰적 에이전트)를 비교했습니다. 인간 간 평가자 신뢰도(kappa = 0.906–0.998)가 LLM 주석(kappa = 0.541–0.609)을 크게 능가하여, [[learning-analytics]] 파이프라인을 위한 자동화된 참여 측정에서 ICAP의 역할 — 그리고 현재의 한계 — 를 부각시켰습니다.([[icap-cognitive-engagement-llm-agents]])
+
+### 협력적 대화 촉진의 안내
+
+상호작용적 참여가 가장 높은 ICAP 양식이기에, 이 틀은 [[collaborative-learning|온라인 협력적 토론]]에서의 AI 촉진 가치를 위치짓는 데 도움이 됩니다. [[llm-facilitation-timing-online-discussions|LLM 촉진 시점에 관한 연구]]는 AI가 토론에 *개입하는 시점*이 그것이 상호작용적 지식 공동 구성을 뒷받침하는지 방해하는지를 형성한다는 것을 보여 줍니다 — 자율적 중재 에이전트가 지나치게 적극적인 촉진보다 인간과 유사한 절제 쪽으로 보정을 필요로 한다는 ICAP에 기반한 경계입니다.
+
+### ICAP과 학습 분석 설계
+
+ICAP은 얕은 "참여" 지표에 관한 비판의 기반이 됩니다: 필터를 클릭해 대시보드와 상호작용하는 것은 *능동*이며, *상호작용적* 참여가 아닙니다. 효과적인 학습 분석 설계는 자료를 단지 보여 주는 데 그치지 않고 자기평가와 양방향 대화를 이끌어냅니다 — Chi의 틀에서 직접 이끌어낸 함의입니다.([[interactive-learning-dashboards-engagement]])
+
+### 결정적 한 걸음으로서의 능동→구성적 전환
+
+ICAP이 위계를 기술하지만, 학습을 위해 가장 중대한 전환은 *능동*에서 *구성적* 양식으로의 도약입니다(Chi & Boucher, 2023). 능동적 참여(유사하지만 동일하지는 않은 상황에 지식을 적용하는 것)는 학습자를 준비시키지만, 설명, 요약, 혹은 새로운 산출물을 생성하는 구성적 참여가 그들을 새 지식을 만들 수 있게 하는 것입니다. 이것이 교육에서의 AI의 핵심입니다: 학습자를 능동 양식에 붙잡아 두는 도구(예: 적응 연습을 클릭해 넘어가기)는 생산적으로 보일 수 있지만 지속되는 이해를 낳는 구성적 생성으로 결코 밀어 넣지 않습니다. 능동→구성적 도약을 의도적으로 비계로 세우는 협력적·문해력 중심 개입은 가장 강한 이득을 보이는 경향이 있습니다.([[hingle-collaborative-ai-literacy-2025]])
+
+### ITS에서의 적응적 비계 신호로서의 ICAP
+
+ICAP의 양식들은 발전하는 학생 모형에 기반하여 인지적 참여를 비계로 세우기 위해 적응 튜터가 선택하는 *목표 상태*들로 작동화될 수 있습니다. 한 논리 ITS에서 [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi 등]]은 *능동* "안내된" 풀이 예시 양식과 *구성적* "버기" 예시 양식 사이에서 동적으로 선택했습니다. 113명의 학생을 대상으로 베이즈 지식 추적(BKT)을 심층 강화 학습(DRL)과 비적응 기준선에 비교한 결과, 두 적응 정책 모두 사후 검사 수행을 개선했지만 차별화된 방식으로 그렇게 했습니다: BKT는 선행 지식이 낮은 학생들에게 가장 큰 이득을 주어(따라서 따라잡도록 돕는) 그들이 따라잡게 한 반면, DRL은 선행 지식이 높은 학생들 사이에서 가장 높은 사후 검사 점수를 산출했습니다. 이것은 지능형 튜터의 ICAP 양식을 효과적으로 *개인화*하는 것이 학습자의 현재 지식을 모형화하는 것에 달려 있으며, 어떤 단일 양식이나 적응 방법도 모든 학습자에게 맞지는 않다는 것의 구체적 시연입니다. 이것은 ICAP 위계를 [[adaptive-learning]]과 [[knowledge-tracing]] 설계에 직접 연결합니다.
+
+### 인간과 같은 에이전트를 생성하기 위한 인지 상태 모형으로서의 ICAP
+
+과제 양식을 선택하는 것을 넘어서, ICAP은 생성형 교육 에이전트의 *인지 모형*에 직접 내장되어 왔습니다. [[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]]은 입력을 네 ICAP 수준에 걸친 확률 분포로 사상하는 ICAP 기반 "인지 깊이 퍼셉트론"을 구축하며, 이것을 진화 영감 상태 갱신과 문항 반응 이론 기억 인출과 융합하여 학생의 인지적 진화(혼란 → 통찰과 같은 전이 포함)를 모의합니다. 절제 실험(ablations)은 ICAP 지각 모듈을 제거하는 것이 얕은 학습과 깊은 학습을 구별하는 에이전트의 능력을 무너뜨린다는 것을 보여 주는데, 이는 ICAP 분류가 외부 평가 렌즈만이 아니라 [[simulating-students|학생 모의]]를 위한 세밀하고 내부적인 인지적 참여 측정으로 기능할 수 있다는 증거입니다.
+
+### 성찰적 GenAI 상호작용 평가를 닻 삼는 ICAP
+
+ICAP의 생성적이고 과정 수준인 참여에 대한 강조는 생성형 AI로 학생이 *어떻게* 배우는지를 평가하는 평가 틀에 채택되어 왔습니다. [[assessing-student-drive-framework-2025|DRIVE 틀]]은 자신의 핵심 구인 — GenAI 산출물과의 깊은 성찰적 상호작용 — 을 ICAP이 더 깊은 학습으로 이끄는 것으로 확인하는 생성적 참여의 종류와 명시적으로 정렬하며, 그것을 AI 생성 내용물의 표면적 소비와 노력 들이고 성찰적인 재작업을 구별하는 데 사용합니다. 이것은 ICAP을 사용을 단지 추적하는 것이 아니라 의미 있는 [[generative-ai|GenAI]] 학습 상호작용을 설계하고 측정하기 위한 이론적 닻으로 자리매김합니다.
+
+## 설계와 연구를 위한 함의
+
+1. **더 높은 양식을 위해 설계하십시오.** AI 도구는 학습자가 생성하고, 설명하고, 대화하도록 촉구해야 합니다 — 구성적·상호작용적 활동 — 수동적 내용물을 전달하거나 답 기계로 행동하는 것이 아니라.([[multimodal-learning-genai]])
+2. **양식에 걸쳐 학습자를 참여시키십시오.** 효과적인 [[ai-literacy|AI 리터러시]] 교수는 학습자를 여러 ICAP 수준 — 수동적 노출, 능동적 조작, 구성적 생성, 상호작용적 대화 — 에서 참여시키며, 학습 목표에 맞는 양식을 선택합니다.([[hingle-collaborative-ai-literacy-2025]])
+3. **참여를 정직하게 측정하십시오.** ICAP은 연구자와 설계자에게 진정한 인지적 참여와 단순한 활동을 구별하는 공통 어휘를 제공합니다 — 얕은 [[student-engagement]]에 대한 교정입니다.([[icap-cognitive-engagement-llm-agents]])
+4. **인간–LLM 주석 격차를 살피십시오.** 참여를 부호화하는 데 자동화된 시스템을 쓴다면, 훈련된 인간에 대한 그것의 체계적 부족분을 고려해야 합니다.([[icap-cognitive-engagement-llm-agents]])
+
+## 연결된 개념
+
+- [[active-learning]]
+- [[collaborative-learning]]
+- [[student-engagement]]
+- [[learning-analytics]]
+- [[constructivist]]
+- [[learning-design]]
+- [[metacognition]]
+- [[ai-literacy]]
+- [[human-in-the-loop-ai]]
+- [[limitations-in-aied-research]]
+
+## 연결된 문서
+
+- [[icap-cognitive-engagement-llm-agents]] — 인간 대 LLM 주석과의 참여 측정을 위한 확장된 ICAP 틀
+- [[hingle-collaborative-ai-literacy-2025]] — 네 ICAP 양식에 걸친 협력적 AI 리터러시
+- [[interactive-learning-dashboards-engagement]] — 얕은 학습 분석 참여에 대한 비판으로서의 ICAP
+- [[multimodal-learning-genai]] — 멀티모달 학습 설계에서의 ICAP과 인지적 참여
+- [[llm-facilitation-timing-online-discussions]] — 온라인 협력적 토론에서의 LLM 촉진 시점
+- [[adaptive-scaffolding-cognitive-engagement-its]] — ITS에서의 적응적 ICAP 비계(BKT 대 DRL)
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — 생성형 학생 모의 에이전트에서의 ICAP 인지 깊이 모형
+- [[assessing-student-drive-framework-2025]] — 성찰적 GenAI 상호작용의 ICAP 닻 평가
