@@ -8,10 +8,13 @@ Checks per module (ui + each pages/<kind>):
      module shows up here)
 Run: python3 tooling/scripts/check-locale-modules.py ru
 """
+import os
 import re
 import sys
 
-ROOT = '/home/doug/wiki'
+# Repo root derived from this script's location (tooling/scripts/ -> repo root),
+# so the checker runs from any checkout with no absolute path in it.
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 PLACEHOLDER = re.compile(r'\{[a-zA-Z_][a-zA-Z0-9_]*\}')
 TAG = re.compile(r'</?([a-zA-Z][a-zA-Z0-9]*)')
 HREF = re.compile(r'href="([^"]*)"')
