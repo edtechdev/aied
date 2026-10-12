@@ -4627,3 +4627,88 @@
   - technology-acceptance-model
   - usability-research
   reason: 'One weave. differential-effects-across-learner-groups names international students as one of its close-to-empty strands (a single n = 60 mixed-methods study) and carried nothing on minority ethnic international students or on engagement as the outcome, so the 270-student seven-business-school survey (GenAI use associated with all four engagement strands, agentic strongest at beta = 0.429; facilitating conditions beta = 0.369) was added to that strand with its status stated plainly as a usage-and-engagement association, not an effect estimate. Rejected: equity-in-ai-education carries access, representation and outcome-equity frames and this paper supplies no outcome-equity estimate (grep ''international student'' -> 0, ''minority'' -> 0 on the page); student-engagement already carries agentic-engagement evidence (''agentic engagement'' -> 1 hit) and an association with a self-report scale adds no distinguishing claim; technology-acceptance-model already carries UTAUT extensively (26 hits) and the extension is the paper''s instrument rather than a new mechanism; business-education, higher-ed, curriculum-design, digital-divide, inclusive-learning, culturally-relevant-pedagogy, special-education, learner-identity, motivation, social-emotional-learning, student-experience, icap-framework, prompt-engineering, multimodal, ai-literacy and discipline-specific-aied are facets, context or constructs the study measures rather than concepts whose narratives the finding changes.'
+- article: genai-steering-search-scaffolds-2026
+  date: 2026-10-12
+  integrated: []
+  no_change:
+    - cognitive-offloading
+    - quantitative-research
+    - generative-ai
+    - hallucination-risk
+    - higher-ed
+    - learning-design
+    - llm
+    - prior-knowledge
+    - scaffolding
+    - self-report-measures
+    - student-engagement
+  reason: "No weave. The paper's distinguishing claim is a design trade-off between two consolidation scaffolds (STAIS cut reacquaintance time 0:55 vs 1:35, d = 1.04, and raised precision 0.83 vs 0.74; NT produced richer inter-concept links), which is a study result rather than a mechanism a concept page lacks. cognitive-offloading carries the offloading/harm frame and reports no effect here (grep 'consolidation' -> 2 hits); learning-design already carries scaffold design guidance (grep 'scaffold' -> 7 hits) and the paper adds an instance rather than a new design principle (grep 'authoring' -> 0 hits); scaffolding and student-engagement are the pedagogy facets; generative-ai, llm, quantitative-research, hallucination-risk, prior-knowledge, self-report-measures and higher-ed are the model, method, limitation and level frames the page cites rather than narratives the finding changes."
+- article: teacher-ai-lesson-authoring-computing-2026
+  date: 2026-10-12
+  integrated: []
+  no_change:
+    - conversational-ai
+    - cs-education
+    - discipline-specific-aied
+    - generative-ai
+    - human-ai-collaboration
+    - human-in-the-loop-ai
+    - k-12
+    - learning-design
+    - llm
+    - pedagogical-partnerships
+    - professional-training
+    - qualitative-research
+    - teacher-ai-competency
+    - teacher-role
+    - usability-research
+  reason: "No weave. The finding - inspecting AI-generated lessons sharpens teachers' instructional intent while they keep the classroom-readiness judgment - replicates the teacher-in-the-loop pattern the target pages already carry: teacher-role covers planning lessons with AI (grep 'lesson' -> 8 hits), teacher-ai-competency the same (grep 'lesson' -> 5 hits), curriculum-design lesson-level adaptation (grep 'lesson' -> 5 hits), and learning-design scaffold guidance (grep 'scaffold' -> 7 hits). An n = 8 qualitative replication adds no distinguishing claim. conversational-ai, discipline-specific-aied, cs-education and k-12 are the tool, disciplinary and level frames; generative-ai, llm, human-ai-collaboration, human-in-the-loop-ai, pedagogical-partnerships, professional-training, qualitative-research and usability-research are facets or context the study instantiates rather than narratives it changes."
+- article: regulatutor-long-term-personalized-tutoring-2026
+  date: 2026-10-12
+  integrated:
+    - intelligent-tutoring
+  no_change:
+    - ai-ed-evaluation
+    - benchmark
+    - educational-technology-developers
+    - hallucination-risk
+    - human-ai-collaboration
+    - learning-gains
+    - llm
+    - metacognition
+    - motivation
+    - pedagogy
+    - personalized-learning
+    - self-regulated-learning
+    - student-modeling
+  reason: "One weave. intelligent-tutoring carried harness and organization evidence but nothing on a tutoring wrapper reversing on a stronger backbone (grep 'harness' -> 0 hits before the edit), so the RegulaTutor result was added to its Key ITS research list: mean +25.7 evidence and +21.8 diagnosis points on four local checkpoints, teaching quality +0.016, and GPT-5.6-sol -4.87 points on evidence. Rejected: student-modeling already carries tutor-modeling evidence (grep 'tutor' -> 15 hits) and this is a harness over the same benchmark; self-regulated-learning, metacognition and motivation are the framework's grounding rather than findings about them; personalized-learning and llm are the technology frames; benchmark and ai-ed-evaluation are the method; hallucination-risk, learning-gains, human-ai-collaboration, pedagogy and educational-technology-developers are facets or context the study measures rather than narratives it changes."
+- article: ai-ethics-competency-training-framework-2026
+  date: 2026-10-12
+  integrated: []
+  no_change:
+    - ai-literacy
+    - ethics
+    - generative-ai
+    - group-work
+    - guardrails
+    - legal-issues-and-risks
+    - pedagogy
+    - problem-based-learning
+    - professional-training
+    - usability-research
+  reason: "No weave. The paper is a training framework plus eleven formative pilot sessions, not a study whose finding changes a concept narrative. ai-literacy already carries AI-ethics training content (grep 'ethics' -> 18 hits, 'training' -> 12 hits) and ethics the operationalization material (grep 'checklist' -> 4 hits), so the four-competency decomposition and its ALTAI instruments restate a class both pages already document; professional-training already carries ethics-training material (grep 'ethics' -> 3 hits). group-work, problem-based-learning, pedagogy, usability-research, generative-ai, guardrails and legal-issues-and-risks are the instructional-method and scope frames rather than narratives the paper changes."
+- article: epistemological-audit-genai-meta-analyses-2026
+  date: 2026-10-12
+  integrated:
+    - learning-gains
+  no_change:
+    - assessment-validity
+    - educational-measurement
+    - generative-ai
+    - intelligent-tutoring
+    - interpreting-and-applying-aied-research
+    - llm
+    - limitations-in-aied-research
+    - meta-analysis-systematic-review
+    - quantitative-research
+  reason: "One weave. learning-gains' meta-analytic-caution section carried inflation evidence but no primary-study outcome tally (grep 'performance-vs' -> 3 hits, no count-based split), so the audit's distinguishing numbers were added there: 79.7% of 69 classifiable primary studies measured performance exclusively and 11.6% measured learning, with the reproduced g = 0.83, I2 = 94.06% and prediction interval [-0.75, 2.41]. Rejected by accumulation: assessment-validity already carries the performance-vs-learning construct argument (grep 'performance vs' -> 1 hit) and meta-analysis-systematic-review the synthesis critique (grep 'performance' -> 9 hits), so repeating the claim there would not change a sentence; limitations-in-aied-research already documents the meta-analytic evidence crisis; educational-measurement, quantitative-research, generative-ai, llm, intelligent-tutoring and interpreting-and-applying-aied-research are the measurement, method and model frames the audit addresses rather than narratives it changes."
