@@ -1,0 +1,268 @@
+# AI in Education Knowledge Base
+> यह अंग्रेज़ी ज्ञानकोश का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है। इसमें अवधारणा और सामान्य प्रश्न पृष्ठ शामिल हैं। लेख पृष्ठ अंग्रेज़ी में ही हैं।
+
+## Concepts
+
+- [शिक्षा में AI](https://edtechdev.github.io/aied/concepts/ai-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AI साक्षरता](https://edtechdev.github.io/aied/concepts/ai-literacy/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [एजेंटिक AI](https://edtechdev.github.io/aied/concepts/agentic-ai/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [संज्ञानात्मक ऑफलोडिंग](https://edtechdev.github.io/aied/concepts/cognitive-offloading/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [संज्ञानात्मक समर्पण](https://edtechdev.github.io/aied/concepts/cognitive-surrender/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [छात्रों के लिए AI उपयोग की फ्रेमिंग](https://edtechdev.github.io/aied/concepts/framing-ai-use-for-students/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AI के दुरुपयोग में कमी](https://edtechdev.github.io/aied/concepts/reducing-ai-misuse/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शैक्षणिक इमानदारी](https://edtechdev.github.io/aied/concepts/academic-integrity/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षण](https://edtechdev.github.io/aied/concepts/teacher-role/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षकों की AI योग्यता](https://edtechdev.github.io/aied/concepts/teacher-ai-competency/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सीखने का डिज़ाइन](https://edtechdev.github.io/aied/concepts/learning-design/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शैक्षिक विकास](https://edtechdev.github.io/aied/concepts/educational-development/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षा में AI का इतिहास](https://edtechdev.github.io/aied/concepts/history-of-aied/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AIEd शोध का व्याख्या और अनुप्रयोग](https://edtechdev.github.io/aied/concepts/interpreting-and-applying-aied-research/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AIEd अनुसंधान की सीमाएँ](https://edtechdev.github.io/aied/concepts/limitations-in-aied-research/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षा में एआई का दर्शन](https://edtechdev.github.io/aied/concepts/philosophy-of-ai-in-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सिद्धांत और ढाँचे](https://edtechdev.github.io/aied/concepts/theories-and-frameworks/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षा में कृत्रिम बुद्धिमत्ता में सिद्धांत विकास](https://edtechdev.github.io/aied/concepts/theory-development-aied/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मानव-AI सहयोग](https://edtechdev.github.io/aied/concepts/human-ai-collaboration/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षार्थी सक्रियता](https://edtechdev.github.io/aied/concepts/agency/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षार्थी पहचान](https://edtechdev.github.io/aied/concepts/learner-identity/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [डिज़ाइन सोच](https://edtechdev.github.io/aied/concepts/design-thinking/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [पाठ्यचर्या डिज़ाइन](https://edtechdev.github.io/aied/concepts/curriculum-design/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [आलोचनात्मक सोच](https://edtechdev.github.io/aied/concepts/critical-thinking/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [संगणकीय चिंतन](https://edtechdev.github.io/aied/concepts/computational-thinking/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [SAMR मॉडल](https://edtechdev.github.io/aied/concepts/samr-model/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [टेक्नोलॉजिकल पेडागॉजिकल कंटेंट नॉलेज (TPACK)](https://edtechdev.github.io/aied/concepts/tpack/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षाशास्त्र और शिक्षण रणनीतियाँ](https://edtechdev.github.io/aied/concepts/pedagogy/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षाशास्त्रीय पैटर्न](https://edtechdev.github.io/aied/concepts/pedagogical-patterns/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सक्रिय अधिगम (Active Learning)](https://edtechdev.github.io/aied/concepts/active-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सहयोगी शिक्षा](https://edtechdev.github.io/aied/concepts/collaborative-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [परियोजना-आधारित अधिगम](https://edtechdev.github.io/aied/concepts/project-based-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [समस्या-आधारित अधिगम](https://edtechdev.github.io/aied/concepts/problem-based-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [उत्पादक विफलता](https://edtechdev.github.io/aied/concepts/productive-failure/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [जिज्ञासु-आधारित शिक्षा](https://edtechdev.github.io/aied/concepts/inquiry-based-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [अनुभवजन्य शिक्षा](https://edtechdev.github.io/aied/concepts/experiential-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [खेल-आधारित अधिगम (Game-Based Learning)](https://edtechdev.github.io/aied/concepts/game-based-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [पढ़ाकर सीखना](https://edtechdev.github.io/aied/concepts/learning-by-teaching/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मड्गद](https://edtechdev.github.io/aied/concepts/scaffolding/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सकरात पद्धति](https://edtechdev.github.io/aied/concepts/socratic-method/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [आलोचनात्मक शिक्षाशास्त्र](https://edtechdev.github.io/aied/concepts/critical-pedagogy/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शैक्षणिक साझेदारी](https://edtechdev.github.io/aied/concepts/pedagogical-partnerships/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षा में कहानी कथन](https://edtechdev.github.io/aied/concepts/storytelling-in-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [ऑनलाइन शिक्षण और अधिगम](https://edtechdev.github.io/aied/concepts/online-teaching-and-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षा में वीडियो](https://edtechdev.github.io/aied/concepts/video-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सीखने के सिद्धांत](https://edtechdev.github.io/aied/concepts/learning-theories/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [व्यवहारवाद](https://edtechdev.github.io/aied/concepts/behaviorism/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [कंस्ट्रक्टिविज़्म](https://edtechdev.github.io/aied/concepts/constructivist/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [संज्ञानात्मक मनोविज्ञान](https://edtechdev.github.io/aied/concepts/cognitive-psychology/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सामाजिक-सांस्कृतिक अधिगम](https://edtechdev.github.io/aied/concepts/sociocultural-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [वितरित संज्ञान](https://edtechdev.github.io/aied/concepts/distributed-cognition/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [स्थिति-आधारित शिक्षण (Situated Learning)](https://edtechdev.github.io/aied/concepts/situated-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [अधिष्ठित शिक्षा](https://edtechdev.github.io/aied/concepts/embodied-learning/): यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।
+- [जाँच-जिज्ञासा का समुदाय (Community of Inquiry)](https://edtechdev.github.io/aied/concepts/community-of-inquiry/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [स्व-नियंत्रित अधिगम](https://edtechdev.github.io/aied/concepts/self-regulated-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [स्वनिर्धारण सिद्धांत](https://edtechdev.github.io/aied/concepts/self-determination-theory/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [प्रेरणा](https://edtechdev.github.io/aied/concepts/motivation/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [स्व-प्रभावशीलता](https://edtechdev.github.io/aied/concepts/self-efficacy/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [स्व-निर्देशित अधिगम](https://edtechdev.github.io/aied/concepts/self-directed-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मेटाकॉग्निशन](https://edtechdev.github.io/aied/concepts/metacognition/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [वांछनीय कठिनाइयाँ](https://edtechdev.github.io/aied/concepts/desirable-difficulties/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सीखने का अंतरण](https://edtechdev.github.io/aied/concepts/transfer-of-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [पूर्व ज्ञान](https://edtechdev.github.io/aied/concepts/prior-knowledge/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [ICAP फ्रेमवर्क](https://edtechdev.github.io/aied/concepts/icap-framework/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [एआई के बारे में गलतफहमियाँ](https://edtechdev.github.io/aied/concepts/misconceptions/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [खंडन पाठ](https://edtechdev.github.io/aied/concepts/refutation-text/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [गतिविधि सिद्धांत](https://edtechdev.github.io/aied/concepts/activity-theory-aied/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [पुनर्प्राप्ति, अंतराल और प्रक्षेपण](https://edtechdev.github.io/aied/concepts/retrieval-spacing-interleaving/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [छात्र सहभागिता](https://edtechdev.github.io/aied/concepts/student-engagement/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सहायता खोजना](https://edtechdev.github.io/aied/concepts/help-seeking/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सामाजिक-भावनात्मक अधिगम](https://edtechdev.github.io/aied/concepts/social-emotional-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [कल्याण](https://edtechdev.github.io/aied/concepts/well-being/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [रचनात्मकता](https://edtechdev.github.io/aied/concepts/creativity/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [छात्र और AI के बीच अंतःक्रिया](https://edtechdev.github.io/aied/concepts/student-ai-interaction/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [समस्या समाधान](https://edtechdev.github.io/aied/concepts/problem-solving/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मास्टरी लर्निंग](https://edtechdev.github.io/aied/concepts/mastery-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [चिंता और तनाव](https://edtechdev.github.io/aied/concepts/anxiety-and-stress/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [छात्र अनुभव](https://edtechdev.github.io/aied/concepts/student-experience/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [छात्र सहायता और सफलता](https://edtechdev.github.io/aied/concepts/student-support-and-success/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [एआई उपयोग के सामाजिक मानदंड](https://edtechdev.github.io/aied/concepts/social-norms-ai-use/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [करियर विकास और तैयारी](https://edtechdev.github.io/aied/concepts/career-development-and-readiness/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [आजीवन शिक्षा](https://edtechdev.github.io/aied/concepts/lifelong-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [कार्यस्थल पर सीख](https://edtechdev.github.io/aied/concepts/professional-training/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [प्रौद्योगिकियाँ](https://edtechdev.github.io/aied/concepts/ai-technologies/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मशीन लर्निंग](https://edtechdev.github.io/aied/concepts/machine-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [जनरेटिव-AI](https://edtechdev.github.io/aied/concepts/generative-ai/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [बड़े भाषा मॉडल (LLMs)](https://edtechdev.github.io/aied/concepts/llm/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [RAG (रिट्रीवल-ऑगमेंटेड जनरेशन)](https://edtechdev.github.io/aied/concepts/rag/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [प्रॉम्प्ट इंजीनियरिंग](https://edtechdev.github.io/aied/concepts/prompt-engineering/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [LLM प्रशिक्षण और सूक्ष्म-अनुकूलन](https://edtechdev.github.io/aied/concepts/llm-training-and-fine-tuning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [वाइब कोडिंग](https://edtechdev.github.io/aied/concepts/vibe-coding/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [बहुमाध्यमी AI](https://edtechdev.github.io/aied/concepts/multimodal/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [भाषण और वॉइस प्रौद्योगिकियाँ](https://edtechdev.github.io/aied/concepts/speech-and-voice-technologies/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [विज़ुअलाइज़ेशन](https://edtechdev.github.io/aied/concepts/visualization/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शैक्षिक एनएलपी](https://edtechdev.github.io/aied/concepts/educational-nlp/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [रीनफ़ोर्समेंट लर्निंग](https://edtechdev.github.io/aied/concepts/reinforcement-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [ज्ञान ग्राफ़](https://edtechdev.github.io/aied/concepts/knowledge-graph/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षा में रोबोट](https://edtechdev.github.io/aied/concepts/educational-robotics/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [संवादी AI](https://edtechdev.github.io/aied/concepts/conversational-ai/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सिमुलेशन](https://edtechdev.github.io/aied/concepts/simulation/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [वर्चुअल और ऑगमेंटेड रियलिटी (VR/AR)](https://edtechdev.github.io/aied/concepts/virtual-and-augmented-reality/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षार्थी मॉडलिंग और अनुकूली शिक्षण](https://edtechdev.github.io/aied/concepts/student-modeling/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [ज्ञान अनुरेखण](https://edtechdev.github.io/aied/concepts/knowledge-tracing/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [संज्ञानात्मक निदान](https://edtechdev.github.io/aied/concepts/cognitive-diagnosis/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [छात्रों का अनुकरण](https://edtechdev.github.io/aied/concepts/simulating-students/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [इंटेलिजेंट ट्यूटरिंग](https://edtechdev.github.io/aied/concepts/intelligent-tutoring/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [अनुकूली अधिगम](https://edtechdev.github.io/aied/concepts/adaptive-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [व्यक्तिगत शिक्षा](https://edtechdev.github.io/aied/concepts/personalized-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [अनुशंसा प्रणालियाँ और सीखने के पथ](https://edtechdev.github.io/aied/concepts/recommender-systems-and-learning-paths/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षाशास्त्रीय एजेंट](https://edtechdev.github.io/aied/concepts/pedagogical-agent/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [भावनात्मक ट्यूटरिंग](https://edtechdev.github.io/aied/concepts/affective-tutoring/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [अफ़ेक्टिव कंप्यूटिंग](https://edtechdev.github.io/aied/concepts/affective-computing/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मानव-लूप-में](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [लर्निंग एनालिटिक्स](https://edtechdev.github.io/aied/concepts/learning-analytics/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [तकनीक अपनाने के मॉडल](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [ओपन सोर्स](https://edtechdev.github.io/aied/concepts/open-source/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [एडटेक प्लेटफ़ॉर्म](https://edtechdev.github.io/aied/concepts/edtech-platform/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [विषयों में AIEd](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [गणित शिक्षा](https://edtechdev.github.io/aied/concepts/math-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [भौतिकी शिक्षा](https://edtechdev.github.io/aied/concepts/physics-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [रसायन शिक्षा](https://edtechdev.github.io/aied/concepts/chemistry-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [जैव शिक्षा](https://edtechdev.github.io/aied/concepts/biology-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [CS शिक्षा](https://edtechdev.github.io/aied/concepts/cs-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [इंजीनियरिंग शिक्षा](https://edtechdev.github.io/aied/concepts/engineering-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [STEM शिक्षा](https://edtechdev.github.io/aied/concepts/stem-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [विज्ञान शिक्षा](https://edtechdev.github.io/aied/concepts/science-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [लेखन](https://edtechdev.github.io/aied/concepts/writing-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [भाषा अधिगम](https://edtechdev.github.io/aied/concepts/language-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [अंग्रेज़ी शिक्षा (EAP / EFL / ESL)](https://edtechdev.github.io/aied/concepts/english-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [पारिस्थितिक शिक्षा](https://edtechdev.github.io/aied/concepts/environmental-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [व्यवसायिक शिक्षा](https://edtechdev.github.io/aied/concepts/business-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मानविकी और सामाजिक विज्ञान शिक्षा](https://edtechdev.github.io/aied/concepts/humanities-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [कला, डिज़ाइन और मीडिया शिक्षा](https://edtechdev.github.io/aied/concepts/arts-design-and-media-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [डिज़ाइन शिक्षा](https://edtechdev.github.io/aied/concepts/design-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [चिकित्सा एवं स्वास्थ्य व्यवसाय शिक्षा](https://edtechdev.github.io/aied/concepts/medical-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [नर्सिंग शिक्षा](https://edtechdev.github.io/aied/concepts/nursing-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [विधि शिक्षा](https://edtechdev.github.io/aied/concepts/legal-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सूचना प्रौद्योगिकी शिक्षा](https://edtechdev.github.io/aied/concepts/information-technology/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [अधिगम विज्ञान](https://edtechdev.github.io/aied/concepts/learning-sciences/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [K-12](https://edtechdev.github.io/aied/concepts/k-12/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [प्रारंभिक बाल्यकाल शिक्षा](https://edtechdev.github.io/aied/concepts/early-childhood-elementary-ai-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [उच्च शिक्षा](https://edtechdev.github.io/aied/concepts/higher-ed/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [वयस्क शिक्षार्थी](https://edtechdev.github.io/aied/concepts/adult-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [व्यावसायिक शिक्षा और प्रशिक्षण](https://edtechdev.github.io/aied/concepts/vocational-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [विशेष शिक्षा](https://edtechdev.github.io/aied/concepts/special-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [व्यावसायिक विकास](https://edtechdev.github.io/aied/concepts/teacher-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षा के स्तर](https://edtechdev.github.io/aied/concepts/education-levels/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मूल्यांकन](https://edtechdev.github.io/aied/concepts/assessment/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मूल्यांकनात्मक निर्णय](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [प्रतिपुष्टि](https://edtechdev.github.io/aied/concepts/feedback/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [फीडबैक साक्षरता](https://edtechdev.github.io/aied/concepts/feedback-literacy/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [एआई फीडबैक की गुणवत्ता](https://edtechdev.github.io/aied/concepts/ai-feedback-quality/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [निर्माणकारक मूल्यांकन](https://edtechdev.github.io/aied/concepts/formative-assessment/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [समापक मूल्यांकन](https://edtechdev.github.io/aied/concepts/summative-assessment/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [प्रामाणिक मूल्यांकन](https://edtechdev.github.io/aied/concepts/authentic-assessment/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [प्रोसेस-ओरिएंटेड असेसमेंट](https://edtechdev.github.io/aied/concepts/process-oriented-assessment/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [समूह कार्य](https://edtechdev.github.io/aied/concepts/group-work/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [ई-पोर्टफोलियो](https://edtechdev.github.io/aied/concepts/eportfolio/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सहकर्मी मूल्यांकन](https://edtechdev.github.io/aied/concepts/peer-assessment/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [स्व-मूल्यांकन](https://edtechdev.github.io/aied/concepts/self-assessment/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मौखिक आकलन](https://edtechdev.github.io/aied/concepts/oral-assessment/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [स्वचालित मूल्यांकन](https://edtechdev.github.io/aied/concepts/automated-assessment/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [स्वचालित निबंध स्कोरिंग](https://edtechdev.github.io/aied/concepts/automated-essay-scoring/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [स्वचालित प्रश्न निर्माण](https://edtechdev.github.io/aied/concepts/automated-question-generation/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मूल्यांकन की वैधता](https://edtechdev.github.io/aied/concepts/assessment-validity/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मनोमापन-सचेत एआई](https://edtechdev.github.io/aied/concepts/psychometrically-aware-ai/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शैक्षणिक मापन](https://edtechdev.github.io/aied/concepts/educational-measurement/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [आइटम रिस्पॉन्स थ्योरी (IRT)](https://edtechdev.github.io/aied/concepts/item-response-theory/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [स्वयं-रिपोर्ट मापन](https://edtechdev.github.io/aied/concepts/self-report-measures/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [एआई डिटेक्शन](https://edtechdev.github.io/aied/concepts/ai-detection/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [रिमोट प्रॉक्टरिंग](https://edtechdev.github.io/aied/concepts/remote-proctoring/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [अधिगम लाभ](https://edtechdev.github.io/aied/concepts/learning-gains/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AIED में शोध विधियाँ](https://edtechdev.github.io/aied/concepts/research-methods-aied/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [एआई-सहायक शैक्षिक अनुसंधान](https://edtechdev.github.io/aied/concepts/ai-assisted-educational-research/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [गुणात्मक अनुसंधान](https://edtechdev.github.io/aied/concepts/qualitative-research/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मात्रात्मक अनुसंधान](https://edtechdev.github.io/aied/concepts/quantitative-research/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मिश्रित-विधियों से संशोधन](https://edtechdev.github.io/aied/concepts/mixed-methods-research/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [डिज़ाइन-आधारित शोध](https://edtechdev.github.io/aied/concepts/design-based-research/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [उपयोग-सुगम्यता शोध](https://edtechdev.github.io/aied/concepts/usability-research/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [यादृच्छिक नियंत्रित परीक्षण (RCT)](https://edtechdev.github.io/aied/concepts/rct/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मेटा-विश्लेषण और व्यवस्थित समीक्षा](https://edtechdev.github.io/aied/concepts/meta-analysis-systematic-review/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [लैटेंट प्रोफ़ाइल विश्लेषण](https://edtechdev.github.io/aied/concepts/latent-profile-analysis/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [नेटवर्क विश्लेषण](https://edtechdev.github.io/aied/concepts/network-analysis/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AI शिक्षा मूल्यांकन](https://edtechdev.github.io/aied/concepts/ai-ed-evaluation/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [बेंचमार्क](https://edtechdev.github.io/aied/concepts/benchmark/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [प्रशासक](https://edtechdev.github.io/aied/concepts/administrator/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शैक्षणिक प्रौद्योगिकी डेवलपर्स](https://edtechdev.github.io/aied/concepts/educational-technology-developers/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षार्थी](https://edtechdev.github.io/aied/concepts/learners/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [पुस्तकालय अधिकारी](https://edtechdev.github.io/aied/concepts/librarians/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [माता-पिता और परिवार](https://edtechdev.github.io/aied/concepts/parents-and-families/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [हितधारक](https://edtechdev.github.io/aied/concepts/stakeholders/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।* **हितधारक** — शिक्षा में एआई में शामिल, उससे प्रभावित और उसके लिए उत्तरदायी मानव हितधारकों की सीमा, और इस ज्ञानकोश की उस कवरेज की छत्र अवधारणा कि कार्यकर्ता कौन-कौन हैं। शिक्षा में एआई एक बहु-हितधारक क्षेत्र है: एआई का उपयोग करने वाले शिक्षार्थी, इसे शामिल करने वाले शिक्षक और संकाय, इसका शासन करने वाले प्र
+- [शैक्षिक AI नीति](https://edtechdev.github.io/aied/concepts/educational-policy-ai/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AI शासन](https://edtechdev.github.io/aied/concepts/governance/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [परिवर्तन प्रबंधन](https://edtechdev.github.io/aied/concepts/change-management/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षा में AI विनियमन](https://edtechdev.github.io/aied/concepts/regulation/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [समानता](https://edtechdev.github.io/aied/concepts/equity-in-ai-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [अध्येताओं के वर्गों में असमान प्रभाव](https://edtechdev.github.io/aied/concepts/differential-effects-across-learner-groups/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [डिजिटल विभाजन](https://edtechdev.github.io/aied/concepts/digital-divide/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [पूर्वाग्रह शमन](https://edtechdev.github.io/aied/concepts/bias-mitigation/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सांस्कृतिक रूप से प्रासंगिक शिक्षाशास्त्र](https://edtechdev.github.io/aied/concepts/culturally-relevant-pedagogy/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [बहुभाषी अधिगम](https://edtechdev.github.io/aied/concepts/multilingual-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [समावेशी सीखना](https://edtechdev.github.io/aied/concepts/inclusive-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सुगम्यता](https://edtechdev.github.io/aied/concepts/accessibility/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सहायक प्रौद्योगिकी](https://edtechdev.github.io/aied/concepts/assistive-technology/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [न्यूरोडायवर्सिटी](https://edtechdev.github.io/aied/concepts/neurodiversity/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सार्वभौमिक शिक्षण डिज़ाइन](https://edtechdev.github.io/aied/concepts/universal-design-for-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [ग्लोबल साउथ](https://edtechdev.github.io/aied/concepts/global-south/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [नैतिकता](https://edtechdev.github.io/aied/concepts/ethics/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AI का दुरुपयोग और सीखने की हानि](https://edtechdev.github.io/aied/concepts/ai-misuse-learning-harm/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [कानूनी मुद्दे और जोखिम](https://edtechdev.github.io/aied/concepts/legal-issues-and-risks/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AI उपयोग और प्रकटीकरण विवरण](https://edtechdev.github.io/aied/concepts/ai-use-disclosure/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [गार्डरेल](https://edtechdev.github.io/aied/concepts/guardrails/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [निजता](https://edtechdev.github.io/aied/concepts/privacy/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [हैलुसिनेशन जोखिम](https://edtechdev.github.io/aied/concepts/hallucination-risk/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AI चापलूसी](https://edtechdev.github.io/aied/concepts/ai-sycophancy/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [भरोसा](https://edtechdev.github.io/aied/concepts/trust/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [विश्वास कैलिब्रेशन](https://edtechdev.github.io/aied/concepts/trust-calibration/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [व्याख्यायोग्य कृत्रिम बुद्धिमत्ता](https://edtechdev.github.io/aied/concepts/explainable-ai/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सस्टेनेबिलिटी](https://edtechdev.github.io/aied/concepts/sustainability/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [पाठ्य-सुरक्षा: शिक्षा में पेडागॉजिकल सेफ्टी](https://edtechdev.github.io/aied/concepts/pedagogical-safety/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+
+## FAQs
+
+- [शिक्षा में एआई के बारे में आम गलतफहमियों का समाधान कैसे करें?](https://edtechdev.github.io/aied/faqs/addressing-common-misconceptions-ai-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AI एजेंट छात्रों और शिक्षकों की सहायता कैसे कर सकते हैं?](https://edtechdev.github.io/aied/faqs/ai-agents-support-students-instructors/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AI छात्रों की चिंता और कल्याण को कैसे प्रभावित करता है, और हम क्या कर सकते हैं?](https://edtechdev.github.io/aied/faqs/ai-anxiety-wellbeing/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AI मेरे पाठ्यक्रम में विकलांग और न्यूरोडिवर्जेंट शिक्षार्थियों का समर्थन कैसे कर सकता है?](https://edtechdev.github.io/aied/faqs/ai-disabled-neurodivergent-learners/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AI मेरे लिए बड़े पैमाने पर बेहतर फीडबैक कैसे देने में मदद कर सकता है?](https://edtechdev.github.io/aied/faqs/ai-feedback-at-scale/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [माता-पिता और शिक्षकों को 13 वर्ष से कम उम्र के बच्चों के साथ एआई के बारे में कैसे पेश आना चाहिए?](https://edtechdev.github.io/aied/faqs/ai-guidance-children-under-13/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [उच्च शिक्षा में एआई साक्षरता हस्तक्षेपों पर क्या प्रमाण हैं?](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षक के रूप में AI मेरा समय कैसे बचा सकता है?](https://edtechdev.github.io/aied/faqs/ai-save-instructor-time/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [जब AI काम कर सकता हो तो हम अतुल्यकालिक ऑनलाइन पाठ्यक्रमों को कैसे डिज़ाइन और सुगम करें?](https://edtechdev.github.io/aied/faqs/asynchronous-online-courses-ai/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [हम कैसे जानें कि कोई शैक्षिक AI सही ढंग से काम कर रहा है, न कि केवल अच्छा स्कोर हासिल कर रहा है?](https://edtechdev.github.io/aied/faqs/checking-whether-educational-ai-works/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [पाठ्यक्रम की AI नीति कैसे लिखें और छात्रों तक कैसे पहुँचाएँ?](https://edtechdev.github.io/aied/faqs/course-ai-policy/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [एआई को सीखने के अनुभव में कैसे डिज़ाइन किया जाना चाहिए?](https://edtechdev.github.io/aied/faqs/designing-ai-into-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [प्रभावी शैक्षणिक एआई सॉफ़्टवेयर डिज़ाइन करने के लिए सर्वोत्तम प्रथियाँ और सुझाव क्या हैं?](https://edtechdev.github.io/aied/faqs/designing-educational-ai-software/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [प्रभावी AI ट्यूटर विकसित करने के लिए सर्वोत्तम अभ्यास क्या हैं?](https://edtechdev.github.io/aied/faqs/developing-ai-tutor/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [क्या AI का उपयोग वास्तव में मेरे छात्रों की सीखने में मदद करता है?](https://edtechdev.github.io/aied/faqs/does-ai-help-students-learn/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षा अनुसंधान में एआई में समानता, सुगम्यता, निजता, नैतिकता और शैक्षणिक सुरक्षा को कैसे शामिल किया जाना चाहिए?](https://edtechdev.github.io/aied/faqs/equity-ethics-pedagogical-safety-research/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [एक शिक्षक AI-संबंधी हस्तक्षेपों का मूल्यांकन करने के लिए कौन-से उपाय और अनुसंधान विधियाँ उपयोग कर सकता है?](https://edtechdev.github.io/aied/faqs/evaluating-ai-interventions-methods/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षकों को एआई के संबंध में कौन सी दक्षताएँ चाहिए?](https://edtechdev.github.io/aied/faqs/faculty-ai-competencies/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AI के लिए फैकल्टी डेवलपमेंट कैसे डिज़ाइन करें जो वास्तव में अभ्यास बदल दे?](https://edtechdev.github.io/aied/faqs/faculty-development-ai/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मैं समूह और सहयोगपूर्ण असाइनमेंट में AI को कैसे संभालूँ?](https://edtechdev.github.io/aied/faqs/group-work-ai/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [एआई छात्रों को कैसे प्रभावित कर रहा है?](https://edtechdev.github.io/aied/faqs/how-ai-impacts-students/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [एआई शैक्षिक शोध में कैसे सहायक हो सकता है?](https://edtechdev.github.io/aied/faqs/how-can-ai-assist-with-educational-research/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मैं अपने पाठ्यक्रम में AI साक्षरता को कैसे शामिल करूँ?](https://edtechdev.github.io/aied/faqs/incorporating-ai-literacy/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [हम संस्थागत AI नीति कैसे लिखें और लागू करें?](https://edtechdev.github.io/aied/faqs/institutional-ai-policy/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [अपने विषय में सीखने की सहायता के लिए AI को बेहतर कैसे बनाएँ?](https://edtechdev.github.io/aied/faqs/making-ai-better-at-supporting-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [हम सिम्युलेटेड छात्र को वास्तविक शिक्षार्थी की तरह व्यवहार करने के लिए कैसे बनाएँ?](https://edtechdev.github.io/aied/faqs/making-simulated-students-behave-like-learners/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मैं मूल्यांकन को कैसे फिर से डिज़ाइन करूँ ताकि ग्रेड से अब भी यह रक्षणीय रूप से पता चले कि छात्र क्या जानता है या क्या कर सकता है?](https://edtechdev.github.io/aied/faqs/redesign-assessment-ai-era/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मैं अपने पाठ्यक्रम में एआई नकल कैसे कम कर सकता हूँ?](https://edtechdev.github.io/aied/faqs/reduce-ai-cheating/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मैं छात्रों को AI पर अत्यधिक निर्भर कैसे न रहने दूँ?](https://edtechdev.github.io/aied/faqs/reducing-over-reliance/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AI और शिक्षा अनुसंधान की रिपोर्टिंग और व्याख्या के लिए सर्वोत्तम प्रथियाँ क्या हैं?](https://edtechdev.github.io/aied/faqs/reporting-interpreting-aied-research/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षा में AI (AIED) पर अनुसंधान साहित्य में उल्लेखनीय अंतराल क्या हैं?](https://edtechdev.github.io/aied/faqs/research-gaps-aied/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [क्या हमें एआई डिटेक्टर का उपयोग करना चाहिए?](https://edtechdev.github.io/aied/faqs/should-we-use-ai-detectors/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मैं प्रभावी ढंग से पढ़ाई और सीखने के लिए AI का उपयोग कैसे करूँ?](https://edtechdev.github.io/aied/faqs/study-with-ai/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AI शिक्षा शोध से शिक्षकों के लिए जानने योग्य शीर्ष 10 निष्कर्ष क्या हैं?](https://edtechdev.github.io/aied/faqs/top-10-findings-ai-education-instructors/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [हम AI ट्यूटर को छात्रों का मार्गदर्शन करने के लिए कैसे प्रशिक्षित करें, न कि उन्हें केवल उत्तर देने के लिए?](https://edtechdev.github.io/aied/faqs/training-ai-tutors-to-guide-rather-than-answer/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [मैं छात्रों को AI आउटपुट सत्यापित करना कैसे सिखाऊँ?](https://edtechdev.github.io/aied/faqs/verify-ai-output/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [AI के संदर्भ में निर्देश लिखने के लिए सर्वोत्तम अभ्यास क्या हैं?](https://edtechdev.github.io/aied/faqs/writing-instruction-ai-best-practices/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+
+## Articles
+
