@@ -14,7 +14,7 @@ import { contentRepoPath } from '../../config/content';
 import { renderMarkdown } from '../../lib/markdown';
 import { strings } from '../../i18n';
 import { localizeHref, localizeHtml } from '../../i18n/config';
-import { localizedTitles, localizedTitle } from '../../i18n/localizedTitles';
+import { localizedFields, localizedField } from '../../i18n/localizedTitles';
 
 const { entry, locale, pageType } = Astro.props;
 const s = strings(locale).ui;
@@ -31,17 +31,17 @@ const resources = await getCollection('resources');
 // Titles for this locale, so a link to a page that IS translated shows that page's
 // own title instead of the English one; untranslated targets keep English, which
 // is correct because the target really is English.
-const localized = await localizedTitles(locale);
+const localized = await localizedFields(locale);
 const titles: Record<string, string> = {};
 [...concepts, ...articles, ...faqs].forEach((c) => {
   const slug = c.id.replace(/\.md$/, '');
   const collection = c.collection;
-  titles[slug] = localizedTitle(localized, collection, slug, c.data.title);
+  titles[slug] = localizedField(localized, collection, slug, { title: c.data.title }).title;
 });
 const conceptTitles: Record<string, string> = Object.fromEntries(
   concepts.map((c) => {
     const slug = c.id.replace(/\.md$/, '');
-    return [slug, localizedTitle(localized, 'concepts', slug, c.data.title)];
+    return [slug, localizedField(localized, 'concepts', slug, { title: c.data.title }).title];
   }),
 );
 const rendered = renderMarkdown(entry.body || '', {
@@ -114,7 +114,7 @@ const updatedDisplay = (data.updated || data.created || '').split('T')[0];
       heading={chrome.metadataLabels.connected_faqs}
       items={connectedFaqs.map((f: any) => ({
         href: localizeHref(`/aied/faqs/${f.id.replace('.md', '')}/`, locale),
-        title: localizedTitle(localized, 'faqs', f.id.replace('.md', ''), f.data.title),
+        title: localizedField(localized, 'faqs', f.id.replace('.md', ''), { title: f.data.title }).title,
         kind: 'faq' as const,
       }))}
     />
@@ -122,12 +122,15 @@ const updatedDisplay = (data.updated || data.created || '').split('T')[0];
     <ConnectedList
       id="connected-resources"
       heading={chrome.metadataLabels.connected_resources}
-      items={connectedResources.map((r: any) => ({
-        href: localizeHref(`/aied/resources/${r.id.replace('.md', '')}/`, locale),
-        title: localizedTitle(localized, 'resources', r.id.replace('.md', ''), r.data.title),
-        kind: 'resource' as const,
-        summary: r.data.summary,
-      }))}
+      items={connectedResources.map((r: any) => {
+        const fields = localizedField(localized, 'resources', r.id.replace('.md', ''), { title: r.data.title, summary: r.data.summary });
+        return {
+          href: localizeHref(`/aied/resources/${r.id.replace('.md', '')}/`, locale),
+          title: fields.title,
+          kind: 'resource' as const,
+          summary: fields.summary,
+        };
+      })}
     />
 
     <MetadataTable conceptTitles={conceptTitles} data={data} locale={locale} />
