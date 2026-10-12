@@ -1,0 +1,89 @@
+---
+title: 교육에서의 AI의 철학
+created: "2026-08-16T09:22:41-04:00"
+updated: "2026-09-30T09:59:35-04:00"
+type: concept
+foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
+pedagogy: [learning-theories]
+ethics: [ethics]
+confidence: high
+translation_of: concepts/philosophy-of-ai-in-education
+source_updated: "2026-09-30T09:59:35-04:00"
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-11"
+    agent: hermes-agent
+---
+
+*영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+> **교육에서의 AI의 철학** — 인공지능이 [[teacher-role|교수]]와 학습에 참여함으로써 제기되는 근본적인 개념적 질문들을 다루는 교육철학의 한 갈래입니다. 기계가 지식과 사유에 참여할 때 그것들의 본성은 무엇인가? 인지가 인간과 인공 시스템에 분산될 때 학습자는 무엇인가? AI에 어떤 형태의 [[agency]], 책임, 인격이 적용되며, AI가 매개하는 세계에서 교육은 학습자에게 무엇을 빚지고 있는가? 이 지식베이스의 [[learning-theories]] 페이지(*학습이 어떻게 일어나는가*에 관한 이론들을 목록화한다)와는 구별되면서도 연결되어 있으며, 교육에서의 AI의 철학은 AI가 매개하는 조건에서 *학습, 마음, 학습자가 근본적으로 무엇인가*라는 더 깊은 질문을 던집니다.
+
+## 생각해 볼 질문들
+
+- 사유는 의식과 몸을 필요로 합니까? AI가 여러분의 추론에 진정으로 참여한다면, 그 '사유'의 일부가 기계 속에서 일어나고 있는 것이며, 그것이 누가 학습하고 있는지를 바꿉니까?
+- 이 페이지는 인간과 인공 시스템에 걸쳐 인지가 '분산'된다는 생각을 제기합니다. AI의 도움으로 풀었던 과제를 떠올려 보십시오. 여러분의 사유가 끝나고 기계의 사유가 시작되는 지점은 어디였습니까?
+- 학습자의 인지 과정이 진정으로 혼합적(부분적으로는 인간, 부분적으로는 인공)이 된다면, 우리가 '학습자'라고 부르는 것에 무엇이 함의되며, 교육이 학습자에게 빚지는 것에는 무엇이 함의됩니까?
+- 이 페이지는 철학(학습과 학습자가 근본적으로 무엇인가)과 학습 이론(학습이 어떻게 일어나는가)을 구별합니다. 학습에 관해 여러분이 지니는 신념 가운데 사실은 철학적 입장인 것을 하나 말해 볼 수 있습니까?
+- AI가 의식 없이 '기능적 자율성'을 행사할 수 있다면, 그것은 자신의 교육적 효과에 책임을 집니까? 만약 그렇지 않다면 누가 집니까? [[intelligent-tutoring|AI 튜터]]가 학생을 잘못 인도할 때 누가 답해야 합니까?
+- 포스트휴머니스트 사유는 학습자를 '포스트휴먼' 존재로 다시 틀짓습니다. 그 생각이 학생의 마음이 어디에 위치한다는 여러분 자신의 가정에 어떻게 도전하거나 불편을 줍니까?
+
+## 들어가며
+
+이것은 [[ai-education|교육에서의 AI]]의 철학적·이론적 토대를 위한 개념 페이지입니다. [[learning-theories]]가 경험적·설계 지향적인 이론들([[behaviorism]], [[constructivist|구성주의]], [[cognitive-offloading|인지 부하]], [[self-regulated-learning|자기조절 학습]] 등)을 문서화하는 반면, 철학 갈래는 그 이론들이 전제하는 존재론적·인식론적·윤리적 질문에 관여합니다. 둘은 밀접히 연결되어 있습니다. 철학적 입장은 어떤 학습 이론이 그럴듯해 보이고 어떤 교육 목표가 추구할 만한지를 형성하기 때문입니다.
+
+### 주요 철학적 질문
+
+- **마음과 인지의 본성.** 사유는 의식과 몸을 필요로 합니까? AI가 진정으로 인지적 과정에 참여할 수 있습니까? **앙상블 인지** 같은 틀은 AI가 의식 없이도 *기능적 자율성*, 즉 인지 과정에서의 진정한 인과적 효능을 행사하며, 사유가 동적인 인간–[[student-ai-interaction|AI 상호작용]]에서 떠오른다고 주장합니다.([[ensemble-cognition-philosophy-ai-education]]) [[distributed-cognition|분산 인지]]와 확장된 마음 논제는 인지가 시스템에 걸쳐 퍼져 있다는 관련 주장을 펼칩니다.
+- **학습자는 무엇인가?** 포스트휴머니스트 철학은 학습자를 [[biology-education|생물학적]]·인공적 시스템에 걸쳐 인지 과정이 진정으로 혼합적이고 분산된 "포스트휴먼" 존재로 재개념화합니다.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) 이것은 학습자가 경계 지어지고 자율적인 개인의 마음이라는 가정에 도전합니다.
+- **구현화와 탈신체 AI의 한계.** [[embodied-learning|구현화]] 및 후인지주의 철학은 상징적·탈신체적 AI 모형의 지배를 비판하며, 인지가 현재의 [[generative-ai|생성형 AI]]가 결여한 상황성, 창발, 감각운동적 결합에 뿌리를 둔다고 주장합니다.([[videla-embodied-ai-education-choreography]])
+- **자율성, 저자됨, 의미.** AI가 해석과 의미 구성을 매개할 때, 철학은 저자됨, 인식론적 [[agency]], 해석의 자율성이 어떻게 재구성되는지를 묻습니다.([[voicu-ai-interpretive-cognition-ssh-2026]])
+- **AI가 생성한 과학적 존재의 존재론.** 화학에서 AI가 예측한 화합물과 적정 곡선은 "경계적 존재론적 공간"을 차지합니다. 즉 경험적으로 입증될 때까지 온전히 가설적인 것도 완전히 실재하는 것도 아니며, 이것은 이 학문을 실재가 인간과 기계의 협업인 구성주의적 관점 쪽으로 이동시킵니다([[philosophy-experimentation-ai-chemistry-2026|Reyes and Regala (2026)]]).
+- **인식론적 해로서의 인지적 수동성.** Bai와 Costa(2026)는 사유를 안으로 향하고 전달 불가능한 활동으로 본 Arendt의 설명에 의지하여, 그 일을 공급하는 GenAI가 단순히 사유를 외주화하는 것이 아니라 그것을 원천 봉쇄한다고 주장하며, Bourdieu의 장과 아비투스로 그 위험이 제도적 구조에 놓여 있음을 위치시킵니다([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
+- **가치, 정의, 교육의 목적.** 철학적 분석은 AI가 이끄는 교육이 인간의 번영과 교육적 정의를 섬기는지, 아니면 학습을 생산성에 봉사하는 쪽으로 수단화하는지를 검토합니다.([[avraamidou-ai-colonization-science-education]]) 이것은 [[critical-pedagogy]] 및 [[ethics]]와 연결됩니다.
+
+- **사람들이 AI에 관여하는 방식에 관한 인식론적 토대.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]]은 지식의 원천, 확실성, 조직, 통제, 속도의 다섯 가지 차원으로 된 Schommer의 개인적 인식론적 신념 모형으로부터 일곱 가지 인간–생성형 AI 관여 패러다임을 도출하며, 그것들이 소유되는 것이 아니라 실행된다고 주장합니다. 따라서 학습자가 AI에 관여하는 방식을 바꾸려면 그들의 신념이 아니라 사회기술적 환경을 바꾸어야 합니다.
+- **누구의 철학인가? 이 분야 개념적 토대의 다원주의.** Xie(2026)는 이 분야의 철학 논쟁이 단일한 서구 구조 — 개별 주체의 속성으로서의 [[agency|인식론적 자율성]], 표상적·계산적으로 틀지어진 지식, 주체–객체 이원론 안에 놓인 인간–AI 관계 — 에 의해 과잉 결정되어, 그 한계가 이 분야의 집단적 상상력의 한계가 된다고 주장합니다. 비교적 균형추로서 그는 도가 개념들 — "道性"(도성), "修道"(수도), "真人"(진인) — 을 변함없는 틀에 더해지는 "동양적 내용"이 아니라 AI 자체가 이해되는 개념적 토대를 재형성하는 자원으로 재구성하며, 이것을 지식(인식론적 단일 재배와 합성 허위정보), 앎([[critical-thinking|비판적 사고]]를 저하시키는 외주화), 영향(환경 비용과 남북 비대칭)에 적용합니다.([[daoism-ai-education-philosophy-2026]])
+
+- **답변 가능성 없는 자율성.** 366개의 GenAI 고등교육 초록에 대한 말뭉치 지원 담화 분석은 [[generative-ai|AI]]가 2,050번 언급되어 447개의 엄격한 행위자–서술어 연관 관계에 들어가 이 분야에서 가장 빈번한 행위자임을 발견하면서도, 그에 대한 행동 서술어가 지배적(78.7%)이며 어떤 문장도 시스템에 책임을 묻지 않음을 밝혔습니다. 즉 166개의 의무 표현 가운데 어느 것도 시스템에 책임을 귀속시키지 않았고, AI를 책무성과 연결하는 단 하나의 절은 AI가 책임을 지지 않는다고 말합니다. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]]은 이것을 언어에서 인정된 기능적 자율성이, 그것을 누구에게도 부착할 관계적 책임 없이 나타난다고 읽습니다.
+**도구도 협력자도 아닌 것: 매개의 주체.** [[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate and Ritchie (2026)]]는 생성형 AI를 단순한 도구라고 부르는 것이 그 상호작용적 영향을 과소평가하는 반면, 협력자라고 부르는 것은 그것에 의도성과 책임성을 잘못 부여한다고 주장하며, *매개의 주체* — 지능이 아니라 참여가 그 참신함인, 반응하지만 책임을 지지 않는 시스템 — 를 제안합니다.
+
+### 학습 이론과의 관계
+
+교육에서의 AI의 철학과 [[learning-theories]]는 상호 보완적인 렌즈입니다. 학습 이론은 학습의 메커니즘([[feedback]], [[scaffolding]], 인지 부하가 결과를 어떻게 형성하는가 등)을 설명하고, 철학은 그 메커니즘의 전제 — 무엇이 지식으로 셈되는지, 누구가 아는 자로 셈되는지, 학습자가 근본적으로 무엇인지 — 를 따져 묻습니다. 특히 포스트휴머니스트 및 비판철학적 작업은 이 분야가 [[tpack]]와 SAMR 같은 기악주의적 틀을 넘어 더 깊은 존재론적 재정향으로 나아가도록 도전합니다.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
+
+### 이론 개발과의 관계
+
+교육에서의 AI의 철학과 [[theory-development-aied|AIEd의 이론 개발]]은 상호 보완적이면서도 구별됩니다. 철학은 존재론적·인식론적 질문, 즉 AI가 매개하는 조건에서 마음·지식·학습자가 근본적으로 무엇인가를 묻는 반면, 이론 개발은 그 질문들에 대한 답을 운용화하는 *메커니즘*(생성주의, 인식론적 공동 자율성, 결여된 인지 기저선)을 만들어 내고 경험적으로 검정합니다. 둘은 서로에게 영양을 줍니다. 철학은 이론이 짊어지는 전제를 분명히 하고(예컨대 [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|인식론적 공동 자율성]]은 분산되고 개인주의적이지 않은 인지 모형을 전제한다), 이론 개발은 철학적 입장에 검증 가능하고 반증 가능한 형태를 부여합니다. 이 분야의 가장 기초적인 논문들은 둘을 동시에 하며, 이 두 개념 사이의 경계에 놓여 있습니다.
+
+## 연결된 개념
+
+- [[learning-theories]]
+- [[theory-development-aied]]
+- [[distributed-cognition]]
+- [[ethics]]
+- [[agency]]
+- [[embodied-learning]]
+- [[critical-pedagogy]]
+- [[human-ai-collaboration]]
+- [[critical-thinking]]
+- [[ai-education]]
+- [[chemistry-education]] — 화학교육과 AI: 실험실, 형성평가, LLM의 한계, 실험의 철학
+
+## 연결된 문서
+- [[genai-chinese-higher-education-integrity-2026]] — 중국 고등교육에서의 생성형 AI: 진실성과 참여
+- [[ensemble-cognition-philosophy-ai-education]] — 앙상블 인지: 인간–AI 인지를 위한 철학적 틀
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — 교수법적 공생과 포스트휴먼 학습자
+- [[videla-embodied-ai-education-choreography]] — 교육에서의 탈신체 AI에 대한 구현화·후인지주의 비판
+- [[voicu-ai-interpretive-cognition-ssh-2026]] — 인문학에서 해석적 인지의 발달-비판 모형
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — 기계와의 학습에서 인식론적 공동 자율성의 철학으로서
+- [[avraamidou-ai-colonization-science-education]] — AI의 교육 식민화에 의문을 제기하는 비판적-페미니스트 철학
+- [[generative-ai-mediational-agent-sociocultural-2026]] — 매개의 주체로서의 생성형 AI
+- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI의 생태학적 학습과학 틀짓기
+- [[philosophy-experimentation-ai-chemistry-2026]] — AI와 함께하는 화학에서의 실험의 철학
+- [[strydom-human-gai-paradigms-2026]] — 인간-AI 역학 틀짓기: 일곱 가지 GAI 관여 패러다임(Strydom 2026)
+- [[daoism-ai-education-philosophy-2026]] — 대안적 AI 철학: 교육에서의 AI를 위한 방법으로서의 도가
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — 누가 행위하는가, 누가 아는가, 누가 답하는가? 생성형 AI 고등교육 연구에서의 자율성, 인식론적 책임, 책무성에 대한 말뭉치 지원 담화 분석
