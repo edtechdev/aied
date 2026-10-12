@@ -352,6 +352,13 @@ AUTO_APPLY_DENYLIST = {
 REJECTED_HITS = []  # populated during a scan; reported so suppressed matches stay visible
 
 REJECT_PAIRS = {
+    # --- 2026-10-12, daily-scan batch: auto-applied links hand-reverted (one entry per revert) ---
+    ('concepts', 'critical-thinking'),        # "links between concepts", not the thinking skill
+    ('policies', 'educational-policy-ai'),    # a tutoring system's teaching policies, not institutional policy
+    ('Portfolio', 'eportfolio'),              # a Portfolio of Measures, not portfolio assessment
+    ('administration', 'administrator'),      # "business administration" students, not the role
+    ('working memory', 'cognitive-psychology'),  # attention/working-memory load, not the concept
+    ('memory', 'cognitive-psychology'),       # an LLM's memory and retrieval, not human cognition
     # --- 2026-10-11, weekly journal RSS batch: auto-applied links hand-reverted (one entry per revert) ---
     ('physical engagement', 'differential-effects-across-learner-groups'),  # an engagement strand, not a group-difference claim
     ('active engagement', 'active-learning'),            # an engagement dimension, not the pedagogy
