@@ -4726,3 +4726,60 @@
     - adult-learning
     - generative-ai
   reason: "One weave. ai-literacy's measuring section carries the validated-instrument thread (GAILS, GLAT, SAIL, TAILS, the six-facet SFAILQ, the Marzano-based graduate scale); this paper adds a validated 17-item self-report instrument whose three-factor structure (Foundational Knowledge / Practical Applications / Critical Understanding) empirically confirms the Know What / Know How / Know Why framing the page already states, plus the diagnostic finding that theoretical knowledge alone does not translate into practical efficacy and the Know-How/Know-Why coupling (HTMT = 0.544) — woven into that section with its self-report limitation stated. Rejected: self-report-measures and educational-measurement document method and instrument-validation frames generically (the paper's HTMT/AVE/CFA material is standard psychometrics rather than a new mechanism), assessment-validity already carries AVE/HTMT/χ²/df material, and ethics, higher-ed, adult-learning and generative-ai are the construct and context frames the paper cites rather than narratives its finding changes. Full instrument item list not copied (the scale itself is freely available; the page cites the instrument, not reproduces it)."
+- article: alam-goblins-math-platform-2026
+  date: 2026-10-12
+  integrated:
+    - intelligent-tutoring
+    - equity-in-ai-education
+  no_change:
+    - math-education
+    - multilingual-learning
+    - neurodiversity
+    - ai-literacy
+    - k-12
+    - generative-ai
+    - conversational-ai
+    - educational-measurement
+    - ai-ed-evaluation
+  reason: "Two weaves. intelligent-tutoring carries the engagement-is-the-binding-constraint thread (Khanmigo 17% mistake-session median, NUMI productive slowdown); this full-district study instantiates that lesson with the fidelity counter-evidence the page lacked — teacher mediation lifted engagement to ~51% at a 2-problem bar (vs 5%/12% in prior evaluations) and a clean six-tier dose gradient (0.11 SD at threshold to 0.31 SD at 20+ problems/week) — woven into that bullet with its quasi-experimental caveat. equity-in-ai-education carries the linguistic/cultural/disability inclusion section but had no who-benefits field evidence; the exploratory IEP/EL/Hispanic subgroup signal (+0.122/+0.191/+0.084 SD) is woven there with the authors' own causality caveat. Rejected: math-education, multilingual-learning, neurodiversity, k-12, generative-ai, conversational-ai are the discipline, construct, level and technology frames; educational-measurement and ai-ed-evaluation are method frames — none is a narrative the finding changes. CGI vs within-district standardization and the weighting details stay in the article."
+- article: wang-agentic-translation-education-2026
+  date: 2026-10-12
+  integrated:
+    - human-ai-collaboration
+  no_change:
+    - ai-literacy
+    - professional-training
+    - agentic-ai
+    - language-learning
+    - generative-ai
+    - llm
+    - ai-ed-evaluation
+  reason: "One weave. human-ai-collaboration carries the competency-framework thread (HACC/TPACK reassignment, role-level shifts); this design protocol contributes the displacement-inventory method (18 sub-tasks, [E]/[P] provenance tags) plus four redirected competences (orchestration, strategic judgement, critical evaluation) — woven as the professional-program instance of redirecting training from routine production, with its no-empirical-data status stated. Rejected: ai-literacy and professional-training carry literacy and training frames generically, agentic-ai/language-learning/generative-ai/llm are the technology and discipline frames, and ai-ed-evaluation is the method frame — none is a narrative the framework changes. The full 18-task inventory and rubric details stay in the article."
+- article: boyd-swan-employer-responses-genai-2026
+  date: 2026-10-12
+  integrated:
+    - academic-integrity
+  no_change:
+    - ai-literacy
+    - generative-ai
+    - ai-ed-evaluation
+    - higher-ed
+  reason: "One weave. academic-integrity carries the ghost-student/credential-erosion thread (Bozkurt et al. 2026: degree value falls when institutions cannot verify who completed the work); this experiment extends it one step downstream — employers discount grade signals they believe AI produced (high-GPA applicants take the largest penalties under the substitution framing) and both framing groups converge on in-person tests as the only reassuring remedy — woven into the Newer-evidence section with the belief-manipulation caveat. Rejected: ai-literacy, generative-ai, ai-ed-evaluation and higher-ed are the construct, technology, method and level frames; the GPA/race/sex heterogeneity and salary-margin details stay in the article."
+- article: porath-interpretive-authority-2026
+  date: 2026-10-12
+  integrated:
+    - agency
+  no_change:
+    - human-ai-collaboration
+    - feedback
+    - formative-assessment
+    - metacognition
+    - ai-misuse-learning-harm
+    - ai-use-disclosure
+    - ai-literacy
+    - k-12
+    - higher-ed
+    - generative-ai
+    - conversational-ai
+    - ai-ed-evaluation
+  reason: "One weave. agency carries the who-decides thread (de Jong's adaptive-scaffolding authority trade-off; design-bot agency collapse when participants agreed instead of critiquing); this conceptual article supplies the missing diagnostic vocabulary — the Interpretive Authority Matrix's four configurations and the EAIM's five ecological layers — woven as the framework that formalizes who-holds-authority as a design variable, with the AI-directive suppression of productive struggle tying to the page's existing evidence. Rejected: human-ai-collaboration already carries the D1-D4-style competence reframing (this paper's framework is a different cut — diagnostic rather than competence-based), feedback/metacognition/ai-misuse-learning-harm/ai-use-disclosure are the mechanism and risk frames, and k-12/higher-ed are levels — none is a narrative the framework changes. Full Matrix/EAIM layer descriptions stay in the article."
