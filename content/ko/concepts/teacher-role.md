@@ -1,0 +1,225 @@
+---
+title: 교수(Teaching)
+created: "2026-08-09T10:44:35-04:00"
+updated: "2026-10-04T10:52:53-04:00"
+type: concept
+foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
+pedagogy: [scaffolding]
+technology: [intelligent-tutoring]
+audience: [instructors, faculty developers, learners]
+level: [k 12, higher ed]
+connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
+
+confidence: high
+translation_of: concepts/teacher-role
+source_updated: "2026-10-04T10:52:53-04:00"
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+contributors: [editor]
+ai_assist:
+- model: stepfun/step-5-preview:free
+  role: translation
+  date: "2026-10-11"
+  agent: hermes-agent
+---
+
+*영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+> **교수(Teaching)** — AI가 교육자의 일과 정체성, 그리고 주체성을 어떻게 재편하는지에 대한 개념입니다. 이 차원을 다루는 50편이 넘는 논문을 검토한 본 지식 기반은 하나의 근본적 전환을 기록합니다: 유일한 지식 권위자에서 인간-AI 학습 환경의 조율자(orchestrator)로의 이동입니다. 이 페이지는 그러한 전환을 서술하는 데 그치지 않고, 교사들이 실제로 *무엇을 다르게 하는지*, 자신의 실천을 어떻게 적응시킬 수 있는지, 그리고 [[learning-design]], [[ai-literacy]], [[academic-integrity]]와 어떻게 연결되는지를 상세히 다룹니다.
+
+> [[caeo-navigating-ai-educational-future-scenarios-2026|Malyn-Smith et al. (2026)]]는 이것을 더 인간다운 역설(more-human paradox)이라고 부릅니다: 13개국 20명의 연구자가 공동으로 구성한 2030년의 여섯 시나리오에서 AI 포화는 인간의 교수학적 일을 대체하기보다 오히려 강화합니다. 시나리오들은 AI를 "학습 생태계의 공기 조화 시스템"으로 묘사합니다 — 고장 났을 때만 비로소 그것을 알아차리게 되니까요.
+
+## 생각해 볼 질문들
+
+- 이 페이지는 교사의 변화를 '유일한 지식 권위자에서 인간-AI 학습 환경의 조율자로'라고 서술합니다. 주요 콘텐츠 제공원이 아니게 될 때, 교육자로서 무엇을 얻게 되고 무엇을 잃게 됩니까?
+- 이 페이지는 AI가 교사의 가장 희소한 자원인 관심(attention)을 자료 제작에서 학습자 해석으로 재배분한다고 주장합니다. 그런 재구성이 설득력이 있습니까? 그리고 되찾은 시간으로 실제로 무엇을 하시겠습니까?
+- 이 페이지가 인용한 [[research-methods-aied|연구]]는 교사들이 AI를 수동적으로 소비하기보다는 능동적인 AI 설계자로 나타난다고 보여줍니다 — 학생들을 위한 AI의 작동 방식을 만드는 프롬프트와 비계(스캐폴딩)를 직접 작성하는 사람들 말입니다. 여러분(또는 여러분이 아는 교사들)이 AI의 사용자가 아니라 AI의 설계자라고 느끼려면 무엇이 필요할까요?
+- '교사-AI 협업(teaming)' 스펙트럼의 먼 끝에서 교사는 인간 학습자, AI 튜터, 커리큘럼 자원으로 이루어진 팀을 조율합니다. 그런 팀에서 인간의 판단이 대체불가능하게 남는 부분은 어디이며, 조율이 대부분 AI에게 맡겨진다면 무엇이 조용히 침식될 수 있을까요?
+- 교사의 관심이 자료 제작에서 학습자 해석으로 재배분된다면, 어떤 새로운 역량과 위험이 생겨나며, 교사가 그것을 개발하도록 돕는 사람은 누구입니까?
+
+## 들어가며
+
+여기서 말하는 교수(Teaching)는 AI에 의해 재편되는 전문가 역할을 가리킵니다: 콘텐츠 전달은 줄어들고, 인간과 기계 참여자의 조율, 학습자가 실제로 이해하는 것의 해석, 그리고 AI 사용이 정당한 조건의 설계가 늘어납니다. 이 개념 아래 모인 페이지들은 교사-AI 협업과 업무 흐름의 변화, 역할이 이제 요구하는 [[teacher-ai-competency|역량]], 효율성 향상과 개별 지원에 필요한 관심 사이의 긴장을 기록합니다. 이 페이지는 AI 통합이 실천을 변화시키는지 아니면 단지 장식에 그치는지를 결정짓는 역할들 중 하나로, [[educational-development]], [[ai-literacy]], [[assessment]]과 나란히 놓입니다. [[learning-sciences|학습 과학]]은 이 입장을 재편하는 근거를 제공하는 연구 분야입니다: 학습이 어떻게 일어나고 어떤 설계가 그것을 바꾸는지를 서술하고 검증하는 반면, 이 페이지는 그 근거에 그 순간에 실제로 행동해야 하는 교실 내 역할을 다룹니다.
+
+## AI가 교수를 변화시키는 방식
+
+- **강사에서 조율자로:** [[teacher-ai-teaming-five-levels|교사-AI 협업의 다섯 단계]]와 [[teacher-student-agency-orchestration|주체성 조율 연구]]는 AI를 도구로 삼는 것에서 AI를 교수의 파트너로 삼는 것에 이르는 스펙트럼을 그립니다. 먼 끝에서 교사는 모든 콘텐츠를 직접 전달하는 대신 인간 학습자, [[intelligent-tutoring|AI 튜터]], 커리큘럼 자원을 포함하는 팀을 조율합니다.
+- **업무 흐름의 전환:** [[ai-changing-teaching-workflows]]는 AI가 교사의 시간을 콘텐츠 전달에서 개별 지원, [[feedback]], [[curriculum-design]] 같은 더 높은 가치의 활동으로 옮기는 방식을 기록합니다. 교사의 가장 희소한 자원인 관심은 자료 제작에서 학습자 해석으로 재배분됩니다. [[li-language-educators-genai-review-2026|언어 교육자에 대한 체계적 검토]](Li et al. 2026)는 이것을 뒷받침합니다: 교육자들은 GenAI를 준비 작업(수업 계획, 자료 제작, 쓰기 지원)에 가장 높이 평가하면서 실시간 교실 사용에는 망설이며, 그들의 도입은 전문가 정체성, 교수학적, 기술적, 제도적, 학문적 진실성 요인에 의해 형성됩니다 — 역량 격차는 episteme(AI의 능력과 한계에 대한 이해), techne([[prompt-engineering]], AI 강화 과제/평가 설계, AI 생성 텍스트 탐지), phronesis(윤리적 판단, 편향/프라이버시 처리, 맥락 민감 판단)에 대응합니다. AI는 교사의 시간을 콘텐츠 전달에서 개별 지원, [[feedback]], [[curriculum-design]] 같은 더 높은 가치의 활동으로 옮기고, 교사의 가장 희소한 자원인 관심은 자료 제작에서 학습자 해석으로 재배분됩니다.
+- **역량 요구:** [[teacher-ai-competency|역량]]은 교육자가 알아야 할 것을 기본 도구 활용력에서 교수학적으로 토대를 둔 조율에 이르기까지 정의합니다. [[teacher-ai-adoption-confidence|도입 연구]]들은 실제 장벽을 규명합니다: 자신감, [[governance|제도적]] 지원, 업무량 우려입니다. [[ai-teaching-innovation-ai-tpack-2026|Bai & Hsieh (2026)]]는 898명의 중국 대학 교사를 대상으로 한 SEM 분석에서 이를 실증적으로 보강합니다: GenAI 지원 교수 혁신은 고립된 AI 기술 지식보다 교수학적·학문적으로 내장된 AI 역량([[ai-literacy]]와 전문가 정체성)에 더 많이 의존하며, 이 둘이 역량→혁신 관계를 부분 매개합니다 — 이는 도구 중심 훈련이 아니라 내장되고 정체성과 연결된 AI 역량을 중심으로 교수 개발을 구축해야 한다는 신호입니다.
+- **태도가 아닌 설계 역량으로서의 준비도:** [[charles-teacher-readiness-by-design-ai-rich-2026|Charles (2026)]]는 AI가 풍부한 상호작용 학습에 대한 교사의 준비도를 도입, 자신감, 디지털 역량만으로 읽어낼 수 없다고 주장합니다. 이들 중 어느 것도 교사가 실제로 만들어내는 설계의 질을 예측하지 못하기 때문입니다. 설계에 의한 준비도(readiness-by-design)는 실천 지향적입니다: 교사들은 AI 관련 교수학적 지식, 교수학적 신념, [[self-efficacy]], 윤리적 지향을 *설계 매개*(도구 선택, 과제와 프롬프트 설계, 비계, 투명성, 검증, 평가 재설계, 접근성 계획, 인간 감독)를 통해 동원하며, 이는 그러한 전환을 가능하게 하고 조절하는 제도적·정책적 생태 속에서 이루어집니다. 실천적 무게를 지니는 두 가지 주장이 있습니다. 첫째, 자기효능감은 품질 지표가 아니라 동원 자원이므로, AI 관련 교수학적 지식이나 윤리적 지향 없는 자신감은 오히려 부실한 설계를 가속할 수 있습니다. 둘째, 정책 명확성과 물질적 지원은 서로 다른 조절 요인이므로, 자원이 충분한 학교에서도 교사들은 무엇이 허용되는지 여전히 추측해야 할 수 있습니다. Charles는 또한 AI 미사용을 준비 부족과 동일시하지 않습니다: AI를 의도적으로 쓰지 않기로 한 이성적 결정 그 자체가 준비도를 입증할 수 있습니다.
+- **공동 설계와 주체성:** [[teacher-authored-prompts-student-ai-dialogue|교사가 직접 작성한 프롬프트]]와 [[gaide-vibe-coding-k12-teachers|교사를 위한 바이브 코딩]]은 교육자를 AI의 수동적 소비자가 아니라 능동적 설계자로 보여줍니다 — 학생들을 위한 AI의 행동 방식을 만드는 프롬프트와 비계를 직접 쓰는 사람들 말입니다. 아동 STEAM 예술 수업 계획에서 [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir (2025)]]는 교사가 ChatGPT에 *어떻게* 위임하는지가 중요하다는 것을 실험으로 확인했습니다: 스스로 개요를 잡은 수업의 콘텐츠 빈틈을 메우는 방식(60%가 선호하고 추천한 방식)은 전문가 평가 기준 수업 계획 질을 높이면서(중앙값 20.5 대 17.6, p = .002, 효과 크기 큼) 교사의 설계 자율성을 보존하여, AI가 전체 계획을 생성하게 하거나 완성된 계획을 단순히 검토하게 하는 방식을 능력했습니다. AI는 주로 영감과 빈틈 발견의 협력자 역할을 했으며 완전히 새로운 혁신의 원천은 아니었습니다 — 이는 교사가 출력물의 설계자이자 심판자로 남으며, 도구가 놓친 아동 안전 및 문화 편향 문제까지 잡아낸다는 점을 강화합니다. [[wang-teacher-ai-co-design-review-2026|학습 과제의 교사–AI 공동 설계]]에 대한 [[meta-analysis-systematic-review|체계적 검토]](Wang, Liu & Islam 2026)는 이러한 공동 설계자 입장이 여전히 고르지 않다고 판단합니다 — 지배적 방식은 여전히 AI를 조력자/콘텐츠 생성기로 삼는 것입니다 — 그리고 [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]]는 AI가 설계한 집단 활동을 차별적이고 ZPD에 맞춘 교수로 바꾸는 것이 교사가 "[[multilingual-learning|이중언어]] 학습 설계자"로서 지닌 주체성임을 보여줍니다.
+- **봇을 만드는 것은 봇이 가르치는 것을 통제하는 것과 같지 않습니다.** 목적과 규칙이 부여된 챗봇 저작 도구를 구성했던 27명의 중학교 교사는 생성된 행동에서 부분적 충실도만을 보았습니다 — 정렬은 응답성 88.9%, 페르소나 81.5%에서 규칙 70.4%, 목적 59.3%로 떨어졌고, 규칙 준수는 선택한 모델에 따라 달랐습니다 — 이는 교사-설계자 역할을 의도의 리허설이지 보장은 아닌 것으로 만드는 실행/평가 격차입니다([[teachers-configure-educational-chatbots-2026|Riahi et al. (2026)]]).
+- **[[teacher-education|예비교사]] 준비:** [[ai-tpack-preservice-math-teachers|TPACK 기반 훈련]]과 [[educational-development]] 프로그램은 미래 교사들이 현장에 들어가기 전에 AI가 결합된 교실을 준비하도록 합니다. [[zhuang-zhang-chatgpt-math-teacher-education-2026|시뮬레이션 학생 역할극]]은 이를 실천 연습으로 확장합니다: 수학적으로 [[misconceptions|오개념]]에 빠진 중학생 역할을 하는 커스텀 ChatGPT 봇(Student GPT)이 예비교사들이 위험이 낮은 환경에서 학생 추론을 진단하고 이끄는 연습을 하게 하여, 학생의 사고를 읽고 교정하는 중심 교수 과제를 준비시킵니다.
+- **증거 기반이 거의 진입하지 못한 교사 대상 개척 분야:** [[edustories-classroom-case-studies-2026|Štefánik et al. (2026)]]는 실제 초등·고등학교 교실의 교사 집필 사례 연구 1,492건을 모은 **Edustories**를 구성합니다 — 도전적인 학생 행동, 교사가 시도한 개입, 그리고 그 결과를 담은 — 이는 대부분의 AI-교육 연구가 개별화된 학생 지원을 겨냥한 반면 대부분의 교수는 집단 교실에서 일어나기 때문입니다. 개입이 성공했는지를 예측하는 일에서 네 개 언어 모델 계열을 [[benchmark|벤치마킹]]한 결과, 가장 강력한 모델들도 인간 전문가의 64%에 비해 58% 정확도에 그쳤습니다. 저자들은 이 격차를 양방향으로 해석합니다: 현재 [[teacher-ai-competency|교사 대상]] 지원의 한계이자, 동시에 떠오르는 가능성의 증거로. 이 페이지가 거기서 얻는 것은 능력 주장이 아니라 측정된 상한입니다: 교사에게 주는 조언이 신뢰받으려면 전문가 판단보다 나아야 하는데, 오늘날 순서는 그 반대입니다. [[yalcin-genai-programming-education-systematic-review-2026|Yalçın et al. (2026)]]의 고등교육 프로그래밍 교육 GenAI에 관한 46편의 실증 연구를 다룬 PRISMA 검토에서도 유사한 격차가 나타납니다: 강사 역할과 제도적 실천은 이 분야에서 가장 덜 연구된 영역이었고, 46편 중 26편은 교수 접근에 대한 코드화 가능한 서술을 제시하지 않아, 보고된 결과를 낳은 설계 결정이 다른 강사에게조차 보이지 않는 경우가 많습니다.
+- **과업별로 본 AI가 실제로 일하는 데 들어오는 지점:** [[where-ai-enters-teacher-work-2026|Holster (2026)]]는 56,669명의 교사로부터 얻은 TALIS 2024 데이터(46개 교육 체계의 AI 사용자 24,058명 표본)를 사용해 도입과 배분을 구분합니다. 교사 자신의 평균 요구보다 한 점 높게 평가된 과업은 AI 도움을 받을 가능성이 더 높았지만(OR = 1.163), 방향은 과업마다 다릅니다: 계획은 요구와 함께 상승하고(OR = 1.084), 평가와 채점은 하락하며(OR = 0.921), 특수교육 지원과 적응은 가파르게 상승합니다(OR = 1.442, 요구 범위에 따른 예측 분포 34.0%~50.3%). [[teacher-ai-competency|역량]]과 정책에 대한 해석은 다음과 같습니다: 교사들은 이미 고위험 채점은 인간이 담당하면서 AI는 개별화된 적응 작업에 손을 뻗고 있으므로, 교사의 AI 사용을 단일 행동으로 취급하는 지침은 지원이 실제로 필요한 지점을 놓치게 됩니다.
+
+### 변화하는 역할이 실제로 어떤 모습인가: 구체적 사례
+
+"조율자"라는 추상 개념은 교사 업무의 구체적이고 일상적인 변화를 통해 훨씬 이해하기 쉽습니다:
+
+- **모든 유인물을 직접 쓰는 것에서 AI 초안을 큐레이션하는 것으로.** 한때 저녁 시간을 들여 차별화된 워크시트를 만들던 강사는 이제 AI에게 세 가지 난이도의 버전을 생성하도록 프롬프트한 뒤, 같은 저녁을 그것들을 *검토하고 수정*하는 데 씁니다 — 직접 집필에서 편집적 판단으로의 전환입니다. [[curriculum-as-code-instructional-design-2026|Curriculum-as-Code]] 워크플로는 이 파이프라인을 명시적으로 만들고, [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz의 체계적 검토]]는 AI가 설계자가 이후 다듬는 콘텐츠를 초안 작성하는 "공동 작업자"로 기능함을 보여줍니다. AI 생성 과학 수업 계획에 대한 전문가 검증은 그러한 편집적 판단이 무엇을 고려해야 하는지를 명시합니다: [[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu, Surmeli and Yildirim (2026)]]는 11명의 [[science-education]] 전문가가 ChatGPT-4와 교육 특화 도구의 6학년 계획을 사용 가능한 초안으로 평가했다고 밝혔습니다 — 11명 중 7명이 "수정하여 적용 가능"이라고 보고, 직접 "적용 가능"하다고 한 것은 3명뿐이었습니다 — 선호도는 원점수와 달리 갈렸는데(7명은 더 높은 점수를 받은 교육 특화 도구를, 4명은 범용 계획을 선호), 이는 판단이 구조적 충실성 너머의 [[affective-computing|정의적]]이고 맥락적인 차원을 함께 고려했기 때문입니다. AI 초안이 가르칠 수 있고 맥락에 토대를 둔 수업이 될지 여부에 대한 최종 판단자는 여전히 교사입니다.
+- **강의에서 실시간 코칭으로.** 반 전체에게 똑같은 설명을 전달하는 대신, 교사들은 점점 일상적인 질문을 AI 튜터로 돌리고 대면 시간을 인간의 판단이 필요한 학생들에게 집중합니다 — [[ai-changing-teaching-workflows|업무 흐름 연구]]들이 바로 이 관심의 재배분을 기록합니다.
+- **채점에서 AI가 속일 수 없는 평가 설계로.** 강사들은 [[llm|LLM]]이 너무 쉽게 풀어버리는 회상 기반 과제에 의존하는 것을 멈추고, 대신 [[learning-gains]]를 보존하는 [[authentic-assessment|진정성 평가]], [[ai-assessment-scale-reform|평가 척도]], [[formative-assessment|형성적]] 과제를 설계합니다.
+- **콘텐츠를 가르치는 것에서 *활용*을 가르치는 것으로.** 교사의 일은 점점 프롬프트하는 법, 평가하는 법, AI를 책임감 있게 사용하는 법을 모범 보이는 것을 포함합니다 — 별도의 과목이 아니라 모든 코스에 직조된 [[ai-literacy]] 커리큘럼입니다.
+- **[[visualization|대시보드]]를 읽는 것에서 맥락에 맞게 행동하는 것으로.** [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]]는 교사들이 분석 대시보드를 실제로 사용하는 방식이 맥락에 따라 갈린다고 보여줍니다: 플립트 교실(대학교) 교사들은 순차적 탐색을 따르고 코스 수준의 수정과 수업 중 대시보드 공개를 선호한 반면, 직업교육 교사들은 요약 페이지를 다시 방문하고 이 도구를 주로 개별 코칭 세션에 사용했습니다. 교사들이 제안한 행동은 그래프 유형보다 표현된 콘텐츠와 자신들의 교수 수준에 의해 형성되었습니다 — 대학 교사들은 주간 시험과 코스 수정을, 직업교육 교사들은 직접적이고 개별화된 코칭을 선호했습니다. 이는 획일적인 분석 인터페이스가 아니라 맥락을 인식하는 대시보드 설계와 차별화된 교사 지원의 필요성을 가리킵니다.
+- **알림을 받는 것에서 판단하는 것으로.** [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]]는 GeoGebra 기하 수업에서 Dash4Emotion이 부정적 감정을 신호하는 붉은 직사각형으로 학생들을 표시한 상황에서 교사 1명과 고성취 고등학생 8명을 추적하여, 알림이 결과를 이끌지 못했다는 것을 발견했습니다 — 알림 이후 교사의 행동이 그랬습니다: Mira의 과제를 최솟값 찾기에서 최소점들의 기하학적 자취로 재구성한 것이 그녀의 탐구를 다시 열었고, 세 개의 동시 알림이 학급 전체의 재구성을 촉발했으며, 한 차시의 의도적인 미개입은 그 자체로 교수학적 결정이었습니다. 이 연구의 입장은 AI가 생성한 감정 알림은 복종해야 할 지시가 아니라, 교사가 볼 수 있는 것과 함께 해석해야 할 단서라는 것입니다.
+- **협업 피드백의 관리자에서 원칙에 입각한 촉진자로.** Community Builder([[breideband-community-builder-cobi-2026|CoBi]]) 교실 파일럿은 교사 역할이 *실행 충실도*를 결정적으로 형성함을 보여줍니다: AI가 포착한 것들과 시각화를 [[metacognition]]과 [[collaborative-learning|협업]]에 관한 비판적 성찰을 촉발하는 데 사용한 교사들은 높은 충실도의 사용을 달성한 반면, 시스템을 수행 모니터링으로 흘러가게 하거나 일반적인 AI 토론으로 새버린 교사들은 그렇지 못했습니다. 교사들은 또한 실시간 피드백에 의해 "즉석에서" 무대에 세워지는 것을 우려했고, 라이브 표시보다 사전/사후 검토를 선호하여, 학급 차원의 협업 AI를 조율하는 것은 도구 활용력만이 아니라 상당한 [[professional-training|전문적 학습]]을 요구함을 보여줍니다.
+- **AI와 함께 교수하는 것에서 AI를 대신하는 것으로.** [[digital-divide]]로 인해 학생마다 기기가 없는 곳에서, 교사는 시스템에 대한 *물리적 인터페이스*가 될 수 있습니다 — 시스템의 조율자가 아니라 그 프록시가 됩니다. [[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]]의 "AIED 언플러그드" 모델에서 학생들은 종이와 연필로 계속 작업하고, 교사는 그 풀이를 사진으로 찍어 AI가 [[personalized-learning|개인화된]] 연습 목록과 오류 특정 [[feedback]]를 되돌려 학생들에게 전달하도록 합니다. 이것은 프로토타입 시연이 아니라 브라질 초등학교 19개 학급을 대상으로 한 분군 준실험이며, 그 두 결과는 역할에 직접 영향을 줍니다. 첫째, 기존 실천 대비 학습 이점은 기술이 아니라 단 50분의 *교사 훈련* 세션에서 나왔습니다: 훈련 조건과 훈련+시스템 조건은 [[learning-gains|학습 향상]]에서 차이가 없었습니다(−4.33, 95% CI [−17.29, 7.23]). 즉 활성 성분은 준비이지 도구가 아닙니다. 둘째, 시스템 자체의 이점은 *교사를 통해 간접적으로* 작동했습니다 — 노력 감소가 학습 향상에 미치는 긍정적 효과를 매개했습니다(3.649, 95% CI [1.097, 6.398]) — 따라서 그 효과는 AI가 결코 닿지 않는 학생들에게도 도달하며, 교사들이 묘사한 촬영-검증 노동(용지 사진 촬영, 처리 대기, 인식 오류 정정)은 자원이 부족한 교실로 AI를 확장하는 교수학적 비용의 일부입니다.
+- **정보 제공자에서 학습 설계자로.** [[heutagogical-teaching-ai-enhanced-education-2026|Hochberg and Waitzman (2026)]]는 93명의 교사를 8주 AI 프로그램 기간 동안 추적하여, 학습자 주체성을 위한 휴다고지(heutagogical) 설계로 실천이 이동하는 것을 발견했습니다. 다만 자기 보고에 기반한 이동은 보정 후 유의하지 않았고 학습자 성과는 측정되지 않았습니다.
+
+### 조율의 은유
+
+지식 기반에서 지배적인 은유는 *조율(orchestration)*입니다: 교사가 인간 학습자, [[intelligent-tutoring|AI 튜터]], 커리큘럼 자원을 조정한다는 것입니다. 이는 AI가 인간의 교수를 대체한다는 대체 서사와 대조됩니다 — AI는 인간 교수를 보완하는 것이지 대신하지 않습니다. 실증적 증거가 이 입장을 뒷받침합니다: 42편의 연구(2023–2025)를 대상으로 한 PRISMA 지침 [[meta-analysis-systematic-review|체계적 검토]]는 LLM이 짧고 잘 구조화된 과업에서는 인간 평가자와 맞먹지만, 더 길고 다국어이며 미묘한 작업에서는 성능이 저하된다는 것을 발견했습니다 — LLM이 교사를 완전히 대체할 수 없으며, 인간이 순환하는(hybrid, human-in-the-loop) 평가 시스템이 가장 높은 채점 효과를 달성한다는 결론을 내렸습니다([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). 조율의 관점은 교사의 핵심 기술을 *판단*으로 재구성합니다: 주어진 학습자와 순간에 인간, AI, 설계된 학습 활동 중 어느 것이 올바른 도구인지를 결정하는 것입니다. [[teacher-intervention-k12-ai-based-instruction-2026]]의 29편 연구를 대상으로 한 2026년 PRISMA 검토는 이 은유를 모니터링, 판단, 개입, 조율의 4단계 주기로 날카롭게 다듬고, 어느 단계도 당연시될 수 없는 이유를 보여줍니다. 교사들은 공유 통제를 선호하여 AI 제안을 수락하거나, 수정하거나, 거부하거나, 무시했습니다. 일부는 학생들이 먼저 생산적으로 고군분투할 수 있도록 개입을 의도적으로 미뤘습니다. 인식을 넓혀준 대시보드가 오히려 관심에 과부하를 주거나 한 명의 교사가 물리적으로 감당할 수 있는 것을 넘어서는 경우도 있었습니다. 이 검토의 세 가지 전략 — AI 출력의 교수학적 번역, 학습 지원의 설계, 상호작용 구조의 재구성 — 은 이 일을 승인이 아니라 재맥락화(recontextualization)로 서술하며, 교사를 인간-순환 검토자 역할보다 중재자에 더 가깝게 놓습니다. 교실 관찰은 같은 행동들을 유형으로 명명합니다. 숙련된 교사와 함께한 여섯 차시의 수업은 Drijvers의 네 유형에 대시보드 모니터링, AI 정정, AI 중재라는 세 가지 조율 유형을 더했습니다 — 교사의 콘텐츠 및 윤리적 역할은 AI가 생성한 피드백을 정정할 때 가장 두드러졌습니다([[teachers-instrumental-orchestration-ai-math-2026|Noh & Kim, 2026]]).
+
+### 진화하고 비판적인 교사 역할들
+
+최근 연구들은 조율의 은유를 더 풍부한 역할 개념들로 확장합니다:
+
+- **활동 전환에 걸친 공동 조율자.** [[teacher-student-agency-orchestration|Yang et al. (2026)]]는 17명의 교사와 13명의 학생과 함께 참여적 스피드 데이팅을 사용하여, 교실 활동의 단계들 — 개인 작업과 협업 작업 사이의 사전, 사후, 도중 전환 — 에 걸쳐 통제가 어떻게 분배되어야 하는지를 그립니다. 실시간 동적 짝짓기를 지원하는 공동 조율 도구를 통해 드러난 설계 원리는, 통제가 *고정된 지점이 아니라는* 것입니다: 교사와 학생은 각 단계에서 다른 양의 주체성을 원하며, 도구는 교사에게 교사 재량권(override)을 유지한 채 짝짓기, 활동 전환, 개입 시점을 실시간으로 조정할 수 있게 해야 합니다. 이것은 교사를 **살아 움직이는 학습 환경 전체의 공동 조율자**로 자리매김합니다 — 개별 튜터링 연구를 교실 수준의 설계에 연결하는, 누가 누구와 언제 어떤 지원으로 일하는지에 대한 세밀한 순간별 결정에 초점을 맞춘, 일반적 조율 은유보다 더 구체적인 역할입니다.
+- **"인지 안무가."** 포스트휴머니스트 프레임워크는 교사를 [[biology-education|생물학적]] 시스템과 인공 시스템에 분산된 인지를 조율하는 *인지 안무가(cognitive choreographer)*로 재구성하며, [[tpack]]과 SAM 같은 도구주의 모델을 넘어섭니다.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
+- **촉진자, 공동 조사자, [[ethics|윤리]] 감독자.** 과학 학습에서 교사의 역할은 지식 전달자에서 촉진자와 공동 조사자로 이동하고, 학생들의 책임 있는 AI 사용에 대한 윤리 감독자로서 새로운 책임을 갖게 됩니다.([[li-ai-science-situated-learning-teachers-2025]])
+- **학습 원리의 중재자.** 교육자들은 AI를 통해 오래된 학습 원리(경험적, 상황적, 분산 인지)를 실행에 옮기며, AI를 교육자의 안내 역할을 대체하기보다 향상하는 도구로 취급합니다.([[fowlin-operationalizing-learning-principles-ai]])
+- **AI 출력을 비판의 대상으로 바꾸는 비판적 중재자.** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]]는 10명의 중등 [[math-education|수학]] 교사를 8주간의 ChatGPT-4 중재 과정에서 추적하여 다섯 가지 중재 실천을 규명했습니다: AI 생성 문제 출제, 점차 사라지도록 설계된 힌트 비계, AI 출력과 학생 자신의 작업을 비판적으로 비교하는 것, 차별적 프롬프팅(어려움을 겪는 학생에게는 시각적 비유, 동급생에게는 삼차 확장), 성찰적 대화 상대로서의 AI. 교사들이 이것들을 실행한 곳에서 출력은 답안지가 아니라 논쟁의 대상이 되었고, 학생들은 추측과 인지적 질문으로 나아갔습니다. 중재가 없는 곳에서는 권위가 알고리즘으로 이동하여, 학생들이 교사보다 AI를 먼저 참고하고 검증만을 위해 교사에게 돌아왔으며, 한 교사는 "신탁(oracle)"에서 "편집자"로의 이동을 묘사했습니다. 이 연구의 형평성 발견이 가장 예리합니다: 300개의 모델 응답에 걸쳐 무료 티어 모델은 32.7%의 경우에서 부정확했고 프리미엄 모델은 12%였습니다(χ²(1) = 17.5, p < .001). 그래서 자원이 부족한 학교의 교사들은 그것을 "수학에는 거의 쓸모없다(borderline useless)"고 불렀습니다. 도구의 질이 단지 도구 접근성이 아니라 하나의 교수학적 변수가 되는 것입니다. 한 교사의 학교 수용 사용 정책은 십 년 전 것이었고 AI에 관해 침묵하고 있어, 거버넌스 격차를 교실에 맡겨두었습니다.
+- **불안정하고 취약한 전문가 정체성.** [[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli et al. (2026)]]는 역할 재구성의 *정서적* 측면을 기록합니다: 24명의 스웨덴 대학 교사들은 GAI의 등장을 놀랍고 압도적으로 경험하며, "취약성의 상태"(낮은 자신감, 불안, "학생들보다 앞서지 못할 것"에 대한 두려움)를 보고하고 유토피아적 담론과 디스토피아적 담론 사이에 "갇힌" 느낌을 받았습니다. GAI는 그들로 하여금 자신의 우선순위를 재평가하게 했습니다 — [[critical-thinking]], [[evaluative-judgment]], 윤리적 GAI 사용을 기르는 것 — 그리고 "통제 불능"처럼 느껴지는 풍경 속에서 자신과 대학의 미래 역할을 의문시하게 했습니다. 이것은 교사 역할의 전환을 단순한 기술이나 업무 흐름의 변화가 아니라 정체성 차원의, 정서적으로 충만한 것으로 규정합니다.
+- **디지털 중재자로서의 교수 개발자 — 제동 장치로서도.** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole (2026)]]는 남아공의 두 Historically Disadvantaged Institution에 있는 12명의 교수 개발자와 학습 설계자를 인터뷰하여, 역할이 성찰적 교수의 촉진에서 기술적 중개자이자 문제 해결사로 이동하고 있음을 발견했습니다. 중재는 교수학, 윤리, 제도 정치에 걸쳐 있습니다. 독특한 움직임은 속도를 늦추는 것을 이 일의 일부로 다루는 것입니다: 한 참여자는 "경영진이 원하는 것, 기술이 할 수 있는 것, 강사들이 실제로 걱정하는 것" 사이를 번역하는 일을 묘사하고, 표절, 학생 의존, 사고의 외주화를 열광이 속도를 정하기 전에 지목합니다 — "이는 단순한 기술 지원이 아니다. 협상이기도 하다." 같은 연구는 정서적 비용("나는 사기꾼 같은 기분이다. AI를 하면서 배우고 있는데, 기관은 전문성을 기대한다")과 전문 학습 대응을 기록합니다: 도구를 시험하고 의도적으로 망가뜨리는 동료 공간으로, 기술이 아니라 판단을 겨냥하며, 도입 아니면 저항이라는 이분법을 명시적으로 거부합니다 — "나는 반-AI가 아니다. 나는 맥락 지지(pro-context)이다."
+- **도입이나 저항 대신 원칙에 입각한 선택성.** [[ai-integrated-teaching-identity-tensions|Adiozaman and Segar (2026)]]는 10년 이상 경력의 두 학술인을 한 학기 동안 세 차례 인터뷰하여, 정체성 작업이 세 가지 상호 연관된 긴장 — 교수학 대 플랫폼, 교육자 대 촉진자, 돌봄 대 준수 — 을 중심으로 조직됨을 발견했습니다. 이 긴장들은 확고한 입장으로 해소되지 않고 *원칙에 입각한 선택성*으로 해소되었습니다: 교수학적 가치, 윤리적 헌신, 전문적 판단에 의해 인도되는 맥록 민감한 결정입니다. 그들은 암묵적 지향에서 출발해, 학생들에게 자신의 사고를 설명하도록 요구하거나 과제와 평가를 재설계하는 학기 중 전략을 거쳐, 고정되지 않고 의도적으로 열린 채 남은 입장들에 이르는 궤적을 묘사합니다. 특정 사용의 거부는 도입 실패가 아니라 판단의 정당한 행사로 다루어집니다. 이것은 위에 기록된 취약성에 대한 건설적인 대응을 제공합니다: 역할 전환이 요구하는 것은 판단이므로, 도구 훈련을 중심으로 구축된 제도적 대응은 잘못된 문제를 해결하는 셈입니다.
+- **반자율(semi-autonomy)이 선호되는 운용 지점.** [[dai-genai-frenemy-teaching-autonomy-2026|Dai et al. (2026)]]는 27개국과 지역의 GenAI 경험 교사 287명을 설문하여, 이들이 자동화 척도의 *반자율* 수준에 도구를 놓는다는 것을 발견했습니다 — 130명이 Level 2("교사 지원"), 94명이 Level 3("부분 자동화")를 선택했고, Level 6를 선택한 사람은 정확히 1명이었습니다. 이들은 그것을 "보조", "비계", "보완" 또는 "파트너"라고 묘사했습니다. [[technology-acceptance-model|지각된 유용성]]이 도입 의도를 지배했으며(β = .832, p < .001), 지각된 인공 자율성은 유용성을 통해서만 의도에 간접적으로 영향을 주었고, 위험 회피는 유용성을 떨어뜨리지 않고 의도를 억제했습니다. 이는 그들의 우려가 *학생들의* 사용에 붙어 있기 때문입니다 — 부정행위와 진실성, 기초 지식과 고차원적 사고의 약화, [[hallucination-risk|환각]], 인간 상호작용의 감소, 윤리적·법적·[[equity-in-ai-education]] 위험. 저자들의 "프레너미(frenemy)"라는 명명은 이 입장을 정확히 포착합니다: GenAI는 지원 도구로는 가치 있지만 자율 에이전트로는 불신받습니다. 교수 역할에 대한 함축은, 교사들이 결정 주체로 남아 용도별로 — 학문 분야, 학생의 필요, 과업 유형, 시점에 따라 — 사용 여부를 정하고 싶어한다는 것이므로, 조율 도구는 자율성 약속보다 [[human-in-the-loop-ai|인간 감독]]과 용례 수준의 판단을 중심으로 구축되어야 합니다.
+- **권한은 교사에게 남고, 능력은 그 안에서만 확장된다.** [[reichert-human-centered-llm-chatbot-design-teachers-2026|Reichert, Briceno, Tabarsi & Barnes (2026)]]는 6~12학년의 중등 교사 6명(사회, [[math-education|수학]], 동물 과학, 과학, [[cs-education|컴퓨터 과학 및 로보틱스]])에게 자신의 교실용 LLM [[conversational-ai|챗봇]]을 종이 프로토타이핑하는 과제를 맡겼고, 모든 프로토타입이 같은 입장을 구현함을 발견했습니다: 시스템은 *경계가 설정된 전문가(bounded expert)*로서, 전문성을 지니되 정의된 영역에 한정되고 교사의 감독 아래 있었습니다. 교사들은 두 가지 경계를 그었습니다. *권한* 경계는 전문적·법적 책임에서 비롯되었습니다 — 학생들이 무엇을 배우고 어떻게 안전을 지키는지에 대한 통제는 위임될 수 없으므로, 감독(완전한 대화 기록, 부적절한 질문에 대한 실시간 알림, 수동 재정권)은 도구에 대한 견제가 아니라 역할의 의무로 다루어졌습니다. *전문성* 경계는 모델이 알 수 없는 것에서 비롯되었습니다: 개별 학생들의 이력, 교실 역학, 제도적 규범. 위임은 그러면 교수 전반에 걸쳐 선택적으로 배분되었습니다 — 교사들은 AI가 콘텐츠를 제시하고, 연습 문제를 제공하며, 비계를 제공하고, 형성적 [[feedback]]를 주는 것은 환영했지만, 학생들에게 학습 목표를 알리는 일과 [[summative-assessment|총괄]] [[assessment]]는 스스로 담당했습니다. 이것은 위에 기록된 반자율 선호에 구체적인 아키텍처를 제공합니다: 교사의 권한이 고정 요소이고 AI 능력은 그 안에서만 자랍니다.
+- **가치로 가득 찬 채점자로서의 교사.** [[luo-dawson-value-judgments-grading-2026|Luo & Dawson (2026)]]는 GenAI 지원 작업의 채점이 중립적이고 준거 기반적인 행위가 아니라, 학생이 누구인지(정직함, 성실함), 무엇을 할 수 있는지(독립성, GenAI 기술, 학문적 숙달), 타인과 어떻게 관계하는지(신뢰), 그리고 그 결정이 좋은 결과로 이어지는지([[bias-mitigation|공정성]], 선행/이타심)에 대한 교사의 추측에 의해 형성되는 가치 판단임을 보여줍니다. 교사들은 종종 자신의 채점에 깔린 가치 지향을 자각하지 못하며, 이는 학문 분과([[humanities-education|인문학]]은 GenAI 사용에 더 비판적, 경/응용 과학은 채점상 어려움이 적음)와 인식론적 입장(절대주의/다원주의/평가주의)에 따라 달라집니다. 이것은 교사를 평가 전문가로 자리매깁니다 — 그 판단이 단지 도구 사용이 아니라 지원되고 투명해져야 하는 대상입니다.
+- **교수학적으로 의미 있는 설명의 최종 판단자로서의 교사.** 설명이 원시 모델 내부가 아니라 *자신들의* 커리큘럼/교수학 언어로 제시될 때 교사들의 [[trust|AI에 대한 신뢰]]가 높아지므로, 효과적인 도구는 교사의 도메인으로 "말"해야 합니다. 피험자 내 실험에서 [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]]는 AI 짝짓기 도구에 대한 도메인 기반 설명이 데이터 기반 특징 중요도 설명보다 훨씬 더 신뢰되고 수용된다는 것을 발견했습니다. 이는 교사의 교수학적 어휘를 AI가 신뢰와 사용을 얻는 인터페이스로 자리매김하며, 설명이 교수학적으로 타당한지에 대한 교사의 판단을 도입의 결정 요인으로 놓습니다.
+- **기능이 부분적으로 위임될 수 있는 촉진자.** [[kuhail-great-debaters-ai-facilitators-2026|Kuhail et al. (2026)]]는 32명의 STEM 학생들이 인간 중재자, AI 챗봇(GPT-4, 교수진에게 기대되는 행동 — 중립성, 동등한 발언 시간, 짧은 지시, 주제 준수 강제, 후속 질문, 완화 — 을 프롬프트로 주입), 또는 두 가지를 번갈아 가며 토론하게 하여, 효과, 즐거움, 만족, 유용성, 재사용 의도에서 유의한 차이가 없음을 발견했습니다(t = 0.23~1.30, p = 0.198~0.818). 저자들은 이 귀무 결과를 규칙 기반 토론에서 인간-AI 협업의 정상화로 읽으며, 동등성으로 읽지 않습니다. 재사용에 이르는 경로는 달랐습니다: 인간 중재 하에서는 만족이 사용 의도를 이끈 반면, AI 중재 하에서는 지각된 유용성이 그랬습니다(0.806 대 0.495). 따라서 AI가 촉진한 활동은 얼마나 즐거운지가 아니라 입증된 유용성 위에서 살아남습니다. 실천적 해석은, 인간 감독 아래 대규모이거나 교수진이 얇은 코스에 대한 확장 지원 수단으로서 AI 중재를 삼는 것입니다. 다만 풍자, 완곡한 표현, 소수 커뮤니케이션 양식에 대한 형평성은 검증되지 않았습니다.
+- **단순한 역량이 아닌 목적의 설정자.** [[fagerlund-competency-agency-purposes-ai-education-2026|Fagerlund et al. (2026)]]는 유아원부터 9학년까지의 핀란드 교사 13명과 함께 학생들이 왜 AI에 관해 그리고 AI와 함께 배워야 하는지를 인터뷰하고, 그들의 진술을 Biesta의 자격 부여(qualification), 사회화(socialization), 주체화(subjectification)를 통해 읽었습니다. 자격 부여는 가장 명확하고 구체적인 목적이었으며, AI를 학습의 대상이자 그것을 위한 도구로 아우릅니다. 사회화는 AI에 대한 우호적 입장을 기르고 학생들을 AI에 능숙한 미래의 노동자로 준비하는 것으로 나타났습니다. 주체화, 즉 자기 결정되고 개인적으로 의미 있는 참여는 중요하다고 인정되었으나 그 이면에 구체적인 교수 전략이 없어 "논의하고 숙고하는 것"에 의존했습니다. 저자들은 *정보에 기반한 AI 주체성(informed AI agency)*을 제안합니다. 중심에 주체화를 두고 그 기초로 역량을 놓는 개념으로, 이는 교수 역할에 목적 설정의 의무를 부여합니다: 기술이 그 자체로 목적이 아니라 맥락을 갖도록 "왜"를 명시하고, [[tpack]] 같은 기술 프레임워크를 교육적 목적에 대한 지속적 관심으로 보완해야 합니다.
+
+이러한 역할들은 교사의 일을 [[distributed-cognition]], [[situated-learning]], [[embodied-learning]], [[critical-pedagogy]]에 연결하고, 교사를 단순한 사용자가 아니라 AI가 [[sociocultural-learning|매개하는 학습]]의 설계자이자 윤리적 안내자로 재구성합니다.
+
+- **AI 지원 결정은 행동 데이터가 있는 곳에 모인다.** [[ai-supported-lecturer-decision-making-2026|Köroğlu et al. (2026)]]는 27편의 실증 연구(2016–2025)를 검토하여 여덟 가지 강사 결정 유형을 규명하고, AI 지원이 교수, [[feedback]], [[assessment]] 결정에 집중된 반면 커리큘럼, 학습 환경, 정서적, 윤리적, 행정적 결정은 거의 지원받지 못함을 발견했습니다. [[learning-analytics]] 대시보드가 가장 흔한 시스템이었으며, 텍스트와 로그 데이터를 수행과 참여의 행동 지표로 처리했습니다. [[multimodal]] 및 상호작용 기반 데이터, 에이전틱 시스템, 인지적·초인지적·[[motivation|동기]]적·정의적 성과는 모두 검토된 문헌에서 비교적 드물었습니다. 강사들에 대한 실천적 해석은, AI 도구가 여는 결정의 공간이 그것이 표시하는 데이터에 의해 한정된다는 것이므로, 도구 선택은 또한 어떤 교수 결정들에 자원이 배분되는지에 대한 선택입니다.
+
+## AI에 적응하도록 교수 실천을 바꾸는 방법
+
+지식 기반의 증거는 다음과 같은 일련의 구체적 적응들로 수렴합니다:
+
+**AI의 교수학적 포장을 설계하라, 단지 도구만이 아니라.** 똑같은 AI라도 그 주변의 활동이 어떻게 설계되었는지에 따라 큰 [[learning-gains]]를 낳기도 하고 순손해가 되기도 합니다. [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz]]와 [[learning-gains]] 증거는 일관됩니다: 강사의 일은 AI를 답변 엔진이 아니라 구조화된 활동 안의 한 구성 요소로 취급하면서 *학습 경험을 설계하는 것*입니다. 학생의 시도를 먼저 비계로 받친 뒤 AI가 코칭하게 하라 — 이것이 [[formative-assessment|평가]]와 [[cognitive-offloading|수행 인플레이션]] 사이의 차이입니다.
+
+**[[human-in-the-loop-ai]] 검증 지점을 요구하라.** AI 출력을 얼굴 들고 받아들이기보다, 학생들이 AI 지원 작업을 평가하고, 수정하고, 자신의 것으로 소유하도록 가르치십시오. [[mechanical-compliance-human-flourishing-ai-literacy-2026|공정 사용 AI 리터러시]]는 이를 AI의 생산성과 진정한 인간의 번영 및 저자성 사이의 균형으로 규정합니다. 과제를 AI가 초안 작성을 돕되 학습자가 평가와 수정의 주체로 남도록 설계하십시오.
+
+**AI 피드백 초안을 큐레이션하라; 전달하지 마라.** [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026|Chen et al. (2026)]]는 64명의 중국 예비교사에게 논증적 글쓰기에 대한 ChatGPT 지원 피드백을 제공하고, 출력을 완성된 평문이 아니라 초안 자료로 다루는 것이 교사 단독 피드백으로는 움직이지 않았던 비판적 사고를 움직였음을 발견했습니다(사후 Cohen's d 3.74 대 사전 0.25, p < .001). 전이 가능한 부분은 교사들이 초안으로 한 일입니다: 적절한 내용을 자신들의 수준과 비슷하게 베꼈고(28%), 더 깊은 입력으로 확장했으며(16%), 직접 제공했고(16%), 수정했으며(14%), 완전히 폐기했습니다(14%), 추가로 9%는 수정이 필요했습니다. 지원된 피드백은 모델링 쪽으로 기울었고(시연, 33.1% 대 10.9%), 탐문 쪽으로도 기울었으며(질문으로 파고들기, 21.5% 대 6.0%), 학생들은 그것을 인식이 아니라 분석, 평가, 창작 쪽으로 수정했습니다. 그러나 여덟 명의 인터뷰이 중 여섯 명은 여전히 부정확함과 비전문성을 보고했습니다. 이 하이브리드를 안전하게 만드는 것은 교사의 검증 단계입니다.
+
+**평가를 AI 시대에 맞게 적응시켜라.** LLM이 축어 그대로 완료할 수 있는 과업에서 벗어나 [[authentic-assessment|진정성]] 있고 과정 기반이며 대면인 평가로 옮겨가십시오. [[ai-assessment-scale-reform|평가 척도]]는 각 단계에서 어느 정도의 AI 지원이 정당한지 결정하기 위한 루브릭을 제공하며, [[zhao-genai-higher-order-thinking-meta-2026|메타 분석 증거]]는 평가 설계가 그것을 요구할 때 AI가 고차원적 사고를 지원할 수 있음을 보여줍니다.
+
+**지속 가능한 학습의 조건을 보호하라.** AI 답변이 학습을 쉽게 보이게 만들기 때문에, 강사들은 [[cognitive-offloading|수행-학습 격차]]에 맞서도록 설계해야 합니다. [[lodge-loble-cognitive-offloading-2026|Lodge & Loble]]는 AI와 함께하는 노력 없는 성공이 학습의 부재를 가릴 수 있다고 경고합니다; 강사들은 [[productive-failure|생산적 고군분투]]를 설계에 포함하고, 미보조 상태에서의 숙달 입증을 요구하며, AI 지원 답변을 출발점으로 대하되 완성된 결과로는 대하지 않아야 합니다.
+
+**전달 매체를 계획하라.** 적응은 매체 중립적이지 않습니다: AI와 함께하는 [[online-teaching-and-learning|온라인 교수]]는 기회(확장 가능한 [[personalized-learning|개인화]], 상시 지원)와 위험(진실성, 오프로딩)을 모두 곱합니다. 대면 맥락만큼이나 온라인에서도 의도적으로 AI 포장을 설계하십시오.([[lopez-pernas-llm-appropriate-student-support-2026]])
+
+## 교수에 AI 리터러시 통합하기
+
+AI 리터러시는 별도의 모듈이 아닙니다 — 강사들이 모든 코스를 설계하는 방식에 직조되어 있습니다. 효과적인 접근은 다음과 같습니다:
+
+- **실천 속에서 AI 리터러시를 모범 보이라.** 스스로 AI를 [[teacher-ai-competency|사용하고, 평가하고, 비판하는]] 교사들이 학생에게 규범을 설정합니다. [[ai-literacy-continuum-higher-education|AI 리터러시 연속체]]는 강사들이 비계를 제공해야 할 도구 활용력에서 비판적 평가에 이르는 발전 과정을 서술합니다.
+- **사용만이 아니라 평가와 [[trust-calibration|보정]]을 가르쳐라.** 학생들은 AI를 언제 신뢰할 수 있고 언제 환각하는지를 알아야 합니다 — AI 출력에 대한 [[critical-thinking]]은 핵심 리터러시입니다. 이것은 [[reducing-ai-misuse|책임 있는 사용]]과 [[framing-ai-use-for-students|학생들에게 AI 사용이 어떻게 규범화되는지]]에 연결됩니다.
+- **학생들과 AI 사용 규범을 공동 구성하라.** [[finkelstein-principled-ai-education-2025|AI 교육에 대한 원칙 있는 접근]]과 [[teacher-authored-prompts-student-ai-dialogue|교사가 직접 작성한 프롬프트]]는 명시적이고 공동 설계된 기대가 처벌적 규칙보다 잘 작동함을 보여줍니다.
+
+## AI 시대의 학문적 진실성 확보하기
+
+AI와 함께하는 학문적 진실성은 단속의 문제가 아니라 *설계*의 문제입니다. 강사들은 다음을 통해 적응합니다:
+
+- **진실성을 과정과 저자성을 중심으로 재구성하라.** 탐지 대신, 투명하고 문서화된 사용으로서의 [[academic-integrity]]를 강조하십시오. [[bozkurt-ghost-students-agentic-ai-2026|에이전틱 AI와 고스트 학생 연구]]는 학생들이 자신을 대신해 [[agentic-ai|AI 에이전트]]를 배치할 때 진실성 위험이 이동함을 보여줍니다. 따라서 강사들은 "고스트"가 AI일 때 저자성이 무엇을 의미하는지 정의해야 합니다.
+- **공개와 규범화를 사용하라.** [[framing-ai-use-for-students|학생들에게 AI 사용이 어떻게 규범화되는지]] — 목발인지 정당한 도구인지 — 는 학생들이 그것을 공개할지 여부를 형성합니다. [[explainable-ai|투명성]] 규범(예: AI 사용 공개)은 AI 사용을 숨기려는 유인을 줄입니다.
+- **부정행위의 유인을 설계로 제거하라.** 진정성 있고 과정 기반이며 대면인 평가(구술 시험, [[eportfolio|포트폴리오]], 관찰된 [[problem-solving]])는 AI 탐지 도구보다 아웃소싱을 덜 매력적으로 만듭니다. [[ai-assessment-scale-reform|평가 척도]]와 [[authentic-assessment]]는 [[ai-detection|탐지]] 군비 경쟁에 대한 건설적 대안입니다.
+- **과업 수준의 [[regulation]] 규제가 강사들이 AI를 실제로 거버넌스하는 방식이다.** [[chirikov-regulate-ai-syllabi-2026|Chirikov의 (2026)]] 31,000개 이상의 코스 강의계획서 연구는 강사들이 포괄적 규칙을 적용하기보다 *과업 수준 규제자*로 점점 행동함을 보여줍니다: 초안 작성/수정에 대해 AI를 제한하고(코스의 79%), 추론/문제 해결에 대해서도 제한하며(65%), 편집/교정에는 허용하고(83%), 학습 지원에도 허용합니다(80%). 반면 구상/계획은 가장 논쟁적인 상태로 남습니다(46% 허용 / 54% 제한). AI가 대체하는 과업과 보완하는 과업을 구분하여 쌓인 이 차별화는, 도입-금지 정책에 대한 구체적이고 강사 주도적인 대안이며, 교사 역할에게 [[educational-policy-ai|정책]] 형성의 중심적 자리를 부여합니다.
+
+## 교수를 학습 설계에 연결하기
+
+교수와 [[learning-design]]은 동전의 양면입니다 — 강사의 일상적 판단은 설계된 학습 경험의 살아있는 실행입니다. AI는 이 연결을 팽팽하게 만듭니다:
+
+- **학습 설계자로서의 교사.** [[learnai-just-in-time-ai-cocreation-university-2026|LearnAI]]와 [[teacher-authored-prompts-student-ai-dialogue|교사가 직접 작성한 프롬프트 설계]]는 강사가 설계자로 기능함을 보여줍니다: 활동, AI의 역할, 학습을 구조화하는 비계를 명시하는 사람으로서. 이것이 사용의 지점에서 실행되는 [[learning-design]]입니다.
+- **학습 설계 원칙이 AI 교수학을 관장한다.** 같은 [[learning-design]] 원칙 — 명확한 목표, 정렬된 평가, [[scaffolding]], [[feedback]] — 이 AI가 돕느냐 해치느냐를 결정합니다. [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]는 이론 없는 [[prompt-engineering|프롬프팅]]보다 공식적 교수 설계 모델에 토대를 둔 AI 설계가 우월함을 실증적으로 검증합니다.
+- **교사의 조율을 위한 설계.** 효과적인 AI 학습 환경은 *교사를 염두에 두고* 설계됩니다 — [[prezenski-human-centered-ai-aided-learning|인간 중심 AI]]가 제공하는 도구는 교사의 업무량을 줄이고 판단을 보강해야 하며, 또 하나의 불투명한 블랙박스를 더해서는 안 됩니다. 강사들이 AI 학습 활동을 공동 설계할 때([[activity-theory-teachers-adoption-ai-sem-2026|활동 이론 관점]]), 도입과 질이 모두 향상됩니다.
+## 학습자 정체성과의 관계
+
+교사 역할과 [[learner-identity]]는 같은 인간 과정의 상호 보완적인 양면이며, AI는 둘 모두를 재편합니다.
+
+- **교사 정체성은 전문가 정체성이고, 학습자 정체성은 학습 정체성이다.** 교사 역할 페이지는 AI가 교육자의 *일, 정체성, 주체성*을 어떻게 재편하는지를 기록합니다 — 그들의 진화하는 전문적 자기 이해([[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw의 GenAI를 정체성 위기로 규정한 틀]] 참조). 학습자 정체성은 학생들을 위한 평행 개념입니다: [[stem-education|학문적]], 전문적, 창조적, 학업적 측면에서 그들이 누구이며 무엇이 되어가는지.
+- **둘은 인과적으로 결합되어 있다.** 정체성 붕괴([[generative-ai|GenAI]] 속에서 자신의 전문적 목적에 대한 불확실성)를 경험한 교사는 학생들의 정체성 발달을 덜 지원할 수 있습니다 — 자신의 역할을 의심하는 교사는 같은 영역에서 학생들이 떠오르는 자기의식을 확인해 주는 일에 고전합니다. 반대로 확고한 전문가 정체성을 유지하는 교사는 학생들의 소속감과 저자성에 비계를 제공하기에 더 나은 위치에 있습니다.
+- **구별되는 실패 양상.** 교사 정체성은 *역할 소멸*과 *목적*("교사의 존재 의미가 무엇인가?"라는 질문)에 의해 위협받습니다. 학습자 정체성은 *저자성 상실*과 *역량*("이것이 정말 내 것인가 / 나는 충분히 잘하는가?"라는 질문)에 의해 위협받습니다. 둘 다 AI에 대한 정체성 수준(단지 기술 수준이 아닌)의 반응입니다.
+- **둘 다 전문성 개발과 [[pedagogy|교수학]]의 관심사이다.** 교사 정체성 지원은 [[educational-development]]과 [[teacher-ai-competency]]에 속하고, 학습자 정체성 지원은 [[student-experience]], [[authentic-assessment]], [[agency]]에 속합니다. 잘 설계된 AI 통합 시스템은 둘 다에 주의를 기울입니다 — 왜냐하면 교사의 정체성이 학습자들의 정체성이 형성되는 조건이기 때문입니다.
+
+## 초기 AI 리터러시의 교사 공동 설계
+
+- **유아기 AI 리터러시에서의 교사 공동 설계.** Lee (2026)는 Play With AI (PL-AI) 커리큘럼을 공동 설계한 유아 2명과 유치원 교사 2명이 자신감과 교수학적 주체성에서 상당한 성장을 경험했으며, 공동 설계가 커리큘럼 소유권, 성찰적 실천, 의미 있는 적응을 촉진했음을 보여줍니다. 이것은 교사를 발달 단계에 적합한 AI 리터러시 커리큘럼의 단순한 실행자가 아니라 중심 공동 설계자로 자리매김하며, [[teacher-education|교사 준비]]와 [[early-childhood-elementary-ai-education|early childhood]] [[ai-education|AI 교육]]에 함의를 갖는 모델입니다.
+
+### AI 학습 자원을 공동 설계하는 교사들
+
+- 교사의 역할은 AI 학습 자원의 공동 설계로 확장됩니다: 드론 STEM 교수를 위한 교사-AI 공동 설계 [[simulation|시뮬레이션]]은 GenAI 출력을 교수학적으로 타당하고 맥락에 맞게 유지했으며, 교사들은 Teachers' AI Literacy Scale의 의도된 수혜자입니다. 효과적인 GenAI 통합은 점점 설계에의 교사 참여에 의존하게 됩니다.
+
+### AI 성찰 시스템은 교사 경험에 적응해야 한다
+
+- **교사 대상 AI 성찰 분석은 획일적이 아니라 전문성에 적응해야 한다.** 미국 K–12 교사 100명을 대상으로 한 설문(9년에서 중앙값 분할; 이항 검정; 15% 선택 차이는 약 83% 검정력에서 탐지 가능)은 체계적인 선호 분열을 발견했습니다. 경험이 적은 교사들은 성찰 시간 부족을 최우선 장애물로 경험이 많은 교사보다 3배의 비율로 꼽았고(37% 대 12%, p < .001), 학생들의 학습 이탈에 대한 분석(48% 대 33%, p = .028)과 감정에 대한 분석(31% 대 18%, p = .036)을 원했습니다.
+- **분열에서 도출되는 설계 규칙은 경험에 적응한 추천 모드이다.** 경험이 많은 교사들은 학생을 도운 후 학습이 향상된 정도에 대한 분석(40% 대 26%, p = .019)과 자신의 교수 방법에 대한 분석(42% 대 26%, p = .012)을 원했고, 그들의 최우선 장애물은 수행 추적(28% 대 15%, p = .009)이었습니다. 설계 규칙: 초보자 모드 = 구조화된 프롬프트와 참여 분석; 전문가 모드 = 유연한 종단 분석 — 이는 획일적인 대시보드에 대한 직접적인 반론입니다. ([[falhs-teacher-expertise-reflection-2025]])
+
+## 연결된 개념
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
+- [[learner-identity]] — 진화하는 학문적, 전문적, 창조적, 학업적 학습자 정체성
+- [[business-education]]
+- [[educational-development]]
+- [[teacher-ai-competency]]
+- [[ai-literacy]]
+- [[k-12]]
+- [[higher-ed]]
+- [[scaffolding]]
+- [[learning-design]]
+- [[intelligent-tutoring]]
+- [[llm]]
+- [[professional-training]]
+- [[distributed-cognition]]
+- [[situated-learning]]
+- [[critical-pedagogy]]
+- [[teacher-education]]
+- [[learning-sciences]]
+- [[academic-integrity]]
+- [[pedagogy]] — AI 교육에서의 교수법과 교수 전략의 포괄 개념
+- [[stakeholders]] — AI 교육에서의 사람과 독자층의 포괄 개념(학습자, 교사, 설계자, 관리자, 정책 입안자)
+
+## 연결된 문서
+- [[caeo-navigating-ai-educational-future-scenarios-2026]] — 더 인간다운 역설: 전문가의 2030년 시나리오는 AI 포화가 인간의 교수학적 일을 대체하기보다 강화함을 발견한다 (Malyn-Smith et al. 2026)
+- [[teachers-instrumental-orchestration-ai-math-2026]] — 관찰된 여섯 차시의 고등학교 수학 수업이 기기 오케스트레이션을 세 가지 새로운 유형으로 확장한다 (Noh & Kim 2026)
+- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — AI가 생성한 감정 알림에 대응하기: 수학 교실에서의 교사 개입과 학생 참여
+- [[edustories-classroom-case-studies-2026]] — Edustories: 교실 실천의 실제 사례 연구 모음
+- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — 교사들이 교실 챗봇을 경계가 설정된 전문가로 설계하고 권한을 유지한다
+- [[dai-genai-frenemy-teaching-autonomy-2026]] — "프레너미"로서의 GenAI: 교사들은 반자율을 선호하고, 유용성이 도입을 이끌며, 위험 회피는 학생들의 사용을 겨냥한다 (Dai et al. 2026)
+- [[ai-supported-lecturer-decision-making-2026]] — 고등교육에서 AI 지원 강사 의사결정
+- [[chirikov-regulate-ai-syllabi-2026]] — 31,000개 강의계획서에서 강사들이 AI를 규제하는 방식; 과업 수준 규제 (Chirikov 2026)
+- [[ai-teaching-innovation-ai-tpack-2026]] — 대학 교사들의 AI 교수 혁신 행동 (AI-TPACK SEM; Bai & Hsieh 2026)
+- [[teacher-ai-teaming-five-levels]]
+- [[teacher-student-agency-orchestration]]
+- [[ai-changing-teaching-workflows]]
+- [[teacher-authored-prompts-student-ai-dialogue]]
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — 기술 격차가 아닌 정체성 위기로서의 GenAI
+- [[lodge-loble-cognitive-offloading-2026]] — AI, 인지적 오프로딩과 교육에 대한 함의 (Lodge & Loble 2026)
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI와 교수 설계 실천: 체계적 검토 (Kibar & Ilgaz 2026)
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — AI가 다양한 학생 프로파일에 적절한 지원을 제공할 수 있는가? 대규모 평가
+- [[bozkurt-ghost-students-agentic-ai-2026]] — 평가에서의 고스트 학생과 에이전틱 AI
+- [[wang-teacher-ai-co-design-review-2026]] — 학습 과제의 교사–AI 공동 설계: 경향과 관점 (Wang et al. 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — GAI에 관한 대학 교사들의 경험과 인식: 취약성, 평가의 재고, 위험에 처한 학생 학습 (Farazouli et al. 2026)
+- [[luo-dawson-value-judgments-grading-2026]] — GenAI 지원 작업 채점의 가치 판단: 정직, 신뢰, 타당성, 그리고 양방향 투명성 (Luo & Dawson 2026)
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 블렌디드 교실의 교사들에게 ML 연구 결과를 접근 가능하게 만들기
+- [[li-language-educators-genai-review-2026]] — GenAI와 함께하는 언어 교육자들의 실천과 발전
+- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
+- [[breideband-community-builder-cobi-2026]]
+- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
+- [[xai-teachers-trust-edtech-recommendations-2026]]
+- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
+- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
+- [[ai-integrated-teaching-identity-tensions]] — AI 통합 교수에서의 정체성 긴장과 원칙에 입각한 선택성 (Adiozaman & Segar 2026)
+- [[teacher-intervention-k12-ai-based-instruction-2026]] — K-12 AI 기반 교수에서의 교사 개입: 체계적 검토
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 디지털 중재자로서의 교수 개발자: 남아공 HDI에서의 역할 재구성, 정서적 노동, 판단
+- [[where-ai-enters-teacher-work-2026]] — Where Artificial Intelligence Enters Teacher Work
+- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED 언플러그드: 학습자와 AI 사이의 프록시로서의 교사, 훈련과 간접적 노력 감소가 학습 향상을 이끄는 19학급 준실험 (Rodrigues et al. 2026)
+- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
+- [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
+- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — 수학에서의 교사 중재: 다섯 가지 비판적 중재 실천, 권위의 이동, 무료 대 프리미엄의 알고리즘 격차
+- [[charles-teacher-readiness-by-design-ai-rich-2026]] — 설계에 의한 교사 준비도: 도입이나 자신감이 아닌 설계 역량으로서의 준비도 (Charles 2026)
+- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — ChatGPT 지원 교사 피드백: 교사들은 AI 초안을 전달이 아니라 큐레이션한다
+- [[fagerlund-competency-agency-purposes-ai-education-2026]] — 역량에서 주체성으로: AI 교육의 목적에 관한 교사들의 견해
+- [[kuhail-great-debaters-ai-facilitators-2026]] — 인간 대 AI 토론 중재자: 동등한 평점, 다른 재사용 경로
+- [[yalcin-genai-programming-education-systematic-review-2026]] — 프로그래밍 교육에서의 GenAI: 강사 역할이 가장 덜 연구된 체계적 검토
+- [[heutagogical-teaching-ai-enhanced-education-2026]] — 정보 제공자에서 학습 설계자로: AI가 강화된 교육에서의 휴다고지 교수 실천
+- [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs et al. 2025)
