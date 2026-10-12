@@ -9,7 +9,7 @@ ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
 source_updated: "2026-10-04T16:06:05-04:00"
-translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 수 없습니다."
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

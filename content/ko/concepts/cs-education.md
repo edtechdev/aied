@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
 source_updated: "2026-10-02T12:40:11-04:00"
-translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 수 없습니다."
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

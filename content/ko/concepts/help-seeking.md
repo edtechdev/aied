@@ -1,0 +1,156 @@
+---
+title: 도움 요청
+created: "2026-08-06T10:20:04-04:00"
+updated: "2026-10-03T02:57:43-04:00"
+type: concept
+foundations: [ai-literacy]
+pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
+technology: [generative-ai, intelligent-tutoring, llm]
+connected_faqs: [reducing-over-reliance, study-with-ai]
+audience: [learners]
+level: [higher ed, k 12]
+confidence: high
+translation_of: concepts/help-seeking
+source_updated: "2026-10-03T02:57:43-04:00"
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-11"
+    agent: hermes-agent
+---
+
+*영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+> **도움 요청** — 도움이 필요함을 인식하고 그것을 전략적으로 요청하는 학습자의 과정, 그리고 그 과정이 AI가 뒷받침하는 학습 환경에서 어떻게 펼쳐지는가입니다. [[ai-education|AI 교육]]에서 도움 요청은 AI 도구가 학습을 뒷받침하는지 훼손하는지의 중심입니다. 도움 요청의 *질* — 학습자가 언제, 어떻게, 무엇을 요청하는가 — 이 결과를 강하게 형성하며, AI 튜터와 힌트, 그리고 [[pedagogy|교수법적]] 에이전트는 정확히 답 추구가 아니라 생산적인 도움 요청을 이끌어내도록 설계됩니다.([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
+
+
+선제적 외부 연락은 학습 자료의 어떤 변화 없이도 도움 요청을 높일 수 있습니다. 대규모 등록 학부 강좌에서의 사전 등록된 실험은 학술 챗봇을 통해 학생들에게 메시지를 보내어 튜터링과 보충 교수의 수용이 더 높아짐을 발견했습니다. 매개 분석은 그 성적 효과의 17.8%를 그렇게 높아진 도움 요청에 귀속시켰습니다(p = 0.041)([[chatbot-outreach-course-performance-2026]]).
+
+## 생각해 볼 질문들
+
+- 막혔을 때, 직접 답을 요청하는 편입니까, 아니면 스스로 풀 수 있게 돕는 안내를 요청하는 편입니까? 각 선택이 실제로 기억에 남는 것에 어떤 영향을 준다고 생각하십니까?
+- 연구는 학생들이 AI로 배우려 하지만 기본적으로 답을 요청하는 경향이 있다는 것을 보여줍니다 — 더 나쁜 수행과 연결된 '의도–행동 간극'입니다. 왜 좋은 의도가 그토록 쉽게 답 추구로 무너질 수 있을까요?
+- 지속적인 '힌트 버튼'은 도움이 항상 있다는 신호를 보내 학습 과제를 베끼기 운동으로 전락시킬 수 있습니다. 도움을 너무 쉽게 얻을 수 있어서 여러분이 해야 할 생각을 건너뛰었던 때를 떠올릴 수 있습니까?
+- 한 연구는 단순히 학생들에게 AI가 실수할 수 있다고 경고하는 것이 실제로 그들의 도움 요청을 높였음을 발견했습니다. 건강한 회의주의가 튜터와의 참여에 대해 학생들이 어떻게 참여하는지를 어떻게 바꿀 수 있을까요 — 맹목적 신뢰에 비해?
+- 어려움을 겪는 학생들은 종종 요청받지 않고서는 도움을 구할 가능성이 가장 적습니다. 가장 지원이 필요한 학생들이 손을 내밀지 않는다면, AI 도구와 교수자는 어떻게 대응해야 할까요?
+- 이 페이지는 힌트를 지연하고, 설계 질문을 도움을 제공할 '것인지 아닌지'에서 '어떻게' 제공할 '것인지'로 옮기는 것을 제안합니다. 여러분의 학습자를 위한 잘 설계된 도움 경험은 어떤 모습이겠으며, 무엇이 그것을 실제로 수용하게 만들까요?
+
+## 들어가며
+
+도움 요청은 [[self-regulated-learning]]과 [[metacognition]]에 밀접히 연결된 학습 연구의 잘 확립된 구성 개념입니다. 그것은 학습자가 자신의 이해를 모니터링하고, 공백을 인식하고, 도움이 필요하다고 판단하고, 효과적인 요청을 형성하는 것을 요구합니다. [[generative-ai|생성형 AI]] 튜터의 부상과 함께 도움 요청은 새로운 중요성 — 그리고 새로운 실패 양식 — 을 얻었습니다. 학습자들은 종종 AI를 학습에 사용할 *의도*를 가지지만 직접 답을 요청하는 데 기본값으로 돌아가며, 이 문서고의 연구는 이 공백이 영역과 연령대를 넘어 문서화되어 있음을 보여줍니다. 고전적 모형은 요청이 요청자가 결여한 지식을 위한 것이라고 가정합니다. 운영 지원 수요는 그 가정을 복잡하게 합니다. 4,093건의 질의에서 적어도 20.4%는 지식이 아니라 대기 중인 제출의 상태에 관해 물었으며, 검색에 묶인 조력자가 1.3%만을 처리한 종류입니다 [[student-query-demand-hybrid-ai-support-2026|Gupta et al. (2026)]].([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+
+## 생산적 대 비생산적 도움 요청
+
+이 문헌의 중심적 구분은 학습을 뒷받침하는 도움 요청과 그것을 우회하는 도움 요청 사이의 것입니다.
+
+### 비생산적 도움 요청 행동
+
+이 문서고의 연구는 특히 [[intelligent-tutoring|지능형 튜터링 시스템]]에서 비생산적 도움 요청의 구체적이고 관찰 가능한 양식을 식별합니다.
+
+- **성급한 힌트 요청** — 어떤 해결 시도도 하기 전에 도움을 요청하는 것. 불확실한 학생조차 먼저 시도함으로써 더 많이 배웁니다.([[lak2026-hint-button-unproductive-use]])
+- **피상적인 힌트 읽기** — 힌트를 읽기에 너무 빠르게 지나가는 것(약 4단어/초 기준으로 표시됨), 종종 답을 드러내는 바닥 힌트로 곧장 뛰어드는 것.([[lak2026-hint-button-unproductive-use]])
+- **학습 추구보다 답 추구** — 설명하거나 안내하라기보다 AI에게 답을 생산해 달라고 요청하는 것. GenAI 튜터를 사용한 98명의 9학년 학생 연구에서 상호작용은 도구적 요청이 지배했고 자신의 학습에 대한 모니터링이나 평가는 거의 없었습니다 — 학생들이 사전에 비계가 있는 지원을 선택했음에도 불구하고 말입니다. 이 **의도–행동 간극**은 *더 낮은* 사후 검사 수행과 더 높은 외재적 인지 부하와 연관되었습니다.([[regulating-ai-tutor-adolescent-srl]])
+- **독립적 시도나 인간 출처보다 먼저 AI를 참고하는 것.** [[uneven-impact-generative-ai-student-learning-2026|Manikonda et al. (2026)]]는 이것을 독립적 사고, 전통적 검색, 또는 교수자에게 닿기보다 먼저 GenAI를 참고하는 것으로서 직접 측정하여 그것을 **초기 의존**이라고 부르며, AI 관련 강좌의 118명 학생 사이에서 더 큰 부정적 영향(β = .402, p = .004)뿐 아니라 학문적 이득(β = .301, p < .001)과도 연관됨을 발견했습니다. 해악과의 연관은 낮은 [[ai-literacy|평가 리터러시]]에서는 없었고 높은 평가 리터러시에서 가장 강했으며(b = .688 at +1 SD, p = .001), 따라서 AI 출력을 판단하는 데 가장 능숙한 학생들이 그것을 먼저 참고하는 데 대해 가장 큰 대가를 보고했습니다. *먼저 누구에게 묻는가*의 선택은 답을 평가하는 데 능숙한 것이 상쇄하지 못하는 하락을 수반합니다. 이것은 또한 AI를 문제를 조직하고, 평가하고, 분해하는 데 사용하는 것 — 초기 의존이 아니라 **인지적** 사용 — 이 긍정적 영향과 연관된 양식임을 보여주므로, 도움 요청의 실패 양식은 묻는 것 자체가 아니라 순서의 것입니다.
+- **회복 없는 지속적 요청** — 요청은 처음에는 생산적이지만 무한정 그렇지는 않습니다. 도움 요청은 시작 시점에서 가장 회복 가능한 막힘 유형이지만(47.0%), 지원이 실패하면 가장 크게 떨어집니다(깊이 여섯 이상에서 12.5%), 따라서 지속성 자체가 아니라 요청이 추적할 가치가 있는 신호입니다 [[guided-ai-tutor-impasse-resolution-2026|Ahtisham et al. (2026)]].
+- **어려움을 겪는 학생들은 요청받지 않고서는 도움을 구할 가능성이 가장 적다** — 도움 요청의 참여 측면입니다. [[one-click-away-khanmigo-two-year-school-experiment-2026|2년간의 Khanmigo RCT(Oreopoulos & Low 2026)]]에서, 자유로운 접근과 의무적인 연습 시간이 있음에도 불구하고 중위수의 어려움을 겪는 학생은 실수 국면의 약 17%에서만 AI 튜터에게 메시지를 보냈고, 대부분 맨 답이나 클릭으로 말입니다 — 이것은 교육경제학의 발견, 즉 자발적 의존 개입이 가장 혜택을 받을 학생들에게 가장 적게 닿는다는 것과 일치합니다. [[virtual-tutoring-computer-assisted-learning-takeup-2026|TWiK(Oreopoulos et al. 2026)]]는 수용이 마찰을 줄이는 데 고도로 반응적임을 보여줍니다(등록을 간소화한 뒤 첫 세션 수용이 45%→83%로 상승), 그러나 진입은 지속적 참여가 아닙니다(출석은 간헐적으로 남았습니다).
+
+### 비생산적 도움 요청이 학습을 해치는 이유
+
+**제공물 관점**이 핵심 메커니즘을 설명합니다. 인터페이스가 도움을 끊임없고 현저하게 이용 가능하게 할 때(예를 들어 지속적인 '힌트 버튼'), 그것은 학습자에게 도움이 항상 있다는 신호를 보내, 과제를 베끼기 운동으로 무너뜨릴 수 있는 의도치 않은 제공물을 만듭니다. 바닥 힌트에 빠르게 접근하는 것은 학습이 요구하는 능동적 스키마 구성을 우회합니다.([[lak2026-hint-button-unproductive-use]])
+
+### 도움 요청의 질은 측정 가능하다
+
+성급한 힌트 요청과 피상적인 힌트 읽기라는 두 가지 간단하고 해석 가능한 지표는 표준 튜터링 로그로부터 계산 가능하며, [[prior-knowledge|선행 지식]]을 통제한 뒤에도 학기를 넘어 줄어든 [[learning-gains|학습 향상]]과 일관되게 연관되어 있습니다. 이것은 복잡한 기계 학습 '시스템 게임' 탐지기와 달리, 그것들을 [[learning-analytics]] [[visualization|대시보드]]와 실시간 개입에 실천적으로 만듭니다.([[lak2026-hint-button-unproductive-use]])
+
+## 생산적 도움 요청을 촉진하는 AI 시스템 설계
+
+### 학생이 묻는 방식을 비계로 세우기
+
+**추론 중심 도움 요청**에 대한 명시적 훈련 — 최종 답이 아니라 단계적 힌트와 검증을 요청하는 것 — 은 비판적 의존보다 더 나은 결과를 만들어냅니다. 준실험적 학부 통계 연구에서, 안내된 LLM 접근(추론 지향 도움 요청에 대한 훈련을 포함)은 제한 없는 LLM 접근보다 더 강한 독립적 수행과 더 나은 자기 평가 보정으로 이어졌습니다. 교훈은 이것입니다. **LLM 접근만으로는 불완전한 개입이다**; 설계 과제는 AI를 답을 얻는 도구가 아니라 추론 동반자로 기능하도록 학생이 AI를 *어떻게* 사용하는지를 비계로 세우는 것입니다.([[guided-llm-scaffolding-independent-learning]])
+
+상호작용 비용은 같은 질문의 일부입니다. [[penquiry-pen-based-llm-qa-2026|Rhee et al. (2026)]]는 펜 기반 학습자가 [[llm|LLM]]에게 아무것도 묻지 못하도록 막는 **지시 장벽**과 **표현 장벽**을 식별합니다. 도형의 한 영역이나 방정식의 한 항을 가리키는 것은 타이핑된 문장으로 표현될 수 없으며, 형식화의 노력은 질문이 가장 연약한 바로 그 시점에 떨어집니다. 그들의 Penquiry 시스템은 잉크 표시를 문서 요소에 스냅하여 지시를 해결하고, 자동 완성을 통해 성긴 잉크 키워드를 완전한 질의로 확장합니다. 각각 16명의 참가자를 대상으로 한 두 번의 반복 연구는 질의의 인지적·신체적 부담이 유의하게 떨어졌음을 발견했습니다. 더 낮은 묻기 비용이 *더 나은* 도움 요청을 만들어내는지 단순히 더 많은 것을 만들어내는지는 열린 상태로 남았으며, 저자들은 시간적으로 적응하는 자동 완성 — 세션 초반에는 기초적 검증, 나중에는 상위 수준 프롬프트 — 을 줄어든 마찰에서 [[scaffolding|걷히는 지원]]으로 가는 경로로 제안하며, 영구한 지팡이가 아니라 말입니다.
+
+비계는 과제 이전이 아니라 과제 안에서도 전달될 수 있습니다. [[helpcoach-ai-help-seeking-scaffolding-2026|Jin et al. (2026)]]은 채팅 인터페이스에 추가하는 HelpCoach를 만들어, 학생이 도움을 얼마나 구체적으로 요청하는지를 평가하고 질문이 너무 모호할 때 수정을 촉구하여, 지식 구성 요소와 비계 유형을 명시적으로 만듭니다. 웹 프로그래밍을 배우는 40명의 대학생을 대상으로 한 피험자 간 연구에서, HelpCoach 참가자들은 과제 전 훈련 기준선보다 첫 초고에서 유의하게 더 높은 비율의 구체적 질문을 썼고(57.3% 대 40.5%), 일주일 후 유의하게 더 많은 지식을 유지했으며(d = 1.100), 세 번째 과제의 구체성 차이는 더 이상 유의하지 않았습니다(43.7% 대 32.1%). 저자들은 유지 향상을 더 표적화된 챗봇 답변에 귀속시킬 수 없음을 주의합니다.
+
+묻는 비용에 대한 세 번째 지렛대는 도움이 *어디서* 오는가입니다. [[course-specific-rag-help-seeking-higher-ed-2026|Gray와 Hobbs(2026)]]은 하나의 프로그래밍 모듈의 승인된 자료에 기반한 강좌 특정 [[rag|검색 증강]] 조력자 Beacon을 만들어, 15명의 컴퓨팅 학생과 네 명의 학술 전문가로 평가했습니다. 참가자의 89%가 그 답변을 강좌 자료와 높게 일치한다고 평정했고 66.7%는 그것이 학습을 대체하기보다 뒷받침한다고 말했으나, 이해나 자신감의 향상을 보고한 사람은 절반에서 60% 정도였습니다. 동기는 이 절이 문서화하는 장벽입니다. 그 학생들의 62.5%는 필요할 때 도움을 구하기를 때때로 피한다고 말했고 75%는 주제가 이해되지 않을 때 불안을 보고했으므로, 사적이고 모듈에 기반한 채널이 교수자에게 다가가기 전의 첫 번째 디딤돌로 제공됩니다. 인터뷰한 학술 전문가들은 반론을 살려두었습니다 — 그들은 Beacon이 전체 해법을 삼긴 것을 가치 있게 여기고, 제한 없는 도구가 학생들이 한 발달 단계를 건너뛰게 할 것을 우려했습니다 — 이것이 설계가 작업을 완성하기를 거부함으로써 자신의 자리를 얻는 이유입니다.
+
+### 투명성을 통해 신뢰를 보정하기
+
+252명의 학생을 대상으로 한 교실 실험은 **AI의 오류 가능성에 대해 학생들에게 경고하는 것이 수학 튜터링 시스템에서 도움 요청을 높였음**을 발견했습니다. 잠재적 시스템 오류에 대한 투명성은 학습자의 시스템과의 참여를 개선했습니다 — 이것은 도움 요청을 [[trust-calibration]]과 [[hallucination-risk]]에 연결합니다.([[ai-fallibility-warning-help-seeking]])
+
+### 힌트와 비계 전달 재고하기
+
+도움을 제거하기보다, 연구는 그것이 전달되는 방식을 재설계할 것을 권고합니다.
+
+- **지연된 힌트 이용 가능성** — 힌트(특히 바닥 힌트)에 접근하기 전에 최소 참여 시간이나 해결 시도를 요구하는 것.([[lak2026-hint-button-unproductive-use]])
+- **'것인지 아닌지'에서 *어떻게*로** — 핵심 설계 질문은 힌트를 전혀 제공할 것인지가 아니라, 생산적 투쟁 원리에 부합하는 방식으로 힌트 전달을 어떻게 구조화할 것인가입니다.([[lak2026-hint-button-unproductive-use]])
+### LLM 튜터에서의 수용 문제
+
+실제 학생들은 빈번히 [[conversational-ai|챗봇]]의 [[scaffolding|비계]]를 우회합니다 — 반드시 해롭게는 아니지만, 종종 챗봇의 교수법적 틀과 학생 자신의 학습 목표 사이에 불일치가 있기 때문입니다. 따라서 평가 파이프라인은 튜터가 비계를 세우는지뿐 아니라 학생들이 그 비계를 실제로 *수용*하는지를 측정해야 하며, 학생들이 그러리라고 가정해서는 안 됩니다.([[rethinking-scaffolding-llm-tutors]])
+
+## 도움 요청과 자기조절 학습
+
+도움 요청은 [[self-regulated-learning]]의 integral한 부분입니다. 생산적인 도움 요청은 학습자가 이해를 모니터링하고, 도움이 필요한 시점을 판단하고, 적절한 출처를 선택하는 것을 요구합니다. GenAI 맥락에서 이것은 더 요구적이 되는데, 학생들은 또한 AI에 대해 [[agency]]를 행사하고 그것에 굴복하기보다 인식론적 경계심을 유지해야 하기 때문입니다. 이 문서고의 연구는 더 [[agentic-ai|주체적]]이고 인식론적으로 선제적인 AI 사용을 촉진하는 [[scaffolding]]의 필요성을 뒷받침하며, 도움 요청이 무조건적 답 추구로 타락할 때 [[cognitive-offloading|과잉 의존]]과 [[cognitive-offloading]]의 위험을 드러냅니다.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+
+### LLM 매개 도움 요청은 네 단계 과정이다
+
+[[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg et al. (2026)]]는 일상적인 STEM 학습에서 LLM 도움 요청이 단일 행위가 아니라 네 단계의 층위적이고 맥락 의존적인 과정임을 보여줍니다. (1) *도움이 필요한지를 결정하는 것* — 학생들은 학습적 가치를 보존하기 위해 먼저 과제를 독립적으로 시도합니다; (2) *누구에게 묻을지를 선택하는 것* — 저장벽의 첫 단계로서 ChatGPT, 그다음 개념적 협상을 위해 동료, 그다음 복잡하거나 고부담 문제를 위해 교수자; (3) *도움의 유형을 결정하는 것* — 힌트와 설명에서 [[problem-solving]]의 비계, 일상적 작업의 간소화, 학습의 확장에 이르기까지; (4) *받은 도움을 판단하는 것* — 선택적 신뢰를 행사하고 AI 출력을 강좌 과제나 인간과 대조하여 검증하는 것. 결정적으로, 학생들은 **집행적 도움 요청**(해법을 얻는 것)보다 **도구적 도움 요청**(이해를 높이는 것)을 선호했으며, 이것은 저자들이 새로운 SRL-for-LLM 측정 항목으로 적응할 것을 제안하는 구분입니다.
+
+완전히 온라인인 [[english-education|작문]]에서는 도구의 이용 가능성이 병목이 아닙니다. [[reed-resource-literacy-genai-composition-2026|Reed(2026)]]는 어려움을 겪는 학생들이 지원이 없는 사람들이 아니라, 도움이 필요한 시점을 인식하지 못하거나, 어떤 자원이 과제에 맞는지, 도착한 피드백을 어떻게 판단할지를 모르는 사람들이었음을 관찰했습니다 — 그리고 유창한 [[generative-ai]] 출력은 권위 있는 지원으로 쉽게 오인됩니다. 그녀의 대응은 도움 요청을 단순히 이용 가능하게 하는 것이 아니라 *구조화*하는 것이었습니다. 과제 요구를 해독하고, 자원을 정당화와 함께 지도화하고, 피드백 출처를 비교하고, 성찰로 고리를 닫는 필수 접점들이 그것입니다.
+
+### 행동 맥락을 가시적으로 만들기: TutorTrace
+
+[[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]]는 [[cs-education|AI 지원 프로그래밍 교육]]에서 도움 요청의 행동적 선행 요인을 다룹니다. 인간 튜터는 명시적 요청뿐 아니라 학습자의 관찰 가능한 행동에 적응하지만, AI 튜터는 그 맥락이 부족합니다. **TutorTrace**는 저수준 IDE 원격 측정으로부터 학습자의 행동 맥락을 실시간으로 계산 가능하게 만드는 데이터 집합과 파이프라인입니다(네 번의 배치, N=480; 약 180K 이벤트, 13,633개의 행동 세그먼트, 27개 지표), 첫 AI 질의 *이전에*, 연속된 질의들 *사이에*, 그리고 *세션 전체에* 걸친 학습자 활동의 유형론을 도출합니다. 이것은 시스템이 질의가 **안내된** 도움 요청(독립적 작업에 선행됨)을 반영하는지 **의존적** 도움 요청(독립적 작업 없음)을 반영하는지를 분류할 수 있게 합니다 — 홀드아웃 예측에서 AUROC=.717 — 그리고 임박한 질의를 예측합니다(AUROC=.726). 예비 교실 평가는 행동 인식 프롬프트가 독립적 작업 없는 질의들 사이의 간격을 50.0%에서 20.7%로 줄였음을 발견했습니다. 이것은 [[learning-analytics]] 원격 측정을 [[intelligent-tutoring|적응적 튜터링]]에 연결하여, 행동 맥락이 규모에 맞게 작동화되어 학생이 도움을 *어떻게* 구하는지를 비계로 세울 수 있으며, 단지 그들의 명시적 질문에 응답하기만 하는 것이 아님을 보여줍니다.
+
+## 설계와 연구에 대한 함의
+
+1. **도움 요청 제공물을 의도적으로 설계하라.** 지속적이고 현저한 도움 버튼은 우회 전략을 가능하게 할 수 있습니다; 접근을 지연시키고 전달을 구조화하여 [[desirable-difficulties|생산적 투쟁]]을 뒷받침하십시오.([[lak2026-hint-button-unproductive-use]])
+2. **도움 요청 자체를 비계로 세우라.** 접근이 좋은 사용과 동일하다고 가정하기보다, 학습자를 추론 중심 요청(단계적 힌트, 검증)에 훈련시키십시오.([[guided-llm-scaffolding-independent-learning]])
+3. **신뢰를 보정하기 위해 투명성을 사용하라.** AI의 오류 가능성에 대해 경고하는 것은 적절한 도움 요청과 참여를 높일 수 있습니다.([[ai-fallibility-warning-help-seeking]])
+4. **비계가 아니라 수용을 측정하라.** 튜터가 그것을 제공하는지뿐 아니라, 학생들이 실제로 교수법적 틀과 참여하는지를 평가하십시오.([[rethinking-scaffolding-llm-tutors]])
+5. **모니터링과 주체성을 뒷받침하라.** 도움 요청 비계는 [[metacognition]]과 [[self-regulated-learning]]을 강화하여 [[cognitive-offloading|과잉 의존]]을 막아야 합니다.
+
+## 연결된 개념
+
+- [[learners]] — 학습자: 학습자 측 개념의 포괄 개념
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[scaffolding]]
+- [[intelligent-tutoring]]
+- [[student-experience]]
+- [[cognitive-offloading]]
+- [[learning-analytics]]
+- [[k-12]]
+- [[higher-ed]]
+- [[socratic-method]]
+- [[pedagogical-agent]]
+- [[ai-literacy]]
+- [[trust-calibration]]
+- [[affective-tutoring]]
+- [[feedback]]
+- [[active-learning]]
+- [[agentic-ai]]
+- [[student-support-and-success]] — 강좌 내 도움 요청을 넘어선 제도적 외부 연락과 지원 배분
+
+## 연결된 문서
+
+- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: LLM을 활용한 펜 기반 상호작용적 제자리 질의응답 시스템
+- [[tutortrace-learner-behavioral-states-2026]]
+- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — STEM에서의 LLM 매개 도움 요청: 층위적이고 도구적이며 검증된
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: 2년간의 학교 실험에서의 Khanmigo
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: 수용과 학습에 관한 실험
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — AI 강좌에서 학생–LLM 대화의 StudyChat 데이터 집합
+- [[lak2026-hint-button-unproductive-use]] — 성급한 힌트 요청과 피상적인 힌트 읽기가 ITS에서 더 낮은 학습 향상을 예측한다
+- [[ai-fallibility-warning-help-seeking]] — AI의 오류 가능성에 대한 경고가 수학 튜터링 시스템에서 도움 요청을 높인다
+- [[regulating-ai-tutor-adolescent-srl]] — 청소년 GenAI 도움 요청과 자기조절 학습에서의 의도–행동 간극
+- [[guided-llm-scaffolding-independent-learning]] — 안내된 LLM 비계가 추론 중심 도움 요청과 독립적 학습을 개선한다
+- [[rethinking-scaffolding-llm-tutors]] — 실제 LLM 튜터 배치에서의 비계/학생 수용 불일치
+- [[uneven-impact-generative-ai-student-learning-2026]] — 초기 의존: 독립적 사고, 검색, 또는 교수자보다 먼저 GenAI를 참고하는 것이 이득과 해악을 모두 예측한다(Manikonda et al. 2026)
+- [[reed-resource-literacy-genai-composition-2026]] — 온라인 작문에서의 자원 리터러시: 병목은 도움이 필요한 시점을 인식하는 것이다(Reed 2026)
+- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
+- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: 학습자가 하는 것에 따라 에스컬레이션하고 걷히는 AI 튜터
+- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: 문제 해결 중 표적화된 AI 도움 요청의 비계
+- [[guided-ai-tutor-impasse-resolution-2026]] — 안내된 AI 튜터가 학생의 막힘을 해결하는 방식의 변화 검토
+- [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System

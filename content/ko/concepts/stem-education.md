@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
 source_updated: "2026-10-03T02:57:43-04:00"
-translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 수 없습니다."
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

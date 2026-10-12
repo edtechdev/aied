@@ -13,7 +13,7 @@ connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
 source_updated: "2026-10-06T02:05:50-04:00"
-translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 수 없습니다."
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
