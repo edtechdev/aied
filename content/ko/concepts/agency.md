@@ -1,0 +1,179 @@
+---
+title: 학습자 주체성
+created: "2026-08-13T18:49:42-04:00"
+updated: "2026-10-04T02:59:54-04:00"
+type: concept
+foundations: [agency, cognitive-offloading, human-ai-collaboration]
+pedagogy: [motivation, self-regulated-learning]
+ethics: [ethics]
+connected_faqs: [group-work-ai]
+audience: [learners]
+confidence: high
+translation_of: concepts/agency
+source_updated: "2026-10-04T02:59:54-04:00"
+translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-11"
+    agent: hermes-agent
+---
+
+*영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+
+> **학습자 주체성** — 학습자가 의도적으로 행동하고, 선택하며, 자신의 학습에 대한 통제를 행사하는 능력입니다. [[ai-education|AI 교육]]에서 주체성은 중심적인 관심사입니다. AI 도구가 학습자의 통제를 뒷받침할 수도 잠식할 수도 있기 때문입니다. 잘 설계된 AI는 학습자의 자율성을 보존하고 증폭하지만, 과의존이나 AI 산출의 수동적 수용은 그것을 침식할 수 있습니다. 주체성은 [[self-regulated-learning]], [[motivation]], [[self-efficacy]], 그리고 AI 시스템의 [[ethics|윤리적]] 설계와 연결되며, 자율성과 행위자 의식의 심리학적 개념과 밀접한 관련이 있습니다.
+
+## 생각해 볼 질문들
+
+- 학습자 주체성 — 의도적으로 행동하고 자신의 학습을 통제하는 여러분의 능력 — 은 AI 교육에서 중심적입니다. AI 도구를 쓸 때, 학습 과정에 대해 여러분이 실제로 유지하는 통제는 어느 정도이며, 도구가 갖는 것은 어느 정도입니까?
+- AI는 주체성을 뒷받침할 수도 잠식할 수도 있습니다. 잘 설계된 AI는 자율성을 증폭하고, 과의존은 그것을 침식합니다. AI에게 그냥 '해 버리게' 한 적을 떠올려 보십시오. 산출이 더 좋아 보였더라도 덜 배웠습니까?
+- 해석을 AI에게 위임하는 학생은 자신의 추론에 대한 주체성을 잃을 수 있습니다. 과제를 AI에 넘길 때, 여러분 자신의 생각 중 어떤 부분을 조용히 내주고 있습니까?
+- 한 연구는 학생의 사전 자기 주도적 AI 학습이 교수로부터 얻는 것이 얼마나 되는지를 예측한다는 것을 발견했습니다 — 주체성이 높은 학습자가 가장 큰 이득을 얻었습니다. 주체성이 부분적으로 여러분이 가져오는 기술이라면, 여러분 자신의 맥락은 그것을 어떻게 가정하기보다 기를 수 있겠습니까?
+- 주체성은 단순한 특성이 아닙니다 — 그것은 집단 작업에서 순간순간 부상하며, AI는 학습자가 알아채지 못하는 사이에 누가 협동을 형성하는지를 재분배할 수 있습니다. 도구가 조용히 집단의 방향을 조종하는 것을 마지막으로 알아챈 것은 언제입니까?
+- 반대적 AI 페르소나는 집단을 생산적 도전으로 밀어낼 수 있지만, 팀워크 만족과 심리적 안전도 낮췄습니다. 심리적 안전 없이도 생산적 마찰이 존재할 수 있습니까 — 그리고 그것은 AI 동료를 설계하는 데 무엇을 함의합니까?
+
+## 들어가며
+
+주체성은 학습이 학습자가 수동적 수용자가 아니라 능동적이고 의도적인 참여자일 때 가장 효과적이기 때문에 중요합니다. AI 시스템 — 튜터링 에이전트, [[educational-robotics|로봇]], [[llm|챗봇]]이든 — 은 학습자가 자신의 학습 과정에 대해 얼마나 많은 통제를 유지하는지를 형성합니다. 따라서 주체성의 보존은 [[self-efficacy]]를 뒷받침하고, [[trust]]를 기르고, [[cognitive-offloading|과의존]]을 피하는 것과 나란히, 교육에서의 책임 있는 AI의 핵심 설계 원리입니다.
+
+**[[mishra-control-vs-agency-history-2025|Mishra 외]]**는 통제 대 주체성을 AI 교육의 본질적이고 반복되는 긴장으로 틀짓습니다 — 초기의 ITS부터 오늘의 [[generative-ai|생성형 AI]]까지 — 이는 학습자 주체성을 이 분야 논쟁의 지속적인 축으로 만듭니다.
+
+**에이전트 도구와 주체성의 제로섬 관점:** [[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis (2026)]]는 교육용 AI 도구에 더 많은 주체성이 주어질수록 학습자가 유지하는 것은 더 적어진다고 주장합니다 — 즉 주체성이 사실상 제로섬 게임이며, 현재의 인간 중심 설계 접근(예: 가치 민감 설계)은 과의존과 고립이 더 넓은 체계적 요인과 가장 쉬운 길을 택하는 인간의 경향에 의해 움직이기 때문에 불충분합니다. 복잡한 체계 안에서 학습자의 번영을 지향하는 그들의 해방적 설계 비전은, 학습자 주체성의 보존과 함양을 생성형 AI 설계의 중심 목표로 다루며, 사후적 고려로 두지 않습니다.
+
+**목적으로서의 주체성, 단지 능력만이 아니라:** 위의 틀짓기들이 학습자가 얼마나 많은 주체성을 유지하는지를 묻는 곳에서, [[fagerlund-competency-agency-purposes-ai-education-2026|Fagerlund 외(2026)]]는 [[ai-education]]가 *무엇을 위한 것*인지를 묻습니다. AI와 함께 그리고 AI에 관해 가르치는 목적에 관해 유아원부터 9학년까지의 핀란드 교사 열세 명을 인터뷰하고, 교육적 목적의 Biesta의 세 영역(자격, 사회화, 주체화)을 통해 그들의 진술을 읽으면서, 그들은 역량을 가장 명확하고 구체적인 종착점으로 발견했습니다. 교사들은 학생들이 AI를 사회기술적 현상으로 이해하고 그것의 도구를 쓰기를 원했습니다. 주체화, 즉 AI와의 자기 결정적이고 개인적으로 의미 있는 참여는 중요하다고 확인되었지만 구체적인 교수 전략 없이 남겨져, 교사들은 고안된 활동보다 일반적인 토론과 성찰에 손을 뻗었습니다. 저자들은 **정보를 갖춘 AI 주체성**을 주체화를 중심에 두면서 [[ai-literacy|역량]]을 그것의 설명적 기초로 다루는 발견법으로 제안하여, 학생들이 어떤 선택지가 존재하는지를 보고 무엇을 추구할지 선택하도록 돕습니다. 실천적 귀결은 직접적입니다. 기술 우선 교육과정은 그것이 섬기기 위한 에이전트적 목적을 밀어낼 수 있으며, 그 해법은 목록에 또 다른 역량을 더하는 것이 아니라 AI 교육의 "왜"를 명시적으로 만드는 것입니다.
+
+## 주체성이 지식베이스의 연구에 나타나는 방식
+
+- **로보틱스와 [[educational-robotics|인간–로봇 상호작용]]:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]]는 [[computational-thinking|계산적 사고]]에서 학습자 주체성을 보존하도록 명시적으로 설계되었습니다. [[human-autonomy-agency-hri-review-2025|한 체계적 문헌고찰]]은 인간–로봇 상호작용이 [[well-being]]과 [[governance]] 논쟁의 중심인 인간 자율성과 행위자 의식에 어떤 영향을 주는지를 검토합니다.
+- **[[collaborative-learning|협동 학습]]:** [[human-ai-collaboration]] [[research-methods-aied|연구]]는 인지 과제가 학습자와 AI 사이에서 어떻게 공유되는지를 검토하며, 주체성은 인간이냐 AI냐가 상호작용을 지휘하는지를 결정합니다.
+- **비판적 [[student-engagement|참여]]:** [[cognitive-offloading|인지적 부담 전가]] 연구는 해석을 AI에게 위임하는 학생이 자신의 추론에 대한 주체성을 어떻게 잃을 수 있는지를 보여 줍니다. 비판적이고 [[metacognition|메타인지적]] 접근은 그것을 보호하는 것을 목표로 합니다.
+
+**열 개 모형에 걸친 비교에서, 주체성의 뒷받침은 학습 다음으로 가장 취약한 곳입니다.** ImpactBench는 Agency & Purpose를 긍정 기준에서 56.0%(95% CI [49.2, 62.5]), 부정 기준에서 43.9%([36.9, 50.8])로 측정하여 14개 하위 영역 중 두 번째로 낮았고, 그것의 자율성 보존 지원 기준은 한 모형이 행동 강도를 처방하기보다 맥락과 절충안을 제시하는지를 묻습니다([[impactbench-ai-impact-on-humans-2026|ImpactBench (2026)]]). 모형들은 또한 해를 피하는 데서 도움이 되는 데서보다 훨씬 덜 일관적이었습니다. 38.6포인트 대 15.9포인트입니다.
+
+비용은 어떤 층위가 위임되는가에 달려 있습니다. 8주간의 쓰기 연구에서, 추론의 위임 — 논거, 반론, 증거 해석 — 은 독립적 수행과 가장 강한 음의 연관을 지녔고(ab = −0.34), 자기조절적 쓰기는 그것을 약화시켰으나 뒤집지는 못했습니다([[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]]).
+
+342명의 학부생과 85개의 고정된 쓰기 집단에 대한 3개 시점 패널 연구는 그 우려에 시간적 방향을 부여합니다. 무작위 절편 교차 지연 패널 모형에서 안정적인 사람 간 차이를 분리한 뒤, 평소보다 높은 [[generative-ai|GenAI]] 의존은 이후의 낮은 인식된 주체성을 예측했고, 주체성에서 의존으로 가는 경로는 더 약하고 통계적으로 뒷받침되지 않았으며, 비록 신뢰 구간과 몬테카를로 민감도 분석이 작은 역효과의 가능성을 남겨 두었습니다. 그것의 로그 자료는 또한 사용량을 잃어버린 주체성으로 읽는 것에 경고합니다 — 자기보고된 의존은 AI 사용 강도와 실제로 대응했지만, 로그는 전략적 상담과 [[cognitive-offloading|부담 전가]] 또는 추종을 구별할 수 없었으므로, 대시보드는 강도를 담론, 성찰, 수정의 증거와 나란히 읽어야 합니다.([[genai-reliance-human-agency-collaborative-learning-2026|Wu & Lu, 2026]])
+
+상호 보완적인 설명은 SRL을 대체하기보다 넓힙니다. [[de-barba-srl-genai-2026|de Barba (2026)]]는 규제(자기 과정의 관리), 통합(시간과 맥락에 걸친 자아의 조직), 위치 짓기(환경이 측정하는 것을 비판적으로 해석하기)를 구별하고, 주체성 지향적 설계가 행동적 대용물을 최적화하기보다 학습자를 "조건 안에서의 주체성"에서 "조건에 대한 주체성"으로 옮겨야 한다고 주장합니다.
+- **주체성을 위한 설계:** 지식 기반의 [[educational-robotics|생성형 사회 로봇]] 설계([[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]])는 학습자 주체성을 잠식하는 과의존 같은 위험을 다룹니다.
+- **연장된 참여가 아니라 인계를 위한 설계.** Amico 이중 모드 프로토타입은 AI를 경계가 정해진 임시적 매개로 다루며, 그 성공은 AI와 함께 보낸 시간이 아니라 교사, 동료, 공동체로의 관찰 가능한 전이로 측정됩니다. 그것의 이탈리아–중국 파일럿에서 학습자들은 그것을 관계적 대체물이 아니라 경계가 정해진 도구로 인식했습니다([[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]).
+- **적응적 비계는 전문적 자율성과 거래된다.** [[skill-sustaining-reliance-reflective-ai-engagement-2026|de Jong (2026)]]는 적응이 시스템이 사용자의 역량을 평가할 것을 요구하므로 전문가들이 자신의 발달에 대한 권위를 줄이고 전문가를 과도하게 비계화할 위험이 있다고 주장하며, 불필요하다고 인식되는 메커니즘은 단순히 무시될 것이라고 말합니다 — 어떤 사용자가 비계를 받을지를 누가 결정하는지는 열린 채로 남습니다. 시스템인지, 조직인지, 아니면 전문가 자신인지.
+- **더 capable한 비계가 더 많은 주체성은 아니다.** 맞춤형 전문가 설계 봇은 예비 교사의 상호작용 길이와 자기 생성 프롬프트를 높였지만, 참여자들이 봇을 비판하기보다 동의했기 때문에 협동적 문제 해결 주체성은 그 경우와 ChatGPT 경우 모두에서 떨어졌습니다([[preservice-teacher-agency-genai-design-learning-2026|Krushinskaia 외(2026)]]).
+- **사전 주체성이 누가 이득을 얻는지를 예측한다:** Bandura의 사회인지이론에 의지하여, [[school-ai-education-readiness-gaps-agency-2026|Liang 외(2026)]]는 학생들의 **사전 자기 주도적 AI 학습**(주체성의 행동적 발현)이 1년의 [[k-12|학교]] AI 교수로부터 얻는 것이 얼마나 되는지를 예측한다는 것을 보여 주었습니다 — 주체성이 높은 학습자는 가장 강한 준비 상태로 들어왔고, 학교 교육과정은 심리적 간극은 좁혔지만 인지적 간극은 온전히 남겨 두었습니다. 구조화된 교수와 사전 주체성 관련 학습은 대체물이 아니라 *상승적으로* 함께 작동했습니다.
+- **기술 변화 아래 교사 주체성으로서의 원칙에 기반한 선택성:** [[ai-integrated-teaching-identity-tensions|Adiozaman and Segar (2026)]]는 숙련된 교사 두 명을 한 학기에 세 번 인터뷰하여, 그들이 AI 매개 교수를 전체적으로 받아들이거나 저항해서가 아니라 교수법적 가치, 윤리적 헌신, 전문적 판단에 의해 안내되는 의도적이고 맥락에 민감한 결정으로 항해했다는 것을 발견했습니다 — 이것은 저자들이 *원칙에 기반한 선택성*이라고 부르는 유형으로, 특정 사용의 거부가 실패한 도입이 아니라 판단으로 세어집니다. 이것은 위의 학습자 연구 결과에 대한 교사 쪽의 대응물입니다. 고르지 않은 AI 사용은 주체성의 부재가 아니라 그것의 행사가 될 수 있습니다.
+- **학습자 주체성을 매개하는 조건으로서의 교사 주체성:** 가장 최근의 교사 쪽 연구 결과는 위의 학습자 연구 결과가 암묵적으로 남겨 둔 구분을 명시적으로 만듭니다. 교사 주체성은 설계 시의 것이며 매개적이고, 학습자 주체성은 순간에 행사되며, 전자가 후자의 조건을 설정합니다. [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]]는 8주간의 ChatGPT-4 개입에 걸쳐 중등 수학 교사 열 명을 추적하여, 교사가 AI 산출을 선별하고 심문한 곳에서는(개방된 문제를 제기하고, 해법을 보류한 채 힌트를 풀도록 도구를 사전에 프롬프트하며, AI 산출을 학생 자신의 작업 옆에 놓고 어떤 방법이 더 나은지를 논쟁하게 요구하는 것) 그것이 비판을 위한 잠정적 산출물이 되고 학생들은 추측과 메타인지적 질문으로 나아갔습니다. 매개가 없는 곳에서는 권위가 알고리즘 쪽으로 이동하고 교사들은 지식의 일차 자료가 아니라 검증자가 되었는데, 한 교사가 "예언자"에서 "편집자"로의 이동이라고 묘사한 변화입니다. 불균등한 도구 질은 그 매개가 짊어져야 할 것을 높입니다. 각 모형에 세 번 제출된 50개의 프롬프트에 걸쳐, 무료 등급은 150개 응답 중 49개(32.7%)에서 부정확했고, 프리미엄 등급은 150개 중 18개(12%)였습니다(χ2(1) = 17.5, p < .001). [[charles-teacher-readiness-by-design-ai-rich-2026|Charles (2026)]]는 준비도의 함의를 끌어냅니다. 교사 주체성은 설계 결정과 산출물을 통해 동원되는 전문적 자원이므로, 준비도는 교사들이 AI를 얼마나 자주 쓰는지가 아니라 그들이 생산하는 설계로 판단되어야 하며, AI를 보류하기로 한 이성적 결정 자체가 준비도를 입증할 수 있습니다. 함께 읽으면, 이 연구 결과들은 높은 AI 사용을 에이전트적 수업의 증거로 읽는 것에 경계합니다. 학습자 주체성을 보존하는 기질은 도구가 켜져 있는지가 아니라 교사가 설계하고 비판하는 것에서 행사되기 때문입니다.
+- **교사-학생 통제는 제로섬이 아니다 — 그러나 옳은 분배는 단계에 의존한다.** 34개의 하이브리드 통제 설계에 우열을 매긴 교사 17명과 학생 13명의 참여적 스피드 데이팅 연구는, 두 집단 모두 준비와 개시 단계에서는 강한 교사 통제를 선호하고 협동이 전개됨에 따라 점진적으로 더 많은 학생 의견을 원했다는 것을 발견했고 — 어떤 집단도 완전한 학생 통제를 선호하지 않았습니다. 그 선호는 서로를 거울처럼 반영했습니다. 교사들은 짝짓기 시점에 대한 더 많은 통제를 원한 반면 학생들은 준비 상태의 자기 신호를 원했고, 학생들은 교사의 동료 선택을 신뢰한 반면 교사들은 동료에 관한 학생의 목소리를 원했습니다. 설계 함의는 다음과 같습니다. 의사결정 지점과 단계별로 주체성을 배분하고, 자유로운 형태의 재정의보다 교사 대면 분석으로 검증된 경계가 정해진 구조화된 학생 제안을 쓰십시오.([[yang-balancing-teacher-student-agency-2026]])
+- **선택에의 접근은 행동하는 주체성과 같지 않다:** [[learner-agency-ai-simulation-2026|Su, Nair and Nagashima (2026)]]는 군집 [[simulation]]의 매개변수 통제를 [[pedagogical-agent|대화형 에이전트]]에의 선택적 접근과 교차하는 2 × 2 설계로 [[higher-ed|대학]]생 69명을 무작위 배정하여, 사전 지식이 통제된 뒤 어떤 제공물도 [[learning-gains|학습 이득]]에 신뢰할 만한 효과가 없다는 것을 발견했습니다(매개변수 통제 F(1, 50) = 0.04, p = .849; 에이전트 F(1, 50) = 2.68, p = .108). 이득은 통제가 *어떻게* 사용되었는지를 따랐습니다. 개념적으로 가장 복잡한 강의에서 슬라이더 시간은 더 높은 이득을 예측했고(β = .11, p = .007), 더 쉬운 강의에서 같은 행동은 더 낮은 것을 예측했으며(β = −.04, p = .047), 선택적 에이전트와의 참여는 학습자당 0개에서 32개의 질문 범위였고 결과와 관련이 없었습니다. 저자들은 이것을 주체성이 *부여되는 것이 아니라 행사된다*고 읽습니다. 설계 질문은 무엇이 변경할 가치가 있는지를 학습자가 결정하고 그 귀결을 알아채도록 돕는가입니다.
+- **초기 경력 연구에서의 인식론적 위임:** [[ai-mediated-research-agency-formation-2026|Han and Liu (2026)]]는 박사 과정과 박사후 연구자들 사이의 AI 의존을 *인식론적 위임*으로 틀짓습니다 — 문제 구성, 방법 선택, 해석 권위를 지능형 시스템으로의 이전 — 그리고 그것이 [[self-efficacy|연구 자기효능감]]과 연구 자율성 모두와 음의 연관이 있다는 것을 발견하고, 지도 교수의 지원이 그 손실을 완충한다는 것을 발견했습니다. 이것은 주체성 논쟁을 학습자 자율성에서 연구자 자신의 형성으로 확장합니다.
+
+주체성은 [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], [[cognitive-offloading|과의존]], [[metacognition]]와 연결됩니다. 그것은 [[educational-robotics|로보틱스]], [[intelligent-tutoring|튜터링]], 그리고 [[pedagogical-agent|AI 학습 에이전트]]의 설계에서 핵심적인 고려 사항입니다.
+
+- **인식론적 통제로서의 경계가 정해진 사용, 망설임이 아니라.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]]는 484개의 응답을 얻은 [[higher-ed|대학]] 설문에서 성적이 높은 학생들이 더 낮은 능동적 AI 참여와 더 낮은 [[self-report-measures|인식된 학습]] 영향을 보이면서 *또한* 더 낮은 AI 관련 비참여를 보고하고, 자신들의 사용을 검증 집약적으로 묘사했다고 보고합니다. 산출을 확인한 뒤 그것을 자신의 추론에 종속시키는 것입니다. 회피가 아니라 주체성으로 읽으면, 그 유형은 판단의 의도적 유지입니다 — 학생들이 명확화와 요약에는 도구를 쓰면서 결론의 저자로서의 지위를 유지하는 것.
+
+지속된 경계 작업이, 도구 기술이 아니라, 주체성을 위임과 구별하는 것입니다. 같은 검색 기반 도구를 쓰는 학생들은 그것의 산출을 제약하고 다시 저술하든지 초기에 해석을 양도하든지 간에 비슷하게 다듬어진 산출물을 생산했으므로, 그 차이는 오직 프롬프트, 지연, 수정, 거부에 나타났습니다([[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne, 2026]]).
+- **행동하고, 알고, 답하는 것은 같은 것이 아니다.** 366개의 [[generative-ai|GenAI]] 고등교육 초록에 대한 코퍼스 보조 담론 분석은 AI를 2,050번 행위자로 지명하면서도 결코 그것을 답변 가능하게 만들지 않고, 산출을 판단하고 주장을 검증하는 책임은 학생에게 놓이는데, 이는 문법적 활성화, 기능적 행위자성, 인식론적 권위, 규범적 책임성이 서로 갈라진다는 것입니다([[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal, 2026]]).
+- **주체성에는 세 가지 유형이 있고, 셋째는 정책이 제공하는 것입니다.** 교사의 18%와 교장의 24%만이 학교 AI 정책을 보고하는 가운데, 대부분의 교육자는 자신을 대신해 행동하는 대리 주체성 없이 개인적 주체성을 행사합니다 — 기관의 규칙이 제공하는 Bandura의 세 번째 유형([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]]).
+
+## 상호작용적으로 부상하는 현상으로서의 주체성
+
+학습자 주체성은 정적인 개인적 특성만이 아닙니다 — 그것은 또한 담론과 집단 작업의 순간순간의 조정을 통해 행사되는 **상호작용적으로 구성되는 부상적 과정**입니다. 협동 학습에서 주체성은 발산적 과정(아이디어 생성, 대안 탐색)과 수렴적 과정(평가, 통합, 종합)의 상호작용을 통해 분배되고 재협상됩니다. 이 관점이 AI에 관해 중요한 이유는 [[agentic-ai|에이전트 AI]] 시스템이 집단 안에서 인식론적이고 규제적인 노동을 미묘하게 *재분배*하여, 누가 기여하고, 누가 방향성을 형성하며, 누가 진전을 규제하는지를 다시 빚을 수 있고 — 흔히 학습자가 의식하지 못하는 사이에 그렇게 할 수 있기 때문입니다.
+
+- **역량 구성의 부상적 질로서의 주체성.** Human-AI Collaboration Competency 틀은 학습자 주체성을 독립 구성 요소로 의도적으로 배제하고, 그것을 학습자들이 영역, [[ai-literacy|AI]], [[metacognition|메타인지적]] 역량을 조정할 때 표현하는 것으로 다룹니다 — 학습자 자신의 메타인지적 [[regulation]]으로 넘어가는 TPACK이 교수법에 부여하는 통합적 작업입니다. 24명의 고등교육 교육자에 걸쳐 모든 차원이 그들의 담론에 나타났고, 영역(코딩 단위의 12–19%)과 AI(16–22%)가 전면에 섰습니다([[dang-human-ai-collaboration-competency-2026|Dang 외, 2026]]).
+- **[[jin-emergent-learner-agency-implicit-hai-2026|Jin 외(2026)]]**는 가장 직접적인 증거를 제공합니다. AI가 *공개되지 않은 동료*로 작동한 큰 규모의 실험(학생 224명, 삼인조 97개)에서, 지지적이고 반대적인 AI 페르소나 모두 부상적 주체성을 재구성했습니다. 반대적 AI는 담론을 도전과 성찰 지향적인 궤적으로 끌어당겼고([[desirable-difficulties|생산적 마찰]]), 지지적 AI는 합의를 안정화하고 새로운 발상을 촉진했습니다.
+- **담론 거버넌스 메커니즘으로서의 AI 페르소나.** 반대적 페르소나는 *도전하기*의 부담을 외재화하여(비판 쪽으로 인식론적 노동을 재분배), 지지적 페르소나는 *확인*과 합의 유지를 외재화했습니다. 그 연구는 여섯 가지 부상적 주체성 유형을 식별했는데 — 특히, **성찰적 [[regulation]]은 독보적으로 인간적인 것**이었습니다(AI는 비판과 확인을 외재화했지만 메타 수준의 감시는 하지 않았습니다).
+- **마찰의 [[affective-computing|정서적]] 비용.** 반대적 AI는 [[creativity|창조적]] 수행 이득을 산출하지 않으면서 팀워크 만족과 심리적 안전을 낮추어, 인식론적 자극을 경험적 [[sustainability]]과 분리시켰습니다. 이것은 "생산적" 담론 구조가 그것의 정서적 귀결과 나란히 해석되어야 한다고 경계합니다 — 주체성은 심리적으로 안전한 기후 안에서만 번성합니다.
+- **암묵적 AI 참여는 보이지 않는 거버넌스이다.** 페르소나가 AI 공개 없이도 작동했기 때문에, 그 연구는 페르소나 설계를 협동 과정에 대한 보이지 않는 거버넌스의 한 형태로 위치시킵니다 — 이것은 자신의 존재를 알리지 않고도 기여를 형성할 수 있는 글쓰기 보조 도구, [[peer-assessment]] 시스템, 팀워크 플랫폼에 직접적인 함의를 지니는 발견입니다.
+
+- **[[group-work|집단 기반 평가]]에서 주체성의 세 가지 유형.** [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]]는 실제적인 집단 발표에 관해 예비 교사 15개의 포커스 그룹을 인터뷰하여, 주체성이 한 번에 세 방향으로 작동한다는 것을 발견했습니다. 다섯 집단은 GenAI 사용을 협동 인프라로 *강화*했고(협동 지향적 주체성 — 동료의 부분을 해독하고, 부분들을 정렬하고, 공유된 성적을 보호하는 것), 일곱은 그것을 *제약*했으며(규범적 주체성 — 진정성, [[bias-mitigation|공정성]], 독창성, 관점의 다양성을 보호하기 위해 그어진 경계), 셋은 개인 작업으로부터 실천을 바꾸지 않았습니다(행사되지 않은 주체성, 개인의 역량이 결코 집단적으로 동원되지 않은 것). 그들의 구분이 중요한 이유는, 여기서의 제약이 순응이나 비참여가 아니라 규범적 [[self-regulated-learning|자기조절]]이었고, 역량만으로는 집단적 주체성을 산출하지 못했기 때문입니다. 집단 구성원 자격은 또한 집단 작업이 만들어내기로 된 책임을 역전시켰습니다. 허용적인 집단 기후는 헌신을 높이기보다 [[ai-misuse-learning-harm|오용의 위험]]에 대한 인식을 낮췄습니다.
+
+- **관계적 자아로서의 주체성.** Xie(2026)는 AI 비판조차 전제하는 개인주의적 주체성 모형에 도전합니다. 다른 이들과 우주와의 관계를 통해 구성되는 "흐르고 이질적인" 자아라는 도가적 관계적 자아에 의지하여, 그는 [[digital-divide|디지털 격차]]나 알고리즘적 차별이 "자아의 근본적 구성의 위반"이며, 학습에의 접근의 평등이 "단순히 윤리적 명령이 아니라 존재론적 부여"라고 결론 내리고, 비대칭적 권력과 환경 비용이 외부 효과가 아니라 자아의 "본질적 차원"이라고 말합니다. 그의 대안적 이상인 "Zhenren"(真人) 또는 자연적 학습자는 AI를 인지적 대리물이 아니라 "도구적 보조물"로 다루며 — 주체성을 마찰 없는 최적화가 아니라 함양된 온전함으로 봅니다.([[daoism-ai-education-philosophy-2026]])
+
+협동적 상황을 위해 이것은 설계 질문을 다시 틀짓습니다. AI가 동료로 참여할 수 *있는가*가 아니라, 그것의 유형화된 참여가 인식론적 엄밀함, 정서적 안전, 학습자의 소유 의식을 어떻게 균형 잡는가입니다. 경계가 정해진 마찰(제약된 도전, 통합적이고 수복적인 움직임과 짝을 이룬 것)과 명시적인 메타 협동 문해력이 권고되는 안전 장치입니다.
+
+주체성에 대한 구조적 읽기가 [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma의 기쁨의 평가 틀]]에 나타납니다. 거기서 주체성은 동기가 아니라 설계 속성으로 다루어집니다. 학생들이 과제의 순서를 고르고, 속도를 정하며, 상호작용이 끝나는 시기를 신호하여, 지원이 이용 가능하게 유지되면서 작업에 대한 책임은 학습자에게 남습니다. 그들이 이름 붙이는 메커니즘은 평가입니다 — 청중 없이 예행하고 언제 시작할지를 고르는 것이 한 과제의 의미를 판결에서 학생이 형성할 수 있는 어떤 것으로 바꾸는데, 저자들은 그 변화를 반복적으로 경험하는 것이 간헐적인 효능감을 평가에 대한 일상적 태도로 굳히는 것이라고 주장합니다.
+
+## 학습자 정체성과 대비되는 주체성
+
+[[learner-identity|학습자 정체성]]과 학습자 주체성은 혼동하기 쉽지만 다른 것을 지명합니다 — 그리고 둘 다 AI에 의해 다시 빚어집니다.
+
+- **주체성은 행사되고, 정체성은 거주된다.** 주체성은 의도적으로 행동하고 자신의 학습을 *지금* 지휘하는 [[situated-learning|상황적]] 능력입니다 — 가변적이고 상호작용적인 속성. 정체성은 자신이 학습자로서 *누구이며* *되어 가는가*에 관한 더 지속적인 서사적 감각입니다. 주체성은 *과정*입니다. 정체성은 그것으로부터 축적되는 *존재의 상태*입니다.
+- **정체성은 내면화된 주체성이다.** 반복되는 에이전트적 행위 — 선택하고, 저술하고, 지속하는 것 — 은 학습자가 자신을 에이전트적이고 유능한 사람으로 보게 되는 방식입니다. 정체성은 인정과 소속에 의해 강화되는, 시간에 걸친 주체성의 침전물입니다.
+- **구별되는 실패 유형.** 주체성은 [[cognitive-offloading|과의존]]과 수동적 수용에 의해 침식됩니다(학습자가 추론을 지휘하는 것을 멈춤). 정체성은 저자십 상실과 역량 위협에 의해 침식됩니다(학습자가 산출이 자신의 것이라고 느끼는 것을 멈추거나, 자신이 그 영역에 속한다고 느끼는 것을 멈춤). [[jin-emergent-learner-agency-implicit-hai-2026|인식론적 노동의 암묵적 AI 재분배]]는 주로 주체성의 관심사입니다. 창조적 영역의 [[t2i-competence-paradox-2026|역량 역설]]은 주로 정체성의 관심사입니다.
+- **둘 다 설계되어야 한다.** 주체성 지향적 설계는 통제와 선택을 보존하고(경계가 정해진 [[desirable-difficulties|마찰]], [[human-in-the-loop-ai|인간 개입]] 감독, [[explainable-ai|투명성]]), 정체성 지향적 설계는 저자십과 인정을 보호합니다([[authentic-assessment|진정한 평가]], AI 대 인간 기여의 명확한 귀인, 학습자가 한 영역을 주장할 수 있게 하는 과제). 저자십을 보호하지 않고 주체성을 보호하는 것은 통제는 지키지만 자아가치를 지키지 않으며 — 그 반대도 마찬가지입니다.
+
+행사된 주체성과 안정된 정체성 사이의 이 구분은 거부에 적용됩니다. [[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami (2026)]]가 묘사하듯, 평가를 위한 글쓰기에서 챗봇을 거절하고, 보조 없는 추론을 위해 그것을 금지하고, 학생 지원의 자동화된 분류에 저항하며, 조달을 미루는 것은 하나의 지속적인 기질이 아니라 별개의 체계에 대한 별개의 관계이며, 개인적, 교수법적, 전문적, 행정적, 기관적 수준에 걸쳐 있습니다. 그 권리는 고르지 않게 배분됩니다. 학업적 확신이 있는 학생은 처벌 없이 거절할 수 있지만, 언어, 접근성, 또는 빠른 피드백 지원이 필요한 학생들은 거부를 잃어버린 기회로 읽고, 확고한 학자들은 원칙에 따라 거절하는 반면 가벼운 직원들은 도입의 압력을 느낍니다. AI가 인프라에 놓이는 곳에서, 거부는 개인의 거부에서 조달, 감사, 이의 제기 가능성으로 이동됩니다.
+
+## 생태적 공동 주체성 틀: 인식론적 설계 문제로서의 주체성
+
+[[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]는 학습자 주체성을 근본적으로 *인식론적* 관심사로 다시 틀짓습니다. [[generative-ai|생성형 AI]]는 단순히 도구를 더하는 것이 아니라 인식론적 권위 — 지식을 생산하고, 주장을 검증하며, 학습의 증거를 만드는 능력 — 를 교사에서 학생으로, 그리고 기계로 재배정합니다. 이 논문의 **생태적 공동 주체성 틀**은 공동 주체성을 세 개의 상호의존적인 차원 사이의 관계로 다루며, 모두가 양보할 수 없는 조건인 인간의 인식론적 책임에 의해 경계 지어집니다.
+
+- **관계적 공동 주체성** — 학생, 도구, 맥락 사이의 상호작용의 산출로서의 주체성으로, 어떤 과제가 AI에 위임되고 어떤 것이 유지되는지의 투명한 분배를 요구하고, 인간이 일차적 책임을 유지하고 감시 역량으로 행하는 윤리적 공동 주체성을 더합니다.
+- **규제적 공동 주체성** — [[self-regulated-learning|자기조절 학습]] 순환(사고, 수행, 성찰)을 AI 매개에 사상하기. GenAI가 학습자의 시도 *전에* 들어가느냐 *후에* 들어가느냐가 그것이 인식된 통제를 증폭하는지 침식하는지를 결정합니다. 전략적 [[cognitive-offloading]]은 부담 전가의 결정이 일상적이 아니라 의도적일 때만 변혁적 학습을 뒷받침합니다.
+- **[[pedagogy|교수법적]] 공동 주체성** — [[teacher-role|교사]]를 중심에 두고, 개인의 기질이 아니라 기관의 지원에 의존하는 관찰자–채택자–협력자–혁신자 연속체를 따라 움직이는 것.
+
+이 틀의 경계 조건은 **이의 제기 가능성**(AI 산출에 질문하고 교차 검증하는 능력), **출처**(훈련 자료와 산출이 어디에서 오는지를 아는 것), 그리고 **도덕적·지적 공로의 비위임**(학생의 복지, 학업적 지위, 성적에 관한 고위험 판단이 오직 AI에 의해 결정되어서는 안 됨)을 요구합니다. 이것은 교육자와 [[stakeholders|정책 입안자]]에게 인간과 인공의 기여 사이의 모호한 "균형"보다 더 정밀한 어휘를 제공하며, 주체성을 [[ethics]], [[assessment]], [[equity-in-ai-education]], [[governance]]와 연결합니다.
+
+밀접히 관련된 틀짓기는 **관계적 인식론적 주체성**입니다([[du-yuan-epistemic-dependence-2026|Du & Yuan 2026]]). 그것은 주체성이 의존으로부터의 고립이 아니라 사회적으로 가능해지고 기술적으로 매개된다는 데 동의합니다. 생태적 공동 주체성 틀이 인간의 인식론적 책임을 양보할 수 없는 경계로 강조하는 곳에서, Du와 Yuan은 명시적인 *비대칭*을 유지합니다. AI 시스템은 상호 책임이나 정당한 권위를 지니지 않고서도 추론을 형성하고 확장할 수 있습니다. 그들의 여섯 가지 진단 기준 — 이의 제기 가능성, 회복 가능성, 이전, 추적 가능성, 분산된 책임, 인식론적 다원성 — 은 인간–AI 관계가 주장이 형성되고, 평가되고, 수용되는 방식에 학습자가 참여하는 능력을 보존할 때와 그것이 단순히 산출물을 전달할 때를 구별하는 실천적 시험을 제공합니다. 이 설명에서 주체성은 도구로부터의 독립이 아니라 지식을 매개하는 체계와 *함께, 그것을 통해, 그것에 맞서* 책임 있게 판단하는 능력입니다.
+
+- **메커니즘이자 위험이기도 한 위임된 주체성.** [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]]는 AI에의 인지 작업 위임을 학습이 일어나는 방식의 일부로 다루며, 단순히 그것에 대한 위협으로 다루지 않습니다. 그들의 설명에서 보조된 수행은 학습자가 문제 구성, 기준 설정, 답변 정당화에 대한 책임을 유지할 때만 지속 가능한 역량이 되며, 그들이 위임된 주체성이라고 부르는 노동 분담입니다. 이것은 배분 자체를 설계 변수로 만듭니다. 같은 도구가 어떤 책임을 흡수하느냐에 따라 학습자 주체성을 보존할 수도 해체할 수도 있기 때문입니다.
+
+## 연결된 개념
+- [[learners]] — 학습자 쪽 개념의 포괄 항목
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
+- [[learner-identity]] — 진화하는 학문적, 전문적, 창조적, 학업적 학습자 정체성
+- [[self-directed-learning]]
+- [[self-regulated-learning]]
+- [[motivation]]
+- [[self-efficacy]]
+- [[student-experience]]
+- [[metacognition]]
+- [[ethics]]
+- [[cognitive-offloading]]
+- [[educational-robotics]]
+- [[behaviorism]]
+- [[framing-ai-use-for-students]]
+- [[human-ai-collaboration]] — AI 매개 상호작용의 공유된 방향
+- [[agentic-ai]] — 집단 안에서 주체성을 재분배할 수 있는 자율 AI
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[social-emotional-learning]] — Social-Emotional Learning
+- [[cognitive-surrender]]
+
+## 연결된 문서
+- [[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
+- [[genai-reliance-human-agency-collaborative-learning-2026]] — A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning
+- [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
+- [[dang-human-ai-collaboration-competency-2026]] — Learner agency as the emergent quality of coordinating domain, AI and metacognitive competencies, not a standalone node (Dang et al. 2026)
+
+- [[learner-agency-ai-simulation-2026]] — Access to choice vs. agency enacted: sliders, an optional AI agent and learning in a flocking simulation
+- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
+- [[ai-mediated-research-agency-formation-2026]] — AI-mediated research agency formation in early-career scientific training
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
+- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
+- [[reclaiming-epistemic-agency-co-agency-2026]]
+- [[du-yuan-epistemic-dependence-2026]] — Relational epistemic agency and six criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
+- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
+- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
+- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
+- [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
+- [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history
+- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
+- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
+- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
+- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
+- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Foster student agency in learning-relevant work
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
+- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision: agency as zero-sum with tool agency
+- [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of agency in GenAI-mediated group assessment: intensified, restrained, and not enacted
+- [[ai-integrated-teaching-identity-tensions]] — Principled selectivity as teacher agency in AI-integrated teaching (Adiozaman & Segar 2026)
+- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal as diagnostic evidence: non-use as a situated relation and the uneven right to decline AI (Zagami 2026)
+- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — epistemic authority asserted through interruption, correction and refusal rather than maximal tool use
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Competency vs. agency as the purposes of AI education, and the informed AI agency heuristic (Fagerlund et al. 2026)
+- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Teacher mediation as the condition keeping GenAI an artifact for critique rather than an authority (Canonigo 2026)
+- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Teacher agency as a resource mobilized through design, with readiness judged from artifacts rather than usage (Charles 2026)
+- [[yang-balancing-teacher-student-agency-2026]] — Balancing teacher and student agency in co-orchestration tools for real-time dynamic pairing (Yang et al. 2026)
