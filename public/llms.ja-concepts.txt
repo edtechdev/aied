@@ -1,7 +1,7 @@
 # AI in Education Knowledge Base — Concepts and FAQs
-> Full text of 220 concept pages and 37 FAQ pages from the AI in Education Knowledge Base: the syntheses of what the research shows, and the questions those syntheses answer. Small enough to attach to a chat that will not take the complete file.
+> これは英語版ナレッジベースの自動翻訳であり、母語話者によるレビューはまだ行われていません。概念ページとよくある質問のページを含みます。論文のページは英語のままです。
 
-Each page below is linked at its address on the site, so an assistant that can browse may prefer to follow the link; the text is included so an assistant that cannot browse can still answer from it. The individual research papers behind these syntheses are linked from each page and are not reproduced here.
+以下の各ページは、サイト上のアドレスにリンクされています。閲覧できるアシスタントはリンクをたどることをおすすめしますが、閲覧できないアシスタントも本文から回答できるよう、テキストも収録しています。これらの総括の元になっている個別の研究論文は各ページからリンクされており、ここには転載していません。
 
 # Concepts
 

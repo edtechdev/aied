@@ -25,6 +25,7 @@
         "label": "Español",
         "style": "Neutral Spanish; keep 'prompt' untranslated",
         "offlineDescription": "Esta es una traducción automática de la base de conocimiento en inglés y todavía no ha sido revisada por hablantes nativos. Incluye las páginas de conceptos y de preguntas frecuentes; las páginas de artículos siguen en inglés.",
+        "llmsNotice": "Cada página de abajo está enlazada en su dirección del sitio, así que un asistente que pueda navegar puede preferir seguir el enlace; el texto se incluye para que un asistente que no pueda navegar también pueda responder a partir de él. Los artículos de investigación individuales en los que se basan estas síntesis están enlazados desde cada página y no se reproducen aquí.",
         "taxonomyHeadings": {
           "Foundations of AI in education": "Fundamentos de la IA en la educación",
           "Learning and instruction": "Aprendizaje y enseñanza",
@@ -94,6 +95,7 @@
         "label": "Français",
         "style": "Standard French; keep product names in English",
         "offlineDescription": "Ceci est une traduction automatique de la base de connaissances anglaise, non relue par un locuteur natif. Elle comprend les pages de concepts et de FAQ ; les pages d'articles restent en anglais.",
+        "llmsNotice": "Chaque page ci-dessous est liée à son adresse sur le site ; un assistant capable de naviguer pourra préférer suivre le lien. Le texte est inclus pour qu'un assistant qui ne peut pas naviguer puisse néanmoins y puiser ses réponses. Les articles de recherche individuels qui sous-tendent ces synthèses sont liés depuis chaque page et ne sont pas reproduits ici.",
         "taxonomyHeadings": {
           "Foundations of AI in education": "Fondements de l'IA dans l'éducation",
           "Essentials": "Essentiels",
@@ -163,6 +165,7 @@
         "label": "中文",
         "style": "Simplified Chinese; keep product names in English",
         "offlineDescription": "这是英文知识库的机器翻译，尚未经母语者审校。包含概念页与常见问题页；文章页仍为英文。",
+        "llmsNotice": "以下每一页都链接到其在网站上的地址，能够浏览的助手可以优先选择访问链接；此处一并收录正文，以便无法浏览的助手同样能够依据内容作答。这些综述所依据的各篇研究论文已从对应页面链接，未在此转载。",
         "taxonomyHeadings": {
           "Foundations of AI in education": "教育中的人工智能基础",
           "Essentials": "核心概念",
@@ -250,6 +253,7 @@
           "coverAlt": "Cover der offenen Ressource Wissensbasis zu KI in der Bildung: schlichter weißer Hintergrund mit kräftigen blauen Balken oben und unten; der Titel in großer, dunkler Serifenschrift; eine radiale Konzeptkarte, die den Umfang der Ressource zeigt, mit dem zentralen Knoten „KI in der Bildung“, verbunden mit zwölf ihn umgebenden Themenknoten; Gemeinfreiheitszeichen (CC0) am unteren Rand."
         },
         "offlineDescription": "Dies ist eine automatische Übersetzung der englischen Wissensbasis, die noch nicht von einer muttersprachlichen Person geprüft wurde. Sie enthält die Konzept- und FAQ-Seiten; die Artikelseiten bleiben auf Englisch.",
+        "llmsNotice": "Jede Seite unten ist unter ihrer Adresse auf der Website verlinkt; ein Assistent, der browsen kann, folgt dem Link lieber. Der Text ist enthalten, damit ein Assistent, der nicht browsen kann, dennoch daraus antworten kann. Die einzelnen Forschungsarbeiten hinter diesen Synthesen sind von jeder Seite verlinkt und werden hier nicht wiedergegeben.",
         "taxonomyHeadings": {
           "Foundations of AI in education": "Grundlagen von KI in der Bildung",
           "Essentials": "Wesentliches",
@@ -292,6 +296,7 @@
         "style": "Japanese, polite です・ます form",
         "offlineTitle": "教育におけるAIナレッジベース",
         "offlineDescription": "これは英語版ナレッジベースの自動翻訳であり、母語話者によるレビューはまだ行われていません。概念ページとよくある質問のページを含みます。論文のページは英語のままです。",
+        "llmsNotice": "以下の各ページは、サイト上のアドレスにリンクされています。閲覧できるアシスタントはリンクをたどることをおすすめしますが、閲覧できないアシスタントも本文から回答できるよう、テキストも収録しています。これらの総括の元になっている個別の研究論文は各ページからリンクされており、ここには転載していません。",
         "offlineResourceLabels": {
           "open": "開く",
           "madeBy": "作成者",
@@ -421,7 +426,8 @@
           "Ethics and responsibility": "윤리와 책임"
         },
         "offlineTitle": "교육에서의 인공지능 지식베이스",
-        "offlineDescription": "이 문서는 영어 지식베이스의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다. 개념 페이지와 자주 묻는 질문 페이지가 포함되어 있으며, 문서(논문 요약) 페이지는 영어로 되어 있습니다."
+        "offlineDescription": "이 문서는 영어 지식베이스의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다. 개념 페이지와 자주 묻는 질문 페이지가 포함되어 있으며, 문서(논문 요약) 페이지는 영어로 되어 있습니다.",
+        "llmsNotice": "아래의 각 페이지는 사이트 내 해당 주소로 연결되어 있으므로, 탐색이 가능한 도우미는 링크를 따라가는 편이 낫습니다. 탐색이 불가능한 도우미도 이 텍스트만으로 답할 수 있도록 본문을 함께 수록했습니다. 이 종합의 근거가 되는 개별 연구 논문은 각 페이지에 링크되어 있으며 여기에는 재수록하지 않았습니다."
       },
       {
         "code": "pt",
@@ -429,6 +435,7 @@
         "style": "Brazilian Portuguese, informal você",
         "offlineTitle": "Base de conhecimento sobre IA na educação",
         "offlineDescription": "Esta é uma tradução automática da base de conhecimento em inglês e ainda não foi revisada por falantes nativos. Inclui as páginas de conceitos e de perguntas frequentes; as páginas de artigos continuam em inglês.",
+        "llmsNotice": "Cada página abaixo está vinculada ao seu endereço no site; um assistente capaz de navegar pode preferir seguir o link. O texto está incluído para que um assistente que não pode navegar ainda possa responder a partir dele. Os artigos de pesquisa individuais por trás dessas sínteses estão vinculados em cada página e não são reproduzidos aqui.",
         "taxonomyHeadings": {
           "Foundations of AI in education": "Fundamentos da IA na educação",
           "Learning and instruction": "Aprendizagem e ensino",
@@ -533,6 +540,7 @@
         },
         "offlineTitle": "शिक्षा में AI का ज्ञानकोश",
         "offlineDescription": "यह अंग्रेज़ी ज्ञानकोश का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है। इसमें अवधारणा और सामान्य प्रश्न पृष्ठ शामिल हैं। लेख पृष्ठ अंग्रेज़ी में ही हैं।",
+        "llmsNotice": "नीचे प्रत्येक पृष्ठ साइट पर अपने पते से जुड़ा है, जिससे ब्राउज़ कर सकने वाला सहायक लिंक का पालन करना पसंद कर सकता है; यहाँ पाठ भी दिया गया है ताकि जो सहायक ब्राउज़ न कर सके, वह भी इसी उत्तर दे सके। इन सिंथेसिस के पीछे के अलग-अलग शोधपत्र प्रत्येक पृष्ठ से लिंक हैं और यहाँ पुनः उतारित नहीं हैं।",
         "offlineResourceLabels": {
           "open": "खोलें",
           "madeBy": "निर्माता",

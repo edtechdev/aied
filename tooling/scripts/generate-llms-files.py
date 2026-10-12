@@ -188,7 +188,7 @@ def build_llms_full(articles, concepts, faqs):
         lines.append("")
     return "\n".join(lines) + "\n"
 
-def build_llms_concepts(concepts, faqs):
+def build_llms_concepts(concepts, faqs, notice=None):
     """Concept and FAQ pages, in full.
 
     `llms-full.txt` carries every article, concept and FAQ and has grown past 15 MB,
@@ -207,10 +207,10 @@ def build_llms_concepts(concepts, faqs):
                  "questions those syntheses answer. Small enough to attach to a chat that will not "
                  "take the complete file.")
     lines.append("")
-    lines.append("Each page below is linked at its address on the site, so an assistant that can browse "
+    lines.append(notice or ("Each page below is linked at its address on the site, so an assistant that can browse "
                  "may prefer to follow the link; the text is included so an assistant that cannot browse "
                  "can still answer from it. The individual research papers behind these syntheses are "
-                 "linked from each page and are not reproduced here.")
+                 "linked from each page and are not reproduced here."))
     lines.append("")
     lines.append("# Concepts")
     lines.append("")
@@ -263,6 +263,18 @@ def locale_note(locale):
     return ''
 
 
+def locale_notice(locale):
+    """The locale's own 'Each page below...' paragraph, from site.config.json.
+
+    The English literal in build_llms_concepts stays as the default-locale text
+    and the fallback for a locale with no entry.
+    """
+    for entry in ((SITE.get('i18n') or {}).get('locales') or []):
+        if entry.get('code') == locale:
+            return entry.get('llmsNotice') or ''
+    return ''
+
+
 def main():
     ap = argparse.ArgumentParser(description='Regenerate the llms files for one locale.')
     ap.add_argument('--locale', default=None,
@@ -298,6 +310,7 @@ def build_one(locale):
     }
 
     note = locale_note(locale)
+    notice = locale_notice(locale)
     def decorate(text):
         """For a translated file, REPLACE the generated English description with the
         locale's own note. Adding a second line instead leaves the English description
@@ -314,7 +327,7 @@ def build_one(locale):
     with open(os.path.join(OUT, names['catalog']), 'w', encoding='utf-8') as fh:
         fh.write(decorate(build_llms_txt(articles, concepts, faqs)))
     with open(os.path.join(OUT, names['concepts']), 'w', encoding='utf-8') as fh:
-        fh.write(decorate(build_llms_concepts(concepts, faqs)))
+        fh.write(decorate(build_llms_concepts(concepts, faqs, notice=notice)))
     # A full dump for a non-default locale would be mostly English articles wearing a
     # translated filename, which is exactly the kind of dishonesty the disclosure
     # fields exist to prevent. Articles are not translated, so it is not written.

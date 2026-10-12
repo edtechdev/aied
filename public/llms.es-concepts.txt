@@ -1,7 +1,7 @@
 # AI in Education Knowledge Base — Concepts and FAQs
 > Esta es una traducción automática de la base de conocimiento en inglés y todavía no ha sido revisada por hablantes nativos. Incluye las páginas de conceptos y de preguntas frecuentes; las páginas de artículos siguen en inglés.
 
-Each page below is linked at its address on the site, so an assistant that can browse may prefer to follow the link; the text is included so an assistant that cannot browse can still answer from it. The individual research papers behind these syntheses are linked from each page and are not reproduced here.
+Cada página de abajo está enlazada en su dirección del sitio, así que un asistente que pueda navegar puede preferir seguir el enlace; el texto se incluye para que un asistente que no pueda navegar también pueda responder a partir de él. Los artículos de investigación individuales en los que se basan estas síntesis están enlazados desde cada página y no se reproducen aquí.
 
 # Concepts
 
