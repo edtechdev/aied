@@ -50,7 +50,7 @@ UDL은 학습자 다양성이 예외가 아니라 규범이라는 통찰 위에 
 설계에 의한 형평성(equity-by-design)은 이 입장을 구현하는 구체적인 방법 가운데 하나입니다. Wenzel, Geiger, Liening(2026)은 사업 [[simulation]] 게임에서 AI [[conversational-ai|대화형 에이전트]]를 위한 CAIS-GBL 프레임워크를 보편적 학습 설계와 조화되는 명시적인 **equity-by-design** 접근법에 근거 지으며, 인지적, [[motivation|동기적]], [[affective-computing|정서적]], [[sociocultural-learning|사회문화적]] 참여에 걸친 메타 요구사항을 도출합니다. 그 설계 원칙과 특징들은 강점, 도전, 흥미에서의 개별 학습자 차이를 다루는 것을 목표로 합니다. 이것은 적응적이고 AI 지원되는 [[game-based-learning|게임 기반 학습]]의 설계에 UDL 원칙을 적용한 구체적인 사례입니다.
 
 AI는 또한 이 문헌에서 UDL의 도구가 아니라 UDL에 대한 장애물로도 나타납니다. 온타리오주 한 대학의 교수 69명을 대상으로 한 [[faculty-accessible-course-design-ai-2026|Sidhu, Atif, Newland(2026)]]의 혼합 방법 연구에서, 네 가지 핵심 주제 가운데 하나는 [[generative-ai|생성 AI]]가 접근 가능한 강의 설계의 진전을 되돌리고 있다는 것입니다. "AI is reducing options I had used"라는 제목 인용구는 그들의 인터뷰에서 나온 것으로, 포용의 일을 해 왔던 과제가 바로 이제 AI가 단번에 완수할 수 있는 것들이기 때문입니다. 그들의 교사 수준 발견은 그 후퇴가 이미 얇은 기반 위에 착륙하는 이유를 보여 줍니다. 응답자의 90%는 자신이 접근 가능한 학습 환경을 만든다고 믿었고, 87%는 자신이 접근성을 적극적으로 고려한다고 답했지만, 절반이 안 되는(46%) 이들만이 대학이 그것을 위한 충분한 자원을 제공한다고 생각했고, 약 5분의 1은 OCR로 읽을 수 있는 PDF나 색상에 독립적인 링크처럼 기초적인 기법을 들어 본 적도 없었습니다. 수요가 제공을 앞서가고 있습니다 — 온타리오 대학 등록생은 2013년부터 2022년까지 17% 늘었지만 접근성 서비스 등록은 126% 증가했습니다 — 따라서 이 연구가 내리는 결론은 AI가 제거한 평가 선택지를 보상하기 위해 UDL 지원에 자원이 배정되어야 한다는 것입니다.
-### Connections
+### 연결
 
 UDL은 [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]], [[learning-design]], 그리고 [[culturally-relevant-pedagogy]]와 연결됩니다. 평가에서 이것은 [[authentic-assessment]]의 표상적 [[bias-mitigation|공정성]] 강조와, 특정한 의사소통 방식을 불이익하게 다루는 도구에 대한 안전장치로서의 [[reducing-ai-misuse]]와 교차합니다. UDL은 고등 교육 장애 맥락에서 가장 흔히 불리는 프레임워크이므로(그곳에서 "special education"은 [[k-12]] 용어입니다), 대학의 장애가 있는 학습자 연구에 연결할 때 종종 올바른 페이지가 됩니다.
 
