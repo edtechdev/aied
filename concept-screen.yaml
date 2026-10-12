@@ -4712,3 +4712,17 @@
     - meta-analysis-systematic-review
     - quantitative-research
   reason: "One weave. learning-gains' meta-analytic-caution section carried inflation evidence but no primary-study outcome tally (grep 'performance-vs' -> 3 hits, no count-based split), so the audit's distinguishing numbers were added there: 79.7% of 69 classifiable primary studies measured performance exclusively and 11.6% measured learning, with the reproduced g = 0.83, I2 = 94.06% and prediction interval [-0.75, 2.41]. Rejected by accumulation: assessment-validity already carries the performance-vs-learning construct argument (grep 'performance vs' -> 1 hit) and meta-analysis-systematic-review the synthesis critique (grep 'performance' -> 9 hits), so repeating the claim there would not change a sentence; limitations-in-aied-research already documents the meta-analytic evidence crisis; educational-measurement, quantitative-research, generative-ai, llm, intelligent-tutoring and interpreting-and-applying-aied-research are the measurement, method and model frames the audit addresses rather than narratives it changes."
+- article: bozkurt-3wai-literacy-scale-2026
+  date: 2026-10-12
+  integrated:
+    - ai-literacy
+  no_change:
+    - ai-ed-evaluation
+    - self-report-measures
+    - educational-measurement
+    - assessment-validity
+    - ethics
+    - higher-ed
+    - adult-learning
+    - generative-ai
+  reason: "One weave. ai-literacy's measuring section carries the validated-instrument thread (GAILS, GLAT, SAIL, TAILS, the six-facet SFAILQ, the Marzano-based graduate scale); this paper adds a validated 17-item self-report instrument whose three-factor structure (Foundational Knowledge / Practical Applications / Critical Understanding) empirically confirms the Know What / Know How / Know Why framing the page already states, plus the diagnostic finding that theoretical knowledge alone does not translate into practical efficacy and the Know-How/Know-Why coupling (HTMT = 0.544) — woven into that section with its self-report limitation stated. Rejected: self-report-measures and educational-measurement document method and instrument-validation frames generically (the paper's HTMT/AVE/CFA material is standard psychometrics rather than a new mechanism), assessment-validity already carries AVE/HTMT/χ²/df material, and ethics, higher-ed, adult-learning and generative-ai are the construct and context frames the paper cites rather than narratives its finding changes. Full instrument item list not copied (the scale itself is freely available; the page cites the instrument, not reproduces it)."
