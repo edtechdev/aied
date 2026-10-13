@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack]
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-13T11:30:00-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -55,6 +55,7 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - **Use AI to automate accessibility at scale.** AI can generate captions, simplify text, produce tactile/audio alternatives, and adapt presentation — but evaluate output quality with human-in-the-loop checks.
 - **Treat accessibility as necessary but not sufficient.** An accessible tool is not automatically an inclusive or disability-just tool; pair accessibility with [[inclusive-learning]] design and [[special-education]] support.
 - **Ground accommodations in law and policy.** Reference standards (WCAG) and statutes (Assistive Technology Act, IDEA) when designing or procuring AI tools.
+- **AI deployment is outrunning AI accessibility policy at the institutional level.** [[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]] coded all 100 Times Higher Education 2026-ranked universities and found 0% publishing a standalone AI accessibility policy while 93% deploy AI-powered campus services (chatbots for registration, housing, IT). The author's charitable reading is that accessibility obligations sit inside general disability-services policies, but as measured, requirements for AI tools appear nowhere in the public institutional record. A short institutional statement that AI tools in teaching and administration must be accessible to disabled students would be ahead of the entire measured field.
 
 - **Math-accessible transcription of [[physics-education|physics]] videos (2026):** An AI workflow using Gemini (audio + 1 fps video sampling) and LuaLaTeX compiles instructional physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs that routinely pass accessibility validation — a practical, free path to making equation-heavy video content screen-readable for blind and low-vision students ([[gemini-lualatex-physics-video-transcription-2026]]).
 
@@ -78,6 +79,7 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[legal-issues-and-risks]] — the umbrella page for over-broad rules, defective evidence and reasonable adjustment
 - [[arts-design-and-media-education]]
 ## Connected Articles
+- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% of 100 elite universities publish an AI accessibility policy while 93% deploy AI campus services
 - [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analysis of AI interventions for students with disabilities
 - [[adhd-video-segmentation-computing-education]] — AI-segmented videos with fixed pauses
