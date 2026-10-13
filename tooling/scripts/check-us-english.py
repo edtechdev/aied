@@ -186,9 +186,12 @@ def _strip_and_split(text: str, is_page: bool = True) -> str:
         if end != -1:
             text = text[end + 4:]
     if is_page:
-        cut = text.find("## Citation")
-        if cut != -1:
-            text = text[:cut]
+        # Connected Articles reproduce published titles verbatim, exactly like
+        # the Citation section — never respell them.
+        for section in ("## Citation", "## Connected Articles"):
+            cut = text.find(section)
+            if cut != -1:
+                text = text[:cut]
     text = re.sub(r"`[^`\n]*`", " ", text)   # inline code holds identifiers, not prose
     text = WIKILINK.sub(lambda m: m.group(2) or "", text)
     if SLUGS:
