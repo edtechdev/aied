@@ -1,7 +1,7 @@
 ---
 title: "Learning Sciences"
 created: "2026-09-17T14:12:00-04:00"
-updated: "2026-09-17T14:48:59-04:00"
+updated: "2026-10-13T11:05:00-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
@@ -47,6 +47,8 @@ This page covers the substantive knowledge such methods have produced — what l
 - **Where human expertise sits.** [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Wang et al. (2024)]] report the clearest division of labor: in a two-month [[rct|randomized controlled trial]] with about 900 novice K-12 tutors and roughly 1,800 students, real-time suggestions drawn from experienced tutors' reasoning raised topic mastery by 4 percentage points (62% to 66%, p < 0.01), and by 9 points for lower-rated tutors, at about \$20 per tutor per year, shifting tutoring toward guiding questions. Gains were proximal — year-end tests did not move. [[reichert-human-centered-llm-chatbot-design-teachers-2026|Reichert et al. (2026)]] find teachers arriving at the same position by design: six secondary teachers prototyping chatbots specified a bounded expert, holding authority boundaries (responsibility for learning and safety is not delegable) and expertise boundaries (the model lacks their knowledge of individual students), and delegating content presentation, practice and corrective [[feedback]] while reserving objective-setting and [[summative-assessment|summative assessment]].
 
 - **Capability at the level of the field.** [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo, Chowdhury and Liu (2026)]] surveyed 127 faculty with a [[tpack|TPACK]] instrument adapted for generative AI: strong content and pedagogical content knowledge (M = 4.70–5.15) beside markedly lower technology-integrated knowledge, with holistic TPACK lowest at 2.55, content knowledge uncorrelated with any technology-integrated domain, and the three integrated domains correlating so highly (r = .81–.91) that they may function as one factor. [[perrotta-zero-shot-governance-2026|Perrotta (2026)]] reads the governance layer through a discontinued UK civil-service prototype whose codebase was a system prompt plus a retrieval pipeline over commercial models, arguing that the generality of foundation models both enables rapid repurposing into [[educational-policy-ai|policy]] tools and makes aberrant output a permanently only-mitigable risk — oversight that peers over the loop rather than sitting inside it.
+
+- **The integration gap, mapped:** [[malik-bashir-reconceptualizing-learning-sciences-hybrid-intelligence-2026|Malik and Bashir (2026)]] synthesized 32 studies (PRISMA 2020, thematic analysis) into four themes: epistemological fragmentation within the field, theory–technology contradictions (computational systems run on prediction and measurable behavior while educational theories emphasize context and social interaction), the datafication of learning through analytics, and hybrid intelligence as an emerging paradigm. Their Hybrid Intelligence Framework is a conceptual synthesis, not a validated model — the authors state it awaits empirical testing — but the four-theme map is a useful audit lens for the theory-to-computation translation problem this field keeps hitting.
 
 ## How the learning sciences relate to their neighbours
 
