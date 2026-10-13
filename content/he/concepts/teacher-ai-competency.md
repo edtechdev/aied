@@ -1,0 +1,459 @@
+---
+title: כושר AI של המורה
+created: "2026-10-12T21:30:00-04:00"
+connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
+type: concept
+foundations: [ai-literacy, educational-development, teacher-role]
+pedagogy: [self-efficacy]
+technology: [generative-ai, intelligent-tutoring, llm]
+ethics: [equity-in-ai-education]
+audience: [faculty developers, learners, instructors]
+level: [k 12, higher ed]
+confidence: high
+connected_resources: [claw-ed, edugems, playlab, teacherserver]
+reviewed_by: [editor]
+translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+translation_of: concepts/teacher-ai-competency
+source_updated: "2026-10-09T08:42:12-04:00"
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-12"
+    agent: hermes-agent
+
+---
+
+*תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+
+> **כושר AI של המורה** — הידע, הכישורים והנטיות שהמורים צריכים כדי לשלב בינה
+> מלאכותית בהוראה ובלמידה ביעילות, אתית ובדרך משוויונית. הוא מתבסס מעבר לשימוש
+> בכלים טכניים וכולל שילוב [[pedagogy|פדגוגי]], אוריינות ב[[assessment|הערכה]],
+> שיפוט אתי, והביטחון ל[[ai-literacy|השתמש בבינה מלאכותית היטב]]. כושר AI של המורה
+> הוא הנגד בצד-המורה ל[[ai-literacy|אוריינות בינה מלאכותית]], ומפותח דרך
+> [[educational-development|התפתחות מקצועית]]. הוא מרכזי לאופן שבו
+> [[teacher-role|תפקיד המורה]] משתנה בכיתות המוגברות-בינה מלאכותית.
+
+## שאלות לשימת לב
+
+- העמוד טוען שהמורה הוא "הגורם הקובע" בשאלה האם בינה מלאכותית משפרת למידה — שהכלים
+  עוזרים רק כאשר מורים יכולים לתכנן עבורם, לפיגם את השימוש בהם ולהעריך את
+  התוצרים. האם הדבר תואם את הניסיון שלכם, או שאתם חושבים שהכלי עצמו חשוב יותר
+  מהמורה?
+- כושר AI של המורה עושה מיומנות טכנית, שילוב פדגוגי, אוריינות בהערכה ושיפוט אתי.
+  איזה מאלה לדעתכם המורים חסרים ביותר, ואיזה הכי קושי לאמן?
+- ה[[research-methods-aied|מחקר]] מתעד פער בין כושר ה-AI הנתפס-עצמית והאמיתי של
+  המורים. מדוע לדעתכם אנשים מעריכים-יתר את המוכנות שלהם, ומה היה נדרש לסגור את
+  הפער הזה בכנות?
+- תוכנית התפתחות-מקצועית אינטנסיבית ייצרה רווחים גדולים בכושר AI פדגוגי במחקר
+  המצוטט, ומציעה שכושר טכני-פדגוגי הוא ניתן-לאימון. אם זה נכון, מדוע כל כך הרבה
+  מורים עדיין נראים לא-מוכנים — מה עומד בדרך?
+- אם מורה יכול "להשתמש בבינה מלאכותית היטב", מה המשמעות של "היטב" עבורכם — ואיך
+  הייתם יודעים שמורה השיג זאת ולא רק אימץ את הכלי?
+
+## מבוא
+
+כושר AI של המורה חשוב כי המורה הוא הגורם הקובע בשאלה האם בינה מלאכותית משפרת
+למידה. המחקר מראה בעקביות שכלי בינה מלאכותית מתורגמים לתוצאות טובות יותר רק
+כאשר מורים יכולים לתכנן עבורם, לפיגם את שימוש התלמידים בהם, להעריך תוצרים,
+ולשלב אותם להוראה קוהרנטית. ספרות מאגר הידע בוחנת את ה*ממדים* של הכושר הזה, את
+ה*פערים* בין תפיסה-עצמית לכושר אמיתי, ואת ה*התפתחות המקצועית* שבונה אותו.
+
+## ממדי הכושר המרכזיים
+
+המחקר של מאגר הידע מתכנס על כמה ממדים מקושרים:
+
+- **מיומנות טכנית:** ניסוח [[prompt-engineering|הנחיות]] יעילות למטרות חינוכיות,
+  [[ai-ed-evaluation|הערכת]] כלי בינה מלאכותית להתאמה פדגוגית ובטיחות, ופתרון
+  תקלות בזמן-אמת. [[genai-pd-ai-pck-learning-gain-2026|תוכנית התפתחות-מקצועית
+  אינטנסיבית ב-GenAI]] תיעדה רווחים מובהקים בכל חמשת מרכיבי AI-PCK (דיוק כולל
+  *d* = 2.36), ומראה שכושר טכני-פדגוגי ניתן-לאימון.
+- **ידע פדגוגי הוא השכבה הקובעת.** מחקר חוצה-רמות של חינוך AI ב[[k-12|חטיבת
+  הביניים]] ו[[ai-education|חינוך AI]] ([[pedagogy-first-technology-second-teacher-knowledge-2026|46 מורים,
+  2,832 תלמידים]]) מצא שידע AI טכני בלבד לא הספיק — ויכול היה אפילו לצמצם מעט את
+  תפיסות התלמידים על AI לטובת-חברתית — בעוד ידע AI פדגוגי הניע את תפיסות התלמידים
+  ואת הכוונה שלהם ללמוד AI. מסגרות-כושר צריכות בכך לשקול ידע AI פדגוגי כממד
+  הציר, ולא כתוספת-רך.
+- **שילוב פדגוגי:** מיפוי שימוש בינה מלאכותית למטרות למידה, עיצוב
+  [[scaffolding|פיגום]] שתומך ב[[metacognition|מטאקוגניציה]] ובהווסת העצמי [[regulation]] של
+  התלמיד, ושילוב בינה מלאכותית ב[[learning-design|עיצוב הוראה]]. מחקר
+  [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]] מדגם כיצד מורים משלבים ידע
+  טכנולוגי, פדגוגי ותכני באמצעות זרימות-עבודה רב-[[agentic-ai|סוכניות]], בעוד
+  מסגרת [[teacher-ai-teaming-five-levels|צוותיות-מורה-AI בחמישה שלבים]]
+  (טרנסקציוני → סינרגטי) מלכדת כיצד בינה מלאכותית [[generative-ai|יוצרת]] עשויה
+  להחליף, להשלים או להגביר את כושר המורה.
+- **אוריינות בהערכה:** הערכת תכנים המיוצרים-על-ידי-בינה-מלאכותית ותוצרי ה-AI של
+  התלמידים, והבנת אופן שבו [[assessment-validity|התקפות]] משתנה כאשר תלמידים
+  משתמשים בבינה מלאכותית. הדבר מתחבר
+  ל[[automated-assessment|הערכה האוטומטית]], ל[[ai-detection|זיהוי בינה מלאכותית]],
+  ולאג'נדה הרחבה יותר של עיצוב-מחודש של ה[[assessment|ההערכה]]. עבור מערכות
+  המלצה, הדבר מתרחב לשיפוט האם ההסברים של בינה מלאכותית הם באמת מובנים
+  ובעלי-משמעות פדגוגית: [[xai-teachers-trust-edtech-recommendations-2026|פלדמן-מגור
+  ושות' (2025)]] מצאו שמורים סמכו יותר על המלצות קיבוץ-AI כאשר ההסברים מוצגו
+  בשפה מקצועית-לתחום (תכנית-לימודים) מאשר כאשר הם חשפו תכונות-דגם גולמיות —
+  כושר לדרוש ולהעריך [[explainable-ai|איכות הסבר]] ולא לקבל פלט אטום.
+- **בחירת-מודל ועיצוב-הנחיה ככישורים ניתני-הדגמה:**
+  [[ai-literacy|אוריינות בינה מלאכותית]] מכשירית כוללת ידע איזה מודל להשתמש וכיצד לנסח את המשימה.
+  [[teacher-ai-literacy-prompt-feedback-quality-2026|יעקב סן ושות' (2026)]] ביקרו
+  את מטרות-תכנון-השיעור של 153 מורים לפני-שירות ב-ChatGPT-4, Claude 3
+  ו-Gemini Advanced תחת ארבע הנחיות שנשתנו-במערכת (N = 240 משובים במחקר 1, 345
+  במחקר 2), עם ה[[feedback|משוב]] נמדד בתשע קטגוריות-איכות. בחירת-המודל בלבד
+  הסבירה 26.9% מהשונות באיכות הנמדדת (18.4% במחקר 2) ועיצוב-ההנחיה הוסיף 15.9%
+  מובהקים (5.7%) על גבי זאת; תכונת-ההנחיה הקובעת הבודדת הייתה שפה טכנית
+  ספציפית-לתחום, שהסרתה הורידה את האיכות באופן מובהק (β = −0.412), בעוד הוספת
+  דוגמות והסרת הוראת שרשרת-המחשבה לא הבדילו באופן מובהק במחקר 1. הקריאה שלהם —
+  שמונחי המקצוע פותחים הן תכני-נתוני-אימון רלוונטיים והן ממוסגרים את הבקשה
+  מקצועית, כמו הנחיית-תפקיד — בתוספת כלל-אצבע להשתמש במודל-החזית היכול-הנוכחי
+  ביותר, הופכת את בחירת-המודל להחלטה דידקטית ולא טכנית.
+- **שימוש אתי וביקורתי:** זיהוי [[bias-mitigation|הטיה]] בתוצרי בינה מלאכותית,
+  הגנת נתוני תלמיד ([[privacy|פרטיות]]), והבטחת תוצאות שוויוניות
+  ([[equity-in-ai-education|שוויון]]).
+  [[llm-cultural-relevance-k12|שימוש בינה מלאכותית רלוונטי-תרבותית]] בוחן כיצד
+  מורים יכולים להשתמש במודלי שפה לגיוון חומרים ולא לחזוק נורמות דומיננטיות.
+- **אחריות אתית מבוזרת, לא פרטנית.** לאורך שבעה מקרים לאומיים, מורים ממוקמים
+  כשומרי-סף מוסריים של שימוש בבינה מלאכותית תוך חוסר תמיכה מוסדית ואפיסטימית,
+  ולכן אוריינות AI אתית חייבת להתרחב לסוכנות ביקורתית ופוליטית ולא לכושר טכני
+  ([[raffaghelli-situated-ai-ethics-2026|רפאגלי ושות' (2026)]]).
+- **ביטחון ועמדות:** ה[[self-efficacy|ביטחון]] של המורה מעצב אימוץ. מחקר
+  [[teacher-ai-adoption-confidence|האימוץ]] מוצא שביטחון, תמיכה ותועלת נתפסת
+  מניעים האם מורים משתמשים בפועל בבינה מלאכותית,
+  ו[[ai-pedagogical-orientation|נטיות חברי-סגל]] מעצבות אימוץ במחקר ובהוראה.
+
+- בסקר חמש-מדינות של 1,405 מורים בחטיבת-הביניים ובבית-הספר, מוכנות AI חזה אמונות
+  חיוביות על הערך ההוראי של GenAI (B = .59, R² = .50) אך חזה *דאגת* יצירתיות
+  *גדולה* יותר (B = .18), ואותם גורמי-חיזוי הסבירו רק 7% ו-6% מהדאגה — בניית-מוכנות
+  לבדה משאירה את הדאגה ללא-מגע ([[k12-teachers-genai-beliefs-five-countries-2026|שיו
+  ושות' (2026)]]).
+
+מוכנות צריכה להיות מסודרת ונמדדת בהתאם: מודל היכולת–ההחלטה ממקם יכולת-AI
+מוכחת במקור של העמדה והביטחון, ומציע מחווני-ביצועים ולא דיווח-עצמי בלבד — משימות
+עיצוב-שיעור, משימות הערכת-הנחיה שנזרעו-בשגיאות, שיפוטי תקפות-תכנים ורובריקות
+חפץ-כיתתי ([[capability-decision-model-teacher-readiness-2026|מנגוני (2026)]]).
+
+**מוכנות רגשית ומוסרית היא ממד נבדל.**
+[[vassallo-ai-guilt-complex-faculty-2026|וסאלו (2026)]] סקר את הצוות האקדמי של
+[[higher-ed|אוניברסיטה]] מלטזית (109 משיבים) ובנה אינדקס אשמת-AI (α = 0.88) מארבעה
+פריטי רגש-מוסרי, ומצא שאשמה *מקדימה* נשאה משקל על חרטה שחווה לאחר השימוש: האישור
+החזק ביותר היה הדאגה ששימוש בבינה מלאכותית מכרעת את האמינות שלו (34.9% מסכימים),
+אז התחושה שאחד [[academic-integrity|רמה]] בזמן השימוש (25.7%), בעוד חרטה לאחר-השימוש
+משכה רק 9.2%. הממצאים שחשובים למסגרות-כושר הם ששאינם-משתמשים דיווחו על אשמה
+*גבוהה* יותר ממשתמשים (M = 3.25 לעומת M = 2.32) ושהאשמה ירדה ככל שאבטחת-הקריירה
+עלתה — אקדמאים בתחילת-הקריירה דיווחו על הרבה (M = 2.71) ואקדמאים בכירים על מעט
+(M = 2.03). מוכנות רגשית אינה נתפסת בכך על ידי מדדי-כושר או ביטחון, והמאמר טוען
+שמסגרות-כושר צריכות להתייחס לאשמה ולחשש-זהות כתגובות-מעבר נורמליות ולא כפגמים
+לתיקון.
+
+גרסה חזקה יותר של מסגור-מחדש זה מחזיקה ש-GenAI הוא מושג-סף ולא פער-כישורים:
+חשבון-עצמי אוטואתנוגרפי טוען שחרדת חברי-הסגל והתנגדות הם קונסטיטוטיביים של
+חציית-הסף, ולכן אימון מבוסס-כישורים נכשל, ואי-אימוץ עקרוני צריך להיעשות נכבד ולא מתוקן ([[laidlaw-genai-identity-crisis-faculty-2026|ליידלו (2026)]]).
+
+## פער הכושר
+
+ממצא מפתח הוא ה**פער בין כושר [[self-report-measures|המדווח-עצמית]] והמבוסס-ביצועים**.
+[[ai-literacy-assessment-misalignment|מחקר על הערכת אוריינות-בינה-מלאכותית]] מתעד
+שונות משמעותית (עד ~40%) בין מה שהמורים *מאמינים* שהם יכולים לעשות למה שהם יכולים
+באמת *להדגים* — מורים בטוחים בכישורי ה-AI שלהם חסרים לעתים קרובות יכולות יסוד
+של הנחיה והערכה. הדבר מעודד **[[assessment|הערכה מבוססת-ביצועים]]** של כושר המורה
+ולא הסתמכות על דיווח-עצמי, ומתחבר
+ל[[self-assessment|הערכה-עצמית המכוילת]]. סקר לאומי של 2,586 מורים בחטיבת-הביניים
+הניגריים מדד את שני הצדדים בכלים נבדלים — מודעות AI מתונה (M = 3.13 מתוך 8) לעומת
+כושר AI פדגוגי נמוך יותר (M = 2.47 מתוך 5) — עם מורים בתחילת-ובאמצע-הקריירה
+מדווחים על כושר גבוה יותר מעמיתים מנוסים
+([[nigerian-teachers-ai-awareness-pedagogical-skills-2026|אולורינולה ושות' (2026)]]).
+
+הפער אינו רק בין כושר נתפס ואמיתי אלא ב*רוחב* של מה שהמורים יודעים: סקר לאומי של
+2,018 מחנכים בחטיבת-הביניים האוקראינים מצא 84% מדווחים שהם משתמשים בבינה מלאכותית
+בפרקטיקה מקצועית בעוד רק 11% יכלו לכנות שירות AI מומחה מעבר ל-ChatGPT
+([[ukraine-ai-literacy-secondary-framework-2026|מריינקו, מרקובה וסמריקוב (2026)]]).
+צרה שנייה נראית במה שהמורים מתנדבים ולא במה שהם יכולים לכנות: 53 מורים בשירות
+מתיישרים את מקרי-הכיתה שלהם על מסגרת אוריינות-בינה-המלאכותית של OECD תיארו 43
+פרקטיקות בעלות-אוריינות-AI לעומת רק 10 כישלונות
+([[ailithub-ai-literacy-case-infrastructure-2026|וואנג ושות' (2026)]]). בחירות-הכושר
+שלהם התקבצו על שיפוט מעשי (הערכת תוצרי AI, N = 38) ונעדרו כמעט מהגעת להטיה
+חברתית (N = 5), יישור אתי (N = 6) או שימוש-אנרגיה של AI (N = 9).
+
+הפער גלוי בחפץ כמו גם בדיווח-העצמי.
+ב[[ai-integration-instructional-design-collaboratory-2026|קולבורטוריום חברי-סגל
+בין-מוסדי בהכשרת-מורים]], שבו מחנכי-מורים עיצבו AI לתוך קורסי-השיטות שלהם,
+הדיווח ראה שמועמדים יכלו לייצר תוכניות-שיעור AI מלוטשות תוך חוסר יכולת להסביר
+מדוע תוכנית מתאימה ללומדים ולתקנים, שכן התוכנית עצמה אינה אומרת דבר על ההיגיון
+שמאחוריה. מתן-ציון על הנימוק ולא על התוצר היא תגובה אחת. מסגרת
+[[bondurant-shaughnessy-ai-pedagogies-practice-2026|הפדגוגיות-של-פרקטיקה]] מציעה
+אחרת, ומתייחסת לחזרה כקירוב של פרקטיקה: חזרה בתיווך-AI עם משוב מובנה לאחר-החזרה
+הרימה את השימוש בבעלות-חקירה ובשאלות-חקירה של המועמדים, אך שיפוטי-הביצוע העצמיים
+של המועמדים עדיין התפצלו ממה שצופים רשמו.
+
+**הערכה-עצמית נופלת לאחר אימון יכולה לאותת על למידה ולא על אובדן.** בתוכנית
+[[tpack|Intelligent-TPACK]] [[educational-development|התפתחות-מקצועית]] של שישה-חודשים עם 64 מורים
+אוניברסיטאים בהונג-קונג לעומת 61 ביקורת, כושר ה-AI הכולל עלה בכ-חצי סטיית-תקן
+(ד כהן = −.521), אך חלק מהמורים בשתי הקבוצות קיבלו ציון נמוך יותר במבחן-אחרי
+מאשר במבחן-לפני ([[intelligent-tpack-pd-intervention-hongkong-2025|טאן, צ'נג ולינג
+(2025)]]). ראיונות ייחסו את הירידות למעבר מאי-מודעות-לכושר-ללא-מודעות למודעות-לכושר
+— הכיול-מחדש שאפקט דאנינג-קרוגר חזה — ולא לכושר שאבד. המחברים מסיקים
+שדיווח-עצמי לפני-לאחר ממעיט תוכנית, משום שחלק מהרווח מגיע כתיקון-למטה בכלי
+המדידה עצמו.
+
+**הפער מופיע גם כלא-השתתפות.**
+[[watson-rainie-ai-challenge-faculty-survey-2026|ווטסון ורייני (2026)]] סקרו 1,057
+חברי-סגל אוניברסיטאיים בארצות-הברית בסוף 2025 ומצאו ש-26% אינם משתמשים בכלי
+[[generative-ai|בינה מלאכותית יוצרת]] כלל, כאשר שליש בוחרים לא להשתמש בהם להוראה
+והשימוש-הלא-מרוכז באמנויות וב[[humanities-education|מדעי-הרוח]] (40%). הצד
+המוסדי של הפער היה גדול מהפרטני: 68% אמרו שהבתי-הספר שלהם לא הכינו את חברי-הסגל
+להשתמש בבינה מלאכותית יוצרת להוראה וחונכות, וחברי-הסגל כנו את התנגדות העמיתים
+(82%) ואת חוסר-ההיכרות (83%) כמכשולים המובילים לאימוץ במחלקה — תמונה שבה בניית
+יכולת, נורמות-עמיתים ומדיניות צריכים לנוע יחד.
+
+**אימון לפני-שירות עוקף ברובו את הממד האתי של הכושר.**
+[[meta-analysis-systematic-review|סקירה שיטתית]] של בינה מלאכותית באימון-מורים
+התחלתי למורים לפני-שימוש למתמטיקה בכתה ד' ([[pinto-ai-initial-teacher-training-mathematics-review-2026|פינטו
+ושות' 2026]], 11 מחקרים נבחרו מ-341 רשומות) מצא שההתערבויות התרכזו ברווחים
+טכניים ופדגוגיים לטווח-קצר, כאשר תשעה מתוך אחד-עשר הרצו התערבויות קצרות הנמשכות
+מסשן אחד עד שישה, ודיווח שהאתיקה טופלה בשלושה מתוך אחד-עשר מחקרים בלבד. מסגרות
+הכושר מכנות שיפוט אתי כממד; הספרות לפני-השירות המיועדת לבנות אותו מלמדת או מודדת
+אותו לעתים רחוקות.
+
+## התפתחות מקצועית שעובדת
+
+ספרות ההתפתחות-המקצועית של מאגר הידע מזהירה גישות יעילות:
+
+- **תוכניות אינטנסיביות ומונחות-תיאוריה:**
+  [[genai-pd-ai-pck-learning-gain-2026|תוכנית התפתחות-מקצועית אינטנסיבית ב-GenAI]]
+  עם 163 מורים/מורים לפני-שימוש ייצרה רווחים מובהקים בכל מרכיבי AI-PCK, עם מורים
+  לפני-שימוש נהנים ביותר.
+  [[teacher-education-ai-literacy-sdt-2026|התפתחות-מקצועית מבוססת-תיאוריית-הכרעה-עצמית]]
+  מראה שאימון תומך-צרכים משפר את אוריינות ה-AI, העמדות
+  וה[[student-engagement|מעורבות]] של המורים תוך צמצום חרדה.
+- **גישות [[design-based-research|מבוססות-עיצוב]] ומשולבות:**
+  [[genai-literacy-training-teacher-education-dbr-2026|אימון אוריינות-GenAI מבוסס-DBR]]
+  מתמודד עם ההדגשה-יתרה על ידע טכני ועל כלים קדמי-GenAI;
+  [[rail-ed-genai-literacy-teacher-education|מסגרות משולבות, התפתחותיות]]
+  ו[[sec-ai-literacy-narrative-review-2026|שילוב כושר סוציו-רגשי]] מרחיבות אוריינות
+  מעבר לטכניקה טהורה.
+- **חקירה ופרקטיקה אותנטית:**
+  [[quest-ai-inquiry-preservice-teachers|מודלי חקירה נתמכים-AI]] בונים אוריינות AI
+  וביצוע אותנטי במורים לפני-שימוש.
+- **מוכנות ספציפית-הקשר:**
+  [[sangwa-epiq-ai-faculty-readiness-2026|מסגרת המוכנות EPIQ-AI]] מדגישה שמוכנות
+  חברי-הסגל היא עניין סוציו-טכני הדורש יישור של יכולת-חברי-הסגל,
+  [[governance|מימושל]] ואבטחת-איכות.
+
+- **תמיכה חייבת להיות מבדילה לפי ניסיון ומיומנות-AI.**
+  [[choi-teacher-ai-interaction-lesson-design-2026|צ'וי ושות' (2026)]] מצאו שהדרך
+  שבה מורים מתקשרים בפועל עם בינה מלאכותית בעיצוב-שיעור תלויה ב*האינטראקציה* של
+  ניסוי-הוראה ומיומנות-AI, ולא באחד מהם בלבד. מורים מנוסים עם מיומנות-AI גבוהה
+  מתאימים באופן ביקורתי את תוצר-הבינה-המלאכותית להקשר (הנחיה-חוזרת, הרחבה), בעוד
+  מתחילים — אפילו אלו שזורמים-טכנית — נוטים לקבל תגובות בינה מלאכותית ישירות
+  ומהם מעט מתייחסים לתלמידים ולהקשר. הדבר טוען בעד התפתחות-מקצועית מבוססת-פרופיל:
+  רשימות-בדיקת-הערכת-תגובה ותבניות-הנחיה למתחילים, ובניית-כישורים מעשית למורים
+  מנוסים עם מיומנות-AI נמוכה יותר.
+
+קונפיגורציית-אמונות היא ציר-פרופיל שני: בין 40,680 מורים ב-TALIS 2024, אותה
+עמדת-שימוש-לשם-לא הסתירה מכשולים מנוגדים — 83.3% מפרופיל אדוש-אמונות ציטו הסתייגות
+פדגוגית בעוד 66.2% מאמצע-מדוד-אמונות ציטו ידע וכישורים לא-מספיקים
+([[teachers-ai-belief-profiles-talis-2024-2026|פאנג וג'ין (2026)]]). למידה מקצועית
+קשורה-AI עקבות חברות-פרופיל יותר מאשר גיל או השכלה.
+
+- **מורים אינם חולקים קונספציה אחת של בינה מלאכותית.** מחקר פנומנוגרפי של 16
+  מורים בהשכלה גבוהה דניים מצא שלוש קונספציות של הוראה-עם-AI ושלוש של למידה-עם-AI,
+  ולכן מודל-סדנה בודד מגיע רק לחלק מכל קבוצת-חברי-סגל
+  ([[stenalt-good-education-teacher-ai-conceptions-2026|סטנאלט (2026)]]).
+- **עיצוב-משותף ואוריינות-הנחיה פדגוגית הם כושרים, לא תוספות.** מחקר
+  [[meta-analysis-systematic-review|סקירה שיטתית]] של עיצוב-משותף של מורה-AI של
+  משימות-למידה ([[wang-teacher-ai-co-design-review-2026|וואנג, ליו ואיסלאם 2026]],
+  28 מחקרים) מוצא שמצב-השיתוף הדומיננטי הוא AI כעוזר/מייצר-תכנים, וממקם פער
+  ביכולות העיצוב-המשותף והשותפות-הדיאלוגית המלאות יותר של המורים.
+  [[talebzadeh-ai-group-activity-roles-2026|תלבזדה (2026)]] מראה שהתפתחות-מקצועית
+  שמשלבת אימון-AI טכני עם היגיון פדגוגי — בניית "אוריינות-הנחיה פדגוגית"
+  (קידוד [[tpack|PCK]] להנחיות) — היא מה שמאפשר למורים להפוך תוצר-AI
+  ל[[collaborative-learning|פעילויות-קבוצה מבדלות]] יעילות.
+- **מבנים שבונים כושר, ולא רשימות שלו.**
+  [[physics-faculty-learning-community-ai-2026|פרל-נוסבוים ופינקלשטיין (2026)]]
+  הרצו קהילת-למידה של חברי-סגל דו-שבועית בשישה מפגשים במחלקת פיזיקה ציבורית גדולה
+  מסוג R1 — תשעה-עשר חברי-סגל לאורך הסדרה, בערך עשרה בכל מפגש — שבו כל מפגש נפתח
+  על נתונים מקומיים, עבר לבדיקת-קבוצה-קטנה של AI כנגד שיעורי-בית אמיתיים
+  אנונימיים של תלמידים, ונסגר בדיון קולקטיבי, והוא ייצר מאגר-משותף בעל חמישה
+  פריטים במקום חבילת-אימון. אוריינות בהערכה נבנית באותה דרך דרך כלי-עיצוב:
+  בפילוט [[authentic-assessments-generative-ai-pilot-2026|של פולה ושות' (2026)]],
+  שמונה רכזי-קורס מנוסים ב-STEM ובריאות גדילו את אוריינות-ההערכה שלהם על ידי ביקורת
+  טיוטות-הערכה של GPT מותאם כנגד תקנים דיסציפלינריים, אם כי התוצרים פספסו שוב
+  ושוב הקשר דיסציפלינרי, התעלמו מסידור-נושאים, ובמקרה אחד נשאו פניות ממצאות דרך
+  הנחיה חוזרת. כל השמונה שמרו [[evaluative-judgment|שיפוט אקדמי]] אצלם וסירבו
+  לאוטומציה מקצה-לקצה, וזוהי הסיבה שביקורת מובנית של טיוטות מיוצרות היא מנגנון
+  ההתפתחות ולא אימון-כלים.
+- **סשנים קצרים יכולים להזיז קבלה ללא הזזת אימוץ.**
+  [[mesenhoeller-teachers-ai-differentiation-acceptance-2026|מסנהולר ובהמה (2026)]]
+  העריכו סשן INSIGHT של שלוש שעות עם 100 מורים גרמניים בכתה ד' ובבית-הספר ומצאו
+  שתועלת נתפסת וקלות-שימוש נתפסת עלו שתיהן באופן מובהק (תועלת t(99) = -3.24,
+  p = .002, d = .32; קלות-שימוש d = .25) בעוד הכוונה ההתנהגותית להשתמש בטכנולוגיות
+  מבוססות-AI להבחנה לא שונתה. המחברים מציינים שקווי-הייסוד שלהם היו אהדה כבר,
+  ולכן אפקט-תקרה סביר. הקריאה לעיצוב-התפתחות-מקצועית היא צרה אך שימושית: סשן קצר
+  יכול לשנות את הדרך שבה מורים שופטים כלי-AI ללא שינוי האם הם מתכננים להשתמש בהם,
+  וזוהי הסוג של שינוי שדורש המשך ולא אירוע-חד-פעמי.
+
+- **מדריכים מעדיפים זרימות אך מייחסים למידה לפיגום.** על פני 41 מדריכים, קו-ייסוד
+  GPT-4o הועדף באופן כולל (21 לעומת 13) אך המודל המשולב בשלושה-שלבים (זהה, חקור,
+  פתח) נקרא יותר לעתים קרובות כמעניק למידה (18 לעומת 13), ושני השיפוטים הסכימו רק
+  39% מהזמן ([[teachingcoach-chatbot-instructor-guidance|מולנאר ושות' (2026)]]).
+- **תמיכה מוסדית:** [[educational-development|התפתחות מקצועית]] חייבת להיות מצורפת
+  לתשתית מוסדית ([[educational-policy-ai|מדיניות]],
+  [[institutional-change-framework-ai|שינוי מוסדי]]) לאימוץ בר-קיימא.
+- **כלי-מחברות אינם מבטיחים נאמנות פדגוגית.**
+  [[teachers-configure-educational-chatbots-2026|ריאיי ושות' (2026)]] חקרו 27 מורים
+  בבית-הספר-הביניים המגדירים צ'אטבוטים חינוכיים בסדנאות התפתחות-מקצועית, וניתחו
+  קבוצות-מיקוד לצד יומני-קונפיגורציה ואינטראקציה. מורים התייחסו לצ'אטבוט כפיגום
+  הוראה המגודר על ידי כללים המוגדרים-על-ידי-המורה, אך היישור מבוסס-יומן בין כוונה
+  להתנהגות היה חזק יותר לרספונסיביות (88.9%) ולפרסונה (81.5%) מאשר לכללים (70.4%)
+  ולמטרה (59.3%). פקדים ניתנים-קונפיגורציה לבדם אינם מעבירים כוונה פדגוגית
+  להתנהגות, ולכן ביטוי, בדיקה וחידוד של הפדגוגיה של צ'אטבוט הוא עצמו כושר שכלי
+  המחברות חייב לתמוך בו.
+
+עיצוב-מבוסס-דוגמה-נגדית מתייחס לכושר כסיטואציוני ולא כשלב על סולם. מחקר
+עיצוב-מבוסס של [[adaptive-ai-model-teacher-educators-2025|איאל 2025 עם 22 מחנכי-מורים
+בהשכלה גבוהה]] הצריך את המשתתפים לבחון חמש מסגרות-הערכה מפורסמות ולעיצב חלופה
+משותפת המאורגנת סביב שלושה צירים מקושרים: התאמת-הקשר (תשתית, גורמים
+סוציו-תרבותיים, צרכים מקומיים, שלב התפתחותי), צרכים מקצועיים (תחום דעת, פדגוגיה,
+מנהיגות, תמיכה), והתפתחות דינמית. המודל דוחה רמות-כושר קבועות ומאפשר התקדמות
+לא-ליניארית, והוא מגיע עם שאלון-הערכה-עצמית מהרהר בעל 20 פריטים המדורגים 1 עד 5.
+האימות שלו הוא איכותני בלבד, ללא בדיקת-אמינות כמותית, ולכן הוא עומד כתרומה-עיצוב
+ולא ככלי מאומת.
+
+- **הערכה מטא-אנליטית.**
+  [[teacher-ai-literacy-professional-development-meta-2026|גואו ושות' (2026)]] אגדו
+  212 גדלי-אפקט מ-34 מחקרים ומעריכים התפתחות-מקצועית אוריינות-AI של מורים
+  ב-g = 0.76 (CI 95% [0.50, 1.02]), החזקה ביותר לכישורים (g = 0.91) והחלשה ביותר
+  לעמדות וערכים (g = 0.61); תיקון לבחירת-פרסום נראית מוריד את ההערכה לכ-
+  g = 0.49.
+
+- **נוכחות מנבאת רווחים במקום שהתחושה של השתתפות מנבאת.** באותה תוכנית של
+  שישה-חודשים, שיעור-הנוכחות חזה את רווח-הכושר (β = .407, p = .001) בעוד
+  השתתפות-הנתפסת-עצמית לא (β = .049, p = .692), ותחום דעת, ניסוי-הוראה ותואר מקצועי
+  הסבירו מעט; המחברים קוראים לנוכחות כהשקעה-התנהגותית ולהשתתפות-הנתפסת כמעורבות
+  ברמת-השטח ([[intelligent-tpack-pd-intervention-hongkong-2025|טאן, צ'נג ולינג
+  (2025)]]).
+
+- **ערכים פיגרו אחר כישורים בתוכנית ספציפית-תחום גם כן.** בתוכנית של שנה בהונג-קונג
+  עם 30 מורים לאנגלית, הידע על אסטרטגיות הערכה רב-מודלית עלה מ-3.13 ל-4.15 מתוך 5
+  (η² חלקי = 0.571) והכושר בתמיכה בתלמידים מ-3.05 ל-3.98 (0.482), שניים מובהקים,
+  בעוד כל תת-הממד של הערכים נשאר שטוח סטטיסטית תחת אלפא מתוקן-בונפרוני של .006.
+  המורים ייחסו את הרווחים לתכנון-משותף בתוך-בית-הספר ולמפגשי-אשכול בין-בתי-הספר
+  ולא לסדנאות בלבד ([[multimodal-assessment-literacy-l2-teachers-genai-2026|ג'יאנג
+  ושות' (2026)]]).
+
+## כושר AI של המורה ותפקיד המורה המשתנה
+
+כאשר AI לוקח על עצמו משימות הוראה והערכה שגרתיות, התרומה הייחודית של המורה עוברת
+לכיוון תזמור, שיפוט ויחס: החלטה מתי וכיצד AI משמש, פיגום
+[[agency|סוכנות תלמיד]] ושימוש ביקורתי, הבטחת שוויון, ומתן התמיכה החברתית
+והרגשית ש-AI אינו יכול לתת. הדור מעצב מחדש את כושר-המורה סביב פקח
+[[human-in-the-loop-ai|אדם-בתוך-הלולאה]], שיפוט [[ethics|אתי]], ותמיכה
+ב[[self-regulated-learning|למידה מוסדרת-עצמאית]] — ומתחבר
+ל[[teacher-role|תפקיד המורה]] ולהגנה
+מ[[cognitive-offloading|הסתמכות-יתרה]].
+
+## השלכות עבור בינה מלאכותית בחינוך
+
+- **העריכו ביצועים, לא רק דיווח-עצמי:** כושר-המורה צריך להיות מוערך דרך הדגמה,
+  בהתחשב בפער הדיווח-העצמי המתועד.
+- **אמנו את הכושר המלא, לא רק כלים:** התפתחות-מקצועית צריכה לבנות ממדים טכניים,
+  פדגוגיים, הערכה ואתיים יחד, המבוססים ב[[learning-theories|תיאוריית למידה]].
+- **בנו ביטחון לצד כושר:** עמדות ו[[self-efficacy|יושרה-עצמית]] מעצבים אימוץ,
+  ולכן התפתחות-מקצועית צריכה לצמצם חרדה ולבנות ביטחון דרך פרקטיקה אותנטית
+  ונתמכת.
+- **תמכו בשכבה המוסדית:** כושר-מורה בר-קיימא דורש מדיניות, מימושל ויכולת
+  מיושרים, ולא אימון מבודד.
+- **כושר-דיגיטלי של מורה לעיצוב [[curriculum-design|תכנית-לימודים]] של GenAI.**
+  [[guillen-curriculum-genai-teacher-competence-2026|גיילן-גאמז (2026)]] מאמתים
+  כלי-אבחון מבוסס-TAM עם 434 מורים בשירות; הכוונה-ההתנהגותית הייתה גורם-החיזוי
+  העיקרי של כושר-דיגיטלי לשימוש ב-GenAI בתכנון-תכנית-לימודים, עם יושרה-עצמית
+  כמניע-שורש.
+
+### כלי פסיכומטרי לכושר AI של המורה
+
+- מחקר פסיכומטרי פיתח את סולם אוריינות-AI של המורים (TAILS) כדי למדוד אוריינות
+  בינה מלאכותית ספציפית ב[[teacher-education|חינוך מורים לשפה]], ולממש את שישה
+  ממדי מסגרת ED-AI. פיתוח הכלי ממלא פער בהערכות המכוונות לתלמידים או למשתמשים
+  כלליים, ותומך במדידת כושר ה-AI של המורה.
+
+הנוף של הכלים עצמו נסקר מאז. מחקר
+[[assessing-teachers-ai-literacy-measurement-tools-2026|סקירה שיטתית של זנאל, מוח
+  מטור ומאאת 2026 על כלי מדידת אוריינות-AI של מורים]] העריך 33 כלים שפורסמו בין
+2019 ל-2025 ומצא את התחום חד-גוני מתודולוגית: 31 (93.9%) הם סולמות דיווח-עצמי של
+אמון נתפס, רק שניים (6.1%) בודקים ידע באופן אובייקטיבי, ואף אחד אינו משתמש במשימות
+מבוססות-ביצועים. עקביות-פנימית הייתה תחום-האיכות החזק ביותר (28 מתוך 33 בדירוג A)
+והוגנות החלשה ביותר, עם חמישה כלים (15.2%) מדווחים על ראיות אי-שינוי-מדידה או
+פונקציית-פריט-דיפרנציאלית. התכנים גם פיגרו אחר הטכנולוגיה, שכן 29 כלים (87.9%)
+מכוונים למושגי-AI כלליים ורק ארבעה (12.1%), כולם מ-2025, מתייחסים לבינה מלאכותית
+יוצרת.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[educational-development]]
+- [[teacher-role]]
+- [[prompt-engineering]]
+- [[learning-design]]
+- [[scaffolding]]
+- [[metacognition]]
+- [[assessment-validity]]
+- [[equity-in-ai-education]]
+- [[ethics]]
+- [[self-efficacy]]
+- [[human-in-the-loop-ai]]
+- [[agency]]
+- [[cognitive-offloading]]
+- [[educational-policy-ai]]
+- [[ai-education]]
+- [[tpack]]
+- [[teacher-education]]
+- [[pedagogy]] — מכסה: פדגוגיות ואסטרטגיות הוראה בחינוך בינה מלאכותית
+
+## Connected Articles
+
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — אוריינות-הערכה רב-מודלית: תוכנית של שנה שבה ידע וכושר נעו וערכים לא
+- [[teacher-ai-literacy-professional-development-meta-2026]]
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: חצי סטיית-תקן של רווח, ורווחים שליליים שנקראים כיול-מחדש — The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis
+- [[ailithub-ai-literacy-case-infrastructure-2026]] — מורים תיישבו את מקרי-ה-AI של הכיתה שלהם והגיעו לכושרים מעשיים בקלות אך לחברתיים ואתיים לעתים רחוקות (וואנג ושות' 2026)
+- [[typology-generative-ai-tools-education-2026]] — בחירת-כלי כתרגיל של סוכנות-מחנך
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Teacher professional knowledge in K-12 AI education: TAIK vs TPAIK and student learning (Shen et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
+- [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
+- [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation for teacher professional development (Melo et al. 2026)
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Generative AI across representations, decompositions and approximations: rehearsal, structured feedback and the accuracy cautions
+- [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an intensive GenAI professional development program
+- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
+- [[teacher-ai-teaming-five-levels]] — Toward synergistic teacher-AI interactions
+- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for AI literacy through self-determination theory
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Design-based research GenAI literacy training
+- [[rail-ed-genai-literacy-teacher-education]] — Rethinking GenAI literacy in teacher education
+- [[sec-ai-literacy-narrative-review-2026]] — Integrating social-emotional competencies with AI literacy
+- [[teacher-ai-adoption-confidence]] — AI adoption among teachers: confidence and support
+- [[ai-pedagogical-orientation]] — Faculty orientations shape AI adoption
+- [[ai-literacy-assessment-misalignment]] — Misalignment between self-reported and performance-based AI competency
+- [[quest-ai-inquiry-preservice-teachers]] — AI-supported inquiry for pre-service teachers
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI faculty readiness framework
+- [[llm-cultural-relevance-k12]] — LLMs for culturally relevant K-12 pedagogy
+- [[institutional-change-framework-ai]] — Institutional change framework for AI
+- [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach chatbot for instructor guidance
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
+- [[raffaghelli-situated-ai-ethics-2026]]
+- [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
+- [[ukraine-ai-literacy-secondary-framework-2026]] — Five-level AI literacy framework + PD for Ukrainian secondary educators (Marienko et al. 2026)
+- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
+- [[xai-teachers-trust-edtech-recommendations-2026]]
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt and four moral response profiles among academic staff (Vassallo 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — A three-hour teacher PD session raised perceived usefulness and ease of use but not stated intention to adopt (Mesenhöller & Böhme 2026)
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Systematic review of AI in pre-service primary mathematics teacher training: ethics addressed in only three of eleven studies (Pinto et al. 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: preparedness, non-use and the individual-vs-institutional policy gap (Watson & Rainie 2026)
+- [[ai-integration-instructional-design-collaboratory-2026]] — Cross-institutional faculty collaboratory: AI integration as instructional design in teacher preparation
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systematic review of 33 instruments for measuring teacher AI literacy: 31 self-report, two objective knowledge tests, no performance tasks (Zainal, Mohd Matore & Maat 2026)
+- [[adaptive-ai-model-teacher-educators-2025]] — A design-based adaptive AI literacy model and 20-item reflective questionnaire co-designed with 22 teacher educators (Eyal 2025)
+- [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
+- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+- [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
+- [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first teacher readiness model with performance-based capability indicators
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national survey of 1,405 K-12 teachers: readiness predicts positive beliefs but not concern
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Four TALIS 2024 teacher belief profiles link professional learning and profile-specific barriers to AI use
