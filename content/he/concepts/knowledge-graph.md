@@ -1,0 +1,95 @@
+---
+title: גרף ידע
+created: "2026-10-12T20:30:00-04:00"
+type: concept
+foundations: [ai-education, curriculum-design]
+technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
+confidence: high
+reviewed_by: [editor]
+translation_of: concepts/knowledge-graph
+source_updated: "2026-10-09T09:25:11-04:00"
+translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-12"
+    agent: hermes-agent
+---
+
+*תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+
+> **גרף ידע** — ייצוג מובנה של מושגים והיחסים ביניהם, המשמש למידול ידע תחומי, הבנת תלמיד ותלויות למידה במערכות [[ai-education|בינה מלאכותית בחינוך]]. גרפי ידע מאפשרים למערכות AI להסיק על מה שתלמידים יודעים, מה שהם צריכים ללמוד הלאה, וכיצד מושגים קשורים זה לזה.
+
+## שאלות למחשבה
+
+- גרף ידע לוכד לא רק מושגים אלא גם את היחסים ביניהם — קדם-דרושים, דמיון, היררכיה. מדוע ידיעת האופן שבו מושגים קשורים עשויה להיות שימושית יותר למערכת אדפטיבית מרשימה שטוחה של מיומנויות?
+- כיצד נראים יחסי קדם-דרישה בתחום שלכם? האם אתם יכולים לחשוב על נושא שבו תלמידים מתקשים בקביעות מפני שהם חסרים מושג יסוד שהגרף היה חושף?
+- העמוד מתאר שימוש בגרפי ידע לגילוי פערי ידע — היכן שלומדים חסרים מושגים יסודיים. כיצד חשיפת הפער הזה עשויה לשנות את מה שחונך AI מחליט ללמד הלאה?
+- גרפי ידע יכולים להיבנות ידנית או אוטומטית על ידי LLMs מטקסט חינוכי. מהם הסיכונים באפשרות AI לבנות את מבנה המושגים שחונן יסיק אחר כך מעליו?
+- אם גרפי ידע מספקים את מבנה התחום שסוכני AI מסיקים מעליו, מה קורה לאמון ולדיוק כאשר הגרף עצמו מכיל שגיאה או יחס מוטה?
+- גרף ידע מתואר כעמוד השדרה המבני שמאפשר אבח�ון דק-גרגרי ומסלולים מותאמים-אישית. ב[[teacher-role|הוראה]] או בעיצוב שלכם, על מה היה גרף ידע של הנושא שלכם צריך ללכוד — ומה הוא היה משאיר בחוץ?
+
+## מבוא
+
+גרפי ידע מספקים את עמוד השדרה המבני עבור רב מערכות החינוך החכמות. שלא כרשימות שטוחות של מיומנויות או מושגים, גרפי ידע לוכדים יחסי קדם-דרישה, דמיון וארגון היררכי — הכרחיים ל[[adaptive-learning]], ל[[knowledge-tracing]] ול[[student-modeling]].
+
+## כיצד גרפי ידע משמשים ב-AIED
+
+גרפי ידע הם מנגנון מבני חוזר ונשנה ב[[research-methods-aied|מחקר]] ה-AIED של מאגר הידע, ומשרתים כמה תפקידים נפרדים:
+
+- **מודלי [[knowledge-tracing]]** משתמשים בגרפי מושגים להפיץ הערכות מיומנות של תלמיד על פני מיומנויות קשורות, ומשפרים דיוק חיזוי כאשר הנתונים דלילים.
+- **מערכות [[student-modeling]]** מנצלות גרפי ידע לייצג מה שלומדים יודעים באופן בעל-משמעות סמנטית, ומאפשרות אבחנה דק-גרגרית.
+- **פלטפורמות [[adaptive-learning]]** משתמשות בגרפי קדם-דרישה לסדר תוכן ולהמליץ על מסלולי [[personalized-learning|למידה מותאמים-אישית]].
+- **בחירת אלגוריתם מעל הגרף משנה תוצאות.** ב-G4L, הפיצת שליטה דרך מרחב-ידע מתפתח עם הפצת ידע בייסיאנית הפיקה +24% ידע נמדד (0.717 → 0.887), מול +5% לתיאוריית מרחב-הידע ו-+1% להשראת תלות-מרחק משוקללת ([[graph-its-adaptive-algorithms-2026|Csépányi-Fürjes & Kovács, 2026]]).
+- **מסגרות [[cognitive-diagnosis]]** כמו [[xie-hillm-cd-2026|HiLLM-CD]] בונות עצי מושגים מטקסט חינוכי באמצעות LLMs, ומבטלות הערה ידנית.
+- **חונכות מוגברת-גרף-ידע:** [[quantum-education-its|ITAS]] משתמש בגרף ידע של מושגים קוונטיים (עם יחסי קדם-דרישה מפורשים) להנעת מערכת חונכות מרובת-סוכנים, וחוצה את הגרף כדי לבחור נושאים הבאים לחומר נגד-אינטואיטיבי.
+- **מידול תוכנית לימודים וקורס:** [[coursegraph-cs-course-comparison-2026|CourseGraph]] משווה מבני קורסי CS בין מוסדות באמצעות ייצוגים גרפיים; [[learnity-graphs-lifelong-learning-framework-2026|גרפי Learnity]] ממודלים מסלולי [[lifelong-learning|למידה לכל החיים]].
+- **למידת יחסי קדם-דרישה:** [[proprl-prerequisite-relation-learning|ProPrL]] מלמד יחסי קדם-דרישה בין מושגים, ומעצב את הקצוות שגרפי הידע מקודדים.
+- **גילוי פערי ידע:** [[knowledge-gap-detection-ai-tas|גילוי פערי ידע]] משתמש בהיגיון מבוסס-גרף בעוזרי הוראה מבוססי-AI כדי לזהות היכן שלומדים חסרים מושגים יסודיים.
+- **[[multimodal]] והיגיון ניתן-להסבר:** [[multimodal-knowledge-graph-educational-reasoning|גרפי ידע רב-מודאליים]] מרחיבים מבנה גרף על פני מודאליות תוכן; [[fair-explainable-edu-recommendations|המלצות הוגנות וניתנות-להסבר]] משלבות הטמעות גרף-ידע עם מידול סדרתי (מסגרת HKG-GRU היברידית).
+- **גרפים מובנים-הוראה להמלצת משאבים:** [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun & Song (2026)]] מפרקים כל ישות של משאב הוראה לארבעה ממדים הוראה (הקשר הוראה, רמה קוגניטיבית, תכונה טכנולוגית, התאמה תרבותית), מחשבים דמיון סמנטי תלוי-משתמש מעל הממדים האלה, וממזגים אותו עם סינון שיתופי באמצעות מקדם מודע-יכולת-ותהליך — מקודדים מבנה פדגוגי ישירות לתוך אות ההמלצה במקום להתייחס למשאבים כפריטי צריכה.
+- **בסיסי ידע מבוססי-אונטולוגיה:** [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova (2026)]] מציע ארכיטקטורת בסיס-ידע היברידית ושכבות מעוגנת בלוגיקת תיאור שמחליפה את מודלי ה-ITS קלאסיים בעלי-אונטולוגיה-בודדת ב**מערכות של אונטולוגיות ממופות** — ומוסיפה ידע פרוצדורלי (מבוסס-כללים), הסתברותי/מטושטש, ומשולב-מהלמידה-של-מכונה — בתוספת מסגרת מטא-נתונים לתיאור, גילוי ושימוש חוזר באונטולוגיות חינוכיות.
+- **[[scaffolding|פיגום]] וכתיבה:** [[veriforge-narrative-drafting-scaffolding-2026|Veriforge]] ו[[visual-query-tracer-declarative-logic-learning|מעקב שאילתה חזותי]] מחילים מבנה מבוסס-גרף על ניסוח נרטיבי ולמידת לוגיקה דקלרטיבית.
+- **גרפים ספרותיים שנאספו על ידי אדם, ומה שביקורת חושפת:** [[incipit-axiom-grounded-scaffolding-literary-creation-2026|Incipit]] מגרף הנחות ספרותיות — 1,455 רשומות אקסיומה, 1,464 מיפויים ל-149 יצירות, ו-472 יחסים מוקלדים — כאשר [[llm|מודלים לשוניים]] מציעים ניסוחים מועמדים שאצרים אנושיים בחרו והעגינו. הביקורת המשוחזרת שלו היא מחכימה כמו המבנה שלו: כל נקודת קצה נפתרת ושום קישור כפול או עצמי אינו נשאר, אך 1,448 מתוך 1,455 האקסיומות נמפות ליצירה אחת בלבד (כך ששימוש חוזר חוצה-יצירות דליל), הטקסונומיה של ההקשר אינה יכולה להפריד בין שני סוגי ההקשר שלה, ושום רשומת מוצא אינה שורדת, מה שמשאיר את התמונה בלתי-מסוגלת לשחזר את הצנרת שלה. תוקף מבני אינו איכות פרשנית, וגרף שנאסף בלי מוצא אינו ניתן לביקורת ולא לריענון.
+
+## בניית גרף ידע מונעת-LLM
+
+מחקר אחרון חוקר שימוש ב[[llm|LLMs]] לבניית גרפי ידע אוטומטית מתוכן חינוכי. מסגרת [[xie-hillm-cd-2026|HiLLM-CD]] משתמשת בצנרות LLM מרובת-סוכנים כדי לייצר קישורי תרגיל-מושג ועצי מושג היררכיים, ולהפחית הסתמכות על הערת מומחים. זה מתחבר ליישומי [[generative-ai]] רחבים יותר בעיצוב תוכנית לימודים ובארגון תוכן אוטומטי, ול[[rag]] (הפקה מוגברת-באחזור), שבו ידע מובנה-גרף יכול לשפר איכות אחזור על פני חיפוש דמיון שטוח.
+
+## יחס למושגים אחרים
+
+גרפי ידע מתחברים ל[[learning-design]] (הגדרת מה ללמד), ל[[curriculum-design]] (כיצד לסדר אותו), ול[[learning-analytics]] (חילוץ תובנות מנתוני אינטראקציה של תלמיד). הם יסודיים למערכות [[intelligent-tutoring]] הזקוקות לייצוגים מובנים של תחומים חינוכיים. כאשר סוכני AI הופכים נפוצים יותר בחינוך, גרפי ידע מספקים את מבנה התחום ש[[agentic-ai|מערכות סוכניות]] מסיקות מעליו — דפוס שנראה ב[[quantum-education-its|ITAS]] ובעוזרי הוראה לגילוי-פערי-ידע.
+
+## מושגים מחוברים
+
+- [[adaptive-learning]]
+- [[knowledge-tracing]]
+- [[intelligent-tutoring]]
+- [[cognitive-diagnosis]]
+- [[student-modeling]]
+- [[learning-analytics]]
+- [[curriculum-design]]
+- [[learning-design]]
+- [[generative-ai]]
+- [[llm]]
+- [[rag]]
+- [[agentic-ai]]
+- [[ai-technologies]] — מטרייה: טכנולוגיות וטכניקות AI (מודלים, אימון LLM, רובוטיקה, RAG, סוכניות)
+- [[recommender-systems-and-learning-paths]]
+## מאמרים מחוברים
+- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — A curator-built graph of 1,455 literary axioms with a structural audit and no provenance record (Liu & Zhao 2026)
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
+- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs for lifelong learning
+- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: narrative-drafting scaffolds
+- [[quantum-education-its]] — Quantum education intelligent tutoring (ITAS)
+- [[multimodal-knowledge-graph-educational-reasoning]] — Multimodal knowledge graphs for educational reasoning
+- [[coursegraph-cs-course-comparison-2026]] — CourseGraph: CS course comparison
+- [[proprl-prerequisite-relation-learning]] — ProPrL: prerequisite-relation learning
+- [[knowledge-gap-detection-ai-tas]] — Knowledge-gap detection in AI teaching assistants
+- [[visual-query-tracer-declarative-logic-learning]] — Visual query tracer for declarative logic learning
+- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
+- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Hybrid CF–KG cross-domain recommendation for multimodal teaching resources
+- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-driven cognitive diagnosis
+- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation

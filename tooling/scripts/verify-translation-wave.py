@@ -19,7 +19,18 @@ import yaml
 
 LOCALE = sys.argv[1] if len(sys.argv) > 1 else 'ar'
 WAVE = sys.argv[2] if len(sys.argv) > 2 else 'wave1'
-SCRATCH = os.environ.get('AR_WAVES_DIR', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', '.hermes', 'cache', 'scratch', 'ar-waves'))
+# The todo-dir env var is locale-generic: WAVES_DIR points at the locale's
+# waves dir (e.g. ~/.hermes/cache/scratch/he-waves); the legacy AR_WAVES_DIR
+# name is still honored so the Arabic wave commands keep working.
+_env_dir = os.environ.get('WAVES_DIR') or os.environ.get('AR_WAVES_DIR')
+SCRATCH = _env_dir or os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', '.hermes', 'cache', 'scratch', 'ar-waves')
+
+# The first-line machine-translation notice, per locale (None = check
+# generically: the first non-empty body line must be italic).
+LOCALE_NOTICE = {
+    'ar': 'ترجمة آلية',
+    'he': 'תרגום אוטומטי',
+}
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 TRANSLATION_KEYS = {'translation_of', 'source_updated', 'translation_note', 'contributors', 'ai_assist', 'updated', 'created'}
 # dates that legitimately differ between source and translation
@@ -127,9 +138,17 @@ for key in assigned:
         cov = present / len(toks)
         if cov < 0.95:
             fail(coll, slug, 'NUMCOV', f'{cov:.2f} ({len(toks)-present} missing)')
-    # 9. notice line
-    if 'ترجمة آلية' not in dst_body[:200]:
-        fail(coll, slug, 'NOTICE', 'machine-translation notice missing from body top')
+    # 9. notice line (locale-specific first-line machine-translation notice)
+    notice = LOCALE_NOTICE.get(LOCALE)
+    if notice is not None:
+        if notice not in dst_body[:300]:
+            fail(coll, slug, 'NOTICE', 'machine-translation notice missing from body top')
+    else:
+        # Unknown locale: the first non-empty body line must be an italic line
+        # (the notice is always the first thing in the body, in italics).
+        first = next((l for l in dst_body.split('\n') if l.strip()), '')
+        if not first.startswith('*'):
+            fail(coll, slug, 'NOTICE', 'first body line is not the italic machine-translation notice')
 
 # disk-vs-assignment diff both directions
 landed = []
