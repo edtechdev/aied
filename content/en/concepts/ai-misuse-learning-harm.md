@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-10-01T09:59:54-04:00"
+updated: "2026-10-13T09:18:19-04:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -37,6 +37,7 @@ The core concept, articulated in [[genai-performance-vs-learning]], is that gene
 - **Answer-copying as a crutch** — misuse is driven less by AI errors misleading students than by students copying answers instead of learning. When [[student-engagement|engagement]] analysis shows students mostly "ask for the answer," learning harm follows.
 - **Motivation erosion** — the perceived availability of an effortless AI shortcut reduces autonomous motivation and persistence, per [[self-determination-theory|self-determination theory]]. Because persistence is what produces deep learning, its erosion compounds the direct harm.
 - **Learning displacement** — the substitution of AI output for the effortful processes (elaboration, recall, self-explanation) that consolidate knowledge, consistent with [[cognitive-offloading|Over-Reliance]].
+- **Confusion read as intent.** When instructors do not name AI's intended role in an assignment, students define it by what is easiest, and faculty read the resulting mismatch as cheating rather than as a boundary that was never stated ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
 
 ### The evidence base
 
@@ -93,7 +94,6 @@ The gaming-the-system literature (hint abuse, systematic guessing) has a dialogu
 
 - [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
 
-
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
@@ -107,3 +107,4 @@ The gaming-the-system literature (hint abuse, systematic guessing) has a dialogu
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
 - [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI dependency fully mediates the path from self-efficacy and teacher support to learning burnout (Huang et al. 2026)
 - [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance predicts negative impact while cognitive reliance predicts positive impact, and evaluation literacy strengthens rather than buffers the harm of consulting AI first (Manikonda et al. 2026)
+- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: A Practical Approach to Teaching with Artificial Intelligence
