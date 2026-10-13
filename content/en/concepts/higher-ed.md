@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-13T11:30:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -31,6 +31,10 @@ AI in higher education research spans every function of the university: from [[i
 ### Institutional transformation
 
 [[institutional-change-framework-ai|Institutional change frameworks]] analyze how universities adapt to AI — not just at the classroom level but across policy, governance, and organizational structure. [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI framework]] reframes faculty readiness as a sociotechnical alignment challenge involving epistemic, pedagogical, institutional, and quality domains. [[universities-ai-era-rethinking|Rethinking universities in the AI era]] examines whether current institutional models can accommodate AI-driven education. Adoption is not uniform: [[alrahmi-org-drivers-ai-adoption-he-2026|organizational-driver research]] identifies what enables or blocks institutional uptake, and [[ai-uk-higher-education-policy-2026|national policy analyses]] show how systemic context shapes university responses. A concrete institutional blueprint comes from [[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]], who documents Lingnan University's repositioning as a "Research-Intensive Liberal Arts Institution in the Digital Era," mandating GenAI literacy for all undergraduates and embedding digital literacy across the Common Core while developing a human-in-the-loop model that foregrounds [[ethics|ethical]] reasoning and critical judgment — arguing the AI-for-education shift is an intellectual transformation, not technocentric augmentation. Macro-level mapping of 22 higher-education AI-integration interventions ([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh et al., 2026]]) reinforces that transformation remains more aspiration than reality: graded on the [[samr-model|SAMR model]], most interventions sit at Substitution or Augmentation, integration is concentrated in [[medical-education|medicine]], engineering, and [[cs-education|computer science]] with little [[humanities-education|humanities]] presence, and evidence skews to North America and Asia with minimal [[global-south|Global South]] representation.
+
+A global comparative index measures the discourse–structure gap. [[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]] coded the official websites of all 100 Times Higher Education 2026-ranked universities against a 20-indicator AI Institutionalization Index. The symbolic layer is saturated while the structural layer is thin: 100% have an AI task force and a master's AI degree, but only 12% have executive AI leadership, 5% require an introductory AI course for undergraduates, and 0% publish an AI accessibility policy despite 93% deploying AI campus services.
+
+Institutionalization also proved independent of prestige (rank correlation r ≈ 0.04), with significant regional variation (ANOVA F = 5.86, p < .001; North America M = 0.63 vs. Europe 0.51, Asia 0.50) and a six-model typology in which only a small subset of mostly large US publics reach "deep institutionalization." The author flags the index as a first-generation, unvalidated, website-only measure of the elite top 100 — a comparative map, not a scorecard.
 
 Which forms of GenAI use an institution has made legitimate is itself measurable. [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classified 102 empirical higher-education studies by how epistemic work was distributed between student and system, and found Assistant (42.16%) and Enabler (42.16%) applications dominating while Generator, Reimaginator and Synthesizer together made up under a fifth of the corpus — not because the models cannot do the rest, but because the marginal forms distribute authorship in ways the university's individual-competence logic does not yet recognize. On their account the binding constraint on GenAI in higher education is institutional legitimacy rather than technical capability, which puts the question squarely in the same policy and assessment-redesign territory as [[academic-integrity|integrity]] and [[assessment]] reform.
 
@@ -90,6 +94,7 @@ Professional-degree programs hold most of the graduate-level evidence, and it is
 - [[student-support-and-success]] — advising, outreach, referral, and support allocation — the institutional side of student success
 
 ## Connected Articles
+- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): AI Institutionalization Index across 100 top-ranked universities; discourse outruns structure, adoption independent of prestige
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI Faculty Readiness Framework
 - [[ai-in-the-wild-college]] — AI in the Wild: College Student AI Use
 - [[institutional-change-framework-ai]] — Institutional Change in the Age of AI

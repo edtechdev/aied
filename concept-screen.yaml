@@ -5149,3 +5149,20 @@
   - ai-literacy
   reason: 'Integrated the student-created-agents-at-scale finding into project-based-learning (the page''s only co-design mention was one line on AI-literacy interventions; this is the largest empirical instance at n = 345 in a 700-student course) and active-learning (no self-flipped or student-created-artifact coverage; grep ''self-flipped'' -> 0, ''student-created'' -> 0), and the extroversion/gender self-esteem finding into self-efficacy (grep ''extrovert'' -> 0, ''self-esteem'' -> 2 but neither the design-task-confidence link). Declined pairs with evidence: cs-education is the discipline home of the study but the page carries course-level content this exploratory perception study does not change (grep ''design pattern'' -> 1); conversational-ai already carries agent-design and adoption-barrier material (grep ''co-design'' -> 2, ''personalization'' -> 3); scaffolding already carries the Part A/Part B scaffolded-vs-open tension via the Vasileiou entry and CoMeT fade rules; student-engagement
     already carries engagement-theme studies (grep ''theme'' -> 6); agency already carries student-ownership material (grep ''ownership'' -> 4); cognitive-offloading carries the building-vs-using distinction implicitly via scaffolding; peer-assessment carries the peer-review component (grep ''peer review'' -> 3) but the paper''s rubric grading was instructor-run; self-regulated-learning already carries SRL-phase prompting (grep ''SRL phase'' -> 1); equity-in-ai-education already carries the underrepresented-backgrounds finding (grep ''underrepresented'' -> 8); ai-literacy no change.'
+- article: chan-ai-institutionalization-index-global-universities-2026
+  date: '2026-10-13'
+  integrated:
+  - higher-ed
+  - accessibility
+  no_change:
+  - educational-policy-ai
+  - ai-literacy
+  - curriculum-design
+  - equity-in-ai-education
+  - teacher-education
+  - governance
+  - institutional-change-framework-ai
+  - special-education
+  - global-south
+  reason: 'Integrated the AIII comparative findings into higher-ed (the Institutional transformation section carried Lingnan, EPIQ-AI, AlSheikh SAMR and Sun''s legitimacy work but no global comparative index or prestige-independence finding; grep ''institutionaliz'' -> 0, ''Institutionalization Index'' -> 0) and the 0%-policy/93%-services accessibility gap into accessibility (the page carried Shin''s US policy void and Wright''s over-inclusive-prohibition work but no measured institutional deployment-vs-policy gap). Declined pairs with evidence: educational-policy-ai already carries rich institutional-policy coding (Qian 50 universities, Adarkwah 26 universities/UNESCO, Ashiq UK sectoral, Watson/Rainie faculty survey, Chirikov syllabi) and the AIII adds a measurement layer the page''s narrative does not need; ai-literacy carries AI-literacy frameworks and the 13% general-education outcome via Watson/Rainie already; curriculum-design carries curricular design patterns but the 5% undergrad
+    requirement is an adoption statistic not a design finding; equity-in-ai-education carries the learner-level digital/resource divide (Kumar''s skill-vs-resource gap) but the page''s equity frame is learner-facing, and the institutional regional gradient is carried on higher-ed; teacher-education has no faculty-development angle in this paper (the upskilling indicator is one of 20); governance/institutional-change-framework-ai are referenced via higher-ed''s connections; special-education and global-south no angle.'
