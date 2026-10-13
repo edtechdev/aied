@@ -5906,3 +5906,20 @@
   - teacher-education
   - teacher-role
   reason: 'integrated socratic-method (the page''s studies cover other domains and had no argumentation/Toulmin component-level result) and biology-education, the discipline page, which carried lab TAs, AI literacy, CCT and challenge-based learning but no Socratic or argumentation study (grep ''Toulmin'' -> 1 across the corpus page, ''argumentation'' -> 0 on the biology page). Discipline rule applied: the generic concept pages do not cover the biology page. Declined pairs with evidence: prompt-engineering saturated (grep ''prompt'' -> 122); critical-thinking already carries Socratic and argument material (grep ''Socratic'' -> 4, ''argument'' -> 4); cognitive-offloading already discusses germane and extraneous load (grep ''germane''/''extraneous'' -> 2 each) and the paper did not measure the construct directly; teacher-education already carries pre-service teacher material extensively (grep ''pre-service''/''preservice'' -> 30).'
+
+- article: nicola-richmond-program-wide-assessment-genai-2026
+  date: '2026-10-13'
+  integrated: []
+  no_change:
+  - academic-integrity
+  - ai-use-disclosure
+  - assessment
+  - authentic-assessment
+  - curriculum-design
+  - educational-development
+  - ethics
+  - generative-ai
+  - oral-assessment
+  - qualitative-research
+  - teacher-role
+  reason: 'Backlogged screen from the 2026-10-11 ingest (the entry was never written, so the corpus concept-screen gate had been red since then); no change on this pass. The paper''s central claim is already carried on educational-development by its companion report from the same project, which that page cites in prose (grep ''program-wide'' -> 1, ''assessment'' -> 18, ''collaborat'' -> 3, ''emotion'' -> 1, and the page''s weave names the same collaborative program-wide team). This 12-month follow-up adds emotional load and a measured view shift, which the page already registers qualitatively, and output counts (18 tasks changed, 17 proposed), which are project progress rather than a transferable claim. Other candidates screened and declined: curriculum-design already carries program-level progression (grep ''program level'' -> 3); authentic-assessment already discusses oral/performative assurance at scale (grep ''oral'' -> 10, ''performative'' -> 2); ai-use-disclosure returned 0 hits but the finding (institutional guidance lagging practice) is a governance observation rather than a disclosure claim; teacher-role carries its part already (grep ''assessment redesign'' -> 1).'
