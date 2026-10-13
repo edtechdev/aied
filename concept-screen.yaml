@@ -5828,3 +5828,81 @@
   reason: 'Accepted three of five pairs. creativity gets a developmental framing the page lacks: matched creativity scores with divergent neural implementation during AI dialog, and the creativity-connectivity
     coupling that exists in adults but not children. cognitive-offloading gets the developmental extension of its EEG under-engagement thread. early-childhood-elementary gets the first neural window on
     its developmental-vulnerability section, with the minimum-age debate and its caveats. Skipped cognitive-psychology and k-12 (frame pages, not narratives the finding changes).'
+
+- article: this-is-how-we-ai-teaching-guide-2026
+  date: '2026-10-13'
+  integrated:
+  - ai-misuse-learning-harm
+  no_change:
+  - active-learning
+  - ai-detection
+  - ai-education
+  - ai-literacy
+  - ai-use-disclosure
+  - community-of-inquiry
+  - critical-thinking
+  - equity-in-ai-education
+  - feedback
+  - framing-ai-use-for-students
+  - guardrails
+  - hallucination-risk
+  - intelligent-tutoring
+  - learning-design
+  - metacognition
+  - online-teaching-and-learning
+  - pedagogy
+  - process-oriented-assessment
+  - productive-failure
+  - simulation
+  - socratic-method
+  - student-ai-interaction
+  - teacher-ai-competency
+  - teacher-role
+  reason: 'integrated ai-misuse-learning-harm only: grep for ''role confusion''/''unstated boundaries''/''boundaries''/''misread'' there returned 0 hits (1 bare ''guess''), so its mechanism - students filling an unnamed AI role by what is easiest and faculty reading the mismatch as cheating - was absent. Every other pair carried the claim already: framing-ai-use-for-students is the guide''s own subject (grep ''framing'' -> 24 hits); ai-detection already documents unreliable detectors (grep ''detection'' -> 59); ai-use-disclosure already holds process-based visibility (grep ''detection'' -> 8, ''visibility'' -> 1); teacher-role already carries the instructor role shift (grep ''framing'' -> 8, ''detection'' -> 4) and learning-design already has the design-work reframing (grep ''design work'' -> 3); socratic-method already carries AI Socratic tutoring (grep ''Socratic'' -> 50) and intelligent-tutoring the learned-helplessness risk; process-oriented-assessment already names process documentation and interaction logs (grep ''process documentation''/''interaction log'' -> 1 each). The guide is one institution''s practice guide, so no other page gained a distinguishing claim.'
+- article: genai-visualization-education-framework-2026
+  date: '2026-10-13'
+  integrated:
+  - visualization
+  no_change:
+  - agency
+  - ai-literacy
+  - critical-thinking
+  - design-based-research
+  - desirable-difficulties
+  - equity-in-ai-education
+  - generative-ai
+  - learning-gains
+  - learning-sciences
+  - llm
+  - medical-education
+  - meta-analysis-systematic-review
+  - metacognition
+  - multimodal
+  - pedagogy
+  - prior-knowledge
+  - scaffolding
+  - self-regulated-learning
+  - transfer-of-learning
+  - usability-research
+  reason: 'integrated visualization only: the page carried AI generating visual content and visualization literacy (grep ''visualization literacy'' -> 4, ''infographic'' -> 2) but nothing on the learner''s own construction work, so the process-output divide and the transparency/invitation/fading agency line were new. scaffolding was declined on prior coverage of the mechanism itself (grep ''fad'' -> 5, ''scaffold'' -> 99) and agency is saturated (grep ''agency'' -> 127), so neither gained a distinguishable claim; prior-knowledge (26 hits), self-regulated-learning (18 ''scaffold'', 9 ''agency''), metacognition (11 ''process'') and transfer-of-learning (3 ''fading'') already carry the framework''s components; ai-literacy (15 ''scaffold'', 7 ''agency'') already carries the moderation claim; the rest are frame or generic pages (llm, generative-ai, pedagogy, multimodal, learning-sciences, learning-gains, equity-in-ai-education, critical-thinking, desirable-difficulties, design-based-research, usability-research, meta-analysis-systematic-review, medical-education).'
+- article: genai-socratic-tutor-biology-argumentation-2026
+  date: '2026-10-13'
+  integrated:
+  - socratic-method
+  - biology-education
+  no_change:
+  - academic-integrity
+  - cognitive-offloading
+  - constructivist
+  - critical-thinking
+  - ethics
+  - generative-ai
+  - hallucination-risk
+  - llm
+  - metacognition
+  - pedagogy
+  - prompt-engineering
+  - quantitative-research
+  - teacher-education
+  - teacher-role
+  reason: 'integrated socratic-method (the page''s studies cover other domains and had no argumentation/Toulmin component-level result) and biology-education, the discipline page, which carried lab TAs, AI literacy, CCT and challenge-based learning but no Socratic or argumentation study (grep ''Toulmin'' -> 1 across the corpus page, ''argumentation'' -> 0 on the biology page). Discipline rule applied: the generic concept pages do not cover the biology page. Declined pairs with evidence: prompt-engineering saturated (grep ''prompt'' -> 122); critical-thinking already carries Socratic and argument material (grep ''Socratic'' -> 4, ''argument'' -> 4); cognitive-offloading already discusses germane and extraneous load (grep ''germane''/''extraneous'' -> 2 each) and the paper did not measure the construct directly; teacher-education already carries pre-service teacher material extensively (grep ''pre-service''/''preservice'' -> 30).'
