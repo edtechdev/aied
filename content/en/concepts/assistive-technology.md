@@ -1,7 +1,7 @@
 ---
 title: Assistive Technology
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-10-13T11:05:00-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -42,6 +42,7 @@ A 2026 scoping review of digital assistive [[ai-technologies|technologies]] for 
 - **Match the tool to the learner and task.** Screen readers, captions, speech, and tactile output each address different barriers — choose based on the individual's needs and the content format.
 - **Leverage AI to lower the cost of assistive adaptations.** AI can auto-caption, simplify text, and generate alternatives, but evaluate output quality for pedagogical accuracy.
 - **Ground provision in policy.** Reference the Assistive Technology Act, IDEA, and WCAG when procuring or building AI tools.
+- **Say which function the support serves — and evaluate against that function.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguish compensation (evaluated by access and participation) from scaffolding (decisions-with-support) from development (strategy use after fading or transfer). They add a rule aimed at this page's caution: accessibility support is not remediation — whether a tool is an accommodation, strategy instruction, or temporary practice support "should be stated in the learning plan."
 
 ## Connected Concepts
 

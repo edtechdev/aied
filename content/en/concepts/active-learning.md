@@ -1,7 +1,7 @@
 ---
 title: Active Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-13T11:05:00-04:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -43,6 +43,7 @@ AI-enabled active learning manifests across multiple forms in this knowledge bas
 - **Active learning as a project-based, community structure.** [[academic-league-of-ai-2026|The Academic League of AI]] organizes extracurricular AI education around competition teams, study groups, and AI-for-social-impact projects, embodying active and [[project-based-learning|project-based learning]] through democratic student governance rather than top-down curriculum.
 
 - **Mindtools and generative engagement.** [[genai-mindtool-generative-learning|GenAI as a mindtool]] positions AI as a device students think *with* rather than a source of answers, aligning active learning with generative-learning theories where learners integrate new ideas into existing knowledge.
+- **Building the tutor as the active-learning task.** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] inverted the usual AI-tutor arrangement: instead of using a tutor, 345 students in a 700-student software course each designed a conversational agent to teach three design patterns to a peer, so the active-learning work was the agent's construction — anticipating user needs, translating abstract concepts into teachable pieces. Students valued the open-ended design freedom (22.3% top positive theme) but the top complaint was unclear instructions (23.7%), and the authors caution the no-control-group, volunteer-sample design supports engagement claims only.
 
 - **Design around the model's mistakes.** A five-step sequence (independent analysis, a standardized ChatGPT prompt, critical evaluation of the output, refinement, and class discussion) works because the AI is predictably wrong: ChatGPT mislabels the inelastic demand in a song lyric as "perfectly elastic," and the discrepancy teaches students to validate output ([[beck-genai-literacy-economics-hands-on|Beck & Brodersen, 2025]]).
 - **A pedagogically designed AI tutor can outperform the active-learning classroom itself.** A crossover [[rct]] in Harvard's introductory physics course set a custom AI tutor against the course's own in-class active-learning lessons — the same research-based pedagogy, not a lecture — and found significantly more learning in less time: median post-test 4.5 against 3.5, effect size 0.63 by linear regression, with a median 49 minutes on task against 60 in class ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]). The authors credit design rather than the medium, since the tutor was engineered to carry the same seven research-based practices as the class and added only personalized feedback on demand and self-pacing.
