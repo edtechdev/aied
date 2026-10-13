@@ -1,0 +1,75 @@
+---
+title: בינה מלאכותית מודעת לפסיכומטריה
+created: "2026-10-12T22:35:00-04:00"
+type: concept
+technology: [llm]
+assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
+confidence: medium
+reviewed_by: [editor]
+translation_of: concepts/psychometrically-aware-ai
+source_updated: "2026-09-30T09:59:35-04:00"
+translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-12"
+    agent: hermes-agent
+---
+
+*תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+
+> **בינה מלאכותית מודעת לפסיכומטריה** — מערכות הערכה מבוססות בינה מלאכותית המיושרות לתיאוריית המדידה — הוא הסטנדרט המתקדם ב[[llm-psychometric-calibration-cdp]], ב[[llm-item-difficulty-prediction]], ב[[automated-assessment|הערכה מבוססת בינה מלאכותית מודעת-ביטחון]], וב[[item-response-theory|תיאוריית תגובת הפריט]]: הערכה מכוונת ומודעת-אי-ודאות משמרת מהימנות ותוקף במקום להחליף ביטחון מודל גלמי בראיה פסיכומטרית.
+
+## שאלות למחשבה
+
+- בינה מלאכותית מדרגת תשובת סטודנט ומדווחת ציון נשמע-בטוח. על בסיס מה הייתם סומכים על המספר הזה — והאם תשובתכם משתנה כאשר אתם לומדים שהמודל לא היה מכוון נגד אף סטנדרט מדידה?
+- העמוד מזהיר נגד החלפת ביטחון מודל גלמי בראיה פסיכומטרית. חשבו על פעם שהאמנתם לפלט בינה מלאכותית בטוח שהסתבר כשגוי. מה הפך את הביטחון שלו לבלתי-מרוויח, וכיצד היה נראה פלט "מודע-אי-ודאות" במקומו?
+- מחקר [[research-methods-aied|מצא]] שעל אותו מכשיר הערכה, מבני התגובה של בני אדם ושל מודלים לשוניים גדולים מתפזרים — כלומר מודל יכול לציין היטב ובכל זאת למדוד משהו אחר ממה שהמבחן מתכוון. אם הייתם [[teacher-role|מורה]] המשתמש במדרג AI, כיצד הייתם מזהה אי פעם שהמבחן "משמעות" משהו אחר למכונה מאשר לסטודנטים שלכם?
+- חיזוי קושי-פריט משתמש במודלים לשוניים גדולים להעריך כמה קשה שאלה. לפני הקריאה, שקלו: האם "כמה קשה שאלה זו?" הוא עובדה על השאלה, או על האנשים (או המודלים) העונים עליה — ומה שהדו-משמעות הזו מרמזת לשימוש בבינה מלאכותית לכיול מבחנים?
+- כיול, מהימנות ותוקף הם מושגי מדידה עם משמעויות מדויקות. אילו מהם חשבתם עליהם באמת בתרגול ההערכה שלכם, והיכן אתם עשויים להסתמך על פלט בינה מלאכותית שלא נבדק נגדם אי פעם?
+- עבור [[administrator|מנהל]] או מפתח: אם כלי הערכה מבוסס בינה מלאכותית שאתם שוקלים מדווח רק על דיוק גלמי, אילו שאלות ספציפיות הייתם שואלים את הספק שלו כעת לפני שתפרסו אותו עם סטודנטים אמיתיים?
+
+## מבוא
+
+ככל שמערכות בינה מלאכותית מדרגות תשובות, חוזות קושי, ומספקות [[feedback|משוב]], סיכון מפתח הוא שהן מדווחות פלטים נשמעים-בטוחים שלא אומתו נגד עקרונות מדידה. בינה מלאכותית מודעת לפסיכומטריה מתייחסת לכך על ידי עיגון הערכת ה[[assessment|הערכה]] של בינה מלאכותית בפסיכומטריה מבוססת — כיול פלטים, כימות אי-ודאות, ושימור סטנדרטים של [[assessment-validity|תוקף הערכה]] ו[[educational-measurement|מדידה חינוכית]] במקום הסתמכות על דיוק גלמי או ביטחון [[self-report-measures|מדווח-עצמי]].
+
+### כיצד בינה מלאכותית מודעת לפסיכומטריה מופיעה במחקר
+
+- **כיול וביטחון:** [[automated-assessment|הערכה מודעת-ביטחון]] ו[[llm-psychometric-calibration-cdp|כיול פסיכומטרי של מודל לשוני גדול]] מבטיחים שבינה מלאכותית מדווחת ציונים משמעותיים ומודעי-אי-ודאות במקום אומדי נקודה בטוחים-ביתר.
+- **ביטחון המודל אינו מספיק.** ב-SciEntsBank, ביטחון מורכב, לגנטי ומבוסס-עקביות כל אחד מהם נכשל להפריד בין תשובות קצרות נכונות ולא נכונות; הכיול הטוב ביותר הגיע מהוספת אי-ודאות אלאטורית נגזרת-מערך-נתונים — אנטרופיה בתוך-אשכול של תגובות מוטבעות — באמצעות יער-אקראי בתוספת סולם-פלאט, ומאפשר תיוג-אוטומטי סלקטיבי וסקירת בני אדם ([[cong-confidence-asag-2026|Cong et al. (2026)]]).
+- **דגלי ביטחון ממיינים סקירה, לא קבלה.** בניתוח גרדים בעל עמידה גבוהה של פיזיקה בכתיבת יד, תוויות ביטחון של AI עקבו אחרי שגיאת ציון נמוכה בהרבה בחלקים בעלי-ביטחון-גבוה, אך חלקים בעלי-ביטחון-גבוה ולא מסומנים עדיין לא הסכימו עם הציונים הרשמיים, ולכן התוויות מועילות לתעדוף סקירת בוחן ולא לאישור קבלה אוטומטית ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
+- **חיזוי קושי:** [[llm-item-difficulty-prediction|חיזוי קושי-פריט]] מראה כיצד אומדים מבוססי-מודל-לשוני-גדול חייבים להיות מאומתים נגד מודלים פסיכומטריים (ראו [[item-response-theory|תיאוריית תגובת הפריט]]). [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] מספקים הדגמה בקנה מידה גדול: לאורך 5,170 פריטי מתמטיקה וקריאה של K-5 מכוילים תחת מודל IRT של ראץ', דירוגי קושי zero-shot של GPT-4o התאימו קורלציה בינונית-חזקה לקושיים האמיתיים (r = 0.83 מתמטיקה, r = 0.81 קריאה) אך היו לא אחידים לאורך כיתות, בעוד גישה מבוססת-תכונה (תכונות שחולצו על ידי מודל לשוני גדול לתוך מודלים מבוססי-עץ) הגיעו לקורלציות עד r = 0.87. חשיבות ה[[explainable-ai|תכונה]] הנתינת-פרשנות של המחקר (רמת כיתה וספירת מילים חוזים המובילים) וזרימת העבודה המעשית בת שבעה שלבים ממחישות כיצד בינה מלאכותית מודעת לפסיכומטריה ניתנת לתפעול — בעוד ממצא הגבלת-טווח בכיתה מוקדם ואזהרות ההכללה שלה מדגישים את הצורך לאמת אומדים של מודל לשוני גדול נגד פרמטרים פסיכומטריים המותאמים.
+- **שיחזור עקומה אינו אותו דבר כמו שיחזור כל פרמטר.** מודל רב-מודאלי מכוון כמעונה [[simulating-students|מדומה]] העריך קושי פריט מוחזק-בחוץ ב-r = 0.85 ושיחזר את פרמטר הניחוש ב-0.48, אך ההבחנה הייתה חלשה ב-0.31 — ולכן איזה פרמטר השיטה משחזרת הוא הממצא ([[multimodal-item-parameter-estimation-2026|Ormerod & Kim, 2026]]).
+- **תוקף מדידה:** המושג מתחבר ל[[assessment-validity|תוקף הערכה]] ול[[educational-measurement|מדידה חינוכית]], המסגרות שמגדירות כיצד נראית הערכה חוקית ומהימנה מבוססת בינה מלאכותית.
+- **תוקף מבנה-לגנטי:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] מראים שגישה מודעת-פסיכומטרית חייבת גם לוודא שהערכה מודדת את *אותו מבנה לגנטי* במודלים לשוניים גדולים כמו בבני אדם. מכיוון שמבני הפקטור של תגובת מודלים לשוניים גדולים ואנושית מתפזרים על אותם מכשירים, אפילו מודלים שמציינים היטב עשויים שלא למדוד את המבנה שהמבחן מיועד למדוד — אזהרה לכל הערכת AI ששואלת ראית תוקף אנושית.
+- **תווית יכולה למדוד יותר, או פחות, ממה שהיא מכנה.** הטמעת 55 מבנים ו-272 פריטים של 12 מכשירי אוריינות AI חשפה זוגות jangle (אותה תווית, מדידה שונה) וזוגות jingle (תוויות שונות, ניסוח כמעט זהה), ושיחזרה מהימנות ב-r = 0.49, בדיקת קדם-איסוף שהבחנות מבנה שורדות לניסוח פריט ([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al. (2026)]]).
+- **צנרות יכולת-לגנטית וקביעת סטנדרט:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] מספקים תבנית קונקרטית לציון מודע-פסיכומטרי במבחן לאומי: ציוני פריט מחוון אינם מסוכמים ישירות אלא מוזנים לתוך מודל [[item-response-theory|IRT]] שאומדי היכולת-הלגנטית שלו נחתכים בשיטת קביעת-הסטנדרט של Bookmark ל-Proficient / Close to Proficiency / Insufficient, כאשר המעבר דורש לפחות שני חלקים ב-Proficient והנותר לפחות ב-Close to Proficiency. המחברים שיחזרו את הצנרת הזו בצורה אוטומטית (67% סבירות של מענה נכון על לפחות 7 פריטי מחוון לקיפול הנמוך ולפחות 10 לגבוה), ומאפשרים לציוני פריט של AI ואנושיים להיות מושווים נגד קריטריוני החלטה זהים ולא על הסכמה גלמית בלבד.
+
+### קשרים
+
+בינה מלאכותית מודעת לפסיכומטריה יושבת בצומת של [[educational-measurement|מדידה חינוכית]], [[assessment-validity|תוקף הערכה]], [[item-response-theory|תיאוריית תגובת הפריט]], ו[[automated-assessment|הערכה מבוססת בינה מלאכותית מודעת-ביטחון]]. היא מרכזית ל[[ai-ed-evaluation|הערכת התערבויות של בינה מלאכותית בחינוך]] (האם הערכת AI מהימנה) ומתחברת ל[[llm|הערכה אוטומטית מבוססת]] בינה מלאכותית, ל[[automated-assessment|גרדינג אוטומטי]] ול[[automated-assessment|הערכה אוטומטית מבוססת בינה מלאכותית]]. הדגשה שלה על תוקף מדברת גם על [[limitations-in-aied-research|המגבלות המדידתיות]] של מחקר ה[[ai-education|AIED]].
+
+## מושגים מחוברים
+
+- [[educational-measurement]]
+- [[assessment-validity]]
+- [[item-response-theory]]
+- [[automated-assessment]]
+- [[ai-ed-evaluation]]
+- [[llm]]
+- [[limitations-in-aied-research]]
+- [[ai-education]]
+
+## מאמרים מחוברים
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
+- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
+- [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
+- [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
+- [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
+- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
+- [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparing AI literacy instruments: jangle and jingle pairs across 55 constructs
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
