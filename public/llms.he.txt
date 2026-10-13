@@ -1,0 +1,268 @@
+# AI in Education Knowledge Base
+> זוהי תרגום מכונה של מאגר הידע האנגלי, שלא נבדק עדיין על ידי דובר/ת שפת אם. הוא כולל את עמודי המושגים ואת עמודי השאלות הנפוצות; עמודי המאמרים נותרים באנגלית.
+
+## Concepts
+
+- [בינה מלאכותית בחינוך](https://edtechdev.github.io/aied/concepts/ai-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [אוריינות AI](https://edtechdev.github.io/aied/concepts/ai-literacy/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [בינה מלאכותית סוכנית](https://edtechdev.github.io/aied/concepts/agentic-ai/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [פריקת עומס קוגניטיבי](https://edtechdev.github.io/aied/concepts/cognitive-offloading/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כניעה קוגניטיבית](https://edtechdev.github.io/aied/concepts/cognitive-surrender/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מסגור שימוש בבינה מלאכותית עבור סטודנטים](https://edtechdev.github.io/aied/concepts/framing-ai-use-for-students/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [צמצום שימוש לרעה בבינה מלאכותית](https://edtechdev.github.io/aied/concepts/reducing-ai-misuse/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [יושרה אקדמית](https://edtechdev.github.io/aied/concepts/academic-integrity/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הוראה](https://edtechdev.github.io/aied/concepts/teacher-role/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כושר AI של המורה](https://edtechdev.github.io/aied/concepts/teacher-ai-competency/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [עיצוב למידה](https://edtechdev.github.io/aied/concepts/learning-design/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [פיתוח חינוכי](https://edtechdev.github.io/aied/concepts/educational-development/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [ההיסטוריה של התחום](https://edtechdev.github.io/aied/concepts/history-of-aied/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [פרשנות ויישום מחקר AIED](https://edtechdev.github.io/aied/concepts/interpreting-and-applying-aied-research/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מגבלות במחקר AIEd](https://edtechdev.github.io/aied/concepts/limitations-in-aied-research/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [פילוסופיה של בינה מלאכותית בחינוך](https://edtechdev.github.io/aied/concepts/philosophy-of-ai-in-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [תיאוריות ומסגרות](https://edtechdev.github.io/aied/concepts/theories-and-frameworks/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [פיתוח תיאוריה ב-AI בחינוך](https://edtechdev.github.io/aied/concepts/theory-development-aied/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [שיתוף פעולה בין אדם לבינה מלאכותית](https://edtechdev.github.io/aied/concepts/human-ai-collaboration/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [סוכנות הלומד](https://edtechdev.github.io/aied/concepts/agency/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [זהות הלומד](https://edtechdev.github.io/aied/concepts/learner-identity/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חשיבה עיצובית](https://edtechdev.github.io/aied/concepts/design-thinking/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [עיצוב תוכנית לימודים](https://edtechdev.github.io/aied/concepts/curriculum-design/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חשיבה ביקורתית](https://edtechdev.github.io/aied/concepts/critical-thinking/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חשיבה חישובית](https://edtechdev.github.io/aied/concepts/computational-thinking/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מודל SAMR](https://edtechdev.github.io/aied/concepts/samr-model/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [ידע טכנולוגי-פדגוגי-תוכני (TPACK)](https://edtechdev.github.io/aied/concepts/tpack/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [פדגוגיות ואסטרטגיות הוראה](https://edtechdev.github.io/aied/concepts/pedagogy/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [דפוסים פדגוגיים](https://edtechdev.github.io/aied/concepts/pedagogical-patterns/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה פעילה](https://edtechdev.github.io/aied/concepts/active-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה שיתופית](https://edtechdev.github.io/aied/concepts/collaborative-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה מבוססת פרויקטים](https://edtechdev.github.io/aied/concepts/project-based-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה מבוססת בעיות](https://edtechdev.github.io/aied/concepts/problem-based-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כישלון פרודוקטיבי](https://edtechdev.github.io/aied/concepts/productive-failure/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה מבוססת חקר](https://edtechdev.github.io/aied/concepts/inquiry-based-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה חווייתית](https://edtechdev.github.io/aied/concepts/experiential-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה מבוססת משחק](https://edtechdev.github.io/aied/concepts/game-based-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [לימוד דרך הוראה](https://edtechdev.github.io/aied/concepts/learning-by-teaching/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [פיגום](https://edtechdev.github.io/aied/concepts/scaffolding/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [השיטה הסוקרטית](https://edtechdev.github.io/aied/concepts/socratic-method/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [פדגוגיה ביקורתית](https://edtechdev.github.io/aied/concepts/critical-pedagogy/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [שיתופי פעולה פדגוגיים](https://edtechdev.github.io/aied/concepts/pedagogical-partnerships/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [סיפורי בחינוך](https://edtechdev.github.io/aied/concepts/storytelling-in-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הוראה ולמידה מקוונות](https://edtechdev.github.io/aied/concepts/online-teaching-and-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [וידאו בחינוך](https://edtechdev.github.io/aied/concepts/video-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [תיאוריות למידה](https://edtechdev.github.io/aied/concepts/learning-theories/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [ביהביוריזם](https://edtechdev.github.io/aied/concepts/behaviorism/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [קונסטרוקטיביזם](https://edtechdev.github.io/aied/concepts/constructivist/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [פסיכולוגיה קוגניטיבית](https://edtechdev.github.io/aied/concepts/cognitive-psychology/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה סוציו-תרבותית](https://edtechdev.github.io/aied/concepts/sociocultural-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [קוגניציה מבוזרת](https://edtechdev.github.io/aied/concepts/distributed-cognition/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה מוצבת](https://edtechdev.github.io/aied/concepts/situated-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה מגולמת](https://edtechdev.github.io/aied/concepts/embodied-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [קהילת חקר](https://edtechdev.github.io/aied/concepts/community-of-inquiry/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה עצמית מוסדרת](https://edtechdev.github.io/aied/concepts/self-regulated-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [תיאוריית ההכרעה העצמית](https://edtechdev.github.io/aied/concepts/self-determination-theory/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מוטיבציה](https://edtechdev.github.io/aied/concepts/motivation/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [יעילות עצמית](https://edtechdev.github.io/aied/concepts/self-efficacy/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה מונחית עצמית](https://edtechdev.github.io/aied/concepts/self-directed-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מטאקוגניציה](https://edtechdev.github.io/aied/concepts/metacognition/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [קשיים רצויים](https://edtechdev.github.io/aied/concepts/desirable-difficulties/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [העברת למידה](https://edtechdev.github.io/aied/concepts/transfer-of-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [ידע קודם](https://edtechdev.github.io/aied/concepts/prior-knowledge/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מסגרת ICAP](https://edtechdev.github.io/aied/concepts/icap-framework/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [תפיסות מוטעות על בינה מלאכותית](https://edtechdev.github.io/aied/concepts/misconceptions/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [טקסט הפרכה](https://edtechdev.github.io/aied/concepts/refutation-text/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [תאוריית הפעילות](https://edtechdev.github.io/aied/concepts/activity-theory-aied/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [אחזור, ריווח ושילוב](https://edtechdev.github.io/aied/concepts/retrieval-spacing-interleaving/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מעורבות סטודנטים](https://edtechdev.github.io/aied/concepts/student-engagement/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חיפוש עזרה](https://edtechdev.github.io/aied/concepts/help-seeking/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה חברתית-רגשית](https://edtechdev.github.io/aied/concepts/social-emotional-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [רווחה](https://edtechdev.github.io/aied/concepts/well-being/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [יצירתיות](https://edtechdev.github.io/aied/concepts/creativity/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [אינטראקציה בין תלמידים לבינה מלאכותית](https://edtechdev.github.io/aied/concepts/student-ai-interaction/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [פתרון בעיות](https://edtechdev.github.io/aied/concepts/problem-solving/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידת-מיומנות](https://edtechdev.github.io/aied/concepts/mastery-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חרדה ומתח](https://edtechdev.github.io/aied/concepts/anxiety-and-stress/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חוויית הסטודנט](https://edtechdev.github.io/aied/concepts/student-experience/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [תמיכה והצלחת סטודנטים](https://edtechdev.github.io/aied/concepts/student-support-and-success/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [נורמות חברתיות של שימוש ב-AI](https://edtechdev.github.io/aied/concepts/social-norms-ai-use/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [פיתוח קריירה ומוכנות](https://edtechdev.github.io/aied/concepts/career-development-and-readiness/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה לאורך כל החיים](https://edtechdev.github.io/aied/concepts/lifelong-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה במקום העבודה](https://edtechdev.github.io/aied/concepts/professional-training/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [טכנולוגיות](https://edtechdev.github.io/aied/concepts/ai-technologies/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידת מכונה](https://edtechdev.github.io/aied/concepts/machine-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [בינה מלאכותית יוצרת](https://edtechdev.github.io/aied/concepts/generative-ai/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מודלי שפה גדולים (LLM)](https://edtechdev.github.io/aied/concepts/llm/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [RAG (יצירה מוגברת-אחזור)](https://edtechdev.github.io/aied/concepts/rag/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הנדסת הנחיות](https://edtechdev.github.io/aied/concepts/prompt-engineering/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [אימון וכיוונון עדין של מודלים לשוניים גדולים](https://edtechdev.github.io/aied/concepts/llm-training-and-fine-tuning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [קידוד אווירה](https://edtechdev.github.io/aied/concepts/vibe-coding/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [בינה מלאכותית רב-מודאלית](https://edtechdev.github.io/aied/concepts/multimodal/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [טכנולוגיות דיבור וקול](https://edtechdev.github.io/aied/concepts/speech-and-voice-technologies/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [המחשה חזותית](https://edtechdev.github.io/aied/concepts/visualization/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [NLP חינוכי](https://edtechdev.github.io/aied/concepts/educational-nlp/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידת חיזוק](https://edtechdev.github.io/aied/concepts/reinforcement-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [גרף ידע](https://edtechdev.github.io/aied/concepts/knowledge-graph/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [רובוטים בחינוך](https://edtechdev.github.io/aied/concepts/educational-robotics/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [בינה מלאכותית שיחתית](https://edtechdev.github.io/aied/concepts/conversational-ai/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [סימולציה](https://edtechdev.github.io/aied/concepts/simulation/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מציאות מדומה ומוגברת](https://edtechdev.github.io/aied/concepts/virtual-and-augmented-reality/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מידול הלומד והוראה אדפטיבית](https://edtechdev.github.io/aied/concepts/student-modeling/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [עקיבה אחר ידע](https://edtechdev.github.io/aied/concepts/knowledge-tracing/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [אבחון קוגניטיבי](https://edtechdev.github.io/aied/concepts/cognitive-diagnosis/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [סימולציית סטודנטים](https://edtechdev.github.io/aied/concepts/simulating-students/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חונך אינטליגנטי](https://edtechdev.github.io/aied/concepts/intelligent-tutoring/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה מסתגלת](https://edtechdev.github.io/aied/concepts/adaptive-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה מותאמת אישית](https://edtechdev.github.io/aied/concepts/personalized-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מערכות המלצה ומסלולי למידה](https://edtechdev.github.io/aied/concepts/recommender-systems-and-learning-paths/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [סוכן פדגוגי](https://edtechdev.github.io/aied/concepts/pedagogical-agent/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חונכות אפקטיבית](https://edtechdev.github.io/aied/concepts/affective-tutoring/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מחשוב אפקטיבי](https://edtechdev.github.io/aied/concepts/affective-computing/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [בינה מלאכותית עם אדם בלולאה](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [אנליטיקת למידה](https://edtechdev.github.io/aied/concepts/learning-analytics/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מודלים של אימוץ טכנולוגיה](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [קוד פתוח](https://edtechdev.github.io/aied/concepts/open-source/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [פלטפורמת EdTech](https://edtechdev.github.io/aied/concepts/edtech-platform/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [AIED בתחומי הדעת](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך מתמטי](https://edtechdev.github.io/aied/concepts/math-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הוראת הפיזיקה](https://edtechdev.github.io/aied/concepts/physics-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך כימיה](https://edtechdev.github.io/aied/concepts/chemistry-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך לביולוגיה](https://edtechdev.github.io/aied/concepts/biology-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך במדעי המחשב](https://edtechdev.github.io/aied/concepts/cs-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך להנדסה](https://edtechdev.github.io/aied/concepts/engineering-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך STEM](https://edtechdev.github.io/aied/concepts/stem-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הוראת מדעים](https://edtechdev.github.io/aied/concepts/science-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כתיבה](https://edtechdev.github.io/aied/concepts/writing-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [לימוד שפות](https://edtechdev.github.io/aied/concepts/language-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הוראת אנגלית (EAP / EFL / ESL)](https://edtechdev.github.io/aied/concepts/english-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך סביבתי](https://edtechdev.github.io/aied/concepts/environmental-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך עסקי](https://edtechdev.github.io/aied/concepts/business-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך במדעי הרוח והמדעים החברתיים](https://edtechdev.github.io/aied/concepts/humanities-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך לאמנויות, עיצוב ומדיה](https://edtechdev.github.io/aied/concepts/arts-design-and-media-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך עיצוב](https://edtechdev.github.io/aied/concepts/design-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [רפואה ומקצועות הבריאות](https://edtechdev.github.io/aied/concepts/medical-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך סיעוד](https://edtechdev.github.io/aied/concepts/nursing-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך משפטי](https://edtechdev.github.io/aied/concepts/legal-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך טכנולוגיות מידע](https://edtechdev.github.io/aied/concepts/information-technology/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מדעי הלמידה](https://edtechdev.github.io/aied/concepts/learning-sciences/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך גן ותיכון (K-12)](https://edtechdev.github.io/aied/concepts/k-12/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך לגיל הרך וליסודי עם בינה מלאכותית](https://edtechdev.github.io/aied/concepts/early-childhood-elementary-ai-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [השכלה גבוהה](https://edtechdev.github.io/aied/concepts/higher-ed/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [בוגרים (מבוגרים הלומדים)](https://edtechdev.github.io/aied/concepts/adult-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך והכשרה מקצועיים](https://edtechdev.github.io/aied/concepts/vocational-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך מיוחד](https://edtechdev.github.io/aied/concepts/special-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הכשרת מורים](https://edtechdev.github.io/aied/concepts/teacher-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [רמות חינוך](https://edtechdev.github.io/aied/concepts/education-levels/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הערכה](https://edtechdev.github.io/aied/concepts/assessment/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [שיפוט הערכתי](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [משוב](https://edtechdev.github.io/aied/concepts/feedback/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [אוריינות משוב](https://edtechdev.github.io/aied/concepts/feedback-literacy/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [איכות המשוב של בינה מלאכותית](https://edtechdev.github.io/aied/concepts/ai-feedback-quality/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הערכה עיצובית](https://edtechdev.github.io/aied/concepts/formative-assessment/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הערכה מסכמת](https://edtechdev.github.io/aied/concepts/summative-assessment/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הערכה אותנטית](https://edtechdev.github.io/aied/concepts/authentic-assessment/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הערכה ממוקדת-תהליך](https://edtechdev.github.io/aied/concepts/process-oriented-assessment/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [עבודה בקבוצות](https://edtechdev.github.io/aied/concepts/group-work/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [תיק עבודות אלקטרוני (e-portfolio)](https://edtechdev.github.io/aied/concepts/eportfolio/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הערכה עמיתים](https://edtechdev.github.io/aied/concepts/peer-assessment/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הערכה עצמית](https://edtechdev.github.io/aied/concepts/self-assessment/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הערכה בעל-פה](https://edtechdev.github.io/aied/concepts/oral-assessment/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הערכה אוטומטית](https://edtechdev.github.io/aied/concepts/automated-assessment/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [ציון אוטומטי של חיבורים](https://edtechdev.github.io/aied/concepts/automated-essay-scoring/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [יצירת שאלות אוטומטית](https://edtechdev.github.io/aied/concepts/automated-question-generation/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [תוקף ההערכה](https://edtechdev.github.io/aied/concepts/assessment-validity/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [בינה מלאכותית מודעת לפסיכומטריה](https://edtechdev.github.io/aied/concepts/psychometrically-aware-ai/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מדידה חינוכית](https://edtechdev.github.io/aied/concepts/educational-measurement/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [תיאוריית תגובת הפריט](https://edtechdev.github.io/aied/concepts/item-response-theory/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מידות דיווח-עצמי](https://edtechdev.github.io/aied/concepts/self-report-measures/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [גילוי בינה מלאכותית](https://edtechdev.github.io/aied/concepts/ai-detection/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [פיקוח מרחוק](https://edtechdev.github.io/aied/concepts/remote-proctoring/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [רווחי למידה](https://edtechdev.github.io/aied/concepts/learning-gains/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [שיטות מחקר ב-AIED](https://edtechdev.github.io/aied/concepts/research-methods-aied/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מחקר חינוכי בסיוע בינה מלאכותית](https://edtechdev.github.io/aied/concepts/ai-assisted-educational-research/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מחקר איכותני](https://edtechdev.github.io/aied/concepts/qualitative-research/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מחקר כמותי](https://edtechdev.github.io/aied/concepts/quantitative-research/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מחקר מעורבות](https://edtechdev.github.io/aied/concepts/mixed-methods-research/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מחקר מבוסס עיצוב](https://edtechdev.github.io/aied/concepts/design-based-research/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מחקר שמישות](https://edtechdev.github.io/aied/concepts/usability-research/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [ניסוי מבוקר אקראי (RCT)](https://edtechdev.github.io/aied/concepts/rct/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מטא-אנליזה וסקירה שיטתית](https://edtechdev.github.io/aied/concepts/meta-analysis-systematic-review/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [ניתוח פרופילים לאטנטיים](https://edtechdev.github.io/aied/concepts/latent-profile-analysis/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [ניתוח רשתות](https://edtechdev.github.io/aied/concepts/network-analysis/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הערכת מערכות בינה מלאכותית בחינוך](https://edtechdev.github.io/aied/concepts/ai-ed-evaluation/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [בנצ'מרק](https://edtechdev.github.io/aied/concepts/benchmark/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מנהלים](https://edtechdev.github.io/aied/concepts/administrator/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מפתחי טכנולוגיה חינוכית](https://edtechdev.github.io/aied/concepts/educational-technology-developers/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [לומדים](https://edtechdev.github.io/aied/concepts/learners/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [ספרנים](https://edtechdev.github.io/aied/concepts/librarians/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הורים ומשפחות](https://edtechdev.github.io/aied/concepts/parents-and-families/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [בעלי עניין](https://edtechdev.github.io/aied/concepts/stakeholders/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מדיניות חינוכית לבינה מלאכותית](https://edtechdev.github.io/aied/concepts/educational-policy-ai/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [ממשל בינה מלאכותית](https://edtechdev.github.io/aied/concepts/governance/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [ניהול שינוי](https://edtechdev.github.io/aied/concepts/change-management/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [רגולציה של בינה מלאכותית בחינוך](https://edtechdev.github.io/aied/concepts/regulation/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [שוויון](https://edtechdev.github.io/aied/concepts/equity-in-ai-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [אפקטים דיפרנציאליים בין קבוצות לומדים](https://edtechdev.github.io/aied/concepts/differential-effects-across-learner-groups/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הפער הדיגיטלי](https://edtechdev.github.io/aied/concepts/digital-divide/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [צמצום הטיה](https://edtechdev.github.io/aied/concepts/bias-mitigation/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [פדגוגיה רלוונטית תרבותית](https://edtechdev.github.io/aied/concepts/culturally-relevant-pedagogy/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה רב-לשונית](https://edtechdev.github.io/aied/concepts/multilingual-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [למידה מכילה](https://edtechdev.github.io/aied/concepts/inclusive-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [נגישות](https://edtechdev.github.io/aied/concepts/accessibility/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [טכנולוגיה מסייעת](https://edtechdev.github.io/aied/concepts/assistive-technology/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [נוירו-מגוון](https://edtechdev.github.io/aied/concepts/neurodiversity/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [עיצוב אוניברסלי ללמידה](https://edtechdev.github.io/aied/concepts/universal-design-for-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [דרום גלובלי](https://edtechdev.github.io/aied/concepts/global-south/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [אתיקה](https://edtechdev.github.io/aied/concepts/ethics/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [שימוש לרעה בבינה מלאכותית ונזק ללמידה](https://edtechdev.github.io/aied/concepts/ai-misuse-learning-harm/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [בעיות משפטיות וסיכונים](https://edtechdev.github.io/aied/concepts/legal-issues-and-risks/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הצהרות שימוש וגילוי בבינה מלאכותית](https://edtechdev.github.io/aied/concepts/ai-use-disclosure/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מעקות בטיחות](https://edtechdev.github.io/aied/concepts/guardrails/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [פרטיות](https://edtechdev.github.io/aied/concepts/privacy/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [סיכון להזיה](https://edtechdev.github.io/aied/concepts/hallucination-risk/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [הסכמה מחניפה (AI Sycophancy)](https://edtechdev.github.io/aied/concepts/ai-sycophancy/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [אמון](https://edtechdev.github.io/aied/concepts/trust/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיול אמון](https://edtechdev.github.io/aied/concepts/trust-calibration/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [בינה מלאכותית מוסברת](https://edtechdev.github.io/aied/concepts/explainable-ai/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [קיימות](https://edtechdev.github.io/aied/concepts/sustainability/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [בטיחות פדגוגית](https://edtechdev.github.io/aied/concepts/pedagogical-safety/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+
+## FAQs
+
+- [כיצד נוכל להתייחס לתפיסות מוטעות נפוצות לגבי בינה מלאכותית בחינוך?](https://edtechdev.github.io/aied/faqs/addressing-common-misconceptions-ai-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד סוכני בינה מלאכותית יכולים לתמוך בסטודנטים ובמרצים?](https://edtechdev.github.io/aied/faqs/ai-agents-support-students-instructors/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד AI משפיע על חרדת הסטודנטים ורווחתם, ומה אפשר לעשות?](https://edtechdev.github.io/aied/faqs/ai-anxiety-wellbeing/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד בינה מלאכותית יכולה לתמוך בתלמידים עם מוגבלות ונוירו-מגוונים בקורס שלי?](https://edtechdev.github.io/aied/faqs/ai-disabled-neurodivergent-learners/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד בינה מלאכותית יכולה לעזור לי לתת משוב טוב יותר בקנה מידה?](https://edtechdev.github.io/aied/faqs/ai-feedback-at-scale/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד צריכים הורים ומורים לגשת לבינה מלאכותית עם ילדים מתחת לגיל 13?](https://edtechdev.github.io/aied/faqs/ai-guidance-children-under-13/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מה הן הראיות על התערבויות אוריינות בינה מלאכותית בהשכלה גבוהה?](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד בינה מלאכותית יכולה לחסוך לי זמן כמרצה/כמרצה?](https://edtechdev.github.io/aied/faqs/ai-save-instructor-time/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד לעצב ולהנחות קורסים מקוונים אסינכרוניים כאשר בינה מלאכותית יכולה לבצע את העבודה?](https://edtechdev.github.io/aied/faqs/asynchronous-online-courses-ai/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד נדע שבינה מלאכותית חינוכית פועלת נכון, ולא רק מקבלת ציון טוב?](https://edtechdev.github.io/aied/faqs/checking-whether-educational-ai-works/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד אכתוב מדיניות AI לקורס ואתקשר אותה לסטודנטים?](https://edtechdev.github.io/aied/faqs/course-ai-policy/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד עליכם לעצב שילוב של בינה מלאכותית בחוויית הלמידה?](https://edtechdev.github.io/aied/faqs/designing-ai-into-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מהן השיטות הטובות ביותר והטיפים לעיצוב תוכנה חינוכית יעילה מבוססת בינה מלאכותית?](https://edtechdev.github.io/aied/faqs/designing-educational-ai-software/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מהן שיטות העבודה המומלצות לפיתוח חונך בינה מלאכותית אפקטיבי?](https://edtechdev.github.io/aied/faqs/developing-ai-tutor/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [האם שימוש ב-AI באמת עוזר לסטודנטים שלי ללמוד?](https://edtechdev.github.io/aied/faqs/does-ai-help-students-learn/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד מחקר בינה מלאכותית בחינוך צריך לשלב שוויון, נגישות, פרטיות, אתיקה, ובטיחות פדגוגית?](https://edtechdev.github.io/aied/faqs/equity-ethics-pedagogical-safety-research/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [אילו אמצעי מדידה ושיטות מחקר יכול מרצה להשתמש בהם כדי להעריך התערבויות הקשורות לבינה מלאכותית?](https://edtechdev.github.io/aied/faqs/evaluating-ai-interventions-methods/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [אילו כשירות חבר הסגל צריכות ביחס לבינה מלאכותית?](https://edtechdev.github.io/aied/faqs/faculty-ai-competencies/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד לעצב פיתוח סגל שישנה באמת את התרגול?](https://edtechdev.github.io/aied/faqs/faculty-development-ai/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד עליי לטפל בבינה מלאכותית במטלות קבוצתיות ושיתופיות?](https://edtechdev.github.io/aied/faqs/group-work-ai/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד בינה מלאכותית משפיעה על תלמידים?](https://edtechdev.github.io/aied/faqs/how-ai-impacts-students/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד בינה מלאכותית יכולה לסייע במחקר חינוכי?](https://edtechdev.github.io/aied/faqs/how-can-ai-assist-with-educational-research/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד ישלב אוריינות AI בקורס שלי?](https://edtechdev.github.io/aied/faqs/incorporating-ai-literacy/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד נכתוב ונקים מדיניות AI מוסדית?](https://edtechdev.github.io/aied/faqs/institutional-ai-policy/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד נוכל להפוך את הבינה המלאכותית לטובה יותר בתמיכה בלמידה בתחום שלנו?](https://edtechdev.github.io/aied/faqs/making-ai-better-at-supporting-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד לגרום לתלמיד מדומה להתנהג כמו לומד אמיתי?](https://edtechdev.github.io/aied/faqs/making-simulated-students-behave-like-learners/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד אתכנן מחדש הערכה כך שציון עדיין יגיד לי משהו הגני על מה שהסטודנט יודע או יכול לעשות?](https://edtechdev.github.io/aied/faqs/redesign-assessment-ai-era/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד אוכל לצמצם רמאות בבינה מלאכותית בקורס שלי?](https://edtechdev.github.io/aied/faqs/reduce-ai-cheating/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [איך מונעים מתלמידים להסתמך יתר על המדה על בינה מלאכותית?](https://edtechdev.github.io/aied/faqs/reducing-over-reliance/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מהן הפרקטיקות הטובות לדיווח ופרשנות של מחקר בבינה מלאכותית בחינוך?](https://edtechdev.github.io/aied/faqs/reporting-interpreting-aied-research/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מהן הפערים המשמעותיים בספרות המחקר על בינה מלאכותית בחינוך?](https://edtechdev.github.io/aied/faqs/research-gaps-aied/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [האם עלינו להשתמש במזהי בינה מלאכותית?](https://edtechdev.github.io/aied/faqs/should-we-use-ai-detectors/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד עליי להשתמש בבינה מלאכותית כדי ללמוד ולשנן ביעילות?](https://edtechdev.github.io/aied/faqs/study-with-ai/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מהם 10 הממצאים המובילים ממחקר בינה מלאכותית בחינוך שעל מורים לדעת?](https://edtechdev.github.io/aied/faqs/top-10-findings-ai-education-instructors/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד נאמן מורה-AI להנחות סטודנטים במקום לענות להם?](https://edtechdev.github.io/aied/faqs/training-ai-tutors-to-guide-rather-than-answer/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [כיצד אלמד את הסטודנטים לאמת תוצרי בינה מלאכותית?](https://edtechdev.github.io/aied/faqs/verify-ai-output/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מהן שיטות עבודה מומלצות להוראת כתיבה בהקשר של בינה מלאכותית?](https://edtechdev.github.io/aied/faqs/writing-instruction-ai-best-practices/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+
+## Articles
+
