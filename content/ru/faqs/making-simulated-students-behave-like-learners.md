@@ -26,7 +26,6 @@ ai_assist:
 translation_of: faqs/making-simulated-students-behave-like-learners
 source_updated: "2026-10-02T08:36:18-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
-contributors: [editor]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
