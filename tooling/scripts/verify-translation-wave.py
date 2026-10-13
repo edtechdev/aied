@@ -30,6 +30,7 @@ SCRATCH = _env_dir or os.path.join(os.path.dirname(os.path.abspath(__file__)), '
 LOCALE_NOTICE = {
     'ar': 'ترجمة آلية',
     'he': 'תרגום אוטומטי',
+    'sw': 'Tafsiri ya kiotomatiki',
 }
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 TRANSLATION_KEYS = {'translation_of', 'source_updated', 'translation_note', 'contributors', 'ai_assist', 'updated', 'created'}
