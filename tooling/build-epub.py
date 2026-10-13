@@ -1090,15 +1090,42 @@ def _locale_cover_path():
     free_bold = '/usr/share/fonts/truetype/freefont/FreeSansBold.ttf'
     dev_serif = '/usr/share/fonts/truetype/noto/NotoSerifDevanagari-Bold.ttf'
     dev_sans = '/usr/share/fonts/truetype/noto/NotoSansDevanagari-Bold.ttf'
+    # Hebrew and Arabic are the same trap in reverse: the CJK faces carry NO Hebrew or
+    # Arabic glyphs, so falling through to them (as this code used to for every
+    # non-Hindi locale) renders both covers entirely as tofu boxes. FreeSans carries
+    # Hebrew plus Latin (the Hebrew node label "אוריינות AI" needs both), and Noto
+    # Naskh Arabic covers Arabic. Neither face carries the other script, so each RTL
+    # locale picks its own.
+    naskh_arabic = '/usr/share/fonts/truetype/noto/NotoNaskhArabic-Bold.ttf'
     # A .ttc bundles JP/KR/SC/TC/HK as faces 0-4. Simplified Chinese, Japanese and
     # Korean share a Han set but disagree on glyph shapes, so each locale picks its own
     # face rather than accepting the JP default, which renders SC in Japanese forms.
     # A single-face .ttf (Devanagari) passes index=0, so CJK_FACE_INDEX stays 0 there.
     CJK_FACE_INDEX = {'zh': 2, 'ja': 0, 'ko': 1}.get(LOCALE, 0)
+    # Pillow draws text strictly left-to-right, so an RTL cover drawn from the logical
+    # string would print every line backwards (and Arabic unjoined, each letter in
+    # isolated form). Both are fixed by preprocessing each line through the bidi
+    # algorithm — get_display() reorders RTL runs — plus arabic_reshaper for Arabic's
+    # contextual letterforms. The libs are build-time-only extras; without them the
+    # cover degrades (reversed/tofu text) instead of crashing the build.
+    IS_RTL = LOCALE in ('he', 'ar')
+    try:
+        from bidi.algorithm import get_display as _bidi_display
+        if LOCALE == 'ar':
+            import arabic_reshaper
+            _rtl = lambda line: _bidi_display(arabic_reshaper.reshape(line))
+        else:
+            _rtl = _bidi_display
+    except Exception:  # pragma: no cover - shaping libs are optional
+        _rtl = lambda line: line
     if LOCALE == 'hi' and os.path.exists(free_bold):
         title_font_path, node_font_path = free_bold, free_bold
     elif LOCALE == 'hi' and os.path.exists(dev_serif) and os.path.exists(dev_sans):
         title_font_path, node_font_path = dev_serif, dev_sans
+    elif LOCALE == 'he' and os.path.exists(free_bold):
+        title_font_path, node_font_path = free_bold, free_bold
+    elif LOCALE == 'ar' and os.path.exists(naskh_arabic):
+        title_font_path, node_font_path = naskh_arabic, naskh_arabic
     elif os.path.exists(cjk_serif) and os.path.exists(cjk_sans):
         title_font_path, node_font_path = cjk_serif, cjk_sans
     else:
@@ -1115,16 +1142,20 @@ def _locale_cover_path():
     d.rectangle([0, H - 18, W, H], fill='#3b82f6')
 
     # Title: two centred lines, stepping the size down until each fits.
+    # An RTL line is measured (and drawn) in its visual order, so the fit loop and
+    # the draw call use the same _rtl() output; otherwise the fit test would measure
+    # the logical string while the draw paints the reversed one.
     lines = _cover_title_lines()
     for y, line in zip((170, 248), lines):
         if not line:
             continue
+        drawn = _rtl(line)
         size = 64
         font = ImageFont.truetype(title_font_path, size, index=CJK_FACE_INDEX)
-        while font.getlength(line) > W - 100 and size > 24:
+        while font.getlength(drawn) > W - 100 and size > 24:
             size -= 2
             font = ImageFont.truetype(title_font_path, size, index=CJK_FACE_INDEX)
-        d.text((W // 2, y), line, font=font, fill='#0b1220', anchor='mm')
+        d.text((W // 2, y), drawn, font=font, fill='#0b1220', anchor='mm')
 
     # Concept map: same radial geometry as ConceptMap.astro / the cover script,
     # placed at its position on the page (900x750 at x=150, y=330).
@@ -1155,14 +1186,15 @@ def _locale_cover_path():
         d.rounded_rectangle([OX + x - RECT_W / 2, OY + y - RECT_H / 2,
                              OX + x + RECT_W / 2, OY + y + RECT_H / 2],
                             radius=14, fill='#dbeafe', outline='#3b82f6', width=2)
-        d.text((OX + x, OY + y + 6), text,
+        drawn = _rtl(text)
+        d.text((OX + x, OY + y + 6), drawn,
                font=ImageFont.truetype(node_font_path, label_size(text), index=CJK_FACE_INDEX),
                fill='#0b1220', anchor='mm')
 
     csize = 15 if len(center) >= 16 else 20
     d.rounded_rectangle([OX + CX - 95, OY + CY - 31, OX + CX + 95, OY + CY + 31],
                         radius=16, fill='#3b82f6')
-    d.text((OX + CX, OY + CY + 7), center,
+    d.text((OX + CX, OY + CY + 7), _rtl(center),
            font=ImageFont.truetype(node_font_path, csize, index=CJK_FACE_INDEX),
            fill='#ffffff', anchor='mm')
 
@@ -1175,12 +1207,13 @@ def _locale_cover_path():
         mark = Image.open(PD_MARK_PATH).convert('RGBA').resize((M, M))
         img.paste(mark, ((W - M) // 2, 1252), mark)
         pd_label = _nt('publicDomain', 'Public Domain')
+        pd_drawn = _rtl(pd_label)
         lsize = 34
         lfont = ImageFont.truetype(title_font_path, lsize, index=CJK_FACE_INDEX)
-        while lfont.getlength(pd_label) > W - 120 and lsize > 18:
+        while lfont.getlength(pd_drawn) > W - 120 and lsize > 18:
             lsize -= 2
             lfont = ImageFont.truetype(title_font_path, lsize, index=CJK_FACE_INDEX)
-        d.text((W // 2, 1372), pd_label, font=lfont, fill='#0b1220', anchor='mm')
+        d.text((W // 2, 1372), pd_drawn, font=lfont, fill='#0b1220', anchor='mm')
 
     img.save(out)
     print(f'Wrote {out} ({os.path.getsize(out)} bytes)')
