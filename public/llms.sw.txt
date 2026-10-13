@@ -1,0 +1,268 @@
+# AI in Education Knowledge Base
+> Hii ni tafsiri ya kawaida ya hifadhi ya maarifa ya Kiingereza ambayo haijakaguliwa bado na mzungumzaji asilia. Inajumuisha kurasa za dhana na kurasa za maswali yanayoulizwa mara nyingi; kurasa za makala zinabaki kwa Kiingereza.
+
+## Concepts
+
+- [AI katika Elimu](https://edtechdev.github.io/aied/concepts/ai-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ujuzi wa AI](https://edtechdev.github.io/aied/concepts/ai-literacy/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Akili Bandia Inayojitegemea](https://edtechdev.github.io/aied/concepts/agentic-ai/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kupunguza Mzigo wa Kiakili](https://edtechdev.github.io/aied/concepts/cognitive-offloading/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujisalimisha kwa Kiakili](https://edtechdev.github.io/aied/concepts/cognitive-surrender/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kuelekeza Matumizi ya AI kwa Wanafunzi](https://edtechdev.github.io/aied/concepts/framing-ai-use-for-students/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kupunguza Matumizi Mabaya ya AI](https://edtechdev.github.io/aied/concepts/reducing-ai-misuse/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uadilifu wa Kitaaluma](https://edtechdev.github.io/aied/concepts/academic-integrity/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kufundisha](https://edtechdev.github.io/aied/concepts/teacher-role/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uwezo wa Mwalimu katika AI](https://edtechdev.github.io/aied/concepts/teacher-ai-competency/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Muundo wa Kujifunza](https://edtechdev.github.io/aied/concepts/learning-design/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Maendeleo ya Kielimu](https://edtechdev.github.io/aied/concepts/educational-development/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Historia ya AI katika Elimu](https://edtechdev.github.io/aied/concepts/history-of-aied/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kutafsiri na Kutumia Utafiti wa AIEd](https://edtechdev.github.io/aied/concepts/interpreting-and-applying-aied-research/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Vizingiti katika Utafiti wa AIEd](https://edtechdev.github.io/aied/concepts/limitations-in-aied-research/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Falsafa ya AI katika Elimu](https://edtechdev.github.io/aied/concepts/philosophy-of-ai-in-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Nadharia na Miundo](https://edtechdev.github.io/aied/concepts/theories-and-frameworks/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uundaji wa Nadharia katika AI katika Elimu](https://edtechdev.github.io/aied/concepts/theory-development-aied/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ushirikiano wa Binadamu–AI](https://edtechdev.github.io/aied/concepts/human-ai-collaboration/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Wakala wa Mwanafunzi](https://edtechdev.github.io/aied/concepts/agency/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Utambulisho wa Mwanafunzi](https://edtechdev.github.io/aied/concepts/learner-identity/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Fikra za Kubuni](https://edtechdev.github.io/aied/concepts/design-thinking/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kubuni Mtaala](https://edtechdev.github.io/aied/concepts/curriculum-design/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ufikiri Mahususi](https://edtechdev.github.io/aied/concepts/critical-thinking/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Fikra za Kihesabu](https://edtechdev.github.io/aied/concepts/computational-thinking/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mfano wa SAMR](https://edtechdev.github.io/aied/concepts/samr-model/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Maarifa ya Teknolojia, Ufundishaji na Yaliyomo (TPACK)](https://edtechdev.github.io/aied/concepts/tpack/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mbinu za Kufundisha na Mikakati ya Kufundisha](https://edtechdev.github.io/aied/concepts/pedagogy/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mifumo ya Kufundisha](https://edtechdev.github.io/aied/concepts/pedagogical-patterns/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Shughuli](https://edtechdev.github.io/aied/concepts/active-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Ushirikiano](https://edtechdev.github.io/aied/concepts/collaborative-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Msingi wa Mradi](https://edtechdev.github.io/aied/concepts/project-based-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza Kulingana na Matatizo](https://edtechdev.github.io/aied/concepts/problem-based-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kushindwa kwa Zao (Productive Failure)](https://edtechdev.github.io/aied/concepts/productive-failure/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Uchunguzi](https://edtechdev.github.io/aied/concepts/inquiry-based-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Uzoefu](https://edtechdev.github.io/aied/concepts/experiential-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza Kwa Kutumia Michezo](https://edtechdev.github.io/aied/concepts/game-based-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Kufundisha](https://edtechdev.github.io/aied/concepts/learning-by-teaching/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ngazi za Msaada](https://edtechdev.github.io/aied/concepts/scaffolding/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mbinu ya Sokratiki](https://edtechdev.github.io/aied/concepts/socratic-method/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mbinu za Kufundisha za Ujuzi Mahususi](https://edtechdev.github.io/aied/concepts/critical-pedagogy/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ushirikiano wa Mbinu za Kufundisha](https://edtechdev.github.io/aied/concepts/pedagogical-partnerships/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Hadithi katika Elimu](https://edtechdev.github.io/aied/concepts/storytelling-in-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ufundishaji na Kujifunza Mtandaoni](https://edtechdev.github.io/aied/concepts/online-teaching-and-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Video katika Elimu](https://edtechdev.github.io/aied/concepts/video-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Nadharia za Kujifunza](https://edtechdev.github.io/aied/concepts/learning-theories/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Behaviorism](https://edtechdev.github.io/aied/concepts/behaviorism/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ujenzi wa Maarifa (Constructivism)](https://edtechdev.github.io/aied/concepts/constructivist/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Saikolojia ya Kiakili](https://edtechdev.github.io/aied/concepts/cognitive-psychology/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Mtazamo wa Kitamaduni na Kijamii](https://edtechdev.github.io/aied/concepts/sociocultural-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Utambuzi Uliosambaa](https://edtechdev.github.io/aied/concepts/distributed-cognition/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mafunzo ya Hali Halisi](https://edtechdev.github.io/aied/concepts/situated-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Mwili](https://edtechdev.github.io/aied/concepts/embodied-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Jumuiya ya Uchunguzi](https://edtechdev.github.io/aied/concepts/community-of-inquiry/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Kujidhibiti](https://edtechdev.github.io/aied/concepts/self-regulated-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Nadhari ya Kujitambua (SDT)](https://edtechdev.github.io/aied/concepts/self-determination-theory/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Motisha](https://edtechdev.github.io/aied/concepts/motivation/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uwezo Binafsi](https://edtechdev.github.io/aied/concepts/self-efficacy/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Kujiongoza Mwenyewe](https://edtechdev.github.io/aied/concepts/self-directed-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Metaji (Kufikiri Kuhusu Kufikiri)](https://edtechdev.github.io/aied/concepts/metacognition/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Changamoto Zinazotamanika](https://edtechdev.github.io/aied/concepts/desirable-difficulties/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uhamishaji wa Kujifunza](https://edtechdev.github.io/aied/concepts/transfer-of-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Maarifa ya Awali](https://edtechdev.github.io/aied/concepts/prior-knowledge/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mfumo wa ICAP](https://edtechdev.github.io/aied/concepts/icap-framework/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Dhana Potofu Kuhusu AI](https://edtechdev.github.io/aied/concepts/misconceptions/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Nakala ya Kukanusha](https://edtechdev.github.io/aied/concepts/refutation-text/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Nadharia ya Shughuli](https://edtechdev.github.io/aied/concepts/activity-theory-aied/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kurudia Kwa Kujaribu Kukumbuka, Kueneza Muda na Kuchanganya](https://edtechdev.github.io/aied/concepts/retrieval-spacing-interleaving/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mahusiano ya Mwanafunzi](https://edtechdev.github.io/aied/concepts/student-engagement/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kutafuta Msaada](https://edtechdev.github.io/aied/concepts/help-seeking/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza Kihisia na Kijamii](https://edtechdev.github.io/aied/concepts/social-emotional-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ustawi](https://edtechdev.github.io/aied/concepts/well-being/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ubunifu](https://edtechdev.github.io/aied/concepts/creativity/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mwingiliano wa Mwanafunzi na AI](https://edtechdev.github.io/aied/concepts/student-ai-interaction/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Utatuzi wa Matatizo](https://edtechdev.github.io/aied/concepts/problem-solving/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Ustadi](https://edtechdev.github.io/aied/concepts/mastery-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Wasiwasi na Mkazo](https://edtechdev.github.io/aied/concepts/anxiety-and-stress/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uzoefu wa Mwanafunzi](https://edtechdev.github.io/aied/concepts/student-experience/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Msaada kwa Wanafunzi na Mafanikio](https://edtechdev.github.io/aied/concepts/student-support-and-success/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mila ya Matumizi ya AI](https://edtechdev.github.io/aied/concepts/social-norms-ai-use/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Maendeleo ya Kazi na Uandali](https://edtechdev.github.io/aied/concepts/career-development-and-readiness/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza Maisha Yote](https://edtechdev.github.io/aied/concepts/lifelong-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza Kazini](https://edtechdev.github.io/aied/concepts/professional-training/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Teknolojia](https://edtechdev.github.io/aied/concepts/ai-technologies/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Mashine](https://edtechdev.github.io/aied/concepts/machine-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Akili Bandia ya Kizazi](https://edtechdev.github.io/aied/concepts/generative-ai/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mifano Mikubwa ya Lugha (LLM)](https://edtechdev.github.io/aied/concepts/llm/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [RAG (Uzalishaji Ulioboreshwa na Upatikanaji)](https://edtechdev.github.io/aied/concepts/rag/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uhandisi wa Ilani (Prompt Engineering)](https://edtechdev.github.io/aied/concepts/prompt-engineering/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mafunzo ya LLM na Urekebishaji Mahususi (Fine-Tuning)](https://edtechdev.github.io/aied/concepts/llm-training-and-fine-tuning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kuandika kwa Hisia (Vibe Coding)](https://edtechdev.github.io/aied/concepts/vibe-coding/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [AI ya Modaliti Nyingi](https://edtechdev.github.io/aied/concepts/multimodal/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Teknolojia za Hotuba na Sauti](https://edtechdev.github.io/aied/concepts/speech-and-voice-technologies/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uwasilishaji wa Data kwa Michoro](https://edtechdev.github.io/aied/concepts/visualization/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [NLP Katika Elimu](https://edtechdev.github.io/aied/concepts/educational-nlp/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Kuimarisha](https://edtechdev.github.io/aied/concepts/reinforcement-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Grafu ya Maarifa](https://edtechdev.github.io/aied/concepts/knowledge-graph/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Roboti katika Elimu](https://edtechdev.github.io/aied/concepts/educational-robotics/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [AI ya Mazungumzo](https://edtechdev.github.io/aied/concepts/conversational-ai/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uigaji](https://edtechdev.github.io/aied/concepts/simulation/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uhalisia wa Kawaida na Uhalisia wa Nyongeza](https://edtechdev.github.io/aied/concepts/virtual-and-augmented-reality/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uundaji wa Mifano ya Wanafunzi na Mafunzo Yanayobadilika](https://edtechdev.github.io/aied/concepts/student-modeling/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ufuatiliaji wa Maarifa](https://edtechdev.github.io/aied/concepts/knowledge-tracing/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Utambuzi wa Kiakili](https://edtechdev.github.io/aied/concepts/cognitive-diagnosis/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kutengeneza Wanafunzi Bandia](https://edtechdev.github.io/aied/concepts/simulating-students/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ufafanuzi wa Akili Bandia](https://edtechdev.github.io/aied/concepts/intelligent-tutoring/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza Kufaa](https://edtechdev.github.io/aied/concepts/adaptive-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Ubinifu Binafsi](https://edtechdev.github.io/aied/concepts/personalized-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mifumo ya Kupendekeza na Njia za Kujifunza](https://edtechdev.github.io/aied/concepts/recommender-systems-and-learning-paths/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mwakala wa Kibunifu](https://edtechdev.github.io/aied/concepts/pedagogical-agent/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uelimishaji Unaozingatia Hisia](https://edtechdev.github.io/aied/concepts/affective-tutoring/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kompyuta ya Hisia](https://edtechdev.github.io/aied/concepts/affective-computing/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Binadamu Katika Mzunguko](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Takwimu za Kujifunza](https://edtechdev.github.io/aied/concepts/learning-analytics/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Miundo ya Kupokea Teknolojia](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Chanzo Huria](https://edtechdev.github.io/aied/concepts/open-source/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Jukwaa la Elimu ya Kidijitali](https://edtechdev.github.io/aied/concepts/edtech-platform/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [AIEd katika Taaluma](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Hisabati](https://edtechdev.github.io/aied/concepts/math-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Fizikia](https://edtechdev.github.io/aied/concepts/physics-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Kemia](https://edtechdev.github.io/aied/concepts/chemistry-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Biolojia](https://edtechdev.github.io/aied/concepts/biology-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Sayansi ya Kompyuta (CS)](https://edtechdev.github.io/aied/concepts/cs-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Uhandisi](https://edtechdev.github.io/aied/concepts/engineering-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya STEM](https://edtechdev.github.io/aied/concepts/stem-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Sayansi](https://edtechdev.github.io/aied/concepts/science-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kuandika](https://edtechdev.github.io/aied/concepts/writing-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza Lugha](https://edtechdev.github.io/aied/concepts/language-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Kiingereza (EAP / EFL / ESL)](https://edtechdev.github.io/aied/concepts/english-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Mazingira](https://edtechdev.github.io/aied/concepts/environmental-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Biashara](https://edtechdev.github.io/aied/concepts/business-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Sayansi za Binadamu na Jamii](https://edtechdev.github.io/aied/concepts/humanities-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Sanaa, Ubunifu na Vyombo vya Habari](https://edtechdev.github.io/aied/concepts/arts-design-and-media-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Ubunifu](https://edtechdev.github.io/aied/concepts/design-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Vitengo vya Matibabu na Afya](https://edtechdev.github.io/aied/concepts/medical-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Uuguzi](https://edtechdev.github.io/aied/concepts/nursing-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Sheria](https://edtechdev.github.io/aied/concepts/legal-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Teknolojia ya Habari](https://edtechdev.github.io/aied/concepts/information-technology/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Sayansi za Kujifunza](https://edtechdev.github.io/aied/concepts/learning-sciences/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [K-12](https://edtechdev.github.io/aied/concepts/k-12/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Watoto Wadogo](https://edtechdev.github.io/aied/concepts/early-childhood-elementary-ai-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Juu](https://edtechdev.github.io/aied/concepts/higher-ed/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Wanafunzi Wazima](https://edtechdev.github.io/aied/concepts/adult-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya Ufundi na Mafunzo](https://edtechdev.github.io/aied/concepts/vocational-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu Maalum](https://edtechdev.github.io/aied/concepts/special-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Maendeleo ya Kitaaluma](https://edtechdev.github.io/aied/concepts/teacher-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Viwango vya Elimu](https://edtechdev.github.io/aied/concepts/education-levels/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Tathmini](https://edtechdev.github.io/aied/concepts/assessment/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Hukumu ya Kutathmini](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Maoni](https://edtechdev.github.io/aied/concepts/feedback/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ujuzi wa Maoni](https://edtechdev.github.io/aied/concepts/feedback-literacy/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ubora wa Maoni ya AI](https://edtechdev.github.io/aied/concepts/ai-feedback-quality/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Tathmini ya Mchakato](https://edtechdev.github.io/aied/concepts/formative-assessment/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Tathmini ya Mwisho](https://edtechdev.github.io/aied/concepts/summative-assessment/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Tathmini Halisi](https://edtechdev.github.io/aied/concepts/authentic-assessment/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Tathmini Inayozingatia Mchakato](https://edtechdev.github.io/aied/concepts/process-oriented-assessment/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kazi za Kikundi](https://edtechdev.github.io/aied/concepts/group-work/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kasha la Kielektroniki (E-Portfolio)](https://edtechdev.github.io/aied/concepts/eportfolio/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Tathmini ya Marika](https://edtechdev.github.io/aied/concepts/peer-assessment/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Tathmini Binafsi](https://edtechdev.github.io/aied/concepts/self-assessment/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Tathmini ya Mdomo](https://edtechdev.github.io/aied/concepts/oral-assessment/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Tathmini ya Kiotomatiki](https://edtechdev.github.io/aied/concepts/automated-assessment/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kupima Insha kwa Kiotomatiki (AES)](https://edtechdev.github.io/aied/concepts/automated-essay-scoring/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uundaji wa Maswali wa Kiotomatiki](https://edtechdev.github.io/aied/concepts/automated-question-generation/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uhalali wa Tathmini](https://edtechdev.github.io/aied/concepts/assessment-validity/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [AI yenye Ufahamu wa Kisaikometriki](https://edtechdev.github.io/aied/concepts/psychometrically-aware-ai/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Upimaji wa Kielimu](https://edtechdev.github.io/aied/concepts/educational-measurement/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Nadharia ya Majibu ya Kipengele](https://edtechdev.github.io/aied/concepts/item-response-theory/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Vipimo vya Kujitangaza](https://edtechdev.github.io/aied/concepts/self-report-measures/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kugundua Maudhui ya AI](https://edtechdev.github.io/aied/concepts/ai-detection/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Usimamizi wa Mitihani wa Nje ya Awamu ya Mwili](https://edtechdev.github.io/aied/concepts/remote-proctoring/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Faida za Kujifunza](https://edtechdev.github.io/aied/concepts/learning-gains/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mbinu za Utafiti katika AIED](https://edtechdev.github.io/aied/concepts/research-methods-aied/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Utafiti wa Kielimu Unaosaidiwa na AI](https://edtechdev.github.io/aied/concepts/ai-assisted-educational-research/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Utafiti wa Kina](https://edtechdev.github.io/aied/concepts/qualitative-research/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Utafiti wa Kiasi](https://edtechdev.github.io/aied/concepts/quantitative-research/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Utafiti wa Mbinu Mchanganyiko](https://edtechdev.github.io/aied/concepts/mixed-methods-research/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Utafiti Unaotegemea Ubuni](https://edtechdev.github.io/aied/concepts/design-based-research/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Utafiti wa Utekelezaji](https://edtechdev.github.io/aied/concepts/usability-research/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Jaribio la Nasibu lililodhibitiwa (RCT)](https://edtechdev.github.io/aied/concepts/rct/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Meta-Analysis na Mapitio ya Kimfumo](https://edtechdev.github.io/aied/concepts/meta-analysis-systematic-review/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uchanganuzi wa Wasifu Ficho](https://edtechdev.github.io/aied/concepts/latent-profile-analysis/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uchanganuzi wa Mtandao](https://edtechdev.github.io/aied/concepts/network-analysis/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Tathmini ya AIEd](https://edtechdev.github.io/aied/concepts/ai-ed-evaluation/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kigezo cha Kupima](https://edtechdev.github.io/aied/concepts/benchmark/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Wasimamizi](https://edtechdev.github.io/aied/concepts/administrator/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Watengenezaji wa Teknolojia ya Elimu](https://edtechdev.github.io/aied/concepts/educational-technology-developers/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Wanafunzi](https://edtechdev.github.io/aied/concepts/learners/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Wakala wa Makazi ya Vitabu](https://edtechdev.github.io/aied/concepts/librarians/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Wazazi na Familia](https://edtechdev.github.io/aied/concepts/parents-and-families/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Wahusika](https://edtechdev.github.io/aied/concepts/stakeholders/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Sera ya AI katika Elimu](https://edtechdev.github.io/aied/concepts/educational-policy-ai/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Utawala wa AI](https://edtechdev.github.io/aied/concepts/governance/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Usimamizi wa Mabadiliko](https://edtechdev.github.io/aied/concepts/change-management/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Udhibiti wa AI katika Elimu](https://edtechdev.github.io/aied/concepts/regulation/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Usawa](https://edtechdev.github.io/aied/concepts/equity-in-ai-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Athari Tofauti Kati ya Vikundi vya Wanafunzi](https://edtechdev.github.io/aied/concepts/differential-effects-across-learner-groups/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mgawanyo wa Kidijitali](https://edtechdev.github.io/aied/concepts/digital-divide/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kupunguza Upendeleo](https://edtechdev.github.io/aied/concepts/bias-mitigation/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mbinu za Kufundisha Zinazohusiana na Kitamaduni](https://edtechdev.github.io/aied/concepts/culturally-relevant-pedagogy/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Lugha Nyingi](https://edtechdev.github.io/aied/concepts/multilingual-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kujifunza kwa Ujumla](https://edtechdev.github.io/aied/concepts/inclusive-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ufikivu](https://edtechdev.github.io/aied/concepts/accessibility/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Teknolojia ya Usaidizi](https://edtechdev.github.io/aied/concepts/assistive-technology/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Utofauti wa Neva](https://edtechdev.github.io/aied/concepts/neurodiversity/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ubuni wa Kijumla wa Kujifunza](https://edtechdev.github.io/aied/concepts/universal-design-for-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kusini ya Dunia](https://edtechdev.github.io/aied/concepts/global-south/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Maadili](https://edtechdev.github.io/aied/concepts/ethics/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Matumizi Mabaya ya AI na Madhara ya Kujifunza](https://edtechdev.github.io/aied/concepts/ai-misuse-learning-harm/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Masuala ya Kisheria na Hatari](https://edtechdev.github.io/aied/concepts/legal-issues-and-risks/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Taarifa za Matumizi ya AI na za Kudhihirisha](https://edtechdev.github.io/aied/concepts/ai-use-disclosure/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Vizuizi vya Usalama](https://edtechdev.github.io/aied/concepts/guardrails/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Faragha](https://edtechdev.github.io/aied/concepts/privacy/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Hatari ya Kutunga Vitu Visivyokuwepo](https://edtechdev.github.io/aied/concepts/hallucination-risk/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Kubembeleza kwa AI](https://edtechdev.github.io/aied/concepts/ai-sycophancy/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uaminifu](https://edtechdev.github.io/aied/concepts/trust/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Urekebishaji wa Uaminifu](https://edtechdev.github.io/aied/concepts/trust-calibration/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [AI Inayoelezekana](https://edtechdev.github.io/aied/concepts/explainable-ai/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uendelevu](https://edtechdev.github.io/aied/concepts/sustainability/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Usalama wa Kipatolojia](https://edtechdev.github.io/aied/concepts/pedagogical-safety/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+
+## FAQs
+
+- [Tunawezaje Kukabiliana na Dhana Potofu za Kawaida Kuhusu AI katika Elimu?](https://edtechdev.github.io/aied/faqs/addressing-common-misconceptions-ai-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Wakala wa AI Wanawezaje Kuwasaidia Wanafunzi na Wakufunzi?](https://edtechdev.github.io/aied/faqs/ai-agents-support-students-instructors/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [AI Inaathirije Wasiwasi na Ustawi wa Wanafunzi, na Tunaweza Kufanya Nini?](https://edtechdev.github.io/aied/faqs/ai-anxiety-wellbeing/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [AI Inawezaje Kuwasaidia Wanafunzi Wenye Ulemavu na Wanavyojitofautisha Kinejrupi katika Kozi Yangu?](https://edtechdev.github.io/aied/faqs/ai-disabled-neurodivergent-learners/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [AI Inaweza Kunisaidia Vipi Kutoa Maoni Bora kwa Kiwango Kikubwa?](https://edtechdev.github.io/aied/faqs/ai-feedback-at-scale/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Wazazi na Walimu Wanapaswa Kukabiliana na AI Watoto Walio Chini ya Umri wa Miaka 13 Vipi?](https://edtechdev.github.io/aied/faqs/ai-guidance-children-under-13/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ushahidi Upio Kwenye Uingiliaji wa Ujuzi wa AI katika Elimu ya Juu?](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [AI Inaweza Kuniokoa Muda Nikiyefundisha Kama Mkufunzi?](https://edtechdev.github.io/aied/faqs/ai-save-instructor-time/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Tuwabuni na Tuwezesheje Kozi za Mtandaoni Zisizohitji Kuhudhuria Wakati Huu Wakati AI Inaweza Kufanya Kazi?](https://edtechdev.github.io/aied/faqs/asynchronous-online-courses-ai/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Tunajuaje Kuwa AI ya Kielimu Inafanya Kazi kwa Usahihi, Si Kupata Alama Nzuri Tu?](https://edtechdev.github.io/aied/faqs/checking-whether-educational-ai-works/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Nitafanya Nini Kuandika Sera ya AI ya Kozi na Nikiwasilisheje kwa Wanafunzi?](https://edtechdev.github.io/aied/faqs/course-ai-policy/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [AI Inapaswa Kubuniwa Je Katika Uzoefu wa Kujifunza?](https://edtechdev.github.io/aied/faqs/designing-ai-into-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ni Mbinu Bora na Vidokezo Gani vya Kubuni Programu Bora ya AI katika Elimu?](https://edtechdev.github.io/aied/faqs/designing-educational-ai-software/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mbinu Bora za Kukuza Mwalimu wa AI Mwenye Ufanisi ni Zipi?](https://edtechdev.github.io/aied/faqs/developing-ai-tutor/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Je, Kutumia AI Kwa Kweli Husaidia Wanafunzi Wangu Kujifunza?](https://edtechdev.github.io/aied/faqs/does-ai-help-students-learn/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Utafiti wa AI katika Elimu Unapaswa Kujumuisha Usawa, Upatikanaji, Faragha, Maadili, na Usalama wa Kieledu kwa Njia Gani?](https://edtechdev.github.io/aied/faqs/equity-ethics-pedagogical-safety-research/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Vipimo na Mbinu Gani za Utafiti Mkufunzi Anaweza Kutumia Kutathmini Muingilio Unaohusiana na AI?](https://edtechdev.github.io/aied/faqs/evaluating-ai-interventions-methods/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Uwezo Gani Wanaohitaji Waelimishaji kuhusu AI?](https://edtechdev.github.io/aied/faqs/faculty-ai-competencies/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Nitabuni Maendeleo ya Walimu ya AI Yatakayobadilisha Mazoezi Vipi?](https://edtechdev.github.io/aied/faqs/faculty-development-ai/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Nitashughulikiaje AI katika Kazi za Kikundi na za Ushirikiano?](https://edtechdev.github.io/aied/faqs/group-work-ai/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [AI Inaathiri Wanafunzi Vipi?](https://edtechdev.github.io/aied/faqs/how-ai-impacts-students/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [AI Inaweza Kutusaidia Vipi katika Utafiti wa Elimu?](https://edtechdev.github.io/aied/faqs/how-can-ai-assist-with-educational-research/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Nitafanya jinsi gani ili kujumuisha Ujuzi wa AI katika Kozi Yangu?](https://edtechdev.github.io/aied/faqs/incorporating-ai-literacy/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Tunaandika na Kutekeleza Sera ya AI ya Taasisi Je?](https://edtechdev.github.io/aied/faqs/institutional-ai-policy/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Je, Tunawezaje Kuboresha Uwezo wa AI wa Kusaidia Kujifunza katika Somo Letu?](https://edtechdev.github.io/aied/faqs/making-ai-better-at-supporting-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Tunawezaje Kufanya Mwanafunzi Aaniaye Aonyeshe Tabia Kama Mwanafunzi wa Kweli?](https://edtechdev.github.io/aied/faqs/making-simulated-students-behave-like-learners/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Nitabuni Upya Tathmini Vipi Ili Alama Bado Iniambie Kitu Kinachoweza Kutetelewa Kuhusu Anachojua au Anaweza Kufanya Mwanafunzi?](https://edtechdev.github.io/aied/faqs/redesign-assessment-ai-era/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Nitawezaje Kupunguza Udanganyifu wa AI katika Kozi Yangu?](https://edtechdev.github.io/aied/faqs/reduce-ai-cheating/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Nitafanya Nini Kuzuia Wanafunzi Kutegemea Kupita Kiasi AI?](https://edtechdev.github.io/aied/faqs/reducing-over-reliance/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ni Mbinu Zipi Bora za Kuripoti na Kutafsiri Utafiti wa AI katika Elimu?](https://edtechdev.github.io/aied/faqs/reporting-interpreting-aied-research/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ni Pengo Gani Lililo Wazi katika Fasihi ya Utafiti kuhusu Akili Bandia katika Elimu?](https://edtechdev.github.io/aied/faqs/research-gaps-aied/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Je, Tunapaswa Kutumia Vifaa vya Kugundua AI?](https://edtechdev.github.io/aied/faqs/should-we-use-ai-detectors/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Nitumie AI Vipi Kusoma na Kujifunza kwa Ufanisi?](https://edtechdev.github.io/aied/faqs/study-with-ai/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Ni Matokeo Kumi Bora Yapi ya Utafiti wa Akili Bandia katika Elimu Ambayo WanaUfundishaji Wanapaswa Kuyajua?](https://edtechdev.github.io/aied/faqs/top-10-findings-ai-education-instructors/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Tunawezaje Kufunza Kocha wa AI Aongoze Wanafunzi Badala ya Kuwajibu?](https://edtechdev.github.io/aied/faqs/training-ai-tutors-to-guide-rather-than-answer/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Nitawafundishaje Wanafunzi Kuthibitisha Matokeo ya AI?](https://edtechdev.github.io/aied/faqs/verify-ai-output/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Mbinu Bora za Ufundishaji wa Uandishi katika Muktadha wa AI?](https://edtechdev.github.io/aied/faqs/writing-instruction-ai-best-practices/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+
+## Articles
+

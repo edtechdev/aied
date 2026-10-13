@@ -752,6 +752,8 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 
 **Not all offloaded friction is excess friction.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] draw the distinction that the offloading literature needs: previous [[ai-technologies]] removed *excess* friction — tedious or insurmountable obstacles with little learning or meaning value — whereas generative AI in intellectual work also strips away *beneficial* friction, letting a learner move from ideation to evaluation without questioning the output. They marshal the associative evidence bluntly: people who use AI struggle to accurately recall or reproduce their own work, acquire fewer skills, show less transfer, and perform worse when AI support is removed — converging with the cognitive-debt findings from EEG studies of essay writing with an AI assistant. Their argument also supplies the motivational half of the mechanism that pure cognitive accounts miss: because effort signals that our actions matter, offloading it reduces appraised purpose and meaning, and as AI substitutes for effort in a domain the motivational payoff of effort there erodes, deepening reliance further. The paper's corrective is a gradient rather than a prohibition — preserve moderate struggle, remove what only overwhelms ([[desirable-difficulties]], [[motivation]]).
 
+- **The under-engagement signal appears developmentally.** A first neuroimaging comparison of children and adults talking with ChatGPT found 6–7-year-olds showed weaker within-network connectivity than adults in the frontoparietal control, salience and dorsal attention networks — at matched creativity scores — and lacked the creativity–connectivity coupling adults showed. Because those executive functions (planning, monitoring, inhibition) are immature at first grade, the authors read the result as relevant to the minimum-age debate. Caveats: no no-ChatGPT control, n = 31, and a framing confound that may have suppressed children's critical evaluation ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]).
+
 - **Dependent versus autonomous offloading — the distinction that sets the outcome:** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]] organize the GenAI evidence around a sharpened version of this boundary, drawing on a three-wave study of 589 students and early-career knowledge workers: *dependent* offloading delegates core thinking to the tool and was associated with transferred [[agency]], lower intrinsic motivation and poorer perceived cognitive outcomes, while *autonomous* offloading keeps epistemic agency with the learner and showed the opposite pattern. The finding that matters most for detection is that immediate performance benefits did not differ between the two modes, so a learner resolving tasks fluently on any given day gives no signal about which mode they are in. The same review records the wider split in the evidence — a three-level [[meta-analysis-systematic-review|meta-analysis]] of moderate overall benefit (g = 0.499; g = 0.669 for comprehension, cognition and creativity) against associations between dependence, fatigue and weaker [[critical-thinking]] — and traces maladaptive use to externalized self-regulation rather than to technology addiction.
 - **Three interaction pathways, not one behavior.** The Neuroplasticity-AI Interaction Model (NAIM) separates direct bypass, where the model supplies the solution and generative effort disappears; cognitive offloading, where specific sub-processes are delegated and the effect depends on whether those sub-processes are the learning target; and scaffolding, where the model constrains help to preserve effortful processing ([[naim-bypass-offload-scaffold-llm-learning-2026]])
 
@@ -819,6 +821,7 @@ The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Offloading tendency and verification literacy predicting higher-order outcomes through metacognitive self-regulation (Davor et al. 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt reduces acceptance of incorrect AI advice and improves awareness calibration (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI dependence as a boundary condition on critical-thinking disposition and self-perceived employability (Shojaei et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Children showed weaker frontoparietal, salience and dorsal attention connectivity than adults while talking with ChatGPT, at matched creativity scores
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI and children's creative thinking: over-reliance and prompt dependence in a scoping review (Niu et al. 2026)
 
 ---
@@ -5021,7 +5024,6 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 
 The Socratic method is one of the oldest pedagogical techniques — originating with Socrates in ancient Athens — and it has found new relevance in the age of [[generative-ai|generative AI]]. In AI education [[research-methods-aied|research]], the Socratic method refers to AI systems that engage learners through guided dialogue, posing questions that lead students to discover answers rather than providing them outright. Asking structured questions rather than providing answers is one of the strongest pedagogical scaffolds for deep learning; when automated via AI, it produces measurable reasoning gains but also requires careful calibration to avoid frustrating learners or displacing human mentorship.([[hashmi-socratic-physics-chatbot-2025]])([[favero-critical-ai-tutors-empower-enslave-2025]])
 
-
 Socratic and directive feedback moved different things: Socratic feedback raised comprehension monitoring and task orientation, directive feedback scored higher on prioritization of essential features, and only the directive condition gained from a customized agent ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
 
 ## How it works in AI tutoring
@@ -5066,7 +5068,6 @@ The strongest causal support for constraint points the other way: in a K-12 revi
 
 In [[medical-education|clinical]]-interview training, [[ai-standardized-patient-scaffolding-medical-2026|the MeduAI-SP trial (Yang et al., 2026)]] had the tutor agent deliver Socratic prompts only on a flagged need — missing key history, premature closure, conversational impasse, or communication breakdown — phrasing them as reflective questions such as whether the gathered information sufficed to support the leading diagnosis. Students trained under this Socratic scaffolding scored 31 percentage points higher on the observable "expressing empathy" checklist item (Holm-corrected P = 8.30e-4) and 0.90 points higher on the 1–5 OSCE communication domain (P = 4.50e-4), linking non-answer-giving questioning to measurable patient-centered communication gains rather than to diagnostic accuracy (84% vs. 86%; P = 1.000).
 
-
 Fidelity is not guaranteed by configuration: a purpose-configured ISLE facilitator restored the test-before-prediction order students had inverted, yet when pressed to "just tell us" which can weighed more it produced mass values no one had measured, crossing from questioning into fabricating data ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani (2026)]]).
 
 ## Research in the knowledge base
@@ -5079,6 +5080,7 @@ The **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** provid
 
 **[[retrieval-augmented-tutoring-algorithm-kite|Retrieval-augmented tutoring]]** operationalizes Socratic principles through retrieval, anchoring each response in authoritative course content rather than relying only on the model's parametric knowledge — addressing the gap that pedagogical quality alone is insufficient without content fidelity.
 
+**Socratic tutoring in biology teacher preparation.** A quasi-experiment with 124 prospective biology teachers found a ChatGPT-4 Socratic tutor on socio-scientific issues outperformed offline peer discussion on argumentation quality (F(1,121) = 14.23, p < .001), with gains concentrated in rebuttal and counter-evidence evaluation rather than claim formation ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 
 [[lftutor-logical-fallacy-education-2026|LFTutor (Shi et al., 2026)]] applies Socratic questioning to a subject where withholding the answer is the whole task: teaching laypeople to see the logical fallacy in a persuasive text they believe is valid. Its dialogue agent decomposes the learner's own argument with the Toulmin model (claim, grounds, warrant), detects the learner's intent, and then selects exactly one of four strategies - Responding, Evidence, Assumption, Refutation - in a fixed priority order that mirrors the Toulmin structure, with a separate verifier agent checking after generation that the reply actually executed the chosen strategy and rephrasing it when it did not. The evaluation metrics are the Socratic failure modes rather than learning gains: divergence from the topic, stance change (caving to the learner's position), repetition, failure to refute, failure to ask for evidence, strategy fixation, unexplained fallacy terminology, and passive guidance. Across 1,000 simulated dialogues per framework with a GPT-4o backbone, LFTutor passed 84.5% of dialogues on average against 61.5% for a prompt that listed those same pitfalls and 31.2% for plain role-play prompting, and the ablation shows the gain is not from the Toulmin vocabulary but from verified strategy execution and intent-based selection. With 20 human participants debating the tutor, LFTutor scored significantly better on eight of nine Likert metrics, including helpfulness (4.15 against 1.65), with repetition the one dimension where the difference was not significant.
 
@@ -5142,6 +5144,7 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[lftutor-logical-fallacy-education-2026]] — Socratic questioning plus critical argumentation in a four-step fallacy-tutoring framework
 
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
+- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
 
 ---
 
@@ -8386,6 +8389,7 @@ Creativity spans the divergent-thinking end of the cognitive spectrum — genera
 - **Co-creativity is a network effect, not an individual trait:** [[trikonet-trivalence-co-creativity-2026|Ruhland (2026)]] draws on Actor-Network Theory to model creativity as an emergent property of socio-technical networks — a triadic interplay of stabilization, destabilization, and re-stabilization among human and non-human actors, with [[generative-ai|generative AI]] agents treated as equal, constitutive network participants. In a study where [[pedagogy|pedagogical]] avatars were co-designed in a creative network, the avatar designs were not individual creative acts but emerged through translation processes among students, [[research-methods-aied|researchers]], and design tools. TriKoNet frames the risk that ready-made AI avatars shift creative [[agency]] toward machine-induced convenience (the "Convenience Trap") and argues that co-constituting the AI's action structure with [[learners]] preserves co-creativity.
 
 - **Think-first collaboration sustains independent creativity:** Wong and Qiu (2026) found that students who generated their own ideas *before* using ChatGPT (a "think first, ChatGPT later" protocol) showed no immediate boost on the assisted task, yet outperformed both a free-AI group and a human-only group on a later unassisted creativity task. Freely using ChatGPT produced only transient performance that collapsed when assistance was removed — a form of [[cognitive-offloading|Over-Reliance]] rather than learning — whereas collaborative [[human-ai-collaboration|co-creation]] aimed at improving one's *own* ideas yielded durable gains in independent creativity. This gives direct experimental evidence that protecting creative agency is not merely desirable but is what converts AI-assisted work into learning.
+- **Developmental implementation, not capacity, separates children's AI-assisted creativity.** In the first neuroimaging comparison of children and adults co-creating with ChatGPT, 6–7-year-olds and adults held the same five-minute spoken conversation inside an MRI scanner. Creativity measured outside the scanner did not differ between groups. Yet adults showed significantly stronger within-network connectivity in the frontoparietal control, salience and dorsal attention networks, and higher creativity predicted stronger frontoparietal–salience coupling in adults but not children. The authors read this as a difference in how creative cognition is *implemented* during AI dialog, not in baseline capacity. It also raises a question the scaffolding advice on this page has not had to answer: when does the control machinery AI-assisted creative work recruits actually mature? ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]])
 
 
 A counterweight from graduate research: among 1,157 Chinese graduate students, [[generative-ai|GenAI]] dependence was positively associated with self-reported research creativity, far more strongly for functional, task-oriented dependence (β = 0.457) than for existential reliance (β = 0.147), with [[critical-thinking|critical thinking]] carrying roughly 85.0% of the functional pathway ([[genai-dependence-research-creativity-2026|Yin et al. (2026)]]).
@@ -8452,6 +8456,7 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[genai-creativity-k12-scoping-review-2026]] — PRISMA scoping review of 45 K–12 studies: four GenAI uses for creativity, homogenization, and the measurement gap
 
 - [[genai-dependence-research-creativity-2026]] — Functional versus existential GenAI dependence and research creativity in 1,157 graduate students
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Matched creativity, divergent neural engagement: children vs. adults talking with ChatGPT in an fMRI scanner
 - [[ai-dependence-creativity-motivation-literacy-2026]] — AI dependence and four motivations for use relate divergently to self-reported creativity (Hou et al. 2026)
 
 ---
@@ -10471,6 +10476,8 @@ Dashboards also function as shared representations that bridge human and AI reas
 
 A second major strand concerns AI producing visualizations directly. [[nuclear-diffusion-text-to-image-learning-2026]] shows that domain-adapted text-to-image models can generate accurate illustrations of specialized STEM concepts: fine-tuning Stable Diffusion on nuclear domain images raised domain accuracy from 12% to 78%, enabling instructors to produce correct reactor-component and safety-system visualizations on demand. This generative capacity is powerful but uneven. [[mllm-scientific-visualization-literacy]] [[benchmark|benchmarks]] six multimodal large language models against 485 human participants on scientific visualization literacy, finding no uniform competence: closed-source Gemini exceeded the human mean on several subsets while all [[open-source]] models fell below it, with particular weaknesses in fine-grained [[quantitative-research|quantitative]] estimation and texture-based or integration-based visualizations. AI should therefore support — not substitute for — human visualization literacy, a finding with direct [[ai-literacy]] and [[formative-assessment]] implications.
 
+Prompt-to-chart generation raises a different question from whether AI can produce a competent visualization: whether the learner still performs the analytic and encoding work that makes the artifact educational. A 2026 framework calls this the process–output divide and proposes transparency, invitation, and fading as the agency line between [[scaffolding]] and substitution ([[genai-visualization-education-framework-2026|Purohit et al., 2026]]).
+
 Ethics and reliability temper enthusiasm for AI-generated visual content. [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] found [[generative-ai|GenAI]]-assisted data comics improved [[student-engagement|engagement]] and comprehension over conventional visualizations regardless of prior visualization literacy, yet participants raised concerns about misinformation risk and [[academic-integrity|authorship]] attribution, and two-thirds flagged downsides such as information overload from overly busy layouts. The counterfactual CFES-P24 benchmark extends this scrutiny to [[cfes-p24-multimodal-slide-auditing-2026|slide auditing]], showing that multimodal LLMs can reliably recognize [[learning-design]] constructs (operations, principles, evidence localization) while sharply diverging on comparative judgment and severity calibration — evidence that composite scores conceal which capability fails and that confidence is not reliability. Together these works argue for layered [[ai-ed-evaluation|evaluation of AI]]-generated visuals rather than holistic ratings.
 
 ## Slide, Comic, and Multi-View Tools in Practice
@@ -10500,6 +10507,7 @@ Across the works discussed here, visualization emerges as a dual-use medium: AI 
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Effectiveness, benefits, and ethics of AI-assisted data comics
 - [[cfes-p24-multimodal-slide-auditing-2026]] — Counterfactual benchmark for multimodal slide auditing
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
+- [[genai-visualization-education-framework-2026]] — Constructing Meaning, Not Just Charts: A Cognitive–Instructional Framework for Generative AI Usage in Visualisation Education
 
 ---
 
@@ -13512,8 +13520,9 @@ Biology education research on AI clusters around a tension: AI has revolutionize
 
 **Critical thinking in the AI era.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]]** argue that as AI shapes biological research, **critical thinking** — skepticism, contextual understanding, and ethical reasoning — must be deliberately cultivated, with [[human-in-the-loop-ai|human oversight]] remaining indispensable to validate AI outputs and prevent [[equity-in-ai-education|bias]]. This connects to the knowledge base-wide [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns.
 
-**Specialized AI tools and the broader review.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]]** review the full landscape of AI tools in biological education, including **iNaturalist and Google Lens** for species identification, bioimaging and machine-learning tools, assistive technologies, and predictive modeling of at-risk students — alongside the integrity, assessment-design, misinformation, and critical-thinking challenges of generative AI.
+**Socratic AI argumentation practice in teacher preparation.** A quasi-experiment with 124 prospective biology teachers found a ChatGPT-4 [[socratic-method|Socratic tutor]] on socio-scientific issues raised argumentation quality over offline peer discussion (adjusted 3.91 vs. 3.21, F(1,121) = 14.23, p < .001), with the largest gains in rebuttal and counter-evidence skills ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 
+**Specialized AI tools and the broader review.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]]** review the full landscape of AI tools in biological education, including **iNaturalist and Google Lens** for species identification, bioimaging and machine-learning tools, assistive technologies, and predictive modeling of at-risk students — alongside the integrity, assessment-design, misinformation, and critical-thinking challenges of generative AI.
 
 **How much of the grade is actually exposed.** Weighting each graded category of one department's 38 core-course syllabi by instructor-rated vulnerability put 33% of course points at high exposure and 81% at least somewhat exposed - 41% and 100% online - with only in-person proctored exams rated minimally vulnerable ([[biology-degree-integrity-genai-cheating-2026|Chan et al., 2026]]).
 
@@ -13558,6 +13567,7 @@ Biology education sits within the broader [[stem-education]] domain and shares t
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
 - [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
+- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
 
 ---
 
@@ -15396,6 +15406,8 @@ Young children interact with AI increasingly early — through AI-enabled toys, 
 
 Because young learners are more vulnerable and less able to self-regulate their use of AI, this cluster emphasizes **scaffolding by adults** (parents, guardians, and teachers), **age-appropriate design**, and the risk of [[cognitive-offloading|over-reliance]] and [[well-being|harm]] if AI substitutes for, rather than supports, the developmental work of play, discovery, and effortful learning. Equity is a live concern: access to AI-rich early learning (or to protective adult guidance) is uneven, connecting to [[digital-divide]] and [[equity-in-ai-education]]. Much of the evidence base remains exploratory or design-oriented rather than causal.
 
+A first neuroimaging window on this question arrives with a caution: 6–7-year-olds holding a five-minute spoken conversation with ChatGPT in an MRI scanner showed weaker within-network connectivity than adults in the frontoparietal control, salience and dorsal attention networks, at matched creativity scores, and lacked the creativity–connectivity coupling adults showed. Because those executive functions are still immature at first grade, the authors read the result as relevant to the minimum-age debate — while flagging a framing confound and the absence of a no-ChatGPT control as limits on what it settles ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]).
+
 ## Connected Concepts
 
 - [[k-12]]
@@ -15433,6 +15445,7 @@ Because young learners are more vulnerable and less able to self-regulate their 
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: a framework for tailoring AI agents and robotics to early learning (Yang, Li & Lee 2025)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — First neuroimaging comparison of children and adults conversing with ChatGPT: less integrated control-attention-memory networks in 6-7-year-olds
 - [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: AI-rated CLASS Pre-K scores versus trained human raters in Hong Kong kindergartens (Fong et al. 2026)
 
 ---
@@ -22807,6 +22820,7 @@ The core concept, articulated in [[genai-performance-vs-learning]], is that gene
 - **Answer-copying as a crutch** — misuse is driven less by AI errors misleading students than by students copying answers instead of learning. When [[student-engagement|engagement]] analysis shows students mostly "ask for the answer," learning harm follows.
 - **Motivation erosion** — the perceived availability of an effortless AI shortcut reduces autonomous motivation and persistence, per [[self-determination-theory|self-determination theory]]. Because persistence is what produces deep learning, its erosion compounds the direct harm.
 - **Learning displacement** — the substitution of AI output for the effortful processes (elaboration, recall, self-explanation) that consolidate knowledge, consistent with [[cognitive-offloading|Over-Reliance]].
+- **Confusion read as intent.** When instructors do not name AI's intended role in an assignment, students define it by what is easiest, and faculty read the resulting mismatch as cheating rather than as a boundary that was never stated ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
 
 ### The evidence base
 
@@ -22863,7 +22877,6 @@ The gaming-the-system literature (hint abuse, systematic guessing) has a dialogu
 
 - [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
 
-
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
@@ -22877,6 +22890,7 @@ The gaming-the-system literature (hint abuse, systematic guessing) has a dialogu
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
 - [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI dependency fully mediates the path from self-efficacy and teacher support to learning burnout (Huang et al. 2026)
 - [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance predicts negative impact while cognitive reliance predicts positive impact, and evaluation literacy strengthens rather than buffers the harm of consulting AI first (Manikonda et al. 2026)
+- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: A Practical Approach to Teaching with Artificial Intelligence
 
 ---
 
