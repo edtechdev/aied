@@ -1,0 +1,268 @@
+# AI in Education Knowledge Base
+> Questa è una traduzione automatica della base di conoscenze inglese, non ancora revisionata da un madrelingua. Include le pagine concetto e le pagine delle domande frequenti; le pagine articolo restano in inglese.
+
+## Concepts
+
+- [IA in educazione](https://edtechdev.github.io/aied/concepts/ai-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Alfabetizzazione sull'IA](https://edtechdev.github.io/aied/concepts/ai-literacy/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [IA Agentica](https://edtechdev.github.io/aied/concepts/agentic-ai/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Offloading cognitivo](https://edtechdev.github.io/aied/concepts/cognitive-offloading/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Resa cognitiva](https://edtechdev.github.io/aied/concepts/cognitive-surrender/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Inquadrare l'uso dell'IA per gli studenti](https://edtechdev.github.io/aied/concepts/framing-ai-use-for-students/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Ridurre l'uso improprio dell'IA](https://edtechdev.github.io/aied/concepts/reducing-ai-misuse/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Integrità accademica](https://edtechdev.github.io/aied/concepts/academic-integrity/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Insegnamento](https://edtechdev.github.io/aied/concepts/teacher-role/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Competenza in IA dei docenti](https://edtechdev.github.io/aied/concepts/teacher-ai-competency/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Progettazione dell'apprendimento](https://edtechdev.github.io/aied/concepts/learning-design/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Sviluppo educativo professionale](https://edtechdev.github.io/aied/concepts/educational-development/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Storia dell'IA nell'educazione](https://edtechdev.github.io/aied/concepts/history-of-aied/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Interpretare e applicare la ricerca AIEd](https://edtechdev.github.io/aied/concepts/interpreting-and-applying-aied-research/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Limiti nella ricerca AIEd](https://edtechdev.github.io/aied/concepts/limitations-in-aied-research/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Filosofia dell'IA nell'educazione](https://edtechdev.github.io/aied/concepts/philosophy-of-ai-in-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Teorie e quadri di riferimento](https://edtechdev.github.io/aied/concepts/theories-and-frameworks/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Sviluppo della teoria nell'IA nell'educazione](https://edtechdev.github.io/aied/concepts/theory-development-aied/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Collaborazione tra esseri umani e IA](https://edtechdev.github.io/aied/concepts/human-ai-collaboration/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Agentività di chi apprende](https://edtechdev.github.io/aied/concepts/agency/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Identità dello studente](https://edtechdev.github.io/aied/concepts/learner-identity/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Design Thinking](https://edtechdev.github.io/aied/concepts/design-thinking/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Progettazione curricolare](https://edtechdev.github.io/aied/concepts/curriculum-design/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Pensiero critico](https://edtechdev.github.io/aied/concepts/critical-thinking/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Pensiero computazionale](https://edtechdev.github.io/aied/concepts/computational-thinking/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Modello SAMR](https://edtechdev.github.io/aied/concepts/samr-model/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Conoscenza Tecnologica Pedagogica dei Contenuti (TPACK)](https://edtechdev.github.io/aied/concepts/tpack/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Pedagogie e strategie didattiche](https://edtechdev.github.io/aied/concepts/pedagogy/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Pattern pedagogici](https://edtechdev.github.io/aied/concepts/pedagogical-patterns/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento attivo](https://edtechdev.github.io/aied/concepts/active-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento collaborativo](https://edtechdev.github.io/aied/concepts/collaborative-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento basato sui progetti](https://edtechdev.github.io/aied/concepts/project-based-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento basato sui problemi](https://edtechdev.github.io/aied/concepts/problem-based-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Fallimento produttivo](https://edtechdev.github.io/aied/concepts/productive-failure/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento basato sull'indagine](https://edtechdev.github.io/aied/concepts/inquiry-based-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento esperienziale](https://edtechdev.github.io/aied/concepts/experiential-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento basato sul gioco](https://edtechdev.github.io/aied/concepts/game-based-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Imparare insegnando](https://edtechdev.github.io/aied/concepts/learning-by-teaching/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Scaffolding](https://edtechdev.github.io/aied/concepts/scaffolding/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Metodo socratico](https://edtechdev.github.io/aied/concepts/socratic-method/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Pedagogia critica](https://edtechdev.github.io/aied/concepts/critical-pedagogy/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Partnership pedagogiche](https://edtechdev.github.io/aied/concepts/pedagogical-partnerships/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Narrazione nell'educazione](https://edtechdev.github.io/aied/concepts/storytelling-in-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Didattica e apprendimento online](https://edtechdev.github.io/aied/concepts/online-teaching-and-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Video in educazione](https://edtechdev.github.io/aied/concepts/video-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Teorie dell'apprendimento](https://edtechdev.github.io/aied/concepts/learning-theories/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Comportamentismo](https://edtechdev.github.io/aied/concepts/behaviorism/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Costruttivismo](https://edtechdev.github.io/aied/concepts/constructivist/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Psicologia cognitiva](https://edtechdev.github.io/aied/concepts/cognitive-psychology/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento socioculturale](https://edtechdev.github.io/aied/concepts/sociocultural-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Cognizione distribuita](https://edtechdev.github.io/aied/concepts/distributed-cognition/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento situato](https://edtechdev.github.io/aied/concepts/situated-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento Incarnato](https://edtechdev.github.io/aied/concepts/embodied-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Comunità di indagine](https://edtechdev.github.io/aied/concepts/community-of-inquiry/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento autoregolato](https://edtechdev.github.io/aied/concepts/self-regulated-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Teoria dell'autodeterminazione](https://edtechdev.github.io/aied/concepts/self-determination-theory/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Motivazione](https://edtechdev.github.io/aied/concepts/motivation/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Autoefficacia](https://edtechdev.github.io/aied/concepts/self-efficacy/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento autodiretto](https://edtechdev.github.io/aied/concepts/self-directed-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Metacognizione](https://edtechdev.github.io/aied/concepts/metacognition/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Difficoltà desiderabili](https://edtechdev.github.io/aied/concepts/desirable-difficulties/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Transfer dell'apprendimento](https://edtechdev.github.io/aied/concepts/transfer-of-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Conoscenze pregresse](https://edtechdev.github.io/aied/concepts/prior-knowledge/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Framework ICAP](https://edtechdev.github.io/aied/concepts/icap-framework/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Fraintendimenti sull'IA](https://edtechdev.github.io/aied/concepts/misconceptions/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Testo di confutazione](https://edtechdev.github.io/aied/concepts/refutation-text/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Teoria dell'attività](https://edtechdev.github.io/aied/concepts/activity-theory-aied/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Recupero, spaziatura e interleaving](https://edtechdev.github.io/aied/concepts/retrieval-spacing-interleaving/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Engagement degli Studenti](https://edtechdev.github.io/aied/concepts/student-engagement/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Ricerca di aiuto](https://edtechdev.github.io/aied/concepts/help-seeking/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento socio-emotivo](https://edtechdev.github.io/aied/concepts/social-emotional-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Benessere](https://edtechdev.github.io/aied/concepts/well-being/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Creatività](https://edtechdev.github.io/aied/concepts/creativity/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Interazione studente-IA](https://edtechdev.github.io/aied/concepts/student-ai-interaction/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Risoluzione dei problemi](https://edtechdev.github.io/aied/concepts/problem-solving/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Mastery learning](https://edtechdev.github.io/aied/concepts/mastery-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Ansia e stress](https://edtechdev.github.io/aied/concepts/anxiety-and-stress/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Esperienza dello studente](https://edtechdev.github.io/aied/concepts/student-experience/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Sostegno e successo degli studenti](https://edtechdev.github.io/aied/concepts/student-support-and-success/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Norme sociali nell'uso dell'IA](https://edtechdev.github.io/aied/concepts/social-norms-ai-use/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Sviluppo di carriera e preparedness professionale](https://edtechdev.github.io/aied/concepts/career-development-and-readiness/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento permanente](https://edtechdev.github.io/aied/concepts/lifelong-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento sul posto di lavoro](https://edtechdev.github.io/aied/concepts/professional-training/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Tecnologie](https://edtechdev.github.io/aied/concepts/ai-technologies/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento automatico](https://edtechdev.github.io/aied/concepts/machine-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [IA generativa](https://edtechdev.github.io/aied/concepts/generative-ai/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Grandi modelli di linguaggio (LLM)](https://edtechdev.github.io/aied/concepts/llm/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [RAG (Retrieval-Augmented Generation)](https://edtechdev.github.io/aied/concepts/rag/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Prompt engineering](https://edtechdev.github.io/aied/concepts/prompt-engineering/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Addestramento e fine-tuning degli LLM](https://edtechdev.github.io/aied/concepts/llm-training-and-fine-tuning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Vibe coding](https://edtechdev.github.io/aied/concepts/vibe-coding/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [AI multimodale](https://edtechdev.github.io/aied/concepts/multimodal/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Tecnologie vocali e della voce](https://edtechdev.github.io/aied/concepts/speech-and-voice-technologies/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Visualizzazione](https://edtechdev.github.io/aied/concepts/visualization/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [NLP educativo](https://edtechdev.github.io/aied/concepts/educational-nlp/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento per rinforzo](https://edtechdev.github.io/aied/concepts/reinforcement-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Grafo della conoscenza](https://edtechdev.github.io/aied/concepts/knowledge-graph/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Robot nell'educazione](https://edtechdev.github.io/aied/concepts/educational-robotics/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [IA conversazionale](https://edtechdev.github.io/aied/concepts/conversational-ai/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Simulazione](https://edtechdev.github.io/aied/concepts/simulation/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Realtà virtuale e aumentata](https://edtechdev.github.io/aied/concepts/virtual-and-augmented-reality/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Modellamento dello studente e istruzione adattiva](https://edtechdev.github.io/aied/concepts/student-modeling/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Knowledge Tracing](https://edtechdev.github.io/aied/concepts/knowledge-tracing/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Diagnosi cognitiva](https://edtechdev.github.io/aied/concepts/cognitive-diagnosis/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Simulazione di studenti](https://edtechdev.github.io/aied/concepts/simulating-students/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Tutoraggio Intelligente](https://edtechdev.github.io/aied/concepts/intelligent-tutoring/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento adattivo](https://edtechdev.github.io/aied/concepts/adaptive-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento personalizzato](https://edtechdev.github.io/aied/concepts/personalized-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Sistemi di raccomandazione e percorsi di apprendimento](https://edtechdev.github.io/aied/concepts/recommender-systems-and-learning-paths/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Agente pedagogico](https://edtechdev.github.io/aied/concepts/pedagogical-agent/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Affective Tutoring](https://edtechdev.github.io/aied/concepts/affective-tutoring/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Affective Computing](https://edtechdev.github.io/aied/concepts/affective-computing/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Human-in-the-Loop](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Analitiche dell'apprendimento](https://edtechdev.github.io/aied/concepts/learning-analytics/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Modelli di adozione della tecnologia](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Open source](https://edtechdev.github.io/aied/concepts/open-source/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Piattaforma edtech](https://edtechdev.github.io/aied/concepts/edtech-platform/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [L'AIEd nelle discipline](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Educazione matematica](https://edtechdev.github.io/aied/concepts/math-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Educazione alla fisica](https://edtechdev.github.io/aied/concepts/physics-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Educazione alla chimica](https://edtechdev.github.io/aied/concepts/chemistry-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Educazione alla biologia](https://edtechdev.github.io/aied/concepts/biology-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Educazione informatica](https://edtechdev.github.io/aied/concepts/cs-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Ingegneria — educazione](https://edtechdev.github.io/aied/concepts/engineering-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Educazione STEM](https://edtechdev.github.io/aied/concepts/stem-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Educazione scientifica](https://edtechdev.github.io/aied/concepts/science-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Scrittura](https://edtechdev.github.io/aied/concepts/writing-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento delle lingue](https://edtechdev.github.io/aied/concepts/language-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Educazione all'inglese (EAP / EFL / ESL)](https://edtechdev.github.io/aied/concepts/english-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Educazione ambientale](https://edtechdev.github.io/aied/concepts/environmental-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Formazione aziendale](https://edtechdev.github.io/aied/concepts/business-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Istruzione umanistica e nelle scienze sociali](https://edtechdev.github.io/aied/concepts/humanities-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Educazione artistica, al design e ai media](https://edtechdev.github.io/aied/concepts/arts-design-and-media-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Educazione al design](https://edtechdev.github.io/aied/concepts/design-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Educazione medica e delle professioni sanitarie](https://edtechdev.github.io/aied/concepts/medical-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Formazione infermieristica](https://edtechdev.github.io/aied/concepts/nursing-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Formazione giuridica](https://edtechdev.github.io/aied/concepts/legal-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Istruzione in Information Technology](https://edtechdev.github.io/aied/concepts/information-technology/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Scienze dell'apprendimento](https://edtechdev.github.io/aied/concepts/learning-sciences/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [K-12](https://edtechdev.github.io/aied/concepts/k-12/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Educazione della prima infanzia](https://edtechdev.github.io/aied/concepts/early-childhood-elementary-ai-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Istruzione superiore](https://edtechdev.github.io/aied/concepts/higher-ed/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Adulti che apprendono](https://edtechdev.github.io/aied/concepts/adult-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Istruzione e Formazione Professionale](https://edtechdev.github.io/aied/concepts/vocational-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Istruzione speciale](https://edtechdev.github.io/aied/concepts/special-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Sviluppo professionale](https://edtechdev.github.io/aied/concepts/teacher-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Livelli di istruzione](https://edtechdev.github.io/aied/concepts/education-levels/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Valutazione](https://edtechdev.github.io/aied/concepts/assessment/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Giudizio valutativo](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Feedback](https://edtechdev.github.io/aied/concepts/feedback/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Literacy del Feedback](https://edtechdev.github.io/aied/concepts/feedback-literacy/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Qualità del feedback con IA](https://edtechdev.github.io/aied/concepts/ai-feedback-quality/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Valutazione formativa](https://edtechdev.github.io/aied/concepts/formative-assessment/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Valutazione sommativa](https://edtechdev.github.io/aied/concepts/summative-assessment/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Valutazione autentica](https://edtechdev.github.io/aied/concepts/authentic-assessment/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Valutazione orientata al processo](https://edtechdev.github.io/aied/concepts/process-oriented-assessment/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Lavoro di gruppo](https://edtechdev.github.io/aied/concepts/group-work/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [E-Portfolio](https://edtechdev.github.io/aied/concepts/eportfolio/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Valutazione tra pari](https://edtechdev.github.io/aied/concepts/peer-assessment/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Autovalutazione](https://edtechdev.github.io/aied/concepts/self-assessment/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Valutazione orale](https://edtechdev.github.io/aied/concepts/oral-assessment/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Valutazione automatizzata](https://edtechdev.github.io/aied/concepts/automated-assessment/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Valutazione automatizzata dei saggi](https://edtechdev.github.io/aied/concepts/automated-essay-scoring/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Generazione automatizzata di domande](https://edtechdev.github.io/aied/concepts/automated-question-generation/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Validità della valutazione](https://edtechdev.github.io/aied/concepts/assessment-validity/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [AI consapevole della psicometria](https://edtechdev.github.io/aied/concepts/psychometrically-aware-ai/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Misurazione Educativa](https://edtechdev.github.io/aied/concepts/educational-measurement/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Teoria della risposta agli item](https://edtechdev.github.io/aied/concepts/item-response-theory/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Misure di autodichiarazione](https://edtechdev.github.io/aied/concepts/self-report-measures/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Rilevamento dell'IA](https://edtechdev.github.io/aied/concepts/ai-detection/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Sorveglianza degli esami a distanza](https://edtechdev.github.io/aied/concepts/remote-proctoring/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Incrementi di apprendimento](https://edtechdev.github.io/aied/concepts/learning-gains/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Metodi di ricerca nell'AIED](https://edtechdev.github.io/aied/concepts/research-methods-aied/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Ricerca educativa assistita dall'IA](https://edtechdev.github.io/aied/concepts/ai-assisted-educational-research/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Ricerca qualitativa](https://edtechdev.github.io/aied/concepts/qualitative-research/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Ricerca quantitativa](https://edtechdev.github.io/aied/concepts/quantitative-research/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Ricerca con metodi misti](https://edtechdev.github.io/aied/concepts/mixed-methods-research/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Ricerca basata sul design](https://edtechdev.github.io/aied/concepts/design-based-research/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Ricerca sull'usabilità](https://edtechdev.github.io/aied/concepts/usability-research/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [RCT](https://edtechdev.github.io/aied/concepts/rct/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Meta-analisi e revisione sistematica](https://edtechdev.github.io/aied/concepts/meta-analysis-systematic-review/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Analisi del profilo latente](https://edtechdev.github.io/aied/concepts/latent-profile-analysis/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Analisi delle reti](https://edtechdev.github.io/aied/concepts/network-analysis/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Valutazione dell'IA in educazione](https://edtechdev.github.io/aied/concepts/ai-ed-evaluation/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Benchmark](https://edtechdev.github.io/aied/concepts/benchmark/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Amministratori](https://edtechdev.github.io/aied/concepts/administrator/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Sviluppatori di Tecnologia Educativa](https://edtechdev.github.io/aied/concepts/educational-technology-developers/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Studenti](https://edtechdev.github.io/aied/concepts/learners/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Bibliotecari](https://edtechdev.github.io/aied/concepts/librarians/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Genitori e famiglie](https://edtechdev.github.io/aied/concepts/parents-and-families/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Portatori di interesse](https://edtechdev.github.io/aied/concepts/stakeholders/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Politica sull'IA nell'istruzione](https://edtechdev.github.io/aied/concepts/educational-policy-ai/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Governance dell'IA](https://edtechdev.github.io/aied/concepts/governance/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Gestione del cambiamento](https://edtechdev.github.io/aied/concepts/change-management/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [La regolamentazione dell'IA nell'istruzione](https://edtechdev.github.io/aied/concepts/regulation/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Equità](https://edtechdev.github.io/aied/concepts/equity-in-ai-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Effetti differenziali tra gruppi di discenti](https://edtechdev.github.io/aied/concepts/differential-effects-across-learner-groups/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Divario digitale](https://edtechdev.github.io/aied/concepts/digital-divide/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Mitigazione del bias](https://edtechdev.github.io/aied/concepts/bias-mitigation/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Pedagogia culturalmente rilevante](https://edtechdev.github.io/aied/concepts/culturally-relevant-pedagogy/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento multilingue](https://edtechdev.github.io/aied/concepts/multilingual-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Apprendimento inclusivo](https://edtechdev.github.io/aied/concepts/inclusive-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Accessibilità](https://edtechdev.github.io/aied/concepts/accessibility/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Tecnologia assistiva](https://edtechdev.github.io/aied/concepts/assistive-technology/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Neurodiversità](https://edtechdev.github.io/aied/concepts/neurodiversity/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Progettazione universale per l'apprendimento](https://edtechdev.github.io/aied/concepts/universal-design-for-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Sud globale](https://edtechdev.github.io/aied/concepts/global-south/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Etica](https://edtechdev.github.io/aied/concepts/ethics/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Uso improprio dell'IA e danno all'apprendimento](https://edtechdev.github.io/aied/concepts/ai-misuse-learning-harm/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Questioni e rischi giuridici](https://edtechdev.github.io/aied/concepts/legal-issues-and-risks/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Dichiarazioni sull'uso e la divulgazione dell'IA](https://edtechdev.github.io/aied/concepts/ai-use-disclosure/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Salvaguardie](https://edtechdev.github.io/aied/concepts/guardrails/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Privacy](https://edtechdev.github.io/aied/concepts/privacy/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Rischio di allucinazione](https://edtechdev.github.io/aied/concepts/hallucination-risk/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Sfrenatezza dell'IA](https://edtechdev.github.io/aied/concepts/ai-sycophancy/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Fiducia](https://edtechdev.github.io/aied/concepts/trust/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Calibrazione della fiducia](https://edtechdev.github.io/aied/concepts/trust-calibration/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [IA spiegabile](https://edtechdev.github.io/aied/concepts/explainable-ai/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Sostenibilità](https://edtechdev.github.io/aied/concepts/sustainability/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Sicurezza pedagogica](https://edtechdev.github.io/aied/concepts/pedagogical-safety/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+
+## FAQs
+
+- [Come possiamo affrontare i malintesi più comuni sull'IA in education?](https://edtechdev.github.io/aied/faqs/addressing-common-misconceptions-ai-education/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come possono gli agenti di IA sostenere studenti e docenti?](https://edtechdev.github.io/aied/faqs/ai-agents-support-students-instructors/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come influisce l'IA sull'ansia e il benessere degli studenti, e cosa possiamo fare?](https://edtechdev.github.io/aied/faqs/ai-anxiety-wellbeing/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come può l'IA sostenere studentesse e studenti con disabilità e neurodivergenti nel mio corso?](https://edtechdev.github.io/aied/faqs/ai-disabled-neurodivergent-learners/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come può l'IA aiutarmi a dare un feedback migliore su larga scala?](https://edtechdev.github.io/aied/faqs/ai-feedback-at-scale/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come dovrebbero genitori e insegnanti approcciare l'IA con i bambini sotto i 13 anni?](https://edtechdev.github.io/aied/faqs/ai-guidance-children-under-13/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Quali sono le evidenze sugli interventi di alfabetizzazione all'IA nell'istruzione superiore?](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come può l'IA farmi risparmiare tempo come docente?](https://edtechdev.github.io/aied/faqs/ai-save-instructor-time/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come dovremmo progettare e facilitare corsi online asincroni quando l'IA può fare il lavoro?](https://edtechdev.github.io/aied/faqs/asynchronous-online-courses-ai/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come sappiamo che un'IA educativa funziona correttamente e non solo che ottiene buoni punteggi?](https://edtechdev.github.io/aied/faqs/checking-whether-educational-ai-works/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come si scrive una politica sull'IA per un corso e come la si comunica agli studenti?](https://edtechdev.github.io/aied/faqs/course-ai-policy/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come dovrebbe essere progettata l'IA nell'esperienza di apprendimento?](https://edtechdev.github.io/aied/faqs/designing-ai-into-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Quali sono le migliori pratiche e i consigli per progettare software di IA educativa efficace?](https://edtechdev.github.io/aied/faqs/designing-educational-ai-software/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Quali sono le migliori pratiche per sviluppare un tutor AI efficace?](https://edtechdev.github.io/aied/faqs/developing-ai-tutor/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [L'uso dell'AI aiuta davvero i miei studenti a imparare?](https://edtechdev.github.io/aied/faqs/does-ai-help-students-learn/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come dovrebbe la ricerca sull'AI nell'educazione integrare equità, accessibilità, privacy, etica e sicurezza pedagogica?](https://edtechdev.github.io/aied/faqs/equity-ethics-pedagogical-safety-research/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Quali misure e metodi di ricerca può usare un docente per valutare gli interventi legati all'AI?](https://edtechdev.github.io/aied/faqs/evaluating-ai-interventions-methods/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Quali competenze servono al corpo docente in materia di IA?](https://edtechdev.github.io/aied/faqs/faculty-ai-competencies/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come progettare lo sviluppo del corpo docente sull'IA che cambi davvero la pratica?](https://edtechdev.github.io/aied/faqs/faculty-development-ai/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come gestire l'IA nei compiti di gruppo e collaborativi?](https://edtechdev.github.io/aied/faqs/group-work-ai/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Qual è l'impatto dell'IA sugli studenti?](https://edtechdev.github.io/aied/faqs/how-ai-impacts-students/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come può l'IA aiutare la ricerca educativa?](https://edtechdev.github.io/aied/faqs/how-can-ai-assist-with-educational-research/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come posso integrare l'alfabetizzazione sull'IA nel mio corso?](https://edtechdev.github.io/aied/faqs/incorporating-ai-literacy/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come si scrive e si implementa una policy istituzionale sull'IA?](https://edtechdev.github.io/aied/faqs/institutional-ai-policy/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come possiamo migliorare l'IA nel sostenere l'apprendimento nella nostra disciplina?](https://edtechdev.github.io/aied/faqs/making-ai-better-at-supporting-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come facciamo a far comportare uno studente simulato come un vero studente?](https://edtechdev.github.io/aied/faqs/making-simulated-students-behave-like-learners/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come posso riprogettare la valutazione in modo che un voto mi dica ancora qualcosa di difendibile su ciò che lo studente sa o sa fare?](https://edtechdev.github.io/aied/faqs/redesign-assessment-ai-era/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come posso ridurre gli imbrogli con l'IA nel mio corso?](https://edtechdev.github.io/aied/faqs/reduce-ai-cheating/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come evito che gli studenti dipendano troppo dall'IA?](https://edtechdev.github.io/aied/faqs/reducing-over-reliance/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Quali sono le buone pratiche per riferire e interpretare la ricerca sull'IA nell'istruzione?](https://edtechdev.github.io/aied/faqs/reporting-interpreting-aied-research/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Quali sono le lacune notevoli nella letteratura di ricerca sull'IA nell'istruzione?](https://edtechdev.github.io/aied/faqs/research-gaps-aied/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Dovremmo usare i rilevatori di IA?](https://edtechdev.github.io/aied/faqs/should-we-use-ai-detectors/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come dovrei usare l'IA per studiare e imparare in modo efficace?](https://edtechdev.github.io/aied/faqs/study-with-ai/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Quali sono i 10 risultati principali della ricerca sull'IA in education che i docenti dovrebbero conoscere?](https://edtechdev.github.io/aied/faqs/top-10-findings-ai-education-instructors/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come addestriamo un tutor di IA a guidare gli studenti anziché rispondere loro?](https://edtechdev.github.io/aied/faqs/training-ai-tutors-to-guide-rather-than-answer/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Come insegno agli studenti a verificare l'output dell'IA?](https://edtechdev.github.io/aied/faqs/verify-ai-output/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Quali sono le migliori pratiche per l'insegnamento della scrittura nel contesto dell'IA?](https://edtechdev.github.io/aied/faqs/writing-instruction-ai-best-practices/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+
+## Articles
+
