@@ -18,15 +18,13 @@ ai_assist:
     role: drafting
     date: "2026-09-23"
     agent: hermes-agent
-translation_of: concepts/oral-assessment
-source_updated: "2026-09-30T16:25:27-04:00"
-translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
-contributors: [editor]
-ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+translation_of: concepts/oral-assessment
+source_updated: "2026-09-30T16:25:27-04:00"
+translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
