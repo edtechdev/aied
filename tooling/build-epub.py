@@ -1097,6 +1097,13 @@ def _locale_cover_path():
     # Naskh Arabic covers Arabic. Neither face carries the other script, so each RTL
     # locale picks its own.
     naskh_arabic = '/usr/share/fonts/truetype/noto/NotoNaskhArabic-Bold.ttf'
+    # Cyrillic (Russian, Ukrainian) is a subtler trap: the CJK faces DO carry the
+    # basic Cyrillic block, so a Russian cover renders — but Noto CJK lacks the
+    # Ukrainian-specific letters і/ї/є/ґ (and their capitals І/Ї/Є/Ґ), so a Ukrainian
+    # cover drawn in a CJK face comes out with every і and Ґ as a tofu box ("База
+    # знань про ШІ в освіті" alone has one). DejaVu Serif/Sans Bold carry the full
+    # Cyrillic repertoire including Ukrainian, so both Cyrillic locales route to
+    # DejaVu rather than falling through to CJK.
     # A .ttc bundles JP/KR/SC/TC/HK as faces 0-4. Simplified Chinese, Japanese and
     # Korean share a Han set but disagree on glyph shapes, so each locale picks its own
     # face rather than accepting the JP default, which renders SC in Japanese forms.
@@ -1118,7 +1125,9 @@ def _locale_cover_path():
             _rtl = _bidi_display
     except Exception:  # pragma: no cover - shaping libs are optional
         _rtl = lambda line: line
-    if LOCALE == 'hi' and os.path.exists(free_bold):
+    if LOCALE in ('ru', 'uk') and os.path.exists(dejavu_serif) and os.path.exists(dejavu_sans):
+        title_font_path, node_font_path = dejavu_serif, dejavu_sans
+    elif LOCALE == 'hi' and os.path.exists(free_bold):
         title_font_path, node_font_path = free_bold, free_bold
     elif LOCALE == 'hi' and os.path.exists(dev_serif) and os.path.exists(dev_sans):
         title_font_path, node_font_path = dev_serif, dev_sans
