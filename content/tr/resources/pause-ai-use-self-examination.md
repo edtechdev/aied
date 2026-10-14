@@ -18,9 +18,15 @@ audience: [learners, instructors, researchers]
 confidence: high
 connected_resources: [pressing-prompts]
 reviewed_by: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
+    agent: hermes-agent
 translation_of: resources/pause-ai-use-self-examination
 source_updated: "2026-09-20T13:49:11-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+contributors: [editor]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
