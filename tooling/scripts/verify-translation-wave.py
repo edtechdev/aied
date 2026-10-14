@@ -33,6 +33,7 @@ LOCALE_NOTICE = {
     'sw': 'Tafsiri ya kiotomatiki',
     'ru': 'Автоматический перевод',
     'uk': 'Автоматичний переклад',
+    'tr': 'Otomatik çeviri',
 }
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 TRANSLATION_KEYS = {'translation_of', 'source_updated', 'translation_note', 'contributors', 'ai_assist', 'updated', 'created'}
