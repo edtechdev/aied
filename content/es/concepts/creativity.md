@@ -1,7 +1,6 @@
 ---
 title: Creatividad
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-10-02T23:56:13-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -10,7 +9,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-09-30T12:20:22-04:00"
+source_updated: "2026-10-13T04:43:42-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,9 +17,13 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
+    agent: hermes-agent
 ---
 
-*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+*Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
 > **Creatividad**: la capacidad de generar ideas, soluciones o artefactos novedosos y valiosos. En la era de la IA, la creatividad es una apuesta educativa central: la [[generative-ai|IA generativa]] puede tanto amplificar el trabajo creativo (como compañera de pensamiento divergente) como socavarlo (al homogeneizar la producción y sustituir el proceso generativo).
 
@@ -47,6 +50,8 @@ La creatividad abarca el extremo del pensamiento divergente del espectro cogniti
 
 - **La colaboración de «pensar primero» sostiene la creatividad independiente:** Wong y Qiu (2026) encontraron que el estudiantado que generaba sus propias ideas *antes* de usar ChatGPT (un protocolo de «piensa primero, ChatGPT después») no mostraba una mejora inmediata en la tarea asistida, pero superaba tanto a un grupo con IA libre como a un grupo solo humano en una tarea de creatividad posterior sin ayuda. Usar ChatGPT libremente producía un rendimiento solo transitorio que se derrumbaba al retirar la asistencia —una forma de [[cognitive-offloading|dependencia excesiva]] más que de aprendizaje—, mientras que la [[human-ai-collaboration|cocreación]] colaborativa orientada a mejorar las ideas *propias* producía ganancias duraderas en creatividad independiente. Esto ofrece evidencia experimental directa de que proteger la agencia creativa no es solo deseable, sino que es lo que convierte el trabajo asistido por IA en aprendizaje.
 
+- **La implementación evolutiva, no la capacidad, separa la creatividad asistida por IA de la infancia.** En la primera comparación de neuroimagen entre personas menores y adultas cocreando con ChatGPT, el alumnado de 6–7 años y las personas adultas mantuvieron la misma conversación hablada de cinco minutos dentro de un escáner de resonancia magnética. La creatividad medida fuera del escáner no difería entre grupos. Sin embargo, las personas adultas mostraron una conectividad intrarred significativamente más fuerte en las redes de control frontoparietal, de prominencia y de atención dorsal, y una creatividad más alta predijo un acoplamiento frontoparietal–prominencia más fuerte en las personas adultas pero no en la infancia. Quienes firman el estudio lo interpretan como una diferencia en cómo la cognición creativa se *implementa* durante el diálogo con la IA, no en la capacidad de base. Plantea además una pregunta que los consejos de andamiaje de esta página no han tenido que responder: ¿cuándo madura realmente la maquinaria de control que reclama el trabajo creativo asistido por IA? ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]])
+
 
 Un contrapeso procedente de la investigación de posgrado: entre 1.157 estudiantes de posgrado chinos, la dependencia de la [[generative-ai|IA generativa]] se asoció positivamente con la creatividad investigadora autodeclarada, mucho más fuertemente para la dependencia funcional y orientada a tareas (β = 0,457) que para la dependencia existencial (β = 0,147), y el [[critical-thinking|pensamiento crítico]] cargaba aproximadamente el 85,0% de la vía funcional ([[genai-dependence-research-creativity-2026|Yin et al. (2026)]]).
 
@@ -67,6 +72,8 @@ La creatividad no es una facultad monolítica única: se realiza de forma distin
 - **Matemática: la creatividad docente se mueve con el conocimiento disciplinar y pedagógico.** En un estudio de caso integrado con ocho docentes en ejercicio de distritos rurales y con pocos recursos, un programa guiado por IA generativa de diez módulos interactivos construido sobre el marco 4P de Rhodes implicó al profesorado con la creatividad matemática (CM), el conocimiento del contenido (CC) y el conocimiento pedagógico del contenido (CPC) como formas de razonamiento interconectadas y no como dominios separados ([[bicer-genai-pd-math-creativity-2026]]). La aportación que necesita la discusión sobre medición de esta página es la afirmación de los autores de que la CM no se desarrolla con independencia del conocimiento matemático del profesorado y de su conocimiento sobre cómo hacer accesibles las ideas, y que fue el tono no enjuiciador ni evaluativo de la IA lo que hizo que el esfuerzo productivo se sintiera lo bastante seguro como para intentarlo.
 - **Computación creativa: la fricción que protege la iteración.** Quienes programan de forma creativa como principiantes aprenden entendiendo y ampliando «ejemplos encontrados», que la IA puede andamiar de forma útil o permitir saltarse de forma tentadora. Flowcode, un entorno de computación creativa impulsado por IA, combina un [[visualization|diagrama de flujo]] de la estructura del código con un chat orientado al aprendizaje y una fricción diseñada deliberadamente —mostrada en dos estudios que orienta el uso de la IA hacia entender y ampliar el código en lugar de hacer [[vibe-coding|vibe coding]] alrededor de él ([[flowcode-ai-creative-coding]]). La dificultad productiva es aquí una característica que preserva el bucle generativo de quien aprende.
 - **Creación literaria: la unidad entre el tema y el texto.** [[incipit-axiom-grounded-scaffolding-literary-creation-2026|Incipit]] sostiene que una obra se organiza por *premisas declaradas* y no por temas, y construye un nivel intermedio —1.455 registros de axiomas que abarcan 149 obras, unidos por 472 relaciones tipadas— en el que quien escribe y revisa una configuración puede cambiar un compromiso organizador, quien lee puede justificar una reconstrucción y quien critica puede comparar dos obras. Su propia auditoría afina el punto de medición anterior: el artefacto registra una única curación, 1.448 de los 1.455 axiomas se asignan a exactamente una obra, y la validación propuesta (cinco evaluadores sobre una muestra de 35 registros) no se ha ejecutado, así que el marco es un programa de investigación y no evidencia sobre el aprendizaje creativo.
+
+- **Un flujo de trabajo de diseño con IA generativa puede reducir la confianza creativa mientras el rendimiento se mantiene.** En una comparación de diseño arquitectónico con 36 estudiantes, la generación de imágenes con IA igualó a la búsqueda de precedentes en rendimiento de diseño, carga cognitiva y autoeficacia creativa específica de la tarea, pero la autoeficacia creativa *general* cayó (DiD = −0,543, IC del 95% [−1,068; −0,017]): el apoyo a la tarea y la confianza en la propia creatividad pueden moverse por separado ([[caeai-genai-architectural-design-creative-self-efficacy-2026|Xiao et al. (2026)]]).
 
 ### Poner la creatividad en práctica
 
@@ -97,6 +104,7 @@ La creatividad se conecta con el [[critical-thinking|pensamiento crítico]] y co
 - [[scaffolding]]
 - [[arts-design-and-media-education]]
 ## Artículos conectados
+- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — La generación de imágenes con IA dejó el rendimiento de diseño sin cambios pero redujo la autoeficacia creativa general
 - [[bicer-genai-pd-math-creativity-2026]] — Cómo el desarrollo profesional guiado por IA generativa apoya la implicación del profesorado con la creatividad matemática, el conocimiento del contenido y el conocimiento pedagógico del contenido
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Andamiaje anclado en axiomas para la creación literaria: las premisas como unidad entre el tema y el texto, validadas solo en el plan (Liu y Zhao 2026)
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Agencia emergente de quien aprende en la colaboración implícita entre personas y IA: personas de apoyo frente a personas contrarias
@@ -110,3 +118,4 @@ La creatividad se conecta con el [[critical-thinking|pensamiento crítico]] y co
 
 - [[genai-dependence-research-creativity-2026]] — Dependencia funcional frente a existencial de la IA generativa y creatividad investigadora en 1.157 estudiantes de posgrado
 - [[ai-dependence-creativity-motivation-literacy-2026]] — La dependencia de la IA y cuatro motivaciones de uso se relacionan de forma divergente con la creatividad autodeclarada (Hou et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Creatividad equivalente, activación neuronal divergente: la infancia frente a las personas adultas conversando con ChatGPT en un escáner de resonancia magnética funcional

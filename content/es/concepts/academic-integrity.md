@@ -1,7 +1,6 @@
 ---
 title: Integridad académica
 created: "2026-09-25T03:53:54-04:00"
-updated: "2026-10-09T17:05:00-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -9,9 +8,9 @@ assessment: [ai-detection, assessment-validity, authentic-assessment]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, regulation]
-connected_resources: [fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai]
+connected_resources: [fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-07T08:00:00-04:00"
+source_updated: "2026-10-10T14:22:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -27,9 +26,13 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
+    agent: hermes-agent
 ---
 
-*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+*Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
 > **La integridad académica**: el marco ético que gobierna el trabajo académico honesto en la era de la IA. La base de conocimiento documenta cómo el concepto ha sido reformulado por la [[generative-ai|IA generativa]]: de un problema de [[ai-detection|detectar salidas deshonestas]] a un problema de diseño para hacer visible, verificable y digno de producir el trabajo honesto. La [[research-methods-aied|investigación]] sobre integridad académica en este espacio ha evolucionado desde enfoques centrados en la detección hacia un rediseño fundamental de la evaluación, una gobernanza liderada por la pedagogía y [[ai-literacy|enseñar al estudiantado a usar bien la IA]] en lugar de limitarse a vigilar si la usa.
 
@@ -163,6 +166,10 @@ El caso disciplinar más claro a favor del rediseño frente a la detección proc
 - **La claridad sin rediseño desplaza el mal uso en lugar de eliminarlo.** [[petricini-zipf-ai-use-ethics-matrix-2026|Petricini y Zipf (2026)]] sitúan el uso de la IA en dos ejes (la intención y el esfuerzo del estudiantado frente a la claridad y el apoyo que ofrece el entorno) e informan de que el cuadrante más poblado de sus datos de entrevistas era el de *cumplimiento ansioso*, en el que el estudiantado oculta una ayuda legítima (apoyo gramatical, explicaciones de conceptos, organizar sus propias ideas) para evitar una [[legal-issues-and-risks|acusación falsa]]. Su advertencia es direccional: cuando las reglas se vuelven claras pero la [[assessment|evaluación]] sigue premiando la velocidad y el producto, el estudiantado consciente de la política se desplaza hacia una *elusión eficiente* y no hacia un *uso virtuoso de la herramienta*. [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]] llega al mismo punto desde el lado de la tarea: cuando los agentes satisfacen todos los criterios de la rúbrica sin razonamiento visible, calificar el rastro de decisiones (calibración de la confianza, sugerencias de IA rechazadas, restricciones específicas del curso) sustituye a la detección, que según ella falla en ambas direcciones.
 - **La aplicación, y no la detección, es donde vive la conversación.** Entre 270.929 registros relacionados con la IA en 26 subreddits educativas a lo largo de tres años y medio, el grupo de integridad académica concentró el 37,1% de la discusión y la Aplicación de Conductas Indebidas fue el mayor tema individual con un 12,1%, mientras el 32,3% de los hilos entre profesorado y estudiantado se situaban dentro de disputas de detección y aplicación ([[reddit-genai-education-discourse-analysis-2026|Yüce et al. (2026)]]).
 
+- **Los empleadores descuentan las notas que creen producidas por IA, y confluyen en la verificación presencial.** En un experimento de encuesta con unos 1.750 profesionales de contratación estadounidenses, [[boyd-swan-employer-responses-genai-2026|Boyd-Swan y Reynolds (2026)]] muestran que enmarcar el uso de la IA por parte del estudiantado como herramienta de apoyo no penalizó a las personas solicitantes, mientras que enmarcarlo como un *sustituto del esfuerzo y la capacidad del estudiante* redujo la probabilidad de entrevista y, de forma más marcada, la disposición a negociar el salario, concentrado entre las personas solicitantes con expedientes académicos altos con independencia de la raza o el sexo. Al preguntarles qué aliviaría sus preocupaciones, ambos grupos de encuadre eligieron un único remedio en común: las pruebas presenciales. El experimento aísla la creencia (no el uso real de la IA), así que muestra cómo solo el canal de *señalización* mueve los resultados de contratación: evidencia temprana de que los mercados laborales pueden empujar la evaluación de vuelta hacia formatos verificables en presencialidad, la misma dirección de diseño que la literatura sobre el estudiante fantasma insta a adoptar a las instituciones.
+
+El primer estudio de la teoría de la conducta planificada sobre la intención de mala conducta basada en GAIT amplía este panorama: entre 186 estudiantes de grado, [[intentions-academic-misconduct-gait-2026|Baig y Paparo (2026)]] encontraron que las actitudes hacia la mala conducta, las normas subjetivas sobre ella y las actitudes positivas hacia la IA predecían cada una la intención, mientras que las actitudes negativas hacia la IA no lo hacían, y que una mayor probabilidad percibida de detección predecía una menor intención: un elemento disuasorio socavado por la documentada falta de fiabilidad de las herramientas de detección de IA.
+
 **Las políticas de integridad están pasando de quién escribió las palabras a quién tuvo las ideas, y los detectores se están reconstruendo para acomodarse.** IdeaLens predice la procedencia de las ideas a partir de un esquema en lugar de la prosa: en 50 relatos que personas escribieron desde cero siguiendo planes generados por IA, marcó el 68% como IA, frente al 8% de Pangram 4 y el 0% de su control entrenado con prosa, y calificó como humana el 94,7% de los textos humanos pulidos por IA ([[idealens-detecting-ai-ideas-2026|Rajendhran et al. (2026)]]). Su propia declaración ética califica el resultado de estimación estadística que no debe usarse por sí sola como prueba concluyente del uso de IA.
 
 ## Conceptos conectados
@@ -226,5 +233,6 @@ El caso disciplinar más claro a favor del rediseño frente a la detección proc
 - [[genai-governance-australian-higher-ed-2026]] — Trazar el límite autorizado: un estudio comparativo de viñetas de política sobre la gobernanza de la IA generativa en la educación superior australiana
 - [[argus-academic-integrity-genai-2026]] — Argus: la integridad académica en la era de la IA generativa
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Hallazgo de auditoría sectorial: las universidades con mandato y las de marco no muestran diferencias en la exposición de la evaluación, la contraparte empírica del problema de coordinación
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Early prediction of AI-assisted cheating risk from LMS traces, framed as academic guidance rather than evidence of misconduct
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicción temprana del riesgo de trampa asistida por IA a partir de rastros del LMS, enmarcada como orientación académica y no como evidencia de mala conducta
 - [[reddit-genai-education-discourse-analysis-2026]] — Tres años y medio de Reddit educativo: la aplicación domina, y las disputas de integridad son el principal ámbito de encuentro entre profesorado y estudiantado (Yüce et al. 2026)
+- [[boyd-swan-employer-responses-genai-2026]] — Experimento de encuesta: el encuadre de sustitución del uso de la IA por parte del estudiantado penaliza a las personas solicitantes con expedientes académicos altos en la contratación y el salario; la prueba presencial es el único remedio que eligieron ambos grupos

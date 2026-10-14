@@ -1,7 +1,6 @@
 ---
 title: Gobernanza de la IA
 created: "2026-09-25T04:32:03-04:00"
-updated: "2026-10-03T02:52:14-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +10,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework]
 translation_of: concepts/governance
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-10T14:22:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -23,9 +22,13 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
+    agent: hermes-agent
 ---
 
-*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+*Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
 > **La gobernanza de la IA**: los marcos, las políticas, las estructuras institucionales y las normas que orientan el diseño, el despliegue y el uso responsables de la [[ai-education|inteligencia artificial en la educación]]. La gobernanza abarca mecanismos institucionales formales (grupos rectores de IA, políticas sobre integridad académica y uso aceptable, revisión ética) y normas informales (directrices del profesorado, desarrollo profesional, culturas de [[reducing-ai-misuse|uso responsable de la IA]]). En la era de la IA, una gobernanza eficaz es un requisito previo para una adopción ética, [[equity-in-ai-education|equitativa]] y sostenible de la IA generativa: determina si la IA se integra de forma transparente y con rendición de cuentas, o si se adopta de manera reactiva y de modos que profundizan las inequidades.
 
@@ -61,6 +64,8 @@ La gobernanza de la IA en la educación es cada vez más urgente porque la [[gen
 - **La alfabetización en IA como capacidad de gobernanza («el 18.º ODS»):** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed e Islam (2026)]] reconceptualizan la alfabetización en IA como un mecanismo sistémico de gobernanza y no como una habilidad de aula, y proponen una taxonomía AIRE de seis niveles (Reconocer → Comprender → Aplicar → Analizar → Integrar → Gobernar) que amplía la jerarquía de Bloom con la síntesis ética y la previsión estratégica, junto con un nexo IA-ODS que mapea las competencias de alfabetización sobre los diecisiete [[sustainability|Objetivos de Desarrollo Sostenible]]. Al enmarcar la alfabetización en IA como una heurística del «18.º ODS», es decir, una capacidad transversal que canaliza el aprendizaje hacia la gobernanza y el desarrollo sostenible, la encuesta del estudio a 300 profesionales encontró que la alfabetización en gobernanza era el predictor más fuerte de la conciencia del nexo IA-ODS (β = 0,64, r = 0,67 con la conciencia del nexo) e identificó el razonamiento ético y el pensamiento reflexivo como los predictores más fuertes de un uso fiable de la IA. Esto vincula la gobernanza institucional con el cultivo de la [[ai-literacy|alfabetización en IA]] pública, y se hace eco del hallazgo de la base de conocimiento de que una alineación responsable de la IA exige [[stakeholders|responsables de políticas]] y ciudadanía capaces de interpretar críticamente los sistemas algorítmicos, y no solo un control técnico orientado al cumplimiento.
 
 - **Integridad académica y evaluación:** la gobernanza es central en cómo las instituciones abordan las preocupaciones de [[academic-integrity|integridad académica]] relacionadas con la IA y rediseñan la [[assessment|evaluación]], pasando de la prohibición y la vigilancia a las orientaciones, la alfabetización en IA y los diseños orientados al proceso, como se ve en la investigación sobre la [[student-rationalization-ai-writing|racionalización del estudiantado]] y el [[beyond-detection-authentic-assessment-ai-2025|rediseño de la evaluación auténtica]].
+
+- **El rediseño funciona en tres dimensiones a la vez.** [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] enmarca el rediseño de la evaluación en la era de la IA mediante dimensiones cultural-discursiva (lenguaje y supuestos), material-económica (recursos) y sociopolítica (gobernanza y poder), y señala la intersección entre recursos y poder como el mayor punto de palanca y a la vez el mayor riesgo: los recursos que fluyen por las estructuras de poder existentes amplifican las inequidades.
 
 - **La combinación de instrumentos de la gobernanza escrita:** [[institutional-ai-policy-health-informatics-2026|Eldredge et al. (2026)]] auditaron los documentos relacionados con la IA de los 48 programas de máster en informática de la salud y gestión de la información sanitaria acreditados por CAHIIM en Estados Unidos. Cuarenta de los 48 (83%) tenían al menos un documento de acceso público, y en los 40 documentos analizados la gobernanza se materializaba sobre todo como orientación y no como norma vinculante: 21 directrices (53%), 9 documentos informativos (23%) y solo 7 políticas formales (18%). La mayoría de los documentos se dirigían al profesorado y al estudiantado a la vez (20, 51%) y no solo al estudiantado (6, 15%), y ni el tipo de política ni el público variaban con la modalidad de impartición (prueba exacta de Fisher P = .85 y P = .71), lo que sugiere que la combinación de instrumentos sigue el hábito institucional y no las exigencias de los programas en línea, presenciales o híbridos. El contenido se concentraba en la integridad académica, el uso responsable de la IA y la conducta del estudiantado, con pocas orientaciones que cubrieran el uso de la IA en el aprendizaje aplicado, la investigación y los entornos simulados, que es justo donde se cruzan las preocupaciones curriculares y de gobernanza de datos. Los autores también informan de que los acreditadores regionales aportaron la mayor parte del corpus (Higher Learning Commission n = 14 y SACSCOC n = 13, juntos alrededor del 60%, sin ninguno de la región de WASC) y sostienen que la acreditación es la palanca externa mejor situada para reducir la variación entre programas.
 
