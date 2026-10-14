@@ -260,6 +260,24 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
       "url": "/aied/llms.sw-concepts.txt",
       "bytes": 5264397
     }
+  },
+  "tr": {
+    "epub": {
+      "url": "/aied/aied.tr.epub",
+      "bytes": 2804304
+    },
+    "pdf": {
+      "url": "/aied/aied.tr.pdf",
+      "bytes": 7317400
+    },
+    "llms": {
+      "url": "/aied/llms.tr.txt",
+      "bytes": 53849
+    },
+    "llmsConcepts": {
+      "url": "/aied/llms.tr-concepts.txt",
+      "bytes": 5611568
+    }
   }
 };
 
