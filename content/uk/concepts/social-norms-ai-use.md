@@ -18,14 +18,13 @@ ai_assist:
     role: drafting
     date: "2026-09-23"
     agent: hermes-agent
-translation_of: concepts/social-norms-ai-use
-source_updated: "2026-10-07T08:00:00-04:00"
-translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
-ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+translation_of: concepts/social-norms-ai-use
+source_updated: "2026-10-07T08:00:00-04:00"
+translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
