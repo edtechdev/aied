@@ -1,0 +1,115 @@
+---
+title: Aileler ve Ebeveynler
+created: "2026-10-14T07:59:02-04:00"
+type: concept
+foundations: [ai-literacy]
+technology: [conversational-ai]
+ethics: [digital-divide, equity-in-ai-education]
+connected_faqs: [ai-guidance-children-under-13]
+confidence: medium
+audience: [instructors, policymakers, researchers]
+level: [preschool, primary education, secondary, k 12]
+reviewed_by: [editor]
+translation_of: concepts/parents-and-families
+source_updated: "2026-10-03T02:57:43-04:00"
+translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
+    agent: hermes-agent
+---
+
+*Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+
+> **Aileler ve ebeveynler** — [[ai-education|Eğitimde yapay zeka]] alanında bir paydaş olarak ev halkı: evde çocuklarına ders çıkaran, araçları seçip bedelini ödeyen, bu araçların ne yaptığını denetleyen ya da fark etmeyen bakım verenler ve okulun yapay zeka hakkında ilettiği her şeyi alanlar. Sayfa, evde kullanılan yapay zeka aracılığıyla verilen ebeveyn–çocuk [[intelligent-tutoring|özel ders]] ilişkisi ve [[conversational-ai|konuşma]] arkadaşları üzerine kanıtları, ev ile okul arasındaki devir teslim noktalarını, ebeveynlerin kendi [[ai-literacy]] ve evdeki cihazların, bağlantının ve maliyetin [[equity-in-ai-education|eşitlik]] sonuçlarını bir araya getirir. Kapsamı, birer eylem öznesi olarak aile olan şeydir: ailelerin YZ ile ne yaptığı, onlara okuldan ne ulaştığı ve sonuçlara ilişkin araştırmaların neleri ve neleri belirlemediği.
+
+## Dikkate Alınması Gereken Sorular
+
+- [[paratutor-parent-child-tutoring|Luo ve ark. (2026)]], sıradan [[llm]] desteğinin ebeveynin ders çıkarma rolünü azalttığını, rol ayrımı sağlayan bir arayüzün ise bu rolü koruduğunu bulmuştur. Ebeveyn ve çocuğun birlikte kullanacağı bir araç tasarlıyor olsaydınız, ebeveyni neye karşı korur, ona neyi devrederdiniz?
+- [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei ve Wu’nun (2026)]] verilerinde ödev puanları altı ay içinde \%18 artarken [[summative-assessment|kitapsız sınav]] puanları \%20 düştü. Bir ebeveyn evde gerçekte ne görür ve farkı görebilmesi için kendisine neler söylenmesi gerekir?
+- [[k12-teachers-ai-companion-literacy-2026|Xiao ve ark. (2026)]], öğretmenlerin çocukların YZ arkadaşlarıyla ilişkisinden birinci derecede ebeveynleri sorumlu tuttuklarını, aynı ebeveynleri ise haberinin olmadığı ya da zaten yükü altında ezildiği olarak tanımladıklarını belirlemiştir. Bu makul bir sorumluluk ataması mı ve bunu gerçek kılmak için ne gerekirdi?
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026|Oreopoulos, Dong ve Low (2026)]], aileye yönelik evrak işlerini kaldırarak ilk oturuma katılımı neredeyse iki katına çıkarmıştır. Kendi okulunuzda ya da programınızda, aileye dönük sürecin hangi bölümleri ailenin yararına, hangileri kurumun yararına vardır?
+- [[family-school-autonomy-support-genai-2026|Fan, Li ve Zhang (2026)]], aile–okul koordinasyonunu yerleşik bir uygulama değil, sınanmamış bir hipotez olarak ele alır. Hiç sınanmadıysa, okulunuzun şu anda ebeveynlere verdiği öğüt hangi kanıta dayanıyor?
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|MacCallum, Parsons ve Mohaghegh (2026)]], cihazlar sağlandıktan sonra da sürüp giden ikinci ve üçüncü düzey dijital uçurumları tanımlar. Bir evde, bir sınıfa kıyasla, beceri ve sonuç boşluklarının kapanması nasıl görünürdü?
+
+## Giriş
+
+Çocukların YZ ile geçirdiği zamanın büyük bir bölümü sınıf dışında, araştırma literatürünün çoğunlukla arka plan olarak gördüğü bir ortamda geçer. Özel ders ve öğrenme çıktıları üzerine çalışmalar genellikle okula dayalıyken, aile rehberliği üzerine çalışmalar genellikle öneri niteliğinde olup sınanmamıştır; bu nedenle aileler aynı anda hem yapay zekanın [[ethics|sorumlu kullanımı]] konusunda pek çok rehberliğin hedefi, hem de bu rehberliğin işe yarayıp yaramadığına dair çok az kanıta sahip olunan öznedir.
+
+Bu sayfa ev halkını kendi başına bir eylem öznesi olarak ele alır. Yapay zeka aracılığıyla verilen ebeveyn–çocuk özel dersini, çocukların evde karşılaştığı arkadaş ve okuma araçlarını, okulların ailelere YZ kullanımı hakkında söylediklerini ve söylemediklerini, ebeveynlerin kendi [[ai-literacy]] ve görüşlerine ilişkin bilinenleri ve ailelerin bu araçları kullanırken içinde bulunduğu erişim ve maliyet koşullarını kapsar. Kanıtın zayıf olduğu yerlerde sayfa bunu açıkça söyler, boşluğu doldurmaya çalışmaz.
+
+## Evde eş eğitmen olarak ebeveynler
+
+Ev içi özel ders üzerine en net tasarım kanıtı, ebeveynlerin matematiksel problemlerde nasıl yardım ettiğine ilişkin bir [[formative-assessment|biçimlendirici]] çalışmanın ardından Çin ev özel dersi bağlamı için ParaTutor’u geliştiren [[paratutor-parent-child-tutoring|Luo ve ark. (2026)]]’dan gelir. Bu biçimlendirici çalışma yinelenen başarısızlıkları belirlemiştir: ebeveynler problemin yapısını anlamakta zorlanır, onu desteklemek için gereken içerik bilgisinden sıklıkla yoksundur ve ortak anlayışı bozan iletişim güçlükleriyle karşılaşır. Tasarım yanıtı rol ayrımıydı — ebeveynler özel ders rehberliğini [[agentic-ai|çok ajanlı]] sohbet botları aracılığıyla alırken, çocuklar problemin kendisi için görsel temellendirme aldı; ikililerin doğrudan cevaplara atlamasını önlemek için de evre kilitli (phase-gated) destek uygulandı. Dört koşul üzerinde 23 ebeveyn–çocuk ikilisiyle (10–12 yaş arası çocuklar) yürütülen değerlendirmede sıradan [[llm]] desteği ebeveynin rolünü geriletme eğilimindeydi; rol ayrımı sağlayan arayüz ise ebeveynlerin desteği sunmaya ve uyarlamaya devam etmesini, çocukların ise muhakemenin içinde kalmasını sağladı. Yazarların çıkarımı bağlama özgüdür: model doğruluğunun sınırlı olduğu [[math-education]] gibi alanlarda çocukların modele tek başına etkileşimde bulunmaması gerekir.
+
+[[virtual-tutoring-computer-assisted-learning-takeup-2026|Oreopoulos, Dong ve Low (2026)]] ev halkını usule dayalı bir eylem öznesi olarak ele alır ve bulguları özel ders kadar aile davranışı hakkındadır. Toronto İlkokul-Ortaokul Kurulu ile yürüttükleri [[rct|rastgele atamalı deneyinde]], güçlük çeken 4–8. sınıf öğrencilerine Khan Academy alıştırmalarının yerine insan sanal özel ders öğretmenleri konumlandırılmıştır. Birinci yılda [[teacher-role|öğretmen]] tarafından aday gösterilen öğrencilerin yalnızca yaklaşık \%45’i tek bir oturuma bile katılmış, aileler her devir teslim noktasında kaybedilmişti: davet, ilgi, [[edtech-platform|üçüncü taraf bir platform]]da hesap açma, eşleştirme, oturuma gelme. İkinci yılda aileler doğrudan kendi öğretmenleri aracılığıyla sabit bir haftalık zamana davet edilip kayıt ve programlama işlemleri ailenin adına yürütüldüğünde ilk oturuma katılım \%83’e yükseldi. Haftalık katılım hâlâ yaklaşık beşte ikinin çevresinde kaldı; bu çoğunlukla bırakma değil, aralıklı devamsızlıktı. Alıştırmalar haftada yaklaşık 17 dakika arttı ve konu testi üzerindeki niyet-e göre-tedavi etkisi 0,055 standart sapma oldu, karnede notlar yaklaşık 0,08 standart sapma yükseldi. Sürtünmeyi kaldırmak kimin geldiğini değiştirdi, kimsenin sürdürdüğü miktarı değil.
+
+## Evdeki arkadaşlar ve okuma araçları
+
+Aileler yapay zekayı bir özel ders sisteminden çok bir arkadaş uygulaması olarak karşılar. [[liao-role-adaptive-ai-companion-book-talk-2026|Liao (2026)]], sabit kalıplı bir "öğrenci akran" arkadaşını (GPT-3.5 ile Whisper) Taoyuan, Tayvan’da ilkokul öğrencilerinden oluşan bir grupla kitap üzerine konuşma oturumlarında deneyimli sınıf öğretmenleriyle karşılaştırmıştır: 12 tanesi 4. sınıf, yedisi 5. sınıf olmak üzere 19 öğrenci, her biri için dört oturum. Öğrenciler YZ ile belirgin biçimde daha fazla zaman geçirdiler, ancak kelimelerin ve cümlelerin çok daha küçük bir payına katkıda bulundular; 5. sınıfta bu pay, öğretmenle ürettiklerinin üçte birinden azdı ve makale bunu konuşmada baskınlık (conversational dominance) olarak adlandırır. Arkadaş, olgusal hatırlatmayı çağrıştırmada etkiliydi, duygusal ve geleceğe yönelik düşünmeyi [[prompt-engineering|yönlendirmekte]] ise öğretmenden belirgin biçimde zayıftı — bir duyuşsal tavan. Liao’nun yanıtı, tek bir arkadaşın Öğrenci Akran, Öğretmen Asistanı ve Ebeveyn Danışmanı rollerini üstlendiği, sonuncusunun da tartışmayı eve taşıdığı role uyarlanabilir bir çerçevedir. Ardındaki teşhis bir destek boşluğudur: çoğu arkadaş tasarımı öğrenci–YZ ikilisinde odaklanmış kalır ve öğretmenlerle ebeveynlere tanımlı bir yer vermez.
+
+**Ergenlerin bir bölümü YZ’ye ebeveynlerine güvenmeyi tercih eder.** Kaynak gösterilen Çin verileri, genç internet kullanıcılarının \%13,5’inin YZ’ye ebeveynlerine güvenmeyi tercih ettiğini ortaya koyar; [[ai-connectedness-adolescent-mental-health-2026|Fu ve Zhao’nun (2026)]] çerçevesi, bakım verenler bir ergenin kimlik doğrulama ihtiyaçlarını tanımadığında YZ bağının telafi edici bir ikameye dönüştüğünü öngörür.
+
+Erken çocukluk dönemine ilişkin iki makale eve ulaşan şeyi aydınlatır. [[creative-project-approach-ai-early-childhood-2025|Yang, Li ve Lee (2025)]], küçük çocuklar için gelişimsel olarak ekranlara tercih edilebilir olanın fiziksel, [[embodied-learning|gövdelemeli]] ajanlar olduğunu savunur; ancak üretici sosyal robotların, ön işlemsel çocukların doğru olarak benimsediği içerik uydurabileceğini, [[feedback]]lerinde gelişimsel kalibrasyondan yoksun olduklarını ve [[digital-divide]] derinleştiren maliyet ve erişim engelleri taşıdıklarını uyarır. [[ai-play-framework-early-childhood-2026|Malallah ve ark. (2026)]] aynı yaş grubuna farklı bir yoldan yaklaşır: elektriksiz, [[game-based-learning|oyun]] temelli AI-Play çerçeveleri aile merkezli bir Hour of Code etkinliği üzerinden uygulanmış; evde tekrarlanabilirlik açısından katılım ve [[usability-research|kullanılabilirliği]] ölçmek için ebeveyn anketleri ve çocuk düşünce sayfaları kullanılmıştır. Yüksek katılım ve YZ’nin örneklerden öğrendiğine ilişkin gelişmekte olan bir anlayış bildirirler.
+
+## Ev–okul iletişimi ve şeffaflık
+
+Okulların ailelere YZ hakkında söyledikleri ve ailelerin okullara söyledikleri büyük ölçüde çalışılmamıştır; en net bulgular bir kanalın yokluğuna ilişkindir. 33 ABD’li [[k-12]] öğretmeniyle yürütülen senaryo temelli görüşmelerde [[k12-teachers-ai-companion-literacy-2026|Xiao ve ark. (2026)]], müdahale kararlarının algılanan zarar yerine yetki alanına bağlı olduğunu belirlemiştir. Görünürlük testi sınırı okul kapısında çizmiştir: sınıfta ya da atanmış bir araçta kullanım öğretmenin rolünün içindeydi, evdeki kullanım ise yalnızca geri çekilme, düşen notlar ya da yalıtılma gibi gözlemlenebilir etkiler yoluyla bu role girer; bunlar yoksa öğretmenler eylem yerine izleme ve gayri resmi belgelemeden söz ettiler. Ebeveyn senaryosu 33 öğretmenden 10’u tarafından en kaygı verici olarak adlandırıldı, 17’si öğretmenin müdahale etmesi gerektiğini söyledi, 11’i "duruma göre" yanıtını verdi. Ebeveynler çocukların YZ arkadaşlarıyla ilişkisinden birinci derecede sorumlu taraf olarak ilk sırada anıldı, ardından haberinin olmayan ya da zaten yükü altında ezilen taraflar olarak tanımlandı. Yazarlar buna yetki boşluğu (jurisdictional vacancy) adını verir ve yerleşik bir müfredat talebi olmadan çocuklara en tutarlı erişime sahip yetişkinlerin gözetim ve sevkiyat uygulamalarına yöneleceğini uyarır. Rehber öğretmenler, ebeveynler ve öğrenciler görüşmelere dâhil edilmedi.
+
+[[family-school-autonomy-support-genai-2026|Fan, Li ve Zhang (2026)]] koordinasyon sorununu açıkça ortaya koyar. Rehberlik literatürünü gözden geçirerek, bunun risk yönetimini ailelere ve okullara yüklerken koordinasyonlarını yerleşik saydığını gözlemler ve birbiriyle çekişen üç modeli — toplamsal, sinerjik ve telafi edici — biçimlendirir; çoğu rehberliğe gömülü olan sinerjik sürümün destekleyici kanıtı olmadığını not eder. Önerdikleri sınama, yalnızca aile, yalnızca okul, koordineli ve olağan uygulama rehberliğini karşılaştıran bir faktöriyel deneydir. Aile tarafında ise çekirdek düşünmenin devredildiği bağımlı boşaltma (dependent offloading) ile YZ’nin [[scaffolding|iskeleleme]] yaptığı ve öğrenenin epistemik [[agency]] koruduğu özerk boşaltma arasındaki [[self-determination-theory]] ayrımını taşırlar; iki durumda da anlık performans aynıdır ve bu, uyumsuz kullanımın bir ebeveyn için görülmesini zorlaştıran şeydir.
+
+Aynı görünmezlik başarı verilerinde de kendini gösterir. [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei ve Wu (2026)]], 7–12. sınıflardaki 26.811 Çinli ortaokul–lise öğrencisini 30 ay boyunca izlemiş; [[generative-ai|üretici YZ]] benimsemesinin ödev puanlarını \%18 artırdığını, tamamlama süresini \%30 düşürdüğünü, altı ay içinde kitapsız sınav puanlarını ise \%20 düşürdüğünü bulmuş, giriş sınavlarındaki \%18 ve \%24’lük düşüşler ise yalnızca yaklaşık iki yılın ardından ortaya çıkmıştır. Kullanıcıların yaklaşık \%81’i ödev dış kaynağa devretme (outsourcing) düzeni gösterirken, kullanıcı olmayanlarla aynı süreyi ödeve ayıran YZ kullanıcıları sınavlarda benzer puanlar almıştır. Yazarların önerisi çocuğun çevresindeki yetişkinlere yöneliktir: ödev puanları gibi çıktılar yerine ödev süresi ve çabası gibi girdileri izleyin. Daha yakın ebeveyn denetiminin, ödev dış kaynağa devretmeyen grubu ayırt eden ölçülemeyenlerden biri olduğuna dair uyarıda bulunurlar.
+
+## Ebeveynlerin kendi YZ okuryazarlığı ve savunuculuğu
+
+Ebeveynlerin ne bildiğine, neden korktuğuna ve ne istediğine ilişkin doğrudan kanıt seyrektir; ebeveynler literatürde çoğunlukla başkaları tarafından aktarılan kişiler olarak görünür. Tamamen kız öğrencilerden oluşan bir yapım atölyesine ilişkin kritik durum çalışmasında [[all-girls-genai-makerspace-gender-equity-2026|Liu ve ark.’a (2026)]] göre, ebeveynler kızlar ve uygulayıcılarla birlikte görüşmelere katılmış ve kızların sık sık "korktuklarını", karma cinsiyetli ortamlarda daha az konuştuklarını bildirmiştir. [[k12-teachers-ai-companion-literacy-2026|Xiao ve ark. (2026)]]’nda, öğretmenlerin çizdiği arkadaş okuryazarlığı, rehber öğretmenler, ebeveynler, platformlar ve politika yapıcılar arasında paylaşılan, yaşa göre kademelendirilmiş bir sarmal olarak dizilenen ortak bir iştir; ebeveynler ilk sırada anılır, ardından zaten taşıyabileceklerinden fazlasını taşıyan taraflar olarak tanımlanır. Ebeveynler AI-Play değerlendirmesinde kendi anlayışlarına ilişkin anlatılar yerine etkinliğin kullanılabilirliğine ilişkin anketler aracılığıyla yer alırlar.
+
+Bunlardan birinde yer alabilmek için bir ebeveynin neye ihtiyacı olacağı, aslında okullar için geliştirilmiş YZ okuryazarlığı çerçeveleriyle tanımlanır. [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|MacCallum, Parsons ve Mohaghegh (2026)]], SAIL’i yaştan bağımsız olacak biçimde tasarlamış; 1. düzey yetkinlikleri olan YZ’yi anlama ve keşfetmeyi bütün yaşlar için temel saymış, bu da yetişkinleri çocukların ilerleyişinde onun eğitmenleri olmaktan çok aynı ilerleyişin içinde konumlandırır. Aileler ayrıca araştırmanın kendisinde de resmi bir rol işgal eder: [[raise-framework-ai-education-reporting-2026|Allison (2026)]], yazarlardan katılımcı bağlamını ve sosyo-demografik özelliklerini, [[accessibility]] ve kültürel uyumu ve etik inceleme, onam ve veri [[governance]] bildirmelerini ister — bir ailenin onamının, verisinin ve bağlamının hiç görünür olmasını sağlayan yükümlülükler bunlardır.
+
+## Aileler arası erişim ve eşitlik
+
+Herhangi bir pedagoji sorusu ortaya çıkmadan önce maliyet ve bağlantı, ailelerin neleri kullanabileceğini belirler. Yapım atölyesi çalışmasında [[all-girls-genai-makerspace-gender-equity-2026|Liu ve ark. (2026)]] hem bir maliyet engelini hem bir tasarım engelini belgeler: ücretsiz görsel üreteci Playground, kaynağı kısıtlı kâr amacı gütmeyen kuruluşun üstlenemeyeceği ücretli bir "pro" kademesine geçerek ücretsiz işlevlerini kaldırmış; araçlar yalnızca İngilizce istek metinlerini kabul etmiş ve bu durum İngilizce güveni olmayan kızları olumsuz etkilemiştir. [[creative-project-approach-ai-early-childhood-2025|Yang, Li ve Lee (2025)]], maliyet ve erişimin [[digital-divide]] derinleştirdiğini belirtir. [[virtual-tutoring-computer-assisted-learning-takeup-2026|Oreopoulos, Dong ve Low (2026)]]’daki benimseme sonucu bir tasarım sonucu kadar bir eşitlik sonucudur: birinci yılda kaybedilen aileler idari adımlarda kaybedilmişti ve onları geri kazanan müdahale, ailenin kendi öğretmeni ve sabit bir haftalık zaman dilimi çevresinde kurulmuştu.
+
+[[family-school-autonomy-support-genai-2026|Fan, Li ve Zhang (2026)]], genel aile öğüdünü güvensiz kılan ölçüm koşullarını adlandırır: YZ okuryazarlığı, bağımlılık ve [[cognitive-offloading|aşırı güvenme]] ölçütleri büyük ölçüde tek ülke ya da uzmanlaşmış üniversite örneklemlerinde geliştirilmişti ve çalışmaların çoğu kesitsel olup [[self-report-measures|öz bildirime]] dayalıdır. SAIL’in [[equity-in-ai-education|eşitlik]] argümanı ev düzeyinde de geçerlidir: bir cihaz sağlamak üç uçurumun yalnızca birincisini giderir; beceri ve sonuç boşlukları, donanımın kimde olduğundan bağımsız olarak sürer.
+
+## Kanıtın gösterdiği ve göstermedikleri
+
+Bu bilgi tabanındaki en güçlü aileye dönük sonuçlar öğrenmeden çok davranışa ilişkindir. Ev düzeyindeki sürtünmeyi azaltmak bir deneyde ilk oturum katılımını yaklaşık \%45’ten \%83’e yükseltmiş ve benimseme o zaman bile bağlayıcı kısıt olmaya devam etmiştir. Aynı deney küçük ve kesin olmayan çıktı kazanımları üretirken, en büyük [[learning-gains|başarı]] çalışması, ödevlerini dış kaynağa devreden öğrenciler arasında yoğunlaşan büyük olumsuz etkiler bildirir; yazarlar bu düzeni kısmen doğrudan ölçemedikleri ebeveyn denetimine bağlar. İki bulgu da ebeveynlerin yaptığını, okulların ya da araçların yaptığından ayırmaz.
+
+Eksik olan daha göze çarpandır. Ebeveynlerin kendi anlatıları seyrektir: [[k12-teachers-ai-companion-literacy-2026|Xiao ve ark. (2026)]]’daki öğretmenler ebeveynleri tasarım gereği örneklemlerinin dışında bırakmış ve yer alan ebeveynler kızlar, uygulayıcılar ya da öğretmenler arasında tek bir ses olarak görüşmeye katılmıştır. Ailelerin bir okulun [[educational-policy-ai|YZ politikasını]] nasıl öğrendiği, onlara gözetim ya da açıklama hakkında ne söylendiği ve buna nasıl yanıt verdikleri konusunda burada doğrudan kanıt yoktur; aile–okul koordinasyonu da sınanmaktan çok kuramsallaştırılmıştır. ParaTutor gibi ev içi özel ders tasarımları tek bir ulusal bağlamda 23 ikili ile değerlendirilmiş, arkadaş karşılaştırmaları ise tek bir okuldaki 19 öğrenci üzerinde durmaktadır.
+
+2026 tarihli bir kapsam taraması alanın ne kadar yol aldığını haritalar. [[llm-family-education-activity-theory-2026|Luo ve ark. (2026)]], 19 farklı yerden 6.540 kayıt arasından 53 HCI çalışmasını etkinlik teorisi yoluyla incelemiş ve literatürün çocuk–ebeveyn etkileşimi ile dil, [[ai-literacy]] ve ilişkisel öğrenme üzerinde yoğunlaştığını bulmuştur; 53 çalışmadan 44’ü (\%83) çocuk–ebeveyn yapılandırmalarında geçmektedir. Konuşmaya dayalı, gövdelemeli ve uzamsal sistemler, gelişmekte olan bir etkileşimin bağlamından destek üretir; LLM’ler eğitimsel emeği yeniden dağıtırken aileler ve kurumlar çıktıları yorumlama ve bunların uygulamaya nasıl girdiğine karar verme sorumluluğunu korur. Süregelen [[personalized-learning|kişiselleştirme]], onarım emeği ve ailelerin yetki ile kurallar üzerinde nasıl pazarlık yürüttüğü, taramanın adlandırdığı boşluklardır; bu da bu bölümün ters yönden belgelediği aynı eksikliktir.
+
+**Diğer sayfalarla ilişki.** [[stakeholders]], bütün paydaş kümesine ilişkin kısa genel bakıştır ve derinlemesine ele alınmamış bir kitle olarak aileleri listeler; bu sayfa o derinliktir. [[early-childhood-elementary-ai-education]], okul ve evde genç öğrenenler için gelişimsel ve [[pedagogy|pedagojik]] alanı kapsar; bu sayfa aileyi anaokulundaki oyun etkinliklerinden ortaokul ödevlerine uzanan yaşlar boyunca izler. [[ai-use-disclosure]], öğrenenlerin YZ kullandıklarını başkalarına söyleyip söylemediklerini kapsar; bu sayfa ise bu bilginin evdeki yetişkinlere ulaşıp ulaşmadığı ve ailelere okul YZ kullanımı hakkında neler söylendiği sorularını ele alır.
+
+## Bağlı kavramlar
+
+- [[stakeholders]] — Eğitimde YZ’deki kitleler ve eylem özneleri için çatı sayfası
+- [[early-childhood-elementary-ai-education]] — ev ve aile kullanımının en çok çalışıldığı gelişimsel alan
+- [[ai-use-disclosure]] — açıklama uygulamaları ve ailelere ne ulaştığı sorusu
+- [[ai-literacy]] — ebeveynlerin kendi yetkinlikleri ve bunları tanımlayan okul temelli çerçeveler
+- [[equity-in-ai-education]] — yarar ve yüklerin ev halkları arasında nasıl dağıldığı
+- [[digital-divide]] — ev bağlamında erişim, beceri ve sonuç katmanları
+- [[conversational-ai]] — aile ortamlarında YZ’nin aldığı baskın biçim
+- [[self-determination-theory]] — aile rehberliği için çerçeve olarak özerklik desteği
+- [[cognitive-offloading]] — bağımlı ve özerk boşaltma ve ebeveynlerin farkı görmeme nedeni
+- [[intelligent-tutoring]] — yapay zeka aracılığıyla ebeveyn–çocuk özel dersinin ardındaki model
+
+## Bağlı makaleler
+
+- [[ai-connectedness-adolescent-mental-health-2026]] — Ergenlerde YZ bağlantılılığı ve YZ bağının karşılanmayan bakım veren tanınmasının yerini aldığı durumlar
+- [[paratutor-parent-child-tutoring]] — Çin ev ortamı matematik özel dersinde 23 ebeveyn–çocuk ikilisi için rol ayrımı sağlayan LLM desteği
+- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Tayvan’da 19 ilkokul öğrencisiyle sabit akran rolü arkadaş ve öğretmen karşılaştırması
+- [[family-school-autonomy-support-genai-2026]] — aile–okul koordinasyonunu sınanmamış bir hipotez olarak ele alan derleme
+- [[raise-framework-ai-education-reporting-2026]] — onam, katılımcı bağlamı ve erişim eşitliğini kapsayan bildirim yükümlülükleri
+- [[k12-teachers-ai-companion-literacy-2026]] — yetki alanı, ebeveynler ve çocukların YZ arkadaşlarıyla ilişkileri konusunda 33 öğretmen
+- [[ai-play-framework-early-childhood-2026]] — aile merkezli bir Hour of Code etkinliği üzerinden sınanan elektriksiz YZ okuryazarlığı
+- [[all-girls-genai-makerspace-gender-equity-2026]] — görüşülenler arasında ebeveynler; gayri resmi ortamlarda araç maliyeti ve dil engelleri
+- [[creative-project-approach-ai-early-childhood-2025]] — küçük çocuklar için fiziksel ajanlar; maliyet, erişim ve gizlilikle ilgili uyarılar
+- [[demir-akar-ai-media-literacy-children-2026]] — 36 dördüncü sınıf öğrencisiyle veri gizliliği, güvenli iletişim ve medya etiği üzerine okul programı
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — aileye yönelik adımlar kaldırıldığında benimseme \%45’ten \%83’e yükseldi
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — ödevi dış kaynağa devretme, sınavlarda düşüş ve girdileri izleme gerekçesi
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — yaştan bağımsız YZ okuryazarlığı düzeyleri ve üç düzeyli dijital uçurum
+- [[llm-family-education-activity-theory-2026]] — Etkinlik Teoriyi merceğinden LLM Tabanlı Aile Eğitimini Tanımlamak: HCI Literatürünün Bir Kapsam Taraması
