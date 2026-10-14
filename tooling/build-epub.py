@@ -1104,6 +1104,9 @@ def _locale_cover_path():
     # знань про ШІ в освіті" alone has one). DejaVu Serif/Sans Bold carry the full
     # Cyrillic repertoire including Ukrainian, so both Cyrillic locales route to
     # DejaVu rather than falling through to CJK.
+    # Turkish is the Latin-script version of the same trap: the CJK faces carry
+    # basic Latin but lack ğ/ı/ş/İ (verified with fontTools), so an unrouted
+    # Turkish cover renders "Eğitimde" as "E■itimde". DejaVu has them all.
     # A .ttc bundles JP/KR/SC/TC/HK as faces 0-4. Simplified Chinese, Japanese and
     # Korean share a Han set but disagree on glyph shapes, so each locale picks its own
     # face rather than accepting the JP default, which renders SC in Japanese forms.
@@ -1125,7 +1128,7 @@ def _locale_cover_path():
             _rtl = _bidi_display
     except Exception:  # pragma: no cover - shaping libs are optional
         _rtl = lambda line: line
-    if LOCALE in ('ru', 'uk') and os.path.exists(dejavu_serif) and os.path.exists(dejavu_sans):
+    if LOCALE in ('ru', 'uk', 'tr') and os.path.exists(dejavu_serif) and os.path.exists(dejavu_sans):
         title_font_path, node_font_path = dejavu_serif, dejavu_sans
     elif LOCALE == 'hi' and os.path.exists(free_bold):
         title_font_path, node_font_path = free_bold, free_bold
