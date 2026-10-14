@@ -1,7 +1,6 @@
 ---
 title: Educación en biología
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-10-02T22:23:30-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -9,7 +8,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -17,9 +16,13 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
+    agent: hermes-agent
 ---
 
-*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+*Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
 > **Educación en biología**: el estudio de cómo el estudiantado aprende biología y de cómo enseñarla con más eficacia, abarcando la instrucción de laboratorio asistida por IA, la alfabetización en IA integrada en los currículos de biología, el pensamiento crítico en la era de la IA y el uso de herramientas especializadas (identificación de especies, bioimagen, modelado predictivo) en la educación biológica. Las exigencias distintivas de la biología —grandes cuerpos de terminología especializada, pensamiento visual-espacial y sistémico, trabajo práctico de laboratorio y de campo, y métodos ómicos cada vez más computacionales— la convierten en un contexto rico para examinar tanto la promesa como los riesgos de la IA en el aprendizaje STEM.
 
@@ -42,6 +45,8 @@ La investigación sobre educación biológica y IA se agrupa en torno a una tens
 **La alfabetización en IA integrada en los currículos de biología.** **[[zha-ai-literacy-biology-case-study|Zha et al.]]** integraron conceptos de aprendizaje automático y redes neuronales en un curso de biología avanzada de secundaria y encontraron mejoras significativas en el conocimiento sobre IA y que el contexto de la biología apoyaba el aprendizaje sobre IA, evidencia a favor de integrar la alfabetización en IA en la [[stem-education|educación STEM]] en lugar de relegarla a actividades extracurriculares. **[[chatgpt-math-biology-challenge-based-learning-2025|Elizondo-García et al.]]** utilizaron ChatGPT dentro del **aprendizaje basado en retos** en cursos de biología y matemáticas y encontraron que el estudiantado valoraba la inmediatez pero se preocupaba por la veracidad, la sustitución del [[teacher-role|profesorado]] y la erosión de habilidades, lo que les llevó a pedir códigos de integridad académica actualizados y una ética del uso de la IA.
 
 **El pensamiento crítico en la era de la IA.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou y Nicolaou]]** sostienen que, a medida que la IA moldea la investigación biológica, el **pensamiento crítico** —el escepticismo, la comprensión contextual y el razonamiento ético— debe cultivarse de forma deliberada, y que la [[human-in-the-loop-ai|supervisión humana]] sigue siendo indispensable para validar las salidas de la IA y prevenir el [[equity-in-ai-education|sesgo]]. Esto conecta con las preocupaciones transversales de la base de conocimiento sobre [[reducing-ai-misuse|reducir el mal uso de la IA]] y la [[cognitive-offloading|dependencia excesiva]].
+
+**La práctica de argumentación con IA socrática en la formación del profesorado.** Un cuasiexperimento con 124 futuros docentes de biología encontró que un [[socratic-method|tutor socrático]] con ChatGPT-4 sobre cuestiones socio-científicas elevó la calidad de la argumentación frente al debate entre pares fuera de línea (3,91 ajustado frente a 3,21, F(1,121) = 14,23, p < 0,001), con las mayores ganancias en las habilidades de refutación y de contraargumentación con pruebas ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 
 **Herramientas especializadas de IA y la revisión más amplia.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton y Cotton]]** revisan todo el panorama de herramientas de IA en la educación biológica, incluidas **iNaturalist y Google Lens** para la identificación de especies, herramientas de bioimagen y de aprendizaje automático, tecnologías de asistencia y el modelado predictivo del estudiantado en riesgo, junto con los retos de integridad, diseño de la evaluación, desinformación y pensamiento crítico que plantea la IA generativa.
 
@@ -89,3 +94,4 @@ La educación en biología se sitúa dentro del dominio más amplio de la [[stem
 - [[critical-thinking-biological-sciences-ai-2025]] — El pensamiento crítico en las ciencias biológicas y la IA
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT en cursos de biología y matemáticas basados en retos
 - [[zha-ai-literacy-biology-case-study]] — Educación en alfabetización en IA en una clase de biología
+- [[genai-socratic-tutor-biology-argumentation-2026]] — Mejora de las habilidades de argumentación alineadas con PISA de futuros docentes de biología mediante inteligencia artificial generativa

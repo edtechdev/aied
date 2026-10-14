@@ -1,7 +1,6 @@
 ---
 title: Medición educativa
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-10-09T17:40:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -9,7 +8,7 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-10-06T02:05:50-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -21,9 +20,13 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
+    agent: hermes-agent
 ---
 
-*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+*Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
 > **Medición educativa**: la teoría y los métodos psicométricos para cuantificar y validar el aprendizaje y sus constructos, que recorre las páginas de [[item-response-theory|teoría de respuesta al ítem]], [[knowledge-tracing|seguimiento del conocimiento]] y [[assessment-validity|validez de la evaluación]] de la base de conocimiento. La era de los [[llm|LLM]] obliga a la medición a conciliar la psicometría clásica con los nuevos flujos de respuestas generados por IA: la puntuación automatizada, la dificultad predicha por IA y las trazas [[multimodal|multimodales]] deben validarse contra principios de medición establecidos para preservar la fiabilidad y la validez.
 
@@ -44,6 +47,7 @@ La medición educativa es la disciplina que convierte observaciones sobre el apr
 - **Una década de reconfiguración del campo por la IA:** [[xiong-ai-educational-measurement-review-2026|Xiong y Li (2026)]] trazan el impacto de la IA en tres eras ([[formative-assessment|Formativa]] 2015–2018, Expansión 2019–2022, Generativa 2023–presente) mediante un marco de Eficiencia–Mejora–Transformación, que abarca la IA en la puntuación y la [[automated-question-generation|generación de ítems]], el modelado psicométrico, la innovación en evaluación y los datos de proceso, y la [[bias-mitigation|justicia]], la ética y la equidad. Defienden un nuevo paradigma que integre la teoría de la medición con los métodos de IA, y una reconceptualización de los constructos en el contexto de la interacción entre personas y [[student-ai-interaction|IA]]: la misma frontera que la [[assessment-latent-structure-human-llm-2026|comparación de estructuras latentes]] sondea empíricamente.
 - **Dificultad predicha por IA y calibración:** la [[llm-difficulty-calibration-programming-exams-2026|calibración de dificultad con LLM]] y la [[llm-item-difficulty-prediction|predicción de dificultad de ítems]] usan LLM para estimar la dificultad de los ítems, lo que debe validarse contra las estimaciones psicométricas (véase [[item-response-theory|teoría de respuesta al ítem]]). [[razavi-powers-item-difficulty-llm-2026|Razavi y Powers (2026)]] añaden una prueba a gran escala de K-5 de esta premisa: en 5.170 ítems de matemática y lectura calibrados bajo el modelo TRI de Rasch, las valoraciones de dificultad de GPT-4o en cero disparos se correlacionaron de moderada a fuertemente con las dificultades verdaderas (r = 0,83 en matemática, r = 0,81 en lectura), pero fueron desiguales entre cursos y no mejores que un regresor ficticio de media por curso para los cursos K y 1. Un enfoque basado en características —características cognitivas y lingüísticas extraídas por LLM e introducidas en modelos basados en árboles— alcanzó correlaciones de hasta r = 0,87, con el nivel de curso y el recuento de palabras como mejores predictores. El estudio ilustra tanto la promesa como los límites de la dificultad predicha por IA como insumo de medición, y ofrece un flujo de trabajo práctico de siete pasos para los profesionales de la evaluación.
 - **Cuando las etiquetas de dificultad generadas no miden la dificultad.** Una auditoría de validez de constructo de 311 preguntas generadas por LLM y ya desplegadas encontró que la etiqueta de dificultad generada correlacionaba con su propio nivel de Bloom cogenerado a ρ=0,90, pero con la dificultad empírica (el índice 1−p de la Teoría Clásica de los Test) solo a ρ=0,06, mientras que la longitud de las opciones iba en sentido contrario (ρ=−0,18): un resultado de etiquetas como forma superficial que acota las lecturas optimistas de la dificultad predicha por IA anteriores ([[student-llm-use-ai-question-difficulty-data-science-2026|An y Wang (2026)]]).
+- **Una etiqueta taxonómica no predice el comportamiento del ítem.** En 265 ítems de matemática, el nivel de Bloom previsto explicó menos del 5% de la varianza en la dificultad (ε² = 0,043) y nada de la discriminación (H de Kruskal–Wallis = 0,54, p = 0,77), mientras que una clasificación con [[llm|LLM]] coincidió con los codificadores expertos solo de forma aceptable (κ de Cohen = 0,22) y empujó los ítems hacia la banda de aplicar/analizar ([[bloom-taxonomy-llm-item-classification-2026|Altaweel y Moussa (2026)]]).
 - **Juzgar los ítems generados por la ruta de solución, no por la formulación.** Codificar el árbol de razonamiento verificado de cada ítem elevó el rendimiento sobre el segundo mejor método un 7,5% en evaluación de conceptos, un 6,3% en estimación de dificultad y un 19,5% en evaluación de competencias, donde una línea base de cero disparos etiquetó mal como «Razonamiento» un ítem que seguía una plantilla y como «Conocimiento» un ítem geométrico ([[proiqa-math-item-quality-assessment-2026|Tong et al. (2026)]]).
 - **Conciencia psicométrica en la [[assessment|evaluación]] con IA:** la [[psychometrically-aware-ai|IA consciente de la psicometría]] es el estándar de que la evaluación basada en IA se alinee con la teoría de la medición: calibrada, consciente de la incertidumbre y preservadora de la validez (véase [[automated-assessment|evaluación automatizada consciente de la confianza]]).
 - **Las etiquetas de dominio se construyen, no se observan.** Cuando el diagnóstico necesita una verdad de referencia, [[personalized-neural-cognitive-architecture-search-2026|Jia y Dong (2026)]] la construyeron mediante un procedimiento de control de validez —gráficos de conceptos curriculares, mapeos de puntos de conocimiento revisados por docentes y evidencia de evaluación convergente— en lugar de convertir directamente las trazas conductuales, y sus diagnósticos coincidieron con los de psicólogos educativos con un kappa de Cohen de 0,78 frente a 0,65 de la TRI.
@@ -187,3 +191,4 @@ La medición educativa es el fundamento de la [[item-response-theory|teoría de 
 
 - [[ai-empathy-scale-psychometric-evaluation-2026]] — Una escala de empatía de IA de 42 ítems cuyos seis factores no recuperaron los seis subfactores previstos
 - [[genai-srl-l2-writing-scale-2026]] — Una escala de AAR con IA generativa en seis dimensiones para la escritura en L2; la forma corta de 12 ítems optimizada por colonias de hormigas sigue a la escala completa (r = 0,910–0,944) pero estrecha la cobertura de contenido
+- [[bloom-taxonomy-llm-item-classification-2026]] — ¿Predicen las clasificaciones cognitivas el comportamiento empírico de los ítems? Alineación de la taxonomía de Bloom con las propiedades psicométricas de ítems de matemática de exámenes nacionales centralizados en los cursos 4 a 12

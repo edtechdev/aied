@@ -1,7 +1,6 @@
 ---
 title: Evaluación automatizada
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-10-09T17:05:00-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -20,12 +19,16 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
+    agent: hermes-agent
 translation_of: concepts/automated-assessment
-source_updated: "2026-10-08T09:45:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
 
-*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+*Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
 > **La evaluación automatizada** — el uso de la IA para evaluar el trabajo del estudiantado, desde los [[formative-assessment|cuestionarios formativos]] hasta los exámenes de alto impacto. La evaluación automatizada abarca múltiples modalidades —opción múltiple, respuesta corta, ensayo, código y evaluación basada en el desempeño— y va de la calificación automatizada directa a sistemas conscientes de la confianza que informan de una incertidumbre calibrada junto a sus puntuaciones.
 
@@ -110,6 +113,8 @@ Cuánta alineación debería exigir una institución depende de qué se le permi
 
 De todo ello se siguen tres requisitos. Como la alineación es específica del modelo y de la institución, la validación debe ser local y continua: una precisión destacada obtenida en otro lugar no es evidencia de estar preparado. Como las notas se comprimían hacia el centro, la IA era menos precisa en los límites de nota y en las entregas más fuertes y más débiles, que es justo donde las decisiones de evaluación tienen más consecuencias. Y como el desacuerdo entre una nota de IA y una humana refleja juicios distintos y no un mero error, las discrepancias deberían desencadenar una interpretación humana en lugar de una anulación algorítmica, manteniendo en las personas la autoridad final sobre la nota. La adopción también conlleva obligaciones de [[governance|gobernanza]] que las métricas técnicas no recogen: un derecho a la explicación conforme al artículo 22 del RGPD cuando las decisiones automatizadas afectan al estudiantado, deberes derivados de la Ley de Igualdad una vez que se demuestra que el nivel de logro y el uso del lenguaje influyen en las notas, procesos de apelación revisados para errores que no se detectan fácilmente, y un riesgo de irreversibilidad: una vez que cambian la plantilla y la inversión, una institución puede tener dificultades para seguir recogiendo la calificación humana que necesitaría para volver atrás.
 
+
+Combinar los tres modelos no eliminó ese error: como sus errores estaban correlacionados —en la misma dirección en el 63,4% de los trabajos—, el conjunto de [[machine-human-marking-agreement-institutions-2026|Corsi et al. (2026)]] fue estadísticamente indistinguible del mejor modelo individual, lo que dejó intacta la compresión compartida hacia la tendencia central.
 
 [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]] aporta los criterios que esos requisitos presuponen, argumentando que lo que hace defendible la automatización es el *estatus epistémico* de la tarea y no lo que la tecnología puede realizar técnicamente. Su marco limita la IA a la verificación acotada de afirmaciones fácticas y procedimentales —deben cumplirse simultáneamente las cuatro condiciones de criterios documentados sin ambigüedad, comparación directa con conocimiento establecido, ausencia de evaluación de enfoques alternativos válidos y una única respuesta correcta o un conjunto aceptable preespecificado, y la ambigüedad se escala a una persona por defecto— y condiciona la implicación de la IA en ese nivel a cinco principios no negociables que deben cumplirse todos a la vez: la base de conocimiento debe estar curada por el evaluador y anclada en la recuperación de los materiales del módulo y no en el conocimiento paramétrico del modelo; los evaluadores humanos revisan cada salida de la IA antes de que llegue al estudiantado y conservan una anulación absoluta con responsabilidad no compartida; la retroalimentación debe llevar una procedencia y atribución claras; y la seguridad debe diseñarse contra el uso adversarial desde el principio, con saneamiento de entradas para instrucciones ocultas en texto blanco o de tamaño pequeño, codificaciones, imágenes o metadatos de documentos, ya que la elusión exitosa de un sistema automatizado se propaga por las cohortes de estudiantes. El mismo artículo explicita que sus principios no están probados en cuanto a viabilidad simultánea y que el tiempo de los evaluadores para la curación, la infraestructura de seguridad y la supervisión de alta frecuencia puede desplazar el esfuerzo del personal en lugar de reducirlo: una cautela que acompaña al requisito de validación local anterior.
 
@@ -198,6 +203,7 @@ La evaluación automatizada se conecta con la [[assessment-validity|validez de l
 - [[llm-graders-computer-science-exams-2026]] — Dónde aciertan y dónde fallan los calificadores LLM: evidencia de dos exámenes de informática
 - [[llm-automated-coding-teacher-pck-2026]] — Codificación con LLM multiagente (GradeOpt) de las respuestas abiertas de CK y PCK del profesorado, con fiabilidad proveniente del refinamiento del prompt contra un manual de codificación
 - [[ai-marking-accuracy-gcse-physics-2026]] — Calificación con IA comparada con las notas del organismo examinador y el juicio del profesorado en física de GCSE
+- [[machine-human-marking-agreement-institutions-2026]] — La concordancia entre máquina y humano en la calificación de trabajos de grado es específica del modelo, el prompt y la institución
 
 - [[llm-grading-assistants-public-health-2026]] — El modo de razonamiento elevó la concordancia entre la calificación humana y la del LLM de una kappa ponderada de 0,269 a 0,718
 - [[llm-structured-assessment-diagnostic-quality-2026]] — Las subdimensiones de rúbrica del LLM son casi redundantes y la retroalimentación rara vez nombra ideas erróneas (Zhao et al. 2026)

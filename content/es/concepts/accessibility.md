@@ -2,7 +2,6 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack]
 title: Accesibilidad
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-02T21:33:38-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -10,7 +9,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,9 +17,13 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
+    agent: hermes-agent
 ---
 
-*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+*Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
 > **Accesibilidad** — el diseño de la tecnología educativa, los contenidos y las interfaces para que puedan ser percibidos, operados y comprendidos por personas con discapacidad y necesidades diversas. En la [[ai-education|IA en la educación]], la accesibilidad abarca barreras concretas y operativas del *medio* de aprendizaje: subtítulos de vídeo, texto alternativo, transcripciones, compatibilidad con lectores de pantalla y con el teclado, contraste de color, simplificación de texto, salida táctil, apoyo en lengua de signos y compatibilidad con [[ai-technologies|tecnologías]] de asistencia.
 
@@ -47,6 +50,8 @@ Un vídeo con subtítulos precisos y una transcripción correctamente etiquetada
 
 **Acceso sensorial: salida no visual y táctil.** **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** convierte la conversación hablada en la modalidad principal para niños y niñas con discapacidad visual, eliminando la dependencia de lo visual. Los **[[tactile-statistical-graphs-accessibility|gráficos táctiles impresos en 3D]]** convierten datos estadísticos visuales en salida tangible para estudiantes ciegos y con baja visión. Los **[[pepper-robot-sign-language-lis-2025|robots de lengua de signos]]** extienden la [[educational-robotics|robótica educativa]] a la accesibilidad comunicativa para estudiantes sordos.
 
+**La descripción de audio escrita para el cine no se traslada a las grabaciones de clases magistrales.** Las clases magistrales basadas en diapositivas hacen referencia a diagramas, ecuaciones y gestos de señalamiento, y sus pausas duran una mediana de solo 0,5 s, así que [[ad4edu-lecture-audio-description-2026|Psychias y Gao (2026)]] construyeron un punto de referencia específico para clases magistrales y una métrica diagnosticable por reglas; el entrenamiento posterior sobre pares ordenados por un juez automático no mejoró el cumplimiento de forma uniforme.
+
 **[[generative-ai|IA generativa]] para estudiantes con discapacidad visual.** **[[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]]** —un estudio de caso [[qualitative-research|cualitativo]] con 21 [[higher-ed|estudiantes universitarios]] con discapacidad visual de tres universidades palestinas— encontraron que la IA generativa adapta el ritmo, el contenido y la presentación a perfiles de aprendizaje individuales y simplifica textos académicos complejos, además de convertir contenido entre modalidades (texto, audio, visual), haciendo utilizables materiales que antes eran inaccesibles. El estudiantado enmarcó la inmediatez como un requisito fundacional de accesibilidad y no como una comodidad, y seis atributos tecnológicos interdependientes —interactividad, facilidad de uso, asequibilidad, multimodalidad, integración y escalabilidad— determinaron si la IA generativa era genuinamente accesible en un [[global-south|contexto de bajos recursos]], con la [[usability-research|usabilidad]], la asequibilidad y la accesibilidad reforzándose mutuamente en lugar de ser consideraciones de diseño separadas.
 
 **Política y adaptaciones para estudiantes con discapacidad.** **[[shin-ai-policies-sld-2026|Shin et al.]]** analizan documentos de política de IA de EE. UU. y revelan un vacío en la orientación para estudiantes con dificultades específicas de aprendizaje, y proponen adaptaciones y recomendaciones de [[educational-policy-ai|política]] fundamentadas en la [[assistive-technology|Ley de Tecnología de Asistencia]] y la IDEA. **[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]]** hacen un metaanálisis de 29 estudios sobre intervenciones basadas en IA para estudiantes con discapacidad y encuentran un efecto positivo medio en los [[learning-gains|resultados de aprendizaje]] (g = 0,588), y sostienen que la IA debe hacer más que garantizar la accesibilidad: debe permitir una participación [[agency|agencial]].
@@ -65,6 +70,7 @@ Un vídeo con subtítulos precisos y una transcripción correctamente etiquetada
 - **Use la IA para automatizar la accesibilidad a escala.** La IA puede generar subtítulos, simplificar texto, producir alternativas táctiles o de audio y adaptar la presentación, pero evalúe la calidad de la salida con comprobaciones humanas dentro del proceso.
 - **Trate la accesibilidad como necesaria pero no suficiente.** Una herramienta accesible no es automáticamente inclusiva ni justa con la discapacidad; combine la accesibilidad con el diseño de [[inclusive-learning|aprendizaje inclusivo]] y el apoyo de [[special-education|educación especial]].
 - **Fundamente las adaptaciones en la ley y la política.** Consulte estándares (WCAG) y normas legales (Ley de Tecnología de Asistencia, IDEA) al diseñar o adquirir herramientas de IA.
+- **El despliegue de la IA está superando a la política de accesibilidad de la IA a nivel institucional.** [[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]] codificó las 100 universidades del ranking de Times Higher Education 2026 y encontró que el 0% publica una política de accesibilidad de la IA independiente, mientras que el 93% despliega servicios de campus impulsados por IA (chatbots para matrícula, alojamiento y TI). La lectura más benévola del autor es que las obligaciones de accesibilidad residen dentro de las políticas generales de servicios para personas con discapacidad, pero tal como se ha medido, los requisitos para las herramientas de IA no aparecen en ninguna parte del registro institucional público. Una breve declaración institucional de que las herramientas de IA en la enseñanza y la administración deben ser accesibles para el estudiantado con discapacidad estaría por delante de todo el campo medido.
 
 - **Transcripción matemáticamente accesible de vídeos de [[physics-education|física]] (2026):** un flujo de trabajo con IA que usa Gemini (audio + muestreo de vídeo a 1 fps) y LuaLaTeX compila vídeos instructivos de física en PDF accesibles en matemáticas según PDF/UA-2 e ISO 32005 que superan habitualmente la validación de accesibilidad: una vía práctica y gratuita para que el contenido de vídeo con muchas ecuaciones sea legible por lector de pantalla para estudiantes ciegos y con baja visión ([[gemini-lualatex-physics-video-transcription-2026]]).
 
@@ -88,6 +94,7 @@ Un vídeo con subtítulos precisos y una transcripción correctamente etiquetada
 - [[legal-issues-and-risks]] — la página paraguas sobre reglas demasiado amplias, evidencia defectuosa y ajuste razonable
 - [[arts-design-and-media-education]]
 ## Artículos conectados
+- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): el 0% de 100 universidades de élite publica una política de accesibilidad de la IA, mientras que el 93% despliega servicios de campus con IA
 - [[shin-ai-policies-sld-2026]] — Políticas de IA y adaptaciones para estudiantes con dificultades específicas de aprendizaje
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Metaanálisis de intervenciones con IA para estudiantes con discapacidad
 - [[adhd-video-segmentation-computing-education]] — Vídeos segmentados con IA y pausas fijas
@@ -101,3 +108,4 @@ Un vídeo con subtítulos precisos y una transcripción correctamente etiquetada
 - [[khlaif-assistive-genai-visually-impaired-2026]] — IA generativa de asistencia para estudiantes con discapacidad visual
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidad virtual y más allá: una revisión de alcance de las tecnologías digitales de asistencia para estudiantes neurodivergentes en la educación superior
 - [[wright-transcription-not-generation-2026]] — Transcribir no es generar: prohibiciones de IA demasiado amplias y las herramientas de asistencia que capturan
+- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: evaluación comparativa de la descripción de audio de clases magistrales universitarias según estándares de accesibilidad, métricas y preferencias de quienes aprenden
