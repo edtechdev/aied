@@ -1,0 +1,268 @@
+# AI in Education Knowledge Base
+> Bu, İngilizce bilgi tabanının henüz bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir. Kavram sayfalarını ve sıkça sorulan sorular sayfalarını içerir; makale sayfaları İngilizce kalır.
+
+## Concepts
+
+- [Eğitimde Yapay Zeka](https://edtechdev.github.io/aied/concepts/ai-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Okuryazarlığı](https://edtechdev.github.io/aied/concepts/ai-literacy/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Etkenik YZ](https://edtechdev.github.io/aied/concepts/agentic-ai/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Bilişsel Yükü Dışarı Aktarma](https://edtechdev.github.io/aied/concepts/cognitive-offloading/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Bilişsel Teslimiyet](https://edtechdev.github.io/aied/concepts/cognitive-surrender/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenciler için YZ Kullanımını Çerçevelemek](https://edtechdev.github.io/aied/concepts/framing-ai-use-for-students/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Kötüye Kullanımını Azaltma](https://edtechdev.github.io/aied/concepts/reducing-ai-misuse/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Akademik Dürüstlük](https://edtechdev.github.io/aied/concepts/academic-integrity/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğretmenlik](https://edtechdev.github.io/aied/concepts/teacher-role/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğretmen YZ Yetkinliği](https://edtechdev.github.io/aied/concepts/teacher-ai-competency/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenme Tasarımı](https://edtechdev.github.io/aied/concepts/learning-design/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitsel Gelişim](https://edtechdev.github.io/aied/concepts/educational-development/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitimde Yapay Zekanın Tarihi](https://edtechdev.github.io/aied/concepts/history-of-aied/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [AIEd Araştırmasını Yorumlamak ve Uygulamak](https://edtechdev.github.io/aied/concepts/interpreting-and-applying-aied-research/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [AIEd Araştırmalarındaki Sınırlılıklar](https://edtechdev.github.io/aied/concepts/limitations-in-aied-research/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitimde YZ Felsefesi](https://edtechdev.github.io/aied/concepts/philosophy-of-ai-in-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Teoriler ve Çerçeveler](https://edtechdev.github.io/aied/concepts/theories-and-frameworks/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitimde Yapay Zekada Teori Geliştirme](https://edtechdev.github.io/aied/concepts/theory-development-aied/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [İnsan–YZ İşbirliği](https://edtechdev.github.io/aied/concepts/human-ai-collaboration/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenen Etkenliği](https://edtechdev.github.io/aied/concepts/agency/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenen Kimliği](https://edtechdev.github.io/aied/concepts/learner-identity/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Tasarım Odaklı Düşünme](https://edtechdev.github.io/aied/concepts/design-thinking/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Müfredat Tasarımı](https://edtechdev.github.io/aied/concepts/curriculum-design/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eleştirel Düşünme](https://edtechdev.github.io/aied/concepts/critical-thinking/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Hesaplamalı Düşünme](https://edtechdev.github.io/aied/concepts/computational-thinking/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [SAMR Modeli](https://edtechdev.github.io/aied/concepts/samr-model/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Teknolojik Pedagojik İçerik Bilgisi (TPACK)](https://edtechdev.github.io/aied/concepts/tpack/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Pedagojiler ve Öğretim Stratejileri](https://edtechdev.github.io/aied/concepts/pedagogy/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Pedagojik Kalıplar](https://edtechdev.github.io/aied/concepts/pedagogical-patterns/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Etkin Öğrenme](https://edtechdev.github.io/aied/concepts/active-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [İşbirlikçi Öğrenme](https://edtechdev.github.io/aied/concepts/collaborative-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Proje Temelli Öğrenme](https://edtechdev.github.io/aied/concepts/project-based-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Problem Temelli Öğrenme](https://edtechdev.github.io/aied/concepts/problem-based-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Verimli Başarısızlık](https://edtechdev.github.io/aied/concepts/productive-failure/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Sorgu Temelli Öğrenme](https://edtechdev.github.io/aied/concepts/inquiry-based-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Deneyimsel Öğrenme](https://edtechdev.github.io/aied/concepts/experiential-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Oyun Temelli Öğrenme](https://edtechdev.github.io/aied/concepts/game-based-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğreterek Öğrenme](https://edtechdev.github.io/aied/concepts/learning-by-teaching/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [İskeleleme (Scaffolding)](https://edtechdev.github.io/aied/concepts/scaffolding/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Sokratik Yöntem](https://edtechdev.github.io/aied/concepts/socratic-method/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eleştirel Pedagoji](https://edtechdev.github.io/aied/concepts/critical-pedagogy/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Pedagojik İşbirliği](https://edtechdev.github.io/aied/concepts/pedagogical-partnerships/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitimde Hikâye Anlatımı](https://edtechdev.github.io/aied/concepts/storytelling-in-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Çevrim İçi Öğretim ve Öğrenme](https://edtechdev.github.io/aied/concepts/online-teaching-and-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitimde Video](https://edtechdev.github.io/aied/concepts/video-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenme Kuramları](https://edtechdev.github.io/aied/concepts/learning-theories/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Davranışçılık](https://edtechdev.github.io/aied/concepts/behaviorism/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Yapılandırmacılık](https://edtechdev.github.io/aied/concepts/constructivist/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Bilişsel Psikoloji](https://edtechdev.github.io/aied/concepts/cognitive-psychology/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Sosyokültürel Öğrenme](https://edtechdev.github.io/aied/concepts/sociocultural-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Dağıtık Biliş](https://edtechdev.github.io/aied/concepts/distributed-cognition/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Bağlamsal Öğrenme](https://edtechdev.github.io/aied/concepts/situated-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Vüut Bulmuş Öğrenme](https://edtechdev.github.io/aied/concepts/embodied-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Sorgulama Topluluğu (CoI)](https://edtechdev.github.io/aied/concepts/community-of-inquiry/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öz Düzenlemeli Öğrenme](https://edtechdev.github.io/aied/concepts/self-regulated-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öz Belirleme Kuramı](https://edtechdev.github.io/aied/concepts/self-determination-theory/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Motivasyon](https://edtechdev.github.io/aied/concepts/motivation/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öz Yeterlilik](https://edtechdev.github.io/aied/concepts/self-efficacy/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öz Yönlendirilmiş Öğrenme](https://edtechdev.github.io/aied/concepts/self-directed-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Metabiliş](https://edtechdev.github.io/aied/concepts/metacognition/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [İstenen Zorluklar](https://edtechdev.github.io/aied/concepts/desirable-difficulties/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenmenin Aktarımı](https://edtechdev.github.io/aied/concepts/transfer-of-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Önceki Bilgi](https://edtechdev.github.io/aied/concepts/prior-knowledge/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [ICAP Çerçevesi](https://edtechdev.github.io/aied/concepts/icap-framework/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Hakkında Yanlış Kanılar](https://edtechdev.github.io/aied/concepts/misconceptions/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Çürütme Metni](https://edtechdev.github.io/aied/concepts/refutation-text/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Etkinlik Kuramı](https://edtechdev.github.io/aied/concepts/activity-theory-aied/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Hatırlatma (Retrieval), Aralıklı Tekrar (Spacing) ve Karıştırma (Interleaving)](https://edtechdev.github.io/aied/concepts/retrieval-spacing-interleaving/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenci Kavraması](https://edtechdev.github.io/aied/concepts/student-engagement/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Yardım Arama](https://edtechdev.github.io/aied/concepts/help-seeking/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Sosyal-Duygusal Öğrenme](https://edtechdev.github.io/aied/concepts/social-emotional-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [İyi Olma Hali](https://edtechdev.github.io/aied/concepts/well-being/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Yaratıcılık](https://edtechdev.github.io/aied/concepts/creativity/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenci–YZ Etkileşimi](https://edtechdev.github.io/aied/concepts/student-ai-interaction/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Problem Çözme](https://edtechdev.github.io/aied/concepts/problem-solving/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Ustalık Öğrenmesi](https://edtechdev.github.io/aied/concepts/mastery-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Kaygı ve Stres](https://edtechdev.github.io/aied/concepts/anxiety-and-stress/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenci Deneyimi](https://edtechdev.github.io/aied/concepts/student-experience/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenci Desteği ve Başarısı](https://edtechdev.github.io/aied/concepts/student-support-and-success/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Kullanımına İlişkin Toplumsal Normlar](https://edtechdev.github.io/aied/concepts/social-norms-ai-use/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Kariyer Gelişimi ve Hazırbulunuşluk](https://edtechdev.github.io/aied/concepts/career-development-and-readiness/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Yaşam Boyu Öğrenme](https://edtechdev.github.io/aied/concepts/lifelong-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [İş Yeri Öğrenmesi](https://edtechdev.github.io/aied/concepts/professional-training/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Teknolojiler](https://edtechdev.github.io/aied/concepts/ai-technologies/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Makine Öğrenmesi](https://edtechdev.github.io/aied/concepts/machine-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Üretici YZ](https://edtechdev.github.io/aied/concepts/generative-ai/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Büyük Dil Modelleri (LLM)](https://edtechdev.github.io/aied/concepts/llm/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [RAG (Alım Artırımlı Üretim)](https://edtechdev.github.io/aied/concepts/rag/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [İstek Metni Mühendisliği](https://edtechdev.github.io/aied/concepts/prompt-engineering/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [LLM Eğitimi ve İnce Ayar](https://edtechdev.github.io/aied/concepts/llm-training-and-fine-tuning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Vibe Coding](https://edtechdev.github.io/aied/concepts/vibe-coding/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Çok Kipli YZ](https://edtechdev.github.io/aied/concepts/multimodal/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Konuşma ve Ses Teknolojileri](https://edtechdev.github.io/aied/concepts/speech-and-voice-technologies/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Görselleştirme](https://edtechdev.github.io/aied/concepts/visualization/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitimde NLP](https://edtechdev.github.io/aied/concepts/educational-nlp/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Pekiştirmeli Öğrenme](https://edtechdev.github.io/aied/concepts/reinforcement-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Bilgi Grafiği](https://edtechdev.github.io/aied/concepts/knowledge-graph/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitimde Robotlar](https://edtechdev.github.io/aied/concepts/educational-robotics/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Konuşma Tabanlı Yapay Zeka](https://edtechdev.github.io/aied/concepts/conversational-ai/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Simülasyon](https://edtechdev.github.io/aied/concepts/simulation/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Sanal ve Artırılmış Gerçeklik](https://edtechdev.github.io/aied/concepts/virtual-and-augmented-reality/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenen Modellemesi ve Uyarlanabilir Öğretim](https://edtechdev.github.io/aied/concepts/student-modeling/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Bilgi İzleme](https://edtechdev.github.io/aied/concepts/knowledge-tracing/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Bilişsel Tanılama](https://edtechdev.github.io/aied/concepts/cognitive-diagnosis/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenci Simülasyonu](https://edtechdev.github.io/aied/concepts/simulating-students/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Akıllı Özel Öğretim](https://edtechdev.github.io/aied/concepts/intelligent-tutoring/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Uyarlanabilir Öğrenme](https://edtechdev.github.io/aied/concepts/adaptive-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Kişiselleştirilmiş Öğrenme](https://edtechdev.github.io/aied/concepts/personalized-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öneri Sistemleri ve Öğrenme Yolları](https://edtechdev.github.io/aied/concepts/recommender-systems-and-learning-paths/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Pedagojik Ajan](https://edtechdev.github.io/aied/concepts/pedagogical-agent/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Duygusal Öğretmenlik](https://edtechdev.github.io/aied/concepts/affective-tutoring/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Duygusal Hesaplama](https://edtechdev.github.io/aied/concepts/affective-computing/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [İnsan-Denetiminde Yapay Zeka](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenme Analitiği](https://edtechdev.github.io/aied/concepts/learning-analytics/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Teknoloji Benimseme Modelleri](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Açık Kaynak](https://edtechdev.github.io/aied/concepts/open-source/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Edtech Platformu](https://edtechdev.github.io/aied/concepts/edtech-platform/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Disiplinlerde AIEd](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Matematik Eğitimi](https://edtechdev.github.io/aied/concepts/math-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Fizik Eğitimi](https://edtechdev.github.io/aied/concepts/physics-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Kimya Eğitimi](https://edtechdev.github.io/aied/concepts/chemistry-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Biyoloji Eğitimi](https://edtechdev.github.io/aied/concepts/biology-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [BS Eğitimi](https://edtechdev.github.io/aied/concepts/cs-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Mühendislik Eğitimi](https://edtechdev.github.io/aied/concepts/engineering-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [STEM Eğitimi](https://edtechdev.github.io/aied/concepts/stem-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Fen Eğitimi](https://edtechdev.github.io/aied/concepts/science-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Yazma](https://edtechdev.github.io/aied/concepts/writing-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Dil Öğrenimi](https://edtechdev.github.io/aied/concepts/language-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [İngilizce Eğitimi (EAP / EFL / ESL)](https://edtechdev.github.io/aied/concepts/english-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Çevre Eğitimi](https://edtechdev.github.io/aied/concepts/environmental-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [İşletme ve Ekonomi Eğitimi](https://edtechdev.github.io/aied/concepts/business-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Beşeri ve Sosyal Bilimler Eğitimi](https://edtechdev.github.io/aied/concepts/humanities-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Sanat, Tasarım ve Medya Eğitimi](https://edtechdev.github.io/aied/concepts/arts-design-and-media-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Tasarım Eğitimi](https://edtechdev.github.io/aied/concepts/design-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Tıp ve Sağlık Meslekleri Eğitimi](https://edtechdev.github.io/aied/concepts/medical-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Hemşirelik Eğitimi](https://edtechdev.github.io/aied/concepts/nursing-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Hukuk Eğitimi](https://edtechdev.github.io/aied/concepts/legal-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Bilgi Teknolojileri Eğitimi](https://edtechdev.github.io/aied/concepts/information-technology/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenme Bilimleri](https://edtechdev.github.io/aied/concepts/learning-sciences/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [K-12](https://edtechdev.github.io/aied/concepts/k-12/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Erken Çocukluk Eğitimi](https://edtechdev.github.io/aied/concepts/early-childhood-elementary-ai-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Yükseköğretim](https://edtechdev.github.io/aied/concepts/higher-ed/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Yetişkin Öğrenenler](https://edtechdev.github.io/aied/concepts/adult-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Mesleki ve Teknik Eğitim](https://edtechdev.github.io/aied/concepts/vocational-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Özel Eğitim](https://edtechdev.github.io/aied/concepts/special-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Mesleki Gelişim](https://edtechdev.github.io/aied/concepts/teacher-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitim Kademeleri](https://edtechdev.github.io/aied/concepts/education-levels/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Değerlendirme](https://edtechdev.github.io/aied/concepts/assessment/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Değerlendirici Yargı](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Geri Bildirim](https://edtechdev.github.io/aied/concepts/feedback/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Geri Bildirim Okuryazarlığı](https://edtechdev.github.io/aied/concepts/feedback-literacy/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Geri Bildirim Kalitesi](https://edtechdev.github.io/aied/concepts/ai-feedback-quality/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Biçimlendirici Değerlendirme](https://edtechdev.github.io/aied/concepts/formative-assessment/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Toplayıcı Değerlendirme](https://edtechdev.github.io/aied/concepts/summative-assessment/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Özgün Değerlendirme](https://edtechdev.github.io/aied/concepts/authentic-assessment/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Sürece Yönelik Değerlendirme](https://edtechdev.github.io/aied/concepts/process-oriented-assessment/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Grup Çalışması](https://edtechdev.github.io/aied/concepts/group-work/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [E-Portfolyo](https://edtechdev.github.io/aied/concepts/eportfolio/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Akran Değerlendirmesi](https://edtechdev.github.io/aied/concepts/peer-assessment/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öz Değerlendirme](https://edtechdev.github.io/aied/concepts/self-assessment/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Sözlü Değerlendirme](https://edtechdev.github.io/aied/concepts/oral-assessment/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Otomatik Değerlendirme](https://edtechdev.github.io/aied/concepts/automated-assessment/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Otomatik Kompozisyon Puanlama](https://edtechdev.github.io/aied/concepts/automated-essay-scoring/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Otomatik Soru Üretimi](https://edtechdev.github.io/aied/concepts/automated-question-generation/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Değerlendirme Geçerliliği](https://edtechdev.github.io/aied/concepts/assessment-validity/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Psikometrik Bilinçli YZ](https://edtechdev.github.io/aied/concepts/psychometrically-aware-ai/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitimde Ölçme](https://edtechdev.github.io/aied/concepts/educational-measurement/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Madde Tepki Kuramı](https://edtechdev.github.io/aied/concepts/item-response-theory/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öz Bildirim Ölçütleri](https://edtechdev.github.io/aied/concepts/self-report-measures/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Tespiti](https://edtechdev.github.io/aied/concepts/ai-detection/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Uzaktan Gözetimli Sınav](https://edtechdev.github.io/aied/concepts/remote-proctoring/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenme Kazanımları](https://edtechdev.github.io/aied/concepts/learning-gains/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [AIED’de Araştırma Yöntemleri](https://edtechdev.github.io/aied/concepts/research-methods-aied/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Destekli Eğitim Araştırması](https://edtechdev.github.io/aied/concepts/ai-assisted-educational-research/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Nitel Araştırma](https://edtechdev.github.io/aied/concepts/qualitative-research/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Niceliksel Araştırma](https://edtechdev.github.io/aied/concepts/quantitative-research/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Karma Yöntemli Araştırma](https://edtechdev.github.io/aied/concepts/mixed-methods-research/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Tasarım Temelli Araştırma](https://edtechdev.github.io/aied/concepts/design-based-research/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Kullanılabilirlik Araştırması](https://edtechdev.github.io/aied/concepts/usability-research/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [RCT](https://edtechdev.github.io/aied/concepts/rct/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Meta-Analiz ve Sistematik Derleme](https://edtechdev.github.io/aied/concepts/meta-analysis-systematic-review/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Gizli Profil Analizi](https://edtechdev.github.io/aied/concepts/latent-profile-analysis/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Ağ Analizi](https://edtechdev.github.io/aied/concepts/network-analysis/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [AIEd Değerlendirmesi](https://edtechdev.github.io/aied/concepts/ai-ed-evaluation/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Karşılaştırma testi (Benchmark)](https://edtechdev.github.io/aied/concepts/benchmark/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Yöneticiler](https://edtechdev.github.io/aied/concepts/administrator/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitim Teknolojisi Geliştiricileri](https://edtechdev.github.io/aied/concepts/educational-technology-developers/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenenler](https://edtechdev.github.io/aied/concepts/learners/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Kütüphaneciler](https://edtechdev.github.io/aied/concepts/librarians/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Aileler ve Ebeveynler](https://edtechdev.github.io/aied/concepts/parents-and-families/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Paydaşlar](https://edtechdev.github.io/aied/concepts/stakeholders/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitimde YZ Politikası](https://edtechdev.github.io/aied/concepts/educational-policy-ai/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Yönetişimi](https://edtechdev.github.io/aied/concepts/governance/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Değişim Yönetimi](https://edtechdev.github.io/aied/concepts/change-management/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitimde YZ Regülasyonu](https://edtechdev.github.io/aied/concepts/regulation/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eşitlik](https://edtechdev.github.io/aied/concepts/equity-in-ai-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrenen Grupları Arasındaki Farklı Etkiler](https://edtechdev.github.io/aied/concepts/differential-effects-across-learner-groups/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Dijital Uçurum](https://edtechdev.github.io/aied/concepts/digital-divide/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Önyargı Azaltma](https://edtechdev.github.io/aied/concepts/bias-mitigation/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Kültürel Olarak Duyarlı Pedagoji](https://edtechdev.github.io/aied/concepts/culturally-relevant-pedagogy/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Çok Dilli Öğrenme](https://edtechdev.github.io/aied/concepts/multilingual-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Kapsayıcı Öğrenme](https://edtechdev.github.io/aied/concepts/inclusive-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Erişilebilirlik](https://edtechdev.github.io/aied/concepts/accessibility/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Yardımcı Teknoloji](https://edtechdev.github.io/aied/concepts/assistive-technology/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Nöroçeşitlilik](https://edtechdev.github.io/aied/concepts/neurodiversity/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Evrensel Tasarımla Öğrenme](https://edtechdev.github.io/aied/concepts/universal-design-for-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Küresel Güney](https://edtechdev.github.io/aied/concepts/global-south/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Etik](https://edtechdev.github.io/aied/concepts/ethics/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Yanlış Kullanımı ve Öğrenmeye Zarar](https://edtechdev.github.io/aied/concepts/ai-misuse-learning-harm/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Hukukî Sorunlar ve Riskler](https://edtechdev.github.io/aied/concepts/legal-issues-and-risks/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Kullanım ve Açıklama Beyanları](https://edtechdev.github.io/aied/concepts/ai-use-disclosure/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Güvenlik Rayları](https://edtechdev.github.io/aied/concepts/guardrails/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Gizlilik](https://edtechdev.github.io/aied/concepts/privacy/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Halüsinasyon Riski](https://edtechdev.github.io/aied/concepts/hallucination-risk/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Yalakalığı](https://edtechdev.github.io/aied/concepts/ai-sycophancy/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Güven](https://edtechdev.github.io/aied/concepts/trust/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Güven Kalibrasyonu](https://edtechdev.github.io/aied/concepts/trust-calibration/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Açıklanabilir YZ](https://edtechdev.github.io/aied/concepts/explainable-ai/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Sürdürülebilirlik](https://edtechdev.github.io/aied/concepts/sustainability/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Pedagojik Güvenlik](https://edtechdev.github.io/aied/concepts/pedagogical-safety/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+
+## FAQs
+
+- [Eğitimde Yapay Zeka Hakkındaki Yaygın Yanlış Kanıları Nasıl Ele Alabiliriz?](https://edtechdev.github.io/aied/faqs/addressing-common-misconceptions-ai-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Ajanları Öğrencileri ve Öğretim Elemanlarını Nasıl Destekleyebilir?](https://edtechdev.github.io/aied/faqs/ai-agents-support-students-instructors/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Öğrenci Kaygısını ve İyi Oluşu Nasıl Etkiler, ve Ne Yapabiliriz?](https://edtechdev.github.io/aied/faqs/ai-anxiety-wellbeing/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Kursumda Engelli ve Nöroçeşitli Öğrenenleri YZ Nasıl Destekleyebilir?](https://edtechdev.github.io/aied/faqs/ai-disabled-neurodivergent-learners/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Ölçekte Daha İyi Geri Bildirim Vermeme Nasıl Yardım Edebilir?](https://edtechdev.github.io/aied/faqs/ai-feedback-at-scale/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Ebeveynler ve Öğretmenler 13 Yaş Altı Çocuklarla YZ’ye Nasıl Yaklaşmalı?](https://edtechdev.github.io/aied/faqs/ai-guidance-children-under-13/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Yükseköğretimde YZ Okuryazarlığı Müdahalelerine İlişkin Kanıtlar Nedir?](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğretmen Olarak Yapay Zeka Nasıl Zaman Kazandırır?](https://edtechdev.github.io/aied/faqs/ai-save-instructor-time/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ İşi Yapabildiğinde Eşzamanlı Olmayan Çevrimiçi Kursları Nasıl Tasarlamalı ve Yürütmeliyiz?](https://edtechdev.github.io/aied/faqs/asynchronous-online-courses-ai/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Bir Eğitim YZ'sinin Doğru Çalışıp Çalışmadığını Yalnızca İyi Puan Aldığını Değil Nasıl Anlarız?](https://edtechdev.github.io/aied/faqs/checking-whether-educational-ai-works/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Bir Kurs YZ Politikası Nasıl Yazılır ve Öğrencilere Nasıl Duyurulur?](https://edtechdev.github.io/aied/faqs/course-ai-policy/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Öğrenme Deneyiminin İçine Nasıl Tasarınmalıdır?](https://edtechdev.github.io/aied/faqs/designing-ai-into-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Etkili Eğitim Yapay Zeka Yazılımı Tasarlamaya Yönelik En İyi Uygulamalar ve İpuçları Nelerdir?](https://edtechdev.github.io/aied/faqs/designing-educational-ai-software/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Etkili Bir YZ Eğitmeni Geliştirmeye Yönelik En İyi Uygulamalar Nelerdir?](https://edtechdev.github.io/aied/faqs/developing-ai-tutor/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Kullanmak Gerçekten Öğrencilerimin Öğrenmesine Yardımcı Oluyor mu?](https://edtechdev.github.io/aied/faqs/does-ai-help-students-learn/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitimde Yapay Zeka Araştırmaları Eşitliği, Erişilebilirliği, Gizliliği, Etiği ve Pedagojik Güvenliği Nasıl Dahil Etmeli?](https://edtechdev.github.io/aied/faqs/equity-ethics-pedagogical-safety-research/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Bir Eğitmen YZ İle İlgili Müdahaleleri Değerlendirmek İçin Hangi Ölçütleri ve Araştırma Yöntemlerini Kullanabilir?](https://edtechdev.github.io/aied/faqs/evaluating-ai-interventions-methods/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Akademisyenlerin YZ Konusunda Hangi Yetkinliklere İhtiyacı Var?](https://edtechdev.github.io/aied/faqs/faculty-ai-competencies/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Uygulamada Gerçekten Değişim Yaratacak Akademik Personel Gelişimini Nasıl Tasarlarım?](https://edtechdev.github.io/aied/faqs/faculty-development-ai/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Grup ve İşbirlikli Ödevlerde Yapay Zekâyla Nasıl Başa Çıkmalıyım?](https://edtechdev.github.io/aied/faqs/group-work-ai/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Öğrencileri Nasıl Etkiliyor?](https://edtechdev.github.io/aied/faqs/how-ai-impacts-students/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Eğitim Araştırmalarına Nasıl Yardımcı Olabilir?](https://edtechdev.github.io/aied/faqs/how-can-ai-assist-with-educational-research/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Okuryazarlığını Kursuma Nasıl Dâhil Edebilirim?](https://edtechdev.github.io/aied/faqs/incorporating-ai-literacy/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Kurumsal Bir YZ Politikasını Nasıl Yazıp Uygularız?](https://edtechdev.github.io/aied/faqs/institutional-ai-policy/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Kendi Alanımızda Öğrenmeyi Desteklemede Yapay Zekayı Nasıl Daha İyi Yapabiliriz?](https://edtechdev.github.io/aied/faqs/making-ai-better-at-supporting-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Bir Simüle Öğrenciyi Gerçek Bir Öğrenen Gibi Davrandırmayı Nasıl Başarırız?](https://edtechdev.github.io/aied/faqs/making-simulated-students-behave-like-learners/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Notanın Öğrencinin Ne Bildiği ya da Ne Yapabildiği Konusunda Hâlâ Savunulabilir Bir Şey Söylemesi İçin Değerlendirmeyi Nasıl Yeniden Tasarlarım?](https://edtechdev.github.io/aied/faqs/redesign-assessment-ai-era/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Kursumda YZ ile Aldatmayı Nasıl Azaltabilirim?](https://edtechdev.github.io/aied/faqs/reduce-ai-cheating/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrencilerin YZ’ye Aşırı Güvenmesini Nasıl Önlerim?](https://edtechdev.github.io/aied/faqs/reducing-over-reliance/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitimde Yapay Zeka Araştırmalarını Bildirmenin ve Yorumlamanın En İyi Uygulamaları Nelerdir?](https://edtechdev.github.io/aied/faqs/reporting-interpreting-aied-research/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Eğitimde Yapay Zeka Araştırma Literatüründeki Kayda Değer Boşluklar Nelerdir?](https://edtechdev.github.io/aied/faqs/research-gaps-aied/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Dedektörleri Kullanmalı mıyız?](https://edtechdev.github.io/aied/faqs/should-we-use-ai-detectors/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ ile Etkili Bir Biçimde Nasıl Çalışır ve Öğrenirim?](https://edtechdev.github.io/aied/faqs/study-with-ai/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğretim Elemanlarının Bilmesi Gereken Eğitimde Yapay Zeka Araştırmasından En Önemli 10 Bulgu Nedir?](https://edtechdev.github.io/aied/faqs/top-10-findings-ai-education-instructors/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Bir YZ Eğitmeni Öğrencileri Yönlendirecek, Onlara Yanıt Vermeyecek Biçimde Nasıl Eğitilir?](https://edtechdev.github.io/aied/faqs/training-ai-tutors-to-guide-rather-than-answer/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğrencilere YZ Çıktısını Nasıl Doğrulamayı Öğretebilirim?](https://edtechdev.github.io/aied/faqs/verify-ai-output/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [YZ Bağlamında Yazma Öğretiminin En İyi Uygulamaları Nelerdir?](https://edtechdev.github.io/aied/faqs/writing-instruction-ai-best-practices/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+
+## Articles
+
