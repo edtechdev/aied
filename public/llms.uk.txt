@@ -1,0 +1,268 @@
+# AI in Education Knowledge Base
+> Це машинний переклад англійської бази знань, який ще не вичитаний носієм мови. Він містить сторінки понять і сторінки поширених питань; сторінки статей залишаються англійською.
+
+## Concepts
+
+- [ШІ в освіті](https://edtechdev.github.io/aied/concepts/ai-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [ШІ-грамотність](https://edtechdev.github.io/aied/concepts/ai-literacy/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Агентний ШІ](https://edtechdev.github.io/aied/concepts/agentic-ai/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Розвантаження когніції](https://edtechdev.github.io/aied/concepts/cognitive-offloading/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Когнітивна капітуляція](https://edtechdev.github.io/aied/concepts/cognitive-surrender/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Фреймування використання ШІ для студентів](https://edtechdev.github.io/aied/concepts/framing-ai-use-for-students/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Зниження шкоди від неправильного використання ШІ](https://edtechdev.github.io/aied/concepts/reducing-ai-misuse/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Академічна доброчесність](https://edtechdev.github.io/aied/concepts/academic-integrity/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Викладання](https://edtechdev.github.io/aied/concepts/teacher-role/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Компетентність викладача в галузі ШІ](https://edtechdev.github.io/aied/concepts/teacher-ai-competency/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Проєктування навчання](https://edtechdev.github.io/aied/concepts/learning-design/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освітній розвиток](https://edtechdev.github.io/aied/concepts/educational-development/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Історія ШІ в освіті](https://edtechdev.github.io/aied/concepts/history-of-aied/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Тлумачення та застосування досліджень AIEd](https://edtechdev.github.io/aied/concepts/interpreting-and-applying-aied-research/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Обмеження досліджень AIEd](https://edtechdev.github.io/aied/concepts/limitations-in-aied-research/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Філософія ШІ в освіті](https://edtechdev.github.io/aied/concepts/philosophy-of-ai-in-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Теорії та фреймворки](https://edtechdev.github.io/aied/concepts/theories-and-frameworks/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Розвиток теорії в ШІ в освіті](https://edtechdev.github.io/aied/concepts/theory-development-aied/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Співпраця людини та ШІ](https://edtechdev.github.io/aied/concepts/human-ai-collaboration/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Суб’єктність здобувача](https://edtechdev.github.io/aied/concepts/agency/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Ідентичність здобувача](https://edtechdev.github.io/aied/concepts/learner-identity/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Дизайн-мислення](https://edtechdev.github.io/aied/concepts/design-thinking/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Конструювання навчальної програми](https://edtechdev.github.io/aied/concepts/curriculum-design/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Критичне мислення](https://edtechdev.github.io/aied/concepts/critical-thinking/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Обчислювальне мислення](https://edtechdev.github.io/aied/concepts/computational-thinking/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Модель SAMR](https://edtechdev.github.io/aied/concepts/samr-model/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Технологічні педагогічні знання змісту (TPACK)](https://edtechdev.github.io/aied/concepts/tpack/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Педагогіки та стратегії викладання](https://edtechdev.github.io/aied/concepts/pedagogy/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Педагогічні патерни](https://edtechdev.github.io/aied/concepts/pedagogical-patterns/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Активне навчання](https://edtechdev.github.io/aied/concepts/active-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Спільне навчання](https://edtechdev.github.io/aied/concepts/collaborative-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Навчання на основі проєктів](https://edtechdev.github.io/aied/concepts/project-based-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Навчання на основі задач](https://edtechdev.github.io/aied/concepts/problem-based-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Продуктивна невдача](https://edtechdev.github.io/aied/concepts/productive-failure/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Навчання на основі дослідження](https://edtechdev.github.io/aied/concepts/inquiry-based-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Досвідницьке навчання](https://edtechdev.github.io/aied/concepts/experiential-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Навчання на основі ігор](https://edtechdev.github.io/aied/concepts/game-based-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Навчання через навчання інших](https://edtechdev.github.io/aied/concepts/learning-by-teaching/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Скаффолдинг](https://edtechdev.github.io/aied/concepts/scaffolding/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Сократичний метод](https://edtechdev.github.io/aied/concepts/socratic-method/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Критична педагогіка](https://edtechdev.github.io/aied/concepts/critical-pedagogy/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Педагогічне партнерство](https://edtechdev.github.io/aied/concepts/pedagogical-partnerships/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Сторітелінг в освіті](https://edtechdev.github.io/aied/concepts/storytelling-in-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Онлайн-викладання та онлайн-навчання](https://edtechdev.github.io/aied/concepts/online-teaching-and-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Відео в освіті](https://edtechdev.github.io/aied/concepts/video-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Теорії навчання](https://edtechdev.github.io/aied/concepts/learning-theories/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Біхевіоризм](https://edtechdev.github.io/aied/concepts/behaviorism/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Конструктивізм](https://edtechdev.github.io/aied/concepts/constructivist/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Когнітивна психологія](https://edtechdev.github.io/aied/concepts/cognitive-psychology/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Соціокультурне навчання](https://edtechdev.github.io/aied/concepts/sociocultural-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Розподілена когніція](https://edtechdev.github.io/aied/concepts/distributed-cognition/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Ситуативне навчання](https://edtechdev.github.io/aied/concepts/situated-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Втілене навчання](https://edtechdev.github.io/aied/concepts/embodied-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Спільнота дослідження](https://edtechdev.github.io/aied/concepts/community-of-inquiry/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Саморегульоване навчання](https://edtechdev.github.io/aied/concepts/self-regulated-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Теорія самодетермінації](https://edtechdev.github.io/aied/concepts/self-determination-theory/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Мотивація](https://edtechdev.github.io/aied/concepts/motivation/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Самоефективність](https://edtechdev.github.io/aied/concepts/self-efficacy/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Самоспрямоване навчання](https://edtechdev.github.io/aied/concepts/self-directed-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Метакогніція](https://edtechdev.github.io/aied/concepts/metacognition/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Бажані труднощі](https://edtechdev.github.io/aied/concepts/desirable-difficulties/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Перенесення навчання](https://edtechdev.github.io/aied/concepts/transfer-of-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Попередні знання](https://edtechdev.github.io/aied/concepts/prior-knowledge/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Рамкова модель ICAP](https://edtechdev.github.io/aied/concepts/icap-framework/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Хибні уявлення про AI](https://edtechdev.github.io/aied/concepts/misconceptions/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Текст-спростування](https://edtechdev.github.io/aied/concepts/refutation-text/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Теорія діяльності](https://edtechdev.github.io/aied/concepts/activity-theory-aied/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Ретривал, інтервалювання та чергування](https://edtechdev.github.io/aied/concepts/retrieval-spacing-interleaving/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Залученість здобувачів](https://edtechdev.github.io/aied/concepts/student-engagement/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Пошук допомоги](https://edtechdev.github.io/aied/concepts/help-seeking/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Соціально-емоційне навчання](https://edtechdev.github.io/aied/concepts/social-emotional-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Благополуччя](https://edtechdev.github.io/aied/concepts/well-being/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Креативність](https://edtechdev.github.io/aied/concepts/creativity/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Взаємодія здобувача зі ШІ](https://edtechdev.github.io/aied/concepts/student-ai-interaction/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Вирішення задач](https://edtechdev.github.io/aied/concepts/problem-solving/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освоєння навчального матеріалу](https://edtechdev.github.io/aied/concepts/mastery-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Тривожність і стрес](https://edtechdev.github.io/aied/concepts/anxiety-and-stress/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Досвід здобувача](https://edtechdev.github.io/aied/concepts/student-experience/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Підтримка та успішність здобувачів](https://edtechdev.github.io/aied/concepts/student-support-and-success/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Соціальні норми використання ШІ](https://edtechdev.github.io/aied/concepts/social-norms-ai-use/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Кар’єрний розвиток і готовність](https://edtechdev.github.io/aied/concepts/career-development-and-readiness/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Навчання протягом життя](https://edtechdev.github.io/aied/concepts/lifelong-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Навчання на робочому місці](https://edtechdev.github.io/aied/concepts/professional-training/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Технології](https://edtechdev.github.io/aied/concepts/ai-technologies/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Машинне навчання](https://edtechdev.github.io/aied/concepts/machine-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Генеративний ШІ](https://edtechdev.github.io/aied/concepts/generative-ai/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Великі мовні моделі (LLM)](https://edtechdev.github.io/aied/concepts/llm/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [RAG (генерація з доповненням пошуком)](https://edtechdev.github.io/aied/concepts/rag/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Інженерія підказок](https://edtechdev.github.io/aied/concepts/prompt-engineering/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Тренування LLM і дотончення](https://edtechdev.github.io/aied/concepts/llm-training-and-fine-tuning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Вайбкодинг](https://edtechdev.github.io/aied/concepts/vibe-coding/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Мультимодальний ШІ](https://edtechdev.github.io/aied/concepts/multimodal/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Мовленнєві та голосові технології](https://edtechdev.github.io/aied/concepts/speech-and-voice-technologies/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Візуалізація](https://edtechdev.github.io/aied/concepts/visualization/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освітня NLP](https://edtechdev.github.io/aied/concepts/educational-nlp/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Підсилене навчання](https://edtechdev.github.io/aied/concepts/reinforcement-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Граф знань](https://edtechdev.github.io/aied/concepts/knowledge-graph/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Роботи в освіті](https://edtechdev.github.io/aied/concepts/educational-robotics/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Розмовний ШІ](https://edtechdev.github.io/aied/concepts/conversational-ai/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Симуляція](https://edtechdev.github.io/aied/concepts/simulation/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Віртуальна та доповнена реальність](https://edtechdev.github.io/aied/concepts/virtual-and-augmented-reality/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Моделювання здобувача та адаптивне навчання](https://edtechdev.github.io/aied/concepts/student-modeling/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Відстеження знань](https://edtechdev.github.io/aied/concepts/knowledge-tracing/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Когнітивна діагностика](https://edtechdev.github.io/aied/concepts/cognitive-diagnosis/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Симуляція студентів](https://edtechdev.github.io/aied/concepts/simulating-students/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Інтелектуальний тьюторінг](https://edtechdev.github.io/aied/concepts/intelligent-tutoring/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Адаптивне навчання](https://edtechdev.github.io/aied/concepts/adaptive-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Персоналізоване навчання](https://edtechdev.github.io/aied/concepts/personalized-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Системи рекомендацій і навчальні траєкторії](https://edtechdev.github.io/aied/concepts/recommender-systems-and-learning-paths/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Педагогічний агент](https://edtechdev.github.io/aied/concepts/pedagogical-agent/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Афективне тьюторство](https://edtechdev.github.io/aied/concepts/affective-tutoring/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Афективні обчислення](https://edtechdev.github.io/aied/concepts/affective-computing/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Людина в циклі](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Аналітика навчання](https://edtechdev.github.io/aied/concepts/learning-analytics/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Моделі прийняття технологій](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Відкритий код](https://edtechdev.github.io/aied/concepts/open-source/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Платформа EdTech](https://edtechdev.github.io/aied/concepts/edtech-platform/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [AIEd в дисциплінах](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Математична освіта](https://edtechdev.github.io/aied/concepts/math-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освіта з фізики](https://edtechdev.github.io/aied/concepts/physics-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Хімічна освіта](https://edtechdev.github.io/aied/concepts/chemistry-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освіта з біології](https://edtechdev.github.io/aied/concepts/biology-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освіта з комп’ютерних наук (CS Education)](https://edtechdev.github.io/aied/concepts/cs-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Інженерна освіта](https://edtechdev.github.io/aied/concepts/engineering-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освіта в галузі STEM](https://edtechdev.github.io/aied/concepts/stem-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освітня галузь «Природничі науки»](https://edtechdev.github.io/aied/concepts/science-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Письмо](https://edtechdev.github.io/aied/concepts/writing-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Вивчення мов](https://edtechdev.github.io/aied/concepts/language-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освіта з англійської мови (EAP / EFL / ESL)](https://edtechdev.github.io/aied/concepts/english-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Екологічна освіта](https://edtechdev.github.io/aied/concepts/environmental-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освіта у сфері бізнесу](https://edtechdev.github.io/aied/concepts/business-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освіта в галузі гуманітарних та соціальних наук](https://edtechdev.github.io/aied/concepts/humanities-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освіта у сфері мистецтв, дизайну та медіа](https://edtechdev.github.io/aied/concepts/arts-design-and-media-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Дизайн-освіта](https://edtechdev.github.io/aied/concepts/design-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освіта медиків та професій охорони здоров’я](https://edtechdev.github.io/aied/concepts/medical-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освіта в галузі медсестринства](https://edtechdev.github.io/aied/concepts/nursing-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Юридична освіта](https://edtechdev.github.io/aied/concepts/legal-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освіта в галузі інформаційних технологій](https://edtechdev.github.io/aied/concepts/information-technology/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Науки про навчання](https://edtechdev.github.io/aied/concepts/learning-sciences/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [K-12](https://edtechdev.github.io/aied/concepts/k-12/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освіта дітей раннього віку](https://edtechdev.github.io/aied/concepts/early-childhood-elementary-ai-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Вища освіта](https://edtechdev.github.io/aied/concepts/higher-ed/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Дорослі здобувачі](https://edtechdev.github.io/aied/concepts/adult-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Професійно-технічна освіта та навчання](https://edtechdev.github.io/aied/concepts/vocational-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Спеціальна освіта](https://edtechdev.github.io/aied/concepts/special-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Професійний розвиток](https://edtechdev.github.io/aied/concepts/teacher-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Рівні освіти](https://edtechdev.github.io/aied/concepts/education-levels/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Оцінювання](https://edtechdev.github.io/aied/concepts/assessment/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Оцінювальний розсуд](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Зворотний зв’язок](https://edtechdev.github.io/aied/concepts/feedback/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Грамотність у зворотному зв’язку](https://edtechdev.github.io/aied/concepts/feedback-literacy/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Якість зворотного зв’язку ШІ](https://edtechdev.github.io/aied/concepts/ai-feedback-quality/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Формативне оцінювання](https://edtechdev.github.io/aied/concepts/formative-assessment/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Підсумкове оцінювання](https://edtechdev.github.io/aied/concepts/summative-assessment/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Аутентичне оцінювання](https://edtechdev.github.io/aied/concepts/authentic-assessment/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Оцінювання, орієнтоване на процес](https://edtechdev.github.io/aied/concepts/process-oriented-assessment/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Групова робота](https://edtechdev.github.io/aied/concepts/group-work/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Електронне портфоліо](https://edtechdev.github.io/aied/concepts/eportfolio/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Оцінювання однолітками](https://edtechdev.github.io/aied/concepts/peer-assessment/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Самооцінювання](https://edtechdev.github.io/aied/concepts/self-assessment/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Усне оцінювання](https://edtechdev.github.io/aied/concepts/oral-assessment/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Автоматизоване оцінювання](https://edtechdev.github.io/aied/concepts/automated-assessment/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Автоматизоване оцінювання есе](https://edtechdev.github.io/aied/concepts/automated-essay-scoring/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Автоматизована генерація питань](https://edtechdev.github.io/aied/concepts/automated-question-generation/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Валідність оцінювання](https://edtechdev.github.io/aied/concepts/assessment-validity/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Психометрично обізнаний ШІ](https://edtechdev.github.io/aied/concepts/psychometrically-aware-ai/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освітнє вимірювання](https://edtechdev.github.io/aied/concepts/educational-measurement/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Теорія відгуку завдань](https://edtechdev.github.io/aied/concepts/item-response-theory/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Засоби самооповідання](https://edtechdev.github.io/aied/concepts/self-report-measures/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Виявлення ШІ](https://edtechdev.github.io/aied/concepts/ai-detection/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Дистанційний прокторинг](https://edtechdev.github.io/aied/concepts/remote-proctoring/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Навчальні здобутки](https://edtechdev.github.io/aied/concepts/learning-gains/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Методи досліджень в AIED](https://edtechdev.github.io/aied/concepts/research-methods-aied/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освітні дослідження з підтримкою ШІ](https://edtechdev.github.io/aied/concepts/ai-assisted-educational-research/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Якісне дослідження](https://edtechdev.github.io/aied/concepts/qualitative-research/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Кількісне дослідження](https://edtechdev.github.io/aied/concepts/quantitative-research/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Дослідження змішаними методами](https://edtechdev.github.io/aied/concepts/mixed-methods-research/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Дизайн-орієнтоване дослідження](https://edtechdev.github.io/aied/concepts/design-based-research/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Дослідження юзабіліті](https://edtechdev.github.io/aied/concepts/usability-research/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Рандомізований контрольований експеримент (RCT)](https://edtechdev.github.io/aied/concepts/rct/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Метааналіз і систематичний огляд](https://edtechdev.github.io/aied/concepts/meta-analysis-systematic-review/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Аналіз латентних профілів](https://edtechdev.github.io/aied/concepts/latent-profile-analysis/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Мережевий аналіз](https://edtechdev.github.io/aied/concepts/network-analysis/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Оцінювання ШІ в освіті](https://edtechdev.github.io/aied/concepts/ai-ed-evaluation/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Бенчмарк](https://edtechdev.github.io/aied/concepts/benchmark/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Адміністратори](https://edtechdev.github.io/aied/concepts/administrator/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Розробники освітніх технологій](https://edtechdev.github.io/aied/concepts/educational-technology-developers/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Здобувачі](https://edtechdev.github.io/aied/concepts/learners/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Бібліотекарі](https://edtechdev.github.io/aied/concepts/librarians/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Батьки та родини](https://edtechdev.github.io/aied/concepts/parents-and-families/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Зацікавлені сторони](https://edtechdev.github.io/aied/concepts/stakeholders/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Політика щодо ШІ в освіті](https://edtechdev.github.io/aied/concepts/educational-policy-ai/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Урядування ШІ](https://edtechdev.github.io/aied/concepts/governance/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Управління змінами](https://edtechdev.github.io/aied/concepts/change-management/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Регулювання ШІ в освіті](https://edtechdev.github.io/aied/concepts/regulation/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Справедливість](https://edtechdev.github.io/aied/concepts/equity-in-ai-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Диференційовані ефекти в різних групах здобувачів](https://edtechdev.github.io/aied/concepts/differential-effects-across-learner-groups/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Цифровий розрив](https://edtechdev.github.io/aied/concepts/digital-divide/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Пом’якшення упередженості](https://edtechdev.github.io/aied/concepts/bias-mitigation/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Культурно дорельна педагогіка](https://edtechdev.github.io/aied/concepts/culturally-relevant-pedagogy/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Багатомовне навчання](https://edtechdev.github.io/aied/concepts/multilingual-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Інклюзивне навчання](https://edtechdev.github.io/aied/concepts/inclusive-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Доступність](https://edtechdev.github.io/aied/concepts/accessibility/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Асистивні технології](https://edtechdev.github.io/aied/concepts/assistive-technology/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Нейрорізноманіття](https://edtechdev.github.io/aied/concepts/neurodiversity/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Універсальне проєктування навчання](https://edtechdev.github.io/aied/concepts/universal-design-for-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Глобальний Південь](https://edtechdev.github.io/aied/concepts/global-south/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Етика](https://edtechdev.github.io/aied/concepts/ethics/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Неправильне використання ШІ та шкода для навчання](https://edtechdev.github.io/aied/concepts/ai-misuse-learning-harm/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Правові питання та ризики](https://edtechdev.github.io/aied/concepts/legal-issues-and-risks/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Заяви про використання ШІ та розкриття інформації](https://edtechdev.github.io/aied/concepts/ai-use-disclosure/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Ґардрейли (обмежувачі)](https://edtechdev.github.io/aied/concepts/guardrails/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Приватність](https://edtechdev.github.io/aied/concepts/privacy/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Небезпека галюцинацій](https://edtechdev.github.io/aied/concepts/hallucination-risk/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Сикофантія ШІ](https://edtechdev.github.io/aied/concepts/ai-sycophancy/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Довіра](https://edtechdev.github.io/aied/concepts/trust/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Калібрування довіри](https://edtechdev.github.io/aied/concepts/trust-calibration/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Пояснюваний ШІ](https://edtechdev.github.io/aied/concepts/explainable-ai/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Сталий розвиток](https://edtechdev.github.io/aied/concepts/sustainability/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Педагогічна безпека](https://edtechdev.github.io/aied/concepts/pedagogical-safety/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+
+## FAQs
+
+- [Як можна подолати поширені хибні уявлення щодо ШІ в освіті?](https://edtechdev.github.io/aied/faqs/addressing-common-misconceptions-ai-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як ШІ-агенти можуть підтримувати студентів і викладачів?](https://edtechdev.github.io/aied/faqs/ai-agents-support-students-instructors/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як ШІ впливає на тривожність і благополуччя студентів, і що ми можемо зробити?](https://edtechdev.github.io/aied/faqs/ai-anxiety-wellbeing/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як ШІ може підтримувати здобувачів з інвалідністю та нейровідмінністю в моєму курсі?](https://edtechdev.github.io/aied/faqs/ai-disabled-neurodivergent-learners/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як ШІ може допомогти давати кращий зворотний зв’язок у масштабі?](https://edtechdev.github.io/aied/faqs/ai-feedback-at-scale/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як батькам і викладачам варто підходити до ШІ з дітьми молодше 13 років?](https://edtechdev.github.io/aied/faqs/ai-guidance-children-under-13/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Які є докази щодо інтервенцій у сфері ШІ-грамотності у вищій освіті?](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як ШІ може заощадити мені час як викладачу?](https://edtechdev.github.io/aied/faqs/ai-save-instructor-time/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як проєктувати та супроводжувати асинхронні онлайн-курси, коли роботу може виконати ШІ?](https://edtechdev.github.io/aied/faqs/asynchronous-online-courses-ai/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як дізнатись, що освітній ШІ працює правильно, а не просто набирає високі бали?](https://edtechdev.github.io/aied/faqs/checking-whether-educational-ai-works/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як написати політику курсу щодо ШІ та донести її до студентів?](https://edtechdev.github.io/aied/faqs/course-ai-policy/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як ШІ слід проєктувати в навчальний досвід?](https://edtechdev.github.io/aied/faqs/designing-ai-into-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Які є найкращі практики та поради щодо проєктування ефективного освітнього програмного забезпечення на базі ШІ?](https://edtechdev.github.io/aied/faqs/designing-educational-ai-software/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Які найкращі практики розробки ефективного ШІ-тьютора?](https://edtechdev.github.io/aied/faqs/developing-ai-tutor/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Чи справді використання ШІ допомагає моїм студентам навчатися?](https://edtechdev.github.io/aied/faqs/does-ai-help-students-learn/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як дослідження зі ШІ в освіті мають інтегрувати справедливість, доступність, приватність, етику та педагогічну безпеку?](https://edtechdev.github.io/aied/faqs/equity-ethics-pedagogical-safety-research/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Які міри та методи дослідження може використовувати викладач для оцінювання втручань, пов’язаних зі ШІ?](https://edtechdev.github.io/aied/faqs/evaluating-ai-interventions-methods/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Яких компетентностей потребують викладачі щодо ШІ?](https://edtechdev.github.io/aied/faqs/faculty-ai-competencies/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як спроєктувати професійний розвиток викладацького складу з питань ШІ, який справді змінює практику?](https://edtechdev.github.io/aied/faqs/faculty-development-ai/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як бути зі ШІ в групових і колаборативних завданнях?](https://edtechdev.github.io/aied/faqs/group-work-ai/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як ШІ впливає на студентів?](https://edtechdev.github.io/aied/faqs/how-ai-impacts-students/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як ШІ може допомагати в освітніх дослідженнях?](https://edtechdev.github.io/aied/faqs/how-can-ai-assist-with-educational-research/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як інтегрувати ШІ-грамотність у свій курс?](https://edtechdev.github.io/aied/faqs/incorporating-ai-literacy/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як писати та впроваджувати інституційну політику щодо ШІ?](https://edtechdev.github.io/aied/faqs/institutional-ai-policy/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як зробити ШІ кращим у підтримці навчання у власній предметній галузі?](https://edtechdev.github.io/aied/faqs/making-ai-better-at-supporting-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як змусити симульованого студента поводитися як справжній здобувач?](https://edtechdev.github.io/aied/faqs/making-simulated-students-behave-like-learners/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як перепроєктувати оцінювання, щоб оцінка все ще щось обґрунтовано говорила про те, що студент знає або вміє?](https://edtechdev.github.io/aied/faqs/redesign-assessment-ai-era/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як я можу зменшити списування за допомогою ШІ на своєму курсі?](https://edtechdev.github.io/aied/faqs/reduce-ai-cheating/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як уникнути надмірної залежності студентів від ШІ?](https://edtechdev.github.io/aied/faqs/reducing-over-reliance/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Які найкращі практики звітування та інтерпретації досліджень ШІ в освіті?](https://edtechdev.github.io/aied/faqs/reporting-interpreting-aied-research/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Які помітні прогалини є в дослідницькій літературі зі ШІ в освіті?](https://edtechdev.github.io/aied/faqs/research-gaps-aied/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Чи варто використовувати детектори ШІ?](https://edtechdev.github.io/aied/faqs/should-we-use-ai-detectors/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як я маю використовувати ШІ для ефективного навчання та засвоєння матеріалу?](https://edtechdev.github.io/aied/faqs/study-with-ai/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Які 10 найголовніших висновків із досліджень зі ШІ в освіті, про які мають знати викладачі?](https://edtechdev.github.io/aied/faqs/top-10-findings-ai-education-instructors/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як нам навчити тьютора на базі ШІ скеровувати студентів, а не відповідати замість них?](https://edtechdev.github.io/aied/faqs/training-ai-tutors-to-guide-rather-than-answer/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Як навчити студентів перевіряти результати ШІ?](https://edtechdev.github.io/aied/faqs/verify-ai-output/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Які найкращі практики навчання письму в контексті ШІ?](https://edtechdev.github.io/aied/faqs/writing-instruction-ai-best-practices/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+
+## Articles
+
