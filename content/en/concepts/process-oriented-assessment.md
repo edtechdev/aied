@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-10-05T11:00:00-04:00"
+updated: "2026-10-14T11:15:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -33,7 +33,7 @@ Assessment in [[higher-ed|higher education]] has long inferred the thinking from
 
 It helps to say what the concept is not. It is not [[authentic-assessment|authentic assessment]], which asks whether a task mirrors worthwhile real-world practice; Thapa and Lewis keep the axes separate and insist that an authentic task with a single unsupervised product is still exposed. It is not [[ai-detection|AI detection]], which asks whether the tool was used rather than how a decision was made. And it is not [[automated-assessment|automated assessment]], which concerns who or what does the marking: a machine-graded staged [[eportfolio|portfolio]] can be process-oriented, and a human-graded final essay need not be. The concept concerns which evidence is collected, over what period, and under what conditions it is produced.
 
-The idea has moved from a proposition to a recurring recommendation across the knowledge base. It appears as a named priority in [[ai-education|AIED]]'s agenda for learner [[agency|agency]] and [[motivation]], as the organizing research agenda for the [[transfer-of-learning|retention and transfer]] problem in [[genai-performance-vs-learning|performance-versus-learning]] research, as "Black Box Assessment" in Brunnström and Palmqvist's account of [[self-regulated-learning|self-regulated learning]] with AI, and as a request from practicing teacher educators who found their take-home written work could no longer evidence learning at all.
+The idea has moved from a proposition to a recurring recommendation across the knowledge base. It appears as a named priority in [[ai-education|AIED]]'s agenda for learner [[agency]] and [[motivation]], as the organizing research agenda for the [[transfer-of-learning|retention and transfer]] problem in [[genai-performance-vs-learning|performance-versus-learning]] research, as "Black Box Assessment" in Brunnström and Palmqvist's account of [[self-regulated-learning|self-regulated learning]] with AI, and as a request from practicing teacher educators who found their take-home written work could no longer evidence learning at all.
 
 ## What process evidence looks like in practice
 
@@ -43,6 +43,8 @@ The most explicit design vocabulary comes from Thapa and Lewis, whose four commi
 The channel chosen for process evidence changes what can be evidenced: in the same 79-student generative-AI study, higher-depth monitoring and planning were more common in think-aloud units while higher-depth regulation was more common in interaction logs, so no single record captures the whole process ([[metacognitive-processes-genai-interaction-logs-2026|Li and Liu (2026)]]). Traces can also diverge from scores outright: across 150 student–AI conversations, 41% carried an assignment score of exactly 1.00 while observable cognitive participation varied, so matched scores can conceal different processes ([[epistemic-ownership-ai-mediated-education-2026|Fábrega, 2026]]). DraftTrace answers the same problem for AI-integrated writing by aligning keystroke-level process measures with the final product and with AI-interaction traces, showing that copy-typing is identifiable only when product and process are read together ([[drafttrace-ai-writing-analytics-2026|Chandarana et al. (2026)]]), a concrete instance of the behavioral-trace measurement the field still lacks.
 
 Practitioner and framework accounts fill in the artifacts. Uden and Hwang's (2026) LEARN framework, aimed at [[problem-based-learning|problem-based learning]] [[assessment]], asks for process-focused rubrics, oral justifications, staged submissions, and reasoning traces with [[ai-use-disclosure|AI-use disclosure]], and treats reflection through learning journals and think-aloud protocols as the [[metacognition|metacognitive]] engine of the sequence. Moganadas and colleagues (2026) make AI-transparent, process-oriented assessment one of five researchable propositions, requiring documentation, verification, and reflective justification rather than prohibition or detector use. Padhy (2026) recommends capturing revision history, interaction patterns, and time-on-task, paired with transparent disclosure. Goldstein, Marae-Haj and Zidan (2026) report the same artifacts emerging from practice after a [[trust]] crisis: prompting records, document version history, monitored group contributions, and reflective "journey journals" kept in physical notebooks — alongside the plain finding that take-home written work could no longer evidence learning.
+
+Concrete tooling is emerging: [[stepwise-teacher-diagnosis-math-2026|Kim et al. (2026)]] operationalize problem solving as four stages and eight diagnostic sub-skills so an LLM can generate stage-specific questions and rubrics; five teachers and 64 students used the system on 90 problems and 720 sub-questions, with a mean System Usability Scale score of 83.5.
 
 ## A different axis from authenticity, and from marking
 
@@ -96,3 +98,4 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Channel-conditional process evidence: logs and think-aloud reveal different processes
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: A Multi-View Analytics Environment for AI-Integrated Writing
 - [[epistemic-ownership-ai-mediated-education-2026]] — Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education
+- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Supporting Teachers in Diagnosing Students' Mathematical Problem-Solving Skills through LLM-Generated Questions

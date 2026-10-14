@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-12T09:45:00-04:00"
+updated: "2026-10-14T11:15:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -85,6 +85,8 @@ The ITS field has produced landmark systems (Cognitive Tutors, Andes, AutoTutor)
 For instructors deploying AI tutors and developers building them, the knowledge base's findings translate into concrete practice:
 
 **Evaluate tutors on whether they teach, not just solve.** A model that tops a solving leaderboard is not necessarily a good tutor — task-solving ability and learning-supportive behavior correlate only partially (r ≈ 0.42), and several models shift rank when scored on pedagogy. Report and scrutinize **solving and pedagogy scores separately**, and prioritize tutors that score on guiding questions, calibrated hints, and non-disclosive scaffolding over those that produce fast answers.([[measuring-llm-tutors-teach-vs-solve]])([[ai-tutoring-quality-k12-methodologies-2026]])
+
+- **Pedagogical quality is a floor, not proof of learning.** A structured audit of 88 LLM-tutoring studies coding the field as a five-stage loop — learner-state inference, pedagogical action, tutor training, evaluation, student simulation — finds pedagogical evaluation widespread (77/88) but human learning gains in only 10 studies and transfer or delayed retention in one ([[llm-tutors-process-synthesis-2026|Adak et al. (2026)]]).
 
 - **A large multi-discipline randomized trial found adverse effects from a well-grounded tutor.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] randomized 2,379 undergraduates and 30 instructors across 13 blocks and 11 of one U.S. public university's 12 schools to access to a GPT-4o tutor with retrieval over each instructor's own course materials, embedded in the LMS with citations to slides and lecture-video timestamps. In the exact-match sample — sections of the same course — access reduced final grades by 4.12 points (0.37 SDs) and GPA-scale letter grades by 0.13 SDs, while the full sample showed no significant achievement effect; engagement fell in both samples (recorded participations −0.90 SDs, active days −0.51 to −0.61 SDs). Only about 15% of treated students used the tool and users averaged roughly four sessions, yet classroom-level behavioral differences were large, and 73.8% of 3,460 classified requests were direct-answer requests rather than practice or feedback on the student's own attempt. The authors read it as a technical-versus-instructional integration gap: no treatment-group instructor reported integrating the tool into assignments and most left it in the default direct-instruction mode, so course grounding and convenient access did not produce productive use.
 
@@ -201,3 +203,4 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[lyu-data-driven-redesign-tutoring-2026]] — Evaluating a data-driven redesign process for intelligent tutoring systems: more productive time-on-task and skills practiced, but no learning-gain difference when practice dose is thin (Lyu et al. 2026)
 - [[regulatutor-long-term-personalized-tutoring-2026]] — RegulaTutor: A Theory-Informed Framework for Long-Term Personalized Learning (Li et al. 2026)
 - [[alam-goblins-math-platform-2026]] — Full-district teacher-mediated AI math rollout: ~51% engagement fidelity and a dose gradient from 0.11 SD (2 problems/week) to 0.31 SD (20+/week); larger exploratory associations for IEP, EL, and Hispanic students
+- [[llm-tutors-process-synthesis-2026]] — Do LLM Tutors Actually Teach? A Process-Centered Synthesis of the Tutoring Loop

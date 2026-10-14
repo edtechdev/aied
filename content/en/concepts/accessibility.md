@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack]
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-10-13T11:30:00-04:00"
+updated: "2026-10-14T11:15:00-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -36,6 +36,8 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 **Format accessibility: captions, transcripts, and text.** **[[adhd-video-segmentation-computing-education|AI-segmented instructional videos]]** with fixed pauses eliminated the performance gap between ADHD and non-ADHD learners — accessibility as a catalyst that benefits everyone. **[[text-simplification-its|MuTSE]]** evaluates [[llm]]-based [[intelligent-tutoring|text simplification]] to match content complexity to each learner's reading level, a [[human-in-the-loop-ai|human-in-the-loop]] accessibility layer. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** build LLM [[automated-question-generation|question generation]] for Deaf and Hard of Hearing learners, confronting the mismatch between text-based AI prompts and sign-based first languages.
 
 **Sensory access: non-visual and tactile output.** **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** makes spoken conversation the primary modality for visually impaired children, removing visual dependency. **[[tactile-statistical-graphs-accessibility|Tactile 3D-printed graphs]]** turn visual statistical data into touchable output for blind and low-vision students. **[[pepper-robot-sign-language-lis-2025|Sign-language robots]]** extend [[educational-robotics]] into communicative accessibility for Deaf learners.
+
+**Audio description written for film does not transfer to lecture recordings.** Slide-based lectures reference diagrams, equations, and pointing gestures, and their pauses run a median of only 0.5 s, so [[ad4edu-lecture-audio-description-2026|Psychias & Gao (2026)]] built a lecture-specific benchmark and rule-diagnosable metric; post-training on machine-judge-ordered pairs did not improve compliance evenly.
 
 **[[generative-ai|Generative AI]] for visually impaired learners.** **[[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]]** — a [[qualitative-research|qualitative]] case study of 21 visually impaired [[higher-ed|undergraduates]] across three Palestinian universities — found GenAI tailors pace, content, and delivery to individual learning profiles and simplifies complex academic texts while converting content across modalities (text, audio, visual), making materials usable that were previously inaccessible. Learners framed immediacy as a foundational accessibility requirement rather than a convenience, and six interdependent technological attributes — interactivity, user-friendliness, affordability, multimodality, integration, and scalability — determined whether GenAI was genuinely accessible in a [[global-south|low-resource context]], with [[usability-research|usability]], affordability, and accessibility mutually reinforcing rather than separate design considerations.
 
@@ -93,3 +95,4 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
 - [[wright-transcription-not-generation-2026]] — Transcription is not generation: over-inclusive AI prohibitions and the assistive tools they capture
+- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: Benchmarking University Lecture Audio Description across Accessibility Standards, Metrics, and Learner Preferences

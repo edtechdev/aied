@@ -5166,3 +5166,263 @@
   - global-south
   reason: 'Integrated the AIII comparative findings into higher-ed (the Institutional transformation section carried Lingnan, EPIQ-AI, AlSheikh SAMR and Sun''s legitimacy work but no global comparative index or prestige-independence finding; grep ''institutionaliz'' -> 0, ''Institutionalization Index'' -> 0) and the 0%-policy/93%-services accessibility gap into accessibility (the page carried Shin''s US policy void and Wright''s over-inclusive-prohibition work but no measured institutional deployment-vs-policy gap). Declined pairs with evidence: educational-policy-ai already carries rich institutional-policy coding (Qian 50 universities, Adarkwah 26 universities/UNESCO, Ashiq UK sectoral, Watson/Rainie faculty survey, Chirikov syllabi) and the AIII adds a measurement layer the page''s narrative does not need; ai-literacy carries AI-literacy frameworks and the 13% general-education outcome via Watson/Rainie already; curriculum-design carries curricular design patterns but the 5% undergrad
     requirement is an adoption statistic not a design finding; equity-in-ai-education carries the learner-level digital/resource divide (Kumar''s skill-vs-resource gap) but the page''s equity frame is learner-facing, and the institutional regional gradient is carried on higher-ed; teacher-education has no faculty-development angle in this paper (the upskilling indicator is one of 20); governance/institutional-change-framework-ai are referenced via higher-ed''s connections; special-education and global-south no angle.'
+- article: ad4edu-lecture-audio-description-2026
+  date: '2026-10-14'
+  integrated:
+  - accessibility
+  no_change:
+  - speech-and-voice-technologies
+  - multimodal
+  - higher-ed
+  - benchmark
+  - inclusive-learning
+  - prompt-engineering
+  - llm
+  - pedagogy
+  - llm-training-and-fine-tuning
+  - educational-technology-developers
+  reason: 'Integrated the lecture-AD finding into accessibility (grep ''audio description'' -> 0, ''lecture''
+    -> 0; the page carried WCAG and blind/low-vision material but no audio description). Declined with
+    evidence: multimodal carries no audio-description or accessibility content (grep ''audio description''
+    -> 0, ''blind'' -> 0); speech-and-voice-technologies already covers speech processing and synthesis
+    (grep ''blind'' -> 2) and the lecture-AD pipeline is a benchmark, not a speech-technology claim; benchmark
+    is the evaluation pattern rather than a finding; the remaining pairs (llm, llm-training-and-fine-tuning,
+    pedagogy, prompt-engineering, higher-ed, inclusive-learning, educational-technology-developers) are
+    task, tool or audience references the pages do not lack.'
+- article: bloom-taxonomy-llm-item-classification-2026
+  date: '2026-10-14'
+  integrated:
+  - educational-measurement
+  no_change:
+  - llm
+  - automated-assessment
+  - math-education
+  - assessment
+  - benchmark
+  - human-in-the-loop-ai
+  - item-response-theory
+  reason: 'Integrated the label-does-not-predict-behaviour result into educational-measurement (grep ''Bloom''
+    -> 2 unrelated studies, ''item difficulty'' -> 1 about LLM difficulty prediction at line 31; the empirical
+    refutation at scale was absent). Declined: item-response-theory already carries item difficulty and
+    discrimination as constructs (grep ''item difficulty'' -> 5, ''discrimination'' -> 8); automated-assessment
+    already carries Bloom-classifier material (grep ''classification'' -> 1, ''discrimination'' -> 2);
+    math-education is the discipline home; llm, benchmark, assessment and human-in-the-loop-ai are method
+    or evaluation-pattern references.'
+- article: ecd-prompts-automated-essay-scoring-2026
+  date: '2026-10-14'
+  integrated:
+  - prompt-engineering
+  no_change:
+  - llm
+  - automated-essay-scoring
+  - assessment-validity
+  - psychometrically-aware-ai
+  - quantitative-research
+  - generative-ai
+  - equity-in-ai-education
+  - design-thinking
+  - teacher-role
+  - ai-literacy
+  - automated-assessment
+  - benchmark
+  reason: 'Integrated the ECD-as-prompt-design framing into prompt-engineering (grep ''Evidence-Centered
+    Design'' -> 0, ''construct-irrelevant'' -> 0 against 10 hits for ''prompt engineering''). Declined:
+    assessment-validity already carries construct-irrelevant variance and the validity argument for AI
+    scoring (grep ''construct-irrelevant'' -> 8); automated-essay-scoring already covers LLM scoring of
+    essays and its psychometrics (grep ''psychometric'' -> 3); psychometrically-aware-ai already discusses
+    the psychometric framing (grep ''psychometric'' -> 16); the rest are task, tool or audience references.'
+- article: genai-english-proficiency-validity-2026
+  date: '2026-10-14'
+  integrated:
+  - assessment-validity
+  no_change:
+  - generative-ai
+  - assessment
+  - multilingual-learning
+  - learning-gains
+  - remote-proctoring
+  - higher-ed
+  - ai-literacy
+  - qualitative-research
+  reason: 'Integrated the moved-target extrapolation argument into assessment-validity (grep ''TOEFL''
+    -> 0, ''IELTS'' -> 0, ''proficiency'' -> 1 unrelated line; the page carried extrapolation only for
+    agentic completion and workshop conclusions). Declined: remote-proctoring carries the proctoring practice
+    (grep ''proficiency'' -> 2, ''validity'' -> 3) and the commentary adds no proctoring finding; multilingual-learning
+    is 830 words and carries low-resource-language material rather than language-test validity; the other
+    pairs are construct, measure or audience references.'
+- article: in-the-loop-educational-ai-learning-sciences-2026
+  date: '2026-10-14'
+  integrated:
+  - human-in-the-loop-ai
+  no_change:
+  - learning-analytics
+  - theories-and-frameworks
+  - pedagogy
+  - learning-sciences
+  - agency
+  - assessment
+  - cognitive-offloading
+  - misconceptions
+  - teacher-role
+  - visualization
+  - feedback
+  - embodied-learning
+  - productive-failure
+  - generative-ai
+  - learning-design
+  - equity-in-ai-education
+  - higher-ed
+  - meta-analysis-systematic-review
+  reason: 'Integrated the actionable-loop critique into human-in-the-loop-ai (grep ''actionable'' -> 0,
+    ''trajectory'' -> 0, ''determinism'' -> 0 against 19 hits for ''in-the-loop''). Declined: learning-analytics
+    already carries the data-capture-and-inference critique (grep ''actionable'' -> 2, ''in-the-loop''
+    -> 1); theories-and-frameworks, agency, cognitive-offloading, productive-failure, embodied-learning,
+    misconceptions and visualization are engaged as illustrations rather than contributions the pages
+    lack; assessment, feedback, pedagogy and teacher-role are referenced in the argument rather than extended
+    by it.'
+- article: kazakh-ai-text-detectors-2026
+  date: '2026-10-14'
+  integrated:
+  - ai-detection
+  no_change:
+  - llm
+  - multilingual-learning
+  - equity-in-ai-education
+  - benchmark
+  - generative-ai
+  - academic-integrity
+  - assessment
+  - assessment-validity
+  - open-source
+  reason: 'Integrated the false-positive magnitude for a low-resource language into ai-detection (grep
+    ''Kazakh'' -> 0, ''low-resource'' -> 0 against 39 ''detector'' hits). Declined: multilingual-learning
+    carries low-resource language material (grep ''low-resource'' -> 8) but has no detection angle; academic-integrity
+    already carries detector false-positive material (grep ''detector'' -> 11, ''false positive'' -> 1);
+    the rest are tool, corpus or measure references.'
+- article: knowledge-tracing-compression-math-2026
+  date: '2026-10-14'
+  integrated:
+  - knowledge-tracing
+  no_change:
+  - prior-knowledge
+  - student-modeling
+  - quantitative-research
+  - benchmark
+  - math-education
+  - item-response-theory
+  - adaptive-learning
+  - generative-ai
+  reason: 'Integrated the compression finding into knowledge-tracing (grep ''recency'' -> 0, ''compression''
+    -> 0, ''scalar'' -> 0 against 14 hits for ''knowledge tracing''). Declined: student-modeling already
+    covers learner-state representations (grep ''knowledge tracing'' -> 5, ''AUC'' -> 2) and the compression
+    result belongs with the tracing model rather than the modelling substrate; prior-knowledge and adaptive-learning
+    are construct and target references; the rest are method or tool references.'
+- article: llm-tutors-process-synthesis-2026
+  date: '2026-10-14'
+  integrated:
+  - intelligent-tutoring
+  no_change:
+  - scaffolding
+  - llm
+  - feedback
+  - pedagogy
+  - simulation
+  - student-engagement
+  - knowledge-tracing
+  - simulating-students
+  - student-modeling
+  - human-in-the-loop-ai
+  - learning-gains
+  - benchmark
+  - socratic-method
+  - reinforcement-learning
+  - learners
+  - assessment
+  - meta-analysis-systematic-review
+  reason: 'Integrated the five-stage tutoring-loop audit into intelligent-tutoring (grep ''tutoring loop''
+    -> 0, ''learner-state'' -> 0 against 5 ''simulat'' hits). Declined: simulating-students is saturated
+    with simulator material (grep ''simulat'' -> 98) and the audit reports that stage rather than changing
+    it; scaffolding, feedback, student-modeling, knowledge-tracing and socratic-method already carry the
+    tutoring constructs the loop composes; the rest are stage, measure or audience references.'
+- article: machine-human-marking-agreement-institutions-2026
+  date: '2026-10-14'
+  integrated:
+  - automated-assessment
+  no_change:
+  - llm
+  - assessment-validity
+  - higher-ed
+  - assessment
+  - benchmark
+  - automated-essay-scoring
+  - bias-mitigation
+  - equity-in-ai-education
+  reason: 'Integrated the shared-error/ensembling result into automated-assessment (grep ''ensembl'' ->
+    0, ''central tendency'' -> 0 against 33 ''mark'' hits and one pre-existing compression mention at
+    line 105). Declined: automated-essay-scoring already carries LLM marking agreement and ensemble behaviour
+    (grep ''QWK'' -> 4, ''ensembl'' -> 1); assessment-validity and bias-mitigation carry the validation
+    and fairness frames; the rest are method, setting or audience references.'
+- article: nlp-reading-lists-dental-education-2026
+  date: '2026-10-14'
+  integrated:
+  - educational-nlp
+  no_change:
+  - curriculum-design
+  - evaluative-judgment
+  - assessment
+  - medical-education
+  - higher-ed
+  - learning-gains
+  - human-in-the-loop-ai
+  - llm-training-and-fine-tuning
+  reason: 'Integrated the similarity-is-a-weak-signal result into educational-nlp (grep ''reading list''
+    -> 0, ''learning objective'' -> 0, ''topic model'' -> 0, ''entail'' -> 0). Declined: medical-education
+    is the discipline setting (grep ''dental'' -> 3) and the workflow is a curation tool rather than a
+    finding about dental teaching; curriculum-design already carries alignment and coverage design (grep
+    ''learning objective'' -> 2); the rest are method or audience references.'
+- article: socraticrepair-program-debugging-2026
+  date: '2026-10-14'
+  integrated:
+  - cs-education
+  no_change:
+  - socratic-method
+  - scaffolding
+  - misconceptions
+  - intelligent-tutoring
+  - llm-training-and-fine-tuning
+  - conversational-ai
+  - pedagogy
+  - higher-ed
+  - feedback
+  - pedagogical-agent
+  - agentic-ai
+  - llm
+  reason: 'Integrated the small-fine-tuned-tutor result into cs-education (grep ''Qwen'' -> 0, ''7B''
+    -> 0, ''GPT-4o'' -> 0 in the page body). Declined: socratic-method is saturated with Socratic tutoring
+    material (grep ''Socratic'' -> 54) and the contribution is the fine-tuning result rather than the
+    method; misconceptions (grep ''misconception'' -> 55) and llm-training-and-fine-tuning (grep ''fine-tun''
+    -> 48) already carry the construct and the technique; the rest are method, tool or audience references.'
+- article: stepwise-teacher-diagnosis-math-2026
+  date: '2026-10-14'
+  integrated:
+  - process-oriented-assessment
+  no_change:
+  - scaffolding
+  - llm
+  - automated-question-generation
+  - math-education
+  - problem-solving
+  - assessment-validity
+  - teacher-role
+  - misconceptions
+  - intelligent-tutoring
+  - rag
+  - usability-research
+  - metacognition
+  - k-12
+  - curriculum-design
+  reason: 'Integrated the stage-based diagnosis finding into process-oriented-assessment (grep ''process-level''
+    -> 0, ''diagnos'' -> 0). Declined: automated-question-generation already carries LLM question generation
+    (grep ''diagnos'' -> 3, ''stage'' -> 2); math-education is the discipline home and already carries
+    diagnosis material (grep ''diagnos'' -> 17); intelligent-tutoring carries the tutoring framing (grep
+    ''diagnos'' -> 18); the rest are method, tool or audience references.'

@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-02T08:08:45-04:00"
+updated: "2026-10-14T11:15:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -65,6 +65,7 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 - **Role-based templates and quality rubrics for teacher planning.** [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir (2025)]] empirically develop a prompt framework for children's STEAM arts [[curriculum-design|lesson planning]] that pairs a Role (R) – Instructions (I) – End Goal (E) template (adapted from RISEN) with a "four points and one line" optimization rubric — standardized, practical, engaging, and complete, plus an extension dimension. Applying the rubric to critique and refine prompts kept generated plans acceptable to practicing art teachers (mean ratings above 4/5) while exposing recurring gaps ([[personalized-learning|personalization]], [[pedagogical-safety|child-safety]] constraints, cultural bias) that plain one-shot prompting left unaddressed — showing prompt templates plus explicit evaluation criteria function as a quality-control scaffold for classroom generation.
 
 - **Role and constraint design as the independent variable.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] compare two agents built on the same model and platform at temperature 0.3 whose only difference is how the prompt specifies role, skills, and constraints: an expert teacher agent answering from a bounded textbook knowledge source versus an empathic student-centered agent scripted to diagnose [[misconceptions]] and check comprehension. The role difference alone shifted learning performance, cognitive load, flow experience, and perceived empathy, showing that role specification is an instructional-design decision with measurable effects rather than a stylistic flourish ([[pedagogical-agent]]).
+- **Prompting as assessment design.** [[ecd-prompts-automated-essay-scoring-2026|Xiong et al. (2026)]] map Evidence-Centered Design's student, evidence, and task models onto the parts of a scoring prompt, deriving five principles — intentionality, traceability, accountability, iteration, and equity; their ECD-built prompts scored narrative essays more accurately than zero-shot, few-shot, and chain-of-thought baselines.
 ### Connections to broader concepts
 
 Prompt engineering connects to [[scaffolding]] — well-designed prompts can scaffold student thinking rather than bypass it. It intersects with [[metacognition]] and [[ai-literacy]], as effective prompting requires understanding both the AI's capabilities and one's own learning goals. The [[cognitive-offloading]] research directly links prompt quality to whether AI use supports or undermines learning.
@@ -120,3 +121,4 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
 
 - [[middle-school-genai-steam-interactions-2026]] — Middle-school STEAM groups copied the instructor's instruction verbatim in 47.1% of prompts
+- [[ecd-prompts-automated-essay-scoring-2026]] — Using Evidence-Centered Design to Guide Prompt Engineering in Measurement: An Illustration with Automated Essay Scoring
