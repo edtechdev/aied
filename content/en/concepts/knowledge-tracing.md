@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-10-09T09:50:00-04:00"
+updated: "2026-10-14T11:15:00-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -36,6 +36,7 @@ Knowledge tracing transforms raw exercise responses into estimates of what a stu
 - **Semantic, recommendation-oriented KT:** [[exrec-exercise-recommendation-knowledge-tracing-2025|ExRec (Ozyurt, Almaci, Feuerriegel and Sachan, 2025)]] grounds the *input* rather than the architecture: an LLM annotates each question with solution steps and knowledge concepts aligned to the Common Core State Standards for Mathematics, contrastive learning aligns question, solution-step and concept embeddings (with false negatives removed by pre-clustering concept variants such as "interpreting a bar chart" and "reading information from a bar graph"), and a KC-calibration loss lets the tracer predict a concept-level knowledge state directly instead of inferring one by running the model over every question in that concept. The calibrated tracer then serves as the reinforcement-learning environment for exercise recommendation, where a model-based value estimation initialises the critic from the tracer itself. Across four tasks on XES3G5M averaged over 2,048 test students, non-RL baselines gave marginal or negative knowledge gains, value-based continuous methods beat policy-based ones, and the model-based value estimate improved them consistently — most sharply on the weakest-concept task, where the target changes at every step. Reported gains are percentage-of-maximum knowledge improvement, not learning outcomes, and the pipeline depends on generated solution steps whose quality the tracer inherits.
 - **Outcome-based knowledge tracing (OKT):** [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] trace student knowledge within Outcome-Based Education systems by treating **course outcomes as the knowledge concepts themselves**, and substitute expert-validated OBE "affinity mappings" between course and program outcomes for attention- or graph-derived concept relations. A Memory Augmented Neural Network (MANN) models how each outcome's attainment impacts others, and domain-adaptive BERT fine-tuning enriches the outcome embeddings (with a GRU backbone beating LSTM). On live [[engineering-education|engineering]]-program LMS data (2,416 students, 966 outcomes) OKT reached 89.81% AUC — outperforming DKT, DKVMN, EKT, and SimpleKT — while giving only competitive results on ASSISTments, confirming the advantage is tied to OBE-specific [[curriculum-design|curriculum]] structure.
 
+- **A single recency scalar captures most of what a sequence model buys.** On 1,927,265 mathematics responses from 8,996 Finnish students, item identity alone reached AUC .8362; adding one recency measure relative to item difficulty raised it to .8669, recovering 93.5% of a query-conditioned transformer's .8690 gain, while a 128-dimensional summary of history reached only .8687 ([[knowledge-tracing-compression-math-2026|Lahtinen & McMullen (2026)]]).
 - **Snapshot-only tracing.** [[skill-acquisition-without-temporal-info|Nagai et al. (2026)]] induce a pseudo-temporal order from inclusion relations among learners' skill sets, treating expanding skill sets as learning progression so single-time-point snapshots remain traceable — but the formulation assumes skills are never lost, so deployments for learners who regress need an explicit forgetting mechanism first.
 
 ### Relationship to other concepts
@@ -87,3 +88,4 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
 - [[crediting-assisted-work-inflates-mastery-2026]] — Which evidence rule decides a mastery claim (Srivastava 2026)
 - [[system-one-llm-knowledge-tracing-2026]] — A single-pass LLM traces knowledge above deep models trained on 8 learners, at a fraction of the cost (Lee & Park 2026)
+- [[knowledge-tracing-compression-math-2026]] — Compressing student history in mathematics knowledge tracing

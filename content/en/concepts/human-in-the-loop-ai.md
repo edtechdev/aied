@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-03T03:00:33-04:00"
+updated: "2026-10-14T11:15:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -65,6 +65,7 @@ Placement can matter more than presence: practitioners rated a Social Story auth
 Human-in-the-loop design has become central to the knowledge base's [[agentic-ai|agentic AI]] and [[reducing-ai-misuse|responsible AI use]] discussions for several converging reasons:
 - **Pedagogical safety.** [[pedagogical-safety]] requires that AI with real instructional authority retains human oversight, so errors, biases, or harmful outputs are caught before they reach learners. This is especially important for autonomous agents that [[agentic-ai|proactively pursue goals]].
 - **Oversight is rare in practice, not just in theory.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] found robust embedded governance and human-in-the-loop oversight were rarely exhibited across 474 educational agentic-AI systems, even as single-task autonomy and multi-agent collaboration grew — the gap between the design principle and deployed practice.
+- **The critical question is how the loop is made actionable, not how much humans participate.** A learning-sciences view argues that organizing learning around data capture, computational interpretation and probable response makes pedagogical action depend on what systems can detect and act upon, and that alerts and engagement classifications interpret the learner before any teacher or student acts ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
 - **Validity and quality control.** HITL is a quality gate for [[automated-assessment|automated assessment]] and generation — humans adjudicate where automated scoring is unreliable (see [[llms-do-not-grade-essays-like-humans-2026|LLM essay grading]] [[research-methods-aied|research]]) and validate generated items. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 grading and feedback studies (2023–2025) reaches the same conclusion explicitly: LLMs match human raters on short, well-structured tasks but cannot fully replace human judgment on complex, open-ended, or subjective work, and the highest grading effectiveness is achieved in hybrid systems that combine AI-driven grading with teacher oversight and verification ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] show concretely where that boundary falls: ChatGPT-5 matched faculty on objective pharmacy-exam items (CCC 0.935–1.000) but was unreliable on short-answer and essay items even when given a rubric, leading the authors to recommend hybrid grading with human review for complex, subjective, or high-stakes assessment.
  Repetition is not a substitute for that oversight: regrading identical submissions on five different days, the same model reproduced its own results at only Krippendorff's alpha 0.625, with variation concentrated in the middle grades and A and F absent from the five-session counts ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **Learner agency.** Keeping a human in the loop preserves [[agency]] and supports [[self-regulated-learning]], countering the [[cognitive-offloading|over-reliance]] that fully autonomous assistance can induce.
@@ -154,3 +155,4 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[llm-grading-assistants-public-health-2026]] — Identical LLM grading reruns on different days reproduce at only Krippendorff's alpha 0.625
 - [[when-students-prefer-ai-scoring-feedback-2026]] — Undergraduates prefer human scoring for high-stakes work and AI as an assistant, not a replacement
 - [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
+- [[in-the-loop-educational-ai-learning-sciences-2026]] — Rethinking "In-The-Loop" Approaches in Educational AI: A Learning Sciences Perspective

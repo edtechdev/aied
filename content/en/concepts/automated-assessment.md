@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-08T09:45:00-04:00"
+updated: "2026-10-14T11:15:00-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -104,6 +104,8 @@ How much alignment an institution should demand depends on what the system is al
 
 Three requirements follow for any of them. Because alignment is model- and institution-specific, validation must be local and continuous — headline accuracy from elsewhere is not evidence of readiness. Because marks were compressed toward the middle, AI was least accurate at the grade boundaries and for the strongest and weakest submissions, which is where assessment decisions carry the most consequence. And because disagreement between an AI and a human mark reflects different judgment rather than mere error, discrepancies should trigger human interpretation rather than algorithmic override, with final authority over the mark retained by people. Adoption also carries [[governance]] obligations the technical metrics do not capture: a right to explanation under GDPR Article 22 where automated decisions affect students, Equality Act duties once attainment level and language use are shown to influence marks, revised appeal processes for errors that are not easily caught, and an irreversibility risk — once staffing and investment shift, an institution may struggle to keep collecting the human marking it would need to return to.
 
+Combining the three models did not remove that error: because their mistakes were correlated — the same direction on 63.4% of assignments — the [[machine-human-marking-agreement-institutions-2026|Corsi et al. (2026)]] ensemble was statistically indistinguishable from the best single model, leaving the shared central-tendency compression in place.
+
 
 [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]] supplies the criteria those requirements presuppose, arguing that what makes automation defensible is the *epistemic status* of the task rather than what the technology can technically perform. His framework limits AI to bounded verification of factual and procedural claims — all four of unambiguous documented criteria, direct comparison against established knowledge, no assessment of alternative valid approaches, and a single correct answer or pre-specified acceptable set must hold simultaneously, with ambiguity escalating to a human by default — and makes AI involvement at that level conditional on five non-negotiable principles that must all hold at once: the knowledge base must be assessor-curated and retrieval-grounded in module materials rather than the model's parametric knowledge; human assessors review every AI output before it reaches students and hold absolute override with unshared accountability; feedback must carry clear provenance and attribution; and security must be designed against adversarial use from the start, with input sanitisation for instructions hidden in white or small text, encodings, images or document metadata, since successful circumvention of an automated system spreads through student cohorts. The same paper is explicit that its principles are untested for simultaneous feasibility and that assessor time for curation, security infrastructure and high-frequency oversight may shift staff effort rather than reduce it — a caution that sits alongside the local-validation requirement above.
 
@@ -195,3 +197,4 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[ai-marking-accuracy-gcse-physics-2026]] — AI marking compared with examination-board marks and teacher judgment in GCSE physics
 
 - [[llm-grading-assistants-public-health-2026]] — Reasoning mode lifted LLM-human grading agreement from weighted kappa 0.269 to 0.718
+- [[machine-human-marking-agreement-institutions-2026]] — Machine–human agreement in marking undergraduate assignments is specific to model, prompt and institution

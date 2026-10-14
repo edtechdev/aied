@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-06T02:05:50-04:00"
+updated: "2026-10-14T11:15:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -31,6 +31,7 @@ Educational measurement is the discipline of turning observations about learning
 - **AI-predicted difficulty and calibration:** [[llm-difficulty-calibration-programming-exams-2026|LLM difficulty calibration]] and [[llm-item-difficulty-prediction|item-difficulty prediction]] use LLMs to estimate item difficulty, which must be validated against psychometric estimates (see [[item-response-theory]]). [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] add a large-scale K-5 test of this premise: across 5,170 math and reading items calibrated under the Rasch IRT model, GPT-4o's zero-shot difficulty ratings correlated moderately-to-strongly with true difficulties (r = 0.83 math, r = 0.81 reading) but were uneven across grades and no better than a grade-mean dummy regressor for grades K and 1. A feature-based approach — LLM-extracted cognitive and linguistic features fed into tree-based models — reached correlations up to r = 0.87, with grade level and word count the top predictors. The study illustrates both the promise and the limits of AI-predicted difficulty as a measurement input, and offers a practical seven-step workflow for testing professionals.
 
 - **When generated difficulty labels do not measure difficulty.** A construct-validity audit of 311 deployed LLM-generated questions found the generated difficulty label correlated with its own co-generated Bloom level at ρ=0.90 but with empirical difficulty (the Classical Test Theory 1−p index) at only ρ=0.06, while option length ran backwards (ρ=−0.18) - a labels-as-surface-form result that bounds the optimistic readings of AI-predicted difficulty above ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
+- **A taxonomic label does not predict item behavior.** Across 265 mathematics items, intended Bloom level explained under 5% of the variance in difficulty (ε² = .043) and none of discrimination (Kruskal–Wallis H = 0.54, p = .77), while an [[llm|LLM]] classification agreed with expert coders only fairly (Cohen's κ = .22) and pulled items toward the apply/analyze band ([[bloom-taxonomy-llm-item-classification-2026|Altaweel & Moussa (2026)]]).
 - **Judge generated items on the solution path, not the wording.** Encoding each item's verified reasoning tree lifted performance over the second-best method by 7.5% in concept assessment, 6.3% in difficulty estimation and 19.5% in competency assessment, where a zero-shot baseline mislabelled a template-following item "Reasoning" and a geometric item "Knowing" ([[proiqa-math-item-quality-assessment-2026|Tong et al. (2026)]]).
 - **Psychometric awareness in AI [[assessment]]:** [[psychometrically-aware-ai|psychometrically aware AI]] is the standard that AI-based assessment be aligned with measurement theory — calibrated, uncertainty-aware, and validity-preserving (see [[automated-assessment|Confidence Aware AI Assessment]]).
 - **Mastery labels are constructed, not observed.** Where diagnosis needs ground truth, [[personalized-neural-cognitive-architecture-search-2026|Jia and Dong (2026)]] built it through a validity-control procedure — curriculum concept graphs, instructor-reviewed knowledge-point mappings and convergent assessment evidence — rather than converting behavioral traces directly, and their diagnoses matched educational psychologists at Cohen's kappa 0.78 against 0.65 for IRT.
@@ -179,3 +180,4 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 
 - [[ai-empathy-scale-psychometric-evaluation-2026]] — A 42-item AI empathy scale whose six factors did not recover the six intended subfactors
 - [[genai-srl-l2-writing-scale-2026]] — A six-dimension GenAI-SRL scale for L2 writing; ant-colony-optimized 12-item short form tracks the full scale (r = 0.910–0.944) but narrows content coverage
+- [[bloom-taxonomy-llm-item-classification-2026]] — Do Cognitive Classifications Predict Empirical Item Behaviour? Aligning Bloom's Taxonomy with the Psychometric Properties of National Centralized Mathematics Items across Grades 4–12
