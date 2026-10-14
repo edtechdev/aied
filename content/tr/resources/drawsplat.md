@@ -26,6 +26,7 @@ ai_assist:
 translation_of: resources/drawsplat
 source_updated: "2026-09-22T04:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+contributors: [editor]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
