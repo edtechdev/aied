@@ -5426,3 +5426,18 @@
     (grep ''diagnos'' -> 3, ''stage'' -> 2); math-education is the discipline home and already carries
     diagnosis material (grep ''diagnos'' -> 17); intelligent-tutoring carries the tutoring framing (grep
     ''diagnos'' -> 18); the rest are method, tool or audience references.'
+- article: browser-sized-agents-slm-webllm-tutor-2026
+  date: '2026-10-14'
+  integrated:
+  - cs-education
+  - llm
+  - privacy
+  - digital-divide
+  no_change:
+  - knowledge-tracing
+  - intelligent-tutoring
+  - agentic-ai
+  - scaffolding
+  - socratic-method
+  - equity-in-ai-education
+  reason: 'The one distinguishing contribution is the tool-augmented SLM tutor architecture for programming education, woven into cs-education; the small-models-as-agentic-substrate position extends llm''s existing SLM line; browser-resident inference (WebLLM, no API keys, data never leaves the device) extends privacy''s edge/federated data-minimization bullet; and the hardware-capability divide (180s vs 10-58s per trial, Chromebooks cannot run 8B) is a genuinely new first-level hardware angle for digital-divide (grep ''hardware'' -> 0, ''latency'' -> 0). Declined: knowledge-tracing is cited companion work (Wang, Yu & Tan 2026) not a new finding here (grep ''programming'' -> 0); intelligent-tutoring carries the tutoring framing; agentic-ai/scaffolding/socratic-method are framework references; equity-in-ai-education already carries the divide framing the digital-divide page now holds.'

@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-10-04T16:06:05-04:00"
+updated: "2026-10-14T14:35:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
@@ -23,6 +23,8 @@ reviewed_by: [editor]
 ## Introduction
 
 The digital divide is commonly understood as operating across **three levels** (van Deursen & van Dijk, 2014): the *first-level* divide concerns access to technologies and infrastructure (connectivity, devices, supportive environments); the *second-level* divide concerns skills and competencies (the uneven capacity to use tools effectively and meaningfully); and the *third-level* divide concerns outcomes and benefits (who actually benefits from technology use, with AI potentially exacerbating social, cultural, and economic disparities). [[framing-ai-use-for-students|Framing AI]] literacy through this lens makes clear that equity requires more than closing the device-and-infrastructure gap — it requires building the skills to use AI effectively and critically so that its benefits are distributed fairly rather than reinforcing existing inequalities.
+
+The edge-inference turn adds a hardware dimension to the first-level divide. When tutoring runs in the browser rather than the cloud — [[browser-sized-agents-slm-webllm-tutor-2026|browser-resident SLM tutors]] via WebLLM — the subscription-cost barrier disappears but a capability barrier replaces it: on a consumer laptop the same system took roughly 180 seconds per trial against 10–58 seconds for a remote API, and Chromebook-class devices cannot run an 8B model at all. Students with modern hardware get fast, seamless generation while students on older devices face latency or memory exhaustion, so local and cheap is not the same as equitable by default.
 
 ### How the digital divide appears in the research
 
