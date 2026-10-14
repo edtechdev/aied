@@ -1,0 +1,97 @@
+---
+title: Makine Öğrenmesi
+type: concept
+technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
+confidence: medium
+created: "2026-10-14T22:15:00-04:00"
+reviewed_by: [editor]
+translation_of: concepts/machine-learning
+source_updated: "2026-09-30T07:29:37-04:00"
+translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
+    agent: hermes-agent
+---
+
+*Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+
+> **Makine öğrenmesi** — eğitimde YZ’nin teknik temeli: eğitim verilerinden elle yazılmış kurallar yerine örüntü, tahmin ve politika çıkaran algoritmalar. Kapsamına denetimli öğrenme (risk altındaki öğrencileri sınıflandırma, not tahmini), denetimsiz öğrenme (öğrenen kümelerini keşfetme), pekiştirmeli öğrenme (öğretim ve iskeleleme politikalarını indükleme) ve derin öğrenme (diziler, kurslar ve görsel davranış için sinir ağları modelleri) girer. [[generative-ai|Üretken YZ]], en yeni ve en görünür alt kümedir, ancak çok daha eski bir tahmine dayalı ve uyarlamalı makine yığınının üzerinde durur.
+
+## Dikkate Alınması Gereken Sorular
+
+- Büyük olasılıkla veriden "öğrenmiş" öneri sistemleriyle veya risk puanlarıyla karşılaştınız. Bir modelin yalnızca geçmiş verilerdeki örüntülere dayanarak sizin hakkınızda bir şeye karar vermesinden (risk altı işareti veya önerilen bir yol gibi) ne kadar rahatsınız?
+- Sayfa, bir riski tahmin etmekle gerçekten müdahale etmek arasında net bir çizgi çeker: bir risk puanu size bir öğrencinin başarısız olabileceğini söyler, ancak buna karşı ne yapılacağını söylemez. Bir tahmin, sanki çoktan bir çözümmüş gibi sunulduğunu nerede gördünüz?
+- Makine öğrenme kendi ödülünü "hile" ile elde edebilir: etkileşim için iyileştirme yapan bir YZ öğretmeni, öğrencilere [[teacher-role|öğretirken]] pek bir şey öğretmeden onları eğlendirebilir. Ölçülebilir biçimde başarılı görünen ama pedagojik açıdan zararlı bir sistemde, iyileştirdiği sayının yanında hangi ölçütleri izlemeliyiz?
+- Geçmiş notlar üzerinde eğitilmiş tahmine dayalı modeller sistemsel yanlılığı kodlayabilir; otomatik sınav gözetimi ise normal davranışı hatalı biçimde işaretleyen yanlış pozitif riskleri doğurur. Veri geçmişin yanlılıklarını taşıdığında, onu yüksek riskli eğitim kararları vermek için kullanan bir YZ’ye ne kadar güvenmeliyiz?
+- Bazı YZ sistemleri insan tarafından yorumlanabilir yöntemleri geride bırakır ama opak kalır — işe yaradığını görürsünüz ama nedenini göremezsiniz. Eğitimde yorumlanabilirlik ne zaman "olsun" bir lüks, ne zaman pazarlık edilemez bir zorunluluktur?
+- Üretken YZ genellikle tamamen yeniymiş gibi ele alınır, ancak sayfa onu makine öğrenmesinin en yeni alt kümesi olarak çerçeveler. ChatGPT’i aynı tahmine dayalı ve uyarlamalı makine yığınının parçası olarak görmek, ondan bekleyeceğiniz riskleri ve sınırları nasıl değiştirir?
+
+## Giriş
+
+Makine öğrenme, eğitimsel izleri eyleme dönüştürülebilir zekaya dönüştüren şeydir. [[adaptive-learning|Uyarlamalı sistemlerin]] arkasındaki [[student-modeling|öğrenci modellerini]], risk altındaki öğrenenleri işaretleyen [[learning-analytics]] panolarını, sonraki soruyu veya iskeleyi seçen [[intelligent-tutoring|akıllı öğretmenleri]] ve uzaktan sınavları izleyen otomatik sınav gözetim sistemlerini güçlendirir. Burada sentezlenen makaleler boyunca örüntü tutarlıdır: öğrenenler üzerinde veri toplayın, ondan tahmine dayalı veya karar modeli öğrenin ve bu modele göre hareket edin — ister eylem erken uyarı, kurs önerisi, [[scaffolding|uyarlamalı iskeleleme]] ister sınav gözetimi olsun.
+
+## Makine öğrenmesinin eğitimdeki işlevi
+
+**Öğrenci başarısı için tahmine dayalı modelleme.** Denetimli sınıflandırıcılar — Lojistik Regresyon, Rastgele Orman, SVM, K-En Yakın Komşu — öğrencilerin çekilmeden önce [[at-risk-students-ml-prediction|risk altındaki öğrencileri]] belirler; bunun için [[learning-gains|akademik performans]], demografik ve kayıt kayıtlarını kullanır. Daha gelişmiş mimariler daha ileri gider: [[trace-course-grade-prediction-2026|TRACE]] transformer, bir öğrencinin gelecek dönem alacağı dersleri ve alacağı notları birlikte tahmin eder; geçmişi düz bir dizi gibi değil, eş zamanlı alınan derslerin eşzamanlılığını modelleyerek ele alır. [[interactive-online-learning-ai-2025|İnteraktif çevrimiçi öğrenme]] alanındaki DMO-GRU çerçevesi gibi optimize edici artı dizi melezleri, tekrarlayan ağlarla birlikte otomatik öznitelik seçimi ve hiperparametre ayarını birleştirerek [[student-engagement|etkileşim]] ve performans tahmininde yüksek doğruluk ve düşük hata elde eder. Paylaşılan bir amaç [[precision-education-student-digital-twins-2026|"hassas eğitim"]]tir: başarısızlığı öngören ve yolları sonuçlarla hizalayan sürekli risk katmanlaması ve öğrenci dijital ikizleri; kurumları reaktif telafiden koruyucu desteğe kaydırır. Cam kutu modelleri de burada ayakta durabilir: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]], doğal olarak yorumlanabilir karar ağaçlarının — öznitelik seçimiyle yalnızca 3–5 yaprak düğümüne budanmış — geniş ölçekli çevrimiçi [[cs-education|programlama]] kurslarında modül düzeyinde öğrenci ilerlemesini, siyah kutu rastgele ormanlar ve SVM’ler kadar doğru tahmin ettiğini gösterir (yüzde 85–91 doğruluk); bu, erken uyarı uygulamalarında yorumlanabilirliğin tahmine dayalı güçten vazgeçilmeden korunabileceğinin kanıtıdır. Ağaç tabanlı modeller madde güçlüğünü tahmin etmede de etkili çıkar: [[razavi-powers-item-difficulty-llm-2026|Razavi ve Powers (2026)]], LLM’lerle çıkarılan bilişsel ve dilbilimsel öznitelikleri rastgele ormanlara ve gradyan artırma makinelerine besleyerek K-5 matematik ve okuma maddelerinin güçlüğünü tahmin etti (N = 5170); doğrudan LLM tahminlerine, kukla regresörlere, TF-IDF taban çizgilerine ve yalnızca üst veri modellerine kıyasla daha düşük RMSE/MAE ile r = 0.87’ye varan korelasyonlara ulaştı. Ağaç tabanlı modeller yorumlanabilir [[explainable-ai|öznitelik önemi]] de verdi — sınıf düzeyi ve kelime sayısı en iyi yordayıcılar oldu — bu, yapılandırılmış öznitelikler artı yorumlanabilir öğrenenlerin tek bir bütünsel yargıyı nasıl geçebileceğini gösteriyor. [[multimodal]] kaynaştırma bu tahmin araç setini genişletir: [[bird-multimodal-educational-literature-2026|Bird (2026)]], ince ayarlı bir ELECTRA transformer’ı, dilbilimsel-hesaplama öznitelikleri üzerinde aranmış derin bir sinir ağıyla kaynaştırarak İngiliz edebiyatını Birleşik Krallık Anahtar Aşama’ya göre 0,996 F1 ile sınıflandırır — en iyi tek kipeli transformer’ı (BERT, 0,75) ve en iyi dilbilimsel-öznitelik ağını (0,392) çok geride bırakarak; bu, model ailelerini birleştirmenin herhangi bir tek yaklaşımı geçtiği somut bir örnektir. Sukoon ([[culturally-aware-student-stress-chatbot-2026|Bashir & Afzal, 2026]]), eğitime komşu [[well-being]] iyi oluş desteğinde denetimli sınıflandırmanın küçük ölçekli uygulanmış bir örneğidir: 1.100 yanıtlı bir öğrenci stres anketinin psikolojik, fizyolojik, çevresel, akademik ve sosyal boyutlarından 20 öznitelik üzerinde bir Rastgele Orman (100 tahminci), sızıntıyı önlemek için yalnızca eğitim verisine uydurulmuş bir ölçekleyiciyle katmanlı 70/15/15 ayrımı üzerinde eğitilmiş ve aynı ayrımlar üzerinde bir SVM ile kıyaslanmıştır (yüzde 89,09’a karşı yüzde 88,48 doğruluk). Dikkat çeken iki nokta var: yazarlar karışıklık matrisini *hata yönüyle* yorumlar — modelin başlıca hatası düşük stresi orta düzey saymasıdır, ki bu bir iyi oluş uygulamasında öğrenciyi daha az değil daha fazla desteğe yönlendirir — ve doğal öznitelik önemlerini önemli bir bulgu olarak kullanır (kan basıncı yüzde 15,6, öğretmen-öğrenci ilişkisi yüzde 10,0), ancak bu ağırlıkların güvenini tek bir katmanlı ayrımın (k-katlı aralık olmadan) ve temsili olmayan bir veri setinin sınırladığını kabul eder.
+
+**Uyarlamalı öğretim ve öğretmenlik.** Makine öğrenme, modelleme ile öğretim arasındaki döngüyü kapatır. [[adaptive-scaffolding-cognitive-engagement-its|Akıllı öğretim sistemlerinde]], hem bir [[knowledge-tracing|Bayesci Bilgi İzleme]] sezgiseli hem de derin bir [[reinforcement-learning]] politikası, farklı düzeylerde bilişsel etkileşim oluşturmak için uyarlamalı biçimde çözümlü örnek tiplerini seçerek uyarlamalı olmayan kontrol grubuna göre son test performansını önemli ölçüde iyileştirdi — bu arada iki politika öğrenen [[prior-knowledge|önceki bilgisine]] göre ayrıştı, bu da yorumlanabilirlik sorularını gündeme getirdi. Pekiştirmeli öğrenme ayrıca [[pedagogical-safety-rl|pedagojik güvenlik]] gündemini de besler: bir PÖ öğretmeni vekil bir ödülü iyileştirdiği için o ödülü "hile" ile elde edebilir (etkileşimi artırırken az şey öğretir) ve güvende kalması için ön koşul uygulamasına ve asgari bilişsel talebe ilişkin mimari kısıtlamalar gerekir. Kural tabanlı [[stem-education|STEM]] sistemi gibi daha hafif uyarlamalı programlar ([[bin-bakheet-adaptive-ai-stem-deep-learning-2026|altıncı sınıf fen bilimleri]]) makine öğrenmesinin doğrudan yörünge kontrolü yerine izleme için kullanılabileceğini — derin öğrenmeyi desteklerken — gösterir.
+
+[[knowledge-tracing]] tarafında, [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh ve ark. (2026)]], tekrarlayan bir modelin bir [[curriculum-design|müfredat]]ın kendi yapısına göre ayarlanabileceğini gösterir: OKT modeli, Sonuç-Tabanlı-Eğitim ders sonuçlarını bilgi kavramı olarak ele alır, uzman doğrulamalı OBE yakınlık eşlemelerini (ders ile program sonuçları arasındaki ilişkiler) çapraz sonuç etkisi için Bellek Artırılmış Bir Sinir Ağıyla çiftler ve GRU omurgasını alan-uyarlamalı BERT gömmeleriyle eşleştirerek canlı mühendislik programı verisinde yüzde 89,81 AUC’ye ulaşır ve DKT, DKVMN, EKT ile SimpleKT’yi geçer.
+
+**Tablosayısal sayısal yanıtlardan tanı koyma.** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin ve ark. (2026)]], YZ’nin uzun süre kapalı kaldığı bir alanda öğretmenliğin *tanı koyma* tarafını çözen gradyan artırılmış ağaçları gösterir: Mühendislik Ekonomisi Hesaplanmış Formül Soruları’nda, öğrencilerin elle yazılmış çözümlerinin yapılandırılmış dijital veriden yoksun olduğu durumda, gönderilen ara ve nihai sayısal yanıtları öğretmen rubriği hata etiketlerine eşlemek için soru başına özel bir [[intelligent-tutoring|XGBoost]] çok etiketli omurga eğitirler (ortalama kesinlik 0,81, duyarlılık 0,79, doğruluk 0,65). SMOTE gibi enterpolasyon yöntemlerinden daha iyi, tablosayısal çözümlerin mantıksal bağımlılıklarını koruyan rastgele maskelemeli veri çoğaltma — girdi özniteliklerini değişen olasılıklarla "NaN"a maskelemek — tanı koymayı önemli ölçüde iyileştirir ve ara yanıtları dâhil etmek en çok yardımcı olan şeydir. Bu, üretken yöntemlerin eğitim verisinden yoksun olduğu yerlerde ağaç tabanlı modeller artı yapı-duyarlı çoğaltmanın öğretmen geri bildirimini önyükleyebileceğinin kanıtıdır.
+
+[[reinforcement-learning|PÖ]] alt kümesinin alan düzeyi görünümünü, 89 PÖ-eğitim çalışmasının [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025) sistematik derlemesi]] sağlar: PÖ’nün uyarlamalı öğretim ve iskeleleme politikalarını indüklemek için başlıca bir MK kökeni olduğunu doğrular, ancak klasik (Q-öğrenme) yöntemlerin Derin PÖ’den daha tutarlı biçimde etkili olduğunu bulur (yüzde 61’e karşı yüzde 36 önemli üstünlük) ve çalışmaların yarısından fazlasının hiç istatistiksel test yapmadığını belirtir — aşağıdaki doğrulama kaygılarını yansıtan bir [[research-methods-aied|yöntemsel]] uyarı.
+
+**Tahminden eyleme ve hesap verebilirliğe.** Kalıcı bir sınır, bir risk puanı ile uygulanabilir bir müdahale arasındaki boşluktur. [[sc2r-counterfactual-recourse-educational-2026|SC2R]] çerçevesi, kalibre edilmiş bir tahmin modelini tamsayı programlamayla telafi üretimi ve anlamsal doğrulamayla birleştirerek; yalnızca model açısından geçerli değil, zamanlama, bütçe ve erişilebilirlik kısıtlarına saygı duyan müdahale planları üretir. Tahminden "öteye" geçen, kısıtlara saygılı ve makine tarafından denetlenebilir önerilere yönelen bu hamle, tahmine dayalı [[ai-education|eğitimde YZ]]nin kurumların alamayacağı veya almaması gereken eylemleri önerebileceği suçlamasına alanın verdiği yanıttır.
+
+## Makine öğrenmesinin sınav gözetiminde
+
+Ayrı bir uygulama alanı otomatik sınav gözetimidir. Göz hareketlerini, baş duruşunu ve yüz ifadelerini inceleyen derin öğrenme sistemleri — CNN’ler ve RNN/LSTM’ler — kopya çekmeyi geleneksel izlemeden daha güvenilir biçimde tespit eder, ancak [[automated-online-exam-proctoring-decade-review-2026|on yıllık sistematik derleme]], kalıcı veri seti sınırlılıkları, tek model değerlendirmeleri, yeniden üretilebilirlik boşlukları ve normal davranışı hatalı biçimde işaretleyebilecek yanlış pozitif riskleri bulur. Bu sistemlerin karşılamak zorunda olduğu kopya yöntemlerini (kimlik taklidi, tarayıcı kullanımı, kopyala-yapıştır) ve erişilebilirliklerini sınırlayan pratik yükleri belgeleyen eşlikçi [[academic-dishonesty-automated-proctoring-ai-2026|akademik sahtekârlık derlemesi]] — maliyet, bağlantı, sınava girenin kaygısı — birlikte, MK sınav gözetiminin [[privacy]]ı koruyan, bağlam-duyarlı tasarım ve erişilebilir alternatiflerle eşleştirilmesi gerektiğini hatırlatır.
+
+## Sınırlar ve etik kaygılar
+
+Sentezlenen literatür, makine öğrenmesinin sınırları konusunda açık yüreklidir. Kazanımlar genellikle [[benchmark]] veya tek kurum verisinden gelir ve yeniden eğitim olmaksızın genellemeyebilir; [[sc2r-counterfactual-recourse-educational-2026|SC2R]] ve [[trace-course-grade-prediction-2026|TRACE]] bunu kabul eder. Geçmiş notlamada eğitilmiş tahmine dayalı modeller sistemsel yanlılığı kodlayabilir; hassas öğrenci verisine uygulanan risk puanları [[governance]] ve [[human-in-the-loop-ai|insan gözetimi]] gerektiren [[privacy]] ve [[equity-in-ai-education|eşitlik]] kaygıları doğurur. Yorumlanabilirlik yinelenen bir gerginliktir — [[reinforcement-learning|PÖ]] politikaları, opak kalmaya devam ederken yorumlanabilir sezgisel yöntemleri geride bırakabilir. [[pedagogical-safety-rl|Ödül korsanlığı]] ise bir MK sisteminin ölçülebilir biçimde başarılı olurken pedagojik açıdan zararlı olabileceğini gösterir; bu yüzden mimari güvenlik kısıtlamaları ve denetim altyapısı önemlidir.
+
+Doğrulama uygulaması aşırı güvenin bir başka kaynağıdır. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan ve Carvalho (2025)]], bilgi izleme modellerinin (BKT, Unutmalı BKT, AFM) tüm kullanılabilir oturumlara geriye dönük uydurulduğunda öğrenme eğilimlerini yakalıyor gibi göründüğünü; ancak **zamana dayalı (ileriye yürüyen) çapraz doğrulamada** — gerçek dağıtımı yansıtarak önceki oturumlarda eğitip sonrakileri tahmin ederken — gelecek performansını abarttığını, aralık etkisini kaçırdığını ve alıştırma koşullarını yanlış sıraladığını gösterir; unutmasız modellerin unutma-artırılmış modellerle eşit performans göstermesi bile, unutmanın öğrenilmediğini, diğer parametrelere yutulduğunu gösterir. Eğitim ve dağıtım dağılımları zamansal olarak ayrıştığında — boylamsal öğrenci verisi için norm olan durum — örneklem içi veya geriye dönük güçlü bir uyum, tahmine dayalı geçerliliğin garantisi değildir.
+
+## Üretken YZ bir alt küme olarak
+
+[[generative-ai|Üretken YZ]] — büyük dil modelleri ve ilgili [[llm|LLM]] sistemleri — en iyi makine öğrenmesinin bir alt kümesi olarak anlaşılır: aynı sinir ve eğitim temelleri, ancak sınıflandırmak veya tahmin etmek yerine *üretmeye* uygulanır (açıklamalar, geri bildirim, diyalog). Alanın geçerlilik, yanlılık ve güvenlik kaygılarını miras alırken halüsinasyon gibi yenilerini de ekler. Bu bilgi tabanı için makine öğrenme daha geniş teknik şemsiyedir; üretken YZ ise en görünür çağdaş dalıdır.
+
+## Öğretmen eğitimi ve makine öğrenmesi okuryazarlığı
+
+Makine öğrenme eğitimde ayrıca bir *ders* olarak da görünür. [[microbit-robotics-machine-learning-teacher-training-2026|Öğretmen adayı eğitiminde]], Micro:bit kullanan uygulamalı kodlama ve robotik müdahaleleriyle denetimli görüntü sınıflandırma projeleri, öğretmen adaylarının hesaplama kavramları ve giriş düzeyi makine öğrenmesi bilgisini ve bu konuyu öğretmeye ilişkin tutumlarını önemli ölçüde iyileştirdi. Müfredatlara [[ai-literacy|YZ okuryazarlığı]] girdikçe, [[teacher-education|öğretmenleri]] makine öğrenmesinin çalışan bir kavrayışıyla donatmak, onu öğrencilere öğretmenin ön koşulu haline gelir. Aynı kavramlara hiçbir yazılım kullanmadan ulaşan tezat bir yol var: [[sung-ai-literacy-unplugged-ml-k12-pd-2026|Sung ve Gunpinar’ın (2026) çevrimiçi mesleki gelişiminde]], on K-12 eğitimcisi elle bir "açıklanabilir öznitelik matrisi" oluşturdu — şekil özniteliklerinin evet/hayır tablosu, yani *sınıflandırıcının kendisi*, opak değil test edilebilir ve gözden geçirilebilir — yalnızca araç olarak Code.org’un sıralama oyunu ve Google Slaytlar kullanıldı. [[self-efficacy|YZ öz yeterlilikleri]] orta düzeyin altından (M = 3,13) orta düzeyin üstüne (M = 3,71) yükseldi ve bir kelime-çağrışım görevinde olumsuz betimleyiciler katılımcıların yüzde 30’undan hiçbirine düştü; ancak kanıt küçük, kontrolsüz ve tamamen [[self-report-measures|kendi bildirimine]] dayalıdır.
+
+## Bağlı Kavramlar
+
+- [[student-modeling]]
+- [[learning-analytics]]
+- [[intelligent-tutoring]]
+- [[adaptive-learning]]
+- [[personalized-learning]]
+- [[reinforcement-learning]]
+- [[generative-ai]]
+- [[llm]]
+
+## Bağlı Makaleler
+
+- [[at-risk-students-ml-prediction]] — Çekilme riski altındaki öğrencileri belirlemek için denetimli MK sınıflandırması
+- [[trace-course-grade-prediction-2026]] — Dersleri ve notları birlikte tahmin eden transformer (TRACE)
+- [[precision-education-student-digital-twins-2026]] — Koruyucu, kariyere uyumlu yollar için YZ destekli öğrenci dijital ikizleri
+- [[sc2r-counterfactual-recourse-educational-2026]] — Eyleme dönüştürülebilir müdahale için anlamsal-kısıtlı karşıolgusal telafi
+- [[interactive-online-learning-ai-2025]] — İnteraktif çevrimiçi öğrenme tahmini için DMO-GRU melezi
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Bir ITS’de bilişsel etkileşimin uyarlamalı iskelelenmesi (BKT ve DRL)
+- [[pedagogical-safety-rl]] — Eğitimdeki pekiştirmeli öğrenme için pedagojik güvenliğin biçimsel çerçevesi
+- [[automated-online-exam-proctoring-decade-review-2026]] — Derin öğrenmeli otomatik sınav gözetiminin on yıllık derlemesi
+- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Yakınlık eşlemeli sonuç-tabanlı bilgi izleme
+- [[bird-multimodal-educational-literature-2026]] — Eğitim literatürünü sınıflandırmada çok kipli kaynaştırma
+- [[razavi-powers-item-difficulty-llm-2026]] — LLM’ler ve ağaç tabanlı MK kullanarak madde güçlüğünü tahmin etme
+- [[schuetze-knowledge-tracing-forgetting-2026]]
+- [[zhang-ml-student-progress-programming-2026]]
+- [[riedmann-reinforcement-learning-education-review-2026]]
+- [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
+- [[culturally-aware-student-stress-chatbot-2026]] — Pakistan Üniversite öğrencileri arasında NLP ve Makine Öğrenme kullanarak stres tespiti ve iyi oluş desteği için YZ destekli kültüre duyarlı sohbet robotu
+- [[synthetic-educational-data-structural-fidelity-2026]] — Sadakat Ölçütlerinin Kaçırdığı Şey: Sentetik Eğitim Verisine Yapısal Bir Bakış
