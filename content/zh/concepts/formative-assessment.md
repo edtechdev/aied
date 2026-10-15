@@ -118,6 +118,8 @@ AI 教育中的形式性评估与学习过程本身相连：
 - **评价质量与效度：** 为 AI 生成的题目与反馈评价质量、效度与[[equity-in-ai-education|公平]]，而不只是生成速度。
 - **把形式性评估当作一种哲学，而非一个工具箱。** [[mesny-innovative-assessment-grading-management-2026|Mesny、Roberge-Maltais 与 Galy（2026）]]把更宽的高等教育文献综合为一种"为学习而评估"的范式，把形式性的、持续进行的与个别化的[[feedback]]框定为一套总括的哲学，而非仅仅一个工具箱——在形式性与[[summative-assessment|总结性]]目的之间取得平衡，并让[[agency|学生能动性]]、自我调节与[[metacognition|元认知]]技能居于前景。他们识别出五项相互强化的实践（[[authentic-assessment|真实性评估]]、自我与[[peer-assessment|同伴评估]]、再评估、[[mastery-learning|基于标准的评分]]、取消评分），这套哲学可以借它们得到施行，同时指出它们在高等教育各领域的采纳仍极不均衡。
 
+- **持续评估重塑形式性记录本身。** AIM-CAI 参考架构（一份立场论文，而非一项实现）提议用一套六层基础设施取代分次评估作为主要证据基础：跨平台的证据生成、保留来源语境的序列化、AI 中介的语义转换、心理测量学解释、纵向的能力档案与联邦式治理。其转变表说明了这一变化：逐次作业的反馈变为支持咨询与反思的纵向反馈；分数变为演进中的能力档案；凭证变为透明的发展记录。治理层是论文的坚持所在——七个具名的张力（互操作性对地方自主、隐私对效用、学习者能动性对预测性自动化、监控对支持等）各自映射到风险与应对，并警告说未受治理的持续推断会使主流文化规范获得特权。新颖性主张是整合性的：各组件都已存在；贡献在于架构与治理图。（[[mcnamara-aim-cai-continuous-assessment-2026]]）
+
 ## 关联概念
 
 - [[pedagogical-patterns]] — 当 AI 供给部分反馈时形式性评估所采取的顺序形态
@@ -180,3 +182,5 @@ AI 教育中的形式性评估与学习过程本身相连：
 - [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — 跨三个教育层级的编程中 LLM 生成反馈的感知有用性与使用意愿
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — 音乐教育中结合生成式 AI 与大数据分析的自适应教学辅助
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[mcnamara-aim-cai-continuous-assessment-2026]] — AI 中介的持续评估基础设施（AIM-CAI）：跨语境与时间连接学习证据（McNamara 与 Hasnine 2026）
+- [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）

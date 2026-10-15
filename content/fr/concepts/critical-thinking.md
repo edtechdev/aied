@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -123,6 +123,7 @@ La pensée critique recoupe le [[scaffolding]] (concevoir un soutien par l'IA qu
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — Reflection prompt cuts acceptance of incorrect AI advice and attribution bias (Ren 2026)
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as structure for critical human-AI interaction (Kenzhebayeva et al. 2026)
 - [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Verification-centered GenAI integration in university chemistry education (Vega-Baudrit and Rivera Álvarez 2026)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthèse des dix études les plus citées sur la littératie en IA dans l'éducation en STIM (Hallström et al. 2026)
 - [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — teacher-curated ChatGPT feedback raised critical thinking via higher-order revision (Chen et al. 2026)
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — a semester of AI access left critical thinking flat; reflective use predicted it (Melanou et al. 2026)
 
