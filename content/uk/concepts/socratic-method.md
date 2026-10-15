@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/socratic-method
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -161,3 +161,4 @@ Favero et al. (2025) застерігають, що навіть сократи�
 
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
 - [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
+- [[etq-ai-conversational-teacher-training-2026]] — конверсаційний ШІ-діагностикум для виявлення педагогічних місконцепцій із діалогом, що спирається на докази (Miranda & Calvani 2026)

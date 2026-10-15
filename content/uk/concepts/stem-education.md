@@ -10,7 +10,7 @@ level: [k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/stem-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -115,3 +115,4 @@ ai_assist:
 - [[simulation-assisted-drone-learning-stem-2026]] — Навчання з підтримкою симуляцій із дронами та скаффолдами, спроєктованими викладачем і ШІ
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — Зведений ефект навчання з підтримкою ШІ в STEM за 35 досліджень, з найбільшими здобутками в старшій школі (Доған та ін., 2026)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — синтез десяти найчастіше цитованих досліджень із ШІ-грамотності в STEM-освіті (Hallström et al. 2026)

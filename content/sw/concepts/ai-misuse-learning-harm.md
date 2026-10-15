@@ -47,6 +47,7 @@ Dhana ya msingi, iliyoelezewa katika [[genai-performance-vs-learning]], ni kwamb
 - **Kunakili majibu kama tegemeo** — matumizi mabaya yanahamasishwa kidogo na makosa ya AI kuwapotosha wanafunzi kuliko na wanafunzi kunakili majibu badala ya kujifunza. Pale uchanganuzi wa [[student-engagement|mahususi]] unaonyesha wanafunzi wengi "wanaomba jibu," madhara ya kujifunza yanafuatia.
 - **Kudhoofika kwa motisha** — kupatika inayohisika kwa njia ya mkato ya AI isiyo na juhudi hupunguza motisha ya kujitegemea na uvumilivu, kwa [[self-determination-theory|nadharia ya kujitambua]]. Kwa sababu uvumilivu ndio unazalisha kujifunza kwa kina, udhoofu wake huongeza madhara ya moja kwa moja.
 - **Kupokonywa kwa kujifunza** — kubadilishwa kwa matokeo ya AI kwa michakato inayohitaji juhudi (kueleza kwa kina, kukumbuka, kujieleza mwenyewe) ambayo inaimarisha maarifa, kulingana na [[cognitive-offloading|Kutegemea Kupita Kiasi]].
+- **Mkanganyiko unasomwa kama nia.** Waelimishaji wanapotaja jukumu linalokusudiwa la AI katika kazi, wanafunzi hulifasili kwa urahisi zaidi, na walimu husoma tofauti inayotokana nao kama wizi wa kitaaluma badala ya mpaka ambao haukuwahi kutajwa ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
 
 ### Msingi wa ushahidi
 
