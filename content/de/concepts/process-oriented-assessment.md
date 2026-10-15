@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [process-feedback]
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-05T11:00:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,7 @@ Der für Prozessbelege gewählte Kanal verändert, was belegt werden kann: in de
 
 Praktiker- und Rahmenwerk-Konten füllen die Artefakte aus. Udens und Hwangs (2026) LEARN-Rahmenwerk, ausgerichtet auf [[problem-based-learning|problemlösendes Lernen]]-[[assessment|Assessment]], verlangt prozessfokussierte Rubriken, mündliche Begründungen, gestufte Einreichungen und Schlussfolgerungsspuren mit [[ai-use-disclosure|Offenlegung der KI-Nutzung]], und behandelt Reflexion über Lerntagebücher und Protokolle lauten Denkens als [[metacognition|metakognitiven]] Motor der Sequenz. Moganadas und Kollegen (2026) machen KI-transparentes, prozessorientiertes Assessment zu einer von fünf erforschbaren Propositionen und verlangen Dokumentation, Verifikation und reflektierte Begründung statt Verbot oder Detektornutzung. Padhy (2026) empfiehlt, Überarbeitungsgeschichte, Interaktionsmuster und Zeit-auf-Aufgabe zu erfassen, gepaart mit transparenter Offenlegung. Goldstein, Marae-Haj und Zidan (2026) berichten, dass nach einer [[trust|Vertrauens]]krise dieselben Artefakte aus der Praxis auftauchten: Prompting-Aufzeichnungen, Dokumentenversionsgeschichte, überwachte Gruppenbeiträge und reflektierte „Journey Journals“, die in physischen Notizbüchern geführt wurden —, neben dem schlichten Befund, dass mit-nach-Hause-Arbeit Lernen nicht mehr belegen konnte.
 
+Konkrete Werkzeuge entstehen: [[stepwise-teacher-diagnosis-math-2026|Kim et al. (2026)]] operationalisieren Problemlösen als vier Stufen und acht diagnostische Teilfähigkeiten, sodass ein LLM stufenspezifische Fragen und Rubriken erzeugen kann; fünf Lehrkräfte und 64 Studierende nutzten das System an 90 Aufgaben und 720 Teilfragen, mit einem mittleren System-Usability-Scale-Wert von 83,5.
 ## Eine andere Achse als Authentizität, und als Bewertung
 
 Die Achsen auseinanderzuhalten ist bedeutsam, weil ihre Vermischung dazu führt, dass eine Neugestaltung fertig aussieht, während die Ausgesetztheit bleibt. Sharma (2026) macht die komplementäre Unterscheidung zwischen Authentizität und integritätsorientiertem Design: Authentizität fragt, ob eine Aufgabe lohnenswerte Praxis spiegelt, während integritätsorientiertes Design fragt, ob Lernende ihre Entscheidungen begründen und Verantwortung im Verhältnis zu fachlichen Standards übernehmen können, weshalb die von ihm angebotenen Praktiken — kommentierte Entscheidungspfade, Verifikation GenAI-beigetragener Behauptungen, mündliche Verteidigung, Entwurfsunterschiede mit Versionsgeschichte — für das [[evaluative-judgment|Urteil]] ausgewählt werden, das sie sichtbar machen, statt für ihren Realismus. Espinos und Espinos (2026) Zehnjahres-Review zu [[business-education|Wirtschaftsbildung]] gelangt von der Literaturseite her zur gleichen Design-Schlussfolgerung und findet, dass das Feld auf authentische, prozesssichtbare Aufgaben konvergiert, die Interpretation, kontextuelle Anwendung und iterative Verfeinerung verlangen, und dass es isolierte Werkzeugübernahme innerhalb unveränderter Assessmentstrukturen als sein persistentestes Scheitern behandelt.
@@ -103,3 +104,4 @@ Thapa und Lewis' Darstellung ist konzeptuell: keine Teilnehmenden, keine Datener
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Channel-conditional process evidence: logs and think-aloud reveal different processes
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: A Multi-View Analytics Environment for AI-Integrated Writing
 - [[epistemic-ownership-ai-mediated-education-2026]] — Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education
+- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Supporting Teachers in Diagnosing Students' Mathematical Problem-Solving Skills through LLM-Generated Questions
