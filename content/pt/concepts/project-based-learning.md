@@ -8,7 +8,7 @@ technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:

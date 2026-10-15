@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-10-06T02:05:50-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,7 @@ ai_assist:
 - **AI가 이 분야를 십 년에 걸쳐 재편하는 방식:** [[xiong-ai-educational-measurement-review-2026|Xiong와 Li(2026)]]는 효율성-향상-변화 프레임워크를 통해 채점과 [[automated-question-generation|문항 생성]]에서의 AI, 심리측정 모형화, 평가 혁신과 과정 자료, 그리고 [[bias-mitigation|공정성]]/윤리/형평성에 걸친 AI의 영향을 세 시대([[formative-assessment|형성]] 2015–2018, 확장 2019–2022, 생성 2023–현재)로 지도화합니다. 저자들은 측정 이론과 AI 방법을 통합하는 새로운 패러다임과, 인간-[[student-ai-interaction|AI 상호작용]]의 맥락에서 구인을 재개념화할 것을 주장합니다. 이것이 바로 [[assessment-latent-structure-human-llm-2026|잠재 구조 비교]]가 경험적으로 탐색하는 동일한 경계입니다.
 - **AI가 예측한 난이도와 보정:** [[llm-difficulty-calibration-programming-exams-2026|LLM 난이도 보정]]과 [[llm-item-difficulty-prediction|문항 난이도 예측]]은 LLM을 사용하여 문항 난이도를 추정하며, 이것은 심리측정적 추정에 맞춰 타당화되어야 합니다([[item-response-theory]] 참조). [[razavi-powers-item-difficulty-llm-2026|Razavi와 Powers(2026)]]는 이 전제에 대한 대규모 K-5 검증을 더했습니다. Rasch IRT 모형으로 보정된 5,170개의 수학·읽기 문항에 걸쳐, GPT-4o의 제로샷 난이도 평정은 실제 난이도와 중등도~강한 상관을 보였고(r = 0.83 수학, r = 0.81 읽기), 학년 간 편차가 있었으며 K와 1학년에서는 학년 평균 더미 회귀 변수보다 나을 것이 없었습니다. 특징 기반 접근 — LLM이 추출한 인지적·언어적 특징을 트리 기반 모형에 투입 — 은 최대 r = 0.87의 상관에 도달했고, 학년 수준과 단어 수가 가장 강력한 예측 변수였습니다. 이 연구는 측정 투입요소로서 AI 예측 난이도의 가능성과 한계를 모두 보여 주며, 검사 전문가를 위한 실천적 7단계 워크플로를 제공합니다.
 - **생성된 난이도 레이블이 난이도를 측정하지 않을 때.** 배포된 LLM 생성 문항 311개에 대한 구인 타당도 감사는, 생성된 난이도 레이블이 자체 공동 생성된 Bloom 수준과는 ρ=0.90으로 상관했으나 경험적 난이도(고전검사이론 1−p 지수)와는 ρ=0.06에 불과했음을 발견했고, 선택지 길이는 거꾸로 작동했습니다(ρ=−0.18). 이것은 레이블이 표면 형식이라는 결과로, 위의 AI 예측 난이도에 대한 낙관적 해석의 한계를 정합니다([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang(2026)]]).
+- **분류학적 라벨은 문항의 행동을 예측하지 않는다.** 수학 문항 265개에 걸쳐, 의도된 Bloom 수준은 난이도 분산의 5% 미만을 설명했고(ε² = .043) 변별도는 전혀 설명하지 못한 반면(Kruskal–Wallis H = 0.54, p = .77), [[llm|LLM]] 분류는 전문가 코더와 다소 일치할 뿐이었으며(Cohen's κ = .22) 문항들을 apply/analyze 영역 쪽으로 끌어당겼습니다([[bloom-taxonomy-llm-item-classification-2026|Altaweel & Moussa (2026)]]).
 - **생성된 문항은 문장이 아니라 해법 경로로 판단하라.** 각 문항의 검증된 추론 트리를 부호화하는 것이 개념 평가에서 7.5%, 난이도 추정에서 6.3%, 역량 평가에서 19.5%의 성능 향상을 두 번째로 좋은 방법보다 가져왔으며, 제로샷 기준선은 서식을 따르는 문항을 "추론"으로, 기하 문항을 "알기"로 잘못 분류했습니다([[proiqa-math-item-quality-assessment-2026|Tong 등(2026)]]).
 - **AI [[assessment]]에서의 심리측정적 인식:** [[psychometrically-aware-ai|심리측정적으로 인식하는 AI]]는 AI 기반 평가가 측정 이론과 정렬되어야 한다는 표준 — 보정되고, 불확실성을 인식하며, 타당도를 보존하는 — 입니다([[automated-assessment|Confidence Aware AI Assessment]] 참조).
 - **숙달 레이블은 관찰되는 것이 아니라 구성되는 것이다.** 진단에 확실한 진실이 필요한 곳에서, [[personalized-neural-cognitive-architecture-search-2026|Jia와 Dong(2026)]]은 교육과정 개념 그래프, 교수자가 검토한 지식점 매핑, 수렴적 평가 증거를 통한 타당도 통제 절차로 그것을 구축하여, 행동 흔적을 직접 변환하지 않았고, 그들의 진단은 교육심리학자와 Cohen's kappa 0.78로 일치하여 IRT의 0.65를 앞질렀습니다.
@@ -184,3 +185,4 @@ AI 리터러시는 이 지식 기반에서 가장 풍부한 검사 도구 보유
 
 - [[ai-empathy-scale-psychometric-evaluation-2026]] — 여섯 요인이 의도한 여섯 하위 요인을 회복하지 못한 42문항 AI 공감 척도
 - [[genai-srl-l2-writing-scale-2026]] — L2 글쓰기를 위한 6차원 생성형 AI-SRL 척도; 개미 군집 최적화 12문항 단축형은 전체 척도를 추적하나(r = 0.910–0.944) 내용 범위를 좁힌다
+- [[bloom-taxonomy-llm-item-classification-2026]] — 인지 분류가 경험적 문항 행동을 예측하는가? 4~12학년의 국가 중앙 집중식 수학 문항에 대한 심리측정적 성질과 Bloom의 분류 체계 정렬

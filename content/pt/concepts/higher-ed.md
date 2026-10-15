@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-13T11:30:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:

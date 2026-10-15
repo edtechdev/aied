@@ -9,7 +9,7 @@ level: [k 12, preschool]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-10-13T04:43:42-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -96,3 +96,4 @@ Dirisha la kwanza la neuroimaging kwenye swali hili linakuja na onyo: watoto wa 
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: a framework for tailoring AI agents and robotics to early learning (Yang, Li & Lee 2025)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Kulinganishwa kwa mara ya kwanza kwa neuroimaging kwa watoto na watu wazima wanaozungumza na ChatGPT: mitandao ya kudhibiti-umakini-kumbukumbu iliyounganishwa kidogo katika watoto wa miaka 6-7
 - [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: AI-rated CLASS Pre-K scores versus trained human raters in Hong Kong kindergartens (Fong na wenzake 2026)
+- [[ai-literacy-ecec-curricula-four-country-2026]] — Ujuzi wa AI kwa wenyeji wa AI? Ulinganifu wa nchi nne

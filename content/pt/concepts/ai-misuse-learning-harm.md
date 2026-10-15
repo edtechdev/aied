@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-01T09:59:54-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:

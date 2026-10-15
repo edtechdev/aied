@@ -8,7 +8,7 @@ audience: [learners]
 confidence: medium
 reviewed_by: [editor]
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -98,3 +98,4 @@ Ufuatiliaji wa maarifa unahusiana karibu na [[student-modeling]] — wakati ufua
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Mwalimu wa Wakala Anayejifunza Mwanafunzi wake katika Kitanzi cha Kujifunza cha Binadamu–AI
 - [[crediting-assisted-work-inflates-mastery-2026]] — Kanuni ipi ya ushahidi inaamua dai la ustadi (Srivastava 2026)
 - [[system-one-llm-knowledge-tracing-2026]] — LLM ya kupita-moja inafuatilia maarifa juu ya mifano ya kina yaliyofunzwa kwa wanafunzi 8, kwa sehemu ya gharama (Lee & Park 2026)
+- [[knowledge-tracing-compression-math-2026]] — Kubana historia ya mwanafunzi katika ufuatiliaji wa maarifa ya hisabati

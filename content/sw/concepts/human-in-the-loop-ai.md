@@ -12,7 +12,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 reviewed_by: [editor]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-03T03:00:33-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -162,3 +162,4 @@ Ubini wa binadamu katika mzunguko si hatua ya usalama tu — ni **mkakati wa kug
 - [[llm-grading-assistants-public-health-2026]] — Kurudia kwa kuweka alama kwa LLM zinazofanana kwa siku tofauti hujirudia tu kwa alpha ya Krippendorff 0.625
 - [[when-students-prefer-ai-scoring-feedback-2026]] — Wanafunzi wa digrii ya kwanza wanapendelea alama za binadamu kwa kazi zenye matokeo makubwa na AI kama msaidizi, si mbadala
 - [[student-query-demand-hybrid-ai-support-2026]] — Wanafunzi Huuliza Nini Kweli: Muundo wa Mahitaji na Uwezekano wa Uotomatiki katika Mfumo wa Msaada wa Pamoja
+- [[in-the-loop-educational-ai-learning-sciences-2026]] — Kufikiria upya Mbinu za "In-The-Loop" katika AI ya Kielimu: Mtazamo wa Sayansi za Kujifunza

@@ -11,7 +11,7 @@ connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-04T05:46:16-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -177,3 +177,4 @@ Mifumo ya tathmini ya mchakato inaweza kubadilika kutoka zana za msaada wa kujif
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Msaada wa kufundisha unaobadilika unaounganisha AI ya kizalishaji na uchanganuzi wa data kubwa katika elimu ya muziki
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Matumizi ya LLM ya wanafunzi na Mipaka ya Ugumu wa Maswali Yaliyozalishwa na AI katika Kozi za Sayansi ya Data
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — Miundombinu ya Tathmini Endelevu Inayoongozwa na AI (AIM-CAI): Kuunganisha Ushahidi wa Kujifunza Katika Miktadha na Muda (McNamara & Hasnine 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Kitambulisho cha mazungumzo cha AI kwa dhana za ufundishaji zisizo sahihi, chenye mazungumzo yanayotegemea ushahidi (Miranda & Calvani 2026)

@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, regulation]
 connected_resources: [fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 reviewed_by: [editor]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-10T14:22:00-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -220,3 +220,4 @@ Utafiti wa kwanza wa Nadharia ya Tabia Iliyopangwa wa nia ya makosa ya kitaaluma
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Utabiri wa mapema wa hatari ya wizi wa kitaaluma unaosaidiwa na AI kutoka alama za LMS, ikiwekwa kama mwongozo wa kitaaluma badala ya ushahidi wa makosa ya kitaaluma
 - [[reddit-genai-education-discourse-analysis-2026]] — Miaka mitatu na nusu ya elimu ya Reddit: utekelezaji unatawala, na mizozo ya uadilifu ni ukumbi mkuu wa waelimishaji–wanafunzi (Yüce et al. 2026)
 - [[boyd-swan-employer-responses-genai-2026]] — Jaribio la utafiti: fremu ya ubadilishaji ya matumizi ya AI ya mwanafunzi inaadhibu waombaji wenye GPA ya juu katika kuajiri na mshahara; mtihani wa ana kwa ana ni tiba pekee ambayo makundi yote mawili yalichagua
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface

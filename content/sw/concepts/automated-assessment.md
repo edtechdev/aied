@@ -20,7 +20,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 translation_of: concepts/automated-assessment
-source_updated: "2026-10-08T09:45:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ---
@@ -203,3 +203,4 @@ Tathmini ya kiotomatiki inahusiana na [[assessment-validity]] (uhakiki wa ubora)
 - [[ai-marking-accuracy-gcse-physics-2026]] — Kuweka alama kwa AI kulilinganishwa na alama za bodi ya mitihani na hukumu ya mwalimu katika fizikia ya GCSE
 
 - [[llm-grading-assistants-public-health-2026]] — Hali ya kufikiri ilipandisha makubaliano ya kuweka alama ya LLM-kibinadamu kutoka weighted kappa 0.269 hadi 0.718
+- [[machine-human-marking-agreement-institutions-2026]] — Makubaliano kati ya mashine na binadamu katika kuweka alama kwa kazi za chuo ni maalum kwa mfano, ilani na taasisi

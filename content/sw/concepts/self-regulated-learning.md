@@ -12,7 +12,7 @@ level: [k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-10-07T14:30:00-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -226,3 +226,4 @@ Ni msaada upi unaochukua nafasi huamua mpatanishi yupi anayebeba uhusiano: miong
 - [[genai-learning-procrastination-planned-behavior-2026]] — Ucheleweshaji wa kujifunza kwa msaada wa GenAI: pengo la nia-tabia ambalo wasiwasi huimarisha
 - [[genai-srl-l2-writing-scale-2026]] — Kipimo cha GenAI-SRL cha vipimo sita kilichothibitishwa kwa uandishi wa L2, chenye udhibiti wa mazingira kama kipimo chake chenyewe na fomu fupi ya vipimo 12 iliyoboreshwa na ant-colony
 - [[borchers-srl-language-generalization-2025]] — Mifano Mikubwa ya Lugha Inahamisha Utabiri wa SRL katika Lugha Mpya Ndani Lakini Sio Kati ya Taaluma (Borchers et al. 2025)
+- [[ai-project-hybrid-learning-self-regulated-2026]] — Mfano wa Kujifunza Mseto Unaotegemea Mradi unaotumia Akili Bandia Kuboresha Kujifunza kwa Kujidhibiti kwa Wanafunzi

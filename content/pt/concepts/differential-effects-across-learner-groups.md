@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-01T10:47:53-04:00"
+source_updated: "2026-10-11T09:05:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:

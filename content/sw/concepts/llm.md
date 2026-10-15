@@ -10,7 +10,7 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/llm
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:

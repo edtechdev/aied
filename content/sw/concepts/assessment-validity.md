@@ -10,7 +10,7 @@ confidence: high
 methods: [rct]
 reviewed_by: [editor]
 translation_of: concepts/assessment-validity
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -178,3 +178,4 @@ Uthabiti wa kukimbia-hadi-kukimbia hauhakikishwi, hata hivyo: kurudia upangaji a
 - [[llm-grading-assistants-public-health-2026]] — Upangaji alama wa kurudia wa siku tano wa mawasilisho yanayofanana ulitoa alfa ya Krippendorff ya 0.625
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Kielelezo cha Udhaifu wa AI: alama nyingi zilizotathminiwa hutegemea ubunifu usioweza kuthibitishwa, hivyo uhalali hutegemea ushahidi wa kutosha katika hatua muhimu badala ya usalama wa juu zaidi
 - [[llm-tutor-pedagogical-metric-degradation-2026]] — Kipimo cha kubadilisha cha kielimu kilipanda huku viwango vya wataalam vipofu vikishuka: uhalali wa upimaji haimaanishi uhalali wa kuboresha (Domínguez Figaredo na Fernández De la Cruz, 2026)
+- [[genai-english-proficiency-validity-2026]] — Je, Lengo Limesogea Tena? GenAI na Uhalali wa Alama za Ustadi wa Kiingereza

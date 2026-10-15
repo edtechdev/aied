@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/socratic-method
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -154,3 +154,5 @@ Mbinu ya Sokratiki imeunganishwa kwa karibu na [[scaffolding]] (kutoa msaada wa 
 - [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
 - [[lftutor-logical-fallacy-education-2026]] — Maswali ya Sokratiki pamoja na hoja mahususi katika mfumo wa ualumu wa dhana potofu wa hatua nne
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Vizuizi au Vizibo? Athari za Mtindo wa Kielimu na Ufahamu wa Muktadha katika Wasaidizi wa Kufundisha wa AI kwa Uandishi wa Programu
+- [[genai-socratic-tutor-biology-argumentation-2026]] — Kuboresha ujuzi wa mabishano unaolingana na PISA kwa walimu wanaotarajia wa biologii kupitia akili bandia ya kizalishaji
+- [[etq-ai-conversational-teacher-training-2026]] — Kitambulisho cha mazungumzo cha AI kwa dhana za ufundishaji zisizo sahihi, chenye mazungumzo yanayotegemea ushahidi (Miranda & Calvani 2026)
