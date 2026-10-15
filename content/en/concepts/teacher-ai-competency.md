@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-09T08:42:12-04:00"
+updated: "2026-10-15T10:00:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -95,6 +95,8 @@ A design-based counterexample treats competency as situational rather than a run
 
 - **Values lag skills in a domain-specific program too.** In a year-long Hong Kong program with 30 English teachers, knowledge of multimodal assessment strategies rose from 3.13 to 4.15 out of 5 (partial η² = 0.571) and competence in supporting students from 3.05 to 3.98 (0.482), both significant, while every value subdomain stayed statistically flat under a Bonferroni-corrected alpha of .006. The teachers attributed the gains to in-school co-planning and cross-school cluster meetings rather than the workshops alone ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
 
+- **Microlearning can develop university teachers' AI competence.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]] refined two vocational-education modules across two online group discussions into five design principles — clear structure and orientation, guidance and navigation support, segmentation and modularization, multimodal presentation, and learner activation — and found platform navigation and locating modules the main practical barriers.
+
 ## Teacher AI competency and the transforming teacher role
 
 As AI takes over routine instructional and assessment tasks, the teacher's distinctive contribution shifts toward orchestration, judgment, and relationship: deciding when and how AI is used, scaffolding [[agency|student agency]] and critical use, ensuring equity, and providing the social and emotional support AI cannot. This reframes teacher competency around [[human-in-the-loop-ai|human-in-the-loop]] oversight, [[ethics|ethical judgment]], and [[self-regulated-learning|supporting self-regulated learning]] — connecting to [[teacher-role]] and [[cognitive-offloading|guarding against over-reliance]].
@@ -185,3 +187,4 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first teacher readiness model with performance-based capability indicators
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national survey of 1,405 K-12 teachers: readiness predicts positive beliefs but not concern
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Four TALIS 2024 teacher belief profiles link professional learning and profile-specific barriers to AI use
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Designing Microlearning Modules on AI for University Teachers in Vocational Teacher Education: A Design-Based Research Study
