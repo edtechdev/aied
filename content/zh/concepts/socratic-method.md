@@ -163,3 +163,4 @@ Favero等人（2025）提醒说，即便是苏格拉底式AI，如果学生变�
 
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
 - [[genai-socratic-tutor-biology-argumentation-2026]] — 通过生成式人工智能提升职前生物学教师的 PISA 对齐论证技能
+- [[etq-ai-conversational-teacher-training-2026]] — 以证据为基的对话来诊断教学误解的对话式 AI（Miranda & Calvani 2026）
