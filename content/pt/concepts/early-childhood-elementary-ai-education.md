@@ -28,7 +28,7 @@ ai_assist:
 - Crianças pequenas agora encontram IA por meio de brinquedos, [[conversational-ai|chatbots]] e robôs de sala de aula. O que torna a relação de uma criança de 5 anos com a IA fundamentalmente diferente da de um adulto — e o que deveria mudar na forma como pensamos os riscos?
 - Parte do letramento em IA na primeira infância é ensinada por brincadeiras "desplugadas" — sem computador nenhum. Como conceitos abstratos de IA podem ser aprendidos por meio de atividades [[embodied-learning|corporificadas]] e tangíveis em vez de telas?
 - Uma preocupação chamada "isomorfismo tecnológico" descreve estudantes pequenos imitando a saída da IA sem entender. Como você distinguiria uma criança que genuinamente aprendeu de uma que simplesmente repete de volta uma resposta polida?
-- Como quem aprende cedo é mais vulnerável e menos capaz de se autorregular, o [[scaffolding|andaime] de adultos] passa a ser central. O que isso significa para um pai, mãe ou professor que decide quando e como uma criança deve usar IA?
+- Como quem aprende cedo é mais vulnerável e menos capaz de se autorregular, o [[scaffolding|andaime]] de adultos passa a ser central. O que isso significa para um pai, mãe ou professor que decide quando e como uma criança deve usar IA?
 - Se o acesso à aprendizagem precoce rica em IA — ou à orientação protetiva de adultos — é desigual, como a equidade se manifesta de forma diferente na primeira infância do que para estudantes mais velhos?
 - A base de evidências aqui é em grande parte exploratória e orientada ao design, em vez de causal. O que você gostaria de saber antes de confiar em uma afirmação de que um brinquedo ou aplicativo de IA melhora a aprendizagem das crianças?
 
