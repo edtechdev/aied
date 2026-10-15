@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -141,3 +141,4 @@ GenAI उपयोग और स्व-रिपोर्ट की गई आ�
 - [[genai-dependence-research-creativity-2026]] — GenAI निर्भरता 1,157 स्नातक छात्रों में आलोचनात्मक सोच के साथ सकारात्मक रूप से संबद्ध
 - [[genai-use-critical-thinking-moderation-2026]] — प्रतिपुष्टि साक्षरता के माध्यम से, केवल कम चिंतनशील छात्रों के लिए प्रत्यक्ष पथ के साथ, GenAI उपयोग से आलोचनात्मक सोच तक
 
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM शिक्षा में AI साक्षरता के दस सर्वाधिक-उद्धृत अध्यायनों का संश्लेषण (हालस्ट्रॉम सहित 2026)

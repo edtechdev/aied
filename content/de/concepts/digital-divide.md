@@ -8,7 +8,7 @@ foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-10-04T16:06:05-04:00"
+source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,7 @@ Die digitale Kluft wird gemeinhin als über **drei Ebenen** operierend verstande
 
 - **Politik und Infrastruktur:** [[oecd-digital-education-outlook-2026|OECD Digital Education Outlook 2026]] situiert die digitale Kluft innerhalb nationaler [[educational-policy-ai|Bildungspolitik]] und untersucht, wie Zugang zu digitalen und KI-Technologien variiert und was Systeme tun können, um Lücken zu schließen.
 
+Die Wende zur Edge-Inferenz fügt der Kluft erster Ebene eine Hardware-Dimension hinzu. Wenn Tutoring im Browser statt in der Cloud läuft — [[browser-sized-agents-slm-webllm-tutor-2026|browserresidente SLM-Tutoren]] über WebLLM —, verschwindet die Abonnementkosten-Barriere, aber eine Fähigkeitsbarriere ersetzt sie: Auf einem Consumer-Notebook brauchte dasselbe System grob 180 Sekunden pro Durchlauf gegenüber 10–58 Sekunden für eine entfernte API, und Geräte der Chromebook-Klasse können ein 8B-Modell überhaupt nicht ausführen. Studierende mit moderner Hardware erhalten schnelle, reibungslose Generierung, während Studierende mit älteren Geräten Latenz oder Speichererschöpfung gegenüberstehen; lokal und günstig ist also nicht dasselbe wie von Haus aus gerecht.
 - **Verantwortungsvoller Umgang und [[prompt-engineering|Prompting-]]Kompetenz:** [[aaai2026-prompting-literacy-k12|K-12-Forschung zu Prompting-Kompetenz]] adressiert die Kluft zweiter Ebene, indem sie Lernenden die Fähigkeiten [[teacher-role|beibringt]], KI-[[conversational-ai|Chatbots]] verantwortungsvoll zu nutzen, in der Erkenntnis, dass Zugang allein nicht die Fähigkeit verleiht, [[ai-literacy|KI gut zu nutzen]].
 - **Formulierungsfähigkeit ist ihre eigene Kluft zweiter Ebene.** Auf MedQA stieg die Genauigkeit mit der Prompt-Sophistikation (82.4% für Formulierungen geringer Kompetenz gegenüber 83.4% für Expertenformulierungen), und ein Prompt Equity Transformer, der Anfragen in gleichwertige, klarere Formulierungen umschrieb, schloss die Lücke — und verlagerte damit die Last wirksamen Promptings von der lernenden Person auf das System ([[prompt-privilege-equitable-ai-access-2026|Jin et al. (2026)]]).
 

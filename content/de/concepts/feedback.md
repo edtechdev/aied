@@ -8,7 +8,7 @@ assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, fe
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -133,6 +133,7 @@ Ein zweischichtiges Modell zeigt, wie das Paar um eine Maschine herum organisier
 ### Warum Feedback für KI in der Bildung zählt
 
 Feedback ist einer der folgenreichsten und am besten belegten Mechanismen in der Bildung, und KI verstärkt und kompliziert ihn gleichermaßen. Gut architektoniertes KI-Feedback kann menschliches Feedback erreichen oder übertreffen und über Kohorten hinweg skalieren, aber es verlangt neue Fähigkeiten der Lernenden ([[feedback-literacy|Feedback-Kompetenz]], [[ai-literacy|KI-Kompetenz]]) und birgt Risiken (unkritische Akzeptanz, [[cognitive-offloading|übermäßiges Vertrauen]]). Während KI-erzeugtes Feedback allgegenwärtig wird, rahmt die Wissensbasis Feedback als ganzes System — Qualität, Schleife, Kompetenz und Assessmentkontext, die zusammenwirken — statt als eine einzelne Komponente.
+- **Feedback kann die Feedbackgebenden adressieren.** Tutor:innen-Training ist ein wenig erforschter Feedbackkontext: automatisierte Systeme, die die offenen Antworten von Tutor:innen sequenzweise markieren, um Lobtypen zu kennzeichnen (anstrengungsbasiertes Lob — die wünschenswerte prozessfokussierte Art — gegenüber ergebnisbasiertem gegenüber personenbasiertem, der am wenigsten wünschenswerten eigenschaftszuschreibenden Art), können erklärendes Feedback liefern, das Tutoringsverhalten verändert. Die bindende Randbedingung sind von Expertinnen und Experten markierte Daten. Ein Augmentationsansatz — GPT-4o erzeugt synthetische markierte Antworten und erweitert einen Datensatz von 13 Instanzen mit geringen Ressourcen auf 520, dann wird GPT-3.5 feinabgestimmt — überwindet den größten Teil der Lücke: F2 +20,5% bei anstrengungsbasiertem Lob, +17,3% bei ergebnisbasiertem und +16,5% bei der *ungesehenen* personenbasierten Kategorie. Der Generalisierungstest auf einen ungesehenen Lobtyp ist die Validitätsprüfung, die dies von Überanpassung trennt, und der Mechanismus ist näher an der Destillation von Lehrkraft-Modellen als an klassischer Augmentation. ([[xu-automated-feedback-tutor-training-2025]])
 
 ## Verbundene Konzepte
 
@@ -203,3 +204,5 @@ Feedback ist einer der folgenreichsten und am besten belegten Mechanismen in der
 - [[nazaretsky-feedback-source-bias-2025]] — Who gives feedback matters: source labels shift ratings when the text is held comparable (Nazaretsky et al. 2025)
 - [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — What a revision does to the writer's stance: peer feedback turns argumentative essays more contractive, AI revision keeps the Contract/Expand balance (Zhao & Ji 2026)
+- [[xu-automated-feedback-tutor-training-2025]] — Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation (Xu et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)

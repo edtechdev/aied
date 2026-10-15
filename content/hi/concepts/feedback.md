@@ -8,7 +8,7 @@ connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 translation_of: concepts/feedback
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -207,3 +207,4 @@ AI प्रतिपुष्टि को तीन महत्वपूर�
 - [[ai-powered-writing-feedback-awe-review-2026]] — लेखन के लिए AI-संचालित प्रतिपुष्टि प्रणाली: स्वचालित लेखन मूल्यांकन (AWE) उपकरणों की समीक्षा
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — पुनरीक्षण लेखक के रुख के साथ क्या करता है: सहकर्मी प्रतिपुष्टि तर्कात्मक निबंधों को अधिक संकुचित बनाती है, AI पुनरीक्षण Contract/Expand संतुलन बनाए रखता है (Zhao & Ji 2026)
 - [[xu-automated-feedback-tutor-training-2025]] — डेटा संवर्धन के माध्यम से कम-संसाधन परिदृश्यों में ट्यूटर प्रशिक्षण के लिए स्वचालित प्रतिपुष्टि प्रणालियों में सुधार (Xu एट अल. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — शिक्षण भ्रांतियों के लिए साक्ष्य-आधारित संवाद के साथ संवादात्मक AI निदान (Miranda & Calvani 2026)
