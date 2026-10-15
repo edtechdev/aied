@@ -139,3 +139,4 @@ O pensamento crítico se cruza com [[scaffolding]] (desenhar apoio de IA que man
 
 - [[genai-dependence-research-creativity-2026]] — Dependência de GenAI associada positivamente ao pensamento crítico em 1.157 estudantes de pós-graduação
 - [[genai-use-critical-thinking-moderation-2026]] — Do uso de GenAI ao pensamento crítico via letramento em feedback, com caminho direto apenas para estudantes menos reflexivos
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Síntese dos dez estudos mais citados sobre letramento em IA na educação STEM (Hallström et al. 2026)
