@@ -13,7 +13,7 @@ confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 reviewed_by: [editor]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-09T08:42:12-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -101,6 +101,8 @@ Un controesempio basato sul design tratta la competenza come situazionale anzich
 - **È la presenza a predire i guadagni, laddove la sensazione di partecipare non lo fa.** Nello stesso programma di sei mesi, il tasso di presenza prediceva il guadagno di competenza (β = 0,407, p = 0,001), mentre la partecipazione auto-percepita non lo faceva (β = 0,049, p = 0,692), e disciplina, esperienza didattica e titolo professionale spiegavano poco; gli autori leggono la presenza come investimento comportamentale e la partecipazione percepita come coinvolgimento superficiale ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]).
 
 - **Anche in un programma specifico di dominio i valori restano indietro rispetto alle abilità.** In un programma di un anno a Hong Kong con 30 docenti di inglese, la conoscenza delle strategie di valutazione multimodale è salita da 3,13 a 4,15 su 5 (η² parziale = 0,571) e la competenza nel sostenere gli studenti da 3,05 a 3,98 (0,482), entrambe significative, mentre ogni sottodominio dei valori è rimasto statisticamente piatto con un alfa corretto secondo Bonferroni di 0,006. I docenti attribuivano i guadagni alla co-pianificazione nella scuola e agli incontri dei cluster tra scuole, piuttosto che ai soli workshop ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
+
+- **Il microlearning può sviluppare la competenza in IA dei docenti universitari.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]] ha perfezionato due moduli per l'istruzione e la formazione professionale attraverso due discussioni di gruppo online, distillandoli in cinque principi di progettazione — struttura e orientamento chiari, supporto alla guida e alla navigazione, segmentazione e modularizzazione, presentazione multimodale e attivazione di chi apprende — e ha rilevato che la navigazione della piattaforma e l'individuazione dei moduli costituivano i principali ostacoli pratici.
 
 ## La competenza in IA dei docenti e la trasformazione del ruolo docente
 
@@ -194,3 +196,4 @@ Anche il panorama degli strumenti è stato oggetto di revisione. [[assessing-tea
 - [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first teacher readiness model with performance-based capability indicators
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national survey of 1,405 K-12 teachers: readiness predicts positive beliefs but not concern
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Four TALIS 2024 teacher belief profiles link professional learning and profile-specific barriers to AI use
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Progettazione di moduli di microlearning sull'IA per i docenti universitari nella formazione professionale: uno studio di design-based research
