@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,7 @@ PBL נולדה בחינוך רפואי (אוניברסיטת McMaster, שנות 
 - **מימושים תחומיים.** מסגרות PBL ל[[engineering-education|הנדסה ביורפואית]] משתמשות ב-GenAI לסיכום ותמיכת קידוד עם חבילות שכפול ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]]); PBL נתמכת-בינה מלאכותית משפרת [[computational-thinking|חשיבה חישובית]] ב[[educational-robotics|רובוטיקה]] ([[ai-pbl-computational-thinking-2026|PBL נתמכת-בינה מלאכותית לחשיבה חישובית]]); וחולים וירטואליים מופעלי-genAI תומכים בהדרכות לקיחת היסטוריה רפואית ([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]]).
 - **סינתוז ראיות.** [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]] סוקרים [[meta-analysis-systematic-review|שיטתית]] 50 מחקרים (2015–2024) על מעורבות מחנכים עם בינה מלאכותית ב-PBL בתוך מסגרת [[human-ai-collaboration|אינטראקציה בין אדם למחשב]].
 - **GenAI ב-PBL מבוסס-תרחיש.** [[genai-scenario-based-healthcare-education-2026|Neto and colleagues (2026)]] כוללים למידה מבוססת בעיות בין הגישות המבוססות-תרחיש בסקירתם השיטתית של GenAI בחינוך בריאות, ומוצאים ש[[prompt-engineering|עיצוב הנחיה]] מתפקד כמפרט הוראה וששיתוף פעולה היברידי בין אדם לבינה מלאכותית עולה על גישות אוטומטיות לחלוטין. הסקירה מדגישה את הצורך ביישור חזק יותר של תוכן מופק עם מסגרות הוראה ובפרקטיקות הנחיה יותר לשחזור בהקשרי PBL.
+- **AI יכול לשאת את אספקת-הידע של המורה אך לא את הוויסות החברתי של למידת-קבוצה.** בקוואזי-ניסוי פרמקולוגיה בן ארבעה שבועות, [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty & Rao (2026)]] מצאו ש-PBL המתווך-AI התאים את רווחי-ההשכלה המונחים-מנחה (בין-קבוצתי p = 0.474), בעוד הקבוצות המונחות-מנחה שמרו על יתרונות בדינמיקת-הקבוצה (26.51 מול 24.74, p = 0.035) ובחשיבה ביקורתית (14.75 מול 13.09, p < 0.001).
 
 ## PBL לעומת פדגוגיות קשורות
 
@@ -101,3 +102,4 @@ PBL קשורה מקרוב ל[[project-based-learning|למידה מבוססת פ�
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — מודול CTD-PBL נתמך-בינה מלאכותית עם 130 מורי פיזיקה לפני-השירות: TPACK ופתרון בעיות שיתופי (Chen & Osman 2026)
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — PBL המתווך-מנחה מול PBL המתווך-AI בחינוך פרמקולוגיה: מחקר קוואזי-ניסויי בקרב סטודנטים לרפואה בשנה השנייה

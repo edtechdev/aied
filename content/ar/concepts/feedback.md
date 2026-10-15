@@ -8,7 +8,7 @@ connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/feedback
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -206,3 +206,4 @@ ai_assist:
 - [[ai-powered-writing-feedback-awe-review-2026]] — نظام تغذية راجعة مدعوم بالذكاء الاصطناعي للكتابة: مراجعة لأدوات تقييم الكتابة الآلي
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — ما يفعله التنقيح بموقف الكاتب: تغذية الأقران تجعل المقالات الحجاجية أكثر تقلّصًا، وتنقيح الذكاء الاصطناعي يحفظ توازن Contract/Expand (Zhao & Ji 2026)
 - [[xu-automated-feedback-tutor-training-2025]] — تحسين أنظمة التغذية الراجعة الآلية لتدريب المُدرّسين في سيناريوهات منخفضة الموارد عبر إثراء البيانات (Xu et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — أداة حواريّة بالذكاء الاصطناعي لتشخيص المفاهيم الخاطئة في التدريس بحوار مؤسَّس على الأدلّة (Miranda & Calvani 2026)

@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/teacher-role
-source_updated: "2026-10-04T10:52:53-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -229,3 +229,4 @@ ai_assist:
 - [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI בחינוך תכנות: סקירה שיטתית שבה תפקידי המרצה נחקרים פחות
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — מספקי מידע למעצבי למידה: תרגולי הוראה היויטגוגיים בחינוך מוגבר AI
 - [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs ואח' 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — אבחון שיחה AI לתפיסות-הוראה מוטעות עם דיאלוג מונחה-ראיות (Miranda & Calvani 2026)

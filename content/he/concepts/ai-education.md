@@ -85,9 +85,9 @@ ai_assist:
 
 האופן שבו בינה מלאכותית תומכת בהוראה ובלמידה הוא לב התחום. מושגי המפתח כוללים:
 
-- **פדגוגיות ליבה:** [[pedagogy|פדגוגיות ואסטרטגיות הוראה]], המטרייה לכיסוי שיטות ההוראה במאגר הידע, לצד [[active-learning|למידה פעילה]], [[collaborative-learning|למידה שיתופית]], [[group-work|עבודה בקבוצות]], [[project-based-learning|למידה מבוססת פרויקטים]], [[problem-based-learning|למידה מבוססת בעיות]], [[productive-failure|כישלון פרודוקטיבי]], [[inquiry-based-learning|למידה מבוססת חקר]], [[experiential-learning|למידה חווייתית]], [[game-based-learning|למידה מבוססת משחק]], [[learning-by-teaching|לימוד דרך הוראה]], [[scaffolding|פיגום]], [[socratic-method|השיטה הסוקרטית]], [[critical-pedagogy|פדגוגיה ביקורתית]], [[pedagogical-partnerships|שותפויות פדגוגיות]], [[storytelling-in-education|סיפור סיפורים]], [[learning-design|עיצוב למידה]], [[online-teaching-and-learning|הוראה ולמידה מקוונות]] ו[[video-education|וידאו בחינוך]].
+- **פדגוגיות ליבה:** [[pedagogy|פדגוגיות ואסטרטגיות הוראה]], המטרייה לכיסוי שיטות ההוראה במאגר הידע, לצד [[pedagogical-patterns|דפוסים פדגוגיים]] (הרצפים הנבדקים שאליהם השיטות מתכנסות), [[active-learning|למידה פעילה]], [[collaborative-learning|למידה שיתופית]], [[group-work|עבודה בקבוצות]], [[project-based-learning|למידה מבוססת פרויקטים]], [[problem-based-learning|למידה מבוססת בעיות]], [[productive-failure|כישלון פרודוקטיבי]], [[inquiry-based-learning|למידה מבוססת חקר]], [[experiential-learning|למידה חווייתית]], [[game-based-learning|למידה מבוססת משחק]], [[learning-by-teaching|לימוד דרך הוראה]], [[scaffolding|פיגום]], [[socratic-method|השיטה הסוקרטית]], [[critical-pedagogy|פדגוגיה ביקורתית]], [[pedagogical-partnerships|שותפויות פדגוגיות]], [[storytelling-in-education|סיפור סיפורים]], [[learning-design|עיצוב למידה]], [[online-teaching-and-learning|הוראה ולמידה מקוונות]] ו[[video-education|וידאו בחינוך]].
 - **תיאוריות ותהליכי למידה:** מטריית [[learning-theories|תיאוריות הלמידה]] ([[behaviorism|ביהביוריזם]], [[cognitive-psychology|קוגניטיביזם]], [[constructivist|קונסטרוקטיביזם]], [[sociocultural-learning|סוציו-תרבותיות]], [[distributed-cognition|קוגניציה מבוזרת]], [[situated-learning|למידה ממוקמת]], [[embodied-learning|למידה מגולמת]], [[community-of-inquiry|קהילת חקר]]) יושבת לצד תהליכים הפונים ללומד כמו [[self-regulated-learning|למידה עצמית מוסדרת]], [[self-determination-theory|תיאוריית ההגדרה העצמית]], [[motivation|מוטיבציה]], [[self-efficacy|מסוגלות עצמית]], [[self-directed-learning|למידה מוכוונת עצמית]], [[metacognition|מטא-קוגניציה]], [[desirable-difficulties|קשיים רצויים]], [[transfer-of-learning|העברה של למידה]], [[prior-knowledge|ידע קודם]], [[icap-framework|מעורבות קוגניטיבית לפי ICAP]], [[refutation-text|טקסט הפרכה]], [[retrieval-spacing-interleaving|שליפה, פיזור ומיזוג]] ו[[activity-theory-aied|תיאוריית הפעילות]].
-- **מעורבות וחוויה של הלומד:** [[student-engagement|מעורבות סטודנטים]], [[help-seeking|חיפוש עזרה]], [[social-emotional-learning|למידה חברתית-רגשית]], [[well-being|רווחה]], [[creativity|יצירתיות]], [[problem-solving|פתרון בעיות]], [[mastery-learning|למידת שליטה]] ו[[student-ai-interaction|אינטראקציה בין סטודנט לבינה מלאכותית]] מעצבים כיצד לומדים פוגשים את הבינה המלאכותית ומושפעים ממנה בפועל, ואילו [[social-norms-ai-use|הנורמות החברתיות שמתגבשות סביב השימוש בבינה מלאכותית]] קובעות באיזו פתיחות ניתן לדון בכך.
+- **מעורבות וחוויה של הלומד:** [[student-engagement|מעורבות סטודנטים]], [[help-seeking|חיפוש עזרה]], [[social-emotional-learning|למידה חברתית-רגשית]], [[well-being|רווחה]], [[creativity|יצירתיות]], [[problem-solving|פתרון בעיות]], [[mastery-learning|למידת שליטה]] ו[[student-ai-interaction|אינטראקציה בין סטודנט לבינה מלאכותית]] מעצבים כיצד לומדים פוגשים את הבינה המלאכותית ומושפעים ממנה בפועל, ואילו [[social-norms-ai-use|הנורמות החברתיות שמתגבשות סביב השימוש בבינה מלאכותית]] קובעות באיזו פתיחות ניתן לדון בכך. מעבר לקורס, [[student-support-and-success|תמיכת סטודנטים והצלחה]] מכסה את העבודה בצד המוסדי — ייעוץ, פנייה חודרת, הפניה והקצאת משאבי תמיכה דלים — ושם AI מזיזה בצורה מהימנה את השלמת המשימות אך לא את ההתמדה או את סיום התואר.
 
 ## טכנולוגיות וטכניקות
 
@@ -118,6 +118,7 @@ ai_assist:
 השאלה כיצד אנחנו יודעים אם בינה מלאכותית עובדת היא אשכול בפני עצמו, ומאגר הידע מתייחס אליה ככזו:
 
 - **שיטות מחקר:** [[research-methods-aied|שיטות מחקר ב-AIED]] כמטרייה, עם גישות [[qualitative-research|איכותניות]], [[quantitative-research|כמותיות]], [[mixed-methods-research|מעורבות]], [[design-based-research|מבוססות עיצוב]] ו[[usability-research|בדיקות שמישות]], ובנוסף [[rct|ניסויים מבוקרים אקראיים]], [[meta-analysis-systematic-review|מטא-אנליזה וסקירה שיטתית]] ו[[network-analysis|ניתוח רשתות]].
+עבודת המחקר של השדה עצמה היא כיום נושא בזכות עצמה. [[ai-assisted-educational-research|מחקר חינוכי בסיוע בינה מלאכותית]] מכסה שימוש ב-AI ככלי לחיפוש ספרות, סינון, קידוד איכותני, ניתוח וכתיבה, כולל מחקר פרקטיקנים כגון תרומת ההוראה והלמידה. הוא נשחר ומובדל מהעיצובים המשמשים לחקור מה AI עושה ללומדים.
 - **הערכה של מערכות בינה מלאכותית:** [[ai-ed-evaluation|הערכת התערבויות של בינה מלאכותית בחינוך]] ו[[benchmark|מדדי ביצוע]] לשיפוט היכולת של מערכת, כש[[learning-gains|הישגי למידה]] הם התוצאה שחשובה, בעוד [[limitations-in-aied-research|המגבלות הרוחביות]] של הראיות האלה ו[[interpreting-and-applying-aied-research|כיצד לקרוא מחקר בודד]] הם המשקל שכנגד ומשמשים כאזהרה.
 
 ## אנשים
@@ -192,13 +193,8 @@ ai_assist:
 
 סקירות חוצות-תחום של בינה מלאכותית בחינוך: המחקרים שסוקרים את כל התחום או רמה חינוכית שלמה ולא נושא אחד:
 
-- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
-- [[raza-farooq-aied-review-2020-2025]] — Review of Artificial Intelligence in Education from 2020 to 2025
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
 - [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
-- [[liang-genai-systematic-review-human-ai-2026]] — Generative AI in education: systematic review of 56 empirical studies
 - [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
 - [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
-- [[caruana-pre-university-ai-education-slr-2026]] — Pre-university AI education: systematic literature review of 42 studies
 - [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
-- [[caeai-ai-companions-learning-over-performance-2026]] — a research agenda for AI companions built around learning rather than performance

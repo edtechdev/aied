@@ -11,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/teacher-role
-source_updated: "2026-10-04T10:52:53-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -228,3 +228,4 @@ ai_assist:
 - [[yalcin-genai-programming-education-systematic-review-2026]] — الذكاء الاصطناعي التوليدي في تعليم البرمجة: استعراض منهجي تكون فيه أدوار المعلّمين الأقلّ دراسةً
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — من مزوّدي المعلومات إلى مصمّمي التعلّم: ممارسات تدريس هيوتاغوجية في التعليم المعزَّز بالذكاء الاصطناعي
 - [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — أداة حواريّة بالذكاء الاصطناعي لتشخيص المفاهيم الخاطئة في التدريس بحوار مؤسَّس على الأدلّة (Miranda & Calvani 2026)

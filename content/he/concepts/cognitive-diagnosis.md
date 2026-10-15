@@ -7,7 +7,7 @@ assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,7 @@ ai_assist:
 - **אבחון מכלים שנבנו למשהו אחר.** [[mechanics-cognitive-diagnostic-physics-2026|Le et al. (2026)]] מראים שמודל CD יכול לחלץ מידע ברמת-מטרה מפריטים שמעולם לא נכתבו לאבחון. מיפוי פריטי FCI, FMCE ו-EMCS על 14 מטרות למידה דקות-גרגור במכניקת מבוא והתאמת DINA על 24,394 תשובות פוסט-טסט מ-807 קורסים, הם מצאו התאמה טובה לשניים משלושת הכלים (FCI RMSEA² = 0.033; EMCS = 0.022) ודיוק סיווג במידה הגבוהה או מעל סף המהדר המעצב-משימות-סיכון-נמוך ל-19 מתוך 22 שילובי מטרה–הערכה. מבנה תכונה, לא איכות פריט, היה האילוץ המחייב: קידוד מומחים שרד בדיקת מודל כמעט ללא פגע — DINA הציע לתקן רק 14% מ-754 קידודי פריט–מטרה והמקודדים אימצו 20 מהם (2.7%) — אך המודל לא יכול היה להפריד שלוש מטרות אנרגיה *קונספטואלית מקוננות* (אנרגיה פוטנציאלית 0.675, שמור אנרגיה 0.705, אנרגיה קינטית 0.745) מכיוון שכל שתיים שיתפו כ-70% מהפריטים שלהן (חפיפת Jaccard 0.67–0.73), הפרת הנחת העצמאות הקונג'נקטיבית של DINA, בעוד מטרות תנופה על אותו כלי הגיעו ל-0.820–0.917. תכונות דקות יותר התאימו טוב יותר ולא גרוע יותר: מבנה 14 המטרות שיפר התאמת מודל על מבנה ארבע-המיומנויות-הרחבות המוקדם של אותה צוות על שלושת הכלים. חפיפת פריטים, לא שגיאת קידוד, היא מה שמגביל עד כמה שליטה ניתנת להפרדה.
 - **DINA בייסיאני למסלולי למידה מותאמים אישית:** [[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng and Huang (2026)]] משלבים מודל Bayesian DINA (מאומן על מערכת נתוני EdNet, N=5,000) עם תיאוריית מרחב ידע ואלגוריתם מסלול-תיקון-הקצר ביותר כדי לייצר מסלולי למידה מותאמים אישית, ובודקים אמפירית את התפקיד המתווך של [[cognitive-offloading|עומס קוגניטיבי]] דרך מעברי מצב Hidden Markov Model (מאומתים על 120 סטודנטים) — מתייחסים הן לבעיית ההתכנסות המונעת-דלילות של מודלי DINA מסורתיים והן למנגנון הפסיכולוגי הלא-נבדק מאחורי יעילות מסלול-מותאם.
 - **אבחון מיושם-שפה במקום הטמעות ID.** [[process-grounded-language-cognitive-diagnosis-2026|Liu et al. (2026)]] מחליפים מזהי סטודנט, תרגיל ומושג בדיסקרטיים עם סכימות מושג בנויות-LLM וראיות מיושמות-תהליך, מכיילים את מצב הפוסטריורי של כל סטודנט מרשומות תשובה. לאורך שלוש מערכות [[math-education|מתמטיקה]] [[online-teaching-and-learning|פלטפורמה]] המסגרת מגיעה ל-83.51% ACC / 85.37% AUC ב-XES3G5M ו-87.16% ACC ב-MOOC, עם הרווח מרוכז בדיוק במקום שמודלי אבחון-קוגניטיבי קלאסיים נחלשים: מושגים חדשים (+4.60 ACC על KCD) ורשומות Q-matrix חסרות (+4.52). ביטול הראיות המובנות מקרס דיוק MOOC מ-87.16% ל-78.95%, ולכן השיפור מגיע מהמבנה הנגזר-שפה ולא מקולת המודל. ([[process-grounded-language-cognitive-diagnosis-2026]])
+- **משימות מוטבעות תרבותית יכולות לקדם לניתוח ה-AI.** [[culturally-embedded-ai-diagnostic-assessment-2026|Anggara et al. (2026)]] ביקשו מ-178 תלמידי חטיבת-ביניים באינדונזיה להשלים משימות פתוחות מוקשות תרבותית לפני ניתוח התשובות ב-AI; אבחוני ה-AI הסכימו עם הערכת המומחים (ICC = 0.81), בעוד ההטבעה התרבותית הייתה קשורה לביצוע מתמטי סמלי (β = 0.42) ולמעורבות (β = 0.37).
 
 ## מדוע זה חשוב
 
@@ -101,3 +102,4 @@ ai_assist:
 - [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
 - [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Open Foundation Models for Learning and Teaching
+- [[culturally-embedded-ai-diagnostic-assessment-2026]] — חשיבה מחדש על הערכה אבחונית באמצעות AI מוטבע תרבותית ללמידה משמעותית
