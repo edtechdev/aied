@@ -33,7 +33,7 @@ ai_assist:
 
 ## はじめに
 
-SSHの教育は、[[stem-education|STEM教育]]と言語学習に補完的な、ナレッジベースにおける独自の主題領域です。人文科学が解釈の深さ、著作、文脈的な判断を重んじるため、それらはSTEMとは異なるAI統合の課題を立てます。そして[[discipline-specific-aied|専門分野特有の]]仕方で[[higher-ed|高等教育]]と[[ai-literacy|AIリテラシー]]につながります。
+SSHの教育は、[[stem-education|STEM教育]]と[[language-learning|言語学習]]に補完的な、ナレッジベースにおける独自の主題領域です。人文科学が解釈の深さ、著作、文脈的な判断を重んじるため、それらはSTEMとは異なるAI統合の課題を立てます。そして[[discipline-specific-aied|専門分野特有の]]仕方で[[higher-ed|高等教育]]と[[ai-literacy|AIリテラシー]]につながります。
 
 ### AIが人文科学と社会科学の教育にどう現れるか
 

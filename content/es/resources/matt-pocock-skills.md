@@ -38,7 +38,7 @@ El ejemplo más claro es `teach`, que se desarrolla a lo largo de varias sesione
 
 ## Qué saber antes de adoptarla
 
-alrededor de 270.000 estrellas y 23.000 bifurcaciones al consultarlo en septiembre de 2026, con el commit más reciente el 18 de septiembre de 2026.
+Todo es [[open-source|código abierto]] bajo licencia MIT y gratuito, y puede tomarse como punto de partida para el estudio local de la [[ai-literacy|alfabetización en IA]] o el [[self-directed-learning|aprendizaje autodirigido]]. La adopción es amplia y cambia con rapidez: alrededor de 270.000 estrellas y 23.000 bifurcaciones al consultarlo en septiembre de 2026, con el commit más reciente el 18 de septiembre de 2026. La limitación es el alcance. Las habilidades parten del contexto de trabajo de un [[human-ai-collaboration|ingeniero]], se organizan en bloques de ingeniería, productividad, obsoletas y en desarrollo, de modo que algunas entradas están explícitamente sin terminar o retiradas, y el README hace a su vez de formulario de suscripción a un boletín. Trate las habilidades de enseñanza y de cuestionamiento como la parte transferible, y espere tener que reescribir cualquiera de ellas antes de ponerla delante de estudiantes.
 
 ## Conceptos conectados
 [[socratic-method]], [[self-directed-learning]], [[metacognition]], [[prompt-engineering]], [[generative-ai]], [[pedagogical-agent]], [[ai-literacy]], [[human-ai-collaboration]], [[open-source]], [[teacher-ai-competency]]

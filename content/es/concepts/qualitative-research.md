@@ -119,3 +119,4 @@ Los métodos cualitativos y los cuantitativos son complementarios, no rivales: v
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Tutores críticos de IA: empoderar o esclavizar
 - [[genai-runaway-object-math-higher-ed]] — La IA generativa como objeto desbocado en las matemáticas de educación superior
 - [[khlaif-assistive-genai-visually-impaired-2026]] — IA generativa de asistencia para estudiantes con discapacidad visual
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA

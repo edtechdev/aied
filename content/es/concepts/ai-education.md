@@ -114,6 +114,8 @@ La IA transforma tanto cómo evaluamos a quien aprende como cómo evaluamos los 
 Saber si la IA funciona es una línea temática propia, y la base de conocimiento la trata como tal:
 
 - **Métodos de investigación:** los [[research-methods-aied|métodos de investigación en AIED]] como página general, con enfoques [[qualitative-research|cualitativos]], [[quantitative-research|cuantitativos]], [[mixed-methods-research|mixtos]], [[design-based-research|basados en el diseño]] y de [[usability-research|usabilidad]], además de los [[rct|ensayos controlados aleatorizados]], el [[meta-analysis-systematic-review|metaanálisis y la revisión sistemática]] y el [[network-analysis|análisis de redes]].
+
+La propia labor investigadora del campo es ahora un tema en sí mismo. La [[ai-assisted-educational-research|investigación educativa asistida por IA]] cubre la IA usada como instrumento para la búsqueda bibliográfica, el cribado, la codificación cualitativa, el análisis y la escritura, incluida la investigación del profesorado practicante como la scholarship of teaching and learning. Se mantiene distinta de los diseños usados para estudiar qué hace la IA con quienes aprenden.
 - **Evaluación de los sistemas de IA:** la [[ai-ed-evaluation|evaluación de la IA educativa]] y los [[benchmark|puntos de referencia]] para juzgar la capacidad de un sistema, con las [[learning-gains|mejoras en el aprendizaje]] como resultado que importa, y, como contrapeso de cautela, los [[limitations-in-aied-research|límites transversales]] de esta evidencia y [[interpreting-and-applying-aied-research|cómo leer un solo estudio]].
 
 ## Personas
@@ -168,6 +170,7 @@ La IA en la educación se conecta con todos los conceptos de la base de conocimi
 - [[learners]] — marco: los conceptos del lado del estudiantado (experiencia, identidad, agencia, interacción, modelos del estudiantado)
 - [[ai-ed-evaluation]] — marco: cómo sabemos si la IA funciona
 - [[research-methods-aied]] — marco: métodos de investigación sobre eficacia
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
 - [[governance]] — marco: la capa institucional y normativa
 - [[educational-policy-ai]] — marco: política, orientaciones e implementación
 - [[equity-in-ai-education]] — marco: justicia, acceso e inclusión

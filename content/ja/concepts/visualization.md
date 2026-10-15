@@ -52,6 +52,8 @@ ai_assist:
 
 第二の大きな流れは、AIが可視化を直接生み出すことを扱います。[[nuclear-diffusion-text-to-image-learning-2026|核拡散（テキストから画像への生成）研究]]は、領域適合させたテキストから画像へのモデルが専門的なSTEM概念の正確な図解を生成できることを示しています。Stable Diffusionを原子力領域の画像でファインチューニングすることで領域の正確さは12%から78%に上がり、教員が原子炉構成部品や安全システムの正しい可視化をオンデマンドで生成できるようになりました。この生成能力は強力ですが、一様ではありません。[[mllm-scientific-visualization-literacy|科学可視化リテラシーの[[benchmark|ベンチマーク]]]]は、6つのマルチモーダル大規模言語モデルを485名の人間参加者と科学的可視化リテラシーで比較し、一様な有能さはないことを見出しました。クローズドソースのGeminiは複数のサブセットで人間の平均を上回った一方、すべての[[open-source|オープンソース]]モデルはそれを下回り、細粒度の[[quantitative-research|定量的]]推定やテクスチャベース・統合ベースの可視化に特に弱点がありました。したがってAIは、人間の可視化リテラシーを支えるものであって、それに取って代わるものではなく——この知見は[[ai-literacy|AIリテラシー]]と[[formative-assessment|形成的評価]]に直接的な含意を持ちます。
 
+プロンプトからチャートへの生成は、AIが有能な可視化を生み出せるかどうかとは別の問いを立てます。学習者が、その成果物を教育的にする分析的な作業と符号化の作業を、なお自ら行っているかどうかです。2026年の枠組みはこれを過程–産出の分岐と呼び、[[scaffolding]]と代替との間の主体性の線として、透明性、招待、フェイディングを提案します([[genai-visualization-education-framework-2026|Purohit et al., 2026]])。
+
 倫理と信頼性は、AI生成の視覚コンテンツへの熱狂を和らげます。[[data-comics-for-education-evaluating-effectiveness-benefits-ethics|教育のためのデータコミック研究]]は、[[generative-ai|生成的AI]]支援のデータコミックが、事前の可視化リテラシーにかかわらず従来の可視化よりも[[student-engagement|関与]]と理解を改善したことを見出しましたが、参加者は誤情報のリスクと[[academic-integrity|著作]]の帰属について懸念を提起し、3分の2が過度に込み入ったレイアウトによる情報過多といった欠点を指摘しました。反実仮想のCFES-P24ベンチマックはこの精査を[[cfes-p24-multimodal-slide-auditing-2026|スライド監査]]にまで広げ、マルチモーダルLLMが[[learning-design|学習デザイン]]の構成概念（操作、原則、証拠の位置づけ）を確実に認識できる一方、比較判断と重大度の較正には鋭く分岐することを示しています——総合スコアがどの能力が失敗するかを隠しており、自信は信頼性ではないという証拠です。これらの研究は総合的な評点ではなく、AI生成ビジュアルの層別化された[[ai-ed-evaluation|AIの評価]]を主張しています。
 
 ## 実践におけるスライド、コミック、多ビューツール
@@ -81,4 +83,5 @@ ai_assist:
 - [[nuclear-diffusion-text-to-image-learning-2026]] — 原子力概念の可視化のための領域適合テキストから画像へのモデル
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — AI支援データコミックの有効性、利点、倫理
 - [[cfes-p24-multimodal-slide-auditing-2026]] — マルチモーダルスライド監査のための反実仮想ベンチマーク
+- [[genai-visualization-education-framework-2026]] — Constructing Meaning, Not Just Charts: A Cognitive–Instructional Framework for Generative AI Usage in Visualisation Education
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — ブレンディッド教室で教師がMLの知見にアクセスできるようにすること

@@ -167,3 +167,4 @@ El método socrático está estrechamente ligado al [[scaffolding]] (proporciona
 
 - [[guardrails-ai-teaching-assistants-programming-2026]] — ¿Barreras de seguridad u obstáculos? Efectos del estilo pedagógico y la conciencia del contexto en asistentes docentes de IA para programación
 - [[genai-socratic-tutor-biology-argumentation-2026]] — Mejora de las habilidades de argumentación alineadas con PISA de futuros docentes de biología mediante inteligencia artificial generativa
+- [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional de IA para las concepciones erróneas docentes mediante diálogo fundamentado en la evidencia (Miranda y Calvani 2026)

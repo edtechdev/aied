@@ -35,7 +35,7 @@ ai_assist:
 
 ## Qué puede hacer con ella
 
-Las aplicaciones se pueden integrar en Canvas, Moodle, Blackboard o cualquier plataforma compatible con LTI, donde las calificaciones y el acceso pueden sincronizarse; entre los ejemplos publicados hay una simulación de comunicación con pacientes, una aplicación de retroalimentación sobre casos prácticos que evalúa la comprensión antes de que el estudiantado avance, y un breve desafío de práctica de idiomas. La analítica de uso es la razón que el proyecto da para preferir las aplicaciones a los chatbots personalizados: un flujo diseñado se puede observar y revisar, mientras que un chat abierto no. Se pueden seleccionar modelos de los principales proveedores, y la plataforma registra lo que cuesta ejecutar cada aplicación.
+Las aplicaciones se pueden integrar en Canvas, Moodle, Blackboard o cualquier [[edtech-platform|plataforma compatible con LTI]], donde las calificaciones y el acceso pueden sincronizarse; entre los ejemplos publicados hay una [[simulation|simulación]] de comunicación con pacientes, una aplicación de retroalimentación sobre casos prácticos que evalúa la comprensión antes de que el estudiantado avance, y un breve desafío de práctica de idiomas. La analítica de uso es la razón que el proyecto da para preferir las aplicaciones a los [[conversational-ai|chatbots]] personalizados: un flujo diseñado se puede observar y revisar, mientras que un chat abierto no. Se pueden seleccionar modelos de los principales proveedores, y la plataforma registra lo que cuesta ejecutar cada aplicación.
 
 ## Para quién es
 
