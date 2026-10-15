@@ -31,7 +31,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-**Education Agent Skills** es una biblioteca de 165 habilidades de agente para docentes, líderes escolares y personas que construyen herramientas educativas. Las habilidades se agrupan en veinte dominios que abarcan pedagogía, ciencia del aprendizaje, currículo, evaluación y regeneración, y cada una está escrita para que la cargue un agente, no para leerse como un documento.
+**Education Agent Skills** es una biblioteca de 165 habilidades de agente para docentes, líderes escolares y personas que construyen herramientas educativas. Las habilidades se agrupan en veinte dominios que abarcan pedagogía, ciencia del aprendizaje, [[curriculum-design|currículo]], evaluación y regeneración, y cada una está escrita para que la cargue un [[agentic-ai|agente]] en lugar de leerse como un documento.
 
 ## Qué puede hacer con ella
 

@@ -29,11 +29,11 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-**Process Feedback** es una alternativa centrada en el aprendizaje frente a las herramientas de detección de IA. Registra el proceso de escritura (el tiempo invertido, las revisiones, los eventos de copiar y pegar, y si se usó IA y en qué momento) y lo presenta como un informe del proceso de escritura, lo que desplaza la pregunta de si un estudiante hizo trampa hacia cómo se hizo el trabajo en realidad.
+**Process Feedback** es una alternativa centrada en el aprendizaje frente a las herramientas de [[ai-detection|detección de IA]]. Registra el proceso de escritura (el tiempo invertido, las revisiones, los eventos de copiar y pegar, y si se usó IA y en qué momento) y lo presenta como un [[process-oriented-assessment|informe del proceso de escritura]], lo que desplaza la pregunta de si un estudiante hizo trampa hacia cómo se hizo el trabajo en realidad.
 
 ## Qué puede hacer con ella
 
-El profesorado puede ver el informe de un solo estudiante o cargar cientos a la vez desde un panel docente, y el estudiantado puede consultar sus propios informes y reflexionar sobre ellos. Funciona en Google Docs mediante una extensión del navegador, en el espacio de escritura propio del proyecto y en editores de LMS como Canvas, con integración LTI disponible; un informe también se puede descargar como PDF y subir a cualquier plataforma. El proyecto publica indicaciones de reflexión para guiar la autoevaluación del estudiantado, orientaciones para leer los patrones de uso de la IA y guías para el profesorado.
+El profesorado puede ver el informe de un solo estudiante o cargar cientos a la vez desde un panel docente, y el estudiantado puede consultar sus propios informes y [[metacognition|reflexionar]] sobre ellos. Funciona en Google Docs mediante una extensión del navegador, en el espacio de escritura propio del proyecto y en editores de LMS como Canvas, con integración LTI disponible; un informe también se puede descargar como PDF y subir a cualquier plataforma. El proyecto publica indicaciones de reflexión para guiar la autoevaluación del estudiantado, orientaciones para leer los patrones de uso de la IA y guías para el profesorado.
 
 ## Para quién es
 

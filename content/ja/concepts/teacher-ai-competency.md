@@ -101,6 +101,7 @@ ai_assist:
 - **参加の実績は伸びを予測するが、参加しているという実感は予測しない。** 同じ6か月のプログラムの中で、出席率がリテラシーの伸びを予測しました(β = .407, p = .001)が、自己認識される参加は予測しませんでした(β = .049, p = .692)。そして専門分野、教育経験、職位はほとんど説明しませんでした。著者らは出席を行動的な投資、知覚される参加を表層的な関与として読みます([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]])。
 
 - **価値は領域固有のプログラムでもスキルに遅れる。** 香港の英語教師30人を対象とした1年間のプログラムでは、マルチモーダルな評価戦略の知識が 3.13 から 4.15(5点中、部分 η² = 0.571)に、学生を支える力量が 3.05 から 3.98(0.482)に上昇し、いずれも有意でしたが、価値のすべての下位領域は Bonferroni 補正された α = .006 のもとで統計的に平坦なままでした。教師はこの伸びを、ワークショップだけではなく校内での共同計画と学校間のクラスター会議に帰しました([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang 他, 2026]])。
+- **マイクロラーニングは大学教員のAIコンピテンシーを発達させうる。** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]]は、2回のオンラインでの集団討議を経て、職業教育の2つのモジュールを5つのデザイン原則——明確な構造と見通し、指導とナビゲーションの支援、分割とモジュール化、マルチモーダルな提示、学習者の活性化——に洗練させ、プラットフォームのナビゲーションとモジュールの所在の発見が主な実践的な障壁であることを見出しました。
 
 ## 教師の AI リテラシーと変容する教師の役割
 
@@ -191,4 +192,5 @@ AI が日常的な指導と評価の作業を引き受けるにつれて、教�
 - [[teachers-configure-educational-chatbots-2026]] — 意図通りに教えるだろうか:教師は教育用 AI チャットボットをどう設定するか
 - [[capability-decision-model-teacher-readiness-2026]] — パフォーマンスに基づく能力指標を伴う、能力優先の順序づけられた教師の準備の程度のモデル
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — 1,405人の K-12 教師の横断的な調査:準備の程度は肯定的な信念を予測するが懸念は予測しない
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Designing Microlearning Modules on AI for University Teachers in Vocational Teacher Education: A Design-Based Research Study
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — TALIS 2024 の4つの教師の信念プロファイルは専門的な学びとプロファイル固有の障害を AI の利用に結びつける

@@ -150,3 +150,4 @@ El pensamiento crítico se cruza con el [[scaffolding|andamiaje]] (diseñar apoy
 - [[genai-dependence-research-creativity-2026]] — La dependencia de la IA generativa se asocia positivamente con el pensamiento crítico en 1.157 estudiantes de posgrado
 - [[genai-use-critical-thinking-moderation-2026]] — El uso de IA generativa y el pensamiento crítico a través de la alfabetización en retroalimentación, con una vía directa solo para el estudiantado menos reflexivo
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 personas expertas: el pensamiento crítico carga con la mayor calificación de disrupción del informe (media 4,00)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Síntesis de los diez estudios más citados sobre alfabetización en IA en la educación STEM (Hallström et al. 2026)

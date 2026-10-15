@@ -69,6 +69,7 @@ ai_assist:
 - **教師の計画のための役割ベースのテンプレートと質のルーブリック。** [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir（2025年）]]は、子どものSTEAMアートの[[curriculum-design|授業計画]]のためのプロンプトの枠組みを実証的に開発しています。役割（R）– 教示（I）– 最終目標（E）のテンプレート（RISENを改変したもの）を、「四点一線」の最適化ルーブリック — 標準化され、実践的で、興味を引く、完全であること、拡張の次元 — と組み合わせています。ルーブリックをプロンプトの批判と洗練に適用することで、生成された計画は実践中の美術教師にとって許容できるものに保たれ（平均評価は4/5以上）、一方で、一括生成では対処されないままだった繰り返される欠陥（[[personalized-learning|個別化]]、[[pedagogical-safety|子どもの安全]]の制約、文化的偏見）が露わになりました。プロンプトのテンプレートと明示的な評価基準とが、教室での生成のための質管理の足場として機能することを示しています。
 
 - **独立変数としての役割と制約の設計。** [[wang-teacher-student-centered-agents-physics-2026|Wang et al.（2026年）]]は、同じモデルとプラットフォーム上に、temperature 0.3で構築された二つのエージェントを比較しています。唯一の違いは、プロンプトがどう役割、技能、制約を指定するかです。一方は、限られた教科書の知識源から答える専門家の教師エージェントで、もう一方は[[misconceptions|誤概念]]を診断し理解を確かめるよう脚本された、共感的で生徒中心のエージェントです。役割の違いだけで、学習の成績、認知的負荷、フロー体験、知覚された共感性が変化し、役割の指定が、様式上の飾りではなく、測定可能な効果を持つ教示設計上の決定であることを示しています（[[pedagogical-agent]]）。
+- **評価設計としてのプロンプティング。** [[ecd-prompts-automated-essay-scoring-2026|Xiong et al.（2026年）]]は、Evidence-Centered Designの学生モデル、証拠モデル、課題モデルを、採点のプロンプトの各部分に対応づけ、5つの原則——意図性、追跡可能性、説明責任、反復、公平性——を導き出します。彼らのECDで構築されたプロンプトは、物語の小論文を、ゼロショット、少数ショット、思考の連鎖のベースラインよりも正確に採点しました。
 
 ### より広い概念とのつながり
 
@@ -98,6 +99,7 @@ ai_assist:
 - [[ai-technologies]] — 包括的概念: AI技術と手法（モデル、LLM訓練、ロボティクス、RAG、エージェント型）
 
 ## 関連する記事
+- [[ecd-prompts-automated-essay-scoring-2026]] — Using Evidence-Centered Design to Guide Prompt Engineering in Measurement: An Illustration with Automated Essay Scoring
 - [[wang-teacher-student-centered-agents-physics-2026]] — 物理の学習における設計変数としてのエージェントの役割と制約のプロンプト（Wang et al. 2026年）
 - [[gpt-item-generation-l2-listening-2026]] — GPTによるL2リスニング項目生成におけるプロンプトとファインチューニング（Aryadoust & Wong 2026年）
 - [[llm-interaction-depth-task-quality-recall-2026]] — 生徒が何を問うかが重要: LLMとの関わりの深さ、課題の質、即時の再生（Tsiligkiris 2026年）
