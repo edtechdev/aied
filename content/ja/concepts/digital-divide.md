@@ -8,7 +8,7 @@ foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-10-04T16:06:05-04:00"
+source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,8 @@ ai_assist:
 - **公平性の機構としてのAIリテラシー:**[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL枠組み]]は、第2・第3水準の隔たりに対処するために明示的に設計され、教育のすべての段階にわたって公平なAIリテラシーのための、足場かけされた年齢に依存しない経路を提供し、AIリテラシーは公平性と参加から切り離せないという論拠に根ざしています。
 
 - **政策とインフラ:**[[oecd-digital-education-outlook-2026|OECDデジタル教育展望2026]]は、デジタルデバイドを国家の[[educational-policy-ai|教育政策]]の中に位置づけ、デジタル技術とAI技術へのアクセスがどう異なり、制度が格差を埋めるために何ができるかを検討します。
+
+エッジ推論への転換は、第1水準の隔たりにハードウェアの次元を加えます。チュータリングがクラウドではなくブラウザで実行されるとき — WebLLMによる[[browser-sized-agents-slm-webllm-tutor-2026|ブラウザ常駐型のSLMチューター]] — 購読料の障壁は消えますが、能力の障壁がそれに取って代わります。一般消費者向けのノートPCでは、同じシステムが試行ごとに約180秒を要し、遠隔APIでは10〜58秒でした。そしてChromebookクラスの端末は8Bのモデルがまったく実行できません。最新のハードウェアを持つ学生は速くシームレスな生成を得る一方、古い端末の学生は遅延やメモリの枯渇に直面します。したがって、ローカルで安価であることは、そもそも公平であることと同じではないのです。
 
 - **責任ある利用と[[prompt-engineering|プロンプト]]リテラシー:**[[aaai2026-prompting-literacy-k12|K-12のプロンプトリテラシー研究]]は、学生にAIの[[conversational-ai|チャットボット]]を責任を持って使う技能を[[teacher-role|教える]]ことで第2水準の隔たりに対処し、アクセスだけでは[[ai-literacy|AIをうまく使う]]能力がもたらされないことを認識しています。
 - **言い回しの技能はそれ自体が第2水準の隔たりです。**MedQAでは、プロンプトの洗練度とともに精度が上がり(低リテラシーの言い回しで82.4%に対し専門家の言い回しで83.4%)、Prompt Equity Transformerは要求を等価でより明確な言い回しに書き換えることでその隔たりを埋め、効果的なプロンプトの負担を学習者からシステムへと移しました([[prompt-privilege-equitable-ai-access-2026|Jin他(2026)]])。

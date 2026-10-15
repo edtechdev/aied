@@ -82,6 +82,8 @@ ai_assist:
 
 対話エージェントは、単に質問に答えるためではなく、[[motivation|動機づけ]]と[[metacognition|メタ認知]]を支えるために選び、HCIに根ざした参加型の人間中心の相互作用に向けて設計しましょう。CAIを[[ai-literacy|AIリテラシー]]の教授と、学習者を認知的に生産的に保つ[[feedback]]と組み合わせることで、[[cognitive-offloading|過度の依存]]に対策を講じましょう。AIリテラシーと可用性に明示的に留意しましょう — 採用と非使用を駆動するのは、一般的なデジタル技能ではなくこれらです（[[colbran-student-perspectives-genai-chatbots-2026|Colbran、Jha & Schiavone 2026年]]） — そして、展開を明確なAI利用の方針、評定のラベル、訓練と組み合わせましょう。CAIを、課題の完了だけでなく教授学的な成果で評価し、エクイティと[[accessibility|アクセシビリティ]]を後付けではなく最初から計画しましょう。
 
+- **生徒が実際にどう対話エージェントに話しかけるか — 六つのカテゴリーからなる非関与の体系：** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]]は、苦労している中学生として位置づけられた（知識グラフ上のRAGで接地され、生徒の説明を批判するメンター・エージェントと対をなした）GPT-4-Turboのティーチャブル・エージェントをMath Nationの代数と幾何の授業に埋め込み、246名の生徒から5,522の発話を符号化しました。関与（発話の75.7%）を超えて、彼らはFalse Answering（虚偽の回答、12.8%）、Withholding（差し控え、8.9%）、Random/Noisy（無作為/雑音、2.1%）、Mirroring（模倣、0.6%）、Mocking（嘲り、0.3%）、Ghosting（消える、0.2%）を同定しました — Mirroring（エージェントのテキストを書き写すこと）はデータから帰納的に浮かび上がったものです。分類はヒューマン・イン・ザ・ループで行われました。二人の評定者によって注釈された1,682の発話（カテゴリーごとにκ = 0.704〜0.905）が、微調整されたLLaMA 3の分類器（保留されたスレッド上で加重F1 = 0.910）を訓練し、それが残り3,840の発話にラベルを付けました。過程水準の競合リスク分析は、その後、非関与の大半が数ターン内に解消する一方、Withholdingだけは持続することを示しました — それはエージェントの応答を設計する上で価値ある合図です。
+
 ## 関連する構成概念
 
 - [[intelligent-tutoring]]
@@ -123,6 +125,7 @@ ai_assist:
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[culturally-aware-student-stress-chatbot-2026]] — NLPと機械学習を用いたパキスタンの大学生のストレス検出と幸福の支援のためのAIを活用した文化的に意識したチャットボット
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AIと人間のチュータリングが同等のGRE学習の伸びを生む
+- [[rho-disengaged-conversational-behaviors-2026]] — 生徒とAIの対話における非関与的な対話の振る舞い（Rho et al. 2026）
 
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach：問題解決における的を絞ったAI援助要請の足場づけ
 

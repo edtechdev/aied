@@ -9,7 +9,7 @@ pedagogy: [metacognition, motivation, self-regulated-learning]
 technology: [generative-ai]
 assessment: [assessment]
 confidence: high
-source_updated: "2026-10-01T09:59:54-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_of: concepts/ai-misuse-learning-harm
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -47,6 +47,7 @@ AIの誤用はAIの利用とは区別されます。利用とは、AIを学習�
 - **松葉杖としての答えのコピー** — 誤用は、AIの誤りが学生を惑わすことよりも、学生が学ぶ代わりに答えをコピーすることから駆動されます。[[student-engagement|関与]]の分析で、学生が主に「答えを求める」ことが示されるとき、学習への害が続きます。
 - **動機の侵食** — 苦労しないAIの近道が利用できるという知覚は、[[self-determination-theory|自己決定理論]]によれば自律的な動機と粘り強さを減少させます。粘り強さは深い学習を生むものであるため、その侵食は直接的な害を増幅します。
 - **学習の置き換え** — 知識を固める努力を要する過程（精緻化、想起、自己説明）のAI出力への代替であり、[[cognitive-offloading|過度の依存]]と整合的です。
+- **混乱が意図として読まれる。** 教師が課題においてAIの意図された役割を名指さないとき、学生は最も容易なものによってそれを定義し、教員は生じた不整合を、一度も述べられなかった境界としてではなく、不正行為として読みます([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]])。
 
 ### 証拠基盤
 
@@ -69,6 +70,10 @@ AIの誤用はAIの利用とは区別されます。利用とは、AIを学習�
 - **生のアクセスよりも[[guardrails|ガードレール]]：** ヒントのみ・答えではない[[prompt-engineering|プロンプティング]]と教師が作成した[[scaffolding|足場かけ]]は、松葉杖効果を無力化します（[[generative-ai-guardrails-harm-learning]]参照）。
 - **[[assessment|評価設計]]：** AIに強い評価と監督下・支援のない評価は、誤用を表面化させ — そして抑制する — ために必要です。
 - **リテラシーとメタ認知：** 学生が自分の認知作業を迂回する依存の様態とコストを認識する助けとなる[[ai-literacy|AIリテラシー]]と[[self-regulated-learning|自己調整学習]]の訓練。
+
+### LLM時代における対話的な非関与
+
+ゲームに対するシステムを出すこと(ヒントの濫用、組織的な当て推量)の文献には、対話の時代に相当するものがあります。すなわち、対話的な非関与です。エージェントを嘲ること、意図的に間違って答えること、それから黙って消えること、そのテキストを写すこと、あるいは応答を差し控えること。[[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]]は、この現象を学生とAIの対話において初めて組織的に扱い、その中心的な教訓は警鐘的ではなく解釈的です。非関与的な*発話*は相互作用上の身ぶるまいであって、安定した非関与の状態ではありません。False Answeringの事後テストスコアとの見かけの関連は、人間による注釈を伴う感度分析に耐えませんでした。そして著者らは、それをしばしば関与へと戻る軌道の*内部*での探りとして読みます(最も成績の高いクラスターはp = 0.42で回復しました)。実際に軌道を分けた行動はWithholding、すなわち応答の拒否であり、それは解消されるのではなく持続したのです。設計者にとって、これは通常の優先順位を逆転させます。騒々しく目に見える非関与はしばしば自己修正的ですが、静かな撤回は相互作用が崩壊したことを告げる合図なのです。
 
 ## 関連概念
 
@@ -100,3 +105,5 @@ AIの誤用はAIの利用とは区別されます。利用とは、AIを学習�
 - [[academic-erasure-complexity-ai-writing-2026]] — 学問的な消去：AI支援の執筆における複雑さの消失
 - [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI依存は自己効力感と教師の支援から学習の燃え尽きへの経路を完全に媒介する（Huang et al. 2026）
 - [[uneven-impact-generative-ai-student-learning-2026]] — 早期の依存は負の影響を予測し、認知的依存は肯定的影響を予測し、評価リテラシーは先にAIを相談することの害を緩和するのではなく強める（Manikonda et al. 2026）
+- [[rho-disengaged-conversational-behaviors-2026]] — 学生とAIの対話における非関与的な対話の振る舞いと学習（Rho et al. 2026）
+- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: A Practical Approach to Teaching with Artificial Intelligence

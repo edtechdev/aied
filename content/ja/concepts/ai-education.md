@@ -85,7 +85,7 @@ ai_assist:
 
 AIが指導と学習をどのように支えるかは、この分野の中心です。主要な概念は次のとおりです。
 
-- **中核となる教授法:** [[pedagogy|教授法と教育戦略]](ナレッジベースの教育方法の網羅の最上位概念)と、[[active-learning|アクティブラーニング]]、[[collaborative-learning|協調学習]]、[[group-work|グループワーク]]、[[project-based-learning|プロジェクトベース学習]]、[[problem-based-learning|問題基盤型学習]]、[[productive-failure|生産的失敗]]、[[inquiry-based-learning|探究型学習]]、[[experiential-learning|経験学習]]、[[game-based-learning|ゲームベース学習]]、[[learning-by-teaching|教えることによる学習]]、[[scaffolding|足場かけ]]、[[socratic-method|ソクラテス式問答法]]、[[critical-pedagogy|批判的教育学]]、[[pedagogical-partnerships|教育パートナーシップ]]、[[storytelling-in-education|ストーリーテリング]]、[[learning-design|学習設計]]、[[online-teaching-and-learning|オンライン教育と学習]]、[[video-education|教育における動画]]です。
+- **中核となる教授法:** [[pedagogy|教授法と教育戦略]](ナレッジベースの教育方法の網羅の最上位概念)と、[[pedagogical-patterns|教授のパターン]](それらの方法が行き着く検証された順序)、[[active-learning|アクティブラーニング]]、[[collaborative-learning|協調学習]]、[[group-work|グループワーク]]、[[project-based-learning|プロジェクトベース学習]]、[[problem-based-learning|問題基盤型学習]]、[[productive-failure|生産的失敗]]、[[inquiry-based-learning|探究型学習]]、[[experiential-learning|経験学習]]、[[game-based-learning|ゲームベース学習]]、[[learning-by-teaching|教えることによる学習]]、[[scaffolding|足場かけ]]、[[socratic-method|ソクラテス式問答法]]、[[critical-pedagogy|批判的教育学]]、[[pedagogical-partnerships|教育パートナーシップ]]、[[storytelling-in-education|ストーリーテリング]]、[[learning-design|学習設計]]、[[online-teaching-and-learning|オンライン教育と学習]]、[[video-education|教育における動画]]です。
 - **学習理論と学習プロセス:** [[learning-theories|学習理論]]の最上位概念([[behaviorism|行動主義]]、[[cognitive-psychology|認知主義]]、[[constructivist|構成主義]]、[[sociocultural-learning|社会文化的学習]]、[[distributed-cognition|分散認知]]、[[situated-learning|状況的学習]]、[[embodied-learning|身体化された学習]]、[[community-of-inquiry|探究共同体]])は、学習者に向き合うプロセス、すなわち[[self-regulated-learning|自己調整学習]]、[[self-determination-theory|自己決定理論]]、[[motivation|動機づけ]]、[[self-efficacy|自己効力感]]、[[self-directed-learning|自己主導学習]]、[[metacognition|メタ認知]]、[[desirable-difficulties|望ましい困難]]、[[transfer-of-learning|学習の転移]]、[[prior-knowledge|事前知識]]、[[icap-framework|ICAP認知エンゲージメント]]、[[refutation-text|反駁テキスト]]、[[retrieval-spacing-interleaving|検索練習・分散・インターリービング]]、[[activity-theory-aied|活動理論]]と並びます。
 - **学習者のエンゲージメントと経験:** [[student-engagement|学生エンゲージメント]]、[[help-seeking|援助要請]]、[[social-emotional-learning|社会情動的学習]]、[[well-being|ウェルビーイング]]、[[creativity|創造性]]、[[problem-solving|問題解決]]、[[mastery-learning|完全習得学習]]、[[student-ai-interaction|学生とAIの相互作用]]が、学習者が実際にAIとどう出会い、どう影響を受けるかを形づくります。そして[[social-norms-ai-use|AI利用をめぐって定着する社会的規範]]が、それをどれだけ率直に議論できるかを決めます。コースを超えて、[[student-support-and-success|学生の支援と成功]]は制度的側面の仕事——指導、働きかけ、紹介、そして配分——を扱います。
 
@@ -118,6 +118,8 @@ AIは、学習者をどう評価するかと、AIシステムそのものをど�
 AIが機能するかどうかをどうやって知るかは、それ自体が一つの系統であり、ナレッジベースもそう扱っています。
 
 - **研究方法:** 最上位概念としての[[research-methods-aied|AIEDの研究方法]]があり、[[qualitative-research|質的]]、[[quantitative-research|量的]]、[[mixed-methods-research|混合]]、[[design-based-research|デザインに基づく]]、[[usability-research|ユーザビリティ]]の各アプローチ、さらに[[rct|ランダム化比較試験]]、[[meta-analysis-systematic-review|メタ分析と系統的レビュー]]、[[network-analysis|ネットワーク分析]]があります。
+
+この分野自身の研究作業は、今やそれ自体が一つの主題となっています。[[ai-assisted-educational-research|AI支援による教育研究]]は、文献検索、スクリーニング、質的な符号化、分析、執筆の道具としてのAIを扱います。教育と学習の学術研究(SoTL)のような実践者による研究も含めてです。これは、AIが学習者に何をするかを研究するために用いられる設計とは区別されたままです。
 - **AIシステムの検証:** システムの能力を判断するための[[ai-ed-evaluation|教育AIの検証]]と[[benchmark|ベンチマーク]]があり、重要となる成果としての[[learning-gains|学習効果]]、そして警戒のための重しとして、この根拠の[[limitations-in-aied-research|横断的な限界]]と[[interpreting-and-applying-aied-research|1つの研究をどう読むか]]があります。
 
 ## 人々
@@ -191,13 +193,8 @@ AIが機能するかどうかをどうやって知るかは、それ自体が一
 
 教育におけるAIに関する分野全体のレビュー。1つのトピックではなく、分野全体あるいはある教育段階全体を概観する研究です。
 
-- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
-- [[raza-farooq-aied-review-2020-2025]] — Review of Artificial Intelligence in Education from 2020 to 2025
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
 - [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
-- [[liang-genai-systematic-review-human-ai-2026]] — Generative AI in education: systematic review of 56 empirical studies
 - [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
 - [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
-- [[caruana-pre-university-ai-education-slr-2026]] — Pre-university AI education: systematic literature review of 42 studies
 - [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
-- [[caeai-ai-companions-learning-over-performance-2026]] — a research agenda for AI companions built around learning rather than performance

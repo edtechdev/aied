@@ -148,3 +148,4 @@ La collaboration humain-IA se rattache à [[human-in-the-loop-ai]] (supervision)
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — Cinq types d'interdépendance entre l'étudiant et l'IA générative, et pourquoi ceux qui distribuent l'auctorialité restent marginaux (Sun, Dohn & Rehm 2026)
 
 - [[teacher-ai-collaboration-work-engagement-2026]] — Les voies opposées par lesquelles la collaboration enseignant–IA mène à l'engagement au travail, via la disponibilité psychologique et l'aliénation au travail, bornées par la compétence numérique
+- [[wang-agentic-translation-education-2026]] — Protocole de conception réorientant la formation des traducteurs vers les compétences d'orchestration de l'IA, de jugement stratégique et d'évaluation critique (pas encore de données empiriques)

@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-10-04T10:52:53-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -220,3 +220,4 @@ Le rôle enseignant et l'[[learner-identity|identité de l'apprenant]] sont les 
 - [[kuhail-great-debaters-ai-facilitators-2026]] — Human versus AI debate moderators: equivalent ratings, different routes to reuse
 - [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI in programming education: a systematic review in which instructor roles are least studied
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — From information providers to learning designers: heutagogical teaching practices in AI-enhanced education
+- [[etq-ai-conversational-teacher-training-2026]] — Diagnostic conversationnel par IA des conceptions erronées en enseignement, par un dialogue fondé sur les preuves (Miranda & Calvani 2026)
