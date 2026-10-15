@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: medium
 reviewed_by: [editor]
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -127,3 +127,4 @@ ai_assist:
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — семестр доступу до ШІ залишив критичне мислення без змін; рефлексивне використання його передбачало (Melanou et al. 2026)
 - [[genai-dependence-research-creativity-2026]] — залежність від генеративного ШІ позитивно асоціювалася з критичним мисленням у 1 157 студентів аспірантури
 - [[genai-use-critical-thinking-moderation-2026]] — від використання генеративного ШІ до критичного мислення через грамотність у питаннях зворотного зв’язку, з прямим шляхом лише для менш рефлексивних студентів
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — синтез десяти найчастіше цитованих досліджень із ШІ-грамотності в STEM-освіті (Hallström et al. 2026)

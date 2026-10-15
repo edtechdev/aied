@@ -8,7 +8,7 @@ connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/feedback
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -209,3 +209,4 @@ LearnLens перетворює цю медіацію на механізм: ві
 - [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Що переробка робить із позицією письменника: зворотний зв’язок рівесників робить аргументативні есеї більш контрактивними, а переробка ШІ зберігає рівновагу Contract/Expand (Zhao & Ji 2026)
 - [[xu-automated-feedback-tutor-training-2025]] — Покращення автоматизованих систем зворотного зв’язку для навчання репетиторів у сценаріях з низькою кількістю ресурсів через посилення даними (Xu et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — конверсаційний ШІ-діагностикум для виявлення педагогічних місконцепцій із діалогом, що спирається на докази (Miranda & Calvani 2026)
