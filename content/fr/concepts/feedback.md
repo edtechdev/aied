@@ -8,7 +8,7 @@ assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, fe
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -137,6 +137,8 @@ Un modèle à deux couches montre comment l'appariement peut être organisé aut
 
 La rétroaction est l'un des mécanismes les plus conséquents et les mieux étayés de l'éducation, et l'IA l'amplifie et le complique tout à la fois. Une rétroaction par l'IA bien architecturée peut égaler ou dépasser la rétroaction humaine et se déployer à l'échelle de cohortes entières, mais elle exige de nouvelles capacités de la part des apprenants ([[feedback-literacy|littératie en rétroaction]], [[ai-literacy|littératie en IA]]) et porte des risques (acceptation acritique, [[cognitive-offloading|sur-dépendance]]). À mesure que la rétroaction générée par l'IA devient omniprésente, la base de connaissances conçoit la rétroaction comme un système entier — qualité, boucle, littératie et contexte d'évaluation agissant de concert — plutôt que comme une composante unique.
 
+- **La rétroaction peut cibler celui qui la donne.** La formation des tuteurs est un contexte de rétroaction peu exploré : des systèmes automatisés qui étiquettent séquentiellement les réponses ouvertes des tuteurs pour signaler les types d'éloges (éloge fondé sur l'effort — la variété souhaitable, axée sur le processus — contre éloge fondé sur le résultat contre éloge fondé sur la personne, la variété la moins souhaitable, qui attribue des traits) peuvent délivrer une rétroaction explicative qui change le comportement de tutorat. La contrainte liante est constituée par les données étiquetées par des experts. Une approche par augmentation — GPT-4o génère des réponses étiquetées synthétiques, faisant passer un ensemble peu doté de 13 instances à 520, puis affine GPT-3.5 — récupère l'essentiel de l'écart : F2 +20,5% sur l'éloge fondé sur l'effort, +17,3% sur l'éloge fondé sur le résultat, et +16,5% sur la catégorie *inédite* de l'éloge fondé sur la personne. Le test de généralisation à un type d'éloge inédit est le contrôle de validité qui distingue ce résultat d'un surapprentissage, et le mécanisme est plus proche de la distillation d'un modèle enseignant que de l'augmentation classique. ([[xu-automated-feedback-tutor-training-2025]])
+
 ## Concepts liés
 
 - [[pedagogical-patterns]] — Les séquences de rétroaction testées, y compris pourquoi une rétroaction par l'IA de meilleure qualité n'a pas produit davantage de révision
@@ -206,3 +208,5 @@ La rétroaction est l'un des mécanismes les plus conséquents et les mieux éta
 - [[nazaretsky-feedback-source-bias-2025]] — Who gives feedback matters: source labels shift ratings when the text is held comparable (Nazaretsky et al. 2025)
 - [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — What a revision does to the writer's stance: peer feedback turns argumentative essays more contractive, AI revision keeps the Contract/Expand balance (Zhao & Ji 2026)
+- [[xu-automated-feedback-tutor-training-2025]] — Améliorer les systèmes de rétroaction automatisée pour la formation des tuteurs dans des scénarios peu dotés, par augmentation des données (Xu et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Diagnostic conversationnel par IA des conceptions erronées en enseignement, par un dialogue fondé sur les preuves (Miranda & Calvani 2026)

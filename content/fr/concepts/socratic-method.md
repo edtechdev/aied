@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -164,3 +164,4 @@ La méthode socratique est étroitement liée au [[scaffolding|étayage]] (fourn
 - [[lftutor-logical-fallacy-education-2026]] — Questionnement socratique et argumentation critique dans un cadre de tutorat des sophismes en quatre étapes
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
 - [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
+- [[etq-ai-conversational-teacher-training-2026]] — Diagnostic conversationnel par IA des conceptions erronées en enseignement, par un dialogue fondé sur les preuves (Miranda & Calvani 2026)

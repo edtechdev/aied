@@ -10,7 +10,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-13T11:30:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ ai_assist:
 
 ### 機関の変革
 
-[[institutional-change-framework-ai|機関変革の枠組み]]は、大学がAIにどう適応するかを分析します。教室レベルだけでなく、方針、ガバナンス、組織構造を横断してです。[[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AIフレームワーク]]は、教員の対応力を、認識論的・教授法的・制度的・質保証の各領域に関わる社会技術的な整合の課題として捉え直します。[[universities-ai-era-rethinking|AI時代における大学の再考]]は、現在の機関モデルがAI駆動の教育を受け入れられるかどうかを検討します。導入は一様ではありません。[[alrahmi-org-drivers-ai-adoption-he-2026|組織的推進要因の研究]]は、機関による導入を可能にするものと阻むものを特定し、[[ai-uk-higher-education-policy-2026|国の政策の分析]]は、制度的な文脈が大学の対応をどう形づくるかを示します。具体的な機関の青写真は[[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]]から得られます。同氏は嶺南大学が「デジタル時代における研究集約的なリベラルアーツ教育機関」として再定位したことを記録し、全学部生にGenAIリテラシーを必修とし、デジタルリテラシーをコアカリキュラム全体に埋め込みながら、[[ethics|倫理]]的な推論と批判的な判断を前面に出すヒューマン・イン・ザ・ループモデルを発展させました。そして教育のためのAIへの転換は技術中心の増強ではなく知的な変革であると論じています。22件の高等教育AI統合介入のマクロレベルのマッピング([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikhら、2026]])は、変革が相変わらず現実よりも願望の側にあることを裏づけます。[[samr-model|SAMRモデル]]で評価すると、ほとんどの介入は置き換え(S)か拡張(A)の水準にあり、統合は[[medical-education|医学]]、工学、[[cs-education|情報科学]]に集中し、[[humanities-education|人文科学]]の存在はほとんどありません。また、根拠は北米とアジアに偏り、[[global-south|グローバルサウス]]の例は最小限です。
+[[institutional-change-framework-ai|機関変革の枠組み]]は、大学がAIにどう適応するかを分析します。教室レベルだけでなく、方針、ガバナンス、組織構造を横断してです。[[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AIフレームワーク]]は、教員の対応力を、認識論的・教授法的・制度的・質保証の各領域に関わる社会技術的な整合の課題として捉え直します。[[universities-ai-era-rethinking|AI時代における大学の再考]]は、現在の機関モデルがAI駆動の教育を受け入れられるかどうかを検討します。導入は一様ではありません。[[alrahmi-org-drivers-ai-adoption-he-2026|組織的推進要因の研究]]は、機関による導入を可能にするものと阻むものを特定し、[[ai-uk-higher-education-policy-2026|国の政策の分析]]は、制度的な文脈が大学の対応をどう形づくるかを示します。具体的な機関の青写真は[[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]]から得られます。同氏は嶺南大学が「デジタル時代における研究集約的なリベラルアーツ教育機関」として再定位したことを記録し、全学部生にGenAIリテラシーを必修とし、デジタルリテラシーをコアカリキュラム全体に埋め込みながら、[[ethics|倫理]]的な推論と批判的な判断を前面に出すヒューマン・イン・ザ・ループモデルを発展させました。そして教育のためのAIへの転換は技術中心の増強ではなく知的な変革であると論じています。22件の高等教育AI統合介入のマクロレベルのマッピング([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikhら、2026]])は、変革が相変わらず現実よりも願望の側にあることを裏づけます。[[samr-model|SAMRモデル]]で評価すると、ほとんどの介入は置き換え(S)か拡張(A)の水準にあり、統合は[[medical-education|医学]]、工学、[[cs-education|情報科学]]に集中し、[[humanities-education|人文科学]]の存在はほとんどありません。また、根拠は北米とアジアに偏り、[[global-south|グローバルサウス]]の例は最小限です。世界的な比較の指標が、言論と構造の隔たりを測定します。[[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]は、Times Higher Education 2026年版のランキングに入ったすべての大学100校の公式ウェブサイトを、20指標からなるAI Institutionalization Indexに対して符号化しました。象徴的な層は飽和している一方、構造的な層は薄いのです。100%がAIのタスクフォースと修士レベルのAIの学位プログラムを持っていますが、執行層のAIのリーダーシップを持つのは12%のみ、学部生に導入のAIの履修を課しているのは5%のみ、そしてAIのアクセシビリティ方針を公表しているのは0%です。93%がAI駆動のキャンパスサービスを展開しているにもかかわらず、です。
 
 ある機関がどのような形態のGenAI利用を正統なものとして認めているかは、それ自体測定可能です。[[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn, Rehm (2026)]]は、102件の高等教育実証研究を、学生とシステムの間で認識論的な作業がどう分配されたかによって分類し、Assistant(42.16%)とEnabler(42.16%)の応用が卓越する一方、Generator、Reimaginator、Synthesizerを合わせてもコーパスの5分の1未満であることを見いだしました。モデルが残りをできないからではなく、周辺的な形態が著作を、大学の「個人の能力」という論理がまだ認めないかたちで分配してしまうからです。彼らの説明によれば、高等教育におけるGenAIへの拘束条件は技術的な能力ではなく制度的な正統性であり、この問いは[[academic-integrity|誠実性]]と[[assessment]]改革と同じ方針・評価再設計の領域に正面から据えられます。
 
@@ -133,3 +133,4 @@ ai_assist:
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — 感情分類から実行可能で責任あるフィードバックへ:教育における学生評価のNLPのスコーピングレビューと証拠マップ、2015–2026
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — AssistantとEnablerの形態が高等教育のGenAI研究を支配する。周辺的な絡み合いの類型は制度的な理由で稀なまま(Sun, Dohn & Rehm 2026)
 - [[students-at-stake-ai-deployment-risks-2026]] — 入試、奨学金、学生サービス、教育の提供にわたるAI展開の学生側のマップと4つの調達審査の問い(Student Defense 2026)
+- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026):100校の上位ランキング大学にわたるAI Institutionalization Index。言論は構造を追い越し、導入は威信とは無関係

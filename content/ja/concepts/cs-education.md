@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-10-02T12:40:11-04:00"
+source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,9 @@ ai_assist:
 - **理論的なCSのための検索拡張の支援は非同期の学習にのみ適合する。** AlgoRAGは、教員が執筆した179問すべての試験問題を240秒のタイムアウト内で解答し、平均で各38.0秒でした。そしてその集合にわたるBLEU-4が0.0000であることは、数学的な証明に対するn-gramの照合の性質であり、システムの失敗ではありません（[[algorag-rag-theoretical-cs-education-2026|Adhikari（2026年）]]）。
 
 - **導入は課題を追い下位分野を追わない。** 七つの課題と211名の生徒にわたって、[[student-llm-use-cs-subfields-2026|Nizamani et al.（2026年）]]は、アルゴリズムで89.6%からソフトウェア工学で15.2%までのLLMの利用を測定し、その広がりを課題そのものではなく、課題の複雑さ、検証可能性、そして足場づけに帰しています。
+
+- **この分野が収束しつつあるのは、ブラウザ常駐型のツール増強チューターという構造です。** ツール増強型のSLM設計は、小さく微調整されたプランナー(1B〜7B)を四つの決定論的な道具 — コードの実行者、テストのランナー、文書の検索器、[[knowledge-tracing|知識追跡]]のモジュール — と、四層のエスカレーション方策(まず道具、次に端末上のSLM、同意を得たクラウドLLM、最後に教員)の背後に組み合わせます。これにより、教授的な統制をモデルから監査可能な方策へと移します。予備的な約1.5億パラメータの補完モデルは10.97%のHumanEval pass@1に達し、いくつかの1億〜1.5億のコードのベースラインを上回ります([[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]])。
+- **小さく微調整されたチューターは、より大きな汎用モデルよりもよく足場を打ちうる。** 1,213件の合成されたチュータリングの対話でQwen2.5-Coder-7B-Instructを微調整することで、チューターの発話のうち解法を時期尚早に開示する割合を7.43%から1.88%に減らし、段階的な足場づけとデバッグの質問の質をGPT-4oの水準以上に高めました。ただし、信頼できる教授的な計画の生成は未解決のままでした([[socraticrepair-program-debugging-2026|Kopytskyi et al. (2026)]])。
 
 - **フィードバックは診断を隠したまま段階づけられうる。** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas（2026年）]]は、生徒のデータベース・スキーマの成果物に基づく診断を、それを開示するワークフローから切り離し、教育者が段階を執筆します。383のエピソードにわたって、フィードバックの71.1%がその標的の水準に届きました。
 
@@ -203,3 +206,5 @@ CS教育は[[computational-thinking|計算論的思考]]、[[stem-education]]、
 - [[llm-graders-computer-science-exams-2026]] — LLMの評定者が成功し壊れる場所：二つのコンピュータ・サイエンスの試験からの証拠
 - [[student-llm-use-cs-subfields-2026]] — 211名の生徒にわたってアルゴリズムで89.6%からソフトウェア工学で15.2%までのLLMの採用、課題を追い下位分野を追わない
 - [[educator-guided-llm-pedagogical-agent-2026]] — 概念的なデータベース設計のための教育者が執筆した段階的なフィードバック：隠された診断、制御された開示、383のエピソードにわたって71.1%が標的の水準
+- [[socraticrepair-program-debugging-2026]] — SocraticRepair: Planning-Guided Socratic Tutoring for Program Debugging and Misconception Repair
+- [[browser-sized-agents-slm-webllm-tutor-2026]] — Browser-Sized Agents: Small Language Models and WebLLM for Tool-Augmented AI-Assisted Programming Education

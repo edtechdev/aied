@@ -11,7 +11,7 @@ assessment: [feedback]
 confidence: high
 connected_resources: [onmicro-ai]
 translation_of: concepts/scaffolding
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -149,3 +149,4 @@ La distinction étayage guidé par règles ou étayage ad hoc dépasse le tuteur
 - [[genai-cognitive-scaffold-geometric-reasoning-2026]] — L'IA générative comme étayage par formulation qui fait le pont de l'intuition visuelle à la démonstration déductive en géométrie, là où la visualisation seule est insuffisante (Davor 2026)
 - [[guided-ai-tutor-impasse-resolution-2026]] — Examen de la variation dans la manière dont les tuteurs d'IA guidés résolvent les impasses des étudiants
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — Former l'apprenant comme étayage de l'usage de l'IA générative dans la résolution de problèmes en STIM (Huang et coll. 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Diagnostic conversationnel par IA des conceptions erronées en enseignement, par un dialogue fondé sur les preuves (Miranda & Calvani 2026)

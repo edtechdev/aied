@@ -8,7 +8,7 @@ technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-
 pedagogy: [scaffolding, socratic-method]
 reviewed_by: [editor]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,7 @@ Le traitement automatique du langage en éducation applique des méthodes comput
 - **La curation à l'échelle du corpus pour les données de pré-entraînement.** [[garrod-edu-qurating-educational-data-curation-2026|Garrod et al. (2026)]] remplacent un unique score « est-ce éducatif ? » par vingt dimensions de grille inspectables — exactitude factuelle, structure pédagogique, adéquation au niveau et critères de littératie fondamentale, entre autres — et distillent les préférences par paires de GPT-4.1-mini en Edu-QuRaters réutilisables qui recouvrent les préférences des juges hors échantillon à une exactitude moyenne de 0.917, puis étiquettent les 322.25M lignes de FineWeb-Edu-Fortified, où les mélanges filtrés ont élevé l'exactitude sur les [[benchmark|repères]] en aval au-dessus de la référence FineWeb-Edu. Cela marque un rôle pour le TAL éducatif au-delà de l'analyse du langage que produisent les apprenants : le filtrage du texte pédagogique sur lequel d'autres modèles sont entraînés.
 - **Le codage auditable en séparant les assertions de l'interprétation.** [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] remplacent l'interrogation à étiquette unique par un schéma de 221 assertions lisibles par l'humain — 74 dérivées du corpus, 48 dérivées des construits et 100 contrôles automatiques de présence de mots — qu'un classifieur transparent projette sur l'étiquette de construit, atteignant un macro-F1 de 0.673 et un κ de Cohen de 0.688 sur le corpus de discours enseignant TalkMoves, contre un maximum publié de 0.61 de macro-F1 et 0.58 de κ pour l'interrogation directe, tout en restant derrière un classifieur RoBERTa-base ajusté à 0.76. Exiger un α de Krippendorff ≥ 0.5 n'a conservé que 33 des 74 assertions dérivées du corpus, et une référence fondée sur les seuls mots a obtenu 0.339 de macro-F1 : le gain vient donc d'assertions comportementales apprises plutôt que de la fréquence des mots-clés.
 - **L'étiquetage des concepts à l'échelle.** [[srjudge-knowledge-concept-tagging-2026|Yang et al. (2026)]] scindent l'étiquetage des concepts de connaissance en un pipeline Select–Reason–Judge — un petit modèle présélectionne les concepts candidats, le LLM raisonne sur la présélection, puis juge — ce qui élève l'exactitude de l'étiquetage sur trois repères en rétrécissant l'espace de décision du modèle.
+- **Les feuilles de réponses manuscrites résistent aux analyseurs existants.** Les dérivations sur plusieurs lignes, la prose et les formules entremêlées, les tableaux dessinés à la main, et le bruit provenant des ratures et des effacements échappent aux référentiels de documents imprimés et d'expressions isolées ; c'est pourquoi le jeu de données HANS, constitué de véritables feuilles de mathématiques de classe de huitième — 5 213 images de réponses issues de 745 élèves, couvrant 18 types de problèmes —, annote ce bruit et soutient un modèle de suppression du bruit qui améliore la reconnaissance ([[hans-handwritten-answer-sheet-parsing-2026|Wu et al. (2026)]]).
 
 ### Lien avec le tutorat et la mesure
 
@@ -97,3 +98,4 @@ La compression de modèles appartient à la même boîte à outils : un pipeline
 - [[bloom-classifier-ai-assisted-questions-2026]] — Évaluation de modèles pré-entraînés pour l'évaluation pédagogique de nouvelles questions éducatives assistées par l'IA
 - [[srjudge-knowledge-concept-tagging-2026]] — SRJudge : un pipeline de raisonnement sélectif pour l'étiquetage fin des concepts de connaissance
 - [[nlp-reading-lists-dental-education-2026]] — Traitement automatique du langage pour aligner les lectures sur les objectifs d'apprentissage et évaluer l'équilibre thématique en éducation dentaire
+- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS : un jeu de données de feuilles de réponses manuscrites pour l'analyse de documents hybrides bruyants
