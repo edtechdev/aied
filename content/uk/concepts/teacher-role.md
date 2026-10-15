@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/teacher-role
-source_updated: "2026-10-04T10:52:53-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -229,3 +229,4 @@ ai_assist:
 - [[yalcin-genai-programming-education-systematic-review-2026]] — Генеративний ШІ в освіті з програмування: систематичний огляд, у якому ролі викладачів досліджені найменше
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — Від постачальників інформації до проєктувальників навчання: heutagogічні практики викладання в освіті з розширенням від ШІ
 - [[falhs-teacher-expertise-reflection-2025]] — «How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment» (Falhs та співавт. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — конверсаційний ШІ-діагностикум для виявлення педагогічних місконцепцій із діалогом, що спирається на докази (Miranda & Calvani 2026)

@@ -52,6 +52,7 @@ Mapitio ya wigo ya mwaka 2026 ya teknolojia za usaidizi za kidijitali [[ai-techn
 - **Linganisha zana na mwanafunzi na kazi.** Visomaji vya skrini, manukuu, hotuba, na matokeo ya kugusa kila moja hushughulikia vizuizi tofauti — chagua kulingana na mahitaji ya mtu na umbaji la maudhui.
 - **Tumia AI kupunguza gharama ya mabadiliko ya usaidizi.** AI inaweza kuweka manukuu kiotomatiki, kurahisisha maandishi, na kutengeneza mbadala, lakini tathmini ubora wa pato kwa usahihi wa kielimu.
 - **Weka upatikanaji kwenye sera.** Rejea Sheria ya Teknolojia ya Usaidizi, IDEA, na WCAG unaponunua au kujenga zana za AI.
+- **Taja kazi ambayo msaada unahudumia — na tathmini dhidi ya kazi hiyo.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] wanatofautisha fidia (inayotathminiwa kwa ufikivu na ushiriki) na ngazi za msaada (maamuzi yenye msaada) na maendeleo (matumizi ya mkakati baada ya kupungua au kuhamishwa). Wanaongeza kanuni inayolenga onyo la ukurasa huu: msaada wa ufikivu si urekebishaji — kama zana ni marekebisho, mafunzo ya mkakati, au msaada wa mazoezi ya muda \"inapaswa kutajwa katika mpango wa kujifunza.\"
 
 ## Dhana Zilizounganishwa
 
