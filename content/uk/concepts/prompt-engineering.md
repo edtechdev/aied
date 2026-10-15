@@ -12,7 +12,7 @@ confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 reviewed_by: [editor]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,7 @@ ai_assist:
 - **Шаблони на основі ролей та рубрики якості для планування викладачами.** [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir (2025)]] емпірично розробляють рамку підказок для планування уроків мистецтва STEAM для дітей [[curriculum-design|lesson planning]], що поєднує шаблон Role (R) – Instructions (I) – End Goal (E) (адаптований з RISEN) з оптимізаційною рубрикою «чотири пункти й одна лінія» — стандартизованість, практичність, залученість та повнота, плюс вимір розширення. Застосування рубрики для критики та вдосконалення підказок утримувало згенеровані плани прийнятними для практикуючих викладачів мистецтва (середні оцінки вище 4/5), водночас виявляючи повторювані прогалини ([[personalized-learning|personalization]], обмеження [[pedagogical-safety|child-safety]], культурне упередження), які звичайне складання підказок за один прохід залишало нерозглянутими, — показуючи, що шаблони підказок плюс явні критерії оцінювання функціонують як скаффолдинг контролю якості для генерації в аудиторії.
 
 - **Проєктування ролей та обмежень як незалежна змінна.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] порівнюють двох агентів, побудованих на тій самій моделі та платформі при температурі 0.3, чия єдина відмінність — те, як підказка специфікує роль, навички та обмеження: агент-експерт-викладач, що відповідає з обмеженого джерела знань підручника, проти емпатійного агента, зосередженого на студенті, що запрограмований діагностувати [[misconceptions]] та перевіряти розуміння. Саме відмінність ролі зрушила навчальну успішність, когнітивне навантаження, досвід потоку та сприйняту емпатію, показуючи, що специфікація ролі є рішенням навчального проєктування з вимірними ефектами, а не стилістичним розкішшям ([[pedagogical-agent]]).
+- **Складання підказок як проєктування оцінювання.** [[ecd-prompts-automated-essay-scoring-2026|Xiong et al. (2026)]] відображають студентську, доказову та завданьову моделі Evidence-Centered Design на частини підказки оцінювання, виводячи п’ять принципів — наміреність, простежуваність, підзвітність, ітерацію та справедливість; їхні підказки, побудовані на ECD, оцінювали наративні есе точніше за базові лінії zero-shot, few-shot та ланцюга міркувань.
 ### Зв’язки з ширшими поняттями
 
 Інженерія підказок пов’язана з [[scaffolding]] — добре спроєктовані підказки можуть скаффолдити мислення студента, а не обходити його. Вона перетинається з [[metacognition]] та [[ai-literacy]], бо ефективне складання підказок вимагає розуміння як здібностей ШІ, так і власних навчальних цілей. Дослідження [[cognitive-offloading]] прямо пов’язує якість підказок з тим, чи підтримує, чи підриває використання ШІ навчання.
@@ -130,6 +131,7 @@ ai_assist:
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Prompt engineering vs prompt literacy: a five-phase human-centered GenAI engagement framework with a five-step Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
 - [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
+- [[ecd-prompts-automated-essay-scoring-2026]] — Використання Evidence-Centered Design для керівництва інженерією підказок у вимірюванні: ілюстрація на автоматизованому оцінюванні есе
 
 - [[middle-school-genai-steam-interactions-2026]] — Середньошкільні групи STEAM дослівно копіювали інструкцію викладача в 47.1% підказок
 
