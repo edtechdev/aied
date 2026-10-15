@@ -127,3 +127,4 @@ ai_assist:
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — 一学期的人工智能使用让批判性思维持平；反思性使用预测了它（Melanou 等，2026）
 - [[genai-dependence-research-creativity-2026]] — 在 1,157 名研究生中，生成式人工智能依赖与批判性思维正相关
 - [[genai-use-critical-thinking-moderation-2026]] — 经由反馈素养的生成式人工智能使用→批判性思维，且直接路径只对反思性较低的学生存在
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 教育中人工智能素养十篇最高被引研究的综述（Hallström 等，2026）
