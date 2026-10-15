@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-10-04T10:52:53-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -151,6 +151,11 @@ ai_assist:
 
 - 教师的角色延伸到共同设计人工智能学习资源：面向无人机 STEM 教学、由教师与人工智能共同设计的[[simulation|模拟]]，使生成式人工智能的输出保持教学有效与情境相关；而教师是"教师人工智能素养量表"（Teachers' AI Literacy Scale）的目标受益者。有效的生成式人工智能整合日益依赖教师参与设计。
 
+### AI 反思系统应适配教师经验
+
+- **面向教师的 AI 反思分析应当按专长适配，而非一刀切。** 一项对 100 名美国 K–12 教师的调查（以九年为中位分割；二项检验；~83% 的检验功效可检出 15% 的选择差异）发现了系统性的偏好分裂。经验较少的教师把缺乏反思时间列为首要障碍的比例是经验丰富者的 3 倍（37% 对 12%，p < .001），并想要关于学生脱离参与（48% 对 33%，p = .028）与情绪（31% 对 18%，p = .036）的分析。
+- **由这一分裂得出的设计规则是经验适配的推荐模式。** 经验丰富的教师想要关于帮助学生后学习改进的分析（40% 对 26%，p = .019）以及关于他们教学方法（42% 对 26%，p = .012）的分析；他们的首要障碍是跟踪表现（28% 对 15%，p = .009）。设计规则：新手模式 = 结构化提示与投入分析；专家模式 = 灵活的纵向分析——这是一个反对统一仪表盘的直接论据。（[[falhs-teacher-expertise-reflection-2025]]）
+
 ## 关联概念
 
 - [[pedagogical-partnerships]] — 教学伙伴关系
@@ -222,3 +227,5 @@ ai_assist:
 - [[kuhail-great-debaters-ai-facilitators-2026]] — 人类对人工智能辩论主持人：评分相当，复用路径不同
 - [[yalcin-genai-programming-education-systematic-review-2026]] — 编程教育中的生成式人工智能：一篇教师角色最少被研究的系统综述
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — 从信息提供者到学习设计者：人工智能增强教育中的自导式（heutagogical）教学实践
+- [[falhs-teacher-expertise-reflection-2025]] — 专长水平如何塑造偏好与反思需求：迈向赋能教师的 AI 反思系统（Falhs 等 2025）
+- [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）

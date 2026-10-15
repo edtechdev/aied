@@ -11,7 +11,7 @@ technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
 translation_of: concepts/scaffolding
-source_updated: "2026-10-06T18:35:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,7 @@ ai_assist:
 ### 足場かけがAIEDに現れる形
 
 - **プロンプトに基づく足場かけ:** [[guided-llm-scaffolding-independent-learning|誘導的なLLMによる足場かけ]]は、構造化された[[prompt-engineering|プロンプティング]]を学習への介入として教えます。[[scaffolding-critical-engagement-genai-minority-students|批判的関与のための足場かけ]]は、[[culturally-relevant-pedagogy|文化的に応答的な]]アプローチを用います。
+- **何を成功と数えるかを決めるのは、道具ではなくその機能である:** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou他(2026)]]は、特別教育におけるAI支援のための三機能の枠組みを提案します。*補償*は、学習者が参加できるように執行機能の要求を減らします(成功 = 支援が残っている間のアクセス)。*足場かけ*は、現在の能力をわずかに超えた遂行を支えます(成功 = 的を絞った支援を伴う意思決定)。*発達*は、道具なしに使える方略を築きます(成功 = フェーディングまたは転移の後の方略の利用)。各機能は異なる評価の基準を伴い、そしてこの分野の繰り返される誤りは、支援の間の課題の完成を発達として報告することです。これは、解釈的な範疇を持つナラティブ・レビューであり、プールされた効果の推定ではありません。
 - **学習者が名指せない隙間のための混合主導の足場かけ:** [[veriforge-narrative-drafting-scaffolding-2026|Sunら(2026)]]は、システムが領域の発見に対してのみ主導権を握り、書き手が問いとして立てられない知識の隙間を先を見越して指摘する一方で、物語の統合における書き手の主導権を保ちます。
 - **ソクラテス式の足場かけ:** [[socratic-method|ソクラテス式のAI対話]]は直接的な答えを差し控え、問いを使って発見を導きます。これは[[desirable-difficulties|望ましい困難]]の足場かけの一形態です。境界条件として、問いかけは対話の始まりでは助けになりますが、深まるにつれて効果が減衰します。そのためフェードの規則は「引き出すこと」から「誤りに取り組むこと」へと移ります。始まりでは20ポイントの優位が、4回目の行き詰まりでは3ポイントまで下がる一方、誤りに取り組むことは+5から+12へと上がります([[guided-ai-tutor-impasse-resolution-2026|Ahtishamら(2026)]])。
 - **適応的なフェーディング:** [[intelligent-tutoring|知的チューリングシステム]]は、[[knowledge-tracing]]の推定に基づいて足場かけを調整し、未習得の概念にはより多くの支援を、既知の概念にはより少ない支援を与えます。
@@ -142,3 +143,4 @@ ai_assist:
 - [[genai-cognitive-scaffold-geometric-reasoning-2026]] — 視覚化だけでは不十分な幾何において、視覚的直観から演繹的な証明への橋となる促しの足場かけとしてのGenAI(Davor 2026)
 - [[guided-ai-tutor-impasse-resolution-2026]] — 誘導的なAIチューターが学生の行き詰まりを解消する仕方のばらつきの検討
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — STEMの問題解決におけるGenAI使用のための足場かけとしての学習者の訓練(Huangら2026)
+- [[etq-ai-conversational-teacher-training-2026]] — 教授の誤概念のための会話型AI診断：証拠に基づく対話(Miranda & Calvani 2026)

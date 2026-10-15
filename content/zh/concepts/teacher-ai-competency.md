@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-09T08:42:12-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -101,6 +101,8 @@ ai_assist:
 - **在"感觉自己在参与"之外，出席率预测增益。** 在同一个六个月项目中，出席率预测了素养增益（β = .407, p = .001），而自评的参与感则不然（β = .049, p = .692），学科、教学经验与职称解释力甚微；作者把出席读作行为投入，把感知参与读作表层投入（[[intelligent-tpack-pd-intervention-hongkong-2025|Tan、Cheng 与 Ling，2025]]）。
 
 - **价值滞后于技能，在领域专属项目中亦然。** 在一项为期一年、覆盖30名英语教师的香港项目中，多模态评估策略知识从3.13升至4.15（满分5分，partial η² = 0.571），支持学生的能力从3.05升至3.98（0.482），两者均显著，而在Bonferroni校正的 α = .006 下，每个价值子域都保持统计上的平稳。教师把增益归因于校内共同备课与跨校集群会议，而非工作坊本身（[[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang等人（2026）]]）。
+
+- **微学习可以发展高校教师的AI胜任力。** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky（2026）]]把两个职业教育模块经过两轮在线小组讨论精炼为五条设计原则——清晰的结构与定位、指导与导航支持、分割与模块化、多模态呈现以及学习者激活——并发现平台导航与定位模块是主要的实际障碍。
 
 ## 教师AI素养与转型中的教师角色
 
@@ -192,3 +194,4 @@ ai_assist:
 - [[capability-decision-model-teacher-readiness-2026]] — 以能力为先、排序的教师准备度模型，附表现本位的能力指标
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — 1,405名K-12教师的跨国调查：准备度预测积极信念，但不预测担忧
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — 四个TALIS 2024教师信念画像把专业学习与画像特定的AI使用障碍相连
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — 为职业教育教师教育中的高校教师设计AI微学习模块：一项设计本位研究

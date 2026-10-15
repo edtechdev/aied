@@ -8,7 +8,7 @@ assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, fe
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -207,3 +207,4 @@ AIはフィードバックを三つの帰結ある方向に変え、それぞれ
 - [[ai-powered-writing-feedback-awe-review-2026]] — 作文のためのAIによるフィードバック・システム：自動作文評価（AWE）道具のレビュー
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — 改訂が書き手の構えに何をするか：ピアフィードバックは論証的エッセイをより収縮的にし、AIによる改訂はContract/Expandの均衡を保つ（Zhao & Ji 2026）
 - [[xu-automated-feedback-tutor-training-2025]] — データ拡張を通じた低資源の状況におけるチューター養成のための自動フィードバック・システムの改善（Xu et al. 2025）
+- [[etq-ai-conversational-teacher-training-2026]] — 教授の誤概念のための会話型AI診断：証拠に基づく対話(Miranda & Calvani 2026)

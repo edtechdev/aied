@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,8 @@ AI 误解不局限于学习者——它们在塑造教育的成年人中同样�
 - **公众**吸收关于 AI 能力与风险的媒体与厂商叙事。因为学生就在这套话语之内学习，公共迷思成为学生误解生长的基质。因此，纠正 AI 误解是一项 [[ai-literacy]] 任务，瞄准的是整个教育生态，而不仅是学习者。
 
 这种广度，正是知识库把误解当作一条横贯的基础主题、而非纯面向学生的主题的原因：同样的校准失误在学习者、教师、机构与公众身上反复出现，而纠正它们既要求直面个人信念，也要求直面喂养它们的话语。
+
+教师的教学误解是这一点的镜像：不是关于 AI 的误解，而是关于教学的、缺乏证据支持的信念，它们无视 AI 而持续存在。[[etq-ai-conversational-teacher-training-2026|Miranda 与 Calvani（2026）]]用有效教学问卷（Effective Teaching Questionnaire）把这一点工具化：50 个二元条目映射到元分析效应量（d ≥ 0.40），使教师的回答可以对照一个与证据对齐的基准来比较——而他们的发现是，这些误解既深又具体。在一项对 123 名意大利教育者的试点中，分歧最集中地聚集在认知学习风格（78% 的教师为视觉/听觉匹配辩护）、包容与小组合作（68%）以及 EdTech 过载（54%）上，而在计划、认知、评价与管理各维度上平均对齐度接近 50%。有两个细节对纠正设计很重要。第一，这些误解在大学教育与教学实践中存续——作者描述了一种"入校之前就已存在并持续"的"内化的常识"——因此它们不是一场讲座就能填补的知识缺口。第二，当同样的条目通过一个会话式 AI 交付，且该 AI 在重新引入证据之前先验证教师的处境时，41% 的异议涉及真实的情境约束（班级规模、特殊需求、课程覆盖），而非证据本身，且 5.9% 的人把该系统拒斥为"一部算法教条机器"——这是规范性框定滋生防御而非反思的边界条件。就 [[teacher-ai-competency]] 的发展而言，其意涵是：诊断加对话能够揭示哪些信念是基于证据的分歧、哪些是误解，这是一个单凭分数无法作出的区分。
 
 ### 纠正误解
 
@@ -143,3 +145,4 @@ Bernstein 与 Sibia（2026）显示，[[generative-ai|GenAI]] 生成的类比引
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS：流畅、权威却在概念上而非事实上错误的解释（Miličević et al. 2026）
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — 提交文件中的隐藏指令可在无可见警告的情况下抬高 AI 评分（Humble 2026）
 - [[children-ai-safety-misconceptions-2026]] — 儿童的 AI 安全误解：与机器人的友谊被误读为隐私保证（Leisten et al. 2026）
+- [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）

@@ -10,7 +10,7 @@ level: [k 12, preschool]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-10-13T04:43:42-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,8 @@ ai_assist:
 
 由于幼儿学习者更脆弱、更缺乏对 AI 使用的自我调节能力，这一聚类强调**成人的支架**（家长、监护人与教师）、**适龄设计**，以及 AI 取代而非支持游戏、发现与努力学习的成长工作所带来的[[cognitive-offloading|过度依赖]]与[[well-being|伤害]]风险。公平是一个鲜活的关切：接触 AI 丰富的早期学习（或保护性的成人指导）是不均衡的，这与[[digital-divide]]和[[equity-in-ai-education]]相连。大部分证据基础仍是探索性或面向设计的，而非因果性的。
 
+一项四国比较凸显了课程缺口：日本、韩国与中国的国家幼儿指导方针不含任何明确的 AI 素养提法（上海的城市级行动计划是唯一的例外，且未规定学习进阶），而澳大利亚仅表现出有限且不均衡的对齐——在与 AI 智能体交互方面最强，在理解人机关系方面缺席——把 AI 素养留给了家庭（[[ai-literacy-ecec-curricula-four-country-2026|Cohrssen 等（2026）]]）。
+
 关于这一问题的首个神经影像学窗口带着一份告诫到来：6–7 岁儿童在 MRI 扫描仪中与 ChatGPT 进行五分钟口头对话，在创造力得分匹配的情况下，其额顶控制、突显与背侧注意网络中的网络内连接弱于成人，且缺乏成人表现出的创造力—连接耦合。由于这些执行功能在一年级时仍不成熟，作者把该结果解读为与最低年龄之争相关——同时指出框架混淆与缺少无 ChatGPT 对照组限制了它所能澄清的边界（[[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus 等（2026）]]）。
 
 ## 关联概念
@@ -102,3 +104,4 @@ ai_assist:
 - [[creative-project-approach-ai-early-childhood-2025]] — 创造性项目方法：一个为早期学习定制 AI 代理与机器人的框架（Yang、Li 与 Lee，2025）
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 儿童与成人同 ChatGPT 对话的首个神经影像比较：6–7 岁儿童的控制—注意—记忆网络整合度更低
 - [[ai-rated-classroom-observation-scores-2026]] — 我编码还是 AI 编码：香港幼儿园中 AI 评分的 CLASS Pre-K 分数对比受训人类评分者（Fong 等，2026）
+- [[ai-literacy-ecec-curricula-four-country-2026]] — AI 原住民的 AI 素养？一项四国比较

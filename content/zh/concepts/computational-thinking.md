@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,9 @@ CT在AI时代的一个核心目标，是让学生与教师超越对AI产出的*�
 
 新的元分析证据使这一图景更清晰。[[astor-computational-thinking-meta-review-2026|一项对128篇CT系统综述的元综述]]发现，该领域正就CT的统一定义趋同——即以使用计算步骤与算法来解决问题的抽象模型进行推理——这正是生产导向学习所要求的模型建构（而非答案消费）思维。[[tsingidou-ct-robotics-kindergarten-2026|CT—幼儿园机器人研究]]表明，即便是幼儿学习者也能通过与机器人一起基于游戏进行建构而成为生产者，运用问题式学习、讲故事与支架——这是把技术视为自己建构之物而非仅操作之物的第一步。而[[solving-vs-evaluating-genai-solutions|评估与批判研究]]证明，CT可以通过评判并调试有缺陷的AI解法来锻炼——这是一种对AI产出的生产者姿态，能抵御被动消费的陷阱。
 
-实际的结论是：CT教学应被设计为让学习者*用AI造物*——创作模型、构建智能体、构造成果物、批判AI产出——而非接收现成的解法。这既加深了CT，也使[[ai-literacy]]成为参与式的、创造性的，而非仅是概念性的。反过来，教师需要支持，以从使用AI工具走向设计AI增强的学习活动（参见[[teacher-role]]与[[professional-training]]）。
+实际的结论是：CT教学应被设计为让学习者*用AI造物*——创作模型、构建智能体、构造成果物、批判AI产出——而非接收现成的解法。这既加深了CT，也使[[ai-literacy]]成为参与式的、创造性的，而非仅是概念性的。反过来，教师需要支持，以从使用AI工具走向设计AI增强的学习活动（参见[[teacher-role]]与[[professional-training|专业培训]]）。
+
+复用他人的模型属于生产者立场：实现一个已发表的 AI 模型——选择、安装、运行并验证它——可以作为一门可学习的、结构化的技能来教授，为每一个可预见的失败配一条回退路径，且三名没有编程背景的化学专业本科生在四个月内复现并扩展了一个酶—底物预测模型（[[praise-non-programmer-ai-model-implementation-2026|Achterweust 等（2026）]]）。
 
 ### 实践指引
 
@@ -115,4 +117,5 @@ CT在AI时代的一个核心目标，是让学生与教师超越对AI产出的*�
 - [[ai-writes-code-student-writes-model-2026]] — 模型作者身份：GenAI学习即建构的理论与测量
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI：面向成果物建构的建构主义框架
 - [[astor-computational-thinking-meta-review-2026]] — 对128篇系统综述的CT元综述
+- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE：非程序科学家实现已发表 AI 模型的可复现工作流
 - [[tsingidou-ct-robotics-kindergarten-2026]] — 幼儿园通过机器人发展CT的系统综述

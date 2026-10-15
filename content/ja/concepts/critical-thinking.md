@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -127,3 +127,4 @@ GenAI利用と自己申告された批判的思考の結びつきは、ほぼ完
 
 - [[genai-dependence-research-creativity-2026]] — 大学院生1,157人においてGenAI依存が批判的思考と正に関連
 - [[genai-use-critical-thinking-moderation-2026]] — フィードバックリテラシーを介したGenAI利用から批判的思考へ。直接の経路は内省性の低い学生にのみ
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM教育におけるAIリテラシーの最も多く引用された10研究の総合(Hallström ら 2026)

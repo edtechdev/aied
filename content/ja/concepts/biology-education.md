@@ -9,7 +9,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,8 @@ AIに関する生物学教育研究は、一つの緊張関係を軸に集まっ
 **AI時代の批判的思考。** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]]**は、AIが生物学研究を形作るにつれて、**批判的思考** — 懐疑、文脈の理解、倫理的推論 — は意図的に涵養されなければならず、AIの出力を検証し[[equity-in-ai-education|偏見]]を防ぐために[[human-in-the-loop-ai|人間の監視]]が不可欠であり続けると論じています。これはナレッジベース全体の[[reducing-ai-misuse|AIの悪用の削減]]と[[cognitive-offloading|認知的オフローディング]]の懸念につながります。
 
 **専門的なAIツールとより広い展望。** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]]**は、生物学教育におけるAIツールの全体的な展望を概観し、種の同定のための**iNaturalistとGoogle Lens**、バイオイメージングと機械学習ツール、支援技術、そしてリスクのある学生の予測モデリングを含めています — 生成的AIの誠実性、評価設計、誤情報、批判的思考の課題とともに。
+
+**教員養成におけるソクラテス的なAI論証の実践。** 見込み生物教員124人による準実験では、社会科学的な論題についてのChatGPT-4による[[socratic-method|ソクラテス的な家庭教師]]が、オフラインのピア討論と比較して論証の質を高めました(調整済み3.91 対 3.21、F(1,121) = 14.23、p < .001)。伸びは反駁と反証の技能で最大でした([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva ら、2026年]])。
 
 **成績のうち実際に晒される部分。** ある学科のコアコース38件のシラバスにおいて、成績評価の各カテゴリを教員評価の脆弱性で重み付けしたところ、コース得点の33%が高い露呈に、81%が少なくともある程度の露呈にあるとされました — オンラインでは41%と100% — 対面の監督付き試験のみが最小限の脆弱性と評価されました（[[biology-degree-integrity-genai-cheating-2026|Chanら、2026]]）。
 
@@ -88,3 +90,4 @@ AIに関する生物学教育研究は、一つの緊張関係を軸に集まっ
 - [[critical-thinking-biological-sciences-ai-2025]] — 生物科学とAIにおける批判的思考
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — チャレンジベースの生物学/数学コースにおけるChatGPT
 - [[zha-ai-literacy-biology-case-study]] — 生物学の授業におけるAIリテラシー教育
+- [[genai-socratic-tutor-biology-argumentation-2026]] — 生成的AIによる見込み生物教員のPISA準拠の論証スキルの向上

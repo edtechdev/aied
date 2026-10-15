@@ -45,6 +45,8 @@ ai_assist:
 
 差异化支持并非公平受益的证据：一项对[[math-education|数学]]中 AI 辅导的综述发现，包容性的主张缺乏支持，因为研究很少检验收益是否一致地分布于能力、性别、社会经济、语言、残疾与地理群体之间，从而未能确立这些系统缩小了成绩差距（[[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin 等人（2026）]]）。
 
+- **差异化的人机辅导是混合模型能够缩小差距的证据——当分配跟随需求时。** 一项断点差异研究（635 名学生，5–8 年级；低于中位数的表现者接受*主动的*人工辅导，高于中位数的接受*被动*的按需支持，对照一个秋季的纯 AI 基线）发现，混合辅导把任务时间提高 25%、技能熟练度提高 36%、学业成长提高 61%——且两个组别通过不同机制实现了*相当的*投入与熟练度增益。与公平相关的细节在于：主动辅导显示出略高的平均成长（75%，p = .065），且集中在离分界点更远的学生身上——这是差距压缩而非一致抬升的模式——而每次课一名导学者同时服务两组。作者持恰如其分的审慎态度：DiDC 设计是准实验性的，二分的中位数分界点漏掉了组内的需求差异，且 75% 的效应是边缘性的。（[[gurung-hybrid-human-ai-tutoring-2026]]）
+
 - **教师预期鸿沟会扩大。**[[watson-rainie-ai-challenge-faculty-survey-2026|Watson 与 Rainie（2026）]]调查了**1,057 名美国高校教师**，发现**81%** 预期生成式 AI 会扩大数字不平等（**58%** 认为会大幅扩大）——这是报告中最强的公平性预期，且与**68%** 表示其机构未让教师准备好用这些工具进行教学与指导的人并列。同一调查还显示工具采用的不均衡：**26%** 的受访者完全不用生成式 AI，艺术与[[humanities-education|人文]]教师中升至**40%**，社会科学家为**28%**，因此不使用与未准备集中于特定的[[discipline-specific-aied|学科]]。该报告是非概率样本，作者声明不可推广，因此这些是该领域表达的关注，而非测得的效果。
 - **基础设施劣势：**[[structural-silence-underrepresented-language-ai-2026|结构性沉默]]表明，AI *基础设施*——训练语料、分词、[[benchmark|基准]]、部署架构——在*模型被训练之前*就系统性劣势化了代表性不足语言的使用者，把数据稀缺重新框定为结构性问题而非偶然问题。
 - **合成数据中的模型特定人口先验：**[[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas 等人（2026）]]发现，当 LLM 生成学生情境时，每个模型都施加了不同的人口倾向——GPT 产生更多全球北方画像并使用 they/them 代词，Qwen 产生更多[[global-south|全球南方]]画像，Mistral 偏向 she/her。因此，即使是由[[llm]]对学习者数据的*建构*也带有区域与性别先验，可能传播到下游推荐中——这是一个鲜受审视的公平性风险。
@@ -94,6 +96,8 @@ ai_assist:
 ## 语言、文化与残障包容
 
 - **语言：**多数 AI 工具优先英语，边缘化[[multilingual-learning|多语言]]学习者。[[genai-linguistic-diversity-academic-writing|学术写作中的语言多样性]]、[[structural-silence-underrepresented-language-ai-2026|代表性不足的语言]]与[[language-learning]]研究对此加以应对。
+- **识别，而不只是获取：AI 的文化扁平作为一项公平发现：** 在一项对五名有色人种中学学徒的为期 9 个月的叙事探究中，[[gyekye-selves-apprenticeship-2026|Gyekye（2026）]]发现学生把公平等同于*可见偏见的缺席*——一种"文化扁平"，即身份特定的经验与文化标记在 AI 回应中得不到表征——并通过拒绝（不把使用作为制度对齐）与协商（使 AI 产出在制度上可读）来建构能动性。该研究的"识别带宽"概念命名了学习者在 AI 产出中看见自己的空间，而"制度 AI 素养"则是在制度期望内驾驭 AI 的能力。这是一项五名单项目质性研究；其公平贡献在于表明"作为公平的中立"本身就可以是排除机制。
+- **谁从一个 AI 导师中受益——探索性的田野证据：** 在一次全区铺开的教师中介 AI 数学平台中，[[alam-goblins-math-platform-2026|Goblins（Alam 等 2026）]]发现，有 IEP 的学生（+0.122 SD）、英语学习者（+0.191 SD）与西班牙裔学生（+0.084 SD）的成绩关联大于对照组，这与其多模态输入和七语言语音支持降低参与障碍相一致。作者明确指出，这些探索性的、功效不足的亚组无法确立无障碍特性造成了这一差异——它是一个早期的、生成假设的信号，而非一项公平发现。
 - **文化：**[[culturally-relevant-pedagogy|文化相关教学法]]与[[culturally-aware-aied-community-learning|以社区为中心的 AIED]]呼吁 AI 反映学习者的文化语境，而非强加主导规范。
 - **残障与神经多样性：**[[inclusive-learning|无障碍学习]]、[[universal-design-for-learning|通用设计]]、[[neurodiversity|神经多样性]]与[[special-education|特殊教育]]研究考察 AI 如何支持或排斥残障学习者——[[neurodivergent-computing-students|神经多样性的计算学生]]、[[dyslexlens-dyslexic-learners-ai|阅读障碍学习者]]与[[inclusive-learning|无障碍教育材料]]是例证。
 - **语言、文化与成本在一起：**Bashir 与 Afzal（2026）把[[well-being|福祉]] AI 中的公平设计框定为语言、文化与成本的单一问题——仅英语的工具让用乌尔都语或罗马乌尔都语表达困扰的学生失败，西方数据集无法捕捉当地显著的应激源，昂贵的商业系统让装备较差的大学失败（[[culturally-aware-student-stress-chatbot-2026|Sukoon]]）。他们的应对结合了通过托管 API 访问的[[open-source|开源]]多语言 LLM（资源要求低）、双语评估界面，以及在一个经核验的 20 项特征量表上训练的分类器——同时承认训练数据不代表目标人群，"有些领域……工具可用但往往昂贵"，且该适配停留在提示层而未与学生验证——这是公平意图与已证明公平之间差距的坦率记录。
@@ -180,3 +184,6 @@ ai_assist:
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — 数学中免费层与高级模型的准确度差距：32.7% 对 12%（Canonigo 2026）
 - [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — 合并的生成式 AI 学习收益（g=0.53）及其无法捕捉的高成本工具不公平获取
 - [[intelligent-tutoring-mathematics-education-review-2026]] — 数学 AI 辅导综述：发现包容性与成绩差距主张缺乏支持
+- [[gurung-hybrid-human-ai-tutoring-2026]] — 通过按学生需求区分人工导学角色来改进混合人机辅导（Gurung 等 2026）
+- [[alam-goblins-math-platform-2026]] — 全区 AI 数学铺开：对 IEP、英语学习者与西班牙裔学生更大的探索性关联（多模态/多语言支持；因果性未经检验）
+- [[gyekye-selves-apprenticeship-2026]] — 有色人种学徒把公平等同于文化扁平；能动性通过拒绝与协商建构；识别带宽与制度 AI 素养
