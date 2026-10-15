@@ -14,7 +14,7 @@ connected_resources: [claw-ed, edugems, playlab, teacherserver]
 reviewed_by: [editor]
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-09T08:42:12-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -338,6 +338,7 @@ ai_assist:
   המורים ייחסו את הרווחים לתכנון-משותף בתוך-בית-הספר ולמפגשי-אשכול בין-בתי-הספר
   ולא לסדנאות בלבד ([[multimodal-assessment-literacy-l2-teachers-genai-2026|ג'יאנג
   ושות' (2026)]]).
+- **מיקרו-למידה יכולה לפתח כשירות-AI של מורות אוניברסיטאיות.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]] עדכנו שני מודולי-חינוך-מקצועי לאורך שתי דיונים-קבוצתיים מקוונים לחמישה עקרונות-עיצוב — מבנה והתמצאות ברורים, סיוע והכוונת-ניווט, פילוח ומודולריזציה, מצגת-מולטימודלית והפעלת-הלומד — ומצאו שניווט-הפלטפורמה ואיתור-המודולים הם המכשולים הפרקטיים המרכזיים.
 
 ## כושר AI של המורה ותפקיד המורה המשתנה
 
@@ -457,3 +458,4 @@ ai_assist:
 - [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first teacher readiness model with performance-based capability indicators
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national survey of 1,405 K-12 teachers: readiness predicts positive beliefs but not concern
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Four TALIS 2024 teacher belief profiles link professional learning and profile-specific barriers to AI use
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — עיצוב מודולי-מיקרו-למידה על AI למורות אוניברסיטאות בחינוך-מורות מקצועי: מחקר עיצובי-מבוסס

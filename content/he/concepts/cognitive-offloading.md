@@ -12,7 +12,7 @@ confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 reviewed_by: [editor]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-10T14:20:00-04:00"
+source_updated: "2026-10-13T04:43:42-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -115,6 +115,7 @@ ai_assist:
 
 ### קשרים למושגים קשורים
 
+- **אות חסר-המעורבות מופיע באופן התפתחותי.** השוואת נוירו-דימות ראשונה בין ילדים למבוגרים המדברים עם ChatGPT מצאה שילדים בני 6–7 הראו קישוריות תוך-רשתית חלשה יותר מאשר מבוגרים ברשתות הבקרה הפרונטו-פריאיטלית, הסליינס ותשומת-הלב הגבית — בציוני יצירתיות תואמים — ולא הציגו את הצימוד בין יצירתיות לקישוריות שהודגם אצל המבוגרים. כיוון שהפונקציות האקזקוטיביות האלה (תכנון, ניטור, עיכוב) בוגרות חלקית בכיתה א', המחברים קוראים לממצא כרלוונטי לדיון על הגיל המינימלי. סייגים: אין קבוצת ביקורת ללא ChatGPT, n = 31, והטיית-מסגרת שעלולה לדכא את ההערכה הביקורתית של הילדים ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]).
 פריקת עומס קוגניטיבי (וצורתה המזיקה, הסתמנות מופרזת) מתחברת ביסוד ל[[trust-calibration|כיול אמון]] — לדעת מתי לסמוך ומתי להטיל ספק בבינת המלאכותית — ול[[ai-literacy|אוריינות בינת מלאכותות]], הכוללת את המיומנות המטאקוגניטיבית לדעת מתי לפרוק ולזהות דפוסי הסתמנות משלכם. היא מתחברת ל[[scaffolding|פיגום]] (תמיכה מובנית שמפחיתה עומס ללא חיסול דרישה קוגניטיבית) ול[[prompt-engineering|הנדסת הנחיות]] (המנגנון העיקרי שבאמצעותו פריקה מבוצעת באינטראקציות LLM). היא מצטלבת עם[[metacognition|מטאקוגניציה]] ועם[[self-regulated-learning|למידה עצמית מוסדרת]] — לומדים אפקטיביים מכיילים את החלטות הפריקה שלהם — ועם[[critical-thinking|חשיבה ביקורתית]], [[agency|סוכנות]], ו[[student-experience|חוויית הסטודנט]]. [[online-teaching-and-learning|הוראה ולמידה מקוונות]] היא הקשר פגיע במיוחד: המדיום כבר מרחיק לומדים מאחריות מיידית, ועבודה עצמית מבוססת-מסך מזמינה את קיצור הדרך "בקש את התשובה" שמחקר הפריקה מזהים כמנגנון הנזק המרכזי (ראו[[ai-misuse-learning-harm|שימוש לרעה ונזק ללמידה]]).
 
 **לא כל חיכוך מופרק הוא חיכוך עודף.**[[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] חושפים את ההבחנה שספרות הפריקה זקוקה לה:[[ai-technologies|טכנולוגיות AI]] קודמות הסירו חיכוך*עודף* — מכשולים משעממים או בלתי-נכונים עם ערך למידה או משמעות מועט — בעוד בינת מלאכותית יוצרת בעבודה אינטלקטואלית מסירה גם חיכוך*מועיל*, ומאפשרת לומד לעבור מרעיון להערכה ללא הטלת ספק על הפלט. הם מפגינים את הראיה האסוציאטיבית באופן גלוי: אנשים המשתמשים בבינת מלאכותות מתקשים לזכור או לשחזר את עבודתם עצמה במדויק, רוכשים פחות מיומנויות, מראים פחות העברה, ומבצעים גרוע יותר כאשר תמיכת AI נסרת — ומתכנסים עם ממצאי החוב הקוגניטיבי ממחקרי EEG של כתיבת חיבור עם עוזר AI. הטענתם מספקת גם את החצי המוטיבציוני של המנגנון שחשבונות קוגניטיביים טהורים מפספסים: מכיון שמאמץ מסמן שהפעולות שלנו חשובות, פריקתו מפחיתה מטרה ומשמעות מוערכות, וכאשר AI מחליף מאמץ בתחום התשואה המוטיבציונית של המאמץ שם נשחקת, ומעמיקה הסתמנות עוד יותר. התיקון של המאמר הוא גרדיאנט ולא איסור — שמרו מאבק מתון, הסירו את מה שמכביד בלבד ([[desirable-difficulties|קשיים רצויים]], [[motivation|מוטיבציה]]).
@@ -184,4 +185,5 @@ ai_assist:
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Offloading tendency and verification literacy predicting higher-order outcomes through metacognitive self-regulation (Davor et al. 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt reduces acceptance of incorrect AI advice and improves awareness calibration (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI dependence as a boundary condition on critical-thinking disposition and self-perceived employability (Shojaei et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — ילדים הראו קישוריות חלשה יותר בפרונטו-פריאיטלי, סליינס ותשומת-לבב גבית מאשר מבוגרים בעת שיחה עם ChatGPT, בציוני יצירתיות תואמים
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI and children's creative thinking: over-reliance and prompt dependence in a scoping review (Niu et al. 2026)

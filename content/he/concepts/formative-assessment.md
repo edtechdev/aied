@@ -11,7 +11,7 @@ connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-04T05:46:16-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -180,3 +180,4 @@ ai_assist:
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — סיוע הוראה מסתגל המשלב בינה מלאכותית גנרטיבית ואנליטיקת נתוני-על בחינוך מוזיקלי
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — שימוש סטודנטים במודלי שפה גדולים וגבולות קושי השאלה המיוצר על ידי בינה מלאכותית בקורסי מדעי הנתונים
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — תשתית הערכה מתמשכת מתווכת-בינה מלאכותית (AIM-CAI): חיבור ראיות למידה על פני הקשרים וזמן (McNamara & Hasnine 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — אבחון שיחה AI לתפיסות-הוראה מוטעות עם דיאלוג מונחה-ראיות (Miranda & Calvani 2026)

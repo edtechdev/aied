@@ -10,7 +10,7 @@ level: [k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/stem-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -113,3 +113,4 @@ ai_assist:
 - [[simulation-assisted-drone-learning-stem-2026]] — למידת רחפנים בסיוע-סימולציה עם פיגומים שתוכננו בשיתוף מורה-AI
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — אפקט משוקלל של הוראה STEM נתמכת-AI לאורך 35 מחקרים, עם הרווחים הגדולים ביותר בתיכון (Doğan et al. 2026)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — סינתזה של עשרת המחקרים המצוטטים ביותר על אוריינות AI בחינוך STEM (Hallström et al. 2026)

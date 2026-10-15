@@ -10,7 +10,7 @@ assessment: [assessment]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-01T09:59:54-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,7 @@ ai_assist:
 - **نسخ الإجابات كعكّاز** — فالضرر الناتج عن سوء الاستخدام يأتي أقلّ من أخطاء الذكاء الاصطناعي التي تُضلّل الطلاب وأكثر من نسخ الطلاب للإجابات بدل تعلّمها. فحين يُظهر تحليل [[student-engagement|الانخراط]] أن الطلاب «يطلبون الإجابة» في الأغلب، يتبع الضرر التعليمي ذلك.
 - **تآكل الدافعية** — فتوافر مسار اختصار سهل يُدرَك في الذكاء الاصطناعي يُقلّل الدافعية المستقلة والمثابرة، وفق [[self-determination-theory|نظرية التحديد الذاتي]]. ولأن المثابرة هي ما يُنتج التعلّم العميق، فإن تآكلها يُضاعف الضرر المباشر.
 - **إزاحة التعلّم** — استبدال مخرَج الذكاء الاصطناعي بالعمليات المُجهِدة (الإفصاح، والاستدعاء، والشرح الذاتي) التي تُثبّت المعرفة، بما يتفق مع [[cognitive-offloading|الاعتماد المفرط]].
+- **الالتباس يُقرأ كنِيَّة.** حين لا يُسمّي المدرّس الدور المقصود للذكاء الاصطناعي في المهمّة، يحدّده الطلاب بما هو الأسهل، ويقرأ أعضاء هيئة التدريس عدم التطابق الناتج على أنه غشّ لا كحدّ لم يُصَرَّح به قطّ ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
 
 ### قاعدة الأدلة
 
@@ -106,3 +107,4 @@ ai_assist:
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
 - [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI dependency fully mediates the path from self-efficacy and teacher support to learning burnout (Huang et al. 2026)
 - [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance predicts negative impact while cognitive reliance predicts positive impact, and evaluation literacy strengthens rather than buffers the harm of consulting AI first (Manikonda et al. 2026)
+- [[this-is-how-we-ai-teaching-guide-2026]] — «This is How We AI»: مقاربة عملية للتدريس بالذكاء الاصطناعي

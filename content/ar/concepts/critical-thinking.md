@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: medium
 reviewed_by: [editor]
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -130,3 +130,4 @@ ai_assist:
 
 - [[genai-dependence-research-creativity-2026]] — الاعتماد على الذكاء الاصطناعي التوليدي مرتبط ارتباطًا موجبًا بالتفكير النقدي لدى 1,157 طالب دراسات عليا
 - [[genai-use-critical-thinking-moderation-2026]] — استخدام الذكاء الاصطناعي التوليدي إلى التفكير النقدي عبر الثقافة في التغذية الراجعة، مع مسار مباشر للطلاب الأقلّ تأمّلًا فقط
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — تركيب أبرز عشر دراسات حول ثقافة الذكاء الاصطناعي في تعليم STEM (Hallström et al. 2026)

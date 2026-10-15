@@ -9,7 +9,7 @@ connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 reviewed_by: [editor]
 translation_of: concepts/educational-measurement
-source_updated: "2026-10-06T02:05:50-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,7 @@ ai_assist:
 
 - **כאשר תוויות קושי הנוצרות אינן מודדות קושי.** ביקורת תקפות-בניות של 311 שאלות הנוצרות על ידי מודלי שפה גדולים ופרוסות בסביבה אמיתית מצאה שתווית הקושי הנוצרת התואמה עם רמת הבלום שלה (הנוצרת יחד עמה) ב-ρ=0.90, אך עם הקושי האמפירי (האינדקס 1−p של תיאוריית הבחינות הקלסית) רק ב-ρ=0.06, בעוד שאורך האפשרויות סטה בכיוון הפוך (ρ=−0.18) — תוצאה של "תוויות כצורת-פני השטח" שמגבילה את הקריאות האופטימיות לגבי קושי חזוי על ידי בינה מלאכותית מלמעלה ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
 
+- **תווית טקסונומית אינה חוזה התנהגות פריט.** לאורך 265 פריטי מתמטיקה, רמת Bloom המיועדת הסבירה פחות מ-5% מהשונות בקושי (ε² = .043) ואף לא משונות בביכוי (Kruskal–Wallis H = 0.54, p = .77), בעוד סיווג [[llm|LLM]] הסכים עם המקודדים המומחים רק באופן בינוני (Cohen's κ = .22) ומשך את הפריטים אל תחום ה-apply/analyze ([[bloom-taxonomy-llm-item-classification-2026|Altaweel & Moussa (2026)]]).
 - **שפטו שאלות שנוצרו על פי נתרון הפתרון, לא על פי הנוסח.** קידוד עץ ההיסקים המאומת של כל שאלה העלה את הביצועים ב-7.5% מעל השיטה השנייה בדירוג בקיאות במושגים, ב-6.3% באומדן קושי ו-19.5% בהערכת מיומנות, כאשר קו בסיס בשיטת zero-shot תייג בטעות שאלה שעוקבת אחר תבנית כ"Reasoning" ושאלה גאומטרית כ"Knowing" ([[proiqa-math-item-quality-assessment-2026|Tong et al. (2026)]]).
 
 - **מודעות פסיכומטרית ב[[assessment]]:** [[psychometrically-aware-ai|בינה מלאכותית מודעת פסיכומטרית]] היא הסטנדרט לפיו הערכה מבוססת בינה מלאכותית תהיה מיושרת עם תיאוריית המדידה — מכוילת, מודעת לחוסר-ודאות ושומרת תקפות (ראו [[automated-assessment|הערכה באמצעות בינה מלאכותית מודעת ביטחון]]).
@@ -213,3 +214,4 @@ ai_assist:
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
 - [[ai-empathy-scale-psychometric-evaluation-2026]] — A 42-item AI empathy scale whose six factors did not recover the six intended subfactors
 - [[genai-srl-l2-writing-scale-2026]] — A six-dimension GenAI-SRL scale for L2 writing; ant-colony-optimized 12-item short form tracks the full scale (r = 0.910–0.944) but narrows content coverage
+- [[bloom-taxonomy-llm-item-classification-2026]] — האם סיווגים קוגניטיביים חוזים התנהגות פריטית אמפירית? יישור טקסונומיית Bloom עם המאפיין הפסיכומטרי של פריטי מתמטיקה לאומיים מרוכזים בכיתות 4–12

@@ -10,7 +10,7 @@ assessment: [assessment]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-01T09:59:54-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,7 @@ ai_assist:
 - **העתקת תשובות כסבל** — שימוש לרעה נבע פחות מטעויות בינה מלאכותית שמטעות תלמידים ויותר מתלמידים שמעתיקים תשובות במקום ללמוד. כאשר ניתוח של [[student-engagement|מעורבות]] מראה שתלמידים בעיקר "מבקשים את התשובה", נזק ללמידה נובע מכך.
 - **שחיקת מוטיבציה** — תפיסת הזמינות של קיצור דרך קל בבינה מלאכותית מפחיתה מוטיבציה אוטונומית והתמדה, על פי [[self-determination-theory|תאוריית ההכוונה העצמית]]. כיוון שההתמדה היא מה שמייצר למידה עמוקה, שחיקתה מחמירה את הנזק הישיר.
 - **העברת למידה** — החלפת פלט בינה מלאכותית בתהליכים הדורשים מאמץ (העשרה, שליפה, הסבר עצמי) שמגבשים ידע, בהתאמה ל[[cognitive-offloading|העמסה-יתר]].
+- **בלבול נקרא ככוונה.** כאשר מרצים אינם מגדירים את התפקיד המיועד של AI במטלה, סטודנטים מגדירים אותו לפי מה שהקל ביותר, וסגל קורא את אי-ההתאמה שנוצרת כרמאות במקום כגבול שלא נקבע מעולם ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
 
 ### בסיס הראיות
 
@@ -116,3 +117,4 @@ ai_assist:
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
 - [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI dependency fully mediates the path from self-efficacy and teacher support to learning burnout (Huang et al. 2026)
 - [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance predicts negative impact while cognitive reliance predicts positive impact, and evaluation literacy strengthens rather than buffers the harm of consulting AI first (Manikonda et al. 2026)
+- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: גישה פרקטית להוראה עם בינה מלאכותית

@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: medium
 reviewed_by: [editor]
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -128,3 +128,4 @@ ai_assist:
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — סמסטר של גישת AI השאיר חשיבה ביקורתית שטוחה; שימוש מהגה נבא אותה (Melanou ואח' 2026)
 - [[genai-dependence-research-creativity-2026]] — תלות GenAI קשורה חיובית לחשיבה ביקורתית ב-1,157 סטודנטים מתקדמים
 - [[genai-use-critical-thinking-moderation-2026]] — שימוש GenAI לחשיבה ביקורתית דרך אורייות משוב, עם נתיב ישיר רק לסטודנטים פחות מהגהים
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — סינתזה של עשרת המחקרים המצוטטים ביותר על אוריינות AI בחינוך STEM (Hallström et al. 2026)

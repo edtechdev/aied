@@ -12,7 +12,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 reviewed_by: [editor]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-03T03:00:33-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,7 @@ Kim, Baek and Kwak (2026) מרחיבים את HITL ל[[video-education|וידא�
 עיצוב של בינה מלאכותית עם אדם בלולאה הפך למרכזי בדיונים של מאגר הידע על [[agentic-ai|בינה מלאכותית סוכנית]] ועל [[reducing-ai-misuse|שימוש אחראי בבינה מלאכותית]], מכמה סיבות מתכנסות:
 - **בטיחות פדגוגית.** [[pedagogical-safety]] דורש שבינה מלאכותית בעלת סמכות הוראה ממשית תשמור על פיקוח אנושי, כדי שטעויות, הטיות או פלטים מזיקים ייתפסו לפני שיגיעו ללומדים. זה חשוב במיוחד עבור סוכנים אוטונומיים [[agentic-ai|הרודפים מטרות בפרואקטיביות]].
 - **פיקוח נדיר בתרגול, לא רק בתיאוריה.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] מצאו שממשל מוטבע איתן ופיקוח אנושי בלולאה הוצגו לעתים נדירות ב-474 מערכות חינוכיות סוכניות, בעוד אוטונומיה למשימה בודדת ושיתוף פעולה מרובת-סוכנים גדלו — הפער בין עיקרון העיצוב לבין התרגול שנפרס.
+- **השאלה הקריטית היא כיצד הלולאה הופכת לביצועית, לא כמה בני-אדם משתתפים.** גישת מדעי-הלמידה טוענת שארגון הלמידה סביב לכידת-נתונים, פרשנות-חישובית ותגובה-מתקרבת הופך את הפעולה הפדגוגית לתלויה במה שמערכות יכולות לזהות ולפעול עליו, ושהתראות וסיווגי-מעורבות מפרשים את הלומד לפני שמורה או תלמיד כלשהם פועלים ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
 - **תוקף ובקרת איכות.** HITL הוא שער איכות ל[[automated-assessment|הערכה אוטומטית]] וליצירה — בני אדם פוסקים במקום שניקוד אוטומטי אינו מהימן (ראו מחקר על [[llms-do-not-grade-essays-like-humans-2026|ניקוד חיבורים במודלים לשוניים גדולים]] ו[[research-methods-aied|מחקר]]) ומאמתים פריטים שנוצרו. סקירה [[meta-analysis-systematic-review|שיטתית]] מודרכת PRISMA של 42 מחקרי ניקוד ומשוב (2023–2025) מגיעה למסקנה מפורשת: מודלים לשוניים גדולים מתאימים למדרגים אנושיים במשימות קצרות ומבנות היטב, אך אינם יכולים להחליף לחלוטין שיפוט אנושי בעבודה מורכבת, פתוחה או סובייקטיבית, ויעילות הניקוד הגבוהה ביותר מושגת במערכות היברידיות המשלבות ניקוד מונחה בינה מלאכותית עם פיקוח ואימות של המורה ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] מראים באופן קונקרטי היכן נופל הגבול הזה: ChatGPT-5 התאים לסגל בפריטים אובייקטיביים במבחני רוקחות (CCC 0.935–1.000) אך היה בלתי-מהימן בפריטים של תשובה קצרה וחיבור גם כאשר ניתן לו מחוון, דבר שהוביל את המחברים להמליץ על ניקוד היברידי עם סקירת בני אדם להערכה מורכבת, סובייקטיבית או בעלת עמידה גבוהה.
  חזרה אינה תחליף לפיקוח הזה: בציור מחודש של הגשות זהות בחמישה ימים שונים, אותו מודל שחזר את תוצאותיו עצמו רק באלפא של Krippendorff 0.625, עם שינוי שמרוכז בציוני האמצע והיעדרם של A ו-F מספירות חמשת הפגישות ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **סוכנות הלומד.** שמירת אדם בלולאה משמרת את [[agency|הסוכנות]] ותומכת ב[[self-regulated-learning|למידה עצמית מוסדרת]], ומתנגדת ל[[cognitive-offloading|הסתמכות יתר]] שסיוע אוטונומי לחלוטין עלול לגרום.
@@ -163,3 +164,4 @@ Kim, Baek and Kwak (2026) מרחיבים את HITL ל[[video-education|וידא�
 - [[llm-grading-assistants-public-health-2026]] — Identical LLM grading reruns on different days reproduce at only Krippendorff's alpha 0.625
 - [[when-students-prefer-ai-scoring-feedback-2026]] — Undergraduates prefer human scoring for high-stakes work and AI as an assistant, not a replacement
 - [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
+- [[in-the-loop-educational-ai-learning-sciences-2026]] — חשיבה מחדש על גישות "בתוך-הלולאה" ב-AI חינוכי: פרספקטיבת מדעי הלמידה
