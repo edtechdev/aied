@@ -1,7 +1,7 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-10-13T04:43:42-04:00"
+updated: "2026-10-15T10:00:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
@@ -54,6 +54,8 @@ Young children interact with AI increasingly early — through AI-enabled toys, 
 
 Because young learners are more vulnerable and less able to self-regulate their use of AI, this cluster emphasizes **scaffolding by adults** (parents, guardians, and teachers), **age-appropriate design**, and the risk of [[cognitive-offloading|over-reliance]] and [[well-being|harm]] if AI substitutes for, rather than supports, the developmental work of play, discovery, and effortful learning. Equity is a live concern: access to AI-rich early learning (or to protective adult guidance) is uneven, connecting to [[digital-divide]] and [[equity-in-ai-education]]. Much of the evidence base remains exploratory or design-oriented rather than causal.
 
+A four-country comparison sharpens the curriculum gap: Japan, South Korea and China's national early childhood guidelines contain no explicit AI literacy references (Shanghai's city-level action plan is the lone exception, specifying no learning progressions), while Australia shows only limited, uneven alignment — strongest in interacting with AI agents, absent in understanding human-AI relationships — leaving AI literacy to the home ([[ai-literacy-ecec-curricula-four-country-2026|Cohrssen et al. (2026)]]).
+
 A first neuroimaging window on this question arrives with a caution: 6–7-year-olds holding a five-minute spoken conversation with ChatGPT in an MRI scanner showed weaker within-network connectivity than adults in the frontoparietal control, salience and dorsal attention networks, at matched creativity scores, and lacked the creativity–connectivity coupling adults showed. Because those executive functions are still immature at first grade, the authors read the result as relevant to the minimum-age debate — while flagging a framing confound and the absence of a no-ChatGPT control as limits on what it settles ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]).
 
 ## Connected Concepts
@@ -95,3 +97,4 @@ A first neuroimaging window on this question arrives with a caution: 6–7-year-
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: a framework for tailoring AI agents and robotics to early learning (Yang, Li & Lee 2025)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — First neuroimaging comparison of children and adults conversing with ChatGPT: less integrated control-attention-memory networks in 6-7-year-olds
 - [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: AI-rated CLASS Pre-K scores versus trained human raters in Hong Kong kindergartens (Fong et al. 2026)
+- [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison

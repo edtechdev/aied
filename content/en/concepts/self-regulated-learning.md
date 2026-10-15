@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-07T14:30:00-04:00"
+updated: "2026-10-15T10:00:00-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -124,6 +124,8 @@ For example:
 - **External support can bypass a learner's own metacognitive judgment.** [[iqbal-human-genai-support-essay-revision-2026|Iqbal et al. (2026)]] traced 87 EFL students revising an essay under [[generative-ai|GenAI]] (ChatGPT 4.0), human-expert, or no support. The support condition was by far the strongest correlate of the revision strategy a student chose (Cramér's V = 0.668), well ahead of carry-over from the preceding writing task (V = 0.333), while metacognitive judgment accuracy (p = 0.172), writing skill (p = 0.261) and [[motivation]] (p = 0.683) were unassociated. Metacognitive judgment tracked strategy only when no support was available (permutation test p = 0.0460). Students with GenAI support gained the most (about 4 points on average under the decreasing-help-seeking strategy, against −0.5 points for the same strategy under human-expert support), yet no revision strategy was associated with score change (H(3) = 3.895, p = 0.273), so the gains came from the tool rather than from better self-regulation. The authors' orientation is that GenAI should prompt reflection on one's revision strategy instead of supplying direct help.
 - **Reflective use tracks critical thinking, not knowledge gain.** [[melanou-genai-learning-dynamics-longitudinal-2026|Melanou et al. (2026)]] followed three parallel classes of business informatics students (N = 87) across a nine-week course, with knowledge rising in every group (F(1, 50) = 29.87, p < 0.001, η²p = 0.374) and no AI advantage, no Time × Group interaction, and no Matthew effect (F(1, 48) = 2.46, p = 0.124; BF01 = 8.70). Reflective use (checking sources and verifying AI output before adopting it) was markedly higher in the AI condition (3.72 vs 2.82; F(1, 40) = 20.21, p < 0.001) and predicted critical thinking (β = 0.43, p < 0.001) but not knowledge gain, which germane cognitive load did predict (β = 0.51, p = 0.001). The practical reading is that AI access is not itself an intervention, and that its metacognitive payoff surfaces in reasoning quality before it surfaces in test scores.
 
+- **Structure, not AI alone, drives SRL gains.** Mapping Zimmerman's phases onto project-based hybrid instruction with AI as [[scaffolding|metacognitive scaffolding]] produced an N-Gain of 0.72 versus 0.28 for conventional instruction (t = 8.47, p < 0.001, [[ai-project-hybrid-learning-self-regulated-2026|Priyambudi et al. (2026)]]), who argue AI strengthens self-regulation only inside task structure — unstructured use risks metacognitive laziness.
+
 ## LLM-Mediated SRL: Scaffold, Shortcut, or Partner?
 
 A cluster of Learning Letters studies (2026) converges on a central tension: [[generative-ai|GenAI]] can scaffold, short-circuit, or partner with self-regulation depending on design and how learners regulate its use. The evidence points to SRL itself — not the tool — as the decisive variable.
@@ -217,3 +219,4 @@ Which support is in play decides which mediator carries the association: among 3
 - [[genai-learning-procrastination-planned-behavior-2026]] — GenAI-assisted learning procrastination: an intention-behavior gap that anxiety strengthens
 - [[genai-srl-l2-writing-scale-2026]] — A validated six-dimension GenAI-SRL scale for L2 writing, with environmental regulation as its own dimension and a 12-item ant-colony-optimized short form
 - [[borchers-srl-language-generalization-2025]] — Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains (Borchers et al. 2025)
+- [[ai-project-hybrid-learning-self-regulated-2026]] — A Project-Based Hybrid Learning Model Using Artificial Intelligence to Enhance Students' Self-Regulated Learning

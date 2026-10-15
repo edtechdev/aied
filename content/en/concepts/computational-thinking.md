@@ -1,7 +1,7 @@
 ---
 title: Computational Thinking
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-15T10:00:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -48,6 +48,8 @@ A central goal for CT in the AI era is moving students and instructors beyond *p
 The new meta-analytic evidence sharpens this picture. [[astor-computational-thinking-meta-review-2026|A meta-review of 128 CT systematic reviews]] finds the field converging on a unified definition of CT as reasoning with abstract models that use computational steps and algorithms to solve problems — precisely the kind of model-building (rather than answer-consuming) thinking that production-oriented learning demands. [[tsingidou-ct-robotics-kindergarten-2026|CT-kindergarten robotics research]] shows even early-childhood learners become producers through play-based building with robots, using problem-based learning, storytelling, and scaffolding — a developmental first step toward seeing technology as something one constructs, not just operates. And [[solving-vs-evaluating-genai-solutions|evaluation-and-critique research]] demonstrates that CT can be exercised through judging and debugging flawed AI solutions — a producer stance toward AI output that resists the passive-consumption trap.
 
 The practical upshot is that CT instruction should be designed so learners *make things with AI* — authoring models, building agents, constructing artifacts, and critiquing AI output — rather than receiving finished solutions. This both deepens CT and builds [[ai-literacy]] as participatory and creative rather than merely conceptual. Teachers, in turn, need support to move from using AI tools to designing AI-enhanced learning activities (see [[teacher-role]] and [[professional-training]]).
+
+Reusing others' models belongs to the producer stance: implementing a published AI model — selecting, installing, running, and validating it — can be taught as a learnable, structured skill with a fallback route for each anticipated failure, and three BSc chemistry students with no programming background reproduced and extended an enzyme-substrate prediction model within four months ([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
 ### Practical guidance
 
@@ -107,4 +109,5 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Systematic review of CT via robotics in kindergarten
+- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models
 

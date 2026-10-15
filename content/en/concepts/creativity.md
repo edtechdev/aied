@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-13T04:43:42-04:00"
+updated: "2026-10-15T10:00:00-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -36,6 +36,7 @@ Creativity spans the divergent-thinking end of the cognitive spectrum — genera
 - **Co-creativity is a network effect, not an individual trait:** [[trikonet-trivalence-co-creativity-2026|Ruhland (2026)]] draws on Actor-Network Theory to model creativity as an emergent property of socio-technical networks — a triadic interplay of stabilization, destabilization, and re-stabilization among human and non-human actors, with [[generative-ai|generative AI]] agents treated as equal, constitutive network participants. In a study where [[pedagogy|pedagogical]] avatars were co-designed in a creative network, the avatar designs were not individual creative acts but emerged through translation processes among students, [[research-methods-aied|researchers]], and design tools. TriKoNet frames the risk that ready-made AI avatars shift creative [[agency]] toward machine-induced convenience (the "Convenience Trap") and argues that co-constituting the AI's action structure with [[learners]] preserves co-creativity.
 
 - **Think-first collaboration sustains independent creativity:** Wong and Qiu (2026) found that students who generated their own ideas *before* using ChatGPT (a "think first, ChatGPT later" protocol) showed no immediate boost on the assisted task, yet outperformed both a free-AI group and a human-only group on a later unassisted creativity task. Freely using ChatGPT produced only transient performance that collapsed when assistance was removed — a form of [[cognitive-offloading|Over-Reliance]] rather than learning — whereas collaborative [[human-ai-collaboration|co-creation]] aimed at improving one's *own* ideas yielded durable gains in independent creativity. This gives direct experimental evidence that protecting creative agency is not merely desirable but is what converts AI-assisted work into learning.
+- **Perceived exemplar source, not content, shapes group ideation.** Identical ChatGPT-generated exemplars labeled as human- versus AI-produced changed group creativity in an fNIRS hyperscanning study of 113 dyads: human attribution raised idea uniqueness during stimulation and interbrain synchrony in premotor and supplementary motor regions, AI attribution only increased switching among ideation pathways, and neither effect persisted once the exemplars were withdrawn ([[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]]).
 - **Developmental implementation, not capacity, separates children's AI-assisted creativity.** In the first neuroimaging comparison of children and adults co-creating with ChatGPT, 6–7-year-olds and adults held the same five-minute spoken conversation inside an MRI scanner. Creativity measured outside the scanner did not differ between groups. Yet adults showed significantly stronger within-network connectivity in the frontoparietal control, salience and dorsal attention networks, and higher creativity predicted stronger frontoparietal–salience coupling in adults but not children. The authors read this as a difference in how creative cognition is *implemented* during AI dialog, not in baseline capacity. It also raises a question the scaffolding advice on this page has not had to answer: when does the control machinery AI-assisted creative work recruits actually mature? ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]])
 
 
@@ -105,3 +106,4 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[genai-dependence-research-creativity-2026]] — Functional versus existential GenAI dependence and research creativity in 1,157 graduate students
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Matched creativity, divergent neural engagement: children vs. adults talking with ChatGPT in an fMRI scanner
 - [[ai-dependence-creativity-motivation-literacy-2026]] — AI dependence and four motivations for use relate divergently to self-reported creativity (Hou et al. 2026)
+- [[ai-exemplar-attribution-creativity-education-2026]] — Supporting creativity education in the age of AI: The role of perceived exemplar source

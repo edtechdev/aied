@@ -5441,3 +5441,336 @@
   - socratic-method
   - equity-in-ai-education
   reason: 'The one distinguishing contribution is the tool-augmented SLM tutor architecture for programming education, woven into cs-education; the small-models-as-agentic-substrate position extends llm''s existing SLM line; browser-resident inference (WebLLM, no API keys, data never leaves the device) extends privacy''s edge/federated data-minimization bullet; and the hardware-capability divide (180s vs 10-58s per trial, Chromebooks cannot run 8B) is a genuinely new first-level hardware angle for digital-divide (grep ''hardware'' -> 0, ''latency'' -> 0). Declined: knowledge-tracing is cited companion work (Wang, Yu & Tan 2026) not a new finding here (grep ''programming'' -> 0); intelligent-tutoring carries the tutoring framing; agentic-ai/scaffolding/socratic-method are framework references; equity-in-ai-education already carries the divide framing the digital-divide page now holds.'
+
+- article: airri-machine-resistant-reading-interface-2026
+  date: '2026-10-15'
+  integrated:
+  - academic-integrity
+  - accessibility
+  no_change:
+  - ai-detection
+  - ai-misuse-learning-harm
+  - assessment-validity
+  - authentic-assessment
+  - automated-assessment
+  - cognitive-psychology
+  - educational-nlp
+  - generative-ai
+  - llm
+  - multimodal
+  - reducing-ai-misuse
+  - remote-proctoring
+  - universal-design-for-learning
+  reason: 'Machine-resistant content design (image perturbations plus decision-based adversarial attacks) is a prevention alternative to detection; woven into academic-integrity (grep ''machine-resistan''
+    -> 0, ''content-design'' -> 0, ''protected document'' -> 0) and accessibility, whose readable-defense tension was absent (grep ''readability'' -> 0, ''machine-resistan'' -> 0, ''stripe'' -> 0, ''typograph''
+    -> 0). Declined: ai-detection already carries the detection frame (grep ''detector'' -> 52) and AIRRI''s point is the contrast to it; automated-assessment, remote-proctoring, authentic-assessment, assessment-validity,
+    educational-nlp, multimodal, llm, generative-ai, academic-integrity''s detection material and the rest are tool, method, or adjacent-concept references.'
+- article: hans-handwritten-answer-sheet-parsing-2026
+  date: '2026-10-15'
+  integrated:
+  - educational-nlp
+  no_change:
+  - ai-ed-evaluation
+  - assessment
+  - automated-assessment
+  - automated-essay-scoring
+  - benchmark
+  - educational-measurement
+  - formative-assessment
+  - k-12
+  - llm-training-and-fine-tuning
+  - machine-learning
+  - multimodal
+  - privacy
+  - problem-solving
+  - qualitative-research
+  reason: 'The answer-sheet noise problem (multi-line derivations, interleaved prose and formulas, hand-drawn tables, strikethroughs) is a distinct parsing challenge; woven into educational-nlp (grep ''handwrit''
+    -> 0, ''document parsing'' -> 0, ''answer sheet'' -> 0). Declined: automated-assessment already carries handwriting material (grep ''handwrit'' -> 14) and its Connected list carries the grading thread;
+    automated-essay-scoring, educational-measurement, benchmark, machine-learning, multimodal, privacy, ai-ed-evaluation, assessment, formative-assessment, k-12, llm-training-and-fine-tuning, problem-solving
+    and qualitative-research are method or tool references.'
+- article: praise-non-programmer-ai-model-implementation-2026
+  date: '2026-10-15'
+  integrated:
+  - computational-thinking
+  no_change:
+  - accessibility
+  - ai-literacy
+  - ai-technologies
+  - chemistry-education
+  - critical-thinking
+  - curriculum-design
+  - educational-policy-ai
+  - equity-in-ai-education
+  - generative-ai
+  - higher-ed
+  - human-ai-collaboration
+  - learning-gains
+  - llm
+  - machine-learning
+  - open-source
+  - problem-based-learning
+  - professional-training
+  - prompt-engineering
+  - research-methods-aied
+  - scaffolding
+  - transfer-of-learning
+  reason: 'Implementing a published AI model as a learnable, structured skill for non-programmers is a producer-stance contribution; woven into computational-thinking (grep ''implement'' -> 1, ''reproduc''
+    -> 0, ''workflow'' -> 0, ''non-programmer'' -> 0). Declined: ai-literacy already carries a working-with-AI model line (grep ''implement'' -> 3, ''reproduc'' -> 2); open-source already carries reproducibility
+    material (grep ''reproduc'' -> 2); machine-learning, generative-ai, llm, prompt-engineering, scaffolding, problem-based-learning, transfer-of-learning, critical-thinking, human-ai-collaboration, accessibility,
+    equity-in-ai-education, educational-policy-ai, research-methods-aied, ai-technologies, chemistry-education, curriculum-design, higher-ed, learning-gains and professional-training are method, tool or
+    audience references.'
+- article: ai-exemplar-attribution-creativity-education-2026
+  date: '2026-10-15'
+  integrated:
+  - creativity
+  no_change:
+  - agency
+  - ai-education
+  - collaborative-learning
+  - conversational-ai
+  - critical-thinking
+  - equity-in-ai-education
+  - ethics
+  - framing-ai-use-for-students
+  - generative-ai
+  - group-work
+  - higher-ed
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - learning-gains
+  - meta-analysis-systematic-review
+  - motivation
+  - multimodal
+  - pedagogical-agent
+  - problem-solving
+  - quantitative-research
+  - research-methods-aied
+  - scaffolding
+  - student-ai-interaction
+  - student-engagement
+  - theories-and-frameworks
+  - trust
+  reason: 'Exemplar-source attribution as a social cue that shifts group creative ideation is a distinguishing mechanism; woven into creativity (grep ''exemplar'' -> 0, ''attribution'' -> 0, ''fnirs'' ->
+    0, ''synchron'' -> 0). Declined: trust carries the calibration thread but the finding here is about attribution as a cue rather than calibrated reliance (grep ''exemplar'' -> 0, ''attribution'' -> 0);
+    student-ai-interaction, collaborative-learning, student-engagement, motivation, group-work, learning-gains, human-in-the-loop-ai, human-ai-collaboration, generative-ai, multimodal, equity-in-ai-education,
+    ethics, agency, critical-thinking, framing-ai-use-for-students, problem-solving, pedagogical-agent, conversational-ai, meta-analysis-systematic-review, quantitative-research, research-methods-aied,
+    scaffolding, theories-and-frameworks and higher-ed are framework, method or tool references.'
+- article: ai-literacy-ecec-curricula-four-country-2026
+  date: '2026-10-15'
+  integrated:
+  - early-childhood-elementary-ai-education
+  no_change:
+  - ai-assisted-educational-research
+  - ai-education
+  - ai-literacy
+  - conversational-ai
+  - culturally-relevant-pedagogy
+  - curriculum-design
+  - digital-divide
+  - educational-policy-ai
+  - equity-in-ai-education
+  - ethics
+  - generative-ai
+  - governance
+  - inquiry-based-learning
+  - llm
+  - pedagogy
+  - qualitative-research
+  - regulation
+  - social-emotional-learning
+  - teacher-ai-competency
+  - teacher-role
+  - theories-and-frameworks
+  - virtual-and-augmented-reality
+  - well-being
+  reason: 'A four-country comparison of early-childhood curricula is a distinguishing curriculum-policy finding; woven into early-childhood-elementary-ai-education (grep ''curricul'' -> 8 but ''australia''
+    -> 0, ''japan'' -> 0, ''korea'' -> 0, ''china'' -> 0). Declined: ai-literacy is the generic home and carries no cross-country curriculum comparison to change; curriculum-design has no ECEC material
+    and the finding is early-childhood specific (grep ''early childhood'' -> 0, ''ecec'' -> 0); educational-policy-ai, governance, regulation, culturally-relevant-pedagogy, social-emotional-learning, digital-divide,
+    equity-in-ai-education, generative-ai, llm, inquiry-based-learning, theories-and-frameworks, ai-assisted-educational-research, qualitative-research, ai-education, conversational-ai, ethics, pedagogy,
+    teacher-ai-competency, teacher-role, virtual-and-augmented-reality and well-being are policy, method or adjacent-concept references.'
+- article: metacognitive-training-ai-socratic-scaffolding-preservice-2026
+  date: '2026-10-15'
+  integrated:
+  - metacognition
+  no_change:
+  - ai-feedback-quality
+  - assessment-validity
+  - cognitive-offloading
+  - conversational-ai
+  - critical-thinking
+  - feedback
+  - generative-ai
+  - human-ai-collaboration
+  - icap-framework
+  - learning-gains
+  - llm
+  - pedagogy
+  - quantitative-research
+  - rct
+  - research-methods-aied
+  - scaffolding
+  - self-regulated-learning
+  - socratic-method
+  - student-ai-interaction
+  - teacher-ai-competency
+  - teacher-education
+  - teacher-role
+  reason: 'The metacognition-by-tool interaction (AI Socratic scaffolding helps only after metacognitive training) is a distinguishing finding; woven into metacognition (grep ''socratic'' -> 0, ''pre-service''
+    -> 0, ''prepar'' -> 1). Declined: socratic-method already carries metacognition material (grep ''metacognit'' -> 3, ''training'' -> 7) and the gating variable belongs on the metacognition page; self-regulated-learning,
+    teacher-ai-competency, cognitive-offloading, feedback, ai-feedback-quality, critical-thinking, learning-gains, assessment-validity, human-ai-collaboration, conversational-ai, generative-ai, llm, scaffolding,
+    student-ai-interaction, teacher-role, teacher-education, icap-framework, rct, quantitative-research, research-methods-aied and pedagogy are framework, method or tool references.'
+- article: culturally-embedded-ai-diagnostic-assessment-2026
+  date: '2026-10-15'
+  integrated:
+  - cognitive-diagnosis
+  no_change:
+  - adaptive-learning
+  - ai-technologies
+  - assessment
+  - assessment-validity
+  - automated-assessment
+  - culturally-relevant-pedagogy
+  - differential-effects-across-learner-groups
+  - educational-measurement
+  - educational-nlp
+  - equity-in-ai-education
+  - explainable-ai
+  - feedback
+  - formative-assessment
+  - k-12
+  - learning-analytics
+  - learning-gains
+  - math-education
+  - misconceptions
+  - pedagogy
+  - quantitative-research
+  - scaffolding
+  - situated-learning
+  - student-engagement
+  - teacher-role
+  - theories-and-frameworks
+  reason: 'Culturally contextualized diagnostic tasks preceding AI response analysis is a distinguishing design move with an AI-expert agreement estimate; woven into cognitive-diagnosis (grep ''cultur''
+    -> 0, ''indonesia'' -> 0, ''diagnostic task'' -> 0). Declined: math-education already carries AI diagnostic-assessment material for mathematics (grep ''diagnos'' -> 18, ''cultur'' -> 2) and the cultural-embedding
+    idea is the new element now recorded on cognitive-diagnosis; educational-measurement already carries diagnosis material (grep ''diagnos'' -> 3); culturally-relevant-pedagogy, assessment, assessment-validity,
+    automated-assessment, adaptive-learning, educational-nlp, learning-analytics, learning-gains, student-engagement, formative-assessment, equity-in-ai-education, differential-effects-across-learner-groups,
+    scaffolding, teacher-role, theories-and-frameworks, explainable-ai, feedback, k-12, misconceptions, pedagogy and situated-learning are method, tool or adjacent-concept references.'
+- article: microlearning-ai-modules-vocational-teacher-education-2026
+  date: '2026-10-15'
+  integrated:
+  - teacher-ai-competency
+  no_change:
+  - accessibility
+  - ai-literacy
+  - assessment
+  - curriculum-design
+  - design-based-research
+  - digital-divide
+  - edtech-platform
+  - educational-development
+  - ethics
+  - feedback
+  - formative-assessment
+  - generative-ai
+  - higher-ed
+  - learning-design
+  - learning-theories
+  - multimodal
+  - online-teaching-and-learning
+  - pedagogy
+  - professional-training
+  - qualitative-research
+  - quantitative-research
+  - regulation
+  - scaffolding
+  - self-directed-learning
+  - teacher-education
+  - teacher-role
+  - vocational-education
+  reason: 'Microlearning as an AI-competence CPD format with five derived design principles is a distinguishing contribution; woven into teacher-ai-competency (grep ''microlearning'' -> 0, ''vocational''
+    -> 0, ''module'' -> 0). Declined: professional-training carries vocational material (grep ''vocational'' -> 5) and the competence-development framing belongs on teacher-ai-competency; educational-development,
+    learning-design, curriculum-design, ai-literacy, assessment, feedback, formative-assessment, generative-ai, edtech-platform, online-teaching-and-learning, scaffolding, accessibility, ethics, regulation,
+    teacher-role, teacher-education, vocational-education, higher-ed, digital-divide, learning-theories, multimodal, pedagogy, self-directed-learning, quantitative-research, qualitative-research and design-based-research
+    are method, tool or audience references.'
+- article: ai-project-hybrid-learning-self-regulated-2026
+  date: '2026-10-15'
+  integrated:
+  - self-regulated-learning
+  no_change:
+  - academic-integrity
+  - ai-education
+  - ai-feedback-quality
+  - ai-technologies
+  - assessment
+  - automated-assessment
+  - collaborative-learning
+  - design-based-research
+  - equity-in-ai-education
+  - generative-ai
+  - guardrails
+  - help-seeking
+  - higher-ed
+  - human-ai-collaboration
+  - intelligent-tutoring
+  - learning-analytics
+  - learning-gains
+  - llm
+  - metacognition
+  - mixed-methods-research
+  - motivation
+  - online-teaching-and-learning
+  - pedagogy
+  - peer-assessment
+  - personalized-learning
+  - privacy
+  - project-based-learning
+  - quantitative-research
+  - reducing-ai-misuse
+  - scaffolding
+  - self-assessment
+  - self-directed-learning
+  - self-efficacy
+  - self-report-measures
+  - teacher-role
+  - theories-and-frameworks
+  reason: 'Embedding AI inside task structure to raise self-regulation, with the opposite risk when unstructured, is a distinguishing design claim backed by a quasi-experiment; woven into self-regulated-learning
+    (grep ''project-based'' -> 0, ''hybrid'' -> 0, ''unstructured'' -> 0). Declined: project-based-learning carries the PBL framing but the SRL outcome measure is the new element on the SRL page (grep ''self-regulat''
+    -> 1); reducing-ai-misuse already carries metacognitive-laziness material (grep ''self-regulat'' -> 2, ''structured'' -> 1); intelligent-tutoring, personalized-learning, learning-analytics, automated-assessment,
+    ai-feedback-quality, peer-assessment, help-seeking, self-efficacy, self-assessment, metacognition, motivation, scaffolding, collaborative-learning, human-ai-collaboration, ai-technologies, generative-ai,
+    llm, guardrails, academic-integrity, privacy, equity-in-ai-education, learning-gains, assessment, online-teaching-and-learning, theories-and-frameworks, teacher-role, mixed-methods-research, quantitative-research,
+    design-based-research, ai-education, higher-ed, pedagogy and self-report-measures are method, tool or adjacent-concept references.'
+- article: facilitator-vs-ai-mediated-pbl-pharmacology-2026
+  date: '2026-10-15'
+  integrated:
+  - problem-based-learning
+  no_change:
+  - academic-integrity
+  - ai-misuse-learning-harm
+  - assessment
+  - collaborative-learning
+  - conversational-ai
+  - critical-thinking
+  - feedback
+  - generative-ai
+  - group-work
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - intelligent-tutoring
+  - learning-design
+  - learning-gains
+  - llm
+  - medical-education
+  - mixed-methods-research
+  - pedagogical-agent
+  - problem-solving
+  - quantitative-research
+  - scaffolding
+  - self-directed-learning
+  - student-ai-interaction
+  - student-engagement
+  - teacher-role
+  reason: 'AI-mediated PBL matching facilitator-led academic gains while facilitator-led groups retained group-dynamics and critical-thinking advantages is a distinguishing comparison; woven into problem-based-learning
+    (grep ''facilitator'' -> 3 but ''ai-mediated'' -> 0). Declined: medical-education already carries problem-based and ChatGPT material for the discipline (grep ''problem-based'' -> 4, ''chatgpt'' -> 4);
+    human-in-the-loop-ai carries no pharmacology material but the substitution question belongs on the PBL page (grep ''facilitator'' -> 0, ''problem-based'' -> 0); collaborative-learning, group-work, critical-thinking,
+    student-engagement, intelligent-tutoring, pedagogical-agent, conversational-ai, generative-ai, llm, scaffolding, self-directed-learning, human-ai-collaboration, feedback, assessment, learning-gains,
+    academic-integrity, ai-misuse-learning-harm, student-ai-interaction, human-in-the-loop-ai, problem-solving, learning-design, mixed-methods-research, quantitative-research and teacher-role are framework,
+    method or tool references.'
