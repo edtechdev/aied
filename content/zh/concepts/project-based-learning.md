@@ -8,13 +8,17 @@ technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -44,6 +48,8 @@ PBL 与[[active-learning]]、[[experiential-learning]]、[[collaborative-learnin
 - **游戏化耦合：** [[game-based-gamified-robotics-education-review-2026|一项系统综述]]发现，机器人教育中的[[game-based-learning|游戏化]]强烈有利于基于项目的学习（p = .009）。
 
 关于这一配对的唯一三层元分析汇集了 22 项受控研究（66 个效应量，2023 年 1 月至 2026 年 4 月），估计 GenAI 支持的 PBL/PjBL 效应较大，g = 0.819，95% CI [0.655, 0.983]，尽管作者的 PET-PEESE 敏感性分析把估计降到 g = 0.378，因此头条数字应读作可能被夸大（[[chen-pbl-pjbl-genai-meta-analysis-2026|Chen 等 2026]]）。工具类型显著调节效应（QM = 14.301，p < .001）：直接使用的通用聊天机器人汇集值更高（g = 0.970），高于定制进课程平台、虚拟病人或智能体的系统（g = 0.455），暗示工具如何嵌入比选哪个模型更重要。
+
+- **作为大规模智能体设计者的学生：** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari 等（2026）]]让一个 700 名学生的软件设计课程中的 345 名本科生，各自构建一个向同伴讲解三种设计模式的对话式智能体——A 部分是一个带支架的 Dialogflow CX 教程，B 部分是一个开放式设计任务。开放式性是最主要的正面主题（22.3%），而指令不清位居负面之首（23.7%），感知到的学习与小测分数仅有中度相关（r = 0.161–0.315）。给 PBL 的设计教训：学生创建的制品可以把自翻转课堂的所有权益处带入 AI 工具情境，但这项探索性的、无对照组的证据支持的是参与主张，而非因果优越性。
 
 - **AI 素养与协同设计：** PBL 是许多[[ai-literacy|AI 素养]]和[[teacher-education]]干预的基础，学习者协同创建 AI 工具或资源。
 - **AI 智能体支持的软件 PBL：** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka 等（2026）]]把规范驱动开发（Spec-Driven Development）与[[agentic-ai|AI 智能体]]嵌入一个团队式本科软件 PBL 课程，把项目结构化为调查、规划、实现和评审阶段，配以由教师主持的理解检查。

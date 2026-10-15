@@ -12,13 +12,17 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -65,6 +69,7 @@ ai_assist:
 - **面向评估的语境感知提示。**对预训练语言模型做语境感知的提示，可以从过程数据中自动编码[[collaborative-learning|协作问题解决]]技能的标注，建模行为编码之间的依赖关系，并融合认知与社会能力。这使结构化的 CPS 分析得以规模化、实时地进行，克服了手工编码方案的劳动密集性。
 - **教师规划中基于角色的模板与质量量规。**[[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo 与 Tahir（2025）]]为儿童 STEAM 艺术[[curriculum-design|课程规划]]经验性地开发了一个提示框架，把"角色（R）–指令（I）–终点目标（E）"模板（改编自 RISEN）与一份"四点一线"优化量规——标准化、实用、吸引人且完整，外加一个拓展维度——配对。把该量规应用于批判与精炼提示，使生成的方案保持在执业美术教师可接受的范围内（均分高于 4/5），同时暴露了纯一次性提示未加处理的重现性缺口（[[personalized-learning|个性化]]、[[pedagogical-safety|儿童安全]]约束、文化偏见）——表明提示模板加显式评价标准，充当了课堂生成的质量控制支架。
 - **角色与约束设计作为自变量。**[[wang-teacher-student-centered-agents-physics-2026|Wang 等（2026）]]比较了构建于同一模型与平台、温度同为 0.3 的两个代理，其唯一差别在于提示如何规定角色、技能与约束：一个从有边界的教科书知识来源作答的专家教师代理，对一个被脚本设定为诊断[[misconceptions]]并检查理解的共情型学生中心代理。仅角色差异就改变了学习表现、认知负荷、心流体验与被感知到的共情，表明角色规定是一个有可测效应的教学设计决策，而非风格上的点缀（[[pedagogical-agent]]）。
+- **提示作为评估设计。**[[ecd-prompts-automated-essay-scoring-2026|Xiong 等（2026）]]把以证据为中心的设计（Evidence-Centered Design）的学生模型、证据模型与任务模型映射到评分提示的各个部分，推导出五项原则——意图性、可追溯性、可问责性、迭代与公平性；他们用 ECD 构建的提示在叙事作文上的评分比零样本、少样本与思维链基线更准确。
 
 ### 与更宽概念的关联
 
@@ -123,3 +128,4 @@ ai_assist:
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
 
 - [[middle-school-genai-steam-interactions-2026]] — 中学 STEAM 小组在 47.1% 的提示中逐字照抄了讲师的指令
+- [[ecd-prompts-automated-essay-scoring-2026]] — 以证据为中心的设计引导测量中的提示工程：以自动作文评分为例

@@ -1,7 +1,6 @@
 ---
 title: 认知外包
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:39:20-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,13 +11,17 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-13T04:43:42-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -175,11 +178,15 @@ AI 在教育中最重大的风险：
 
 **并非所有被外包的摩擦都是多余摩擦。****[[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar、Bloom 与 Inzlicht（2026）]]**提出了外包文献所需的区分：先前的[[ai-technologies|AI 技术]]移除了*多余*摩擦 —— 乏味或难以逾越、却少有学习或意义价值的障碍 —— 而智力工作中的生成式 AI 还剥离了*有益*摩擦，使学习者能从构思直接跳到评价而不质疑输出。他们直白地集结了关联性证据：使用 AI 的人难以准确回忆或复现自己的作品，习得更少技能，迁移更差，在 AI 支持被撤去后表现更糟 —— 与关于使用 AI 助手写作文的 EEG 研究的认知债务发现相收敛。他们的论证还提供了纯认知解释所遗漏的机制中动机那一半：因为努力标示着我们的行动有意义，外包它便降低了对目的与意义的评价，而当 AI 在一个领域中替代了努力，该领域努力带来的动机回报随之侵蚀，依赖进一步加深。该文的纠正是梯度式的，而非禁令式的 —— 保全适度的奋斗，移除只会压垮人的东西（[[desirable-difficulties|合意困难]]、[[motivation|动机]]）。
 
+- **投入不足的信号呈现发展性。**一项对儿童与成人和 ChatGPT 交谈的首个神经影像比较发现，6–7 岁儿童在额顶控制、显著性与背侧注意网络内的网络内连接弱于成人 —— 在创造力得分相当的情况下 —— 且缺乏成人表现出的创造力–连接耦合。由于这些执行功能（计划、监控、抑制）在一年级时尚不成熟，作者把该结果读作与最低年龄之争相关。注意事项：没有无 ChatGPT 对照组，n = 31，且存在一个可能压制了儿童批判性评价的框架混淆（[[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus 等（2026）]]）。
+
 - **依赖式对自主式外包 —— 决定结果的那个区分：** **[[family-school-autonomy-support-genai-2026|Fan、Li 与 Zhang（2026）]]**围绕这一边界的强化版组织 GenAI 证据，依据的是一项对 589 名学生与早期职业知识工作者的三波研究：*依赖式*外包把核心思考委派给工具，与转移的[[agency|能动性]]、更低的内在动机和更差的感知认知结果相关；*自主式*外包则把认知能动性留在学习者一侧，呈相反模式。对识别而言最重要的发现是，两种模式之间的即时表现益处没有差异，因此学习者任何一天流畅地解决问题并不能说明他处于哪种模式。同一综述还记录了证据中更广的分裂 —— 一项[[meta-analysis-systematic-review|元分析]]显示总体获益中等（g = 0.499；理解、认知与创造力为 g = 0.669），而与依赖、疲劳和更弱的[[critical-thinking|批判性思维]]之间的关联 —— 并把适应不良的使用追溯到外化的自我调节，而非技术成瘾。
 
 - **三条交互路径，而非一种行为。**神经可塑性–AI 交互模型（NAIM）分离了三条路径：直接绕过，即模型提供解答、生成性投入消失；认知外包，即特定的子过程被委派，其效应取决于这些子过程是否为学习目标；以及脚手架，即模型把帮助约束起来以保全努力性加工（[[naim-bypass-offload-scaffold-llm-learning-2026]]）
 
 最近一批研究中的两项受控研究把这一主张的两半钉死了 —— 行为是否发生转移，以及它原本在保护什么。**[[metacognitive-feedback-anti-deskilling-offloading-2026|Maier 等（2026）]]**在一项有 704 名参与者练习分数运算的预注册实验中，使外包的学习后果在每次选择前可见：外包一个答案的几率降至 OR = 0.47，在之后的无辅助测试题上答对的几率升至 OR = 1.51，而基于努力的奖励对两者都没有作用。外包在会话内会复合 —— 外包一项之后，参与者外包下一项的比例在无反馈时为 69.7%，有反馈时为 55.9% —— 且外包每上升十个百分点，无辅助成功的几率降低 32%（OR = 0.68）。**[[chatgpt-programming-performance-retention-ownership-2026|Bergh 等（2026）]]**提供了结果一侧的补充：55 名用 ChatGPT 编程的计算机科学本科生得分 89% 对不用的 69%，对同样材料的即时回忆更少（41% 对 53%）、48 小时后也更少（39% 对 52%），且只把 45% 的提交代码归功于自己（对 81%）。合起来读，反馈研究表明行为可以在不限制接触工具的情况下被转移，而编程研究表明被转移的行为原本在保护什么。该模型对照现有最强的实地证据校准：在一项对近 1,000 名高中[[math-education|数学]]学生的研究中，不受限的 GPT-4 接触把练习表现提高 48%，却在无辅助考试上留下 17% 的赤字，而受提示约束的 GPT Tutor 产生了 127% 的练习增益，考试赤字基本消除。因此，外包只在绕过配置下有害，而起作用的设计变量是模型是否替代了被评定的目标技能。([[naim-bypass-offload-scaffold-llm-learning-2026]])
+
+同样的逻辑把奖励塑形变成一种设计工具：[[assistance-dilemma-rl-tutoring-2026|Macina 等（2026）]]用带遮蔽的近迁移后测与两道二元门来训练大语言模型导师，使奖励只能经由学生自己话轮中写下的内容上升，而他们的消融实验显示，减少解答移交的是那两道门，而非原始的学习增益奖励。
 
 ## 关联概念
 
@@ -242,4 +249,5 @@ AI 在教育中最重大的风险：
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — 外包倾向与核验素养经元认知自我调节预测高阶结果（Davor 等，2026）
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt reduces acceptance of incorrect AI advice and improves awareness calibration (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI 依赖作为批判性思维倾向与自感就业力的边界条件（Shojaei 等，2026）
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - 儿童在与 ChatGPT 交谈时额顶、显著性与背侧注意网络的连接弱于成人，而创造力得分相当
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI 与儿童创造力：范围综述中的过度依赖与提示依赖（Niu 等，2026）

@@ -12,8 +12,9 @@ audience: [instructors, instructional designers, administrators, researchers, le
 page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
+reviewed_by: [editor]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-01T10:47:53-04:00"
+source_updated: "2026-10-11T09:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -21,102 +22,113 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **不同学习者群体间的差异效应** —— [[ai-education|AI in education]]（教育中的人工智能）研究对下列问题的发现：AI 的*使用*方式及其*效果*在不同类型的学习者之间如何不同。这包括[[special-education|残障学生]]与[[neurodiversity|神经多样性学生]]、第二语言学习者与[[multilingual-learning|多语言学习者]]、女生与男生、少数族裔学生、来自低收入家庭的学生、农村学生、第一代大学生、国际学生以及[[adult-learning|成年学习者]]。值得带走的图景在两个方向上同时是不均衡的：一些分支拥有真实证据（残障、语言），另一些则近乎空白（第一代大学生、国际学生、难民），而且即便是证据较强的分支，也极少能证明某个*群体*本身存在差异——它们证明的是某个工具帮助或损害了该群体的一个样本，这是完全不同的论断。本页梳理已有证据、这些证据说明了什么，以及为什么在方法上群体均值不能被当作对某个学习者的预测。
+> **不同学习者群体间的差异效应** —— [[ai-education|AI 在教育中的应用]]研究发现的关于 AI 的*使用*及其*效应*如何在不同类型的学习者之间有所不同：[[special-education|残障学生]]与[[neurodiversity|神经多样性学生]]、第二语言与[[multilingual-learning|多语言学习者]]、女孩与男孩、少数群体学生、来自较低收入家庭的学生、农村学生、第一代大学生、国际学生，以及[[adult-learning|成人学习者]]。值得记住的模式是同时在两个方向上都不均衡：一些分支拥有真实证据（残障、语言），而另一些几乎空白（第一代、国际、难民）；即便在证据较强的分支中，也很少能证明某个*群体*存在差异——它们证明的是某个工具帮助或损害了该群体的一个样本，这是两种不同的主张。本页梳理了现有的研究、它们揭示了什么，以及为什么群体均值不能作为对某个学习者的预测的方法论原因。
 
 ## 值得思考的问题
 
-- 你的工具对你的课堂上大多数学生都有效，而其中一个五人的子群遇到了困难。这种规模的子群差异，在这类研究中究竟能否被检测出来？你又是否愿意仅凭这一点证据就为全班更换工具？
-- 关于残障学生的研究报告了因残障类别而异的效应。如果两个类别在同一个[[meta-analysis-systematic-review|元分析]]中落在差异很大的效应量上，这能说明什么——在做设计决策时把"残障"当作一个群体来处理意味着什么？
-- 多项研究发现 AI 工具在其效果上并不存在性别差异，而另一些工作则显示[[ai-feedback-quality|AI 反馈]]与 AI 辅助写作*确实*会在人格设定或提示词承载偏见时复现性别刻板印象。这两者如何能同时成立？
-- 大多数公平性研究测试的是模拟的学生人格，而不是真实学习者，因为在多数部署中模型在推理阶段拿不到真实的人口统计属性。一次反事实人格审计能确立什么，又不能确立什么？
-- 浏览本页的各个分支，哪些学习者群体在你所用工具的验证研究背后真正被代表了？对于某个缺席的群体，你会怎么做？
-- 一项让所有人的结果都提升、同时缩小了差距（帮助原本落后的学生最多）的干预，其公平性叙事与一项只提升均值的干预完全不同。当你评估一个试点时，你测量的是差距还是均值？
+- 你的工具对班上的大多数学生都有效，但有一个五人小组遇到了困难。这样规模的小组差异在这类研究中是否根本就能被检测出来——你会愿意仅凭这一点证据就为整个班级更换工具吗？
+- 关于残障学生的研究报告的效应因残障类别而异。如果两类残障在同一个[[meta-analysis-systematic-review|元分析]]中处于非常不同的效应量水平，这对把"残障"当作设计决策中的一个群体意味着什么？
+- 多项研究发现 AI 工具的效应*并不*因性别而异，而另一些研究显示[[ai-feedback-quality|AI 反馈]]与 AI 辅助写作*确实*会在人设或提示词带有偏见时复制性别刻板印象。这两者如何能同时成立？
+- 大多数公平性研究测试的是模拟的学生人设而非真实学习者，因为在多数部署中模型在推理时无法获得真实的人口统计属性。反事实人设审计能够确立什么，又无法确立什么？
+- 浏览本页的各条研究线索：你的工具验证背后的研究中，实际上有哪些学习者群体被代表了——如果某个群体缺席，你会怎么做？
+- 一个为所有人提升成绩、但同时缩小了差距（帮助落后的学生最多）的干预，其公平性叙事与一个只提升均值的干预不同。当你评估试点时，你测量的是差距还是均值？
 
 ## 引言
 
-"AI 对*这类*学生有效吗？"这个问题里藏着两个问题。第一个是关于效应的：一个工具是否为不同群体产生不同结果。第二个是关于使用的：不同群体是否以不同方式采用、获取或与同一个工具互动，这可以在完全没有差异效应的情况下影响结果。本页逐一群体地覆盖这两方面，并直率地指出文献在哪里止步。
+"AI 对*这类*学生有效吗？"这个问题内部藏着两个问题。第一个是关于效应的：工具是否对不同群体产生不同结果。第二个是关于使用的：不同群体是否以不同方式采纳、获取或与同一工具互动，即使没有任何差异效应，这也会塑造结果。本页逐一覆盖这两个方面，并坦率说明文献止步之处。
 
-它刻意不是对邻近页面的重复。[[equity-in-ai-education|Equity in AI Education]]（AI 教育中的公平）承载规范性与结构性框架——获取、代表性与结果公平，以及关于 AI 在教育中*应当*做什么的论证。[[inclusive-learning|Inclusive Learning]]（包容性学习）承载设计框架，包括[[universal-design-for-learning|通用学习设计]]。[[digital-divide|Digital Divide]]（数字鸿沟）覆盖获取与技能层面。[[neurodiversity]]、[[special-education|特殊教育]]、[[accessibility]]和[[multilingual-learning|多语言学习]]深入单一群体。留给本页的是跨群体的证据地图与一个评估性问题：这些效应如何被估计、究竟研究了哪些群体，以及一个群体层面的发现能授权你做什么。
+它刻意不与相邻页面重复。[[equity-in-ai-education|AI 教育中的公平]]承载规范性与结构性框架——获取、代表性与结果公平，以及 AI 教育*应当*做什么的论证。[[inclusive-learning|全纳学习]]承载设计框架，包括[[universal-design-for-learning|通用学习设计]]。[[digital-divide|数字鸿沟]]覆盖获取与技能层面。[[neurodiversity]]、[[special-education|特殊教育]]、[[accessibility]]与[[multilingual-learning|多语言学习]]深入单一群体。留给本页的是跨群体证据地图与评判问题：这些效应如何被估计、哪些群体真正被研究过，以及一个群体层面的发现能赋予你什么。
 
-## 群体差异如何被报告，以及为何其中大部分做不到
+## 群体差异如何被报告，以及为何其中大部分无法说明问题
 
-**单一群体研究不是差异效应研究。** 该领域多数文献在没有对照组的情况下测量一个群体。[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang 等人（2024）]]汇总了 29 项关于面向残障学生的 AI 的（准）实验研究，发现了中等程度的正向效应（Hedges' g = 0.588，95% CI [0.349, 0.826]）——却没有神经典型对照组。这说明的是某项干预有帮助，而不是它对这个群体的帮助有所不同。
+**单一群体研究不是差异效应研究。** 该领域的大部分文献在没有对照组的情况下测量一个群体。[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang 等（2024）]]汇总了 29 项针对 AI 用于残障学生的（准）实验研究，发现中等强度的正效应（Hedges' g = 0.588，95% CI [0.349, 0.826]）——但没有神经典型对照组。这告诉你的是干预有帮助，而不是它以不同方式帮助了这个群体。
 
-**子群分析通常样本太小，无法回答这个问题。** [[ai-tutoring-micro-rct-gcse-science-2026|GCSE 科学微型 RCT]]异常明确：其处理×状态交互项为 0.57 分（95% CI −2.25 至 3.39），分层的估计值为一个群体 g = 0.28（95% CI −0.04 至 0.59）、另一个群体 g = 0.35（95% CI 0.18 至 0.52）。一个与零重叠的子群区间是一个留给本地试点的问题，而不是全班规则的依据。
+**亚组分析通常规模过小，无法回答问题。** [[ai-tutoring-micro-rct-gcse-science-2026|GCSE 科学微随机对照试验]]异常明确：其"处理 × 身份"交互效应为 0.57 分（95% CI −2.25 至 3.39），分层估计一组为 g = 0.28（95% CI −0.04 至 0.59），另一组为 g = 0.35（95% CI 0.18 至 0.52）。与零重叠的亚组区间是留给本地试点的问题，而非全班规则的基础。
 
-**人口统计属性通常是模拟的。** 真实学习者的人口统计很少被挂到模型输入上，因此审计机构提供的是人格。[[demographic-signals-llm-student-assessment-2026|Rooein、Benedetto 与 Hovy（2026）]]让六个指令微调模型在模型默认、显式人格和隐式历史三种条件下完成三项教育任务——192,480 次推理调用——发现显式人格和*隐式*对话历史都会改变模型行为。他们的区分值得保留：意识到学习者差异可以是可取的（针对学习者的第一语言调整反馈），而当同样的敏感性改变了它对相同作品的评判时，它就是伤害。
+**人口统计属性通常是模拟的。** 真实学习者的人口统计信息很少被附加到模型输入上，因此审计改用人设。[[demographic-signals-llm-student-assessment-2026|Rooein、Benedetto 与 Hovy（2026）]]在三个教育任务上、在模型默认、显式人设与隐式历史三种条件下运行了六个指令微调模型——共 192,480 次推理调用——发现显式人设与*隐式*对话历史都会改变模型行为。他们的区分值得保留：意识到学习者差异可能是可取的（为学习者的第一语言调整反馈），而当同样的敏感性改变了对相同作业的判断时，它就是一种伤害。
 
-**公平性修补未必能泛化。** [[student-attention-estimation-fairness-2026|Fragkiadakis 等人（2026）]]在[[assessment-validity|验证]]数据上缩小了学生注意力估计中针对性别和年龄的误差差距，但这些收益并不能一致地迁移到未见的科目或被试层面的重复划分上。
+**公平性修正未必可泛化。** [[student-attention-estimation-fairness-2026|Fragkiadakis 等（2026）]]在[[assessment-validity|验证]]数据上缩小了学生注意力估计中针对性别与年龄的误差差距，但这些提升未能一致地迁移到留出学科或重复的学科级划分上。
 
-**群体标签掩盖了内部差异。** 在同一项残障元分析中，有特定学习障碍、智力和发育障碍或失聪的学生显示出更大的效应（g = 0.952），而自闭症谱系障碍学生为（g = 0.368）——作者报告这一差异在来自 41 个独立样本的 239 个效应量上并不具有统计显著性。"残障"不是一个群体，"L2 学习者"同样不是。
+**群体标签掩盖了其内部的变异。** 在同一残障元分析中，特定学习障碍、智力与发育障碍或失聪学生的效应更大（g = 0.952），高于自闭症谱系障碍学生（g = 0.368）——作者报告这一差异在 41 个独立样本的 239 个效应量上并不具统计显著性。"残障"不是一个群体，"二语学习者"也不是。
 
 ## 残障与神经多样性
 
-这是知识库中最深的一条分支，也是报告最规范的一条。
+这是知识库中最深的一条线索，也是报告最扎实的一条。
 
-- **效应是真实的，但在不同结果上分布不均。** 在[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang 等人（2024）]]中，[[learning-gains|学业表现]]显示出最大的效应（k = 80，g = 0.929），高于日常生活与其他技能（g = 0.766）以及社交情感技能（k = 144，g = 0.382）。存在发表偏倚（Egger's test β = 2.837，p < .001）；剪补法将合并估计降至 g = 0.2694，且仍具统计显著性。把头条效应与偏倚调整后的效应一起读。
-- **该领域已经围绕[[generative-ai|生成式 AI]]重组。** [[assistive-tech-neurodivergent-higher-ed-review-2026|面向神经多样性学生的数字辅助技术范围综述]]筛出 766 条记录，纳入 40 项实证研究，其中 15 项使用生成式 AI，11 项使用沉浸式形式。这条分支规模小且新，而非成熟。
-- **一些 AI 支持起的是拉平作用而非区分作用。** [[adhd-video-segmentation-computing-education|Pimenova、Begel 及同事]]在一项被试内研究（17 名 ADHD，10 名非 ADHD）中把[[video-education|教学视频]]切成单条指令的片段并加入固定停顿：所有人都进步了，ADHD 参与者的错误与犹疑下降到与非 ADHD 同伴持平。这是通过自动内容变换实现[[universal-design-for-learning|通用学习设计]]的现有最强证据形态：一个能缩小差距的普适性改变，而非针对某个群体的修补。
-- **神经多样性学生说自己需要的东西往往很朴素。** [[neurodivergent-computing-students|一项对 24 名神经多样性计算机专业学生和 20 名神经典型同伴的调查]]（含四次访谈）发现，学生对缺乏清晰结构或带有模糊期望的作业有显著的不适感——而这种调适并不需要花费什么就能提供。
-- **设计选择也可能在认识论层面排斥。** [[genai-minoritized-knowledges-disability|Tali-Otmani（2026）]]论证，以英语为中心、西方中心的训练数据将非霸权性的认知方式边缘化，并以此批评把残障学习者的处境置于中心。
+- **效应真实存在，但在不同结果上分布不均。** 在[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang 等（2024）]]中，[[learning-gains|学业表现]]显示最大效应（k = 80，g = 0.929），高于日常生活及其他技能（g = 0.766）与社会情感技能（k = 144，g = 0.382）。存在发表偏倚（Egger 检验 β = 2.837，p < .001）；剪补法将汇总估计降至 g = 0.2694，仍具统计显著性。请把头条效应与偏倚校正后的效应一并阅读。
+- **该领域已围绕[[generative-ai|生成式 AI]]重组。** [[assistive-tech-neurodivergent-higher-ed-review-2026|面向神经多样性学生的数字辅助技术范围综述]]筛查了 766 条记录，纳入 40 项实证研究，其中 15 项使用生成式 AI，11 项使用沉浸式形式。这条线索小而新，尚未成熟。
+- **一些 AI 支持是拉平差距而非制造差异。** [[adhd-video-segmentation-computing-education|Pimenova、Begel 及同事]]在一项被试内研究（17 名 ADHD、10 名非 ADHD）中将[[video-education|教学视频]]切分为单条指令的片段并设置固定停顿；所有人都提升了，ADHD 参与者的错误与犹豫降至与其非 ADHD 同伴持平。这是通过自动化内容转换实现[[universal-design-for-learning|通用学习设计]]的现有最强证据形态：一项弥合差距的通用改动，而非针对群体的修补。
+- **神经多样性学生所说的需求往往很平凡。** [[neurodivergent-computing-students|一项对 24 名神经多样性计算机专业学生与 20 名神经典型同伴的调查]]（含四次访谈）发现，对缺乏清晰结构或期望含糊的作业存在显著不适——而这种调整的提供成本为零。
+- **设计选择也可能在认识论上排斥人。** [[genai-minoritized-knowledges-disability|Tali-Otmani（2026）]]论证，以英语为中心、西方中心的训练数据将非主流认知方式边缘化，并把残障学习者的处境置于该批判的核心。
 
 ## 语言：第二语言、多语言与英语学习者
 
-按文章数量计这是最大的一条分支，且清晰地分为工具效应与工具伤害两部分。
+按文章数量这是最大的线索，它清晰地分为工具效应与工具危害两类。
 
-- **工具效应令人鼓舞但噪音很大。** [[robot-assisted-language-learning-meta-analysis-2026|Wang、Zhang 与 Zou（2026）]]对 11 项（17 个效应量，N = 595）机器人辅助[[language-learning|语言学习]]研究做了元分析，发现整体正向效应（g = 0.83，95% CI [0.46, 1.21]）伴随高异质性（I² = 84.4%）；在所测的六个调节变量中，只有机器人—学习者互动类型显著。这个规模的证据基础支持一个临时性的[[benchmark]]，而不是采购决策。
-- **在任何工具被使用之前，基础设施本身就是不均衡的。** [[structural-silence-underrepresented-language-ai-2026|Roy 与 Roy（2026）]]以孟加拉语为案例记录了语料缺口：全球网络内容中不足 0.5%，而英语约为 49.5%，尽管孟加拉语使用者接近世界人口的 4%。
-- **教学语言会改变 294 名高等教育学生的结果。** 同一篇综述报告，外语内容的结果低于母语教学，且双语[[cs-education|编程]]教学优于纯英语教学。
-- **检测器惩罚第二语言写作者。** [[hadra-ai-detector-accuracy-efl-2026|Hadra、Cambridge 与 Mesbah（2026）]]用 Turnitin 和 Originality 测试了 192 篇文本：一个检测器把 48 篇专业撰写文本全部正确分类，却把 48 篇 EFL 学生文本中的 4 篇误分类（91.6%）。这种不对称正是要害——误差落在其写作本就备受审视的那个群体身上。
+- **工具效应有前景但噪声大。** [[robot-assisted-language-learning-meta-analysis-2026|Wang、Zhang 与 Zou（2026）]]元分析了 11 项关于机器人辅助[[language-learning|语言学习]]的研究（17 个效应量，N = 595），发现总体为正效应（g = 0.83，95% CI [0.46, 1.21]）且异质性高（I² = 84.4%）；在六个被检验的调节变量中，只有"机器人—学习者互动类型"显著。这一规模的证据基础支持一个暂定的[[benchmark]]，而非采购决策。
+- **在任何工具被使用之前，基础设施本身就是不均衡的。** [[structural-silence-underrepresented-language-ai-2026|Roy 与 Roy（2026）]]以孟加拉语为案例记录语料缺口：占全球网络内容不到 0.5%，而英语约为 49.5%，尽管孟加拉语使用者接近世界人口的 4%。
+- **教学语言会改变结果，覆盖 294 名高等教育学生。** 同一综述报告，外语内容产生的结果低于母语教学，且双语[[cs-education|编程]]教学优于纯英语教学。
+- **检测器惩罚第二语言写作者。** [[hadra-ai-detector-accuracy-efl-2026|Hadra、Cambridge 与 Mesbah（2026）]]在 192 篇文本上测试了 Turnitin 与 Originality：其中一个检测器将 48 篇专业作者文本全部正确分类，却把 48 篇 EFL 学生文本中的 4 篇误分类（91.6%）。不对称正是要点——错误落在了其写作本已受到审视的那个群体上。
 
 ## 性别
 
-此处的性别研究分为两个问题：工具是否区别对待学习者，以及学习者是否暴露在带有刻板印象的工具中。
+此处的性别研究分为两类：工具是否区别对待学习者，以及学习者是否接触到充满刻板印象的工具。
 
-- **一项刻意性别中立的设计未显示性别差异。** [[ada-female-coded-chatbot-gender-stereotypes-2026|一项针对 195 名九年级学生的准实验研究]]测试了 ADA——一个以 Ada Lovelace 为原型的女性编码[[conversational-ai|聊天机器人]]：情境性兴趣在两种性别上都上升，而情绪反应、认知负荷或学业表现上均无性别差异。一个榜样型人格可以在不触发刻板印象威胁的情况下被构建。
-- **但提示内容会把偏见迁移进学生作品。** [[gender-bias-transfer-llm-writing|一项有 123 名参与者的对照研究]]让学生在仅性别不同的配对画像下撰写职业规划作文，分无 AI、中立 AI 与性别偏见 AI 三种条件；偏见条件把性别分化的语言迁移进学生写作，并不对称地压制了女性[[agency]]。研究者先在 1,600 篇生成的作文上确认了这一效应。
-- **空间与框架和工具同样重要。** [[all-girls-genai-makerspace-gender-equity-2026|一项全女生生成式 AI 创客空间案例研究]]发现，女生认为单一性别环境更安全、更放松，并警告不要"女孩化"——那种不动权力关系的表面化改造。
-- **模型敏感性是模型的属性，不是常数。** 在[[edufair-bench-pedagogical-fairness-llm-tutors-2026|EduFair-Bench]]中，从 7B 到 70B 的五个辅导系统在九个人口统计层级上被审计：Qwen2.5-7B 在 12 个领域×维度格子中的 7 个超过了 |r| ≥ 0.10 的偏见阈值，而 LLaMA-3.1-8B 只超过了一次。针对教学法的训练减少了某些偏见，也增加了另一些。
-- **单轴修补可能让某个群体处境更糟：** 被归入"Unknown Gender"类别的性别多元学生在每一种公平性方法下的真正例率都最低，且没有任何单轴方法改善了他们的待遇——即上面提到的群体标签差异，只不过发生在预测性预警模型而非辅导系统中（[[fairness-theatre-early-warning-systems-2026|McConvey 等人（2026）]]）。
+- **一个刻意性别中立的设计未显示性别差异。** [[ada-female-coded-chatbot-gender-stereotypes-2026|一项对 195 名九年级学生的准实验研究]]测试了 ADA——一个植根于 Ada Lovelace 的女性化编码[[conversational-ai|聊天机器人]]：情境兴趣在两个性别上都上升，而在情绪反应、认知负荷或学业表现上没有性别差异。可以构建榜样型人设而不触发刻板印象威胁。
+- **但提示词内容会把偏见转移到学生作业中。** [[gender-bias-transfer-llm-writing|一项有 123 名参与者的对照研究]]让学生在无 AI、中性 AI 与性别偏见 AI 三种条件下，为仅性别不同的配对人设撰写职业规划作文；偏见条件将性别分化的语言转移进学生写作，并不对称地抑制了女性[[agency]]。研究者先在 1,600 篇生成作文上确认了这一效应。
+- **空间与框架与工具本身同样重要。** [[all-girls-genai-makerspace-gender-equity-2026|一项全女生生成式 AI 创客空间案例研究]]发现女孩重视单一性别环境带来的更安全、更放松的感受，并警告"女孩化"——那种不动权力关系的表面适配。
+- **模型敏感性是模型属性，不是常数。** 在[[edufair-bench-pedagogical-fairness-llm-tutors-2026|EduFair-Bench]]中，五个从 7B 到 70B 的辅导模型在九个人口统计层级上被审计：Qwen2.5-7B 在 12 个"领域 × 维度"单元中的 7 个超过了 |r| ≥ 0.10 的偏见阈值，而 LLaMA-3.1-8B 只超过了一次。教学导向的训练减少了某些偏见，也增加了另一些。
+- **单轴修正可能让某个群体处境更糟：** 被归入"未知性别"类别的性别多样学生在每一种公平方法下的真正例率都最低，且没有任何单轴方法改善了他们的待遇——即上述群体标签变异，只是出现在预测性早期预警模型中而非辅导模型中（[[fairness-theatre-early-warning-systems-2026|McConvey 等（2026）]]）。
 
-## 种族、族裔与少数族裔学生
+## 种族、族裔与少数群体学生
 
-这条分支文章数少但机制强，因为证据是关于 AI 一旦拿到人口统计属性后会对它做什么。
+这条线索按文章数量很少，但在机制上很强，因为证据涉及的是 AI 在获得人口统计属性*之后*对它做了什么。
 
-- **[[personalized-learning|个性化]]是一条偏见向量。** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]显示，当反馈用学生的种族、语言、残障、成绩或[[motivation|动机]]进行个性化时，[[llm]]写作反馈工具会转向符合刻板印象的赞扬并扣留批评——而这些作文是完全相同的。
-- **人口统计线索可以是隐式的。** 上文的反事实审计发现，对话历史而不仅是显式人格改变了评分和反馈行为——即[[demographic-signals-llm-student-assessment-2026|192,480 次推理调用]]的同一结果，这也说明仅就*声明的*人口统计制定披露规则是不够的。
-- **迁移与语言差距可能占主导。** 在 EduFair-Bench 中，70B 模型把最大的语言与移民差距和最小的教学法差距配在一起，所以一个看起来教学上很强的辅导系统，可能恰是对"学生看起来是谁"最敏感的那个。
-- **认识论排斥，而不仅是错误：** 见上文的[[genai-minoritized-knowledges-disability|少数化知识的边缘化]]。
+- **[[personalized-learning|个性化]]是一条偏见通道。** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]显示[[llm]]写作反馈工具在用学生的种族、语言、残障、成绩或[[motivation|动机]]进行个性化时，转向与刻板印象一致的赞扬并保留批评意见——针对的是完全相同的作文。
+- **人口统计线索可能是隐性的。** 上述反事实审计发现，不仅是显式人设，对话历史也会改变评分与反馈行为——即同一个[[demographic-signals-llm-student-assessment-2026|192,480 次推理调用]]结果，也是"只针对*声明*人口统计信息的披露规则并不充分"的理由。
+- **迁移与语言差距可能占主导。** 在 EduFair-Bench 中，70B 模型将最大的语言与移民差距与最小的教学差距配对在一起，因此一个看起来教学很强的辅导模型，可能恰恰是对"学生看起来是谁"最敏感的那个。
+- **认识论排斥，而不仅是错误：** 见上文[[genai-minoritized-knowledges-disability|对少数群体知识的边缘化]]。
 
 ## 社会经济地位、地理与年龄
 
-- **数字素养，而非 AI 使用量，是中介变量。** [[ai-divide-ses-personality-primary-education-2026|Wang 及同事（2026）]]对荷兰 4,497 名六年级学生的调查与全国登记册数据建模，发现人格特质与学业表现之间的联系经由数字素养而非 AI 使用强度起作用，且数字素养的差异更多由人格而非社会经济地位驱动——而 SES 优势是独立于 AI 参与之外运作的。经典的只看 SES 的框架是不完整的。
-- **地理可能是硬约束。** [[arc-hubs-k12-ai-robotics-rural-2026|ARC 的记述]]关于[[k-12]]机器人与 AI 教育报告：农村 FIRST LEGO League 参与度在 2020 年远程赛季下降后再未恢复，而城市参与度逐渐恢复；并指出持久的本地技术指导——而非套件或[[curriculum-design|课程]]——才是按地理分布不均的那个约束。
-- **成年学习者是独立的设计案例，** 由[[adult-learning|Adult Learning]]及知识库的成人教育学工作覆盖，而非由 K-12 研究覆盖。
-- **获取仍然制约其他一切：** 见[[digital-divide|Digital Divide]]，以及[[access-not-enough-ai-tutoring-2026|没有[[pedagogy|教学法]]整合，仅有 AI 辅导的获取是不够的]]这一发现。
+- **中介因素是数字素养，而非 AI 使用。** [[ai-divide-ses-personality-primary-education-2026|Wang 及同事（2026）]]建模了荷兰 4,497 名六年级学生的调查与全国登记数据，发现人格特质与学业表现之间的联系经由数字素养而非 AI 使用强度起作用，数字素养的差异更多由人格而非社会经济地位驱动——而 SES 优势独立于 AI 参与发挥作用。经典的"只讲 SES"的框架是不完整的。
+- **地理可能是约束性因素。** [[arc-hubs-k12-ai-robotics-rural-2026|ARC 的记述]]关于[[k-12]]机器人与 AI 教育的报告指出，农村 FIRST LEGO League 参与率在 2020 远程赛季下降且再未恢复，而城市参与率逐步回升，并指出持续性的本地技术指导——而非器材或[[curriculum-design|课程]]——才是那个按地理分布不均的约束。
+- **成人学习者是独立的设计案例，** 由[[adult-learning|成人学习]]及知识库的成人教育工作覆盖，而非由 K-12 研究覆盖。
+- **获取仍然制约其他一切：** 见[[digital-divide|数字鸿沟]]，以及[[access-not-enough-ai-tutoring-2026|仅有 AI 辅导的获取是不够的]]——还需要[[pedagogy|教学法]]整合这一发现。
+
+## 学科背景
+
+学科背景是这条群体—群体地图尚未承载的一条差异轴：同一工具的收益可能在不同学科间而非在不同学生人口统计群体间分布不均。
+
+- **一个工具可能激发一个学科而挫伤另一个。** 在一项为期两周、130 名跨学科团队本科生的准实验中，[[generative-ai|ChatGPT]]提升了 STEM 学生的身体性[[student-engagement|参与]]，却降低了非 STEM 学生的参与（Q = 9.87，p < .05），且未使用 ChatGPT 撰写的笔记在学科观点的多样性与整合度上得分更高（[[caeai-chatgpt-interdisciplinary-stem-nonstem-2026|Zhu 等（2026）]]）。
 
 ## 证据缺失之处
 
-本次调查的诚实结论是：有些群体极其薄弱。以下每一项都是证据基础中的真实缺口，而非本页的缺口。
+本综述的诚实结论是某些群体有多么单薄。以下每一条都是证据库的真实缺口，而非本页的缺口。
 
-- **第一代大学生：** 一项研究报告了使用差异而非效应。在[[student-ai-inquiry-types-cs2-2026|一项 CS2 探究研究]]中，延续代大学生把 AI 当作活跃的[[problem-solving]]伙伴，而第一代大学生采取了确认性、验证取向的角色，总体上提出的问题更少。
-- **第一代大学生：首个效应估计，而方向是错的。** [[liu-course-integrated-ai-tutoring-rct-2026|Liu 等人（2026）]]对一门课程整合的[[intelligent-tutoring|AI 辅导系统]]做的[[rct|随机试验]]补上了上面这条所缺的东西——一个测量到的差异，而非使用模式。在全样本中，辅导系统获取对期末成绩的影响对第一代大学生多出负向 2.87 分（0.28 SDs），即他们为 −5.10 分（−0.50 SDs）而同伴为 −2.23 分（−0.22 SDs）；这一差异在精确匹配样本中更大（−3.89 分，−0.35 SDs），且第一代大学生在作业得分和平台页面浏览量上也损失更多。该研究未报告机制，其精度也因结果而异，但方向与"缩小差距"的叙事相反：先前最少接触学业支持的学生承担了最大的可测量代价。
-- **国际学生：** 一项[[mixed-methods-research|混合方法]]研究（调查 n = 60，访谈 n = 14）关于[[international-students-conversational-ai-adaptation|跨文化适应支持]]。
-- **资优与高成就学生：** 在本语料库中作为群体实际上未被研究。
+- **第一代大学生：** 一项研究报告的是使用差异而非效应。在[[student-ai-inquiry-types-cs2-2026|一项 CS2 探究研究]]中，续代学生把 AI 当作积极的[[problem-solving]]伙伴，而第一代学生采取确认式的、以验证为导向的角色，总体提问更少。
+- **第一代大学生：首个效应估计，而它指向错误的方向。** [[liu-course-integrated-ai-tutoring-rct-2026|Liu 等（2026）]]对一门课程整合式[[intelligent-tutoring|AI 辅导系统]]的[[rct|随机试验]]补上了前述条目所缺的——一个被测量的差异而非使用模式。在全体样本中，辅导访问权对期末成绩的效应对第一代大学生多 2.87 分（0.28 个标准差）的负面效应，即他们为 −5.10 分（−0.50 个标准差），同伴为 −2.23 分（−0.22 个标准差）；该差异在精确匹配样本中更大（−3.89 分，−0.35 个标准差），第一代学生也损失了更多作业分与平台页面浏览量。该研究未报告机制，且其精度随结果而异，但方向与"缩小差距"的叙事相反：那些先前最缺乏学业支持的学生承担了最大的被测成本。
+- **国际学生：** 一项[[mixed-methods-research|混合方法]]研究（问卷 n = 60，访谈 n = 14），关于[[international-students-conversational-ai-adaptation|跨文化适应支持]]。
+- **国际学生：一个被测量的参与模式，而非效应估计。** 在七所英国[[business-education|商学院]]的 270 名少数族裔国际学生中，自报[[generative-ai]]使用与全部四条[[student-engagement|参与]]线索正相关——其中能动性参与最强（β = 0.429）——而促进条件（β = 0.369）是使用意愿最强的预测因子（[[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya 等（2026）]]）。
+- **资优与高成就学生：** 在本语料库中实际上未作为群体被研究过。
 - **难民、移民与流离失所的学习者：** 没有研究。
-- **性别在多数上述工作中仍按二元分析**，且残障类别在不同研究间各异，因此对"同一个"群体的跨研究比较存在局限。
+- **性别在大多数上述研究中仍被当作二元变量分析，** 且残障类别因研究而异，因此"同一"群体的跨研究比较存在局限。
 
-## 如何在不把群体标签套死的前提下使用这些证据
+## 在使用这些证据时避免过度拟合群体标签
 
-- **把群体均值当作关于某个总体的假设，永远不要当作关于某个人的预测。** 上述每一个差异论断都是一个分布性陈述。
-- **在信任一个工具宣称的包容性之前，先问你的学习者是否根本在验证样本里。** 神经多样性与语言两条分支都显示，开发中的代表性是例外而非常态。
-- **在证据允许时优先选择拉平式设计。** ADHD 视频切分的结果——人人进步、差距缩小——相比针对群体的附加模块，是更适合普通课堂的目标。
-- **对消耗人口统计属性的个性化保持谨慎。** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked pedagogies]]的发现正是关于这一机制，且它适用于[[well-being|wellbeing]]签到、[[affective-computing|情感型辅导系统]]以及为学习者画像的[[recommender-systems-and-learning-paths|推荐系统]]。
-- **在本地、就你关心的群体、用不依赖该工具测量的结果做测试。** 参见[[interpreting-and-applying-aied-research|Interpreting and Applying AIEd Research]]以了解评估习惯，以及[[research-methods-aied|Research Methods in AI in Education]]以了解使本地测试站得住脚的那些设计。
+- **把群体均值当作关于总体的假设，绝不是关于个人的预测。** 上述每一条差异主张都是分布性陈述。
+- **在信任工具声称的全纳性之前，先问你的学习者是否根本就在验证样本中**；神经多样性与语言两条线索都表明，开发中的代表性是例外而非常态。
+- **在证据允许时优先选择拉平差距的设计。** ADHD 视频切分的结果——所有人提升、差距缩小——比针对群体的附加模块更适合作为通用课堂的目标。
+- **谨慎对待消费人口统计属性的个性化。** [[marked-pedagogies-linguistic-bias-writing-feedback|marked pedagogies]]的发现直接针对该机制，它同样适用于[[well-being|身心健康]]签到、[[affective-computing|情感辅导]]，以及[[recommender-systems-and-learning-paths|推荐系统]]这类会为学习者建档的做法。
+- **在本地测试，针对你关心的群体，且用不依赖该工具测量的结果。** 关于评估习惯见[[interpreting-and-applying-aied-research|解读与应用 AIEd 研究]]，关于使本地测试站得住脚的设计见[[research-methods-aied|AI 教育中的研究方法]]。
 
 ## 关联概念
 
@@ -140,25 +152,27 @@ ai_assist:
 
 ## 关联文章
 
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 项关于面向残障学生的 AI 的研究：g = 0.588，偏倚调整后为 g = 0.269
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 从 766 条记录到 40 项研究，其中 15 项使用生成式 AI
-- [[adhd-video-segmentation-computing-education]] — 一项让 ADHD 参与者达到与同伴持平的普适设计改动
+- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 项 AI 用于残障学生的研究：g = 0.588，偏倚校正后 g = 0.269
+- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT 在跨学科学习中对 STEM 与非 STEM 学生的收益不均
+- [[bjet-genai-engagement-minority-ethnic-students-2026]] — 少数族裔国际学生中的生成式 AI 使用与四线索参与
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766 条记录筛出 40 项研究，其中 15 项使用生成式 AI
+- [[adhd-video-segmentation-computing-education]] — 一项使 ADHD 参与者达到与同伴持平的通用设计改动
 - [[neurodivergent-computing-students]] — 24 名神经多样性学生谈结构、模糊性与协作
 - [[genai-minoritized-knowledges-disability]] — AI 中的认识论边缘化，以残障为案例
-- [[robot-assisted-language-learning-meta-analysis-2026]] — 小规模 L2 证据基础中的 g = 0.83 与 I² = 84.4%
-- [[structural-silence-underrepresented-language-ai-2026]] — 孟加拉语占网络内容不足 0.5%，而英语占 49.5%
-- [[hadra-ai-detector-accuracy-efl-2026]] — 检测器误分类 EFL 写作，却把专业文本评得完美
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — 一项 195 名学生的女性编码榜样测试，无性别差异
-- [[gender-bias-transfer-llm-writing]] — 性别偏见的提示迁移进学生作文
-- [[all-girls-genai-makerspace-gender-equity-2026]] — 单一性别空间受到重视，同时警告不要"女孩化"
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — 辅导系统的公平性随模型、领域与行为维度变化
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — 对相同作文给出符合刻板印象的反馈
-- [[demographic-signals-llm-student-assessment-2026]] — 192,480 次调用：显式人格与隐式历史都会改变模型
+- [[robot-assisted-language-learning-meta-analysis-2026]] — 小型二语证据库中 g = 0.83、I² = 84.4%
+- [[structural-silence-underrepresented-language-ai-2026]] — 孟加拉语占网络内容不到 0.5%，而英语为 49.5%
+- [[hadra-ai-detector-accuracy-efl-2026]] — 检测器误分类 EFL 写作，却对专业文本给出完美评分
+- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — 195 名学生测试女性化榜样，无性别差异
+- [[gender-bias-transfer-llm-writing]] — 性别偏见提示词转移进学生作文
+- [[all-girls-genai-makerspace-gender-equity-2026]] — 单一性别空间受重视，附对"女孩化"的警告
+- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — 辅导模型公平性随模型、领域与行为维度而变
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — 相同作文上的刻板印象化反馈
+- [[demographic-signals-llm-student-assessment-2026]] — 192,480 次调用：显式人设与隐式历史都会影响模型
 - [[student-attention-estimation-fairness-2026]] — 未能泛化的公平性正则化
 - [[ai-divide-ses-personality-primary-education-2026]] — 4,497 名学生：数字素养而非 AI 使用中介了差距
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — 再未恢复的农村参与度，以及作为约束的指导
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — 一个置信区间跨零的子群交互项
-- [[student-ai-inquiry-types-cs2-2026]] — 本语料库中唯一一项关于第一代大学生的使用发现
-- [[international-students-conversational-ai-adaptation]] — 本语料库中唯一一项关于国际学生的研究
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — 本语料库中关于第一代大学生的首个效应估计：辅导系统获取让他们损失 0.50 SDs 的期末成绩，而同伴为 0.22（Liu et al. 2026）
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
+- [[arc-hubs-k12-ai-robotics-rural-2026]] — 再未恢复的农村参与率，以及作为约束的指导
+- [[ai-tutoring-micro-rct-gcse-science-2026]] — 一个置信区间跨越零的亚组交互效应
+- [[student-ai-inquiry-types-cs2-2026]] — 语料库中唯一一项第一代学生使用发现
+- [[international-students-conversational-ai-adaptation]] — 语料库中唯一一项国际学生研究
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — 语料库对第一代学生的首个效应估计：辅导访问权使他们期末成绩损失 0.50 个标准差，而同伴为 0.22（Liu 等，2026）
+- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre：评估厂商控制的早期预警系统中的事后公平性干预

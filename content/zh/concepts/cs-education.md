@@ -2,7 +2,6 @@
 connected_resources: [liascript]
 title: 计算机科学教育
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:39:21-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,14 +9,19 @@ assessment: [automated-assessment]
 discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
+reviewed_by: [editor]
 translation_of: concepts/cs-education
-source_updated: "2026-10-02T12:40:11-04:00"
+source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -41,15 +45,18 @@ ai_assist:
 - **代码生成与补全：** [[code-review-genai-cs1|CS1 代码评审]]、[[dura-llm-cs2|面向 CS2 的 DURA]] 与 [[prompt-problems-nl-programming-mistakes|自然语言编程失误]] 考察了学生如何用 AI 生成代码以及从中学到什么。
 - **面向新手的对话式智能体（[[meta-analysis-systematic-review|范围综述]]）：** [[conversational-agents-novice-programmers-scoping-2025|Barzanji & Loitsch（2025）]] 测绘了 23 项研究（2019—2024 年 6 月）关于面向新手程序员的 [[conversational-ai|对话式智能体]]，记录了从基于规则的聊天机器人到基于 [[llm|大语言模型]] 与 [[rag]] 的智能体的转变（[[rag|检索增强生成]] 减少了 [[hallucination-risk|幻觉]]）以及个性化辅导支持（如 InfoBot、ProbSol-Bot、Lint Bot、Profe Alex）。值得注意的是，23 项研究中只有 4 项把设计奠基于 [[learning-theories|学习理论]]，23 个原型中有 17 个只有英文，尽管多数研究源自非英语国家 —— 这 flag 了未来入门编程对话式智能体设计中薄弱的 [[pedagogy|教学性]] 根基与包容性缺口。
 - **调试支持：** [[debugtracker-classroom-debugging|调试工具]]、[[chat-debugging-human-ai-collaboration-circuits|人—AI 调试协作]] 与 [[golrang-propact-pair-programming-2026|二人结对编程建模]] 利用 AI 进行错误识别与修复。
+- **常驻浏览器的工具增强导师是该领域正在收敛到的架构。** 一种工具增强的小语言模型设计把一个经过微调的小型规划器（1B–7B）与四个确定性工具 —— 代码执行器、测试运行器、文档检索器、[[knowledge-tracing|知识追踪]] 模块 —— 配对，背后是一套四级升级策略（先工具、然后端侧小语言模型、经同意门控的云端大语言模型、最后教师），把教学控制从模型转移到可审计的策略；一个初步的约 1.5 亿参数补全模型达到 10.97% 的 HumanEval pass@1，高于数个 1 亿—1.5 亿参数量级的代码基线（[[browser-sized-agents-slm-webllm-tutor-2026|Suvernev 等人（2026）]]）。
+- **一个经微调的小型导师能比更大的通用模型更好地搭支架。** 在 1,213 段合成辅导对话上微调 Qwen2.5-Coder-7B-Instruct，把过早给出答案的导师话轮从 7.43% 降到 1.88%，并把分步支架与调试提问质量提到 GPT-4o 之上，尽管可靠的教学计划生成仍是开放问题（[[socraticrepair-program-debugging-2026|Kopytskyi 等人（2026）]]）。
 - **自动评估：** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash 评分]]、[[llm-automated-grading-programming-comparison-2026|大规模 18 模型评分比较]] 与 [[llm-intervention-design-cs-review|大语言模型干预综述]] 评估自动化代码评估。该工作流的安全性是一个独立的问题：[[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）]] 红队测试了一项例行 AI 评分任务，发现藏在被提交文件中的指令能把一篇不及格作文的分数提上去且无可见警告，对一种策略 9 次中 9 次成功、对另一种 17 次中 17 次 —— 证据表明评分器的稳健性应与准确性并列列入 [[assessment-validity|评估效度]] 清单。
-- **一句评分提示语就能击溃一个大语言模型，而微调能修复它。** [[llm-graders-computer-science-exams-2026|Habibullah 等人（2026）]] 在一场实践型计算机视觉考试（570 名双重评分学生）的 171 种配置下和一场机器学习考试（1,038 名学生）的另外 162 种配置下评分：一句简短的“严格评分者”前言把 17 个开放权重模型中的 14 个逐出评分带（MAE ≥ 8），其中三个彻底停止评分，而损害可追溯到两句“扣分政策”语句，其方向并不能迁移到第二场考试（七个模型反而改善了）。一个在约 3,900 个汇总评分样例之上的 LoRA 适配器把五个小型开放模型带到与人类评分者相当的水平。
+- **一句评分提示语就能击溃一个大语言模型，而微调能修复它。** [[llm-graders-computer-science-exams-2026|Habibullah 等人（2026）]] 在一场实践型计算机视觉考试（570 名双重评分学生）的 171 种配置下和一场机器学习考试（1,038 名学生）的另外 162 种配置下评分：一句简短的"严格评分者"前言把 17 个开放权重模型中的 14 个逐出评分带（MAE ≥ 8），其中三个彻底停止评分，而损害可追溯到两句"扣分政策"语句，其方向并不能迁移到第二场考试（七个模型反而改善了）。一个在约 3,900 个汇总评分样例之上的 LoRA 适配器把五个小型开放模型带到与人类评分者相当的水平。
 - **AI 生成的学习媒介：** [[ai-generated-traces-novice-programmers|生成的动画轨迹]] 显示，AI 生成的可视化能帮助即时学习，但必须个性化 —— 中途参与的学生经历了与专长反转效应一致的表现下降。
 - **把生成式 AI 类比的批评当作教学资产：** [[student-reception-genai-analogies-computing-2026|Bernstein & Sibia（2026）]] 把生成式 AI 类比的接受奠基于 CS2：十名已完成 CS2 的学生审查针对链表与递归的生成式 AI 类比，拒绝了不满足结构对应的映射 —— 一个映射到环形而非单向链表的岛屿—航线类比，或一个被用来类比递归却不保证输入递减的羽毛球回合，另有一名学生提出改用高尔夫。该工作论证，类比批评本身就是对概念理解的一种检验，使有缺陷的 AI 类比成为可用的教学资产、而非应滤除的危险物，并建议把它们作为待检查与待修复的对象布置给学生。
 - **[[misconceptions|误解]] 建模：** [[student-misconceptions-conditionals-loops-taxonomy|条件/循环误解分类法]] 给自动化系统一套精确的词汇来诊断新手错误。
 - **模型生成的策略性误解：** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević 等人（2026）]] 围绕 ACM/IEEE CS2023 课程中的 35 个概念构建了 SocraticTrap-CS —— 算法、编程语言、数据库、网络与操作系统 —— 并要求七个开放权重模型给出一段建立在一个细微错误之上、流利而权威的解释。七个中有六个就 91% 以上的被提示概念产出了经专家确认的策略性误解（241 个片段中的 221 个，91.7%），且各 CS 领域之间无显著差异；概念性错误占主导（66.5% 概念性对 33.5% 事实性，无一纯属逻辑），说服力与错误类型均随领域而变。因此作者建议采用领域敏感的对抗措施 —— 在偏编程的课程中采用聚焦推理的检查，在网络中对照协议规范交叉核验 —— 并建议以教学上的 [[trust|可信性]]（而非仅正确性）来评估 [[automated-question-generation|自动出题]] 与 AI 撰写的解释。
 - **[[authentic-assessment|真实评估]] 表现：** [[genai-oop-programming-assessments-2026|Lepp & Kaimre（2026）]] 显示 2026 年的 [[generative-ai|生成式 AI]] 系统在真实的入门面向对象 [[assessment|评估]] 上超过平均学生队列，并常在较长的编程任务上拿到满分，但在接口、抽象类、继承与基于图像的问题上仍有困难 —— 这些是教师在设计评估时可加以利用的反复出现的错误模式。一项 CS1 纵向研究强化了该发现的能力一侧：[[student-llm-code-detection-cs1-2026|Ye 等人（2026）]] 测得前沿模型在实验上达 98.93–99.99%，而学生提交为 76.37–88.03%。
-- **面向风险支持的预测建模：** [[zhang-ml-student-progress-programming-2026|Zhang、Jeffries & Koprinska（2025）]] 显示，基于内容交互日志特征训练的内在可解释决策树能准确预测大规模在线编程课程中模块层面的进度（四门 K-12 课程上 85–91% 准确率）并标记“未提交”的退课结果，让教育者在模块截止前有 7–8 天窗口 [[teacher-role|介入]]，帮助挣扎与脱节的 [[learners|学习者]] —— 补足了上述自动评分与流失预测工作。
+- **面向风险支持的预测建模：** [[zhang-ml-student-progress-programming-2026|Zhang、Jeffries & Koprinska（2025）]] 显示，基于内容交互日志特征训练的内在可解释决策树能准确预测大规模在线编程课程中模块层面的进度（四门 K-12 课程上 85–91% 准确率）并标记"未提交"的退课结果，让教育者在模块截止前有 7–8 天窗口 [[teacher-role|介入]]，帮助挣扎与脱节的 [[learners|学习者]] —— 补足了上述自动评分与流失预测工作。
 - **面向理论计算机科学的检索增强支持只适合异步学习。** AlgoRAG 在 240 秒超时内答出了全部 179 道教师出题的考题，平均每题 38.0 秒，而它在该集合上的 BLEU-4 为 0.0000，这是数学证明上 n-gram 匹配的性质，而非系统故障（[[algorag-rag-theoretical-cs-education-2026|Adhikari（2026）]]）。
+
 - **采用跟踪的是作业，而非子领域。** 在七份作业与 211 名学生中，[[student-llm-use-cs-subfields-2026|Nizamani 等人（2026）]] 测得大语言模型使用率从算法课的 89.6% 到软件工程课的 15.2%，把这种分布归因于作业复杂度、可验证性与支架，而非学科本身。
 - **反馈可以分级，使诊断保持隐藏。** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas（2026）]] 把对学生数据库模式的、立足制品的诊断与发布它的工作流分离，各阶段由教师编写；在 383 个 episode 中，71.1% 的反馈到达了目标层级。
 
@@ -58,7 +65,7 @@ ai_assist:
 编程教育从入门的积木式编程延伸到高级软件开发，并日益把抽象代码扎根于具体、可观察的结果。
 
 - **积木式可视化编程：** 像 Scratch 与 Blockly 这样的环境让初学者拼装图形块而非键入文本，消除语法错误并使程序结构可见 —— 对更年幼的学习者以及控制 [[educational-robotics|教育机器人]] 尤其有价值。在 AI 时代，它们日益与对话式 AI 智能体结合（例如 [[microbit-robotics-machine-learning-teacher-training-2026|教师培训中的 Micro:bit + MakeCode]]、[[cstutorbench-slm-tutors|小语言模型导师]]）。
-- **[[embodied-learning|具身的]] 积木编程：** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] 把积木式编程与对话式 AI 教学智能体以及具身机器人执行结合起来，创造一个“创作—运行—观察—修改”的迭代循环，保住学习者的 [[agency|能动性]]。
+- **[[embodied-learning|具身的]] 积木编程：** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] 把积木式编程与对话式 AI 教学智能体以及具身机器人执行结合起来，创造一个"创作—运行—观察—修改"的迭代循环，保住学习者的 [[agency|能动性]]。
 - **自然语言机器人控制：** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] 让初学者通过自然语言指令控制仿真机器人，降低机器人编程的门槛而无需底层代码专长。
 - **机器人与计算思维：** [[computational-thinking-educational-robotics-secondary-2026|Valls i Pou]] 在中学 STEAM 课程中把计算思维联结到教育机器人，[[microbit-robotics-machine-learning-teacher-training-2026|教师培训研究]] 则论证机器人与机器学习活动应嵌入 [[teacher-education|教师教育]]。
 - **游戏化与游戏化元素学习：** [[game-based-gamified-robotics-education-review-2026|一项系统综述]] 比较了机器人教育中的游戏化学习（适合非正式情境）与游戏化元素（适合正式课堂），后者以入门编程与模块化套件为重点。
@@ -67,14 +74,15 @@ ai_assist:
 
 ### AI 时代的课程转型
 
-“学生还应该手工学什么？”这一问题如今重塑着计算类专业。
+"学生还应该手工学什么？"这一问题如今重塑着计算类专业。
 
 - **从实现到验证：** [[reshaping-cs-education-genai|重塑本科计算机科学教育]] 论证，随着生成式 AI 把实现层面的编程、调试与测试自动化，课程必须转向 *理解并验证 AI 生成的制品*，同时保留系统设计、抽象与 [[critical-thinking|批判性评估]]，并淡化低层实现细节。这与珍视评估高于生成的 [[ai-literacy|AI 素养]] 框架相一致。
 - **智能体式软件工程作为一门学科：** [[ase-26-agentic-software-engineering-curriculum|ASE-26]] 把指挥智能体而非写代码形式化 —— 教可审计性、上下文工程、验证、多智能体工作流与 AgentOps —— 并把 [[agentic-ai|智能体式 AI]] 能力定位为一门结构化、带支架的课程，而非语法熟练度。
+
 - **从生产到判断：理解债与 AASEE。** [[judgment-centred-software-engineering-education-2026|Mahmoud（2026）]] 论证该领域应从生产中心模型转向判断中心模型，并把理解债 —— AI 辅助的生产超出学习者解释、测试、修改与论证软件能力时产生的递延学习与维护成本 —— 扩展为一个 [[assessment|评估]] 透镜，奠基于 207 名学生的 621 篇反思日记。该综述把 AASEE 框架精炼为五个非线性整合层级，横跨四项证据义务 —— 解释、验证、修改与交代 —— 并报告一个有条件的证据基础：一项异质性极端（I² = 96.32%）的 STEM [[meta-analysis-systematic-review|元分析]] 在纠正发表偏倚后失去合并收益，而对 76、72 与 64 项研究的综合显示短期效率收益并不能 [[transfer-of-learning|迁移]] 到无辅助表现。
 - **新教学法与评估模型：** [[test-driven-ai-assisted-learning|测试驱动的 AI 辅助学习]] 以 [[self-directed-learning|自主的]] AI 辅助学习取代讲座，以每周闭卷测试把关，在 AI 智能体于 [[human-in-the-loop-ai|人类监督]] 下规模化材料生产与评分的同时保住个体问责。
-- **离线教模型的机理。** 一套从业者资源套件不插电地教授完整的大语言模型“训练→生成”管线 —— 手记的 n-gram 网格与基于骰子的抽样，不预设编程或数学 —— 并报告已交付给约 400 名参与者，参与感从生成阶段才真正开始（[[llms-unplugged-teaching-resources-2026|Swift（2026）]]）。
-- **什么预测 [[vibe-coding|vibe coding]] 的成功 —— 以及什么仍该教：** 一项对纯“无代码”vibe coding 的 [[vibe-coding-writing-cs-achievement-2026|预注册 CHI 2026 研究（N=100）]] 发现，计算机科学成就（r = .39）与书面沟通能力（r = .29）独立预测表现，且 CS 成就在控制一般领域认知能力后依然显著，贡献的独特方差约为写作技能的两倍。由于环境隐藏了生成代码，CS 知识只能间接帮助（问题分解、算法思维）—— 这使 CS 估计成为也允许编辑的 AI 辅助工作流的 *下限*。作者论证课程应把书面沟通与 CS 基础同等权衡，而非把 vibe coding 当作已被淘汰的语法熟练度。
+- **离线教模型的机理。** 一套从业者资源套件不插电地教授完整的大语言模型"训练→生成"管线 —— 手记的 n-gram 网格与基于骰子的抽样，不预设编程或数学 —— 并报告已交付给约 400 名参与者，参与感从生成阶段才真正开始（[[llms-unplugged-teaching-resources-2026|Swift（2026）]]）。
+- **什么预测 [[vibe-coding|vibe coding]] 的成功 —— 以及什么仍该教：** 一项对纯"无代码"vibe coding 的 [[vibe-coding-writing-cs-achievement-2026|预注册 CHI 2026 研究（N=100）]] 发现，计算机科学成就（r = .39）与书面沟通能力（r = .29）独立预测表现，且 CS 成就在控制一般领域认知能力后依然显著，贡献的独特方差约为写作技能的两倍。由于环境隐藏了生成代码，CS 知识只能间接帮助（问题分解、算法思维）—— 这使 CS 估计成为也允许编辑的 AI 辅助工作流的 *下限*。作者论证课程应把书面沟通与 CS 基础同等权衡，而非把 vibe coding 当作已被淘汰的语法熟练度。
 
 ### AI 素养、能动性与过度依赖的风险
 
@@ -82,13 +90,16 @@ ai_assist:
 
 - **信任 ≠ 恰当依赖：** [[trust-reliance-ai-education-2026|对 AI 的信任与依赖（Pitts 等人）]] 发现，在 Python [[problem-solving|问题解决]] 期间，对 AI 助手更高的信任预测了 *更差* 的区分正确与误导性建议的能力 —— 受 [[ai-literacy|AI 素养]] 与认知需求调节。目标是校准，而非信心。
 - **认识论式 AI 素养：** [[constructing-epistemic-ai-literacy-student-ai-co-programming|Wu（2026）]] 显示，在学生—AI 协同编程中，78.8% 的互动依赖非精通取向的目标与不可靠的策略（外包、求证式），只有 11.1% 表现出高认识论参与 —— 真实学习极少自发涌现，除非有审慎的设计支持。
+
 - **AI 提问窄且呈生成模式。** 把 830 条 CS2 提示按 Graesser 分类法归类后，[[student-ai-inquiry-types-cs2-2026|Amoozadeh 与 Alipour（2026）]] 发现，断言式、求证式与工具式提示在两场中都占主导，且初代大学生提问更少、更依赖求证，而续修的同学把 AI 当作主动的问题解决伙伴。
 - **针对复制粘贴式过度依赖的结构性干预：** [[soft-barriers-copying-ai-programming-2026|AI 辅助编程中的复制软性障碍]] 评估了轻量的设计干预（如劝阻盲目复制粘贴 AI 输出的机制），发现它们能在不阻断 AI 辅助的情况下减少过度依赖 —— 证据表明计算机科学教育中的 [[cognitive-offloading|过度依赖]] 风险可经教学设计修复，而不只靠学习者教育或禁令。
 - **可教智能体与有效练习：** [[chatgpt-teachable-agent-programming-lbt-2024|与 ChatGPT 的学习即教学]] 改善了知识增益与代码质量，但因智能体过于能干而削弱了纠错练习 —— 一条设计教训：让智能体 *故意会犯错* 以保住调试。
 - **辅助的治理：** [[llm-programming-support-governance-cs-education|对 90 个系统的范围综述]] 提出 **PEA 框架**（政策、执行、权威）来界定与控制大语言模型辅助 —— 一套用于设计限制过度依赖的 [[scaffolding|支架]] 的比较词汇。
+
 - **治理的契合，而非严格。** [[instructional-governance-design-computing-education-2026|Dickey（2026）]] 提出一个六维治理画像 —— 教学性根基、AI 教学权威、人类问责、学习者能动性、情境边界与评估可见性 —— 并在七个内部工具与四个已发表编程系统上显示，同一模型可以把权威与问责分配得非常不同；预测负责任规模的是治理与教学功能的 *契合*，而非工具有多严格。
-- **自适应 AI 辅导的行为语境：** [[tutortrace-learner-behavioral-states-2026|Barron 等人（2026）]] 提出 **TutorTrace**，一个数据集与管线，可从 AI 辅助 Python 课程的 IDE 遥测（N=480）实时计算学习者的行为语境。它推导出 AI 查询之前、之间与之后的活动分类法，能判断即将到来的查询反映的是受引导还是依赖性的 [[help-seeking|求助]]（AUROC=.717）并预测即将发生的查询（AUROC=.726）；行为感知提示在一项初步评估中把“无独立工作”的查询区间从 50.0% 降到 20.7%。这展示了行为遥测如何让 [[intelligent-tutoring|AI 编程导师]] 适配学习者的实际努力，而不只是其显式请求。
+- **自适应 AI 辅导的行为语境：** [[tutortrace-learner-behavioral-states-2026|Barron 等人（2026）]] 提出 **TutorTrace**，一个数据集与管线，可从 AI 辅助 Python 课程的 IDE 遥测（N=480）实时计算学习者的行为语境。它推导出 AI 查询之前、之间与之后的活动分类法，能判断即将到来的查询反映的是受引导还是依赖性的 [[help-seeking|求助]]（AUROC=.717）并预测即将发生的查询（AUROC=.726）；行为感知提示在一项初步评估中把"无独立工作"的查询区间从 50.0% 降到 20.7%。这展示了行为遥测如何让 [[intelligent-tutoring|AI 编程导师]] 适配学习者的实际努力，而不只是其显式请求。
 - **构建自己所用之物的双重性：** 计算机专业学生独特的地位既产生对 AI 局限的 [[metacognition|元认知]] 意识，也带来对 AI 生成代码的 [[cognitive-offloading|过度依赖]] 的真实风险。[[code-review-genai-cs1|代码评审访谈]] 与 [[critical-engagement-code-completion|批判性参与研究]] 直接处理这一张力。
+
 - **项目式学习中的智能体式编码与理解：** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka 等人（2026）]] 把规范驱动开发与 [[agentic-ai|AI 智能体]] 引入一门本科软件工程项目课程，发现实现吞吐量（新增 LOC）在 2022—2025 年间上升，而重度 AI 使用恰逢代码理解的下滑，且只有在一对一教师检查后才恢复 —— 直接证据表明吞吐收益不保证理解，且 AI 辅助编码中的 [[cognitive-offloading|过度依赖]] 可经教学监控改善。
 
 ### 公平、文化与谁进入计算领域
@@ -100,8 +111,8 @@ ai_assist:
 
 ### 伦理教育与劳动力
 
-- **伦理到行为的缺口：** [[cost-of-ethics-crisis-cs-ethics-education|“伦理危机之代价”]] 显示，计算机专业学生尽管受过当代伦理教育，在求职时仍优先考虑薪酬、地点与文化而非 [[ethics|伦理]] 关切 —— 这是伦理教学向行为迁移的关键缺口。
-- **劳动力重塑：** [[ai-engineering-computing-workforce-grey-literature-2026|一项对美国灰色文献的系统综述]] 提出“双轨训练问题” —— AI 快速变革与 [[governance|机构]] 适应的赛跑 —— 并呼吁持久的 AI 能力、伦理/治理，以及与新兴角色对齐的技能型证书（如 [[prompt-engineering|提示工程]]、AI 审计、[[educational-policy-ai|AI 政策]]）。
+- **伦理到行为的缺口：** [[cost-of-ethics-crisis-cs-ethics-education|"伦理危机之代价"]] 显示，计算机专业学生尽管受过当代伦理教育，在求职时仍优先考虑薪酬、地点与文化而非 [[ethics|伦理]] 关切 —— 这是伦理教学向行为迁移的关键缺口。
+- **劳动力重塑：** [[ai-engineering-computing-workforce-grey-literature-2026|一项对美国灰色文献的系统综述]] 提出"双轨训练问题" —— AI 快速变革与 [[governance|机构]] 适应的赛跑 —— 并呼吁持久的 AI 能力、伦理/治理，以及与新兴角色对齐的技能型证书（如 [[prompt-engineering|提示工程]]、AI 审计、[[educational-policy-ai|AI 政策]]）。
 
 ### 关联
 
@@ -192,7 +203,10 @@ ai_assist:
 - [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG：面向理论计算机科学教育的检索增强生成 —— 算法分析与复杂性理论的综合评估框架
 - [[llms-unplugged-teaching-resources-2026]] — LLMs Unplugged：面向 ChatGPT 世界的教学资源
 - [[instructional-governance-design-computing-education-2026]] — 按设计进行教学治理：计算教育中 AI 的框架
+
 - [[judgment-centred-software-engineering-education-2026]] — AI 增强软件工程教育的后热潮综述与框架
 - [[llm-graders-computer-science-exams-2026]] — 大语言模型评分器在何处成功、何处崩溃：来自两场计算机科学考试的证据
 - [[student-llm-use-cs-subfields-2026]] — 211 名学生的大语言模型采用率从算法课的 89.6% 到软件工程课的 15.2%，跟踪作业而非子领域
 - [[educator-guided-llm-pedagogical-agent-2026]] — 面向概念数据库设计的教师编写分级反馈：隐藏诊断、受控披露、383 个 episode 中 71.1% 达目标层级
+- [[socraticrepair-program-debugging-2026]] — SocraticRepair：面向程序调试与误解修复的规划引导苏格拉底辅导
+- [[browser-sized-agents-slm-webllm-tutor-2026]] — 浏览器大小的智能体：用于工具增强 AI 辅助编程教育的小语言模型与 WebLLM

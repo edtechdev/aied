@@ -10,13 +10,17 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -47,6 +51,8 @@ ai_assist:
 
 **感官可及性：非视觉与触觉输出。** **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** 让口语对话成为视障儿童的首要通道，去除对视觉的依赖。**[[tactile-statistical-graphs-accessibility|触觉 3D 打印图表]]** 把视觉性的统计数据转化为可触摸的输出，供盲生与低视力学生使用。**[[pepper-robot-sign-language-lis-2025|手语机器人]]** 把[[educational-robotics|教育机器人]]延伸到听障学习者的沟通可及性。
 
+**为电影撰写的音频描述无法迁移到讲座录音。** 基于幻灯片的讲座会引用图表、公式与指示性手势，且其中停顿的中位数只有 0.5 秒，因此 [[ad4edu-lecture-audio-description-2026|Psychias 与 Gao（2026）]]构建了一个讲座专用的基准与可依规则诊断的指标；在按机器评判排序的样本对上做事后训练，并未均匀地提升合规性。
+
 **面向视障学习者的[[generative-ai|生成式人工智能]]。** **[[khlaif-assistive-genai-visually-impaired-2026|Khlaif 等（2026）]]**——一项对三所巴勒斯坦大学 21 名视障[[higher-ed|本科生]]的[[qualitative-research|质性]]案例研究——发现 GenAI 按个体学习画像定制节奏、内容与传递方式，简化复杂的学术文本，并在各模态间转换内容（文本、音频、视觉），使原本不可用的材料变得可用。学习者把即时性框定为可及性的根本要求，而非便利；六项相互依存的技术属性——交互性、易用性、可负担性、多模态性、集成性与可扩展性——决定了 GenAI 在[[global-south|低资源情境]]中是否真正可及，[[usability-research|可用性]]、可负担性与可及性相互强化，而非彼此独立的设计考量。
 
 **残障学生的政策与便利安排。** **[[shin-ai-policies-sld-2026|Shin 等]]** 分析美国的 AI 政策文件，揭示出对特定学习障碍学生的指导空白，并提出以[[assistive-technology|辅助技术法]]与 IDEA 为据的便利安排与[[educational-policy-ai|政策]]建议。**[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang 等]]** 对 29 项面向残障学生的 AI 干预研究做元分析，发现对[[learning-gains|学习结果]]有中等正向效应（g = 0.588）——并主张 AI 必须做的不仅是确保可及性：它必须促成[[agency|能动性的]]参与。
@@ -65,6 +71,7 @@ ai_assist:
 - **用 AI 规模化地自动化可及性。** AI 可以生成字幕、简化文本、产出触觉/音频替代方案并调整呈现方式——但要以人在回路的检查来评价输出质量。
 - **把可及性视为必要但并不充分。** 一个可及的工具并不自动就是包容的、或对残障者公正的工具；要把可及性与[[inclusive-learning]]设计及[[special-education]]支持配对。
 - **把便利安排锚定在法律与政策之中。** 在设计或采购 AI 工具时援引标准（WCAG）与法规（辅助技术法、IDEA）。
+- **在机构层面，人工智能的部署正在跑在人工智能可及性政策之前。** [[chan-ai-institutionalization-index-global-universities-2026|Chan（2026）]]对泰晤士高等教育 2026 年排名中的全部 100 所大学做了编码，发现 0% 发布了独立的人工智能可及性政策，而 93% 部署了由人工智能驱动的校园服务（用于注册、住宿与 IT 的聊天机器人）。作者的善意解读是：可及性义务已含在一般性的残障服务政策之内；但就测量而言，对人工智能工具的要求在公开的机构记录中无处可见。一份简短的机构声明——声明教学与管理中的人工智能工具必须对残障学生可及——就会领先于整个被测量的领域。
 
 - **[[physics-education|物理]]视频的数学可及转录（2026）：** 一项使用 Gemini（音频 + 每秒 1 帧视频采样）与 LuaLaTeX 的 AI 工作流，把教学物理视频编译成通过可及性验证的 PDF/UA-2 与 ISO 32005 数学可及 PDF——这是一条让富含方程式的视频内容对盲生与低视力学生可被屏幕阅读的实用、免费路径（[[gemini-lualatex-physics-video-transcription-2026]]）。
 
@@ -91,6 +98,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan（2026）：100 所精英大学中 0% 发布人工智能可及性政策，而 93% 部署人工智能校园服务
 - [[shin-ai-policies-sld-2026]] — 面向特定学习障碍学生的 AI 政策与便利安排
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 面向残障学生的 AI 干预元分析
 - [[adhd-video-segmentation-computing-education]] — 带有固定停顿的 AI 分段视频
@@ -104,3 +112,4 @@ ai_assist:
 - [[khlaif-assistive-genai-visually-impaired-2026]] — 面向视障学习者的辅助性 GenAI
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
 - [[wright-transcription-not-generation-2026]] — 转录不是生成：过度包容的 AI 禁令及其捕获的辅助工具
+- [[ad4edu-lecture-audio-description-2026]] — AD4EDU：跨可及性标准、指标与学习者偏好的大学讲座音频描述基准

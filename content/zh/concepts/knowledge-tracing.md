@@ -8,13 +8,17 @@ technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learnin
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -45,6 +49,7 @@ ai_assist:
 - **大语言模型增强：**[[xie-hillm-cd-2026|HiLLM-CD]]用大语言模型做自动概念树构建与层级熟练度推断
 - **语义的、面向推荐的知识追踪：**[[exrec-exercise-recommendation-knowledge-tracing-2025|ExRec（Ozyurt、Almaci、Feuerriegel 与 Sachan，2025）]]扎根的是*输入*而非架构：一个大语言模型为每道题标注解题步骤与知识概念，并与《共同核心州立数学标准》（Common Core State Standards for Mathematics）对齐，对比学习对齐题、解题步骤与概念的嵌入（通过预聚类概念变体如"解读条形图"与"从条形图中读取信息"来移除假阴性），一个 KC 校准损失使追踪器直接预测概念级的知识状态，而不是通过在该概念的每道题上运行模型来推断。校准后的追踪器随后充当练习推荐的强化学习环境，其中一个基于模型的价值估计从追踪器自身初始化评论器。在 XES3G5M 的四项任务上、对 2,048 名测试学生取平均，非 RL 基线给出的知识增益微乎其微或为负，基于价值的连续方法胜过基于策略的方法，而基于模型的价值估计持续改善它们——在最弱概念任务上最为明显，那里目标每一步都在变。所报告的增益是"最大知识改善的百分比"，不是学习结果，且该流水线依赖生成的解题步骤，其质量由追踪器继承。
 - **基于结果的知识追踪（OKT）：**[[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh 等（2026）]]在成果导向教育（Outcome-Based Education）系统中追踪学生知识，做法是把**课程成果本身当作知识概念**，并以经验证的 OBE"亲缘映射"（课程成果与专业成果之间）替代由注意力或图导出的概念关系。一个记忆增强神经网络（MANN）建模每项成果的达成如何影响其他成果，领域自适应的 BERT 微调则丰富成果嵌入（GRU 主干胜过 LSTM）。在真实的[[engineering-education|工程]]专业 LMS 数据（2,416 名学生、966 项成果）上，OKT 达到 89.81% AUC——胜过 DKT、DKVMN、EKT 与 SimpleKT——而在 ASSISTments 上只给出有竞争力的结果，确认该优势与 OBE 特有的[[curriculum-design|课程]]结构绑定。
+- **一个单一的近因标量捕捉到了序列模型所买来的大部分东西。** 在来自 8,996 名芬兰学生的 1,927,265 条数学作答上，仅凭题目身份即达到 AUC .8362；加上一个相对于题目难度的近因度量后升至 .8669，恢复了一个查询条件化变换器 .8690 增益的 93.5%，而历史的 128 维摘要只达到 .8687（[[knowledge-tracing-compression-math-2026|Lahtinen 与 McMullen（2026）]]）。
 - **仅凭快照的追踪。**[[skill-acquisition-without-temporal-info|Nagai 等（2026）]]从学习者技能集合之间的包含关系诱导出一个伪时间序，把不断扩张的技能集合当作学习进程，使单时间点的快照仍可被追踪——但该表述假定技能永不丢失，因此面向会退步的学习者的部署，需要先有一个显式的遗忘机制。
 
 ### 与其他概念的关系
@@ -98,3 +103,4 @@ ai_assist:
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
 - [[crediting-assisted-work-inflates-mastery-2026]] — 哪条证据规则决定掌握断言（Srivastava，2026）
 - [[system-one-llm-knowledge-tracing-2026]] — 单次前向的大语言模型在 8 名学习者上超过深度训练模型的知识追踪，成本仅其零头（Lee 与 Park，2026）
+- [[knowledge-tracing-compression-math-2026]] — 压缩数学知识追踪中的学生历史

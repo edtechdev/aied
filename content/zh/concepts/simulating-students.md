@@ -9,13 +9,17 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-10-08T09:45:00-04:00"
+source_updated: "2026-10-10T14:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -36,6 +40,8 @@ ai_assist:
 模拟学生是一种 [[research-methods-aied|方法学]] 工具：它们是替代真实学习者的智能体，使辅导系统、课程与教学策略得以在不招募人类学生队列的情况下被评估与迭代。[[llm|大语言模型]] 使这一范式比此前的规则式模拟学习者更具可扩展性与语言真实性，同时也带来了新的效度挑战。
 
 由 AI 中介的近似物使本页关心的问题更为尖锐：模拟代表的是谁，以及教师应当注意什么。在数学教师教育中，[[bondurant-shaughnessy-ai-pedagogies-practice-2026|用于演练的文本式模拟学生作业与聊天机器人伙伴]] 延伸了早已组织职业培训的那些实践近似。一项 [[conversational-ai|聊天机器人]] 研究产生了四种不同的提问画像，而职前教师的 [[self-assessment|自评]] 与观察者记录的互动质量并不吻合，这使得能在演练后增加追问与探索性提问的自动化反馈成为一个有用但不充分的指引。模拟器、候选教师与反馈必须放在一起阅读。一个模拟让教师注意到什么，同样由其设计所决定：在 [[preservice-teachers-noticing-ai-simulations-2026|Galiç 等人（2026）为期三周的等号干预]] 中，17 名职前数学教师在注意（attending）、解释（interpreting）与塑造（shaping）之间移动，而非经过一个固定序列，但一对一、基于文本的设置使塑造坍缩为提问与 [[prompt-engineering|提示]]，而错误概念优先的设计把注意力拉向错误检测而非学生优势。模拟器挑选了候选教师得以演练的教学切片。
+
+仅靠监督微调，只能弱条件化模拟器于所提示的能力，因为其目标奖励的是复现回应文本，而非把回应质量与能力挂钩；[[cross-ability-preferences-item-difficulty-2026|Fernandez 等人（2026）]]改用由学生 IRT 能力差距构成的配对做直接偏好优化来对齐模拟器，在 CodeWorkout 上，这种配对击败了所有直接的难度预测基线，并在 1B 规模上于每一个难度指标上都胜过 SMART 模拟器，同时产出分布上更真实的回应。
 
 ### 为什么模拟学生
 
@@ -94,7 +100,7 @@ CogEvolution 建模认知动态而非静态人格——一个 ICAP 深度感知�
 
 第三条 2026 年的线索关乎模拟器*如何*被构建而非它被用来做什么，它收敛于一个结论：提示设定了上限，训练则移除上限。[[swim-student-writing-simulation-2026|SWIM（Do, Kontak 与 Sachan，2026）]] 把学生写作模拟重新表述为能力条件化的作文生成，并比较了以评分标准为基础的提示、在真实分数-作文对上的监督微调，以及带一个源自 [[automated-essay-scoring]] 的 Proficiency Alignment Reward 的 GRPO，用 Quadratic Weighted Kappa 将每篇生成作文对照其目标特质画像打分。即使对强大的专有模型，提示也只给出有限的控制力（Claude Sonnet 的平均特质 QWK 最佳为 0.577，GPT-5.4 为 0.422，对开源 7B 模型做提示则接近零），它把内容导向的特质对齐得远好于形式（0.695 对 0.458），并产出了一个理想化的高能力学生群体，其归一化 Overall 得分均值为 0.74，而真实学生为 0.58，长度中位数为 304 词而真实学生为 167。监督微调把一个 7B 模型推到 0.474 ± 0.023，GRPO 推到 0.618 ± 0.005，这些增益在两个策略从未训练过的独立评分器上依然成立，且受训模型在没有任何长度监督的情况下恢复了人类分数与长度分布；真实的低能力形式仍是最难的，因为受训模型恢复了句法但写出的拼写与语法错误太少，而提示主要通过表面的破坏来模拟弱点。同样的教训从相反方向出现在 [[misconception-acquisition-dynamics-llms-2026|Liu 等人（2026）]] 中，他们对三个小模型做指令微调使其持有代数错误概念：数据的 *[[writing-education|构成]]* 决定了结果，因为单个错误概念会过度泛化并破坏正确求解，直到混入正确样例，多个错误概念可以无代价地联合训练，且仅看最终答案的监督无法习得任何错误概念。
 
-在 382 段留出的数学对话上，用七个基于参照的指标对九种模拟方法做基准测试，提示在对话行为（0.4998 对 0.6840）、ROUGE-L（0.1648 对 0.3212）与余弦相似度（0.5460 对 0.7390）上都落后于微调（[[simulated-students-tutoring-dialogues-2026|Scarlatos 等人，2026]]]]）。然而所测最佳方法——在 8B 模型上做偏好优化——只以微弱优势击败监督微调，且在错误上更差，而一项由三名辅导教师参与的人工评估复现了这一排序。
+在 382 段留出的数学对话上，用七个基于参照的指标对九种模拟方法做基准测试，提示在对话行为（0.4998 对 0.6840）、ROUGE-L（0.1648 对 0.3212）与余弦相似度（0.5460 对 0.7390）上都落后于微调（[[simulated-students-tutoring-dialogues-2026|Scarlatos 等人，2026]]）。然而所测最佳方法——在 8B 模型上做偏好优化——只以微弱优势击败监督微调，且在错误上更差，而一项由三名辅导教师参与的人工评估复现了这一排序。
 
 架构能强制执行提示所不能的：一个神经符号模拟器通过半马尔可夫控制器与缺陷注入的知识追踪施加自我调节学习结构，达到行为分歧 0.31，而基线为 0.53（[[beagle-grounded-learner-emulation-2026|Wang 等人，2026]]）。把它的元认知词汇注入基线从未超过 0.63，去掉符号控制器则把分歧推到 6.81，而在一次 71 人评定的图灵测试中，其轨迹与真实学生无从区分（52.8%，d′ = 0.15）。
 

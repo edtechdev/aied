@@ -10,13 +10,17 @@ connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-efficacy
-source_updated: "2026-10-05T10:26:12-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -64,6 +68,8 @@ ai_assist:
 - **信心可以与行为反向移动。**在竞技编程中，停止参赛的学生报告的理论信心*高于*仍在参赛的同侪，却在解题（upsolving）与同伴圈子习惯上显著更弱（p < .001），因此单靠一个自我效能信号会误导早期预警系统（[[predicting-attrition-competitive-programming|Ruhan 等人（2026）]]）。
 - **信心可在其背后的能力下降时上升。**在大学生中，频繁的生成式 AI 使用在同样的学习者中同时提高了感知信心与效率，*并*增加了技术依赖，因此在 AI 辅助工作期间取得的自我效能分数，可能在底层技能正在侵蚀的那一刻读起来仍然很高（[[genai-performance-vs-learning|Yan 等人，2025]]）。
 - **AI 使用随信心而来，但信心不预测出勤。**在一项对 291 名葡萄牙学生的 PLS-SEM 调查中，一般 AI 使用与独立学习的自我效能正相关（β = 0.266，f² = 0.106）。该构念被建模为 Bandura 四个来源的二阶形成性复合——掌握经验、替代经验、言语劝说与情绪状态。自我效能进而未预测缺勤（β = −0.068，p = 0.276），尽管 AI 使用另与更高缺勤相关（β = 0.148，f² = 0.029）。AI 使用 → 自我效能路径在男性中显著强于女性（β = 0.449 对 0.159；Δβ = −0.289，p = 0.013），在部分测量不变性下（[[confident-but-absent-ai-use-absenteeism-2026|Franco 等人（2026）]]）。
+- **开放式的 AI 设计任务按既有的信心对学生分等。**[[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari 等人（2026）]]在一门由 345 名学生各自构建一个对话智能体来教同侪的课程中发现，表现自尊与外向性相关（r = 0.262, p < 0.001），且女生报告的自尊显著低于男生同侪（Kruskal-Wallis H(2) = 9.87, p < .005）。作者得出的设计推论是：开放式、对话式的创意任务有利于本已有信心者，因此「开放式设计任务［应当］包含足够的脚手架，以在所有人格类型间公平地建立表现自尊」——这是一条告诫：如果脚手架不是刻意设计的，学生自创工件的作业可能扩大而非弥合信心差距。
+- **自我效能与格式偏好相互作用，而非仅与结果相互作用。**一项被试内平衡设计研究（97 名九年级学生；内容匹配的、基于辅导与基于纸笔的图解解读与作图练习）发现，基于辅导的练习总体上胜过纸笔（t(62.30) = 2.38, p = .020），并且——与直觉相反——基线自我效能较低预示在两种格式中都获得*更大*的增益（t(98.40) = −2.14, p = .035）。其有趣的结构在于一个显著的三向自我效能 × 偏好 × 格式交互（t(99.84) = −2.58, p = .011）：在低自我效能学生中，对辅导系统的偏好预示*专门在辅导练习中*更大的增益。对「辅导练习在动机上自我强化」这一假设而言，这是一个令人清醒的零结果：ITS 练习并未比纸笔显著改善训练后自我效能——归因于干预时间过短（两次约 40 分钟的课）。其实际信号是：基线自我效能与技术偏好是格式分配上廉价、可操作的输入；辅导练习利用的是既有的偏好，而非创造它。（[[cen-self-efficacy-favorability-2026]]）
 
 ## 关联概念
 
@@ -102,3 +108,4 @@ ai_assist:
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — 口语自我效能逆转从 AI 辅助实践到意愿的焦虑路径
 - [[faculty-ai-well-being-social-supports-2026]] — 教师 SEM：技术自我效能是 AI 幸福感的弱预测因子
+- [[cen-self-efficacy-favorability-2026]] — 自我效能与偏好塑造从辅导系统与纸笔练习中的学习（Cen 等人 2026）

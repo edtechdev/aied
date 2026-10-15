@@ -9,15 +9,19 @@ assessment: [ai-detection, assessment-validity, authentic-assessment]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, regulation]
-connected_resources: [fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai]
+connected_resources: [fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-07T08:00:00-04:00"
+source_updated: "2026-10-10T14:22:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -155,6 +159,10 @@ ai_assist:
 
 - **清晰而不重新设计，会把滥用推向侧面而非移除。** [[petricini-zipf-ai-use-ethics-matrix-2026|Petricini & Zipf（2026）]]把 AI 使用画在两条轴上——学生的意图与努力对环境所提供的清晰与支持——并报告其访谈数据中最稠密的象限是*焦虑式合规*，学生在那里隐藏正当帮助（语法支持、概念解释、组织自己的想法）以避免 [[legal-issues-and-risks|错误指控]]。他们的警告是有方向的：在规则变清晰但 [[assessment]] 仍奖励速度与产品之处，意识到政策的学生会转入*高效规避*，而非转入*良性的工具使用*。[[austin-ai-agents-assignment-redesign-2026|Austin（2026）]]从作业一侧到达同一结论——当智能体在无可视推理的情况下满足每一项量表标准时，对决策轨迹（信心校准、被否决的 AI 建议、课程特定约束）评分取代了检测，她指出后者双向失准。
 
+- **雇主对他们认为由人工智能代劳的成绩打折——并在现场核验上趋同。** 在一项约 1,750 名美国招聘专业人士参与的调查实验中，[[boyd-swan-employer-responses-genai-2026|Boyd-Swan 与 Reynolds（2026）]]显示：把学生的 AI 使用框定为辅助工具时，申请人不受惩罚；而把它框定为*对学生努力与能力的替代*时，获得面试的可能性下降——薪资谈判意愿的下降更为剧烈——且集中于高 GPA 申请人，与种族/性别无关。当被问及什么能缓解担忧时，两个框定组只共同选择了一种补救办法：现场测试。该实验分离的是信念（而非实际的 AI 使用），因此它表明*信号*渠道本身如何改变招聘结果——这是劳动力市场可能把考核推回现场可验证格式的早期证据，也正是幽灵学生文献敦促机构采纳的设计方向。
+
+首项关于基于 GAIT 的不当行为意向的计划行为理论研究进一步扩展了这一图景：在 186 名本科生中，[[intentions-academic-misconduct-gait-2026|Baig 与 Paparo（2026）]]发现，对不当行为的态度、关于它的主观规范以及对人工智能的积极态度各自都预测了意向，而对人工智能的消极态度则不然；感知到被检测的可能性越高，意向越低——这种威慑恰因 AI 检测工具已被记录在案的不可靠性而被削弱。
+
 **诚信政策正从"谁写了这些文字"转向"谁有了这些想法"，而检测器正被重建以匹配。** IdeaLens 从大纲而非行文预测想法的来源：在 50 个按 AI 生成的方案从零写就的故事上，它把 68% 标为 AI，而 Pangram 4 为 8%、其行文训练的对照为 0%；它把 94.7% 经 AI 润色的人写文本标为人类（[[idealens-detecting-ai-ideas-2026|Rajendhran et al.（2026）]]）。其自身的伦理声明称，该输出是一个统计估计，不得单独用作 AI 使用的确证证据。
 
 ## 关联概念
@@ -221,3 +229,4 @@ ai_assist:
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — 行业审计发现：持授权者与持框架者的大学在考核暴露上无差异，即协调问题的经验对应物
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar（2026）——从 LMS 痕迹早期预测 AI 辅助作弊风险，框定为学业指导而非不当行为证据
 - [[reddit-genai-education-discourse-analysis-2026]] — 三年半的教育 Reddit：执法主导，诚信争议是师生互动的主要场所（Yüce et al. 2026）
+- [[boyd-swan-employer-responses-genai-2026]] — 调查实验：学生 AI 使用的替代框架惩罚了高 GPA 申请人的录用与薪资；现场测试是两组唯一共同选择的补救办法

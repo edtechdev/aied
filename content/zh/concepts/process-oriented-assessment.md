@@ -13,12 +13,16 @@ confidence: high
 connected_resources: [process-feedback]
 contributors: [editor]
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-05T11:00:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -48,6 +52,8 @@ ai_assist:
 
 实践者与框架记述填补了成果物的细节。Uden 与 Hwang（2026）的 LEARN 框架面向 [[problem-based-learning|问题式学习]] [[assessment|评估]]，要求过程导向的评分规则、口头论证、分阶段提交与带 [[ai-use-disclosure|AI 使用披露]]的推理轨迹，并把经由学习日志与出声思维协议的反思视为该序列的 [[metacognition|元认知]]引擎。Moganadas 等（2026）把 AI 透明的过程导向评估列为五个可研究命题之一，要求文档、核验与反思性论证，而非禁止或检测器使用。Padhy（2026）建议捕捉修订历史、交互模式与任务用时，并配以透明披露。Goldstein、Marae-Haj 与 Zidan（2026）报告了同样的成果物在 [[trust|信任]]危机后从实践中浮现：提示记录、文档版本历史、受监控的小组贡献，以及记在纸质笔记本中的反思性"旅程日志"——连同那个平实的发现：课后书面作业已无法再证明学习。
 
+具体的工具正在浮现：[[stepwise-teacher-diagnosis-math-2026|Kim 等（2026）]]把问题求解操作化为四个阶段与八个诊断性子技能，使一个大语言模型能生成针对特定阶段的问题与评分规则；五位教师与 64 名学生用该系统处理了 90 道题目与 720 个子问题，平均系统可用性量表得分为 83.5。
+
 ## 一条不同于真实性、也不同于批改的轴
 
 把这些轴分开是重要的，因为混淆它们会使重新设计看起来已完成，而暴露仍在。Sharma（2026）提出了真实性与诚信导向设计之间的互补区分：真实性问的是任务是否映射有价值的实践，而诚信导向设计问的是学习者能否为其决策辩护并承担与学科标准相关的责任——这正是他提供的实践（带注释的决策轨迹、对 GenAI 贡献主张的核验、口头答辩、带版本历史的草稿差异）被选中的原因，它们以所 [[evaluative-judgment|判断]]的可辨识性被选择，而非以其真实性。Espino 与 Espino（2026）对 [[business-education|商业教育]]的十年综述从文献侧得出同样的设计结论，发现该领域正汇聚于真实的、过程可见的任务，它们要求解释、情境应用与迭代精炼，并把在不变的评估结构内部孤立地采用工具视为其最持久的失败。
@@ -60,7 +66,7 @@ ai_assist:
 
 ## 设计与工作量成本
 
-各来源异常坦率地指出这是昂贵的。Thapa 与 Lewis 直接陈述了公平性告诫：反思性与对话性任务可能偏袒对学术性自我表达更有信心的学生，除非它们被包容性地设计并加以 [[scaffolding|脚手架支持]]；而关系性的、[[feedback|反馈密集]]的工作在大型或资源受限的情境中加剧了 [[teacher-role|教育者]]的情感与专业劳动——与机构对可扩展性、标准化与可测量表现的期望相矛盾。Sharma 补充了诠释版本：要求有文档记录的推理偏袒更精通反思性话语的 [[learners|学习者]]，而作为证据的 [[evaluative-judgment|判断]]"仍是关系性与情境性的，而非机械可验证的"。
+各来源异常坦率地指出这是昂贵的。Thapa 与 Lewis 直接陈述了公平性告诫：反思性与对话性任务可能偏袒对学术性自我表达更有信心的学生，除非它们被包容性地设计并加以 [[scaffolding|脚手架支持]]；而关系性的、[[feedback|反馈密集]]的工作在大型或资源受限的情境中加剧了 [[teacher-role|教育者]]的情感与专业劳动——与机构对可扩展性、标准化与可测量表现的期望相矛盾。Sharma 补充了诠释版本：要求有文档记录的推理偏袒更精通反思性话语的 [[learners|学习者]]，而作为证据的判断"仍是关系性与情境性的，而非机械可验证的"。
 
 运营成本在别处被逐项列出。Boysen 列出了新技术、修订的作业与教学大纲、教学生不熟悉的技能，以及需要收集与批改的额外材料，警告对过程的低利害学分可能抬高成绩，并承认该模型远更适合大型技能发展项目而非日常知识获取工作；他还指出过程追踪正是某些批评者所称的 AI 监控。Goldstein、Marae-Haj 与 Zidan 的参与者报告，建立过程文档需要真实的工作，13 个受资助的高级工具中有 9 个是自掏腰包的，其方式可能加深 [[digital-divide|数字鸿沟]]，且有几人退回到 [[summative-assessment|受监督的考试]]并预期了口试论文答辩。[[equity-in-ai-education|公平性]]担忧在 Brunnström 与 Palmqvist 的发现中带有 AI 特有的边界：无引导的工具使用要求一种分布不均的交互管理技能，因此 AI"可能对已处优势的学生最有益"——这与要求学生管理一个有文档记录的过程时伴随的是同样的分布性风险。Lopez-López、Bru-Cordero 与 Correa-Álvarez（2026）发现，投入更多独立学习时间的学生对 AI 使用的判断更严格，并建议检验披露模板、口头答辩与基于过程的评估是否降低 [[ethics|伦理]]不确定性——这是一项该领域仍需要的研究。风险附着于使过程证据起作用的那个机制：在协作、修订与反思被评分之处，学生有理由生产匹配其预期评分者所想的证据，因此过程记录可能变成表演性的而非证据性的（[[alam-process-oriented-collaborative-essays-2026|Alam 与 Jackson（2026）]]）。
 
@@ -102,3 +108,4 @@ Thapa 与 Lewis 的记述是概念性的：没有参与者、没有数据收集�
 - [[metacognitive-processes-genai-interaction-logs-2026]] — 渠道条件性的过程证据：日志与出声思维揭示不同过程
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace：一个面向 AI 整合写作的多视图分析环境
 - [[epistemic-ownership-ai-mediated-education-2026]] — 相同的表现，不同的过程：AI 中介教育中的认识论所有权
+- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise：通过大语言模型生成的问题支持教师诊断学生的数学问题求解技能

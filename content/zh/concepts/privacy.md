@@ -10,14 +10,19 @@ ethics: [equity-in-ai-education, ethics]
 level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
+reviewed_by: [editor]
 translation_of: concepts/privacy
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -46,7 +51,7 @@ ai_assist:
 
 - **作为一种隐私机制（而非只是披露）的委派。****[[agentic-literacy-debt|Nama（2026）]]**主张，自主智能体跨会话继承权限、且很少撤销它们，因此每一次不透明的委派都使习惯于不加审视地授予访问 —— 使关于*何时是智能体而非人在行动*的知情同意成为隐私设计的一部分。
 
-- **安全、匿名化与数据来源。**即便是正当的数据，一旦泄露或被误处理也会造成伤害。隐私保全技术遍布本知识库 —— [[teachlm-post-training-llms-education|TeachLM]]展示了一个严格的流水线：每次会话的同意、内部服务器上的个人身份信息（PII）移除，以及用真实数据后训练导学模型的企业级保密，表明合乎伦理来源的学习者数据既可能、也是高质量导学的前提。[[ai-lms-middle-school-longitudinal|联邦式与边缘 AI 架构]]把数据留在本地，减少集中收集。[[ai-detection|检测]]工具增加了一个平行的数据处理案例：**[[bassett-ai-detectors-education-2026|Bassett 等（2026）]]**指出，检测器供应商把学生作品存于第三方服务器、有时在隐私标准更弱的海外，同时存在泄露风险与学生写作被商业利用的可能。
+- **安全、匿名化与数据来源。**即便是正当的数据，一旦泄露或被误处理也会造成伤害。隐私保全技术遍布本知识库 —— [[teachlm-post-training-llms-education|TeachLM]]展示了一个严格的流水线：每次会话的同意、内部服务器上的个人身份信息（PII）移除，以及用真实数据后训练导学模型的企业级保密，表明合乎伦理来源的学习者数据既可能、也是高质量导学的前提。[[ai-lms-middle-school-longitudinal|联邦式与边缘 AI 架构]]把数据留在本地，减少集中收集。浏览器驻留推理把这一点推到最远：一个 WebLLM 导学系统以静态站点运行、权重缓存在 IndexedDB 中，因此学生代码、提示与转录从不离开设备，也不需要 API 密钥或按次计费——尽管其[[equity-in-ai-education|公平]]代价是一种新的硬件能力鸿沟，因为快速、无缝的生成依赖一个有能力的客户端 GPU（[[browser-sized-agents-slm-webllm-tutor-2026|Suvernev 等人（2026）]]）。[[ai-detection|检测]]工具增加了一个平行的数据处理案例：**[[bassett-ai-detectors-education-2026|Bassett 等（2026）]]**指出，检测器供应商把学生作品存于第三方服务器、有时在隐私标准更弱的海外，同时存在泄露风险与学生写作被商业利用的可能。
 
 - **监视与监视–隐私张力。**持续的 AI 监控 —— 即便出于善意 —— 也会令人感到侵入。关于[[ai-fatigue-academic-contexts|AI 疲劳]]、[[remote-proctoring|远程监考]]与[[cognitive-offloading|过度依赖]]的研究，把隐私连接到学生[[well-being|福祉]]：当 AI 持续观察与追踪时，它塑造的是行为与焦虑，而不只是数据流。**[[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana 等（2026）]]**编目了[[remote-proctoring|监考]]系统实际捕捉了什么 —— 面部图像、身份证件、包括 360 度环视的房间扫描、麦克风音频、面部识别、屏幕录制、锁定事件，以及击键与鼠标追踪，而移动监考还加上 GPS 与自拍核查 —— 并发现在满足其纳入标准的六项研究中，隐私与算法问责基本缺席，改由邻近研究补足：一项被引调查中 83% 的受访者表达了监视恐惧，58% 感到不适，72% 担忧数据隐私，而跨境供应商合同使 GDPR 与南非 POPIA 等工具提供的控制有限。保留并处理这些数据所引出的法律暴露 —— 谁是控制者、数据保存多久、谁可访问、同意是否真正自愿 —— 映射在[[legal-issues-and-risks|法律问题与风险]]上。
 

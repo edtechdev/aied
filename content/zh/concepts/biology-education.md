@@ -1,21 +1,25 @@
 ---
 title: 生物学教育
 created: "2026-08-19T13:10:00-04:00"
-updated: "2026-10-09T18:58:09-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
 discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
+reviewed_by: [editor]
 translation_of: concepts/biology-education
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -42,6 +46,8 @@ ai_assist:
 **嵌入生物学课程的 AI 素养。** **[[zha-ai-literacy-biology-case-study|Zha 等人]]** 把机器学习与神经网络概念整合进一门高中荣誉生物课，发现 AI 知识有显著增益，且生物学情境支持了 AI 学习——这是把 AI 素养嵌入 [[stem-education]] 而非贬入课外活动的证据。**[[chatgpt-math-biology-challenge-based-learning-2025|Elizondo-García 等人]]** 在生物与数学课程中把 ChatGPT 用于**挑战式学习**，发现学生看重即时性却担心真实性、[[teacher-role|教师]] 被取代，以及技能侵蚀——呼吁更新学术诚信规范与 AI 使用伦理。
 
 **AI 时代的批判性思维。** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou 与 Nicolaou]]** 主张，随着 AI 塑造生物学研究，**批判性思维**——怀疑、语境理解与伦理推理——必须被刻意培育，且 [[human-in-the-loop-ai|人类监督]] 对验证 AI 输出、防止 [[equity-in-ai-education|偏见]] 仍然不可或缺。这与贯穿知识库的 [[reducing-ai-misuse]] 与 [[cognitive-offloading]] 关切相连。
+
+**准实验中的苏格拉底式 AI 辩论练习用于教师培养。** 一项对 124 名准生物学教师的准实验发现，就社会性科学议题而言，ChatGPT-4 的 [[socratic-method|苏格拉底导师]] 比线下同伴讨论提升了辩论质量（调整后 3.91 对 3.21，F(1,121) = 14.23，p < .001），其中反驳与反证技能的增益最大（[[genai-socratic-tutor-biology-argumentation-2026|Ergasheva 等人，2026]]）。
 
 **专门的 AI 工具与更广的综述。** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton 与 Cotton]]** 综述了生物教育中 AI 工具的全景，包括用于物种识别的 **iNaturalist 与 Google Lens**、生物成像与机器学习工具、辅助技术，以及对处于风险中学生的预测建模——连同生成式 AI 在诚信、评估设计、错误信息与批判性思维上的挑战。
 
@@ -88,3 +94,4 @@ ai_assist:
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
 - [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
+- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence

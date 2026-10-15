@@ -10,14 +10,19 @@ page_kind: [evaluation]
 connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, does-ai-help-students-learn, evaluating-ai-interventions-methods]
 confidence: high
 methods: [ai-ed-evaluation]
+reviewed_by: [editor]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-03T12:32:09-04:00"
+source_updated: "2026-10-12T09:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -110,6 +115,7 @@ ai_assist:
 - [[oneill-presumed-effective-meta-analysis-2026|对 14 项高影响 AIED 元分析的法证审计]]发现，无一为其合并学习收益主张提供了有效依据：无一有连贯的结果构念，全部有未解决的极端异质性（I² 在报告它的 13 项元分析中从 77.2% 到 94.4%，其中 12/13 超过 80%），十二项把相依效应量当作独立处理，且无一有效评估发表偏见。随机抽查的初级研究多数与元分析主张不匹配。错误波及政策：两项被审计的元分析把研究样本量当作班级规模，并凭一项算错的初级研究，断定 21 到 40 名学生是理想干预规模，并建议生成式 AI 干预按该数字设计。
 - **一项修正了被审计缺陷中两项的 2026 年[[stem-education|STEM]]综合——却仍例证了第三项。**[[ai-supported-instruction-stem-meta-analysis-2026|Doğan 及其同事（2026）]]合并 35 项实验与准实验 STEM 研究，每研究一个效应量以避免相依效应量问题，并跑了全套发表偏见检验（漏斗图、Begg 与 Egger 检验、剪补法、Rosenthal 失效安全数 N = 2404）而非断言对称——正是上面审计在它所检的每项元分析中发现的两个捷径。两项告诫存活。第一，作者未做正式质量评估，把纳入标准当作了严谨门槛，因此设计迥异的研究未经质量加权进入合并。第二，标题的异质性完全取决于你读的是哪个模型：同样 35 项研究在固定效应模型下报为 I² = 82.98%，在随机效应模型下为 I² = 15.75%，因此遇到无模型标签的数字的读者，可以在语料非同质时断定它是同质的。其合并估计（g = 0.670, 95% CI [0.491, 0.848]）因而是上一节所描述的那类数字：建构得比多数好，仍是一个上界。
 - [[weidlich-chatgpt-effect-search-cause-2025|一项媒体/方法批评]]表明，许多"学习收益"并未被有效测量——结果往往是自报技能，或在 AI 协助*期间*测得的表现，而非持久的、无辅助的学习。
+- **第一波 ChatGPT 综合测量的是表现，而非学习。**[[epistemological-audit-genai-meta-analyses-2026|Fütterer 等人（2026）]]重建了汇总 ChatGPT 教育效应的五篇元分析的证据基础：在 69 项可分类的初级研究中，79.7% 只测量了表现，只有 11.6% 测量了学习。他们复现的合并估计（g = 0.83，95% CI [0.68, 0.97]，I² = 94.06%）因此描述的是测试表现，其预测区间 [−0.75, 2.41] 跨越零。
 
 **给上面收益数字的底线：**把大的合并 AI 效应量当作上界而非点估计。优先采信来自设计良好[[rct|RCT]]与田野研究、有无辅助标准化结果测量的学习收益证据（上面引用的护栏 RCT、Khanmigo 与 NUMI 实验，以及世界银行教育科技元分析），并把元分析的收益读作暂定且很可能夸大的，直到合成质量改进。问题也在更正之后存续：在一项被审计元分析被撤回后发表的论文中，60% 仍把它当作大 ChatGPT 学习收益的权威支持引用，无一承认撤回，因此一个被撤回的估计持续传播。这就是为何[[limitations-in-aied-research|AIEd 研究的局限]]一页现在详细记录了元分析证据危机。
 
@@ -137,6 +143,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[epistemological-audit-genai-meta-analyses-2026]] — 对生成式 AI 教育研究中早期证据综合的批判性认识论审计（Fütterer 等人 2026）
 - [[contractor-learning-impact-generative-ai-2026]] — 现成聊天机器人访问提高了一周后仍持续的无辅助测试分数（Contractor & Reyes 2026）
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI 辅导优于课堂主动学习：一项在真实教育情境中引入新研究设计的 RCT（Kestin 等人 2025）
 - [[genai-performance-vs-learning]] — 为何受助表现不是学习结果（Yan 等人 2025）
