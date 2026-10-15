@@ -133,6 +133,7 @@ L'engagement des étudiants est en lien avec la [[motivation|motivation]] et la 
 
 ## Articles liés
 
+- [[rho-disengaged-conversational-behaviors-2026]] — Comportements conversationnels de désengagement et apprentissage dans les dialogues élève-IA (Rho et al. 2026)
 - [[assigned-ai-preclass-student-engagement-2026]] — La pratique pré-cours avec l'IA vocale a accru les contributions volontaires en cours d'environ 31%, mais seulement après un deuxième usage (Wang et al. 2026)
 - [[confident-but-absent-ai-use-absenteeism-2026]] — L'usage de l'IA s'accompagnait d'un plus grand absentéisme en cours alors que l'auto-efficacité ne le prédisait pas, l'influence des pairs étant le principal corrélat (Franco et al. 2026)
 - [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education

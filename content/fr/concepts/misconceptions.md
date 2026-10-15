@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,8 @@ Les idées fausses sur l'IA ne se limitent pas aux apprenants — elles sont ré
 - **Le grand public** absorbe les récits médiatiques et commerciaux sur les capacités et les risques de l'IA. Parce que les étudiants apprennent à l'intérieur de ce discours, les mythes publics deviennent le substrat à partir duquel les idées fausses des étudiants se développent. Corriger les idées fausses sur l'IA est donc une tâche d'[[ai-literacy|littératie en IA]] visant tout l'écosystème éducatif, et pas seulement les apprenants.
 
 Cette ampleur explique pourquoi la base de connaissances traite les idées fausses comme un thème fondateur transversal plutôt que comme un thème purement tourné vers les étudiants : les mêmes erreurs de calibration reviennent chez les apprenants, les enseignants, les institutions et le public, et les corriger exige de confronter à la fois les croyances individuelles et le discours qui les nourrit.
+
+Les idées fausses pédagogiques des enseignants en sont l'image miroir : non pas des incompréhensions au sujet de l'IA, mais des croyances non étayées par les preuves au sujet de l'enseignement, qui persistent indépendamment de l'IA. [[etq-ai-conversational-teacher-training-2026|Miranda et Calvani (2026)]] les instrumentent à l'aide du questionnaire Effective Teaching Questionnaire, dont 50 items binaires sont rattachés à des tailles d'effet issues de méta-analyses (d ≥ 0,40), de sorte que la réponse d'un enseignant peut être comparée à un référentiel aligné sur les preuves — et leur constat est que les idées fausses sont profondes et spécifiques. Dans un pilote mené auprès de 123 éducateurs italiens, le désaccord se concentrait le plus fortement sur les styles d'apprentissage cognitifs (78% des enseignants défendaient l'appariement visuel/auditif), l'inclusion et le travail de groupe (68%), et la surcharge d'EdTech (54%), avec un alignement moyen proche de 50% sur les dimensions de planification, cognitives, d'évaluation et de gestion. Deux détails importent pour la conception de la correction. Premièrement, les idées fausses survivent à l'université et à la pratique enseignante — les auteurs décrivent un « sens commun intériorisé » qui « précède l'entrée à l'école » et persiste — si bien que ce ne sont pas des lacunes de connaissances qu'un cours magistral referme. Deuxièmement, lorsque les mêmes items étaient administrés par le biais d'une IA conversationnelle qui validait le contexte de l'enseignant avant de réintroduire les preuves, 41% des objections portaient sur de véritables contraintes contextuelles (taille des classes, besoins spéciaux, couverture du programme) plutôt que sur les preuves elles-mêmes, et 5,9% rejetaient le système comme une « machine à dogme algorithmique » — la condition limite où le cadrage normatif engendre de la défensive plutôt que de la réflexion. Pour le développement de la [[teacher-ai-competency|compétence des enseignants en IA]], l'implication est que le diagnostic accompagné de dialogue peut faire apparaître quelles croyances relèvent d'un désaccord fondé sur les preuves et lesquelles relèvent de l'idée fausse, une distinction qu'un score seul ne permet pas d'établir.
 
 ### Corriger les idées fausses
 
@@ -143,3 +145,4 @@ Ces réfutations sont délibérément écrites sous la forme du [[refutation-tex
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS : des explications fluides et assurées qui sont fausses conceptuellement plutôt que factuellement (Miličević et al. 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Des instructions cachées dans un fichier remis peuvent faire monter une note attribuée par l'IA sans avertissement visible (Humble 2026)
 - [[children-ai-safety-misconceptions-2026]] — Les idées fausses des enfants sur la sécurité de l'IA : l'amitié avec un robot mal interprétée comme une garantie de vie privée (Leisten et al. 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Diagnostic conversationnel par IA des conceptions erronées en enseignement, par un dialogue fondé sur les preuves (Miranda & Calvani 2026)

@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-10T14:20:00-04:00"
+source_updated: "2026-10-13T04:43:42-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -161,6 +161,8 @@ AI教育における最も重大なリスクの一つ:
 
 **オフロードされた摩擦がすべて余分な摩擦であるとは限らない。** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]]は、オフローディングの文献が必要としている区別を引きます。以前の[[ai-technologies|AI技術]]は*余分な*摩擦、学習や意味の価値の乏しい退屈で乗り越えがたい障害を取り除きました。一方、知的作業における生成的AIは、*有益な*摩擦も取り除いてしまい、学習者が出力に疑問を抱くことなく構想から評価へと移ることを許してしまいます。彼らは連想的な証拠を率直に提示します。AIを使う人は自分の仕事を正確に思い出したり再現したりするのに苦労し、より少ない技能を獲得し、より少ない転移を示し、AIの支援が取り除かれたときに悪い成績を示します。これは、AI補助による文章作成のEEG研究からの認知的負債の発見に収施します。彼らの論拠はまた、純粋に認得的な説明が見落とす動機づけの半分を供給します。労力は私たちの行為が重要であることを示すため、それをオフロードすることは見積もられた目的と意味を減らし、AIがある領域で労力を代替するにつれて、そこで労力の動機づけ的な見返りが侵食され、依存をさらに深めるのです。この論文の正し方は、禁止ではなく勾配です。中程度のもがき苦しむ体験は保ち、ただ圧倒するだけのものを取り除くのです（[[desirable-difficulties|望ましい困難さ]]、[[motivation|動機づけ]]）。
 
+- **関与の低下の合図は発達的に現れる。** 子どもと大人がChatGPTと話す様子を対象とした最初の神経画像の比較では、6〜7歳の子どもは、創造性のスコアが一致していたにもかかわらず、前頭–頭頂の制御ネットワーク、顕著性ネットワーク、背側注意ネットワークにおいて大人よりもネットワーク内の接続性が弱く、大人が見せた創造性–接続性の共変動を欠いていました。それらの執行機能（計画、監視、抑制）が小学1年次には未成熟であるため、著者らはこの結果を最低年齢をめぐる議論に関連するものとして読んでいます。留保事項：ChatGPTなしの対照群がないこと、n = 31であること、子どもの批判的評価を抑圧した可能性のある枠組みの交絡があること（[[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]）。
+
 - **依存的なオフローディング対自律的なオフローディング — 結果を定める区別:** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]]は、589名の学生と若手の知識労働者による三波の研究に依拠して、この境界の鋭い版を用いて生成的AIの証拠を整理します。*依存的な*オフローディングは中核的な思考を道具に委任し、移転された[[agency|エージェンシー]]、低い内発的動機づけ、乏しい知覚された認知的成果と関連しました。一方、*自律的な*オフローディングは学習者に認識論的なエージェンシーを保たせ、反対のパターンを示しました。検出にとって最も重要な発見は、二つの様式の間で即時の成績の便益に差がなかったことです。したがって、ある日に課題を流暢にこなしている学習者は、自分がどちらの様式にいるかについての合図を与えません。同じレビューは証拠のより広い分裂も記録しています。中程度の全体的な便益の三層の[[meta-analysis-systematic-review|メタ分析]]（g = 0.499; 理解、認知、創造性についてg = 0.669）に対して、依存、疲労、弱い[[critical-thinking|批判的思考]]との関連です。そして不適応的な使用を、技術の嗜癖ではなく外在化された自己調整に帰します。
 
 - **一つの行動ではなく、三つの相互作用の経路。** Neuroplasticity-AI Interaction Model（NAIM）は、モデルが解を供給して生成的な労力が消える直接的な迂回、特定の下位過程が委任されその効果がそれらの下位過程が学習の標的であるかどうかに依存する認知的オフローディング、そしてモデルが助けを制約して努力を要する処理を保つ足場づけを切り分けます（[[naim-bypass-offload-scaffold-llm-learning-2026]]）
@@ -218,6 +220,7 @@ AI教育における最も重大なリスクの一つ:
 - [[genai-thoughtless-use-self-directed-learning-2026]] — 思慮なきAI使用は自律学習を侵食する
 - [[generative-ai-guardrails-harm-learning]] — 無防備な生成的AIに関する高校数学のRCT
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 生成的AIの学習ペナルティ：宿題の外注は学習を害する
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — ChatGPTと話している間、創造性のスコアが一致していても、子どもは大人よりも前頭–頭頂、顕著性、背側注意の接続性が弱かった
 - [[coach-not-crutch-ai-writing]] — AIはより少なく働きより多く学ばせうる（Lira et al. 2025）
 - [[making-ai-tutoring-productive-mastery-math-2026]] — AI家庭教師を生産的なものにする：熟達に基づく数学の練習
 - [[cognitive-commons-ai-expertise-regeneration]] — 認知的コモンズの悲劇：AIと専門性の再生産

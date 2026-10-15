@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -47,9 +47,13 @@ ai_assist:
 
 **感覚的アクセス：非視覚的・触覚的な出力。** **[[kutti-ai-voice-first-learning-companion|Kutti AI]]**は、視覚に障害のある子どもたちにとって音声による会話を主要な様態とし、視覚への依存を取り除きます。**[[tactile-statistical-graphs-accessibility|触覚的な 3D 印刷のグラフ]]**は、視覚的な統計データを、盲目または弱視の学生のための触れることのできる出力に変えます。**[[pepper-robot-sign-language-lis-2025|手話ロボット]]**は、[[educational-robotics|教育ロボティクス]]を、ろう学習者のためのコミュニケーションのアクセシビリティへと拡張します。
 
+**映画のために書かれた音声解説は講義の録画にはそのまま移らない。** スライドを用いた講義は図、数式、指し示す身ぶりを参照し、その休止は中央値でわずか 0.5 秒しかないため、[[ad4edu-lecture-audio-description-2026|Psychias & Gao (2026)]]は講義に特化したベンチマークと規則で診断可能な指標を構築しました。機械判定者によって順序づけられた対に対する事後訓練は、遵守を一様には改善しませんでした。
+
 **視覚に障害のある学習者のための[[generative-ai|生成AI]]。** **[[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]]**——パレスチナの三つの大学にわたる 21 人の視覚に障害のある[[higher-ed|学部生]]の[[qualitative-research|質的]]事例研究——は、生成AI がペース、内容、提示の仕方を個々の学習プロファイルに合わせ、複雑な学術テキストを平易化し、内容を様態間で（テキスト、音声、視覚）変換することで、これまでアクセスできなかった教材を使えるようにすることを見出しました。学習者は即時性を利便性ではなく基盤的なアクセシビリティ要件として位置づけ、六つの相互依存的な技術的属性——双方向性、使いやすさ、手頃な価格、多様態性、統合、拡張性——が、[[global-south|資源の乏しい文脈]]において生成AI が真にアクセシブルであるかどうかを決め、[[usability-research|ユーザビリティ]]、手頃な価格、アクセシビリティは互いに独立した設計上の検討事項ではなく相互に強め合うと論じました。
 
 **障害のある学生のための方針と配慮。** **[[shin-ai-policies-sld-2026|Shin et al.]]**は米国の AI 方針文書を分析し、特定の学習障害のある学生のための指針の空白を明らかにし、[[assistive-technology|支援技術]]法と IDEA に根ざした配慮と[[educational-policy-ai|方針]]提言を提案します。**[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]]**は障害のある学生への AI に基づく介入の 29 研究をメタ分析し、[[learning-gains|学習成果]]に対する中程度の正の効果（g = 0.588）を見出し——AI はアクセシビリティを確保するだけでなく、[[agency|行為主体的]]な参加を可能にすべきだと論じます。
+
+**機械への耐性は可読性の代償を伴う。** 縞のオーバーレイは抽出を最も劣化させ（文字誤差 +35.9%、語誤差 +38.3%）ましたが、四人のタイポグラフィとデザインの専門家は縦向きの縞を可読と判定する一方、斜め向きの縞は字形を崩し非可読と判定され、極端な不透明度の変化は人間の可読性も同時に損なう強度においてのみ助けとなりました（[[airri-machine-resistant-reading-interface-2026|Salaun et al. (2026)]]）。
 
 **過剰包摂的な AI 禁止と支援的な音声文字変換。** **[[wright-transcription-not-generation-2026|Wright (2026)]]**は、「AI の利用」に対する一律の禁止が過剰包摂的であると論じます。すなわち、音声からの文字変換と OCR を、生成的な執筆と区別できていないためです。認識技術は、学生がすでに執筆した内容の形式を変換するものであって、新しい内容を生み出すのではありませんが、プラットフォームの同一性を軸に書かれた方針はその両方を等しく捉えてしまいます。微細運動の制御、筆記の可読性、タイピングの正確性に影響する状態——自閉スペクトラムの状態、協調運動障害、脳性麻痺、反復性過度使用障害を含む——のある学生は、独立した音声文字変換ツールと OCR に依存してきましたが、報告によれば独立した音声文字変換製品のいくつかは提供終了または品質低下しており、AI を活用した音声文字変換がその機能的空白を埋めています。その代替を不正行為として扱うことは、英国平等法 2010 の合理的調整の義務、先行的な公的部門平等義務、米国障害者法、およびオーストラリア障害者差別禁止法 1992 の下で公正性の懸念を生じさせますが、論文はこの性格づけが審判で検証されたとは主張していません。障害、支援技術、AI 不正行為方針の交差する点は十分に探求されておらず、この置き換えの規模は計測されていないと指摘し、同じ不正確さが差別的な誤陽性リスクを生むことも述べています。なぜなら検出器は非英語母語話者の執筆する低パープレキシティのテキストを機械による著作と読み違えるためです。この過剰包摂が生む法的リスクは [[legal-issues-and-risks]] にまとめられています。
 
@@ -65,6 +69,7 @@ ai_assist:
 - **AI を使ってアクセシビリティを大規模に自動化する。** AI は字幕の生成、テキストの平易化、触覚的・音声的な代替物の生成、提示の適応化ができます——ただし human-in-the-loop のチェックで出力の質を評価してください。
 - **アクセシビリティを必要だが十分ではないものとして扱う。** アクセシブルなツールは自動的に包摂的であったり障害に公正であったりするわけではありません。アクセシビリティを[[inclusive-learning]]の設計と[[special-education]]の支援と組み合わせてください。
 - **配慮を法と方針に根拠づける。** AI ツールを設計または調達する際には、標準（WCAG）や法令（支援技術法、IDEA）を参照してください。
+- **AI の展開は機関の水準において AI のアクセシビリティ方針を追い越している。** [[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]は、Times Higher Education 2026年版のランキングに入ったすべての大学100校を符号化し、AI 駆動のキャンパスサービス（履修登録、住居、IT のためのチャットボット）を93%が展開している一方、独立した AI のアクセシビリティ方針を公表しているのは0%であることを見出しました。著者の好意的な読みでは、アクセシビリティに関する義務は一般的な障害学生サービスの方針の中にあるとされますが、測られた限りでは、AI ツールに関する要件は公的な機関の記録のどこにも現れていません。教育と運営における AI ツールは障害のある学生にとってアクセシブルでなければならないという短い機関の声明でさえ、測られた分野全体の先を行くことになるでしょう。
 
 - **[[physics-education|物理学]]の動画の数学的にアクセシブルな文字変換（2026年）：** Gemini（音声＋毎秒 1 フレームの動画サンプリング）と LuaLaTeX を用いた AI のワークフローは、教育用の物理学動画を、アクセシビリティ検証を routinely 通過する PDF/UA-2 および ISO 32005 の数学的にアクセシブルな PDF にコンパイルします。これらはアクセシビリティ検証を常に通過します——これは、式の多い動画教材を盲目および弱視の学生にとってスクリーンリーダーで読めるようにする、実践的で無料の道筋です（[[gemini-lualatex-physics-video-transcription-2026]]）。
 
@@ -101,3 +106,6 @@ ai_assist:
 - [[khlaif-assistive-genai-visually-impaired-2026]] — 視覚に障害のある学習者のための支援的な生成AI
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成AI、バーチャルリアリティ、そしてその先へ：高等教育における神経発達の多様な学生のためのデジタル支援技術のスコーピングレビュー
 - [[wright-transcription-not-generation-2026]] — 文字変換は生成ではない：過剰包摂的な AI 禁止とそれが捉える支援ツール
+- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026)：100校のエリート大学の0%がAIのアクセシビリティ方針を公表する一方、93%はAIのキャンパスサービスを展開している
+- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: Benchmarking University Lecture Audio Description across Accessibility Standards, Metrics, and Learner Preferences
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface

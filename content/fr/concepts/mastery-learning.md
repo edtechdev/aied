@@ -74,3 +74,4 @@ La notation fondée sur les standards est la contrepartie évaluative de l'appre
 - [[neural-symbolic-knowledge-tracing]] — Injection de règles de maîtrise/non-maîtrise dans l'apprentissage profond pour une modélisation de l'apprenant responsable et interprétable
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[crediting-assisted-work-inflates-mastery-2026]] — Créditer le travail assisté gonfle la maîtrise : quelle règle de preuve décide qui est déclaré maître (Srivastava 2026)
+- [[noh-simulating-task-selection-2026]] — Simulation des stratégies de sélection de tâches des apprenants et des contraintes du système dans l'apprentissage par maîtrise (Noh et al. 2026)

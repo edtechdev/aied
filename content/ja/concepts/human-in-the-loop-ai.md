@@ -69,6 +69,7 @@ Yuら(2024)は、清華大学に、500人を超える学生と100,000件を超�
 Kim, Baek, Kwak (2026)は、HITLを**PedaCo**(Pedagogical Co-creation)を通じて[[video-education|AIが生成した教育動画]]にまで拡張します。Mayerのマルチメディア学習の認知理論(CTML)に根ざした*原則ある抵抗*を具体化する、2つの相補的な把关の層からなるパイプラインです。**第1の層**は人間を台本の段階に置きます。LLMが台本を下書きし、AIのレビュアーが起こりうるCTML違反を旗印し(たとえば「場面3が、事前の説明なしに専門用語を導入しています」)、教育者はそれを受け入れる、改訂する、再生成するかを決めます。**第2の層**は、合成後の一貫性、冗長性、時間的な近接性、モダリティ、画質について自動化された指標を実行し、教育者がそれを見直します。被験者内研究(23人の教育者)では、レビューに基づく手法はCTMLのすべての原理を改善し(平均評価3.07→3.86, p<.01)、教育者は生産の効率を4.26/5と評価しました。摩擦は負担ではなく生産的として知覚されたのです。この設計原理は、ナレッジベースのHITLの総合を反響させます。人間とアルゴリズムは*異なる*種類の問題を捉えるため、もっとも効果的なシステムは、計算による検証が正確なところ(時間的な同期)では自動化し、教授法的なニュアンスが代替しがたいところ(口調、受け手との適合)では人間の判断を保つのです。
 
 配置は存在よりも重要になりうます。あるSocial Storyの執筆ツールは高いユーザビリティとして評価されました(SUS 86.8)が、レビューが遅すぎたと報告されました。生成の前に定められた文化的・臨床的な制約(西洋の街着ではなくアバヤなど)は、出力を後から編集して取り戻すのがより難しいからです([[adapted-stories-social-story-intervention-2026|Enkhjargalら(2026)]])。
+- **決定的な問いは、ループがどう実行可能にされるかであって、人間がどれだけ参加するかではない。** 学習科学の見解は、学習をデータの捕捉、計算による解釈、起こりうる反応を中心に組織することは、教授学的な行為を、システムが検出し行動できるものに依存させるようになると論じます。そして、警告や関与の分類は、教師や学生が行為する前に学習者を解釈してしまうのです([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]])。
 
 ## AI時代にHITLが重要である理由
 
@@ -163,3 +164,4 @@ Kim, Baek, Kwak (2026)は、HITLを**PedaCo**(Pedagogical Co-creation)を通じ�
 - [[llm-grading-assistants-public-health-2026]] — 同一のLLM採点を異なる日に再実行しても、Krippendorff's alpha 0.625の再現しかない
 - [[when-students-prefer-ai-scoring-feedback-2026]] — 学部生は高い利害のある仕事の人間による採点と、代替ではなく助手としてのAIを好む
 - [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask:Demand Structure and Automation Potential in a Hybrid Support System
+- [[in-the-loop-educational-ai-learning-sciences-2026]] — Rethinking "In-The-Loop" Approaches in Educational AI: A Learning Sciences Perspective
