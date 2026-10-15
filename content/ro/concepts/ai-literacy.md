@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 reviewed_by: [editor]
 translation_of: "concepts/ai-literacy"
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "*Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*"
 contributors: [editor]
 ai_assist:
@@ -128,6 +128,12 @@ Un fir distinct al bazei de cunoștințe tratează alfabetizarea în IA nu doar 
 - **Apreciere (valuation), nu doar verificare.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] a constatat că studenții care verificau rezultatul doar pentru acuratețe, credibilitate și relevanță acceptau totuși o lucrare aplatizată conceptual, în timp ce cei care judecau și nuanța, vocea și postura epistemică o rescriau — făcând din „când să nu delegi judecata" întrebarea de alfabetizare.
 
 Aceste fire critice completează dimensiunile operaționale și cognitive ale alfabetizării în IA: acolo unde cele din urmă întreabă „poate cel care învață să folosească și să evalueze IA?", alfabetizarea critică în IA întreabă „înțelege și contestă cel care învață structurile de putere pe care IA le întruchipează?"
+
+### Alfabetizarea în IA în educația STEM
+
+Cea mai dezvoltată bază de dovezi disciplinare pentru alfabetizarea în IA provine din educația STEM, iar [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky și Li (2026)]] sintetizează cele zece studii cele mai citate ale sale (2022–2026) pentru a arăta atât linia de bază, cât și limitele acesteia. În tot corpusul, alfabetizarea în IA este definită prin șase constructe suprapuse — cunoștințe/competențe/atitudini (Su & Yang 2024), cunoștințe conceptual-procedural-contextual (Stolpe & Hallström 2024), know-understand/use-apply/evaluate-create/ethics (Ng et al. 2022) și încadrarea use–communication–evaluation a lui Long & Magerko (Hornberger et al. 2023) — astfel încât „ambiguitatea conceptuală" a domeniului este o problemă de măsurare: două studii pot evalua amândouă „alfabetizarea în IA" fără a evalua același construct. Numai două dintre cele zece oferă cadre complete. Concluzia cea mai ascuțită a prezentării generale este o asimetrie — corpusul măsoară aproape în întregime alfabetizarea *studenților*, în timp ce aproape nimic nu dezvoltă pe a *profesorilor*, o lacună care lasă intervențiile de alfabetizare în IA destinate profesorilor să se sprijine pe ipoteză mai degrabă decât pe dovezi, și pe care autorii o leagă de cerința practică ca profesorii să fie ei înșiși alfabetizați în IA pentru a conduce astfel de intervenții.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+Dovezile privind chatbot-urile din acel corpus contrazic formarea bazată pe fluență. Ding et al. (2023) au constatat că tutoriatul ChatGPT în fizica universitară a crescut încrederea și cunoștințele, dar a întărit o concepție greșită despre IA ca fiind „supraumană și infailibilă", concluzionând că educația privind alfabetizarea în IA este „în primul rând îmbunătățirea competențelor de gândire critică ale studenților în evaluarea informațiilor." Xu et al. (2026) au constatat că programarea STEM asistată de ChatGPT a îmbunătățit încrederea și cunoștințele, dar a lăsat neschimbate gândirea computațională și gândirea independentă — câștiguri în fluență coexistând cu niciun câștig în gândire. Ambele constatări reflectă preocupările legate de [[trust-calibration|calibrarea încrederii]] și [[cognitive-offloading|dependența excesivă]] din alte părți ale acestei pagini: un tutore care nu contrazice niciodată studentul poate produce învățăcei încrezători care nu pot evalua. Atitudinea, nu pregătirea sau autoeficacitatea, s-a dovedit cel mai puternic determinant al utilizării efective a instrumentelor de IA în rândul studenților STEM de licență (Falebita & Kok 2025), iar prezentarea generală notează că acoperirea disciplinară STEM este înclinată spre biologie și fizică, cu tehnologia ca disciplină aproape absentă. Pentru un design [[discipline-specific-aied|specific disciplinei]], avertismentul practic al prezentării generale este că cadrele cuprinzătoare de competențe (UNESCO, UE/OCDE) „lipsesc adesea de conexiune la cercetarea empirică sau de un fundament teoretic suficient" și puține sunt aplicabile în clasă.
 
 ### A cui competențe în IA contează? Diviziunea de încadrare între instructor și angajator
 
@@ -269,4 +275,5 @@ Alfabetizarea în IA este **cu două tăișuri** pentru supra-dependență: [[st
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Instrument cu șase fațete adăugând fațetele de utilizare responsabilă și autodezvoltare, invariant scalar peste adolescenți, adulți tineri și adulți de vârsta mijlocie
 - [[faculty-ai-well-being-social-supports-2026]] — Model cu ecuații structurale al bunăstării cadrelor didactice în raport cu IA, sprijinurilor sociale și alfabetizării în IA
 - [[bozkurt-3wai-literacy-scale-2026]] — Scară validată de autoevaluare cu 17 itemi și trei factori distincti de alfabetizare în IA (Know What/How/Why); Know-How și Know-Why cei mai cuplați (HTMT = 0,544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Sinteză a celor zece studii cele mai citate privind alfabetizarea în IA în educația STEM (Hallström et al. 2026)
 

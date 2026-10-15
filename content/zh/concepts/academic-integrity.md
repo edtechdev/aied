@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-10T14:22:00-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,8 @@ ai_assist:
 - **诚信是一个治理问题，而非检测问题。** [[coates-governing-academic-integrity-indicators-2025|Coates、Croucher 与 Calderon（2025）]]把约束条件从学生行为转移到学术 [[governance]]，他们称后者有韧性，但"并未处于良好位置或准备就绪"以应对 GenAI 对学生考核认证的威胁。他们的答案是一个覆盖八个维度、共 130 项的诚信指标框架，从 Designing（设计，19 项）到 Improving（改进，6 项），由治理问题而非心理计量量表构成——机构的最高董事会是否收到考核质量更新，考核中有多少比例贴近相关且有意义的问题，有多少比例的学生被评估他们的教师个人认识。该框架通过多年的研究综述、五个澳大利亚大学案例、原型设计、来自六大世界区域的 60 位受邀专家确认以及 [[quantitative-research|定量]]试点开发而成，并与治理架构、人员、技术与资源方面的改革配套；作者预期这些改革只有在 [[regulation]]、基准比较与跨机构竞争的外部压力下才会兑现；他们将框架定位为形成性的，并呼吁在用于比较或 [[educational-measurement|测量]]之前先做心理计量验证。
 - **文件实际上说了什么：诚信主导机构 AI 政策。** [[institutional-ai-policy-health-informatics-2026|Eldredge et al.（2026）]]分析了美国全部 48 个 CAHIIM 认证的健康信息学与健康信息管理硕士项目的 AI 政策与指导文件：其中 40 个（83%）至少有一份合格文件，这些文件压倒性地把 AI 框定为防止课程中学生滥用的问题，以学术诚信与可接受使用为中心。学术诚信是出现频率最高的关键词（n = 139，高于引用 59、考核 50、抄袭 38），而隐私、知识产权与监管主题虽存在但较少见（HIPAA n = 5，FERPA n = 11，IRB 指导 n = 8）。对同一语料的主题建模返回四个主题，第一个即学术诚信与恰当 AI 使用，其余为教学中的生成式 AI、研究中的 AI 与数据工具使用，以及学生与对话式 AI 系统的互动。本页的证据价值在于量化：以诚信为中心的框定不只是机构 AI 政策的口头默认，它在经验上是其主导内容。作者最尖锐的观察在于这种注意力止步何处：相对较少的指导覆盖了应用学习、研究与模拟环境中的 AI 使用，而这些正是课程与数据治理关切的交汇处，于是文件治理着课程作业，而学位正在为学生准备的场景却基本未被触及。
 - **诚信框定正在让位于基于任务的规制：** [[chirikov-regulate-ai-syllabi-2026|Chirikov（2026）]]对 31,000+ 份课程大纲的纵向研究显示，教师的 AI 政策正在脱离纯粹的诚信框架：教学大纲中提及学术诚信的比例从 63%（2023 春）降至 49%（2025 秋），而提及 AI 对学习影响的比例从 1% 升至 29%。教师越来越多地**按任务类型**规制 AI——在起草/推理（AI 会取代学习之处）限制它，在编辑/校对与学习支持上允许它——而非施加一揽子的诚信禁令。这把诚信政策重新框定为一项任务层面的设计决策，而非一条二元规则。
+
+- **把抗机器性作为预防而非检测。** 扰动文档本身——字符、词与行的间距、透明度抖动、条纹叠加与图像噪声，加上基于决策的对抗攻击——从源头上提高了低努力 LLM 滥用所需的成本，同时测量的是同样的知识（[[airri-machine-resistant-reading-interface-2026|Salaun 等（2026）]]）。人工转录仍然可行，而对抗攻击只保护选定的行，使整篇文档的字符错误率保持在 8.44% 以下。
 
 ### 不当行为程序及其证据基础的崩塌
 
@@ -230,3 +232,4 @@ ai_assist:
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar（2026）——从 LMS 痕迹早期预测 AI 辅助作弊风险，框定为学业指导而非不当行为证据
 - [[reddit-genai-education-discourse-analysis-2026]] — 三年半的教育 Reddit：执法主导，诚信争议是师生互动的主要场所（Yüce et al. 2026）
 - [[boyd-swan-employer-responses-genai-2026]] — 调查实验：学生 AI 使用的替代框架惩罚了高 GPA 申请人的录用与薪资；现场测试是两组唯一共同选择的补救办法
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI：面向人类可读、抗机器的阅读界面

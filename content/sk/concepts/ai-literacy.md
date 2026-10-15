@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 reviewed_by: [editor]
 translation_of: "concepts/ai-literacy"
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -127,6 +127,12 @@ Odlišné vlákno tejto vedomostnej bázy pokladá AI gramotnosť nielen za zru�
 - **Valuácia, nielen verifikácia.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] zistil, že študenti, ktorí kontrolovali výstup len z hľadiska presnosti, vierohodnosti a relevancie, stále prijímali konceptuálne zplostenú prácu, zatiaľ čo tí, ktorí tiež súdili nuansu, hlas a epistemický postoj, ju prepísali — čo z „kedy nedelegovať úsudok" robí otázku gramotnosti.
 
 Tieto kritické vlákna dopĺňajú operatívne a kognitívne dimenzie AI gramotnosti: kde druhé sa pýtajú „dokáže študent používať a hodnotiť AI?", kritická AI gramotnosť sa pýta „rozumie študent a spochybňuje mocenské štruktúry, ktoré AI vtelia?"
+
+### AI gramotnosť v STEM vzdelávaní
+
+Najrozvinutejší disciplinárny dôkazový základ pre AI gramotnosť pochádza zo STEM vzdelávania a [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky a Li (2026)]] syntetizujú jeho desať najcitovanejších štúdií (2022–2026), aby ukázali základnú líniu aj jej limity. V celom korpuse je AI gramotnosť definovaná šiestimi prekrývajúcimi sa konštruktmi — vedomosti/zručnosti/postojov (Su & Yang 2024), konceptuálno-procedurálno-kontextuálne vedomosti (Stolpe & Hallström 2024), know-understand/use-apply/evaluate-create/ethics (Ng et al. 2022) a rámcovanie use–communication–evaluation podľa Long a Magerka (Hornberger et al. 2023) — takže „konceptuálna nejednoznačnosť" odboru je meracím problémom: dve štúdie môžu hodnotiť „AI gramotnosť" bez toho, aby hodnotili ten istý konštrukt. Len dve z desiatich ponúkajú úplné rámce. Najostrejším zistením prehľadu je asymetria — korpus takmer výhradne meria gramotnosť *študentov*, zatiaľ čo takmer nič nerozvíja gramotnosť *učiteľov*, čo zanecháva intervencie AI gramotnosti zamerané na učiteľov spoločne na predpokladoch, nie na dôkazoch, a autori to spájajú s praktickou požiadavkou, aby samotní učitelia boli AI gramotní, keď takéto intervencie vedú.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+Dôkazy o chatbotoch v tomto korpuse idú proti tréningu založenému na plynulosti. Ding a spol. (2023) zistili, že doučovanie ChatGPT vo vysokoškolskej fyzike zvýšilo dôveru a vedomosti, ale posilnilo mylný predstav o AI ako „nadľudskej a neomylnej", pričom dospeli k záveru, že vzdelávanie AI gramotnosti je „v prvom rade zlepšovanie schopností kritického myslenia študentov pri hodnotení informácií." Xu a spol. (2026) zistili, že programovanie STEM podporené ChatGPT zlepšilo dôveru a vedomosti, ale zanechalo výpočtové myslenie a samostatné myslenie bez zmeny — zisky v plynulosti existujúce popri žiadnom zisku v myslení. Obe zistenia zrkadlia obavy týkajúce sa [[trust-calibration|kalibrovania dôvery]] a [[cognitive-offloading|nadmernej závislosti]] inde na tejto stránke: tutor, ktorý nikdy nezodpovie študentovi odpor, môže vytvoriť sebavedomých študentov, ktorí nedokážu hodnotiť. Postoj, nie pripravenosť ani sebaúčinnosť, sa ukázal ako najsilnejší determinant skutočného používania AI nástrojov medzi bakalárskymi študentmi STEM (Falebita & Kok 2025), a prehľad poznamenáva, že disciplinárne pokrytie STEM je sklonené smerom k biológii a fyzike, pričom technológia ako predmet je takmer neprítomná. Pre dizajn [[discipline-specific-aied|špecifický pre disciplínu]] je praktické varovanie prehľadu, že komplexné rámce kompetencií (UNESCO, EÚ/OECD) „často postrádajú spojenie s empirickým výskumom alebo dostatočné teoretické zakotvenie" a málo z nich je aplikovateľných v triede.
 
 ### Čie AI zručnosti sa počítajú? Rozdelenie medzi pedagógmi a zamestnávateľmi
 
@@ -264,3 +270,4 @@ AI gramotnosť je pre nadmernú závislosť **obojstranne ostrá**: [[student-de
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Šesťfacetový inštrument pridávajúci facety zodpovedného používania a sebarozvoja, skalárne invariantný naprieč dospievajúcimi, mladými dospelými a dospelými v strednom veku
 - [[faculty-ai-well-being-social-supports-2026]] — Model štrukturálnymi rovnicami AI pohody akademického personálu, sociálnych podpôr a AI gramotnosti
 - [[bozkurt-3wai-literacy-scale-2026]] — Validovaná 17-položková samohlasovacia škála s tromi odlišnými faktormi AI gramotnosti (Know What/How/Why); Know-How a Know-Why najtesnejšie spárované (HTMT = 0.544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Syntéza desiatich najcitovanejších štúdií AI gramotnosti v STEM vzdelávaní (Hallström a spol. 2026)

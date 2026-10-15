@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 reviewed_by: [editor]
 translation_of: "concepts/ai-literacy"
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "*انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*"
 contributors: [editor]
 ai_assist:
@@ -127,6 +127,12 @@ Construct وہیں متصادم ہے جہاں معلمین کا معاملہ ہ�
 - **قدر، صرف تصدیق نہیں۔** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] نے پایا کہ جو طلبہ نے نتائج کو صرف درستگی، معتبریت، اور مطابقت کے لیے جانچا، وہ اب بھی تصوراتی سطح پر چپٹا ہوا کام قبول کرتے رہے، جب کہ جنہوں نے nuance، آواز، اور علمی نقطہ نظر بھی جانچا اُنہوں نے اسے دوبارہ لکھا — جس سے "فیصلہ کب نہ سونپا جائے" لیٹریسی کا سوال بن گیا۔
 
 یہ تنقیدی دھاگے AI لیٹریسی کے عملی اور علمی جہتوں کا مکمل ہیں: جہاں بعد والے پوچھتے ہیں "کیا سیکھنے والا AI استعمال اور جانچ سکتا ہے؟"، تنقیدی AI لیٹریسی پوچھتی ہے "کیا سیکھنے والا AI کی embodied طاقت کے ڈھانچوں کو سمجھتا اور چیلنج کرتا ہے؟"
+
+### STEM تعلیم میں AI لیٹریسی
+
+AI لیٹریسی کے لیے سب سے زیادہ ترقی یافتہ مضمراتی ثبوت کی بنیاد STEM تعلیم سے آتی ہے، اور [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky and Li (2026)]] اپنے دس سب سے زیادہ حوالہ دیے گئے مطالعات (2022–2026) کا خلاصہ پیش کرتے ہیں تاکہ بنیادی سطح اور اُس کی حدود دونوں دکھائی جا سکیں۔ پورے corpus میں، AI لیٹریسی چھ اوورلیپ ہونے والے constructs کے ذریعے متعین کی جاتی ہے — knowledge/skills/attitudes (Su & Yang 2024)، conceptual-procedural-contextual knowledge (Stolpe & Hallström 2024)، know-understand/use-apply/evaluate-create/ethics (Ng et al. 2022)، اور Long & Magerko کا use–communication–evaluation فریمنگ (Hornberger et al. 2023) — تو میدان کی \"conceptual ambiguity\" ایک پیمائش کا مسئلہ ہے: دو مطالعات دونوں \"AI لیٹریسی\" کا جائزہ لے سکتے ہیں بغیر ایک جیسے construct کا جائزہ لیے۔ دس میں سے صرف دو مکمل فریم ورک پیش کرتے ہیں۔ جائزے کی سب سے تیز تلاش ایک غیر توازن ہے — corpus تقریباً مکمل طور پر *طلبہ* کی لیٹریسی ماپتا ہے جب کہ تقریباً کچھ بھی *اساتذہ* کی ترقی نہیں کرتا، ایک فرق جو استاد کے سامنے AI لیٹریسی کے مداخلات کو ثبوت کے بجائے مفروضے پر مبنی چھوڑ دیتا ہے، اور ایک جو مصنفین اُس عملی تقاضے سے جوڑتے ہیں کہ اساتذہ خود AI لیٹریسی ہوں تاکہ ایسے مداخلات چلا سکیں۔([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+اُس corpus میں chatbot کا ثبوت fluency پر مبنی تربیت کے خلاف ہے۔ Ding et al. (2023) نے پایا کہ جامعہ کی فزکس میں ChatGPT کی تدریس نے اعتماد اور علم دونوں بڑھائے مگر AI کے بارے میں \"superhuman and infallible\" کے غلط تصور کو مستحکم کیا، اور نتیجہ نکالا کہ AI لیٹریسی کی تعلیم \"first and foremost improving students' critical thinking skills in assessing information\" ہے۔ Xu et al. (2026) نے پایا کہ ChatGPT سے چلنے والی STEM programming نے اعتماد اور علم بڑھائے مگر computational thinking اور آزاد سوچ کو بدلے بغیر چھوڑ دیا — fluency میں اضافہ اور سوچ میں کوئی اضافہ نہیں۔ دونوں نتائج اِس صفحے میں اور بیان کردہ [[trust-calibration]] اور [[cognitive-offloading|over-reliance]] کے خدشات کی عکاسی کرتے ہیں: ایک tutor جو کبھی طالب علم کی نہ مانے وہ پراعتماد سیکھنے والے پیدا کر سکتا ہے جو جانچ نہیں سکتے۔ STEM undergraduate طلبہ میں اصل AI ٹول کے استعمال کا سب سے مضبوط متعین کرنے والا رویہ نکلا، تیاری یا خود اثر آفرمی نہیں (Falebita & Kok 2025)، اور جائزہ نوٹ کرتا ہے کہ STEM کی مضمراتی کوریج حیاتیات اور فزکس کی طرف جھکی ہوئی ہے جب کہ ٹیکنالوجی ایک مضمون کے طور پر تقریباً غیر حاضر ہے۔ [[discipline-specific-aied|مضمراتی مخصوص]] ڈیزائن کے لیے، جائزے کا عملی انتباہ یہ ہے کہ جامع competency فریم ورک (UNESCO، EU/OECD) \"often lack connection to empirical research or sufficient theoretical underpinning\" ہیں اور بہت کم کلاس روم میں قابل اطلاق ہیں۔
 
 ### کس AI مہارتیں اہم ہیں؟ استاد–آجروکار فریمنگ کا فرق
 
@@ -264,3 +270,4 @@ AI لیٹریسی overreliance کے لیے **دو دھاری والی** ہے: [[
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — چھ facet آلہ ذمہ دارانہ استعمال اور خود ترقی کے facets شامل کرتے ہوئے، adolescents، young adults اور midlife adults پر scalar-invariant
 - [[faculty-ai-well-being-social-supports-2026]] — فیکلٹی AI بہبود، سماجی سہارے اور AI لیٹریسی کا structural equation ماڈل
 - [[bozkurt-3wai-literacy-scale-2026]] — تین الگ AI لیٹریسی عوامل (Know What/How/Why) والا توثیق شدہ 17 آئٹمز کا خود اطلاعی پیمانہ؛ Know-How اور Know-Why سب سے زیادہ جڑے (HTMT = 0.544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM تعلیم میں AI لیٹریسی کی دس سب سے زیادہ نقل شدہ مطالعات کا خلاصہ (Hallström et al. 2026)

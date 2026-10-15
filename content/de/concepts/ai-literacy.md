@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -128,6 +128,12 @@ Ein eigener Strang der Wissensbasis behandelt KI-Kompetenz nicht bloß als Fähi
 - **Bewertung, nicht nur Verifikation.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] fand, dass Studierende, die Ausgaben nur auf Richtigkeit, Glaubwürdigkeit und Relevanz prüften, dennoch konzeptuell abgeflachte Arbeit akzeptierten, während diejenigen, die zusätzlich Nuancierung, Stimme und epistemische Haltung beurteilten, sie neu verfassten — was „wann Urteil nicht delegiert werden sollte" zur Kompetenzfrage macht.
 
 Diese kritischen Stränge ergänzen die operativen und kognitiven Dimensionen von KI-Kompetenz: wo letztere fragen „kann die lernende Person KI nutzen und bewerten?", fragt kritische KI-Kompetenz „versteht die lernende Person die Machtstrukturen, die KI verkörpert, und stellt sie infrage?"
+
+### KI-Kompetenz in der MINT-Bildung
+
+Die am stärksten entwickelte disziplinäre Evidenzbasis für KI-Kompetenz stammt aus der MINT-Bildung, und [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky und Li (2026)]] synthetisieren ihre zehn am häufigsten zitierten Studien (2022–2026), um sowohl die Baseline als auch ihre Grenzen zu zeigen. Über das Korpus hinweg wird KI-Kompetenz durch sechs überlappende Konstrukte definiert — Wissen/Fähigkeiten/Haltungen (Su & Yang 2024), konzeptuell-prozedural-kontextuelles Wissen (Stolpe & Hallström 2024), know-understand/use-apply/evaluate-create/ethics (Ng et al. 2022) und Long & Magerkos use–communication–evaluation-Rahmung (Hornberger et al. 2023) —, sodass die „konzeptuelle Mehrdeutigkeit“ des Felds ein Messproblem ist: zwei Studien können beide „KI-Kompetenz“ erheben, ohne dasselbe Konstrukt zu erheben. Nur zwei der zehn bieten vollständige Rahmenwerke. Der schärfste Befund des Reviews ist eine Asymmetrie — das Korpus misst fast ausschließlich die Kompetenz *der Lernenden*, während es fast nichts zu der *der Lehrkräfte* entwickelt, eine Lücke, die lehrkraftgerichtete KI-Kompetenzinterventionen auf Annahme statt auf Evidenz ruhen lässt und die die Autoren mit der praktischen Anforderung verknüpfen, dass Lehrkräfte selbst KI-kompetent sein müssen, um solche Interventionen durchzuführen.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+Die Chatbot-Evidenz in jenem Korpus läuft gegen flüssigkeitsbasiertes Training. Ding et al. (2023) fanden, dass ChatGPT-Tutoring in der Universitätsphysik Zuversicht und Wissen erhöhte, aber ein „übermenschliches und unfehlbares“ Missverständnis von KI verstärkte, und schlussfolgerten, KI-Kompetenzbildung sei „first and foremost improving students' critical thinking skills in assessing information.“ Xu et al. (2026) fanden, dass ChatGPT-unterstützte MINT-Programmierung Zuversicht und Wissen verbesserte, computational thinking und eigenständiges Denken aber unverändert ließ — Zuwächse in Flüssigkeit, die ohne Zuwachs in Denken bestehen. Beide Befunde spiegeln die [[trust-calibration|Vertrauenskalibrierungs-]] und [[cognitive-offloading|Überabhängigkeits-]]Anliegen an anderer Stelle dieser Seite: ein Tutor, der der lernenden Person niemals widerspricht, kann zuversichtliche Lernende hervorbringen, die nicht bewerten können. Einstellung, nicht Bereitschaft oder Selbstwirksamkeit, erwies sich als stärkste Determinante tatsächlicher KI-Werkzeugnutzung unter MINT-Studierenden des Grundstudiums (Falebita & Kok 2025), und der Review hält fest, dass die disziplinäre MINT-Abdeckung hin zu Biologie und Physik verzerrt ist, während Technologie als Fach nahezu abwesend ist. Für [[discipline-specific-aied|fachspezifisches]] Design ist die praktische Warnung des Reviews, dass umfassende Kompetenzrahmenwerke (UNESCO, EU/OECD) „oft keine Verbindung zu empirischer Forschung oder hinreichende theoretische Fundierung“ aufweisen und wenige im Klassenzimmer anwendbar sind.
 
 ### Wessen KI-Fähigkeiten zählen? Die Spaltung zwischen Bildungspersonal und Arbeitgebern
 
@@ -264,3 +270,5 @@ KI-Kompetenz ist für Überabhängigkeit **zweischneidig**: [[student-dependency
 - [[ai-literacy-determinants-university-students-2026]] — Externe Ressourcen, digitale Kompetenz und psychologisches Profil als gemeinsame Determinanten, mit einer Vorzeichenumkehr bei Technologieangst
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Sechsfacetteninstrument, das die Facetten verantwortungsvolle Nutzung und Selbstentwicklung ergänzt, skalarinvariant über Heranwachsende, junge Erwachsene und Erwachsene mittleren Lebensalters
 - [[faculty-ai-well-being-social-supports-2026]] — Strukturgleichungsmodell zu KI-Wohlbefinden, sozialer Unterstützung und KI-Kompetenz von Lehrkräften
+- [[bozkurt-3wai-literacy-scale-2026]] — Validierte 17-Item-Selbstauskunftsskala mit drei distinkten KI-Kompetenzfaktoren (Know What/How/Why); Know-How und Know-Why am stärksten gekoppelt (HTMT = 0,544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthese der zehn am häufigsten zitierten Studien zu KI-Kompetenz in der MINT-Bildung (Hallström et al. 2026)

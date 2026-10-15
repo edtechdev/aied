@@ -9,7 +9,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,8 @@ Forschung zur Biologiebildung und KI sammelt sich um eine Spannung: KI hat die B
 **In Biologiecurricula eingebettete KI-Kompetenz.** **[[zha-ai-literacy-biology-case-study|Zha et al.]]** integrierten Konzepte maschinellen Lernens und neuronaler Netze in einen Honors-Biologiekurs der Oberstufe und fanden signifikante Zuwächse im KI-Wissen sowie dass der Biologiekontext das KI-Lernen unterstützte — ein Beleg dafür, KI-Kompetenz in [[stem-education]] einzubetten, statt sie in außercurriculare Aktivitäten abzudrängen. **[[chatgpt-math-biology-challenge-based-learning-2025|Elizondo-García et al.]]** nutzten ChatGPT innerhalb von **challenge-basiertem Lernen** in Biologie- und Mathematikkursen und fanden, dass Studierende Unmittelbarkeit schätzten, aber sich um Wahrheitsgehalt, [[teacher-role|Lehrkraft]]-Ersatz und Kompetenzerosion sorgten — sie fordern aktualisierte Codes akademischer Integrität und Ethik der KI-Nutzung.
 
 **Kritisches Denken im Zeitalter der KI.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]]** argumentieren, dass, während KI die biologische Forschung prägt, **kritisches Denken** — Skepsis, kontextuelles Verständnis und ethisches Schlussfolgern — absichtsvoll kultiviert werden muss, mit [[human-in-the-loop-ai|menschlicher Aufsicht]] als unverzichtbar, um KI-Ausgaben zu validieren und [[equity-in-ai-education|Bias]] vorzubeugen. Das verbindet sich mit den wissensbasisweiten Sorgen um [[reducing-ai-misuse]] und [[cognitive-offloading]].
+
+**Sokratische KI-Argumentationspraxis in der Lehrkräftebildung.** Ein Quasi-Experiment mit 124 angehenden Biologielehrkräften fand, dass ein ChatGPT-4-[[socratic-method|sokratischer Tutor]] zu soziowissenschaftlichen Fragen die Argumentationsqualität gegenüber der Offline-Peer-Diskussion erhöhte (adjustiert 3,91 gegenüber 3,21, F(1,121) = 14,23, p < .001), mit den größten Zuwächsen bei Widerlegungs- und Gegenbeleg-Fähigkeiten ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 
 **Spezialisierte KI-Werkzeuge und der breitere Review.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]]** reviewen die gesamte Landschaft der KI-Werkzeuge in der biologischen Bildung, einschließlich **iNaturalist und Google Lens** zur Artbestimmung, Bioimaging und Werkzeugen maschinellen Lernens, assistiver Technologien und prädiktiver Modellierung gefährdeter Studierender — neben den Herausforderungen von Integrität, Assessment-Design, Fehlinformation und kritischem Denken durch generative KI.
 
@@ -89,3 +91,4 @@ Biologiebildung liegt innerhalb der weiteren [[stem-education]]-Domäne und teil
 - [[critical-thinking-biological-sciences-ai-2025]] — Kritisches Denken in Biowissenschaften und KI
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-basierten Biologie-/Mathematikkursen
 - [[zha-ai-literacy-biology-case-study]] — KI-Kompetenz-Bildung in einem Biologiekurs
+- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence

@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/teacher-role
-source_updated: "2026-10-04T10:52:53-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -228,3 +228,4 @@ ai_assist:
 - [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI in programming education: a systematic review in which instructor roles are least studied
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — From information providers to learning designers: heutagogical teaching practices in AI-enhanced education
 - [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Диагностика на разговорном ИИ для заблуждений в преподавании с доказательной аргументацией (Miranda & Calvani 2026)

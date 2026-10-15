@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,8 @@ ai_assist:
 **残障学生的政策与便利安排。** **[[shin-ai-policies-sld-2026|Shin 等]]** 分析美国的 AI 政策文件，揭示出对特定学习障碍学生的指导空白，并提出以[[assistive-technology|辅助技术法]]与 IDEA 为据的便利安排与[[educational-policy-ai|政策]]建议。**[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang 等]]** 对 29 项面向残障学生的 AI 干预研究做元分析，发现对[[learning-gains|学习结果]]有中等正向效应（g = 0.588）——并主张 AI 必须做的不仅是确保可及性：它必须促成[[agency|能动性的]]参与。
 
 **过度包容的 AI 禁令与辅助性转录。** **[[wright-transcription-not-generation-2026|Wright（2026）]]** 论证，对"AI 使用"的一刀切禁令是过度包容的，因为它未能区分语音转文本转录与 OCR 和生成式起草：识别技术转换的是学生已创作内容的*格式*，而非生产新内容，然而一份围绕平台身份撰写的政策会不加区分地把两者一并捕获。患有影响精细动作控制、书写可辨识性或打字准确性状况的学生——包括自闭症谱系状况、运用障碍、脑瘫与重复性劳损——长期依赖独立的语音转文本与 OCR，而有报告表明若干独立语音转文本产品已停产或性能退化，留下 AI 驱动的转录去填补这一功能缺口。把这种替代当作不当行为处理，在英国《2010 年平等法》的合理调整义务、公共部门平等义务、美国《残障美国人法》与澳大利亚《1992 年残障歧视法》之下都会引发公平问题，尽管该文并未主张这一定性已在仲裁庭受到检验。它指出，残障、辅助技术与 AI 不当行为政策三者的交叉研究不足，这种置换的规模尚未被测量，而同一不精确性还会造成不同的假阳性风险，因为检测器会把非英语母语写作者的低困惑度文本读成机器所写。这种过度包容造成的法律风险映射在[[legal-issues-and-risks]]上。
+
+**抗机器性带有可读性代价。** 条纹叠加对抽取的损害最大（字符错误率 +35.9%，词错误率 +38.3%），但四位排版与设计专家判定竖直条纹是可读的，而斜条纹破坏了字形并被判定为不可读，且极端的透明度变化只在同样损害人类可读性的强度上才有帮助（[[airri-machine-resistant-reading-interface-2026|Salaun 等（2026）]]）。
 
 **面向阅读障碍的 AI：检测、支持与[[personalized-learning|个性化学习]]。** 一项 2026 年的跨学科[[meta-analysis-systematic-review|系统综述]]（Dabaghi、D'Urso 与 Sciarrone，PRISMA 引导，2018–2024，n=72）发现 AI 在检测、辅助支持与个性化学习三方面支持阅读障碍学生——但三条脉络各自平行演化而非整合，更多由技术机会而非巩固的教育理论驱动。基于机器学习的帮助教育工具横跨五个领域（具体应用、投入、个性化、推荐、通用支持），却偏重技术性能与分类准确率，而忽视生态效度与实际的课堂部署。检测研究（EEG、眼动追踪、机器学习模型）对早期干预显示出诊断前景，但常需要专门设备与受控环境，限制了在典型学校情境中的可扩展性与可及性。开放的挑战包括实验验证不足、可扩展性、敏感学生数据的[[ethics]]/[[privacy]]顾虑、[[teacher-role|教师]]支持与培训有限，以及语言与文化障碍（多数研究面向英语人群）——再次印证可及性必须经过验证、可扩展、以伦理为根基，而非仅仅技术上成立。
 
@@ -112,4 +114,5 @@ ai_assist:
 - [[khlaif-assistive-genai-visually-impaired-2026]] — 面向视障学习者的辅助性 GenAI
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
 - [[wright-transcription-not-generation-2026]] — 转录不是生成：过度包容的 AI 禁令及其捕获的辅助工具
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI：面向人类可读、抗机器的阅读界面
 - [[ad4edu-lecture-audio-description-2026]] — AD4EDU：跨可及性标准、指标与学习者偏好的大学讲座音频描述基准

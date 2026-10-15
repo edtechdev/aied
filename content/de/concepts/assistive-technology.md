@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,7 @@ Ein Scoping Review aus dem Jahr 2026 zu digitalen assistiven [[ai-technologies|T
 - **Passen Sie das Werkzeug zum Lernenden und zur Aufgabe an.** Screenreader, Untertitel, Sprache und taktile Ausgabe adressieren jeweils unterschiedliche Barrieren – wählen Sie nach den Bedürfnissen der Einzelperson und dem Format der Inhalte.
 - **Nutzen Sie KI, um die Kosten assistiver Anpassungen zu senken.** KI kann automatisch untertiteln, Texte vereinfachen und Alternativen erzeugen, prüfen Sie aber die Qualität der Ausgabe auf pädagogische Genauigkeit.
 - **Verankern Sie die Bereitstellung in der Politik.** Beziehen Sie sich auf den Assistive Technology Act, IDEA und WCAG, wenn Sie KI-Werkzeuge beschaffen oder bauen.
+- **Benennen Sie, welche Funktion die Unterstützung erfüllt — und evaluieren Sie gegen diese Funktion.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] unterscheiden Kompensation (evaluiert über Zugang und Teilhabe) von Gerüstbau (Entscheidungen mit Unterstützung) von Entwicklung (Strategienutzung nach Ausblenden oder Transfer). Sie fügen eine Regel hinzu, die auf die Mahnung dieser Seite abzielt: Unterstützung bei Barrierefreiheit ist keine Remediation — ob ein Werkzeug eine Anpassung, Strategieinstruktion oder vorübergehende Übungsunterstützung ist, „sollte im Lernplan festgehalten werden“.
 
 ## Verbundene Konzepte
 - [[accessibility]] — die Gestaltungseigenschaft, die assistive Technologien operationalisieren

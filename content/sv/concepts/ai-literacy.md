@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 reviewed_by: [editor]
 translation_of: "concepts/ai-literacy"
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
@@ -126,6 +126,12 @@ En distinkt spår i kunskapsbasen behandlar AI-kompetens inte enbart som färdig
 - **Värdering, inte bara verifiering.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] fann att elever som enbart kontrollerade resultat för korrekthet, trovärdighet och relevans ändå accepterade begreppsmässigt tillplattade arbeten, medan de som också bedömde nyans, röst och epistemisk hållning omskrev dem — vilket gör "när man inte ska delegera omdöme" till kompetensfrågan.
 
 Dessa kritiska spår kompletterar de operativa och kognitiva dimensionerna av AI-kompetens: där de senare frågar "kan eleven använda och utvärdera AI?", frågar kritisk AI-kompetens "förstår eleven och utmanar de maktstrukturer AI förkroppsligar?"
+
+### AI-kompetens inom STEM-undervisningen
+
+Det mest utvecklade disciplinspecifika bevismaterialet för AI-kompetens kommer från STEM-undervisningen, och [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky och Li (2026)]] syntetiserar dess tio mest citerade studier (2022–2026) för att visa både baslinjen och dess gränser. Över materialet definieras AI-kompetens genom sex överlappande begrepp — kunskap/färdigheter/attityder (Su & Yang 2024), begreppsmässig-procedural-kontextuell kunskap (Stolpe & Hallström 2024), know-understand/use-apply/evaluate-create/ethics (Ng et al. 2022) och Long & Magerkos inramning av use–communication–evaluation (Hornberger et al. 2023) — så fältets ”begreppsliga tvetydighet" är ett mätproblem: två studier kan båda bedöma ”AI-kompetens" utan att bedöma samma begrepp. Endast två av de tio erbjuder fullständiga ramverk. Genomgångens skarpaste fynd är en asymmetri — materialet mäter nästan uteslutande *elevernas* kompetens medan nästan ingenting utvecklar *lärarnas*, ett gap som lämnar lärarinriktade insatser för AI-kompetens vilande på antagande snarare än bevis, och som författarna kopplar till det praktiska kravet att lärarna själva vara AI-kompetenta för att driva sådana insatser.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+Chatbotbevisen i materialet talar mot flytbaserad träning. Ding m.fl. (2023) fann att ChatGPT-handledning inom universitetsfysik höjde självförtroende och kunskap men förstärkte en missuppfattning om AI som ”övermänsklig och ofelbar", och drog slutsatsen att undervisning i AI-kompetens är ”i första hand att förbättra elevernas förmåga till kritiskt tänkande vid bedömning av information". Xu m.fl. (2026) fann att ChatGPT-stött programmering inom STEM förbättrade självförtroende och kunskap men lämnade komputationellt tänkande och självständigt tänkande oförändrade — vinster i flyt som samexisterar med ingen vinst i tänkande. Båda fynden speglar oron för [[trust-calibration|förtroendekalibrering]] och [[cognitive-offloading|överberoende]] på andra håll på denna sida: en handledare som aldrig motsäger eleven kan producera tillitsfulla elever som inte kan utvärdera. Attityd, inte beredskap eller självtillit, visade sig vara den starkaste determinanten för faktiskt AI-verktygsbruk bland grundstuderande inom STEM (Falebita & Kok 2025), och genomgången noterar att den disciplinära täckningen inom STEM lutar mot biologi och fysik med teknik som ämne nästan frånvarande. För [[discipline-specific-aied|disciplinspecifik]] design är genomgångens praktiska varning att omfattande kompetensramverk (UNESCO, EU/OECD) ”ofta saknar koppling till empirisk forskning eller tillräckligt teoretiskt underlag" och att få är klassrumsapplicerbara.
 
 ### Vems AI-färdigheter räknas? Klyftan mellan pedagogers och arbetsgivares ramar
 
@@ -262,3 +268,4 @@ AI-kompetens är **tv eggad** för överberoende: [[student-dependency-on-ai-lit
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Sexfasettsinstrument som lägger till fasetterna ansvarsfull användning och självutveckling, skalärinvariant över ungdomar, unga vuxna och vuxna i medelåldern
 - [[faculty-ai-well-being-social-supports-2026]] — Strukturekvarationsmodell för fakultetens välbefinnande i AI-arbete, socialt stöd och AI-kompetens
 - [[bozkurt-3wai-literacy-scale-2026]] — Validerad självskattningsskada med 17 poster med tre distinkta AI-kompetensfaktorer (Know What/How/Why); Know-How och Know-Why närmast kopplade (HTMT = 0.544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Syntes av de tio mest citerade studierna om AI-kompetens inom STEM-undervisningen (Hallström m.fl. 2026)

@@ -11,7 +11,7 @@ connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-04T05:46:16-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -181,3 +181,4 @@ ai_assist:
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Адаптивная помощь в преподавании, сочетающая генеративный ИИ и аналитику больших данных, в музыкальном образовании
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Использование LLM студентами и пределы сложности генерируемых ИИ вопросов в курсах data science
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — Инфраструктура непрерывного оценивания, опосредованного ИИ (AIM-CAI): связывание доказательств обучения между контекстами и временем (McNamara & Hasnine 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Диагностика на разговорном ИИ для заблуждений в преподавании с доказательной аргументацией (Miranda & Calvani 2026)
