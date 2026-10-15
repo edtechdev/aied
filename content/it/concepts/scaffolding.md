@@ -11,7 +11,7 @@ assessment: [feedback]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/scaffolding
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -144,3 +144,4 @@ La distinzione tra guidato da regole e ad hoc si estende oltre il tutor e fin de
 - [[genai-cognitive-scaffold-geometric-reasoning-2026]] — L'IA generativa come scaffold di stimolo che fa da ponte dall'intuizione visiva alla dimostrazione deduttiva in geometria, dove la sola visualizzazione è insufficiente (Davor 2026)
 - [[guided-ai-tutor-impasse-resolution-2026]] — Examining Variation in How Guided AI Tutors Resolve Student Impasses
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — L'addestramento di chi apprende come scaffolding per l'uso dell'IA generativa nella risoluzione di problemi STEM (Huang et al. 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)

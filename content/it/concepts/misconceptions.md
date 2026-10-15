@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 reviewed_by: [editor]
 translation_of: "concepts/misconceptions"
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,8 @@ I fraintendimenti sull'IA non sono confinati a chi apprende — sono pervasivi t
 - **Il pubblico generale** assorbe le narrazioni dei media e dei produttori sulle capacità e i rischi dell'IA. Poiché gli studenti apprendono all'interno di questo discorso, i miti pubblici diventano il substrato da cui crescono i fraintendimenti studenteschi. Correggere i fraintendimenti sull'IA è quindi un compito di [[ai-literacy|alfabetizzazione sull'IA]] rivolto all'intero ecosistema educativo, non solo a chi apprende.
 
 Questa ampiezza è il motivo per cui la knowledge base tratta i fraintendimenti come un tema fondativo trasversale anziché puramente rivolto agli studenti: gli stessi errori di calibrazione ricorrono attraverso chi apprende, gli insegnanti, le istituzioni e il pubblico, e correggerli richiede di affrontare sia le credenze individuali sia il discorso che le alimenta.
+
+I fraintendimenti pedagogici degli insegnanti ne sono l'immagine speculare: non fraintendimenti sull'IA, ma credenze sull'insegnamento prive di supporto empirico che persistono indipendentemente dall'IA. [[etq-ai-conversational-teacher-training-2026|Miranda e Calvani (2026)]] li misurano con l'Effective Teaching Questionnaire, in cui 50 item binari sono mappati su effect size meta-analitici (d ≥ 0,40), così che la risposta di un insegnante possa essere confrontata con un benchmark allineato all'evidenza — e il loro risultato è che i fraintendimenti sono profondi e specifici. In un pilota con 123 educatori italiani, il disaccordo si concentrava maggiormente sugli stili di apprendimento cognitivi (il 78% degli insegnanti difendeva la corrispondenza visiva/uditiva), sull'inclusione e il lavoro di gruppo (68%) e sul sovraccarico di EdTech (54%), con un allineamento medio vicino al 50% nelle dimensioni di pianificazione, cognitive, valutative e gestionali. Due dettagli contano per la progettazione della correzione. Primo, i fraintendimenti sopravvivono alla formazione universitaria e alla pratica docente — gli autori descrivono un \"senso comune interiorizzato\" che \"precede l'ingresso a scuola\" e persiste — quindi non sono lacune di conoscenza che una lezione può colmare. Secondo, quando gli stessi item venivano presentati attraverso un'IA conversazionale che validava il contesto dell'insegnante prima di reintrodurre l'evidenza, il 41% delle obiezioni riguardava vincoli contestuali reali (dimensione della classe, bisogni speciali, copertura del curriculum) anziché l'evidenza stessa, e il 5,9% rifiutava il sistema come una \"macchina di dogma algoritmico" — la condizione al contorno in cui l'inquadramento normativo genera difensività anziché riflessione. Per lo sviluppo della [[teacher-ai-competency|competenza di IA dei docenti]] l'implicazione è che la diagnosi più il dialogo possono far emergere quali credenze siano disaccordo fondato sull'evidenza e quali siano fraintendimento, una distinzione che un solo punteggio non può fare.
 
 ### Correggere i fraintendimenti
 
@@ -142,4 +144,5 @@ Queste confutazioni sono deliberatamente scritte nella forma del [[refutation-te
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: spiegazioni fluenti e autorevoli che sono errate concettualmente anziché fattualmente (Miličević e colleghi 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Istruzioni nascoste in un file consegnato possono alzare un voto assegnato dall'IA senza alcun avviso visibile (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — I fraintendimenti dei bambini sulla sicurezza dell'IA: l'amicizia con un robot letta come garanzia di privacy (Leisten e colleghi 2026)
+- [[children-ai-safety-misconceptions-2026]] — I fraintendimenti dei bambini sulla sicurezza dell'IA: l'amicizia con un robot lettore interpretata come una garanzia di privacy (Leisten e colleghi 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
