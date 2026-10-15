@@ -1,6 +1,6 @@
 ---
 connected_resources: [drawsplat]
-title: Privacy
+title: "Privacy"
 created: "2026-10-14T21:55:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept

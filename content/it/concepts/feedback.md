@@ -1,6 +1,6 @@
 ---
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
-title: Feedback
+title: "Feedback"
 created: "2026-10-14T22:14:00-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]

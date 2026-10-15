@@ -1,5 +1,5 @@
 ---
-title: RCT
+title: "ECA (Studio Clinico Randomizzato Controllato)"
 created: "2026-10-14T21:55:00-04:00"
 type: concept
 foundations: [ai-education]

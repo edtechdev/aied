@@ -3124,11 +3124,11 @@ L'identità dello studente si collega all'[[agency|agenzia]] (l'identità si ese
 
 ---
 
-## [Design Thinking](https://edtechdev.github.io/aied/concepts/design-thinking/)
+## [Pensiero progettuale (Design Thinking)](https://edtechdev.github.io/aied/concepts/design-thinking/)
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-> **Design Thinking** — un concetto chiave nella ricerca sull'[[ai-education|IA nell'educazione]]: un processo iterativo e centrato sull'uomo di risoluzione dei problemi (tipicamente Empatizza → Definisci → Ideazione → Prototipa → Testa) che porta gli apprendenti dalla comprensione di un problema alla produzione e all'affinamento di una soluzione. Esplorato attraverso 8 articoli in questa base di conoscenza.
+> **Pensiero progettuale** — un concetto chiave nella ricerca sull'[[ai-education|IA nell'educazione]]: un processo iterativo e centrato sull'uomo di risoluzione dei problemi (tipicamente Empatizza → Definisci → Ideazione → Prototipa → Testa) che porta gli apprendenti dalla comprensione di un problema alla produzione e all'affinamento di una soluzione. Esplorato attraverso 8 articoli in questa base di conoscenza.
 
 ## Domande da considerare
 
@@ -4933,7 +4933,7 @@ La [[research-methods-aied|ricerca]] sopra riportata converge su alcuni pattern 
 
 ---
 
-## [Scaffolding](https://edtechdev.github.io/aied/concepts/scaffolding/)
+## [Scaffolding (impalcatura)](https://edtechdev.github.io/aied/concepts/scaffolding/)
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -9911,7 +9911,7 @@ Gli LLM affermano anche preferenzialmente: su 11 modelli, le risposte dell'IA af
 
 ---
 
-## [RAG (Retrieval-Augmented Generation)](https://edtechdev.github.io/aied/concepts/rag/)
+## [RAG (Generazione Aumentata da Recupero)](https://edtechdev.github.io/aied/concepts/rag/)
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -11466,7 +11466,7 @@ Il modellamento dello studente e l'istruzione adattiva alimentano l'[[learning-a
 
 ---
 
-## [Knowledge Tracing](https://edtechdev.github.io/aied/concepts/knowledge-tracing/)
+## [Tracciamento delle conoscenze](https://edtechdev.github.io/aied/concepts/knowledge-tracing/)
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -12467,7 +12467,7 @@ Un feedback migliore non equivale a un apprendimento migliore: personalizzare un
 
 ---
 
-## [Affective Tutoring](https://edtechdev.github.io/aied/concepts/affective-tutoring/)
+## [Tutoraggio affettivo](https://edtechdev.github.io/aied/concepts/affective-tutoring/)
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -12548,7 +12548,7 @@ Il tutoraggio affettivo si interseca con [[hazra-safetutors-pedagogical-safety-2
 
 ---
 
-## [Affective Computing](https://edtechdev.github.io/aied/concepts/affective-computing/)
+## [Computazione affettiva](https://edtechdev.github.io/aied/concepts/affective-computing/)
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -12623,7 +12623,7 @@ L'affective computing si trova all'intersezione tra [[affective-tutoring]] (la s
 
 ---
 
-## [Human-in-the-Loop](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/)
+## [IA con intervento umano (HITL)](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/)
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -17555,7 +17555,7 @@ Una seconda linea di ricerca tratta l'IA come partecipante piuttosto che come st
 
 ---
 
-## [E-Portfolio](https://edtechdev.github.io/aied/concepts/eportfolio/)
+## [E-portfolio (portafoglio elettronico)](https://edtechdev.github.io/aied/concepts/eportfolio/)
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -20189,7 +20189,7 @@ La ricerca sull'usabilità condivide i metodi di raccolta dati con la [[qualitat
 
 ---
 
-## [RCT](https://edtechdev.github.io/aied/concepts/rct/)
+## [ECA (Studio Clinico Randomizzato Controllato)](https://edtechdev.github.io/aied/concepts/rct/)
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
@@ -20742,7 +20742,7 @@ Servono benchmark condizionati dal contesto: [[zhang-tutormoments-2026|Zhang et 
 
 ---
 
-## [Benchmark](https://edtechdev.github.io/aied/concepts/benchmark/)
+## [Benchmark (riferimento di confronto)](https://edtechdev.github.io/aied/concepts/benchmark/)
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
