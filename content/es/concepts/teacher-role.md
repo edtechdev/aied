@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-10-04T10:52:53-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -161,6 +161,10 @@ El rol docente y la [[learner-identity|identidad del estudiantado]] son caras re
 
 - El rol del profesorado se extiende al codiseño de recursos de aprendizaje con IA: las [[simulation|simulaciones]] codiseñadas entre profesorado e IA para la enseñanza STEM con drones mantuvieron la salida de la IA generativa pedagógicamente válida y contextualmente pertinente, y el profesorado es el destinatario previsto de la Escala de Alfabetización en IA del Profesorado. Una integración eficaz de la IA generativa depende cada vez más de la implicación del profesorado en el diseño.
 
+### Los sistemas de reflexión con IA deben adaptarse a la experiencia del profesorado
+
+- **La regla de diseño que se deriva de esta división son los modos de recomendación adaptados a la experiencia.** El profesorado experimentado quiere analítica sobre el aprendizaje mejorado después de ayudar a un estudiante (40% frente a 26%, p = .019) y sobre sus métodos de enseñanza (42% frente a 26%, p = .012), y su principal obstáculo es el seguimiento del desempeño (28% frente a 15%, p = .009). Regla de diseño: modo novato = avisos estructurados y analítica de implicación; modo experto = análisis longitudinal flexible, lo que es un argumento directo contra cuadros de mando uniformes. ([[falhs-teacher-expertise-reflection-2025]])
+
 ## Conceptos conectados
 - [[pedagogical-partnerships]] — Alianzas pedagógicas
 - [[learner-identity]] — identidades de quien aprende en evolución: disciplinares, profesionales, creativas y académicas
@@ -231,3 +235,5 @@ El rol docente y la [[learner-identity|identidad del estudiantado]] son caras re
 - [[kuhail-great-debaters-ai-facilitators-2026]] — Moderadores de debate humanos frente a moderadores de IA: valoraciones equivalentes, rutas distintas hacia la reutilización
 - [[yalcin-genai-programming-education-systematic-review-2026]] — La IA generativa en la educación en programación: una revisión sistemática en la que los roles del profesorado son lo menos estudiado
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — De proveedores de información a diseñadores del aprendizaje: prácticas docentes heutagógicas en la educación realzada con IA
+- [[falhs-teacher-expertise-reflection-2025]] — Cómo los niveles de experiencia configuran las preferencias y las necesidades de reflexión: hacia sistemas de reflexión con IA para el empoderamiento del profesorado (Falhs et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico con IA conversacional para las ideas erróneas docentes mediante diálogo fundamentado en la evidencia (Miranda y Calvani 2026)

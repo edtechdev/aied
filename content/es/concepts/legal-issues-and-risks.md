@@ -119,5 +119,4 @@ En los programas profesionales, la exposición no termina con la graduación. Gu
 - [[li-genai-assessment-language-equity-2026]] — La equidad lingüística como problema de diseño de reglas: el límite entre apoyo y sustitución, la discriminación indirecta y la revisabilidad (Li 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Estudiantes que atacan a los correctores de IA mediante inyección indirecta de prompts, con calificaciones modificadas sin ser detectadas (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — Indicadores de gobernanza y programa de reforma para autenticar la evaluación (Coates, Croucher y Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1.057 docentes estadounidenses: las políticas individuales superan con creces a las institucionales y la respuesta estructural es débil (Watson y Rainie 2026)
-- [[edtech-privacy-deferral-2026]] — «Ya lo arreglaremos más adelante»: educación, IA y el aplazamiento de la privacidad del estudiantado en la tecnología educativa
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1.057 docentes estadounidenses: las políticas individuales superan con creces a las institucionales y la respuesta estructural es la creación de capacidad
