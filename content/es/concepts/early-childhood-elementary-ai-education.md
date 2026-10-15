@@ -65,6 +65,8 @@ Como los estudiantes jóvenes son más vulnerables y menos capaces de autorregul
 
 Una primera ventana de neuroimagen sobre esta cuestión llega con una cautela: niños de 6 a 7 años que mantuvieron una conversación hablada de cinco minutos con ChatGPT en un escáner de resonancia magnética mostraron una conectividad dentro de la red más débil que los adultos en las redes de control frontoparietal, de relevancia y de atención dorsal, con puntuaciones de creatividad equiparadas, y carecían del acoplamiento creatividad–conectividad que mostraban los adultos. Como esas funciones ejecutivas aún son inmaduras en el primer curso, los autores leen el resultado como relevante para el debate sobre la edad mínima, a la vez que señalan como límites de lo que zanja un posible sesgo de encuadre y la ausencia de un control sin ChatGPT ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]).
 
+Una comparación de cuatro países agudiza la brecha curricular: las directrices nacionales de educación infantil de Japón, Corea del Sur y China no contienen ninguna referencia explícita a la alfabetización en IA (el plan de acción de la ciudad de Shanghái es la única excepción, y no especifica progresiones de aprendizaje), mientras que Australia muestra solo una alineación limitada y desigual —más fuerte en la interacción con agentes de IA, ausente en la comprensión de las relaciones entre personas e IA—, lo que deja la alfabetización en IA al hogar ([[ai-literacy-ecec-curricula-four-country-2026|Cohrssen et al. (2026)]]).
+
 ## Conceptos conectados
 
 - [[k-12]]
@@ -105,3 +107,4 @@ Una primera ventana de neuroimagen sobre esta cuestión llega con una cautela: n
 - [[creative-project-approach-ai-early-childhood-2025]] — El Enfoque por Proyectos Creativos: un marco para adaptar agentes de IA y robótica al aprendizaje temprano (Yang, Li y Lee 2025)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Primera comparación por neuroimagen de niños y adultos conversando con ChatGPT: redes de control, atención y memoria menos integradas en niños de 6 a 7 años
 - [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: puntuaciones CLASS Pre-K valoradas por IA frente a evaluadores humanos entrenados en guarderías de Hong Kong (Fong et al. 2026)
+- [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison
